@@ -185,6 +185,27 @@ def analyze_persona(user: str = "olga") -> str:
 
 
 @app.tool()
+def export_brain_graph(user: str = "olga", max_cards: int = 1800) -> str:
+    """Generate and export a 3D interactive living knowledge graph HTML visualization.
+
+    Inspired by cosmic brain graph interfaces, it visualizes all evidence cards,
+    sources, and topics as a 3D orbital constellation with real-time search,
+    orbit controls, and deep quote inspection.
+
+    Args:
+        user: Lowercase user slug under users/ (default: 'olga')
+        max_cards: Maximum evidence cards to include in the 3D scene (default: 1800)
+    """
+    try:
+        from .graph import build_graph
+
+        out = build_graph(user=user, max_cards=max_cards)
+        return f"Generated 3D living brain graph HTML: {out}"
+    except (ValueError, RuntimeError, OSError) as e:
+        return f"Failed to generate 3D brain graph: {e}"
+
+
+@app.tool()
 def run_ingest(
     user: str = "olga",
     model: str = "",

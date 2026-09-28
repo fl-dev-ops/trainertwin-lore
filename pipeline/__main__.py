@@ -118,6 +118,15 @@ def cli() -> None:
     verify.add_argument(
         "--note", required=True, help="What exactly was checked, and any qualification"
     )
+    graph_cmd = sub.add_parser(
+        "graph", help="Export 3D interactive living knowledge graph HTML"
+    )
+    graph_cmd.add_argument(
+        "--max-cards", type=int, default=1800, help="Max cards to render (default: 1800)"
+    )
+    graph_cmd.add_argument(
+        "--open", action="store_true", help="Open in default browser after generation"
+    )
     args = parser.parse_args()
     if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", args.user):
         parser.error("--user must be a lowercase slug (e.g. jane-doe)")
@@ -145,6 +154,14 @@ def cli() -> None:
         return
     if args.command == "lint":
         print(js(lint(workspace, source_dir)), end="")
+        return
+    if args.command == "graph":
+        from .graph import build_graph
+        out = build_graph(user=args.user, max_cards=args.max_cards)
+        print(f"Generated 3D living knowledge graph: {out}")
+        if getattr(args, "open", False):
+            import subprocess
+            subprocess.run(["open", str(out)], check=False)
         return
     if args.command == "analyze":
         with one_writer(workspace):
