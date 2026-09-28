@@ -44,7 +44,7 @@ def extract_slug(target: str) -> str:
 
 
 def normalize_profile_url(target: str) -> str:
-    if target.startswith("http://") or target.startswith("https://"):
+    if target.startswith(("http://", "https://")):
         return target
     return f"https://www.linkedin.com/in/{target.strip('/')}/"
 
@@ -110,7 +110,7 @@ def fetch_comments_for_post(post_url: str, api_key: str) -> list[dict[str, Any]]
     try:
         data = fetch_harvest("/linkedin/post-comments", {"post": post_url}, api_key)
         return data.get("elements", [])
-    except Exception as exc:
+    except (ValueError, httpx.HTTPError) as exc:
         print(f"Warning: failed to fetch comments for {post_url}: {exc}", file=sys.stderr)
         return []
 

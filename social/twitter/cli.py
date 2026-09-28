@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """CLI tool to fetch Twitter/X data via TwitterAPI.io and export as YAML and Markdown."""
 
 import argparse
@@ -234,10 +233,9 @@ def to_iso_datetime(date_str: str) -> str:
     if not date_str:
         return ""
     try:
-        from datetime import datetime, timezone
         dt = datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y")
-        return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    except Exception:
+        return dt.astimezone(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
+    except ValueError:
         return date_str
 
 
@@ -245,10 +243,9 @@ def make_tweet_filename(content: str | None, tweet_id: str, date_str: str | None
     prefix = ""
     if date_str:
         try:
-            from datetime import datetime
             dt = datetime.strptime(date_str, "%a %b %d %H:%M:%S %z %Y")
             prefix = dt.strftime("%Y-%m-%d-")
-        except Exception:
+        except ValueError:
             prefix = date_str[:10].replace(" ", "-") + "-"
     words = re.sub(r"[^\w\s-]", "", content or "").split()[:5]
     slug_part = "-".join(w.lower() for w in words)

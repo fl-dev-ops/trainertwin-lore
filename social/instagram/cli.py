@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """CLI tool to fetch Instagram data via Apify and export as YAML and Markdown."""
 
 import argparse

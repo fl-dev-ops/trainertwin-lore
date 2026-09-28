@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """CLI tool for YouTube video extraction, audio downloading, and Sarvam AI transcription."""
 
 import argparse
@@ -7,7 +6,6 @@ import os
 import re
 import subprocess
 import sys
-import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -45,6 +43,7 @@ def ffprobe_duration(path: Path) -> str:
         ["ffprobe", "-v", "quiet", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
         capture_output=True,
         text=True,
+        check=False,
     )
     try:
         return hhmmss(float(out.stdout.strip()))
@@ -91,7 +90,7 @@ def fetch_channel_videos(channel_url: str, max_videos: int | None = None) -> lis
         channel_url,
     ]
     print(f"Extracting video list from {channel_url}...", file=sys.stderr)
-    proc = subprocess.run(cmd, capture_output=True, text=True)
+    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
     if proc.returncode != 0:
         print(f"Error fetching channel metadata: {proc.stderr}", file=sys.stderr)
         sys.exit(1)
@@ -143,7 +142,7 @@ def download_video_audio(video_url: str, output_dir: Path) -> Path | None:
         video_url,
     ]
     print(f"Downloading audio: {video_url}...", file=sys.stderr)
-    res = subprocess.run(cmd, capture_output=True, text=True)
+    res = subprocess.run(cmd, capture_output=True, text=True, check=False)
     if res.returncode != 0:
         print(f"Failed to download {video_url}: {res.stderr}", file=sys.stderr)
         return None

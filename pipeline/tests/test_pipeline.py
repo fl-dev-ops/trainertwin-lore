@@ -601,3 +601,71 @@ def test_mcp_server_tools(tmp_path, monkeypatch):
     topics_data = json.loads(topics_raw)
     assert "client-discovery" in topics_data["topics"]
 
+
+def test_mcp_ingest_build_and_metadata_only_sources(tmp_path, monkeypatch):
+    from pipeline import mcp
+
+    monkeypatch.setattr(mcp, "ROOT", tmp_path)
+    root = tmp_path / "users" / "jane-doe" / "data"
+    make_source(root / "youtube" / "transcripts", "01")
+    (root / "youtube" / "channel.yaml").write_text(
+        yaml.safe_dump({"channel_url": "https://youtube.com/@jane", "videos": []})
+    )
+    model = FakeModel()
+    model.close = lambda: None
+    monkeypatch.setattr(mcp, "_get_client", lambda _: model)
+
+    preview = json.loads(mcp.run_ingest("jane-doe", dry_run=True))
+    assert preview["sources_to_process"] == 1
+    assert preview["estimated_chunks"] == 1
+    assert "using 1 extraction call" in mcp.run_ingest("jane-doe", max_calls=5)
+    assert "using 0 extraction call" in mcp.run_ingest("jane-doe", max_calls=5)
+    assert "Build completed" in mcp.build_wiki("jane-doe", max_calls=20)
+    assert json.loads(mcp.lint_workspace("jane-doe"))["evidence"] == 1
+
+
+def test_mcp_read_paths_stay_in_user_workspace(tmp_path, monkeypatch):
+    from pipeline import mcp
+
+    monkeypatch.setattr(mcp, "ROOT", tmp_path)
+    root = tmp_path / "users" / "jane-doe"
+    (root / "data").mkdir(parents=True)
+    (root / "workspace" / "wiki" / "behavior").mkdir(parents=True)
+    (root / "workspace" / "reports").mkdir()
+    (root / "workspace" / "reports" / "analysis.md").write_text("Private report")
+    outside = tmp_path / "outside.md"
+    outside.write_text("Private outside text")
+
+    assert "Unknown report name" in mcp.read_report("jane-doe", str(outside.with_suffix("")))
+    assert "Invalid topic slug" in mcp.get_wiki_topic("jane-doe", "../../reports/analysis")
+    assert "lowercase slug" in mcp.read_report("../jane-doe", "analysis")
+    (root / "workspace" / "reports" / "timeline.md").symlink_to(outside)
+    assert "inside the workspace" in mcp.read_report("jane-doe", "timeline")
+    assert mcp.read_report("jane-doe", "analysis") == "Private report"
+
+
+def test_profile_uses_selected_user_metadata_and_escapes_posts(tmp_path, monkeypatch):
+    from pipeline import profile
+
+    monkeypatch.setattr(profile, "ROOT", tmp_path)
+    data = tmp_path / "users" / "jane-doe" / "data"
+    (data / "linkedin" / "posts").mkdir(parents=True)
+    (data / "youtube").mkdir()
+    (data / "linkedin" / "jane.yaml").write_text(
+        yaml.safe_dump({"profile": {"fullName": "Jane <Doe>", "headline": "Coach", "summary": "Learning <together>", "url": "https://linkedin.com/in/jane"}})
+    )
+    (data / "linkedin" / "posts" / "note.md").write_text(
+        "---\nurl: 'https://linkedin.com/posts/jane'\n---\n\n<script>alert(1)</script>\n"
+    )
+    (data / "youtube" / "channel.yaml").write_text(
+        yaml.safe_dump({"channel_url": "https://youtube.com/@jane", "videos": [{"id": "abc123", "title": "A <video>", "url": "https://youtube.com/watch?v=abc123"}]})
+    )
+    html = profile.build_profile("jane-doe").read_text()
+    assert "Jane &lt;Doe&gt;" in html and "Learning &lt;together&gt;" in html
+    assert "A &lt;video&gt;" in html and "&lt;script&gt;" in html
+    assert "Olga" not in html and "olgasi" not in html
+    assert 'class="verified-badge"' not in html
+    assert "https://linkedin.com/in/jane" in html
+    with pytest.raises(ValueError, match="lowercase slug"):
+        profile.build_profile("../jane-doe")
+

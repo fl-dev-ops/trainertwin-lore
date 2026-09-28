@@ -18,16 +18,9 @@ from pathlib import Path
 from dotenv import load_dotenv
 from mcp.server.mcpserver import MCPServer
 
+from .__main__ import one_writer
 from .client import OpenRouter
-from .core import (
-    analyze,
-    build,
-    chunks,
-    ingest_one,
-    lint,
-    load_json,
-    read_source,
-)
+from .core import analyze, build, chunks, ingest_one, lint, load_json, read_source
 from .sources import paths, source_id
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -42,6 +35,8 @@ app = MCPServer(
 
 
 def _get_user_paths(user: str) -> tuple[Path, Path]:
+    if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", user):
+        raise ValueError("User must be a lowercase slug (e.g. jane-doe)")
     user_root = ROOT / "users" / user
     source_dir = (user_root / "data").resolve()
     workspace = (user_root / "workspace").resolve()
@@ -122,7 +117,12 @@ def read_report(user: str = "olga", report_name: str = "analysis") -> str:
     """
     try:
         _, workspace = _get_user_paths(user)
-        target = workspace / "reports" / f"{report_name}.md"
+        if report_name not in {"analysis", "timeline", "persona-prompt"}:
+            raise ValueError("Unknown report name")
+        reports = workspace / "reports"
+        target = reports / f"{report_name}.md"
+        if not target.resolve().is_relative_to(reports.resolve()):
+            raise ValueError("Report must stay inside the workspace")
         if not target.is_file():
             return f"Report {report_name}.md not found in {workspace / 'reports'}. Run analyze first."
         return target.read_text(encoding="utf-8")
@@ -151,6 +151,8 @@ def get_wiki_topic(user: str = "olga", topic_slug: str = "") -> str:
                 {"topics": sorted(topics), "behaviors": sorted(behaviors)}, indent=2
             )
 
+        if not re.fullmatch(r"[\w-]{1,60}", topic_slug):
+            raise ValueError("Invalid topic slug")
         if topic_slug == "overview":
             p = wiki / "overview.md"
         elif (wiki / "behavior" / f"{topic_slug}.md").is_file():
@@ -160,6 +162,8 @@ def get_wiki_topic(user: str = "olga", topic_slug: str = "") -> str:
         else:
             return f"Topic or behavior '{topic_slug}' not found."
 
+        if not p.resolve().is_relative_to(wiki.resolve()):
+            raise ValueError("Topic must stay inside the workspace")
         return p.read_text(encoding="utf-8")
     except (ValueError, RuntimeError, OSError, KeyError, TypeError) as e:
         return f"Error getting wiki topic: {e}"
@@ -176,9 +180,10 @@ def analyze_persona(user: str = "olga") -> str:
     """
     try:
         source_dir, workspace = _get_user_paths(user)
-        lint(workspace, source_dir, check_report=False)
-        report = analyze(workspace, user=user)
-        lint(workspace, source_dir)
+        with one_writer(workspace):
+            lint(workspace, source_dir, check_report=False)
+            report = analyze(workspace, user=user)
+            lint(workspace, source_dir)
         return f"Successfully compiled persona report: {report}"
     except (ValueError, RuntimeError, OSError, KeyError, TypeError) as e:
         return f"Error compiling persona report: {e}"
@@ -222,68 +227,50 @@ def run_ingest(
     """
     try:
         source_dir, workspace = _get_user_paths(user)
+        if max_calls < 0:
+            raise ValueError("max_calls must be nonnegative")
         available = paths(source_dir)
         if include_globs:
             from fnmatch import fnmatchcase
 
             available = [
-                p
-                for p in available
-                if any(
-                    fnmatchcase(str(p.relative_to(source_dir)), g)
-                    for g in include_globs
-                )
+                p for p in available
+                if any(fnmatchcase(p.relative_to(source_dir).as_posix(), g) for g in include_globs)
             ]
-
-        manifests = list((workspace / "manifest").glob("*.json"))
-        known = {source_id(p, source_dir): p for p in available}
-
-        stale = [
-            known[p.stem]
-            for p in manifests
-            if p.stem in known
-            and (
-                load_json(p)["source_sha256"]
-                != read_source(known[p.stem], source_dir).sha256
-                or load_json(p).get("metadata_hash")
-                != read_source(known[p.stem], source_dir).metadata_hash
-            )
-        ]
-        unprocessed = [
-            p
-            for p in available
-            if not (workspace / "manifest" / f"{source_id(p, source_dir)}.json").exists()
-        ]
-        work = sorted(set(stale + unprocessed))
+        sources = [s for p in available if (s := read_source(p, source_dir))]
+        work = []
+        for source in sources:
+            manifest = workspace / "manifest" / f"{source.id}.json"
+            if not manifest.exists():
+                work.append(source)
+                continue
+            old = load_json(manifest)
+            if old["source_sha256"] != source.sha256 or old.get("metadata_hash") != source.metadata_hash:
+                work.append(source)
 
         if dry_run:
-            total_chunks = sum(
-                len(list(chunks(read_source(p, source_dir), 15000))) for p in work
-            )
             return json.dumps(
                 {
                     "dry_run": True,
                     "sources_to_process": len(work),
-                    "estimated_chunks": total_chunks,
+                    "estimated_chunks": sum(len(chunks(s, 15000)) for s in work),
                     "max_calls": max_calls,
                 },
                 indent=2,
             )
 
-        client = _get_client(model)
-        calls_used = 0
-        for p in work:
-            if calls_used >= max_calls:
-                break
-            src = read_source(p, source_dir)
-            source_chunks = list(chunks(src, 15000))
-            if calls_used + len(source_chunks) > max_calls:
-                break
-            ingest_one(workspace, src, client, 15000)
-            calls_used += len(source_chunks)
-
-        return f"Ingest completed. Processed sources with {calls_used} API call(s)."
-    except (ValueError, RuntimeError, OSError, KeyError, TypeError) as e:
+        with one_writer(workspace):
+            client = _get_client(model)
+            try:
+                budget = [max_calls]
+                for source in work:
+                    ingest_one(source, workspace, client, budget=budget, user_slug=user)
+                    if budget[0] <= 0:
+                        break
+            finally:
+                client.close()
+        return f"Ingest completed using {max_calls - budget[0]} extraction call(s)."
+    except (ValueError, RuntimeError, OSError, KeyError, TypeError, BlockingIOError) as e:
         return f"Error running ingest: {e}"
 
 
@@ -302,10 +289,17 @@ def build_wiki(
     """
     try:
         source_dir, workspace = _get_user_paths(user)
-        client = _get_client(model)
-        calls = build(workspace, source_dir, client, max_calls)
-        return f"Build completed using {calls} API call(s)."
-    except (ValueError, RuntimeError, OSError, KeyError, TypeError) as e:
+        if max_calls < 0:
+            raise ValueError("max_calls must be nonnegative")
+        with one_writer(workspace):
+            client = _get_client(model)
+            try:
+                budget = [max_calls]
+                build(workspace, source_dir, client, budget=budget)
+            finally:
+                client.close()
+        return f"Build completed using {max_calls - budget[0]} synthesis call(s)."
+    except (ValueError, RuntimeError, OSError, KeyError, TypeError, BlockingIOError) as e:
         return f"Error running build: {e}"
 
 
