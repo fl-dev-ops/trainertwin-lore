@@ -8,6 +8,77 @@
 
 ## Architecture Overview
 
+```mermaid
+flowchart TD
+    subgraph Sources["1. Public Social Sources"]
+        LI["LinkedIn (HarvestAPI)"]
+        YT["YouTube (yt-dlp + Sarvam AI)"]
+        IG["Instagram (Apify)"]
+        TW["Twitter/X (TwitterAPI.io)"]
+    end
+
+    subgraph Collector["2. Unified Social Collector (social/cli.py)"]
+        CLI["Date-Bounded Window<br/><b>--since YYYY-MM-DD</b>"]
+        DATA["users/&lt;user&gt;/data/<br/><i>Curated Markdown & YAMLs</i>"]
+        LI --> CLI
+        YT --> CLI
+        IG --> CLI
+        TW --> CLI
+        CLI --> DATA
+    end
+
+    subgraph Guards["3. Jev Decision & Attribution Gatekeeper"]
+        JEV_AUTH{"Is Target Author?<br/>(TypeSafe Jev)"}
+        COMMENT_CUT["Markdown Comment Cutoff<br/><i>Stops parsing at ## Comments</i>"]
+        ROLEPLAY_TAG["Roleplay & Context Guard<br/><i>Isolates client dialogue & objections</i>"]
+        REPOST_DROP[("Drop Reposts /<br/>Third-Party Feed")]
+        DATA --> JEV_AUTH
+        JEV_AUTH -- "p < 0.35" --> REPOST_DROP
+        JEV_AUTH -- "p >= 0.35" --> COMMENT_CUT
+        COMMENT_CUT --> ROLEPLAY_TAG
+    end
+
+    subgraph Ingest["4. Ingestion & Evidence Engine (pipeline ingest)"]
+        CHUNK["Chunk Text Units<br/>(&le; 800 chars)"]
+        EXTRACT["Verbatim Quote Extraction<br/>& SHA-256 Fingerprinting"]
+        CARDS[("workspace/evidence/<br/><b>2,700+ JSONL Cards</b>")]
+        ROLEPLAY_TAG --> CHUNK
+        CHUNK --> EXTRACT
+        EXTRACT --> CARDS
+    end
+
+    subgraph Build["5. Living Wiki Synthesis (pipeline build)"]
+        TOPIC_MAP["Topic Grouping & Map<br/>(topic-map.json)"]
+        TOPIC_PAGES["14-18 Topic Pages<br/><i>Support & Counter Citations</i>"]
+        OVERVIEW["Cross-Topic Synthesis<br/>(overview.md)"]
+        BEHAVIOR["Platform Behavior Models<br/>(wiki/behavior/*.md)"]
+        CARDS --> TOPIC_MAP
+        TOPIC_MAP --> TOPIC_PAGES
+        TOPIC_PAGES --> OVERVIEW
+        CARDS --> BEHAVIOR
+    end
+
+    subgraph Reports["6. Offline Persona Intelligence (pipeline analyze)"]
+        ANALYSIS["<b>reports/analysis.md</b><br/>• Platform Writing Styles<br/>• Decision Rules & Heuristics<br/>• Linguistic Tropes"]
+        PROMPT["<b>reports/persona-prompt.md</b><br/>• System Prompt Directive<br/>• Behavioral State Machine<br/>• Roleplay Interaction Rules"]
+        TIMELINE["<b>reports/timeline.md</b><br/>• Cross-Platform Chronology"]
+        OVERVIEW --> ANALYSIS
+        BEHAVIOR --> ANALYSIS
+        ANALYSIS --> PROMPT
+        TOPIC_PAGES --> TIMELINE
+    end
+
+    classDef primary fill:#2563eb,stroke:#1d4ed8,stroke-width:2px,color:#fff;
+    classDef gate fill:#d97706,stroke:#b45309,stroke-width:2px,color:#fff;
+    classDef storage fill:#059669,stroke:#047857,stroke-width:2px,color:#fff;
+    classDef report fill:#7c3aed,stroke:#6d28d9,stroke-width:2px,color:#fff;
+
+    class LI,YT,IG,TW,CLI,CHUNK,EXTRACT,TOPIC_MAP,TOPIC_PAGES,OVERVIEW,BEHAVIOR primary;
+    class JEV_AUTH,COMMENT_CUT,ROLEPLAY_TAG gate;
+    class DATA,CARDS,REPOST_DROP storage;
+    class ANALYSIS,PROMPT,TIMELINE report;
+```
+
 ```text
 [ Social Sources ] (LinkedIn, YouTube Transcripts, Instagram, Twitter)
         │
