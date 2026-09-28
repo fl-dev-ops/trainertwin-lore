@@ -1,8 +1,9 @@
 """Model Context Protocol (MCP) server for TrainerTwin Lore.
 
 Exposes source-grounded wiki ingestion, platform behavioral analysis,
-and persona intelligence tools over stdio for any MCP-compliant agent harness
-(Pi, Claude Code, Cursor, Windsurf, Zed, OpenCode).
+social media collection, and persona intelligence tools over stdio for any
+MCP-compliant agent harness (Claude Code, Claude Desktop, Codex, OpenCode,
+Pi, Cursor, Windsurf, Zed).
 
 Run:
     uv run python -m pipeline.mcp
@@ -10,6 +11,8 @@ Run:
 
 import json
 import os
+import re
+from datetime import UTC, date, datetime
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -28,10 +31,13 @@ from .core import (
 from .sources import paths, source_id
 
 ROOT = Path(__file__).resolve().parents[1]
+# Preload .env across the whole server so API keys are ready for social & pipeline
+load_dotenv(ROOT / ".env")
+
 app = MCPServer(
     name="trainertwin-lore",
     version="0.1.0",
-    description="TrainerTwin living wiki synthesis and persona behavioral analysis engine",
+    description="TrainerTwin living wiki synthesis, social collection, and persona behavioral analysis engine",
 )
 
 
@@ -296,6 +302,9 @@ def collect_social(
 ) -> str:
     """Collect public posts from social platforms since an absolute UTC date.
 
+    Supports LinkedIn (HarvestAPI), Twitter/X (TwitterAPI.io),
+    Instagram (Apify), and YouTube (yt-dlp + Sarvam AI transcription).
+
     Args:
         user: Lowercase user slug under users/ (e.g. 'jane-doe')
         since: Inclusive UTC start date formatted as YYYY-MM-DD
@@ -305,25 +314,217 @@ def collect_social(
         youtube: Channel or playlist URL on youtube.com
         no_transcribe: If True, skips YouTube audio download and Sarvam transcription
     """
+    if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", user):
+        return f"Error: user '{user}' must be a lowercase slug (e.g. 'jane-doe')"
+
     try:
-        from social.cli import main as social_main
+        since_date = date.fromisoformat(since)
+        if since_date > datetime.now(UTC).date():
+            return "Error: --since cannot be in the future"
+    except ValueError:
+        return "Error: since date must be formatted as YYYY-MM-DD"
 
-        argv = ["--user", user, "--since", since]
-        if linkedin:
-            argv.extend(["--linkedin", linkedin])
-        if twitter:
-            argv.extend(["--twitter", twitter])
-        if instagram:
-            argv.extend(["--instagram", instagram])
-        if youtube:
-            argv.extend(["--youtube", youtube])
-        if no_transcribe:
-            argv.append("--no-transcribe")
+    from social.cli import (
+        collect_instagram,
+        collect_linkedin,
+        collect_twitter,
+        collect_youtube,
+        profile_url,
+    )
 
-        social_main(argv)
-        return f"Successfully collected social sources for {user} since {since}."
-    except (ValueError, RuntimeError, OSError, KeyError, TypeError) as e:
-        return f"Social collection failed for {user}: {e}"
+    targets = {
+        "linkedin": linkedin,
+        "twitter": twitter,
+        "instagram": instagram,
+        "youtube": youtube,
+    }
+    active_targets = {k: v for k, v in targets.items() if v}
+    if not active_targets:
+        return "Error: Provide at least one social profile URL (linkedin, twitter, instagram, or youtube)"
+
+    user_base = ROOT / "users" / user
+    reports = []
+
+    for platform, url in active_targets.items():
+        try:
+            valid_url = profile_url(url, platform)
+            data_dir = user_base / "data" / platform
+            data_dir.mkdir(parents=True, exist_ok=True)
+
+            if platform == "linkedin":
+                collect_linkedin(valid_url, data_dir, since_date)
+                reports.append(f"• LinkedIn: Collected from {valid_url}")
+            elif platform == "twitter":
+                collect_twitter(valid_url, data_dir, since_date)
+                reports.append(f"• Twitter/X: Collected from {valid_url}")
+            elif platform == "instagram":
+                collect_instagram(valid_url, data_dir, since_date)
+                reports.append(f"• Instagram: Collected from {valid_url}")
+            elif platform == "youtube":
+                collect_youtube(
+                    valid_url,
+                    data_dir,
+                    user_base / "audios",
+                    since_date,
+                    not no_transcribe,
+                )
+                reports.append(
+                    f"• YouTube: Collected from {valid_url} (transcribed={not no_transcribe})"
+                )
+        except (ValueError, RuntimeError, OSError, KeyError, TypeError) as e:
+            reports.append(f"• {platform.title()} failed: {e}")
+
+    return f"Social collection finished for user '{user}' since {since}:\n" + "\n".join(
+        reports
+    )
+
+
+@app.tool()
+def run_full_persona_pipeline(
+    user: str,
+    since: str = "",
+    linkedin: str = "",
+    twitter: str = "",
+    instagram: str = "",
+    youtube: str = "",
+    model: str = "",
+    max_ingest_calls: int = 20,
+    max_build_calls: int = 50,
+) -> str:
+    """Run the complete end-to-end persona workflow in one step:
+    1. Optionally collects social posts if platform URLs are provided.
+    2. Ingests source documents and extracts atomic evidence cards with TypeSafe Jev validation.
+    3. Builds the living wiki and platform behavioral analysis pages.
+    4. Compiles the offline persona analysis report (reports/analysis.md) and timeline.
+    5. Returns an executive summary of the compiled persona.
+
+    Args:
+        user: Lowercase user slug under users/ (e.g. 'olga', 'jane-doe')
+        since: Inclusive UTC start date YYYY-MM-DD (required if social URLs are provided)
+        linkedin: Optional LinkedIn profile URL
+        twitter: Optional Twitter/X profile URL
+        instagram: Optional Instagram profile URL
+        youtube: Optional YouTube channel/playlist URL
+        model: Model identifier for ingestion & wiki synthesis (default: OPENROUTER_MODEL)
+        max_ingest_calls: Max LLM API calls allowed for evidence ingestion
+        max_build_calls: Max LLM API calls allowed for wiki synthesis
+    """
+    summary_lines = [f"### Full Persona Pipeline Execution: {user}"]
+
+    # 1. Social collection if URLs provided
+    if any([linkedin, twitter, instagram, youtube]):
+        if not since:
+            return "Error: 'since' (YYYY-MM-DD) is required when social URLs are provided."
+        col_res = collect_social(
+            user=user,
+            since=since,
+            linkedin=linkedin,
+            twitter=twitter,
+            instagram=instagram,
+            youtube=youtube,
+        )
+        summary_lines.append(f"**Step 1: Social Collection**\n{col_res}")
+    else:
+        summary_lines.append(
+            "**Step 1: Social Collection**: Skipped (using existing files in users/{user}/data/)"
+        )
+
+    # 2. Ingest
+    ingest_res = run_ingest(
+        user=user, model=model, max_calls=max_ingest_calls, dry_run=False
+    )
+    summary_lines.append(f"**Step 2: Evidence Ingestion**\n{ingest_res}")
+
+    # 3. Build wiki
+    build_res = build_wiki(user=user, model=model, max_calls=max_build_calls)
+    summary_lines.append(f"**Step 3: Living Wiki Build**\n{build_res}")
+
+    # 4. Analyze
+    analyze_res = analyze_persona(user=user)
+    summary_lines.append(f"**Step 4: Persona Analysis Compilation**\n{analyze_res}")
+
+    # 5. Read preview of report
+    report_preview = read_report(user=user, report_name="analysis")
+    preview_snippet = "\n".join(report_preview.splitlines()[:25])
+    summary_lines.append(f"**Persona Report Preview:**\n```markdown\n{preview_snippet}\n...\n```")
+
+    return "\n\n".join(summary_lines)
+
+
+# ============================================================================
+# MCP Resources — Direct data access for AI harnesses (Claude, Cursor, OpenCode)
+# ============================================================================
+
+
+@app.resource("trainertwin://users/{user}/analysis")
+def get_user_analysis_resource(user: str) -> str:
+    """Read the latest compiled persona analysis report for a trainer."""
+    try:
+        _, workspace = _get_user_paths(user)
+        report = workspace / "reports" / "analysis.md"
+        if report.is_file():
+            return report.read_text(encoding="utf-8")
+        return f"Persona report not yet compiled for {user}. Run analyze_persona first."
+    except (ValueError, OSError) as e:
+        return f"Error reading analysis resource: {e}"
+
+
+@app.resource("trainertwin://users/{user}/overview")
+def get_user_overview_resource(user: str) -> str:
+    """Read the cross-topic living wiki overview for a trainer."""
+    try:
+        _, workspace = _get_user_paths(user)
+        overview = workspace / "wiki" / "overview.md"
+        if overview.is_file():
+            return overview.read_text(encoding="utf-8")
+        return f"Wiki overview not yet built for {user}. Run build_wiki first."
+    except (ValueError, OSError) as e:
+        return f"Error reading overview resource: {e}"
+
+
+@app.resource("trainertwin://users/{user}/persona-prompt")
+def get_user_persona_prompt_resource(user: str) -> str:
+    """Read the compiled LLM digital twin system prompt specification."""
+    try:
+        _, workspace = _get_user_paths(user)
+        prompt_file = workspace / "reports" / "persona-prompt.md"
+        if prompt_file.is_file():
+            return prompt_file.read_text(encoding="utf-8")
+        return f"Persona prompt not yet compiled for {user}."
+    except (ValueError, OSError) as e:
+        return f"Error reading persona prompt resource: {e}"
+
+
+# ============================================================================
+# MCP Prompts — Standard interaction templates for harnesses
+# ============================================================================
+
+
+@app.prompt()
+def analyze_trainer_persona(user: str = "olga") -> str:
+    """Prompt the agent to inspect and analyze a trainer's communication style and decision rules."""
+    return f"""You are analyzing the trainer persona for '{user}' using the TrainerTwin living wiki and evidence cards.
+Please inspect the reports and platform behaviors using the available tools:
+1. Call `read_report('{user}', 'analysis')` to inspect their platform writing styles, decision heuristics, and linguistic tropes.
+2. Call `get_wiki_topic('{user}', 'linkedin')` and `get_wiki_topic('{user}', 'youtube')` to analyze channel-specific behaviors.
+3. Summarize:
+   - How their tone and structure change between long-form video (YouTube) and text (LinkedIn).
+   - Their core non-negotiable decision rules and coaching philosophies.
+   - Any linguistic tropes, repeated hooks, and signature phrases.
+   - Any areas with provisional or sparse evidence."""
+
+
+@app.prompt()
+def chat_as_trainer_twin(user: str = "olga", user_inquiry: str = "") -> str:
+    """Prompt the agent to respond as the authentic trainer twin grounded in verified lore."""
+    return f"""You are the authentic digital twin for trainer '{user}'.
+First, call `read_report('{user}', 'persona-prompt')` or `read_report('{user}', 'analysis')` to ground your voice, tone, and decision rules strictly in observed evidence.
+Then, answer the user's inquiry:
+"{user_inquiry}"
+Remember:
+- Emulate the observed communication style and linguistic tropes.
+- Follow the documented decision rules.
+- Never hallucinate unverified personal background or services."""
 
 
 def main() -> None:
