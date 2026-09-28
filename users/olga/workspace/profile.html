@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Olga Sinenko — TrainerTwin</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: #0c0d0e;
+      color: #ededed;
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px 16px 80px 16px;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Top Nav */
+    .top-nav {
+      width: 100%;
+      max-width: 860px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 24px;
+      padding: 0 4px;
+    }
+
+    .brand-logo {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 15px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: #fafafa;
+      text-decoration: none;
+    }
+
+    .brand-icon {
+      width: 22px;
+      height: 22px;
+      background: linear-gradient(135deg, #ff5e3a, #ff2a6d);
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 12px;
+      font-weight: 900;
+    }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn-create {
+      background: #f97316;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 8px 16px;
+      border-radius: 20px;
+      text-decoration: none;
+      transition: opacity 0.2s;
+    }
+
+    .btn-create:hover {
+      opacity: 0.9;
+    }
+
+    /* Main Profile Card */
+    .profile-card {
+      width: 100%;
+      max-width: 860px;
+      background: #17181c;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 28px;
+      padding: 36px 36px 32px 36px;
+      position: relative;
+      box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.5);
+    }
+
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 20px;
+    }
+
+    .avatar-wrapper {
+      width: 104px;
+      height: 104px;
+      border-radius: 26px;
+      overflow: hidden;
+      background: #27272a;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.35);
+      flex-shrink: 0;
+    }
+
+    .avatar-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .btn-share {
+      background: rgba(255, 255, 255, 0.07);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      color: #d4d4d8;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 8px 16px;
+      border-radius: 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+
+    .btn-share:hover {
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+    }
+
+    /* Name & Badges */
+    .profile-header {
+      margin-bottom: 16px;
+    }
+
+    .name-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+    }
+
+    .profile-name {
+      font-size: 28px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: #fafafa;
+    }
+
+    .verified-badge {
+      width: 20px;
+      height: 20px;
+      color: #38bdf8;
+      display: inline-flex;
+    }
+
+    .profile-sub {
+      font-size: 13px;
+      color: #a1a1aa;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .sub-divider {
+      color: #52525b;
+    }
+
+    /* Bio Summary */
+    .profile-bio {
+      font-size: 14.5px;
+      line-height: 1.65;
+      color: #d4d4d8;
+      margin-bottom: 24px;
+      font-weight: 400;
+    }
+
+    /* Action / Next Step Banner */
+    .action-box {
+      background: linear-gradient(135deg, rgba(56, 189, 248, 0.08), rgba(249, 115, 22, 0.06));
+      border: 1px solid rgba(56, 189, 248, 0.2);
+      border-radius: 16px;
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+
+    .action-text {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .action-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #38bdf8;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .action-desc {
+      font-size: 13.5px;
+      color: #e4e4e7;
+      font-weight: 500;
+    }
+
+    .action-btn {
+      background: #38bdf8;
+      color: #09090b;
+      font-size: 13px;
+      font-weight: 700;
+      padding: 9px 18px;
+      border-radius: 10px;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: transform 0.15s, opacity 0.15s;
+    }
+
+    .action-btn:hover {
+      opacity: 0.92;
+      transform: translateY(-1px);
+    }
+
+    /* Section Headers */
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+      margin-top: 28px;
+    }
+
+    .section-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #fafafa;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .carousel-arrows {
+      display: flex;
+      gap: 6px;
+    }
+
+    .btn-arrow {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      color: #a1a1aa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 12px;
+      transition: all 0.2s;
+    }
+
+    .btn-arrow:hover {
+      background: rgba(255, 255, 255, 0.12);
+      color: #fff;
+    }
+
+    /* Horizontal Carousels */
+    .cards-carousel {
+      display: flex;
+      gap: 14px;
+      overflow-x: auto;
+      padding-bottom: 6px;
+      scroll-behavior: smooth;
+      scrollbar-width: none;
+    }
+
+    .cards-carousel::-webkit-scrollbar {
+      display: none;
+    }
+
+    /* Card Base */
+    .post-card {
+      background: #1e1f24;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 18px;
+      padding: 16px;
+      width: 250px;
+      min-width: 250px;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: transform 0.2s ease, border-color 0.2s ease;
+      cursor: pointer;
+    }
+
+    .post-card:hover {
+      transform: translateY(-3px);
+      border-color: rgba(255, 255, 255, 0.22);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    }
+
+    /* YouTube Card */
+    .yt-card {
+      width: 270px;
+      min-width: 270px;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    .yt-thumb-box {
+      width: 100%;
+      height: 145px;
+      background: #09090b;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .yt-thumb-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s;
+    }
+
+    .yt-card:hover .yt-thumb-img {
+      transform: scale(1.04);
+    }
+
+    .yt-duration {
+      position: absolute;
+      bottom: 8px;
+      right: 8px;
+      background: rgba(0, 0, 0, 0.8);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 600;
+      font-family: 'JetBrains Mono', monospace;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+
+    .yt-content {
+      padding: 14px 16px;
+    }
+
+    .yt-title {
+      font-size: 13.5px;
+      font-weight: 700;
+      line-height: 1.4;
+      color: #f4f4f5;
+      margin-bottom: 8px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .yt-footer {
+      font-size: 11px;
+      color: #71717a;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    /* Post Content Common */
+    .card-platform-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: #a1a1aa;
+      margin-bottom: 10px;
+      font-weight: 500;
+    }
+
+    .platform-icon {
+      width: 14px;
+      height: 14px;
+      display: inline-flex;
+    }
+
+    .post-text {
+      font-size: 13px;
+      line-height: 1.45;
+      color: #d4d4d8;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      margin-bottom: 14px;
+    }
+
+    .post-footer {
+      font-size: 11px;
+      color: #71717a;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: auto;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
+      padding-top: 10px;
+    }
+
+    /* Floating Ask Bar */
+    .ask-footer-bar {
+      margin-top: 36px;
+      background: #111215;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 20px;
+      padding: 16px 20px;
+    }
+
+    .ask-header {
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #71717a;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .prompt-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .prompt-pill {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 8px 14px;
+      border-radius: 12px;
+      font-size: 12.5px;
+      color: #d4d4d8;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .prompt-pill:hover {
+      background: rgba(56, 189, 248, 0.12);
+      border-color: #38bdf8;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top Navigation -->
+  <nav class="top-nav">
+    <a href="#" class="brand-logo">
+      <div class="brand-icon">T</div>
+      <span>TrainerTwin</span>
+    </a>
+    <div class="nav-actions">
+      <a href="https://www.linkedin.com/in/olgasi" target="_blank" class="btn-create">LinkedIn Profile</a>
+    </div>
+  </nav>
+
+  <!-- Main Profile Card -->
+  <main class="profile-card">
+    <div class="card-top">
+      <div class="avatar-wrapper">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQHXCUjkOxhpUA/profile-displayphoto-crop_800_800/B4DZ0_fwi1I0AI-/0/1774886784218?e=1792022400&v=beta&t=-eHo66a62btnwS4PERkehZW6Zhro9kalrszUPutemC8" alt="Olga Sinenko" class="avatar-img" onerror="this.src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&h=300&fit=crop'">
+      </div>
+      <button class="btn-share" onclick="navigator.clipboard.writeText(window.location.href); alert('Profile link copied to clipboard!');">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
+        <span>Share</span>
+      </button>
+    </div>
+
+    <div class="profile-header">
+      <div class="name-row">
+        <h1 class="profile-name">Olga Sinenko</h1>
+        <svg class="verified-badge" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+        </svg>
+      </div>
+      <div class="profile-sub">
+        <span>Dubai Real Estate Sales Mentor</span>
+        <span class="sub-divider">•</span>
+        <span>Live It Up Academy</span>
+        <span class="sub-divider">•</span>
+        <span>Neuro-Emotional Persuasion</span>
+      </div>
+    </div>
+
+    <!-- 1-Paragraph Action-Oriented Summary -->
+    <p class="profile-bio">
+      For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations, and follow-ups into closed deals. Over 2,000 agents have gone through my trainings, earning up to 1M+ AED in annual commissions. I teach how to influence through my Neuro-Emotional Persuasion System: understanding human behavior, reading hesitation, asking the right questions, and guiding clients to a clear next step without pushy tactics.
+    </p>
+
+    <!-- Action & Next Step Hub -->
+    <div class="action-box">
+      <div class="action-text">
+        <div class="action-title">
+          <span>⚡</span>
+          <span>Core Action Principle</span>
+        </div>
+        <div class="action-desc">Never pitch listings before qualifying client criteria. Turn 'I’ll think about it' into a clear agreed next step.</div>
+      </div>
+      <a href="https://www.linkedin.com/in/olgasi" target="_blank" class="action-btn">Take Action</a>
+    </div>
+
+    <!-- Latest on YouTube -->
+    <div class="section-header">
+      <div class="section-title">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="#ef4444"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
+        <span>Latest on YouTube</span>
+      </div>
+      <div class="carousel-arrows">
+        <button class="btn-arrow" onclick="scrollCarousel('ytCarousel', -300)">‹</button>
+        <button class="btn-arrow" onclick="scrollCarousel('ytCarousel', 300)">›</button>
+      </div>
+    </div>
+    <div class="cards-carousel" id="ytCarousel">
+      
+              <a href="https://www.youtube.com/watch?v=Kd7guhR2AKI" target="_blank" class="post-card yt-card">
+                <div class="yt-thumb-box">
+                  <img src="https://img.youtube.com/vi/Kd7guhR2AKI/hqdefault.jpg" alt="Dubai Real Estate 6 Months After the War: Buy, Hold or Sell? (Real Data Analysis)" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
+                  <div class="yt-duration">00:11:29</div>
+                </div>
+                <div class="yt-content">
+                  <div class="yt-title">Dubai Real Estate 6 Months After the War: Buy, Hold or Sell? (Real Data Analysis)</div>
+                  <div class="yt-footer">
+                    <span>YouTube Video</span>
+                    <span>Watch ↗</span>
+                  </div>
+                </div>
+              </a>
+            
+
+              <a href="https://www.youtube.com/watch?v=fpjQdsJSLCM" target="_blank" class="post-card yt-card">
+                <div class="yt-thumb-box">
+                  <img src="https://img.youtube.com/vi/fpjQdsJSLCM/hqdefault.jpg" alt="Dubai 2008 vs 2026: Record Prices, Falling Rents, Massive Supply — Is 2008 Happening Again?" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
+                  <div class="yt-duration">00:15:49</div>
+                </div>
+                <div class="yt-content">
+                  <div class="yt-title">Dubai 2008 vs 2026: Record Prices, Falling Rents, Massive Supply — Is 2008 Happening Again?</div>
+                  <div class="yt-footer">
+                    <span>YouTube Video</span>
+                    <span>Watch ↗</span>
+                  </div>
+                </div>
+              </a>
+            
+
+              <a href="https://www.youtube.com/watch?v=LT8S6d8aeYY" target="_blank" class="post-card yt-card">
+                <div class="yt-thumb-box">
+                  <img src="https://img.youtube.com/vi/LT8S6d8aeYY/hqdefault.jpg" alt="TIME MANAGEMENT FOR REAL ESTATE AGENTS: Hour by Hour Schedule of a Closing Agent (JUST COPY IT)" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
+                  <div class="yt-duration">00:12:51</div>
+                </div>
+                <div class="yt-content">
+                  <div class="yt-title">TIME MANAGEMENT FOR REAL ESTATE AGENTS: Hour by Hour Schedule of a Closing Agent (JUST COPY IT)</div>
+                  <div class="yt-footer">
+                    <span>YouTube Video</span>
+                    <span>Watch ↗</span>
+                  </div>
+                </div>
+              </a>
+            
+
+              <a href="https://www.youtube.com/watch?v=tp38mbd6Q6g" target="_blank" class="post-card yt-card">
+                <div class="yt-thumb-box">
+                  <img src="https://img.youtube.com/vi/tp38mbd6Q6g/hqdefault.jpg" alt="Dubai vs Saudi Real Estate: Foreign Ownership, Expo 2030 & the Next Big Opportunity" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
+                  <div class="yt-duration">00:15:30</div>
+                </div>
+                <div class="yt-content">
+                  <div class="yt-title">Dubai vs Saudi Real Estate: Foreign Ownership, Expo 2030 & the Next Big Opportunity</div>
+                  <div class="yt-footer">
+                    <span>YouTube Video</span>
+                    <span>Watch ↗</span>
+                  </div>
+                </div>
+              </a>
+            
+
+              <a href="https://www.youtube.com/watch?v=pQCLpcXSx2s" target="_blank" class="post-card yt-card">
+                <div class="yt-thumb-box">
+                  <img src="https://img.youtube.com/vi/pQCLpcXSx2s/hqdefault.jpg" alt="4 Questions That Kill Your Dubai Real Estate Deals in 2026" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
+                  <div class="yt-duration">00:17:49</div>
+                </div>
+                <div class="yt-content">
+                  <div class="yt-title">4 Questions That Kill Your Dubai Real Estate Deals in 2026</div>
+                  <div class="yt-footer">
+                    <span>YouTube Video</span>
+                    <span>Watch ↗</span>
+                  </div>
+                </div>
+              </a>
+            
+
+              <a href="https://www.youtube.com/watch?v=4YZuEYW4RTs" target="_blank" class="post-card yt-card">
+                <div class="yt-thumb-box">
+                  <img src="https://img.youtube.com/vi/4YZuEYW4RTs/hqdefault.jpg" alt="5 Levels of Dubai Real Estate: From Danger Zones to Safe Bets (2026)" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
+                  <div class="yt-duration">00:11:22</div>
+                </div>
+                <div class="yt-content">
+                  <div class="yt-title">5 Levels of Dubai Real Estate: From Danger Zones to Safe Bets (2026)</div>
+                  <div class="yt-footer">
+                    <span>YouTube Video</span>
+                    <span>Watch ↗</span>
+                  </div>
+                </div>
+              </a>
+            
+
+              <a href="https://www.youtube.com/watch?v=ctpRUnC9eg8" target="_blank" class="post-card yt-card">
+                <div class="yt-thumb-box">
+                  <img src="https://img.youtube.com/vi/ctpRUnC9eg8/hqdefault.jpg" alt="The Real Secret to Success in Dubai Real Estate in 2026 (And What Most Agents Still Get Wrong)" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
+                  <div class="yt-duration">00:09:07</div>
+                </div>
+                <div class="yt-content">
+                  <div class="yt-title">The Real Secret to Success in Dubai Real Estate in 2026 (And What Most Agents Still Get Wrong)</div>
+                  <div class="yt-footer">
+                    <span>YouTube Video</span>
+                    <span>Watch ↗</span>
+                  </div>
+                </div>
+              </a>
+            
+
+              <a href="https://www.youtube.com/watch?v=x9mWjb117AA" target="_blank" class="post-card yt-card">
+                <div class="yt-thumb-box">
+                  <img src="https://img.youtube.com/vi/x9mWjb117AA/hqdefault.jpg" alt="The Best Lead Generation Strategy for Dubai Real Estate Agents in 2026" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
+                  <div class="yt-duration">00:16:18</div>
+                </div>
+                <div class="yt-content">
+                  <div class="yt-title">The Best Lead Generation Strategy for Dubai Real Estate Agents in 2026</div>
+                  <div class="yt-footer">
+                    <span>YouTube Video</span>
+                    <span>Watch ↗</span>
+                  </div>
+                </div>
+              </a>
+            
+    </div>
+
+    <!-- Latest on LinkedIn -->
+    <div class="section-header">
+      <div class="section-title">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+        <span>Latest on LinkedIn</span>
+      </div>
+      <div class="carousel-arrows">
+        <button class="btn-arrow" onclick="scrollCarousel('liCarousel', -300)">‹</button>
+        <button class="btn-arrow" onclick="scrollCarousel('liCarousel', 300)">›</button>
+      </div>
+    </div>
+    <div class="cards-carousel" id="liCarousel">
+      
+              <a href="https://www.linkedin.com/posts/olgasi_realestatetraining-activity-7507718658257735681-motX" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                  <span>@olgasi</span>
+                </div>
+                <div class="post-text">Which problem Do You solve?…. This is my first question to Anyone who writes me with “I’m a founder and we do ABC and EYZ” Really check - no one is in...</div>
+                <div class="post-footer">
+                  <span>2026-09-21</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.linkedin.com/posts/olgasi_more-valuable-than-money-your-reputation-activity-7507742242774601728-sPCF" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                  <span>@olgasi</span>
+                </div>
+                <div class="post-text">More Valuable than Money!?? Your Reputation! It’s was always my #1 priority… somehow it’s now 204 reviews on google with 5* where 95% - are actually d...</div>
+                <div class="post-footer">
+                  <span>2026-09-21</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.linkedin.com/posts/olgasi_getting-ghosted-by-your-clients-here-is-activity-7506324349281411072-ESIY" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                  <span>@olgasi</span>
+                </div>
+                <div class="post-text">Getting Ghosted by your Clients?… Here is what you should Do! 1. Stop sending Listings and Fact sheets! 2. Ask …. Have you found what you were looking...</div>
+                <div class="post-footer">
+                  <span>2026-09-17</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.linkedin.com/posts/olgasi_despite-all-whats-happening-joining-real-activity-7503398306451013633-Iz0y" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                  <span>@olgasi</span>
+                </div>
+                <div class="post-text">Despite “all what’s happening” joining real estate in 2026!? My answer is - Ability to Talk about Real Estate under pressure would be your most valuab...</div>
+                <div class="post-footer">
+                  <span>2026-09-09</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.linkedin.com/posts/olgasi_how-do-you-change-your-income-your-life-activity-7502969011404689408-G_GB" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                  <span>@olgasi</span>
+                </div>
+                <div class="post-text">How do you change your income, your life and yourself? By the way !!! This is Exactly the main promise behind Tony Robbins and events. After four days...</div>
+                <div class="post-footer">
+                  <span>2026-09-08</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.linkedin.com/posts/olgasi_celebrating-the-6th-year-of-my-coaching-academy-activity-7502622987318231040-8PO0" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                  <span>@olgasi</span>
+                </div>
+                <div class="post-text">Celebrating the 6th Year of my Coaching Academy with Tony Robbins- Unleash the Power within 4 days event in Cologne!...</div>
+                <div class="post-footer">
+                  <span>2026-09-07</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.linkedin.com/posts/olgasi_seriously-this-is-the-world-we-are-living-activity-7500748120281161728-2uV5" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                  <span>@olgasi</span>
+                </div>
+                <div class="post-text">Seriously? This is the world we are living now? Ai generated DMs, brainless conversations… I want to start the movement of Banning this Account!...</div>
+                <div class="post-footer">
+                  <span>2026-09-02</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.linkedin.com/posts/olgasi_full-sales-course-dubai-real-estate-2026-activity-7500047288422166528-Ox7t" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                  <span>@olgasi</span>
+                </div>
+                <div class="post-text">This will Scare you… Must watch if you Consider Starting in Dubai Real estate in 2026! Tag a friend who needs it in a comment!...</div>
+                <div class="post-footer">
+                  <span>2026-08-31</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+    </div>
+
+    <!-- Latest on Instagram -->
+    <div class="section-header">
+      <div class="section-title">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+        <span>Latest on Instagram</span>
+      </div>
+      <div class="carousel-arrows">
+        <button class="btn-arrow" onclick="scrollCarousel('igCarousel', -300)">‹</button>
+        <button class="btn-arrow" onclick="scrollCarousel('igCarousel', 300)">›</button>
+      </div>
+    </div>
+    <div class="cards-carousel" id="igCarousel">
+      
+              <a href="https://www.instagram.com/p/DdrSOsLApe3/" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                  <span>CAROUSEL</span>
+                </div>
+                <div class="post-text">ROI from Tony Robbins “ Unleash the Tower Within “ Not trying to be materialistic… but actually why not! Everything we do in life is an inve...</div>
+                <div class="post-footer">
+                  <span>2026-09-24</span>
+                  <span>View Reel ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.instagram.com/p/DdeR0LqCYN-/" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                  <span>IMAGE</span>
+                </div>
+                <div class="post-text">It’s not a Join this Company post! It’s only for agents who are want to Close Off-plan deals and based in Dubai. I teach you Off-plan closin...</div>
+                <div class="post-footer">
+                  <span>2026-09-20</span>
+                  <span>View Reel ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.instagram.com/p/DdYM9ViBT0O/" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                  <span>REEL</span>
+                </div>
+                <div class="post-text">Yes - on my YouTube detailed Time management for agents! #realestatecoachingdubai #realestateagenttraining...</div>
+                <div class="post-footer">
+                  <span>2026-09-17</span>
+                  <span>View Reel ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.instagram.com/p/DdTBHAfAmyi/" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                  <span>REEL</span>
+                </div>
+                <div class="post-text">Tired of - 'I need to think about it...' 'I'm not in a rush - I'll let you know...' 'Now its not a right time...' * * * * * #* * * * * #Cold...</div>
+                <div class="post-footer">
+                  <span>2026-09-15</span>
+                  <span>View Reel ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.instagram.com/p/DdOvG6hAhVu/" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                  <span>CAROUSEL</span>
+                </div>
+                <div class="post-text">1 week Post Tony Robbins…. What’s changed inside… as we all want a Change but Same time 90% value certainty so much!!! And after we are feel...</div>
+                <div class="post-footer">
+                  <span>2026-09-13</span>
+                  <span>View Reel ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.instagram.com/p/Dc-sB4KqcoR/" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                  <span>REEL</span>
+                </div>
+                <div class="post-text">If you are watching This… Probably you lost your focus and believed for a second some random thought that you are…. Bla..Bla… not good enoug...</div>
+                <div class="post-footer">
+                  <span>2026-09-07</span>
+                  <span>View Reel ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.instagram.com/p/Dcxa1sNCewq/" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                  <span>REEL</span>
+                </div>
+                <div class="post-text">Another Wish from my Bucket List! #unleashthepowerwithin ### @iva.aben_experience > 🔥 ### @bmmamunmia0 > So excited for you! UPW is going to...</div>
+                <div class="post-footer">
+                  <span>2026-09-02</span>
+                  <span>View Reel ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://www.instagram.com/p/DcbYZohgvs6/" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+                  <span>CAROUSEL</span>
+                </div>
+                <div class="post-text">He’s renting. Your 4M off-plan buyer thinks the same way. I’ve seen around 50 tactics in my career - selling myself, then coaching agents to...</div>
+                <div class="post-footer">
+                  <span>2026-08-24</span>
+                  <span>View Reel ↗</span>
+                </div>
+              </a>
+            
+    </div>
+
+    <!-- Latest on X (Twitter) -->
+    <div class="section-header">
+      <div class="section-title">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="#fafafa"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        <span>Latest on X</span>
+      </div>
+      <div class="carousel-arrows">
+        <button class="btn-arrow" onclick="scrollCarousel('twCarousel', -300)">‹</button>
+        <button class="btn-arrow" onclick="scrollCarousel('twCarousel', 300)">›</button>
+      </div>
+    </div>
+    <div class="cards-carousel" id="twCarousel">
+      
+              <a href="https://x.com/Olga_Si_Sales/status/2102627755674509680" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#fafafa"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                  <span>@Olga_Si_Sales</span>
+                </div>
+                <div class="post-text">In Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k September 2027 - ? Your guess?</div>
+                <div class="post-footer">
+                  <span>2026-09-23</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+
+              <a href="https://x.com/Olga_Si_Sales/status/2092878569286651968" target="_blank" class="post-card">
+                <div class="card-platform-row">
+                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#fafafa"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                  <span>@Olga_Si_Sales</span>
+                </div>
+                <div class="post-text">Two ways Dubai prop-tech startup ends in 2026. For B2B: you get two or three companies paying you for two, three months. Then the guy inside</div>
+                <div class="post-footer">
+                  <span>2026-08-27</span>
+                  <span>View Post ↗</span>
+                </div>
+              </a>
+            
+    </div>
+
+    <!-- Action Prompt Section -->
+    <div class="ask-footer-bar">
+      <div class="ask-header">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        <span>Explore Key Sales Situations</span>
+      </div>
+      <div class="prompt-pills">
+        <div class="prompt-pill" onclick="alert('Olga\'s Rule: Never email listings immediately. A buyer asking for options without discovery is not ready to buy. Ask: What specific criteria will make or break this decision?')">
+          "What to say when a buyer asks to 'Just send options'?"
+        </div>
+        <div class="prompt-pill" onclick="alert('Olga\'s Rule: Stop sending random follow-ups. Acknowledge their priority shift directly: "I noticed we haven\'t connected—has the timeline changed, or is this property no longer a fit?"')">
+          "How to overcome client ghosting without being pushy?"
+        </div>
+        <div class="prompt-pill" onclick="alert('Olga\'s Rule: Isolate whether they seek capital appreciation or rental yield before quoting numbers. Never pitch off-plan ROI without knowing their exit horizon.')">
+          "How to qualify an off-plan investor in Dubai?"
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    function scrollCarousel(id, amount) {
+      const el = document.getElementById(id);
+      if (el) {
+        el.scrollBy({ left: amount, behavior: 'smooth' });
+      }
+    }
+  </script>
+</body>
+</html>

@@ -185,6 +185,25 @@ def analyze_persona(user: str = "olga") -> str:
 
 
 @app.tool()
+def export_trainer_profile(user: str = "olga") -> str:
+    """Generate an action-oriented Delphi-style trainer profile HTML page.
+
+    Includes the user's avatar, 1-paragraph action bio, and latest posts
+    from each platform (YouTube, LinkedIn, Instagram, X) as interactive cards.
+
+    Args:
+        user: Lowercase user slug under users/ (default: 'olga')
+    """
+    try:
+        from .profile import build_profile
+
+        out = build_profile(user=user)
+        return f"Generated trainer profile HTML: {out}"
+    except (ValueError, RuntimeError, OSError) as e:
+        return f"Failed to generate trainer profile: {e}"
+
+
+@app.tool()
 def run_ingest(
     user: str = "olga",
     model: str = "",
