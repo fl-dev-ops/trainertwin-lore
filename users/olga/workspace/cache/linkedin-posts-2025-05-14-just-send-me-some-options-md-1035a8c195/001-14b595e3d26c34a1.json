@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Just send me some options... If you’ve heard this from a client — you know it usually leads nowhere.",
+      "statement": "In off-plan real estate, the real challenge isn’t in sending options — It’s in creating clarity and trust before the options even show up.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Here are 3 simple questions I teach agents to use — to shift the conversation from casual interest to serious decision-making:",
+      "statement": "3 simple questions can shift the conversation from casual interest to serious decision-making.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "“Would it be helpful if we book a little bit more time together on a Zoom where you will be able to see the statistics and numbers...?”",
+      "statement": "A transition to booking deeper conversations can change the dynamic with clients.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "These are just a few questions from my full off-plan sales script, which helps agents book serious Zoom calls.",
+      "statement": "These questions help agents book serious Zoom calls — not just 'option checkers.'",
+      "topic": "sales performance",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "This small shift in positioning changes everything: You lead the conversation. You become the trusted advisor.",
+      "statement": "A small shift in positioning leads to becoming a trusted advisor and moving from chasing to qualifying.",
+      "topic": "client interaction",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post sharing sales strategy insights for real estate agents."
+}

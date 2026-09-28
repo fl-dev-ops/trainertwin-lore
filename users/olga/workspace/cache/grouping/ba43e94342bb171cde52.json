@@ -1,0 +1,119 @@
+{
+  "groups": [
+    {
+      "name": "Marketing and Content Creation",
+      "topics": [
+        "content-and-marketing",
+        "digital-presence",
+        "digital-transformation",
+        "editor-criteria"
+      ]
+    },
+    {
+      "name": "Economic and Financial Matters",
+      "topics": [
+        "costs",
+        "economic-factors",
+        "financial-and-expansion-strategy",
+        "financial-management"
+      ]
+    },
+    {
+      "name": "Governance and Policy",
+      "topics": [
+        "country-governance",
+        "government-and-governance"
+      ]
+    },
+    {
+      "name": "Workplace Dynamics",
+      "topics": [
+        "employer-and-employment",
+        "hiring-practices"
+      ]
+    },
+    {
+      "name": "Customer Interaction and Engagement",
+      "topics": [
+        "customer-interaction",
+        "engagement-and-interaction",
+        "industry-engagement"
+      ]
+    },
+    {
+      "name": "Personal Development and Strategy",
+      "topics": [
+        "creativity-and-thought-processes",
+        "focus-and-strategy",
+        "decision-making",
+        "emotional-intelligence"
+      ]
+    },
+    {
+      "name": "Emotional and Cultural Factors",
+      "topics": [
+        "cultural-aspects",
+        "emotional-aspects"
+      ]
+    },
+    {
+      "name": "Event Participation and Networking",
+      "topics": [
+        "events-and-participation"
+      ]
+    },
+    {
+      "name": "Feedback and Improvement",
+      "topics": [
+        "feedback-and-improvement"
+      ]
+    },
+    {
+      "name": "Infrastructure and Development",
+      "topics": [
+        "infrastructure",
+        "infrastructure-and-development"
+      ]
+    },
+    {
+      "name": "Execution and Business Practices",
+      "topics": [
+        "execution-in-business",
+        "expectations-and-reality"
+      ]
+    },
+    {
+      "name": "External and Market Influences",
+      "topics": [
+        "external-influences",
+        "demand-in-market"
+      ]
+    },
+    {
+      "name": "Diversification and Future Planning",
+      "topics": [
+        "diversification",
+        "future-outlook"
+      ]
+    },
+    {
+      "name": "Routines and Efficiency",
+      "topics": [
+        "daily-routines",
+        "efficiency-and-waiting-times"
+      ]
+    },
+    {
+      "name": "Global and Strategic Outlook",
+      "topics": [
+        "global-reach"
+      ]
+    },
+    {
+      "name": "development-process",
+      "topics": [
+        "development-process"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "How are you to get buyers to agree to meet you?",
+      "statement": "Instead of just sending options, engage buyers by questioning their confidence about market data.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "you're creating the gap and he feels like, well, I'm actually not very confident.",
+      "statement": "Create a gap in the buyer's confidence to encourage them to seek your assistance.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The agent literally cannot pull these buyers on a Zoom meet.",
+      "statement": "Agents often face difficulty in getting buyers to meet due to their desire to see options only.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "based on the market data for the past three years.",
+      "statement": "Buyers may feel uncertain about their property investment decisions based on market data over a period.",
+      "topic": "personal growth",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "This source chunk provides insights on engaging potential clients in real estate sales through strategic conversation."
+}

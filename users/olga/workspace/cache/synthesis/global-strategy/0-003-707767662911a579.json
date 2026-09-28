@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The minimum investment for Saudi Arabia's Villa project during the Pre-launch stage is SAR 3.8 million.",
+      "qualification": "This is a specific reported investment requirement with no contrary evidence provided.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e005:e5b16b45"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Developers in Saudi Arabia may not pay commissions because their properties sell themselves.",
+      "qualification": "This is a hypothetical belief with no independent confirmation.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e007:47cfa901"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Luxury projects like the Red Sea Project have uncertain sustainability, described as potentially like a desert mirage.",
+      "qualification": "This is a hypothetical observation; actual sustainability is unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e009:cbfdcc6a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents should proactively set the tone for price discussions, as buyers and market conditions determine the price, not the seller.",
+      "qualification": "Advice is given based on observed market conditions, but the seller's perspective or market reaction is not included.",
+      "support_ids": [
+        "linkedin-posts-2024-12-17-one-deal-away-from-your-md-8677a05be4:c001:e002:ccc6d629"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The UAE is granting Golden Visas to digital content creators, indicating a strategy to attract talent.",
+      "qualification": "Reported observation without details on impacts beyond attracting talent.",
+      "support_ids": [
+        "linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd:c001:e001:3821c905"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is growing demand for real estate trainers, indicating increased interest in sales training within the Dubai real estate sector.",
+      "qualification": "This is an observed trend; specifics on the demand increase are not given.",
+      "support_ids": [
+        "linkedin-posts-2025-03-10-ive-never-needed-to-sell-md-de56a4001e:c001:e004:6cfd00a2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an expectation that UAE's five-year residency visa initiative will support property price increases in 2025.",
+      "qualification": "Expectation is hypothetical; no data confirms or denies impending price increases.",
+      "support_ids": [
+        "linkedin-posts-2024-12-23-yet-again-theres-one-more-md-1748bee194:c001:e003:7c0c8373"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a noted shift where more British investors are moving to Dubai, motivated by settlement as well as investment.",
+      "qualification": "Self-reported observation without quantitative backing or external corroboration.",
+      "support_ids": [
+        "linkedin-posts-2025-02-12-it-seems-dubai-has-become-md-5b24457b91:c001:e003:d550c2b4"
+      ]
+    }
+  ]
+}

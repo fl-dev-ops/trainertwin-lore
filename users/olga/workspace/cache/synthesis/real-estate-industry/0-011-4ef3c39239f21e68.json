@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Many claim that the Dubai real estate market is potentially in a bubble, indicating instability.",
+      "qualification": "The information is presented as a fact claim but is not supported by independent evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s149-yaml-570adcde2d:c001:e001:ba732fa5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market strategies have shifted towards knowledgeable investing, focusing on sustainable projects and developers rather than price and payment plans.",
+      "qualification": "It is unclear how widespread this shift is, as there is no corroborative data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s128-yaml-f753e1424f:c001:e001:1a60a428"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate professionals in Dubai emphasize the importance of professional training and background for success in property sales.",
+      "qualification": "These are self-reported narratives without external validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s103-yaml-227508ba2c:c001:e001:de75c58d",
+        "youtube-shorts-run-transcripts-s104-yaml-acabf7b5c7:c001:e001:a7024cec",
+        "youtube-shorts-run-transcripts-s155-yaml-3089cec4f6:c001:e004:1d729f53"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some real estate professionals capitalize on experiential knowledge and training others in the industry, betting on sure returns from Dubai's market.",
+      "qualification": "The economic benefit is claimed but not empirically verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s134-yaml-daeeceba6d:c001:e003:e9949b31",
+        "youtube-shorts-run-transcripts-s129-yaml-ca76bf00b1:c001:e001:4ad07a49"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Stability in Dubai's economy is attributed to its diversification beyond real estate, into tourism and trade.",
+      "qualification": "Though presented as a factual observation, it lacks direct statistical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s156-yaml-94c534c8b9:c001:e001:336b4b21"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There have been attempts to run real estate events like open days aimed at practical financial knowledge sharing in Dubai.",
+      "qualification": "The success and reach of such events are not detailed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s118-yaml-a8372f3450:c001:e003:d56644eb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There are self-reported stories of real estate agents deciding against changing companies, valuing long-term association with a single firm.",
+      "qualification": "Self-reported single case study; lacks broader industry context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s161-yaml-9ec8b59732:c001:e002:73991022"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Concerns about market pressures and property price cycles in Dubai are discussed, although specific pressures are not detailed.",
+      "qualification": "The impact of such pressures is speculative without further data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s102-yaml-151697bff1:c001:e005:566618ee"
+      ]
+    }
+  ]
+}

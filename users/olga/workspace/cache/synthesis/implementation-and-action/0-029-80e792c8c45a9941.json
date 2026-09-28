@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Client objections are a significant barrier in sales, and there are targeted trainings for handling these objections.",
+      "qualification": "The evidence is based on observing demand and providing advice on handling objections.",
+      "support_ids": [
+        "linkedin-posts-2025-07-14-created-this-series-based-on-md-a37c39b3ee:c001:e002:e58836bc",
+        "linkedin-posts-2025-07-23-my-most-requested-trainings-md-98c73ffdf0:c001:e001:db3d49b3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is skepticism about the effectiveness of cold calling in Dubai, but specific scripts that supposedly work are offered.",
+      "qualification": "This is self-reported and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-08-05-everyone-says-cold-calling-doesnt-md-147553f13e:c001:e001:b66df096",
+        "linkedin-posts-2025-08-05-everyone-says-cold-calling-doesnt-md-147553f13e:c001:e003:86c757fd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Skill, motivation, and retention of employees are considered more important than property stock in a real estate company's success.",
+      "qualification": "The statement is an observation and is unverified.",
+      "support_ids": [
+        "linkedin-posts-2025-08-12-if-you-think-running-a-md-cb33d45df9:c001:e001:464d1d22"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Hiring the wrong people leads to a cycle of hiring and replacing staff.",
+      "qualification": "The evidence is observational and not backed by specific data or examples.",
+      "support_ids": [
+        "linkedin-posts-2025-08-12-if-you-think-running-a-md-cb33d45df9:c001:e004:1db3c147"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The key challenge in real estate sales is not the market condition or leads but the way clients are approached and communicated with.",
+      "qualification": "The finding is based on self-reported insights and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-08-15-sell-without-selling-the-questions-md-92bb0c57c9:c001:e001:da81d15b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking the right questions helps clients build their own case for buying, thus potentially leading to a sale.",
+      "qualification": "This is a hypothetical case study and should be interpreted as a proposed strategy rather than proven efficacy.",
+      "support_ids": [
+        "linkedin-posts-2025-08-15-sell-without-selling-the-questions-md-92bb0c57c9:c001:e006:bbd21e37"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales skills development is advised for agents seeking to improve deal closures.",
+      "qualification": "The advice is based on self-reported observations and lacks empirical data support.",
+      "support_ids": [
+        "linkedin-posts-2025-07-18-this-is-my-face-every-md-1a8a4e8d8e:c001:e004:caaf6044"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Lead generation is emphasized as a critical factor for successful sales.",
+      "qualification": "The statement is a fact claim with no accompanying data to quantify its impact.",
+      "support_ids": [
+        "linkedin-posts-2025-07-15-watch-this-training-only-if-md-aa46715657:c001:e001:34a45e1e"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "the feedback was - that besides the talking points and strategies - the most important was - the Mindset trick I gave you..",
+      "statement": "the feedback was - that besides the talking points and strategies - the most important was - the Mindset trick I gave you..",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I’ve seen your YouTube trainings",
+      "statement": "I’ve seen your YouTube trainings",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the Mindset trick I gave you.. How to deal with - The prices will Drop - I will wait!",
+      "statement": "the Mindset trick I gave you.. How to deal with - The prices will Drop - I will wait!",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "My latest live training for Dubai agents is here..",
+      "statement": "My latest live training for Dubai agents is here..",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Social media post reflecting on training feedback for real estate agents."
+}

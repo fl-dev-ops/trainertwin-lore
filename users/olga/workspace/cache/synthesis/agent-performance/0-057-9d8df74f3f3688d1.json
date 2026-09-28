@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales objections often stem from a perceived mismatch between the value offered and the price.",
+      "qualification": "This perspective is self-reported and reflects subjective client perceptions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s195-yaml-9d3247ccee:c001:e003:c0a56aca"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective objection handling can reduce fear in sales agents by equipping them with responses to potential objections.",
+      "qualification": "The claim is self-reported and represents a belief rather than verified effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s196-yaml-2dec848a31:c001:e004:ba2a330f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A mismatched tone in communications can critically jeopardize sales deals.",
+      "qualification": "The statement is an observed opinion and may not universally apply to all sales contexts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s197-yaml-094eaf8cfd:c001:e001:396b7865"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Insufficient follow-up procedures, such as merely calling clients, can negatively impact sales.",
+      "qualification": "The evidence is based on the speaker's self-reported observation and lacks empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s200-yaml-483c6ff175:c001:e001:78289a5e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Providing market reports and meaningful content in follow-ups is advised to enhance value perception among clients.",
+      "qualification": "This advice is self-reported and not supported by detailed empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s200-yaml-483c6ff175:c001:e002:d16ca3c9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents' fear of making calls is often linked to a desire to maintain a perfect image and ego-related issues.",
+      "qualification": "The statement is self-reported and based on psychological assumptions without empirical backing.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s201-yaml-0976b45039:c001:e001:ff918fd2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate is often mistakenly perceived as an easy field to enter by those outside of it, simply based on an interest in properties.",
+      "qualification": "The claim is an observed generalization and does not account for diverse individual experiences.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s204-yaml-b28acaab98:c001:e001:7c615434"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Promises of delayed payment without commitment discouraged some agents, highlighting issues with trust and compensation in sales strategies.",
+      "qualification": "This account is observed and specific to a particular context, not necessarily universal.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s208-yaml-195371b24a:c001:e002:db157aca",
+        "youtube-shorts-run-transcripts-s208-yaml-195371b24a:c001:e003:56397c01"
+      ]
+    }
+  ]
+}

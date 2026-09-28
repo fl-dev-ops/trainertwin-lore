@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "the commission is paid by the buyers. However, it doesn't mean that you have to chase the buyers.",
+      "statement": "In Dubai, commissions are paid by buyers, and they are split fifty-fifty between agents.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "the sellers have no obligation to work with you exclusively.",
+      "statement": "Sellers in Dubai are not obligated to work exclusively with a single agent.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "if you use my communication techniques, uh pattern interrupts, which kind of work with human behavior, will help you to build up the trust.",
+      "statement": "Using communication techniques like pattern interrupts can help build trust with buyers on the first call.",
+      "topic": "communication skills",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript of a YouTube short discussing real estate strategies for agents from Western countries entering the Dubai market."
+}

@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Creating a sense of urgency or a gap between current and desired client status can motivate clients to engage in meetings.",
+      "qualification": "This is advice and might not be universally effective; engagement depends on individual client circumstances.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s146-yaml-bd9ba63417:c001:e001:ef0e8b26"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents in Dubai real estate are reportedly losing jobs and looking for opportunities in other countries.",
+      "qualification": "The claim lacks corroborative data; this could change as market conditions evolve.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s148-yaml-18ca56b9b0:c001:e002:9dd4a7df"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Easily obtaining mortgages can influence housing market stability and prices in Dubai.",
+      "qualification": "This observation is correlated with market trends but isn't predictive of future changes without detailed data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s149-yaml-570adcde2d:c001:e002:92830b13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents advising to stop asking clients if they are decision-makers can impact authority perceptions during client interactions.",
+      "qualification": "This advice assumes clients might be defensive if their authority is questioned; effectiveness isn't guaranteed without broader feedback.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s147-yaml-961282c84d:c001:e001:11ad2d88"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Close-ended questions tend to dominate sales interactions, which might limit client disclosure.",
+      "qualification": "This observation suggests a need for open-ended questioning but lacks empirical data on success rates.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s15-yaml-6fcf5a353b:c001:e004:f4636081"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Marketing agencies may engage in misleading practices concerning lead generation campaigns.",
+      "qualification": "This claim's validity depends on agency ethics and client vigilance; it is anecdotal without widespread confirmation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s150-yaml-bf0d4b0fe6:c001:e001:7c81b1f9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents perceive being 'too nice' as potentially harmful to real estate success, hinting at the need for assertiveness.",
+      "qualification": "This is presented as belief and observational; it lacks comprehensive analysis or statistical backing.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s155-yaml-3089cec4f6:c001:e002:86ef732b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-reported investment in direct client questioning can improve engagement and disclosure.",
+      "qualification": "Although supportive, these observations are hypothetical without client confirmation or engagement success metrics.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s154-yaml-0846a0e4fa:c001:e001:626563ba",
+        "youtube-shorts-run-transcripts-s154-yaml-0846a0e4fa:c001:e002:d049887a"
+      ]
+    }
+  ]
+}

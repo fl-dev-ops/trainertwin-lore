@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "This free live training is about exactly that. I’ll break down: how to communicate with clients in a market full of fear and uncertainty, how to handle objections, silence and hesitation, how to reconnect with old leads without sounding desperate how to shift to secondary and rentals.",
+      "statement": "This free live training is about exactly that.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "This is not about fake positivity. This is about strategy, communication and practical action.",
+      "statement": "This is not about fake positivity. This is about strategy, communication and practical action.",
+      "topic": "teaching approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "How do I stop deals from collapsing? How do I sound calm, credible and useful when people around me are panicking?",
+      "statement": "How do I stop deals from collapsing? How do I sound calm, credible and useful when people around me are panicking?",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Instagram post offering sales training focused on client communication during uncertainty."
+}

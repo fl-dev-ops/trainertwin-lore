@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market is characterized by outstanding leadership and a secure, transparent investment process, contributing to its growth.",
+      "qualification": "The statement is observational and lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-08-07-more-than-just-price-appreciation-md-6a4e2a527e:c001:e001:58bedfc7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai has maintained a positive track record in real estate over 20 years due to fulfilling promises.",
+      "qualification": "The statement is self-reported and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-08-07-more-than-just-price-appreciation-md-6a4e2a527e:c001:e002:96b68252"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rent increases in Dubai are a topic of conversation, indicating variability in rental market conditions.",
+      "qualification": "The evidence is based on a conversational observation, not market data.",
+      "support_ids": [
+        "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9:c001:e005:35ed9bc4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai is perceived as having appealing property investment opportunities, contributing to its attractiveness in real estate.",
+      "qualification": "The claim is self-reported and lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-09-12-the-vibrant-hubs-of-the-md-ab7ab0304a:c001:e001:2675f02c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai is described as a bubble in the real estate market, suggesting potential volatility.",
+      "qualification": "Characterization is based on personal observation and lacks broader market analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e001:e1ff2640"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective social media engagement strategy involves posting 5 Stories a day, 4 days a week to retain audience interest for lead generation.",
+      "qualification": "Claim is advisory in nature and effectiveness is undetermined.",
+      "support_ids": [
+        "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75:c001:e002:b21c3253"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Belief that Dubai property prices are too expensive could obstruct successful sales by influencing perception.",
+      "qualification": "The statement is hypothetical and reflects personal beliefs rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-10-08-do-you-secretly-believe-dubai-md-51965119a3:c001:e001:1562e43c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding market dynamics, including property bubbles, is crucial for engaging with Dubai's real estate market.",
+      "qualification": "Advice is self-reported and lacks concrete market studies or data.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e005:d250d079"
+      ]
+    }
+  ]
+}

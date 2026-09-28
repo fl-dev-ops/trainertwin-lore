@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199-a09e94d95d25bb08.jsonl",
+  "external_id": "7424305455285350400",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:03:57Z",
+  "metadata_hash": "dbd3ffa64213f428c4776f45898fdbc546a6303ebd46498a4d9396ef8b2881d4",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-02-03T04:19:17.465000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-02-03-why-your-dead-lead-database.md",
+  "source_sha256": "92d061ca447db697536d631c258457886e135d1db036c0498827c63a69cfc2a2",
+  "source_url": "https://www.linkedin.com/posts/olgasi_olgasinenko-dubairealestate-realestatesales-activity-7424305455285350400-2AM-"
+}

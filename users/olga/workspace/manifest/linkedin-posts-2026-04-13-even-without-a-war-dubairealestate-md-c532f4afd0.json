@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-04-13-even-without-a-war-dubairealestate-md-c532f4afd0-3605637d1e01dde1.jsonl",
+  "external_id": "7449309252684533761",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:07:33Z",
+  "metadata_hash": "300c325d89d294bf5108327b67c32668424cd1fa1d4a5aa70d474b92e064a47d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-04-13T04:15:27.313000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-04-13-even-without-a-war-dubairealestate.md",
+  "source_sha256": "8abb55465716dbf75cf56cebe29ba70b1b7057e900e337890240aabf94e064bf",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-dubairealestatecoach-dubaisalescoach-activity-7449309252684533761-Rivi"
+}

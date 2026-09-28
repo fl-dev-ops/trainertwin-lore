@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "linkedin-posts-2025-12-05-the-most-successful-agents-i-md-b2a7105e03-06c4c24c66cbf17e.jsonl",
+  "external_id": "7402565201604030464",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:00:23Z",
+  "metadata_hash": "7e742d898db1a58f2fb9b87ddb768fa333b5fcf832d418ae54c0ea2671b88caa",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-05T04:31:17.073000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-05-the-most-successful-agents-i.md",
+  "source_sha256": "4214d56dfa1c71839b1f1a58e1fa51025f445e757ae0101a5a49db4058287a58",
+  "source_url": "https://www.linkedin.com/posts/olgasi_the-most-successful-agents-i-know-all-understand-activity-7402565201604030464-1dzI"
+}

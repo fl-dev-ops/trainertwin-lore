@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-03-28-stop-assuming-and-start-asking-md-0b00395983-fe894bc556966df0.jsonl",
+  "external_id": "7178964025697849344",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:53:41Z",
+  "metadata_hash": "123a001a999ee1917ad575efc0dd427abeec6dc2f2317b07c434961fc97dc47f",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-03-28T04:00:02.428000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-03-28-stop-assuming-and-start-asking.md",
+  "source_sha256": "1abb3cc43e20c29a75e8d4aa5ca3ba4eca8d9ed797917700256fc7118663c44a",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-asktherightquestions-clientqualification-activity-7178964025697849344-0VSO"
+}

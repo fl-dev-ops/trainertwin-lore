@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-02-10-probably-most-important-question-to-md-3ff395457d-23bb7f743262b546.jsonl",
+  "external_id": "7426856567582490624",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:04:03Z",
+  "metadata_hash": "9921b10be4751e4bd30846a1abe9bbbabdf268dbc4bcb35b97cd51f586305245",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-02-10T05:16:30.034000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-02-10-probably-most-important-question-to.md",
+  "source_sha256": "8862cc145adaca6d652cf92460d7e269a795e2fa1f8c9bba3549a36c267ef733",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salescoachingforagents-realestateagenttraining-activity-7426856567582490624-tHH4"
+}

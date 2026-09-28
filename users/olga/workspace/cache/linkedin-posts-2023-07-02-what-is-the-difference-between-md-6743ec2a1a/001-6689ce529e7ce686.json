@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Not Enough Prospecting! Poor communication skills and Confidence in own expertise.",
+      "statement": "90% of agents do not engage enough in prospecting.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Poor communication skills and Confidence in own expertise.",
+      "statement": "Poor communication skills are common among 90% of agents.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Inability to Generate Own stream of listing and lead through calling, networking and social media.",
+      "statement": "90% of agents display an inability to generate their own leads.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Absence of planning and work structure which leads to KPI achievement.",
+      "statement": "Absence of planning and work structure affects KPI achievement.",
+      "topic": "planning structure",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "On a scale from 1 to 10, how satisfied are you with a sales team's performance?",
+      "statement": "Sales team performance can be improved; satisfaction can be rated from 1 to 10.",
+      "topic": "team performance",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Analysis of performance differences among sales agents"
+}

@@ -1,0 +1,61 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Salespeople are often distrusted due to previous negative experiences where product expectations were not met.",
+      "qualification": "The evidence is self-reported and based on personal experiences, which may not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2023-08-15-never-trust-a-sales-person-md-c5efc806b5:c001:e001:bf4179ce"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Honest disclosure of pros and cons in sales is believed to build trust and help close deals.",
+      "qualification": "This belief is presented as an observed fact claim but lacks enough independent evidence for verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s170-yaml-c95654966a:c001:e002:7407db0d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Trustworthiness in sales is built through understanding and addressing clients' actual needs rather than confrontational techniques.",
+      "qualification": "These findings are self-reported or observed, and interpretations could vary across different contexts or industries.",
+      "support_ids": [
+        "linkedin-posts-2023-08-15-never-trust-a-sales-person-md-c5efc806b5:c001:e001:bf4179ce",
+        "youtube-shorts-run-transcripts-s117-yaml-be0a8100f9:c001:e006:f9412062"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Ethical behavior and personal values are seen as foundational for success in sales.",
+      "qualification": "This is a self-reported belief, with potential variability in its applicability across different sectors.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad:c001:e004:1aa1c2c8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Prioritizing value over price perception can influence buyers' choices.",
+      "qualification": "The statement is hypothetical and lacks empirical evidence to support the claim universally.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s172-yaml-6ca6c71e8f:c001:e003:eeb56958"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "People typically value their own property more than others they do not own.",
+      "qualification": "This observation is self-reported and not substantiated with empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s204-yaml-b28acaab98:c001:e004:b58e8d0c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-proving trustworthiness is emphasized over seeking external validation.",
+      "qualification": "This insight is self-reported and may not align with all social or business norms.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c005:e002:8c89b54d"
+      ]
+    }
+  ]
+}

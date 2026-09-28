@@ -1,0 +1,33 @@
+id: s198
+title: You will stop getting the Price objections from your clients...IF!💡💰
+date: '2024-09-30'
+source: You will stop getting the Price objections from your clients...IF!💡💰
+audio_file: You will stop getting the Price objections from your clients...IF!💡💰 [miIuP6aF9mk].mp3
+duration: "00:00:33"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 5
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    But besides the price, uh what did you like about the project?
+- t: "00:00:04"
+  speaker: '1'
+  text: >-
+    What we're doing. We're taking the price away and we're moving the clients to the result based thinking.
+    So he's going to tell himself what he actually like about the project.
+- t: "00:00:16"
+  speaker: '1'
+  text: >-
+    And how does this compare to the ideal criteria that you have? We are actually checking.
+- t: "00:00:24"
+  speaker: '1'
+  text: >-
+    if the value that we created
+- t: "00:00:29"
+  speaker: '1'
+  text: >-
+    within this client is enough to match the price.

@@ -1,0 +1,12 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The speaker expresses reluctance but acknowledges facing truth is necessary.",
+      "qualification": "This statement is self-reported, providing insight into the speaker's attitude but lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2023-09-13-im-not-happy-to-discuss-md-fa8959df16:c001:e002:0f5e8dd4"
+      ]
+    }
+  ]
+}

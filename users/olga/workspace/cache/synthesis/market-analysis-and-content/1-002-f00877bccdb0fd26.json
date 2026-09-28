@@ -1,0 +1,74 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Saudi Arabia's real estate market is experiencing growth mainly from Saudi nationals, differing from Dubai's expatriate-driven market.",
+      "qualification": "This observation is self-reported and lacks official statistics on population or migration.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e002:f3b458e3",
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e003:c03e2732"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Road improvements in Dubai, such as widening Hessa Street to four lanes, are planned to complete within a year to improve traffic flow.",
+      "qualification": "Completion timeline is speculative and self-reported.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e006:7c79647c",
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e013:b563ed85"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Saudi Arabia has unclear laws regarding expatriate property rights, affecting freehold ownership possibilities.",
+      "qualification": "Statement is speculative and lacks legal endorsement.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e006:811a745d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Generating seller leads is essential to securing real estate listings in a competitive market.",
+      "qualification": "Advice is general and lacks specific strategies for lead generation.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e002:399ffd8f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Video content is used to showcase price reduction techniques, marking its strategic role in real estate.",
+      "qualification": "Usage and impact of video content are self-reported without external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-12-26-not-christmas-related-final-push-md-dd97ab43ac:c001:e003:fbe75423",
+        "linkedin-posts-2025-01-31-havent-posted-my-training-videos-md-0c1b6d7396:c001:e001:5705e3fd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market is highly competitive, challenging firms to generate quality leads.",
+      "qualification": "Observation is individual and not empirically supported.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-what-i-wish-someone-had-md-288164096b:c001:e004:69b9134b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai attempts to establish itself as a social media hub through initiatives like Golden Visas for content creators, fostering potential economic growth.",
+      "qualification": "Initiatives described are self-reported and based on limited observation.",
+      "support_ids": [
+        "linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd:c001:e002:b3a897eb",
+        "linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd:c001:e003:71d614d5",
+        "linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd:c001:e004:c3cbeb0c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Saudi Arabia's Vision 2030 focuses on empowering local buyers and fostering real estate through projects like NEOM and The Red Sea Project.",
+      "qualification": "Projects mentioned are noted but lack thorough verification beyond observed claims.",
+      "support_ids": [
+        "linkedin-posts-2025-02-13-onegulf-onefuture-how-dubai-and-md-cf685987c8:c001:e001:4ccf956e",
+        "linkedin-posts-2025-02-13-onegulf-onefuture-how-dubai-and-md-cf685987c8:c001:e002:fdfca185"
+      ]
+    }
+  ]
+}

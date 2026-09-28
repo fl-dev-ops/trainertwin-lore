@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "New way to network! Have you tried it already?",
+      "statement": "Encourages trying new networking methods.",
+      "topic": "networking",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Single social media post encouraging innovative networking."
+}

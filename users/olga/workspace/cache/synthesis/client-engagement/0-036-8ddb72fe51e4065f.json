@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Understanding the client's actual situation and problems they are trying to solve is crucial for effective engagement in real estate.",
+      "qualification": "The statement is advice-based and requires further empirical validation to confirm its effectiveness as a strategy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s155-yaml-3089cec4f6:c001:e003:7cf30cd0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients respond less positively to overly boastful sales pitches compared to those that provoke reflection on their needs.",
+      "qualification": "This observation is hypothetical, which indicates a need for more concrete evidence to support this claim.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s155-yaml-3089cec4f6:c001:e005:4b15bc75"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Neutralizing language may help re-engage aged leads effectively.",
+      "qualification": "The suggestion is based on advice, thus it requires further experimentation to be deemed an effective strategy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s159-yaml-1e225e9a1c:c001:e001:f11512ba"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The goal in re-engaging aged leads is to identify their 'vital sign,' indicating readiness or interest.",
+      "qualification": "It's a hypothesis or strategy which requires tests in practical scenarios to determine reliability.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s159-yaml-1e225e9a1c:c001:e003:a199ad27"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Considering what the client wants to avoid can guide effective property recommendations.",
+      "qualification": "This observation is based on advice and remains unverified until additional sources confirm its effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e003:5fd79fa0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales tactics that over-talk clients without understanding their needs are less effective than those focusing on client understanding.",
+      "qualification": "There is a belief that understanding client needs leads to better engagement, but the claim lacks empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e001:4e8c6c3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is uncertainty about the effectiveness of sending materials and waiting for a client to make a purchase decision, highlighting the importance of active engagement.",
+      "qualification": "The approach is speculative and emphasizes an engagement strategy over passive sales processes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e004:3d46738d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering unbiased market insights can potentially boost client engagement by providing value beyond typical sales pitches.",
+      "qualification": "The offering is self-reported and thus requires additional external validation to confirm its effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s165-yaml-669432e65e:c001:e004:1c42caf5"
+      ]
+    }
+  ]
+}

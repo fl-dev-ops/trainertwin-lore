@@ -1,0 +1,74 @@
+{
+  "findings": [
+    {
+      "counter_ids": [
+        "youtube-shorts-run-transcripts-s75-yaml-e5b3b20360:c001:e001:496a79bf"
+      ],
+      "finding": "Sales commission is a significant motivator for sales agents in Dubai.",
+      "qualification": "Commission-driven motivation does not necessarily imply unethical behavior. Motivations can be diverse.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s74-yaml-949679f29c:c001:e003:bd23af29"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In Dubai, real estate commissions are typically paid by buyers and split fifty-fifty between agents.",
+      "qualification": "This claim is specific to real estate transactions in Dubai and may not reflect global practices.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s75-yaml-e5b3b20360:c001:e001:496a79bf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales scripts are generally viewed negatively by agents.",
+      "qualification": "The effectiveness of sales scripts can vary based on individual style, training, and context. This is based on observed behaviors.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s79-yaml-9f84fb34a0:c001:e001:d621a237"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies emphasize understanding prospects' desired outcomes rather than traditional methods of convincing them to buy.",
+      "qualification": "This reflects a modern approach to sales that prioritizes customer needs and builds rapport.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s84-yaml-ea93100b3a:c001:e003:8eda8a54",
+        "youtube-shorts-run-transcripts-s84-yaml-ea93100b3a:c001:e004:ed302adf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective objection handling involves a process of clarify, discuss, and diffuse.",
+      "qualification": "This method is shared as advice and its effectiveness may not be universally applicable.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s86-yaml-4de8201e22:c001:e001:b39880cf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Identifying clients' investment timings and reasons is crucial in sales.",
+      "qualification": "This finding is based on observed advice and may vary with client profiles.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s83-yaml-6c61620fd4:c001:e002:8961fefd",
+        "youtube-shorts-run-transcripts-s83-yaml-6c61620fd4:c001:e004:d7ed1b91"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Age leads are typically less motivated, suggesting a need for frequent attempts to engage them.",
+      "qualification": "The advice relates specifically to strategies for engaging less responsive leads.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s85-yaml-99ce5f647c:c001:e002:9d32fca9",
+        "youtube-shorts-run-transcripts-s85-yaml-99ce5f647c:c001:e003:01c57412",
+        "youtube-shorts-run-transcripts-s85-yaml-99ce5f647c:c001:e005:cc479cff"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sellers in Dubai are not obligated to work exclusively with a single agent.",
+      "qualification": "This may influence agent strategies and market competition.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s75-yaml-e5b3b20360:c001:e002:5cc9778d"
+      ]
+    }
+  ]
+}

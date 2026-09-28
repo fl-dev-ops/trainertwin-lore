@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2025-09-03-10-years-of-dubai-deals-md-1e833b6938-93fda05488809b5f.jsonl",
+  "external_id": "7368909546418888704",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:47:08Z",
+  "metadata_hash": "f3d2d46ff14f441607b7b9ca78da8d249561407d9ec5512cd0688dd39b629bbc",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-09-03T07:35:43.585000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-09-03-10-years-of-dubai-deals.md",
+  "source_sha256": "d7b665677145165ed0a8c3bd2c2bc3e773f159279748c2d91930b4c66b0d601c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestraining-realestatecoldcalling-dubairealtorcoach-activity-7368909546418888704-QaR8"
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-02-14-clients-are-ghosting-you-after-md-47044fc1cd-16f665de23f2603f.jsonl",
+  "external_id": "7428368935701467137",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:04:17Z",
+  "metadata_hash": "5a94685138ce0afd87b0096a8b95d6e71ce98d45047224ad78c925a907dad927",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-02-14T09:26:06.692000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-02-14-clients-are-ghosting-you-after.md",
+  "source_sha256": "59b33194f4ba98dbd690eb58b39026838b4bb3b7a1eff8c292c73c2e83050715",
+  "source_url": "https://www.linkedin.com/posts/olgasi_why-most-clients-disappear-after-your-pitch-activity-7428368935701467137-YnMM"
+}

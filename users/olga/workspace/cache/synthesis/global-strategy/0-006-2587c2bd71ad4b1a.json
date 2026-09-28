@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Gold is considered a popular and viable investment.",
+      "qualification": "This is based on a speaker's observed comment and lacks broader market context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s203-yaml-36daf8e560:c001:e001:72f23a60"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in average units in areas with high supply can limit negotiation power with tenants.",
+      "qualification": "The claim is self-reported by a speaker and doesn't include independent market analysis.",
+      "support_ids": [
+        "youtube-transcripts-09-yaml-bd534f7e8c:c001:e007:bae4d3a8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Off-plan property investments in Dubai can be attractive to both residents and foreign buyers.",
+      "qualification": "Advice is presented in the source, but lacks statistical backing or performance data.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c002:e003:19a6abb3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent price reductions are recommended as a strategy to attract real estate buyers.",
+      "qualification": "This advice appears generalized and lacks corroborative evidence of efficacy.",
+      "support_ids": [
+        "youtube-transcripts-02-yaml-c6ae54efe6:c001:e001:71f35269"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate commissions can take a considerable time to be paid after securing a client.",
+      "qualification": "The claim is observed from one speaker, lacking broader verification or examples.",
+      "support_ids": [
+        "youtube-transcripts-07-yaml-29825889bb:c002:e003:dfed0970"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in Jumeirah Island villas for rental income may not be optimal.",
+      "qualification": "This finding comes from a single source without broader comparative analysis or data.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c001:e003:1b5f1da9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Potential property investors should examine building realities before investing based on discounts.",
+      "qualification": "Advice is singularly sourced and lacks external validation.",
+      "support_ids": [
+        "youtube-transcripts-102-yaml-de287101db:c002:e001:1b0d65fe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Achieving significant earnings from real estate deals is possible with coaching support.",
+      "qualification": "The instance is self-reported and lacks details on transnational application or repeatability.",
+      "support_ids": [
+        "youtube-transcripts-11-yaml-e68135aa2f:c002:e004:193aa440"
+      ]
+    }
+  ]
+}

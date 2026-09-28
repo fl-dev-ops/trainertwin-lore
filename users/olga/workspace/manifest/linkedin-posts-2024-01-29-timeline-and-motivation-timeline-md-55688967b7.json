@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-01-29-timeline-and-motivation-timeline-md-55688967b7-5937343352843e70.jsonl",
+  "external_id": "7157703936039170048",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:22:07Z",
+  "metadata_hash": "254f3a1ac0f3e644543acae5adee7ea68266b55350c8125bada6ea328dee1b51",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-01-29T12:00:02.060000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-01-29-timeline-and-motivation-timeline.md",
+  "source_sha256": "6946e435feb106ee0f04f256aa92439fed6b01eb1395720e19ed9810ce8bc8f5",
+  "source_url": "https://www.linkedin.com/posts/olgasi_secondarymarket-realestateexpert-dubaiinvestment-activity-7157703936039170048-i5Oc"
+}

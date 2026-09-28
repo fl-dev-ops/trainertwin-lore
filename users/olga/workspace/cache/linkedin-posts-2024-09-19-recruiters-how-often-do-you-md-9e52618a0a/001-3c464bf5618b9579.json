@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "like “Help me get a job in Dubai!” or “I’ll take anything!",
+      "statement": "Candidates send desperate, generic messages like 'Help me get a job in Dubai!' or 'I’ll take anything!'",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "are they hurting their chances? From where I stand, these requests often feel like",
+      "statement": "Desperate, generic messages hurt candidates' chances.",
+      "topic": "application process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "what should candidates be doing to stand out? And just as importantly,",
+      "statement": "Asking recruiters for tips on how candidates can stand out and what to avoid.",
+      "topic": "client quality",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post soliciting feedback from recruiters about candidate job requests."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-05-06-all-about-today-have-you-md-e6c7190998-252b984b192b9578.jsonl",
+  "external_id": "7193209395252514818",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:25:21Z",
+  "metadata_hash": "000541b20862d5fca01fda2502fe87df19d8696e0ca822ecec1f641064dd92db",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-05-06T11:26:03.196000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-05-06-all-about-today-have-you.md",
+  "source_sha256": "4960df79a7d4d584c0ac2d639eb6b4586253cbce16e00dd0ea90d59ccc4cf0ec",
+  "source_url": "https://www.linkedin.com/posts/olgasi_all-about-today-have-you-stuck-in-a-business-activity-7193209395252514818-co6Y"
+}

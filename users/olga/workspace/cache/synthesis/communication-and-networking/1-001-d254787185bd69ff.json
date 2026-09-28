@@ -1,0 +1,67 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback on LinkedIn is vital for engagement and potential collaborations but lacks verification of its impact.",
+      "qualification": "Effectiveness and success levels of audience feedback strategies are self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-04-18-reaching-out-to-my-colleagues-md-64c43888fe:c001:e005:e346ee29",
+        "linkedin-posts-2023-04-25-i-discovered-this-with-my-md-325f5166eb:c001:e010:1b55d4ab"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Questions are used as tools for engagement in professional settings, especially in sales on LinkedIn, promoting deeper client interactions.",
+      "qualification": "These are advised practices in user content but lack broader empirical validation of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-10-27-what-is-the-main-reason-md-ed7d7f9fe5:c001:e004:607edf66",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e005:4ead6f29"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling trends on LinkedIn suggest a shift towards trust-building advisor roles, with self-reported emphasis on engagement.",
+      "qualification": "Reported trends show a shift, but there is no clear or verified acceptance and outcomes for these practices.",
+      "support_ids": [
+        "linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d:c001:e004:19cd1001"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "LinkedIn Live events are intended for real-time engagement, using humor and informal language to boost audience interaction.",
+      "qualification": "While these events exist, the specific outcomes of humor and informality on audience engagement aren't quantitatively validated.",
+      "support_ids": [
+        "linkedin-posts-2024-04-18-my-first-linkedin-live-today-md-2d2ec4cdd9:c001:e001:39ba5eaf",
+        "linkedin-posts-2024-04-18-my-first-linkedin-live-today-md-2d2ec4cdd9:c001:e002:5f0cc2e6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media engagement often involves simple interactive methods, like using symbols or encouraging quick comments to gauge interest.",
+      "qualification": "These methods are observed but their success and long-term effectiveness are unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-04-01-what-if-its-all-just-md-9cca12951a:c001:e003:b5d0fad7",
+        "linkedin-posts-2024-05-08-im-off-to-a-new-md-2635416515:c001:e005:2aaaaab3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Curiosity-driven interactions are valued in communication strategies for networking on platforms like LinkedIn.",
+      "qualification": "This is a self-reported strategy noted in individual posts without empirical evidence of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1:c001:e004:93c2be9a",
+        "linkedin-posts-2023-10-12-as-usual-im-starting-here-md-ac8eec80eb:c001:e004:a6568a30"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "LinkedIn posts frequently use comments and interaction prompts to boost engagement, although the resultant quality remains uncertain.",
+      "qualification": "Use of this strategy is reported but lacks validation on the level of genuine engagement achieved.",
+      "support_ids": [
+        "linkedin-posts-2024-05-09-do-you-really-understand-your-md-90af976bf9:c001:e004:7cd99e62",
+        "linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e:c001:e005:2394278e",
+        "linkedin-posts-2024-06-20-my-most-in-demand-topic-for-md-c444ae5b67:c001:e003:a4ef7145"
+      ]
+    }
+  ]
+}

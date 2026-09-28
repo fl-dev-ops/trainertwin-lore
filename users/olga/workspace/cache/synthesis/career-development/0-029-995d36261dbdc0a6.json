@@ -1,0 +1,58 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real growth in career development involves stepping out of one's comfort zone and embracing uncertainty.",
+      "qualification": "This perspective relies on personal belief and experiences, as the evidence is primarily self-reported and lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-nine-years-in-real-estate-md-5696766c14:c001:e002:485c6ab3",
+        "linkedin-posts-2024-08-19-nine-years-in-real-estate-md-5696766c14:c001:e007:8dda93ae",
+        "linkedin-posts-2024-08-27-waiting-for-certainty-most-people-md-c105671be8:c001:e001:1d3d916b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Active expansion of knowledge is crucial to excel in one's career, beyond relying solely on natural talent.",
+      "qualification": "This viewpoint is based on self-reported beliefs without empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-nine-years-in-real-estate-md-5696766c14:c001:e005:fb6de4aa",
+        "linkedin-posts-2024-08-19-nine-years-in-real-estate-md-5696766c14:c001:e006:b951f730"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Relying too heavily on assumptions during sales interactions can hinder career progress, emphasizing the need for open conversations.",
+      "qualification": "The advice originates from anecdotal observations and lacks external empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a:c001:e002:c8fdc0a4",
+        "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a:c001:e003:0ea08e33",
+        "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a:c001:e005:e76819ac"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A structured approach with proper tools and guides is necessary for effective client engagement and career development.",
+      "qualification": "The observations provided are based on specific instances and do not represent broader empirical research.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e004:d2cc10a4",
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e005:f136249e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The pursuit of financial gain alone is not an effective career goal, implying the importance of setting broader, meaningful objectives.",
+      "qualification": "The statement is a commonly held belief, self-reported and based on opinion rather than verified research.",
+      "support_ids": [
+        "linkedin-posts-2024-08-21-i-just-want-to-make-md-d044578484:c001:e001:d5e176f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Formal education and stepping into challenging roles can significantly contribute to career excellence.",
+      "qualification": "The advice is self-reported and not supported by additional sources or empirical studies.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-nine-years-in-real-estate-md-5696766c14:c001:e006:b951f730"
+      ]
+    }
+  ]
+}

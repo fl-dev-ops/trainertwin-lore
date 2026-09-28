@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Weekly Objections Handling Club is opened in Ray White International Dubai.",
+      "statement": "Weekly Objections Handling Club is opened in Ray White International Dubai.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "What is the hardest objection for you to overcome?",
+      "statement": "What is the hardest objection for you to overcome?",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "We will be covering them all!",
+      "statement": "We will be covering them all!",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post promoting a sales club focused on handling objections."
+}

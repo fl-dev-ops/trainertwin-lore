@@ -1,0 +1,52 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Practical strategies are preferred over motivational talks for career development.",
+      "qualification": "The evidence consists of one individual's advised belief, lacking broader validation.",
+      "support_ids": [
+        "linkedin-posts-2026-03-16-dubai-real-estate-market-changedall-md-aeee764494:c001:e006:7fd466ab"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training opportunities are available for Dubai real estate agents to aid career development.",
+      "qualification": "The statement is self-reported, and the effectiveness of the training is unclear.",
+      "support_ids": [
+        "linkedin-posts-2026-03-26-free-training-for-dubai-agents-md-d8f8543f85:c001:e001:bfc27f5d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Free training and practical exercises are used to help agents manage uncertainty in sales.",
+      "qualification": "Details on how these exercises impact career development are not provided.",
+      "support_ids": [
+        "linkedin-posts-2026-04-01-i-never-thought-i-will-md-3f2ad6a708:c001:e004:5a69ad3a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset tweaks are valued in training programs, contributing to perceived career success.",
+      "qualification": "Evidence is self-reported and lacks community verification.",
+      "support_ids": [
+        "linkedin-posts-2026-03-28-and-i-wish-i-will-md-65c3debfbb:c001:e001:775d5081"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-reflection is integrated into training programs as a tool for discovering personal barriers.",
+      "qualification": "Insights gained from reflection are self-reported, potentially biased by individual's experience.",
+      "support_ids": [
+        "linkedin-posts-2026-04-01-i-never-thought-i-will-md-3f2ad6a708:c001:e007:7d2f3459"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents face challenges like buyer discount expectations and discuss them at the expense of proactive engagement.",
+      "qualification": "Information is based on observed behavior, lacking evidence of resolution strategies.",
+      "support_ids": [
+        "linkedin-posts-2026-04-01-i-never-thought-i-will-md-3f2ad6a708:c001:e005:3d3b128d"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-06-30-objection-in-90-of-md-74d0930771-53f363a01d6539e6.jsonl",
+  "external_id": "7080549662604111872",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:18:06Z",
+  "metadata_hash": "539e1b26a8552de41d612549737de938d4e32112dd2e5627a187c80ce68520e5",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-06-30T14:16:29.816000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-06-30-objection---in-90-of.md",
+  "source_sha256": "4cce5025481982700f92a9910bbd5b947e0b0d8ba87b49a1286a3c8729955c6b",
+  "source_url": "https://www.linkedin.com/posts/olgasi_objectionhandling-objections-qualifying-activity-7080549662604111872-Cqe7"
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I feel deeply grateful—not just for being here, but for the risk I took ten years ago. At 34, I made the decision to move to Dubai, stepping into the unknown.",
+      "statement": "I feel deeply grateful—not just for being here, but for the risk I took ten years ago.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Because just like Dubai, I never want to stop growing, evolving, and creating.",
+      "statement": "Just like Dubai, I never want to stop growing, evolving, and creating.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "When was the last time you took a leap of faith?",
+      "statement": "The author prompts reflection on personal risk-taking.",
+      "topic": "leap of faith",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "just when you think the city has reached its peak, it reinvents itself—like a place that refuses to age, always young, always ahead.",
+      "statement": "Dubai reinvents itself—like a place that refuses to age.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This is a motivational reflection on the author's experience in Dubai, discussing personal growth and risk-taking."
+}

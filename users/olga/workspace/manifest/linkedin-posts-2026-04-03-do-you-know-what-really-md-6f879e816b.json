@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b-c2fe7537a8e2656c.jsonl",
+  "external_id": "7445685266893414400",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:06:52Z",
+  "metadata_hash": "4865fe38a89bc37c3c62f59e982159e5f4c5b65857c894bbcaec5168fc4f1bdf",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-04-03T04:15:01.770000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-04-03-do-you-know-what-really.md",
+  "source_sha256": "09e1643afb65ff717c7750af7115812f256065181a0799e4ef7ce3b4d6662602",
+  "source_url": "https://www.linkedin.com/posts/olgasi_do-you-know-what-really-happened-this-march-activity-7445685266893414400-L6-R"
+}

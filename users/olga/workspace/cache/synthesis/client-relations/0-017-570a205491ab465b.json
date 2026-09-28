@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking specific, targeted questions during client interactions is advised to enhance engagement and obtain clearer responses.",
+      "qualification": "This advice is provided in a LinkedIn post and is not subject to independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e002:7230191d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "It is recommended to confirm that answers received from clients yield actionable data, which aids in effective decision-making.",
+      "qualification": "Advice based on provider experience, lacking independent validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e003:ea7bf352"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A warning exists against proceeding without clarity in client communications, as this may lead to suboptimal outcomes.",
+      "qualification": "The source is from a self-reported LinkedIn post, unverified as fact.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e004:f4c72eb9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Initial statements made by clients regarding their intentions (like wanting to invest) may conceal deeper motivations that could influence their decisions.",
+      "qualification": "This finding stems from a hypothetical consideration in a LinkedIn post and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-09-24-if-he-is-saying-md-89d6d012c4:c001:e002:1b2d5e9f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients who merely express a desire to sell are typically less likely to engage in price negotiations, highlighting the importance of understanding their actual motivations.",
+      "qualification": "Self-reported behavior and belief, not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-25-need-or-like-its-the-md-99a80a7199:c001:e001:7303673b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Trust is characterized as being built through consistent, authentic engagement over time, rather than just through singular impactful actions.",
+      "qualification": "This is a self-reported belief and may not reflect broader market dynamics.",
+      "support_ids": [
+        "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75:c001:e003:9cb48329"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There's a recognition that blind follower counts don't translate to client conversion unless trust is established through ongoing engagement.",
+      "qualification": "Missing empirical studies to validate this assumption; based on observed behavior.",
+      "support_ids": [
+        "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75:c001:e004:999f7783"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Digging deeper into clients' situations is crucial for uncovering underlying fears or concerns, which can aid in effectively addressing their needs.",
+      "qualification": "The advice is derived from a self-reported context and may not apply universally.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e003:1c64e0fe"
+      ]
+    }
+  ]
+}

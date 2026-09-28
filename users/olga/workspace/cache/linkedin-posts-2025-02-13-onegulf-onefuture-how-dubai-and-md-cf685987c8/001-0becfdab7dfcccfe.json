@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "the Saudi government is focused on empowering local buyers",
+      "statement": "Saudi Arabia's Vision 2030 aims for 70% homeownership.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Yes, Saudi real estate is booming. Projects like NEOM, The Red Sea Project, and Qiddiya are making",
+      "statement": "Saudi Arabia's real estate market is booming due to projects like NEOM and The Red Sea Project.",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing the real estate dynamics between Dubai and Saudi Arabia."
+}

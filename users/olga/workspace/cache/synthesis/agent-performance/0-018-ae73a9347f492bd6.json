@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Managers initially resisted external interventions in their sales processes.",
+      "qualification": "This information is self-reported and unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e001:3318a214"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A significant number of clients were initially unaware of the services being offered.",
+      "qualification": "This is based on observed data but remains unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e002:ac16e8bb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some agents struggle to close deals online as effectively as they do in person.",
+      "qualification": "The claim is self-reported and lacks independent confirmation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e001:0d59eed4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Many real estate transactions are increasingly moving to online platforms.",
+      "qualification": "This observation is captured twice, possibly indicating broader validation, but it remains unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e002:75bacb69",
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e002:8405b189"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agent sales performance does not always correlate with access to quality training and mentorship.",
+      "qualification": "This is an observed claim but is subject to verification.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e001:3a6ec316"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Success in sales may rely more on self-belief and consistency than mere skills.",
+      "qualification": "The advice is opinion-based and lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e003:3c300472"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Improvements in conversion rates can be achieved even if not all agents have mastered new sales skills.",
+      "qualification": "This finding is based on an observed claim, but its general applicability needs further proof.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e004:ae5185e8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal beliefs about earnings can subconsciously influence agents' sales activities and client targeting.",
+      "qualification": "The observation is theoretical and requires further investigation to be substantiated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e004:38660e29"
+      ]
+    }
+  ]
+}

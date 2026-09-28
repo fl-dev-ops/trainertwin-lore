@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2024-05-29-linkedin-asked-me-to-comment-md-ec27f29d81-31fa811d7e21fe6c.jsonl",
+  "external_id": "7201585252195049474",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:26:25Z",
+  "metadata_hash": "6d2d424b443e4a5f453bce5d8fa9aea0761f9bc0c31c2498c066f43f19e8b199",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-05-29T14:08:43.107000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-05-29-linkedin-asked-me-to-comment.md",
+  "source_sha256": "3b4709069416a9f46ccbaa7b55d6d2041368b48edb3f09b4ae7f9bf33efa0b86",
+  "source_url": "https://www.linkedin.com/posts/olgasi_linkedin-asked-me-to-comment-on-their-article-activity-7201585252195049474-UnmJ"
+}

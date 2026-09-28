@@ -1,0 +1,79 @@
+{
+  "groups": [
+    {
+      "name": "Team Dynamics",
+      "topics": [
+        "team-building-responsibility",
+        "team-celebration",
+        "team-collaboration",
+        "team-impact",
+        "team-performance",
+        "team-recruitment"
+      ]
+    },
+    {
+      "name": "Technology Use",
+      "topics": [
+        "technology-impact",
+        "technology-use"
+      ]
+    },
+    {
+      "name": "Testimonials and Customer Feedback",
+      "topics": [
+        "testimonial-importance",
+        "testimonials"
+      ]
+    },
+    {
+      "name": "Time Management",
+      "topics": [
+        "time-management",
+        "time-sensitivity"
+      ]
+    },
+    {
+      "name": "Sales Techniques",
+      "topics": [
+        "tone-in-sales",
+        "top-salesperson-qualities",
+        "top-salesperson-ratio"
+      ]
+    },
+    {
+      "name": "Traffic Management",
+      "topics": [
+        "traffic-capacity",
+        "traffic-improvement"
+      ]
+    },
+    {
+      "name": "Training Programs",
+      "topics": [
+        "training-announcement",
+        "training-approach",
+        "training-consistency",
+        "training-effectiveness",
+        "training-environment",
+        "training-evaluation",
+        "training-feedback",
+        "training-necessity",
+        "training-offer",
+        "training-opportunity",
+        "training-program",
+        "training-resource",
+        "training-resources",
+        "training-responsibility",
+        "training-services",
+        "training-session",
+        "training-success"
+      ]
+    },
+    {
+      "name": "Tool Introduction",
+      "topics": [
+        "tool-introduction"
+      ]
+    }
+  ]
+}

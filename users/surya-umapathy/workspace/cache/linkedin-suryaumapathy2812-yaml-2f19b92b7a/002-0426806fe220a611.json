@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "https://www.linkedin.com/company/assay-clinical-research/",
+      "statement": "Assay Clinical Research company LinkedIn profile is shared",
+      "topic": "company profile",
+      "unit_id": "u000060"
+    },
+    {
+      "context": "observed",
+      "kind": "self_report",
+      "quote": "Web Developer",
+      "statement": "Position held as a Web Developer",
+      "topic": "work experience",
+      "unit_id": "u000065"
+    },
+    {
+      "context": "observed",
+      "kind": "self_report",
+      "quote": "International Institute of Information Technology Bangalore",
+      "statement": "Studied at International Institute of Information Technology Bangalore",
+      "topic": "education",
+      "unit_id": "u000068"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Post Graduate in Machine Learning and Artificial Intelligence",
+      "statement": "Post Graduate in Machine Learning and Artificial Intelligence is offered",
+      "topic": "educational program",
+      "unit_id": "u000070"
+    },
+    {
+      "context": "observed",
+      "kind": "self_report",
+      "quote": "University of Madras",
+      "statement": "Studied at University of Madras",
+      "topic": "education",
+      "unit_id": "u000075"
+    },
+    {
+      "context": "observed",
+      "kind": "self_report",
+      "quote": "Tailwind CSS",
+      "statement": "Tailwind CSS skills listed with experiences",
+      "topic": "skills",
+      "unit_id": "u000084"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Front-End Development",
+      "statement": "Front-End Development skill exhibited",
+      "topic": "skills",
+      "unit_id": "u000098"
+    },
+    {
+      "context": "observed",
+      "kind": "self_report",
+      "quote": "2026-08-19T13:19:49.563Z",
+      "statement": "LinkedIn post about LLM benchmarking dated Aug 19, 2026",
+      "topic": "post",
+      "unit_id": "u000112"
+    },
+    {
+      "context": "observed",
+      "kind": "self_report",
+      "quote": "https://www.linkedin.com/posts/suryaumapathy2812_weve-been-benchmarking-different-llms-in-activity-7495831894887002112-ZjG_",
+      "statement": "LinkedIn post URL discussing different LLMs",
+      "topic": "post",
+      "unit_id": "u000113"
+    }
+  ],
+  "overview": "Structured profile data and LinkedIn posts with links and sparse details, lacking authorial interaction or personal claims"
+}

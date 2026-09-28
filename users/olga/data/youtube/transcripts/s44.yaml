@@ -1,0 +1,34 @@
+id: s44
+title: From ＂I know nothing about Dubai＂ to closing deals
+date: '2025-09-04'
+source: From ＂I know nothing about Dubai＂ to closing deals
+audio_file: From ＂I know nothing about Dubai＂ to closing deals [FtKRQVqVaMY].mp3
+duration: "00:00:25"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+- '2'
+counts:
+  raw_entries: 5
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    on how to become a top real estate agent.
+- t: "00:00:03"
+  speaker: '2'
+  text: >-
+    how much, you know, money that will be generated into your pocket.
+- t: "00:00:07"
+  speaker: '1'
+  text: >-
+    on Monday basically I went to the office. Nobody knew who I was. I was given a database. By this time
+    I realized Cole Collins is in Viga.
+- t: "00:00:17"
+  speaker: '2'
+  text: >-
+    What changed for you in terms of, you know, understanding the market?
+- t: "00:00:21"
+  speaker: '1'
+  text: >-
+    What I like is your confidence. I have no idea about Dubai.

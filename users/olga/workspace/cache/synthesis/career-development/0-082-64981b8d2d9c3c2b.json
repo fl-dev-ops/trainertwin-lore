@@ -1,0 +1,39 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are considered important for career growth, but this view is unsupported by empirical evidence.",
+      "qualification": "The conclusions are based on personal beliefs and experiences, which are not empirically validated.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:u000001",
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:u000002"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real coaching is suggested to be more beneficial for career advancement than self-help resources like YouTube videos.",
+      "qualification": "This is an anecdotal perspective with no empirical support.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:u000029"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is viewed as crucial for career progression, based on self-reported experiences.",
+      "qualification": "The evidence is self-reported and lacks external validation.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:u000070"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset shifts, including reframing challenges and embracing discomfort, are highlighted as important for career development.",
+      "qualification": "These insights are based on self-reported accounts and are not empirically proven.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s197-yaml-094eaf8cfd:c001:e003:af042345",
+        "youtube-shorts-run-transcripts-s196-yaml-2dec848a31:c001:e001:fbf7c138",
+        "youtube-shorts-run-transcripts-s202-yaml-fe8c4aa241:c001:e001:55a5f21e"
+      ]
+    }
+  ]
+}

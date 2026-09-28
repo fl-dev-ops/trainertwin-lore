@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "instagram-posts-2025-09-03-you-will-make-a-1-md-0405d2f6d2-5b9ee29f74728b4e.jsonl",
+  "external_id": "3713551670396758586",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:10:25Z",
+  "metadata_hash": "bbac30d3283b53d12923bac5468d065981fb8b1a652ede814c750c0dc5714a31",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-09-03T14:31:43Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2025-09-03-you-will-make-a-1.md",
+  "source_sha256": "73f9815105a62d27a4f5263c80c13701bb94cc2d8e9e368fbdcc8581bfdee960",
+  "source_url": "https://www.instagram.com/p/DOJL5GpDqo6/"
+}

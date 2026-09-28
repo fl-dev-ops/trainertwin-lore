@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Effective content creation is not about posting more frequently but about producing the right kind of content, which is necessary for engaging audiences and generating leads.",
+      "qualification": "This is a self-reported statement without independent verification or metrics to define 'the right kind of content'.",
+      "support_ids": [
+        "linkedin-posts-2024-11-08-its-not-about-posting-more-md-3d8518ec62:c001:e001:c241693f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai is improving its infrastructure by connecting Al Awir 1 to Emirates Road with a new 7.5 km direct road, expected to increase road capacity and decrease travel time.",
+      "qualification": "These statements are presented as factual claims but are not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e004:7626b090",
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e005:c179409a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Saudi Arabia's real estate market is experiencing growth mainly from Saudi nationals, which differs significantly from the expatriate-driven market in Dubai.",
+      "qualification": "This is observed data about population growth and is not backed by external population or migration statistics.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e002:f3b458e3",
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e003:c03e2732"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Road improvements in Dubai, including widening Hessa Street to four lanes, aim to complete all upgrades within a year, potentially enhancing traffic flow and urban connectivity.",
+      "qualification": "The expected timeline for completion is self-reported and speculative.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e006:7c79647c",
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e013:b563ed85"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is uncertainty regarding property rights for expatriates in Saudi Arabia, as existing laws are not well-defined about freehold property ownership.",
+      "qualification": "The statement lacks legal corroboration and relies on speculative interpretation.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e006:811a745d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Saudi Arabia's infrastructure, particularly engineering and transportation systems, is considered to be 'a work in progress,' implying ongoing development challenges.",
+      "qualification": "This assessment is subjective and lacks specific developmental benchmarks or external comparisons.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e008:5f465c2c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Generating seller leads in the current market is emphasized as crucial for obtaining listings.",
+      "qualification": "The strategies for effective lead generation are not detailed; this is a broad contextual statement without actionability.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e002:399ffd8f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Pocket listings are often sold by agents other than the one who holds them, suggesting inefficiencies or challenges within listing networks.",
+      "qualification": "This finding is limited by lack of specifics on how pocket listings are managed and marketed.",
+      "support_ids": [
+        "linkedin-posts-2024-11-28-i-have-a-pocket-listings-md-ace554932a:c001:e001:62310f17"
+      ]
+    }
+  ]
+}

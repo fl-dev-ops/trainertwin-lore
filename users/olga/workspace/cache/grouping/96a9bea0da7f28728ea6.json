@@ -1,0 +1,99 @@
+{
+  "groups": [
+    {
+      "name": "Personal Growth",
+      "topics": [
+        "self-assessment",
+        "self-belief-in-sales",
+        "self-investment",
+        "self-limiting-beliefs",
+        "self-promotion",
+        "self-review"
+      ]
+    },
+    {
+      "name": "Skills Development",
+      "topics": [
+        "skill-development",
+        "skill-inquiry",
+        "skill-preparation",
+        "skills-acquisition",
+        "skills-development",
+        "skills-gaps",
+        "skills-training"
+      ]
+    },
+    {
+      "name": "Communication Strategies",
+      "topics": [
+        "seller-communication",
+        "social-media-engagement",
+        "social-media-strategy",
+        "storytelling"
+      ]
+    },
+    {
+      "name": "Success and Achievement",
+      "topics": [
+        "success",
+        "success-factors",
+        "success-process"
+      ]
+    },
+    {
+      "name": "Training and Education",
+      "topics": [
+        "strategies-in-training",
+        "teaching-approach",
+        "subscription-model",
+        "supplement-to-offline-training"
+      ]
+    },
+    {
+      "name": "Feedback and Improvement",
+      "topics": [
+        "soliciting-feedback",
+        "systems-improvement",
+        "systematic-approach"
+      ]
+    },
+    {
+      "name": "Team Dynamics",
+      "topics": [
+        "team-building",
+        "support-networks"
+      ]
+    },
+    {
+      "name": "Creative Thinking",
+      "topics": [
+        "spontaneous-thinking"
+      ]
+    },
+    {
+      "name": "Strategic Planning",
+      "topics": [
+        "strategic-outcomes",
+        "strategy-sessions"
+      ]
+    },
+    {
+      "name": "Survival Tactics",
+      "topics": [
+        "survival-strategy"
+      ]
+    },
+    {
+      "name": "Script Mastery",
+      "topics": [
+        "script-mastery"
+      ]
+    },
+    {
+      "name": "style",
+      "topics": [
+        "style"
+      ]
+    }
+  ]
+}

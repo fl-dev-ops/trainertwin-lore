@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-12-21-im-explaining-this-simple-sales-md-6b6dd456a8-4b5b6c03e05da2d6.jsonl",
+  "external_id": "7143560501338316801",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:20:13Z",
+  "metadata_hash": "d14d6a0d821ae3abeea33de6f417f184f7df98bd01a536d67a9da444863d5141",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-12-21T11:19:04.455000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-12-21-im-explaining-this-simple-sales.md",
+  "source_sha256": "b757d962d503f9c07fe18bc45e719628f49704a301a0042b6ec2019874e45c59",
+  "source_url": "https://www.linkedin.com/posts/olgasi_qualifytheclient-salesfunnel-dubaisalestrainer-activity-7143560501338316801-cd1K"
+}

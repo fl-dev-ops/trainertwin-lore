@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "What is the problem your client",
+      "statement": "The problem your client is trying to solve.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post sharing insights on client engagement in sales."
+}

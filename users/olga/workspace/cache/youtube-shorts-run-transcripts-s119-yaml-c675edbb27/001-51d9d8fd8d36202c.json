@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "But first of all, for you to being able to start discussing and handling objection with the client, you should put yourself into the, that's not a problem mode.",
+      "statement": "Put yourself into the, that's not a problem mode when discussing objections with clients.",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "So the first thing, removing the sales resistance.",
+      "statement": "Removing sales resistance is essential for effective client communication.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Because if you are getting ready to attack the client, not going to listen.",
+      "statement": "Avoid being aggressive in objection handling as it prevents client listening.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "instead of going into objection handling mode, when we are more aggressive, We say, yeah, that's not a problem.",
+      "statement": "Instead of being aggressive, adopt a calm, problem-solving approach to objections.",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Short video on overcoming client objections in sales."
+}

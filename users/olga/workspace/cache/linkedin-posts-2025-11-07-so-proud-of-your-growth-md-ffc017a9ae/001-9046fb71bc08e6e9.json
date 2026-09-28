@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "contacted me this April after watching several of my YouTube trainings.",
+      "statement": "Muhammad Usman Hashmi contacted me this April after watching several of my YouTube trainings.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "First deal was closed within first 2 months and now … being just a bit over 6 months in the industry",
+      "statement": "First deal was closed within first 2 months and now … being just a bit over 6 months in the industry he already sets an example for his team.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "I liked his approach - so I invited him to the Open Day that I was holding at ONE BROKER GROUP.",
+      "statement": "I liked his approach - so I invited him to the Open Day that I was holding at ONE BROKER GROUP.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Dear recruiters do not try to steal him!",
+      "statement": "Dear recruiters do not try to steal him!",
+      "topic": "recruitment",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "style",
+      "quote": "If you found a spelling mistake here - you are right - this was written with out ChatGpt.",
+      "statement": "If you found a spelling mistake here - you are right - this was written with out ChatGpt.",
+      "topic": "personal reflection",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A LinkedIn post celebrating an individual's professional growth, sharing a personal story of mentorship, and inviting engagement."
+}

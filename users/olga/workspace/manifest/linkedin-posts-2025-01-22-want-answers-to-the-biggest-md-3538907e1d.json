@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2025-01-22-want-answers-to-the-biggest-md-3538907e1d-b4034e2c89753de2.jsonl",
+  "external_id": "7287807060728012800",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:38:40Z",
+  "metadata_hash": "7453256141ecbe0c7c552a99d034e646f42d2d2fc2e61c7636a6dafddf9aea41",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-01-22T12:23:24.185000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-01-22-want-answers-to-the-biggest.md",
+  "source_sha256": "95d44af6411b7b6797fa0b45f8308e307032289ed62e8f8fc89802087123444c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_real-estate-agents-i-need-your-input-activity-7287807060728012800-VBfT"
+}

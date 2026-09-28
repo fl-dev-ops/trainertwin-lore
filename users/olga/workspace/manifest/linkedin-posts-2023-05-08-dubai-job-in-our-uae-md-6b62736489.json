@@ -1,0 +1,16 @@
+{
+  "author": "oxana-kukharchuk",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2023-05-08-dubai-job-in-our-uae-md-6b62736489-f9b8671094f14ac6.jsonl",
+  "external_id": "7061405885809537024",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:16:28Z",
+  "metadata_hash": "57a701a5288a5fa0e775cf32ed80e77810ec9620a61f8e14b636f8536b58ca44",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-05-08T18:25:57.754000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-05-08-dubai-job-in-our-uae.md",
+  "source_sha256": "91fec4de158af2071462354e7217521671c72376ff915daffb48e89e9d3f983b",
+  "source_url": "https://www.linkedin.com/posts/oxana-kukharchuk_dubai-job-share-7061237570185105408--TIr"
+}

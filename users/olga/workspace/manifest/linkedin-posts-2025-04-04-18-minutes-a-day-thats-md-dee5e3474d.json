@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d-e3fcb61a88d5196f.jsonl",
+  "external_id": "7313906276621545472",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:41:08Z",
+  "metadata_hash": "7551426ec60f15a098c5b6ff9d67323d3b2e3f328c8dffb32b6ecc32f0e88df0",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-04T12:52:22.154000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-04-18-minutes-a-day-thats.md",
+  "source_sha256": "cf5f352f6e1068c29028ae83ae95a0a314422780104702a23f060b4efe7207a1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalesmentordubai-newagentsinrealestate-activity-7313906276621545472--9aD"
+}

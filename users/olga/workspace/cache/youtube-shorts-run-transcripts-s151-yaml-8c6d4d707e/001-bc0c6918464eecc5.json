@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "it may look like the market has stopped. But reality is, the market shifted.",
+      "statement": "the market shifted",
+      "topic": "market dynamics",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Buyers became more selective.",
+      "statement": "Buyers became more selective",
+      "topic": "buyer behavior",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Demand didn't disappear.",
+      "statement": "Demand didn't disappear",
+      "topic": "demand",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Observation on market dynamics and buyer behavior."
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Experienced professionals seeking personalized coaching suggest its perceived value in career development.",
+      "qualification": "The evidence is based on direct observation and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-01-20-you-know-those-mondays-when-md-8bfb6f01b7:c001:e002:4db8a746"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communicating challenges and receiving feedback are encouraged for career development.",
+      "qualification": "The emphasis on engaging with challenges is based on the call for feedback within the source, not larger empirical studies.",
+      "support_ids": [
+        "linkedin-posts-2025-01-22-want-answers-to-the-biggest-md-3538907e1d:c001:e001:4f88bea3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Being valuable in any market is highlighted as true success, not just monetary wealth.",
+      "qualification": "This belief is described as self-reported and ideological, with no empirical evidence to quantify 'value' in this context.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-if-tomorrow-money-disappeared-what-md-a7e869457a:c001:e004:a7a58c28"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset shifts, such as never stopping to grow and evolve, are highlighted as important for career progression.",
+      "qualification": "The evidence is based on self-reported beliefs rather than empirical studies.",
+      "support_ids": [
+        "linkedin-posts-2025-03-03-dubai-the-future-that-never-md-75add3f943:c001:e002:3d72ce9c",
+        "linkedin-posts-2025-03-13-true-or-false-big-deals-md-908b353652:c001:e003:ed754415"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Resilience and learning from setbacks are key themes in career development narratives.",
+      "qualification": "This finding is based on narrative accounts and lacks empirical reinforcement.",
+      "support_ids": [
+        "linkedin-posts-2025-03-13-true-or-false-big-deals-md-908b353652:c001:e002:0841652b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is highlighted as crucial for career progression.",
+      "qualification": "Findings are based on self-reporting and individual beliefs.",
+      "support_ids": [
+        "linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c:c001:e002:4381af50",
+        "linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c:c001:e001:2d418d7d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence is deemed more important than talent for career advancement.",
+      "qualification": "The evidence is advisory and not empirically validated.",
+      "support_ids": [
+        "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d:c001:e003:01e58ff6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Successful real estate agents are advised not to sell aggressively, instead focusing more on understanding client needs.",
+      "qualification": "The advice is based on coaching experience and lacks empirical testing.",
+      "support_ids": [
+        "linkedin-posts-2025-04-23-does-your-mother-want-the-md-63123f766a:c001:e001:091f7589"
+      ]
+    }
+  ]
+}

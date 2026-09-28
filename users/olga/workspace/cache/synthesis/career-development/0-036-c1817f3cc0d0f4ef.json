@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate work in Dubai is described as hectic, potentially impacting social connections.",
+      "qualification": "This is self-reported and reflects personal experience.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c001:e004:7bceace4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mantras and personal motivational tools are used by individuals to navigate challenges in their career paths.",
+      "qualification": "Self-reported statement without verification.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c001:e009:5a595296"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Coaching positively impacted career development for individuals previously engaged in real estate.",
+      "qualification": "Self-reported impact, no external validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s40-yaml-2334c566bb:c001:e003:f7ef270c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training resources and online academies are considered beneficial for career development in real estate.",
+      "qualification": "Described offering without impact assessment.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s55-yaml-056df2a778:c001:e004:231da5e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Belief in oneself and addressing self-limiting beliefs are considered crucial for career development.",
+      "qualification": "General advice without specified outcome.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s43-yaml-5402d50876:c001:e001:cb314357"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Bankruptcy is mentioned as a personal challenge within the real estate profession.",
+      "qualification": "Self-reported without detailed context or resolution.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s52-yaml-d2b0a059f8:c001:e001:7d7364fc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Improving fundamental skills rather than pursuing new interests is advised for career success.",
+      "qualification": "Advice given without supporting evidence of efficacy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s57-yaml-c609fa1253:c001:e004:1ae85505"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Tracking activities systematically in real estate is important for effective client management.",
+      "qualification": "Advice on systematic management without performance metrics.",
+      "support_ids": [
+        "youtube-transcripts-04-yaml-7001eb6128:c001:e007:7efd6182"
+      ]
+    }
+  ]
+}

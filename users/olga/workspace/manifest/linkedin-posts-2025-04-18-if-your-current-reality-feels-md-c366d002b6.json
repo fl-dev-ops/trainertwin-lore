@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2025-04-18-if-your-current-reality-feels-md-c366d002b6-c22dadd1246c544b.jsonl",
+  "external_id": "7318894801368580096",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:41:51Z",
+  "metadata_hash": "6b90125114a3ca8219cbc2898f2a0a420ea4b2ab2446db72b2a8141835c0d782",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-18T07:14:59.136000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-18-if-your-current-reality-feels.md",
+  "source_sha256": "9278e3faf8f52b01564eeb131a85c2cb4e7477a659611bc5f2ecd3cad4af91f0",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatementoruae-salesmindset-dailyimprovement-activity-7318894801368580096-onbf"
+}

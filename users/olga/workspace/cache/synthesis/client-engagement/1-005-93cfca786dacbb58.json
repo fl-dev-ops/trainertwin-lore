@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is suggested when other engagement methods, like Instagram funnels, fail.",
+      "qualification": "Recommendation is self-reported and contrasts popular opinion in Dubai.",
+      "support_ids": [
+        "linkedin-posts-2025-08-05-everyone-says-cold-calling-doesnt-md-147553f13e:c001:e002:29c89586"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Recognizing imperfections or potential downsides of a project can enhance persuasiveness in client engagements.",
+      "qualification": "These observations are self-reported and anecdotal.",
+      "support_ids": [
+        "linkedin-posts-2025-08-19-throw-stones-at-me-right-md-c0c30c6746:c001:e002:a6a1d938",
+        "linkedin-posts-2025-08-19-throw-stones-at-me-right-md-c0c30c6746:c001:e003:72081f5c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effectively structured email communication can lead to successful client conversion.",
+      "qualification": "This recommendation assumes an audience receptive to email marketing and is strategic advice lacking empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-11-17-me-and-my-online-academy-md-e40dd27252:c001:e003:45dee9e1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Acknowledging client concerns and avoiding pressure creates favorable engagement environments.",
+      "qualification": "Effectiveness of the approach is self-reported and not backed by independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-08-19-throw-stones-at-me-right-md-c0c30c6746:c001:e004:20679a97"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Successful client interactions in real estate often involve addressing client pushback to convert interest into commitment.",
+      "qualification": "Reflects observed strategies and may vary based on individual client interactions.",
+      "support_ids": [
+        "linkedin-posts-2025-09-22-how-do-i-convince-a-md-d38ea41a24:c001:e001:1080ac82"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "New real estate agents are often uncertain how to start and engage with potential clients.",
+      "qualification": "Evidence based on observed behavior, lacking data on the effectiveness of suggested approaches.",
+      "support_ids": [
+        "linkedin-posts-2025-11-05-new-agents-ask-me-where-md-0ad37c47ab:c001:e004:be9ba59e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Digital marketing is a significant investment for real estate companies, with some spending between 650,000 to 1,000,000 dirhams per month.",
+      "qualification": "Claim comes from a LinkedIn post and lacks external corroboration.",
+      "support_ids": [
+        "linkedin-posts-2026-01-09-looking-for-a-new-ways-md-221fc7f2a3:c001:e001:a9a771e7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Listening is highlighted as a more critical skill than talking in effective client engagement for sales agents.",
+      "qualification": "Observation from a LinkedIn post, reflecting personal experiences and beliefs rather than widely verified practices.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-how-i-teach-agents-to-md-44406c0093:c001:e002:0164a2d3"
+      ]
+    }
+  ]
+}

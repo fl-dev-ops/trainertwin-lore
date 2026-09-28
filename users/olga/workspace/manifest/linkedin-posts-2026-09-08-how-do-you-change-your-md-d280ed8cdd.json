@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd-bd7c617510f62ab8.jsonl",
+  "external_id": "7502969011404689408",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:10:33Z",
+  "metadata_hash": "63692472d36383669ebe8b3edd225d957761ac5ce3a4465f16fc62db3e36805c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-09-08T06:00:10.742000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-09-08-how-do-you-change-your.md",
+  "source_sha256": "20ac7e4d7b1ea86e86306811d4fc646a9a516ec90f3db36287cc6ab5825acaa2",
+  "source_url": "https://www.linkedin.com/posts/olgasi_how-do-you-change-your-income-your-life-activity-7502969011404689408-G_GB"
+}

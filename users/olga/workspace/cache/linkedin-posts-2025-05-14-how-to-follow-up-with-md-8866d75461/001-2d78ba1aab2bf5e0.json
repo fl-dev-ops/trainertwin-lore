@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "At some point, following up feels less like relationship-building… and more like digital lurking. I’ve been there. And honestly? It’s not just uncomfortable — it’s ineffective.",
+      "statement": "Following up feels less like relationship-building… and more like digital lurking.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "It means showing up strategically. With purpose. With clarity. With timing that makes sense for them, not just for you.",
+      "statement": "Show up strategically, with purpose, clarity, and proper timing.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "That’s why I created a follow-up formula I still use to this day.",
+      "statement": "I created a follow-up formula built on the goal to position yourself as the obvious next step.",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing follow-up strategies in sales to avoid being intrusive."
+}

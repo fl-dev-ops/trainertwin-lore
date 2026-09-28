@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Trust is more critical for clients than aggressive sales tactics.",
+      "qualification": "This reflects an observed belief rather than quantitative evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-08-19-throw-stones-at-me-right-md-c0c30c6746:c001:e001:22a74b3c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Addressing buyers' doubts and fears is vital in decision-making processes.",
+      "qualification": "This insight comes from self-reported experience, lacking independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-08-21-first-i-want-you-to-md-f179197d31:c001:e003:c176418a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding why buyers reject offers can prevent loss of potential deals.",
+      "qualification": "The post implies an explanation exists but does not provide clear specifics.",
+      "support_ids": [
+        "linkedin-posts-2025-08-27-why-do-buyers-say-no-md-7ff918b22e:c001:e001:e465dc8b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Old leads can be revitalized into opportunities using effective strategies and scripts.",
+      "qualification": "This relies on anecdotal accounts rather than statistical data.",
+      "support_ids": [
+        "linkedin-posts-2025-08-29-every-new-agent-knows-the-md-753fe38afd:c001:e002:c3795829",
+        "linkedin-posts-2025-08-29-every-new-agent-knows-the-md-753fe38afd:c001:e003:b06db116"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mentorship can significantly enhance sales performance during low seasons.",
+      "qualification": "The claim is based on observed outcomes but may lack broader context or variable control.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e002:9ccd4d90"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An updated training structure can aid in better performance for both new and existing agents.",
+      "qualification": "Repetition by the same speaker limits independent validation.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e007:223c8b1c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Increasing call activity is believed to improve sales.",
+      "qualification": "This is presented as a belief, without supporting data.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-meet-rahil-ahmed-future-start-md-e1d80178a2:c001:e002:7bd6da6e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies can be guided by looking back at past experiences and challenges.",
+      "qualification": "The evidence comes from a case study without quantitative measure or comparison.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-pros-cons-brutal-reality-in-md-8f6b7afe70:c001:e002:1c1b4777"
+      ]
+    }
+  ]
+}

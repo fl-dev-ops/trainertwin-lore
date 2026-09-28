@@ -1,0 +1,47 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Networking and building a personal stream of leads are challenging skills for many agents, impacting their career success.",
+      "qualification": "This finding is based on observed behavior, not on empirical studies or wider industry statistics.",
+      "support_ids": [
+        "linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a:c001:e003:655688a5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client motivation and timeline is suggested to improve agent productivity and reduce objections.",
+      "qualification": "The advice is anecdotal and not supported by empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-07-03-just-a-quick-productivity-fix-md-6476bad9a5:c001:e001:f8da3b99",
+        "linkedin-posts-2023-07-03-just-a-quick-productivity-fix-md-6476bad9a5:c001:e003:d90eb358"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Russian-speaking candidates reportedly see increased job opportunities in specific regions, like Dubai.",
+      "qualification": "This is self-reported and limited to a specific geographical area without broader market data.",
+      "support_ids": [
+        "linkedin-posts-2023-07-12-more-opportunities-for-russian-speaking-md-203885163d:c001:e001:66b3780a",
+        "linkedin-posts-2023-07-12-more-opportunities-for-russian-speaking-md-203885163d:c001:e002:d538362a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mentorship, particularly in foundational skills like prospecting and closing techniques, is viewed as critical to agent success.",
+      "qualification": "Self-reported experience with no empirical evidence provided.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e009:5137e9d3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective thinking on one's feet is considered a crucial skill for real estate brokers, though new agents may struggle initially.",
+      "qualification": "This is based on observation and self-report rather than verified measures of success.",
+      "support_ids": [
+        "linkedin-posts-2023-07-19-thinking-on-your-feet-is-md-0b696be7f5:c001:e001:08148375",
+        "linkedin-posts-2023-07-19-thinking-on-your-feet-is-md-0b696be7f5:c001:e003:b9246ae0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python & Dependencies
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+
+# System & OS
+.DS_Store
+Thumbs.db
+
+# Pi Agent Harness
+.pi/
+
+# Locks & Archives
+.lock
+**/.lock
+*.zip
+*.tar.gz
+
+# Media (audio / video)
+*.mp3
+*.mp4
+*.wav
+*.m4a
+**/audios/
+**/uploads/

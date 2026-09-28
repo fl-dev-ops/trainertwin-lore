@@ -1,0 +1,54 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A mindset shift is believed to aid in handling objections and buyer pushbacks effectively, promoting personal growth.",
+      "qualification": "Self-reported and based on individual experiences without empirical data.",
+      "support_ids": [
+        "linkedin-posts-2025-07-07-dealing-with-a-buyers-pushbacks-md-65613f3758:c001:e003:fa353634",
+        "linkedin-posts-2025-07-07-dealing-with-a-buyers-pushbacks-md-65613f3758:c001:e004:bf92449b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Great sales involves asking better questions rather than pursuing warmer leads.",
+      "qualification": "Claim is observational and lacks empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e002:0aafa69e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal actions rather than external circumstances are considered crucial for career advancement.",
+      "qualification": "Perspective based on hypothetical belief, not empirically verified.",
+      "support_ids": [
+        "linkedin-posts-2025-07-18-this-is-my-face-every-md-1a8a4e8d8e:c001:e002:9da50d83"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating engaging communication with clients through tonal variation can yield different results in client interactions.",
+      "qualification": "Concept is self-reported and observational, lacking empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-07-30-same-question-different-tone-md-8c95d6f286:c001:e001:5e970666"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training and coaching programs propose to enhance skills by addressing agents’ questions and objections.",
+      "qualification": "Evidence is self-promotional, thus not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-07-14-created-this-series-based-on-md-a37c39b3ee:c001:e001:a9f7f622",
+        "linkedin-posts-2025-07-14-created-this-series-based-on-md-a37c39b3ee:c001:e003:08cbce36"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Picking up old leads and messaging previous contacts are suggested actions for improved client engagement.",
+      "qualification": "Self-reported advice without empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2025-07-18-this-is-my-face-every-md-1a8a4e8d8e:c001:e003:7c9e8fb4"
+      ]
+    }
+  ]
+}

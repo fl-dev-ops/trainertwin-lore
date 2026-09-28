@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326-e567c74ace8c38c3.jsonl",
+  "external_id": "7115938736009322496",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:17:12Z",
+  "metadata_hash": "202b8a8552d05e75a7c3d54d1a1737d8e216fd5b51f79e9efb000ccf09db1b3c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-10-06T06:00:02.413000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-10-06-sales-training-effectiveness-whats-holdi.md",
+  "source_sha256": "c1fa8c8e8bc581d2fa4b94b6b1a9b80514f875c34a421a9a158053cf002be8f4",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-careertips-salestraining-activity-7115938736009322496-dLB-"
+}

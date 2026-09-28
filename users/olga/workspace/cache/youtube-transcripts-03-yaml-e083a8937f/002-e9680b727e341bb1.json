@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the activities which been on the portal uh XYZ amount of people clicked. They actually look at the property. But the rate in terms of people are engaging and calling me is very low.",
+      "statement": "The rate of client engagement and calls is low despite high interest in property views.",
+      "topic": "client engagement",
+      "unit_id": "u000044"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Mr. client, you see this was happening. What do you think the market is trying to communicate us?",
+      "statement": "Effective negotiation begins by framing the price reduction as a market discussion with the client.",
+      "topic": "sales strategy",
+      "unit_id": "u000050"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "you are letting the door open for you to start the negotiation about the price.",
+      "statement": "Suggest to the seller that price reduction is based on market data rather than a direct request for a lower price.",
+      "topic": "sales process",
+      "unit_id": "u000050"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "I can pass you the listing presentation, the sales plan that I do for my sellers, which actually helps the property to sell with the highest possible price.",
+      "statement": "Offering a sales plan to the seller without pressure can improve professional perception and relationship.",
+      "topic": "engagement strategy",
+      "unit_id": "u000053"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "the other agents are um using um a more common strategy for Dubai real estate is when they go to pocket listing, then they start nagging and calling and texting the landlord.",
+      "statement": "Some agents resort to persistent and repetitive tactics to gain listings, which may be less effective.",
+      "topic": "agent qualities",
+      "unit_id": "u000055"
+    }
+  ],
+  "overview": "Insights on techniques for real estate agents in Dubai, focusing on client engagement and sales strategies."
+}

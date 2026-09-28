@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I‘m looking for a Freelance Videographer in Dubai (must be based in Dubai).",
+      "statement": "The author is looking for a Freelance Videographer in Dubai.",
+      "topic": "job listing",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I will be happy to support your growth and place you with my clients in real estate if, of course, we have great results working together.",
+      "statement": "The author offers support for the growth of the videographer and potential placements with clients if results are positive.",
+      "topic": "professional services",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The ideal candidate has the following qualifications: - Experience in filming content for course creators - Understand the specifications of YouTube, Instagram and TikTok.",
+      "statement": "The ideal candidate should have experience in filming content for course creators and understand specifications of various social media platforms.",
+      "topic": "qualifications",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "- Fluent in English, and able to create and proof captions on videos.",
+      "statement": "The ideal candidate should be fluent in English and able to create captions for videos.",
+      "topic": "qualifications",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The ideal candidate has the following abilities: - Professional editing capabilities - Creative ideal for editing short/long videos on real estate topics.",
+      "statement": "The ideal candidate should have professional editing capabilities and creativity for video editing.",
+      "topic": "qualifications",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "To apply, fill out the form and I will contact you over email, so make sure you use an email that you check regularly.",
+      "statement": "Applicants should fill out a form and ensure they use a regularly checked email for communication.",
+      "topic": "application process",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Applications through Direct Messaging will not be considered.",
+      "statement": "Applications through Direct Messaging will not be considered.",
+      "topic": "application communication",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "This source is a job listing for a freelance videographer in Dubai, detailing qualifications and application instructions."
+}

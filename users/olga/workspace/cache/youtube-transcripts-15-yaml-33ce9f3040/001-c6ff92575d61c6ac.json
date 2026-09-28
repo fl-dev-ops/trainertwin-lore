@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "know that in some companies agents wait for commissions for months and months they come.",
+      "statement": "Some companies have agents who wait for commissions for months.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "sometimes they don't even get paid",
+      "statement": "Agents sometimes do not get paid at all for their work.",
+      "topic": "sales performance",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "close your first deal like literally in the first",
+      "statement": "Closing your first deal quickly can lead to getting paid sooner.",
+      "topic": "sales process",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "If you take a holiday in your first year in real estate, you're like starting again.",
+      "statement": "Work consistently for the first year in real estate to avoid starting over.",
+      "topic": "professional background",
+      "unit_id": "u000006"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I've um been in Dubai for eleven years and I've worked with many trainers.",
+      "statement": "The speaker has been in Dubai for eleven years and has experience with many trainers.",
+      "topic": "professional background",
+      "unit_id": "u000024"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "appearance shapes your confidence.",
+      "statement": "Dressing well boosts confidence and productivity in real estate work.",
+      "topic": "personal growth",
+      "unit_id": "u000046"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I love coming to work in a suit because it's work Ashley.",
+      "statement": "The speaker prefers to dress in a suit at work to differentiate from personal life.",
+      "topic": "observed behavior",
+      "unit_id": "u000048"
+    }
+  ],
+  "overview": "Transcript of a YouTube discussion on starting a real estate job in Dubai, focusing on initial steps and success factors."
+}

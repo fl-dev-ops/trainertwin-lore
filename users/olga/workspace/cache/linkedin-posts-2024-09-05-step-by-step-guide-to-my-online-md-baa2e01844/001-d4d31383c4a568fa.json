@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "Agents can learn at their own pace, whenever it suits them.",
+      "statement": "Agents can learn at their own pace, whenever it suits them.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "Simply attending a lecture helps retain only about 10% of the information.",
+      "statement": "Simply attending a lecture helps retain only about 10% of the information.",
+      "topic": "knowledge retention",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "New hires can quickly get up to speed with the same materials that seasoned agents use.",
+      "statement": "New hires can quickly get up to speed with the same materials that seasoned agents use.",
+      "topic": "training consistency",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "The online academy supports continuous learning, but it doesn’t replace the value of in-person sessions.",
+      "statement": "The online academy supports continuous learning, but it doesn’t replace the value of in-person sessions.",
+      "topic": "supplement to offline training",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Guide outlining the benefits of an interactive video-based online training academy."
+}

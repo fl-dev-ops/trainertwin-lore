@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "you have to be able to do the things that ninety nine percent of other agents don't.",
+      "statement": "To succeed in making one million dollars in commission, agents must complete significant outreach tasks.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "the most important task for your day is two hundred dials.",
+      "statement": "Successful agents in 2026 should aim for two hundred dials, DMs, or conversations daily.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "you can follow my YouTube channel where I go into deep details of both the communication skills and how to generate leads.",
+      "statement": "The speaker offers resources for improving communication skills and lead generation via their YouTube channel.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "to become a top one agent, you have to be able to do the things that ninety nine percent of other agents don't.",
+      "statement": "Achieving top performance requires a distinct mindset that sets agents apart from their peers.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A transcript from a YouTube short discussing strategies for real estate agents to succeed financially in 2026."
+}

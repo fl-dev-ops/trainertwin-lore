@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents in Dubai face high performance pressure, as failing to close sales within three months may result in being asked to leave.",
+      "qualification": "This evidence is self-reported and might not apply universally across all agencies or contexts.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c001:e001:c45f85b8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Lead nurturing and constant follow-up are critical for successful real estate sales.",
+      "qualification": "The statement is presented as advice based on observed behavior but lacks empirical verification.",
+      "support_ids": [
+        "youtube-transcripts-07-yaml-29825889bb:c002:e002:e8456413"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents who pitch too early in client interactions can negatively impact sales success.",
+      "qualification": "The claim is observed but not tested for effectiveness in different sales scenarios.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e006:4af41624"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using a neutral tone and curiosity during initial client interactions can help avoid assumptions and improve communication.",
+      "qualification": "Advice given is based on anecdotal experience, not empirical research.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c002:e002:91a3d967"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A busy agent is perceived as more desirable, suggesting they handle multiple clients successfully.",
+      "qualification": "This is an observed interpretation of client behavior, not directly tied to sales success metrics.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c001:e005:115f3810"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personality can sometimes be more crucial to sales success than traditional sales techniques.",
+      "qualification": "Attributed success is self-reported, making it difficult to distinguish personality influence from skill.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c001:e003:0eaaf16c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategy varies; properties with strong rental income might not increase in price rapidly.",
+      "qualification": "This advice is not universal and depends heavily on market conditions.",
+      "support_ids": [
+        "youtube-transcripts-09-yaml-bd534f7e8c:c001:e006:04913d55"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Maintaining work is required to stay average in real estate sales performance.",
+      "qualification": "Reported belief from individual experience; not generalized for all salespersons.",
+      "support_ids": [
+        "youtube-transcripts-04-yaml-7001eb6128:c001:e005:397c84ff"
+      ]
+    }
+  ]
+}

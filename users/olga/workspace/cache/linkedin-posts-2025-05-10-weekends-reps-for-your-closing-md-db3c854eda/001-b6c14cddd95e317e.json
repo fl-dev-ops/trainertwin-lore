@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "Just dropped a new training video on my YouTube channel.",
+      "statement": "Just dropped a new training video on my YouTube channel.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If objections are the reason you’re not closing — it’s time to train that closing muscle.",
+      "statement": "If objections are the reason you’re not closing — it’s time to train that closing muscle.",
+      "topic": "closing techniques",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Watch it, apply it — and start getting results by Monday.",
+      "statement": "Watch it, apply it — and start getting results by Monday.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post promoting a training video for improving closing skills in sales."
+}

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "This is Exactly the main promise behind Tony Robbins and events. After four days at Unleash the Power Within in Germany, I would describe his technology in one simple sentence: You do not experience life. You experience the life you focus on.",
+      "statement": "You do not experience life. You experience the life you focus on.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "That story changes your emotional state. Your emotional state changes your actions.",
+      "statement": "Your emotional state changes your actions.",
+      "topic": "emotional state",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "This is why learning to control your focus and emotional state is not just positive thinking. It is a practical life skill.",
+      "statement": "Learning to control your focus and emotional state is not just positive thinking; it is a practical life skill.",
+      "topic": "personal growth",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "teaching_move",
+      "quote": "Change the meaning, and you change your emotional state.",
+      "statement": "Change the meaning, and you change your emotional state.",
+      "topic": "actions and results",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "style",
+      "quote": "you have to Jump like crazy! Dance! Scream! Walk on Fire 🔥… for 4 days…",
+      "statement": "To cement the lesson, active participation is encouraged (jumping, dancing, screaming).",
+      "topic": "engagement strategy",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "A personal reflection on mindset and change influenced by a Tony Robbins event."
+}

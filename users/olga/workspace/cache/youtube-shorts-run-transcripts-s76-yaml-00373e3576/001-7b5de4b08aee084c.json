@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "First of all, make sure you have six months worth savings for living, not surviving, for living because you need to feel yourself in and uh rather than that, you're going to feel needy, attached.",
+      "statement": "Make sure you have six months worth savings for living.",
+      "topic": "financial preparation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Second of all, understand what you want to do, do you want to do secondary or off plant.",
+      "statement": "Understand what you want to do, do you want to do secondary or off plant.",
+      "topic": "sales focus",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "find a company which is already generating enough of fresh leads and get ready to be on the phone for twenty for seven.",
+      "statement": "Find a company which is generating enough fresh leads.",
+      "topic": "lead generation",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "get ready to be on the phone for twenty for seven and follow up.",
+      "statement": "Get ready to be on the phone twenty-four seven.",
+      "topic": "commitment",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript of advice on starting as a real estate agent in Dubai."
+}

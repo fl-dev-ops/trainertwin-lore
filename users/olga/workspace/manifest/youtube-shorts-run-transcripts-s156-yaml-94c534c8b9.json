@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "youtube-shorts-run-transcripts-s156-yaml-94c534c8b9-84159dfddd37a8a7.jsonl",
+  "external_id": "s156",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T18:33:55Z",
+  "metadata_hash": "bf569da90e0934beb61f183e71bbbf315cd53fb47ab7c8cd562c773109161f8d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-12",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/youtube/shorts-run/transcripts/s156.yaml",
+  "source_sha256": "26e136e2c55bebd8d53bc73500c869a3db7099780a507c317395d29b3ad67da1",
+  "source_url": null
+}

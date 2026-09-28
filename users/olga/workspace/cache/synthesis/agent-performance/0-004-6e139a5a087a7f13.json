@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Objections are the main reason for clients withdrawing from deals in 90% of cases.",
+      "qualification": "The evidence is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-06-30-objection-in-90-of-md-74d0930771:c001:e001:8031f783"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A common challenge for agents is inadequate lead qualification, hindering their ability to close deals.",
+      "qualification": "This is a self-reported observation and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2023-06-30-objection-in-90-of-md-74d0930771:c001:e002:91669127"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Poor communication skills are prevalent among 90% of agents.",
+      "qualification": "The claim is based on an observational context without third-party validation.",
+      "support_ids": [
+        "linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a:c001:e002:77839f94"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "90% of agents do not engage sufficiently in prospecting.",
+      "qualification": "The insight is derived from an observational post and not confirmed with external data.",
+      "support_ids": [
+        "linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a:c001:e001:0af69718"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Most agents cannot generate their own leads effectively through various means such as calling, networking, and social media.",
+      "qualification": "The statement comes from an observed context without further verification.",
+      "support_ids": [
+        "linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a:c001:e003:655688a5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Succeeding as a new real estate agent relies 70% on belief system and environment.",
+      "qualification": "The statistic is offered in an advice context, lacking comprehensive empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e001:068bff11"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Prospecting is considered the foundation of success for real estate agents, especially in volatile markets like Dubai.",
+      "qualification": "This is a belief claim stated within a self-reported context.",
+      "support_ids": [
+        "linkedin-posts-2023-07-21-never-stop-prospecting-one-of-md-4238118cf6:c001:e001:c93df429"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate brokers need to 'think on their feet' as an essential skill.",
+      "qualification": "Presented as a critical skill without detailed evidence or examples.",
+      "support_ids": [
+        "linkedin-posts-2023-07-19-thinking-on-your-feet-is-md-0b696be7f5:c001:e001:08148375"
+      ]
+    }
+  ]
+}

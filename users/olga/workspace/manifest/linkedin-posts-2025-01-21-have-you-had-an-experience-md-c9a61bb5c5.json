@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2025-01-21-have-you-had-an-experience-md-c9a61bb5c5-7efdb9e9caa0c702.jsonl",
+  "external_id": "7287374581072351234",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:38:26Z",
+  "metadata_hash": "bf5a4783f263d9d8da7b2447531e202d62f3531865e84d158dc1fbe2fbc0eb7d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-01-21T07:44:53Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-01-21-have-you-had-an-experience.md",
+  "source_sha256": "bdeac2e9d027d09e4dc48d29af67988ee4959ad767c03d44952343ba1829cbe3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_have-you-had-an-experience-with-wati-looking-activity-7287374581072351234-Rni2"
+}

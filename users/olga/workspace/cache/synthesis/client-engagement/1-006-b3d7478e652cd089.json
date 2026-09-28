@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Recommendations for adapting engagement strategies to improve client connections are prevalent among agents.",
+      "qualification": "Advice is provided based on self-reported strategies and lacks independent validation.",
+      "support_ids": [
+        "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717:c001:e003:8ba4101e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Many agents express uncertainty in communicating effectively with clients during volatile market conditions.",
+      "qualification": "These insights are based on self-reported concerns, and may not represent all agents.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e002:6df56e78",
+        "linkedin-posts-2026-03-13-what-do-i-even-say-md-fc245c717a:c001:e001:0b6a000a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective follow-up systems can enhance cold outreach and convert it into structured listing pipelines.",
+      "qualification": "The strategy is observational and based on author experience, lacking external confirmation.",
+      "support_ids": [
+        "linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d:c001:e007:80e0d805"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client disengagement often occurs after initially positive interactions, possibly implicating faulty follow-up strategies.",
+      "qualification": "Self-reported observation without specified reasons for disengagement.",
+      "support_ids": [
+        "linkedin-posts-2026-02-14-clients-are-ghosting-you-after-md-47044fc1cd:c001:e001:67587233"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Higher engagement levels are achieved when social media content prioritizes offering value and spreading ideas instead of self-promotion.",
+      "qualification": "Patterns are observed, but not supported by extensive data validation.",
+      "support_ids": [
+        "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57:c001:e005:175fbe1f",
+        "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57:c001:e003:09a8cc05"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Influencing leads effectively over the phone is essential during challenging market conditions.",
+      "qualification": "Strategy must be adapted based on market conditions; situational advice.",
+      "support_ids": [
+        "linkedin-posts-2026-04-20-i-almost-gave-up-on-md-65c086757d:c001:e005:74cbc615"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Conversion rates from social media leads to qualified prospects vary greatly, suggesting a need for strategic engagement.",
+      "qualification": "These anecdotal claims require larger scale validation to generalize.",
+      "support_ids": [
+        "linkedin-posts-2026-06-15-1-that-was-the-md-88aee1b67b:c001:e004:a8804873",
+        "linkedin-posts-2026-06-15-1-that-was-the-md-88aee1b67b:c001:e006:b1eaede9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent sharing of communication challenges is encouraged among agents to tailor solutions.",
+      "qualification": "This advice implies effectiveness but lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e006:1e6c805f"
+      ]
+    }
+  ]
+}

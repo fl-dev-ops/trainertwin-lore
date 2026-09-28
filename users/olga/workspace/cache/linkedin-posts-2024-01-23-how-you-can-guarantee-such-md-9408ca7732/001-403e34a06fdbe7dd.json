@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Such objections are merely limiting beliefs held by our clients.",
+      "statement": "Such objections are merely limiting beliefs held by our clients.",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "You can't ignore them or begin by convincing the client that \"he is wrong and you are right.\"",
+      "statement": "You can't ignore them or begin by convincing the client that 'he is wrong and you are right.'",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "Instead, follow three simple steps: Clarify Discuss Diffuse.",
+      "statement": "Follow three simple steps: Clarify, Discuss, Diffuse.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "Ask for a recorded version of my training in the comments.",
+      "statement": "Ask for a recorded version of my training in the comments.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Single LinkedIn post outlining strategies for overcoming client objections."
+}

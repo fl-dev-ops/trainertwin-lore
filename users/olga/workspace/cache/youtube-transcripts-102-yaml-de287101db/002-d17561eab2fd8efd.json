@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Before you fall in love with a discount, check the building reality. You need to understand tenants, complainants, owners, comments, maintenance issue...",
+      "statement": "Before you fall in love with a discount, check the building reality.",
+      "topic": "investment opportunity",
+      "unit_id": "u000029"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If you want to buy a distress deal, you must act differently. Not with the WhatsApp, but with the real check made payable to the owner.",
+      "statement": "Act differently by making a serious offer with a real check payable to the owner.",
+      "topic": "closing techniques",
+      "unit_id": "u000031"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "the best opportunities will not go to people who start searching at the last moment. They will go to buyers who prepare early...",
+      "statement": "Best opportunities will go to buyers who prepare early and understand real market value.",
+      "topic": "real estate potential",
+      "unit_id": "u000032"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "So start preparing before the opportunity appears. Start negotiating multiple units, stay emotionally detached and move fast.",
+      "statement": "Start preparing before the opportunity appears and stay emotionally detached.",
+      "topic": "client engagement",
+      "unit_id": "u000033"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "if you are an investor, leave your comment on the comment section and I read and respond myself.",
+      "statement": "I appreciate comments and I respond to them myself as an investor.",
+      "topic": "client interaction",
+      "unit_id": "u000036"
+    }
+  ],
+  "overview": "Video transcript discussing strategies for purchasing real estate in Dubai, particularly distressed deals."
+}

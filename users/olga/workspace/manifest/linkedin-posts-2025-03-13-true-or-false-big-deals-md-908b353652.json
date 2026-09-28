@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-03-13-true-or-false-big-deals-md-908b353652-9a31ee4673b14f04.jsonl",
+  "external_id": "7305900160046325760",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:40:24Z",
+  "metadata_hash": "526f02babb0b6727709c7d04074783a675cedd5db8f0bf20f2f5e59d3889f469",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-03-13T10:38:55.216000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-03-13-true-or-false-big-deals.md",
+  "source_sha256": "504dc37e95b4ec446bb6d09c6260ea941b14f47d2222aa41cd9a54ab7c677b03",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-realestateagents-theuntoldstories-activity-7305900160046325760-roU5"
+}

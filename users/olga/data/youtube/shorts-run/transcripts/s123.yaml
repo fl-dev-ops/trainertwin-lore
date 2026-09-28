@@ -1,0 +1,37 @@
+id: s123
+title: Real Estate Agents Stop Calming Clients, Start Persuading!
+date: '2026-03-18'
+source: Real Estate Agents Stop Calming Clients, Start Persuading!
+audio_file: Real Estate Agents Stop Calming Clients, Start Persuading! [6R-BjaGr55Y].mp3
+duration: "00:01:10"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 4
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    What agent should do instead of trying to calm people down? Um, I really don't think that again, because
+    I just gave you an example of, uh, my friend who literally believes me anyway. But I think even after
+    I've told her that, you know, like all of these people they're really thinking that way, she was still
+    kind of like, you know,
+- t: "00:00:22"
+  speaker: '1'
+  text: >-
+    uncertain and unsure. So if you uh with your current clients or overseas investors, they they see
+    the media with the headlines over there, it's completely different. And you're going to keep pushing
+    and convincing that everything is great, you're going to lose them because of course you're the salesperson,
+    of course this is
+- t: "00:00:40"
+  speaker: '1'
+  text: >-
+    what you want them to see in their mind, you're lying to them. So let's not do that. Let's use a bit
+    of narrow emotion and persuasion and to be honest, it might seem from your side as a very dramatic
+    and tragical event. So again, your job is here not to deny the reality. Your job is here to bring
+    them
+- t: "00:01:05"
+  speaker: '1'
+  text: >-
+    uh instead of fear, which is fear in the unknown, bring them clarity.

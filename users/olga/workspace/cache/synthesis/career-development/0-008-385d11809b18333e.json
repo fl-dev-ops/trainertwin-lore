@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The acquisition of advanced selling skills is suggested as a method for career growth and commission increase.",
+      "qualification": "This suggestion is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-09-08-why-would-your-company-even-md-9a099149b0:c001:e003:d70cba25"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal experiences, such as the first Saudi experience, can evoke mixed emotions, including anxiety about business goals.",
+      "qualification": "These are self-reported emotions and personal experiences rather than generalizable facts.",
+      "support_ids": [
+        "linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1:c001:e001:c6e453d5",
+        "linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1:c001:e002:f03d1f46"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Applying newly learned skills is considered crucial for success, particularly in the real estate industry.",
+      "qualification": "This reflects personal belief and may not apply universally across all industries.",
+      "support_ids": [
+        "linkedin-posts-2023-09-11-we-filmed-it-on-the-md-dca9dc5df7:c001:e003:11f82dfa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Memorizing sales scripts and practicing them daily for several months is recommended for professional effectiveness.",
+      "qualification": "This advice is self-reported and may vary depending on individual circumstances.",
+      "support_ids": [
+        "linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a:c001:e004:acb7228d",
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e005:66da058f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales process weaknesses and management-level skill gaps are identified as potential root causes for inconsistent sales performance.",
+      "qualification": "These observations are not independently verified and reflect a specific viewpoint.",
+      "support_ids": [
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e004:d2bf41a4",
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e005:ea8f4747"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training is likened to a pain reliever rather than a solution for unpredictable sales performance.",
+      "qualification": "This analogy is based on subjective interpretation rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e004:d2bf41a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Developing personal sales processes through practical involvement, such as calling leads and creating material, is part of personal growth.",
+      "qualification": "These are self-reported processes and are not externally validated.",
+      "support_ids": [
+        "linkedin-posts-2023-10-19-im-now-developing-a-new-md-a0310174eb:c001:e002:b5099ecb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Providing extended practice and rehearsal periods is advised to improve personal performance and commission outcomes.",
+      "qualification": "Advice is subjective and may have limitations based on individual abilities and environmental factors.",
+      "support_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e005:66da058f"
+      ]
+    }
+  ]
+}

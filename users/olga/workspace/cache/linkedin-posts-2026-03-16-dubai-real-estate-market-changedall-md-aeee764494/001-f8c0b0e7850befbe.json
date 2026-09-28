@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Dubai real estate market changed....All agents feel it.",
+      "statement": "The Dubai real estate market has changed significantly.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "In 2.5–3 hours, your team will learn How to:",
+      "statement": "The training program lasts 2.5 to 3 hours.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "handle Market objections with more confidence",
+      "statement": "Agents should learn to handle market objections with more confidence.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I’m Olga Sinenko - real estate sales trainer. 11 years in Dubai real estate.",
+      "statement": "I have 11 years of experience in Dubai real estate.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "5 years training brokerage teams.",
+      "statement": "I have 5 years of experience training brokerage teams.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "belief",
+      "quote": "NO MOTIVATIONAL TALKS - ONLY PRACTICAL STRATEGIES!",
+      "statement": "There is a need for practical strategies rather than motivational talks.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "generate leads during war uncertainty and build a stronger database.",
+      "statement": "The training aims to help generate leads during uncertainty.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "keep deals alive when buyers go into wait-and-see mode.",
+      "statement": "Agents should focus on keeping deals alive when buyers go into wait-and-see mode.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing a training program for real estate agents in Dubai."
+}

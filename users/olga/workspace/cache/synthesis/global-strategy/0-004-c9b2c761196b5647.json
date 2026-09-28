@@ -1,0 +1,62 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Market research should begin at least 6 months prior to relocating.",
+      "qualification": "This advice is generalized and may vary depending on the market or individual circumstances.",
+      "support_ids": [
+        "linkedin-posts-2025-04-28-from-the-outside-dubai-looks-md-2f1c9d0170:c001:e003:637efe8a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Success in business is seen as a gradual process.",
+      "qualification": "The belief that success is a process is self-reported and may reflect personal values or experiences rather than a universally applicable truth.",
+      "support_ids": [
+        "linkedin-posts-2025-05-05-a-new-chapter-begins-ive-md-c8a68ea1ac:c001:e003:843833a6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in personal growth can lead to financial benefits.",
+      "qualification": "This is advice and self-reported; outcomes can differ based on individual execution and external factors.",
+      "support_ids": [
+        "linkedin-posts-2025-06-10-want-to-make-more-money-md-613e9b9f70:c001:e002:dddae7fd",
+        "linkedin-posts-2025-10-20-from-lost-new-agent-to-md-9bb87eafc6:c001:e004:3b40b82b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Industry changes are occurring rapidly, particularly with AI integration in real estate.",
+      "qualification": "Self-reported observations may lack broader industry context or detailed evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-09-23-if-you-missed-the-realtek-md-ffb5b8ba60:c001:e002:6a27f3b9",
+        "linkedin-posts-2025-09-23-if-you-missed-the-realtek-md-ffb5b8ba60:c001:e006:79803a07"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Market competition is intense, with agents competing for limited leads.",
+      "qualification": "No specific evidence quantifying competition intensity or providing comparative industry data.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-what-i-wish-someone-had-md-288164096b:c001:e004:69b9134b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset is crucial to achieving success in real estate; it is purported to account for 80% of outcomes.",
+      "qualification": "This belief is self-reported and lacks empirical support; individual experiences may vary.",
+      "support_ids": [
+        "linkedin-posts-2025-11-04-80-mindset-15-action-5-md-503e084c61:c001:e005:d3312410"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Intentional leadership is essential for leveraging human capital effectively over time.",
+      "qualification": "The statement is self-reported and theoretical, without specific examples of successful implementations.",
+      "support_ids": [
+        "linkedin-posts-2026-02-23-thank-you-tarun-ahimaz-and-md-d080be2402:c001:e002:2254f392"
+      ]
+    }
+  ]
+}

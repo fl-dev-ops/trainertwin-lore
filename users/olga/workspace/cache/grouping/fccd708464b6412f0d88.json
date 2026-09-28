@@ -1,0 +1,84 @@
+{
+  "groups": [
+    {
+      "name": "Human Capital and Development",
+      "topics": [
+        "human-capital",
+        "leadership-development"
+      ]
+    },
+    {
+      "name": "Job-Related Topics",
+      "topics": [
+        "ideal-candidate",
+        "job-application",
+        "job-hunting-challenges",
+        "job-listing",
+        "job-preparation",
+        "job-qualifications",
+        "job-referral",
+        "job-requirements",
+        "job-responsibilities",
+        "job-search"
+      ]
+    },
+    {
+      "name": "Investment and Opportunities",
+      "topics": [
+        "investment-decision",
+        "investment-impact",
+        "investment-opportunity",
+        "investment-outcomes",
+        "investment-understanding"
+      ]
+    },
+    {
+      "name": "Infrastructure and Industry Innovation",
+      "topics": [
+        "infrastructure-challenges",
+        "infrastructure-improvement",
+        "industry-innovation",
+        "innovation-in-practice"
+      ]
+    },
+    {
+      "name": "Sales and Engagement",
+      "topics": [
+        "individual-engagement",
+        "industry-engagement",
+        "intentions-clarification",
+        "interaction-invitation",
+        "lead-conversion",
+        "lead-generation"
+      ]
+    },
+    {
+      "name": "Personal Development and Internal Dialogue",
+      "topics": [
+        "imposter-syndrome",
+        "internal-dialogue"
+      ]
+    },
+    {
+      "name": "Knowledge and Insights",
+      "topics": [
+        "insights-and-value",
+        "knowledge-retention",
+        "knowledge-sharing",
+        "language-skills"
+      ]
+    },
+    {
+      "name": "Income and Financial Growth",
+      "topics": [
+        "income-increase"
+      ]
+    },
+    {
+      "name": "Interview Techniques and Communication",
+      "topics": [
+        "interview-technique"
+      ]
+    }
+  ]
+}

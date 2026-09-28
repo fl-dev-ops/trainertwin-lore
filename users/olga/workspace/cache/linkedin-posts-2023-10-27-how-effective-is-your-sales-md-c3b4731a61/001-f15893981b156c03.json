@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Does your real estate company have one or is it just more like a winning and figuring out with every client?",
+      "statement": "Real estate companies may operate without a specific sales process.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Or maybe you follow what the client dictates you and end up with ‘I need to think about it…’",
+      "statement": "Clients often respond with 'I need to think about it...' when sales processes are unclear or reactive.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source chunk presents observations on the effectiveness of sales processes in real estate."
+}

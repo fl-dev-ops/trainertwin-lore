@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Most agents give up on them.",
+      "statement": "Most agents give up on old leads.",
+      "topic": "lead generation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "But with the right script? They can turn into meetings faster than you think.",
+      "statement": "With the right script, age leads can turn into meetings quickly.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "In my new video, I break down a real sales call and show exactly how to take an old lead and convert it into a fresh opportunity.",
+      "statement": "A video breaks down a real sales call for converting leads.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "see how even the toughest leads can still bring you business.",
+      "statement": "Old leads can still lead to business if approached effectively.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing strategies for turning cold leads into opportunities."
+}

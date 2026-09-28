@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-01-23-how-to-become-a-trusted-md-ffb9afde45-ba125a78c7034b96.jsonl",
+  "external_id": "7155548478897635328",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:21:44Z",
+  "metadata_hash": "dc44d7c974ece4c152220ce1607fe24c80169ca35e03e669f0dcb535a7bb32bf",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-01-23T13:15:01.031000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-01-23-how-to-become-a-trusted.md",
+  "source_sha256": "15febcd37408d54734222ee9fcfa46c785025635c1f2b91c9a99e2c6263d0e46",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salescoaching-realestateagent-realestatetraining-activity-7155548478897635328-tlBZ"
+}

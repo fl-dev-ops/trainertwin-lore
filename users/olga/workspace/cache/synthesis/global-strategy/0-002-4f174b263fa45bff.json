@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Investing outside of Dubai may lead to potential financial loss.",
+      "qualification": "The evidence is advice based and theoretical, emphasizing the opportunity cost rather than actual loss.",
+      "support_ids": [
+        "linkedin-posts-2024-02-06-this-one-time-you-can-md-fe1810458a:c001:e003:3ecc7f6c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-investment in training leads to better outcomes than company-funded coaching.",
+      "qualification": "This is self-reported and lacks external validation or comparative analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-06-13-corporate-training-or-private-coaching-md-5044a51a1f:c001:e002:838344fe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal commitment is seen as a key determinant of success.",
+      "qualification": "The statement is hypothetical and stated as a belief, without empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-06-13-corporate-training-or-private-coaching-md-5044a51a1f:c001:e003:71f6cd22"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI tools can potentially increase income and provide more free time for real estate agents.",
+      "qualification": "This is an advised suggestion, without specific evidence or data demonstrating results.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-for-you-real-estate-agents-md-44412b2c31:c001:e002:fbe6eef8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai offers a tax-free environment conducive to passive income growth.",
+      "qualification": "Self-reported observation, lacking comparative tax rate analysis or assessments of risk conditions.",
+      "support_ids": [
+        "linkedin-posts-2024-09-12-the-vibrant-hubs-of-the-md-ab7ab0304a:c001:e003:bd562347"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A client experienced a significant increase in lead conversions due to strategic intervention.",
+      "qualification": "This is a self-reported success claim from a client, potentially subject to biases or unverified by third-party metrics.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e004:0f3736ce"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market is perceived as a bubble.",
+      "qualification": "The observed statement lacks detailed market analysis or evidence to substantiate the claims about market instability.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e001:e1ff2640"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Limited expatriate real estate projects are available in Saudi Arabia, often incentivized with agent commissions.",
+      "qualification": "This fact claim is self-reported, focusing on a niche market segment and lacking broader market context.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e004:e0ca95a2"
+      ]
+    }
+  ]
+}

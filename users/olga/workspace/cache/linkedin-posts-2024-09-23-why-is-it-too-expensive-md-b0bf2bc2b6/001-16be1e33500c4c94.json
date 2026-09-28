@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Here are some tips to get the info you need: - Rephrase the question to gain clearer insights.",
+      "statement": "Rephrase the question to gain clearer insights.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "- Ask specific, targeted questions.",
+      "statement": "Ask specific, targeted questions.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "- Confirm the answers give actionable data.",
+      "statement": "Confirm the answers give actionable data.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Don’t move forward without clarity.",
+      "statement": "Don’t move forward without clarity.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Always ensure you get the right information to make informed decisions.",
+      "statement": "Always ensure you get the right information to make informed decisions.",
+      "topic": "self-assessment",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "How have you handled vague responses in negotiations?",
+      "statement": "Handling vague responses in negotiations is a common challenge.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing strategies for handling vague responses in negotiations."
+}

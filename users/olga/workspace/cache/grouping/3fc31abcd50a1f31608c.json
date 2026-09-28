@@ -1,0 +1,69 @@
+{
+  "groups": [
+    {
+      "name": "Client Engagement",
+      "topics": [
+        "client-meetings",
+        "client-mindset",
+        "client-motivation",
+        "client-objections",
+        "client-perception",
+        "client-qualification",
+        "client-quality",
+        "client-relationship",
+        "client-response",
+        "client-success",
+        "client-trust",
+        "client-understanding",
+        "client-urgency"
+      ]
+    },
+    {
+      "name": "Coaching",
+      "topics": [
+        "coaching",
+        "coaching-approach",
+        "coaching-experience",
+        "coaching-program"
+      ]
+    },
+    {
+      "name": "Sales Techniques",
+      "topics": [
+        "closing-techniques",
+        "cold-calling-anxiety",
+        "commission-breath",
+        "commission-payment-issues",
+        "commission-structure",
+        "commitment",
+        "commitment-and-consistency",
+        "commitment-to-learning",
+        "commitment-to-success",
+        "common-seller-objections"
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "topics": [
+        "communication-effectiveness",
+        "communication-skills",
+        "communication-strategy",
+        "communication-style"
+      ]
+    },
+    {
+      "name": "Community Engagement",
+      "topics": [
+        "community-engagement",
+        "community-engagement-request",
+        "community-impact"
+      ]
+    },
+    {
+      "name": "common-sense",
+      "topics": [
+        "common-sense"
+      ]
+    }
+  ]
+}

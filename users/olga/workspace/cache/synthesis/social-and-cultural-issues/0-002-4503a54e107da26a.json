@@ -1,0 +1,53 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "During the COVID-19 pandemic, the Dubai government provided care for pet owners who were stranded in their own countries, ensuring both owners and pets were taken care of.",
+      "qualification": "This statement relies on a single source and lacks independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s210-yaml-36da6d8b13:c001:e001:3ccb2b8f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "It is advised to hold your phone at face level to improve confidence during public speaking activities.",
+      "qualification": "The advice is practical but based on personal suggestion rather than scientific studies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s30-yaml-acc646e31b:c001:e001:c18ed190"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a belief that every country has the right to decide who rules it, emphasizing the importance of self-governance and country-specific leadership choices.",
+      "qualification": "The belief is self-reported and reflects individual opinions rather than universal consensus.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s39-yaml-e5b7e0e3c1:c001:e002:63da713b",
+        "youtube-shorts-run-transcripts-s39-yaml-e5b7e0e3c1:c001:e004:0ac17362"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A concern was raised about the satisfaction with governance, questioning whether individuals can be completely satisfied with their leadership.",
+      "qualification": "This is a subjective view and may not reflect broader public opinion.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s39-yaml-e5b7e0e3c1:c001:e005:d6f494ab"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Ongoing political instability was noted in the Middle East, particularly due to tensions between Israel and Iran.",
+      "qualification": "The political situation is reported based on a single perspective without official verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s98-yaml-c14a72892b:c001:e002:dc42a86b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Despite regional tensions, investors from Iran and Israel are exploring opportunities in Dubai, indicating economic interests transcending political disputes.",
+      "qualification": "This observation is reported but not independently verified, reflecting economic speculation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s98-yaml-c14a72892b:c001:e004:e1935feb"
+      ]
+    }
+  ]
+}

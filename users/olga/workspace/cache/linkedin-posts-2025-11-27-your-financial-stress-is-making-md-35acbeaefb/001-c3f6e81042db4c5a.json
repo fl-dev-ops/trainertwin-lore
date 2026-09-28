@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Your financial stress is making you a worse salesperson and you need to hear this.",
+      "statement": "Your financial stress is making you a worse salesperson.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Fix your mindset before you fix your pipeline.",
+      "statement": "Fix your mindset before you fix your pipeline.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Confidence closes deals. Desperation kills them.",
+      "statement": "Confidence closes deals. Desperation kills them.",
+      "topic": "confidence in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Are you selling from abundance or scarcity?",
+      "statement": "Are you selling from abundance or scarcity?",
+      "topic": "sales approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Check my last coaching session - where I show how to talk to a clients in a NEW way.",
+      "statement": "Check my last coaching session.",
+      "topic": "coaching",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing the impact of financial stress on sales performance."
+}

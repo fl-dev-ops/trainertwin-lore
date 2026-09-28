@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-07-31-if-you-are-looking-for-md-745d23e062-06891954cfd20f89.jsonl",
+  "external_id": "7091830039415037952",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:51:42Z",
+  "metadata_hash": "5e115508e80d0c1b027508f006d3c3149b2f69fb6c74965133537377a99cc98c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-31T17:20:41.227000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-31-if-you-are-looking-for.md",
+  "source_sha256": "ed57f20085b420fab1622fa282ab1b6a0b0fe84abc6ee15a0546004ee56f0508",
+  "source_url": "https://www.linkedin.com/posts/olgasi_smallbusinesssupport-businessgrowth-entrepreneurjourney-activity-7091830039415037952-azU3"
+}

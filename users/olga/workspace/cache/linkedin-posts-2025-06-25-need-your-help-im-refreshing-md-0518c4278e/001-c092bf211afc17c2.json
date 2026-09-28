@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "This isn’t just another sales platform. It’s a space where agents can grow with confidence, without pressure, without burnout.",
+      "statement": "This isn’t just another sales platform. It’s a space where agents can grow with confidence, without pressure, without burnout.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I want the logo to reflect the values I deeply care about: ✔️ Honest ✔️ Supportive ✔️ Realistic ✔️ Inspirational ✔️ Grounded ✔️ Clean ✔️ Warm ✔️ Professional",
+      "statement": "I want the logo to reflect the values I deeply care about: Honest, Supportive, Realistic, Inspirational, Grounded, Clean, Warm, Professional.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "I’ve designed 4 logo options and I would love your honest opinion.",
+      "statement": "I’ve designed 4 logo options and I would love your honest opinion.",
+      "topic": "branding",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Just type 1️⃣, 2️⃣, 3️⃣ or 4️⃣ – whichever one speaks to you the most!",
+      "statement": "Please drop your vote in the comments.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post seeking feedback on brand identity."
+}

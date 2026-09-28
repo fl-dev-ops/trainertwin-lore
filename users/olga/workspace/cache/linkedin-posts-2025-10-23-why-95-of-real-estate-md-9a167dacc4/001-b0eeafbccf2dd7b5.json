@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Why 95% of real estate agents never make it past year one",
+      "statement": "95% of real estate agents never make it past year one.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source chunk discusses why 95% of real estate agents struggle to succeed beyond their first year and how the successful 5% utilize a different mindset and approach."
+}

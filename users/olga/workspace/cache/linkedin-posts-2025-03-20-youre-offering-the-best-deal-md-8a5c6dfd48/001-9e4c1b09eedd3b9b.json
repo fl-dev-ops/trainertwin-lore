@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "If you’ve never heard the term Sales Resistance, that doesn’t mean it’s not controlling your sales.",
+      "statement": "Sales Resistance is probably the #1 reason why your clients disappear right before closing the deal.",
+      "topic": "sales resistance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "In my training, I dedicate an entire day to understanding how clients think and make decisions.",
+      "statement": "In my training, I dedicate an entire day to understanding how clients think and make decisions.",
+      "topic": "training approach",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "the ability to lower—or even completely avoid—Sales Resistance can increase your closing rate up to 90%.",
+      "statement": "Lowering or avoiding Sales Resistance can increase your closing rate up to 90%.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "It’s just the way most of us were taught to sell.",
+      "statement": "It’s just the way most of us were taught to sell.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Suddenly start throwing objections at you.",
+      "statement": "Clients may start throwing objections when they feel pressured.",
+      "topic": "client quality",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Insights on client engagement and sales resistance from a LinkedIn post."
+}

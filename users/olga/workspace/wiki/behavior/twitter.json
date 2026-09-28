@@ -1,0 +1,23 @@
+{
+  "behavior": {
+    "communication_style": [
+      "Direct and candid style with a focus on the harsh realities of business."
+    ],
+    "confidence": "provisional",
+    "content_patterns": [
+      "Discusses challenges in B2B and B2C business models for startups."
+    ],
+    "decision_rules": [
+      "Emphasizes the unpredictability and difficulties in maintaining B2B customer relationships.",
+      "Highlights issues of user engagement and retention in B2C models."
+    ],
+    "key_phrases": [
+      "No case studies, no sales process, no product."
+    ],
+    "platform": "twitter",
+    "summary": "Provisional / sparse observation (1 source): insufficient volume to infer a recurring platform persona."
+  },
+  "card_count": 5,
+  "signature": "dceb35311f1961f073407d57de3488a1665e5c8fae4e9232ce09644e5570c560",
+  "source_count": 1
+}

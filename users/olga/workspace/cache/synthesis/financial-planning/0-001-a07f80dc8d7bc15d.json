@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Earnings potential from investments in Dubai can exceed AED 100,000 in the short-term.",
+      "qualification": "This statement is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-10-31-true-statistics-salespeople-do-not-md-b7960efd7a:c001:e003:5045bf43"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Non-oil GDP has reportedly grown by 65%, with tourism increasing by 135%, indicating significant economic growth.",
+      "qualification": "These figures are self-reported and lack additional verification.",
+      "support_ids": [
+        "linkedin-posts-2024-01-23-non-oil-gdp-grown-by-65-md-c66f0c084e:c001:e001:3f872bc3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Financial planning should emphasize long-term financial health, suggesting that wealth building is distinct from short-term expenditures.",
+      "qualification": "This is a belief and philosophical stance on wealth rather than a factual assertion.",
+      "support_ids": [
+        "linkedin-posts-2024-06-24-whats-the-difference-between-being-md-294632c478:c001:e002:f2b52933"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Advice suggests prioritizing smart investments for sustainable wealth.",
+      "qualification": "This is presented as advice rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-06-24-whats-the-difference-between-being-md-294632c478:c001:e003:139b6527"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The average cost of living in Egypt is approximately $342 per month, while salaries vary widely from $77 to $1,355 monthly.",
+      "qualification": "The data is not sourced from a verified economic report.",
+      "support_ids": [
+        "linkedin-posts-2024-06-26-when-some-agents-in-my-md-bf8bb6e3cf:c001:e001:4889a7e6",
+        "linkedin-posts-2024-06-26-when-some-agents-in-my-md-bf8bb6e3cf:c001:e002:83e5fb91"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai remains attractive to both investors and new residents, enhancing real estate demand and economic growth.",
+      "qualification": "This statement is self-reported and lacks corroborating data.",
+      "support_ids": [
+        "linkedin-posts-2024-12-23-yet-again-theres-one-more-md-1748bee194:c001:e001:5ea9d037"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Recruiting costs in Dubai include initial expenses exceeding 15K AED, and marketing and operational costs per agent amount to over 35K AED within the first six months.",
+      "qualification": "The costs mentioned are self-reported observations and not from audited financial statements.",
+      "support_ids": [
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e008:1abdaa53",
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e009:3ccd0b9a",
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e010:7d39eed5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building a financial cushion of at least 6 to 10 months is recommended for financial stability, especially when relocating to Dubai.",
+      "qualification": "This is recommended advice, not based on surveyed data or external research.",
+      "support_ids": [
+        "linkedin-posts-2025-04-28-from-the-outside-dubai-looks-md-2f1c9d0170:c001:e002:65a6e27b"
+      ]
+    }
+  ]
+}

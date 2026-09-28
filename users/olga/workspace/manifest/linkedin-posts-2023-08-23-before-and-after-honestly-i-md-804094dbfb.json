@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2023-08-23-before-and-after-honestly-i-md-804094dbfb-72c7a2e1db7cd1ea.jsonl",
+  "external_id": "7100125283919233024",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:14:53Z",
+  "metadata_hash": "a23a852eb849330ca6f0199747263f5e6cb82535f92c34a644dcabc2fad3febc",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-23T14:43:01.635000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-23-before-and-after-honestly-i.md",
+  "source_sha256": "b639a07f519e6098585ef03fbf49e2fc5addfd6c35e047852c08c5a1c72a14f4",
+  "source_url": "https://www.linkedin.com/posts/olgasi_before-and-after-honestly-i-just-couldnt-activity-7100125283919233024-nxTR"
+}

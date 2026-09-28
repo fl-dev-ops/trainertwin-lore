@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is essential for career progression, emphasizing clarity and understanding.",
+      "qualification": "Evidence is self-reported and lacks study-backed references on the widespread impact of communication.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e001:ea64331a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Avoiding negative influences in one's environment is important for career development.",
+      "qualification": "Subjective advice without empirical evidence may limit broader applicability.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e002:8ffc4e19"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Transitioning new brokers to Dubai involves providing training resources to support their integration.",
+      "qualification": "Details on specific resources and their effectiveness remain unclear.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c003:e001:4dab7caa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal reflections emphasize happiness over financial gain as a career priority.",
+      "qualification": "Self-reported reflections may not universally apply or be practical for all careers.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c001:e002:dd50d4f8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mentorship can shape professional techniques and approaches.",
+      "qualification": "The anecdotal nature does not confirm widespread effectiveness or adoption.",
+      "support_ids": [
+        "youtube-transcripts-103-yaml-103f5524d6:c001:e002:cd4198ae"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Supportive startup environments may enhance productivity.",
+      "qualification": "Observed behavior lacks empirical support and detailed context.",
+      "support_ids": [
+        "youtube-transcripts-11-yaml-e68135aa2f:c002:e006:7892757a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-help resources like YouTube videos may be insufficient for career development, real help is recommended.",
+      "qualification": "Advice underscores limitations of self-help strategies and is unverified.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e009:1d33b4cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dressing well is believed to boost confidence and productivity, especially in real estate.",
+      "qualification": "Belief is based on observational feedback rather than empirical studies.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e006:49d63303"
+      ]
+    }
+  ]
+}

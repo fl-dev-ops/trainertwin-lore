@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Sales Skills are not what determine your success in Dubai real estate anymore",
+      "statement": "Sales Skills are not what determine your success in Dubai real estate anymore",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I have a first row seat to what is happening with agents in Dubaj real estate.",
+      "statement": "I have a first row seat to what is happening with agents in Dubaj real estate.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Agents who were closing 2-3 deals a month now spending hours in the office discussing",
+      "statement": "Agents who were closing 2-3 deals a month now spending hours in the office discussing",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Can you imagine-this question and reflection exercise is Now a part of my Training - How to sell in a war uncertainty market.",
+      "statement": "A reflection exercise is part of my training on how to sell in a war uncertainty market.",
+      "topic": "training approach",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Agents who were top closers booking the tickets to go away for a summer… god knows is they will ever go back. Agents who were closing 2-3 deals a month now spending hours in the office discussing how “ridiculous the buyers discount expectations are”.",
+      "statement": "Agents are spending hours discussing buyer discount expectations instead of calling.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "it’s almost instant change for agents.",
+      "statement": "After several MindShifting concepts, agents experience almost instant change.",
+      "topic": "communication skills",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "When I walked myself through this process…many things surfaced. My own fears, illusions and expectations.",
+      "statement": "Many things surfaced during the self-reflection process, revealing fears and expectations.",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "If you have a right mindset - just add a talking points from my last training video - https://lnkd.in/daseSHsK.",
+      "statement": "I provide talking points from my last training video for the right mindset.",
+      "topic": "training approach",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post discussing the evolving landscape of sales skills in Dubai real estate and the importance of mindset."
+}

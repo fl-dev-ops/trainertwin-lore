@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-05-12-heres-how-the-story-really-md-8eaf2a765c-4e0f50e899955d50.jsonl",
+  "external_id": "7327543063466106880",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:43:18Z",
+  "metadata_hash": "3f3e988b576299b40974bdb7626ce11a3858417861769cbac865db9daef84a78",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-05-12T04:00:05.497000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-05-12-heres-how-the-story-really.md",
+  "source_sha256": "bcf1007b9c329417b2f5e7d0f675f4fb4f8ceccdeea49f8f3041227bf2635c0f",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-realestatesuccess-coachingresults-activity-7327543063466106880-6XMD"
+}

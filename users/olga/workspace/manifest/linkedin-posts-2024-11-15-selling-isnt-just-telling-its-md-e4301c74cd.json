@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-11-15-selling-isnt-just-telling-its-md-e4301c74cd-65030dccfdb7fa0a.jsonl",
+  "external_id": "7263038025041895424",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:35:24Z",
+  "metadata_hash": "49cbbd67f0f0a35d091e0ca9a55464d23a684839bfabe1477eef14789ed30e48",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-11-15T04:00:05.891000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-11-15-selling-isnt-just-telling-its.md",
+  "source_sha256": "5fa83efac011dc435550e4c7bd9e895b1c1a742f048c05232afb96c91c608bac",
+  "source_url": "https://www.linkedin.com/posts/olgasi_cold-calling-script-which-works-in-2024-activity-7263038025041895424-xtaN"
+}

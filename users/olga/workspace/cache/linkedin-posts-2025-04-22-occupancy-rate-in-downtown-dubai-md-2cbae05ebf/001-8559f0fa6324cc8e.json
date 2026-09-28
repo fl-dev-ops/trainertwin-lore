@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Occupancy Rate in Downtown Dubai! How many empty apartments",
+      "statement": "Occupancy Rate in Downtown Dubai",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing occupancy rates in Downtown Dubai"
+}

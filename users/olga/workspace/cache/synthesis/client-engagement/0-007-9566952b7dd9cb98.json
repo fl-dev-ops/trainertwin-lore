@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to perform calculations and make their own assessments can be a strategy to improve engagement, according to advice given on LinkedIn.",
+      "qualification": "This evidence is based on self-reported strategies and should be independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-02-06-this-one-time-you-can-md-fe1810458a:c001:e001:1f08b761",
+        "linkedin-posts-2024-02-07-im-not-joking-i-made-md-7e8f582c74:c001:e001:5bd55ba1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking advanced questions to drive clients towards the right decision is considered an effective client engagement strategy.",
+      "qualification": "These methods are advised strategies and lack external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-02-13-how-can-you-push-how-md-92fb8a6280:c001:e003:ade8bc61"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales resistance can negatively affect personal sales performance.",
+      "qualification": "This concept appears as a fact claim and could benefit from empirical evidence to support it.",
+      "support_ids": [
+        "linkedin-posts-2024-03-05-my-own-sales-tricks-grab-md-d4af296ae1:c001:e001:039967e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building strong relationships is essential for client satisfaction and retention.",
+      "qualification": "The statement is general business advice and should be supported with broader research.",
+      "support_ids": [
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e003:cbdfcb57"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The belief that shy individuals may not excel if they wait for client responses rather than proactively engaging is expressed as a disclaimer.",
+      "qualification": "This is self-reported advice and does not constitute empirical research.",
+      "support_ids": [
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e005:bac0493f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media presence, such as YouTube channels and Google reviews, can generate client interest without direct interaction.",
+      "qualification": "The effectiveness of this strategy is largely anecdotal and would need systematic study to substantiate its reliability.",
+      "support_ids": [
+        "linkedin-posts-2024-03-22-have-you-seen-that-black-md-e3b1fef0d4:c001:e001:d2715d2f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding the client's decision-making rationale is crucial for closing deals.",
+      "qualification": "This is based on belief and general advice rather than a tested method.",
+      "support_ids": [
+        "linkedin-posts-2024-04-11-there-are-two-reasons-why-md-26bacd7481:c001:e002:7e725ac7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement can be enhanced by asking skilled, probing questions rather than making assumptions.",
+      "qualification": "This advice requires supplemental evidence to affirm its efficacy in various contexts.",
+      "support_ids": [
+        "linkedin-posts-2024-03-28-stop-assuming-and-start-asking-md-0b00395983:c001:e001:285ed5ff"
+      ]
+    }
+  ]
+}

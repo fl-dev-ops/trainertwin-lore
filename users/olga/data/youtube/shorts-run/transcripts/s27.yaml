@@ -1,0 +1,17 @@
+id: s27
+title: Committed to Succeed! What does it mean to you？
+date: '2024-08-10'
+source: Committed to Succeed! What does it mean to you？
+audio_file: Committed to Succeed! What does it mean to you？ [Hp9LX8ojbwk].mp3
+duration: "00:00:08"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+counts:
+  raw_entries: 1
+turns:
+- t: "00:00:00"
+  speaker: '0'
+  text: >-
+    Do you think you yourself is just interested to be a successful real estate agent? Or this is kind
+    of all the bridges are burned and I'm committed.

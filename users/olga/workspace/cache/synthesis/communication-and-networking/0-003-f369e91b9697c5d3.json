@@ -1,0 +1,41 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Social media content is often categorized into zones: Red Zone for personal life, Yellow Zone for vulnerabilities, and Green Zone for public successes.",
+      "qualification": "This is a self-reported framework and is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-08-02-social-media-is-broadcasting-only-md-58fe074d5d:c001:e002:76b50021",
+        "linkedin-posts-2023-08-02-social-media-is-broadcasting-only-md-58fe074d5d:c001:e003:3a509d58",
+        "linkedin-posts-2023-08-02-social-media-is-broadcasting-only-md-58fe074d5d:c001:e004:b55ce0e1",
+        "linkedin-posts-2023-08-02-social-media-is-broadcasting-only-md-58fe074d5d:c001:e005:178dd7cb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cityscape Global offers networking opportunities as part of real estate events in Saudi Arabia.",
+      "qualification": "Details of the event and its impact on networking are self-reported and unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-08-03-i-have-just-registered-for-md-a68ba3bfac:c001:e003:64726b61",
+        "linkedin-posts-2023-08-03-i-have-just-registered-for-md-a68ba3bfac:c001:e002:06c74876"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Direct communication in sales can lead to client resistance if perceived as pushy or sales-focused.",
+      "qualification": "This is a self-reported strategy and lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2023-08-10-even-if-you-do-not-md-ba10330e16:c001:e004:a65c23a5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media engagement strategies include requesting feedback and curiosity-driven interaction, such as comments and recommendations.",
+      "qualification": "These strategies are self-reported and do not provide evidence of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-09-07-im-curious-to-know-what-md-a978e0b1c5:c001:e001:bc5d62c3",
+        "linkedin-posts-2023-09-05-my-linkedin-network-is-looking-md-5a7459e4c3:c001:e005:a62f9d1f"
+      ]
+    }
+  ]
+}

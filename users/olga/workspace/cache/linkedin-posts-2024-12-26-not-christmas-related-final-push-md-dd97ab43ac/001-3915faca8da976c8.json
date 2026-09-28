@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Not Christmas Related! Final Push for OVERPRICED Listings this Year!",
+      "statement": "Final Push for OVERPRICED Listings this Year!",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "In this Video 3 steps Price Reduction Formula.",
+      "statement": "3 steps Price Reduction Formula.",
+      "topic": "price reduction",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "How to Make the SELLER offer to reduce the price ON HIS OWN!",
+      "statement": "How to Make the SELLER offer to reduce the price ON HIS OWN!",
+      "topic": "video content",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing sales techniques for overpriced listings; includes a video link."
+}

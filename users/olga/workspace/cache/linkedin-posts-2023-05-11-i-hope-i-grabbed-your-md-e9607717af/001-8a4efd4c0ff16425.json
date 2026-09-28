@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I hope I grabbed your attention! Let's start then... I‘m hiring a Virtual Assistant/Intern",
+      "statement": "I‘m hiring a Virtual Assistant/Intern.",
+      "topic": "job listing",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The ideal candidate: Fresh graduates or those considering a career change are encouraged to apply.",
+      "statement": "Fresh graduates or those considering a career change are encouraged to apply.",
+      "topic": "ideal candidate",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "My business: Business consulting and training services for companies in Dubai (online/offline).",
+      "statement": "My business offers consulting and training services for companies in Dubai.",
+      "topic": "business description",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "Honest - if you don't know how or are tight with timings, don’t be afraid to tell me so.",
+      "statement": "Honesty about capabilities and timing is encouraged.",
+      "topic": "candidate qualities",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Problem-solving - when you are coming to me with a problem, you bring at least 2 possible solutions we should choose from.",
+      "statement": "Bring at least 2 possible solutions when presenting a problem to me.",
+      "topic": "problem-solving",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Eager to learn and grow in the field of entrepreneurship - ideally wanting to open own business.",
+      "statement": "Eager to learn and grow in the field of entrepreneurship is ideal.",
+      "topic": "candidate mindset",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Job posting for a Virtual Assistant/Intern role by a business consultant."
+}

@@ -1,0 +1,61 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Handling objections by clarifying concerns and diffusing anxiety is emphasized as crucial in real estate interactions.",
+      "qualification": "The evidence is advice-oriented and assumes that handling objections leads to better outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e004:3dcd0a37"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents are advised to focus on clients who have a genuine need to sell or buy rather than just desire.",
+      "qualification": "This finding is based on advice and does not provide specific outcomes or data to support effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-09-25-need-or-like-its-the-md-99a80a7199:c001:e002:5a94b95a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Utilizing social media effectively, such as using Reels to attract and Stories to close deals, is claimed to result in successful lead generation.",
+      "qualification": "The claim is hypothetical and fact-based but lacks empirical evidence for effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75:c001:e001:7512cd86"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using results-based thinking rather than price-based thinking is suggested as a method to overcome price objections in real estate.",
+      "qualification": "This advice assumes that changing the client's perspective will lead to fewer objections, but lacks empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-you-will-stop-getting-the-md-710009cc57:c001:e001:5447f7f4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High returns on coaching investment are claimed, with one example showing a 4,054% return.",
+      "qualification": "The claim is self-reported, lacks third-party verification, and specifics of calculation are absent.",
+      "support_ids": [
+        "linkedin-posts-2024-10-07-she-closed-six-deals-in-md-bfd8e302da:c001:e002:af7ed7b8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents often feel pressured to list properties at unrealistic prices, typically due to landlord demands.",
+      "qualification": "This is observed behavior, but it lacks specific data to support frequency and impact.",
+      "support_ids": [
+        "linkedin-posts-2024-10-15-how-to-do-a-price-md-28502a2243:c001:e001:63b4fc84"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Frequent training and structured routines contribute to improved performance as implied in queries about company practices.",
+      "qualification": "Self-reported observations imply benefits but do not substantiate effectiveness with data.",
+      "support_ids": [
+        "linkedin-posts-2024-10-08-how-do-you-start-tuesdays-md-00b36a2fa1:c001:e001:7b40baac",
+        "linkedin-posts-2024-10-08-how-do-you-start-tuesdays-md-00b36a2fa1:c001:e002:36cf0c41"
+      ]
+    }
+  ]
+}

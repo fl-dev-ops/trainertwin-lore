@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "This reading is strictly for those who consider himself/herself an adult. I would say more like 30+.",
+      "statement": "The reading is intended for adults, particularly those 30 and older.",
+      "topic": "audience criteria",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source chunk contains a statement regarding the intended audience for a reading."
+}

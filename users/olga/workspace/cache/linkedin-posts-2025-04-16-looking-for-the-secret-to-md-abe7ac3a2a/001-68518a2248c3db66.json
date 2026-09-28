@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "They’re not just top performers. They’re internal motivators.",
+      "statement": "Top performers are internal motivators and raise the standard for the entire team.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "their commission split is not 50/50. It’s higher than you think.",
+      "statement": "The commission split for top sales agents is higher than 50/50.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Instead of chasing unicorns, here’s what you should focus on: Hire for potential.",
+      "statement": "Focus on hiring for potential rather than just past sales volume.",
+      "topic": "hiring strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Train for performance. Build the character — not just the pipeline.",
+      "statement": "Train agents for performance and build character.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Top salespeople are not built on ego. They’re built on grit.",
+      "statement": "True top salespeople are built on grit, not ego.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "the mindset to receive constructive criticism — and actually use it.",
+      "statement": "Candidates should have the mindset to receive constructive criticism and utilize it.",
+      "topic": "feedback reception",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "If your business can only survive with top closers — you don’t have a real business.",
+      "statement": "Businesses that survive solely with top closers do not possess a real business model.",
+      "topic": "business strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "But if you believe you’ve got the character and mindset to become one — I’d love to hear from you.",
+      "statement": "Seek candidates who believe they have the character and mindset to excel in sales.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Observations from a LinkedIn post discussing strategies for attracting high-performing sales agents."
+}

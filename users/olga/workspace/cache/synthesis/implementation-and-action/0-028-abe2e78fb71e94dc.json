@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Misconceptions within sales show that individuals want high earnings but also desire financial security like a base salary.",
+      "qualification": "This reflects a common conflict between aspirational goals and practical needs within sales careers.",
+      "support_ids": [
+        "linkedin-posts-2025-05-29-me-and-ashley-james-hawthorne-we-md-47e71f8489:c001:e006:cde20e56"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training offers guidance on handling rejection effectively, emphasizing that rejection may feel more intense than warranted.",
+      "qualification": "The effectiveness of the training is derived from self-reporting, which may not reflect universal outcomes.",
+      "support_ids": [
+        "linkedin-posts-2025-06-13-lost-a-deal-this-week-md-6823ad1bde:c001:e003:eb914e12"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales processes often involve clients desiring distressed deals, which presents significant hurdles in negotiation strategies.",
+      "qualification": "Client desires can add complexity to negotiations, requiring tailored sales strategies.",
+      "support_ids": [
+        "linkedin-posts-2025-07-03-i-just-want-a-distressed-md-c5f37a475b:c001:e001:e22afb48"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales demonstrations in real-time show objection handling effectively, offering practical advice to agents and colleagues.",
+      "qualification": "Self-reported effectiveness might not be universally applicable but offers actionable insights.",
+      "support_ids": [
+        "linkedin-posts-2025-07-03-i-just-want-a-distressed-md-c5f37a475b:c001:e002:23445461",
+        "linkedin-posts-2025-07-03-i-just-want-a-distressed-md-c5f37a475b:c001:e003:c3b9c7e3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are advised to ask questions to fully comprehend buyer concerns, facilitating better engagement and solutions.",
+      "qualification": "Engagement techniques emphasize deep understanding but require adaptive skill sets from agents.",
+      "support_ids": [
+        "linkedin-posts-2025-07-07-dealing-with-a-buyers-pushbacks-md-65613f3758:c001:e001:e9dbaaa4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There are no perfect leads, necessitating proactive clarity and understanding through client conversations.",
+      "qualification": "Lead imperfection demands strategic client communication to uncover true priorities and fears.",
+      "support_ids": [
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e001:d0795f83",
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e003:5823b6f9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training covers the psychology behind the sales process, indicating a deep approach for effective sales.",
+      "qualification": "Psychological insights are crucial but may require personalization to align with individual client expectations.",
+      "support_ids": [
+        "linkedin-posts-2025-07-08-in-this-training-i-explained-md-1c9495e598:c001:e001:b7e4c15f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "When deals feel stuck, poor questioning may be a more significant factor than market conditions.",
+      "qualification": "This self-reported insight highlights the importance of effective communication but lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e004:835cf391",
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e005:c9076001"
+      ]
+    }
+  ]
+}

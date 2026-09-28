@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Effective sales strategies involve client engagement rather than merely stating payment details.",
+      "qualification": "This is advice-based evidence and depends on the interpretation of 'engagement.'",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s61-yaml-5861981557:c001:e001:b21a85c2"
+      ]
+    },
+    {
+      "counter_ids": [
+        "youtube-shorts-run-transcripts-s60-yaml-f384833295:c001:e003:cec6785a"
+      ],
+      "finding": "Persistence in contacting leads at different times can yield positive results, but urgency is less critical for older leads.",
+      "qualification": "Observed behavior is stacked against a self-reported belief of reduced urgency.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s60-yaml-f384833295:c001:e002:ed6d6897"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Focusing on asking the right questions helps guide the client to make decisions on their own.",
+      "qualification": "This is advice-based and its effectiveness can vary depending on the client.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s63-yaml-69a44cc369:c001:e001:7dfc829b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is value in long-term leads, as they may convert within three to nine months.",
+      "qualification": "The evidence is self-reported, suggesting a belief rather than proven data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s62-yaml-bc30d67c6d:c001:e003:e0a37172"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Objections like 'I need to think about it' can be addressed by identifying the actual concerns and timing for follow-up.",
+      "qualification": "This approach is self-reported and subjective as to how effective it might be.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s67-yaml-9f77fc8b31:c001:e002:283e4d72",
+        "youtube-shorts-run-transcripts-s67-yaml-9f77fc8b31:c001:e003:fe9cef86"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales performance in Dubai emphasizes training, learning the market, and personal development rather than isolated actions.",
+      "qualification": "The claims are advice-based and not independently confirmed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s65-yaml-028370d216:c001:e001:447c62c5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offers such as free training and live Q&A sessions can enhance sales training and agents' performance.",
+      "qualification": "This evidence is self-reported and reflects an offering rather than verifiable impact.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s61-yaml-5861981557:c001:e003:a590cf13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some leads are considered non-viable due to lack of engagement, leading to missed potential opportunities if not properly managed.",
+      "qualification": "This observed behavior suggests a pattern but lacks specifics on outcomes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s65-yaml-028370d216:c001:e004:c90dfe02"
+      ]
+    }
+  ]
+}

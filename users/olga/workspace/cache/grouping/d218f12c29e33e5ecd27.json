@@ -1,0 +1,83 @@
+{
+  "groups": [
+    {
+      "name": "Training Topics",
+      "topics": [
+        "training-offer",
+        "training-opportunity",
+        "training-program",
+        "training-resource",
+        "training-resources",
+        "training-responsibility",
+        "training-services",
+        "training-session",
+        "training-success",
+        "training-support"
+      ]
+    },
+    {
+      "name": "Trust and Sales",
+      "topics": [
+        "trust",
+        "trust-building",
+        "trust-in-sales",
+        "values-in-sales",
+        "visibility-and-trust"
+      ]
+    },
+    {
+      "name": "Video and Content Creation",
+      "topics": [
+        "video-content",
+        "video-editing-requirements"
+      ]
+    },
+    {
+      "name": "Urban Development",
+      "topics": [
+        "urban-infrastructure",
+        "waiting-times"
+      ]
+    },
+    {
+      "name": "Financial Topics",
+      "topics": [
+        "transactions",
+        "value-perception",
+        "wealth-building"
+      ]
+    },
+    {
+      "name": "Workplace and Culture",
+      "topics": [
+        "work-culture",
+        "work-environment",
+        "workplace-mindset"
+      ]
+    },
+    {
+      "name": "Social Issues",
+      "topics": [
+        "women-s-rights"
+      ]
+    },
+    {
+      "name": "Upcoming Projects",
+      "topics": [
+        "upcoming-project"
+      ]
+    },
+    {
+      "name": "Visibility",
+      "topics": [
+        "visibility"
+      ]
+    },
+    {
+      "name": "Truthfulness",
+      "topics": [
+        "truthfulness"
+      ]
+    }
+  ]
+}

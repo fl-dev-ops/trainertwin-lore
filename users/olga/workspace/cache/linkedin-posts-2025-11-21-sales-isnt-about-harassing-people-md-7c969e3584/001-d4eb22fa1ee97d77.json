@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Sales isn't about harassing peo",
+      "statement": "Sales isn't about harassing people until they say yes.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "She was miserable. Making no",
+      "statement": "She was miserable. Making no sales. Ready to quit.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Instead of asking \"What's ho",
+      "statement": "Instead of asking 'What's holding you back from buying?' She started asking 'What would need to be true for this to make sense for you?'",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Old school Dubai real estate is b",
+      "statement": "Old school Dubai real estate is built on aggression. New school is built on emotional intelligence.",
+      "topic": "sales process",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A LinkedIn post discussing modern sales strategies focused on emotional intelligence in client interactions."
+}

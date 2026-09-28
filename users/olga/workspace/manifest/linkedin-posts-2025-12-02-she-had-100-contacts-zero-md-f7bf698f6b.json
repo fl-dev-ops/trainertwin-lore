@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-12-02-she-had-100-contacts-zero-md-f7bf698f6b-8b24aab3e4eb614c.jsonl",
+  "external_id": "7401500933081403392",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:59:59Z",
+  "metadata_hash": "51f80314b5f41e558b813a3b50a42e3c2900611e1f08860f52f97dcd8b8480c5",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-02T06:02:15.684000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-02-she-had-100-contacts-zero.md",
+  "source_sha256": "df703ad7e882d89c3114d8d4abae3a8c73c71a15d28c5850a98b41640620dcbb",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-salesstrategy-networkingtips-activity-7401500933081403392-OfIo"
+}

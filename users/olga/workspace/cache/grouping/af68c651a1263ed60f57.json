@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "Urban Development",
+      "topics": [
+        "urban-development"
+      ]
+    },
+    {
+      "name": "Sales Urgency",
+      "topics": [
+        "urgency-in-sales"
+      ]
+    },
+    {
+      "name": "Promotional Visibility",
+      "topics": [
+        "visibility"
+      ]
+    },
+    {
+      "name": "Work Environment",
+      "topics": [
+        "work-environment"
+      ]
+    }
+  ]
+}

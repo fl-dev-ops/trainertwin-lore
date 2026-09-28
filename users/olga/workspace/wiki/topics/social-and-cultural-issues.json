@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Admiration for the transparency and honesty of the UAE government authorities is considered more effective than in some other countries.",
+      "qualification": "Self-reported observation; may not reflect comprehensive assessment of the UAE government.",
+      "support_ids": [
+        "linkedin-posts-2023-06-27-im-still-admiring-the-transparency-md-98e2fb53b2:c001:e002:93c35bf9",
+        "linkedin-posts-2023-06-27-im-still-admiring-the-transparency-md-98e2fb53b2:c001:e003:ddee3393"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Diverse opinions exist regarding sales within the general public.",
+      "qualification": "Self-reported finding; lacks specific details about opinions.",
+      "support_ids": [
+        "linkedin-posts-2024-03-26-what-does-the-general-public-md-04c7067b87:c001:e001:4ec7be97"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal attachment and identity are associated with living in JLT, Dubai.",
+      "qualification": "Self-reported and may not represent all JLT residents' views.",
+      "support_ids": [
+        "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9:c001:e001:adbd3a98"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Advice is provided for checking maintenance issues when moving to new homes.",
+      "qualification": "General advice without empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9:c001:e002:3d2296da",
+        "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9:c001:e003:c24b23cf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A new 16 km cycling track is planned for the Al Warqa area.",
+      "qualification": "Fact claim observed; does not provide implementation or completion status.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e010:2922d82a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Women's rights to make independent choices are highlighted as a struggle and achievement.",
+      "qualification": "Broad claim without specific context or location.",
+      "support_ids": [
+        "linkedin-posts-2025-03-08-ladies-today-is-womens-daya-md-0b6d74d642:c001:e005:6c3362d8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reflection on past decisions about entering the Dubai real estate market is noted.",
+      "qualification": "Hypothetical statement reflecting advice or reflection.",
+      "support_ids": [
+        "linkedin-posts-2025-04-30-more-than-a-decade-ago-md-b6f2074912:c001:e005:ddc5af67"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-promotion on LinkedIn generates viewer reactions.",
+      "qualification": "Observation varying across users and contexts.",
+      "support_ids": [
+        "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57:c001:e001:5a2e15a0"
+      ]
+    }
+  ],
+  "signature": "8c2ff2d8e2e39bcd900042364260ad92fa46baa637ea062013b9f5dea629cbe2"
+}

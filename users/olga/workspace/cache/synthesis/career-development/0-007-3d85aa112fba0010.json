@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Career development often ties back to recruitment and training services, indicating their integral roles.",
+      "qualification": "The relationship between recruitment and training services is self-reported and may not universally apply.",
+      "support_ids": [
+        "linkedin-posts-2023-08-18-so-genuine-love-it-every-md-2d7554d44c:c001:e001:5bc337bb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Individuals are advised to acquire high-income skills to achieve significant earnings goals in sales.",
+      "qualification": "The advice is based on hypothetical scenarios and personal beliefs, not verified outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-08-30-your-current-skill-set-got-md-71d06d958c:c001:e002:52ef0ec5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-assessment is encouraged as an important method in personal and professional growth.",
+      "qualification": "This is an offered perspective and not validated by external evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-08-31-i-created-this-article-solely-md-be6fa243e5:c001:e003:9709032b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Continuous learning is a key challenge for experienced agents in Dubai.",
+      "qualification": "This observation is based on advice and may not reflect all agent experiences in Dubai.",
+      "support_ids": [
+        "linkedin-posts-2023-09-04-finding-experienced-agents-is-the-md-747339dc5a:c001:e003:4d925497"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High performers in sales have options to increase working hours or hire additional personnel to optimize their success.",
+      "qualification": "This is a self-reported belief and not an evidence-backed fact.",
+      "support_ids": [
+        "linkedin-posts-2023-09-08-why-would-your-company-even-md-9a099149b0:c001:e002:97637306"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The progression of a real estate agent’s career involves hypothetical scenarios that are not directly addressed by the evidence.",
+      "qualification": "The evidence is hypothetical and lacks concrete examples or external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-08-24-how-do-you-see-the-md-1049b10ac4:c001:e001:a4d080a1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "People may unrealistically attribute career success to leads, a company, or management, rather than personal skill development.",
+      "qualification": "This is a belief posed hypothetically and may not hold true for everyone.",
+      "support_ids": [
+        "linkedin-posts-2023-08-30-your-current-skill-set-got-md-71d06d958c:c001:e003:b870a7a3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training services are offered as a means to improve sales and income, but claims of effectiveness are self-reported.",
+      "qualification": "The claims are based on self-reported evidence, lacking independent verification.",
+      "support_ids": [
+        "linkedin-posts-2023-09-05-my-linkedin-network-is-looking-md-5a7459e4c3:c001:e004:fcda395d"
+      ]
+    }
+  ]
+}

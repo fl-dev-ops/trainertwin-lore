@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-12-10-she-started-with-zero-knowledge-md-a9c9de3cc4-1cbe9f2ab3a6a13b.jsonl",
+  "external_id": "7404494770863226880",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:00:52Z",
+  "metadata_hash": "b097ed7cc7e57c5122123b0c7ce2e7a86747f7a4fd85b9547f71f023e27c4675",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-10T12:18:42.234000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-10-she-started-with-zero-knowledge.md",
+  "source_sha256": "f45af67af63fa84c7de5f4db543fd7874e6697aba39255d8f2b8df16192e911c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_your-first-month-as-a-real-estate-agent-activity-7404494770863226880-j5bn"
+}

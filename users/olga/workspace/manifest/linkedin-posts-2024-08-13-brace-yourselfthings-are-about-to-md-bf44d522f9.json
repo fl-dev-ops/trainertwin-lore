@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9-1f56850e0ac77674.jsonl",
+  "external_id": "7229140120182878209",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:29:35Z",
+  "metadata_hash": "bf4a534ef61c1e409c64165adebff6aeca5e3990244e9a555ff1aaf47348455e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-08-13T15:01:55.580000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-08-13-brace-yourselfthings-are-about-to.md",
+  "source_sha256": "3fd76b52edebb434c5c34cd150ba6abc776254b0807067431df03fb76cd0de7e",
+  "source_url": "https://www.linkedin.com/posts/olgasi_jlt-dubailiving-realestatedubai-activity-7229140120182878209-oicB"
+}

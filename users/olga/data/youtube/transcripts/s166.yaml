@@ -1,0 +1,25 @@
+id: s166
+title: This Program Helped Me Handle Every Tough Client
+date: '2025-12-05'
+source: This Program Helped Me Handle Every Tough Client
+audio_file: This Program Helped Me Handle Every Tough Client [8zxt-cw8foM].mp3
+duration: "00:00:25"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 2
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    coaching program really helped me guys. This is unscripted so you know it's coming from the heart.
+    But uh this really it gave me a direction as to where to go. I knew to come to Olga whenever I had
+    agent or a client asking me you know weird questions or you know I wasn't able to get in touch with
+    them as I wanted to. So Olga really helped me out and this coaching program really gave me direction.
+    The six months are still going on so I I still annoy her a lot. Trust me.
+- t: "00:00:03"
+  speaker: '0'
+  text: >-
+    it's coming from the heart

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "The most common questions agents are asking in my trainings...",
+      "statement": "The most common questions agents are asking in my trainings...",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Do you still believe in magic closing techniques?",
+      "statement": "Do you still believe in magic closing techniques?",
+      "topic": "closing techniques",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "My magic trick is to learn how to truly connect with your clients and, through advanced questions...",
+      "statement": "My magic trick is to learn how to truly connect with your clients and, through advanced questions, drive them to the right decision!",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "fact_claim",
+      "quote": "Works magically every time!",
+      "statement": "Works magically every time!",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing strategies for closing clients in sales."
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Aside from budget limitations, where would you like to live, or buy a home, in Dubai?",
+      "statement": "The author encourages comments by asking for preferences in living areas.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Business Bay, City Walk, Jumeirah Village Circle, Jumeirah Lake Towers, Dubai Creek Harbour, or Dubai Harbour",
+      "statement": "The post lists specific areas to consider for living in Dubai, indicating potential investment opportunities.",
+      "topic": "real estate investment",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A social media post soliciting opinions on preferred living areas in Dubai."
+}

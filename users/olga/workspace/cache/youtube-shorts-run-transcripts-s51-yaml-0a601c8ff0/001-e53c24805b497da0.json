@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I believe that um it's four people as a max.",
+      "statement": "The maximum number of people that can be on a title deed in Dubai is four.",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "it's not mandatory for them to be on a title deed.",
+      "statement": "Individuals sponsoring family members for visa support do not need to include them on the title deed.",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the minimum price of registering the will in Abu Dhabi courts is one thousand five hundred dirhams.",
+      "statement": "The minimum price for registering a will in Abu Dhabi courts is 1,500 dirhams.",
+      "topic": "investment opportunity",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "just make a will for yourself.",
+      "statement": "To pass property ownership in a family, creating a will is recommended over worrying about the title deed.",
+      "topic": "professional services",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "Transcript of a conversation discussing title deeds and wills in Dubai."
+}

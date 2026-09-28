@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Many agents believe that objection handling relies primarily on techniques, but positioning, mindset, and reality framing are more critical for overcoming objections.",
+      "qualification": "This is a self-reported belief and not independently verified by other sources.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e005:c22d9771"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective objection handling can lead agents to close deals that might otherwise be lost.",
+      "qualification": "This is based on observed outcomes but does not provide quantitative data on the success rate.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e006:758d0eff"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The real estate industry in Dubai has high agent turnover, with 90% of agents quitting before earning a commission.",
+      "qualification": "This statement is presented as factual but lacks corroboration from independent data sources.",
+      "support_ids": [
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e001:f9f7a553"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A solid sales trainer can significantly reduce agent turnover, potentially cutting it in half.",
+      "qualification": "This claim suggests a potential solution but does not provide empirical evidence of such outcomes.",
+      "support_ids": [
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e003:95366e67"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent effort over time is highlighted as the key to achieving real results in sales, rather than relying on quick fixes or hacks.",
+      "qualification": "This reflects a common perspective in sales, emphasizing sustained effort over shortcuts.",
+      "support_ids": [
+        "linkedin-posts-2025-02-11-i-got-scammed-recently-heres-md-d1da6f623a:c001:e003:3d8789d0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "'Sales Resistance' is a critical factor affecting sales closure, which highlights common deficiencies in traditional sales training.",
+      "qualification": "The concept is described as pervasive but not widely recognized or addressed in sales strategies.",
+      "support_ids": [
+        "linkedin-posts-2025-03-20-youre-offering-the-best-deal-md-8a5c6dfd48:c001:e001:dccad58c",
+        "linkedin-posts-2025-03-20-youre-offering-the-best-deal-md-8a5c6dfd48:c001:e004:7cf5fffb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Most agents do not treat their work in real estate as a business, which can impact their performance in sales.",
+      "qualification": "This observation raises questions about the professional mindset among agents but is based on a general statement without specific data.",
+      "support_ids": [
+        "linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c:c001:e003:5c78b730"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Olgasi offers sales training and tools to improve real estate sales performance, but claims not to sell these publicly on LinkedIn.",
+      "qualification": "The statement suggests an indirect marketing strategy, but the actual engagement or impact is not quantified.",
+      "support_ids": [
+        "linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd:c001:e005:ab170a3d",
+        "linkedin-posts-2025-03-10-ive-never-needed-to-sell-md-de56a4001e:c001:e001:b8438fb1",
+        "linkedin-posts-2025-03-10-ive-never-needed-to-sell-md-de56a4001e:c001:e002:4191f64a"
+      ]
+    }
+  ]
+}

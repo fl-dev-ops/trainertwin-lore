@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I'm curious to know what you think about it?...",
+      "statement": "I'm curious to know what you think about it?",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I'm curious to know what you think about it?...",
+      "statement": "The author values the input of their audience.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I'm curious to know what you think about it?...",
+      "statement": "Asking for opinions fosters engagement on social media.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I'm curious to know what you think about it?...",
+      "statement": "The post encourages interaction and sharing of thoughts.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post asking for audience opinions on a topic."
+}

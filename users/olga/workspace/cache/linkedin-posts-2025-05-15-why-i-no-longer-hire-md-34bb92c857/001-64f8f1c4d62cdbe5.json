@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "introduced a new recruitment initiative — the Open Day Assessment",
+      "statement": "Introduced the Open Day Assessment as a new recruitment initiative.",
+      "topic": "recruitment initiative",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I now focus on what really matters: ✔ Character traits ✔ Coachability ✔ Long-term potential",
+      "statement": "Focus on character traits, coachability, and long-term potential instead of CVs.",
+      "topic": "hiring criteria",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "join our 6-month training and earning program",
+      "statement": "Offered a 6-month training and earning program for new agents.",
+      "topic": "training program",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "We need those who are ready to learn, follow a proven structure, and close.",
+      "statement": "Look for candidates who are ready to learn and follow a proven structure.",
+      "topic": "team recruitment",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "AI-driven lead generation to a Frontline Sales Team that qualifies and books meetings",
+      "statement": "Utilize AI-driven lead generation and a Frontline Sales Team to qualify leads.",
+      "topic": "lead generation",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing a new recruitment initiative and hiring philosophy."
+}

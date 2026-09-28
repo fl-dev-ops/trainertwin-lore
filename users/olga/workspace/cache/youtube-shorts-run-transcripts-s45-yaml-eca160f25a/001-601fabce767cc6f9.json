@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "in order for you to be on top of the mind of the potential sellers",
+      "statement": "Deliver value to potential sellers to remain top of mind.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "readable, nice, readable on the phone, not fifty-five paragraphs",
+      "statement": "Send readable marketing reports rather than lengthy documents.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "you say, hi Mr. Seller, I'm just checking in, have you got the report that I've sent you?",
+      "statement": "Checking in with potential sellers after sending reports to follow up.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript of a video offering a sales follow-up strategy for real estate agents."
+}

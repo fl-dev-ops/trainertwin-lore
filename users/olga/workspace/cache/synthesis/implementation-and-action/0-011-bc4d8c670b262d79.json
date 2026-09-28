@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A recent 8-hour Zoom agent's exam assessed product knowledge and presentation abilities, with only 25% of participants passing.",
+      "qualification": "This finding is based on a self-reported observation and has not been independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-03-06-as-a-manager-or-business-md-108b27f8fc:c001:e002:586db4dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personalized sales training and mentorship are provided for real estate agents passionate about working in Dubai.",
+      "qualification": "This is described as part of an offering, but there is no verification of its effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e004:2359fa6c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "It is advised not to pitch to clients at the beginning of the conversation, instead employing qualification and objection-handling questions.",
+      "qualification": "This advice is consistent across both observations but lacks further empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-03-21-we-do-not-pitch-the-md-63113566c9:c001:e001:1b55f6a0",
+        "linkedin-posts-2024-03-21-we-do-not-pitch-the-md-63113566c9:c001:e002:5a017598"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating internal urgency is claimed to enhance sales effectiveness.",
+      "qualification": "This is an observed claim and would benefit from external evidence or validation.",
+      "support_ids": [
+        "linkedin-posts-2024-04-18-why-do-you-need-to-md-d208ccc819:c001:e001:870e08c3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Beginning with off-plan projects is recommended to develop skills for the secondary market in real estate sales.",
+      "qualification": "It is presented as general advice without detailed evidence of success rates.",
+      "support_ids": [
+        "linkedin-posts-2024-04-09-want-to-become-a-professional-md-1d085bd935:c001:e001:c285b706"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales conversations should be led, not reactively managed, to improve sales outcomes.",
+      "qualification": "This represents advised best practices but lacks specific empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-04-30-not-what-to-say-but-md-532def10e7:c001:e002:74e53285"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Improvised responses to client objections are offered as part of sales training.",
+      "qualification": "The specific content or effectiveness of these training sessions is not detailed.",
+      "support_ids": [
+        "linkedin-posts-2024-04-30-not-what-to-say-but-md-532def10e7:c001:e003:31cb2cd7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training insights are suggested to be beneficial for understanding the real estate industry.",
+      "qualification": "The claim is hypothetical and lacks concrete metrics or external validations.",
+      "support_ids": [
+        "linkedin-posts-2024-04-09-you-could-make-so-much-md-b5bc85013f:c001:e002:bb84d188"
+      ]
+    }
+  ]
+}

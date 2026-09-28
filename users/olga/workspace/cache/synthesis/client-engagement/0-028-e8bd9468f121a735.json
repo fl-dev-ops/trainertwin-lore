@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Agents find themselves unsure about how to communicate effectively with clients during uncertain market conditions.",
+      "qualification": "This is based on self-reported concerns from agents, and not necessarily a universal issue across all agents.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e002:6df56e78",
+        "linkedin-posts-2026-03-13-what-do-i-even-say-md-fc245c717a:c001:e001:0b6a000a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are advised to share specific communication challenges to receive tailored help.",
+      "qualification": "The effectiveness of sharing challenges for tailored help is assumed but not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e006:1e6c805f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Initiatives such as creating a Telegram community are intended to support agents in adapting to market uncertainties.",
+      "qualification": "The impact of such communities on actual client engagement is unverified.",
+      "support_ids": [
+        "linkedin-posts-2026-03-13-you-are-such-a-positive-md-cc60ea0745:c001:e002:16c652f6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training sessions are offered to help agents generate leads and keep deals alive during times of uncertainty.",
+      "qualification": "Actual success in maintaining client engagement through these trainings is not documented.",
+      "support_ids": [
+        "linkedin-posts-2026-03-16-dubai-real-estate-market-changedall-md-aeee764494:c001:e007:751bd17f",
+        "linkedin-posts-2026-03-16-dubai-real-estate-market-changedall-md-aeee764494:c001:e008:277e9e5f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often go into wait mode if agents hesitate in their conversations.",
+      "qualification": "This observation reflects a specific situation and might not be prevalent in all client-agent interactions.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e005:10dcc65c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A significant number of communication-related challenges are self-reported by agents.",
+      "qualification": "These challenges might reflect personal experiences rather than widespread trends.",
+      "support_ids": [
+        "linkedin-posts-2026-03-13-you-are-such-a-positive-md-cc60ea0745:c001:e001:59362e41",
+        "linkedin-posts-2026-03-27-call-to-action-and-no-md-c2785de422:c001:e003:9ffec056"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Content and guides are being prepared to aid agents with communication strategies during uncertain times.",
+      "qualification": "Actual content effectiveness is not tested or validated as of the data given.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e004:a8160a51"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Uncertain market conditions and the war-driven period cause deals to fall apart.",
+      "qualification": "This insight is currently based on self-reporting from agents and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e002:6df56e78",
+        "linkedin-posts-2026-03-10-right-now-were-entering-a-md-be3b13d0a4:c001:e003:2097aef9"
+      ]
+    }
+  ]
+}

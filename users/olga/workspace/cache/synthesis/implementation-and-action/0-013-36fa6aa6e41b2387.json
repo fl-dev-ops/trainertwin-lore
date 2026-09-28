@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Cold calling can lead to an increase in weekly listings, with reported improvement from 0 to 5 listings per week during a challenge.",
+      "qualification": "This is self-reported and not independently verified. Results may vary for different individuals or companies.",
+      "support_ids": [
+        "linkedin-posts-2024-05-28-result-of-1st-week-on-md-3a21dda4d9:c001:e001:f8139e55"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Emotional connection is crucial in sales as people buy emotionally and justify logically.",
+      "qualification": "The emphasis on emotion is presented hypothetically and lacks empirical testing.",
+      "support_ids": [
+        "linkedin-posts-2024-06-03-people-buy-with-emotions-and-md-e672c5ae4e:c001:e001:fdda6afd",
+        "linkedin-posts-2024-06-11-look-for-a-problem-discomfort-md-7d5e2906fa:c001:e001:1a8a4cd1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Finding and addressing client discomfort or emotional needs can enhance sales urgency and persuasion.",
+      "qualification": "This strategy is advised but may not universally apply to all sales environments.",
+      "support_ids": [
+        "linkedin-posts-2024-06-11-look-for-a-problem-discomfort-md-7d5e2906fa:c001:e001:1a8a4cd1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Commitment to learning and implementing sales techniques is linked to better results.",
+      "qualification": "These findings are self-reported and not backed by external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-06-13-corporate-training-or-private-coaching-md-5044a51a1f:c001:e001:ed18a405"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal connection with clients is important for understanding their needs and selling effectively.",
+      "qualification": "Advised approach that requires personalization; effectiveness can vary.",
+      "support_ids": [
+        "linkedin-posts-2024-06-19-how-to-get-into-your-md-ac6e7d2922:c001:e002:d33dab32"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fear is a common objection in sales, particularly regarding the perception of markets, such as Dubai being a bubble.",
+      "qualification": "The observation is hypothetical and reflects belief rather than tested fact.",
+      "support_ids": [
+        "linkedin-posts-2024-06-20-my-most-in-demand-topic-for-md-c444ae5b67:c001:e002:e8d25f26"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Lead generation efforts are considered insufficient alone, emphasizing proactive approaches like road shows.",
+      "qualification": "The advice is general and lacks specific context for successful implementation.",
+      "support_ids": [
+        "linkedin-posts-2024-06-13-how-to-find-the-right-md-786ca7e7f4:c001:e002:0d4eb12c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building trust and providing value should precede other sales activities.",
+      "qualification": "This principle is broadly recognized but may require different expressions in various sales contexts.",
+      "support_ids": [
+        "linkedin-posts-2024-06-25-fresh-air-needed-clients-are-md-6a287be5d5:c001:e003:ba336f02"
+      ]
+    }
+  ]
+}

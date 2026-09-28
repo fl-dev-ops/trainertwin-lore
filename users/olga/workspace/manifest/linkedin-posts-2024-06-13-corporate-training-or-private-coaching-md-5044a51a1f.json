@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-06-13-corporate-training-or-private-coaching-md-5044a51a1f-c37318af842c8347.jsonl",
+  "external_id": "7206981190887600128",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:54:41Z",
+  "metadata_hash": "0399e431b8f9345d1cd12b379b4a4b6bc9c39009f64270db02c4f6fff281df1c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-06-13T11:30:15.143000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-06-13-corporate-training-or-private-coaching.md",
+  "source_sha256": "dd6cf7d9060bcf50964678d32558be2af5f55bfae4e935162494a53796f27311",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-dubairealestatesalestrain-activity-7206981190887600128-fgFc"
+}

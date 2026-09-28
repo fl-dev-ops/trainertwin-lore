@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "True success is perceived as being valuable in any market regardless of economic conditions, rather than just having a substantial bank account.",
+      "qualification": "This is a self-reported belief and may not represent a universally applicable truth.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-if-tomorrow-money-disappeared-what-md-a7e869457a:c001:e004:a7a58c28"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset shifts, such as viewing objections as opportunities to help clients, are significant in overcoming sales challenges.",
+      "qualification": "The statement is framed as advice and lacks empirical evidence to verify its effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e003:4518513c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Women have historically fought hard for the right to make their own choices.",
+      "qualification": "This is presented as a fact claim but relies on self-reported context from the speaker, limiting external verification.",
+      "support_ids": [
+        "linkedin-posts-2025-03-08-ladies-today-is-womens-daya-md-0b6d74d642:c001:e005:6c3362d8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Growth and personal development are associated with continuous evolution and creation, as exemplified by the metaphor of Dubai.",
+      "qualification": "This belief is self-reported and may not apply to all areas or individuals universally.",
+      "support_ids": [
+        "linkedin-posts-2025-03-03-dubai-the-future-that-never-md-75add3f943:c001:e002:3d72ce9c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal effectiveness involves perceiving oneself not as lazy but as misaligned in action, suggesting a need for realignment rather than judgment.",
+      "qualification": "This self-reported belief may overlook structural or motivational challenges individuals face.",
+      "support_ids": [
+        "linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c:c001:e001:2d418d7d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Stability is highlighted as more crucial for growth than rushing, especially for new professionals feeling overwhelmed.",
+      "qualification": "Advice is given in the context of self-reported observations, which might not hold universally.",
+      "support_ids": [
+        "linkedin-posts-2025-04-03-to-every-new-real-estate-md-7ee8ad43d5:c001:e002:c33df08c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence over talent is emphasized for success; staying longer and committed is considered more pertinent than high initial skill levels.",
+      "qualification": "This advice may not account for specific sectors where skill and talent are essential from the outset.",
+      "support_ids": [
+        "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d:c001:e003:01e58ff6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Top salespeople are characterized by grit rather than ego, which is deemed essential to attract high-caliber agents.",
+      "qualification": "The belief may not align with all professional experiences and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e005:34e7719e"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking for input promotes audience engagement on social media.",
+      "qualification": "This is an observed behavior from a social media context, and engagement metrics are not provided.",
+      "support_ids": [
+        "linkedin-posts-2023-09-07-im-curious-to-know-what-md-a978e0b1c5:c001:e003:2bfada42"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The author frequently invites feedback, indicating a strategy to foster interaction.",
+      "qualification": "Invite for feedback is a strategy seen in posts but lacks concrete performance data.",
+      "support_ids": [
+        "linkedin-posts-2023-09-07-try-it-and-let-me-md-7903330e47:c001:e001:e3741637"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often cease communication after receiving multiple options from agents, possibly leading to indecision.",
+      "qualification": "This is a self-reported observation without a quantified analysis of client behavior.",
+      "support_ids": [
+        "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e:c001:e002:7f7b90a2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients' indecisiveness may stem from receiving contradictory information from various agents.",
+      "qualification": "This perspective is presented as a belief and lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e:c001:e003:688ae1ea"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The author emphasizes the importance of gaining client trust and engagement through specific questioning strategies.",
+      "qualification": "Advice is based on the author's opinion, potentially lacking broader applicability.",
+      "support_ids": [
+        "linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a:c001:e001:b3ab9d18"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients are viewed as having autonomy and not owing anything to sales agents; this mindset influences agent-client relations.",
+      "qualification": "This belief reflects a sales philosophy but requires broader context on client-agent dynamics.",
+      "support_ids": [
+        "linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a:c001:e006:504b7148"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The author often provides social media engagement prompts to generate responses, highlighting a specific engagement strategy.",
+      "qualification": "This is an observed behavior; its effectiveness is not validated by engagement metrics.",
+      "support_ids": [
+        "linkedin-posts-2023-09-26-do-you-know-the-real-md-7a2a768bf5:c001:e001:043fd36b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Regular requests for advice or tips are made to stimulate interaction and enhance connection with followers.",
+      "qualification": "This technique is evident but lacks quantitative support to measure its impact.",
+      "support_ids": [
+        "linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1:c001:e006:5d310c8b"
+      ]
+    }
+  ]
+}

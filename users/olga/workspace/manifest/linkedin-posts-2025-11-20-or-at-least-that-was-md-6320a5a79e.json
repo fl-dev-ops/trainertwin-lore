@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-11-20-or-at-least-that-was-md-6320a5a79e-c04bef6498e88a47.jsonl",
+  "external_id": "7397255954087534592",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:58:59Z",
+  "metadata_hash": "23d9f02d68a18a3df150f969bdab9aa8373d3a56d2abf8d6af5922a14da6065e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-20T12:54:13.824000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-20-or-at-least-that-was.md",
+  "source_sha256": "037bf4d1327a4938dbb0b6be0978b182840ae3f8c7789304b36cb05f39809e38",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-salestraining-agentmindset-activity-7397255954087534592-vPmW"
+}

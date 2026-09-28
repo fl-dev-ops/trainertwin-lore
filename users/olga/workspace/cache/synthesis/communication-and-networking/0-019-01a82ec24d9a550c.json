@@ -1,0 +1,60 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Communication skills encompass more than professional qualifications.",
+      "qualification": "This advice suggests a broader perspective on communication skills but lacks independent verification.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e007:67bb2616"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication involves transforming statements into questions to engage audiences.",
+      "qualification": "This observed behavior is recommended for engaging clients but is self-reported from a teaching session.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c009:e001:c54b9d70"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using concise messages can enhance communication effectiveness.",
+      "qualification": "This advice is presented as a simple strategy to improve understanding, though outcomes are not validated.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c003:e001:818deb28"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The tone and cadence of speech influence how questions are perceived in communication.",
+      "qualification": "The impact of tonality and cadence is proposed theoretically, but no empirical evidence is provided.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e005:6e6c0dd0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Prompting AI with specific queries can improve communication skills.",
+      "qualification": "This advice is shared in an instructional context, lacking third-party validation.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c003:e002:7b298bdf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Leading questions may hinder meaningful client interactions in sales.",
+      "qualification": "It is cautioned that leading questions can provoke less substantive engagement, but this is unverified.",
+      "support_ids": [
+        "youtube-transcripts-104-yaml-cef95bc655:c002:e003:1aac5e36"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement involves mentally stimulating the audience rather than direct pitching.",
+      "qualification": "Engagement through cognitive involvement is advised; effectiveness is not empirically assessed.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c008:e002:bf2fbdc0"
+      ]
+    }
+  ]
+}

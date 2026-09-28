@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market has been characterized by high competition over the past three to four years.",
+      "qualification": "This finding is self-reported and thus lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-12-17-high-competition-has-been-the-md-2fa8c83180:c001:e001:de2fa637"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The goal of reaching 5.8 million residents by 2040 is expected to support real estate demand in Dubai.",
+      "qualification": "The statement reflects future projections and is hypothetically based.",
+      "support_ids": [
+        "linkedin-posts-2024-12-23-yet-again-theres-one-more-md-1748bee194:c001:e002:b36317c9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The Etihad Rail is expected to foster real estate expansion by improving accessibility to previously neglected areas in the UAE.",
+      "qualification": "The claims are observational and related to infrastructure developments.",
+      "support_ids": [
+        "linkedin-posts-2025-01-30-linkedin-asked-my-opinion-on-md-b61bde1b9f:c001:e004:a0c87fc2",
+        "linkedin-posts-2025-01-30-linkedin-asked-my-opinion-on-md-b61bde1b9f:c001:e005:5f0ddffd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Video content is being used as a strategic tool in real estate to demonstrate price reduction techniques and content creation.",
+      "qualification": "This is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-12-26-not-christmas-related-final-push-md-dd97ab43ac:c001:e003:fbe75423",
+        "linkedin-posts-2025-01-31-havent-posted-my-training-videos-md-0c1b6d7396:c001:e001:5705e3fd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are advised to manage price expectations with sellers, emphasizing that market conditions primarily determine property prices.",
+      "qualification": "Advice is provided to real estate agents based on industry expectations.",
+      "support_ids": [
+        "linkedin-posts-2024-12-17-one-deal-away-from-your-md-8677a05be4:c001:e002:ccc6d629"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Property price increases in 2025 are anticipated based on new residency visa initiatives in the UAE.",
+      "qualification": "This is a hypothetical belief and has not been actually observed.",
+      "support_ids": [
+        "linkedin-posts-2024-12-23-yet-again-theres-one-more-md-1748bee194:c001:e003:7c0c8373"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Professional development resources are being developed for real estate agents to address industry challenges.",
+      "qualification": "This is self-reported with no external verification.",
+      "support_ids": [
+        "linkedin-posts-2025-01-22-want-answers-to-the-biggest-md-3538907e1d:c001:e002:98d76503"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Candidates are encouraged to directly communicate with recruiters by sharing resumes via direct messages for job opportunities.",
+      "qualification": "Recruitment processes mentioned were unverified as they depend on individual actions.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-this-opportunity-is-for-you-md-4ec09e970e:c001:e006:5c0a9dc1"
+      ]
+    }
+  ]
+}

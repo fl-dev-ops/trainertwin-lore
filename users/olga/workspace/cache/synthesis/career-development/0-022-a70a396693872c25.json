@@ -1,0 +1,54 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Language skills are deemed crucial for career development, particularly in diverse environments such as Dubai.",
+      "qualification": "The evidence is self-reported and reflects personal experiences rather than empirical data.",
+      "support_ids": [
+        "linkedin-posts-2024-04-15-my-english-is-not-good-md-5f48b1ce7e:c001:e004:9f9a7d1f",
+        "linkedin-posts-2024-04-15-my-english-is-not-good-md-5f48b1ce7e:c001:e005:4a537795"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Improving English language proficiency is believed to impact earning potential in sales.",
+      "qualification": "This is a belief-based perspective without empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-04-01-talking-and-selling-in-english-md-a55c2895a1:c001:e002:8f7c8ee0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement involves understanding the client's decision-making process and focusing on thinking processes over verbal content.",
+      "qualification": "Insights are based on suggested advice without empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2024-04-11-there-are-two-reasons-why-md-26bacd7481:c001:e002:7e725ac7",
+        "linkedin-posts-2024-04-30-not-what-to-say-but-md-532def10e7:c001:e001:07a7f467"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Career success and accomplishments can feel illusory, suggesting a need for personal satisfaction and balance.",
+      "qualification": "This represents a personal, reflective belief, lacking empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-04-01-what-if-its-all-just-md-9cca12951a:c001:e001:4cb44e42"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "'Learning by doing' is advocated as an effective career development strategy.",
+      "qualification": "The statement is a belief and lacks quantifiable outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-04-24-learning-by-doing-salestraining-dubairea-md-d5bb25cf72:c001:e001:bbe88c1d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Differentiation as an agent is key to understanding personal value in client relationships.",
+      "qualification": "The insight is self-reported and not empirically substantiated.",
+      "support_ids": [
+        "linkedin-posts-2024-04-16-why-should-a-client-choose-md-59c32a3671:c001:e002:a9d1e568"
+      ]
+    }
+  ]
+}

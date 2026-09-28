@@ -1,0 +1,104 @@
+{
+  "groups": [
+    {
+      "name": "Investment Motivations",
+      "topics": [
+        "motivations-for-investment"
+      ]
+    },
+    {
+      "name": "Moving and Relocation",
+      "topics": [
+        "moving-tips",
+        "name-change"
+      ]
+    },
+    {
+      "name": "Negotiation Techniques",
+      "topics": [
+        "negotiation",
+        "negotiation-effectiveness"
+      ]
+    },
+    {
+      "name": "Networking",
+      "topics": [
+        "networking",
+        "networking-opportunity",
+        "networking-strategy"
+      ]
+    },
+    {
+      "name": "Sales Objections",
+      "topics": [
+        "objection-handling",
+        "objection-meaning",
+        "objections-in-sales",
+        "overcoming-objections",
+        "overcoming-resistance"
+      ]
+    },
+    {
+      "name": "Observed Behavior",
+      "topics": [
+        "observed-behavior",
+        "observed_behavior"
+      ]
+    },
+    {
+      "name": "Real Estate Offerings",
+      "topics": [
+        "offering",
+        "open-day"
+      ]
+    },
+    {
+      "name": "Onboarding and Training",
+      "topics": [
+        "onboarding",
+        "onboarding-training-framework"
+      ]
+    },
+    {
+      "name": "Digital Presence",
+      "topics": [
+        "online-presence"
+      ]
+    },
+    {
+      "name": "Sales Strategies",
+      "topics": [
+        "outreach-strategy",
+        "pain-in-success",
+        "persistence-in-sales"
+      ]
+    },
+    {
+      "name": "Participant Engagement",
+      "topics": [
+        "participant-responsibility"
+      ]
+    },
+    {
+      "name": "Perception and Self-Awareness",
+      "topics": [
+        "perception-of-others",
+        "personal-approach",
+        "personal-background",
+        "personal-beliefs",
+        "personal-branding",
+        "personal-development",
+        "personal-effectiveness",
+        "personal-effectiveness-exercise",
+        "personal-experience",
+        "personal-feedback-practice"
+      ]
+    },
+    {
+      "name": "nurturing-strategy",
+      "topics": [
+        "nurturing-strategy"
+      ]
+    }
+  ]
+}

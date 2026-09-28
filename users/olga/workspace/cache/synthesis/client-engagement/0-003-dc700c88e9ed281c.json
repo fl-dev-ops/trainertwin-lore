@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Engaging potential clients involves showing genuine interest by asking questions and actively listening, which makes clients feel understood and helps in the discovery of their true needs.",
+      "qualification": "This is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-08-22-i-support-the-idea-that-md-033fc90c4a:c001:e002:d035a1ad"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often stop responding after receiving multiple options from agents, suggesting that too many options can overwhelm them or that the initial convincing step does not fully engage them.",
+      "qualification": "This observation is based on the author's personal experience, making it anecdotal.",
+      "support_ids": [
+        "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e:c001:e002:7f7b90a2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients' indecision is often attributed to being exposed to contradictory information from different agents, which can deteriorate engagement quality and lead to confusion.",
+      "qualification": "This claim reflects the author's belief and may not represent a comprehensive study.",
+      "support_ids": [
+        "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e:c001:e003:688ae1ea"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging client feedback by asking for opinions or recommendations on social media can foster engagement and provide insights from the audience.",
+      "qualification": "The effectiveness of this strategy depends on the platform and audience engagement level.",
+      "support_ids": [
+        "linkedin-posts-2023-09-07-im-curious-to-know-what-md-a978e0b1c5:c001:e003:2bfada42",
+        "linkedin-posts-2023-09-05-my-linkedin-network-is-looking-md-5a7459e4c3:c001:e005:a62f9d1f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A strategy to increase client commitment is to explicitly state a lack of obligation from the client, which can relieve pressure and foster a more authentic engagement.",
+      "qualification": "This is an advised tactic but lacks empirical support or detailed outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a:c001:e006:504b7148"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "For sales agents looking to stand out and engage clients effectively, asking specific questions during initial calls can help differentiate them from others and potentially increase client commitment.",
+      "qualification": "The post suggests this tactic as advice, but there is no quantitative evidence provided to support its effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a:c001:e001:b3ab9d18"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a perceived benefit in making clients feel served rather than sold by understanding their needs and basing sales efforts on meeting those needs.",
+      "qualification": "This represents common advice but is not backed by specific case examples in the data provided.",
+      "support_ids": [
+        "linkedin-posts-2023-08-15-never-trust-a-sales-person-md-c5efc806b5:c001:e002:91ca2f75"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Receiving inputs from potential clients without the intent to self-promote may enhance authenticity and client engagement.",
+      "qualification": "This observation is self-reported and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1:c001:e005:2fac7cb4"
+      ]
+    }
+  ]
+}

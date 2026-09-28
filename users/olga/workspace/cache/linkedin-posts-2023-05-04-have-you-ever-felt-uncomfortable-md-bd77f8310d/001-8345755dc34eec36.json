@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "It's not uncommon – many people find the idea of reaching out to potential clients who have no prior relationship with them to be daunting.",
+      "statement": "Many people find the idea of reaching out to potential clients daunting.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "As an agent in the beginning of my career in Dubai, I've seen firsthand how effective cold calling can be for generating leads and converting them into customers.",
+      "statement": "As an agent in the beginning of my career in Dubai, I've seen firsthand how effective cold calling can be.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "But I also understand the discomfort that comes with it.",
+      "statement": "I understand the discomfort that comes with cold calling.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "By comparing it with calling prospective clients and incorporating the effective strategy in real estate, I help Dubai real estate professionals learn how to effectively obtain new customers and listings.",
+      "statement": "I help Dubai real estate professionals learn how to effectively obtain new customers and listings.",
+      "topic": "teaching approach",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "If you're ready to change your attitude towards cold calling and take your real estate business to the next level, consider joining my program.",
+      "statement": "Consider joining my program to change your attitude towards cold calling.",
+      "topic": "business education",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "Let's work together to overcome the discomfort and unlock the potential of this powerful sales strategy.",
+      "statement": "Let’s work together to overcome discomfort and unlock the potential of cold calling.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing cold calling discomfort and strategies in real estate."
+}

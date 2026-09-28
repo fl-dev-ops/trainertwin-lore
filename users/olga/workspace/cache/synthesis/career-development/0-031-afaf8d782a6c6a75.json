@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Practicing new questioning techniques can boost conversion rates in sales.",
+      "qualification": "Evidence is anecdotal from a single source and lacks broad empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e003:80a02980"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Both seasoned agents and new hires can benefit from consistent training materials, allowing quick adaptation.",
+      "qualification": "Claim based on observed benefits without corroborating empirical studies or external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-05-step-by-step-guide-to-my-online-md-baa2e01844:c001:e003:c0e71d4a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Online learning platforms support continuous development but do not replace the effectiveness of in-person sessions.",
+      "qualification": "The effectiveness and sufficiency of online learning relative to in-person training may vary across contexts.",
+      "support_ids": [
+        "linkedin-posts-2024-09-05-step-by-step-guide-to-my-online-md-baa2e01844:c001:e004:fd115376"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-beliefs can significantly impact sales performance, potentially more than knowledge alone.",
+      "qualification": "Finding is self-reported and anecdotal without scientific backing, indicating subjective influence.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e002:3347c8e2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cultural differences are crucial in client engagement, and misunderstanding them can lead to costly mistakes.",
+      "qualification": "Based on the author's personal experiences; not universally applicable or systematically validated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e002:853498e5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A fresh external perspective from someone with no vested interest might provide objective insights for career progression.",
+      "qualification": "This is a self-reported belief that may not universally apply or replace structured mentorship or professional evaluation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-client-testimonial-how-we-transformed-md-bdc949095b:c001:e003:d4d79a90"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mistakes, even significant ones, can be learning opportunities for career improvement.",
+      "qualification": "Self-reported experience that may not apply to all industries or individuals; lacks empirical studies to generalize.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e001:fc4daba9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Starting new ventures or career paths later in life is possible with determination.",
+      "qualification": "Self-reported and hypothetical without empirical evidence, potentially motivational but not universally valid.",
+      "support_ids": [
+        "linkedin-posts-2024-09-06-how-fitness-became-my-constant-md-af72ce3ecb:c001:e002:d73135a9"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "No one will come to Save you No one will \"bring you luck\" It's your Own responsibility!!!",
+      "statement": "No one will come to save you; it's your own responsibility!",
+      "topic": "personal responsibility",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "This Monologue is Just an example how I'm talking with myself...",
+      "statement": "This monologue is just an example of how I'm talking with myself.",
+      "topic": "internal dialogue",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing the responsibility behind achieving goals."
+}

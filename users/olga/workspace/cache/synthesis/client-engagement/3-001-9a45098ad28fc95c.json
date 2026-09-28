@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Clients can struggle with indecision when exposed to contradictory information from different agents.",
+      "qualification": "This is based on one author's account and lacks comprehensive analysis, hence cannot be generalized.",
+      "support_ids": [
+        "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e:c001:e003:688ae1ea"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging open feedback and audience interaction on social media may foster client engagement.",
+      "qualification": "Effectiveness depends on platform specifics and variability in audience engagement; no empirical studies provided.",
+      "support_ids": [
+        "linkedin-posts-2023-09-07-im-curious-to-know-what-md-a978e0b1c5:c001:e003:2bfada42",
+        "linkedin-posts-2023-09-05-my-linkedin-network-is-looking-md-5a7459e4c3:c001:e005:a62f9d1f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cultural and language awareness is important in diverse environments for improving communication with clients.",
+      "qualification": "Suggested by anecdotal evidence without independent verification; applicability may vary by environment.",
+      "support_ids": [
+        "linkedin-posts-2024-11-25-in-a-global-hub-like-md-1d8305f46d:c001:e004:86baaa70"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling disappearing clients right before deal closure represents a significant challenge in client engagement.",
+      "qualification": "Common issue noted in training but lacks specific strategies for resolution, indicating area for further study.",
+      "support_ids": [
+        "linkedin-posts-2024-08-28-just-in-time-for-lunch-break-md-e53e7cafe4:c001:e002:df7aadbf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training processes help real estate agents navigate client interactions and foster future opportunities.",
+      "qualification": "Self-reported benefit of training without external validation or detailed effectiveness metrics.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-ill-be-the-first-to-md-6ee40702d8:c001:e003:63192e79"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Most clients are in initial stages of awareness, either completely unaware or only problem aware, which affects sales engagement strategies.",
+      "qualification": "This observation is subjective and context-specific; lacks universal applicability confirmation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e002:1e2532d8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Pressure tactics lead to client disengagement and potential trust loss.",
+      "qualification": "Observable claim lacking thorough cross-source or empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e002:623be762"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales tactics that overtalk clients without understanding their needs are less effective than those focusing on client understanding.",
+      "qualification": "Presented as a belief rather than a fact; empirical evidence absent.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e001:4e8c6c3f"
+      ]
+    }
+  ]
+}

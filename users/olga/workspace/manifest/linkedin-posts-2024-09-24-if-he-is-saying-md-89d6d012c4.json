@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2024-09-24-if-he-is-saying-md-89d6d012c4-9a66e1e95940c70b.jsonl",
+  "external_id": "7244291615589023744",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:55:32Z",
+  "metadata_hash": "16836fdfa90b48ee6031b4179c3063fc16a7cff3222e0a64b0698fc739c61b33",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-24T10:28:33.586000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-24-if-he-is-saying.md",
+  "source_sha256": "e6f41f335421006c163ef013f2e5b6983b3f3702c1d23f47ac9927798adcc595",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-salestraining-selfgrowth-activity-7244291615589023744-sKeF"
+}

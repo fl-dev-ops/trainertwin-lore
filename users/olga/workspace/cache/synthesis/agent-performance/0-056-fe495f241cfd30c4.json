@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e002:bb5dbe91"
+      ],
+      "finding": "Agents often lose clients by oversimplifying their motivations to financial gain alone, emphasizing sales, or lacking empathy for broader client concerns.",
+      "qualification": "This is based on the opinion of a specific speaker, with no independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s184-yaml-acc61b1ae4:c001:e001:5421f2e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Successful agents should engage in extensive outreach, aiming for 200 daily engagements such as calls or direct messages to generate substantial commissions.",
+      "qualification": "Statements are claims made by one source, without alternative perspectives presented.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s188-yaml-acedd10670:c001:e001:63198500",
+        "youtube-shorts-run-transcripts-s188-yaml-acedd10670:c001:e002:c196c17a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients' perception of cost often results from not having sufficient funds or seeing insufficient value in the proposition.",
+      "qualification": "These claims appear as commonly held beliefs but lack empirical data support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s189-yaml-a9469ac3d6:c001:e001:d52b3f8d",
+        "youtube-shorts-run-transcripts-s195-yaml-9d3247ccee:c001:e002:68916fdc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents should hold six months of savings to avoid financial pressure that can result in 'commission breath', making them less appealing to clients.",
+      "qualification": "The advice is specific to one perspective and might need adjustment based on regional differences in housing markets.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s19-yaml-9b48711af4:c001:e002:068dbf1c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mentorships requiring a 50% commission split might be essential for new agents seeking experience while being trained.",
+      "qualification": "The advice is highly specific and anecdotal, dependent on individual industry practices.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s191-yaml-2abe4e4644:c001:e002:fcfcb972"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales are not akin to a lottery, but require dedication and effort, a misconception some new agents may face.",
+      "qualification": "This viewpoint is self-reported and should be contextualized against broader industry insights.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s19-yaml-9b48711af4:c001:e004:9c0e19f1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Excessive enthusiasm over the phone in sales interactions can lead to negative client reactions, though a balanced approach may be more effective.",
+      "qualification": "This finding is an observed claim lacking empirical support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s193-yaml-30d118548c:c001:e001:f7f00412"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients typically decline virtual meetings if they cannot see personal benefit, highlighting the importance of communicated value in sales efforts.",
+      "qualification": "While this claim is observed, it doesn't contrast different client engagement tactics.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s190-yaml-3f0a82d5fd:c001:e002:a88485c3"
+      ]
+    }
+  ]
+}

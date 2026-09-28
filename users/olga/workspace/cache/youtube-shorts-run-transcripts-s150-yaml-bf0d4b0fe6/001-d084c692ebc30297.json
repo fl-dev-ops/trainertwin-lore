@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "If the marketing agency reaching out to you saying, oh, don't worry, we're just going to have a little bit and we're just going to create a campaign for you, they're probably going to take your money and you're going to be sorely disappointed.",
+      "statement": "Marketing agencies may deceive clients regarding lead generation campaigns.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "as long as I believe in business, as long as you don't fail, you don't succeed, right?",
+      "statement": "Success in business is contingent on not failing.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Are you trying to sell it?",
+      "statement": "The speaker inquires if the other person is trying to sell something.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Transcript excerpt discussing marketing agencies and lead generation."
+}

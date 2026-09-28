@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Treating clients like people may be essential for long-term business success.",
+      "qualification": "Self-reported belief, not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-06-25-fresh-air-needed-clients-are-md-6a287be5d5:c001:e002:92fea33f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rejections in sales are perceived as a barrier to closing deals.",
+      "qualification": "Self-reported fact claim, lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f:c001:e001:37b3e57a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Excellence requires expanding knowledge and challenging practices.",
+      "qualification": "Self-reported advice, lacks verification by other sources.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-nine-years-in-real-estate-md-5696766c14:c001:e006:b951f730"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Face-to-face interactions are preferred over online methods for building trust and closing deals.",
+      "qualification": "Self-reported observation, unverified by independent sources.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e001:0d59eed4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI tools in real estate are often seen as complex, ineffective, or not time-saving by agents.",
+      "qualification": "Poll results reported by the source, not detailed or independently corroborated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-over-50-of-real-estate-md-57c0529eb0:c001:e002:db9998a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Visibility and accountability are seen as factors that elevate sales skills.",
+      "qualification": "Self-reported belief without independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-07-02-this-will-shed-some-light-md-d0de30d674:c001:e002:4d59759e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Community ties can strongly influence personal and professional roots.",
+      "qualification": "Self-reported opinion, showing personal bias toward community attachment.",
+      "support_ids": [
+        "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9:c001:e001:adbd3a98"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Anticipated future goals can drive current actions.",
+      "qualification": "Self-reported belief, not verified independently.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb:c001:e001:d7d8d07d"
+      ]
+    }
+  ]
+}

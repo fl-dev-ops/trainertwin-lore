@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Coaching and strategy are important for agent survival in a competitive market.",
+      "qualification": "The advice to enhance sales strategy is suggested rather than proven effective. Uncertainty exists due to lack of empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b:c001:e004:228a8c8b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are achieving high commissions, with one agent earning +AED 79,000.",
+      "qualification": "This is self-reported; no external financial verification is available.",
+      "support_ids": [
+        "linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b:c001:e003:d7e7fc35"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Old and new sales strategies differ fundamentally, with emotional intelligence replacing aggressive tactics in Dubai real estate.",
+      "qualification": "The claim is observed, but the extent of adoption or success is not quantified.",
+      "support_ids": [
+        "linkedin-posts-2025-11-21-sales-isnt-about-harassing-people-md-7c969e3584:c001:e004:2c8d0706"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Ethics can be advantageous in sales, suggesting a strategic benefit over commissions.",
+      "qualification": "While reported as beneficial, proof of competitive advantage is anecdotal.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad:c001:e003:cd630ab0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training focuses on overcoming objections, evidenced by offerings from the Real Estate Growth Academy.",
+      "qualification": "It's unclear if these strategies lead to improved performance. The observation lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-how-to-overcome-this-and-md-582c8387fb:c001:e001:334fdc3c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Success in sales often relies on persistence and execution despite challenges.",
+      "qualification": "The effectiveness is aspirational and motivational without demonstrated outcome verification.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268:c001:e005:55d430fc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Direct client engagement is advised for young agents focusing on skill enhancement.",
+      "qualification": "The advice is hypothetical and lacks evidence of success within the recommended timeframe.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e001:0dc71fc1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some agents employ emotional intelligence effectively in sales communication.",
+      "qualification": "The impact on performance is not detailed, and the observation is situational rather than generalized.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad:c001:e002:6bfb6278"
+      ]
+    }
+  ]
+}

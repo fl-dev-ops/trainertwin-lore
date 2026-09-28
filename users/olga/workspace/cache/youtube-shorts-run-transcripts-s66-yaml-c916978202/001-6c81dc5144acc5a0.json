@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "You have a pocket listings, so does everyone else, but how to convert them? That's the question.",
+      "statement": "You have a pocket listings, so does everyone else, but how to convert them?",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Are they actually working with other agents, maximizing their ability of the seller to get the client? Are they quick enough in responding to the calls and arranging the viewings?",
+      "statement": "Are they actually working with other agents, maximizing their ability of the seller to get the client?",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Are they providing the property performance reward? Are they really protecting the seller side in the negotiation?",
+      "statement": "Are they providing the property performance reward?",
+      "topic": "negotiation",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Transcript from a YouTube Short discussing strategies for increasing real estate listings in Dubai."
+}

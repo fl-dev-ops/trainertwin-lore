@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Engaging in sales conversations daily is seen as beneficial for achieving sales goals.",
+      "qualification": "The evidence is from a self-reported source without external verification.",
+      "support_ids": [
+        "linkedin-posts-2023-07-20-rejection-is-a-myth-consider-md-c6d7a21b56:c001:e005:1f1872ea"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training, mentorship, guidance, leads, and self-learning are recommended for success as a new real estate agent.",
+      "qualification": "Recommendation is context-specific to real estate, not universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2023-07-25-you-can-succeed-even-if-md-1daa20bc52:c001:e002:06890e81"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Prospecting consistently is considered crucial in developing a successful career in sales.",
+      "qualification": "The finding is based on individual perceptions and lacks independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2023-07-21-never-stop-prospecting-one-of-md-4238118cf6:c001:e002:74edede7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Memorizing and practicing sales scripts daily is advised for increasing professional effectiveness.",
+      "qualification": "This advice is self-reported and may vary depending on circumstances.",
+      "support_ids": [
+        "linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a:c001:e004:acb7228d",
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e005:66da058f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The importance of 'WHY' is highlighted in overcoming challenges and achieving goals.",
+      "qualification": "Concept is based on personal beliefs, not empirical studies.",
+      "support_ids": [
+        "linkedin-posts-2023-08-09-if-your-why-is-strong-md-c39641e5a1:c001:e001:79346795",
+        "linkedin-posts-2023-08-16-your-ability-to-become-a-md-bfdb046392:c001:e005:1ed89ff1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset is a tool for personal growth within sales professions.",
+      "qualification": "Reported by individuals, may not apply universally.",
+      "support_ids": [
+        "linkedin-posts-2023-08-18-im-using-this-mindset-right-md-421de74ffa:c001:e001:680ac318"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Practice and rehearsal are advised for improving sales outcomes and personal performance.",
+      "qualification": "Advice is subjective and may depend on individual circumstances.",
+      "support_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e005:66da058f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales process weaknesses and skill gaps in management are seen as causes of inconsistent performance.",
+      "qualification": "Observations are not independently verified and reflect specific viewpoints.",
+      "support_ids": [
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e004:d2bf41a4",
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e005:ea8f4747"
+      ]
+    }
+  ]
+}

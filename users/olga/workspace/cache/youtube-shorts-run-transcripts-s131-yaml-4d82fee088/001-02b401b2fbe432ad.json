@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "...stop asking what is your budget, what's your price point, or how much money do you have and ask the skilled question.",
+      "statement": "Stop asking 'What is your budget' and instead ask about future funding access.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Oh, we're already filming. Okay, so now let's hurry up to the budget questions.",
+      "statement": "The speaker exhibits urgency and engagement in the conversation.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "this is the question which ninety-nine percent of agents are afraid to ask and are asking them and end up, you know, selling to someone who has two pennies to his name.",
+      "statement": "Agents often fear asking direct budget questions, leading to poor sales outcomes.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "which kind of uh funding um do you feel you will be able to kind of get access to within the next two or three years?",
+      "statement": "Agents should inquire about clients' funding access in the upcoming years.",
+      "topic": "future funding",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "ask the skilled question.",
+      "statement": "Engage clients by focusing on their potential future financial access instead of current budget constraints.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Video transcript about sales strategy and client engagement approach."
+}

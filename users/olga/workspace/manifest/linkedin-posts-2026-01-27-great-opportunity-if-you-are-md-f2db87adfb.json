@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-01-27-great-opportunity-if-you-are-md-f2db87adfb-49d95873f7d96463.jsonl",
+  "external_id": "7421937262294163457",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:03:43Z",
+  "metadata_hash": "2a5d1fcd8628c92ed55e3021c37dd35e0a7cbff7ac4c43ab7e6efba940e0d547",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-01-27T15:28:56.257000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-01-27-great-opportunity-if-you-are.md",
+  "source_sha256": "7de3a6b82dc012018980e77dd3685992cbfdcdb07972e95fb5f2455d9a8859ac",
+  "source_url": "https://www.linkedin.com/posts/olgasi_hiring-realestatejobs-dubaicareers-activity-7421937262294163457-Z5fr"
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-10-16-the-1-mistake-that-kills-md-5e04081625-1b95b851be72ea9b.jsonl",
+  "external_id": "7384445558838517760",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:49:29Z",
+  "metadata_hash": "9928a3cf156df0b29a12ed98a73ef701c95aca47a871c0e3c04b52f3bf53f5a5",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-10-16T04:30:17.591000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-10-16-the-1-mistake-that-kills.md",
+  "source_sha256": "52344cf1206556c7fbe732ad7ef77099f9bc326d6b57f97c2ad96ca2578a7380",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestraining-dubairealestate-salescoaching-activity-7384445558838517760-_vta"
+}

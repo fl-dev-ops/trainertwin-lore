@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "There is a reported period of war-driven uncertainty affecting global markets.",
+      "qualification": "This claim is observed and self-reported, with no specific evidence verified beyond the statement.",
+      "support_ids": [
+        "linkedin-posts-2026-03-10-right-now-were-entering-a-md-be3b13d0a4:c001:e001:b30695c3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market is strong but faces anxiety about potential market crashes.",
+      "qualification": "The evidence is self-reported and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e001:41fa0f7f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Market conditions are reportedly harder, with agencies under pressure and reluctant to spend on training.",
+      "qualification": "This claim is self-reported with no external validation.",
+      "support_ids": [
+        "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b:c001:e002:210ebdf7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rental agencies in Dubai are experiencing decreased leads and complaining about high marketing costs.",
+      "qualification": "The statement is based on observed experience and is not independently verified or quantified.",
+      "support_ids": [
+        "linkedin-posts-2026-05-26-i-negotiated-my-rent-down-md-1799d39385:c001:e003:03b26f72"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Advice suggests reconsidering investment allocation if current results are lacking.",
+      "qualification": "This is advisory and reflects opinion rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb:c001:e006:fbd6192a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The market is perceived as having shifted focus towards smarter investors amidst smaller developers facing challenges.",
+      "qualification": "This observation is unverified and suggests a trend without statistical backing.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s177-yaml-7fbcc4a1d5:c001:e006:52713cf2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents in Dubai are sometimes perceived negatively by clients, being labeled as \"scammers.\"",
+      "qualification": "It's self-reported and anecdotal, hence not systematically validated.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e003:3f89eb7e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The assertion is made that survival in business is achieved through usefulness, not panic.",
+      "qualification": "It's an observed opinion rather than a factual claim, lacking empirical support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s141-yaml-01d68cfba7:c001:e003:2825fde9"
+      ]
+    }
+  ]
+}

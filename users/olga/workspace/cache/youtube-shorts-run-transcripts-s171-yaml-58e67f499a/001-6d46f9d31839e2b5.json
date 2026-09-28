@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "So we have to re-ask the question in different way.",
+      "statement": "We have to re-ask the question in a different way.",
+      "topic": "objection handling",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Is this a response on the question or no? Can we move forward or no?",
+      "statement": "A response of 'it's too expensive' is not a satisfactory answer in sales discussions.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "We have to understand is this answer is actually giving us the information that we need.",
+      "statement": "It's important to confirm whether the answer received provides the necessary information.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Observations about objection handling techniques in sales discussions."
+}

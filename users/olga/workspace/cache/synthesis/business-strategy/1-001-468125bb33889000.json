@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Building internal urgency based on a client's dissatisfaction is more effective than relying on external urgency tactics in real estate sales.",
+      "qualification": "This advice is self-reported and emphasizes strategic sales approaches.",
+      "support_ids": [
+        "linkedin-posts-2023-10-27-what-is-the-main-reason-md-ed7d7f9fe5:c001:e005:9ac14a9a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dependence on 'top closers' suggests an unsustainable business model lacking robustness.",
+      "qualification": "This claimed insight explains a risk to the viability of business models overly reliant on elite performers.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e007:eefe0372"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Skepticism exists regarding companies providing enough leads, indicating a need for personal initiative in client acquisition.",
+      "qualification": "The claim is self-reported and suggests a strategic realism in expectations from real estate companies.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-what-i-wish-someone-had-md-288164096b:c001:e003:6c514d3d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Leadership programs for future managers represent a strategic investment in training and development at OBG.",
+      "qualification": "This fact claim highlights organizational efforts to prepare for future leadership roles.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e009:e5fd59a5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "B2C models face challenges with user engagement, where many users participate briefly before disengaging.",
+      "qualification": "Based on the observation from a single source, more independent data would strengthen this point.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e004:83753952"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Startup founders can experience frustration from substantial effort not translating into profit.",
+      "qualification": "This finding is based on a subjective observation from a personal account on social media.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e005:fa1894f8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Assessment of a company's size and its successful agent outcomes is crucial for determining potential profitability.",
+      "qualification": "This is advisory, not empirical; the effectiveness is anecdotal.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s143-yaml-25191d39ed:c001:e003:155795c8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Future disruptions like pandemics are difficult to predict and were not previously considered likely.",
+      "qualification": "This belief shows uncertainty tolerance but lacks historical or forecasting data to support it comprehensively.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s210-yaml-36da6d8b13:c001:e002:0f6dd850"
+      ]
+    }
+  ]
+}

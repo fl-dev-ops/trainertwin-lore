@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Clients who say \"we're still looking\" might be expressing a lack of trust in the agent rather than seeking more options.",
+      "qualification": "This claim is based on an observed behavior and is not verified by independent sources or research.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-the-biggest-lie-real-estate-md-93aa4d54ca:c001:e005:92e29883"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents should position themselves as experts who eliminate risk rather than just chasing commissions.",
+      "qualification": "This advice is self-reported and may reflect a specific strategy rather than a universally applicable truth.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-the-biggest-lie-real-estate-md-93aa4d54ca:c001:e008:80e533b7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effectively structured email communication can lead to successful client conversion.",
+      "qualification": "This recommendation is a strategic approach and assumes an audience receptive to email marketing.",
+      "support_ids": [
+        "linkedin-posts-2025-11-17-me-and-my-online-academy-md-e40dd27252:c001:e003:45dee9e1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "New real estate agents are often uncertain about how to start and engage with potential clients.",
+      "qualification": "The evidence is based on observed behavior, but lacks substantive data on the effectiveness of the suggested approach.",
+      "support_ids": [
+        "linkedin-posts-2025-11-05-new-agents-ask-me-where-md-0ad37c47ab:c001:e004:be9ba59e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging audience interaction by posing questions can be a strategy for engagement.",
+      "qualification": "While interaction is suggested as beneficial, the effectiveness in terms of engagement is not verified.",
+      "support_ids": [
+        "linkedin-posts-2025-11-11-how-many-units-should-sell-md-c9163b4f34:c001:e002:f4cb9367"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-reported evidence suggests agents are concerned about clients walking away during engagement processes.",
+      "qualification": "This is a self-reported concern and does not indicate actual client behavior or engagement patterns.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-what-should-i-say-so-md-1b68d420ee:c001:e002:1f7e8cf6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Inviting potential clients or partners to events may be a successful engagement strategy.",
+      "qualification": "This is an individual narrative that may not be universally effective without additional context and verification.",
+      "support_ids": [
+        "linkedin-posts-2025-11-07-so-proud-of-your-growth-md-ffc017a9ae:c001:e003:51f64d8b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales should not be aggressively pursued by harassing potential clients until they agree.",
+      "qualification": "This self-reported experience suggests a softer approach might prevent client withdrawal, but lacks broader validation.",
+      "support_ids": [
+        "linkedin-posts-2025-11-21-sales-isnt-about-harassing-people-md-7c969e3584:c001:e002:3cb995fe"
+      ]
+    }
+  ]
+}

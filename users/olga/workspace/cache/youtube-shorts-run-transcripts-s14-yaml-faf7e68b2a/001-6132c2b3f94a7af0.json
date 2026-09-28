@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "after each and every real estate collapse, as we thought it would be collapsed, it's going to be another rise.",
+      "statement": "After each real estate collapse, there will be another rise.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "if you're now a real estate agent and you don't know how to handle, I'm going to wait till the prices go down objection, and you're not in my Telegram community yet, what are you waiting for?",
+      "statement": "The speaker encourages joining a Telegram community for support in handling objections.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "free online training where I'm going to be teaching you how to handle those type of uncertainty objection",
+      "statement": "The speaker offers a free online training session to teach how to handle price objection.",
+      "topic": "training approach",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "I'm gonna give you the talking points and step by step logical strategy so you can do it yourself.",
+      "statement": "The speaker plans to provide talking points and a logical strategy for handling client objections.",
+      "topic": "closing techniques",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Transcript of a motivational talk regarding real estate and handling client objections, featuring training invitation."
+}

@@ -1,0 +1,28 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Suryaumapathy studied at the International Institute of Information Technology Bangalore.",
+      "qualification": "This information is self-reported via LinkedIn and is unverified.",
+      "support_ids": [
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c002:e003:22099c08"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Suryaumapathy completed postgraduate studies in Machine Learning and Artificial Intelligence at the International Institute of Information Technology Bangalore.",
+      "qualification": "The offering of this postgraduate program is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c002:e004:d256ac55"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Suryaumapathy studied at the University of Madras.",
+      "qualification": "This information is self-reported on LinkedIn and not independently confirmed.",
+      "support_ids": [
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c002:e005:e4090dad"
+      ]
+    }
+  ]
+}

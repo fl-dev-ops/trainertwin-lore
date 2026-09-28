@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "guess what? She closed her first deal using exactly",
+      "statement": "Lisa closed her first deal using the strategies taught by the speaker.",
+      "topic": "sales performance",
+      "unit_id": "u000077"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "launch your new career on each and every social platform.",
+      "statement": "The speaker offers a method for agents to generate leads through social media and personal contacts.",
+      "topic": "sales strategy",
+      "unit_id": "u000067"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "it's up to you to decide.",
+      "statement": "The speaker suggests success in sales depends on the individual's determination and execution of strategies.",
+      "topic": "mindset shift",
+      "unit_id": "u000081"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "out of nowhere, just in three weeks, she has fifty seven thousand.",
+      "statement": "Lisa earned $57,000 from a real estate deal within three weeks of coaching.",
+      "topic": "investment opportunity",
+      "unit_id": "u000079"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I'm recording from actually from the future.",
+      "statement": "The speaker acknowledges a transition to discussing their experiences and living in Dubai.",
+      "topic": "personal growth",
+      "unit_id": "u000076"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "sometimes they're actually very good because they value the people.",
+      "statement": "The speaker reflects on the importance of a supportive environment in a startup real estate company.",
+      "topic": "personal reflection",
+      "unit_id": "u000058"
+    }
+  ],
+  "overview": "YouTube transcript discussing strategies for real estate agents."
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "fact_claim",
+      "quote": "How to Understand what he needs and wants?",
+      "statement": "Understanding client needs involves entering their perspective.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "How to Get into your Client Head?",
+      "statement": "It's important to connect with clients on a personal level to gauge their wants.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing strategies for understanding client needs and engaging effectively with them."
+}

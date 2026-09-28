@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "My most requested trainings - Objection Handling",
+      "statement": "My most requested trainings - Objection Handling",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "style",
+      "quote": "Get your dose of confidence ⬇️",
+      "statement": "Get your dose of confidence",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post listing requested training topics in sales."
+}

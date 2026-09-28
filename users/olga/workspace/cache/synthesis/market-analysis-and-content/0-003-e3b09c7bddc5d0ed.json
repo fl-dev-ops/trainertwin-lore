@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Offplan sales volume in Dubai increased by 46.6% compared to 2022, indicating a high level of trust from both domestic and international investors in Dubai's economy.",
+      "qualification": "The information is self-reported and based on specific observational data.",
+      "support_ids": [
+        "linkedin-posts-2023-07-18-offplan-sales-volume-increased-by-md-13f7af3437:c001:e001:8aa8a8c9",
+        "linkedin-posts-2023-07-18-offplan-sales-volume-increased-by-md-13f7af3437:c001:e002:01182bd4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "New agents can succeed in the real estate industry even without prior experience.",
+      "qualification": "The statement is a fact claim but is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-07-25-you-can-succeed-even-if-md-1daa20bc52:c001:e001:791b6afd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Financial instability for investors and home buyers in Dubai is caused by low standards in real estate services.",
+      "qualification": "This statement highlights potential risks and may reflect subjective experiences, but lacks independent verification or quantitative data.",
+      "support_ids": [
+        "linkedin-posts-2023-11-03-well-you-may-think-its-md-57493a6e05:c001:e002:1775f1e8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate in Dubai is purchased not only based on price or aesthetics but to address problems or emotional needs.",
+      "qualification": "The finding is based on observational data from a specific context.",
+      "support_ids": [
+        "linkedin-posts-2023-10-27-what-is-the-main-reason-md-ed7d7f9fe5:c001:e001:1bf0f2b1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Potential investment areas in Dubai include Business Bay, City Walk, Jumeirah Village Circle, and others.",
+      "qualification": "The list provides anecdotal insights rather than comprehensive market data.",
+      "support_ids": [
+        "linkedin-posts-2023-07-28-aside-from-budget-limitations-where-md-7d9683c32f:c001:e002:f56ec5c4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an upcoming real estate development intended to house 8 million people.",
+      "qualification": "While the statement is assertive, further verification is needed to confirm project details and feasibility.",
+      "support_ids": [
+        "linkedin-posts-2023-09-12-amazed-me-the-most-will-md-3fbe50c512:c001:e001:25386f06"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A project with a harbor component is expected to be completed by 2030, positioned near the Palm.",
+      "qualification": "Details are based on observed reports but lack independent verification.",
+      "support_ids": [
+        "linkedin-posts-2023-09-13-my-first-trip-to-saudi-md-405dbaed49:c001:e003:a28b2c79",
+        "linkedin-posts-2023-09-13-my-first-trip-to-saudi-md-405dbaed49:c001:e006:07aa22fa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adeal for approximately AED 2,000,000 was closed, showing the occurrence of high-value transactions in Dubai real estate.",
+      "qualification": "The transaction reflects individual successes in the market, possibly not representative of broader trends.",
+      "support_ids": [
+        "linkedin-posts-2023-09-11-we-filmed-it-on-the-md-dca9dc5df7:c001:e001:11993c89"
+      ]
+    }
+  ]
+}

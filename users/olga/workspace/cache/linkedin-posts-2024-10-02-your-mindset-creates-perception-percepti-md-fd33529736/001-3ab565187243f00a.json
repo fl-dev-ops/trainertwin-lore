@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Your mindset creates perception. Perception creates emotions.",
+      "statement": "Your mindset creates perception.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Perception creates emotions. Emotions create actions.",
+      "statement": "Perception creates emotions.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Emotions create actions.",
+      "statement": "Emotions create actions.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A concise statement on the relationship between mindset, perception, emotions, and actions."
+}

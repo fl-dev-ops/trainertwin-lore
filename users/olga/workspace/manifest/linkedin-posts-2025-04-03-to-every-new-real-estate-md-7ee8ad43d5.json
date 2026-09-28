@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-04-03-to-every-new-real-estate-md-7ee8ad43d5-20c34d04ab0a896f.jsonl",
+  "external_id": "7313438886343380994",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:40:55Z",
+  "metadata_hash": "947455627bd5260fd33cfd43e3b403aa5b82919c308b0f1099a97a98e7e623d3",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-03T05:55:07.628000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-03-to-every-new-real-estate.md",
+  "source_sha256": "201143e61f81bb333bcb7a76572a5b1912f6e9c1a9613a10ee4bc0ed13cf5cd3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatementordubai-newrealestateagents-activity-7313438886343380994-n1YC"
+}

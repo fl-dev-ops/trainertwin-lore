@@ -1,0 +1,58 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Survival and emotional detachment were key to personal growth in overcoming challenges, rather than meditation or mindset books.",
+      "qualification": "This statement is a self-reported belief without empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-10-22-the-story-i-never-told-md-7b57e1d70a:c001:e001:33c7ff2b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Courage involves managing fear rather than its absence, which is considered crucial for success.",
+      "qualification": "This is a personal perspective without verification.",
+      "support_ids": [
+        "linkedin-posts-2025-10-22-the-story-i-never-told-md-7b57e1d70a:c001:e004:c6572af5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents need to be seen as experts eliminating risks to gain client trust, rather than just handling transactions.",
+      "qualification": "This advice is self-reported and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-the-biggest-lie-real-estate-md-93aa4d54ca:c001:e008:80e533b7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Companies often prefer hiring new agents over training existing ones, impacting career development strategies.",
+      "qualification": "This is based on observation and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-the-biggest-lie-real-estate-md-93aa4d54ca:c001:e010:8a0f7aae"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The executor mindset, characterized by consistent action and private celebration, impacts promotion opportunities.",
+      "qualification": "The observation is anecdotal and not empirically supported.",
+      "support_ids": [
+        "linkedin-posts-2025-10-30-the-promotion-secret-nobody-tells-md-d19e365f2e:c001:e002:93add5f7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Formal training is more effective than self-help resources like online videos for advancing in one's career.",
+      "qualification": "The evidence supporting this finding is hypothetical and largely anecdotal.",
+      "support_ids": []
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communicating one's insights and sharing techniques can enhance promotion prospects in career growth.",
+      "qualification": "This is advice from a single source without empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2025-10-30-the-promotion-secret-nobody-tells-md-d19e365f2e:c001:e005:4594ad91"
+      ]
+    }
+  ]
+}

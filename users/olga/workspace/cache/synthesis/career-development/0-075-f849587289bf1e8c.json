@@ -1,0 +1,45 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Engaging clients effectively can enhance career development by focusing on potential rather than current constraints.",
+      "qualification": "This claim is self-reported and lacks empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s131-yaml-4d82fee088:c001:e005:abb9d0e9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Avoiding direct budget questions with clients can improve career progression, as traditional approaches are seen as outdated.",
+      "qualification": "This perspective is based on anecdotal advice and is unverified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s132-yaml-ca3e62c8c6:c001:e001:fb1ab2ca"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Identifying and addressing fears or misunderstandings in clients can lead to transformational career achievements.",
+      "qualification": "The evidence is self-reported and anecdotal, without empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s135-yaml-e2f9be072a:c001:e001:d2bca4b0",
+        "youtube-shorts-run-transcripts-s135-yaml-e2f9be072a:c001:e002:0c6100b6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client trust and engagement might be improved by providing clarity rather than excessive offers.",
+      "qualification": "The evidence relies on observed behavior and lacks third-party verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s138-yaml-e7455ceab3:c001:e004:24dd1747"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Broad competition among agents can drive the need for enhanced client engagement strategies.",
+      "qualification": "This statement is unverified and based on self-reported competition insights.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s138-yaml-e7455ceab3:c001:e001:b5af9fbc"
+      ]
+    }
+  ]
+}

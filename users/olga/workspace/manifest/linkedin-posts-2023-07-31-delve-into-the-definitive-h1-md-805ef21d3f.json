@@ -1,0 +1,16 @@
+{
+  "author": "jackie-johns-75048122",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-07-31-delve-into-the-definitive-h1-md-805ef21d3f-91aed3da7acf3680.jsonl",
+  "external_id": "7091760856392200192",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:13:38Z",
+  "metadata_hash": "a14bf25f6ce6a7f363dc12856e833c88099c97dddf6bbbc17432022963b5c44e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-31T12:45:46.709000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-31-delve-into-the-definitive-h1.md",
+  "source_sha256": "f6845c59e37f7e799b6b62748c929b27d1c803bc137b92cef3a292ced6dd4612",
+  "source_url": "https://www.linkedin.com/posts/jackie-johns-75048122_dubairealestate-luxuryrealestate-realestatedubai-ugcPost-7091754755928076288-cYIk"
+}

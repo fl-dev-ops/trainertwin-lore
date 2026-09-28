@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales can falter in the follow-up stages or when agents aren't controlling presentations, impacting overall success.",
+      "qualification": "This is an observed claim requiring more systematic study to confirm its prevalence.",
+      "support_ids": [
+        "linkedin-posts-2026-02-21-if-youre-a-dubai-real-md-5297fc9fc3:c001:e002:9504770c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence and adaptation are critical to overcoming early failures in real estate sales, with anecdotal success stories of significant commissions earned despite initial struggles.",
+      "qualification": "The story is self-reported with no external validation of the coaching's effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5:c001:e001:2ffdde19",
+        "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5:c001:e002:1bc50f73"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Misconceptions, like 'properties sell themselves in Dubai', can negatively affect sales performance.",
+      "qualification": "The statement highlights a common pitfall but does not address how prevalent or impactful such misconceptions are.",
+      "support_ids": [
+        "linkedin-posts-2025-05-29-me-and-ashley-james-hawthorne-we-md-47e71f8489:c001:e002:9379e95b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Coaching and training requests in real estate require market-specific expertise, such as knowledge of Dubai's market.",
+      "qualification": "Specific to market knowledge, lacking broader context application.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s113-yaml-22f362b517:c001:e005:7a31264f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A significant majority of real estate agents, about 95%, fail to continue in the industry beyond their first year.",
+      "qualification": "Factors contributing to this high dropout rate are not elaborated in detail.",
+      "support_ids": [
+        "linkedin-posts-2025-10-23-why-95-of-real-estate-md-9a167dacc4:c001:e001:2765ea24"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dead leads in real estate databases may represent missed opportunities worth millions.",
+      "qualification": "This is self-reported and hypothetical, requiring validation for broader applicability.",
+      "support_ids": [
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e001:1c23a084",
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e002:79f3741e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI is anticipated to potentially take over administrative parts of HR and recruitment roles, reducing operational costs.",
+      "qualification": "Hypothetical and not supported by present evidence.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:c001:e004:96ceb117"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales processes inherently generate client resistance, necessitating strategies to manage objections and improve communication.",
+      "qualification": "These observations may not apply to all sales interactions or industries.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e001:26754aaf",
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e002:2bbe62a4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Low interpersonal trust can negatively impact career relationships and development.",
+      "qualification": "The statement is self-reported, indicating belief rather than empirically supported fact.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e001:d204032b"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "the #1 question I'm getting from my clients, Sales and HR directors",
+      "statement": "the #1 question I'm getting from my clients",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Real Estate has truly unlimited earning potential... But what is really a goal",
+      "statement": "Real Estate has truly unlimited earning potential",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "But what is really a goal - to hit a certain number or to keep hitting it on a consistent basis?",
+      "statement": "to hit a certain number or to keep hitting it on a consistent basis?",
+      "topic": "goals in sales",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source is a LinkedIn post soliciting recommendations for a real estate agent."
+}

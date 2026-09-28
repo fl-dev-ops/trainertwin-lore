@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2023-09-07-im-curious-to-know-what-md-a978e0b1c5-8d6eeda9d4621b13.jsonl",
+  "external_id": "7105513645328990211",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:15:23Z",
+  "metadata_hash": "3a9a328971df94710fa99bc7019c255114ea8f86214098a7a34abbfff5b89bae",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-09-07T11:34:27.106000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-09-07-im-curious-to-know-what.md",
+  "source_sha256": "379a0c8016c64df072a7ae07c7f4823da14ade7a9943d2ffe699d70eaec180f0",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestrainingtips-investinyourself-dubairealestatetrainer-activity-7105513645328990211-awvU"
+}

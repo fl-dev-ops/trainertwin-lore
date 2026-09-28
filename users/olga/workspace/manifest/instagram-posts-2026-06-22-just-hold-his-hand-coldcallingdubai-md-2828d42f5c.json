@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-06-22-just-hold-his-hand-coldcallingdubai-md-2828d42f5c-61dc033568a06eb4.jsonl",
+  "external_id": "3925227455959736931",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:10:58Z",
+  "metadata_hash": "00c5796244c545a99120a4e101379e9f4493d144f9dad13fba3bbe26ff0142a3",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-06-22T15:54:29Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2026-06-22-just-hold-his-hand-coldcallingdubai.md",
+  "source_sha256": "d73ee35185da4ff6a7a53c55dcf14d28904f98ab9530af1ca747c0e3ae7f31be",
+  "source_url": "https://www.instagram.com/p/DZ5NZMPFyJj/"
+}

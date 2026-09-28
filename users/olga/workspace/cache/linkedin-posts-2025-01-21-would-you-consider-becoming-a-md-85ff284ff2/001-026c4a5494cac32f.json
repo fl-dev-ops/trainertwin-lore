@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "The reason I’m asking is simple: I receive countless inquiries about training agents and collaborating with companies.",
+      "statement": "I receive countless inquiries about training agents and collaborating with companies.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Unfortunately, I haven’t figured out how to clone myself yet (working on it!), and that means I can’t personally take on every opportunity.",
+      "statement": "I can’t personally take on every opportunity but can help others who dream of becoming sales trainers.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "But what I can do is help others who dream of becoming sales trainers themselves.",
+      "statement": "I’m thinking of launching a coaching program for agents who want to transition into a training role.",
+      "topic": "coaching program",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "But isn’t sure how to: - Start as a trainer, - Build effective training programs, - Teach others how to sell.",
+      "statement": "Teach others how to sell by building effective training programs.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "So, tell me: Would you be interested in a career shift that allows you to stay in the industry, share your knowledge, and help others succeed in real estate sales?",
+      "statement": "Tell me if you’d be interested in a career shift that allows you to stay in the industry, share your knowledge, and help others succeed.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post inviting agents to consider becoming sales trainers in real estate, highlighting training opportunities."
+}

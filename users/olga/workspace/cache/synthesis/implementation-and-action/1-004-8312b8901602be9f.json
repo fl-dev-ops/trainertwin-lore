@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Landlords pressuring agents to list properties at unrealistic prices is a common issue in the real estate industry.",
+      "qualification": "This claim is self-reported with potential industry-wide implications, highlighting negotiation challenges.",
+      "support_ids": [
+        "linkedin-posts-2024-10-15-how-to-do-a-price-md-28502a2243:c001:e001:63b4fc84"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using WhatsApp is recommended for generating seller leads in real estate.",
+      "qualification": "This recommendation is generic advice and does not detail specific strategies within WhatsApp.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e001:151ad5d3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Pocket listings are commonly shared during weekly training sessions.",
+      "qualification": "This is self-reported and may reflect practices specific to particular organizations.",
+      "support_ids": [
+        "linkedin-posts-2024-11-28-i-have-a-pocket-listings-md-ace554932a:c001:e002:093f7e4f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI tools are promoted for creating professional listing presentations mimicking listings on a portal.",
+      "qualification": "The AI tool is unverified, with no performance metrics or user feedback provided.",
+      "support_ids": [
+        "linkedin-posts-2024-12-06-try-this-free-ai-assistant-md-b48575a31b:c001:e001:f4e4a199",
+        "linkedin-posts-2024-12-06-try-this-free-ai-assistant-md-b48575a31b:c001:e002:6d880f2d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Aggressive objection handling in sales should be avoided. Instead, a mindset shift towards removing sales resistance is recommended.",
+      "qualification": "Advice may be broadly useful, but is not verified with specific outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6:c001:e003:55a62130"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Avoiding aggressive tactics in objection handling is recommended to reduce resistance.",
+      "qualification": "This advice aims to lower barriers but lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6:c001:e002:4fc614c1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Future vision clarity significantly impacts present decision-making processes.",
+      "qualification": "Correlation between vision and decision-making is asserted but not experimentally validated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb:c001:e004:f4f3aceb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Balancing honesty with highlighting the best features of an offering is emphasized as important in sales.",
+      "qualification": "This advice suggests a subjective balance between honesty and persuasion.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-is-this-unit-really-that-md-adbce7b6df:c001:e003:bbf62a46"
+      ]
+    }
+  ]
+}

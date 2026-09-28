@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-12-05-how-to-convince-the-client-md-4074c6a57c-edc69b23fdde28d4.jsonl",
+  "external_id": "7270417893459185665",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:36:19Z",
+  "metadata_hash": "dc0c3b792bdfd4953101f7349faa8932f9fd819d662f3d5620d1d3c5a814bdd8",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-12-05T12:45:03.633000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-12-05-how-to-convince-the-client.md",
+  "source_sha256": "a275f965c6dcccb849d07c080ce490ffa8586f3a8fed1bdcfe9123a5ae961501",
+  "source_url": "https://www.linkedin.com/posts/olgasi_want-to-convince-clients-to-buy-like-a-pro-activity-7270417893459185665-IXVN"
+}

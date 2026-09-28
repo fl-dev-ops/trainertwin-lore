@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "like are still looking for something. Have you um had a any success in your search for a property? I understand what is like your overall goal with this investment?",
+      "statement": "The AI asks detailed questions about the client's real estate goals and criteria.",
+      "topic": "client engagement",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "But yes, I am indeed an AI designed uh to assist you.",
+      "statement": "The AI confirms its identity as an AI designed to assist in conversations.",
+      "topic": "sales strategy",
+      "unit_id": "u000006"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Could any of your telesales or even a real estate agent have such a productive conversation asking the key questions",
+      "statement": "The AI embodies a belief that it can conduct productive conversations by asking key questions without fear.",
+      "topic": "sales performance",
+      "unit_id": "u000007"
+    }
+  ],
+  "overview": "Dialogue illustrating an AI's cold calling strategy in real estate."
+}

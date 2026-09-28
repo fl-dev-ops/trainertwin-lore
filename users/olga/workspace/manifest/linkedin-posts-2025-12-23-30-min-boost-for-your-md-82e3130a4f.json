@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-12-23-30-min-boost-for-your-md-82e3130a4f-f16ad81e4206b522.jsonl",
+  "external_id": "7409108276149108736",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:01:53Z",
+  "metadata_hash": "fccf73b5fc4c5606b8c350356c020584c30cff5c4fddc6a92782bb536b2b60e7",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-23T05:51:07.609000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-23-30-min-boost-for-your.md",
+  "source_sha256": "966167c87239337b7e6078c376226344d6714b6b3e7b8d62ede858aa907873cb",
+  "source_url": "https://www.linkedin.com/posts/olgasi_the-real-reason-clients-dont-trust-you-in-activity-7409108276149108736-UkHM"
+}

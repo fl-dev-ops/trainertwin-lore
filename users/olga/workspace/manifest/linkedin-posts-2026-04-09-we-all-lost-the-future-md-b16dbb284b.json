@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-04-09-we-all-lost-the-future-md-b16dbb284b-432beedc2e3dc552.jsonl",
+  "external_id": "7447989756757491712",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:07:24Z",
+  "metadata_hash": "88e8f5bc980f0f5e88e09702a4629df6118ad662b5199a4e7ad3b668794d5e53",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-04-09T12:52:14.969000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-04-09-we-all-lost-the-future.md",
+  "source_sha256": "1cb1d07ef9c2a1679a91d73c993377927f516f568b3c500600f6fd3ace1a649c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_we-all-lost-the-future-now-what-activity-7447989756757491712-ztVU"
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-09-05-my-linkedin-network-is-looking-md-5a7459e4c3-13fa8e147b922c57.jsonl",
+  "external_id": "7104704723059900417",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:15:20Z",
+  "metadata_hash": "766bb77687d0e2e027dd18ee9c6fab37da4cc3f706f1fd8aa192dcc81ea089ed",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-09-05T06:00:05.008000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-09-05-my-linkedin-network-is-looking.md",
+  "source_sha256": "b1302ecd291525aad506e3cc00db9675f748bf15aac3d96bd372d31f2392edc7",
+  "source_url": "https://www.linkedin.com/posts/olgasi_cityscapeglobalsaudi-recommendations-professionaldevelopment-activity-7104704723059900417-5Syu"
+}

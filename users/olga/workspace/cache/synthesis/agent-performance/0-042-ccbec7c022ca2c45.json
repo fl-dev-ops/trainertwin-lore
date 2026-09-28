@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Agents are more successful when they encourage clients to convince themselves instead of using direct persuasion.",
+      "qualification": "This approach is based on observations and is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-how-i-teach-agents-to-md-44406c0093:c001:e006:9204fd01",
+        "linkedin-posts-2026-01-19-why-i-never-tell-clients-md-febe7fd2df:c001:e002:aa3d41a1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding and addressing underlying client concerns is crucial to prevent losing deals.",
+      "qualification": "The evidence is a piece of advice and lacks independent confirmation.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-if-you-keep-hearing-i-md-6c3e7dce41:c001:e002:cebc9e1a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing money in training leads agents to also invest time and achieve better results.",
+      "qualification": "This statement is advice-based and self-reported, requiring verification.",
+      "support_ids": [
+        "linkedin-posts-2026-01-16-give-me-a-single-reason-md-6d8e754e0b:c001:e006:085600a7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is potential revenue from 'dead' leads in real estate agencies.",
+      "qualification": "The figures are potentially exaggerated and self-reported, indicating the need for skepticism.",
+      "support_ids": [
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e001:1c23a084",
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e002:79f3741e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Olgasi claims to have trained over 1,000 agents, suggesting extensive experience in the field.",
+      "qualification": "This is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2026-01-16-give-me-a-single-reason-md-6d8e754e0b:c001:e001:ac7d570a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Charging for an action workbook is expected to motivate agents to apply training effectively.",
+      "qualification": "This finding is based on an offering and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2026-01-16-give-me-a-single-reason-md-6d8e754e0b:c001:e007:276f69fc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client resistance increases when agents directly tell them what to think.",
+      "qualification": "This observation is reported by Olgasi without external validation.",
+      "support_ids": [
+        "linkedin-posts-2026-01-19-why-i-never-tell-clients-md-febe7fd2df:c001:e004:b6aeb5c2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agencies might be expending significant resources on acquiring new leads while underutilizing existing ones.",
+      "qualification": "The insight is based on a claim and lacks corroboration from other sources.",
+      "support_ids": [
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e002:79f3741e",
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e005:587b5056"
+      ]
+    }
+  ]
+}

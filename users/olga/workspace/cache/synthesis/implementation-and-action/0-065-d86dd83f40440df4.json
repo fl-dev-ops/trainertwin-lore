@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Traditional sales techniques taught to agents may no longer align with modern buyer preferences.",
+      "qualification": "This is self-reported and may not reflect the broader market without external verification.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c004:e004:e97d8f13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The fear of making a wrong decision is significantly heightened among clients, particularly compared to those in secondary markets.",
+      "qualification": "Self-reported observation with no quantitative data for comparison.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c005:e006:e10f5648"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales resistance is increased when salespeople appear needy and overly attached to results.",
+      "qualification": "Observed behavior; no outside validation provided.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e006:f22949c0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Empowering clients to reach their own conclusions rather than forcing information upon them is a recommended sales technique.",
+      "qualification": "Self-observed claim; effectiveness can vary based on client characteristics.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c009:e003:c31a8d3a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Salespeople who speak quickly and push through conversations tend to come across as aggressive.",
+      "qualification": "The observation lacks external validation and is subjective.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e002:9074e2d2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A consistent sales skill set is emphasized over relying on luck for closing deals.",
+      "qualification": "Advice based on the speaker's perspective without empirical validation.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c002:e001:b36ba340"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales process is considered the central framework around which sales scripts should be developed.",
+      "qualification": "Described as crucial but lacks evidence of universal applicability.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c005:e001:7bc9e0cf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Making real, actionable offers—such as with a check—facilitates closing distress deals effectively.",
+      "qualification": "Specific to the real estate context mentioned; applicability may vary in other sectors.",
+      "support_ids": [
+        "youtube-transcripts-102-yaml-de287101db:c002:e002:e0deb7fb"
+      ]
+    }
+  ]
+}

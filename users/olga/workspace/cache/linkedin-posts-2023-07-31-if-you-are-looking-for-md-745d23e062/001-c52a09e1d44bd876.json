@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "if you are looking for a magic pill for your business.",
+      "statement": "if you are looking for a magic pill for your business.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I'm talking mine from Natalie Daum.",
+      "statement": "I'm talking mine from Natalie Daum.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "An excerpt from a LinkedIn post expressing thoughts on business solutions."
+}

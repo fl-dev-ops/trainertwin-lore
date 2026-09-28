@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Team building in Dubai real estate can prioritize financial motivation over experience.",
+      "qualification": "This is self-reported and reflects one speaker's approach, not necessarily widespread practice.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s118-yaml-a8372f3450:c001:e001:736ce96c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating a home-like work environment can enhance team dynamics by fostering a pleasurable workspace.",
+      "qualification": "The statement is self-reported and subjective; it may not apply to all teams.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s182-yaml-17bdda5f96:c001:e002:96c7c61a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Avoidance of negative people can be beneficial for team cohesion and support.",
+      "qualification": "The sentiment is commonly advised but not universally practiced or measurable.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e002:8ffc4e19"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Military support and bases in UAE may influence team dynamics by providing security.",
+      "qualification": "This assertion is self-reported and predominantly concerns external factors, not direct team dynamics.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s98-yaml-c14a72892b:c001:e001:1b2d96c1"
+      ]
+    }
+  ]
+}

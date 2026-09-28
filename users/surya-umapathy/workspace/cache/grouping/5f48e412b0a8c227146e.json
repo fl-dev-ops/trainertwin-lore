@@ -1,0 +1,71 @@
+{
+  "groups": [
+    {
+      "name": "AI Development and Testing",
+      "topics": [
+        "ai-development-focus",
+        "llm-benchmarking",
+        "model-behavior-diversity",
+        "model-comparison",
+        "model-listening-skills",
+        "model-output-format",
+        "model-reliability",
+        "model-restraint",
+        "model-speed",
+        "model-technical-depth"
+      ]
+    },
+    {
+      "name": "Profile and Online Presence",
+      "topics": [
+        "company-profile",
+        "location",
+        "online_presence",
+        "profile_picture"
+      ]
+    },
+    {
+      "name": "Education",
+      "topics": [
+        "education",
+        "educational-program"
+      ]
+    },
+    {
+      "name": "Employment and Experience",
+      "topics": [
+        "employment",
+        "work-experience",
+        "work_experience",
+        "skills"
+      ]
+    },
+    {
+      "name": "Training and Simulation",
+      "topics": [
+        "interaction-study",
+        "learner-behavior-matrix",
+        "simulation-testing",
+        "trainer-modeling",
+        "trainer-response-variability",
+        "session-fidelity-checks",
+        "conversation-quality-score",
+        "depth-adaptation"
+      ]
+    },
+    {
+      "name": "Expert and Digital Models",
+      "topics": [
+        "digital-twin-model",
+        "expert-modeling"
+      ]
+    },
+    {
+      "name": "Social Media and Outreach",
+      "topics": [
+        "post",
+        "comments"
+      ]
+    }
+  ]
+}

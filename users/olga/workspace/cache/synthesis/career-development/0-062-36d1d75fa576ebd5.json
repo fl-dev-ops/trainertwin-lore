@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Employing a unique personal differentiation strategy is recommended for career advancement.",
+      "qualification": "This is based on advised perspectives and lacks empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2026-01-09-looking-for-a-new-ways-md-221fc7f2a3:c001:e003:1f16e03e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Promises made by agencies to handle campaigns may lead to disappointment and financial loss.",
+      "qualification": "The finding is based on observed behavior, and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2026-01-09-looking-for-a-new-ways-md-221fc7f2a3:c001:e005:a812606c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Relocation to a new city, such as Dubai, is feasible at any age, as witnessed by individuals over 45 starting fresh after relocation.",
+      "qualification": "This anecdote is not broad evidence of feasibility for everyone over 45.",
+      "support_ids": [
+        "linkedin-posts-2026-01-12-how-to-move-to-dubai-md-17a4a6d792:c001:e001:e8f5f173"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client discount requests can be managed by reframing the conversation to prioritize full-value offers.",
+      "qualification": "The approach is advisory and subjective, without statistically significant backing.",
+      "support_ids": [
+        "linkedin-posts-2026-01-12-if-your-clients-always-ask-md-c57c706f9f:c001:e001:a2d95115"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Listening is more crucial than speaking in sales situations to meet client needs.",
+      "qualification": "This is an observed behavior within sales contexts.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-how-i-teach-agents-to-md-44406c0093:c001:e002:0164a2d3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Trusting oneself more than external advisors leads to better client relationships.",
+      "qualification": "This is self-reported perspective without empirical verification.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-how-i-teach-agents-to-md-44406c0093:c001:e005:a246fdc7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client expressions like \"I need to think about it\" often precede disengagement.",
+      "qualification": "Observed behavior but lacks exploration of alternative reasons for client disengagement.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-if-you-keep-hearing-i-md-6c3e7dce41:c001:e001:7bb3c576"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Paid content is likely to be implemented, while free content may only be consumed.",
+      "qualification": "This belief has not been critically examined or verified through empirical studies.",
+      "support_ids": [
+        "linkedin-posts-2026-01-16-give-me-a-single-reason-md-6d8e754e0b:c001:e005:77ae6c46"
+      ]
+    }
+  ]
+}

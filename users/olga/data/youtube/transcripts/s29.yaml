@@ -1,0 +1,24 @@
+id: s29
+title: 'Day 3. #cameraconfidencewitholgasi'
+date: '2023-04-11'
+source: 'Day 3. #cameraconfidencewitholgasi'
+audio_file: 'Day 3. #cameraconfidencewitholgasi [jKDsOaEnmeg].mp3'
+duration: "00:00:43"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 2
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    And the task for the day too. Let us in your kitchen, let us in your plate, tell to your audience
+    what you eat, how you eat, and why you eat that. Always remember that your goal is not just showcase
+    yourself. What is it in this for them? What can you teach them? Or how you can, you know, open up
+    your personality, uh and um be creative.
+- t: "00:00:30"
+  speaker: '1'
+  text: >-
+    It can be in the restaurant, it can be in your house, you can share the recipe or you just can talk
+    about the food that you hate. Let us know you from your food.

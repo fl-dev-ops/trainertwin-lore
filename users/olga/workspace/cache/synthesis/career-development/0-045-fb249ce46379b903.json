@@ -1,0 +1,53 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Emphasizing hiring for potential rather than past performance is advised in recruitment for career development.",
+      "qualification": "This perspective is based on advice rather than empirical data.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e003:e64a2b11"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training should focus on character building along with performance for effective career development.",
+      "qualification": "This is an advised approach with lack of empirical backup.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e004:e6e605d0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Resilience, or grit, is considered more important than ego in developing top salespeople.",
+      "qualification": "This finding is self-reported and lacks empirical verification.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e005:34e7719e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Confidence is viewed as stemming from effort and daily improvements rather than outcomes in personal growth for career development.",
+      "qualification": "The evidence is based on hypothetical belief rather than substantiated data.",
+      "support_ids": [
+        "linkedin-posts-2025-04-18-if-your-current-reality-feels-md-c366d002b6:c001:e004:20f378fe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Scripts in sales act as navigation tools providing structure and confidence without suppressing personality.",
+      "qualification": "The insights are based on observed behavior and belief but are not empirically validated.",
+      "support_ids": [
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e002:38a05a63",
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e003:6e7d8f6f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Becoming a trustworthy and value-adding person is advised for improving career prospects.",
+      "qualification": "Advisory in nature, lacking empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-04-18-if-your-current-reality-feels-md-c366d002b6:c001:e002:0c83ff1e"
+      ]
+    }
+  ]
+}

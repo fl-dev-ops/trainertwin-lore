@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75-aac3d7121452adc5.jsonl",
+  "external_id": "7246503085198458882",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:33:20Z",
+  "metadata_hash": "1a678114543e85daf73ea86c40def07c3b613220bc02974086f409bed8bd4956",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-30T12:56:09.028000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-30-how-to-generate-leads-online.md",
+  "source_sha256": "0cbee91383c4473bcbd1c42a14c9930ce550b904c7ff6b24cb83b2e3615f4907",
+  "source_url": "https://www.linkedin.com/posts/olgasi_socialmediasuccess-realestatebranding-leadgeneration-activity-7246503085198458882-aUTL"
+}

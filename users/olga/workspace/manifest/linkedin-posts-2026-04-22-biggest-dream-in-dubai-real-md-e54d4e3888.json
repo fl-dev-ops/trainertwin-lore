@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888-a0c6d454a93b0c94.jsonl",
+  "external_id": "7452633485032435712",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:08:10Z",
+  "metadata_hash": "a71f999a1bbaf36984430fc550530682f5fbb159d65bc7578069add1af7226b3",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-04-22T08:24:46.066000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-04-22-biggest-dream-in-dubai-real.md",
+  "source_sha256": "c5fe19f00703de5b682d03b85ac37f2e1668f26c405a113e6419cf3e2da2c89c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_saudiarabia-saudirealestate-riyadhrealestate-activity-7452633485032435712-Uei2"
+}

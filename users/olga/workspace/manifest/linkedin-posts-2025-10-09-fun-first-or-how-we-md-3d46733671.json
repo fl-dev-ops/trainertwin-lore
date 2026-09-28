@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-10-09-fun-first-or-how-we-md-3d46733671-f92249a93fcb8bb5.jsonl",
+  "external_id": "7381908775105970176",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:49:21Z",
+  "metadata_hash": "746a876e4de4a1ee57e094a0b5fa4621990644dc6650cd7c2b7a4970854782d3",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-10-09T04:30:01.218000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-10-09-fun-first-or-how-we.md",
+  "source_sha256": "b4fa303599a4f9f4fe48b47e354247a35a00fc8b423360d3290c745f91a2e4a2",
+  "source_url": "https://www.linkedin.com/posts/olgasi_fun-first-or-how-we-train-our-agents-to-activity-7381908775105970176-GXN8"
+}

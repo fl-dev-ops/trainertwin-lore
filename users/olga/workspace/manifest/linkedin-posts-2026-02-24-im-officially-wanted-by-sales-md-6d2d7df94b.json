@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2026-02-24-im-officially-wanted-by-sales-md-6d2d7df94b-a872e686a4a710bd.jsonl",
+  "external_id": "7432051401368944640",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:04:41Z",
+  "metadata_hash": "1231ac7d4688767e8c191c61c76c8be6fc3706f51787c2e2a25e4fb93b89f5e8",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-02-24T13:18:54.924000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-02-24-im-officially-wanted-by-sales.md",
+  "source_sha256": "ffefe9ca07b79f89118b20e4788e075acf6a17a76f435a75d70f6a07da60a3ba",
+  "source_url": "https://www.linkedin.com/posts/olgasi_im-officially-wanted-by-sales-reps-activity-7432051401368944640-lbRz"
+}

@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking oneself the next step in the sales process is critical for effective sales management.",
+      "qualification": "This is based on self-reported advice and may not reflect practical implementation.",
+      "support_ids": [
+        "linkedin-posts-2024-04-30-not-what-to-say-but-md-532def10e7:c001:e004:1ff95ed1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Metro use is being reconsidered as an alternative to traffic issues in Business Bay.",
+      "qualification": "Self-reported and mentions specific location traffic, indicating local context.",
+      "support_ids": [
+        "linkedin-posts-2024-05-06-all-about-today-have-you-md-e6c7190998:c001:e002:e9b5d483",
+        "linkedin-posts-2024-05-06-all-about-today-have-you-md-e6c7190998:c001:e003:9e25f567"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Short-term sales strategies are believed not to generate substantial revenue.",
+      "qualification": "Expressed as a belief, limiting reliability without broader market evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-05-09-do-you-really-understand-your-md-90af976bf9:c001:e003:d93082cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients prefer sales approaches with less pressure during purchase decisions.",
+      "qualification": "Self-reported preference; lacks empirical testing or verification.",
+      "support_ids": [
+        "linkedin-posts-2024-05-13-how-to-convince-a-client-md-0ad750a282:c001:e002:7e3889a0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Providing solutions for client problems is part of effective sales strategy.",
+      "qualification": "Expressed belief that aligns with general sales philosophy; lacks specific examples.",
+      "support_ids": [
+        "linkedin-posts-2024-05-16-are-you-selling-or-are-md-6920c7849a:c001:e003:5f1c2e32"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communication strategies need to be non-pushy to enhance professional perception.",
+      "qualification": "Claim is self-reported without external validation or success metrics.",
+      "support_ids": [
+        "linkedin-posts-2024-05-23-olga-what-is-the-guarantee-md-b68fe9fbea:c001:e002:4c9c61b6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Conversations addressing client legacy and financial security are important in sales.",
+      "qualification": "Observation based on self-reported experiences, lacking broader market context.",
+      "support_ids": [
+        "linkedin-posts-2024-05-24-as-agents-we-have-the-md-76d7b4f56f:c001:e002:e4083505"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mastery of new skills is necessary for agents relying on quick commissions to remain in the field.",
+      "qualification": "Belief expressed; lacks empirical support or examples demonstrating skill transitions.",
+      "support_ids": [
+        "linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d:c001:e002:213fa457"
+      ]
+    }
+  ]
+}

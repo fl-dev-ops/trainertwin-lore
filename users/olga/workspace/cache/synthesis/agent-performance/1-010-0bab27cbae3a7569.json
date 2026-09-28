@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Ghosting by clients is linked to poor opening strategies in sales communications.",
+      "qualification": "The observation is self-reported and lacks statistical backing, limiting its reliability.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e010:827588f0"
+      ]
+    },
+    {
+      "counter_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e005:d793a399"
+      ],
+      "finding": "The perception of Dubai agents engaging in scam-like behavior is not universally agreed upon.",
+      "qualification": "Client-sourced anecdotes reflect varied opinions without broad verification.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e001:5eaf605a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The fear of cold calling is often attributed to concerns about appearing incompetent.",
+      "qualification": "This is a self-reported explanation and may not encompass all factors affecting reluctance in cold calling.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s125-yaml-08d5cdbb04:c001:e001:5f4e9014"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is skepticism about whether theoretical sales strategies accurately reflect real-world client decision-making processes.",
+      "qualification": "Self-reported skepticism indicates a potential gap between theory and practice, without empirical backing.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e004:ead07027"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients prefer to feel they are making their own decisions in sales interactions rather than being directly sold to.",
+      "qualification": "The belief suggests tension with direct sales tactics but lacks quantitative evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e003:d258d7ed"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Preparedness for unexpected client interactions is recommended for real estate agents.",
+      "qualification": "The recommendation is based on observed advice, lacking data on actual agent preparation practices.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s111-yaml-68058ff5ff:c001:e003:cadae53e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training on consistent income strategies in commission-only environments is seen as beneficial to agents.",
+      "qualification": "Advice appears based on coaching experience, but verified effectiveness or broader applicability is not provided.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s129-yaml-ca76bf00b1:c001:e002:b88c5657"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales agents are often advised against pressure strategies, emphasizing listening over speaking.",
+      "qualification": "Observed outcomes suggest this advice, but it lacks empirical evidence of its effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e006:21dbb3b2",
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e009:9736f6d4"
+      ]
+    }
+  ]
+}

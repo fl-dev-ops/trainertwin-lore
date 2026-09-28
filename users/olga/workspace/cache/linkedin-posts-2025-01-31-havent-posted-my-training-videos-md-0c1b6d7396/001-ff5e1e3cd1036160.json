@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I recorded an additional video with a STEP-by-STEP strategy and Dropped the Link in the Comments.",
+      "statement": "The author recorded an additional video with a STEP-by-STEP strategy.",
+      "topic": "content creation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Getting the Listings is one of the hottest topics based on my YouTube channel Poll.",
+      "statement": "Getting the Listings is one of the hottest topics based on my YouTube channel Poll.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This is a LinkedIn post by the author discussing training videos related to real estate listings and a new video release."
+}

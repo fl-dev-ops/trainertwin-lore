@@ -1,0 +1,55 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Engagement in social media can be fostered through direct calls to action asking followers to comment on their interests.",
+      "qualification": "Evidence includes observations of posts, but lacks independent verification of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e003:5735400d",
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e004:4273db3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Focus groups are utilized to gather feedback from agents in multiple countries for developing communication tools.",
+      "qualification": "Self-reported involvement in focus groups is unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-over-50-of-real-estate-md-57c0529eb0:c001:e004:b16abb39",
+        "linkedin-posts-2024-09-17-dont-take-my-word-for-md-e97711ee9c:c001:e004:0141f4d2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is skepticism regarding the use of AI tools in real estate due to perceived complexity and questionable efficacy.",
+      "qualification": "The statement reflects a survey response with potential bias and lacks detailed demographic information.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-over-50-of-real-estate-md-57c0529eb0:c001:e002:db9998a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client psychology and asking the right questions are advised as essential elements in online sales communication.",
+      "qualification": "The advice is hypothetical and self-reported without corroborating studies or data.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e003:a5f98428",
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e004:c32dab21"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Calls to comment based on shared experiences are used as a tactic to engage followers on social media platforms.",
+      "qualification": "Effectiveness is uncertain without verification or comparative analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e005:cb4a0109"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are encouraged to optimize their sales process and use technology to convert more leads into opportunities.",
+      "qualification": "This finding is based on hypothetical advice claimed in the evidence without empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e005:dafbc1dd"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 7,
+  "evidence_file": "linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570-fe35ca49ae27e75b.jsonl",
+  "external_id": "7317403749042339841",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:41:34Z",
+  "metadata_hash": "aaab868eef4191bcf17d4b31b19b943eccbfb1045b3e584c98b413539a8017b1",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-14T04:30:04.559000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-14-if-youve-ever-been-told.md",
+  "source_sha256": "fa9f17357a786d1da7e29f6b326a59d105db6a3b581036acba97c673fb3c1026",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestatesalestraining-realestatementoruae-activity-7317403749042339841-u8V5"
+}

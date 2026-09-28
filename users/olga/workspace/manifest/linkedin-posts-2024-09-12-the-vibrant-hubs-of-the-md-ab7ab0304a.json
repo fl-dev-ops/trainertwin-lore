@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-09-12-the-vibrant-hubs-of-the-md-ab7ab0304a-cfb39a2ea77bdcb8.jsonl",
+  "external_id": "7239959361580634112",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:31:56Z",
+  "metadata_hash": "64240f326c1de9a276e9ea94dd70c38569523e988ebd8ed1285af3a669cfc263",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-12T11:33:43.741000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-12-the-vibrant-hubs-of-the.md",
+  "source_sha256": "9c24778a3470552bb655c7c035441d51b5a58fa942474c119705dcee6272c936",
+  "source_url": "https://www.linkedin.com/posts/olgasi_globalrealestate-propertyinvestment-dubailiving-activity-7239959361580634112-hiM3"
+}

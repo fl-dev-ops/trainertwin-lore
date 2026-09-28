@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "the right tools, structure, and support behind you? We invite you to our upcoming Masterclass, where you’ll get: ✔ Full clarity on how modern lead generation actually works in 2025 ✔ Real insight into the systems we use to generate and convert leads ✔ A chance to see whether being part of a structured team with a 6-month training program led by me would be the right next step in your career",
+      "statement": "We invite you to our upcoming Masterclass, where you’ll get:",
+      "topic": "masterclass",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "No leads? No training? Here’s what we do differently at OBG 👇 We combine proven prospecting strategies with cutting-edge AI-powered lead generation tools — helping agents close faster, smarter, and with less guesswork.",
+      "statement": "We combine proven prospecting strategies with cutting-edge AI-powered lead generation tools.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Whether you’re new to real estate or already closing deals, the question is: 👉 Are you building your business with the right tools, structure, and support behind you?",
+      "statement": "Are you building your business with the right tools, structure, and support behind you?",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "We’re building a performance-driven culture — and you might be the next perfect fit.",
+      "statement": "We’re building a performance-driven culture.",
+      "topic": "culture",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post promoting a masterclass for real estate agents on lead generation and training."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2026-04-08-your-clients-will-respect-you-md-d47f25920d-5cec9aaefb5fc421.jsonl",
+  "external_id": "7447634165291950080",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:07:17Z",
+  "metadata_hash": "773dc3b65558eb49051dd0657e84214b451382e2003f2630eb6487ca3458b65a",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-04-08T13:19:15.357000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-04-08-your-clients-will-respect-you.md",
+  "source_sha256": "e33c5e2f19e4fa0a0a039d2e616a7eee4a47e1750917228b83ee52c9ca0467ab",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-dubairealestatecoach-dubaisalescoach-activity-7447634165291950080-i9j6"
+}

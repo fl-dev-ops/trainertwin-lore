@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2025-10-09-what-you-should-know-about-md-c59124cc4f-4ea40e5e7e7c2fcc.jsonl",
+  "external_id": "7382054440100323328",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:49:24Z",
+  "metadata_hash": "935116d9bbec1f7af6f7d77ca9cb70edc70e1b7574c7d1963bee72b5aa4b48f8",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-10-09T14:08:50.459000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-10-09-what-you-should-know-about.md",
+  "source_sha256": "43d6e90bf3d192e7d9bf6e605f6d8860908faaa00e68e13a103c365fa3a21b3f",
+  "source_url": "https://www.linkedin.com/posts/olgasi_ep-7-visa-secrets-what-every-newcomer-activity-7382054440100323328-rg3D"
+}

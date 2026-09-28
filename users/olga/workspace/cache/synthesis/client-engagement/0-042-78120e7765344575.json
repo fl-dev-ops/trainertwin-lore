@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Utilizing multiple phone numbers to reach aged leads is a recommended strategy to increase engagement.",
+      "qualification": "The effectiveness of using multiple phone numbers is not verified and may depend on the context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s60-yaml-f384833295:c001:e001:fbf7b927"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often prefer signing contracts before discussing payment specifics, indicating a trust or urgency factor in engagements.",
+      "qualification": "Self-reported; lacks independent verification or context on its prevalence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s61-yaml-5861981557:c001:e002:d842122d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an untapped potential among property owners not considering selling or moving, suggesting marketing opportunities.",
+      "qualification": "Self-reported claim; specific methods to tap into this potential are unclear.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s62-yaml-bc30d67c6d:c001:e002:d1e08a3d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Exploring emotional value beyond monetary gain can enhance engagement strategies with property owners.",
+      "qualification": "Advice is subjective and depends on individual property owner motivations.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s62-yaml-bc30d67c6d:c001:e005:9812a2d1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients are more responsive to their own reasons for buying rather than sales pitches, indicating the importance of personal relevance in client engagement.",
+      "qualification": "This relies on observed behavior and may not apply to all client interactions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s63-yaml-69a44cc369:c001:e002:6ea0d20e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building a personal network of investors is advised to foster repeat business and stability in engagements.",
+      "qualification": "Self-reported; specific methods for building this network are not detailed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s70-yaml-dab9a414c3:c001:e002:688e017a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement with clients can be enhanced by posing questions rather than making direct requests or offers.",
+      "qualification": "This strategy is based on advice and observed behavior, and its effectiveness may vary.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s71-yaml-477b95f71f:c001:e001:bc4fc7ea",
+        "youtube-shorts-run-transcripts-s71-yaml-477b95f71f:c001:e002:8b82a3d6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating urgency within the sales process is recommended as a method to enhance client engagement.",
+      "qualification": "Advised; no specifics on how to effectively create urgency are included.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s73-yaml-1596d25c04:c001:e001:a703aad9"
+      ]
+    }
+  ]
+}

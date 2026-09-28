@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I'm building my team and I do not care if you have experience in Dubai real estate or not.",
+      "statement": "I'm building my team and I do not care if you have experience in Dubai real estate or not.",
+      "topic": "team building",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I'm going to give you a mini training which definitely gives you a feeling how it is to be in real estate.",
+      "statement": "I'm going to give you a mini training which definitely gives you a feeling how it is to be in real estate.",
+      "topic": "training opportunity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I'm hosting an open day where I will go through some business game.",
+      "statement": "I'm hosting an open day where I will go through some business game.",
+      "topic": "open day",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "But even if not, you will walk away with insights, clarity and ton of value.",
+      "statement": "You will walk away with insights, clarity and ton of value.",
+      "topic": "insights and value",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If you feel like that something for you, DM team and I will send you the info.",
+      "statement": "If you feel like that something for you, DM team and I will send you the info.",
+      "topic": "engagement",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript from a YouTube short discussing a team-building opportunity in Dubai real estate"
+}

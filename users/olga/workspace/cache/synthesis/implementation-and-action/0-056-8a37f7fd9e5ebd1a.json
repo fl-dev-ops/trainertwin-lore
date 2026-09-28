@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A coaching client reportedly made $1.65 million in commission in 2025, exhibiting notable sales performance.",
+      "qualification": "This claim is self-reported and not independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s199-yaml-c7bc49e7d4:c001:e002:0d2a2ee7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective follow-up in sales should include providing meaningful content such as market reports instead of direct sales pitches.",
+      "qualification": "The advice is based on best practices but is not backed by empirical evidence in the source.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s200-yaml-483c6ff175:c001:e002:d16ca3c9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fear of making calls in sales is attributed to a desire to maintain a polished image due to ego and a lack of skills.",
+      "qualification": "This is a self-reported observation that may not apply universally to all sales agents.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s201-yaml-0976b45039:c001:e001:ff918fd2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some individuals perceive real estate as an easy career to enter based merely on an interest in properties, which can be a mistake for beginners.",
+      "qualification": "The claim reflects a common misconception without providing statistical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s204-yaml-b28acaab98:c001:e001:7c615434"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A lack of commitment on payment timelines can push professionals to leave established companies and start independent ventures.",
+      "qualification": "The scenarios described are based on observations rather than quantitative data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s208-yaml-195371b24a:c001:e002:db157aca",
+        "youtube-shorts-run-transcripts-s208-yaml-195371b24a:c001:e003:56397c01"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In challenging financial situations, selling the current investment might be considered the best exit strategy.",
+      "qualification": "This advice is context-dependent and may not be applicable in all situations or investment types.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s209-yaml-b3361ad755:c001:e002:fdaf1d7a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Viewing one's role within a company as a 'mini business' can drive personal motivation and autonomy in sales performance.",
+      "qualification": "This perspective is self-reported and reflects individual mindset rather than an organizational strategy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s21-yaml-1073d891b4:c001:e001:b02edb0c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Diversifying investments into Dubai real estate is advised for greater peace of mind.",
+      "qualification": "The suggestion is a strategic opinion and lacks broad market analysis or evidence supporting the outcome.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s20-yaml-ad44491ce6:c001:e002:51f41b47"
+      ]
+    }
+  ]
+}

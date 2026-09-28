@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "An 80/15/5 model is suggested for career development focusing on mindset dominance over skills.",
+      "qualification": "This perspective is self-reported and lacks empirical support, relying on anecdotal evidence from individual experiences.",
+      "support_ids": [
+        "linkedin-posts-2025-11-04-80-mindset-15-action-5-md-503e084c61:c001:e001:0e32bdd6",
+        "linkedin-posts-2025-11-04-80-mindset-15-action-5-md-503e084c61:c001:e004:185c2e82"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents are encouraged to take immediate responsibility for their career progression by independently building pipelines.",
+      "qualification": "Recommendations are based on personal advice and observations provided in self-reported statements.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-what-i-wish-someone-had-md-288164096b:c001:e005:b9b5cbf7",
+        "linkedin-posts-2025-11-05-new-agents-ask-me-where-md-0ad37c47ab:c001:e001:0455cee0",
+        "linkedin-posts-2025-11-05-new-agents-ask-me-where-md-0ad37c47ab:c001:e005:d35510fa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate training through YouTube is perceived to be beneficial for personal growth, yet empirical support is absent.",
+      "qualification": "Evidence consists of self-reported outcomes without verification from external sources.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-great-job-jairo-first-deal-md-dba1d1d3c8:c001:e001:ee189d85",
+        "linkedin-posts-2025-11-07-so-proud-of-your-growth-md-ffc017a9ae:c001:e001:5dbce8ef"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Developing a leadership mindset is emphasized over holding formal management positions for career advancement.",
+      "qualification": "The notion represents subjective observations lacking empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2025-11-06-i-just-wrote-this-commenting-md-bf48780919:c001:e005:1febb457"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A detailed daily task roadmap, including specific activities like cold calling, is recommended for new agents.",
+      "qualification": "The advice is based on individual experience and does not include broader evidence or studies.",
+      "support_ids": [
+        "linkedin-posts-2025-11-05-new-agents-ask-me-where-md-0ad37c47ab:c001:e001:0455cee0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Feedback is considered essential for career success but lacks empirical evidence beyond personal experiences.",
+      "qualification": "Repeated individual claims are self-reported without further validation or external verification.",
+      "support_ids": []
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal responsibility across health, skills, and motivation is seen as critical for professional growth.",
+      "qualification": "The advice is self-reported and lacks empirical support or broader community validation.",
+      "support_ids": [
+        "linkedin-posts-2025-11-06-i-just-wrote-this-commenting-md-bf48780919:c001:e004:8cfbaa17"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Planning for career advancement is highlighted, with individuals encouraged to express intentions publicly.",
+      "qualification": "This finding is based on individual posts and lacks corroborative evidence to support its effectiveness in career development.",
+      "support_ids": [
+        "linkedin-posts-2025-10-30-the-promotion-secret-nobody-tells-md-d19e365f2e:c001:e006:b4a20fa2"
+      ]
+    }
+  ]
+}

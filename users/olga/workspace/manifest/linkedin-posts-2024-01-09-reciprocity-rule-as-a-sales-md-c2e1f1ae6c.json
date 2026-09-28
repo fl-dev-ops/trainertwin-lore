@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-01-09-reciprocity-rule-as-a-sales-md-c2e1f1ae6c-7dae7e750262ac0e.jsonl",
+  "external_id": "7150331604018667520",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:20:47Z",
+  "metadata_hash": "072559936574946b3c9e6581fc4c2b0c83e3c7f9de99a3f11e0d13b064fa7368",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-01-09T03:45:01.135000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-01-09-reciprocity-rule-as-a-sales.md",
+  "source_sha256": "7dcc69d4bb4370796612661e1df84139195fce3e800f80f6f465dd4cade88432",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salesskills-realestatesales-listingagent-activity-7150331604018667520-_OGR"
+}

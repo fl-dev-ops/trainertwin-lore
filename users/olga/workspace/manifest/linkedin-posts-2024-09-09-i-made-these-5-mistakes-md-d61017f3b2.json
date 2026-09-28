@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2-3877cf4a74b2d7d3.jsonl",
+  "external_id": "7238852126519525376",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:31:19Z",
+  "metadata_hash": "129e535e7c55e2c8931b69493839bba4e10fd57312cb62d6d31033ed96cd945a",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-09T10:13:58.331000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-09-i-made-these-5-mistakes.md",
+  "source_sha256": "9f2fc094c5bb78f9b8332b0c574ca3f94e5a013cc8e20573eaebc90a48af3034",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestate-dubairealestate-realestatetips-activity-7238852126519525376-9yYs"
+}

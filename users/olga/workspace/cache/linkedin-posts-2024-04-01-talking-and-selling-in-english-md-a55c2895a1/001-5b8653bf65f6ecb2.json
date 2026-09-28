@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "If you could hear my English when I started my real estate career in Dubai...",
+      "statement": "The author reflects on their journey in improving English for sales.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "How much more could you earn if your English were on a different level?",
+      "statement": "Improving one's English can significantly impact earning potential in sales.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing the distinction between speaking and selling in English, with personal reflection on improving language skills for better earning potential."
+}

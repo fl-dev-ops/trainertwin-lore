@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-12-09-not-about-rera-and-not-md-06872a630a-ce688f6b1064be8f.jsonl",
+  "external_id": "7404145920008871937",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:00:39Z",
+  "metadata_hash": "dc4a7288bb413d7313a0abca6bd3fb50403f6ef92224c767d92e8fc513df53da",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-09T13:12:29.709000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-09-not-about-rera-and-not.md",
+  "source_sha256": "47df224a50fc8594896c2311fca63b7772ea8ebc13f7ef3b117db67f038d9287",
+  "source_url": "https://www.linkedin.com/posts/olgasi_the-broker-survival-guide-episode-2-activity-7404145920008871937-t4Fi"
+}

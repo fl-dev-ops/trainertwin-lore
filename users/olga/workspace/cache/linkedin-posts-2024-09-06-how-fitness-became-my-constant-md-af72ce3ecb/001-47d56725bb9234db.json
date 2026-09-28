@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "a journey for me, not a destination.",
+      "statement": "Fitness has always been a journey for me, not a destination.",
+      "topic": "persistence in sales",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "anything is possible—even if you’re starting at 36.",
+      "statement": "I’d tell her one thing: anything is possible—even if you’re starting at 36.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "as I focused on my business this past year,",
+      "statement": "I focused on my business this past year, it rolled away a bit.",
+      "topic": "life reflection",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "this new chapter on my Instagram.",
+      "statement": "I’ll be sharing more about this new chapter on my Instagram.",
+      "topic": "social media engagement",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post about personal fitness journey and its impact on life and work."
+}

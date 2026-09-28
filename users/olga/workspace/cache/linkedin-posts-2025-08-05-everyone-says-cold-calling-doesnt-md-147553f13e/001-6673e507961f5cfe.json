@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Everyone says cold calling doesn't work in Dubai.",
+      "statement": "Cold calling is said not to work in Dubai.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "But if you need listings — and your Instagram funnels, manifestos, and networking coffees aren’t getting them… Then it’s time to try what actually works.",
+      "statement": "If Instagram funnels and networking aren't effective, one should try cold calling.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "In this video, I break down the cold calling script that’s working right now to get agents new listings.",
+      "statement": "A video explains a cold calling script that helps agents get new listings.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "You’ll hear how to say it, what tone to use — and why it works.",
+      "statement": "The post emphasizes the importance of tone and delivery in cold calling.",
+      "topic": "tone in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "And Share is with your Team if you want more inventory.",
+      "statement": "The post encourages sharing the video with teams for better inventory.",
+      "topic": "team collaboration",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing the effectiveness of cold calling in Dubai."
+}

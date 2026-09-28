@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-07-22-new-stage-of-a-business-md-57c67b61f0-3768212d984dfe7e.jsonl",
+  "external_id": "7088396337750142976",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:13:21Z",
+  "metadata_hash": "ee8c716e1314c1b124856f7fa993d1547e90e697822dfa905b06ec35734dac26",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-22T05:56:22.955000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-22-new-stage-of-a-business.md",
+  "source_sha256": "dc61fc1d40ba94676ac3fc1732983248ba182cb1cfacbcc1e4b73465ea0408c8",
+  "source_url": "https://www.linkedin.com/posts/olgasi_%D1%80%D0%B5%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-%D0%B4%D1%83%D0%B1%D0%B0%D0%B9-%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE-%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F-%D1%80%D0%B0%D0%B4%D1%8B-activity-7088396337750142976-znrP"
+}

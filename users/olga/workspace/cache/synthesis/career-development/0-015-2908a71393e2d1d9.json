@@ -1,0 +1,74 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Understanding client needs is crucial for sales effectiveness.",
+      "qualification": "These are beliefs and observations without empirical backup, based on self-reported and advised opinions.",
+      "support_ids": [
+        "linkedin-posts-2023-11-22-do-you-know-your-clients-md-27341701aa:c001:e001:1189ac02",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e001:e921cc44",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e003:9affa0e2",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e002:d04c0e89"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Failure and rejection are significant psychological barriers in career development.",
+      "qualification": "This finding depends on individual experiences and subjective feelings.",
+      "support_ids": [
+        "linkedin-posts-2023-11-16-my-personal-failure-experience-or-md-cc7c84ce04:c001:e001:0d8dc141"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Empathetic communication is vital for developing client relationships.",
+      "qualification": "The judgment is based on self-reported beliefs without objective measures.",
+      "support_ids": [
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e001:e921cc44",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e003:9affa0e2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking open-ended questions helps discover client motivations.",
+      "qualification": "Practical advice given without data-backed validation.",
+      "support_ids": [
+        "linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6:c001:e001:df0341f0",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e002:d04c0e89"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-directed learning tools are highly recommended for career growth.",
+      "qualification": "Recommendation is based on subjective judgment without evidence of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-12-05-thank-you-mario-volpi-this-md-50db8b5aa6:c001:e001:24467f47"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales success often depends on making clients articulate their own issues and solutions.",
+      "qualification": "The finding is based on beliefs about psychological behavior, not empirical research.",
+      "support_ids": [
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e002:d04c0e89",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e003:635b5b3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective question techniques can enhance sales interactions.",
+      "qualification": "This advice is practical but based on anecdotal evidence rather than a controlled study.",
+      "support_ids": [
+        "linkedin-posts-2023-12-05-weekly-magic-from-a-sales-md-50ba29defd:c001:e001:2c3e2576"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client self-beliefs greatly influence their decision-making.",
+      "qualification": "Dependence on psychological understanding which is speculative and self-reported.",
+      "support_ids": [
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e005:eb411d07"
+      ]
+    }
+  ]
+}

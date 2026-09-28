@@ -1,0 +1,73 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Exercise for spontaneous thinking requires randomly choosing words from a book within 60 seconds to create a character with a name, age, appearance, personality, and backstory.",
+      "qualification": "This method is self-reported advice and lacks empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e001:1cb86824",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e002:688d57ad",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e003:fe017e74",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e004:64b8e9f5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A positive mindset shift is considered necessary for overcoming sales resistance and improving personal effectiveness.",
+      "qualification": "Assertions are self-reported beliefs without external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-07-26-the-unfiltered-truth-md-0407433d5b:c001:e003:a484f35a",
+        "linkedin-posts-2023-07-31-if-you-are-looking-for-md-745d23e062:c001:e001:0d30e1a7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Despite cross-cultural differences, the claim suggests all individuals make decisions in the same way.",
+      "qualification": "This claim is unverified and lacks external empirical data to support it.",
+      "support_ids": [
+        "linkedin-posts-2023-08-09-if-you-are-still-convincing-md-a2a3db36d2:c001:e002:fcf0cae6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Wearing yellow glasses is linked to experimenting with personal effectiveness and realism.",
+      "qualification": "Observation self-reported without detailed explanation of impact.",
+      "support_ids": [
+        "linkedin-posts-2023-07-18-this-week-i-will-be-md-1f6b4df35f:c001:e002:54e6c38c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A shift from seeking business to curiosity about different businesses is seen as a mindset shift during Saudi experiences.",
+      "qualification": "The account is self-reported and lacks external corroboration.",
+      "support_ids": [
+        "linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1:c001:e003:1d554088"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Expressions of gratitude towards mentors and appreciation for experiences are highlighted in personal narratives.",
+      "qualification": "The evidence is self-reported and anecdotal.",
+      "support_ids": [
+        "linkedin-posts-2023-08-23-before-and-after-honestly-i-md-804094dbfb:c001:e003:ecc4b379",
+        "linkedin-posts-2023-09-13-my-first-trip-to-saudi-md-405dbaed49:c001:e001:c23effe9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Nervousness during a mentor's podcast is associated with recognizing weak sales trainers and personal effectiveness.",
+      "qualification": "Reported experience is personal and subjective.",
+      "support_ids": [
+        "linkedin-posts-2023-08-03-how-to-spot-a-weak-md-5c0636bcb7:c001:e001:eb3c7d3c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reluctance to discuss certain topics is tied to facing emotional truths.",
+      "qualification": "Self-reported stance without empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-09-13-im-not-happy-to-discuss-md-fa8959df16:c001:e001:0755becf"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2025-11-03-what-i-wish-someone-had-md-288164096b-ad4214a6600ac805.jsonl",
+  "external_id": "7390979616947195904",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:50:57Z",
+  "metadata_hash": "8100243f9d7c052bd29484570962b68c3d35849ef8e5451b30b7eb278afe6380",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-03T05:14:18.441000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-03-what-i-wish-someone-had.md",
+  "source_sha256": "deb79c9ab8c8788aa9e9aadcd03eab367da978aa52b7d48b6f5ceef14c9d7f41",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-realestatetraining-newagenttips-activity-7390979616947195904-Re-t"
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Salespeople believe understanding client perspectives enhances relationships, but clients often trust their own words more than salespeople's suggestions.",
+      "qualification": "These insights are self-reported beliefs and may not be directly verified.",
+      "support_ids": [
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e003:9affa0e2",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e005:eb411d07"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Today's consumers are wiser, more informed, and less trusting of salespeople, indicating a shift in consumer mindset.",
+      "qualification": "This observation is noted by an individual and may not reflect broader trends without further data.",
+      "support_ids": [
+        "linkedin-posts-2023-10-12-as-usual-im-starting-here-md-ac8eec80eb:c001:e001:90467cfe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The era of less trust in clients has led sales processes to adapt through dialogue-style sales scripts.",
+      "qualification": "Self-reported experience may not be applicable to all sales contexts.",
+      "support_ids": [
+        "linkedin-posts-2023-10-19-im-now-developing-a-new-md-a0310174eb:c001:e004:bb0af636"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rejections in sales processes may arise from incorrect approaches.",
+      "qualification": "The assertion is hypothetical and suggests reconsideration of methods rather than presenting empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-01-17-i-know-you-hate-it-md-779f3c1f0c:c001:e001:f181ee6f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adjustments in mission statements reflect changes in market approach and personal effectiveness.",
+      "qualification": "It reflects individual self-reported changes which may not encompass industry-wide practice.",
+      "support_ids": [
+        "linkedin-posts-2023-11-03-well-you-may-think-its-md-57493a6e05:c001:e001:d316a403",
+        "linkedin-posts-2023-12-21-i-dont-consider-myself-very-md-69e56135c1:c001:e001:6ed936c7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Failures and rejections are frequent challenges reported by sales professionals.",
+      "qualification": "This is a self-reported personal perspective and may vary widely among professionals.",
+      "support_ids": [
+        "linkedin-posts-2023-11-16-my-personal-failure-experience-or-md-cc7c84ce04:c001:e001:0d8dc141"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communication methods in sales are reportedly changing, impacting long-term sales strategies.",
+      "qualification": "Specific outcomes of these changes are not detailed, making impacts uncertain.",
+      "support_ids": [
+        "linkedin-posts-2023-10-31-it-just-doesnt-work-anymore-md-ccd696d3ce:c001:e005:fbf99a15"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Support in personal development is valued as part of sales training, with focus on personal growth and development.",
+      "qualification": "This is based on self-reported belief without detailed outcomes or broad evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-02-15-how-to-be-successful-in-md-e8b446c5d1:c001:e002:70001ecb"
+      ]
+    }
+  ]
+}

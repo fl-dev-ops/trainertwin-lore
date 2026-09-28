@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I started investing in Bitcoin when the Bitcoin prices were sixty-nine.",
+      "statement": "I started investing in Bitcoin when the Bitcoin prices were sixty-nine.",
+      "topic": "investment opportunity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "diversification into Dubai real estate going to give you a bit of more peace of mind.",
+      "statement": "Diversifying into Dubai real estate can provide more peace of mind.",
+      "topic": "diversification",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I believe you definitely make a lot of money if you hoddle.",
+      "statement": "I believe you definitely make a lot of money if you hoddle.",
+      "topic": "personal growth",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript of a discussion regarding investment strategies in Bitcoin versus Dubai real estate."
+}

@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Clients should be viewed as individuals with unique needs rather than merely as sources of income.",
+      "qualification": "Self-reported opinion from a LinkedIn post.",
+      "support_ids": [
+        "linkedin-posts-2024-06-25-fresh-air-needed-clients-are-md-6a287be5d5:c001:e001:6dbc5a50"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a perceived shift in the real estate industry where clients are viewed primarily as tools for profit.",
+      "qualification": "Self-reported statement from a LinkedIn post.",
+      "support_ids": [
+        "linkedin-posts-2024-07-04-no-one-talks-about-it-openly-md-c7811ea77c:c001:e001:8c55da49"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Unrealistic promises regarding investment returns to clients are prevalent in the real estate sector.",
+      "qualification": "Self-reported observation lacking independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-07-04-no-one-talks-about-it-openly-md-c7811ea77c:c001:e002:ff6143ce"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building a sustainable client relationship requires focusing on long-term nurturing rather than immediate transactions.",
+      "qualification": "Advice provided in a LinkedIn post.",
+      "support_ids": [
+        "linkedin-posts-2024-07-17-how-to-actually-create-a-md-84a1707b72:c001:e001:35b94ff8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement strategies that include personal connection and humor can enhance client relationships.",
+      "qualification": "Observed from a social media post.",
+      "support_ids": [
+        "linkedin-posts-2024-06-25-fresh-air-needed-clients-are-md-6a287be5d5:c001:e005:7d37ad3e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective client engagement hinges on understanding clients well and addressing their specific needs.",
+      "qualification": "Proposed in a LinkedIn post.",
+      "support_ids": [
+        "linkedin-posts-2024-07-15-how-well-do-you-know-md-8c2964ba80:c001:e001:bd155820"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The global growth of social media is seen as a significant factor in disseminating information about real estate opportunities.",
+      "qualification": "Observation from a LinkedIn post.",
+      "support_ids": [
+        "linkedin-posts-2024-08-07-more-than-just-price-appreciation-md-6a4e2a527e:c001:e004:d5ff0135"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Attention to client issues is essential for creating meaningful change in the client-service dynamic of the real estate industry.",
+      "qualification": "Advice present in a self-reported LinkedIn post.",
+      "support_ids": [
+        "linkedin-posts-2024-07-04-no-one-talks-about-it-openly-md-c7811ea77c:c001:e004:4b95e7bd"
+      ]
+    }
+  ]
+}

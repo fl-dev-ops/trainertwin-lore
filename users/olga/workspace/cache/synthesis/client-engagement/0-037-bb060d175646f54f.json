@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Building relationships is crucial in real estate sales, especially initially, as it helps in understanding client needs and establishing trust.",
+      "qualification": "This advice is presented in a hypothetical context, so it may not reflect the actual experience of all real estate professionals.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s167-yaml-c297e423eb:c001:e003:56f93170"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement can be enhanced by asking meaningful questions, which can transform cold leads into substantive conversations.",
+      "qualification": "Both pieces of advice are presented without empirical validation and might reflect personal techniques rather than universally effective strategies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s168-yaml-8e1275b229:c001:e001:0f9a7077",
+        "youtube-shorts-run-transcripts-s173-yaml-2d96a5b7fe:c001:e001:04702568"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often lack confidence in assessing real estate investment opportunities, which can impact their decision-making process.",
+      "qualification": "This finding is self-reported and reflects one person's belief rather than measured client feelings.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s168-yaml-8e1275b229:c001:e003:84b5b2f1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering to share professional market data with clients can significantly improve their understanding and decision-making.",
+      "qualification": "The effectiveness of data sharing is advised without evidence of success or outcome.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s168-yaml-8e1275b229:c001:e004:11f0219e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The real estate market experiences cultural diversity challenges, as illustrated by the difference in client nationalities between the UK and Dubai.",
+      "qualification": "These observations are anecdotal and specific to the speaker's personal experience moving to Dubai.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e003:73266a74",
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e004:6456513a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients may prefer cheaper options due to perceived value, yet will spend more where they see clear value justification, such as with luxury items.",
+      "qualification": "The insight is self-reported based on one individual's observation, lacking broader market analysis.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s172-yaml-6ca6c71e8f:c001:e001:00c0cbae",
+        "youtube-shorts-run-transcripts-s172-yaml-6ca6c71e8f:c001:e004:b934f81e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There can be a perception of value created by structuring client interactions, such as the dental appointment strategy, which might influence engagement.",
+      "qualification": "This strategy has not been empirically tested for its effectiveness in increasing client respect.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s174-yaml-3070932203:c001:e001:0032d461"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Partnerships with larger entities are crucial for smaller developers in Dubai to succeed, indicating the importance of strategic alliances in client engagement.",
+      "qualification": "The observations do not specify the success rate of these partnerships or provide quantitative evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s177-yaml-7fbcc4a1d5:c001:e004:49ec8e3f",
+        "youtube-shorts-run-transcripts-s177-yaml-7fbcc4a1d5:c001:e005:1a7f6f4a"
+      ]
+    }
+  ]
+}

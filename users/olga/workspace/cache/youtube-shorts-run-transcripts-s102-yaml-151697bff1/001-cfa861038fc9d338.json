@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Dubai property prices dropped almost fifty percent in less than a year. I'm talking about two thousand eight.",
+      "statement": "Dubai property prices dropped almost fifty percent in less than a year in 2008.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "In two thousand eight, the market was built on credit. Buyers were getting up to ninety percent finance.",
+      "statement": "In 2008, the market was built on credit, allowing buyers to obtain up to ninety percent finance.",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Today, most purchases are cash. Mortgage lending is restricted and offline is regulated.",
+      "statement": "Today, most purchases in Dubai are cash due to restricted mortgage lending.",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "the risk is not identical, but that doesn't mean that there is no risk.",
+      "statement": "The speaker believes that while risks are not identical today compared to 2008, there are still risks in the market.",
+      "topic": "real estate potential",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "offering",
+      "quote": "In the full video, I explain what could actually pressure Dubai property prices in this cycle.",
+      "statement": "The speaker offers to explain what could pressure Dubai property prices in the current cycle in a full video.",
+      "topic": "real estate potential",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "YouTube short discussing risks in the Dubai real estate market comparing past and present conditions."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-07-20-rejection-is-a-myth-consider-md-c6d7a21b56-6093aeca74d3740c.jsonl",
+  "external_id": "7087804776008089601",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:18:57Z",
+  "metadata_hash": "9dad8c86ed042808954ef0cacb02e5501e76d296fe4e681cb406062fef68318d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-20T14:45:43.645000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-20-rejection-is-a-myth-consider.md",
+  "source_sha256": "6c1613abc4910f7e72c245e90077e1d934d983f8ffaa3853e8b0c5dd29a95458",
+  "source_url": "https://www.linkedin.com/posts/olgasi_personalgrowth-successtips-careerdevelopment-activity-7087804776008089601-Euz1"
+}

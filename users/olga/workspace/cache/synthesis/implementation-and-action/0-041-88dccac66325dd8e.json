@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Clients often resist being told what to think, but engage more when asked questions.",
+      "qualification": "This finding is based on observed behavior and may not apply universally to all clients.",
+      "support_ids": [
+        "linkedin-posts-2026-01-19-why-i-never-tell-clients-md-febe7fd2df:c001:e004:b6aeb5c2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dead leads can be valuable, as agencies may be sitting on missed opportunities worth millions.",
+      "qualification": "This is self-reported and hypothetical, requiring validation for broader applicability.",
+      "support_ids": [
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e001:1c23a084",
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e002:79f3741e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Implementing a structured follow-up calendar for rejected clients can improve engagement.",
+      "qualification": "The impact may vary based on the efficacy of the follow-up strategy.",
+      "support_ids": [
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e003:71d0bd2e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Systematic nurturing of dead leads over time can result in closed deals.",
+      "qualification": "Nurturing efforts must be consistent and targeted for effective results.",
+      "support_ids": [
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e004:da443d2a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Bad leads are often blamed when clients disappear after initial meetings.",
+      "qualification": "This is self-reported and may be subjective, not accounting for other factors causing client disengagement.",
+      "support_ids": [
+        "linkedin-posts-2026-02-14-clients-are-ghosting-you-after-md-47044fc1cd:c001:e002:a8884a50"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-reflection on mistakes can help agents improve their client interactions.",
+      "qualification": "The efficacy of self-reflection as a strategy is hypothetical and varies among agents.",
+      "support_ids": [
+        "linkedin-posts-2026-02-14-clients-are-ghosting-you-after-md-47044fc1cd:c001:e004:96c7d91f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales can falter in the follow-up stages or when agents aren't controlling presentations.",
+      "qualification": "This is an observed claim requiring more systematic study to confirm its prevalence.",
+      "support_ids": [
+        "linkedin-posts-2026-02-21-if-youre-a-dubai-real-md-5297fc9fc3:c001:e002:9504770c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client buying potential is crucial for improving sales outcomes.",
+      "qualification": "Strategies for assessing client potential are not detailed in the evidence, limiting specificity.",
+      "support_ids": [
+        "linkedin-posts-2026-02-18-how-to-understand-if-this-md-e5185def2b:c001:e001:a592e366"
+      ]
+    }
+  ]
+}

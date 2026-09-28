@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "really, I work in this area and this is one of my favorite type of units. Is there any specific reason you're even trying to sell it?",
+      "statement": "Ask questions that encourage openness.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "You decrease the risk for him to be open, right?",
+      "statement": "Decreasing risk encourages client openness.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "YouTube short about client engagement and effective sales questioning strategies."
+}

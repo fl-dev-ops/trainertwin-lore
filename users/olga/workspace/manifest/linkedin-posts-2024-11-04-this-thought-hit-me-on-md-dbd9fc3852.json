@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-11-04-this-thought-hit-me-on-md-dbd9fc3852-92f1f1e3479692f9.jsonl",
+  "external_id": "7259051757010382848",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:34:45Z",
+  "metadata_hash": "d0c961a1520037097fd878cca035e10f4cf9600553006428b924ba86cde0d607",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-11-04T04:00:05.531000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-11-04-this-thought-hit-me-on.md",
+  "source_sha256": "97a3dd159a16240aa363d881c1c0e16c1413be37dde5babd2957ff140a696d23",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestateagents-salestrainingdubai-salescoaching-activity-7259051757010382848-uSUJ"
+}

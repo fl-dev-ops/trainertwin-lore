@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Being a good listener and providing real value fosters client trust and engagement.",
+      "qualification": "Self-reported belief, potentially lacking broader empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a:c001:e002:1d5304fb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Focusing on building trust over controlling outcomes is advantageous for long-term client relationships.",
+      "qualification": "Self-reported advice; requires further validation through client success stories.",
+      "support_ids": [
+        "linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a:c001:e005:b3d276c7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Optimizing sales processes can lead to significant improvements in lead conversion rates.",
+      "qualification": "This claim is based on a case study; evidence is anecdotal and unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e005:dafbc1dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients have identified a mismatch between promotional content and actual experiences, affecting their perception of service quality.",
+      "qualification": "Self-reported client experience; may not represent the broader clientele.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-client-testimonial-how-we-transformed-md-bdc949095b:c001:e001:f83be516"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding clients' psychology and emotions is crucial for effective online selling in real estate.",
+      "qualification": "Advice drawn from personal experience; not a statistically verified observation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e003:a5f98428"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking the right questions can lead to more honest and meaningful client interactions.",
+      "qualification": "Self-reported guidance; not empirically supported by research.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e004:c32dab21"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents may struggle with asking appropriate questions and recognizing cultural differences, impacting their sales effectiveness.",
+      "qualification": "Broad observation from personal mistakes; lacks supporting evidence from broader studies.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e002:853498e5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client perceptions of Dubai being a 'bubble' suggests a potential barrier to selling, creating hesitance in engagement.",
+      "qualification": "Observation based on client sentiments; requires further context to determine impact on sales.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-bet-you-have-never-md-cac17b3f9e:c001:e001:1c953ea7"
+      ]
+    }
+  ]
+}

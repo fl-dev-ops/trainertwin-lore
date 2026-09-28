@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-08-19-throw-stones-at-me-right-md-c0c30c6746-f1c9690dd1b6e2c6.jsonl",
+  "external_id": "7363490667588734976",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:46:19Z",
+  "metadata_hash": "54d6bff383e579493641f38326ce1d4fd3fe5e0278022af47279c5c2814320fb",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-08-19T08:43:02.194000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-08-19-throw-stones-at-me-right.md",
+  "source_sha256": "8571be2e6555a0bb4ebbe668405820b84d51628692b1c8b6adce884abd2b41bb",
+  "source_url": "https://www.linkedin.com/posts/olgasi_coldcalling-realestate-dubairealestate-activity-7363490667588734976-CVOg"
+}

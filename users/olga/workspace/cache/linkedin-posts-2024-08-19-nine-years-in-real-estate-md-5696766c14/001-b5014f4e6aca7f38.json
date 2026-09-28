@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "...does that qualify me to be a sales trainer? Honestly... I’d say no. Mastering the art of ‘selling my personality’ didn’t mean I could automatically teach others.",
+      "statement": "I’d say no. Mastering the art of ‘selling my personality’ didn’t mean I could automatically teach others.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Real growth demands more than just repeating successes—it’s about stepping out of your comfort zone and embracing the unknown.",
+      "statement": "Real growth demands more than just repeating successes—it’s about stepping out of your comfort zone and embracing the unknown.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "I invested $28,000 in a journey of learning at the University of Wollongong in Dubai.",
+      "statement": "I invested $28,000 in a journey of learning at the University of Wollongong in Dubai.",
+      "topic": "investment opportunity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "The program was intense, diving deep into managerial accounting, HR, and marketing.",
+      "statement": "The program was intense, diving deep into managerial accounting, HR, and marketing.",
+      "topic": "professional services",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Natural talent can take you far, but to truly excel, you need to actively expand your knowledge.",
+      "statement": "Natural talent can take you far, but to truly excel, you need to actively expand your knowledge.",
+      "topic": "learning from failure",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "advice",
+      "quote": "...to truly excel, you need to actively expand your knowledge—through formal education, challenging your practices, or stepping into roles that push your limits.",
+      "statement": "To truly excel, you need to challenge your practices or step into roles that push your limits.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "Looking back, what’s one decision that took you out of your comfort zone but made all the difference?",
+      "statement": "Looking back, what’s one decision that took you out of your comfort zone but made all the difference?",
+      "topic": "life reflection",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A personal reflection on professional growth and qualifications in sales training."
+}

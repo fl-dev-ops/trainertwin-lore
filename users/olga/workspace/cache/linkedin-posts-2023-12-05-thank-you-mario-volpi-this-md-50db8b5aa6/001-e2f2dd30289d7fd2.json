@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "This podcast is my #1 recommendation for self-learning for all agents in my trainings.",
+      "statement": "This podcast is my #1 recommendation for self-learning for all agents in my trainings.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post expressing gratitude and recommending a podcast for agent training."
+}

@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I discovered this with my experience working in sales and building my online coaching business. If you struggling to sell your product or service online... ",
+      "statement": "I discovered this with my experience working in sales and building my online coaching business.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Here are the top three reasons why people might not be buying from you: - Your potential customers may simply not want what you're offering.",
+      "statement": "Potential customers may simply not want what you're offering.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "- You may not have created something that meets the needs of your target market.",
+      "statement": "You may not have created something that meets the needs of your target market.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "- They may not understand how your product or service will benefit them.",
+      "statement": "Customers may not understand how your product or service will benefit them.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "To overcome these obstacles and start selling online, you need to: 1. Clarify your niche and focus on a specific target market.",
+      "statement": "Clarify your niche and focus on a specific target market.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Fine-tune your message and make it clear how your product or service will improve their lives.",
+      "statement": "Fine-tune your message and make it clear how your product or service will improve their lives.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "2. Showcase your expertise through content marketing, live video content with original talking is a tool...",
+      "statement": "Showcase your expertise through content marketing, using live video content.",
+      "topic": "content marketing",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "...live video content with original talking is a tool which used by only 5% of experts.",
+      "statement": "Original talking in live video content is used by only 5% of experts.",
+      "topic": "content marketing",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "...I'm happy to share my number one tip to help you overcome these obstacles and start selling online.",
+      "statement": "Share your number one tip to help overcome sales obstacles and grow your business.",
+      "topic": "business growth",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Comment below how your experience was with using an expert video with original talking for your social media.",
+      "statement": "Encourages others to comment and share their experiences with expert video.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post offering advice on online sales and marketing based on personal experience."
+}

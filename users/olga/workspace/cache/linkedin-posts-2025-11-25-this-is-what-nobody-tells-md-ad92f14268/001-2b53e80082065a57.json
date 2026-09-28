@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "The first two years are going to be hell. Complete hell.",
+      "statement": "The first two years are going to be hell. Complete hell.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "after being Head of Sales and Business owner.",
+      "statement": "I restarted my career in Dubai from scratch - becoming an Agent again... After being Head of Sales and Business owner.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Your feelings will lie to you. Your emotions will sabotage you.",
+      "statement": "Your feelings will lie to you. Your emotions will sabotage you.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Even when you feel like absolute shit - you execute.",
+      "statement": "Even when you feel like absolute shit - you execute.",
+      "topic": "persistence in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "The plan doesn't care how you feel. The plan works if you work it.",
+      "statement": "The plan doesn't care how you feel. The plan works if you work it.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Tag someone who needs to hear this reality check to KEEP GOING.",
+      "statement": "Tag someone who needs to hear this reality check to KEEP GOING.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post reflecting on the challenges faced in the first two years of working in Dubai's real estate industry"
+}

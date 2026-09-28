@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "But the good question here is, how can I ask the right questions with the right tone to determine? First, budget...",
+      "statement": "Ask the right questions to determine budget, authority, and timing.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "The reason for him to invest. Why? Why would he do that?",
+      "statement": "Understanding the reason to invest is crucial for selling.",
+      "topic": "sales strategy",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "Why do you think that uh putting your investment in Dubai real estate is the right move for you now?",
+      "statement": "Use open-ended questions to encourage client reflection.",
+      "topic": "engagement strategy",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Well, it's timings.",
+      "statement": "Identifying a client's timing to invest is essential.",
+      "topic": "sales process",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "But the good question here is, how can I ask the right questions with the right tone to determine?",
+      "statement": "Recognizing the importance of asking the right questions can enhance sales performance.",
+      "topic": "personal reflection",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Transcript from a conversation focused on client engagement and effective sales questioning techniques."
+}

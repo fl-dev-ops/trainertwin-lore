@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "the way you live your life, the decision you make, going to be more precise, driven, and you get more motivation.",
+      "statement": "I look at a picture of myself and it drives my motivation.",
+      "topic": "personal reflection",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "That's me fifteen kg heavier. So.",
+      "statement": "A picture of me shows my weight change over time.",
+      "topic": "personal reflection",
+      "unit_id": "u000007"
+    }
+  ],
+  "overview": "YouTube short discussing motivation and personal reflection"
+}

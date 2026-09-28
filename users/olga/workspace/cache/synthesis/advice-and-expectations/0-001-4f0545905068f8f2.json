@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Aging perspective with regret is self-reported, with a lack of desire to return to youth.",
+      "qualification": "The evidence is self-reported and lacks verification.",
+      "support_ids": [
+        "instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136:c001:e004:75fb63e3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating a feedback culture in professional settings is advised.",
+      "qualification": "Advice given is general and lacks specific verification.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e004:f7c0509b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An exercise to train spontaneous thinking involves selecting random words and developing characters within 60 seconds.",
+      "qualification": "The exercise is unverified and relies on self-reported effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e001:1cb86824",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e002:688d57ad",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e003:fe017e74",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e004:64b8e9f5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Authority in professional settings doesn't solely stem from past achievements.",
+      "qualification": "This is an observed statement lacking external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-01-23-how-to-become-a-trusted-md-ffb9afde45:c001:e001:6cec3579"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Choosing companies with solid brands and global reputations is advised for real estate investment.",
+      "qualification": "Advice is general and lack details specific to industry insider verification.",
+      "support_ids": [
+        "linkedin-posts-2024-06-13-how-to-find-the-right-md-786ca7e7f4:c001:e003:2b59afc7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Hiring professionals for tasks like cleaning is recommended for sanity preservation.",
+      "qualification": "Advice appears specific but lacks broader context or independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9:c001:e004:1fb3b4b0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Playing the long game in sales involves detaching from controlling outcomes and building trust.",
+      "qualification": "Conceptual advice without specific case study examples or verification.",
+      "support_ids": [
+        "linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a:c001:e005:b3d276c7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Showing authenticity and sharing real stories enhances client trust.",
+      "qualification": "Advice based on anecdotal experience and lacks broader evidence of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-09-24-3-simple-steps-to-build-md-c5ad55fc0d:c001:e002:f1c920f6"
+      ]
+    }
+  ]
+}

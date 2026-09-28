@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I still do not believe that you want to listen to a Clone….",
+      "statement": "I still do not believe that you want to listen to a Clone.",
+      "topic": "personal reflection",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "will that change in 2 years!",
+      "statement": "Will that change in 2 years!",
+      "topic": "future outlook",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I’m getting messages like this … a lot these days,",
+      "statement": "I’m getting messages like this… a lot these days.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post exploring the impact of AI on personal engagement and video creation."
+}

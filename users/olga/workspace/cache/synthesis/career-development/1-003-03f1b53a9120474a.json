@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Skill development combined with education enhances candidate attractiveness to employers.",
+      "qualification": "Self-reported belief about enhancing employability, requires validation.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-linkedin-asked-me-to-comment-md-ec27f29d81:c001:e002:c20f1111"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A successful team environment is positively associated with productivity aspirations.",
+      "qualification": "This is self-reported and based on aspirations, not measured outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-01-04-job-vacancy-hr-specialist-recruiter-md-58566a5001:c001:e008:27d790b8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mass CV submissions without personalization can be ineffective in job applications.",
+      "qualification": "This advice is drawn from a single source and would benefit from additional corroborating evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-linkedin-asked-me-to-comment-md-ec27f29d81:c001:e004:231759cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fluency in English and captioning skills are critical for videography roles in Dubai.",
+      "qualification": "Based on specific job listings, not a broad industry requirement.",
+      "support_ids": [
+        "linkedin-posts-2024-01-30-im-looking-for-a-freelance-md-9d44847d44:c001:e004:9c4c8992"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investment in oneself is advised to yield more benefits compared to a passive approach.",
+      "qualification": "The statement is presented as advice from one perspective, which may need more evidence for universal applicability.",
+      "support_ids": [
+        "linkedin-posts-2024-06-13-corporate-training-or-private-coaching-md-5044a51a1f:c001:e004:dafa0481"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Monetary motivation is not considered a concrete goal in sales according to the source.",
+      "qualification": "This is an observed statement, not a universally accepted truth.",
+      "support_ids": [
+        "linkedin-posts-2024-08-21-i-just-want-to-make-md-d044578484:c001:e001:d5e176f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Tailoring resumes to fit specific job applications is emphasized as a critical step in the job application process.",
+      "qualification": "Advice is self-reported and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-05-09-job-hunting-in-dubai-can-md-0bca693d87:c001:e006:e484e32b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-assessment is encouraged as a starting point in career development, particularly for real estate professionals in Dubai.",
+      "qualification": "Advice to perform self-assessment is self-reported and unverified, requiring more experts for validation.",
+      "support_ids": [
+        "linkedin-posts-2024-02-06-this-one-time-you-can-md-fe1810458a:c001:e004:dd61d949"
+      ]
+    }
+  ]
+}

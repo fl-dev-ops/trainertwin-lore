@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-07-17-how-to-actually-create-a-md-84a1707b72-02b6e1fe56e3d881.jsonl",
+  "external_id": "7219181525727121408",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:55:03Z",
+  "metadata_hash": "f96ba4ae0a4204ac00e64b45169bf48152aa37047d6f79cc21edee7957c06cf0",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-07-17T03:30:01.640000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-07-17-how-to-actually-create-a.md",
+  "source_sha256": "bb9b9d578ee37869c4deb8b1364d493ffda1a28b65f555c484d6efb212460e6a",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestate-salespipeline-sellernurturing-activity-7219181525727121408-gWTd"
+}

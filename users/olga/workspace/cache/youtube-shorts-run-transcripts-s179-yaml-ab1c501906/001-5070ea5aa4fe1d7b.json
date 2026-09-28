@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "uncertainty that you feel right now in Dubai is because the future you had, you dreamed, you probably lived already in it, without that even happening, is gone. You lost it.",
+      "statement": "The future you dreamed of is gone.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "And the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and being angry, you end up in exception.",
+      "statement": "Accepting that you lost the future helps you move through the stages of grief.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "asking yourself a simple question. Why is this happened for me? And you will find a lot of power and the reasons and the understanding for yourself...",
+      "statement": "You should ask yourself, 'Why is this happened for me?' to find power and understanding.",
+      "topic": "life reflection",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "...enjoy and get new skills and new path, shift your career in different direction if it's needed. Everyone can do it. You can do it.",
+      "statement": "You can shift your career in a different direction during crises to gain new skills.",
+      "topic": "career shift",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "Transcript from a motivational speech addressing personal growth and opportunity during uncertainty."
+}

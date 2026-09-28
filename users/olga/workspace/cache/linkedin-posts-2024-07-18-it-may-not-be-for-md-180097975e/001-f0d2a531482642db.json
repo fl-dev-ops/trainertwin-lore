@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "called this playlist ROAR from Olga. I'm discussing, is it easier for a good-looking female to sell a real estate in Dubai?",
+      "statement": "I want to bring the awareness not only to the topic itself but to the ability of us to accept our own imperfections.",
+      "topic": "content creation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "It may not be for you! No sales tricks from me in this new video on Youtube...",
+      "statement": "It may not be for you! No sales tricks from me in this new video on Youtube...",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing a video about sales strategies and perceptions in real estate."
+}

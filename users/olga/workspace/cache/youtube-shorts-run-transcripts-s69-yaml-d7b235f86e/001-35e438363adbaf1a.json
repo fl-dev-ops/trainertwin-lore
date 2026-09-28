@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "for you to be able to influence someone, to convince himself, right? Because we influence people and while we're influencing they're convincing themselves,",
+      "statement": "We influence people and while we're influencing they're convincing themselves.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "we have to understand ins and outs, A to Z, the problem that they have, the clients, right?",
+      "statement": "We have to understand ins and outs, A to Z, the problem that they have, the clients.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "How this problem are affecting them, what the consequences of them not solving the problem,",
+      "statement": "Understanding how this problem affects clients is crucial to the sales process.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "if he's not going to get his first investment, what's going to happen then?",
+      "statement": "Clients need to be made aware of the consequences of inaction regarding their problems.",
+      "topic": "sales resistance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "if you don't know, then you don't know which answers you will expect from him when you ask him right questions.",
+      "statement": "You need to know which answers to expect when you ask the right questions.",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A discussion about influencing clients in sales without being pushy, focusing on understanding client problems."
+}

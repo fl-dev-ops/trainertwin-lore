@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "This is a bubble. That time in in US, it was a bubble.",
+      "statement": "Dubai's real estate market is described as a bubble.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "There is lots of people are able to be qualified for the mortgage.",
+      "statement": "Individuals can qualify for mortgages easily, affecting housing prices.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "me having like a five thousand dirham salary, I can walk into the bank, get all of the money.",
+      "statement": "The speaker claims they can obtain a mortgage with a low salary.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "lots of people who never were able to repay it were able to buy it.",
+      "statement": "Many buyers unable to repay mortgages were still able to purchase houses.",
+      "topic": "sales resistance",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript of a YouTube short discussing the Dubai real estate market in terms of potential risks and historical comparisons to the US housing bubble."
+}

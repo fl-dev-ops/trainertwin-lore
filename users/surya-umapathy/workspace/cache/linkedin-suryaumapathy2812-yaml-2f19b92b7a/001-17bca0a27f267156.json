@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Founding Engineer @ Forever Learning",
+      "statement": "Surya Umapathy is a Founding Engineer at Forever Learning.",
+      "topic": "employment",
+      "unit_id": "u000017"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Chennai, India",
+      "statement": "Surya Umapathy is based in Chennai, India.",
+      "topic": "location",
+      "unit_id": "u000006"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Senior Analyst - CSR",
+      "statement": "Surya Umapathy was a Senior Analyst - CSR at Freshworks.",
+      "topic": "work_experience",
+      "unit_id": "u000041"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Technical Trainer and Full Stack Web Developer",
+      "statement": "Surya Umapathy has held the position of Technical Trainer and Full Stack Web Developer at Freshworks.",
+      "topic": "work_experience",
+      "unit_id": "u000049"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Software Developer",
+      "statement": "Surya Umapathy worked as a Software Developer for ASSAY Clinical Research.",
+      "topic": "work_experience",
+      "unit_id": "u000057"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "trainertwin-by-forever-learning",
+      "statement": "Surya Umapathy is associated with a company referred to as 'trainertwin-by-forever-learning'.",
+      "topic": "work_experience",
+      "unit_id": "u000035"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Founding Engineer @ Forever Learning",
+      "statement": "Surya Umapathy has an online LinkedIn profile with a headline stating they are a Founding Engineer at Forever Learning.",
+      "topic": "online_presence",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "https://media.licdn.com/dms/image/v2/D5603AQEd_irzpGOEuQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1669298381076?e=1792022400&v=beta&t=3tyaLElRig85COl88pTi9YV0eipbEi8qytjOps76iPc",
+      "statement": "Surya Umapathy's LinkedIn profile has a display photo available in multiple sizes.",
+      "topic": "profile_picture",
+      "unit_id": "u000016"
+    }
+  ],
+  "overview": "This LinkedIn profile data outlines the professional roles and affiliations of an individual identified as suryaumapathy2812, focusing on their engineering position at 'Forever Learning' and previous roles at Freshworks and ASSAY Clinical Research."
+}

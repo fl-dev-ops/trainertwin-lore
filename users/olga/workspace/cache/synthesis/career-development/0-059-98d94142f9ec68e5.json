@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are acknowledged as pivotal in career development.",
+      "qualification": "Predicated on self-reports and individual narratives without empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e002:0a83075b",
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e004:15b858c7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training involves understanding mindset and mental barriers, not just technical skills.",
+      "qualification": "Self-reported advice, without peer-reviewed evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-11-27-your-financial-stress-is-making-md-35acbeaefb:c001:e002:6086c6a2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Managing roles and career transitions are critical for long-term success in sales.",
+      "qualification": "Insight is drawn from anecdotal advice, lacking broader empirical verification.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e003:55d554b8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Initial career stages are expected to be difficult, requiring perseverance.",
+      "qualification": "Based on individual experiences shared in a non-peer-reviewed outlet.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268:c001:e001:b52d970a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Ethical beliefs can significantly influence career decisions in real estate.",
+      "qualification": "Observation from a particular incident, limited to a single self-reported scenario.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad:c001:e001:494604f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personalizing client interactions is suggested to enhance success in deal closures.",
+      "qualification": "Advice is offered without substantial empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-11-28-how-to-get-the-buyers-md-6dcc1a6456:c001:e001:ab741e25"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Career progression can involve moving into management and taking on responsibilities like hiring and training.",
+      "qualification": "Self-reported advice without broader empirical studies for validation.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e002:0a83075b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Emotional resilience is crucial for overcoming early career challenges.",
+      "qualification": "Primarily self-reported belief from individual experience.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268:c001:e003:1f16670c"
+      ]
+    }
+  ]
+}

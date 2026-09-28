@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Persistence is essential in sales; initial rejections may eventually lead to success.",
+      "qualification": "This is a belief and may not apply universally beyond sales contexts.",
+      "support_ids": [
+        "linkedin-posts-2025-12-05-the-most-successful-agents-i-md-b2a7105e03:c001:e007:44621dfc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Career transitions, even with zero initial experience, are achievable and can lead to success.",
+      "qualification": "Evidence is self-reported, lacking external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-12-10-she-started-with-zero-knowledge-md-a9c9de3cc4:c001:e001:de296267",
+        "linkedin-posts-2025-12-19-christmas-time-ideal-for-md-4a27be2ff5:c001:e003:1787a535"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Doubts and lack of direction are common early in new careers, but training and perseverance can lead to success.",
+      "qualification": "Observations are self-reported with no third-party corroboration.",
+      "support_ids": [
+        "linkedin-posts-2026-01-06-how-a-26-year-old-made-79950-md-9c504772d2:c001:e001:3bed4f5b",
+        "linkedin-posts-2026-01-08-new-agent-liza-was-md-4de9dd668d:c001:e001:15ac4815"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering unique expertise in competitive fields can facilitate meeting bookings and professional growth.",
+      "qualification": "The self-reported nature of the evidence and lack of specific details limit its broader applicability.",
+      "support_ids": [
+        "linkedin-posts-2026-01-07-how-i-book-meetings-from-md-3a0ff768c1:c001:e003:9d81709b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Paid content tends to be more effectively utilized than free content, leading to better implementation.",
+      "qualification": "Based on belief rather than empirical research; context may affect results.",
+      "support_ids": [
+        "linkedin-posts-2026-01-16-give-me-a-single-reason-md-6d8e754e0b:c001:e005:77ae6c46"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Team building initiatives are crucial for improving agent retention rates in agencies.",
+      "qualification": "Claim is promotional and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2026-02-23-thank-you-tarun-ahimaz-and-md-d080be2402:c001:e003:8691cc64"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Experience in diverse environments can lead to significant professional development, as evidenced by training numerous agents.",
+      "qualification": "Statement is self-reported; the extent of success achieved by trained agents is not verified.",
+      "support_ids": [
+        "linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d:c001:e004:abb362d6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Live role play and call reviews are offered as methods to improve client engagement skills.",
+      "qualification": "Based on offering context rather than outcome validation.",
+      "support_ids": [
+        "linkedin-posts-2026-02-14-clients-are-ghosting-you-after-md-47044fc1cd:c001:e005:c132b977"
+      ]
+    }
+  ]
+}

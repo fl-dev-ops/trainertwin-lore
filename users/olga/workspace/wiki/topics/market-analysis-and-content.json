@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Saudi Arabia's real estate market growth is primarily driven by Saudi nationals, differing from Dubai's expatriate-driven market.",
+      "qualification": "This observation is self-reported and lacks official statistics on population or migration.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e002:f3b458e3",
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e003:c03e2732"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market offers tax-free benefits for investors.",
+      "qualification": "This is a self-reported assertion without external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-04-28-next-monday-ill-be-teaching-md-ee29d3c5cc:c001:e004:1b60c29f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai aims to position itself as a social media hub through Golden Visas for content creators, which could lead to economic growth.",
+      "qualification": "Initiatives described are self-reported and based on limited observation.",
+      "support_ids": [
+        "linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd:c001:e002:b3a897eb",
+        "linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd:c001:e003:71d614d5",
+        "linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd:c001:e004:c3cbeb0c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Belief that Dubai property prices are too expensive could obstruct sales by influencing buyer perception.",
+      "qualification": "The statement is hypothetical and reflects personal beliefs rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-10-08-do-you-secretly-believe-dubai-md-51965119a3:c001:e001:1562e43c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market is moving towards cash purchases due to restricted mortgage lending, changing from past credit-driven dynamics.",
+      "qualification": "The finding is based on personal observation rather than empirical data, and the extent of the shift is unverified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s102-yaml-151697bff1:c001:e003:d4be8cbd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Jumeirah Islands reportedly has the highest price per square foot in Dubai.",
+      "qualification": "This is self-reported and is not independently verified.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c001:e001:283bfb63"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate developers in Dubai cannot access escrow funds until project completion, offering security to investors.",
+      "qualification": "This process reflects investor security but requires broader verification as policies may vary.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s209-yaml-b3361ad755:c001:e004:2325bfc5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Potential investment areas in Dubai include Business Bay, City Walk, and Jumeirah Village Circle, indicating diverse opportunities.",
+      "qualification": "The list provides anecdotal insights rather than comprehensive market data.",
+      "support_ids": [
+        "linkedin-posts-2023-07-28-aside-from-budget-limitations-where-md-7d9683c32f:c001:e002:f56ec5c4"
+      ]
+    }
+  ],
+  "signature": "37ea2d1ad1e3144cd38e57f5ddf147beff40597ac5630a8ce4ff801a83d2366c"
+}

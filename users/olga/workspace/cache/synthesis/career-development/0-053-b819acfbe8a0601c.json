@@ -1,0 +1,60 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Self-limiting beliefs are recognized as psychological barriers in career development, viewed as stories people tell themselves rather than objective truths.",
+      "qualification": "The evidence is self-reported and reflects personal belief rather than empirical study.",
+      "support_ids": [
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e001:2295a792"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A mindset shift is necessary to overcome doubts and limitations in career progress.",
+      "qualification": "This is based on self-reported observations and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e004:a6b41625"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Questions that remain unanswered can hinder agents' career advancement and client engagement.",
+      "qualification": "This finding is self-reported with hypothetical advice, not empirically tested.",
+      "support_ids": [
+        "linkedin-posts-2025-09-04-do-you-have-a-question-md-d37c1273b0:c001:e001:fa68aa5e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Readiness is developed through experience rather than being a starting point for career development.",
+      "qualification": "The evidence is self-reported and reflects a personal philosophy without empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2025-09-05-starting-your-business-before-you-md-50e5ac61e6:c001:e002:ef376c9a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing time and resources in one's career can lead to personal growth, despite initial uncertainty.",
+      "qualification": "Self-reported evidence suggests personal success stories, lacking broader validation.",
+      "support_ids": [
+        "linkedin-posts-2025-09-05-starting-your-business-before-you-md-50e5ac61e6:c001:e007:4a67baf8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The inability to engage effectively in client meetings can impact career development.",
+      "qualification": "Advice is hypothetical and self-reported without empirical data to support.",
+      "support_ids": [
+        "linkedin-posts-2025-09-04-do-you-have-a-question-md-d37c1273b0:c001:e003:0c01502e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The perception that most agents find themselves in similar career-related predicaments is noted but not empirically verified.",
+      "qualification": "Observed behavior suggests commonality but lacks empirical rigor.",
+      "support_ids": [
+        "linkedin-posts-2025-09-09-yes-i-was-in-md-7c17ca2f1f:c001:e001:fbecfc62"
+      ]
+    }
+  ]
+}

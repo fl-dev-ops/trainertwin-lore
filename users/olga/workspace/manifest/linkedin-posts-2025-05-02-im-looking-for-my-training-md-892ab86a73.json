@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 7,
+  "evidence_file": "linkedin-posts-2025-05-02-im-looking-for-my-training-md-892ab86a73-32b3c5600efbd5b2.jsonl",
+  "external_id": "7324055458493657090",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:42:36Z",
+  "metadata_hash": "46232cfe1ea36b966356995b6e95caf6cbdec7c933b5d3169191891bbce018f4",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-05-02T13:01:35.675000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-05-02-im-looking-for-my-training.md",
+  "source_sha256": "7fb2c4860021cf8d0793cc6b4ab920ac283359949aba50cc4dabb2376f582f86",
+  "source_url": "https://www.linkedin.com/posts/olgasi_trainingcoordinator-realestatejobsdubai-realestatejobdubai-activity-7324055458493657090-jCcq"
+}

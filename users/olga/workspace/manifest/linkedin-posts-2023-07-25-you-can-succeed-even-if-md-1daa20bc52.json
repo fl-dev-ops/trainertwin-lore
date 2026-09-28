@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2023-07-25-you-can-succeed-even-if-md-1daa20bc52-6bc591b6161f2f0b.jsonl",
+  "external_id": "7089456733655289856",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:13:28Z",
+  "metadata_hash": "1bd9984bdf547951c62a953cb50644827b37fdb65916a34f1165450da5583ddf",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-25T04:10:01.040000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-25-you-can-succeed-even-if.md",
+  "source_sha256": "aec4a38914a0a24f48cc573c46488a4ac517cde7776d95037cd529402951c3f1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_you-can-succeed-even-if-you-are-completely-activity-7089456733655289856-6Oh-"
+}

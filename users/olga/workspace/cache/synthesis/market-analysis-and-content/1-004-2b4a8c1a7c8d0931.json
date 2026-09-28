@@ -1,0 +1,60 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Jumeirah Islands is reported to have the highest price per square foot in Dubai.",
+      "qualification": "This is self-reported and is not independently verified.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c001:e001:283bfb63"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Jumeirah Village Triangle Villas are experiencing price growth alongside Dubai Investment Park.",
+      "qualification": "Statements are self-reported and lack independent verification.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c001:e002:0c3749f4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a belief that Dubai Creek Harbor succeeded despite initial skepticism.",
+      "qualification": "This is a belief statement based on past skepticism, not current data.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c003:e003:3d8e1b32"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai property prices are anticipated to crash, but real distress deals must be distinguished from artificial discounts.",
+      "qualification": "This is a speculative statement; actual market outcomes may differ.",
+      "support_ids": [
+        "youtube-transcripts-102-yaml-de287101db:c001:e001:17c9546a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Best opportunities in the Dubai property market will favor early preparation and understanding of real market value.",
+      "qualification": "This belief is hypothetical and lacks specific strategies or evidence.",
+      "support_ids": [
+        "youtube-transcripts-102-yaml-de287101db:c002:e003:85e3d5bf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Property owners in Dubai might raise prices if unable to sell within a few months.",
+      "qualification": "This is a hypothetical claim without supporting data.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c002:e001:4e70d5f2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker aims to showcase expertise in social media posts without appearing overly promotional.",
+      "qualification": "The statement is self-reported and pertains to content strategy rather than market analysis.",
+      "support_ids": [
+        "youtube-transcripts-12-yaml-6db9d6703c:c001:e004:adc30ae1"
+      ]
+    }
+  ]
+}

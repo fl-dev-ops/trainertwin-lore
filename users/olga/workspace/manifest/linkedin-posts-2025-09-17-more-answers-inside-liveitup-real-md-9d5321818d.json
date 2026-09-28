@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2025-09-17-more-answers-inside-liveitup-real-md-9d5321818d-f7057a2975c53a52.jsonl",
+  "external_id": "7373982313346502656",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:48:16Z",
+  "metadata_hash": "d9f5ffa854a8f9c3e9b3fca04796c039a7e3ac7aaf39f68f1b3fa6e5ee2ecad6",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-09-17T07:33:05.468000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-09-17-more-answers-inside-liveitup-real.md",
+  "source_sha256": "906539c31dc436af59a1de5fc6dfad6ef3486b5bf1becab70aeda1d123b1a0c8",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestrainerdubai-dubairealestate-activity-7373982313346502656-TAXX"
+}

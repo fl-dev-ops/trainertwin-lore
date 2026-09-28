@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "If you have a “Wrong” sales manager…. It can cost you your leads, your team’s motivation, your sales culture...",
+      "statement": "A wrong sales manager can cost leads, team motivation, and sales culture.",
+      "topic": "sales management impact",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I asked questions in a way that made him feel like I genuinely wanted to learn from his experience.",
+      "statement": "The author approached the interview to make the candidate feel comfortable.",
+      "topic": "interview technique",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "His answer eventually came down to this: Ask the client what they want. Send options on WhatsApp. Follow up.",
+      "statement": "A candidate answered a sales process question with vague responses, indicating lack of competence.",
+      "topic": "candidate evaluation",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Very quickly, the responsibility moved to recruiters.",
+      "statement": "The candidate's view that recruitment is solely a recruiter's responsibility indicated a lack of team-building skills.",
+      "topic": "team building responsibility",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "We did not hire him. And that decision probably saved the company a serious amount of money, time and internal damage.",
+      "statement": "The decision not to hire the candidate likely saved the company money and time.",
+      "topic": "hiring decision",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "They do not treat sales as a collection of talented individuals.",
+      "statement": "Companies should not treat sales as merely a collection of talented individuals.",
+      "topic": "sales management approach",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "LinkedIn post discussing the impacts of hiring the wrong sales manager and interview techniques."
+}

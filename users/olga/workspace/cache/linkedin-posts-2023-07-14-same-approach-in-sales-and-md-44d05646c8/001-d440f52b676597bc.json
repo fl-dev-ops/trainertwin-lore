@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "Same approach in Sales and in Sport.",
+      "statement": "Sales strategies can be similar to approaches in sports.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A brief statement drawing a parallel between sales strategies and sports approaches."
+}

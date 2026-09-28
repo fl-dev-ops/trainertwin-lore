@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Just send me some Options...",
+      "statement": "The Client expresses a need for options.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A brief inquiry by a client about how to respond to requests for options."
+}

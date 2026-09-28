@@ -1,0 +1,109 @@
+{
+  "groups": [
+    {
+      "name": "Personal Development",
+      "topics": [
+        "personal-goals",
+        "personal-growth",
+        "personal-reflection",
+        "personal-responsibility"
+      ]
+    },
+    {
+      "name": "Persuasion Skills",
+      "topics": [
+        "persuasion-in-sales",
+        "persuasion-technique",
+        "persuasion-techniques"
+      ]
+    },
+    {
+      "name": "Sales Techniques",
+      "topics": [
+        "pre-handling-objections",
+        "presentation-techniques"
+      ]
+    },
+    {
+      "name": "Productivity and Planning",
+      "topics": [
+        "planning-structure",
+        "preparation",
+        "practice-methods",
+        "productivity-assessment"
+      ]
+    },
+    {
+      "name": "Professional Branding",
+      "topics": [
+        "professional-branding",
+        "professional-effectiveness",
+        "professional-engagement",
+        "promotion-strategy"
+      ]
+    },
+    {
+      "name": "Product and Service Development",
+      "topics": [
+        "product-development",
+        "product-features",
+        "professional-services"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "topics": [
+        "project-completion",
+        "project-location",
+        "project-timeline"
+      ]
+    },
+    {
+      "name": "Market and Pricing",
+      "topics": [
+        "price-reduction",
+        "property-prices"
+      ]
+    },
+    {
+      "name": "Platform and Profile Management",
+      "topics": [
+        "platform-specifics",
+        "profile-link"
+      ]
+    },
+    {
+      "name": "Real Estate Practices",
+      "topics": [
+        "pocket-listings",
+        "problem-solving"
+      ]
+    },
+    {
+      "name": "Communication in Sales",
+      "topics": [
+        "personality-types"
+      ]
+    },
+    {
+      "name": "Public and Political Context",
+      "topics": [
+        "political-context",
+        "public-opinion",
+        "poll-results"
+      ]
+    },
+    {
+      "name": "Professional Background",
+      "topics": [
+        "professional-background"
+      ]
+    },
+    {
+      "name": "Program Structures",
+      "topics": [
+        "program-structure"
+      ]
+    }
+  ]
+}

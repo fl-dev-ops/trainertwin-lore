@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Networking and creating genuine relationships are highlighted as vital aspects of career progression.",
+      "qualification": "The importance of networking is often stated without empirical evidence, relying on self-reported success stories.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-for-you-real-estate-agents-md-44412b2c31:c001:e003:98fa037c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales success can be augmented by making clients articulate their problems and solutions, indicating interpersonal skills are crucial.",
+      "qualification": "This relies on anecdotal evidence and self-reported advice rather than systematic study.",
+      "support_ids": [
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e002:d04c0e89",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e003:635b5b3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding one's own limitations and engaging in self-reflection can drive career development.",
+      "qualification": "This is suggested through self-reported practices such as recording conversations, lacking empirical research.",
+      "support_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e006:91016f1c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Genuine communication and empathy are vital for developing client relationships and career progress.",
+      "qualification": "Such claims are based on personal beliefs and observations rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e001:e921cc44",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e003:9affa0e2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Questioning within career development aids in understanding and engaging with challenges.",
+      "qualification": "This finding is hypothetical without empirical validation, based on self-reported experience.",
+      "support_ids": [
+        "linkedin-posts-2025-09-04-do-you-have-a-question-md-d37c1273b0:c001:e001:fa68aa5e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investment in mentorship and persistent learning is perceived highly for personal and career growth.",
+      "qualification": "Reflects personal insights and experiences; not empirically tested.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e002:0a83075b",
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e004:15b858c7",
+        "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268:c001:e003:1f16670c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence is considered more significant than talent for achieving career goals.",
+      "qualification": "The view is advisory with no empirical backing or broader validity test.",
+      "support_ids": [
+        "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d:c001:e003:01e58ff6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Low interpersonal trust can negatively impact career relationships and development.",
+      "qualification": "The statement is self-reported, indicating belief rather than empirically supported fact.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e001:d204032b"
+      ]
+    }
+  ]
+}

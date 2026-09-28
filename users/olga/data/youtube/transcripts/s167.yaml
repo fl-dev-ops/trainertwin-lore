@@ -1,0 +1,28 @@
+id: s167
+title: Top 1% real estate agents know this!
+date: '2024-07-26'
+source: Top 1% real estate agents know this!
+audio_file: Top 1% real estate agents know this! [zlM1-A8viWs].mp3
+duration: "00:00:30"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 3
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    I'm willing to do whatever it takes for as long as it takes. This is important, guys, because we all
+    get used to dopamine hits, quick results, quick fix. The real estate is a little bit different, right?
+    It's at least six months of going through the pain.
+- t: "00:00:18"
+  speaker: '1'
+  text: >-
+    right? learning, pushing, creating relationship with the client. and then the pendulum gonna swing
+    and then you will have results. if it swing faster that's fine but you'll still have to push it.
+- t: "00:00:26"
+  speaker: '0'
+  text: >-
+    Yes

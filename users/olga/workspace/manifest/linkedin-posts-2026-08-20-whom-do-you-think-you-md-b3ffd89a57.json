@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57-51651745a9ad8ac4.jsonl",
+  "external_id": "7496075944873459713",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:09:47Z",
+  "metadata_hash": "da98bcc6aff5dbfe7a74380bf6e572a090364b3b6e0347f165a12f8bd8bfdc60",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-08-20T05:29:35.614000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-08-20-whom-do-you-think-you.md",
+  "source_sha256": "c65ddd01dad8f5e524caeabc2525a5dcdfc83b83f2cf76cd6e5961239de84a30",
+  "source_url": "https://www.linkedin.com/posts/olgasi_whom-do-you-think-you-are-and-why-should-activity-7496075944873459713-Q1ec"
+}

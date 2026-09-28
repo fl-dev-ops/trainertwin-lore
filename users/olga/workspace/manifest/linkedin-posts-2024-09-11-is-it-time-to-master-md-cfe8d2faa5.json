@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 7,
+  "evidence_file": "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5-f11c319b5af1704d.jsonl",
+  "external_id": "7239614909997608961",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:31:47Z",
+  "metadata_hash": "5b1c98737c8e99a191dee139f3ba4bcff150d555f904acc55e59571061c1eec4",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-11T12:45:00.084000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-11-is-it-time-to-master.md",
+  "source_sha256": "89534c3cf3e05607efbb600a3020bc0641d6c1c10557b74c67c5bd486a161788",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatetraining-salescalls-leadgeneration-activity-7239614909997608961-flcT"
+}

@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Turned 44 yesterday. Thank you for your wishes! I was not expected to receive",
+      "statement": "Turned 44 yesterday. Thank you for your wishes! I was not expected to receive so many messages 🧡.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "...in my professional life, I managed to start building, resist, and understand several important things: Building my online training academy, making it easier for",
+      "statement": "Over this past year in my professional life, I managed to start building, resist, and understand several important things: Building my online training academy, making it easier for companies and my private clients to learn and practice on the go.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Resisted 3 quite lucrative job offers that, on paper, would have brought me more cash in hand. But I chose to believe in myself and my ability",
+      "statement": "Resisted 3 quite lucrative job offers that, on paper, would have brought me more cash in hand. But I chose to believe in myself and my ability to build a sustainable business.",
+      "topic": "investment opportunity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Understood that I need to choose whom I want and can help.",
+      "statement": "Understood that I need to choose whom I want and can help.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I'm working with those who are ready to do their 50%...to the total 100% rest.",
+      "statement": "I'm working with those who are ready to do their 50%...to the total 100% rest.",
+      "topic": "client quality",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "My coaching in fact is not about... How to make more money in Real Estate! It's about helping my clients become better versions of themselves—people who can",
+      "statement": "My coaching in fact is not about... How to make more money in Real Estate! It's about helping my clients become better versions of themselves—people who can take actions on a different level of expertise and commitment.",
+      "topic": "teaching approach",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post reflecting on personal and professional growth post-birthday."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-09-13-im-not-happy-to-discuss-md-fa8959df16-41b0aa54a48c1140.jsonl",
+  "external_id": "7107702234796220416",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:15:43Z",
+  "metadata_hash": "1d19dffd9d00e51bfc3cceb6886eefd2de030bcc4efffd53bb6151045a055553",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-09-13T12:31:07.497000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-09-13-im-not-happy-to-discuss.md",
+  "source_sha256": "94de851e35edb30bb668e2a349a27c6922363c3ac14f66f0c3e0f4f836ce124a",
+  "source_url": "https://www.linkedin.com/posts/olgasi_buildyourstatus-becomeanexpert-dubairealestatesalestrainer-activity-7107702234796220416-lAsg"
+}

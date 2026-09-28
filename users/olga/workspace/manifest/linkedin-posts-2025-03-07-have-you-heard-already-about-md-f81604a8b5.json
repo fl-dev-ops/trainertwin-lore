@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-03-07-have-you-heard-already-about-md-f81604a8b5-0db7ac4f74d1ec69.jsonl",
+  "external_id": "7303652986562469888",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:40:05Z",
+  "metadata_hash": "c0123dbbf2d04b2b539afab2c875a2585772f633450525242876edd09876251d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-03-07T05:49:27.307000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-03-07-have-you-heard-already-about.md",
+  "source_sha256": "b807360658c716a3fd42c63733455edad989c9655fd517464ef9c76336ccab36",
+  "source_url": "https://www.linkedin.com/posts/olgasi_riyadh-publicinvestmentfund-saudivision2030-activity-7303652986562469888-3E6v"
+}

@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Retention rate? 90% of them quit ",
+      "statement": "90% of them quit before their first real commission.",
+      "topic": "agent turnover",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Here’s the thing: training isn’t optional—it’s ",
+      "statement": "training isn’t optional—it’s the difference between agents making money or making excuses.",
+      "topic": "training necessity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "A solid sales trainer can: ✔️ Cut agent turnover in ",
+      "statement": "A solid sales trainer can cut agent turnover in half.",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "No structured onboarding. ❌ No real sales training. ❌ No clue ",
+      "statement": "most real estate agencies are playing a very expensive game of 'hire and pray.'",
+      "topic": "current training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "(because agents who make money don’t quit). ✔️ Increase ",
+      "statement": "agents who make money don’t quit.",
+      "topic": "agent engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "third_party",
+      "kind": "offering",
+      "quote": "Next post, I’m sharing a full onboarding training framework for ",
+      "statement": "sharing a full onboarding training framework for new agents.",
+      "topic": "onboarding training framework",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "style",
+      "quote": "“Just watch the top agents and do what they do.” Oh, so THAT’S ",
+      "statement": "‘Just watch the top agents and do what they do.’ Oh, so THAT’S the plan?",
+      "topic": "communication style",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "1.Recruiting an agent? 15K+ AED (visa, recruiter salary, ",
+      "statement": "Recruiting an agent? 15K+ AED (visa, recruiter salary, bonuses).",
+      "topic": "cost of hiring",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "2.Leads, CRM, marketing? 35K+ AED per agent (first six months ",
+      "statement": "Leads, CRM, marketing? 35K+ AED per agent (first six months minimum).",
+      "topic": "cost of marketing",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "That’s 50K+ AED per agent, straight into the void.",
+      "statement": "50K+ AED per agent, straight into the void.",
+      "topic": "financial waste",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing the need for effective training in Dubai's real estate market."
+}

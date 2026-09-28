@@ -1,0 +1,29 @@
+id: s178
+title: 'Watch full training for Dubai Agents on my channel #realestatetraining #dubaiproperties'
+date: '2026-03-25'
+source: 'Watch full training for Dubai Agents on my channel #realestatetraining #dubaiproperties'
+audio_file: 'Watch full training for Dubai Agents on my channel #realestatetraining #dubaiproperties [BZsvzz5ftsk].mp3'
+duration: "00:00:44"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 3
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    everyone is fearful. Yes, everyone sees this, but this is a front vision, right? I want to give you
+    uh a well-known example, big short, uh movie bud, two thousand eight.
+- t: "00:00:12"
+  speaker: '1'
+  text: >-
+    crisis, housing crisis in the US. Just don't understand what was the sequence of events and and why
+    it happened. But even in this movie, the guy whose name is Malcolm Berriff, he was able to see what
+    is coming. And despite what everyone else was telling him, there was another two guys who kind of
+    understood the gig, but he was the main one.
+- t: "00:00:32"
+  speaker: '1'
+  text: >-
+    he played against the common sense in that way in the market and he won approximately eight hundred
+    million

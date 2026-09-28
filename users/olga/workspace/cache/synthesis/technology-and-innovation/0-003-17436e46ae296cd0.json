@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Individuals may alter their names to assimilate into different cultural contexts, as illustrated by an individual's name change in Dubai.",
+      "qualification": "This evidence is a self-reported account and does not generalize cultural assimilation practices globally.",
+      "support_ids": [
+        "linkedin-posts-2026-06-02-being-born-in-a-small-md-d9cffbc50f:c001:e003:4182ceb5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market is promoted as providing substantial insights and value to serious investors or participants.",
+      "qualification": "The claim is promotional and lacks detailed substantiation or context on what constitutes 'insights' or 'value.'",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s118-yaml-a8372f3450:c001:e004:5aacf002"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Pandemics have introduced a new level of uncertainty in future expectations, marking a significant shift in how global events are anticipated.",
+      "qualification": "The statement reflects a personal opinion and exemplifies changing perceptions post-COVID-19 but lacks evidence of broader sociological analysis.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s210-yaml-36da6d8b13:c001:e002:0f6dd850"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A systematic approach to tracking activities is recommended for real estate professionals to enhance business operations.",
+      "qualification": "The advice is specific to real estate practices and may not universally apply to all business sectors.",
+      "support_ids": [
+        "youtube-transcripts-04-yaml-7001eb6128:c001:e007:7efd6182"
+      ]
+    }
+  ]
+}

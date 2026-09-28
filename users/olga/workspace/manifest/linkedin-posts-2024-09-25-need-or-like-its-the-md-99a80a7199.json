@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-09-25-need-or-like-its-the-md-99a80a7199-9b3c776880ecca4a.jsonl",
+  "external_id": "7244548698527985665",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:33:10Z",
+  "metadata_hash": "de58ccaaa1020d33383c48e8d3a7638a7d4dfe5469df0c85b9c643df4a20a082",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-25T03:30:06.935000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-25-need-or-like-its-the.md",
+  "source_sha256": "facc531a17f43fbc3df68a69a7d1f9d5e7971e89d63bbee17a5844ac450f5cc1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalescoach-salesstrategy-clientneeds-activity-7244548698527985665-mAMY"
+}

@@ -1,0 +1,65 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Effective career performance can be measured with numbers, reflecting time, effort, and return, which are crucial sales metrics.",
+      "qualification": "The claim is based on advice and observed statements and lacks concrete data backing the measurability assertion.",
+      "support_ids": [
+        "linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c:c001:e004:96296261",
+        "linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c:c001:e005:ef22b94d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A mere 18 minutes of focused work per day could lead to outperforming 95% of peers in a given field, highlighting the importance of focused and consistent effort over prolonged periods.",
+      "qualification": "This is a hypothetical claim, potentially oversimplifying factors that contribute to performance.",
+      "support_ids": [
+        "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d:c001:e001:c3c2d5bc",
+        "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d:c001:e002:39e468f9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fear of making calls is widespread among sales professionals, affecting motivation and effectiveness.",
+      "qualification": "This is self-reported and not independently verified, relying on individual anecdote.",
+      "support_ids": [
+        "linkedin-posts-2025-04-07-lets-be-real-99-of-md-103eaf9d19:c001:e001:dedf7935"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Many businesses lack visibility and structure in tracking performance from leads to closed deals, impacting their ability to control and improve outcomes.",
+      "qualification": "Observation-based statement, lacks verification through structured industry data.",
+      "support_ids": [
+        "linkedin-posts-2025-04-11-the-businesses-that-have-a-md-86b8c74700:c001:e001:9f2f09ca"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Companies are often unaware of their actual conversion rates, hindering their ability to set benchmarks and meet expectations for sales performance.",
+      "qualification": "Self-reported observations, potentially specific to certain contexts or regions without broader application evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-04-11-the-businesses-that-have-a-md-86b8c74700:c001:e002:c57d327f",
+        "linkedin-posts-2025-04-11-the-businesses-that-have-a-md-86b8c74700:c001:e003:22eaef5d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies that rely on creating external pressure might be ineffective; client-led urgency is proposed as a more sustainable approach.",
+      "qualification": "Advisory claims based on the perceived effectiveness of client motivations.",
+      "support_ids": [
+        "linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570:c001:e001:6217541f",
+        "linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570:c001:e003:63f316f0",
+        "linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570:c001:e006:c8957cfc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The enthusiasm in selling drops when realizing potential clients are only curious, indicating the challenge of managing client expectations and interest.",
+      "qualification": "Self-reported sentiment; reflects personal rather than universal experience.",
+      "support_ids": [
+        "linkedin-posts-2025-04-09-selling-off-plan-to-international-client-md-1d6b445dfe:c001:e001:b3071a03"
+      ]
+    }
+  ]
+}

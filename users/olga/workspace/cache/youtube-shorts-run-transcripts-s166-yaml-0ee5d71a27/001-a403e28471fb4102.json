@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "coaching program really helped me guys. This is unscripted",
+      "statement": "This coaching program really helped me handle every tough client.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Personal testimony about a coaching program's impact on handling clients."
+}

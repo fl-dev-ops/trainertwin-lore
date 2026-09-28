@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "fact_claim",
+      "quote": "Reciprocity Rule as a sales strategy?",
+      "statement": "Reciprocity Rule as a long-term sales strategy",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Comment below if you want to know how...",
+      "statement": "Encourages comments for further discussion",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post exploring the reciprocity rule in sales strategy."
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "What’s really behind your Fear of Rejection?",
+      "statement": "Fear of rejection is a significant blocker in sales.",
+      "topic": "fear of rejection",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Why do you still physically feel pain when a client says 'Not Interested'?\"",
+      "statement": "Sales professionals physically feel pain when rejected by clients.",
+      "topic": "client objections",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "In this video, I dive deeper than the typical explanation...",
+      "statement": "A video dives deeper into understanding and overcoming fear of rejection.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post promoting a video focused on fear of rejection in sales."
+}

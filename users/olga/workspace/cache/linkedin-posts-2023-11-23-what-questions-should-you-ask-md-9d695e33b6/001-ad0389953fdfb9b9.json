@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What questions should you ask an off-plan buyer",
+      "statement": "Ask open-ended questions to understand buyer motivations.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What questions should you ask an off-plan buyer",
+      "statement": "Include questions about their timeline and budget.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What questions should you ask an off-plan buyer",
+      "statement": "Encourage buyers to share their thoughts and preferences.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What questions should you ask an off-plan buyer",
+      "statement": "Inquire about previous real estate experience to gauge knowledge.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A post discussing effective questions for engaging off-plan buyers responding to social media ads."
+}

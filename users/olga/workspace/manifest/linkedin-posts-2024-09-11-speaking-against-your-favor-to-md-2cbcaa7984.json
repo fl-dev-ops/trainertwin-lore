@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-09-11-speaking-against-your-favor-to-md-2cbcaa7984-b3b34d3332c65867.jsonl",
+  "external_id": "7239475274289954816",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:31:53Z",
+  "metadata_hash": "202e62c1c221dc146cfb991494b6004edb4e76c1e7b6d80e9848ade4886a371d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-11T03:30:08.337000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-11-speaking-against-your-favor-to.md",
+  "source_sha256": "7d0b2963f75b2a84e1105465ad127223759faaf07318f0b5a098ea4de33c0fa1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_trustbuilding-salesstrategy-realestate-activity-7239475274289954816-TPQC"
+}

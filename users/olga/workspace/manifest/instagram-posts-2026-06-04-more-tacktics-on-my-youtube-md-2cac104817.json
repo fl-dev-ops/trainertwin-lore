@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-06-04-more-tacktics-on-my-youtube-md-2cac104817-079a4656e362b8fc.jsonl",
+  "external_id": "3912072258273978826",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:11:12Z",
+  "metadata_hash": "b79d18a545978a65f5e019b0124f6f4aec25d384630c0642bde61e9d3a6ea911",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-06-04T12:16:51Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2026-06-04-more-tacktics-on-my-youtube.md",
+  "source_sha256": "85cb074a74d8bedb585cd2ebdb79ffa73e4d957cade70d85564e3efd7fc177c9",
+  "source_url": "https://www.instagram.com/p/DZKeP3qFKnK/"
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I'm not a tech savvy, like many other enterpreneurs.",
+      "statement": "I’m not a tech savvy, like many other entrepreneurs.",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I feel the same way when I'm dropping my car for a service...",
+      "statement": "I feel the same way when I'm dropping my car for a service...",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post expressing technology concerns and customer communication importance"
+}

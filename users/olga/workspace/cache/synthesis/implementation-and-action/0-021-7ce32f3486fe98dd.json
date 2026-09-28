@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales in real estate is challenging but success can be achieved with the right guidance and tools.",
+      "qualification": "This is a generalized claim and not specific to any particular tool or guidance method.",
+      "support_ids": [
+        "linkedin-posts-2024-11-21-sales-isnt-easy-and-real-md-90799e656e:c001:e001:0ee9c651"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using WhatsApp is recommended for generating seller leads in real estate.",
+      "qualification": "This recommendation is generic advice and does not detail specific strategies within WhatsApp.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e001:151ad5d3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "For agents already achieving 10 market-priced listings per month, watching improvement seminars or videos may not be necessary.",
+      "qualification": "Self-reported claim without broader context or independent validation.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e003:45cf3b35"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Conventional lead generation methods like the Instagram Funnel are criticized as ineffective.",
+      "qualification": "Hypothetical statement not supported by specific data or case studies.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e004:5ddf6690"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Pocket listings are commonly shared during weekly training sessions.",
+      "qualification": "This is self-reported and may reflect practices specific to particular organizations.",
+      "support_ids": [
+        "linkedin-posts-2024-11-28-i-have-a-pocket-listings-md-ace554932a:c001:e002:093f7e4f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI tools are promoted for creating professional listing presentations mimicking listings on a portal.",
+      "qualification": "The AI tool is unverified, with no performance metrics or user feedback provided.",
+      "support_ids": [
+        "linkedin-posts-2024-12-06-try-this-free-ai-assistant-md-b48575a31b:c001:e001:f4e4a199",
+        "linkedin-posts-2024-12-06-try-this-free-ai-assistant-md-b48575a31b:c001:e002:6d880f2d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sellers often resist price reductions, perceiving it as a competitive challenge against buyers.",
+      "qualification": "This is based on observed behavior and self-reported statements from real estate agents.",
+      "support_ids": [
+        "linkedin-posts-2024-12-17-one-deal-away-from-your-md-8677a05be4:c001:e001:87a192d0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using data can help convince sellers that price reductions are strategic rather than losses.",
+      "qualification": "Advice given is prescriptive but lacks data or case studies confirming effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-12-17-one-deal-away-from-your-md-8677a05be4:c001:e004:5b1c5e25"
+      ]
+    }
+  ]
+}

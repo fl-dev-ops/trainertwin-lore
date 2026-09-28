@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "There is a recurring narrative emphasizing the importance of mindset shifts in uncertain times.",
+      "qualification": "The emphasis on mindset shifts is observed in multiple entries but primarily represents the speaker's belief system.",
+      "support_ids": [
+        "linkedin-posts-2026-03-13-how-ready-we-are-for-md-3731fca978:c001:e003:2d463fc7",
+        "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717:c001:e002:00cd55d6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Practical strategies are preferred over motivational talks for addressing changes in the real estate market.",
+      "qualification": "This reflects the author's belief about effective responses to market changes.",
+      "support_ids": [
+        "linkedin-posts-2026-03-16-dubai-real-estate-market-changedall-md-aeee764494:c001:e006:7fd466ab"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building a community can help alleviate uncertainty and enhance engagement.",
+      "qualification": "The effectiveness of community engagement is implied but not directly proven.",
+      "support_ids": [
+        "linkedin-posts-2026-03-16-feeling-uncertain-join-my-md-e9c31b34c9:c001:e001:79c8dd8a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In the face of panic, there is a desire to maintain calm and credibility.",
+      "qualification": "The statement is self-reported and reflects personal expectations rather than empirically verified efficacy.",
+      "support_ids": [
+        "linkedin-posts-2026-03-13-what-do-i-even-say-md-fc245c717a:c001:e004:7913b97b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents in the Dubai real estate market feel a sense of loss and change affecting their future.",
+      "qualification": "These observations are self-reported and do not independently confirm market conditions.",
+      "support_ids": [
+        "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b:c001:e008:691ee43d",
+        "linkedin-posts-2026-04-01-i-never-thought-i-will-md-3f2ad6a708:c001:e002:9de6ae5d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adapting strategies is necessary to remain successful in a changing environment.",
+      "qualification": "This notion is based on personal advice and lacks broader verification.",
+      "support_ids": [
+        "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717:c001:e005:78643424"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "People may resist AI opinions despite technological advancement in the next few years.",
+      "qualification": "This is a hypothetical belief about future interactions with AI, without empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2026-03-24-i-just-analyzed-both-md-46564ea739:c001:e001:d11be018"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Feeling lighter and able to act can result from better explanations during challenging times.",
+      "qualification": "This is based on personal experiences shared by the author, not a generalized or validated finding.",
+      "support_ids": [
+        "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b:c001:e005:0557d83b"
+      ]
+    }
+  ]
+}

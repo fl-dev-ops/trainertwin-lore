@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-11-17-10-years-of-dubai-deals-md-d15e1a9020-266186131243d3f1.jsonl",
+  "external_id": "7396074059857465344",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T17:18:50Z",
+  "metadata_hash": "fa4adfab3b259c9b55cb0e70faf78caf4732876cb90bed266a0210b21e155bd5",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-17T06:37:48.281000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-17-10-years-of-dubai-deals.md",
+  "source_sha256": "9a683100577f024d831760e0601a9203141a27bbd6a19e57edfd28c98739f316",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestrainerdubai-dubairealestate-activity-7396074059857465344-fBeV"
+}

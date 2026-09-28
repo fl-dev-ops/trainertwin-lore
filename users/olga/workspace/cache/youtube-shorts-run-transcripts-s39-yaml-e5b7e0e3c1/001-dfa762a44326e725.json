@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I did everything to put everything I wanted in my pockets, and now I'm stepping in and God knows what's gonna happen.",
+      "statement": "I did everything to put everything I wanted in my pockets, and now I'm stepping in and God knows what's gonna happen.",
+      "topic": "personal reflection",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I think it's good, no? It's his country.",
+      "statement": "It's good, no? It's his country.",
+      "topic": "governance views",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Does that something that came on your in your mind that is it looks all very business oriented.",
+      "statement": "It looks all very business oriented.",
+      "topic": "political context",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "we're deciding who's gonna rule us, who is the best for us, why it's bad.",
+      "statement": "We're deciding who's gonna rule us, who is the best for us.",
+      "topic": "country governance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Are you hundred percent satisfied in your friend? Whatever.",
+      "statement": "Are you hundred percent satisfied in your friend? Whatever.",
+      "topic": "government satisfaction",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Dialogue reflecting on governance and business in a country setting."
+}

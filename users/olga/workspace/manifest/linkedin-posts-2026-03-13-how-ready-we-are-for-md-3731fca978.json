@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2026-03-13-how-ready-we-are-for-md-3731fca978-e2fdf17f021067da.jsonl",
+  "external_id": "7438148037539041280",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:05:12Z",
+  "metadata_hash": "e459aca8878c489e32b1417f0ad3fe470f7ec5aa852b4be3d8a3e77e34a0a749",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-13T09:04:46.257000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-13-how-ready-we-are-for.md",
+  "source_sha256": "dd6e4b584fffaf36bc1e3affbffcf431f7df40a977d2530fc7557decefc88e5d",
+  "source_url": "https://www.linkedin.com/posts/olgasi_how-ready-we-are-for-a-new-reality-how-activity-7438148037539041280-tq9T"
+}

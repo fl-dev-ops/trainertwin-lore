@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-06-08-the-worst-time-or-the-md-d55c96e053-4d2d515ee2a6d9d1.jsonl",
+  "external_id": "3914784130286347760",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:11:15Z",
+  "metadata_hash": "4ec9d32fe34e6f372314dcf640c9f0966c0156fda2c437e8aa5b29b8b0d9d1e9",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-06-08T06:04:52Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2026-06-08-the-worst-time-or-the.md",
+  "source_sha256": "c09e68b898ad787c5115ff991de6485bf8293531c7ee0c441aaea03da7738702",
+  "source_url": "https://www.instagram.com/p/DZUG2zSDeXw/"
+}

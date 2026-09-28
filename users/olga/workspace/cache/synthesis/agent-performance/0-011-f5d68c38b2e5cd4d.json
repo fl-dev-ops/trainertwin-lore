@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is identified as a marketing activity, but the impact on agent performance is not detailed.",
+      "qualification": "The significance of cold calling for agent performance is assumed but not specifically analyzed.",
+      "support_ids": [
+        "linkedin-posts-2024-01-04-how-to-be-sussesful-with-md-9ea7169c93:c001:e001:5979f66c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The issue of client engagement is highlighted, suggesting that agents risk losing sales if they fail to build relationships, as competitors may step in.",
+      "qualification": "This is an observed belief rather than a verified outcome.",
+      "support_ids": [
+        "linkedin-posts-2024-01-22-my-clients-are-busy-i-md-84639aa094:c001:e002:140cc906"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents face the common objection from clients that products or services are too expensive.",
+      "qualification": "This is a widely noted observation, not linked to specific sales data or outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-01-16-this-training-was-a-special-md-0aaee2e815:c001:e001:38bc3423"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Failure to adequately handle rejections can impact sales performance, as it is a disliked aspect of the sales process.",
+      "qualification": "The evidence is self-reported and reflects a general sentiment rather than quantitative analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-01-17-i-know-you-hate-it-md-779f3c1f0c:c001:e002:263427cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Pre-handling objections by addressing common concerns early in interactions may improve sales outcomes.",
+      "qualification": "This is advisory and not directly supported by data.",
+      "support_ids": [
+        "linkedin-posts-2024-01-25-you-dont-have-to-handle-md-9d5e3d6d28:c001:e001:bc958129"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clarity in setting timelines for sales offers is emphasized as beneficial, although evidence of impact is absent.",
+      "qualification": "The focus is on the recommendation rather than demonstrating effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-01-29-timeline-and-motivation-timeline-md-55688967b7:c001:e001:f7b6f2b4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients may perceive agents as merely salespeople unless efforts are made to build trust and advisory relationships.",
+      "qualification": "The statement is observational, lacking empirical study support.",
+      "support_ids": [
+        "linkedin-posts-2024-01-23-how-to-become-a-trusted-md-ffb9afde45:c001:e002:ec36802c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The statement \"Numbers do not lie\" suggests using data to influence sales, although actual application specifics are unverified.",
+      "qualification": "The evidence is motivational without detailed analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-02-06-this-one-time-you-can-md-fe1810458a:c001:e002:e4dd2c50"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A real estate professional in Dubai almost considered abandoning their career but persisted to achieve success, evidenced by their plan to conduct a training session on cold calling and objection handling.",
+      "qualification": "This is a self-reported account and may not represent broader career trends.",
+      "support_ids": [
+        "linkedin-posts-2026-04-20-i-almost-gave-up-on-md-65c086757d:c001:e001:d9eff16f",
+        "linkedin-posts-2026-04-20-i-almost-gave-up-on-md-65c086757d:c001:e008:116bcec6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Just training is insufficient according to a reported observation; continued guidance and answers to questions are needed beyond initial training phases.",
+      "qualification": "This claim is not independently verified; it highlights complexity in learning processes.",
+      "support_ids": [
+        "linkedin-posts-2026-05-18-just-training-is-not-enough-md-bf403a903a:c001:e001:171ee8ce"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Achieving significant commission milestones in real estate is possible, as shown by a former coaching client's success in Dubai.",
+      "qualification": "These results are specific to an individual and may not be generalizable.",
+      "support_ids": [
+        "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888:c001:e001:dec79169"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The real estate professional is expanding their online presence by seeking experienced video editors to support long-form content creation for YouTube, highlighting a digital strategy for professional growth.",
+      "qualification": "This is a self-reported business strategy and might not reflect its effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2026-05-19-im-growing-my-youtube-channel-md-a97f68d121:c001:e001:dfda7d17"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal negotiation skills can direct tangible benefits, such as successfully reducing rental costs.",
+      "qualification": "The reported savings are specific and may not apply universally.",
+      "support_ids": [
+        "linkedin-posts-2026-05-26-i-negotiated-my-rent-down-md-1799d39385:c001:e001:2e18b6bc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Language skills can act as a barrier in job opportunities, as seen with difficulties faced in 2017 by an individual due to below-basic English skills.",
+      "qualification": "Reflects past experiences of a specific individual, not universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2026-06-02-being-born-in-a-small-md-d9cffbc50f:c001:e004:22288a56"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Career progress from a challenging background, such as being born during the end of the Communist regime, can be surprisingly significant, as self-reported by a professional now succeeding in real estate.",
+      "qualification": "This narrative is self-reported and could vary widely for others with similar backgrounds.",
+      "support_ids": [
+        "linkedin-posts-2026-06-02-being-born-in-a-small-md-d9cffbc50f:c001:e001:c15b4908"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Identifying the correct approach to sales processes is crucial, as vague responses can indicate lack of competence or readiness in job candidates.",
+      "qualification": "This insight is based on a single observation and should be cross-verified with broader data.",
+      "support_ids": [
+        "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:c001:e003:c77e761e"
+      ]
+    }
+  ]
+}

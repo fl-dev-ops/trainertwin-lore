@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "There are increasing opportunities for Russian-speaking candidates in Dubai, which was not anticipated five years ago.",
+      "qualification": "This is self-reported and thus unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-07-12-more-opportunities-for-russian-speaking-md-203885163d:c001:e001:66b3780a",
+        "linkedin-posts-2023-07-12-more-opportunities-for-russian-speaking-md-203885163d:c001:e002:d538362a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The belief system and environment significantly influence success as a new real estate agent.",
+      "qualification": "The evidence is based on advised perspectives, not empirical research.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e004:b341af71"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding the character traits of successful team members is advisable when assessing new roles.",
+      "qualification": "This is advice from a single source and not verified through multiple observations.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e005:56aeb732"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Skill development planning and growth opportunities are crucial points to address when joining a company.",
+      "qualification": "These are recommendations advised by the same speaker and are unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e007:3d9a95ab",
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e008:3b163e93"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Thinking on one's feet is a valued skill for real estate brokers, encompassing communication strategies with both sellers and buyers.",
+      "qualification": "This is derived from a self-reported training approach and not independently confirmed.",
+      "support_ids": [
+        "linkedin-posts-2023-07-19-thinking-on-your-feet-is-md-0b696be7f5:c001:e004:7114a4ba",
+        "linkedin-posts-2023-07-19-thinking-on-your-feet-is-md-0b696be7f5:c001:e005:79830b14"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rejection is framed as a myth, suggesting it is merely a response and not a failure, which helps set high performers apart.",
+      "qualification": "This perspective on rejection is observed from a single source and may not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2023-07-20-rejection-is-a-myth-consider-md-c6d7a21b56:c001:e001:564b2d0f",
+        "linkedin-posts-2023-07-20-rejection-is-a-myth-consider-md-c6d7a21b56:c001:e003:54d4e7f7"
+      ]
+    }
+  ]
+}

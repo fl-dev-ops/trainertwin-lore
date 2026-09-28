@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "On the 10th of September, I’m visiting Saudi Arabia for the first time.",
+      "statement": "I'm visiting Saudi Arabia for the first time.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I will attend the Cityscape Global Exhibition in Riyadh.",
+      "statement": "I will attend the Cityscape Global Exhibition in Riyadh.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "My goal is to feed my curiosity about the country and its upcoming changes in the real estate industry.",
+      "statement": "My goal is to feed my curiosity about the country and its upcoming changes in the real estate industry.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "to see if my training services can help them sell more and make more money.",
+      "statement": "My training services can help them sell more and make more money.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "advice",
+      "quote": "I would be grateful for your recommendations.",
+      "statement": "I would be grateful for your recommendations.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post outlining an upcoming professional visit and a request for recommendations."
+}

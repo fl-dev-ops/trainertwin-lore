@@ -1,0 +1,31 @@
+id: s25
+title: Clients are panicking - What the agent should do？
+date: '2026-03-22'
+source: Clients are panicking - What the agent should do？
+audio_file: Clients are panicking - What the agent should do？ [Lxana8aHjUs].mp3
+duration: "00:01:09"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 3
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    If you are already Dubai real estate agent or someone who still aspire despite what's going on to
+    relocate and start your career, seeing the current situation of March twenty twenty six as opportunity,
+    I am inviting you to join my Telegram community Strong in Sales where I teach and support Dubai agents
+    and if you never heard about me, my name is Olga Sienka and I'm selling Dubai real estate for eleven
+    years and overall, I'm selling
+- t: "00:00:30"
+  speaker: '1'
+  text: >-
+    for twenty-six years in different countries. But it's not about me, it's about you. It's about how
+    to use the current situation to the best of it. What do you want to say? It's not to become a predator
+    who is leveraging on poor sellers and buyers. As my community is how to become a supportive pillar
+    on to buy real estate market, someone who
+- t: "00:01:00"
+  speaker: '1'
+  text: >-
+    will stay last and become a top agent as soon as the market bounces back. So see you in my community.

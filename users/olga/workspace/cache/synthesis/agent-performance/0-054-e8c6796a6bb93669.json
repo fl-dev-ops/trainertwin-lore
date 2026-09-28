@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales processes can increase client resistance because the client recognizes they are being sold to.",
+      "qualification": "The evidence is based on observed behavior and self-reported belief, which may not reflect all client experiences.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e001:26754aaf",
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e002:2bbe62a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales interactions that involve discussions about money can create a dramatic shift in client engagement.",
+      "qualification": "The observation highlights potential shifts in engagement but lacks broader empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e004:17a81267"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence and resilience through frustration and disappointment are considered key traits for success in real estate.",
+      "qualification": "This advice is generalized and may not apply to all individuals or situations.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s162-yaml-c5741d35b5:c001:e001:2f4ef33b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales interactions that prioritize client responsibility in decision-making can be more effective.",
+      "qualification": "While observed, this strategy may vary in effectiveness across different contexts and client personalities.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e002:9d5f2960"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Coaching programs are self-reported to be beneficial in handling difficult clients in sales.",
+      "qualification": "The claim is self-reported and lacks independent verification or broader study support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s166-yaml-0ee5d71a27:c001:e001:1b283e77"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Results in real estate are typically seen after sustained effort, with variability in timing.",
+      "qualification": "The evidence is self-reported and experiential, which may not generalize to all agents or markets.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s167-yaml-c297e423eb:c001:e002:24597360",
+        "youtube-shorts-run-transcripts-s167-yaml-c297e423eb:c001:e004:6908d0e0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging clients in conversation correlates with better meeting attendance rates.",
+      "qualification": "This finding is observed but may depend on specific techniques used and client responsiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s168-yaml-8e1275b229:c001:e002:cb436b2b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Challenging sales environments can be perceived positively as a catalyst for professional growth.",
+      "qualification": "This is context-dependent and based on individual perception rather than a universal standard.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e006:6d38e10c"
+      ]
+    }
+  ]
+}

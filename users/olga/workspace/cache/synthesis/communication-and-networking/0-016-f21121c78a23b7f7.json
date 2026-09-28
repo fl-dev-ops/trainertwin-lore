@@ -1,0 +1,54 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Client engagement increases when curiosity is expressed during conversations.",
+      "qualification": "The practical impact of this strategy in diverse situations is not verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e003:5b43ca1a",
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e004:75472f3d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Limiting marketing content to two pages may enhance its effectiveness in communication.",
+      "qualification": "The optimal length for marketing materials can vary by context and this is self-reported advice.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s192-yaml-8070fa253e:c001:e002:7706adf8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Before and after comparisons can be useful in improving client engagement.",
+      "qualification": "The assertion is based on self-reported experiences without independent validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s200-yaml-483c6ff175:c001:e003:861e3bd8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Telegram can be employed effectively to build and support a community of sales agents.",
+      "qualification": "The scope of success relies on user engagement levels, which is unverified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s25-yaml-565459b188:c001:e002:6a716637",
+        "youtube-shorts-run-transcripts-s35-yaml-de8e81409c:c001:e003:c9b829f0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using a quiz interaction tool in Instagram stories is suggested for enhancing audience interaction.",
+      "qualification": "Effectiveness is not backed by quantitative data or independent studies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s30-yaml-acc646e31b:c001:e003:326e4514"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Winning an argument may undermine the decision-making confidence of others involved.",
+      "qualification": "Reported impact but lacks context and substantiation from multiple accounts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s41-yaml-217124ee0a:c001:e004:a4df9102"
+      ]
+    }
+  ]
+}

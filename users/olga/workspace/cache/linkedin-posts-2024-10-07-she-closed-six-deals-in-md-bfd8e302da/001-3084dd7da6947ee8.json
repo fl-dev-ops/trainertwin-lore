@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "She closed six deals in a 1 week!",
+      "statement": "She closed six deals in a 1 week!",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the return on my client’s investment in my private coaching program was 4,054%?",
+      "statement": "the return on my client’s investment in my private coaching program was 4,054%",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "she earned 270,000 AED directly into her own pocket.",
+      "statement": "she earned 270,000 AED directly into her own pocket",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Leave your guess in the comments, and I’ll share exactly what she did—and how you can apply this to your own sales strategy.",
+      "statement": "Leave your guess in the comments, and I’ll share exactly what she did",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "I’ll film a video explaining the key insight that transformed her business and led to this breakthrough.",
+      "statement": "I’ll film a video explaining the key insight that transformed her business",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A LinkedIn post discussing a coaching success story in sales."
+}

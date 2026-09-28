@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "No one saw your effort. That doesn’t mean it didn’t matter.",
+      "statement": "No one saw your effort. That doesn’t mean it didn’t matter.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "For me, a good day looks like this: ☕ 10 quiet minutes alone with coffee, no notifications 📝 Writing something just for reflection — like this post",
+      "statement": "For me, a good day looks like this: ☕ 10 quiet minutes alone with coffee, no notifications 📝 Writing something just for reflection — like this post",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Whatever it is — I hope you give yourself that gift today.",
+      "statement": "I hope you give yourself that gift today.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "✅ Finishing one small thing I usually postpone That’s it. That’s enough. That’s progress.",
+      "statement": "Finishing one small thing I usually postpone is enough for progress.",
+      "topic": "self-assessment",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing personal effort and self-recognition."
+}

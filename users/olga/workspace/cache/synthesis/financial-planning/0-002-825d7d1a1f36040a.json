@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate firms in Dubai sometimes refuse to release commissions to their agents, utilizing threats or excuses to delay payments.",
+      "qualification": "This is self-reported by a LinkedIn user, and not independently confirmed.",
+      "support_ids": [
+        "linkedin-posts-2025-09-26-i-need-the-help-of-md-f0bdbd23e8:c001:e001:9a89c082"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Businesses can generate significant revenues from existing leads, as evidenced by a Dubai firm claiming AED 1.8M in revenue from leads they already owned.",
+      "qualification": "The claim is observed, not independently verified, and lacks context regarding how revenue was calculated.",
+      "support_ids": [
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e005:587b5056"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "B2B startups in Dubai face challenges such as short-term client engagements and changes in key personnel without budget sign-off.",
+      "qualification": "The statements are observed, not verified, and reflect challenges specific to the industry.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e001:90461c83",
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e002:44c8f2c2",
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e003:43256ade"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "B2C business models in Dubai prop-tech typically involve many free users who disengage quickly, leading to temporary revenue boosts followed by cancellations.",
+      "qualification": "The observation is anecdotal and reflects common patterns in app-based services.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e004:83753952"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In Dubai, having savings for living expenses over six months is recommended, especially for individuals moving without income prospects.",
+      "qualification": "The advice is self-reported and suggests personal finance strategies rather than verified models.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s109-yaml-a8e193ad76:c001:e005:5a135cfa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients should be approached with inquiries about their funding access over the next few years rather than just current budget constraints.",
+      "qualification": "Advice for improving client relationships, self-reported on YouTube.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s131-yaml-4d82fee088:c001:e004:052a8029"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Purchasing property in Dubai is seen as buying future financial freedom rather than just acquiring real estate.",
+      "qualification": "This perspective is presented as motivational advice rather than an empirically discussed financial strategy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s134-yaml-daeeceba6d:c001:e004:21f19240"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A proposed commission structure where agents offer a 50% split to mentors can facilitate training opportunities in the Dubai real estate market.",
+      "qualification": "This strategy is advised in a YouTube video and may not universally apply across different brokerage firms.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s191-yaml-2abe4e4644:c001:e002:fcfcb972"
+      ]
+    }
+  ]
+}

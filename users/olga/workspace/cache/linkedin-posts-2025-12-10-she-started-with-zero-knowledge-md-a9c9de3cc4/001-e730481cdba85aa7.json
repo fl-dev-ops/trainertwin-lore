@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "She started with zero knowledge in August. 🦾No sales experience 👨🏻‍🌾No real estate experience...",
+      "statement": "She started with zero knowledge in August.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "But instead of repeating all the classic newbie mistakes, she plugged into a structured coaching process and did things differently.",
+      "statement": "She plugged into a structured coaching process and did things differently.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If you’re a new or struggling agent in Dubai, watch the recording, take notes and start fixing the exact mistakes that are costing you deals right now.",
+      "statement": "Watch the recording, take notes and start fixing the exact mistakes that are costing you deals right now.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "...the same questions you probably have as well and which are quietly: • stopping you from closing deals • making you lose clients you could have helped...",
+      "statement": "The questions you probably have are stopping you from closing deals and making you lose clients.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post about a new agent's journey in real estate."
+}

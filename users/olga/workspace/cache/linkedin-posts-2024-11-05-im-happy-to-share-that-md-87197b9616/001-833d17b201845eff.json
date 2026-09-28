@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I’m happy to share that I’m starting a new position as Head of Performance and Training at Chestertons MENA!",
+      "statement": "I'm starting a new position as Head of Performance and Training at Chestertons MENA!",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "If you have been following me for a while and want to be trained by me you can as well comment below!",
+      "statement": "If you have been following me for a while and want to be trained by me you can... comment below!",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Announcement of new job position on LinkedIn."
+}

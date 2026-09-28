@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market offers substantial tax-free benefits for investors, providing a significant financial advantage.",
+      "qualification": "This is a self-reported assertion without external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-04-28-next-monday-ill-be-teaching-md-ee29d3c5cc:c001:e004:1b60c29f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Access to a large international market is an advantage for Dubai, with 1 billion potential buyers within a 6-hour flight radius.",
+      "qualification": "The statement is self-reported and has not been independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-04-28-next-monday-ill-be-teaching-md-ee29d3c5cc:c001:e003:54561604"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai real estate is marketed as offering risk-free passive income opportunities, even with relatively low investment amounts.",
+      "qualification": "The risk-free nature of the income is claimed by the source without independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2023-05-02-a-great-first-step-towards-md-24f75f60bb:c001:e003:982b9874"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Build an online presence is considered vital for personal and professional growth, as it encourages learning and content creation.",
+      "qualification": "This claim is presented as advice and lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2023-05-17-in-2023-if-you-do-md-21dcdfea7b:c001:e003:dbbe69b5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a belief in the real estate industry that companies possess secret stashes of high-quality leads, though this view may carry stigma.",
+      "qualification": "The belief is self-reported and may not reflect broader consensus.",
+      "support_ids": [
+        "linkedin-posts-2023-05-26-the-hunt-for-high-quality-leads-md-ce53a957bd:c001:e002:cd6b7768"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real Estate in Dubai is marketed as having unlimited earning potential, contingent upon individual and market factors.",
+      "qualification": "The claim is promotional and lacks data verification.",
+      "support_ids": [
+        "linkedin-posts-2023-06-20-can-you-recommend-a-good-md-2e602f88fb:c001:e002:47b50094"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Decision-making criteria for joining a real estate company should extend beyond commission splits, focusing on broader team and business indicators.",
+      "qualification": "Advice is subjective and not backed by quantitative data.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e003:a6bf1893"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Evaluating a company's business model and lead sources is crucial for success in real estate.",
+      "qualification": "The statement is prescriptive advice without empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e006:a920b860"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I gave it a try. This is already the 10th roast ChatGPT gave me… and honestly, I expected something way more brutal.",
+      "statement": "I gave it a try. This is already the 10th roast ChatGPT gave me… and honestly, I expected something way more brutal.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "In short: I look like the first person who actually needs a sales training — but somehow still ends up running the whole training academy.",
+      "statement": "In short: I look like the first person who actually needs a sales training — but somehow still ends up running the whole training academy.",
+      "topic": "personal reflection",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing a trend of using ChatGPT for profile picture roasts."
+}

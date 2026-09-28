@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Each and every communication with your client should end with agreeing on the next.",
+      "statement": "Each communication with the client should end with agreeing on the next step.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "If the buyer thinks that whatever solution you provide will solve his problem, only then the sale will happen.",
+      "statement": "The sale will happen only if the buyer thinks the solution provided will solve their problem.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "What makes them feel that the way the money is working now is not enough anymore?",
+      "statement": "Clients want to invest money when they feel the current management of their money is inadequate.",
+      "topic": "client motivation",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The logical explanation where the property monitor statistics and whatever DXB interact statistics not going to work.",
+      "statement": "Logical explanations about property market statistics are not sufficient for convincing buyers.",
+      "topic": "sales data relevance",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript from a YouTube short discussing off-plan sales process and client communication in real estate."
+}

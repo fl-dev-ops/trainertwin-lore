@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "you yourself have the same excuses when you need to take action.",
+      "statement": "Salespeople project their own excuses onto clients, believing them to be valid.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "That he should think it over? Needs to discuss it with his family... Or the project is too expensive?",
+      "statement": "Clients often have valid concerns or excuses when delaying decisions.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "The reality is—the client has a problem; he was looking for a solution.",
+      "statement": "Clients have problems they are seeking solutions for, which they sometimes remain stuck on.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "You believe that your excuses are valid—so do the clients.",
+      "statement": "Sales professionals may fail to take action due to self-limiting beliefs similar to those of their clients.",
+      "topic": "decision-making",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "he is not buying from you—so he will stay with his problem, and his situation will not change.",
+      "statement": "Clients who do not make a decision will continue to face their problems unchanged.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A reflective LinkedIn post exploring the mindset of sales professionals and their clients."
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "you want them to be excited not suspicious so be real with them highlight the good things but also highlight the not so perfect.",
+      "statement": "Highlight the good things but also highlight the not so perfect.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "When you are up front about the pros and cons you're building the trust and the trust well that's how you close the deal right?",
+      "statement": "Being upfront about the pros and cons builds trust.",
+      "topic": "trust building",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A transcript from a YouTube short discussing real estate success and building trust with clients."
+}

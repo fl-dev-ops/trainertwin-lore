@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Aggressive objection handling in sales should be avoided. Instead, a mindset shift towards removing sales resistance is recommended.",
+      "qualification": "Advice may be broadly useful, but is not verified with specific outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6:c001:e003:55a62130"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In sales, making 150 dials a day is considered an intensive effort towards achieving realistic expectations for a first commission within 3 to 6 months.",
+      "qualification": "The measure of 'realistic expectations' and 'intensive effort' are not independently verified and rely on the context of the industry.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-3-to-6-months-realistic-md-8d0ca6b52f:c001:e001:d8d8a44b",
+        "linkedin-posts-2024-09-18-3-to-6-months-realistic-md-8d0ca6b52f:c001:e002:e91a4ec0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using the word \"BUT\" when overcoming objections is discouraged, as it might project a negative or adversarial stance in sales communications.",
+      "qualification": "Recommendation is based on reported advice and lacks corroborative data on effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e001:20622477"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A personal approach such as \"Clarify, Discuss, Diffuse\" is used to handle objections, advocating for a structured objection-handling process.",
+      "qualification": "This is self-reported advice, and no evidence is provided of its efficacy.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e003:d7a99fe8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling vague responses is a common challenge in negotiations, requiring skills beyond basic response.",
+      "qualification": "The observation is not supported by detailed examples or solutions.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e006:df39531f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients who express generic intentions like 'I just want to invest' should be probed for specific motivations to reveal underlying needs or interests.",
+      "qualification": "Strategies for deeper insight are suggested but not backed by specific results or case studies.",
+      "support_ids": [
+        "linkedin-posts-2024-09-24-if-he-is-saying-md-89d6d012c4:c001:e001:2914f058",
+        "linkedin-posts-2024-09-24-if-he-is-saying-md-89d6d012c4:c001:e003:7eb1eb16"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "'Reels' can attract potential clients, while 'Stories' may be more effective at closing deals in online lead generation.",
+      "qualification": "This strategy reflects a popular sentiment on social media marketing techniques but lacks empirical evidence of broader success.",
+      "support_ids": [
+        "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75:c001:e001:7512cd86"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective handling of objections involves clarifying concerns and reducing any related anxieties that prospects may have.",
+      "qualification": "While the advice on objection handling seems logical, it is not supported by data or specific successful case studies.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e004:3dcd0a37"
+      ]
+    }
+  ]
+}

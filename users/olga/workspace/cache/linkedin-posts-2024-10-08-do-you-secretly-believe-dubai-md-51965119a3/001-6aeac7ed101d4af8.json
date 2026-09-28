@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Do you secretly believe Dubai property prices are too expensive?",
+      "statement": "Belief that Dubai property prices may be too expensive can hinder overcoming objections in sales.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "is this belief built on facts or just a gut feeling?",
+      "statement": "To overcome objections, clarify if beliefs are based on facts or gut feelings.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Once you clarify it for yourself, you'll be able to shift your perspective—and your clients’ too.",
+      "statement": "Clarifying personal beliefs can help shift perspectives in client interactions.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "So, what objection has you tripping up the most? Share your “favorite” objection below.",
+      "statement": "Encourages readers to share their most challenging objections in the comments.",
+      "topic": "sales resistance",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This is a LinkedIn post discussing beliefs about Dubai property prices and their impact on sales objections."
+}

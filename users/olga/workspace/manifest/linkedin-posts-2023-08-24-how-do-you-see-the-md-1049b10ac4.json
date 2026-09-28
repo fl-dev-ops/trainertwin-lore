@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-08-24-how-do-you-see-the-md-1049b10ac4-2416c38065bd93d6.jsonl",
+  "external_id": "7100427738573864960",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:14:55Z",
+  "metadata_hash": "ef8dca9f6eab8a666800c92747e4404b525473f3251130be7b21f60ff5b2712c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-24T10:44:52.444000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-24-how-do-you-see-the.md",
+  "source_sha256": "0ba4de88700f77b78b0dbc0a3debff6ab75255e8c650e362d7cc982b02af0607",
+  "source_url": "https://www.linkedin.com/posts/olgasi_careerprogression-salesprofessionals-realestateadvice-activity-7100427738573864960-kWhP"
+}

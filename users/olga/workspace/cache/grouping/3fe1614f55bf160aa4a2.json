@@ -1,0 +1,109 @@
+{
+  "groups": [
+    {
+      "name": "Public Speaking Skills",
+      "topics": [
+        "public-speaking"
+      ]
+    },
+    {
+      "name": "Qualifications & Hiring",
+      "topics": [
+        "qualifications",
+        "recruitment",
+        "recruitment-initiative"
+      ]
+    },
+    {
+      "name": "Questioning Techniques",
+      "topics": [
+        "questioning",
+        "questioning-technique",
+        "questioning-techniques"
+      ]
+    },
+    {
+      "name": "Real Estate Insights",
+      "topics": [
+        "real-estate-course",
+        "real-estate-engagement",
+        "real-estate-investment",
+        "real-estate-performance",
+        "real-estate-potential",
+        "real-estate-process",
+        "real-estate-services"
+      ]
+    },
+    {
+      "name": "Self-Reflection & Growth",
+      "topics": [
+        "reflection",
+        "regrets"
+      ]
+    },
+    {
+      "name": "Sales Dynamics",
+      "topics": [
+        "rejection-handling",
+        "rejection-in-sales",
+        "resistance-in-sales",
+        "responsibility-in-sales"
+      ]
+    },
+    {
+      "name": "Resume Strategies",
+      "topics": [
+        "resume-distribution",
+        "resume-tailoring"
+      ]
+    },
+    {
+      "name": "Investment Returns",
+      "topics": [
+        "return-on-investment",
+        "revenue-generation"
+      ]
+    },
+    {
+      "name": "Social Dynamics & Relationships",
+      "topics": [
+        "rich-vs-wealthy",
+        "role-model-significance"
+      ]
+    },
+    {
+      "name": "Infrastructure Development",
+      "topics": [
+        "road-capacity",
+        "road-connectivity"
+      ]
+    },
+    {
+      "name": "Role-Playing in Training",
+      "topics": [
+        "role-play-strategy",
+        "role-playing",
+        "role-positioning"
+      ]
+    },
+    {
+      "name": "Regional Tensions",
+      "topics": [
+        "regional-conflicts",
+        "regional-tensions"
+      ]
+    },
+    {
+      "name": "relocation-process",
+      "topics": [
+        "relocation-process"
+      ]
+    },
+    {
+      "name": "response-quality",
+      "topics": [
+        "response-quality"
+      ]
+    }
+  ]
+}

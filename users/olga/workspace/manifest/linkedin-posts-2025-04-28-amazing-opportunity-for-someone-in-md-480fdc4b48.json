@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-04-28-amazing-opportunity-for-someone-in-md-480fdc4b48-510302ab9f7faf98.jsonl",
+  "external_id": "7322624184965050369",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:57:30Z",
+  "metadata_hash": "0a7bdf08fcea19684be18b342f722453fd8d33ddfd6282624f39223c03140241",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-28T14:14:13.474000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-28-amazing-opportunity-for-someone-in.md",
+  "source_sha256": "ec524833e25a5e72ddef2de3a6bd389fef6b0887d42844d38ffa9b05112cee4f",
+  "source_url": "https://www.linkedin.com/posts/olgasi_hiring-personal-assistant-real-estate-activity-7322624184965050369-YUg6"
+}

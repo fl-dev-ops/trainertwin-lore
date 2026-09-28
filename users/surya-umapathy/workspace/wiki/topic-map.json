@@ -1,0 +1,26 @@
+{
+  "mapping": {
+    "ai-development-focus": "ai-development",
+    "company-profile": "personal-and-professional-profiles",
+    "education": "education",
+    "educational-program": "education",
+    "employment": "personal-and-professional-profiles",
+    "location": "personal-and-professional-profiles",
+    "model-behavior-diversity": "ai-development",
+    "model-fidelity": "ai-development",
+    "model-flexibility": "ai-development",
+    "model-format": "ai-development",
+    "model-improvement": "ai-development",
+    "model-limitations": "ai-development",
+    "model-speed": "ai-development",
+    "model-testing": "ai-development",
+    "modeling-strategy": "ai-development",
+    "online_presence": "personal-and-professional-profiles",
+    "post": "social-media-and-posts",
+    "profile_picture": "personal-and-professional-profiles",
+    "skills": "professional-experience-and-skills",
+    "work-experience": "professional-experience-and-skills",
+    "work_experience": "professional-experience-and-skills"
+  },
+  "signature": "6d55f5d686c3b37da517b88f1a22ec4c6dc119df9c83597e596b8f1d3e9f3fa0"
+}

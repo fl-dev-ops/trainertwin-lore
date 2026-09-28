@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a-00049a8e4a575428.jsonl",
+  "external_id": "7081134402235228160",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:13:00Z",
+  "metadata_hash": "bc95027744cd89c4849cb87343467529f50c543ead1dcb3226c44d3c8a720e81",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-02T05:00:02.608000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-02-what-is-the-difference-between.md",
+  "source_sha256": "8d1aa047aeaeb02b51fd8a6b97f10c6a4725829e1c8c3e6577b253a1ce579650",
+  "source_url": "https://www.linkedin.com/posts/olgasi_what-is-the-difference-between-90-of-agents-activity-7081134402235228160-fgqU"
+}

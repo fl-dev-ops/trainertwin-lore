@@ -1,0 +1,94 @@
+{
+  "groups": [
+    {
+      "name": "Financial Investment",
+      "topics": [
+        "financial-investment-in-skills",
+        "financial-outcomes",
+        "financial-preparation",
+        "financial-options",
+        "financial-waste"
+      ]
+    },
+    {
+      "name": "Financial Mindset and Planning",
+      "topics": [
+        "financial-mindset",
+        "financial-qualification",
+        "future-funding",
+        "future-planning",
+        "future-uncertainty"
+      ]
+    },
+    {
+      "name": "Focus and Goals",
+      "topics": [
+        "focus",
+        "goal-setting",
+        "goal-setting-approach",
+        "goals-in-sales"
+      ]
+    },
+    {
+      "name": "Government and Governance",
+      "topics": [
+        "government-response",
+        "government-satisfaction",
+        "government-transparency",
+        "governance-views"
+      ]
+    },
+    {
+      "name": "Growth and Opportunities",
+      "topics": [
+        "growth-opportunity",
+        "guidance"
+      ]
+    },
+    {
+      "name": "Client Engagement",
+      "topics": [
+        "follow-up-strategy",
+        "hiring-criteria",
+        "hiring-decision",
+        "hiring-strategy"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "topics": [
+        "food-experience",
+        "freedom",
+        "holiday-wishes",
+        "future-guest-speculation",
+        "future-outlook",
+        "global-visibility",
+        "gratitude"
+      ]
+    },
+    {
+      "name": "human-capital",
+      "topics": [
+        "human-capital"
+      ]
+    },
+    {
+      "name": "future-careers",
+      "topics": [
+        "future-careers"
+      ]
+    },
+    {
+      "name": "focus-group-involvement",
+      "topics": [
+        "focus-group-involvement"
+      ]
+    },
+    {
+      "name": "hashtags",
+      "topics": [
+        "hashtags"
+      ]
+    }
+  ]
+}

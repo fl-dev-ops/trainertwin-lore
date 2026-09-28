@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-01-19-why-i-never-tell-clients-md-febe7fd2df-d81100b959217bbb.jsonl",
+  "external_id": "7418868628785283072",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:03:24Z",
+  "metadata_hash": "2fa7a94a490033f63a40037da6cfd573372713ccf997517c4b88946dbec8e7fa",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-01-19T04:15:17.016000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-01-19-why-i-never-tell-clients.md",
+  "source_sha256": "891b41890e06f79eb0d841dd80423375a7ad08fff89ddf83e822a764dfb3331c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesales-salestraining-dubairealestate-activity-7418868628785283072-1kC5"
+}

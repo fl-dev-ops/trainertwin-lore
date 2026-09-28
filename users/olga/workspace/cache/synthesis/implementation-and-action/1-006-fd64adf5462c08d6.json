@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A follow-up formula is used to position oneself as the obvious next step in the sales process, indicating an approach to direct customer interactions.",
+      "qualification": "This finding is based on self-reported information and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-05-14-how-to-follow-up-with-md-8866d75461:c001:e003:d1bb41ad"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building trust and communication with clients both online and offline is a focus in sales training, suggesting an emphasis on relationship-building skills.",
+      "qualification": "Advice is consistent with broader sales training practices, yet how it's uniquely implemented is not detailed.",
+      "support_ids": [
+        "linkedin-posts-2025-05-22-not-just-training-a-real-md-7721cb4552:c001:e003:bdc74808"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Misconceptions such as 'properties sell themselves in Dubai' can negatively impact sales, indicating a need for correcting false beliefs in sales training.",
+      "qualification": "The statement highlights a common pitfall but does not address how prevalent or impactful such misconceptions are.",
+      "support_ids": [
+        "linkedin-posts-2025-05-29-me-and-ashley-james-hawthorne-we-md-47e71f8489:c001:e002:9379e95b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A sales agent training script reportedly helps in booking serious Zoom calls, a tool to enhance digital communication strategies.",
+      "qualification": "Effectiveness is implied but lacks concrete evidence or case studies.",
+      "support_ids": [
+        "linkedin-posts-2025-05-14-just-send-me-some-options-md-1035a8c195:c001:e004:64405c3d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales processes often involve clients desiring distressed deals, which presents significant hurdles in negotiation strategies.",
+      "qualification": "Client desires can add complexity to negotiations, requiring tailored sales strategies.",
+      "support_ids": [
+        "linkedin-posts-2025-07-03-i-just-want-a-distressed-md-c5f37a475b:c001:e001:e22afb48"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There are no perfect leads, necessitating proactive clarity and understanding through client conversations.",
+      "qualification": "Lead imperfection demands strategic client communication to uncover true priorities and fears.",
+      "support_ids": [
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e001:d0795f83",
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e003:5823b6f9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Addressing buyers' doubts and fears is vital in decision-making processes.",
+      "qualification": "This insight comes from self-reported experience, lacking independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-08-21-first-i-want-you-to-md-f179197d31:c001:e003:c176418a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Commitment to 300 dials a day can build sales confidence, with reports of improved performance.",
+      "qualification": "The efficacy is claimed from a case study of one individual, meaning broader applicability is unknown.",
+      "support_ids": [
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e002:82eb925e",
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e003:142041a2"
+      ]
+    }
+  ]
+}

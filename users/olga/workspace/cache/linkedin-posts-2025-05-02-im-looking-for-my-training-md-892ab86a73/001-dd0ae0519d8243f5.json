@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I’m looking for my Training Coordinator! Salary: AED 8,000 – 12,000 (depending on skill level and experience) If you’re highly organised, detail-oriented, and passionate about training and real estate — this is your chance to work directly with me and grow your career in Learning & Development.",
+      "statement": "I’m looking for my Training Coordinator! Salary: AED 8,000 – 12,000 (depending on skill level and experience)",
+      "topic": "job listing",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Only applications with Video intro will be reviewed! Or share this post with someone who would be the perfect fit!",
+      "statement": "Only applications with Video intro will be reviewed!",
+      "topic": "application process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "What you’ll be doing: Organising and coordinating training sessions and onboarding. Managing training calendars and participant lists.",
+      "statement": "Organising and coordinating training sessions and onboarding. Managing training calendars and participant lists.",
+      "topic": "job responsibilities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "What I’m looking for: Experience in real estate (UAE market). Advanced skills in Google Workspace & Excel. Confident with AI tools (ChatGPT) and basic video editing.",
+      "statement": "Experience in real estate (UAE market). Advanced skills in Google Workspace & Excel. Confident with AI tools (ChatGPT) and basic video editing.",
+      "topic": "job qualifications",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "What you’ll get: Direct mentorship from me.",
+      "statement": "Direct mentorship from me.",
+      "topic": "mentorship",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Opportunity to grow into coaching or Learning & Development roles.",
+      "statement": "Opportunity to grow into coaching or Learning & Development roles.",
+      "topic": "growth opportunity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "A dynamic, growth-oriented environment.",
+      "statement": "A dynamic, growth-oriented environment.",
+      "topic": "work environment",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Job listing for a Training Coordinator in Learning & Development."
+}

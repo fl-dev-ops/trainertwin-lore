@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-06-26-private-mentorship-with-me-looks-md-eee222389d-2785d5d23efc52dc.jsonl",
+  "external_id": "7211571445963902976",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:28:16Z",
+  "metadata_hash": "7518cded36e078a176d3057ac64aba92504acbfde958b409eb7f7f6eda734772",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-06-26T03:30:17.236000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-06-26-private-mentorship-with-me-looks.md",
+  "source_sha256": "53dfc6d33545d03a0da7a57ea2cd9799ec78d76b3f01da57b2d71ef68e9140db",
+  "source_url": "https://www.linkedin.com/posts/olgasi_saleacoach-realestatetraining-dubairealestate-activity-7211571445963902976-qEQi"
+}

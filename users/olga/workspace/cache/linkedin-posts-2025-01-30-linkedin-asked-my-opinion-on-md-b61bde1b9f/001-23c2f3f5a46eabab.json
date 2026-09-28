@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "So, while some people see just a train, I see a blueprint for the next phase of real estate expansion in the UAE.",
+      "statement": "I see Etihad Rail as a blueprint for the next phase of real estate expansion in the UAE.",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "we’re looking at previously untapped areas becoming prime real estate hotspots.",
+      "statement": "New connectivity across the UAE will create prime real estate hotspots.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Less traffic in central areas? Yes, please. More affordable housing options? Finally.",
+      "statement": "Etihad Rail may result in less traffic in central areas and more affordable housing options.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "It opens doors (and tracks) to new workforce hubs, suburban communities.",
+      "statement": "Etihad Rail opens doors to new workforce hubs and suburban communities.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "For years, certain parts of the UAE have been off the radar simply because getting there was a logistical nightmare.",
+      "statement": "Certain parts of the UAE have previously been neglected due to logistical challenges.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing the impact of Etihad Rail on real estate trends in the UAE."
+}

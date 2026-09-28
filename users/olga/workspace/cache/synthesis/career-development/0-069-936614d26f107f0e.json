@@ -1,0 +1,63 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are considered valuable for career development, but lack empirical evidence.",
+      "qualification": "This finding is based on self-reported data, which may not represent a broad perspective.",
+      "support_ids": [
+        "linkedin-posts-2026-06-02-being-born-in-a-small-md-d9cffbc50f:c001:e006:4239b0b8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real coaching might be superior to self-help resources like YouTube for career growth, particularly when self-help approaches leave individuals at 'zero'.",
+      "qualification": "This is based on self-reported experience, without empirical validation, and may not apply universally.",
+      "support_ids": [
+        "linkedin-posts-2026-06-15-1-that-was-the-md-88aee1b67b:c001:e006:b1eaede9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is crucial for career progression.",
+      "qualification": "This conclusion is based on advice and self-reported effectiveness rather than on large-scale empirical research.",
+      "support_ids": [
+        "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb:c001:e004:98eb1fcf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is frustration in client engagement, where many interactions result in silence or non-commitment.",
+      "qualification": "The evidence comes from self-reported experiences and lacks external validation or broader engagement statistics.",
+      "support_ids": [
+        "linkedin-posts-2026-06-15-1-that-was-the-md-88aee1b67b:c001:e004:a8804873",
+        "linkedin-posts-2026-08-09-why-the-clients-do-not-md-d7ecb814a8:c001:e001:1668a036"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reflections and personal growth contribute to career development.",
+      "qualification": "This is a self-reported observation and may not apply to all individuals seeking career growth.",
+      "support_ids": [
+        "linkedin-posts-2026-07-13-in-20-years-you-would-md-07336225bc:c001:e001:7cf964f1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Confidence and presenting value can influence client interactions though personal claims can be a turn-off.",
+      "qualification": "The findings are anecdotal and based on hypothetical claims without empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57:c001:e004:c13ed233",
+        "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57:c001:e002:cc99db4c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using interactive questioning can enhance client communication and engagement.",
+      "qualification": "Such strategies are self-reported and advised rather than empirically investigated.",
+      "support_ids": [
+        "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb:c001:e003:0f20958e",
+        "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb:c001:e004:98eb1fcf"
+      ]
+    }
+  ]
+}

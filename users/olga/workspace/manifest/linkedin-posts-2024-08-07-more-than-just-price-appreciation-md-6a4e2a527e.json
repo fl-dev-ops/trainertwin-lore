@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2024-08-07-more-than-just-price-appreciation-md-6a4e2a527e-9f053d8bd95a8270.jsonl",
+  "external_id": "7226946445533147137",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:29:23Z",
+  "metadata_hash": "e02daaaccbd517511399007a499f6768a0ed26c4dbfb9e45b578e4ddf5aac871",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-08-07T13:45:02.787000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-08-07-more-than-just-price-appreciation.md",
+  "source_sha256": "d115aca3bf5c23b54b3f099d29dcaed5ce489f26df618bfaee6136ced98034ee",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubaigrowth-realestate-investment-activity-7226946445533147137-hlOU"
+}

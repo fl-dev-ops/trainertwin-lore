@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Open-ended questions are encouraged in client communication strategies to promote reflection.",
+      "qualification": "The strategy is suggested in the context of sales techniques and may not have universal applicability outside real estate.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s83-yaml-6c61620fd4:c001:e003:9c18b43f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement via Telegram communities includes interactive features like weekly live Q&A sessions.",
+      "qualification": "The effectiveness and user engagement metrics for such communities are not provided.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s89-yaml-9311c8ce18:c001:e002:953d8e30"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Advice to real estate agents includes visiting areas to talk to residents and gather insights, suggesting direct communication can support market understanding.",
+      "qualification": "This is a practical strategy but lacks detailed evidence on outcomes or broader application beyond real estate.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s90-yaml-d710f8f5c8:c001:e003:e2740544"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Neuroemotional persuasion techniques are recommended for clients to self-identify financial limitations.",
+      "qualification": "The effectiveness of these techniques requires further validation, and may not be applicable universally in different sales contexts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s92-yaml-aebc34d786:c001:e002:849bbc13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Successful agents are seen as authoritative by asking challenging questions, which positions them as experts in their field.",
+      "qualification": "This is self-reported advice; independent validation is missing. Methods on how to develop this skill are not included.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e005:e4e259ff"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents are advised to enter conversations with potential buyers or sellers maintaining equal or higher status to enhance engagement leverage.",
+      "qualification": "While this advice is given as a strategic move, its effectiveness or validation from independent sources is lacking.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e004:61824da4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Questions are seen as a key tool in determining buyer confidence and stimulating meetings during real estate negotiations.",
+      "qualification": "This evidence reflects a transactional context; broader applicability across different sales domains is not assured.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s94-yaml-d36c8c65d2:c001:e002:563b5c8b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Shifting seller perspectives using strategic questions can facilitate the negotiation process.",
+      "qualification": "Unverified effectiveness outside the realm of price negotiations requires additional scrutiny.",
+      "support_ids": [
+        "youtube-transcripts-02-yaml-c6ae54efe6:c002:e002:dd4199c1"
+      ]
+    }
+  ]
+}

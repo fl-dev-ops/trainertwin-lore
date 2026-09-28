@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-01-23-how-you-can-guarantee-such-md-9408ca7732-96d0ec09064438e5.jsonl",
+  "external_id": "7155405033889574912",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:21:46Z",
+  "metadata_hash": "2c82f4d2af8b327b7e406e228241d63eb3e67fe2ead01aa466de5ac73d36bcec",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-01-23T03:45:01.076000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-01-23-how-you-can-guarantee-such.md",
+  "source_sha256": "fd3a5227c4a5490bac819d9c92ba66cb1c5dad175831241ee0bd8be9559bf6b2",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestateexpert-salestraining-dubairealestatetraining-activity-7155405033889574912-W1Gl"
+}

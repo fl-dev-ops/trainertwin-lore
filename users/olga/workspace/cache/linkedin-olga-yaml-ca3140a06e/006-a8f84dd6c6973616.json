@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Olga is pretty talented sales trainer . Over the last few months she became a critical link in our big team.",
+      "statement": "Olga is pretty talented sales trainer.",
+      "topic": "sales training effectiveness",
+      "unit_id": "u000235"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "with her help we find and grow Sales Manager.",
+      "statement": "Olga has helped find and grow Sales Managers within the sales department.",
+      "topic": "observed behavior",
+      "unit_id": "u000235"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "She is a strategist and creative trainer of sales department.",
+      "statement": "She is a strategist and creative trainer of the sales department.",
+      "topic": "professional services",
+      "unit_id": "u000235"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Live it UP. Real Estate Growth Academy in Dubai.",
+      "statement": "Olga is associated with the Real Estate Growth Academy in Dubai.",
+      "topic": "real estate coaching",
+      "unit_id": "u000238"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Dubai Real Estate Training Academy",
+      "statement": "Olga offers services at the Dubai Real Estate Training Academy.",
+      "topic": "professional services",
+      "unit_id": "u000241"
+    }
+  ],
+  "overview": "LinkedIn profile information and recommendations regarding a sales trainer named Olga."
+}

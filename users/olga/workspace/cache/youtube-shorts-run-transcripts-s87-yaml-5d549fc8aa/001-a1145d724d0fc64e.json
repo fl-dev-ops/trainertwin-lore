@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "if I were in your shoes, I probably would talk to several agents just to see which one is the right",
+      "statement": "Be upfront with sellers about their options.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I can walk you through my marketing plan, which helps uh that quantity of sellers to actually get the highest possible price for their unit.",
+      "statement": "Offer to walk sellers through your marketing plan.",
+      "topic": "marketing plan",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Video transcript discussing strategies for real estate agents to engage sellers."
+}

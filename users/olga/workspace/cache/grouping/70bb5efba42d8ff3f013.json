@@ -1,0 +1,89 @@
+{
+  "groups": [
+    {
+      "name": "Emotional Dynamics",
+      "topics": [
+        "emotion-demonstration",
+        "emotional-experience",
+        "emotional-response",
+        "emotional-stance",
+        "emotional-state"
+      ]
+    },
+    {
+      "name": "Professional Expectations",
+      "topics": [
+        "employer-expectations",
+        "expectations",
+        "expectation-vs-reality"
+      ]
+    },
+    {
+      "name": "Employment and Logistics",
+      "topics": [
+        "employment-logistics",
+        "execution-strategy",
+        "execution-importance",
+        "execution-in-sales"
+      ]
+    },
+    {
+      "name": "Engagement Techniques",
+      "topics": [
+        "engagement",
+        "engagement-invitation",
+        "engagement-strategy",
+        "engaging-decision-makers"
+      ]
+    },
+    {
+      "name": "Event Participation",
+      "topics": [
+        "event-details",
+        "event-invitation",
+        "event-participation",
+        "event-performance",
+        "event-registration"
+      ]
+    },
+    {
+      "name": "Sales Ethics and Challenges",
+      "topics": [
+        "ethical-sales",
+        "fear-based-objection",
+        "fear-in-objections",
+        "fear-of-cold-calling",
+        "fear-of-making-calls",
+        "fear-of-rejection",
+        "fears-in-sales"
+      ]
+    },
+    {
+      "name": "Expanding Opportunities",
+      "topics": [
+        "expanding-opportunities",
+        "external-factors"
+      ]
+    },
+    {
+      "name": "Feedback and Improvement",
+      "topics": [
+        "feedback-importance",
+        "feedback-reception",
+        "feedback-solicitation"
+      ]
+    },
+    {
+      "name": "Strategic Planning",
+      "topics": [
+        "exit-strategy"
+      ]
+    },
+    {
+      "name": "Environmental Impact",
+      "topics": [
+        "environmental-impact"
+      ]
+    }
+  ]
+}

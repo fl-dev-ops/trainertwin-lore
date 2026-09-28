@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "but seems you have not yet completed the task with LinkedIn profile creation…. Sad",
+      "statement": "Juan has not yet completed the task with LinkedIn profile creation.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Response to a coaching program participant about LinkedIn profile completion."
+}

@@ -1,0 +1,37 @@
+id: s163
+title: Thinks Again How to Stop Convinsing
+date: '2024-07-30'
+source: Thinks Again How to Stop Convinsing
+audio_file: Thinks Again How to Stop Convinsing [3pX51cb8gVM].mp3
+duration: "00:00:26"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 6
+turns:
+- t: "00:00:00"
+  speaker: '0'
+  text: >-
+    um
+- t: "00:00:02"
+  speaker: '0'
+  text: >-
+    Chow, this should I stump the buyer?
+- t: "00:00:05"
+  speaker: '1'
+  text: >-
+    which are not requested from property find out is a
+- t: "00:00:10"
+  speaker: '0'
+  text: >-
+    No, I'm supposed to say it all.
+- t: "00:00:11"
+  speaker: '1'
+  text: >-
+    Okay. But to move in your request, what's the code?
+- t: "00:00:15"
+  speaker: '0'
+  text: >-
+    So that was a change

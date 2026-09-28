@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking about investment in sales skills is considered an important initial question during sales interviews.",
+      "qualification": "This is derived from self-reported advice, not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-11-07-how-much-have-you-invested-md-43349a2fc2:c001:e002:a74d8046"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Salespeople often reflect on their interactions to understand client needs, suggesting that active listening is critical.",
+      "qualification": "Statements are self-reported and show advice on listening actively, not empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e002:ee82918a",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e004:e8ca2d36"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The strategic change perceived to boost sales and income is a topic of reflection but lacks definitive guidance.",
+      "qualification": "Presented as a hypothetical reflection, not a verified strategy.",
+      "support_ids": [
+        "linkedin-posts-2023-11-21-which-change-do-you-think-md-e6c5e991e9:c001:e001:b73717ab"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Inquiring about an off-plan buyer's timeline, budget, and real estate experience is deemed essential in sales processes.",
+      "qualification": "Advice on effective questioning strategies rather than empirically verified practices.",
+      "support_ids": [
+        "linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6:c001:e002:dfde9186",
+        "linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6:c001:e004:91bb0d29"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The strength of questions in sales lies in qualifying the buyer's needs and preferences beyond mere details.",
+      "qualification": "Based on observed advice, not empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e001:f8aa4d00"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High-potential candidates can be identified through specific questioning even if they lack previous experience.",
+      "qualification": "The claim is based on observed statements, not verified recruitment outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-12-08-i-highly-respect-a-real-md-dd17c68945:c001:e002:f8b8b39d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Weekly insights from sales trainers are designed to enhance sales effectiveness.",
+      "qualification": "These posts are observations and meant for encouragement rather than empirical strategies.",
+      "support_ids": [
+        "linkedin-posts-2023-12-11-weekly-magic-from-a-sales-md-a78c86dffe:c001:e001:12b94ff6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A Weekly Objections Handling Club has been established to comprehensively address sales objections.",
+      "qualification": "Observed claim without specific details on effectiveness or structure of the club's sessions.",
+      "support_ids": [
+        "linkedin-posts-2023-12-20-weekly-objections-handling-club-is-md-7c989415c1:c001:e001:bea4e6b7",
+        "linkedin-posts-2023-12-20-weekly-objections-handling-club-is-md-7c989415c1:c001:e003:5b75b435"
+      ]
+    }
+  ]
+}

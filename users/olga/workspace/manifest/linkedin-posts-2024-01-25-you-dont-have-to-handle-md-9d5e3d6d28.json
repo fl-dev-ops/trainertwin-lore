@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-01-25-you-dont-have-to-handle-md-9d5e3d6d28-098a3b20f23f2d47.jsonl",
+  "external_id": "7156129809679429632",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:53:03Z",
+  "metadata_hash": "fcc96af9800115c91275c3881d4cdb4cc1a76946f10a8bea80a5071584ff7942",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-01-25T03:45:01.090000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-01-25-you-dont-have-to-handle.md",
+  "source_sha256": "6e6201424b1509a9b007723aeacc2be899919805721ad97d7d2ccde6edb709f9",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salescoach-realestatesales-objectionhandling-activity-7156129809679429632-8Itx"
+}

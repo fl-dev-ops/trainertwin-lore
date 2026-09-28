@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "check the building Google reviews. Over there you have all of the information about the downside of the building, the complaints,",
+      "statement": "Check the building Google reviews to find information about complaints.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Study the floor plans, but when you look at the floor plans, understand for whom this unit going to be suitable and why.",
+      "statement": "Study the floor plans and understand for whom the unit is suitable.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "visit the area, walk inside the building and talk to people who are living there,",
+      "statement": "Visit the area and talk to people living in the building about their experiences.",
+      "topic": "engagement strategy",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I have five more tips how to study the area but for that you have to come and learn from me in Chestertons.",
+      "statement": "The speaker offers further learning opportunities at Chestertons.",
+      "topic": "training approach",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "A transcript from a YouTube short providing advice for new agents in the Dubai real estate market."
+}

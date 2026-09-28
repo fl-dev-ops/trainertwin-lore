@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2024-11-11-in-the-world-of-real-md-a87f9e7adb-fa1eecaee3c63549.jsonl",
+  "external_id": "7261589792172232704",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:56:12Z",
+  "metadata_hash": "c4b2605967f46c12466076a2184a2dd89e198e15ecb9002ab3075c2867c6411b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-11-11T04:05:20.268000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-11-11-in-the-world-of-real.md",
+  "source_sha256": "622dcbde1fe55d39f22b1a194ae93180afe9c35d2fa0b7ade19ddda37d9e6505",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestate-communicationskills-businesstips-activity-7261589792172232704-mJkn"
+}

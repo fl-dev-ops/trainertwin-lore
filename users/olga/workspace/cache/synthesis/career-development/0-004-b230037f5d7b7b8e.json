@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Entrepreneurs and sales professionals often face self-limiting beliefs, feeling inadequate in aspects they believe are crucial for success, such as technology or achieving specific KPIs consistently.",
+      "qualification": "This perspective is self-reported and may reflect personal biases rather than general trends.",
+      "support_ids": [
+        "linkedin-posts-2023-05-22-im-not-a-tech-savvy-md-82fbc66ce8:c001:e001:5f3da53d",
+        "linkedin-posts-2023-06-05-as-a-real-estate-sales-md-2208145423:c001:e006:213bf68b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Learning from each interaction and consistently applying learned techniques are emphasized as key strategies for improving communication and sales performance.",
+      "qualification": "Statements are observational and advisory but not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-06-05-as-a-real-estate-sales-md-2208145423:c001:e005:da6c555a",
+        "linkedin-posts-2023-06-05-as-a-real-estate-sales-md-2208145423:c001:e007:85fed690"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training success is portrayed as a shared responsibility between trainers and participants, with the trainer's role focused on delivering relevant and engaging content.",
+      "qualification": "This perspective is self-reported and reflects personal beliefs rather than empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-06-12-i-believe-that-training-success-md-3525ebbdbb:c001:e001:59a5c18c",
+        "linkedin-posts-2023-06-12-i-believe-that-training-success-md-3525ebbdbb:c001:e002:7d0649de"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Customer feedback and testimonials are deemed essential for evaluating work quality and identifying areas for growth.",
+      "qualification": "This is an observational statement and not backed by external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-06-22-great-work-inna-i-fully-md-cff197ad7c:c001:e002:2ff90ebd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The absence of planning and structured work processes negatively impacts the ability to achieve KPIs.",
+      "qualification": "Based on unverified observations rather than established research.",
+      "support_ids": [
+        "linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a:c001:e004:249467ee"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal experiences can be valuable for career development, as risky decisions in one's career can lead to long-term growth and gratitude.",
+      "qualification": "Self-reported and specific to individual circumstances.",
+      "support_ids": [
+        "linkedin-posts-2023-06-27-im-still-admiring-the-transparency-md-98e2fb53b2:c001:e001:c088fcbf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent achievement of goals is questioned as more meaningful than hitting a specific target once, indicating a focus on sustained performance.",
+      "qualification": "This is a reflective question rather than an established fact.",
+      "support_ids": [
+        "linkedin-posts-2023-06-20-can-you-recommend-a-good-md-2e602f88fb:c001:e003:1e54907e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Planning structure is critical to the difference in performance between average and top-performing professionals.",
+      "qualification": "Verification is not provided, and data is self-reported.",
+      "support_ids": [
+        "linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a:c001:e004:249467ee"
+      ]
+    }
+  ]
+}

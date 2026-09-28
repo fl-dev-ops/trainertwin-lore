@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-11-22-do-you-know-your-clients-md-27341701aa-a196e12c08fa7231.jsonl",
+  "external_id": "7133051397477982208",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:19:07Z",
+  "metadata_hash": "b2eaea7a338cb2447851657d995a071aeae3a9bf148db06f99c169b72ded1790",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-11-22T11:19:38.845000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-11-22-do-you-know-your-clients.md",
+  "source_sha256": "0a760eda87629c04ce33c7035f79f807f1c8087af062d39af9f785a041e56e08",
+  "source_url": "https://www.linkedin.com/posts/olgasi_clientavatars-dubairealestatesales-salestrainerdubai-activity-7133051397477982208-VyGs"
+}

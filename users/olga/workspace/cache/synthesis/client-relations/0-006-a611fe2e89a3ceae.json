@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Effective client engagement includes asking highly skilled questions with the right tonality to enhance communication effectiveness.",
+      "qualification": "Self-reported advice from a LinkedIn post.",
+      "support_ids": [
+        "linkedin-posts-2023-10-31-it-just-doesnt-work-anymore-md-ccd696d3ce:c001:e004:dbb9f452"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Utilizing video or audio messages can significantly improve sales communication, as they are often underutilized.",
+      "qualification": "Self-reported advice on client engagement; specific data on effectiveness not provided.",
+      "support_ids": [
+        "linkedin-posts-2023-11-01-do-this-if-clients-are-md-eef147486e:c001:e001:66f86ba0"
+      ]
+    },
+    {
+      "counter_ids": [
+        "linkedin-posts-2023-11-01-do-this-if-clients-are-md-eef147486e:c001:e004:c70223e6"
+      ],
+      "finding": "Phrasing outreach as 'I'm just reaching out regarding XYZ' is seen as more effective than traditional follow-up phrases which may be perceived as needy.",
+      "qualification": "Advice based on personal experience; context-dependent.",
+      "support_ids": [
+        "linkedin-posts-2023-11-01-do-this-if-clients-are-md-eef147486e:c001:e003:bd944855"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales agents should strive to work collaboratively with clients, as this approach fosters better relationships and aids in closing deals.",
+      "qualification": "Self-reported belief, lacks empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-11-03-well-you-may-think-its-md-57493a6e05:c001:e005:f5891470"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Salespersons believe that clients want to feel understood and valued; engaging effectively can uncover deeper needs beyond initial requests.",
+      "qualification": "Observations based on perceived client desires; not empirically verified.",
+      "support_ids": [
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e001:e921cc44",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e005:4ead6f29"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Knowing clients well enough to identify and cater to their actual needs is crucial for sales success.",
+      "qualification": "Advice without quantitative support; dependent on subjective understanding.",
+      "support_ids": [
+        "linkedin-posts-2023-11-22-do-you-know-your-clients-md-27341701aa:c001:e001:1189ac02"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking open-ended questions helps to understand buyer motivations and encourages them to share their thoughts and preferences.",
+      "qualification": "Advice based on general principles of effective communication; not quantitatively backed.",
+      "support_ids": [
+        "linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6:c001:e001:df0341f0",
+        "linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6:c001:e003:8ddbf622"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Questions should be employed strategically in the sales process to uncover the client's current problems and needs, enhancing engagement.",
+      "qualification": "Self-reported reasoning; lacks direct empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e002:d04c0e89"
+      ]
+    }
+  ]
+}

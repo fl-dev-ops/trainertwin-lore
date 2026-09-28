@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "we have been sending all our new brokers that are joining us from outside of Dubai, we've been sending Olga's um YouTube channel with our training programs to our new brokers.",
+      "statement": "New brokers from outside Dubai receive training resources.",
+      "topic": "training approach",
+      "unit_id": "u000102"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "they've found it so beneficial because they feel a bit more confident with what they're walking into.",
+      "statement": "New brokers find the training resources beneficial for confidence.",
+      "topic": "client engagement",
+      "unit_id": "u000102"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "So I definitely recommend if you're looking to get into real estate or you're moving, check it out.",
+      "statement": "Recommend checking out training resources if getting into real estate.",
+      "topic": "professional services",
+      "unit_id": "u000102"
+    }
+  ],
+  "overview": "Transcript excerpt discussing training resources for new brokers in Dubai real estate."
+}

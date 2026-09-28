@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "self_report",
+      "quote": "What does the general public think about sales?",
+      "statement": "The general public has diverse opinions about sales.",
+      "topic": "public opinion",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "self_report",
+      "quote": "What do YOU think about sales?",
+      "statement": "Individuals are encouraged to share their personal thoughts on sales.",
+      "topic": "individual engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post asking for public opinions on sales."
+}

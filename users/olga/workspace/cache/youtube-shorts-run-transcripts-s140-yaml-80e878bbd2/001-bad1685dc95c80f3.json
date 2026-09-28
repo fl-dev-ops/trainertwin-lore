@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "confidence disappear very fast. And that's when most people start panicking, overthinking, scrolling, freezing, comparing.",
+      "statement": "When life gets unstable, confidence disappears very fast.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "You need just a simple next step, a move, a plan, a direction.",
+      "statement": "In moments of uncertainty, you need a simple next step, a move, a plan, a direction.",
+      "topic": "decision-making",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "structure comes your brain much faster than motivation ever will.",
+      "statement": "Structure comes to your brain much faster than motivation ever will during uncertain times.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "most people start panicking, overthinking, scrolling, freezing, comparing.",
+      "statement": "People start panicking, overthinking, scrolling, freezing, and comparing when life becomes uncertain.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "What is your structure today?",
+      "statement": "Asking what one's structure is today signifies self-awareness and the need for planning.",
+      "topic": "reflection",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Transcription of a YouTube short discussing the importance of structure during uncertain times."
+}

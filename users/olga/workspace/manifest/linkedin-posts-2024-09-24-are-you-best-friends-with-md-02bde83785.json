@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-09-24-are-you-best-friends-with-md-02bde83785-27285af067a42931.jsonl",
+  "external_id": "7244339812290220032",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:33:00Z",
+  "metadata_hash": "679000fc3664ddb5e2aa8ac6810c387f4d2de7acd5ab75a3bd2b69017337c3d1",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-24T13:40:04.575000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-24-are-you-best-friends-with.md",
+  "source_sha256": "b5b9036e2f40cdf67a8c70d2867559f2681520297523e5be30e19340e340c52f",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realtech-aiinrealestate-realestatetechnology-activity-7244339812290220032-3YiB"
+}

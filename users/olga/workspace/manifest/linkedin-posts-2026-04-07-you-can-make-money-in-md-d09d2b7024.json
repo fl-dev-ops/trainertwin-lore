@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-04-07-you-can-make-money-in-md-d09d2b7024-5d83269309d81470.jsonl",
+  "external_id": "7447278823147995138",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:07:07Z",
+  "metadata_hash": "afe024adcf79455374842d506a3d903926493158ea16cf953d4df5a7512a9fb4",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-04-07T13:47:15.188000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-04-07-you-can-make-money-in.md",
+  "source_sha256": "02b295dbd3edca801adf02db158c7524b7ec8baee7db408a926f1c06418bdd84",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestatecareer-realestateagentdubai-activity-7447278823147995138-bo0X"
+}

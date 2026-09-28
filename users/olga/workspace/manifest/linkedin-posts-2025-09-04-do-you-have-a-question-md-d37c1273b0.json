@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-09-04-do-you-have-a-question-md-d37c1273b0-0c9f2211b736fbc9.jsonl",
+  "external_id": "7369347193662590977",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:47:17Z",
+  "metadata_hash": "d5e064ed1a8a0da6e579761cb3561025c7f45e002999d0753c9a92a2ebc041c3",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-09-04T12:34:46.819000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-09-04-do-you-have-a-question.md",
+  "source_sha256": "6273539f0bcb2f066105bdf1838db12c7eef28c963df23bc7c691816200a4a14",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesales-salesmentor-dubairealestate-activity-7369347193662590977-2sFP"
+}

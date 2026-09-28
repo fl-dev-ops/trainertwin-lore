@@ -1,0 +1,782 @@
+# Cross-Platform Publication Timeline
+
+> Source publication chronology from this user's wiki.
+
+> Source publication dates, not event dates or pipeline ingestion dates. Unknown dates are not inferred.
+
+- 2018-02-28T13:22:53.350000Z · [Invest in Ready Apartments.](../wiki/sources/linkedin-posts-2018-02-28-invest-in-ready-apartments-dubai-md-7ff2c0a745.md) · linkedin · olgasi
+- 2023-04-11 · [Day 3. #cameraconfidencewitholgasi](../wiki/sources/youtube-shorts-run-transcripts-s29-yaml-8a59c7797f.md) · youtube · author unknown
+- 2023-04-18T03:47:54.115000Z · [Reaching out to my colleagues in Dubai real estate industry.](../wiki/sources/linkedin-posts-2023-04-18-reaching-out-to-my-colleagues-md-64c43888fe.md) · linkedin · olgasi
+- 2023-04-20 · [Day 9. task #cameraconfidence](../wiki/sources/youtube-shorts-run-transcripts-s30-yaml-acc646e31b.md) · youtube · author unknown
+- 2023-04-20T10:39:56.993000Z · [Excited to announce I’m #OpenForBusiness and providing services on LinkedIn. Check out my services page for Pu](../wiki/sources/linkedin-posts-2023-04-20-excited-to-announce-im-openforbusiness-md-7fef85fa44.md) · linkedin · olgasi
+- 2023-04-24T03:07:28.153000Z · [Monday is a day of new beginnings, but I actually started it yesterday...](../wiki/sources/linkedin-posts-2023-04-24-monday-is-a-day-of-md-16edbb190e.md) · linkedin · olgasi
+- 2023-04-25T03:22:53.689000Z · [I discovered this with my experience working in sales and building my online coaching business.](../wiki/sources/linkedin-posts-2023-04-25-i-discovered-this-with-my-md-325f5166eb.md) · linkedin · olgasi
+- 2023-04-26T02:32:27.942000Z · [When trying to make the right decision in developing your career or business, you are constantly faced with a ](../wiki/sources/linkedin-posts-2023-04-26-when-trying-to-make-the-md-ffc2e92cb0.md) · linkedin · olgasi
+- 2023-04-27T03:10:19.994000Z · [McConaughey has just DID a 6;30 hour performance as a Launch in the soft niche!](../wiki/sources/linkedin-posts-2023-04-27-mcconaughey-has-just-did-a-md-25f53c68ea.md) · linkedin · olgasi
+- 2023-04-28T09:02:48.669000Z · [Next Monday, I'll be teaching the first group of new agents on the onboarding training of my client as part of](../wiki/sources/linkedin-posts-2023-04-28-next-monday-ill-be-teaching-md-ee29d3c5cc.md) · linkedin · olgasi
+- 2023-05-02T12:54:51.874000Z · [A great first step towards a Financial freedom!](../wiki/sources/linkedin-posts-2023-05-02-a-great-first-step-towards-md-24f75f60bb.md) · linkedin · olgasi
+- 2023-05-04T11:45:40.633000Z · [Have you ever felt uncomfortable with the idea of cold calling?](../wiki/sources/linkedin-posts-2023-05-04-have-you-ever-felt-uncomfortable-md-bd77f8310d.md) · linkedin · olgasi
+- 2023-05-08T03:52:34.044000Z · [How often do you face rejection? I you are in sales, your answer could be anywhere from 99% to 50%.](../wiki/sources/linkedin-posts-2023-05-08-how-often-do-you-face-md-d2add85262.md) · linkedin · olgasi
+- 2023-05-08T18:25:57.754000Z · [Dubai #job in our UAE office looking for the russian-speaking professional with the proven experience in banki](../wiki/sources/linkedin-posts-2023-05-08-dubai-job-in-our-uae-md-6b62736489.md) · linkedin · oxana-kukharchuk
+- 2023-05-10T02:34:40.538000Z · ["On a scale of 1 to 10, how would you rate a meeting?"](../wiki/sources/linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29.md) · linkedin · olgasi
+- 2023-05-11T12:58:22.703000Z · [I hope I grabbed your attention!](../wiki/sources/linkedin-posts-2023-05-11-i-hope-i-grabbed-your-md-e9607717af.md) · linkedin · olgasi
+- 2023-05-17T10:04:59.926000Z · [In 2023 If you do not exist online- you do not exist. And by saying that, I mean being a Creator, not a Consum](../wiki/sources/linkedin-posts-2023-05-17-in-2023-if-you-do-md-21dcdfea7b.md) · linkedin · olgasi
+- 2023-05-22T14:43:15.907000Z · [I'm not a tech savvy, like many other enterpreneurs.](../wiki/sources/linkedin-posts-2023-05-22-im-not-a-tech-savvy-md-82fbc66ce8.md) · linkedin · olgasi
+- 2023-05-26T05:00:03.105000Z · [The Hunt for High-Quality Leads: Debunking the Stigma](../wiki/sources/linkedin-posts-2023-05-26-the-hunt-for-high-quality-leads-md-ce53a957bd.md) · linkedin · olgasi
+- 2023-06-02T11:29:21.632000Z · [So, how does an agent ascend to the coveted top 10%? The path to becoming a top agent involves a combination o](../wiki/sources/linkedin-posts-2023-06-02-so-how-does-an-agent-md-d42acf160d.md) · linkedin · olgasi
+- 2023-06-05T20:29:06.607000Z · [As a real estate sales trainer, I often teach experienced sales agents communication skills, objection isolati](../wiki/sources/linkedin-posts-2023-06-05-as-a-real-estate-sales-md-2208145423.md) · linkedin · olgasi
+- 2023-06-12T15:56:56.057000Z · [I believe that training success is a shared responsibility between the trainer and the participants.](../wiki/sources/linkedin-posts-2023-06-12-i-believe-that-training-success-md-3525ebbdbb.md) · linkedin · olgasi
+- 2023-06-19T16:42:22.176000Z · [My favourite exercise for training spontaneous thinking:](../wiki/sources/linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac.md) · linkedin · olgasi
+- 2023-06-20T12:06:48.363000Z · [Can you recommend a good agent who is proactive, has his own database and IS ABLE to close the deal?](../wiki/sources/linkedin-posts-2023-06-20-can-you-recommend-a-good-md-2e602f88fb.md) · linkedin · olgasi
+- 2023-06-22T01:23:50.926000Z · [Great work Inna!](../wiki/sources/linkedin-posts-2023-06-22-great-work-inna-i-fully-md-cff197ad7c.md) · linkedin · olgasi
+- 2023-06-27T14:18:18.971000Z · [I'm still admiring the transparency and honesty of the UAE Government authorities.](../wiki/sources/linkedin-posts-2023-06-27-im-still-admiring-the-transparency-md-98e2fb53b2.md) · linkedin · olgasi
+- 2023-06-30T14:16:29.816000Z · [“OBJECTION” - In 90% of cases, this is highlighted as the main reason why the client is withdrawing from the d](../wiki/sources/linkedin-posts-2023-06-30-objection-in-90-of-md-74d0930771.md) · linkedin · olgasi
+- 2023-07-02T05:00:02.608000Z · [What is the difference between 90% of agents and 10% of TOP performers?](../wiki/sources/linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a.md) · linkedin · olgasi
+- 2023-07-02T13:58:48.787000Z · [How is that possible?](../wiki/sources/linkedin-posts-2023-07-02-how-is-that-possible-and-md-ed18ec0222.md) · linkedin · olgasi
+- 2023-07-03T15:03:41.814000Z · [Just a quick productivity fix after a long weekend.](../wiki/sources/linkedin-posts-2023-07-03-just-a-quick-productivity-fix-md-6476bad9a5.md) · linkedin · olgasi
+- 2023-07-12T10:37:39.565000Z · [More opportunities for Russian speaking candidates.](../wiki/sources/linkedin-posts-2023-07-12-more-opportunities-for-russian-speaking-md-203885163d.md) · linkedin · olgasi
+- 2023-07-13T03:40:00.392000Z · [Succeeding as a new real estate agent in a market depends 70% on the belief system you have and the environmen](../wiki/sources/linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed.md) · linkedin · olgasi
+- 2023-07-14T05:37:43.884000Z · [Same approach in Sales and in Sport.](../wiki/sources/linkedin-posts-2023-07-14-same-approach-in-sales-and-md-44d05646c8.md) · linkedin · olgasi
+- 2023-07-18T10:01:31.601000Z · [Offplan sales volume increased by 46.6% in comparison with a 2022.](../wiki/sources/linkedin-posts-2023-07-18-offplan-sales-volume-increased-by-md-13f7af3437.md) · linkedin · olgasi
+- 2023-07-18T15:09:28.182000Z · [This week I will be wearing yellow glasses - I want to be half-realistic.](../wiki/sources/linkedin-posts-2023-07-18-this-week-i-will-be-md-1f6b4df35f.md) · linkedin · olgasi
+- 2023-07-19T04:00:03.501000Z · ['Thinking on Your Feet' is a crucial skill for a real estate broker.](../wiki/sources/linkedin-posts-2023-07-19-thinking-on-your-feet-is-md-0b696be7f5.md) · linkedin · olgasi
+- 2023-07-20T14:45:43.645000Z · [Rejection is a myth.](../wiki/sources/linkedin-posts-2023-07-20-rejection-is-a-myth-consider-md-c6d7a21b56.md) · linkedin · olgasi
+- 2023-07-21T06:01:25.314000Z · [Never stop prospecting.](../wiki/sources/linkedin-posts-2023-07-21-never-stop-prospecting-one-of-md-4238118cf6.md) · linkedin · olgasi
+- 2023-07-22T05:56:22.955000Z · [New stage of a business 📈.](../wiki/sources/linkedin-posts-2023-07-22-new-stage-of-a-business-md-57c67b61f0.md) · linkedin · olgasi
+- 2023-07-24T15:26:56.599000Z · [Throughout my almost 9 years in the industry, one of the greatest benefits has been the opportunity to work wi](../wiki/sources/linkedin-posts-2023-07-24-throughout-my-almost-9-years-md-d5c351f296.md) · linkedin · olgasi
+- 2023-07-25T04:10:01.040000Z · [You can succeed even if you are completely new to the real estate industry.](../wiki/sources/linkedin-posts-2023-07-25-you-can-succeed-even-if-md-1daa20bc52.md) · linkedin · olgasi
+- 2023-07-26T09:35:33.059000Z · [The unfiltered truth...](../wiki/sources/linkedin-posts-2023-07-26-the-unfiltered-truth-md-0407433d5b.md) · linkedin · olgasi
+- 2023-07-28T07:13:45.872000Z · [Aside from budget limitations, where would you like to live, or buy a home, in Dubai?](../wiki/sources/linkedin-posts-2023-07-28-aside-from-budget-limitations-where-md-7d9683c32f.md) · linkedin · olgasi
+- 2023-07-31T12:45:46.709000Z · [Delve into the definitive H1 2023 Dubai real estate report, compiled by a team of expert analysts at Christie'](../wiki/sources/linkedin-posts-2023-07-31-delve-into-the-definitive-h1-md-805ef21d3f.md) · linkedin · jackie-johns-75048122
+- 2023-07-31T17:20:41.227000Z · [if you are looking for a magic pill for your business.](../wiki/sources/linkedin-posts-2023-07-31-if-you-are-looking-for-md-745d23e062.md) · linkedin · olgasi
+- 2023-08-01T06:00:08.619000Z · [The client told you NO.](../wiki/sources/linkedin-posts-2023-08-01-the-client-told-you-no-md-19335c72ba.md) · linkedin · olgasi
+- 2023-08-02T04:38:59.877000Z · [Must listen to all my trainees!](../wiki/sources/linkedin-posts-2023-08-02-must-listen-to-all-my-md-7dbdf47b6d.md) · linkedin · olgasi
+- 2023-08-02T11:26:24.489000Z · [Social media is broadcasting only the wins of real estate agents.](../wiki/sources/linkedin-posts-2023-08-02-social-media-is-broadcasting-only-md-58fe074d5d.md) · linkedin · olgasi
+- 2023-08-03T10:19:51.916000Z · [I have just registered for my free pass to Cityscape Global, the world’s largest real estate event, being held](../wiki/sources/linkedin-posts-2023-08-03-i-have-just-registered-for-md-a68ba3bfac.md) · linkedin · olgasi
+- 2023-08-03T12:17:32.942000Z · [How to spot a weak sales trainer:](../wiki/sources/linkedin-posts-2023-08-03-how-to-spot-a-weak-md-5c0636bcb7.md) · linkedin · olgasi
+- 2023-08-09T04:31:58.117000Z · [If your WHY is strong enough you can bare anyhow and reach your goal!](../wiki/sources/linkedin-posts-2023-08-09-if-your-why-is-strong-md-c39641e5a1.md) · linkedin · olgasi
+- 2023-08-09T10:26:37.313000Z · [If you are still CONVINCING your clients, read this.](../wiki/sources/linkedin-posts-2023-08-09-if-you-are-still-convincing-md-a2a3db36d2.md) · linkedin · olgasi
+- 2023-08-10T15:24:32.124000Z · [Even if you do not know this terminology, you are definitely using it in your sales pitches. Moreover, you are](../wiki/sources/linkedin-posts-2023-08-10-even-if-you-do-not-md-ba10330e16.md) · linkedin · olgasi
+- 2023-08-12 · [How to earn the clients trust？ #realestate #salestraining](../wiki/sources/youtube-shorts-run-transcripts-s84-yaml-ea93100b3a.md) · youtube · author unknown
+- 2023-08-15T08:00:03.610000Z · [Never trust a sales person...](../wiki/sources/linkedin-posts-2023-08-15-never-trust-a-sales-person-md-c5efc806b5.md) · linkedin · olgasi
+- 2023-08-16T08:15:35.349000Z · [Your ability to become a great salesperson is connected directly with your ability to tolerate pain.](../wiki/sources/linkedin-posts-2023-08-16-your-ability-to-become-a-md-bfdb046392.md) · linkedin · olgasi
+- 2023-08-18T05:46:37.121000Z · [So genuine. Love it!](../wiki/sources/linkedin-posts-2023-08-18-so-genuine-love-it-every-md-2d7554d44c.md) · linkedin · olgasi
+- 2023-08-18T07:49:39.495000Z · [I'm using this mindset right now.](../wiki/sources/linkedin-posts-2023-08-18-im-using-this-mindset-right-md-421de74ffa.md) · linkedin · olgasi
+- 2023-08-22T13:20:29.180000Z · [I support the idea that the best way to sell something is to help the customer discover their own needs and ho](../wiki/sources/linkedin-posts-2023-08-22-i-support-the-idea-that-md-033fc90c4a.md) · linkedin · olgasi
+- 2023-08-23T14:43:01.635000Z · [Before and After...](../wiki/sources/linkedin-posts-2023-08-23-before-and-after-honestly-i-md-804094dbfb.md) · linkedin · olgasi
+- 2023-08-24T10:44:52.444000Z · [How do you see the progression of a real estate agent’s career?](../wiki/sources/linkedin-posts-2023-08-24-how-do-you-see-the-md-1049b10ac4.md) · linkedin · olgasi
+- 2023-08-28 · [RW investment presentation. Final video](../wiki/sources/youtube-shorts-run-transcripts-s122-yaml-4469d9ae7f.md) · youtube · author unknown
+- 2023-08-30T15:57:38.359000Z · [Your current skill set got you where you are now.](../wiki/sources/linkedin-posts-2023-08-30-your-current-skill-set-got-md-71d06d958c.md) · linkedin · olgasi
+- 2023-08-31T10:26:28.635000Z · [I created this article solely based on my own experience with companies I train and through market observation](../wiki/sources/linkedin-posts-2023-08-31-i-created-this-article-solely-md-be6fa243e5.md) · linkedin · olgasi
+- 2023-08-31T15:08:01.030000Z · [There is no "magic pill" to make someone have the desire to buy.](../wiki/sources/linkedin-posts-2023-08-31-there-is-no-magic-pill-md-2287549f12.md) · linkedin · olgasi
+- 2023-09-04T13:50:10.388000Z · [Finding experienced agents is the real challenge in Dubai.](../wiki/sources/linkedin-posts-2023-09-04-finding-experienced-agents-is-the-md-747339dc5a.md) · linkedin · olgasi
+- 2023-09-05T06:00:05.008000Z · [My LinkedIn network is looking for your advice and recommendations!](../wiki/sources/linkedin-posts-2023-09-05-my-linkedin-network-is-looking-md-5a7459e4c3.md) · linkedin · olgasi
+- 2023-09-07T11:34:27.106000Z · [I'm curious to know what you think about it?...](../wiki/sources/linkedin-posts-2023-09-07-im-curious-to-know-what-md-a978e0b1c5.md) · linkedin · olgasi
+- 2023-09-07T12:33:09.849000Z · [Try it and let me know!](../wiki/sources/linkedin-posts-2023-09-07-try-it-and-let-me-md-7903330e47.md) · linkedin · olgasi
+- 2023-09-08T06:00:10.664000Z · [Why would your company even consider training when they are already earning a substantial commission? The answ](../wiki/sources/linkedin-posts-2023-09-08-why-would-your-company-even-md-9a099149b0.md) · linkedin · olgasi
+- 2023-09-11T08:39:18.443000Z · [First Saudi Experience for me.](../wiki/sources/linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1.md) · linkedin · olgasi
+- 2023-09-11T14:30:00.850000Z · [We filmed it on the 8th of August.](../wiki/sources/linkedin-posts-2023-09-11-we-filmed-it-on-the-md-dca9dc5df7.md) · linkedin · olgasi
+- 2023-09-12T09:04:29.192000Z · [Amazed me the most!](../wiki/sources/linkedin-posts-2023-09-12-amazed-me-the-most-will-md-3fbe50c512.md) · linkedin · olgasi
+- 2023-09-13T12:31:07.497000Z · [I'm not happy to discuss this topic, but let's face the truth.](../wiki/sources/linkedin-posts-2023-09-13-im-not-happy-to-discuss-md-fa8959df16.md) · linkedin · olgasi
+- 2023-09-13T16:31:21.426000Z · [My first trip to Saudi...](../wiki/sources/linkedin-posts-2023-09-13-my-first-trip-to-saudi-md-405dbaed49.md) · linkedin · olgasi
+- 2023-09-19T14:58:10.475000Z · [“I’m receiving at least 5 calls a day from different agents in Dubai, but I do not want to deal with them…”](../wiki/sources/linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e.md) · linkedin · olgasi
+- 2023-09-20T15:17:18.207000Z · [It isn't possible to put 2 hours of training into an article but, I tried.](../wiki/sources/linkedin-posts-2023-09-20-it-isnt-possible-to-put-md-aecc42638c.md) · linkedin · olgasi
+- 2023-09-21T04:30:04.169000Z · [How the Future will look like...](../wiki/sources/linkedin-posts-2023-09-21-how-the-future-will-look-md-59cf35c50c.md) · linkedin · olgasi
+- 2023-09-26T03:30:01.475000Z · [Do you know the real reason why you are losing sales in the first 10-15 seconds of your call?](../wiki/sources/linkedin-posts-2023-09-26-do-you-know-the-real-md-7a2a768bf5.md) · linkedin · olgasi
+- 2023-09-27T14:38:34.998000Z · [For some investors, this is one of the most important decisions! And it's not really about the property... It'](../wiki/sources/linkedin-posts-2023-09-27-for-some-investors-this-is-md-a89382c7d0.md) · linkedin · olgasi
+- 2023-09-28T06:00:07.310000Z · [If you want to stand out from all sales agents and make a client choose you, ASK these questions on a first ca](../wiki/sources/linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a.md) · linkedin · olgasi
+- 2023-09-29T06:00:01.591000Z · [The daily schedule of the effective agent.](../wiki/sources/linkedin-posts-2023-09-29-the-daily-schedule-of-the-md-b6647ddc39.md) · linkedin · olgasi
+- 2023-10-04T15:12:59.707000Z · [If you are still thinking that the main reason to purchase real estate is JUST TO MAKE MONEY - you are probabl](../wiki/sources/linkedin-posts-2023-10-04-if-you-are-still-thinking-md-da1784dc0f.md) · linkedin · olgasi
+- 2023-10-06T06:00:02.413000Z · [Sales Training Effectiveness: What's Holding It Back?](../wiki/sources/linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326.md) · linkedin · olgasi
+- 2023-10-06T14:27:21.144000Z · [What is your plan?](../wiki/sources/linkedin-posts-2023-10-06-what-is-your-plan-md-4682ec1455.md) · linkedin · olgasi
+- 2023-10-12T11:30:00.136000Z · [As usual, I’m starting here with the mindset portion of the post, followed by the practical piece at the end.](../wiki/sources/linkedin-posts-2023-10-12-as-usual-im-starting-here-md-ac8eec80eb.md) · linkedin · olgasi
+- 2023-10-19T11:34:41.989000Z · [I'm now developing a new sales process for one of my clients based on dialogue-style sales scripts and persona](../wiki/sources/linkedin-posts-2023-10-19-im-now-developing-a-new-md-a0310174eb.md) · linkedin · olgasi
+- 2023-10-25T14:40:33.013000Z · [You are losing at least  50% of your commission…](../wiki/sources/linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d.md) · linkedin · olgasi
+- 2023-10-27T09:00:40.172000Z · [What is the main reason to buy real estate?](../wiki/sources/linkedin-posts-2023-10-27-what-is-the-main-reason-md-ed7d7f9fe5.md) · linkedin · olgasi
+- 2023-10-27T11:18:33.508000Z · [How effective is your sales process?](../wiki/sources/linkedin-posts-2023-10-27-how-effective-is-your-sales-md-c3b4731a61.md) · linkedin · olgasi
+- 2023-10-31T03:00:03.006000Z · [True statistics...](../wiki/sources/linkedin-posts-2023-10-31-true-statistics-salespeople-do-not-md-b7960efd7a.md) · linkedin · olgasi
+- 2023-10-31T13:30:05.314000Z · [It just doesn't work anymore!](../wiki/sources/linkedin-posts-2023-10-31-it-just-doesnt-work-anymore-md-ccd696d3ce.md) · linkedin · olgasi
+- 2023-11-01T03:30:01.067000Z · [Do this...](../wiki/sources/linkedin-posts-2023-11-01-do-this-if-clients-are-md-eef147486e.md) · linkedin · olgasi
+- 2023-11-01T06:37:26.940000Z · [Christopher Jones is #hiring.](../wiki/sources/linkedin-posts-2023-11-01-christopher-jones-is-hiring-if-md-6b274309cc.md) · linkedin · olgasi
+- 2023-11-03T09:39:28.284000Z · [Well… you may think it's just words.](../wiki/sources/linkedin-posts-2023-11-03-well-you-may-think-its-md-57493a6e05.md) · linkedin · olgasi
+- 2023-11-07T15:13:55.601000Z · [How much have you invested this year..](../wiki/sources/linkedin-posts-2023-11-07-how-much-have-you-invested-md-43349a2fc2.md) · linkedin · olgasi
+- 2023-11-09T03:23:10.363000Z · [Saudi Arabia Constructs Visionary Future: Billions in Riyals to Bring Sci-Fi Dreams to Life in Taif](../wiki/sources/linkedin-posts-2023-11-09-saudi-arabia-constructs-visionary-future-md-d713ed7ec8.md) · linkedin · mohammed-h-al-qahtani-603a36a4
+- 2023-11-09T03:27:31.740000Z · [My next training trip to Riyadh is next week, and every time I visit, I feel the change and advancement.](../wiki/sources/linkedin-posts-2023-11-09-my-next-training-trip-to-md-1c411fbb69.md) · linkedin · olgasi
+- 2023-11-14T15:24:40.180000Z · [What does a salesperson think the client wants?](../wiki/sources/linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5.md) · linkedin · olgasi
+- 2023-11-15T08:57:13.643000Z · [A small piece from my recent training in Saudi…](../wiki/sources/linkedin-posts-2023-11-15-a-small-piece-from-my-md-1a445a5cca.md) · linkedin · olgasi
+- 2023-11-16T06:00:01.373000Z · [My personal failure experience….](../wiki/sources/linkedin-posts-2023-11-16-my-personal-failure-experience-or-md-cc7c84ce04.md) · linkedin · olgasi
+- 2023-11-21T14:30:02.459000Z · [Which change do you think will boost your sales & income more?](../wiki/sources/linkedin-posts-2023-11-21-which-change-do-you-think-md-e6c5e991e9.md) · linkedin · olgasi
+- 2023-11-22T11:19:38.845000Z · [Do you know your clients well enough to sell them on their actual needs?](../wiki/sources/linkedin-posts-2023-11-22-do-you-know-your-clients-md-27341701aa.md) · linkedin · olgasi
+- 2023-11-23T13:44:36.612000Z · [What questions should you ask an off-plan buyer who has responded to an ad on social media?](../wiki/sources/linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6.md) · linkedin · olgasi
+- 2023-11-30T04:00:02.367000Z · [Why do we ask questions during our sales process?](../wiki/sources/linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4.md) · linkedin · olgasi
+- 2023-12-05T03:15:01.060000Z · [Weekly Magic 💊 from a sales trainer.](../wiki/sources/linkedin-posts-2023-12-05-weekly-magic-from-a-sales-md-50ba29defd.md) · linkedin · olgasi
+- 2023-12-05T10:48:08.076000Z · [Thank you Mario Volpi](../wiki/sources/linkedin-posts-2023-12-05-thank-you-mario-volpi-this-md-50db8b5aa6.md) · linkedin · olgasi
+- 2023-12-06T03:30:07.070000Z · [One of the great achievement of 2023 for Saudi Arabia!](../wiki/sources/linkedin-posts-2023-12-06-one-of-the-great-achievement-md-ca89a59de4.md) · linkedin · olgasi
+- 2023-12-08T04:00:01.346000Z · [I highly respect a real estate recruiter's work! Finding the right talents and operating in a highly competiti](../wiki/sources/linkedin-posts-2023-12-08-i-highly-respect-a-real-md-dd17c68945.md) · linkedin · olgasi
+- 2023-12-11T03:30:04.849000Z · [Weekly Magic 💊 from a sales trainer.](../wiki/sources/linkedin-posts-2023-12-11-weekly-magic-from-a-sales-md-a78c86dffe.md) · linkedin · olgasi
+- 2023-12-12T11:00:03.233000Z · [Stepping into a client's shoes](../wiki/sources/linkedin-posts-2023-12-12-stepping-into-a-clients-shoes-md-20f8a86cd8.md) · linkedin · olgasi
+- 2023-12-18T03:30:01.322000Z · [Weekly Magic 💊 from a sales trailer.](../wiki/sources/linkedin-posts-2023-12-18-weekly-magic-from-a-sales-md-2125cebbec.md) · linkedin · olgasi
+- 2023-12-20T05:00:04.333000Z · [Weekly Objections Handling Club is opened in](../wiki/sources/linkedin-posts-2023-12-20-weekly-objections-handling-club-is-md-7c989415c1.md) · linkedin · olgasi
+- 2023-12-21T06:00:14.302000Z · [I don't consider myself very effective. I feel like I'm still wasting too much time on repetitive tasks and la](../wiki/sources/linkedin-posts-2023-12-21-i-dont-consider-myself-very-md-69e56135c1.md) · linkedin · olgasi
+- 2023-12-21T11:19:04.455000Z · [I’m explaining this simple sales funnel model during my New Joiners training, and as simple as it is, usually ](../wiki/sources/linkedin-posts-2023-12-21-im-explaining-this-simple-sales-md-6b6dd456a8.md) · linkedin · olgasi
+- 2023-12-23T08:00:02.729000Z · [It's time to evaluate your 2023 and write yourself a letter for 2024.](../wiki/sources/linkedin-posts-2023-12-23-its-time-to-evaluate-your-md-b31afcb22c.md) · linkedin · olgasi
+- 2023-12-26T03:30:01.462000Z · [Weekly Magic 💊 from a sales trainer.](../wiki/sources/linkedin-posts-2023-12-26-weekly-magic-from-a-sales-md-7d3dd38c57.md) · linkedin · olgasi
+- 2023-12-26T13:00:05.251000Z · [Dos and Don'ts on a First Call.](../wiki/sources/linkedin-posts-2023-12-26-dos-and-donts-on-a-md-1175dc417e.md) · linkedin · olgasi
+- 2023-12-27T05:01:01.034000Z · [Dubai is a Bubble?](../wiki/sources/linkedin-posts-2023-12-27-dubai-is-a-bubble-my-md-df18fa3379.md) · linkedin · olgasi
+- 2024-01-02T05:45:01.138000Z · [No Magic Behind your Goals for 2024!](../wiki/sources/linkedin-posts-2024-01-02-no-magic-behind-your-goals-md-77f43938c2.md) · linkedin · olgasi
+- 2024-01-04T03:45:01.074000Z · [How to be sussesful with Cold calling?](../wiki/sources/linkedin-posts-2024-01-04-how-to-be-sussesful-with-md-9ea7169c93.md) · linkedin · olgasi
+- 2024-01-04T14:26:42.641000Z · [🌟 Job Vacancy: HR Specialist / Recruiter 🌟](../wiki/sources/linkedin-posts-2024-01-04-job-vacancy-hr-specialist-recruiter-md-58566a5001.md) · linkedin · oleksandra-prykhodko-aba937202
+- 2024-01-08T12:45:01.067000Z · [Weekly Magic 💊 from a Sales Trainer:](../wiki/sources/linkedin-posts-2024-01-08-weekly-magic-from-a-sales-md-1a86996ec6.md) · linkedin · olgasi
+- 2024-01-09T03:45:01.135000Z · [Reciprocity Rule as a sales strategy?](../wiki/sources/linkedin-posts-2024-01-09-reciprocity-rule-as-a-sales-md-c2e1f1ae6c.md) · linkedin · olgasi
+- 2024-01-11T03:59:10.221000Z · [Case study workshop!](../wiki/sources/linkedin-posts-2024-01-11-case-study-workshop-can-your-md-92797e4d31.md) · linkedin · olgasi
+- 2024-01-15T08:45:00.034000Z · [Are your clients ghosting you?](../wiki/sources/linkedin-posts-2024-01-15-are-your-clients-ghosting-you-md-efc79da17c.md) · linkedin · olgasi
+- 2024-01-16T04:00:04.537000Z · [This training was a special Christmas 🎁 for my Ray White Dubai students.](../wiki/sources/linkedin-posts-2024-01-16-this-training-was-a-special-md-0aaee2e815.md) · linkedin · olgasi
+- 2024-01-17T15:25:01.029000Z · [I know you hate it!](../wiki/sources/linkedin-posts-2024-01-17-i-know-you-hate-it-md-779f3c1f0c.md) · linkedin · olgasi
+- 2024-01-22T07:45:01.123000Z · [My clients are busy...](../wiki/sources/linkedin-posts-2024-01-22-my-clients-are-busy-i-md-84639aa094.md) · linkedin · olgasi
+- 2024-01-23T03:45:01.076000Z · [How you can Guarantee??](../wiki/sources/linkedin-posts-2024-01-23-how-you-can-guarantee-such-md-9408ca7732.md) · linkedin · olgasi
+- 2024-01-23T13:15:01.031000Z · [How to become a trusted Adviser for your Clients?](../wiki/sources/linkedin-posts-2024-01-23-how-to-become-a-trusted-md-ffb9afde45.md) · linkedin · olgasi
+- 2024-01-23T13:15:02.147000Z · [Non-Oil GDP grown by 65% and tourism increased by 135%!](../wiki/sources/linkedin-posts-2024-01-23-non-oil-gdp-grown-by-65-md-c66f0c084e.md) · linkedin · olgasi
+- 2024-01-25 · [What is the Client Buying From You？](../wiki/sources/youtube-shorts-run-transcripts-s184-yaml-acc61b1ae4.md) · youtube · author unknown
+- 2024-01-25T03:45:01.090000Z · [You don't have to](../wiki/sources/linkedin-posts-2024-01-25-you-dont-have-to-handle-md-9d5e3d6d28.md) · linkedin · olgasi
+- 2024-01-29T12:00:02.060000Z · [Timeline and Motivation!](../wiki/sources/linkedin-posts-2024-01-29-timeline-and-motivation-timeline-md-55688967b7.md) · linkedin · olgasi
+- 2024-01-30T12:05:25.666000Z · [I‘m looking for a Freelance Videographer in Dubai (must be based in Dubai).](../wiki/sources/linkedin-posts-2024-01-30-im-looking-for-a-freelance-md-9d44847d44.md) · linkedin · olgasi
+- 2024-01-30T13:30:03.400000Z · [What does your client actually looking for?](../wiki/sources/linkedin-posts-2024-01-30-what-does-your-client-actually-md-a6f6735b75.md) · linkedin · olgasi
+- 2024-02-06T03:30:02.019000Z · [This one time, you can start with logic!](../wiki/sources/linkedin-posts-2024-02-06-this-one-time-you-can-md-fe1810458a.md) · linkedin · olgasi
+- 2024-02-06T06:04:00.565000Z · [I‘m looking for a Freelance Videographer in Dubai - must be based in Dubai.](../wiki/sources/linkedin-posts-2024-02-06-im-looking-for-a-freelance-md-c7940a2c88.md) · linkedin · live-it-up-real-estate-academy
+- 2024-02-07T17:40:36.569000Z · [I'm not joking I made my clients count themselves in front of me…](../wiki/sources/linkedin-posts-2024-02-07-im-not-joking-i-made-md-7e8f582c74.md) · linkedin · olgasi
+- 2024-02-13T04:00:05.399000Z · [How can you push?](../wiki/sources/linkedin-posts-2024-02-13-how-can-you-push-how-md-92fb8a6280.md) · linkedin · olgasi
+- 2024-02-15T14:29:30.871000Z · [How to....](../wiki/sources/linkedin-posts-2024-02-15-how-to-be-successful-in-md-e8b446c5d1.md) · linkedin · olgasi
+- 2024-02-19T03:38:04.491000Z · [If you are a real estate agent in Dubai in 2024](../wiki/sources/linkedin-posts-2024-02-19-if-you-are-a-real-md-607df8c14f.md) · linkedin · olgasi
+- 2024-02-23T03:30:02.859000Z · [What should we know about the client or how can we stop ourselves from saying IS THIS CLIENT SERIOUS?](../wiki/sources/linkedin-posts-2024-02-23-what-should-we-know-about-md-2f2f121b56.md) · linkedin · olgasi
+- 2024-02-28T11:38:44.238000Z · [This reading is strictly for those who consider himself/herself an adult.](../wiki/sources/linkedin-posts-2024-02-28-this-reading-is-strictly-for-md-8434bdd79d.md) · linkedin · olgasi
+- 2024-03-01T03:30:02.494000Z · [How to STOP THE Objections?](../wiki/sources/linkedin-posts-2024-03-01-how-to-stop-the-objections-md-ba11a8ef20.md) · linkedin · olgasi
+- 2024-03-01T14:59:17.069000Z · [I’m happy to share this Shifting Focus: From Off-Plan to Secondary Market Sales project I worked on. Check it ](../wiki/sources/linkedin-posts-2024-03-01-im-happy-to-share-this-md-92e68553b1.md) · linkedin · olgasi
+- 2024-03-05 · [75 min of Sales Training. Buyer's Psychology explained for Real Estate Agents in Dubai. (OFF-PLAN)](../wiki/sources/youtube-transcripts-10-yaml-508489bab0.md) · youtube · author unknown
+- 2024-03-05T04:00:00.875000Z · [My Own sales tricks...](../wiki/sources/linkedin-posts-2024-03-05-my-own-sales-tricks-grab-md-d4af296ae1.md) · linkedin · olgasi
+- 2024-03-06T13:22:50.148000Z · [As a manager or business owner, have you ever measured how much money your sales team is "leaving on the table](../wiki/sources/linkedin-posts-2024-03-06-as-a-manager-or-business-md-108b27f8fc.md) · linkedin · olgasi
+- 2024-03-10T07:50:15.876000Z · [Are you passionate about Dubai Real Estate and have experience working in the industry as a Real estate agent?](../wiki/sources/linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6.md) · linkedin · olgasi
+- 2024-03-18T06:44:04.639000Z · [About the Job that I posted!](../wiki/sources/linkedin-posts-2024-03-18-about-the-job-that-i-md-299dfbedfe.md) · linkedin · olgasi
+- 2024-03-20T13:24:58.581000Z · [Almost like my diary…](../wiki/sources/linkedin-posts-2024-03-20-almost-like-my-diary-how-md-a36b505dba.md) · linkedin · olgasi
+- 2024-03-21T04:00:00.706000Z · [We do not pitch the client at the beginning of the conversation.](../wiki/sources/linkedin-posts-2024-03-21-we-do-not-pitch-the-md-63113566c9.md) · linkedin · olgasi
+- 2024-03-22T03:30:01.106000Z · [Have you seen that Black Mirror episode with ‘Likes’ – as an indication of your social status?](../wiki/sources/linkedin-posts-2024-03-22-have-you-seen-that-black-md-e3b1fef0d4.md) · linkedin · olgasi
+- 2024-03-22T07:58:46.919000Z · [Its a perfect Day](../wiki/sources/linkedin-posts-2024-03-22-its-a-perfect-day-to-md-c7511175da.md) · linkedin · olgasi
+- 2024-03-26T04:00:05.542000Z · [What does the general public think about sales?](../wiki/sources/linkedin-posts-2024-03-26-what-does-the-general-public-md-04c7067b87.md) · linkedin · olgasi
+- 2024-03-28T04:00:02.428000Z · [STOP assuming and start asking skilled questions to dig deeper and understand your client.](../wiki/sources/linkedin-posts-2024-03-28-stop-assuming-and-start-asking-md-0b00395983.md) · linkedin · olgasi
+- 2024-04-01T03:40:11.761000Z · [Talking and Selling in English are two different things.](../wiki/sources/linkedin-posts-2024-04-01-talking-and-selling-in-english-md-a55c2895a1.md) · linkedin · olgasi
+- 2024-04-01T13:45:01.090000Z · [What if it's all just an illusion?](../wiki/sources/linkedin-posts-2024-04-01-what-if-its-all-just-md-9cca12951a.md) · linkedin · olgasi
+- 2024-04-09T03:00:07.908000Z · [Want to become a professional and high-paid sales agent?](../wiki/sources/linkedin-posts-2024-04-09-want-to-become-a-professional-md-1d085bd935.md) · linkedin · olgasi
+- 2024-04-09T12:45:01.032000Z · [You could make so much 💰 with your sales skills!](../wiki/sources/linkedin-posts-2024-04-09-you-could-make-so-much-md-b5bc85013f.md) · linkedin · olgasi
+- 2024-04-11T03:00:07.052000Z · [There are two reasons why people make buying decisions.](../wiki/sources/linkedin-posts-2024-04-11-there-are-two-reasons-why-md-26bacd7481.md) · linkedin · olgasi
+- 2024-04-15T03:30:02.272000Z · [My English is ‘not good’. Can I still be successful with selling Dubai properties?](../wiki/sources/linkedin-posts-2024-04-15-my-english-is-not-good-md-5f48b1ce7e.md) · linkedin · olgasi
+- 2024-04-16T03:00:01.143000Z · [Why should a client choose you over another agent?](../wiki/sources/linkedin-posts-2024-04-16-why-should-a-client-choose-md-59c32a3671.md) · linkedin · olgasi
+- 2024-04-18T04:00:01.686000Z · [Why do you need to create internal urgency in order to sell?](../wiki/sources/linkedin-posts-2024-04-18-why-do-you-need-to-md-d208ccc819.md) · linkedin · olgasi
+- 2024-04-18T08:43:09.419000Z · [My First LinkedIn Live.](../wiki/sources/linkedin-posts-2024-04-18-my-first-linkedin-live-today-md-2d2ec4cdd9.md) · linkedin · olgasi
+- 2024-04-24T14:52:09.874000Z · [Learning by doing!](../wiki/sources/linkedin-posts-2024-04-24-learning-by-doing-salestraining-dubairea-md-d5bb25cf72.md) · linkedin · olgasi
+- 2024-04-30T04:20:22.508000Z · [Not what to say...](../wiki/sources/linkedin-posts-2024-04-30-not-what-to-say-but-md-532def10e7.md) · linkedin · olgasi
+- 2024-05-06T11:26:03.196000Z · [All about today!](../wiki/sources/linkedin-posts-2024-05-06-all-about-today-have-you-md-e6c7190998.md) · linkedin · olgasi
+- 2024-05-08T04:36:16.767000Z · [I'm off to a new chapter!](../wiki/sources/linkedin-posts-2024-05-08-im-off-to-a-new-md-2635416515.md) · linkedin · olgasi
+- 2024-05-09T12:30:08.776000Z · [Job hunting in Dubai can feel like a wild rollercoaster—exciting, terrifying, and too often full of desperatio](../wiki/sources/linkedin-posts-2024-05-09-job-hunting-in-dubai-can-md-0bca693d87.md) · linkedin · olgasi
+- 2024-05-09T12:45:01.329000Z · [Do you really understand your clients?](../wiki/sources/linkedin-posts-2024-05-09-do-you-really-understand-your-md-90af976bf9.md) · linkedin · olgasi
+- 2024-05-13T03:30:09.899000Z · [How to "convince" a client to make a purchase?](../wiki/sources/linkedin-posts-2024-05-13-how-to-convince-a-client-md-0ad750a282.md) · linkedin · olgasi
+- 2024-05-16T03:30:09.936000Z · [Are you selling or are you being sold?](../wiki/sources/linkedin-posts-2024-05-16-are-you-selling-or-are-md-6920c7849a.md) · linkedin · olgasi
+- 2024-05-22T03:30:12.771000Z · [Pulling yourself back after dealing with a rude client is quite a task. Agents share stories of being threaten](../wiki/sources/linkedin-posts-2024-05-22-pulling-yourself-back-after-dealing-md-b7c8ee9da7.md) · linkedin · olgasi
+- 2024-05-23T04:22:33.899000Z · [Olga what is the guarantee that you Cold Calling strategy works every time?](../wiki/sources/linkedin-posts-2024-05-23-olga-what-is-the-guarantee-md-b68fe9fbea.md) · linkedin · olgasi
+- 2024-05-24T03:30:08.124000Z · [As agents, we have the awesome job of bringing attention to what clients are truly trying to achieve with thei](../wiki/sources/linkedin-posts-2024-05-24-as-agents-we-have-the-md-76d7b4f56f.md) · linkedin · olgasi
+- 2024-05-27T03:35:01.058000Z · [Cold Calling is the trend of 2024?!](../wiki/sources/linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d.md) · linkedin · olgasi
+- 2024-05-28T13:00:40.292000Z · [Result of 1st week on 30 days Cold Calling Challenge!](../wiki/sources/linkedin-posts-2024-05-28-result-of-1st-week-on-md-3a21dda4d9.md) · linkedin · olgasi
+- 2024-05-29T03:30:23.711000Z · [You will never work hard for something you don't believe in. Dreaming of earning a million in commission? If y](../wiki/sources/linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e.md) · linkedin · olgasi
+- 2024-05-29T14:08:43.107000Z · [LinkedIn asked me to comment on their article about Job Hunting in UAE.](../wiki/sources/linkedin-posts-2024-05-29-linkedin-asked-me-to-comment-md-ec27f29d81.md) · linkedin · olgasi
+- 2024-06-01T08:40:55.656000Z · [Had souch fun recording this!](../wiki/sources/linkedin-posts-2024-06-01-had-souch-fun-recording-this-md-0fc76e467e.md) · linkedin · olgasi
+- 2024-06-03T03:30:01.076000Z · [People buy with emotions and justify it with logic. You might think a perfectly tailored investment pitch with](../wiki/sources/linkedin-posts-2024-06-03-people-buy-with-emotions-and-md-e672c5ae4e.md) · linkedin · olgasi
+- 2024-06-03T03:30:02.814000Z · [Turned 44 yesterday.](../wiki/sources/linkedin-posts-2024-06-03-turned-44-yesterday-thank-you-md-a9fa37bb6e.md) · linkedin · olgasi
+- 2024-06-10T03:30:04.911000Z · [Speaking against your own interests can be a powerful way to build trust with a client.](../wiki/sources/linkedin-posts-2024-06-10-speaking-against-your-own-interests-md-2cc7669881.md) · linkedin · olgasi
+- 2024-06-11T03:30:05.578000Z · [Look for a Problem, Discomfort or Emotional Need…](../wiki/sources/linkedin-posts-2024-06-11-look-for-a-problem-discomfort-md-7d5e2906fa.md) · linkedin · olgasi
+- 2024-06-12T15:17:02.523000Z · [Thank you all one more time for my birthday wishes!](../wiki/sources/linkedin-posts-2024-06-12-thank-you-all-one-more-md-3d1bbfa3ea.md) · linkedin · olgasi
+- 2024-06-13T03:00:01.625000Z · [How to Find the Right Real Estate Company for You If You Are Only Starting in Real Estate?](../wiki/sources/linkedin-posts-2024-06-13-how-to-find-the-right-md-786ca7e7f4.md) · linkedin · olgasi
+- 2024-06-13T11:30:15.143000Z · [Corporate Training or Private Coaching?!](../wiki/sources/linkedin-posts-2024-06-13-corporate-training-or-private-coaching-md-5044a51a1f.md) · linkedin · olgasi
+- 2024-06-14T03:51:18.829000Z · [Is it easier today?](../wiki/sources/linkedin-posts-2024-06-14-is-it-easier-today-md-02c6d6236d.md) · linkedin · olgasi
+- 2024-06-19T03:30:01.880000Z · [How to Get into your Client Head?](../wiki/sources/linkedin-posts-2024-06-19-how-to-get-into-your-md-ac6e7d2922.md) · linkedin · olgasi
+- 2024-06-19T13:21:00.583000Z · [Hiring just 3 new agent Now!](../wiki/sources/linkedin-posts-2024-06-19-hiring-just-3-new-agent-md-823ea01cdf.md) · linkedin · olgasi
+- 2024-06-20T12:45:01.108000Z · [My most in-demand topic for corporate sales training...](../wiki/sources/linkedin-posts-2024-06-20-my-most-in-demand-topic-for-md-c444ae5b67.md) · linkedin · olgasi
+- 2024-06-21T06:54:45.288000Z · [My Inverted approach to success in ...let's say just any Sales Role!](../wiki/sources/linkedin-posts-2024-06-21-my-inverted-approach-to-success-md-33b0e12ec3.md) · linkedin · olgasi
+- 2024-06-24T03:30:00.657000Z · [What's the difference between being rich and being wealthy? 🤔](../wiki/sources/linkedin-posts-2024-06-24-whats-the-difference-between-being-md-294632c478.md) · linkedin · olgasi
+- 2024-06-25T10:05:29.632000Z · [Fresh air needed!](../wiki/sources/linkedin-posts-2024-06-25-fresh-air-needed-clients-are-md-6a287be5d5.md) · linkedin · olgasi
+- 2024-06-26T03:30:17.236000Z · [Private Mentorship with Me looks like this)](../wiki/sources/linkedin-posts-2024-06-26-private-mentorship-with-me-looks-md-eee222389d.md) · linkedin · olgasi
+- 2024-06-26T09:15:45.637000Z · [When some agents in my trainings discuss competition in the Dubai real estate market...](../wiki/sources/linkedin-posts-2024-06-26-when-some-agents-in-my-md-bf8bb6e3cf.md) · linkedin · olgasi
+- 2024-06-27T12:30:04.977000Z · [Time and time again....](../wiki/sources/linkedin-posts-2024-06-27-time-and-time-again-i-md-07897309af.md) · linkedin · olgasi
+- 2024-07-02T03:30:02.372000Z · [This will shed some light on why you do not want to make calls in your sales office, running to the corridors ](../wiki/sources/linkedin-posts-2024-07-02-this-will-shed-some-light-md-d0de30d674.md) · linkedin · olgasi
+- 2024-07-04T13:00:09.914000Z · [No-one talks about it openly!](../wiki/sources/linkedin-posts-2024-07-04-no-one-talks-about-it-openly-md-c7811ea77c.md) · linkedin · olgasi
+- 2024-07-05T09:15:00.352000Z · [Building a FREE Knowledge Base](../wiki/sources/linkedin-posts-2024-07-05-building-a-free-knowledge-base-md-640b3f642b.md) · linkedin · olgasi
+- 2024-07-12 · [What will make you money in Real Estate？](../wiki/sources/youtube-shorts-run-transcripts-s186-yaml-bf5111a45d.md) · youtube · author unknown
+- 2024-07-15 · [Why are people buying？](../wiki/sources/youtube-shorts-run-transcripts-s194-yaml-c72ad54bbb.md) · youtube · author unknown
+- 2024-07-15T03:30:12.902000Z · [How well do you Know your clients?](../wiki/sources/linkedin-posts-2024-07-15-how-well-do-you-know-md-8c2964ba80.md) · linkedin · olgasi
+- 2024-07-17T03:30:01.640000Z · [How to actually create a pipeline?](../wiki/sources/linkedin-posts-2024-07-17-how-to-actually-create-a-md-84a1707b72.md) · linkedin · olgasi
+- 2024-07-18T06:00:13.845000Z · [It may not be for you!](../wiki/sources/linkedin-posts-2024-07-18-it-may-not-be-for-md-180097975e.md) · linkedin · olgasi
+- 2024-07-22 · [If You Want to Sell High-Ticket Real Estate!](../wiki/sources/youtube-shorts-run-transcripts-s95-yaml-4aa544ea1b.md) · youtube · author unknown
+- 2024-07-26 · [Top 1% real estate agents know this!](../wiki/sources/youtube-shorts-run-transcripts-s167-yaml-c297e423eb.md) · youtube · author unknown
+- 2024-07-26T02:49:25.440000Z · [You Do not Like Rejections...](../wiki/sources/linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f.md) · linkedin · olgasi
+- 2024-07-30 · [Thinks Again How to Stop Convinsing](../wiki/sources/youtube-shorts-run-transcripts-s163-yaml-2f4403f3cf.md) · youtube · author unknown
+- 2024-08-07T13:45:02.787000Z · [More than Just Price Appreciation and Rental Yield](../wiki/sources/linkedin-posts-2024-08-07-more-than-just-price-appreciation-md-6a4e2a527e.md) · linkedin · olgasi
+- 2024-08-10 · [Committed to Succeed! What does it mean to you？](../wiki/sources/youtube-shorts-run-transcripts-s27-yaml-7f045c8acb.md) · youtube · author unknown
+- 2024-08-12T13:00:05.047000Z · ["Olga, what did you do wrong last year?"](../wiki/sources/linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20.md) · linkedin · olgasi
+- 2024-08-13T15:01:55.580000Z · [Brace yourself—things are about to get squeaky clean! 🧼](../wiki/sources/linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9.md) · linkedin · olgasi
+- 2024-08-14T03:30:12.938000Z · [Language that supports the other person's autonomy is the only cure for sales resistance...](../wiki/sources/linkedin-posts-2024-08-14-language-that-supports-the-other-md-839f525c31.md) · linkedin · olgasi
+- 2024-08-15 · [The Dubai Real Estate Bubble  Is it Bursting #dubairealestatebuying #realestatebroker #salestraining](../wiki/sources/youtube-shorts-run-transcripts-s149-yaml-570adcde2d.md) · youtube · author unknown
+- 2024-08-19T03:45:01.288000Z · [Nine years in real estate, from agent to sales manager—does that qualify me to be a sales trainer?](../wiki/sources/linkedin-posts-2024-08-19-nine-years-in-real-estate-md-5696766c14.md) · linkedin · olgasi
+- 2024-08-19T04:30:08.311000Z · [How Big is this GAP now?](../wiki/sources/linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8.md) · linkedin · olgasi
+- 2024-08-20T03:30:13.455000Z · [🚫 How You Sabotage the Sale Before You Even Get Started](../wiki/sources/linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a.md) · linkedin · olgasi
+- 2024-08-21T03:30:12.403000Z · [I just want to make MONEY" is not a goal...](../wiki/sources/linkedin-posts-2024-08-21-i-just-want-to-make-md-d044578484.md) · linkedin · olgasi
+- 2024-08-22 · [How Real Estate Bubble is connected with Mortgage？ #objections #dubairealestatebuying](../wiki/sources/youtube-shorts-run-transcripts-s52-yaml-d2b0a059f8.md) · youtube · author unknown
+- 2024-08-27T03:30:15.549000Z · [Waiting for Certainty?](../wiki/sources/linkedin-posts-2024-08-27-waiting-for-certainty-most-people-md-c105671be8.md) · linkedin · olgasi
+- 2024-08-28T03:30:04.737000Z · [How many coaches does Ronaldo have?](../wiki/sources/linkedin-posts-2024-08-28-how-many-coaches-does-ronaldo-md-33fbb7c3c9.md) · linkedin · olgasi
+- 2024-08-28T08:06:23.648000Z · [Just in time For Lunch-Break!](../wiki/sources/linkedin-posts-2024-08-28-just-in-time-for-lunch-break-md-e53e7cafe4.md) · linkedin · olgasi
+- 2024-08-29 · [Overcoming Fear  Empowering Yourself to Pursue Opportunities in Dubai](../wiki/sources/youtube-shorts-run-transcripts-s121-yaml-a425a0b908.md) · youtube · author unknown
+- 2024-09-02T06:00:04.584000Z · [I’ll be the first to admit—there are trainers who can run a better ice-breaker or team-building activity than ](../wiki/sources/linkedin-posts-2024-09-02-ill-be-the-first-to-md-6ee40702d8.md) · linkedin · olgasi
+- 2024-09-02T12:45:05.238000Z · [The Real Reason Your Dubai Off-Plan Leads Aren’t Converting](../wiki/sources/linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde.md) · linkedin · olgasi
+- 2024-09-03T03:30:18.171000Z · [Of course, you want to detach from the sale.](../wiki/sources/linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a.md) · linkedin · olgasi
+- 2024-09-03T12:45:01.400000Z · [What’s Missing in Your Sales Strategy?](../wiki/sources/linkedin-posts-2024-09-03-whats-missing-in-your-sales-md-d4d6a54ae6.md) · linkedin · olgasi
+- 2024-09-04T04:00:05.088000Z · [How One of my Clients Boosted Conversions by 62%: A Step-by-Step Case Study](../wiki/sources/linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58.md) · linkedin · olgasi
+- 2024-09-05T07:24:21.082000Z · [Step-by-Step Guide to My Online Academy](../wiki/sources/linkedin-posts-2024-09-05-step-by-step-guide-to-my-online-md-baa2e01844.md) · linkedin · olgasi
+- 2024-09-06 · [Dubai Property Bubble Objection! Is this true or your client is ...](../wiki/sources/youtube-shorts-run-transcripts-s37-yaml-7908c637cb.md) · youtube · author unknown
+- 2024-09-06T04:45:01.493000Z · [How Fitness Became My Constant Journey](../wiki/sources/linkedin-posts-2024-09-06-how-fitness-became-my-constant-md-af72ce3ecb.md) · linkedin · olgasi
+- 2024-09-08 · [Why is the Client is giving you the Money Objection？! 💰](../wiki/sources/youtube-shorts-run-transcripts-s195-yaml-9d3247ccee.md) · youtube · author unknown
+- 2024-09-09 · [Overcome Client Objections Like a Pro! 💪](../wiki/sources/youtube-shorts-run-transcripts-s119-yaml-c675edbb27.md) · youtube · author unknown
+- 2024-09-09T09:42:58.506000Z · [I bet you have never heard "Dubai is a bubble" from your client?](../wiki/sources/linkedin-posts-2024-09-09-i-bet-you-have-never-md-cac17b3f9e.md) · linkedin · olgasi
+- 2024-09-09T10:13:58.331000Z · [I Made These 5 Mistakes in Real Estate So You Don’t Have To](../wiki/sources/linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2.md) · linkedin · olgasi
+- 2024-09-10 · [Unlocking the Secrets of Objection Handling! 💰🤔](../wiki/sources/youtube-shorts-run-transcripts-s171-yaml-58e67f499a.md) · youtube · author unknown
+- 2024-09-10T03:45:02.439000Z · [Too many agents aren’t selling at the level they could be. Even with top-notch training, mentors, and opportun](../wiki/sources/linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c.md) · linkedin · olgasi
+- 2024-09-10T11:45:02.209000Z · [Client Testimonial: How We Transformed Sales Processes for a Newcomer in Real Estate](../wiki/sources/linkedin-posts-2024-09-10-client-testimonial-how-we-transformed-md-bdc949095b.md) · linkedin · olgasi
+- 2024-09-11T03:30:08.337000Z · [Speaking against your favor to create trust?](../wiki/sources/linkedin-posts-2024-09-11-speaking-against-your-favor-to-md-2cbcaa7984.md) · linkedin · olgasi
+- 2024-09-11T04:15:01.076000Z · [Is It Time to Master Online Sales in Real Estate?](../wiki/sources/linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c.md) · linkedin · olgasi
+- 2024-09-11T12:45:00.084000Z · [Is It Time to Master Online Sales?](../wiki/sources/linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5.md) · linkedin · olgasi
+- 2024-09-12 · [The Region's First Casino is 1 hour away - Dubai Still will Benefit](../wiki/sources/youtube-shorts-run-transcripts-s156-yaml-94c534c8b9.md) · youtube · author unknown
+- 2024-09-12T11:33:43.741000Z · [🌍 The vibrant hubs of the world—New York, Tokyo, Singapore, and Dubai—are more than just stunning skylines.](../wiki/sources/linkedin-posts-2024-09-12-the-vibrant-hubs-of-the-md-ab7ab0304a.md) · linkedin · olgasi
+- 2024-09-13 · [Dubai New York Tokio or Singapore! Which one will bring you more money？ 🌍🏙️](../wiki/sources/youtube-shorts-run-transcripts-s36-yaml-870d92c6cf.md) · youtube · author unknown
+- 2024-09-13 · [AI Tool for Real Estate Agents:  Save Time and Money with Knock-Knock ｜ Tutorial & Demo](../wiki/sources/youtube-transcripts-12-yaml-6db9d6703c.md) · youtube · author unknown
+- 2024-09-13T03:41:19.031000Z · [...over 50% of real estate agents still struggle to integrate AI into their daily workflow? 🧐](../wiki/sources/linkedin-posts-2024-09-13-over-50-of-real-estate-md-57c0529eb0.md) · linkedin · olgasi
+- 2024-09-13T04:00:07.321000Z · [Why Your Future Defines Your Present](../wiki/sources/linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb.md) · linkedin · olgasi
+- 2024-09-16 · [How to handle the Objections with These Simple Steps! 🤔✨](../wiki/sources/youtube-shorts-run-transcripts-s86-yaml-4de8201e22.md) · youtube · author unknown
+- 2024-09-17 · [If he is saying - I just want to invest - Do not take it as an answer!](../wiki/sources/youtube-shorts-run-transcripts-s96-yaml-9ee2698357.md) · youtube · author unknown
+- 2024-09-17T03:30:01.157000Z · [The Power of a Mind Shift in Sales](../wiki/sources/linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03.md) · linkedin · olgasi
+- 2024-09-17T03:52:43.988000Z · [Don’t take my word for it—try it and see for yourself!](../wiki/sources/linkedin-posts-2024-09-17-dont-take-my-word-for-md-e97711ee9c.md) · linkedin · olgasi
+- 2024-09-17T10:03:49.074000Z · [The key to handling objections is to....](../wiki/sources/linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6.md) · linkedin · olgasi
+- 2024-09-18T03:30:20.611000Z · [3 to 6 months – realistic expectations for your first commission.](../wiki/sources/linkedin-posts-2024-09-18-3-to-6-months-realistic-md-8d0ca6b52f.md) · linkedin · olgasi
+- 2024-09-18T05:48:50.507000Z · [For you Real Estate Agents!](../wiki/sources/linkedin-posts-2024-09-18-for-you-real-estate-agents-md-44412b2c31.md) · linkedin · olgasi
+- 2024-09-19T03:30:08.705000Z · [Recruiters, how often do you receive job requests that make you roll your eyes?"](../wiki/sources/linkedin-posts-2024-09-19-recruiters-how-often-do-you-md-9e52618a0a.md) · linkedin · olgasi
+- 2024-09-19T10:49:49.323000Z · [How to handle the Objections with These Simple Steps! 🤔✨](../wiki/sources/linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7.md) · linkedin · olgasi
+- 2024-09-23T10:15:49.582000Z · [Why is it too expensive? and get a response like, It's just too much money. Not very helpful, right?](../wiki/sources/linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6.md) · linkedin · olgasi
+- 2024-09-24T03:43:53.303000Z · [3 Simple Steps to Build Your Personal Brand and Attract Clients Online that I consider the most important.](../wiki/sources/linkedin-posts-2024-09-24-3-simple-steps-to-build-md-c5ad55fc0d.md) · linkedin · olgasi
+- 2024-09-24T10:28:33.586000Z · [If he is saying - I just want to invest - Do not take it as an answer!](../wiki/sources/linkedin-posts-2024-09-24-if-he-is-saying-md-89d6d012c4.md) · linkedin · olgasi
+- 2024-09-24T13:40:04.575000Z · [Are you best friends with modern tech yet?](../wiki/sources/linkedin-posts-2024-09-24-are-you-best-friends-with-md-02bde83785.md) · linkedin · olgasi
+- 2024-09-25 · [Is Dubai Really That Expensive？ 💰 Let's Unravel The Truth!](../wiki/sources/youtube-shorts-run-transcripts-s97-yaml-2fc9e0614c.md) · youtube · author unknown
+- 2024-09-25T03:30:06.935000Z · [Need or Like?](../wiki/sources/linkedin-posts-2024-09-25-need-or-like-its-the-md-99a80a7199.md) · linkedin · olgasi
+- 2024-09-26 · [How to Handle Objections in Dubai Real Estate (and Close More Deals)](../wiki/sources/youtube-shorts-run-transcripts-s68-yaml-d28bfefa52.md) · youtube · author unknown
+- 2024-09-30 · [You will stop getting the Price objections from your clients...IF!💡💰](../wiki/sources/youtube-shorts-run-transcripts-s198-yaml-08d8186b05.md) · youtube · author unknown
+- 2024-09-30T12:56:09.028000Z · [How to generate leads online with 0 investments, creating a stream of clients who choose to work with you, rat](../wiki/sources/linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75.md) · linkedin · olgasi
+- 2024-10-01T04:00:07.433000Z · [This piece is Confusing)) out of the context](../wiki/sources/linkedin-posts-2024-10-01-this-piece-is-confusing-out-md-21cd565b66.md) · linkedin · olgasi
+- 2024-10-01T09:51:06.320000Z · [How to handle DUBAI is A Bubble with international clients.](../wiki/sources/linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138.md) · linkedin · olgasi
+- 2024-10-01T12:16:06.783000Z · [You will stop getting the Price objections from your clients...IF!💡💰](../wiki/sources/linkedin-posts-2024-10-01-you-will-stop-getting-the-md-710009cc57.md) · linkedin · olgasi
+- 2024-10-02T15:30:08.552000Z · [Your mindset creates perception.](../wiki/sources/linkedin-posts-2024-10-02-your-mindset-creates-perception-percepti-md-fd33529736.md) · linkedin · olgasi
+- 2024-10-07T04:00:04.403000Z · [She closed six deals in a 1 week!](../wiki/sources/linkedin-posts-2024-10-07-she-closed-six-deals-in-md-bfd8e302da.md) · linkedin · olgasi
+- 2024-10-08T05:22:59.512000Z · [How do you start Tuesdays in your Company?](../wiki/sources/linkedin-posts-2024-10-08-how-do-you-start-tuesdays-md-00b36a2fa1.md) · linkedin · olgasi
+- 2024-10-08T11:34:06.539000Z · [Do you secretly believe Dubai property prices are too expensive?](../wiki/sources/linkedin-posts-2024-10-08-do-you-secretly-believe-dubai-md-51965119a3.md) · linkedin · olgasi
+- 2024-10-15T10:55:02.441000Z · [Overcome the Objections without Pitching with this 1 question!](../wiki/sources/linkedin-posts-2024-10-15-overcome-the-objections-without-pitching-md-44bf5d7c94.md) · linkedin · olgasi
+- 2024-10-15T11:15:01.047000Z · [How to Do a Price Reduction?](../wiki/sources/linkedin-posts-2024-10-15-how-to-do-a-price-md-28502a2243.md) · linkedin · olgasi
+- 2024-10-17 · [Why Are Buyers Saying It's TOO EXPENSIVE？!](../wiki/sources/youtube-shorts-run-transcripts-s189-yaml-a9469ac3d6.md) · youtube · author unknown
+- 2024-10-18T04:30:18.121000Z · [All Good things are always FREE!](../wiki/sources/linkedin-posts-2024-10-18-all-good-things-are-always-md-e8b1e0a3ba.md) · linkedin · olgasi
+- 2024-10-21 · [Overcome the Objections without Pushing with this 1 question!](../wiki/sources/youtube-shorts-run-transcripts-s120-yaml-d6d62740bf.md) · youtube · author unknown
+- 2024-10-24T04:00:02.116000Z · [New way to network!](../wiki/sources/linkedin-posts-2024-10-24-new-way-to-network-have-md-43b6d72d93.md) · linkedin · olgasi
+- 2024-10-25T04:30:20.297000Z · [Trying to sell OFF-PLAN on ZOOM?](../wiki/sources/linkedin-posts-2024-10-25-trying-to-sell-off-plan-on-md-4af3e69cd7.md) · linkedin · olgasi
+- 2024-10-30T04:00:05.627000Z · [Finding an LMS that doesn’t double as a sleep aid...](../wiki/sources/linkedin-posts-2024-10-30-finding-an-lms-that-doesnt-md-bf86fc2aae.md) · linkedin · olgasi
+- 2024-10-31T06:36:36.141000Z · [10 Years in Dubai Real Estate...](../wiki/sources/linkedin-posts-2024-10-31-10-years-in-dubai-real-md-de4e98afd8.md) · linkedin · olgasi
+- 2024-11-01T04:15:01.362000Z · [Staring at a list of old company leads, wondering how you're supposed to generate new business from them?](../wiki/sources/linkedin-posts-2024-11-01-staring-at-a-list-of-md-042484d6e0.md) · linkedin · olgasi
+- 2024-11-04T04:00:05.531000Z · [This thought hit me on a Saturday night..](../wiki/sources/linkedin-posts-2024-11-04-this-thought-hit-me-on-md-dbd9fc3852.md) · linkedin · olgasi
+- 2024-11-05T04:59:17.705000Z · [I’m happy to share that I’m starting a new position as Head of Performance and Training at Chestertons MENA!](../wiki/sources/linkedin-posts-2024-11-05-im-happy-to-share-that-md-87197b9616.md) · linkedin · olgasi
+- 2024-11-08T04:00:02.974000Z · [It’s not about posting more; it’s about creating the right kind of content.](../wiki/sources/linkedin-posts-2024-11-08-its-not-about-posting-more-md-3d8518ec62.md) · linkedin · olgasi
+- 2024-11-11 · [The Real Estate Secret No One Will Tell You](../wiki/sources/youtube-shorts-run-transcripts-s155-yaml-3089cec4f6.md) · youtube · author unknown
+- 2024-11-11T04:05:20.268000Z · [In the world of real estate, there's a costly mistake that many newcomers make: the fear of asking questions.](../wiki/sources/linkedin-posts-2024-11-11-in-the-world-of-real-md-a87f9e7adb.md) · linkedin · olgasi
+- 2024-11-13T04:00:01.865000Z · [Why do they HANG UP on you?](../wiki/sources/linkedin-posts-2024-11-13-why-do-they-hang-up-md-746d358926.md) · linkedin · olgasi
+- 2024-11-14T04:01:06.042000Z · [When dreams meet reality..](../wiki/sources/linkedin-posts-2024-11-14-when-dreams-meet-reality-the-md-4f770bac64.md) · linkedin · olgasi
+- 2024-11-15T04:00:02.118000Z · [It’s time to uncover the real reasons NOONE is talking about!](../wiki/sources/linkedin-posts-2024-11-15-its-time-to-uncover-the-md-6d4e6206d5.md) · linkedin · olgasi
+- 2024-11-15T04:00:05.891000Z · [Selling isn’t just telling... It’s about asking the right questions at the right time.](../wiki/sources/linkedin-posts-2024-11-15-selling-isnt-just-telling-its-md-e4301c74cd.md) · linkedin · olgasi
+- 2024-11-15T05:06:33.249000Z · [Challenging sport!](../wiki/sources/linkedin-posts-2024-11-15-challenging-sport-fearless-strong-fast-md-0a6905ddba.md) · linkedin · olgasi
+- 2024-11-18T03:55:01.073000Z · [Don’t Get Mad at Me!](../wiki/sources/linkedin-posts-2024-11-18-dont-get-mad-at-me-md-b921920af9.md) · linkedin · olgasi
+- 2024-11-18T04:24:03.618000Z · [Is this Unit really that Amazing?](../wiki/sources/linkedin-posts-2024-11-18-is-this-unit-really-that-md-adbce7b6df.md) · linkedin · olgasi
+- 2024-11-18T06:46:27.896000Z · [If you are lazy to read it all)](../wiki/sources/linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b.md) · linkedin · olgasi
+- 2024-11-19T04:00:03.875000Z · [Saudi Arabia’s Emerging Real Estate Market: What You Need to Know](../wiki/sources/linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017.md) · linkedin · olgasi
+- 2024-11-21 · [Unlocking Real Estate Success:  The Secret to Building Trust!](../wiki/sources/youtube-shorts-run-transcripts-s170-yaml-c95654966a.md) · youtube · author unknown
+- 2024-11-21T08:09:44.928000Z · [Sales isn’t easy, and real estate comes with its own challenges—but with the right guidance and tools, success](../wiki/sources/linkedin-posts-2024-11-21-sales-isnt-easy-and-real-md-90799e656e.md) · linkedin · olgasi
+- 2024-11-21T12:00:21.797000Z · [Master Your Area: A Real Estate Professional's Guide.](../wiki/sources/linkedin-posts-2024-11-21-master-your-area-a-real-md-852b756fc0.md) · linkedin · olgasi
+- 2024-11-25 · [Afraid of the Cold Calling？ 3 simple steps on how to change it.](../wiki/sources/youtube-shorts-run-transcripts-s12-yaml-1d77e96348.md) · youtube · author unknown
+- 2024-11-25T03:33:06.762000Z · [In a global hub like Dubai, underestimating cultural and language differences can trip you up faster than a sp](../wiki/sources/linkedin-posts-2024-11-25-in-a-global-hub-like-md-1d8305f46d.md) · linkedin · olgasi
+- 2024-11-26T13:00:24.481000Z · [How do you get Listings in the current market?](../wiki/sources/linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8.md) · linkedin · olgasi
+- 2024-11-28T12:45:02.967000Z · [I have a Pocket Listings - So Does everyone else!](../wiki/sources/linkedin-posts-2024-11-28-i-have-a-pocket-listings-md-ace554932a.md) · linkedin · olgasi
+- 2024-12-04T07:43:14.550000Z · [10 years out of 53...](../wiki/sources/linkedin-posts-2024-12-04-10-years-out-of-53-md-95ed3d4a82.md) · linkedin · olgasi
+- 2024-12-05T12:45:03.633000Z · [How to Convince The Client?](../wiki/sources/linkedin-posts-2024-12-05-how-to-convince-the-client-md-4074c6a57c.md) · linkedin · olgasi
+- 2024-12-06 · [2025 Insights for New Real Estate Professionals in Dubai ｜ How to Start Selling Real Estate. Part 1](../wiki/sources/youtube-transcripts-04-yaml-7001eb6128.md) · youtube · author unknown
+- 2024-12-06T06:48:24.104000Z · [Try this Free AI assistant for building your listing presentation.](../wiki/sources/linkedin-posts-2024-12-06-try-this-free-ai-assistant-md-b48575a31b.md) · linkedin · olgasi
+- 2024-12-06T09:11:11.098000Z · [Creating more transparency in the market, I'm positive that UAE will be the first place to run this technology](../wiki/sources/linkedin-posts-2024-12-06-creating-more-transparency-in-the-md-493d5a2543.md) · linkedin · olgasi
+- 2024-12-09 · [How to ask Uncomfortable Questions in Real Estate, without sounding rude or pushy!？](../wiki/sources/youtube-shorts-run-transcripts-s80-yaml-d205dbdd2b.md) · youtube · author unknown
+- 2024-12-09T05:18:58.788000Z · [Solution for YOUR Pocket listings!](../wiki/sources/linkedin-posts-2024-12-09-solution-for-your-pocket-listings-md-a3a117c887.md) · linkedin · olgasi
+- 2024-12-10 · [2025 Insights for New Real Estate Agents in Dubai ｜ How to Get Listings in Dubai？ Part 2.](../wiki/sources/youtube-transcripts-03-yaml-e083a8937f.md) · youtube · author unknown
+- 2024-12-16T04:29:09.258000Z · [Struggling with Time Management in your business?](../wiki/sources/linkedin-posts-2024-12-16-struggling-with-time-management-in-md-860b2c8abd.md) · linkedin · olgasi
+- 2024-12-17T04:20:01.255000Z · [One Deal Away from Your Target? Let’s Talk Price Reduction.](../wiki/sources/linkedin-posts-2024-12-17-one-deal-away-from-your-md-8677a05be4.md) · linkedin · olgasi
+- 2024-12-17T08:50:01.061000Z · [High competition has been the defining characteristic of Dubai’s real estate market over the past three to fou](../wiki/sources/linkedin-posts-2024-12-17-high-competition-has-been-the-md-2fa8c83180.md) · linkedin · olgasi
+- 2024-12-17T12:30:24.620000Z · [Get you notebook ready!](../wiki/sources/linkedin-posts-2024-12-17-get-you-notebook-ready-3-md-8326ae2c5c.md) · linkedin · olgasi
+- 2024-12-20T12:51:50.100000Z · [🎄✨ We had an amazing festive potluck today at Chestertons MENA! Although most of our team is already off enjoy](../wiki/sources/linkedin-posts-2024-12-20-we-had-an-amazing-festive-md-fa036de3f1.md) · linkedin · kaleigh-filip
+- 2024-12-21 · [How to Get More Listings in Dubai ONLINE (and stop collecting Pocket Listings)](../wiki/sources/youtube-shorts-run-transcripts-s66-yaml-c916978202.md) · youtube · author unknown
+- 2024-12-21T06:50:01.044000Z · [Opportunity in #Riyadh](../wiki/sources/linkedin-posts-2024-12-21-opportunity-in-riyadh-md-dc491b86a6.md) · linkedin · olgasi
+- 2024-12-23 · [How to start as New Agent in Dubia Real Estate Market in 2025？](../wiki/sources/youtube-shorts-run-transcripts-s90-yaml-d710f8f5c8.md) · youtube · author unknown
+- 2024-12-23T05:16:20.064000Z · [Yet again, there’s one more initiative that supports economic growth and, of course, real estate demand as one](../wiki/sources/linkedin-posts-2024-12-23-yet-again-theres-one-more-md-1748bee194.md) · linkedin · olgasi
+- 2024-12-26T15:23:58.951000Z · [Not Christmas Related!](../wiki/sources/linkedin-posts-2024-12-26-not-christmas-related-final-push-md-dd97ab43ac.md) · linkedin · olgasi
+- 2024-12-30T11:14:38.243000Z · [What if this year, your goals didn’t just stay on paper?](../wiki/sources/linkedin-posts-2024-12-30-what-if-this-year-your-md-e9ba9799e0.md) · linkedin · olgasi
+- 2025-01-03T13:09:08.298000Z · [Ever felt overwhelmed by goal-setting?](../wiki/sources/linkedin-posts-2025-01-03-ever-felt-overwhelmed-by-goal-setting-md-aaac6e9cf3.md) · linkedin · olgasi
+- 2025-01-06T03:57:42.827000Z · [The digital age demands presence across platforms like LinkedIn, Instagram, and Facebook.](../wiki/sources/linkedin-posts-2025-01-06-the-digital-age-demands-presence-md-b8b55817a1.md) · linkedin · olgasi
+- 2025-01-06T13:26:03.111000Z · [Any company will benefit greatly from  exceptional expertise and leadership of Simone Dobson, MIAM](../wiki/sources/linkedin-posts-2025-01-06-any-company-will-benefit-greatly-md-71d3eee937.md) · linkedin · olgasi
+- 2025-01-09 · [2025 Insights for New Real Estate Agents  in Dubai ｜ Real Estate Price Reduction Strategy. Part 3](../wiki/sources/youtube-transcripts-02-yaml-c6ae54efe6.md) · youtube · author unknown
+- 2025-01-10T03:30:05.480000Z · [Every homeowner wants a Top Dollar for their home.](../wiki/sources/linkedin-posts-2025-01-10-every-homeowner-wants-a-top-md-960ceadc79.md) · linkedin · olgasi
+- 2025-01-13 · [How to Convince Buyers？ What to Say to Make Them Buy？](../wiki/sources/youtube-shorts-run-transcripts-s63-yaml-69a44cc369.md) · youtube · author unknown
+- 2025-01-14T08:24:31.680000Z · [Have you ever held 798.667.00 AED in cash?](../wiki/sources/linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7.md) · linkedin · olgasi
+- 2025-01-20 · [How to Be Successful in Real Estate in  Dubai 2025？](../wiki/sources/youtube-shorts-run-transcripts-s57-yaml-c609fa1253.md) · youtube · author unknown
+- 2025-01-20 · [How to Start as a New Real Estate Agent in Dubai？ @OlgaSinenkoRealEstate](../wiki/sources/youtube-shorts-run-transcripts-s76-yaml-00373e3576.md) · youtube · author unknown
+- 2025-01-20T14:47:01.386000Z · [You know those Mondays when everything just clicks? When you feel like you’re truly making a difference?](../wiki/sources/linkedin-posts-2025-01-20-you-know-those-mondays-when-md-8bfb6f01b7.md) · linkedin · olgasi
+- 2025-01-21T03:30:01.183000Z · [Would You Consider Becoming a Sales Trainer in Real Estate?](../wiki/sources/linkedin-posts-2025-01-21-would-you-consider-becoming-a-md-85ff284ff2.md) · linkedin · olgasi
+- 2025-01-21T07:44:53Z · [Have you Had an Experience with Wati?](../wiki/sources/linkedin-posts-2025-01-21-have-you-had-an-experience-md-c9a61bb5c5.md) · linkedin · olgasi
+- 2025-01-22T12:23:24.185000Z · [Want answers to the biggest challenges slowing you down?](../wiki/sources/linkedin-posts-2025-01-22-want-answers-to-the-biggest-md-3538907e1d.md) · linkedin · olgasi
+- 2025-01-24T05:26:04.284000Z · [My designer Skills are improving!!!](../wiki/sources/linkedin-posts-2025-01-24-my-designer-skills-are-improving-md-6d5e3894fb.md) · linkedin · olgasi
+- 2025-01-27 · [How to Convert The Pocket Listing Into Actual Listing With The Document？](../wiki/sources/youtube-shorts-run-transcripts-s62-yaml-bc30d67c6d.md) · youtube · author unknown
+- 2025-01-27 · [How to Handle I Need to Think About it Objection？ @OlgaSinenkoRealEstate](../wiki/sources/youtube-shorts-run-transcripts-s67-yaml-9f77fc8b31.md) · youtube · author unknown
+- 2025-01-27T04:00:09.859000Z · [If Tomorrow Money Disappeared, What Would You Have Left?](../wiki/sources/linkedin-posts-2025-01-27-if-tomorrow-money-disappeared-what-md-a7e869457a.md) · linkedin · olgasi
+- 2025-01-27T12:16:16.518000Z · [This Opportunity is for You!](../wiki/sources/linkedin-posts-2025-01-27-this-opportunity-is-for-you-md-4ec09e970e.md) · linkedin · olgasi
+- 2025-01-29 · [How To Convert I'm JUST Looking into a Sales DEAL？](../wiki/sources/youtube-shorts-run-transcripts-s53-yaml-2fa40f95a0.md) · youtube · author unknown
+- 2025-01-30T12:37:35.240000Z · [LinkedIn Asked my Opinion on...](../wiki/sources/linkedin-posts-2025-01-30-linkedin-asked-my-opinion-on-md-b61bde1b9f.md) · linkedin · olgasi
+- 2025-01-31T06:04:48.290000Z · [Haven't Posted My Training Videos in a while...](../wiki/sources/linkedin-posts-2025-01-31-havent-posted-my-training-videos-md-0c1b6d7396.md) · linkedin · olgasi
+- 2025-02-03 · [How to SELL Off Plan to International Investors  Dubai Agents Blueprint](../wiki/sources/youtube-shorts-run-transcripts-s73-yaml-1596d25c04.md) · youtube · author unknown
+- 2025-02-03 · [I Trained AI to Call Old Leads! Watch Till The End... Dubai AI COLD CALLING](../wiki/sources/youtube-shorts-run-transcripts-s93-yaml-f1ccc54f39.md) · youtube · author unknown
+- 2025-02-03T04:35:01.046000Z · [If You Yourself Believe in the Objection, You Will Never Be Able to Overcome It...](../wiki/sources/linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353.md) · linkedin · olgasi
+- 2025-02-04 · [How to BOOK More Meeting and Covert Them Into Sales？ (Dubai Agents)](../wiki/sources/youtube-shorts-run-transcripts-s56-yaml-d8e24cc61a.md) · youtube · author unknown
+- 2025-02-06 · [How to Use the Script to Build Rapport.  Become a Top Agent in Dubai.](../wiki/sources/youtube-shorts-run-transcripts-s79-yaml-9f84fb34a0.md) · youtube · author unknown
+- 2025-02-07T05:47:29.176000Z · [Golden Visas for Content Creators!](../wiki/sources/linkedin-posts-2025-02-07-golden-visas-for-content-creators-md-96fd5f9cfd.md) · linkedin · olgasi
+- 2025-02-11 · [How to Start as Dubai Agent if you are FROM UK, USA, Canada, Australia](../wiki/sources/youtube-shorts-run-transcripts-s75-yaml-e5b3b20360.md) · youtube · author unknown
+- 2025-02-11T07:54:18.152000Z · [I Got Scammed Recently – Here’s What Happened...](../wiki/sources/linkedin-posts-2025-02-11-i-got-scammed-recently-heres-md-d1da6f623a.md) · linkedin · olgasi
+- 2025-02-12T06:04:39.164000Z · [It seems Dubai has become the new 'Little Britain,' now boasting more Brits than Oxford!](../wiki/sources/linkedin-posts-2025-02-12-it-seems-dubai-has-become-md-5b24457b91.md) · linkedin · olgasi
+- 2025-02-13T08:39:08.208000Z · [OneGulf, OneFuture: How Dubai and Saudi Arabia Could Reshape Gulf Real Estate Together.](../wiki/sources/linkedin-posts-2025-02-13-onegulf-onefuture-how-dubai-and-md-cf685987c8.md) · linkedin · olgasi
+- 2025-02-18 · [2025 Dubai Real Estate Market Correction. (For Investors - How to read the Market)](../wiki/sources/youtube-transcripts-01-yaml-ccbc788916.md) · youtube · author unknown
+- 2025-02-20 · [How to convert the Pocket Listing into Listing Under Contract with YOU？ (Dubai Real Estate Agents)](../wiki/sources/youtube-shorts-run-transcripts-s81-yaml-7ec666a5e5.md) · youtube · author unknown
+- 2025-02-24T03:45:01.142000Z · [Why Dubai’s Real Estate Market Desperately Needs Strong Trainers”](../wiki/sources/linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e.md) · linkedin · olgasi
+- 2025-02-26 · [How to Book More Sales Meetings when Selling Off plan in Dubai？!](../wiki/sources/youtube-shorts-run-transcripts-s58-yaml-474939dc9f.md) · youtube · author unknown
+- 2025-03-03T06:43:09.408000Z · [Dubai: The Future That Never Gets Old](../wiki/sources/linkedin-posts-2025-03-03-dubai-the-future-that-never-md-75add3f943.md) · linkedin · olgasi
+- 2025-03-05 · [This Is How to SELL a Meeting and Increase Show up RATE](../wiki/sources/youtube-shorts-run-transcripts-s164-yaml-c937cae91b.md) · youtube · author unknown
+- 2025-03-07T05:49:27.307000Z · [Have you heard already about Saudi tallest Tower?](../wiki/sources/linkedin-posts-2025-03-07-have-you-heard-already-about-md-f81604a8b5.md) · linkedin · olgasi
+- 2025-03-08T20:19:53.212000Z · [Ladies, today is Women’s Day—a day to celebrate everything that matters to us.](../wiki/sources/linkedin-posts-2025-03-08-ladies-today-is-womens-daya-md-0b6d74d642.md) · linkedin · olgasi
+- 2025-03-10T05:00:03.067000Z · [I’ve never needed to sell anything on LinkedIn.](../wiki/sources/linkedin-posts-2025-03-10-ive-never-needed-to-sell-md-de56a4001e.md) · linkedin · olgasi
+- 2025-03-12 · [Dubai Real Estate:  The HARSH Reality Nobody Talks About!](../wiki/sources/youtube-shorts-run-transcripts-s40-yaml-2334c566bb.md) · youtube · author unknown
+- 2025-03-13T10:38:55.216000Z · [True or False?](../wiki/sources/linkedin-posts-2025-03-13-true-or-false-big-deals-md-908b353652.md) · linkedin · olgasi
+- 2025-03-19 · [Worth it？ From Salary to Commission only!](../wiki/sources/youtube-shorts-run-transcripts-s196-yaml-2dec848a31.md) · youtube · author unknown
+- 2025-03-20T04:05:17.355000Z · [You’re offering the best deal. The perfect solution. It’s exactly what your client needs.](../wiki/sources/linkedin-posts-2025-03-20-youre-offering-the-best-deal-md-8a5c6dfd48.md) · linkedin · olgasi
+- 2025-03-21 · [How to make the seller choose YOU over other agent](../wiki/sources/youtube-shorts-run-transcripts-s87-yaml-5d549fc8aa.md) · youtube · author unknown
+- 2025-03-23 · [HOW TO CONVINCE THE SELLER](../wiki/sources/youtube-shorts-run-transcripts-s46-yaml-bf8acc0e1a.md) · youtube · author unknown
+- 2025-03-27T04:30:02.588000Z · [You’re not lazy. You’re just lost in the wrong actions.](../wiki/sources/linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c.md) · linkedin · olgasi
+- 2025-03-31 · [Get more Listings with this Sellers Follow Up strategy!](../wiki/sources/youtube-shorts-run-transcripts-s45-yaml-eca160f25a.md) · youtube · author unknown
+- 2025-04-03 · [HOW TO OVERCOME COLD CALLING ANXIETY](../wiki/sources/youtube-shorts-run-transcripts-s47-yaml-ad48cbaeb7.md) · youtube · author unknown
+- 2025-04-03T05:55:07.628000Z · [To every new real estate agent feeling overwhelmed right now — this is for you.](../wiki/sources/linkedin-posts-2025-04-03-to-every-new-real-estate-md-7ee8ad43d5.md) · linkedin · olgasi
+- 2025-04-04 · [Don’t Fall for This Offer](../wiki/sources/youtube-shorts-run-transcripts-s34-yaml-582379029e.md) · youtube · author unknown
+- 2025-04-04T12:52:22.154000Z · [18 minutes a day.](../wiki/sources/linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d.md) · linkedin · olgasi
+- 2025-04-05 · [How to stop getting “Just send me some options” and start booking Zoom meetings](../wiki/sources/youtube-shorts-run-transcripts-s91-yaml-7ef81f3fc9.md) · youtube · author unknown
+- 2025-04-07T04:30:05.308000Z · [Let’s be real:](../wiki/sources/linkedin-posts-2025-04-07-lets-be-real-99-of-md-103eaf9d19.md) · linkedin · olgasi
+- 2025-04-09 · [Say THIS to Book more Meetings with Clients](../wiki/sources/youtube-shorts-run-transcripts-s124-yaml-fbbadffa3e.md) · youtube · author unknown
+- 2025-04-09T04:15:01.518000Z · [Selling off-plan to international clients?](../wiki/sources/linkedin-posts-2025-04-09-selling-off-plan-to-international-client-md-1d6b445dfe.md) · linkedin · olgasi
+- 2025-04-11 · [IF The Buyers Are Ghosting you…](../wiki/sources/youtube-shorts-run-transcripts-s94-yaml-d36c8c65d2.md) · youtube · author unknown
+- 2025-04-11T04:30:08.608000Z · [The businesses that have a brain — dominate.](../wiki/sources/linkedin-posts-2025-04-11-the-businesses-that-have-a-md-86b8c74700.md) · linkedin · olgasi
+- 2025-04-14T04:30:04.559000Z · [If you’ve ever been told to “create urgency” by telling your client there are only a few units left — this is ](../wiki/sources/linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570.md) · linkedin · olgasi
+- 2025-04-16T04:15:02.374000Z · [It’s probably still not too late to save a few deals sitting quietly in your  Whatsapp inbox.](../wiki/sources/linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399.md) · linkedin · olgasi
+- 2025-04-16T05:49:31.382000Z · [Looking for the secret to attract million-dirham agents into your team?](../wiki/sources/linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a.md) · linkedin · olgasi
+- 2025-04-16T15:54:32.393000Z · [My new Off-plan training just Dropped.](../wiki/sources/linkedin-posts-2025-04-16-my-new-off-plan-training-just-md-18e7c0d3dd.md) · linkedin · olgasi
+- 2025-04-18T07:14:59.136000Z · [If your current reality feels like a dead end — keep reading.](../wiki/sources/linkedin-posts-2025-04-18-if-your-current-reality-feels-md-c366d002b6.md) · linkedin · olgasi
+- 2025-04-21T04:30:05.881000Z · [Scripts don’t work anymore.”](../wiki/sources/linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289.md) · linkedin · olgasi
+- 2025-04-22 · [Convert Poket Listing Into Listings under Contract with this Simple Steps! (for Sellers in DUBAI)](../wiki/sources/youtube-shorts-run-transcripts-s28-yaml-0b6be1e703.md) · youtube · author unknown
+- 2025-04-22T04:26:42.917000Z · [• You haven’t closed a deal in weeks (or let’s be honest… way longer)](../wiki/sources/linkedin-posts-2025-04-22-you-havent-closed-a-deal-md-6319a35892.md) · linkedin · olgasi
+- 2025-04-22T14:32:28.396000Z · [Occupancy Rate in Downtown Dubai!](../wiki/sources/linkedin-posts-2025-04-22-occupancy-rate-in-downtown-dubai-md-2cbae05ebf.md) · linkedin · olgasi
+- 2025-04-23T12:45:05.866000Z · [Does your mother want the worst for you?](../wiki/sources/linkedin-posts-2025-04-23-does-your-mother-want-the-md-63123f766a.md) · linkedin · olgasi
+- 2025-04-23T14:15:05.749000Z · [“But this is the BEST project!”](../wiki/sources/linkedin-posts-2025-04-23-but-this-is-the-best-md-55393618bd.md) · linkedin · olgasi
+- 2025-04-28T04:30:03.153000Z · [From the outside, Dubai looks perfect.](../wiki/sources/linkedin-posts-2025-04-28-from-the-outside-dubai-looks-md-2f1c9d0170.md) · linkedin · olgasi
+- 2025-04-28T14:14:13.474000Z · [Amazing opportunity for someone in my network!](../wiki/sources/linkedin-posts-2025-04-28-amazing-opportunity-for-someone-in-md-480fdc4b48.md) · linkedin · olgasi
+- 2025-04-29T10:41:52.968000Z · [Want to become a top-performing real estate agent in Dubai?](../wiki/sources/linkedin-posts-2025-04-29-want-to-become-a-top-performing-md-7f1b423215.md) · linkedin · olgasi
+- 2025-04-30T11:00:14.338000Z · [More than a decade ago, he landed in Dubai and started over — as a real estate agent.](../wiki/sources/linkedin-posts-2025-04-30-more-than-a-decade-ago-md-b6f2074912.md) · linkedin · olgasi
+- 2025-05-02T13:01:35.675000Z · [I’m looking for my Training Coordinator!](../wiki/sources/linkedin-posts-2025-05-02-im-looking-for-my-training-md-892ab86a73.md) · linkedin · olgasi
+- 2025-05-04 · [Dubai Real Estate Secrets:  Stability, Trust, Emotions](../wiki/sources/youtube-shorts-run-transcripts-s39-yaml-e5b7e0e3c1.md) · youtube · author unknown
+- 2025-05-05T04:45:01.583000Z · [“How do I stop the client from working with other agents?”](../wiki/sources/linkedin-posts-2025-05-05-how-do-i-stop-the-md-a79eed76e3.md) · linkedin · olgasi
+- 2025-05-05T06:22:37.763000Z · [A new chapter begins.](../wiki/sources/linkedin-posts-2025-05-05-a-new-chapter-begins-ive-md-c8a68ea1ac.md) · linkedin · olgasi
+- 2025-05-06 · [Only if you are Serious about Making Money in Dubai Real Estate in 2025!](../wiki/sources/youtube-shorts-run-transcripts-s118-yaml-a8372f3450.md) · youtube · author unknown
+- 2025-05-07T03:45:02.809000Z · [If you're in your early real estate career — negotiating price reductions can feel impossible.](../wiki/sources/linkedin-posts-2025-05-07-if-youre-in-your-early-md-9de956aacf.md) · linkedin · olgasi
+- 2025-05-07T09:22:09.871000Z · [Over 20 candidates applied for my Training Coordinator role.](../wiki/sources/linkedin-posts-2025-05-07-over-20-candidates-applied-for-md-23e65f42f7.md) · linkedin · olgasi
+- 2025-05-09T04:32:36.769000Z · [You’re doing everything —](../wiki/sources/linkedin-posts-2025-05-09-youre-doing-everything-so-why-md-aeeb2efb98.md) · linkedin · olgasi
+- 2025-05-10T11:53:04.474000Z · [Weekend’s reps for your closing muscle? 💪](../wiki/sources/linkedin-posts-2025-05-10-weekends-reps-for-your-closing-md-db3c854eda.md) · linkedin · olgasi
+- 2025-05-12T04:00:05.497000Z · [Here’s how the story really ended:](../wiki/sources/linkedin-posts-2025-05-12-heres-how-the-story-really-md-8eaf2a765c.md) · linkedin · olgasi
+- 2025-05-12T15:14:38.200000Z · [No leads?](../wiki/sources/linkedin-posts-2025-05-12-no-leads-no-training-heres-md-67845742b9.md) · linkedin · olgasi
+- 2025-05-13 · [How to Earn 1 million AED Selling Real Estate in Dubai](../wiki/sources/youtube-shorts-run-transcripts-s65-yaml-028370d216.md) · youtube · author unknown
+- 2025-05-14T04:30:01.904000Z · [Just send me some options...](../wiki/sources/linkedin-posts-2025-05-14-just-send-me-some-options-md-1035a8c195.md) · linkedin · olgasi
+- 2025-05-14T04:30:02.801000Z · [How to follow up with a seller (without looking like a stalker).](../wiki/sources/linkedin-posts-2025-05-14-how-to-follow-up-with-md-8866d75461.md) · linkedin · olgasi
+- 2025-05-15 · [Clients Don’t Want Cheap. You Just Don’t Show Value](../wiki/sources/youtube-shorts-run-transcripts-s24-yaml-dee3b532d6.md) · youtube · author unknown
+- 2025-05-15T14:20:39.144000Z · [Why I No Longer Hire Based on CVs](../wiki/sources/linkedin-posts-2025-05-15-why-i-no-longer-hire-md-34bb92c857.md) · linkedin · olgasi
+- 2025-05-17 · [You’d Rather Look Good Than Make Money？ Why Agents Are Afraid of Making Calls](../wiki/sources/youtube-shorts-run-transcripts-s201-yaml-0976b45039.md) · youtube · author unknown
+- 2025-05-19 · [Still Can’t Convince Buyers？ Try This Instead](../wiki/sources/youtube-shorts-run-transcripts-s130-yaml-5314a1f442.md) · youtube · author unknown
+- 2025-05-22T06:32:53.359000Z · [Not Just Training. A Real Sales Transformation in 6 Months.](../wiki/sources/linkedin-posts-2025-05-22-not-just-training-a-real-md-7721cb4552.md) · linkedin · olgasi
+- 2025-05-24 · [Objections Aren’t the Problem — You Are](../wiki/sources/youtube-shorts-run-transcripts-s116-yaml-088bdc41fd.md) · youtube · author unknown
+- 2025-05-26 · [Want to Make 1 Million in Dubai Real Estate？](../wiki/sources/youtube-shorts-run-transcripts-s175-yaml-8d74cedab2.md) · youtube · author unknown
+- 2025-05-26 · [Why they don’t buy from you？ Every Dubai Agent should Watch!](../wiki/sources/youtube-transcripts-104-yaml-cef95bc655.md) · youtube · author unknown
+- 2025-05-27 · [Objections or Trust？ Why Your Sales Tactics Are Failing in 2025](../wiki/sources/youtube-shorts-run-transcripts-s117-yaml-be0a8100f9.md) · youtube · author unknown
+- 2025-05-29T16:46:22.007000Z · [Me and Ashley-James Hawthorne we did it again!](../wiki/sources/linkedin-posts-2025-05-29-me-and-ashley-james-hawthorne-we-md-47e71f8489.md) · linkedin · olgasi
+- 2025-06-03 · [Commission Breath Is Killing Your Deals — Here’s Why](../wiki/sources/youtube-shorts-run-transcripts-s26-yaml-874b88cd5a.md) · youtube · author unknown
+- 2025-06-04 · [“Just Send Me Some Options” — You Provoked That Response](../wiki/sources/youtube-shorts-run-transcripts-s207-yaml-6cb07b3c72.md) · youtube · author unknown
+- 2025-06-04T10:29:42.878000Z · [45…No, I wouldn’t want to be younger.](../wiki/sources/linkedin-posts-2025-06-04-45no-i-wouldnt-want-to-md-bc1279161c.md) · linkedin · olgasi
+- 2025-06-05 · [Even If You “Win” the Argument — You Still Lose the Deal](../wiki/sources/youtube-shorts-run-transcripts-s41-yaml-217124ee0a.md) · youtube · author unknown
+- 2025-06-07 · [Your Follow-Up Sucks — That’s Why You’re Not Closing](../wiki/sources/youtube-shorts-run-transcripts-s200-yaml-483c6ff175.md) · youtube · author unknown
+- 2025-06-08 · [Are You Forcing Clients to Say “Yes”？ Here’s the Problem](../wiki/sources/youtube-shorts-run-transcripts-s15-yaml-6fcf5a353b.md) · youtube · author unknown
+- 2025-06-10 · [WHY clients only want cheap from YOU](../wiki/sources/youtube-shorts-run-transcripts-s172-yaml-6ca6c71e8f.md) · youtube · author unknown
+- 2025-06-10T04:24:33.681000Z · [Want to make more money?](../wiki/sources/linkedin-posts-2025-06-10-want-to-make-more-money-md-613e9b9f70.md) · linkedin · olgasi
+- 2025-06-11 · [Discomfort Sells — But Only If You Use It Right](../wiki/sources/youtube-shorts-run-transcripts-s31-yaml-8059c6e7be.md) · youtube · author unknown
+- 2025-06-13T12:58:46.760000Z · [Lost a deal this week?](../wiki/sources/linkedin-posts-2025-06-13-lost-a-deal-this-week-md-6823ad1bde.md) · linkedin · olgasi
+- 2025-06-14 · [Stop Sounding Like a Salesperson — This Cold Call Actually Works](../wiki/sources/youtube-shorts-run-transcripts-s139-yaml-525ece4570.md) · youtube · author unknown
+- 2025-06-17 · [Beginner’s Guide:  How to Actually Start in Dubai Real Estate](../wiki/sources/youtube-shorts-run-transcripts-s19-yaml-9b48711af4.md) · youtube · author unknown
+- 2025-06-18 · [“Just Send Me Some Options” = Dead End (Here’s What to Say Instead)](../wiki/sources/youtube-shorts-run-transcripts-s205-yaml-594e56f8e8.md) · youtube · author unknown
+- 2025-06-19 · [Why Buyers Say No to Zoom — And How to Get a Yes Instead](../wiki/sources/youtube-shorts-run-transcripts-s190-yaml-3f0a82d5fd.md) · youtube · author unknown
+- 2025-06-20T06:23:02.083000Z · [No one saw your effort. That doesn’t mean it didn’t matter.](../wiki/sources/linkedin-posts-2025-06-20-no-one-saw-your-effort-md-cf2ae8ad5f.md) · linkedin · olgasi
+- 2025-06-21 · [Want to Start in Dubai Real Estate？ Watch This Before You Move](../wiki/sources/youtube-shorts-run-transcripts-s176-yaml-bc083432bd.md) · youtube · author unknown
+- 2025-06-22 · [“Just Send Me Some Options” — Here’s What They Really Mean](../wiki/sources/youtube-shorts-run-transcripts-s206-yaml-d55888d59e.md) · youtube · author unknown
+- 2025-06-24 · [Why most agents fail at off-plan sales in first 6 months](../wiki/sources/youtube-transcripts-103-yaml-103f5524d6.md) · youtube · author unknown
+- 2025-06-25 · [You’re Not an Employee — You’re the Business. Start Acting Like It](../wiki/sources/youtube-shorts-run-transcripts-s202-yaml-fe8c4aa241.md) · youtube · author unknown
+- 2025-06-25T08:16:04.153000Z · [Need your help!](../wiki/sources/linkedin-posts-2025-06-25-need-your-help-im-refreshing-md-0518c4278e.md) · linkedin · olgasi
+- 2025-06-26 · [“I Like Houses, So I’ll Do Real Estate” — Biggest Mistake Beginners Make](../wiki/sources/youtube-shorts-run-transcripts-s204-yaml-b28acaab98.md) · youtube · author unknown
+- 2025-07-03T03:47:22.415000Z · [“I just want a distressed deal.”](../wiki/sources/linkedin-posts-2025-07-03-i-just-want-a-distressed-md-c5f37a475b.md) · linkedin · olgasi
+- 2025-07-04 · [“Why Not Just Buy from the Developer？” Here’s What Clients Don’t Realize](../wiki/sources/youtube-shorts-run-transcripts-s211-yaml-3d61e76985.md) · youtube · author unknown
+- 2025-07-06 · [“I Already Invest in Gold” — Here’s How to Shift That Conversation](../wiki/sources/youtube-shorts-run-transcripts-s203-yaml-36daf8e560.md) · youtube · author unknown
+- 2025-07-07T04:00:04.037000Z · [Dealing with a Buyer's Pushbacks.](../wiki/sources/linkedin-posts-2025-07-07-dealing-with-a-buyers-pushbacks-md-65613f3758.md) · linkedin · olgasi
+- 2025-07-08T04:45:02.204000Z · [In this training I explained the psychology behind every Sales Process.](../wiki/sources/linkedin-posts-2025-07-08-in-this-training-i-explained-md-1c9495e598.md) · linkedin · olgasi
+- 2025-07-11T04:00:03.633000Z · [Is it Current market?](../wiki/sources/linkedin-posts-2025-07-11-is-it-current-market-is-md-5d8ee17d57.md) · linkedin · olgasi
+- 2025-07-11T06:55:18.401000Z · [There’s no such thing as perfect leads.](../wiki/sources/linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1.md) · linkedin · olgasi
+- 2025-07-12 · [“What If I Can’t Keep Paying the Installments？” Don’t Say “It’s Fine” — Do This Instead](../wiki/sources/youtube-shorts-run-transcripts-s209-yaml-b3361ad755.md) · youtube · author unknown
+- 2025-07-13 · [He is already working with an Agent？ Here’s How to Turn That Into an Opportunity](../wiki/sources/youtube-shorts-run-transcripts-s49-yaml-76fccdeadc.md) · youtube · author unknown
+- 2025-07-14T04:00:07.380000Z · [Created this series based on the Questions of the Agents in my Coaching program.](../wiki/sources/linkedin-posts-2025-07-14-created-this-series-based-on-md-a37c39b3ee.md) · linkedin · olgasi
+- 2025-07-15T04:00:03.505000Z · [Watch this training only if…](../wiki/sources/linkedin-posts-2025-07-15-watch-this-training-only-if-md-aa46715657.md) · linkedin · olgasi
+- 2025-07-17T15:00:02.797000Z · [How to deal with the Rejection?](../wiki/sources/linkedin-posts-2025-07-17-how-to-deal-with-the-md-fcf80de778.md) · linkedin · olgasi
+- 2025-07-18T10:10:37.951000Z · [This is my face every time someone asks:](../wiki/sources/linkedin-posts-2025-07-18-this-is-my-face-every-md-1a8a4e8d8e.md) · linkedin · olgasi
+- 2025-07-19 · [The Psychology Trick That Makes People Say Yes Without Realizing It](../wiki/sources/youtube-shorts-run-transcripts-s153-yaml-14dfda6aa0.md) · youtube · author unknown
+- 2025-07-20 · [Bitcoin or Dubai Real Estate？ Here’s What Smart Investors Do](../wiki/sources/youtube-shorts-run-transcripts-s20-yaml-ad44491ce6.md) · youtube · author unknown
+- 2025-07-22 · [Talking Too Much？ That’s Not Confidence — It’s Nerves](../wiki/sources/youtube-shorts-run-transcripts-s142-yaml-b3cbf32b8d.md) · youtube · author unknown
+- 2025-07-23 · [How Many Could be in the Title Deed in Dubai？ Here's the Truth](../wiki/sources/youtube-shorts-run-transcripts-s51-yaml-0a601c8ff0.md) · youtube · author unknown
+- 2025-07-23T04:00:08.315000Z · [My most requested trainings - Objection Handling](../wiki/sources/linkedin-posts-2025-07-23-my-most-requested-trainings-md-98c73ffdf0.md) · linkedin · olgasi
+- 2025-07-24 · [Wrong Tone = Lost Deal. Here’s How to Ask the Hard Questions Right](../wiki/sources/youtube-shorts-run-transcripts-s197-yaml-094eaf8cfd.md) · youtube · author unknown
+- 2025-07-26 · [What If Construction Gets Delayed？ The Real Risk You Should Know!](../wiki/sources/youtube-shorts-run-transcripts-s181-yaml-8c14305bec.md) · youtube · author unknown
+- 2025-07-27 · [Is Dubai a Real Estate Bubble？ Here’s What the Data Actually Says](../wiki/sources/youtube-shorts-run-transcripts-s99-yaml-bc79c8f871.md) · youtube · author unknown
+- 2025-07-30T04:15:02.496000Z · [Same Question - Different tone = Different answers](../wiki/sources/linkedin-posts-2025-07-30-same-question-different-tone-md-8c95d6f286.md) · linkedin · olgasi
+- 2025-07-31 · [Is Dubai Safe Amid Middle East Tensions？ Here’s the Real Picture](../wiki/sources/youtube-shorts-run-transcripts-s98-yaml-c14a72892b.md) · youtube · author unknown
+- 2025-08-02 · [“What If There’s Another Pandemic？” Here’s the Honest Answer](../wiki/sources/youtube-shorts-run-transcripts-s210-yaml-36da6d8b13.md) · youtube · author unknown
+- 2025-08-05T04:15:02.590000Z · [Everyone says cold calling doesn't work in Dubai.](../wiki/sources/linkedin-posts-2025-08-05-everyone-says-cold-calling-doesnt-md-147553f13e.md) · linkedin · olgasi
+- 2025-08-11T04:30:05.494000Z · [☀️ August almost doesn’t feel like the time to talk about business.](../wiki/sources/linkedin-posts-2025-08-11-august-almost-doesnt-feel-like-md-d66f5751cc.md) · linkedin · olgasi
+- 2025-08-12 · [Scared of Cold Calling？ This Is the Real Reason Why](../wiki/sources/youtube-shorts-run-transcripts-s125-yaml-08d5cdbb04.md) · youtube · author unknown
+- 2025-08-12T12:15:04.585000Z · [If you think running a real estate company is all about listings and leads…](../wiki/sources/linkedin-posts-2025-08-12-if-you-think-running-a-md-cb33d45df9.md) · linkedin · olgasi
+- 2025-08-14 · [Start Closing with LeaveItUp Academy ｜ Cold Calling, Presentations & Handling Objections](../wiki/sources/youtube-shorts-run-transcripts-s129-yaml-ca76bf00b1.md) · youtube · author unknown
+- 2025-08-15T04:30:09.244000Z · [Sell Without Selling — The Questions That Close Deals Without Pressure...](../wiki/sources/linkedin-posts-2025-08-15-sell-without-selling-the-questions-md-92bb0c57c9.md) · linkedin · olgasi
+- 2025-08-19 · [Bad Leads!？ Or They’re Not Buying Because You’re Missing This 4 Steps](../wiki/sources/youtube-transcripts-14-yaml-c6d4d126bb.md) · youtube · author unknown
+- 2025-08-19T08:43:02.194000Z · [Throw stones at me right from the start](../wiki/sources/linkedin-posts-2025-08-19-throw-stones-at-me-right-md-c0c30c6746.md) · linkedin · olgasi
+- 2025-08-20T07:10:11.618000Z · [Should you choose off-plan or Secondary?](../wiki/sources/linkedin-posts-2025-08-20-should-you-choose-off-plan-or-md-7d642094c0.md) · linkedin · olgasi
+- 2025-08-21T04:30:34.087000Z · [First — I want you to stop thinking like an agent.](../wiki/sources/linkedin-posts-2025-08-21-first-i-want-you-to-md-f179197d31.md) · linkedin · olgasi
+- 2025-08-22 · [Thinking of Changing Companies？ Watch This First](../wiki/sources/youtube-shorts-run-transcripts-s161-yaml-9ec8b59732.md) · youtube · author unknown
+- 2025-08-24 · [No Ads, No Hype — Just Real Value](../wiki/sources/youtube-shorts-run-transcripts-s113-yaml-22f362b517.md) · youtube · author unknown
+- 2025-08-26 · [Become A Real Estate Sales Trainer in Dubai with My Author-Crafted Training](../wiki/sources/youtube-shorts-run-transcripts-s18-yaml-0be9bdec6f.md) · youtube · author unknown
+- 2025-08-27 · [How I stopped being afraid to Cold Calls](../wiki/sources/youtube-shorts-run-transcripts-s50-yaml-3b10472baf.md) · youtube · author unknown
+- 2025-08-27T06:58:12.157000Z · [Why do buyers say no…](../wiki/sources/linkedin-posts-2025-08-27-why-do-buyers-say-no-md-7ff918b22e.md) · linkedin · olgasi
+- 2025-08-29 · [From I Hate Cold Calling to Closing deals](../wiki/sources/youtube-shorts-run-transcripts-s43-yaml-5402d50876.md) · youtube · author unknown
+- 2025-08-29T08:59:55.938000Z · [Every new agent knows the pain of age leads — those “cold” contacts sitting in the CRM for months.](../wiki/sources/linkedin-posts-2025-08-29-every-new-agent-knows-the-md-753fe38afd.md) · linkedin · olgasi
+- 2025-09-01T04:00:09.575000Z · [Meet Rahil Ahmed future start of ONE BROKER GROUP, after 4 months in my coaching program he is talking the wor](../wiki/sources/linkedin-posts-2025-09-01-meet-rahil-ahmed-future-start-md-e1d80178a2.md) · linkedin · olgasi
+- 2025-09-01T07:16:45.002000Z · [More answers inside LiveItUp Real Estate Growth Academy = skills, communication, deal-closing systems.](../wiki/sources/linkedin-posts-2025-09-01-more-answers-inside-liveitup-real-md-405271d78c.md) · linkedin · olgasi
+- 2025-09-01T09:26:40.656000Z · [I’ll be honest with you — I totally stole this structure](../wiki/sources/linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0.md) · linkedin · olgasi
+- 2025-09-01T12:50:44.437000Z · [Pros & Cons + Brutal Reality 🚨](../wiki/sources/linkedin-posts-2025-09-01-pros-cons-brutal-reality-in-md-8f6b7afe70.md) · linkedin · olgasi
+- 2025-09-03T04:00:10.743000Z · [How do you overcome the complexes and limitations](../wiki/sources/linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b.md) · linkedin · olgasi
+- 2025-09-03T07:35:43.585000Z · [10 years of Dubai deals, negotiations & sales psychology…](../wiki/sources/linkedin-posts-2025-09-03-10-years-of-dubai-deals-md-1e833b6938.md) · linkedin · olgasi
+- 2025-09-03T14:31:43Z · [Caption](../wiki/sources/instagram-posts-2025-09-03-you-will-make-a-1-md-0405d2f6d2.md) · instagram · author unknown
+- 2025-09-04 · [From ＂I know nothing about Dubai＂ to closing deals](../wiki/sources/youtube-shorts-run-transcripts-s44-yaml-542938b4b6.md) · youtube · author unknown
+- 2025-09-04T12:34:46.819000Z · [Do you have a question for me?](../wiki/sources/linkedin-posts-2025-09-04-do-you-have-a-question-md-d37c1273b0.md) · linkedin · olgasi
+- 2025-09-05 · [Ask this Question See how the Client will sell Himself](../wiki/sources/youtube-shorts-run-transcripts-s17-yaml-c37f69b417.md) · youtube · author unknown
+- 2025-09-05T14:01:06.217000Z · [Starting your Business…. Before](../wiki/sources/linkedin-posts-2025-09-05-starting-your-business-before-you-md-50e5ac61e6.md) · linkedin · olgasi
+- 2025-09-08 · [The Client Thinks They Know What They Want — Your Job Is to Go Deeper](../wiki/sources/youtube-shorts-run-transcripts-s145-yaml-378cb1046e.md) · youtube · author unknown
+- 2025-09-08T04:15:01.245000Z · [Apparently, there’s a trend on LinkedIn: “Ask ChatGPT to roast your profile picture.”](../wiki/sources/linkedin-posts-2025-09-08-apparently-theres-a-trend-on-md-7da40c1de0.md) · linkedin · olgasi
+- 2025-09-08T07:31:26.998000Z · [Step into the Netflix of Real Estate Growth.](../wiki/sources/linkedin-posts-2025-09-08-step-into-the-netflix-of-md-f7786c49a4.md) · linkedin · olgasi
+- 2025-09-09 · [Before moving to Dubai for Real Estate Job. 10 factors not to miss (part 1)](../wiki/sources/youtube-transcripts-15-yaml-33ce9f3040.md) · youtube · author unknown
+- 2025-09-09T07:17:09.334000Z · [Yes - I was in the same situation!](../wiki/sources/linkedin-posts-2025-09-09-yes-i-was-in-md-7c17ca2f1f.md) · linkedin · olgasi
+- 2025-09-10 · [How to Sell Dubai to International investors](../wiki/sources/youtube-shorts-run-transcripts-s74-yaml-949679f29c.md) · youtube · author unknown
+- 2025-09-10T07:03:49.174000Z · [More answers inside LiveItUp Real Estate Growth Academy = skills, communication, deal-closing systems.](../wiki/sources/linkedin-posts-2025-09-10-more-answers-inside-liveitup-real-md-3add54f6ff.md) · linkedin · olgasi
+- 2025-09-11 · [Stop Asking “What’s Your Budget？” — Try This Instead](../wiki/sources/youtube-shorts-run-transcripts-s132-yaml-ca3e62c8c6.md) · youtube · author unknown
+- 2025-09-11T07:39:02.022000Z · [First it was Dubai. Next, it’s Saudi Arabia.](../wiki/sources/linkedin-posts-2025-09-11-first-it-was-dubai-next-md-f5ac6a5611.md) · linkedin · olgasi
+- 2025-09-13 · [Stop Convinsing Clients- Ask this Instead](../wiki/sources/youtube-shorts-run-transcripts-s135-yaml-e2f9be072a.md) · youtube · author unknown
+- 2025-09-15T07:51:39.843000Z · [10+ years of Dubai real estate sales distilled into on-demand trainings.](../wiki/sources/linkedin-posts-2025-09-15-10-years-of-dubai-real-md-5d9b78b65f.md) · linkedin · olgasi
+- 2025-09-16 · [How to Close with this one Question](../wiki/sources/youtube-shorts-run-transcripts-s61-yaml-5861981557.md) · youtube · author unknown
+- 2025-09-17T06:54:18.407000Z · [I think I wrote it too harsh…](../wiki/sources/linkedin-posts-2025-09-17-i-think-i-wrote-it-md-b30c1aece3.md) · linkedin · olgasi
+- 2025-09-17T07:33:05.468000Z · [More answers inside LiveItUp Real Estate Growth Academy = skills, communication, deal-closing systems.](../wiki/sources/linkedin-posts-2025-09-17-more-answers-inside-liveitup-real-md-9d5321818d.md) · linkedin · olgasi
+- 2025-09-18 · [How to ASK about the Budget - without upsetting the client](../wiki/sources/youtube-shorts-run-transcripts-s55-yaml-056df2a778.md) · youtube · author unknown
+- 2025-09-21 · [He is Honest about his Agent job experience.](../wiki/sources/youtube-shorts-run-transcripts-s48-yaml-c6e88915b3.md) · youtube · author unknown
+- 2025-09-22T07:32:23.433000Z · [– How do I convince a buyer to make the decision?](../wiki/sources/linkedin-posts-2025-09-22-how-do-i-convince-a-md-d38ea41a24.md) · linkedin · olgasi
+- 2025-09-23 · [The Clinet will stop lying to you if...you ASK this](../wiki/sources/youtube-shorts-run-transcripts-s147-yaml-961282c84d.md) · youtube · author unknown
+- 2025-09-23T05:15:18.479000Z · [If you missed the REALTEK Summit  last week, let me share a quick highlight.](../wiki/sources/linkedin-posts-2025-09-23-if-you-missed-the-realtek-md-ffb5b8ba60.md) · linkedin · olgasi
+- 2025-09-24T07:31:56.276000Z · [You will Make a 1 000 000 in commession like Ekaterina when....](../wiki/sources/linkedin-posts-2025-09-24-you-will-make-a-1-md-f1aa5df689.md) · linkedin · olgasi
+- 2025-09-25 · [Moving to Dubai after 50...Start over in Real Estate. Is it worth it？](../wiki/sources/youtube-shorts-run-transcripts-s110-yaml-fe385454b9.md) · youtube · author unknown
+- 2025-09-26T08:36:40.845000Z · [I need the help of my LinkedIn community!](../wiki/sources/linkedin-posts-2025-09-26-i-need-the-help-of-md-f0bdbd23e8.md) · linkedin · olgasi
+- 2025-09-27 · [Stop Pushing Listings — That’s Why They Ghost You](../wiki/sources/youtube-shorts-run-transcripts-s136-yaml-8476866d64.md) · youtube · author unknown
+- 2025-09-27 · [Your First Month as a Real Estate Agent:  What to Expect and How to Succeed](../wiki/sources/youtube-transcripts-107-yaml-b97af6b062.md) · youtube · author unknown
+- 2025-10-01 · [Stop Asking “What’s Your Budget？” Ask This Instead](../wiki/sources/youtube-shorts-run-transcripts-s131-yaml-4d82fee088.md) · youtube · author unknown
+- 2025-10-01T07:30:18.249000Z · [Ashley-James Hawthorne thank you for such a fun discussion!](../wiki/sources/linkedin-posts-2025-10-01-ashley-james-hawthorne-thank-you-for-md-7c7ee775a9.md) · linkedin · olgasi
+- 2025-10-03 · [UK Agent Moved to DUBAI - this is what he was Shocked with #salestraining](../wiki/sources/youtube-shorts-run-transcripts-s169-yaml-9a4d38e264.md) · youtube · author unknown
+- 2025-10-04 · [5 Harsh Realities About Being an Agent in Dubai Nobody Talks About](../wiki/sources/youtube-transcripts-07-yaml-29825889bb.md) · youtube · author unknown
+- 2025-10-05 · [Client told you - I Have $1M — Don’t Celebrate Yet. Ask This Next](../wiki/sources/youtube-shorts-run-transcripts-s23-yaml-1689969093.md) · youtube · author unknown
+- 2025-10-06T07:03:33.619000Z · [All your questions answered inside Unlimited Netflix of Real Estate Sales Trainings — inside LiveItUp Real Est](../wiki/sources/linkedin-posts-2025-10-06-all-your-questions-answered-inside-md-c88e4752b5.md) · linkedin · olgasi
+- 2025-10-07T08:28:06.700000Z · [Why 8 out of 10 new agents leave the company in the first few months and how to avoid it.](../wiki/sources/linkedin-posts-2025-10-07-why-8-out-of-10-md-eaab1401fc.md) · linkedin · olgasi
+- 2025-10-07T11:31:18.855000Z · [How different would your life be if you have a Golden Visa from the UAE?🇦🇪🤔](../wiki/sources/linkedin-posts-2025-10-07-how-different-would-your-life-md-30699ef59a.md) · linkedin · prateekvagrawal
+- 2025-10-08 · [Advise for 45+ Moving in Dubai to work in Real Estate](../wiki/sources/youtube-shorts-run-transcripts-s11-yaml-182123e603.md) · youtube · author unknown
+- 2025-10-09T04:30:01.218000Z · [Fun first!](../wiki/sources/linkedin-posts-2025-10-09-fun-first-or-how-we-md-3d46733671.md) · linkedin · olgasi
+- 2025-10-09T14:08:50.459000Z · [What you should know about your Work Visa in Dubai!](../wiki/sources/linkedin-posts-2025-10-09-what-you-should-know-about-md-c59124cc4f.md) · linkedin · olgasi
+- 2025-10-14 · [Agent selling Off-Plan？ Memorize These Phrases to Sell MORE](../wiki/sources/youtube-shorts-run-transcripts-s13-yaml-862acbd760.md) · youtube · author unknown
+- 2025-10-16 · [No Money？ No Problem — Just Don’t Waste My Time](../wiki/sources/youtube-shorts-run-transcripts-s114-yaml-f2a44bed89.md) · youtube · author unknown
+- 2025-10-16T04:30:17.591000Z · [The #1 mistake that kills 90% of real estate agents in their first year:](../wiki/sources/linkedin-posts-2025-10-16-the-1-mistake-that-kills-md-5e04081625.md) · linkedin · olgasi
+- 2025-10-18 · [Stop Asking “Who’s the Decision Maker？” — Use This Instead](../wiki/sources/youtube-shorts-run-transcripts-s133-yaml-a35d5dea41.md) · youtube · author unknown
+- 2025-10-20 · [No One’s Handing You Leads. Welcome to the Cold Start](../wiki/sources/youtube-shorts-run-transcripts-s115-yaml-afd75583ca.md) · youtube · author unknown
+- 2025-10-20T04:14:22.461000Z · [From lost new agent to 57,000 AED in your pocket in just 3 weeks](../wiki/sources/linkedin-posts-2025-10-20-from-lost-new-agent-to-md-9bb87eafc6.md) · linkedin · olgasi
+- 2025-10-20T07:30:00.586000Z · [If you’ve ever thought:](../wiki/sources/linkedin-posts-2025-10-20-if-youve-ever-thought-how-md-cf20c974ac.md) · linkedin · olgasi
+- 2025-10-20T10:02:59Z · [Caption](../wiki/sources/instagram-posts-2025-10-20-from-lost-new-agent-to-md-7a22ce85e4.md) · instagram · author unknown
+- 2025-10-21T04:06:21.855000Z · [View Full training here https://lnkd.in/d4y4XBZz](../wiki/sources/linkedin-posts-2025-10-21-view-full-training-here-httpslnkdind4y4x-md-a5fe1c1294.md) · linkedin · olgasi
+- 2025-10-21T10:51:14.665000Z · [Uk Agent moved to Dubai](../wiki/sources/linkedin-posts-2025-10-21-uk-agent-moved-to-dubai-md-bdaafad42b.md) · linkedin · olgasi
+- 2025-10-22 · [New Agent Got the confidence - And this is HOW](../wiki/sources/youtube-shorts-run-transcripts-s111-yaml-68058ff5ff.md) · youtube · author unknown
+- 2025-10-22T04:03:18.984000Z · [The Story I Never Told and Why I Actually Succeeded in Dubai](../wiki/sources/linkedin-posts-2025-10-22-the-story-i-never-told-md-7b57e1d70a.md) · linkedin · olgasi
+- 2025-10-23T04:11:21.354000Z · [Why 95% of real estate agents never make it past year one (and how the 5% who do think differently)](../wiki/sources/linkedin-posts-2025-10-23-why-95-of-real-estate-md-9a167dacc4.md) · linkedin · olgasi
+- 2025-10-24T18:04:47.684000Z · [Anyone in my network has this 2 in one?](../wiki/sources/linkedin-posts-2025-10-24-anyone-in-my-network-has-md-35ce8850a8.md) · linkedin · olgasi
+- 2025-10-27T05:06:17.770000Z · [The biggest lie real estate companies tell new agents: "Just follow up with leads and you'll make sales."](../wiki/sources/linkedin-posts-2025-10-27-the-biggest-lie-real-estate-md-93aa4d54ca.md) · linkedin · olgasi
+- 2025-10-27T06:33:14.927000Z · [❓ What should I say so the client actually chooses me?](../wiki/sources/linkedin-posts-2025-10-27-what-should-i-say-so-md-1b68d420ee.md) · linkedin · olgasi
+- 2025-10-27T07:30:09.880000Z · [This is my response to Juan, newbie agent In my Coaching program](../wiki/sources/linkedin-posts-2025-10-27-this-is-my-response-to-md-2b315c4c96.md) · linkedin · olgasi
+- 2025-10-28 · [How to Tell Your Client Their Budget Is Too Low — Without Losing the Deal](../wiki/sources/youtube-shorts-run-transcripts-s78-yaml-ecddd53b49.md) · youtube · author unknown
+- 2025-10-28T07:46:16.556000Z · [The moment I realized why most international investors struggle in Dubai's "Wild West"](../wiki/sources/linkedin-posts-2025-10-28-the-moment-i-realized-why-md-92391fbb8e.md) · linkedin · olgasi
+- 2025-10-30 · [Want More Deals？ Ask This Instead of Pitching](../wiki/sources/youtube-shorts-run-transcripts-s173-yaml-2d96a5b7fe.md) · youtube · author unknown
+- 2025-10-30T05:15:17.997000Z · [The promotion secret nobody tells Dubai real estate agents](../wiki/sources/linkedin-posts-2025-10-30-the-promotion-secret-nobody-tells-md-d19e365f2e.md) · linkedin · olgasi
+- 2025-10-31 · [Ask the Coach:  New Real Estate Agent Q&A – Overcoming First Month Obstacles](../wiki/sources/youtube-transcripts-13-yaml-6ff1d87de7.md) · youtube · author unknown
+- 2025-11-03T05:14:18.441000Z · [What I wish someone had told me on Day 1 in Dubai real estate](../wiki/sources/linkedin-posts-2025-11-03-what-i-wish-someone-had-md-288164096b.md) · linkedin · olgasi
+- 2025-11-03T06:40:01.724000Z · [10+ years of Dubai real estate sales distilled into on-demand trainings.](../wiki/sources/linkedin-posts-2025-11-03-10-years-of-dubai-real-md-b88a63da6c.md) · linkedin · olgasi
+- 2025-11-03T08:33:51.604000Z · [“Can I close by Cold Calling the company Lead-pool…](../wiki/sources/linkedin-posts-2025-11-03-can-i-close-by-cold-md-d8f0207889.md) · linkedin · olgasi
+- 2025-11-03T10:48:24.647000Z · [Great Job Jairo!](../wiki/sources/linkedin-posts-2025-11-03-great-job-jairo-first-deal-md-dba1d1d3c8.md) · linkedin · olgasi
+- 2025-11-04 · [Turn a Cold Lead Into a Real Conversation with this Question](../wiki/sources/youtube-shorts-run-transcripts-s168-yaml-8e1275b229.md) · youtube · author unknown
+- 2025-11-04T05:34:16.555000Z · [80% Mindset, 15% Action, 5% Skills](../wiki/sources/linkedin-posts-2025-11-04-80-mindset-15-action-5-md-503e084c61.md) · linkedin · olgasi
+- 2025-11-05T05:42:16.728000Z · [New agents ask me: "Where do I even start?"](../wiki/sources/linkedin-posts-2025-11-05-new-agents-ask-me-where-md-0ad37c47ab.md) · linkedin · olgasi
+- 2025-11-06 · [Stop Selling Like You’re in a Casino 🎰](../wiki/sources/youtube-shorts-run-transcripts-s137-yaml-9b2090a5db.md) · youtube · author unknown
+- 2025-11-06T08:24:05.208000Z · [I Just wrote this commenting on one the post…](../wiki/sources/linkedin-posts-2025-11-06-i-just-wrote-this-commenting-md-bf48780919.md) · linkedin · olgasi
+- 2025-11-07T09:26:57.281000Z · [So proud of Your Growth!](../wiki/sources/linkedin-posts-2025-11-07-so-proud-of-your-growth-md-ffc017a9ae.md) · linkedin · olgasi
+- 2025-11-08 · [How to Convince a Client to meet you!？](../wiki/sources/youtube-shorts-run-transcripts-s64-yaml-592fdd0db9.md) · youtube · author unknown
+- 2025-11-10T06:49:02.757000Z · [All your questions answered inside Unlimited Netflix of Real Estate Sales Trainings — inside LiveItUp Real Est](../wiki/sources/linkedin-posts-2025-11-10-all-your-questions-answered-inside-md-4658ae3bd7.md) · linkedin · olgasi
+- 2025-11-10T12:45:02.990000Z · [Wins of the Week!](../wiki/sources/linkedin-posts-2025-11-10-wins-of-the-week-eduardo-md-c6e559044b.md) · linkedin · olgasi
+- 2025-11-11 · [A Day in My Dubai Life:  How I Help Agents Build Real Income and Real Results](../wiki/sources/youtube-transcripts-11-yaml-e68135aa2f.md) · youtube · author unknown
+- 2025-11-11T08:00:11.495000Z · [How many units Should Sell the independent agent to became A Top Agent for Binghatti?](../wiki/sources/linkedin-posts-2025-11-11-how-many-units-should-sell-md-c9163b4f34.md) · linkedin · olgasi
+- 2025-11-12 · [The Clients will Chase you if You will Say This...](../wiki/sources/youtube-shorts-run-transcripts-s146-yaml-bd9ba63417.md) · youtube · author unknown
+- 2025-11-13T08:57:54.133000Z · [On my trainings I’m not talking about](../wiki/sources/linkedin-posts-2025-11-13-on-my-trainings-im-not-md-04bc787de6.md) · linkedin · olgasi
+- 2025-11-15 · [How to Book a Meeting — Without Sounding Desperate](../wiki/sources/youtube-shorts-run-transcripts-s59-yaml-e5c27b7fd2.md) · youtube · author unknown
+- 2025-11-17T06:37:48.281000Z · [10 years of Dubai deals, negotiations & sales psychology…](../wiki/sources/linkedin-posts-2025-11-17-10-years-of-dubai-deals-md-d15e1a9020.md) · linkedin · olgasi
+- 2025-11-17T07:02:23.346000Z · [Me and My Online Academy are looking for](../wiki/sources/linkedin-posts-2025-11-17-me-and-my-online-academy-md-e40dd27252.md) · linkedin · olgasi
+- 2025-11-18T12:51:59.551000Z · [Most Agents Have never even thought of paying for sales coaching....](../wiki/sources/linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b.md) · linkedin · olgasi
+- 2025-11-20 · [Stop Sending Offers. Start Giving Clarity](../wiki/sources/youtube-shorts-run-transcripts-s138-yaml-e7455ceab3.md) · youtube · author unknown
+- 2025-11-20T12:54:13.824000Z · [Or at least that was my reason durring my first 2 years as an agent.](../wiki/sources/linkedin-posts-2025-11-20-or-at-least-that-was-md-6320a5a79e.md) · linkedin · olgasi
+- 2025-11-21 · [Why Dubai’s Property Market Isn’t Slowing Down Yet](../wiki/sources/youtube-transcripts-100-yaml-dca1afec95.md) · youtube · author unknown
+- 2025-11-21T03:37:36.930000Z · [Me 5:30am today… Guess what I’m doing in the elevator in my bathrobe???](../wiki/sources/linkedin-posts-2025-11-21-me-530am-today-guess-what-173888-md-bd36471937.md) · linkedin · olgasi
+- 2025-11-21T04:13:18.242000Z · [Sales isn't about harassing people until they say yes.](../wiki/sources/linkedin-posts-2025-11-21-sales-isnt-about-harassing-people-md-7c969e3584.md) · linkedin · olgasi
+- 2025-11-24T04:15:19.138000Z · [I just watched an agent choose ethics over commissions. Here's what happened next.](../wiki/sources/linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad.md) · linkedin · olgasi
+- 2025-11-24T06:39:51.726000Z · [How to overcome this and other objections inside  LiveItUp Real Estate Growth Academy.](../wiki/sources/linkedin-posts-2025-11-24-how-to-overcome-this-and-md-582c8387fb.md) · linkedin · olgasi
+- 2025-11-25T04:59:17.521000Z · [This is what nobody tells you about your first 2 years in Dubai Real Estate.](../wiki/sources/linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268.md) · linkedin · olgasi
+- 2025-11-25T12:33:19.631000Z · [The Advice I gave to Muhammad Usman Hashmi today....](../wiki/sources/linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4.md) · linkedin · olgasi
+- 2025-11-26T04:16:17.175000Z · [Why they keep saying that Cold Calling does not work anymore...](../wiki/sources/linkedin-posts-2025-11-26-why-they-keep-saying-that-md-d2985662d7.md) · linkedin · olgasi
+- 2025-11-27T03:53:16.370000Z · [Your financial stress is making you a worse salesperson and you need to hear this.](../wiki/sources/linkedin-posts-2025-11-27-your-financial-stress-is-making-md-35acbeaefb.md) · linkedin · olgasi
+- 2025-11-28 · [Built Different:  No Salary, No Limits - Just Pure Results](../wiki/sources/youtube-shorts-run-transcripts-s21-yaml-1073d891b4.md) · youtube · author unknown
+- 2025-11-28T11:56:30.386000Z · [How to get the Buyers to Agree to  Zoom meeting with you](../wiki/sources/linkedin-posts-2025-11-28-how-to-get-the-buyers-md-6dcc1a6456.md) · linkedin · olgasi
+- 2025-11-29 · [5 Harsh Realities of Being a Real Estate Agent in Dubai (Unfiltered)](../wiki/sources/youtube-transcripts-08-yaml-56a7308c21.md) · youtube · author unknown
+- 2025-12-01 · [What New Dubai Agents Don’t See Until It’s Too Late](../wiki/sources/youtube-shorts-run-transcripts-s182-yaml-17bdda5f96.md) · youtube · author unknown
+- 2025-12-01T05:00:07.644000Z · [Want me to answer your question about Dubai Real Estate - live it in a comments](../wiki/sources/linkedin-posts-2025-12-01-want-me-to-answer-your-md-f023248ae1.md) · linkedin · olgasi
+- 2025-12-01T14:43:34.296000Z · [Why your clients only want CHEAP?](../wiki/sources/linkedin-posts-2025-12-01-why-your-clients-only-want-md-a13de02c6f.md) · linkedin · olgasi
+- 2025-12-02T06:02:15.684000Z · [She Had 100 Contacts. Zero Deals. Here's What Went Wrong.](../wiki/sources/linkedin-posts-2025-12-02-she-had-100-contacts-zero-md-f7bf698f6b.md) · linkedin · olgasi
+- 2025-12-03T06:08:40.119000Z · [Agents questions answered with Ashley-James Hawthorne](../wiki/sources/linkedin-posts-2025-12-03-agents-questions-answered-with-ashley-ja-md-7b6705e3f0.md) · linkedin · olgasi
+- 2025-12-04T06:03:29.596000Z · [How to follow up to Sell More?](../wiki/sources/linkedin-posts-2025-12-04-how-to-follow-up-to-md-f4c0984169.md) · linkedin · olgasi
+- 2025-12-05 · [This Program Helped Me Handle Every Tough Client](../wiki/sources/youtube-shorts-run-transcripts-s166-yaml-0ee5d71a27.md) · youtube · author unknown
+- 2025-12-05T04:31:17.073000Z · [The most successful agents I know all understand this truth about objections.](../wiki/sources/linkedin-posts-2025-12-05-the-most-successful-agents-i-md-b2a7105e03.md) · linkedin · olgasi
+- 2025-12-09 · [Ask the Coach:  New Real Estate Agent Q&A](../wiki/sources/youtube-shorts-run-transcripts-s16-yaml-43285887fa.md) · youtube · author unknown
+- 2025-12-09T09:13:59.618000Z · [Have you thought what the agents who are making Millions in Commission are Doing Differently?](../wiki/sources/linkedin-posts-2025-12-09-have-you-thought-what-the-md-ee150bfa22.md) · linkedin · olgasi
+- 2025-12-09T13:12:29.709000Z · [Not about Rera and not AI generated…](../wiki/sources/linkedin-posts-2025-12-09-not-about-rera-and-not-md-06872a630a.md) · linkedin · olgasi
+- 2025-12-10T12:18:42.234000Z · [She started with zero knowledge in August.](../wiki/sources/linkedin-posts-2025-12-10-she-started-with-zero-knowledge-md-a9c9de3cc4.md) · linkedin · olgasi
+- 2025-12-11T06:08:32.725000Z · [How to Start In Dubai Real Estate...AND NOT FAIL IN £ MONTHS](../wiki/sources/linkedin-posts-2025-12-11-how-to-start-in-dubai-md-e2037b59d0.md) · linkedin · olgasi
+- 2025-12-12T18:04:28.246000Z · [The Client - 'Just send me some Options... How to respond?](../wiki/sources/linkedin-posts-2025-12-12-the-client-just-send-md-9f5bf6649f.md) · linkedin · olgasi
+- 2025-12-15 · [The Harsh Truth About Marketing Agencies](../wiki/sources/youtube-shorts-run-transcripts-s150-yaml-bf0d4b0fe6.md) · youtube · author unknown
+- 2025-12-15T13:40:00Z · [Caption](../wiki/sources/instagram-posts-2025-12-15-it-took-me-2-months-md-9c70635e76.md) · instagram · author unknown
+- 2025-12-15T18:01:56.731000Z · [From Objections to trust](../wiki/sources/linkedin-posts-2025-12-15-from-objections-to-trust-realestatesales-md-d6a9c810bb.md) · linkedin · olgasi
+- 2025-12-16T12:15:10.362000Z · [Relocating to Dubai after 45 and Re-Starting in Real Estate](../wiki/sources/linkedin-posts-2025-12-16-relocating-to-dubai-after-45-md-8e615c1f12.md) · linkedin · olgasi
+- 2025-12-17 · [How to Make Any Client Engage With You？](../wiki/sources/youtube-shorts-run-transcripts-s71-yaml-477b95f71f.md) · youtube · author unknown
+- 2025-12-18T04:11:54.806000Z · [Stop Asking what every Other Agent Asks. And Start the Call with this!](../wiki/sources/linkedin-posts-2025-12-18-stop-asking-what-every-other-md-ab1d93542d.md) · linkedin · olgasi
+- 2025-12-19 · [Why Would a Successful Agent Mentor You？ Only If You Offer This…](../wiki/sources/youtube-shorts-run-transcripts-s191-yaml-2abe4e4644.md) · youtube · author unknown
+- 2025-12-19T04:41:16.476000Z · [Christmas time - Ideal for Get more Deals. And this is how](../wiki/sources/linkedin-posts-2025-12-19-christmas-time-ideal-for-md-4a27be2ff5.md) · linkedin · olgasi
+- 2025-12-19T10:53:21.338000Z · [Six months without closing a deal - here's the brutal truth about why agents fail.](../wiki/sources/linkedin-posts-2025-12-19-six-months-without-closing-a-md-49a6ab6242.md) · linkedin · olgasi
+- 2025-12-19T15:53:15.426000Z · [Love the Hook and the Promise!](../wiki/sources/linkedin-posts-2025-12-19-love-the-hook-and-the-md-a6cf69c8bf.md) · linkedin · olgasi
+- 2025-12-22 · [What Repels Clients？ Stop Asking this Questions!](../wiki/sources/youtube-shorts-run-transcripts-s183-yaml-ac39f985c5.md) · youtube · author unknown
+- 2025-12-22T04:21:19.084000Z · [I'm about to share the follow-up strategy that changed my entire sales career.](../wiki/sources/linkedin-posts-2025-12-22-im-about-to-share-the-md-71816d796c.md) · linkedin · olgasi
+- 2025-12-23T05:51:07.609000Z · [30 min boost for your sales skills!](../wiki/sources/linkedin-posts-2025-12-23-30-min-boost-for-your-md-82e3130a4f.md) · linkedin · olgasi
+- 2025-12-26 · [Stop Assuming Your Client Doesn’t Have Time](../wiki/sources/youtube-shorts-run-transcripts-s134-yaml-daeeceba6d.md) · youtube · author unknown
+- 2025-12-28 · [How to encourage the client for a meeting？](../wiki/sources/youtube-shorts-run-transcripts-s85-yaml-99ce5f647c.md) · youtube · author unknown
+- 2025-12-31 · [Can You Do Dubai Real Estate Part-Time？ Let’s Be Honest](../wiki/sources/youtube-shorts-run-transcripts-s22-yaml-f5ff8e8e75.md) · youtube · author unknown
+- 2026-01-02 · [Zero Experience. Zero Leads. 79,000 AED Closed in 5 Weeks. Agent just follower this Plan](../wiki/sources/youtube-transcripts-108-yaml-3c67186618.md) · youtube · author unknown
+- 2026-01-02T11:20:59.977000Z · [Happy New Year! And if you are like me - working on 2nd of Jan - check out this very 'Uncomfortabele' article ](../wiki/sources/linkedin-posts-2026-01-02-happy-new-year-and-if-md-db2ada5d29.md) · linkedin · olgasi
+- 2026-01-05 · [How to tell a client his budget is low for UAE？](../wiki/sources/youtube-shorts-run-transcripts-s92-yaml-aebc34d786.md) · youtube · author unknown
+- 2026-01-05T04:30:07.257000Z · [Ready for BIG 2026?](../wiki/sources/linkedin-posts-2026-01-05-ready-for-big-2026-md-587d374aa8.md) · linkedin · olgasi
+- 2026-01-06T04:03:15.668000Z · [How a 26-Year-Old Made 79,950 AED in 5 Weeks (Zero Experience, Zero Leads)](../wiki/sources/linkedin-posts-2026-01-06-how-a-26-year-old-made-79950-md-9c504772d2.md) · linkedin · olgasi
+- 2026-01-07T11:01:16.683000Z · [How I book meetings from cold calls (actual script included)](../wiki/sources/linkedin-posts-2026-01-07-how-i-book-meetings-from-md-3a0ff768c1.md) · linkedin · olgasi
+- 2026-01-08T04:15:01.087000Z · [New Agent - Liza was lost for a month...](../wiki/sources/linkedin-posts-2026-01-08-new-agent-liza-was-md-4de9dd668d.md) · linkedin · olgasi
+- 2026-01-09 · [How to Close from OLD leads](../wiki/sources/youtube-shorts-run-transcripts-s60-yaml-f384833295.md) · youtube · author unknown
+- 2026-01-09T04:54:17.562000Z · [Looking for a NEW WAYS to Generate your OWN LEADS?....](../wiki/sources/linkedin-posts-2026-01-09-looking-for-a-new-ways-md-221fc7f2a3.md) · linkedin · olgasi
+- 2026-01-11 · [You Lose Deals Because You Don’t Know This Answer](../wiki/sources/youtube-transcripts-105-yaml-87c2a0b7fc.md) · youtube · author unknown
+- 2026-01-12T03:57:17.011000Z · [If your Clients Always ask for Discount - use this Frame](../wiki/sources/linkedin-posts-2026-01-12-if-your-clients-always-ask-md-c57c706f9f.md) · linkedin · olgasi
+- 2026-01-12T13:17:23.627000Z · [How to Move to Dubai after 45 and Start again? He did it despite a successful Business in the UK.](../wiki/sources/linkedin-posts-2026-01-12-how-to-move-to-dubai-md-17a4a6d792.md) · linkedin · olgasi
+- 2026-01-14 · [Why Your Client Isn’t Replying — and What to Send Instead](../wiki/sources/youtube-shorts-run-transcripts-s192-yaml-8070fa253e.md) · youtube · author unknown
+- 2026-01-14T04:29:16.095000Z · [How I teach agents to help clients convince THEMSELVES to buy (without feeling sold)](../wiki/sources/linkedin-posts-2026-01-14-how-i-teach-agents-to-md-44406c0093.md) · linkedin · olgasi
+- 2026-01-14T08:13:26.378000Z · [If you keep hearing “I need to think about it” and clients disappear....](../wiki/sources/linkedin-posts-2026-01-14-if-you-keep-hearing-i-md-6c3e7dce41.md) · linkedin · olgasi
+- 2026-01-15 · [The Script That Brings Aged Leads Back to Life](../wiki/sources/youtube-shorts-run-transcripts-s159-yaml-1e225e9a1c.md) · youtube · author unknown
+- 2026-01-15T12:46:27.216000Z · [From Im Busy - To Yes Im Interested](../wiki/sources/linkedin-posts-2026-01-15-from-im-busy-to-md-7e48e75b45.md) · linkedin · olgasi
+- 2026-01-16T04:49:16.968000Z · [Give me a single reason why you shouldn't give your real estate training away for free.](../wiki/sources/linkedin-posts-2026-01-16-give-me-a-single-reason-md-6d8e754e0b.md) · linkedin · olgasi
+- 2026-01-19T04:15:17.016000Z · [Why I never tell clients what to think (but they end up thinking what I want)](../wiki/sources/linkedin-posts-2026-01-19-why-i-never-tell-clients-md-febe7fd2df.md) · linkedin · olgasi
+- 2026-01-19T12:54:34.273000Z · [Olga - But he told me its HIM who will Make decision...So why he is now talking to Brother, Mother and his Den](../wiki/sources/linkedin-posts-2026-01-19-olga-but-he-told-md-2a8ad2d5a8.md) · linkedin · olgasi
+- 2026-01-20 · [Moving From the UK to Dubai With Zero Sales Experience？](../wiki/sources/youtube-shorts-run-transcripts-s109-yaml-a8e193ad76.md) · youtube · author unknown
+- 2026-01-21T05:03:08.732000Z · [Are you a good fit to work with Ashley-James Hawthorne](../wiki/sources/linkedin-posts-2026-01-21-are-you-a-good-fit-md-a35e43c5ef.md) · linkedin · olgasi
+- 2026-01-22 · [How to Recognize a Real Buyer？](../wiki/sources/youtube-shorts-run-transcripts-s72-yaml-bfa602dbb6.md) · youtube · author unknown
+- 2026-01-24 · [“We’ll Pay You… Eventually” — So She Left and Built Her Own Empire](../wiki/sources/youtube-shorts-run-transcripts-s208-yaml-195371b24a.md) · youtube · author unknown
+- 2026-01-25 · [The Sales Technique That Makes Clients Trust You Instantly](../wiki/sources/youtube-shorts-run-transcripts-s158-yaml-dce144d8fe.md) · youtube · author unknown
+- 2026-01-26 · [How to convince a client the price is not high, he just can't afford it？](../wiki/sources/youtube-shorts-run-transcripts-s83-yaml-6c61620fd4.md) · youtube · author unknown
+- 2026-01-27 · [Want More Respect From Clients？ Try the “Dentist Appointment” Technique](../wiki/sources/youtube-shorts-run-transcripts-s174-yaml-3070932203.md) · youtube · author unknown
+- 2026-01-27T15:28:56.257000Z · [Great opportunity if you are Data Driven and operate on the Common sense!](../wiki/sources/linkedin-posts-2026-01-27-great-opportunity-if-you-are-md-f2db87adfb.md) · linkedin · olgasi
+- 2026-01-28 · [She Was About to Give Up. Then Everything Changed](../wiki/sources/youtube-shorts-run-transcripts-s126-yaml-e58310a5f1.md) · youtube · author unknown
+- 2026-01-29 · [The #1 Trait of Agents Who Actually Make Money in Dubai](../wiki/sources/youtube-shorts-run-transcripts-s144-yaml-6986dc6b9a.md) · youtube · author unknown
+- 2026-01-30 · [How to respond to a client that only asks for discount？](../wiki/sources/youtube-shorts-run-transcripts-s88-yaml-6990d42cc8.md) · youtube · author unknown
+- 2026-01-31 · [How to Influence Clients Without Sounding “Salesy”](../wiki/sources/youtube-shorts-run-transcripts-s69-yaml-d7b235f86e.md) · youtube · author unknown
+- 2026-02-03T04:19:17.465000Z · [Why Your "Dead" Lead Database Is Worth AED 2M+ (And How to Mine It)](../wiki/sources/linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199.md) · linkedin · olgasi
+- 2026-02-04 · [The #1 Mistake Agents Make Before Moving to Dubai](../wiki/sources/youtube-shorts-run-transcripts-s143-yaml-25191d39ed.md) · youtube · author unknown
+- 2026-02-05 · [The Psychology Trick Every Agent Must Know](../wiki/sources/youtube-shorts-run-transcripts-s152-yaml-4902d6dd15.md) · youtube · author unknown
+- 2026-02-08 · [Why Your Enthusiastic Sales Voice Is Losing Clients](../wiki/sources/youtube-shorts-run-transcripts-s193-yaml-30d118548c.md) · youtube · author unknown
+- 2026-02-10T05:16:30.034000Z · [Probably Most Important question to ASK](../wiki/sources/linkedin-posts-2026-02-10-probably-most-important-question-to-md-3ff395457d.md) · linkedin · olgasi
+- 2026-02-11 · [The Sales Technique That Makes Clients Sell Themselves](../wiki/sources/youtube-shorts-run-transcripts-s157-yaml-20bc3343ea.md) · youtube · author unknown
+- 2026-02-12 · [The Question That Makes Them Tell You Everything](../wiki/sources/youtube-shorts-run-transcripts-s154-yaml-0846a0e4fa.md) · youtube · author unknown
+- 2026-02-14T09:26:06.692000Z · [Clients Are Ghosting You after a Great Call or Presentation?](../wiki/sources/linkedin-posts-2026-02-14-clients-are-ghosting-you-after-md-47044fc1cd.md) · linkedin · olgasi
+- 2026-02-18T04:07:12.578000Z · [How to Understand if THIS Client Can BUY](../wiki/sources/linkedin-posts-2026-02-18-how-to-understand-if-this-md-e5185def2b.md) · linkedin · olgasi
+- 2026-02-19 · [How to Make $1M in Dubai Real Estate in 2026](../wiki/sources/youtube-shorts-run-transcripts-s70-yaml-dab9a414c3.md) · youtube · author unknown
+- 2026-02-21T05:00:00.182000Z · [If you’re a Dubai real estate agent and you’re selling (or trying to sell) off-plan… quick question:](../wiki/sources/linkedin-posts-2026-02-21-if-youre-a-dubai-real-md-5297fc9fc3.md) · linkedin · olgasi
+- 2026-02-23T09:21:27.127000Z · [Thank you Tarun Ahimaz and Euan Campbell for inviting me. I left with one simple thought: work culture is like](../wiki/sources/linkedin-posts-2026-02-23-thank-you-tarun-ahimaz-and-md-d080be2402.md) · linkedin · olgasi
+- 2026-02-24 · [Why 99% of Agents Won’t Make $1M in 2026](../wiki/sources/youtube-shorts-run-transcripts-s188-yaml-acedd10670.md) · youtube · author unknown
+- 2026-02-24T13:18:54.924000Z · [I’m officially Wanted….](../wiki/sources/linkedin-posts-2026-02-24-im-officially-wanted-by-sales-md-6d2d7df94b.md) · linkedin · olgasi
+- 2026-02-25 · [Thinking of Starting in Dubai Real Estate？ Check These 2 Traits First](../wiki/sources/youtube-shorts-run-transcripts-s162-yaml-c5741d35b5.md) · youtube · author unknown
+- 2026-03-02 · [Jealous of watching other Agents Closing Deals？](../wiki/sources/youtube-shorts-run-transcripts-s103-yaml-227508ba2c.md) · youtube · author unknown
+- 2026-03-02T04:00:37.486000Z · [After 11 years in Dubai Real Estate - from sales agent to management - I’ve learned one thing:](../wiki/sources/linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d.md) · linkedin · olgasi
+- 2026-03-09 · [Your $1M Dubai Real Estate Plan for 2026](../wiki/sources/youtube-shorts-run-transcripts-s199-yaml-c7bc49e7d4.md) · youtube · author unknown
+- 2026-03-10T04:00:04.832000Z · [Right now we’re entering a period of war-driven uncertainty.](../wiki/sources/linkedin-posts-2026-03-10-right-now-were-entering-a-md-be3b13d0a4.md) · linkedin · olgasi
+- 2026-03-11T04:30:10.126000Z · [Agents in Dubai right now:](../wiki/sources/linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d.md) · linkedin · olgasi
+- 2026-03-13T09:04:46.257000Z · [How ready we are for a New Reality?](../wiki/sources/linkedin-posts-2026-03-13-how-ready-we-are-for-md-3731fca978.md) · linkedin · olgasi
+- 2026-03-13T09:37:33.741000Z · [You are such a positive friend Kaleigh F.!](../wiki/sources/linkedin-posts-2026-03-13-you-are-such-a-positive-md-cc60ea0745.md) · linkedin · olgasi
+- 2026-03-13T14:59:57.303000Z · [New Training Just Posted on my Youtube](../wiki/sources/linkedin-posts-2026-03-13-new-training-just-posted-on-md-6245019e69.md) · linkedin · olgasi
+- 2026-03-13T17:27:07Z · [Caption](../wiki/sources/instagram-posts-2026-03-13-what-do-i-even-say-md-3ac4d94d69.md) · instagram · author unknown
+- 2026-03-13T17:39:28.250000Z · [What do I even say to clients now?](../wiki/sources/linkedin-posts-2026-03-13-what-do-i-even-say-md-fc245c717a.md) · linkedin · olgasi
+- 2026-03-14 · [Join “Strong in Sales’ Community! #realestatetraining #dubairealestatecoach](../wiki/sources/youtube-shorts-run-transcripts-s104-yaml-acabf7b5c7.md) · youtube · author unknown
+- 2026-03-14T09:00:03.445000Z · [Watch the Re-play https://lnkd.in/dF8CS8nn](../wiki/sources/linkedin-posts-2026-03-14-watch-the-re-play-httpslnkdindf8cs8nn-md-c3891b90f5.md) · linkedin · olgasi
+- 2026-03-15 · [Does that Scare you？  Dubai Market realities](../wiki/sources/youtube-shorts-run-transcripts-s32-yaml-b69ee8b4ba.md) · youtube · author unknown
+- 2026-03-16T04:30:03.760000Z · [Feeling Uncertain - join my Strang in Sales Community](../wiki/sources/linkedin-posts-2026-03-16-feeling-uncertain-join-my-md-e9c31b34c9.md) · linkedin · olgasi
+- 2026-03-16T07:19:15.313000Z · [Dubai real estate market changed....All agents feel it. Few know how to](../wiki/sources/linkedin-posts-2026-03-16-dubai-real-estate-market-changedall-md-aeee764494.md) · linkedin · olgasi
+- 2026-03-18 · [Real Estate Agents Stop Calming Clients, Start Persuading!](../wiki/sources/youtube-shorts-run-transcripts-s123-yaml-463ec29459.md) · youtube · author unknown
+- 2026-03-18 · [How to sell Dubai real estate in march 2026](../wiki/sources/youtube-shorts-run-transcripts-s89-yaml-9311c8ce18.md) · youtube · author unknown
+- 2026-03-18T12:05:58.453000Z · [Are you a already with me passing through this challenging market situation?](../wiki/sources/linkedin-posts-2026-03-18-are-you-a-already-with-md-d684361e45.md) · linkedin · olgasi
+- 2026-03-19 · [Mastering Curiosity:  The Art of Intrigue and Decision #shorts](../wiki/sources/youtube-shorts-run-transcripts-s108-yaml-068c5f5f17.md) · youtube · author unknown
+- 2026-03-19 · [Don't Let Market Uncertainty Hold You Back:  Join My Community #DubaiRealEstate #RealEstateCoach](../wiki/sources/youtube-shorts-run-transcripts-s33-yaml-4523ddbe40.md) · youtube · author unknown
+- 2026-03-19 · [Find Motivated Sellers in Dubai:  The Art of the Cold Call! #shorts](../wiki/sources/youtube-shorts-run-transcripts-s42-yaml-f129776f47.md) · youtube · author unknown
+- 2026-03-20 · [Make Money in Any Situation Mindset trick](../wiki/sources/youtube-shorts-run-transcripts-s106-yaml-3f94e9436b.md) · youtube · author unknown
+- 2026-03-22 · [Clients are panicking - What the agent should do？](../wiki/sources/youtube-shorts-run-transcripts-s25-yaml-565459b188.md) · youtube · author unknown
+- 2026-03-23 · [Agents in Dubai - I’m hate to be right… but “I will wait till Prices will go Down”](../wiki/sources/youtube-shorts-run-transcripts-s14-yaml-faf7e68b2a.md) · youtube · author unknown
+- 2026-03-23T07:55:35.529000Z · [Happy Monday Dubai Real estate!](../wiki/sources/linkedin-posts-2026-03-23-happy-monday-dubai-real-estate-md-38d99d8827.md) · linkedin · olgasi
+- 2026-03-24 · [Dubai Market Changed:  Adapt or Fall Behind](../wiki/sources/youtube-shorts-run-transcripts-s35-yaml-de8e81409c.md) · youtube · author unknown
+- 2026-03-24T09:48:07.281000Z · [I just analyzed both - my post and a comment below…](../wiki/sources/linkedin-posts-2026-03-24-i-just-analyzed-both-md-46564ea739.md) · linkedin · olgasi
+- 2026-03-25 · [Watch full training for Dubai Agents on my channel #realestatetraining #dubaiproperties](../wiki/sources/youtube-shorts-run-transcripts-s178-yaml-fb987c012e.md) · youtube · author unknown
+- 2026-03-26T09:24:37.827000Z · [Free training for Dubai Agents](../wiki/sources/linkedin-posts-2026-03-26-free-training-for-dubai-agents-md-d8f8543f85.md) · linkedin · olgasi
+- 2026-03-27T04:58:37.726000Z · [Call to Action! And No judgement here!](../wiki/sources/linkedin-posts-2026-03-27-call-to-action-and-no-md-c2785de422.md) · linkedin · olgasi
+- 2026-03-28T07:42:11.475000Z · [And I wish I will hear that more and more these days….](../wiki/sources/linkedin-posts-2026-03-28-and-i-wish-i-will-md-65c3debfbb.md) · linkedin · olgasi
+- 2026-03-29 · [Welcome to a new era of Dubai real estate](../wiki/sources/youtube-shorts-run-transcripts-s180-yaml-e28c846232.md) · youtube · author unknown
+- 2026-03-30T12:31:32.081000Z · [Watch Re-play on - https://lnkd.in/d7Tzm479](../wiki/sources/linkedin-posts-2026-03-30-watch-re-play-on-httpslnkdind7tzm479-md-82bcdcc7ad.md) · linkedin · olgasi
+- 2026-03-31 · [Smart Agents See This Market as a Cleanse - Not a Crisis](../wiki/sources/youtube-shorts-run-transcripts-s127-yaml-192c305979.md) · youtube · author unknown
+- 2026-04-01T04:30:09.663000Z · [I never thought I will say this..](../wiki/sources/linkedin-posts-2026-04-01-i-never-thought-i-will-md-3f2ad6a708.md) · linkedin · olgasi
+- 2026-04-02 · [Smart Investing:  Shift Your Real Estate Strategy Now](../wiki/sources/youtube-shorts-run-transcripts-s128-yaml-f753e1424f.md) · youtube · author unknown
+- 2026-04-02 · [Warning! These Dubai Developers Won't Last](../wiki/sources/youtube-shorts-run-transcripts-s177-yaml-7fbcc4a1d5.md) · youtube · author unknown
+- 2026-04-02 · [We all lost The Future… How to get it back？](../wiki/sources/youtube-shorts-run-transcripts-s179-yaml-ab1c501906.md) · youtube · author unknown
+- 2026-04-03T04:15:01.770000Z · [Do you know what really happened this March?](../wiki/sources/linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b.md) · linkedin · olgasi
+- 2026-04-04 · [Dubai Real Estate Durring the War:  Proof You Need to See!](../wiki/sources/youtube-shorts-run-transcripts-s38-yaml-e83ecc1930.md) · youtube · author unknown
+- 2026-04-06 · [The Dubai Market Truth Nobody Wants to Discuss](../wiki/sources/youtube-shorts-run-transcripts-s148-yaml-18ca56b9b0.md) · youtube · author unknown
+- 2026-04-06 · [The Market Isn't Stopped, It's Changed! Adapt or Miss Out](../wiki/sources/youtube-shorts-run-transcripts-s151-yaml-8c6d4d707e.md) · youtube · author unknown
+- 2026-04-06T07:12:14.592000Z · [How you Should Change your Strategy Now to Make it?](../wiki/sources/linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717.md) · linkedin · olgasi
+- 2026-04-06T11:44:17.813000Z · [Express Course For Agents in Dubai.](../wiki/sources/linkedin-posts-2026-04-06-express-course-for-agents-in-md-974f16025e.md) · linkedin · olgasi
+- 2026-04-07T13:47:15.188000Z · [You can Make Money In any situation](../wiki/sources/linkedin-posts-2026-04-07-you-can-make-money-in-md-d09d2b7024.md) · linkedin · olgasi
+- 2026-04-08T13:19:15.357000Z · [Your Clients will Respect you MORE if...](../wiki/sources/linkedin-posts-2026-04-08-your-clients-will-respect-you-md-d47f25920d.md) · linkedin · olgasi
+- 2026-04-09 · [Which Real Estate Developers Will Survive the Shift？](../wiki/sources/youtube-shorts-run-transcripts-s187-yaml-4d451f6562.md) · youtube · author unknown
+- 2026-04-09T12:52:14.969000Z · [We All lost the Future, Now what?](../wiki/sources/linkedin-posts-2026-04-09-we-all-lost-the-future-md-b16dbb284b.md) · linkedin · olgasi
+- 2026-04-10 · [The Universe definitely has a plan!!! #success](../wiki/sources/youtube-shorts-run-transcripts-s160-yaml-8b9fc6bb8c.md) · youtube · author unknown
+- 2026-04-10T04:24:15.240000Z · [Her Agency Refused to pay Her Commissions - So she did this ...](../wiki/sources/linkedin-posts-2026-04-10-her-agency-refused-to-pay-md-13092bf15b.md) · linkedin · olgasi
+- 2026-04-10T06:54:28.534000Z · [I was Angry for 18 hours straight…](../wiki/sources/linkedin-posts-2026-04-10-i-was-angry-for-18-md-b558b9bf80.md) · linkedin · olgasi
+- 2026-04-13 · [Survival Strategy:  Be Useful, Not Emotional #shorts](../wiki/sources/youtube-shorts-run-transcripts-s141-yaml-01d68cfba7.md) · youtube · author unknown
+- 2026-04-13T04:15:27.313000Z · [Even WithOut a War!](../wiki/sources/linkedin-posts-2026-04-13-even-without-a-war-dubairealestate-md-c532f4afd0.md) · linkedin · olgasi
+- 2026-04-14 · [Structure Over Confidence:  Navigate Life's Uncertainty #shorts](../wiki/sources/youtube-shorts-run-transcripts-s140-yaml-80e878bbd2.md) · youtube · author unknown
+- 2026-04-14 · [This Market “Crisis” Was Actually Necessary](../wiki/sources/youtube-shorts-run-transcripts-s165-yaml-669432e65e.md) · youtube · author unknown
+- 2026-04-15 · [Master Street Camera Confidence:  Underrated Money Skill #shorts](../wiki/sources/youtube-shorts-run-transcripts-s107-yaml-e55156ed57.md) · youtube · author unknown
+- 2026-04-15T04:12:15.196000Z · [Smart agent See this as...](../wiki/sources/linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d.md) · linkedin · olgasi
+- 2026-04-15T10:37:59.224000Z · [Training from Me plus Leads Fresh Leads in your Language in the Current Cost Cutting of Dubai Real estate???](../wiki/sources/linkedin-posts-2026-04-15-training-from-me-plus-leads-md-993edbe3be.md) · linkedin · olgasi
+- 2026-04-20T04:45:01.883000Z · [I almost gave up on my Dubai real estate career and went back home…](../wiki/sources/linkedin-posts-2026-04-20-i-almost-gave-up-on-md-65c086757d.md) · linkedin · olgasi
+- 2026-04-22T08:24:46.066000Z · [Biggest dream in Dubai Real Estate?](../wiki/sources/linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888.md) · linkedin · olgasi
+- 2026-04-25T17:24:45Z · [Caption](../wiki/sources/instagram-posts-2026-04-25-weird-but-it-works-md-9174be100d.md) · instagram · author unknown
+- 2026-04-27 · [How to Stop Procrastination! #motivation #realestatetraining](../wiki/sources/youtube-shorts-run-transcripts-s77-yaml-dd8aa3f9c3.md) · youtube · author unknown
+- 2026-04-30T04:02:24.307000Z · [Have you already called every friend, client or old lead who once told you:](../wiki/sources/linkedin-posts-2026-04-30-have-you-already-called-every-md-0ffb47a7f4.md) · linkedin · olgasi
+- 2026-05-07 · [Why Most “Distressed Deals” in Dubai Are FAKE？](../wiki/sources/youtube-transcripts-102-yaml-de287101db.md) · youtube · author unknown
+- 2026-05-18T15:52:37.827000Z · [Just training is not enough…](../wiki/sources/linkedin-posts-2026-05-18-just-training-is-not-enough-md-bf403a903a.md) · linkedin · olgasi
+- 2026-05-19T05:22:00.355000Z · [I’m growing my YouTube channel, @OlgaSinenkoRealEstate, and I’m looking for a strong long-form YouTube video e](../wiki/sources/linkedin-posts-2026-05-19-im-growing-my-youtube-channel-md-a97f68d121.md) · linkedin · olgasi
+- 2026-05-19T05:29:51Z · [Caption](../wiki/sources/instagram-posts-2026-05-19-looking-for-a-youtube-video-md-2247641d7c.md) · instagram · author unknown
+- 2026-05-21T14:29:53Z · [Caption](../wiki/sources/instagram-posts-2026-05-21-get-trained-close-deals-grow-md-63761ec46e.md) · instagram · author unknown
+- 2026-05-26T11:32:03.028000Z · [I negotiated my rent down by 5%.](../wiki/sources/linkedin-posts-2026-05-26-i-negotiated-my-rent-down-md-1799d39385.md) · linkedin · olgasi
+- 2026-05-27T06:43:10.327000Z · [If you have a “Wrong” sales manager….](../wiki/sources/linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701.md) · linkedin · olgasi
+- 2026-06-02T06:19:37Z · [Caption](../wiki/sources/instagram-posts-2026-06-02-was-not-sure-why-i-md-0fb9fb70e9.md) · instagram · author unknown
+- 2026-06-02T09:24:11.283000Z · [Being born in a small city… I’m the end of Communism regime, would never believe I would be where I’m now.](../wiki/sources/linkedin-posts-2026-06-02-being-born-in-a-small-md-d9cffbc50f.md) · linkedin · olgasi
+- 2026-06-04T12:16:51Z · [Caption](../wiki/sources/instagram-posts-2026-06-04-more-tacktics-on-my-youtube-md-2cac104817.md) · instagram · author unknown
+- 2026-06-08T06:04:52Z · [Caption](../wiki/sources/instagram-posts-2026-06-08-the-worst-time-or-the-md-d55c96e053.md) · instagram · author unknown
+- 2026-06-10T15:05:33Z · [Caption](../wiki/sources/instagram-posts-2026-06-10-decision-making-funnels-are-crucial-in-md-bf539dabe6.md) · instagram · author unknown
+- 2026-06-11T16:33:58Z · [Caption](../wiki/sources/instagram-posts-2026-06-11-this-happened-90-of-a-md-f31947dee0.md) · instagram · author unknown
+- 2026-06-15T03:51:15.321000Z · [1% - That was the conversion rate from social media leads to a qualified meeting.](../wiki/sources/linkedin-posts-2026-06-15-1-that-was-the-md-88aee1b67b.md) · linkedin · olgasi
+- 2026-06-15T15:45:42Z · [Caption](../wiki/sources/instagram-posts-2026-06-15-they-will-not-buy-if-md-a364cb0393.md) · instagram · author unknown
+- 2026-06-18T15:51:49Z · [Caption](../wiki/sources/instagram-posts-2026-06-18-do-not-waste-your-time-md-107af7ab12.md) · instagram · author unknown
+- 2026-06-22T15:54:29Z · [Caption](../wiki/sources/instagram-posts-2026-06-22-just-hold-his-hand-coldcallingdubai-md-2828d42f5c.md) · instagram · author unknown
+- 2026-06-25T09:18:03.813000Z · [Happened just Now!](../wiki/sources/linkedin-posts-2026-06-25-happened-just-now-im-done-md-c6e3378a77.md) · linkedin · olgasi
+- 2026-07-11T16:08:20Z · [Caption](../wiki/sources/instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136.md) · instagram · author unknown
+- 2026-07-13T04:45:01.434000Z · [“In 20 years, you would give everything to be where you are right now. At this age, in this body, living this ](../wiki/sources/linkedin-posts-2026-07-13-in-20-years-you-would-md-07336225bc.md) · linkedin · olgasi
+- 2026-07-28T05:08:31.434000Z · [The complain almost every Agent has now...](../wiki/sources/linkedin-posts-2026-07-28-the-complain-almost-every-agent-md-c7dd138422.md) · linkedin · olgasi
+- 2026-07-31 · [5 Levels of Dubai Real Estate:  From Danger Zones to Safe Bets (2026)](../wiki/sources/youtube-transcripts-09-yaml-bd534f7e8c.md) · youtube · author unknown
+- 2026-07-31T16:26:23Z · [Caption](../wiki/sources/instagram-posts-2026-07-31-its-1-after-the-fear-md-8064e80480.md) · instagram · author unknown
+- 2026-08-09T13:07:30.297000Z · [Why the Clients Do not Commit?!](../wiki/sources/linkedin-posts-2026-08-09-why-the-clients-do-not-md-d7ecb814a8.md) · linkedin · olgasi
+- 2026-08-11T15:12:35.103000Z · [For Ekaterina Karanska it was Never easy….](../wiki/sources/linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5.md) · linkedin · olgasi
+- 2026-08-13 · [4 Questions That Kill Your Dubai Real Estate Deals in 2026](../wiki/sources/youtube-transcripts-06-yaml-0a7019172f.md) · youtube · author unknown
+- 2026-08-20T05:29:35.614000Z · [Whom do you think you are? And why should I listen to you?](../wiki/sources/linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57.md) · linkedin · olgasi
+- 2026-08-21T04:15:02.159000Z · [Is this only me… or you are as well bombarded by Sales messages- which have Such a generic text…](../wiki/sources/linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb.md) · linkedin · olgasi
+- 2026-08-24T15:26:26Z · [Caption](../wiki/sources/instagram-posts-2026-08-24-hes-renting-your-4m-off-plan-md-82a6d29628.md) · instagram · author unknown
+- 2026-08-25T04:15:01.448000Z · ["Dubai agents are scammers..."](../wiki/sources/linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663.md) · linkedin · olgasi
+- 2026-08-25T06:49:16.128000Z · [Is this already Started?](../wiki/sources/linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6.md) · linkedin · olgasi
+- 2026-08-27T07:27:49.356000Z · [For all the PropTech founders out there who are planning to blow up the Dubai real estate market…. first, and ](../wiki/sources/linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb.md) · linkedin · olgasi
+- 2026-08-27T07:35:09Z · [Two ways Dubai prop-tech startup ends in 2026.](../wiki/sources/twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea.md) · twitter · Olga_Si_Sales
+- 2026-09-02T02:55:09.036000Z · [Seriously? This is the world we are living now?](../wiki/sources/linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65.md) · linkedin · olgasi
+- 2026-09-07T07:05:12.171000Z · [Celebrating the 6th Year of my Coaching Academy with Tony Robbins- Unleash the Power within 4 days event in Co](../wiki/sources/linkedin-posts-2026-09-07-celebrating-the-6th-year-of-md-d1ea1e40c8.md) · linkedin · olgasi
+- 2026-09-07T08:40:33Z · [Caption](../wiki/sources/instagram-posts-2026-09-07-if-you-are-watching-this-md-3b99390bb6.md) · instagram · author unknown
+- 2026-09-08T06:00:10.742000Z · [How do you change your income, your life and yourself?](../wiki/sources/linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd.md) · linkedin · olgasi
+- 2026-09-13T14:06:08Z · [Caption](../wiki/sources/instagram-posts-2026-09-13-1-week-post-tony-robbins-md-7b85bbe53a.md) · instagram · author unknown
+- 2026-09-15T06:01:15Z · [Caption](../wiki/sources/instagram-posts-2026-09-15-tired-of-i-need-md-a1b2c2f98a.md) · instagram · author unknown
+- 2026-09-17T12:13:05.631000Z · [Getting Ghosted by your Clients?… Here is what you should Do!](../wiki/sources/linkedin-posts-2026-09-17-getting-ghosted-by-your-clients-md-4c3ab06c31.md) · linkedin · olgasi
+- 2026-09-19 · [Is this 2008 in Dubai all over Again？ #realestate](../wiki/sources/youtube-shorts-run-transcripts-s102-yaml-151697bff1.md) · youtube · author unknown
+- 2026-09-20T05:25:06Z · [Caption](../wiki/sources/instagram-posts-2026-09-20-its-not-a-join-this-md-94b3c64bf1.md) · instagram · author unknown
+- 2026-09-21T08:33:34.796000Z · [Which problem Do You solve?…. This is my first question to](../wiki/sources/linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9.md) · linkedin · olgasi
+- 2026-09-24T16:11:46Z · [Caption](../wiki/sources/instagram-posts-2026-09-24-roi-from-tony-robbins-unleash-md-f48d0a11b4.md) · instagram · author unknown
+
+## Undated sources
+
+- [olga](../wiki/sources/instagram-olga-yaml-d81aa23bbe.md) · instagram

@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A common aspect of effective client engagement involves clients actively participating in their own calculations and decisions.",
+      "qualification": "Both pieces of evidence come from the same author, possibly reflecting a singular opinion on the client engagement model.",
+      "support_ids": [
+        "linkedin-posts-2024-02-06-this-one-time-you-can-md-fe1810458a:c001:e001:1f08b761",
+        "linkedin-posts-2024-02-07-im-not-joking-i-made-md-7e8f582c74:c001:e001:5bd55ba1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building and maintaining strong client relationships is considered critical for ensuring client satisfaction and retention.",
+      "qualification": "This conclusion is tied to subjective assertions about relationship building in client interactions.",
+      "support_ids": [
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e003:cbdfcb57"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales resistance is suggested to have a negative impact on one's own sales effectiveness, indicating that managing this resistance is crucial.",
+      "qualification": "The statement lacks empirical verification and is a self-reported claim.",
+      "support_ids": [
+        "linkedin-posts-2024-03-05-my-own-sales-tricks-grab-md-d4af296ae1:c001:e001:039967e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective client engagement strategies may involve the use of advanced questioning techniques to guide clients toward making informed decisions.",
+      "qualification": "The evidence is presented as advice from a LinkedIn post, and is not systematically tested.",
+      "support_ids": [
+        "linkedin-posts-2024-02-13-how-can-you-push-how-md-92fb8a6280:c001:e001:5bd55ba1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There exists a belief that positive engagement can alleviate doubts regarding a client's seriousness about a transaction.",
+      "qualification": "The evidence is derived from a self-reported belief, thus lacks corroboration.",
+      "support_ids": [
+        "linkedin-posts-2024-02-23-what-should-we-know-about-md-2f2f121b56:c001:e001:f71e2d6b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some agents believe that signing clients without prior meetings or demos can be achieved through strong online presence and positive reviews.",
+      "qualification": "This is based on anecdotal evidence lacking broader validation.",
+      "support_ids": [
+        "linkedin-posts-2024-03-22-have-you-seen-that-black-md-e3b1fef0d4:c001:e001:d2715d2f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Observations indicate that the general public holds diverse opinions regarding sales practices, suggesting a complex landscape of public sentiment.",
+      "qualification": "Finding derives from self-reported engagement and lacks detailed demographics.",
+      "support_ids": [
+        "linkedin-posts-2024-03-26-what-does-the-general-public-md-04c7067b87:c001:e001:4ec7be97"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Individuals are encouraged to express their thoughts about sales, indicating a community interest in understanding varying perspectives on sales practices.",
+      "qualification": "This is based on soliciting feedback, which may not reflect broader public opinion.",
+      "support_ids": [
+        "linkedin-posts-2024-03-26-what-does-the-general-public-md-04c7067b87:c001:e002:b69c0601"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If you are working with the offline clients and trying to close the deal online, that's exactly the phrases and questions that you have to memorize.",
+      "statement": "Memorize phrases and questions to close deals with offline clients online.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "What was about the ad that kind of attracted you to respond? What you're actually asking is like, what the hell your problem, Mr. client, is so I can help you to solve it?",
+      "statement": "Start the conversation by asking what attracted the client to the ad, beyond just graphics.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If the client is telling you, oh, I don't remember the ad, please don't do this.",
+      "statement": "If the client doesn't remember the ad, don't react negatively but redirect the conversation.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "And what was your like, um overall goal with this investment, okay?",
+      "statement": "Follow up with asking the client's overall goal with their investment after discussing the ad.",
+      "topic": "sales conversation",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Extracted observations from a YouTube short on sales strategies for real estate agents."
+}

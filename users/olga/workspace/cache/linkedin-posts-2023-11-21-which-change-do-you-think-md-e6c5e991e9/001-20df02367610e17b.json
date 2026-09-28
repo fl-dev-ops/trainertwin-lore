@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "self_report",
+      "quote": "Which change do you think will boost your sales & income more?",
+      "statement": "Which change do you think will boost your sales & income more?",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post soliciting opinions on sales changes"
+}

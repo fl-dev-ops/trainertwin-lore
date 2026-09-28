@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "How to handle DUBAI is A Bubble with international clients.",
+      "statement": "Dubai is described as a bubble in the real estate market.",
+      "topic": "market dynamics",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Focusing on the fear experienced by individuals who’ve faced currency devaluation and real estate ownership pitfalls.",
+      "statement": "Individuals experience fear due to currency devaluation and real estate ownership issues.",
+      "topic": "emotional response",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "You need to dig deeper into the situation - what is actually happening.",
+      "statement": "Digging deeper into the situation can help uncover the roots of fear to transform perspectives.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "The process of handling objections is key: from clarifying concerns to diffusing anxiety.",
+      "statement": "Handling objections involves clarifying concerns and diffusing anxiety.",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "My advice - Google why the Property Market Bubbles are even happening!",
+      "statement": "Researching property market bubbles will help in understanding Dubai's real estate circumstances.",
+      "topic": "market research",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Share your experiences and thoughts below!",
+      "statement": "Encourages sharing experiences and thoughts in the comments section.",
+      "topic": "community engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing strategies for dealing with real estate market fears in Dubai."
+}

@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If your Clients Always ask for Discount - use this Frame Most agents panic when a client asks for a discount.",
+      "statement": "When a client asks for a discount, ask them one question: \"If you had 3 buyers for your car - one offering full price, and 2 asking for a discount - which would you choose?\"",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Developers aren't charities. They give discounts when they HAVE to, not when they WANT to.",
+      "statement": "Developers give discounts when they HAVE to, not when they WANT to.",
+      "topic": "sales process",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "Discounted units are the ones sitting on the market.",
+      "statement": "Discounted units are the ones sitting on the market.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "When you frame it like this, they choose profit over savings every time.",
+      "statement": "When you frame it like this, they choose profit over savings every time.",
+      "topic": "sales performance",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Stop competing on price. Start competing on value.",
+      "statement": "Stop competing on price. Start competing on value.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "case_study",
+      "quote": "Their portfolio will thank you in 3 years when that \"expensive\" unit doubled and that \"discounted\" ones ...hopefully at 25%.",
+      "statement": "Their portfolio will thank you in 3 years when that 'expensive' unit doubled and that 'discounted' ones ...hopefully at 25%.",
+      "topic": "client interaction",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post providing sales strategy advice for real estate agents on handling client discount requests."
+}

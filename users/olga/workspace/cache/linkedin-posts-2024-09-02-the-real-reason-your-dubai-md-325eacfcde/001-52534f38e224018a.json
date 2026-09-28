@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "the highest conversion rate I’ve seen barely hits 2%.",
+      "statement": "The highest conversion rate I’ve seen barely hits 2%.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "most clients are in the early stages of awareness—either Unaware or Problem Aware.",
+      "statement": "Most clients are in the early stages of awareness—either Unaware or Problem Aware.",
+      "topic": "client quality",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Your Sales Team Lacks Skills: Your team doesn’t have the skills or technical knowledge for effective online selling.",
+      "statement": "Your team doesn’t have the skills or technical knowledge for effective online selling.",
+      "topic": "sales team skills",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "a 62% increase in lead conversions into Zoom bookings.",
+      "statement": "One of my clients... saw a 62% increase in lead conversions into Zoom bookings.",
+      "topic": "strategic outcomes",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "It’s about rethinking your strategy.",
+      "statement": "Converting leads isn’t about spending more—it’s about rethinking your strategy.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "My online sales system: Guides agents and clients through a process that informs and empowers at every stage.",
+      "statement": "My online sales system guides agents and clients through a process that informs and empowers at every stage.",
+      "topic": "sales process improvement",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "You’re Getting Ghosted: Try to sell too soon, and your leads disappear—leaving you wondering what went wrong.",
+      "statement": "Try to sell too soon, and your leads disappear—leaving you wondering what went wrong.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "The current sales process isn’t designed for the digital age.",
+      "statement": "The current sales process isn’t designed for the digital age.",
+      "topic": "digital transition",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "teaching_move",
+      "quote": "Delivers the right content at the right time—tailored materials.",
+      "statement": "Delivers the right content at the right time—tailored materials, case studies, videos, and strategic touchpoints.",
+      "topic": "client education",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post analyzing low conversion rates for real estate leads in Dubai and suggesting improvements in sales strategies."
+}

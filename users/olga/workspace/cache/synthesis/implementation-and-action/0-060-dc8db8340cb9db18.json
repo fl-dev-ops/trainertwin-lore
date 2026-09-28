@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Transactional communication in sales should go beyond merely citing payment amounts and focus on understanding clients' desires.",
+      "qualification": "This approach is advised but not confirmed to be effective.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s61-yaml-5861981557:c001:e001:b21a85c2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging clients involves asking them questions to lead them to their own conclusions rather than focusing solely on sales talk.",
+      "qualification": "Advisory and based on the speaker's perspective, lacking external validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s63-yaml-69a44cc369:c001:e001:7dfc829b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence and respect in lead management are recommended strategies rather than dismissing uninterested leads.",
+      "qualification": "Observed behavior and emphasized as crucial, no contradictory reports available.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s65-yaml-028370d216:c001:e004:c90dfe02"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A well-navigated sales strategy in Dubai includes understanding market dynamics and evolving professionally rather than employing static actions.",
+      "qualification": "This is a subjective belief about market adaptation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s65-yaml-028370d216:c001:e001:447c62c5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The 'I need to think about it' objection is often a superficial hurdle, not a genuine block in the sales process.",
+      "qualification": "It is observational and dependent on situation-specific nuances.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s67-yaml-9f77fc8b31:c001:e001:3ece05cf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective objection handling involves identifying real concerns via a verbal bridge rather than surface-level objections.",
+      "qualification": "Self-reported method; effectiveness not independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s67-yaml-9f77fc8b31:c001:e003:fe9cef86"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A client's past experiences in real estate may lead to current objections and fears, which require reassurance and protection from repeated negative outcomes.",
+      "qualification": "Observed behavior indicating patterns; method for reassurance not confirmed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s68-yaml-d28bfefa52:c001:e001:5b77a5d9",
+        "youtube-shorts-run-transcripts-s68-yaml-d28bfefa52:c001:e003:f43893f5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding a client's issues from beginning to end is critical to influencing them effectively without seeming 'salesy.'",
+      "qualification": "Described tactic in sales strategy; lacks detailed validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s69-yaml-d7b235f86e:c001:e002:36bbde4f",
+        "youtube-shorts-run-transcripts-s69-yaml-d7b235f86e:c001:e003:a4061b7d"
+      ]
+    }
+  ]
+}

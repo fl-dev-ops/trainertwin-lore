@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-05-09-youre-doing-everything-so-why-md-aeeb2efb98-37bfeae5633dd74f.jsonl",
+  "external_id": "7326464084097314817",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:43:08Z",
+  "metadata_hash": "dd76c81ad26815ddf04b765f0647c674568c56ebc9da26fdb1befccd9cb4d69b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-05-09T04:32:36.769000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-05-09-youre-doing-everything-so-why.md",
+  "source_sha256": "21bcbfac8f273dcc4cba06bed919016376fca99b340d11c58fff9b7a81a71595",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatecareers-dubairealestate-realestatetraining-activity-7326464084097314817-eici"
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "At the end of January, I submitted my resignation, and 28 February was my last day as Head of Learning & Development.",
+      "statement": "I submitted my resignation, and 28 February was my last day as Head of Learning & Development.",
+      "topic": "personal growth",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Now the market is harder, agencies come under pressure, no one will even think of spending money for training …",
+      "statement": "The market is harder, agencies come under pressure, no one will even think of spending money for training.",
+      "topic": "market conditions",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "advised",
+      "kind": "teaching_move",
+      "quote": "For Agents - if you want to keep selling - I will help you Join the agency where I'm already coaching the team",
+      "statement": "If you want to keep selling - I will help you Join the agency where I'm already coaching the team.",
+      "topic": "sales strategy",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "2009 in Kiev, Ukraine - where I was a Head of sales of Real Estate Developer - we had a financial system collapse, accounts were frozen by the government for a whole year.",
+      "statement": "2009 in Kiev, Ukraine - we had a financial system collapse, accounts were frozen by the government for a whole year.",
+      "topic": "market history",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "And every time I explained it, people felt lighter. Not necessarily positive, but able to act.",
+      "statement": "Every time I explained it, people felt lighter. Not necessarily positive, but able to act.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "If you are an Agency Owner and you want to use it to build one of the strongest teams in the market, DM me, I'll share my High-Performance program.",
+      "statement": "If you are an Agency Owner and you want to use it to build one of the strongest teams in the market, DM me, I'll share my High-Performance program.",
+      "topic": "coaching program",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "self_reported",
+      "kind": "case_study",
+      "quote": "2018 in Dubai - When the market was slowing down, (many do not know that as they started after 2020) - where I came up with Rent-to-Own scheme.",
+      "statement": "2018 in Dubai - when the market was slowing down... I came up with Rent-to-Own scheme.",
+      "topic": "sales experience",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "And this kind of loss is real. It feels like grief.",
+      "statement": "We all LOST OUR FUTURE… And this kind of loss is real. It feels like grief.",
+      "topic": "emotional experience",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post reflecting on personal experience and market challenges in real estate and client engagement strategies."
+}

@@ -1,0 +1,74 @@
+{
+  "findings": [
+    {
+      "counter_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e008:3b163e93"
+      ],
+      "finding": "Emotions can heavily influence business and personal success, as belief systems and emotional states impact opportunities for growth and actions taken by individuals.",
+      "qualification": "This finding is tied to self-reported insights and may not fully encompass all growth opportunities in a professional context.",
+      "support_ids": [
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e002:f855255e",
+        "linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a:c001:e005:28acbe97"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fear arising from economic uncertainties can significantly affect emotional responses, as seen with concerns about currency devaluation impacting real estate investments.",
+      "qualification": "These are anecdotal and self-reported observations, which might not be generalizable.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e002:61237eeb",
+        "youtube-shorts-run-transcripts-s141-yaml-01d68cfba7:c001:e004:74db8df2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A sense of loss can trigger emotions similar to grief, indicating the powerful impact personal expectations and future planning have on emotional experiences.",
+      "qualification": "The speaker’s claim is self-reported, and the exact nature of the loss is not specified.",
+      "support_ids": [
+        "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b:c001:e008:691ee43d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Presenting emotions can be an effective teaching tool, suggesting that visual representation helps convey emotional understanding.",
+      "qualification": "The strategy discussed is hypothetical, intended as a teaching exercise rather than a research-backed insight.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s30-yaml-acc646e31b:c001:e002:124d11de"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Individuals may avoid discussing certain topics due to discomfort, reflecting how emotional stances affect willingness to engage in conversations.",
+      "qualification": "The self-reported discomfort pertains to a specific context and may not be broadly applicable.",
+      "support_ids": [
+        "linkedin-posts-2023-09-13-im-not-happy-to-discuss-md-fa8959df16:c001:e001:0755becf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "True freedom is perceived as having multiple choices in work and lifestyle, connecting the idea of freedom to emotional well-being and mental health.",
+      "qualification": "The notion is philosophical and self-reported, lacking empirical data backing.",
+      "support_ids": [
+        "linkedin-posts-2025-03-08-ladies-today-is-womens-daya-md-0b6d74d642:c001:e002:07dba844"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Maintaining curiosity and calmness is recommended in sales contexts to create better client interactions.",
+      "qualification": "The advice is context-specific and based on personal observations, not empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-09-28-if-you-want-to-stand-md-a72b752f0a:c001:e005:28acbe97"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Growth opportunities in the professional realm are tied to emotional dynamics, such as motivation and personal belief systems, affecting career development pathways like coaching and L&D roles.",
+      "qualification": "This is based on self-reported growth advice, not verified career trajectory statistics.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e008:3b163e93",
+        "linkedin-posts-2025-05-02-im-looking-for-my-training-md-892ab86a73:c001:e006:01fa9949"
+      ]
+    }
+  ],
+  "signature": "02a8b423350da78eebf7dc958989c8582f92c7c944d1c154a123f09483fe4f14"
+}

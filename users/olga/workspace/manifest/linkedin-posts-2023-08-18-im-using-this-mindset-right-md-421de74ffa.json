@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-08-18-im-using-this-mindset-right-md-421de74ffa-518a43ad4f02a9fa.jsonl",
+  "external_id": "7098209316876226560",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:14:36Z",
+  "metadata_hash": "42e13d9a9c50e189d7d24c61b24868eebc3cdaa7eb554ce13319759be60f55ac",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-18T07:49:39.495000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-18-im-using-this-mindset-right.md",
+  "source_sha256": "b7c17e2edff23cfc30e84a02e4463a4aec71063f0e06e797def1b9488b56d8d5",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestactics-salesprofessionals-salestraining-activity-7098209316876226560-UMSV"
+}

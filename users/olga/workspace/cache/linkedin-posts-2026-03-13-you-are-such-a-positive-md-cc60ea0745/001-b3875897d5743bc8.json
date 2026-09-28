@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "I’m starting an initiative to bring us together.",
+      "statement": "I'm starting an initiative to bring us together.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "So I created a Telegram community where we talk about how to keep working, keep getting clients, and keep making money even in uncertain markets.",
+      "statement": "I created a Telegram community where we talk about how to keep working, keep getting clients, and keep making money even in uncertain markets.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "how to Regilate your MINDSET TO stay focused and productive during uncertainty.",
+      "statement": "How to Regilate your MINDSET TO stay focused and productive during uncertainty.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Deals falling apart. Clients saying “let’s wait”. Leads disappearing. Conversations getting harder.",
+      "statement": "Deals falling apart. Clients saying 'let’s wait'. Leads disappearing. Conversations getting harder.",
+      "topic": "sales resistance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "I will host a free online training where I will share:",
+      "statement": "I will host a free online training where I will share.",
+      "topic": "sales performance",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post promoting community support and training in real estate."
+}

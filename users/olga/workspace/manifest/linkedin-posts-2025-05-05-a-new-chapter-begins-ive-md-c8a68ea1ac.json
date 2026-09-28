@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-05-05-a-new-chapter-begins-ive-md-c8a68ea1ac-77cfce50a612b208.jsonl",
+  "external_id": "7325042219210436608",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:57:34Z",
+  "metadata_hash": "ea9d2413b87a101bb60a1b230b6bfd6052b69ee636eb3668328510c58645615a",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-05-05T06:22:37.763000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-05-05-a-new-chapter-begins-ive.md",
+  "source_sha256": "24bb4bb70e8d29015b9789cd9849b2cfa860042553fc5be7afa052a43da5b41c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_a-new-chapter-begins-ive-joined-one-broker-activity-7325042219210436608-bhT9"
+}

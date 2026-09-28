@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-06-04-45no-i-wouldnt-want-to-md-bc1279161c-de5815a7a3ee883b.jsonl",
+  "external_id": "7335976036217544705",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:44:05Z",
+  "metadata_hash": "a9f9c8f5133706a6e462aef2d238ccc4aaf600e19c34d6cdb1c0ed68f02fbc23",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-06-04T10:29:42.878000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-06-04-45no-i-wouldnt-want-to.md",
+  "source_sha256": "3a7fc03064ca2e711d67bd5a0386c5bc951c02f4371a1f7edc4e728222905076",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatecoach-dubaibusinesswoman-womeninrealestate-activity-7335976036217544705-9EQL"
+}

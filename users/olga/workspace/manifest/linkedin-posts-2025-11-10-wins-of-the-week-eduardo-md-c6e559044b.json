@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-11-10-wins-of-the-week-eduardo-md-c6e559044b-7321e7a24fc44260.jsonl",
+  "external_id": "7393629765066272768",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T17:17:56Z",
+  "metadata_hash": "777fc79f36bcf896687d4e61a76de578b4a78366f187eb2be20f021bbc335267",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-10T12:45:02.990000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-10-wins-of-the-week-eduardo.md",
+  "source_sha256": "a903531f04270dfc95d50217403fa3b2d3ef230bce6e2485b7e205b2ad347694",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatetraining-realestatecoachdubai-coldcalling-activity-7393629765066272768-3FhS"
+}

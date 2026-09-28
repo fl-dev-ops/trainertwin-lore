@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2025-07-08-in-this-training-i-explained-md-1c9495e598-2d909a942a80afee.jsonl",
+  "external_id": "7348210482614317057",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:44:58Z",
+  "metadata_hash": "d4a842c1ecaf39ae8c1e3dc37f3f5256967000706a901e439b0e975f72d91c55",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-07-08T04:45:02.204000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-07-08-in-this-training-i-explained.md",
+  "source_sha256": "efb8891d09363077cff43363b8cfa5955ac050fa2d37a5e8bb141b27d7fad0f6",
+  "source_url": "https://www.linkedin.com/posts/olgasi_coldcallingtrainingdubai-coldcalling-realestate-activity-7348210482614317057-IIFf"
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "3 to 6 months – realistic expectations for your first commission.",
+      "statement": "Expectations for first commission in sales are realistically set at 3 to 6 months.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "including 150 dials a day!",
+      "statement": "Making 150 dials a day is considered an intensive effort in sales activities.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "How do you keep your mindset strong to push through?",
+      "statement": "A strong mindset is necessary to endure challenges during the sales process.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A single LinkedIn post discussing realistic expectations for earning commissions in sales while emphasizing mindset resilience."
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Pitching is often delayed in conversations to focus on client qualification and objection handling.",
+      "qualification": "The emphasis is on understanding client needs before pitching, but this strategy is self-reported and lacks third-party corroboration.",
+      "support_ids": [
+        "linkedin-posts-2024-03-21-we-do-not-pitch-the-md-63113566c9:c001:e001:1b55f6a0",
+        "linkedin-posts-2024-03-21-we-do-not-pitch-the-md-63113566c9:c001:e002:5a017598"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Accountability within the sales team is based on presence and performance.",
+      "qualification": "The finding is self-reported by the team leader without external validation of its effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-03-22-its-a-perfect-day-to-md-c7511175da:c001:e001:3f3b5655",
+        "linkedin-posts-2024-03-22-its-a-perfect-day-to-md-c7511175da:c001:e002:c86dbc9d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Starting with off-plan real estate projects can develop skills necessary for transitioning into the secondary market.",
+      "qualification": "The advice is observational and lacks corroborating professional experiences outside of the source.",
+      "support_ids": [
+        "linkedin-posts-2024-04-09-want-to-become-a-professional-md-1d085bd935:c001:e001:c285b706"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training sessions are suggested to provide significant insights into the Real Estate industry.",
+      "qualification": "This is a hypothetical claim and unverified by any formal measures or evaluations.",
+      "support_ids": [
+        "linkedin-posts-2024-04-09-you-could-make-so-much-md-b5bc85013f:c001:e002:bb84d188"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Leading the conversation is preferred over merely reacting to what clients say.",
+      "qualification": "This strategy is advised by the trainer but lacks independent assessment or success metrics.",
+      "support_ids": [
+        "linkedin-posts-2024-04-30-not-what-to-say-but-md-532def10e7:c001:e002:74e53285"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Internal urgency can enhance sales effectiveness.",
+      "qualification": "This is an observed claim without independent studies or data to support the impact of internal urgency on sales.",
+      "support_ids": [
+        "linkedin-posts-2024-04-18-why-do-you-need-to-md-d208ccc819:c001:e001:870e08c3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales agents are advised to consistently plan the next step in their process with clients.",
+      "qualification": "Advice is based on the author's experience and is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-04-30-not-what-to-say-but-md-532def10e7:c001:e004:1ff95ed1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Driving can be exceptionally slow due to traffic congestion problems.",
+      "qualification": "Self-reported and illustrates an isolated incident, lacking broader contextual data or regional traffic analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-05-06-all-about-today-have-you-md-e6c7190998:c001:e001:2d35cbb9"
+      ]
+    }
+  ]
+}

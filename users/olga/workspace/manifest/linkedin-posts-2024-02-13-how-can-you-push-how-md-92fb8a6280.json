@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-02-13-how-can-you-push-how-md-92fb8a6280-4478724ad3d8bedf.jsonl",
+  "external_id": "7163018972072734722",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:22:49Z",
+  "metadata_hash": "20f474ce9dd685de067a7f26273b39279280b012a74069f825cd5bd4a0eac99b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-02-13T04:00:05.399000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-02-13-how-can-you-push-how.md",
+  "source_sha256": "d306ee6a9d46f24cce6cd44f6bdfdd542ed16c2590d217157df6467bcbd53c68",
+  "source_url": "https://www.linkedin.com/posts/olgasi_sales-dubairealestatebroker-salestraining-activity-7163018972072734722-P0wj"
+}

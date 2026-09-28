@@ -1,0 +1,28 @@
+id: s01
+title: '#careergrowth #dubairealestateconsultant #dubaisalescoach #realestatetraining'
+date: '2024-07-10'
+source: '#careergrowth #dubairealestateconsultant #dubaisalescoach #realestatetraining'
+audio_file: '#careergrowth #dubairealestateconsultant #dubaisalescoach #realestatetraining [k-jy-VvN39o].mp3'
+duration: "00:00:33"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 4
+turns:
+- t: "00:00:14"
+  speaker: '1'
+  text: >-
+    I can't be
+- t: "00:00:18"
+  speaker: '1'
+  text: >-
+    Lucas to treat
+- t: "00:00:22"
+  speaker: '1'
+  text: >-
+    Okay
+- t: "00:00:30"
+  speaker: '1'
+  text: >-
+    Bye bye

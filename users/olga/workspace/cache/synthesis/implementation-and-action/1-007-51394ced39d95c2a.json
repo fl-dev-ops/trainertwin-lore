@@ -1,0 +1,62 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A significant majority, about 95%, of real estate agents fail to continue in the industry beyond their first year due to various challenges.",
+      "qualification": "Factors contributing to this high dropout rate are not elaborated in detail.",
+      "support_ids": [
+        "linkedin-posts-2025-10-23-why-95-of-real-estate-md-9a167dacc4:c001:e001:2765ea24"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Eduardo achieved top agent status for Binghatti after six months, illustrating success through consistent performance.",
+      "qualification": "Result is observed; lacks detailed insight into specific actions or strategies that led to this success.",
+      "support_ids": [
+        "linkedin-posts-2025-11-10-wins-of-the-week-eduardo-md-c6e559044b:c001:e001:a271c9b5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training programs offering scripts and frameworks are emphasized as tools to improve sales closing efficiency in Dubai.",
+      "qualification": "Effectiveness of such training is implied but not quantified in the evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-what-should-i-say-so-md-1b68d420ee:c001:e004:2a9377ee",
+        "linkedin-posts-2025-11-03-can-i-close-by-cold-md-d8f0207889:c001:e002:b92125bb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is presented as a viable method for closing deals in Dubai, with specific training available.",
+      "qualification": "The success rate of cold calling as reported is not substantiated by external data.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-what-should-i-say-so-md-1b68d420ee:c001:e003:883e9f7f",
+        "linkedin-posts-2025-11-03-can-i-close-by-cold-md-d8f0207889:c001:e002:b92125bb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "For new agents, overcoming initial rejection requires reframing it as background noise, which could aid long-term persistence.",
+      "qualification": "The assertion is self-reported and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-10-22-the-story-i-never-told-md-7b57e1d70a:c001:e003:3410c0f8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Use of scripts from video training is recommended to new agents for initiating actions.",
+      "qualification": "This recommendation is self-reported; efficacy is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-11-05-new-agents-ask-me-where-md-0ad37c47ab:c001:e003:35e15417"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The old-school Dubai real estate approach is aggressive, while newer approaches emphasize emotional intelligence.",
+      "qualification": "The discussion is based on observed changes and self-reported descriptions rather than empirical data.",
+      "support_ids": [
+        "linkedin-posts-2025-11-21-sales-isnt-about-harassing-people-md-7c969e3584:c001:e004:2c8d0706"
+      ]
+    }
+  ]
+}

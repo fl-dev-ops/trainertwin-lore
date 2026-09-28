@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "What if this year, your goals didn’t just stay on paper? I’ve been there. Year after year, I’d write down my goals, create vision boards, and dream big.",
+      "statement": "I’ve been there. Year after year, I’d write down my goals, create vision boards, and dream big.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "This year, I decided to change that. Using my coaching tools, I created a system that goes beyond setting goals—it’s about aligning with your desires.",
+      "statement": "Using my coaching tools, I created a system that goes beyond setting goals.",
+      "topic": "goals in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "The New Year Success Design is a free document that will help you: Clear the noise in your mind and uncover your true priorities.",
+      "statement": "The New Year Success Design is a free document that will help you: Clear the noise in your mind and uncover your true priorities.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Build actionable plans that feel achievable and exciting.",
+      "statement": "Build actionable plans that feel achievable and exciting.",
+      "topic": "goals in sales",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I’d love to hear your feedback after trying it—let’s refine this tool together and make it even better for everyone.",
+      "statement": "I’d love to hear your feedback after trying it—let’s refine this tool together.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "And if even one person finds value in this, that’s more than enough for me.",
+      "statement": "If even one person finds value in this, that’s more than enough for me.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post about setting and achieving goals for the upcoming year, with an offering of a free tool."
+}

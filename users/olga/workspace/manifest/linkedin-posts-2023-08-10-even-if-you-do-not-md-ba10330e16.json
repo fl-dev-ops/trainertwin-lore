@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2023-08-10-even-if-you-do-not-md-ba10330e16-c195aa517f3e5dae.jsonl",
+  "external_id": "7095424687534432256",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:14:21Z",
+  "metadata_hash": "d76d0153a38ea7dc03f72932cbda6dd9af5960913a98893cd9045a7cdd876dde",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-10T15:24:32.124000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-10-even-if-you-do-not.md",
+  "source_sha256": "97bcb32a6e3e3b691913fd7941487a1c242fc30282906ad6ee586938611c7f03",
+  "source_url": "https://www.linkedin.com/posts/olgasi_lossaversion-fomo-salesstrategies-activity-7095424687534432256-17yH"
+}

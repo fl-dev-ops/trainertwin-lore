@@ -1,0 +1,159 @@
+{
+  "groups": [
+    {
+      "name": "access and infrastructure",
+      "topics": [
+        "access-improvement"
+      ]
+    },
+    {
+      "name": "advice and guidance",
+      "topics": [
+        "advice-and-insights",
+        "cleaning-advice"
+      ]
+    },
+    {
+      "name": "marketing and promotion",
+      "topics": [
+        "advocacy-and-promotion",
+        "content-marketing"
+      ]
+    },
+    {
+      "name": "client interactions",
+      "topics": [
+        "client-engagement",
+        "communication-skills"
+      ]
+    },
+    {
+      "name": "coaching and development",
+      "topics": [
+        "coaching-and-development"
+      ]
+    },
+    {
+      "name": "business evaluation",
+      "topics": [
+        "candidate-evaluation",
+        "company-evaluation"
+      ]
+    },
+    {
+      "name": "emotional intelligence",
+      "topics": [
+        "emotional-aspects",
+        "authenticity-and-perception"
+      ]
+    },
+    {
+      "name": "community and culture",
+      "topics": [
+        "community-and-culture",
+        "cultural-interaction"
+      ]
+    },
+    {
+      "name": "decision making",
+      "topics": [
+        "decision-making"
+      ]
+    },
+    {
+      "name": "real estate dynamics",
+      "topics": [
+        "agent-dynamics",
+        "buyer-behavior",
+        "business-strategy"
+      ]
+    },
+    {
+      "name": "innovation and creativity",
+      "topics": [
+        "creativity-and-innovation",
+        "ai-applications"
+      ]
+    },
+    {
+      "name": "socio-economic factors",
+      "topics": [
+        "country-governance",
+        "governance-and-community-impact",
+        "external-factors"
+      ]
+    },
+    {
+      "name": "future outlook",
+      "topics": [
+        "future-careers"
+      ]
+    },
+    {
+      "name": "consistency and focus",
+      "topics": [
+        "consistency"
+      ]
+    },
+    {
+      "name": "audience relationship",
+      "topics": [
+        "audience-engagement"
+      ]
+    },
+    {
+      "name": "financial management",
+      "topics": [
+        "financial-insight"
+      ]
+    },
+    {
+      "name": "focus group and engagement",
+      "topics": [
+        "focus-group-involvement"
+      ]
+    },
+    {
+      "name": "brand-identity",
+      "topics": [
+        "brand-identity"
+      ]
+    },
+    {
+      "name": "behavioral-observations",
+      "topics": [
+        "behavioral-observations"
+      ]
+    },
+    {
+      "name": "hashtags",
+      "topics": [
+        "hashtags"
+      ]
+    },
+    {
+      "name": "common-sense",
+      "topics": [
+        "common-sense"
+      ]
+    },
+    {
+      "name": "event-planning",
+      "topics": [
+        "event-planning"
+      ]
+    },
+    {
+      "name": "employment-considerations",
+      "topics": [
+        "employment-considerations"
+      ]
+    },
+    {
+      "name": "assessing-new-roles",
+      "topics": [
+        "assessing-new-roles"
+      ]
+    }
+  ]
+}

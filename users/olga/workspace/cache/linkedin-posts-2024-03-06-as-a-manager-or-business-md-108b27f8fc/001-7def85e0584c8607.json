@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "have you ever measured how much money your sales team is \"leaving on the table\"? The foundation of off-plan sales is crucial. Yet, surprisingly, 50% of agents selling off-plan struggle to understand how to share their screen effectively on Zoom.",
+      "statement": "50% of agents selling off-plan struggle to understand how to share their screen effectively on Zoom.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "In a recent 8-hour Zoom agent's exam: Product knowledge Ability to showcase numbers and follow the given structure were assessed. Even No Soft Skills been taken in consideration... Only 25% passed...",
+      "statement": "Only 25% of participants passed a recent 8-hour Zoom agent's exam evaluating product knowledge and presentation abilities.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing key performance metrics for sales teams, specifically related to off-plan sales and Zoom presentation effectiveness."
+}

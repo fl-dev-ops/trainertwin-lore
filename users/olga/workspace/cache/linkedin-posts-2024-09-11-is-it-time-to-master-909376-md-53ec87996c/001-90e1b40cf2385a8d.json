@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I just can’t close deals online as effectively as I do in person. When I’m face-to-face with clients, it’s easier to build trust.",
+      "statement": "I just can’t close deals online as effectively as I do in person.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The reality is clear—more and more real estate transactions, including secondary market sales, are shifting to online platforms.",
+      "statement": "More and more real estate transactions are shifting to online platforms.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Selling online requires more than just mastering technology. It demands an understanding of your clients’ psychology.",
+      "statement": "Selling online requires understanding of clients’ psychology and emotions.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "But also how to ask the right questions that lead to honest, meaningful conversations.",
+      "statement": "Ask the right questions to lead to honest, meaningful conversations.",
+      "topic": "communication skills",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "if you’re ready to take your online sales game to the next level, check out my upcoming course designed specifically for real estate agents in Dubai.",
+      "statement": "I offer courses designed specifically for real estate agents in Dubai.",
+      "topic": "training approach",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Have you faced challenges selling online? What’s been your biggest hurdle? Share your experience in the comments.",
+      "statement": "The post invites readers to share their experiences with challenges in selling online.",
+      "topic": "client engagement",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post discussing the importance of mastering online sales in real estate."
+}

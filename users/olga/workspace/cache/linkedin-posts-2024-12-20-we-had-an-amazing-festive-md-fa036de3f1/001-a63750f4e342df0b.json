@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "We had an amazing festive potluck today at Chestertons MENA! Although most of our team is",
+      "statement": "We had an amazing festive potluck today at Chestertons MENA!",
+      "topic": "team celebration",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "The variety of delicious dishes was incredible, and it was the perfect way to wrap up the year together.",
+      "statement": "The variety of delicious dishes was incredible, and it was the perfect way to wrap up the year together.",
+      "topic": "food experience",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I think it's safe to say I'm in a food coma now, but totally worth it!",
+      "statement": "I think it's safe to say I'm in a food coma now, but totally worth it!",
+      "topic": "personal reflection",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Wishing everyone a joyful holiday season ahead, and looking forward to what 2024 will bring!",
+      "statement": "Wishing everyone a joyful holiday season ahead, and looking forward to what 2024 will bring!",
+      "topic": "holiday wishes",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post about a festive potluck party."
+}

@@ -1,0 +1,89 @@
+{
+  "groups": [
+    {
+      "name": "Financial Management",
+      "topics": [
+        "financial-freedom",
+        "financial-investment-in-skills",
+        "financial-mindset",
+        "financial-options",
+        "financial-outcomes",
+        "financial-preparation",
+        "financial-qualification",
+        "financial-waste"
+      ]
+    },
+    {
+      "name": "Focus and Planning",
+      "topics": [
+        "focus",
+        "goal-setting",
+        "goal-setting-approach",
+        "goals-in-sales",
+        "future-planning"
+      ]
+    },
+    {
+      "name": "Follow-Up and Strategy",
+      "topics": [
+        "follow-up-strategy",
+        "guidance"
+      ]
+    },
+    {
+      "name": "Food and Cultural Experience",
+      "topics": [
+        "food-experience",
+        "holiday-wishes"
+      ]
+    },
+    {
+      "name": "Freedom and Opportunities",
+      "topics": [
+        "freedom",
+        "growth-opportunity"
+      ]
+    },
+    {
+      "name": "Future Outlook and Speculation",
+      "topics": [
+        "future-careers",
+        "future-guest-speculation",
+        "future-outlook",
+        "future-uncertainty",
+        "global-visibility"
+      ]
+    },
+    {
+      "name": "Government and Governance",
+      "topics": [
+        "governance-views",
+        "government-response",
+        "government-satisfaction",
+        "government-transparency"
+      ]
+    },
+    {
+      "name": "Hiring Practices",
+      "topics": [
+        "hiring-criteria",
+        "hiring-decision",
+        "hiring-strategy"
+      ]
+    },
+    {
+      "name": "Expressions and Communication",
+      "topics": [
+        "gratitude",
+        "hashtags",
+        "focus-group-involvement"
+      ]
+    },
+    {
+      "name": "Financial and Future Inquiries",
+      "topics": [
+        "future-funding"
+      ]
+    }
+  ]
+}

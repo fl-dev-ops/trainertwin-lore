@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I had too many choices... yesterday during a session",
+      "statement": "I had too many choices...",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "In the past six months, I've invested around £12,000 in working with professional mentors",
+      "statement": "I've invested around £12,000 in working with professional mentors...",
+      "topic": "investment opportunity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "we know the answers are within us, but how do we find that one answer",
+      "statement": "The answers are within us, but how do we find that one answer...",
+      "topic": "guidance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "the main qualification for my decision and the main parameters that I could use...",
+      "statement": "The main qualification for my decision... were: it should be simple, connected with communication...",
+      "topic": "decision-making",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing decision-making in career development and the influence of coaching."
+}

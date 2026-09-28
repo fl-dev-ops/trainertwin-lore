@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Relocating to Dubai is initially perceived as offering abundant career opportunities.",
+      "qualification": "This is based on personal impressions before moving; realities may differ.",
+      "support_ids": [
+        "linkedin-posts-2024-11-14-when-dreams-meet-reality-the-md-4f770bac64:c001:e001:f9e194b2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adapting and reassessing expectations is crucial for aligning dreams with reality within career development.",
+      "qualification": "Advice context does not provide specific methods of adaptation.",
+      "support_ids": [
+        "linkedin-posts-2024-11-14-when-dreams-meet-reality-the-md-4f770bac64:c001:e003:0044a98d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Overcoming fear of rejection is a focus area for personal growth, with resources available for understanding it.",
+      "qualification": "The evidence comes from a self-reported video description without details on outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-11-15-its-time-to-uncover-the-md-6d4e6206d5:c001:e003:e1f2d1a0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Managing language and cultural differences is critical in global hubs like Dubai, especially for personal and career development.",
+      "qualification": "Self-reported success in overcoming language barriers; other individuals may face different challenges.",
+      "support_ids": [
+        "linkedin-posts-2024-11-25-in-a-global-hub-like-md-1d8305f46d:c001:e001:c11b1c13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Vision boards and goal-setting tools are commonly used for personal development, yet realization of goals can require additional steps.",
+      "qualification": "Self-reported methods; effectiveness is anecdotal without measured validation.",
+      "support_ids": [
+        "linkedin-posts-2024-12-30-what-if-this-year-your-md-e9ba9799e0:c001:e001:de314f46",
+        "linkedin-posts-2024-12-30-what-if-this-year-your-md-e9ba9799e0:c001:e002:72c47395"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building actionable and exciting plans is recommended for ensuring that goals do not remain unfulfilled.",
+      "qualification": "Advice given with motivational intent and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-12-30-what-if-this-year-your-md-e9ba9799e0:c001:e004:95a338e0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A gentle approach to goal-setting can help manage overwhelm and plan effectively for achieving career objectives.",
+      "qualification": "Descriptive advice without specifics on implementation or outcomes.",
+      "support_ids": [
+        "linkedin-posts-2025-01-03-ever-felt-overwhelmed-by-goal-setting-md-aaac6e9cf3:c001:e001:a0fb4108"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Career opportunities in Riyadh are available, as noted by some LinkedIn posts.",
+      "qualification": "Posts reflect availability but do not verify the quality or the scope of opportunities.",
+      "support_ids": [
+        "linkedin-posts-2024-12-21-opportunity-in-riyadh-md-dc491b86a6:c001:e001:e2427e45"
+      ]
+    }
+  ]
+}

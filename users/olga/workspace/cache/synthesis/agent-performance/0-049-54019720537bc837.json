@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Avoiding market research is often perceived as a cost-saving measure by many in PropTech.",
+      "qualification": "This is self-reported and reflects the author's perception rather than verified behavior.",
+      "support_ids": [
+        "linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb:c001:e005:de7ddc59"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Articulating the problem a service solves rather than introducing personal achievements can enhance sales strategy effectiveness.",
+      "qualification": "This is based on observed advice; no verification on the impact of adopting this advice was provided.",
+      "support_ids": [
+        "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:c001:e002:aafffb76"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding human behavior aids real estate agents in converting leads through the sales process.",
+      "qualification": "The evidence is self-reported and unverified, limiting its reliability.",
+      "support_ids": [
+        "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:c001:e003:501dd119"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Problem clarity is considered more crucial than credentials for effective sales performance.",
+      "qualification": "Observed advice, not empirically tested within the provided data.",
+      "support_ids": [
+        "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:c001:e006:850e9dd9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Traditional real estate agents should avoid exploiting sellers and buyers, focusing instead on supportive roles.",
+      "qualification": "This statement is advice, possibly hypothetical, without concrete evidence of current applicability.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s104-yaml-acabf7b5c7:c001:e003:f92e9d6b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Preparedness for unexpected client interactions is recommended for real estate agents.",
+      "qualification": "This is an observed statement without data on actual agent preparation practices.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s111-yaml-68058ff5ff:c001:e003:cadae53e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Foresight in market changes can lead to substantial financial gains in real estate.",
+      "qualification": "The example of Malcolm Burr is anecdotal and not necessarily a replicable strategy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s106-yaml-3f94e9436b:c001:e003:311016ab"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales agents are advised to demonstrate personal characteristics and willingness during interviews.",
+      "qualification": "The advice is observed but not supported by evidence of effectiveness or broader applicability.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s109-yaml-a8e193ad76:c001:e002:aae4e31d"
+      ]
+    }
+  ]
+}

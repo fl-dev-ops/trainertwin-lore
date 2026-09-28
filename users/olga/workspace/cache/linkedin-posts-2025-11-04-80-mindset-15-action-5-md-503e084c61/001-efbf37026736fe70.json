@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Your mindset controls your attitude. Your attitude determines whether",
+      "statement": "Your mindset controls your attitude.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "But if they believe deep down that cold calling doesn't work, or that they're bothering people, or that they need everyone to like them - no script will save them.",
+      "statement": "No script will save them.",
+      "topic": "skills training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Your circumstances don't determine your success. How you see those circumstances does. Even with no leads, no support, no training - there's always a way.",
+      "statement": "Even with no leads, no support, no training - there's always a way.",
+      "topic": "sales process",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I've proven this with agents sitting in empty offices watching My trainings on YouTube all day.",
+      "statement": "I've proven this with agents sitting in empty offices watching My trainings on YouTube all day.",
+      "topic": "teaching approach",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "The agents making millions? They understood this breakdown from day one. 80% is mental. Everything else follows.",
+      "statement": "80% is mental. Everything else follows.",
+      "topic": "success factors",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A LinkedIn post discussing the importance of mindset in real estate success."
+}

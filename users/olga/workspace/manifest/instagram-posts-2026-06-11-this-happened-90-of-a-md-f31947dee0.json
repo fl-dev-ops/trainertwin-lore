@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-06-11-this-happened-90-of-a-md-f31947dee0-cebe5ffeddd1682a.jsonl",
+  "external_id": "3917275097644331608",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:50:39Z",
+  "metadata_hash": "e281f63ec7f1d9ac7512ab515a5081977218c0b4e42af9b9c7aba1755d8c9563",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-06-11T16:33:58Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2026-06-11-this-happened-90-of-a.md",
+  "source_sha256": "74bc8ecba9d9f49108805022f399d43c04bc506132fb125b9cdab45dc7661c6b",
+  "source_url": "https://www.instagram.com/p/DZc9PJakvJY/"
+}

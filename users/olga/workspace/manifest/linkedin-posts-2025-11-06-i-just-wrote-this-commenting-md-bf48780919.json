@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-11-06-i-just-wrote-this-commenting-md-bf48780919-8b89c6ffad5962be.jsonl",
+  "external_id": "7392114540106125312",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T17:17:19Z",
+  "metadata_hash": "eda09a160542f6c92eb1fd9c5c57246de660dfe62c41783e93dcb59b34bb6c18",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-06T08:24:05.208000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-06-i-just-wrote-this-commenting.md",
+  "source_sha256": "82b466535a6cca9240fad7e93ce36cd6ab18872d349320beaccc73e5029c2b45",
+  "source_url": "https://www.linkedin.com/posts/olgasi_i-just-wrote-this-commenting-on-one-the-post-activity-7392114540106125312-njPl"
+}

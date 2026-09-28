@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-11-15-its-time-to-uncover-the-md-6d4e6206d5-3fe62557421a5d4a.jsonl",
+  "external_id": "7263038009216749568",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:35:20Z",
+  "metadata_hash": "f168a4753c9924c6660b18cd9152e71ccd4a196e19921d9266f44daa96a82e18",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-11-15T04:00:02.118000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-11-15-its-time-to-uncover-the.md",
+  "source_sha256": "6822b5c017d18803d8de950f43a385288e729bcf3349cc2d9575ff310570e88e",
+  "source_url": "https://www.linkedin.com/posts/olgasi_how-to-overcome-self-limitations-become-activity-7263038009216749568-k_EZ"
+}

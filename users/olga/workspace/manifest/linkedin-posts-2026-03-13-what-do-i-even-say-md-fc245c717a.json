@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2026-03-13-what-do-i-even-say-md-fc245c717a-bafd13cc236bcf6d.jsonl",
+  "external_id": "7438277566005669888",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:05:19Z",
+  "metadata_hash": "2eed13c9698b77d87069c642113eab6a5cb2362432f2178052c37dad04d4ab83",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-13T17:39:28.250000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-13-what-do-i-even-say.md",
+  "source_sha256": "70731b7bb3d4e0e6e9b8f0a56ab0cc38fe7218bc022de8f71b0a15b6072be0be",
+  "source_url": "https://www.linkedin.com/posts/olgasi_what-do-i-even-say-to-clients-now-how-do-activity-7438277566005669888-RAxk"
+}

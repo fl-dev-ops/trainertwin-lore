@@ -1,0 +1,29 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real coaching is suggested to be more beneficial than self-help resources like YouTube videos for career development.",
+      "qualification": "The evidence is based on anecdotal advice and lacks empirical backing.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e009:1d33b4cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are valued in career development, but empirical support is absent.",
+      "qualification": "These observations are grounded in personal beliefs and experiences, lacking scientific validation.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e001:f626ff9e",
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e006:2d4a02de"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is seen as vital for career progression, but this is based on self-reported experiences.",
+      "qualification": "The evidence is self-reported and not independently verified.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e001:ea64331a"
+      ]
+    }
+  ]
+}

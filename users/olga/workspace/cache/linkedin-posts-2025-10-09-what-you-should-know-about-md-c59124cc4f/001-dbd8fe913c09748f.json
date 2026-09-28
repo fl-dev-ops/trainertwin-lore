@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "so many companies are taking advantage of agents!",
+      "statement": "Many companies are taking advantage of agents in Dubai.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Know your rights!",
+      "statement": "Know your rights regarding work visas in Dubai.",
+      "topic": "client quality",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing work visas in Dubai, highlighting the importance of understanding employee rights."
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "It's against my religious beliefs",
+      "statement": "Her refusal to steal leads was based on her religious beliefs.",
+      "topic": "personal beliefs",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Using emotional intelligence in her outreach",
+      "statement": "She used emotional intelligence in her outreach.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "Ethics isn't a weakness in sales",
+      "statement": "Ethics is a competitive advantage in sales.",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Your values aren't obstacles to success",
+      "statement": "Values are the foundation of success in sales.",
+      "topic": "values in sales",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post discussing the impact of ethics in real estate sales."
+}

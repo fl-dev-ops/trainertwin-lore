@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Comments such as '+1' or numerical votes indicate engagement and interest.",
+      "qualification": "Self-reported observation from LinkedIn without external verification.",
+      "support_ids": [
+        "linkedin-posts-2025-05-22-not-just-training-a-real-md-7721cb4552:c001:e007:4ef6b164",
+        "linkedin-posts-2025-06-25-need-your-help-im-refreshing-md-0518c4278e:c001:e004:c111a5dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking hypothetical investment questions can pique client interest and engagement.",
+      "qualification": "The effectiveness of this strategy is speculative without additional context.",
+      "support_ids": [
+        "linkedin-posts-2025-06-10-want-to-make-more-money-md-613e9b9f70:c001:e005:8adb88dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating a community without pressure or burnout is valued over traditional sales platforms.",
+      "qualification": "Claim is self-reported and idealistic without evidence of impact.",
+      "support_ids": [
+        "linkedin-posts-2025-06-25-need-your-help-im-refreshing-md-0518c4278e:c001:e001:1dbf1d6b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling buyer pushbacks is crucial in enhancing client engagement.",
+      "qualification": "Based on a non-verified claim of observed buyer behavior.",
+      "support_ids": [
+        "linkedin-posts-2025-07-07-dealing-with-a-buyers-pushbacks-md-65613f3758:c001:e002:6df77568"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective sales focus on asking better questions instead of pursuing warmer leads.",
+      "qualification": "Assertion is self-reported and lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e002:0aafa69e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Re-engaging old leads and previous clients is advised as an engagement strategy.",
+      "qualification": "Advice given based on personal experience; effectiveness not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-07-18-this-is-my-face-every-md-1a8a4e8d8e:c001:e003:7c9e8fb4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Different tones in asking questions yield different client responses.",
+      "qualification": "Claim is based on belief from observed interactions.",
+      "support_ids": [
+        "linkedin-posts-2025-07-30-same-question-different-tone-md-8c95d6f286:c001:e001:5e970666"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is suggested when other engagement methods, like Instagram funnels, fail.",
+      "qualification": "Recommendation is self-reported and contrasts popular opinion in Dubai.",
+      "support_ids": [
+        "linkedin-posts-2025-08-05-everyone-says-cold-calling-doesnt-md-147553f13e:c001:e002:29c89586"
+      ]
+    }
+  ]
+}

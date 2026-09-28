@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking specific questions during initial client calls may help facilitate client engagement.",
+      "qualification": "This finding is based on self-reported advice from an individual whose credibility is not verified.",
+      "support_ids": [
+        "linkedin-posts-2023-12-05-weekly-magic-from-a-sales-md-50ba29defd:c001:e001:2c3e2576"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to identify their problems can enhance the urgency for them to seek solutions.",
+      "qualification": "The advice provided reflects a subjective perspective and lacks empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-12-26-weekly-magic-from-a-sales-md-7d3dd38c57:c001:e001:4b576ce9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Inviting comments from potential clients indicates a strategy for fostering open communication and engagement.",
+      "qualification": "The evidence is self-reported and does not provide concrete outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-12-08-i-highly-respect-a-real-md-dd17c68945:c001:e003:ea8400c4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Establishing a structure for client interactions, such as a script for initial calls, may promote professionalism and expertise in client relationships.",
+      "qualification": "The suggestion is hypothetical and based on individual opinion rather than a proven method.",
+      "support_ids": [
+        "linkedin-posts-2023-12-26-dos-and-donts-on-a-md-1175dc417e:c001:e002:e5791253"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Discussing communication aspects like tonality and cadence during initial encounters can potentially influence client perceptions.",
+      "qualification": "The recommendation is unverified and relies on anecdotal experiences.",
+      "support_ids": [
+        "linkedin-posts-2023-12-26-dos-and-donts-on-a-md-1175dc417e:c001:e001:e6076b1d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Identifying and addressing the hardest objections in client discussions may improve sales effectiveness.",
+      "qualification": "This insight is self-reported and has no independent verification.",
+      "support_ids": [
+        "linkedin-posts-2023-12-20-weekly-objections-handling-club-is-md-7c989415c1:c001:e002:9bf12daf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating a daily plan and maintaining visible reminders of tasks can aid in personal effectiveness and organization for client-related activities.",
+      "qualification": "This finding is anecdotal and lacks broader empirical support.",
+      "support_ids": [
+        "linkedin-posts-2023-12-21-i-dont-consider-myself-very-md-69e56135c1:c001:e003:56213601"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A routine self-evaluation and strategic planning may contribute to better client relationship management over time.",
+      "qualification": "This is based on self-assessment and doesn't provide evidence of effectiveness across different contexts.",
+      "support_ids": [
+        "linkedin-posts-2023-12-23-its-time-to-evaluate-your-md-b31afcb22c:c001:e003:df7b5e87"
+      ]
+    }
+  ]
+}

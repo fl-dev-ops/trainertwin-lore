@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Clarifying personal beliefs can help shift perspectives in client interactions.",
+      "qualification": "This is a self-reported piece of advice and may reflect personal opinion.",
+      "support_ids": [
+        "linkedin-posts-2024-10-08-do-you-secretly-believe-dubai-md-51965119a3:c001:e003:aad1bf1f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients perceive thorough questioners as more professional and helpful.",
+      "qualification": "This observation focuses on perceived client behavior and is not universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2024-11-11-in-the-world-of-real-md-a87f9e7adb:c001:e005:02729b17"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The challenge in negotiating price reductions lies in getting landlords to ask for lower prices themselves, indicating a strategic approach to engagement.",
+      "qualification": "This represents a belief that may depend on specific contexts in real estate negotiations.",
+      "support_ids": [
+        "linkedin-posts-2024-10-15-how-to-do-a-price-md-28502a2243:c001:e002:7ae24b9b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Many newcomers fear asking questions, leading to missed opportunities for better client understanding and interaction.",
+      "qualification": "Self-reported. The extent of this fear may vary among individuals.",
+      "support_ids": [
+        "linkedin-posts-2024-11-11-in-the-world-of-real-md-a87f9e7adb:c001:e001:480023e9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering free resources, such as AI tools, can enhance engagement strategies for real estate agents.",
+      "qualification": "Hypothetical; the effectiveness of free resources may differ in practice.",
+      "support_ids": [
+        "linkedin-posts-2024-10-18-all-good-things-are-always-md-e8b1e0a3ba:c001:e002:fee29a4d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients may hang up during calls due to ineffective engagement strategies, indicating the need for improvement in communication approaches.",
+      "qualification": "A generalized claim that may not apply to all instances of client interactions.",
+      "support_ids": [
+        "linkedin-posts-2024-11-13-why-do-they-hang-up-md-746d358926:c001:e001:635c2ce4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to share their experiences can enhance engagement and build rapport.",
+      "qualification": "Self-reported observation; effectiveness may vary based on the context and audience.",
+      "support_ids": [
+        "linkedin-posts-2024-11-14-when-dreams-meet-reality-the-md-4f770bac64:c001:e004:2ba8b431"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There's a perceived value in asking about budgets and personal challenges in client interactions to foster better relationships.",
+      "qualification": "This is a piece of advice that may not be applicable to all client interactions.",
+      "support_ids": [
+        "linkedin-posts-2024-11-11-in-the-world-of-real-md-a87f9e7adb:c001:e003:ba0c6272"
+      ]
+    }
+  ]
+}

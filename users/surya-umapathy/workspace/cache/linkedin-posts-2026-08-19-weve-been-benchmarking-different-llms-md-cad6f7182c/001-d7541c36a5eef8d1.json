@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Not accuracy benchmarks, but behaviour benchmarks.",
+      "statement": "Benchmarking different LLMs in Trainer Twin focuses on behavior benchmarks rather than accuracy.",
+      "topic": "AI development focus",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "They behaved like completely different interviewers.",
+      "statement": "Models behaved like different interviewers under the same conditions.",
+      "topic": "model behavior diversity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "case_study",
+      "quote": "25 models. 5 interview scenarios. 1,613 total turns.",
+      "statement": "Test involved 25 models and 1,613 total turns in 5 interview scenarios.",
+      "topic": "model testing",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "Gemini 3.6 Flash was the strongest overall interviewer. Detailed feedback, technically relevant follow-ups, and good tool use.",
+      "statement": "Gemini 3.6 Flash was strong overall with detailed feedback and technically relevant follow-ups.",
+      "topic": "model flexibility",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "But it also had some protocol-level errors.",
+      "statement": "Gemini 3.6 Flash had protocol-level errors.",
+      "topic": "model fidelity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "GPT-5.6 Luna was the most reliable. Concise, disciplined and consistent. Good second-order questions, stayed in character.",
+      "statement": "GPT-5.6 Luna was reliable and consistent, with disciplined behavior and good second-order questions.",
+      "topic": "model fidelity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "GPT-4o was fluent and natural, with the fastest first-token latency among the non-Qwen models. But it sometimes wasn’t listening.",
+      "statement": "GPT-4o was fluent but struggled with relevant listening, sometimes suggesting coding exercises during system design interviews.",
+      "topic": "model fidelity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "sometimes leaked <thinking> tags into the output.",
+      "statement": "Claude Haiku occasionally leaked internal tags into output.",
+      "topic": "model format",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "Qwen 3.7 Flash was the fastest model I tested at around half a second to first token.",
+      "statement": "Qwen 3.7 Flash was the fastest model tested.",
+      "topic": "model speed",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "DeepSeek was slow and frequently hit the token cap. Mimo had similar tool issues. Inkling sometimes returned serialized tool requests as visible text.",
+      "statement": "DeepSeek was slow and frequently hit the token cap, Mimo had similar tool issues, and Inkling sometimes returned serialized tool requests as visible text.",
+      "topic": "model limitations",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "Does it stay in character? That's when you start evaluating behaviour, not intelligence.",
+      "statement": "Start evaluating models for their behavior, not intelligence, to build effective AI versions of professionals.",
+      "topic": "modeling strategy",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "Benchmarking observations of LLMs in Trainer Twin, focusing on behavior rather than accuracy."
+}

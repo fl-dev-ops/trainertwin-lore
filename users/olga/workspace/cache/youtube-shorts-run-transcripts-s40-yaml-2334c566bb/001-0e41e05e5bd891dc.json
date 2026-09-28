@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "But Dubai was, based on data, the most challenging one in the whole world.",
+      "statement": "Dubai was, based on data, the most challenging one in the whole world.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "because I was not selling.",
+      "statement": "I was not selling.",
+      "topic": "sales performance",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I don't even um put the time before our coaching as the time I was in real estate. I was in Dreamland.",
+      "statement": "I don't even um put the time before our coaching as the time I was in real estate. I was in Dreamland.",
+      "topic": "personal growth",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "A reflective commentary on challenges in the Dubai real estate market."
+}

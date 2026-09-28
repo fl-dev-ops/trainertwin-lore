@@ -1,0 +1,129 @@
+{
+  "groups": [
+    {
+      "name": "Government and Governance",
+      "topics": [
+        "government-and-governance",
+        "infrastructure-and-governance"
+      ]
+    },
+    {
+      "name": "Hiring Practices and Job Market",
+      "topics": [
+        "hiring-practices",
+        "job-related-topics"
+      ]
+    },
+    {
+      "name": "Human Capital and Development",
+      "topics": [
+        "human-capital-and-development",
+        "investment-and-opportunities"
+      ]
+    },
+    {
+      "name": "Income and Financial Growth",
+      "topics": [
+        "income-and-financial-growth"
+      ]
+    },
+    {
+      "name": "Infrastructure and Innovation",
+      "topics": [
+        "infrastructure-and-industry-innovation"
+      ]
+    },
+    {
+      "name": "Interview Techniques and Communication",
+      "topics": [
+        "interview-techniques-and-communication",
+        "persuasion-and-communication-techniques"
+      ]
+    },
+    {
+      "name": "Knowledge and Insights",
+      "topics": [
+        "knowledge-and-insights"
+      ]
+    },
+    {
+      "name": "Leadership and Management",
+      "topics": [
+        "leadership",
+        "management-and-mentorship"
+      ]
+    },
+    {
+      "name": "Learning Methods",
+      "topics": [
+        "learning-methods"
+      ]
+    },
+    {
+      "name": "Lifestyle and Personal Development",
+      "topics": [
+        "lifestyle-and-personal-development",
+        "personal-development",
+        "personal-development-and-internal-dialogue",
+        "personal-development-in-sales",
+        "personal-effectiveness-and-growth",
+        "personal-reflection-and-responsibility"
+      ]
+    },
+    {
+      "name": "Link Sharing and Miscellaneous",
+      "topics": [
+        "link-sharing",
+        "miscellaneous"
+      ]
+    },
+    {
+      "name": "Market Insights and Marketing",
+      "topics": [
+        "market-insights",
+        "marketing"
+      ]
+    },
+    {
+      "name": "Mindset and Motivation",
+      "topics": [
+        "mindset-and-motivation",
+        "mission-and-values"
+      ]
+    },
+    {
+      "name": "Networking",
+      "topics": [
+        "networking"
+      ]
+    },
+    {
+      "name": "Objection Handling and Sales Misconceptions",
+      "topics": [
+        "objection-handling",
+        "misconceptions-in-sales"
+      ]
+    },
+    {
+      "name": "Onboarding and Training",
+      "topics": [
+        "onboarding-and-training"
+      ]
+    },
+    {
+      "name": "Personal Background and Moving Advice",
+      "topics": [
+        "personal-background",
+        "moving-and-maintenance-advice"
+      ]
+    },
+    {
+      "name": "Product Development and Professional Expectations",
+      "topics": [
+        "product-development-and-features",
+        "professional-and-work-structure",
+        "professional-expectations"
+      ]
+    }
+  ]
+}

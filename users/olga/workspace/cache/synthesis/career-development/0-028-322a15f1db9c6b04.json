@@ -1,0 +1,61 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Nurturing long-term client relationships is important for success in sales, rather than seeking immediate transactions.",
+      "qualification": "The advice is based on the author's observations and lacks empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-07-17-how-to-actually-create-a-md-84a1707b72:c001:e001:35b94ff8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Overcoming feelings of rejection is crucial for improving sales performance.",
+      "qualification": "The guidance is based on the author's self-reported experiences without independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f:c001:e001:37b3e57a",
+        "linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f:c001:e004:eff24766"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Management involvement is necessary to prevent employees from reverting to old habits after training.",
+      "qualification": "This is an observed behavior reported by the source without additional verification.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e003:124caf54"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective training should include consistent practice, management support, and a clear plan.",
+      "qualification": "This recommendation is based on advice and lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e007:78492db9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Learning skills without practical application is ineffective.",
+      "qualification": "The finding is based on the author's observations without empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e004:4e4ac275"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rejection in sales can hold back personal growth and success in closing deals.",
+      "qualification": "The statement is based on an individual's observation and lacks empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f:c001:e001:37b3e57a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training videos offer insights on overcoming sales-related judgment and boosting confidence.",
+      "qualification": "The effectiveness of such videos is unverified and based on a personal claim.",
+      "support_ids": [
+        "linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f:c001:e003:3ce0b87a"
+      ]
+    }
+  ]
+}

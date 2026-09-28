@@ -1,0 +1,104 @@
+{
+  "groups": [
+    {
+      "name": "Mission and Values",
+      "topics": [
+        "mission-statement",
+        "motivations-for-investment",
+        "personal-beliefs"
+      ]
+    },
+    {
+      "name": "Consumer Engagement",
+      "topics": [
+        "modern-consumer-engagement",
+        "online-presence",
+        "personal-branding"
+      ]
+    },
+    {
+      "name": "Real Estate Transactions",
+      "topics": [
+        "mortgage-options",
+        "negotiation",
+        "negotiation-effectiveness"
+      ]
+    },
+    {
+      "name": "Networking",
+      "topics": [
+        "networking",
+        "networking-opportunity",
+        "networking-strategy"
+      ]
+    },
+    {
+      "name": "Objection Handling",
+      "topics": [
+        "objection-handling",
+        "objection-meaning",
+        "objections-in-sales",
+        "overcoming-objections",
+        "overcoming-resistance"
+      ]
+    },
+    {
+      "name": "Moving and Maintenance Advice",
+      "topics": [
+        "moving-tips"
+      ]
+    },
+    {
+      "name": "Personal Development",
+      "topics": [
+        "personal-development",
+        "overcoming-fear",
+        "pain-in-success"
+      ]
+    },
+    {
+      "name": "Onboarding and Training",
+      "topics": [
+        "onboarding",
+        "onboarding-training-framework"
+      ]
+    },
+    {
+      "name": "Sales Strategies",
+      "topics": [
+        "outreach-strategy",
+        "nurturing-strategy",
+        "persistence-in-sales",
+        "participant-responsibility",
+        "personal-approach"
+      ]
+    },
+    {
+      "name": "Behavior and Perception",
+      "topics": [
+        "observed-behavior",
+        "observed_behavior",
+        "perception-of-others"
+      ]
+    },
+    {
+      "name": "Change Management",
+      "topics": [
+        "name-change",
+        "offering"
+      ]
+    },
+    {
+      "name": "Events and Engagements",
+      "topics": [
+        "open-day"
+      ]
+    },
+    {
+      "name": "personal-background",
+      "topics": [
+        "personal-background"
+      ]
+    }
+  ]
+}

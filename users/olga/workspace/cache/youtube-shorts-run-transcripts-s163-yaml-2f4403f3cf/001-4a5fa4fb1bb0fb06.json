@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Chow, this should I stump the buyer?",
+      "statement": "A speaker mistakenly assumes they should share all details with a buyer.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "which are not requested from property find out is a",
+      "statement": "The second speaker prompts for a specific code in relation to a request.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "No, I'm supposed to say it all.",
+      "statement": "The first speaker expresses confusion over their role in the communication process.",
+      "topic": "communication skills",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Okay. But to move in your request, what's the code?",
+      "statement": "The second speaker seeks clarification about the request process.",
+      "topic": "client engagement",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "So that was a change",
+      "statement": "A change in understanding is noted in the first speaker's response.",
+      "topic": "client engagement",
+      "unit_id": "u000005"
+    }
+  ],
+  "overview": "Interaction excerpt from a conversation about buyer engagement."
+}

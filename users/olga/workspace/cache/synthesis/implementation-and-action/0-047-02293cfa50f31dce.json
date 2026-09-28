@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Some people believe avoiding market research saves costs, although it may lead to learning from mistakes.",
+      "qualification": "This is self-reported and reflects a common belief rather than data-driven evidence.",
+      "support_ids": [
+        "linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb:c001:e005:de7ddc59"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The recent market cycle has seen significant fixed costs associated with HR and recruitment.",
+      "qualification": "This observation is mentioned as a fact claim without specific supporting data.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:c001:e003:88a3b583"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI is anticipated to take over admin parts of HR and recruitment roles in the future.",
+      "qualification": "This is a hypothetical belief and not an assertion supported by present evidence.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:c001:e004:96ceb117"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A technique called 'Off-plan closing system' using Neuro emotional persuasion questions is offered for sales training.",
+      "qualification": "This offering is self-reported and does not have independent validation or details about its efficacy.",
+      "support_ids": [
+        "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:c001:e003:f2b22e6b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Most Dubai agents are reportedly not involved in scams, despite some perceptions.",
+      "qualification": "This belief is self-reported and counteracts a notion without citing specific evidence or independent verification.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e005:d793a399"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Ghosting in sales is often due to certain behaviors that can be improved.",
+      "qualification": "It is observed without specifying the behaviors that cause ghosting; proposition is based on self-reported observations.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e010:827588f0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "It is advised to avoid opening sales conversations with pressure tactics.",
+      "qualification": "This advice is provided as general guidance but lacks empirical support or studied effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e006:21dbb3b2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using a problem-solving approach in sales introductions may yield better responses.",
+      "qualification": "Presented as advice without confirming empirical evidence; effectiveness is assumed but not verified in studies.",
+      "support_ids": [
+        "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:c001:e002:c14e3294"
+      ]
+    }
+  ]
+}

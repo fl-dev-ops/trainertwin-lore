@@ -1,0 +1,24 @@
+id: s32
+title: Does that Scare you？  Dubai Market realities
+date: '2026-03-15'
+source: Does that Scare you？  Dubai Market realities
+audio_file: Does that Scare you？  Dubai Market realities [nZvuCoVVB8I].mp3
+duration: "00:00:34"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 2
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    I don't know how is it for you guys. But for me the most difficult is to stay in this uncertainty.
+    And you know I trick my brain.
+- t: "00:00:14"
+  speaker: '1'
+  text: >-
+    Now I see uncertainty as excitement, as interest. I'm interested how this day is going to go. Because
+    believe me, before we knew exactly what's going to happen. Sunday and then it's going to be Monday,
+    going to work, going to do this. Now every day is exciting, fear and excitement, just two sides of
+    the same coin.

@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Master's degree",
+      "statement": "Has a Master’s degree from Crimean Academy of Environmental and Resort Construction.",
+      "topic": "education background",
+      "unit_id": "u000409"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Basic psychology",
+      "statement": "Studied Basic psychology at Moscow University of Positive Psychology.",
+      "topic": "educational credentials",
+      "unit_id": "u000406"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Founder and Leading Sales Trainer",
+      "statement": "Serves as Founder and Leading Sales Trainer at Live It Up - Real Estate Training Academy.",
+      "topic": "professional role",
+      "unit_id": "u000411"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "7 endorsements",
+      "statement": "Cold Calling skill has 7 endorsements.",
+      "topic": "skills endorsements",
+      "unit_id": "u000413"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "7 endorsements",
+      "statement": "Public Speaking skill has 7 endorsements.",
+      "topic": "skills endorsements",
+      "unit_id": "u000417"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "9 endorsements",
+      "statement": "Real Estate Transactions skill has 9 endorsements from previous experiences.",
+      "topic": "skills endorsements",
+      "unit_id": "u000431"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "1 endorsement",
+      "statement": "Sales Operations skill has 1 endorsement from previous experiences.",
+      "topic": "skills endorsements",
+      "unit_id": "u000446"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "3 endorsements",
+      "statement": "Possesses skills in Sales Management and has 3 endorsements.",
+      "topic": "skills",
+      "unit_id": "u000425"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "3 endorsements",
+      "statement": "Has experience in Real Estate Marketing with 3 endorsements.",
+      "topic": "skills",
+      "unit_id": "u000434"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Founder and Leading Sales Trainer",
+      "statement": "Offers various sales training programs and services through Live It Up - Real Estate Training Academy.",
+      "topic": "service offer",
+      "unit_id": "u000438"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "4 endorsements",
+      "statement": "Sales Trainings skill has 4 endorsements.",
+      "topic": "skills endorsements",
+      "unit_id": "u000454"
+    }
+  ],
+  "overview": "LinkedIn profile summary containing education, skills, and posts related to business and training in real estate."
+}

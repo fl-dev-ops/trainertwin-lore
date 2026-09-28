@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "How do I convince a buyer to make the decision?",
+      "statement": "Participants will learn how to convince buyers to make decisions.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "What to say when the client pushes back?",
+      "statement": "Training covers how to respond to client pushback.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "How to turn interest into a signed deal?",
+      "statement": "The program teaches how to convert interest into signed deals.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "That’s exactly what we work on inside LiveItUp Real Estate Growth Academy.",
+      "statement": "The LiveItUp Real Estate Growth Academy provides targeted sales training.",
+      "topic": "teaching approach",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Instagram post promoting a real estate growth academy with a focus on sales training."
+}

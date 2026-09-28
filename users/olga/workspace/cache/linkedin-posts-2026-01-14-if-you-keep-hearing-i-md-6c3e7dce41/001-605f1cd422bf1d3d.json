@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "If you keep hearing “I need to think about it” and clients disappear....",
+      "statement": "Clients often say 'I need to think about it' before disappearing.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "I broke down what to say (and what not to say) so you stop losing deals in 2026.",
+      "statement": "To stop losing deals, understand and address underlying client concerns.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing client engagement issues in sales."
+}

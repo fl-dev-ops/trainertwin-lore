@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Enrolling in the Academy is promoted as a method to enhance sales skills and negotiation strategies in Dubai.",
+      "qualification": "The promotion is based on a self-reported offering and does not provide specific evidence of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2025-11-17-10-years-of-dubai-deals-md-d15e1a9020:c001:e001:2def2ce5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A novice agent successfully closed two off-plan sales using a specific strategy and earned AED 79,000 in commissions.",
+      "qualification": "These results are self-reported and lack independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b:c001:e002:9176d531",
+        "linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b:c001:e003:d7e7fc35"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High competition and new generations require enhanced sales strategies to succeed in Dubai real estate.",
+      "qualification": "Advice is given based on opinion and anecdotal observation.",
+      "support_ids": [
+        "linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b:c001:e004:228a8c8b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The old-school Dubai real estate approach is aggressive, while newer approaches emphasize emotional intelligence.",
+      "qualification": "The discussion is based on observed changes and self-reported descriptions rather than empirical data.",
+      "support_ids": [
+        "linkedin-posts-2025-11-21-sales-isnt-about-harassing-people-md-7c969e3584:c001:e004:2c8d0706"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "LiveItUp Real Estate Growth Academy offers strategies to overcome objections in sales.",
+      "qualification": "The claim is promotional and self-reported, without external validation of these strategies.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-how-to-overcome-this-and-md-582c8387fb:c001:e001:334fdc3c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using emotional intelligence in sales outreach can be advantageous.",
+      "qualification": "The observation is anecdotal and lacks multiple perspectives or extensive case studies.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad:c001:e002:6bfb6278"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Ethics in sales is presented as a potential competitive advantage rather than a weakness.",
+      "qualification": "The assertion is advice-oriented and not backed by direct competitive analysis.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad:c001:e003:cd630ab0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent execution despite difficulties is advised as crucial for success in Dubai real estate, especially in the first two years.",
+      "qualification": "This is motivational advice, relying on subjective experience rather than quantifiable metrics.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268:c001:e004:03ff0df3"
+      ]
+    }
+  ]
+}

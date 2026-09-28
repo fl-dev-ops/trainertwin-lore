@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "It's actually not a real objection, it's just a smoke screen.",
+      "statement": "The phrase 'I need to think about it' is classified as a smoke screen.",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What's the time frame uh for you getting back to me?",
+      "statement": "To address the 'I need to think about it' objection, ask about the timeframe for follow-up and what questions they have.",
+      "topic": "objection handling",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "every objection could be overcome if you know how to create a verbal bridge...",
+      "statement": "Every objection can be overcome by creating a verbal bridge to uncover real opportunities.",
+      "topic": "objection handling",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Advice on handling a specific sales objection from a real estate perspective."
+}

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "8 out of 10 new agents leave the company",
+      "statement": "8 out of 10 new agents leave the company in the first few months.",
+      "topic": "agent retention",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I still don’t fully understand what I should physically do",
+      "statement": "New agents often express confusion about daily actions required to earn money.",
+      "topic": "training feedback",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "move every new agent from learning to earning as fast as possible",
+      "statement": "Focus onboarding on practical daily actions and specific sales processes.",
+      "topic": "onboarding",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "They lack clarity on daily actions, on sales processes, on what enough looks like.",
+      "statement": "Agents report a lack of clarity on what is sufficient activity to make commissions.",
+      "topic": "agent clarity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "It would help to have practical Q&A sessions with agents",
+      "statement": "Incorporate practical Q&A sessions with successful agents in training programs.",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing reasons for high turnover among new agents and improving onboarding processes."
+}

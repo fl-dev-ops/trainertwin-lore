@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-07-13-in-20-years-you-would-md-07336225bc-9592aa30dbd78716.jsonl",
+  "external_id": "7482293989656854528",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:09:20Z",
+  "metadata_hash": "05b693f387f6d022c2deeda69446aa9e9e740bcde35973f9e21f1cadaa1ac3ab",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-07-13T04:45:01.434000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-07-13-in-20-years-you-would.md",
+  "source_sha256": "02f8466b0970edba7c9647872567990bf65f93eb966f9483c0dcf7fac311dd9b",
+  "source_url": "https://www.linkedin.com/posts/olgasi_gratitude-personalgrowth-lifelessons-activity-7482293989656854528-JAkf"
+}

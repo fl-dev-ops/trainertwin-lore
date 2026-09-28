@@ -1,0 +1,33 @@
+id: s48
+title: He is Honest about his Agent job experience.
+date: '2025-09-21'
+source: He is Honest about his Agent job experience.
+audio_file: He is Honest about his Agent job experience. [cqtZ8zFDPYk].mp3
+duration: "00:00:58"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 3
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    And uh I have no idea about Dubai. I didn't know which areas are the ones that are moving on, the
+    ones that are generating more money. I was given some training about how to use a property finder,
+    uh property monitor. And then uh doing some research, I checked certain areas which I like. This I
+    was given a database and I was I was told you have to call and you have to get the houses that you
+    want to sell or rent. So, okay, so I said great. I've never done
+- t: "00:00:30"
+  speaker: '1'
+  text: >-
+    calling in my life before. So, in my mind, I was looking for excuses to delay the process. So, okay,
+    I need the right microphone, so I go and get the right microphone. I need the right headphones, so
+    but everything was just excuses to delay the process. And uh there comes the point that you cannot
+    delay it any longer. So you have to start doing the cold calling and then I started. And uh by this
+    time, I realized cold calling is illegal.
+- t: "00:00:42"
+  speaker: '0'
+  text: >-
+    Headphones or

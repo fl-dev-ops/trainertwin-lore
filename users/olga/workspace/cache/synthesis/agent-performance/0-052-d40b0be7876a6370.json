@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Agents commonly rely on scripted questioning techniques in sales calls, but are advised to use more conversational and open-ended questions to better ascertain clients' needs, particularly regarding budget or price points.",
+      "qualification": "The evidence is advisory and may not be universally applicable.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s131-yaml-4d82fee088:c001:e001:fc33643b",
+        "youtube-shorts-run-transcripts-s132-yaml-ca3e62c8c6:c001:e002:46161af0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Certain sales strategies include discouraging direct budget inquiries, as these can lead agents into unfavorable sales scenarios by not properly qualifying clients.",
+      "qualification": "Self-reported issues include fear among agents to ask direct financial questions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s131-yaml-4d82fee088:c001:e003:77625601",
+        "youtube-shorts-run-transcripts-s137-yaml-9b2090a5db:c001:e001:babc6dd7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents often indiscriminately push listings in hopes of securing a sale, which can lead clients to feel pressured and disengaged.",
+      "qualification": "Observed behavior suggesting a non-preferred sales strategy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e001:c810e36f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients prefer to feel they are making their own decisions rather than being directly sold to, which suggests indirect selling approaches may be more effective.",
+      "qualification": "Belief indicates tension with direct sales tactics.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e003:d258d7ed"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is skepticism concerning whether theoretical sales strategies genuinely reflect clients' real-world decision-making processes.",
+      "qualification": "The self-reported skepticism implies a potential gap between theory and practice.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e004:ead07027"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Unique and engaging offers might improve client engagement compared to traditional repetitive sales methods.",
+      "qualification": "Observed statement suggests a shift in strategy but lacks empirical backing.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s138-yaml-e7455ceab3:c001:e002:fa571b0a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A commonly observed strategy is that agents prioritize company reputation in cold calls over personal engagement.",
+      "qualification": "Fact claim lacks evidence of effectiveness compared to personal engagement approaches.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s139-yaml-525ece4570:c001:e002:fde4af61"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales advice suggests structure in approach can be more effective than relying solely on motivation, especially in uncertain times.",
+      "qualification": "Observed approach may not suit all sales agents or situations.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s140-yaml-80e878bbd2:c001:e003:0aa381d7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "if your sales system isn’t optimized for the online environment, you’re missing out on massive opportunities.",
+      "statement": "If your sales system isn’t optimized for the online environment, you’re missing out on massive opportunities.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Your leads might just “disappear” without converting into actual sales.",
+      "statement": "Your leads might just 'disappear' without converting into actual sales.",
+      "topic": "lead conversion",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing sales strategies and online optimization."
+}

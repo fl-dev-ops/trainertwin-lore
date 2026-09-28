@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad-db1aa0e07e44049a.jsonl",
+  "external_id": "7398574917211893760",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:59:27Z",
+  "metadata_hash": "770461692e9d4a6c495dfa936efc6b6342711c3e4a5e0736735c6799fc88b599",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-24T04:15:19.138000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-24-i-just-watched-an-agent.md",
+  "source_sha256": "52f427b36e8ced14a81385ccc1084c0110f6c36f5708cfe8a7c04e72d0208665",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-salesethics-realestatecoaching-activity-7398574917211893760--tE0"
+}

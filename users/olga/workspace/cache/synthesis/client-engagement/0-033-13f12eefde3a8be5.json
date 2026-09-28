@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The usual process for client engagement involves connecting via Zoom or phone to discuss property specifics.",
+      "qualification": "This is a specific process mentioned in a presentation context, potentially limited to the particular organization or industry context described.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s122-yaml-4469d9ae7f:c001:e001:8e8748a2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients may have different perceptions based on media headlines which can influence their engagement.",
+      "qualification": "This statement is based on an observation which suggests that media influence is a consideration, but does not provide specific evidence of its impact on client decisions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s123-yaml-463ec29459:c001:e002:f9ddcef7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement with buyers might be improved by questioning their confidence about market data rather than simply sending options.",
+      "qualification": "The context is hypothetical advice, not empirical observation, which suggests it requires validation in practical scenarios.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s124-yaml-fbbadffa3e:c001:e001:32e01766"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding clients' needs by asking questions is advised as part of effective client engagement.",
+      "qualification": "This approach is recommended in advisory content, which may reflect best practices but is not independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s126-yaml-e58310a5f1:c001:e003:7e171736"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building trust with buyers is a challenge that lacks clear guidelines.",
+      "qualification": "This is a self-reported perspective, highlighting a perceived gap in available guidance.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s130-yaml-5314a1f442:c001:e002:a6243dc6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "People do not want to be swayed by others' benefits and resist persuasion in typical engagement scenarios.",
+      "qualification": "This belief requires further substantiation to determine its impact on engagement strategies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s130-yaml-5314a1f442:c001:e003:84f88813"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Instead of asking directly about budgets, focusing on potential future financial access is recommended for client engagement.",
+      "qualification": "Both pieces of advice are aimed at refining engagement strategies but require practical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s132-yaml-ca3e62c8c6:c001:e001:fb1ab2ca",
+        "youtube-shorts-run-transcripts-s131-yaml-4d82fee088:c001:e005:abb9d0e9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "It is recommended to focus conversations on the decision-making process instead of identifying the decision maker directly.",
+      "qualification": "This advice suggests a strategy shift, potentially applicable across various engagement contexts but not empirically proven.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s133-yaml-a35d5dea41:c001:e001:48e4b763"
+      ]
+    }
+  ]
+}

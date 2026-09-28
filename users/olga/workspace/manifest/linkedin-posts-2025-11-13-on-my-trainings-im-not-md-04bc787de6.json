@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-11-13-on-my-trainings-im-not-md-04bc787de6-f36dba8f08b66dc7.jsonl",
+  "external_id": "7394659765093728257",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T17:18:49Z",
+  "metadata_hash": "ced24155357cbc3ecad2330737823fe98587b37fb9c406b682da459973156b57",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-13T08:57:54.133000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-13-on-my-trainings-im-not.md",
+  "source_sha256": "250305ccce0110d477bab3f2af01f2c4777695672821d6a8d31c834ec22ffede",
+  "source_url": "https://www.linkedin.com/posts/olgasi_on-my-trainings-im-not-talking-about-activity-7394659765093728257-guye"
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The most successful agents I know all understand this truth about objections. \"I need to think about it\" doesn't mean no.",
+      "statement": "\"I need to think about it\" doesn't mean no.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "\"The timing isn't right\" doesn't mean never.",
+      "statement": "\"The timing isn't right\" doesn't mean never.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "\"I've decided to invest in my Country\" doesn't mean they won't change their mind.",
+      "statement": "\"I've decided to invest in my Country\" doesn't mean they won't change their mind.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Every objection is information about their current situation, not their permanent position.",
+      "statement": "Every objection is information about their current situation, not their permanent position.",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "People change jobs, get promotions, inherit money, have life events.",
+      "statement": "People change jobs, get promotions, inherit money, have life events.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Keep the relationship warm.",
+      "statement": "Keep the relationship warm.",
+      "topic": "persistence in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "The \"no\" today might be the \"yes\" in 6 months.",
+      "statement": "The \"no\" today might be the \"yes\" in 6 months.",
+      "topic": "goals in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Time changes everything.",
+      "statement": "Time changes everything.",
+      "topic": "time sensitivity",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Insights from an agent about handling objections in sales interactions."
+}

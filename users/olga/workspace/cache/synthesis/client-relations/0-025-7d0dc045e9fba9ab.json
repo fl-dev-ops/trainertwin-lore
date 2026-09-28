@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Buyers often exhibit pushback during the sales process when they feel uncertain or overwhelmed, indicating that addressing emotional states is crucial in client relations.",
+      "qualification": "The statement is based on a single observation and lacks broader context or verification.",
+      "support_ids": [
+        "linkedin-posts-2025-07-07-dealing-with-a-buyers-pushbacks-md-65613f3758:c001:e002:6df77568"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective sales involve asking better questions rather than merely pursuing leads, suggesting that inquiry-based engagement may enhance client understanding and satisfaction.",
+      "qualification": "This belief is self-reported and reflects the author's perspective rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e002:0aafa69e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Good questioning can reveal unarticulated thoughts in clients, implying that skilled communication can lead to greater insights and rapport during client interactions.",
+      "qualification": "This is an anecdotal claim from the author's reflection on past client interactions.",
+      "support_ids": [
+        "linkedin-posts-2025-07-11-theres-no-such-thing-as-md-d717997cd1:c001:e006:fb1423fe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to express specific objections can foster a more interactive engagement process, potentially leading to more effective outcomes in client negotiations.",
+      "qualification": "The call for engagement is based on observed behavior and reflects the author’s coaching style.",
+      "support_ids": [
+        "linkedin-posts-2025-07-14-created-this-series-based-on-md-a37c39b3ee:c001:e003:08cbce36"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reaching out to previous leads and asking for referrals is suggested as a strategy for client engagement, highlighting the importance of maintaining ongoing relationships in sales.",
+      "qualification": "This advice reflects a practical approach but lacks empirical support or feedback from others.",
+      "support_ids": [
+        "linkedin-posts-2025-07-18-this-is-my-face-every-md-1a8a4e8d8e:c001:e003:7c9e8fb4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Different tones in communication can elicit varying responses from clients, signaling that emotional nuances in dialogue may significantly influence engagement outcomes.",
+      "qualification": "This statement is a belief based on observed interactions rather than supported by data.",
+      "support_ids": [
+        "linkedin-posts-2025-07-30-same-question-different-tone-md-8c95d6f286:c001:e001:5e970666"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is proposed as an effective method for generating listings when other strategies, like social media funnels, fall short, indicating a pragmatic approach to client engagement is vital.",
+      "qualification": "This advice reflects the author's personal view and not necessarily widespread consensus or verification.",
+      "support_ids": [
+        "linkedin-posts-2025-08-05-everyone-says-cold-calling-doesnt-md-147553f13e:c001:e002:29c89586"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Teaching agents to ask questions effectively during client interactions is essential, underscoring the necessity of proper training in communication techniques within sales.",
+      "qualification": "The statement indicates a potential gap in training within the industry, based on the author’s observations.",
+      "support_ids": [
+        "linkedin-posts-2025-08-15-sell-without-selling-the-questions-md-92bb0c57c9:c001:e004:9641515a"
+      ]
+    }
+  ]
+}

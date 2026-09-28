@@ -1,0 +1,79 @@
+{
+  "groups": [
+    {
+      "name": "Self-Improvement and Reflection",
+      "topics": [
+        "self-assessment",
+        "self-belief-in-sales",
+        "self-investment",
+        "self-limiting-beliefs",
+        "self-promotion",
+        "self-review"
+      ]
+    },
+    {
+      "name": "Skill Enhancement and Training",
+      "topics": [
+        "skill-development",
+        "skill-inquiry",
+        "skill-preparation",
+        "skills-acquisition",
+        "skills-development",
+        "skills-gaps",
+        "skills-training"
+      ]
+    },
+    {
+      "name": "Communication Techniques",
+      "topics": [
+        "seller-communication",
+        "script-mastery",
+        "soliciting-feedback",
+        "style"
+      ]
+    },
+    {
+      "name": "Social Media Strategies",
+      "topics": [
+        "social-media-engagement",
+        "social-media-strategy"
+      ]
+    },
+    {
+      "name": "Strategic Planning and Outcomes",
+      "topics": [
+        "strategic-outcomes",
+        "strategies-in-training",
+        "strategy-sessions",
+        "survival-strategy"
+      ]
+    },
+    {
+      "name": "Success and Productivity",
+      "topics": [
+        "success",
+        "success-factors",
+        "success-process"
+      ]
+    },
+    {
+      "name": "Training and Support Frameworks",
+      "topics": [
+        "subscription-model",
+        "supplement-to-offline-training",
+        "support-networks",
+        "systematic-approach",
+        "systems-improvement",
+        "teaching-approach",
+        "team-building"
+      ]
+    },
+    {
+      "name": "Creativity and Thought Processes",
+      "topics": [
+        "spontaneous-thinking",
+        "storytelling"
+      ]
+    }
+  ]
+}

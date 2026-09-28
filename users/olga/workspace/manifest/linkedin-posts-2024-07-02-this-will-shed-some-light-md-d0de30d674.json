@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-07-02-this-will-shed-some-light-md-d0de30d674-f88feae7368cb252.jsonl",
+  "external_id": "7213745710813331456",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:28:36Z",
+  "metadata_hash": "dc73b69324547d3df081a65cfc51e1b08c190aef7b0606fdf271c4313d86ca32",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-07-02T03:30:02.372000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-07-02-this-will-shed-some-light.md",
+  "source_sha256": "ce67aa9f6dc658c98bec509ffcc3c47699887c897cd6ce0ae0de2725eb23efde",
+  "source_url": "https://www.linkedin.com/posts/olgasi_accountability-visibility-skillprogression-activity-7213745710813331456-RWVe"
+}

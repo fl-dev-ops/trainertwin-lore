@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-03-22-have-you-seen-that-black-md-e3b1fef0d4-9543a3dd67ea22fb.jsonl",
+  "external_id": "7176782143212167168",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:23:52Z",
+  "metadata_hash": "38a898271ba96a6aae79ed95737a243896abc41f1e91245c6b2762c81884f9aa",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-03-22T03:30:01.106000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-03-22-have-you-seen-that-black.md",
+  "source_sha256": "48c9e9069c781bac5a3e0d101958e57f76d379f4ac96fd996dca81847a9f0d00",
+  "source_url": "https://www.linkedin.com/posts/olgasi_review-testimonials-are-the-new-currency-activity-7176782143212167168-NByA"
+}

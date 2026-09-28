@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I am in competition with probably ten agents who are trying to pull them.",
+      "statement": "I'm in competition with probably ten agents who are trying to pull them.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "if you're offering them something different, they might be more engaged.",
+      "statement": "If you're offering them something different, they might be more engaged.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "he will come to Dubai and we together we will go and walk the places where he's going to invest.",
+      "statement": "He will come to Dubai and we together we will go and walk the places where he's going to invest.",
+      "topic": "investment opportunity",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "they already sent in all the brochures and sales offer.",
+      "statement": "They already sent in all the brochures and sales offer.",
+      "topic": "client quality",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Youtube short discussing sales strategies and client engagement techniques."
+}

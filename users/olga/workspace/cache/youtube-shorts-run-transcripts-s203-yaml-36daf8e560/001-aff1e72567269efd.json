@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Why are you investing in gold already, Mr. Kleiner?",
+      "statement": "Gold is a popular investment opportunity.",
+      "topic": "investment opportunity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Will gold give you a passive income? No.",
+      "statement": "Real estate can provide passive income, unlike gold.",
+      "topic": "real estate potential",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I'm already invested in gold.",
+      "statement": "I am looking for diversification in my investments.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Conversation on investment strategies in real estate versus gold."
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Claiming a mortgage with a low salary can lead to financial instability",
+      "qualification": "These are self-reported claims and not verified by external financial records.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s149-yaml-570adcde2d:c001:e003:8ebf418e",
+        "youtube-shorts-run-transcripts-s149-yaml-570adcde2d:c001:e004:a10417da"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Forcing clients to agree in sales can create tension",
+      "qualification": "The statement is a hypothetical concern based on sales behavior observations.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s15-yaml-6fcf5a353b:c001:e003:5c6bbfb7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Buyers have become more selective in the market",
+      "qualification": "While noted, this statement lacks specific data or external metrics to authenticate changes in buyer behavior.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s151-yaml-8c6d4d707e:c001:e002:348d5d83"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Providing help can lead to reciprocity or agreement",
+      "qualification": "This is based on a social psychology principle, but lacks empirical data from the interactions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s153-yaml-14dfda6aa0:c001:e001:3542803e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales processes inherently generate resistance from clients",
+      "qualification": "These are observed beliefs and may not apply to all sales interactions or industries.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e001:26754aaf",
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e002:2bbe62a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Beginners often err by being overly polite in real estate",
+      "qualification": "This advice is anecdotal and there is no counter-evidence provided from successful polite strategies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s155-yaml-3089cec4f6:c001:e001:7079a834"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using neuroemotional persuasion rather than traditional approaches may be effective",
+      "qualification": "The effectiveness of neuroemotional persuasion is hypothetical, lacking quantified outcomes or comparisons.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s157-yaml-20bc3343ea:c001:e001:77e712e8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The principle of commitment and consistency can be used in persuasion",
+      "qualification": "This is a theoretical application of persuasion techniques and not empirically verified within specific sales contexts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s153-yaml-14dfda6aa0:c001:e003:8a6ad367"
+      ]
+    }
+  ]
+}

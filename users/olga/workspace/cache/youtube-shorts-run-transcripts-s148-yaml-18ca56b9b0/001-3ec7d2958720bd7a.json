@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The Dubai real estate market needed a claim. And this is exactly what is happening now.",
+      "statement": "The Dubai real estate market needed a claim.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "they're losing the jobs, the agents already flying to Thailand or Bali because they cannot make money in Dubai real estate anymore.",
+      "statement": "Agents are losing jobs and some are leaving to other countries.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "We all wanted less competition, we all wanted less project, less development.",
+      "statement": "The desire for less competition and fewer projects is prevalent.",
+      "topic": "competition in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the leads you will be getting now are those who are really, despite all of the noise, understand the value of Dubai real estate beyond the market price.",
+      "statement": "The quality of leads is changing to those who value Dubai real estate beyond price.",
+      "topic": "lead generation",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "to sell and shift the mindset, not convince, shift the mindset of your clients.",
+      "statement": "Salespeople need to shift the mindset of their clients instead of just convincing them.",
+      "topic": "mindset shift",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "I do have a strategy session where, oh I call it a source session, where I teach you how step by step succeed in this frozen and slowly going down market.",
+      "statement": "I offer a strategy session to help succeed in a declining market.",
+      "topic": "training approach",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "A source chunk discussing the Dubai real estate market and selling strategies in a difficult environment."
+}

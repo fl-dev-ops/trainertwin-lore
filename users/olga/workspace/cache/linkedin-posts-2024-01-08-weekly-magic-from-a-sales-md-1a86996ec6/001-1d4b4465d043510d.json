@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If you are still waiting to get camera confident first!?? And then start filling your content? This will never happen... You will never be ready! What you should do instead - is to start Now.",
+      "statement": "You will never be ready! What you should do instead - is to start Now.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Pass through the stage of \"Pain\"... But even then...",
+      "statement": "Pass through the stage of 'Pain'...",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A motivational sales training post emphasizing action over preparation."
+}

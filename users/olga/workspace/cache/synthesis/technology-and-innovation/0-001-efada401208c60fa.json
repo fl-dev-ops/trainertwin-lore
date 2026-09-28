@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Launching a career online provides access to a global audience, with potential for increased visibility and opportunities.",
+      "qualification": "The claim is based on LinkedIn advice, indicating potential benefits but lacking empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-05-17-in-2023-if-you-do-md-21dcdfea7b:c001:e002:f9562a2e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Integrating AI into daily workflows presents challenges for over 50% of real estate agents.",
+      "qualification": "This observation is reported, but not independently verified with specific data sources.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-over-50-of-real-estate-md-57c0529eb0:c001:e001:3e1e71cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI assistants are being tailored for real estate agents to simplify daily tasks, highlighting the trend towards automation.",
+      "qualification": "The information is presented as an offering and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-over-50-of-real-estate-md-57c0529eb0:c001:e003:a1052a03"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Current sales processes in Dubai may not be optimized for digital transformation, affecting lead conversion rates.",
+      "qualification": "Self-reported belief about the inadequacy of existing sales systems.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e008:f7ebecec"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in language skills is critical for success in real estate, especially for non-native English speakers.",
+      "qualification": "The advice is based on personal experiences and lacks broader industry data.",
+      "support_ids": [
+        "linkedin-posts-2024-04-15-my-english-is-not-good-md-5f48b1ce7e:c001:e003:529e1001"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Traditional lecture methods result in low information retention, highlighting the need for improved educational techniques.",
+      "qualification": "Presented as advised information without empirical support or study citations.",
+      "support_ids": [
+        "linkedin-posts-2024-09-05-step-by-step-guide-to-my-online-md-baa2e01844:c001:e002:2f3f1da2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Technology is enabling real estate agents to have personal assistants, with a strong endorsement for such tools.",
+      "qualification": "Reported as a fact claim, but the necessity and effectiveness are self-reported.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-dont-take-my-word-for-md-e97711ee9c:c001:e002:a5c73d8f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using physical notes can be more convenient for some individuals in managing tasks due to phone usage preferences.",
+      "qualification": "Self-reported personal preference without broader context on task management adoption trends.",
+      "support_ids": [
+        "linkedin-posts-2023-12-21-i-dont-consider-myself-very-md-69e56135c1:c001:e006:81a86d21"
+      ]
+    }
+  ]
+}

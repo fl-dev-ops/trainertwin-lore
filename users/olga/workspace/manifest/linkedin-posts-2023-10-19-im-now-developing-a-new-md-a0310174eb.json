@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2023-10-19-im-now-developing-a-new-md-a0310174eb-9d46665fb7d96197.jsonl",
+  "external_id": "7120733998108016643",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:17:39Z",
+  "metadata_hash": "a00532b724f947e1b3d1a65db9089ce2390ddd789569f3c9b0628bfd3dcffc98",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-10-19T11:34:41.989000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-10-19-im-now-developing-a-new.md",
+  "source_sha256": "8cfbfcc2ec0737f0a5671b1f310cf35935a6641011c429e89660c11b105b22b1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_increasesales-dubairealestate-effectivesalesprocess-activity-7120733998108016643-qP0S"
+}

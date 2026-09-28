@@ -1,0 +1,16 @@
+{
+  "author": "oleksandra-prykhodko-aba937202",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "linkedin-posts-2024-01-04-job-vacancy-hr-specialist-recruiter-md-58566a5001-c4ae67cb031450c8.jsonl",
+  "external_id": "7148681151711264768",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:20:41Z",
+  "metadata_hash": "25303bfb6c4ad8c269f7cdc5fc6efb50e0e09afdceb6ef4e940e733502b0693b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-01-04T14:26:42.641000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-01-04-job-vacancy-hr-specialist-recruiter.md",
+  "source_sha256": "bd9e6464bf891155728681f9020bdff3d1db2b5c841faa166eb12440a7bdb868",
+  "source_url": "https://www.linkedin.com/posts/oleksandra-prykhodko-aba937202_jobvacancy-hr-recruitment-ugcPost-7148221461399351296-hH80"
+}

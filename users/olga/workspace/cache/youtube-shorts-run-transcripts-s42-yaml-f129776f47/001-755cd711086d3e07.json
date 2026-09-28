@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I'm having you talking. I can hear what you say.",
+      "statement": "Salesperson aims to understand clients by listening to what they say.",
+      "topic": "client engagement",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "You are calm, you are collected, you know the situation is gonna get better.",
+      "statement": "The salesperson believes that remaining calm can help in understanding clients' situations better.",
+      "topic": "mindset shift",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "You're going to be using your current property for refinancing.",
+      "statement": "The client intends to use their current property for refinancing.",
+      "topic": "client quality",
+      "unit_id": "u000007"
+    }
+  ],
+  "overview": "Transcript from a YouTube short about sales strategies for finding motivated sellers in Dubai."
+}

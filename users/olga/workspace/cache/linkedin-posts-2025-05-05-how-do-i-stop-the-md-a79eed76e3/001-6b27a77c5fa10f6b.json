@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I hear this question in almost every training.",
+      "statement": "I hear this question in almost every training.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "You can’t force loyalty. Not in relationships — and definitely not in real estate.",
+      "statement": "You can’t force loyalty. Not in relationships — and definitely not in real estate.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "They will always choose what feels better, easier, more trustworthy — for them.",
+      "statement": "Clients will always choose what feels better, easier, more trustworthy — for them.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "This is what I teach. Not manipulation. Not pressure.",
+      "statement": "This is what I teach. Not manipulation. Not pressure.",
+      "topic": "teaching approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "The real question is: “How do I become the one they choose — over and over again?”",
+      "statement": "The real question is: \"How do I become the one they choose — over and over again?\"",
+      "topic": "trust-building",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Insights from a LinkedIn post on client loyalty in real estate training."
+}

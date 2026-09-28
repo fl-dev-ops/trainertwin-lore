@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-07-28-aside-from-budget-limitations-where-md-7d9683c32f-fba11629b5e7c37a.jsonl",
+  "external_id": "7090590138749100032",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:13:35Z",
+  "metadata_hash": "5ae012d36c6ff86eb3daa253bc9d84bf77ec7e1b0236370668953da471a8570c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-28T07:13:45.872000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-28-aside-from-budget-limitations-where.md",
+  "source_sha256": "2cd416e57bff4e2eb7d3eec5fb433d00bfcdc41ec6437dd2b28bafe57567afc3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-dubailiving-dubaihomes-activity-7090590138749100032-xUFB"
+}

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "the best way to sell something is to help the customer discover their own needs",
+      "statement": "the best way to sell something is to help the customer discover their own needs",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "when you ask questions and listen carefully to the answers, you show the customer that you're interested",
+      "statement": "When you ask questions and listen carefully to the answers, you show the customer that you're interested",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "advice",
+      "quote": "By asking open-ended questions, you can help the customer think through their needs and consider different solutions.",
+      "statement": "By asking open-ended questions, you can help the customer think through their needs and consider different solutions",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "The roots of this method can be traced back to the Greek philosopher Socrates.",
+      "statement": "The roots of this method can be traced back to the Greek philosopher Socrates",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "contemporary research in behavioural science and decision-making corroborates these time-honoured principles.",
+      "statement": "Contemporary research in behavioural science and decision-making corroborates these time-honoured principles",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing sales methods and client engagement strategies."
+}

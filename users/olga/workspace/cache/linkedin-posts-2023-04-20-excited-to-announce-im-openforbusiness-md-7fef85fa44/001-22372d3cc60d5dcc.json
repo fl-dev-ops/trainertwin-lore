@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "providing services on LinkedIn. Check out my services page for Public Speaking, Marketing Consulting, Blogging, Content Marketing, Content Strategy, Growth Marketing, Lead Generation, Real Estate Marketing and Real Estate.",
+      "statement": "Providing services on LinkedIn for Public Speaking, Marketing Consulting, Blogging, Content Marketing, Content Strategy, Growth Marketing, Lead Generation, Real Estate Marketing and Real Estate.",
+      "topic": "professional services",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "• Show up with confidence: Our first training focuses on helping you show up on camera with confidence and authenticity, no matter your level of experience. We'll provide you with the tools and techniques you need to showcase your unique strengths and expertise in a way that truly connects with your audience. • Craft engaging content: In our second training, we'll show you how to leverage your unique skills and knowledge to create engaging content that truly resonates with your ideal audience.",
+      "statement": "Offering a program with three training sessions focused on showing up with confidence, crafting engaging content, and streamlining the content creation process.",
+      "topic": "teaching approach",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "the main program feature that will truly allow you to grow and progress is the daily feedback on your content from your media coach. You'll receive personalized advice and guidance to help you understand your strengths and weaknesses, and fix mistakes, so that your content gets better every single day.",
+      "statement": "Providing personalized feedback on content from a media coach as a main feature of the program.",
+      "topic": "teaching approach",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Our comprehensive 4 weeks program is designed to save you time, eliminate the fear and cringe, and help you grow your business through expert content creation.",
+      "statement": "A comprehensive 4-week program designed to enhance content creation skills.",
+      "topic": "teaching approach",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "A LinkedIn post announcing services offered for content creation training."
+}

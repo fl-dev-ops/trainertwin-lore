@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-12-11-how-to-start-in-dubai-md-e2037b59d0-191c87f41672b179.jsonl",
+  "external_id": "7404764005296214016",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:00:55Z",
+  "metadata_hash": "92b597cfb79c463be48c3000a13f095897689c1e3240a4aa900d7a9f9122499c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-11T06:08:32.725000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-11-how-to-start-in-dubai.md",
+  "source_sha256": "eaa453234b2898536ca79c5ab369e8da80cf27cc7df3f4eabe2e7de06809d530",
+  "source_url": "https://www.linkedin.com/posts/olgasi_pricereductiontips-becomearealestateagent-activity-7404764005296214016-tqja"
+}

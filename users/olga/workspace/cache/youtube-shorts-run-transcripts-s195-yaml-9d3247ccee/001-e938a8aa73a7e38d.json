@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Guys, that's only two reasons someone's going to think it's too expensive.",
+      "statement": "Clients may think a product is too expensive for two reasons.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "or they don't have the money now. or they don't have the money in that amount.",
+      "statement": "One reason for price objections is that clients may not have enough money.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "is not enough in the mind of the client to match the price.",
+      "statement": "The perceived value of the offer may not match its price in the client's mind.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Observations on client objections in sales regarding price and value perception."
+}

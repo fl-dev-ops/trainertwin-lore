@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback is seen as crucial for productivity and growth, yet lacks empirical support.",
+      "qualification": "The importance of feedback is supported by personal beliefs and experiences without empirical evidence.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e007:8755813d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real coaching is perceived as more effective than digital self-help resources for career advancement, despite anecdotal basis.",
+      "qualification": "The claim is based on personal suggestion and lacks empirical data.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e001:d2e23c85"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communication skills are essential for effective client engagement in real estate, but findings are self-reported.",
+      "qualification": "Evidence is self-reported and unverified, reliant on personal observation.",
+      "support_ids": [
+        "youtube-transcripts-02-yaml-c6ae54efe6:c002:e001:3df91255"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Professionalism in client interaction, such as avoiding badmouthing competitors, is advised for building trust.",
+      "qualification": "The recommendation is general advice and lacks specific empirical confirmation.",
+      "support_ids": [
+        "youtube-transcripts-03-yaml-e083a8937f:c001:e004:2ed88897"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a necessity for agents to offer unique value beyond standard engagement tactics to avoid client disinterest.",
+      "qualification": "Self-reported data, focusing on customer perception, not independently verified.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e003:7287e394"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Generating a high volume of property listings is seen as central to success in the real estate business; effectiveness of this strategy is based on personal anecdotes.",
+      "qualification": "This is advised from experience and lacks empirical validation.",
+      "support_ids": [
+        "youtube-transcripts-04-yaml-7001eb6128:c001:e003:07bc4b2e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is skepticism about clients' initial engagement expressions, suggesting deeper probing is necessary for accurate understanding.",
+      "qualification": "Based on hypothetical teaching narratives not empirically substantiated.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e004:f6d49d52"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Comfort and trust in client communication are prioritized over immediate sales tactics.",
+      "qualification": "The advice is based on personal insights and not empirically tested.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e007:8755813d"
+      ]
+    }
+  ]
+}

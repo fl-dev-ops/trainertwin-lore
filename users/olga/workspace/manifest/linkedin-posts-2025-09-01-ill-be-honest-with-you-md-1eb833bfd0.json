@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 9,
+  "evidence_file": "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0-61d13e1466fa4830.jsonl",
+  "external_id": "7368212692467093504",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:46:46Z",
+  "metadata_hash": "9ec5222ef196eda0ce0f84a848abe6e0487ba81f56a1eb9cee3f6287f6007691",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-09-01T09:26:40.656000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-09-01-ill-be-honest-with-you.md",
+  "source_sha256": "9da6aca5539d9dc8ba1bc64395a9310a8545b9612a3714505e14150b977675f6",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestraining-realestatementordubai-activity-7368212692467093504-XZAv"
+}

@@ -1,0 +1,55 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Frequent engagement solicitation on LinkedIn involves asking followers to comment for links or to participate in discussions.",
+      "qualification": "Self-reported methods of engagement solicitation are common but effectiveness is unverified.",
+      "support_ids": [
+        "linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570:c001:e007:b7b0c3e4",
+        "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399:c001:e006:93a3903c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an emphasis on high visibility across social media platforms to build trust with potential clients.",
+      "qualification": "Self-reported, with no external validation of results or effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2025-01-06-the-digital-age-demands-presence-md-b8b55817a1:c001:e001:56efacf6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Application processes mentioned in Olgasi's LinkedIn posts often require specific action from candidates, such as sending video intros or attending interviews.",
+      "qualification": "Instructions are clear, but the effectiveness of these methods is not established with external evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-this-opportunity-is-for-you-md-4ec09e970e:c001:e006:5c0a9dc1",
+        "linkedin-posts-2025-03-10-ive-never-needed-to-sell-md-de56a4001e:c001:e008:9e3ded12",
+        "linkedin-posts-2025-05-02-im-looking-for-my-training-md-892ab86a73:c001:e002:046f2d07"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a recommendation to watch top agents for insights into effective strategies in the real estate market.",
+      "qualification": "Advice is casual and observational; no outcomes of using this strategy are provided.",
+      "support_ids": [
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e007:bb94293f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An Open Day is promoted as a method for potential real estate agents to learn more about opportunities and success metrics.",
+      "qualification": "Promotional in nature, with no evidence on attendance or participant feedback.",
+      "support_ids": [
+        "linkedin-posts-2025-04-29-want-to-become-a-top-performing-md-7f1b423215:c001:e004:4c8a5f2a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Application process can be intricate, with many failing to complete it correctly.",
+      "qualification": "Limited information on why candidates failed to complete the process.",
+      "support_ids": [
+        "linkedin-posts-2025-05-07-over-20-candidates-applied-for-md-23e65f42f7:c001:e002:b6bbbcef"
+      ]
+    }
+  ]
+}

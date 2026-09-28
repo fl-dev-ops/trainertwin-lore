@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Two ways Dubai prop-tech startup ends in 2026. For B2B: you get two or three companies paying you for two, three months.",
+      "statement": "For B2B, you get two or three companies paying you for two, three months.",
+      "topic": "business model challenges",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Then the guy inside who had your back leaves. The next one has no budget at all.",
+      "statement": "In B2B, the next decision-maker often has no budget.",
+      "topic": "business model challenges",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "No case studies, no sales process, no product.",
+      "statement": "B2B operations can lack case studies and defined sales processes.",
+      "topic": "business model challenges",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "For B2C: a lot of free users who open it twice, maybe some💰 for a month, then cancel.",
+      "statement": "B2C often results in many free users who quickly disengage.",
+      "topic": "business model challenges",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "And you’re staring at the thing you spent everything building.",
+      "statement": "Startup founders can become frustrated seeing their efforts yield no profit.",
+      "topic": "business model challenges",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A commentary on challenges faced by a Dubai prop-tech startup with a focus on B2B and B2C models."
+}

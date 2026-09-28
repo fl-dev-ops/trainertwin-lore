@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-02-28-this-reading-is-strictly-for-md-8434bdd79d-aba4b11535a1b757.jsonl",
+  "external_id": "7168570212433158144",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:23:10Z",
+  "metadata_hash": "5224bd5287ae107a614dcedf7eace5d9fce0b74ba24e6877e49dc1d06ad12358",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-02-28T11:38:44.238000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-02-28-this-reading-is-strictly-for.md",
+  "source_sha256": "7585518984068d0f0c1c94c31e4583f9a86d7cce0f70cee72e46ecf71c552071",
+  "source_url": "https://www.linkedin.com/posts/olgasi_selfinvestment-selfgrowth-selfdevelopment-activity-7168570212433158144-x1Jh"
+}

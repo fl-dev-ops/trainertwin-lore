@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Malcolm Burr successfully navigated the US housing crisis by foreseeing changes, contrasting against market expectations.",
+      "qualification": "This evidence is presented as a fact claim but lacks corroboration or third-party validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s106-yaml-3f94e9436b:c001:e003:311016ab",
+        "youtube-shorts-run-transcripts-s106-yaml-3f94e9436b:c001:e004:4d64e1d5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is unfamiliar to some professionals even within real estate, which contrasts with common sales strategies.",
+      "qualification": "Self-reported evidence, unverified by external sources.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s110-yaml-fe385454b9:c001:e002:905c71f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Flexibility and adaptability in conversation strategy are emphasized, avoiding unexpected moments with clients.",
+      "qualification": "This advice could vary significantly by context and individual preference.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s111-yaml-68058ff5ff:c001:e003:cadae53e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies need updating; methods effective 15 years ago may no longer work today.",
+      "qualification": "Observed evidence lacking specific details on which strategies have changed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s117-yaml-be0a8100f9:c001:e001:b580bb83"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A misconception exists among sales agents that leads will be handed to them by companies, but actual practice involves starting anew and generating leads independently.",
+      "qualification": "Evidence is observed but relies on beliefs and assumptions without cross-verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s115-yaml-afd75583ca:c001:e001:e82484bb",
+        "youtube-shorts-run-transcripts-s115-yaml-afd75583ca:c001:e002:7467b716"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In sales, objections are seen as client concerns to be addressed, not barriers.",
+      "qualification": "General advice that may not account for specific industry practices or individual situations.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s116-yaml-088bdc41fd:c001:e001:06d62e3c",
+        "youtube-shorts-run-transcripts-s116-yaml-088bdc41fd:c001:e003:66a2aeb6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Coaching and training requests are specific, often needing expertise in particular markets, like Dubai.",
+      "qualification": "Observed evidence with specificity to market knowledge, lacking wider context application.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s113-yaml-22f362b517:c001:e005:7a31264f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Interactive sales and negotiation techniques can build intrigue and decision-making control.",
+      "qualification": "Observed behavior might not necessarily translate to broader applications.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s108-yaml-068c5f5f17:c001:e002:ec4b9e04",
+        "youtube-shorts-run-transcripts-s108-yaml-068c5f5f17:c001:e003:b13e2c0f"
+      ]
+    }
+  ]
+}

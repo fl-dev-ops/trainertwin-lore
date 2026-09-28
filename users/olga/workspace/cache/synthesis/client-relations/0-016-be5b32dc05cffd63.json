@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Reading emotions through screens can complicate client engagement, indicating the need for enhanced digital communication strategies.",
+      "qualification": "The statement is self-reported and may not represent the views of a broader audience.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e007:e5383954"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Expressing honesty and transparency in communications can strengthen client relationships, as seen when a professional admitted a mistake and a client responded positively.",
+      "qualification": "These behaviors are observed and the outcomes are anecdotal, lacking broader data verification.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03:c001:e002:0e51fad2",
+        "linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03:c001:e003:0e50b46c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging feedback from clients through comments or direct messages can enhance engagement and foster more interactive client relationships.",
+      "qualification": "The suggestion is observed behavior but may not correlate with increased client satisfaction universally.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-for-you-real-estate-agents-md-44412b2c31:c001:e003:98fa037c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Candidates often send generic or desperate job requests, which may undermine their chances of successful recruitment and create a negative impression.",
+      "qualification": "This is self-reported and may reflect personal bias or anecdotal observations from a specific context.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-recruiters-how-often-do-you-md-9e52618a0a:c001:e001:0bdab223",
+        "linkedin-posts-2024-09-19-recruiters-how-often-do-you-md-9e52618a0a:c001:e002:7d3a85e1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using inclusive language strategies, such as 'AND' instead of 'BUT', may not resonate with modern consumers, suggesting a need for adaptation in communication styles.",
+      "qualification": "The claim is based on the author's experience and may not be validated across all client interactions.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e002:4b03069c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rephrasing client questions can yield clearer insights and facilitate better understanding in client communications, improving problem-solving capabilities.",
+      "qualification": "The suggestion is an advised strategy and lacks direct empirical evidence or measurable outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e001:35b8c4df"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging clients through solicitations for input regarding common issues, such as handling objections, can create a more collaborative and interactive consulting environment.",
+      "qualification": "This recommendation relies on anecdotal evidence and self-reporting.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e004:4273db3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building trust by acknowledging errors can enhance client loyalty, as illustrated by a case where a client's appreciation was shown through a refusal to accept restitution for an honest mistake.",
+      "qualification": "The event described is anecdotal and not confirmed by wider experience or statistical data.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03:c001:e003:0e50b46c"
+      ]
+    }
+  ]
+}

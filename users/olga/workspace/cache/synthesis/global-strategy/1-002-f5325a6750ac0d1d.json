@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate commissions can take a considerable time to be paid after securing a client.",
+      "qualification": "The claim is observed from one speaker, lacking broader verification or examples.",
+      "support_ids": [
+        "youtube-transcripts-07-yaml-29825889bb:c002:e003:dfed0970"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in Jumeirah Island villas for rental income may not be optimal.",
+      "qualification": "This finding comes from a single source without broader comparative analysis or data.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c001:e003:1b5f1da9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Potential property investors should examine building realities before investing based on discounts.",
+      "qualification": "Advice is singularly sourced and lacks external validation.",
+      "support_ids": [
+        "youtube-transcripts-102-yaml-de287101db:c002:e001:1b0d65fe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Achieving significant earnings from real estate deals is possible with coaching support.",
+      "qualification": "The instance is self-reported and lacks details on transnational application or repeatability.",
+      "support_ids": [
+        "youtube-transcripts-11-yaml-e68135aa2f:c002:e004:193aa440"
+      ]
+    }
+  ]
+}

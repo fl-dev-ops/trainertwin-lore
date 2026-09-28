@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-08-02-social-media-is-broadcasting-only-md-58fe074d5d-2d9a6c090af1d313.jsonl",
+  "external_id": "7092465657925033988",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:13:57Z",
+  "metadata_hash": "a215d43e4fdd6f9796b5f049661e8ff1dc44c11308b5285bd5b5b51e8a78e15b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-02T11:26:24.489000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-02-social-media-is-broadcasting-only.md",
+  "source_sha256": "73975bf268758a0f874f12d61ac03999eb00230ea7fc74384a2234b23906bd62",
+  "source_url": "https://www.linkedin.com/posts/olgasi_highlightreels-onlythewins-socialmedialife-activity-7092465657925033988-gADs"
+}

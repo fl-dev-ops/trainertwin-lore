@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "'Thinking on Your Feet' is a crucial skill for a real estate broker.",
+      "statement": "'Thinking on Your Feet' is a crucial skill for a real estate broker.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "During the training, we will develop your skills to effectively translate market updates into compelling sales pitches.",
+      "statement": "During the training, we will develop your skills to effectively translate market updates into compelling sales pitches.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "As a new agent, you may not be able to answer these questions right away, and that's okay.",
+      "statement": "As a new agent, you may not be able to answer these questions right away, and that's okay.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "How would you communicate this market update to a Seller to encourage them to sell?",
+      "statement": "How would you communicate this market update to a Seller to encourage them to sell?",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "What is the most impactful way to present it to the Buyer to encourage them to buy?",
+      "statement": "What is the most impactful way to present it to the Buyer to encourage them to buy?",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing the importance of adaptability in real estate sales with a focus on training."
+}

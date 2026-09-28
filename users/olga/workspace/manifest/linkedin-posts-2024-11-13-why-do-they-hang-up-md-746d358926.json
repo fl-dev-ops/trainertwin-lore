@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-11-13-why-do-they-hang-up-md-746d358926-2a928c555593b58e.jsonl",
+  "external_id": "7262313232424443904",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:56:15Z",
+  "metadata_hash": "8e44cd30a1d0036089e461e560aa0fba6faab1ed50814f157c4d7ec27174f9d8",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-11-13T04:00:01.865000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-11-13-why-do-they-hang-up.md",
+  "source_sha256": "57de2d574d857f9d7f02dc0569cd78b30b6f4f64a02d19d0358d743cbd64a71c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_want-success-in-2025-start-using-this-cold-activity-7262313232424443904-R9PV"
+}

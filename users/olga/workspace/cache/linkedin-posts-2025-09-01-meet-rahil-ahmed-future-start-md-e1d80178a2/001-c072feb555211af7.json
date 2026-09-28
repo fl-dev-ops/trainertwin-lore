@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "after 4 months in my coaching program he is talking the words out of my mouth.",
+      "statement": "Rahil Ahmed is now embodying the coaching he received.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "More Calls???",
+      "statement": "Increased call activity is necessary for sales improvement.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post introducing Rahil Ahmed as a future leader in a real estate group after coaching."
+}

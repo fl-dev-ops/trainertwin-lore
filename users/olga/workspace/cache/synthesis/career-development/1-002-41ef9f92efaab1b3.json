@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Recording and reviewing conversations is advised for improving communication skills in sales, highlighting the importance of self-reflection in career development.",
+      "qualification": "The practice is based on advice and lacks empirical data support.",
+      "support_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e006:91016f1c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in personal and sales skills is perceived as crucial for career development.",
+      "qualification": "This perception is based on self-reported experiences without empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-10-31-true-statistics-salespeople-do-not-md-b7960efd7a:c001:e004:1bac84d9",
+        "linkedin-posts-2023-11-07-how-much-have-you-invested-md-43349a2fc2:c001:e003:547f5231"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Relying on leads, managers, or companies for success is deemed unproductive by a LinkedIn user.",
+      "qualification": "This statement represents personal belief and lacks verification.",
+      "support_ids": [
+        "linkedin-posts-2023-08-30-your-current-skill-set-got-md-71d06d958c:c001:e003:b870a7a3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Experiences of rejection, such as clients choosing other trainers, are part of career development and learning.",
+      "qualification": "Self-reported experiences without direct evidence of outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-08-01-the-client-told-you-no-md-19335c72ba:c001:e005:a3036721"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Role-playing exercises are used as a method to enhance communication and persuasion skills within a career context.",
+      "qualification": "The effectiveness of role-playing is observed behavior, not empirically validated.",
+      "support_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e007:46b460b7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often become indecisive due to receiving contradictory information from multiple agents.",
+      "qualification": "The evidence is self-reported and based on individual experiences, not broader client studies.",
+      "support_ids": [
+        "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e:c001:e003:688ae1ea"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistent learning is seen as essential for success in the sales industry.",
+      "qualification": "This is a piece of advice that lacks empirical validation and is based on anecdotal evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-09-04-finding-experienced-agents-is-the-md-747339dc5a:c001:e003:4d925497"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset shifts from goal-oriented to curiosity-driven approaches may alleviate anxiety and promote personal growth.",
+      "qualification": "This is a belief based on an individual's personal experience; its effectiveness isn't empirically demonstrated.",
+      "support_ids": [
+        "linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1:c001:e003:1d554088"
+      ]
+    }
+  ]
+}

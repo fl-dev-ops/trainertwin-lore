@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Just training is not enough… You will still have questions after Like - ",
+      "statement": "Just training is not enough…",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "You will still have questions after Like - “what should I respond to this client message” - or “ this client stoped responding what should I do?”",
+      "statement": "You will still have questions after...",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Live It Up - Real Estate Training Academy & Habico Properties are offering agents Fresh Leads and Training!",
+      "statement": "Live It Up - Real Estate Training Academy & Habico Properties are offering agents Fresh Leads and Training!",
+      "topic": "lead generation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Send your CV to Maleeha Hameed - CHRP ! And you can join next training and mentorship",
+      "statement": "Send your CV to Maleeha Hameed - CHRP! And you can join next training and mentorship.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A post discussing the importance of practical application beyond training in real estate."
+}

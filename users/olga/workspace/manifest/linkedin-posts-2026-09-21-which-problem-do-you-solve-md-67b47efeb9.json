@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9-8f7640b2a104d573.jsonl",
+  "external_id": "7507718658257735681",
+  "extraction_signature": "9e7f3649ad77b0ba65dcc16d2c8baa3c2ddc8e108051a2043f4e4b19f047f3a9",
+  "ingested_at": "2026-09-27T20:18:30Z",
+  "metadata_hash": "49b4f7cea47ec23cfa2038e024a7572b7ad676dd3e513d0fdbbd44af4d8a05a4",
+  "model": "openai/gpt-4o",
+  "published_at": "2026-09-21T08:33:34.796000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-09-21-which-problem-do-you-solve.md",
+  "source_sha256": "cc5a5b7a9bf96a1fd0b2c1c7b471830995b5a1bf47ecdd8d180549c46bbcfcbf",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatetraining-activity-7507718658257735681-motX"
+}

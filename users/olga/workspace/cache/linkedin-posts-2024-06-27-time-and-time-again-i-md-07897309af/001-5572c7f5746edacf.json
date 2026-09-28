@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "agents who may not be the brightest, the smartest, or the most knowledgeable about the market, and who may even have poor communication skills, are succeeding in closing deals",
+      "statement": "agents who may not be the brightest...are succeeding in closing deals",
+      "topic": "persistence in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Consistency trumps perfection. It's like my grandma always says, \"You don't have to be a genius to bake a good pie, just keep an eye on the oven!\"",
+      "statement": "Consistency trumps perfection",
+      "topic": "goals in sales",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing the importance of consistency in achieving success over perfection in sales."
+}

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I could never leave JLT. It’s home, and I’m a JLT girl through and through!",
+      "statement": "I could never leave JLT. It’s home, and I’m a JLT girl through and through!",
+      "topic": "personal background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Clean those coils and ducts! Fresh air is a must, especially after realizing your vents have collected half the desert.",
+      "statement": "Clean those coils and ducts! Fresh air is a must, especially after realizing your vents have collected half the desert.",
+      "topic": "moving tips",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "do yourself a favour and check for leaks. An unplanned indoor pool is not the kind of luxury you want on move-in day.",
+      "statement": "Check for leaks in your bathrooms after DIWA is connected.",
+      "topic": "moving tips",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "I went all in on cleaning (or let’s be real—hire a pro). Your feet and sanity will thank you later.",
+      "statement": "Go all in on cleaning those floors or hire a pro.",
+      "topic": "cleaning advice",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Speaking of which, have you experienced a rent increase already?",
+      "statement": "Engaging in conversation about potential rent increases.",
+      "topic": "real estate engagement",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A LinkedIn post discussing moving tips and personal sentiments about the author’s local area and moving experience."
+}

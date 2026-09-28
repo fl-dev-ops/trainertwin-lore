@@ -1,0 +1,124 @@
+{
+  "groups": [
+    {
+      "name": "Access and Communication",
+      "topics": [
+        "access-and-information-sharing",
+        "audience-and-communication",
+        "engagement-and-communication",
+        "engagement-techniques"
+      ]
+    },
+    {
+      "name": "Action and Implementation",
+      "topics": [
+        "actions-and-outcomes",
+        "behavior-and-perception"
+      ]
+    },
+    {
+      "name": "Advice and Expectations",
+      "topics": [
+        "advice-and-expectations",
+        "creative-processes",
+        "cleaning-advice"
+      ]
+    },
+    {
+      "name": "Advocacy and Influence",
+      "topics": [
+        "advocacy-and-influence",
+        "company-culture-and-structure"
+      ]
+    },
+    {
+      "name": "Agent Performance and Challenges",
+      "topics": [
+        "agent-performance-and-challenges",
+        "call-strategies",
+        "client-interaction-and-relations"
+      ]
+    },
+    {
+      "name": "Application and Evaluation",
+      "topics": [
+        "application-processes",
+        "company-evaluation"
+      ]
+    },
+    {
+      "name": "AI and Technology",
+      "topics": [
+        "ai-in-real-estate",
+        "digital-and-technological-transition"
+      ]
+    },
+    {
+      "name": "Budgeting and Finance",
+      "topics": [
+        "budgeting-and-finance",
+        "compensation-and-financial-management",
+        "commission-issues"
+      ]
+    },
+    {
+      "name": "Business Strategy and Growth",
+      "topics": [
+        "business-description",
+        "business-growth-and-strategy",
+        "expanding-opportunities"
+      ]
+    },
+    {
+      "name": "Career Development",
+      "topics": [
+        "career-development",
+        "employment-and-logistics"
+      ]
+    },
+    {
+      "name": "Content and Marketing",
+      "topics": [
+        "content-and-marketing",
+        "content-creation"
+      ]
+    },
+    {
+      "name": "Data and Information Sharing",
+      "topics": [
+        "data-sharing-and-editor-selection"
+      ]
+    },
+    {
+      "name": "Environmental Impact",
+      "topics": [
+        "carbon-emissions",
+        "environmental-and-social-impact"
+      ]
+    },
+    {
+      "name": "Entrepreneurship and Education",
+      "topics": [
+        "entrepreneurship-and-education"
+      ]
+    },
+    {
+      "name": "Event Participation",
+      "topics": [
+        "event-participation"
+      ]
+    },
+    {
+      "name": "Demand Management",
+      "topics": [
+        "demand-management"
+      ]
+    },
+    {
+      "name": "Emotional Dynamics and Personal Experience",
+      "topics": [
+        "emotional-dynamics-and-personal-experience"
+      ]
+    }
+  ]
+}

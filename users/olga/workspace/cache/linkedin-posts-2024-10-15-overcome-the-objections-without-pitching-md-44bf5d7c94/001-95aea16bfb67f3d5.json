@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "how simple psychological tactics can transform the way clients perceive the Dubai real estate market.",
+      "statement": "Ask questions to help the client overcome his own objections",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "This is the secret all successful agents are sharing - understanding the psychology of clients.",
+      "statement": "Understanding the psychology of clients is key for sales success.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "You can start using these sales techniques too!",
+      "statement": "You can start using these sales techniques too!",
+      "topic": "sales technique",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post offering sales advice"
+}

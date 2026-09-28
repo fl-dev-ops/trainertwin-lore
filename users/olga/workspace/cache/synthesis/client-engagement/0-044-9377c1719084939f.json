@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents in Dubai are advised to engage with clients by checking building reviews for complaints, visiting the area, and interacting with current residents.",
+      "qualification": "The strategies suggested rely on self-reported advice and have not been independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s90-yaml-d710f8f5c8:c001:e001:dd89a368",
+        "youtube-shorts-run-transcripts-s90-yaml-d710f8f5c8:c001:e003:e2740544"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are encouraged to ask specific, targeted questions to avoid vague responses and better understand client needs.",
+      "qualification": "These findings are based on advised practices and lack empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s91-yaml-7ef81f3fc9:c001:e003:e441abe2",
+        "youtube-shorts-run-transcripts-s93-yaml-f1ccc54f39:c001:e001:6a107dcf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating perceived value is essential for engaging potential buyers effectively.",
+      "qualification": "This is advice-based and does not reflect measured client outcomes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s94-yaml-d36c8c65d2:c001:e002:563b5c8b",
+        "youtube-shorts-run-transcripts-s94-yaml-d36c8c65d2:c001:e001:105b0321"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some clients do not possess the financial capacity to invest in real estate, highlighting the need for budget-sensitive engagement strategies.",
+      "qualification": "Observed behavior suggests a challenge but does not offer a solution or strategy outcome.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s92-yaml-aebc34d786:c001:e001:b4741dc6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding motivations, such as family comfort, can influence successful real estate engagements.",
+      "qualification": "This is based on a single observation and lacks broader empirical support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s95-yaml-4aa544ea1b:c001:e001:b812fe9f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clarifying what clients mean by 'too expensive' can help shift their perspective and address objections.",
+      "qualification": "The finding is based on practical advice and lacks quantitative evaluation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s97-yaml-2fc9e0614c:c001:e002:3ab27164"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using hypothetical scenarios can engage clients more deeply in discussions.",
+      "qualification": "Evidence comes from observations that may not be representative of real-world outcomes.",
+      "support_ids": [
+        "youtube-transcripts-02-yaml-c6ae54efe6:c001:e002:d721c06b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Probing questions used by agents can effectively shift perspectives during discussions of pricing strategies.",
+      "qualification": "This finding is derived from observations only, without supporting empirical data.",
+      "support_ids": [
+        "youtube-transcripts-02-yaml-c6ae54efe6:c002:e002:dd4199c1"
+      ]
+    }
+  ]
+}

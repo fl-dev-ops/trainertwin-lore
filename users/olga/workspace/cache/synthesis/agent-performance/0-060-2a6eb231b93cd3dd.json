@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is considered a challenging yet crucial task in the agent performance process.",
+      "qualification": "The evidence is self-reported and may not reflect all agents' experiences.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s48-yaml-c6e88915b3:c001:e005:3b26f707",
+        "youtube-shorts-run-transcripts-s57-yaml-c609fa1253:c001:e002:6cb9ecee"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents frequently encounter the objection of clients already working with others within the same company, and turning these situations into opportunities is part of effective objection handling.",
+      "qualification": "Observational evidence may not account for all types of objections an agent might face.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s49-yaml-76fccdeadc:c001:e001:a423f066",
+        "youtube-shorts-run-transcripts-s49-yaml-76fccdeadc:c001:e004:7d1a8924"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales coaching for agents can include psychological aspects beyond just real estate knowledge.",
+      "qualification": "This statement is reliant on self-reported experiences and might not apply universally.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s50-yaml-3b10472baf:c001:e003:716ccbbd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client motivations for statements like 'I'm just looking' helps in converting these opportunities into sales deals.",
+      "qualification": "Advised evidence might suggest best practices but not guaranteed outcomes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s53-yaml-2fa40f95a0:c001:e002:929f08e8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate success is attributed more to personality traits than skills or experience.",
+      "qualification": "Self-reported belief, lacking empirical backing and potentially subjective.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s57-yaml-c609fa1253:c001:e001:8cd0404b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are advised to finish each client communication by establishing the next step to maintain momentum in the sales process.",
+      "qualification": "Advice relies on the assumption that linking conversations improves conversion without specific data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s56-yaml-d8e24cc61a:c001:e001:2194bcc5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Discussing budget with clients can be sensitive, and agents often prefer building comfort before broaching the subject.",
+      "qualification": "Reported observations do not provide consensus or account for all client-agent dynamics.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s55-yaml-056df2a778:c001:e001:a016a56a",
+        "youtube-shorts-run-transcripts-s55-yaml-056df2a778:c001:e003:428c33a0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Logical explanations of market statistics may not be convincing to clients without emotional appeal or personal relevance.",
+      "qualification": "Observed evidence may not apply to clients who are more data-driven in their decision-making.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s56-yaml-d8e24cc61a:c001:e004:f564e545"
+      ]
+    }
+  ]
+}

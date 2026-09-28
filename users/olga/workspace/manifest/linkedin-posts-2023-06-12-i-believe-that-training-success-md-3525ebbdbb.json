@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2023-06-12-i-believe-that-training-success-md-3525ebbdbb-515cbc3a675c6e68.jsonl",
+  "external_id": "7074051956910043137",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:17:39Z",
+  "metadata_hash": "f13fb140a87284d2606194f7a7d367e5dbab432b3fa7346be1d25f02d7d0ae98",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-06-12T15:56:56.057000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-06-12-i-believe-that-training-success.md",
+  "source_sha256": "870fbd8bd8765b39681a84ad0ff1074b2d77e556bc3d211ccd4411a136e708af",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestraining-training-success-activity-7074051956910043137-9mL9"
+}

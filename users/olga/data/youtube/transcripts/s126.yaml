@@ -1,0 +1,40 @@
+id: s126
+title: She Was About to Give Up. Then Everything Changed
+date: '2026-01-28'
+source: She Was About to Give Up. Then Everything Changed
+audio_file: She Was About to Give Up. Then Everything Changed [T9AFsd34H_A].mp3
+duration: "00:00:57"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+- '2'
+counts:
+  raw_entries: 5
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    there were moments where she was about to give up because she it felt like she did everything she
+    could. She dedicated herself to her career. Her Saudi her family is in Saudi. She's flying in to Dubai,
+    working here, and then flying back to Saudi. She spent money for coaching. She she'd done everything
+    I told her and then nothing has happened.
+- t: "00:00:19"
+  speaker: '2'
+  text: >-
+    It was a change of my mentality as well, like a change from a tour guide to actually a person who
+    is selling. But selling not like a frontal sale, like we won't buy this project, it's the best one.
+- t: "00:00:22"
+  speaker: '1'
+  text: >-
+    like a change
+- t: "00:00:33"
+  speaker: '1'
+  text: >-
+    hmm
+- t: "00:00:33"
+  speaker: '2'
+  text: >-
+    you kind of go through questions, you try to understand the client, you try to understand what their
+    needs are. And as you said, you're like a doctor. Don't be afraid of questions, just like go ahead
+    and as a doctor, you're helping them. And I found myself not as a person who is trying to sell anything,
+    but a person who is actually doing good for them.

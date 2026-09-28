@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2024-05-09-do-you-really-understand-your-md-90af976bf9-f766b0931f0c5fa2.jsonl",
+  "external_id": "7194316432019513344",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:54:19Z",
+  "metadata_hash": "3a3e46a78b9144ea4cd4b4812f56b7c6d6aad5e4b9fca2f1e011e25e0431182c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-05-09T12:45:01.329000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-05-09-do-you-really-understand-your.md",
+  "source_sha256": "3a92574b5252022a9bc462e13380fc278146a1609c6e59037ad826a0b919f137",
+  "source_url": "https://www.linkedin.com/posts/olgasi_do-you-really-understand-your-clients-the-activity-7194316432019513344-IKo0"
+}

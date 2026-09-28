@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "you have to think in a different way. Why? What is it in this for him?",
+      "statement": "Offer value in terms of admin tasks and social media support to a mentor.",
+      "topic": "mentorship strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "offer him, I'm so sorry, that's what I would do, fifty percent on your deals",
+      "statement": "Propose a 50% commission split while being trained by a mentor.",
+      "topic": "commission structure",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "that's almost the same that I did when I was starting my career in Dubai real estate 11 years ago.",
+      "statement": "I did a similar commission split when starting in Dubai real estate.",
+      "topic": "career beginnings",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Advice on getting mentorship in real estate from successful agents."
+}

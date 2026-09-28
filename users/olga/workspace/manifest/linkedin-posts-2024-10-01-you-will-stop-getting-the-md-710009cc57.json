@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-10-01-you-will-stop-getting-the-md-710009cc57-05074b1109025f59.jsonl",
+  "external_id": "7246855397318250498",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:33:38Z",
+  "metadata_hash": "7d6b539c5b8bc5b01d8e8e469109221f3fd088f7edf873390e193e9a1af43c91",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-10-01T12:16:06.783000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-10-01-you-will-stop-getting-the.md",
+  "source_sha256": "469291b064ba18b08d92bb10d149a335e6cf69f9a7c4f8d03b83646e61d839ad",
+  "source_url": "https://www.linkedin.com/posts/olgasi_overcomingobjections-realestatesales-dubairealestate-activity-7246855397318250498-rRlS"
+}

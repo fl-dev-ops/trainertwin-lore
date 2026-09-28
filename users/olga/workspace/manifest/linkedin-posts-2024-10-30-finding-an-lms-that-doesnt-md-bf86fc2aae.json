@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-10-30-finding-an-lms-that-doesnt-md-bf86fc2aae-f63cf1a9ffca5224.jsonl",
+  "external_id": "7257239818085027840",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:34:33Z",
+  "metadata_hash": "be0cbb7800801aba03a9ffa00374fa9fd2ed59c91198d771cfa2592920880bb0",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-10-30T04:00:05.627000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-10-30-finding-an-lms-that-doesnt.md",
+  "source_sha256": "9cf45f5ac9900833a7c8299aa08205badbadbe21033113a44789e6b8bbef13c0",
+  "source_url": "https://www.linkedin.com/posts/olgasi_hrinnovation-aifuture-realestatetraining-activity-7257239818085027840-P8gg"
+}

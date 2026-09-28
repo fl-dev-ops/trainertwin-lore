@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I explained the psychology behind every Sales Process.",
+      "statement": "the psychology behind every Sales Process is explained in the training",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Watch now! https://lnkd.in/dGPtMXq3",
+      "statement": "a training session on sales processes is available to watch",
+      "topic": "training session",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post by user olgasi outlining a training session about sales processes."
+}

@@ -1,0 +1,64 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Individual mindset shifts are frequently implied to be a key component of career advancement, but sources often rely on self-reported or hypothetical evidence.",
+      "qualification": "This relies on individual narratives and hypothetical scenarios rather than empirical data, making it less verifiable.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s126-yaml-e58310a5f1:c001:e001:2e9abb6d",
+        "youtube-shorts-run-transcripts-s126-yaml-e58310a5f1:c001:e002:225932fd",
+        "youtube-shorts-run-transcripts-s126-yaml-e58310a5f1:c001:e003:7e171736"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging clients effectively is cited as crucial, focusing on building understanding rather than just persuasion, yet this is largely based on self-reported or advised claims.",
+      "qualification": "These findings lean heavily on anecdotal advice and self-reported success stories, limiting the empirical rigor.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s123-yaml-463ec29459:c001:e002:f9ddcef7",
+        "youtube-shorts-run-transcripts-s124-yaml-fbbadffa3e:c001:e001:32e01766",
+        "youtube-shorts-run-transcripts-s130-yaml-5314a1f442:c001:e002:a6243dc6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Daily activities such as cold calling are considered influential for short-term career success, but these views come from personal experiences shared in videos.",
+      "qualification": "The claim is anecdotal and stems from a motivational perspective rather than empirical research.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s125-yaml-08d5cdbb04:c001:e002:c9119bd0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients' perceptions can be influenced by clear and confident presentations as opposed to fear-based approaches, supported by self-reported feedback.",
+      "qualification": "The conclusion is based on the belief of the speaker rather than widespread evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s123-yaml-463ec29459:c001:e003:108937d8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Difficulty in convincing clients remains a persistent issue, as reported by individuals claiming that people resist persuasion that benefits others rather than themselves.",
+      "qualification": "The statement relies on observed beliefs rather than verified study outcomes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s130-yaml-5314a1f442:c001:e003:84f88813"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling client objections, cold calling, and using structured social media are suggested as critical skills for career advancement, but such advice lacks empirical backing.",
+      "qualification": "Recommendations are based on advice rather than empirically-supported methodologies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s129-yaml-ca76bf00b1:c001:e005:1c539ef7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement is highlighted as more effective through mutual challenges of perceptions rather than offering solutions directly.",
+      "qualification": "The findings are self-reported and hypothetical without independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s124-yaml-fbbadffa3e:c001:e004:145d7506"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "making Dubai particularly appealing for property investments",
+      "statement": "Dubai is appealing for property investments.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I teach agent On How to Sell Dubai",
+      "statement": "I teach agent On How to Sell Dubai.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "easiest place to grow your passive income in a tax free environment",
+      "statement": "Dubai offers a tax free environment for passive income growth.",
+      "topic": "investment opportunity",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing global cities as investment hubs, with a focus on Dubai."
+}

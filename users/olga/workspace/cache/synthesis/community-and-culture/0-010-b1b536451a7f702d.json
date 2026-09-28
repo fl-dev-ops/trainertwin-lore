@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Effort not seen does not equal lack of impact according to Olga's belief.",
+      "qualification": "This is self-reported evidence from a personal belief.",
+      "support_ids": [
+        "linkedin-posts-2025-06-20-no-one-saw-your-effort-md-cf2ae8ad5f:c001:e001:07e7fdaa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Shifting mindset is essential to improving objection handling in sales.",
+      "qualification": "The evidence is self-reported and hypothetical based on personal observations.",
+      "support_ids": [
+        "linkedin-posts-2025-07-07-dealing-with-a-buyers-pushbacks-md-65613f3758:c001:e003:fa353634"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Acknowledging harsh truths in business is part of Olga's training approach.",
+      "qualification": "This evidence is based on self-reported practices.",
+      "support_ids": [
+        "linkedin-posts-2025-07-11-is-it-current-market-is-md-5d8ee17d57:c001:e001:225aa707"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building a business involves creating a desired lifestyle rather than just closing deals.",
+      "qualification": "Self-reported and specific to the author’s personal perspective.",
+      "support_ids": [
+        "linkedin-posts-2025-08-11-august-almost-doesnt-feel-like-md-d66f5751cc:c001:e005:269a9727"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Thinking from a buyer's perspective can change decision-making processes.",
+      "qualification": "This is based on advice offered rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-08-21-first-i-want-you-to-md-f179197d31:c001:e001:e9d9d72c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Doubt is inherent in exploring new business territories.",
+      "qualification": "It's an observed statement rather than a verified fact.",
+      "support_ids": [
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e004:a6b41625"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Readiness builds through action rather than as a prerequisite to starting a business.",
+      "qualification": "This is a self-reported belief.",
+      "support_ids": [
+        "linkedin-posts-2025-09-05-starting-your-business-before-you-md-50e5ac61e6:c001:e002:ef376c9a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent effort draws clients more effectively than waiting for a perfect strategy.",
+      "qualification": "The statement is self-reported and part of personal advice.",
+      "support_ids": [
+        "linkedin-posts-2025-09-05-starting-your-business-before-you-md-50e5ac61e6:c001:e004:b9ac638a"
+      ]
+    }
+  ]
+}

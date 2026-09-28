@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Pocket Listings often stay pocket listings till Sold by someone else.",
+      "statement": "Pocket Listings often stay pocket listings till Sold by someone else.",
+      "topic": "pocket listings",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I share mine on weekly training in Chestertons MENA.",
+      "statement": "I share mine on weekly training in Chestertons MENA.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Pocket Listings won’t magically turn into signed contracts, no matter how many times you call or ask the owner to give you the listing.",
+      "statement": "Pocket Listings won’t magically turn into signed contracts, no matter how many times you call or ask the owner to give you the listing.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What’s your recipe for turning Pocket Listings into signed agreements?",
+      "statement": "What’s your recipe for turning Pocket Listings into signed agreements?",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing Pocket Listings in real estate."
+}

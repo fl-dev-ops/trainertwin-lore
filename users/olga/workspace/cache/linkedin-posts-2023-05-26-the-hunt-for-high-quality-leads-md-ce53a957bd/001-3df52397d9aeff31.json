@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Do you often find yourself frustrated with the leads provided by your company?",
+      "statement": "agents often express frustration with the leads provided by their company",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "there's a prevalent notion that somewhere out there lies a company with a secret stash of high-quality leads.",
+      "statement": "there is a prevalent belief that a company has a stash of high-quality leads",
+      "topic": "professional services",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "In truth, all companies in Dubai have leads of SIMILAR quality, but what is different is the Set of skills",
+      "statement": "in Dubai, companies have leads of similar quality",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "don't underestimate their potential! With the right mindset, a strategic follow-up system, and exceptional communication skills.",
+      "statement": "agents should focus on nurturing leads sourced from social media",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "it's not What you Say it's HOW you Say that!",
+      "statement": "agents should redefine success based on their skills and participation",
+      "topic": "sales training",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post discussing the importance of quality leads and skills in sales performance."
+}

@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales processes that are outdated and fail to effectively move leads through the sales stages can result in missed opportunities.",
+      "qualification": "This is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e002:c21cdb06"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Assuming a prospect's financial capability without direct communication can hinder successful sales engagements.",
+      "qualification": "Observation and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a:c001:e001:20ad30c0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fear of failure and waiting for certainty can impede business actions.",
+      "qualification": "It's advised generally for mindset development.",
+      "support_ids": [
+        "linkedin-posts-2024-08-27-waiting-for-certainty-most-people-md-c105671be8:c001:e005:7a330268",
+        "linkedin-posts-2024-08-27-waiting-for-certainty-most-people-md-c105671be8:c001:e003:a29e6bbe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The highest conversion rates observed in certain industries can be as low as 2%.",
+      "qualification": "Self-reported data and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e001:a8c17173"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Comprehensive sales processes can sustain client engagement beyond just closing contracts.",
+      "qualification": "Based on self-reported beliefs and not independently confirmed.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-ill-be-the-first-to-md-6ee40702d8:c001:e005:b2634199"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales teams lacking in skill and technical knowledge hinder effective online selling.",
+      "qualification": "This is self-reported and context-specific.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e003:6934de23"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Simple and strategic step-by-step sales processes are advocated for their effectiveness.",
+      "qualification": "It's a self-reported strategy without independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-ill-be-the-first-to-md-6ee40702d8:c001:e002:b1b97446"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investments in social media leads can cost between 100 and 150 dirhams per lead.",
+      "qualification": "Observed data, not independently verified and context-specific.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e001:eb030a66"
+      ]
+    }
+  ]
+}

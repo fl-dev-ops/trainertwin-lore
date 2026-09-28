@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-12-01-why-your-clients-only-want-md-a13de02c6f-bea7ed4247d5eb25.jsonl",
+  "external_id": "7401269737223131136",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:59:50Z",
+  "metadata_hash": "979685b176e16d0ec454cd5489b102827d2d07ee3f89b1e557799c25ed3fcada",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-01T14:43:34.296000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-01-why-your-clients-only-want.md",
+  "source_sha256": "e72760799d85f550656f20a6c9ae31c6c0b50976a9dddd43d4fa04cb9db16996",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-dubairealestatecoach-sellingindubai-activity-7401269737223131136-8KSV"
+}

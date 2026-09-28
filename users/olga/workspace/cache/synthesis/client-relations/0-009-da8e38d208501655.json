@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "To engage clients effectively, it is important to encourage them to take action themselves, rather than doing the work for them.",
+      "qualification": "This evidence is self-reported and reflects a personal perspective on client engagement.",
+      "support_ids": [
+        "linkedin-posts-2024-02-06-this-one-time-you-can-md-fe1810458a:c001:e001:1f08b761"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building and maintaining strong relationships with clients is crucial for their satisfaction and retention.",
+      "qualification": "Self-reported observation in the context of real estate sales.",
+      "support_ids": [
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e005:bac0493f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging positively with clients can mitigate doubts about their seriousness in the sales process.",
+      "qualification": "This belief is hypothetical and not verified through client feedback.",
+      "support_ids": [
+        "linkedin-posts-2024-02-23-what-should-we-know-about-md-2f2f121b56:c001:e001:f71e2d6b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales resistance has a direct impact on an individual's sales performance.",
+      "qualification": "This information is self-reported and may not capture broader sales dynamics.",
+      "support_ids": [
+        "linkedin-posts-2024-03-05-my-own-sales-tricks-grab-md-d4af296ae1:c001:e001:039967e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Leveraging social media, such as YouTube and client reviews, can facilitate client acquisition without traditional meetings or demos.",
+      "qualification": "The claim is self-reported and lacks external validation from other client interactions.",
+      "support_ids": [
+        "linkedin-posts-2024-03-22-have-you-seen-that-black-md-e3b1fef0d4:c001:e001:d2715d2f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Advanced questioning techniques can help foster deeper connections with clients and guide them towards making the right decisions.",
+      "qualification": "This statement is based on personal experience and may not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2024-02-13-how-can-you-push-how-md-92fb8a6280:c001:e001:1f08b761"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The perception of how sales are viewed by the general public varies, indicating diverse opinions that may affect engagement strategies.",
+      "qualification": "This reflection is based on observed interactions and subjective views.",
+      "support_ids": [
+        "linkedin-posts-2024-03-26-what-does-the-general-public-md-04c7067b87:c001:e001:4ec7be97"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The role of a sales agent is not suitable for individuals who are passive and wait for clients to initiate contact.",
+      "qualification": "This belief reflects a personal view and may not represent the varied dynamics of client interactions.",
+      "support_ids": [
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e005:bac0493f"
+      ]
+    }
+  ]
+}

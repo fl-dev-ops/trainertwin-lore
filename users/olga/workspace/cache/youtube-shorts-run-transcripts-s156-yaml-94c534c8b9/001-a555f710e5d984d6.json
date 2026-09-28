@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "stability of economy means diversification within different sectors. So not only real estate, tourism, trade.",
+      "statement": "stability of economy means diversification within different sectors",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "we're bringing up the first casino in the region and I don't want to say it's doesn't matter that it's not in Dubai.",
+      "statement": "the first casino in the region will be established",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Short transcript discussing the economic landscape in Dubai."
+}

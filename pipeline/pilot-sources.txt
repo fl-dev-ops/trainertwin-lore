@@ -1,0 +1,28 @@
+# Curated chronology preview, 2026-09-25. Not a complete posting history.
+# X replies are being checked; this snapshot contains two available original posts.
+youtube/transcripts/01.yaml
+youtube/transcripts/06.yaml
+youtube/transcripts/08.yaml
+youtube/transcripts/17.yaml
+youtube/transcripts/23.yaml
+youtube/transcripts/34.yaml
+youtube/transcripts/45.yaml
+youtube/transcripts/55.yaml
+youtube/transcripts/73.yaml
+youtube/transcripts/76.yaml
+youtube/transcripts/94.yaml
+youtube/transcripts/101.yaml
+linkedin/posts/2026-01-07-how-i-book-meetings-from.md
+linkedin/posts/2026-01-19-why-i-never-tell-clients.md
+linkedin/posts/2026-02-03-why-your-dead-lead-database.md
+linkedin/posts/2026-03-02-after-11-years-in-dubai.md
+linkedin/posts/2026-04-03-do-you-know-what-really.md
+linkedin/posts/2026-04-15-training-from-me-plus-leads.md
+linkedin/posts/2026-05-27-if-you-have-a-wrong.md
+linkedin/posts/2026-06-15-1---that-was-the.md
+linkedin/posts/2026-08-20-whom-do-you-think-you.md
+linkedin/posts/2026-08-25-dubai-agents-are-scammers-a.md
+linkedin/posts/2026-09-08-how-do-you-change-your.md
+linkedin/posts/2026-09-21-which-problem-do-you-solve.md
+twitter/tweets/2026-08-27-two-ways-dubai-prop-tech-startup.md
+twitter/tweets/2026-09-23-in-dubai---september-2025.md

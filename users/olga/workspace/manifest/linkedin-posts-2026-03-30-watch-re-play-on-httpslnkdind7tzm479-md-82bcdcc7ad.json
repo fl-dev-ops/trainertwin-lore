@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-03-30-watch-re-play-on-httpslnkdind7tzm479-md-82bcdcc7ad-98949bc21f7577b9.jsonl",
+  "external_id": "7444360665051602944",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:06:26Z",
+  "metadata_hash": "1c5daee6d910d350f3410896e6e1b0000bdde32c4f7cae2bb95b0950abf90e70",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-30T12:31:32.081000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-30-watch-re-play-on---httpslnkdind7tzm479.md",
+  "source_sha256": "ab2f4240448b4bd5f55cb0d3993928abc2388f7523b152271a467dd4fc7787b7",
+  "source_url": "https://www.linkedin.com/posts/olgasi_if-you-feel-lost-and-demotivated-deal-are-activity-7444360665051602944-68jL"
+}

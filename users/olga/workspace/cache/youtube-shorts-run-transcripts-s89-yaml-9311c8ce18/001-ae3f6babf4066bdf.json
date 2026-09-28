@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "My name is Olga Semenka and I'm a real estate sales trainer. ",
+      "statement": "My name is Olga Semenka and I'm a real estate sales trainer.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "support Telegram community, strong in sales, where we do weekly live Q and A's and I'm sharing the strategies and teaching you how to pivot on what is really working in Dubai real estate.",
+      "statement": "I'm inviting you to join my support Telegram community, strong in sales.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "...you feel that you don't know what to say to the clients, your deals are falling apart, and you are not certain how to pivot...",
+      "statement": "In times of uncertainty, agents may feel unsure about strategies that will work.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Transcript from a real estate sales training video on engaging clients and strategies in Dubai's market."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2023-12-26-dos-and-donts-on-a-md-1175dc417e-d08023ea7584361b.jsonl",
+  "external_id": "7145397861487218689",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:20:18Z",
+  "metadata_hash": "d5ba2870834dcce7dd89c335f7006219c5441ab70a73dbccd13f654df0ae720c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-12-26T13:00:05.251000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-12-26-dos-and-donts-on-a.md",
+  "source_sha256": "8a8ec4a2c8f9bc0a2c2a26379a368d1e36d9d7bd12c7d965ca309d7aba9cbe85",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salescoaching-dubairealestate-salescareer-activity-7145397861487218689-mn-Y"
+}

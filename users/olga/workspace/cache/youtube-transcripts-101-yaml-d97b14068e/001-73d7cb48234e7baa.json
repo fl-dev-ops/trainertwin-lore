@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "do not learn them just from repetition, you do not learn them from just watching...",
+      "statement": "You do not learn [sales skills] just from repetition, you do not learn them from just watching the video, you do not learn them exercising with the actual customers where you are in the stressful situation.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "narrow emotional persuasion when I was in Jeremy Minor coaching program...",
+      "statement": "That's exactly how I learned narrow emotional persuasion when I was in Jeremy Minor coaching program in twenty twenty three.",
+      "topic": "personal background",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "that there is no uncertainty, there is no situation that you cannot deal...",
+      "statement": "Proficiency in sales, sales conversation, means that there is no uncertainty, there is no situation that you cannot deal with because you faced this situation in the past.",
+      "topic": "sales performance",
+      "unit_id": "u000011"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "how to ask the right questions and which questions of course to ask.",
+      "statement": "You just have to know how to ask the right questions and which questions of course to ask.",
+      "topic": "closing techniques",
+      "unit_id": "u000008"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "if you're thinking of doing it with your team or yourself or...",
+      "statement": "If you are thinking of doing it with your team or yourself or with your friend, think that constructive feedback panel is someone who is supervisor in what's going on.",
+      "topic": "client interaction",
+      "unit_id": "u000009"
+    },
+    {
+      "context": "observed",
+      "kind": "case_study",
+      "quote": "role play of two agents from my coaching program.",
+      "statement": "I'm going to show you a role play of two agents from my coaching program.",
+      "topic": "role play",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "understand about the client. Why he inquired. What is his problem?",
+      "statement": "You have to understand about the client. Why he inquired. What is his problem?",
+      "topic": "mindset shift",
+      "unit_id": "u000030"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "responded to one of the ads and asked us to call you back.",
+      "statement": "Instead of this, you can say, hi, is this Usman? Yes, Usman. Usman, is it just Olga? It looks like you responded to one of the ads and asked us to call you back.",
+      "topic": "sales strategy",
+      "unit_id": "u000028"
+    }
+  ],
+  "overview": "YouTube video transcript discussing sales techniques for real estate agents."
+}

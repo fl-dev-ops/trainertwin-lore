@@ -1,0 +1,24 @@
+id: s17
+title: Ask this Question See how the Client will sell Himself
+date: '2025-09-05'
+source: Ask this Question See how the Client will sell Himself
+audio_file: Ask this Question See how the Client will sell Himself [Gwm0SPox9CE].mp3
+duration: "00:00:32"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 2
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    I will give you the exact structure of what should be in your online presentation, at least in the
+    first one, so you will be able to kind of channel down the client into his decision making process
+    into the closing the deal. And my first and foremost favorite, the budget. The next one, decision
+    making process, time frame for investment and the plastic speeding. Saying this, the most important
+    is...
+- t: "00:00:29"
+  speaker: '1'
+  text: >-
+    Why they decided to invest

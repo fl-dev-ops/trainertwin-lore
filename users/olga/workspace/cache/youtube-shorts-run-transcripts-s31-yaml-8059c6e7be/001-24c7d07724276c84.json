@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Do I feel discomfort? Do I feel that I need to sit?",
+      "statement": "Discomfort may motivate a change in situation.",
+      "topic": "personal growth",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Will I feel the need to change my situation?",
+      "statement": "Uncomfortable situations can lead to a need for action or change.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Transcript from a discussion on discomfort in sales strategies and investment decisions."
+}

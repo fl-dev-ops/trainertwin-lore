@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The success of smaller real estate developers in Dubai depends on partnerships with master developers.",
+      "qualification": "This observation is limited to the context of the Dubai real estate market and lacks broader empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s177-yaml-7fbcc4a1d5:c001:e004:49ec8e3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Products from smaller developers in Dubai are deemed unsellable without partnerships.",
+      "qualification": "The finding is specific to the regional context and does not have generalized support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s177-yaml-7fbcc4a1d5:c001:e005:1a7f6f4a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a market shift in Dubai real estate focusing towards smarter investors following the struggles of smaller developers.",
+      "qualification": "This insight is based on the perceived market trends in a specific geographical location and timeframe without triangulation from multiple sources.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s177-yaml-7fbcc4a1d5:c001:e006:52713cf2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A mindset shift can help in handling career or personal crises by accepting challenges and gaining new skills.",
+      "qualification": "Self-reported content suggests a method for personal development rather than empirically validated data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s179-yaml-ab1c501906:c001:e004:1c3d225f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fear and panic are noted among buyers, sellers, and agents in the Dubai real estate market.",
+      "qualification": "The statement describes a specific regional sentiment without comprehensive evidential support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s180-yaml-e28c846232:c001:e002:2635212e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Staying strong and united with future goals is emphasized as vital in times of uncertainty.",
+      "qualification": "This is a subjective belief and may not reflect widely applicable advice.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s180-yaml-e28c846232:c001:e003:27d985f6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The querying of delayed construction by clients implies an underlying backstory or concern impacting engagement.",
+      "qualification": "The observation is contextually tied to specific client interactions and lacks generalized validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s181-yaml-8c14305bec:c001:e001:7466cd2c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some developers attempt to attract clients by offering significant discounts despite risks.",
+      "qualification": "The statement reflects current market strategies but lacks longitudinal evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s181-yaml-8c14305bec:c001:e003:e157a6cb"
+      ]
+    }
+  ]
+}

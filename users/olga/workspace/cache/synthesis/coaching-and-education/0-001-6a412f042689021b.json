@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A business education program charged participants $4,000 each, attracting 670 people, indicating substantial interest and investment in social media marketing training.",
+      "qualification": "The number of participants and the amount charged is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-04-24-monday-is-a-day-of-md-16edbb190e:c001:e003:3c80e646"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a focus on mindset reprogramming in private coaching to help clients overcome objections, suggesting a psychological approach to sales training.",
+      "qualification": "This is based on self-reported methods and may not reflect traditional coaching techniques.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e004:0e7e4510"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The coach has been involved with Ray White International's sales team for nearly a year, indicating a longer-term relationship with significant sales organizations.",
+      "qualification": "This is self-reported and specific impacts or achievements are not verified.",
+      "support_ids": [
+        "linkedin-posts-2024-06-19-hiring-just-3-new-agent-md-823ea01cdf:c001:e002:915d828d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Plans to launch a coaching program for transitioning agents into training roles are mentioned, highlighting a niche focus on career advancement within sales.",
+      "qualification": "The program is proposed and may not yet be operational or evaluated.",
+      "support_ids": [
+        "linkedin-posts-2025-01-21-would-you-consider-becoming-a-md-85ff284ff2:c001:e003:abd133c5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Interest in coaching programs tailored for agency owners and aimed at building high-performance teams suggests a strategic shift towards leadership development.",
+      "qualification": "This offering is advertised, but implementation and outcomes are not confirmed.",
+      "support_ids": [
+        "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b:c001:e006:2f32ee17"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Olga Semenenko claims to have coached 2000 agents on improving their sales strategies, indicating a broad reach and potential influence in the field.",
+      "qualification": "Self-reported figure is not independently verified or broken down by results.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e001:d2e23c85"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investment in coaching is advocated as a significant factor for success, often linked to personal growth and skill enhancement.",
+      "qualification": "This reflects common coaching rhetoric and outcomes can vary widely by individual.",
+      "support_ids": [
+        "linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7:c001:e004:6adc2018",
+        "youtube-shorts-run-transcripts-s43-yaml-5402d50876:c001:e002:878810fa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An active presence on social media platforms like LinkedIn is used to promote coaching sessions and programs, indicating a marketing strategy that utilizes digital reach.",
+      "qualification": "The effectiveness of these promotional efforts in terms of client acquisition is not detailed.",
+      "support_ids": [
+        "linkedin-posts-2025-11-27-your-financial-stress-is-making-md-35acbeaefb:c001:e005:b996305f"
+      ]
+    }
+  ]
+}

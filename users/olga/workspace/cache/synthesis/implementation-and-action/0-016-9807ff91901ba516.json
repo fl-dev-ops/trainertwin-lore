@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies should focus on understanding clients rather than just pushing for a sale.",
+      "qualification": "This conclusion is drawn from advice, which may reflect the author's personal approach.",
+      "support_ids": [
+        "linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a:c001:e003:2708e016"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Not optimizing a sales system for an online environment results in missed opportunities.",
+      "qualification": "This is presented as a fact claim but lacks independent evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-09-03-whats-missing-in-your-sales-md-d4d6a54ae6:c001:e001:4b2f0b64"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is intense pressure in commission-only real estate roles, making detachment from sales outcomes challenging.",
+      "qualification": "The statement is self-reported and may reflect one individual's perspective.",
+      "support_ids": [
+        "linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a:c001:e001:250de051",
+        "linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a:c001:e004:df3170e8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Informative and empowering processes are key to effective sales systems.",
+      "qualification": "This comes from an offering, which is potentially self-serving.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e006:9bc3d36e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Managers can be resistant to change but conversions can improve significantly through new strategies.",
+      "qualification": "The case presents successful outcomes but is self-reported and lacks independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e001:3318a214",
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e004:ae5185e8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Conversions suffer if leads are not adequately nurtured or an online sales framework is not utilized.",
+      "qualification": "Limited to observed experiences without third-party validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-03-whats-missing-in-your-sales-md-d4d6a54ae6:c001:e001:4b2f0b64",
+        "linkedin-posts-2024-09-03-whats-missing-in-your-sales-md-d4d6a54ae6:c001:e002:510939b1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There are learning opportunities in recognizing and correcting past mistakes in sales strategies.",
+      "qualification": "This is based on self-reported advice without external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e003:0cf9399e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rethinking strategy rather than increasing spending can be crucial for converting sales leads.",
+      "qualification": "The advice requires contextual consideration beyond individual experiences.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e005:0a4b7e43"
+      ]
+    }
+  ]
+}

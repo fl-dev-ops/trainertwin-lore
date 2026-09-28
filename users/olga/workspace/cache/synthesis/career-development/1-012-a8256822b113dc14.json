@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Founders in the PropTech space may lack understanding of market needs, suggesting a gap in effective product development.",
+      "qualification": "The observation is self-reported and anecdotal in nature.",
+      "support_ids": [
+        "linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb:c001:e003:9d5c5dbb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Proper customer development with market insiders is advised for successful business operations.",
+      "qualification": "This advice is conceptual and not tested through empirical study.",
+      "support_ids": [
+        "linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb:c001:e004:0a49a62d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Controlling one's focus and emotional state is considered a practical life skill for personal growth and career development.",
+      "qualification": "This finding is based on self-reported advice without empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e003:03407cb2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement is highlighted as more effective through mutual challenges of perceptions rather than offering solutions directly.",
+      "qualification": "The findings are self-reported and hypothetical without independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s124-yaml-fbbadffa3e:c001:e004:145d7506"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In uncertain times, focusing on solving valuable problems is suggested as a method for career resilience.",
+      "qualification": "The evidence relies on hypothetical advice which is not empirically tested.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s141-yaml-01d68cfba7:c001:e001:d08abe72",
+        "youtube-shorts-run-transcripts-s141-yaml-01d68cfba7:c001:e002:7bdfc625"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real coaching may be more effective than online self-help for career development, but the evidence is anecdotal.",
+      "qualification": "Anecdotal perspective without empirical data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s146-yaml-bd9ba63417:c001:e003:be156443"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Frustration with AI-generated communications indicates a desire for more meaningful interactions in professional correspondence.",
+      "qualification": "The finding is based on personal frustration and self-reflection.",
+      "support_ids": [
+        "linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:c001:e001:45fbf61a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset plays a crucial role in career development and perceived success.",
+      "qualification": "The claim is anecdotal and based on individual perception.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s106-yaml-3f94e9436b:c001:e001:7de0e0e3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2023-06-20-can-you-recommend-a-good-md-2e602f88fb-f08e0d0ab05c9005.jsonl",
+  "external_id": "7076893146168606721",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:17:44Z",
+  "metadata_hash": "8281cfeb5bce12cf952edbfb7cb2ccc0afbb21cccbd349bc88fd7571de9efd41",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-06-20T12:06:48.363000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-06-20-can-you-recommend-a-good.md",
+  "source_sha256": "925e60b31c9980ba04143997defbed6c3f23f0f51de1e086dab7149ce8f6377b",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestate-sales-dubairealestatemarket-activity-7076893146168606721-h9uZ"
+}

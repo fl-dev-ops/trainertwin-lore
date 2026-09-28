@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2023-08-30-your-current-skill-set-got-md-71d06d958c-4fabc5a08ad41416.jsonl",
+  "external_id": "7102680775719800832",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:14:57Z",
+  "metadata_hash": "3a975ae6eff0c528071a5c71d600d02a2deb0bad4ea8c0da6a746c88e5b906a8",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-30T15:57:38.359000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-30-your-current-skill-set-got.md",
+  "source_sha256": "6f0f29608932e967976fc2bd76a9250b524b279464ce2bc87807dfc386a230b3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_highincomeskills-realestatesales-activity-7102680775719800832-RD7m"
+}

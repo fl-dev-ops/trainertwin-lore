@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "holding your phone on on the level of your face, not down, not hiding in the middle",
+      "statement": "Hold your phone at the level of your face, not down, not hiding.",
+      "topic": "public speaking",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "tell your audience that you will demonstrate their emotion. just with your face.",
+      "statement": "Demonstrate an emotion with your face and ask the audience to guess which one it is.",
+      "topic": "emotion demonstration",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "you can use the quiz um interaction tool which is an Instagram story. and uh and just improvise.",
+      "statement": "Use the quiz interaction tool on Instagram stories for audience engagement.",
+      "topic": "audience interaction",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "This source chunk provides instructions for a task related to building camera confidence in public speaking, along with suggestions for audience interaction."
+}

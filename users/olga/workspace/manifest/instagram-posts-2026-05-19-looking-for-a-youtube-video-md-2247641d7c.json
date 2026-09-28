@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "instagram-posts-2026-05-19-looking-for-a-youtube-video-md-2247641d7c-5806d167d28ab96a.jsonl",
+  "external_id": "3900271219921191138",
+  "extraction_signature": "9e7f3649ad77b0ba65dcc16d2c8baa3c2ddc8e108051a2043f4e4b19f047f3a9",
+  "ingested_at": "2026-09-27T20:19:09Z",
+  "metadata_hash": "862280a1ddb69291b44419c4782ad7698ae2fe19ceb0e2cb91924caf86c72fe1",
+  "model": "openai/gpt-4o",
+  "published_at": "2026-05-19T05:29:51Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2026-05-19-looking-for-a-youtube-video.md",
+  "source_sha256": "1aeed536796ad13052f191d4c6409974f5f4b7dc84be075beefdd894ea73bd9a",
+  "source_url": "https://www.instagram.com/p/DYgjAKPFQDi/"
+}

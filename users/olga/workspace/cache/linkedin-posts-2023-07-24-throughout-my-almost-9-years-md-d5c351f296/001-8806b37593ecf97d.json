@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Throughout my almost 9 years in the industry, one of the greatest benefits has been the opportunity to work with top professionals like Mario Volpi.",
+      "statement": "One of the greatest benefits has been the opportunity to work with top professionals",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Mario is renowned as one of the top 20 most influential professionals in the Dubai Real Estate industry.",
+      "statement": "Mario Volpi is renowned as one of the top 20 most influential professionals in the Dubai Real Estate industry.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "But his real superpower is to lead and empower his teams.",
+      "statement": "Mario's real superpower is to lead and empower his teams.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Im sure my ex-colleagues can agree on that!",
+      "statement": "I believe my ex-colleagues can agree on Mario's leadership qualities.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post reflecting on professional experiences and acknowledgments in the real estate industry."
+}

@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "...the future you envision actually drives your actions in the present.",
+      "statement": "The future you envision actually drives your actions in the present.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "...it’s so important to regularly spend time thinking about the future you want to create.",
+      "statement": "Regularly spend time thinking about the future you want to create.",
+      "topic": "personal growth",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Try this: Take a moment to imagine your life five years from now.",
+      "statement": "Imagine your life five years from now to clarify your path forward.",
+      "topic": "goal setting",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The clearer your vision of the future, the more it influences the decisions you make today.",
+      "statement": "The clearer your vision of the future, the more it influences your present decisions.",
+      "topic": "decision-making",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "Focus on the impact you want to have, and let that vision of the future guide your actions in the present.",
+      "statement": "Focus on the impact you want to have, and let that vision guide your actions.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What does your ideal day look like? Where do you wake up?",
+      "statement": "Spend time assessing what your ideal life looks like.",
+      "topic": "life reflection",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn Post discussing the importance of future vision for present actions."
+}

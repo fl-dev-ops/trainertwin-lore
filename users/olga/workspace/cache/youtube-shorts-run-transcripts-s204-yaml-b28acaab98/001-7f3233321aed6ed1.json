@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "And people are from outside looking in real estate, they think, well, it's just such an easy thing. I can do that. I like properties.",
+      "statement": "People believe real estate is an easy field to enter just because they like properties.",
+      "topic": "misconceptions in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Can you please save my number? Whatever you need to buy or sell, please call me.",
+      "statement": "Real estate agents often ask potential clients to save their contact information for future deals.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "How many of those are actually calling you back?",
+      "statement": "Most potential clients do not respond or call back after being contacted by real estate agents.",
+      "topic": "client quality",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "We value what we own, what is us, what we we have, is way more than something that we don't own yet.",
+      "statement": "People typically value their own property significantly more than properties they do not own.",
+      "topic": "value perception",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "This source chunk contains insights about common misconceptions in real estate and client engagement strategies from a video transcript."
+}

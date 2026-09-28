@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-04-09-selling-off-plan-to-international-client-md-1d6b445dfe-8113e363defa9ccb.jsonl",
+  "external_id": "7315588022085783553",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:41:19Z",
+  "metadata_hash": "38413f2bdcc8fbbe9464c62f70be8648bbe985ccc8b2721d0474fa2273c6a64f",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-09T04:15:01.518000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-09-selling-off-plan-to-international-client.md",
+  "source_sha256": "7157d1df1f7a4451bd660aef3bd0f728fac1b28ff5b35d2f65e0e91af3bf2436",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalesmentordubai-offplandubai-internationalclientsrealestate-activity-7315588022085783553-E-WK"
+}

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "You’re doing everything — so why are the results still… meh? • You’re showing listings, following up, always “available” • You send options. You answer quickly. You try hard • But the client ghosts anyway.",
+      "statement": "Clients often ghost despite frequent follow-ups and quick responses.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "It’s not a lack of effort. It’s a lack of clarity.",
+      "statement": "Lack of effort is not the issue; rather, the lack of clarity in sales strategy is the problem.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "It’s not about being “better.” It’s about knowing what actually works — and doing it consistently.",
+      "statement": "Agents should focus on knowing what actually works and doing it consistently.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "offering",
+      "quote": "Now imagine this: A 6-month real estate mentorship program — where I work directly with you on: • your client cases • your objections • your actual deals.",
+      "statement": "A 6-month mentorship program is proposed to help agents with client cases and objections.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "third_party",
+      "kind": "observed_behavior",
+      "quote": "Would you say yes? Drop a “+” if you’d be interested. Drop a “–” if you think that’s not fair.",
+      "statement": "Engagement is measured by asking readers to express interest using symbols (+ or -).",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post encouraging real estate agents to seek mentorship for better results."
+}

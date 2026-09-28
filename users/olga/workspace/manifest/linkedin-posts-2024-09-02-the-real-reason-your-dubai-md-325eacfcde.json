@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 9,
+  "evidence_file": "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde-1f616825a1c8d473.jsonl",
+  "external_id": "7236353440824606720",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:30:30Z",
+  "metadata_hash": "60769129125393851671457a0036410fcea7bee8bfb944c0acf4e8c0f0c3fe35",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-02T12:45:05.238000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-02-the-real-reason-your-dubai.md",
+  "source_sha256": "dc7f1b394ce606da98aa7b19a27b00859a894a7ed4f2031931fb80636cdbd1fe",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestatecoach-salestrainingdubai-realestatetraining-activity-7236353440824606720-y75f"
+}

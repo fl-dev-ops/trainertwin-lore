@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Vision of the future impacts present decisions.",
+      "qualification": "Self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb:c001:e004:f4f3aceb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset influences perception and subsequent emotions and actions.",
+      "qualification": "Observed claims, lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-10-02-your-mindset-creates-perception-percepti-md-fd33529736:c001:e001:1ea109f1",
+        "linkedin-posts-2024-10-02-your-mindset-creates-perception-percepti-md-fd33529736:c001:e002:eae3df58",
+        "linkedin-posts-2024-10-02-your-mindset-creates-perception-percepti-md-fd33529736:c001:e003:474ca369"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Strong mindset is needed to endure sales challenges.",
+      "qualification": "Hypothetical belief expressed by author.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-3-to-6-months-realistic-md-8d0ca6b52f:c001:e003:7fa06bef"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients care about results which impact their lives over merely properties.",
+      "qualification": "Advice format, self-reported by the author.",
+      "support_ids": [
+        "linkedin-posts-2024-09-24-3-simple-steps-to-build-md-c5ad55fc0d:c001:e001:6f5e0847"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal formula for handling objections involves clarifying, discussing, and diffusing.",
+      "qualification": "Self-reported personal approach.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e003:d7a99fe8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fear in clients due to currency devaluation and real estate concerns can be significant.",
+      "qualification": "Self-reported observation, requires more external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e002:61237eeb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging community to share experiences helps engage audience.",
+      "qualification": "Observed behavior; unclear how effective this engagement is.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e006:ad5da726"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clarifying if beliefs are based on facts or feelings can overcome objections.",
+      "qualification": "Advised practice; practical effectiveness not independently confirmed.",
+      "support_ids": [
+        "linkedin-posts-2024-10-08-do-you-secretly-believe-dubai-md-51965119a3:c001:e002:bcbdc2c3"
+      ]
+    }
+  ]
+}

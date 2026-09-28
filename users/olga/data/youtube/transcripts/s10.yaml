@@ -1,0 +1,35 @@
+id: s10
+title: Advice for new real estate agents in Dubai
+date: '2025-03-30'
+source: Advice for new real estate agents in Dubai
+audio_file: Advice for new real estate agents in Dubai [VaUHelVc-aI].mp3
+duration: "00:00:57"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+- '2'
+counts:
+  raw_entries: 3
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    So, advice would you give to yourself, knowing everything you know, if it was an opportunity to send
+    the message in two thousand fourteen?
+- t: "00:00:10"
+  speaker: '2'
+  text: >-
+    Sure, very good question, to be honest with you. Very good question. I feel like, um, if I was to
+    send a message back to myself now, it's all about hustling, okay? So I feel like in Dubai, if you
+    want to come to Dubai and you want to make it work, you want to be successful, it's all about hustle.
+    You got to work hard, okay? It's not for the faint-hearted. If you want to come here and enjoy the
+    lifestyle and have all the great things that Dubai has to offer, great, you can do that, but it comes
+    at at at kind of at a cost. So you got to be willing to work seven days a week, ten, twelve, thirteen
+    hours.
+- t: "00:00:40"
+  speaker: '2'
+  text: >-
+    today. You know, you've got to make sure the job comes first in every aspect. If you can do that,
+    you're onto a winner. um I see so many people that come to the buy-in, they don't make it work because
+    their the lifestyle takes over. You know, they want to make all this money and they get disappointed
+    when they don't make the money, but they actually haven't put the effort in.

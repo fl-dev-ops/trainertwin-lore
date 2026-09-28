@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Do you have a question for me? Every agent has that one question holding them back from their next deal…",
+      "statement": "Every agent has that one question holding them back from their next deal",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Drop it in the comments 👇 I’ll record detailed video answers and share step-by-step how to deal with these situations.",
+      "statement": "I’ll record detailed video answers and share step-by-step how to deal with these situations.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "2. How to encourage the client for a meeting not only msgs 3. ⁠How to tell a client his budget is low for uae but still keep him as a client",
+      "statement": "How to encourage the client for a meeting not only msgs",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "8. ⁠How to respond to a client that only asks for discount",
+      "statement": "How to respond to a client that only asks for discount",
+      "topic": "sales resistance",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post inviting questions about sales challenges."
+}

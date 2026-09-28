@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399-4ff0b4039f74ccf0.jsonl",
+  "external_id": "7318124740735381504",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:41:38Z",
+  "metadata_hash": "74be003aab61b7c40f24ba55707b82c6cd6673b9b10a8fd7826b5446114e1e5b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-16T04:15:02.374000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-16-its-probably-still-not-too.md",
+  "source_sha256": "616f3181d07b0ab2c4d6bc6c03fd2624cf6558813535259b796aa1f3a86c9485",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestatesalestraining-realestatementoruae-activity-7318124740735381504-KvDv"
+}

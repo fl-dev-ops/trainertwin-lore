@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "\"From the moment I started the call, I had this thought... 'He won’t be able to afford it.'\"",
+      "statement": "An agent assumed a prospect couldn't afford a product based on their situation without them saying so.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Here’s my advice: Challenge your assumptions.",
+      "statement": "Challenge your assumptions about a prospect's financial situation during sales interactions.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I just assumed it.",
+      "statement": "An agent had a self-limiting belief that the prospect's circumstances meant they couldn't buy.",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "You’re no longer in a conversation. You’re in your own head.",
+      "statement": "Assumptions can prevent a productive conversation from taking place in sales calls.",
+      "topic": "persistence in sales",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "let the conversation guide the outcome.",
+      "statement": "Let the conversation guide the outcome instead of your preemptive judgments.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing assumptions that sabotage sales calls."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-10-06-what-is-your-plan-md-4682ec1455-66066660d3f305aa.jsonl",
+  "external_id": "7116066405300531200",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:51:57Z",
+  "metadata_hash": "2d4c4179a5e51c602cde4452b38b4a0a185ff6b7c541e2be5295a566fe23abea",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-10-06T14:27:21.144000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-10-06-what-is-your-plan.md",
+  "source_sha256": "7dd65ad2f38b43ab82c049f1bff8353bee57a7e8e7f3903a4aeb9217ba7bdc9b",
+  "source_url": "https://www.linkedin.com/posts/olgasi_what-is-your-plan-activity-7116066405300531200-sjE8"
+}

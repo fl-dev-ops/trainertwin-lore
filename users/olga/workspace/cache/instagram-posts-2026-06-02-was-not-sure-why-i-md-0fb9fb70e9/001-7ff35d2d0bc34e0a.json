@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Now I feel I’m back to 0 on another level.",
+      "statement": "I feel I’m back to 0 on another level.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "for my this “impostor voice” is just the evidence - I’m on a right track.",
+      "statement": "For my this 'impostor voice' is just the evidence - I’m on a right track.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I’ve been living 5 lives Growing up in a Small city, moved to capital at 20...",
+      "statement": "I’ve been living 5 lives.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Instagram post caption detailing personal journey and reflections on growth."
+}

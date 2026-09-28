@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "‘How do I start my real estate career in Dubai?’ Well, I’ve got answers!",
+      "statement": "I keep getting this question in my DMs: ‘How do I start my real estate career in Dubai?’",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "a training session that dives into the real challenges—like handling those disappearing clients right before the deal closes (yep, it happens)",
+      "statement": "I recorded a training session that dives into the real challenges—like handling those disappearing clients right before the deal closes.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post offering real estate career guidance and training resources."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-07-19-thinking-on-your-feet-is-md-0b696be7f5-fc0f6109893a6ce7.jsonl",
+  "external_id": "7087279900201488385",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:13:10Z",
+  "metadata_hash": "69112fb04e81ac5f06cb473286d64efc72d774544179a87ded7426a62ae25091",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-19T04:00:03.501000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-19-thinking-on-your-feet-is.md",
+  "source_sha256": "6188de69cdbe45da661f3e4a271b214857cd71e76bbd9657233ae4442172be2e",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-salesdevelopment-salescoaching-activity-7087279900201488385-febn"
+}

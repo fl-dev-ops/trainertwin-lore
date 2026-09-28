@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "after watching my YouTube Trainings and was one of the first members of my Online Academy",
+      "statement": "he reached out to me after watching my YouTube Trainings",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "First deal in a first month… however he started to prepare himself long before",
+      "statement": "First deal in a first month",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post celebrating Jairo's first sales achievement."
+}

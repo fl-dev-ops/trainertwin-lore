@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "There is a trend of individuals considering alternative modes of transportation, such as the Metro, possibly due to traffic congestion issues.",
+      "qualification": "This is a self-reported belief from a LinkedIn post and remains unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-05-06-all-about-today-have-you-md-e6c7190998:c001:e002:e9b5d483"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents tend to avoid making calls in visible locations, seeking seclusion instead, indicating a preference for privacy in their work environment.",
+      "qualification": "This observation is based on a personal account and has not been externally validated.",
+      "support_ids": [
+        "linkedin-posts-2024-07-02-this-will-shed-some-light-md-d0de30d674:c001:e001:b7b76ee7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai is perceived by some individuals as having the potential to enhance or detrimentally affect personal and professional growth.",
+      "qualification": "The statement reflects subjective experiences and lacks broader empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-12-04-10-years-out-of-53-md-95ed3d4a82:c001:e005:f3a70b84"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Role-playing exercises are viewed positively by individuals for improving practical skills and self-awareness in professional settings.",
+      "qualification": "This sentiment is self-reported and not corroborated by external evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s196-yaml-2dec848a31:c001:e003:07cc7a98"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fast speaking is perceived as an aggressive communication strategy by salespeople, which may impact client interactions negatively.",
+      "qualification": "This claim remains anecdotal with no external validation provided.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e002:9074e2d2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Preference for formal attire, such as suits, in the workplace may serve as a method for individuals to create a distinction between their professional and personal lives.",
+      "qualification": "The claim is self-reported and does not include a wider analysis of workplace dress norms.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e007:e60f5514"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Individuals engaged in sales training perceive the need to moderate their speech pace to avoid being perceived as overly aggressive, indicating awareness of verbal communication's impact on client relations.",
+      "qualification": "This observation comes from a training context and lacks broader verification.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e002:9074e2d2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a notable concern about traffic hindering business activities, with individuals acknowledging the effect of congestion on their professional routines.",
+      "qualification": "This account is anecdotal and reflects personal experience rather than systemic data.",
+      "support_ids": [
+        "linkedin-posts-2024-05-06-all-about-today-have-you-md-e6c7190998:c001:e003:9e25f567"
+      ]
+    }
+  ]
+}

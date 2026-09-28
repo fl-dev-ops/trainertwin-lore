@@ -1,0 +1,73 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Agents can experience significant fluctuation in success from periods of no deals to substantial commissions.",
+      "qualification": "This is based on self-reported information and may not represent typical agent experiences.",
+      "support_ids": [
+        "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5:c001:e001:2ffdde19",
+        "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5:c001:e002:1bc50f73"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Generic sales approaches are often criticized for their ineffectiveness and lack of clarity.",
+      "qualification": "The criticism is subjective and observed by one speaker.",
+      "support_ids": [
+        "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb:c001:e001:ed4cb52a",
+        "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb:c001:e002:2c9b4dd2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A personalized approach to warm clients can lead to higher response rates.",
+      "qualification": "The effectiveness of this strategy is asserted without specific evidence of results.",
+      "support_ids": [
+        "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb:c001:e005:d49907ba"
+      ]
+    },
+    {
+      "counter_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e005:d793a399"
+      ],
+      "finding": "There is a perception that some Dubai agents may engage in scam-like behavior, though this opinion is not universally held.",
+      "qualification": "Opinions about scams are self-reported and reflect client-sourced anecdotes without broad verification.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e001:5eaf605a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies that rely on pressure are advised against, with a recommendation for listening over speaking.",
+      "qualification": "Advice is based on observed outcomes rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e006:21dbb3b2",
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e009:9736f6d4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Ghosting by clients is attributed to poor opening strategies in sales communications.",
+      "qualification": "Observation lacks statistical backing and is from individual experience.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e010:827588f0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fixed costs in recruitment and HR positions are notable in market cycles, potentially influencing business creation.",
+      "qualification": "This claim may not generalize across different industries or regions.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:c001:e003:88a3b583"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is speculation that AI could replace the administrative components of HR and recruitment roles.",
+      "qualification": "This is a hypothetical scenario and has not been verified.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:c001:e004:96ceb117"
+      ]
+    }
+  ]
+}

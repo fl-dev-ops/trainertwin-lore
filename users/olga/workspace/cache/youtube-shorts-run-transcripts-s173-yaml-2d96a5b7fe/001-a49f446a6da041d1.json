@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "the right way is to ask the question so you can steer the conversation into the right direction.",
+      "statement": "Ask the right questions to steer the conversation with clients.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the actual numbers and the data from Dubai Land Department for the past three four years",
+      "statement": "Analyzing data from Dubai Land Department can inform investment decisions.",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "YouTube Short on client engagement strategies in sales."
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Trainer Twin emphasizes behavior benchmarks over accuracy in evaluating LLMs.",
+      "qualification": "This approach highlights a different evaluation focus not typically emphasized in technical benchmarks.",
+      "support_ids": [
+        "linkedin-posts-2026-08-19-weve-been-benchmarking-different-llms-md-cad6f7182c:c001:e001:693710d8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Different LLMs exhibit varied interviewer behaviors under consistent conditions.",
+      "qualification": "The variability among models suggests distinct programming or training approaches affecting behavior.",
+      "support_ids": [
+        "linkedin-posts-2026-08-19-weve-been-benchmarking-different-llms-md-cad6f7182c:c001:e002:f3ce4c32"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Gemini 3.6 Flash provided technically relevant feedback but suffered from protocol-level errors.",
+      "qualification": "This highlights the trade-off between qualitative performance and structural or systematic accuracy.",
+      "support_ids": [
+        "linkedin-posts-2026-08-19-weve-been-benchmarking-different-llms-md-cad6f7182c:c001:e004:ec82d150",
+        "linkedin-posts-2026-08-19-weve-been-benchmarking-different-llms-md-cad6f7182c:c001:e005:e0589e8e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Qwen 3.7 Flash had the fastest response time in the benchmark tests.",
+      "qualification": "Fast response time can be advantageous for real-time applications, but speed does not imply improved behavior or accuracy.",
+      "support_ids": [
+        "linkedin-posts-2026-08-19-weve-been-benchmarking-different-llms-md-cad6f7182c:c001:e009:377df777"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "GPT-4o demonstrated fluent interaction but struggled with relevant listening skills.",
+      "qualification": "This can indicate a need for better contextual understanding and dialogue management, despite linguistic proficiency.",
+      "support_ids": [
+        "linkedin-posts-2026-08-19-weve-been-benchmarking-different-llms-md-cad6f7182c:c001:e007:a930c52e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Claude Haiku occasionally exposed internal processing artifacts during output.",
+      "qualification": "The leakage of internal tags shows vulnerabilities in the output formatting process.",
+      "support_ids": [
+        "linkedin-posts-2026-08-19-weve-been-benchmarking-different-llms-md-cad6f7182c:c001:e008:2ca2dcdc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Emphasis on evaluating AI based on behavior rather than intelligence to create effective human-like professional models.",
+      "qualification": "This approach could be beneficial for applications needing human-like interactions, but the advice is hypothetical and self-reported.",
+      "support_ids": [
+        "linkedin-posts-2026-08-19-weve-been-benchmarking-different-llms-md-cad6f7182c:c001:e011:66b4ecb1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A digital twin is considered a bounded, testable model rather than a copied mind, focusing on likely responses in specific situations.",
+      "qualification": "This is based on a self-reported statement from a LinkedIn post, which hasn't been externally verified.",
+      "support_ids": [
+        "linkedin-posts-2026-08-26-a-digital-twin-is-not-md-0a1f89dbf4:c001:e001:5ea7453f"
+      ]
+    }
+  ],
+  "signature": "ecc639fc6e43fbf28af1a47ef069fd628794e21fb55a1279ab0f83de68d533ad"
+}

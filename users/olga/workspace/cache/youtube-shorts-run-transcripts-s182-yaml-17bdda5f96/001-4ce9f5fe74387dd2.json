@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "if you as an agent not closing in one month, second month, third month, they're going to ask you to leave.",
+      "statement": "Not closing in one month can result in being asked to leave.",
+      "topic": "sales performance",
+      "unit_id": "u000005"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "make sure this is a space where people want to be, not just for work but for pleasure as well.",
+      "statement": "Efforts are made to create a work environment that feels like home.",
+      "topic": "work environment",
+      "unit_id": "u000006"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "we want to build that family culture",
+      "statement": "Agencies emphasize building a family culture among staff.",
+      "topic": "client engagement",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "Transcript of a discussion about real estate agent challenges in Dubai."
+}

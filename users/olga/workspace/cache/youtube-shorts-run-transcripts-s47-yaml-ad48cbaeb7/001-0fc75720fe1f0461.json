@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "detach yourself from the outcome. You are not there to generate listening.",
+      "statement": "detach yourself from the outcome",
+      "topic": "cold calling anxiety",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Focus on the quantity of dials. If you're going to sustain a hundred dials a day,",
+      "statement": "focus on the quantity of dials",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript discussing overcoming cold calling anxiety and sales strategies"
+}

@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Building trust by sometimes speaking against one's own interests can be effective.",
+      "qualification": "This is a claim from one source and might not apply universally.",
+      "support_ids": [
+        "linkedin-posts-2024-06-10-speaking-against-your-own-interests-md-2cc7669881:c001:e001:de73ba5c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales resistance can negatively affect personal sales performance.",
+      "qualification": "This concept appears as a fact claim and could benefit from empirical evidence to support it.",
+      "support_ids": [
+        "linkedin-posts-2024-03-05-my-own-sales-tricks-grab-md-d4af296ae1:c001:e001:039967e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Prematurely providing too much detail or discussing prices may push clients away instead of engaging them effectively.",
+      "qualification": "This observation reflects the author's opinion and may not account for all sales scenarios.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e004:d2cc10a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media presence, such as YouTube channels and Google reviews, can generate client interest without direct interaction.",
+      "qualification": "The effectiveness of this strategy is largely anecdotal and would need systematic study to substantiate its reliability.",
+      "support_ids": [
+        "linkedin-posts-2024-03-22-have-you-seen-that-black-md-e3b1fef0d4:c001:e001:d2715d2f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often struggle to choose between real estate agents.",
+      "qualification": "The statement is presented as factual but lacks further independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2024-04-16-why-should-a-client-choose-md-59c32a3671:c001:e001:06f8e27d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Relationship-building can be humorously encouraged through readiness for mistakes or bloopers.",
+      "qualification": "The humorous encouragement is observational and not tested for effectiveness in client engagement.",
+      "support_ids": [
+        "linkedin-posts-2024-04-18-my-first-linkedin-live-today-md-2d2ec4cdd9:c001:e002:5f0cc2e6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are advised to understand clients' deeper reasons behind purchases to improve engagement.",
+      "qualification": "This is a belief stated by the author and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-05-24-as-agents-we-have-the-md-76d7b4f56f:c001:e001:e10d006f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking advanced questions to drive clients towards the right decision is considered an effective client engagement strategy.",
+      "qualification": "These methods are advised strategies and lack external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-02-13-how-can-you-push-how-md-92fb8a6280:c001:e003:ade8bc61"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "self_report",
+      "quote": "How different would your life be if you have a Golden Visa from the UAE?🇦🇪🤔 A lot? Not much different?",
+      "statement": "How different would your life be if you have a Golden Visa from the UAE?",
+      "topic": "life reflection",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Is property ownership the only way? Maybe not!",
+      "statement": "Is property ownership the only way to obtain a Golden Visa?",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "But you must be informed in order to make the best decision!",
+      "statement": "You must be informed in order to make the best decision!",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Let’s talk! 📲",
+      "statement": "The post invites discussions about the Golden Visa and its implications.",
+      "topic": "communication skills",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post querying the impact of obtaining a UAE Golden Visa."
+}

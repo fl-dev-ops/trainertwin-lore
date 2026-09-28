@@ -1,0 +1,37 @@
+id: s108
+title: 'Mastering Curiosity:  The Art of Intrigue and Decision #shorts'
+date: '2026-03-19'
+source: 'Mastering Curiosity:  The Art of Intrigue and Decision #shorts'
+audio_file: 'Mastering Curiosity： The Art of Intrigue and Decision #shorts [mN1GTawPicQ].mp3'
+duration: "00:00:18"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 6
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    this call is not about that. So you want me to tell you why I'm calling?
+- t: "00:00:02"
+  speaker: '0'
+  text: >-
+    Why I'm
+- t: "00:00:04"
+  speaker: '1'
+  text: >-
+    and then you decide should we continue or you want to hang up now?
+- t: "00:00:09"
+  speaker: '0'
+  text: >-
+    Yeah
+- t: "00:00:09"
+  speaker: '1'
+  text: >-
+    You see, if I am giving you this, I am increasing your curiosity, I'm pulling you up. You're curious.
+- t: "00:00:18"
+  speaker: '0'
+  text: >-
+    Yeah

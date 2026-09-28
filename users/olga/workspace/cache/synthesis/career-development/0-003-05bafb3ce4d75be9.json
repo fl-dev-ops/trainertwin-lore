@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Many people find the idea of reaching out to potential clients daunting.",
+      "qualification": "This is a self-reported observation and may not reflect universal experiences.",
+      "support_ids": [
+        "linkedin-posts-2023-05-04-have-you-ever-felt-uncomfortable-md-bd77f8310d:c001:e001:a3d72424"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a job available for a Russian-speaking professional in Dubai with experience in sectors like banking, wealth management, and luxury sales.",
+      "qualification": "This job listing is specific to a particular office and demographic.",
+      "support_ids": [
+        "linkedin-posts-2023-05-08-dubai-job-in-our-uae-md-6b62736489:c001:e001:95b2b574"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Feedback is regarded as crucial for productivity and success, and it is actively solicited in training programs.",
+      "qualification": "This perspective is based on observed behavior and personal belief, not empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e001:f626ff9e",
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e006:2d4a02de"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The hiring process for a Virtual Assistant/Intern focuses on honesty about capabilities and being eager to learn entrepreneurship.",
+      "qualification": "This reflects the stated hiring criteria by a specific employer.",
+      "support_ids": [
+        "linkedin-posts-2023-05-11-i-hope-i-grabbed-your-md-e9607717af:c001:e004:37cae9d8",
+        "linkedin-posts-2023-05-11-i-hope-i-grabbed-your-md-e9607717af:c001:e006:a8a53b1f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Establishing a digital presence is important for crafting an authentic professional brand and career advancement.",
+      "qualification": "This is advice given by one source and may not have broad consensus.",
+      "support_ids": [
+        "linkedin-posts-2023-05-17-in-2023-if-you-do-md-21dcdfea7b:c001:e005:78439d9b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Fresh graduates and those considering career changes are encouraged to apply for certain positions, indicating inclusivity in hiring.",
+      "qualification": "This is specific to the hiring practices of one employer and may not be widespread.",
+      "support_ids": [
+        "linkedin-posts-2023-05-11-i-hope-i-grabbed-your-md-e9607717af:c001:e002:afc5e0fc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Professional growth opportunities can be identified by asking participants how training programs can be improved.",
+      "qualification": "Based on self-reported implementation in a specific context.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e006:2d4a02de"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some career development advice emphasizes launching a career online as a path to unlocking professional opportunities.",
+      "qualification": "This is hypothetical advice, meaning its effectiveness is unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-05-17-in-2023-if-you-do-md-21dcdfea7b:c001:e007:65dbf8c0"
+      ]
+    }
+  ]
+}

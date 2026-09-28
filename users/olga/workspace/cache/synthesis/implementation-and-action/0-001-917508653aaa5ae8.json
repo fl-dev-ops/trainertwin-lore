@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Many participants in the sales training program have successfully learned techniques to convince buyers and close deals.",
+      "qualification": "The evidence comes from self-reported and advised contexts, which may include inherent bias or selective reporting.",
+      "support_ids": [
+        "instagram-posts-2025-09-03-you-will-make-a-1-md-0405d2f6d2:c001:e001:1070a626",
+        "instagram-posts-2025-09-03-you-will-make-a-1-md-0405d2f6d2:c001:e003:4ec55e4c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The timeline for closing a first real estate deal after training varies significantly among clients, with most taking one to three months.",
+      "qualification": "This finding is based on self-reported observations from the Instagram posts, without external verification.",
+      "support_ids": [
+        "instagram-posts-2025-10-20-from-lost-new-agent-to-md-7a22ce85e4:c001:e002:b1236ab2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A free sales training program on platforms like Telegram and YouTube offers techniques and strategies for effective selling, including handling objections and cold calling.",
+      "qualification": "Evidence is presented as offerings, potentially self-promotional, and lacks detailed third-party evaluations.",
+      "support_ids": [
+        "instagram-olga-yaml-d81aa23bbe:c001:e002:f2ad4b69",
+        "instagram-posts-2026-06-18-do-not-waste-your-time-md-107af7ab12:c001:e001:48c3fd9b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales tactics in the real estate sector are numerous but variable in effectiveness; many tactics are considered outdated.",
+      "qualification": "Characterization is based on self-reported experiences, which may not be broadly applicable across all markets or contexts.",
+      "support_ids": [
+        "instagram-posts-2026-08-24-hes-renting-your-4m-off-plan-md-82a6d29628:c001:e001:ccccbc85",
+        "instagram-posts-2026-08-24-hes-renting-your-4m-off-plan-md-82a6d29628:c001:e002:07ef15b0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The concept of decision-making funnels is emphasized as crucial in Dubai real estate, particularly for investors.",
+      "qualification": "The statement is self-reported and perceived as a belief, limiting objective verification.",
+      "support_ids": [
+        "instagram-posts-2026-06-10-decision-making-funnels-are-crucial-in-md-bf539dabe6:c001:e001:c06e1f2b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling showed a self-reported success rate of 90%, but details about how this success is measured or maintained are unclear.",
+      "qualification": "The claim is self-reported and lacks verification from independent or third-party sources.",
+      "support_ids": [
+        "instagram-posts-2026-06-11-this-happened-90-of-a-md-f31947dee0:c001:e001:bc49936d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The sales training program covers client communication strategies during times of market fear and uncertainty.",
+      "qualification": "The effectiveness and reception of these strategies remain unspecified or unmeasured.",
+      "support_ids": [
+        "instagram-posts-2026-03-13-what-do-i-even-say-md-3ac4d94d69:c001:e001:c4f169e7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A personalized strategy session is offered as a roadmap to build a career in Dubai's real estate market, priced at 950 AED.",
+      "qualification": "The 'personalised roadmap' is a promotional offering, which may or may not fulfill career development expectations as advertised.",
+      "support_ids": [
+        "instagram-posts-2025-10-20-from-lost-new-agent-to-md-7a22ce85e4:c001:e004:79089c1e"
+      ]
+    }
+  ]
+}

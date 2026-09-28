@@ -1,0 +1,188 @@
+profile:
+  id: '1662370751582728193'
+  name: Olga Sinenko
+  userName: Olga_Si_Sales
+  location: Dubai, UAE
+  url: ''
+  description: 11+ Years in Dubai Real Estate | Sales Trainer & Mentor | Human Behaviour, Buyer Psychology & Neuro-Emotional
+    Persuasion
+  entities:
+    description: {}
+  protected: false
+  isVerified: false
+  isBlueVerified: false
+  verifiedType: null
+  followers: 5
+  following: 2
+  favouritesCount: 1
+  statusesCount: 48
+  mediaCount: 11
+  createdAt: '2023-05-27T08:11:03.000000Z'
+  coverPicture: https://pbs.twimg.com/profile_banners/1662370751582728193/1783693292
+  profilePicture: https://pbs.twimg.com/profile_images/2075586213852176384/dfkwwMoZ_normal.jpg
+  canDm: false
+  affiliatesHighlightedLabel: {}
+  isAutomated: false
+  automatedBy: null
+  pinnedTweetIds:
+  - '1664595585410777090'
+  profile_interstitial_type: ''
+following:
+- id: '1382209054999646212'
+  name: Not Elon Musk
+  screen_name: ElonMuskAOC
+  userName: ElonMuskAOC
+  location: Mars
+  url: https://t.co/PhPWxIZuoa
+  description: I’m on a quest to bang AOC on Mars. (Parody Account)
+  email: null
+  protected: false
+  verified: false
+  followers_count: 1670144
+  following_count: 745
+  friends_count: 745
+  favourites_count: 68926
+  statuses_count: 52501
+  media_tweets_count: 15810
+  created_at: Wed Apr 14 05:48:23 +0000 2021
+  profile_banner_url: https://pbs.twimg.com/profile_banners/1382209054999646212/1685520518
+  profile_image_url_https: https://pbs.twimg.com/profile_images/1785089965619118080/NATKmh45_normal.jpg
+  can_dm: false
+- id: '27878891'
+  name: Big Ideas for Small Business®
+  screen_name: BigIdeas4SB
+  userName: BigIdeas4SB
+  location: Vero Beach, FL
+  url: https://t.co/1mOekS2OL9
+  description: 'Trusted #Smallbiz Advocate, #Author of J.K. Lasser''s Small Business Taxes book series + others, Publisher
+    of Big Ideas for Small Business® + Idea of the Day®'
+  email: null
+  protected: false
+  verified: false
+  followers_count: 120058
+  following_count: 22985
+  friends_count: 22985
+  favourites_count: 21760
+  statuses_count: 47902
+  media_tweets_count: 15518
+  created_at: Tue Mar 31 14:20:47 +0000 2009
+  profile_banner_url: https://pbs.twimg.com/profile_banners/27878891/1753733652
+  profile_image_url_https: https://pbs.twimg.com/profile_images/2103156767538507776/hb3Mm2Wc_normal.jpg
+  can_dm: false
+followers:
+- id: '2099594359465197568'
+  name: Jungkook
+  screen_name: Jungkookj5ri
+  userName: Jungkookj5ri
+  location: ''
+  url: null
+  description: ''
+  email: null
+  protected: false
+  verified: false
+  followers_count: 26
+  following_count: 224
+  friends_count: 224
+  favourites_count: 2
+  statuses_count: 7
+  media_tweets_count: 5
+  created_at: Mon Sep 14 20:22:06 +0000 2026
+  profile_banner_url: null
+  profile_image_url_https: https://pbs.twimg.com/profile_images/2099594890459885569/SDHrSRhW_normal.jpg
+  can_dm: false
+- id: '1661093570'
+  name: H.B.
+  screen_name: humblebury
+  userName: humblebury
+  location: ''
+  url: null
+  description: So little time.
+  email: null
+  protected: true
+  verified: false
+  followers_count: 25
+  following_count: 2155
+  friends_count: 2155
+  favourites_count: 61
+  statuses_count: 17
+  media_tweets_count: 1
+  created_at: Sat Aug 10 22:30:07 +0000 2013
+  profile_banner_url: null
+  profile_image_url_https: https://pbs.twimg.com/profile_images/378800000282814985/914ac6a6e96075db8aa61a18bf18d2a0_normal.jpeg
+  can_dm: false
+- id: '1868210248101908480'
+  name: Matt
+  screen_name: Mattxtxtxt
+  userName: Mattxtxtxt
+  location: ''
+  url: null
+  description: ''
+  email: null
+  protected: false
+  verified: false
+  followers_count: 350
+  following_count: 1007
+  friends_count: 1007
+  favourites_count: 133
+  statuses_count: 143
+  media_tweets_count: 0
+  created_at: Sun Dec 15 08:23:53 +0000 2024
+  profile_banner_url: null
+  profile_image_url_https: https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+  can_dm: false
+- id: '2093485651471589376'
+  name: Lee jung shin
+  screen_name: Leejungshixbym
+  userName: Leejungshixbym
+  location: ''
+  url: null
+  description: ''
+  email: null
+  protected: false
+  verified: false
+  followers_count: 2
+  following_count: 72
+  friends_count: 72
+  favourites_count: 4
+  statuses_count: 181
+  media_tweets_count: 5
+  created_at: Fri Aug 28 23:48:27 +0000 2026
+  profile_banner_url: null
+  profile_image_url_https: https://pbs.twimg.com/profile_images/2096009160806776832/H2FXS0Jf_normal.jpg
+  can_dm: false
+- id: '2007350290580963328'
+  name: Rabee Kriem
+  screen_name: rabee71149
+  userName: rabee71149
+  location: ''
+  url: null
+  description: ''
+  email: null
+  protected: false
+  verified: false
+  followers_count: 0
+  following_count: 2
+  friends_count: 2
+  favourites_count: 0
+  statuses_count: 0
+  media_tweets_count: 0
+  created_at: Sat Jan 03 07:16:26 +0000 2026
+  profile_banner_url: null
+  profile_image_url_https: https://pbs.twimg.com/profile_images/2007821682397057025/zAkNYLXY_normal.jpg
+  can_dm: false
+mentions: []
+tweets:
+- id: '2102627755674509680'
+  date: '2026-09-23T05:14:56Z'
+  url: https://x.com/Olga_Si_Sales/status/2102627755674509680
+  likes: 0
+  retweets: 0
+  replies: 0
+  file: ./tweets/2026-09-23-in-dubai---september-2025.md
+- id: '2092878569286651968'
+  date: '2026-08-27T07:35:09Z'
+  url: https://x.com/Olga_Si_Sales/status/2092878569286651968
+  likes: 2
+  retweets: 0
+  replies: 1
+  file: ./tweets/2026-08-27-two-ways-dubai-prop-tech-startup.md

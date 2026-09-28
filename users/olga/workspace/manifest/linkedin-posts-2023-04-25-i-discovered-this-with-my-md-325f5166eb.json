@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 10,
+  "evidence_file": "linkedin-posts-2023-04-25-i-discovered-this-with-my-md-325f5166eb-cf8cc832278153a0.jsonl",
+  "external_id": "7056467579116150784",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:16:03Z",
+  "metadata_hash": "4d4aae50c7b4f6a01c8a39146c36839826aa852e31633e781aacf837d6eeee26",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-04-25T03:22:53.689000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-04-25-i-discovered-this-with-my.md",
+  "source_sha256": "88c50b9af9bf29676b47f79dc16ac3225f42bab38818269686e8f38b7cac075b",
+  "source_url": "https://www.linkedin.com/posts/olgasi_organicgrowth-oncameraconfidence-videomarketing-activity-7056467579116150784-Uuax"
+}

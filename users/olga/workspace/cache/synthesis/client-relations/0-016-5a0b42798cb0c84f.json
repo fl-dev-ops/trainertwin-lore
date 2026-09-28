@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Reading emotions and identifying true desires through a screen poses challenges for professionals in client engagement.",
+      "qualification": "This statement is self-reported and hence subjective.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e007:e5383954"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Honesty in client relations, such as admitting mistakes, can enhance trust and positively influence client perceptions.",
+      "qualification": "The evidence comes from a single observation, with no quantitative backing.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03:c001:e002:0e51fad2",
+        "linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03:c001:e003:0e50b46c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In the context of modern consumer engagement, using 'AND' instead of 'BUT' may not resonate well with consumers, suggesting a shift in communication tactics is needed.",
+      "qualification": "This insight is based on an unverified belief posing a perspective rather than established data.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e002:4b03069c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients frequently respond more favorably to engagement strategies that include soliciting feedback, such as by encouraging comments or direct messages (DMs).",
+      "qualification": "The observation is anecdotal and not supported by systematic research.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-for-you-real-estate-agents-md-44412b2c31:c001:e003:98fa037c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Generic job application requests from candidates tend to diminish their chances of being considered positively by recruiters, reflecting a need for personalization in client interactions.",
+      "qualification": "These findings are self-reported and reflect personal frustration rather than empirical analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-recruiters-how-often-do-you-md-9e52618a0a:c001:e001:0bdab223",
+        "linkedin-posts-2024-09-19-recruiters-how-often-do-you-md-9e52618a0a:c001:e002:7d3a85e1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rephrasing questions is a recommended technique for gaining clearer insights from clients, which could lead to more constructive conversations.",
+      "qualification": "This is advice derived from an individual's perspective and is not validated by wider empirical research.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e001:35b8c4df"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There appears to be a notable shift toward understanding client needs beyond surface-level communication, emphasizing the importance of deep engagement tactics.",
+      "qualification": "This is an interpretation from self-reported content and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb:c001:e005:542bf7c2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to share their thoughts openly (e.g., through comments or messaging) may enhance the relationship by fostering a more interactive dialogue.",
+      "qualification": "This recommendation is based on observed behaviors but has not been tested for effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e004:4273db3f"
+      ]
+    }
+  ]
+}

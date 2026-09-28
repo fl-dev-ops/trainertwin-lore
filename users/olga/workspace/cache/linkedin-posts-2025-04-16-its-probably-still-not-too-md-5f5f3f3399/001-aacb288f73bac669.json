@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "you have a few (or more) client conversations that just... stopped.",
+      "statement": "There are client conversations that just stopped without a final decision.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the truth is, these aren’t necessarily lost deals. More often, they’re cases of poor qualification or unclear follow-up strategy.",
+      "statement": "These silent deals are often cases of poor qualification or unclear follow-up strategy.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "I put together a full training on this: How to re-qualify, re-engage and prevent deals from going cold in the first place.",
+      "statement": "The author offers a training on re-qualifying and re-engaging clients.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If not, you can always go back to re-reading old chats and hoping for a reply.",
+      "statement": "Re-reading old chats is less effective than pursuing a follow-up strategy to re-engage clients.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "It’s on YouTube — and yes, it’s 7 short lessons. Roughly 15 minutes each.",
+      "statement": "The training consists of 7 short lessons that can be managed over 7 days.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Drop a “+” in the comments and I’ll send you the link to the full training.",
+      "statement": "The author encourages engagement by asking readers to comment for the training link.",
+      "topic": "call to action",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A promotional LinkedIn post offering a training program to improve client engagement in real estate sales."
+}

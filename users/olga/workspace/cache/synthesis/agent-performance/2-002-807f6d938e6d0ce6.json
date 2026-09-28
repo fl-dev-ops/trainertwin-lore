@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales agents face challenges in the current market with clients opting to wait longer and a decline in leads.",
+      "qualification": "Self-reported without external corroboration, indicating an observed trend rather than measurable data.",
+      "support_ids": [
+        "linkedin-posts-2026-03-13-you-are-such-a-positive-md-cc60ea0745:c001:e004:16a21dc0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Top-performing agents serve as motivators within teams and contribute positively to overall team success.",
+      "qualification": "Observed claim lacking external corroboration; based on anecdotal evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e001:1bc33574"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Common complaints from agents are expressed, but the specifics are not detailed.",
+      "qualification": "The vague nature of complaints limits understanding of specific challenges faced in agent performance.",
+      "support_ids": [
+        "linkedin-posts-2026-07-28-the-complain-almost-every-agent-md-c7dd138422:c001:e001:8a87cb1c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales scripts have been included in training despite being previously considered ineffective, suggesting a potential change in perspective or strategy.",
+      "qualification": "Personal experience without broader validation or statistical support.",
+      "support_ids": [
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e001:5eea9797",
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e004:1d8eb208"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A high turnover rate among new agents is reported, with 8 out of 10 leaving within the first few months.",
+      "qualification": "Observed claim lacking specific causes or broader industry comparisons; requires more data for verification.",
+      "support_ids": [
+        "linkedin-posts-2025-10-07-why-8-out-of-10-md-eaab1401fc:c001:e001:079e1a1c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is skepticism about theoretical sales strategies accurately reflecting real-world client decision-making processes.",
+      "qualification": "Self-reported sentiment indicating potential disconnect between theory and practice, not empirically supported.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e004:ead07027"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The perceived notion that portals and developers will automatically supply leads is misleading and seen as a hindrance to sales success.",
+      "qualification": "Observed claim without quantitative measurement or external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-05-29-me-and-ashley-james-hawthorne-we-md-47e71f8489:c001:e004:11627d22"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rejection in sales is observed to have a significant impact on agents, and training can aid in managing these challenges.",
+      "qualification": "Self-reported training content without verification of effectiveness beyond the training environment.",
+      "support_ids": [
+        "linkedin-posts-2025-06-13-lost-a-deal-this-week-md-6823ad1bde:c001:e003:eb914e12"
+      ]
+    }
+  ]
+}

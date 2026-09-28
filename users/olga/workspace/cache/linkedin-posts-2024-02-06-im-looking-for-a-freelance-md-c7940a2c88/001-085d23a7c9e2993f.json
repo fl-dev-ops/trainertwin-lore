@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I'm looking for a Freelance Videographer in Dubai - must be based in Dubai.",
+      "statement": "I‘m looking for a Freelance Videographer in Dubai - must be based in Dubai.",
+      "topic": "job listing",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "The ideal candidate has the following qualifications: - Experience in filming content for course creators - Understand the specifications of YouTube, Instagram and TikTok.",
+      "statement": "The ideal candidate has the following qualifications: Experience in filming content for course creators.",
+      "topic": "qualifications",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "To apply, fill out the form and I will contact you over email, so make sure you use an email that you check regularly.",
+      "statement": "To apply, fill out the form and I will contact you over email.",
+      "topic": "application process",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Applications through Direct Messaging will not be considered.",
+      "statement": "Applications through Direct Messaging will not be considered.",
+      "topic": "job listing",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "My business focuses on providing consulting and training services for companies in Dubai, both online and offline.",
+      "statement": "My business focuses on providing consulting and training services for companies in Dubai, both online and offline.",
+      "topic": "professional services",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn job posting seeking a freelance videographer in Dubai."
+}

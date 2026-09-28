@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales resistance can occur when discovering leads who lack financial resources, which may require agents to adjust their approach.",
+      "qualification": "This is observed behavior and not a comprehensive strategy across all contexts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s114-yaml-f2a44bed89:c001:e004:e5612226",
+        "youtube-shorts-run-transcripts-s114-yaml-f2a44bed89:c001:e005:c849789e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents may often start with no pre-existing leads, termed as a \"cold start branch,\" necessitating self-generated leads.",
+      "qualification": "The idea of a 'cold start branch' is emphasized by a speaker and might be self-reported.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s115-yaml-afd75583ca:c001:e001:e82484bb",
+        "youtube-shorts-run-transcripts-s115-yaml-afd75583ca:c001:e002:7467b716"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A pattern in objection handling is viewing objections as mere client concerns, which need to be addressed collaboratively.",
+      "qualification": "This perspective is based on speaker beliefs and statements rather than empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s116-yaml-088bdc41fd:c001:e003:66a2aeb6",
+        "youtube-shorts-run-transcripts-s117-yaml-be0a8100f9:c001:e002:fed67a2a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales tactics that were effective 15 years ago may no longer work in contemporary settings, suggesting a need for adaptation.",
+      "qualification": "The statement lacks specific examples or data on outdated tactics or newer alternatives.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s117-yaml-be0a8100f9:c001:e001:b580bb83"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A calm, problem-solving approach is advised when dealing with client objections, as opposed to aggressive objection handling.",
+      "qualification": "Advice is generalized and lacks specific strategy details or success metrics.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s119-yaml-c675edbb27:c001:e004:e982d98f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistency in dialing a set number of calls daily is suggested as a strategy for effective cold calling.",
+      "qualification": "This is advice without validated outcomes or alternatives.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s12-yaml-1d77e96348:c001:e002:3d1ac8f0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mastery of sales scripts is recommended to differentiate from other agents and improve closing rates.",
+      "qualification": "Advice is based on speaker experience and is not empirically validated.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s12-yaml-1d77e96348:c001:e003:a82dc73a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Overcoming objections through specific training courses is offered by the speaker, indicating personalized tactics may assist agents.",
+      "qualification": "Self-reported offerings could be promotional and lack independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s116-yaml-088bdc41fd:c001:e005:b6ac6fa0"
+      ]
+    }
+  ]
+}

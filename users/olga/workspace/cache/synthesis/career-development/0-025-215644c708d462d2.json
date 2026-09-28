@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Skills acquisition through self-learning and practice is commonly endorsed for career development.",
+      "qualification": "Although this is a widely held belief, the assertion lacks empirical validation in professional contexts.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-linkedin-asked-me-to-comment-md-ec27f29d81:c001:e005:bc7603fa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Realistic goal setting is considered essential for career progress, especially in sales.",
+      "qualification": "This advice is based on anecdotal experiences rather than formal studies.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e:c001:e002:7fde761a",
+        "linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e:c001:e003:4182f3c8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistency in small steps is seen as a fundamental principle for achieving career success.",
+      "qualification": "This belief is self-reported and lacks robust evidence from controlled studies.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e:c001:e004:18773e44"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal belief and self-motivation are important for career pursuit, especially when opportunities are primarily financially driven.",
+      "qualification": "Evidence is self-reported and may not generalize across different career situations or industries.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e:c001:e001:c06a793a",
+        "linkedin-posts-2024-06-03-turned-44-yesterday-thank-you-md-a9fa37bb6e:c001:e003:39b6511b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement requires understanding beyond numerical analysis, considering emotional factors.",
+      "qualification": "The advice is hypothetical and informed by specific market experiences, lacking empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-06-03-people-buy-with-emotions-and-md-e672c5ae4e:c001:e002:dd441ee1",
+        "linkedin-posts-2024-06-03-people-buy-with-emotions-and-md-e672c5ae4e:c001:e003:0eef54aa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Identifying clear client needs is important for effective professional collaboration.",
+      "qualification": "This notion is derived from individual experiences and is not verified by broader industry studies.",
+      "support_ids": [
+        "linkedin-posts-2024-06-03-turned-44-yesterday-thank-you-md-a9fa37bb6e:c001:e004:e757e5f0",
+        "linkedin-posts-2024-06-03-turned-44-yesterday-thank-you-md-a9fa37bb6e:c001:e005:446fefcf"
+      ]
+    }
+  ]
+}

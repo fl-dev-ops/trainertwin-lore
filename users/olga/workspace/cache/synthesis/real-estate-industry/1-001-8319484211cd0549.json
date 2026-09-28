@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Olga teaches sales skills in real estate, yet evidence of her effectiveness and specific strategies remains internally unverified.",
+      "qualification": "Her claim of teaching success is self-reported and lacks third-party corroboration.",
+      "support_ids": [
+        "instagram-olga-yaml-d81aa23bbe:c001:e001:450ef048"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai is highlighted as a prime spot for real estate due to its tourism, tax, and market advantages, but this assertion is part of promotional discourse and needs verification.",
+      "qualification": "The claims are largely promotional and demand independent evidence for substantiation.",
+      "support_ids": [
+        "linkedin-posts-2023-04-28-next-monday-ill-be-teaching-md-ee29d3c5cc:c001:e002:717ebd89",
+        "linkedin-posts-2023-04-28-next-monday-ill-be-teaching-md-ee29d3c5cc:c001:e003:54561604",
+        "linkedin-posts-2023-04-28-next-monday-ill-be-teaching-md-ee29d3c5cc:c001:e004:1b60c29f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate career paths are linked to financial potential and success; however, the claims may be optimistic without considering market variances.",
+      "qualification": "Statements about financial potential are subjective and rely heavily on personal ability and market conditions.",
+      "support_ids": [
+        "linkedin-posts-2023-06-20-can-you-recommend-a-good-md-2e602f88fb:c001:e002:47b50094",
+        "linkedin-posts-2023-07-25-you-can-succeed-even-if-md-1daa20bc52:c001:e001:791b6afd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is a purported effective lead generation tool in Dubai’s real estate industry, according to personal experiences.",
+      "qualification": "The efficiency of cold calling is based on individual reports and requires broader industry validation.",
+      "support_ids": [
+        "linkedin-posts-2023-05-04-have-you-ever-felt-uncomfortable-md-bd77f8310d:c001:e002:68d404aa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market shows strong sales growth, suggested by reported increases in off-plan sales volumes, yet broader economic impacts are undissected.",
+      "qualification": "Sales figures indicate growth, but the data lack economic context or deeper market analysis.",
+      "support_ids": [
+        "linkedin-posts-2023-07-18-offplan-sales-volume-increased-by-md-13f7af3437:c001:e001:8aa8a8c9",
+        "linkedin-posts-2023-07-18-offplan-sales-volume-increased-by-md-13f7af3437:c001:e002:01182bd4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Olga's transition from new agent to management highlights personal career growth, though specific details on role or organizational scale are absent.",
+      "qualification": "Career transition is self-reported with no external confirmation or details.",
+      "support_ids": [
+        "instagram-posts-2025-10-20-from-lost-new-agent-to-md-7a22ce85e4:c001:e001:a7c5c8f6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investment opportunities in Dubai vary across different areas, although the full scope and comparative prospects are not detailed.",
+      "qualification": "Locations are identified based on observation; investment comparison and potential details are missing.",
+      "support_ids": [
+        "linkedin-posts-2023-07-28-aside-from-budget-limitations-where-md-7d9683c32f:c001:e002:f56ec5c4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai real estate promises financial freedom with entry investments as low as AED 10,000, but risk factors and independent validation are not acknowledged.",
+      "qualification": "This promotional claim lacks a full risk assessment or independent proof, especially given market fluctuation risks.",
+      "support_ids": [
+        "linkedin-posts-2023-05-02-a-great-first-step-towards-md-24f75f60bb:c001:e003:982b9874"
+      ]
+    }
+  ]
+}

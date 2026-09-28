@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Mistakes in career can have long-lasting impacts, some of which may be irreversible.",
+      "qualification": "This is based on personal experience and may not reflect all situations.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e001:fc4daba9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An online academy supports continuous learning but doesn't fully replace the need for in-person training opportunities.",
+      "qualification": "This contrasts online with offline training benefits, highlighting limitations of solely digital learning.",
+      "support_ids": [
+        "linkedin-posts-2024-09-05-step-by-step-guide-to-my-online-md-baa2e01844:c001:e004:fd115376"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Experiential learning and practical application, as seen in practicing new questioning techniques, can enhance training outcomes.",
+      "qualification": "This advice is context-specific and contingent on appropriate application.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e003:80a02980"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-reported career milestones reflect personal narratives rather than universally applicable truths.",
+      "qualification": "These insights are self-reported and indicative of this individual's journey rather than generalized career advice.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e005:5197a611"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-limiting beliefs can hinder progress in online sales and career development, but overcoming them is key.",
+      "qualification": "Evidence is self-reported and comes from a single source.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e003:ff6877ed"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "It is important to envision a future to guide current personal and career growth.",
+      "qualification": "Advice is hypothetical and self-reported, lacking external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb:c001:e002:a091bedc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training sessions that include analogies are favored by some instructors for enhancing personal growth and understanding.",
+      "qualification": "The claim is self-reported and subjective from a single individual's perspective.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-this-piece-is-confusing-out-md-21cd565b66:c001:e001:c3df8726"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Feedback from international focus groups is used to inform development processes in career training.",
+      "qualification": "The assertion is self-reported and lacks details on size and methodology of the focus groups.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-dont-take-my-word-for-md-e97711ee9c:c001:e004:0141f4d2"
+      ]
+    }
+  ]
+}

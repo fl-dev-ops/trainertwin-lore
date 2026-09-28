@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "teaching_move",
+      "quote": "Instead of pitching features, use their exact words back to them.",
+      "statement": "Use clients' exact words back to them in presentations.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "most agents think selling means talking. But the real skill is listening.",
+      "statement": "The skill of selling lies in listening rather than talking.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "When clients tell you they dream of waking up to sea views, having breakfast on a balcony, or being close to their kids' school - write it down.",
+      "statement": "Write down clients' dreams and priorities during discussions.",
+      "topic": "client interaction",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "When you use their language, their priorities, their emotional triggers - resistance disappears.",
+      "statement": "Using clients' language reduces sales resistance.",
+      "topic": "sales performance",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "People trust themselves more than they trust you.",
+      "statement": "Clients trust themselves more than they trust agents.",
+      "topic": "mindset shift",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Help them convince themselves of what THEY already told you they want.",
+      "statement": "Help clients convince themselves rather than trying to persuade them.",
+      "topic": "objection handling",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post about sales techniques for agents to engage clients."
+}

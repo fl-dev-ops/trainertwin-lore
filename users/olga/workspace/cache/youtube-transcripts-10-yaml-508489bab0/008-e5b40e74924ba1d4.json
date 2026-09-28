@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I I really I really Before you ask him this question, he he never even thought about this.",
+      "statement": "He never understood before you start asking him that there is a gap.",
+      "topic": "client engagement",
+      "unit_id": "u000382"
+    },
+    {
+      "context": "advised",
+      "kind": "teaching_move",
+      "quote": "he's gonna still keep doing what? Thinking.",
+      "statement": "We are putting him in position when he thinks.",
+      "topic": "communication skills",
+      "unit_id": "u000387"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If I'm helping you and you need help, where is my status?",
+      "statement": "If I'm helping you and you need help, where is my status?",
+      "topic": "sales process",
+      "unit_id": "u000391"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "instead of two hours creating different offers and just just browsing what to send to the client, they now use in ten minutes max a day.",
+      "statement": "They now use in ten minutes max a day. And they look professional.",
+      "topic": "sales performance",
+      "unit_id": "u000408"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "based on the down payment, based on the how much down payment they have.",
+      "statement": "You can filter and understand which project are with hundred fifty thousand down payment.",
+      "topic": "client quality",
+      "unit_id": "u000417"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "the units are selling fast, that is the last unit.",
+      "statement": "The units are selling fast, that is the last unit. And he doesn't believe you.",
+      "topic": "investment opportunity",
+      "unit_id": "u000425"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "It's database of Primo Capital.",
+      "statement": "It's not going to be only written here, it's going to be Primo Capital.",
+      "topic": "teaching approach",
+      "unit_id": "u000432"
+    }
+  ],
+  "overview": "Transcript from a sales training session aimed at real estate agents in Dubai, focusing on buyer psychology and effective communication strategies during client interactions."
+}

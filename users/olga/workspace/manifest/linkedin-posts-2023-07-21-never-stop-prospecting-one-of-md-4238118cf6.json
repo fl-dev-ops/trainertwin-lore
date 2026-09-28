@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-07-21-never-stop-prospecting-one-of-md-4238118cf6-5e5648f182fe18bc.jsonl",
+  "external_id": "7088035218070077440",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:13:19Z",
+  "metadata_hash": "66dc9a4609d5ff999cd878f24df1e8f80e225c530eecd64d1ab61a89b391b0ac",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-21T06:01:25.314000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-21-never-stop-prospecting-one-of.md",
+  "source_sha256": "ec94fc077590e3afe4d285ea26a528b96df35aba04c3f4c18b198c4293bf1cda",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestateadvice-realestateexperts-dubairealestate-activity-7088035218070077440-OXr0"
+}

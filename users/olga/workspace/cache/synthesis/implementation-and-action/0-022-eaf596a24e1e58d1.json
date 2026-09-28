@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "There is a focus on teaching effective communication skills, specifically for off-plan buyers.",
+      "qualification": "The evidence is a self-reported claim and hasn't been independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-01-24-my-designer-skills-are-improving-md-6d5e3894fb:c001:e002:6ab29be2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Homeowners generally aim to sell their properties for the highest possible price, while buyers seek deals that feel exceptionally good.",
+      "qualification": "The evidence is based on statements from the same source and lacks independent confirmation.",
+      "support_ids": [
+        "linkedin-posts-2025-01-10-every-homeowner-wants-a-top-md-960ceadc79:c001:e001:d6c71a12",
+        "linkedin-posts-2025-01-10-every-homeowner-wants-a-top-md-960ceadc79:c001:e002:dd0b5f94"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A strategy is shared to reduce prices in a way that satisfies both sellers and buyers.",
+      "qualification": "The strategy is described as proven, but there is no external validation provided.",
+      "support_ids": [
+        "linkedin-posts-2025-01-10-every-homeowner-wants-a-top-md-960ceadc79:c001:e003:9cfcb827"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An individual saw a significant increase in deals closed and income within a short period by improving skills and understanding buyer psychology.",
+      "qualification": "The claim is based on self-reported outcomes which aren't independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7:c001:e005:9df00911",
+        "linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7:c001:e006:346d0a1a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The author receives numerous inquiries about training real estate agents and collaborating with companies, indicating a possible demand for their expertise.",
+      "qualification": "The claim is based on self-reported inquiries and lacks specific data or verification.",
+      "support_ids": [
+        "linkedin-posts-2025-01-21-would-you-consider-becoming-a-md-85ff284ff2:c001:e001:deafae20"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouragement to understand buyer psychology and communication skills can lead to improved sales performance.",
+      "qualification": "The evidence is anecdotal and not backed by a broader data set or study.",
+      "support_ids": [
+        "linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7:c001:e005:9df00911"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The end-of-year period involved a push to address overpriced listings, suggesting a seasonal strategic approach to real estate sales.",
+      "qualification": "The approach is advocated by the speaker without further details on effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-12-26-not-christmas-related-final-push-md-dd97ab43ac:c001:e001:0aaa7678"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is interest in engaging with buyer objections, specifically around price reductions in real estate sales.",
+      "qualification": "The evidence stems from a single self-reported source inviting discussion without further development provided.",
+      "support_ids": [
+        "linkedin-posts-2024-12-17-one-deal-away-from-your-md-8677a05be4:c001:e005:0df8281c"
+      ]
+    }
+  ]
+}

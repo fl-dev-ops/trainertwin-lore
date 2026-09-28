@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "instagram-olga-yaml-d81aa23bbe-1ac33eac71b128e6.jsonl",
+  "external_id": null,
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:04:17Z",
+  "metadata_hash": "662329f3c448a53703b3d0f758f6c683b033cb1ab2d86484a2a221240cc41504",
+  "model": "openai/gpt-4o-mini",
+  "published_at": null,
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/olga.yaml",
+  "source_sha256": "d4f9d8d697820d77643432df21086c511b7823d4bb34eda77766008397278afc",
+  "source_url": null
+}

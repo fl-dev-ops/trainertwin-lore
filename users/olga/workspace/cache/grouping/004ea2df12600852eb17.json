@@ -1,0 +1,109 @@
+{
+  "groups": [
+    {
+      "name": "Road Infrastructure",
+      "topics": [
+        "road-capacity",
+        "road-connectivity"
+      ]
+    },
+    {
+      "name": "Role Models and Role Playing",
+      "topics": [
+        "role-model-significance",
+        "role-play-strategy",
+        "role-playing",
+        "role-positioning"
+      ]
+    },
+    {
+      "name": "Compensation and Statistics",
+      "topics": [
+        "salary-statistics"
+      ]
+    },
+    {
+      "name": "Sales Activities and Challenges",
+      "topics": [
+        "sales-activities",
+        "sales-approach",
+        "sales-challenges"
+      ]
+    },
+    {
+      "name": "Sales Coaching and Training",
+      "topics": [
+        "sales-coaching",
+        "sales-introspection",
+        "sales-improvement"
+      ]
+    },
+    {
+      "name": "Sales Consistency and Effectiveness",
+      "topics": [
+        "sales-consistency",
+        "sales-effectiveness"
+      ]
+    },
+    {
+      "name": "Sales Experience and Focus",
+      "topics": [
+        "sales-experience",
+        "sales-focus"
+      ]
+    },
+    {
+      "name": "Sales Interaction and Communication",
+      "topics": [
+        "sales-interaction",
+        "sales-conversation",
+        "sales-introduction"
+      ]
+    },
+    {
+      "name": "Sales Data and Metrics",
+      "topics": [
+        "sales-data-relevance",
+        "sales-metrics"
+      ]
+    },
+    {
+      "name": "Sales Management",
+      "topics": [
+        "sales-management",
+        "sales-management-approach",
+        "sales-management-impact"
+      ]
+    },
+    {
+      "name": "Sales Mindset and Potential",
+      "topics": [
+        "sales-mindset",
+        "sales-potential"
+      ]
+    },
+    {
+      "name": "Sales Performance and Philosophy",
+      "topics": [
+        "sales-performance",
+        "sales-philosophy"
+      ]
+    },
+    {
+      "name": "Sales Pressure and Resistance",
+      "topics": [
+        "sales-pressure",
+        "sales-resistance"
+      ]
+    },
+    {
+      "name": "Sales Process and Improvement",
+      "topics": [
+        "sales-process",
+        "sales-process-adjustment",
+        "sales-process-improvement",
+        "sales-process-issues"
+      ]
+    }
+  ]
+}

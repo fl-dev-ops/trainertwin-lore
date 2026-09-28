@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-10-06-all-your-questions-answered-inside-md-c88e4752b5-ce99b999c7005f1f.jsonl",
+  "external_id": "7380860251119529984",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:58:35Z",
+  "metadata_hash": "1c27999f69d432e7ac0af8391f8889f84e7417331a4cc866c2fa2e9b298c9cff",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-10-06T07:03:33.619000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-10-06-all-your-questions-answered-inside.md",
+  "source_sha256": "ea4544b819d8d42dc32d5afb71b55f8968e68d36c964b99e4f7256a96a8ccd62",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatetrainingdubai-dubaipropertymarket-activity-7380860251119529984-bULc"
+}

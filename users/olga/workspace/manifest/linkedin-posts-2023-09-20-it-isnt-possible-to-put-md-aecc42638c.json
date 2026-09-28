@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-09-20-it-isnt-possible-to-put-md-aecc42638c-15651caca76c6eba.jsonl",
+  "external_id": "7110280770044203010",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:16:19Z",
+  "metadata_hash": "a0dd4444c22823a16f2f8f97d882430b22537293d2cc85b4933580aaf350de7e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-09-20T15:17:18.207000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-09-20-it-isnt-possible-to-put.md",
+  "source_sha256": "69529aad8addfa62c58038bded39a264a54ee12280f2124524f2aa47d7d8568c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestrainer-dubairealestate-trainingsession-activity-7110280770044203010-wMGn"
+}

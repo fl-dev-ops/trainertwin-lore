@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are commonly valued for career development, but the evidence is based on self-reported experiences without empirical validation.",
+      "qualification": "This conclusion relies on individual reports and beliefs, lacking broader empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e001:ab92d9cb",
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e003:8acc4041"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real coaching is seen as more effective than self-help resources like YouTube videos for career advancement.",
+      "qualification": "The evidence is anecdotal and self-reported, without systematic validation.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e004:22ed31ba",
+        "linkedin-posts-2025-09-01-meet-rahil-ahmed-future-start-md-e1d80178a2:c001:e001:f5098e24"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is considered crucial for career progress, though this is derived from self-reporting rather than objective measures.",
+      "qualification": "The finding is based on an offering and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-more-answers-inside-liveitup-real-md-405271d78c:c001:e001:22fd5818"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training programs and personal growth strategies are often credited with career advancement, exemplified by self-reported successes.",
+      "qualification": "The evidence is from self-reported outcomes and thus lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e004:22ed31ba",
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e009:e5fd59a5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using structured business strategies copied from successful peers is a recommended method for career development.",
+      "qualification": "This is based on a single personal account which lacks generalizability or empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e001:ab92d9cb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Certain professions within specific environments, such as real estate in Dubai, face unique career development challenges due to high turnover and financial risks for newcomers.",
+      "qualification": "The statement is based on self-reported observations specific to a niche market.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e008:47ca6cf0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Leadership programs tailored for future managers are being integrated into training offerings to foster career growth.",
+      "qualification": "The introduction of such programs is reported by their offering but lacks third-party validation.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e009:e5fd59a5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a perceived gap between theoretical and practical help, judging practical coaching as more impactful for career development than online resources.",
+      "qualification": "The conclusion is anecdotal, primarily derived from personal beliefs rather than quantitative data.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e004:22ed31ba"
+      ]
+    }
+  ]
+}

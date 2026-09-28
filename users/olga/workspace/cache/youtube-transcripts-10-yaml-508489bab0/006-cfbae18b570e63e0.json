@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Well, I I have a very low trust towards people.",
+      "statement": "I have a very low trust towards people.",
+      "topic": "personal reflection",
+      "unit_id": "u000305"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "We do come when we speak fast. When we are pushing through,",
+      "statement": "Salespeople come across as aggressive when speaking fast and pushing through.",
+      "topic": "observed behavior",
+      "unit_id": "u000306"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "it's very hard for you to bring the status up.",
+      "statement": "When you come into a relationship with lower status, it’s very hard to bring the status up.",
+      "topic": "mindset shift",
+      "unit_id": "u000314"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "come even with the higher status, or at least on the same level.",
+      "statement": "Come into the sales conversation with higher status, or at least on the same level.",
+      "topic": "engagement strategy",
+      "unit_id": "u000314"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "All of this is based on the human behavior, all I teach. And it works in absolutely any field of human connection.",
+      "statement": "All I teach is based on human behavior and it works in absolutely any field of human connection.",
+      "topic": "professional background",
+      "unit_id": "u000310"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "because you are needy, you are attached to the results, you want the sale.",
+      "statement": "Sales resistance increases when salespeople seem needy and attached to results.",
+      "topic": "sales performance",
+      "unit_id": "u000300"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "unfortunately, it's a little bit more than that.",
+      "statement": "Communication skills is more than what’s on our CV.",
+      "topic": "communication skills",
+      "unit_id": "u000316"
+    }
+  ],
+  "overview": "Sales Training on Buyer's Psychology for Real Estate Agents"
+}

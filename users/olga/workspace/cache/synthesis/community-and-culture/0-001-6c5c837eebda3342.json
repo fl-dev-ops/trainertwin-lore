@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A peculiar approach can yield favorable results.",
+      "qualification": "This is self-reported belief and lacks independent verification.",
+      "support_ids": [
+        "instagram-posts-2026-04-25-weird-but-it-works-md-9174be100d:c001:e001:248391ae"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Companies may provide support for professional growth.",
+      "qualification": "User claims are self-reported, making independent verification necessary.",
+      "support_ids": [
+        "instagram-posts-2026-05-21-get-trained-close-deals-grow-md-63761ec46e:c001:e003:4a9f3d8a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Decision-making funnels are crucial in Dubai real estate for investors.",
+      "qualification": "The claim is presented as an observed fact but lacks external validation.",
+      "support_ids": [
+        "instagram-posts-2026-06-10-decision-making-funnels-are-crucial-in-md-bf539dabe6:c001:e001:3a739c26"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rejection can be viewed as a tool for success.",
+      "qualification": "The idea is hypothetical, requiring additional corroboration.",
+      "support_ids": [
+        "linkedin-posts-2023-05-08-how-often-do-you-face-md-d2add85262:c001:e003:4058aa10"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Honest feedback is essential for personal effectiveness.",
+      "qualification": "Self-reported practice without independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e002:cd0672dc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The use of hashtags related to cold calling and real estate sales training is prevalent in Dubai's social media.",
+      "qualification": "The claim is based on observation within a specific social media post.",
+      "support_ids": [
+        "instagram-posts-2026-06-08-the-worst-time-or-the-md-d55c96e053:c001:e001:5c9da300"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The \"impostor voice\" may indicate being on the right professional path.",
+      "qualification": "This belief is based on personal interpretation and lacks external confirmation.",
+      "support_ids": [
+        "instagram-posts-2026-06-02-was-not-sure-why-i-md-0fb9fb70e9:c001:e002:aec66b7b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Transformation of past experiences is valued over returning to earlier life stages.",
+      "qualification": "The perspective is self-reported, suggesting subjectivity.",
+      "support_ids": [
+        "instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136:c001:e001:ad805615",
+        "instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136:c001:e004:75fb63e3"
+      ]
+    }
+  ]
+}

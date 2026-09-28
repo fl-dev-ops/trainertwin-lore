@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I’ve never needed to sell anything on LinkedIn. Not my training. Not my coaching programs.",
+      "statement": "I’ve never needed to sell anything on LinkedIn.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Train the Trainer: Real Estate Sales Mastery – Dubai Edition.",
+      "statement": "Train the Trainer: Real Estate Sales Mastery – Dubai Edition is designed for real estate trainers and professionals.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "A program that helps both: ✅ Those searching for high-quality real estate trainers.",
+      "statement": "This program helps those searching for high-quality real estate trainers and those who want to become a real estate trainer.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "You see the growing demand for real estate trainers but don’t know how to position yourself.",
+      "statement": "There is a growing demand for real estate trainers.",
+      "topic": "market demand",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "A way to earn not just a salary but also a percentage from agent sales.",
+      "statement": "You can earn not just a salary but also a percentage from agent sales by becoming a trainer.",
+      "topic": "personal growth",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Job placement support – I personally assist selected participants in securing training opportunities.",
+      "statement": "I personally assist selected participants in securing training opportunities.",
+      "topic": "professional background",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Know someone who could benefit from this? Share this post with them!",
+      "statement": "Encourages sharing the post to reach potential interested candidates.",
+      "topic": "engagement strategy",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I am selecting candidates through interviews, as this is a highly specialised programme.",
+      "statement": "Candidate selection for the program occurs through interviews.",
+      "topic": "application process",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Start: March 2025. 📲 Apply now by messaging on WhatsApp.",
+      "statement": "The program starts in March 2025 and has limited spots available.",
+      "topic": "program structure",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "A promotional LinkedIn post about a real estate training program."
+}

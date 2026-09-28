@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "For some, it’s family. For others, it’s career, passion, or personal growth.",
+      "statement": "For some, it’s family. For others, it’s career, passion, or personal growth.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "True freedom begins when you always have at least three options—where to work, what to do, and how to live.",
+      "statement": "True freedom begins when you always have at least three options—where to work, what to do, and how to live.",
+      "topic": "freedom",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Success isn’t just financial stability. It’s reaching a place where you choose your work not out of necessity, but because you love it.",
+      "statement": "Success isn’t just financial stability. It’s reaching a place where you choose your work not out of necessity, but because you love it.",
+      "topic": "success",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "So today, on Women’s Day, I ask: What does freedom mean to you?",
+      "statement": "Consider what freedom means to you.",
+      "topic": "life reflection",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Women have fought hard for the right to make their own choices.",
+      "statement": "Women have fought hard for the right to make their own choices.",
+      "topic": "women's rights",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A personal reflection on Women's Day highlighting the concept of freedom and choices."
+}

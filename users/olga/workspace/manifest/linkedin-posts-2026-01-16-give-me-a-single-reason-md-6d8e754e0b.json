@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "linkedin-posts-2026-01-16-give-me-a-single-reason-md-6d8e754e0b-1fc1585b2dae4c44.jsonl",
+  "external_id": "7417790021367324672",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:03:17Z",
+  "metadata_hash": "4466255f9de6ceb80761dcbaf6126874f7b73e764b90fe4c36ea99664d4c79d7",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-01-16T04:49:16.968000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-01-16-give-me-a-single-reason.md",
+  "source_sha256": "a235920eb7f1efa31c4449e4d1a44fe5c677086aa4ca3aa065c2c62916a50687",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatetraining-dubairealestate-actiontakers-activity-7417790021367324672-90Ic"
+}

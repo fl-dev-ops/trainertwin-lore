@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents face hostility and threats from clients.",
+      "qualification": "The evidence is self-reported and comes from a single LinkedIn post, limiting verification.",
+      "support_ids": [
+        "linkedin-posts-2024-05-22-pulling-yourself-back-after-dealing-md-b7c8ee9da7:c001:e001:1cab105b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are advised to understand clients' deeper reasons behind purchases to improve engagement.",
+      "qualification": "This is a belief stated by the author and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-05-24-as-agents-we-have-the-md-76d7b4f56f:c001:e001:e10d006f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A unique value proposition is essential for engaging sellers effectively in real estate.",
+      "qualification": "This advice is specific to the LinkedIn post's context and hasn't been corroborated independently.",
+      "support_ids": [
+        "linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d:c001:e003:7a2d8c57"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to share personal goals can boost engagement in real estate interactions.",
+      "qualification": "This is an engagement strategy observed by the author and lacks further validation.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e:c001:e005:2394278e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building trust by sometimes speaking against one's own interests can be effective.",
+      "qualification": "This is a claim from one source and might not apply universally.",
+      "support_ids": [
+        "linkedin-posts-2024-06-10-speaking-against-your-own-interests-md-2cc7669881:c001:e001:de73ba5c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking clients how they differentiate properties beyond figures can enrich engagement.",
+      "qualification": "These suggestions are from a single LinkedIn source and haven't been confirmed elsewhere.",
+      "support_ids": [
+        "linkedin-posts-2024-06-03-people-buy-with-emotions-and-md-e672c5ae4e:c001:e002:dd441ee1",
+        "linkedin-posts-2024-06-03-people-buy-with-emotions-and-md-e672c5ae4e:c001:e003:0eef54aa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement can be fostered by interactive strategies such as inviting comments and personal goal sharing.",
+      "qualification": "The strategies are observed on social media but lack external backing for efficacy claims.",
+      "support_ids": [
+        "linkedin-posts-2024-06-12-thank-you-all-one-more-md-3d1bbfa3ea:c001:e002:df551f62",
+        "linkedin-posts-2024-06-13-how-to-find-the-right-md-786ca7e7f4:c001:e006:281191cf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Quality investments are emphasized over cost savings in real estate client engagements.",
+      "qualification": "This stance represents the views in the LinkedIn posts and is not backed by broader data.",
+      "support_ids": [
+        "linkedin-posts-2024-05-24-as-agents-we-have-the-md-76d7b4f56f:c001:e005:51e73a31",
+        "linkedin-posts-2024-06-03-turned-44-yesterday-thank-you-md-a9fa37bb6e:c001:e005:446fefcf"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The employment visa in Dubai is consistently provided by the company hiring the employee.",
+      "qualification": "Observed context implies that this is a standard practice, though the source is unverified and does not establish a legal or universal requirement.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s143-yaml-25191d39ed:c001:e002:8067b6e0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an emphasis on creating a workplace that feels welcoming and homely, potentially extending beyond mere functional use.",
+      "qualification": "The evidence is based on self-reported intentions, lacking independent verification of outcomes or practices.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s182-yaml-17bdda5f96:c001:e002:96c7c61a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a belief that not hiring a certain candidate saved the company money, time, and potential internal damage.",
+      "qualification": "The outcome is speculative as the consequences of hiring remain hypothetical. This reflects self-reported assessment rather than validated impact measurement.",
+      "support_ids": [
+        "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:c001:e005:ed45cfd4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Approaching interviews in a way that makes candidates feel comfortable is considered a beneficial technique.",
+      "qualification": "The approach is self-reported without concrete evaluation of effectiveness or outcomes. No counterevidence suggests it is ineffective, but independent verification is absent.",
+      "support_ids": [
+        "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:c001:e002:1bc082a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Recruitment being viewed exclusively as a recruiter's responsibility is seen as indicative of poor team-building skills.",
+      "qualification": "This perception is derived from observed interaction and is self-reported. The assessment lacks corroboration with alternative perspectives or broader context.",
+      "support_ids": [
+        "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:c001:e004:b2f9f7ce"
+      ]
+    }
+  ]
+}

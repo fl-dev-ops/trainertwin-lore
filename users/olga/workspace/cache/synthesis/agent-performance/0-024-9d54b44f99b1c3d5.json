@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A proven price reduction strategy is claimed to enhance sales for both sellers and buyers.",
+      "qualification": "This strategy's efficacy is self-reported and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-01-10-every-homeowner-wants-a-top-md-960ceadc79:c001:e003:9cfcb827"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Commissions earned over a two-year period totaled only 60,000 AED, indicating limited financial success initially.",
+      "qualification": "The claim is self-reported and may not be indicative of overall agent performance.",
+      "support_ids": [
+        "linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7:c001:e002:6f60af7c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Significant improvement in sales occurred by closing six deals in October, earning 270,000 AED.",
+      "qualification": "The described success is self-reported without confirmation from third parties.",
+      "support_ids": [
+        "linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7:c001:e006:346d0a1a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding buyer psychology and mastering communication skills are linked to improved sales performance.",
+      "qualification": "The attribution of success to these methods is self-reported.",
+      "support_ids": [
+        "linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7:c001:e005:9df00911"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Numerous inquiries are received regarding training agents and collaborating with companies.",
+      "qualification": "The popularity of sales training inquiries is self-reported and may lack objective verification.",
+      "support_ids": [
+        "linkedin-posts-2025-01-21-would-you-consider-becoming-a-md-85ff284ff2:c001:e001:deafae20"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A candidate for real estate recruitment should have sales experience and be driven to learn and grow.",
+      "qualification": "Qualities for recruitment roles are observed and not independently corroborated.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-this-opportunity-is-for-you-md-4ec09e970e:c001:e002:973514e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Recruitment for real estate is fundamentally a sales role.",
+      "qualification": "Observation of recruitment as a sales role is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-this-opportunity-is-for-you-md-4ec09e970e:c001:e003:18d7a5bd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents may struggle with objection handling if they share the client's belief about prices being 'too expensive.'",
+      "qualification": "The psychological dynamics in objection handling are observed and may lack a comprehensive analysis.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e001:e02515d4"
+      ]
+    }
+  ]
+}

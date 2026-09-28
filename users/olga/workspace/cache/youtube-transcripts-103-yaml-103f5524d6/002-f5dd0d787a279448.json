@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the operation will be covered fift",
+      "statement": "The operation will be covered fifty percent by your insurance.",
+      "topic": "sales strategy",
+      "unit_id": "u000034"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "an extreme example. But I'm telling you",
+      "statement": "The speaker uses an extreme example to illustrate urgency in acquiring funds for a medical operation.",
+      "topic": "client engagement",
+      "unit_id": "u000034"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "not just one problem",
+      "statement": "The speaker suggests that multiple problems affect the decision-making processes of clients.",
+      "topic": "sales strategy",
+      "unit_id": "u000037"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "He is fearful he's going to make a wrong decision",
+      "statement": "Clients fear making wrong decisions due to insufficient information, which creates a need for guidance.",
+      "topic": "client interaction",
+      "unit_id": "u000044"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "How confident do you feel? Like based on, you know, the the actual numbers and",
+      "statement": "Ask clients how confident they feel in their ability to make informed decisions based on data and analysis provided.",
+      "topic": "sales process",
+      "unit_id": "u000046"
+    }
+  ],
+  "overview": "YouTube transcript discussing sales techniques and client engagement strategies."
+}

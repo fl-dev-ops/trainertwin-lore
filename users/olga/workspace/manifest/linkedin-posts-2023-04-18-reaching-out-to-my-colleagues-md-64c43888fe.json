@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-04-18-reaching-out-to-my-colleagues-md-64c43888fe-d2d5c96414da37fe.jsonl",
+  "external_id": "7053937157299744769",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:15:34Z",
+  "metadata_hash": "e1ecc55cabda472e2a68c974f5bd141347cda03ba585e1dd09e2623cf583ccf3",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-04-18T03:47:54.115000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-04-18-reaching-out-to-my-colleagues.md",
+  "source_sha256": "cf55f6156029eb94a904fcbb41ecb072e5bd37b2a1c27b6b22ffb50a0b7e122c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatemarketing-socialmediastrategy-leadgeneration-activity-7053937157299744769-qJV2"
+}

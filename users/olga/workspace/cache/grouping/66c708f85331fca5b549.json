@@ -1,0 +1,97 @@
+{
+  "groups": [
+    {
+      "name": "Business Strategy",
+      "topics": [
+        "mission-and-values",
+        "strategic-planning-in-sales",
+        "problem-solving"
+      ]
+    },
+    {
+      "name": "Real Estate Practices",
+      "topics": [
+        "real-estate-dynamics",
+        "real-estate-practices",
+        "mortgage-options",
+        "urban-development"
+      ]
+    },
+    {
+      "name": "Sales Techniques",
+      "topics": [
+        "sales-experience-and-strategy",
+        "sales-strategies",
+        "sales-techniques",
+        "sales-management-and-team-dynamics",
+        "sales-performance-and-improvement",
+        "sales-urgency-and-techniques",
+        "sales-interaction-and-engagement"
+      ]
+    },
+    {
+      "name": "Personal and Professional Development",
+      "topics": [
+        "personal-branding-presence",
+        "professional-development",
+        "personal-feedback-practice"
+      ]
+    },
+    {
+      "name": "Networking and Engagement",
+      "topics": [
+        "networking-engagement",
+        "support-and-training-resources"
+      ]
+    },
+    {
+      "name": "Productivity and Self-Assessment",
+      "topics": [
+        "productivity-and-self-assessment"
+      ]
+    },
+    {
+      "name": "Relocation and Employment",
+      "topics": [
+        "relocation-process",
+        "salary-and-employment-statistics"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "topics": [
+        "project-management"
+      ]
+    },
+    {
+      "name": "socio-economic-factors",
+      "topics": [
+        "socio-economic-factors"
+      ]
+    },
+    {
+      "name": "profile-link",
+      "topics": [
+        "profile-link"
+      ]
+    },
+    {
+      "name": "technology-in-sales",
+      "topics": [
+        "technology-in-sales"
+      ]
+    },
+    {
+      "name": "open-day",
+      "topics": [
+        "open-day"
+      ]
+    },
+    {
+      "name": "work-environment-and-integrity",
+      "topics": [
+        "work-environment-and-integrity"
+      ]
+    }
+  ]
+}

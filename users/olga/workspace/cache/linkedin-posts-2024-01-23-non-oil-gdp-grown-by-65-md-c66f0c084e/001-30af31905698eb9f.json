@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Non-Oil GDP grown by 65% and tourism increased by 135%! Amazing I was a part of it",
+      "statement": "Non-Oil GDP grown by 65% and tourism increased by 135%!",
+      "topic": "economic growth",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post highlighting economic growth and personal experience in tourism."
+}

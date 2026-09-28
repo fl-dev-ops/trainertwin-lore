@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-12-06-one-of-the-great-achievement-md-ca89a59de4-e206de8f590ce4bd.jsonl",
+  "external_id": "7138006666607841280",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:19:27Z",
+  "metadata_hash": "067ff8e4b591933b7689ee934e455f295fd2cb6e2b457edab12e3feca0a54257",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-12-06T03:30:07.070000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-12-06-one-of-the-great-achievement.md",
+  "source_sha256": "0e8a3ded4dbf47da044966a7b7c662ab12f018ffb677fec489cc827ea310fe24",
+  "source_url": "https://www.linkedin.com/posts/olgasi_riyadhtheworldschoice-riyadhexpo2030-activity-7138006666607841280-YXTf"
+}

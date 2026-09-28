@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2025-04-28-from-the-outside-dubai-looks-md-2f1c9d0170-6677863278832ac4.jsonl",
+  "external_id": "7322477173263507456",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:42:23Z",
+  "metadata_hash": "c9cb03130a687abcbe504c39c2132b554507373c89307f45c3fc9762d89a8f7c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-28T04:30:03.153000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-28-from-the-outside-dubai-looks.md",
+  "source_sha256": "e15edc949c6cd3f6d7cf17c382938fe7b89402eeac450b7edffb2299155d27ad",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestatesalestraining-relocatetodubai-activity-7322477173263507456-E_eU"
+}

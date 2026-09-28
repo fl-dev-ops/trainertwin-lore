@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "I'm now developing a new sales process for one of my clients based on dialogue-style sales scripts and personalised video content.",
+      "statement": "Developing a new sales process based on dialogue-style sales scripts and personalised video content.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I’m literally going through all the processes myself - calling leads with my script/creating videos and presentation material.",
+      "statement": "Going through all the processes myself, including calling leads with my script and creating videos.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "finding the way to optimise and automate.",
+      "statement": "Working on finding ways to optimize and automate the sales process.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "It's fun to be back on the field and face the POST-TRUST ERA clients.",
+      "statement": "Enjoying being back on the field and engaging with clients after a challenging period.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post detailing the author's current work on a sales process."
+}

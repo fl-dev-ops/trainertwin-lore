@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Fear of rejection is considered a significant barrier in sales.",
+      "qualification": "This is a hypothetical observation and remains unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-11-15-its-time-to-uncover-the-md-6d4e6206d5:c001:e001:f29eb338"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The effectiveness of sales is enhanced by asking the right questions at the right time.",
+      "qualification": "This statement is an observation and lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-11-15-selling-isnt-just-telling-its-md-e4301c74cd:c001:e001:51213ce4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Perfection in sales is considered a myth, and a realistic approach is more relatable.",
+      "qualification": "This perspective is advised and not independently corroborated.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-is-this-unit-really-that-md-adbce7b6df:c001:e002:46b8c170"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using WhatsApp is recommended as a tool for generating seller leads in real estate.",
+      "qualification": "This advice is given without supporting data to verify its effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e001:151ad5d3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Existing methods like the Instagram Funnel are not viewed as effective for lead generation.",
+      "qualification": "The statement reflects a belief, not based on verifiable evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e004:5ddf6690"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales in the real estate industry face particular challenges.",
+      "qualification": "The challenges are noted observationally and not specified in detail.",
+      "support_ids": [
+        "linkedin-posts-2024-11-21-sales-isnt-easy-and-real-md-90799e656e:c001:e001:0ee9c651"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Video content can break down steps on how to build trust and qualify, offering structured guidance in sales training.",
+      "qualification": "This is an observed claim lacking additional verification.",
+      "support_ids": [
+        "linkedin-posts-2024-11-15-selling-isnt-just-telling-its-md-e4301c74cd:c001:e002:ea38a2e9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "If a current strategy generates 10 new market-priced listings monthly, additional guidance may not be necessary.",
+      "qualification": "The statement is self-reported and not corroborated by independent evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-11-26-how-do-you-get-listings-md-47c30437a8:c001:e003:45cf3b35"
+      ]
+    }
+  ]
+}

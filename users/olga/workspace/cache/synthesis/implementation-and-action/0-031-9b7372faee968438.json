@@ -1,0 +1,65 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "LiveItUp Real Estate Growth Academy offers streaming-like real estate training focusing on skills, communication, and deal-closing systems.",
+      "qualification": "Though information about the academy is frequently repeated, the effectiveness and popularity of its training systems remain unverified as the evidence is self-reported.",
+      "support_ids": [
+        "linkedin-posts-2025-09-03-10-years-of-dubai-deals-md-1e833b6938:c001:e001:c7b3b63f",
+        "linkedin-posts-2025-09-10-more-answers-inside-liveitup-real-md-3add54f6ff:c001:e001:e2beec3f",
+        "linkedin-posts-2025-09-22-how-do-i-convince-a-md-d38ea41a24:c001:e002:7aeaafa9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Commitment to 300 dials a day can build sales confidence, with reports of improved performance.",
+      "qualification": "The efficacy is claimed from a case study of one individual, meaning broader applicability is unknown.",
+      "support_ids": [
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e002:82eb925e",
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e003:142041a2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Video answers to sales-related questions are provided step-by-step through social media engagement.",
+      "qualification": "This method is interactive, yet the quality and reception of the advice are not independently assessed.",
+      "support_ids": [
+        "linkedin-posts-2025-09-04-do-you-have-a-question-md-d37c1273b0:c001:e002:d554464c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Addressing client discount requests effectively forms part of hypothetical sales advice.",
+      "qualification": "The advice is hypothetical with no validation of the proposed methods' effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2025-09-04-do-you-have-a-question-md-d37c1273b0:c001:e004:32294d57"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The training offerings incorporate long-term experience in Dubai's real estate market, distilled into accessible formats.",
+      "qualification": "Details on how this experience is translated into training programs are limited and self-reported.",
+      "support_ids": [
+        "linkedin-posts-2025-09-15-10-years-of-dubai-real-md-5d9b78b65f:c001:e001:0eb67ee0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training is promoted through social media with direct links to catalogs and start-up calls to action.",
+      "qualification": "The effectiveness of these social media strategies on engagement or conversion is unsubstantiated.",
+      "support_ids": [
+        "linkedin-posts-2025-09-10-more-answers-inside-liveitup-real-md-3add54f6ff:c001:e003:26ca7c0f",
+        "linkedin-posts-2025-09-17-more-answers-inside-liveitup-real-md-9d5321818d:c001:e002:37c0cfd7",
+        "linkedin-posts-2025-09-17-more-answers-inside-liveitup-real-md-9d5321818d:c001:e003:b4a21eb0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Managing objections and convincing buyers is a targeted area within the training offerings.",
+      "qualification": "While targeted, the measure of training success in overcoming objections is not evaluated.",
+      "support_ids": [
+        "linkedin-posts-2025-09-22-how-do-i-convince-a-md-d38ea41a24:c001:e002:7aeaafa9"
+      ]
+    }
+  ]
+}

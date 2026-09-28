@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-09-05-step-by-step-guide-to-my-online-md-baa2e01844-67de6d71eb68f636.jsonl",
+  "external_id": "7237359888580935681",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:31:04Z",
+  "metadata_hash": "fe4ab47fdc70cf849fce6ed60d9c83ed025a284d3a6262b3cafa6771284fc04e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-05T07:24:21.082000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-05-step-by-step-guide-to-my-online.md",
+  "source_sha256": "41866a6000c0e03da4012b39fdc755ec20c67801f8330035ad55d81f3e0e51ab",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatecoach-salestraining-casestudy-activity-7237359888580935681-mrU4"
+}

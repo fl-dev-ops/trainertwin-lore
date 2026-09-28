@@ -1,0 +1,22 @@
+id: s100
+title: Is Dubai's Economy Stronger Than Ever？ Real Estate Insights 2024
+date: '2024-08-08'
+source: Is Dubai's Economy Stronger Than Ever？ Real Estate Insights 2024
+audio_file: Is Dubai's Economy Stronger Than Ever？ Real Estate Insights 2024 [wDdaOMQ4cAE].mp3
+duration: "00:00:19"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 2
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    So what is actually happening in Dubai?
+- t: "00:00:02"
+  speaker: '1'
+  text: >-
+    stability of economy means diversification within different sectors. So not only real estate, tourism,
+    trade. Now, now we we we're bringing up the first casino in the region and I don't want to say it's
+    doesn't matter that it's not in Dubai.

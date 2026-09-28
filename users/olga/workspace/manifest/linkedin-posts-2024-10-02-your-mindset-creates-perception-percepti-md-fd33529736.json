@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-10-02-your-mindset-creates-perception-percepti-md-fd33529736-2c2665401c5ab2b7.jsonl",
+  "external_id": "7247266614302195714",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:33:40Z",
+  "metadata_hash": "b54082e6e0597b162b4e9b10d5b3057419f5c1026c29b28c5ca515fb1813bdb4",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-10-02T15:30:08.552000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-10-02-your-mindset-creates-perception-percepti.md",
+  "source_sha256": "a7be94d2d3715c26da43ba5aee9152219d2927370c0e19e9c5ef7609255adbb3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_mindset-activity-7247266614302195714-QcVr"
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the client mentally returns to why he start looking and while answering he starts revealing the problem, the curiosity, the reason he is not happy with his current situation.",
+      "statement": "A client will begin to reveal problems and curiosity when prompted appropriately.",
+      "topic": "client engagement",
+      "unit_id": "u000028"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Neutral tone, not assumptive. Then ask. And when you saw the ad, like, besides the shiny computer graphics, what was about the ad that kind of attracted you?",
+      "statement": "Use a neutral and curious tone during initial client interactions to avoid assumptions.",
+      "topic": "sales strategy",
+      "unit_id": "u000027"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "He needs to realize there is something important he doesn't yet understand about choosing the right investment.",
+      "statement": "Create a vacuum in the client's mind to encourage them to realize the need for guidance.",
+      "topic": "client engagement",
+      "unit_id": "u000032"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "make the client pitch Dubai to himself by himself.",
+      "statement": "Encourage the client to pitch benefits of Dubai themselves to build belief in the investment.",
+      "topic": "sales strategy",
+      "unit_id": "u000037"
+    }
+  ],
+  "overview": "Transcript from a discussion about sales techniques in Dubai real estate, emphasizing client engagement and effective communication."
+}

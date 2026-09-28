@@ -1,0 +1,24 @@
+---
+id: '3925227455959736931'
+type: reel
+date: '2026-06-22T15:54:29.000Z'
+url: https://www.instagram.com/p/DZ5NZMPFyJj/
+likes: 16
+comments: 0
+views: 121
+videoUrl: https://scontent-nrt1-1.cdninstagram.com/o1/v/t2/f2/m86/AQNX365oSdzdf_u0lqyvHhXgJQtsWHpKBwzp0xLQB3WkVvlgP24JVbd8AOUDkFAQ4WUprXLsglgLwZKEujrD_AeAkOriZBRq5A0xtRs.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=J2kFilk5ZS4Q7kNvwE0XjKK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgzNTY0NTUxMjYyMDg1NDksImFzc2V0X2FnZV9kYXlzIjo5NCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=bb9085b47cdfcf07&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDRDRURDQTRDQkY5ODYyMzAyRjBBN0I4OEE2MUY4Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y3NDk1QUY0MTRENjU4RkJFRjNBMEZDNTk0MUQ0RUE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbKwJCyqMabQRUCKAJDMywXQEclP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=ngymJDlXgaOKa5QNb_oq-w&_nc_ss=7a22e&_nc_zt=28&oh=00_AQJizZ1Ofv-iu-MzBDpv7wyzjRCkegpDy2aiVtXAzASDBg&oe=6AB83729
+---
+
+## Caption
+Just hold his hand
+
+*
+*
+*
+*
+*
+#*
+*
+*
+*
+* #ColdCallingDubai #ColdCallingTraining #ColdCallingTips #ColdCallingScripts #ColdCallingBlueprint #ColdCallingLessons #MasterColdCalling #DubaiRealEstateTraining #RealEstateSalesTraining #RealEstateCoachDubai #DubaiRealEstateCoach #SalesCoachingForAgents #RealEstateAgentTraining #RealEstateAgentTips #ListingBasedBusiness #OvercomingSalesFear #ObjectionHandling #SalesConfidenceTechniques #RealEstateNegotiationSkills #ClosingDealsDubai #NewAgentSuccess #RealEstateGrowthStrategies #RealEstateCoachingDubai #DubaiAgentTraining #RealEstateCourseDubai #OnlinePropertyPresentation #LocationBasedSales #SellingToGlobalInvestors #RealEstateSalesStrategies

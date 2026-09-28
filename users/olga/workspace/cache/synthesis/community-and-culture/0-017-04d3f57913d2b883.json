@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A mindset shift can help individuals move from denial and anger to acceptance, facilitating the grieving process.",
+      "qualification": "This evidence is self-reported and lacks independent corroboration.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s179-yaml-ab1c501906:c001:e002:d5a885af"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A strong connection with one's future is associated with resilience and unity.",
+      "qualification": "The evidence is self-reported rather than independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s180-yaml-e28c846232:c001:e003:27d985f6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Not having a role model can make it difficult to create a plan for success.",
+      "qualification": "The evidence is self-reported and lacks external validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s186-yaml-bf5111a45d:c001:e001:a215128c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Top performance in sales requires doing things that most others don't, indicating the need for a unique mindset.",
+      "qualification": "The finding is based on a single person's observation and might not be universally applicable.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s188-yaml-acedd10670:c001:e004:e2b3ec48"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The contrast between looking good and being poor versus gaining better sales skills suggests a priority shift for financial success.",
+      "qualification": "Limitations include reliance on self-reported advice without further context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s201-yaml-0976b45039:c001:e002:b732de00"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Seeing uncertainty as excitement can change one's perception of challenges.",
+      "qualification": "This personal perspective is self-reported, and its applicability to others is uncertain.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s32-yaml-b69ee8b4ba:c001:e001:1dfe861d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Remaining calm during negotiations can improve understanding of client situations in sales.",
+      "qualification": "This is a belief and may not be universally effective in all sales scenarios.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s42-yaml-f129776f47:c001:e002:676d4447"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal commitment to success is questioned as either genuine or driven by desperation.",
+      "qualification": "This is a hypothetical inquiry and lacks solid evidence to support either possibility.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s27-yaml-7f045c8acb:c001:e001:35bbd175"
+      ]
+    }
+  ]
+}

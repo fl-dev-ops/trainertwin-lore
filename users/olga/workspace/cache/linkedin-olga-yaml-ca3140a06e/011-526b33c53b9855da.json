@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "realestateagenttraining-realestateagenttips",
+      "statement": "Real estate agent training is discussed in multiple posts.",
+      "topic": "sales training",
+      "unit_id": "u000560"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "https://www.linkedin.com/posts/olgasi_realestateagenttraining-realestateagenttips-activity-7465620384202063872-1udo",
+      "statement": "Multiple links to LinkedIn posts indicate regular content sharing.",
+      "topic": "social media engagement",
+      "unit_id": "u000560"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "im-growing-my-youtube-channel",
+      "statement": "The author claims to be growing their YouTube channel.",
+      "topic": "personal growth",
+      "unit_id": "u000584"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "if-you-have-a-wrong-sales-manager-it",
+      "statement": "Agents are advised to consider the impact of their sales manager's effectiveness.",
+      "topic": "sales training effectiveness",
+      "unit_id": "u000564"
+    },
+    {
+      "context": "self_reported",
+      "kind": "case_study",
+      "quote": "negotiated-my-rent-down-by-5-but-honestly",
+      "statement": "The author reports negotiating rent down by 5%.",
+      "topic": "observed behavior",
+      "unit_id": "u000568"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "will-you-adapt-to-a.",
+      "statement": "There is an encouragement felt by the author to adapt during challenging times.",
+      "topic": "performance excellence",
+      "unit_id": "u000617"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "have-you-already-called-every-friend-client",
+      "statement": "The author offers training aimed at improving sales performance in real estate.",
+      "topic": "service offer",
+      "unit_id": "u000600"
+    }
+  ],
+  "overview": "LinkedIn posts from an unknown author focused on real estate and sales training."
+}

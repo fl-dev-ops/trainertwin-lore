@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-03-16-feeling-uncertain-join-my-md-e9c31b34c9-77d1aee5b7c9c3ac.jsonl",
+  "external_id": "7439166068532736000",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:05:35Z",
+  "metadata_hash": "c8178ec7b428e078d334e724e4828d02a47aa76b369a10a1baee61343f428437",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-16T04:30:03.760000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-16-feeling-uncertain---join-my.md",
+  "source_sha256": "b6fe999d1e4fb13ac2778212f1b807f46641aa30867b4c70e8042a665edca404",
+  "source_url": "https://www.linkedin.com/posts/olgasi_feeling-uncertain-join-my-strang-in-sales-activity-7439166068532736000-1ciz"
+}

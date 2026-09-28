@@ -1,0 +1,295 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Persistent effort in training is portrayed as essential for sales performance improvement compared to short-term measures.",
+      "qualification": "Metaphorically compared to fitness training, lacking empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e006:1821a0f4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales teams lack effective online selling skills, impacting conversion rates.",
+      "qualification": "Observed phenomena require broader evidence for applicability.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e003:6934de23",
+        "linkedin-posts-2024-09-03-whats-missing-in-your-sales-md-d4d6a54ae6:c001:e002:510939b1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is high agent turnover in Dubai's real estate market, with many quitting before earning commissions.",
+      "qualification": "Statistic is self-reported and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e001:f9f7a553"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents struggle with objection handling due to alignment with client beliefs on pricing.",
+      "qualification": "Issues are self-reported without concrete data analysis.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e001:e02515d4",
+        "linkedin-posts-2024-02-19-if-you-are-a-real-md-607df8c14f:c001:e001:4ac42307"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales scripts are reintegrated in training despite past skepticism about effectiveness.",
+      "qualification": "Based on personal experience, lacking broader validation.",
+      "support_ids": [
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e001:5eea9797",
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e004:1d8eb208"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High upfront costs in real estate activities in Dubai imply significant investment risk.",
+      "qualification": "Claims are anecdotal and require external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e008:1abdaa53",
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e009:3ccd0b9a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building internal urgency from a client’s dissatisfaction may be more effective than external urgency in real estate sales.",
+      "qualification": "Advice is self-reported without empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2023-10-27-what-is-the-main-reason-md-ed7d7f9fe5:c001:e005:9ac14a9a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Startup founders' attempts at profitability can result in frustration due to substantial effort without profit.",
+      "qualification": "Based on subjective observations from social media.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e005:fa1894f8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dependence on 'top closers' indicates a potentially unsustainable business model in sales.",
+      "qualification": "Insight requires broader analysis and verification.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e007:eefe0372"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal negotiation skills can lead to tangible benefits but are specific and not universally applicable.",
+      "qualification": "Reported savings are anecdotal and may not apply broadly.",
+      "support_ids": [
+        "linkedin-posts-2026-05-26-i-negotiated-my-rent-down-md-1799d39385:c001:e001:2e18b6bc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Open feedback and audience interaction on social media fosters client engagement effectively.",
+      "qualification": "The effectiveness varies by platform and audience specifics, without empirical support.",
+      "support_ids": [
+        "linkedin-posts-2023-09-07-im-curious-to-know-what-md-a978e0b1c5:c001:e003:2bfada42",
+        "linkedin-posts-2023-09-05-my-linkedin-network-is-looking-md-5a7459e4c3:c001:e005:a62f9d1f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cultural and language awareness enhances communication in diverse client environments.",
+      "qualification": "Evidence is anecdotal and may not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2024-11-25-in-a-global-hub-like-md-1d8305f46d:c001:e004:86baaa70"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Disappearing clients before deal closure is a common challenge in client engagement.",
+      "qualification": "Noted in training contexts but lacks specific resolution strategies.",
+      "support_ids": [
+        "linkedin-posts-2024-08-28-just-in-time-for-lunch-break-md-e53e7cafe4:c001:e002:df7aadbf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training processes aid real estate agents in client interactions and future opportunity creation.",
+      "qualification": "Benefits are self-reported without external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-ill-be-the-first-to-md-6ee40702d8:c001:e003:63192e79"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Pressure tactics in sales lead to client disengagement and trust loss.",
+      "qualification": "The claim is observable but lacks cross-source or empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e002:623be762"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding clients' needs is more effective than overtaking in sales tactics.",
+      "qualification": "Presented as a belief without empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e001:4e8c6c3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset reprogramming in coaching is promoted for overcoming objections in sales.",
+      "qualification": "Based on self-reported methods, not traditional techniques.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e004:0e7e4510"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Community ties are reportedly influential on personal and professional development.",
+      "qualification": "Indicates personal bias and lacks universal applicability.",
+      "support_ids": [
+        "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9:c001:e001:adbd3a98"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Signalized intersections are replacing roundabouts in Dubai to improve traffic flow.",
+      "qualification": "Unverified, based on LinkedIn observations.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e007:b001986a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media engagement strategies encourage follower interaction through comments.",
+      "qualification": "Effectiveness lacks empirical verification.",
+      "support_ids": [
+        "linkedin-posts-2024-01-16-this-training-was-a-special-md-0aaee2e815:c001:e003:c7871e84",
+        "linkedin-posts-2024-05-08-im-off-to-a-new-md-2635416515:c001:e005:2aaaaab3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Doubts and anxiety frequently play into consumer decision-making regarding purchases, indicating a pattern of cautiousness and extended research before committing to buy.",
+      "qualification": "Details are self-reported and use analogies rather than statistical data, lacking independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2025-08-21-first-i-want-you-to-md-f179197d31:c001:e003:c176418a",
+        "linkedin-posts-2026-03-23-happy-monday-dubai-real-estate-md-38d99d8827:c001:e001:551c8963"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The integration of artificial intelligence into the real estate industry is progressing, though its impact remains largely aspirational without widespread evidence of effectiveness.",
+      "qualification": "Statements are self-reported and reflect optimism without broader market adoption data.",
+      "support_ids": [
+        "linkedin-posts-2025-09-23-if-you-missed-the-realtek-md-ffb5b8ba60:c001:e002:6a27f3b9",
+        "linkedin-posts-2024-09-17-dont-take-my-word-for-md-e97711ee9c:c001:e005:76f82c57"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consumers' decision-making is influenced by external factors including news and geopolitical events, contributing to a complex purchase landscape.",
+      "qualification": "Observational claim not backed by comprehensive market data or studies.",
+      "support_ids": [
+        "linkedin-posts-2026-03-10-right-now-were-entering-a-md-be3b13d0a4:c001:e002:962c76ec"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The use of social media and associated services is increasingly pervasive in real estate practices for training and lead generation, indicating a shift towards digital marketing strategies.",
+      "qualification": "Mostly self-reported individual experiences without independent third-party verification.",
+      "support_ids": [
+        "instagram-posts-2026-05-21-get-trained-close-deals-grow-md-63761ec46e:c001:e002:990771dc",
+        "linkedin-posts-2024-02-06-im-looking-for-a-freelance-md-c7940a2c88:c001:e005:2d5f2f29"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate transactions in Dubai tend to be offline, suggesting a gap in digital adoption within the industry compared to global trends.",
+      "qualification": "'Offline' is not clearly defined, and there is insufficient exploration of its full impact on the market.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s99-yaml-bc79c8f871:c001:e001:53c33e9f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There are growing perceptions of ethical considerations in sales, such as trustworthiness and honesty, as key drivers for closing deals in the real estate sector.",
+      "qualification": "Predominantly self-reported beliefs without large-scale empirical analysis or study.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s170-yaml-c95654966a:c001:e002:7407db0d",
+        "linkedin-posts-2023-08-15-never-trust-a-sales-person-md-c5efc806b5:c001:e001:bf4179ce"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Making smart investments is crucial for long-term financial health, as advised in a LinkedIn post.",
+      "qualification": "The source is advice from a social media platform and is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-06-24-whats-the-difference-between-being-md-294632c478:c001:e003:139b6527"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales team dynamics are crucial for financial outcomes in the first year, emphasizing initial team impact.",
+      "qualification": "This is presented as a fact claim but lacks corroboration from multiple sources.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e002:88f0bb56"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In the UAE, business owners don't provide overly generous or unwarranted benefits, indicating strict employer expectations.",
+      "qualification": "This is a self-reported perception and not a verified fact.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-linkedin-asked-me-to-comment-md-ec27f29d81:c001:e003:126d9ee0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Festive team activities such as potlucks improve team morale at Chestertons MENA.",
+      "qualification": "This is a self-reported instance and may not represent the general practice.",
+      "support_ids": [
+        "linkedin-posts-2024-12-20-we-had-an-amazing-festive-md-fa036de3f1:c001:e001:6093bc60"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Companies prioritize hiring for potential and character traits over past sales performance or CV details.",
+      "qualification": "This is advice-based and observed, not universally practiced or proven successful.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e003:e64a2b11",
+        "linkedin-posts-2025-05-15-why-i-no-longer-hire-md-34bb92c857:c001:e002:27608161"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A dynamic, growth-oriented work environment is seen as beneficial for employee development.",
+      "qualification": "This is an expressed goal rather than a reported outcome.",
+      "support_ids": [
+        "linkedin-posts-2025-05-02-im-looking-for-my-training-md-892ab86a73:c001:e007:74378f5e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a recognized entitlement issue among agents when communicating with clients, suggesting possible training needs.",
+      "qualification": "This observation lacks broader contextual data to assess its prevalence or impact.",
+      "support_ids": [
+        "linkedin-posts-2025-11-06-i-just-wrote-this-commenting-md-bf48780919:c001:e003:2690de0c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Segmenting audiences based on criteria such as experience and behavior is recommended to improve workflow efficiency.",
+      "qualification": "This is a recommended practice discussed in a specific training context and may not be applicable to all workplace environments.",
+      "support_ids": [
+        "linkedin-posts-2025-11-17-me-and-my-online-academy-md-e40dd27252:c001:e005:6f1a0f5c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Approaching interviews in a way that makes candidates feel comfortable is considered a beneficial technique.",
+      "qualification": "The approach is self-reported without concrete evaluation of effectiveness or outcomes. No counterevidence suggests it is ineffective, but independent verification is absent.",
+      "support_ids": [
+        "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:c001:e002:1bc082a4"
+      ]
+    }
+  ]
+}

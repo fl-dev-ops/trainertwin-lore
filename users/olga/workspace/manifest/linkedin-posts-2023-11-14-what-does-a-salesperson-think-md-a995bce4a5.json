@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5-3371513efeae4070.jsonl",
+  "external_id": "7130213956421357568",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:18:59Z",
+  "metadata_hash": "84240d212021ac616c8ad9e6ba9723ae88b3822504dd9168e25ce8d5623cc8b1",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-11-14T15:24:40.180000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-11-14-what-does-a-salesperson-think.md",
+  "source_sha256": "e1db88fcbba0ea9d1b17d0393b1ba6f845e53d7695b20da698ff140a8897de10",
+  "source_url": "https://www.linkedin.com/posts/olgasi_what-does-a-salesperson-think-the-client-activity-7130213956421357568-GxAG"
+}

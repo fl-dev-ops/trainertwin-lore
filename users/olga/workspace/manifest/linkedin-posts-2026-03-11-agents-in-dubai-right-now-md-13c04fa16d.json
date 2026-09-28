@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d-f3841212c7e3b6e7.jsonl",
+  "external_id": "7437354155905720321",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:05:04Z",
+  "metadata_hash": "7af5b44ba7cb44468f7d29a74a4776cdcb05182b13e9588b744b8e331235c379",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-11T04:30:10.126000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-11-agents-in-dubai-right-now.md",
+  "source_sha256": "aedcb1db4ebe06386944b1d05518307680d7e79d572e82b75080d1614fd58684",
+  "source_url": "https://www.linkedin.com/posts/olgasi_agents-in-dubai-right-now-you-keep-telling-activity-7437354155905720321-qauo"
+}

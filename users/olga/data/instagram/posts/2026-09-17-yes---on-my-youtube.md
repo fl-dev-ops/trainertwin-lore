@@ -1,0 +1,16 @@
+---
+id: '3987994461602135310'
+type: reel
+date: '2026-09-17T06:20:07.000Z'
+url: https://www.instagram.com/p/DdYM9ViBT0O/
+likes: 18
+comments: 0
+views: 134
+location: Dubai, United Arab Emirates
+videoUrl: https://instagram.frec43-1.fna.fbcdn.net/o1/v/t16/f2/m84/AQNLG_B97NsKcHunOQDzif27H3P8rZM9HURXIw-E7jU_mNy5N6phvtC7OsncttJBt9OJ8U4iy_7JPD-TgBJ86I81iCAZkE2DNEXjmig.mp4?_nc_cat=105&_nc_oc=AdpJkiBCrbMbdPR1EV9D9tmkzJoK78WC-sRcyePIjUgRFXud0kiE1o8u-R4TF5-wM1M&_nc_sid=5e9851&_nc_ht=instagram.frec43-1.fna.fbcdn.net&_nc_ohc=b2vLBU6G_qgQ7kNvwGMOQ6J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc4MjM1MTg1OTU1NjE5MCwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjo2NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=76f7b1010d9b602c&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC82QzRGODdEMzNBRURBQjdENDQ4REY2MDkxMDExQzM4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzEyNDY4QTk1Mjk3RDYzRDdBQTY3N0EzM0UxRUVFNzlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8_aCXxMKqBhUCKAJDMywXQFD1T987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZZapAQA&_nc_gid=KaX7n-XxchVIiLAduRytJw&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQLVOY6e0COfL-XD9Ulaq82p4mPGRhMki9Mdek4TvHWuWg&oe=6AB807E3
+---
+
+## Caption
+Yes - on my YouTube detailed Time management for agents!
+
+#realestatecoachingdubai #realestateagenttraining

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Too many agents aren’t selling at the level they could be. Even with top-notch training, mentors, and opportun",
+      "statement": "Too many agents aren’t selling at the level they could be.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "It’s their inner game. The same applies in sales. Your beliefs about yourself shape your performance even more than your sales knowledge.",
+      "statement": "Your beliefs about yourself shape your performance even more than your sales knowledge.",
+      "topic": "self-belief in sales",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "So while improving your sales skills is crucial, true success comes from mastering your inner world—your beliefs about yourself, your consistency, your daily habits.",
+      "statement": "True success comes from mastering your inner world—your beliefs about yourself, your consistency, your daily habits.",
+      "topic": "consistency in sales",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "If you believe you can only earn or sell a certain amount, you'll unconsciously seek out prospects who reflect that belief.",
+      "statement": "You’ll only do the activities that match that level of belief.",
+      "topic": "sales activities",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "style",
+      "quote": "Comment below if you are same as me - Pushing hard in the Gym as well.",
+      "statement": "Comment below if you are same as me - Pushing hard in the Gym as well.",
+      "topic": "engagement invitation",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "A LinkedIn post discussing the challenges faced by sales agents and the importance of mindset and consistency in sales performance."
+}

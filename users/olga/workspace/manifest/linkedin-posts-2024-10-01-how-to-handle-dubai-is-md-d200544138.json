@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138-e8554903d19b5da1.jsonl",
+  "external_id": "7246818904931504128",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:33:32Z",
+  "metadata_hash": "b1df1368a0a1950b808c003fc51d942327e1699328e2d169ba656cfaa0644619",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-10-01T09:51:06.320000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-10-01-how-to-handle-dubai-is.md",
+  "source_sha256": "ca6daa8f0705fd8d3328310f24b70a4c0eeb0ad40b96cd45ff992493eeb9bc13",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-salestraining-selfgrowth-activity-7246818904931504128-Sw9m"
+}

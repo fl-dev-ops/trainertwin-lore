@@ -1,0 +1,28 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The intended audience for certain readings is geared towards adults, specifically those 30 years and older.",
+      "qualification": "Evidence is self-reported and pertains to a specific post without broader validation.",
+      "support_ids": [
+        "linkedin-posts-2024-02-28-this-reading-is-strictly-for-md-8434bdd79d:c001:e001:908d7ba4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Audience engagement can be effectively achieved by prompting followers to comment on relevant future professions.",
+      "qualification": "This finding is based on observed behavior in a specific post; broader implications are uncertain.",
+      "support_ids": [
+        "linkedin-posts-2024-10-30-finding-an-lms-that-doesnt-md-bf86fc2aae:c001:e003:39052635"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using interaction tools, like quizzes on Instagram stories, is a recommended method for engaging audiences.",
+      "qualification": "This observation is self-reported and lacks external validation; effectiveness may vary by context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s30-yaml-acc646e31b:c001:e003:326e4514"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+id: s140
+title: 'Structure Over Confidence:  Navigate Life''s Uncertainty #shorts'
+date: '2026-04-14'
+source: 'Structure Over Confidence:  Navigate Life''s Uncertainty #shorts'
+audio_file: 'Structure Over Confidence： Navigate Life''s Uncertainty #shorts [btMVBcDuMV4].mp3'
+duration: "00:00:41"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 3
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    If your life changed overnight, the first thing you need is not confidence, it's a structure. Because
+    when life gets unstable, confidence disappear very fast. And that's when most people start panicking,
+    overthinking, scrolling, freezing, comparing. But in moments like this, you do not need to magically
+    feel better first. You need just a simple next step, a move, a plan, a direction.
+- t: "00:00:28"
+  speaker: '1'
+  text: >-
+    Because when the life becomes uncertain like it is now in Dubai, structure comes your brain much faster
+    than motivation ever will.
+- t: "00:00:39"
+  speaker: '1'
+  text: >-
+    What is your structure today?

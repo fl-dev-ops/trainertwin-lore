@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Seriously? This is the world we are living now? Ai generated DMs, brainless conversations…",
+      "statement": "Frustration with AI-generated communications and lack of depth in conversations.",
+      "topic": "personal reflection",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I want to start the movement of Banning this Account! Who is with me?",
+      "statement": "Desire to advocate against AI-generated content in personal communication.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "And thanks god my misspelling and autocorrect keeps me a human.",
+      "statement": "Acknowledges personal flaws with autocorrect and misspellings, valuing human imperfection.",
+      "topic": "communication skills",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Reflective post expressing frustration with current communication trends."
+}

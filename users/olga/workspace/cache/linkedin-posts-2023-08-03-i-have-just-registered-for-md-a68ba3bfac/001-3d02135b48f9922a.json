@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I have just registered for my free pass to Cityscape Global, the world’s largest real estate event, being held in Malham, Riyadh, Kingdom of Saudi Arabia.",
+      "statement": "I have just registered for my free pass to Cityscape Global.",
+      "topic": "event participation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the world’s largest real estate event, being held in Malham, Riyadh, Kingdom of Saudi Arabia. Join me at the four-day show – 10-13 September 2023 - and access amazing networking opportunities.",
+      "statement": "Cityscape Global is being held in Malham, Riyadh, Kingdom of Saudi Arabia from September 10-13, 2023.",
+      "topic": "event details",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "Join me at the four-day show – 10-13 September 2023 - and access amazing networking opportunities.",
+      "statement": "Access amazing networking opportunities at Cityscape Global.",
+      "topic": "networking opportunity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Are you ready to register for your free pass now?",
+      "statement": "Are you ready to register for your free pass now?",
+      "topic": "event registration",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post announcing registration for a real estate event."
+}

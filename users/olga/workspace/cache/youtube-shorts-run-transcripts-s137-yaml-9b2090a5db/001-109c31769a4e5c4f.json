@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "agents are giving over budget because",
+      "statement": "agents are giving over budget because they are afraid to qualify",
+      "topic": "sales strategy",
+      "unit_id": "u000008"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "the clients are the Jesus Christ. That's a",
+      "statement": "the clients are the Jesus Christ",
+      "topic": "client engagement",
+      "unit_id": "u000006"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I'm just going to show him all of these fantastic pictures",
+      "statement": "I'm just going to show him all of these fantastic pictures and videos and he's magically going to find the money.",
+      "topic": "misconceptions in sales",
+      "unit_id": "u000008"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Am I going like a jackpot or am I in a casino?",
+      "statement": "stop selling like you’re in a casino",
+      "topic": "engagement strategy",
+      "unit_id": "u000007"
+    }
+  ],
+  "overview": "Transcript from a YouTube short discussing sales strategies and client engagement."
+}

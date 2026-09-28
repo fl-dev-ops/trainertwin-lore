@@ -1,0 +1,18 @@
+id: s122
+title: RW investment presentation. Final video
+date: '2023-08-28'
+source: RW investment presentation. Final video
+audio_file: RW investment presentation. Final video [RYZLpb3OiHo].mp3
+duration: "00:00:16"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+counts:
+  raw_entries: 1
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    Thank you for your time. Our usual process involves connecting over the Zoom or phone to discuss the
+    specifics of your desired property, review market data together, and then determine the next possible
+    steps based on your decisions.

@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Please share your honest opinions in the comments. 🙏appreciate",
+      "statement": "The post solicits honest opinions from readers about adapting to a new reality.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "What the agents and agencies should be doing to use this as a Strength Point?",
+      "statement": "The author prompts agents and agencies to identify strengths in adapting to changes.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "How to accept it?",
+      "statement": "The post addresses the need for agents to adjust their mindset in response to change.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Single post inviting discussion on adapting to a new reality, focusing on agent strategies."
+}

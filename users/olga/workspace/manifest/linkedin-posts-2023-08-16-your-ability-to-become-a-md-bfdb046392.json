@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-08-16-your-ability-to-become-a-md-bfdb046392-980d7d235e84c325.jsonl",
+  "external_id": "7097491066869682176",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:14:34Z",
+  "metadata_hash": "2c29789fe0ed7c1259dede3abd94b066d95bdf75edb757d0781526c1ef63e678",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-16T08:15:35.349000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-16-your-ability-to-become-a.md",
+  "source_sha256": "a53b17bd5d34956ff6eb89d6c0b52e1e9c7c2b35c0d06319a3737411fc13494c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salesadvice-careersuccess-professionaldevelopment-activity-7097491066869682176-7zU3"
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Landed in Dubai from Australia last month.",
+      "statement": "Landed in Dubai from Australia last month.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Three weeks later… first deal closed. 57,000 AED commission.",
+      "statement": "She closed her first deal and earned 57,000 AED commission in just 3 weeks.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Usually it takes my clients 1.5 to 2 months - sometimes 3 - to close their first deal after our session.",
+      "statement": "Usually it takes my clients 1.5 to 2 months to close their first deal after a session.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Investment in your growth always multiplies.",
+      "statement": "Investment in your growth always multiplies.",
+      "topic": "investment opportunity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "style",
+      "quote": "The market rewards preparation, discipline, and a bit of cheek.",
+      "statement": "The market rewards preparation, discipline, and a bit of cheek.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "She found my YouTube channel and literally binged every single video.",
+      "statement": "She found my YouTube channel and literally binged every single video.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Strategy Session (950 AED): your personalised 60-minute roadmap.",
+      "statement": "Personalised 60-minute strategy session for 950 AED.",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Online Academy: complete training system with proven frameworks.",
+      "statement": "Online Academy offers a complete training system with proven frameworks.",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post detailing personal success in real estate and advice for new agents."
+}

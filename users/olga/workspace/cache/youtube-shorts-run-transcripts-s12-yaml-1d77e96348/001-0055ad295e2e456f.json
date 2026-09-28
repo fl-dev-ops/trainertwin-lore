@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "start saying no yourself to the things that you don't want to have your life.",
+      "statement": "start saying no yourself to the things that you don't want to have in your life.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "This is how you're gonna get consistent with just dial exactly same number of numbers every day.",
+      "statement": "get consistent with just dial exactly the same number of numbers every day.",
+      "topic": "sales process",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "master the script. If you sound like every other agent in Dubai, you're gonna hear only no.",
+      "statement": "master the script to avoid only hearing no.",
+      "topic": "closing techniques",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "This source is a transcript from a YouTube short focusing on cold calling strategies for sales improvement."
+}

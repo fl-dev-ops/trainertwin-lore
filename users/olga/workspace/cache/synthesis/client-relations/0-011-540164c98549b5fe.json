@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Engagement strategies in client relations include prompting direct interaction through comments and questions, which can reveal client needs and encourage participation.",
+      "qualification": "Both examples are based on observations of social media posts and may lack empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2024-05-09-do-you-really-understand-your-md-90af976bf9:c001:e004:7cd99e62",
+        "linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e:c001:e005:2394278e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client psychology is a critical aspect of building effective client relationships; agents are encouraged to delve deeper into client motivations during interactions.",
+      "qualification": "This is based on interpreted advice and lacks quantitative evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-05-09-do-you-really-understand-your-md-90af976bf9:c001:e005:cd79f53e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients may provide objections that should be viewed as legitimate concerns rather than mere avoidance, highlighting the importance of addressing these during interaction.",
+      "qualification": "These claims are observed behaviors shared in posts and thus subjective.",
+      "support_ids": [
+        "linkedin-posts-2024-05-16-are-you-selling-or-are-md-6920c7849a:c001:e002:c55ceb79",
+        "linkedin-posts-2024-05-16-are-you-selling-or-are-md-6920c7849a:c001:e005:855d88ba"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents experience challenging interactions, including being threatened or insulted by clients, which underscores the emotional difficulties faced in client relations.",
+      "qualification": "This is based on anecdotal reports and lacks detailed analysis or verification.",
+      "support_ids": [
+        "linkedin-posts-2024-05-22-pulling-yourself-back-after-dealing-md-b7c8ee9da7:c001:e001:1cab105b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a suggestion that agents should focus on the quality and long-term outcomes of the properties they represent, rather than merely competing on price.",
+      "qualification": "This finding is based on a self-reported belief and does not have empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-05-24-as-agents-we-have-the-md-76d7b4f56f:c001:e005:51e73a31"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Developing a unique value proposition is deemed essential for effectively engaging with clients, enriching the overall client experience.",
+      "qualification": "Advice is derived from observed LinkedIn posts and reflects the belief of the author rather than universally established practice.",
+      "support_ids": [
+        "linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d:c001:e003:7a2d8c57"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Interactions that position the agent as a trusted advisor can improve seller engagement, suggesting a shift from traditional sales tactics to a more consultative approach.",
+      "qualification": "This strategy is based on a teaching observation and remains theoretical until further validation.",
+      "support_ids": [
+        "linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d:c001:e004:19cd1001"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement can further be enhanced by asking them to articulate their goals, creating a two-way communication channel necessary for effective relations.",
+      "qualification": "This observation is drawn from a social media context and might not represent broader client engagement practices.",
+      "support_ids": [
+        "linkedin-posts-2024-05-29-you-will-never-work-hard-md-b422e9593e:c001:e005:2394278e"
+      ]
+    }
+  ]
+}

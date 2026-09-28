@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2026-01-14-how-i-teach-agents-to-md-44406c0093-4556061e62171ee3.jsonl",
+  "external_id": "7417060208809639936",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:03:02Z",
+  "metadata_hash": "ec3313cc535faa5352674b66a74c9d0c730fcbade428189b0bf93d8acbc70bdf",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-01-14T04:29:16.095000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-01-14-how-i-teach-agents-to.md",
+  "source_sha256": "f5cdabdcd306bd23032ac5126cafcd6045f5a53a703011ea767ea18ab2fe09fd",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatetraining-salescoaching-dubairealestate-activity-7417060208809639936-9MGs"
+}

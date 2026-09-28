@@ -1,0 +1,124 @@
+{
+  "groups": [
+    {
+      "name": "Personal Development",
+      "topics": [
+        "personal-goals",
+        "personal-growth",
+        "personal-reflection",
+        "personal-responsibility"
+      ]
+    },
+    {
+      "name": "Persuasion Techniques",
+      "topics": [
+        "persuasion-in-sales",
+        "persuasion-technique",
+        "persuasion-techniques"
+      ]
+    },
+    {
+      "name": "Planning and Preparation",
+      "topics": [
+        "planning-structure",
+        "preparation",
+        "practice-methods"
+      ]
+    },
+    {
+      "name": "Sales Techniques",
+      "topics": [
+        "presentation-techniques",
+        "pre-handling-objections",
+        "price-reduction"
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "topics": [
+        "professional-branding",
+        "professional-effectiveness",
+        "professional-engagement",
+        "professional-services"
+      ]
+    },
+    {
+      "name": "Personality and Engagement",
+      "topics": [
+        "personality-types",
+        "public-opinion"
+      ]
+    },
+    {
+      "name": "Product Development",
+      "topics": [
+        "product-development",
+        "product-features"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "topics": [
+        "project-completion",
+        "project-location",
+        "project-timeline"
+      ]
+    },
+    {
+      "name": "Market and Economic Factors",
+      "topics": [
+        "property-prices",
+        "poll-results",
+        "political-context"
+      ]
+    },
+    {
+      "name": "pocket-listings",
+      "topics": [
+        "pocket-listings"
+      ]
+    },
+    {
+      "name": "program-structure",
+      "topics": [
+        "program-structure"
+      ]
+    },
+    {
+      "name": "professional-background",
+      "topics": [
+        "professional-background"
+      ]
+    },
+    {
+      "name": "platform-specifics",
+      "topics": [
+        "platform-specifics"
+      ]
+    },
+    {
+      "name": "productivity-assessment",
+      "topics": [
+        "productivity-assessment"
+      ]
+    },
+    {
+      "name": "profile-link",
+      "topics": [
+        "profile-link"
+      ]
+    },
+    {
+      "name": "promotion-strategy",
+      "topics": [
+        "promotion-strategy"
+      ]
+    },
+    {
+      "name": "problem-solving",
+      "topics": [
+        "problem-solving"
+      ]
+    }
+  ]
+}

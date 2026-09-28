@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-12-12-stepping-into-a-clients-shoes-md-20f8a86cd8-daeb056133272f6c.jsonl",
+  "external_id": "7140294223915917313",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:19:38Z",
+  "metadata_hash": "4031ca1adf04f1ad035b10c5b088c90d012174837f1a1562a2b21855f7eef138",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-12-12T11:00:03.233000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-12-12-stepping-into-a-clients-shoes.md",
+  "source_sha256": "632d026dc515cdbb0bef9d72614544825102de5ad9ec3dbe0cd5acddfc04e01a",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatebroker-salestraining-dubairealestate-activity-7140294223915917313-AaK7"
+}

@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I was actually planning to write this for years! Because I’ve been approached literally every day by one or another startup.",
+      "statement": "I was actually planning to write this for years!",
+      "topic": "personal reflection",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Not because they’re so successful and companies are actively using them. The opposite.",
+      "statement": "AI voice solutions have gone quiet lately.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "It’s because they don’t understand it on a deeper level, and that’s why - don’t actually have a product - that solves a problem that people are ready to Pay for.",
+      "statement": "Founders do not understand the market on a deeper level.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "The only thing you haven’t done is proper customer development with actual market insiders.",
+      "statement": "You should engage in proper customer development with actual market insiders.",
+      "topic": "client interaction",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "And the reason nobody does this is they think they’re saving the cost and they’ll learn from their own mistakes.",
+      "statement": "Many believe they are saving costs by avoiding market research.",
+      "topic": "sales resistance",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "But for everyone else, maybe it’s time to rethink where you’re putting your investment.",
+      "statement": "Rethink where you’re putting your investment if results are lacking.",
+      "topic": "investment opportunity",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "A LinkedIn post advising PropTech founders on strategies for succeeding in the Dubai real estate market."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-07-18-this-week-i-will-be-md-1f6b4df35f-d7860a744a840dea.jsonl",
+  "external_id": "7087085975218135040",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:18:36Z",
+  "metadata_hash": "0818f894e606cabbfaf3f6cb83ce916dcb2621fd8f5107e8ae121d34cbeda876",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-18T15:09:28.182000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-18-this-week-i-will-be.md",
+  "source_sha256": "4c2e12311a254b902ff40fdb10f92be0c18b30d48bfbf27c61868fae79470abf",
+  "source_url": "https://www.linkedin.com/posts/olgasi_businessstrategies-realestatetips-careerinrealestate-activity-7087085975218135040-undI"
+}

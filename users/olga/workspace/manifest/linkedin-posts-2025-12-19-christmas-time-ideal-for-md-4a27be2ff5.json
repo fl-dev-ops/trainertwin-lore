@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-12-19-christmas-time-ideal-for-md-4a27be2ff5-31991e2145420471.jsonl",
+  "external_id": "7407641145800839168",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:01:36Z",
+  "metadata_hash": "91d3dd560c0d4d95004186830ef5480bacd8fe536cadbb6241ed0f8d0beaaeb2",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-19T04:41:16.476000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-19-christmas-time---ideal-for.md",
+  "source_sha256": "14bddd9d5c291e622e609fd0226a5749f6816328463cb5ddf5f8b3959f7c7ca1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_christmas-time-ideal-for-get-more-deals-activity-7407641145800839168-3_f2"
+}

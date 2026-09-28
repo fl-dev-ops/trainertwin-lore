@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "I became fit at 36. By this, I mean I had the physique I had never had before, even at 16.",
+      "statement": "I became fit at 36.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I decided that to get out of my average body shape and become a person who is somehow trained, I would be going on stage in a bikini fitness competition in one year.",
+      "statement": "I decided to get out of my average body shape and become a person who is somehow trained.",
+      "topic": "persistence in sales",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "Your ability to become a great salesperson is connected directly with your ability to tolerate pain.",
+      "statement": "Your ability to become a great salesperson is connected directly with your ability to tolerate pain.",
+      "topic": "pain in success",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "I pushed myself consistently through real pain and discomfort to achieve a goal.",
+      "statement": "I pushed myself consistently through real pain and discomfort to achieve a goal.",
+      "topic": "self-assessment",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "The resources I put into it (time and money) and my 'Why'.",
+      "statement": "The resources I put into it (time and money) and my 'Why' are essential for success.",
+      "topic": "goals in sales",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing the connection between pain tolerance and success in sales, personal fitness journey, and motivational insights."
+}

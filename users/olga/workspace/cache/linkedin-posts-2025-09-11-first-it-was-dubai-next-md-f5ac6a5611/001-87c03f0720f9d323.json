@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Saudi Arabia just passed a law that finally opens the real",
+      "statement": "Saudi Arabia just passed a law that finally opens the real estate market to non-Saudis.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing recent changes in Saudi Arabia's real estate laws."
+}

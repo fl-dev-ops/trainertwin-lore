@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Obtaining a personal loan may be an option for individuals facing cash flow issues.",
+      "qualification": "The context or conditions under which a personal loan would be beneficial or advisable are not discussed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s209-yaml-b3361ad755:c001:e003:0f43152f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Financial complexity is often underestimated by clients claiming substantial holdings, such as $1 million.",
+      "qualification": "The specific complexities or details of such financial situations are not elaborated.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s23-yaml-1689969093:c001:e003:95a24e82"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Commission breath negatively impacts sales effectiveness.",
+      "qualification": "The exact mechanism by which 'commission breath' affects sales is not detailed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s26-yaml-874b88cd5a:c001:e001:2ec1d7cb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Individuals should maintain six months of savings to cover living expenses, not just survival needs.",
+      "qualification": "The advice assumes a baseline cost of living that may vary significantly between individuals.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s76-yaml-00373e3576:c001:e001:0e29692f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Increased oil prices are beneficial for Middle Eastern economies.",
+      "qualification": "The evidence is self-reported, possibly reflecting a biased perspective on economic impact.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s98-yaml-c14a72892b:c001:e003:53bd21b6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Active real estate listings in Dubai have aligned with transfer sale prices as of early 2025.",
+      "qualification": "The statement lacks comparative context from past data or future projections.",
+      "support_ids": [
+        "youtube-transcripts-01-yaml-ccbc788916:c001:e002:9953c129"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A participant expressed doubt about the return on investment from spending over $20,000 on personal development.",
+      "qualification": "This is self-reported sentiment, not independently verified.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c002:e002:84151c6f",
+        "youtube-transcripts-10-yaml-508489bab0:c002:e003:45ea3664"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Advised to keep costs low and consider shared accommodation to manage finances when moving for a real estate job.",
+      "qualification": "This is general advice that may not apply universally depending on individual circumstances.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c003:e001:19c8c5fd"
+      ]
+    }
+  ]
+}

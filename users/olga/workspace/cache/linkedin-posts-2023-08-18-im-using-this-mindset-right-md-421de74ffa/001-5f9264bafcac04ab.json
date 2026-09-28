@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I'm using this mindset right now.",
+      "statement": "I'm using this mindset right now.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A personal declaration regarding mindset usage."
+}

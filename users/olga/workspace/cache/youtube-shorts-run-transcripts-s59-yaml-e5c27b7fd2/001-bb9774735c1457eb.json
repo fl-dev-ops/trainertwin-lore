@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "How to move the client from the chatting, the chatting to moving in person. Uh, that's the best thing that you've ever done is",
+      "statement": "How to move the client from the chatting to moving in person.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "you need this meeting because you need to understand that he is there for this because this is for you, not for him.",
+      "statement": "You need this meeting because you need to understand that he is there for this because this is for you, not for him.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "ask him a question. Would that be useful for you just before you even understand or before you determine if Dubai is worth investing or which areas or which develop.",
+      "statement": "Ask him a question: Would that be useful for you?",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Just to look through the numbers, what the actual statistics of the past performance of various areas of Dubai,",
+      "statement": "To look through the numbers, what the actual statistics of the past performance of various areas of Dubai.",
+      "topic": "real estate potential",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "A transcription excerpt discussing strategies for client engagement and scheduling meetings."
+}

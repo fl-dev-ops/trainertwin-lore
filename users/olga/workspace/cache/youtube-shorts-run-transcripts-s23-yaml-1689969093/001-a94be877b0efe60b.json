@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Now, do you do you know even if he has this money available or that's just overall money that he thinks he will be able to get access to?",
+      "statement": "you stop asking him questions and you move to the next one?",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "How much do you, do you have available in the next two or three months?",
+      "statement": "out of this amount, how much do you have available in the next two or three months?",
+      "topic": "sales process",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "money will disappear in UK or US and appear in Dubai.",
+      "statement": "you need to understand if the client even realized the process is way more complex",
+      "topic": "financial qualification",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "write script, you can follow me and join my online academy.",
+      "statement": "you can follow me and join my online academy",
+      "topic": "training approach",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "Annotated transcript from a sales strategy discussion regarding client financial qualification and engagement."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a-70c2173800329309.jsonl",
+  "external_id": "7231502762713186304",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:30:02Z",
+  "metadata_hash": "fe289595b3b66fb7b58c37f6810286b4b66d766a671a6cafbbdce1d0e26a9e14",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-08-20T03:30:13.455000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-08-20-how-you-sabotage-the-sale.md",
+  "source_sha256": "a081a2a8d3c01ddbb019927b269d64d308a4180377ff87228d357eda5b943e39",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestraining-mindsetmatters-consistencyiskey-activity-7231502762713186304-U00O"
+}

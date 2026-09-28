@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real coaching is suggested to be more effective than self-help resources like YouTube for career development but lacks empirical backing.",
+      "qualification": "The perspective is based on anecdotal suggestions and lacks empirical validation.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e009:1d33b4cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are valued for career development, based on self-reported experiences without empirical support.",
+      "qualification": "This finding relies on individual beliefs and experiences, with no empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e001:f626ff9e",
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e006:2d4a02de"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent effort, such as practicing 18 minutes a day, is claimed to outperform most people in a professional field.",
+      "qualification": "The claim is self-reported and lacks external empirical verification.",
+      "support_ids": [
+        "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d:c001:e001:c3c2d5bc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence is deemed more important than talent for career advancement.",
+      "qualification": "The evidence is advisory and not empirically validated.",
+      "support_ids": [
+        "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d:c001:e003:01e58ff6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High achievers are often self-motivated, which is crucial for setting team performance standards.",
+      "qualification": "The conclusion is observational and not backed by empirical data.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e001:1bc33574"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Internal motivation rather than external pressure is more effective in driving client actions.",
+      "qualification": "This is observational and has not been empirically tested.",
+      "support_ids": [
+        "linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570:c001:e005:0269be02"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Poor qualification or unclear follow-up strategy often leads to missed deals.",
+      "qualification": "This observation lacks detailed empirical analysis.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399:c001:e002:6f86e79a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is pivotal for career progression, based on self-reported experiences.",
+      "qualification": "Relies on self-reporting and anecdotal evidence, without empirical support.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e001:ea64331a"
+      ]
+    }
+  ]
+}

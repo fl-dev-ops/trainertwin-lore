@@ -1,0 +1,49 @@
+id: s72
+title: How to Recognize a Real Buyer？
+date: '2026-01-22'
+source: How to Recognize a Real Buyer？
+audio_file: How to Recognize a Real Buyer？ [mCAac_7nB4c].mp3
+duration: "00:00:54"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 7
+turns:
+- t: "00:00:02"
+  speaker: '1'
+  text: >-
+    When we are getting the price objection, first of all, I never want to convince that the client doesn't
+    have a budget for this and this is not. Why would I go into this battle game? How I uh work with any
+    objections? Every word should have a meaning and I when I'm talking to you about this word, we should
+    have a same meaning behind the word. How do I know what you mean it's too expensive? Too expensive
+    can have meaning number one. Is too expensive for me now, I need two months to pay. Is too expensive
+    for me compared to the other projects I've seen.
+- t: "00:00:32"
+  speaker: '1'
+  text: >-
+    the cheaper ones with a better value for money for me and I'm going to buy there. It's too expensive
+    for me altogether, I have no money. How do I know which one are you talking about? How can I start
+    um debating or discussing anything with you if you don't know what you're talking about?
+- t: "00:00:41"
+  speaker: '0'
+  text: >-
+    start
+- t: "00:00:46"
+  speaker: '0'
+  text: >-
+    Yeah
+- t: "00:00:46"
+  speaker: '1'
+  text: >-
+    That's why when someone is like, oh, it's too expensive, I'm going to ask them the question. You remember,
+    boom, boom.
+- t: "00:00:51"
+  speaker: '0'
+  text: >-
+    Yeah
+- t: "00:00:52"
+  speaker: '1'
+  text: >-
+    how do you mean it's too expensive?

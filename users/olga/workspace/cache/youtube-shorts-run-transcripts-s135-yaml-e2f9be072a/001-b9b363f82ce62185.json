@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Your is your role is transformative. You are there to transform them with someone who doesn't know what they want, doesn't understand the market, doesn't believe his own ability to",
+      "statement": "Your role is transformative.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Help him overcome the fear. So ideally if you've done all of these bits right, he has already way less fear than he had before.",
+      "statement": "Help clients by reducing their fear through information.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Transcript from a sales strategy discussion focusing on overcoming client fears and decision-making."
+}

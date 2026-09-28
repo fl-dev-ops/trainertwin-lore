@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Any sales process is automatically generating more resistance from the client.",
+      "statement": "Any sales process automatically generates more resistance from the client.",
+      "topic": "sales process",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Sales resistance goes up just because the client understand he's in the sales process.",
+      "statement": "Sales resistance goes up because the client understands he's in the sales process.",
+      "topic": "sales resistance",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "you can tie that what he was trying to avoid.",
+      "statement": "You can tie what the client wanted to the property you show or what the client is trying to avoid.",
+      "topic": "client engagement",
+      "unit_id": "u000005"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "So now you will ask for money.",
+      "statement": "The speaker indicates a dramatic shift in engagement when discussing money in the sales process.",
+      "topic": "sales interaction",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I I I've done nothing.",
+      "statement": "I have done nothing in the engagement prior to the money ask.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I just used analogy and I walk you through the loop.",
+      "statement": "The speaker uses an analogy to explain a client’s mindset during a sale.",
+      "topic": "client mindset",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Transcript from a Q&A session discussing sales processes in real estate."
+}

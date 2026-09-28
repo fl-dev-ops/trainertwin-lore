@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Financial freedom is considered a significant personal luxury, valued over other forms of wealth or status.",
+      "qualification": "This is based on self-reported observations and may reflect a personal value rather than a universal truth.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c001:e011:deb17ae4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging in physical activities such as walking is recommended to improve mental health and wellbeing.",
+      "qualification": "This advice is self-reported and lacks empirical or study-backed references.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e001:ea64331a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Avoiding negative influences is advised to maintain positive mental health.",
+      "qualification": "The advice appears to be subjective and anecdotal without any verified evidence.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e002:8ffc4e19"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training resources are provided to new brokers arriving from outside Dubai to aid their transition.",
+      "qualification": "It is not clear what specific resources are provided or how effective they are.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c003:e001:4dab7caa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an emphasis on personal happiness over financial gain in career reflections.",
+      "qualification": "The reflection is self-reported and may not apply broadly beyond individual circumstances.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c001:e002:dd50d4f8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Low trust toward people is a personal reflection affecting professional experiences.",
+      "qualification": "This is self-reported and the broader applicability or consequence on career progression is unverified.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e001:d204032b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mentorship influences professional approaches, with specific techniques recommended by mentors being adopted.",
+      "qualification": "The mention of mentorship is anecdotal and there is no verification of its effectiveness.",
+      "support_ids": [
+        "youtube-transcripts-103-yaml-103f5524d6:c001:e002:cd4198ae"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Supportive work environments in startups may contribute to positive work experiences and productivity.",
+      "qualification": "The evidence is an observed behavior without empirical backing or detailed context on what constitutes support.",
+      "support_ids": [
+        "youtube-transcripts-11-yaml-e68135aa2f:c002:e006:7892757a"
+      ]
+    }
+  ]
+}

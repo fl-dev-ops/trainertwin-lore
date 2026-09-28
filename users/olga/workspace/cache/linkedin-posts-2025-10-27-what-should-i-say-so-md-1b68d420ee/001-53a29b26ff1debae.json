@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "❓ What should I say so the client actually chooses me?",
+      "statement": "What should I say so the client actually chooses me?",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "❓ How do I make sure they don’t walk away?",
+      "statement": "How do I make sure they don’t walk away?",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "❓ What’s the formula to close faster?",
+      "statement": "What’s the formula to close faster?",
+      "topic": "closing techniques",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Unlock proven scripts & frameworks - join the Online Academy 📞 https://lnkd.in/dH3uxN9i",
+      "statement": "Unlock proven scripts & frameworks - join the Online Academy",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post advocating for a sales training program."
+}

@@ -1,0 +1,37 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Coaching and training programs in real estate are promoted as a viable career path for those with industry experience.",
+      "qualification": "The statements about transitioning into a trainer role rely on the author’s personal promotion and do not provide empirical evidence of success.",
+      "support_ids": [
+        "linkedin-posts-2025-01-21-would-you-consider-becoming-a-md-85ff284ff2:c001:e003:abd133c5",
+        "linkedin-posts-2025-01-21-would-you-consider-becoming-a-md-85ff284ff2:c001:e004:90938cbf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Being valuable in any market is highlighted as true success, not just monetary wealth.",
+      "qualification": "This belief is described as self-reported and ideological, with no empirical evidence to quantify 'value' in this context.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-if-tomorrow-money-disappeared-what-md-a7e869457a:c001:e004:a7a58c28"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate sales experience is seen as beneficial for succeeding in recruitment roles.",
+      "qualification": "The statement is based on specific job listing requirements, not a generalizable career trend.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-this-opportunity-is-for-you-md-4ec09e970e:c001:e002:fb992b61"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communicating challenges and receiving feedback are encouraged for career development.",
+      "qualification": "The emphasis on engaging with challenges is based on the call for feedback within the source, not larger empirical studies.",
+      "support_ids": [
+        "linkedin-posts-2025-01-22-want-answers-to-the-biggest-md-3538907e1d:c001:e001:4f88bea3"
+      ]
+    }
+  ]
+}

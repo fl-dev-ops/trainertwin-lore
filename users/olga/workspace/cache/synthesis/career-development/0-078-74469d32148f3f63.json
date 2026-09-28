@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Career development is influenced by one's ability to tolerate disappointment and accept rejection without seeking external validation.",
+      "qualification": "Evidence highlights personal resilience indicators but is based on self-reported experiences and lacks empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s162-yaml-c5741d35b5:c001:e001:2f4ef33b",
+        "youtube-shorts-run-transcripts-s162-yaml-c5741d35b5:c001:e002:67827124",
+        "youtube-shorts-run-transcripts-s162-yaml-c5741d35b5:c001:e003:0ded58fd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real coaching may be preferred over consuming self-help content like YouTube videos for career advancement.",
+      "qualification": "This suggestion is anecdotal, relying on personal advice with no empirical data provided.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e003:5fd79fa0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A mindset shift focusing on one's operating style and attitude is considered more important than the company they work for.",
+      "qualification": "Based on third-party observations without quantitative or external validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s161-yaml-9ec8b59732:c001:e001:dcd729ad"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales success can depend heavily on active listening and understanding client needs rather than over-speaking or pushing sales tactics.",
+      "qualification": "Inferred from observed behavior in sales context; lacks broader applicability without further studies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e001:4e8c6c3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Probing questions, even if perceived impolite, may uncover deeper issues and provide valuable insights.",
+      "qualification": "The finding is based on isolated observation; lacks comprehensive data across different scenarios.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s155-yaml-3089cec4f6:c001:e006:2e12b70e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Appropriate timing of engagement is critical in career and customer interactions, influencing outcomes.",
+      "qualification": "Self-reported experience precludes broader generalization.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s16-yaml-43285887fa:c001:e005:489c9b0d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling client inquiries effectively can enhance career development in sales roles.",
+      "qualification": "Observed behavior related to client engagement, needing broader study for career impact.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s163-yaml-2f4403f3cf:c001:e002:51f5fca3",
+        "youtube-shorts-run-transcripts-s163-yaml-2f4403f3cf:c001:e004:adcd3059"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Tolerance for frustration and the ability to push through setbacks are linked to career success.",
+      "qualification": "Self-reported belief, without external validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s162-yaml-c5741d35b5:c001:e002:67827124"
+      ]
+    }
+  ]
+}

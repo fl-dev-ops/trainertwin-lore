@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Social media engagement encourages followers to comment if interested in more content, showing interactive approaches to audience engagement.",
+      "qualification": "The effectiveness and scope of this engagement strategy is unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-01-16-this-training-was-a-special-md-0aaee2e815:c001:e003:c7871e84",
+        "linkedin-posts-2024-05-08-im-off-to-a-new-md-2635416515:c001:e005:2aaaaab3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Application processes recommend using email for reliable communication and explicitly discourage Direct Messaging.",
+      "qualification": "These are self-reported or advised practices without external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-01-30-im-looking-for-a-freelance-md-9d44847d44:c001:e006:e30f5a47",
+        "linkedin-posts-2024-01-30-im-looking-for-a-freelance-md-9d44847d44:c001:e007:bf4d285a",
+        "linkedin-posts-2024-02-06-im-looking-for-a-freelance-md-c7940a2c88:c001:e003:a4ec40ee"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media posts can have varied success and impact, with personal posts such as birthdays receiving significant engagement.",
+      "qualification": "This finding is based on self-reported success and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-06-12-thank-you-all-one-more-md-3d1bbfa3ea:c001:e001:bb73e2e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Audience criteria can be communicated through social media posts, focusing on a certain demographic.",
+      "qualification": "This message is self-reported and its effect on audience reach is uncertain.",
+      "support_ids": [
+        "linkedin-posts-2024-02-28-this-reading-is-strictly-for-md-8434bdd79d:c001:e001:908d7ba4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media engagement is sometimes seen as a future determinant of social status, indicating speculative belief in evolving communication norms.",
+      "qualification": "This is a speculative belief and not an established fact.",
+      "support_ids": [
+        "linkedin-posts-2024-03-22-have-you-seen-that-black-md-e3b1fef0d4:c001:e002:46f28bf6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "LinkedIn Live events are used as a method for real-time engagement and communication with an audience.",
+      "qualification": "The effectiveness or reach of these events remains unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-04-18-my-first-linkedin-live-today-md-2d2ec4cdd9:c001:e001:39ba5eaf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communication training can focus on transforming agents' roles from transactional to advisory in nature.",
+      "qualification": "This is a self-reported viewpoint without evidence of widespread application or success.",
+      "support_ids": [
+        "linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d:c001:e004:19cd1001"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using humor or playful language in posts can be a strategy to engage audiences or convey messages about wealth differently.",
+      "qualification": "The impact of this style on audience engagement is unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-06-24-whats-the-difference-between-being-md-294632c478:c001:e005:c3d9f1ad"
+      ]
+    }
+  ]
+}

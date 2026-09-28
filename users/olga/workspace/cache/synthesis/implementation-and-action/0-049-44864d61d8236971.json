@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Collaborative objection handling involves addressing client concerns rather than being aggressive.",
+      "qualification": "This approach is recommended for maintaining client trust and cooperation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s117-yaml-be0a8100f9:c001:e002:fed67a2a",
+        "youtube-shorts-run-transcripts-s119-yaml-c675edbb27:c001:e004:e982d98f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to articulate their thoughts helps them realize objections themselves.",
+      "qualification": "Self-reported from sales tactics guidance, may vary in effectiveness per client.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s117-yaml-be0a8100f9:c001:e005:1bf9345e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistency in daily calling efforts and mastering sales scripts are advised to improve outcomes in cold calling.",
+      "qualification": "Advice is self-reported; outcomes depend on execution and client perception.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s12-yaml-1d77e96348:c001:e002:3d1ac8f0",
+        "youtube-shorts-run-transcripts-s12-yaml-1d77e96348:c001:e003:a82dc73a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Helping clients reframe fear-based objections can lead to overcoming them.",
+      "qualification": "Success in reframing may depend on the client's willingness to reconsider their objections.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s121-yaml-a425a0b908:c001:e001:317443c8",
+        "youtube-shorts-run-transcripts-s121-yaml-a425a0b908:c001:e003:94b54dbf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales tactics suggest creating a gap in the buyer's confidence to encourage seeking assistance.",
+      "qualification": "Observed tactic, effectiveness may vary and requires careful handling to avoid reducing trust.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s124-yaml-fbbadffa3e:c001:e002:284f1dc8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents face difficulty booking meetings as buyers prefer to see options rather than commit to Zoom meetings.",
+      "qualification": "Observed challenge, suggests need for alternate strategies to engage buyers.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s124-yaml-fbbadffa3e:c001:e003:4b43ee75"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persuasion is emphasized over calming in real estate agent strategies.",
+      "qualification": "Self-reported suggestion; effectiveness depends on client relationship management.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s123-yaml-463ec29459:c001:e001:e78596cd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adopting a calm, problem-solving mode is advised for objection handling.",
+      "qualification": "Advice could be interpreted as promoting constructive dialogue over confrontation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s119-yaml-c675edbb27:c001:e001:90e1bad0"
+      ]
+    }
+  ]
+}

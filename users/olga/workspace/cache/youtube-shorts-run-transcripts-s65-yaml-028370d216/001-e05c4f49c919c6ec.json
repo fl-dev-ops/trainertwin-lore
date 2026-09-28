@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "it's about whom you have to become over the course of time, training, learning the market, learning the project.",
+      "statement": "Selling in Dubai requires becoming the right person over time, rather than just doing specific actions.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "if you just focusing on number and you using leads as a disposable plastic cups, just throwing them away.",
+      "statement": "Focusing solely on numbers can lead to a negative mindset and poor sales strategies.",
+      "topic": "mindset shift",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I have someone who did it and in this video I'm going to link the interview with my coaching client who actually crossed that barrier.",
+      "statement": "Someone coached by the speaker crossed the million dirham barrier in four months.",
+      "topic": "professional background",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "this one is not buying, this one is not buying, this one is not buying, then probably it's never going to be accessible to you.",
+      "statement": "Leads should not be treated as disposable; a more persistent and respectful approach is necessary.",
+      "topic": "sales process",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "YouTube short on strategies for real estate success in Dubai."
+}

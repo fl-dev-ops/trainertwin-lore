@@ -1,0 +1,114 @@
+{
+  "groups": [
+    {
+      "name": "Client Engagement and Communication",
+      "topics": [
+        "client-behavior",
+        "client-communication",
+        "client-education",
+        "client-engagement",
+        "client-indecision",
+        "client-interaction"
+      ]
+    },
+    {
+      "name": "Career Development",
+      "topics": [
+        "career-beginnings",
+        "career-growth",
+        "career-launch",
+        "career-planning",
+        "career-progression",
+        "career-shift",
+        "career-success"
+      ]
+    },
+    {
+      "name": "Budget and Financial Management",
+      "topics": [
+        "budget-management",
+        "budgeting"
+      ]
+    },
+    {
+      "name": "Buyer Psychology and Behavior",
+      "topics": [
+        "buyer-anxiety",
+        "buyer-behavior",
+        "buyer-s-psychology"
+      ]
+    },
+    {
+      "name": "Branding and Reputation",
+      "topics": [
+        "brand-reputation",
+        "branding"
+      ]
+    },
+    {
+      "name": "Business Strategy and Growth",
+      "topics": [
+        "business-growth",
+        "business-strategy"
+      ]
+    },
+    {
+      "name": "Career and Candidate Evaluation",
+      "topics": [
+        "candidate-evaluation",
+        "candidate-mindset",
+        "candidate-qualities"
+      ]
+    },
+    {
+      "name": "Business Model and Challenges",
+      "topics": [
+        "business-model-challenges"
+      ]
+    },
+    {
+      "name": "Call Strategy and Communication",
+      "topics": [
+        "call-block-strategy",
+        "call-script",
+        "call-to-action"
+      ]
+    },
+    {
+      "name": "Building Urgency",
+      "topics": [
+        "building-urgency"
+      ]
+    },
+    {
+      "name": "Carbon Emissions",
+      "topics": [
+        "carbon-emissions"
+      ]
+    },
+    {
+      "name": "Cleaning Advice",
+      "topics": [
+        "cleaning-advice"
+      ]
+    },
+    {
+      "name": "Business Education",
+      "topics": [
+        "business-education"
+      ]
+    },
+    {
+      "name": "Belief Systems in Business",
+      "topics": [
+        "belief"
+      ]
+    },
+    {
+      "name": "Business Description",
+      "topics": [
+        "business-description"
+      ]
+    }
+  ]
+}

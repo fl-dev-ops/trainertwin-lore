@@ -1,0 +1,32 @@
+id: s204
+title: “I Like Houses, So I’ll Do Real Estate” — Biggest Mistake Beginners Make
+date: '2025-06-26'
+source: “I Like Houses, So I’ll Do Real Estate” — Biggest Mistake Beginners Make
+audio_file: “I Like Houses, So I’ll Do Real Estate” — Biggest Mistake Beginners Make [zyyKwmUdhOQ].mp3
+duration: "00:00:26"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 4
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    And people are from outside looking in real estate, they think, well, it's just such an easy thing.
+    I can do that. I like properties.
+- t: "00:00:07"
+  speaker: '1'
+  text: >-
+    um
+- t: "00:00:08"
+  speaker: '0'
+  text: >-
+    is
+- t: "00:00:08"
+  speaker: '1'
+  text: >-
+    Can you please save my number? Whatever you need to buy or sell, please call me. How many of those
+    are actually calling you back? Hi, mister, are you selling your property yet? We value what we own,
+    what is us, what we we have, is way more than something that we don't own yet.

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Effective sales processes improve agents' skills.",
+      "qualification": "The statement is based on the premise that creating effective processes results in the development of skill.",
+      "support_ids": [
+        "linkedin-posts-2023-11-03-well-you-may-think-its-md-57493a6e05:c001:e004:ccb59dbd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking about sales skill investments is a key interview strategy.",
+      "qualification": "This advice is based on self-reported practices and assumes the effectiveness of the question without external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-11-07-how-much-have-you-invested-md-43349a2fc2:c001:e002:a74d8046"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reflecting on client needs is part of sales strategy.",
+      "qualification": "Reflection and active listening are highlighted as techniques, but without clear evidence of outcome improvements.",
+      "support_ids": [
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e002:ee82918a",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e004:e8ca2d36"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Regular questioning enhances sales strategy.",
+      "qualification": "Focus on questioning without empirical data demonstrating effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6:c001:e002:dfde9186",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e001:f8aa4d00"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales trainer weekly insights may enhance effectiveness.",
+      "qualification": "Insights are described as useful, but effectiveness is implied rather than evidenced.",
+      "support_ids": [
+        "linkedin-posts-2023-12-11-weekly-magic-from-a-sales-md-a78c86dffe:c001:e001:12b94ff6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Including key questions simplifies talent assessment.",
+      "qualification": "The method simplifies talent evaluation, yet lacks empirical validation on outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-12-08-i-highly-respect-a-real-md-dd17c68945:c001:e001:3f11b685"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High-potential candidates can be identified without experience.",
+      "qualification": "This insight remains unverified beyond the claim, based on observed outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-12-08-i-highly-respect-a-real-md-dd17c68945:c001:e002:f8b8b39d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouragement to focus on selling more as a universal strategy.",
+      "qualification": "The advice is broad and may lack context-specific effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-11-15-a-small-piece-from-my-md-1a445a5cca:c001:e001:3063abdb"
+      ]
+    }
+  ]
+}

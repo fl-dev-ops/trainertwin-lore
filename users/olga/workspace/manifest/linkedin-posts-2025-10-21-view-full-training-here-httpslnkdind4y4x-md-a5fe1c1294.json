@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-10-21-view-full-training-here-httpslnkdind4y4x-md-a5fe1c1294-7fdb9c71b7be965b.jsonl",
+  "external_id": "7386251476253421568",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:49:41Z",
+  "metadata_hash": "34b89d38f96bbd2d03d5da2e8d1dd9d3b18bdf787f52d72d8e0ed0bd18cf44ab",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-10-21T04:06:21.855000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-10-21-view-full-training-here-httpslnkdind4y4x.md",
+  "source_sha256": "b558e0c2a345b3bbe4a02bb88ee3bd47bc95d8cb2f36aaef35444a6ff8928e23",
+  "source_url": "https://www.linkedin.com/posts/olgasi_view-full-training-here-httpslnkdind4y4xbzz-activity-7386251476253421568-_URS"
+}

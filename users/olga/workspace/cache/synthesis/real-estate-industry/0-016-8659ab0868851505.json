@@ -1,0 +1,44 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The speaker has nearly ten years of experience selling real estate property in Dubai.",
+      "qualification": "Experience is self-reported and unverified.",
+      "support_ids": [
+        "youtube-transcripts-12-yaml-6db9d6703c:c001:e001:219520ee"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker claims to have been selling real estate properties in Dubai for almost eleven years and has trained agents for five years.",
+      "qualification": "Experience and training role are self-reported without external verification.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e006:14db551a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker suggests that taking a holiday in the first year of working in real estate may result in having to start over.",
+      "qualification": "Advice is hypothetical and based on one individual's perspective.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e004:1a390e7c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker has been in Dubai for eleven years and has worked with many trainers.",
+      "qualification": "Duration in Dubai and collaboration with trainers are self-reported.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e005:e792aa66"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker prefers to wear a suit to work as a way to differentiate from personal life.",
+      "qualification": "Preference is self-reported and a personal choice, not necessarily industry-wide behavior.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e007:e60f5514"
+      ]
+    }
+  ]
+}

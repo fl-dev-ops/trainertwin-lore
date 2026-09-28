@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Today was one of those days for me in Chestertons MENA.",
+      "statement": "Today was one of those days for me in Chestertons MENA.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "One of the most experienced brokers in the company approached me for a private one-on-one session.",
+      "statement": "One of the most experienced brokers in the company approached me for a private one-on-one session.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "because it reflects the culture I’ve worked hard to build: one of acceptance, growth, and a shared passion for learning.",
+      "statement": "It reflects the culture I’ve worked hard to build: one of acceptance, growth, and a shared passion for learning.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Moments like this remind me why I love what I do.",
+      "statement": "Moments like this remind me why I love what I do.",
+      "topic": "personal reflection",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post expressing a positive work experience and reflection on personal and professional growth."
+}

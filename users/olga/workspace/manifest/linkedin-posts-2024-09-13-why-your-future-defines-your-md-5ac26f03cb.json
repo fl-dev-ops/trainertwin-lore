@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb-cbbf8b8b92a9df7f.jsonl",
+  "external_id": "7240207595506937856",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:32:07Z",
+  "metadata_hash": "11e79ed09fea3b585a97afe62b2fa91ff334538117d965a5ea5fc864f66dd121",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-13T04:00:07.321000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-13-why-your-future-defines-your.md",
+  "source_sha256": "58f3126fbae72ec8fae602a4ba2b3bb2d894ac3c7ad91fe7e80f57a6e6af8aa7",
+  "source_url": "https://www.linkedin.com/posts/olgasi_why-your-future-defines-your-present-there-activity-7240207595506937856-B5JD"
+}

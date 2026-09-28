@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "fact_claim",
+      "quote": "what do you think I'm going to do with the price?",
+      "statement": "Property owners often increase their prices if they cannot sell within a few months.",
+      "topic": "real estate potential",
+      "unit_id": "u000038"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I actually start selling here in Jan 2015.",
+      "statement": "The speaker has been monitoring the Dubai real estate market since January 2015.",
+      "topic": "professional background",
+      "unit_id": "u000042"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "people from outside as well with understanding that buying a secondary on the market...",
+      "statement": "Investing in off-plan properties can be appealing for both residents and foreign buyers.",
+      "topic": "investment opportunity",
+      "unit_id": "u000037"
+    }
+  ],
+  "overview": "Transcription of a YouTube video discussing insights into the Dubai real estate market, covering topics like market trends, investment opportunities, and rental yields."
+}

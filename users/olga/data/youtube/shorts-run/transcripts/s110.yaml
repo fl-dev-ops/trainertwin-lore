@@ -1,0 +1,32 @@
+id: s110
+title: Moving to Dubai after 50...Start over in Real Estate. Is it worth it？
+date: '2025-09-25'
+source: Moving to Dubai after 50...Start over in Real Estate. Is it worth it？
+audio_file: Moving to Dubai after 50...Start over in Real Estate. Is it worth it？ [7HOKqx2imPc].mp3
+duration: "00:00:48"
+model: saaras:v3
+raw_speaker_ids:
+- '1'
+- '2'
+counts:
+  raw_entries: 3
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    and they were always busy so the training lasted two weeks it was very informal. and so I said okay
+    maybe it's a new company they are getting organized and I just go with it. after the training period
+    basically I was told which area would you like to focus. and I was
+- t: "00:00:17"
+  speaker: '2'
+  text: >-
+    At the time with two weeks, you have a pretty much good idea about each and every area of Dubai, right?
+    No, no, that's what I
+- t: "00:00:22"
+  speaker: '1'
+  text: >-
+    No, no, that's what I want to say, you know, like I was lost, you know, I arrived here, I had problems,
+    you know, with accommodation, I already rented, it was the wrong place. I didn't like it, but I already
+    signed for one month, so I have this, I was given a database and I was I was told you have to call
+    and you have to get the houses that you want to sell or rent. So, okay, so I said, great, I've never
+    done cold calling in my life before.

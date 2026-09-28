@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Instead of thinking of what you should say to make the client buy, focus on what you should ask,",
+      "statement": "Focus on asking the right questions to guide the client to their own conclusions.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the answer of this question is the client telling himself why he should buy now,",
+      "statement": "Clients respond more powerfully to their own reasons for buying than to sales pitches.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source chunk contains insights on sales strategies, specifically on client engagement and effective questioning in sales contexts."
+}

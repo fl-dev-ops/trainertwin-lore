@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is recommended as an effective strategy if other approaches (such as Instagram funnels and networking) are not yielding results.",
+      "qualification": "This advice is based on individual recommendation and is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-08-05-everyone-says-cold-calling-doesnt-md-147553f13e:c001:e002:29c89586"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A 'Recruitment & Training machine' is suggested as essential for running a real estate company.",
+      "qualification": "This suggestion is based on personal advice and lacks independent verification or evidence of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2025-08-12-if-you-think-running-a-md-cb33d45df9:c001:e003:9574e21c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persuasiveness can be enhanced by admitting imperfections, according to one belief shared on LinkedIn.",
+      "qualification": "This belief is self-reported and not verified across multiple sources.",
+      "support_ids": [
+        "linkedin-posts-2025-08-19-throw-stones-at-me-right-md-c0c30c6746:c001:e003:72081f5c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering private strategy sessions for personalized guidance is a method for deeper audience engagement.",
+      "qualification": "The impact and reception of these sessions are not documented, leaving their effectiveness unclear.",
+      "support_ids": [
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e005:88ca2917"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "LinkedIn users engage their audience by inviting comments and interactions, such as guessing games, to boost engagement.",
+      "qualification": "The success and overall engagement level of this strategy is not assessed.",
+      "support_ids": [
+        "linkedin-posts-2025-09-09-yes-i-was-in-md-7c17ca2f1f:c001:e002:126fdb8b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sharing content on platforms like YouTube is used as part of social media engagement strategy.",
+      "qualification": "The reach and effectiveness in terms of audience growth are not examined.",
+      "support_ids": [
+        "linkedin-posts-2025-10-01-ashley-james-hawthorne-thank-you-for-md-7c7ee775a9:c001:e002:ba04f649"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A trend on LinkedIn involves asking ChatGPT to roast profile pictures, highlighting interactive engagement strategies.",
+      "qualification": "The popularity and impact of this trend on audience interactions are not specified.",
+      "support_ids": [
+        "linkedin-posts-2025-09-08-apparently-theres-a-trend-on-md-7da40c1de0:c001:e001:06ab44bb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The significance of asking questions effectively in real estate sales is acknowledged, implying a need for training.",
+      "qualification": "This assertion is based on observed behavior without independent validation of results or skills improvement.",
+      "support_ids": [
+        "linkedin-posts-2025-08-15-sell-without-selling-the-questions-md-92bb0c57c9:c001:e004:9641515a"
+      ]
+    }
+  ]
+}

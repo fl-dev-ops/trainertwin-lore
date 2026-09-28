@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2023-04-26-when-trying-to-make-the-md-ffc2e92cb0-c1a61d5432d8ab88.jsonl",
+  "external_id": "7056817276079026176",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:16:08Z",
+  "metadata_hash": "b1b36ff18e1efdc2c0201e6f4a0d07ab8c1ab84cc093a468f3862b890115f51c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-04-26T02:32:27.942000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-04-26-when-trying-to-make-the.md",
+  "source_sha256": "ba79f2ef60a133ca6a1cf1875eb7ef96db4704e63244ffd20f6b61b870993d1f",
+  "source_url": "https://www.linkedin.com/posts/olgasi_careerdevelopment-businessgrowth-professionaladvice-activity-7056817276079026176-Vk27"
+}

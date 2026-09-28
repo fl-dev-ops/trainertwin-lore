@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2025-09-01-pros-cons-brutal-reality-in-md-8f6b7afe70-8004a8a4a33ba971.jsonl",
+  "external_id": "7368264046606725122",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:46:57Z",
+  "metadata_hash": "a3cfd37c38106e7065ae7e475fc1db641868a2f301b332df3da5adfa5db723cc",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-09-01T12:50:44.437000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-09-01-pros-cons-brutal-reality-in.md",
+  "source_sha256": "6a26c1b0066d567e68df8c41d85b93859c7ba0a3ee57ac81b810f3b370512cd7",
+  "source_url": "https://www.linkedin.com/posts/olgasi_he-knew-nothing-about-dubai-now-hes-closing-activity-7368264046606725122-7pv8"
+}

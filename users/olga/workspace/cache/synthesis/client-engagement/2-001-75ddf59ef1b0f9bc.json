@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Clients can struggle with indecision when exposed to contradictory information from different agents.",
+      "qualification": "This claim reflects the author's belief and lacks comprehensive study or analysis.",
+      "support_ids": [
+        "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e:c001:e003:688ae1ea"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging open feedback and audience interaction on social media may foster client engagement.",
+      "qualification": "Effectiveness depends on the platform and audience engagement levels.",
+      "support_ids": [
+        "linkedin-posts-2023-09-07-im-curious-to-know-what-md-a978e0b1c5:c001:e003:2bfada42",
+        "linkedin-posts-2023-09-05-my-linkedin-network-is-looking-md-5a7459e4c3:c001:e005:a62f9d1f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales resistance can negatively affect personal sales performance.",
+      "qualification": "This concept appears as a fact claim and could benefit from empirical evidence to support it.",
+      "support_ids": [
+        "linkedin-posts-2024-03-05-my-own-sales-tricks-grab-md-d4af296ae1:c001:e001:039967e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cultural and language awareness is important in diverse environments for improving communication with clients.",
+      "qualification": "The importance of this strategy is suggested by the author without independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-11-25-in-a-global-hub-like-md-1d8305f46d:c001:e004:86baaa70"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging followers by asking them to comment increases interaction and possibly enhances client engagement.",
+      "qualification": "This is an observed behavior from social media and may not always correlate to increased engagement in all contexts.",
+      "support_ids": [
+        "linkedin-posts-2024-08-28-how-many-coaches-does-ronaldo-md-33fbb7c3c9:c001:e001:43ca4c7f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling disappearing clients right before deal closure represents a significant challenge in client engagement.",
+      "qualification": "The issue is discussed in training sessions, indicating it is a common challenge, yet specific strategies are not detailed.",
+      "support_ids": [
+        "linkedin-posts-2024-08-28-just-in-time-for-lunch-break-md-e53e7cafe4:c001:e002:df7aadbf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training processes help real estate agents navigate client interactions and foster future opportunities.",
+      "qualification": "This finding is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-ill-be-the-first-to-md-6ee40702d8:c001:e003:63192e79"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Most clients are in initial stages of awareness, either completely unaware or only problem aware, which affects sales engagement strategies.",
+      "qualification": "This is a self-reported observation and may not apply universally to all market segments.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e002:1e2532d8"
+      ]
+    }
+  ]
+}

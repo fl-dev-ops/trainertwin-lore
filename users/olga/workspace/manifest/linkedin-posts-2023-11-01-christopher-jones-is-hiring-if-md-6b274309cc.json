@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-11-01-christopher-jones-is-hiring-if-md-6b274309cc-7ec4b76ac7d3bd1b.jsonl",
+  "external_id": "7125370234743472128",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:18:16Z",
+  "metadata_hash": "c44e0e3cdaf114959da543c4cf9926edb8a2d4e0534d74a3150efe4d9b93b983",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-11-01T06:37:26.940000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-11-01-christopher-jones-is-hiring-if.md",
+  "source_sha256": "7714b39d7caf644078ea56dacdee9defbddf8d4cd6b4f8adbd004df8186bf691",
+  "source_url": "https://www.linkedin.com/posts/olgasi_hiring-activity-7125370234743472128-PEGs"
+}

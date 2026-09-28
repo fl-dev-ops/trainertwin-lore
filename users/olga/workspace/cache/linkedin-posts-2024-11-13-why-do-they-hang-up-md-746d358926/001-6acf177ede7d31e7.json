@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "fact_claim",
+      "quote": "Why do they HANG UP on you?",
+      "statement": "Clients may hang up due to ineffective engagement strategies.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "what should you do differently to have real conversations which lead to listings and sales?",
+      "statement": "To have real conversations that lead to listings and sales, one must change their approach.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing reasons for client disengagement and strategies to improve communication for sales success."
+}

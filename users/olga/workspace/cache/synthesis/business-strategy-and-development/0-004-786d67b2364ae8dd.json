@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The user has transitioned from a real estate agent to a sales trainer, indicating a shift in professional focus towards training and development.",
+      "qualification": "The evidence is self-reported and unverified, indicating transitions in career based on personal narrative.",
+      "support_ids": [
+        "linkedin-posts-2024-10-31-10-years-in-dubai-real-md-de4e98afd8:c001:e001:06025187",
+        "linkedin-posts-2024-12-04-10-years-out-of-53-md-95ed3d4a82:c001:e003:b63c87bd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Despite extensive experience in sales, the user expresses uncertainty about their ability to teach sales effectively.",
+      "qualification": "This is a self-reported reflection, highlighting the distinction between practical sales skills and the ability to train others.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-nine-years-in-real-estate-md-5696766c14:c001:e001:75a067fe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The user is involved in developing an AI-powered assistant specifically for real estate agents.",
+      "qualification": "The assistant called Knock-Knock is reported to be only 10% complete, and capabilities such as writing property descriptions are mentioned.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-dont-take-my-word-for-md-e97711ee9c:c001:e003:600825d9",
+        "linkedin-posts-2024-09-17-dont-take-my-word-for-md-e97711ee9c:c001:e005:76f82c57"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The user perceives a gap between the expectations and reality in real estate career development.",
+      "qualification": "Self-reported beliefs on expectations in career development versus actual experiences.",
+      "support_ids": [
+        "linkedin-posts-2024-11-14-when-dreams-meet-reality-the-md-4f770bac64:c001:e002:24346678"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "User has been approached by a team to create an AI assistant, indicating recognition in the industry for their expertise.",
+      "qualification": "The impact or success of this project was not verified by external evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-dont-take-my-word-for-md-e97711ee9c:c001:e003:600825d9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Time management is a focus in the user's advice for business development in real estate.",
+      "qualification": "The advice provided is general and self-reported.",
+      "support_ids": [
+        "linkedin-posts-2024-12-16-struggling-with-time-management-in-md-860b2c8abd:c001:e001:7e81a698"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "User has a long-standing partnership with the RAY WHITE group, providing training services.",
+      "qualification": "This is a self-reported and unverified professional claim.",
+      "support_ids": [
+        "linkedin-posts-2024-06-13-how-to-find-the-right-md-786ca7e7f4:c001:e004:4f13d84d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The user started a new position as Head of Performance and Training at Chestertons MENA, which indicates a leadership role in training and performance.",
+      "qualification": "Self-reported and not independently verified; does suggest continued career progression into leadership roles.",
+      "support_ids": [
+        "linkedin-posts-2024-11-05-im-happy-to-share-that-md-87197b9616:c001:e001:4d944cdb"
+      ]
+    }
+  ]
+}

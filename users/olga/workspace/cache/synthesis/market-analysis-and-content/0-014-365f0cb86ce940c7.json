@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate offers a potential for passive income, unlike gold.",
+      "qualification": "This is stated in a comparative sense highlighting real estate as a better option for passive income compared to gold.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s203-yaml-36daf8e560:c001:e002:d52a7d5a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Ownership restrictions hinder international real estate investment in certain markets.",
+      "qualification": "Visa requirements affect the ability to own property properly. The full extent of the impact is not detailed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s208-yaml-195371b24a:c001:e001:18e89ec6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate developers cannot access funds from escrow accounts until project completion.",
+      "qualification": "This implies security for investors but requires confirmation across different markets and developers as policies can vary.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s209-yaml-b3361ad755:c001:e004:2325bfc5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mortgages can be obtained for properties nearing completion without a title deed.",
+      "qualification": "This flexibility may not apply universally and may depend on local property laws and financial institution policies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s209-yaml-b3361ad755:c001:e005:b33a9b85"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There has been a significant increase in real estate clients due to good pandemic management.",
+      "qualification": "The specifics of what constitutes 'good pandemic management' are not detailed, nor how it translates to increased clientele.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s210-yaml-36da6d8b13:c001:e003:5865ec78"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Brokers play an important role in connecting clients with engineering firms for property handovers.",
+      "qualification": "The necessity of such services and their impact on the buying process are not fully explored.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s211-yaml-3d61e76985:c001:e003:21f7b8c6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investment opportunities vary among cosmopolitan cities, drawing international players.",
+      "qualification": "The capacity of these cities to maintain investor interest under fluctuating global conditions is not assessed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s36-yaml-870d92c6cf:c001:e001:ba2332ac"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The real estate market allegedly remains robust despite external conflicts.",
+      "qualification": "Stability claims are not accompanied by detailed performance metrics or cross-referenced data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s38-yaml-e83ecc1930:c001:e001:6a1e3af9"
+      ]
+    }
+  ]
+}

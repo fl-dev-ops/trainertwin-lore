@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "I've trained 1 000+ agents.",
+      "statement": "I trained 1 000+ agents.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Posted + 230 sales advise videos on my Youtube.",
+      "statement": "Posted + 230 sales advice videos on my Youtube.",
+      "topic": "content creation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Probably had last year 3 people reach out to me saying they start closing deals just by watching my trainings.",
+      "statement": "3 people reached out saying they started closing deals by watching my trainings.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "One of them was a owner of an agency from Andorra - he became top Broker For Binghatti in November 2025.",
+      "statement": "An owner of an agency from Andorra became a top Broker in November 2025 after training.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Free content gets consumed. Paid content gets implemented.",
+      "statement": "Free content gets consumed; paid content gets implemented.",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "When agents invest money, they invest time. When they invest time, they get results.",
+      "statement": "Agents should invest money to ensure they invest time and get results.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "the action workbook - the step-by-step implementation guide that turns the training into actual results? That's going to cost money.",
+      "statement": "An action workbook will be offered for a fee to assist in implementing training.",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "What should I charge for this action workbook?",
+      "statement": "Question for my network: What should I charge for this action workbook?",
+      "topic": "sales performance",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Author shares insights on the value of charging for real estate training materials."
+}

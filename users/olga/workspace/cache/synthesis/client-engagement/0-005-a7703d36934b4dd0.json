@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales agents should prioritize understanding and valuing the client's needs for effective engagement.",
+      "qualification": "The evidence is self-reported and the interpretation of 'understand and value' might vary.",
+      "support_ids": [
+        "linkedin-posts-2023-11-03-well-you-may-think-its-md-57493a6e05:c001:e005:f5891470",
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e001:e921cc44"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An effective client engagement strategy involves asking open-ended questions to uncover deeper motivations.",
+      "qualification": "This finding is based on advice and hypothetical scenarios rather than empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6:c001:e001:df0341f0",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e002:d04c0e89"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Knowing a client's actual needs is crucial to successfully selling to them.",
+      "qualification": "The statement is an observed claim, not empirically validated.",
+      "support_ids": [
+        "linkedin-posts-2023-11-22-do-you-know-your-clients-md-27341701aa:c001:e001:1189ac02"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement strategies should drive clients to articulate their own reasons for their decisions, helping refine their buyer journey.",
+      "qualification": "Supported by case study observations but lacks broader validation.",
+      "support_ids": [
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e004:6a8567b9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Different communication approaches can aid in understanding clients' challenges and ease objections during sales processes.",
+      "qualification": "The advice given is practical but lacks additional sources or quantitative backing.",
+      "support_ids": [
+        "linkedin-posts-2023-12-05-weekly-magic-from-a-sales-md-50ba29defd:c001:e001:2c3e2576"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The ability to engage clients beyond their initial demands reveals deeper client needs over time.",
+      "qualification": "This is a teaching move exercise, not directly derived from client feedback.",
+      "support_ids": [
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e005:4ead6f29"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Inviting clients or audiences to contribute further discussion enhances engagement and the value of insights shared.",
+      "qualification": "It is a hypothetical offering showing intention rather than result.",
+      "support_ids": [
+        "linkedin-posts-2023-12-08-i-highly-respect-a-real-md-dd17c68945:c001:e003:ea8400c4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client problems need to be identified and addressed explicitly during engagement to ensure meaningful interaction.",
+      "qualification": "The context is observed rather than analytical or data-driven.",
+      "support_ids": [
+        "linkedin-posts-2023-12-18-weekly-magic-from-a-sales-md-2125cebbec:c001:e001:cbccb1ec"
+      ]
+    }
+  ]
+}

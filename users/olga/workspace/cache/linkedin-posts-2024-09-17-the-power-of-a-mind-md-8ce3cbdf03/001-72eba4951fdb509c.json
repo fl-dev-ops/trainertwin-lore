@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "case_study",
+      "quote": "the wrong price for a unit on a booking form—seven thousand dirhams off.",
+      "statement": "She had mistakenly entered the wrong price for a unit on a booking form—seven thousand dirhams off.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "observed_behavior",
+      "quote": "come clean. Not only did she admit her mistake, but she even sent the client screenshots",
+      "statement": "She chose to come clean about her mistake and sent the client screenshots of missed messages.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the client was so impressed by her honesty that he refused to let her cover the seven thousand",
+      "statement": "The client was so impressed by her honesty that he refused to let her cover the seven thousand dirhams herself.",
+      "topic": "client relationship",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A coaching success story illustrating the impact of a mindset shift in sales situations."
+}

@@ -1,0 +1,45 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The concept of developing a positive mindset is linked to overcoming challenges in sales careers.",
+      "qualification": "Self-reported data; lacks empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-07-26-the-unfiltered-truth-md-0407433d5b:c001:e003:a484f35a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Relying on a compelling personal reason or 'WHY' can drive goal achievement and success.",
+      "qualification": "Self-reported belief without empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-08-09-if-your-why-is-strong-md-c39641e5a1:c001:e001:79346795"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The effectiveness of a sales trainer may depend on their ability to provide practical steps and original content.",
+      "qualification": "The claims are based on observed insights, lacking empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-08-03-how-to-spot-a-weak-md-5c0636bcb7:c001:e003:2bbc0653",
+        "linkedin-posts-2023-08-03-how-to-spot-a-weak-md-5c0636bcb7:c001:e005:f5221ea8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding and addressing a client's true needs is crucial for successful sales.",
+      "qualification": "Advice offered, but based on self-reported experiences.",
+      "support_ids": [
+        "linkedin-posts-2023-08-15-never-trust-a-sales-person-md-c5efc806b5:c001:e002:91ca2f75"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Experiences of rejection, such as clients choosing other trainers, are part of career development and learning.",
+      "qualification": "Self-reported experiences without direct evidence of outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-08-01-the-client-told-you-no-md-19335c72ba:c001:e005:a3036721"
+      ]
+    }
+  ]
+}

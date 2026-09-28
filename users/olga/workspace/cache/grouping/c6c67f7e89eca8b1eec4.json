@@ -1,0 +1,99 @@
+{
+  "groups": [
+    {
+      "name": "Learning and Growth",
+      "topics": [
+        "learning-by-doing",
+        "learning-from-failure",
+        "learning-strategy",
+        "mindset-shift"
+      ]
+    },
+    {
+      "name": "Market Dynamics",
+      "topics": [
+        "market-competition",
+        "market-conditions",
+        "market-demand",
+        "market-dynamics",
+        "market-history",
+        "market-research",
+        "market-uncertainty"
+      ]
+    },
+    {
+      "name": "Management and Training",
+      "topics": [
+        "management-involvement",
+        "manager-effectiveness",
+        "manager-training"
+      ]
+    },
+    {
+      "name": "Client Engagement and Marketing",
+      "topics": [
+        "marketing-failures",
+        "marketing-plan",
+        "marketing-strategy"
+      ]
+    },
+    {
+      "name": "Mentorship and Influence",
+      "topics": [
+        "mentor-influence",
+        "mentorship",
+        "mentorship-philosophy",
+        "mentorship-strategy"
+      ]
+    },
+    {
+      "name": "Personal Development and Reflection",
+      "topics": [
+        "leap-of-faith",
+        "life-reflection",
+        "lifestyle-planning",
+        "mental-health-support"
+      ]
+    },
+    {
+      "name": "Support and Resources",
+      "topics": [
+        "legal-support",
+        "military-support",
+        "membership"
+      ]
+    },
+    {
+      "name": "Engagement Strategies",
+      "topics": [
+        "long-term-engagement",
+        "modern-consumer-engagement",
+        "link-sharing"
+      ]
+    },
+    {
+      "name": "masterclass",
+      "topics": [
+        "masterclass"
+      ]
+    },
+    {
+      "name": "mission-statement",
+      "topics": [
+        "mission-statement"
+      ]
+    },
+    {
+      "name": "mortgage-options",
+      "topics": [
+        "mortgage-options"
+      ]
+    },
+    {
+      "name": "misconceptions-in-sales",
+      "topics": [
+        "misconceptions-in-sales"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-11-21-sales-isnt-easy-and-real-md-90799e656e-23ac7dd7f447ecb9.jsonl",
+  "external_id": "7265275178870296578",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:35:59Z",
+  "metadata_hash": "bd178d1f6fbcab59dd3c16b9a7171218863b4ec38a05add3f585f429cdd93c68",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-11-21T08:09:44.928000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-11-21-sales-isnt-easy-and-real.md",
+  "source_sha256": "990b1205c031fa931b1a26a8c2f24109212269d7bb4656996590d8e9b91b932f",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestate-broker-realestateagents-activity-7265275178870296578-sXi9"
+}

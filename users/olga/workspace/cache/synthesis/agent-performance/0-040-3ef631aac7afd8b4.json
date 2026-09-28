@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Successful agents are believed to be doing something different to earn millions in commission.",
+      "qualification": "This claim is hypothetical and lacks specific details or independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-12-09-have-you-thought-what-the-md-ee150bfa22:c001:e001:0989ad28"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A structured coaching process is considered essential for new agents to avoid common mistakes and succeed.",
+      "qualification": "The effectiveness of such coaching is not independently verified in this context.",
+      "support_ids": [
+        "linkedin-posts-2025-12-10-she-started-with-zero-knowledge-md-a9c9de3cc4:c001:e002:112bd024"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building relationships with clients is advised to enhance engagement in real estate sales.",
+      "qualification": "The advice is guided towards new agents and lacks empirical validation in this context.",
+      "support_ids": [
+        "linkedin-posts-2025-12-11-how-to-start-in-dubai-md-e2037b59d0:c001:e001:c4838ce7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Lead generation success is attributed to methodology rather than the sheer volume of leads.",
+      "qualification": "The statement is observed, yet there is no empirical analysis supporting the claim.",
+      "support_ids": [
+        "linkedin-posts-2025-12-19-christmas-time-ideal-for-md-4a27be2ff5:c001:e005:a107b921"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reaching out to 'warm leads' is considered crucial for effective client engagement and lead generation.",
+      "qualification": "The advice is based on self-reported experience without external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-12-19-christmas-time-ideal-for-md-4a27be2ff5:c001:e001:d33e41c7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Transforming objections into trust is seen as a key sales strategy.",
+      "qualification": "This observed strategy is not supported by testable evidence in the provided material.",
+      "support_ids": [
+        "linkedin-posts-2025-12-15-from-objections-to-trust-realestatesales-md-d6a9c810bb:c001:e001:f477b4d3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales failures are linked to agents acting as information desks rather than trusted advisors.",
+      "qualification": "This claim is an observed statement without quantitative backing.",
+      "support_ids": [
+        "linkedin-posts-2025-12-19-six-months-without-closing-a-md-49a6ab6242:c001:e001:447e86e5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Trustworthiness is seen as more important than demonstrating knowledge for client retention and conversion.",
+      "qualification": "The advice lacks empirical support and is based on a perspective shared in the material.",
+      "support_ids": [
+        "linkedin-posts-2025-12-19-six-months-without-closing-a-md-49a6ab6242:c001:e003:3c688216"
+      ]
+    }
+  ]
+}

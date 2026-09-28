@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-11-10-all-your-questions-answered-inside-md-4658ae3bd7-b6ddcc4d01ed140c.jsonl",
+  "external_id": "7393540173755719680",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T17:17:41Z",
+  "metadata_hash": "237fec273d7281ab8774ab07aea7a05b4a3e188d8d22683aa8968539b467b8e7",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-10T06:49:02.757000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-10-all-your-questions-answered-inside.md",
+  "source_sha256": "60489ff273c200726f5049b834458ae562356149f8041b36593a286d577ef6c1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestraining-realestatecoldcalling-dubairealtorcoach-activity-7393540173755719680-oQ_L"
+}

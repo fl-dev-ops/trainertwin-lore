@@ -1,0 +1,89 @@
+{
+  "groups": [
+    {
+      "name": "Project Management",
+      "topics": [
+        "project-completion",
+        "project-location",
+        "project-timeline"
+      ]
+    },
+    {
+      "name": "Career Development",
+      "topics": [
+        "promotion-strategy",
+        "qualifications",
+        "reflection"
+      ]
+    },
+    {
+      "name": "Real Estate Market",
+      "topics": [
+        "property-prices",
+        "real-estate-course",
+        "real-estate-engagement",
+        "real-estate-investment",
+        "real-estate-performance",
+        "real-estate-potential",
+        "real-estate-process",
+        "real-estate-services"
+      ]
+    },
+    {
+      "name": "Public Engagement",
+      "topics": [
+        "public-opinion",
+        "public-speaking"
+      ]
+    },
+    {
+      "name": "Questioning Techniques",
+      "topics": [
+        "questioning",
+        "questioning-technique",
+        "questioning-techniques"
+      ]
+    },
+    {
+      "name": "Recruitment Practices",
+      "topics": [
+        "recruitment",
+        "recruitment-initiative",
+        "relocation-process",
+        "resume-distribution",
+        "resume-tailoring"
+      ]
+    },
+    {
+      "name": "Sales Techniques",
+      "topics": [
+        "rejection-handling",
+        "rejection-in-sales",
+        "resistance-in-sales",
+        "response-quality",
+        "responsibility-in-sales"
+      ]
+    },
+    {
+      "name": "Regional Dynamics",
+      "topics": [
+        "regional-conflicts",
+        "regional-tensions",
+        "regrets"
+      ]
+    },
+    {
+      "name": "Return on Investment",
+      "topics": [
+        "return-on-investment",
+        "revenue-generation"
+      ]
+    },
+    {
+      "name": "Wealth Perspectives",
+      "topics": [
+        "rich-vs-wealthy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e001:0d59eed4"
+      ],
+      "finding": "A shift towards online platforms is evident in real estate transactions, enhancing the sales strategy.",
+      "qualification": "Some self-reported limitations exist regarding closing deals online.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e002:8405b189",
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e002:75bacb69"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents often limit their selling potential based on their personal beliefs about capacity.",
+      "qualification": "This is an observed claim, lacking direct empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e001:3a6ec316",
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e004:38660e29"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Proper mindset management can aid in handling client objections effectively during sales.",
+      "qualification": "This approach is advisory; practical outcomes may vary.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6:c001:e001:f85ce13b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a higher potential earning capacity for agents putting in similar efforts with better strategies or platforms.",
+      "qualification": "Hypothetical situation based on implied comparison, not validated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e006:e54e791d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Future vision clarity significantly impacts present decision-making processes.",
+      "qualification": "Correlation between vision and decision-making is asserted but not experimentally validated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb:c001:e004:f4f3aceb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "For effective online sales, understanding client psychology is essential beyond mere tech mastery.",
+      "qualification": "Advisory content requires contextual application for real-world validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e004:a9cc9b5a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Avoiding aggressive tactics in objection handling is recommended to reduce resistance.",
+      "qualification": "This advice aims to lower barriers but lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6:c001:e002:4fc614c1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Intensive client-specific sales strategy interventions can facilitate career transitions and early earnings.",
+      "qualification": "Self-reported impact from case studies may not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-client-testimonial-how-we-transformed-md-bdc949095b:c001:e002:a713f441"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-11-04-80-mindset-15-action-5-md-503e084c61-5d60f5aa9f698dc4.jsonl",
+  "external_id": "7391347030067142656",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T17:16:45Z",
+  "metadata_hash": "fda5a48169db093a31cdf254cc5dede704bd851fdaa692a8e2bda19f81051b28",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-04T05:34:16.555000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-04-80-mindset-15-action-5.md",
+  "source_sha256": "5bc0f116842b8c3b9566d3005fee2acee98da4e40d0431a38a7743b8b6f3871d",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatemindset-salestraining-dubairealestate-activity-7391347030067142656-LWvV"
+}

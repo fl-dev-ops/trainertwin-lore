@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-07-07-dealing-with-a-buyers-pushbacks-md-65613f3758-ed79944e6ff8603d.jsonl",
+  "external_id": "7347836777816035328",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:57:49Z",
+  "metadata_hash": "d265962c149c1c53a4f3beccff5284b816a1fcc63f4f542e01d41922a8c300fa",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-07-07T04:00:04.037000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-07-07-dealing-with-a-buyers-pushbacks.md",
+  "source_sha256": "aed1238896bb014a0a9f69f27334fd5d1994244d0c3d89ee28c241a8f6a2cdff",
+  "source_url": "https://www.linkedin.com/posts/olgasi_coldcallingtrainingdubai-coldcalling-realestate-activity-7347836777816035328-mq1C"
+}

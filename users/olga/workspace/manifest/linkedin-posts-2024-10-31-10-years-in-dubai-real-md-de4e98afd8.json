@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-10-31-10-years-in-dubai-real-md-de4e98afd8-959b6f8c404a8063.jsonl",
+  "external_id": "7257641592621072385",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:34:38Z",
+  "metadata_hash": "e5b9a1ca8c07e83cb404391d1ab527aa845ab2a6065fc86518c3ae2abeb274e6",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-10-31T06:36:36.141000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-10-31-10-years-in-dubai-real.md",
+  "source_sha256": "e566373bc1300a14f9195380a3fe87daf6e007e185f48ce76aedde807801ab76",
+  "source_url": "https://www.linkedin.com/posts/olgasi_10yearsindubairealestate-careerprogression-activity-7257641592621072385-G6Wg"
+}

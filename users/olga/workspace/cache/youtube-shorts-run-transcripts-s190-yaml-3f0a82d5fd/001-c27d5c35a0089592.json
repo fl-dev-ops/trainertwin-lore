@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Please don't ever use the word presentation. No one wants to be on a presentation, right?",
+      "statement": "Avoid using the word 'presentation' when booking Zoom meetings, as it is off-putting to clients.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "they're not going to go on a Zoom meeting with you if they don't see the reason for themselves.",
+      "statement": "Typically, clients reject Zoom meeting invitations if they do not see personal benefit.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Would that be would that be useful if we will do that?",
+      "statement": "Frame the invitation to a Zoom meeting around the client's potential gain instead of your agenda.",
+      "topic": "engagement strategy",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "YouTube short discussing how to effectively book Zoom meetings with potential buyers."
+}

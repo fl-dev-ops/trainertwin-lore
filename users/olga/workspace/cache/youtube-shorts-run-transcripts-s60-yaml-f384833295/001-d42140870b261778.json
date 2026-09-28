@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "I'm going to call them probably from two different numbers",
+      "statement": "Call aged leads from two different numbers.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I'm calling from two different numbers, maybe, um morning from number one",
+      "statement": "The speaker is persistent in their approach, calling at different times.",
+      "topic": "sales process",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "here there is no speed to lead need",
+      "statement": "There is no urgency in contacting aged leads compared to new leads.",
+      "topic": "sales resistance",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript from a sales strategy discussion on how to approach aged leads."
+}

@@ -1,0 +1,139 @@
+{
+  "groups": [
+    {
+      "name": "Business Evaluation",
+      "topics": [
+        "company-assessment",
+        "company-evaluation",
+        "company-selection"
+      ]
+    },
+    {
+      "name": "Company Culture",
+      "topics": [
+        "company-culture",
+        "creating-feedback-culture",
+        "culture"
+      ]
+    },
+    {
+      "name": "Company Expectations",
+      "topics": [
+        "company-expectations"
+      ]
+    },
+    {
+      "name": "Sales Strategies",
+      "topics": [
+        "confidence-in-sales",
+        "detachment-in-sales",
+        "competition-in-sales",
+        "competitive-strategy",
+        "consistency-in-sales",
+        "consistency",
+        "dealing-with-rejection"
+      ]
+    },
+    {
+      "name": "Content and Marketing",
+      "topics": [
+        "content-creation",
+        "content-marketing"
+      ]
+    },
+    {
+      "name": "Costs",
+      "topics": [
+        "cost-of-hiring",
+        "cost-of-marketing"
+      ]
+    },
+    {
+      "name": "Training",
+      "topics": [
+        "current-training"
+      ]
+    },
+    {
+      "name": "Customer Interaction",
+      "topics": [
+        "customer-feedback",
+        "data-sharing"
+      ]
+    },
+    {
+      "name": "Economic Factors",
+      "topics": [
+        "economic-conditions",
+        "economic-growth",
+        "economic-impact"
+      ]
+    },
+    {
+      "name": "Decision-Making",
+      "topics": [
+        "decision-making"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "topics": [
+        "cycling-infrastructure"
+      ]
+    },
+    {
+      "name": "Daily Routines",
+      "topics": [
+        "daily-schedule"
+      ]
+    },
+    {
+      "name": "Cultural Aspects",
+      "topics": [
+        "cultural-interaction"
+      ]
+    },
+    {
+      "name": "Digital Transformation",
+      "topics": [
+        "digital-transition"
+      ]
+    },
+    {
+      "name": "Diversification",
+      "topics": [
+        "diversification"
+      ]
+    },
+    {
+      "name": "Country Governance",
+      "topics": [
+        "country-governance"
+      ]
+    },
+    {
+      "name": "Development Process",
+      "topics": [
+        "development-process"
+      ]
+    },
+    {
+      "name": "Editor Criteria",
+      "topics": [
+        "editor-selection-criteria"
+      ]
+    },
+    {
+      "name": "Emotional Intelligence",
+      "topics": [
+        "emotion-demonstration"
+      ]
+    },
+    {
+      "name": "Demand in Market",
+      "topics": [
+        "demand"
+      ]
+    }
+  ]
+}

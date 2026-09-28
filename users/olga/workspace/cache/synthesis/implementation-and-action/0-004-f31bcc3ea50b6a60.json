@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies can be similar to approaches in sports.",
+      "qualification": "This is a self-reported belief, and thus hypothetical and unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-07-14-same-approach-in-sales-and-md-44d05646c8:c001:e001:5db74325"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training can help translate market updates into compelling sales pitches.",
+      "qualification": "This advice is hypothetical; effectiveness may vary based on other factors.",
+      "support_ids": [
+        "linkedin-posts-2023-07-19-thinking-on-your-feet-is-md-0b696be7f5:c001:e002:f5e257f6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Viewing rejection as myth and perceiving every opportunity as a gain can contribute to persistence in sales.",
+      "qualification": "This perspective is advised but lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2023-07-20-rejection-is-a-myth-consider-md-c6d7a21b56:c001:e002:9ecec586"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Continuous prospecting is considered a foundation for successful real estate agents.",
+      "qualification": "This is a self-reported belief specific to the Dubai real estate market.",
+      "support_ids": [
+        "linkedin-posts-2023-07-21-never-stop-prospecting-one-of-md-4238118cf6:c001:e001:c93df429"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client needs is crucial for improving sales performance.",
+      "qualification": "This is advice but may not be universally applicable without further context.",
+      "support_ids": [
+        "linkedin-posts-2023-07-26-the-unfiltered-truth-md-0407433d5b:c001:e004:54db32b7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Continuing to push clients after a \"no\" risks being perceived as pushy or unprofessional.",
+      "qualification": "Self-reported advice; its reception can vary by client and situation.",
+      "support_ids": [
+        "linkedin-posts-2023-08-01-the-client-told-you-no-md-19335c72ba:c001:e003:4686a190"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building rapport is prioritized as the most important aspect of sales.",
+      "qualification": "This is self-reported and subjective, with potential variation across industries.",
+      "support_ids": [
+        "linkedin-posts-2023-08-03-how-to-spot-a-weak-md-5c0636bcb7:c001:e002:7175b6b3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Loss aversion impacts decision-making by making individuals more sensitive to potential losses than gains.",
+      "qualification": "This is an observed phenomenon but generalized and not specifically tied to sales strategy implementation.",
+      "support_ids": [
+        "linkedin-posts-2023-08-10-even-if-you-do-not-md-ba10330e16:c001:e001:12cf1751"
+      ]
+    }
+  ]
+}

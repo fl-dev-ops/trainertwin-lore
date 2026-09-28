@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-01-22-my-clients-are-busy-i-md-84639aa094-a7e13977c7e76392.jsonl",
+  "external_id": "7155103044198674432",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:21:35Z",
+  "metadata_hash": "ae5fef8219c9df9d63a9cda145b2a1ac7f5c2a588436b1aaa09778aa84050c95",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-01-22T07:45:01.123000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-01-22-my-clients-are-busy-i.md",
+  "source_sha256": "d16b54c4a3ddb211ce63063e5b3f7f52db60cd0bb02f9cd9dff981856e9fa9ed",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestraining-salesstrategy-activity-7155103044198674432-rsjW"
+}

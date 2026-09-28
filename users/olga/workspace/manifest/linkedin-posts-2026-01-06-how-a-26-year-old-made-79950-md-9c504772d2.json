@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-01-06-how-a-26-year-old-made-79950-md-9c504772d2-c5d83cca8284637f.jsonl",
+  "external_id": "7414154560979730432",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:02:09Z",
+  "metadata_hash": "f422dd45a5461ffbe40af7ba49430c0d99aeb8b259d013e14c55d6c25784e52b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-01-06T04:03:15.668000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-01-06-how-a-26-year-old-made-79950.md",
+  "source_sha256": "899aa5c6b5661a23ccfd394500868bf98c34b14b774245c7caa3337fad709efd",
+  "source_url": "https://www.linkedin.com/posts/olgasi_how-a-26-year-old-made-79950-aed-in-5-weeks-activity-7414154560979730432-NkKj"
+}

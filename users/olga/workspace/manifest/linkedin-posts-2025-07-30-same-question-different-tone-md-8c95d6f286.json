@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-07-30-same-question-different-tone-md-8c95d6f286-08d7dd71bd73bb4a.jsonl",
+  "external_id": "7356175467134992384",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:45:42Z",
+  "metadata_hash": "ddc763c3123bc08b59bac9cf5d730eb662af48cbf2f251cb30c4e1e3425985f5",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-07-30T04:15:02.496000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-07-30-same-question---different-tone.md",
+  "source_sha256": "6b96d4ca3d9539135c1cc0b8b37caeecf68ea2b9deac3726f51994614f4229f0",
+  "source_url": "https://www.linkedin.com/posts/olgasi_coldcallingtrainingdubai-coldcalling-realestate-activity-7356175467134992384-hcMC"
+}

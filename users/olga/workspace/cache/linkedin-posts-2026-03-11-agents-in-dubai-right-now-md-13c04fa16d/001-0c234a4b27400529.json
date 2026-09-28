@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Everything is safe here. The market is strong.",
+      "statement": "The market is strong but clients are anxious about potential crashes.",
+      "topic": "market conditions",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "you’re not even sure how to explain what’s happening.",
+      "statement": "Some agents are watching deals fall apart after months of work.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "you need a different communication strategy.",
+      "statement": "Agents need a different communication strategy to handle client anxiety in a war-affected market.",
+      "topic": "communication strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "I’m currently preparing a guide with talking points and communication frameworks.",
+      "statement": "The author is preparing a guide with talking points and communication frameworks for agents.",
+      "topic": "client interaction",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "And clients go into wait mode.",
+      "statement": "Clients go into wait mode when agents hesitate in conversations.",
+      "topic": "client response",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Drop in the comments what situations with clients are confusing you the most right now.",
+      "statement": "Agents should share their client communication challenges in comments to get specific help.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post offering insights and advice for real estate agents in Dubai during uncertain market conditions."
+}

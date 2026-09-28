@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Agents should actively engage their circle of influence to generate leads, often underutilized by many agents.",
+      "qualification": "This advice is self-reported and may reflect a specific strategy rather than universal success.",
+      "support_ids": [
+        "youtube-transcripts-108-yaml-3c67186618:c001:e005:9ff3f6cf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating a list of potential clients and referral partners, including commission splits, is advisable for lead generation.",
+      "qualification": "Advice given is hypothetical and unverified beyond self-report.",
+      "support_ids": [
+        "youtube-transcripts-108-yaml-3c67186618:c002:e001:6dca1ffd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training from experienced professionals can help agents accelerate money-making procedures in real estate.",
+      "qualification": "The effectiveness of training is self-reported and anecdotal.",
+      "support_ids": [
+        "youtube-transcripts-11-yaml-e68135aa2f:c001:e001:87246d4c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Overcoming client objections and understanding their past experiences with salespeople can enhance sales performance.",
+      "qualification": "This strategy's success would depend on the agent's ability to interpret client feedback accurately.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e007:f347a534"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI tools like KnockKnock can help real estate agents streamline administrative tasks and increase productivity.",
+      "qualification": "The benefits of AI tools are self-reported and lacking independent verification of efficacy.",
+      "support_ids": [
+        "youtube-transcripts-12-yaml-6db9d6703c:c001:e002:3d1eb56a",
+        "youtube-transcripts-12-yaml-6db9d6703c:c001:e003:263d50a6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some real estate agents wait months to receive their commissions from certain companies.",
+      "qualification": "This observation is self-reported and may not represent practices across all companies.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e001:488c9906"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Turning statements about budget objections into questions can help navigate client resistance.",
+      "qualification": "This approach may vary in effectiveness depending on context and client disposition.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e003:740d7626",
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e008:3238828e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding clients' needs before presenting properties is crucial for effective sales.",
+      "qualification": "The approach is advised but lacks specifics on implementation or measured outcomes.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e002:9a046823"
+      ]
+    }
+  ]
+}

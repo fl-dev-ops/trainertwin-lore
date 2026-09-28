@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "Succeeding as a new real estate agent in a market depends 70% on the belief system you have and the environment you are in.",
+      "statement": "Succeeding as a new real estate agent in a market depends 70% on the belief system you have and the environment you are in.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "Your first sales team can determine whether or not you will make money in your first year.",
+      "statement": "Your first sales team can determine whether or not you will make money in your first year.",
+      "topic": "team impact",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "The wrong way to make decisions on which company to join is based solely on the commission split.",
+      "statement": "The wrong way to decide which company to join is based solely on the commission split.",
+      "topic": "company selection",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "My key point is that you should establish whether or not you can be productive in a company as a new agent.",
+      "statement": "You should establish whether or not you can be productive in a company as a new agent.",
+      "topic": "productivity assessment",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "1) What are the character traits of the people who succeed in your team?",
+      "statement": "Ask about the character traits of the people who succeed in your team.",
+      "topic": "assessing new roles",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "2) What is the company's business model, and where do the leads come from?",
+      "statement": "What is the company's business model, and where do the leads come from?",
+      "topic": "company evaluation",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "3) How do you plan to help me develop my skills?",
+      "statement": "How do you plan to help me develop my skills?",
+      "topic": "skill development",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What is my potential career path in this company? Is there an opportunity for growth, and what does that look like?",
+      "statement": "Is there an opportunity for growth, and what does that look like?",
+      "topic": "growth opportunity",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "My first team in Dubai was led by Guy Last . He taught us the foundational pieces, such as prospecting, cold calling, closing techniques, team support, and accountability.",
+      "statement": "My first team in Dubai was led by Guy Last, who taught foundational pieces that determined my success.",
+      "topic": "mentor influence",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing factors for new real estate agents' success."
+}

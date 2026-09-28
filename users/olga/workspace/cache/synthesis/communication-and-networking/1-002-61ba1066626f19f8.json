@@ -1,0 +1,44 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Agents in Dubai need a different communication strategy to manage client anxiety due to war-related market conditions.",
+      "qualification": "The evidence is based on observations shared on LinkedIn, thus it reflects the author's perspective and may lack comprehensive context.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e003:972324c8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The effectiveness of communication may suffer if services are described instead of the problems solved.",
+      "qualification": "This insight is self-reported and emphasizes the author's view on communication strategies.",
+      "support_ids": [
+        "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:c001:e005:65940054"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding the specific meaning behind a client's objection is crucial for effective communication.",
+      "qualification": "This finding is based on advice given in a communication skills video, but lacks independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s72-yaml-bfa602dbb6:c001:e003:4544c245"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Successful agents are perceived as experts when they confidently ask challenging questions.",
+      "qualification": "The perception of expertise is based on observed behavior, not empirical evidence.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e005:e4e259ff"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Concise messaging improves communication effectiveness and client satisfaction.",
+      "qualification": "This advice is self-reported and consistent but without independent testing.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c003:e001:818deb28"
+      ]
+    }
+  ]
+}

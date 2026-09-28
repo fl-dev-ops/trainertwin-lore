@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-03-26-free-training-for-dubai-agents-md-d8f8543f85-390f54733bfa572b.jsonl",
+  "external_id": "7442864077598560256",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:06:06Z",
+  "metadata_hash": "7ff0fc4a9ea3c7284ec7967d8221312f64716e5b6a4870310b7e90896dcaa0a3",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-26T09:24:37.827000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-26-free-training-for-dubai-agents.md",
+  "source_sha256": "9e6e441f8efd44296528f78cc5883de1c9593d504796783378a7a0e5ad355444",
+  "source_url": "https://www.linkedin.com/posts/olgasi_free-training-for-dubai-agents-if-you-are-activity-7442864077598560256-YJRk"
+}

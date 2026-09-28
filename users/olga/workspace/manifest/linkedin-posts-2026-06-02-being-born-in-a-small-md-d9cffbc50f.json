@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2026-06-02-being-born-in-a-small-md-d9cffbc50f-4116b3b0a5e07ada.jsonl",
+  "external_id": "7467506341125906434",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:09:02Z",
+  "metadata_hash": "cb5d66331dee7e3cb3a4cf747f73e7d2140c0e421e3d63ac0d92d7871d276e1f",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-06-02T09:24:11.283000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-06-02-being-born-in-a-small.md",
+  "source_sha256": "0b42d61a515a7a411378a46debe02d4548186e5683710f1a0ecc781d2f8f9d44",
+  "source_url": "https://www.linkedin.com/posts/olgasi_being-born-in-a-small-city-im-the-end-of-activity-7467506341125906434-KnXi"
+}

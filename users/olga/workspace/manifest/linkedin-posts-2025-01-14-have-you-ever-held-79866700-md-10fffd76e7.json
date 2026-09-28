@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2025-01-14-have-you-ever-held-79866700-md-10fffd76e7-caffb797b6175a3a.jsonl",
+  "external_id": "7284847842920198145",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:38:13Z",
+  "metadata_hash": "c14e1b5ab7ba8105fc2e659550a10e624e738a73b29d6c182890a9aa84592504",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-01-14T08:24:31.680000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-01-14-have-you-ever-held-79866700.md",
+  "source_sha256": "0d66fed893a5454e3c10bbc0c05c13b4d090a991ca57342dc78c20c980c4609c",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-realestatesuccess-coachingresults-activity-7284847842920198145-EwT5"
+}

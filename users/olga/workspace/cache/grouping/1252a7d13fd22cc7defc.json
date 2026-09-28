@@ -1,0 +1,94 @@
+{
+  "groups": [
+    {
+      "name": "Career Advice",
+      "topics": [
+        "ideal-candidate",
+        "job-application",
+        "job-hunting-challenges",
+        "job-preparation",
+        "job-qualifications",
+        "job-referral",
+        "job-search",
+        "language-skills"
+      ]
+    },
+    {
+      "name": "Workplace Skills",
+      "topics": [
+        "interview-technique",
+        "job-requirements",
+        "job-responsibilities"
+      ]
+    },
+    {
+      "name": "Industry Engagement",
+      "topics": [
+        "individual-engagement",
+        "industry-engagement"
+      ]
+    },
+    {
+      "name": "Innovation and Industry Trends",
+      "topics": [
+        "industry-innovation",
+        "innovation-in-practice"
+      ]
+    },
+    {
+      "name": "Infrastructure and Development",
+      "topics": [
+        "infrastructure-challenges",
+        "infrastructure-improvement"
+      ]
+    },
+    {
+      "name": "Personal Growth",
+      "topics": [
+        "imposter-syndrome",
+        "internal-dialogue"
+      ]
+    },
+    {
+      "name": "Market and Investment",
+      "topics": [
+        "income-increase",
+        "investment-impact",
+        "investment-opportunity",
+        "investment-outcomes",
+        "investment-understanding"
+      ]
+    },
+    {
+      "name": "Communication Techniques",
+      "topics": [
+        "insights-and-value",
+        "intentions-clarification",
+        "interaction-invitation",
+        "knowledge-retention",
+        "knowledge-sharing"
+      ]
+    },
+    {
+      "name": "Sales Process",
+      "topics": [
+        "lead-conversion",
+        "lead-generation"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "topics": [
+        "leadership-development",
+        "leadership-expertise",
+        "leadership-mindset"
+      ]
+    },
+    {
+      "name": "Job Listings",
+      "topics": [
+        "job-listing"
+      ]
+    }
+  ]
+}

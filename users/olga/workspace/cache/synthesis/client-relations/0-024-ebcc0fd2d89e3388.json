@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Engagement with clients can be actively measured through simple expressions of interest, such as using symbols like '+' or '-'.",
+      "qualification": "This measurement technique is self-reported and may not reflect broader client engagement practices.",
+      "support_ids": [
+        "linkedin-posts-2025-05-09-youre-doing-everything-so-why-md-aeeb2efb98:c001:e005:6ab12951"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering clarity and building trust with clients is essential before presenting options in off-plan real estate.",
+      "qualification": "This is based on a claim without external verification and reflects a specific context in real estate sales.",
+      "support_ids": [
+        "linkedin-posts-2025-05-14-just-send-me-some-options-md-1035a8c195:c001:e003:2908284b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "To transition from being perceived as a salesperson to a trusted advisor, real estate professionals should lead conversations rather than chase clients.",
+      "qualification": "The effectiveness of this approach is anecdotal and not substantiated by quantitative data.",
+      "support_ids": [
+        "linkedin-posts-2025-05-14-just-send-me-some-options-md-1035a8c195:c001:e002:323ed796"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client surveys and engagement strategies may include prompts such as asking clients to express their preferences through comments or votes.",
+      "qualification": "The data is observational, focusing on social media interaction rather than comprehensive client feedback.",
+      "support_ids": [
+        "linkedin-posts-2025-06-25-need-your-help-im-refreshing-md-0518c4278e:c001:e004:c111a5dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A shift in hiring criteria towards valuing character traits and coachability over traditional CVs might lead to better long-term relationships with clients.",
+      "qualification": "This is a self-reported opinion and lacks broad validation beyond the individual perspective.",
+      "support_ids": [
+        "linkedin-posts-2025-05-15-why-i-no-longer-hire-md-34bb92c857:c001:e002:27608161"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective client engagement strategies involve making clients feel comfortable sharing their perspectives and goals, fostering a collaborative environment.",
+      "qualification": "The assertion is drawn from anecdotal evidence and could vary significantly across different clients or markets.",
+      "support_ids": [
+        "linkedin-posts-2025-06-10-want-to-make-more-money-md-613e9b9f70:c001:e005:8adb88dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The importance of leading sales conversations with clarity and confidence is a prioritized element in client engagement frameworks.",
+      "qualification": "This is based on the author's observations and experiences, lacking broader empirical support.",
+      "support_ids": [
+        "linkedin-posts-2025-05-22-not-just-training-a-real-md-7721cb4552:c001:e004:d6908f61"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The perception of engagement in sales interactions can be influenced by the format and depth of communication, particularly through the use of structured conversations.",
+      "qualification": "This conclusion is drawn from personal insights without wide applicability without further context or evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-06-25-need-your-help-im-refreshing-md-0518c4278e:c001:e001:1dbf1d6b"
+      ]
+    }
+  ]
+}

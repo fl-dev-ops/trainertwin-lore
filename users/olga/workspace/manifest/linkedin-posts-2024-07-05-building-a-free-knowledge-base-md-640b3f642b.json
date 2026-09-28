@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-07-05-building-a-free-knowledge-base-md-640b3f642b-9f526979b29104a6.jsonl",
+  "external_id": "7214919688030478337",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:28:44Z",
+  "metadata_hash": "c68587990d9956deedbcd833c33e61b250d114e8acdd4cfd35ff41b28a215b7c",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-07-05T09:15:00.352000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-07-05-building-a-free-knowledge-base.md",
+  "source_sha256": "2f7b9809c726a3554b3fed2a4b552ddeaddb20121b42f959dd4da058da957cff",
+  "source_url": "https://www.linkedin.com/posts/olgasi_social-media-to-attract-real-estate-leads-activity-7214919688030478337-3Jsx"
+}

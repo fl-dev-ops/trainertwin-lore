@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are considered significant for career growth.",
+      "qualification": "The statement is based on observations, with no empirical evidence to validate the effectiveness of feedback and mentorship.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s165-yaml-669432e65e:c001:e003:9a853fbb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Establishing relationships with clients is crucial for initial sales phases.",
+      "qualification": "The insight is presented as advice without empirical verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s167-yaml-c297e423eb:c001:e003:56f93170"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking questions can transform a cold lead into a real conversation.",
+      "qualification": "This is advice provided without supporting data and remains unverified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s168-yaml-8e1275b229:c001:e001:0f9a7077"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Emphasizing both positive attributes and imperfections can help in building client trust.",
+      "qualification": "The advice is subjective and based on individual perspectives.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s170-yaml-c95654966a:c001:e001:c0e2e8e1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients tend to desire value, influencing their purchasing decisions.",
+      "qualification": "Though advised based on observations, it lacks quantitative backing and analysis.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s172-yaml-6ca6c71e8f:c001:e004:b934f81e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset adjustments contribute to personal growth and adaptability in new environments.",
+      "qualification": "This is a self-reported belief requiring further validation through empirical study.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e002:7fda6aa1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Proper questioning techniques can aid in steering client conversations effectively.",
+      "qualification": "Provided as advice, this lacks verification through a structured research methodology.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s173-yaml-2d96a5b7fe:c001:e001:04702568"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dentists use specific time slots to convey value to clients.",
+      "qualification": "The observation is made without empirical backing or broader context to confirm its generalizability.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s174-yaml-3070932203:c001:e001:0032d461"
+      ]
+    }
+  ]
+}

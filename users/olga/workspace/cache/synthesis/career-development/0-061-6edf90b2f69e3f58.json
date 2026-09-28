@@ -1,0 +1,53 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real coaching is deemed more effective than self-help resources like YouTube for career development.",
+      "qualification": "The perspective lacks empirical backing and is based on anecdotal suggestions.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e009:1d33b4cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Feedback is considered crucial for improving productivity and career success, but this view is shaped by personal belief rather than empirical evidence.",
+      "qualification": "Findings rely on individual belief and experiences, with no empirical support.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e001:f626ff9e",
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e006:2d4a02de"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is viewed as key to career progression based on self-reporting.",
+      "qualification": "The finding is based on self-reported experiences lacking independent verification.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e001:ea64331a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Career transitions in real estate offer growth, demonstrated by a self-reported successful career switch to Dubai real estate and hosting workshops.",
+      "qualification": "The evidence is self-reported and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-12-19-christmas-time-ideal-for-md-4a27be2ff5:c001:e003:1787a535"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client emotions is emphasized over facts in real estate transactions, aiming to address client fears of poor investments.",
+      "qualification": "The evidence is based on the speaker's observations and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-12-19-six-months-without-closing-a-md-49a6ab6242:c001:e002:63869b1a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A personal anecdote highlighted the failure of spending substantially on a marketing company while seeking new lead generation strategies.",
+      "qualification": "The statement is self-reported without external verification or broader applicability.",
+      "support_ids": [
+        "linkedin-posts-2026-01-09-looking-for-a-new-ways-md-221fc7f2a3:c001:e002:03387aaf"
+      ]
+    }
+  ]
+}

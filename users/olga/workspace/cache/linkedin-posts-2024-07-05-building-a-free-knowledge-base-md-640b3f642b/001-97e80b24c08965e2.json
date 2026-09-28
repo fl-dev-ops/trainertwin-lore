@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "This Video is about Effective Social Media Strategies.",
+      "statement": "This video is about Effective Social Media Strategies.",
+      "topic": "social media strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I loved the process of creating this material.",
+      "statement": "I loved the process of creating this material.",
+      "topic": "content creation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "And it's up to you to decide what value it brings to you.",
+      "statement": "It's up to you to decide what value it brings to you.",
+      "topic": "knowledge sharing",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post promoting a YouTube video about social media strategies for real estate professionals."
+}

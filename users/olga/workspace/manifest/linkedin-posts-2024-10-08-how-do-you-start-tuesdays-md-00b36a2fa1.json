@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-10-08-how-do-you-start-tuesdays-md-00b36a2fa1-f28c5a4d7acad58d.jsonl",
+  "external_id": "7249288147027562496",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:33:54Z",
+  "metadata_hash": "89c1073a6c4e704380aa1b884ebe20c2493d0071b2a94e8c6202389a1b3e93f4",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-10-08T05:22:59.512000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-10-08-how-do-you-start-tuesdays.md",
+  "source_sha256": "eb5eb743816e0eb1485d06184cb2fec621ca3771c302370fcf5513cdb4a7ad4d",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestraining-dubairealestate-activity-7249288147027562496-I_c6"
+}

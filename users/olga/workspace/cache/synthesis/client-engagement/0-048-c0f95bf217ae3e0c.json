@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking appropriate questions can determine a client's budget and decision-making authority.",
+      "qualification": "The source is advice from a video targeted at new real estate agents, and the advice is not independently verified.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c002:e004:dcc491cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating an internal urgency in clients to make a purchase is deemed essential for closing sales.",
+      "qualification": "Self-reported strategy from a coaching session without independent verification.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c002:e005:9456cf76"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Avoiding personal questions in initial calls is advised to facilitate focus on the topic.",
+      "qualification": "The advice is context-specific and may not apply universally to all client engagements.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c003:e003:1192d0ee"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Leading a conversation is associated with the person asking the questions.",
+      "qualification": "This is a belief stated in the context of a coaching video and not tested in practical scenarios.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c003:e004:acd21dfb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client interactions can vary greatly based on individual personalities and openness.",
+      "qualification": "The observation is qualitative and might not capture all interaction variances.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c003:e005:4058ca8a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often ghost agents after initial contact, particularly on social media.",
+      "qualification": "The observation lacks specificity on how frequently this occurs or how it compares to other communication channels.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e001:1c03eef8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some clients may not have a clear understanding of their property needs.",
+      "qualification": "This belief may lead to a gap in understanding between clients and agents; the statement lacks quantitative backing.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e003:1fb81bcb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dressing well is perceived to influence the outcome of client conversations.",
+      "qualification": "The claim is made in an observed context and does not include empirical evidence to substantiate the impact.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c002:e001:68dc65de"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking clients specific questions related to the discussion helps in keeping them engaged and preventing boredom or feeling overwhelmed.",
+      "qualification": "The effectiveness of this strategy can vary and is primarily self-reported.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e001:24620b4f",
+        "youtube-shorts-run-transcripts-s187-yaml-4d451f6562:c001:e001:b224c5b2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Framing Zoom meeting invitations around the potential benefits for the client rather than calling it a 'presentation' increases engagement.",
+      "qualification": "The evidence is self-reported, with no independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s190-yaml-3f0a82d5fd:c001:e001:e06b1ba4",
+        "youtube-shorts-run-transcripts-s190-yaml-3f0a82d5fd:c001:e003:e9c44116"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients are deterred by agents who appear desperate to sell.",
+      "qualification": "While the advice is generally applicable, the extent of impact can vary depending on context and individual client interactions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s19-yaml-9b48711af4:c001:e003:e820b9ac"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients engage better when they feel the person communicating with them is genuinely interested.",
+      "qualification": "This finding is based on self-reported observations, thus may lack broader empirical support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e004:75472f3d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Long presentations are generally not effective in engaging clients.",
+      "qualification": "The claim is observed but lacks empirical analysis; real-world effectiveness could vary.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s192-yaml-8070fa253e:c001:e001:eeb9c538"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using past performance data can be utilized in discussions to demonstrate potential worst-case scenarios, enhancing client understanding.",
+      "qualification": "The effectiveness is context-dependent, and the evidence provided is limited to a single observation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s192-yaml-8070fa253e:c001:e004:6a53b6bc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building a family culture within agencies is emphasized as a strategy for better client and employee engagement.",
+      "qualification": "This observed trend may vary across agencies and is not universally applicable or verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s182-yaml-17bdda5f96:c001:e003:c3400535"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering value such as administrative tasks and social media support can help secure mentor relationships and improve engagement strategies.",
+      "qualification": "The evidence is advice about mentorship strategy, potentially useful but not definitively proven.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s191-yaml-2abe4e4644:c001:e001:444709c0"
+      ]
+    }
+  ]
+}

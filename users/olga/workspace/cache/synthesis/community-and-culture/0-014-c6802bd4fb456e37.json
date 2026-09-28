@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Adopting a positive mindset is believed to enhance performance among real estate agents.",
+      "qualification": "This is self-reported and hypothetical, lacking independent validation.",
+      "support_ids": [
+        "linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d:c001:e002:b5fe8c58",
+        "youtube-shorts-run-transcripts-s106-yaml-3f94e9436b:c001:e001:7de0e0e3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The perception exists that increasing the number of agents leads to more business opportunities.",
+      "qualification": "The statement is a belief, potentially hypothetical, without empirical substantiation.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:c001:e002:b6cdd6ff"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Common sense is considered untrainable.",
+      "qualification": "This reflects a personal belief, not a universally accepted fact.",
+      "support_ids": [
+        "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb:c001:e006:fd43ec24"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Changing the meaning of experiences can alter emotional states, thereby changing actions.",
+      "qualification": "The idea is hypothetical, within the context of mindset coaching.",
+      "support_ids": [
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e004:0454e5a3",
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e002:f855255e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a movement against AI-generated content in personal communication.",
+      "qualification": "This is a self-reported desire, not necessarily indicative of wider trends.",
+      "support_ids": [
+        "linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:c001:e002:dbd6fabf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Experiencing life is associated with the mindset individuals choose to focus on.",
+      "qualification": "The statement reflects a coaching philosophy, not a measurable fact.",
+      "support_ids": [
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e001:41d55635"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Growing emotional states from storytelling can affect actions.",
+      "qualification": "This claim is part of a motivational narrative, hypothetical in its implications.",
+      "support_ids": [
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e002:f855255e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Skills such as street camera confidence are seen as underrated tools for future monetary success.",
+      "qualification": "It's a self-reported belief, not universally covered or empirically tested.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s107-yaml-e55156ed57:c001:e002:f10719fc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the government’s move to grant Golden Visas to digital content creators isn’t just about attracting talent;",
+      "statement": "The UAE government is granting Golden Visas to digital content creators.",
+      "topic": "investment opportunity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "it’s a strategic play linking social media influence to economic growth.",
+      "statement": "This initiative is linked to economic growth.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "they’re not just boosting tourism—they’re fueling investments, new residents, and real estate market expansion.",
+      "statement": "Content creators are expected to boost tourism and fuel investments.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "is this part of a bigger plan to position Dubai as a global social media hub?",
+      "statement": "Dubai aims to position itself as a global social media hub.",
+      "topic": "professional services",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I’ve linked my YouTube training on how to close off-plan deals.",
+      "statement": "A linked YouTube training on closing off-plan deals is provided.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing the implications of Golden Visas for digital content creators in the UAE."
+}

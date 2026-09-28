@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2025-01-31-havent-posted-my-training-videos-md-0c1b6d7396-ec160bd454866722.jsonl",
+  "external_id": "7290973274149122048",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:57:07Z",
+  "metadata_hash": "b0ea3ac7b0d0ed75c42389dc9d4e5378c8ece49db93989dba8704b345a672a10",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-01-31T06:04:48.290000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-01-31-havent-posted-my-training-videos.md",
+  "source_sha256": "015ec428014a7c7a4c771e52e0397a7f7230e23f30e8d339d6bb7d941dde6bd9",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-dubairealestatecoach-dubaisalescoach-activity-7290973274149122048-uAtB"
+}

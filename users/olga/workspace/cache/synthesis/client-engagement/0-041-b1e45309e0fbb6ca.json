@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking specific questions in client interactions can lead clients to request options, which may be inappropriate in some situations.",
+      "qualification": "This reflects an assumption about the impact of questioning that may not hold in all contexts. It's an advisory note rather than a factual claim.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s41-yaml-217124ee0a:c001:e005:41736b94"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding clients involves actively listening to what they say.",
+      "qualification": "The statement is self-reported and may not represent varied experiences in client engagement.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s42-yaml-f129776f47:c001:e001:e5af8cdf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a need to financially qualify clients to understand their needs and ability to proceed.",
+      "qualification": "The evidence is presented as a belief and may not reflect all perspectives on client qualification processes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s55-yaml-056df2a778:c001:e002:636a9b56"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to move from online communication to in-person meetings is viewed positively as part of client engagement strategies.",
+      "qualification": "This recommendation is made within a specific context and may not universally apply due to varying client preferences.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s59-yaml-e5c27b7fd2:c001:e001:e3d7d0fc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients are likely to invest in solutions they believe will solve their perceived problems.",
+      "qualification": "The claim is an observed behavior and might not cover all motivations behind client investment decisions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s56-yaml-d8e24cc61a:c001:e002:8831d984"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Value delivery is important to remain top of mind for potential sellers in real estate engagement strategies.",
+      "qualification": "Advisory in nature, this advice is about maintaining relevance with clients, but results can vary based on execution and market conditions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s45-yaml-eca160f25a:c001:e001:fd0be4ac"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Composing marketing reports in a manner that is concise and accessible, such as being phone-readable, is recommended for effective client engagement.",
+      "qualification": "This advice is specific to document presentation and assumes technology literacy among clients.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s45-yaml-eca160f25a:c001:e002:7dda7c83"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "When faced with objections, it is advised to explore the client's satisfaction with their current service to identify engagement opportunities.",
+      "qualification": "The assertion is based on advice, not empirical evidence, and effectiveness can vary with client disposition.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s49-yaml-76fccdeadc:c001:e002:06a03a4f"
+      ]
+    }
+  ]
+}

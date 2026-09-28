@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-08-18-so-genuine-love-it-every-md-2d7554d44c-267305bad41e2710.jsonl",
+  "external_id": "7098178352955482112",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:14:39Z",
+  "metadata_hash": "e1148399f56f8cba651606b3e8c6d2deeaa8e4932c76e05c3bba8fc4d7af7a54",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-18T05:46:37.121000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-18-so-genuine-love-it-every.md",
+  "source_sha256": "3dabbbd257b860470110f1ee2fec5818dd3ca5336aeddf221e0434c1373c2dbd",
+  "source_url": "https://www.linkedin.com/posts/olgasi_relateable-recruitment-recruiting-activity-7098178352955482112-G8Lf"
+}

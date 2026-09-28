@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Asking specific, targeted questions during client interactions helps in gathering useful responses from clients.",
+      "qualification": "This is a self-reported suggestion that may vary by situation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e002:7230191d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Confirming whether clients' answers provide actionable data is vital to ensure the effectiveness of communication.",
+      "qualification": "Self-reported advice that lacks empirical verification.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e003:ea7bf352"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clarity in communication is essential; moving forward without it can lead to misunderstandings in the client relationship.",
+      "qualification": "The statement is based on personal recommendations and lacks detailed backing.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e004:f4c72eb9"
+      ]
+    },
+    {
+      "counter_ids": [
+        "linkedin-posts-2024-09-24-if-he-is-saying-md-89d6d012c4:c001:e004:8ab1a738"
+      ],
+      "finding": "Clients may not express their true motivations for investments, indicating deeper issues that need to be uncovered through further questioning.",
+      "qualification": "This is a hypothetical belief that relies on unverified assumptions about client behavior.",
+      "support_ids": [
+        "linkedin-posts-2024-09-24-if-he-is-saying-md-89d6d012c4:c001:e002:1b2d5e9f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients who only express a desire ('like') to sell typically lack commitment and may not engage in price negotiations.",
+      "qualification": "This observation lacks statistical backing and relies on anecdotal evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-09-25-need-or-like-its-the-md-99a80a7199:c001:e001:7303673b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building trust through consistent, authentic engagement is essential for transforming followers into clients.",
+      "qualification": "Based on the author's perspective, the evidence is self-reported and not substantiated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75:c001:e003:9cb48329"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Digging deeper into clients' situations can help clarify misunderstandings and manage client fears effectively.",
+      "qualification": "A recommendation that lacks depth in empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e003:1c64e0fe"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Peer engagement can be leveraged by encouraging comments and interaction to share strategies that lead to client success.",
+      "qualification": "The advice is based on personal experience without broader validation.",
+      "support_ids": [
+        "linkedin-posts-2024-10-07-she-closed-six-deals-in-md-bfd8e302da:c001:e004:7951bbeb"
+      ]
+    }
+  ]
+}

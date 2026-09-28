@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2024-12-30-what-if-this-year-your-md-e9ba9799e0-bb7add89c38d2fb3.jsonl",
+  "external_id": "7279454834364215296",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:37:44Z",
+  "metadata_hash": "ffd03380a7f63e34d7aed2456f36e00df5683327a6a3e176d35fc36e8e71ea20",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-12-30T11:14:38.243000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-12-30-what-if-this-year-your.md",
+  "source_sha256": "dcd944bcdf396c7cca698b48cbb4a1234457cb30e43e11812ea00e13b647d4ce",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestrainer-goalsettingsuccess-activity-7279454834364215296-kmnW"
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2023-08-31-i-created-this-article-solely-md-be6fa243e5-e0ee984a0ad7479d.jsonl",
+  "external_id": "7102959823922618368",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:15:02Z",
+  "metadata_hash": "e91056240a23b102a02e709d24ed1cc63a695f7a727666f136896b0b3483f54a",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-31T10:26:28.635000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-31-i-created-this-article-solely.md",
+  "source_sha256": "09137f24ef1a98602fbf88b831740e269fcb46313d4a573ff7b690f56d3367a1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestateadvice-salestrainer-realestatetrainingdubai-activity-7102959823922618368-rWuU"
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I'm gonna say unpopular opinion. To buy real estate market needed a cleanse.",
+      "statement": "The real estate market needed a cleanse.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "My name is Olga Sinek, I'm a real estate sales coach.",
+      "statement": "Olga Sinek identifies as a real estate sales coach.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I've seen the behaviors of sellers and buyers, agents and developers.",
+      "statement": "Market analysis involves understanding behaviors of various stakeholders.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "I analyze the market data. So, if you want to have an unbiased opinion, a different point of view...",
+      "statement": "Offers unbiased insights and market analysis beyond typical sales pitches.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Video transcript about a necessary market correction in real estate."
+}

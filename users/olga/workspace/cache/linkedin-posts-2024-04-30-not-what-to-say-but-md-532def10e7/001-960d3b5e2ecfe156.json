@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Not what to say... but how to think is important.",
+      "statement": "When engaging with clients, focus on how to think rather than just what to say.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "when you are with the client, you should lead, not react to what they are saying.",
+      "statement": "Lead the conversation instead of merely reacting to clients' statements.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I can certainly advise you on what to say in response to any client objection.",
+      "statement": "I can certainly advise you on what to say in response to any client objection.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Start by asking yourself: \"What is the next step in my sales process with this client?\"",
+      "statement": "Ask yourself what the next step is in your sales process with the client.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Post on client interaction strategies in sales."
+}

@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "LinkedIn posts frequently encourage audience engagement through requests for comments, often incented by offering more content if readers express interest.",
+      "qualification": "The effectiveness and genuine engagement level resulting from this strategy is not verified.",
+      "support_ids": [
+        "linkedin-posts-2024-01-16-this-training-was-a-special-md-0aaee2e815:c001:e003:c7871e84",
+        "linkedin-posts-2024-05-08-im-off-to-a-new-md-2635416515:c001:e005:2aaaaab3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Questions are used as a strategy to engage potential clients in real estate sales, encouraging buyers to articulate their thoughts and reasons for making investment decisions.",
+      "qualification": "This approach is presented as advice and is self-reported; effectiveness is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-11-23-what-questions-should-you-ask-md-9d695e33b6:c001:e003:8ddbf622",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e004:6a8567b9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media posts often leverage simple interactive methods, such as asking for a 'Yes' comment or using symbolic responses like '+1', to measure interest and encourage interaction.",
+      "qualification": "These strategies are based on observed behaviors and lack further verification of their success.",
+      "support_ids": [
+        "linkedin-posts-2024-04-01-what-if-its-all-just-md-9cca12951a:c001:e003:b5d0fad7",
+        "linkedin-posts-2024-05-08-im-off-to-a-new-md-2635416515:c001:e005:2aaaaab3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "LinkedIn Live events are used for real-time interaction and enhancing community engagement.",
+      "qualification": "While the existence of such events is verified, the quality and outcome of the engagement are unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-04-18-my-first-linkedin-live-today-md-2d2ec4cdd9:c001:e001:39ba5eaf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media engagement strategies include inviting feedback and interactions to create a participatory communication style.",
+      "qualification": "The effectiveness of this strategy in increasing long-term engagement is unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-12-27-dubai-is-a-bubble-my-md-df18fa3379:c001:e006:5908ff00"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Verbal and stylistic elements such as tonality, cadence, and pausing are deemed integral to effective communication, particularly in sales.",
+      "qualification": "This advice is based on industry practices but no empirical data or external verification is provided to confirm its efficacy.",
+      "support_ids": [
+        "linkedin-posts-2023-12-26-dos-and-donts-on-a-md-1175dc417e:c001:e001:e6076b1d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In scenarios related to objection handling, asking clients questions to let them clarify their concerns is suggested as an effective strategy.",
+      "qualification": "This is an advised strategy lacking external corroboration on its success rate.",
+      "support_ids": [
+        "linkedin-posts-2024-03-01-how-to-stop-the-objections-md-ba11a8ef20:c001:e002:598716dc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The use of humor and informal language, such as being ready for 'bloopers', is utilized to make LinkedIn Live events feel more accessible and engaging.",
+      "qualification": "The impact of such stylistic choices on audience engagement is not quantitatively assessed.",
+      "support_ids": [
+        "linkedin-posts-2024-04-18-my-first-linkedin-live-today-md-2d2ec4cdd9:c001:e002:5f0cc2e6"
+      ]
+    }
+  ]
+}

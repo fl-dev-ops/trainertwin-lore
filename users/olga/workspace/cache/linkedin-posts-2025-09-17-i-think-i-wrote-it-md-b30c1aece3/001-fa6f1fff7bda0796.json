@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I think I wrote it too harsh… Some people may get upset",
+      "statement": "The author thinks they wrote a message too harshly, potentially upsetting others.",
+      "topic": "personal reflection",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post expressing concern about the wording of a message."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "Olga_Si_Sales",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea-9b98b696599035a6.jsonl",
+  "external_id": "2092878569286651968",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:11:01Z",
+  "metadata_hash": "6477fabf676b8b63b83186635603b369ee9557181f03c422f8e26978212b9637",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-08-27T07:35:09Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/twitter/tweets/2026-08-27-two-ways-dubai-prop-tech-startup.md",
+  "source_sha256": "51dd809255f7785ccc54f5fe4bbca4e0d883e41a3fe7c93bd96fbbaea3dfff01",
+  "source_url": "https://x.com/Olga_Si_Sales/status/2092878569286651968"
+}

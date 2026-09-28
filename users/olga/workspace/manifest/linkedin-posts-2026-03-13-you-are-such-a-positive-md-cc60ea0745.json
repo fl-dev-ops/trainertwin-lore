@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-03-13-you-are-such-a-positive-md-cc60ea0745-644bbe44b37b8299.jsonl",
+  "external_id": "7438156289765064704",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:05:23Z",
+  "metadata_hash": "c7f0051a05f088293f44afd4a17e2fced4956a95dba9c8f328fcefa045dfe9d7",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-13T09:37:33.741000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-13-you-are-such-a-positive.md",
+  "source_sha256": "836b96085078030c9803afdd19dca189bcbdb49be9f66d694cfdbb9ca6d0a924",
+  "source_url": "https://www.linkedin.com/posts/olgasi_perspective-globaltrends-leadership-activity-7438156289765064704-F43m"
+}

@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "name": "Sales Performance and Techniques",
+      "topics": [
+        "sales-performance",
+        "sales-techniques",
+        "sales-techniques-and-strategy",
+        "sales-techniques-and-training"
+      ]
+    },
+    {
+      "name": "Sales Strategies and Processes",
+      "topics": [
+        "sales-process",
+        "sales-strategies",
+        "sales-strategy-and-processes"
+      ]
+    },
+    {
+      "name": "Training and Skill Development",
+      "topics": [
+        "self-improvement-and-reflection",
+        "skill-enhancement-and-training",
+        "training",
+        "training-and-development",
+        "training-and-support-frameworks",
+        "training-programs"
+      ]
+    },
+    {
+      "name": "Social and Cultural Context",
+      "topics": [
+        "social-and-cultural",
+        "social-issues-and-rights"
+      ]
+    },
+    {
+      "name": "Strategic Planning and Outcomes",
+      "topics": [
+        "strategic-planning-and-outcomes",
+        "success-and-productivity",
+        "scaling"
+      ]
+    },
+    {
+      "name": "Communication and Media",
+      "topics": [
+        "social-media-strategies",
+        "time-management",
+        "video-and-media",
+        "visibility-and-recognition"
+      ]
+    },
+    {
+      "name": "Workplace Environment and Skills",
+      "topics": [
+        "team-dynamics",
+        "workplace-environment-and-culture",
+        "workplace-skills"
+      ]
+    },
+    {
+      "name": "Technology and Tools",
+      "topics": [
+        "technology-use",
+        "tool-introduction"
+      ]
+    },
+    {
+      "name": "Trust and Value Perception",
+      "topics": [
+        "trust-and-values",
+        "value-and-perception"
+      ]
+    },
+    {
+      "name": "Market and Customer Feedback",
+      "topics": [
+        "testimonials-and-customer-feedback"
+      ]
+    },
+    {
+      "name": "Wealth and Investments",
+      "topics": [
+        "wealth-and-investments"
+      ]
+    },
+    {
+      "name": "Traffic Management",
+      "topics": [
+        "traffic-management"
+      ]
+    }
+  ]
+}

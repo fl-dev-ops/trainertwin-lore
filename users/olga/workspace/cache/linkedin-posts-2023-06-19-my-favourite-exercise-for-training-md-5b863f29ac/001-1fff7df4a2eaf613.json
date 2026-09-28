@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "Time yourself for 60 seconds. Grab any book.",
+      "statement": "Time yourself for 60 seconds.",
+      "topic": "spontaneous thinking",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "Open randomly choose one word.",
+      "statement": "Open randomly choose one word.",
+      "topic": "spontaneous thinking",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "Based on this word come up with a character's name, age, appearance, personality, and backstory.",
+      "statement": "Come up with a character's name, age, appearance, personality, and backstory.",
+      "topic": "spontaneous thinking",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "Remember you only have 60 seconds.",
+      "statement": "You only have 60 seconds to create your character.",
+      "topic": "spontaneous thinking",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A social media post sharing a spontaneous thinking exercise."
+}

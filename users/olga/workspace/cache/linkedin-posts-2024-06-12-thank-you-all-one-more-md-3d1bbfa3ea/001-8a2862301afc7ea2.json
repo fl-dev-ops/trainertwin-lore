@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "one of my most popular posts was about my birthday.",
+      "statement": "my inbox exploded – probably one of my most popular posts was about my birthday",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "what do you think I gifted myself for my 44th? Drop your ideas in the comments!",
+      "statement": "what do you think I gifted myself for my 44th? Drop your ideas in the comments!",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post expressing gratitude for birthday wishes and encouraging engagement."
+}

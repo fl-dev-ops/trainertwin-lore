@@ -1,0 +1,190 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Self-promotion on LinkedIn generates viewer reactions.",
+      "qualification": "Observation varying across users and contexts.",
+      "support_ids": [
+        "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57:c001:e001:5a2e15a0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Organized team events like potlucks can boost team morale.",
+      "qualification": "This is a single instance and self-reported; broader effects are not measured.",
+      "support_ids": [
+        "linkedin-posts-2024-12-20-we-had-an-amazing-festive-md-fa036de3f1:c001:e001:6093bc60"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales team performance is rated subjectively and can be improved.",
+      "qualification": "The performance assessment is subjective and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-07-02-what-is-the-difference-between-md-6743ec2a1a:c001:e005:6e5874c8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The first sales team can significantly impact financial success in real estate.",
+      "qualification": "The impact is stated as significant but depends on multiple factors besides team dynamics.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e002:88f0bb56"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Work culture requires maintenance to prevent decline.",
+      "qualification": "The statement is metaphorical and reflects a personal viewpoint not universally substantiated.",
+      "support_ids": [
+        "linkedin-posts-2026-02-23-thank-you-tarun-ahimaz-and-md-d080be2402:c001:e001:220c9e4b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sharing resources among teams can potentially increase resources or inventory.",
+      "qualification": "This advice is hypothetical and its effectiveness is not independently validated.",
+      "support_ids": [
+        "linkedin-posts-2025-08-05-everyone-says-cold-calling-doesnt-md-147553f13e:c001:e005:b98355c1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Team burnout is indicated by agent entitlement issues in client interactions.",
+      "qualification": "The observation is anecdotal and lacks broader verification or contextual analysis.",
+      "support_ids": [
+        "linkedin-posts-2025-11-06-i-just-wrote-this-commenting-md-bf48780919:c001:e003:2690de0c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Team building initiatives can improve agent retention rates.",
+      "qualification": "The effectiveness of team-building activities is suggested but not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2026-02-23-thank-you-tarun-ahimaz-and-md-d080be2402:c001:e003:8691cc64"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating a home-like work environment can enhance team dynamics by fostering a pleasurable workspace.",
+      "qualification": "The statement is self-reported and subjective; it may not apply to all teams.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s182-yaml-17bdda5f96:c001:e002:96c7c61a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Launching a career online provides access to a global audience, with potential for increased visibility and opportunities.",
+      "qualification": "The claim is based on LinkedIn advice, indicating potential benefits but lacking empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-05-17-in-2023-if-you-do-md-21dcdfea7b:c001:e002:f9562a2e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Integrating AI into daily workflows presents challenges for over 50% of real estate agents.",
+      "qualification": "This observation is reported, but not independently verified with specific data sources.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-over-50-of-real-estate-md-57c0529eb0:c001:e001:3e1e71cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Current sales processes in Dubai may not be optimized for digital transformation, affecting lead conversion rates.",
+      "qualification": "Self-reported belief about the inadequacy of existing sales systems.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e008:f7ebecec"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in language skills is critical for success in real estate, especially for non-native English speakers.",
+      "qualification": "The advice is based on personal experiences and lacks broader industry data.",
+      "support_ids": [
+        "linkedin-posts-2024-04-15-my-english-is-not-good-md-5f48b1ce7e:c001:e003:529e1001"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Traditional lecture methods result in low information retention, highlighting the need for improved educational techniques.",
+      "qualification": "Presented as advised information without empirical support or study citations.",
+      "support_ids": [
+        "linkedin-posts-2024-09-05-step-by-step-guide-to-my-online-md-baa2e01844:c001:e002:2f3f1da2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI assistants tailored for real estate agents have been created and are operational.",
+      "qualification": "Multiple posts claim the existence of these AI assistants, but the effectiveness or user satisfaction is not verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-for-you-real-estate-agents-md-44412b2c31:c001:e001:0ed7e0d6",
+        "linkedin-posts-2024-09-24-are-you-best-friends-with-md-02bde83785:c001:e003:ce35d019",
+        "linkedin-posts-2024-10-18-all-good-things-are-always-md-e8b1e0a3ba:c001:e001:4bb54d9e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI's impact on employment sectors is a concern, particularly regarding job obsolescence.",
+      "qualification": "This is self-reported and emphasizes the need for reassessment of future career choices due to AI advancements.",
+      "support_ids": [
+        "linkedin-posts-2024-10-30-finding-an-lms-that-doesnt-md-bf86fc2aae:c001:e001:20630416"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market is promoted as providing substantial insights and value to serious investors or participants.",
+      "qualification": "The claim is promotional and lacks detailed substantiation or context on what constitutes 'insights' or 'value.'",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s118-yaml-a8372f3450:c001:e004:5aacf002"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A new two-lane road is being constructed in Dubai to improve traffic flow.",
+      "qualification": "The initiation of construction has been reported but further details on its current status or completion timeline are not provided.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e001:21b5fbf9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Waiting times on Hessa Street have been reduced from 4 minutes to 1 minute, indicating improvements in traffic management.",
+      "qualification": "Limited to a specific street and timeframe in Dubai; no broader impact on the city's transport system is detailed.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e008:6e3d9cc2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Travel distances will be significantly reduced in various neighborhoods in Dubai, specifically in Al Warqa.",
+      "qualification": "Predictions about future reductions, which may be subject to change based on ongoing developments.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e011:15510a13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reduced traffic congestion is expected to lead to lower carbon emissions in Dubai.",
+      "qualification": "This is an expectation rather than confirmed data on emissions reductions.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e012:734698be"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The urban project in Dubai has not been launched yet; progress and impact remain pending.",
+      "qualification": "The project's timeline and specific goals remain unspecified.",
+      "support_ids": [
+        "linkedin-posts-2023-09-13-my-first-trip-to-saudi-md-405dbaed49:c001:e005:08484dd9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Despite changes in urban development strategies, demand in the market has not disappeared, showing resilience.",
+      "qualification": "This is a general statement on market demand; it requires context on which market segment or time frame is being referenced beyond urban development.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s151-yaml-8c6d4d707e:c001:e003:92097465"
+      ]
+    }
+  ]
+}

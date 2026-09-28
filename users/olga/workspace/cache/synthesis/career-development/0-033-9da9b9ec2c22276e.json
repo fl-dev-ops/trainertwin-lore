@@ -1,0 +1,74 @@
+{
+  "findings": [
+    {
+      "counter_ids": [
+        "youtube-shorts-run-transcripts-s110-yaml-fe385454b9:c001:e001:4be716f7"
+      ],
+      "finding": "Moving to Dubai and starting a career in real estate without prior experience is perceived as possible.",
+      "qualification": "Self-reported challenges with moving, such as accommodation issues, suggest the transition is not without difficulties.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s109-yaml-a8e193ad76:c001:e003:bb6a8cba",
+        "youtube-shorts-run-transcripts-s11-yaml-182123e603:c001:e002:56fbba47"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Introductory training in real estate is typically brief and informal.",
+      "qualification": "Evidence of informal training is from observed experiences and may not represent all industry practices.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s110-yaml-fe385454b9:c001:e003:8741f002",
+        "youtube-shorts-run-transcripts-s118-yaml-a8372f3450:c001:e002:daa37dd5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "New agents in real estate often face fear and uncertainty in client interactions.",
+      "qualification": "These reports are personal experiences and may not reflect all new agents' experiences.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s111-yaml-68058ff5ff:c001:e004:f5a8cc5d",
+        "youtube-shorts-run-transcripts-s115-yaml-afd75583ca:c001:e004:6c0eb791"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Experienced real estate agents still struggle with defining their sales focus.",
+      "qualification": "The statement is self-reported and lacks independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s115-yaml-afd75583ca:c001:e003:377b0ef9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building confidence is crucial for career development in real estate.",
+      "qualification": "Confidence-building is self-reported and may not be universally applicable.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s114-yaml-f2a44bed89:c001:e002:ced205b4",
+        "youtube-shorts-run-transcripts-s111-yaml-68058ff5ff:c001:e004:f5a8cc5d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Success in real estate is often attributed to the quantity of daily calls made.",
+      "qualification": "The claim is based on observed behavior and not independently confirmed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s125-yaml-08d5cdbb04:c001:e002:c9119bd0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate training opportunities are available even for those without prior experience.",
+      "qualification": "The opportunities mentioned are observed and may not reflect comprehensive industry offerings.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s118-yaml-a8372f3450:c001:e001:736ce96c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Challenging moments and feelings of wanting to give up are common in career development.",
+      "qualification": "This reflects personal experiences and may vary individually.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s126-yaml-e58310a5f1:c001:e001:2e9abb6d"
+      ]
+    }
+  ]
+}

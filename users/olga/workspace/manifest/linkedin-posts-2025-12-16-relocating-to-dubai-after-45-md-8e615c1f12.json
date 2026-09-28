@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-12-16-relocating-to-dubai-after-45-md-8e615c1f12-5125bcc23b0398ed.jsonl",
+  "external_id": "7406668209401040898",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:01:06Z",
+  "metadata_hash": "aa1d76c4e92ee261f3071e376b93aaeab2da92b75f40f2b9d6132c9200729ab4",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-16T12:15:10.362000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-16-relocating-to-dubai-after-45.md",
+  "source_sha256": "8b09aede8a124613fef519d19112f65a513348591474558bdc6e78d5bd3308b4",
+  "source_url": "https://www.linkedin.com/posts/olgasi_coldcallingdubai-coldcallingtraining-coldcallingtips-activity-7406668209401040898-NHdX"
+}

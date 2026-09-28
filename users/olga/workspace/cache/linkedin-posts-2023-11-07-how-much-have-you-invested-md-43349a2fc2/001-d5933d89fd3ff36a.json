@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Can you guess the answer I get in 99% of time?",
+      "statement": "99% of respondents give a similar answer about their investment in sales skills.",
+      "topic": "investment opportunity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "I start my sales trainings with this question!",
+      "statement": "Asking about investment in sales skills is a valuable first interview question.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "How much have you invested this year.. in your sales skills?",
+      "statement": "The author emphasizes the importance of investing in sales skills.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing investment in sales skills and training."
+}

@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The AI tool named Knock-Knock aims to enhance productivity for real estate agents by streamlining administrative tasks, allowing them more time for productive activities.",
+      "qualification": "The effectiveness and adoption rate of the tool are not verified beyond speaker claims.",
+      "support_ids": [
+        "youtube-transcripts-12-yaml-6db9d6703c:c001:e002:3d1eb56a",
+        "youtube-transcripts-12-yaml-6db9d6703c:c001:e003:263d50a6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales agents may encounter delayed commission payments, with some companies making agents wait months or even not paying them at all.",
+      "qualification": "Statements are based on individual experiences and may not represent all companies.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e001:488c9906",
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e002:1d8963f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies include understanding customer needs before property presentation and addressing fears of making wrong decisions to improve sales outcomes.",
+      "qualification": "This is strategic advice and its effectiveness would vary with implementation.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e002:9a046823",
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e005:0839aa2e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding the objections raised by previous salespeople and addressing those can be crucial in overcoming potential client resistance.",
+      "qualification": "This advice implies understanding past interactions, which requires effective communication skills.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e007:f347a534"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Transforming objections into questions can aid in overcoming client objections and sales resistance.",
+      "qualification": "This technique of 'narrow emotional persuasion' is self-reported and lacks external validation.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e003:740d7626"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a recommendation for real estate agents to maintain a professional appearance, suggesting having a suit for each workday.",
+      "qualification": "This is subjective advice aimed at creating a professional image.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e007:e60f5514",
+        "youtube-transcripts-15-yaml-33ce9f3040:c002:e002:3e623336"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A membership program called Real Estate Growth Academy offers personalized advice and training for real estate agents.",
+      "qualification": "Details about the program’s effectiveness or specific content are not provided.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e008:686874ac"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Beginning real estate agents are advised to focus on quick deal closure to receive commissions sooner.",
+      "qualification": "This suggestion is practical but may not be feasible for every agent depending on market conditions.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e003:21873e15"
+      ]
+    }
+  ]
+}

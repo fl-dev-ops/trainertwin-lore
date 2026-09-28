@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-06-14-is-it-easier-today-md-02c6d6236d-0608b85fdd86382e.jsonl",
+  "external_id": "7207228083081224192",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:54:44Z",
+  "metadata_hash": "96cbc0c17d50b3c27e21466aee11c944c78997db335d5f29bf58d2baaa5d5776",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-06-14T03:51:18.829000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-06-14-is-it-easier-today.md",
+  "source_sha256": "25459b156c1c9827f351ffe3ac546a1e65c96c30d8fbdd76a8694af7eb24bfc7",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestate-realestateagent-palmjumeira-activity-7207228083081224192-Hae8"
+}

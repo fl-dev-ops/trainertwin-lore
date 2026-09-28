@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Have very contradictory emotions.",
+      "statement": "I have very contradictory emotions.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Being on your own with a goal of finding new business creates a lot of anxiety and avoidance in me.",
+      "statement": "Being on your own with a goal of finding new business creates a lot of anxiety and avoidance in me.",
+      "topic": "self-assessment",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I decided to shift my mindset from I'm looking for business - To - I'm curious about different businesses.",
+      "statement": "I decided to shift my mindset from I'm looking for business - To - I'm curious about different businesses.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "advice",
+      "quote": "the Key for success networking for me is curiosity.",
+      "statement": "The key for success networking for me is curiosity.",
+      "topic": "networking strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Not to promote myself, but just to find out what others have to say.",
+      "statement": "I am not promoting myself, but just finding out what others have to say.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "What is your tip?",
+      "statement": "What is your tip?",
+      "topic": "interaction invitation",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Personal reflection on experiencing business networking in Saudi Arabia, focusing on mindset shift and emotional responses."
+}

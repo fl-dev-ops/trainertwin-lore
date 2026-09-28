@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2024-09-02-ill-be-the-first-to-md-6ee40702d8-5ebce7ab19105136.jsonl",
+  "external_id": "7236251516494327808",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:30:22Z",
+  "metadata_hash": "5a20e7bfee42fd58b368aadaf090229bf838caf1a028c66054e3611ae7c0868a",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-02T06:00:04.584000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-02-ill-be-the-first-to.md",
+  "source_sha256": "6b9aa7520705bc767a97ea34e178831ca0d5d16406058fb9c1ccda2da30d0e43",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesales-salestraining-salesprocess-activity-7236251516494327808-UI46"
+}

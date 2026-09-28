@@ -1,0 +1,114 @@
+{
+  "groups": [
+    {
+      "name": "Advocacy and Authority",
+      "topics": [
+        "advocacy-and-authority",
+        "company-culture-and-governance"
+      ]
+    },
+    {
+      "name": "Agent Performance and Issues",
+      "topics": [
+        "agent-performance-and-issues",
+        "execution-and-business-practices",
+        "sales-techniques-and-performance",
+        "routines-and-efficiency"
+      ]
+    },
+    {
+      "name": "Branding and Financial Management",
+      "topics": [
+        "branding-and-financial-management",
+        "economic-and-financial-matters"
+      ]
+    },
+    {
+      "name": "Business Strategies and Planning",
+      "topics": [
+        "business-evaluation-and-expectations",
+        "business-strategies-and-challenges",
+        "diversification-and-future-planning"
+      ]
+    },
+    {
+      "name": "Career and Professional Development",
+      "topics": [
+        "career-and-professional-development",
+        "training-and-skill-development",
+        "program-structures-and-offerings",
+        "development-process-and-feedback"
+      ]
+    },
+    {
+      "name": "Client and Customer Engagement",
+      "topics": [
+        "client-and-customer-engagement",
+        "marketing-and-content-creation"
+      ]
+    },
+    {
+      "name": "Coaching and Education",
+      "topics": [
+        "coaching-and-education"
+      ]
+    },
+    {
+      "name": "Communication and Networking",
+      "topics": [
+        "communication-techniques",
+        "event-participation-and-networking"
+      ]
+    },
+    {
+      "name": "Community and Cultural Factors",
+      "topics": [
+        "community-and-infrastructure",
+        "emotional-and-cultural-factors",
+        "public-perception-and-context"
+      ]
+    },
+    {
+      "name": "Environmental and Infrastructure Considerations",
+      "topics": [
+        "environmental-concerns",
+        "project-infrastructure-and-traffic-management",
+        "external-and-market-influences"
+      ]
+    },
+    {
+      "name": "Global and Strategic Outlook",
+      "topics": [
+        "global-and-strategic-outlook",
+        "innovation-and-market-trends"
+      ]
+    },
+    {
+      "name": "Leadership and Management",
+      "topics": [
+        "leadership-and-management"
+      ]
+    },
+    {
+      "name": "Real Estate Industry",
+      "topics": [
+        "real-estate-industry",
+        "relocation-and-lifestyle",
+        "professional-background"
+      ]
+    },
+    {
+      "name": "Support and Technology",
+      "topics": [
+        "support-and-technology"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "topics": [
+        "miscellaneous",
+        "buyer-psychology"
+      ]
+    }
+  ]
+}

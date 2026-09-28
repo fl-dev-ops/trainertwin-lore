@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Improvements: A new two-lane road is being constructed.",
+      "statement": "A new two-lane road is being constructed.",
+      "topic": "urban infrastructure",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "It can handle up to 6,000 vehicles per hour.",
+      "statement": "The new road can handle up to 6,000 vehicles per hour.",
+      "topic": "traffic capacity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "This upgrade will serve over 300,000 residents in communities such as Nadd Hessa.",
+      "statement": "The upgrade will serve over 300,000 residents in various communities.",
+      "topic": "community impact",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "A 7.5 km direct road connecting Al Awir 1 to Emirates Road.",
+      "statement": "A new 7.5 km road will connect Al Awir 1 to Emirates Road.",
+      "topic": "road connectivity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Road capacity will double from 1,500 to 3,000 vehicles per hour.",
+      "statement": "Road capacity for Al Awir 1 will double from 1,500 to 3,000 vehicles per hour.",
+      "topic": "road capacity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Widened to four lanes in each direction over a 1,114-meter stretch.",
+      "statement": "Hessa Street will be widened to four lanes in each direction.",
+      "topic": "infrastructure improvement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Smart traffic signals replace roundabouts for improved flow.",
+      "statement": "Signalized intersections will replace roundabouts to improve traffic flow.",
+      "topic": "traffic improvement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Waiting times reduced from 4 minutes to 1 minute on Hessa Street.",
+      "statement": "Waiting times on Hessa Street reduced from 4 minutes to 1 minute.",
+      "topic": "waiting times",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "8 km of internal roads will improve access.",
+      "statement": "8 km of internal roads will improve access in Al Warqa.",
+      "topic": "access improvements",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "A 16 km cycling track will be added, linking Al Warqa to nearby routes.",
+      "statement": "A 16 km cycling track will be added in Al Warqa.",
+      "topic": "cycling infrastructure",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Travel distances will be significantly reduced in various neighborhoods.",
+      "statement": "Travel distances in Al Warqa will be reduced significantly.",
+      "topic": "environmental impact",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Reduced traffic congestion will lead to lower carbon emissions.",
+      "statement": "Reduced traffic congestion will lead to lower carbon emissions.",
+      "topic": "carbon emissions",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "All upgrades are expected to be completed within a year.",
+      "statement": "All upgrades are expected to be completed within a year.",
+      "topic": "project timeline",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Summary of traffic infrastructure improvements in Dubai regions."
+}

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Detachment doesn’t mean you stop caring or that you don’t work hard for the sale.",
+      "statement": "Detachment doesn’t mean you stop caring or that you don’t work hard for the sale.",
+      "topic": "detachment in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "It’s the one who listens the best, who offers real value, and who helps them feel confident in their decision.",
+      "statement": "The one who listens the best, who offers real value, and who helps them feel confident in their decision is often the one who wins trust.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Instead of pushing, proving, and trying to force a sale, you shift your focus to understanding the client.",
+      "statement": "Shift your focus to understanding the client, asking the right questions, and genuinely helping them find the best solution.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "when you're working in real estate and it’s commission-only, it feels like every deal matters.",
+      "statement": "Working in real estate and it’s commission-only creates an intense pressure to close deals.",
+      "topic": "sales pressure",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "by detaching from the need to control the outcome and focusing on creating trust, you’re playing the long game.",
+      "statement": "By detaching from the need to control the outcome and focusing on creating trust, you’re playing the long game.",
+      "topic": "long-term engagement",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Single-unit LinkedIn post discussing sales strategies in real estate."
+}

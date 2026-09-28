@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I will never do that... Well, Buffett does...",
+      "statement": "I will never do that... Well, Buffett does...",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing the controversial strategy of speaking against one's own interests to build trust."
+}

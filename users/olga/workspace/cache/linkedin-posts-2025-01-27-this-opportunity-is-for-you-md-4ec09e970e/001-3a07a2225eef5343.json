@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I’m assisting in finding the ideal candidate for their Recruiter role.",
+      "statement": "An agency is looking for a candidate for a Recruiter role.",
+      "topic": "job listing",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "We’re looking for someone with real estate sales experience who is confident, driven, and ready to learn and grow in recruitment.",
+      "statement": "The ideal candidate should have real estate sales experience, confidence, and a willingness to learn.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "understands that modern recruitment is a sales role at its core.",
+      "statement": "Modern recruitment is described as a sales role at its core.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Build strong business relationships with agents.",
+      "statement": "The candidate will build strong business relationships with agents.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "but it requires the same energy, focus, and persistence as sales.",
+      "statement": "The role requires energy, focus, and persistence similar to sales.",
+      "topic": "goals in sales",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "DM me your CV, and let’s discuss if this role is the right fit for you.",
+      "statement": "Candidates must DM their CV to discuss the role.",
+      "topic": "application process",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post detailing a job opportunity for a recruiter role."
+}

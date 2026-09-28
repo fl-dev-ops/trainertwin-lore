@@ -1,0 +1,99 @@
+{
+  "groups": [
+    {
+      "name": "Job Application Process",
+      "topics": [
+        "ideal-candidate",
+        "job-application",
+        "job-hunting-challenges",
+        "job-listing",
+        "job-preparation",
+        "job-qualifications",
+        "job-referral",
+        "job-requirements",
+        "job-responsibilities",
+        "job-search"
+      ]
+    },
+    {
+      "name": "Investment Insights",
+      "topics": [
+        "investment-impact",
+        "investment-opportunity",
+        "investment-outcomes",
+        "investment-understanding"
+      ]
+    },
+    {
+      "name": "Engagement and Interaction",
+      "topics": [
+        "individual-engagement",
+        "industry-engagement",
+        "interaction-invitation"
+      ]
+    },
+    {
+      "name": "Leadership Development",
+      "topics": [
+        "leadership-development",
+        "leadership-expertise",
+        "leadership-mindset"
+      ]
+    },
+    {
+      "name": "Innovation and Industry",
+      "topics": [
+        "industry-innovation",
+        "innovation-in-practice"
+      ]
+    },
+    {
+      "name": "Personal Growth",
+      "topics": [
+        "imposter-syndrome",
+        "internal-dialogue",
+        "knowledge-retention",
+        "knowledge-sharing"
+      ]
+    },
+    {
+      "name": "Sales and Marketing",
+      "topics": [
+        "intentions-clarification",
+        "lead-conversion",
+        "lead-generation"
+      ]
+    },
+    {
+      "name": "Infrastructure Topics",
+      "topics": [
+        "infrastructure-challenges",
+        "infrastructure-improvement"
+      ]
+    },
+    {
+      "name": "Income and Financial Growth",
+      "topics": [
+        "income-increase"
+      ]
+    },
+    {
+      "name": "insights-and-value",
+      "topics": [
+        "insights-and-value"
+      ]
+    },
+    {
+      "name": "interview-technique",
+      "topics": [
+        "interview-technique"
+      ]
+    },
+    {
+      "name": "language-skills",
+      "topics": [
+        "language-skills"
+      ]
+    }
+  ]
+}

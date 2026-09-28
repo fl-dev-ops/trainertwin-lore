@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Maybe you just lost a big opportunity.",
+      "statement": "I’ve been there.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Someone people trust. Someone who brings energy, clarity, and value.",
+      "statement": "It starts with becoming the kind of person others want to work with.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Every evening, ask yourself: • What did I do well today?",
+      "statement": "Every evening, ask yourself: What did I do well today? What can I do tomorrow to be 1% better?",
+      "topic": "personal effectiveness",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "Confidence doesn’t come from the outcome.",
+      "statement": "Confidence doesn’t come from the outcome. It comes from doing the work.",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Share this with someone who needs to hear it right now.",
+      "statement": "Share this with someone who needs to hear it right now.",
+      "topic": "guidance",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "It won’t come from blame.",
+      "statement": "The shift won’t happen through envy or blame.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A motivational post addressing feelings of stagnation in a professional context and suggesting actionable steps for improvement."
+}

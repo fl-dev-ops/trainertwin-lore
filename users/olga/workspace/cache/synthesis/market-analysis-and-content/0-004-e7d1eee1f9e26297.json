@@ -1,0 +1,48 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Saudi Arabia's real estate sector is seen as rapidly advancing, potentially affecting other regional markets like Dubai.",
+      "qualification": "The impact on Dubai's market is speculative and not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-11-09-my-next-training-trip-to-md-1c411fbb69:c001:e002:eb662537",
+        "linkedin-posts-2023-12-06-one-of-the-great-achievement-md-ca89a59de4:c001:e001:ba33ed7c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate developers in Dubai need a proven track record for timely delivery to be considered for investment opportunities.",
+      "qualification": "This is part of a hypothetical case study rather than reported industry data.",
+      "support_ids": [
+        "linkedin-posts-2024-01-11-case-study-workshop-can-your-md-92797e4d31:c001:e002:b1714c7f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a particular emphasis on formal application processes and communication channels for professional services in Dubai.",
+      "qualification": "Instructions on the application process are consistent yet self-reported.",
+      "support_ids": [
+        "linkedin-posts-2024-01-30-im-looking-for-a-freelance-md-9d44847d44:c001:e006:e30f5a47",
+        "linkedin-posts-2024-01-30-im-looking-for-a-freelance-md-9d44847d44:c001:e007:bf4d285a",
+        "linkedin-posts-2024-02-06-im-looking-for-a-freelance-md-c7940a2c88:c001:e003:a4ec40ee"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a mismatch between existing rent and market trends in Dubai, affecting rental property marketing.",
+      "qualification": "This is observed commentary but not backed by data or secondary sources.",
+      "support_ids": [
+        "linkedin-posts-2024-05-08-im-off-to-a-new-md-2635416515:c001:e002:ff4c4f88"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Content creation around real estate is an area of personal engagement for professionals in Dubai.",
+      "qualification": "These are self-reported views, indicating personal but not necessarily market-wide engagement.",
+      "support_ids": [
+        "linkedin-posts-2024-07-05-building-a-free-knowledge-base-md-640b3f642b:c001:e002:f9dac255",
+        "linkedin-posts-2024-07-18-it-may-not-be-for-md-180097975e:c001:e001:5ff3d4d2"
+      ]
+    }
+  ]
+}

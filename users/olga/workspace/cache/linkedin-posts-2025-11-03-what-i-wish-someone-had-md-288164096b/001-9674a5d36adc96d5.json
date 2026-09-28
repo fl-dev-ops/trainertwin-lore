@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "You're not a salesperson. You're a lead hunter.",
+      "statement": "Your job isn't to sell. It's to hunt.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Every morning you wake up with zero leads unless you create them yourself.",
+      "statement": "Lead generation is 80% of the work.",
+      "topic": "lead generation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "That's the biggest lie in the industry.",
+      "statement": "Companies won't give you enough leads. Ever.",
+      "topic": "company expectations",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Even the best companies can't generate enough quality leads to feed their entire sales force.",
+      "statement": "You're competing with every other agent in your office for scraps.",
+      "topic": "market competition",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "advice",
+      "quote": "The sooner you accept that reality, the faster you'll start making real money.",
+      "statement": "Stop waiting for leads to be given to you. Start building your own pipeline from day one.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Practical result: Agents who focus on lead generation from week one earn 3x more.",
+      "statement": "Agents who focus on lead generation from week one earn 3x more than those who wait for company leads.",
+      "topic": "sales performance",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post sharing insights on starting a career in Dubai real estate."
+}

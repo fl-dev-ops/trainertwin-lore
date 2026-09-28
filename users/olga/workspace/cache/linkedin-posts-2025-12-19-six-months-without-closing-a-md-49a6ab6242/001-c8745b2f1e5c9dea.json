@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Six months without closing a deal - here's the brutal truth about why agents fail.",
+      "statement": "Agents fail because they act as information desks instead of trusted advisors.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Because clients don't buy facts. They buy feelings. They buy the feeling that you understand their fear of making the wrong investment.",
+      "statement": "Clients buy the feeling that you understand their fear of making the wrong investment.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Your job isn't to be the smartest person in the room. Your job is to be the most trustworthy.",
+      "statement": "Stop leading with what you know and start leading with what clients need to feel safe.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "she told me Im her Lucky Charm - as she closed a sale on a Road Show - which have never happend, and this was her 5th trip.",
+      "statement": "The agent I coached closed a sale on her fifth trip after changing her approach to client interactions.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Her ROI on the investment in coaching is + 3 000%",
+      "statement": "Her ROI on the investment in coaching is +3000%.",
+      "topic": "sales performance",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post discussing challenges real estate agents face in closing deals and emphasizing the importance of client emotions over facts."
+}

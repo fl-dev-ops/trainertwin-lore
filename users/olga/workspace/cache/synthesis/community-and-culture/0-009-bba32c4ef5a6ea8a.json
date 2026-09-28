@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Candidates in sales need the right character and mindset to succeed.",
+      "qualification": "Self-reported belief on mindset requirements without independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e008:96b6d7a2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A strong 'why' helps people persist long enough to see results in challenging careers.",
+      "qualification": "Based on self-reported beliefs; no external validation provided.",
+      "support_ids": [
+        "linkedin-posts-2025-04-28-from-the-outside-dubai-looks-md-2f1c9d0170:c001:e005:09035b20"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Following up in sales can feel uncomfortable and ineffective if done excessively.",
+      "qualification": "Described from personal experience without corroborating evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-05-14-how-to-follow-up-with-md-8866d75461:c001:e001:21dea17f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Scripts in sales provide essential structure and language while allowing personal expression.",
+      "qualification": "This is a belief stated without external validation or testing against alternatives.",
+      "support_ids": [
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e003:6e7d8f6f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Losing a deal or facing rejection is common in sales and can impact morale.",
+      "qualification": "Presenting personal observations without specific quantitative support.",
+      "support_ids": [
+        "linkedin-posts-2025-06-13-lost-a-deal-this-week-md-6823ad1bde:c001:e001:468ab29a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Masterclasses are offered to provide training and clarity on modern lead generation techniques.",
+      "qualification": "Presence of masterclass initiatives; effectiveness not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-05-12-no-leads-no-training-heres-md-67845742b9:c001:e001:ad38a1d5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Regular reflection on daily achievements and areas for improvement is advised.",
+      "qualification": "Self-reported advice; lacks evidence of effectiveness or adoption rates.",
+      "support_ids": [
+        "linkedin-posts-2025-04-18-if-your-current-reality-feels-md-c366d002b6:c001:e003:36451be0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Becoming someone others want to work with involves trust, energy, clarity, and value.",
+      "qualification": "Advised approach without evidence of outcomes or comparative analysis.",
+      "support_ids": [
+        "linkedin-posts-2025-04-18-if-your-current-reality-feels-md-c366d002b6:c001:e002:0c83ff1e"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Getting into this industry is pretty easy, so lots of people join.",
+      "statement": "Getting into this industry is pretty easy, so lots of people join.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "those who do join and start doing well sometimes get too comfortable and stop pushing themselves.",
+      "statement": "Those who do join and start doing well sometimes get too comfortable and stop pushing themselves.",
+      "topic": "persistence in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "They don't get how important it is to keep learning.",
+      "statement": "They don't get how important it is to keep learning.",
+      "topic": "learning from failure",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "time to think about putting money into some training.",
+      "statement": "Maybe it's time to think about putting money into some training.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "now's the time to level up and learn crucial sales and marketing techniques.",
+      "statement": "They don't see that now's the time to level up and learn crucial sales and marketing techniques.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Do you want to keep struggling in sales for another year,",
+      "statement": "Do you want to keep struggling in sales for another year?",
+      "topic": "goals in sales",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Analysis of the challenges in finding experienced agents in Dubai real estate industry."
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "More opportunities for Russian speaking candidates.",
+      "statement": "More opportunities for Russian speaking candidates.",
+      "topic": "job listing",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Five years ago I would not think that my mother tongue will be on a high demand in Dubai.",
+      "statement": "Five years ago I would not think that my mother tongue will be on a high demand in Dubai.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post about job opportunities for Russian speakers"
+}

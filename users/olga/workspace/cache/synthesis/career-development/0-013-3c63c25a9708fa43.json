@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Recording and reviewing conversations is advised for improving communication skills in sales, highlighting the importance of self-reflection in career development.",
+      "qualification": "The practice is based on advice and lacks empirical data support.",
+      "support_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e006:91016f1c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Role-playing exercises are used as a method to enhance communication and persuasion skills within a career context.",
+      "qualification": "The effectiveness of role-playing is observed behavior, not empirically validated.",
+      "support_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e007:46b460b7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A mindset shift towards understanding clients' problems is considered crucial for career success in sales.",
+      "qualification": "The statement reflects a belief or position without empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-10-27-what-is-the-main-reason-md-ed7d7f9fe5:c001:e003:84976e41"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adopting new persuasion techniques based on behavioral science is suggested to be more effective than traditional methods in sales.",
+      "qualification": "The approach is based on self-reported beliefs without independent verification.",
+      "support_ids": [
+        "linkedin-posts-2023-10-31-it-just-doesnt-work-anymore-md-ccd696d3ce:c001:e003:6613d7e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging with \"post-trust\" clients is described as a challenging but enriching experience, suggesting real-world practice is valuable for career development.",
+      "qualification": "The finding is a self-reported experience, not generalized or empirically studied.",
+      "support_ids": [
+        "linkedin-posts-2023-10-19-im-now-developing-a-new-md-a0310174eb:c001:e004:bb0af636"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Practicing with real clients and detailed sales processes is highlighted as a beneficial real-world learning method for career advancement.",
+      "qualification": "This is based on self-reported experience rather than independent, empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-10-19-im-now-developing-a-new-md-a0310174eb:c001:e002:b5099ecb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Novel methods like Neuro-Emotional Persuasion are promoted to revolutionize communication styles and effectiveness in career roles.",
+      "qualification": "The claim is unverified and based on self-reported success stories.",
+      "support_ids": [
+        "linkedin-posts-2023-10-31-it-just-doesnt-work-anymore-md-ccd696d3ce:c001:e005:fbf99a15"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clarity in sales processes is crucial to prevent indecisive client responses, indicating the role of structured communication in career success.",
+      "qualification": "The finding comes from observed behavior and lacks broad empirical support.",
+      "support_ids": [
+        "linkedin-posts-2023-10-27-how-effective-is-your-sales-md-c3b4731a61:c001:e002:ecd8bd4f"
+      ]
+    }
+  ]
+}

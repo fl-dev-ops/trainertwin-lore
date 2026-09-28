@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-09-18-for-you-real-estate-agents-md-44412b2c31-34e2bd7dd54258f6.jsonl",
+  "external_id": "7242046895060115457",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:32:33Z",
+  "metadata_hash": "b3b3ba63b32e24a366bb96a5c8bb297bbb30d6346e4e35640c74cab77b967257",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-18T05:48:50.507000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-18-for-you-real-estate-agents.md",
+  "source_sha256": "70f722a1890314758092e537171c22fe8e860e219d06ad74d13c267137f70af3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_ai-tool-for-real-estate-agents-save-time-activity-7242046895060115457-xDZV"
+}

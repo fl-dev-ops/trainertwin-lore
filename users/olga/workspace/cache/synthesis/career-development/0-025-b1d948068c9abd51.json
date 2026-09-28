@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Newcomers to Dubai may face financial struggles, burning through their savings and leaving disappointed.",
+      "qualification": "This is self-reported evidence from an individual perspective, not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-ill-be-honest-with-you-md-1eb833bfd0:c001:e008:47ca6cf0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a training program called LiveItUp Real Estate Growth Academy offering communication, skills, and deal-closing systems.",
+      "qualification": "The description is based on promotional material which may not accurately depict the actual quality or content of the program.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-more-answers-inside-liveitup-real-md-405271d78c:c001:e001:22fd5818",
+        "linkedin-posts-2025-09-08-step-into-the-netflix-of-md-f7786c49a4:c001:e001:42a7577a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Olga suggests self-limiting beliefs are just stories people tell themselves.",
+      "qualification": "This is a self-reported belief and not an evidence-backed fact.",
+      "support_ids": [
+        "linkedin-posts-2025-09-03-how-do-you-overcome-the-md-32b9ec742b:c001:e001:2295a792"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Olga stayed in Dubai despite initial challenges and invested in building a business.",
+      "qualification": "This is a self-report and provides insights into individual persistence rather than general trends.",
+      "support_ids": [
+        "linkedin-posts-2025-09-05-starting-your-business-before-you-md-50e5ac61e6:c001:e007:4a67baf8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A particular individual, Rahil Ahmed, successfully adopted skills from a coaching program to embody the training he received.",
+      "qualification": "The evidence is about a single case and is self-reported, thus lacking broader validation.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-meet-rahil-ahmed-future-start-md-e1d80178a2:c001:e001:f5098e24"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a notable aversion to cold calling in real estate, as expressed in personal reflection.",
+      "qualification": "This is based on an individual's experience and may not reflect industry-wide trends.",
+      "support_ids": [
+        "linkedin-posts-2025-09-01-pros-cons-brutal-reality-in-md-8f6b7afe70:c001:e001:eee8880f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The training program offers a subscription model with access to resources for a low monthly cost.",
+      "qualification": "Promotional context might influence the actual value perception.",
+      "support_ids": [
+        "linkedin-posts-2025-09-08-step-into-the-netflix-of-md-f7786c49a4:c001:e002:6050f222",
+        "linkedin-posts-2025-09-10-more-answers-inside-liveitup-real-md-3add54f6ff:c001:e002:08d71e70"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker reflects on the irony of needing sales training yet running a training academy themselves.",
+      "qualification": "This is a self-reflection and humorous insight rather than a factual claim.",
+      "support_ids": [
+        "linkedin-posts-2025-09-08-apparently-theres-a-trend-on-md-7da40c1de0:c001:e002:dece1603"
+      ]
+    }
+  ]
+}

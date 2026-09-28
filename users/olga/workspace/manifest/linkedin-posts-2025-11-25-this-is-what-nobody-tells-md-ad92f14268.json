@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268-504ceee7e0fad574.jsonl",
+  "external_id": "7398948371257896960",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:59:32Z",
+  "metadata_hash": "2616667b7c3ff63e1637d5893546904f46c7a93e6c176e25f1c01bfff02fe909",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-25T04:59:17.521000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-25-this-is-what-nobody-tells.md",
+  "source_sha256": "66e29a18d6637d41f6e116a9ec71aa40f9c076f4e5d561d3a6a05e30fbb88216",
+  "source_url": "https://www.linkedin.com/posts/olgasi_this-is-what-nobody-tells-you-about-your-activity-7398948371257896960-0lv0"
+}

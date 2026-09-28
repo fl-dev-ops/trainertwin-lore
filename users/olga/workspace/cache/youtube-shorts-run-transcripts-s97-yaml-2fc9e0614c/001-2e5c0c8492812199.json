@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Dubai real estate prices accordingly to its earning potential, quality of construction,...",
+      "statement": "Dubai real estate prices correspond to its earning potential, quality of construction, and security of investment.",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "How do you mean it's too expensive? When you say it's too expensive,...",
+      "statement": "Shift the client's perspective by clarifying their definition of 'too expensive'.",
+      "topic": "client engagement",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Dubai is too expensive is what initial concept your client have.",
+      "statement": "Clients initially believe that Dubai is too expensive.",
+      "topic": "belief",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Transcript from a short video discussing real estate perceptions in Dubai."
+}

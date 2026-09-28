@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Helping customers discover their own needs is proposed as an effective sales strategy.",
+      "qualification": "This is a self-reported belief, suggesting it is subjective advice rather than established fact.",
+      "support_ids": [
+        "linkedin-posts-2023-08-22-i-support-the-idea-that-md-033fc90c4a:c001:e001:b9a52fe3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Advanced sales skill training is linked with higher revenue and better sales team retention.",
+      "qualification": "The connection between training and company performance is suggested but not empirically validated from the source.",
+      "support_ids": [
+        "linkedin-posts-2023-09-08-why-would-your-company-even-md-9a099149b0:c001:e001:3d3c831d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Role-playing scripts and focusing on clear articulation are part of suggested daily practices for effective sales agents.",
+      "qualification": "Such practices are proposed but lack supportive evidence for measurable impact on agent performance.",
+      "support_ids": [
+        "linkedin-posts-2023-09-29-the-daily-schedule-of-the-md-b6647ddc39:c001:e003:359ccf34"
+      ]
+    },
+    {
+      "counter_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e003:3cabe029"
+      ],
+      "finding": "Sales scripts are crucial for not losing commissions and distinguishing top salespeople.",
+      "qualification": "Figures are self-reported and the approach might not apply universally to all sales contexts.",
+      "support_ids": [
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e001:e70cd5f9",
+        "linkedin-posts-2023-10-25-you-are-losing-at-least-md-3f7680a54d:c001:e002:a10ca2b6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents face the common objection from clients that products or services are too expensive.",
+      "qualification": "This is a widely noted observation, not linked to specific sales data or outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-01-16-this-training-was-a-special-md-0aaee2e815:c001:e001:38bc3423"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Curiosity about a client’s situation is advised during the sales process.",
+      "qualification": "Though presented as advice, practical application or outcomes are not verified within the evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e:c001:e004:46ff6694"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Contemporary behavioral science research supports principles related to engaging customers in discovering their needs.",
+      "qualification": "While claimed as fact, it lacks specific references to studies or authors in the field.",
+      "support_ids": [
+        "linkedin-posts-2023-08-22-i-support-the-idea-that-md-033fc90c4a:c001:e005:b3c53364"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A significant number of new trainees are unfamiliar with the sales funnel model, according to a sales trainer's observations.",
+      "qualification": "This is self-reported and based on a single observation without broader validation.",
+      "support_ids": [
+        "linkedin-posts-2023-12-21-im-explaining-this-simple-sales-md-6b6dd456a8:c001:e001:232088a8"
+      ]
+    }
+  ]
+}

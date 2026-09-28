@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Supportive Environment: Starting from training, day structure, work ethic,",
+      "statement": "Supportive Environment: Starting from training, day structure, work ethic, and manager support.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Lead Generation and Road Shows: It's simply not enough to sit and wait for business",
+      "statement": "Lead Generation and Road Shows: It's simply not enough to sit and wait for business to find you.",
+      "topic": "lead generation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Brand Name with a Global Reputable History: Ensure the company has a solid",
+      "statement": "Brand Name with a Global Reputable History: Ensure the company has a solid and reputable history.",
+      "topic": "brand reputation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I'm a training partner for RAY WHITE and have been for almost a year now.",
+      "statement": "I'm a training partner for RAY WHITE and have been for almost a year now.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "My training sessions at Ray White are on Wednesdays and Fridays.",
+      "statement": "My training sessions at Ray White are on Wednesdays and Fridays.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Comment below if you're ready to work HARD.",
+      "statement": "Comment below if you're ready to work HARD.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing criteria for choosing a real estate company for beginners."
+}

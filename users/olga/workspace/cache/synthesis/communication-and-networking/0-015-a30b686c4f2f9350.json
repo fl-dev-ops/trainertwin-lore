@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Using family involvement questions can enhance client engagement in decision-making discussions.",
+      "qualification": "This strategy focuses on personalizing client interactions, though effectiveness is not tested.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s133-yaml-a35d5dea41:c001:e002:9c4c2445"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies encourage shifting presumptions about client availability.",
+      "qualification": "The advice is hypothetical and self-reported without independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s134-yaml-daeeceba6d:c001:e005:eeff1f0d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reframing sales interactions away from traditional pitches may improve engagement.",
+      "qualification": "The recommendation is observed but not verified through external testing.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s130-yaml-5314a1f442:c001:e005:e780abaf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Combining neutralizing language with re-engagement attempts in sales.",
+      "qualification": "Advice is suggested without evidence of practical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s159-yaml-1e225e9a1c:c001:e001:f11512ba"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating 'aha' moments prior to engagement can benefit communicative strategies.",
+      "qualification": "The suggestion is advisory and lacks evidence of effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s143-yaml-25191d39ed:c001:e006:19fdbd41"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A questioning technique that avoids direct sales tactics may lead to more honest client responses.",
+      "qualification": "Recommendations are advised but not tested or verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s147-yaml-961282c84d:c001:e003:9f5eb586"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adoption of unbiased market data presentation potentially increases client trust.",
+      "qualification": "This is an offering, potentially self-reported, without evidence of impact.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s165-yaml-669432e65e:c001:e004:1c42caf5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement strategies often involve improving listening skills and reducing unsolicited client interruptions.",
+      "qualification": "Reported issues are self-assessed, indicating an area for potential strategy improvement.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e003:1d98ab8b"
+      ]
+    }
+  ]
+}

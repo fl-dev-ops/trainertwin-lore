@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "they're only looking for the cheapest possible option. Mhm. Yeah, I heard that.",
+      "statement": "Clients are often perceived to be looking for the cheapest possible option.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Transcript excerpt discussing client perceptions of value versus price in a sales context."
+}

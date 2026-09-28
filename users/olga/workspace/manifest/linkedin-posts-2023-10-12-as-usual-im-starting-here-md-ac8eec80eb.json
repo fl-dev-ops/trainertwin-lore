@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 7,
+  "evidence_file": "linkedin-posts-2023-10-12-as-usual-im-starting-here-md-ac8eec80eb-8d1944d998b0da52.jsonl",
+  "external_id": "7118196100871667712",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:17:33Z",
+  "metadata_hash": "fdb1742cab4582bd65736d23a46e54069dfa0d2653561f4713c3ca54f501ab8a",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-10-12T11:30:00.136000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-10-12-as-usual-im-starting-here.md",
+  "source_sha256": "3e590c09677c82ad5b3095292b6f8b9feeb4ebdaefbdbba51dac555d8ad1f885",
+  "source_url": "https://www.linkedin.com/posts/olgasi_mindsetshift-salestips-dubairealestatetips-activity-7118196100871667712-UG_0"
+}

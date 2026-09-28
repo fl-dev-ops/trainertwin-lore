@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I almost gave up on my Dubai real estate career and went back home…",
+      "statement": "I almost gave up on my Dubai real estate career and went back home.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "But in Dubai, it felt like none of that mattered.",
+      "statement": "In Dubai, it felt like none of that mattered.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "1. My English was average.",
+      "statement": "My English was average.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "it was almost no Russian speaking clients back then.",
+      "statement": "There were almost no Russian speaking clients back then.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "In a difficult market, your ability to influence people on the phone can change everything.",
+      "statement": "In a difficult market, your ability to influence people on the phone can change everything.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "But when I changed the way I spoke to clients, everything started to change.",
+      "statement": "When I changed the way I spoke to clients, everything started to change.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "This is exactly what I teach in my Academy and in my private sessions.",
+      "statement": "I teach in my Academy and in my private sessions.",
+      "topic": "sales training",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I’ll soon be doing a Live Zoom training on Cold Calling and Objection Handling.",
+      "statement": "I’ll soon be doing a Live Zoom training on Cold Calling and Objection Handling.",
+      "topic": "training approach",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post reflecting on personal experiences in the Dubai real estate market."
+}

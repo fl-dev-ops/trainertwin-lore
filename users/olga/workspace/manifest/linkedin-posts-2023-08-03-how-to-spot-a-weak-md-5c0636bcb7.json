@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-08-03-how-to-spot-a-weak-md-5c0636bcb7-18b57fbeb0b85ad3.jsonl",
+  "external_id": "7092840915815309314",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:14:03Z",
+  "metadata_hash": "9798d858da6a15b0bef79318ab3ca74abd46dc9ec0029ccb141db774a9f60b91",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-08-03T12:17:32.942000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-08-03-how-to-spot-a-weak.md",
+  "source_sha256": "2c9082cee5b99c635db4cc515d71d12d30f9d5955ea563ae7149e92ccb994fe2",
+  "source_url": "https://www.linkedin.com/posts/olgasi_how-to-spot-a-weak-sales-trainer-activity-7092840915815309314-fXKI"
+}

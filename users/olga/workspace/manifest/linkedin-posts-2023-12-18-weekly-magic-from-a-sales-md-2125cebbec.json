@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-12-18-weekly-magic-from-a-sales-md-2125cebbec-456b31cf6570c0c2.jsonl",
+  "external_id": "7142355296886181888",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:52:23Z",
+  "metadata_hash": "1f6ca8cfed20c33168e683883b28aa5562f1bb5605211473693672804bcaa4d9",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-12-18T03:30:01.322000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-12-18-weekly-magic-from-a-sales.md",
+  "source_sha256": "7b2f2c4df28010e13ba9442f8a3a97ee5826f3ad94c1a6bddf63424738d0d0ae",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestipsandtricks-dubaisalestrainer-realestate-activity-7142355296886181888-9xNI"
+}

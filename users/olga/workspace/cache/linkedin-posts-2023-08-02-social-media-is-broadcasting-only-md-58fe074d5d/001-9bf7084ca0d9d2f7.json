@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Social media is broadcasting only the wins of real estate agents.",
+      "statement": "Social media is broadcasting only the wins of real estate agents.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "we have our red, yellow, and green zones in terms of the parts of the life we show on social media.",
+      "statement": "There are categorized zones representing different aspects of life shown on social media.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Red Zone - This may be everything related to your personal life, your family, spouse or your single life if that is so",
+      "statement": "The Red Zone includes personal life aspects that are shared on social media.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Yellow Zone - What are your fears when you are receiving ‘no’ from your clients, or when you are not wearing makeup or dressed to impress",
+      "statement": "The Yellow Zone relates to fears about showing vulnerability or failure to clients.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Green Zone - Your wins, your MRS or MR Perfect, when you’re always put together and know what to say.",
+      "statement": "The Green Zone consists of publicized successes and appearances.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source chunk discusses how real estate agents portray their lives on social media, categorizing their experiences into zones based on their visibility and personal expression."
+}

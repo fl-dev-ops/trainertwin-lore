@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-12-19-love-the-hook-and-the-md-a6cf69c8bf-fa7694986b54238f.jsonl",
+  "external_id": "7407810255734210560",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:01:38Z",
+  "metadata_hash": "f8a04a509635cb99db6215df4c1f0fd73280d768a3f285d8c47c016d623b637b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-19T15:53:15.426000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-19-love-the-hook-and-the.md",
+  "source_sha256": "fcde1eb820a2c0bce3182d5f43210280b90e7f0a4e2636919667b9cc5c21074b",
+  "source_url": "https://www.linkedin.com/posts/olgasi_want-to-be-on-a-top-rated-dubai-based-podcast-activity-7407810255734210560-op0d"
+}

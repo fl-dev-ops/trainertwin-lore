@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Here’s how the story really ended: 1,150,000 AED in personal commission.",
+      "statement": "1,150,000 AED in personal commission.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "what shifted her mindset, and what it’s like to earn the biggest money of your life",
+      "statement": "what shifted her mindset",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "what it’s like to earn the biggest money of your life …when you’ve never earned anything close before.",
+      "statement": "what it’s like to earn the biggest money of your life …when you’ve never earned anything close before.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Full story is live. Link in comments.",
+      "statement": "Full story is live.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post sharing a success story on earnings in real estate."
+}

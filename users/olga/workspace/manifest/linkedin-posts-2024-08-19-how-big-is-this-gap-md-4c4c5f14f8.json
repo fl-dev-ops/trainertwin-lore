@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8-411289d7f0adae47.jsonl",
+  "external_id": "7231155452766560256",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:29:44Z",
+  "metadata_hash": "3fce47d9ad7868417f605e5b2bd3b62200c3296f282b5e3dbca9920cae9c1514",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-08-19T04:30:08.311000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-08-19-how-big-is-this-gap.md",
+  "source_sha256": "68db13328a16eb74b2ba6292163db631122da0943f8812a312395fb2df5e8fc3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatetraining-salestraining-dubaiproperty-activity-7231155452766560256-vKSz"
+}

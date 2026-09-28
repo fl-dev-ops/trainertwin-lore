@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 2,
+  "evidence_count": 17,
+  "evidence_file": "linkedin-suryaumapathy2812-yaml-2f19b92b7a-ef07292f57c2b014.jsonl",
+  "external_id": null,
+  "extraction_signature": "9e7f3649ad77b0ba65dcc16d2c8baa3c2ddc8e108051a2043f4e4b19f047f3a9",
+  "ingested_at": "2026-09-27T19:31:49Z",
+  "metadata_hash": "9a89270c9e5c919da97f08c0e5535f7183dbd7a498de56ef802d1a0c2467551b",
+  "model": "openai/gpt-4o",
+  "published_at": null,
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/surya-umapathy/data/linkedin/suryaumapathy2812.yaml",
+  "source_sha256": "67270ff613160af77c784b9c318e47173a12aa95e2cfcad5716eb5ada2fa87c1",
+  "source_url": null
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "AI tools like KnockKnock can help real estate agents streamline administrative tasks and increase productivity.",
+      "qualification": "The benefits of AI tools are self-reported and lacking independent verification of efficacy.",
+      "support_ids": [
+        "youtube-transcripts-12-yaml-6db9d6703c:c001:e002:3d1eb56a",
+        "youtube-transcripts-12-yaml-6db9d6703c:c001:e003:263d50a6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some real estate agents wait months to receive their commissions from certain companies.",
+      "qualification": "This observation is self-reported and may not represent practices across all companies.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e001:488c9906"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Turning statements about budget objections into questions can help navigate client resistance.",
+      "qualification": "This approach may vary in effectiveness depending on context and client disposition.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e003:740d7626",
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e008:3238828e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding clients' needs before presenting properties is crucial for effective sales.",
+      "qualification": "The approach is advised but lacks specifics on implementation or measured outcomes.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e002:9a046823"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some real estate agents may face situations where they do not get paid for their work.",
+      "qualification": "This evidence is self-reported from a YouTube transcript and has not been independently verified.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e002:1d8963f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Closing a deal quickly can potentially expedite an agent's payment process.",
+      "qualification": "This insight is based on observed behavior mentioned in a YouTube transcript and is unverified.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c001:e003:21873e15"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents are advised to have a varied wardrobe, specifically at least one suit per day, totaling at least five suits, to maintain a professional appearance.",
+      "qualification": "This recommendation is part of advised content from a YouTube video and is not independently confirmed.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c002:e002:3e623336"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Smaller, focused teams within boutique agencies might lead to better performance results.",
+      "qualification": "This claim is observed in a YouTube transcript and lacks verification from other sources.",
+      "support_ids": [
+        "youtube-transcripts-15-yaml-33ce9f3040:c002:e003:3deeeced"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "every time I visit, I feel the change and advancement.",
+      "statement": "every time I visit, I feel the change and advancement",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The future is rapidly approaching in the country.",
+      "statement": "The future is rapidly approaching in the country.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post reflecting on a training trip to Riyadh, highlighting feelings of advancement in the region."
+}

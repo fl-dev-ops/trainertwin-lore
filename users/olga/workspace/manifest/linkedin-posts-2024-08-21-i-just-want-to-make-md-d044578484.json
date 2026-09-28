@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-08-21-i-just-want-to-make-md-d044578484-948079f2f62c20e0.jsonl",
+  "external_id": "7231865146166435840",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:30:05Z",
+  "metadata_hash": "e9f9796e1cf06b0d3e1dc78cbacbaa47f4ee269cb4b73b89ef73ca716288ba50",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-08-21T03:30:12.403000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-08-21-i-just-want-to-make.md",
+  "source_sha256": "15a01134069aaf33d094eeca763f35ef5521931e2950556facf39696e786b580",
+  "source_url": "https://www.linkedin.com/posts/olgasi_businessgoals-entrepreneurship-realestate-activity-7231865146166435840-g2In"
+}

@@ -1,0 +1,35 @@
+id: s43
+title: From I Hate Cold Calling to Closing deals
+date: '2025-08-29'
+source: From I Hate Cold Calling to Closing deals
+audio_file: From I Hate Cold Calling to Closing deals [lQ76sk7IuRE].mp3
+duration: "00:01:05"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 4
+turns:
+- t: "00:00:00"
+  speaker: '0'
+  text: >-
+    which advice she would give to herself just starting
+- t: "00:00:05"
+  speaker: '1'
+  text: >-
+    first of all, I think I would tell her, don't doubt yourself. You can do it. And the second probably
+    I would say, don't waste time yourself learning how to swim in the ocean, just hire a coach or a trainer
+    who will teach you how to swim, you know.
+- t: "00:00:24"
+  speaker: '1'
+  text: >-
+    So yeah, because instead of spending years and years trying to close a deal, you can get this experience
+    from someone who has already, uh, who already has like let's say ten years of experience in real estate.
+    She can help you, you know, just to reach your goal faster. Why do you need to pressure yourself even
+    by not knowing what you're doing what the hell you are doing
+- t: "00:00:56"
+  speaker: '1'
+  text: >-
+    find somebody who already knows, who already has achieved, you know, your goal and even more and by
+    that experience

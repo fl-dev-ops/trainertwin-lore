@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Clients Are Ghosting You after a Great Call or Presentation? You feel all went so well - and they just stop respondig on your calls and messages?",
+      "statement": "Clients can stop responding after a seemingly good call or presentation.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "One way to blame the LEADS - you know the Favorite -Leads are bad!",
+      "statement": "It is common to blame bad leads when clients ghost after a good meeting.",
+      "topic": "sales resistance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "However just being angry and upset with clients will not make you more money - what to do instead...",
+      "statement": "Being angry and upset with clients is not a productive way to respond to being ghosted.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "teaching_move",
+      "quote": "Will you recognise your own Mistakes here?",
+      "statement": "The author suggests that self-reflection on mistakes can help agents improve their client interactions.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "...I explained in my Live Client - Agent role play Call review.",
+      "statement": "The author offers a Live Client-Agent role play Call review as a learning opportunity.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing client engagement and strategies to improve communication after initial interactions."
+}

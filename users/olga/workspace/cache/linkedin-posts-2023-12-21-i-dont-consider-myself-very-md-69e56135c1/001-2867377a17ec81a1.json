@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I don't consider myself very effective. I feel like I'm still wasting too much time on repetitive tasks and lack automation.",
+      "statement": "I don't consider myself very effective.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "advice",
+      "quote": "One of my new rules that I'm applying religiously every workday is planning the next day ahead.",
+      "statement": "One of my new rules that I'm applying religiously every workday is planning the next day ahead.",
+      "topic": "daily schedule",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I keep sticky notes and a pencil on my nightstand, and before my nighttime reading, I jot down tomorrow's schedule with the points I have to complete.",
+      "statement": "I keep sticky notes and a pencil on my nightstand, and before my nighttime reading, I jot down tomorrow's schedule.",
+      "topic": "daily schedule",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "style",
+      "quote": "In the morning, I stick the note on the board in my kitchen first thing, and this way, I reread the tasks again.",
+      "statement": "In the morning, I stick the note on the board in my kitchen first thing, and this way, I reread the tasks again.",
+      "topic": "daily schedule",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I believe the process of handwriting and rereading helps position it in long-term memory, at least for a day.",
+      "statement": "I believe the process of handwriting and rereading helps position it in long-term memory, at least for a day.",
+      "topic": "learning strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Plus, using a sticky note is convenient since my phone doesn't go with me to bed.",
+      "statement": "Plus, using a sticky note is convenient since my phone doesn't go with me to bed.",
+      "topic": "technology use",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Do you have a better system?",
+      "statement": "Do you have a better system?",
+      "topic": "systems improvement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A self-assessment post discussing personal effectiveness and task management strategies."
+}

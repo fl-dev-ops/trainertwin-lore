@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "that's when I understood that yeah I have kind of overcome this fear of making cold calls.",
+      "statement": "I understood that yeah I have kind of overcome this fear of making cold calls.",
+      "topic": "mindset shift",
+      "unit_id": "u000005"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I was so I I wasn't nervous even at all during that call.",
+      "statement": "I wasn't nervous at all during that call.",
+      "topic": "client engagement",
+      "unit_id": "u000005"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "it was not just about the real estate aspect, it was about the psychological aspect as well.",
+      "statement": "The coaching was not just about the real estate aspect, it was about the psychological aspect as well.",
+      "topic": "sales performance",
+      "unit_id": "u000006"
+    }
+  ],
+  "overview": "Transcript of a coaching session discussing overcoming fear of cold calls."
+}

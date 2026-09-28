@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "In 2023 If you do not exist online- you do not exist. And by saying that, I mean being a Creator, not a Consumer.",
+      "statement": "In 2023 If you do not exist online- you do not exist.",
+      "topic": "online presence",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "Launching your career online opens doors to a worldwide audience.",
+      "statement": "Launching your career online opens doors to a worldwide audience.",
+      "topic": "global visibility",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "Building an online presence requires creating content, which in turn motivates you to learn and grow.",
+      "statement": "Building an online presence requires creating content, which in turn motivates you to learn and grow.",
+      "topic": "content creation",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "Online platforms provide a powerful avenue to share your insights, experiences, and ideas.",
+      "statement": "Online platforms provide a powerful avenue to share your insights, experiences, and ideas.",
+      "topic": "amplifying impact",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "Establishing your digital presence allows you to craft your professional brand authentically.",
+      "statement": "Establishing your digital presence allows you to craft your professional brand authentically.",
+      "topic": "professional branding",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "fact_claim",
+      "quote": "The online world is brimming with opportunities, collaborations, and partnerships.",
+      "statement": "The online world is brimming with opportunities, collaborations, and partnerships.",
+      "topic": "expanding opportunities",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "Would you like HOW you can, in five simple steps, Launch your Career online and unlock endless possibilities for professional development and success?",
+      "statement": "Would you like HOW you can, in five simple steps, Launch your Career online?",
+      "topic": "career launch",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post discussing the importance of online presence for career development in 2023."
+}

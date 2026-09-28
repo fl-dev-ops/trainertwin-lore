@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I was one of those people as well.",
+      "statement": "I was one of those people as well.",
+      "topic": "lifestyle adjustments",
+      "unit_id": "u000052"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "there's bars, there's clubs, there's beach clubs, there's alcohol everywhere.",
+      "statement": "there's bars, there's clubs, there's beach clubs, there's alcohol everywhere.",
+      "topic": "Dubai lifestyle",
+      "unit_id": "u000052"
+    }
+  ],
+  "overview": "YouTube transcript discussing factors to consider before moving to Dubai for real estate jobs."
+}

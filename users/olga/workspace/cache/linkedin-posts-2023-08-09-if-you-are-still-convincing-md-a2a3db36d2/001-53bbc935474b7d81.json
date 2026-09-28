@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Communication is a science - a combination of behavioural psychology and neuroscience.",
+      "statement": "Communication is a science - a combination of behavioural psychology and neuroscience.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Despite cross cultural differences, we all make decisions the same way.",
+      "statement": "Despite cross cultural differences, we all make decisions the same way.",
+      "topic": "decision-making",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Single LinkedIn post discussing client communication in sales."
+}

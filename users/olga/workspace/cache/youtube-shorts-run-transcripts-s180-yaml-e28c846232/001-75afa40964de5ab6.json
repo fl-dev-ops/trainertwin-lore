@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "I'm real estate sales trainer.",
+      "statement": "Olga Semenenko is a real estate sales trainer.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "a lot of buyers, sellers, and the agent moving out of this fantastic country.",
+      "statement": "There is fear and panic among buyers, sellers, and agents in Dubai.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "you are someone, same as me, who decided to stay strong and be united with your future.",
+      "statement": "Staying strong and united with the future is important.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market.",
+      "statement": "Working strategies can be developed to thrive in any market.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Introduction to a new era in Dubai real estate by a sales trainer."
+}

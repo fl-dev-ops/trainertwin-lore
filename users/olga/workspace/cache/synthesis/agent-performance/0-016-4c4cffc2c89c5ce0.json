@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales agents often face internal fear that can negatively impact their performance and ability to close deals.",
+      "qualification": "The evidence is based on self-reported experiences and beliefs, not empirical data.",
+      "support_ids": [
+        "linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f:c001:e002:8586c185",
+        "linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f:c001:e005:896874da"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Aligning sales training with organizational structures may improve sales agent performance.",
+      "qualification": "This is an observational claim and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e002:413a6524"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding the customer's journey is crucial and cannot be replaced by mere CRM adoption.",
+      "qualification": "The claim suggests improvements beyond basic CRM usage without offering detailed evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e005:45a2d670"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent practice is necessary for sales performance improvement; short-term training programs are inadequate.",
+      "qualification": "This advice is metaphorical, likening sales skills acquisition to fitness training, and is not empirically tested.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e006:1821a0f4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Supporting clients' autonomy in language can help overcome sales resistance.",
+      "qualification": "This claim is not supported with specific data or studies to confirm its efficacy.",
+      "support_ids": [
+        "linkedin-posts-2024-08-14-language-that-supports-the-other-md-839f525c31:c001:e001:144dac1d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High-cost social media leads indicate potential inefficiencies if not handled by effective sales processes.",
+      "qualification": "The cost figures are mentioned without external verification, possibly as self-reported or anecdotal.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e001:eb030a66",
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e002:c21cdb06"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales agent assumptions can negatively affect customer engagement and lead to lost sales opportunities.",
+      "qualification": "The evidence is based on observed behavior and lacks broader empirical research.",
+      "support_ids": [
+        "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a:c001:e001:20ad30c0",
+        "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a:c001:e004:7251b9ea"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales agents need to take risks to overcome fear and improve sales performance.",
+      "qualification": "This advice is a belief and philosophical perspective rather than an empirically tested strategy.",
+      "support_ids": [
+        "linkedin-posts-2024-08-27-waiting-for-certainty-most-people-md-c105671be8:c001:e003:a29e6bbe"
+      ]
+    }
+  ]
+}

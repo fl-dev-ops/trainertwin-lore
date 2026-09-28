@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "work culture is like a property. If you don’t maintain it, it depreciates.",
+      "statement": "Work culture is like a property; if you don’t maintain it, it depreciates.",
+      "topic": "work culture",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "In real estate, human capital is the only asset that can truly compound over time, but only with intentional leadership.",
+      "statement": "Human capital is the only asset that can truly compound over time with intentional leadership.",
+      "topic": "human capital",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "if you are as a agency owner looking to significantly improve the agents retention rate - Team Building from qpeople - is a Must!",
+      "statement": "Team Building from qpeople is essential for improving agents' retention rate.",
+      "topic": "team building",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Great to see what qpeople is doing in leadership and team development.",
+      "statement": "Great to see what qpeople is doing in leadership and team development.",
+      "topic": "leadership development",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post expressing reflections on work culture and team development"
+}

@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Anecdotal evidence suggests agents in Dubai initially undervalue sales coaching and shift mindset over time to recognize its importance.",
+      "qualification": "The narratives are self-reported and reflect personal growth; not externally validated.",
+      "support_ids": [
+        "linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b:c001:e001:34415bb4",
+        "linkedin-posts-2025-11-20-or-at-least-that-was-md-6320a5a79e:c001:e001:62413cab"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship play significant roles in career development according to self-reported experiences.",
+      "qualification": "Predicated on personal anecdotes and not supported by empirical studies.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e002:0a83075b",
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e004:15b858c7",
+        "linkedin-posts-2026-03-13-what-do-i-even-say-md-fc245c717a:c001:e004:7913b97b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real coaching is argued to be more effective than self-help resources for career advancement.",
+      "qualification": "Based on self-reported experiences; lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d:c001:e007:80e0d805"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Emotional resilience is emphasized as crucial for overcoming challenges in early career stages.",
+      "qualification": "Primarily self-reported belief lacking empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268:c001:e003:1f16670c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client-centered sales approaches are considered beneficial for career progression.",
+      "qualification": "Based on observed practices, not empirically verified.",
+      "support_ids": [
+        "linkedin-posts-2025-12-11-how-to-start-in-dubai-md-e2037b59d0:c001:e003:d89bbb91"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Structured pipelines and consistent follow-up are strategic for career advancement in sales.",
+      "qualification": "These strategies stem from practical experience described in personal narratives.",
+      "support_ids": [
+        "linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d:c001:e007:80e0d805"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Listening is deemed more crucial than speaking to satisfy client needs in sales.",
+      "qualification": "The conclusion is based on observed behavior within sales contexts rather than empirical research.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-how-i-teach-agents-to-md-44406c0093:c001:e002:0164a2d3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling client discount requests effectively involves promoting the value of full-price offers.",
+      "qualification": "Advised strategy without substantial empirical evidence to support its efficacy.",
+      "support_ids": [
+        "linkedin-posts-2026-01-12-if-your-clients-always-ask-md-c57c706f9f:c001:e001:a2d95115"
+      ]
+    }
+  ]
+}

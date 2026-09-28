@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Companies like Emaar, Metropolitan, and Ax Capital are spending 650,000-1 000,000 dirhams per month on digital marketing.",
+      "statement": "Companies like Emaar, Metropolitan, and Ax Capital are spending 650,000-1,000,000 dirhams per month on digital marketing.",
+      "topic": "marketing strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I spent 33,000 dirhams on a marketing company that promised the world and delivered absolutely nothing.",
+      "statement": "I spent 33,000 dirhams on a marketing company that promised the world and delivered absolutely nothing.",
+      "topic": "personal experience",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Start leveraging what makes you different.",
+      "statement": "Start leveraging what makes you different.",
+      "topic": "client engagement",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I know this because I've been there.",
+      "statement": "I know this because I've been there.",
+      "topic": "marketing failures",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "When agencies tell you \"don't worry, we'll create a campaign for you,\" they're about to take your money and leave you sorely disappointed.",
+      "statement": "When agencies tell you 'don't worry, we'll create a campaign for you,' they're about to take your money and leave you sorely disappointed.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing lead generation strategies and marketing agency experiences in Dubai real estate."
+}

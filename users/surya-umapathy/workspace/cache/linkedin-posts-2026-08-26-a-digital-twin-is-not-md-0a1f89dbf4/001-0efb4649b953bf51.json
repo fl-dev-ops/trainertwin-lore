@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "A digital twin is not a copied mind. It is a bounded, testable model of how someone is likely to respond in specific situations.",
+      "statement": "A digital twin is not a copied mind. It is a bounded, testable model of how someone is likely to respond in specific situations.",
+      "topic": "AI development focus",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "teaching_move",
+      "quote": "We broke each interaction into three parts: 👉🏼 Observation - What happened so far?",
+      "statement": "We broke each interaction into three parts: observation, decision, and behaviour.",
+      "topic": "model behavior diversity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "One pattern stood out - The agenda was fixed, but the depth was adaptive.",
+      "statement": "The agenda was fixed, but the depth was adaptive.",
+      "topic": "model flexibility",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "We used DeepEval’s Conversation Simulator to place these learners in different contexts and interact with the trainer model,",
+      "statement": "They used DeepEval’s Conversation Simulator to test learner interactions.",
+      "topic": "model testing",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "A “conversation quality” score was not enough. We separated: 👉🏼 Learner fidelity — Did the learner stay true to its persona?",
+      "statement": "A 'conversation quality' score was not enough; fidelity must be separated into learner, decision, and behavior fidelity.",
+      "topic": "model fidelity",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "We did not just synthesize training data. We created a repeatable way to observe, challenge and improve a bounded model of trainer behaviour.",
+      "statement": "Created a repeatable way to observe, challenge and improve a bounded model of trainer behaviour.",
+      "topic": "model improvement",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "self_reported",
+      "kind": "advice",
+      "quote": "To model an expert, do not study only the expert. Model the people and situations that cause their judgment to appear.",
+      "statement": "To model an expert, do not study only the expert. Model the people and situations that cause their judgment to appear.",
+      "topic": "modeling strategy",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "The post discusses modeling trainer responses based on learner interaction data, emphasizing fidelity in simulations."
+}

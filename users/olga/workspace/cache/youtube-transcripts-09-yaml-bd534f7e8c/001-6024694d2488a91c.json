@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "isn't buying in a wrong area. It's listening to people",
+      "statement": "The biggest risk in Dubai real estate today isn't buying in a wrong area. It's listening to people whose job is to sell you one.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "involved in more than one billion deals",
+      "statement": "I have spent eleven years in Dubai real estate, been involved in more than one billion deals.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I am not an agent and I'm not trying to sell",
+      "statement": "I am not an agent and I'm not trying to sell you any specific area, developer, or even a unit.",
+      "topic": "personal reflection",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "not the one which gives you forty percent price growth in two years",
+      "statement": "A property in a stable established area is usually not the one which gives you forty percent price growth in two years.",
+      "topic": "real estate potential",
+      "unit_id": "u000006"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "unbiased advice away from the usual market pitch.",
+      "statement": "I will give you unbiased advice away from the usual market pitch.",
+      "topic": "investment opportunity",
+      "unit_id": "u000004"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "the unit that gives you strong rental income is usually not the one which doubles in price.",
+      "statement": "If you expect a steady rent cash flow, the unit that gives you strong rental income is usually not the one which doubles in price.",
+      "topic": "sales strategy",
+      "unit_id": "u000005"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the issue is buying an average unit in a place where average units are everywhere",
+      "statement": "Investing in average units in high supply zones will lead to poor negotiating power with tenants.",
+      "topic": "investment opportunity",
+      "unit_id": "u000009"
+    }
+  ],
+  "overview": "Transcript from a YouTube video discussing Dubai real estate market risks and investment strategies."
+}

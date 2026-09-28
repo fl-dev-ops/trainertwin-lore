@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-03-24-i-just-analyzed-both-md-46564ea739-1c9d4d04414ea756.jsonl",
+  "external_id": "7442145213546000385",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:06:00Z",
+  "metadata_hash": "74f531154c66d7781dcaa6b1d8c715cd96165684f55fa6c9bfa1ca35fb9cc3db",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-24T09:48:07.281000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-24-i-just-analyzed-both.md",
+  "source_sha256": "783252407ca9c816d4cd34065ac0a05e728e27995fcb53c5a563d714990648de",
+  "source_url": "https://www.linkedin.com/posts/olgasi_happy-monday-dubai-real-estate-as-if-the-activity-7442145213546000385-mYIc"
+}

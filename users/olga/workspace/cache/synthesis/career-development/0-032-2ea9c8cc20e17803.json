@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are perceived positively for career development but lack empirical validation.",
+      "qualification": "The perception is based on individual beliefs rather than verified research.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:u000001",
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:u000002"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real coaching is considered more effective than self-help resources for career advancement, according to anecdotal evidence.",
+      "qualification": "This perspective is anecdotal and lacks empirical support.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:u000029"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is identified as crucial for career growth, but evidence is based on self-reporting.",
+      "qualification": "Findings are derived from self-reported experiences without external validation.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:u000070"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mastering self-beliefs, consistency, and daily habits is emphasized for career success.",
+      "qualification": "The statement is advisory and lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e003:3c300472"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Face-to-face interactions are perceived as more effective for closing sales than online methods.",
+      "qualification": "These observations are self-reported and not empirically verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e001:0d59eed4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Courses offered for real estate agents aim to improve online sales skills by focusing on platforms and asking the right questions.",
+      "qualification": "This is an offering, not a validation of efficacy.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e005:2a419856"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Envisioning future aspirations as a driver for present actions is suggested as important for career development.",
+      "qualification": "The suggestion is foundational but lacks concrete evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-09-13-why-your-future-defines-your-md-5ac26f03cb:c001:e001:d7d8d07d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Challenges in reading emotions through screens are acknowledged when engaging with clients online.",
+      "qualification": "Based on observational reporting without empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e007:e5383954"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "The best skill I ever got is being able to walk on the streets like this with a camera in my hand and feel myself.",
+      "statement": "The best skill I ever got is being able to walk on the streets like this with a camera in my hand and feel myself.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I believe that this is the most underrated money making skill in twenty twenty six, twenty seven and and going forward.",
+      "statement": "I believe that this is the most underrated money making skill in twenty twenty six, twenty seven and and going forward.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "But your brain is telling you they do judge you, right?",
+      "statement": "Your brain is telling you they do judge you, right?",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "advice",
+      "quote": "The way I trick myself, because I still need to do that, is",
+      "statement": "The way I trick myself, because I still need to do that, is...",
+      "topic": "personal effectiveness",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A YouTube short discussing the confidence gained from filming in public and its perceived value in making money."
+}

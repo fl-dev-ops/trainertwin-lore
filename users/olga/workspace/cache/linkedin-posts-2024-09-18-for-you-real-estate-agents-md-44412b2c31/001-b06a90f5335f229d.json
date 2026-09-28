@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "the first AI Assistant which was designed with REAL ESTATE Professionals.",
+      "statement": "Introducing the first AI Assistant which was designed with REAL ESTATE Professionals.",
+      "topic": "AI tools",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "AI Assistant can help you increase your income and free up more time in this video.",
+      "statement": "AI Assistant can help you increase your income and free up more time.",
+      "topic": "income increase",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Let me know your feedback in a comments or DMs.",
+      "statement": "Let me know your feedback in a comments or DMs.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post promoting an AI Assistant for real estate professionals."
+}

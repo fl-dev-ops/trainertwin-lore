@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "A type of personality, and I want to think that me is A type of personality, someone who wants to voice their concern, who is not afraid of confrontation.",
+      "statement": "When pushed by salespeople, individuals may choose to resist or avoid confrontation instead of expressing their true feelings.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000017"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "when the client is just blocking you or not responding to your messages, is it a fight or flight? Flight.",
+      "statement": "Clients may go into 'flight' mode when they do not respond to sales agents, indicating a form of sales resistance.",
+      "topic": "client interaction",
+      "unit_id": "u000012"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "ninety percent of uh of the information as a human being we got from the tonality in body language.",
+      "statement": "Ninety percent of communication is derived from tonality and body language, which triggers responses in the nervous system.",
+      "topic": "client engagement",
+      "unit_id": "u000010"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "I know you're just looking. If things change I'm going to be just just down there um checking the the the new collection.",
+      "statement": "Flip the conversation by acknowledging the client's current state, which can reduce their resistance.",
+      "topic": "closing techniques",
+      "unit_id": "u000034"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "how we can work with the human behavior.",
+      "statement": "Salespeople need to change how they approach clients to better navigate human behavior and resistance.",
+      "topic": "sales strategy",
+      "unit_id": "u000030"
+    }
+  ],
+  "overview": "YouTube video transcript discussing sales resistance in real estate."
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-12-18-stop-asking-what-every-other-md-ab1d93542d-ab67f8e4cedb42f7.jsonl",
+  "external_id": "7407271368955686912",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:01:32Z",
+  "metadata_hash": "99cf47ab98916c513abd8ffc3a2a94dd7a02a40e9afa4b97dba062c67351d1c1",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-18T04:11:54.806000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-18-stop-asking-what-every-other.md",
+  "source_sha256": "7cffc50ab009bd8b202daa217d9867d935db6c28bf468b50665b68094e22b987",
+  "source_url": "https://www.linkedin.com/posts/olgasi_coldcallingdubai-coldcallingtraining-coldcallingtips-activity-7407271368955686912-cBfC"
+}

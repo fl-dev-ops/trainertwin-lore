@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "My new Off-plan training just Dropped.",
+      "statement": "My new Off-plan training just Dropped.",
+      "topic": "training announcement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post announcing a new training program by an author named Olgasi."
+}

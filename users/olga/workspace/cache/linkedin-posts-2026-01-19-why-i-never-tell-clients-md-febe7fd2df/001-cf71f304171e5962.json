@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "the moment you start telling clients what to think",
+      "statement": "When clients object, ask a question that makes them think instead of providing facts.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The psychology is simple: People believe their own conclusions",
+      "statement": "People believe their own conclusions way more than yours.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Why I never tell clients what to think",
+      "statement": "I never tell clients what to think; they end up thinking what I want.",
+      "topic": "persuasion technique",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "The moment you start telling clients what to think, their resistance goes up.",
+      "statement": "Clients often resist when told what to think, but engage more when asked questions.",
+      "topic": "objection handling",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "She realized her own procrastination pattern.",
+      "statement": "I guided a client to recognize her own procrastination pattern through questioning.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Excerpt from a LinkedIn post discussing client engagement strategies in sales."
+}

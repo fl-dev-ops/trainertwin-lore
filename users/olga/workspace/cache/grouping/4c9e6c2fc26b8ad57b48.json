@@ -1,0 +1,94 @@
+{
+  "groups": [
+    {
+      "name": "Real Estate Practices",
+      "topics": [
+        "pocket-listings",
+        "real-estate-insights",
+        "sales-activities-and-focus",
+        "sales-and-marketing",
+        "sales-and-testimonials",
+        "sales-and-value",
+        "sales-challenges-and-pressure",
+        "sales-ethics"
+      ]
+    },
+    {
+      "name": "Professional Development",
+      "topics": [
+        "professional-background",
+        "professional-skills",
+        "qualifications-for-hiring",
+        "resume-strategies",
+        "public-speaking-skills"
+      ]
+    },
+    {
+      "name": "Sales Strategies",
+      "topics": [
+        "sales-coaching-and-consistency",
+        "sales-confidence",
+        "sales-data-relevance",
+        "sales-dynamics",
+        "sales-effectiveness-and-improvement"
+      ]
+    },
+    {
+      "name": "Productivity and Self-Assessment",
+      "topics": [
+        "productivity-assessment",
+        "rejection-management",
+        "realities-of-expectation",
+        "response-quality"
+      ]
+    },
+    {
+      "name": "Communication Techniques",
+      "topics": [
+        "questioning-techniques",
+        "role-playing-in-training",
+        "promotion-strategy",
+        "promotional-visibility"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "topics": [
+        "product-development",
+        "program-structure",
+        "project-management"
+      ]
+    },
+    {
+      "name": "Market Awareness",
+      "topics": [
+        "regional-tensions",
+        "platform-specifics"
+      ]
+    },
+    {
+      "name": "relocation-process",
+      "topics": [
+        "relocation-process"
+      ]
+    },
+    {
+      "name": "salary-and-employment-statistics",
+      "topics": [
+        "salary-and-employment-statistics"
+      ]
+    },
+    {
+      "name": "problem-solving",
+      "topics": [
+        "problem-solving"
+      ]
+    },
+    {
+      "name": "profile-link",
+      "topics": [
+        "profile-link"
+      ]
+    }
+  ]
+}

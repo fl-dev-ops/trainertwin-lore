@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Brokers can offer clients options like payment delays and take a supportive role in the process.",
+      "qualification": "This is self-reported advice from a broker's perspective, not independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s211-yaml-3d61e76985:c001:e001:f2e882dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients are often perceived to seek the cheapest option possible.",
+      "qualification": "This is a perceived behavior and lacks empirical evidence or counterexamples.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s24-yaml-dee3b532d6:c001:e001:b63ee153"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients feel more open to listening when they feel understood and not pressured.",
+      "qualification": "This finding is based on self-reported beliefs, without empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s26-yaml-874b88cd5a:c001:e004:b0e26046"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Winning an argument with a client does not necessarily secure a deal; in fact, it can threaten it.",
+      "qualification": "Observed in practical situations, but not universally valid without broader context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s41-yaml-217124ee0a:c001:e001:589ad859",
+        "youtube-shorts-run-transcripts-s41-yaml-217124ee0a:c001:e003:087223e0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Selling or renting property involves distinct outreach strategies and levels of interest.",
+      "qualification": "Factual claim based on observed behavior; could vary by market and location.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s36-yaml-870d92c6cf:c001:e002:55088815"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Having supportive communities like Telegram groups can be beneficial for real estate agents facing market changes.",
+      "qualification": "This is a self-reported initiative and may not represent the effectiveness of such communities.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s35-yaml-de8e81409c:c001:e003:c9b829f0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A lack of guidance leads everyone to act individually, which can be detrimental to cohesive client engagement.",
+      "qualification": "Observation of existing behavior in the absence of guidance; anecdotal without systemic evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s34-yaml-582379029e:c001:e006:049456b3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Arguments with clients can arise when they feel threatened, impacting client relationships negatively.",
+      "qualification": "Based on observed behavior in client interactions, suggesting relational dynamics need careful handling.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s41-yaml-217124ee0a:c001:e003:087223e0"
+      ]
+    }
+  ]
+}

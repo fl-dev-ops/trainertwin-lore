@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Today I had a strategy session with Olga and I am blown away. She gave over an hour of pure insight-honest, focused and incredibly intuitive about where I am at and what I need.",
+      "statement": "I am blown away. She gave over an hour of pure insight-honest, focused and incredibly intuitive about where I am at and what I need.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000140"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Olga’s training is one of the most impactful learning experiences I’ve had. Going through Neuro-Emotional Persuasion gave me a much deeper understanding of how people make decisions and how to connect with them authentically.",
+      "statement": "Olga's training is one of the most impactful learning experiences I’ve had.",
+      "topic": "teaching approach",
+      "unit_id": "u000150"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "She doesn’t just teach “scripts”—she teaches connection, presence, and confidence.",
+      "statement": "He doesn't just teach scripts—she teaches connection, presence, and confidence.",
+      "topic": "observed behavior",
+      "unit_id": "u000180"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "she has an exceptional ability to share her knowledge clearly and practically.",
+      "statement": "Olga has an exceptional ability to share her knowledge clearly and practically.",
+      "topic": "sales training effectiveness",
+      "unit_id": "u000170"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Her training sessions are invaluable - you are always guaranteed to walk away with actionable insights and new strategies.",
+      "statement": "You are always guaranteed to walk away with actionable insights and new strategies.",
+      "topic": "career growth",
+      "unit_id": "u000160"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Her understanding about Dubai real estate market (and people!) is razor-sharp.",
+      "statement": "Her understanding about Dubai real estate market (and people!) is razor-sharp.",
+      "topic": "real estate coaching",
+      "unit_id": "u000140"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Olga’s training sessions are always engaging, insightful, and tailored to real challenges brokers face every day.",
+      "statement": "Olga’s training sessions are always engaging, insightful, and tailored to real challenges brokers face.",
+      "topic": "teaching approach",
+      "unit_id": "u000170"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "her dedication and professionalism make her a true asset to anyone looking to build a strong foundation and excel in Dubai real estate.",
+      "statement": "Olga is a true asset to anyone looking to build a strong foundation and excel in Dubai real estate.",
+      "topic": "personal growth",
+      "unit_id": "u000170"
+    }
+  ],
+  "overview": "This source is a compilation of recommendations for Olga, highlighting her effectiveness as a sales trainer and coach in the real estate market, particularly in Dubai."
+}

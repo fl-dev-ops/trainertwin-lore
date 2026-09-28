@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Self-assessment is encouraged as a starting point in career development, particularly for real estate professionals in Dubai.",
+      "qualification": "Advice to perform self-assessment is self-reported and unverified, requiring more experts for validation.",
+      "support_ids": [
+        "linkedin-posts-2024-02-06-this-one-time-you-can-md-fe1810458a:c001:e004:dd61d949"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Being able to grow alongside colleagues or partners is valued for personal growth and success.",
+      "qualification": "The evidence is self-reported and based on personal experience, not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-02-15-how-to-be-successful-in-md-e8b446c5d1:c001:e003:8fcfe84d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement and direct interactions with applicants are advised for job listings posted on social media.",
+      "qualification": "Encouragement for engagement is generally observed but may not always result in qualified applications.",
+      "support_ids": [
+        "linkedin-posts-2024-03-18-about-the-job-that-i-md-299dfbedfe:c001:e001:2cc5d30c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Language skills are crucial, especially in sales within Dubai's diverse real estate market.",
+      "qualification": "Claim on the importance of language skills is advised but lacks independent testimony or broader market analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-04-15-my-english-is-not-good-md-5f48b1ce7e:c001:e003:529e1001"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The concept of learning by doing is advocated as an effective approach for career development, particularly within sales training.",
+      "qualification": "The efficacy of learning by doing isn't independently verified or compared with other training methods.",
+      "support_ids": [
+        "linkedin-posts-2024-04-24-learning-by-doing-salestraining-dubairea-md-d5bb25cf72:c001:e001:bbe88c1d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There’s an emphasis on finding passion and working with individuals who allow personal authenticity as a formula for success.",
+      "qualification": "The claim about passion and personal authenticity is self-reported and lacks broader verification or comparison.",
+      "support_ids": [
+        "linkedin-posts-2024-02-15-how-to-be-successful-in-md-e8b446c5d1:c001:e001:a9dab1cd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering training or knowledge in exchange for engagement on social media is practiced in career-building strategies.",
+      "qualification": "No information is provided about the specifics of the training or its efficacy.",
+      "support_ids": [
+        "linkedin-posts-2024-02-19-if-you-are-a-real-md-607df8c14f:c001:e003:7255ee01"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reflecting on one’s differentiation as a sales agent can enhance understanding of personal value in the market.",
+      "qualification": "Reflective practice is self-reported and not independently verified for effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-04-16-why-should-a-client-choose-md-59c32a3671:c001:e002:a9d1e568"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "LiveItUp Real Estate Growth Academy offers strategies to overcome objections in sales.",
+      "qualification": "The claim is promotional and self-reported, without external validation of these strategies.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-how-to-overcome-this-and-md-582c8387fb:c001:e001:334fdc3c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding and addressing underlying concerns can help prevent losing deals.",
+      "qualification": "Advice given is strategic but lacks empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-if-you-keep-hearing-i-md-6c3e7dce41:c001:e002:cebc9e1a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Builders give discounts out of necessity, not preference, indicating weak market positions.",
+      "qualification": "The statement is observational without contextual data to support broad claims.",
+      "support_ids": [
+        "linkedin-posts-2026-01-12-if-your-clients-always-ask-md-c57c706f9f:c001:e002:f928ccd3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales can falter in the follow-up stages or when agents aren't controlling presentations.",
+      "qualification": "This is an observed claim requiring more systematic study to confirm its prevalence.",
+      "support_ids": [
+        "linkedin-posts-2026-02-21-if-youre-a-dubai-real-md-5297fc9fc3:c001:e002:9504770c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "New agents can achieve significant earnings shortly after starting if given proper guidance.",
+      "qualification": "The claim is demonstrated through a single anecdotal example, limiting generalization.",
+      "support_ids": [
+        "linkedin-posts-2026-01-08-new-agent-liza-was-md-4de9dd668d:c001:e002:0cf8eedd",
+        "linkedin-posts-2026-01-08-new-agent-liza-was-md-4de9dd668d:c001:e003:d97540b6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using emotional intelligence in sales outreach can be advantageous.",
+      "qualification": "The observation is anecdotal and lacks multiple perspectives or extensive case studies.",
+      "support_ids": [
+        "linkedin-posts-2025-11-24-i-just-watched-an-agent-md-9be23ac3ad:c001:e002:6bfb6278"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dead leads can be valuable, as agencies may be sitting on missed opportunities worth millions.",
+      "qualification": "This is self-reported and hypothetical, requiring validation for broader applicability.",
+      "support_ids": [
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e001:1c23a084",
+        "linkedin-posts-2026-02-03-why-your-dead-lead-database-md-3cc91ba199:c001:e002:79f3741e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Financial stress negatively impacts sales performance by reducing confidence and increasing desperation.",
+      "qualification": "Evidence is self-reported with no external validation of the impact.",
+      "support_ids": [
+        "linkedin-posts-2025-11-27-your-financial-stress-is-making-md-35acbeaefb:c001:e001:3b9cd90c",
+        "linkedin-posts-2025-11-27-your-financial-stress-is-making-md-35acbeaefb:c001:e003:76b7e598"
+      ]
+    }
+  ]
+}

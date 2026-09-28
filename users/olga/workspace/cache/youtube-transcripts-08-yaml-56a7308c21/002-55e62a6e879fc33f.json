@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "get out in the fresh air, hot air. Have a walk, move around, it'll make you feel so much more better.",
+      "statement": "Get out in the fresh air, hot air. Have a walk, move around, it'll make you feel so much more better.",
+      "topic": "personal growth",
+      "unit_id": "u000070"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "if someone's been negative, move. Don't be around negative people because you'll always have good and bad days.",
+      "statement": "If someone's being negative, move. Don't be around negative people because you'll always have good and bad days.",
+      "topic": "support networks",
+      "unit_id": "u000090"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "we've had to remove these people from our culture because it's not a type of culture that we want to portray.",
+      "statement": "We've had to remove these people from our culture because it's not a type of culture that we want to portray.",
+      "topic": "company culture",
+      "unit_id": "u000090"
+    }
+  ],
+  "overview": "Transcript from a discussion on the challenges of being a real estate agent in Dubai, focusing on mental health, team culture, and personal coping strategies."
+}

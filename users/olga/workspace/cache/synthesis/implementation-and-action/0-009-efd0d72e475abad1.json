@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A significant number of new sales trainees are unfamiliar with the sales funnel model.",
+      "qualification": "This is a self-reported claim from a sales trainer, not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-12-21-im-explaining-this-simple-sales-md-6b6dd456a8:c001:e001:232088a8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personalized call scripts are offered as part of lead generation strategies.",
+      "qualification": "The effectiveness of these scripts is not evaluated or verified by third parties.",
+      "support_ids": [
+        "linkedin-posts-2023-12-26-dos-and-donts-on-a-md-1175dc417e:c001:e003:2ad38338"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding clients' perceptions and discussing underlying reasons is important in addressing market misconceptions.",
+      "qualification": "Advice involves ensuring accurate information is conveyed but lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-12-27-dubai-is-a-bubble-my-md-df18fa3379:c001:e002:37aa09a0",
+        "linkedin-posts-2023-12-27-dubai-is-a-bubble-my-md-df18fa3379:c001:e003:2e527584",
+        "linkedin-posts-2023-12-27-dubai-is-a-bubble-my-md-df18fa3379:c001:e004:cfb53c98"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is considered a marketing activity.",
+      "qualification": "Presented as a common perception without detailed examination or evidence of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-01-04-how-to-be-sussesful-with-md-9ea7169c93:c001:e001:5979f66c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The Reciprocity Rule is suggested as a long-term sales strategy, though in a hypothetical context.",
+      "qualification": "The rule's practical application and results are unverified and based on hypothetical scenario.",
+      "support_ids": [
+        "linkedin-posts-2024-01-09-reciprocity-rule-as-a-sales-md-c2e1f1ae6c:c001:e001:a7c16537"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "It's deemed ineffective to send clients long messages with project details and prices.",
+      "qualification": "This advice is targeted at increased engagement, yet lacks empirical study or confirmation.",
+      "support_ids": [
+        "linkedin-posts-2024-01-15-are-your-clients-ghosting-you-md-efc79da17c:c001:e002:08ef95c7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling price objections is a common challenge in sales.",
+      "qualification": "This insight is derived from self-reported experience of sales training sessions.",
+      "support_ids": [
+        "linkedin-posts-2024-01-16-this-training-was-a-special-md-0aaee2e815:c001:e001:38bc3423"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "If salespeople do not engage their clients, others will, emphasizing the importance of relationship-building.",
+      "qualification": "An assertion on competitive dynamics in sales, lacking external corroboration.",
+      "support_ids": [
+        "linkedin-posts-2024-01-22-my-clients-are-busy-i-md-84639aa094:c001:e002:140cc906"
+      ]
+    }
+  ]
+}

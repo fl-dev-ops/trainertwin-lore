@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I hear this a lot. And I used to agree… until I started actually listening to my own calls, back in 2016 when I was selling myself.",
+      "statement": "I used to agree that scripts don’t work.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "A good script isn’t a robotic checklist. It’s a navigation system.",
+      "statement": "A good script isn’t a robotic checklist; it’s a navigation system.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "It gives you structure, language, and confidence — without taking away your personality.",
+      "statement": "Scripts provide structure, language, and confidence without taking away personality.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "offering",
+      "quote": "So I’ve added my full script — the one I use in my trainings — to the link in my profile.",
+      "statement": "I’ve added my full script — the one I use in my trainings — to the link in my profile.",
+      "topic": "sales training",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Download it, test it, and see what happens when you stop guessing.",
+      "statement": "Test the script and see what happens when you stop guessing.",
+      "topic": "engagement strategy",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing the effectiveness of scripts in sales."
+}

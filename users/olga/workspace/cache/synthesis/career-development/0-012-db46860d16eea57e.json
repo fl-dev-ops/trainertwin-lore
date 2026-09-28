@@ -1,0 +1,44 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales managers in real estate often do not view training as necessary for their development.",
+      "qualification": "The claim is based on a specific context of the real estate industry and lacks broader empirical support.",
+      "support_ids": [
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e002:23eca283"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Physical activity is part of a proposed effective daily schedule for career development, starting at 7:00 AM.",
+      "qualification": "The evidence is self-reported and based on individual scheduling advice, not empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-09-29-the-daily-schedule-of-the-md-b6647ddc39:c001:e002:6795df50"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Role-playing scripts and 'Articulation Gymnastics' are suggested strategies for improving communication skills, integral to career progression.",
+      "qualification": "This advice is anecdotal and self-reported without empirical verification of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-09-29-the-daily-schedule-of-the-md-b6647ddc39:c001:e003:359ccf34"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training in real estate is compared to a pain relief strategy rather than a solution for unpredictable and inconsistent sales performance.",
+      "qualification": "Self-reported analogy that reflects a personal perspective rather than a generalizable conclusion.",
+      "support_ids": [
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e004:d2bf41a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication with clients is important due to an increasingly informed and skeptical consumer base.",
+      "qualification": "Evidence is based on self-reported advice from a single source and lacks broader empirical support.",
+      "support_ids": [
+        "linkedin-posts-2023-10-12-as-usual-im-starting-here-md-ac8eec80eb:c001:e001:90467cfe"
+      ]
+    }
+  ]
+}

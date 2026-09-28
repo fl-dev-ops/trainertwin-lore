@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Adjusting to a new environment can be challenging and require managing expectations, as it may differ significantly from initial perceptions.",
+      "qualification": "The evidence is self-reported, and the perception of differences may vary between individuals.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s143-yaml-25191d39ed:c001:e005:f2fb8942"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Detachment from outcome is a critical trait for success in sales, allowing individuals to maintain consistent efforts regardless of immediate results.",
+      "qualification": "The statement is based on self-reporting and may not be universally applicable to all sales environments.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s144-yaml-6986dc6b9a:c001:e001:d64f6b1d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective persuasion in social interactions relies on the principle of commitment and consistency.",
+      "qualification": "This is presented as an observed fact, but the specific context and effectiveness can vary.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s153-yaml-14dfda6aa0:c001:e003:8a6ad367"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients' decision-making processes can be misunderstood, leading to lost opportunities if salespeople pitch to non-decision-makers.",
+      "qualification": "This is presented as a fact claim, but lacks external validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s147-yaml-961282c84d:c001:e002:d06193c6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset is more crucial than the specific company for achieving success in the workplace.",
+      "qualification": "This is a self-reported belief and may not apply to all job roles or industries.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s161-yaml-9ec8b59732:c001:e001:dcd729ad"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal growth and self-improvement are important for adjusting to new professional environments.",
+      "qualification": "The claim stems from self-reported experiences and may vary based on individual circumstances.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e001:7cb86814"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The willingness to persist over the long term is essential for success in competitive fields such as real estate.",
+      "qualification": "This is based on self-reported beliefs from a specific field and may not transfer to all sectors.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s167-yaml-c297e423eb:c001:e001:1139b74c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Recognizing and accepting rejection without seeking validation is a valuable mindset for resilience in challenging industries.",
+      "qualification": "The advice is connected to self-reported perspectives and might differ in other contexts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s162-yaml-c5741d35b5:c001:e003:0ded58fd"
+      ]
+    }
+  ]
+}

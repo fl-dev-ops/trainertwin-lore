@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 10,
+  "evidence_file": "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e-32fd00f71e4342de.jsonl",
+  "external_id": "7299635404675203072",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:39:59Z",
+  "metadata_hash": "1c77546b9108fbc7f33d985c318164a1fb8e846be98b7192d32ac8aaa4c88e82",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-02-24T03:45:01.142000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-02-24-why-dubais-real-estate-market.md",
+  "source_sha256": "4b525a97ff4e7601ea8b1610a5e2f62780eecb5de574a91a7ef9f56fc9dd69c0",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-dubairealestate-realestatetraining-activity-7299635404675203072-mtzE"
+}

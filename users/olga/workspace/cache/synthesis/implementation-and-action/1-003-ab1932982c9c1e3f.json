@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales conversations should be led, not reactively managed, to improve sales outcomes.",
+      "qualification": "This represents advised best practices but lacks specific empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-04-30-not-what-to-say-but-md-532def10e7:c001:e002:74e53285"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling can lead to an increase in weekly listings, with reported improvement from 0 to 5 listings per week during a challenge.",
+      "qualification": "This is self-reported and not independently verified. Results may vary for different individuals or companies.",
+      "support_ids": [
+        "linkedin-posts-2024-05-28-result-of-1st-week-on-md-3a21dda4d9:c001:e001:f8139e55"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building a sustainable sales pipeline requires nurturing long-term relationships with potential sellers.",
+      "qualification": "Claim is self-reported; its implementation success may vary.",
+      "support_ids": [
+        "linkedin-posts-2024-07-17-how-to-actually-create-a-md-84a1707b72:c001:e002:22d5562b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is intense pressure in commission-only real estate roles, making detachment from sales outcomes challenging.",
+      "qualification": "The statement is self-reported and may reflect one individual's perspective.",
+      "support_ids": [
+        "linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a:c001:e001:250de051",
+        "linkedin-posts-2024-09-03-of-course-you-want-to-md-16efc27b3a:c001:e004:df3170e8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Managers can be resistant to change but conversions can improve significantly through new strategies.",
+      "qualification": "The case presents successful outcomes but is self-reported and lacks independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e001:3318a214",
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e004:ae5185e8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Informative and empowering processes are key to effective sales systems.",
+      "qualification": "This comes from an offering, which is potentially self-serving.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e006:9bc3d36e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales teams lacking in skill and technical knowledge hinder effective online selling.",
+      "qualification": "This is self-reported and context-specific.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-the-real-reason-your-dubai-md-325eacfcde:c001:e003:6934de23"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Short-term sales strategies are believed not to generate substantial revenue.",
+      "qualification": "Expressed as a belief, limiting reliability without broader market evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-05-09-do-you-really-understand-your-md-90af976bf9:c001:e003:d93082cc"
+      ]
+    }
+  ]
+}

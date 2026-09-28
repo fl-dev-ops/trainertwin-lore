@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Selling effectively online involves understanding client psychology in addition to technology mastery.",
+      "qualification": "This is based on a single source and is not verified by independent data or studies.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-md-cfe8d2faa5:c001:e004:a9cc9b5a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Shifting one's mindset to 'that's not a problem' can aid in handling client objections.",
+      "qualification": "Advised approach and not independently validated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6:c001:e001:f85ce13b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling customer objections aggressively can create resistance and should be avoided.",
+      "qualification": "Advised approach and not independently validated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6:c001:e002:4fc614c1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "First sales commission in real estate can realistically take 3 to 6 months with intensive effort.",
+      "qualification": "Single observation and may vary by market conditions.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-3-to-6-months-realistic-md-8d0ca6b52f:c001:e001:d8d8a44b",
+        "linkedin-posts-2024-09-18-3-to-6-months-realistic-md-8d0ca6b52f:c001:e002:e91a4ec0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Using 'AND' instead of 'BUT' in overcoming objections may not always work with modern consumers.",
+      "qualification": "Observational rather than experimentally verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-19-how-to-handle-the-objections-md-c4e5ec9ff7:c001:e002:4b03069c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Making 150 dials a day is considered an intensive sales effort.",
+      "qualification": "Single source observation.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-3-to-6-months-realistic-md-8d0ca6b52f:c001:e002:e91a4ec0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In sales negotiations, vague responses from clients are a common challenge that needs specific strategies to address.",
+      "qualification": "Reported observation without specific strategies provided.",
+      "support_ids": [
+        "linkedin-posts-2024-09-23-why-is-it-too-expensive-md-b0bf2bc2b6:c001:e006:df39531f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Probing deeper by re-asking clients specific reasons for investment can yield more insights.",
+      "qualification": "Single advice statement without data-backed results.",
+      "support_ids": [
+        "linkedin-posts-2024-09-24-if-he-is-saying-md-89d6d012c4:c001:e003:7eb1eb16"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Monetary motivation is not considered a concrete goal in sales according to the source.",
+      "qualification": "This is an observed statement, not a universally accepted truth.",
+      "support_ids": [
+        "linkedin-posts-2024-08-21-i-just-want-to-make-md-d044578484:c001:e001:d5e176f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Waiting for certainty can lead to career hesitation and missed opportunities for professional growth, according to self-reporting.",
+      "qualification": "This is based on individual experience and may not apply universally.",
+      "support_ids": [
+        "linkedin-posts-2024-08-27-waiting-for-certainty-most-people-md-c105671be8:c001:e002:de69dcc2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-belief impacts sales performance more significantly than sales knowledge.",
+      "qualification": "This is a belief and there may be variance based on individual experiences.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e002:3347c8e2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Trainers may excel at specific tasks better than others, acknowledging strengths and weaknesses in training capabilities.",
+      "qualification": "This is a self-reported acknowledgment and might not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2024-09-02-ill-be-the-first-to-md-6ee40702d8:c001:e001:5d751b05"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mistakes in career can have long-lasting impacts, some of which may be irreversible.",
+      "qualification": "This is based on personal experience and may not reflect all situations.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e001:fc4daba9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An online academy supports continuous learning but doesn't fully replace the need for in-person training opportunities.",
+      "qualification": "This contrasts online with offline training benefits, highlighting limitations of solely digital learning.",
+      "support_ids": [
+        "linkedin-posts-2024-09-05-step-by-step-guide-to-my-online-md-baa2e01844:c001:e004:fd115376"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Experiential learning and practical application, as seen in practicing new questioning techniques, can enhance training outcomes.",
+      "qualification": "This advice is context-specific and contingent on appropriate application.",
+      "support_ids": [
+        "linkedin-posts-2024-09-04-how-one-of-my-clients-md-a06b17ad58:c001:e003:80a02980"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-reported career milestones reflect personal narratives rather than universally applicable truths.",
+      "qualification": "These insights are self-reported and indicative of this individual's journey rather than generalized career advice.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e005:5197a611"
+      ]
+    }
+  ]
+}

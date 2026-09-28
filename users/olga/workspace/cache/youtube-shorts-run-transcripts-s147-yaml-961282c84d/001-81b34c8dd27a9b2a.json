@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Please stop asking this question when you are trying to establish authority of your client.",
+      "statement": "Stop asking if the client is the decision maker when establishing authority.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "How many deals are lost just because the client are pitching, presenting, and then hoping for decisions from person who is not a decision maker altogether.",
+      "statement": "Many deals are lost because the presenter hopes for decisions from non-decision makers.",
+      "topic": "decision-making",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "if you want to learn which questions you will need to...",
+      "statement": "Instead of asking if they are the decision maker, ask about the decision-making process.",
+      "topic": "questioning technique",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Discussion on client engagement and decision-making in sales, presented in a casual manner."
+}

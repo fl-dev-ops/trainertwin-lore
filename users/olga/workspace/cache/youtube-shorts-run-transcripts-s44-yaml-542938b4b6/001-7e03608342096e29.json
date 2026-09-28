@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Nobody knew who I was. I was given a database.",
+      "statement": "Nobody knew who I was. I was given a database.",
+      "topic": "client engagement",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "changed for you in terms of, you know, understanding the market?",
+      "statement": "What changed for you in terms of, you know, understanding the market?",
+      "topic": "personal growth",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "A conversation about becoming a successful real estate agent, including insights into market understanding and personal experiences."
+}

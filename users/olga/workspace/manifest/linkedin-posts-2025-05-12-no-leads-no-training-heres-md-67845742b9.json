@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-05-12-no-leads-no-training-heres-md-67845742b9-39d85710f1e56fa8.jsonl",
+  "external_id": "7327712818286264321",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:43:23Z",
+  "metadata_hash": "29fb4f19afeea8393a85cda096265f055c6ab1929c6bc46be6bae1f66001135d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-05-12T15:14:38.200000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-05-12-no-leads-no-training-heres.md",
+  "source_sha256": "ef5fb870d0302cd1d046660c6a4ae934227b2ac143b567aa44a0be1f6fbdedd3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-leadgeneration-realestatesales-activity-7327712818286264321-ZFOV"
+}

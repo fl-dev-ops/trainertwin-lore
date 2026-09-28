@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Saudi Arabia Constructs Visionary Future: Billions in Riyals to Bring Sci-Fi Dreams to Life in Taif",
+      "statement": "Saudi Arabia has announced plans for a \"Science Fiction Space City\" in Taif.",
+      "topic": "investment opportunity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "The initial phase is backed by an investment of 5 billion Riyals ($1.3 billion)",
+      "statement": "The initial phase of the project is backed by an investment of 5 billion Riyals ($1.3 billion).",
+      "topic": "investment opportunity",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing Saudi Arabia's investment plans for futuristic projects in Taif."
+}

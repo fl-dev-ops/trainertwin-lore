@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales skills are crucial assets in uncertain real estate markets like Dubai.",
+      "qualification": "The evidence is from a single source and self-reported, which doesn't independently verify the claim.",
+      "support_ids": [
+        "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888:c001:e002:773da946"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The Neuro Emotional persuasion twist in the Questions framework is highlighted as beneficial for long-term memory retention in sales.",
+      "qualification": "The benefit is hypothetically described, with limited verification outside personal advocacy.",
+      "support_ids": [
+        "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888:c001:e003:94b00aa4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence and hard work were key in achieving success in Dubai's real estate market.",
+      "qualification": "This is based on self-reported experience and lacks diversified verification or data.",
+      "support_ids": [
+        "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888:c001:e005:1e2dd2e7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The adjustment of sales processes, pricing conversations, and agent training is necessary in changing market conditions.",
+      "qualification": "The finding is narrated by a single source, potentially skewing broader applicability without external validation.",
+      "support_ids": [
+        "linkedin-posts-2026-05-26-i-negotiated-my-rent-down-md-1799d39385:c001:e005:e04a4d1a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Despite challenging market shifts, companies still actively generate leads through marketing.",
+      "qualification": "This observation needs substantiation from broader evidence to ensure its perennial relevance.",
+      "support_ids": [
+        "linkedin-posts-2026-05-26-i-negotiated-my-rent-down-md-1799d39385:c001:e007:9e0e3b9a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Incorrect sales management can severely impact team performance and sales culture.",
+      "qualification": "The causality implied here may require deeper analysis to discern other contributing factors.",
+      "support_ids": [
+        "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:c001:e001:dd9b6a64"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Past attitudes of landlords and sellers reflect resistance to adapting to market realities, affecting price negotiations.",
+      "qualification": "This is an observed trend that presumes general applicability without extensive survey data.",
+      "support_ids": [
+        "linkedin-posts-2026-05-26-i-negotiated-my-rent-down-md-1799d39385:c001:e004:7aec6b3c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training combined with fresh leads is a strategy offered by real estate training academies to enhance agent performance.",
+      "qualification": "Based on a specific offer from a potentially biased source, broad effectiveness remains to be substantiated.",
+      "support_ids": [
+        "linkedin-posts-2026-05-18-just-training-is-not-enough-md-bf403a903a:c001:e003:b25e47d0"
+      ]
+    }
+  ]
+}

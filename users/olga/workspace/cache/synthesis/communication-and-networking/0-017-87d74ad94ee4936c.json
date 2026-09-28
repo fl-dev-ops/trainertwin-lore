@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Questions in engagement strategies can often lead to unexpected or inappropriate client requests.",
+      "qualification": "The evidence is self-reported on a YouTube video, not independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s41-yaml-217124ee0a:c001:e005:41736b94"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Marketing communications should be concise and phone-readable to maintain reader engagement.",
+      "qualification": "This advice is suggested but not tested or evidenced for effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s45-yaml-eca160f25a:c001:e002:7dda7c83"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement is enhanced by asking clients questions that prompt them to consider key decision factors.",
+      "qualification": "Statements are made in a guidance context, without quantitative backing or client feedback data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s46-yaml-bf8acc0e1a:c001:e002:eb3c2b16",
+        "youtube-shorts-run-transcripts-s79-yaml-9f84fb34a0:c001:e002:ec3e8b8f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding a client's emotional needs may provide greater value than financial incentives alone.",
+      "qualification": "This is a hypothetical scenario presented as advice, without substantiated outcomes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s62-yaml-bc30d67c6d:c001:e005:9812a2d1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effectively using scripts involves not only asking questions but understanding their purpose and following up appropriately.",
+      "qualification": "The implementation of these strategies lacks empirical evaluation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s79-yaml-9f84fb34a0:c001:e002:ec3e8b8f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communication should include elements to capture interest and encourage interaction.",
+      "qualification": "This is an advised approach without tested efficacy in the field.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s71-yaml-477b95f71f:c001:e002:8b82a3d6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement can be improved by altering perspectives on prior negative experiences.",
+      "qualification": "The strategy is recommended as a perspective change, but there are no studies or trials supporting its efficacy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s68-yaml-d28bfefa52:c001:e002:b737339f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Inquiring about client satisfaction with current services is part of addressing objections and creating opportunities.",
+      "qualification": "The advice was shared in a promotional context with no supporting data provided on outcomes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s49-yaml-76fccdeadc:c001:e002:06a03a4f"
+      ]
+    }
+  ]
+}

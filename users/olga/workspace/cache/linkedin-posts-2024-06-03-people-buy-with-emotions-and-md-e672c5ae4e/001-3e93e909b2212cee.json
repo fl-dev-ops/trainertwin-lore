@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "People buy with emotions and justify it with logic.",
+      "statement": "People buy with emotions and justify it with logic.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "how will you choose which one is for you?",
+      "statement": "Ask clients how they will choose between properties with the same numbers.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "what, besides the numbers, makes a significant difference for them.",
+      "statement": "Understand what makes a significant difference for clients beyond the numbers.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing emotional factors in sales."
+}

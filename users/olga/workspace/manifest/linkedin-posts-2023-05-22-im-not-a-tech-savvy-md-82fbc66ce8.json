@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-05-22-im-not-a-tech-savvy-md-82fbc66ce8-952b0b7e0b065994.jsonl",
+  "external_id": "7066423272279556096",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:12:48Z",
+  "metadata_hash": "250ced5fa5325652ec8e3d217ba8de13c5550bc69b3af5ce5c7cffb8f852bb39",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-05-22T14:43:15.907000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-05-22-im-not-a-tech-savvy.md",
+  "source_sha256": "af9055c7224a0296b63ce7e8152d9edc7a5d072d4be6d02155f59bf0586a3c92",
+  "source_url": "https://www.linkedin.com/posts/olgasi_giveaway-webdesigning-free-activity-7066423272279556096-j1g-"
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2025-04-29-want-to-become-a-top-performing-md-7f1b423215-47620b888b83e7e5.jsonl",
+  "external_id": "7322933135275372544",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:42:26Z",
+  "metadata_hash": "40b6160082334c2812722e8a0ed725c4f45cc5a271c6c9f9a43daf6147d8a49f",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-04-29T10:41:52.968000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-04-29-want-to-become-a-top-performing.md",
+  "source_sha256": "a57e52c0afd8551eee2fc4d8708d3ce621c191e29c1eb7e93e81bbd50b183a1a",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-dubairealestateagent-joinourteam-activity-7322933135275372544-gof4"
+}

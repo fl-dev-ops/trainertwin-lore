@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "True success is perceived as the value of one's abilities rather than monetary wealth.",
+      "qualification": "This is a self-reported belief and may not be universally accepted as a measure of success.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-if-tomorrow-money-disappeared-what-md-a7e869457a:c001:e004:a7a58c28"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling client objections should be viewed as addressing concerns rather than overcoming resistance.",
+      "qualification": "The evidence is hypothetical advice and its effectiveness may vary by context.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e003:4518513c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Continuous growth and evolution are valued as important personal and professional attributes.",
+      "qualification": "The statement is self-reported and represents the author's personal aspirations.",
+      "support_ids": [
+        "linkedin-posts-2025-03-03-dubai-the-future-that-never-md-75add3f943:c001:e002:3d72ce9c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Women's fight for the right to make choices is recognized and appreciated.",
+      "qualification": "The statement is presented as a fact claim but lacks specific historical evidence in the dataset.",
+      "support_ids": [
+        "linkedin-posts-2025-03-08-ladies-today-is-womens-daya-md-0b6d74d642:c001:e005:6c3362d8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A change in mindset involves preparing and returning with new perspectives.",
+      "qualification": "The notion is presented as advice and lacks third-party corroboration.",
+      "support_ids": [
+        "linkedin-posts-2025-03-13-true-or-false-big-deals-md-908b353652:c001:e003:ed754415"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Misinterpreting actions can lead to feeling lazy, indicating the importance of direction.",
+      "qualification": "The idea is self-reported and reflects personal belief rather than empirical study.",
+      "support_ids": [
+        "linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c:c001:e001:2d418d7d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Growth should be approached with stability rather than haste.",
+      "qualification": "This advice is hypothetical and context-dependent, varying across situations.",
+      "support_ids": [
+        "linkedin-posts-2025-04-03-to-every-new-real-estate-md-7ee8ad43d5:c001:e002:c33df08c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence is more crucial for success than inherent talent.",
+      "qualification": "While not empirically verified, the statement is a common motivational belief.",
+      "support_ids": [
+        "linkedin-posts-2025-04-04-18-minutes-a-day-thats-md-dee5e3474d:c001:e003:01e58ff6"
+      ]
+    }
+  ]
+}

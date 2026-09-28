@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-07-17-how-to-deal-with-the-md-fcf80de778-18f87c610dccca90.jsonl",
+  "external_id": "7351626745709494274",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:45:16Z",
+  "metadata_hash": "9ad3ffe98640d24161c7ab6f2a6667686fec72bdefe5ced487ab0e5399696f0e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-07-17T15:00:02.797000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-07-17-how-to-deal-with-the.md",
+  "source_sha256": "82e357e95df9d93dadeb627456746704a444e955d62b8b81504fc6ac73819418",
+  "source_url": "https://www.linkedin.com/posts/olgasi_coldcallingtrainingdubai-coldcalling-realestate-activity-7351626745709494274-2mMZ"
+}

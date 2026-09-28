@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I'm not happy to discuss this topic, but let's face the truth.",
+      "statement": "I'm not happy to discuss this topic",
+      "topic": "emotional stance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I'm not happy to discuss this topic, but let's face the truth.",
+      "statement": "let's face the truth",
+      "topic": "truthfulness",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A brief post expressing discomfort about discussing a sensitive topic yet emphasizing the need for honesty."
+}

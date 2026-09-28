@@ -1,0 +1,94 @@
+{
+  "groups": [
+    {
+      "name": "Professional Development and Branding",
+      "topics": [
+        "professional-branding",
+        "resume-and-relocation",
+        "qualifications-and-recruitment"
+      ]
+    },
+    {
+      "name": "Project and Infrastructure",
+      "topics": [
+        "project-and-infrastructure",
+        "project-management",
+        "road-infrastructure"
+      ]
+    },
+    {
+      "name": "Public Context and Perception",
+      "topics": [
+        "public-and-political-context",
+        "regional-conflicts-and-tensions"
+      ]
+    },
+    {
+      "name": "Sales Techniques and Challenges",
+      "topics": [
+        "sales-experience",
+        "sales-challenges-and-pressure",
+        "sales-mindset-and-approach",
+        "sales-coaching",
+        "sales-conversations-and-interaction",
+        "sales-objections",
+        "rejection-and-resistance-in-sales",
+        "sales-and-fear-objections",
+        "sales-focus",
+        "role-play-and-positioning",
+        "sales-activities"
+      ]
+    },
+    {
+      "name": "Sales Performance and Management",
+      "topics": [
+        "sales-improvements-and-potential",
+        "sales-management-and-team",
+        "sales-data-and-relevance",
+        "sales-effectiveness-and-metrics",
+        "return-on-investment-and-revenue"
+      ]
+    },
+    {
+      "name": "Real Estate Sector",
+      "topics": [
+        "real-estate",
+        "real-estate-and-mortgage-options",
+        "real-estate-offerings",
+        "real-estate-practices"
+      ]
+    },
+    {
+      "name": "Professional Background",
+      "topics": [
+        "professional-background"
+      ]
+    },
+    {
+      "name": "Program Structure and Offerings",
+      "topics": [
+        "program-structures"
+      ]
+    },
+    {
+      "name": "Communication and Interaction",
+      "topics": [
+        "questioning-techniques",
+        "response-quality",
+        "public-speaking"
+      ]
+    },
+    {
+      "name": "Economic and Salary Metrics",
+      "topics": [
+        "salary-statistics"
+      ]
+    },
+    {
+      "name": "sales-and-transactions",
+      "topics": [
+        "sales-and-transactions"
+      ]
+    }
+  ]
+}

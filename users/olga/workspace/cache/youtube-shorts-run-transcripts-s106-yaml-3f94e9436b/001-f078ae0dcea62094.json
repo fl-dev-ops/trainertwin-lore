@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "this is the mindset that you have to, um, cultivate in yourself.",
+      "statement": "Cultivating a specific mindset is necessary to make money regardless of the situation.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "I haven't seen that movie yet properly. Um, Big Short, uh, Movie Bud 2008.",
+      "statement": "The speaker has not seen the movie 'Big Short' properly yet, but cites it as an example.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "he was able to see what is coming.",
+      "statement": "Malcolm Burr was able to foresee market changes during the US housing crisis, leading to significant financial gain.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "he won approximately eight hundred million dollars.",
+      "statement": "Malcolm Burr made approximately eight hundred million dollars by acting against market consensus.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "if you as an agent do not see the leverage that can be used for your clients.",
+      "statement": "If agents do not see potential leverage for their clients, they will struggle with communication.",
+      "topic": "client engagement",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "Observations from a YouTube short discussing mindset and making money in any situation, with references to a well-known movie."
+}

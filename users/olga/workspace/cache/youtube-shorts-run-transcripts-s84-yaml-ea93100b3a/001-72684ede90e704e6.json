@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "ninety seven percent of people believe that in any sales situation, the salesperson is biased towards making a sale.",
+      "statement": "Ninety-seven percent of people believe that in any sales situation, the salesperson is biased towards making a sale.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "You're probably thinking, how do I become a salesperson that three percent of general public does trust?",
+      "statement": "The speaker aims to be a salesperson that the three percent of the general public trusts.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "advice",
+      "quote": "I'm teaching sales as a process where the salesperson seeks out to understand the prospect, desired outcomes versus traditional selling.",
+      "statement": "Sales should be a process where the salesperson seeks to understand the prospect's desired outcomes.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "...versus traditional selling. Which is the process where you convincing the prospect to buy?",
+      "statement": "The distinction between understanding the prospect and traditional selling is emphasized.",
+      "topic": "sales process",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "YouTube short discussing client trust in sales."
+}

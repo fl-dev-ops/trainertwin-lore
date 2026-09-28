@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "in Dubai real estate. A 25,000 AED commission — at the time, it felt huge. And soon after, the",
+      "statement": "I closed my first big deal in Dubai real estate. A 25,000 AED commission — at the time, it felt huge.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Stop chasing it. Start investing in what makes you better. In 2016, I closed my",
+      "statement": "Stop chasing it. Start investing in what makes you better.",
+      "topic": "investment opportunity",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "My MBA? It helped me build the business and life I have today. And the shoes?",
+      "statement": "My MBA? It helped me build the business and life I have today.",
+      "topic": "professional background",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "it’s about operating on a different level, having a bigger mission, and enjoying every single day",
+      "statement": "It’s about operating on a different level, having a bigger mission, and enjoying every single day of the work I do.",
+      "topic": "life reflection",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "If you earned an extra 25,000 AED tomorrow — what would you invest it in? It’s always fascinating",
+      "statement": "I sometimes ask a simple question: If you earned an extra 25,000 AED tomorrow — what would you invest it in?",
+      "topic": "client engagement",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "if you’re thinking about your next investment — think beyond the price tag.",
+      "statement": "Think beyond the price tag.",
+      "topic": "mindset shift",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "LinkedIn post discussing personal investments and growth mindset."
+}

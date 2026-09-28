@@ -1,0 +1,47 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Building a network of repeat business partners is emphasized as crucial for career stability in real estate.",
+      "qualification": "The recommendation is based on advice without empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s70-yaml-dab9a414c3:c001:e002:688e017a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating urgency is a suggested strategy to enhance client engagement in sales processes.",
+      "qualification": "This finding is based on advised strategies rather than documented outcomes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s73-yaml-1596d25c04:c001:e001:a703aad9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication through asking questions is advised to improve client interaction and engagement.",
+      "qualification": "The advice lacks empirical support and is based on anecdotal evidence from real estate contexts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s71-yaml-477b95f71f:c001:e001:bc4fc7ea",
+        "youtube-shorts-run-transcripts-s80-yaml-d205dbdd2b:c001:e001:9ec8fd05",
+        "youtube-shorts-run-transcripts-s83-yaml-6c61620fd4:c001:e001:c9d36624"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sellers in Dubai are free to work with multiple agents, without exclusive obligations, impacting agent strategy.",
+      "qualification": "This observation is self-reported rather than independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s75-yaml-e5b3b20360:c001:e002:5cc9778d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal reflection and visualization can enhance motivation and precision in decision-making.",
+      "qualification": "These findings are based on individual self-reporting and lack broader empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s77-yaml-dd8aa3f9c3:c001:e001:b6788e65",
+        "youtube-shorts-run-transcripts-s77-yaml-dd8aa3f9c3:c001:e002:6a09b29f"
+      ]
+    }
+  ]
+}

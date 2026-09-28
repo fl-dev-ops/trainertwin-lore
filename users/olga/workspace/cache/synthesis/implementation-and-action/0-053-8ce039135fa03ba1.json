@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies should involve clients feeling responsible in their decisions and consider their hesitations.",
+      "qualification": "This is observed and advised but not independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e002:9d5f2960",
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e005:b54089a3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate sales processes typically require at least six months before results are apparent, with potential variability.",
+      "qualification": "Self-reported insights might reflect individual experience rather than industry standard.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s167-yaml-c297e423eb:c001:e002:24597360",
+        "youtube-shorts-run-transcripts-s167-yaml-c297e423eb:c001:e004:6908d0e0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging clients in conversation has been observed to improve meeting attendance.",
+      "qualification": "The effectiveness of engagement strategies can vary based on client behavior.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s168-yaml-8e1275b229:c001:e002:cb436b2b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training programs are reportedly beneficial for handling difficult clients.",
+      "qualification": "Reported by one individual; broader efficacy is not confirmed.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s166-yaml-0ee5d71a27:c001:e001:1b283e77"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective objection handling involves rephrasing questions and is necessary in situations where cost objections arise.",
+      "qualification": "Advised and observed; efficacy may depend on client context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s171-yaml-58e67f499a:c001:e001:edb392e3",
+        "youtube-shorts-run-transcripts-s171-yaml-58e67f499a:c001:e002:9567194b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building authority and status with clients is suggested to enhance respect in professional relationships.",
+      "qualification": "Recommendation unverified for widespread applicability.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s174-yaml-3070932203:c001:e003:185ec2f7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Identifying and focusing on daily money-making activities is advised for sales success.",
+      "qualification": "Advice; not necessarily equates to universal sales success.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s175-yaml-8d74cedab2:c001:e002:9083da66"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The experience of sales professions may differ substantially between locations, such as Dubai presenting unique challenges.",
+      "qualification": "Self-reported experiences may not reflect all relocations or industry norms.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e005:a88d751b",
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e006:6d38e10c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Ghosting is a concern in sales interactions, and contemporary sales tactics are suggested to mitigate this.",
+      "qualification": "The information is drawn from a social media post and may be based on anecdotal or self-reported experiences.",
+      "support_ids": [
+        "instagram-posts-2026-08-24-hes-renting-your-4m-off-plan-md-82a6d29628:c001:e003:2f7d9052"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Common sales objections include 'I need to think about it' and 'Now it's not the right time.'",
+      "qualification": "This reflects observed objections but does not provide detail on how frequently they occur.",
+      "support_ids": [
+        "instagram-posts-2026-09-15-tired-of-i-need-md-a1b2c2f98a:c001:e001:8831f2ad"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents are advised to maintain a sense of humor and value their reputation over money.",
+      "qualification": "Such advice may be subjective and its effectiveness might vary across different sales environments.",
+      "support_ids": [
+        "instagram-posts-2026-09-20-its-not-a-join-this-md-94b3c64bf1:c001:e001:596635ed"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A system has been proposed for off-plan closing and involves sharing leads of serious investors.",
+      "qualification": "Details of the system's effectiveness are not provided.",
+      "support_ids": [
+        "instagram-posts-2026-09-20-its-not-a-join-this-md-94b3c64bf1:c001:e002:0c8f934e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Everything done in life, including financial transactions, is considered an investment of time and money.",
+      "qualification": "This statement reflects a perspective rather than a specific sales strategy.",
+      "support_ids": [
+        "instagram-posts-2026-09-24-roi-from-tony-robbins-unleash-md-f48d0a11b4:c001:e003:ab10f618"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "To enhance sales, clarifying one's niche and focusing on a target market is advised.",
+      "qualification": "The statement is theoretical advice and may not account for dynamic market changes.",
+      "support_ids": [
+        "linkedin-posts-2023-04-25-i-discovered-this-with-my-md-325f5166eb:c001:e005:7730f17d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Lack of consumer understanding of product benefits is a reason for not buying.",
+      "qualification": "This reason is common in sales theories but supporting data specific to this context is not provided.",
+      "support_ids": [
+        "linkedin-posts-2023-04-25-i-discovered-this-with-my-md-325f5166eb:c001:e004:27cc77db"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an acknowledgment of discomfort associated with cold calling in sales.",
+      "qualification": "The understanding of discomfort is self-reported and does not include broader sales team perspectives.",
+      "support_ids": [
+        "linkedin-posts-2023-05-04-have-you-ever-felt-uncomfortable-md-bd77f8310d:c001:e003:0938aefb"
+      ]
+    }
+  ]
+}

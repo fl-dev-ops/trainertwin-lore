@@ -1,0 +1,52 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales managers in the real estate industry often do not consider training as essential for themselves.",
+      "qualification": "The evidence is based on a belief from a single source.",
+      "support_ids": [
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e002:23eca283"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Management's active involvement is crucial as it directly impacts whether agents revert to old habits.",
+      "qualification": "This is an observed claim from the source material.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e003:124caf54"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "For effective sales management, managers should have concrete strategies rather than relying on vague advice.",
+      "qualification": "The evidence is presented as advice in a hypothetical context.",
+      "support_ids": [
+        "linkedin-posts-2023-10-06-sales-training-effectiveness-whats-holdi-md-4b9f6c3326:c001:e003:e4d154a6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Leadership is more about mindset than holding a management position.",
+      "qualification": "This finding is based on an observation regarding attitudes toward leadership roles.",
+      "support_ids": [
+        "linkedin-posts-2025-11-06-i-just-wrote-this-commenting-md-bf48780919:c001:e005:1febb457"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Exceptional leadership, exemplified by an individual, is believed to significantly benefit companies.",
+      "qualification": "This is an observed fact claim but lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-01-06-any-company-will-benefit-greatly-md-71d3eee937:c001:e001:8d8cde4e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There are positive perceptions of initiatives by organizations like qpeople in leadership and team development.",
+      "qualification": "This is self-reported with no external verification.",
+      "support_ids": [
+        "linkedin-posts-2026-02-23-thank-you-tarun-ahimaz-and-md-d080be2402:c001:e004:8effee0a"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Joining a coaching program can potentially increase sales by at least 50%, according to anecdotal claims.",
+      "qualification": "This is a self-reported claim without empirical data to support it.",
+      "support_ids": [
+        "linkedin-posts-2023-10-31-true-statistics-salespeople-do-not-md-b7960efd7a:c001:e002:ae20523e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in personal and sales skills is perceived as crucial for career development.",
+      "qualification": "This perception is based on self-reported experiences without empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-10-31-true-statistics-salespeople-do-not-md-b7960efd7a:c001:e004:1bac84d9",
+        "linkedin-posts-2023-11-07-how-much-have-you-invested-md-43349a2fc2:c001:e003:547f5231"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective client communication methods, such as using video or audio messages instead of text, are considered underutilized in sales.",
+      "qualification": "The advice lacks empirical evidence and is based on subjective observation.",
+      "support_ids": [
+        "linkedin-posts-2023-11-01-do-this-if-clients-are-md-eef147486e:c001:e001:66f86ba0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Phrasing such as 'I'm just reaching out' is advised over 'I'm following up' to avoid appearing needy to clients.",
+      "qualification": "This is subjective advice with no empirical support provided.",
+      "support_ids": [
+        "linkedin-posts-2023-11-01-do-this-if-clients-are-md-eef147486e:c001:e003:bd944855",
+        "linkedin-posts-2023-11-01-do-this-if-clients-are-md-eef147486e:c001:e004:c70223e6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Changing mission statements can alter business dynamics, promoting collaboration over competition.",
+      "qualification": "These are self-reported beliefs without independent verification.",
+      "support_ids": [
+        "linkedin-posts-2023-11-03-well-you-may-think-its-md-57493a6e05:c001:e001:d316a403",
+        "linkedin-posts-2023-11-03-well-you-may-think-its-md-57493a6e05:c001:e005:f5891470"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Regular training trips are perceived to contribute to personal growth and a sense of change and advancement.",
+      "qualification": "This observation is self-reported and lacks empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-11-09-my-next-training-trip-to-md-1c411fbb69:c001:e001:b46391bf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In sales skill development, a large proportion of respondents reportedly give similar answers regarding their investment, implying common training patterns or needs.",
+      "qualification": "This claim is based on anecdotal evidence and lacks empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-11-07-how-much-have-you-invested-md-43349a2fc2:c001:e001:b2865f8d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Requesting feedback is seen as a means to improve personal and program effectiveness.",
+      "qualification": "The insights are based on personal beliefs and experiences with no empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e001:f626ff9e",
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e006:2d4a02de"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "the reality is: even well-known real estate firms in Dubai sometimes refuse to release the commissions their agents earned, using threats or excuses to delay payment.",
+      "statement": "real estate firms in Dubai sometimes refuse to release the commissions their agents earned",
+      "topic": "commission payment issues",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I’m looking for a strong lawyer or legal associate in Dubai with successful track records in commission recovery cases against real estate companies.",
+      "statement": "seeking recommendations for a lawyer or legal associate in Dubai",
+      "topic": "community engagement request",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "after that agent brought them over $1M in sales last year.",
+      "statement": "an agent brought over $1M in sales last year",
+      "topic": "agent's sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Someone who can partner with me long-term to support my agents whenever these situations happen.",
+      "statement": "find someone who can partner long-term to support agents in commission recovery",
+      "topic": "legal support",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post requesting assistance with real estate commission recovery."
+}

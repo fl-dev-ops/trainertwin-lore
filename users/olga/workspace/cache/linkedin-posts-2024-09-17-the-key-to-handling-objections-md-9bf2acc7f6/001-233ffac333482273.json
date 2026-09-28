@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "The key to handling objections is to.... Manage your OWN reaction! Before you dive into handling objections, shift to a that's not a problem mindset.",
+      "statement": "Shift to a that's not a problem mindset.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Approaching client concerns aggressively just builds sales resistance.",
+      "statement": "Avoid aggressive objection handling.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Key takeaways: - Shift to a that's not a problem mindset. - Avoid aggressive objection handling. - Focus on removing sales resistance.",
+      "statement": "Focusing on removing sales resistance is important.",
+      "topic": "sales resistance",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing sales strategies, particularly handling objections."
+}

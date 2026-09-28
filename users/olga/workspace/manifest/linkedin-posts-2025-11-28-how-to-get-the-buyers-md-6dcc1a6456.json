@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-11-28-how-to-get-the-buyers-md-6dcc1a6456-7af26722b8132df1.jsonl",
+  "external_id": "7400140530300391424",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:59:46Z",
+  "metadata_hash": "6dbec9d10787a748fdf9d52bab0bc658f5b2f23d6375695b7ad6c755ba338d73",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-11-28T11:56:30.386000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-11-28-how-to-get-the-buyers.md",
+  "source_sha256": "8d88258e71872cb72679ac0aa68bd5fead233d006fb21759b1fecd09a2a2b675",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestatetraining-objectionhandling-activity-7400140530300391424-1omB"
+}

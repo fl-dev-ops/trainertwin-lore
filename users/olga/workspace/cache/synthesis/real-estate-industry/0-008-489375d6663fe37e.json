@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Saudi Arabia's real estate market is reportedly booming due to high-profile projects like NEOM, The Red Sea Project, and Qiddiya.",
+      "qualification": "The statement is self-reported and requires validation from independent sources.",
+      "support_ids": [
+        "linkedin-posts-2025-02-13-onegulf-onefuture-how-dubai-and-md-cf685987c8:c001:e002:fdfca185"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai is characterized as continuously reinventing itself in the real estate sector.",
+      "qualification": "Self-reported and poetic language limits factual interpretation.",
+      "support_ids": [
+        "linkedin-posts-2025-03-03-dubai-the-future-that-never-md-75add3f943:c001:e004:68cbc143"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Discussion exists around the construction of Saudi Arabia's tallest tower.",
+      "qualification": "Statement is speculative and lacks confirmation from additional sources.",
+      "support_ids": [
+        "linkedin-posts-2025-03-07-have-you-heard-already-about-md-f81604a8b5:c001:e001:6f3b9619"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Occupancy rates in Downtown Dubai are significant enough to be a topic of discussion, hinting at challenges in the real estate sector.",
+      "qualification": "Observable but not quantified; lacking detailed statistical data.",
+      "support_ids": [
+        "linkedin-posts-2025-04-22-occupancy-rate-in-downtown-dubai-md-2cbae05ebf:c001:e001:3916c880"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai offers a perception of perfection in lifestyle, but building a career there in real estate is challenging.",
+      "qualification": "The observation is subjective and self-reported, potentially influenced by the speaker's personal experience.",
+      "support_ids": [
+        "linkedin-posts-2025-04-28-from-the-outside-dubai-looks-md-2f1c9d0170:c001:e001:0d37c4f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate market in Dubai is described as cyclical, with particular times such as August used for reflecting on market progress.",
+      "qualification": "Self-reported and unverified; cycles need external validation.",
+      "support_ids": [
+        "linkedin-posts-2025-08-11-august-almost-doesnt-feel-like-md-d66f5751cc:c001:e002:3912c12c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A 6-month mentorship program is offered hypothetically to address agent challenges in Dubai’s real estate market.",
+      "qualification": "Hypothetical offering, not confirmed as a concrete, ongoing program.",
+      "support_ids": [
+        "linkedin-posts-2025-05-09-youre-doing-everything-so-why-md-aeeb2efb98:c001:e004:64f28577"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Running a real estate company is metaphorically compared to building a rocket, but often lacking in essential aspects, like proper staffing.",
+      "qualification": "Metaphor is figurative; lacks detail on concrete operational challenges.",
+      "support_ids": [
+        "linkedin-posts-2025-08-12-if-you-think-running-a-md-cb33d45df9:c001:e005:39cd3c26"
+      ]
+    }
+  ]
+}

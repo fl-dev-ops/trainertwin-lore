@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales performance enhancement is linked to structured processes rather than relying solely on motivation.",
+      "qualification": "The statement is self-reported and should be taken as an individual belief.",
+      "support_ids": [
+        "linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d:c001:e002:1a15ae13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The founder of Live It Up Real Estate Growth Academy focuses on implementation, communication, and consistent follow-ups to achieve predictable sales performance.",
+      "qualification": "The effectiveness of this approach is unverified.",
+      "support_ids": [
+        "linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d:c001:e005:75c7ad01",
+        "linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d:c001:e003:0cff8a93"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a belief that a combination of strategy, communication, and practical action is fundamental for navigating challenging sales periods.",
+      "qualification": "This is a personal belief that aligns with observed practices but lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2026-03-13-what-do-i-even-say-md-fc245c717a:c001:e002:b3605ece"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Hosting free online training is one way to share strategies and improve sales performance.",
+      "qualification": "The impact of such training sessions on performance is not established.",
+      "support_ids": [
+        "linkedin-posts-2026-03-13-you-are-such-a-positive-md-cc60ea0745:c001:e005:26156c49"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents in the Dubai real estate market are advised to handle market objections with confidence to succeed.",
+      "qualification": "This is an advised strategy but lacks independent verification or outcomes.",
+      "support_ids": [
+        "linkedin-posts-2026-03-16-dubai-real-estate-market-changedall-md-aeee764494:c001:e003:f32e7c4a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence is key to overcoming objections and maintaining sales performance.",
+      "qualification": "Persistence as a strategy is self-reported and may not account for deeper systemic issues.",
+      "support_ids": [
+        "linkedin-posts-2026-04-13-even-without-a-war-dubairealestate-md-c532f4afd0:c001:e004:b8764984",
+        "linkedin-posts-2026-04-15-training-from-me-plus-leads-md-993edbe3be:c001:e008:317204b0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Persistence and hard work were key in achieving success in Dubai's real estate market.",
+      "qualification": "This is based on self-reported experience and lacks diversified verification or data.",
+      "support_ids": [
+        "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888:c001:e005:1e2dd2e7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Failing sales strategies can result in prolonged periods with no deals, but persistence and adaptation can lead to eventual success, as evidenced by a case of significant commission earned after initial struggles.",
+      "qualification": "The story is self-reported with no external validation of the coaching's effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5:c001:e001:2ffdde19",
+        "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5:c001:e002:1bc50f73"
+      ]
+    }
+  ]
+}

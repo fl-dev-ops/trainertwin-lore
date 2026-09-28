@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "hypothetical",
+      "kind": "fact_claim",
+      "quote": "How many units Should Sell the independent agent to became A Top Agent for Binghatti?",
+      "statement": "Independent agents need to sell a specific number of units to become top agents.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Let’s ask Eduardo!",
+      "statement": "The author encourages audience interaction by posing a question directed at someone named Eduardo.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post proposing a question to engage an audience."
+}

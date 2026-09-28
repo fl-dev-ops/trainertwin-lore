@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "your biggest asset isn’t the property stock you hold… it’s the skill, motivation, and staying power of the people you hire.",
+      "statement": "Your biggest asset isn’t the property stock you hold… it’s the skill, motivation, and staying power of the people you hire.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I can say with confidence — I’ve seen only a handful of companies truly get this right.",
+      "statement": "I can say with confidence — I’ve seen only a handful of companies truly get this right.",
+      "topic": "professional background",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "What you really need is a Recruitment & Training machine.",
+      "statement": "What you really need is a Recruitment & Training machine.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Get them wrong, and you’re stuck in a hire–replace–repeat cycle.",
+      "statement": "Get them wrong, and you’re stuck in a hire–replace–repeat cycle.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "case_study",
+      "quote": "it’s like building a rocket but forgetting the astronauts — the launch pad is impressive, but no one’s going to the moon.",
+      "statement": "It’s like building a rocket but forgetting the astronauts...",
+      "topic": "real estate potential",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing the importance of recruitment and training in real estate business success."
+}

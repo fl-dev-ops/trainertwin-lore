@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "fact_claim",
+      "quote": "Hundreds of agents are always coming back to me saying, oh, you know, Olga, it's not like I I cannot sell anything more than one million dirham. My clients are always wanting cheap.",
+      "statement": "Hundreds of agents are always coming back to me saying... my clients are always wanting cheap.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the companies in Dubai are actually hiring me to do that, right?",
+      "statement": "The companies in Dubai are actually hiring me to do that.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "belief",
+      "quote": "price is what you pay, value is what you get.",
+      "statement": "Price is what you pay, value is what you get.",
+      "topic": "value perception",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "But why people are buying all these Jeep, Ferraris, why? Because they see the value.",
+      "statement": "People are buying expensive cars because they see the value.",
+      "topic": "client engagement",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "So how to explain the value I teach in my training.",
+      "statement": "I teach how to explain the value in my training.",
+      "topic": "sales training",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "Transcript of a YouTube short discussing client perceptions of price and value in sales."
+}

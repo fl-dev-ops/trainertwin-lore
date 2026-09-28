@@ -1,0 +1,26 @@
+id: s160
+title: 'The Universe definitely has a plan!!! #success'
+date: '2026-04-10'
+source: 'The Universe definitely has a plan!!! #success'
+audio_file: 'The Universe definitely has a plan!!! #success [Y7y2Od1aHaE].mp3'
+duration: "00:00:19"
+model: saaras:v3
+raw_speaker_ids:
+- '0'
+- '1'
+counts:
+  raw_entries: 3
+turns:
+- t: "00:00:00"
+  speaker: '1'
+  text: >-
+    This is the real weather of Dubai in the almost middle of April when you need some sort of a jacket
+    and the skies are like this. I think we are all in the middle of the scene of some horror movie.
+- t: "00:00:14"
+  speaker: '0'
+  text: >-
+    What's gonna happen to the body?
+- t: "00:00:15"
+  speaker: '1'
+  text: >-
+    we'll be the one who survived that

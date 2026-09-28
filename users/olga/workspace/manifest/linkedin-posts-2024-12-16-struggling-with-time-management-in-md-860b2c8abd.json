@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-12-16-struggling-with-time-management-in-md-860b2c8abd-be8be910d9425f08.jsonl",
+  "external_id": "7274279361086660608",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:36:50Z",
+  "metadata_hash": "e4afaebe370de32a5ce23470416ffd7a38e8504807512369e86621a383ea98ff",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-12-16T04:29:09.258000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-12-16-struggling-with-time-management-in.md",
+  "source_sha256": "eb5620f73c6bddc79a9dc3ff2b68124ed9a5d79eadb327d5b7180279f8df14b6",
+  "source_url": "https://www.linkedin.com/posts/olgasi_timemanagement-clientengagement-realestatedubai-activity-7274279361086660608-sN4f"
+}

@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "but in reality, you have to ask him a question.",
+      "statement": "You have to ask him a question.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "if you want to book a meeting, for example, and make the client engage and actually show up for the meeting,",
+      "statement": "Engaging clients in conversation can lead to better meeting attendance.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "how confident do you feel that you will be kind of able to even understand and determine which property is gonna get you the highest possible ROI,",
+      "statement": "Clients may lack confidence in their ability to assess property investment opportunities.",
+      "topic": "client understanding",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "Do you want to see this data? I'm happy to share it with you.",
+      "statement": "Offering to share professional market data can enhance client understanding.",
+      "topic": "data sharing",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Transcript from a YouTube short discussing client engagement techniques in sales, particularly real estate."
+}

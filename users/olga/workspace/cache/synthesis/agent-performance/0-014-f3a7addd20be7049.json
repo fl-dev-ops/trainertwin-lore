@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Clients prefer non-pushy sales tactics and feel less pressured when making purchases.",
+      "qualification": "This is based on self-reported observations and unverified claims.",
+      "support_ids": [
+        "linkedin-posts-2024-05-13-how-to-convince-a-client-md-0ad750a282:c001:e002:7e3889a0",
+        "linkedin-posts-2024-05-23-olga-what-is-the-guarantee-md-b68fe9fbea:c001:e002:4c9c61b6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients' emotional needs, problems, and discomforts are crucial in creating urgency and persuading them to make decisions.",
+      "qualification": "These findings are part of advised sales strategies and may not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2024-06-11-look-for-a-problem-discomfort-md-7d5e2906fa:c001:e001:1a8a4cd1",
+        "linkedin-posts-2024-06-03-people-buy-with-emotions-and-md-e672c5ae4e:c001:e001:fdda6afd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The sales process benefits from understanding client goals related to legacy and financial security.",
+      "qualification": "This finding is derived from a specific sales strategy and may not be comprehensive for all industries.",
+      "support_ids": [
+        "linkedin-posts-2024-05-24-as-agents-we-have-the-md-76d7b4f56f:c001:e002:e4083505"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents failing to adapt and learn new skills, especially relating to market changes, face challenges in real estate.",
+      "qualification": "The statement is hypothetical and anticipates change without providing market data.",
+      "support_ids": [
+        "linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d:c001:e002:213fa457"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales success can result from consistent efforts like cold calling, which reportedly led to an increase in listings.",
+      "qualification": "The evidence of success is claimed in a specific context and lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-05-28-result-of-1st-week-on-md-3a21dda4d9:c001:e001:f8139e55"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Short-term sales strategies are viewed as insufficient for long-term profitability.",
+      "qualification": "This perspective is part of a belief system discussed by the author and may not be universally accepted.",
+      "support_ids": [
+        "linkedin-posts-2024-05-09-do-you-really-understand-your-md-90af976bf9:c001:e003:d93082cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Corporate clients primarily focus on secondary market operations, impacting agents' tactics and priorities.",
+      "qualification": "These observations are self-reported and may not reflect all corporate client interactions.",
+      "support_ids": [
+        "linkedin-posts-2024-05-27-cold-calling-is-the-trend-md-4b0826259d:c001:e001:3985c3e1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Emotional drivers play a vital role in client purchase decisions, often outweighing logical reasoning.",
+      "qualification": "This is based on beliefs and observed patterns which may not apply equally across contexts.",
+      "support_ids": [
+        "linkedin-posts-2024-06-03-people-buy-with-emotions-and-md-e672c5ae4e:c001:e001:fdda6afd"
+      ]
+    }
+  ]
+}

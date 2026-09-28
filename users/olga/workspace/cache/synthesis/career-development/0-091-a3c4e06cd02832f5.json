@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are perceived as valuable tools for career development, especially in enhancing productivity.",
+      "qualification": "The evidence is self-reported and lacks empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:c001:e001:f626ff9e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Coaching is considered more effective than self-help resources like YouTube videos in advancing career development.",
+      "qualification": "This finding is anecdotal and lacks empirical support.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e009:1d33b4cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is highlighted as important for career progression.",
+      "qualification": "The findings are self-reported and based on individual belief, lacking scientific validation.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c002:e001:ea64331a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training resources help new brokers feel more confident in their roles.",
+      "qualification": "Statement is self-reported, reflecting personal experiences rather than objective measures of success.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c003:e002:eb52e261"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Salespeople are advised to utilize skilled questions to understand clients' unique situations for better career outcomes.",
+      "qualification": "Advice offered lacks empirical backing and is based on anecdotal evidence.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c004:e003:a9df939a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The ability to establish client trust and rapport is seen as integral to successful career interactions.",
+      "qualification": "The insight is based on self-reported belief without external verification.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c005:e003:4e09a045"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal growth, like reflection on happiness versus financial success, is considered important for career development.",
+      "qualification": "This is self-reported and lacks empirical evidence.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c001:e002:dd50d4f8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Low interpersonal trust can negatively impact career relationships and development.",
+      "qualification": "The statement is self-reported, indicating belief rather than empirically supported fact.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e001:d204032b"
+      ]
+    }
+  ]
+}

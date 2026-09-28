@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2023-12-08-i-highly-respect-a-real-md-dd17c68945-af8f1cb3d74fa84b.jsonl",
+  "external_id": "7138738968077996034",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:19:35Z",
+  "metadata_hash": "8a2f19c4e1a5934cd59e469ee5ba5747def0c20588601981842c87f4848016c9",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-12-08T04:00:01.346000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-12-08-i-highly-respect-a-real.md",
+  "source_sha256": "85ba575a3e58d029cf6b2c75c11125a7cf16451b734a55a884078ab16f904b32",
+  "source_url": "https://www.linkedin.com/posts/olgasi_recruitmenttips-dubairealestaterecruitment-activity-7138738968077996034-eMIc"
+}

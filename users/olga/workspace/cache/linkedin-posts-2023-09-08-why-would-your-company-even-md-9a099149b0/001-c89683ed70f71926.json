@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "A company that opts to support its sales team with advanced skill training consistently achieves higher revenue and better salespeople retention.",
+      "statement": "A company that opts to support its sales team with advanced skill training consistently achieves higher revenue and better salespeople retention.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "When salespeople are earning and performing at a high level, they can either add more working hours or hire additional personnel.",
+      "statement": "When salespeople are earning and performing at a high level, they can either add more working hours or hire additional personnel.",
+      "topic": "goals in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Alternatively, they can choose to acquire more advanced selling skills.",
+      "statement": "They can choose to acquire more advanced selling skills.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing the importance of training for successful sales teams, authored by olgasi."
+}

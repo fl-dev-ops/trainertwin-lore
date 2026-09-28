@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Regular and transparent communication with clients, especially sellers, is emphasized as crucial for managing their expectations.",
+      "qualification": "The advice is self-reported from a LinkedIn post and may reflect individual experience rather than widespread practice.",
+      "support_ids": [
+        "linkedin-posts-2024-12-17-one-deal-away-from-your-md-8677a05be4:c001:e003:a282f9dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement strategies often include soliciting feedback and public opinion, indicating a focus on interaction for better client relations.",
+      "qualification": "These observations are drawn from social media activity and may not represent formal engagement practices.",
+      "support_ids": [
+        "linkedin-posts-2024-12-23-yet-again-theres-one-more-md-1748bee194:c001:e004:16b79b8a",
+        "linkedin-posts-2024-12-30-what-if-this-year-your-md-e9ba9799e0:c001:e005:ce0c8e75"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a belief in the value of even minimal client engagement, suggesting that making efforts to connect, regardless of scale, is appreciated.",
+      "qualification": "This belief is self-reported and might not reflect broader sentiment among clients.",
+      "support_ids": [
+        "linkedin-posts-2024-12-30-what-if-this-year-your-md-e9ba9799e0:c001:e006:7c640c24"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Active solicitation of client input on issues faced in the industry reflects a commitment to addressing client concerns and improving services.",
+      "qualification": "These behaviors are observed from posts and may not indicate structured client relations strategy.",
+      "support_ids": [
+        "linkedin-posts-2025-01-22-want-answers-to-the-biggest-md-3538907e1d:c001:e001:4f88bea3",
+        "linkedin-posts-2025-01-22-want-answers-to-the-biggest-md-3538907e1d:c001:e003:ba30e4c2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The author highlights their role in coaching and mentoring others within the real estate space, implying a dual focus on personal sales as well as developing others.",
+      "qualification": "These statements are self-reported and may suggest a limited perspective on the broader training culture.",
+      "support_ids": [
+        "linkedin-posts-2025-01-20-you-know-those-mondays-when-md-8bfb6f01b7:c001:e002:4db8a746",
+        "linkedin-posts-2025-01-21-would-you-consider-becoming-a-md-85ff284ff2:c001:e005:4594beba"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Requests for feedback on training materials suggest an adaptive approach to client services, aiming for continuous improvement based on client needs.",
+      "qualification": "Feedback solicitation is self-reported, and specific outcomes from such requests are not provided.",
+      "support_ids": [
+        "linkedin-posts-2024-12-30-what-if-this-year-your-md-e9ba9799e0:c001:e005:ce0c8e75"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The author encourages engagement by addressing common obstacles faced by clients, aiming to establish a connection with their audience.",
+      "qualification": "The engagement approach is based on observed behavior and may lack empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2025-01-22-want-answers-to-the-biggest-md-3538907e1d:c001:e001:4f88bea3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a focus on building a positive culture within the professional environment that emphasizes learning and collective growth.",
+      "qualification": "Cultural emphasis is self-reported and not necessarily indicative of external validation or effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2025-01-20-you-know-those-mondays-when-md-8bfb6f01b7:c001:e003:eaf62edb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2025-08-12-if-you-think-running-a-md-cb33d45df9-e2eb69d3a1540b59.jsonl",
+  "external_id": "7361007314104893441",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:46:02Z",
+  "metadata_hash": "00dd7ce79bd8b914827ceccc71b95574313341c7fff0a024d71876fdbfa88dd9",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-08-12T12:15:04.585000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-08-12-if-you-think-running-a.md",
+  "source_sha256": "bce4f520ac2593976c8602d22a008b491c150f3a25f082e886325359f6d556da",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-realestatedubai-realestatetraining-activity-7361007314104893441-uW0i"
+}

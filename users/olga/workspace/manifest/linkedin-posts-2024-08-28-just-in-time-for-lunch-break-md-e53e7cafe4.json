@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-08-28-just-in-time-for-lunch-break-md-e53e7cafe4-2b236f25146fbac6.jsonl",
+  "external_id": "7234471366064787456",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:30:16Z",
+  "metadata_hash": "76c5de5d9905abaf02451be05b9ef920f3fc478190f0a657be2f3b8d1b206c96",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-08-28T08:06:23.648000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-08-28-just-in-time-for-lunch-break.md",
+  "source_sha256": "adac1851665b3a294adc0276f957bb07fac60220d4c5f9e5f2d4fa16a3eef068",
+  "source_url": "https://www.linkedin.com/posts/olgasi_openforbusiness-activity-7234471366064787456--1Hi"
+}

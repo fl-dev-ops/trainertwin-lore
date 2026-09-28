@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Are your clients ghosting you?",
+      "statement": "Clients may be ghosting you due to ineffective communication.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Are you still sending paragraphs... with project details and prices?",
+      "statement": "Avoid sending long paragraphs with project details and prices to engage clients better.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Don't know how to \"sell\" a Zoom meeting?",
+      "statement": "There is a perception that clients do not respond well to lengthy messages.",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source is a LinkedIn post addressing client engagement issues and sales strategies."
+}

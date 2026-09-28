@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "Same Question - Different tone = Different answers",
+      "statement": "Different tones lead to different answers in client interactions.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing the impact of tone on responses in sales and client engagement."
+}

@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The author believes that effective persuasion in sales should be grounded in understanding how decisions are made, highlighting a focus on psychological principles.",
+      "qualification": "The evidence is self-reported and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2025-04-23-but-this-is-the-best-md-55393618bd:c001:e001:e3ab8cf7",
+        "linkedin-posts-2025-04-23-does-your-mother-want-the-md-63123f766a:c001:e002:2ac88d44"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an observed dropout of client conversations which end without a clear resolution, indicating a potential challenge in client engagement.",
+      "qualification": "This observation is self-reported and may not represent all sales interactions.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399:c001:e001:845d288b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Top-performing sales agents are not just effective in sales but also serve as internal motivators for their teams, elevating overall team performance.",
+      "qualification": "The statement is an observed claim, lacking external corroboration.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e001:1bc33574"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The commission split for top sales performers is typically higher than 50/50, suggesting that such compensation models might be used to attract high performers.",
+      "qualification": "This is a single observation and lacks data on how widespread this practice is.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-looking-for-the-secret-to-md-abe7ac3a2a:c001:e002:fb88d144"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an emphasis on the importance of self-improvement and responsibility for learning better sales techniques, reflecting a growth mindset approach in sales training.",
+      "qualification": "The advice is general and subjective, not backed by empirical data.",
+      "support_ids": [
+        "linkedin-posts-2025-04-23-but-this-is-the-best-md-55393618bd:c001:e002:27da7ca6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales scripts, which were once considered ineffective by the author, are now incorporated into their training material, suggesting a nuanced perspective on their utility.",
+      "qualification": "The view is based on the author's personal experience and may not apply universally.",
+      "support_ids": [
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e001:5eea9797",
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e004:1d8eb208"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an offering of a specific training program to re-engage clients and prevent deals from going cold, available on YouTube in a structured format.",
+      "qualification": "The effectiveness of this training is not assessed in the data provided.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399:c001:e003:7565a6ed",
+        "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399:c001:e005:f4963b6b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The statement suggests agents have experienced extended periods without closing deals, pointing to potential challenges in sustained sales performance.",
+      "qualification": "This claim is self-reported and might not represent broader trends.",
+      "support_ids": [
+        "linkedin-posts-2025-04-22-you-havent-closed-a-deal-md-6319a35892:c001:e001:a014ed6e"
+      ]
+    }
+  ]
+}

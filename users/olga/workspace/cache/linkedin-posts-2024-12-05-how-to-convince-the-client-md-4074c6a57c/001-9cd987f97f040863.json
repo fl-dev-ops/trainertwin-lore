@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "the way I do it in this video!",
+      "statement": "I said everything about the way I do it in this video!",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing strategies for convincing clients."
+}

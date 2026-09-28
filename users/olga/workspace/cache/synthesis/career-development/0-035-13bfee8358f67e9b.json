@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The importance of curiosity in client interactions is emphasized as a key component of personal growth in career development.",
+      "qualification": "This significance is self-reported and reflects one speaker's perspective.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e005:4609e21d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A methodology using templated training models is offered for becoming a real estate sales trainer in Dubai.",
+      "qualification": "The methodology is self-reported advice, lacking verification from independent sources.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s18-yaml-0be9bdec6f:c001:e003:ef789fa7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The discomfort in professional settings may motivate change, suggesting its role as a personal growth factor.",
+      "qualification": "Statement is self-reported and reflects individual experience, not a broad consensus.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s31-yaml-8059c6e7be:c001:e001:df3a016f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating a course focused on mastering sales in Dubai real estate is planned, with interest shown by linking a waiting list for participants.",
+      "qualification": "The course creation information is self-reported and not independently verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s19-yaml-9b48711af4:c001:e005:41381cd1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A high company goal of reaching one million net per agent is mentioned in the context of commission-based roles.",
+      "qualification": "The ambition is self-reported and lacks external verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s196-yaml-2dec848a31:c001:e005:d8323c81"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker offers practical exercises that are implemented in real estate sales settings.",
+      "qualification": "Practicality and effectiveness are self-reported and not independently tested.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s196-yaml-2dec848a31:c001:e002:95e752b4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker self-reports starting their career with commission splits similar to current suggestions for new real estate agents.",
+      "qualification": "This is self-reported, reflecting personal experience without external corroboration.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s191-yaml-2abe4e4644:c001:e003:db9521c0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The idea that uncertainty can be a source of excitement in career development is presented.",
+      "qualification": "This perspective is self-reported, showing a subjective view rather than a universally accepted stance.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s32-yaml-b69ee8b4ba:c001:e002:304851a1"
+      ]
+    }
+  ]
+}

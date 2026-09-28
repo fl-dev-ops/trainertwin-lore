@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Training on client engagement and mindset in difficult market conditions is being offered.",
+      "qualification": "This information is based on self-reports and observations from the same author.",
+      "support_ids": [
+        "linkedin-posts-2026-03-13-what-do-i-even-say-md-fc245c717a:c001:e003:4bc1167d",
+        "linkedin-posts-2026-03-28-and-i-wish-i-will-md-65c3debfbb:c001:e001:775d5081"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Specific training materials and strategies are offered for sale scenarios in uncertain market conditions.",
+      "qualification": "The evidence is based on self-reported information and therefore may lack independent verification.",
+      "support_ids": [
+        "linkedin-posts-2026-04-01-i-never-thought-i-will-md-3f2ad6a708:c001:e004:5a69ad3a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The training focuses on incorporating mindset techniques alongside technical strategies.",
+      "qualification": "Findings based on self-reported data from the same individual.",
+      "support_ids": [
+        "linkedin-posts-2026-03-28-and-i-wish-i-will-md-65c3debfbb:c001:e001:775d5081",
+        "linkedin-posts-2026-04-01-i-never-thought-i-will-md-3f2ad6a708:c001:e008:e434c3a3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A process of self-reflection reveals personal fears and expectations during the training.",
+      "qualification": "This is self-reported by the author and lacks external confirmation.",
+      "support_ids": [
+        "linkedin-posts-2026-04-01-i-never-thought-i-will-md-3f2ad6a708:c001:e007:7d2f3459"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker plans to share more candid updates about the training process and its outcomes.",
+      "qualification": "This future commitment is self-reported and lacks confirmation from other sources.",
+      "support_ids": [
+        "linkedin-posts-2026-04-15-training-from-me-plus-leads-md-993edbe3be:c001:e006:c41d8352"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The author has undergone a significant career change, resigning from a senior role.",
+      "qualification": "Based on a self-reported resignation declaration.",
+      "support_ids": [
+        "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b:c001:e001:1741a1e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A realisation of incorrect strategy in content creation occurred, typical of founder experiences.",
+      "qualification": "This is a self-reported personal insight and may be subjective.",
+      "support_ids": [
+        "linkedin-posts-2026-04-10-i-was-angry-for-18-md-b558b9bf80:c001:e001:acbeec12"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Proactive strategy changes are advised to meet sales goals in changing markets.",
+      "qualification": "Advice is provided without external validation or context.",
+      "support_ids": [
+        "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717:c001:e006:c7782cbd"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "Olga has a proven track record of inspiring individuals to elevate their game in real estate, and her dedication to delivering real value is evident in everything she does.",
+      "statement": "Olga has a proven track record of inspiring individuals to elevate their game in real estate.",
+      "topic": "real estate coaching",
+      "unit_id": "u000190"
+    },
+    {
+      "context": "third_party",
+      "kind": "self_report",
+      "quote": "I was struck by her professional demeanor right away.",
+      "statement": "I was struck by her professional demeanor right away.",
+      "topic": "observed behavior",
+      "unit_id": "u000200"
+    },
+    {
+      "context": "third_party",
+      "kind": "belief",
+      "quote": "Olga possesses deep knowledge in the field of real estate and effective teaching methods.",
+      "statement": "Olga possesses deep knowledge in the field of real estate and effective teaching methods.",
+      "topic": "teaching approach",
+      "unit_id": "u000210"
+    },
+    {
+      "context": "third_party",
+      "kind": "advice",
+      "quote": "If you are seeking an experienced business trainer capable of elevating the professional skills of your brokers to a new level, I highly recommend Olga.",
+      "statement": "If you are seeking an experienced business trainer capable of elevating the professional skills of your brokers to a new level, I highly recommend Olga.",
+      "topic": "sales training effectiveness",
+      "unit_id": "u000211"
+    },
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "She demonstrates outstanding adaptability to the audience's needs, making her training highly effective.",
+      "statement": "She demonstrates outstanding adaptability to the audience's needs, making her training highly effective.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000210"
+    },
+    {
+      "context": "third_party",
+      "kind": "offering",
+      "quote": "Highly recommended if you want to seek an advice on dubai real estate matters.",
+      "statement": "Highly recommended if you want to seek advice on Dubai real estate matters.",
+      "topic": "professional services",
+      "unit_id": "u000225"
+    },
+    {
+      "context": "third_party",
+      "kind": "self_report",
+      "quote": "I liked the analogy with a doctor.",
+      "statement": "I liked the analogy with a doctor.",
+      "topic": "observed behavior",
+      "unit_id": "u000221"
+    }
+  ],
+  "overview": "Extracted observations from LinkedIn profile recommendations for Olga, a real estate coach and trainer."
+}

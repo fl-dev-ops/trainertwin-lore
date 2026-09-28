@@ -1,0 +1,12 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The effective use of AI tools like Chat GPT can enhance communication skills when users learn to prompt them correctly.",
+      "qualification": "This advice is self-reported and tied to the specific context of improving communication skills within the real estate sector.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c003:e002:7b298bdf"
+      ]
+    }
+  ]
+}

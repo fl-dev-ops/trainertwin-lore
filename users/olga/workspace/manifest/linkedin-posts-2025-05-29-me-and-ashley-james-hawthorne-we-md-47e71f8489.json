@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2025-05-29-me-and-ashley-james-hawthorne-we-md-47e71f8489-5b158feac01a4561.jsonl",
+  "external_id": "7333896496641183744",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:43:58Z",
+  "metadata_hash": "57ee3f76430d81813118f80a1d819ce1d12f7477d0c13c988bc78896a20f063a",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-05-29T16:46:22.007000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-05-29-me-and-ashley-james-hawthorne-we.md",
+  "source_sha256": "1de8d37b2c2b1b8ed9995305a06a0890d789edd00b98d8eb8a46cf7b2273c6b3",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-realestatetraining-realestateagent-activity-7333896496641183744-ImZO"
+}

@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I would like overthink too much in my head about what I was going to say next to, you know, a broker or a client.",
+      "statement": "I would like overthink too much in my head about what I was going to say next to a broker or client.",
+      "topic": "mindset shift",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "belief",
+      "quote": "I really understood that you have to just, you know, go with the flow.",
+      "statement": "You have to just go with the flow.",
+      "topic": "communication skills",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Imagine and be prepared for any conversation on any turn that the client will be able or will do because you should not have anything which is unexpected.",
+      "statement": "You should not have anything which is unexpected.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I was kind of scared to pick up the phone and speak to, you know, other agents, clients.",
+      "statement": "I was kind of scared to pick up the phone and speak to other agents, clients.",
+      "topic": "personal growth",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I was more just taking it easy, just learning about different projects in the market.",
+      "statement": "I was more just taking it easy, just learning about different projects in the market.",
+      "topic": "engagement strategy",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "YouTube short transcript discussing confidence and communication in real estate settings."
+}

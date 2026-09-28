@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-01-11-case-study-workshop-can-your-md-92797e4d31-d01a55951643e4fa.jsonl",
+  "external_id": "7151059941074612224",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:21:04Z",
+  "metadata_hash": "7ed75b338d0441eea50026e4b4d6e9f5e6d25cfa44157e6a8449c9d55dfdeb13",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-01-11T03:59:10.221000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-01-11-case-study-workshop-can-your.md",
+  "source_sha256": "d9a565066eb5c710803ece8e782a0e56225e57ca956a2f6a63573161977618d7",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestraining-investmentopportunity-activity-7151059941074612224-jMEX"
+}

@@ -1,0 +1,54 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The importance of a strong online presence is emphasized in client engagement strategies.",
+      "qualification": "The evidence is self-reported advice.",
+      "support_ids": [
+        "linkedin-posts-2023-05-17-in-2023-if-you-do-md-21dcdfea7b:c001:e001:6c06eccd",
+        "linkedin-posts-2023-05-17-in-2023-if-you-do-md-21dcdfea7b:c001:e003:dbbe69b5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Live video content is underutilized despite its potential in showcasing expertise through content marketing.",
+      "qualification": "The claim regarding usage by only 5% of experts is unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-04-25-i-discovered-this-with-my-md-325f5166eb:c001:e007:797d6af9",
+        "linkedin-posts-2023-04-25-i-discovered-this-with-my-md-325f5166eb:c001:e008:b3bed62a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging directly with decision-makers is advised to improve client engagement and reduce rejection rates.",
+      "qualification": "Advice context makes it unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-05-08-how-often-do-you-face-md-d2add85262:c001:e004:a174953f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Nurturing leads from social media with a strategic follow-up is recommended for client engagement.",
+      "qualification": "This is based on advised behavior rather than empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-05-26-the-hunt-for-high-quality-leads-md-ce53a957bd:c001:e004:98b64e34"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding a client's motivation and time frame is pivotal in engagement strategy.",
+      "qualification": "This reflects anecdotal advice rather than empirical research.",
+      "support_ids": [
+        "linkedin-posts-2023-07-03-just-a-quick-productivity-fix-md-6476bad9a5:c001:e001:f8da3b99"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging interaction and feedback through comments can enhance client engagement.",
+      "qualification": "Observed behaviors and advice lack empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2023-04-25-i-discovered-this-with-my-md-325f5166eb:c001:e010:1b55d4ab"
+      ]
+    }
+  ]
+}

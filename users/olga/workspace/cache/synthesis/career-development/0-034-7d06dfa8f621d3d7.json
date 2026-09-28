@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Access to knowledge is considered crucial for achieving a dream life and career.",
+      "qualification": "This statement is self-reported and reflects the speaker's belief rather than verified data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s129-yaml-ca76bf00b1:c001:e003:bdbeb393"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Free training sessions are offered to help individuals handle objections in various situations.",
+      "qualification": "These offerings are self-reported and there is no verification of their effectiveness or comprehensiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s14-yaml-faf7e68b2a:c001:e003:2464f966"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "People often experience panic and overthinking when faced with life's uncertainties.",
+      "qualification": "This is based on observed behavior and is not supported by quantitative data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s140-yaml-80e878bbd2:c001:e004:eca4d2fb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Focusing on useful problem-solving can help mitigate feelings of panic during uncertain times.",
+      "qualification": "The advice is a suggested strategy, with no empirical evidence provided for its effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s141-yaml-01d68cfba7:c001:e002:7bdfc625"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an encouragement to develop a tolerance for disappointment and frustration as key to success.",
+      "qualification": "The statement is presented as a belief and does not include empirical measurements or studies to validate it.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s162-yaml-c5741d35b5:c001:e002:67827124"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Visa costs should be borne by the employer, and companies that charge employees are engaging in unethical practices.",
+      "qualification": "This advice is stated as legal and common knowledge but lacks specific legal references or jurisdictional nuance.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s143-yaml-25191d39ed:c001:e001:7700550d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Career shifts and gaining new skills are encouraged during times of crisis.",
+      "qualification": "The advice to shift careers is motivational and not backed by success rate data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s179-yaml-ab1c501906:c001:e004:1c3d225f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Developing the right mindset is important when adapting to new environments.",
+      "qualification": "The statement is self-reported and reflects a personal belief rather than measured outcomes.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e002:7fda6aa1"
+      ]
+    }
+  ]
+}

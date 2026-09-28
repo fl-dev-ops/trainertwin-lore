@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Utilizing multiple phone numbers to reach aged leads is a recommended strategy to increase engagement.",
+      "qualification": "The effectiveness of using multiple phone numbers is not verified and may depend on the context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s60-yaml-f384833295:c001:e001:fbf7b927"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Pressure tactics lead to client disengagement and potential trust loss.",
+      "qualification": "This claim is observable but not thoroughly verified across multiple sources.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s136-yaml-8476866d64:c001:e002:623be762"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Refraining from asking personal questions during initial calls can help maintain focus on business topics.",
+      "qualification": "This is context-specific advice and might not be suitable in every client interaction scenario.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c003:e003:1192d0ee"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building lasting client relationships contributes to retention.",
+      "qualification": "This is self-reported advice; its efficacy in various contexts is uncertain.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s142-yaml-b3cbf32b8d:c001:e001:10c361ef"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Value delivery is important to remain top of mind for potential sellers in real estate engagement strategies.",
+      "qualification": "Advisory in nature, this advice is about maintaining relevance with clients, but results can vary based on execution and market conditions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s45-yaml-eca160f25a:c001:e001:fd0be4ac"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales tactics that overtalk clients without understanding their needs are less effective than those focusing on client understanding.",
+      "qualification": "There is a belief that understanding client needs leads to better engagement, but the claim lacks empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e001:4e8c6c3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents often show properties beyond a client's budget due to reluctance to accurately assess client needs, leading to potential mismatches in engagement.",
+      "qualification": "Common practice is observed but lacks detailed verification on agent decisions or motivations, making the finding somewhat speculative.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e001:f86c6bd1",
+        "youtube-transcripts-13-yaml-6ff1d87de7:c002:e002:95f3e606"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent sharing of communication challenges is encouraged among agents to tailor solutions.",
+      "qualification": "This advice implies effectiveness but lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e006:1e6c805f"
+      ]
+    }
+  ]
+}

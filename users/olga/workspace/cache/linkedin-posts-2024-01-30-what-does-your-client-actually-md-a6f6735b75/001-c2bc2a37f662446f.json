@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the client is buying real estate... but what he is looking for is way beyond just the property!",
+      "statement": "The client is buying real estate but seeks something beyond the property.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "If your answer is \"My product or service\"... it's wrong!",
+      "statement": "If your answer is \"My product or service\"... it's wrong!",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing client needs in real estate beyond just the product."
+}

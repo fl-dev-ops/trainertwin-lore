@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "It's about how to use the current situation to the best of it.",
+      "statement": "It's about how to use the current situation to the best of it.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I am inviting you to join my Telegram community Strong in Sales where I teach and support Dubai agents.",
+      "statement": "I am inviting you to join my Telegram community Strong in Sales where I teach and support Dubai agents.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "YouTube shorts transcript discussing support for real estate agents during a market downturn."
+}

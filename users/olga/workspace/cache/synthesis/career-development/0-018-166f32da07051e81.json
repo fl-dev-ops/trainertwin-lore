@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are valued for career development, but lack empirical backing.",
+      "qualification": "There is no empirical evidence, and the conclusion relies on individual beliefs.",
+      "support_ids": [
+        "linkedin-posts-2024-01-08-weekly-magic-from-a-sales-md-1a86996ec6:c001:e001:f5474e36"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Coaching is seen as more effective than self-help resources like YouTube for career advancement.",
+      "qualification": "This is an anecdotal perspective without empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-01-08-weekly-magic-from-a-sales-md-1a86996ec6:c001:e002:f3504f3e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is identified as crucial for career progression, based on self-reporting.",
+      "qualification": "The evidence is self-reported and lacks external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-01-15-are-your-clients-ghosting-you-md-efc79da17c:c001:e001:6143d97f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Opportunities for professional and career growth are often highlighted in job listings.",
+      "qualification": "These claims are often made in job listings but are self-reported and not externally verified.",
+      "support_ids": [
+        "linkedin-posts-2024-01-04-job-vacancy-hr-specialist-recruiter-md-58566a5001:c001:e004:e24c6bc6"
+      ]
+    }
+  ]
+}

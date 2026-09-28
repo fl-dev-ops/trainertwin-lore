@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Modern recruitment is perceived as fundamentally a sales role.",
+      "qualification": "This is an observed statement from an individual on LinkedIn and may not reflect universal understanding.",
+      "support_ids": [
+        "linkedin-posts-2025-01-27-this-opportunity-is-for-you-md-4ec09e970e:c001:e003:18d7a5bd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal financial beliefs can impede an agent's ability to justify large sales deals.",
+      "qualification": "The statement is self-reported and may not reflect broader industry patterns.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e001:e02515d4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents often lose deals by failing to question what 'too expensive' means to a client.",
+      "qualification": "The impact of not questioning was discussed hypothetically, lacking empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e002:970d3e98"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective objection handling relies on positioning, mindset, and framing reality, not mere techniques.",
+      "qualification": "This is a self-reported belief based on the individual's experience.",
+      "support_ids": [
+        "linkedin-posts-2025-02-03-if-you-yourself-believe-in-md-3fe9cfc353:c001:e005:c22d9771"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent effort over time, rather than shortcuts, is necessary for achieving real results.",
+      "qualification": "This statement reflects a personal view that may not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2025-02-11-i-got-scammed-recently-heres-md-d1da6f623a:c001:e003:3d8789d0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A strong sales trainer can significantly reduce agent turnover.",
+      "qualification": "No specific data is provided to quantify the reduction beyond anecdotal evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-02-24-why-dubais-real-estate-market-md-5d383f201e:c001:e003:95366e67"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Success is defined not only by financial stability but by doing work one loves.",
+      "qualification": "This is a subjective statement reflecting personal views on success.",
+      "support_ids": [
+        "linkedin-posts-2025-03-08-ladies-today-is-womens-daya-md-0b6d74d642:c001:e003:c98426cb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A training program called 'Train the Trainer: Real Estate Sales Mastery – Dubai Edition' is available for real estate professionals.",
+      "qualification": "This offering is present in an individual's LinkedIn post and details are not verified from other sources.",
+      "support_ids": [
+        "linkedin-posts-2025-03-10-ive-never-needed-to-sell-md-de56a4001e:c001:e002:4191f64a"
+      ]
+    }
+  ]
+}

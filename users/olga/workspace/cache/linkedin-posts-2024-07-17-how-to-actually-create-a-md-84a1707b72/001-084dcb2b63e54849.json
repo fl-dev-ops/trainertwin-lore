@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "How to actually create a pipeline? If you're only hunting for sellers who are ready to sell now, you'll always keep hunting. To build a sustainable pipeline, focus on nurturing relationships with potential sellers over time.",
+      "statement": "Focus on nurturing relationships with potential sellers over time.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "To build a sustainable pipeline, focus on nurturing relationships with potential sellers over time.",
+      "statement": "Sustainable pipeline building requires long-term relationship investment.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Think about what value you can provide to property owners to be the first one to find out that they are selling...",
+      "statement": "Value provided to property owners can lead to preferred seller relationships.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post offering insights on building a sales pipeline through relationship nurturing."
+}

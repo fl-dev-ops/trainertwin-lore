@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "name": "Sales Strategies and Techniques",
+      "topics": [
+        "sales-management-and-strategy",
+        "sales-techniques",
+        "sales-techniques-and-strategy"
+      ]
+    },
+    {
+      "name": "Sales Processes and Improvement",
+      "topics": [
+        "sales-process-and-improvement",
+        "sales-ethics-and-challenges"
+      ]
+    },
+    {
+      "name": "Sales Mindset and Potential",
+      "topics": [
+        "sales-mindset-and-potential"
+      ]
+    },
+    {
+      "name": "Skill Development and Inquiry",
+      "topics": [
+        "skill-inquiry-and-preparation",
+        "training-and-development"
+      ]
+    },
+    {
+      "name": "Success and Productivity",
+      "topics": [
+        "success-and-productivity",
+        "time-management"
+      ]
+    },
+    {
+      "name": "Team Dynamics and Culture",
+      "topics": [
+        "team-dynamics-and-culture",
+        "support-and-well-being"
+      ]
+    },
+    {
+      "name": "Technology and Innovation",
+      "topics": [
+        "technology-use-and-innovations"
+      ]
+    },
+    {
+      "name": "Social Issues and Equality",
+      "topics": [
+        "social-issues-and-equality"
+      ]
+    },
+    {
+      "name": "Strategic Planning and Problem Solving",
+      "topics": [
+        "strategic-planning-and-problem-solving"
+      ]
+    },
+    {
+      "name": "Testimonials and Feedback",
+      "topics": [
+        "testimonials-and-feedback"
+      ]
+    },
+    {
+      "name": "Truthfulness and Integrity",
+      "topics": [
+        "truthfulness-and-integrity"
+      ]
+    },
+    {
+      "name": "Upcoming Projects and Urban Development",
+      "topics": [
+        "upcoming-projects-and-urban-development"
+      ]
+    }
+  ]
+}

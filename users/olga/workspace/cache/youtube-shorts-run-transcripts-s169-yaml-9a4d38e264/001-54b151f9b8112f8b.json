@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "how much more I had to work on myself.",
+      "statement": "I wish I knew how much more I had to work on myself.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "one thing that I've learned being here is having to look work on the mindset.",
+      "statement": "one thing that I've learned being here is having to look work on the mindset.",
+      "topic": "personal growth",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "so many different nationalities.",
+      "statement": "you're dealing with so many different nationalities.",
+      "topic": "client engagement",
+      "unit_id": "u000005"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "there isn't a lot of nationality.",
+      "statement": "In the U.K., there isn't a lot of nationality.",
+      "topic": "client engagement",
+      "unit_id": "u000006"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I didn't feel as if I was being challenged.",
+      "statement": "I didn't feel as if I was being challenged.",
+      "topic": "sales challenges",
+      "unit_id": "u000007"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "here is been challenging in a fantastic way.",
+      "statement": "here has been challenging in a fantastic way.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Transcript from a discussion on adapting to sales in Dubai compared to the UK."
+}

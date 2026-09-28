@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2024-09-17-the-key-to-handling-objections-md-9bf2acc7f6-0d8508e6e2ae478f.jsonl",
+  "external_id": "7241748674035232768",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:32:17Z",
+  "metadata_hash": "aa2c9b0e18ae757eb96026551dbd8094f2bad2e1f9bcb8f9329e38e8ec7c23e5",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-09-17T10:03:49.074000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-09-17-the-key-to-handling-objections.md",
+  "source_sha256": "70e5d09e51b1d2de1ff09a562c9f634e4ead46a5b4d9271195d42af82d03bb68",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatedubai-salestrainingdubai-selfgrowth-activity-7241748674035232768--pDe"
+}

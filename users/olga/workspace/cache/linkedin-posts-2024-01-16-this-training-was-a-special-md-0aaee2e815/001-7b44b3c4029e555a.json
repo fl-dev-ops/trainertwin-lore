@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Most common objection Agents on the Market are facing is.... It's too Expensive!",
+      "statement": "The most common objection Agents on the Market are facing is that it's too expensive.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "Using... Clarify Discuss Defuse Techniques.",
+      "statement": "Using Clarify Discuss Defuse Techniques helps address objections.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Comment below if you want a full video version.",
+      "statement": "The author encourages comments for a full video version of the training.",
+      "topic": "social media engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post promoting a training session for real estate agents."
+}

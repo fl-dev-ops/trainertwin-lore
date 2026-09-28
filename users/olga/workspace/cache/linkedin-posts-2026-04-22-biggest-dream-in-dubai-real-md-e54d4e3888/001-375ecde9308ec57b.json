@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Make a Million + in commission and Be your Own Boss!",
+      "statement": "My ex-coaching client Ekaterina has reached her milestone of making a million+ in commission.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "in this Highly Uncertain Market - sales skills are the biggest asset.",
+      "statement": "Sales skills are the biggest asset in a highly uncertain market.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "teaching_move",
+      "quote": "when you learned the Questions framework with Neuro Emotional persuasion twist - it says with you forever.",
+      "statement": "Learning the Questions framework with a Neuro Emotional persuasion twist is beneficial.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "She just started asking right question… Sound simple right?",
+      "statement": "Ekaterina started asking the right questions after coaching.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "it took her 4 months of hard work.",
+      "statement": "Ekaterina's success took 4 months of hard work.",
+      "topic": "persistence in sales",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post discussing success in Dubai Real Estate and coaching impact."
+}

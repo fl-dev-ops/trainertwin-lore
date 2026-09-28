@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "don't doubt yourself. You can do it. And the second probably",
+      "statement": "Don't doubt yourself. You can do it.",
+      "topic": "self-limiting beliefs",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "just hire a coach or a trainer who will teach you how to swim, you know.",
+      "statement": "Hire a coach or a trainer who will teach you how to swim.",
+      "topic": "coaching",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "find somebody who already knows, who already has achieved, you know, your goal",
+      "statement": "Find somebody who already knows, who already has achieved your goal.",
+      "topic": "mentorship",
+      "unit_id": "u000004"
+    }
+  ],
+  "overview": "A transcript from a YouTube short discussing advice for individuals starting in sales."
+}

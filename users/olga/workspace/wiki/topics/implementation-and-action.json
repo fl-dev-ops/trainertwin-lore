@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Employment in real estate in Dubai is often subject to high-pressure performance expectations, leading to potential job insecurity.",
+      "qualification": "This is self-reported without broader employment data to affirm widespread impact.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c001:e001:c45f85b8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies in Dubai real estate are unique, such as commission payment methods, which may differ from other markets.",
+      "qualification": "These practices are specific to Dubai and not representative of other markets.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e005:a88d751b",
+        "youtube-shorts-run-transcripts-s169-yaml-9a4d38e264:c001:e006:6d38e10c",
+        "youtube-shorts-run-transcripts-s75-yaml-e5b3b20360:c001:e001:496a79bf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI tools for creating professional listing presentations mimic portal listings, but their effectiveness lacks metrics or user feedback.",
+      "qualification": "The AI tool is unverified, as there is no performance validation.",
+      "support_ids": [
+        "linkedin-posts-2024-12-06-try-this-free-ai-assistant-md-b48575a31b:c001:e001:f4e4a199",
+        "linkedin-posts-2024-12-06-try-this-free-ai-assistant-md-b48575a31b:c001:e002:6d880f2d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media and personal networks are recommended for generating real estate leads, though effectiveness is not empirically supported.",
+      "qualification": "The claimed effectiveness lacks empirical backing.",
+      "support_ids": [
+        "youtube-transcripts-11-yaml-e68135aa2f:c002:e002:fdd1ddfc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training success is considered a shared responsibility, requiring participants to be open to feedback and apply skills learned, according to self-reported beliefs.",
+      "qualification": "This perspective is subjective and self-reported, indicating personal belief.",
+      "support_ids": [
+        "linkedin-posts-2023-06-12-i-believe-that-training-success-md-3525ebbdbb:c001:e003:65c5c2f6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Coaching and training requests in real estate require market-specific expertise, highlighting the importance of knowing Dubai's market.",
+      "qualification": "The need for market-specific knowledge is context-specific and may not apply universally.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s113-yaml-22f362b517:c001:e005:7a31264f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Misconceptions such as 'properties sell themselves in Dubai' can adversely affect sales performance, though the prevalence isn’t addressed.",
+      "qualification": "The statement highlights a pitfall but without addressing its broader impact or prevalence.",
+      "support_ids": [
+        "linkedin-posts-2025-05-29-me-and-ashley-james-hawthorne-we-md-47e71f8489:c001:e002:9379e95b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Some businesses struggle with performance tracking, lacking benchmarks to enhance conversion rates, though third-party validation is absent.",
+      "qualification": "Observed issues lack third-party validation or broad data analysis, making findings suggestive rather than definitive.",
+      "support_ids": [
+        "linkedin-posts-2025-04-11-the-businesses-that-have-a-md-86b8c74700:c001:e003:22eaef5d"
+      ]
+    }
+  ],
+  "signature": "ec12c40ece2fa40bf339c813635e6c5c9ea12df92a02a5bc81d9bc07b60fd6b0"
+}

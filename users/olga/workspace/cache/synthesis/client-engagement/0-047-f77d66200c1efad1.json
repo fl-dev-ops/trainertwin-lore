@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Avoid leading questions when engaging with clients to foster meaningful discussions.",
+      "qualification": "This is recommended advice but may not always apply depending on context.",
+      "support_ids": [
+        "youtube-transcripts-104-yaml-cef95bc655:c002:e003:1aac5e36"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Turning statements into questions can help build client engagement by encouraging them to verbalize their thoughts.",
+      "qualification": "This advice depends on clients being responsive to discussion prompts.",
+      "support_ids": [
+        "youtube-transcripts-105-yaml-87c2a0b7fc:c001:e002:e24d6178"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often appreciate concise, precise interactions over lengthy reports and discussions.",
+      "qualification": "General observation; actual client preferences can vary.",
+      "support_ids": [
+        "youtube-transcripts-107-yaml-b97af6b062:c001:e001:44c71e18"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Old leads may lack motivation unless experiencing significant financial pressure.",
+      "qualification": "It is a general observation that may not apply universally to all old leads.",
+      "support_ids": [
+        "youtube-transcripts-107-yaml-b97af6b062:c002:e004:575c721e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents may show properties beyond the client's budget due to a fear of qualifying their needs.",
+      "qualification": "Common practice but lacks detailed verification of agent intentions.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c001:e001:f86c6bd1",
+        "youtube-transcripts-13-yaml-6ff1d87de7:c002:e002:95f3e606"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients requesting discounts may be conditioned by past experiences of wrong decision-making; engaging these clients involves discussing their motivations.",
+      "qualification": "Assumption by the speaker; individual client contexts may differ.",
+      "support_ids": [
+        "youtube-transcripts-105-yaml-87c2a0b7fc:c001:e004:ed3d6c2e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investors are typically busy and may not have time for extended conversations.",
+      "qualification": "The statement is a general observation and may not apply to all investors.",
+      "support_ids": [
+        "youtube-transcripts-107-yaml-b97af6b062:c002:e001:2cfb2dd1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A client showing no engagement might simply be browsing, indicating they are not seeking assistance.",
+      "qualification": "Statement about client behavior that may not apply universally.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:c002:e003:02438995"
+      ]
+    }
+  ]
+}

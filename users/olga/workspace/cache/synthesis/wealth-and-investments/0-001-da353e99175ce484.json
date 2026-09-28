@@ -1,0 +1,12 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Making smart investments is crucial for long-term financial health, as advised in a LinkedIn post.",
+      "qualification": "The source is advice from a social media platform and is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2024-06-24-whats-the-difference-between-being-md-294632c478:c001:e003:139b6527"
+      ]
+    }
+  ]
+}

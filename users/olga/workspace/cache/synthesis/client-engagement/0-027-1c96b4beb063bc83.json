@@ -1,0 +1,60 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Writing down clients' dreams and priorities is advised as a technique for helping clients convince themselves to buy.",
+      "qualification": "This advice is aimed at real estate agents and is self-reported by the author.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-how-i-teach-agents-to-md-44406c0093:c001:e003:4829134e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients often say they need to think about a deal before disappearing, indicating a potential issue with engagement or follow-up.",
+      "qualification": "This observation is noted by the author and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2026-01-14-if-you-keep-hearing-i-md-6c3e7dce41:c001:e001:7bb3c576"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Changing clients' mindset from 'busy' to 'interested' can transform their engagement.",
+      "qualification": "This concept is advised by the author and is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2026-01-15-from-im-busy-to-md-7e48e75b45:c001:e001:d6e3a352"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-reported impact of training videos includes anecdotal claims of improved sales outcomes from viewers.",
+      "qualification": "The result is self-reported and refers to few individuals, limiting its scope and reliability.",
+      "support_ids": [
+        "linkedin-posts-2026-01-16-give-me-a-single-reason-md-6d8e754e0b:c001:e003:071597f9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement can falter when clients stop responding after positive interactions, possibly reflecting issues in follow-up strategies.",
+      "qualification": "The effect is observed by the author, but the reasons for disengagement are not specified.",
+      "support_ids": [
+        "linkedin-posts-2026-02-14-clients-are-ghosting-you-after-md-47044fc1cd:c001:e001:67587233"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client blockers in real estate transactions can guide the development of effective training modules.",
+      "qualification": "The evidence is self-reported by the author and the extent of participation in the survey is unspecified.",
+      "support_ids": [
+        "linkedin-posts-2026-02-21-if-youre-a-dubai-real-md-5297fc9fc3:c001:e003:c0ade74e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Transforming cold outreach into structured listing pipelines can be enhanced by consistent follow-up systems.",
+      "qualification": "The claim is observational and based on the author’s experience without external confirmation.",
+      "support_ids": [
+        "linkedin-posts-2026-03-02-after-11-years-in-dubai-md-ae8047df9d:c001:e007:80e0d805"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Internal client motivation is more effective than manufactured urgency.",
+      "qualification": "This reflects a preference or strategy, not a definitive measure of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570:c001:e003:63f316f0",
+        "linkedin-posts-2025-04-14-if-youve-ever-been-told-md-2022cf4570:c001:e006:c8957cfc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a challenge of client conversations that stop without closure, affecting sales continuity.",
+      "qualification": "Based on a single source statement; impacts are assumed rather than measured.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399:c001:e001:845d288b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training content is available to help revive stalled client deals, consisting of short, structured lessons.",
+      "qualification": "Details from the same source might reflect promotional intent.",
+      "support_ids": [
+        "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399:c001:e003:7565a6ed",
+        "linkedin-posts-2025-04-16-its-probably-still-not-too-md-5f5f3f3399:c001:e005:f4963b6b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies should not rely on blame or envy to transform results.",
+      "qualification": "This advice is general and normative, lacking experimental validation.",
+      "support_ids": [
+        "linkedin-posts-2025-04-18-if-your-current-reality-feels-md-c366d002b6:c001:e006:087a97f5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Scripts' effectiveness in sales is questioned, but practical application advice is provided via shared resources.",
+      "qualification": "This is based on personal reporting and shared practices.",
+      "support_ids": [
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e001:5eea9797",
+        "linkedin-posts-2025-04-21-scripts-dont-work-anymore-i-md-a7a58f7289:c001:e004:1d8eb208"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sustained periods without closing deals are self-reported, highlighting issues in sales performance.",
+      "qualification": "Self-reported issue; external validation not provided.",
+      "support_ids": [
+        "linkedin-posts-2025-04-22-you-havent-closed-a-deal-md-6319a35892:c001:e001:a014ed6e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client psychology is promoted as critical in sales strategy.",
+      "qualification": "Claim not independently verified or supported with empirical data.",
+      "support_ids": [
+        "linkedin-posts-2025-04-23-does-your-mother-want-the-md-63123f766a:c001:e002:2ac88d44"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is an emphasis on personal responsibility to seek better methods and solutions in sales.",
+      "qualification": "Advice-based claim; effectiveness not substantiated.",
+      "support_ids": [
+        "linkedin-posts-2025-04-23-but-this-is-the-best-md-55393618bd:c001:e002:27da7ca6"
+      ]
+    }
+  ]
+}

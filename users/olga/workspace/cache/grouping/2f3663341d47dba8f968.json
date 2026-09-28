@@ -1,0 +1,119 @@
+{
+  "groups": [
+    {
+      "name": "Client Engagement",
+      "topics": [
+        "daily-operations",
+        "engagement-and-interaction",
+        "engagement-strategies"
+      ]
+    },
+    {
+      "name": "Financial Insight",
+      "topics": [
+        "financial-goals",
+        "financial-growth",
+        "financial-investment",
+        "financial-management",
+        "financial-mindset-and-planning",
+        "income-and-financial-growth"
+      ]
+    },
+    {
+      "name": "Decision-Making",
+      "topics": [
+        "decision-making",
+        "focus-and-goals"
+      ]
+    },
+    {
+      "name": "Rejection Management",
+      "topics": [
+        "dealing-with-rejection",
+        "fear-and-objection"
+      ]
+    },
+    {
+      "name": "Market Trends",
+      "topics": [
+        "digital-and-economic-trends",
+        "diversification",
+        "growth-and-opportunities",
+        "innovation-and-industry"
+      ]
+    },
+    {
+      "name": "Training and Feedback",
+      "topics": [
+        "editor-selection-criteria",
+        "feedback-and-improvement",
+        "execution-in-practice"
+      ]
+    },
+    {
+      "name": "Event Planning",
+      "topics": [
+        "event-management"
+      ]
+    },
+    {
+      "name": "Governance and Community Impact",
+      "topics": [
+        "government-and-governance",
+        "environmental-impact",
+        "impact-awareness",
+        "impact-amplification"
+      ]
+    },
+    {
+      "name": "Employment Considerations",
+      "topics": [
+        "employment-and-business",
+        "hiring-and-cost"
+      ]
+    },
+    {
+      "name": "Infrastructure Developments",
+      "topics": [
+        "infrastructure-development",
+        "infrastructure-topics"
+      ]
+    },
+    {
+      "name": "Emotional Aspects",
+      "topics": [
+        "emotional-experience"
+      ]
+    },
+    {
+      "name": "External Factors",
+      "topics": [
+        "external-influences"
+      ]
+    },
+    {
+      "name": "Human Capital",
+      "topics": [
+        "human-capital"
+      ]
+    },
+    {
+      "name": "future-careers",
+      "topics": [
+        "future-careers"
+      ]
+    },
+    {
+      "name": "focus-group-involvement",
+      "topics": [
+        "focus-group-involvement"
+      ]
+    },
+    {
+      "name": "hashtags",
+      "topics": [
+        "hashtags"
+      ]
+    }
+  ]
+}

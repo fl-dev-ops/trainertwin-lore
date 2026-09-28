@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Authenticity is critical in Dubai's real estate market, as it serves as a significant competitive advantage for sales professionals.",
+      "qualification": "This is self-reported advice, not an objectively verified strategy.",
+      "support_ids": [
+        "linkedin-posts-2025-10-28-the-moment-i-realized-why-md-92391fbb8e:c001:e002:9609332e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Success in sales in Dubai requires personal lead generation, as relying on company-provided leads is less profitable.",
+      "qualification": "The claim that agents earn 3x more from self-generated leads is a self-reported metric not externally validated.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-what-i-wish-someone-had-md-288164096b:c001:e002:bf356b33",
+        "linkedin-posts-2025-11-03-what-i-wish-someone-had-md-288164096b:c001:e006:ed503b01"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training programs offering scripts and frameworks are emphasized as tools to improve sales closing efficiency in Dubai.",
+      "qualification": "Effectiveness of such training is implied but not quantified in the evidence.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-what-should-i-say-so-md-1b68d420ee:c001:e004:2a9377ee",
+        "linkedin-posts-2025-11-03-can-i-close-by-cold-md-d8f0207889:c001:e002:b92125bb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling is presented as a viable method for closing deals in Dubai, with specific training available.",
+      "qualification": "The success rate of cold calling as reported is not substantiated by external data.",
+      "support_ids": [
+        "linkedin-posts-2025-10-27-what-should-i-say-so-md-1b68d420ee:c001:e003:883e9f7f",
+        "linkedin-posts-2025-11-03-can-i-close-by-cold-md-d8f0207889:c001:e002:b92125bb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Postings suggest the importance of sharing methodologies and results, fostering a collaborative network among sales professionals.",
+      "qualification": "Encouragement to share is an observed behavior, not a stated outcome.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-can-i-close-by-cold-md-d8f0207889:c001:e001:1d6d4d02"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Experience in Dubai's real estate sector is leveraged into creating on-demand training solutions.",
+      "qualification": "The impact of these training solutions is presumed beneficial but not independently assessed.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-10-years-of-dubai-real-md-b88a63da6c:c001:e001:222c34cf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Closing techniques involve creating a narrative that can sell authentically without compromising the salesperson's integrity.",
+      "qualification": "This is a suggested approach, not a proven method with qualitative results shown.",
+      "support_ids": [
+        "linkedin-posts-2025-10-28-the-moment-i-realized-why-md-92391fbb8e:c001:e003:eac9c4fc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Initial self-preparation is critical for new agents to achieve early success in closing deals.",
+      "qualification": "This is a case example, and may not be broadly generalizable.",
+      "support_ids": [
+        "linkedin-posts-2025-11-03-great-job-jairo-first-deal-md-dba1d1d3c8:c001:e002:30172e9b"
+      ]
+    }
+  ]
+}

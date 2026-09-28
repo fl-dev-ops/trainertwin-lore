@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I watched all your videos just within one day. They were many at that time even you had two hundred fifty followers but they were many.",
+      "statement": "I watched all your videos just within one day.",
+      "topic": "client engagement",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Oh my god this woman is giving so much information for free.",
+      "statement": "This woman is giving so much information for free.",
+      "topic": "teaching approach",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "it was like, um, maybe like two hundred fifty subscribers at the time.",
+      "statement": "The YouTube channel had around two hundred fifty subscribers at the time.",
+      "topic": "social media engagement",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "I don't need to find someone else I already found.",
+      "statement": "The speaker decided they didn't need to find someone else after watching the videos.",
+      "topic": "engagement strategy",
+      "unit_id": "u000003"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I need somebody who knows the Dubai market.",
+      "statement": "The speaker was seeking a coach knowledgeable in the Dubai market.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "Transcription of a conversation discussing the value of a YouTube channel focused on real estate coaching."
+}

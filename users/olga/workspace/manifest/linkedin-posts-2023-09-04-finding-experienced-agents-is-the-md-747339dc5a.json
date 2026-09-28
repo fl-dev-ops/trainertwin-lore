@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2023-09-04-finding-experienced-agents-is-the-md-747339dc5a-43612b79bc9c2d8c.jsonl",
+  "external_id": "7104460637132500992",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:15:16Z",
+  "metadata_hash": "fca3e6c6bb9dbe4f8451ecbd62b0f8fa2cc62b09a274843609e934e22ea9c30d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-09-04T13:50:10.388000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-09-04-finding-experienced-agents-is-the.md",
+  "source_sha256": "76323da99cdcae6b345f096955d9ef8b9c39ad142b1d8d25a3b52187c8113c67",
+  "source_url": "https://www.linkedin.com/posts/olgasi_professionaldevelopment-realestatesales-salesprofessionals-activity-7104460637132500992-J4Jb"
+}

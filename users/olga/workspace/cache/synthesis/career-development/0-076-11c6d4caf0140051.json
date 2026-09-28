@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are suggested as valuable tools for career development, but the evidence is based on personal opinions rather than empirical studies.",
+      "qualification": "The insights are derived from individual experiences and lack academic or scientific validation.",
+      "support_ids": [
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:u000001",
+        "linkedin-posts-2023-05-10-on-a-scale-of-1-md-80d0f48b29:u000002"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "True coaching is perceived to be more effective than self-help resources like YouTube videos for career advancement.",
+      "qualification": "This viewpoint is based on anecdotal experiences without empirical evidence.",
+      "support_ids": [
+        "youtube-transcripts-13-yaml-6ff1d87de7:u000029"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is considered crucial for career growth, though the findings rely on self-reported data.",
+      "qualification": "These insights depend on personal accounts and lack robust verification.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:u000070"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building relationships is noted to positively impact client retention in career settings.",
+      "qualification": "The evidence is based on observations rather than comprehensive studies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s142-yaml-b3cbf32b8d:c001:e001:10c361ef"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "It is advised to ensure that a potential employer offers a training program before making a career move.",
+      "qualification": "Recommendation is based on practical advice with no supporting data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s143-yaml-25191d39ed:c001:e004:b67ff542"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Confidence can quickly dissipate in unstable situations, leading people to panic and overthink, impacting career advancement.",
+      "qualification": "This finding stems from self-reported experiences, with no external or peer-reviewed validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s140-yaml-80e878bbd2:c001:e001:527563c4",
+        "youtube-shorts-run-transcripts-s140-yaml-80e878bbd2:c001:e004:eca4d2fb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In uncertain times, focusing on solving valuable problems is suggested as a method for career resilience.",
+      "qualification": "The evidence relies on hypothetical advice which is not empirically tested.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s141-yaml-01d68cfba7:c001:e001:d08abe72",
+        "youtube-shorts-run-transcripts-s141-yaml-01d68cfba7:c001:e002:7bdfc625"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In client-centered careers, understanding gaps in client knowledge can create opportunities for engagement and career advancement.",
+      "qualification": "The suggestions are based on direct observations and lack thorough validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s146-yaml-bd9ba63417:c001:e001:ef0e8b26",
+        "youtube-shorts-run-transcripts-s146-yaml-bd9ba63417:c001:e002:cd2ce599"
+      ]
+    }
+  ]
+}

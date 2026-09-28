@@ -1,0 +1,73 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents benefit from uncapped earnings through commissions, which encourages performance based on sales volume.",
+      "qualification": "This evidence is based on self-reported individual perspective and lacks external verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s21-yaml-1073d891b4:c001:e002:d1ac8f3e",
+        "youtube-shorts-run-transcripts-s21-yaml-1073d891b4:c001:e003:ac23f0f3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Operating within a company as a 'mini business' aligns with independent business strategies and enhances personal benefits through hard work.",
+      "qualification": "This evidence is self-reported and reflects personal perception, which may not be applicable universally.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s21-yaml-1073d891b4:c001:e001:b02edb0c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Discomfort or challenging situations can act as catalysts for action or strategy change in sales.",
+      "qualification": "Statements about discomfort are based on observed behavior and may lack broader empirical verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s31-yaml-8059c6e7be:c001:e002:b953cbfa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The lack of onboarding and team information can indicate poor organizational structure, potentially hindering agent performance.",
+      "qualification": "The observation is situation-specific and subject to individual interpretation and experience, with no broad consensus.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s34-yaml-582379029e:c001:e001:c084fa4b",
+        "youtube-shorts-run-transcripts-s34-yaml-582379029e:c001:e002:743ec9ca",
+        "youtube-shorts-run-transcripts-s34-yaml-582379029e:c001:e003:7933a00e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales coaching for agents can include psychological aspects beyond just real estate knowledge.",
+      "qualification": "This statement relies on self-reported experiences and might not apply universally across all circumstances.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s50-yaml-3b10472baf:c001:e003:716ccbbd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling remains a challenging yet crucial task in agent performance processes.",
+      "qualification": "The evidence is self-reported, lacking broader empirical verification and may not reflect the same experiences for all agents.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s48-yaml-c6e88915b3:c001:e005:3b26f707",
+        "youtube-shorts-run-transcripts-s57-yaml-c609fa1253:c001:e002:6cb9ecee"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training and coaching can potentially lead agents to substantial earnings through real estate commissions, with claims of reaching millionaire status.",
+      "qualification": "This evidence is self-reported and lacks external verification on the effectiveness or clarity of the training methodologies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s70-yaml-dab9a414c3:c001:e003:7b003478"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding the full scope of clients' problems is crucial for addressing concerns effectively in sales processes.",
+      "qualification": "Observed advice with no broad empirical verification; effectiveness may vary depending on the context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s69-yaml-d7b235f86e:c001:e002:36bbde4f",
+        "youtube-shorts-run-transcripts-s69-yaml-d7b235f86e:c001:e003:a4061b7d"
+      ]
+    }
+  ]
+}

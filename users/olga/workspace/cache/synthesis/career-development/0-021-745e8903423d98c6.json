@@ -1,0 +1,62 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are perceived as growth opportunities in personal and professional development, although significant empirical validation is lacking.",
+      "qualification": "This belief is based on personal experiences and self-reported data rather than empirical studies.",
+      "support_ids": [
+        "linkedin-posts-2024-02-15-how-to-be-successful-in-md-e8b446c5d1:c001:e003:8fcfe84d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging positively with clients can mitigate uncertainties about their interest or seriousness, improving client relationships.",
+      "qualification": "Statements are largely self-reported and observed behaviors, reflecting individual perceptions rather than verified data.",
+      "support_ids": [
+        "linkedin-posts-2024-02-23-what-should-we-know-about-md-2f2f121b56:c001:e001:f71e2d6b",
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e003:cbdfcb57"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales resistance impacts personal sales performance, indicating a focus area for potential improvement in selling techniques.",
+      "qualification": "This assertion is based on anecdotal evidence and self-reflection without broader empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2024-03-05-my-own-sales-tricks-grab-md-d4af296ae1:c001:e001:039967e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Passionate and proactive client engagement is necessary for success in the Dubai real estate market.",
+      "qualification": "The insights stem from self-reported desires and market expectations, not independently observed outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e002:b0a0efbd",
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e005:bac0493f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Video platforms and social media have played roles in professional client acquisition in some cases, highlighting new digital engagement methods.",
+      "qualification": "This approach is based on personal experience and is self-reported rather than systematically analyzed.",
+      "support_ids": [
+        "linkedin-posts-2024-03-22-have-you-seen-that-black-md-e3b1fef0d4:c001:e001:d2715d2f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking skilled questions can effectively improve client understanding and engagement, emphasizing proactive communication.",
+      "qualification": "The advice is observational and lacks external validation.",
+      "support_ids": [
+        "linkedin-posts-2024-03-28-stop-assuming-and-start-asking-md-0b00395983:c001:e001:285ed5ff"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Building a sales team requires personal development and self-reflection.",
+      "qualification": "Insights come from personal reflection and anecdotal experiences, lacking empirical verification.",
+      "support_ids": [
+        "linkedin-posts-2024-03-20-almost-like-my-diary-how-md-a36b505dba:c001:e001:74b72438"
+      ]
+    }
+  ]
+}

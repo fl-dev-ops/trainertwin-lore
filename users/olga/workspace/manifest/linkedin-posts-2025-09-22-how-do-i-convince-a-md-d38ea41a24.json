@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2025-09-22-how-do-i-convince-a-md-d38ea41a24-d9096eb91d8c88ba.jsonl",
+  "external_id": "7375794076366888960",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:58:20Z",
+  "metadata_hash": "9570d622de7d424c1cae1e5be85997853049278080e9a7a22b618f0b5607f2d5",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-09-22T07:32:23.433000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-09-22-how-do-i-convince-a.md",
+  "source_sha256": "f366eafc164da4585f8956eb27fef5423850e7442d4bd31b552a9d6404dc0491",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalesmentor-coldcallingdubai-realestatecoachingdubai-activity-7375794076366888960-mwVX"
+}

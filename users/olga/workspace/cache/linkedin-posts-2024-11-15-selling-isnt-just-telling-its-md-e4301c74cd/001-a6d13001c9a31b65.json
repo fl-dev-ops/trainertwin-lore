@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Selling isn’t just telling... It’s about asking the right questions at the right time.",
+      "statement": "Selling isn’t just telling... It’s about asking the right questions at the right time.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Unlike generic trainings where you simply hear, 'Build trust and qualify,' in this video, I’m breaking down exactly how to do it, step by step.",
+      "statement": "This video breaks down exactly how to build trust and qualify.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "If you’re ready to master the art of asking questions that lead to real results, this video is for you.",
+      "statement": "The video is designed for those ready to master asking questions that lead to real results.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A LinkedIn post discussing effective sales strategies."
+}

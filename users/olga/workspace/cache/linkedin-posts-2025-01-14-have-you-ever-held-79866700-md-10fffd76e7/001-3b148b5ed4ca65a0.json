@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "she earned in personal commission in 2024. This isn’t total revenue.",
+      "statement": "My client earned 798.667.00 AED in personal commission in 2024.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "only brought her 60,000 AED in total commissions.",
+      "statement": "Her total commissions in two years prior were only 60,000 AED.",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "told her: \"Why are you doing this? Quit. It’s not for you.\"",
+      "statement": "Her husband questioned her commitment to real estate and suggested quitting.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "she made one critical decision: to invest in herself.",
+      "statement": "She decided to invest in herself and pursued coaching.",
+      "topic": "coaching",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "Understanding Buyer Psychology She learned how to ask the right questions...",
+      "statement": "Success was attributed to understanding buyer psychology, creating a system, and mastering communication skills.",
+      "topic": "sales strategy",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "By October, the results were undeniable: six deals in one week...",
+      "statement": "In October, she closed six deals and earned 270,000 AED.",
+      "topic": "sales results",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post detailing a client's success in real estate after coaching."
+}

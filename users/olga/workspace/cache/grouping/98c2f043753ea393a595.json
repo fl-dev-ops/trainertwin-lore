@@ -1,0 +1,104 @@
+{
+  "groups": [
+    {
+      "name": "Public Speaking",
+      "topics": [
+        "public-speaking"
+      ]
+    },
+    {
+      "name": "Qualifications and Recruitment",
+      "topics": [
+        "qualifications",
+        "recruitment",
+        "recruitment-initiative"
+      ]
+    },
+    {
+      "name": "Questioning Techniques",
+      "topics": [
+        "questioning",
+        "questioning-technique",
+        "questioning-techniques"
+      ]
+    },
+    {
+      "name": "Real Estate",
+      "topics": [
+        "real-estate-course",
+        "real-estate-engagement",
+        "real-estate-investment",
+        "real-estate-performance",
+        "real-estate-potential",
+        "real-estate-process",
+        "real-estate-services"
+      ]
+    },
+    {
+      "name": "Regional Conflicts and Tensions",
+      "topics": [
+        "regional-conflicts",
+        "regional-tensions"
+      ]
+    },
+    {
+      "name": "Rejection and Resistance in Sales",
+      "topics": [
+        "rejection-handling",
+        "rejection-in-sales",
+        "resistance-in-sales",
+        "responsibility-in-sales"
+      ]
+    },
+    {
+      "name": "Resume and Relocation",
+      "topics": [
+        "relocation-process",
+        "resume-distribution",
+        "resume-tailoring"
+      ]
+    },
+    {
+      "name": "Return on Investment and Revenue",
+      "topics": [
+        "return-on-investment",
+        "revenue-generation"
+      ]
+    },
+    {
+      "name": "Perceptions of Wealth",
+      "topics": [
+        "rich-vs-wealthy"
+      ]
+    },
+    {
+      "name": "Road Infrastructure",
+      "topics": [
+        "road-capacity",
+        "road-connectivity"
+      ]
+    },
+    {
+      "name": "Personal Development and Reflection",
+      "topics": [
+        "reflection",
+        "regrets",
+        "role-model-significance"
+      ]
+    },
+    {
+      "name": "Role Play and Positioning",
+      "topics": [
+        "role-play-strategy",
+        "role-playing",
+        "role-positioning"
+      ]
+    },
+    {
+      "name": "Response Quality",
+      "topics": [
+        "response-quality"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2025-12-22-im-about-to-share-the-md-71816d796c-865037dd0b79387e.jsonl",
+  "external_id": "7408723287171760128",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:01:51Z",
+  "metadata_hash": "06a51f499383c635332d17a098ea078cacd7731a7a1d1d7199f30c33a178cda5",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-12-22T04:21:19.084000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-12-22-im-about-to-share-the.md",
+  "source_sha256": "a9dd65363345946ef42bed0c1d4f933fceb10d4f8262da64ea84d8fe1d9539ed",
+  "source_url": "https://www.linkedin.com/posts/olgasi_im-about-to-share-the-follow-up-strategy-activity-7408723287171760128-Qfbb"
+}

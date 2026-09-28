@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "Is this only me… or you are as well bombarded by Sales messages- which have Such a generic text…",
+      "statement": "I am bombarded by Sales messages which have Such a generic text.",
+      "topic": "sales resistance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Next - they just list the services that they are providing - and honestly half of them I can’t even understand.",
+      "statement": "They just list the services that they are providing - and honestly half of them I can’t even understand.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "…start with a Problem Statement in a message and ask a question…",
+      "statement": "Start with a Problem Statement in a message and ask a question.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "…is there something that you potentially experiencing?",
+      "statement": "Ask, 'is there something that you potentially experiencing?'",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I guarantee higher response rate from already warm clients!",
+      "statement": "I guarantee higher response rate from already warm clients!",
+      "topic": "sales performance",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Ps. Keep thinking that Common Sense is Untrainable…",
+      "statement": "Keep thinking that Common Sense is Untrainable.",
+      "topic": "common sense",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source chunk is a LinkedIn post expressing frustration with generic sales messages and offering advice on improving engagement."
+}

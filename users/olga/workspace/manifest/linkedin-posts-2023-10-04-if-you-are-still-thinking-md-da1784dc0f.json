@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2023-10-04-if-you-are-still-thinking-md-da1784dc0f-e12736cfb270f639.jsonl",
+  "external_id": "7115353115935092736",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:51:56Z",
+  "metadata_hash": "5eccd3efc10d3c164a8a4d4754d70cff847c04da75f9ad77e64d12957009e894",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-10-04T15:12:59.707000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-10-04-if-you-are-still-thinking.md",
+  "source_sha256": "a9451c5645e63cd5a048599307bb5c306bab37f9759631addc85005f39639901",
+  "source_url": "https://www.linkedin.com/posts/olgasi_careerinsales-dubairealestate-knowyourclients-activity-7115353115935092736-ONbt"
+}

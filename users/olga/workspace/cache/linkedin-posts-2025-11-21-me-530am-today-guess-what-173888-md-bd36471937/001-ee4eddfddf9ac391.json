@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "in the elevator in my bathrobe???",
+      "statement": "I’m doing in the elevator in my bathrobe",
+      "topic": "personal reflection",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "the apartment upstairs - is now a Short Term Rental property",
+      "statement": "the apartment upstairs is now a Short Term Rental property",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "to wake up but to pay a visit to reception",
+      "statement": "to wake up but to pay a visit to reception",
+      "topic": "client interaction",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A social media post depicting a personal situation humorously connected to real estate."
+}

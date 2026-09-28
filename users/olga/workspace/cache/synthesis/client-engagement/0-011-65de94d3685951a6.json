@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Building a sustainable sales pipeline requires nurturing relationships with potential sellers over time rather than focusing solely on those ready to sell immediately.",
+      "qualification": "This advice is self-reported by the author and may reflect personal experience rather than empirical data.",
+      "support_ids": [
+        "linkedin-posts-2024-07-17-how-to-actually-create-a-md-84a1707b72:c001:e001:35b94ff8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales confidence can be boosted by learning to silence one's inner critic, which may help in closing more deals.",
+      "qualification": "The advice is shared as a personal insight and may reflect individual strategies rather than universal principles.",
+      "support_ids": [
+        "linkedin-posts-2024-07-26-you-do-not-like-rejections-md-80d233932f:c001:e004:eff24766"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective client engagement involves understanding what motivates clients and knowing their financial limits through strategic questioning.",
+      "qualification": "The stated strategy is advice-based and comes from the author's professional experiences.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e003:5735400d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Prematurely providing too much detail or discussing prices may push clients away instead of engaging them effectively.",
+      "qualification": "This observation reflects the author's opinion and may not account for all sales scenarios.",
+      "support_ids": [
+        "linkedin-posts-2024-08-19-how-big-is-this-gap-md-4c4c5f14f8:c001:e004:d2cc10a4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Challenging assumptions about prospects during sales conversations allows the discussion to guide the outcome, potentially improving client engagement.",
+      "qualification": "This advice is based on the author's personal experiences and may not be universally applicable.",
+      "support_ids": [
+        "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a:c001:e002:c8fdc0a4",
+        "linkedin-posts-2024-08-20-how-you-sabotage-the-sale-md-dfe6c5d16a:c001:e005:e76819ac"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Applying newly learned skills in real client interactions is crucial to effectively harnessing those skills.",
+      "qualification": "The effectiveness of this approach depends on the context and the specific skills involved.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e004:4e4ac275"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging followers by asking them to comment increases interaction and possibly enhances client engagement.",
+      "qualification": "This is an observed behavior from social media and may not always correlate to increased engagement in all contexts.",
+      "support_ids": [
+        "linkedin-posts-2024-08-28-how-many-coaches-does-ronaldo-md-33fbb7c3c9:c001:e001:43ca4c7f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Handling disappearing clients right before deal closure represents a significant challenge in client engagement.",
+      "qualification": "The issue is discussed in training sessions, indicating it is a common challenge, yet specific strategies are not detailed.",
+      "support_ids": [
+        "linkedin-posts-2024-08-28-just-in-time-for-lunch-break-md-e53e7cafe4:c001:e002:df7aadbf"
+      ]
+    }
+  ]
+}

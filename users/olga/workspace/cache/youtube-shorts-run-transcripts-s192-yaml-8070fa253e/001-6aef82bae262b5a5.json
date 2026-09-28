@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I will never share thirty two pages of presentation, no one goes through that.",
+      "statement": "No one goes through a thirty-two page presentation.",
+      "topic": "client engagement",
+      "unit_id": "u000005"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "I will tailor my own marketing staff to maximum of two page, we'll format them.",
+      "statement": "Tailor marketing materials to a maximum of two pages.",
+      "topic": "communication skills",
+      "unit_id": "u000005"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "He doesn't know what's the next step. And you don't know what's the next step.",
+      "statement": "Clients do not know what the next step is after initial contact.",
+      "topic": "sales process",
+      "unit_id": "u000006"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "there is a lot of areas in Dubai which has a long, long years of past performance.",
+      "statement": "Past performance data can be used to show potential worst-case scenarios.",
+      "topic": "client quality",
+      "unit_id": "u000008"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I do not expect him to buy or send me the payment link.",
+      "statement": "I do not expect immediate payment or commitment from clients.",
+      "topic": "sales strategy",
+      "unit_id": "u000006"
+    }
+  ],
+  "overview": "YouTube short transcript discussing client engagement strategies."
+}

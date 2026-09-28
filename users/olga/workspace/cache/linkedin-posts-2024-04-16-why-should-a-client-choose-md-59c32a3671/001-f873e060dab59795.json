@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Why should a client choose you over another agent?",
+      "statement": "Clients often face difficulty choosing between agents.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Why should a client choose you over another agent?",
+      "statement": "Reflecting on differentiation enhances an agent’s understanding of their own value.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A reflective post discussing factors that could influence a client's choice of real estate agent."
+}

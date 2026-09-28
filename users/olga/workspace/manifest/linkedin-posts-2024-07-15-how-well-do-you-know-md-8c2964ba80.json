@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-07-15-how-well-do-you-know-md-8c2964ba80-2713f6198afe222d.jsonl",
+  "external_id": "7218456797232132096",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:55:00Z",
+  "metadata_hash": "332d805820ac2b9dd6a39d22b9c6ff8639b8a466e4f7a5d714624cb2ce062d6d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-07-15T03:30:12.902000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-07-15-how-well-do-you-know.md",
+  "source_sha256": "b88534281133067510a02086bc37f4fd548d98b6d4e56bc2dfb2877eb5646505",
+  "source_url": "https://www.linkedin.com/posts/olgasi_newagents-realestatetraining-activity-7218456797232132096-Lu8I"
+}

@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents in Dubai face perception issues among clients, potentially being labeled as 'scammers.'",
+      "qualification": "The claim is anecdotal and lacks systematic validation across multiple client experiences.",
+      "support_ids": [
+        "linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663:c001:e003:3f89eb7e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investment in Dubai off-plan properties appeals to both residents and foreign buyers.",
+      "qualification": "This observation is not supported by statistical data or evidence of market performance.",
+      "support_ids": [
+        "youtube-transcripts-100-yaml-dca1afec95:c002:e003:19a6abb3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent price reductions are suggested as a strategy to attract real estate buyers.",
+      "qualification": "The recommendation is generalized and lacks corroborative evidence of efficacy or successful case studies.",
+      "support_ids": [
+        "youtube-transcripts-02-yaml-c6ae54efe6:c001:e001:71f35269"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Rental agencies in Dubai experience decreased leads while grappling with high marketing costs.",
+      "qualification": "Self-reported observation and lacks independent verification or broader matching analysis.",
+      "support_ids": [
+        "linkedin-posts-2026-05-26-i-negotiated-my-rent-down-md-1799d39385:c001:e003:03b26f72"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset is considered crucial for success in real estate, purportedly accounting for 80% of outcomes.",
+      "qualification": "This belief is self-reported and lacks empirical support; individual experiences may vary.",
+      "support_ids": [
+        "linkedin-posts-2025-11-04-80-mindset-15-action-5-md-503e084c61:c001:e005:d3312410"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Investing in average units in high supply areas can limit negotiation power with tenants.",
+      "qualification": "The claim is self-reported by a speaker and lacks independent market analysis to support this assertion.",
+      "support_ids": [
+        "youtube-transcripts-09-yaml-bd534f7e8c:c001:e007:bae4d3a8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai's real estate market faces anxiety regarding potential market crashes despite appearing strong.",
+      "qualification": "Self-reported observation without external validation, needing broader market analysis.",
+      "support_ids": [
+        "linkedin-posts-2026-03-11-agents-in-dubai-right-now-md-13c04fa16d:c001:e001:41fa0f7f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "AI is rapidly integrating into the real estate industry, presenting changes for agents and agencies.",
+      "qualification": "Self-reported observations may lack broader industry context or detailed evidence of implementation success.",
+      "support_ids": [
+        "linkedin-posts-2025-09-23-if-you-missed-the-realtek-md-ffb5b8ba60:c001:e002:6a27f3b9",
+        "linkedin-posts-2025-09-23-if-you-missed-the-realtek-md-ffb5b8ba60:c001:e006:79803a07"
+      ]
+    }
+  ]
+}

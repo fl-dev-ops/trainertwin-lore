@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "your buying behavior has changed as well",
+      "statement": "salespeople need to adjust to the new consumer behavior",
+      "topic": "sales strategy",
+      "unit_id": "u000166"
+    },
+    {
+      "context": "observed",
+      "kind": "teaching_move",
+      "quote": "Is this the question you're asking yourself as well right now?",
+      "statement": "the training session involved interactive questioning to engage participants",
+      "topic": "sales training",
+      "unit_id": "u000130"
+    }
+  ],
+  "overview": "Sales training discussion focusing on buyer's psychology and changing consumer behavior."
+}

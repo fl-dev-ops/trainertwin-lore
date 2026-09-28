@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Engagement through invitation for discussion is a strategy used in LinkedIn posts to enhance interaction.",
+      "qualification": "The actual effectiveness of this strategy is not measured or verified.",
+      "support_ids": [
+        "linkedin-posts-2025-10-07-how-different-would-your-life-md-30699ef59a:c001:e004:61fd709f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Providing replay links is a method to maintain audience interaction post-event.",
+      "qualification": "Observed behavior; however, audience reach or engagement metrics post-replay are unreported.",
+      "support_ids": [
+        "linkedin-posts-2026-03-14-watch-the-re-play-httpslnkdindf8cs8nn-md-c3891b90f5:c001:e001:7c4f60e1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Telegram can be employed effectively to build and support a community of sales agents.",
+      "qualification": "The scope of success relies on user engagement levels, which is unverified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s25-yaml-565459b188:c001:e002:6a716637",
+        "youtube-shorts-run-transcripts-s35-yaml-de8e81409c:c001:e003:c9b829f0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Active participation, such as jumping and dancing, is encouraged in some engagement strategies, although it is not universally applicable or verified for effectiveness.",
+      "qualification": "This strategy is self-reported and may not suit all contexts.",
+      "support_ids": [
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e005:9f3e5c5c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adoption of unbiased market data presentation potentially increases client trust.",
+      "qualification": "This is an offering, potentially self-reported, without evidence of impact.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s165-yaml-669432e65e:c001:e004:1c42caf5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales strategies encourage shifting presumptions about client availability.",
+      "qualification": "The advice is hypothetical and self-reported without independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s134-yaml-daeeceba6d:c001:e005:eeff1f0d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engagement strategies often involve improving listening skills and reducing unsolicited client interruptions.",
+      "qualification": "Reported issues are self-assessed, indicating an area for potential strategy improvement.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e003:1d98ab8b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement increases when curiosity is expressed during conversations.",
+      "qualification": "The practical impact of this strategy in diverse situations is not verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e003:5b43ca1a",
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e004:75472f3d"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "High pitch in sales calls may lead to client disengagement.",
+      "qualification": "This finding is observational and relies on the specific interpretation of voice tone in client engagements.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s193-yaml-30d118548c:c001:e002:53615330"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients buy properties for the emotional experience rather than just numbers.",
+      "qualification": "This is a self-reported belief, not observed behavior or verified data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s194-yaml-c72ad54bbb:c001:e001:20910914"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients may think a product is too expensive for two reasons, which were not specified in the evidence.",
+      "qualification": "This finding lacks detailed explanation of what the two reasons are.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s195-yaml-9d3247ccee:c001:e001:b260dbf2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Asking clients about triggers that influence them is advised to avoid disengagement.",
+      "qualification": "This advice is specific to sales strategy and assumes the ability to identify relevant triggers.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s197-yaml-094eaf8cfd:c001:e002:4b6927e4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "When a client says 'just send me some options', it can lead to a dead end in client engagement.",
+      "qualification": "This conclusion is based on observed outcomes in sales interactions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s205-yaml-594e56f8e8:c001:e001:e12d9c18"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Retention of clients in the Dubai market is challenging due to rapid market dynamics.",
+      "qualification": "Observation based on market behavior; not external or quantitative validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s202-yaml-fe8c4aa241:c001:e001:55a5f21e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Most potential clients do not respond or call back after initial contact by real estate agents.",
+      "qualification": "Information relies on anecdotal reports rather than systematic investigation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s204-yaml-b28acaab98:c001:e003:0ba97bc9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is usually a concern behind questions about payment delays, which should not be dismissed instantly.",
+      "qualification": "Identifies a conversational dynamic that could impact client engagement in financial dealings.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s209-yaml-b3361ad755:c001:e001:d6dc2c2c"
+      ]
+    }
+  ]
+}

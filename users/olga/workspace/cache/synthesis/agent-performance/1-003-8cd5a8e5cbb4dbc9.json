@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The failure to handle rejections effectively can negatively impact sales performance as it is a generally disliked part of the sales process.",
+      "qualification": "The claim is based on self-reported sentiment and lacks quantitative analysis.",
+      "support_ids": [
+        "linkedin-posts-2024-01-17-i-know-you-hate-it-md-779f3c1f0c:c001:e002:263427cc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Early pre-handling of objections by addressing common concerns can potentially improve sales outcomes.",
+      "qualification": "This is a recommended strategy without direct support from data.",
+      "support_ids": [
+        "linkedin-posts-2024-01-25-you-dont-have-to-handle-md-9d5e3d6d28:c001:e001:bc958129"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents commonly report struggles with closing deals.",
+      "qualification": "The finding is self-reported from LinkedIn and may not represent all agents.",
+      "support_ids": [
+        "linkedin-posts-2024-02-19-if-you-are-a-real-md-607df8c14f:c001:e001:4ac42307"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "In virtual settings, agents often face difficulties in screen sharing effectively, which can impact sales performance.",
+      "qualification": "The evidence lacks external verification, limiting validity of the claim.",
+      "support_ids": [
+        "linkedin-posts-2024-03-06-as-a-manager-or-business-md-108b27f8fc:c001:e001:8ea09ec1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personalized sales training and mentorship are considered beneficial for agent success in Dubai real estate.",
+      "qualification": "The advice is conjectural and lacks empirical data support.",
+      "support_ids": [
+        "linkedin-posts-2024-03-10-are-you-passionate-about-dubai-md-683fc17ae6:c001:e004:2359fa6c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cold calling can lead to increased listings and potential sale success.",
+      "qualification": "The finding is context-specific and lacks broader verification.",
+      "support_ids": [
+        "linkedin-posts-2024-05-28-result-of-1st-week-on-md-3a21dda4d9:c001:e001:f8139e55"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Highly motivated and disciplined new agents in Dubai's real estate sector may potentially earn AED 1,000,000 in their first year.",
+      "qualification": "The claim is self-reported and speculative, lacking verification.",
+      "support_ids": [
+        "linkedin-posts-2024-06-19-hiring-just-3-new-agent-md-823ea01cdf:c001:e003:092ac8bb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Consistent practice is necessary for improving sales performance; short-term training programs are seen as inadequate.",
+      "qualification": "This is a metaphorical claim likening skill acquisition to fitness training, without empirical testing.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e006:1821a0f4"
+      ]
+    }
+  ]
+}

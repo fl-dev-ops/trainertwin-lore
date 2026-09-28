@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2024-11-28-i-have-a-pocket-listings-md-ace554932a-eab071c6cb1afc26.jsonl",
+  "external_id": "7267881175606591488",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:36:08Z",
+  "metadata_hash": "469ead20ed88bb3b714c21a7f2a0f236ffa1cd17abf58c3fbb2a643df3632019",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-11-28T12:45:02.967000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-11-28-i-have-a-pocket-listings.md",
+  "source_sha256": "a274e549207fdf1dc701fa78998e3854997cd4e6a3e2a27feb3dc4cd97cf9d8f",
+  "source_url": "https://www.linkedin.com/posts/olgasi_i-have-a-pocket-listings-so-does-everyone-activity-7267881175606591488-BrTm"
+}

@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Not having a role model can make it difficult to create a plan for success.",
+      "qualification": "The evidence is self-reported and lacks external validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s186-yaml-bf5111a45d:c001:e001:a215128c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Top performance in sales requires doing things that most others don't, indicating the need for a unique mindset.",
+      "qualification": "The finding is based on a single person's observation and might not be universally applicable.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s188-yaml-acedd10670:c001:e004:e2b3ec48"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The contrast between looking good and being poor versus gaining better sales skills suggests a priority shift for financial success.",
+      "qualification": "Limitations include reliance on self-reported advice without further context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s201-yaml-0976b45039:c001:e002:b732de00"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Seeing uncertainty as excitement can change one's perception of challenges.",
+      "qualification": "This personal perspective is self-reported, and its applicability to others is uncertain.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s32-yaml-b69ee8b4ba:c001:e001:1dfe861d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Remaining calm during negotiations can improve understanding of client situations in sales.",
+      "qualification": "This is a belief and may not be universally effective in all sales scenarios.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s42-yaml-f129776f47:c001:e002:676d4447"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients have a deep fear of making wrong decisions, especially in primary markets compared to secondary ones.",
+      "qualification": "The fear described is observed within a specific context, and it's unclear how widespread this sentiment is across different markets or real estate sectors.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c005:e006:e10f5648"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Political instability involving Iran and Israel influences the perspectives of investors in Dubai.",
+      "qualification": "Political analysis is self-reported; further data would be essential for a comprehensive understanding of the implications on specific investment decisions.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s98-yaml-c14a72892b:c001:e002:dc42a86b",
+        "youtube-shorts-run-transcripts-s98-yaml-c14a72892b:c001:e004:e1935feb"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset plays a crucial role in personal success, with individuals needing to believe in their potential and determination being key.",
+      "qualification": "This conclusion is based on self-reported and hypothetical contexts, which may not represent all individuals' experiences.",
+      "support_ids": [
+        "youtube-transcripts-108-yaml-3c67186618:c002:e002:8348a84f",
+        "youtube-transcripts-11-yaml-e68135aa2f:c002:e003:1baa4232"
+      ]
+    }
+  ]
+}

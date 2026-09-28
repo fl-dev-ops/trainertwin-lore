@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "LiveItUp Real Estate Growth Academy = skills, communication, deal-closing systems.",
+      "statement": "LiveItUp Real Estate Growth Academy offers skills, communication, deal-closing systems.",
+      "topic": "training approach",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "advice",
+      "quote": "Check the Training Catalogue - http://bit.ly/462cdeH",
+      "statement": "Check the Training Catalogue for more resources.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post promoting a real estate training academy."
+}

@@ -1,0 +1,129 @@
+{
+  "groups": [
+    {
+      "name": "Capital & Investment",
+      "topics": [
+        "human-capital",
+        "investment-insights"
+      ]
+    },
+    {
+      "name": "Infrastructure Initiatives",
+      "topics": [
+        "infrastructure-development",
+        "infrastructure-developments"
+      ]
+    },
+    {
+      "name": "Learning and Development",
+      "topics": [
+        "leadership-development",
+        "personal-development",
+        "personal-growth",
+        "learning-and-growth"
+      ]
+    },
+    {
+      "name": "Market Insights",
+      "topics": [
+        "market-dynamics",
+        "market-trends",
+        "marketing-dynamics"
+      ]
+    },
+    {
+      "name": "Sales Techniques",
+      "topics": [
+        "interview-techniques",
+        "negotiation-skills",
+        "persuasion-techniques",
+        "misconceptions-in-sales"
+      ]
+    },
+    {
+      "name": "Personal Branding & Presence",
+      "topics": [
+        "personal-branding",
+        "online-presence"
+      ]
+    },
+    {
+      "name": "Networking & Engagement",
+      "topics": [
+        "networking-techniques",
+        "participants-engagement"
+      ]
+    },
+    {
+      "name": "Management Practices",
+      "topics": [
+        "management-and-training",
+        "planning-and-preparation"
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "topics": [
+        "language-skills",
+        "masterclass-offerings"
+      ]
+    },
+    {
+      "name": "Life Experiences & Reflections",
+      "topics": [
+        "life-experiences",
+        "personal-development-and-reflection"
+      ]
+    },
+    {
+      "name": "Advice and Tips",
+      "topics": [
+        "moving-advice",
+        "media-and-video"
+      ]
+    },
+    {
+      "name": "Mission and Values",
+      "topics": [
+        "mission-statement",
+        "insights-and-value"
+      ]
+    },
+    {
+      "name": "job-application-process",
+      "topics": [
+        "job-application-process"
+      ]
+    },
+    {
+      "name": "miscellaneous",
+      "topics": [
+        "miscellaneous"
+      ]
+    },
+    {
+      "name": "mentorship-and-influence",
+      "topics": [
+        "mentorship-and-influence"
+      ]
+    },
+    {
+      "name": "personal-feedback-practice",
+      "topics": [
+        "personal-feedback-practice"
+      ]
+    },
+    {
+      "name": "mortgage-options",
+      "topics": [
+        "mortgage-options"
+      ]
+    },
+    {
+      "name": "open-day",
+      "topics": [
+        "open-day"
+      ]
+    }
+  ]
+}

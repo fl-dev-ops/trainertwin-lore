@@ -1,0 +1,99 @@
+{
+  "groups": [
+    {
+      "name": "Access Improvement",
+      "topics": [
+        "access-improvements",
+        "access-to-knowledge"
+      ]
+    },
+    {
+      "name": "Agent Dynamics",
+      "topics": [
+        "agent-challenges",
+        "agent-clarity",
+        "agent-complaints",
+        "agent-engagement",
+        "agent-expectations",
+        "agent-qualities",
+        "agent-retention",
+        "agent-s-sales-performance",
+        "agent-turnover"
+      ]
+    },
+    {
+      "name": "AI Applications",
+      "topics": [
+        "ai-assistant",
+        "ai-content-generation",
+        "ai-impact",
+        "ai-integration",
+        "ai-perception",
+        "ai-solutions",
+        "ai-tools"
+      ]
+    },
+    {
+      "name": "Advice and Insights",
+      "topics": [
+        "actions-and-results",
+        "adjustment-expectations",
+        "advice"
+      ]
+    },
+    {
+      "name": "Advocacy and Promotion",
+      "topics": [
+        "advocacy"
+      ]
+    },
+    {
+      "name": "Audience Engagement",
+      "topics": [
+        "audience-criteria",
+        "audience-engagement",
+        "audience-interaction"
+      ]
+    },
+    {
+      "name": "Authenticity",
+      "topics": [
+        "authenticity",
+        "authenticity-in-sales"
+      ]
+    },
+    {
+      "name": "Attitudes and Perception",
+      "topics": [
+        "aging-perspective",
+        "authority-perception",
+        "attitude-towards-rejection"
+      ]
+    },
+    {
+      "name": "Communication Processes",
+      "topics": [
+        "application-communication",
+        "application-process"
+      ]
+    },
+    {
+      "name": "Impact Amplification",
+      "topics": [
+        "amplifying-impact"
+      ]
+    },
+    {
+      "name": "agency-marketing",
+      "topics": [
+        "agency-marketing"
+      ]
+    },
+    {
+      "name": "assessing-new-roles",
+      "topics": [
+        "assessing-new-roles"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-06-19-how-to-get-into-your-md-ac6e7d2922-1b82cfa91354d15f.jsonl",
+  "external_id": "7209034666496901120",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:27:54Z",
+  "metadata_hash": "907611488ccc2bc38fb2831251056e445ef4aaaad87c95e21a71a5c2887ed6c6",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-06-19T03:30:01.880000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-06-19-how-to-get-into-your.md",
+  "source_sha256": "ae03494237f6e63d97ce2efb7b02a5b18a2884c64265cd828c95a72d345d61c1",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-salesfundamentals-activity-7209034666496901120-ZiQp"
+}

@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2024-10-07-she-closed-six-deals-in-md-bfd8e302da-62e49fe72642f97e.jsonl",
+  "external_id": "7248904892042366976",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:33:49Z",
+  "metadata_hash": "737503ba354e8c68befaabd87d900dbcbfa933d74c740e4300f8971e1350eb2e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-10-07T04:00:04.403000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-10-07-she-closed-six-deals-in.md",
+  "source_sha256": "c4e6e8b817c4bf23a2e341ccda60ba98c91fbf25c3a5184a18eb8d12807eb977",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesuccess-clientwins-coachingresults-activity-7248904892042366976-Xesj"
+}

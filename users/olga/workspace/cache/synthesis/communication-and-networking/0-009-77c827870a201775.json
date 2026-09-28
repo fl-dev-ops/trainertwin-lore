@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Using a curious tone in questions can foster client engagement.",
+      "qualification": "The evidence is advised and not independently verified. It reflects an opinion on client engagement strategy.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s183-yaml-ac39f985c5:c001:e003:5b43ca1a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Light-hearted banter suggests comfort and familiarity between communicators.",
+      "qualification": "The observation is context-specific and may not apply broadly to all communication settings.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s160-yaml-8b9fc6bb8c:c001:e002:d3888d21",
+        "youtube-shorts-run-transcripts-s160-yaml-8b9fc6bb8c:c001:e003:a7cfbd3f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Changing the perspective on past experiences can help clients overcome fears.",
+      "qualification": "This advice is not independently verified and relies on the assumption that perspective change is effective in all cases.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s68-yaml-d28bfefa52:c001:e002:b737339f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Tailoring marketing materials to a maximum of two pages is suggested for better communication.",
+      "qualification": "This is hypothetical advice and may not be universally effective. The recommendation is context-specific.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s192-yaml-8070fa253e:c001:e002:7706adf8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Avoiding assuming the decision-maker's role in communication leads to better understanding of the decision-making process.",
+      "qualification": "The advice is specific to sales or negotiation settings and may not be generalizable to other communication contexts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s147-yaml-961282c84d:c001:e003:9f5eb586"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Be curious and ask questions instead of making assumptions to better engage clients.",
+      "qualification": "Self-reported advice, not independently verified. Assumes that curiosity always leads to better engagement.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s57-yaml-c609fa1253:c001:e003:1d8482e3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales professionals may struggle with listening and allowing clients to express themselves.",
+      "qualification": "This is self-reported and specific to sales contexts, not broadly verified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s164-yaml-c937cae91b:c001:e003:1d98ab8b"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Holding your phone at face level can improve communication in video contexts.",
+      "qualification": "This advice is specific to video communication and not verified across other communication mediums.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s30-yaml-acc646e31b:c001:e001:c18ed190"
+      ]
+    }
+  ]
+}

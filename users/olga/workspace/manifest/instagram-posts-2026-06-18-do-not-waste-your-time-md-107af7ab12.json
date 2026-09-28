@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-06-18-do-not-waste-your-time-md-107af7ab12-7f3194e80465c80b.jsonl",
+  "external_id": "3922327360300483783",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:11:45Z",
+  "metadata_hash": "29cf4c661a647538b8bed21127e278c059c229e4fcf6975a1689b94f11ca766b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-06-18T15:51:49Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2026-06-18-do-not-waste-your-time.md",
+  "source_sha256": "8f6f9b21e496724f447f66c056ec47ae47efda0c9167128643540dc06205b212",
+  "source_url": "https://www.instagram.com/p/DZu5_PrgYTH/"
+}

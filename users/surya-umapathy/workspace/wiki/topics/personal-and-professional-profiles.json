@@ -1,0 +1,64 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Surya Umapathy is identified as a Founding Engineer at Forever Learning according to their LinkedIn profile.",
+      "qualification": "This information is self-reported and unverified.",
+      "support_ids": [
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c001:e001:82151ca1",
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c001:e007:56475825"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Surya Umapathy is based in Chennai, India, as detailed on their LinkedIn profile.",
+      "qualification": "Location data is self-reported without independent verification.",
+      "support_ids": [
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c001:e002:f28062f0"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Surya Umapathy's LinkedIn profile includes a display photo available in multiple sizes.",
+      "qualification": "The photo links provided may not confirm identity without visual verification.",
+      "support_ids": [
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c001:e008:dbd37fd2"
+      ]
+    },
+    {
+      "counter_ids": [
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c001:e008:dbd37fd2"
+      ],
+      "finding": "Surya Umapathy's Twitter account has a photo that might not match the LinkedIn photo.",
+      "qualification": "The two profile images could belong to different individuals; visual verification is necessary.",
+      "support_ids": [
+        "twitter-suryaumapathy28-yaml-1de5d26787:c001:e001:9df5f47f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The LinkedIn profile of Surya Umapathy links to Assay Clinical Research's company page.",
+      "qualification": "LinkedIn company URL should be cross-verified for engagement or role confirmation.",
+      "support_ids": [
+        "linkedin-suryaumapathy2812-yaml-2f19b92b7a:c002:e001:202e25f6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Surya Umapathy's Twitter account was established on February 1, 2022.",
+      "qualification": "Account creation date is self-reported by Twitter settings and has not been independently verified.",
+      "support_ids": [
+        "twitter-suryaumapathy28-yaml-1de5d26787:c001:e002:5d91e62d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The username for Surya Umapathy on Twitter is SuryaUmapathy28.",
+      "qualification": "Username usage and consistency across platforms are self-reported and could require verification.",
+      "support_ids": [
+        "twitter-suryaumapathy28-yaml-1de5d26787:c001:e003:1d263609"
+      ]
+    }
+  ],
+  "signature": "3dce0eeee070a798b3f5f82f637cf880c884ea71db26973840d5086f33d28061"
+}

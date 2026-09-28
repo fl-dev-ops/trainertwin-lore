@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2025-09-09-yes-i-was-in-md-7c17ca2f1f-b2cfa78597fc1641.jsonl",
+  "external_id": "7371079200104951808",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:47:40Z",
+  "metadata_hash": "a4c09ae57a554dce64777a0abf8f845343054d0b67c9dee994a306a6e7849ca3",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-09-09T07:17:09.334000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-09-09-yes---i-was-in.md",
+  "source_sha256": "76179a103ff4ac9c63ed74bdd38fcd5d427c6e14d957bb05346841cefc1fc1fd",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatecoachingdubai-realestatetrainingdubai-activity-7371079200104951808-4vR5"
+}

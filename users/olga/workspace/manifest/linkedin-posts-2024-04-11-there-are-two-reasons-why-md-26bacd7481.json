@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2024-04-11-there-are-two-reasons-why-md-26bacd7481-7d9153f6b2df6a0d.jsonl",
+  "external_id": "7184022375716302848",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:24:55Z",
+  "metadata_hash": "8082cca2752be1df9a2ec8ea8c2b25877e3c6acb73a731a2296542fab91cd25b",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-04-11T03:00:07.052000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-04-11-there-are-two-reasons-why.md",
+  "source_sha256": "a11508ca97f25b39ada7a36ec5aa187d32ecbd617bf936e02158ffbf16be7395",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestate-buyingdecisions-dubairealestatesalestrainer-activity-7184022375716302848-YhOQ"
+}

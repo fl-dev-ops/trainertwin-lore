@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "It's not like experience or skills which will determine your success in real estate. It's a personality traits.",
+      "statement": "Success in real estate is determined by personality traits rather than experience or skills.",
+      "topic": "agent qualities",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "You should be able to do hard things for a long time, like cold calling or following up.",
+      "statement": "You should be able to do hard things for a long time, like cold calling or following up.",
+      "topic": "persistence in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "You should be curious, not to assume things about the client, but ask the right questions.",
+      "statement": "Be curious and ask the right questions about the client instead of making assumptions.",
+      "topic": "communication skills",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "So instead of chasing the next shiny object, strengthen your basics.",
+      "statement": "Strengthen your basics instead of chasing the next shiny object.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "A transcript excerpt from a YouTube short on achieving success in real estate."
+}

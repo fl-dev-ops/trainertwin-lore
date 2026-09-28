@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "If you're not doing this thing, there is no point to move forward. If you if they're giving you I just want to invest.",
+      "statement": "If they're giving you 'I just want to invest,' don't take it as an answer.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "he's gonna stop responding to you because he doesn't see the value.",
+      "statement": "Jumping to conclusions without engaging further leads to client disengagement.",
+      "topic": "sales strategy",
+      "unit_id": "u000003"
+    }
+  ],
+  "overview": "Sales advice emphasizing engagement in investment conversations."
+}

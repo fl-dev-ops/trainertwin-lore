@@ -1,0 +1,73 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A training environment that incorporates enjoyment can also be financially rewarding, as evidenced by the encouragement to \"have Fun along with making AED 100+k.\"",
+      "qualification": "This is based on advice given and should be verified with training results.",
+      "support_ids": [
+        "linkedin-posts-2025-11-13-on-my-trainings-im-not-md-04bc787de6:c001:e005:787989dd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A freelance remote position does not provide a UAE visa or salary, but offers payment on a contract basis.",
+      "qualification": "The terms of the position are specific and likely subject to individual contract agreements.",
+      "support_ids": [
+        "linkedin-posts-2025-11-17-me-and-my-online-academy-md-e40dd27252:c001:e002:e7932291",
+        "linkedin-posts-2025-11-17-me-and-my-online-academy-md-e40dd27252:c001:e004:d62e316e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a suggestion for career advancement by moving into a managerial role to gain hiring and training experience, with an expectation of receiving partnership offers.",
+      "qualification": "This is advice and not a guaranteed outcome.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e002:0a83075b",
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e003:55d554b8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The initial years in a high-pressure job setting, like Dubai's real estate market, are expected to be extremely challenging.",
+      "qualification": "This view is a personal reflection, possibly influenced by individual experience.",
+      "support_ids": [
+        "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268:c001:e001:b52d970a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Personal growth involves a significant change from beginning stages in the industry to establishing a clear career path in the future.",
+      "qualification": "The importance of long-term planning is self-reported and should be assessed for broader applicability.",
+      "support_ids": [
+        "linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b:c001:e001:34415bb4",
+        "linkedin-posts-2025-11-25-the-advice-i-gave-to-md-974d1678e4:c001:e004:15b858c7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Remote freelance roles have no company-provided relocation or residency benefits, focusing instead on project-based agreements.",
+      "qualification": "This role type might appeal to those not dependant on company support for relocations.",
+      "support_ids": [
+        "linkedin-posts-2025-11-17-me-and-my-online-academy-md-e40dd27252:c001:e002:e7932291",
+        "linkedin-posts-2025-11-17-me-and-my-online-academy-md-e40dd27252:c001:e004:d62e316e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reflective journaling and personal anecdotes provide insight into career challenges and decisions, such as the initial difficulties faced in a new location like Dubai.",
+      "qualification": "These reflections are subjective and based on personal experiences.",
+      "support_ids": [
+        "linkedin-posts-2025-11-18-most-agents-have-never-even-md-dd4882a77b:c001:e001:34415bb4",
+        "linkedin-posts-2025-11-25-this-is-what-nobody-tells-md-ad92f14268:c001:e001:b52d970a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is a light-hearted acknowledgment that written communication may not always be perfect without automated assistance, indicating a human element in professional expression.",
+      "qualification": "This observation reflects on the nature of personal content creation and may not be indicative of overall communication standards.",
+      "support_ids": [
+        "linkedin-posts-2025-11-07-so-proud-of-your-growth-md-ffc017a9ae:c001:e005:adbb2ab4"
+      ]
+    }
+  ]
+}

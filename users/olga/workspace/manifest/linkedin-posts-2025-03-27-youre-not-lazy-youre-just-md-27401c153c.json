@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "linkedin-posts-2025-03-27-youre-not-lazy-youre-just-md-27401c153c-e78faa8ff35a7127.jsonl",
+  "external_id": "7310880759194542082",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:40:50Z",
+  "metadata_hash": "ab37584a6ddbe737cc62465a72eff88ec58d775f186bd2d3bb8645f16e152885",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-03-27T04:30:02.588000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-03-27-youre-not-lazy-youre-just.md",
+  "source_sha256": "785f5160b2e5c66562085a6556e31d89b7112bd5637e34da10c086a61a41bf4e",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalesmentordubai-dubaisalestraining-activity-7310880759194542082-jFqN"
+}

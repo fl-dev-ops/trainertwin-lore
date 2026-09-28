@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "...has reshaped our organisation from the inside out. What she has built is not just “training” - it’s a full learning ecosystem...",
+      "statement": "Olga has reshaped our organisation from the inside out.",
+      "topic": "teaching approach",
+      "unit_id": "u000058"
+    },
+    {
+      "context": "third_party",
+      "kind": "belief",
+      "quote": "Every agent who goes through her programmes comes out more capable, more assured and more aligned...",
+      "statement": "Every agent who goes through her programmes comes out more capable, more assured and more aligned.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000058"
+    },
+    {
+      "context": "third_party",
+      "kind": "belief",
+      "quote": "I’ve seen firsthand the impact of her work, and I would trust her to build, refine and lead...",
+      "statement": "I’ve seen firsthand the impact of her work, and I would trust her to build, refine and lead the L&D function.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000059"
+    },
+    {
+      "context": "third_party",
+      "kind": "self_report",
+      "quote": "Olga truly knows what she’s talking about, her experience as a former agent gives her a deep, real-world understanding...",
+      "statement": "Olga takes the time to listen carefully to her students, identify what’s holding them back.",
+      "topic": "teaching approach",
+      "unit_id": "u000069"
+    },
+    {
+      "context": "third_party",
+      "kind": "offering",
+      "quote": "Olga is incredibly hands-on and committed to her students success. Her expertise, insight, and mentorship have been invaluable...",
+      "statement": "Olga is incredibly hands-on and committed to her students' success.",
+      "topic": "sales training",
+      "unit_id": "u000069"
+    },
+    {
+      "context": "third_party",
+      "kind": "observed_behavior",
+      "quote": "she never gives them the answer, she helps them think their way through it...",
+      "statement": "She helps them think their way through it, so they can learn the thought process.",
+      "topic": "teaching approach",
+      "unit_id": "u000078"
+    },
+    {
+      "context": "third_party",
+      "kind": "fact_claim",
+      "quote": "Olga has a rare ability to break down complex concepts and turn them into practical skills...",
+      "statement": "Olga can break down complex concepts and turn them into practical skills.",
+      "topic": "sales training",
+      "unit_id": "u000089"
+    },
+    {
+      "context": "third_party",
+      "kind": "offering",
+      "quote": "Olga delivers training that is clear, motivating, and effective. What impressed me most is her ability to create...",
+      "statement": "Olga delivers training that is clear, motivating, and effective.",
+      "topic": "sales training",
+      "unit_id": "u000089"
+    },
+    {
+      "context": "third_party",
+      "kind": "belief",
+      "quote": "Olga is ALWAYS LEARNING and APPLYING what she learns, it's great to be able to discuss about books, lectures and seminars with her...",
+      "statement": "Olga is ALWAYS LEARNING and APPLYING what she learns.",
+      "topic": "personal growth",
+      "unit_id": "u000078"
+    }
+  ],
+  "overview": "LinkedIn recommendations for Olga detailing her impact as a Sales Trainer and Head of Learning and Development."
+}

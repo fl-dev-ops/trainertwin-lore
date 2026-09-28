@@ -1,0 +1,62 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Controlling one's focus and emotional state is considered a practical life skill for personal growth and career development.",
+      "qualification": "This finding is based on self-reported advice without empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e003:03407cb2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Focus during networking events should be on the benefits provided rather than personal achievements.",
+      "qualification": "The advice is anecdotal and lacks independent verification.",
+      "support_ids": [
+        "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:c001:e001:0d8e079d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Curiosity can be a tool to enhance client engagement during interactions.",
+      "qualification": "This observation is self-reported and unverified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s108-yaml-068c5f5f17:c001:e001:24acd5e3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Perceived judgment by others can be a barrier to personal effectiveness and confidence.",
+      "qualification": "Evidence is self-reported and lacks empirical data.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s107-yaml-e55156ed57:c001:e003:a23aac51"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Leverage is important for agents to effectively communicate with clients.",
+      "qualification": "This is an observed belief, lacking detailed evidence or validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s106-yaml-3f94e9436b:c001:e005:8c048b13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset plays a crucial role in career development and perceived success.",
+      "qualification": "The claim is anecdotal and based on individual perception.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s106-yaml-3f94e9436b:c001:e001:7de0e0e3"
+      ]
+    },
+    {
+      "counter_ids": [
+        "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:c001:e001:41d55635"
+      ],
+      "finding": "Real-time feedback from clients can assist in understanding their needs during interaction.",
+      "qualification": "The suggestion is practical advice but the effectiveness is not empirically shown.",
+      "support_ids": [
+        "linkedin-posts-2026-09-17-getting-ghosted-by-your-clients-md-4c3ab06c31:c001:e002:26a6da55"
+      ]
+    }
+  ]
+}

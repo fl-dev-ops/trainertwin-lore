@@ -1,0 +1,48 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Feedback and mentorship are valued in career development, but empirical evidence is lacking.",
+      "qualification": "These claims represent individual beliefs and rely on self-reported experiences, lacking empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s43-yaml-5402d50876:c001:e003:28b8e765",
+        "youtube-shorts-run-transcripts-s43-yaml-5402d50876:c001:e002:878810fa"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Coaching might be more beneficial than self-help resources for career development.",
+      "qualification": "Both perspectives are anecdotal and not empirically backed, reflecting personal opinions rather than verified facts.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s43-yaml-5402d50876:c001:e003:28b8e765"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication is important in career development as it supports client engagement and personal growth.",
+      "qualification": "The importance of communication is self-reported and observed, lacking objective measurement or extensive empirical support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s42-yaml-f129776f47:c001:e001:e5af8cdf",
+        "youtube-shorts-run-transcripts-s50-yaml-3b10472baf:c001:e001:feceb09a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Remaining calm in professional settings can improve client interactions and career progression.",
+      "qualification": "This finding is based on self-reported experiences that lack empirical validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s42-yaml-f129776f47:c001:e002:676d4447",
+        "youtube-shorts-run-transcripts-s50-yaml-3b10472baf:c001:e002:45d72b95"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client engagement strategies, such as understanding client needs and delivering value, are crucial for career development.",
+      "qualification": "These strategies are observed behaviors and advised practices, lacking comprehensive empirical evidence.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s42-yaml-f129776f47:c001:e001:e5af8cdf",
+        "youtube-shorts-run-transcripts-s45-yaml-eca160f25a:c001:e001:fd0be4ac"
+      ]
+    }
+  ]
+}

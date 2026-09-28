@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-01-03-ever-felt-overwhelmed-by-goal-setting-md-aaac6e9cf3-40a1e78821aa1433.jsonl",
+  "external_id": "7280933200925773828",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:56:49Z",
+  "metadata_hash": "8052b32bbdf3fd0d313a13e7cfffbff46c8f31c21666b5e682abd42f2d25214e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-01-03T13:09:08.298000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-01-03-ever-felt-overwhelmed-by-goal-setting.md",
+  "source_sha256": "570f0c2657ebf09c54a3750606d324cc766f738523d9514e8df619fe7f67c595",
+  "source_url": "https://www.linkedin.com/posts/olgasi_how-a-solid-plan-made-2025-amazing-what-activity-7280933200925773828-0mDd"
+}

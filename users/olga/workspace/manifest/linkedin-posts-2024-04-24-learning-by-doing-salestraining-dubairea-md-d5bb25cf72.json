@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-04-24-learning-by-doing-salestraining-dubairea-md-d5bb25cf72-0096e678fd88739c.jsonl",
+  "external_id": "7188912610472251392",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T11:54:11Z",
+  "metadata_hash": "52ba2742fa6c4b07db2cab8d333a4af209f73def0de2289771f120b19168d894",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-04-24T14:52:09.874000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-04-24-learning-by-doing-salestraining-dubairea.md",
+  "source_sha256": "878f77e0592d2ecf3e873b14aaa70baa7ae1173e3b8b1ae912db0feb6b2e5c56",
+  "source_url": "https://www.linkedin.com/posts/olgasi_salestraining-dubairealestate-activity-7188912610472251392-_aaX"
+}

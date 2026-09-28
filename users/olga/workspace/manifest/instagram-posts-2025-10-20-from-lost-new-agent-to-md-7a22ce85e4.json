@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "instagram-posts-2025-10-20-from-lost-new-agent-to-md-7a22ce85e4-59d776fe5d958eab.jsonl",
+  "external_id": "3747480522034345007",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:10:28Z",
+  "metadata_hash": "41aecc78ae60be3585b5c60281829292a6af90e7b169f93a6c462eb336bfb82d",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-10-20T10:02:59Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2025-10-20-from-lost-new-agent-to.md",
+  "source_sha256": "60f399433bb1cf245b22967625e79e3e7b0e52454104a135c9a016f132ab7fd0",
+  "source_url": "https://www.instagram.com/p/DQBua4GjXQv/"
+}

@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "B2B operations can result in financial instability as decision-makers change and budget constraints appear.",
+      "qualification": "The evidence is self-reported and not independently verified.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e002:44c8f2c2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "B2C models face challenges with user engagement, where many users participate briefly before disengaging.",
+      "qualification": "Based on the observation from a single source, more independent data would strengthen this point.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e004:83753952"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Startups in Dubai prop-tech sector may struggle with a lack of case studies and sales processes.",
+      "qualification": "It's unverified and based solely on one observation without corroborating sources.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e003:43256ade"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Startup founders can experience frustration from substantial effort not translating into profit.",
+      "qualification": "This finding is based on a subjective observation from a personal account on social media.",
+      "support_ids": [
+        "twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea:c001:e005:fa1894f8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Assessment of a company's size and its successful agent outcomes is crucial for determining potential profitability.",
+      "qualification": "This is advisory, not empirical; the effectiveness is anecdotal.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s143-yaml-25191d39ed:c001:e003:155795c8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Diversification into Dubai real estate may offer more stability and mental relief compared to other investments.",
+      "qualification": "It's an advised strategy, but lacks statistical or research backing to support the claim comprehensively.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s20-yaml-ad44491ce6:c001:e002:51f41b47"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Agents should focus on clients' expectations for accessing funding in upcoming years rather than immediate budgets.",
+      "qualification": "The statement is hypothetical and advisory, originating from a theoretical rather than founded perspective.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s131-yaml-4d82fee088:c001:e004:052a8029"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Future disruptions like pandemics are difficult to predict and were not previously considered likely.",
+      "qualification": "This belief shows uncertainty tolerance but lacks historical or forecasting data to support it comprehensively.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s210-yaml-36da6d8b13:c001:e002:0f6dd850"
+      ]
+    }
+  ]
+}

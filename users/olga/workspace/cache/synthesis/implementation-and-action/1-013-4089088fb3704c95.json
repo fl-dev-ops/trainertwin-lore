@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "AI tools are utilized in sales coupled with cold calling to enhance productivity.",
+      "qualification": "Reported use lacks empirical validation regarding the effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s93-yaml-f1ccc54f39:c001:e003:5d3d620e"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "High performance pressure exists for real estate agents in Dubai, with the risk of job loss for not closing sales quickly.",
+      "qualification": "Self-reported; not necessarily representative of all Dubai agencies.",
+      "support_ids": [
+        "youtube-transcripts-08-yaml-56a7308c21:c001:e001:c45f85b8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Lead nurturing is critical for success in real estate sales, yet empirical evidence is absent.",
+      "qualification": "The advice stems from observed behavior but lacks systematic study.",
+      "support_ids": [
+        "youtube-transcripts-07-yaml-29825889bb:c002:e002:e8456413"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Immediate pitching by agents can negatively impact sales success; advised approach requires timing and strategy.",
+      "qualification": "The claim is anecdotal and lacks empirical testing across varied contexts.",
+      "support_ids": [
+        "youtube-transcripts-06-yaml-0a7019172f:c001:e006:4af41624"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Dubai real estate's perception of expense influences client decisions, implying possible misconceptions.",
+      "qualification": "Hypothetical and broadly generalized without detailed market analysis.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s97-yaml-2fc9e0614c:c001:e003:d99f0aa8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents frequently face rejection during client interactions, with an anecdotal suggestion of 90% saying 'no'.",
+      "qualification": "The rejection rate cited is observed and lacks broader verification.",
+      "support_ids": [
+        "youtube-transcripts-04-yaml-7001eb6128:c001:e004:e4cb7490"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate agents' personal networks and social media are recommended for generating leads.",
+      "qualification": "The approach is self-reported and lacks validation or evidence of outcome.",
+      "support_ids": [
+        "youtube-transcripts-11-yaml-e68135aa2f:c002:e002:fdd1ddfc"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real Estate Growth Academy membership promises personalized advice for agents, with effectiveness unspecified.",
+      "qualification": "Details on its efficacy or comprehensive content remain unverified.",
+      "support_ids": [
+        "youtube-transcripts-14-yaml-c6d4d126bb:c001:e008:686874ac"
+      ]
+    }
+  ]
+}

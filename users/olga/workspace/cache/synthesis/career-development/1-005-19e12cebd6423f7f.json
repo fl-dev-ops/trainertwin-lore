@@ -1,0 +1,70 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Honesty can positively impact client relationships and career progression.",
+      "qualification": "This is based on specific anecdotes and may not generalize across different situations.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03:c001:e003:0e50b46c",
+        "linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03:c001:e002:0e51fad2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Face-to-face interactions are perceived as more effective for closing sales than online methods.",
+      "qualification": "These observations are self-reported and not empirically verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-11-is-it-time-to-master-909376-md-53ec87996c:c001:e001:0d59eed4"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A supportive working environment is deemed crucial for starting a career in real estate, including structure, work ethic, and training.",
+      "qualification": "This is a self-reported view and lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-06-13-how-to-find-the-right-md-786ca7e7f4:c001:e001:197b6233"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Self-beliefs can significantly impact sales performance, potentially more than knowledge alone.",
+      "qualification": "Finding is self-reported and anecdotal without scientific backing, indicating subjective influence.",
+      "support_ids": [
+        "linkedin-posts-2024-09-10-too-many-agents-arent-selling-md-13baa5962c:c001:e002:3347c8e2"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Empirical validation for the role of feedback in career growth is lacking, though it is popularly perceived as valuable.",
+      "qualification": "Feedback is often discussed in terms of personal benefit and potential improvement, yet these views are self-reported and not empirically verified.",
+      "support_ids": [
+        "linkedin-posts-2024-09-18-for-you-real-estate-agents-md-44412b2c31:c001:e003:98fa037c",
+        "linkedin-posts-2024-09-19-recruiters-how-often-do-you-md-9e52618a0a:c001:e003:d5e58a14"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Management involvement is necessary to prevent employees from reverting to old habits after training.",
+      "qualification": "This is an observed behavior reported by the source without additional verification.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e003:124caf54"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Learning skills without practical application is ineffective.",
+      "qualification": "The finding is based on the author's observations without empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-08-12-olga-what-did-you-do-md-83d27e5f20:c001:e004:4e4ac275"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cultural differences are crucial in client engagement, and misunderstanding them can lead to costly mistakes.",
+      "qualification": "Based on the author's personal experiences; not universally applicable or systematically validated.",
+      "support_ids": [
+        "linkedin-posts-2024-09-09-i-made-these-5-mistakes-md-d61017f3b2:c001:e002:853498e5"
+      ]
+    }
+  ]
+}

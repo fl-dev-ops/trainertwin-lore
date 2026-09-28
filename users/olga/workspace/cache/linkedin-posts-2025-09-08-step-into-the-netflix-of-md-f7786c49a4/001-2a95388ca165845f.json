@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Step into the Netflix of Real Estate Growth. LiveItUp Real Estate Growth Academy = skills, strategies & sales confidence.",
+      "statement": "LiveItUp Real Estate Growth Academy offers skills, strategies & sales confidence.",
+      "topic": "training program",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Just a ☕ a month.",
+      "statement": "Training offered for just a small monthly fee.",
+      "topic": "subscription model",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "Check the Training Catalogue - http://bit.ly/462cdeH",
+      "statement": "Provides access to a Training Catalogue for potential participants.",
+      "topic": "training resources",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "This source chunk contains a promotional message for a real estate training program."
+}

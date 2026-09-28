@@ -1,0 +1,131 @@
+{
+  "groups": [
+    {
+      "name": "Mentorship and Influence",
+      "topics": [
+        "mentorship-and-influence"
+      ]
+    },
+    {
+      "name": "Networking and Engagement",
+      "topics": [
+        "networking-and-engagement"
+      ]
+    },
+    {
+      "name": "Personal Development and Mindset",
+      "topics": [
+        "personal-development-and-mindset",
+        "personal-development-and-strategy",
+        "personal-improvement"
+      ]
+    },
+    {
+      "name": "Professional Development and Branding",
+      "topics": [
+        "professional-development",
+        "professional-development-and-branding"
+      ]
+    },
+    {
+      "name": "Program Structures and Offerings",
+      "topics": [
+        "program-structure-and-offerings"
+      ]
+    },
+    {
+      "name": "Project Infrastructure and Traffic Management",
+      "topics": [
+        "project-and-infrastructure",
+        "traffic-management"
+      ]
+    },
+    {
+      "name": "Public Context and Perception",
+      "topics": [
+        "public-context-and-perception",
+        "social-and-cultural-context"
+      ]
+    },
+    {
+      "name": "Real Estate Industry",
+      "topics": [
+        "real-estate-industry",
+        "real-estate-sector"
+      ]
+    },
+    {
+      "name": "Relocation and Lifestyle",
+      "topics": [
+        "relocation-and-lifestyle"
+      ]
+    },
+    {
+      "name": "Sales Techniques and Performance",
+      "topics": [
+        "sales-and-transactions",
+        "sales-performance-and-management",
+        "sales-performance-and-techniques",
+        "sales-strategies-and-processes",
+        "sales-techniques-and-challenges",
+        "sales-techniques-and-tactics"
+      ]
+    },
+    {
+      "name": "Strategic Planning and Outcomes",
+      "topics": [
+        "strategic-planning-and-outcomes"
+      ]
+    },
+    {
+      "name": "Support Services and Technology Tools",
+      "topics": [
+        "support-services",
+        "technology-and-tools"
+      ]
+    },
+    {
+      "name": "Training and Skill Development",
+      "topics": [
+        "training-and-skill-development"
+      ]
+    },
+    {
+      "name": "Trust and Value Perception",
+      "topics": [
+        "trust-and-value-perception"
+      ]
+    },
+    {
+      "name": "Wealth and Investments",
+      "topics": [
+        "wealth-and-investments"
+      ]
+    },
+    {
+      "name": "Workplace Environment and Dynamics",
+      "topics": [
+        "workplace-dynamics",
+        "workplace-environment-and-skills"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "topics": [
+        "miscellaneous"
+      ]
+    },
+    {
+      "name": "routines-and-efficiency",
+      "topics": [
+        "routines-and-efficiency"
+      ]
+    },
+    {
+      "name": "professional-background",
+      "topics": [
+        "professional-background"
+      ]
+    }
+  ]
+}

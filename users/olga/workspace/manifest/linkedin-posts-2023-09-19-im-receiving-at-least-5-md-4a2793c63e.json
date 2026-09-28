@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2023-09-19-im-receiving-at-least-5-md-4a2793c63e-fc0967b73421bb9a.jsonl",
+  "external_id": "7109913568241709059",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:16:16Z",
+  "metadata_hash": "64de06f62046c89633300c7da814005a85c754b8d2b2954166b4e00e396618aa",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-09-19T14:58:10.475000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-09-19-im-receiving-at-least-5.md",
+  "source_sha256": "df217cc628c5727fcfad81c0076119ac0e0ed71331a97b9754bb06489baf4dd0",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestrainer-clientdiscovery-understandyourclients-activity-7109913568241709059-q0EQ"
+}

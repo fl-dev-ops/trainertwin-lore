@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "he HATES cold calling. We look back at his first year in real estate",
+      "statement": "he HATES cold calling",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "case_study",
+      "quote": "we look back at his first year in real estate — the wins, the struggles, and the unexpected lessons.",
+      "statement": "look back at his first year in real estate — the wins, the struggles, and the unexpected lessons.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "hypothetical",
+      "kind": "offering",
+      "quote": "If you’ve ever doubted whether this career is really for you, this one’s worth watching.",
+      "statement": "If you’ve ever doubted whether this career is really for you, this one’s worth watching.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post summarizing a discussion about a real estate professional's experiences."
+}

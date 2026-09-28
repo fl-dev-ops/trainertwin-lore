@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "offering",
+      "quote": "Try this Free AI assistant for building your listing presentation.",
+      "statement": "Try this Free AI assistant for building your listing presentation.",
+      "topic": "sales strategy",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "you can create a professional presentation - which will look like a Listing on a Portal.",
+      "statement": "Create a professional presentation that looks like a Listing on a Portal.",
+      "topic": "sales process",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post promoting an AI assistant for real estate presentations."
+}

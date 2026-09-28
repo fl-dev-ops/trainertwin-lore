@@ -1,0 +1,73 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Personal narratives frequently emphasize expressing gratitude towards mentors and appreciating experiences.",
+      "qualification": "This evidence is self-reported and anecdotal.",
+      "support_ids": [
+        "linkedin-posts-2023-08-23-before-and-after-honestly-i-md-804094dbfb:c001:e003:ecc4b379",
+        "linkedin-posts-2023-09-13-my-first-trip-to-saudi-md-405dbaed49:c001:e001:c23effe9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding client perspectives is believed to enhance relationships, though clients often trust their own insights over salespeople's suggestions.",
+      "qualification": "These insights are self-reported beliefs and may not be directly verified.",
+      "support_ids": [
+        "linkedin-posts-2023-11-14-what-does-a-salesperson-think-md-a995bce4a5:c001:e003:9affa0e2",
+        "linkedin-posts-2023-11-30-why-do-we-ask-questions-md-9a43d0bde4:c001:e005:eb411d07"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A positive mindset shift is considered necessary for overcoming sales resistance and improving personal effectiveness.",
+      "qualification": "Assertions are self-reported beliefs without external validation.",
+      "support_ids": [
+        "linkedin-posts-2023-07-26-the-unfiltered-truth-md-0407433d5b:c001:e003:a484f35a",
+        "linkedin-posts-2023-07-31-if-you-are-looking-for-md-745d23e062:c001:e001:0d30e1a7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Companies may provide support for professional growth, according to self-reported claims.",
+      "qualification": "User claims are self-reported, making independent verification necessary.",
+      "support_ids": [
+        "instagram-posts-2026-05-21-get-trained-close-deals-grow-md-63761ec46e:c001:e003:4a9f3d8a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Community ties reportedly influence personal and professional roots.",
+      "qualification": "Self-reported opinion indicates personal bias towards community attachment.",
+      "support_ids": [
+        "linkedin-posts-2024-08-13-brace-yourselfthings-are-about-to-md-bf44d522f9:c001:e001:adbd3a98"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Salespeople's reluctance to discuss certain topics is linked to facing emotional truths.",
+      "qualification": "This stance is self-reported without empirical data.",
+      "support_ids": [
+        "linkedin-posts-2023-09-13-im-not-happy-to-discuss-md-fa8959df16:c001:e001:0755becf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset significantly affects the sales process and its outcomes.",
+      "qualification": "The evidence is based on self-reported and hypothetical statements.",
+      "support_ids": [
+        "linkedin-posts-2024-09-17-the-power-of-a-mind-md-8ce3cbdf03:c001:e001:4c7c5dcf",
+        "linkedin-posts-2024-09-18-3-to-6-months-realistic-md-8d0ca6b52f:c001:e003:7fa06bef",
+        "linkedin-posts-2024-10-02-your-mindset-creates-perception-percepti-md-fd33529736:c001:e001:1ea109f1"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Despite cross-cultural differences, individuals reportedly make decisions in the same way.",
+      "qualification": "This claim is unverified and lacks external empirical data to support it.",
+      "support_ids": [
+        "linkedin-posts-2023-08-09-if-you-are-still-convincing-md-a2a3db36d2:c001:e002:fcf0cae6"
+      ]
+    }
+  ]
+}

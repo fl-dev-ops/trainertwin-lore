@@ -1,0 +1,20 @@
+{
+  "behavior": {
+    "communication_style": [
+      "No communication style observable from account metadata."
+    ],
+    "confidence": "provisional",
+    "content_patterns": [
+      "Profile picture is a significant identity marker."
+    ],
+    "decision_rules": [
+      "Twitter username includes direct personal name, indicating personal branding."
+    ],
+    "key_phrases": [],
+    "platform": "twitter",
+    "summary": "Provisional / sparse observation (1 sources): insufficient volume to infer a recurring platform persona."
+  },
+  "card_count": 3,
+  "signature": "d09ebf3835928d8f73a3a4ee59526f40a8253f322274a7d37ca5e8569c623bd4",
+  "source_count": 1
+}

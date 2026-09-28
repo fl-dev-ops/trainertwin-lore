@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "August almost doesn’t feel like the time to talk about business. It’s the time when, perhaps, you’re not making money — you’re spending it. And that depends entirely on how you’ve worked for the past year.",
+      "statement": "August isn’t the eighth month of the year. It’s my personal December.",
+      "topic": "personal growth",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "Why? Because Dubai real estate is cyclical — and August gives you the perfect pause to take stock.",
+      "statement": "Dubai real estate is cyclical.",
+      "topic": "real estate potential",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "When I was a real estate agent — and later a sales manager — I couldn’t take a proper holiday.",
+      "statement": "When I was a real estate agent — and later a sales manager — I couldn’t take a proper holiday.",
+      "topic": "self-assessment",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "This summer I spent x weeks away — Bali and Portugal — and next year I’m aiming for three.",
+      "statement": "This summer I spent x weeks away — Bali and Portugal — and next year I’m aiming for three.",
+      "topic": "personal effectiveness",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "Because building a business isn’t just about the deals you close — it’s about creating the life you want to live.",
+      "statement": "Building a business isn’t just about the deals you close — it’s about creating the life you want to live.",
+      "topic": "mindset shift",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "What if the X00,000 AED you might not earn because of those weeks away actually buys you something more valuable — unforgettable memories you’ll never regret?",
+      "statement": "The X00,000 AED you might not earn because of those weeks away actually buys you something more valuable.",
+      "topic": "life reflection",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "A reflective LinkedIn post by a real estate professional discussing the cyclical nature of their business and the importance of personal time off."
+}

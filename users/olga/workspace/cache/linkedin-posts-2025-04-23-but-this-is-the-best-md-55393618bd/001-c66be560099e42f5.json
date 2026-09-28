@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "about real persuasion — built on how decisions are made.",
+      "statement": "It’s about real persuasion — built on how decisions are made.",
+      "topic": "persuasion in sales",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "your responsibility to learn something better.",
+      "statement": "It is your responsibility to learn something better.",
+      "topic": "responsibility in sales",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "third_party",
+      "kind": "offering",
+      "quote": "this in depth in my YouTube training.",
+      "statement": "I talk about this in depth in my YouTube training.",
+      "topic": "training approach",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "LinkedIn post discussing client engagement and sales strategy"
+}

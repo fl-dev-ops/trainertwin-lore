@@ -1,0 +1,69 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Understanding the purpose behind questions is key to effective script usage in client engagement.",
+      "qualification": "This advice is based on personal guidance, not independent verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s79-yaml-9f84fb34a0:c001:e002:ec3e8b8f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Adding amortization levels can ease the conversation when asking tough questions about personal matters in client engagement.",
+      "qualification": "The effectiveness of this strategy is hypothetical and unverified.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s80-yaml-d205dbdd2b:c001:e001:9ec8fd05"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Open-ended questions encourage client reflection and engagement in discussions.",
+      "qualification": "This is advice observed in guidance, not independently validated.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s83-yaml-6c61620fd4:c001:e003:9c18b43f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "A significant majority believe salespeople are biased, suggesting a trust gap that challenges client engagement.",
+      "qualification": "The belief is self-reported without external validation or verification.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s84-yaml-ea93100b3a:c001:e001:6e953b7a",
+        "youtube-shorts-run-transcripts-s84-yaml-ea93100b3a:c001:e002:71213f47"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Client resistance occurs when they feel pressured or persuaded, impacting engagement effectiveness.",
+      "qualification": "Observed as a belief rather than a universally verified fact.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s86-yaml-4de8201e22:c001:e003:784749c5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Offering to walk clients through a marketing plan can improve seller engagement.",
+      "qualification": "The strategy is self-reported and requires validation for broader applicability.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s87-yaml-5d549fc8aa:c001:e002:1f60c719"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clients may prioritize financial gain over other considerations when choosing sellers or service providers.",
+      "qualification": "This observation lacks broader empirical support.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s88-yaml-6990d42cc8:c001:e003:97f9b9bd"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Exploring options that lack discounts can potentially offer better long-term returns for clients.",
+      "qualification": "Advice given requires further verification for effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s88-yaml-6990d42cc8:c001:e005:ad587556"
+      ]
+    }
+  ]
+}

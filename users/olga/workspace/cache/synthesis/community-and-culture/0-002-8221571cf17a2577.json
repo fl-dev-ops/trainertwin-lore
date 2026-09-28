@@ -1,0 +1,72 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "The exercise of spontaneous thinking involves timing oneself for 60 seconds and picking a word at random from a book to create a character with specific traits and backstory.",
+      "qualification": "This approach is self-reported and may not represent validated creativity exercises.",
+      "support_ids": [
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e001:1cb86824",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e002:688d57ad",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e003:fe017e74",
+        "linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:c001:e004:64b8e9f5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Wearing yellow glasses is linked to wanting to be realistic in personal effectiveness strategies.",
+      "qualification": "The significance of yellow glasses is not explained beyond personal intention, making the impact speculative.",
+      "support_ids": [
+        "linkedin-posts-2023-07-18-this-week-i-will-be-md-1f6b4df35f:c001:e002:54e6c38c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mindset shifts are viewed as crucial for overcoming sales resistance, and curiosity about businesses is emphasized over merely seeking business opportunities.",
+      "qualification": "These conclusions are self-reported and lack independent validation.",
+      "support_ids": [
+        "linkedin-posts-2023-07-26-the-unfiltered-truth-md-0407433d5b:c001:e003:a484f35a",
+        "linkedin-posts-2023-09-11-first-saudi-experience-for-me-md-1a64830fc1:c001:e003:1d554088"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is self-reported discomfort in certain professional situations, such as listening to mentors, which affects personal effectiveness.",
+      "qualification": "The statement is anecdotal and may not reflect a general experience.",
+      "support_ids": [
+        "linkedin-posts-2023-08-03-how-to-spot-a-weak-md-5c0636bcb7:c001:e001:eb3c7d3c"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Gratitude is expressed in professional relationships, highlighting its importance in networking and business culture.",
+      "qualification": "Expressions of gratitude are self-reported and may be subjective.",
+      "support_ids": [
+        "linkedin-posts-2023-08-23-before-and-after-honestly-i-md-804094dbfb:c001:e003:ecc4b379"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The belief that decision-making is similar across different cultures is asserted, despite cultural differences.",
+      "qualification": "This claim is presented without supporting evidence or cross-cultural references.",
+      "support_ids": [
+        "linkedin-posts-2023-08-09-if-you-are-still-convincing-md-a2a3db36d2:c001:e002:fcf0cae6"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "An emotional stance is taken toward certain topics, with some issues being reluctantly addressed.",
+      "qualification": "The emotional context is self-reported and may not reflect a broader sentiment.",
+      "support_ids": [
+        "linkedin-posts-2023-09-13-im-not-happy-to-discuss-md-fa8959df16:c001:e001:0755becf"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Interactions during cultural experiences, such as acknowledging female drivers in Saudi Arabia, reflect personal appreciation and recognition of cultural shifts.",
+      "qualification": "This observation is personal and may not capture broader societal changes.",
+      "support_ids": [
+        "linkedin-posts-2023-09-13-my-first-trip-to-saudi-md-405dbaed49:c001:e001:c23effe9"
+      ]
+    }
+  ]
+}

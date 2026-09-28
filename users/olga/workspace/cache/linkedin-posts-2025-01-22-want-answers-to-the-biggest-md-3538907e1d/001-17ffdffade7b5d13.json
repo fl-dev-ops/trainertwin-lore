@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Want answers to the biggest challenges slowing you down?",
+      "statement": "The author seeks to engage with agents on their challenges.",
+      "topic": "client engagement",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I’m working on practical solutions for agents and shared a list of key topics.",
+      "statement": "The author is working on practical solutions for real estate agents.",
+      "topic": "professional services",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "observed_behavior",
+      "quote": "Let me know in the comments—what’s your biggest challenge at the moment?",
+      "statement": "The author encourages comments from readers about their biggest challenges.",
+      "topic": "engagement strategy",
+      "unit_id": "u000001"
+    }
+  ],
+  "overview": "LinkedIn post inviting engagement on challenges faced by real estate agents."
+}

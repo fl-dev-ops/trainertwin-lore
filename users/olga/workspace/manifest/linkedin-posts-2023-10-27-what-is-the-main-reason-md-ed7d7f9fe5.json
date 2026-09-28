@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2023-10-27-what-is-the-main-reason-md-ed7d7f9fe5-9e7f5594ca2174ce.jsonl",
+  "external_id": "7123594338042793984",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:18:07Z",
+  "metadata_hash": "a478345eb6d03faa1591f993d411dc6a5f530db15706d72ec94d1112523f8401",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-10-27T09:00:40.172000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-10-27-what-is-the-main-reason.md",
+  "source_sha256": "e47c80c10133749e58495c2f95cb3baf1472759357312f51a2666730688bc80e",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestips-solvetheproblem-sellingrealestatedubai-activity-7123594338042793984-NYNW"
+}

@@ -1,0 +1,61 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Focusing on the number of attempts in client prospecting, rather than just positive responses, is a suggested strategy for improving engagement.",
+      "qualification": "The advice seems to emphasize effort over immediate success, but the effectiveness of this method is unverified.",
+      "support_ids": [
+        "linkedin-posts-2023-07-20-rejection-is-a-myth-consider-md-c6d7a21b56:c001:e004:2d19a98a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sharing success stories of other investors can build investor confidence and mitigate loss aversion.",
+      "qualification": "This is self-reported advice with no direct evidence of effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2023-08-10-even-if-you-do-not-md-ba10330e16:c001:e003:ac85f457"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Direct communication without strategic considerations can lead to client resistance and loss of trust.",
+      "qualification": "This is self-reported and presents a cautionary note rather than evidence of outcomes.",
+      "support_ids": [
+        "linkedin-posts-2023-08-10-even-if-you-do-not-md-ba10330e16:c001:e004:a65c23a5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Mentorship and foundational skills in prospecting and closing are viewed as critical components of success in real estate.",
+      "qualification": "This is self-reported and reflects personal experience but is not independently verified.",
+      "support_ids": [
+        "linkedin-posts-2023-07-13-succeeding-as-a-new-real-md-72dc7089ed:c001:e009:5137e9d3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging clients to share their preferences can be an engagement strategy for real estate professionals.",
+      "qualification": "This strategy is observed behavior but lacks evidence of impact.",
+      "support_ids": [
+        "linkedin-posts-2023-07-28-aside-from-budget-limitations-where-md-7d9683c32f:c001:e001:779a12de"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Communicating facts and market news effectively is considered important for client engagement.",
+      "qualification": "The claim focuses on communication style but does not provide evidence of efficacy.",
+      "support_ids": [
+        "linkedin-posts-2023-08-02-must-listen-to-all-my-md-7dbdf47b6d:c001:e001:fc0a897d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Choosing the right engagement strategies can influence client decisions and outcomes in sales.",
+      "qualification": "The evidence is limited to anecdotal claims without detailed context or success metrics.",
+      "support_ids": [
+        "linkedin-posts-2023-08-01-the-client-told-you-no-md-19335c72ba:c001:e001:f9d8f43a",
+        "linkedin-posts-2023-08-01-the-client-told-you-no-md-19335c72ba:c001:e005:a3036721"
+      ]
+    }
+  ]
+}

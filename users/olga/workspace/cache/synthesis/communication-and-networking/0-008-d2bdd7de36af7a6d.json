@@ -1,0 +1,49 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Audience trust is vital for lasting engagement and conversion of followers into real clients.",
+      "qualification": "Explicit claim made by the same speaker without external validation or independent corroboration.",
+      "support_ids": [
+        "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75:c001:e004:999f7783"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Encouraging user interaction through comments appears frequently in social media engagement strategies but lacks verified evidence of effectiveness.",
+      "qualification": "Observed behavior with requests to comment; based solely on self-reported posts and not independently verified for effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-10-01-how-to-handle-dubai-is-md-d200544138:c001:e006:ad5da726",
+        "linkedin-posts-2024-10-07-she-closed-six-deals-in-md-bfd8e302da:c001:e004:7951bbeb",
+        "linkedin-posts-2024-10-30-finding-an-lms-that-doesnt-md-bf86fc2aae:c001:e003:39052635",
+        "linkedin-posts-2024-11-14-when-dreams-meet-reality-the-md-4f770bac64:c001:e004:2ba8b431"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Social media engagement strategies emphasize sharing personal values and experiences as a way to connect with audiences.",
+      "qualification": "Advice and encouragement seen in posts; effectiveness and scope unverified, relying on speaker's assertions.",
+      "support_ids": [
+        "linkedin-posts-2024-09-30-how-to-generate-leads-online-md-6a4f10ac75:c001:e005:e9e4eeb6",
+        "linkedin-posts-2024-11-14-when-dreams-meet-reality-the-md-4f770bac64:c001:e004:2ba8b431"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Community engagement benefits from upgrades like improved access in local infrastructure projects, reportedly aiding 300,000 residents.",
+      "qualification": "Reports not externally validated or independently confirmed; claims made in self-reported LinkedIn context.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e003:73f34f72",
+        "linkedin-posts-2024-11-18-if-you-are-lazy-to-md-98282f091b:c001:e009:2403f3b9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Networking strategies suggest trying new methods without detailing specific approaches or verified benefits.",
+      "qualification": "Observed context indicates endorsement of trying new methods; lacks specificity and independent validation.",
+      "support_ids": [
+        "linkedin-posts-2024-10-24-new-way-to-network-have-md-43b6d72d93:c001:e001:d6f75210"
+      ]
+    }
+  ]
+}

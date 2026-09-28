@@ -1,0 +1,60 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Starting with limited language skills can be a part of career development, as demonstrated by a user who began with almost no English ability and is now thriving.",
+      "qualification": "This evidence is self-reported and unverified.",
+      "support_ids": [
+        "linkedin-posts-2024-11-25-in-a-global-hub-like-md-1d8305f46d:c001:e001:c11b1c13"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Improving language skills is seen as necessary to maintain client engagement and avoid losing customers.",
+      "qualification": "This is a belief and self-reported.",
+      "support_ids": [
+        "linkedin-posts-2024-11-25-in-a-global-hub-like-md-1d8305f46d:c001:e003:3b21047d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Creating impact on people and consequently on the economy is considered more motivating than monetary gains for career development.",
+      "qualification": "This statement is self-reported, reflecting personal motivation.",
+      "support_ids": [
+        "linkedin-posts-2024-12-04-10-years-out-of-53-md-95ed3d4a82:c001:e004:22da7443"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Establishing strong client relationships requires more than just technological solutions like \"pocket listings\"; personal engagement remains important.",
+      "qualification": "This is a self-reported belief without external verification.",
+      "support_ids": [
+        "linkedin-posts-2024-11-28-i-have-a-pocket-listings-md-ace554932a:c001:e003:64926748"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The developer's reputation is crucial in determining the quality of real estate projects, affecting client trust and engagement.",
+      "qualification": "This is advice based on self-reporting, lacking empirical validation.",
+      "support_ids": [
+        "linkedin-posts-2024-11-21-master-your-area-a-real-md-852b756fc0:c001:e001:542cce5f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "There is debate about the sustainability of certain large-scale real estate projects in Saudi Arabia, with concerns about long-term feasibility and reliability.",
+      "qualification": "The statement is hypothetical and lacks empirical proof.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e009:cbfdcc6a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate investments in Saudi Arabia can present systemic challenges, such as a lack of commissions for agents due to self-selling properties.",
+      "qualification": "This is a belief, presented hypothetically and not verified.",
+      "support_ids": [
+        "linkedin-posts-2024-11-19-saudi-arabias-emerging-real-estate-md-7a49149017:c001:e007:47cfa901"
+      ]
+    }
+  ]
+}

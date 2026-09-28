@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-09-07-if-you-are-watching-this-md-3b99390bb6-fb1440904227bf6a.jsonl",
+  "external_id": "3980812763716504081",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:11:42Z",
+  "metadata_hash": "09069a6d62f8278bad86e221c084d5413a20fcf7c1ee23d9468cbe80d30f9ce9",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-09-07T08:40:33Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/instagram/posts/2026-09-07-if-you-are-watching-this.md",
+  "source_sha256": "1f5f847ca4b173712675ad974549e559207150218b35f31f8d00259113b69c98",
+  "source_url": "https://www.instagram.com/p/Dc-sB4KqcoR/"
+}

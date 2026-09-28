@@ -1,0 +1,71 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "A client's fear in real estate transactions may stem from their past experiences.",
+      "qualification": "This is self-reported and hypothetical, as it bases the client's fear on potential past experiences without verifying those experiences.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s68-yaml-d28bfefa52:c001:e001:5b77a5d9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Reassuring clients that negative outcomes from past experiences may not repeat is an important strategy in real estate objection handling.",
+      "qualification": "Hypothetical reassurance strategy with no direct evidence of its effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s68-yaml-d28bfefa52:c001:e003:f43893f5"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding the full scope of clients' problems is crucial to address their concerns effectively in sales processes.",
+      "qualification": "Observed advice but not verified; relies on full understanding of context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s69-yaml-d7b235f86e:c001:e002:36bbde4f",
+        "youtube-shorts-run-transcripts-s69-yaml-d7b235f86e:c001:e003:a4061b7d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Clarifying what clients mean by 'too expensive' is critical when handling price objections.",
+      "qualification": "This advice is hypothetical and based on understanding varied client interpretations.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s72-yaml-bfa602dbb6:c001:e001:647b1c10",
+        "youtube-shorts-run-transcripts-s72-yaml-bfa602dbb6:c001:e004:9762ee07"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Successful real estate agents achieve high earnings by closing multiple deals and maintaining a steady business flow.",
+      "qualification": "General observation without specific data on transactional volume or sustained earnings.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s70-yaml-dab9a414c3:c001:e001:9c077485"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Training and coaching can lead agents to substantial earnings in real estate commissions, potentially reaching millionaire status.",
+      "qualification": "Self-reported claim with no external verification or clarity about training methodologies.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s70-yaml-dab9a414c3:c001:e003:7b003478"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Providing concrete numbers can increase investor confidence in rising real estate markets.",
+      "qualification": "Advice but not independently verified; efficacy may vary based on context.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s74-yaml-949679f29c:c001:e002:889b5ab3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Educational Zoom meetings are used to address knowledge gaps for international real estate investors.",
+      "qualification": "Hypothetical strategy for bridging knowledge gaps with no specific measurement of effectiveness.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s73-yaml-1596d25c04:c001:e002:223e3faa",
+        "youtube-shorts-run-transcripts-s73-yaml-1596d25c04:c001:e003:658eadea"
+      ]
+    }
+  ]
+}

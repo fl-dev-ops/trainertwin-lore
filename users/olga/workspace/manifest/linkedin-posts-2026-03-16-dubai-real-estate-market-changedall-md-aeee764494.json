@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "linkedin-posts-2026-03-16-dubai-real-estate-market-changedall-md-aeee764494-881fe594e4943f8c.jsonl",
+  "external_id": "7439208647232053248",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-27T12:05:34Z",
+  "metadata_hash": "528230edd1da0e0c483f5cc34a2e91ead354a4d0edaab2f8794bf509e822c50e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2026-03-16T07:19:15.313000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2026-03-16-dubai-real-estate-market-changedall.md",
+  "source_sha256": "a1bc5006b7364b5e901c408834f0c8e4b522a4bd0130764a203d597b0689533e",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dubairealestate-realestatetraining-salestraining-activity-7439208647232053248-Ylfx"
+}

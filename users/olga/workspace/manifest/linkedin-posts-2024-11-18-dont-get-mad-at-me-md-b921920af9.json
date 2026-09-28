@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2024-11-18-dont-get-mad-at-me-md-b921920af9-f548d3318459d55a.jsonl",
+  "external_id": "7264123910139367424",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:35:35Z",
+  "metadata_hash": "c22bce734d68dc16f855e1a72bb06b80dac165313b1147be35bc50dfe3b40e0e",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2024-11-18T03:55:01.073000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2024-11-18-dont-get-mad-at-me.md",
+  "source_sha256": "96c7b7ec01bebb018e3405738107cdb2ba2cbaf766e29af06618738df1534244",
+  "source_url": "https://www.linkedin.com/posts/olgasi_dont-get-mad-at-me-i-wont-respond-to-activity-7264123910139367424-xNLU"
+}

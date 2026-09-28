@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2025-10-23-why-95-of-real-estate-md-9a167dacc4-9f807cfe5d25fee2.jsonl",
+  "external_id": "7386977508174237696",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T15:49:53Z",
+  "metadata_hash": "3ccdd2fb060cd3282746054d3494359caa054391fa17e2e2fee32e19d9aa29c2",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2025-10-23T04:11:21.354000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2025-10-23-why-95-of-real-estate.md",
+  "source_sha256": "d77296b344493f70ecd068703c484f75882535eb55324da03220cd22cb0c6d7d",
+  "source_url": "https://www.linkedin.com/posts/olgasi_realestatesalestraining-dubairealestate-salestraining-activity-7386977508174237696-SA_H"
+}

@@ -1,0 +1,104 @@
+{
+  "groups": [
+    {
+      "name": "emotional-experience",
+      "topics": [
+        "emotional-experience",
+        "emotional-response",
+        "emotional-stance",
+        "emotional-state"
+      ]
+    },
+    {
+      "name": "employment-and-business",
+      "topics": [
+        "employer-expectations",
+        "employment-logistics"
+      ]
+    },
+    {
+      "name": "engagement-strategies",
+      "topics": [
+        "engagement",
+        "engagement-invitation",
+        "engagement-strategy",
+        "engaging-decision-makers"
+      ]
+    },
+    {
+      "name": "event-management",
+      "topics": [
+        "event-details",
+        "event-invitation",
+        "event-participation",
+        "event-performance",
+        "event-registration"
+      ]
+    },
+    {
+      "name": "execution-in-practice",
+      "topics": [
+        "execution-importance",
+        "execution-in-sales",
+        "execution-strategy"
+      ]
+    },
+    {
+      "name": "strategic-decision-making",
+      "topics": [
+        "exit-strategy",
+        "expanding-opportunities"
+      ]
+    },
+    {
+      "name": "realities-of-expectation",
+      "topics": [
+        "expectation-vs-reality",
+        "expectations"
+      ]
+    },
+    {
+      "name": "external-influences",
+      "topics": [
+        "external-factors"
+      ]
+    },
+    {
+      "name": "fear-and-objection",
+      "topics": [
+        "fear-based-objection",
+        "fear-in-objections",
+        "fear-of-cold-calling",
+        "fear-of-making-calls",
+        "fear-of-rejection",
+        "fears-in-sales"
+      ]
+    },
+    {
+      "name": "feedback-and-improvement",
+      "topics": [
+        "feedback-importance",
+        "feedback-reception",
+        "feedback-solicitation"
+      ]
+    },
+    {
+      "name": "financial-goals",
+      "topics": [
+        "financial-freedom"
+      ]
+    },
+    {
+      "name": "impact-awareness",
+      "topics": [
+        "environmental-impact"
+      ]
+    },
+    {
+      "name": "sales-ethics",
+      "topics": [
+        "ethical-sales"
+      ]
+    }
+  ]
+}

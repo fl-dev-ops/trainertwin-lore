@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "context": "self_reported",
+      "kind": "self_report",
+      "quote": "I've been selling Dubai properties for more than eleven years and for past five I train and coach individual agents...",
+      "statement": "I've been selling Dubai properties for more than eleven years.",
+      "topic": "professional background",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "observed",
+      "kind": "fact_claim",
+      "quote": "I train and coach individual agents and a sales team and the companies on how to make consistent income in a commission only environment...",
+      "statement": "I train and coach individual agents and a sales team and the companies on how to make consistent income in a commission only environment.",
+      "topic": "sales training",
+      "unit_id": "u000001"
+    },
+    {
+      "context": "self_reported",
+      "kind": "belief",
+      "quote": "I want more people to being able to access the knowledge and have the dream life and dream career...",
+      "statement": "I want more people to being able to access the knowledge and have the dream life and dream career.",
+      "topic": "access to knowledge",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "observed",
+      "kind": "offering",
+      "quote": "I specifically put everything together and I'm doing it for literally a couple of cups of coffee a month.",
+      "statement": "I specifically put everything together and I'm doing it for literally a couple of cups of coffee a month.",
+      "topic": "membership",
+      "unit_id": "u000002"
+    },
+    {
+      "context": "advised",
+      "kind": "advice",
+      "quote": "...feel like you need a little bit more guidance and understanding and how to handle the clients, objections, cold calling, structured social media...",
+      "statement": "...need a little bit more guidance and understanding and how to handle the clients, objections, cold calling, structured social media, Instagram.",
+      "topic": "client engagement",
+      "unit_id": "u000002"
+    }
+  ],
+  "overview": "Transcript of a promotional introduction for a real estate training academy."
+}

@@ -1,0 +1,68 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Sales professionals may experience physical discomfort in response to client rejection, indicating emotional investment in their work.",
+      "qualification": "This claim is self-reported and lacks empirical backing.",
+      "support_ids": [
+        "linkedin-posts-2024-11-15-its-time-to-uncover-the-md-6d4e6206d5:c001:e002:4779cf56"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Engaging with clients through personalized attention, such as reading their profiles, is essential for effective client relations.",
+      "qualification": "Advice is anecdotal and is not tested against measurable outcomes.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-dont-get-mad-at-me-md-b921920af9:c001:e001:ca82e117"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Transparency is vital for building trust with clients, which is a key element in closing deals.",
+      "qualification": "The statement reflects a common belief but lacks formal verification.",
+      "support_ids": [
+        "linkedin-posts-2024-11-18-is-this-unit-really-that-md-adbce7b6df:c001:e001:8ee3f936"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Understanding the background and reputation of builders in a client's area is important for establishing trust and ensuring quality.",
+      "qualification": "This advice is based on observed practices without empirical evidence.",
+      "support_ids": [
+        "linkedin-posts-2024-11-21-master-your-area-a-real-md-852b756fc0:c001:e001:542cce5f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Cultural and language awareness can significantly impact business success in diverse environments.",
+      "qualification": "While this statement aligns with known cultural theories, it remains anecdotal.",
+      "support_ids": [
+        "linkedin-posts-2024-11-25-in-a-global-hub-like-md-1d8305f46d:c001:e002:9f41d150"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales professionals emphasize the limitations of pocket listings, indicating that such listings alone are not sufficient to secure contracts.",
+      "qualification": "This belief is self-reported and may not lead to actionable insights.",
+      "support_ids": [
+        "linkedin-posts-2024-11-28-i-have-a-pocket-listings-md-ace554932a:c001:e003:64926748"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Effective communication strategies, including follow-ups and persistence, are essential for managing client relationships successfully.",
+      "qualification": "Advice based on personal experience; lacks empirical support.",
+      "support_ids": [
+        "linkedin-posts-2024-12-16-struggling-with-time-management-in-md-860b2c8abd:c001:e002:2d95e7b9"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Practicing effective time management and communication skills is crucial for real estate professionals to maintain client engagement and management.",
+      "qualification": "Suggestions drawn from personal experience; may vary in effectiveness.",
+      "support_ids": [
+        "linkedin-posts-2024-12-09-solution-for-your-pocket-listings-md-a3a117c887:c001:e001:ecc3de2c"
+      ]
+    }
+  ]
+}

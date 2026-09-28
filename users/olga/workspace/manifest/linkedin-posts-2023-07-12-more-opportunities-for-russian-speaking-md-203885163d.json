@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-07-12-more-opportunities-for-russian-speaking-md-203885163d-44b75bf758429eef.jsonl",
+  "external_id": "7084843244727017472",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:18:21Z",
+  "metadata_hash": "22d24dbe4297873e78cc8e6f79a82571b8c9630fafbe7dc3897674af7720d032",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-07-12T10:37:39.565000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-07-12-more-opportunities-for-russian-speaking.md",
+  "source_sha256": "0772e25fa220ba81305f5f4c715940c9e19807b789f873a2411e7a19b93e8368",
+  "source_url": "https://www.linkedin.com/posts/olgasi_hiringimmediately-activity-7084843244727017472-sOpR"
+}

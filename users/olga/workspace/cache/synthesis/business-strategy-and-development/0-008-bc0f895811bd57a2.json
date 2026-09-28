@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "counter_ids": [],
+      "finding": "Restriction in appointment availability is perceived to increase client respect and establish authority.",
+      "qualification": "This claim is based on self-reported observation, not independent validation.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s174-yaml-3070932203:c001:e002:0e814c3a"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Olga Semenenko is identified as a real estate sales trainer with a long tenure in Dubai.",
+      "qualification": "The evidence is self-reported and third-party, forming a consistent pattern.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s180-yaml-e28c846232:c001:e001:e82e9b8b",
+        "youtube-shorts-run-transcripts-s33-yaml-4523ddbe40:c001:e001:3c5391b2",
+        "youtube-shorts-run-transcripts-s89-yaml-9311c8ce18:c001:e001:7f3c7ec3"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The reported years of experience in Dubai real estate range from ten to eleven years.",
+      "qualification": "The timeline varies slightly, but the reported duration is consistently long.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s33-yaml-4523ddbe40:c001:e001:3c5391b2",
+        "youtube-transcripts-03-yaml-e083a8937f:c001:e001:80f55cfb",
+        "youtube-shorts-run-transcripts-s35-yaml-de8e81409c:c001:e001:b1f21be8"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Olga Semenenko transitioned from agent to sales manager, then to a trainer since 2020.",
+      "qualification": "Self-reported career progression corroborated by third-party claims.",
+      "support_ids": [
+        "youtube-transcripts-03-yaml-e083a8937f:c001:e002:97958829",
+        "youtube-transcripts-04-yaml-7001eb6128:c001:e001:ba2a874d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Real estate clients coached by the speaker have achieved significant financial milestones in Dubai.",
+      "qualification": "This claim is self-reported with no independent verification provided.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s65-yaml-028370d216:c001:e003:913e051f"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "The speaker has used and taught techniques rooted in buyer psychology and human behavior.",
+      "qualification": "Self-reported applicability across various human connection fields without specific evidence of success.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e005:2c33aa92"
+      ]
+    },
+    {
+      "counter_ids": [
+        "youtube-shorts-run-transcripts-s35-yaml-de8e81409c:c001:e001:b1f21be8",
+        "youtube-transcripts-03-yaml-e083a8937f:c001:e001:80f55cfb"
+      ],
+      "finding": "There is a contradiction regarding the speaker's familiarity with Dubai.",
+      "qualification": "Claims of long tenure versus admitted ignorance of area's specifics suggest a mixed understanding or experience.",
+      "support_ids": [
+        "youtube-shorts-run-transcripts-s48-yaml-c6e88915b3:c001:e001:5f45b27d"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "finding": "Sales training is presented as based on universal principles of human behavior.",
+      "qualification": "Training applicability to non-specified domains is hypothetical without detailed evidence.",
+      "support_ids": [
+        "youtube-transcripts-10-yaml-508489bab0:c006:e005:2c33aa92"
+      ]
+    }
+  ]
+}

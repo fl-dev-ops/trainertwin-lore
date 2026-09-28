@@ -1,0 +1,16 @@
+{
+  "author": "olgasi",
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2023-06-22-great-work-inna-i-fully-md-cff197ad7c-8061e2a1bb93b824.jsonl",
+  "external_id": "7077456116401471488",
+  "extraction_signature": "8ab2b5829cc4aefd04d9c33fb61235b466d3f4cc00ba08a54bc8127e9443be03",
+  "ingested_at": "2026-09-25T12:17:50Z",
+  "metadata_hash": "c71f8240707afd8a0fa59b72e565fd0b54f98fd9dad6adcad1a1bd535c4ba757",
+  "model": "openai/gpt-4o-mini",
+  "published_at": "2023-06-22T01:23:50.926000Z",
+  "source_path": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data/linkedin/posts/2023-06-22-great-work-inna-i-fully.md",
+  "source_sha256": "81af3062df4e7e086bda144d4e44e338b878b7de5a8ff9da4d32dde7b6049187",
+  "source_url": "https://www.linkedin.com/posts/olgasi_testimonial-thursday-inna-ageyeva-activity-7077456116401471488-4MAH"
+}
