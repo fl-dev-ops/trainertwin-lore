@@ -41,11 +41,19 @@ Add to `~/.pi/agent/mcp.json` (global) or `.pi/mcp.json` (project-local):
     "trainertwin-lore": {
       "command": "uv",
       "args": ["run", "trainertwin-mcp"],
-      "cwd": "/absolute/path/to/trainertwin-lore"
+      "cwd": "/absolute/path/to/trainertwin-lore",
+      "env": {
+        "OPENROUTER_API_KEY": "sk-or-v1-...",
+        "HARVEST_API_KEY": "...",
+        "TWITTER_API_KEY": "...",
+        "APIFY_API_KEY": "apify_api_...",
+        "SARVAM_API_KEY": "..."
+      }
     }
   }
 }
 ```
+*(Note: If you already configured `.env` inside `trainertwin-lore/`, the server automatically preloads it on startup, so the `env` block in JSON is optional.)*
 
 ### B. Claude Code (CLI)
 Run in your terminal:
