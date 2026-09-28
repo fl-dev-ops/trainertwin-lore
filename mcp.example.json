@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "trainertwin-lore": {
+      "command": "uv",
+      "args": ["run", "python", "-m", "pipeline.mcp"],
+      "env": {
+        "OPENROUTER_API_KEY": "${OPENROUTER_API_KEY}"
+      }
+    }
+  }
+}

@@ -229,6 +229,46 @@ uv run python -m pipeline --user jane-doe lint
 
 ---
 
+## Pi Coding Agent & MCP Server Integration
+
+TrainerTwin Lore natively implements the **Model Context Protocol (MCP)**, allowing any Pi coding agent (or Cursor, Claude Code, Windsurf) to call pipeline tools directly.
+
+### 1. Configure Pi MCP Server
+Add the server to your `~/.pi/agent/mcp.json` or project `.pi/mcp.json`:
+```json
+{
+  "mcpServers": {
+    "trainertwin-lore": {
+      "command": "uv",
+      "args": ["run", "trainertwin-mcp"],
+      "cwd": "/path/to/trainertwin-lore",
+      "env": {
+        "OPENROUTER_API_KEY": "your-key-here"
+      }
+    }
+  }
+}
+```
+
+### 2. Available MCP Tools
+- `get_status(user)`: Inspect ingestion counts and stale manifests.
+- `lint_workspace(user)`: Run offline integrity audit on evidence cards and citations.
+- `read_report(user, report_name)`: Retrieve `analysis.md`, `timeline.md`, or `persona-prompt.md`.
+- `get_wiki_topic(user, topic_slug)`: Query specific living wiki topic pages or platform behaviors (`linkedin`, `youtube`, `instagram`, `twitter`).
+- `analyze_persona(user)`: Recompile persona reports offline.
+- `collect_social(...)`: Collect new trainer social content via CLI scrapers.
+- `run_ingest(...)` & `build_wiki(...)`: Ingest sources and build living wikis.
+
+### 3. Pi Skill Integration
+Copy the skill definition so Pi discovers the workflow automatically:
+```bash
+cp -r skills/trainertwin-lore ~/.pi/agent/skills/
+```
+
+For full team instructions and a review checklist, see [`docs/TEAM_GUIDE.md`](docs/TEAM_GUIDE.md).
+
+---
+
 ## Core Quality & Anti-Hallucination Safeguards
 
 1. **TypeSafe Jev Authorship Gatekeeper**:

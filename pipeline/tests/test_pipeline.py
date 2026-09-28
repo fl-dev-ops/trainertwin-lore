@@ -570,3 +570,34 @@ def test_openrouter_retries_and_requires_complete_json(monkeypatch):
     with pytest.raises(ModelError, match="Incomplete"):
         bad.complete("test", {}, "system", "user")
     bad.close()
+
+
+def test_mcp_server_tools(tmp_path, monkeypatch):
+    from pipeline import mcp
+
+    monkeypatch.setattr(mcp, "ROOT", tmp_path)
+    root = tmp_path / "users" / "test-user" / "data"
+    make_source(root / "youtube" / "transcripts", "01")
+    ws = tmp_path / "users" / "test-user" / "workspace"
+    source = read_source(next(root.rglob("*.yaml")), root)
+    ingest_one(source, ws, FakeModel(), max_chars=1000, budget=[1])
+    build(ws, root, FakeModel(), budget=[10])
+    analyze(ws, user="test-user")
+
+    status_raw = mcp.get_status("test-user")
+    status_data = json.loads(status_raw)
+    assert status_data["sources_ingested"] == 1
+    assert status_data["stale_manifests_count"] == 0
+
+    lint_raw = mcp.lint_workspace("test-user")
+    lint_data = json.loads(lint_raw)
+    assert lint_data["status"] == "ok"
+    assert lint_data["evidence"] == 1
+
+    report_text = mcp.read_report("test-user", "analysis")
+    assert "Platform-by-Platform Behavior" in report_text
+
+    topics_raw = mcp.get_wiki_topic("test-user", "list")
+    topics_data = json.loads(topics_raw)
+    assert "client-discovery" in topics_data["topics"]
+

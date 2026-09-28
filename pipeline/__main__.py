@@ -264,8 +264,13 @@ def cli() -> None:
         )
 
 
-if __name__ == "__main__":
+def main() -> None:
     try:
         cli()
     except (ValueError, RuntimeError, BlockingIOError) as exc:
         raise SystemExit(f"Pipeline error: {exc}") from exc
+
+
+if __name__ == "__main__":
+    main()
+
