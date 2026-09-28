@@ -1,7 +1,8 @@
 """Generate a 3D interactive living knowledge graph visualization for TrainerTwin Lore.
 
-Creates an interactive, WebGL-powered 3D constellation of evidence cards,
-topic clusters, and source documents inspired by cosmic brain graph interfaces.
+Creates an interactive, WebGL-powered 3D constellation of interconnected evidence notes
+with direct note-to-note semantic relationships and color-based grouping rather than
+artificial cluster clumping, matching the cosmic brain aesthetic.
 
 Run:
     uv run python -m pipeline.graph --user olga
@@ -9,6 +10,7 @@ Run:
 
 import argparse
 import json
+from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -52,7 +54,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     /* Glassmorphism Overlays */
     .glass {
-      background: rgba(13, 17, 28, 0.72);
+      background: rgba(13, 17, 28, 0.75);
       backdrop-filter: blur(16px);
       -webkit-backdrop-filter: blur(16px);
       border: 1px solid rgba(255, 255, 255, 0.08);
@@ -181,10 +183,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       position: absolute;
       top: 96px;
       left: 24px;
-      width: 320px;
+      width: 330px;
+      max-height: calc(100vh - 180px);
       padding: 24px;
       z-index: 10;
       pointer-events: auto;
+      overflow-y: auto;
     }
 
     .tagline {
@@ -220,7 +224,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 12px;
-      margin-bottom: 24px;
+      margin-bottom: 20px;
       padding-bottom: 20px;
       border-bottom: 1px solid rgba(255, 255, 255, 0.06);
     }
@@ -248,29 +252,70 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       margin-top: 2px;
     }
 
-    /* Sources List */
+    /* Color Mode Switcher */
+    .mode-switch-container {
+      margin-bottom: 16px;
+    }
+
+    .mode-switch-title {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #64748b;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .mode-switch-tabs {
+      display: flex;
+      background: rgba(22, 27, 46, 0.7);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 8px;
+      padding: 3px;
+    }
+
+    .mode-tab {
+      flex: 1;
+      text-align: center;
+      padding: 6px 0;
+      font-size: 12px;
+      font-weight: 600;
+      color: #94a3b8;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .mode-tab.active {
+      background: #38bdf8;
+      color: #07090e;
+    }
+
+    /* Legend List */
     .section-title {
       font-size: 11px;
       text-transform: uppercase;
       letter-spacing: 0.08em;
       color: #64748b;
       font-weight: 700;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
     }
 
     .sources-list {
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 6px;
       margin-bottom: 20px;
+      max-height: 200px;
+      overflow-y: auto;
     }
 
     .source-item {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 6px 10px;
-      border-radius: 8px;
+      padding: 5px 8px;
+      border-radius: 6px;
       cursor: pointer;
       transition: all 0.2s;
     }
@@ -282,44 +327,25 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     .source-info {
       display: flex;
       align-items: center;
-      gap: 10px;
-      font-size: 13px;
+      gap: 8px;
+      font-size: 12px;
       color: #cbd5e1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .source-dot {
       width: 8px;
       height: 8px;
       border-radius: 50%;
+      flex-shrink: 0;
     }
 
     .source-count {
       font-family: 'JetBrains Mono', monospace;
-      font-size: 12px;
+      font-size: 11px;
       color: #64748b;
-    }
-
-    /* Filters */
-    .filter-options {
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-      border-top: 1px solid rgba(255, 255, 255, 0.06);
-      padding-top: 16px;
-    }
-
-    .filter-checkbox {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 12px;
-      color: #94a3b8;
-      cursor: pointer;
-    }
-
-    .filter-checkbox input {
-      accent-color: #38bdf8;
-      cursor: pointer;
     }
 
     /* Bottom Bar */
@@ -390,7 +416,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       position: absolute;
       top: 96px;
       right: 24px;
-      width: 400px;
+      width: 420px;
       max-height: calc(100vh - 140px);
       padding: 24px;
       z-index: 10;
@@ -457,6 +483,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       margin-bottom: 16px;
     }
 
+    .badges-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
     .node-badge {
       display: inline-flex;
       align-items: center;
@@ -485,12 +517,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     }
 
     .drawer-title {
-      font-size: 18px;
+      font-size: 17px;
       font-weight: 700;
       letter-spacing: -0.02em;
       color: #fff;
       margin-bottom: 12px;
-      line-height: 1.3;
+      line-height: 1.35;
     }
 
     .quote-box {
@@ -534,6 +566,42 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       font-size: 13px;
       line-height: 1.5;
       color: #cbd5e1;
+    }
+
+    /* Related Notes List */
+    .related-notes-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-top: 8px;
+    }
+
+    .related-note-item {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      padding: 8px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .related-note-item:hover {
+      background: rgba(56, 189, 248, 0.1);
+      border-color: #38bdf8;
+    }
+
+    .related-note-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: #e2e8f0;
+      margin-bottom: 2px;
+    }
+
+    .related-note-meta {
+      font-size: 11px;
+      color: #64748b;
+      display: flex;
+      justify-content: space-between;
     }
 
     .meta-tags {
@@ -647,7 +715,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <div class="header-actions">
       <div class="badge-count">
         <span style="color: #38bdf8;">●</span>
-        <span id="nodesInViewCount">2,769</span> notes in view
+        <span id="nodesInViewCount">{{TOTAL_EVIDENCE}}</span> notes in view
       </div>
       <button class="btn-icon" id="btnHelp" title="What's in here?">?</button>
       <button class="btn-icon" id="btnRecenter" title="Reset View">↺</button>
@@ -661,7 +729,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <span>A Living Knowledge System</span>
     </div>
     <h1 class="hero-title">Every idea.<br>Connected.</h1>
-    <p class="hero-desc">{{USER_DISPLAY_NAME}}'s TrainerTwin universe. Attested public evidence, platform behaviors, and decision heuristics.</p>
+    <p class="hero-desc">{{USER_DISPLAY_NAME}}'s TrainerTwin universe. Direct note-to-note neural connections grouped dynamically by color.</p>
 
     <div class="stats-grid">
       <div class="stat-box">
@@ -682,27 +750,25 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       </div>
     </div>
 
-    <div class="section-title">Sources & Categories</div>
-    <div class="sources-list" id="sourcesList">
-      <!-- Populated via JS -->
+    <!-- Color Grouping Mode Switcher -->
+    <div class="mode-switch-container">
+      <div class="mode-switch-title">Color Grouping Mode</div>
+      <div class="mode-switch-tabs">
+        <div class="mode-tab active" id="tabColorPlatform">By Platform</div>
+        <div class="mode-tab" id="tabColorTopic">By Topic (14)</div>
+      </div>
     </div>
 
-    <div class="filter-options">
-      <label class="filter-checkbox">
-        <input type="checkbox" id="chkShowLabels" checked>
-        <span>Show all labels</span>
-      </label>
-      <label class="filter-checkbox">
-        <input type="checkbox" id="chkHighlightObjections">
-        <span>Highlight roleplays & objections</span>
-      </label>
+    <div class="section-title" id="legendTitle">Platforms</div>
+    <div class="sources-list" id="sourcesList">
+      <!-- Populated via JS -->
     </div>
   </div>
 
   <!-- Bottom Bar -->
   <div class="bottom-bar">
     <div class="nav-hints">
-      Drag to orbit &nbsp;·&nbsp; Scroll to explore &nbsp;·&nbsp; Click node to inspect
+      Drag to orbit &nbsp;·&nbsp; Scroll to explore &nbsp;·&nbsp; Click note to trace connections
     </div>
 
     <div class="cinema-controls">
@@ -722,13 +788,16 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <div class="growth-tag">The Growth of TrainerTwin Brain</div>
     <div class="growth-val">{{TOTAL_EVIDENCE}}</div>
     <div class="growth-title">Your entire twin. Connected.</div>
-    <div class="growth-sub">{{TOTAL_SOURCES}} sources &nbsp;·&nbsp; {{TOTAL_EVIDENCE}} of {{TOTAL_EVIDENCE}} verified notes</div>
+    <div class="growth-sub">{{TOTAL_SOURCES}} sources &nbsp;·&nbsp; {{TOTAL_LINKS}} verified note-to-note connections</div>
   </div>
 
   <!-- Node Inspector Drawer (Slides open on node click) -->
   <div class="inspector-drawer glass hidden" id="inspectorDrawer">
     <div class="drawer-header">
-      <div class="node-badge" id="drawerBadge">YouTube Transcript</div>
+      <div class="badges-row">
+        <div class="node-badge" id="drawerBadge">YouTube</div>
+        <div class="node-badge" id="drawerTopicBadge" style="background: rgba(168,85,247,0.15); color: #c084fc; border: 1px solid rgba(168,85,247,0.3);">Topic</div>
+      </div>
       <button class="close-btn" id="btnCloseDrawer">✕</button>
     </div>
 
@@ -744,9 +813,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       <div class="statement-text" id="drawerStatement">Statement</div>
     </div>
 
-    <div class="drawer-section" id="drawerTopicSection">
-      <div class="drawer-section-title">Topic Synthesis</div>
-      <div class="statement-text" id="drawerTopic">Topic</div>
+    <!-- Related Connected Notes -->
+    <div class="drawer-section" id="relatedNotesSection">
+      <div class="drawer-section-title">Connected Related Notes (<span id="relatedCount">0</span>)</div>
+      <div class="related-notes-list" id="relatedNotesList">
+        <!-- Injected dynamically -->
+      </div>
     </div>
 
     <a href="#" target="_blank" class="source-link-btn" id="drawerSourceLink">
@@ -763,13 +835,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <div class="modal-backdrop" id="modalBackdrop">
     <div class="modal-card">
       <h3>About TrainerTwin Brain</h3>
-      <p>This 3D living knowledge graph visualizes all <b>{{TOTAL_EVIDENCE}} verified evidence cards</b> and <b>{{TOTAL_SOURCES}} source documents</b> for {{USER_DISPLAY_NAME}}.</p>
-      <p>• <b>Pink Nodes:</b> YouTube transcripts & video coaching.<br>
-         • <b>Blue Nodes:</b> LinkedIn posts and frameworks.<br>
-         • <b>Orange Nodes:</b> Instagram reels & breakdowns.<br>
-         • <b>Purple Nodes:</b> Central topic hubs synthesized by LLM.<br>
-         • <b>Cyan Center:</b> TrainerTwin Core Nucleus.</p>
-      <p>Click any node to zoom into its verbatim quote, primary publication URL, and behavioral decision rule.</p>
+      <p>This 3D living knowledge graph visualizes all <b>{{TOTAL_EVIDENCE}} verified evidence notes</b> and <b>{{TOTAL_LINKS}} direct note-to-note connections</b> for {{USER_DISPLAY_NAME}}.</p>
+      <p>• <b>Direct Node-to-Node Edges:</b> Notes link to logically sequential points from the same source document, notes sharing the exact same granular topic, and notes co-cited in behavioral findings.<br>
+         • <b>Color Grouping:</b> Toggle between <b>Platform</b> (YouTube Pink, LinkedIn Blue, Instagram Orange, Twitter Yellow) and <b>14 Topics</b> (unique vibrant palette).<br>
+         • <b>Interactive Tracing:</b> Click any note to illuminate its direct neural connections and dim unrelated ideas.</p>
       <button id="btnCloseModal">Got it</button>
     </div>
   </div>
@@ -777,45 +846,129 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <script>
     const GRAPH_DATA = {{GRAPH_DATA_JSON}};
 
-    const CATEGORY_COLORS = {
-      'core': '#06b6d4',
-      'topic': '#a855f7',
-      'youtube': '#ec4899',
-      'linkedin': '#38bdf8',
-      'instagram': '#f97316',
-      'twitter': '#eab308'
+    // Palette Definitions
+    const PLATFORM_COLORS = {
+      'youtube': '#ec4899',   // Pink / Magenta
+      'linkedin': '#38bdf8',  // Sky Blue
+      'instagram': '#f97316', // Orange
+      'twitter': '#eab308'    // Yellow / Gold
     };
 
-    const CATEGORY_NAMES = {
+    const PLATFORM_NAMES = {
       'youtube': 'YouTube Transcripts',
       'linkedin': 'LinkedIn Posts',
       'instagram': 'Instagram Reels',
-      'twitter': 'Twitter/X Tweets',
-      'topic': 'Topic Syntheses'
+      'twitter': 'Twitter/X Tweets'
     };
 
-    // Render legend
-    const sourcesList = document.getElementById('sourcesList');
-    const counts = {};
-    GRAPH_DATA.nodes.forEach(n => {
-      counts[n.group] = (counts[n.group] || 0) + 1;
+    const TOPIC_COLORS = {
+      'advice-and-expectations': '#38bdf8',
+      'business-strategy-and-development': '#6366f1',
+      'career-development': '#ec4899',
+      'communication-and-networking': '#06b6d4',
+      'emotional-dynamics': '#f43f5e',
+      'feedback-and-evaluation': '#14b8a6',
+      'financial-planning': '#10b981',
+      'implementation-and-action': '#8b5cf6',
+      'integrity': '#f59e0b',
+      'market-analysis-and-content': '#eab308',
+      'social-and-cultural-issues': '#d946ef',
+      'team-dynamics': '#fb923c',
+      'technology-and-innovation': '#22c55e',
+      'urban-and-environmental-development': '#a3e635'
+    };
+
+    let colorMode = 'platform'; // 'platform' or 'topic'
+    let selectedNode = null;
+    const highlightNodes = new Set();
+    const highlightLinks = new Set();
+
+    // Map links for quick lookup
+    const neighborMap = new Map();
+    GRAPH_DATA.nodes.forEach(n => neighborMap.set(n.id, new Set()));
+    GRAPH_DATA.links.forEach(link => {
+      const s = typeof link.source === 'object' ? link.source.id : link.source;
+      const t = typeof link.target === 'object' ? link.target.id : link.target;
+      if (neighborMap.has(s)) neighborMap.get(s).add(t);
+      if (neighborMap.has(t)) neighborMap.get(t).add(s);
     });
 
-    Object.keys(CATEGORY_NAMES).forEach(cat => {
-      const count = counts[cat] || 0;
-      if (count === 0) return;
-      const item = document.createElement('div');
-      item.className = 'source-item';
-      item.dataset.category = cat;
-      item.innerHTML = `
-        <div class="source-info">
-          <div class="source-dot" style="background: ${CATEGORY_COLORS[cat]}; box-shadow: 0 0 8px ${CATEGORY_COLORS[cat]};"></div>
-          <span>${CATEGORY_NAMES[cat]}</span>
-        </div>
-        <div class="source-count">${count.toLocaleString()}</div>
-      `;
-      item.addEventListener('click', () => filterByCategory(cat));
-      sourcesList.appendChild(item);
+    function getNodeColor(node) {
+      if (selectedNode) {
+        if (node.id === selectedNode.id) return '#ffffff';
+        if (highlightNodes.has(node.id)) {
+          return colorMode === 'platform' ? (PLATFORM_COLORS[node.group] || '#38bdf8') : (TOPIC_COLORS[node.topic_slug] || '#8b5cf6');
+        }
+        return 'rgba(255, 255, 255, 0.04)';
+      }
+      return colorMode === 'platform' 
+        ? (PLATFORM_COLORS[node.group] || '#38bdf8')
+        : (TOPIC_COLORS[node.topic_slug] || '#8b5cf6');
+    }
+
+    function renderLegend() {
+      const list = document.getElementById('sourcesList');
+      const title = document.getElementById('legendTitle');
+      list.innerHTML = '';
+
+      if (colorMode === 'platform') {
+        title.innerText = 'Platforms (By Color)';
+        const counts = {};
+        GRAPH_DATA.nodes.forEach(n => counts[n.group] = (counts[n.group] || 0) + 1);
+
+        Object.keys(PLATFORM_NAMES).forEach(plat => {
+          const count = counts[plat] || 0;
+          if (count === 0) return;
+          const item = document.createElement('div');
+          item.className = 'source-item';
+          item.innerHTML = `
+            <div class="source-info">
+              <div class="source-dot" style="background: ${PLATFORM_COLORS[plat]}; box-shadow: 0 0 8px ${PLATFORM_COLORS[plat]};"></div>
+              <span>${PLATFORM_NAMES[plat]}</span>
+            </div>
+            <div class="source-count">${count.toLocaleString()}</div>
+          `;
+          list.appendChild(item);
+        });
+      } else {
+        title.innerText = '14 Topics (By Color)';
+        const counts = {};
+        GRAPH_DATA.nodes.forEach(n => counts[n.topic_slug] = (counts[n.topic_slug] || 0) + 1);
+
+        Object.keys(TOPIC_COLORS).forEach(tslug => {
+          const count = counts[tslug] || 0;
+          if (count === 0) return;
+          const label = tslug.replace(/-/g, ' ').replace(/\\b\\w/g, l => l.toUpperCase());
+          const item = document.createElement('div');
+          item.className = 'source-item';
+          item.innerHTML = `
+            <div class="source-info">
+              <div class="source-dot" style="background: ${TOPIC_COLORS[tslug]}; box-shadow: 0 0 8px ${TOPIC_COLORS[tslug]};"></div>
+              <span title="${label}">${label}</span>
+            </div>
+            <div class="source-count">${count.toLocaleString()}</div>
+          `;
+          list.appendChild(item);
+        });
+      }
+    }
+    renderLegend();
+
+    // Mode Switcher Tabs
+    document.getElementById('tabColorPlatform').addEventListener('click', () => {
+      colorMode = 'platform';
+      document.getElementById('tabColorPlatform').classList.add('active');
+      document.getElementById('tabColorTopic').classList.remove('active');
+      renderLegend();
+      Graph.nodeColor(getNodeColor);
+    });
+
+    document.getElementById('tabColorTopic').addEventListener('click', () => {
+      colorMode = 'topic';
+      document.getElementById('tabColorTopic').classList.add('active');
+      document.getElementById('tabColorPlatform').classList.remove('active');
+      renderLegend();
+      Graph.nodeColor(getNodeColor);
     });
 
     // Initialize 3D Force Graph
@@ -827,48 +980,42 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     const Graph = ForceGraph3D()(elem)
       .graphData(GRAPH_DATA)
       .nodeId('id')
-      .nodeLabel(node => `<div style="background: rgba(13,17,28,0.9); padding: 6px 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); color: #fff; font-size: 12px; font-family: sans-serif;"><b>${node.name}</b><br><span style="color:#94a3b8;">${node.group.toUpperCase()}</span></div>`)
-      .nodeVal(node => node.val)
-      .nodeColor(node => node.color || CATEGORY_COLORS[node.group] || '#94a3b8')
-      .linkWidth(link => link.width || 0.5)
-      .linkColor(link => link.color || 'rgba(255, 255, 255, 0.08)')
-      .linkDirectionalParticles(link => link.particles || 0)
-      .linkDirectionalParticleWidth(1.2)
-      .linkDirectionalParticleSpeed(0.005)
+      .nodeLabel(node => `<div style="background: rgba(13,17,28,0.92); padding: 8px 12px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.12); color: #fff; font-size: 12px; font-family: sans-serif; max-width: 280px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);"><b>${node.statement || node.name}</b><br><span style="color:#94a3b8; font-size: 11px;">Topic: ${node.topic}</span></div>`)
+      .nodeVal(node => node.val || 3.5)
+      .nodeColor(getNodeColor)
+      .linkWidth(link => highlightLinks.has(link) ? 1.8 : 0.4)
+      .linkColor(link => highlightLinks.has(link) ? 'rgba(56, 189, 248, 0.9)' : 'rgba(255, 255, 255, 0.06)')
+      .linkDirectionalParticles(link => highlightLinks.has(link) ? 3 : 0)
+      .linkDirectionalParticleWidth(1.4)
+      .linkDirectionalParticleSpeed(0.008)
       .backgroundColor('#07090e')
       .showNavInfo(false)
       .onNodeClick(node => focusOnNode(node));
 
-    // Add Central Wireframe Icosahedron & Planetary Rings via Three.js
+    // Gentle organic force layout — nodes form an organic constellation rather than artificial clumps
+    Graph.d3Force('charge').strength(-30);
+    Graph.d3Force('link').distance(42).strength(0.35);
+
+    // Three.js scene elements: Wireframe Core & Orbital Rings
     const scene = Graph.scene();
 
     // Central Wireframe Sphere
-    const coreGeo = new THREE.IcosahedronGeometry(18, 1);
+    const coreGeo = new THREE.IcosahedronGeometry(22, 1);
     const coreMat = new THREE.MeshBasicMaterial({
       color: 0x38bdf8,
       wireframe: true,
       transparent: true,
-      opacity: 0.35
+      opacity: 0.25
     });
     const coreMesh = new THREE.Mesh(coreGeo, coreMat);
     scene.add(coreMesh);
 
-    // Inner glowing sphere
-    const innerGeo = new THREE.SphereGeometry(6, 16, 16);
-    const innerMat = new THREE.MeshBasicMaterial({
-      color: 0x06b6d4,
-      transparent: true,
-      opacity: 0.7
-    });
-    const innerMesh = new THREE.Mesh(innerGeo, innerMat);
-    scene.add(innerMesh);
-
-    // Tilted Orbital Rings
+    // Tilted Orbital Trajectory Rings
     function makeOrbitRing(radius, rotX, rotY, color) {
-      const curve = new THREE.EllipseCurve(0, 0, radius, radius * 0.95, 0, 2 * Math.PI, false, 0);
-      const points = curve.getPoints(120);
+      const curve = new THREE.EllipseCurve(0, 0, radius, radius * 0.96, 0, 2 * Math.PI, false, 0);
+      const points = curve.getPoints(140);
       const ringGeo = new THREE.BufferGeometry().setFromPoints(points.map(p => new THREE.Vector3(p.x, 0, p.y)));
-      const ringMat = new THREE.LineBasicMaterial({ color: color, transparent: true, opacity: 0.2 });
+      const ringMat = new THREE.LineBasicMaterial({ color: color, transparent: true, opacity: 0.18 });
       const ring = new THREE.Line(ringGeo, ringMat);
       ring.rotation.x = rotX;
       ring.rotation.y = rotY;
@@ -876,52 +1023,82 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       return ring;
     }
 
-    const ring1 = makeOrbitRing(280, 0.4, 0.2, 0xec4899);
-    const ring2 = makeOrbitRing(340, -0.3, 0.5, 0x38bdf8);
-    const ring3 = makeOrbitRing(420, 0.8, -0.4, 0xa855f7);
+    const ring1 = makeOrbitRing(320, 0.45, 0.2, 0xec4899);
+    const ring2 = makeOrbitRing(380, -0.35, 0.45, 0x38bdf8);
+    const ring3 = makeOrbitRing(450, 0.75, -0.3, 0xa855f7);
 
     // Animation Loop
     function animate() {
       requestAnimationFrame(animate);
-      coreMesh.rotation.y += 0.003;
+      coreMesh.rotation.y += 0.0025;
       coreMesh.rotation.x += 0.001;
-      ring1.rotation.y += 0.0005;
-      ring2.rotation.y -= 0.0007;
+      ring1.rotation.y += 0.0004;
+      ring2.rotation.y -= 0.0005;
 
       if (isCinema) {
         angle += Math.PI / 2400;
         Graph.cameraPosition({
           x: distance * Math.sin(angle),
           z: distance * Math.cos(angle),
-          y: 200 * Math.sin(angle * 0.5)
+          y: 180 * Math.sin(angle * 0.5)
         });
       }
     }
     animate();
 
-    // Node Click & Inspector
+    // Node Focus & Inspector
     const inspector = document.getElementById('inspectorDrawer');
     const growthBanner = document.getElementById('growthBanner');
 
     function focusOnNode(node) {
       if (!node) return;
+      selectedNode = node;
 
-      const dist = 60;
+      highlightNodes.clear();
+      highlightLinks.clear();
+
+      // Find all neighbors and connected links
+      const neighbors = neighborMap.get(node.id) || new Set();
+      neighbors.forEach(nid => highlightNodes.add(nid));
+      highlightNodes.add(node.id);
+
+      GRAPH_DATA.links.forEach(link => {
+        const s = typeof link.source === 'object' ? link.source.id : link.source;
+        const t = typeof link.target === 'object' ? link.target.id : link.target;
+        if (s === node.id || t === node.id) {
+          highlightLinks.add(link);
+        }
+      });
+
+      // Update graph rendering colors
+      Graph.nodeColor(getNodeColor);
+      Graph.linkWidth(link => highlightLinks.has(link) ? 2.0 : 0.3);
+      Graph.linkColor(link => highlightLinks.has(link) ? 'rgba(56, 189, 248, 0.95)' : 'rgba(255, 255, 255, 0.03)');
+      Graph.linkDirectionalParticles(link => highlightLinks.has(link) ? 4 : 0);
+
+      // Camera animation
+      const dist = 65;
       const distRatio = 1 + dist / Math.hypot(node.x || 1, node.y || 1, node.z || 1);
       Graph.cameraPosition(
-        { x: (node.x || 0) * distRatio, y: (node.y || 0) * distRatio + 10, z: (node.z || 0) * distRatio },
+        { x: (node.x || 0) * distRatio, y: (node.y || 0) * distRatio + 12, z: (node.z || 0) * distRatio },
         node,
         1500
       );
 
       // Populate Inspector
-      document.getElementById('drawerTitle').innerText = node.statement || node.name || 'Untitled';
+      document.getElementById('drawerTitle').innerText = node.statement || node.name || 'Untitled Note';
       
       const badge = document.getElementById('drawerBadge');
-      badge.innerText = CATEGORY_NAMES[node.group] || node.group.toUpperCase();
-      badge.style.background = `${CATEGORY_COLORS[node.group] || '#38bdf8'}22`;
-      badge.style.color = CATEGORY_COLORS[node.group] || '#38bdf8';
-      badge.style.border = `1px solid ${CATEGORY_COLORS[node.group] || '#38bdf8'}44`;
+      badge.innerText = PLATFORM_NAMES[node.group] || node.group.toUpperCase();
+      badge.style.background = `${PLATFORM_COLORS[node.group] || '#38bdf8'}22`;
+      badge.style.color = PLATFORM_COLORS[node.group] || '#38bdf8';
+      badge.style.border = `1px solid ${PLATFORM_COLORS[node.group] || '#38bdf8'}44`;
+
+      const topicBadge = document.getElementById('drawerTopicBadge');
+      topicBadge.innerText = node.topic || 'General';
+      topicBadge.style.background = `${TOPIC_COLORS[node.topic_slug] || '#a855f7'}22`;
+      topicBadge.style.color = TOPIC_COLORS[node.topic_slug] || '#c084fc';
+      topicBadge.style.border = `1px solid ${TOPIC_COLORS[node.topic_slug] || '#a855f7'}44`;
 
       const quoteBox = document.getElementById('drawerQuoteBox');
       if (node.quote) {
@@ -931,8 +1108,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         quoteBox.style.display = 'none';
       }
 
-      document.getElementById('drawerStatement').innerText = node.statement || node.description || 'No detailed statement available.';
-      document.getElementById('drawerTopic').innerText = node.topic || node.name || 'General';
+      document.getElementById('drawerStatement').innerText = node.statement || 'No detailed statement recorded.';
 
       const linkBtn = document.getElementById('drawerSourceLink');
       if (node.source_url) {
@@ -940,6 +1116,33 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         linkBtn.href = node.source_url;
       } else {
         linkBtn.style.display = 'none';
+      }
+
+      // Populate Connected Related Notes
+      const relatedList = document.getElementById('relatedNotesList');
+      relatedList.innerHTML = '';
+      const connectedCards = GRAPH_DATA.nodes.filter(n => neighbors.has(n.id)).slice(0, 6);
+      document.getElementById('relatedCount').innerText = neighbors.size;
+
+      if (connectedCards.length === 0) {
+        relatedList.innerHTML = '<div style="font-size:12px; color:#64748b;">No direct neighbor links recorded.</div>';
+      } else {
+        connectedCards.forEach(cn => {
+          const item = document.createElement('div');
+          item.className = 'related-note-item';
+          item.innerHTML = `
+            <div class="related-note-title">${cn.statement ? cn.statement.substring(0, 85) + '...' : cn.name}</div>
+            <div class="related-note-meta">
+              <span style="color:${PLATFORM_COLORS[cn.group]};">${PLATFORM_NAMES[cn.group]}</span>
+              <span>${cn.topic}</span>
+            </div>
+          `;
+          item.addEventListener('click', (e) => {
+            e.stopPropagation();
+            focusOnNode(cn);
+          });
+          relatedList.appendChild(item);
+        });
       }
 
       const metaTags = document.getElementById('drawerMetaTags');
@@ -962,18 +1165,25 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       growthBanner.style.pointerEvents = 'none';
     }
 
-    document.getElementById('btnCloseDrawer').addEventListener('click', () => {
+    function clearSelection() {
+      selectedNode = null;
+      highlightNodes.clear();
+      highlightLinks.clear();
+      Graph.nodeColor(getNodeColor);
+      Graph.linkWidth(0.4);
+      Graph.linkColor(() => 'rgba(255, 255, 255, 0.06)');
+      Graph.linkDirectionalParticles(0);
       inspector.classList.add('hidden');
       growthBanner.style.opacity = '1';
       growthBanner.style.pointerEvents = 'auto';
-    });
+    }
+
+    document.getElementById('btnCloseDrawer').addEventListener('click', clearSelection);
 
     // Recenter
     document.getElementById('btnRecenter').addEventListener('click', () => {
       Graph.cameraPosition({ x: 0, y: 0, z: distance }, { x: 0, y: 0, z: 0 }, 1200);
-      inspector.classList.add('hidden');
-      growthBanner.style.opacity = '1';
-      growthBanner.style.pointerEvents = 'auto';
+      clearSelection();
     });
 
     // Cinema Mode
@@ -1002,15 +1212,15 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     searchInput.addEventListener('input', (e) => {
       const q = e.target.value.toLowerCase().trim();
       if (!q) {
-        Graph.nodeColor(node => node.color || CATEGORY_COLORS[node.group] || '#94a3b8');
+        Graph.nodeColor(getNodeColor);
         return;
       }
       Graph.nodeColor(node => {
         const text = `${node.name} ${node.quote || ''} ${node.statement || ''} ${node.topic || ''}`.toLowerCase();
         if (text.includes(q)) {
-          return '#38bdf8';
+          return '#ffffff';
         }
-        return 'rgba(255, 255, 255, 0.05)';
+        return 'rgba(255, 255, 255, 0.04)';
       });
     });
 
@@ -1027,51 +1237,6 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       }
     });
 
-    // Filter by category
-    let activeFilter = null;
-    function filterByCategory(cat) {
-      if (activeFilter === cat) {
-        activeFilter = null;
-        document.querySelectorAll('.source-item').forEach(el => el.classList.remove('active'));
-        Graph.nodeColor(node => node.color || CATEGORY_COLORS[node.group] || '#94a3b8');
-        Graph.linkColor(() => 'rgba(255, 255, 255, 0.08)');
-        return;
-      }
-      activeFilter = cat;
-      document.querySelectorAll('.source-item').forEach(el => {
-        el.classList.toggle('active', el.dataset.category === cat);
-      });
-      Graph.nodeColor(node => {
-        if (node.group === cat || (node.group === 'core' || node.group === 'topic')) {
-          return CATEGORY_COLORS[node.group];
-        }
-        return 'rgba(255, 255, 255, 0.04)';
-      });
-      Graph.linkColor(link => {
-        const srcGroup = typeof link.source === 'object' ? link.source.group : '';
-        const tgtGroup = typeof link.target === 'object' ? link.target.group : '';
-        if (srcGroup === cat || tgtGroup === cat) {
-          return `${CATEGORY_COLORS[cat]}44`;
-        }
-        return 'rgba(255, 255, 255, 0.02)';
-      });
-    }
-
-    // Roleplay / Objection highlighting
-    document.getElementById('chkHighlightObjections').addEventListener('change', (e) => {
-      const active = e.target.checked;
-      if (!active) {
-        Graph.nodeColor(node => node.color || CATEGORY_COLORS[node.group] || '#94a3b8');
-        return;
-      }
-      Graph.nodeColor(node => {
-        if (node.context === 'hypothetical' || node.kind === 'teaching_move') {
-          return '#f43f5e'; // Highlight in glowing red/rose
-        }
-        return 'rgba(255, 255, 255, 0.08)';
-      });
-    });
-
     // Modal
     const modal = document.getElementById('modalBackdrop');
     document.getElementById('btnHelp').addEventListener('click', () => modal.classList.add('open'));
@@ -1085,8 +1250,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 """
 
 
-def build_graph(user: str = "olga", max_cards: int = 1500) -> Path:
-    """Build the 3D living knowledge graph HTML for a user."""
+def build_graph(user: str = "olga", max_cards: int = 2200) -> Path:
+    """Build the 3D living knowledge graph HTML for a user with direct note-to-note connections."""
     user_root = ROOT / "users" / user
     workspace = user_root / "workspace"
     if not workspace.is_dir():
@@ -1123,96 +1288,99 @@ def build_graph(user: str = "olga", max_cards: int = 1500) -> Path:
             except (OSError, json.JSONDecodeError):
                 continue
 
-    nodes = []
-    links = []
-
-    # 1. Central Nucleus Core Node
-    core_id = "core-nucleus"
-    nodes.append({
-        "id": core_id,
-        "name": f"{user.title()} (TrainerTwin Core)",
-        "group": "core",
-        "val": 30,
-        "color": "#06b6d4",
-        "statement": f"Central TrainerTwin intelligence nucleus for {user}."
-    })
-
-    # 2. Topic Nodes
-    for topic_slug in topic_findings:
-        topic_name = topic_slug.replace("-", " ").title()
-        nodes.append({
-            "id": f"topic:{topic_slug}",
-            "name": topic_name,
-            "group": "topic",
-            "val": 16,
-            "color": "#a855f7",
-            "topic": topic_name,
-            "statement": f"Core behavioral and knowledge synthesis topic: {topic_name}."
-        })
-        # Link topic to core
-        links.append({
-            "source": core_id,
-            "target": f"topic:{topic_slug}",
-            "width": 1.5,
-            "color": "rgba(168, 85, 247, 0.4)",
-            "particles": 2
-        })
-
-    # 3. Evidence Nodes (sampled or all up to max_cards for smooth 60fps WebGL)
     selected_cards = cards[:max_cards] if max_cards else cards
-    card_ids = set()
+    card_map = {c["id"]: c for c in selected_cards if c.get("id")}
+    total_count = len(selected_cards)
 
-    for c in selected_cards:
+    nodes = []
+    # Distribute nodes across a 3D spherical Fibonacci lattice for an organic cosmic shell
+    import math
+
+    for i, c in enumerate(selected_cards):
         cid = c.get("id")
         if not cid:
             continue
-        card_ids.add(cid)
         cat = c.get("category", "youtube")
         tslug = c.get("topic_slug", "")
-        main_topic = topic_map.get(tslug, tslug)
+        main_topic_slug = topic_map.get(tslug, tslug) or "general"
+        main_topic_title = main_topic_slug.replace("-", " ").title()
+
+        # Spherical coordinates
+        phi = math.acos(-1.0 + (2.0 * i) / max(total_count, 1))
+        theta = math.sqrt(total_count * math.pi) * phi
+        # Radius variation creates celestial depth
+        r = 310.0 + ((i * 13) % 45)
+
+        x = round(r * math.cos(theta) * math.sin(phi), 2)
+        y = round(r * math.sin(theta) * math.sin(phi), 2)
+        z = round(r * math.cos(phi), 2)
 
         nodes.append({
             "id": cid,
-            "name": c.get("statement", "")[:50] + ("..." if len(c.get("statement", "")) > 50 else ""),
+            "name": c.get("statement", "")[:60] + ("..." if len(c.get("statement", "")) > 60 else ""),
             "statement": c.get("statement", ""),
             "quote": c.get("quote", ""),
             "group": cat,
-            "val": 4,
-            "topic": main_topic.replace("-", " ").title() if main_topic else "",
+            "topic": main_topic_title,
+            "topic_slug": main_topic_slug,
             "source_url": c.get("source_url", ""),
             "published_at": c.get("published_at", ""),
             "kind": c.get("kind", ""),
             "context": c.get("context", ""),
-            "locator": c.get("locator", "")
+            "locator": c.get("locator", ""),
+            "val": 3.8,
+            "x": x,
+            "y": y,
+            "z": z
         })
 
-        # Link card to its topic hub
-        if main_topic and f"topic:{main_topic}" in [n["id"] for n in nodes]:
-            links.append({
-                "source": f"topic:{main_topic}",
-                "target": cid,
-                "width": 0.35,
-                "color": "rgba(255, 255, 255, 0.06)"
-            })
+    # Build direct note-to-note connections (no artificial cluster hubs)
+    links_set = set()
 
-    # 4. Cross-Evidence Co-occurrence Links from Findings
+    # 1. Source sequential links (ideas argued together in same post/video)
+    by_source = defaultdict(list)
+    for c in selected_cards:
+        if c.get("source_id") and c.get("id"):
+            by_source[c["source_id"]].append(c["id"])
+
+    for c_ids in by_source.values():
+        for i in range(len(c_ids) - 1):
+            if c_ids[i] in card_map and c_ids[i + 1] in card_map:
+                links_set.add((c_ids[i], c_ids[i + 1]))
+
+    # 2. Granular topic links (notes sharing specific sub-topic)
+    by_tslug = defaultdict(list)
+    for c in selected_cards:
+        ts = c.get("topic_slug")
+        if ts and c.get("id"):
+            by_tslug[ts].append(c["id"])
+
+    for c_ids in by_tslug.values():
+        if 1 < len(c_ids) <= 12:
+            for i in range(len(c_ids)):
+                for j in range(i + 1, min(len(c_ids), i + 3)):
+                    if c_ids[i] in card_map and c_ids[j] in card_map:
+                        links_set.add((c_ids[i], c_ids[j]))
+        elif len(c_ids) > 12:
+            for i in range(len(c_ids)):
+                nxt = c_ids[(i + 1) % len(c_ids)]
+                if c_ids[i] in card_map and nxt in card_map:
+                    links_set.add((c_ids[i], nxt))
+
+    # 3. Topic finding co-occurrence links
     for tf_data in topic_findings.values():
         for f in tf_data.get("findings", []):
-            s_ids = [sid for sid in f.get("support_ids", []) if sid in card_ids]
-            if len(s_ids) > 1:
-                for i in range(len(s_ids)):
-                    for j in range(i + 1, min(len(s_ids), i + 3)):
-                        links.append({
-                            "source": s_ids[i],
-                            "target": s_ids[j],
-                            "width": 0.8,
-                            "color": "rgba(56, 189, 248, 0.25)"
-                        })
+            s_ids = [sid for sid in f.get("support_ids", []) if sid in card_map]
+            for i in range(len(s_ids)):
+                for j in range(i + 1, min(len(s_ids), i + 4)):
+                    links_set.add((s_ids[i], s_ids[j]))
 
-    # Count sources
+    links = [{"source": src, "target": tgt} for src, tgt in links_set]
+
+    # Stats
     manifests = list((workspace / "manifest").glob("*.json"))
     total_sources = len(manifests) if manifests else 773
-    total_evidence = len(cards)
+    total_evidence = len(nodes)
     total_topics = len(topic_findings)
     total_links = len(links)
 
@@ -1235,7 +1403,7 @@ def build_graph(user: str = "olga", max_cards: int = 1500) -> Path:
 def main():
     parser = argparse.ArgumentParser(description="Generate 3D living knowledge graph HTML")
     parser.add_argument("--user", default="olga", help="User slug under users/ (default: olga)")
-    parser.add_argument("--max-cards", type=int, default=1800, help="Max cards to render for smooth WebGL 60fps")
+    parser.add_argument("--max-cards", type=int, default=2200, help="Max cards to render for smooth WebGL 60fps")
     args = parser.parse_args()
 
     out = build_graph(user=args.user, max_cards=args.max_cards)
