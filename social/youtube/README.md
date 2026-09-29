@@ -60,15 +60,15 @@ The Sarvam workflow batches up to 20 files per API job with speaker diarization 
 ```bash
 uv run python social/youtube/cli.py transcribe --submit
 ```
-*(Tracks job IDs in `users/olga/data/youtube/sarvam-jobs.json` by default)*
+*(Tracks job IDs in `users/olga/audios/sarvam-jobs.json` by default.)*
 
 #### Step B: Wait and download outputs
 ```bash
 uv run python social/youtube/cli.py transcribe --wait
 ```
-*(Polls job status, downloads raw diarized JSONs to the selected YouTube data directory, and compiles YAML transcripts)*
+*(Polls job status, downloads raw diarized JSONs under `audios/`, and compiles Markdown transcripts.)*
 
-#### Step C: Rebuild clean YAML transcripts only (offline)
+#### Step C: Rebuild Markdown transcripts only (offline)
 Re-runs chunk restitching (joining sentences split at 30-second model boundaries) without making API calls:
 ```bash
 uv run python social/youtube/cli.py transcribe --build
@@ -92,38 +92,36 @@ Outputs default to `users/olga/data/youtube/` and `users/olga/audios/`. For anot
 
 ```text
 users/olga/data/youtube/
-├── olga.yaml                    # Master video manifest
-├── transcripts/                 # Formatted YAML transcripts (used by TrainerTwin pipeline)
-│   ├── 01.yaml
-│   ├── 02.yaml
-│   └── ...
-users/olga/audios/               # Downloaded audio MP3s
-users/olga/data/youtube/sarvam-json/  # Raw Sarvam diarized JSON outputs
-users/olga/data/youtube/sarvam-jobs.json  # State tracker for batch job IDs
+├── olga.yaml                    # Master video manifest (including descriptions when available)
+└── video/
+    └── YYYY-MM-DD-title-pQCLpcXSx2s.md
+users/olga/audios/               # Audio, uploads, Sarvam jobs/raw JSON, date cache
+users/olga/audios/runs/<since>/  # Date-bounded collection job state
 ```
 
-### Transcript Schema (`transcripts/*.yaml`)
+### Transcript Schema (`video/*.md`)
 
-Directly ingested by `pipeline/`:
+Directly ingested by `pipeline/`; description stays in frontmatter, not spoken evidence. Existing YAML transcripts are **not** moved automatically: migrate and rebuild their workspace manifests before ingesting new Markdown copies of the same videos.
 
-```yaml
-id: '01'
-title: 2025 Dubai Real Estate Market Correction...
-source: 2025 Dubai Real Estate Market Correction...
-audio_file: 2025 Dubai Real Estate Market Correction.mp3
-duration: "00:21:44"
+```markdown
+---
+id: pQCLpcXSx2s
+title: 4 Questions That Kill Your Dubai Real Estate Deals in 2026
+date: '2026-08-13'
+url: https://www.youtube.com/watch?v=pQCLpcXSx2s
+description: Video description, if available
+duration: 00:17:48
 model: saaras:v3
-raw_speaker_ids:
-  - '0'
-  - '1'
-counts:
-  raw_entries: 75
-turns:
-  - t: "00:00:08"
-    speaker: '1'
-    text: >-
-      Okay, we are on uh property monitor platform and this platform as I mentioned
-      available only for real estate professionals...
+transcript: true
+---
+
+# 4 Questions That Kill Your Dubai Real Estate Deals in 2026
+
+## Transcript
+
+### 00:00:08 · Speaker 1
+
+Spoken transcript text...
 ```
 
 ---
@@ -134,7 +132,7 @@ turns:
 | :--- | :--- | :--- |
 | `command` | Subcommand: `list`, `download`, `transcribe`, `all` | *required* |
 | `url` | YouTube video, playlist, or channel URL | *required for list/download/all* |
-| `--slug` | Manifest filename slug | `channel` / `youtube` |
+| `--slug` | Manifest filename slug | User directory name |
 | `--data-dir` | Output base directory | `users/olga/data/youtube` |
 | `--audios-dir` | Directory containing audio files | `users/olga/audios` |
 | `--max-videos` | Limit number of videos | `None` (all) |

@@ -3,11 +3,13 @@ from datetime import date
 import pytest
 import yaml
 
+from pipeline.sources import read_source
 from social import cli as social
 from social.dates import in_window, published_day
 from social.instagram import cli as instagram
 from social.linkedin import cli as linkedin
 from social.twitter import cli as twitter
+from social.youtube import cli as youtube
 
 
 def test_absolute_utc_dates_and_cli_validation(tmp_path, monkeypatch):
@@ -170,14 +172,76 @@ def test_youtube_skips_old_and_guards_existing_selection(tmp_path, monkeypatch):
         {"id": "new", "title": "New", "url": "new", "upload_date": "20260801"},
     ]
     monkeypatch.setattr(social.youtube, "fetch_channel_videos", lambda url: videos)
-    data, audios = tmp_path / "data", tmp_path / "audios"
+    data, audios = tmp_path / "users/me/data/youtube", tmp_path / "users/me/audios"
+    monkeypatch.setattr(social.youtube, "fetch_video_details", lambda url: {"description": "Video description"})
     social.collect_youtube("https://youtube.com/@me", data, audios, since, False)
-    manifest = yaml.safe_load((data / "channel.yaml").read_text())
+    manifest = yaml.safe_load((data / "me.yaml").read_text())
     assert [v["id"] for v in manifest["videos"]] == ["new"]
     assert manifest["videos"][0]["url"] == "https://www.youtube.com/watch?v=new"
+    assert manifest["videos"][0]["description"] == "Video description"
+    assert sorted(p.name for p in data.iterdir()) == ["me.yaml"]
     assert not audios.exists()
-    selection = data / "runs" / since.isoformat() / "selection.json"
+    run_id = social.hashlib.sha256(b"https://youtube.com/@me").hexdigest()[:10]
+    selection = audios / "runs" / since.isoformat() / run_id / "selection.json"
     selection.parent.mkdir(parents=True)
     selection.write_text('["different"]')
     with pytest.raises(ValueError, match="selection changed"):
         social.collect_youtube("https://youtube.com/@me", data, audios, since, True)
+
+
+def test_youtube_date_fetches_description_with_missing_flat_metadata(monkeypatch):
+    video = {"id": "pQCLpcXSx2s", "url": "https://youtube.com/watch?v=pQCLpcXSx2s"}
+    monkeypatch.setattr(youtube, "fetch_video_details", lambda _: {
+        "upload_date": "20260813", "description": "Full video description"
+    })
+    assert social.video_date(video) == date(2026, 8, 13)
+    assert video["description"] == "Full video description"
+
+
+def test_youtube_manifest_keeps_earlier_videos(tmp_path, monkeypatch):
+    data = tmp_path / "users/me/data/youtube"
+    data.mkdir(parents=True)
+    (data / "me.yaml").write_text(yaml.safe_dump({
+        "channel_url": "https://youtube.com/@me/videos",
+        "videos": [{"id": "previous123", "description": "Earlier video"}],
+    }))
+    monkeypatch.setattr(social.youtube, "fetch_channel_videos", lambda _: [
+        {"id": "newvideo123", "title": "New", "url": "https://youtube.com/watch?v=newvideo123", "upload_date": "20260801", "description": "New description"}
+    ])
+    social.collect_youtube("https://youtube.com/@me/shorts", data, tmp_path / "audios", date(2026, 8, 1), False)
+    index = yaml.safe_load((data / "me.yaml").read_text())
+    assert index["total_videos"] == 2
+    assert {v["id"] for v in index["videos"]} == {"previous123", "newvideo123"}
+
+
+def test_youtube_markdown_transcript_preserves_source_locators(tmp_path, monkeypatch):
+    audios = tmp_path / "audios"
+    raw = tmp_path / "raw"
+    video_dir = tmp_path / "data/youtube/video"
+    audios.mkdir()
+    raw.mkdir()
+    (audios / "A helpful title [pQCLpcXSx2s].mp3").write_bytes(b"fake audio")
+    (raw / "001.mp3.json").write_text(
+        '{"diarized_transcript":{"entries":['
+        '{"speaker_id":"1","transcript":"Ask the buyer what matters to them before you pitch the property.","start_time_seconds":10,"end_time_seconds":15},'
+        '{"speaker_id":"2","transcript":"The buyer says the budget matters more than the view.","start_time_seconds":20,"end_time_seconds":24}'
+        ']}}'
+    )
+    monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:00:30")
+    videos = [{"id": "pQCLpcXSx2s", "title": "A helpful title", "url": "https://www.youtube.com/watch?v=pQCLpcXSx2s", "upload_date": "2026-08-13", "description": "Description is metadata, not quoted speech."}]
+    assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
+    files = list(video_dir.glob("*.md"))
+    assert [p.name for p in files] == ["2026-08-13-a-helpful-title-pQCLpcXSx2s.md"]
+    source = read_source(files[0], tmp_path / "data")
+    assert source.title == "A helpful title"
+    assert source.date == "2026-08-13"
+    assert source.url == videos[0]["url"]
+    assert source.external_id == "pQCLpcXSx2s"
+    assert [u["t"] for u in source.units] == ["00:00:10", "00:00:20"]
+    assert [u["speaker_id"] for u in source.units] == ["1", "2"]
+    assert all("Description is metadata" not in u["text"] for u in source.units)
+    assert "description: Description is metadata" in files[0].read_text()
+    assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
+    assert len(list(video_dir.glob("*.md"))) == 1
+    with pytest.raises(ValueError, match="Conflicting transcript"):
+        youtube.build_markdowns_from_json(audios, raw, video_dir, [dict(videos[0], title="Another title")])

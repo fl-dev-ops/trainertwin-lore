@@ -140,30 +140,57 @@ def read_source(path: Path, root: Path | None = None) -> Source | None:
         passage: list[str] = []
         first = start + 1
         last = start + 1
-        for n in range(start, len(lines)):
-            value = lines[n].strip()
-            if value.startswith(("### Quoting @", "## Comments")):
-                break  # Stop parsing at comments or quoted tweets; they belong to third parties.
-            if (
-                not value
-                or value == "*"
-                or (
-                    value.startswith("#")
-                    and all(word.startswith("#") for word in value.split())
+        if metadata.get("transcript") is True:
+            time = speaker = ""
+            for n in range(start, len(lines)):
+                value = lines[n].strip()
+                turn = re.fullmatch(
+                    r"### (\d{2,}:\d{2}:\d{2}) · Speaker (\S.*)", value
                 )
-            ):
-                continue
-            if not heading:
-                heading = value.lstrip("# ")[:110]
-            if passage and len(" ".join(passage)) + len(value) + 1 > UNIT_CHARS:
+                if turn:
+                    if time:
+                        if not passage:
+                            raise ValueError(f"Empty transcript turn in {path}")
+                        add(" ".join(passage), f"lines {first}-{last}", time, speaker)
+                    time, speaker = turn.groups()
+                    if any(int(v) >= 60 for v in time.split(":")[1:]):
+                        raise ValueError(
+                            f"Invalid transcript timestamp in {path}: {time}"
+                        )
+                    passage = []
+                elif time and value:
+                    if not passage:
+                        first = n + 1
+                    passage.append(value)
+                    last = n + 1
+            if not time or not passage:
+                raise ValueError(f"Missing transcript turns or text in {path}")
+            add(" ".join(passage), f"lines {first}-{last}", time, speaker)
+        else:
+            for n in range(start, len(lines)):
+                value = lines[n].strip()
+                if value.startswith(("### Quoting @", "## Comments")):
+                    break  # Stop parsing at comments or quoted tweets; they belong to third parties.
+                if (
+                    not value
+                    or value == "*"
+                    or (
+                        value.startswith("#")
+                        and all(word.startswith("#") for word in value.split())
+                    )
+                ):
+                    continue
+                if not heading:
+                    heading = value.lstrip("# ")[:110]
+                if passage and len(" ".join(passage)) + len(value) + 1 > UNIT_CHARS:
+                    add(" ".join(passage), f"lines {first}-{last}")
+                    passage = []
+                if not passage:
+                    first = n + 1
+                passage.append(value)
+                last = n + 1
+            if passage:
                 add(" ".join(passage), f"lines {first}-{last}")
-                passage = []
-            if not passage:
-                first = n + 1
-            passage.append(value)
-            last = n + 1
-        if passage:
-            add(" ".join(passage), f"lines {first}-{last}")
     elif path.suffix.lower() == ".jsonl":
         for n, line in enumerate(text.splitlines(), 1):
             if line.strip():

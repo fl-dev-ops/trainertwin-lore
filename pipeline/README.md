@@ -8,8 +8,8 @@ Each person's files live together under `users/<slug>/`: curated `data/<channel>
 uv sync
 # Set OPENROUTER_API_KEY in .env; optionally OPENROUTER_MODEL.
 uv run python -m pipeline status
-uv run python -m pipeline ingest --dry-run --include 'youtube/transcripts/06.yaml' --include 'linkedin/posts/2026-09-21-which-problem-do-you-solve.md'
-uv run python -m pipeline ingest --model openai/gpt-4o --max-calls 20 --include 'youtube/transcripts/06.yaml' --include 'linkedin/posts/2026-09-21-which-problem-do-you-solve.md'
+uv run python -m pipeline ingest --dry-run --include 'youtube/video/*.md' --include 'linkedin/posts/2026-09-21-which-problem-do-you-solve.md'
+uv run python -m pipeline ingest --model openai/gpt-4o --max-calls 20 --include 'youtube/video/*.md' --include 'linkedin/posts/2026-09-21-which-problem-do-you-solve.md'
 uv run python -m pipeline build --model openai/gpt-4o --max-calls 80
 uv run python -m pipeline lint
 uv run python -m pipeline analyze  # offline; writes users/olga/workspace/reports/{analysis,timeline}.md

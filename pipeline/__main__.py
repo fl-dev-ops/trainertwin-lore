@@ -77,7 +77,7 @@ def cli() -> None:
     ingest.add_argument(
         "--include",
         action="append",
-        help="Root-relative file glob; repeat for a pilot (e.g. youtube/transcripts/06.yaml)",
+        help="Root-relative file glob; repeat for a pilot (e.g. youtube/video/*.md)",
     )
     ingest.add_argument(
         "--limit", type=int, help="Only process first N selected sources"

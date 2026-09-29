@@ -141,7 +141,7 @@ trainertwin-lore/
         │   ├── instagram/posts/   # 32 Instagram post markdowns
         │   ├── linkedin/posts/    # 665 LinkedIn post markdowns
         │   ├── twitter/tweets/    # 2 Twitter/X tweet markdowns
-        │   └── youtube/           # 108 YouTube transcript YAMLs
+        │   └── youtube/           # Video manifest + Markdown transcripts under video/
         ├── workspace/             # Living wiki, reports, manifests, evidence
         │   ├── wiki/              # Living Markdown wiki & platform behaviors
         │   ├── reports/           # analysis.md, timeline.md, persona-prompt.md

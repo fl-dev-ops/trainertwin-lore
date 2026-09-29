@@ -4,6 +4,7 @@ Run: uv run python -m social --user jane-doe --since 2026-08-01 --linkedin URL .
 """
 
 import argparse
+import hashlib
 import json
 import re
 from datetime import UTC, date, datetime
@@ -80,25 +81,10 @@ def collect_instagram(url: str, data: Path, since: date) -> None:
 
 
 def video_date(video: dict) -> date:
-    """Flat playlists omit upload_date; ask yt-dlp for the video's real date."""
-    value = video.get("upload_date")
-    if not value:
-        import subprocess
-
-        result = subprocess.run(
-            ["yt-dlp", "--skip-download", "--print", "%(upload_date)s", video["url"]],
-            capture_output=True,
-            text=True,
-            check=False,
-        )
-        if result.returncode != 0:
-            raise ValueError(
-                f"Could not get date for YouTube video {video['url']}: {result.stderr.strip()}"
-            )
-        value = (
-            result.stdout.strip().splitlines()[-1] if result.stdout.strip() else None
-        )
-    return published_day(value)
+    """Flat playlists may omit dates; fetch full metadata when required."""
+    if not video.get("upload_date"):
+        youtube.enrich_video(video)
+    return published_day(video.get("upload_date"))
 
 
 def collect_youtube(
@@ -113,22 +99,22 @@ def collect_youtube(
         day = video_date(video)
         if since <= day <= today:
             video["upload_date"] = day.isoformat()
+            youtube.enrich_video(video)
             selected.append(video)
-    youtube.dump_yaml(
-        {"channel_url": url, "total_videos": len(selected), "videos": selected},
-        data / "channel.yaml",
-    )
+    manifest = data / f"{data.parent.parent.name}.yaml"
+    youtube.save_video_index(url, selected, manifest)
     if not transcribe or not selected:
         return
-    audio_dir = audio_root / since.isoformat()
-    run = data / "runs" / since.isoformat()
+    run_id = hashlib.sha256(url.encode()).hexdigest()[:10]
+    audio_dir = audio_root / since.isoformat() / run_id
+    run = audio_root / "runs" / since.isoformat() / run_id
     selection = run / "selection.json"
     identifiers = [
         v["id"] for v in sorted(selected, key=lambda v: v.get("title") or "")
     ]
     if selection.exists() and json.loads(selection.read_text()) != identifiers:
         raise ValueError(
-            f"Video selection changed for {since}; review {run} before reusing numbered transcripts"
+            f"Video selection changed for {since}; review {run} before reusing Sarvam jobs"
         )
     selection.parent.mkdir(parents=True, exist_ok=True)
     selection.write_text(json.dumps(identifiers) + "\n", encoding="utf-8")
@@ -141,25 +127,18 @@ def collect_youtube(
             )
         ) and youtube.download_video_audio(video["url"], audio_dir) is None:
             raise ValueError(f"Download failed: {video['url']}")
-    # Each absolute-date run gets its own numbered Sarvam files and transcript prefix.
     state, raw = run / "sarvam-jobs.json", run / "sarvam-json"
-    prefix = since.strftime("%Y%m%d-")
-    transcripts = data / "transcripts"
-    expected = [
-        transcripts / f"{prefix}{n:02d}.yaml" for n in range(1, len(selected) + 1)
-    ]
-    if all(path.exists() for path in expected):
+    video_dir = data / "video"
+    if all(list(video_dir.glob(f"*-{v['id']}.md")) for v in selected):
         return
-    cache_path = data / ".dates_cache.json"
-    cache = youtube.load_date_cache(data)
+    cache = youtube.load_date_cache(audio_dir)
     cache.update({v["id"]: v["upload_date"] for v in selected if v.get("id")})
-    cache_path.parent.mkdir(parents=True, exist_ok=True)
-    cache_path.write_text(json.dumps(cache, indent=2) + "\n", encoding="utf-8")
+    youtube.save_date_cache(audio_dir, cache)
     key = youtube.get_sarvam_key(None)
     if not state.exists():
         youtube.submit_sarvam_jobs(audio_dir, run / "uploads", state, key)
     youtube.wait_and_download_sarvam(state, raw, key)
-    count = youtube.build_yamls_from_json(audio_dir, raw, transcripts, prefix)
+    count = youtube.build_markdowns_from_json(audio_dir, raw, video_dir, selected)
     if count != len(selected):
         raise ValueError(
             f"Only {count}/{len(selected)} YouTube transcripts built; inspect {run}"
