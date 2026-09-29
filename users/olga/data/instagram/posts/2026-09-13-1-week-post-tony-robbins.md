@@ -32,6 +32,7 @@ Just put a Me too in a comment if you want a change in your life🧚‍♀️
 
 
 ## 5 TAKEAWAYS
+
 ## MY 5 TAKEAWAYS FROM TONY ROBBINS' 4-DAY EVENT
 
 Four days in the room. Here is what actually stayed.
@@ -43,12 +44,18 @@ SWIPE →
 > Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 13, 2026.
 
 
-```markdown
 < OLGA'S NOTES
-Your state runs your day
-Your daily happiness is controlled by your state. You can change it, but it is not a one-time thing. It is a daily event. Left alone, your thoughts wander and scare you. Priming is what you do instead. Tony does it every morning. So should you.
+
+# Your state runs your day
+
+Your daily happiness is controlled by your state.
+You can change it, but it is not a one-time
+thing. It is a daily event. Left alone, your
+thoughts wander and scare you. Priming is
+what you do instead. Tony does it every
+morning. So should you.
+
 1/5
-```
 
 ### Slide 3
 
@@ -67,7 +74,7 @@ Swap "everything is going to be bad" for “I'm interested to see how this day i
 
 < OLGA'S NOTES
 
-### Stop believing your thoughts
+Stop believing your thoughts
 
 Once you are in that state, here is what becomes possible: you can stop believing your own thoughts. Your brain exists to protect you and keep you safe. Which means it is designed to scare you. That is its job. It is not the truth.
 
@@ -79,13 +86,10 @@ Once you are in that state, here is what becomes possible: you can stop believin
 
 
 < OLGA'S NOTES
+
 The belief doesn't break once
-Everyone thinks one limiting belief stands
-between them and the goal, and if they break
-through it, they're free. That is not how it
-works. The belief is there so you overcome it.
-Not once. Every day. It is not a one-time job, it is
-the job.
+Everyone thinks one limiting belief stands between them and the goal, and if they break through it, they're free. That is not how it works. The belief is there so you overcome it. Not once. Every day. It is not a one-time job, it is the job.
+
 4/5
 
 ### Slide 6
@@ -93,14 +97,15 @@ the job.
 > Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 13, 2026.
 
 
-TONY ROBBINS
-FIREWALKER
+TONY COBBINS
+FIRELKER
 #T
 PW
 
 < OLGA'S NOTES
 
-Problems are the point
+### Problems are the point
+
 Problems are given to us to grow. No problems, no joy, just a boring life. So embrace the problem. Change your state. From that state you can see the problem for what it is: another chance to overcome the limiting belief. Again and again and again.
 
 5/5

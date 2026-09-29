@@ -21,8 +21,8 @@ The cutoff governs **newly collected dated content**, not undated profile fields
 
 ## Progress output
 
-Progress is enabled automatically: terminals show `tqdm` bars with item counts, elapsed time and estimated remaining time. Redirected output and background runs use newline-only progress updates (first item, every 10 items or after 15 seconds between completed items, and a final summary). Everything goes to stderr, leaving stdout available for YAML/JSON output.
+Selected platforms run concurrently (one worker per platform); each still writes only its own data directory. Terminals show a fixed `tqdm` row for each platform's completed stages, with a separate item-level row for its current work. Redirected output and background runs use newline-only progress updates (first item, every 10 items or after 15 seconds between completed items, and a final summary). Everything goes to stderr, leaving stdout available for YAML/JSON output.
 
-Stages include platform collection, post enrichment, carousel OCR slides, YouTube metadata checks/downloads, Sarvam batches/jobs, and Markdown export. Counts mean **items processed**, not successful downloads or transcriptions. Waiting on a provider is explicitly labeled; no fabricated percentage is shown while Sarvam or Apify processes a request.
+Stages include profile discovery, post collection, enrichment/export, and YouTube metadata/download/transcription. Item-level counts show **items processed**, not successful downloads or transcriptions; the stage percentage is not a time estimate. Waiting on a provider is explicitly labeled; no fabricated percentage is shown while Sarvam or Apify processes a request. A failure in one platform does not cancel the others, but the overall command exits unsuccessfully once all workers finish.
 
 For single-platform operations such as comments on an individual post, thread context, or manual Sarvam jobs, the standalone tools remain available at `social/{linkedin,twitter,instagram,youtube}/cli.py` (each has its own `README.md`).

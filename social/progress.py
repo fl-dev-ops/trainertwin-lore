@@ -2,9 +2,54 @@
 
 import sys
 from collections.abc import Iterable, Iterator, Sized
+from contextlib import contextmanager
+from threading import local
 from time import monotonic
 
 from tqdm import tqdm
+
+_platform = local()
+
+
+@contextmanager
+def platform_progress(name: str, position: int, stages: int, child_base: int):
+    """Reserve one terminal row per platform and one for its current item-level task."""
+    terminal = sys.stderr.isatty()
+    with tqdm(
+        total=stages,
+        desc=name,
+        unit="stage",
+        position=position,
+        file=sys.stderr,
+        disable=not terminal,
+        dynamic_ncols=True,
+        leave=True,
+    ) as bar:
+        _platform.bar = bar
+        _platform.name = name
+        _platform.done = 0
+        _platform.child_position = child_base + position
+        if not terminal:
+            status(f"{name}: 0/{stages} stages — starting")
+        try:
+            yield
+        finally:
+            if not terminal:
+                state = "finished" if _platform.done == stages else "stopped"
+                status(f"{name}: {_platform.done}/{stages} stages — {state}")
+            del _platform.bar, _platform.name, _platform.done, _platform.child_position
+
+
+def stage(message: str) -> None:
+    """Advance the current platform's known stage count; no-op in standalone CLIs."""
+    bar = getattr(_platform, "bar", None)
+    if bar is not None:
+        _platform.done += 1
+        if bar.disable:
+            status(f"{_platform.name}: {_platform.done}/{bar.total} stages — {message}")
+        else:
+            bar.set_postfix_str(message)
+            bar.update(1)
 
 
 def status(message: str) -> None:
@@ -34,6 +79,8 @@ def track[T](
             disable=not terminal,
             dynamic_ncols=True,
             mininterval=0.5,
+            position=getattr(_platform, "child_position", None),
+            leave=not hasattr(_platform, "child_position"),
         ) as bar:
             for item in items:
                 yield item

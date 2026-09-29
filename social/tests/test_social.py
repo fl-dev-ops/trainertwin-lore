@@ -247,9 +247,14 @@ def test_youtube_markdown_transcript_preserves_source_locators(tmp_path, monkeyp
     assert all("Description is metadata" not in u["text"] for u in source.units)
     assert "description: Description is metadata" in files[0].read_text()
     assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
-    assert len(list(video_dir.glob("*.md"))) == 1
+    assert youtube.build_markdowns_from_json(
+        audios, raw, video_dir, [dict(videos[0], title="Another title")]
+    ) == 1
+    assert list(video_dir.glob("*.md")) == files
+    assert read_source(files[0], tmp_path / "data").title == "Another title"
+    files[0].write_text(files[0].read_text().replace("id: pQCLpcXSx2s", "id: wrong-id"))
     with pytest.raises(ValueError, match="Conflicting transcript"):
-        youtube.build_markdowns_from_json(audios, raw, video_dir, [dict(videos[0], title="Another title")])
+        youtube.build_markdowns_from_json(audios, raw, video_dir, videos)
 
 
 def test_gemini_ocr_in_memory_and_ephemeral_files(monkeypatch):

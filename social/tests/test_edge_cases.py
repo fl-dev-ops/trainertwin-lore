@@ -1,3 +1,7 @@
+import json
+import subprocess
+from pathlib import Path
+
 import httpx
 import pytest
 
@@ -31,6 +35,61 @@ def test_silent_video_handled_cleanly(tmp_path):
     content = md_file.read_text()
     assert "No spoken dialogue detected" in content
     assert "Visual video only" in content
+
+
+def test_oversized_audio_splits_and_resumes_without_reupload(tmp_path, monkeypatch):
+    audio = tmp_path / "long.mp3"
+    audio.write_bytes(b"temporary audio")
+    raw = tmp_path / "results"
+    monkeypatch.setattr(youtube, "audio_seconds", lambda _: 7201)
+    uploads = []
+
+    def split(command, **kwargs):
+        Path(command[-1]).write_bytes(b"one audio segment")
+        return subprocess.CompletedProcess(command, 0, "", "")
+
+    monkeypatch.setattr(youtube.subprocess, "run", split)
+
+    class Job:
+        def upload_files(self, files, **kwargs):
+            self.path = Path(files[0])
+            assert self.path.exists()
+            uploads.append(self.path.name)
+
+        def start(self):
+            assert not self.path.exists()
+
+        def wait_until_complete(self, **kwargs):
+            self.job_state = "Completed"
+            return self
+
+        def is_successful(self):
+            return True
+
+        def download_outputs(self, directory):
+            (Path(directory) / f"{self.path.name}.json").write_text(
+                json.dumps({"diarized_transcript": {"entries": [{
+                    "speaker_id": "1", "transcript": "A spoken sentence from this part.",
+                    "start_time_seconds": 2, "end_time_seconds": 5,
+                }]}})
+            )
+
+    class Client:
+        def __init__(self, **kwargs):
+            self.speech_to_text_job = self
+
+        def create_job(self, **kwargs):
+            return Job()
+
+    monkeypatch.setattr("sarvamai.SarvamAI", Client)
+    youtube.transcribe_long_audio(audio, raw, 10, "fake")
+    entries = youtube.load_entries(raw / "010.mp3.json")
+    assert uploads == ["010-part00.mp3", "010-part01.mp3", "010-part02.mp3"]
+    assert [entry.start for entry in entries] == [2, 3602, 7202]
+    assert audio.exists()  # The collector removes it only after all videos complete.
+    youtube.transcribe_long_audio(audio, raw, 10, "fake")
+    assert len(uploads) == 3  # Cached text results, no duplicate paid requests.
+    assert not list(tmp_path.rglob("010-part*.mp3"))
 
 
 def test_corrupt_or_zero_byte_audio_skipped(tmp_path, monkeypatch):

@@ -26,7 +26,9 @@ You should match this 2 criteria:
 > Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 19, 2026.
 
 Olga... how to Close more deals?!
+
 Coaching + Warm Clients
+
 Dm me "SALES" if you want to know more
 
 ## Comments (1)

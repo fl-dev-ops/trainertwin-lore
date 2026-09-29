@@ -7,6 +7,7 @@ import argparse
 import hashlib
 import json
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, date, datetime
 from pathlib import Path
 from urllib.parse import urlparse
@@ -14,7 +15,7 @@ from urllib.parse import urlparse
 from .dates import published_day
 from .instagram import cli as instagram
 from .linkedin import cli as linkedin
-from .progress import status, track
+from .progress import platform_progress, stage, status, track
 from .twitter import cli as twitter
 from .youtube import cli as youtube
 
@@ -50,35 +51,44 @@ def collect_linkedin(url: str, data: Path, since: date) -> None:
     slug = linkedin.extract_slug(url)
     profile = linkedin.fetch_harvest("/linkedin/profile", {"url": url}, key)
     result = linkedin.split_profile_sections(profile.get("element", profile))
+    stage("profile fetched")
     posts = linkedin.fetch_all_posts(url, key, since=since)
+    stage(f"{len(posts)} dated posts fetched")
     result["posts"] = linkedin.save_posts_to_markdown(
         posts, data / "posts", api_key=key, comments_min=1
     )
     linkedin.dump_yaml(result, data / f"{slug}.yaml")
+    stage(f"{len(result['posts'])} posts saved")
 
 
 def collect_twitter(url: str, data: Path, since: date) -> None:
     key = twitter.get_api_key(None)
     username = twitter.extract_username(url)
     profile = twitter.fetch_user_profile(username, key)
+    stage("profile fetched")
     tweets = twitter.fetch_user_tweets(username, key, since=since)
+    stage(f"{len(tweets)} dated tweets fetched")
     result = {
         "profile": profile,
         "tweets": twitter.save_tweets_to_markdown(tweets, data / "tweets"),
     }
     twitter.dump_yaml(result, data / f"{username}.yaml")
+    stage(f"{len(result['tweets'])} tweets saved")
 
 
 def collect_instagram(url: str, data: Path, since: date) -> None:
     key = instagram.get_api_key(None)
     username = instagram.extract_username(url)
     profile = instagram.fetch_profile(username, key)
+    stage("profile fetched")
     posts = instagram.fetch_posts(username, key, since=since)
+    stage(f"{len(posts)} dated posts fetched")
     result = {
         "profile": profile,
         "posts": instagram.save_posts_to_markdown(posts, data / "posts"),
     }
     instagram.dump_yaml(result, data / f"{username}.yaml")
+    stage(f"{len(result['posts'])} posts enriched and saved")
 
 
 def video_date(video: dict) -> date | None:
@@ -101,6 +111,7 @@ def collect_youtube(
     url: str, data: Path, audio_root: Path, since: date, transcribe: bool
 ) -> None:
     videos = youtube.fetch_channel_videos(url)
+    stage(f"{len(videos)} videos discovered")
     today = datetime.now(UTC).date()
     selected = []
     for video in track(videos, "YouTube metadata / dates", unit="video"):
@@ -116,7 +127,10 @@ def collect_youtube(
     status(f"YouTube: selected {len(selected)}/{len(videos)} videos for {since} through {today}")
     manifest = data / f"{data.parent.parent.name}.yaml"
     youtube.save_video_index(url, selected, manifest)
+    stage(f"{len(selected)} dated videos indexed")
     if not transcribe or not selected:
+        stage("audio skipped")
+        stage("transcription skipped")
         return
     run_id = hashlib.sha256(url.encode()).hexdigest()[:10]
     audio_dir = audio_root / since.isoformat() / run_id
@@ -131,6 +145,11 @@ def collect_youtube(
         )
     selection.parent.mkdir(parents=True, exist_ok=True)
     selection.write_text(json.dumps(identifiers) + "\n", encoding="utf-8")
+    video_dir = data / "video"
+    if all(list(video_dir.glob(f"*-{v['id']}.md")) for v in selected):
+        stage("transcripts already saved; audio skipped")
+        stage("transcription skipped")
+        return
     for video in track(selected, "YouTube audio downloads", unit="video"):
         ident = video.get("id")
         if (
@@ -140,10 +159,8 @@ def collect_youtube(
             )
         ) and youtube.download_video_audio(video["url"], audio_dir) is None:
             raise ValueError(f"Download failed: {video['url']}")
+    stage(f"{len(selected)} audio downloads checked")
     state, raw = run / "sarvam-jobs.json", run / "sarvam-json"
-    video_dir = data / "video"
-    if all(list(video_dir.glob(f"*-{v['id']}.md")) for v in selected):
-        return
     cache = youtube.load_date_cache(audio_dir)
     cache.update({v["id"]: v["upload_date"] for v in selected if v.get("id")})
     youtube.save_date_cache(audio_dir, cache)
@@ -151,6 +168,9 @@ def collect_youtube(
     if not state.exists():
         youtube.submit_sarvam_jobs(audio_dir, run / "uploads", state, key)
     youtube.wait_and_download_sarvam(state, raw, key)
+    for n, mp3 in enumerate(sorted(audio_dir.glob("*.mp3")), 1):
+        if youtube.match_sarvam_json(f"{n:03d}.mp3", raw) is None and youtube.audio_seconds(mp3) >= 7200:
+            youtube.transcribe_long_audio(mp3, raw, n, key)
     count = youtube.build_markdowns_from_json(audio_dir, raw, video_dir, selected)
     # Ephemeral media policy: delete local audio files once transcripts are built
     for mp3 in audio_dir.glob("*.mp3"):
@@ -162,6 +182,7 @@ def collect_youtube(
         raise ValueError(
             f"Only {count}/{len(selected)} YouTube transcripts built; inspect {run}"
         )
+    stage(f"{count} transcripts saved")
 
 
 def main(argv: list[str] | None = None) -> None:
@@ -197,31 +218,39 @@ def main(argv: list[str] | None = None) -> None:
     urls = {p: getattr(args, p) for p in DOMAINS if getattr(args, p)}
     if not urls:
         parser.error("Provide at least one social profile/channel URL")
-    failures = []
     try:
         urls = {p: profile_url(url, p) for p, url in urls.items()}
-        base = ROOT / "users" / args.user
-        for platform, url in track(urls.items(), "Social collection", unit="platform"):
-            status(f"{platform}: collecting {since} through {datetime.now(UTC).date()}")
-            data = base / "data" / platform
-            try:
-                if platform == "linkedin":
-                    collect_linkedin(url, data, since)
-                elif platform == "twitter":
-                    collect_twitter(url, data, since)
-                elif platform == "instagram":
-                    collect_instagram(url, data, since)
-                else:
-                    collect_youtube(
-                        url, data, base / "audios", since, not args.no_transcribe
-                    )
-            except (ValueError, RuntimeError, OSError) as exc:
-                status(f"Error collecting {platform}: {exc}")
-                failures.append(f"{platform}: {exc}")
-            else:
-                status(f"{platform}: collection finished")
     except ValueError as exc:
         parser.exit(1, f"Collection stopped: {exc}\n")
+
+    base = ROOT / "users" / args.user
+
+    def collect(platform: str, url: str, position: int) -> None:
+        with platform_progress(platform, position, 4 if platform == "youtube" else 3, len(urls)):
+            status(f"{platform}: collecting {since} through {datetime.now(UTC).date()}")
+            data = base / "data" / platform
+            if platform == "linkedin":
+                collect_linkedin(url, data, since)
+            elif platform == "twitter":
+                collect_twitter(url, data, since)
+            elif platform == "instagram":
+                collect_instagram(url, data, since)
+            else:
+                collect_youtube(url, data, base / "audios", since, not args.no_transcribe)
+            status(f"{platform}: collection finished")
+
+    failures = []
+    with ThreadPoolExecutor(max_workers=len(urls)) as pool:
+        jobs = {
+            pool.submit(collect, platform, url, position): platform
+            for position, (platform, url) in enumerate(urls.items())
+        }
+        for job in as_completed(jobs):
+            try:
+                job.result()
+            except (ValueError, RuntimeError, OSError, SystemExit) as exc:
+                status(f"Error collecting {jobs[job]}: {exc}")
+                failures.append(f"{jobs[job]}: {exc}")
     if failures:
         parser.exit(1, "Collection finished with errors:\n  " + "\n  ".join(failures) + "\n")
 

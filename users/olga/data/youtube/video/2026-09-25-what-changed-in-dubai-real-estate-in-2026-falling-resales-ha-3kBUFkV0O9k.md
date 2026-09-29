@@ -1,7 +1,7 @@
 ---
 id: 3kBUFkV0O9k
-title: What Changed in Dubai Real Estate in 2026? Falling Resales, Harder Exits —
-  Should You Still Buy?
+title: Is Dubai Real Estate Overhyped? Falling Resales, Harder Exits — Who Should
+  Buy Now?
 date: '2026-09-25'
 url: https://www.youtube.com/watch?v=3kBUFkV0O9k
 description: "Dubai real estate is changing in 2026: off-plan resales are down, supply\
@@ -28,7 +28,7 @@ model: saaras:v3
 transcript: true
 ---
 
-# What Changed in Dubai Real Estate in 2026? Falling Resales, Harder Exits — Should You Still Buy?
+# Is Dubai Real Estate Overhyped? Falling Resales, Harder Exits — Who Should Buy Now?
 
 ## Transcript
 
@@ -102,7 +102,7 @@ The most dangerous thing in Dubai right now isn't a bad developer. It's a twenty
 
 ### 00:07:14 · Speaker 1
 
-good location, bought from Shoba Oplan several years ago, and it's completed. Keys are ready. There is no developer problem. Nothing wrong with the building at all. He's sitting on the quote of the million late payment fees, unable to rent it out and access the unit to start covering it from his rent because he miscalculated the exit. He couldn't finalize the handover payments, even with the post handover payment plan, the comfortable version, everyone probably
+good location, bought from Shoba Oplan several years ago. And it's completed, keys are ready. There is no developer problem. Nothing wrong with the building at all. He's sitting on the quote of the million late payment fees, unable to rent it out and access the unit to start covering it from his rent because he miscalculated the exit. He couldn't finalize the handover payments, even with the post handover payment plan, the comfortable version, everyone probably
 
 ### 00:07:44 · Speaker 1
 

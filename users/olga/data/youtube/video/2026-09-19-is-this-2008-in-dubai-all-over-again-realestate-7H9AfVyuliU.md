@@ -19,7 +19,7 @@ Dubai property prices dropped almost fifty percent in less than a year. I'm talk
 
 ### 00:00:30 · Speaker 1
 
-In two thousand eight, the market was built on credit. Buyers were getting up to ninety percent finance. And flippers were reserving properties with very small deposits. Then lending stopped. Not only in Dubai, all over the world. The buyers did not simply become cautious. They disappeared. Today, most purchases are cash. Mortgage lending is restricted and offline is regulated. So, no.
+In two thousand eight, the market was built on credit. Buyers were getting up to ninety percent finance. And flippers were reserving properties with very small deposits. Then lending stopped. Not only in Dubai, all over the world. The buyers did not simply become cautious. They disappeared. Today, most purchases are cash. Mortgage lending is restricted and offline is regulated. So,
 
 ### 00:01:00 · Speaker 1
 

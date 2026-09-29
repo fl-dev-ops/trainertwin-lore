@@ -19,6 +19,9 @@ Thumbs.db
 # Pi Agent Harness
 .pi/
 
+# Local corpus backup (never commit)
+/users_backup/
+
 # Locks & Archives
 .lock
 **/.lock

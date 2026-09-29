@@ -4,7 +4,7 @@ date: '2026-09-07T07:05:12.171Z'
 url: https://www.linkedin.com/posts/olgasi_celebrating-the-6th-year-of-my-coaching-academy-activity-7502622987318231040-8PO0
 likes: 40
 comments: 4
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHDykqFfn8ZVA/CeJxzMnFJdDIrqiqt8ih3SdbVcULmR6Lx09H4-Uh8A49yR1c0fr4uALeQHj0?e=1791288000&v=beta&t=vBi2jvUchrxwBZkl_e15dXpaPM3LPATFbKRk_iktREM
+videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHDykqFfn8ZVA/mp4-720p-30fp-crf28/B4DaB6rzuzHwCA-/0/1788764705386?e=1791298800&v=beta&t=Sdkplkzf0gBVcjc9ooqfzYdPtnW3oF4JZ8jvoxXPpmo
 ---
 
 Celebrating the 6th Year of my Coaching Academy with Tony Robbins- Unleash the Power within 4 days event in Cologne!

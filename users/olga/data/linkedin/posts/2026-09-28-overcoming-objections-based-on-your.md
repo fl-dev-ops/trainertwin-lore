@@ -4,7 +4,7 @@ date: '2026-09-28T11:32:35.123Z'
 url: https://www.linkedin.com/posts/olgasi_overcoming-objections-based-on-your-own-deep-activity-7510300421513703425--9mP
 likes: 21
 comments: 1
-videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQECjjJTe-MtYQ/CeJxzMnFJdEkOMI408gp1SdfVcULiO5ug8l2y0fj5aOoNUPmuvroA6RgaDg?e=1791288000&v=beta&t=0ZMo3roOi89VrtKc3CbrQWFPlKsXleQqKQ6hyghEEp8
+videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQECjjJTe-MtYQ/mp4-720p-30fp-crf28/B4DaDcP3Y2JUCQ-/0/1790401553160?e=1791298800&v=beta&t=FcelhsbyTvHd4lmcbjjbRyA2g9NCtVY9JvuhyBUx2is
 ---
 
 Overcoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!

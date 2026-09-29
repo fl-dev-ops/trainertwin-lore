@@ -56,7 +56,7 @@ FIREWALKER
 > Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
 
 
-* Business Data Cloud
+Business Data Cloud
 
 ### Slide 3
 
@@ -72,7 +72,7 @@ UNLEASH THE POWER WITHIN
 > Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
 
 
-I did not find any readable text, headlines, numbers, or bullet points in the image.
+I cannot extract any readable text, headlines, numbers, or bullet points from the provided image. The image is a close-up of a person and does not contain any discernible text.
 
 ### Slide 5
 
@@ -102,19 +102,16 @@ www.tonyrobbins.com
 > Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
 
 
-```markdown
 TONY ROBBINS
-PL
-
-GUESS
-```
 
 ### Slide 7
 
 > Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
 
 
-CELEBRATION
+CELEBRATING
+OUR
+DANMARK
 
 ### Slide 8
 
@@ -142,18 +139,20 @@ TONY ROBBINS
 > Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
 
 
-No text is readable in the provided image.
+No readable text, headlines, numbers, or bullet points are present in the image.
 
 ### Slide 12
 
 > Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
 
 
-SCHUNKEN
-
+SCHUNK
 TANZEN
-
 ESS arena
+velerev
+SIG & ÖL
+ER
+LOWER TEN
 
 ### Slide 13
 
@@ -169,14 +168,14 @@ FIREWALKER
 > Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
 
 
-I cannot extract any text from the provided image. The image does not contain any readable text, headlines, numbers, or bullet points.
+No readable text detected.
 
 ### Slide 15
 
 > Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
 
 
-No text, headlines, numbers, or bullet points were detected in the image.
+SONY
 
 ### Slide 16
 

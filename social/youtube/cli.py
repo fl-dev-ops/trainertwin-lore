@@ -6,6 +6,7 @@ import os
 import re
 import subprocess
 import sys
+import tempfile
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -52,6 +53,14 @@ def ffprobe_duration(path: Path) -> str:
         return hhmmss(float(out.stdout.strip()))
     except ValueError:
         return "unknown"
+
+
+def audio_seconds(path: Path) -> int:
+    duration = ffprobe_duration(path)
+    if duration == "unknown":
+        raise ValueError(f"Could not determine audio duration: {path}")
+    hours, minutes, seconds = map(int, duration.split(":"))
+    return hours * 3600 + minutes * 60 + seconds
 
 
 class _SingleQuoted(str):
@@ -260,6 +269,59 @@ def wait_and_download_sarvam(
         status(f"Sarvam: downloaded results to {json_out_dir}")
 
 
+def transcribe_long_audio(audio: Path, raw_dir: Path, number: int, api_key: str) -> None:
+    """Split only oversized audio; cache each part, then restore numbered Sarvam JSON."""
+    from sarvamai import SarvamAI
+
+    duration = audio_seconds(audio)
+    if duration < 7200:
+        raise ValueError(f"Audio does not exceed Sarvam's limit: {audio}")
+    raw_dir.mkdir(parents=True, exist_ok=True)
+    client = SarvamAI(api_subscription_key=api_key)
+    entries = []
+    for part, offset in enumerate(range(0, duration, 3600)):
+        name = f"{number:03d}-part{part:02d}.mp3"
+        checkpoint = raw_dir / f"{name}.json"
+        if not checkpoint.exists():
+            with tempfile.TemporaryDirectory() as temporary:
+                chunk = Path(temporary) / name
+                result = subprocess.run(
+                    ["ffmpeg", "-v", "error", "-ss", str(offset), "-t", "3600", "-i", str(audio), "-vn", "-c:a", "copy", str(chunk)],
+                    capture_output=True, text=True, check=False,
+                )
+                if result.returncode != 0 or not chunk.is_file():
+                    raise ValueError(f"Could not split audio part {part}: {result.stderr[:200]}")
+                status(f"Sarvam: uploading hour {part + 1} of {audio.name}")
+                job = client.speech_to_text_job.create_job(
+                    model="saaras:v3", mode="verbatim", language_code="unknown",
+                    with_timestamps=True, with_diarization=True,
+                )
+                job.upload_files([str(chunk)], timeout=600)
+                chunk.unlink()  # Do not keep uploaded media locally.
+                job.start()
+                state = job.wait_until_complete(poll_interval=10, timeout=7200)
+                if not job.is_successful():
+                    raise ValueError(f"Sarvam audio part {part} failed: {state.job_state}")
+                job.download_outputs(temporary)
+                output = match_sarvam_json(name, Path(temporary))
+                if output is None:
+                    raise ValueError(f"Missing Sarvam result for audio part {part}")
+                pending = checkpoint.with_suffix(".tmp")
+                pending.write_bytes(output.read_bytes())
+                pending.replace(checkpoint)
+        for item in load_entries(checkpoint):
+            entries.append({
+                "speaker_id": item.speaker_id,
+                "transcript": item.text,
+                "start_time_seconds": offset + item.start,
+                "end_time_seconds": offset + item.end,
+            })
+    target = raw_dir / f"{number:03d}.mp3.json"
+    pending = target.with_suffix(".tmp")
+    pending.write_text(json.dumps({"diarized_transcript": {"entries": entries}}), encoding="utf-8")
+    pending.replace(target)
+
+
 def load_entries(sarvam_path: Path) -> list[Entry]:
     data = json.loads(sarvam_path.read_text())
     raw = (data.get("diarized_transcript") or {}).get("entries", [])
@@ -396,9 +458,14 @@ def build_markdowns_from_json(
             or "video"
         )
         out = video_dir / f"{video_date or 'undated'}-{name}-{video_id}.md"
-        existing = [p for p in video_dir.glob(f"*-{video_id}.md") if p != out]
+        existing = list(video_dir.glob(f"*-{video_id}.md"))
+        if len(existing) > 1:
+            raise ValueError(f"Multiple transcripts for {video_id}: {existing}")
         if existing:
-            raise ValueError(f"Conflicting transcript for {video_id}: {existing[0]}")
+            parts = existing[0].read_text(encoding="utf-8").split("---", 2)
+            if len(parts) != 3 or str((yaml.safe_load(parts[1]) or {}).get("id")) != video_id:
+                raise ValueError(f"Conflicting transcript for {video_id}: {existing[0]}")
+            out = existing[0]  # Keep the path stable when a video's title changes.
 
         entries = restitch_chunks(load_entries(jp))
         frontmatter = {
