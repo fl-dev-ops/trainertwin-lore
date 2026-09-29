@@ -3,9 +3,10 @@ id: '3993365668933310391'
 type: carousel
 date: '2026-09-24T16:11:46.000Z'
 url: https://www.instagram.com/p/DdrSOsLApe3/
-likes: 18
+likes: 20
 comments: 2
 location: LANXESS arena
+slide_count: 16
 ---
 
 ## Caption
@@ -38,6 +39,152 @@ Tony event was my LV bag…
 No offense ladies… 
 
 #dubaisalestrainer
+
+## Carousel Slides (16)
+
+### Slide 1
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+TONY ROBBINS
+FIREWALKER
+#TonyRobbinsUPW
+
+### Slide 2
+
+> Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+* Business Data Cloud
+
+### Slide 3
+
+> Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+TONY ROBBINS
+UNLEASH THE POWER WITHIN
+01:21
+
+### Slide 4
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+I did not find any readable text, headlines, numbers, or bullet points in the image.
+
+### Slide 5
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+# 3 Decisions Drei Entscheidungen
+We make every moment of our lives
+Wir gestalten jeden Moment unseres Lebens
+
+1
+What am I going to FOCUS on?
+Worauf werde ich mich konzentrieren?
+
+2
+What does this MEAN?
+Was BEDEUTET das?
+
+3
+What am I going to DO?
+Was werde ich TUN?
+
+www.tonyrobbins.com
+
+### Slide 6
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+```markdown
+TONY ROBBINS
+PL
+
+GUESS
+```
+
+### Slide 7
+
+> Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+CELEBRATION
+
+### Slide 8
+
+> Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+No readable text, headlines, numbers, or bullet points were detected.
+
+### Slide 9
+
+> Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+ULTI
+
+### Slide 10
+
+> Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+TONY ROBBINS
+
+### Slide 11
+
+> Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+No text is readable in the provided image.
+
+### Slide 12
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+SCHUNKEN
+
+TANZEN
+
+ESS arena
+
+### Slide 13
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+TONY ROBBINS
+FIREWALKER
+#TonyRobbinsUPW
+
+### Slide 14
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+I cannot extract any text from the provided image. The image does not contain any readable text, headlines, numbers, or bullet points.
+
+### Slide 15
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+No text, headlines, numbers, or bullet points were detected in the image.
+
+### Slide 16
+
+> Alt text: Video by Olga Sinenko | Real Estate Sales Mentor on September 24, 2026.
+
+
+No readable text, headlines, numbers, or bullet points were detected in the image.
+
 
 ## Comments (2)
 

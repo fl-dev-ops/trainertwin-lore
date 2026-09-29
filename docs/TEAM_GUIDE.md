@@ -26,9 +26,9 @@ Copy the template and fill in your keys:
 ```bash
 cp .env.example .env
 ```
-* **Required for Pipeline & Wiki**: `OPENROUTER_API_KEY`
+* **Required for ingestion, twin generation and model audits**: `OPENROUTER_API_KEY`
 * **Optional (for collecting new data)**: `HARVEST_API_KEY` (LinkedIn), `TWITTER_API_KEY` (Twitter/X), `APIFY_API_KEY` (Instagram), `SARVAM_API_KEY` (YouTube transcription).
-*(If you just want to test querying and analyzing Olga's pre-ingested corpus, you only need `OPENROUTER_API_KEY`!)*
+*Current workspace build, context retrieval, analysis, status and lint run offline without an API key. Use the single `pipeline/` implementation and normal workspace; see [pipeline/README.md](../pipeline/README.md).*
 
 ---
 
@@ -88,8 +88,11 @@ TrainerTwin Lore installs standalone console binaries via `uv`:
 # Ingest sources into evidence cards
 uv run trainertwin-pipeline --user olga ingest --model openai/gpt-4o --max-calls 20
 
-# Maintain living wiki & platform behaviors
-uv run trainertwin-pipeline --user olga build --model openai/gpt-4o --max-calls 80
+# Render cited products offline.
+uv run trainertwin-pipeline --user olga build
+
+# Generate separate observations/proposals using an explicitly declared alias.
+uv run trainertwin-pipeline --user olga twin --author olgasi --model openai/gpt-4o --max-calls 8
 
 # Compile offline persona report
 uv run trainertwin-pipeline --user olga analyze
@@ -115,7 +118,7 @@ We specifically need feedback on:
    - Check `users/olga/workspace/reports/analysis.md`.
    - Are client objections (e.g. *"I don't have time"*, *"Can you just send me options"*) properly identified as roleplay teaching moves, rather than Olga's personal beliefs?
 2. **Platform Behavioral Nuance**:
-   - Read `users/olga/workspace/wiki/behavior/linkedin.md` and `youtube.md`.
+   - Read `users/olga/workspace/twin/profile.md` and its cited original examples.
    - Does the analysis accurately capture formatting patterns, tone shifts, and content structures?
 3. **Tool & MCP Usability**:
    - Did the MCP server connect cleanly in Pi?

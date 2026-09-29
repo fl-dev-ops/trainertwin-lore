@@ -21,6 +21,14 @@ You should match this 2 criteria:
 - sense of humor 
 - value your reputation more than Money!
 
+## Image Text
+
+> Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on September 19, 2026.
+
+Olga... how to Close more deals?!
+Coaching + Warm Clients
+Dm me "SALES" if you want to know more
+
 ## Comments (1)
 
 ### @_naveed.ali_3

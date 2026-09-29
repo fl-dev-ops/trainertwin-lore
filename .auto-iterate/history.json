@@ -1,0 +1,85 @@
+{
+  "task": {
+    "name": "TrainerTwin pipeline output quality",
+    "created_at": "2026-09-29T12:11:49.659252+00:00"
+  },
+  "runs": [
+    {
+      "run": "run_001",
+      "hypothesis": "Unchanged baseline after runner isolation repair",
+      "decision": "baseline",
+      "score": 0.75,
+      "code_sha256": {
+        "pipeline/sources.py": "09fb45bec8ac40dc16cbbbcc2918275d8e6fc4af0780728a452dc3c5b53c48e9",
+        "pipeline/core.py": "193e6234ea7102965abbb6800150e824656da5ed424fc0184b487c3227348943",
+        "pipeline/prompts.py": "ea211bae6781cf89ecb99e564f718237bde383440261f9293ed7aab6f38f8470",
+        "pipeline/twin.py": "7a519940d1c3f251b2a5bb181964faf4be65c9cf6b4d9d533557ec7a5ac84b1a"
+      },
+      "reference_score": null,
+      "comparison": "Both sources from packet A are addressed, representing their core themes of creative exercises and questioning techniques for client persuasion. However, the articulation does not deeply explore the variability in effectiveness or application context, focusing more on statements than on the nuances of their application.",
+      "elapsed_seconds": 5.67,
+      "requests": 1
+    },
+    {
+      "run": "run_002",
+      "hypothesis": "Separate authored text from speaker identity and concrete expression observations from explicitly proposed adaptations; reuse upstream evidence/wiki caches",
+      "decision": "discard",
+      "score": 0.75,
+      "code_sha256": {
+        "pipeline/sources.py": "09fb45bec8ac40dc16cbbbcc2918275d8e6fc4af0780728a452dc3c5b53c48e9",
+        "pipeline/core.py": "193e6234ea7102965abbb6800150e824656da5ed424fc0184b487c3227348943",
+        "pipeline/prompts.py": "c92982e920cec4fc680ff93642cc68f4f21984c460d09e9396dd098ec8817b39",
+        "pipeline/twin.py": "2fb5738c2366818f1a7542019bd95c1a6edf3bc69933d8cccb0a6c34e6a18844"
+      },
+      "reference_score": 0.75,
+      "comparison": "Both A and B maintain similar fidelity by accurately reflecting the sources' main ideas and strategies. They both offer useful information by focusing on practical advice from the posts. Both packets distinguish between different types of information, such as observed teaching methods and spontaneously creating exercises. Usability is consistent, presenting strategies and exercises that can be adapted for training and client interactions. Each packet has noted similar remaining gaps related to broader context applications and effectiveness details, without critical errors.",
+      "elapsed_seconds": 11.75,
+      "requests": 2
+    },
+    {
+      "run": "run_003",
+      "hypothesis": "Describe source-anchored explanatory form, not effectiveness or taught sales policy; qualify only known evidential limits and propose conditional form reuse",
+      "decision": "discard",
+      "score": 0.85,
+      "code_sha256": {
+        "pipeline/sources.py": "09fb45bec8ac40dc16cbbbcc2918275d8e6fc4af0780728a452dc3c5b53c48e9",
+        "pipeline/core.py": "193e6234ea7102965abbb6800150e824656da5ed424fc0184b487c3227348943",
+        "pipeline/prompts.py": "49d3ab5a997d4e2bc9448f3c75cb7e382b2b6d8105d3b6240be1c426bb50dd3a",
+        "pipeline/twin.py": "dc327b9b2002206f7ff75963e405b4fb3b1e0985c9b43b2300298c84991b6f2e"
+      },
+      "reference_score": 0.85,
+      "comparison": "Both packets effectively capture the essence and key practices from the source material regarding spontaneous thinking exercises and using questions for persuasion. They emphasize method efficacy while recognizing the self-reported nature of the examples without introducing critical errors. However, more contextual examples or additional insights into the broader applicability of these techniques could improve their informative value.",
+      "elapsed_seconds": 7.42,
+      "requests": 2
+    }
+  ],
+  "best_score": 0.75,
+  "best_run": "run_001",
+  "improvement_history": [
+    {
+      "run": "run_001",
+      "score": 0.75
+    }
+  ],
+  "infrastructure_failures": [
+    {
+      "classification": "runner relocation error; not scored",
+      "artifact": "results/infrastructure_001",
+      "original_record": {
+        "run": "run_001",
+        "hypothesis": "Unchanged baseline",
+        "decision": "discard",
+        "score": 0.0,
+        "code_sha256": {
+          "pipeline/sources.py": "09fb45bec8ac40dc16cbbbcc2918275d8e6fc4af0780728a452dc3c5b53c48e9",
+          "pipeline/core.py": "193e6234ea7102965abbb6800150e824656da5ed424fc0184b487c3227348943",
+          "pipeline/prompts.py": "ea211bae6781cf89ecb99e564f718237bde383440261f9293ed7aab6f38f8470",
+          "pipeline/twin.py": "7a519940d1c3f251b2a5bb181964faf4be65c9cf6b4d9d533557ec7a5ac84b1a"
+        },
+        "error": "Command failed (1); inspect results/run_001/output.txt",
+        "elapsed_seconds": 1.31,
+        "requests": 0
+      }
+    }
+  ]
+}

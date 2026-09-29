@@ -1,0 +1,39 @@
+{
+  "audit": {
+    "fields_checked": 20,
+    "not_measured": [
+      "information recall",
+      "trainer resemblance",
+      "external truth"
+    ],
+    "records_checked": 8,
+    "review_status": "model_diagnostic_only",
+    "verdicts": {
+      "supported": 20
+    }
+  },
+  "cached_rebuild_calls": 0,
+  "checks": {
+    "evidence": 8,
+    "products": {
+      "cases": 2,
+      "expression": 3,
+      "knowledge": 3
+    },
+    "sources": 3,
+    "topics": 1
+  },
+  "fixture_model_calls": 5,
+  "paid_calls": 0,
+  "retention_assertions": [
+    "four ordered method steps",
+    "60-second constraint",
+    "reported/recorded cases distinct",
+    "unknown rationales/outcomes remain null",
+    "Never. preserved",
+    "task-selected knowledge",
+    "zero-call cached rebuild"
+  ],
+  "validation": "offline_fixture_only_not_live_model_quality"
+}
+Artifacts: /Users/suryaumapathy/Developers/Github/foreverlearning/olga/.pi/pipeline-demo

@@ -19,4 +19,10 @@ You can omit unavailable platforms. Requires the corresponding API keys in `.env
 
 The cutoff governs **newly collected dated content**, not undated profile fields. Existing files from an earlier/wider run are **not deleted**; use a fresh slug/workspace if you need an isolated window for analysis. A provider's pagination/history limit or unavailable publication dates may prevent full coverage. Invalid/missing dates stop the bounded run rather than silently accepting an unbounded post. Review source counts before claiming completeness.
 
+## Progress output
+
+Progress is enabled automatically: terminals show `tqdm` bars with item counts, elapsed time and estimated remaining time. Redirected output and background runs use newline-only progress updates (first item, every 10 items or after 15 seconds between completed items, and a final summary). Everything goes to stderr, leaving stdout available for YAML/JSON output.
+
+Stages include platform collection, post enrichment, carousel OCR slides, YouTube metadata checks/downloads, Sarvam batches/jobs, and Markdown export. Counts mean **items processed**, not successful downloads or transcriptions. Waiting on a provider is explicitly labeled; no fabricated percentage is shown while Sarvam or Apify processes a request.
+
 For single-platform operations such as comments on an individual post, thread context, or manual Sarvam jobs, the standalone tools remain available at `social/{linkedin,twitter,instagram,youtube}/cli.py` (each has its own `README.md`).

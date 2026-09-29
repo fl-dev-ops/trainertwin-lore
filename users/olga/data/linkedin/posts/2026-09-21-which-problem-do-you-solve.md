@@ -2,8 +2,9 @@
 id: '7507718658257735681'
 date: '2026-09-21T08:33:34.796Z'
 url: https://www.linkedin.com/posts/olgasi_realestatetraining-activity-7507718658257735681-motX
-likes: 22
+likes: 26
 comments: 13
+images_count: 1
 ---
 
 Which problem Do You solve?…. This is my first question to
@@ -41,13 +42,13 @@ Have a massive week!
 
 ## Comments (9)
 
-### Kavi Chandru (Executive Director at Top Rock Group | MBBS | F&B | School | Entrepreneur | Passionate About Building Businesses & Experiences Creative Entrepreneurial Spirit.)
+### Kavi Chandru (Executive Director | Helping Businesses Turn Spaces Into Experiences | MBBS | Entrepreneur | Interiors, F&B & Education)
 > The strongest shift is from describing your service to articulating the problem you solve. People understand value faster when they can see themselves inside the problem.
 
 ### Aditya J. (Helping Businesses Grow Through Strategic Content, Branding & Social Media | Content Creator | Working with Brands Worldwide)
 > The shift from “here’s what I do” to “here’s the problem I can help you solve” makes the introduction much more relevant to the person you’re speaking to. It also gives them a reason to continue the conversation instead of just listening to another list of services and qualifications.
 
-### Lisa Marie Agius (Real Estate Agent at betterhomes)
+### Lisa Marie Agius (Helping You Buy, Sell & Rent Villas in Dubai 🇦🇪 | Real Estate Advisor)
 > We’ve all heard introductions where the job title lasts longer than the actual conversation
 
 ### Yohan Kang (Business Builder | GTM & Market Expansion | Strategic Partnerships | General Management & P&L | Korea & APAC)
@@ -56,7 +57,7 @@ Have a massive week!
 ### Kevin Meyer (Enterprise Seller @Corsearch I Content Creator in Sales | Advisor at bluebill.io & Limelight)
 > Problem clarity beats credentials every single time.
 
-### Michael Khanin (Commercial & International Leadership in Real Estate | MarTech, GTM & Channel Networks | Ex-DAMAC · Colliers · CYBARCO |)
+### Michael Khanin (Commercial & International Leadership in Real Estate | MarTech, GTM & Channel Networks | Digital twins. Ex-DAMAC · Colliers · CYBARCO |)
 > JTBD
 
 ### Anthony Chang'ah (Head of QS & Design | Senior Quantity Surveyor | Cost Management, FIDIC Contract Administration & Final Accounts | RICS MRICS Candidate | Dubai, UAE)

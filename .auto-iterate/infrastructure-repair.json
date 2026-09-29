@@ -1,0 +1,15 @@
+{
+  "at": "2026-09-29T12:20:16.508919+00:00",
+  "child_run": "c1922593-7b48-4d6c-9d42-abedfd6223db",
+  "workflow": "4d2824c7-ab01-4ef0-a1eb-44de4d805350",
+  "failure": "Cached source-page relative links had no sibling data/ after seed relocation",
+  "repair": "Create each output/data symlink to the unchanged source root before cloning the seed",
+  "runner_sha256_before": "4e2aa7773f564f7737a748fa3b27600adaccf54167fdc70b0de2ef46276f1af4",
+  "runner_sha256_after": "30c24a898b5bb22118ffb08b5cc8723a16d89d9f3979b46a4576e9f3c48bb4b1",
+  "judge_rubric_changed": false,
+  "request_budget_changed": false,
+  "requests_before_repair": 0,
+  "candidate_edits": false,
+  "failed_attempt": "results/infrastructure_001",
+  "baseline_retry_authorized_by": "parent; same workflow/protocol/model"
+}

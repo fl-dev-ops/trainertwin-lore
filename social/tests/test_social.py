@@ -1,10 +1,15 @@
+import json
+import os
 from datetime import date
+from pathlib import Path
 
+import httpx
 import pytest
 import yaml
 
 from pipeline.sources import read_source
 from social import cli as social
+from social import gemini, transcribe
 from social.dates import in_window, published_day
 from social.instagram import cli as instagram
 from social.linkedin import cli as linkedin
@@ -245,3 +250,217 @@ def test_youtube_markdown_transcript_preserves_source_locators(tmp_path, monkeyp
     assert len(list(video_dir.glob("*.md"))) == 1
     with pytest.raises(ValueError, match="Conflicting transcript"):
         youtube.build_markdowns_from_json(audios, raw, video_dir, [dict(videos[0], title="Another title")])
+
+
+def test_gemini_ocr_in_memory_and_ephemeral_files(monkeypatch):
+    monkeypatch.setenv("OPENROUTER_API_KEY", "fake-openrouter-key")
+    calls = []
+
+    def mock_handler(request: httpx.Request) -> httpx.Response:
+        calls.append((request.method, str(request.url)))
+        if "chat/completions" in str(request.url):
+            return httpx.Response(
+                200,
+                json={
+                    "choices": [
+                        {
+                            "message": {
+                                "content": "**Extracted Slide Text**: 5 Rules for Closing Deals"
+                            }
+                        }
+                    ]
+                },
+            )
+        return httpx.Response(200, content=b"fake-image-bytes", headers={"content-type": "image/jpeg"})
+
+    mock_client = httpx.Client(transport=httpx.MockTransport(mock_handler))
+    res = gemini.ocr_image_url("https://example.com/slide1.jpg", client=mock_client)
+    assert "5 Rules for Closing Deals" in res
+    assert any("chat/completions" in url for _, url in calls)
+
+
+def test_instagram_reels_transcription_and_carousel_ocr(tmp_path, monkeypatch):
+    posts_dir = tmp_path / "posts"
+    # Mock Reel transcription
+    monkeypatch.setattr(
+        instagram,
+        "transcribe_media_url",
+        lambda url: [{"t": "00:00:05", "speaker": "1", "text": "Stop pitching and start asking better questions."}],
+    )
+    # Mock Carousel OCR
+    monkeypatch.setattr(
+        instagram,
+        "ocr_image_url",
+        lambda url: "**Slide Text:** Never send property brochures before finding out budget and timeline.",
+    )
+
+    reel_post = {
+        "id": "111222333",
+        "type": "reel",
+        "timestamp": "2026-09-15T12:00:00Z",
+        "url": "https://www.instagram.com/reel/abc123xyz/",
+        "caption": "A quick tip for cold calling in Dubai.",
+        "videoUrl": "https://cdn.instagram.com/reel.mp4",
+        "videoDuration": 30.5,
+        "musicInfo": {"artistName": "Audio Artist", "songName": "Sales Motivation"},
+    }
+    carousel_post = {
+        "id": "444555666",
+        "type": "carousel",
+        "timestamp": "2026-09-16T12:00:00Z",
+        "url": "https://www.instagram.com/p/carousel123/",
+        "caption": "Slide breakdown of objection handling.",
+        "childPosts": [
+            {"id": "c1", "displayUrl": "https://cdn.instagram.com/slide1.jpg", "alt": "May be text about brochures"},
+            {"id": "c2", "displayUrl": "https://cdn.instagram.com/slide2.jpg", "alt": "May be infographic"},
+        ],
+    }
+
+    index = instagram.save_posts_to_markdown([reel_post, carousel_post], posts_dir)
+    assert len(index) == 2
+    assert index[0]["hasTranscript"] is True
+    assert index[1]["slide_count"] == 2
+
+    reel_md = (posts_dir / Path(index[0]["file"]).name).read_text()
+    assert "## Transcript" in reel_md
+    assert "### 00:00:05 · Speaker 1" in reel_md
+    assert "Stop pitching and start asking better questions." in reel_md
+    assert "transcript: true" in reel_md
+
+    carousel_md = (posts_dir / Path(index[1]["file"]).name).read_text()
+    assert "## Carousel Slides (2)" in carousel_md
+    assert "### Slide 1" in carousel_md
+    assert "Alt text: May be text about brochures" in carousel_md
+    assert "Never send property brochures before finding out budget" in carousel_md
+
+
+def test_linkedin_rich_reposts_articles_and_documents(tmp_path):
+    posts_dir = tmp_path / "posts"
+    post = {
+        "id": "7000000000000000001",
+        "postedAt": {"date": "2026-09-20T10:00:00Z"},
+        "linkedinUrl": "https://www.linkedin.com/posts/olgasi_update-7000000000000000001",
+        "content": "Check out this great analysis by my colleague!",
+        "isRepost": True,
+        "isQuotePost": True,
+        "resharedPost": {
+            "author": {"name": "Jane Smith", "publicIdentifier": "janesmith"},
+            "linkedinUrl": "https://www.linkedin.com/posts/janesmith_original-8000000",
+            "content": "Dubai real estate yields remain the highest among global financial capitals.",
+        },
+        "article": {
+            "title": "UAE Market Trends 2026",
+            "subtitle": "Analysis of off-plan vs secondary",
+            "link": "https://www.linkedin.com/pulse/uae-market-trends",
+        },
+        "document": {
+            "title": "Quarterly Sales Guide.pdf",
+            "documentUrl": "https://media.licdn.com/doc.pdf",
+            "pageCount": 12,
+        },
+        "stats": {"likesCount": 55, "commentsCount": 8, "repostsCount": 14},
+    }
+
+    index = linkedin.save_posts_to_markdown([post], posts_dir)
+    assert len(index) == 1
+    assert index[0]["hasResharedPost"] is True
+    assert index[0]["hasArticle"] is True
+    assert index[0]["hasDocument"] is True
+
+    md_text = next(posts_dir.glob("*.md")).read_text()
+    assert "is_repost: true" in md_text
+    assert "is_quote_post: true" in md_text
+    assert "reposts: 14" in md_text
+    assert "### Quoting @Jane Smith:" in md_text
+    assert "> Dubai real estate yields remain the highest" in md_text
+    assert "### Shared Article: [UAE Market Trends 2026](https://www.linkedin.com/pulse/uae-market-trends)" in md_text
+    assert "### Shared Document: [Quarterly Sales Guide.pdf](https://media.licdn.com/doc.pdf) (12 pages)" in md_text
+
+    # Verify pipeline ignores quoted third-party speech
+    source = read_source(next(posts_dir.glob("*.md")), tmp_path)
+    assert len(source.units) == 1
+    assert "Check out this great analysis" in source.units[0]["text"]
+    assert "highest among global financial capitals" not in source.units[0]["text"]
+
+
+def test_twitter_note_tweet_and_quoted_expansion(tmp_path):
+    tweets_dir = tmp_path / "tweets"
+    long_text = "This is a full long-form note tweet that exceeds standard Twitter length. " * 5
+    tweet = {
+        "id": "1800000000000000001",
+        "createdAt": "Sun Sep 27 10:15:30 +0000 2026",
+        "text": "Short truncated preview...",
+        "note_tweet": {"text": long_text},
+        "conversationId": "1800000000000000000",
+        "inReplyToScreenName": "client",
+        "quoted_tweet": {
+            "id": "1799999999999999999",
+            "author": {"userName": "dubai_analyst"},
+            "text": "Original analyst tweet on transaction volumes.",
+            "url": "https://x.com/dubai_analyst/status/1799999999999999999",
+        },
+    }
+
+    index = twitter.save_tweets_to_markdown([tweet], tweets_dir)
+    assert len(index) == 1
+
+    md_text = next(tweets_dir.glob("*.md")).read_text()
+    assert long_text in md_text
+    assert "Short truncated preview" not in md_text
+    assert "conversationId: '1800000000000000000'" in md_text
+    assert "inReplyTo: '@client'" in md_text
+    assert "### Quoting @dubai_analyst:" in md_text
+    assert "> Original analyst tweet on transaction volumes." in md_text
+    assert "> Original: https://x.com/dubai_analyst/status/1799999999999999999" in md_text
+
+
+def test_ephemeral_audio_unlinked_immediately_on_sarvam_upload(tmp_path, monkeypatch):
+    monkeypatch.setenv("SARVAM_API_KEY", "fake-key")
+
+    dummy_audio = tmp_path / "dummy.mp3"
+    dummy_audio.write_bytes(b"dummy audio")
+    monkeypatch.setattr(transcribe, "download_audio_ephemeral", lambda url, target: dummy_audio)
+
+    uploaded_files = []
+
+    class MockJob:
+        job_state = "COMPLETED"
+
+        def upload_files(self, files, timeout=600):
+            uploaded_files.extend(files)
+            # The file should still exist right when passed to upload_files
+            assert all(os.path.exists(f) for f in files)
+
+        def start(self):
+            pass
+
+        def wait_until_complete(self, **kwargs):
+            return self
+
+        def is_successful(self):
+            return True
+
+        def download_outputs(self, target):
+            (Path(target) / "out.json").write_text(
+                json.dumps({
+                    "diarized_transcript": {
+                        "entries": [
+                            {"speaker_id": "1", "transcript": "Spoken audio text", "start_time_seconds": 0, "end_time_seconds": 5}
+                        ]
+                    }
+                })
+            )
+
+    class MockClient:
+        class speech_to_text_job:
+            @staticmethod
+            def create_job(**kwargs):
+                return MockJob()
+
+    monkeypatch.setattr("sarvamai.SarvamAI", lambda **kwargs: MockClient())
+
+    turns = transcribe.transcribe_media_url("https://example.com/video.mp4")
+    assert len(turns) == 1
+    assert turns[0]["text"] == "Spoken audio text"
+    # Audio file must be deleted!
+    assert not dummy_audio.exists()

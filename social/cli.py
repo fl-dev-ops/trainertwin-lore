@@ -14,6 +14,7 @@ from urllib.parse import urlparse
 from .dates import published_day
 from .instagram import cli as instagram
 from .linkedin import cli as linkedin
+from .progress import status, track
 from .twitter import cli as twitter
 from .youtube import cli as youtube
 
@@ -80,11 +81,20 @@ def collect_instagram(url: str, data: Path, since: date) -> None:
     instagram.dump_yaml(result, data / f"{username}.yaml")
 
 
-def video_date(video: dict) -> date:
+def video_date(video: dict) -> date | None:
     """Flat playlists may omit dates; fetch full metadata when required."""
     if not video.get("upload_date"):
-        youtube.enrich_video(video)
-    return published_day(video.get("upload_date"))
+        try:
+            youtube.enrich_video(video)
+        except ValueError:
+            return None
+    raw_date = video.get("upload_date")
+    if not raw_date:
+        return None
+    try:
+        return published_day(raw_date)
+    except ValueError:
+        return None
 
 
 def collect_youtube(
@@ -93,14 +103,17 @@ def collect_youtube(
     videos = youtube.fetch_channel_videos(url)
     today = datetime.now(UTC).date()
     selected = []
-    for video in videos:
+    for video in track(videos, "YouTube metadata / dates", unit="video"):
         if not str(video.get("url", "")).startswith("https://"):
             video["url"] = f"https://www.youtube.com/watch?v={video['id']}"
         day = video_date(video)
-        if since <= day <= today:
+        if day is None:
+            status(f"YouTube: skipped {video.get('id', 'unknown')} — publication date unavailable")
+        elif since <= day <= today:
             video["upload_date"] = day.isoformat()
             youtube.enrich_video(video)
             selected.append(video)
+    status(f"YouTube: selected {len(selected)}/{len(videos)} videos for {since} through {today}")
     manifest = data / f"{data.parent.parent.name}.yaml"
     youtube.save_video_index(url, selected, manifest)
     if not transcribe or not selected:
@@ -118,7 +131,7 @@ def collect_youtube(
         )
     selection.parent.mkdir(parents=True, exist_ok=True)
     selection.write_text(json.dumps(identifiers) + "\n", encoding="utf-8")
-    for video in selected:
+    for video in track(selected, "YouTube audio downloads", unit="video"):
         ident = video.get("id")
         if (
             not ident
@@ -139,6 +152,12 @@ def collect_youtube(
         youtube.submit_sarvam_jobs(audio_dir, run / "uploads", state, key)
     youtube.wait_and_download_sarvam(state, raw, key)
     count = youtube.build_markdowns_from_json(audio_dir, raw, video_dir, selected)
+    # Ephemeral media policy: delete local audio files once transcripts are built
+    for mp3 in audio_dir.glob("*.mp3"):
+        mp3.unlink(missing_ok=True)
+    if (run / "uploads").exists():
+        for mp3 in (run / "uploads").glob("*.mp3"):
+            mp3.unlink(missing_ok=True)
     if count != len(selected):
         raise ValueError(
             f"Only {count}/{len(selected)} YouTube transcripts built; inspect {run}"
@@ -178,23 +197,33 @@ def main(argv: list[str] | None = None) -> None:
     urls = {p: getattr(args, p) for p in DOMAINS if getattr(args, p)}
     if not urls:
         parser.error("Provide at least one social profile/channel URL")
+    failures = []
     try:
         urls = {p: profile_url(url, p) for p, url in urls.items()}
         base = ROOT / "users" / args.user
-        for platform, url in urls.items():
+        for platform, url in track(urls.items(), "Social collection", unit="platform"):
+            status(f"{platform}: collecting {since} through {datetime.now(UTC).date()}")
             data = base / "data" / platform
-            if platform == "linkedin":
-                collect_linkedin(url, data, since)
-            elif platform == "twitter":
-                collect_twitter(url, data, since)
-            elif platform == "instagram":
-                collect_instagram(url, data, since)
+            try:
+                if platform == "linkedin":
+                    collect_linkedin(url, data, since)
+                elif platform == "twitter":
+                    collect_twitter(url, data, since)
+                elif platform == "instagram":
+                    collect_instagram(url, data, since)
+                else:
+                    collect_youtube(
+                        url, data, base / "audios", since, not args.no_transcribe
+                    )
+            except (ValueError, RuntimeError, OSError) as exc:
+                status(f"Error collecting {platform}: {exc}")
+                failures.append(f"{platform}: {exc}")
             else:
-                collect_youtube(
-                    url, data, base / "audios", since, not args.no_transcribe
-                )
+                status(f"{platform}: collection finished")
     except ValueError as exc:
         parser.exit(1, f"Collection stopped: {exc}\n")
+    if failures:
+        parser.exit(1, "Collection finished with errors:\n  " + "\n  ".join(failures) + "\n")
 
 
 if __name__ == "__main__":

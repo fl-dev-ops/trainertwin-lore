@@ -14,6 +14,10 @@ import yaml
 from dotenv import load_dotenv
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
+if not __package__:  # Keep direct `python social/youtube/cli.py` invocation working.
+    sys.path.insert(0, str(PROJECT_ROOT))
+from social.progress import status, track
+
 load_dotenv(PROJECT_ROOT / ".env")
 load_dotenv()
 
@@ -65,13 +69,16 @@ yaml.SafeDumper.add_representer(
 # --- 1. Video Discovery & Metadata ---
 def fetch_channel_videos(channel_url: str, max_videos: int | None = None) -> list[dict[str, Any]]:
     """Extract video metadata from a channel or playlist using yt-dlp flat playlist extraction."""
+    target_url = channel_url.rstrip("/")
+    if re.search(r"/@[^/]+$", target_url):
+        target_url = f"{target_url}/videos"
     cmd = [
         "yt-dlp",
         "--flat-playlist",
         "-J",
-        channel_url,
+        target_url,
     ]
-    print(f"Extracting video list from {channel_url}...", file=sys.stderr)
+    status(f"YouTube: discovering videos from {target_url} (waiting for yt-dlp)")
     proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
     if proc.returncode != 0:
         print(f"Error fetching channel metadata: {proc.stderr}", file=sys.stderr)
@@ -84,7 +91,9 @@ def fetch_channel_videos(channel_url: str, max_videos: int | None = None) -> lis
 
     videos = []
     for item in entries:
-        vid_id = item.get("id")
+        vid_id = str(item.get("id") or "")
+        if not vid_id or len(vid_id) != 11 or vid_id.startswith("UC"):
+            continue
         title = item.get("title")
         url = item.get("url") or ""
         if not str(url).startswith("https://"):
@@ -129,7 +138,8 @@ def enrich_video(video: dict[str, Any]) -> None:
         return
     try:
         details = fetch_video_details(video["url"])
-    except ValueError:
+    except ValueError as exc:
+        print(f"Warning: could not fetch details for {video.get('url')}: {exc}", file=sys.stderr)
         if not video.get("upload_date"):
             raise
         return
@@ -155,7 +165,7 @@ def download_video_audio(video_url: str, output_dir: Path) -> Path | None:
         out_template,
         video_url,
     ]
-    print(f"Downloading audio: {video_url}...", file=sys.stderr)
+    status(f"YouTube: downloading audio {video_url}")
     res = subprocess.run(cmd, capture_output=True, text=True, check=False)
     if res.returncode != 0:
         print(f"Failed to download {video_url}: {res.stderr}", file=sys.stderr)
@@ -203,9 +213,9 @@ def submit_sarvam_jobs(
     states = []
     state_file.parent.mkdir(parents=True, exist_ok=True)
 
-    for start in range(0, len(files), BATCH_SIZE):
+    for start in track(range(0, len(files), BATCH_SIZE), "Sarvam uploads", unit="batch"):
         batch = files[start : start + BATCH_SIZE]
-        print(f"Submitting batch of {len(batch)} files to Sarvam AI...", file=sys.stderr)
+        status(f"Sarvam: uploading batch of {len(batch)} audio files")
         job = client.speech_to_text_job.create_job(
             model="saaras:v3",
             mode="verbatim",
@@ -220,7 +230,7 @@ def submit_sarvam_jobs(
             "files": [{"upload": upload.name, "audio": source.name} for upload, source in batch],
         })
         state_file.write_text(json.dumps(states, indent=2) + "\n")
-        print(f"  Submitted job: {job.job_id}", file=sys.stderr)
+        status(f"Sarvam: submitted job {job.job_id}")
 
 
 def wait_and_download_sarvam(
@@ -237,23 +247,24 @@ def wait_and_download_sarvam(
     client = SarvamAI(api_subscription_key=api_key)
     states = json.loads(state_file.read_text())
 
-    for state in states:
+    for state in track(states, "Sarvam transcription jobs", unit="job"):
         job = client.speech_to_text_job.get_job(state["job_id"])
-        print(f"Waiting for job {job.job_id}...", file=sys.stderr)
-        status = job.wait_until_complete(poll_interval=10, timeout=7200)
-        print(f"  Job {job.job_id} state: {status.job_state}", file=sys.stderr)
+        status(f"Sarvam: waiting for job {job.job_id} (provider processing; percentage unavailable)")
+        result = job.wait_until_complete(poll_interval=10, timeout=7200)
+        status(f"Sarvam: job {job.job_id} state: {result.job_state}")
         if not job.is_successful():
             print(json.dumps(job.get_file_results(), indent=2, default=str), file=sys.stderr)
             continue
+        status(f"Sarvam: downloading transcript results for {job.job_id}")
         job.download_outputs(str(json_out_dir))
-        print(f"  Downloaded outputs to {json_out_dir}", file=sys.stderr)
+        status(f"Sarvam: downloaded results to {json_out_dir}")
 
 
 def load_entries(sarvam_path: Path) -> list[Entry]:
     data = json.loads(sarvam_path.read_text())
     raw = (data.get("diarized_transcript") or {}).get("entries", [])
     if not raw:
-        raise SystemExit(f"No diarized entries in {sarvam_path}")
+        return []
     ordered = sorted(raw, key=lambda e: (e["start_time_seconds"], e["end_time_seconds"]))
     return [
         Entry(
@@ -360,7 +371,7 @@ def build_markdowns_from_json(
     by_id = {str(v["id"]): v for v in videos or [] if v.get("id")}
     count = 0
 
-    for idx, mp3 in enumerate(files, 1):
+    for idx, mp3 in enumerate(track(files, "YouTube Markdown export", unit="video"), 1):
         jp = match_sarvam_json(f"{idx:03d}.mp3", json_dir)
         if jp is None:
             continue
@@ -404,6 +415,10 @@ def build_markdowns_from_json(
             f"### {hhmmss(e.start)} · Speaker {e.speaker_id}\n\n{e.text.strip()}"
             for e in entries
         )
+        if not body:
+            desc = (metadata.get("description") or "").strip()
+            body = f"> [No spoken dialogue detected]\n\n{desc}".strip() if desc else "> [No spoken dialogue detected]"
+
         content = (
             "---\n" + yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True)
             + f"---\n\n# {title}\n\n## Transcript\n\n{body}\n"
@@ -501,7 +516,7 @@ def main():
     if args.command == "list":
         slug = args.slug or data_dir.parent.parent.name
         videos = fetch_channel_videos(args.url, max_videos=args.max_videos)
-        for video in videos:
+        for video in track(videos, "YouTube metadata / dates", unit="video"):
             enrich_video(video)
         out_file = Path(args.output).resolve() if args.output else data_dir / f"{slug}.yaml"
         save_video_index(args.url, videos, out_file)
@@ -532,13 +547,13 @@ def main():
 
     elif args.command == "all":
         videos = fetch_channel_videos(args.url, max_videos=args.max_videos)
-        for video in videos:
+        for video in track(videos, "YouTube metadata / dates", unit="video"):
             enrich_video(video)
         slug = args.slug or data_dir.parent.parent.name
         out_file = Path(args.output).resolve() if args.output else data_dir / f"{slug}.yaml"
         save_video_index(args.url, videos, out_file)
 
-        for video in videos:
+        for video in track(videos, "YouTube audio downloads", unit="video"):
             download_video_audio(video["url"], audios_dir)
 
         api_key = get_sarvam_key(args.api_key)

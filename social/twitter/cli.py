@@ -17,6 +17,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if __package__ is None:  # Allow direct script invocation after moving under social/.
     sys.path.insert(0, str(PROJECT_ROOT))
 from social.dates import published_day
+from social.progress import track
 
 load_dotenv(PROJECT_ROOT / ".env")
 load_dotenv()
@@ -269,22 +270,31 @@ def save_tweets_to_markdown(
     seen_filenames: set[str] = set()
     tweet_index: list[dict[str, Any]] = []
 
-    for tw in tweets:
+    for tw in track(tweets, "X tweet export", unit="tweet"):
         tweet_id = str(tw.get("id") or "")
         url = tw.get("url") or tw.get("twitterUrl") or f"https://x.com/i/web/status/{tweet_id}"
         date_str = to_iso_datetime(tw.get("createdAt") or "")
         text = tw.get("text") or ""
+        # Check for expanded note_tweet or article
+        note_tweet = tw.get("note_tweet")
+        if isinstance(note_tweet, dict) and note_tweet.get("text"):
+            text = note_tweet["text"]
+        elif tw.get("article") and isinstance(tw.get("article"), dict):
+            art = tw["article"]
+            text = f"# {art.get('title', '')}\n\n{art.get('text') or art.get('preview_text') or text}"
+
         likes = tw.get("likeCount", 0)
         retweets = tw.get("retweetCount", 0)
         replies = tw.get("replyCount", 0)
         quotes = tw.get("quoteCount", 0)
         views = tw.get("viewCount", 0)
         is_reply = tw.get("isReply", False)
+        is_retweet = bool(tw.get("isRetweet") or tw.get("is_retweet") or text.startswith("RT @"))
 
         filename = make_tweet_filename(text, tweet_id, date_str, seen_filenames)
         filepath = tweets_dir / filename
 
-        frontmatter = {
+        frontmatter: dict[str, Any] = {
             "id": tweet_id,
             "date": date_str,
             "url": url,
@@ -295,18 +305,55 @@ def save_tweets_to_markdown(
             "views": views,
             "isReply": is_reply,
         }
+        if tw.get("conversationId"):
+            frontmatter["conversationId"] = str(tw["conversationId"])
+        if tw.get("inReplyToScreenName"):
+            frontmatter["inReplyTo"] = f"@{tw['inReplyToScreenName']}"
+        if is_retweet:
+            frontmatter["is_retweet"] = True
+
+        # Check for retweet
+        retweeted = tw.get("retweeted_status") or tw.get("retweetedStatus")
+        retweet_block = ""
+        if retweeted and isinstance(retweeted, dict):
+            r_text = retweeted.get("text") or ""
+            r_author = (
+                retweeted.get("author", {}).get("userName")
+                or retweeted.get("author", {}).get("name")
+                or "unknown"
+            )
+            r_url = retweeted.get("url") or (
+                f"https://x.com/{r_author}/status/{retweeted.get('id')}"
+                if retweeted.get("id")
+                else ""
+            )
+            r_lines = [f"> {line}" for line in r_text.splitlines()]
+            if r_url:
+                r_lines.append(f"> Original: {r_url}")
+            retweet_block = f"\n\n### Quoting @{r_author}:\n" + "\n".join(r_lines) + "\n"
 
         # Check for quoted tweet
-        quoted = tw.get("quoted_tweet")
+        quoted = tw.get("quoted_tweet") or tw.get("quoted_status") or tw.get("quotedStatus")
         quoted_block = ""
         if quoted and isinstance(quoted, dict):
             q_text = quoted.get("text") or ""
-            q_author = quoted.get("author", {}).get("userName") or "unknown"
-            q_quoted_lines = "\n".join(f"> {line}" for line in q_text.splitlines())
-            quoted_block = f"\n\n### Quoting @{q_author}:\n{q_quoted_lines}\n"
+            q_author = (
+                quoted.get("author", {}).get("userName")
+                or quoted.get("author", {}).get("name")
+                or "unknown"
+            )
+            q_url = quoted.get("url") or (
+                f"https://x.com/{q_author}/status/{quoted.get('id')}"
+                if quoted.get("id")
+                else ""
+            )
+            q_quoted_lines = [f"> {line}" for line in q_text.splitlines()]
+            if q_url:
+                q_quoted_lines.append(f"> Original: {q_url}")
+            quoted_block = f"\n\n### Quoting @{q_author}:\n" + "\n".join(q_quoted_lines) + "\n"
 
         fm_yaml = yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True).strip()
-        md_content = f"---\n{fm_yaml}\n---\n\n{text}{quoted_block}\n"
+        md_content = f"---\n{fm_yaml}\n---\n\n{text}{retweet_block}{quoted_block}\n"
         filepath.write_text(md_content, encoding="utf-8")
 
         tweet_index.append({

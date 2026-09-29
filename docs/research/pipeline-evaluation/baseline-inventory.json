@@ -1,0 +1,29 @@
+{
+  "head": "189595b6a0b527eba12067bed2081cfa3908b51a",
+  "code_sha256": {
+    "pipeline/__init__.py": "6ea7fd26e23395afe32d77cacdfb232258138ddd55db54b8989b1f7458f68c3d",
+    "pipeline/__main__.py": "07419e86b90db14b651e0b652cd725eeff15bdf745d4cec5e9e83916bb4843a4",
+    "pipeline/chronology.py": "f6de59914b2af71dffbda58a3a9ff9220cc5cd8acf82e3b8fafba926d645a98f",
+    "pipeline/client.py": "dc220254b9e0d3e86e0eddfa0296c861675b3e76c72387cfe085ff04986a0243",
+    "pipeline/core.py": "0f4ef54e8e9aeacbf12fd6b6045c36efcb969c496c663092f8f3b8efe1c6f613",
+    "pipeline/mcp.py": "cd0d3bf66ff743a2b977503e9dc40f27a963b30385b557432e7951bd53541fce",
+    "pipeline/profile.py": "ea14c472c42fb62d4822b5c5c5f02c31a26683c49da9b90812473c7fb6a30ae5",
+    "pipeline/prompts.py": "94d657769cda521770e64b5bf3183970d29aa7a3720d7186f28fa938005c3be4",
+    "pipeline/sources.py": "e9462b1e9477e15e0163f5446093c303db873978ea235d9b42d027d7233c772a",
+    "pipeline/tests/test_pipeline.py": "f3846c349912cb276ca2ac072395fd7ab8e3c92e0b54f62c1509d830bb14da2d",
+    "pipeline/tests/test_profile.py": "4268d74db2b7922d6263e6ed84d9abf85c169cf06a492ddad6f969100803ed27"
+  },
+  "pilot_source_sha256": {
+    "linkedin/posts/2023-06-19-my-favourite-exercise-for-training.md": "d3f31686aec82830a5cc9118a9a5e44653bf08a1cc4196e1a0f5cfc276236a58",
+    "linkedin/posts/2026-09-21-which-problem-do-you-solve.md": "cc5a5b7a9bf96a1fd0b2c1c7b471830995b5a1bf47ecdd8d180549c46bbcfcbf",
+    "linkedin/posts/2026-01-19-why-i-never-tell-clients.md": "891b41890e06f79eb0d841dd80423375a7ad08fff89ddf83e822a764dfb3331c",
+    "youtube/shorts-run/transcripts/s189.yaml": "34115c7cf5a90b11be97a562665816681d38015c32f23c777efae987133a5527",
+    "youtube/shorts-run/transcripts/s195.yaml": "469b9a79a44eea689ba7911c43e82bd635721687230d1e19799b6641c184a173"
+  },
+  "local_before_code": ".pi/pipeline-v2/before",
+  "local_frozen_data": ".pi/pipeline-v2/data",
+  "archived_workspace": "users_backup/olga/workspace",
+  "archived_source_count": 773,
+  "archived_card_count": 2755,
+  "archived_topic_pages": 14
+}

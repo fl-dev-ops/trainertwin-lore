@@ -33,54 +33,10 @@ class OpenRouter:
     def close(self) -> None:
         self.http.close()
 
-    def decide(
-        self,
-        state: str,
-        questions: dict[str, dict[str, Any]],
-        *,
-        model: str = "typesafe/jev-1.13",
-    ) -> dict[str, Any]:
-        """Submit typed decisions to TypeSafe Jev via OpenRouter Decisions API."""
-        payload = {
-            "model": model,
-            "state": state,
-            "questions": questions,
-        }
-        for attempt in range(4):
-            try:
-                response = self.http.post(
-                    "https://openrouter.ai/api/alpha/decisions", json=payload
-                )
-                if response.status_code in (408, 429, 500, 502, 503, 504):
-                    if attempt == 3:
-                        raise ModelError(
-                            f"Jev HTTP {response.status_code} after retries"
-                        )
-                    time.sleep(min(2**attempt, 16) + random.random() / 4)
-                    continue
-                if response.is_error:
-                    raise ModelError(
-                        f"Jev error {response.status_code}: {response.text[:200]}"
-                    )
-                data = response.json()
-                if "usage" in data:
-                    self.last_usage = data["usage"]
-                return data.get("answers", {})
-            except (
-                httpx.TimeoutException,
-                httpx.NetworkError,
-                httpx.HTTPError,
-            ) as exc:
-                if attempt == 3:
-                    raise ModelError("Jev connection failed") from exc
-                time.sleep(min(2**attempt, 16) + random.random() / 4)
-            except (KeyError, TypeError, ValueError, json.JSONDecodeError) as exc:
-                raise ModelError("Malformed Jev response") from exc
-        raise AssertionError("unreachable")
-
     def complete(
         self, name: str, schema: dict[str, Any], system: str, user: str
     ) -> dict[str, Any]:
+        self.last_usage = {}
         payload = {
             "model": self.model,
             "messages": [
@@ -115,6 +71,7 @@ class OpenRouter:
                         f"OpenRouter HTTP {response.status_code}; check model/schema/credits"
                     )
                 data = response.json()
+                self.last_usage = data.get("usage") or {}
                 choice = data["choices"][0]
                 if choice.get("finish_reason") != "stop":
                     raise ModelError(
@@ -123,7 +80,6 @@ class OpenRouter:
                 content = choice["message"]["content"]
                 if not isinstance(content, str):
                     raise ModelError("Model returned no JSON content")
-                self.last_usage = data.get("usage") or {}
                 result = json.loads(content)
                 if not isinstance(result, dict):
                     raise ModelError("Expected a JSON object")

@@ -1,869 +1,580 @@
-"""Generate an action-oriented Delphi.ai-style trainer profile page.
+"""Export a responsive trainer profile with source-linked social carousels.
 
-Features:
-- Profile card with squircle avatar, verified badge, and action-oriented bio.
-- Latest posts from each social platform (YouTube, LinkedIn, Instagram, X) as interactive cards.
-- Cards link directly to primary sources with zero extra clutter (no ask button).
-- Action and next-step oriented core with instant prompt suggestions.
-
-Run:
-    uv run python -m pipeline.profile --user olga
+Run: uv run python -m pipeline.profile --user olga --open
 """
 
 import argparse
 import re
+import webbrowser
+from datetime import date
 from html import escape
 from pathlib import Path
 from urllib.parse import urlparse
 
 import yaml
 
+from .sources import normalize_date
+
 ROOT = Path(__file__).resolve().parents[1]
+PLATFORMS = {
+    "youtube": "YouTube",
+    "linkedin": "LinkedIn",
+    "instagram": "Instagram",
+    "twitter": "X",
+}
+ICONS = {
+    "youtube": '<rect x="2" y="5" width="20" height="14" rx="4"/><path d="m10 9 5 3-5 3Z"/>',
+    "linkedin": '<rect x="3" y="3" width="18" height="18" rx="3"/><path d="M7 10v7m0-10v.1M11 17v-7m0 3a3 3 0 0 1 6 0v4"/>',
+    "instagram": '<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5h.01"/>',
+    "twitter": '<path d="M4 4h4l12 16h-4ZM20 4l-7 8M4 20l7-8"/>',
+    "arrow": '<path d="M6 18 18 6M6 6h12v12"/>',
+    "next": '<path d="m9 5 7 7-7 7"/>',
+    "previous": '<path d="m15 5-7 7 7 7"/>',
+    "copy": '<rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V4H4v12h4"/>',
+    "play": '<path d="m9 5 11 7-11 7Z"/>',
+    "check": '<path d="m5 12 4 4L19 6"/>',
+}
+
+
+def icon(name: str) -> str:
+    return f'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{ICONS[name]}</svg>'
+
 
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
   <title>{{NAME}} — TrainerTwin</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
+    :root {
+      --bg: #141516; --surface: #1d1e20; --hover: #252628;
+      --text: #f3f0ea; --muted: #b2b0ab; --line: #38393b;
+      --accent: #efb38d; --radius: 14px; --gap: 24px;
     }
-
-    body {
-      background-color: #0c0d0e;
-      color: #ededed;
-      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 24px 16px 80px 16px;
-      -webkit-font-smoothing: antialiased;
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 104px; }
+    body { margin: 0; background: var(--bg); color: var(--text); font-family: 'Plus Jakarta Sans', sans-serif; -webkit-font-smoothing: antialiased; }
+    a { color: inherit; text-decoration: none; }
+    button { color: inherit; font: inherit; cursor: pointer; }
+    button:disabled { opacity: .35; cursor: default; }
+    a, button, summary { -webkit-tap-highlight-color: transparent; }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
+    svg { width: 20px; height: 20px; flex: none; }
+    h1, h2, h3, p { margin: 0; }
+    [hidden] { display: none !important; }
+    .wrap { width: min(1120px, calc(100% - 80px)); margin-inline: auto; }
+    .skip-link { position: absolute; top: -60px; padding: 12px; z-index: 10; background: var(--text); color: var(--bg); }
+    .skip-link:focus { top: 12px; }
+    .topbar { display: flex; align-items: center; justify-content: space-between; min-height: 88px; border-bottom: 1px solid var(--line); gap: 20px; }
+    .brand { display: inline-flex; align-items: center; gap: 12px; font-size: 19px; font-weight: 700; letter-spacing: -.04em; }
+    .brand-mark { width: 32px; height: 32px; color: var(--accent); }
+    .top-note { font-size: 13px; color: var(--muted); }
+    .hero { display: grid; grid-template-columns: 184px minmax(0, 1fr); column-gap: 48px; padding: 64px 0 48px; align-items: start; }
+    .portrait { position: relative; width: 184px; aspect-ratio: 1; overflow: hidden; border-radius: 24px; background: var(--surface); }
+    .initials { position: absolute; inset: 0; display: grid; place-items: center; font-size: 48px; font-weight: 600; color: var(--accent); }
+    .portrait img { position: relative; display: block; width: 100%; height: 100%; object-fit: cover; }
+    .name-row { display: flex; align-items: center; gap: 14px; }
+    h1 { font-size: clamp(34px, 4.5vw, 60px); line-height: 1.1; letter-spacing: -.04em; font-weight: 600; overflow-wrap: anywhere; }
+    .verification { color: var(--accent); display: inline-flex; align-items: center; flex: none; }
+    .verification svg { width: 24px; height: 24px; }
+    .headline { margin-top: 14px; font-size: 16px; line-height: 1.6; color: var(--accent); }
+    .bio { max-width: 70ch; margin-top: 20px; font-size: 16px; line-height: 1.85; color: var(--muted); }
+    .hero-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px; margin-top: 28px; }
+    .button { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 46px; padding: 10px 18px; border: 1px solid var(--line); border-radius: 8px; font-size: 13px; font-weight: 600; background: transparent; }
+    .button.primary { background: var(--text); border-color: var(--text); color: var(--bg); }
+    .button:hover { background: var(--hover); }
+    .button.primary:hover { background: #dcd7cf; }
+    .text-link { display: inline-flex; gap: 8px; align-items: center; min-height: 44px; font-size: 13px; color: var(--muted); }
+    .text-link:hover { color: var(--text); }
+    .text-link svg { width: 16px; height: 16px; }
+    .feed-nav { position: sticky; top: 0; z-index: 3; background: var(--bg); border-block: 1px solid var(--line); }
+    .feed-nav-inner { display: flex; gap: 32px; overflow-x: auto; scrollbar-width: thin; }
+    .feed-nav a { display: flex; align-items: center; gap: 8px; min-height: 62px; border-bottom: 2px solid transparent; color: var(--muted); font-size: 14px; white-space: nowrap; }
+    .feed-nav a:hover, .feed-nav a[aria-current] { color: var(--text); border-bottom-color: var(--accent); }
+    .feed-nav svg { width: 17px; height: 17px; }
+    .channel { padding-top: 48px; scroll-margin-top: 12px; }
+    .section-header { display: flex; align-items: center; justify-content: space-between; gap: 20px; margin-bottom: 24px; }
+    .section-heading { display: flex; gap: 14px; align-items: center; }
+    .platform-mark { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 12px; background: var(--surface); }
+    .youtube .platform-mark { color: #ff8b83; }
+    .linkedin .platform-mark { color: #88c9f8; }
+    .instagram .platform-mark { color: #f7a6bf; }
+    .twitter .platform-mark { color: var(--text); }
+    h2 { font-size: 24px; font-weight: 600; letter-spacing: -.025em; }
+    .section-caption { margin-top: 5px; color: var(--muted); font-size: 12px; line-height: 1.6; }
+    .row-controls { display: flex; align-items: center; gap: 8px; }
+    .row-count { color: var(--muted); font-size: 12px; margin-right: 12px; font-variant-numeric: tabular-nums; }
+    .arrow-button { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: transparent; border: 1px solid var(--line); }
+    .arrow-button:not(:disabled):hover { background: var(--surface); border-color: var(--muted); }
+    .arrow-button svg { width: 16px; height: 16px; }
+    .cards { display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - var(--gap) * 2) / 3); gap: var(--gap); overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: thin; scrollbar-color: var(--line) transparent; padding: 4px 2px 18px; }
+    .post-card { min-width: 0; display: flex; flex-direction: column; scroll-snap-align: start; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); overflow: hidden; transition: border-color .18s; }
+    .post-card:hover { border-color: var(--muted); }
+    .post-card:focus-visible { outline-offset: -3px; }
+    .thumb { position: relative; aspect-ratio: 16 / 9; background: #26272a; overflow: hidden; }
+    .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; position: relative; }
+    .thumb-fallback { position: absolute; inset: 0; display: grid; place-content: center; gap: 10px; color: var(--muted); text-align: center; font-size: 12px; }
+    .thumb-fallback svg { margin-inline: auto; width: 28px; height: 28px; }
+    .play { position: absolute; left: 14px; bottom: 12px; display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: #141516e6; color: white; }
+    .play svg { width: 16px; height: 16px; }
+    .duration { position: absolute; bottom: 15px; right: 12px; padding: 4px 7px; border-radius: 4px; font-size: 11px; font-variant-numeric: tabular-nums; color: white; background: #141516e6; }
+    .card-body { padding: 22px; display: flex; flex-direction: column; flex: 1; min-width: 0; }
+    .card-meta { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 6px; color: var(--muted); font-size: 11px; line-height: 1.6; margin-bottom: 18px; }
+    .card-meta .handle { max-width: 60%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    h3 { font-size: 17px; line-height: 1.55; font-weight: 600; letter-spacing: -.02em; overflow-wrap: anywhere; }
+    .excerpt { font-size: 14px; line-height: 1.8; color: var(--muted); margin-top: 10px; overflow-wrap: anywhere; }
+    .clamp { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; }
+    .excerpt.clamp { -webkit-line-clamp: 4; }
+    .card-footer { margin-top: auto; padding-top: 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; font-size: 12px; }
+    .card-action { display: flex; align-items: center; gap: 6px; color: var(--text); font-weight: 500; }
+    .card-action svg { width: 15px; height: 15px; }
+    .engagement { color: var(--muted); font-size: 11px; }
+    .text-card .card-body { min-height: 300px; }
+    .empty { padding: 32px 0; color: var(--muted); border-block: 1px dashed var(--line); font-size: 14px; }
+    .situations { display: grid; grid-template-columns: 1fr 2fr; gap: 48px; margin-top: 64px; padding-top: 40px; border-top: 1px solid var(--line); }
+    .situations p { margin-top: 12px; color: var(--muted); font-size: 14px; line-height: 1.7; }
+    details { border-bottom: 1px solid var(--line); }
+    summary { display: flex; align-items: center; justify-content: space-between; gap: 20px; cursor: pointer; padding: 20px 0; list-style: none; font-size: 14px; line-height: 1.6; }
+    summary::-webkit-details-marker { display: none; }
+    summary svg { width: 16px; height: 16px; transition: transform .18s; }
+    details[open] summary svg { transform: rotate(90deg); }
+    .answer { color: var(--muted); font-size: 14px; line-height: 1.8; padding-bottom: 20px; }
+    .page-footer { margin-top: 64px; padding: 28px 0 36px; border-top: 1px solid var(--line); display: flex; justify-content: space-between; gap: 20px; color: var(--muted); font-size: 12px; line-height: 1.6; }
+    .page-footer a { text-decoration: underline; text-underline-offset: 4px; }
+    .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); max-width: calc(100% - 32px); background: var(--text); color: var(--bg); border-radius: 10px; padding: 14px 20px; box-shadow: 0 8px 24px #0006; font-size: 13px; z-index: 10; }
+    .toast:empty { display: none; }
+    @media (max-width: 900px) {
+      .wrap { width: calc(100% - 48px); }
+      .hero { grid-template-columns: 144px minmax(0, 1fr); gap: 28px; padding-top: 48px; }
+      .portrait { width: 144px; }
+      .cards { grid-auto-columns: calc((100% - var(--gap)) / 2); }
+      .situations { grid-template-columns: 1fr; gap: 16px; }
     }
-
-    /* Top Nav */
-    .top-nav {
-      width: 100%;
-      max-width: 860px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 24px;
-      padding: 0 4px;
+    @media (max-width: 600px) {
+      :root { --gap: 16px; }
+      .wrap { width: calc(100% - 40px); }
+      .topbar { min-height: 72px; }
+      .top-note { font-size: 11px; }
+      .hero { display: block; padding: 32px 0; }
+      .portrait { width: 96px; border-radius: 18px; margin-bottom: 24px; }
+      .initials { font-size: 30px; }
+      h1 { font-size: 38px; }
+      .headline { font-size: 14px; }
+      .bio { font-size: 15px; line-height: 1.8; margin-top: 16px; }
+      .hero-actions { gap: 12px 20px; margin-top: 24px; }
+      .feed-nav-inner { gap: 24px; }
+      .feed-nav a { font-size: 13px; min-height: 56px; }
+      .channel { padding-top: 32px; }
+      .section-header { gap: 12px; margin-bottom: 16px; }
+      .section-heading { gap: 10px; }
+      h2 { font-size: 21px; }
+      .section-caption { max-width: 25ch; font-size: 11px; }
+      .row-count { display: none; }
+      .platform-mark { width: 36px; height: 36px; border-radius: 10px; }
+      .cards { grid-auto-columns: 88%; }
+      .card-body { padding: 20px; }
+      .text-card .card-body { min-height: 280px; }
+      .situations { margin-top: 40px; padding-top: 28px; }
+      .page-footer { margin-top: 40px; flex-direction: column; gap: 8px; }
     }
-
-    .brand-logo {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 15px;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      color: #fafafa;
-      text-decoration: none;
-    }
-
-    .brand-icon {
-      width: 22px;
-      height: 22px;
-      background: linear-gradient(135deg, #ff5e3a, #ff2a6d);
-      border-radius: 6px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: #fff;
-      font-size: 12px;
-      font-weight: 900;
-    }
-
-    .nav-actions {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-
-    .btn-create {
-      background: #f97316;
-      color: #fff;
-      font-size: 13px;
-      font-weight: 600;
-      padding: 8px 16px;
-      border-radius: 20px;
-      text-decoration: none;
-      transition: opacity 0.2s;
-    }
-
-    .btn-create:hover {
-      opacity: 0.9;
-    }
-
-    /* Main Profile Card */
-    .profile-card {
-      width: 100%;
-      max-width: 860px;
-      background: #17181c;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 28px;
-      padding: 36px 36px 32px 36px;
-      position: relative;
-      box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.5);
-    }
-
-    .card-top {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-      margin-bottom: 20px;
-    }
-
-    .avatar-wrapper {
-      width: 104px;
-      height: 104px;
-      border-radius: 26px;
-      overflow: hidden;
-      background: #27272a;
-      border: 1px solid rgba(255, 255, 255, 0.12);
-      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.35);
-      flex-shrink: 0;
-    }
-
-    .avatar-img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-
-    .btn-share {
-      background: rgba(255, 255, 255, 0.07);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      color: #d4d4d8;
-      font-size: 13px;
-      font-weight: 600;
-      padding: 8px 16px;
-      border-radius: 20px;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      transition: all 0.2s;
-    }
-
-    .btn-share:hover {
-      background: rgba(255, 255, 255, 0.12);
-      color: #fff;
-    }
-
-    /* Name & Badges */
-    .profile-header {
-      margin-bottom: 16px;
-    }
-
-    .name-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      margin-bottom: 6px;
-    }
-
-    .profile-name {
-      font-size: 28px;
-      font-weight: 800;
-      letter-spacing: -0.03em;
-      color: #fafafa;
-    }
-
-    .verified-badge {
-      width: 20px;
-      height: 20px;
-      color: #38bdf8;
-      display: inline-flex;
-    }
-
-    .profile-sub {
-      font-size: 13px;
-      color: #a1a1aa;
-      font-weight: 500;
-      display: flex;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-
-    .sub-divider {
-      color: #52525b;
-    }
-
-    /* Bio Summary */
-    .profile-bio {
-      font-size: 14.5px;
-      line-height: 1.65;
-      color: #d4d4d8;
-      margin-bottom: 24px;
-      font-weight: 400;
-    }
-
-    /* Section Headers */
-    .section-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 14px;
-      margin-top: 28px;
-    }
-
-    .section-title {
-      font-size: 16px;
-      font-weight: 700;
-      color: #fafafa;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .carousel-arrows {
-      display: flex;
-      gap: 6px;
-    }
-
-    .btn-arrow {
-      width: 28px;
-      height: 28px;
-      border-radius: 50%;
-      background: rgba(255, 255, 255, 0.06);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      color: #a1a1aa;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      font-size: 12px;
-      transition: all 0.2s;
-    }
-
-    .btn-arrow:hover {
-      background: rgba(255, 255, 255, 0.12);
-      color: #fff;
-    }
-
-    /* Horizontal Carousels */
-    .cards-carousel {
-      display: flex;
-      gap: 14px;
-      overflow-x: auto;
-      padding-bottom: 6px;
-      scroll-behavior: smooth;
-      scrollbar-width: none;
-    }
-
-    .cards-carousel::-webkit-scrollbar {
-      display: none;
-    }
-
-    /* Card Base */
-    .post-card {
-      background: #1e1f24;
-      border: 1px solid rgba(255, 255, 255, 0.06);
-      border-radius: 18px;
-      padding: 16px;
-      width: 260px;
-      min-width: 260px;
-      text-decoration: none;
-      color: inherit;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
-      cursor: pointer;
-    }
-
-    .post-card:hover {
-      transform: translateY(-4px);
-      border-color: rgba(255, 255, 255, 0.18);
-      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.5);
-    }
-
-    /* YouTube Card */
-    .yt-card {
-      width: 280px;
-      min-width: 280px;
-      padding: 0;
-      overflow: hidden;
-    }
-
-    .yt-thumb-box {
-      width: 100%;
-      height: 155px;
-      background: #09090b;
-      position: relative;
-      overflow: hidden;
-    }
-
-    .yt-thumb-img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-      transition: transform 0.3s;
-    }
-
-    .yt-card:hover .yt-thumb-img {
-      transform: scale(1.04);
-    }
-
-    .yt-duration {
-      position: absolute;
-      bottom: 8px;
-      right: 8px;
-      background: rgba(0, 0, 0, 0.8);
-      color: #fff;
-      font-size: 11px;
-      font-weight: 600;
-      font-family: 'JetBrains Mono', monospace;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-
-    .yt-content {
-      padding: 14px 16px;
-    }
-
-    .yt-title {
-      font-size: 13.5px;
-      font-weight: 700;
-      line-height: 1.4;
-      color: #f4f4f5;
-      margin-bottom: 8px;
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-
-    .yt-footer {
-      font-size: 11px;
-      color: #71717a;
-      display: flex;
-      justify-content: space-between;
-    }
-
-    /* Post Content Common */
-    .card-platform-row {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 12px;
-      color: #a1a1aa;
-      margin-bottom: 10px;
-      font-weight: 500;
-    }
-
-    .platform-icon {
-      width: 14px;
-      height: 14px;
-      display: inline-flex;
-    }
-
-    .post-text {
-      font-size: 13px;
-      line-height: 1.5;
-      color: #a1a1aa;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-      margin-bottom: 14px;
-      flex-grow: 1;
-    }
-
-    .post-headline {
-      font-size: 14px;
-      font-weight: 700;
-      color: #f4f4f5;
-      line-height: 1.35;
-      margin-bottom: 6px;
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-
-    .engagement-badge {
-      color: #a1a1aa;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
-    }
-
-    .ig-type-badge {
-      font-weight: 600;
-      font-size: 11px;
-      letter-spacing: 0.04em;
-    }
-
-    .post-footer {
-      font-size: 11px;
-      color: #71717a;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: auto;
-      border-top: 1px solid rgba(255, 255, 255, 0.05);
-      padding-top: 10px;
-    }
-
-    /* Floating Ask Bar */
-    .ask-footer-bar {
-      margin-top: 36px;
-      background: #111215;
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      border-radius: 20px;
-      padding: 16px 20px;
-    }
-
-    .ask-header {
-      font-size: 12px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #71717a;
-      margin-bottom: 12px;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-
-    .prompt-pills {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-
-    .prompt-pill {
-      background: rgba(255, 255, 255, 0.04);
-      border: 1px solid rgba(255, 255, 255, 0.08);
-      padding: 10px 16px;
-      border-radius: 12px;
-      font-size: 13px;
-      color: #d4d4d8;
-      cursor: pointer;
-      transition: all 0.2s;
-      position: relative;
-    }
-
-    .prompt-pill:hover {
-      background: rgba(56, 189, 248, 0.12);
-      border-color: #38bdf8;
-      color: #fff;
-    }
-
-    .prompt-pill.expanded {
-      background: rgba(56, 189, 248, 0.08);
-      border-color: rgba(56, 189, 248, 0.3);
-      color: #fff;
-    }
-
-    .prompt-answer {
-      display: none;
-      margin-top: 8px;
-      padding-top: 8px;
-      border-top: 1px solid rgba(56, 189, 248, 0.15);
-      font-size: 12.5px;
-      line-height: 1.55;
-      color: #94a3b8;
-    }
-
-    .prompt-pill.expanded .prompt-answer {
-      display: block;
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { transition: none !important; }
     }
   </style>
 </head>
-<body>
-
-  <!-- Top Navigation -->
-  <nav class="top-nav">
-    <a href="#" class="brand-logo">
-      <div class="brand-icon">T</div>
-      <span>TrainerTwin</span>
+<body id="top">
+  <a class="skip-link" href="#latest">Skip to posts</a>
+  <header class="topbar wrap">
+    <a href="#top" class="brand" aria-label="TrainerTwin, back to top">
+      <svg class="brand-mark" viewBox="0 0 32 32" fill="none" aria-hidden="true"><path d="M3 8h18M12 8v20M11 3h18M20 3v20" stroke="currentColor" stroke-width="3" stroke-linecap="round"/></svg>
+      TrainerTwin
     </a>
-    <div class="nav-actions">
-      {{LINKEDIN_NAV}}
-    </div>
-  </nav>
-
-  <!-- Main Profile Card -->
-  <main class="profile-card">
-    <div class="card-top">
-      <div class="avatar-wrapper">
-        <img src="{{AVATAR_URL}}" alt="{{NAME}}" class="avatar-img" onerror="this.src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&h=300&fit=crop'">
+    <span class="top-note">The person behind the ideas.</span>
+  </header>
+  <main class="wrap">
+    <section class="hero" aria-labelledby="profile-name">
+      <div class="portrait">
+        <span class="initials" aria-hidden="true">{{INITIALS}}</span>
+        {{AVATAR}}
       </div>
-      <button class="btn-share" onclick="navigator.clipboard.writeText(window.location.href); alert('Profile link copied to clipboard!');">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
-        <span>Share</span>
-      </button>
-    </div>
-
-    <div class="profile-header">
-      <div class="name-row">
-        <h1 class="profile-name">{{NAME}}</h1>
-        {{VERIFIED_BADGE}}
+      <div class="hero-copy">
+        <div class="name-row"><h1 id="profile-name">{{NAME}}</h1>{{VERIFIED_BADGE}}</div>
+        <p class="headline">{{HEADLINE}}</p>
+        <p class="bio">{{BIO_SUMMARY}}</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#latest">Explore posts {{NEXT_ICON}}</a>
+          {{PROFILE_LINK}}
+          {{COPY_BUTTON}}
+        </div>
       </div>
-      <div class="profile-sub">{{SUBTITLES}}</div>
-    </div>
-
-    <!-- 1-Paragraph Action-Oriented Summary -->
-    <p class="profile-bio">
-      {{BIO_SUMMARY}}
-    </p>
-
-    <!-- Latest on YouTube -->
-    <div class="section-header">
-      <div class="section-title">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="#ef4444"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>
-        <span>Latest on YouTube</span>
-      </div>
-      <div class="carousel-arrows">
-        <button class="btn-arrow" onclick="scrollCarousel('ytCarousel', -300)">‹</button>
-        <button class="btn-arrow" onclick="scrollCarousel('ytCarousel', 300)">›</button>
-      </div>
-    </div>
-    <div class="cards-carousel" id="ytCarousel">
-      {{YOUTUBE_CARDS}}
-    </div>
-
-    <!-- Latest on LinkedIn -->
-    <div class="section-header">
-      <div class="section-title">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
-        <span>Latest on LinkedIn</span>
-      </div>
-      <div class="carousel-arrows">
-        <button class="btn-arrow" onclick="scrollCarousel('liCarousel', -300)">‹</button>
-        <button class="btn-arrow" onclick="scrollCarousel('liCarousel', 300)">›</button>
-      </div>
-    </div>
-    <div class="cards-carousel" id="liCarousel">
-      {{LINKEDIN_CARDS}}
-    </div>
-
-    <!-- Latest on Instagram -->
-    <div class="section-header">
-      <div class="section-title">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
-        <span>Latest on Instagram</span>
-      </div>
-      <div class="carousel-arrows">
-        <button class="btn-arrow" onclick="scrollCarousel('igCarousel', -300)">‹</button>
-        <button class="btn-arrow" onclick="scrollCarousel('igCarousel', 300)">›</button>
-      </div>
-    </div>
-    <div class="cards-carousel" id="igCarousel">
-      {{INSTAGRAM_CARDS}}
-    </div>
-
-    <!-- Latest on X (Twitter) -->
-    <div class="section-header">
-      <div class="section-title">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="#fafafa"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-        <span>Latest on X</span>
-      </div>
-      <div class="carousel-arrows">
-        <button class="btn-arrow" onclick="scrollCarousel('twCarousel', -300)">‹</button>
-        <button class="btn-arrow" onclick="scrollCarousel('twCarousel', 300)">›</button>
-      </div>
-    </div>
-    <div class="cards-carousel" id="twCarousel">
-      {{TWITTER_CARDS}}
-    </div>
-
+    </section>
+    <nav class="feed-nav" aria-label="Jump to platform"><div class="feed-nav-inner">{{PLATFORM_NAV}}</div></nav>
+    <div id="latest">{{SECTIONS}}</div>
     {{PROMPT_SECTION}}
+    <footer class="page-footer"><span>Collected with TrainerTwin. Each card opens its original source.</span><a href="#top">Back to top</a></footer>
   </main>
-
+  <div class="toast" role="status" aria-live="polite"></div>
   <script>
-    function scrollCarousel(id, amount) {
-      const el = document.getElementById(id);
-      if (el) {
-        el.scrollBy({ left: amount, behavior: 'smooth' });
-      }
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    document.querySelectorAll('.channel').forEach(section => {
+      const row = section.querySelector('.cards');
+      const prev = section.querySelector('[data-direction="-1"]');
+      const next = section.querySelector('[data-direction="1"]');
+      if (!row) return;
+      const update = () => {
+        prev.disabled = row.scrollLeft <= 2;
+        next.disabled = row.scrollLeft >= row.scrollWidth - row.clientWidth - 2;
+      };
+      section.querySelectorAll('[data-direction]').forEach(button => {
+        button.addEventListener('click', () => row.scrollBy({
+          left: Number(button.dataset.direction) * (row.firstElementChild.getBoundingClientRect().width + parseFloat(getComputedStyle(row).gap)),
+          behavior: reducedMotion.matches ? 'instant' : 'smooth'
+        }));
+      });
+      row.addEventListener('scroll', update, {passive: true});
+      new ResizeObserver(update).observe(row);
+      update();
+    });
+    const navLinks = [...document.querySelectorAll('.feed-nav a')];
+    function markCurrent(id) {
+      navLinks.forEach(link => {
+        if (link.hash === '#' + id) link.setAttribute('aria-current', 'location');
+        else link.removeAttribute('aria-current');
+      });
     }
+    if (navLinks.length) markCurrent(navLinks[0].hash.slice(1));
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => { if (entry.isIntersecting) markCurrent(entry.target.id); });
+    }, {rootMargin: '-15% 0px -65% 0px'});
+    document.querySelectorAll('.channel').forEach(section => observer.observe(section));
+    navLinks.forEach(link => link.addEventListener('click', () => markCurrent(link.hash.slice(1))));
+    const copy = document.querySelector('[data-copy-url]');
+    let toastTimer;
+    copy?.addEventListener('click', async () => {
+      const toast = document.querySelector('.toast');
+      try {
+        await navigator.clipboard.writeText(copy.dataset.copyUrl);
+        toast.textContent = 'LinkedIn profile link copied.';
+      } catch {
+        toast.textContent = 'Copy unavailable here. Open the LinkedIn profile and copy its address.';
+      }
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => { toast.textContent = ''; }, 5000);
+    });
   </script>
 </body>
 </html>
 """
 
-OLGA_PROMPTS = """<!-- Action Prompt Section -->
-    <div class="ask-footer-bar">
-      <div class="ask-header">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-        <span>Explore Key Sales Situations</span>
-      </div>
-      <div class="prompt-pills">
-        <div class="prompt-pill" onclick="this.classList.toggle('expanded')">
-          “What to say when a buyer asks to 'Just send options'?”
-          <div class="prompt-answer">⚡ <b>Olga’s Rule:</b> Never email listings immediately. A buyer asking for options without discovery is not ready to buy. Ask: <em>"What specific criteria will make or break this decision for you?"</em></div>
-        </div>
-        <div class="prompt-pill" onclick="this.classList.toggle('expanded')">
-          “How to overcome client ghosting without being pushy?”
-          <div class="prompt-answer">⚡ <b>Olga’s Rule:</b> Stop sending random follow-ups. Acknowledge their priority shift directly: <em>"I noticed we haven’t connected—has the timeline changed, or is this property no longer a fit?"</em></div>
-        </div>
-        <div class="prompt-pill" onclick="this.classList.toggle('expanded')">
-          “How to qualify an off-plan investor in Dubai?”
-          <div class="prompt-answer">⚡ <b>Olga’s Rule:</b> Isolate whether they seek capital appreciation or rental yield before quoting numbers. Never pitch off-plan ROI without knowing their exit horizon.</div>
-        </div>
-      </div>
-    </div>"""
+# Existing preview content; native disclosures keep it keyboard-accessible.
+OLGA_PROMPTS = """<section class="situations" aria-labelledby="situations-title">
+  <div><h2 id="situations-title">Explore sales situations</h2><p>Start with a question you encounter in your day-to-day work.</p></div>
+  <div>
+    <details><summary>What to say when a buyer asks to “just send options”? {{NEXT_ICON}}</summary><div class="answer"><b>Olga’s Rule:</b> Never email listings immediately. A buyer asking for options without discovery is not ready to buy. Ask: <em>“What specific criteria will make or break this decision for you?”</em></div></details>
+    <details><summary>How to overcome client ghosting without being pushy? {{NEXT_ICON}}</summary><div class="answer"><b>Olga’s Rule:</b> Stop sending random follow-ups. Acknowledge their priority shift directly: <em>“I noticed we haven’t connected—has the timeline changed, or is this property no longer a fit?”</em></div></details>
+    <details><summary>How to qualify an off-plan investor in Dubai? {{NEXT_ICON}}</summary><div class="answer"><b>Olga’s Rule:</b> Isolate whether they seek capital appreciation or rental yield before quoting numbers. Never pitch off-plan ROI without knowing their exit horizon.</div></details>
+  </div>
+</section>"""
+
+
+def safe_url(value: object) -> str:
+    value = str(value or "")
+    parsed = urlparse(value)
+    return (
+        escape(value, quote=True)
+        if parsed.scheme in {"http", "https"} and parsed.hostname
+        else ""
+    )
+
+
+def publication(value: object) -> str:
+    text = str(value or "")
+    if re.fullmatch(r"\d{8}", text):
+        text = f"{text[:4]}-{text[4:6]}-{text[6:]}"
+    try:
+        return normalize_date(text)
+    except ValueError:
+        return ""
+
+
+def display_date(value: str) -> str:
+    if not value:
+        return "Date unavailable"
+    return date.fromisoformat(value[:10]).strftime("%b %d, %Y").replace(" 0", " ")
+
+
+def duration(value: object) -> str:
+    text = str(value or "")
+    parts = text.split(":")
+    if len(parts) == 3 and all(p.isdigit() for p in parts):
+        return (
+            f"{int(parts[1])}:{parts[2]}"
+            if int(parts[0]) == 0
+            else f"{int(parts[0])}:{parts[1]}:{parts[2]}"
+        )
+    return text
+
+
+def metric(value: object, label: str) -> str:
+    if not isinstance(value, (int, float)) or isinstance(value, bool) or value < 0:
+        return ""
+    number = (
+        f"{value / 1_000_000:.1f}M"
+        if value >= 1_000_000
+        else f"{value / 1000:.1f}K"
+        if value >= 1000
+        else f"{value:,.0f}"
+    )
+    return f"{number} {label.removesuffix('s') if value == 1 else label}"
+
+
+def post_cards(data_dir: Path, platform: str, handle: str) -> list[str]:
+    """Read frontmatter dates rather than filename order; never preview comments/quotes."""
+    posts = []
+    folder = "tweets" if platform == "twitter" else "posts"
+    for path in sorted((data_dir / platform / folder).glob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        match = re.match(r"\A---\s*\n(.*?)\n---\s*\n(.*)", text, re.DOTALL)
+        meta, body = (yaml.safe_load(match[1]) or {}, match[2]) if match else ({}, text)
+        if not isinstance(meta, dict):
+            raise ValueError(f"Invalid Markdown frontmatter: {path}")  # noqa: TRY004 - invalid source document
+        body = re.split(r"(?m)^\s*(?:## Comments|### Quoting @)", body, maxsplit=1)[0]
+        lines = [
+            line.strip()
+            for line in body.splitlines()
+            if line.strip() and not line.lstrip().startswith("## ")
+        ]
+        url = safe_url(meta.get("url"))
+        if lines and url:
+            posts.append((publication(meta.get("date")), meta, lines, url))
+    cards = []
+    for published, meta, lines, url in sorted(posts, key=lambda p: p[0], reverse=True)[
+        :8
+    ]:
+        title = lines[0]
+        rest = " ".join(lines[1:])
+        if len(title) > 160:
+            cut = title.rfind(" ", 0, 160)
+            cut = cut if cut > 0 else 160
+            rest = title[cut:].strip() + " " + rest
+            title = title[:cut] + "…"
+        excerpt = rest[:320].rsplit(" ", 1)[0] + "…" if len(rest) > 320 else rest
+        kind = (
+            str(meta.get("type") or "Post").title()
+            if platform == "instagram"
+            else handle
+        )
+        action = (
+            "Watch reel"
+            if platform == "instagram" and meta.get("type") == "reel"
+            else "Read post"
+        )
+        engagement = (
+            metric(meta.get("views"), "views")
+            if platform == "twitter"
+            else metric(meta.get("likes"), "likes")
+        )
+        date_html = (
+            f'<time datetime="{published}">{display_date(published)}</time>'
+            if published
+            else "Date unavailable"
+        )
+        cards.append(f'''<a class="post-card text-card" href="{url}" target="_blank" rel="noopener noreferrer">
+          <div class="card-body">
+            <div class="card-meta"><span class="handle">{escape(kind)}</span>{date_html}</div>
+            <h3 class="clamp">{escape(title)}</h3><p class="excerpt clamp">{escape(excerpt)}</p>
+            <div class="card-footer"><span class="card-action">{action} {icon("arrow")}</span><span class="engagement">{engagement}</span></div>
+          </div></a>''')
+    return cards
 
 
 def build_profile(user: str = "olga") -> Path:
-    """Build action-oriented Delphi-style trainer profile HTML."""
+    """Build a self-contained HTML page from this user's collected public metadata."""
     if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", user):
         raise ValueError("User must be a lowercase slug (e.g. jane-doe)")
     user_root = ROOT / "users" / user
     data_dir = user_root / "data"
     if not data_dir.is_dir():
         raise ValueError(f"User data directory not found: {data_dir}")
-    workspace = user_root / "workspace"
-    workspace.mkdir(parents=True, exist_ok=True)
-
-    def safe_url(value: str) -> str:
-        value = str(value or "")
-        parsed = urlparse(value)
-        return escape(value, quote=True) if parsed.scheme in {"http", "https"} and parsed.hostname else "#"
 
     def metadata(platform: str) -> tuple[dict, str]:
         for path in sorted((data_dir / platform).glob("*.yaml")):
             doc = yaml.safe_load(path.read_text(encoding="utf-8"))
             if isinstance(doc, dict) and isinstance(doc.get("profile"), dict):
-                return doc["profile"], path.stem
+                p = doc["profile"]
+                handle = (
+                    p.get("publicIdentifier")
+                    or p.get("userName")
+                    or p.get("username")
+                    or path.stem
+                )
+                return p, str(handle)
         return {}, ""
 
-    linkedin, linkedin_handle = metadata("linkedin")
-    instagram, instagram_handle = metadata("instagram")
-    twitter, twitter_handle = metadata("twitter")
-    profile = linkedin or instagram or twitter
-    name = str(profile.get("fullName") or profile.get("name") or
-               " ".join(filter(None, (profile.get("firstName"), profile.get("lastName")))) or
-               user.replace("-", " ").title())
-    avatar_url = (profile.get("profilePicUrl") or profile.get("profilePicture") or
-                  profile.get("profileImageUrl") or "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=300&h=300&fit=crop")
-    bio = profile.get("biography") or profile.get("description") or profile.get("summary") or "Public profile assembled from collected social posts."
-    subtitles = [profile.get("headline") or profile.get("position"), profile.get("company")]
-    linkedin_url = linkedin.get("linkedinUrl") or linkedin.get("url") or (
-        f"https://www.linkedin.com/in/{linkedin_handle}/" if linkedin_handle else ""
+    profiles = {
+        platform: metadata(platform)
+        for platform in ("linkedin", "instagram", "twitter")
+    }
+    profile = next((p for p, _ in profiles.values() if p), {})
+    name = str(
+        profile.get("fullName")
+        or profile.get("name")
+        or " ".join(filter(None, (profile.get("firstName"), profile.get("lastName"))))
+        or user.replace("-", " ").title()
     )
-    def _fmt_duration(d: str) -> str:
-        """Convert 00:11:29 -> 11:29, keep 1:02:30 as-is."""
-        parts = d.split(":")
-        if len(parts) == 3 and parts[0] == "00":
-            return f"{int(parts[1])}:{parts[2]}"
-        if len(parts) == 3:
-            return f"{int(parts[0])}:{parts[1]}:{parts[2]}"
-        return d
+    image = (
+        profile.get("profilePicUrl")
+        or profile.get("profilePicture")
+        or profile.get("profileImageUrl")
+        or profile.get("photo")
+    )
+    if isinstance(image, dict):
+        image = image.get("url")
+    avatar = safe_url(image)
+    bio = str(
+        profile.get("biography")
+        or profile.get("description")
+        or profile.get("summary")
+        or profile.get("about")
+        or "Public profile assembled from collected social posts."
+    )
+    # Keep the collected introduction, rather than inventing a biography or performance claims.
+    bio = " ".join(bio.split("\n\n", 1)[0].split())
+    if len(bio) > 650:
+        bio = bio[:650].rsplit(" ", 1)[0] + "…"
+    headline = str(profile.get("headline") or profile.get("position") or "")
+    # The remaining LinkedIn headline is marketing copy, not a second biography.
+    headline = headline.split("|", 1)[0].strip()
+    linkedin, linkedin_handle = profiles["linkedin"]
+    linkedin_url = safe_url(
+        linkedin.get("linkedinUrl")
+        or linkedin.get("url")
+        or (
+            f"https://www.linkedin.com/in/{linkedin_handle}/" if linkedin_handle else ""
+        )
+    )
 
-    def _fmt_views(v: int | None) -> str:
-        if not v:
-            return ""
-        if v >= 1_000_000:
-            return f"{v / 1_000_000:.1f}M views"
-        if v >= 1_000:
-            return f"{v / 1_000:.1f}K views"
-        return f"{v:,} views"
-
-    def _fmt_engagement(likes: str, comments: str) -> str:
-        parts = []
-        if likes and likes != "0":
-            parts.append(f"♥ {likes}")
-        if comments and comments != "0":
-            parts.append(f"💬 {comments}")
-        return "  ".join(parts) if parts else ""
-
-    def _relative_date(iso: str) -> str:
-        """Turn 2026-09-21 into 'Sep 21' for compact display."""
-        if not iso or len(iso) < 10:
-            return iso
-        months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
-                  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
-        try:
-            m = int(iso[5:7])
-            d = int(iso[8:10])
-            return f"{months[m - 1]} {d}"
-        except (ValueError, IndexError):
-            return iso[:10]
-
-    # 2. YouTube Cards
-    yt_cards_html = []
+    videos = []
     yt_files = sorted((data_dir / "youtube").glob("*.yaml"))
     yt_files.sort(key=lambda p: p.name != "channel.yaml")
-    for yt_file in yt_files:
-        yt_data = yaml.safe_load(yt_file.read_text(encoding="utf-8"))
-        if not isinstance(yt_data, dict) or not isinstance(yt_data.get("videos"), list):
+    for path in yt_files:
+        doc = yaml.safe_load(path.read_text(encoding="utf-8"))
+        if isinstance(doc, dict) and isinstance(doc.get("videos"), list):
+            videos = [v for v in doc["videos"] if isinstance(v, dict)]
+            break
+    videos.sort(key=lambda v: publication(v.get("upload_date")), reverse=True)
+    youtube_cards = []
+    for video in videos[:8]:
+        ident = str(video.get("id") or "")
+        url = safe_url(video.get("url") or f"https://www.youtube.com/watch?v={ident}")
+        if not url:
             continue
-        for v in yt_data["videos"][:8]:
-            vid_id = v.get("id", "")
-            title = escape(str(v.get("title") or "Video"))
-            url = safe_url(v.get("url") or f"https://www.youtube.com/watch?v={vid_id}")
-            duration = escape(_fmt_duration(str(v.get("duration") or "")))
-            views = _fmt_views(v.get("view_count"))
-            thumb = safe_url(f"https://img.youtube.com/vi/{vid_id}/hqdefault.jpg") if re.fullmatch(r"[\w-]+", str(vid_id)) else "#"
-            yt_cards_html.append(f"""
-              <a href="{url}" target="_blank" class="post-card yt-card">
-                <div class="yt-thumb-box">
-                  <img src="{thumb}" alt="{title}" class="yt-thumb-img" onerror="this.src='https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=180&fit=crop'">
-                  <div class="yt-duration">{duration}</div>
-                </div>
-                <div class="yt-content">
-                  <div class="yt-title">{title}</div>
-                  <div class="yt-footer">
-                    <span>{views}</span>
-                    <span>Watch ↗</span>
-                  </div>
-                </div>
-              </a>
-            """)
-        break
+        title = escape(str(video.get("title") or "Untitled video"))
+        thumb = (
+            safe_url(f"https://img.youtube.com/vi/{ident}/hqdefault.jpg")
+            if re.fullmatch(r"[\w-]+", ident)
+            else ""
+        )
+        thumb_image = (
+            f'<img src="{thumb}" alt="" loading="lazy" onerror="this.hidden=true">'
+            if thumb
+            else ""
+        )
+        length = escape(duration(video.get("duration")))
+        published = publication(video.get("upload_date"))
+        youtube_cards.append(f'''<a class="post-card video-card" href="{url}" target="_blank" rel="noopener noreferrer">
+          <div class="thumb"><span class="thumb-fallback">{icon("youtube")}Video preview</span>{thumb_image}
+            <span class="play">{icon("play")}</span>{f'<span class="duration">{length}</span>' if length else ""}</div>
+          <div class="card-body"><h3 class="clamp">{title}</h3>
+            <div class="card-footer"><span class="card-action">Watch video {icon("arrow")}</span><span class="engagement">{metric(video.get("view_count"), "views")}</span></div>
+            {f'<p class="section-caption">{display_date(published)}</p>' if published else ""}
+          </div></a>''')
+    cards_by_platform = {"youtube": youtube_cards}
+    for platform in ("linkedin", "instagram", "twitter"):
+        handle = profiles[platform][1]
+        cards_by_platform[platform] = post_cards(
+            data_dir, platform, f"@{handle}" if handle else PLATFORMS[platform]
+        )
 
-    # 3. LinkedIn Cards
-    li_cards_html = []
-    li_dir = data_dir / "linkedin" / "posts"
-    if li_dir.exists():
-        for p in sorted(li_dir.glob("*.md"), reverse=True)[:8]:
-            txt = p.read_text(encoding="utf-8")
-            m = re.search(r"---\s*\n(.*?)\n---\s*\n(.*)", txt, re.DOTALL)
-            meta, body = m.groups() if m else ("", txt)
-            date_m = re.search(r"date:\s*[\'\"]?([^\n\'\"]+)", meta)
-            url_m = re.search(r"url:\s*[\'\"]?([^\n\'\"]+)", meta)
-            likes_m = re.search(r"likes:\s*(\d+)", meta)
-            comments_m = re.search(r"comments:\s*(\d+)", meta)
-            date_str = _relative_date(date_m.group(1)[:10]) if date_m else ""
-            url = safe_url(url_m.group(1) if url_m else linkedin_url)
-            engagement = _fmt_engagement(
-                likes_m.group(1) if likes_m else "",
-                comments_m.group(1) if comments_m else "",
-            )
-            lines = [l.strip() for l in body.splitlines() if l.strip() and not l.startswith("## ")]
-            # Split into a bold headline + body snippet
-            headline = escape(lines[0][:80] if lines else "LinkedIn post")
-            body_snippet = escape(" ".join(lines[1:3])[:120] + "..." if len(lines) > 1 else "")
-            li_cards_html.append(f"""
-              <a href="{url}" target="_blank" class="post-card">
-                <div class="card-platform-row">
-                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#0284c7"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
-                  <span>{escape('@' + linkedin_handle) if linkedin_handle else 'LinkedIn'}</span>
-                </div>
-                <div class="post-headline">{headline}</div>
-                <div class="post-text">{body_snippet}</div>
-                <div class="post-footer">
-                  <span>{date_str}</span>
-                  <span class="engagement-badge">{engagement}</span>
-                </div>
-              </a>
-            """)
+    sections = []
+    nav = []
+    for platform, label in PLATFORMS.items():
+        cards = cards_by_platform[platform]
+        nav.append(f'<a href="#{platform}">{icon(platform)}{label}</a>')
+        caption = (
+            "Collected videos · channel order where dates are unavailable"
+            if platform == "youtube"
+            else "Latest posts in this collection"
+        )
+        controls = (
+            f'''<div class="row-controls"><span class="row-count">{len(cards)} {"videos" if platform == "youtube" else "posts"}</span>
+          <button class="arrow-button" data-direction="-1" aria-label="Previous {label} posts" aria-controls="{platform}-cards">{icon("previous")}</button>
+          <button class="arrow-button" data-direction="1" aria-label="Next {label} posts" aria-controls="{platform}-cards">{icon("next")}</button></div>'''
+            if cards
+            else ""
+        )
+        row = (
+            f'<div class="cards" id="{platform}-cards" role="region" aria-label="{label} posts" tabindex="0">{"".join(cards)}</div>'
+            if cards
+            else f'<p class="empty">No {label} posts collected yet.</p>'
+        )
+        sections.append(f'''<section class="channel {platform}" id="{platform}" aria-labelledby="{platform}-title">
+          <div class="section-header"><div class="section-heading"><span class="platform-mark">{icon(platform)}</span>
+            <div><h2 id="{platform}-title">{label}</h2><p class="section-caption">{caption}</p></div></div>{controls}</div>{row}</section>''')
 
-    # 4. Instagram Cards
-    ig_cards_html = []
-    ig_dir = data_dir / "instagram" / "posts"
-    ig_type_icons = {"REEL": "▶", "CAROUSEL": "⊞", "IMAGE": "◻", "POST": "◻"}
-    if ig_dir.exists():
-        for p in sorted(ig_dir.glob("*.md"), reverse=True)[:8]:
-            txt = p.read_text(encoding="utf-8")
-            m = re.search(r"---\s*\n(.*?)\n---\s*\n(.*)", txt, re.DOTALL)
-            meta, body = m.groups() if m else ("", txt)
-            date_m = re.search(r"date:\s*[\'\"]?([^\n\'\"]+)", meta)
-            url_m = re.search(r"url:\s*[\'\"]?([^\n\'\"]+)", meta)
-            type_m = re.search(r"type:\s*[\'\"]?([^\n\'\"]+)", meta)
-            likes_m = re.search(r"likes:\s*(\d+)", meta)
-            date_str = _relative_date(date_m.group(1)[:10]) if date_m else ""
-            url = safe_url(url_m.group(1) if url_m else f"https://www.instagram.com/{instagram_handle}/")
-            post_type = type_m.group(1).upper() if type_m else "POST"
-            type_icon = ig_type_icons.get(post_type, "◻")
-            likes_str = f"♥ {likes_m.group(1)}" if likes_m and likes_m.group(1) != "0" else ""
-            lines = [l.strip().removeprefix("## Caption").strip() for l in body.splitlines() if l.strip() and not l.startswith("## ")]
-            snippet = escape(" ".join(lines)[:140] + "..." if lines else "Instagram update")
-            ig_cards_html.append(f"""
-              <a href="{url}" target="_blank" class="post-card">
-                <div class="card-platform-row">
-                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#e1306c"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
-                  <span class="ig-type-badge">{type_icon} {post_type}</span>
-                </div>
-                <div class="post-text">{snippet}</div>
-                <div class="post-footer">
-                  <span>{date_str}</span>
-                  <span class="engagement-badge">{likes_str}</span>
-                </div>
-              </a>
-            """)
-
-    # 5. Twitter Cards
-    tw_cards_html = []
-    tw_dir = data_dir / "twitter" / "tweets"
-    if tw_dir.exists():
-        for p in sorted(tw_dir.glob("*.md"), reverse=True)[:8]:
-            txt = p.read_text(encoding="utf-8")
-            m = re.search(r"---\s*\n(.*?)\n---\s*\n(.*)", txt, re.DOTALL)
-            meta, body = m.groups() if m else ("", txt)
-            date_m = re.search(r"date:\s*[\'\"]?([^\n\'\"]+)", meta)
-            url_m = re.search(r"url:\s*[\'\"]?([^\n\'\"]+)", meta)
-            likes_m = re.search(r"likes:\s*(\d+)", meta)
-            views_m = re.search(r"views:\s*(\d+)", meta)
-            date_str = _relative_date(date_m.group(1)[:10]) if date_m else ""
-            url = safe_url(url_m.group(1) if url_m else f"https://x.com/{twitter_handle}")
-            engagement = _fmt_engagement(
-                likes_m.group(1) if likes_m else "",
-                "",
-            )
-            views_str = _fmt_views(int(views_m.group(1))) if views_m else ""
-            lines = [l.strip() for l in body.splitlines() if l.strip() and not l.startswith("## ")]
-            snippet = escape(" ".join(lines)[:140] if lines else "Tweet update")
-            tw_cards_html.append(f"""
-              <a href="{url}" target="_blank" class="post-card">
-                <div class="card-platform-row">
-                  <svg class="platform-icon" viewBox="0 0 24 24" fill="#fafafa"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-                  <span>{escape('@' + twitter_handle) if twitter_handle else 'X'}</span>
-                </div>
-                <div class="post-text">{snippet}</div>
-                <div class="post-footer">
-                  <span>{date_str}  {views_str}</span>
-                  <span class="engagement-badge">{engagement}</span>
-                </div>
-              </a>
-            """)
-
-    html = (
-        HTML_TEMPLATE.replace("{{NAME}}", escape(name))
-        .replace("{{VERIFIED_BADGE}}", '<svg class="verified-badge" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>' if profile.get("verified") is True else "")
-        .replace("{{AVATAR_URL}}", safe_url(avatar_url))
-        .replace("{{SUBTITLES}}", ' <span class="sub-divider">•</span> '.join(f"<span>{escape(str(s))}</span>" for s in subtitles if s))
-        .replace("{{BIO_SUMMARY}}", escape(str(bio)))
-        .replace("{{LINKEDIN_NAV}}", f'<a href="{safe_url(linkedin_url)}" target="_blank" class="btn-create">LinkedIn Profile</a>' if linkedin_url else "")
-        .replace("{{PROMPT_SECTION}}", OLGA_PROMPTS if user == "olga" else "")
-        .replace("{{YOUTUBE_CARDS}}", "\n".join(yt_cards_html))
-        .replace("{{LINKEDIN_CARDS}}", "\n".join(li_cards_html))
-        .replace("{{INSTAGRAM_CARDS}}", "\n".join(ig_cards_html))
-        .replace("{{TWITTER_CARDS}}", "\n".join(tw_cards_html))
+    replacements = {
+        "NAME": escape(name),
+        "INITIALS": escape("".join(word[0] for word in name.split()[:2])),
+        "AVATAR": f'<img src="{avatar}" alt="{escape(name)}" width="184" height="184" onerror="this.hidden=true">'
+        if avatar
+        else "",
+        "HEADLINE": escape(headline),
+        "BIO_SUMMARY": escape(bio),
+        "VERIFIED_BADGE": f'<span class="verification" role="img" aria-label="Verified on the source profile" title="Verified on the source profile">{icon("check")}</span>'
+        if profile.get("verified") is True
+        else "",
+        "PROFILE_LINK": f'<a class="text-link" href="{linkedin_url}" target="_blank" rel="noopener noreferrer">LinkedIn profile {icon("arrow")}</a>'
+        if linkedin_url
+        else "",
+        "COPY_BUTTON": f'<button class="text-link" style="border:0;background:none;padding:0" data-copy-url="{linkedin_url}">{icon("copy")}Copy LinkedIn link</button>'
+        if linkedin_url
+        else "",
+        "PLATFORM_NAV": "".join(nav),
+        "SECTIONS": "\n".join(sections),
+        "PROMPT_SECTION": OLGA_PROMPTS.replace("{{NEXT_ICON}}", icon("next"))
+        if user == "olga"
+        else "",
+        "NEXT_ICON": icon("next"),
+    }
+    html = re.sub(
+        r"\{\{([A-Z_]+)\}\}", lambda match: replacements[match[1]], HTML_TEMPLATE
     )
+    workspace = user_root / "workspace"
+    workspace.mkdir(parents=True, exist_ok=True)
+    output = workspace / "profile.html"
+    output.write_text(html, encoding="utf-8")
+    return output
 
-    out = workspace / "profile.html"
-    out.write_text(html, encoding="utf-8")
-    return out
 
-
-def main():
-    parser = argparse.ArgumentParser(description="Generate Delphi.ai-style trainer profile")
-    parser.add_argument("--user", default="olga", help="User slug under users/ (default: olga)")
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Generate a source-linked trainer profile"
+    )
+    parser.add_argument(
+        "--user", default="olga", help="User slug under users/ (default: olga)"
+    )
     parser.add_argument("--open", action="store_true", help="Open in default browser")
     args = parser.parse_args()
-
-    out = build_profile(user=args.user)
-    print(f"Generated Delphi-style profile page: {out}")
+    output = build_profile(user=args.user)
+    print(f"Generated trainer profile page: {output}")
     if args.open:
-        import subprocess
-        subprocess.run(["open", str(out)], check=False)
+        webbrowser.open(output.resolve().as_uri())
 
 
 if __name__ == "__main__":

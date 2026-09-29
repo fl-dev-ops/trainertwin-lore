@@ -6,8 +6,9 @@ likes: 0
 retweets: 0
 replies: 0
 quotes: 0
-views: 1
+views: 3
 isReply: false
+conversationId: '2102627755674509680'
 ---
 
 In Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k 

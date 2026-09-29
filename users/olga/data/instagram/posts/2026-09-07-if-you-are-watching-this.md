@@ -5,8 +5,10 @@ date: '2026-09-07T08:40:33.000Z'
 url: https://www.instagram.com/p/Dc-sB4KqcoR/
 likes: 12
 comments: 1
-views: 154
-videoUrl: https://scontent-nrt1-1.cdninstagram.com/o1/v/t2/f2/m86/AQMTYOKbCk101DD24qmJfIJJ5gZA2rVemz1R4hCsAj8k0CP56O6_2pywLZXxGKD_Nx3Ar0yG-0-CJSANuzDhT6Fjjlv1Fmav0B0puPU.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_ohc=Vp_fVh57CLYQ7kNvwFs8wDb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQzMzM3MzgwNTM2MTYzNCwiYXNzZXRfYWdlX2RheXMiOjE4LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ce656583d278c2a6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMTQ1OEFEMkEyRDI5M0VBRjQ2ODdDRThENDg0QUNBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ5NDY2MENGQjVBMDIwNEE1NzY3NzBGMDQzQjg3MDgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbE5_2Hq-mLBRUCKAJDMywXQDTu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=23ovdUm3TIybNHsXwcwV1A&_nc_ss=7a22e&_nc_zt=28&oh=00_AQJLX50n1w2RunVNfvQBX7RaDSWFoqtCT9Lf71LH09M8CQ&oe=6AB82426
+views: 157
+duration: 20.942947
+videoUrl: https://scontent-ssn1-1.cdninstagram.com/o1/v/t2/f2/m86/AQMTYOKbCk101DD24qmJfIJJ5gZA2rVemz1R4hCsAj8k0CP56O6_2pywLZXxGKD_Nx3Ar0yG-0-CJSANuzDhT6Fjjlv1Fmav0B0puPU.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_ohc=dNDEPBn-_10Q7kNvwG70NaE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQzMzM3MzgwNTM2MTYzNCwiYXNzZXRfYWdlX2RheXMiOjIyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ce656583d278c2a6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMTQ1OEFEMkEyRDI5M0VBRjQ2ODdDRThENDg0QUNBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ5NDY2MENGQjVBMDIwNEE1NzY3NzBGMDQzQjg3MDgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbE5_2Hq-mLBRUCKAJDMywXQDTu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_jFwtsqfNOtnjGgDjE75CQ&_nc_ss=7a22e&_nc_zt=28&oh=00_AQMVIYCiWZ3r9x5lthPLe8WBBNiX14w3FvIEyb5ytEE_3g&oe=6ABDA266
+transcript: true
 ---
 
 ## Caption
@@ -19,6 +21,13 @@ Now the next step - I just don’t believe it… I’m choosing to think “I al
 
 Hey - 👋 if this does not work!!! Jump more!
 #tonyrobbins #upw
+
+## Transcript
+
+### 00:00:03 · Speaker 0
+
+one week.
+
 
 ## Comments (1)
 

@@ -1,6 +1,5 @@
 """Offline publication chronology preview: python -m pipeline.chronology."""
 
-import json
 import os
 import re
 from collections import Counter
@@ -8,6 +7,8 @@ from datetime import UTC, datetime
 from html import escape
 from pathlib import Path
 
+from .core import read_records, source_root
+from .records import record_summary
 from .sources import read_source
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -58,35 +59,42 @@ def selected_sources():
 
 
 def evidence_for(sources, workspace=OUT):
-    """Read saved extraction only; a metadata update may be pending re-ingestion."""
-    result = {}
+    """Project current records; publication metadata may await re-ingestion."""
+    root = source_root(sources[0]) if sources else None
+    records, snapshots = read_records(workspace, root, require_fresh=False)
+    result = {source.id: [] for source in sources}
     for source in sources:
-        manifest = workspace / "manifest" / f"{source.id}.json"
-        if not manifest.exists():
-            result[source.id] = []
-            continue
-        data = json.loads(manifest.read_text())
-        if data["source_sha256"] != source.sha256:
+        if source.id in snapshots and snapshots[source.id].sha256 != source.sha256:
             raise ValueError(f"Source text changed since extraction: {source.id}")
-        cards = [
-            json.loads(line)
-            for line in (workspace / "evidence" / data["evidence_file"])
-            .read_text()
-            .splitlines()
-            if line.strip()
-        ]
-        units = {unit["id"]: unit for unit in source.units}
-        for card in cards:
-            unit = units.get(card["unit_id"])
-            if (
-                not unit
-                or card["source_id"] != source.id
-                or card["source_hash"] != source.sha256
-                or card["quote"] not in unit["text"]
-                or card["locator"] != unit["locator"]
-            ):
-                raise ValueError(f"Broken evidence passage: {card['id']}")
-        result[source.id] = cards
+    units = {u["id"]: u for source in snapshots.values() for u in source.units}
+    for record in records:
+        if record["source_id"] not in result:
+            continue
+        field = next(
+            record["content"][key]
+            for key in ("summary", "situation", "observation")
+            if key in record["content"]
+        )
+        citation = field["citations"][0]
+        unit = units[citation["unit_id"]]
+        result[record["source_id"]].append(
+            {
+                "id": record["id"],
+                "source_id": record["source_id"],
+                "kind": "case_study"
+                if record["product"] == "cases"
+                else "style"
+                if record["product"] == "expression"
+                else {"claim": "fact_claim", "method": "teaching_move"}.get(
+                    record["content"]["kind"], record["content"]["kind"]
+                ),
+                "context": record["content"].get("kind", "source_local"),
+                "statement": record_summary(record),
+                "quote": citation["quote"],
+                "locator": unit["locator"],
+                "speaker_id": unit["speaker_id"],
+            }
+        )
     return result
 
 

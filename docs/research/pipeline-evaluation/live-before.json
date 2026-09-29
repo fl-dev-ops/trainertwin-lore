@@ -1,0 +1,304 @@
+{
+  "active_sources": 2,
+  "code_root": ".pi/pipeline-v2/before",
+  "code_sha256": {
+    "__init__.py": "6ea7fd26e23395afe32d77cacdfb232258138ddd55db54b8989b1f7458f68c3d",
+    "__main__.py": "07419e86b90db14b651e0b652cd725eeff15bdf745d4cec5e9e83916bb4843a4",
+    "chronology.py": "f6de59914b2af71dffbda58a3a9ff9220cc5cd8acf82e3b8fafba926d645a98f",
+    "client.py": "dc220254b9e0d3e86e0eddfa0296c861675b3e76c72387cfe085ff04986a0243",
+    "core.py": "0f4ef54e8e9aeacbf12fd6b6045c36efcb969c496c663092f8f3b8efe1c6f613",
+    "mcp.py": "cd0d3bf66ff743a2b977503e9dc40f27a963b30385b557432e7951bd53541fce",
+    "profile.py": "ea14c472c42fb62d4822b5c5c5f02c31a26683c49da9b90812473c7fb6a30ae5",
+    "prompts.py": "94d657769cda521770e64b5bf3183970d29aa7a3720d7186f28fa938005c3be4",
+    "sources.py": "e9462b1e9477e15e0163f5446093c303db873978ea235d9b42d027d7233c772a"
+  },
+  "elapsed_seconds": 21.62,
+  "evidence_cards": 7,
+  "input_sha256": {
+    "linkedin/posts/2023-06-19-my-favourite-exercise-for-training.md": "d3f31686aec82830a5cc9118a9a5e44653bf08a1cc4196e1a0f5cfc276236a58",
+    "linkedin/posts/2026-01-19-why-i-never-tell-clients.md": "891b41890e06f79eb0d841dd80423375a7ad08fff89ddf83e822a764dfb3331c",
+    "linkedin/posts/2026-09-21-which-problem-do-you-solve.md": "cc5a5b7a9bf96a1fd0b2c1c7b471830995b5a1bf47ecdd8d180549c46bbcfcbf",
+    "youtube/shorts-run/transcripts/s189.yaml": "34115c7cf5a90b11be97a562665816681d38015c32f23c777efae987133a5527",
+    "youtube/shorts-run/transcripts/s195.yaml": "469b9a79a44eea689ba7911c43e82bd635721687230d1e19799b6641c184a173"
+  },
+  "inputs_unchanged": true,
+  "legacy_behavior_pages": 1,
+  "mode": "live OpenRouter pilot; not semantic/persona scoring",
+  "model": "openai/gpt-4o",
+  "not_measured": [
+    "semantic correctness",
+    "extraction recall",
+    "trainer resemblance",
+    "chat response latency/cost"
+  ],
+  "processing_quality": [
+    {
+      "status": "not_recorded"
+    },
+    {
+      "status": "not_recorded"
+    }
+  ],
+  "selected_inputs": [
+    "linkedin/posts/2023-06-19-my-favourite-exercise-for-training.md",
+    "linkedin/posts/2026-01-19-why-i-never-tell-clients.md"
+  ],
+  "source_snapshots": 0,
+  "stages": [
+    {
+      "new_logical_calls": 1,
+      "stage": "ingest:linkedin/posts/2023-06-19-my-favourite-exercise-for-training.md",
+      "status": "completed"
+    },
+    {
+      "new_logical_calls": 1,
+      "stage": "ingest:linkedin/posts/2026-01-19-why-i-never-tell-clients.md",
+      "status": "completed"
+    },
+    {
+      "new_logical_calls": 6,
+      "stage": "build",
+      "status": "completed"
+    },
+    {
+      "new_logical_calls": 0,
+      "stage": "analyze",
+      "status": "completed"
+    },
+    {
+      "new_logical_calls": 0,
+      "stage": "lint",
+      "status": "completed"
+    }
+  ],
+  "topic_pages": 3,
+  "total_call_cap": 12,
+  "total_logical_calls": 8,
+  "usage": [
+    {
+      "at": "2026-09-29T11:46:27Z",
+      "model": "openai/gpt-4o",
+      "operation": "extract:linkedin-posts-2023-06-19-my-favourite-exercise-for-training-md-5b863f29ac:1",
+      "usage": {
+        "completion_tokens": 215,
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 0
+        },
+        "cost": 0.003455,
+        "cost_details": {
+          "upstream_inference_completions_cost": 0.00215,
+          "upstream_inference_cost": 0.003455,
+          "upstream_inference_prompt_cost": 0.001305
+        },
+        "is_byok": false,
+        "prompt_tokens": 522,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_tokens": 0,
+          "video_tokens": 0
+        },
+        "total_tokens": 737
+      }
+    },
+    {
+      "at": "2026-09-29T11:46:30Z",
+      "model": "openai/gpt-4o",
+      "operation": "extract:linkedin-posts-2026-01-19-why-i-never-tell-clients-md-febe7fd2df:1",
+      "usage": {
+        "completion_tokens": 264,
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 0
+        },
+        "cost": 0.00472,
+        "cost_details": {
+          "upstream_inference_completions_cost": 0.00264,
+          "upstream_inference_cost": 0.00472,
+          "upstream_inference_prompt_cost": 0.00208
+        },
+        "is_byok": false,
+        "prompt_tokens": 832,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_tokens": 0,
+          "video_tokens": 0
+        },
+        "total_tokens": 1096
+      }
+    },
+    {
+      "at": "2026-09-29T11:46:31Z",
+      "model": "openai/gpt-4o",
+      "operation": "group-topics",
+      "usage": {
+        "completion_tokens": 46,
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 0
+        },
+        "cost": 0.001415,
+        "cost_details": {
+          "upstream_inference_completions_cost": 0.00046,
+          "upstream_inference_cost": 0.001415,
+          "upstream_inference_prompt_cost": 0.000955
+        },
+        "is_byok": false,
+        "prompt_tokens": 382,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_tokens": 0,
+          "video_tokens": 0
+        },
+        "total_tokens": 428
+      }
+    },
+    {
+      "at": "2026-09-29T11:46:34Z",
+      "model": "openai/gpt-4o",
+      "operation": "synthesize:client-interaction:0:1",
+      "usage": {
+        "completion_tokens": 383,
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 0
+        },
+        "cost": 0.00794,
+        "cost_details": {
+          "upstream_inference_completions_cost": 0.00383,
+          "upstream_inference_cost": 0.00794,
+          "upstream_inference_prompt_cost": 0.00411
+        },
+        "is_byok": false,
+        "prompt_tokens": 1644,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_tokens": 0,
+          "video_tokens": 0
+        },
+        "total_tokens": 2027
+      }
+    },
+    {
+      "at": "2026-09-29T11:46:36Z",
+      "model": "openai/gpt-4o",
+      "operation": "synthesize:sales-strategy:0:1",
+      "usage": {
+        "completion_tokens": 87,
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 0
+        },
+        "cost": 0.00272,
+        "cost_details": {
+          "upstream_inference_completions_cost": 0.00087,
+          "upstream_inference_cost": 0.00272,
+          "upstream_inference_prompt_cost": 0.00185
+        },
+        "is_byok": false,
+        "prompt_tokens": 740,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_tokens": 0,
+          "video_tokens": 0
+        },
+        "total_tokens": 827
+      }
+    },
+    {
+      "at": "2026-09-29T11:46:38Z",
+      "model": "openai/gpt-4o",
+      "operation": "synthesize:training-exercises:0:1",
+      "usage": {
+        "completion_tokens": 328,
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 0
+        },
+        "cost": 0.0073875,
+        "cost_details": {
+          "upstream_inference_completions_cost": 0.00328,
+          "upstream_inference_cost": 0.0073875,
+          "upstream_inference_prompt_cost": 0.0041075
+        },
+        "is_byok": false,
+        "prompt_tokens": 1643,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_tokens": 0,
+          "video_tokens": 0
+        },
+        "total_tokens": 1971
+      }
+    },
+    {
+      "at": "2026-09-29T11:46:43Z",
+      "model": "openai/gpt-4o",
+      "operation": "synthesize:overview:0:1",
+      "usage": {
+        "completion_tokens": 786,
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 0
+        },
+        "cost": 0.0112325,
+        "cost_details": {
+          "upstream_inference_completions_cost": 0.00786,
+          "upstream_inference_cost": 0.0112325,
+          "upstream_inference_prompt_cost": 0.0033725
+        },
+        "is_byok": false,
+        "prompt_tokens": 1349,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_tokens": 0,
+          "video_tokens": 0
+        },
+        "total_tokens": 2135
+      }
+    },
+    {
+      "at": "2026-09-29T11:46:45Z",
+      "model": "openai/gpt-4o",
+      "operation": "platform_behavior:linkedin",
+      "usage": {
+        "completion_tokens": 119,
+        "completion_tokens_details": {
+          "audio_tokens": 0,
+          "image_tokens": 0,
+          "reasoning_tokens": 0
+        },
+        "cost": 0.0038925,
+        "cost_details": {
+          "upstream_inference_completions_cost": 0.00119,
+          "upstream_inference_cost": 0.0038925,
+          "upstream_inference_prompt_cost": 0.0027025
+        },
+        "is_byok": false,
+        "prompt_tokens": 1081,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cache_write_tokens": 0,
+          "cached_tokens": 0,
+          "video_tokens": 0
+        },
+        "total_tokens": 1200
+      }
+    }
+  ],
+  "workspace": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/.pi/pipeline-v2/before-workspace"
+}

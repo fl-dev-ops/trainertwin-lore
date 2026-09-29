@@ -1,0 +1,37 @@
+profile:
+  id: '1662370751582728193'
+  name: Olga Sinenko
+  userName: Olga_Si_Sales
+  location: Dubai, UAE
+  url: ''
+  description: 11+ Years in Dubai Real Estate | Sales Trainer & Mentor | Human Behaviour, Buyer Psychology & Neuro-Emotional
+    Persuasion
+  entities:
+    description: {}
+  protected: false
+  isVerified: false
+  isBlueVerified: false
+  verifiedType: null
+  followers: 5
+  following: 2
+  favouritesCount: 1
+  statusesCount: 48
+  mediaCount: 11
+  createdAt: '2023-05-27T08:11:03.000000Z'
+  coverPicture: https://pbs.twimg.com/profile_banners/1662370751582728193/1783693292
+  profilePicture: https://pbs.twimg.com/profile_images/2075586213852176384/dfkwwMoZ_normal.jpg
+  canDm: false
+  affiliatesHighlightedLabel: {}
+  isAutomated: false
+  automatedBy: null
+  pinnedTweetIds:
+  - '1664595585410777090'
+  profile_interstitial_type: ''
+tweets:
+- id: '2102627755674509680'
+  date: '2026-09-23T05:14:56Z'
+  url: https://x.com/Olga_Si_Sales/status/2102627755674509680
+  likes: 0
+  retweets: 0
+  replies: 0
+  file: ./tweets/2026-09-23-in-dubai---september-2025.md

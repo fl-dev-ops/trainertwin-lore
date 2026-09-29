@@ -1,60 +1,117 @@
-# Source-grounded living wiki
+# TrainerTwin research pipeline
 
-Each person's files live together under `users/<slug>/`: curated `data/<channel>/` and generated `workspace/{wiki,reports,cache,...}/`. The pipeline recursively reads only that person's `data/` and maintains a separate wiki and reports. Default `--user olga` uses the migrated Olga corpus; use a lowercase slug such as `jane-doe` for another person. It accepts `.md`, `.markdown`, `.txt`, `.csv`, `.json`, `.jsonl`, `.yaml`, and `.yml`; it ignores binaries, hidden files, and metadata-only documents. Source files are never edited.
+Extract three distinct, source-backed products from public content:
 
-## Run
+1. **Knowledge & methods:** claims, goals, prerequisites, ordered steps, constraints, exceptions.
+2. **Teaching & interaction cases:** situation, learner cue, diagnosis, strategy, stated rationale, response, outcome.
+3. **Expression examples:** observable wording, structure, tone and rhetorical moves, with original context.
+
+Unknown information stays null/empty. A recorded exchange is not the same as a narrated exchange or illustration. Exact quotations establish source occurrence, not semantic entailment, external truth, or trainer likeness.
+
+```text
+read-only sources
+  → original snapshots + bounded citation units
+  → one source-local extraction → three typed record products
+  → deterministic wiki (no second LLM paraphrase)
+  → attributed twin observations + separately labeled proposed adaptations
+  → offline task-conditioned context / compiled research report
+  → optional field-level model audit + explicit human review
+```
+
+## Start safely
+
+There is one implementation in `pipeline/` and one normal workspace per user: `users/<slug>/workspace/`. Update this code in place; use Git history for rollback, not parallel pipeline copies.
+
+Stored-data format checks prevent incompatible records from being misread. If a workspace needs new extraction, run `ingest` again in that same workspace before building. Old flat cards cannot recover details they discarded. Sources and review history are preserved; no separate version-named workspace is required.
 
 ```sh
 uv sync
-# Set OPENROUTER_API_KEY in .env; optionally OPENROUTER_MODEL.
-uv run python -m pipeline status
-uv run python -m pipeline ingest --dry-run --include 'youtube/video/*.md' --include 'linkedin/posts/2026-09-21-which-problem-do-you-solve.md'
-uv run python -m pipeline ingest --model openai/gpt-4o --max-calls 20 --include 'youtube/video/*.md' --include 'linkedin/posts/2026-09-21-which-problem-do-you-solve.md'
-uv run python -m pipeline build --model openai/gpt-4o --max-calls 80
-uv run python -m pipeline lint
-uv run python -m pipeline analyze  # offline; writes users/olga/workspace/reports/{analysis,timeline}.md
+# Set OPENROUTER_API_KEY in .env; --model overrides OPENROUTER_MODEL.
+
+# Inspect parsing first; no API calls or ingestion writes.
+uv run python -m pipeline --user olga ingest --dry-run --include 'linkedin/posts/*.md' --limit 3
+
+# Bounded end-to-end ingestion → wiki → twin → report → validation.
+# Replace/add --author with exact aliases actually present in source metadata.
+uv run python -m pipeline --user olga run --author olgasi \
+  --model openai/gpt-4o --max-calls 20
 ```
 
-For an **Olga-only offline chronology preview**, run `uv run python -m pipeline.chronology` and open `users/olga/workspace/chronology.html` (or view `chronology.svg`). The hand-selected `pipeline/pilot-sources.txt` controls this preview; it joins source publication metadata to existing evidence JSONL when available, and shows unextracted sources explicitly. It needs no built wiki or API key. It is a sample, not a frequency chart of Olga's complete history. A selected YouTube transcript with no verified publication URL/date is withheld rather than paired with an older title-to-video mapping; the preview reports omissions.
+Defaults are `users/<slug>/data` and `users/<slug>/workspace`, selected by `--user` (default `olga`). Explicit `--data` and `--workspace` must be supplied together and must be separate, non-nested directories.
 
-For another person, collect into their folder and select it for every pipeline command. The unified date-bounded collector is documented in [`social/README.md`](../social/README.md):
+`--max-calls` is a shared **per-invocation logical request cap**, including repairs. It is not a lifetime or monetary cap: HTTP retries can make additional network requests. A live experiment needs a separately metered lifetime/spend limit; `scripts/run_pipeline_pilot.py` persists its `--max-calls` logical cap across reruns in the same workspace (HTTP retries still are not a monetary cap). This refactor's checks and demo require no paid calls.
+
+## Individual stages
+
+Use the same `--user SLUG` (or explicit `--data … --workspace …`) prefix for every command:
+
+| Command | Purpose | Model calls |
+| --- | --- | --- |
+| `status` | Count available/ingested files; list stale source revisions | None |
+| `ingest --model … --max-calls N` | Extract and validate all three products; resume from cache | Budgeted |
+| `build` | Render source/topic/category pages, timeline and product JSONL | None |
+| `twin --author ALIAS --model … --max-calls N` | Build attributed observation/adaptation candidates after `build` | Budgeted |
+| `analyze` | Compile current wiki and optional twin into `reports/analysis.md` | None |
+| `context 'QUESTION' --author ALIAS` | Emit a task-conditioned JSON packet | None |
+| `audit --model … --max-calls N` | Diagnose source support for every supplied substantive field | Budgeted |
+| `review --record-id ID --status supported --note '…'` | Append a human source-support review | None |
+| `verify --evidence-id ID --status verified --url URL --note '…'` | Append scoped human external review of a claim/self-report | None |
+| `lint` | Check records, source freshness, generated files and links | None |
+
+`ingest` and `run` accept repeated `--include` globs and `--limit`. `ingest`, `run`, and `twin` accept `--dry-run`; `run --dry-run` inspects source parsing only. `twin` also accepts `--max-sources`, repeated `--author`, and `--reviewed-only`. `--chunk-chars` bounds extraction windows or downstream batch items; a complete downstream example larger than the limit fails rather than being silently trimmed. Increase the limit explicitly.
+
+`context` accepts `--platform`, `--as-of YYYY-MM-DD`, `--max-records`, `--max-chars`, and `--reviewed-only`. It uses lexical relevance, returns the products separately with original source spans, preserves complete selected records, and abstains if nothing fits/matches. It is not semantic retrieval or a runtime chatbot. Undated sources are excluded when an as-of filter is supplied.
+
+`audit --record-id ID` can be repeated to select records. Audit responses must cover every field exactly once. Model verdicts remain diagnostics and do not mark records as human-reviewed or automatically remove them.
+
+## Sources and attribution
+
+Supported: Markdown/text, CSV text, JSON/JSONL, YAML, collector transcript turns and diarized entries. Hidden files, symlinks, binaries and recognized collection indexes are excluded. Generic structured documents use text-leaf flattening, not a complete platform adapter.
+
+- Preserve decoded originals, original passages, all nonempty turns (including **“Never.”**), locators, timestamps, supplied metadata and normalized content-family hashes.
+- Citation units are bounded to 800 characters and retain exact offsets into their original passage. Extraction includes adjacent units; contiguous record context is reconstructed without rewriting its wording. Complete passages remain in snapshots even when a record uses only a span.
+- Every substantive extracted field carries citations. A bad window receives at most one budgeted repair; persistent failure activates no partial source revision. Explicitly empty extraction is recorded as empty, not disguised as missing processing.
+- Written authorship does not identify the speaker of quoted dialogue. Numeric diarization IDs never establish identity. No objection-keyword rules reinterpret literal statements.
+- Twin generation requires explicit aliases, normalized only for whitespace, case and a leading `@`. Spoken examples require supplied speaker mappings; a channel owner is not assumed to speak every turn. Role-play is excluded from personal-behavior examples.
+- Author-filtered spoken knowledge requires all cited speech to be explicitly attributed to the requested aliases. Unknown or mixed attribution is withheld, not guessed.
+
+Optional `data/.source-metadata.yaml` (illustrative identities only):
+
+```yaml
+youtube/video/example.md:
+  date: '2026-09-01'
+  url: https://www.youtube.com/watch?v=EXAMPLE
+  format: qa
+  speakers:
+    '1': interviewer-name
+    '2': target-author-alias
+```
+
+Formats: `post`, `document`, `transcript`, `interview`, `qa`, `role_play`, `lesson`. Do not infer publication dates from filenames or identities from speaker numbers. Verify mappings before supplying them.
+
+## Twin observations are not a personality certificate
+
+The twin stage retains **all eligible case/expression records from selected publications**, deduplicates identical normalized content families, and balances selected publications across channels and dates. Actual selection/exclusion counts are reported; they are not confidence scores or extraction recall.
+
+Each observation includes a dimension, source scope, situation, qualification, support/counterexample IDs and exact quotations. `interaction` requires recorded Q&A/interview cases; narrated cases can support appropriately qualified teaching-strategy observations, not claims of recorded interaction. Cross-platform `general` scope requires distinct content from multiple channels. Adaptations have their own `when`, `action`, and `limits`, explicitly marked **proposed, not observed**. Batches are not globally reconciled into a personality model.
+
+## Storage, reviews and rebuilding
+
+See [SCHEMA.md](SCHEMA.md) for the record contract. Source snapshots and record files are content-addressed; a final manifest activates a completed source revision. These preserve provenance and interrupted-run safety, not alternative pipeline implementations. Publication-only metadata corrections reuse interpretation caches when possible, but new record IDs prevent old human reviews silently transferring to new evidence.
+
+Generated wiki/twin/audit/report directories have `build.json` receipts binding their files to inputs. Human/unmanaged files are not silently deleted; only obsolete files owned by an earlier receipt are pruned. CLI mutations use a single-writer lock. Direct library writers must use `storage.one_writer(workspace)`.
+
+Human `review` statuses: `supported`, `unsupported`, `uncertain`. Unsupported records remain in history but are withheld from serving views. External `verify` statuses: `verified`, `contradicted`; these assertions retain their URL/note/date but are not automatically authenticated. Contradiction is shown, not silently converted into a different claim.
+
+After ingestion/review changes, regenerate `build`, `twin` if used, `audit` if present, and then `analyze`. `lint` rejects stale/modified outputs. Do not edit generated Markdown; correct inputs or record a scoped review. Old `wiki/behavior/` and legacy summaries are not consumed as evidence.
+
+## Verify without paid calls
 
 ```sh
-uv run python -m social --user jane-doe --since 2026-08-01 --linkedin 'https://www.linkedin.com/in/janedoe/' --youtube 'https://www.youtube.com/@janedoe'
-uv run python -m pipeline --user jane-doe status
-uv run python -m pipeline --user jane-doe ingest --model openai/gpt-4o --max-calls 20
-uv run python -m pipeline --user jane-doe build --model openai/gpt-4o --max-calls 80
-uv run python -m pipeline --user jane-doe analyze
-uv run python -m pipeline --user jane-doe lint
+uv run python -m pytest -q pipeline/tests social/tests
+uv run python scripts/pipeline_demo.py --output /tmp/trainertwin-demo
 ```
 
-All four collection tools accept `--data-dir users/<slug>/data/<channel>`; YouTube also needs `--audios-dir users/<slug>/audios` for download/transcription. Omit `--user` only for Olga. `--include` accepts repeatable data-root-relative globs; without it, ingestion scans every supported research file in that person's `data/`. Advanced callers can override both roots together with `--data PATH --workspace PATH`. A separate workspace per corpus prevents cache, evidence, and report mixing; one lock guards each workspace independently. `analyze` retains Olga's curated persona intro only for `--user olga`; for other users it produces source-backed wiki findings, **not** an automatically inferred persona prompt. Write/review a persona specification separately before using it. `--dry-run`, `status`, and `lint` make **no API calls**. The `--max-calls` budget limits new logical requests per invocation, not provider-side retries or billing. Requests are resumable per chunk; rerun after a budget limit. Use a model/provider supporting OpenRouter strict structured output.
+The demo refuses an existing output directory. It builds all views, a twin candidate, field audits, task context and a report using **fixture-authored model responses**, asserts retained method/case details, then rebuilds with zero new calls. It is an integration check, not evidence of live extraction quality.
 
-## How pages update
-
-- Each source is fingerprinted by content and path; citations reference exact source units (Markdown line range, JSON pointer, or transcript turn and timestamp). Evidence records also carry `published_at` (ISO date/datetime or null), `source_url`, `author`, and `date_basis` (`source`, `sidecar`, or `unknown`). These are **publication** dates, not event dates or ingestion time. A snippet match is **not** external verification. Long values are whitespace-normalized and split into bounded units.
-- The latest committed evidence version is authoritative. A changed source replaces its active cards only on successful extraction. An LLM topic map merges synonymous labels across channels (`wiki/topic-map.json`) before synthesis. The current topic page is editorial context for a new version; **only current evidence IDs may support the new page**. Unaffected topics are reused.
-- `users/<slug>/data/.source-metadata.yaml` is an optional hidden path-to-metadata map for files like YouTube transcripts that lack publication data. Set `date`, `url`, `id`, `author` by relative path; record how externally obtained dates were checked (e.g. in YAML comments). Missing dates stay unknown. Updating metadata invalidates the completed evidence version but reuses cached text extraction without additional extraction calls.
-- `wiki/timeline.md` lists dated sources in publication order and undated sources separately. `wiki/topics/*.md` joins related evidence across channels. `wiki/categories/{behavior,methods,knowledge,offers}.md` and `wiki/channels/*.md` are navigation; `wiki/sources/*.md` expose per-file citations. `wiki/index.md`, `wiki/overview.md`, and append-only `wiki/log.md` complete the wiki. **`build` does not write a report.** `analyze` compiles `workspace/reports/analysis.md` from wiki Markdown without an API call or new reasoning (plus Olga's existing curated intro when selecting Olga), and a separate `reports/timeline.md`. Lint marks the report stale if wiki pages change. Do not manually edit generated pages: use reviewed source corrections or `verifications.jsonl` (see `SCHEMA.md`).
-- Invalid quotes or IDs are retried once; remaining unsupported individual items are dropped and logged as `rejected-item`, never published as evidence. Review the log for gaps. A raw transcription JSON and its cleaned YouTube YAML can both be discovered; they are **not independent corroboration**. For focused analysis, select the canonical copy with `--include`. New files do not enter the wiki until ingested.
-
-### External fact review
-
-```sh
-uv run python -m pipeline verify --evidence-id '...' --status verified \
-  --url 'https://example.org/primary-source' --note 'What was checked and when'
-uv run python -m pipeline build --model openai/gpt-4o
-uv run python -m pipeline analyze
-```
-
-`verify` records a **human assertion**, never automatically checks a URL. The generated wiki is a research draft, not a certified biography or a claim about unobserved private behavior. Refer to `SCHEMA.md` for evidence rules and caveats.
-
-## Checks
-
-```sh
-uv run ruff check pipeline
-uv run ruff format --check pipeline
-uv run python -m pytest -q pipeline/tests
-```
-
-Tests use a fake model and a mocked HTTP client; no key or paid calls are needed.
+Research rationale: [TRAINERTWIN_RESEARCH.md](../docs/research/TRAINERTWIN_RESEARCH.md). Current validation: [RESULTS.md](../docs/pipeline/RESULTS.md). Past evaluation measurements live under `docs/research/pipeline-evaluation/`; they are research records, not another runnable implementation. The chronology preview uses the same current record reader. MCP feature work, collectors and the profile UI are outside this refactor.

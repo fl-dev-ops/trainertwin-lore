@@ -1,0 +1,5 @@
+workspace/
+references/
+results/
+*.lock
+__pycache__/

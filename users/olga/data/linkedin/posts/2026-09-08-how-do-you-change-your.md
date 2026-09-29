@@ -4,6 +4,7 @@ date: '2026-09-08T06:00:10.742Z'
 url: https://www.linkedin.com/posts/olgasi_how-do-you-change-your-income-your-life-activity-7502969011404689408-G_GB
 likes: 22
 comments: 2
+images_count: 3
 ---
 
 How do you change your income, your life and yourself?
@@ -60,3 +61,11 @@ And !!! For Tony to Cement that into your Head - you have to Jump like crazy! Da
 
 But this is just a beginning- I’ll leave in a comments a daily Mental exercise- I’m planning to do for the next ….XYZ years.
 Just in case you want to try…
+
+## Comments (1)
+
+### Tahmina Yaqoob (Business Developer | Market Research Specialist | Helping Businesses Build Professional Websites & Boost Online Visibility | Relationship Builder | Community Connector)
+> Absolutely..... Olga Sinenko   our focus shapes the meaning we give to every situation, and that meaning influences our next action. Real growth starts when we learn to pause, reframe, and choose our response. 🔥
+> 
+> What’s one mental habit you’re planning to practice consistently?
+

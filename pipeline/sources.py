@@ -1,11 +1,11 @@
-"""Turn text files beneath a curated data root into cited, bounded source units."""
+"""Immutable source text, original passages and bounded citation units."""
 
 from __future__ import annotations
 
 import hashlib
 import json
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Any
@@ -14,8 +14,26 @@ from urllib.parse import urlparse
 import yaml
 
 EXTENSIONS = {".md", ".markdown", ".txt", ".json", ".jsonl", ".yaml", ".yml", ".csv"}
-UNIT_CHARS = 800  # Fits even the minimum --chunk-chars (1000), including labels.
-SOURCE_FORMAT_VERSION = "markdown-passages-v2"
+UNIT_CHARS = 800
+SOURCE_FORMAT_VERSION = "source-products-v4"
+FORMATS = {"post", "document", "transcript", "interview", "qa", "role_play", "lesson"}
+METADATA_KEYS = {
+    "id",
+    "url",
+    "file",
+    "date",
+    "published_at",
+    "upload_date",
+    "author",
+    "speakers",
+    "format",
+    "model",
+    "audio_file",
+    "job_id",
+    "channel_url",
+    "profilePicUrl",
+    "profileImageUrl",
+}
 
 
 @dataclass
@@ -32,6 +50,14 @@ class Source:
     date_basis: str = "unknown"
     metadata_hash: str = ""
     external_id: str = ""
+    format: str = "document"
+    speakers: dict[str, str] = field(default_factory=dict)
+    passages: list[dict] = field(default_factory=list)
+    original_text: str = ""
+    content_hash: str = ""
+    relative_path: str = ""
+    audience: str = ""
+    purpose: str = ""
 
 
 def paths(root: Path) -> list[Path]:
@@ -45,6 +71,7 @@ def paths(root: Path) -> list[Path]:
             part.startswith(".") or part == "__pycache__"
             for part in p.relative_to(root).parts
         )
+        and p.resolve().is_relative_to(root.resolve())
     )
 
 
@@ -54,28 +81,43 @@ def source_id(path: Path, root: Path) -> str:
     return f"{base}-{hashlib.sha256(relative.encode()).hexdigest()[:10]}"
 
 
+def spans(text: str):
+    """Bound original spans without losing words, short answers or punctuation."""
+    start = end = None
+    for match in re.finditer(r"\S+", text):
+        if start is not None and match.end() - start > UNIT_CHARS:
+            yield start, end
+            start = end = None
+        left = match.start()
+        while match.end() - left > UNIT_CHARS:
+            yield left, left + UNIT_CHARS
+            left += UNIT_CHARS
+        if start is None:
+            start = left
+        end = match.end()
+    if start is not None:
+        yield start, end
+
+
 def split_text(text: str):
-    """Split long values without dropping characters; no source unit exceeds 800 chars."""
-    text = " ".join(text.split())
-    while len(text) > UNIT_CHARS:
-        end = text.rfind(" ", 0, UNIT_CHARS + 1)
-        if end < UNIT_CHARS // 2:
-            end = UNIT_CHARS
-        yield text[:end]
-        text = text[end:].lstrip()
-    if text:
-        yield text
+    for start, end in spans(text):
+        yield " ".join(text[start:end].split())
 
 
 def flatten(obj: Any, pointer: str = ""):
     if isinstance(obj, dict):
         for key, value in obj.items():
-            part = str(key).replace("~", "~0").replace("/", "~1")
-            yield from flatten(value, f"{pointer}/{part}")
+            if str(key) not in METADATA_KEYS:
+                part = str(key).replace("~", "~0").replace("/", "~1")
+                yield from flatten(value, f"{pointer}/{part}")
     elif isinstance(obj, list):
         for n, value in enumerate(obj):
             yield from flatten(value, f"{pointer}/{n}")
-    elif isinstance(obj, str) and len(obj.strip()) >= 12:
+    elif (
+        isinstance(obj, str)
+        and len(obj.strip()) >= 12
+        and not obj.startswith(("http://", "https://"))
+    ):
         yield pointer or "/", obj
 
 
@@ -98,32 +140,51 @@ def normalize_date(value: Any) -> str:
 
 
 def read_source(path: Path, root: Path | None = None) -> Source | None:
-    root = root or path.parent
+    root = (root or path.parent).resolve()
+    if path.is_symlink() or not path.resolve().is_relative_to(root):
+        raise ValueError(f"Source escapes data root or is a symlink: {path}")
+    path = path.resolve()
     raw = path.read_bytes()
     text = raw.decode("utf-8-sig")
     relative = path.relative_to(root)
     ident = source_id(path, root)
-    metadata: dict = {}
-    units: list[dict] = []
+    metadata, units, passages = {}, [], []
     heading = ""
+    transcript = False
 
-    def add(value: str, locator: str, time: str = "", speaker: str = "") -> None:
-        for part, excerpt in enumerate(split_text(value), 1):
-            if len(excerpt) < 12:
-                continue
+    def add(value, locator, time="", speaker="", representation="authored_text"):
+        if not value.strip():
+            return
+        pid = f"{ident}:p{len(passages) + 1:06d}"
+        passages.append(
+            {
+                "id": pid,
+                "text": value,
+                "locator": locator,
+                "t": time,
+                "speaker_id": speaker,
+                "representation": representation,
+            }
+        )
+        for n, (start, end) in enumerate(spans(value), 1):
             units.append(
                 {
                     "id": f"{ident}:u{len(units) + 1:06d}",
-                    "locator": locator + (f" part {part}" if part > 1 else ""),
+                    "passage_id": pid,
+                    "locator": locator + (f" part {n}" if n > 1 else ""),
                     "t": time,
                     "speaker_id": speaker,
-                    "text": excerpt,
+                    "representation": representation,
+                    "text": " ".join(value[start:end].split()),
+                    "raw_text": value[start:end],
+                    "start": start,
+                    "end": end,
                 }
             )
 
     if path.suffix.lower() in {".md", ".markdown", ".txt", ".csv"}:
-        start = 0
         lines = text.splitlines()
+        start = 0
         if (
             path.suffix.lower() in {".md", ".markdown"}
             and lines
@@ -137,60 +198,58 @@ def read_source(path: Path, root: Path | None = None) -> Source | None:
             if not isinstance(metadata, dict):
                 raise ValueError(f"Invalid Markdown frontmatter: {path}")
             start = end + 1
-        passage: list[str] = []
-        first = start + 1
-        last = start + 1
-        if metadata.get("transcript") is True:
-            time = speaker = ""
-            for n in range(start, len(lines)):
-                value = lines[n].strip()
-                turn = re.fullmatch(
-                    r"### (\d{2,}:\d{2}:\d{2}) · Speaker (\S.*)", value
+        transcript = metadata.get("transcript") is True
+        representation = "spoken_turn" if transcript else "authored_text"
+        time = speaker = ""
+        first = last = None
+
+        def flush():
+            if first is not None:
+                add(
+                    "\n".join(lines[first : last + 1]),
+                    f"lines {first + 1}-{last + 1}",
+                    time,
+                    speaker,
+                    representation,
                 )
+
+        for n in range(start, len(lines)):
+            value = lines[n].strip()
+            if value.startswith(("### Quoting @", "## Comments")):
+                break  # Original text is retained; third-party sections are not extraction units.
+            turn = (
+                re.fullmatch(r"### (\d{2,}:\d{2}:\d{2}) · Speaker (\S.*)", value)
+                if transcript
+                else None
+            )
+            if turn or (transcript and value in {"## Caption", "## Transcript"}):
+                flush()
+                first = last = None
                 if turn:
-                    if time:
-                        if not passage:
-                            raise ValueError(f"Empty transcript turn in {path}")
-                        add(" ".join(passage), f"lines {first}-{last}", time, speaker)
                     time, speaker = turn.groups()
                     if any(int(v) >= 60 for v in time.split(":")[1:]):
-                        raise ValueError(
-                            f"Invalid transcript timestamp in {path}: {time}"
-                        )
-                    passage = []
-                elif time and value:
-                    if not passage:
-                        first = n + 1
-                    passage.append(value)
-                    last = n + 1
-            if not time or not passage:
-                raise ValueError(f"Missing transcript turns or text in {path}")
-            add(" ".join(passage), f"lines {first}-{last}", time, speaker)
-        else:
-            for n in range(start, len(lines)):
-                value = lines[n].strip()
-                if value.startswith(("### Quoting @", "## Comments")):
-                    break  # Stop parsing at comments or quoted tweets; they belong to third parties.
-                if (
-                    not value
-                    or value == "*"
-                    or (
-                        value.startswith("#")
-                        and all(word.startswith("#") for word in value.split())
+                        raise ValueError(f"Invalid transcript timestamp: {time}")
+                    representation = "spoken_turn"
+                else:
+                    time = speaker = ""
+                    representation = (
+                        "authored_text" if value == "## Caption" else "spoken_turn"
                     )
-                ):
-                    continue
-                if not heading:
-                    heading = value.lstrip("# ")[:110]
-                if passage and len(" ".join(passage)) + len(value) + 1 > UNIT_CHARS:
-                    add(" ".join(passage), f"lines {first}-{last}")
-                    passage = []
-                if not passage:
-                    first = n + 1
-                passage.append(value)
-                last = n + 1
-            if passage:
-                add(" ".join(passage), f"lines {first}-{last}")
+                continue
+            if not value or value == "*" or value == "> [No spoken dialogue detected]":
+                continue
+            if value.startswith("#") and all(
+                word.startswith("#") for word in value.split()
+            ):
+                continue
+            if not heading:
+                heading = value.lstrip("# ")[:110]
+            if transcript and not time and value.startswith("#"):
+                continue
+            if first is None:
+                first = n
+            last = n
+        flush()
     elif path.suffix.lower() == ".jsonl":
         for n, line in enumerate(text.splitlines(), 1):
             if line.strip():
@@ -201,33 +260,32 @@ def read_source(path: Path, root: Path | None = None) -> Source | None:
             json.loads(text) if path.suffix.lower() == ".json" else yaml.safe_load(text)
         )
         if isinstance(obj, dict):
-            if (
-                ("channel_url" in obj and isinstance(obj.get("videos"), list))
-                or (
-                    isinstance(obj.get("tweets"), list)
-                    and obj["tweets"]
-                    and all(
-                        isinstance(item, dict) and "file" in item
-                        for item in obj["tweets"]
-                    )
-                )
-                or (
-                    isinstance(obj.get("posts"), list)
-                    and obj["posts"]
-                    and all(
-                        isinstance(item, dict) and "file" in item
-                        for item in obj["posts"]
-                    )
-                    and "profile"
-                    not in obj  # pure post index; profile files stay (bio text)
-                )
-            ):
-                return None  # Collection indexes point to source files; not independent testimony.
             metadata = obj
+            if "channel_url" in obj and isinstance(obj.get("videos"), list):
+                return None
+            for name in ("posts", "tweets"):
+                if (
+                    name in obj
+                    and isinstance(obj[name], list)
+                    and all(isinstance(v, dict) and "file" in v for v in obj[name])
+                    and "profile" not in obj
+                ):
+                    return None
+            profile = obj.get("profile")
+            if isinstance(profile, dict):
+                metadata = {
+                    **obj,
+                    "author": obj.get("author")
+                    or profile.get("publicIdentifier")
+                    or profile.get("userName")
+                    or profile.get("username")
+                    or "",
+                }
         if isinstance(obj, dict) and isinstance(obj.get("turns"), list):
+            transcript = True
             for n, turn in enumerate(obj["turns"]):
                 if not isinstance(turn, dict) or not isinstance(turn.get("text"), str):
-                    raise ValueError(f"Invalid transcript turn {n} in {path}")  # noqa: TRY004 - invalid source document
+                    raise ValueError(f"Invalid transcript turn {n} in {path}")  # noqa: TRY004 - invalid document
                 time = str(turn.get("t", ""))
                 if time and (
                     not re.fullmatch(r"\d{2,}:\d{2}:\d{2}", time)
@@ -235,72 +293,106 @@ def read_source(path: Path, root: Path | None = None) -> Source | None:
                 ):
                     raise ValueError(f"Invalid timestamp in {path}: {time}")
                 add(
-                    turn["text"], f"/turns/{n}/text", time, str(turn.get("speaker", ""))
+                    turn["text"],
+                    f"/turns/{n}/text",
+                    time,
+                    str(turn.get("speaker", "")),
+                    "spoken_turn",
                 )
-        elif (
-            isinstance(obj, dict)
-            and isinstance(obj.get("diarized_transcript"), dict)
-            and isinstance(obj["diarized_transcript"].get("entries"), list)
-        ):
-            for n, entry in enumerate(obj["diarized_transcript"]["entries"]):
-                if isinstance(entry, dict) and isinstance(entry.get("transcript"), str):
-                    add(
-                        entry["transcript"],
-                        f"/diarized_transcript/entries/{n}/transcript",
-                        str(entry.get("start_time_seconds", "")),
-                        str(entry.get("speaker_id", "")),
-                    )
+        elif isinstance(obj, dict) and isinstance(obj.get("diarized_transcript"), dict):
+            transcript = True
+            for n, entry in enumerate(obj["diarized_transcript"].get("entries", [])):
+                if not isinstance(entry, dict) or not isinstance(
+                    entry.get("transcript"), str
+                ):
+                    raise ValueError(f"Invalid diarized entry {n} in {path}")  # noqa: TRY004 - invalid document
+                add(
+                    entry["transcript"],
+                    f"/diarized_transcript/entries/{n}/transcript",
+                    str(entry.get("start_time_seconds", "")),
+                    str(entry.get("speaker_id", "")),
+                    "spoken_turn",
+                )
         else:
-            for pointer, value in flatten(obj):
-                add(value, pointer)
+            content = (
+                obj.get("profile")
+                if isinstance(obj, dict) and isinstance(obj.get("profile"), dict)
+                else obj
+            )
+            for pointer, value in flatten(content):
+                add(value, ("/profile" if content is not obj else "") + pointer)
     if not units:
-        return None  # Metadata-only files (e.g. job IDs) contain no research text.
+        return None
     sidecar = root / ".source-metadata.yaml"
     overrides = (
-        (yaml.safe_load(sidecar.read_text(encoding="utf-8")) or {})
+        yaml.safe_load(sidecar.read_text(encoding="utf-8")) or {}
         if sidecar.exists()
         else {}
     )
     if not isinstance(overrides, dict):
-        raise ValueError(f"Invalid source metadata map: {sidecar}")  # noqa: TRY004 - malformed document
+        raise ValueError(f"Invalid source metadata map: {sidecar}")  # noqa: TRY004 - invalid document
     supplement = overrides.get(relative.as_posix(), {})
     if not isinstance(supplement, dict):
-        raise ValueError(f"Invalid source metadata for {relative}")  # noqa: TRY004 - malformed document
+        raise ValueError(f"Invalid source metadata for {relative}")  # noqa: TRY004 - invalid document
+    merged = {**metadata, **supplement}
     date_value = (
-        supplement.get("date")
-        or metadata.get("date")
-        or metadata.get("published_at")
-        or metadata.get("upload_date")
+        merged.get("date") or merged.get("published_at") or merged.get("upload_date")
     )
-    published_at = normalize_date(date_value)
-    url = str(supplement.get("url") or metadata.get("url") or "")
-    if url and urlparse(url).scheme not in ("http", "https"):
+    published = normalize_date(date_value)
+    url = str(merged.get("url") or "")
+    parsed = urlparse(url)
+    if url and (parsed.scheme not in {"https", "http"} or not parsed.hostname):
         raise ValueError(f"Invalid source URL in {relative}")
-    author = str(supplement.get("author") or metadata.get("author") or "")
-    if not author and url:
-        if "linkedin.com/posts/" in url:
-            author = url.split("/posts/", 1)[1].split("_", 1)[0]
-        elif "x.com/" in url or "twitter.com/" in url:
-            author = urlparse(url).path.strip("/").split("/", 1)[0]
+    author = str(merged.get("author") or "")
+    if not author:
+        host = (parsed.hostname or "").lower().removeprefix("www.")
+        if host == "linkedin.com" and parsed.path.startswith("/posts/"):
+            author = parsed.path.split("/posts/", 1)[1].split("_", 1)[0]
+        elif host in {"x.com", "twitter.com"}:
+            author = parsed.path.strip("/").split("/", 1)[0]
+    speakers = merged.get("speakers", {})
+    if not isinstance(speakers, dict) or not all(
+        isinstance(k, str) and isinstance(v, str) and k and v.strip()
+        for k, v in speakers.items()
+    ):
+        raise ValueError(f"Invalid explicit speaker mapping in {relative}")
+    default_format = (
+        "transcript"
+        if transcript
+        else "post"
+        if relative.parts[0] in {"linkedin", "twitter", "instagram"}
+        else "document"
+    )
+    source_format = merged.get("format", default_format)
+    if not isinstance(source_format, str) or source_format not in FORMATS:
+        raise ValueError(f"Invalid source format: {source_format!r}")
+    title = str(merged.get("title") or heading or path.stem)
     basis = (
         "sidecar"
-        if supplement.get("date")
-        else ("source" if published_at else "unknown")
+        if any(supplement.get(k) for k in ("date", "published_at", "upload_date"))
+        else "source"
+        if published
+        else "unknown"
     )
-    external_id = str(supplement.get("id") or metadata.get("id") or "")
-    title = str(
-        supplement.get("title") or metadata.get("title") or heading or path.stem
+    external_id = str(merged.get("id") or "")
+    audience, purpose = (
+        str(merged.get("audience") or ""),
+        str(merged.get("purpose") or ""),
     )
     metadata_hash = hashlib.sha256(
         json.dumps(
-            {
-                "date": published_at,
-                "url": url,
-                "author": author,
-                "date_basis": basis,
-                "external_id": external_id,
-                "title": title,
-            },
+            [
+                published,
+                url,
+                author,
+                basis,
+                external_id,
+                title,
+                source_format,
+                speakers,
+                audience,
+                purpose,
+            ],
             sort_keys=True,
         ).encode()
     ).hexdigest()
@@ -311,25 +403,30 @@ def read_source(path: Path, root: Path | None = None) -> Source | None:
         hashlib.sha256(raw).hexdigest(),
         relative.parts[0] if len(relative.parts) > 1 else "uncategorized",
         units,
-        published_at,
+        published,
         url,
         author,
         basis,
         metadata_hash,
         external_id,
+        source_format,
+        speakers,
+        passages,
+        text,
+        hashlib.sha256(" ".join(u["text"] for u in units).encode()).hexdigest(),
+        relative.as_posix(),
+        audience,
+        purpose,
     )
 
 
 def chunks(source: Source, max_chars: int) -> list[list[dict]]:
+    """Bound citation-unit windows; original passages remain stored independently."""
     if max_chars < 1000:
         raise ValueError("--chunk-chars must be at least 1000")
-    result: list[list[dict]] = []
-    current: list[dict] = []
-    size = 0
+    result, current, size = [], [], 0
     for unit in source.units:
-        length = len(unit["text"]) + 150
-        if length > max_chars:
-            raise ValueError(f"Unit {unit['id']} is too long; increase --chunk-chars")
+        length = len(unit["raw_text"]) + 150
         if current and size + length > max_chars:
             result.append(current)
             current, size = [], 0

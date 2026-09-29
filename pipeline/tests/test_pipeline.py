@@ -1,536 +1,243 @@
+"""End-to-end contracts; models/HTTP are mocked, original data is untouched."""
+
 import json
-import re
+import shutil
 import sys
 
 import httpx
 import pytest
 import yaml
 
-from pipeline import __main__ as pipeline_cli
-from pipeline import chronology
-from pipeline.chronology import evidence_for, published_datetime
+from pipeline import __main__ as cli
 from pipeline.client import ModelError, OpenRouter
-from pipeline.core import (
-    analyze,
-    build,
-    chunks,
-    extract_items,
-    group_topics,
-    ingest_one,
-    lint,
-    load_json,
-    read_source,
-    validate_findings,
-    verification_overlay,
-)
-from pipeline.sources import normalize_date, paths, source_id
+from pipeline.core import analyze, build, ingest_one, lint, read_records
+from pipeline.sources import chunks, normalize_date, paths, read_source
+from pipeline.storage import load_json
+from pipeline.tests.helpers import METHOD, FakeModel, post, transcript
+from pipeline.twin import build_twin
 
 
-class FakeModel:
-    model = "offline/fake"
-
-    def __init__(self, fail_at=0):
-        self.calls = 0
-        self.fail_at = fail_at
-
-    def complete(self, name, schema, system, user):
-        self.calls += 1
-        if self.calls == self.fail_at:
-            raise RuntimeError("temporary failure")
-        if name == "source_evidence":
-            match = re.search(r"\[(u\d{6})\] [^\n]+?: ([^\n]+)", user)
-            assert match
-            return {
-                "overview": "Coaching commentary on a client interaction.",
-                "items": [
-                    {
-                        "kind": "advice",
-                        "context": "advised",
-                        "topic": "client discovery",
-                        "statement": "Ask about the client's goals before proposing property options.",
-                        "unit_id": match[1],
-                        "quote": match[2][:35],
-                    }
-                ],
-            }
-        if name == "wiki_topic_groups":
-            labels = [x["topic"] for x in json.loads(user)]
-            return {"groups": [{"name": "client discovery", "topics": labels}]}
-        if name == "platform_behavior":
-            payload = json.loads(user)
-            plat = payload.get("platform", "general")
-            return {
-                "platform": plat,
-                "confidence": (
-                    "provisional" if payload.get("source_count", 0) < 5 else "high"
-                ),
-                "summary": f"Observed communication style and behavior on {plat}.",
-                "content_patterns": [
-                    f"Posts educational breakdowns and examples on {plat}."
-                ],
-                "communication_style": [
-                    f"Direct and structured communication style on {plat}."
-                ],
-                "decision_rules": ["Validates claims before proceeding with advice."],
-                "key_phrases": ["Ask about goals before pitching"],
-            }
-        batch = json.loads(user.split("Current source-backed evidence:\n", 1)[1])
-        refs = []
-        for item in batch:
-            refs.extend(item.get("support_ids", [item.get("id")]))
-        return {
-            "findings": [
-                {
-                    "finding": "The example supports asking questions before a property pitch.",
-                    "support_ids": list(dict.fromkeys(refs))[:3],
-                    "counter_ids": [],
-                    "qualification": "This is transcript-derived advice, not independently verified behavior.",
-                }
-            ]
-        }
-
-    def decide(self, state, questions, *, model="typesafe/jev-1.13"):
-        answers = {}
-        for q_name, q_val in questions.items():
-            q_type = q_val.get("type", "noul")
-            if q_type == "noul":
-                answers[q_name] = {"type": "noul", "noul": 0.9}
-            elif q_type == "choice":
-                opts = list(q_val.get("criteria", q_val.get("options", {})))
-                pick = opts[0] if opts else "default"
-                answers[q_name] = {
-                    "type": "choice",
-                    "choice": pick,
-                    "confidence": 0.95,
-                }
-        return answers
-
-
-def make_source(folder, ident, count=4):
-    folder.mkdir(parents=True, exist_ok=True)
-    path = folder / f"{ident}.yaml"
-    path.write_text(
-        yaml.safe_dump(
-            {
-                "id": ident,
-                "title": f"Interview {ident}",
-                "duration": "00:01:00",
-                "turns": [
-                    {
-                        "t": f"00:00:{i:02d}",
-                        "speaker": "1",
-                        "text": f"Ask a buyer about their goals and needs before sharing listings number {i}.",
-                    }
-                    for i in range(count)
-                ],
-            }
-        )
-    )
-    return path
-
-
-def test_ingest_build_resume_and_changed_source(tmp_path):
-    src_dir = tmp_path / "transcripts"
-    one = make_source(src_dir, "01", 4)
-    make_source(src_dir, "02", 2)
-    ws = tmp_path / "workspace"
+def test_source_to_three_views_and_zero_call_rebuild(tmp_path):
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    source = read_source(post(data), data)
     model = FakeModel()
-    source = read_source(one)
-    assert len(chunks(source, 1000)) == 1
-    assert ingest_one(source, ws, model, max_chars=1000, budget=[10])
+    assert ingest_one(source, ws, model, budget=[1])
     assert model.calls == 1
-    assert not ingest_one(source, ws, model, max_chars=1000, budget=[0])
-    ingest_one(read_source(src_dir / "02.yaml"), ws, model, max_chars=1000, budget=[10])
-    build(ws, src_dir, model, budget=[10], max_chars=5000)
-    assert not (ws / "wiki" / "analysis.md").exists()
-    assert not (ws / "reports" / "analysis.md").exists()
-    assert (ws / "wiki" / "topics" / "client-discovery.md").exists()
-    assert len((ws / "wiki" / "log.md").read_text().splitlines()) == 6
-    report = analyze(ws)
-    assert "Wiki-derived research draft" in report.read_text()
-    topic = ws / "wiki" / "topics" / "client-discovery.md"
-    topic.write_text(topic.read_text() + "\nWiki-only editorial note.\n")
-    with pytest.raises(ValueError, match="Stale analysis"):
-        lint(ws, src_dir)
+    assert not (ws / "wiki").exists()
+    assert not ingest_one(source, ws, model, budget=[0])
+    meta = load_json(ws / "manifest" / f"{source.id}.json")
+    document = load_json(ws / "sources" / meta["source_snapshot"])
+    assert document["original_text"] == source.original_text
+    assert document["path"] == "linkedin/post.md"
+    assert meta["products"] == {"knowledge": 1, "expression": 1}
+    page = build(ws, data, model, budget=[0])
+    assert page.exists() and model.calls == 1
+    topic = (ws / "wiki/topics/training-practice.md").read_text()
+    assert "60-second time limit" in topic
+    assert topic.index("### Steps") < topic.index("### Constraints")
+    assert "Not stated in the cited excerpt" in topic
+    assert "theoretically sound" not in topic
+    assert all(
+        (ws / "wiki" / f"{name}.jsonl").exists()
+        for name in ("knowledge", "cases", "expression")
+    )
+    twin = build_twin(ws, data, model, authors=["jane"], budget=[1])
+    assert model.calls == 2
+    assert "Proposed adaptation" in twin.read_text()
+    report = analyze(ws, user="jane")
+    assert "60-second time limit" in report.read_text()
+    assert lint(ws, data)["products"] == {"knowledge": 1, "expression": 1}
+    build(ws, data, model, budget=[0])
+    build_twin(ws, data, model, authors=["jane"], budget=[0])
     analyze(ws)
-    assert "Wiki-only editorial note." in report.read_text()
-    assert "Cross-topic synthesis" in report.read_text()
-    assert lint(ws, src_dir) == {"sources": 2, "evidence": 2, "topics": 1}
-    old_calls = model.calls
-    build(ws, src_dir, model, budget=[0], max_chars=5000)
-    assert model.calls == old_calls
-    assert lint(ws, src_dir)["sources"] == 2
-    make_source(src_dir, "01", 5)
-    with pytest.raises(ValueError, match="changed"):
-        build(ws, src_dir, model, budget=[10], max_chars=5000)
-    assert ingest_one(read_source(one), ws, model, max_chars=1000, budget=[10])
-    build(ws, src_dir, model, budget=[10], max_chars=5000)
-    with pytest.raises(ValueError, match="Stale analysis"):
-        lint(ws, src_dir)
-    analyze(ws)
-    assert lint(ws, src_dir)["sources"] == 2
-
-
-def test_user_roots_isolate_sources_and_reports(tmp_path, monkeypatch, capsys):
-    monkeypatch.setattr(pipeline_cli, "ROOT", tmp_path)
-    for user in ("olga", "jane-doe"):
-        root = tmp_path / "users" / user / "data"
-        make_source(root / "youtube" / "transcripts", user)
-        workspace = tmp_path / "users" / user / "workspace"
-        source = read_source(next(root.rglob("*.yaml")), root)
-        ingest_one(source, workspace, FakeModel(), max_chars=1000, budget=[1])
-        build(workspace, root, FakeModel(), budget=[10])
-        analyze(workspace, user=user)
-        report = (workspace / "reports" / "analysis.md").read_text()
-        assert lint(workspace, root)["sources"] == 1
-        assert "## 1. Platform-by-Platform Behavior & Communication" in report
-        assert (workspace / "wiki" / "behavior" / "youtube.md").exists()
-        assert (workspace / "reports" / "timeline.md").exists()
-
-    monkeypatch.setattr(sys, "argv", ["pipeline", "--user", "jane-doe", "status"])
-    pipeline_cli.cli()
-    assert "files=1 ingested=1 stale=[]" in capsys.readouterr().out
-    monkeypatch.setattr(sys, "argv", ["pipeline", "--user", "../olga", "status"])
-    with pytest.raises(SystemExit):
-        pipeline_cli.cli()
-    monkeypatch.setattr(
-        sys,
-        "argv",
-        ["pipeline", "--data", str(tmp_path / "users" / "jane-doe" / "data"), "status"],
-    )
-    with pytest.raises(SystemExit):
-        pipeline_cli.cli()
-
-
-def test_recursive_mixed_sources_share_topic(tmp_path):
-    root = tmp_path / "data"
-    youtube = root / "youtube" / "transcripts"
-    linkedin = root / "linkedin" / "posts"
-    make_source(youtube, "01")
-    linkedin.mkdir(parents=True)
-    post = linkedin / "buyers.md"
-    post.write_text(
-        "---\ndate: 2026-09-21\nurl: https://example.org/post\n---\n\nAsk a buyer about their goals and needs before sharing listings.\n"
-    )
-    raw = root / "other" / "notes.json"
-    raw.parent.mkdir()
-    raw.write_text(
-        json.dumps(
-            {
-                "notes": [
-                    "Ask a buyer about their goals and needs before sharing listings."
-                ]
-            }
-        )
-    )
-    (raw.parent / "job.json").write_text('{"job_id": "123"}')
-    (youtube.parent / "olga.yaml").write_text(
-        yaml.safe_dump(
-            {
-                "channel_url": "https://www.youtube.com/@OlgaSinenkoRealEstate/videos",
-                "videos": [
-                    {"title": "Example lecture on real estate coaching", "id": "123"}
-                ],
-            }
-        )
-    )
-    (root / "twitter").mkdir()
-    (root / "twitter" / "olga-tweets.yaml").write_text(
-        yaml.safe_dump(
-            {
-                "tweets": [
-                    {
-                        "file": "./tweets/post.md",
-                        "url": "https://x.com/Olga_Si_Sales/status/123",
-                    }
-                ]
-            }
-        )
-    )
-    found = [s for p in paths(root) if (s := read_source(p, root))]
-    assert len(found) == 3
-    by_channel = {s.category: s for s in found}
-    assert by_channel["linkedin"].id == source_id(post, root)
-    assert by_channel["linkedin"].title.startswith("Ask a buyer")
-    assert by_channel["linkedin"].units[0]["locator"] == "lines 6-6"
-    assert by_channel["other"].units[0]["locator"] == "/notes/0"
-    ws = tmp_path / "workspace"
-    model = FakeModel()
-    for source in found:
-        ingest_one(source, ws, model, max_chars=1000, budget=[10])
-    build(ws, root, model, budget=[30], max_chars=5000)
-    assert lint(ws, root)["sources"] == 3
-    topic = (ws / "wiki" / "topics" / "client-discovery.md").read_text()
-    assert "linkedin" in topic and "youtube" in topic
-    assert (ws / "wiki" / "channels" / "linkedin.md").exists()
-    assert (ws / "wiki" / "categories" / "methods.md").exists()
-    assert model.calls > 3
-    build(ws, root, model, budget=[0], max_chars=5000)
-
-
-def test_publication_metadata_and_sidecar_update(tmp_path):
-    root = tmp_path / "data"
-    post = root / "twitter" / "tweets" / "note.md"
-    post.parent.mkdir(parents=True)
-    post.write_text(
-        "---\nid: '123'\ndate: 'Sun Aug 02 03:00:09 +0000 2026'\nurl: https://x.com/Olga_Si_Sales/status/123\n---\n\nAsk clients what matters to them before describing a property.\n"
-    )
-    source = read_source(post, root)
-    assert source.date == "2026-08-02T03:00:09Z"
-    assert source.external_id == "123"
-    assert source.author == "Olga_Si_Sales"
-    assert source.date_basis == "source"
-    assert normalize_date("2026-04-15") == "2026-04-15"
-    ws = tmp_path / "workspace"
-    model = FakeModel()
-    ingest_one(source, ws, model, max_chars=1000, budget=[1])
-    evidence = (
-        ws
-        / "evidence"
-        / load_json(ws / "manifest" / f"{source.id}.json")["evidence_file"]
-    )
-    assert json.loads(evidence.read_text())["published_at"] == source.date
-    assert json.loads(evidence.read_text())["external_id"] == "123"
-    sidecar = root / ".source-metadata.yaml"
-    sidecar.write_text(
-        yaml.safe_dump(
-            {"twitter/tweets/note.md": {"date": "2026-08-03", "author": "Olga"}}
-        )
-    )
-    changed = read_source(post, root)
-    assert changed.date == "2026-08-03" and changed.date_basis == "sidecar"
-    assert len(evidence_for([changed], ws)[changed.id]) == 1
-    assert published_datetime(changed.date).utcoffset().total_seconds() == 0
-    with pytest.raises(ValueError, match="metadata"):
-        build(ws, root, model, budget=[10])
-    assert ingest_one(changed, ws, model, max_chars=1000, budget=[0])
-    assert model.calls == 1  # metadata changes reuse exact-content extraction
-    build(ws, root, model, budget=[10])
-    assert "2026-08-03" in (ws / "wiki" / "timeline.md").read_text()
-    assert lint(ws, root)["sources"] == 1
-
-
-def test_chronology_withholds_unmatched_youtube_metadata(tmp_path, monkeypatch):
-    root = tmp_path / "users" / "olga" / "data"
-    video = root / "youtube" / "transcripts" / "01.yaml"
-    video.parent.mkdir(parents=True)
-    video.write_text(
-        yaml.safe_dump(
-            {
-                "title": "A new unverified video title",
-                "turns": [
-                    {
-                        "t": "00:00:01",
-                        "speaker": "0",
-                        "text": "This transcript has content but no publication metadata.",
-                    }
-                ],
-            }
-        )
-    )
-    post = root / "linkedin" / "posts" / "dated.md"
-    post.parent.mkdir(parents=True)
-    post.write_text(
-        "---\ndate: '2026-03-01'\nurl: https://www.linkedin.com/posts/olgasi_example\n---\n\nA dated source with substantive text and an original URL.\n"
-    )
-    selection = tmp_path / "pilot-sources.txt"
-    selection.write_text("youtube/transcripts/01.yaml\nlinkedin/posts/dated.md\n")
-    monkeypatch.setattr(chronology, "ROOT", tmp_path)
-    monkeypatch.setattr(chronology, "SELECTION", selection)
-    selected, omitted = chronology.selected_sources()
-    assert [s.path for s in selected] == [post]
-    assert omitted == ["youtube/transcripts/01.yaml"]
-
-
-def test_quoted_tweet_is_not_attributed_to_author(tmp_path):
-    root = tmp_path / "data"
-    post = root / "twitter" / "tweets" / "post.md"
-    post.parent.mkdir(parents=True)
-    post.write_text(
-        "---\nurl: https://x.com/Olga_Si_Sales/status/123\n---\n\nI teach agents to ask better questions.\n\n### Quoting @someone_else:\n> I invented this other person's method.\n"
-    )
-    source = read_source(post, root)
-    assert len(source.units) == 1
-    assert "I teach agents" in source.units[0]["text"]
-    assert "I invented" not in source.units[0]["text"]
-
-
-def test_markdown_passage_allows_adjacent_line_quote(tmp_path):
-    root = tmp_path / "data"
-    post = root / "linkedin" / "post.md"
-    post.parent.mkdir(parents=True)
-    post.write_text(
-        "---\ndate: 2026-09-08\n---\n\nThis is why learning to control focus is not just positive thinking.\n\nIt is a practical life skill.\n"
-    )
-    source = read_source(post, root)
-    assert len(source.units) == 1
-    assert "positive thinking. It is a practical life skill." in source.units[0]["text"]
-    assert source.units[0]["locator"] == "lines 5-7"
-
-
-def test_bad_excerpt_is_repaired_once(tmp_path):
-    source = read_source(make_source(tmp_path / "transcripts", "01"))
-
-    class NeedsRepair(FakeModel):
-        def complete(self, name, schema, system, user):
-            result = super().complete(name, schema, system, user)
-            if self.calls == 1:
-                result["items"][0]["quote"] = "Unsupported fabricated quotation"
-            return result
-
-    model = NeedsRepair()
-    assert ingest_one(source, tmp_path / "workspace", model, max_chars=1000, budget=[2])
     assert model.calls == 2
 
 
-def test_bad_item_after_repair_is_logged_not_published(tmp_path):
-    source = read_source(make_source(tmp_path / "transcripts", "01"))
-
-    class MixedModel(FakeModel):
-        def complete(self, name, schema, system, user):
-            response = super().complete(name, schema, system, user)
-            if name == "source_evidence":
-                bad = dict(response["items"][0], unit_id="u999999")
-                response["items"].append(bad)
-            return response
-
-    ws = tmp_path / "workspace"
-    assert ingest_one(source, ws, MixedModel(), max_chars=1000, budget=[2])
-    assert "rejected-item" in (ws / "wiki" / "log.md").read_text()
-    assert lint(ws, source.path.parent)["evidence"] == 1
-
-
-def test_chunk_checkpoint_and_budget(tmp_path):
-    src = read_source(make_source(tmp_path / "transcripts", "01", 18))
-    ws = tmp_path / "workspace"
-    assert len(chunks(src, 1000)) > 1
+def test_chunks_resume_without_partial_source_commit(tmp_path):
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    source = read_source(transcript(data, count=18), data)
+    count = len(chunks(source, 1000))
+    assert count > 1
     with pytest.raises(RuntimeError, match="budget"):
-        ingest_one(src, ws, FakeModel(), max_chars=1000, budget=[1])
-    assert not (ws / "manifest" / f"{src.id}.json").exists()
-    cached = list((ws / "cache" / src.id).glob("*.json"))
-    assert len(cached) == 1
-    fake = FakeModel()
-    ingest_one(src, ws, fake, max_chars=1000, budget=[10])
-    assert fake.calls == len(chunks(src, 1000)) - 1
-    assert lint(ws, src.path.parent)["evidence"] == len(chunks(src, 1000))
-
-
-def test_large_topic_reduction_and_broken_links(tmp_path):
-    source_dir = tmp_path / "transcripts"
-    ws = tmp_path / "workspace"
+        ingest_one(source, ws, FakeModel(), budget=[1], max_chars=1000)
+    assert not (ws / "manifest" / f"{source.id}.json").exists()
+    assert len(list((ws / "cache/source_products").glob("*.json"))) == 1
     model = FakeModel()
-    for number in range(12):
-        source = read_source(make_source(source_dir, f"{number:02}"))
-        ingest_one(source, ws, model, max_chars=1000, budget=[1])
-    build(ws, source_dir, model, budget=[100], max_chars=1000)
-    assert lint(ws, source_dir)["sources"] == 12
-    assert not (ws / "reports" / "analysis.md").exists()
-    report = analyze(ws)
-    assert "Cross-topic synthesis" in report.read_text()
-    report.write_text(report.read_text() + "\n[broken](topics/missing.md)\n")
-    with pytest.raises(ValueError, match="Broken Markdown link"):
-        lint(ws, source_dir)
+    ingest_one(source, ws, model, budget=[20], max_chars=1000)
+    assert model.calls == count - 1
+    assert lint(ws, data)["sources"] == 1
 
 
-def test_topic_grouping_merges_labels_and_resumes(tmp_path):
-    cards = [
-        {"topic_slug": "questioning-techniques", "statement": "Ask better questions."},
-        {"topic_slug": "client-engagement", "statement": "Engage the client."},
-    ]
+def test_local_edit_reuses_unchanged_windows_and_invalidates_derived_outputs(tmp_path):
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    path = transcript(data, count=18)
     model = FakeModel()
-    mapped = group_topics(cards, tmp_path, model, [1])
-    assert mapped == {
-        "questioning-techniques": "client-discovery",
-        "client-engagement": "client-discovery",
-    }
-    assert group_topics(cards, tmp_path, model, [0]) == mapped
+    ingest_one(read_source(path, data), ws, model, budget=[20], max_chars=1000)
+    build(ws, data)
+    before = model.calls
+    previous = {r["id"] for r in read_records(ws, data)[0]}
+    content = yaml.safe_load(path.read_text())
+    content["turns"][-1]["text"] += " Ask about their timeline too."
+    path.write_text(yaml.safe_dump(content))
+    with pytest.raises(ValueError, match="changed"):
+        lint(ws, data)
+    ingest_one(read_source(path, data), ws, model, budget=[20], max_chars=1000)
+    assert 0 < model.calls - before < before
+    assert not previous & {r["id"] for r in read_records(ws, data)[0]}
+    with pytest.raises(ValueError, match="Stale"):
+        lint(ws, data)
+    build(ws, data)
+    assert lint(ws, data)["sources"] == 1
+
+
+def test_metadata_dates_can_reuse_extraction_but_authorship_cannot(tmp_path):
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    path = post(data)
+    model = FakeModel()
+    ingest_one(read_source(path, data), ws, model, budget=[1])
+    sidecar = data / ".source-metadata.yaml"
+    sidecar.write_text("linkedin/post.md:\n  date: '2026-02-01'\n")
+    ingest_one(read_source(path, data), ws, model, budget=[0])
     assert model.calls == 1
-
-
-def test_bad_synthesis_reference():
-    with pytest.raises(ValueError, match="unknown or no evidence"):
-        validate_findings(
-            {
-                "findings": [
-                    {
-                        "finding": "Test",
-                        "support_ids": ["fake"],
-                        "counter_ids": [],
-                        "qualification": "unverified",
-                    }
-                ]
-            },
-            {"valid"},
-        )
-
-
-def test_bad_quote_and_unknown_turn_are_rejected(tmp_path):
-    source = read_source(make_source(tmp_path, "01"))
-    piece = chunks(source, 1000)[0]
-    result = FakeModel().complete(
-        "source_evidence",
-        {},
-        "",
-        f"[{piece[0]['id'].rsplit(':', 1)[1]}] /turns/0/text time=00:00:00 speaker=1: {piece[0]['text']}",
+    sidecar.write_text(
+        "linkedin/post.md:\n  date: '2026-02-01'\n  author: another-author\n"
     )
-    result["items"][0]["quote"] = "A fabricated quote not in the transcript"
-    with pytest.raises(ValueError, match="Unsupported excerpt"):
-        extract_items(result, piece, source, 1)
-    result["items"][0]["quote"] = piece[0]["text"][:35]
-    result["items"][0]["unit_id"] = "u999999"
-    with pytest.raises(ValueError, match="Unsupported excerpt"):
-        extract_items(result, piece, source, 1)
+    ingest_one(read_source(path, data), ws, model, budget=[1])
+    assert model.calls == 2
+    assert normalize_date("Sun Aug 02 03:00:09 +0000 2026") == "2026-08-02T03:00:09Z"
 
 
-def test_quote_punctuation_recovery_keeps_literal_source(tmp_path):
-    source = read_source(make_source(tmp_path, "01"))
-    unit = source.units[0]
-    result = {
-        "overview": "Buyer example",
-        "items": [
+def test_incompatible_records_rebuild_in_the_same_workspace(tmp_path):
+    from pipeline.chronology import evidence_for
+
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    source = read_source(post(data), data)
+    (ws / "manifest").mkdir(parents=True)
+    (ws / "manifest" / f"{source.id}.json").write_text('{"source_format":"flat-cards"}')
+    with pytest.raises(ValueError, match="run ingest.*this workspace"):
+        read_records(ws, data)
+    with pytest.raises(ValueError, match="run ingest.*this workspace"):
+        evidence_for([source], ws)
+    ingest_one(source, ws, FakeModel(), budget=[1])
+    assert read_records(ws, data)[0][0]["product"] == "knowledge"
+    assert build(ws, data) == ws / "wiki/index.md"
+    assert lint(ws, data)["sources"] == 1
+
+
+def test_artifact_tampering_and_relocation(tmp_path):
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    source = read_source(post(data, name="space (one)"), data)
+    model = FakeModel()
+    ingest_one(source, ws, model, budget=[1])
+    build(ws, data)
+    build_twin(ws, data, model, authors=["jane"], budget=[1])
+    analyze(ws)
+    moved = tmp_path / "moved/nested/workspace"
+    shutil.copytree(ws, moved)
+    with pytest.raises(ValueError, match="Stale"):
+        lint(moved, data)
+    build(moved, data)
+    build_twin(moved, data, model, authors=["jane"], budget=[0])
+    analyze(moved)
+    assert lint(moved, data)["sources"] == 1
+    assert model.calls == 2
+    topic = moved / "wiki/topics/training-practice.md"
+    topic.write_text(topic.read_text() + "\nAn unsupported editorial claim.\n")
+    with pytest.raises(ValueError, match="Modified"):
+        lint(moved, data)
+    build(moved, data)
+    assert "unsupported editorial" not in topic.read_text()
+    meta = load_json(moved / "manifest" / f"{source.id}.json")
+    (moved / "sources" / meta["source_snapshot"]).write_text("{}")
+    with pytest.raises(ValueError, match="modified"):
+        read_records(moved, data)
+
+
+def test_uningested_bad_file_does_not_block_existing_records(tmp_path):
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    source = read_source(post(data), data)
+    ingest_one(source, ws, FakeModel(), budget=[1])
+    (data / "unprocessed.yaml").write_text("[invalid")
+    build(ws, data)
+    assert lint(ws, data)["sources"] == 1
+
+
+def test_cli_isolates_bad_sources_and_offline_build_needs_no_key(tmp_path, monkeypatch):
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    path = post(data)
+    (data / "a-bad.yaml").write_text("[invalid")
+    model = FakeModel()
+    monkeypatch.setattr(cli, "model_client", lambda _: model)
+    monkeypatch.setattr(
+        sys, "argv", ["pipeline", "--data", str(data), "--workspace", str(ws), "ingest"]
+    )
+    with pytest.raises(RuntimeError, match="incomplete"):
+        cli.cli()
+    assert (ws / "manifest" / f"{read_source(path, data).id}.json").exists()
+
+    def no_client(_):
+        pytest.fail("Offline build must not request an API client")
+
+    monkeypatch.setattr(cli, "model_client", no_client)
+    monkeypatch.setattr(
+        sys, "argv", ["pipeline", "--data", str(data), "--workspace", str(ws), "build"]
+    )
+    cli.cli()
+    assert (ws / "wiki/index.md").exists()
+
+
+def test_cli_shared_run_budget_and_user_paths(tmp_path, monkeypatch, capsys):
+    monkeypatch.setattr(cli, "ROOT", tmp_path)
+    data = tmp_path / "users/jane/data"
+    post(data)
+    model = FakeModel()
+    monkeypatch.setattr(cli, "model_client", lambda _: model)
+    monkeypatch.setattr(
+        sys,
+        "argv",
+        ["pipeline", "--user", "jane", "run", "--author", "jane", "--max-calls", "2"],
+    )
+    cli.cli()
+    assert model.calls == 2
+    assert (tmp_path / "users/jane/workspace/reports/analysis.md").exists()
+    monkeypatch.setattr(sys, "argv", ["pipeline", "--user", "../jane", "status"])
+    with pytest.raises(SystemExit):
+        cli.cli()
+    monkeypatch.setattr(sys, "argv", ["pipeline", "--user", "jane", "status"])
+    capsys.readouterr()
+    cli.cli()
+    assert json.loads(capsys.readouterr().out)["ingested"] == 1
+
+
+def test_profile_indexes_do_not_become_independent_post_evidence(tmp_path):
+    path = tmp_path / "profile.yaml"
+    path.write_text(
+        yaml.safe_dump(
             {
-                "kind": "advice",
-                "context": "advised",
-                "topic": "buyer questions",
-                "statement": "Ask the buyer about their goals before showing listings.",
-                "unit_id": unit["id"],
-                "quote": unit["text"][:-1] + "!",
+                "profile": {
+                    "publicIdentifier": "jane",
+                    "summary": "I teach practical communication skills.",
+                },
+                "posts": [
+                    {"file": "posts/example.md", "url": "https://example.org/post"}
+                ],
             }
-        ],
-    }
-    cards = extract_items(result, [unit], source, 1)
-    assert cards[0]["quote"] == unit["text"][:-1]
-    result["items"][0]["unit_id"] = unit["id"].rsplit(":", 1)[1]
-    assert extract_items(result, [unit], source, 1)[0]["unit_id"] == unit["id"]
-
-
-def test_verification_is_separate_human_record(tmp_path):
-    src = read_source(make_source(tmp_path / "transcripts", "01"))
-    ws = tmp_path / "workspace"
-    ingest_one(src, ws, FakeModel(), max_chars=1000, budget=[1])
-    evidence = (
-        ws / "evidence" / load_json(ws / "manifest" / f"{src.id}.json")["evidence_file"]
-    )
-    card = json.loads(evidence.read_text())
-    assert card["external_status"] == "not_checked"
-    (ws / "verifications.jsonl").write_text(
-        json.dumps(
-            {
-                "evidence_id": card["id"],
-                "status": "verified",
-                "url": "https://example.com/report",
-                "checked_at": "2026-09-24T00:00:00Z",
-                "note": "Human review",
-            }
         )
-        + "\n"
     )
-    verification_overlay([card], ws)
-    assert card["external_status"] == "verified"
-    assert json.loads(evidence.read_text())["external_status"] == "not_checked"
+    source = read_source(path, tmp_path)
+    assert source.author == "jane"
+    assert not any(
+        "example.md" in u["text"] or "https://" in u["text"] for u in source.units
+    )
+    (tmp_path / "index.yaml").write_text(
+        "channel_url: https://youtube.com/@jane\nvideos: []\n"
+    )
+    assert read_source(tmp_path / "index.yaml", tmp_path) is None
+    (tmp_path / ".hidden.md").write_text(METHOD)
+    assert all(not p.name.startswith(".") for p in paths(tmp_path))
 
 
-def test_openrouter_retries_and_requires_complete_json(monkeypatch):
+def test_openrouter_retries_complete_json_and_drops_previous_usage(monkeypatch):
     calls = []
 
     def handle(request):
@@ -540,18 +247,18 @@ def test_openrouter_retries_and_requires_complete_json(monkeypatch):
         return httpx.Response(
             200,
             json={
+                "usage": {"total_tokens": 10},
                 "choices": [
                     {"finish_reason": "stop", "message": {"content": '{"ok":true}'}}
-                ]
+                ],
             },
         )
 
     monkeypatch.setattr("pipeline.client.time.sleep", lambda _: None)
     client = OpenRouter("fake", "test/model", transport=httpx.MockTransport(handle))
     assert client.complete("test", {}, "system", "user") == {"ok": True}
-    body = json.loads(calls[0].content)
-    assert body["provider"]["require_parameters"] is True
-    assert body["response_format"]["json_schema"]["strict"] is True
+    assert len(calls) == 2
+    assert json.loads(calls[-1].content)["response_format"]["json_schema"]["strict"]
     client.close()
     bad = OpenRouter(
         "fake",
@@ -567,105 +274,92 @@ def test_openrouter_retries_and_requires_complete_json(monkeypatch):
             )
         ),
     )
+    bad.last_usage = {"total_tokens": 999}
     with pytest.raises(ModelError, match="Incomplete"):
         bad.complete("test", {}, "system", "user")
+    assert bad.last_usage == {}
     bad.close()
 
 
-def test_mcp_server_tools(tmp_path, monkeypatch):
-    from pipeline import mcp
+def test_chronology_uses_main_field_citation_not_first_json_key(tmp_path):
+    from pipeline.chronology import evidence_for
 
-    monkeypatch.setattr(mcp, "ROOT", tmp_path)
-    root = tmp_path / "users" / "test-user" / "data"
-    make_source(root / "youtube" / "transcripts", "01")
-    ws = tmp_path / "users" / "test-user" / "workspace"
-    source = read_source(next(root.rglob("*.yaml")), root)
-    ingest_one(source, ws, FakeModel(), max_chars=1000, budget=[1])
-    build(ws, root, FakeModel(), budget=[10])
-    analyze(ws, user="test-user")
-
-    status_raw = mcp.get_status("test-user")
-    status_data = json.loads(status_raw)
-    assert status_data["sources_ingested"] == 1
-    assert status_data["stale_manifests_count"] == 0
-
-    lint_raw = mcp.lint_workspace("test-user")
-    lint_data = json.loads(lint_raw)
-    assert lint_data["status"] == "ok"
-    assert lint_data["evidence"] == 1
-
-    report_text = mcp.read_report("test-user", "analysis")
-    assert "Platform-by-Platform Behavior" in report_text
-
-    topics_raw = mcp.get_wiki_topic("test-user", "list")
-    topics_data = json.loads(topics_raw)
-    assert "client-discovery" in topics_data["topics"]
-
-
-def test_mcp_ingest_build_and_metadata_only_sources(tmp_path, monkeypatch):
-    from pipeline import mcp
-
-    monkeypatch.setattr(mcp, "ROOT", tmp_path)
-    root = tmp_path / "users" / "jane-doe" / "data"
-    make_source(root / "youtube" / "transcripts", "01")
-    (root / "youtube" / "channel.yaml").write_text(
-        yaml.safe_dump({"channel_url": "https://youtube.com/@jane", "videos": []})
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    source = read_source(post(data), data)
+    ingest_one(source, ws, FakeModel(), budget=[1])
+    records, _ = read_records(ws, data)
+    method = next(r for r in records if r["product"] == "knowledge")
+    display = next(
+        r for r in evidence_for([source], ws)[source.id] if r["id"] == method["id"]
     )
+    assert display["kind"] == "teaching_move"
+    assert display["quote"] == method["content"]["summary"]["citations"][0]["quote"]
+    assert (
+        display["quote"] != method["content"]["constraints"][0]["citations"][0]["quote"]
+    )
+
+
+def test_pilot_uses_current_pipeline_and_preserves_lifetime_cap(tmp_path, monkeypatch):
+    from scripts import run_pipeline_pilot
+
+    data, ws = tmp_path / "data", tmp_path / "workspace"
+    output = tmp_path / "pilot.json"
+    post(data)
+    clients = []
+
+    class OfflineClient(FakeModel):
+        def __init__(self, key, model):
+            super().__init__()
+            self.model = model
+            clients.append(self)
+
+    monkeypatch.setattr("pipeline.client.OpenRouter", OfflineClient)
+    monkeypatch.setenv("OPENROUTER_API_KEY", "offline-test-key")
+    args = [
+        "pilot",
+        "--data",
+        str(data),
+        "--workspace",
+        str(ws),
+        "--output",
+        str(output),
+        "--max-calls",
+        "1",
+    ]
+    monkeypatch.setattr(sys, "argv", args)
+    run_pipeline_pilot.main()
+    report = load_json(output)
+    assert report["records"] == 2 and report["total_logical_calls"] == 1
+    assert report["code_root"] == str(cli.ROOT)
+    run_pipeline_pilot.main()
+    assert sum(client.calls for client in clients) == 1
+    post(data, "second")
+    with pytest.raises(SystemExit) as stopped:
+        run_pipeline_pilot.main()
+    assert stopped.value.code == 1
+    assert load_json(ws / "pilot-meter.json")["calls"] == 1
+    assert sum(client.calls for client in clients) == 1
+    monkeypatch.setattr(sys, "argv", args + ["--code-root", "."])
+    with pytest.raises(SystemExit) as invalid:
+        run_pipeline_pilot.main()
+    assert invalid.value.code == 2
+
+
+def test_existing_mcp_entry_points_still_use_core(tmp_path, monkeypatch):
+    from pipeline import mcp
+
+    monkeypatch.setattr(mcp, "ROOT", tmp_path)
+    root = tmp_path / "users/jane/data"
+    post(root)
     model = FakeModel()
-    model.close = lambda: None
     monkeypatch.setattr(mcp, "_get_client", lambda _: model)
-
-    preview = json.loads(mcp.run_ingest("jane-doe", dry_run=True))
-    assert preview["sources_to_process"] == 1
-    assert preview["estimated_chunks"] == 1
-    assert "using 1 extraction call" in mcp.run_ingest("jane-doe", max_calls=5)
-    assert "using 0 extraction call" in mcp.run_ingest("jane-doe", max_calls=5)
-    assert "Build completed" in mcp.build_wiki("jane-doe", max_calls=20)
-    assert json.loads(mcp.lint_workspace("jane-doe"))["evidence"] == 1
-
-
-def test_mcp_read_paths_stay_in_user_workspace(tmp_path, monkeypatch):
-    from pipeline import mcp
-
-    monkeypatch.setattr(mcp, "ROOT", tmp_path)
-    root = tmp_path / "users" / "jane-doe"
-    (root / "data").mkdir(parents=True)
-    (root / "workspace" / "wiki" / "behavior").mkdir(parents=True)
-    (root / "workspace" / "reports").mkdir()
-    (root / "workspace" / "reports" / "analysis.md").write_text("Private report")
-    outside = tmp_path / "outside.md"
-    outside.write_text("Private outside text")
-
-    assert "Unknown report name" in mcp.read_report("jane-doe", str(outside.with_suffix("")))
-    assert "Invalid topic slug" in mcp.get_wiki_topic("jane-doe", "../../reports/analysis")
-    assert "lowercase slug" in mcp.read_report("../jane-doe", "analysis")
-    (root / "workspace" / "reports" / "timeline.md").symlink_to(outside)
-    assert "inside the workspace" in mcp.read_report("jane-doe", "timeline")
-    assert mcp.read_report("jane-doe", "analysis") == "Private report"
-
-
-def test_profile_uses_selected_user_metadata_and_escapes_posts(tmp_path, monkeypatch):
-    from pipeline import profile
-
-    monkeypatch.setattr(profile, "ROOT", tmp_path)
-    data = tmp_path / "users" / "jane-doe" / "data"
-    (data / "linkedin" / "posts").mkdir(parents=True)
-    (data / "youtube").mkdir()
-    (data / "linkedin" / "jane.yaml").write_text(
-        yaml.safe_dump({"profile": {"fullName": "Jane <Doe>", "headline": "Coach", "summary": "Learning <together>", "url": "https://linkedin.com/in/jane"}})
+    assert "using 1 extraction call" in mcp.run_ingest("jane", max_calls=1)
+    assert "using 0 extraction call" in mcp.run_ingest("jane", max_calls=0)
+    assert "Build completed" in mcp.build_wiki("jane", max_calls=0)
+    assert "compiled" in mcp.analyze_persona("jane")
+    assert json.loads(mcp.lint_workspace("jane"))["sources"] == 1
+    assert (
+        "training-practice" in json.loads(mcp.get_wiki_topic("jane", "list"))["topics"]
     )
-    (data / "linkedin" / "posts" / "note.md").write_text(
-        "---\nurl: 'https://linkedin.com/posts/jane'\n---\n\n<script>alert(1)</script>\n"
-    )
-    (data / "youtube" / "channel.yaml").write_text(
-        yaml.safe_dump({"channel_url": "https://youtube.com/@jane", "videos": [{"id": "abc123", "title": "A <video>", "url": "https://youtube.com/watch?v=abc123"}]})
-    )
-    html = profile.build_profile("jane-doe").read_text()
-    assert "Jane &lt;Doe&gt;" in html and "Learning &lt;together&gt;" in html
-    assert "A &lt;video&gt;" in html and "&lt;script&gt;" in html
-    assert "Olga" not in html and "olgasi" not in html
-    assert 'class="verified-badge"' not in html
-    assert "https://linkedin.com/in/jane" in html
-    with pytest.raises(ValueError, match="lowercase slug"):
-        profile.build_profile("../jane-doe")
-
+    assert "Unknown report" in mcp.read_report("jane", "../../secret")
+    assert "Invalid topic" in mcp.get_wiki_topic("jane", "../secret")

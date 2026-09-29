@@ -128,6 +128,8 @@ Yes - on my YouTube detailed Time management for agents!
 
 ---
 
+For single-image posts and carousel slides, the collector uses Gemini Flash through OpenRouter to read visible text. It saves OCR text (and available alt text) in the post Markdown, never the image file. Image posts without an accessible image URL keep their caption unchanged. Reels use Sarvam for spoken transcripts.
+
 ## CLI Options Reference
 
 | Argument | Description | Default |

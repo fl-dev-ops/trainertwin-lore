@@ -4,6 +4,7 @@ import argparse
 import os
 import re
 import sys
+import time
 from datetime import UTC, date, datetime
 from pathlib import Path
 from typing import Any
@@ -13,9 +14,17 @@ import yaml
 from dotenv import load_dotenv
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-if __package__ is None:  # Allow direct script invocation after moving under social/.
+if __package__ is None or not __package__:  # Allow direct script invocation after moving under social/.
     sys.path.insert(0, str(PROJECT_ROOT))
-from social.dates import in_window
+    from social.dates import in_window
+    from social.gemini import ocr_image_url
+    from social.progress import status, track
+    from social.transcribe import transcribe_media_url
+else:
+    from ..dates import in_window
+    from ..gemini import ocr_image_url
+    from ..progress import status, track
+    from ..transcribe import transcribe_media_url
 
 load_dotenv(PROJECT_ROOT / ".env")
 load_dotenv()
@@ -40,16 +49,28 @@ def extract_username(target: str) -> str:
 
 
 def run_apify_actor(actor_id: str, input_payload: dict[str, Any], api_key: str) -> list[dict[str, Any]]:
-    """Run an Apify actor synchronously and return its dataset items."""
+    """Run an Apify actor synchronously with retries on transient gateway errors."""
     url = f"{APIFY_BASE}/{actor_id}/run-sync-get-dataset-items"
     params = {"token": api_key}
-    with httpx.Client(timeout=180.0) as client:
-        resp = client.post(url, params=params, json=input_payload)
-        if resp.status_code != 200 and resp.status_code != 201:
-            print(f"Error {resp.status_code} running Apify actor {actor_id}: {resp.text}", file=sys.stderr)
-            sys.exit(1)
-        data = resp.json()
-        return data if isinstance(data, list) else []
+    for attempt in range(4):
+        status(f"Instagram: waiting for {actor_id} (attempt {attempt + 1}/4)")
+        try:
+            with httpx.Client(timeout=180.0) as client:
+                resp = client.post(url, params=params, json=input_payload)
+                if resp.status_code in (429, 500, 502, 503, 504):
+                    if attempt == 3:
+                        raise RuntimeError(f"Apify actor {actor_id} returned {resp.status_code} after retries")
+                    time.sleep(2**attempt * 4)
+                    continue
+                if resp.status_code not in (200, 201):
+                    raise RuntimeError(f"Error {resp.status_code} running Apify actor {actor_id}: {resp.text[:200]}")
+                data = resp.json()
+                return data if isinstance(data, list) else []
+        except (httpx.TimeoutException, httpx.NetworkError) as exc:
+            if attempt == 3:
+                raise RuntimeError(f"Apify actor {actor_id} connection failed: {exc}") from exc
+            time.sleep(2**attempt * 4)
+    return []
 
 
 def fetch_profile(username: str, api_key: str) -> dict[str, Any]:
@@ -77,9 +98,9 @@ def fetch_profile(username: str, api_key: str) -> dict[str, Any]:
 def normalize_post_type(item: dict[str, Any]) -> str:
     raw_type = item.get("type", "").lower()
     prod = item.get("productType", "").lower()
-    if raw_type == "video" or prod == "clips":
+    if raw_type in ("video", "reel", "reels") or prod == "clips":
         return "reel"
-    if raw_type == "sidecar" or prod == "carousel_container":
+    if raw_type in ("sidecar", "carousel") or prod == "carousel_container":
         return "carousel"
     return "image"
 
@@ -151,12 +172,14 @@ def save_posts_to_markdown(
     posts: list[dict[str, Any]],
     posts_dir: Path,
     rel_prefix: str = "./posts",
+    transcribe_reels: bool = True,
+    ocr_images: bool = True,
 ) -> list[dict[str, Any]]:
     posts_dir.mkdir(parents=True, exist_ok=True)
     seen_filenames: set[str] = set()
     post_index: list[dict[str, Any]] = []
 
-    for p in posts:
+    for p in track(posts, "Instagram posts / enrichment", unit="post"):
         post_id = str(p.get("id") or "")
         ptype = normalize_post_type(p)
         url = p.get("url") or f"https://www.instagram.com/p/{p.get('shortCode')}/"
@@ -165,7 +188,10 @@ def save_posts_to_markdown(
         likes = p.get("likesCount", 0)
         comments_count = p.get("commentsCount", 0)
         views = p.get("videoViewCount") or p.get("videoPlayCount")
+        duration = p.get("videoDuration") or p.get("duration")
         location = p.get("locationName")
+        audio_info = p.get("musicInfo") or p.get("audio") or {}
+        child_posts = p.get("childPosts") or []
 
         filename = make_post_filename(caption, post_id, date_str, ptype, seen_filenames)
         filepath = posts_dir / filename
@@ -180,14 +206,76 @@ def save_posts_to_markdown(
         }
         if views is not None:
             frontmatter["views"] = views
+        if duration is not None:
+            frontmatter["duration"] = duration
         if location:
             frontmatter["location"] = location
+        if audio_info and isinstance(audio_info, dict):
+            artist = audio_info.get("artistName")
+            song = audio_info.get("songName")
+            if artist or song:
+                frontmatter["audio"] = {"artist": artist or "", "song": song or ""}
+        if child_posts:
+            frontmatter["slide_count"] = len(child_posts)
 
         video_url = p.get("videoUrl")
         if ptype == "reel" and video_url:
             frontmatter["videoUrl"] = video_url
 
-        # Check for firstComment or latestComments
+        # Reel Audio Transcription via Sarvam AI
+        transcript_section = ""
+        if ptype == "reel" and transcribe_reels:
+            pre_transcript = p.get("transcript")
+            turns: list[dict[str, str]] = []
+            if isinstance(pre_transcript, str) and len(pre_transcript.strip()) > 10:
+                turns = [{"t": "00:00:00", "speaker": "1", "text": pre_transcript.strip()}]
+            else:
+                # Prefer permanent post URL (which yt-dlp resolves fresh), fallback to video_url
+                target_url = url or video_url
+                if target_url:
+                    turns = transcribe_media_url(target_url)
+                    if not turns and video_url and video_url != target_url:
+                        turns = transcribe_media_url(video_url)
+            if turns:
+                frontmatter["transcript"] = True
+                t_lines = ["\n\n## Transcript\n"]
+                for t in turns:
+                    t_lines.append(f"### {t['t']} · Speaker {t['speaker']}\n\n{t['text']}\n")
+                transcript_section = "\n".join(t_lines)
+
+        # Carousel Slides Extraction & Gemini Flash OCR
+        carousel_section = ""
+        if ptype == "carousel" and child_posts:
+            c_lines = [f"\n\n## Carousel Slides ({len(child_posts)})\n"]
+            for idx, child in enumerate(
+                track(child_posts, f"Instagram {post_id} slides / OCR", unit="slide"), 1
+            ):
+                c_lines.append(f"### Slide {idx}\n")
+                alt = (child.get("alt") or child.get("accessibilityCaption") or "").strip()
+                if alt:
+                    c_lines.append(f"> Alt text: {alt}\n")
+                slide_img = child.get("displayUrl") or (child.get("images") or [None])[0]
+                if ocr_images and slide_img:
+                    ocr_text = ocr_image_url(slide_img)
+                    if ocr_text:
+                        c_lines.append(f"\n{ocr_text}\n")
+            carousel_section = "\n".join(c_lines)
+
+        image_section = ""
+        if ptype == "image":
+            image_parts = []
+            alt = p.get("alt") or p.get("accessibilityCaption")
+            if alt:
+                image_parts.append(f"> Alt text: {alt}")
+            image_url = p.get("displayUrl") or (p.get("images") or [None])[0]
+            if ocr_images and image_url:
+                status(f"Instagram {post_id}: OCR image")
+                if ocr_text := ocr_image_url(image_url):
+                    image_parts.append(ocr_text)
+            if image_parts:
+                image_section = "\n\n## Image Text\n\n" + "\n\n".join(image_parts)
+
+        # Comments Section
         comments_section = ""
         latest_comments = p.get("latestComments", [])
         if latest_comments and isinstance(latest_comments, list):
@@ -200,7 +288,7 @@ def save_posts_to_markdown(
             comments_section = "\n".join(comment_lines)
 
         fm_yaml = yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True).strip()
-        md_content = f"---\n{fm_yaml}\n---\n\n## Caption\n{caption}{comments_section}\n"
+        md_content = f"---\n{fm_yaml}\n---\n\n## Caption\n{caption}{transcript_section}{carousel_section}{image_section}{comments_section}\n"
         filepath.write_text(md_content, encoding="utf-8")
 
         entry: dict[str, Any] = {
@@ -214,6 +302,12 @@ def save_posts_to_markdown(
         }
         if views is not None:
             entry["views"] = views
+        if duration is not None:
+            entry["duration"] = duration
+        if child_posts:
+            entry["slide_count"] = len(child_posts)
+        if transcript_section:
+            entry["hasTranscript"] = True
         post_index.append(entry)
 
     return post_index

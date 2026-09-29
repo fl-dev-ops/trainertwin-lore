@@ -1,0 +1,62 @@
+{
+  "artifacts": {
+    "examples.jsonl": "8ba10fff72ecaf83bfbed519742cddb5338e43a107fc2020c5adb08809a0b463",
+    "profile.md": "504feb5091eb551737dbfd85762e9a13c606d17f9ed2c7902f13b1785fd337eb"
+  },
+  "config": {
+    "authors": [
+      "olgasi"
+    ],
+    "max_chars": 15000,
+    "max_sources": 8,
+    "model": "openai/gpt-4o"
+  },
+  "coverage": {
+    "active_cards": 12,
+    "active_sources": 2,
+    "eligible_content_families": 2,
+    "eligible_sources": 2,
+    "excluded_sources": {},
+    "policy": "one intact context window per eligible source; deduplicate content; alternate oldest/newest, round-robin channels",
+    "quality_warning": "Selection coverage is not extraction recall or confidence in a personality.",
+    "repeated_content_omitted": 0,
+    "selected_by_channel": {
+      "linkedin": 2
+    },
+    "selected_examples": 2,
+    "selected_publication_dates": [
+      "2023-06-19T16:42:22.176000Z",
+      "2026-01-19T04:15:17.016000Z"
+    ],
+    "selected_sources": 2,
+    "selection_limit_omitted": 0
+  },
+  "evidence_signature": "96ca52cd762a1a4dda28ca4924e80feb5d2b3664e2a6dd398eb88cc028bf6c37",
+  "generated_at": "2026-09-29T11:47:15Z",
+  "patterns": [
+    {
+      "counter_ids": [],
+      "dimension": "expression",
+      "pattern": "Emphasizes the value of guiding clients to self-discovery through strategic questioning rather than direct persuasion.",
+      "qualification": "The approach is explained in theory through posts without given examples of practice beyond narrative illustration.",
+      "scope": "linkedin",
+      "situation": "Communicating sales strategies to an audience",
+      "support_ids": [
+        "ex-b45adcc3435addd7"
+      ]
+    },
+    {
+      "counter_ids": [],
+      "dimension": "expression",
+      "pattern": "Presents creative exercises structured as step-by-step instructions for practicing spontaneous thinking.",
+      "qualification": "The exercise format is descriptive, used for sharing self-improvement techniques, not engaging in dialogue.",
+      "scope": "linkedin",
+      "situation": "Sharing exercises for skill development",
+      "support_ids": [
+        "ex-12d419050c27a24d"
+      ]
+    }
+  ],
+  "review_status": "unreviewed",
+  "signature": "8ae371e28a9a7af44133207a4682fc33f49049a38f04663cd4a3c8a69171b39e"
+}

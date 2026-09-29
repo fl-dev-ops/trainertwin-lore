@@ -18,6 +18,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if __package__ is None:  # Allow `python social/linkedin/cli.py` as well as `python -m social.linkedin.cli`.
     sys.path.insert(0, str(PROJECT_ROOT))
 from social.dates import published_day
+from social.progress import status, track
 
 load_dotenv(PROJECT_ROOT / ".env")
 load_dotenv()
@@ -175,35 +176,112 @@ def save_posts_to_markdown(
     seen_filenames: set[str] = set()
     post_index: list[dict[str, Any]] = []
 
-    for post in posts:
+    for post in track(posts, "LinkedIn posts / comments", unit="post"):
         post_id = str(post.get("id") or "")
         url = post.get("linkedinUrl") or ""
         date_str = post.get("postedAt", {}).get("date") or post.get("postedAt", {}).get("postedAgoText") or ""
         content = post.get("content") or ""
-        likes = post.get("engagement", {}).get("likes", 0)
-        comments_count = post.get("engagement", {}).get("comments", 0)
+        likes = post.get("engagement", {}).get("likes", 0) or post.get("stats", {}).get("likesCount", 0)
+        comments_count = post.get("engagement", {}).get("comments", 0) or post.get("stats", {}).get("commentsCount", 0)
+        reposts_count = post.get("engagement", {}).get("reposts", 0) or post.get("stats", {}).get("repostsCount", 0)
+
+        is_repost = bool(post.get("isRepost"))
+        is_quote_post = bool(post.get("isQuotePost"))
+        reshared_post = post.get("resharedPost") or {}
+        article = post.get("article") or {}
+        document = post.get("document") or {}
+        post_video = post.get("postVideo") or {}
+        post_images = post.get("postImages") or []
 
         comments_text = ""
         has_fetched_comments = False
         if api_key and comments_min > 0 and comments_count >= comments_min and url:
-            print(f"  Fetching comments for post ({comments_count} comments): {url}", file=sys.stderr)
+            status(f"LinkedIn: fetching comments for {post_id} ({comments_count} reported)")
             fetched_comments = fetch_comments_for_post(url, api_key)
             comments_text = format_comments_markdown(fetched_comments)
             has_fetched_comments = True
             time.sleep(0.5)
 
-        filename = make_post_filename(content, post_id, date_str, seen_filenames)
+        filename = make_post_filename(content or (reshared_post.get("content") if reshared_post else ""), post_id, date_str, seen_filenames)
         filepath = posts_dir / filename
 
-        frontmatter = {
+        frontmatter: dict[str, Any] = {
             "id": post_id,
             "date": date_str,
             "url": url,
             "likes": likes,
             "comments": comments_count,
         }
+        if reposts_count:
+            frontmatter["reposts"] = reposts_count
+        if is_repost:
+            frontmatter["is_repost"] = True
+        if is_quote_post:
+            frontmatter["is_quote_post"] = True
+        if article and isinstance(article, dict) and article.get("title"):
+            frontmatter["article"] = {
+                k: v for k, v in {
+                    "title": article.get("title"),
+                    "subtitle": article.get("subtitle"),
+                    "link": article.get("link"),
+                }.items() if v
+            }
+        if document and isinstance(document, dict) and document.get("title"):
+            frontmatter["document"] = {
+                k: v for k, v in {
+                    "title": document.get("title"),
+                    "documentUrl": document.get("documentUrl"),
+                    "pageCount": document.get("pageCount"),
+                }.items() if v
+            }
+        if post_video and isinstance(post_video, dict) and post_video.get("videoUrl"):
+            frontmatter["videoUrl"] = post_video.get("videoUrl")
+        if post_images and isinstance(post_images, list):
+            frontmatter["images_count"] = len(post_images)
+
+        # Build Reshared / Quoted Post block (attributed as Quoting @author so pipeline respects boundaries)
+        reshared_block = ""
+        if reshared_post and isinstance(reshared_post, dict):
+            orig_author_info = reshared_post.get("author") or {}
+            orig_author = (
+                orig_author_info.get("name")
+                or orig_author_info.get("publicIdentifier")
+                or "unknown"
+            )
+            orig_url = reshared_post.get("linkedinUrl") or ""
+            orig_content = (reshared_post.get("content") or "").strip()
+            orig_article = reshared_post.get("article") or {}
+            orig_doc = reshared_post.get("document") or {}
+
+            orig_lines: list[str] = []
+            if orig_content:
+                orig_lines.extend(f"> {line}" for line in orig_content.splitlines())
+            if orig_article and orig_article.get("title"):
+                orig_lines.append(f"> [Article: {orig_article.get('title')}]({orig_article.get('link', '')})")
+            if orig_doc and orig_doc.get("title"):
+                orig_lines.append(f"> [Document: {orig_doc.get('title')}]({orig_doc.get('documentUrl', '')})")
+            if orig_url:
+                orig_lines.append(f"> Original Post: {orig_url}")
+
+            quoted_body = "\n".join(orig_lines) if orig_lines else "> [No text content]"
+            reshared_block = f"\n\n### Quoting @{orig_author}:\n{quoted_body}\n"
+
+        article_block = ""
+        if article and isinstance(article, dict) and article.get("title"):
+            art_title = article.get("title")
+            art_link = article.get("link") or ""
+            art_sub = article.get("subtitle") or ""
+            article_block = f"\n\n### Shared Article: [{art_title}]({art_link})\n" + (f"> {art_sub}\n" if art_sub else "")
+
+        doc_block = ""
+        if document and isinstance(document, dict) and document.get("title"):
+            doc_title = document.get("title")
+            doc_link = document.get("documentUrl") or ""
+            pages = document.get("pageCount")
+            doc_block = f"\n\n### Shared Document: [{doc_title}]({doc_link})" + (f" ({pages} pages)\n" if pages else "\n")
+
         fm_yaml = yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True).strip()
-        md_content = f"---\n{fm_yaml}\n---\n\n{content}{comments_text}\n"
+        md_content = f"---\n{fm_yaml}\n---\n\n{content}{reshared_block}{article_block}{doc_block}{comments_text}\n"
         filepath.write_text(md_content, encoding="utf-8")
 
         entry: dict[str, Any] = {
@@ -214,6 +292,18 @@ def save_posts_to_markdown(
             "comments": comments_count,
             "file": f"{rel_prefix}/{filename}",
         }
+        if reposts_count:
+            entry["reposts"] = reposts_count
+        if is_repost:
+            entry["isRepost"] = True
+        if is_quote_post:
+            entry["isQuotePost"] = True
+        if reshared_post:
+            entry["hasResharedPost"] = True
+        if article:
+            entry["hasArticle"] = True
+        if document:
+            entry["hasDocument"] = True
         if has_fetched_comments:
             entry["commentsFetched"] = True
         post_index.append(entry)
