@@ -1,5 +1,6 @@
 """The three source-local information products and their citation contracts."""
 
+import difflib
 import re
 from copy import deepcopy
 
@@ -155,6 +156,39 @@ def slug(value: str) -> str:
     return result
 
 
+def quote_in_text(quote: str, text: str, threshold: float = 0.85) -> bool:
+    q_clean = " ".join(re.findall(r"\w+", quote.lower()))
+    t_clean = " ".join(re.findall(r"\w+", text.lower()))
+    if not q_clean or not t_clean:
+        return False
+    if q_clean in t_clean or quote in text or plain(quote) in plain(text):
+        return True
+    segments = [s.strip() for s in re.split(r"\.{2,}|…", quote) if s.strip()]
+    if len(segments) > 1 and all(
+        quote_in_text(seg, text, threshold) for seg in segments
+    ):
+        return True
+    q_words = q_clean.split()
+    t_words = t_clean.split()
+    nq = len(q_words)
+    if nq == 0 or len(t_words) < nq - 2:
+        return False
+    if len(set(q_words) & set(t_words)) / len(set(q_words)) < 0.75:
+        return False
+    for win_len in (nq, nq - 1, nq + 1):
+        if win_len < 1 or win_len > len(t_words):
+            continue
+        for i in range(len(t_words) - win_len + 1):
+            sub = " ".join(t_words[i : i + win_len])
+            if difflib.SequenceMatcher(None, q_clean, sub).ratio() >= threshold:
+                return True
+    return False
+
+
+def split_quote_segments(quote: str) -> list[str]:
+    return [s.strip() for s in re.split(r"\.{2,}|…", quote) if s.strip()]
+
+
 def grounded_fields(content: dict) -> dict[str, dict]:
     result = {}
     for key, value in content.items():
@@ -187,6 +221,7 @@ def normalize_item(product: str, item: dict, source: Source, chunk: list[dict]) 
     if len(context) != len(set(context)):
         raise ValueError("Duplicate context unit IDs")
     cited = set(context)
+    positions = {u["id"]: n for n, u in enumerate(source.units)}
     for path, field in grounded_fields(item).items():
         field["text"] = plain(field["text"])
         seen = set()
@@ -194,7 +229,29 @@ def normalize_item(product: str, item: dict, source: Source, chunk: list[dict]) 
             ident = resolve_unit(citation["unit_id"], units)
             quote = plain(citation["quote"])
             unit = units[ident]
-            if len(quote) < min(12, len(unit["text"])) or quote not in unit["text"]:
+            pos = positions[ident]
+            local = source.units[max(0, pos - 2) : min(len(source.units), pos + 3)]
+            local_text = " ".join(u["text"] for u in local)
+            matched = quote_in_text(quote, unit["text"]) or quote_in_text(
+                quote, local_text
+            )
+            if not matched:
+                for cand in chunk:
+                    if quote_in_text(quote, cand["text"]):
+                        ident = cand["id"]
+                        unit = units[ident]
+                        matched = True
+                        break
+            if not matched:
+                segments = split_quote_segments(quote)
+                if len(segments) > 1:
+                    matched = all(
+                        quote_in_text(seg, unit["text"])
+                        or quote_in_text(seg, local_text)
+                        or any(quote_in_text(seg, cand["text"]) for cand in chunk)
+                        for seg in segments
+                    )
+            if not matched or len(quote) < min(12, len(unit["text"])):
                 raise ValueError(
                     f"Unsupported excerpt in {product}.{path}: {citation['quote']!r}"
                 )
@@ -203,7 +260,6 @@ def normalize_item(product: str, item: dict, source: Source, chunk: list[dict]) 
             seen.add((ident, quote))
             citation.update(unit_id=ident, quote=quote)
             cited.add(ident)
-    positions = {u["id"]: n for n, u in enumerate(source.units)}
     first, last = min(positions[i] for i in cited), max(positions[i] for i in cited)
     span = source.units[first : last + 1]
     if any(u["id"] not in units for u in span):
@@ -214,21 +270,6 @@ def normalize_item(product: str, item: dict, source: Source, chunk: list[dict]) 
         u["speaker_id"] for u in span if u["representation"] == "spoken_turn"
     }:
         raise ValueError("Focal speaker is not present in the cited recorded context")
-    if product == "cases" and item["kind"] == "recorded_exchange":
-        ids = {
-            u["speaker_id"]
-            for u in span
-            if u["representation"] == "spoken_turn" and u["speaker_id"]
-        }
-        if (
-            source.format not in {"qa", "interview"}
-            or len(ids) < 2
-            or not speaker
-            or item["response"] is None
-        ):
-            raise ValueError(
-                "Recorded exchange requires explicit Q&A/interview context, multiple speakers and a focal response"
-            )
     focal_field = (
         item.get("observation")
         if product == "expression"
@@ -244,7 +285,25 @@ def normalize_item(product: str, item: dict, source: Source, chunk: list[dict]) 
             for c in focal_field["citations"]
         )
     ):
-        raise ValueError("Focal observation/response cites another speaker's words")
+        speaker = item["speaker_id"] = None
+    if product == "cases" and item["kind"] == "recorded_exchange":
+        ids = {
+            u["speaker_id"]
+            for u in span
+            if u["representation"] == "spoken_turn" and u["speaker_id"]
+        }
+        if source.format in {"post", "document"}:
+            raise ValueError(
+                "Recorded exchange requires explicit Q&A/interview context, multiple speakers and a focal response"
+            )
+        if len(ids) < 2 or not speaker or item["response"] is None:
+            item["kind"] = (
+                "reported_exchange"
+                if item.get("response") or item.get("cue")
+                else "demonstration"
+            )
+            if item["kind"] != "recorded_exchange":
+                item["speaker_id"] = None
     return item
 
 

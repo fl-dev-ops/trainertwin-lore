@@ -146,23 +146,33 @@ def collect_youtube(
     selection.parent.mkdir(parents=True, exist_ok=True)
     selection.write_text(json.dumps(identifiers) + "\n", encoding="utf-8")
     video_dir = data / "video"
-    if all(list(video_dir.glob(f"*-{v['id']}.md")) for v in selected):
+    video_dir = data / "video"
+    pending = [
+        v for v in selected if not list(video_dir.glob(f"*-{v['id']}.md"))
+    ]
+    stage(
+        f"{len(selected) - len(pending)} transcripts already saved"
+        if len(pending) < len(selected)
+        else f"{len(selected)} videos need audio"
+    )
+    if pending:
+        for video in track(pending, "YouTube audio downloads", unit="video"):
+            ident = video.get("id")
+            if (
+                not ident
+                or not any(
+                    p.name.endswith(f"[{ident}].mp3") for p in audio_dir.glob("*.mp3")
+                )
+            ) and youtube.download_video_audio(video["url"], audio_dir) is None:
+                raise ValueError(f"Download failed: {video['url']}")
+        stage(f"{len(pending)} audio downloads checked")
+    else:
         stage("transcripts already saved; audio skipped")
         stage("transcription skipped")
         return
-    for video in track(selected, "YouTube audio downloads", unit="video"):
-        ident = video.get("id")
-        if (
-            not ident
-            or not any(
-                p.name.endswith(f"[{ident}].mp3") for p in audio_dir.glob("*.mp3")
-            )
-        ) and youtube.download_video_audio(video["url"], audio_dir) is None:
-            raise ValueError(f"Download failed: {video['url']}")
-    stage(f"{len(selected)} audio downloads checked")
     state, raw = run / "sarvam-jobs.json", run / "sarvam-json"
     cache = youtube.load_date_cache(audio_dir)
-    cache.update({v["id"]: v["upload_date"] for v in selected if v.get("id")})
+    cache.update({v["id"]: v["upload_date"] for v in pending if v.get("id")})
     youtube.save_date_cache(audio_dir, cache)
     key = youtube.get_sarvam_key(None)
     if not state.exists():
@@ -248,7 +258,7 @@ def main(argv: list[str] | None = None) -> None:
         for job in as_completed(jobs):
             try:
                 job.result()
-            except (ValueError, RuntimeError, OSError, SystemExit) as exc:
+            except Exception as exc:  # noqa: BLE001 - one platform must not abort the others.
                 status(f"Error collecting {jobs[job]}: {exc}")
                 failures.append(f"{jobs[job]}: {exc}")
     if failures:

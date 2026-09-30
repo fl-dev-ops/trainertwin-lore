@@ -12,15 +12,25 @@ constraints (including exact numbers/time limits) and exceptions. Do not replace
 executable procedure with a topic summary. Every nonempty field needs its own exact
 source citations. Distinguish what the author claims or recommends from established
 truth; never add scientific validation, efficacy, or outside knowledge.
+Preserve exact numbers, conversion metrics (e.g. '1%', '35% or more', 'under 5%'),
+timelines, and conditions as cited claims. Do not omit them.
+Never extrapolate: do NOT turn a singular example into a general frequency (do not add
+'often', 'usually', or 'always').
+Preserve modality: if the text says 'may be', do not write 'is' or 'should be'.
+An illustrative or AI-generated depiction is not proof of real past physical appearance
+or personal biography.
 
 2. Teaching and interaction cases
 Preserve the situation, cue/question/objection, diagnosis, strategy, stated rationale,
 response and outcome. Missing fields MUST be null; do not infer motives or outcomes.
 A written post narrating an exchange is reported_exchange, even if the author says it
-really happened. A hypothetical scenario is illustration. A recorded_exchange requires
-explicit qa/interview source format and multiple recorded speaker IDs; give the focal
-speaker ID and cite their response. Demonstrations of a technique can be demonstration.
+really happened. It requires actual reported dialogue (cue and response).
+A presentation of an image, technique, or example is demonstration, not an exchange.
+A hypothetical scenario is illustration. A recorded_exchange requires explicit
+qa/interview source format and multiple recorded speaker IDs; give the focal speaker
+ID and cite their response.
 Do not convert quoted Client/Me dialogue in authored prose into recorded speaker turns.
+Do not attribute a narrator's joke or opinion to a client.
 
 3. Expression examples
 Describe concrete observable wording, structure or rhetorical moves: the sequence of
@@ -33,6 +43,8 @@ recorded voice use its supplied numeric ID without guessing a real identity.
 Citation and context rules
 Copy unit IDs from input. Every citation must quote a contiguous substring of that unit
 (whitespace may be normalized), at least 12 characters or the whole unit if shorter.
+Quotes must be exact contiguous words directly from the unit text. Never add ellipses (...),
+brackets, or editorial changes inside a quote.
 Keep short replies and negations. context_unit_ids must span the relevant original
 passage/exchange, including cues and responses; they are not new evidence from elsewhere.
 Do not cite one speaker to assert another speaker's words. Keep reported speech, authored
@@ -61,6 +73,7 @@ expression: observable language/form, not a rephrased lesson topic.
 teaching_strategy: supported by the strategy fields of teaching cases, with their
 reported/illustrative/recorded basis intact. This is not proof of live conduct.
 interaction: supported ONLY by recorded_exchange cases with explicitly attributed speakers.
+Do not use reported_exchange or written posts for interaction; use teaching_strategy or expression instead.
 Authorship of a post does not make its embedded client quotes the author's own utterances.
 
 Evidence

@@ -18,6 +18,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if __package__ is None:  # Allow `python social/linkedin/cli.py` as well as `python -m social.linkedin.cli`.
     sys.path.insert(0, str(PROJECT_ROOT))
 from social.dates import published_day
+from social.fs import atomic_write
 from social.progress import status, track
 
 load_dotenv(PROJECT_ROOT / ".env")
@@ -56,8 +57,7 @@ def fetch_harvest(endpoint: str, params: dict[str, Any], api_key: str) -> dict[s
     with httpx.Client(timeout=60.0) as client:
         resp = client.get(url, params=params, headers=headers)
         if resp.status_code != 200:
-            print(f"Error {resp.status_code}: {resp.text}", file=sys.stderr)
-            sys.exit(1)
+            raise RuntimeError(f"HarvestAPI HTTP {resp.status_code}: {resp.text[:200]}")
         return resp.json()
 
 
@@ -108,12 +108,8 @@ def fetch_all_posts(profile_url: str, api_key: str, max_posts: int | None = None
 
 
 def fetch_comments_for_post(post_url: str, api_key: str) -> list[dict[str, Any]]:
-    try:
-        data = fetch_harvest("/linkedin/post-comments", {"post": post_url}, api_key)
-        return data.get("elements", [])
-    except (ValueError, httpx.HTTPError) as exc:
-        print(f"Warning: failed to fetch comments for {post_url}: {exc}", file=sys.stderr)
-        return []
+    data = fetch_harvest("/linkedin/post-comments", {"post": post_url}, api_key)
+    return data.get("elements", [])
 
 
 def format_comments_markdown(comments: list[dict[str, Any]]) -> str:
@@ -175,6 +171,7 @@ def save_posts_to_markdown(
     posts_dir.mkdir(parents=True, exist_ok=True)
     seen_filenames: set[str] = set()
     post_index: list[dict[str, Any]] = []
+    credits_exhausted = False
 
     for post in track(posts, "LinkedIn posts / comments", unit="post"):
         post_id = str(post.get("id") or "")
@@ -195,12 +192,27 @@ def save_posts_to_markdown(
 
         comments_text = ""
         has_fetched_comments = False
-        if api_key and comments_min > 0 and comments_count >= comments_min and url:
+        if (
+            api_key
+            and comments_min > 0
+            and comments_count >= comments_min
+            and url
+            and not credits_exhausted
+        ):
             status(f"LinkedIn: fetching comments for {post_id} ({comments_count} reported)")
-            fetched_comments = fetch_comments_for_post(url, api_key)
-            comments_text = format_comments_markdown(fetched_comments)
-            has_fetched_comments = True
-            time.sleep(0.5)
+            try:
+                fetched_comments = fetch_comments_for_post(url, api_key)
+                comments_text = format_comments_markdown(fetched_comments)
+                has_fetched_comments = True
+                time.sleep(0.5)
+            except RuntimeError as exc:
+                if "402" in str(exc) or "credits" in str(exc).lower():
+                    status("HarvestAPI credits exhausted (HTTP 402); saving remaining posts without comments")
+                    credits_exhausted = True
+                else:
+                    status(f"Warning: failed to fetch comments for {post_id}: {exc}")
+            except (ValueError, httpx.HTTPError) as exc:
+                status(f"Warning: failed to fetch comments for {post_id}: {exc}")
 
         filename = make_post_filename(content or (reshared_post.get("content") if reshared_post else ""), post_id, date_str, seen_filenames)
         filepath = posts_dir / filename
@@ -282,7 +294,7 @@ def save_posts_to_markdown(
 
         fm_yaml = yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True).strip()
         md_content = f"---\n{fm_yaml}\n---\n\n{content}{reshared_block}{article_block}{doc_block}{comments_text}\n"
-        filepath.write_text(md_content, encoding="utf-8")
+        atomic_write(filepath, md_content)
 
         entry: dict[str, Any] = {
             "id": post_id,
@@ -315,7 +327,7 @@ def dump_yaml(data: Any, output_path: Path | None = None) -> None:
     yaml_str = yaml.safe_dump(data, sort_keys=False, allow_unicode=True, width=120)
     if output_path:
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(yaml_str, encoding="utf-8")
+        atomic_write(output_path, yaml_str)
         print(f"Saved to {output_path}", file=sys.stderr)
     else:
         print(yaml_str)
@@ -428,7 +440,7 @@ def main():
                 body_part = raw_text.rstrip()
             comments_block = format_comments_markdown(comments_list)
             updated_text = f"{body_part}{comments_block}\n"
-            md_path.write_text(updated_text, encoding="utf-8")
+            atomic_write(md_path, updated_text)
             print(f"Updated {md_path} with {len(comments_list)} comments.", file=sys.stderr)
         elif args.output:
             dump_yaml({"comments": comments_list}, Path(args.output))

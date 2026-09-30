@@ -13,6 +13,7 @@ from .records import (
     obj,
     original_context,
     plain,
+    quote_in_text,
     text,
     validate_schema,
 )
@@ -178,7 +179,11 @@ def validate_patterns(result, examples):
         support = [examples[i] for i in pattern["support_ids"]]
         channels = {e["channel"] for e in support}
         if pattern["scope"] == "general":
-            if len(channels) < 2 or len({e["content_hash"] for e in support}) < 2:
+            if len(channels) == 1:
+                # The exact narrower scope is derivable; never spend a repair call
+                # or publish an overbroad claim for this model classification slip.
+                pattern["scope"] = next(iter(channels))
+            elif len({e["content_hash"] for e in support}) < 2:
                 raise ValueError(
                     "General observations need distinct content from multiple platforms"
                 )
@@ -190,15 +195,25 @@ def validate_patterns(result, examples):
             e["product"] == "cases" and e["record"]["kind"] == "recorded_exchange"
             for e in support
         ):
-            raise ValueError(
-                "Interaction observations require recorded exchanges, not narrated or illustrative cases"
-            )
+            if all(e["product"] == "expression" for e in support):
+                pattern["dimension"] = "expression"
+            elif all(
+                e["product"] == "cases" and e["record"]["strategy"] for e in support
+            ):
+                pattern["dimension"] = "teaching_strategy"
+            else:
+                raise ValueError(
+                    "Interaction observations require recorded exchanges, not narrated or illustrative cases"
+                )
         if pattern["dimension"] == "teaching_strategy" and not all(
             e["product"] == "cases" and e["record"]["strategy"] for e in support
         ):
-            raise ValueError(
-                "Teaching-strategy observations need source-cited case strategies"
-            )
+            if all(e["product"] == "expression" for e in support):
+                pattern["dimension"] = "expression"
+            else:
+                raise ValueError(
+                    "Teaching-strategy observations need source-cited case strategies"
+                )
         covered = set()
         for citation in pattern["citations"]:
             ident = citation["example_id"]
@@ -212,11 +227,16 @@ def validate_patterns(result, examples):
             }
             unit = units.get(citation["unit_id"])
             quote = plain(citation["quote"])
-            if (
-                not unit
-                or len(quote) < min(12, len(unit["text"]))
-                or quote not in unit["text"]
-            ):
+            if not unit or not quote_in_text(quote, unit["text"]):
+                matches = [u for u in units.values() if quote_in_text(quote, u["text"])]
+                if len(matches) == 1:
+                    unit = matches[0]
+                    citation["unit_id"] = unit["id"]
+                else:
+                    raise ValueError(
+                        "Twin observation contains an unsupported quotation"
+                    )
+            if len(quote) < min(12, len(unit["text"])):
                 raise ValueError("Twin observation contains an unsupported quotation")
             covered.add(ident)
         if not set(pattern["support_ids"] + pattern["counter_ids"]).issubset(covered):

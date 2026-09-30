@@ -1,5 +1,6 @@
 import json
 import os
+import subprocess
 from datetime import date
 from pathlib import Path
 
@@ -178,7 +179,11 @@ def test_youtube_skips_old_and_guards_existing_selection(tmp_path, monkeypatch):
     ]
     monkeypatch.setattr(social.youtube, "fetch_channel_videos", lambda url: videos)
     data, audios = tmp_path / "users/me/data/youtube", tmp_path / "users/me/audios"
-    monkeypatch.setattr(social.youtube, "fetch_video_details", lambda url: {"description": "Video description"})
+    monkeypatch.setattr(
+        social.youtube,
+        "fetch_video_details",
+        lambda url: {"description": "Video description"},
+    )
     social.collect_youtube("https://youtube.com/@me", data, audios, since, False)
     manifest = yaml.safe_load((data / "me.yaml").read_text())
     assert [v["id"] for v in manifest["videos"]] == ["new"]
@@ -194,26 +199,74 @@ def test_youtube_skips_old_and_guards_existing_selection(tmp_path, monkeypatch):
         social.collect_youtube("https://youtube.com/@me", data, audios, since, True)
 
 
+def test_youtube_discovery_preserves_channel_author(monkeypatch):
+    payload = {
+        "entries": [
+            {
+                "id": "pQCLpcXSx2s",
+                "title": "A helpful title",
+                "uploader_id": "@careerwithvasanth",
+            }
+        ]
+    }
+    monkeypatch.setattr(
+        youtube.subprocess,
+        "run",
+        lambda *args, **kwargs: subprocess.CompletedProcess(
+            args[0], 0, json.dumps(payload), ""
+        ),
+    )
+    videos = youtube.fetch_channel_videos("https://youtube.com/@careerwithvasanth")
+    assert videos[0]["author"] == "careerwithvasanth"
+
+
 def test_youtube_date_fetches_description_with_missing_flat_metadata(monkeypatch):
     video = {"id": "pQCLpcXSx2s", "url": "https://youtube.com/watch?v=pQCLpcXSx2s"}
-    monkeypatch.setattr(youtube, "fetch_video_details", lambda _: {
-        "upload_date": "20260813", "description": "Full video description"
-    })
+    monkeypatch.setattr(
+        youtube,
+        "fetch_video_details",
+        lambda _: {
+            "upload_date": "20260813",
+            "description": "Full video description",
+            "uploader_id": "@careerwithvasanth",
+        },
+    )
     assert social.video_date(video) == date(2026, 8, 13)
     assert video["description"] == "Full video description"
+    assert video["author"] == "careerwithvasanth"
 
 
 def test_youtube_manifest_keeps_earlier_videos(tmp_path, monkeypatch):
     data = tmp_path / "users/me/data/youtube"
     data.mkdir(parents=True)
-    (data / "me.yaml").write_text(yaml.safe_dump({
-        "channel_url": "https://youtube.com/@me/videos",
-        "videos": [{"id": "previous123", "description": "Earlier video"}],
-    }))
-    monkeypatch.setattr(social.youtube, "fetch_channel_videos", lambda _: [
-        {"id": "newvideo123", "title": "New", "url": "https://youtube.com/watch?v=newvideo123", "upload_date": "20260801", "description": "New description"}
-    ])
-    social.collect_youtube("https://youtube.com/@me/shorts", data, tmp_path / "audios", date(2026, 8, 1), False)
+    (data / "me.yaml").write_text(
+        yaml.safe_dump(
+            {
+                "channel_url": "https://youtube.com/@me/videos",
+                "videos": [{"id": "previous123", "description": "Earlier video"}],
+            }
+        )
+    )
+    monkeypatch.setattr(
+        social.youtube,
+        "fetch_channel_videos",
+        lambda _: [
+            {
+                "id": "newvideo123",
+                "title": "New",
+                "url": "https://youtube.com/watch?v=newvideo123",
+                "upload_date": "20260801",
+                "description": "New description",
+            }
+        ],
+    )
+    social.collect_youtube(
+        "https://youtube.com/@me/shorts",
+        data,
+        tmp_path / "audios",
+        date(2026, 8, 1),
+        False,
+    )
     index = yaml.safe_load((data / "me.yaml").read_text())
     assert index["total_videos"] == 2
     assert {v["id"] for v in index["videos"]} == {"previous123", "newvideo123"}
@@ -230,10 +283,19 @@ def test_youtube_markdown_transcript_preserves_source_locators(tmp_path, monkeyp
         '{"diarized_transcript":{"entries":['
         '{"speaker_id":"1","transcript":"Ask the buyer what matters to them before you pitch the property.","start_time_seconds":10,"end_time_seconds":15},'
         '{"speaker_id":"2","transcript":"The buyer says the budget matters more than the view.","start_time_seconds":20,"end_time_seconds":24}'
-        ']}}'
+        "]}}"
     )
     monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:00:30")
-    videos = [{"id": "pQCLpcXSx2s", "title": "A helpful title", "url": "https://www.youtube.com/watch?v=pQCLpcXSx2s", "upload_date": "2026-08-13", "description": "Description is metadata, not quoted speech."}]
+    videos = [
+        {
+            "id": "pQCLpcXSx2s",
+            "title": "A helpful title",
+            "url": "https://www.youtube.com/watch?v=pQCLpcXSx2s",
+            "upload_date": "2026-08-13",
+            "description": "Description is metadata, not quoted speech.",
+            "author": "careerwithvasanth",
+        }
+    ]
     assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
     files = list(video_dir.glob("*.md"))
     assert [p.name for p in files] == ["2026-08-13-a-helpful-title-pQCLpcXSx2s.md"]
@@ -242,19 +304,26 @@ def test_youtube_markdown_transcript_preserves_source_locators(tmp_path, monkeyp
     assert source.date == "2026-08-13"
     assert source.url == videos[0]["url"]
     assert source.external_id == "pQCLpcXSx2s"
+    assert source.author == "careerwithvasanth"
     assert [u["t"] for u in source.units] == ["00:00:10", "00:00:20"]
     assert [u["speaker_id"] for u in source.units] == ["1", "2"]
     assert all("Description is metadata" not in u["text"] for u in source.units)
     assert "description: Description is metadata" in files[0].read_text()
     assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
-    assert youtube.build_markdowns_from_json(
-        audios, raw, video_dir, [dict(videos[0], title="Another title")]
-    ) == 1
+    assert (
+        youtube.build_markdowns_from_json(
+            audios, raw, video_dir, [dict(videos[0], title="Another title")]
+        )
+        == 1
+    )
     assert list(video_dir.glob("*.md")) == files
     assert read_source(files[0], tmp_path / "data").title == "Another title"
     files[0].write_text(files[0].read_text().replace("id: pQCLpcXSx2s", "id: wrong-id"))
-    with pytest.raises(ValueError, match="Conflicting transcript"):
-        youtube.build_markdowns_from_json(audios, raw, video_dir, videos)
+    # A mislabeled transcript is regenerated from the diarized JSON, not treated as a hard failure.
+    assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
+    restored = read_source(files[0], tmp_path / "data")
+    assert restored.external_id == "pQCLpcXSx2s"
+    assert restored.title == "A helpful title"
 
 
 def test_gemini_ocr_in_memory_and_ephemeral_files(monkeypatch):
@@ -276,7 +345,9 @@ def test_gemini_ocr_in_memory_and_ephemeral_files(monkeypatch):
                     ]
                 },
             )
-        return httpx.Response(200, content=b"fake-image-bytes", headers={"content-type": "image/jpeg"})
+        return httpx.Response(
+            200, content=b"fake-image-bytes", headers={"content-type": "image/jpeg"}
+        )
 
     mock_client = httpx.Client(transport=httpx.MockTransport(mock_handler))
     res = gemini.ocr_image_url("https://example.com/slide1.jpg", client=mock_client)
@@ -290,13 +361,21 @@ def test_instagram_reels_transcription_and_carousel_ocr(tmp_path, monkeypatch):
     monkeypatch.setattr(
         instagram,
         "transcribe_media_url",
-        lambda url: [{"t": "00:00:05", "speaker": "1", "text": "Stop pitching and start asking better questions."}],
+        lambda url: [
+            {
+                "t": "00:00:05",
+                "speaker": "1",
+                "text": "Stop pitching and start asking better questions.",
+            }
+        ],
     )
     # Mock Carousel OCR
     monkeypatch.setattr(
         instagram,
         "ocr_image_url",
-        lambda url: "**Slide Text:** Never send property brochures before finding out budget and timeline.",
+        lambda url: (
+            "**Slide Text:** Never send property brochures before finding out budget and timeline."
+        ),
     )
 
     reel_post = {
@@ -316,8 +395,16 @@ def test_instagram_reels_transcription_and_carousel_ocr(tmp_path, monkeypatch):
         "url": "https://www.instagram.com/p/carousel123/",
         "caption": "Slide breakdown of objection handling.",
         "childPosts": [
-            {"id": "c1", "displayUrl": "https://cdn.instagram.com/slide1.jpg", "alt": "May be text about brochures"},
-            {"id": "c2", "displayUrl": "https://cdn.instagram.com/slide2.jpg", "alt": "May be infographic"},
+            {
+                "id": "c1",
+                "displayUrl": "https://cdn.instagram.com/slide1.jpg",
+                "alt": "May be text about brochures",
+            },
+            {
+                "id": "c2",
+                "displayUrl": "https://cdn.instagram.com/slide2.jpg",
+                "alt": "May be infographic",
+            },
         ],
     }
 
@@ -378,8 +465,14 @@ def test_linkedin_rich_reposts_articles_and_documents(tmp_path):
     assert "reposts: 14" in md_text
     assert "### Quoting @Jane Smith:" in md_text
     assert "> Dubai real estate yields remain the highest" in md_text
-    assert "### Shared Article: [UAE Market Trends 2026](https://www.linkedin.com/pulse/uae-market-trends)" in md_text
-    assert "### Shared Document: [Quarterly Sales Guide.pdf](https://media.licdn.com/doc.pdf) (12 pages)" in md_text
+    assert (
+        "### Shared Article: [UAE Market Trends 2026](https://www.linkedin.com/pulse/uae-market-trends)"
+        in md_text
+    )
+    assert (
+        "### Shared Document: [Quarterly Sales Guide.pdf](https://media.licdn.com/doc.pdf) (12 pages)"
+        in md_text
+    )
 
     # Verify pipeline ignores quoted third-party speech
     source = read_source(next(posts_dir.glob("*.md")), tmp_path)
@@ -390,7 +483,9 @@ def test_linkedin_rich_reposts_articles_and_documents(tmp_path):
 
 def test_twitter_note_tweet_and_quoted_expansion(tmp_path):
     tweets_dir = tmp_path / "tweets"
-    long_text = "This is a full long-form note tweet that exceeds standard Twitter length. " * 5
+    long_text = (
+        "This is a full long-form note tweet that exceeds standard Twitter length. " * 5
+    )
     tweet = {
         "id": "1800000000000000001",
         "createdAt": "Sun Sep 27 10:15:30 +0000 2026",
@@ -416,7 +511,9 @@ def test_twitter_note_tweet_and_quoted_expansion(tmp_path):
     assert "inReplyTo: '@client'" in md_text
     assert "### Quoting @dubai_analyst:" in md_text
     assert "> Original analyst tweet on transaction volumes." in md_text
-    assert "> Original: https://x.com/dubai_analyst/status/1799999999999999999" in md_text
+    assert (
+        "> Original: https://x.com/dubai_analyst/status/1799999999999999999" in md_text
+    )
 
 
 def test_ephemeral_audio_unlinked_immediately_on_sarvam_upload(tmp_path, monkeypatch):
@@ -424,7 +521,9 @@ def test_ephemeral_audio_unlinked_immediately_on_sarvam_upload(tmp_path, monkeyp
 
     dummy_audio = tmp_path / "dummy.mp3"
     dummy_audio.write_bytes(b"dummy audio")
-    monkeypatch.setattr(transcribe, "download_audio_ephemeral", lambda url, target: dummy_audio)
+    monkeypatch.setattr(
+        transcribe, "download_audio_ephemeral", lambda url, target: dummy_audio
+    )
 
     uploaded_files = []
 
@@ -447,13 +546,20 @@ def test_ephemeral_audio_unlinked_immediately_on_sarvam_upload(tmp_path, monkeyp
 
         def download_outputs(self, target):
             (Path(target) / "out.json").write_text(
-                json.dumps({
-                    "diarized_transcript": {
-                        "entries": [
-                            {"speaker_id": "1", "transcript": "Spoken audio text", "start_time_seconds": 0, "end_time_seconds": 5}
-                        ]
+                json.dumps(
+                    {
+                        "diarized_transcript": {
+                            "entries": [
+                                {
+                                    "speaker_id": "1",
+                                    "transcript": "Spoken audio text",
+                                    "start_time_seconds": 0,
+                                    "end_time_seconds": 5,
+                                }
+                            ]
+                        }
                     }
-                })
+                )
             )
 
     class MockClient:

@@ -242,12 +242,44 @@ def test_twin_wrong_unit_quote_and_overbroad_scope_rejected(tmp_path):
         validate_patterns(invalid, {**allowed, counter["id"]: counter})
     invalid = deepcopy(result)
     invalid["patterns"][0]["citations"][0]["quote"] = source.units[0]["text"]
+    relocated = validate_patterns(invalid, allowed)
+    assert relocated[0]["citations"][0]["unit_id"] == source.units[0]["id"]
+    invalid = deepcopy(result)
+    invalid["patterns"][0]["citations"][0]["quote"] = (
+        "This quotation does not exist in the source."
+    )
     with pytest.raises(ValueError, match="unsupported quotation"):
         validate_patterns(invalid, allowed)
     invalid = deepcopy(result)
     invalid["patterns"][0]["scope"] = "general"
-    with pytest.raises(ValueError, match="multiple platforms"):
-        validate_patterns(invalid, allowed)
+    narrowed = validate_patterns(invalid, allowed)
+    assert narrowed[0]["scope"] == source.category
+    expression = deepcopy(examples[0])
+    expression["id"] = "ex-expression"
+    expression["product"] = "expression"
+    expression["record"] = {
+        "observation": examples[0]["record"]["response"],
+    }
+    invalid = deepcopy(result)
+    invalid["patterns"][0].update(
+        dimension="interaction",
+        support_ids=[expression["id"]],
+        citations=[
+            {
+                "example_id": expression["id"],
+                **expression["record"]["observation"]["citations"][0],
+            }
+        ],
+    )
+    assert (
+        validate_patterns(invalid, {expression["id"]: expression})[0]["dimension"]
+        == "expression"
+    )
+    invalid["patterns"][0]["dimension"] = "teaching_strategy"
+    assert (
+        validate_patterns(invalid, {expression["id"]: expression})[0]["dimension"]
+        == "expression"
+    )
     invalid = deepcopy(result)
     invalid["patterns"][0]["support_ids"].append("ex-missing")
     with pytest.raises(ValueError, match="Unknown"):

@@ -17,6 +17,7 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if not __package__:  # Keep direct `python social/youtube/cli.py` invocation working.
     sys.path.insert(0, str(PROJECT_ROOT))
+from social.fs import atomic_write
 from social.progress import status, track
 
 load_dotenv(PROJECT_ROOT / ".env")
@@ -44,7 +45,16 @@ def hhmmss(seconds: float) -> str:
 
 def ffprobe_duration(path: Path) -> str:
     out = subprocess.run(
-        ["ffprobe", "-v", "quiet", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
+        [
+            "ffprobe",
+            "-v",
+            "quiet",
+            "-show_entries",
+            "format=duration",
+            "-of",
+            "csv=p=0",
+            str(path),
+        ],
         capture_output=True,
         text=True,
         check=False,
@@ -76,7 +86,9 @@ yaml.SafeDumper.add_representer(
 
 
 # --- 1. Video Discovery & Metadata ---
-def fetch_channel_videos(channel_url: str, max_videos: int | None = None) -> list[dict[str, Any]]:
+def fetch_channel_videos(
+    channel_url: str, max_videos: int | None = None
+) -> list[dict[str, Any]]:
     """Extract video metadata from a channel or playlist using yt-dlp flat playlist extraction."""
     target_url = channel_url.rstrip("/")
     if re.search(r"/@[^/]+$", target_url):
@@ -110,15 +122,23 @@ def fetch_channel_videos(channel_url: str, max_videos: int | None = None) -> lis
         duration = item.get("duration")
         dur_str = hhmmss(duration) if duration else "unknown"
 
-        videos.append({
-            "id": vid_id,
-            "title": title,
-            "url": url,
-            "duration": dur_str,
-            "upload_date": item.get("upload_date"),
-            "view_count": item.get("view_count"),
-            "description": item.get("description") or "",
-        })
+        videos.append(
+            {
+                "id": vid_id,
+                "title": title,
+                "url": url,
+                "duration": dur_str,
+                "upload_date": item.get("upload_date"),
+                "view_count": item.get("view_count"),
+                "description": item.get("description") or "",
+                "author": str(
+                    item.get("uploader_id")
+                    or item.get("channel")
+                    or item.get("uploader")
+                    or ""
+                ).removeprefix("@"),
+            }
+        )
 
         if max_videos and len(videos) >= max_videos:
             break
@@ -143,17 +163,26 @@ def fetch_video_details(url: str) -> dict[str, Any]:
 
 def enrich_video(video: dict[str, Any]) -> None:
     """Fill fields missing from a flat playlist; description is optional."""
-    if video.get("upload_date") and video.get("description"):
+    if video.get("upload_date") and video.get("description") and video.get("author"):
         return
     try:
         details = fetch_video_details(video["url"])
     except ValueError as exc:
-        print(f"Warning: could not fetch details for {video.get('url')}: {exc}", file=sys.stderr)
+        print(
+            f"Warning: could not fetch details for {video.get('url')}: {exc}",
+            file=sys.stderr,
+        )
         if not video.get("upload_date"):
             raise
         return
     video["upload_date"] = video.get("upload_date") or details.get("upload_date")
     video["description"] = video.get("description") or details.get("description") or ""
+    video["author"] = video.get("author") or str(
+        details.get("uploader_id")
+        or details.get("channel")
+        or details.get("uploader")
+        or ""
+    ).removeprefix("@")
 
 
 # --- 2. Audio Download ---
@@ -222,7 +251,9 @@ def submit_sarvam_jobs(
     states = []
     state_file.parent.mkdir(parents=True, exist_ok=True)
 
-    for start in track(range(0, len(files), BATCH_SIZE), "Sarvam uploads", unit="batch"):
+    for start in track(
+        range(0, len(files), BATCH_SIZE), "Sarvam uploads", unit="batch"
+    ):
         batch = files[start : start + BATCH_SIZE]
         status(f"Sarvam: uploading batch of {len(batch)} audio files")
         job = client.speech_to_text_job.create_job(
@@ -234,10 +265,15 @@ def submit_sarvam_jobs(
         )
         job.upload_files([str(upload) for upload, _ in batch], timeout=600)
         job.start()
-        states.append({
-            "job_id": job.job_id,
-            "files": [{"upload": upload.name, "audio": source.name} for upload, source in batch],
-        })
+        states.append(
+            {
+                "job_id": job.job_id,
+                "files": [
+                    {"upload": upload.name, "audio": source.name}
+                    for upload, source in batch
+                ],
+            }
+        )
         state_file.write_text(json.dumps(states, indent=2) + "\n")
         status(f"Sarvam: submitted job {job.job_id}")
 
@@ -258,18 +294,25 @@ def wait_and_download_sarvam(
 
     for state in track(states, "Sarvam transcription jobs", unit="job"):
         job = client.speech_to_text_job.get_job(state["job_id"])
-        status(f"Sarvam: waiting for job {job.job_id} (provider processing; percentage unavailable)")
+        status(
+            f"Sarvam: waiting for job {job.job_id} (provider processing; percentage unavailable)"
+        )
         result = job.wait_until_complete(poll_interval=10, timeout=7200)
         status(f"Sarvam: job {job.job_id} state: {result.job_state}")
         if not job.is_successful():
-            print(json.dumps(job.get_file_results(), indent=2, default=str), file=sys.stderr)
+            print(
+                json.dumps(job.get_file_results(), indent=2, default=str),
+                file=sys.stderr,
+            )
             continue
         status(f"Sarvam: downloading transcript results for {job.job_id}")
         job.download_outputs(str(json_out_dir))
         status(f"Sarvam: downloaded results to {json_out_dir}")
 
 
-def transcribe_long_audio(audio: Path, raw_dir: Path, number: int, api_key: str) -> None:
+def transcribe_long_audio(
+    audio: Path, raw_dir: Path, number: int, api_key: str
+) -> None:
     """Split only oversized audio; cache each part, then restore numbered Sarvam JSON."""
     from sarvamai import SarvamAI
 
@@ -286,22 +329,45 @@ def transcribe_long_audio(audio: Path, raw_dir: Path, number: int, api_key: str)
             with tempfile.TemporaryDirectory() as temporary:
                 chunk = Path(temporary) / name
                 result = subprocess.run(
-                    ["ffmpeg", "-v", "error", "-ss", str(offset), "-t", "3600", "-i", str(audio), "-vn", "-c:a", "copy", str(chunk)],
-                    capture_output=True, text=True, check=False,
+                    [
+                        "ffmpeg",
+                        "-v",
+                        "error",
+                        "-ss",
+                        str(offset),
+                        "-t",
+                        "3600",
+                        "-i",
+                        str(audio),
+                        "-vn",
+                        "-c:a",
+                        "copy",
+                        str(chunk),
+                    ],
+                    capture_output=True,
+                    text=True,
+                    check=False,
                 )
                 if result.returncode != 0 or not chunk.is_file():
-                    raise ValueError(f"Could not split audio part {part}: {result.stderr[:200]}")
+                    raise ValueError(
+                        f"Could not split audio part {part}: {result.stderr[:200]}"
+                    )
                 status(f"Sarvam: uploading hour {part + 1} of {audio.name}")
                 job = client.speech_to_text_job.create_job(
-                    model="saaras:v3", mode="verbatim", language_code="unknown",
-                    with_timestamps=True, with_diarization=True,
+                    model="saaras:v3",
+                    mode="verbatim",
+                    language_code="unknown",
+                    with_timestamps=True,
+                    with_diarization=True,
                 )
                 job.upload_files([str(chunk)], timeout=600)
                 chunk.unlink()  # Do not keep uploaded media locally.
                 job.start()
                 state = job.wait_until_complete(poll_interval=10, timeout=7200)
                 if not job.is_successful():
-                    raise ValueError(f"Sarvam audio part {part} failed: {state.job_state}")
+                    raise ValueError(
+                        f"Sarvam audio part {part} failed: {state.job_state}"
+                    )
                 job.download_outputs(temporary)
                 output = match_sarvam_json(name, Path(temporary))
                 if output is None:
@@ -310,15 +376,19 @@ def transcribe_long_audio(audio: Path, raw_dir: Path, number: int, api_key: str)
                 pending.write_bytes(output.read_bytes())
                 pending.replace(checkpoint)
         for item in load_entries(checkpoint):
-            entries.append({
-                "speaker_id": item.speaker_id,
-                "transcript": item.text,
-                "start_time_seconds": offset + item.start,
-                "end_time_seconds": offset + item.end,
-            })
+            entries.append(
+                {
+                    "speaker_id": item.speaker_id,
+                    "transcript": item.text,
+                    "start_time_seconds": offset + item.start,
+                    "end_time_seconds": offset + item.end,
+                }
+            )
     target = raw_dir / f"{number:03d}.mp3.json"
     pending = target.with_suffix(".tmp")
-    pending.write_text(json.dumps({"diarized_transcript": {"entries": entries}}), encoding="utf-8")
+    pending.write_text(
+        json.dumps({"diarized_transcript": {"entries": entries}}), encoding="utf-8"
+    )
     pending.replace(target)
 
 
@@ -327,7 +397,9 @@ def load_entries(sarvam_path: Path) -> list[Entry]:
     raw = (data.get("diarized_transcript") or {}).get("entries", [])
     if not raw:
         return []
-    ordered = sorted(raw, key=lambda e: (e["start_time_seconds"], e["end_time_seconds"]))
+    ordered = sorted(
+        raw, key=lambda e: (e["start_time_seconds"], e["end_time_seconds"])
+    )
     return [
         Entry(
             speaker_id=str(e["speaker_id"]),
@@ -347,7 +419,11 @@ def restitch_chunks(entries: list[Entry]) -> list[Entry]:
         if out:
             prev = out[-1]
             prev_full = abs(prev.end - prev.start - CHUNK_SECONDS) < 0.2
-            if prev_full and e.speaker_id == prev.speaker_id and len(e.text.split()) < 20:
+            if (
+                prev_full
+                and e.speaker_id == prev.speaker_id
+                and len(e.text.split()) < 20
+            ):
                 out[-1] = Entry(
                     prev.speaker_id,
                     prev.text + " " + e.text,
@@ -443,7 +519,7 @@ def build_markdowns_from_json(
         video_id = match[1]
         metadata = by_id.get(video_id, {})
         title = " ".join(
-            str(metadata.get("title") or mp3.stem[:match.start()].strip())
+            str(metadata.get("title") or mp3.stem[: match.start()].strip())
             .replace("：", ": ")
             .split()
         )
@@ -454,17 +530,29 @@ def build_markdowns_from_json(
         if len(video_date) == 8 and video_date.isdigit():
             video_date = f"{video_date[:4]}-{video_date[4:6]}-{video_date[6:]}"
         name = (
-            re.sub(r"[^\w]+", "-", title.lower()).strip("-")[:60].rstrip("-")
-            or "video"
+            re.sub(r"[^\w]+", "-", title.lower()).strip("-")[:60].rstrip("-") or "video"
         )
         out = video_dir / f"{video_date or 'undated'}-{name}-{video_id}.md"
         existing = list(video_dir.glob(f"*-{video_id}.md"))
         if len(existing) > 1:
             raise ValueError(f"Multiple transcripts for {video_id}: {existing}")
         if existing:
-            parts = existing[0].read_text(encoding="utf-8").split("---", 2)
-            if len(parts) != 3 or str((yaml.safe_load(parts[1]) or {}).get("id")) != video_id:
-                raise ValueError(f"Conflicting transcript for {video_id}: {existing[0]}")
+            # Line-based split: a description containing an indented '---' rule is valid YAML.
+            lines = existing[0].read_text(encoding="utf-8").splitlines()
+            same_id = False
+            if lines and lines[0].strip() == "---":
+                try:
+                    end = lines.index("---", 1)
+                    same_id = (
+                        str((yaml.safe_load("\n".join(lines[1:end])) or {}).get("id"))
+                        == video_id
+                    )
+                except (ValueError, yaml.YAMLError):
+                    same_id = False
+            if not same_id:
+                status(
+                    f"YouTube: {video_id} transcript at {existing[0]} is unreadable or mislabeled; regenerating it"
+                )
             out = existing[0]  # Keep the path stable when a video's title changes.
 
         entries = restitch_chunks(load_entries(jp))
@@ -474,6 +562,7 @@ def build_markdowns_from_json(
             "date": _SingleQuoted(video_date) if video_date else "",
             "url": metadata.get("url") or f"https://www.youtube.com/watch?v={video_id}",
             "description": metadata.get("description") or "",
+            "author": metadata.get("author") or "",
             "duration": ffprobe_duration(mp3),
             "model": "saaras:v3",
             "transcript": True,
@@ -484,14 +573,19 @@ def build_markdowns_from_json(
         )
         if not body:
             desc = (metadata.get("description") or "").strip()
-            body = f"> [No spoken dialogue detected]\n\n{desc}".strip() if desc else "> [No spoken dialogue detected]"
+            body = (
+                f"> [No spoken dialogue detected]\n\n{desc}".strip()
+                if desc
+                else "> [No spoken dialogue detected]"
+            )
 
         content = (
-            "---\n" + yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True)
+            "---\n"
+            + yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True)
             + f"---\n\n# {title}\n\n## Transcript\n\n{body}\n"
         )
         if not out.exists() or out.read_text(encoding="utf-8") != content:
-            out.write_text(content, encoding="utf-8")
+            atomic_write(out, content)
         count += 1
 
     return count
@@ -509,7 +603,11 @@ def save_video_index(url: str, videos: list[dict[str, Any]], path: Path) -> None
         if not video.get("description") and old.get("description"):
             known[video["id"]]["description"] = old["description"]
     dump_yaml(
-        {"channel_url": previous.get("channel_url") or url, "total_videos": len(known), "videos": list(known.values())},
+        {
+            "channel_url": previous.get("channel_url") or url,
+            "total_videos": len(known),
+            "videos": list(known.values()),
+        },
         path,
     )
 
@@ -518,17 +616,25 @@ def dump_yaml(data: Any, output_path: Path | None = None) -> None:
     yaml_str = yaml.safe_dump(data, sort_keys=False, allow_unicode=True, width=120)
     if output_path:
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(yaml_str, encoding="utf-8")
-        print(f"Saved to {output_path}", file=sys.stderr)
+        atomic_write(output_path, yaml_str)
+        status(f"Saved to {output_path}")
     else:
         print(yaml_str)
 
 
 def main():
     common = argparse.ArgumentParser(add_help=False)
-    common.add_argument("--api-key", help="Sarvam AI API key (default: SARVAM_API_KEY env var)")
-    common.add_argument("--data-dir", help="Base directory for output (default: users/olga/data/youtube)")
-    common.add_argument("--audios-dir", help="Directory containing audio MP3s (default: users/olga/audios)")
+    common.add_argument(
+        "--api-key", help="Sarvam AI API key (default: SARVAM_API_KEY env var)"
+    )
+    common.add_argument(
+        "--data-dir",
+        help="Base directory for output (default: users/olga/data/youtube)",
+    )
+    common.add_argument(
+        "--audios-dir",
+        help="Directory containing audio MP3s (default: users/olga/audios)",
+    )
     common.add_argument("-o", "--output", help="Explicit path to output manifest YAML")
 
     parser = argparse.ArgumentParser(
@@ -538,31 +644,63 @@ def main():
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     # list
-    p_list = subparsers.add_parser("list", parents=[common], help="List videos and metadata from a channel/playlist")
+    p_list = subparsers.add_parser(
+        "list",
+        parents=[common],
+        help="List videos and metadata from a channel/playlist",
+    )
     p_list.add_argument("url", help="YouTube channel or playlist URL")
-    p_list.add_argument("--max-videos", type=int, default=None, help="Max videos to list")
-    p_list.add_argument("--slug", help="Slug for manifest filename (default: user directory name)")
+    p_list.add_argument(
+        "--max-videos", type=int, default=None, help="Max videos to list"
+    )
+    p_list.add_argument(
+        "--slug", help="Slug for manifest filename (default: user directory name)"
+    )
 
     # download
-    p_dl = subparsers.add_parser("download", parents=[common], help="Download MP3 audio from a video or playlist")
+    p_dl = subparsers.add_parser(
+        "download", parents=[common], help="Download MP3 audio from a video or playlist"
+    )
     p_dl.add_argument("url", help="YouTube video, playlist, or channel URL")
 
     # transcribe
-    p_trans = subparsers.add_parser("transcribe", parents=[common], help="Transcribe audios via Sarvam AI batch jobs")
-    p_trans.add_argument("--submit", action="store_true", help="Submit staged audios to Sarvam AI")
-    p_trans.add_argument("--wait", action="store_true", help="Wait for jobs and download JSON outputs")
-    p_trans.add_argument("--build", action="store_true", help="Build Markdown transcripts from downloaded JSON")
+    p_trans = subparsers.add_parser(
+        "transcribe",
+        parents=[common],
+        help="Transcribe audios via Sarvam AI batch jobs",
+    )
+    p_trans.add_argument(
+        "--submit", action="store_true", help="Submit staged audios to Sarvam AI"
+    )
+    p_trans.add_argument(
+        "--wait", action="store_true", help="Wait for jobs and download JSON outputs"
+    )
+    p_trans.add_argument(
+        "--build",
+        action="store_true",
+        help="Build Markdown transcripts from downloaded JSON",
+    )
 
     # all
-    p_all = subparsers.add_parser("all", parents=[common], help="Full pipeline: list -> download -> transcribe -> build")
+    p_all = subparsers.add_parser(
+        "all",
+        parents=[common],
+        help="Full pipeline: list -> download -> transcribe -> build",
+    )
     p_all.add_argument("url", help="YouTube channel or playlist URL")
-    p_all.add_argument("--max-videos", type=int, default=None, help="Max videos to process")
-    p_all.add_argument("--slug", help="Slug for manifest filename (default: user directory name)")
+    p_all.add_argument(
+        "--max-videos", type=int, default=None, help="Max videos to process"
+    )
+    p_all.add_argument(
+        "--slug", help="Slug for manifest filename (default: user directory name)"
+    )
 
     args = parser.parse_args()
 
     data_dir = Path(args.data_dir).resolve() if args.data_dir else DEFAULT_DATA_DIR
-    audios_dir = Path(args.audios_dir).resolve() if args.audios_dir else DEFAULT_AUDIOS_DIR
+    audios_dir = (
+        Path(args.audios_dir).resolve() if args.audios_dir else DEFAULT_AUDIOS_DIR
+    )
     video_dir = data_dir / "video"
     uploads_dir = audios_dir / "uploads"
     state_file = audios_dir / "sarvam-jobs.json"
@@ -570,7 +708,9 @@ def main():
 
     def build_transcripts() -> int:
         slug = getattr(args, "slug", None) or data_dir.parent.parent.name
-        manifest = Path(args.output).resolve() if args.output else data_dir / f"{slug}.yaml"
+        manifest = (
+            Path(args.output).resolve() if args.output else data_dir / f"{slug}.yaml"
+        )
         index = (
             yaml.safe_load(manifest.read_text(encoding="utf-8"))
             if manifest.exists()
@@ -585,7 +725,9 @@ def main():
         videos = fetch_channel_videos(args.url, max_videos=args.max_videos)
         for video in track(videos, "YouTube metadata / dates", unit="video"):
             enrich_video(video)
-        out_file = Path(args.output).resolve() if args.output else data_dir / f"{slug}.yaml"
+        out_file = (
+            Path(args.output).resolve() if args.output else data_dir / f"{slug}.yaml"
+        )
         save_video_index(args.url, videos, out_file)
         print(f"Listed {len(videos)} videos into {out_file}", file=sys.stderr)
 
@@ -617,7 +759,9 @@ def main():
         for video in track(videos, "YouTube metadata / dates", unit="video"):
             enrich_video(video)
         slug = args.slug or data_dir.parent.parent.name
-        out_file = Path(args.output).resolve() if args.output else data_dir / f"{slug}.yaml"
+        out_file = (
+            Path(args.output).resolve() if args.output else data_dir / f"{slug}.yaml"
+        )
         save_video_index(args.url, videos, out_file)
 
         for video in track(videos, "YouTube audio downloads", unit="video"):
@@ -627,7 +771,10 @@ def main():
         submit_sarvam_jobs(audios_dir, uploads_dir, state_file, api_key)
         wait_and_download_sarvam(state_file, json_dir, api_key)
         count = build_markdowns_from_json(audios_dir, json_dir, video_dir, videos)
-        print(f"Finished pipeline: {count} transcripts created in {video_dir}", file=sys.stderr)
+        print(
+            f"Finished pipeline: {count} transcripts created in {video_dir}",
+            file=sys.stderr,
+        )
 
 
 if __name__ == "__main__":

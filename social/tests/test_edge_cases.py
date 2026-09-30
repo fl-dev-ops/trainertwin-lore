@@ -1,12 +1,15 @@
 import json
 import subprocess
+from datetime import date
 from pathlib import Path
 
 import httpx
 import pytest
+import yaml
 
 from pipeline.sources import read_source
-from social import gemini, transcribe
+from social import cli, gemini, progress, transcribe
+from social import fs as social_fs
 from social.instagram import cli as instagram
 from social.linkedin import cli as linkedin
 from social.twitter import cli as twitter
@@ -211,6 +214,204 @@ def test_instagram_carousel_missing_childposts(tmp_path):
     md_text = next(posts_dir.glob("*.md")).read_text()
     assert "## Carousel Slides" not in md_text
     assert "A carousel post where child posts are not returned" in md_text
+
+
+def test_atomic_write_survives_mid_write_interruption(tmp_path, monkeypatch):
+    """An interrupted write leaves the old file intact and no permanent partial content."""
+    target = tmp_path / "video.md"
+    social_fs.atomic_write(target, "old content")
+
+    real_temp = social_fs.tempfile.NamedTemporaryFile
+
+    class InterruptingHandle:
+        def __init__(self, real):
+            self._real = real
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *args):
+            self._real.__exit__(*args)
+
+        def __getattr__(self, name):
+            return getattr(self._real, name)
+
+        def write(self, text):
+            self._real.write(text[:3])  # Partial write, then crash.
+            raise OSError("simulated crash mid-write")
+
+    def interrupting_temp(*args, **kwargs):
+        return InterruptingHandle(real_temp(*args, **kwargs))
+
+    monkeypatch.setattr(social_fs.tempfile, "NamedTemporaryFile", interrupting_temp)
+    with pytest.raises(OSError, match="simulated crash"):
+        social_fs.atomic_write(target, "new content")
+    assert target.read_text() == "old content"  # Original file intact.
+    assert not [p for p in tmp_path.iterdir() if p.name != "video.md"]  # Failed temp cleaned up.
+
+    monkeypatch.undo()  # Restore the real temp-file writer for the recovery check.
+    social_fs.atomic_write(target, "new content")
+    assert target.read_text() == "new content"
+    assert not [p for p in tmp_path.iterdir() if p.name != "video.md"]  # Temps cleaned.
+
+
+def test_youtube_description_with_hr_rule_is_kept_not_regenerated(tmp_path, monkeypatch):
+    """A valid transcript whose description contains an indented '---' rule is recognized."""
+    video_dir = tmp_path / "video"
+    video_dir.mkdir(parents=True)
+    existing = video_dir / "2026-05-31-should-Z-Zj0bYQqnU.md"
+    body = (
+        "---\n"
+        "id: Z-Zj0bYQqnU\n"
+        "title: Should Frontend Developers Learn AI\n"
+        "description: '🚀 Cohort announcement\n\n"
+        "  What is the last innovation?\n\n"
+        "  ---\n\n"
+        "  About CareerWithVasanth\n\n"
+        "  #careerwithvasanth'\n"
+        "duration: 00:10:22\n"
+        "transcript: true\n"
+        "---\n\n# t\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nSpoken text.\n"
+    )
+    existing.write_text(body)
+    audios = tmp_path / "audios"
+    raw = tmp_path / "raw"
+    audios.mkdir()
+    raw.mkdir()
+    (audios / "Should [Z-Zj0bYQqnU].mp3").write_bytes(b"fake audio")
+    (raw / "001.mp3.json").write_text(
+        '{"diarized_transcript":{"entries":['
+        '{"speaker_id":"1","transcript":"Spoken text.","start_time_seconds":0,"end_time_seconds":2}'
+        ']}}'
+    )
+    monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:10:22")
+    messages = []
+    monkeypatch.setattr(youtube, "status", lambda message: messages.append(message))
+    count = youtube.build_markdowns_from_json(
+        audios, raw, video_dir,
+        [{"id": "Z-Zj0bYQqnU", "title": "Should Frontend Developers Learn AI", "upload_date": "2026-05-31"}],
+    )
+    assert count == 1
+    assert not any("regenerating" in m for m in messages)  # HR rule inside description is valid YAML.
+    lines = existing.read_text().splitlines()
+    end = lines.index("---", 1)
+    assert str(yaml.safe_load("\n".join(lines[1:end]))["id"]) == "Z-Zj0bYQqnU"
+
+
+def test_youtube_replaces_corrupt_existing_transcript(tmp_path, monkeypatch):
+    """A half-written transcript (interrupted write) is regenerated instead of crashing."""
+    audios = tmp_path / "audios"
+    raw = tmp_path / "raw"
+    video_dir = tmp_path / "data/youtube/video"
+    audios.mkdir()
+    raw.mkdir()
+    (audios / "A helpful title [pQCLpcXSx2s].mp3").write_bytes(b"fake audio")
+    (raw / "001.mp3.json").write_text(
+        '{"diarized_transcript":{"entries":['
+        '{"speaker_id":"1","transcript":"Ask the buyer what matters to them before you pitch the property.","start_time_seconds":10,"end_time_seconds":15}'
+        ']}}'
+    )
+    monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:00:30")
+    corrupt = video_dir / "2026-08-13-helpful-pQCLpcXSx2s.md"
+    corrupt.parent.mkdir(parents=True)
+    corrupt.write_text(
+        "---\nid: pQCLpcXSx2s\ndescription: '🚀 unterminated quoted scalar\n---\n"
+    )
+    videos = [{"id": "pQCLpcXSx2s", "title": "A helpful title", "upload_date": "2026-08-13"}]
+    assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
+    assert read_source(corrupt, tmp_path / "data").title == "A helpful title"
+    assert "🚀" not in corrupt.read_text()
+
+
+def test_youtube_skips_paid_retranscription_for_saved_videos(tmp_path, monkeypatch):
+    """Videos whose Markdown transcripts exist are not downloaded or sent to Sarvam again."""
+    data = tmp_path / "users/me/data/youtube"
+    video_dir = data / "video"
+    video_dir.mkdir(parents=True)
+    calls = {"downloads": 0, "submits": 0}
+
+    monkeypatch.setattr(youtube, "fetch_channel_videos", lambda _: [
+        {"id": "olddddd11", "title": "Old", "url": "https://youtube.com/watch?v=olddddd11", "upload_date": "20260731"},
+        {"id": "newdddddd", "title": "New", "url": "https://youtube.com/watch?v=newddddddd", "upload_date": "20260801"},
+    ])
+
+    def fake_download(url, directory):
+        calls["downloads"] += 1
+        return directory
+
+    monkeypatch.setattr(youtube, "download_video_audio", fake_download)
+    monkeypatch.setattr(youtube, "get_sarvam_key", lambda _: "key")
+    monkeypatch.setattr(youtube, "submit_sarvam_jobs", lambda *a: calls.__setitem__("submits", calls["submits"] + 1))
+    monkeypatch.setattr(youtube, "wait_and_download_sarvam", lambda *a: None)
+    monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:00:30")
+    monkeypatch.setattr(youtube, "load_date_cache", lambda _: {})
+    monkeypatch.setattr(youtube, "save_date_cache", lambda *_: None)
+
+    def fake_build(audios_dir, json_dir, directory, videos, **kwargs):
+        calls["built"] = len(videos)
+        return len(videos)
+
+    monkeypatch.setattr(youtube, "build_markdowns_from_json", fake_build)
+    (video_dir / "2026-07-31-old-olddddd11.md").write_text(
+        "---\nid: oldddddd11\n---\n\n# Old\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nOld spoken text.\n"
+    )
+    cli.collect_youtube("https://youtube.com/@me", data, tmp_path / "audios", date(2026, 7, 1), True)
+    assert calls["downloads"] == 1  # Only the new video was downloaded.
+    assert calls["submits"] == 1
+    assert calls["built"] == 2  # Export still covers every indexed video.
+    assert not list((tmp_path / "audios").rglob("*.mp3"))  # Audio deleted after build.
+
+
+def test_worker_crash_is_recorded_not_fatal(tmp_path, monkeypatch, capsys):
+    """An unexpected per-platform exception is reported and the command still exits 1."""
+    import yaml as yaml_module
+
+    monkeypatch.setattr(cli, "ROOT", tmp_path)
+    monkeypatch.setattr(progress.sys.stderr, "isatty", lambda: False)
+
+    def crash(*args):
+        raise yaml_module.YAMLError("malformed frontmatter")
+
+    monkeypatch.setattr(cli, "collect_twitter", crash)
+    with pytest.raises(SystemExit) as error:
+        cli.main(
+            ["--user", "test-user", "--since", "2020-01-01", "--twitter", "https://x.com/test"]
+        )
+    assert error.value.code == 1
+    output = capsys.readouterr()
+    assert "malformed frontmatter" in output.err
+    assert "Traceback" not in output.err
+    assert output.out == ""
+
+
+def test_harvest_comments_402_preserves_remaining_posts(tmp_path, monkeypatch):
+    """When HarvestAPI credits run out (HTTP 402) on comments, save remaining posts without crashing."""
+    posts_dir = tmp_path / "posts"
+    posts = [
+        {"id": "post1", "content": "Post 1 text", "engagement": {"comments": 5}, "linkedinUrl": "https://linkedin.com/p1"},
+        {"id": "post2", "content": "Post 2 text", "engagement": {"comments": 3}, "linkedinUrl": "https://linkedin.com/p2"},
+        {"id": "post3", "content": "Post 3 text", "engagement": {"comments": 2}, "linkedinUrl": "https://linkedin.com/p3"},
+    ]
+    comment_calls = []
+
+    def mock_fetch_comments(url, key):
+        comment_calls.append(url)
+        raise RuntimeError("HarvestAPI HTTP 402: Used all credits available - please top up your balance")
+
+    monkeypatch.setattr(linkedin, "fetch_comments_for_post", mock_fetch_comments)
+
+    index = linkedin.save_posts_to_markdown(posts, posts_dir, api_key="test-key", comments_min=1)
+    # All 3 posts must be successfully saved!
+    assert len(index) == 3
+    # Comment call attempted once, recognized 402, and stopped hammering the API
+    assert len(comment_calls) == 1
+    files = list(posts_dir.glob("*.md"))
+    assert len(files) == 3
+    contents = [f.read_text() for f in files]
+    assert any("Post 1 text" in c for c in contents)
+    assert any("Post 2 text" in c for c in contents)
+    assert any("Post 3 text" in c for c in contents)
+
 
 
 def test_instagram_single_image_ocr_keeps_caption_and_alt(tmp_path, monkeypatch):

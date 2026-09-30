@@ -17,6 +17,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 if __package__ is None:  # Allow direct script invocation after moving under social/.
     sys.path.insert(0, str(PROJECT_ROOT))
 from social.dates import published_day
+from social.fs import atomic_write
 from social.progress import track
 
 load_dotenv(PROJECT_ROOT / ".env")
@@ -354,7 +355,7 @@ def save_tweets_to_markdown(
 
         fm_yaml = yaml.safe_dump(frontmatter, sort_keys=False, allow_unicode=True).strip()
         md_content = f"---\n{fm_yaml}\n---\n\n{text}{retweet_block}{quoted_block}\n"
-        filepath.write_text(md_content, encoding="utf-8")
+        atomic_write(filepath, md_content)
 
         tweet_index.append({
             "id": tweet_id,
@@ -373,7 +374,7 @@ def dump_yaml(data: Any, output_path: Path | None = None) -> None:
     yaml_str = yaml.safe_dump(data, sort_keys=False, allow_unicode=True, width=120)
     if output_path:
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        output_path.write_text(yaml_str, encoding="utf-8")
+        atomic_write(output_path, yaml_str)
         print(f"Saved to {output_path}", file=sys.stderr)
     else:
         print(yaml_str)
