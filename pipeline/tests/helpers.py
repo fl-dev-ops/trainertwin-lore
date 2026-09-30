@@ -116,6 +116,47 @@ def products(payload):
     return result
 
 
+def selected_citations(value, units):
+    if isinstance(value, list):
+        return [selected_citations(v, units) for v in value]
+    if not isinstance(value, dict):
+        return value
+    if "quote" in value and "unit_id" in value:
+        unit = next(u for u in units if u["id"] == value["unit_id"])
+        candidates = [
+            s for s in unit.get("citation_spans", []) if value["quote"] in s["text"]
+        ]
+        sid = (
+            min(candidates, key=lambda s: len(s["text"]))["id"]
+            if candidates
+            else unit["id"]
+        )
+        return {
+            "span_id": sid,
+            **{
+                k: selected_citations(v, units)
+                for k, v in value.items()
+                if k not in {"unit_id", "quote"}
+            },
+        }
+    return {k: selected_citations(v, units) for k, v in value.items()}
+
+
+def repair_sections(result, payload):
+    if "failed_items" not in payload:
+        return result
+    return {
+        section: [
+            next(
+                (v for v in result[section] if v.get("title") == bad.get("title")),
+                result[section][0],
+            )
+            for bad in items
+        ]
+        for section, items in payload["failed_items"].items()
+    }
+
+
 class FakeModel:
     model = "offline/fake"
 
@@ -133,8 +174,10 @@ class FakeModel:
         if self.calls == self.fail_at:
             raise RuntimeError("temporary failure")
         payload = json.loads(user.split("\nValidation error:", 1)[0])
-        if name == "source_products":
-            return products(payload)
+        if name in {"source_products", "source_products_repair"}:
+            return repair_sections(
+                selected_citations(products(payload), payload["units"]), payload
+            )
         if name == "twin_observations":
             ex = payload["examples"][0]
             content = ex["record"]

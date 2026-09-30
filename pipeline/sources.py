@@ -13,6 +13,8 @@ from urllib.parse import urlparse
 
 import yaml
 
+from .evidence import frontmatter
+
 EXTENSIONS = {".md", ".markdown", ".txt", ".json", ".jsonl", ".yaml", ".yml", ".csv"}
 UNIT_CHARS = 800
 SOURCE_FORMAT_VERSION = "source-products-v4"
@@ -190,14 +192,7 @@ def read_source(path: Path, root: Path | None = None) -> Source | None:
             and lines
             and lines[0].strip() == "---"
         ):
-            try:
-                end = lines.index("---", 1)
-            except ValueError as exc:
-                raise ValueError(f"Unclosed Markdown frontmatter: {path}") from exc
-            metadata = yaml.safe_load("\n".join(lines[1:end])) or {}
-            if not isinstance(metadata, dict):
-                raise ValueError(f"Invalid Markdown frontmatter: {path}")
-            start = end + 1
+            metadata, start = frontmatter(text)
         transcript = metadata.get("transcript") is True
         representation = "spoken_turn" if transcript else "authored_text"
         time = speaker = ""

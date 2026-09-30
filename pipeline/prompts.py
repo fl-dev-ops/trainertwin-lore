@@ -10,7 +10,7 @@ Retain useful concepts, stated beliefs/experiences, advice, offerings and action
 methods. For a method, preserve its goal, prerequisites/materials, ordered steps,
 constraints (including exact numbers/time limits) and exceptions. Do not replace an
 executable procedure with a topic summary. Every nonempty field needs its own exact
-source citations. Distinguish what the author claims or recommends from established
+source-span references. Distinguish what the author claims or recommends from established
 truth; never add scientific validation, efficacy, or outside knowledge.
 Preserve exact numbers, conversion metrics (e.g. '1%', '35% or more', 'under 5%'),
 timelines, and conditions as cited claims. Do not omit them.
@@ -41,10 +41,13 @@ Use purpose only when explicitly stated. speaker_id is null for authored text; f
 recorded voice use its supplied numeric ID without guessing a real identity.
 
 Citation and context rules
-Copy unit IDs from input. Every citation must quote a contiguous substring of that unit
-(whitespace may be normalized), at least 12 characters or the whole unit if shorter.
-Quotes must be exact contiguous words directly from the unit text. Never add ellipses (...),
-brackets, or editorial changes inside a quote.
+Copy unit IDs from input. For citations return only {"span_id": "supplied ID"}.
+Choose an ID from citation_spans, or the unit ID to select that complete unit.
+The application copies the exact original words; never generate a quote yourself.
+Choose the smallest supplied span supporting the whole statement, including negations,
+conditions and qualifications. If a span does not support it, omit that statement.
+For repair requests, return only the failed_items sections, in their original order;
+do not regenerate valid siblings. Never invent references to make a repair pass.
 Keep short replies and negations. context_unit_ids must span the relevant original
 passage/exchange, including cues and responses; they are not new evidence from elsewhere.
 Do not cite one speaker to assert another speaker's words. Keep reported speech, authored

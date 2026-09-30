@@ -1,11 +1,80 @@
 """Small OpenRouter client with bounded retries and strict JSON responses."""
 
 import json
+import math
 import random
 import time
 from typing import Any
 
 import httpx
+
+from .storage import atomic, js, load_json
+
+
+class ProviderBlocked(RuntimeError):
+    """Account/configuration failure: no subsequent paid work should be scheduled."""
+
+
+class SpendBudget:
+    """Conservative reservations, persisted before dispatch. Prices are operator inputs.
+
+    UTF-8 bytes bound text-token counts conservatively; output is explicitly capped.
+    Lost/unknown responses keep their reservation. This is not a billing guarantee
+    if the provider charges above the configured rates or outside token usage.
+    """
+
+    def __init__(self, maximum, input_price, output_price, path):
+        if not all(
+            math.isfinite(x) and x >= 0 for x in (maximum, input_price, output_price)
+        ):
+            raise ValueError(
+                "Dollar cap and token prices must be finite and nonnegative"
+            )
+        self.maximum, self.input_price, self.output_price, self.path = (
+            maximum,
+            input_price,
+            output_price,
+            path,
+        )
+        self.spent = load_json(path)["spent_or_reserved_usd"] if path.exists() else 0.0
+        if (
+            type(self.spent) not in {int, float}
+            or not math.isfinite(self.spent)
+            or self.spent < 0
+        ):
+            raise ValueError("Invalid persisted spend budget")
+
+    def reserve(self, payload, max_output_tokens):
+        amount = (
+            (len(js(payload).encode("utf-8")) + 512) * self.input_price
+            + max_output_tokens * self.output_price
+        ) / 1_000_000
+        if self.spent + amount > self.maximum:
+            raise ProviderBlocked(
+                f"Dollar budget exhausted: ${self.spent:.4f} spent/reserved; next reservation ${amount:.4f}, cap ${self.maximum:.2f}"
+            )
+        self.spent += amount
+        self.save()
+        return amount
+
+    def settle(self, reservation, usage):
+        actual = usage.get("cost")
+        if type(actual) in {int, float} and math.isfinite(actual) and actual >= 0:
+            self.spent += actual - reservation
+            self.save()
+
+    def save(self):
+        atomic(
+            self.path,
+            js(
+                {
+                    "max_usd": self.maximum,
+                    "spent_or_reserved_usd": self.spent,
+                    "input_usd_per_million": self.input_price,
+                    "output_usd_per_million": self.output_price,
+                }
+            ),
+        )
 
 
 class ModelError(RuntimeError):
@@ -20,6 +89,8 @@ class OpenRouter:
             raise ValueError("OPENROUTER_API_KEY and --model are required")
         self.model = model
         self.last_usage: dict[str, Any] = {}
+        self.spend_budget = None
+        self.max_output_tokens = 8192
         self.http = httpx.Client(
             base_url="https://openrouter.ai/api/v1",
             headers={
@@ -48,8 +119,14 @@ class OpenRouter:
                 "json_schema": {"name": name, "strict": True, "schema": schema},
             },
             "provider": {"require_parameters": True},
+            "max_tokens": self.max_output_tokens,
         }
         for attempt in range(4):
+            reservation = (
+                self.spend_budget.reserve(payload, self.max_output_tokens)
+                if self.spend_budget
+                else None
+            )
             try:
                 response = self.http.post("/chat/completions", json=payload)
                 if response.status_code in (408, 429, 500, 502, 503, 504):
@@ -67,11 +144,16 @@ class OpenRouter:
                     continue
                 if response.is_error:
                     # Never print the response body: upstream errors can echo request content.
-                    raise ModelError(
-                        f"OpenRouter HTTP {response.status_code}; check model/schema/credits"
+                    raise ProviderBlocked(
+                        f"OpenRouter HTTP {response.status_code}; stop paid stages and check model/schema/credits"
                     )
                 data = response.json()
                 self.last_usage = data.get("usage") or {}
+                if not isinstance(self.last_usage, dict):
+                    self.last_usage = {}
+                    raise ModelError("Malformed OpenRouter usage")
+                if self.spend_budget:
+                    self.spend_budget.settle(reservation, self.last_usage)
                 choice = data["choices"][0]
                 if choice.get("finish_reason") != "stop":
                     raise ModelError(

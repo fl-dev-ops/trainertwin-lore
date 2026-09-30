@@ -147,7 +147,7 @@ def test_invalid_chunk_is_repaired_or_failed_not_silently_salvaged(tmp_path):
             return result
 
     model = Repair()
-    assert ingest_one(source, ws, model, budget=[2])
+    assert ingest_one(source, ws, model, budget=[2], retry_failed=True)
     assert model.calls == 2
 
 

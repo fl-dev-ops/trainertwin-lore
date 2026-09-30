@@ -7,8 +7,10 @@ import hashlib
 import json
 import os
 import tempfile
+import time
 from collections.abc import Callable
 from contextlib import contextmanager
+from copy import deepcopy
 from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any, Protocol
@@ -61,6 +63,8 @@ def jsonl(values: list[dict]) -> str:
 
 
 def atomic(path: Path, text: str) -> None:
+    if path.is_file() and path.read_text(encoding="utf-8") == text:
+        return
     path.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.NamedTemporaryFile(
         "w", encoding="utf-8", dir=path.parent, delete=False
@@ -156,6 +160,39 @@ def check_artifacts(directory: Path, inputs: dict | None = None) -> dict:
     return receipt
 
 
+class InvalidItems(ValueError):
+    """Item-local failures can be repaired without regenerating valid siblings."""
+
+    def __init__(self, errors):
+        self.errors = errors  # (section, index, message)
+        super().__init__("; ".join(f"{s}[{i}]: {e}" for s, i, e in errors))
+
+
+def call_key(model, operation, schema, prompt, payload):
+    return digest([SCHEMA_VERSION, model, operation, schema, prompt, payload])
+
+
+def source_progress(workspace, stage, source, status, error=None):
+    atomic(
+        workspace / "work" / f"{stage}_sources" / f"{source.id}.json",
+        js(
+            {
+                "source_id": source.id,
+                "source_path": source.relative_path,
+                "source_hash": source.sha256,
+                "metadata_hash": source.metadata_hash,
+                "status": status,
+                "error": error,
+            }
+        ),
+    )
+
+
+def work_state(workspace, operation, key):
+    path = workspace / "work" / operation / f"{key}.json"
+    return load_json(path) if path.exists() else {"status": "pending"}
+
+
 def cached_call(
     workspace: Path,
     model: Model,
@@ -165,50 +202,155 @@ def cached_call(
     payload: dict,
     budget: list[int],
     validate: Callable[[dict], Any],
+    *,
+    retry_failed=False,
 ) -> Any:
-    """One logical budget for every request/repair; never cache invalid output."""
+    """Persist checkpoints, quarantine rejected responses, and repair only bad items."""
     if len(budget) != 1 or type(budget[0]) is not int or budget[0] < 0:
         raise ValueError("Budget must contain one nonnegative integer")
-    key = digest([SCHEMA_VERSION, model.model, operation, schema, prompt, payload])
+    key = call_key(model.model, operation, schema, prompt, payload)
     cache = workspace / "cache" / operation / f"{key}.json"
+    state_path = workspace / "work" / operation / f"{key}.json"
+    state = work_state(workspace, operation, key)
+
+    def mark(status, error=None):
+        state.update(
+            status=status,
+            key=key,
+            operation=operation,
+            source_id=payload.get("source_id"),
+            updated_at=stamp(),
+            error=error,
+        )
+        atomic(state_path, js(state))
+
     if cache.exists():
-        return validate(load_json(cache))
-    message = js(payload)
+        try:
+            value = validate(load_json(cache))
+        except ValueError as exc:
+            mark("failed", str(exc))
+            if not retry_failed:
+                raise ValueError(
+                    f"Cached {operation} fails current validation; audit or use --retry-failed: {exc}"
+                ) from exc
+        else:
+            if state.get("status") != "completed":
+                mark("completed")
+            return value
+    if state.get("status") == "failed" and not retry_failed:
+        raise ValueError(
+            f"Previous {operation} failed; use --retry-failed: {state.get('error')}"
+        )
+    request_schema, message, request_name = schema, js(payload), operation
+    original, bad = None, None
     for attempt in range(2):
         if budget[0] <= 0:
+            mark("blocked", "call_budget")
             raise RuntimeError(
                 f"Call budget exhausted ({operation}); completed calls remain cached"
             )
         budget[0] -= 1
+        state["attempts"] = state.get("attempts", 0) + 1
+        mark("pending")  # An interrupted request remains resumable, never completed.
+        started = time.monotonic()
         try:
-            result = model.complete(operation, schema, prompt, message)
+            response = model.complete(request_name, request_schema, prompt, message)
+        except Exception as exc:
+            mark("blocked", str(exc))
+            raise
         finally:
             usage = getattr(model, "last_usage", None)
-            if isinstance(usage, dict) and usage:
-                append(
-                    workspace / "usage.jsonl",
-                    {
-                        "at": stamp(),
-                        "model": model.model,
-                        "operation": operation,
-                        "repair": bool(attempt),
-                        "usage": usage,
-                    },
-                )
+            append(
+                workspace / "usage.jsonl",
+                {
+                    "at": stamp(),
+                    "model": model.model,
+                    "operation": operation,
+                    "repair": bool(attempt),
+                    "key": key,
+                    "source_id": payload.get("source_id"),
+                    "duration_seconds": time.monotonic() - started,
+                    "usage": usage if isinstance(usage, dict) else {},
+                },
+            )
+        result = response
         try:
+            if bad is not None:
+                if not isinstance(response, dict) or set(response) != set(bad):
+                    raise ValueError("Repair must return exactly the failed sections")
+                result = deepcopy(original)
+                for section, indices in bad.items():
+                    if not isinstance(response[section], list) or len(
+                        response[section]
+                    ) != len(indices):
+                        raise ValueError(
+                            "Repair must return every failed item in order"
+                        )
+                    for index, item in zip(indices, response[section], strict=True):
+                        result[section][index] = item
             value = validate(result)
         except ValueError as exc:
+            atomic(
+                workspace / "rejected" / operation / f"{key}-{state['attempts']}.json",
+                js(
+                    {
+                        "key": key,
+                        "request": message,
+                        "response": response,
+                        "error": str(exc),
+                        "at": stamp(),
+                    }
+                ),
+            )
             log(workspace, f"validation-failed | {operation} | {exc}")
+            mark("failed", str(exc))
             if attempt:
                 raise ValueError(
                     f"Invalid {operation} after repair; nothing published: {exc}"
                 ) from exc
-            message = (
-                js(payload)
-                + f"\nValidation error: {exc}. Return a complete corrected response; do not invent missing evidence."
-            )
+            repair_payload = {**payload, "validation_error": str(exc)}
+            if isinstance(exc, InvalidItems):
+                original, bad = result, {}
+                for section, index, _ in exc.errors:
+                    bad.setdefault(section, []).append(index)
+                repair_payload["failed_items"] = {
+                    s: [result[s][i] for i in indices] for s, indices in bad.items()
+                }
+                # Keep only referenced units and adjacent context. Unknown references
+                # fall back to the supplied window, never to another source.
+                units = payload.get("units", [])
+                selected = js(repair_payload["failed_items"])
+                positions = [i for i, u in enumerate(units) if u["id"] in selected]
+                if positions:
+                    wanted = {
+                        j
+                        for i in positions
+                        for j in range(max(0, i - 1), min(len(units), i + 2))
+                    }
+                    repair_payload["units"] = [
+                        u for i, u in enumerate(units) if i in wanted
+                    ]
+                properties = {
+                    s: {
+                        **schema["properties"][s],
+                        "minItems": len(indices),
+                        "maxItems": len(indices),
+                    }
+                    for s, indices in bad.items()
+                }
+                request_schema = {
+                    "type": "object",
+                    "properties": properties,
+                    "required": list(properties),
+                    "additionalProperties": False,
+                }
+                request_name = operation + "_repair"
+            else:
+                repair_payload["previous_response"] = response
+            message = js(repair_payload)
         else:
             atomic(cache, js(result))
+            mark("completed")
             return value
     raise AssertionError("unreachable")
 

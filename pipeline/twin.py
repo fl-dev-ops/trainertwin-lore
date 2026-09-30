@@ -4,7 +4,8 @@ from collections import Counter, defaultdict, deque
 from pathlib import Path
 
 from . import prompts
-from .core import active_records, artifact_inputs, escaped, link
+from .core import active_records, artifact_inputs, escaped, link, wiki_inputs
+from .evidence import literal as quote_in_text
 from .records import (
     array,
     attributed_to,
@@ -13,7 +14,6 @@ from .records import (
     obj,
     original_context,
     plain,
-    quote_in_text,
     text,
     validate_schema,
 )
@@ -342,8 +342,9 @@ def build_twin(
     max_sources=12,
     max_chars=24000,
     reviewed_only=False,
+    retry_failed=False,
 ) -> Path:
-    check_artifacts(workspace / "wiki", artifact_inputs(workspace, source_dir))
+    check_artifacts(workspace / "wiki", wiki_inputs(workspace, source_dir))
     records, sources = active_records(workspace, source_dir)
     examples, coverage = prepare_examples(
         records, sources, authors, max_sources, reviewed_only=reviewed_only
@@ -370,6 +371,7 @@ def build_twin(
             },
             budget,
             lambda value, allowed=allowed: validate_patterns(value, allowed),
+            retry_failed=retry_failed,
         )
         patterns.extend(result)
     profile = {

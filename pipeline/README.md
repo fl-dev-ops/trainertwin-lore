@@ -12,7 +12,8 @@ Unknown information stays null/empty. A recorded exchange is not the same as a n
 read-only sources
   → original snapshots + bounded citation units
   → one source-local extraction → three typed record products
-  → deterministic wiki (no second LLM paraphrase)
+  → optional cached organization (episodes, named mentions, canonical topic aliases)
+  → linked wiki: topics / entities / methods / episodes / expression / sources
   → attributed twin observations + separately labeled proposed adaptations
   → offline task-conditioned context / compiled research report
   → optional field-level model audit + explicit human review
@@ -39,7 +40,9 @@ uv run python -m pipeline --user olga run --author olgasi \
 
 Defaults are `users/<slug>/data` and `users/<slug>/workspace`, selected by `--user` (default `olga`). Explicit `--data` and `--workspace` must be supplied together and must be separate, non-nested directories.
 
-`--max-calls` is a shared **per-invocation logical request cap**, including repairs. It is not a lifetime or monetary cap: HTTP retries can make additional network requests. A live experiment needs a separately metered lifetime/spend limit; `scripts/run_pipeline_pilot.py` persists its `--max-calls` logical cap across reruns in the same workspace (HTTP retries still are not a monetary cap). This refactor's checks and demo require no paid calls.
+`--max-calls` is a shared **per-invocation logical request cap**, including repairs. HTTP retries can make additional network requests. For spend control, add `--max-usd` with explicit `--input-price` and `--output-price` (USD per million tokens). The persistent ceiling in `work/spend.json` counts spending/reservations since this budget was first enabled, across subsequent commands using it—not historical billing before it was enabled. Raise that ceiling explicitly to extend it. Every HTTP attempt reserves a conservative input-byte bound plus `--max-output-tokens` (default 8192) before dispatch. Known provider cost settles the reservation; interrupted/unknown requests retain it. Provider pricing must not exceed your supplied rates; this is not an external billing guarantee.
+
+Use `plan` before approving calls. It requires no API key and distinguishes cached, pending, failed, and blocked windows. Add token prices for conservative cost estimates and `--seconds-per-call` for a measured-rate ETA; unknown estimates stay null. Topic grouping and additional HTTP retries are not included in source-window totals.
 
 ## Individual stages
 
@@ -47,9 +50,13 @@ Use the same `--user SLUG` (or explicit `--data … --workspace …`) prefix for
 
 | Command | Purpose | Model calls |
 | --- | --- | --- |
-| `status` | Count available/ingested files; list stale source revisions | None |
+| `status` | Source completeness, stale revisions, and durable work states | None |
+| `plan --stage ingest\|organize --model …` | Offline source/window/cache/cost preflight | None |
+| `audit-grounding` | Strict read-only check of stored evidence, including legacy fuzzy quotations | None |
 | `ingest --model … --max-calls N` | Extract and validate all three products; resume from cache | Budgeted |
-| `build` | Render source/topic/category pages, timeline and product JSONL | None |
+| `build` | Render the linked wiki from existing records and any completed organization | None |
+| `organize --model … --max-calls N` | Organize selected ingested sources into episodes/entities, group topic aliases, then rebuild the wiki | Budgeted |
+| `browse [QUERY]` | Find wiki entries using kind/platform/activity/part/role filters | None |
 | `twin --author ALIAS --model … --max-calls N` | Build attributed observation/adaptation candidates after `build` | Budgeted |
 | `analyze` | Compile current wiki and optional twin into `reports/analysis.md` | None |
 | `context 'QUESTION' --author ALIAS` | Emit a task-conditioned JSON packet | None |
@@ -63,6 +70,42 @@ Use the same `--user SLUG` (or explicit `--data … --workspace …`) prefix for
 `context` accepts `--platform`, `--as-of YYYY-MM-DD`, `--max-records`, `--max-chars`, and `--reviewed-only`. It uses lexical relevance, returns the products separately with original source spans, preserves complete selected records, and abstains if nothing fits/matches. It is not semantic retrieval or a runtime chatbot. Undated sources are excluded when an as-of filter is supplied.
 
 `audit --record-id ID` can be repeated to select records. Audit responses must cover every field exactly once. Model verdicts remain diagnostics and do not mark records as human-reviewed or automatically remove them.
+
+## Structured wiki pilot
+
+Organization does not re-ingest sources, replace extraction records, generate a persona, or rebuild reports. Select ingested files with repeated `--include` globs; successful calls are cached and an identical rerun needs zero new calls. Each fully processed source is checkpointed before moving on, so later failures retain completed source organization. The wiki renders once when the stage exits, including ordinary budget/provider failures, rather than after every source. Hard kills may leave a stale wiki; `build` restores it from completed checkpoints. Unchanged files are not rewritten. Invalid source organization is rejected and logged, then later sources continue; the command still exits unsuccessfully if any source failed. Provider and budget failures stop immediately. If the topic pass is incomplete, original labels remain navigable and coverage marks topic organization incomplete.
+
+```sh
+uv run python -m pipeline --user vasanth organize \
+  --include 'youtube/video/*2026-06-09*' \
+  --model openai/gpt-4o --chunk-chars 60000 --max-calls 8
+uv run python -m pipeline --user vasanth browse --kind episodes --activity teaching
+uv run python -m pipeline --user olga browse --kind sources --part caption
+uv run python -m pipeline --user olga lint --wiki-only
+```
+
+Start at `workspace/wiki/index.md`. Each of the six entry directories has an index; `catalog.json` supplies machine-readable links and metadata. Topic pages group aliases and show methods, episodes, named mentions, and original records. Method/expression pages are source-local variants, not automatically merged behavioral patterns. Source pages expose the original citation passages plus captured Markdown titles, descriptions, omitted hashtags, and comments as distinct parts. Numeric voices and third-party comments never inherit publisher identity.
+
+`organize` processes whole units in bounded, single-content-part windows; captions, descriptions, transcripts, and comments never share a model window. Separating parts can require more calls than text-size chunking alone; `organize --dry-run` shows the actual window count. Episodes from multi-window sources are explicitly marked `source_window`, not complete-session analysis. Activity and role labels remain unreviewed. Unsupported optional entity candidates are omitted and counted in coverage; unsupported episode evidence still fails its source. Entity mentions do not establish relationships. People/projects remain source-scoped; other equal names are grouped as mention labels, not verified identity resolution. Coverage reports which sources have not been organized. Source changes suppress stale episodes/entities until reorganization.
+
+`browse` supports `--kind`, `--platform`, `--activity`, `--part`, `--role`, and `--limit`. Activity/role filters select organized episodes; absence of a match is not proof of absent behavior. This is navigation, not a report generator. Normal `lint` still reports stale downstream reports; `lint --wiki-only` deliberately checks only source/wiki integrity while reports remain a later step.
+
+## Resumption and grounding migration
+
+```sh
+# Read-only, no network calls:
+uv run python -m pipeline --user olga audit-grounding
+uv run python -m pipeline --user olga plan --stage ingest --model openai/gpt-4o
+uv run python -m pipeline --user olga plan --stage organize --model openai/gpt-4o --chunk-chars 60000
+uv run python -m pipeline --user olga status
+uv run python -m pipeline --user olga lint --wiki-only --require-complete
+```
+
+- `work/<operation>/<key>.json` tracks pending/completed/failed/blocked requests. Source checkpoints live in `work/{ingest,organize}_sources/`. Failed validation is not automatically paid for again: use `--retry-failed` deliberately. Budget/provider-blocked and interrupted work can resume, reusing validated windows.
+- `rejected/<operation>/` keeps failed requests/responses for offline diagnosis, never as serving evidence. Item-local repairs send only failed items and relevant source units; valid sibling items are preserved, and the complete result is revalidated. At most one repair per window per attempt.
+- `usage.jsonl` includes request duration, source ID and request key. `timings.jsonl` separates wiki validation and rendering time. `status` and `lint` distinguish completeness from artifact integrity; `--require-complete` also requires linked-wiki organization and topic grouping.
+- New extraction/organization requests select supplied citation span IDs. Code copies exact original quotations. Entity mentions select a bounded range of numbered source words; topic IDs are generated in code. Statements and activity/role labels still require semantic review.
+- Stored quotations now require literal occurrence in their named unit after whitespace normalization; no fuzzy matching, capitalization correction, omitted negations, or invented ellipses. Existing evidence is **not rewritten or silently approved**. Run `audit-grounding` first: it lists incompatible records without changing them. New prompt/schema signatures intentionally have distinct cache keys; old caches and snapshots remain on disk. A full `ingest` using the new contract may therefore require new calls—inspect `plan` before running it.
 
 ## Sources and attribution
 

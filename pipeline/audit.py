@@ -68,6 +68,7 @@ def audit_records(
     budget,
     record_ids=None,
     max_chars=32000,
+    retry_failed=False,
 ) -> Path:
     records, sources = read_records(workspace, source_dir)
     if record_ids:
@@ -103,6 +104,7 @@ def audit_records(
                 {"records": batch},
                 budget,
                 lambda result, batch=batch: validate_checks(result, batch),
+                retry_failed=retry_failed,
             )
         )
     fields = {f["id"]: (task, f) for task in tasks for f in task["fields"]}

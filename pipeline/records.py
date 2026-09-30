@@ -1,11 +1,11 @@
 """The three source-local information products and their citation contracts."""
 
-import difflib
 import re
 from copy import deepcopy
 
+from .evidence import literal, materialize, selection_schema, span_inputs
 from .sources import Source
-from .storage import digest
+from .storage import InvalidItems, digest
 
 PRODUCTS = ("knowledge", "cases", "expression")
 KNOWLEDGE_KINDS = ("claim", "self_report", "belief", "method", "advice", "offering")
@@ -104,6 +104,7 @@ EXPRESSION = obj(
 )
 SCHEMAS = {"knowledge": KNOWLEDGE, "cases": CASE, "expression": EXPRESSION}
 EXTRACTION_SCHEMA = obj({name: array(schema, 24) for name, schema in SCHEMAS.items()})
+EXTRACTION_REQUEST_SCHEMA = selection_schema(EXTRACTION_SCHEMA)
 
 
 def validate_schema(value, schema, path="response"):
@@ -138,6 +139,9 @@ def validate_schema(value, schema, path="response"):
             raise ValueError(f"{path}: invalid item count")
         for n, item in enumerate(value):
             validate_schema(item, schema["items"], f"{path}.{n}")
+    elif actual == "integer":
+        if not schema.get("minimum", value) <= value <= schema.get("maximum", value):
+            raise ValueError(f"{path}: integer out of range")
     elif actual == "string":
         if not value.strip() or not schema.get("minLength", 0) <= len(
             value
@@ -154,39 +158,6 @@ def slug(value: str) -> str:
     if not result or len(result) > 60:
         raise ValueError(f"Invalid topic label: {value!r}")
     return result
-
-
-def quote_in_text(quote: str, text: str, threshold: float = 0.85) -> bool:
-    q_clean = " ".join(re.findall(r"\w+", quote.lower()))
-    t_clean = " ".join(re.findall(r"\w+", text.lower()))
-    if not q_clean or not t_clean:
-        return False
-    if q_clean in t_clean or quote in text or plain(quote) in plain(text):
-        return True
-    segments = [s.strip() for s in re.split(r"\.{2,}|…", quote) if s.strip()]
-    if len(segments) > 1 and all(
-        quote_in_text(seg, text, threshold) for seg in segments
-    ):
-        return True
-    q_words = q_clean.split()
-    t_words = t_clean.split()
-    nq = len(q_words)
-    if nq == 0 or len(t_words) < nq - 2:
-        return False
-    if len(set(q_words) & set(t_words)) / len(set(q_words)) < 0.75:
-        return False
-    for win_len in (nq, nq - 1, nq + 1):
-        if win_len < 1 or win_len > len(t_words):
-            continue
-        for i in range(len(t_words) - win_len + 1):
-            sub = " ".join(t_words[i : i + win_len])
-            if difflib.SequenceMatcher(None, q_clean, sub).ratio() >= threshold:
-                return True
-    return False
-
-
-def split_quote_segments(quote: str) -> list[str]:
-    return [s.strip() for s in re.split(r"\.{2,}|…", quote) if s.strip()]
 
 
 def grounded_fields(content: dict) -> dict[str, dict]:
@@ -217,49 +188,31 @@ def normalize_item(product: str, item: dict, source: Source, chunk: list[dict]) 
     item["topic"] = plain(item["topic"])
     slug(item["topic"])
     units = {u["id"]: u for u in chunk}
-    context = [resolve_unit(ident, units) for ident in item["context_unit_ids"]]
-    if len(context) != len(set(context)):
-        raise ValueError("Duplicate context unit IDs")
+    context = list(
+        dict.fromkeys(resolve_unit(ident, units) for ident in item["context_unit_ids"])
+    )
     cited = set(context)
     positions = {u["id"]: n for n, u in enumerate(source.units)}
     for path, field in grounded_fields(item).items():
         field["text"] = plain(field["text"])
-        seen = set()
+        seen, citations = set(), []
         for citation in field["citations"]:
             ident = resolve_unit(citation["unit_id"], units)
             quote = plain(citation["quote"])
             unit = units[ident]
-            pos = positions[ident]
-            local = source.units[max(0, pos - 2) : min(len(source.units), pos + 3)]
-            local_text = " ".join(u["text"] for u in local)
-            matched = quote_in_text(quote, unit["text"]) or quote_in_text(
-                quote, local_text
-            )
-            if not matched:
-                for cand in chunk:
-                    if quote_in_text(quote, cand["text"]):
-                        ident = cand["id"]
-                        unit = units[ident]
-                        matched = True
-                        break
-            if not matched:
-                segments = split_quote_segments(quote)
-                if len(segments) > 1:
-                    matched = all(
-                        quote_in_text(seg, unit["text"])
-                        or quote_in_text(seg, local_text)
-                        or any(quote_in_text(seg, cand["text"]) for cand in chunk)
-                        for seg in segments
-                    )
-            if not matched or len(quote) < min(12, len(unit["text"])):
+            if not literal(quote, unit["text"]) or len(quote) < min(
+                12, len(unit["text"])
+            ):
                 raise ValueError(
                     f"Unsupported excerpt in {product}.{path}: {citation['quote']!r}"
                 )
             if (ident, quote) in seen:
-                raise ValueError("Duplicate citation in one field")
+                continue
             seen.add((ident, quote))
             citation.update(unit_id=ident, quote=quote)
+            citations.append(citation)
             cited.add(ident)
+        field["citations"] = citations
     first, last = min(positions[i] for i in cited), max(positions[i] for i in cited)
     span = source.units[first : last + 1]
     if any(u["id"] not in units for u in span):
@@ -285,7 +238,7 @@ def normalize_item(product: str, item: dict, source: Source, chunk: list[dict]) 
             for c in focal_field["citations"]
         )
     ):
-        speaker = item["speaker_id"] = None
+        raise ValueError("Focal speaker does not match the cited contribution")
     if product == "cases" and item["kind"] == "recorded_exchange":
         ids = {
             u["speaker_id"]
@@ -343,6 +296,33 @@ def extract_records(result: dict, chunk: list[dict], source: Source) -> list[dic
     if len({r["id"] for r in records}) != len(records):
         raise ValueError("Duplicate source record")
     return records
+
+
+def extract_selected(result, chunk, source):
+    if not isinstance(result, dict) or set(result) != set(PRODUCTS):
+        raise ValueError("Expected knowledge, cases and expression arrays")
+    _, spans = span_inputs(chunk)
+    records, errors = [], []
+    for product in PRODUCTS:
+        items = result[product]
+        if not isinstance(items, list) or len(items) > 24:
+            raise ValueError(f"Invalid {product} array")
+        for i, item in enumerate(items):
+            try:
+                validate_schema(
+                    item, EXTRACTION_REQUEST_SCHEMA["properties"][product]["items"]
+                )
+                content = normalize_item(
+                    product, materialize(item, spans), source, chunk
+                )
+                records.append(make_record(product, content, source))
+            except ValueError as exc:
+                errors.append((product, i, str(exc)))
+    if errors:
+        raise InvalidItems(errors)
+    if len(records) > 40:
+        raise ValueError("Too many source records in one extraction window")
+    return list({r["id"]: r for r in records}.values())
 
 
 def verify_records(records: list[dict], sources: dict[str, Source]) -> None:
