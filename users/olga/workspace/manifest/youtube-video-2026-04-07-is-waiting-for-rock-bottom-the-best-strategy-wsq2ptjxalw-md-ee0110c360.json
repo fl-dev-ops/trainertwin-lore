@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "youtube-video-2026-04-07-is-waiting-for-rock-bottom-the-best-strategy-wsq2ptjxalw-md-ee0110c360-f585353e8718a5846d76.jsonl",
+  "evidence_hash": "43e9d0da4a130004d377d433f0de215d866a5d81ffa6cae6e8ef78796c30f55b",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:08:23Z",
+  "metadata_hash": "307e74ec5262e373f14ec75f9d6bc8c9867adccc9476d37e049aa391c73e88d4",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "f585353e8718a5846d76",
+  "snapshot_hash": "ae75bf5383aa78b0eafaa322b77cb17fed10ab0f47b8abc4b5f9ea8a43561263",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-04-07-is-waiting-for-rock-bottom-the-best-strategy-wsq2ptjxalw-md-ee0110c360",
+  "source_path": "youtube/video/2026-04-07-is-waiting-for-rock-bottom-the-best-strategy-wsQ2pTJXAlw.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "8881111fe96abb2934cf652cabff5c24411f2d42fa067e4cc357749ff6a27d3c",
+  "source_snapshot": "youtube-video-2026-04-07-is-waiting-for-rock-bottom-the-best-strategy-wsq2ptjxalw-md-ee0110c360-f585353e8718a5846d76.json",
+  "version": "4"
+}

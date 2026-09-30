@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "69a63cf0093850dfe1d30a6ee1c4da75ab200bc648b245f6de2484b97c0cb0ed",
+  "date": "2026-04-10T12:58:15.657000Z",
+  "date_basis": "source",
+  "external_id": "7448353657458257920",
+  "format": "post",
+  "id": "linkedin-posts-2026-04-10-full-sales-training-on-my-md-28e8c12c3e",
+  "metadata_hash": "6914325ebee46699f6590246a6c39b1aeb2dbc2a35feb13aded7c140fdd26e1f",
+  "original_text": "---\nid: '7448353657458257920'\ndate: '2026-04-10T12:58:15.657Z'\nurl: https://www.linkedin.com/posts/olgasi_dubairealestatecareer-realestateagentdubai-activity-7448353657458257920-XE8a\nlikes: 9\ncomments: 1\nvideoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQGbjW7Jo9vdfQ/mp4-720p-30fp-crf28/B4DZ13eJh9JoBE-/0/1775825891011?e=1791298800&v=beta&t=A_y6cH6LwB04XIIeClW1GKmjgrp8M3sRD-onHTBp0rI\n---\n\nFull Sales training on my Youtube channel\n\n\n*\n*\n*\n*\n*\n#dubairealestatecareer #realestateagentdubai #dubairealestateindustrytips #dubaiagenttraining #realestateschool #newagentadvice #newrealestateagent #realestateinvesting #realtor #realestateagenttraining #realestatecoachingandtraining #dubaipropertyprices #newrealestateagenttips #dubairealestatecrash #howtosell #dubairealestateagent #realestateagentcareer #salestips #howtobecomearealestateagentindubai #howtogetlistings\n\n## Comments (1)\n\n### Md. Monir Hossain (🚀 YouTube Marketing, Website SEO & Development | I Help Brands Build, Rank & Grow Online | Amazon Affiliate Marketing | WordPress • SMM • Google Tools, 1000+ completed projects.)\n> Really impressed with your content quality 👏\n> I’ve worked on similar channels and helped them grow their views significantly.\n> Happy to share a few ideas if you're interested 🙂\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-04-10-full-sales-training-on-my-md-28e8c12c3e:p000001",
+      "locator": "lines 10-10",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Full Sales training on my Youtube channel"
+    }
+  ],
+  "path": "linkedin/posts/2026-04-10-full-sales-training-on-my.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-04-10-full-sales-training-on-my.md",
+  "sha256": "47c041acfae4847b60a173c0b5655b53041c7cfea664ab7722ff945a221c69c1",
+  "speakers": {},
+  "title": "Full Sales training on my Youtube channel",
+  "units": [
+    {
+      "end": 41,
+      "id": "linkedin-posts-2026-04-10-full-sales-training-on-my-md-28e8c12c3e:u000001",
+      "locator": "lines 10-10",
+      "passage_id": "linkedin-posts-2026-04-10-full-sales-training-on-my-md-28e8c12c3e:p000001",
+      "raw_text": "Full Sales training on my Youtube channel",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Full Sales training on my Youtube channel"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_dubairealestatecareer-realestateagentdubai-activity-7448353657458257920-XE8a"
+}

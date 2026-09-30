@@ -1,0 +1,222 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000183",
+        "u000188",
+        "u000189"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "now you explain that concept of micro task, macro task with the one simple file with the console, right? What if if I have the same kind of file in two files?",
+            "unit_id": "u000183"
+          }
+        ],
+        "text": "A participant asks about execution of tasks in files."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "files are something a logical separation for human to understand",
+            "unit_id": "u000188"
+          }
+        ],
+        "text": "Logical separation of files is for human understanding; browsers may see it as one JavaScript dump."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "What if if I have the same kind of file in two files? So how it will execute?",
+            "unit_id": "u000183"
+          }
+        ],
+        "text": "A participant asks how two JavaScript files will execute in terms of task management."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Understanding Task Execution in JavaScript",
+      "topic": "JavaScript Task Execution"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000213",
+        "u000217"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Pranita asked, does event loop push all task from uh micro task at once or one by one?",
+            "unit_id": "u000213"
+          },
+          {
+            "quote": "promises maybe we primarily use for API calls and other things.",
+            "unit_id": "u000217"
+          }
+        ],
+        "text": "The speaker outlines the different priorities assigned to micro tasks and macro tasks, providing insights into how these might serve developer needs."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Explaining Micro and Macro Tasks",
+      "topic": "JavaScript Task Queues"
+    },
+    {
+      "context_unit_ids": [
+        "u000209",
+        "u000211"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "actually write a lightweight uh JavaScript compiler actually.",
+            "unit_id": "u000209"
+          },
+          {
+            "quote": "write in any language like Python, Rust or any language wherever you are comfortable",
+            "unit_id": "u000211"
+          }
+        ],
+        "text": "The speaker encourages the audience to engage in creating a lightweight JavaScript compiler, citing potential learning benefits."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Encouraging Compiler Experimentation",
+      "topic": "JavaScript Compiler"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000179",
+        "u000180",
+        "u000182"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the implementation is left to the different environments",
+            "unit_id": "u000179"
+          },
+          {
+            "quote": "JavaScript is basically giving an option to everyone who is implementing",
+            "unit_id": "u000180"
+          },
+          {
+            "quote": "JavaScript as a language or as a body it is not putting a restriction on that.",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "JavaScript does not impose restrictions on how it must be implemented; environments can choose their implementation method as long as they follow JavaScript's rules."
+      },
+      "title": "JavaScript Implementation Flexibility",
+      "topic": "JavaScript Environment"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000192",
+        "u000195",
+        "u000196",
+        "u000197"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "as you mentioned that any task that is put inside this stack is executed immediately",
+            "unit_id": "u000192"
+          },
+          {
+            "quote": "There is an execution context that will be created and statements will be executed inside that.",
+            "unit_id": "u000195"
+          },
+          {
+            "quote": "A calling B, B calling C, right? Then what would happen is like the first whenever you are calling A, A is pushed onto the stack.",
+            "unit_id": "u000196"
+          },
+          {
+            "quote": "language that we use has a equivalent property as that of the stack where execution order is maintained.",
+            "unit_id": "u000197"
+          }
+        ],
+        "text": "Call stack in JavaScript maintains execution order and ensures correct function call stacking and return value passing."
+      },
+      "title": "Call Stack and Execution Order",
+      "topic": "JavaScript Call Stack"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000198",
+        "u000201",
+        "u000205"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you'll not be able to visualize because these are intrinsic.",
+            "unit_id": "u000201"
+          },
+          {
+            "quote": "these are the rules that you need to follow if you are writing a compiler or interpreter for my language.",
+            "unit_id": "u000205"
+          }
+        ],
+        "text": "The decision of whether to place a task in the micro task queue or the macro task queue is intrinsic and cannot be visualized directly."
+      },
+      "title": "Micro Task and Macro Task Visualization",
+      "topic": "JavaScript Task Queues"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000209",
+        "u000210"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you can actually write a lightweight uh JavaScript compiler actually.",
+            "unit_id": "u000209"
+          },
+          {
+            "quote": "hmm",
+            "unit_id": "u000210"
+          }
+        ],
+        "text": "It is possible to create a lightweight JavaScript compiler using ECMAScript tools, with potential language modifications."
+      },
+      "title": "JavaScript Compiler Creation",
+      "topic": "JavaScript Compiler"
+    }
+  ]
+}

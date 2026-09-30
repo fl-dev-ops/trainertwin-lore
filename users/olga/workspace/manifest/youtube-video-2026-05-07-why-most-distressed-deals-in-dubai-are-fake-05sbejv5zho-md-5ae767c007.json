@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 2,
+  "evidence_count": 11,
+  "evidence_file": "youtube-video-2026-05-07-why-most-distressed-deals-in-dubai-are-fake-05sbejv5zho-md-5ae767c007-8de1581c8f3e395e1b77.jsonl",
+  "evidence_hash": "3ab6c9f85e61d87d4f0ba2bbd4db9c2f0961966110e3b90c19022ce959a0924e",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:11:47Z",
+  "metadata_hash": "477e3f9183387fd8f5751a5f6a151f4c49e6181533878b5c3fa419e807b0bbad",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 2,
+    "knowledge": 8
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 20,
+    "units_total": 37
+  },
+  "revision": "8de1581c8f3e395e1b77",
+  "snapshot_hash": "8d73314e44fb04cd3a93895596ed9724f2e0df2935eb9133018f119d9aff2725",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-05-07-why-most-distressed-deals-in-dubai-are-fake-05sbejv5zho-md-5ae767c007",
+  "source_path": "youtube/video/2026-05-07-why-most-distressed-deals-in-dubai-are-fake-05sBEJV5Zho.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "75f0a1a8e0bc718c8f2fb968213468bec85dfb92a21d94fd2f59c7e309942cbe",
+  "source_snapshot": "youtube-video-2026-05-07-why-most-distressed-deals-in-dubai-are-fake-05sbejv5zho-md-5ae767c007-8de1581c8f3e395e1b77.json",
+  "version": "4"
+}

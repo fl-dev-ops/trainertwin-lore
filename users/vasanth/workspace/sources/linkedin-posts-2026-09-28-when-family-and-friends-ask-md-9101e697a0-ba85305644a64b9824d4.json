@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "careerwithvasanth",
+  "category": "linkedin",
+  "content_hash": "f805b0cb0792a5d8b53c276efd6dc75888ba6f291ef7819e2a225c7640b7fa12",
+  "date": "2026-09-28T05:40:21.724000Z",
+  "date_basis": "source",
+  "external_id": "7510211781613613056",
+  "format": "post",
+  "id": "linkedin-posts-2026-09-28-when-family-and-friends-ask-md-9101e697a0",
+  "metadata_hash": "3ee631f4153ed90775a919fbb45bffdc8a38d136c7937fd7255db5df231311fc",
+  "original_text": "---\nid: '7510211781613613056'\ndate: '2026-09-28T05:40:21.724Z'\nurl: https://www.linkedin.com/posts/careerwithvasanth_when-family-and-friends-ask-for-my-suggestion-activity-7510211781613613056-Zumo\nlikes: 144\ncomments: 5\nimages_count: 1\n---\n\nWhen family and friends ask for my suggestion, what is after 12th ? My usual answer be,\n\n1. If the kid has not decided what to pursue and not having passion on any one stream then do engineering.\n\n2. Because, I strongly believe world would continue to need enginners (problem solvers) even in the genAI era. \n\nBut, one should aspire study on Tier 1 college, Tier 3 college may not yield much.\n\nwhat's your take for after 12th ?? \n\nFollow me and I will help you to find your dream job: Vasanth Bhat\n\n## Comments (5)\n\n### Aditya K. (I build Things || What if Shor’s Algorithm outperform every Encryption in Reality!)\n> I guess becoming a \"Yuva Neta\" is best!!\n\n### Ananya Singh (Final Year B.Tech CSE | Aspiring Software Engineer | DSA in C++ | Java | Full Stack Development)\n> Damn True\n\n### Ayan Barai (Software Engineer @ Amazon | Open to Work | SDE · Data Engineer · Data Analyst · AI Engineer · Program Manager | Python, SQL, AWS | Ex-Accenture)\n> I don't agree. I say only persue if they have genuine intrest in the same.\n\n### Devansh Dhoka (Sophomore @IIITB. Let’s connect!)\n> I’d usually recommend engineering to someone who hasn’t figured out what they want to pursue, given how broad the field is and how many paths it can open up. But I wouldn’t recommend choosing it blindly. As a college student , I must say Engineering is demanding and competitive, so if you have absolutely no interest in it, it can become a frustrating path. You don’t necessarily need to be “passionate” from day one, but you should at least be curious enough to explore it seriously. And if you're passionate then it's hardly a question of what to pursue...\n\n### Bikram Sarkar (Full Stack Developer (MERN) | React | Node.js | MongoDB | 200+ LeetCode | ECE @ NIT | Open to SDE Internships)\n> 😢\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-09-28-when-family-and-friends-ask-md-9101e697a0:p000001",
+      "locator": "lines 10-20",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "When family and friends ask for my suggestion, what is after 12th ? My usual answer be,\n\n1. If the kid has not decided what to pursue and not having passion on any one stream then do engineering.\n\n2. Because, I strongly believe world would continue to need enginners (problem solvers) even in the genAI era. \n\nBut, one should aspire study on Tier 1 college, Tier 3 college may not yield much.\n\nwhat's your take for after 12th ?? \n\nFollow me and I will help you to find your dream job: Vasanth Bhat"
+    }
+  ],
+  "path": "linkedin/posts/2026-09-28-when-family-and-friends-ask.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-09-28-when-family-and-friends-ask.md",
+  "sha256": "f40e816e5f33ebfb7a1b10e640769fef8fe0287133c6ce7de04738ea5383250b",
+  "speakers": {},
+  "title": "When family and friends ask for my suggestion, what is after 12th ? My usual answer be,",
+  "units": [
+    {
+      "end": 497,
+      "id": "linkedin-posts-2026-09-28-when-family-and-friends-ask-md-9101e697a0:u000001",
+      "locator": "lines 10-20",
+      "passage_id": "linkedin-posts-2026-09-28-when-family-and-friends-ask-md-9101e697a0:p000001",
+      "raw_text": "When family and friends ask for my suggestion, what is after 12th ? My usual answer be,\n\n1. If the kid has not decided what to pursue and not having passion on any one stream then do engineering.\n\n2. Because, I strongly believe world would continue to need enginners (problem solvers) even in the genAI era. \n\nBut, one should aspire study on Tier 1 college, Tier 3 college may not yield much.\n\nwhat's your take for after 12th ?? \n\nFollow me and I will help you to find your dream job: Vasanth Bhat",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "When family and friends ask for my suggestion, what is after 12th ? My usual answer be, 1. If the kid has not decided what to pursue and not having passion on any one stream then do engineering. 2. Because, I strongly believe world would continue to need enginners (problem solvers) even in the genAI era. But, one should aspire study on Tier 1 college, Tier 3 college may not yield much. what's your take for after 12th ?? Follow me and I will help you to find your dream job: Vasanth Bhat"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/careerwithvasanth_when-family-and-friends-ask-for-my-suggestion-activity-7510211781613613056-Zumo"
+}

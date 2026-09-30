@@ -1,0 +1,247 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "The Mo Sales people are not failing because they don't know enough about the product. They are failing because they believe the wrong thing about sales.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Salespeople are failing because they believe the wrong thing about sales, not because they lack product knowledge."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Failure in Sales Due to Beliefs",
+      "topic": "sales_approach"
+    },
+    {
+      "context_unit_ids": [
+        "u000011",
+        "u000012"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Build report and make them trust you. So they usually explain that you have to smile, be friendly, use the first name, find something in common, make the client feel comfortable.",
+            "unit_id": "u000011"
+          },
+          {
+            "quote": "Your client is not stupid. He knows that it's a sales conversation and you are trying to sell him and he's silently judging every move you make.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Discussion on how traditional methods of building trust by finding common ground or being friendly are no longer effective as buyers are more discerning."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Trust and Modern Sales",
+      "topic": "sales_approach"
+    },
+    {
+      "context_unit_ids": [
+        "u000025"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Hi, it's Olga from XYZ company. uh you submitted your inquiry about ABC, how can I help you today? And it's over. The conversation is dead. You do not have their attention.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "Salespeople lose potential sales by using generic call openers that fail to capture attention."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Sales Call Opener Issue",
+      "topic": "sales_approach"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001",
+        "u000004"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "You're not failing in sales because you don't try hard enough. You're failing because you're trying to sell product to someone who is trying to solve a problem.",
+            "unit_id": "u000001"
+          },
+          {
+            "quote": "By the end of this video, you'll understand yourself why your current way of selling is keeping you stuck.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The speaker contrasts a common misconception about sales with their own learned experience, setting up a narrative of transformation from order taker to professional salesperson."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Contrast in Approaching Sales",
+      "topic": "sales_approach"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You're not failing in sales because you don't try hard enough. You're failing because you're trying to sell product to someone who is trying to solve a problem.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Successful sales depend on the identity and understanding of the salesperson, rather than on trying to sell products to solve a customer's problem."
+      },
+      "title": "Salesperson Identity and Success",
+      "topic": "sales_approach"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000029",
+        "u000030"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Authority is not the watch, the suit, the LinkedIn title. Authority is your inner position. Equal adult.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "Authority is about having an inner position of being an equal adult, not determined by outward appearances like watch, suit, or LinkedIn title."
+      },
+      "title": "Building Sales Authority",
+      "topic": "sales_approach"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000010"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Client is making a decision whether he will buy with you not because of those things and prices and features of the product. He buys because he feels the pain of his problems and the need to solve them.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "Clients make decisions based on their need to solve problems rather than on a salesperson's confidence or luxury items like a Rolex."
+      },
+      "title": "Client Decision Factors",
+      "topic": "sales_approach"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000019",
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So the stage number one is unaware, where I literally do not have a problem. And then something happened, I moved to stage number two, the problem aware.",
+            "unit_id": "u000019"
+          },
+          {
+            "quote": "Next stage is product aware. So understand this product or that product definitely going to help me. The last stage number five is most aware.",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "Buyers go through stages of awareness from being unaware of a problem to being most aware, which influences how they interact with salespeople."
+      },
+      "title": "Stages of Buyer Awareness",
+      "topic": "sales_approach"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000023"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You're losing most of your deals in the first ten seconds before you even talk about the product. Simply because you never really got the client attention.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "Many sales are lost in the first ten seconds because salespeople fail to capture client attention."
+      },
+      "title": "Client Attention and Sales Success",
+      "topic": "sales_approach"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "They're assumed clothes, they're alternative clothes, oh please. That is a puppy dog clothes. They are not magic spells.",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "Classic sales techniques like the assumed close or alternative close are not effective anymore as they are perceived as manipulative."
+      },
+      "title": "Ineffectiveness of Classic Sales Techniques",
+      "topic": "sales_approach"
+    }
+  ]
+}

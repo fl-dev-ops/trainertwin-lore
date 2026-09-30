@@ -1,0 +1,78 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-d1f32c5f6eff02ab",
+          "quote": "Anybody else? Any other questions?",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000147"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Speaker Vasanth uses an open-ended invitation to solicit further questions by saying, 'Anybody else? Any other questions?'",
+      "proposed_adaptation": {
+        "action": "Use open-ended invitations to encourage audience participation",
+        "limits": "Not applicable when only specific feedback is required",
+        "when": "live Q&A sessions"
+      },
+      "qualification": "Single recorded instance; no broader frequency data available.",
+      "scope": "youtube",
+      "situation": "Speaker Vasanth invites questions during a recorded session about frontend development.",
+      "support_ids": [
+        "ex-d1f32c5f6eff02ab"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-d1f32c5f6eff02ab",
+          "quote": "I realized like a minimum of like if you can put twenty five hours of preparation on anything",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000155"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "Vasanth recommends dedicating a specific number of hours weekly, namely twenty-five, to prepare effectively for any learning goal.",
+      "proposed_adaptation": {
+        "action": "Advise setting a consistent weekly time goal for preparation",
+        "limits": "Avoid specifics of weekly hours for all learning contexts",
+        "when": "Guiding learners on preparation for skill development"
+      },
+      "qualification": "Supported by a single documented recommendation; not reviewed across different contexts.",
+      "scope": "youtube",
+      "situation": "Vasanth discusses structured frontend interview preparation during a recorded interaction.",
+      "support_ids": [
+        "ex-d1f32c5f6eff02ab"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-d1f32c5f6eff02ab",
+          "quote": "how much time should they dedicate for uh this roadmap preparation like for day and in your time like in your view like in one month two month",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000151"
+        },
+        {
+          "example_id": "ex-d1f32c5f6eff02ab",
+          "quote": "I believe from someone who already understand front end development to become an interview ready it's a journey of around six to eight weeks",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000156"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "interaction",
+      "observation": "A participant directly engages with Vasanth, posing a precise question about interview preparation time, which Vasanth responds to with a detailed answer.",
+      "proposed_adaptation": {
+        "action": "Encourage participant-directed queries and provide context-aware, substantive responses",
+        "limits": "Inappropriate where one-way delivery is needed",
+        "when": "Facilitating Q&A-style learning sessions"
+      },
+      "qualification": "Derived from direct recorded participation, not a written forum or indirect report.",
+      "scope": "youtube",
+      "situation": "Recorded interaction between Vasanth and participants during a YouTube session asking about preparation time for interviews.",
+      "support_ids": [
+        "ex-d1f32c5f6eff02ab"
+      ]
+    }
+  ]
+}

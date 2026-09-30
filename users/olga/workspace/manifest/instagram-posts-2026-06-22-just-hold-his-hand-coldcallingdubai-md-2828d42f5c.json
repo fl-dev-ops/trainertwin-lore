@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "instagram-posts-2026-06-22-just-hold-his-hand-coldcallingdubai-md-2828d42f5c-2916212a8a1a9f7b6e54.jsonl",
+  "evidence_hash": "03635da70c93231ca8c8333ba2cd5c04f19e10fa1ead0e4b7934396d2357eaad",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:08:28Z",
+  "metadata_hash": "22ea3a6c2005f3c26999c2fb65a263a1fd15660f92c4f1777a63bbc1828d7a9a",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 1,
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 2,
+    "units_total": 5
+  },
+  "revision": "2916212a8a1a9f7b6e54",
+  "snapshot_hash": "5c89ec6ff00b639f4e439c6b38f8755b009f399e70f6d3844f52309dd0a8f3f6",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-06-22-just-hold-his-hand-coldcallingdubai-md-2828d42f5c",
+  "source_path": "instagram/posts/2026-06-22-just-hold-his-hand-coldcallingdubai.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "394ebcf70169f8b5a75d39841f17433042657c35b8c6879705068a11b9423b45",
+  "source_snapshot": "instagram-posts-2026-06-22-just-hold-his-hand-coldcallingdubai-md-2828d42f5c-2916212a8a1a9f7b6e54.json",
+  "version": "4"
+}

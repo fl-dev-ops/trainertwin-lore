@@ -1,0 +1,192 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000159",
+        "u000162",
+        "u000167",
+        "u000172",
+        "u000176"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Somebody Harshita, would you want to answer? Yeah.",
+            "unit_id": "u000159"
+          }
+        ],
+        "text": "Vasanth asks if anyone can answer the question about task execution order in the event loop."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "if I understood Hashitha your answer correctly, first, it'll execute everything in the call stack, then it look at a micro task queue, picks one and goes into the call stack, correct?",
+            "unit_id": "u000162"
+          }
+        ],
+        "text": "Harshita explains that after the call stack is empty, the event loop checks the micro task queue and executes tasks in order."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Sure. Anybody else wants to answer this? I think my question is clear. Somebody Harshita, would you want to answer? Yeah.",
+            "unit_id": "u000159"
+          }
+        ],
+        "text": "The discussion is about understanding how the event loop prioritizes tasks from the call stack, micro task queue, and macro task queue."
+      },
+      "speaker_id": "4",
+      "strategy": null,
+      "title": "Discussion on event loop execution order",
+      "topic": "event loop"
+    },
+    {
+      "context_unit_ids": [
+        "u000174",
+        "u000179",
+        "u000183",
+        "u000191"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Is anybody else wants to answer? The answer so far so told is not fully correct. The pieces of it are correct.",
+            "unit_id": "u000179"
+          }
+        ],
+        "text": "Vasanth invites more answers before explaining the correct sequence of task executions."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "So call stack must be empty. Executes all micro task, executes one macro task, repeat the cycle.",
+            "unit_id": "u000183"
+          }
+        ],
+        "text": "Vasanth explains that the event loop executes call stack tasks first, all micro tasks next, and only one macro task at a time to maintain order and priority in execution."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Sure. I'll take answer from one last person then I then explain myself. Is anybody else wants to answer? The answer so far so told is not fully correct. The pieces of it are correct.",
+            "unit_id": "u000179"
+          }
+        ],
+        "text": "Debate occurs over whether JavaScript's event loop executes all micro tasks at once or one by one."
+      },
+      "speaker_id": "4",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "then I then explain myself.",
+            "unit_id": "u000179"
+          }
+        ],
+        "text": "Vasanth will give his understanding of task execution priorities after inviting student explanations."
+      },
+      "title": "Explaining execution priorities in JavaScript",
+      "topic": "event loop"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000181"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "You design a system as simpler as required and not simpler than that. You don't want to over simplify this or you want to like over complicate it, try to keep it as simple as required, same way.",
+            "unit_id": "u000181"
+          }
+        ],
+        "text": "The speaker uses the analogy of system design, emphasizing keeping processes as simple as required and avoiding oversimplification or overcomplication."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Complex system analogy",
+      "topic": "event loop"
+    },
+    {
+      "context_unit_ids": [
+        "u000191"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So because those were the things that were supposed to be executed on priority but instead we are picking something which was not so priority.",
+            "unit_id": "u000191"
+          }
+        ],
+        "text": "The speaker connects task execution priorities with maintaining the correct order of synchronous tasks in the call stack to ensure priority execution."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Understanding task execution priorities",
+      "topic": "event loop"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000162",
+        "u000164",
+        "u000166",
+        "u000168",
+        "u000172",
+        "u000175",
+        "u000182"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So macro task queue is not emptied at once. So if you look at the order call stack must be empty. Executes all micro tasks. Executes one macro task can repeat the cycle.",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "Event loop executes all tasks in the call stack first, then proceeds to execute tasks from the micro task queue, one by one, until it's empty, and finally picks one task from the macro task queue and repeats the cycle."
+      },
+      "title": "Event loop execution order",
+      "topic": "event loop"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000182",
+        "u000183"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you can really say this in interview when interviewer ask you about the event loop. Consider like probably you have attracted that interviewer very much.",
+            "unit_id": "u000183"
+          }
+        ],
+        "text": "Effectively explaining the event loop process during an interview can positively impress the interviewer."
+      },
+      "title": "Interview advice on event loop explanation",
+      "topic": "interview preparation"
+    }
+  ]
+}

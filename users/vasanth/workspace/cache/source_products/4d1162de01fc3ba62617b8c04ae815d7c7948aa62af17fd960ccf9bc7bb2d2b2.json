@@ -1,0 +1,223 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000050",
+        "u000054"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "What do you mean by living document? You give an interview to company A, come back and then you can update the document.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "What do you mean by living document?"
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Now they don't read anything else before going to interview.",
+            "unit_id": "u000054"
+          }
+        ],
+        "text": "The notes should be updated after each interview with reflections on what went well and what could be improved."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "please try to make in make a note primarily in a shareable sort of a way like Google Docs, Microsoft document etcetera, which can be shared across mobiles, laptops etcetera.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "The speaker advises on creating personal notes for interview preparation that evolve over time."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Developing Personal Interview Notes",
+      "topic": "interview preparation"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000067",
+        "u000068",
+        "u000069"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So let's start with extreme fundamentals of JavaScript, that is JavaScript runtime.",
+            "unit_id": "u000067"
+          },
+          {
+            "quote": "So JavaScript runtime is an environment in which the JavaScript code runs in very very simple words.",
+            "unit_id": "u000068"
+          }
+        ],
+        "text": "The speaker introduces the concept of JavaScript runtime and first explains the definition of JavaScript as a language."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Introduction to Concepts",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000050"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The reason being, you can document in the same way, definition, bookish example, practical example for a concept.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "The speaker gives explicit advice on maintaining a living document for interview preparation."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Declarative Advice",
+      "topic": "interview preparation"
+    },
+    {
+      "context_unit_ids": [
+        "u000070"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "V8 is primarily written using the C++. Correct? So C++ has multi threading capability, JavaScript do not have.",
+            "unit_id": "u000070"
+          }
+        ],
+        "text": "The speaker uses an example of compiler capabilities to explain JavaScript's limited threading ability compared to V8's capabilities written in C++."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Conventional Wisdom",
+      "topic": "JavaScript"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000050",
+        "u000051",
+        "u000053",
+        "u000054"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "please try to make in make a note primarily in a shareable sort of a way like Google Docs, Microsoft document etcetera, which can be shared across mobiles, laptops etcetera.",
+            "unit_id": "u000050"
+          },
+          {
+            "quote": "you can just start adding them. Okay? So you can keep on doing that so that this document becomes one source of truth before you give any interview.",
+            "unit_id": "u000051"
+          }
+        ],
+        "text": "Create a shareable document for notes that includes definitions, examples, and personal experiences, and update it after interviews for a comprehensive preparation resource."
+      },
+      "title": "Note-taking for Interviews",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000058",
+        "u000059",
+        "u000060"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But where I'm coming from is I want you to start asking more and more why to yourselves.",
+            "unit_id": "u000058"
+          },
+          {
+            "quote": "If you have a right question you can ask Chat GPT or Gemini to get the answers.",
+            "unit_id": "u000059"
+          }
+        ],
+        "text": "Start asking more questions to yourself to enhance understanding of concepts rather than accepting them at face value."
+      },
+      "title": "Questioning in Learning",
+      "topic": "learning strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000055",
+        "u000056"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "please use Discord and not choosing WhatsApp",
+            "unit_id": "u000055"
+          },
+          {
+            "quote": "So anything comes in Discord you can consider it is from the cohort that's the reason we are maintaining a Discord.",
+            "unit_id": "u000056"
+          }
+        ],
+        "text": "Join the Discord community for updates about the cohort and avoid using email or WhatsApp due to spam concerns and personal chat distractions."
+      },
+      "title": "Discord for Cohort Updates",
+      "topic": "communication"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000073",
+        "u000074"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript as a language is actually synchronous by default. So all the asynchronity that JavaScript is today supporting that is by the browser capabilities.",
+            "unit_id": "u000073"
+          },
+          {
+            "quote": "So that is you can consider like an official definition and then all the JavaScript is single threaded, synchronous by default, all the asynchronity that we are saying, it comes from the browser runtime.",
+            "unit_id": "u000074"
+          }
+        ],
+        "text": "JavaScript is a single-threaded and synchronous language by default; asynchronous behavior comes from browser capabilities."
+      },
+      "title": "JavaScript Is Single-threaded",
+      "topic": "JavaScript"
+    }
+  ]
+}

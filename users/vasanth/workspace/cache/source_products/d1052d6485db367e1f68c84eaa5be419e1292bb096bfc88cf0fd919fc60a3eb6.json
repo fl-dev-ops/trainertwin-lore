@@ -1,0 +1,274 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000132",
+        "u000134"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "are you required to draw? No.",
+            "unit_id": "u000132"
+          }
+        ],
+        "text": "Are you required to draw?"
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "But the more nuances you would add and try to explain it in depth, the more points that you would get.",
+            "unit_id": "u000134"
+          }
+        ],
+        "text": "The depth of explanation yields more points with interviewers."
+      },
+      "response": {
+        "citations": [
+          {
+            "quote": "No need to draw.",
+            "unit_id": "u000134"
+          }
+        ],
+        "text": "You don't need to draw; a detailed explanation suffices."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "The interviewer asked how these three statements would execute.",
+            "unit_id": "u000132"
+          }
+        ],
+        "text": "The speaker is explaining what should be done in a JavaScript interview when asked about the event loop."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "If you can explain the components, what are the important components and how they work, that's all they'll be looking for.",
+            "unit_id": "u000134"
+          }
+        ],
+        "text": "Explain the components and their functions instead of drawing them."
+      },
+      "title": "Event Loop Explanation in Interviews",
+      "topic": "Event Loop"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000132"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "the console.log, where does it go? How does it execute? Then the second statement...",
+            "unit_id": "u000132"
+          }
+        ],
+        "text": "The speaker structures the explanation by describing a common interview example with sequential steps of console.log and setTimeout, followed by a clarification question about drawing vs. explanation."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Structure of Interview Example Explanation",
+      "topic": "Interview Techniques"
+    },
+    {
+      "context_unit_ids": [
+        "u000134"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "But the more nuances you would add and try to explain it in depth, the more points that you would get.",
+            "unit_id": "u000134"
+          }
+        ],
+        "text": "The speaker emphasizes the importance of explanatory depth using phrases like 'the more nuances you would add and try to explain it in depth, the more points that you would get.'"
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "But the more nuances you would add and try to explain it in depth, the more points that you would get.",
+            "unit_id": "u000134"
+          }
+        ],
+        "text": "To stress the value of in-depth explanation over merely listing facts or drawing during interviews."
+      },
+      "speaker_id": "4",
+      "title": "Explanatory Depth Emphasis",
+      "topic": "Interview Techniques"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000116",
+        "u000117"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "like there are uh quite a few names. I don't know like why there are so many different names for the queue. Like some call it micro task queue and macro task queue.",
+            "unit_id": "u000116"
+          },
+          {
+            "quote": "there isn't mentioning of this macro task queue and micro task queue, at least the last time I read.",
+            "unit_id": "u000117"
+          }
+        ],
+        "text": "The speaker reviews JavaScript queues, noting the existence of \"micro task queue\" and \"macro task queue,\" though they are not mentioned in the MDN document the last time the speaker read it."
+      },
+      "title": "JavaScript Queues Overview",
+      "topic": "JavaScript Queues"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000119",
+        "u000120"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "lesser priority that go and sit in the macro task queue.",
+            "unit_id": "u000119"
+          },
+          {
+            "quote": "everybody would know that is promises are higher priority, so they get into the micro task queue.",
+            "unit_id": "u000120"
+          }
+        ],
+        "text": "Promises and async/await have higher priority and are placed in the micro task queue, while tasks with lesser priority are placed in the macro task queue."
+      },
+      "title": "Macro Task vs Micro Task",
+      "topic": "Task Prioritization"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000121"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "So instead of going into macro task queue, those code will get into the micro task queue. You manually prioritizing uh by using this queue micro task.",
+            "unit_id": "u000121"
+          }
+        ],
+        "text": "To manually prioritize certain blocks of code by moving them to the micro task queue."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "The syntax is very similar to set timeout. So you can keep a block of code there.",
+              "unit_id": "u000121"
+            }
+          ],
+          "text": "Use the syntax similar to set timeout to prioritize code in the micro task queue."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Queue micro task is nothing but like schedules a specified function to be executed as a micro task.",
+            "unit_id": "u000121"
+          }
+        ],
+        "text": "QueueMicrotask schedules a specified function to be executed as a micro task."
+      },
+      "title": "Queue Microtask Usage",
+      "topic": "JavaScript Methods"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000121"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Another one is a mutation observer is a built in JavaScript observer where what certain changes are happening.",
+            "unit_id": "u000121"
+          }
+        ],
+        "text": "A Mutation Observer in JavaScript listens to specified changes, and the corresponding tasks are added to the micro task queue for immediate execution."
+      },
+      "title": "Mutation Observer",
+      "topic": "JavaScript Methods"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000122"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Micro tasks are always executed before the macro task.",
+            "unit_id": "u000122"
+          }
+        ],
+        "text": "Micro tasks are always executed before the macro task if there are things in both queues to be executed."
+      },
+      "title": "Micro Task Queue Priority",
+      "topic": "Queue Execution Order"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000126",
+        "u000127",
+        "u000132",
+        "u000134"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But the more nuances you would add and try to explain it in depth, the more points that you would get.",
+            "unit_id": "u000134"
+          }
+        ],
+        "text": "In a JavaScript interview, explaining concepts in depth (such as component functions) rather than drawing will score better. The depth of explanation is often more valuable to interviewers than just drawing diagrams."
+      },
+      "title": "Interview Strategy",
+      "topic": "Interviewing Techniques"
+    }
+  ]
+}

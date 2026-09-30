@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "instagram-posts-2026-06-14-olga-its-all-just-a-md-cec6cad2da-5654258bdb7afc20fd33.jsonl",
+  "evidence_hash": "eafdeaba01f49dd78fd4606008d0c3e9148a87218eb9c56049cc138bace28ba7",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:08:08Z",
+  "metadata_hash": "b7365ee1e913d1e342265580da23667e1029329c7110047756ffe38cfd5e549d",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 3
+  },
+  "revision": "5654258bdb7afc20fd33",
+  "snapshot_hash": "6c4f5542563a5b25e6701cd7f3895aaadc6f81a522f11742c855bfc21f5d56aa",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-06-14-olga-its-all-just-a-md-cec6cad2da",
+  "source_path": "instagram/posts/2026-06-14-olga-its-all-just-a.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "cdac2e4d5576133263c048fa58687d3b5ef37f7db64036f45e849bb9f00067ef",
+  "source_snapshot": "instagram-posts-2026-06-14-olga-its-all-just-a-md-cec6cad2da-5654258bdb7afc20fd33.json",
+  "version": "4"
+}

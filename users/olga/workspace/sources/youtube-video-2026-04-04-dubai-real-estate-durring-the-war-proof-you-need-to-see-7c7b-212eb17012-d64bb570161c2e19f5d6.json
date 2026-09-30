@@ -1,0 +1,46 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "youtube",
+  "content_hash": "3ad3b3e741f1b1d70afdf5d5f741caf79692032266a10ebbc8b19da2411683e1",
+  "date": "2026-04-04",
+  "date_basis": "source",
+  "external_id": "7c7bfYIlLnM",
+  "format": "transcript",
+  "id": "youtube-video-2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7b-212eb17012",
+  "metadata_hash": "c6dae27fd01047d62676e0c345f7d9029e18ba20c8ba42a79911a2cb06cc4a88",
+  "original_text": "---\nid: 7c7bfYIlLnM\ntitle: 'Dubai Real Estate Durring the War: Proof You Need to See!'\ndate: '2026-04-04'\nurl: https://www.youtube.com/shorts/7c7bfYIlLnM\ndescription: ''\nduration: 00:00:29\nmodel: saaras:v3\ntranscript: true\n---\n\n# Dubai Real Estate Durring the War: Proof You Need to See!\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nI'm saying reframe and reality of that. The market hasn't stopped. I'm recording it on eighteen, I'm just looking up as to which date is this. On eighteen of March, a couple of days back we had a big launch in Abu Dhabi of gated community located on the beach. um It might not mean anything for you, O'Hara launched Manchester City and in seventy two hours more than six billion properties been sold.\n",
+  "passages": [
+    {
+      "id": "youtube-video-2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7b-212eb17012:p000001",
+      "locator": "lines 18-18",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:00",
+      "text": "I'm saying reframe and reality of that. The market hasn't stopped. I'm recording it on eighteen, I'm just looking up as to which date is this. On eighteen of March, a couple of days back we had a big launch in Abu Dhabi of gated community located on the beach. um It might not mean anything for you, O'Hara launched Manchester City and in seventy two hours more than six billion properties been sold."
+    }
+  ],
+  "path": "youtube/video/2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7bfYIlLnM.md",
+  "purpose": "",
+  "relative_path": "youtube/video/2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7bfYIlLnM.md",
+  "sha256": "1faa56260085158bbb76e56c319a572bff6c933196e4112b7644bcfd0990e77c",
+  "speakers": {
+    "1": "olgasi"
+  },
+  "title": "Dubai Real Estate Durring the War: Proof You Need to See!",
+  "units": [
+    {
+      "end": 400,
+      "id": "youtube-video-2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7b-212eb17012:u000001",
+      "locator": "lines 18-18",
+      "passage_id": "youtube-video-2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7b-212eb17012:p000001",
+      "raw_text": "I'm saying reframe and reality of that. The market hasn't stopped. I'm recording it on eighteen, I'm just looking up as to which date is this. On eighteen of March, a couple of days back we had a big launch in Abu Dhabi of gated community located on the beach. um It might not mean anything for you, O'Hara launched Manchester City and in seventy two hours more than six billion properties been sold.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:00",
+      "text": "I'm saying reframe and reality of that. The market hasn't stopped. I'm recording it on eighteen, I'm just looking up as to which date is this. On eighteen of March, a couple of days back we had a big launch in Abu Dhabi of gated community located on the beach. um It might not mean anything for you, O'Hara launched Manchester City and in seventy two hours more than six billion properties been sold."
+    }
+  ],
+  "url": "https://www.youtube.com/shorts/7c7bfYIlLnM"
+}

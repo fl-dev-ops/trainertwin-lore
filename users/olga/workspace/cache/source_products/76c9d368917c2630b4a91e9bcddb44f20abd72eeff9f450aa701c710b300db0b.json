@@ -1,0 +1,75 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I'm so sorry to bring it to everyone,",
+            "unit_id": "u000001"
+          },
+          {
+            "quote": "I'm so sorry, this is how the market reacts.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker apologizes for negative market predictions and outlines the rationale in a considerate manner."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Apology in Market Observation",
+      "topic": "developer viability"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm so sorry to bring it to everyone, but the smaller first time developers which jump in the market in the past years, they gonna go. But realistically between me and you and if I'm talking with a client, they were not doing well even before the war.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The smaller first-time developers in the Dubai market are expected to leave the market due to not performing well even before the war."
+      },
+      "title": "Small Developers Struggling",
+      "topic": "developer viability"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Those developers will not survive. So the focus out of the market is that is, okay, let's see where the smart investors are moving.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Smart investors should be observed to understand market viability as some developers won't survive."
+      },
+      "title": "Market Survival Strategy",
+      "topic": "developer viability"
+    }
+  ]
+}

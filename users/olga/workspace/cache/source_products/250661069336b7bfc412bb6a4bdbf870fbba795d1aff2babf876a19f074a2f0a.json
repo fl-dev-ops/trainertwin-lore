@@ -1,0 +1,258 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001",
+        "u000002",
+        "u000003",
+        "u000004"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "The first question I asked was simple:\n\n“What is your sales process?”",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "Then I asked him about recruitment and team building.",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "What do you think I asked him?",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The author asked the candidate about his sales process, recruitment, and a question testing ownership and leadership under responsibility."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": {
+        "citations": [
+          {
+            "quote": "We did not hire him.\n\nAnd that decision probably saved the company a serious amount of money, time and internal damage.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The company decided not to hire the candidate and likely avoided significant costs and damage."
+      },
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "His answer eventually came down to this:\n\nAsk the client what they want.  \nSend options on WhatsApp.  \nFollow up.",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "Very quickly, the responsibility moved to recruiters.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The candidate provided superficial answers showing a lack of a structured sales process and reliance on recruiters for team building."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "I recently helped one of my clients interview a candidate for a sales manager position.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author helped a client interview a sales manager candidate."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Evaluating Sales Manager Candidate",
+      "topic": "sales management"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I asked questions in a way that made him feel like I genuinely wanted to learn from his experience.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The author crafts questions to appear as if learning from the interviewee, aiding in revealing true competency."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "That is usually when the truth comes out.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "To unveil the truth about the interview's competence by making them comfortable."
+      },
+      "speaker_id": null,
+      "title": "Strategic Questioning",
+      "topic": "sales management"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you have a “Wrong” sales manager….\n\nIt can cost you your leads, your team’s motivation, your sales culture and, in some cases, months of damage you will only notice when it is already expensive to fix.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Having a 'wrong' sales manager can lead to loss of leads, decreased team motivation, damaged sales culture, and costly damage to the company."
+      },
+      "title": "Identifying the Right Sales Manager",
+      "topic": "sales management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But sometimes confidence is not competence.\n\nAnd in sales leadership, this difference is very expensive.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "In sales leadership, the difference between confidence and competence is very expensive."
+      },
+      "title": "Difference Between Confidence and Competence",
+      "topic": "sales management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "That is usually when the truth comes out.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "To uncover the candidate's actual level of understanding and competence in sales management."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "I asked questions in a way that made him feel like I genuinely wanted to learn from his experience.",
+              "unit_id": "u000002"
+            }
+          ],
+          "text": "Ask questions in a way that makes the interviewee feel like you genuinely want to learn from their experience."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Because when a person really knows what they are doing, they can explain their thinking clearly.\n\nAnd when they don’t, they usually hide behind generic words.",
+              "unit_id": "u000002"
+            }
+          ],
+          "text": "Observe whether the interviewee can explain their thinking clearly or hides behind generic words."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The tone is everything… because I know I could be quite intimidating… \n\nI asked questions in a way that made him feel like I genuinely wanted to learn from his experience.\n\nThat is usually when the truth comes out.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Asking questions in a non-intimidating way can reveal a candidate's true understanding and competence."
+      },
+      "title": "Effective Interview Techniques",
+      "topic": "sales management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "And if you have ever worked with social media leads, cold leads or off-plan buyers in Dubai, you already know what happens when an agent works like that.\n\nThe lead disappears.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "A poorly defined sales process leads to lost leads, particularly in contexts like working with social media leads or cold leads."
+      },
+      "title": "Sales Process Insight",
+      "topic": "sales management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "We did not hire him.\n\nAnd that decision probably saved the company a serious amount of money, time and internal damage.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Not hiring a candidate without a clear ownership mindset likely saved the company from financial and internal damage."
+      },
+      "title": "Hiring for Sales Leadership",
+      "topic": "sales management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "In this market, many companies are cutting, but Some are growing…\n\nThey do not treat sales as a collection of talented individuals.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Growing companies treat sales as more than just a collection of talented individuals."
+      },
+      "title": "Sales Culture in Growing Companies",
+      "topic": "sales management"
+    }
+  ]
+}

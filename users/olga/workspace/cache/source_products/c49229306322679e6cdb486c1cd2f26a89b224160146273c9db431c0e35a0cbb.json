@@ -1,0 +1,50 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "they were not doing well even before the war",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Smaller first-time developers in Dubai were not doing well even before the war."
+      },
+      "title": "Challenges for Small Dubai Developers",
+      "topic": "Market conditions"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "logistically if they were on their own, this is not a sellable product. So, yeah, I'm so sorry, this is how the market reacts. Those developers will not survive.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Developers who rely solely on their own resources without support from master developers or channel partnerships produce unsellable products, risking their market survival."
+      },
+      "title": "Survival of Small Developers",
+      "topic": "Market conditions"
+    }
+  ]
+}

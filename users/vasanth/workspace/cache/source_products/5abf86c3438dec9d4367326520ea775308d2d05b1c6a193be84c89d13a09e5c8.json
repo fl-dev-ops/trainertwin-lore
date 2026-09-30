@@ -1,0 +1,200 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000012"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "like instead of let's say you are having this, what if you had a small tensorflow algorithm that runs an ML algorithm that runs on the client and can like predict, okay?",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "The speaker demonstrates how a TensorFlow.js algorithm can perform sentiment analysis on the client side, predicting user sentiments in real time."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "AI Personalized UI Example",
+      "topic": "UI_personalization"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000006"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "depending on the user persona... can we customize that website for the user requirement?",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The speaker presents an example by contrasting a static and adaptive UI, discussing a Valentine's Day theme and a personalized low mood layout."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Adaptive Interface Concept Explanation",
+      "topic": "UI_personalization"
+    },
+    {
+      "context_unit_ids": [
+        "u000009"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So AI libraries and tools for React. So a lot of you may not know this like the TensorFlow.js where now the ML models need not to always run on the back end.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "The speaker introduces AI libraries and tools for React, mentioning TensorFlow.js, and explains how models can run client-side to enhance customization."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Demo Introduction Structure",
+      "topic": "AI_on_client"
+    },
+    {
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I hope you enjoyed the video and what do you think the future of the React with AI looks like? Mention that in the comment section.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "The speaker concludes the video by summarizing the key points about AI in React and encourages viewers to share thoughts and engage in the comment section."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Video Conclusion with a Call to Action",
+      "topic": "React_AI_integration"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this is a video where I'm explaining about how to build generative AI or AI driven UI components in React.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "In the video, the speaker explains how to build generative AI or AI-driven UI components in React."
+      },
+      "title": "Introduction of AI in React for User Experience",
+      "topic": "React_AI_integration"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the TensorFlow.js where now the ML models need not to always run on the back end. There are ways now we can run the ML models on the client.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "The speaker suggests that with TensorFlow.js, machine learning models can be run on the client-side for smaller user requirements, instead of always on the backend."
+      },
+      "title": "Client-Side AI Model Execution",
+      "topic": "AI_on_client"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006",
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "like we start building things that can think and adapt to user requirement instead of being always static or programmed.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "The speaker believes that front end customization based on user persona hasn't happened before, and suggests building React components that can adapt to user requirements."
+      },
+      "title": "Customizing UI for User Persona",
+      "topic": "UI_personalization"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000023"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "models themselves are becoming more and more optimal to perform these things.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "Models are becoming more optimal to run on the client side, allowing more features to be handled at the frontend."
+      },
+      "title": "Optimizing Models for Frontend Use",
+      "topic": "Model_optimization"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000028"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the systems are becoming more and more brilliant and that's where we are headed.",
+            "unit_id": "u000028"
+          }
+        ],
+        "text": "The speaker believes the systems are becoming more brilliant and headed towards adaptive interfaces responsive to gestures and emotions."
+      },
+      "title": "Future of AI and React",
+      "topic": "React_AI_integration"
+    }
+  ]
+}

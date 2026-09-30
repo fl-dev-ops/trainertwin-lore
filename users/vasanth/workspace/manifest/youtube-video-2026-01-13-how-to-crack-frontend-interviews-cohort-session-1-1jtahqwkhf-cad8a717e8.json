@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 11,
+  "evidence_count": 76,
+  "evidence_file": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8-6325f662ab1bc87a18e5.jsonl",
+  "evidence_hash": "42dd456b2f46aec52b134470a58d4c84ee377a88c1fb84e734521cf31fd28809",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T21:18:08Z",
+  "metadata_hash": "957a7e8abae22f04c7412753ff38555fa0d06cea27e8504acff9e7c3b404e3b4",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 21,
+    "expression": 16,
+    "knowledge": 39
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 79,
+    "units_total": 422
+  },
+  "revision": "6325f662ab1bc87a18e5",
+  "snapshot_hash": "725eb33453fcc9fedbf45847ab938b4aad56c513942bb6011a5a3d712892a2d4",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8",
+  "source_path": "youtube/video/2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1JtAHqwKhfM.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/vasanth/data",
+  "source_sha256": "5c3fbb57770cb18e4462af59b41decd983c7d28aef1b819a70efb9d5378d54df",
+  "source_snapshot": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8-6325f662ab1bc87a18e5.json",
+  "version": "4"
+}

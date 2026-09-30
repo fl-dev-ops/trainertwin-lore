@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "instagram-posts-2026-09-24-roi-from-tony-robbins-unleash-md-f48d0a11b4-d004f0f0e4c427526d79.jsonl",
+  "evidence_hash": "7f0ce0e9ee4672168e339447c4baf1e55678a493c1580e6fba9e27a501a03374",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:10:22Z",
+  "metadata_hash": "1868766009eb72a9345a1cc8368f10fe7e2dddc185cc0e962f2edc9fa7ef2112",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 2,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 3,
+    "units_total": 5
+  },
+  "revision": "d004f0f0e4c427526d79",
+  "snapshot_hash": "268f7529f6ed5f727d0b7a1447cd60e536979f4d3a8299a1d9090c924781008c",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-09-24-roi-from-tony-robbins-unleash-md-f48d0a11b4",
+  "source_path": "instagram/posts/2026-09-24-roi-from-tony-robbins-unleash.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "7ab691010cbd7823f42b21bb250d0efa957dd3c87639205875415dcfdea55e3f",
+  "source_snapshot": "instagram-posts-2026-09-24-roi-from-tony-robbins-unleash-md-f48d0a11b4-d004f0f0e4c427526d79.json",
+  "version": "4"
+}

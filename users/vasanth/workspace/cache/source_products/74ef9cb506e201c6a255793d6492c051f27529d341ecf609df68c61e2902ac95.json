@@ -1,0 +1,171 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000156",
+        "u000157",
+        "u000158",
+        "u000159",
+        "u000160",
+        "u000161",
+        "u000162",
+        "u000163",
+        "u000164",
+        "u000165",
+        "u000166",
+        "u000167",
+        "u000168",
+        "u000169",
+        "u000170",
+        "u000172",
+        "u000173"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "we execute micro task queue will we execute all the things in micro task queue or we execute only one and then go to call stack again.",
+            "unit_id": "u000156"
+          }
+        ],
+        "text": "The question of whether micro tasks are executed one at a time or all at once was posed."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "like all at once into call stack.",
+            "unit_id": "u000157"
+          },
+          {
+            "quote": "it'll execute everything in the call stack, then it look at a micro task queue, picks one and goes into the call stack, correct?",
+            "unit_id": "u000162"
+          }
+        ],
+        "text": "Participants discussed the process, with some expressing uncertainty and different understandings of the task execution order."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "how these are picked as in like stack is once the stack is empty till the stack is empty we will not like the event loop will not check for anything correct.",
+            "unit_id": "u000156"
+          }
+        ],
+        "text": "A discussion on how JavaScript's event loop handles micro and macro task queues and their execution order."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Understanding of JavaScript event loop",
+      "topic": "JavaScript event loop"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000156",
+        "u000157",
+        "u000158",
+        "u000159",
+        "u000160",
+        "u000161",
+        "u000162",
+        "u000163",
+        "u000164",
+        "u000165",
+        "u000166",
+        "u000167",
+        "u000168"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Sure. Anybody else wants to answer this? I think my question is clear.",
+            "unit_id": "u000159"
+          }
+        ],
+        "text": "The speaker engages participants by asking questions, confirming their responses, and clarifying the understanding incrementally."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Interactive dialogue",
+      "topic": "JavaScript event loop"
+    },
+    {
+      "context_unit_ids": [
+        "u000166",
+        "u000167",
+        "u000168",
+        "u000169",
+        "u000170",
+        "u000171",
+        "u000174",
+        "u000175",
+        "u000176",
+        "u000177",
+        "u000178",
+        "u000179",
+        "u000180",
+        "u000181",
+        "u000182"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Okay. Got it. I get what. I'll I'll repeat, you can correct me if I'm wrong.",
+            "unit_id": "u000167"
+          }
+        ],
+        "text": "The speaker repeats and paraphrases what was discussed to ensure clarity and agreement among participants."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Clarification and repetition",
+      "topic": "JavaScript event loop"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000160",
+        "u000161",
+        "u000162",
+        "u000163",
+        "u000164",
+        "u000165",
+        "u000166",
+        "u000167",
+        "u000168",
+        "u000169",
+        "u000170",
+        "u000172",
+        "u000173",
+        "u000174",
+        "u000175",
+        "u000178",
+        "u000179",
+        "u000180"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So if you look at the order call stack must be empty. Executes all micro tasks. Executes one macro task can repeat the cycle.",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "In the JavaScript event loop, the call stack must be empty before it executes tasks from the micro task queue. It will execute all micro tasks before picking one task from the macro task queue and repeating the cycle."
+      },
+      "title": "JavaScript event loop",
+      "topic": "JavaScript event loop"
+    }
+  ]
+}

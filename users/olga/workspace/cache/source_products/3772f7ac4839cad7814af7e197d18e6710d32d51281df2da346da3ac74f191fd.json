@@ -1,0 +1,83 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000004",
+        "u000005"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "He hasn't yet even decided that Dubai real estate is the right thing for him, right?",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "A client is confused about whether to invest in Dubai real estate as he compares it to other options like a pizzeria or a pet farm."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Client indecision in real estate",
+      "topic": "Client indecision"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000004",
+        "u000005"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "You have to handhold him from the process because guess what?",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "He hasn't yet even decided that Dubai real estate is the right thing for him, right?",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The speaker uses a hypothetical situation to highlight the pitfalls of not guiding a client properly, illustrating the scenario of a client being confused with multiple business options."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Consequence awareness",
+      "topic": "Client guidance"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003",
+        "u000004",
+        "u000005"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You have to handhold him from the process because guess what?",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "To effectively guide a client in real estate, one should handhold them through the process rather than immediately pushing them to make a purchase decision."
+      },
+      "title": "Cold calling strategy",
+      "topic": "Cold calling"
+    }
+  ]
+}

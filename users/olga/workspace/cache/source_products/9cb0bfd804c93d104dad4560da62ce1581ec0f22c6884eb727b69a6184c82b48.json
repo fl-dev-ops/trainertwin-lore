@@ -1,0 +1,48 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Clients Are Panicking. What Agent should Do",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The title presents a situation followed by a call to action, 'Clients Are Panicking. What Agent should Do'."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Post Title Format",
+      "topic": "Title Construction"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Clients Are Panicking. What Agent should Do",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Agents should take specific actions when clients are panicking."
+      },
+      "title": "Agents' response to panicking",
+      "topic": "Agents' response strategies"
+    }
+  ]
+}

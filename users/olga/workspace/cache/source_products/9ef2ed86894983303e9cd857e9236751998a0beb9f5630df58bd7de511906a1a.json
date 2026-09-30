@@ -1,0 +1,129 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "One number in the ad, three in the chat.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Client receives multiple price quotes from the agent contrary to the advertised price."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Guess what the client did?\nClosed the conversation!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The client closed the conversation with the agent."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "His story. Unit advertised at 120. He messages the agent - The response form agent -' First come, first serve. and its 130 for one or two cheques. and135 for two to four.'\nOne number in the ad, three in the chat.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "A client was quoted different prices by an agent for a unit than what was advertised, leading the client to close the conversation."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Client's response to agent pricing tactics",
+      "topic": "real_estate_agents"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Top 5 to avoid in 2026:\n1. Opening with pressure.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The narrative uses a list format to present the top five tactics agents should avoid, directly addressing a future year (2026) to emphasize foresight and planning."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Critique of agent tactics",
+      "topic": "real_estate_agents"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "most of Dubai agents weren't scamming anyone - IM HERE TO WITNESS.\n\nYou are Good people -",
+            "unit_id": "u000001"
+          },
+          {
+            "quote": "just using bad ADVICE and doing what you were taught.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Most Dubai agents are not scamming anyone, but are using bad advice and doing what they were taught."
+      },
+      "title": "Dubai agents practices critique",
+      "topic": "real_estate_agents"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Top 5 to avoid in 2026:\n1. Opening with pressure. First come, first serve. Last unit. Last price. You haven't asked him anything and you're already squeezing.",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "3. Pushing an offer below what you just said the owner would take. Usually because you're reviving the deal the previous client walked away from.",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "4. Ignoring everything except the money. He tells you size, layout, who's living there, what he's already rejected.",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "5. Not knowing your numbers. Square footage. Price per square foot. His currency.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Agents should avoid using pressure tactics such as 'first come, first serve', ignoring client needs aside from budget, offering deals below what the owner will accept, focusing solely on money matters, and not knowing detailed information about listings."
+      },
+      "title": "Top 5 tactics for agents to avoid",
+      "topic": "real_estate_agents"
+    }
+  ]
+}

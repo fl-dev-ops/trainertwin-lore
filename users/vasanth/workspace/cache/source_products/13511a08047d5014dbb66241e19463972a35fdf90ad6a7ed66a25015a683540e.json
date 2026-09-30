@@ -1,0 +1,176 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000285"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "I'll share a simple quiz not having very complicated questions in the chat.",
+            "unit_id": "u000285"
+          }
+        ],
+        "text": "The instructor plans to administer a quiz with ten questions."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "I'll share a simple quiz not having very complicated questions in the chat. So, uh twelve twenty six so there are ten questions in this quiz. You can go through it and you could answer uh you can answer all the questions. Uh I will give you ten minutes. That is twelve twenty six you can take twelve thirty six maybe two minutes buffer like twelve thirty eight.",
+            "unit_id": "u000285"
+          }
+        ],
+        "text": "Administer a quiz at 12:26 with a 10-minute limit, followed by a break."
+      },
+      "title": "Quiz Execution Plan",
+      "topic": "Teaching Method"
+    },
+    {
+      "context_unit_ids": [
+        "u000297"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "We'll go through the answers. Once after we see the answer, then we look at the leaderboard, how everybody have performed.",
+            "unit_id": "u000297"
+          }
+        ],
+        "text": "After the quiz, the instructor shares the scores and discusses the purpose of showing them."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "The whole purpose of me showing your scores to yourself, some of you might have already know. Just like uh if somebody scored less is not inferior or somebody scored more is not superior. So that there is a healthy competition among the group to pursue for the excellence, that's the only reason, okay?",
+            "unit_id": "u000297"
+          }
+        ],
+        "text": "Use scores to encourage healthy competition among participants."
+      },
+      "title": "Quiz Feedback",
+      "topic": "Teaching Method"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000300"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Certainly the JavaScript engine is responsible for executing the JavaScript code. Neither the web API is non event loop or the task queue.",
+            "unit_id": "u000300"
+          }
+        ],
+        "text": "The speaker confirms the correct answer while dismissing incorrect options sequentially."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "JavaScript Quiz Explanation",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000280"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So quad crystal I told you basically it's a crystal that resonates at a frequency today if you see most watches have that crystal that that that whatever the frequency at which it is resonating that we are considering as a second.",
+            "unit_id": "u000280"
+          }
+        ],
+        "text": "The speaker explains the working of timing crystals by linking it to practical applications and accuracy."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "JavaScript Timing Mechanism",
+      "topic": "Timing Mechanism"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000299"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript is a single threaded and synchronous by default.",
+            "unit_id": "u000299"
+          }
+        ],
+        "text": "JavaScript is single threaded and synchronous by default."
+      },
+      "title": "JavaScript Execution",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000300"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Certainly the JavaScript engine is responsible for executing the JavaScript code.",
+            "unit_id": "u000300"
+          }
+        ],
+        "text": "The JavaScript engine is responsible for executing JavaScript code."
+      },
+      "title": "JavaScript Engine Responsibility",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000302"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "What is the primary responsibility of the event group? It is it schedules, schedule when callbacks can be executed.",
+            "unit_id": "u000302"
+          }
+        ],
+        "text": "The primary responsibility of the event group is to schedule when callbacks can be executed."
+      },
+      "title": "Purpose of Event Group",
+      "topic": "JavaScript"
+    }
+  ]
+}

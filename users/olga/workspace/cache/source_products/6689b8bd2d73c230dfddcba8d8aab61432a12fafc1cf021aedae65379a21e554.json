@@ -1,0 +1,169 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000043"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The real strategy for twenty twenty six is to choose two or three channels that you can rely on effectively. Combinations should be based on your experience, budget, and confidence.",
+            "unit_id": "u000043"
+          }
+        ],
+        "text": "The speaker outlines a strategy to select reliable lead generation channels based on experience, budget, and confidence, followed by a rationale about the risk of relying on one source."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Speech Structure on Lead Generation Strategy",
+      "topic": "lead_generation"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000037"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "inside the twelve month period, it will become a channel which brings clients to you.",
+            "unit_id": "u000037"
+          }
+        ],
+        "text": "Inside the twelve-month period, a properly created and consistent lead generation system will become a channel that brings clients."
+      },
+      "title": "Lead Generation Timeframe",
+      "topic": "lead_generation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000032",
+        "u000033"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "In cold approach, at some point, you will need to speak to a person, voice to voice.",
+            "unit_id": "u000032"
+          }
+        ],
+        "text": "In a cold approach, at some point, you will need to speak to a person, voice to voice, even if they reply to your message."
+      },
+      "title": "Cold Approach Strategy",
+      "topic": "lead_generation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000034",
+        "u000035"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm not talking about like dancing and trying to be funny on Instagram reels.",
+            "unit_id": "u000034"
+          },
+          {
+            "quote": "I'm talking about serious expert content on YouTube.",
+            "unit_id": "u000035"
+          }
+        ],
+        "text": "Serious expert content on YouTube can be a long-term lead generation machine, unlike content intended to be funny or entertaining."
+      },
+      "title": "Content Marketing & Branding",
+      "topic": "content_marketing"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000039",
+        "u000040"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "for those who are already moving, the agents who are moving to the next level, they want to become one of the leading agents on the market.",
+            "unit_id": "u000039"
+          },
+          {
+            "quote": "YouTube is no longer optional. It becomes part of your positioning.",
+            "unit_id": "u000040"
+          }
+        ],
+        "text": "For agents wanting to become leading agents on the market, YouTube is no longer optional and becomes part of their positioning."
+      },
+      "title": "YouTube Is Essential",
+      "topic": "content_marketing"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000040"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Today, with the right tools, you can automate a large part of the process: research, structure, editing support, repurposing of the videos, titles, descriptions, and distribution.",
+            "unit_id": "u000040"
+          }
+        ],
+        "text": "Today, with the right tools, you can automate a large part of the content marketing process, including research, structure, editing support, repurposing of the videos, titles, descriptions, and distribution."
+      },
+      "title": "Automation & Control in Content Marketing",
+      "topic": "automation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000043"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The real strategy for twenty twenty six is to choose two or three channels that you can rely on effectively.",
+            "unit_id": "u000043"
+          }
+        ],
+        "text": "Choose two or three lead generation channels that you can rely on effectively based on your experience, budget, and confidence."
+      },
+      "title": "Multiple Lead Generation Channels",
+      "topic": "lead_generation"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "DUBAI AGENTS ARE SCAMMERS.\" A client told me this. This week.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "A client described Dubai agents as scammers in a conversation this week."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Client Perception of Scammers",
+      "topic": "Real Estate Tactics"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I’ve seen around 50 tactics in my career - selling myself, then coaching agents to sell. Some work. Some work sometimes. Most are old. Swipe for the 5 that get you ghosted",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text introduces the topic by stating the author's experience with various tactics and then promises to reveal ineffective ones that cause 'ghosting'."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Introduction of Tactics",
+      "topic": "Real Estate Tactics"
+    },
+    {
+      "context_unit_ids": [
+        "u000003",
+        "u000004"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "1\nOPENING WITH PRESSURE\n\"It's the last unit. First come, first serve. The price will go up.\"",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "2\nASKING ONLY ABOUT THE BUDGET \"No one bedroom for that. Only studios.\"",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "A numbered list format is used to categorize different sales tactics that are deemed ineffective, each with brief examples and outcomes."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "List of Common Tactics",
+      "topic": "Real Estate Tactics"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002",
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Clients stop responding to you and you don't know why. You're probably using one of these old tactics that makes you feel like a scammer to them.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Some real estate tactics used by agents are outdated and can make agents seem dishonest to clients."
+      },
+      "title": "Old Tactics in Real Estate",
+      "topic": "Real Estate Tactics"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002",
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "OPENING WITH PRESSURE \"It's the last unit. First come, first serve. The price will go up.\"",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Opening interactions by pressuring clients with scarcity and urgency statements such as 'It's the last unit' can be seen as a scam."
+      },
+      "title": "Tactic: Opening with Pressure",
+      "topic": "Real Estate Tactics"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "ASKING ONLY ABOUT THE BUDGET \"No one bedroom for that. Only studios.\" You learned one thing about him and used it against him. He will never open up.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Asking clients only about their budget and then using that information to limit their options can prevent them from sharing more information."
+      },
+      "title": "Tactic: Asking Only About the Budget",
+      "topic": "Real Estate Tactics"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "ASKING FOR AN OFFER THE OWNER ALREADY DECLINED You just told him the owner said no to that price. Now you want him to offer it.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Encouraging clients to make offers that the owner has already declined can be counterproductive."
+      },
+      "title": "Tactic: Asking for Declined Offers",
+      "topic": "Real Estate Tactics"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "PUSHING YOUR STOCK He told you the layout, the size, what he wants. You send him whatever is available. He knows you're pushing your stock.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "When agents push whatever stock they have rather than what aligns with the client's needs, it can damage trust."
+      },
+      "title": "Tactic: Pushing Your Stock",
+      "topic": "Real Estate Tactics"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "WOBBLING ON THE NUMBERS Square footage. Price per square foot. Layout. You go vague on the numbers of your own project — and it sounds like a scam to him.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Being vague about important numbers, like square footage or price per square foot, can be perceived as dishonest."
+      },
+      "title": "Tactic: Wobbling on Numbers",
+      "topic": "Real Estate Tactics"
+    }
+  ]
+}

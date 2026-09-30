@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb-2e90724eb63669d437b4.jsonl",
+  "evidence_hash": "6a68d2b5c26a9cb04b1240488d0e2fa812dd6e8bd1d25f40942a34f718467d98",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:16:30Z",
+  "metadata_hash": "89cd0347cfd42201b65c06be22255b2619f98a4c668c65dcb69bd274afcee522",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 4,
+    "units_total": 4
+  },
+  "revision": "2e90724eb63669d437b4",
+  "snapshot_hash": "b03538ecaf59ba2cd1d79c1328db3595b2c563d8877cd23fa11a7f23a1ac1172",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb",
+  "source_path": "linkedin/posts/2026-08-27-for-all-the-proptech-founders.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "2a338f85c53f64f665739482967cd6782068edd43bfd9a47c7002f3fb31a9dff",
+  "source_snapshot": "linkedin-posts-2026-08-27-for-all-the-proptech-founders-md-ccfe6604fb-2e90724eb63669d437b4.json",
+  "version": "4"
+}

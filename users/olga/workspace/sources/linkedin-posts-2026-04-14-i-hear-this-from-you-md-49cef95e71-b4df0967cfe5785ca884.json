@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "bc31fc3066df7233027198448c9c255cc18b01521ebd4a54182ea2de2576533c",
+  "date": "2026-04-14T06:50:49.686000Z",
+  "date_basis": "source",
+  "external_id": "7449710741416443904",
+  "format": "post",
+  "id": "linkedin-posts-2026-04-14-i-hear-this-from-you-md-49cef95e71",
+  "metadata_hash": "23bf1130a94323c8b37fbcdd40fe7d1b8f473caa2bbb6ab6db5b52e26c5bc560",
+  "original_text": "---\nid: '7449710741416443904'\ndate: '2026-04-14T06:50:49.686Z'\nurl: https://www.linkedin.com/posts/olgasi_i-hear-this-from-you-all-the-time-leads-activity-7449710741416443904-yj8T\nlikes: 16\ncomments: 5\nimages_count: 1\n---\n\nI hear this from you all the time - Leads are a sh**t\n\n\nMany agents do not even have this choice\n\nBut let’s imagine you had it - So you pick will be?\n\n1- Leads that are picking up \n\nOr\n\n2- Sales training with mentorship support?\n\nAdd your Number in a comment!\n\n## Comments (5)\n\n### Shahzeb Naveed (Real Estate Consultant @ Altaf Developments | Sales, Real Property)\n> Strong framing of a common real estate challenge 👏\n> In reality, it’s not really a choice between leads or training—high-performing agents usually need both. Leads bring opportunity, but structured training and mentorship is what actually converts those opportunities into consistent closings and long-term sales stability 🚀\n\n### Favour Adedeji (Helping Coaches, Consultants & Service Businesses Turn More Leads Into Clients | Websites, Funnels, CRM & Marketing Automation)\n> 1 — leads are only valuable when there’s a proper follow-up system behind them\n\n### Olga Sinenko (Dubai Real Estate Sales Mentor & Business Consultant | 11+ years Selling | 6+ years Coaching. Turning “Just send me some options…” into Closed deals.) (Author)\n> And how about having both?\n\n### Edlyne Murono (Helping Clients Find Smart Property Investments in Dubai)\n> Number 2 Always , you have that , you got everything ✅\n\n### Dr.Mohammed Atwah (Lecturer in Marketing at Plekhanov University)\n> No. 2 off course\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-04-14-i-hear-this-from-you-md-49cef95e71:p000001",
+      "locator": "lines 10-23",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "I hear this from you all the time - Leads are a sh**t\n\n\nMany agents do not even have this choice\n\nBut let’s imagine you had it - So you pick will be?\n\n1- Leads that are picking up \n\nOr\n\n2- Sales training with mentorship support?\n\nAdd your Number in a comment!"
+    }
+  ],
+  "path": "linkedin/posts/2026-04-14-i-hear-this-from-you.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-04-14-i-hear-this-from-you.md",
+  "sha256": "11e5b328aeeb1063dac5fbd7a08c1995e56df30f3f8444988163b675add4e3c2",
+  "speakers": {},
+  "title": "I hear this from you all the time - Leads are a sh**t",
+  "units": [
+    {
+      "end": 259,
+      "id": "linkedin-posts-2026-04-14-i-hear-this-from-you-md-49cef95e71:u000001",
+      "locator": "lines 10-23",
+      "passage_id": "linkedin-posts-2026-04-14-i-hear-this-from-you-md-49cef95e71:p000001",
+      "raw_text": "I hear this from you all the time - Leads are a sh**t\n\n\nMany agents do not even have this choice\n\nBut let’s imagine you had it - So you pick will be?\n\n1- Leads that are picking up \n\nOr\n\n2- Sales training with mentorship support?\n\nAdd your Number in a comment!",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "I hear this from you all the time - Leads are a sh**t Many agents do not even have this choice But let’s imagine you had it - So you pick will be? 1- Leads that are picking up Or 2- Sales training with mentorship support? Add your Number in a comment!"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_i-hear-this-from-you-all-the-time-leads-activity-7449710741416443904-yj8T"
+}

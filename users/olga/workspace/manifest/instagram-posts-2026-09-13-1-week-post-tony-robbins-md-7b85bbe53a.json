@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 12,
+  "evidence_file": "instagram-posts-2026-09-13-1-week-post-tony-robbins-md-7b85bbe53a-7be51819d974917b5bee.jsonl",
+  "evidence_hash": "d2fd12d949be58cc5737bda2e9bbb0645f40fcb85b73183074969092c46d2edb",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:09:57Z",
+  "metadata_hash": "c716f9e1bac014e611b3cacfad302e80f0ccae700c6dc0dcdab720d6467f07dc",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 4,
+    "knowledge": 7
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 4,
+    "units_total": 4
+  },
+  "revision": "7be51819d974917b5bee",
+  "snapshot_hash": "64157767a572782a0817da09770b73512b1b6679487f60d6de8e21fb2f4ffc9d",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-09-13-1-week-post-tony-robbins-md-7b85bbe53a",
+  "source_path": "instagram/posts/2026-09-13-1-week-post-tony-robbins.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "682c121f88d4eab94cdc290dae1bc97f66a08c224cc6f4353d8dd075c71d0d2e",
+  "source_snapshot": "instagram-posts-2026-09-13-1-week-post-tony-robbins-md-7b85bbe53a-7be51819d974917b5bee.json",
+  "version": "4"
+}

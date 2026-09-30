@@ -1,0 +1,33 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you're going to put a picture of yourself, the old one,",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "going to be more precise, driven, and you get more motivation.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Looking at an old picture of oneself every day can drive one to be more precise, driven, and motivated."
+      },
+      "title": "Motivation from Old Photos",
+      "topic": "Motivation"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000042",
+        "u000043",
+        "u000044"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "the first topic of the day is like JavaScript runtime.",
+            "unit_id": "u000042"
+          },
+          {
+            "quote": "JavaScript is not a asynchronous programming language. It is a single threaded synchronous by default.",
+            "unit_id": "u000044"
+          }
+        ],
+        "text": "vasanth explains JavaScript runtime to a cohort, emphasizing its single-threaded synchronous nature."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "JavaScript Runtime Overview",
+      "topic": "JavaScript Fundamentals"
+    },
+    {
+      "context_unit_ids": [
+        "u000046",
+        "u000047",
+        "u000048"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "JavaScript engine is basically responsible for executing the JavaScript code.",
+            "unit_id": "u000046"
+          },
+          {
+            "quote": "the most popular engine on internet right now is V8.",
+            "unit_id": "u000047"
+          }
+        ],
+        "text": "vasanth addresses the role of JavaScript engines like V8, explaining its importance and ubiquity."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Understanding JavaScript Engines",
+      "topic": "JavaScript Engines"
+    },
+    {
+      "context_unit_ids": [
+        "u000050",
+        "u000051",
+        "u000052"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "One is a memory heap, another one is a call stack.",
+            "unit_id": "u000050"
+          },
+          {
+            "quote": "So this is basically where the JavaScript code get executed.",
+            "unit_id": "u000051"
+          }
+        ],
+        "text": "vasanth discusses the components of JavaScript engines, focusing on memory heap and call stack."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "JavaScript Engine Function",
+      "topic": "JavaScript Engines"
+    },
+    {
+      "context_unit_ids": [
+        "u000067",
+        "u000070",
+        "u000072"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "JavaScript, if engines want them to be interpreted, it can be interpreted. If engines want them to be compiled, they can be compiled.",
+            "unit_id": "u000070"
+          },
+          {
+            "quote": "they all actually compile your code. So because of which if there are any issues or something they'll be like able to detect earlier only.",
+            "unit_id": "u000072"
+          }
+        ],
+        "text": "vasanth discusses how JavaScript execution can be interpreted or compiled based on what is best for the engine, highlighting that modern engines compile to detect issues earlier."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "JavaScript Compilation and Execution",
+      "topic": "JavaScript Execution"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000042"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The first topic of the day is like JavaScript runtime.",
+            "unit_id": "u000042"
+          }
+        ],
+        "text": "The speaker sets a foundation for learning JavaScript by emphasizing the importance of understanding its runtime environment first."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "The reason being like without this like probably like there is nothing else. This is the extreme fundamentals of JavaScript.",
+            "unit_id": "u000042"
+          }
+        ],
+        "text": "The speaker wants the audience to grasp fundamental concepts that are crucial for further learning."
+      },
+      "speaker_id": "4",
+      "title": "Introduction to JavaScript Runtime",
+      "topic": "JavaScript Fundamentals"
+    },
+    {
+      "context_unit_ids": [
+        "u000050"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "only two parts. One is a memory heap, another one is a call stack.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "The speaker explains JavaScript engine by dividing it into components such as memory heap and call stack."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "memory heap is primarily used to store the variables.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "Clarifies the fundamental parts of a JavaScript engine to aid understanding."
+      },
+      "speaker_id": "4",
+      "title": "Explanation of JavaScript Engine Components",
+      "topic": "JavaScript Engines"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000042",
+        "u000043",
+        "u000044"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript is not a asynchronous programming language. It is a single threaded synchronous by default.",
+            "unit_id": "u000044"
+          }
+        ],
+        "text": "Understanding JavaScript runtime is fundamental because JavaScript is a single-threaded synchronous language by default, and all asynchrony is provided by the browser."
+      },
+      "title": "JavaScript Runtime Environment",
+      "topic": "JavaScript Fundamentals"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000046",
+        "u000047",
+        "u000048"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the most popular engine on internet right now is V8.",
+            "unit_id": "u000047"
+          }
+        ],
+        "text": "The V8 engine is considered the most popular JavaScript engine on the internet, used in both Chrome and the browser developed by OpenAI."
+      },
+      "title": "JavaScript Engines",
+      "topic": "JavaScript Engines"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000048",
+        "u000049"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But to begin with if you want to just play around and build your own engine, you can certainly do it.",
+            "unit_id": "u000049"
+          }
+        ],
+        "text": "It's manageable to build a basic JavaScript engine that parses and executes simple code examples, although it requires more effort to match the capability of established engines like V8."
+      },
+      "title": "Build Your Own JavaScript Engine",
+      "topic": "JavaScript Engines"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000050",
+        "u000051",
+        "u000052"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "One is a memory heap, another one is a call stack. ",
+            "unit_id": "u000050"
+          },
+          {
+            "quote": "Memory heap is basically as the very word says, is primarily used to store the variables.",
+            "unit_id": "u000050"
+          },
+          {
+            "quote": "the call stack. I suppose most of us would also definitely know what is a call stack. So this is basically where the JavaScript code get executed.",
+            "unit_id": "u000051"
+          }
+        ],
+        "text": "A JavaScript engine contains a memory heap and a call stack, with the latter managing the execution order of code."
+      },
+      "title": "JavaScript Engine Components",
+      "topic": "JavaScript Engines"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000053",
+        "u000054"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If the call stack is blocked, no further JavaScript code can execute.",
+            "unit_id": "u000053"
+          }
+        ],
+        "text": "The call stack executes code in a last-in, first-out order, and if blocked, no further code can be executed."
+      },
+      "title": "JavaScript Engine Execution",
+      "topic": "JavaScript Engines"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000067",
+        "u000069",
+        "u000070"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript, if engines want them to be interpreted, it can be interpreted. If engines want them to be compiled, they can be compiled.",
+            "unit_id": "u000070"
+          },
+          {
+            "quote": "they all actually compile your code. So because of which if there are any issues or something they'll be like able to detect earlier only.",
+            "unit_id": "u000072"
+          }
+        ],
+        "text": "JavaScript may be interpreted or compiled depending on the engine, as modern engines like V8 compile the code to detect issues early."
+      },
+      "title": "JavaScript Compilation vs Interpretation",
+      "topic": "JavaScript Execution"
+    }
+  ]
+}

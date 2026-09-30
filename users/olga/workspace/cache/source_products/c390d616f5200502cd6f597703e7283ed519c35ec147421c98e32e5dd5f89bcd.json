@@ -1,0 +1,133 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "closed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Olga phrases the invitation to join her community as a collective effort for support, working strategies, and pipeline building."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Community invitation phrasing",
+      "topic": "Dubai real estate"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Welcome to a new era of Dubai real estate which started in March twenty twenty-six. My name is Olga Semenenko, I'm real estate sales trainer. And there is a fear, panic, and a lot of buyers, sellers, and the agent moving out of this fantastic country.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Olga introduces a new era in Dubai's real estate by referencing a specific start date and current challenges facing the market."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Introduction to real estate era",
+      "topic": "Dubai real estate"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "closed community, strong in sales on Telegram where we will be together.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Olga invites individuals to join her closed community on Telegram called 'strong in sales'."
+      },
+      "title": "Invitation to a closed community",
+      "topic": "Dubai real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The community offers support and the creation of future and current pipelines for making money in any market."
+      },
+      "title": "Community benefits",
+      "topic": "Dubai real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Welcome to a new era of Dubai real estate which started in March twenty twenty-six...fear, panic, and a lot of buyers, sellers, and the agent moving out of this fantastic country.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The Dubai real estate sector entered a new era in March 2026, with fear, panic, and many buyers, sellers, and agents leaving the country."
+      },
+      "title": "State of Dubai real estate",
+      "topic": "Dubai real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you are someone, same as me, who decided to stay strong and be united with your future.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Olga Semenenko decided to stay strong and united with her future in Dubai."
+      },
+      "title": "Decision to stay in Dubai",
+      "topic": "Dubai real estate"
+    }
+  ]
+}

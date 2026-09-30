@@ -1,0 +1,136 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000022",
+        "u000023"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Because of which what happened I never understood the fundamentals concepts of JavaScript.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "Vasanth realized he did not understand basic JavaScript concepts after a few years of work."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Instead of building the things, I started understanding how things work behind the scenes step by step.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "Vasanth started focusing on understanding how things work behind the scenes instead of just building products."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "like when this section I started like 2019 and 2020 where I realized I'm extremely hollow.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "Vasanth reflects on his career where he realized the importance of understanding fundamental concepts of JavaScript late into his career."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Realization of lacking JavaScript fundamentals",
+      "topic": "Career reflection"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000025"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "If you like the video, please like the video, comment whatever you felt honestly. Share the video with your friends so that they can also get benefited. Subscribe to my channel Career with Vasanth and follow me on LinkedIn where I create content again.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "Vasanth encourages viewers to interact by liking, commenting, and sharing the video, and also suggests following him on multiple social media platforms for more content."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Social media engagement",
+      "topic": "Audience engagement"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000021"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But my all-time favorite is Code Evolution by Vishwas. So this is no paid promotion. He's one of my favorite YouTuber. I learned lot of React concepts by Vishwas.",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "Vasanth recommends learning React from Code Evolution by Vishwas, which he cites as a favorite resource for understanding React concepts."
+      },
+      "title": "React learning resources",
+      "topic": "React"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000022",
+        "u000023",
+        "u000024"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So become extremely fundamentally strong, which is a core thing that somebody should learn if they want to learn front end in 2025.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "Vasanth advises learning the fundamental concepts of JavaScript deeply, as being fundamentally strong is crucial for progressing beyond basic product development."
+      },
+      "title": "Importance of understanding JavaScript fundamentals",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "take as many mock interviews as possible there are tons of websites where you can learn mock interviews for free okay so go through those websites",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "Vasanth suggests engaging in as many mock interviews as possible for practice, through online platforms or community arrangements."
+      },
+      "title": "Participating in mock interviews",
+      "topic": "Interview preparation"
+    }
+  ]
+}

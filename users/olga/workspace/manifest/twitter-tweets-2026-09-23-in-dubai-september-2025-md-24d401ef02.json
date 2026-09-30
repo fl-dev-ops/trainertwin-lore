@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "twitter-tweets-2026-09-23-in-dubai-september-2025-md-24d401ef02-9542468c06dcc10a9c88.jsonl",
+  "evidence_hash": "cee6c5ced72d238401c39d3d08efe3e36f1395cc25b481d62b105caf239a1abb",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:18:08Z",
+  "metadata_hash": "14a72dae160638f4ae7e2d0e457d0974e8f66ccef8ed5bfbc2d461adb0a85199",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "9542468c06dcc10a9c88",
+  "snapshot_hash": "e6189de4079149f90ed444b47a99d0f5fe2109ad5e070ac7e33d4811bfba5a71",
+  "source_format": "source-products-v4",
+  "source_id": "twitter-tweets-2026-09-23-in-dubai-september-2025-md-24d401ef02",
+  "source_path": "twitter/tweets/2026-09-23-in-dubai---september-2025.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "1f398e42342a894255c6882d340e8f6fcabc1735e87cae2eeae0c5a0dc6fd864",
+  "source_snapshot": "twitter-tweets-2026-09-23-in-dubai-september-2025-md-24d401ef02-9542468c06dcc10a9c88.json",
+  "version": "4"
+}

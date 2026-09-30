@@ -1,0 +1,406 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000007",
+        "u000008"
+      ],
+      "cue": null,
+      "diagnosis": {
+        "citations": [
+          {
+            "quote": "Now, answer honestly. How often do you hear that after opening your call this way?",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "This assumption can lead clients to disengage due to feeling pressured too early, causing them to retreat or request more options."
+      },
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "You already assume that the client wants to buy.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Agents often erroneously assume clients are ready to invest in real estate during initial contact."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Assumption Leading to Lost Opportunities",
+      "topic": "initial_contact_assumptions"
+    },
+    {
+      "context_unit_ids": [
+        "u000009",
+        "u000010"
+      ],
+      "cue": null,
+      "diagnosis": {
+        "citations": [
+          {
+            "quote": "the client freezes because in reality he's not maybe downtown Dubai Marina, maybe one or two more, but he doesn't have enough information to answer you.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "The approach leads to a stall in the conversation because the client lacks sufficient information to make a decision."
+      },
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Many agents believe that if the client has visited or especially more than once and he says it's like it, it's it's already kind of halfway to buying.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "An agent asks a client about their familiarity and liking of Dubai to gauge investment interest."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Real Estate Client Uncertainty",
+      "topic": "harmful_questions"
+    },
+    {
+      "context_unit_ids": [
+        "u000025",
+        "u000026"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "People believe what comes from their own mouth to their own ears far more than anything you tell them.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "Real persuasion is effective when clients hear themselves verbalize their thoughts and needs."
+      },
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "agents go wrong. They pitch too early, recommend too early, present properties before the client understands his own decisions.",
+            "unit_id": "u000026"
+          }
+        ],
+        "text": "Many agents prematurely pitch properties before clients clarify their own decisions."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "the client starts convincing himself through his own answers, not because you paychain, because he hears himself saying it.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "The aim should be to assist the client in realizing their own needs through strategic conversation."
+      },
+      "title": "Effective Client Engagement",
+      "topic": "communication_style_change"
+    },
+    {
+      "context_unit_ids": [
+        "u000014",
+        "u000015"
+      ],
+      "cue": null,
+      "diagnosis": {
+        "citations": [
+          {
+            "quote": "You become interchangeable.",
+            "unit_id": "u000015"
+          }
+        ],
+        "text": "Hearing similar scripts and questions across agents makes clients view new agents as interchangeable rather than experts."
+      },
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "by the time you call that he already spoken to fifteen or twenty agents he has something close to PTSD from Dubai real estate conversations.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "Potential buyers have spoken to multiple agents receiving similar treatment and questions."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Initial Contact Strategy",
+      "topic": "initial_contact_assumptions"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000005",
+        "u000006"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "But on a call one, A stranger asking how are you doesn't sound like a care.",
+            "unit_id": "u000005"
+          },
+          {
+            "quote": "A stranger asking how are you doesn't sound like a care.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "While the phrase 'how are you?' is a common opening, it is criticized for lacking sincerity and serving as a segue into a sales pitch."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Opening Line Critique",
+      "topic": "communication_style_change"
+    },
+    {
+      "context_unit_ids": [
+        "u000011",
+        "u000012"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Are you looking for investment or a personal use?",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "The discussions show a pattern where agents ask about interest in investment or personal use during initial contacts, but fail to derive meaningful insights from affirmative responses."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Client Interest Questions",
+      "topic": "harmful_questions"
+    },
+    {
+      "context_unit_ids": [
+        "u000007",
+        "u000008"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Are you interested in investing in Dubai real estate?",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Using assumptive language that presupposes a client's intention to invest can lead to a defensive reaction from clients."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Assumptive Language During Calls",
+      "topic": "initial_contact_assumptions"
+    },
+    {
+      "context_unit_ids": [
+        "u000017",
+        "u000018"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "He just added the sales techniques and the process that were missing.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "The narrative discusses transformative coaching by noting a participant's improved success through structural conversation changes rather than increased real estate knowledge."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Transformation through Coaching",
+      "topic": "communication_style_change"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you send them even the perfect options, the client just disappears.",
+            "unit_id": "u000001"
+          },
+          {
+            "quote": "every client who disappears like this costs you thirty, fifty, maybe sixty thousand dirhams.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Clients often disappear after being presented with options, leading to loss of potential deals and financial cost."
+      },
+      "title": "Client Disappearing in Real Estate Deals",
+      "topic": "client_disappearing"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "change the way you communicate, and this alone will change how your call ends with a book meeting or just send me some options.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "To improve client communication and increase sales."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Well, I'm not saying never ask how are you. Call two, three, ask about the wife, the kids, the dog, it works there. But on a call one,",
+              "unit_id": "u000005"
+            }
+          ],
+          "text": "Avoid asking standard opening questions such as 'how are you?' on the first call."
+        },
+        {
+          "citations": [
+            {
+              "quote": "You already assume that the client wants to buy.",
+              "unit_id": "u000007"
+            }
+          ],
+          "text": "On the first call, avoid making assumptions about the client's intentions."
+        },
+        {
+          "citations": [
+            {
+              "quote": "when you saw the ad, like, besides the shiny computer graphics, what was about the ad that kind of attracted",
+              "unit_id": "u000027"
+            }
+          ],
+          "text": "Inquire about what attracted the client to the ad without assuming commitment to purchase."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Change that and the next month you will double your sales.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Changing communication style can potentially double sales within a month."
+      },
+      "title": "Changing Communication Style",
+      "topic": "communication_style_change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007",
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You already assume that the client wants to buy.",
+            "unit_id": "u000007"
+          },
+          {
+            "quote": "the moment you say you're interested in investing in Dubai real estate, the natural reaction is to correct you.",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "Assuming the client's interest in buying right from the initial contact can lead to lost opportunities."
+      },
+      "title": "Avoid Assumptions in Initial Contact",
+      "topic": "initial_contact_assumptions"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009",
+        "u000010",
+        "u000011"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "liking Dubai is not an investment decision.",
+            "unit_id": "u000009"
+          },
+          {
+            "quote": "the client freezes because in reality he's not maybe downtown Dubai Marina, maybe one or two more, but he doesn't have enough information to answer you.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "Asking clients about their prior visits to Dubai or if they like it does not correlate directly with investment decision-making and may hinder the sales process."
+      },
+      "title": "Questions that Harm Sales",
+      "topic": "harmful_questions"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000022",
+        "u000023",
+        "u000024"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "four things need to happen for a deal to close.",
+            "unit_id": "u000022"
+          },
+          {
+            "quote": "the right options, not the ones you like.",
+            "unit_id": "u000023"
+          },
+          {
+            "quote": "your first goal is not to sell the property.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "Four elements are crucial for closing a deal: internal urgency, reduced fear, suitable options, and financial capability."
+      },
+      "title": "Important Sales Elements",
+      "topic": "important_sales_elements"
+    }
+  ]
+}

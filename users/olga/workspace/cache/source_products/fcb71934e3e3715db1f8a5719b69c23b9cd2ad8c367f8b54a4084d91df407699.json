@@ -1,0 +1,79 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "learn the techniques on my Youtube Channel\n\n*\n*\n*\n*\n*\n#*\n*\n*\n*\n* #ColdCallingDubai",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text combines a direct invitation to learn techniques on a Youtube Channel with a long list of relevant hashtags."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "learn the techniques on my Youtube Channel",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "To promote a Youtube Channel and expand reach using hashtags."
+      },
+      "speaker_id": null,
+      "title": "Invitation and Social Proof",
+      "topic": "channel_promotion"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "learn the techniques on my Youtube Channel",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Learn the techniques on my Youtube Channel."
+      },
+      "title": "Youtube Channel Promotion",
+      "topic": "channel_promotion"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "clients can come to you on different stages. They can come when they are just found the problem and they're comparing different solutions, or they can come to you where the problem actually triggered and now they're really looking for it.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Clients can approach at different stages of their problem discovery and solution comparison."
+      },
+      "title": "Variety of Client Stages",
+      "topic": "client_stages"
+    }
+  ]
+}

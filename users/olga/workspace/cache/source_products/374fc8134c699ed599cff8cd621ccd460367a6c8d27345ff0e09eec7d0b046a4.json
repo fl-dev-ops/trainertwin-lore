@@ -1,0 +1,178 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000036",
+        "u000037",
+        "u000038"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "and out. One owner cuts the rent. Then the next, then the next. That building rent compress. Why Dubai headlines still says prices are high.",
+            "unit_id": "u000036"
+          },
+          {
+            "quote": "Over supply is really a city problem. It's a building problem.",
+            "unit_id": "u000036"
+          },
+          {
+            "quote": "One share of Dubai's stock is now more than ten years old, and the building is actually a physical object, sitting in fifty degrees heat half of the year.",
+            "unit_id": "u000038"
+          }
+        ],
+        "text": "The speaker explains the oversupply issue in Dubai's real estate market by discussing how rents are affected differently in various buildings and provides considerations for investors."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Explaining Dubai's Market Dynamics",
+      "topic": "Real Estate Market Analysis"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000042",
+        "u000043"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "If you cannot answer all three, you are not investing in Dubai.",
+            "unit_id": "u000042"
+          },
+          {
+            "quote": "If you want those three questions answered for a specific project, the link below with a private strategy session with me.",
+            "unit_id": "u000043"
+          }
+        ],
+        "text": "The speaker provides investment advice in a conditional format, emphasizing that without clear answers to three questions about a property, one is not truly investing."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Conditional Investment Advice",
+      "topic": "Real Estate Investment"
+    },
+    {
+      "context_unit_ids": [
+        "u000039",
+        "u000040"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "A rising city doesn't guarantee a rising asset.",
+            "unit_id": "u000039"
+          },
+          {
+            "quote": "the city gets, the less useful Dubai prices are going up becomes",
+            "unit_id": "u000040"
+          }
+        ],
+        "text": "The speaker uses contrast to emphasize that a rising city does not mean a rising asset by comparing different community impacts within Dubai."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Contrast in Market Analysis",
+      "topic": "Real Estate Market Analysis"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000036"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Over supply is really a city problem. It's a building problem.",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "Over supply in Dubai is generally a city-wide problem but also a building-specific issue."
+      },
+      "title": "Dubai Property Market Dynamics",
+      "topic": "Real Estate Market Analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000043"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "First, what creates the real demand for this specific property? Not to buy, not the brochure. Second, how many new identical units going to be handed over within the year in the same district? Third, who buys it or rents it from you and why yours instead the one on the floor above?",
+            "unit_id": "u000042"
+          }
+        ],
+        "text": "To invest in Dubai, answer three specific questions about the property: its real demand, the number of new identical units, and who will buy or rent it from you."
+      },
+      "title": "Investment Considerations in Dubai",
+      "topic": "Real Estate Investment"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000041"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "watch free things. The monthly index, the off-plan share, and the new lease rents.",
+            "unit_id": "u000041"
+          }
+        ],
+        "text": "Monitor the monthly index, the off-plan share, and new lease rents to assess market conditions in Dubai."
+      },
+      "title": "Market Indicators for Dubai",
+      "topic": "Market Indicators"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000043"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Dubai moves in seven to nine year cycles. And we're entering absorption, not a crash.",
+            "unit_id": "u000043"
+          }
+        ],
+        "text": "Dubai’s real estate market operates in cycles of seven to nine years, and it's currently entering an absorption phase, not a crash."
+      },
+      "title": "Real Estate Market Cycles",
+      "topic": "Market Cycles"
+    }
+  ]
+}

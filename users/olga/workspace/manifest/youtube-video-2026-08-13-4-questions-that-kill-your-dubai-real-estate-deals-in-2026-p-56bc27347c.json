@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 2,
+  "evidence_count": 21,
+  "evidence_file": "youtube-video-2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-p-56bc27347c-525afcc1cb94ede5764f.jsonl",
+  "evidence_hash": "c14d5c14bb3a4eac777e96a911e283bf5da81452cf977ca6abb84c314bf391d9",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:14:56Z",
+  "metadata_hash": "997b4740155d775d9d6f3d09fb25e4e032f466ecd672644c7cad3096b7185642",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 4,
+    "expression": 6,
+    "knowledge": 11
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 24,
+    "units_total": 47
+  },
+  "revision": "525afcc1cb94ede5764f",
+  "snapshot_hash": "615ba5e6d72b8e03acc7dbc744b7663215a1a9207f7096d502b9ebdfd5700f6c",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-p-56bc27347c",
+  "source_path": "youtube/video/2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-pQCLpcXSx2s.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "92a533e0bfae5db806ef3469e15dd8d191f8730753c7597ef6e96a49d1754ebf",
+  "source_snapshot": "youtube-video-2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-p-56bc27347c-525afcc1cb94ede5764f.json",
+  "version": "4"
+}

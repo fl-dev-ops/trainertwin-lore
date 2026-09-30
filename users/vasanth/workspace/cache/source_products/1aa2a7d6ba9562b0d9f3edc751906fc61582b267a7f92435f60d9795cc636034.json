@@ -1,0 +1,154 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000233"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So we have a call stack, we have a micro task and micro task queue. So the order of the execution you you guys already saw, like how it will executed is, first call stack must be empty, executes all micro task, executes one micro task, repeat the cycle.",
+            "unit_id": "u000233"
+          }
+        ],
+        "text": "The speaker structures the explanation of the JavaScript event loop by first mentioning the components (call stack, micro task queue) and then directly stating the sequence of execution."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Explanation of JavaScript Event Loop",
+      "topic": "JavaScript"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "That means until the call stack is empty, no macro task is picked or no micro task is picked, right? So what do I mean by call stack is empty?",
+              "unit_id": "u000234"
+            }
+          ],
+          "text": "Until the call stack is empty, no macro task or micro task is picked."
+        }
+      ],
+      "context_unit_ids": [
+        "u000233",
+        "u000234",
+        "u000235"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So we have a call stack, we have a micro task and micro task queue. So the order of the execution you you guys already saw, like how it will executed is, first call stack must be empty, executes all micro task, executes one micro task, repeat the cycle.",
+            "unit_id": "u000233"
+          }
+        ],
+        "text": "In the JavaScript event loop, the order of execution is such that the call stack must be empty before a macro task or micro task is picked."
+      },
+      "title": "JavaScript Event Loop",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000257",
+        "u000259",
+        "u000262"
+      ],
+      "exceptions": [
+        {
+          "citations": [
+            {
+              "quote": "Yes. Yeah. But will it make it 100% accurate? No, relatively more accurate.",
+              "unit_id": "u000263"
+            }
+          ],
+          "text": "This method will not make the timer 100% accurate, only relatively more accurate."
+        }
+      ],
+      "goal": {
+        "citations": [
+          {
+            "quote": "But you could only make it more accurate than the traditional approach.",
+            "unit_id": "u000272"
+          }
+        ],
+        "text": "To make JavaScript timers more accurate than the traditional approach."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Instead of you running an interval for one second, you will run it at every hundred millisecond.",
+              "unit_id": "u000259"
+            }
+          ],
+          "text": "Run the interval at a very short duration, such as 100 milliseconds."
+        },
+        {
+          "citations": [
+            {
+              "quote": "and you can have some date object used within that interval so that like you could check the start date and end date.",
+              "unit_id": "u000259"
+            }
+          ],
+          "text": "Use a date object within that interval to check the start and end date."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Now the next interval you could make it eighty millisecond.",
+              "unit_id": "u000262"
+            }
+          ],
+          "text": "Adjust the next interval duration to account for execution time discrepancies."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Let's say it executed at one hundred and twenty. Now the next interval you could make it eighty millisecond.",
+            "unit_id": "u000262"
+          }
+        ],
+        "text": "This method focuses on making timer functions in JavaScript relatively more accurate by adjusting interval durations based on execution timing."
+      },
+      "title": "Improving Timer Accuracy in JavaScript",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000275",
+        "u000276",
+        "u000280"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So there has to be like super critical. Like you cannot even a millisecond delay is not acceptable. In such situations I would say definitely the client JavaScript is not should not be the approach for you.",
+            "unit_id": "u000276"
+          }
+        ],
+        "text": "JavaScript should not be used for applications where critical timing with millisecond precision is required, such as space missions."
+      },
+      "title": "Limitations of JavaScript for Critical Timing",
+      "topic": "JavaScript"
+    }
+  ]
+}

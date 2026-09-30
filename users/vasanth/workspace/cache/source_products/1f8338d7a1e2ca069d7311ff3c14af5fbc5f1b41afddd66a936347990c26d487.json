@@ -1,0 +1,143 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000032",
+        "u000039"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Should front end developers need to switch to full stack Gen AI AML or deeper front end development.",
+            "unit_id": "u000032"
+          }
+        ],
+        "text": "A speaker discusses whether front end developers should switch to full stack, Gen AI, or deeper front end development."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Consideration of AI and Full Stack Development",
+      "topic": "career advice"
+    },
+    {
+      "context_unit_ids": [
+        "u000047",
+        "u000048"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "There is a concept called generalist. See we all consider ourselves as a specialist to be honest, right?",
+            "unit_id": "u000047"
+          }
+        ],
+        "text": "The discussion covers the potential shift from specialized skills to generalist skills in the tech industry, especially in AI-driven roles."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Shift to generalist skills in AI era",
+      "topic": "career advice"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000032",
+        "u000033"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Should front end developers need to switch to full stack Gen AI AML or deeper front end development.",
+            "unit_id": "u000032"
+          }
+        ],
+        "text": "The speaker uses a series of rhetorical questions to address common doubts and considerations about career shifts for frontend developers."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Discussion on frontend developer career shifts",
+      "topic": "career advice"
+    },
+    {
+      "context_unit_ids": [
+        "u000047",
+        "u000049"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Like for example you're taken from Microsoft put into Google.",
+            "unit_id": "u000047"
+          }
+        ],
+        "text": "The speaker uses an analogy to compare the current specialization in job roles to a future where more generalist skills may be required in AI-focused companies."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Analogy of AI era and generalist skills",
+      "topic": "career advice"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000031"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I really doubt AI will be able to do that in next two to three years.",
+            "unit_id": "u000031"
+          }
+        ],
+        "text": "At least for the next two to three years, AI will not be able to handle end-to-end processes such as requirement gathering, product building, and handling production bugs."
+      },
+      "title": "Claim about AI capabilities in the near future",
+      "topic": "AI capability"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000039",
+        "u000040"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If your if your target is to basically make a job switch in next four to six months then please don't learn anything new because job switching is not the right time to learn anything new.",
+            "unit_id": "u000040"
+          }
+        ],
+        "text": "If you want to change your job in the next four to six months, do not study anything new."
+      },
+      "title": "Advice on job transition for front end developers",
+      "topic": "career advice"
+    }
+  ]
+}

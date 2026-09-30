@@ -1,0 +1,283 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Authority is not the watch, the suit, the LinkedIn title. Authority is your inner position. Equal adult.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "The claim of authority is structured by juxtaposing commonly perceived indicators (watch, suit, LinkedIn title) against the true indicator (inner position) with an imperative conclusion (Equal adult)."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Claim of Authority",
+      "topic": "authority"
+    },
+    {
+      "context_unit_ids": [
+        "u000030"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Transactional analysis founded by Eric Bern studied how people communicate and how the position you take in a conversation creates the reaction of the other person.",
+            "unit_id": "u000030"
+          }
+        ],
+        "text": "Transactional analysis is explained by first attributing its founding to Eric Bern, followed by describing its use in communication analysis."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Explanation of Transactional Analysis",
+      "topic": "transactional_analysis"
+    },
+    {
+      "context_unit_ids": [
+        "u000036",
+        "u000040"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Internal urgency rooted in his own words...grows for days after you hang up.",
+            "unit_id": "u000040"
+          }
+        ],
+        "text": "The speaker contrasts internal and external urgency by explaining how internal urgency's impact extends beyond immediate interactions, while external urgency's influence dissipates quickly."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Urgency Explanation",
+      "topic": "urgency"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Here is what almost always misunderstood. Authority is not the watch, the suit, the LinkedIn title. Authority is your inner position. Equal adult.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "Authority is not the watch, the suit, the LinkedIn title; it is your inner position as an equal adult."
+      },
+      "title": "Authority Misunderstanding",
+      "topic": "authority"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000030",
+        "u000031"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Transactional analysis founded by Eric Bern studied how people communicate and how the position you take in a conversation creates the reaction of the other person.",
+            "unit_id": "u000030"
+          },
+          {
+            "quote": "the moment you communicate from dependent position, you start sounding like a child speaking to adult. And your client, he just has no choice but to take the adult position above you.",
+            "unit_id": "u000031"
+          }
+        ],
+        "text": "Transactional analysis founded by Eric Bern aids in understanding how communication positions affect interactions. Communicating from a dependent position aligns you in a child role, prompting the client to assume an adult role above you."
+      },
+      "title": "Transactional Analysis and Communication Positions",
+      "topic": "transactional_analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000032"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "From the moment the balance of power is broken, changing its back is not possible. That's why the beginning of conversation is so important.",
+            "unit_id": "u000032"
+          }
+        ],
+        "text": "Once the balance of power in a sales conversation is broken, it cannot be restored. Starting from a dependency leads to client superiority, while starting as an equal sets a professional tone."
+      },
+      "title": "Balance of Power in Sales Conversation",
+      "topic": "power_balance"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000040"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Internal urgency rooted in his own words. And it keeps growing in his head because it's connected to the problem that he need to solve.",
+            "unit_id": "u000040"
+          }
+        ],
+        "text": "Internal urgency is more effective than external urgency because it continues to influence the client long after the conversation ends."
+      },
+      "title": "Internal vs External Urgency",
+      "topic": "urgency"
+    },
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "Because the front camera splits your brain in half.",
+              "unit_id": "u000051"
+            }
+          ],
+          "text": "The front camera should not be used as it divides attention."
+        }
+      ],
+      "context_unit_ids": [
+        "u000048",
+        "u000049",
+        "u000050"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "Confidence is strained like a muscle.",
+            "unit_id": "u000048"
+          }
+        ],
+        "text": "To build confidence in sales conversations."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "You have to film yourself on the back camera, not the front one.",
+              "unit_id": "u000049"
+            }
+          ],
+          "text": "Have a back camera to record yourself."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "So, you film it, then you watch the video right away.",
+              "unit_id": "u000049"
+            }
+          ],
+          "text": "Film yourself on the back camera for approximately one minute."
+        },
+        {
+          "citations": [
+            {
+              "quote": "You don't have to do anything. Your brain will do the work.",
+              "unit_id": "u000050"
+            }
+          ],
+          "text": "Review the video and let your brain process the self-feedback."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm going to give you two exercises. It's only five minutes a day and it's totally free.",
+            "unit_id": "u000048"
+          },
+          {
+            "quote": "So exercise number one, I call it the camera confidence test. It literally takes two minutes.",
+            "unit_id": "u000049"
+          }
+        ],
+        "text": "A camera confidence exercise can help improve sales performance by overcoming self-monitoring behaviors."
+      },
+      "title": "Confidence Building Exercise",
+      "topic": "camera_confidence"
+    },
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "If in the moment that you hit the send, your stomach tightens...you just borrowed an adult sentence.",
+              "unit_id": "u000056"
+            }
+          ],
+          "text": "The message should not show desperation or over-eagerness."
+        }
+      ],
+      "context_unit_ids": [
+        "u000056"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "I've seen my coaching client bring back leads that went silent for months just using this exact line.",
+            "unit_id": "u000056"
+          }
+        ],
+        "text": "To reactivate leads that have gone silent after initial contact."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Hi, name? I know life can get busy. Have you completely given up on the idea of making money with Dubai real estate?",
+              "unit_id": "u000055"
+            }
+          ],
+          "text": "Craft a follow-up message that challenges the client to reconsider their decision without sounding desperate."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The trick is this, no one wants to admit that he is completely given up on anything.",
+            "unit_id": "u000056"
+          }
+        ],
+        "text": "Using a pattern interrupt can reactivate leads that have gone silent by avoiding typical follow-up messages."
+      },
+      "title": "Use of Pattern Interrupt",
+      "topic": "pattern_interrupt"
+    }
+  ]
+}

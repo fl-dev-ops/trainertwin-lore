@@ -1,0 +1,111 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "structure comes your brain much faster than motivation ever will.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker compares structure and motivation by stating that structure comes to the brain faster during uncertain times."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Comparison of structure and motivation",
+      "topic": "structure_motivation_comparison"
+    },
+    {
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "What is your structure today?",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker asks a reflective question to prompt consideration of one's current structure."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Question prompting reflection",
+      "topic": "importance_of_structure"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If your life changed overnight, the first thing you need is not confidence, it's a structure.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author believes that when life becomes unstable, a structure is more important than confidence."
+      },
+      "title": "Value of structure during uncertainty",
+      "topic": "importance_of_structure"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But in moments like this, you do not need to magically feel better first. You need just a simple next step, a move, a plan, a direction.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "In moments of instability, instead of seeking to feel better first, it's advised to have a simple next step, move, plan, or direction."
+      },
+      "title": "Strategy to manage instability",
+      "topic": "handling_instability"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Because when the life becomes uncertain like it is now in Dubai, structure comes your brain much faster than motivation ever will.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The author claims that structure comes to the brain faster than motivation during uncertain times."
+      },
+      "title": "Structure vs. motivation",
+      "topic": "structure_motivation_comparison"
+    }
+  ]
+}

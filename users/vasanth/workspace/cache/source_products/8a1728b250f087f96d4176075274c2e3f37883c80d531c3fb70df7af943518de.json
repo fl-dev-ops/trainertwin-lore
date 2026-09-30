@@ -1,0 +1,267 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000068",
+        "u000069"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "This is also one of the important question. Many people get confused.",
+            "unit_id": "u000069"
+          }
+        ],
+        "text": "To clarify a common confusion about JavaScript's nature."
+      },
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "if anyone asks you, is JavaScript interpreted or compiled?",
+            "unit_id": "u000068"
+          }
+        ],
+        "text": "Speaker explains JavaScript's flexibility as either interpreted or compiled, depending on the engine."
+      },
+      "speaker_id": "2",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "it depends on the engine wherever it is running. So if you it can be made as compiled or it can be made as interpreted also.",
+            "unit_id": "u000069"
+          }
+        ],
+        "text": "Explain that JavaScript can be either compiled or interpreted, depending on the engine used."
+      },
+      "title": "Explaining JavaScript Language Flexibility",
+      "topic": "JavaScript features"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000058",
+        "u000059"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I want you to start asking more and more why to yourselves.",
+            "unit_id": "u000058"
+          }
+        ],
+        "text": "Speaker urges the audience to ask 'why' questions, providing examples of questions about JavaScript to encourage deeper understanding."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Encouraging Questioning",
+      "topic": "learning strategy"
+    },
+    {
+      "context_unit_ids": [
+        "u000070",
+        "u000073"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "JavaScript is a lightweighted, interpreted or just-in-time compiled programming language with first-class functions.",
+            "unit_id": "u000070"
+          },
+          {
+            "quote": "JavaScript as a language is actually synchronous by default.",
+            "unit_id": "u000073"
+          }
+        ],
+        "text": "The speaker provides the definition of JavaScript using its official description, adding an explanation of its synchronous nature."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Definition and Explanation",
+      "topic": "JavaScript features"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000050",
+        "u000051",
+        "u000054"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "so that this document becomes one source of truth before you give any interview.",
+            "unit_id": "u000051"
+          }
+        ],
+        "text": "To have a single source of truth before any interview."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "like Google Docs, Microsoft document etcetera, which can be shared across mobiles, laptops etcetera.",
+              "unit_id": "u000050"
+            }
+          ],
+          "text": "Use devices and programs capable of creating shareable documents."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "please try to make in make a note primarily in a shareable sort of a way like Google Docs, Microsoft document etcetera",
+              "unit_id": "u000050"
+            }
+          ],
+          "text": "Make notes in a shareable format."
+        },
+        {
+          "citations": [
+            {
+              "quote": "The reason being, you can document in the same way, definition, bookish example, practical example for a concept.",
+              "unit_id": "u000050"
+            },
+            {
+              "quote": "You give an interview to company A, come back and then you can update the document. Like things you did well or things you could have done better.",
+              "unit_id": "u000050"
+            }
+          ],
+          "text": "Include definitions, examples, and improvements after each interview."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Even if you're going to a company for a physical interview on the way you can just revise all the things in the docs and you can go and mostly your interview ready.",
+              "unit_id": "u000054"
+            }
+          ],
+          "text": "Use this document to revise before interviews."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "please try to make in make a note primarily in a shareable sort of a way like Google Docs, Microsoft document etcetera, which can be shared across mobiles, laptops etcetera.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "Create a shareable document (e.g., on Google Docs or Microsoft document) for note-taking as a 'living document' which can be updated after each interview."
+      },
+      "title": "Note-taking Method for Interviews",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000055",
+        "u000056",
+        "u000057"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if we try to send to thirty three people at once, the email, the email start becoming spam. So we are using Discord for all of our live updates, so please use Discord and not choosing WhatsApp",
+            "unit_id": "u000055"
+          }
+        ],
+        "text": "Use Discord for all live updates in the cohort instead of email or WhatsApp to avoid spam and fragmentation."
+      },
+      "title": "Discord for Updates",
+      "topic": "communication platform"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000057",
+        "u000058",
+        "u000059",
+        "u000060",
+        "u000061"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I want you to start asking more and more why to yourselves. Do not accept the concepts as is.",
+            "unit_id": "u000058"
+          }
+        ],
+        "text": "Ask 'why' more often to better understand concepts, rather than accepting them at face value."
+      },
+      "title": "Asking 'Why' in Learning",
+      "topic": "learning strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000073",
+        "u000074"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript as a language is actually synchronous by default.",
+            "unit_id": "u000073"
+          },
+          {
+            "quote": "JavaScript is a single threaded, interpreted or just in time compiled programming language with functions as first class members, okay?",
+            "unit_id": "u000074"
+          }
+        ],
+        "text": "JavaScript is a single-threaded, synchronous by default, interpreted or just-in-time compiled language with first-class functions."
+      },
+      "title": "Javascript Characteristics",
+      "topic": "JavaScript features"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000071",
+        "u000072"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript runtime is an environment where JavaScript code runs so it is broken into two primary parts one is JavaScript is JavaScript engine another one is a browser capability",
+            "unit_id": "u000072"
+          }
+        ],
+        "text": "JavaScript Runtime is an environment consisting of the JavaScript engine and browser capability."
+      },
+      "title": "JavaScript Runtime Environment",
+      "topic": "JavaScript features"
+    }
+  ]
+}

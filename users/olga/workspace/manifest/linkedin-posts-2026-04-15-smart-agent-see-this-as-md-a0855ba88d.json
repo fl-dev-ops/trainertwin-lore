@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d-2ebbfb52a5927cc3f5ba.jsonl",
+  "evidence_hash": "4e634e593d6bb1e43b35d222ea5a43013d1aefd97a683bb5e44a1d98664527f8",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:12:35Z",
+  "metadata_hash": "ef087555f1757800e19578343559650c9c95f5a83dc1986a792fedb718344829",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "2ebbfb52a5927cc3f5ba",
+  "snapshot_hash": "332c855016ae6c6ecbcbbc0121a425ab62f6c77c6937d654357a6c6934289437",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d",
+  "source_path": "linkedin/posts/2026-04-15-smart-agent-see-this-as.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "7a6bdd5bf9bb039c95a9651989540706833d4b2509dda7443888a1f2fa8adb88",
+  "source_snapshot": "linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d-2ebbfb52a5927cc3f5ba.json",
+  "version": "4"
+}

@@ -1,0 +1,112 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000092",
+        "u000093"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "kind of call is to I want to capture it. But if you capture it, what's going to happen with this? It's not going to be butterfly anymore, right? So, what you should do to do everything possible for the butterfly to stay here, maybe, you know, locate yourself and stay with you forever.",
+            "unit_id": "u000093"
+          }
+        ],
+        "text": "The speaker employs the analogy of a butterfly sitting on the palm to illustrate a point about influence and persuasion. Capturing the butterfly represents being too forceful in influence, whereas doing everything to keep the butterfly on its own will display the subtlety of true persuasion."
+      },
+      "purpose": null,
+      "speaker_id": "3",
+      "title": "Butterfly Analogy",
+      "topic": "influence"
+    },
+    {
+      "context_unit_ids": [
+        "u000102",
+        "u000103"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "How Tony Robbins changes his perception, the perception of this person and just ten minutes, maybe even less.",
+            "unit_id": "u000102"
+          }
+        ],
+        "text": "The speaker uses the example of Tony Robbins to illustrate a point about the power of asking the right questions rather than providing answers."
+      },
+      "purpose": null,
+      "speaker_id": "3",
+      "title": "Tony Robbins Example",
+      "topic": "communication"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000097",
+        "u000098",
+        "u000099",
+        "u000100",
+        "u000101",
+        "u000102",
+        "u000103",
+        "u000104"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "is your ability to reflect on yourself while you're in communication and help the other person through your questions discover on his own why he needs this, why he needs this urgently",
+            "unit_id": "u000100"
+          }
+        ],
+        "text": "To help clients discover on their own why an action is necessary and beneficial."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Let me explain you. uh I recently got uh coaching client approaching me and we went into the coaching relationship",
+              "unit_id": "u000097"
+            }
+          ],
+          "text": "Ask the client questions that help them discover for themselves why they need to act."
+        },
+        {
+          "citations": [
+            {
+              "quote": "is your ability to reflect on yourself while you're in communication and help the other person through your questions discover on his own why he needs this",
+              "unit_id": "u000100"
+            }
+          ],
+          "text": "Reflect on your own communication style to ensure it helps clients discover their needs on their own."
+        },
+        {
+          "citations": [
+            {
+              "quote": "You understand? Instead of you convert your statements into questions. But it's not like you you put a question mark after statement.",
+              "unit_id": "u000104"
+            }
+          ],
+          "text": "Convert statements into questions to prompt self-realization in clients."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The communication skills is not your ability to pass the information from point A to point B. uh it's an ability for you to communicate in a way that creates the outcome which is desirable for you and desirable for the client.",
+            "unit_id": "u000097"
+          }
+        ],
+        "text": "Sales communication is not just passing information from point A to point B. It's about communicating in a way that creates a desirable outcome for both you and the client by helping them discover on their own why an action is necessary."
+      },
+      "title": "Sales Communication",
+      "topic": "communication"
+    }
+  ]
+}

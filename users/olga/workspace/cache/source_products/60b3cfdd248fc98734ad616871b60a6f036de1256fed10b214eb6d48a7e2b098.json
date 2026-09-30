@@ -1,0 +1,103 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "And if you feel like you haven't been closing that type of deal for a while, welcome to Habica Properties.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "If you feel like you haven't been closing that type of deal for a while, welcome to Habica Properties."
+      },
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "What I'm holding in my hand is the offer to purchase from the E-Mart. It's signed by the client and the price is three million two hundred forty two eight eight eight.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Olga Seneynka holds a signed offer to purchase from E-Mart for Mina Rashed worth three million two hundred forty two eight eight eight."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Example of a Successful Deal",
+      "topic": "successful deal"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Get trained. Close deals. Grow with Habico Properties 🚀",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text presents a sequence encouraging career building in real estate at Habico Properties through three short imperative sentences."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Call to Action Structuring",
+      "topic": "career building"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Build your career in Dubai real estate with a team that’s growing fast.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Build your career in Dubai real estate with a team that’s growing fast."
+      },
+      "title": "Habico Training Offer",
+      "topic": "training offer"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So we are talking about sales training, which is done by me, and leads, the fresh leads from the social media marketing campaign.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Olga Seneynka provides sales training and fresh leads from social media marketing campaigns at Habico Properties."
+      },
+      "title": "Sales Training Components",
+      "topic": "sales training"
+    }
+  ]
+}

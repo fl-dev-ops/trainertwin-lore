@@ -1,0 +1,97 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000019",
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "AI is enhancing and not replacing the front end developer.",
+            "unit_id": "u000019"
+          },
+          {
+            "quote": "So will AI is gonna take away jobs of lot of front end developers? My answer is yes.",
+            "unit_id": "u000019"
+          }
+        ],
+        "text": "AI is enhancing, not replacing, frontend development, but it will take away some jobs of frontend developers."
+      },
+      "title": "AI impact on frontend jobs",
+      "topic": "AI impact"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009",
+        "u000010",
+        "u000011"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "probably it is a threat to the front end development where WordPress might take over",
+            "unit_id": "u000009"
+          },
+          {
+            "quote": "people thought like probably now everybody is building apps for their use cases.",
+            "unit_id": "u000010"
+          },
+          {
+            "quote": "there was speculation like these are definitely gonna replace front end developers",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "Various technologies like WordPress, mobile apps, and no-code platforms were speculated to replace frontend developers in the past, but did not."
+      },
+      "title": "Frontend development historical threats",
+      "topic": "historical threats"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000016",
+        "u000017",
+        "u000018"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "AI auto generate the entire website from simple description.",
+            "unit_id": "u000016"
+          },
+          {
+            "quote": "Personalized user experience in real-time based on interactions.",
+            "unit_id": "u000017"
+          },
+          {
+            "quote": "AI performance optimization without manual tweaks.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "AI can generate entire websites from descriptions, customize user experiences in real-time, and optimize performance without manual intervention."
+      },
+      "title": "AI capabilities in development",
+      "topic": "AI capabilities"
+    }
+  ]
+}

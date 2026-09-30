@@ -1,0 +1,195 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000055"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "application, thin client or thin web application, which is primarily for displaying the information and lot of applications on online today are actually this... there are thick clients. thick clients, the good example would be Figma is a thick client, Google Docs is a thick client",
+            "unit_id": "u000055"
+          }
+        ],
+        "text": "The speaker contrasts thin and thick clients by providing examples of each, explaining the primary purpose of thin clients as displaying information, while thick clients handle more complex tasks, with examples given of various applications."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Illustrating thick versus thin clients",
+      "topic": "thin and thick clients"
+    },
+    {
+      "context_unit_ids": [
+        "u000056",
+        "u000057"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "two people trying to edit a same document at the same time. Let's say both of them... there should be a sync between both the people. How do we ensure there is a sync between both the people?",
+            "unit_id": "u000056"
+          }
+        ],
+        "text": "Speaker uses an example of two people editing the same document in Google Docs to explain how synchronization between users is achieved via algorithms and operational transformation."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Explanation of collaborative editing synchronization",
+      "topic": "collaborative editing"
+    },
+    {
+      "context_unit_ids": [
+        "u000060"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "building something in thick front end development is something that I would encourage everyone in the room to actually work start working on.",
+            "unit_id": "u000060"
+          }
+        ],
+        "text": "The speaker encourages the audience to focus on thick front-end development through a motivational tone, urging them to understand the underlying functionalities of thick clients."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Encouragement to focus on thick front-end development",
+      "topic": "career advice"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000055"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "application, thin client or thin web application, which is primarily for displaying the information and lot of applications on online today are actually this, which are just like company's website, which basic information, call as websites or some institution's website or even very basic functional sort of websites, correct? which is not so B to C centric. So all of these are actually thin clients and there are thick clients. thick clients, the good example would be Figma is a thick client, Google Docs is a thick client, Google Drive is a thick client, Google Calendar is a thick client.",
+            "unit_id": "u000055"
+          }
+        ],
+        "text": "A thin client is primarily for displaying information, while a thick client involves a lot of logic in building the screen. Applications like Figma, Google Docs, Google Drive, and Google Calendar are examples of thick clients."
+      },
+      "title": "Explanation of thin and thick clients",
+      "topic": "thin and thick clients"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000056",
+        "u000057"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "two people trying to edit a same document at the same time. Let's say both of them are on the line number two. When they start typing, there should be a sync between both the people.",
+            "unit_id": "u000056"
+          },
+          {
+            "quote": "there are a lot of algorithm that goes behind the scene, operation transformation, many things to make this both the documents stay consistent.",
+            "unit_id": "u000057"
+          }
+        ],
+        "text": "In collaborative editing, algorithms like operational transformation ensure synchronization between users editing the same document. When two people try to edit the same line simultaneously, these algorithms are used to keep the document consistent."
+      },
+      "title": "Algorithm synchronization in collaborative editing",
+      "topic": "collaborative editing"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000060"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "building something in the thick front end development like Figma. Like building something in thick front end development is something that I would encourage everyone in the room to actually work start working on. If you think you want to work on the front end development itself please spend time understanding how thick thick clients or the functionality heavy sort of front end developments will work.",
+            "unit_id": "u000060"
+          }
+        ],
+        "text": "Front-end developers are encouraged to focus on building thick client applications like Figma, as it involves more functionality-heavy front-end development. Understanding how thick clients work is seen as more beneficial than learning specific frameworks like React, Vue, or Angular."
+      },
+      "title": "Encouragement to focus on thick front-end development",
+      "topic": "career advice"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000067",
+        "u000068",
+        "u000070",
+        "u000071"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if at all you are targeting quite premium companies. Adobe, Adobe, Google, Microsoft, sort of similar companies, right? And you are not from a premium sort of a background.",
+            "unit_id": "u000067"
+          },
+          {
+            "quote": "anything that can bring premiumness into your resume, there is a you have a very high chance of shortlisting in the premium companies.",
+            "unit_id": "u000068"
+          },
+          {
+            "quote": "you might be able to clear the interview there. You might be more competitive than the people in the team. Still your resume will not get shortlisted.",
+            "unit_id": "u000070"
+          },
+          {
+            "quote": "Instead, try to apply for those companies which act like a launching pad to join this bigger company.",
+            "unit_id": "u000071"
+          }
+        ],
+        "text": "For job seekers not from a premium background, it's suggested to gain experience in mid-sized startups or companies acting as launching pads before applying to premium companies like Google or Microsoft. This approach increases the chance of being shortlisted by the premium companies later."
+      },
+      "title": "Job application strategy for premium companies",
+      "topic": "job application strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000074"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You can connect with more people on LinkedIn, build up a rapport, you go to physical meetups, connect with more and more people wherever possible.",
+            "unit_id": "u000074"
+          }
+        ],
+        "text": "During stable employment, it's advised to build connections and rapport with others, particularly in professional contexts like LinkedIn or meetups. Such a network can help in securing job referrals in difficult situations."
+      },
+      "title": "Networking strategy during stable employment",
+      "topic": "networking strategy"
+    }
+  ]
+}

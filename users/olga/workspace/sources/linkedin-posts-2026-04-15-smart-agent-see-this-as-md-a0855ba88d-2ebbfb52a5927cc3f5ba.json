@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "9c618f6fbbd363b16a6412850bf3c5bdab638d6382206f4f49149391228adb4b",
+  "date": "2026-04-15T04:12:15.196000Z",
+  "date_basis": "source",
+  "external_id": "7450033222618537984",
+  "format": "post",
+  "id": "linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d",
+  "metadata_hash": "ef087555f1757800e19578343559650c9c95f5a83dc1986a792fedb718344829",
+  "original_text": "---\nid: '7450033222618537984'\ndate: '2026-04-15T04:12:15.196Z'\nurl: https://www.linkedin.com/posts/olgasi_dubairealestatecareer-realestateagentdubai-activity-7450033222618537984-xyhI\nlikes: 13\ncomments: 1\nvideoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQEf0hSXBeJbvw/mp4-720p-30fp-crf28/B4DZ2PVtFDJoBE-/0/1776226331029?e=1791298800&v=beta&t=A7aN5Bad11vBznGgakl0OsyuyDOHuE7K_ytaKutDvrs\n---\n\nSmart agent See this as...\n\n\n*\n*\n*\n*\n*\n#dubairealestatecareer #realestateagentdubai #dubairealestateindustrytips #dubaiagenttraining #realestateschool #newagentadvice #newrealestateagent #realestateinvesting #realtor #realestateagenttraining #realestatecoachingandtraining #dubaipropertyprices #newrealestateagenttips #dubairealestatecrash #howtosell #dubairealestateagent #realestateagentcareer #salestips #howtobecomearealestateagentindubai #howtogetlistings\n\n## Comments (1)\n\n### Ratnesh Sharma (Currently dealing in Commercial / Industrial & Residential Real Estate in Sales & Leasing in Delhi / NCR! Particularly in Gurugram and IMT Manesar.)\n> Great....stay strong and stay back!\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d:p000001",
+      "locator": "lines 10-10",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Smart agent See this as..."
+    }
+  ],
+  "path": "linkedin/posts/2026-04-15-smart-agent-see-this-as.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-04-15-smart-agent-see-this-as.md",
+  "sha256": "7a6bdd5bf9bb039c95a9651989540706833d4b2509dda7443888a1f2fa8adb88",
+  "speakers": {},
+  "title": "Smart agent See this as...",
+  "units": [
+    {
+      "end": 26,
+      "id": "linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d:u000001",
+      "locator": "lines 10-10",
+      "passage_id": "linkedin-posts-2026-04-15-smart-agent-see-this-as-md-a0855ba88d:p000001",
+      "raw_text": "Smart agent See this as...",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Smart agent See this as..."
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_dubairealestatecareer-realestateagentdubai-activity-7450033222618537984-xyhI"
+}

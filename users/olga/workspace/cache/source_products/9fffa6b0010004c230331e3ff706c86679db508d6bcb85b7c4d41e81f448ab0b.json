@@ -1,0 +1,164 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "How much would I pay to go back to being 26? Or even 36? Honestly? Nothing.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author would pay nothing to return to their younger self, preferring their current life."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "In 20 years, you would give everything to be where you are right now. At this age, in this body, living this exact life.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author discusses how they would value their current life over going back to a younger age."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Reflection on Aging",
+      "topic": "gratitude and reflection"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "How much would I pay to go back to being 26? Or even 36?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author uses rhetorical questions to encourage reflection on gratitude and life evaluation."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Question Framing",
+      "topic": "rhetorical strategy"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "But then I reversed the question. How much would I pay to go back to being 26? Or even 36?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text narrates a reflection by reversing a common scenario of wanting to go back in time, creating a narrative around gratitude for the present."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Narrative Reflection",
+      "topic": "personal storytelling"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I don’t want my old life back. I want this version of it.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The tone conveys gratitude and satisfaction with current life circumstances rather than longing for the past."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Tone of Gratitude",
+      "topic": "emotional tone"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I don’t want my old life back. I want this version of it. My people, my health, my body, my business, where I live and everything I have built.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author reflects on not wanting their old life back, but instead cherishes the current version of it with their people, health, body, business, and achievements."
+      },
+      "title": "Life Reflection",
+      "topic": "gratitude and reflection"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "How much would I pay to go back to being 26? Or even 36? Honestly? Nothing.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Reflect on how much one would pay to go back to a younger age and consider gratitude for the present life."
+      },
+      "title": "Gratitude Exercise",
+      "topic": "gratitude and reflection"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I want to build every day … to arrive there feeling that’s it’s the best time… not regretting my 40s.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author wants to build every day to feel that reaching an older age will be the best time without regretting their 40s."
+      },
+      "title": "Future Aspirations",
+      "topic": "aspirations and goals"
+    }
+  ]
+}

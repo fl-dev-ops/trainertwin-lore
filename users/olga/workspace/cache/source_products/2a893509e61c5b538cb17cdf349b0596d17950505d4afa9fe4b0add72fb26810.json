@@ -1,0 +1,143 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Dm me \"SALES\" if you want to know more",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text invites agents who meet the criteria to DM the author with the word \"SALES\" if they want to know more."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Call to Action",
+      "topic": "real estate coaching"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "common sense\n- sense of humor\n- value your reputation more than Money!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text uses humor in specifying the criteria for participation, listing 'common sense,' 'sense of humor,' and valuing 'reputation more than Money!' as criteria."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Use of Humor",
+      "topic": "real estate coaching"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I teach you Off-plan closing system and share the leads who are seriously looking for help with their investment strategies.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "I teach you Off-plan closing system and share the leads who are seriously looking for help with their investment strategies."
+      },
+      "title": "Off-plan closing system offering",
+      "topic": "real estate coaching"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "common sense\n- sense of humor\n- value your reputation more than Money!",
+              "unit_id": "u000001"
+            }
+          ],
+          "text": "The agent should have common sense, a sense of humor, and value their reputation more than money."
+        }
+      ],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "It’s only for agents who are want to Close Off-plan deals and based in Dubai.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "It’s only for agents who are want to Close Off-plan deals and based in Dubai."
+      },
+      "title": "Criteria for participation",
+      "topic": "real estate coaching"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Dm me \"SALES\" if you want to know more",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Dm me \"SALES\" if you want to know more."
+      },
+      "title": "Connecting through DM",
+      "topic": "real estate coaching"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Coaching + Warm Clients\n\nDm me \"SALES\" if you want to know more",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Coaching is combined with warm clients to close more deals."
+      },
+      "title": "Combining coaching with warm leads",
+      "topic": "real estate coaching"
+    }
+  ]
+}

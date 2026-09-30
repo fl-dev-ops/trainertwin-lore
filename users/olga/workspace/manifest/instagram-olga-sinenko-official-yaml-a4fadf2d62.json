@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "instagram-olga-sinenko-official-yaml-a4fadf2d62-5f4b8c5269d8a5a70580.jsonl",
+  "evidence_hash": "06b9fbbf2827227da11c81531a086a9bdbd8548bf1d4969be0ca50108ccca148",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:05:10Z",
+  "metadata_hash": "0502074bc5727ce81faf866d32206d85fe7fab3d38aeb5999f65636e6aaf5190",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 3
+  },
+  "revision": "5f4b8c5269d8a5a70580",
+  "snapshot_hash": "7849ca574471f03269d5f9cef70bad57ba2476293065fb7773c91cd4688cf403",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-olga-sinenko-official-yaml-a4fadf2d62",
+  "source_path": "instagram/olga_sinenko.official.yaml",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "9fd4d1209365124568cf5037af6a0dbd164f6daa859066ea4c8bae61b0716bb2",
+  "source_snapshot": "instagram-olga-sinenko-official-yaml-a4fadf2d62-5f4b8c5269d8a5a70580.json",
+  "version": "4"
+}

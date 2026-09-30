@@ -1,0 +1,290 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000011"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "in one of my previous companies I saw a guy who worked for like twenty two years in the same company.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "Vasanth describes a person who worked in the same company for 22 years and his salary was similar to someone with less experience."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Example of Long-Term Job Stay",
+      "topic": "Job Change"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000018"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Do not jump too early. What is too early? Too early means like basically you are running away from some problems. You do not know why you are making a job switch.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "Vasanth summarizes the discussion by contrasting when moving between jobs might be too early, too long, and the right balance."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Effective Summary of Discussion",
+      "topic": "Job Change"
+    },
+    {
+      "context_unit_ids": [
+        "u000011"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I used to make fun of him saying like you spent your entire youth on the same company.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "The speaker uses a personal anecdote about a coworker who stayed at the same company for 22 years to illustrate the point about over-staying in a job."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Personal Anecdote for Illustration",
+      "topic": "Job Change"
+    },
+    {
+      "context_unit_ids": [
+        "u000013"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Because career is a very long journey, correct? In a ten year journey or thirty year journey in a career, probably like small small things like this happen, somebody go forward then, you know, that doesn't mean you cannot catch up.",
+            "unit_id": "u000013"
+          }
+        ],
+        "text": "Vasanth contrasts people he describes as 'biassed' by peers' trips and benefits with the long-term journey of a career."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Contrast in Career Journeys",
+      "topic": "Job Change"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004",
+        "u000005"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you look here, right, reasons for changing the job would be like lack of growth opportunity, toxic work environment, misalignment with career goals.",
+            "unit_id": "u000004"
+          },
+          {
+            "quote": "So these are the right reasons for changing the job. I'm going to discuss them in detail.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "Common reasons for changing a job include lack of growth opportunity, toxic work environment, misalignment with career goals, stagnant compensation, and better opportunities elsewhere."
+      },
+      "title": "Common Reasons for Job Change",
+      "topic": "Job Change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006",
+        "u000007",
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So you haven't built expertise or or left a lasting impact, running from challenge instead of learning to overcome them.",
+            "unit_id": "u000006"
+          },
+          {
+            "quote": "Let me explain these things in depth.",
+            "unit_id": "u000007"
+          },
+          {
+            "quote": "Leaving the job will not solve them. Next job also you might get it.",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "Signs you might be changing a job too soon include not building expertise, running from challenges, job hopping for slightly higher salaries, and leaving due to short-term issues."
+      },
+      "title": "Signs You're Leaving Job Too Early",
+      "topic": "Job Change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009",
+        "u000010",
+        "u000011",
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So watching peers move ahead while you feeling stuck.",
+            "unit_id": "u000010"
+          },
+          {
+            "quote": "I used to make fun of him saying like you spent your entire youth on the same company.",
+            "unit_id": "u000011"
+          },
+          {
+            "quote": "So now common mistakes to avoid what are the common mistakes that you should avoid during the job search.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Signs you might be staying too long at a job include feeling bored, no promotion or salary hike, being unappreciated, and watching peers move ahead."
+      },
+      "title": "Signs You're Staying Too Long at a Job",
+      "topic": "Job Change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000011",
+        "u000012",
+        "u000013"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "just because one of your peer peer is like slightly toxic, you want to change the job.",
+            "unit_id": "u000013"
+          },
+          {
+            "quote": "So this is like you over enjoyed your welcome.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "Avoid making job change decisions based on emotions like frustration or burnout, or because others seem to be succeeding."
+      },
+      "title": "Avoiding Emotional Decisions in Job Change",
+      "topic": "Job Change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000012",
+        "u000013"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Jumping ship without a solid plan for next like you like just",
+            "unit_id": "u000012"
+          },
+          {
+            "quote": "career is a very long journey, correct?",
+            "unit_id": "u000013"
+          }
+        ],
+        "text": "Have a solid plan before changing jobs and avoid immediate jumps driven by peer comparison."
+      },
+      "title": "Planning Before a Job Change",
+      "topic": "Job Change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000015",
+        "u000016"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So one probably you joined a job because you want to work on a project that has like humongous scale like lot of millions of people that it was catering.",
+            "unit_id": "u000015"
+          },
+          {
+            "quote": "you want to switch to a job where leadership is given more importance than the development.",
+            "unit_id": "u000016"
+          }
+        ],
+        "text": "Change jobs when you have achieved what you expected from your current role or when seeking new learning opportunities."
+      },
+      "title": "Importance of Achieving Goals Before Changing Jobs",
+      "topic": "Job Change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000017",
+        "u000021"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you are prepared mentally, professionally and financially.",
+            "unit_id": "u000017"
+          },
+          {
+            "quote": "do not consider money as a first thing whenever you want to make a job switch, unless you think you're extremely low paid, okay, if you're moderately paid, have a solid reasons than money while making a job switch, okay?",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "Financial readiness should be a key consideration alongside professional and personal preparedness before changing jobs."
+      },
+      "title": "Financial Considerations in Job Change",
+      "topic": "Job Change"
+    }
+  ]
+}

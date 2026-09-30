@@ -1,0 +1,28 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Teaching you how to overcome a WAR objections in my Youtube Training",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author offers training on how to overcome a WAR objections in their Youtube Training."
+      },
+      "title": "Youtube Training on WAR Objections",
+      "topic": "training"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "If you already have it - I will teach you sales!",
+              "unit_id": "u000001"
+            }
+          ],
+          "text": "Having critical thinking, judgment, and common sense is a prerequisite to being taught sales by the speaker."
+        }
+      ],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you already have it - I will teach you sales!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker offers to teach sales if someone already has critical thinking, judgment, and common sense."
+      },
+      "title": "Teaching Sales",
+      "topic": "sales"
+    }
+  ]
+}

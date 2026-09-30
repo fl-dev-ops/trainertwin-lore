@@ -1,0 +1,239 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000257",
+        "u000258"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "One of you asked this actually, right? Like similar call stack is different, execution context is different.",
+            "unit_id": "u000257"
+          }
+        ],
+        "text": "The question was about whether execution context and call stack are the same."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Execution context is what? Call stack is where? Call stack is basically going to execute it. Okay? Only one execution context execute at a time.",
+            "unit_id": "u000258"
+          }
+        ],
+        "text": "Execution context is not the call stack. The call stack is where execution contexts are housed and one execution context executes at a time."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "So execution context is not call stack. One of you asked this actually, right? Like similar call stack is different, execution context is different.",
+            "unit_id": "u000257"
+          }
+        ],
+        "text": "There was a question about execution context versus call stack in a JavaScript session."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Stack and execution context clarification",
+      "topic": "JavaScript runtime"
+    },
+    {
+      "context_unit_ids": [
+        "u000266",
+        "u000268"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "But global execution is the one earlier which you showed there is no any kind of function covered, it's kind of just console of console of. So JavaScript will assume that is a global execution.",
+            "unit_id": "u000266"
+          }
+        ],
+        "text": "Speaker 0 mentioned that anything without a function is assumed as a global execution context in JavaScript."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "global existence context is nothing but like anything that is outside of all the function that is global existence context",
+            "unit_id": "u000268"
+          }
+        ],
+        "text": "Speaker 2 confirmed that global execution context pertains to anything outside of a function."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Uh yeah, so from this second block, right, stack block, say hi, greeting and global is there.",
+            "unit_id": "u000266"
+          }
+        ],
+        "text": "There was a question about global execution context and its implications in a JavaScript session."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Understanding global execution context",
+      "topic": "JavaScript runtime"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000245",
+        "u000246"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Global execution context or in general execution context has two phases. One is a memory creation phase, another one is a code execution phase.",
+            "unit_id": "u000245"
+          }
+        ],
+        "text": "The speaker explains JavaScript's execution context by categorizing it into two main phases: memory creation and code execution."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Explaining phases of execution context",
+      "topic": "JavaScript runtime"
+    },
+    {
+      "context_unit_ids": [
+        "u000248",
+        "u000249"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "memory creation phase is required to ensure this program can be executed or not.",
+            "unit_id": "u000248"
+          }
+        ],
+        "text": "The speaker describes the necessity of the memory creation phase and contrasts it with direct hardware interaction of languages like Java."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Illustrating memory handling in JavaScript",
+      "topic": "JavaScript runtime"
+    },
+    {
+      "context_unit_ids": [
+        "u000254",
+        "u000256"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Created every time when a function is called, each function call gets a new execution context, pushed onto call stack, destroyed after the function finishes its execution.",
+            "unit_id": "u000254"
+          }
+        ],
+        "text": "The speaker uses terms like 'pushed onto' and 'popped out' to describe how function execution contexts are managed within the call stack."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Functional role of call stack",
+      "topic": "JavaScript runtime"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000245",
+        "u000246"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "In memory creation phase what happens? It allocates the memory, sets up the scope. During this phase like variable creators is where keyword are like hoisted and declared with undefined. Function declarations are fully hoisted,",
+              "unit_id": "u000245"
+            }
+          ],
+          "text": "During the memory creation phase, allocate the memory and set up the scope. Variables are declared and initialized with undefined, and function declarations are fully hoisted."
+        },
+        {
+          "citations": [
+            {
+              "quote": "execution phase is where the app has to execute the codes line by line. Variables get actual values, functions are invoked.",
+              "unit_id": "u000247"
+            }
+          ],
+          "text": "In the code execution phase, execute the code line by line, assigns values to variables and invokes functions."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Global execution context or in general execution context has two phases. One is a memory creation phase, another one is a code execution phase.",
+            "unit_id": "u000245"
+          }
+        ],
+        "text": "JavaScript execution context has two phases: a memory creation phase and a code execution phase."
+      },
+      "title": "Global and function execution contexts in JavaScript",
+      "topic": "JavaScript runtime"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000248",
+        "u000249",
+        "u000250"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "when JavaScript was designed, it was primarily designed to work on a browser, not like on Node.js and all that, etcetera, right? It was designed to work on the browser.",
+            "unit_id": "u000248"
+          }
+        ],
+        "text": "JavaScript uses a memory creation phase as it was designed to work in browsers with limited memory."
+      },
+      "title": "JavaScript's memory creation phase",
+      "topic": "JavaScript runtime"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000254",
+        "u000255"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Created every time when a function is called, each function call gets a new execution context, pushed onto call stack, destroyed after the function finishes its execution.",
+            "unit_id": "u000254"
+          }
+        ],
+        "text": "Function execution contexts are created and destroyed with each function call and return."
+      },
+      "title": "Call stack and execution contexts",
+      "topic": "JavaScript runtime"
+    }
+  ]
+}

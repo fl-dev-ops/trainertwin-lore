@@ -1,0 +1,300 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000027"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Neutral tone, not assumptive. Then ask. And when you saw the ad, like, besides the shiny computer graphics, what was about the ad that kind of attracted",
+            "unit_id": "u000027"
+          }
+        ],
+        "text": "The speaker outlines an opening structure for engaging with clients, starting with a neutral and non-assumptive tone."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Neutral tone introduction",
+      "topic": "sales techniques"
+    },
+    {
+      "context_unit_ids": [
+        "u000046"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "And when the client says yes, if you trained by me, you know it's not yet time to celebrate. Ask one simple question. Why? And watch Hume pitch himself again,",
+            "unit_id": "u000046"
+          }
+        ],
+        "text": "The speaker uses a rhetorical move where clients are asked 'why' after agreeing an option feels right, leading them to self-justify their choice."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Self-justification technique",
+      "topic": "sales techniques"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000026"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "And don't waste time building report. Even",
+            "unit_id": "u000026"
+          }
+        ],
+        "text": "Agents should not waste time building rapport with clients, as it doesn't work."
+      },
+      "title": "Avoid building rapport",
+      "topic": "sales techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000027"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "The most important thing in the start is to bring the client back to the moment his intent was the highest.",
+            "unit_id": "u000026"
+          }
+        ],
+        "text": "Bring the client back to the moment his intent was the highest."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "Looks like you responded to one of the ads and asked us to call you back, possibly looking for help with investing in Dubai real estate or the project.",
+              "unit_id": "u000027"
+            }
+          ],
+          "text": "Client has responded to an ad and asked for a call back."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "start with um hi name.",
+              "unit_id": "u000027"
+            }
+          ],
+          "text": "Start interaction with 'hi, name'."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Then ask. And when you saw the ad, like, besides the shiny computer graphics, what was about the ad that kind of attracted",
+              "unit_id": "u000027"
+            }
+          ],
+          "text": "Ask what about the ad attracted the client."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Neutral tone, not assumptive. Then ask. And when you saw the ad, like, besides the shiny computer graphics, what was about the ad that kind of attracted",
+            "unit_id": "u000027"
+          }
+        ],
+        "text": "Begin client interactions with a neutral, non-assumptive tone."
+      },
+      "title": "Starting client interaction effectively",
+      "topic": "sales techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000036"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "He needs to realize there is something important he doesn't yet understand about choosing the right investment",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "Lead the client to a realization about the importance of choosing the right investment"
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Create a vacuum in the client mind. He needs to realize there is something important he doesn't yet understand about choosing the right investment",
+              "unit_id": "u000036"
+            }
+          ],
+          "text": "Create a sense of missing information in the client's mind."
+        },
+        {
+          "citations": [
+            {
+              "quote": "and that you are the person who can help.",
+              "unit_id": "u000036"
+            }
+          ],
+          "text": "Position yourself as the person who can help them understand."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Create a vacuum in the client mind. He needs to realize there is something important he doesn't yet understand about choosing the right investment",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "Create a vacuum in the client's mind to make them realize there's something important they don't understand about choosing the right investment."
+      },
+      "title": "Creating a vacuum in the client's mind",
+      "topic": "sales techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000041",
+        "u000042"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "But how to make it effective so the client believes it? There is only one way, make the client pitch Dubai to himself by himself.",
+            "unit_id": "u000041"
+          }
+        ],
+        "text": "Make the client believe in Dubai as the right investment."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "What makes you feel that Dubai may be the right place for your investment, rather than invest in your own country?",
+              "unit_id": "u000041"
+            }
+          ],
+          "text": "Ask the client why they feel Dubai may be the right place for investment."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Ask it with the right tone and listen. To buy feels more stable. Prices are growing.",
+              "unit_id": "u000042"
+            }
+          ],
+          "text": "Listen to the client as they justify their interest in Dubai."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "people stay consistent with the commitment they already made.",
+            "unit_id": "u000042"
+          },
+          {
+            "quote": "But how to make it effective so the client believes it? There is only one way, make the client pitch Dubai to himself by himself. Here's how.",
+            "unit_id": "u000041"
+          }
+        ],
+        "text": "Make the client pitch Dubai to themselves, as people stay consistent with the commitment they already made."
+      },
+      "title": "Client must pitch Dubai to themselves",
+      "topic": "sales techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000045"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Nobody ever told you that every part of the process matters, how you talk to people, what you send instead of the standard brochure, how you invite them to a meeting, present to buy on the map, and increase the client budget? I am telling you now.",
+            "unit_id": "u000045"
+          }
+        ],
+        "text": "Every part of the sales process matters, from how you talk to people to how you present information, and handling every stage correctly makes closing simple."
+      },
+      "title": "Importance of process in sales",
+      "topic": "sales techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000046"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "Ask one simple question. Why? And watch Hume pitch himself again, because by now you know people only believe the words coming of their own mouth to their own ears.",
+            "unit_id": "u000046"
+          }
+        ],
+        "text": "Reinforce the client's commitment to the option."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Ask one simple question. Why?",
+              "unit_id": "u000046"
+            }
+          ],
+          "text": "Ask the client 'why' when they say an option feels right."
+        },
+        {
+          "citations": [
+            {
+              "quote": "And watch Hume pitch himself again, because by now you know people only believe the words coming of their own mouth to their own ears.",
+              "unit_id": "u000046"
+            }
+          ],
+          "text": "Listen as the client justifies their choice to themselves."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "And when the client says yes, if you trained by me, you know it's not yet time to celebrate. Ask one simple question. Why? And watch Hume pitch himself again,",
+            "unit_id": "u000046"
+          }
+        ],
+        "text": "When a client agrees something feels like the right option, ask them why and they will pitch themselves to it again."
+      },
+      "title": "Letting the client justify the option to themselves",
+      "topic": "sales techniques"
+    }
+  ]
+}

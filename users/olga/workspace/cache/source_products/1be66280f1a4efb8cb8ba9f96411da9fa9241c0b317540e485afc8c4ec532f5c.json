@@ -1,0 +1,300 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The biggest risk in Dubai real estate today isn't buying in a wrong area. It's listening to people whose job is to sell you one.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker begins with a bold assertion about the biggest risk in Dubai real estate, directly addressing common misconceptions, and sets the stage for revealing 'danger zones.'"
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Opening statement structure",
+      "topic": "real estate strategy"
+    },
+    {
+      "context_unit_ids": [
+        "u000005"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Example. JVC Gemera Village Circle, Emirates Gardens 2 building. One bedroom was sold in May 2022 for five hundred and ten thousand. Rented shortly after that for forty five thousand.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "The speaker contrasts two types of investment goals—steady cash flow from rental income versus capital appreciation—using specific numerical examples from the Dubai market."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Contrasting rental yields and price growth",
+      "topic": "real estate investment outcomes"
+    },
+    {
+      "context_unit_ids": [
+        "u000008"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The right question is, what do I need this property to do?",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "The speaker reframes the audience's approach to investment, emphasizing the importance of understanding personal goals over following popular market rankings."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Correcting investment focus",
+      "topic": "real estate strategy"
+    },
+    {
+      "context_unit_ids": [
+        "u000011"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Before Covid, it was mostly singles, young couples, short-term expats... After Covid, the profile shifted.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "A comparison is drawn between the pre-Covid and post-Covid demographics of property seekers in Dubai, illustrating a shift in market demand toward larger family homes."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Post-Covid market insight",
+      "topic": "real estate market change"
+    },
+    {
+      "context_unit_ids": [
+        "u000018"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "For example, current listings on the same building, ground and upper district, show a huge difference between same two bedroom layout with different views.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "The speaker uses specific examples of properties with different views and their impact on pricing to explain how small differences can affect investment value in premium locations."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Explanation using specific examples",
+      "topic": "real estate strategy"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The biggest risk in Dubai real estate today isn't buying in a wrong area. It's listening to people whose job is to sell you one.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The biggest risk in Dubai real estate today isn't buying in the wrong area but listening to people whose job is to sell property, as almost every property today is marketed as having high rental yield, strong capital growth, and long-term safety."
+      },
+      "title": "Risk in Dubai real estate",
+      "topic": "real estate strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the information you are giving by the developer or agent was built to sell, not to inform.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Information from developers and agents is primarily built to sell rather than inform about the property."
+      },
+      "title": "Advice against realtor claims",
+      "topic": "real estate strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the success and failures of the three investment strategies which are only used by the full-time property investors in Dubai.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "There are three investment strategies used by full-time property investors in Dubai, but the speaker does not specify them in this unit."
+      },
+      "title": "Real estate investment strategies",
+      "topic": "real estate strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000005"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you expect a steady rent cash flow, the unit that gives you strong rental income is usually not the one which doubles in price.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "A unit that provides strong rental income is usually not the same unit that doubles in price."
+      },
+      "title": "Rental versus resale",
+      "topic": "real estate investment outcomes"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The right question is, what do I need this property to do?",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "Investors should ask what they need the property to do, rather than seeking a general ranking of the 'best' area."
+      },
+      "title": "Understanding property goals",
+      "topic": "real estate strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000011"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Before Covid, it was mostly singles, young couples, short-term expats... After Covid, the profile shifted.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "After Covid, the profile of people moving to Dubai shifted from mostly singles and short-term expats to families seeking homes similar to those they had in their countries of origin."
+      },
+      "title": "End-user demand post-Covid",
+      "topic": "real estate market change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "That is not investor demand. That is a people who actually needed a different type of home.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Demand for townhouses and villas in Dubai is driven by families who need more space, rather than investors focused on yields."
+      },
+      "title": "Family demand driving townhouse market",
+      "topic": "real estate market change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000017"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The mistake is expecting them to behave like early stage growth areas. They won't. You're not buying the fastest growth here. You're buying stability, liquidity.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "Areas like Downtown and Dubai Hills are not expected to behave like early-stage growth areas; purchasing here is about stability and liquidity rather than fast growth."
+      },
+      "title": "Wealth preservation areas",
+      "topic": "real estate strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000018"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "In the same building in the Burj Khalifa, where you need with a direct view over the fountains and not could differentiate twenty to fifty percent in price and in rent.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "In premium locations, differences in view or position can lead to a significant price difference between otherwise similar units."
+      },
+      "title": "Unit differentiation in premium locations",
+      "topic": "real estate strategy"
+    }
+  ]
+}

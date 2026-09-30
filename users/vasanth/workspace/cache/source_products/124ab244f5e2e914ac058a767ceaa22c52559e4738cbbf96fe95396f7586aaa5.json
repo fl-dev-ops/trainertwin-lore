@@ -1,0 +1,350 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000132",
+        "u000134",
+        "u000139",
+        "u000140"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "So like, can you give like different tips on how can we prepare for that?",
+            "unit_id": "u000134"
+          }
+        ],
+        "text": "Can you give like different tips on how can we prepare for that?"
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "you can start looking you can you have to slowly start building this temperament of why.",
+            "unit_id": "u000140"
+          }
+        ],
+        "text": "Start questioning why concepts work the way they do to enhance understanding and facilitate learning."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "I just wanted to ask on that thing uh that you told that uh the JavaScript topics, they are asking from different perspectives.",
+            "unit_id": "u000132"
+          }
+        ],
+        "text": "Discussion on approaching JavaScript topics from different perspectives during interview preparation."
+      },
+      "speaker_id": "0",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "you can start looking you can you have to slowly start building this temperament of why.",
+            "unit_id": "u000140"
+          }
+        ],
+        "text": "Start asking why to enhance understanding and learn effectively."
+      },
+      "title": "JS Topic Perspectives",
+      "topic": "JavaScript Perspectives"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000139",
+        "u000140"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The best example is like rocket science, right? Probably both of us will not be able to ask the right questions around rocket science",
+            "unit_id": "u000139"
+          }
+        ],
+        "text": "Explanation of why it's difficult to ask the right questions without sufficient skill or familiarity, using rocket science as an analogy."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "Correct? We'll not be able to get the right question because sometimes we'll not be skilled enough or sometimes the domain the domain itself is very new to us.",
+            "unit_id": "u000139"
+          }
+        ],
+        "text": "To illustrate the challenge of generating the right questions without domain knowledge."
+      },
+      "speaker_id": "2",
+      "title": "JS Topic Explanation",
+      "topic": "JavaScript Explanation"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000116",
+        "u000117",
+        "u000118"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there are primarily five pillars of the interview preparation. Basics of JavaScript, React, machine coding, system design, and DSA.",
+            "unit_id": "u000116"
+          }
+        ],
+        "text": "There are primarily five pillars of the interview preparation for frontend roles: Basics of JavaScript, React, machine coding, system design, and DSA."
+      },
+      "title": "Frontend Interview Preparation",
+      "topic": "Frontend Interview Preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000117"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you should be able to solve two fifty problems which is a good mix of easy medium and hard problems",
+            "unit_id": "u000117"
+          }
+        ],
+        "text": "If aspiring for companies like Google, one should solve at least 250 DSA problems."
+      },
+      "title": "DSA Preparation Advice",
+      "topic": "DSA Preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000118"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "sixty easy, twenty medium, and twenty hard problems from primarily five data structures. array, string, stack, queue and link list.",
+            "unit_id": "u000118"
+          }
+        ],
+        "text": "Solving 60 easy, 20 medium, and 20 hard DSA problems from five data structures can be sufficient for companies like Adobe and Microsoft."
+      },
+      "title": "DSA Problem Levels",
+      "topic": "DSA Preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000119",
+        "u000120"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if you are someone who is having less than five years of experience, system design may not be very relevant for your experience",
+            "unit_id": "u000119"
+          },
+          {
+            "quote": "But if you're having six to seven year or beyond experience, then system design is very, very important.",
+            "unit_id": "u000120"
+          }
+        ],
+        "text": "For less than five years of experience, system design may not be relevant, but it is important for those with six to seven years or more."
+      },
+      "title": "System Design Relevance",
+      "topic": "System Design"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000120",
+        "u000121"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "more relevancy will be for primarily for remaining three things, basically JavaScript, React and machine coding.",
+            "unit_id": "u000120"
+          },
+          {
+            "quote": "He could be your college pass college senior, he could be your family member who you think has a very good understanding of the system, who can counter your thoughts. Discuss more and more system problems with them so that your system reason knowledge will be improved.",
+            "unit_id": "u000121"
+          }
+        ],
+        "text": "JavaScript, React, and machine coding are essential areas for less experienced frontend developers."
+      },
+      "title": "JavaScript, React, Machine Coding",
+      "topic": "Frontend Interview Preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000122"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "okay? Like the closure I told, hosting I told, maybe stack reconciler, why React diffing algorithm is big of n complexity whereas normal tree comparison is big of n n power three or n power four, how React is doing that?",
+            "unit_id": "u000122"
+          }
+        ],
+        "text": "To prepare for a React interview, understanding topics like closure, hoisting, and the React diffing algorithm can be helpful."
+      },
+      "title": "React Interview Preparation",
+      "topic": "React Preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000123",
+        "u000124",
+        "u000125"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Next is very very important thing is machine coding.",
+            "unit_id": "u000123"
+          },
+          {
+            "quote": "different experience and different companies they can give you more time and they can ask you to solve the problems.",
+            "unit_id": "u000124"
+          },
+          {
+            "quote": "companies like Swiggy and all give like three hours of machine coding where when I gave interview they asked me to cold a comment box,...you can like each of the comment, you can share the comment.",
+            "unit_id": "u000125"
+          }
+        ],
+        "text": "Machine coding is crucial for interviews, with different levels of complexity depending on company and role. Practice is important."
+      },
+      "title": "Machine Coding Importance",
+      "topic": "Machine Coding"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000126",
+        "u000127",
+        "u000129"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you have to present to that three four people, they'll ask you many questions",
+            "unit_id": "u000126"
+          },
+          {
+            "quote": "AI or ML algorithm but they will give you a problem.",
+            "unit_id": "u000127"
+          },
+          {
+            "quote": "first you prompt very well in your company projects",
+            "unit_id": "u000129"
+          }
+        ],
+        "text": "AI rounds in interviews test prompt efficiency, with existing projects and identified bugs."
+      },
+      "title": "AI Rounds in Interviews",
+      "topic": "AI Rounds"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000140",
+        "u000141",
+        "u000142"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you can start looking you can you have to slowly start building this temperament of why.",
+            "unit_id": "u000140"
+          },
+          {
+            "quote": "So if you really start asking why instead of accepting the things that is told to you Gauri",
+            "unit_id": "u000141"
+          }
+        ],
+        "text": "Start questioning why concepts work the way they do to enhance understanding and facilitate learning."
+      },
+      "title": "Self-questioning for Learning",
+      "topic": "Learning Strategies"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000120",
+        "u000121"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But if you're having six to seven year or beyond experience, then system design is very, very important.",
+            "unit_id": "u000120"
+          },
+          {
+            "quote": "Discuss more and more system problems with them so that your system reason knowledge will be improved.",
+            "unit_id": "u000121"
+          }
+        ],
+        "text": "For those with significant experience, discussing system design with knowledgeable contacts can enhance one's understanding and preparation."
+      },
+      "title": "System Relevance for Experienced",
+      "topic": "System Design"
+    }
+  ]
+}

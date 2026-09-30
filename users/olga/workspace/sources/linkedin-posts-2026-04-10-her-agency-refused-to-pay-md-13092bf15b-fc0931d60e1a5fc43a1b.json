@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "92ea441034d91a9bf2de4d0b28da5f5a0b616490434a4479acdf861ce7af91da",
+  "date": "2026-04-10T04:24:15.240000Z",
+  "date_basis": "source",
+  "external_id": "7448224303373873152",
+  "format": "post",
+  "id": "linkedin-posts-2026-04-10-her-agency-refused-to-pay-md-13092bf15b",
+  "metadata_hash": "ceb5ade5688216c3eface7b24b44145e4b0b754af26599634cad07360f96cc68",
+  "original_text": "---\nid: '7448224303373873152'\ndate: '2026-04-10T04:24:15.240Z'\nurl: https://www.linkedin.com/posts/olgasi_coldcallingdubai-coldcallingtraining-coldcallingtips-activity-7448224303373873152-S18u\nlikes: 18\ncomments: 0\nvideoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHR6ldj4EwrhA/mp4-720p-30fp-crf28/B4DZ11of5ILMBE-/0/1775795053480?e=1791298800&v=beta&t=hPmqbSbse9siw3JYzxbG8qPA6jubOF_IgZRtVk7HRII\n---\n\nHer Agency Refused to pay Her Commissions - So she did this ...\n\n\n\n\n*\n*\n*\n*\n*\n#ColdCallingDubai #ColdCallingTraining #ColdCallingTips #ColdCallingScripts #ColdCallingBlueprint #ColdCallingLessons #MasterColdCalling #DubaiRealEstateTraining #RealEstateSalesTraining #RealEstateCoachDubai #DubaiRealEstateCoach #SalesCoachingForAgents #RealEstateAgentTraining #RealEstateAgentTips #ListingBasedBusiness #OvercomingSalesFear #ObjectionHandling #SalesConfidenceTechniques #RealEstateNegotiationSkills #ClosingDealsDubai #NewAgentSuccess #RealEstateGrowthStrategies #RealEstateCoachingDubai #DubaiAgentTraining #RealEstateCourseDubai #OnlinePropertyPresentation #LocationBasedSales #SellingToGlobalInvestors #RealEstateSalesStrategies #RealEstateSuccessStories\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-04-10-her-agency-refused-to-pay-md-13092bf15b:p000001",
+      "locator": "lines 10-10",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Her Agency Refused to pay Her Commissions - So she did this ..."
+    }
+  ],
+  "path": "linkedin/posts/2026-04-10-her-agency-refused-to-pay.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-04-10-her-agency-refused-to-pay.md",
+  "sha256": "85f3aa19f69eb1b1ee640ac6c0712e2558c8e69c0826dd189c103b76460809bd",
+  "speakers": {},
+  "title": "Her Agency Refused to pay Her Commissions - So she did this ...",
+  "units": [
+    {
+      "end": 63,
+      "id": "linkedin-posts-2026-04-10-her-agency-refused-to-pay-md-13092bf15b:u000001",
+      "locator": "lines 10-10",
+      "passage_id": "linkedin-posts-2026-04-10-her-agency-refused-to-pay-md-13092bf15b:p000001",
+      "raw_text": "Her Agency Refused to pay Her Commissions - So she did this ...",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Her Agency Refused to pay Her Commissions - So she did this ..."
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_coldcallingdubai-coldcallingtraining-coldcallingtips-activity-7448224303373873152-S18u"
+}

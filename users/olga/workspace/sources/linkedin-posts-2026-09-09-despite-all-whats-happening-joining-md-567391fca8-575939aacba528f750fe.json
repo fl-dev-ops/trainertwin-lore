@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "ecd16e90d98c5984e7de8709be0c51c245c2ca477bf5bb13d999944b1ccb1354",
+  "date": "2026-09-09T10:26:02.657000Z",
+  "date_basis": "source",
+  "external_id": "7503398306451013633",
+  "format": "post",
+  "id": "linkedin-posts-2026-09-09-despite-all-whats-happening-joining-md-567391fca8",
+  "metadata_hash": "28fe9169162cc7041cd808b6c0211acb6e646b67dd642bef5d041244293217d1",
+  "original_text": "---\nid: '7503398306451013633'\ndate: '2026-09-09T10:26:02.657Z'\nurl: https://www.linkedin.com/posts/olgasi_despite-all-whats-happening-joining-real-activity-7503398306451013633-Iz0y\nlikes: 11\ncomments: 0\nimages_count: 2\n---\n\nDespite “all what’s happening” joining real estate in 2026!? My answer is - Ability to Talk about Real Estate under pressure would be your most valuable skill!\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-09-09-despite-all-whats-happening-joining-md-567391fca8:p000001",
+      "locator": "lines 10-10",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Despite “all what’s happening” joining real estate in 2026!? My answer is - Ability to Talk about Real Estate under pressure would be your most valuable skill!"
+    }
+  ],
+  "path": "linkedin/posts/2026-09-09-despite-all-whats-happening-joining.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-09-09-despite-all-whats-happening-joining.md",
+  "sha256": "779369cd1254152fde431f0e55a3433315b5423a83539355dfee1cc9f118daa4",
+  "speakers": {},
+  "title": "Despite “all what’s happening” joining real estate in 2026!? My answer is - Ability to Talk about Real Estate ",
+  "units": [
+    {
+      "end": 159,
+      "id": "linkedin-posts-2026-09-09-despite-all-whats-happening-joining-md-567391fca8:u000001",
+      "locator": "lines 10-10",
+      "passage_id": "linkedin-posts-2026-09-09-despite-all-whats-happening-joining-md-567391fca8:p000001",
+      "raw_text": "Despite “all what’s happening” joining real estate in 2026!? My answer is - Ability to Talk about Real Estate under pressure would be your most valuable skill!",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Despite “all what’s happening” joining real estate in 2026!? My answer is - Ability to Talk about Real Estate under pressure would be your most valuable skill!"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_despite-all-whats-happening-joining-real-activity-7503398306451013633-Iz0y"
+}

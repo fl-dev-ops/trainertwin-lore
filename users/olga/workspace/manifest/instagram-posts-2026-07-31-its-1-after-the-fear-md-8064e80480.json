@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "instagram-posts-2026-07-31-its-1-after-the-fear-md-8064e80480-d6d022fc9e80b764ee93.jsonl",
+  "evidence_hash": "3f0da5747d74f9c5ddfcf44dd377afccfc14f3b18af0d4ebf00d650ee82749c9",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:09:14Z",
+  "metadata_hash": "20bfe702c3437dd7c98d428fe999164931bc107fad02dc8ac442941afd683766",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 2
+  },
+  "revision": "d6d022fc9e80b764ee93",
+  "snapshot_hash": "9422953a58a0f8b56cd1a1555bc1050b59a649da6bf6021e9106633008154b15",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-07-31-its-1-after-the-fear-md-8064e80480",
+  "source_path": "instagram/posts/2026-07-31-its-1-after-the-fear.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "177b2a527c21a8ed5e7912e5062e5243982b9ce1457754ff25d4cc629d3ae013",
+  "source_snapshot": "instagram-posts-2026-07-31-its-1-after-the-fear-md-8064e80480-d6d022fc9e80b764ee93.json",
+  "version": "4"
+}

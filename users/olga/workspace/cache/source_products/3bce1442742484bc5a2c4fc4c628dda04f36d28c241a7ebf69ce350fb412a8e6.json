@@ -1,0 +1,89 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "At Habico Properties every Monday, Join the Team Contact me or Maleeha Hameed - CHRP",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The post uses a direct call to action structure, urging readers to 'Join the Team' and contact specific individuals, creating a sense of immediacy and personal engagement."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Direct Invitation",
+      "topic": "mentorship"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "And I personally mentor new agents with sales techniques for a New Leads the are Getting Daily!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The post emphasizes personal involvement by stating 'And I personally mentor,' adding a personal touch and credibility to the mentorship offering."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Personal Mentorship Emphasis",
+      "topic": "mentorship"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "At Habico Properties every Monday, Join the Team",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Every Monday at Habico Properties, there is an offering to join the team."
+      },
+      "title": "Habico Properties Monday Offering",
+      "topic": "mentorship"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "And I personally mentor new agents with sales techniques for a New Leads the are Getting Daily!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author personally mentors new agents on sales techniques for new leads they are getting daily."
+      },
+      "title": "Mentorship on Sales Techniques",
+      "topic": "mentorship"
+    }
+  ]
+}

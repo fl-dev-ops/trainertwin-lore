@@ -1,0 +1,64 @@
+{
+  "audience": "",
+  "author": "",
+  "category": "youtube",
+  "content_hash": "4985ab55e20e7e36e4e6a85fae8984382a348043eee0bfbbb7895c97c345d41b",
+  "date": "2026-04-02",
+  "date_basis": "source",
+  "external_id": "TcBAHrlIrhQ",
+  "format": "transcript",
+  "id": "youtube-video-2026-04-02-warning-these-dubai-developers-won-t-last-tcbahrlirhq-md-ec8bfda8d1",
+  "metadata_hash": "44852effb803f0f49832276be8d189635439d2167afcbb9de415a324265980a7",
+  "original_text": "---\nid: TcBAHrlIrhQ\ntitle: Warning! These Dubai Developers Won't Last\ndate: '2026-04-02'\nurl: https://www.youtube.com/shorts/TcBAHrlIrhQ\ndescription: They were At Risk even with out the War\nduration: 00:00:50\nmodel: saaras:v3\ntranscript: true\n---\n\n# Warning! These Dubai Developers Won't Last\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nI'm so sorry to bring it to everyone, but the smaller first time developers which jump in the market in the past years, they gonna go. But realistically between me and you and if I'm talking with a client, they were not doing well even before the war. The only way they were able to sell is by pushing their product with extremely marketing materials, payment plans, um working with the master developers who already have a power of the channel partners like really\n\n### 00:00:30 · Speaker 1\n\nlogistically if they were on their own, this is not a sellable product. So, yeah, I'm so sorry, this is how the market reacts. Those developers will not survive. So the focus out of the market is that is, okay, let's see where the smart investors are moving.\n",
+  "passages": [
+    {
+      "id": "youtube-video-2026-04-02-warning-these-dubai-developers-won-t-last-tcbahrlirhq-md-ec8bfda8d1:p000001",
+      "locator": "lines 18-18",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:00",
+      "text": "I'm so sorry to bring it to everyone, but the smaller first time developers which jump in the market in the past years, they gonna go. But realistically between me and you and if I'm talking with a client, they were not doing well even before the war. The only way they were able to sell is by pushing their product with extremely marketing materials, payment plans, um working with the master developers who already have a power of the channel partners like really"
+    },
+    {
+      "id": "youtube-video-2026-04-02-warning-these-dubai-developers-won-t-last-tcbahrlirhq-md-ec8bfda8d1:p000002",
+      "locator": "lines 22-22",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:30",
+      "text": "logistically if they were on their own, this is not a sellable product. So, yeah, I'm so sorry, this is how the market reacts. Those developers will not survive. So the focus out of the market is that is, okay, let's see where the smart investors are moving."
+    }
+  ],
+  "path": "youtube/video/2026-04-02-warning-these-dubai-developers-won-t-last-TcBAHrlIrhQ.md",
+  "purpose": "",
+  "relative_path": "youtube/video/2026-04-02-warning-these-dubai-developers-won-t-last-TcBAHrlIrhQ.md",
+  "sha256": "bd8f6947431c1954cb8ffd9131dfbdec479d1e22d3b27402cfadae5a5141f5f9",
+  "speakers": {},
+  "title": "Warning! These Dubai Developers Won't Last",
+  "units": [
+    {
+      "end": 465,
+      "id": "youtube-video-2026-04-02-warning-these-dubai-developers-won-t-last-tcbahrlirhq-md-ec8bfda8d1:u000001",
+      "locator": "lines 18-18",
+      "passage_id": "youtube-video-2026-04-02-warning-these-dubai-developers-won-t-last-tcbahrlirhq-md-ec8bfda8d1:p000001",
+      "raw_text": "I'm so sorry to bring it to everyone, but the smaller first time developers which jump in the market in the past years, they gonna go. But realistically between me and you and if I'm talking with a client, they were not doing well even before the war. The only way they were able to sell is by pushing their product with extremely marketing materials, payment plans, um working with the master developers who already have a power of the channel partners like really",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:00",
+      "text": "I'm so sorry to bring it to everyone, but the smaller first time developers which jump in the market in the past years, they gonna go. But realistically between me and you and if I'm talking with a client, they were not doing well even before the war. The only way they were able to sell is by pushing their product with extremely marketing materials, payment plans, um working with the master developers who already have a power of the channel partners like really"
+    },
+    {
+      "end": 258,
+      "id": "youtube-video-2026-04-02-warning-these-dubai-developers-won-t-last-tcbahrlirhq-md-ec8bfda8d1:u000002",
+      "locator": "lines 22-22",
+      "passage_id": "youtube-video-2026-04-02-warning-these-dubai-developers-won-t-last-tcbahrlirhq-md-ec8bfda8d1:p000002",
+      "raw_text": "logistically if they were on their own, this is not a sellable product. So, yeah, I'm so sorry, this is how the market reacts. Those developers will not survive. So the focus out of the market is that is, okay, let's see where the smart investors are moving.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:30",
+      "text": "logistically if they were on their own, this is not a sellable product. So, yeah, I'm so sorry, this is how the market reacts. Those developers will not survive. So the focus out of the market is that is, okay, let's see where the smart investors are moving."
+    }
+  ],
+  "url": "https://www.youtube.com/shorts/TcBAHrlIrhQ"
+}

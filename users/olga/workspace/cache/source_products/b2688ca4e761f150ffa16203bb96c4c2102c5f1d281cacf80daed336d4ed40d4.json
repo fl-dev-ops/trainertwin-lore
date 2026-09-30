@@ -1,0 +1,25 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Watch Re-play on - https://lnkd.in/d7Tzm479",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text provides a direct link to content for re-watching, indicated by the structured format 'Watch Re-play on - [URL]'."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Providing a link",
+      "topic": "linking"
+    }
+  ],
+  "knowledge": []
+}

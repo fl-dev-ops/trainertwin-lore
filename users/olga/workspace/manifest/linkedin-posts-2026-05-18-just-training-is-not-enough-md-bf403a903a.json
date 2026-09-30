@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2026-05-18-just-training-is-not-enough-md-bf403a903a-63d7d5a4ab297cbbeb6f.jsonl",
+  "evidence_hash": "87e814b29261b3c0b2058e306654b3d1cf1e85756ee613757f0968c3e67dac26",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:32:25Z",
+  "metadata_hash": "205cbd62fec7d2d613b2f5b3ccff5f45d357683a2380d329ece7bcce6ed98f73",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "63d7d5a4ab297cbbeb6f",
+  "snapshot_hash": "c0ddf9b27498f2a859358470ef42413fa5ae582fbefa9ead544bfc2a434b0886",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-05-18-just-training-is-not-enough-md-bf403a903a",
+  "source_path": "linkedin/posts/2026-05-18-just-training-is-not-enough.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "5e9e57180d32d490f8e8638049c0a72463523c5ee32e87305d724f1319000d78",
+  "source_snapshot": "linkedin-posts-2026-05-18-just-training-is-not-enough-md-bf403a903a-63d7d5a4ab297cbbeb6f.json",
+  "version": "4"
+}

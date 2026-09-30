@@ -1,0 +1,28 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "This is the real weather of Dubai in the almost middle of April when you need some sort of a jacket and the skies are like this.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "In the middle of April in Dubai, the weather requires some sort of a jacket, and the skies resemble those of a horror movie."
+      },
+      "title": "Dubai April Weather",
+      "topic": "Dubai weather"
+    }
+  ]
+}

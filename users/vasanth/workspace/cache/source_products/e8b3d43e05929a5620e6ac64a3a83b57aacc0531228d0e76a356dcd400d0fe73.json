@@ -1,0 +1,204 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000014"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "max time session before I start is two minutes...please try to join on time.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "The speaker outlines exact session start times and procedures if technical issues arise, establishing a consistent structure for adherence."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Time Management in Sessions",
+      "topic": "session_policy"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "please keep at least two and a half hours 8 AM to 10:30 AM from your side please try to dedicate that much time for the cohort.",
+              "unit_id": "u000004"
+            }
+          ],
+          "text": "Participants should dedicate at least two and a half hours, from 8 AM to 10:30 AM, for the cohort sessions."
+        }
+      ],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So topics covered as I told JavaScript, React, Machine Coding, System Design and DSA. These are the topics that will be covered.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The cohort covers topics such as JavaScript, React, Machine Coding, System Design, and DSA."
+      },
+      "title": "Cohort Duration and Topics",
+      "topic": "cohort_details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007",
+        "u000009",
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "A live session, quiz, sometimes a live assignments, discussion.",
+            "unit_id": "u000007"
+          },
+          {
+            "quote": "extreme basics of web development are not taught here. Like let, var, const, for loop, switch, things like that will not be taught.",
+            "unit_id": "u000009"
+          },
+          {
+            "quote": "I'm going in depth of concept only as much as it is relevant.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Session formats include live sessions, quizzes, and assignments with a focus on fundamental and relevant topics without in-depth coverage of every possible aspect."
+      },
+      "title": "Teaching Methodology and Session Format",
+      "topic": "session_format"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "extreme basics of web development are not taught here.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "Participants are expected to have basic experience in web development and not need teaching on extreme basics."
+      },
+      "title": "Prerequisite Skills and Expectations",
+      "topic": "cohort_details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000011"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So this is not a UI heavy program also. What do you mean by not a UI heavy program? Like I don't give as an interviewer, as an individual also while selecting a candidate, I don't give lot of importance for like designs, like CSS primarily. I'm fine as long as it looks decent and it is functional.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "The program does not focus heavily on UI design such as CSS animations but rather on functionality."
+      },
+      "title": "UI Focus in Program",
+      "topic": "program_focus"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "some here in the session are really financially challenged and they needed some assistance. I could not say no to them because of which overall number has become thirty three.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The cohort size reached 33 participants due to financial challenges among some applicants."
+      },
+      "title": "Class Size and Support",
+      "topic": "cohort_management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "In fact, even if I have to extend it by completely one more weekend to teach the left out syllabus, I'm happy to do that also.",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "The instructor is willing to extend session times or reschedule topics if necessary to ensure thorough learning."
+      },
+      "title": "Session Timing and Flexibility",
+      "topic": "cohort_management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000021"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I know I don't know everything. So yesterday before I was just reading for today's session primarily around event loop and other things.",
+            "unit_id": "u000021"
+          },
+          {
+            "quote": "I honestly don't know the answer I don't bluff in the session. I'll take a note of it I'll read about it once I'm fully sure I'm going to come and explain in the next session",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "The instructor continuously updates their own knowledge, acknowledging that they don't know everything but verifies information before teaching."
+      },
+      "title": "Instructor's Knowledge and Updates",
+      "topic": "instructor_approach"
+    }
+  ]
+}

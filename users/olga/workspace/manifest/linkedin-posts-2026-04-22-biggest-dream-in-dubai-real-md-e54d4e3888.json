@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888-28a12f4c6974f3322986.jsonl",
+  "evidence_hash": "a0b438c575d27eff4c03d4fd585fd89290f0d2f31d5093684271d3a8dd88a895",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:13:18Z",
+  "metadata_hash": "b8a70be43caf3e3b3ae8fcdc895f9477948239455506c8d44f6388a518d5f739",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "28a12f4c6974f3322986",
+  "snapshot_hash": "a6f3b5f9be089dbcc5fc85ff95e08a9594e2a66a7ec72768b77944b3e5c2f235",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888",
+  "source_path": "linkedin/posts/2026-04-22-biggest-dream-in-dubai-real.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "c5fe19f00703de5b682d03b85ac37f2e1668f26c405a113e6419cf3e2da2c89c",
+  "source_snapshot": "linkedin-posts-2026-04-22-biggest-dream-in-dubai-real-md-e54d4e3888-28a12f4c6974f3322986.json",
+  "version": "4"
+}

@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701-d378aeda914332dcced0.jsonl",
+  "evidence_hash": "60dbca13e304517fc245b184bfab66aafb07c5f20db527c38d0cd29f72f4e0d8",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:14:27Z",
+  "metadata_hash": "2a8d8fd41583148eeedbf0f12e3d55b2c8e526a4abf11414188da9177e5ce0b2",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 1,
+    "knowledge": 6
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 4,
+    "units_total": 4
+  },
+  "revision": "d378aeda914332dcced0",
+  "snapshot_hash": "8a7989c5fe4a28f6237884056ac82bd389c63cd06e4a9d412ba2ee266a802091",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701",
+  "source_path": "linkedin/posts/2026-05-27-if-you-have-a-wrong.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "06861b68b428682bc437f39ef094cd5f564f8565142798aa8ad749b37d9bc155",
+  "source_snapshot": "linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701-d378aeda914332dcced0.json",
+  "version": "4"
+}

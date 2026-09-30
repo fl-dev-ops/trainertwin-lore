@@ -1,0 +1,50 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-5b9f4456602c71c3",
+          "quote": "Do not jump too early. What is too early? Too early means like basically you are running away from some problems. You do not know why you are making a job switch.",
+          "unit_id": "youtube-video-2025-01-18-while-changing-the-job-must-watch-before-changing-the-job-5-9de67d87d0:u000018"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth summarizes the discussion by contrasting when moving between jobs might be too early, too long, and the right balance.",
+      "proposed_adaptation": {
+        "action": "Contrast characteristics defining undesirable actions and their context like job changes",
+        "limits": "Avoid assuming universally relatable job change motivations; limits to job transition conversations.",
+        "when": "Summarizing scenarios for educational purposes"
+      },
+      "qualification": "Based on a sole speaker's narration without audience response.",
+      "scope": "youtube",
+      "situation": "Speaker discusses job changes amidst various reasons.",
+      "support_ids": [
+        "ex-5b9f4456602c71c3"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-95e520d9faee4272",
+          "quote": "The best example is like rocket science, right? Probably both of us will not be able to ask the right questions around rocket science.",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000139"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Examples explain difficulty in asking relevant questions without sufficient skills or familiarity, using rocket science as an analogy.",
+      "proposed_adaptation": {
+        "action": "Use analogies highlighting the need for subject familiarity before posing expert-level queries",
+        "limits": "Not universally applicable to all academic subjects; specificity to speaker analogy context.",
+        "when": "Introducing complex subject areas to beginners"
+      },
+      "qualification": "Single speaker exploration without multiple example agreement.",
+      "scope": "youtube",
+      "situation": "Explaining the challenges of asking relevant questions in unfamiliar domains.",
+      "support_ids": [
+        "ex-95e520d9faee4272"
+      ]
+    }
+  ]
+}

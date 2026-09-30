@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-06-25-happened-just-now-im-done-md-c6e3378a77-bfc315794048a444641d.jsonl",
+  "evidence_hash": "861c1136b90ea63addf9d66489c11f366249c14dbe7a0b04130203786114302d",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:32:41Z",
+  "metadata_hash": "c2b07e35831f545909a359b71b0c49877263567b82f484700b460fc29a0f578b",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "bfc315794048a444641d",
+  "snapshot_hash": "89d6fc9542f25b1f440f6659d943edc30f6cf9d4782489c37cd92dfbc65434fd",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-06-25-happened-just-now-im-done-md-c6e3378a77",
+  "source_path": "linkedin/posts/2026-06-25-happened-just-now-im-done.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "a5a80f211b7356c0ba0e885803d89faaea4d355ef148dee6ea4fb91934455634",
+  "source_snapshot": "linkedin-posts-2026-06-25-happened-just-now-im-done-md-c6e3378a77-bfc315794048a444641d.json",
+  "version": "4"
+}

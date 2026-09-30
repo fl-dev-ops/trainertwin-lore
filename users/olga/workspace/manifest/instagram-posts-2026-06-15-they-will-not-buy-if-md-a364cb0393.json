@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "instagram-posts-2026-06-15-they-will-not-buy-if-md-a364cb0393-0808bf26c085b183fe6f.jsonl",
+  "evidence_hash": "6256f8a99ce5b791a7276b32c0ff0d83f4d5c8add73dd565e246c1f1f7fffd0f",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:08:12Z",
+  "metadata_hash": "2aabf450128720305cbf8db9fb2475f3c71391f0dc1f70395abd5619a8191560",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 2,
+    "units_total": 4
+  },
+  "revision": "0808bf26c085b183fe6f",
+  "snapshot_hash": "d43102748192559f3a7cb925c69fe20b32dcb034a17918b50d796e965c1f3690",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-06-15-they-will-not-buy-if-md-a364cb0393",
+  "source_path": "instagram/posts/2026-06-15-they-will-not-buy-if.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "050744b9c0a149c709dbae96ed184500820d1a416022f96e0b9a997390219928",
+  "source_snapshot": "instagram-posts-2026-06-15-they-will-not-buy-if-md-a364cb0393-0808bf26c085b183fe6f.json",
+  "version": "4"
+}

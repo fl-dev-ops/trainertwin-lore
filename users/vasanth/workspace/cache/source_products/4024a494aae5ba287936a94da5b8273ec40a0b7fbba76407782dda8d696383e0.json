@@ -1,0 +1,202 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000322",
+        "u000326",
+        "u000330"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Once after this block is executed, it is going to be there until set amount executes or it will be removed.",
+            "unit_id": "u000326"
+          }
+        ],
+        "text": "Will the execution context stay until setTimeout executes or will it be removed?"
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "So execute execution context will be the completed. So it will taking care by the event loop automatically after the time given time completed.",
+            "unit_id": "u000330"
+          }
+        ],
+        "text": "The setTimeout is already pushed to the macro task, and the execution context is completed. It is managed by the event loop."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "My question is with respect to execution context.",
+            "unit_id": "u000322"
+          }
+        ],
+        "text": "The speaker explains the execution of JavaScript with respect to execution context and how setTimeout affects it."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Execution Context Handling of setTimeout",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "context_unit_ids": [
+        "u000341",
+        "u000356",
+        "u000366"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "but what happens to the global execution context will it stay until the set timeout comes back or it will be also removed.",
+            "unit_id": "u000340"
+          }
+        ],
+        "text": "Will the global execution context stay until setTimeout runs or be removed?"
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "global execution context will stay",
+            "unit_id": "u000353"
+          },
+          {
+            "quote": "I think it will be executed but the sec timeout will have its own variable context",
+            "unit_id": "u000356"
+          }
+        ],
+        "text": "Most responses indicate that the global execution context will stay."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "you you're saying global execution context is gonna stay until the set amount comes back.",
+            "unit_id": "u000341"
+          }
+        ],
+        "text": "There is a discussion about whether the global execution context will persist during the execution of setTimeout."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Global Execution Context during setTimeout",
+      "topic": "JavaScript Execution"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000340"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I'll repeat the question okay now I'll call some of the people in the call randomly so that everybody is active in the call.",
+            "unit_id": "u000340"
+          }
+        ],
+        "text": "The speaker repeats the question to engage the audience during a discussion about execution contexts."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "I'll call some of the people in the call randomly so that everybody is active in the call.",
+            "unit_id": "u000340"
+          }
+        ],
+        "text": "To ensure active participation of the audience."
+      },
+      "speaker_id": "2",
+      "title": "Question Format",
+      "topic": "JavaScript Execution"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000322",
+        "u000326",
+        "u000330"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Once after this block is executed, it is going to be there until set amount executes or it will be removed. It will not wait for set amount to complete.",
+            "unit_id": "u000326"
+          }
+        ],
+        "text": "In JavaScript, after a block is executed, the execution context may not wait for a setTimeout to complete."
+      },
+      "title": "Execution Context and JavaScript",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000330",
+        "u000335"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "and once the call stack is empty, this call backs execution context is created and executed.",
+            "unit_id": "u000335"
+          }
+        ],
+        "text": "The execution context will be popped out of the call stack, and once the call stack is empty, the callback's execution context is created and executed."
+      },
+      "title": "Execution Context Popped from Call Stack",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000341",
+        "u000353",
+        "u000356"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Yeah, so global education context will stay even",
+            "unit_id": "u000341"
+          },
+          {
+            "quote": "global execution context will stay",
+            "unit_id": "u000353"
+          },
+          {
+            "quote": "I think it will be executed but the sec timeout will have its own variable context",
+            "unit_id": "u000356"
+          }
+        ],
+        "text": "There is a discussion whether the global execution context will stay until the setTimeout runs or will be removed."
+      },
+      "title": "Global Execution Context Persistence",
+      "topic": "JavaScript Execution"
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "audience": "",
+  "author": "",
+  "category": "youtube",
+  "content_hash": "e2f861fb489d0dc889d4484c27f1fe40a1509998ef259d80d18d52e3e1cde871",
+  "date": "2025-02-01",
+  "date_basis": "source",
+  "external_id": "5PiUWrOx6Gg",
+  "format": "transcript",
+  "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82",
+  "metadata_hash": "9afd7c082e8b72197d5b1eccccf31ec183460a51cfd2ff4901e38cfbca072ccc",
+  "original_text": "---\nid: 5PiUWrOx6Gg\ntitle: Mastering the 'Tell Me About Your Project' Question\ndate: '2025-02-01'\nurl: https://www.youtube.com/watch?v=5PiUWrOx6Gg\ndescription: \"#genai  #ai  #frontend  \\n\\n\\U0001F449 “Contact on WhatsApp: 9731039408”\\n\\\n  \\nIn this video, I have explained how to answer the most important interview question\\\n  \\ \\\"Tell me about your interesting project that you worked on in the past\\\" ?  Many\\\n  \\ either undermine their project or over explain it. In this video, I have explained\\\n  \\ how to explain about your past project in the right way.\\n\\n@careerwithvasanth\\\n  \\   is a Youtube channel dedicated to helping candidates clear their interview.\\\n  \\ There are more than 150 videos and new videos will be uploaded every week. If\\\n  \\ you're seriously preparing for interviews and looking for tips and tricks, please\\\n  \\ subscribe to my channel and press the bell icon.\\n\\nTo get a dedicated one on\\\n  \\ one,  you can reach out to me here: https://topmate.io/vasanth_bhat\\n\\nJoin CareerwithVasanth\\\n  \\ community to discuss with other developers: t.me/uncommongeek. \\n\\nYou can get\\\n  \\ more mock interviews here : https://www.youtube.com/playlist?list=PLmcRO0ZwQv4SwXLVpnKb_nFQx1Wd2XEjD\\n\\\n  \\nFollow me on LinkedIn - https://www.linkedin.com/in/careerwithvasanth/\\n\\nMedium\\\n  \\ Blog: https://careerwithvasanth.medium.com/\\n\\nJavaScript Interview preparation\\\n  \\ series : https://www.youtube.com/watch?v=qcixpy3HQ9s&list=PLmcRO0ZwQv4QMslGJQg7N8AzaHkC5pJ4t\\\n  \\ \\n\\nJavaScript Custom implementation/polyfills Series: https://www.youtube.com/watch?v=eGzErMUfdpk&t=35s\\n\\\n  \\nFrontend system design series: https://www.youtube.com/watch?v=gN8LQTff21g&list=PLmcRO0ZwQv4RYUD10hUnWjWb-RRSpm3KM&ab_channel=UncommonGeeks\\n\\\n  \\nMAANG series for frontend developer: https://www.youtube.com/watch?v=s-b-txm_Gvk&list=PLmcRO0ZwQv4SNhbW4CI4vc-6IHBHCKzZN&ab_channel=UncommonGeeks\\n\\\n  \\nShorts for quick access to all frontend resources: https://www.youtube.com/watch?v=8ByBOT7Aehs&list=PLmcRO0ZwQv4SXtrTYIU_dPygZgOgYV81S&ab_channel=UncommonGeeks\\n\\\n  \\nTips for freshers: https://www.youtube.com/watch?v=hGIOIdPNNqE&list=PLmcRO0ZwQv4QBiZns-nYX5qnHKAepVeqH&ab_channel=UncommonGeeks\"\nduration: 00:07:14\nmodel: saaras:v3\ntranscript: true\n---\n\n# Mastering the 'Tell Me About Your Project' Question\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nHello all, welcome back to Career with Vasanth YouTube channel. My name is Vasanth. I hope you all doing well. In any interview that I take, after I take their brief introduction about their skills, experience, etcetera, the immediate next question that I ask is, can you please explain me a problem that you solved in the past which you are very proud of? So this is something that's very common that is asked by most interviewer. And lot of people, if I ask you like out of ten, probably like seven to eight people will not going to answer this question very well. And lot of time this itself create a negative impression in interviewer's mind. So in this video I'm going to explain step by step how to solve\n\n### 00:00:30 · Speaker 1\n\nthis problem. How do you rightly explain the project that you worked in the past? Okay? Let's start with a simple presentation. Like what are the common problems that people make or candidates make whenever this question is asked? Like explain about your past project. What they do is picking the tasks that are too simple. I've I've even heard people like saying that they uh they like what is the task that they are doing? Like they are completing the giras or completing the ticket that are assigned to them in the sprint. See that is not something that is like quantifiable in the interview. Like you cannot tell like I completed my task. See that's what\n\n### 00:01:00 · Speaker 1\n\nwhy you are paid for like what extra you did that's what matters correct or some people tell about very complicated extremely complicated scenario they pick and they fail to justify I'll tell for example like they tell like I built a video calling application in like native Android or native iOS application then I would ask like let's say if the app is killed like there's not in forgot not in background app is fully killed how you are going to open the app when the app is fully killed some people say we use notification some people say something else I keep digging deeper like why you are using like notification why you are using like web\n\n### 00:01:30 · Speaker 1\n\nsockets, people get confused after a point. So do not be too complicated or do not be too easy, okay? And many a time they stay fail to highlight their contribution, also not able to mention the impact. Like let's take the video calling application example itself. So they say we have built the video calling application, fine, but what is the impact? Has it saved like any million dollar to your company or has it generated a million dollar to your company or is it been used by like ten thousand people every day? What is the impact? You should tell because interviewer I will not know like what is that you have\n\n### 00:02:00 · Speaker 1\n\ncorrect? So you should be vocal about it. And then also like a lot of time people like many a times whenever there's a complex systems are there like e-commerce, they say like I worked on e-commerce application. So it's like you build the entire e-commerce app, then they'll say no I just built this like checkout part. Then highlight your contribution. Like do not say like that everybody else's contribution, highlight your contribution. Okay? These are the common mistakes that most do, do not do it. So at the end of the video I'm going to explain how exactly you should answer. Step by step I'm going to explain so please watch the video till the end.\n\n### 00:02:30 · Speaker 1\n\nBut before I go there, you should know like why this question is important, why somebody should ask you about your past project. The reason being like two people looking at each other or knowing each other for the first time. They don't know their technical skills or mutual technical skills, correct? Definitely something is mentioned on the resume, but there's no guarantee that that is true. There's a only way to assess is like dig deeper and understand one of your past projects so that we get a good understanding about the candidate's nature, correct? So if you look at the points here, one is interviewer want to assess your ability to handle challenges.\n\n### 00:03:00 · Speaker 1\n\nyour decision making and problem solving skills. How you learn and improve your experience. So these are all the primary skills of yours that we want to test. Especially in the first ten fifteen minutes of the interview, most interviewers are fine spending that much time understanding candidate in depth. So that's the reason why this question will be asked to you. Okay? Now, what are the common mistakes people do? Some I already explained the first slide but as I told you, first is picking a very small problem or too complicated problem or focusing too much on the team effort. Like my colleague did that, my friend\n\n### 00:03:30 · Speaker 1\n\nthey did that they like you have to highlight what you did not like what your friends did last year is like again forgetting to quantify the results okay now let me explain how should we efficiently answer it pick a decent size problem not like very big problem a decent size problem that you solved okay like if you take an example here pick a genuine challenge something that highlight your skills genuine challenges means like let's say you pick up an e-commerce application till like you implemented the search functionality there you can explain\n\n### 00:04:00 · Speaker 1\n\nintroduce debouncing, throttling, I also handle like type ahead. I also handle like what if you make three API calls and third API call result comes first and the first API call comes later. How I handle that scenario. Multiple other things you can highlight. So pick a genuine small use case but that has like multiple use cases around it, okay? Provide context like I wouldn't know about your product very well. So first start by providing some context about the product and then probably whatever you're trying to do. And highlight your role, what you did. Like are you a developer there? Are you\n\n### 00:04:30 · Speaker 1\n\nteam lead there or your manager, whatever your role. Explain your approach. Once you know the problem, how you solved it step by step. Share the results. Reflect on lessons learned. Like reflect on lesson learned is like once after you solve the problem, these are things that we learned. You can note down the six part rule. Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned. But here also one very important thing to notice is like do not overwhelm the interviewer. Like you know, Vasanth told like six part I need to tell.\n\n### 00:05:00 · Speaker 1\n\ndo not tell too much too many things because some interview may not be interested also. like as I always say interview is more like a date first date correct so you you have to be like looking at the situation you need to tune yourself you cannot expect like you have a script and you want to tell everything in the interview but in a good interview you can definitely mention the six points okay now let me tell you an example.\n\n### 00:05:20 · Speaker 1\n\nSo the good example is, uh if you see here, I was I was tasked with like a dashboard loading that is ten second. The challenge that I was having was there was a dashboard which is taking ten seconds to roll. My role in that is I took a ownership and analyzed the routes cost. That was something that I did. Approach, I implemented a lazy loading, reduced API costs and used caching. Correct? Third third like fourth point, reduce loading time and under to two seconds. So you are telling about the impact now. So you explain the challenge, you explain your role.\n\n### 00:05:50 · Speaker 1\n\nexplain your approach then you explain the result. Okay? Last is lesson learned. What is the lesson learned? The importance of profiling and back end collaboration. So this is like you learned this is the lesson learned. You can skip the lesson learned if you think like interview is not very interested but at least make sure you mention the four points very well. Okay? Now to summarize, pick a decent size problem that you solved in the past. Do not pick too small, too trivial or too complicated. Pick some decent size problem. No step by step like every bit of the problem you know how you solved it and\n\n### 00:06:20 · Speaker 1\n\nexplain like what is the problem, what was your approach, how you solved it, what is the impact. These four points should cover. Definitely there will be lot of cross questions. The best way probably according to you master this question very well is discuss with one of your peers who are relatively having more knowledge about the product or like get a mock interview of someone. If you want to take mock interview from me, the link is in the comments description section, you can go ahead and check. But take mock interview from anyone so that they can scrutinize you very well with respect to this project. So whenever such questions are asked in the interview, probably you will not want to make any mistake. Okay? So next time when\n\n### 00:06:50 · Speaker 1\n\nwhatever this question asked to you in the interview what are the important project that you worked in the past do not make the mistakes that I told instead do the pros or the right way to approach the question okay thank you so much for watching if you like the video please like the video on the youtube comment whatever you felt honestly share the video with your friends subscribe to my channel career with vasant follow me on linkedin I read very actively on linkedin also in youtube follow me on medium thank you so much for watching catch you in the next video\n",
+  "passages": [
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000001",
+      "locator": "lines 37-37",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:00",
+      "text": "Hello all, welcome back to Career with Vasanth YouTube channel. My name is Vasanth. I hope you all doing well. In any interview that I take, after I take their brief introduction about their skills, experience, etcetera, the immediate next question that I ask is, can you please explain me a problem that you solved in the past which you are very proud of? So this is something that's very common that is asked by most interviewer. And lot of people, if I ask you like out of ten, probably like seven to eight people will not going to answer this question very well. And lot of time this itself create a negative impression in interviewer's mind. So in this video I'm going to explain step by step how to solve"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000002",
+      "locator": "lines 41-41",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:30",
+      "text": "this problem. How do you rightly explain the project that you worked in the past? Okay? Let's start with a simple presentation. Like what are the common problems that people make or candidates make whenever this question is asked? Like explain about your past project. What they do is picking the tasks that are too simple. I've I've even heard people like saying that they uh they like what is the task that they are doing? Like they are completing the giras or completing the ticket that are assigned to them in the sprint. See that is not something that is like quantifiable in the interview. Like you cannot tell like I completed my task. See that's what"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000003",
+      "locator": "lines 45-45",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:01:00",
+      "text": "why you are paid for like what extra you did that's what matters correct or some people tell about very complicated extremely complicated scenario they pick and they fail to justify I'll tell for example like they tell like I built a video calling application in like native Android or native iOS application then I would ask like let's say if the app is killed like there's not in forgot not in background app is fully killed how you are going to open the app when the app is fully killed some people say we use notification some people say something else I keep digging deeper like why you are using like notification why you are using like web"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000004",
+      "locator": "lines 49-49",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:01:30",
+      "text": "sockets, people get confused after a point. So do not be too complicated or do not be too easy, okay? And many a time they stay fail to highlight their contribution, also not able to mention the impact. Like let's take the video calling application example itself. So they say we have built the video calling application, fine, but what is the impact? Has it saved like any million dollar to your company or has it generated a million dollar to your company or is it been used by like ten thousand people every day? What is the impact? You should tell because interviewer I will not know like what is that you have"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000005",
+      "locator": "lines 53-53",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:02:00",
+      "text": "correct? So you should be vocal about it. And then also like a lot of time people like many a times whenever there's a complex systems are there like e-commerce, they say like I worked on e-commerce application. So it's like you build the entire e-commerce app, then they'll say no I just built this like checkout part. Then highlight your contribution. Like do not say like that everybody else's contribution, highlight your contribution. Okay? These are the common mistakes that most do, do not do it. So at the end of the video I'm going to explain how exactly you should answer. Step by step I'm going to explain so please watch the video till the end."
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000006",
+      "locator": "lines 57-57",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:02:30",
+      "text": "But before I go there, you should know like why this question is important, why somebody should ask you about your past project. The reason being like two people looking at each other or knowing each other for the first time. They don't know their technical skills or mutual technical skills, correct? Definitely something is mentioned on the resume, but there's no guarantee that that is true. There's a only way to assess is like dig deeper and understand one of your past projects so that we get a good understanding about the candidate's nature, correct? So if you look at the points here, one is interviewer want to assess your ability to handle challenges."
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000007",
+      "locator": "lines 61-61",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:03:00",
+      "text": "your decision making and problem solving skills. How you learn and improve your experience. So these are all the primary skills of yours that we want to test. Especially in the first ten fifteen minutes of the interview, most interviewers are fine spending that much time understanding candidate in depth. So that's the reason why this question will be asked to you. Okay? Now, what are the common mistakes people do? Some I already explained the first slide but as I told you, first is picking a very small problem or too complicated problem or focusing too much on the team effort. Like my colleague did that, my friend"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000008",
+      "locator": "lines 65-65",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:03:30",
+      "text": "they did that they like you have to highlight what you did not like what your friends did last year is like again forgetting to quantify the results okay now let me explain how should we efficiently answer it pick a decent size problem not like very big problem a decent size problem that you solved okay like if you take an example here pick a genuine challenge something that highlight your skills genuine challenges means like let's say you pick up an e-commerce application till like you implemented the search functionality there you can explain"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000009",
+      "locator": "lines 69-69",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:04:00",
+      "text": "introduce debouncing, throttling, I also handle like type ahead. I also handle like what if you make three API calls and third API call result comes first and the first API call comes later. How I handle that scenario. Multiple other things you can highlight. So pick a genuine small use case but that has like multiple use cases around it, okay? Provide context like I wouldn't know about your product very well. So first start by providing some context about the product and then probably whatever you're trying to do. And highlight your role, what you did. Like are you a developer there? Are you"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000010",
+      "locator": "lines 73-73",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:04:30",
+      "text": "team lead there or your manager, whatever your role. Explain your approach. Once you know the problem, how you solved it step by step. Share the results. Reflect on lessons learned. Like reflect on lesson learned is like once after you solve the problem, these are things that we learned. You can note down the six part rule. Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned. But here also one very important thing to notice is like do not overwhelm the interviewer. Like you know, Vasanth told like six part I need to tell."
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000011",
+      "locator": "lines 77-77",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:05:00",
+      "text": "do not tell too much too many things because some interview may not be interested also. like as I always say interview is more like a date first date correct so you you have to be like looking at the situation you need to tune yourself you cannot expect like you have a script and you want to tell everything in the interview but in a good interview you can definitely mention the six points okay now let me tell you an example."
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000012",
+      "locator": "lines 81-81",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:05:20",
+      "text": "So the good example is, uh if you see here, I was I was tasked with like a dashboard loading that is ten second. The challenge that I was having was there was a dashboard which is taking ten seconds to roll. My role in that is I took a ownership and analyzed the routes cost. That was something that I did. Approach, I implemented a lazy loading, reduced API costs and used caching. Correct? Third third like fourth point, reduce loading time and under to two seconds. So you are telling about the impact now. So you explain the challenge, you explain your role."
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000013",
+      "locator": "lines 85-85",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:05:50",
+      "text": "explain your approach then you explain the result. Okay? Last is lesson learned. What is the lesson learned? The importance of profiling and back end collaboration. So this is like you learned this is the lesson learned. You can skip the lesson learned if you think like interview is not very interested but at least make sure you mention the four points very well. Okay? Now to summarize, pick a decent size problem that you solved in the past. Do not pick too small, too trivial or too complicated. Pick some decent size problem. No step by step like every bit of the problem you know how you solved it and"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000014",
+      "locator": "lines 89-89",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:06:20",
+      "text": "explain like what is the problem, what was your approach, how you solved it, what is the impact. These four points should cover. Definitely there will be lot of cross questions. The best way probably according to you master this question very well is discuss with one of your peers who are relatively having more knowledge about the product or like get a mock interview of someone. If you want to take mock interview from me, the link is in the comments description section, you can go ahead and check. But take mock interview from anyone so that they can scrutinize you very well with respect to this project. So whenever such questions are asked in the interview, probably you will not want to make any mistake. Okay? So next time when"
+    },
+    {
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000015",
+      "locator": "lines 93-93",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:06:50",
+      "text": "whatever this question asked to you in the interview what are the important project that you worked in the past do not make the mistakes that I told instead do the pros or the right way to approach the question okay thank you so much for watching if you like the video please like the video on the youtube comment whatever you felt honestly share the video with your friends subscribe to my channel career with vasant follow me on linkedin I read very actively on linkedin also in youtube follow me on medium thank you so much for watching catch you in the next video"
+    }
+  ],
+  "path": "youtube/video/2025-02-01-mastering-the-tell-me-about-your-project-question-5PiUWrOx6Gg.md",
+  "purpose": "",
+  "relative_path": "youtube/video/2025-02-01-mastering-the-tell-me-about-your-project-question-5PiUWrOx6Gg.md",
+  "sha256": "fbe964d11079f845694cf15771a24c33302cc6d96da69a9cb7664911286cb374",
+  "speakers": {},
+  "title": "Mastering the 'Tell Me About Your Project' Question",
+  "units": [
+    {
+      "end": 710,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000001",
+      "locator": "lines 37-37",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000001",
+      "raw_text": "Hello all, welcome back to Career with Vasanth YouTube channel. My name is Vasanth. I hope you all doing well. In any interview that I take, after I take their brief introduction about their skills, experience, etcetera, the immediate next question that I ask is, can you please explain me a problem that you solved in the past which you are very proud of? So this is something that's very common that is asked by most interviewer. And lot of people, if I ask you like out of ten, probably like seven to eight people will not going to answer this question very well. And lot of time this itself create a negative impression in interviewer's mind. So in this video I'm going to explain step by step how to solve",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:00",
+      "text": "Hello all, welcome back to Career with Vasanth YouTube channel. My name is Vasanth. I hope you all doing well. In any interview that I take, after I take their brief introduction about their skills, experience, etcetera, the immediate next question that I ask is, can you please explain me a problem that you solved in the past which you are very proud of? So this is something that's very common that is asked by most interviewer. And lot of people, if I ask you like out of ten, probably like seven to eight people will not going to answer this question very well. And lot of time this itself create a negative impression in interviewer's mind. So in this video I'm going to explain step by step how to solve"
+    },
+    {
+      "end": 658,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000002",
+      "locator": "lines 41-41",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000002",
+      "raw_text": "this problem. How do you rightly explain the project that you worked in the past? Okay? Let's start with a simple presentation. Like what are the common problems that people make or candidates make whenever this question is asked? Like explain about your past project. What they do is picking the tasks that are too simple. I've I've even heard people like saying that they uh they like what is the task that they are doing? Like they are completing the giras or completing the ticket that are assigned to them in the sprint. See that is not something that is like quantifiable in the interview. Like you cannot tell like I completed my task. See that's what",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:30",
+      "text": "this problem. How do you rightly explain the project that you worked in the past? Okay? Let's start with a simple presentation. Like what are the common problems that people make or candidates make whenever this question is asked? Like explain about your past project. What they do is picking the tasks that are too simple. I've I've even heard people like saying that they uh they like what is the task that they are doing? Like they are completing the giras or completing the ticket that are assigned to them in the sprint. See that is not something that is like quantifiable in the interview. Like you cannot tell like I completed my task. See that's what"
+    },
+    {
+      "end": 646,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000003",
+      "locator": "lines 45-45",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000003",
+      "raw_text": "why you are paid for like what extra you did that's what matters correct or some people tell about very complicated extremely complicated scenario they pick and they fail to justify I'll tell for example like they tell like I built a video calling application in like native Android or native iOS application then I would ask like let's say if the app is killed like there's not in forgot not in background app is fully killed how you are going to open the app when the app is fully killed some people say we use notification some people say something else I keep digging deeper like why you are using like notification why you are using like web",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:01:00",
+      "text": "why you are paid for like what extra you did that's what matters correct or some people tell about very complicated extremely complicated scenario they pick and they fail to justify I'll tell for example like they tell like I built a video calling application in like native Android or native iOS application then I would ask like let's say if the app is killed like there's not in forgot not in background app is fully killed how you are going to open the app when the app is fully killed some people say we use notification some people say something else I keep digging deeper like why you are using like notification why you are using like web"
+    },
+    {
+      "end": 614,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000004",
+      "locator": "lines 49-49",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000004",
+      "raw_text": "sockets, people get confused after a point. So do not be too complicated or do not be too easy, okay? And many a time they stay fail to highlight their contribution, also not able to mention the impact. Like let's take the video calling application example itself. So they say we have built the video calling application, fine, but what is the impact? Has it saved like any million dollar to your company or has it generated a million dollar to your company or is it been used by like ten thousand people every day? What is the impact? You should tell because interviewer I will not know like what is that you have",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:01:30",
+      "text": "sockets, people get confused after a point. So do not be too complicated or do not be too easy, okay? And many a time they stay fail to highlight their contribution, also not able to mention the impact. Like let's take the video calling application example itself. So they say we have built the video calling application, fine, but what is the impact? Has it saved like any million dollar to your company or has it generated a million dollar to your company or is it been used by like ten thousand people every day? What is the impact? You should tell because interviewer I will not know like what is that you have"
+    },
+    {
+      "end": 656,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000005",
+      "locator": "lines 53-53",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000005",
+      "raw_text": "correct? So you should be vocal about it. And then also like a lot of time people like many a times whenever there's a complex systems are there like e-commerce, they say like I worked on e-commerce application. So it's like you build the entire e-commerce app, then they'll say no I just built this like checkout part. Then highlight your contribution. Like do not say like that everybody else's contribution, highlight your contribution. Okay? These are the common mistakes that most do, do not do it. So at the end of the video I'm going to explain how exactly you should answer. Step by step I'm going to explain so please watch the video till the end.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:02:00",
+      "text": "correct? So you should be vocal about it. And then also like a lot of time people like many a times whenever there's a complex systems are there like e-commerce, they say like I worked on e-commerce application. So it's like you build the entire e-commerce app, then they'll say no I just built this like checkout part. Then highlight your contribution. Like do not say like that everybody else's contribution, highlight your contribution. Okay? These are the common mistakes that most do, do not do it. So at the end of the video I'm going to explain how exactly you should answer. Step by step I'm going to explain so please watch the video till the end."
+    },
+    {
+      "end": 662,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000006",
+      "locator": "lines 57-57",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000006",
+      "raw_text": "But before I go there, you should know like why this question is important, why somebody should ask you about your past project. The reason being like two people looking at each other or knowing each other for the first time. They don't know their technical skills or mutual technical skills, correct? Definitely something is mentioned on the resume, but there's no guarantee that that is true. There's a only way to assess is like dig deeper and understand one of your past projects so that we get a good understanding about the candidate's nature, correct? So if you look at the points here, one is interviewer want to assess your ability to handle challenges.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:02:30",
+      "text": "But before I go there, you should know like why this question is important, why somebody should ask you about your past project. The reason being like two people looking at each other or knowing each other for the first time. They don't know their technical skills or mutual technical skills, correct? Definitely something is mentioned on the resume, but there's no guarantee that that is true. There's a only way to assess is like dig deeper and understand one of your past projects so that we get a good understanding about the candidate's nature, correct? So if you look at the points here, one is interviewer want to assess your ability to handle challenges."
+    },
+    {
+      "end": 621,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000007",
+      "locator": "lines 61-61",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000007",
+      "raw_text": "your decision making and problem solving skills. How you learn and improve your experience. So these are all the primary skills of yours that we want to test. Especially in the first ten fifteen minutes of the interview, most interviewers are fine spending that much time understanding candidate in depth. So that's the reason why this question will be asked to you. Okay? Now, what are the common mistakes people do? Some I already explained the first slide but as I told you, first is picking a very small problem or too complicated problem or focusing too much on the team effort. Like my colleague did that, my friend",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:03:00",
+      "text": "your decision making and problem solving skills. How you learn and improve your experience. So these are all the primary skills of yours that we want to test. Especially in the first ten fifteen minutes of the interview, most interviewers are fine spending that much time understanding candidate in depth. So that's the reason why this question will be asked to you. Okay? Now, what are the common mistakes people do? Some I already explained the first slide but as I told you, first is picking a very small problem or too complicated problem or focusing too much on the team effort. Like my colleague did that, my friend"
+    },
+    {
+      "end": 550,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000008",
+      "locator": "lines 65-65",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000008",
+      "raw_text": "they did that they like you have to highlight what you did not like what your friends did last year is like again forgetting to quantify the results okay now let me explain how should we efficiently answer it pick a decent size problem not like very big problem a decent size problem that you solved okay like if you take an example here pick a genuine challenge something that highlight your skills genuine challenges means like let's say you pick up an e-commerce application till like you implemented the search functionality there you can explain",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:03:30",
+      "text": "they did that they like you have to highlight what you did not like what your friends did last year is like again forgetting to quantify the results okay now let me explain how should we efficiently answer it pick a decent size problem not like very big problem a decent size problem that you solved okay like if you take an example here pick a genuine challenge something that highlight your skills genuine challenges means like let's say you pick up an e-commerce application till like you implemented the search functionality there you can explain"
+    },
+    {
+      "end": 599,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000009",
+      "locator": "lines 69-69",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000009",
+      "raw_text": "introduce debouncing, throttling, I also handle like type ahead. I also handle like what if you make three API calls and third API call result comes first and the first API call comes later. How I handle that scenario. Multiple other things you can highlight. So pick a genuine small use case but that has like multiple use cases around it, okay? Provide context like I wouldn't know about your product very well. So first start by providing some context about the product and then probably whatever you're trying to do. And highlight your role, what you did. Like are you a developer there? Are you",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:04:00",
+      "text": "introduce debouncing, throttling, I also handle like type ahead. I also handle like what if you make three API calls and third API call result comes first and the first API call comes later. How I handle that scenario. Multiple other things you can highlight. So pick a genuine small use case but that has like multiple use cases around it, okay? Provide context like I wouldn't know about your product very well. So first start by providing some context about the product and then probably whatever you're trying to do. And highlight your role, what you did. Like are you a developer there? Are you"
+    },
+    {
+      "end": 611,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000010",
+      "locator": "lines 73-73",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000010",
+      "raw_text": "team lead there or your manager, whatever your role. Explain your approach. Once you know the problem, how you solved it step by step. Share the results. Reflect on lessons learned. Like reflect on lesson learned is like once after you solve the problem, these are things that we learned. You can note down the six part rule. Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned. But here also one very important thing to notice is like do not overwhelm the interviewer. Like you know, Vasanth told like six part I need to tell.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:04:30",
+      "text": "team lead there or your manager, whatever your role. Explain your approach. Once you know the problem, how you solved it step by step. Share the results. Reflect on lessons learned. Like reflect on lesson learned is like once after you solve the problem, these are things that we learned. You can note down the six part rule. Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned. But here also one very important thing to notice is like do not overwhelm the interviewer. Like you know, Vasanth told like six part I need to tell."
+    },
+    {
+      "end": 428,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000011",
+      "locator": "lines 77-77",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000011",
+      "raw_text": "do not tell too much too many things because some interview may not be interested also. like as I always say interview is more like a date first date correct so you you have to be like looking at the situation you need to tune yourself you cannot expect like you have a script and you want to tell everything in the interview but in a good interview you can definitely mention the six points okay now let me tell you an example.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:05:00",
+      "text": "do not tell too much too many things because some interview may not be interested also. like as I always say interview is more like a date first date correct so you you have to be like looking at the situation you need to tune yourself you cannot expect like you have a script and you want to tell everything in the interview but in a good interview you can definitely mention the six points okay now let me tell you an example."
+    },
+    {
+      "end": 562,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000012",
+      "locator": "lines 81-81",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000012",
+      "raw_text": "So the good example is, uh if you see here, I was I was tasked with like a dashboard loading that is ten second. The challenge that I was having was there was a dashboard which is taking ten seconds to roll. My role in that is I took a ownership and analyzed the routes cost. That was something that I did. Approach, I implemented a lazy loading, reduced API costs and used caching. Correct? Third third like fourth point, reduce loading time and under to two seconds. So you are telling about the impact now. So you explain the challenge, you explain your role.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:05:20",
+      "text": "So the good example is, uh if you see here, I was I was tasked with like a dashboard loading that is ten second. The challenge that I was having was there was a dashboard which is taking ten seconds to roll. My role in that is I took a ownership and analyzed the routes cost. That was something that I did. Approach, I implemented a lazy loading, reduced API costs and used caching. Correct? Third third like fourth point, reduce loading time and under to two seconds. So you are telling about the impact now. So you explain the challenge, you explain your role."
+    },
+    {
+      "end": 608,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000013",
+      "locator": "lines 85-85",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000013",
+      "raw_text": "explain your approach then you explain the result. Okay? Last is lesson learned. What is the lesson learned? The importance of profiling and back end collaboration. So this is like you learned this is the lesson learned. You can skip the lesson learned if you think like interview is not very interested but at least make sure you mention the four points very well. Okay? Now to summarize, pick a decent size problem that you solved in the past. Do not pick too small, too trivial or too complicated. Pick some decent size problem. No step by step like every bit of the problem you know how you solved it and",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:05:50",
+      "text": "explain your approach then you explain the result. Okay? Last is lesson learned. What is the lesson learned? The importance of profiling and back end collaboration. So this is like you learned this is the lesson learned. You can skip the lesson learned if you think like interview is not very interested but at least make sure you mention the four points very well. Okay? Now to summarize, pick a decent size problem that you solved in the past. Do not pick too small, too trivial or too complicated. Pick some decent size problem. No step by step like every bit of the problem you know how you solved it and"
+    },
+    {
+      "end": 737,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000014",
+      "locator": "lines 89-89",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000014",
+      "raw_text": "explain like what is the problem, what was your approach, how you solved it, what is the impact. These four points should cover. Definitely there will be lot of cross questions. The best way probably according to you master this question very well is discuss with one of your peers who are relatively having more knowledge about the product or like get a mock interview of someone. If you want to take mock interview from me, the link is in the comments description section, you can go ahead and check. But take mock interview from anyone so that they can scrutinize you very well with respect to this project. So whenever such questions are asked in the interview, probably you will not want to make any mistake. Okay? So next time when",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:06:20",
+      "text": "explain like what is the problem, what was your approach, how you solved it, what is the impact. These four points should cover. Definitely there will be lot of cross questions. The best way probably according to you master this question very well is discuss with one of your peers who are relatively having more knowledge about the product or like get a mock interview of someone. If you want to take mock interview from me, the link is in the comments description section, you can go ahead and check. But take mock interview from anyone so that they can scrutinize you very well with respect to this project. So whenever such questions are asked in the interview, probably you will not want to make any mistake. Okay? So next time when"
+    },
+    {
+      "end": 567,
+      "id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:u000015",
+      "locator": "lines 93-93",
+      "passage_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82:p000015",
+      "raw_text": "whatever this question asked to you in the interview what are the important project that you worked in the past do not make the mistakes that I told instead do the pros or the right way to approach the question okay thank you so much for watching if you like the video please like the video on the youtube comment whatever you felt honestly share the video with your friends subscribe to my channel career with vasant follow me on linkedin I read very actively on linkedin also in youtube follow me on medium thank you so much for watching catch you in the next video",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:06:50",
+      "text": "whatever this question asked to you in the interview what are the important project that you worked in the past do not make the mistakes that I told instead do the pros or the right way to approach the question okay thank you so much for watching if you like the video please like the video on the youtube comment whatever you felt honestly share the video with your friends subscribe to my channel career with vasant follow me on linkedin I read very actively on linkedin also in youtube follow me on medium thank you so much for watching catch you in the next video"
+    }
+  ],
+  "url": "https://www.youtube.com/watch?v=5PiUWrOx6Gg"
+}

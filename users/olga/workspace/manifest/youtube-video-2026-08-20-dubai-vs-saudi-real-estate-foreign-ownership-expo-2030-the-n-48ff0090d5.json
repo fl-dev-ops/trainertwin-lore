@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 2,
+  "evidence_count": 20,
+  "evidence_file": "youtube-video-2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-48ff0090d5-6a5053e16b2da9beb137.jsonl",
+  "evidence_hash": "c35369976ea8495237b4e04326bbecbc9f0a0eedd8b677696f26bd6ad5ae2c87",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:15:14Z",
+  "metadata_hash": "cab6ab5cedbd656ffe71f6ca9ff0fbdb2acab082a34c336ec09779f401df0e78",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 5,
+    "knowledge": 15
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 17,
+    "units_total": 31
+  },
+  "revision": "6a5053e16b2da9beb137",
+  "snapshot_hash": "db5b07720ba6df3944362dc0e7f968612acbc0ab3927b1d2e38e780d4cfbf0b4",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-48ff0090d5",
+  "source_path": "youtube/video/2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-tp38mbd6Q6g.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "e5116a4c59f7a4f51e9bb0772bdc48f8559cd1391d340e79a1e2d97778f6477d",
+  "source_snapshot": "youtube-video-2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-48ff0090d5-6a5053e16b2da9beb137.json",
+  "version": "4"
+}

@@ -1,0 +1,86 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "youtube",
+  "content_hash": "b8a4bb57aa2b17d1e42670e25c970de5266e972a12c6afad6a9773b32f856762",
+  "date": "2026-04-10",
+  "date_basis": "source",
+  "external_id": "Y7y2Od1aHaE",
+  "format": "transcript",
+  "id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a",
+  "metadata_hash": "7038e684f500e9c8de172288d2b1020a4ed788e468284aeed0643434c21a0193",
+  "original_text": "---\nid: Y7y2Od1aHaE\ntitle: 'The Universe definitely has a plan!!! #success'\ndate: '2026-04-10'\nurl: https://www.youtube.com/shorts/Y7y2Od1aHaE\ndescription: ''\nduration: 00:00:19\nmodel: saaras:v3\ntranscript: true\n---\n\n# The Universe definitely has a plan!!! #success\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nThis is the real weather of Dubai in the almost middle of April when you need some sort of a jacket and the skies are like this. I think we are all in the middle of the scene of some horror movie.\n\n### 00:00:14 · Speaker 0\n\nWhat's gonna happen to the body?\n\n### 00:00:15 · Speaker 1\n\nwe'll be the one who survived that\n",
+  "passages": [
+    {
+      "id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:p000001",
+      "locator": "lines 18-18",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:00",
+      "text": "This is the real weather of Dubai in the almost middle of April when you need some sort of a jacket and the skies are like this. I think we are all in the middle of the scene of some horror movie."
+    },
+    {
+      "id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:p000002",
+      "locator": "lines 22-22",
+      "representation": "spoken_turn",
+      "speaker_id": "0",
+      "t": "00:00:14",
+      "text": "What's gonna happen to the body?"
+    },
+    {
+      "id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:p000003",
+      "locator": "lines 26-26",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:15",
+      "text": "we'll be the one who survived that"
+    }
+  ],
+  "path": "youtube/video/2026-04-10-the-universe-definitely-has-a-plan-success-Y7y2Od1aHaE.md",
+  "purpose": "",
+  "relative_path": "youtube/video/2026-04-10-the-universe-definitely-has-a-plan-success-Y7y2Od1aHaE.md",
+  "sha256": "f197e0add2960b780ae459822f3dddbfd1725f93f470a4501bd0abb3185a4bd5",
+  "speakers": {
+    "1": "olgasi"
+  },
+  "title": "The Universe definitely has a plan!!! #success",
+  "units": [
+    {
+      "end": 196,
+      "id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:u000001",
+      "locator": "lines 18-18",
+      "passage_id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:p000001",
+      "raw_text": "This is the real weather of Dubai in the almost middle of April when you need some sort of a jacket and the skies are like this. I think we are all in the middle of the scene of some horror movie.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:00",
+      "text": "This is the real weather of Dubai in the almost middle of April when you need some sort of a jacket and the skies are like this. I think we are all in the middle of the scene of some horror movie."
+    },
+    {
+      "end": 32,
+      "id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:u000002",
+      "locator": "lines 22-22",
+      "passage_id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:p000002",
+      "raw_text": "What's gonna happen to the body?",
+      "representation": "spoken_turn",
+      "speaker_id": "0",
+      "start": 0,
+      "t": "00:00:14",
+      "text": "What's gonna happen to the body?"
+    },
+    {
+      "end": 34,
+      "id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:u000003",
+      "locator": "lines 26-26",
+      "passage_id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a:p000003",
+      "raw_text": "we'll be the one who survived that",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:15",
+      "text": "we'll be the one who survived that"
+    }
+  ],
+  "url": "https://www.youtube.com/shorts/Y7y2Od1aHaE"
+}

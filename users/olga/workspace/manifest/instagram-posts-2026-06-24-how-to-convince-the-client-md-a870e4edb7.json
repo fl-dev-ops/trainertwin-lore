@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "instagram-posts-2026-06-24-how-to-convince-the-client-md-a870e4edb7-93510e50c0c70cde5d86.jsonl",
+  "evidence_hash": "459d0dfd679a50111edba46895b1ab79b65f69db805af9c08b22abe717d3824f",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:08:34Z",
+  "metadata_hash": "8ce590b63d4b63d7175158c00bcc4ada644b5d4bae8f0aec3594ade4d9a675fb",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "93510e50c0c70cde5d86",
+  "snapshot_hash": "820bf6173345155bbc744990bfac3ccacb3d4a13cd8c78fd59acf74b40f900d5",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-06-24-how-to-convince-the-client-md-a870e4edb7",
+  "source_path": "instagram/posts/2026-06-24-how-to-convince-the-client.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "711a81cbdae660f0519246b147b813a245537551ebdba335b9d1bd2cd6482769",
+  "source_snapshot": "instagram-posts-2026-06-24-how-to-convince-the-client-md-a870e4edb7-93510e50c0c70cde5d86.json",
+  "version": "4"
+}

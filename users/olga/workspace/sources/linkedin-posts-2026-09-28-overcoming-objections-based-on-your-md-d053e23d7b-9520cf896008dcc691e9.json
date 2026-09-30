@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "3587fe08fed0035555ac96ef297522005897159b468443af9385bd75fdc469fd",
+  "date": "2026-09-28T11:32:35.123000Z",
+  "date_basis": "source",
+  "external_id": "7510300421513703425",
+  "format": "post",
+  "id": "linkedin-posts-2026-09-28-overcoming-objections-based-on-your-md-d053e23d7b",
+  "metadata_hash": "3a4366896a1af1e03f8a598f306fc2360c66fa7b9045548fb93947a56a6b6a75",
+  "original_text": "---\nid: '7510300421513703425'\ndate: '2026-09-28T11:32:35.123Z'\nurl: https://www.linkedin.com/posts/olgasi_overcoming-objections-based-on-your-own-deep-activity-7510300421513703425--9mP\nlikes: 21\ncomments: 1\nvideoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQECjjJTe-MtYQ/mp4-720p-30fp-crf28/B4DaDcP3Y2JUCQ-/0/1790401553160?e=1791298800&v=beta&t=FcelhsbyTvHd4lmcbjjbRyA2g9NCtVY9JvuhyBUx2is\n---\n\nOvercoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!\n\n## Comments (1)\n\n### Tahmina Yaqoob (Business Developer | Market Research Specialist | Helping Businesses Build Professional Websites & Boost Online Visibility | Relationship Builder | Community Connector)\n> Absolutely. Olga Sinenko Deep market understanding turns objections into opportunities to create real value, build trust, and communicate with confidence. The better you understand your customer’s world, the better you can address what truly matters. \n> \n> What do you think is the biggest mistake people make when handling objections?\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-09-28-overcoming-objections-based-on-your-md-d053e23d7b:p000001",
+      "locator": "lines 10-10",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Overcoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!"
+    }
+  ],
+  "path": "linkedin/posts/2026-09-28-overcoming-objections-based-on-your.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-09-28-overcoming-objections-based-on-your.md",
+  "sha256": "fafb92b2482d8cf0cf5099b02301cf068ff50f04e91063b8600810cd19a9f043",
+  "speakers": {},
+  "title": "Overcoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!",
+  "units": [
+    {
+      "end": 100,
+      "id": "linkedin-posts-2026-09-28-overcoming-objections-based-on-your-md-d053e23d7b:u000001",
+      "locator": "lines 10-10",
+      "passage_id": "linkedin-posts-2026-09-28-overcoming-objections-based-on-your-md-d053e23d7b:p000001",
+      "raw_text": "Overcoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Overcoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_overcoming-objections-based-on-your-own-deep-activity-7510300421513703425--9mP"
+}

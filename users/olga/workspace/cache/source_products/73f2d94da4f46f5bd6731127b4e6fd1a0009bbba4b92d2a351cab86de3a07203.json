@@ -1,0 +1,100 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Just wanted to brag about my client 👏",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author uses a rhetorical move to highlight personal success by stating, 'Just wanted to brag about my client 👏'."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Rhetorical Tone of Achievement",
+      "topic": "personal success"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "in this Highly Uncertain Market - sales skills are the biggest asset",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "To enhance sales skills in a highly uncertain market."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "learned the Questions framework with Neuro Emotional persuasion twist",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Ekaterina learned the Questions framework with Neuro Emotional persuasion twist."
+      },
+      "title": "Questions Framework with Neuro Emotional Persuasion",
+      "topic": "sales skills"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "now I have consultancy agreement with her Own Agency Expat Key",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author transitioned from coaching Ekaterina to having a consultancy agreement with her agency Expat Key."
+      },
+      "title": "Transition from Client to Consultant",
+      "topic": "coaching outcome"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "in this Highly Uncertain Market - sales skills are the biggest asset",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "In a highly uncertain market, sales skills are the biggest asset."
+      },
+      "title": "Sales Skills as an Asset",
+      "topic": "sales skills"
+    }
+  ]
+}

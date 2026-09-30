@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "50705a2c86ba49a00d2c67f1475b9b29f3f8555a52831f4e29241f814eb492de",
+  "date": "2026-04-06T07:12:14.592000Z",
+  "date_basis": "source",
+  "external_id": "7446817027777839104",
+  "format": "post",
+  "id": "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717",
+  "metadata_hash": "279a104512ae31f2cb664afec15a82775d977cf424fddfa1f5794140abad18ef",
+  "original_text": "---\nid: '7446817027777839104'\ndate: '2026-04-06T07:12:14.592Z'\nurl: https://www.linkedin.com/posts/olgasi_how-you-should-change-your-strategy-now-to-activity-7446817027777839104-zlsx\nlikes: 17\ncomments: 0\nvideoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQGWyQqTzuj_ig/mp4-720p-30fp-crf28/B4DZ1hol6.JQBI-/0/1775459531799?e=1791298800&v=beta&t=j6NAiBWuz_1PSKlwNjITMoFDdDgxvgCS1GcZgZt7SW0\n---\n\nHow you Should Change your Strategy Now to Make it?\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717:p000001",
+      "locator": "lines 10-10",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "How you Should Change your Strategy Now to Make it?"
+    }
+  ],
+  "path": "linkedin/posts/2026-04-06-how-you-should-change-your.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-04-06-how-you-should-change-your.md",
+  "sha256": "f851d6b5af675296984cfa22010ffff07113eb39ec37d15fb1f83e41846bc648",
+  "speakers": {},
+  "title": "How you Should Change your Strategy Now to Make it?",
+  "units": [
+    {
+      "end": 51,
+      "id": "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717:u000001",
+      "locator": "lines 10-10",
+      "passage_id": "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717:p000001",
+      "raw_text": "How you Should Change your Strategy Now to Make it?",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "How you Should Change your Strategy Now to Make it?"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_how-you-should-change-your-strategy-now-to-activity-7446817027777839104-zlsx"
+}

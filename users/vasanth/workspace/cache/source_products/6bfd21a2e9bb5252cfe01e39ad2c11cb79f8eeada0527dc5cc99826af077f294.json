@@ -1,0 +1,267 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000012"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "I was tasked with like a dashboard loading that is ten second.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Vasanth illustrates how to explain a project where he improved a dashboard's loading time from ten seconds to under two seconds."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Explaining Project Steps",
+      "topic": "interview preparation"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000010"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "Vasanth details a six-part rule to structure responses: pick a challenge, provide context, highlight your role, explain your approach, share the result, reflect on lessons learned."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Interview Response Structure",
+      "topic": "interview preparation"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002",
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "picking the tasks that are too simple.",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "very complicated extremely complicated scenario they pick and they fail to justify.",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "they stay fail to highlight their contribution, also not able to mention the impact.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Common mistakes include picking tasks that are too simple, choosing overly complicated scenarios, failing to highlight personal contribution, and not mentioning the impact of the project."
+      },
+      "title": "Common Mistakes in Project Explanation",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006",
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there's a only way to assess is like dig deeper and understand one of your past projects.",
+            "unit_id": "u000006"
+          },
+          {
+            "quote": "assess your ability to handle challenges, your decision making and problem solving skills.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Explaining past projects is important because it helps interviewers assess technical skills, decision making, and problem-solving abilities."
+      },
+      "title": "Importance of Project Explanation in Interviews",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "do not overwhelm the interviewer.",
+              "unit_id": "u000010"
+            }
+          ],
+          "text": "Do not overwhelm the interviewer with too much information."
+        },
+        {
+          "citations": [
+            {
+              "quote": "pick a decent size problem.",
+              "unit_id": "u000013"
+            }
+          ],
+          "text": "The explanation should cover a decent-sized problem, not too trivial or overly complicated."
+        }
+      ],
+      "context_unit_ids": [
+        "u000008",
+        "u000009",
+        "u000010"
+      ],
+      "exceptions": [
+        {
+          "citations": [
+            {
+              "quote": "You can skip the lesson learned if you think like interview is not very interested.",
+              "unit_id": "u000013"
+            }
+          ],
+          "text": "You can skip the lesson learned if the interviewer is not interested."
+        }
+      ],
+      "goal": {
+        "citations": [
+          {
+            "quote": "do not overwhelm the interviewer.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "Effectively communicate past project experiences in interviews."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned.",
+              "unit_id": "u000010"
+            }
+          ],
+          "text": "Pick a challenge that highlights your skills."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Provide context like I wouldn't know about your product very well.",
+              "unit_id": "u000009"
+            }
+          ],
+          "text": "Provide context about the product and your role."
+        },
+        {
+          "citations": [
+            {
+              "quote": "explain like what is the problem, what was your approach, how you solved it.",
+              "unit_id": "u000013"
+            }
+          ],
+          "text": "Explain your approach and the solution implemented."
+        },
+        {
+          "citations": [
+            {
+              "quote": "what is the impact.",
+              "unit_id": "u000013"
+            }
+          ],
+          "text": "Share the results and impact of your work."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Lesson learned? The importance of profiling and back end collaboration.",
+              "unit_id": "u000013"
+            }
+          ],
+          "text": "Reflect on lessons learned, if relevant."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "A structured approach to explaining past projects in interviews."
+      },
+      "title": "Efficiently Answering Project Questions",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The best way probably according to you master this question very well is discuss with one of your peers who are relatively having more knowledge about the product.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "Discussing with knowledgeable peers or conducting mock interviews can help improve performance on project-related questions."
+      },
+      "title": "Importance of Mock Interviews",
+      "topic": "interview practice"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014",
+        "u000015"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you want to take mock interview from me, the link is in the comments description section.",
+            "unit_id": "u000014"
+          },
+          {
+            "quote": "subscribe to my channel career with vasant... follow me on linkedin... in youtube follow me on medium.",
+            "unit_id": "u000015"
+          }
+        ],
+        "text": "Vasanth offers mock interviews and encourages viewers to engage with his content on multiple platforms."
+      },
+      "title": "Promoting Services and Community Engagement",
+      "topic": "self-promotion"
+    }
+  ]
+}

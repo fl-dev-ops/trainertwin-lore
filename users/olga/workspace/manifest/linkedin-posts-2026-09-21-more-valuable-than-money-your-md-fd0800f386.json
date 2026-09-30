@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-09-21-more-valuable-than-money-your-md-fd0800f386-ced6e485f31f4797b52d.jsonl",
+  "evidence_hash": "56f965221ea6a31ce195e81405de2bf46b078774ed214ec8a735f2eb722e0256",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:17:06Z",
+  "metadata_hash": "c4fcfea47e9a20588519d46bc591ba85c22a0880922a9c22d5dc54ec4468bda5",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "ced6e485f31f4797b52d",
+  "snapshot_hash": "7f99ed3a5a2d41afaa015c52106a6e37c86d4e843d40d76966ef22f316752008",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-09-21-more-valuable-than-money-your-md-fd0800f386",
+  "source_path": "linkedin/posts/2026-09-21-more-valuable-than-money-your.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "db67a5781d161bda3247d9818e8e2c2f25fd9a449306548f962cff97f8c30f03",
+  "source_snapshot": "linkedin-posts-2026-09-21-more-valuable-than-money-your-md-fd0800f386-ced6e485f31f4797b52d.json",
+  "version": "4"
+}

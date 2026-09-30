@@ -1,0 +1,29 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 0,
+  "evidence_file": "instagram-posts-2026-05-28-full-training-on-my-youtube-md-091d9c0f5c-439616ed04188dd2d561.jsonl",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:07:09Z",
+  "metadata_hash": "cb93120ebc0cdde765ee8fa4d195cce448437a5485bd0bc76c727867930646fa",
+  "model": "openai/gpt-4o",
+  "products": {},
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 1,
+    "semantic_support": "not_reviewed",
+    "status": "empty",
+    "units_cited": 0,
+    "units_total": 4
+  },
+  "revision": "439616ed04188dd2d561",
+  "snapshot_hash": "ea49b96ceeda54ea569aba5dfc94e8c39471b02996c00dc836955b4d1bbf0a13",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-05-28-full-training-on-my-youtube-md-091d9c0f5c",
+  "source_path": "instagram/posts/2026-05-28-full-training-on-my-youtube.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "d3b5bc591f6169a1abe849fa44e5aef6074ba2f1d36347576b3dd1a8be963244",
+  "source_snapshot": "instagram-posts-2026-05-28-full-training-on-my-youtube-md-091d9c0f5c-439616ed04188dd2d561.json",
+  "version": "4"
+}

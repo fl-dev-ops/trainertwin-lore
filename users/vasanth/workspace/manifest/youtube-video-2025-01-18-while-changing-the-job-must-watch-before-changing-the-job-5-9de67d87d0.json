@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 11,
+  "evidence_file": "youtube-video-2025-01-18-while-changing-the-job-must-watch-before-changing-the-job-5-9de67d87d0-bfb42d187cde7ff39c72.jsonl",
+  "evidence_hash": "cd9b9adb6c7d1ac08dee4131970d38c7031985fe9b458b850a28a8ac82bc8a09",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T21:12:25Z",
+  "metadata_hash": "a3b40846e70fe08eb33b6153c7811a7293a6d22b82eaa25bd147579473d5c945",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 3,
+    "knowledge": 7
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 14,
+    "units_total": 21
+  },
+  "revision": "bfb42d187cde7ff39c72",
+  "snapshot_hash": "e8cb286a056556eb90e2a2d34e9cdbb6db052401ba6d586e937acde4734d02dd",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2025-01-18-while-changing-the-job-must-watch-before-changing-the-job-5-9de67d87d0",
+  "source_path": "youtube/video/2025-01-18-while-changing-the-job-must-watch-before-changing-the-job-5-MubYLbB-A2U.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/vasanth/data",
+  "source_sha256": "f1adf070370fbda7e12ac2a4f203b262e9389553cd060ce41a3bfee6981633ff",
+  "source_snapshot": "youtube-video-2025-01-18-while-changing-the-job-must-watch-before-changing-the-job-5-9de67d87d0-bfb42d187cde7ff39c72.json",
+  "version": "4"
+}

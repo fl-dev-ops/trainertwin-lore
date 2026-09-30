@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "1f57105ad696f3ce6dc1a9a0b73cecae60497a2751e8e6790e1a3a4b4bd92366",
+  "date": "2026-08-25T06:49:16.128000Z",
+  "date_basis": "source",
+  "external_id": "7497907935130505218",
+  "format": "post",
+  "id": "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6",
+  "metadata_hash": "35622da48bad563e6dd6574e87f7da2b18250260478ad4fa3fe068b6aa0372b2",
+  "original_text": "---\nid: '7497907935130505218'\ndate: '2026-08-25T06:49:16.128Z'\nurl: https://www.linkedin.com/posts/olgasi_is-this-already-started-i-keep-seeing-so-activity-7497907935130505218-W9cF\nlikes: 7\ncomments: 1\n---\n\nIs this already Started?\n\nI keep seeing so many Help Me… type of post specifically from Hr and recruitment employees…\n\nThey have been made redundant-now trying to fit the skill set and the salaries…\n\nFor the companies, and maybe for Real Estate industry specifically Hr and Recruiting kinda the “same thing” and Last Market cycle this positions we’re having a bit chunk of Fixed Cost and Business creation.\n\nMore agents = More Business.\n\nSo what is it really The AI is talking this roles at least the admin part of it and they will be Gone soon\nOr\nIt’s a temporary thing??\n\n## Comments (1)\n\n### Olga Sinenko (Dubai Real Estate Sales Mentor & Business Consultant | 11+ years Selling | 6+ years Coaching. Turning “Just send me some options…” into Closed deals.) (Author)\n> Well I personally think- it’s both and Ai in this roles will move faster- and the even after market recovery there will be no “coming back”\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:p000001",
+      "locator": "lines 9-21",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Is this already Started?\n\nI keep seeing so many Help Me… type of post specifically from Hr and recruitment employees…\n\nThey have been made redundant-now trying to fit the skill set and the salaries…\n\nFor the companies, and maybe for Real Estate industry specifically Hr and Recruiting kinda the “same thing” and Last Market cycle this positions we’re having a bit chunk of Fixed Cost and Business creation.\n\nMore agents = More Business.\n\nSo what is it really The AI is talking this roles at least the admin part of it and they will be Gone soon\nOr\nIt’s a temporary thing??"
+    }
+  ],
+  "path": "linkedin/posts/2026-08-25-is-this-already-started-i.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-08-25-is-this-already-started-i.md",
+  "sha256": "b56415328d4a9914df34446e670a7afd632d2bf64bb77f3df3cb2ea1994ceeda",
+  "speakers": {},
+  "title": "Is this already Started?",
+  "units": [
+    {
+      "end": 572,
+      "id": "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:u000001",
+      "locator": "lines 9-21",
+      "passage_id": "linkedin-posts-2026-08-25-is-this-already-started-i-md-a2ba4987a6:p000001",
+      "raw_text": "Is this already Started?\n\nI keep seeing so many Help Me… type of post specifically from Hr and recruitment employees…\n\nThey have been made redundant-now trying to fit the skill set and the salaries…\n\nFor the companies, and maybe for Real Estate industry specifically Hr and Recruiting kinda the “same thing” and Last Market cycle this positions we’re having a bit chunk of Fixed Cost and Business creation.\n\nMore agents = More Business.\n\nSo what is it really The AI is talking this roles at least the admin part of it and they will be Gone soon\nOr\nIt’s a temporary thing??",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Is this already Started? I keep seeing so many Help Me… type of post specifically from Hr and recruitment employees… They have been made redundant-now trying to fit the skill set and the salaries… For the companies, and maybe for Real Estate industry specifically Hr and Recruiting kinda the “same thing” and Last Market cycle this positions we’re having a bit chunk of Fixed Cost and Business creation. More agents = More Business. So what is it really The AI is talking this roles at least the admin part of it and they will be Gone soon Or It’s a temporary thing??"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_is-this-already-started-i-keep-seeing-so-activity-7497907935130505218-W9cF"
+}

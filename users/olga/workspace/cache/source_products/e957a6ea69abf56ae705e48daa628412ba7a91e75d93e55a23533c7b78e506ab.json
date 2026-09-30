@@ -1,0 +1,157 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Training from Me plus Leads Fresh Leads in your Language in the Current Cost Cutting of Dubai Real estate???",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The passage uses rhetorical questions to engage the audience, beginning with 'Training from Me plus Leads Fresh Leads in your Language in the Current Cost Cutting of Dubai Real estate???'"
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Rhetorical Question Usage",
+      "topic": "Rhetorical Question"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I moved far beyond the stage where my role was simply to deliver training.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The passage progresses from discussing a simple role of training to developing a broader culture that improves personal and company trust."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Structure of Expansion",
+      "topic": "Structure"
+    },
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "But Raw and Honest",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The author emphasizes authenticity by promising to post raw and honest content rather than polished ones."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Emphasis on Authenticity",
+      "topic": "Authenticity Emphasis"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "My New partnership with Habico Properties goes beyond just training for agents.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author has a new partnership with Habico Properties that goes beyond just training agents."
+      },
+      "title": "Partnership with Habico Properties",
+      "topic": "Partnership"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "It is about building a culture of ownership, accountability, and solution-based thinking",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Build a culture of ownership, accountability, and solution-based thinking."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "When agents work in such environment where they feel supported, develop professionally",
+              "unit_id": "u000001"
+            }
+          ],
+          "text": "Develop an environment where agents feel supported."
+        },
+        {
+          "citations": [
+            {
+              "quote": "financial results, they do not want to leave.",
+              "unit_id": "u000002"
+            }
+          ],
+          "text": "Encourage professional development and stronger financial results."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "It is about building a culture of ownership, accountability, and solution-based thinking where agents stop looking for excuses and start looking what they can do themselves.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The goal is building a culture of ownership, accountability, and solution-based thinking in agents."
+      },
+      "title": "Building Agent Culture",
+      "topic": "Agent Culture"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Add to it a Step-by-Step mentorship on a personal brand development and lead generation through professional video content and social media",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Offer step-by-step mentorship on personal brand development and lead generation through professional video content and social media."
+      },
+      "title": "Mentorship and Lead Generation",
+      "topic": "Mentorship"
+    }
+  ]
+}

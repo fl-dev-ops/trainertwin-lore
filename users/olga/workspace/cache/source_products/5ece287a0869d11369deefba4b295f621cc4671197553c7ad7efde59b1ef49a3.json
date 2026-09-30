@@ -1,0 +1,188 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000204",
+        "u000205"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "I'm sweating only when I'm thinking about the cold call. I'm not confident",
+            "unit_id": "u000204"
+          }
+        ],
+        "text": "Fear and lack of confidence in cold calling is expressed."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Maybe you can you will read it and you will get very very upset disappointment, cold calling sellers. Oh God, I'm so afraid of rejection.",
+            "unit_id": "u000204"
+          }
+        ],
+        "text": "A person expresses anxiety about making cold calls due to fear of rejection."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "this training is not for you to become confident. I'm not going to boost your ego... It's going to be probably another training.",
+            "unit_id": "u000204"
+          }
+        ],
+        "text": "The speaker offers that another training focused on rejection and confidence will be necessary."
+      },
+      "title": "Handling Cold Call Anxiety",
+      "topic": "cold_calling"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000214",
+        "u000216"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I'm not sure if it's right time, but I hope to ask you something really quick and then you decide.",
+            "unit_id": "u000214"
+          }
+        ],
+        "text": "The speaker uses uncertain language to create curiosity ('I'm not sure if it's the right time, but I hope to ask you something really quick and then you decide.') to lead the listener into engagement."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Pattern Interrupt Explanation",
+      "topic": "sales_techniques"
+    },
+    {
+      "context_unit_ids": [
+        "u000213",
+        "u000217"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Gives him a illusion of he is making his own choice. Is his choice, will we continue conversation or not?",
+            "unit_id": "u000217"
+          }
+        ],
+        "text": "The speaker infers that creating curiosity naturally moves the listener to engage without resistance ('He is making his own choice. Is his choice, will we continue conversation or not?')."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Curiosity-Driven Engagement",
+      "topic": "sales_techniques"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000203"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "listing agent is the one who can actually predict his income, who can grow, who can build up the relationship and have consistent and continuous relationship with the same sellers who can get better referrals",
+            "unit_id": "u000203"
+          }
+        ],
+        "text": "A listing agent can predict income, build relationships with sellers, and get better referrals."
+      },
+      "title": "Listing Agent Benefits",
+      "topic": "real_estate_strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000205",
+        "u000206",
+        "u000209"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "cold calling with a pattern interrupt what I'm saying the the most valuable skill for you starting real estate is to sound not like every other salesperson",
+            "unit_id": "u000205"
+          },
+          {
+            "quote": "when you have curiosity, you do not have resistance, you're curious. So, when you're going to be using my pattern interrupts, the different way",
+            "unit_id": "u000209"
+          }
+        ],
+        "text": "Using a pattern interrupt in cold calling can help an agent stand out from other salespeople and engage the seller's curiosity."
+      },
+      "title": "Pattern Interrupt in Cold Calling",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000207"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Do not ever on a cold call on a first call to ask how are you? Do you know why? Because asking how are you is the same as how can I help you today.",
+            "unit_id": "u000207"
+          }
+        ],
+        "text": "Avoid asking 'how are you?' during a cold call, as it suggests insincerity and attempts to build rapport artificially."
+      },
+      "title": "Avoid Asking 'How Are You?' in Cold Calls",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000219",
+        "u000226"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm calling because I have a pre-approved mortgage buyer",
+            "unit_id": "u000219"
+          },
+          {
+            "quote": "the cash buyer always going to try to squeeze lower price. The pre-approved, on the other hand, usually going to be an end user, so they are additionally attached to the property",
+            "unit_id": "u000226"
+          }
+        ],
+        "text": "Using the strategy of having a pre-approved mortgage buyer can be advantageous since such buyers are perceived as more serious and willing to pay a bit more than cash buyers."
+      },
+      "title": "Using Pre-Approved Mortgage Buyer Strategy",
+      "topic": "real_estate_strategy"
+    }
+  ]
+}

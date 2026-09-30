@@ -1,0 +1,285 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000228"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "to actually call to the client. You can role play it with Chat GPT even as well.",
+            "unit_id": "u000228"
+          }
+        ],
+        "text": "A salesperson needs to practice their pitch before calling clients."
+      },
+      "speaker_id": "1",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "You have to make absolute sure that you are using the same word patterns.",
+            "unit_id": "u000228"
+          }
+        ],
+        "text": "Role-playing with Chat GPT to ensure consistency in word patterns and questions."
+      },
+      "title": "Role-playing for consistency",
+      "topic": "sales training"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000250"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "there is no personality, there is no visibility, there is nothing. It's so easy for me as a client to say no, not interested on a text. And it's way harder for me to say no or go someone with whom I had a good conversation.",
+            "unit_id": "u000250"
+          }
+        ],
+        "text": "The speaker contrasts the impersonality of text communication with the meaningfulness of phone conversations, emphasizing the difficulty of refusal over a call."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Value of Phone Conversations Over Text",
+      "topic": "sales strategy"
+    },
+    {
+      "context_unit_ids": [
+        "u000245"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "It's just minimum two hundred fifty dirhams per lead. I'm talking about lead, not the answered call, just the lead.",
+            "unit_id": "u000245"
+          }
+        ],
+        "text": "The speaker explains the reality of expensive leads in Dubai's real estate market and manages expectations about their conversion rate."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Highlighting Realities of Lead Conversion in Dubai Real Estate",
+      "topic": "real estate market"
+    },
+    {
+      "context_unit_ids": [
+        "u000244"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "track your metrics, which is the dials, how many dials you've done a day, how many leads answered, and then it's good for you to understand, okay, I've been dialing this time and I've been dialing this time.",
+            "unit_id": "u000244"
+          }
+        ],
+        "text": "The speaker outlines the importance of tracking metrics like the number of dials, responses, and conversions to meetings to understand sales performance."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Explaining Sales Metrics Importance",
+      "topic": "sales strategy"
+    },
+    {
+      "context_unit_ids": [
+        "u000254",
+        "u000255"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "what was the um what was about the project that attracted you to respond?",
+            "unit_id": "u000254"
+          }
+        ],
+        "text": "The speaker emphasizes interactive engagement, using questions that lead the client to articulate their own interest and needs."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Interactive Engagement with Clients",
+      "topic": "sales strategy"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "fair enough because the the simple follow the structure rule gonna help you with getting way more, I would say, fifty percent as I promised you.",
+              "unit_id": "u000228"
+            }
+          ],
+          "text": "You must follow the structure rule to help with getting significantly more results, potentially fifty percent improvement."
+        }
+      ],
+      "context_unit_ids": [
+        "u000228"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You can role play it with Chat GPT even as well. You have to make absolute sure that you are using the same word patterns.",
+            "unit_id": "u000228"
+          }
+        ],
+        "text": "You can role play with Chat GPT to ensure you use the same word patterns and don't forget to ask the right questions."
+      },
+      "title": "Role-playing with Chat GPT",
+      "topic": "sales training"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000229",
+        "u000230"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Welcome to the off-plan sales process, and if you are now selling secondary, and you just think, what's the difference rather than commission, which we already discussed, that in off-plan you are getting the cut of five or six or seven or maybe ten percent, which is fifty percent for you, two and a half, maybe three even percent in your pocket.",
+            "unit_id": "u000229"
+          },
+          {
+            "quote": "The main difference between you having a client and a secondary market where you listed the property for sales rental.",
+            "unit_id": "u000230"
+          }
+        ],
+        "text": "The main difference between off-plan sales and the secondary market in the context of Dubai real estate is the potential commission rate and the client's awareness of the property area and process."
+      },
+      "title": "Understanding the Difference in Real Estate Markets",
+      "topic": "real estate market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000232",
+        "u000233"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "lead generation in Dubai real estate for off-plant project is mainly done through social media or Google AdWords.",
+            "unit_id": "u000232"
+          },
+          {
+            "quote": "You click, you're going to fall into the deeper hole and then want to add more in, want to know more information.",
+            "unit_id": "u000233"
+          }
+        ],
+        "text": "Lead generation for off-plan projects in Dubai is mainly done through social media or Google AdWords, with many leads being captured without the client's active input."
+      },
+      "title": "Lead Generation in Dubai Real Estate",
+      "topic": "lead generation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000246",
+        "u000247"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "Conversation conversion to the next step.",
+            "unit_id": "u000247"
+          }
+        ],
+        "text": "Maximize the potential for closing deals by converting conversations into booked meetings."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "you always book a meeting from a meeting, meaning not a meeting, meeting from a call or from any interaction.",
+              "unit_id": "u000246"
+            }
+          ],
+          "text": "Aim to book a meeting from any initial conversation or interaction."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you always book a meeting from a meeting, meaning not a meeting, meeting from a call or from any interaction.",
+            "unit_id": "u000246"
+          }
+        ],
+        "text": "You must always aim to book a meeting from any conversation or interaction to maximize the potential for closing deals."
+      },
+      "title": "Booking meetings from conversations",
+      "topic": "sales strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000254",
+        "u000255"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "what was the um what was about the project that attracted you to respond?",
+            "unit_id": "u000254"
+          }
+        ],
+        "text": "Encourage clients to reflect on and communicate their initial interest in a project."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "my favorite question on that is like, um when you when you saw the ad, like, um besides the shiny computer graphics of Dubai, what was the um what was about the project that attracted you to respond?",
+              "unit_id": "u000254"
+            }
+          ],
+          "text": "Ask clients what attracted them to the project when they first saw the ad."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "what was the um what was about the project that attracted you to respond?",
+            "unit_id": "u000254"
+          }
+        ],
+        "text": "Engage clients meaningfully by helping them articulate what attracted them to the project, reinforcing their interest."
+      },
+      "title": "First Client Call Strategy",
+      "topic": "sales strategy"
+    }
+  ]
+}

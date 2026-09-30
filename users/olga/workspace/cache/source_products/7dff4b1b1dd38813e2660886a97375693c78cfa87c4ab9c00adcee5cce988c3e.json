@@ -1,0 +1,138 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "# 3 Decisions Drei Entscheidungen\nWe make every moment of our lives",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "An image presents three decisions that individuals make every moment of their lives."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Three decisions",
+      "topic": "decision-making"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Tony event was my LV bag… No offense ladies…",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The author compares attending a Tony Robbins event to buying a luxury handbag."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Comparison to luxury goods",
+      "topic": "personal investment"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Everything we do in life is an investment… time and money go in and out all the time!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text frames life choices as investments of time and money, contrasting standard material investments with personal development."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Investment framing",
+      "topic": "personal investment"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "First big money I’ve made I invested in MBA - it’s 2016 University of Wollongong and 5 sessions a week with a personal trainer- no Joke did it in October 2016 both.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author reports investing their first substantial earnings in an MBA at the University of Wollongong and personal training sessions in October 2016, instead of luxury goods."
+      },
+      "title": "Investment in personal development",
+      "topic": "personal investment"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Instead of “Wanting to Have” - “ I wanted to Become!”",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The author values personal growth and becoming someone over owning material possessions."
+      },
+      "title": "Value of growth over materialism",
+      "topic": "personal investment"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "And even if you do not spend any money on Developing your skills, or body… you pay for that - but more with the Opportunity Cost.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Not investing in personal development can lead to paying with opportunity cost."
+      },
+      "title": "Investment as opportunity cost",
+      "topic": "personal investment"
+    }
+  ]
+}

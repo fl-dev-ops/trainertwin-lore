@@ -1,0 +1,33 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Add your Number in a comment!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author employs a rhetorical question to engage the audience by asking them to imagine having a choice between two options, followed by a call-to-action: \"Add your Number in a comment!\""
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "Add your Number in a comment!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The purpose is to engage the audience and solicit their opinions or preferences."
+      },
+      "speaker_id": null,
+      "title": "Direct audience engagement",
+      "topic": "audience engagement"
+    }
+  ],
+  "knowledge": []
+}

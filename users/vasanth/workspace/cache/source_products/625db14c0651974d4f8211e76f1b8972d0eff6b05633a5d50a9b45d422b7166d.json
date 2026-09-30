@@ -1,0 +1,182 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000193",
+        "u000197",
+        "u000219"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Yeah, hi Usanta. So, it's like quite long I'm not working like I got laid off in TechM. It's been one and a half years now.",
+            "unit_id": "u000193"
+          },
+          {
+            "quote": "So still I'm thinking somewhere I face like most of the times like either they are waiting for project or maybe most of the people are outsourcing.",
+            "unit_id": "u000197"
+          }
+        ],
+        "text": "Santosh shares being laid off and clearing over ten technical interviews."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Yeah, hi Usanta. So, it's like quite long I'm not working like I got laid off in TechM. It's been one and a half years now.",
+            "unit_id": "u000193"
+          }
+        ],
+        "text": "Santosh describes being laid off and struggles to secure a new job despite clearing over ten technical interviews."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Job Market Challenges",
+      "topic": "Job market challenges"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000186"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "This is this is something I strongly believe. It may not happen but this is just my belief.",
+            "unit_id": "u000186"
+          }
+        ],
+        "text": "The speaker presents a belief with a conditional outcome, prefaced by a phrase indicating personal belief."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Belief Statement",
+      "topic": "AI and future regulation"
+    },
+    {
+      "context_unit_ids": [
+        "u000189"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "the the fastest thing as we all know today travel is light, three lakh kilometer per second. That is something that the fastest thing. There is nothing that is faster than the speed of light today, correct? Super intelligence could be a way where",
+            "unit_id": "u000189"
+          }
+        ],
+        "text": "The speaker uses an analogy comparing the speed of light to super intelligence to illustrate potential advancements."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Analogy for Super Intelligence",
+      "topic": "AI and future regulation"
+    },
+    {
+      "context_unit_ids": [
+        "u000212",
+        "u000214"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "See, there are two things in life, things which you can control, things which you can influence.",
+            "unit_id": "u000212"
+          },
+          {
+            "quote": "things which you cannot control don't try to control it.",
+            "unit_id": "u000214"
+          }
+        ],
+        "text": "The speaker offers advice by categorizing life issues into two control types, suggesting a clear strategy towards each category."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Advice on Control and Influence",
+      "topic": "Control and influence"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000186"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "it might be like matter of two to three years where the situation becomes so worse, governments will come together and enforce some rule. This is this is something I strongly believe.",
+            "unit_id": "u000186"
+          }
+        ],
+        "text": "The speaker strongly believes that in the future, governments will come together and enforce rules in response to worsening situations caused by technology, though acknowledges this may not happen."
+      },
+      "title": "Belief on Government Intervention",
+      "topic": "AI and future regulation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000188",
+        "u000189",
+        "u000190",
+        "u000191"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But I I strong I strongly believe if if at least on the research and that science field if there is no restriction then we'll encounter a state called super intelligence.",
+            "unit_id": "u000188"
+          }
+        ],
+        "text": "The speaker strongly believes that if research restrictions are absent, humanity may encounter super intelligence."
+      },
+      "title": "Concept of Super Intelligence",
+      "topic": "AI and future regulation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000212",
+        "u000214"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there are two things in life, things which you can control, things which you can influence.",
+            "unit_id": "u000212"
+          },
+          {
+            "quote": "things which you cannot control don't try to control it.",
+            "unit_id": "u000214"
+          }
+        ],
+        "text": "There are two things in life, things which you can control and things which you can influence. Things which cannot be controlled should not be tried to be controlled."
+      },
+      "title": "Elements of Control and Influence",
+      "topic": "Control and influence"
+    }
+  ]
+}

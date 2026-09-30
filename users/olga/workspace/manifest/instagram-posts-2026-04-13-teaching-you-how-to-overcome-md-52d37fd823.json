@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-04-13-teaching-you-how-to-overcome-md-52d37fd823-a71473024d2ee0c29e27.jsonl",
+  "evidence_hash": "95ae0021c575c91b1c739355a459043e9b37fc02c9ee3b4e2b6f00f683d225ac",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:05:20Z",
+  "metadata_hash": "9c4875b44b7f8c957a7b0999147a05ef2a32765f3ba20748dc0f468b89951c77",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 2
+  },
+  "revision": "a71473024d2ee0c29e27",
+  "snapshot_hash": "349f86b656eac87a91f5bdf07f724c14f8949dae779fe9a7936174a38bdfa352",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-04-13-teaching-you-how-to-overcome-md-52d37fd823",
+  "source_path": "instagram/posts/2026-04-13-teaching-you-how-to-overcome.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "ef4c1f11e360beb587ef54bdc823de86444920f2904d253d29161f10e3c86f0c",
+  "source_snapshot": "instagram-posts-2026-04-13-teaching-you-how-to-overcome-md-52d37fd823-a71473024d2ee0c29e27.json",
+  "version": "4"
+}

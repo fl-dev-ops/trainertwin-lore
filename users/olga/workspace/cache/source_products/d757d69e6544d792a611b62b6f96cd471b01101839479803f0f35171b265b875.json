@@ -1,0 +1,249 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000062",
+        "u000063",
+        "u000064",
+        "u000065"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "they think it all, it didn't work and then okay so let's get some magic out, Olga.",
+            "unit_id": "u000062"
+          }
+        ],
+        "text": "Agents feel they have no deals, cannot pay bills, and seek a solution from Olga's strategy session."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "commission breath. This is my favorite one that's not actually my technology.",
+            "unit_id": "u000066"
+          }
+        ],
+        "text": "Olga describes 'commission breath' and advises entering client interactions from a higher status to avoid desperation affecting sales."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "those agents who are starting into buy real estate without any proper structure, without any proper skills",
+            "unit_id": "u000061"
+          }
+        ],
+        "text": "Agents without structure or skills face desperation in real estate, impacting their ability to close deals."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Reactions to Desperation in Sales",
+      "topic": "status perception"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000063"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "commission breath. This is my favorite one that's not actually my technology.",
+            "unit_id": "u000063"
+          }
+        ],
+        "text": "'Commission breath' is used as a metaphor to describe the desperation in selling that can repel clients."
+      },
+      "purpose": null,
+      "speaker_id": "3",
+      "title": "Metaphor: 'Commission Breath'",
+      "topic": "commission breath"
+    },
+    {
+      "context_unit_ids": [
+        "u000076",
+        "u000077",
+        "u000078",
+        "u000079",
+        "u000080"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "You definitely heard about fight or flight response. This is our sympathetic nervous system.",
+            "unit_id": "u000078"
+          }
+        ],
+        "text": "Draws an analogy between human responsive mechanisms to threats and clients' reactions to perceived 'sales threats' to explain sales resistance."
+      },
+      "purpose": null,
+      "speaker_id": "3",
+      "title": "Analogy: Salesperson as Threat",
+      "topic": "sales resistance"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000065",
+        "u000066"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you survive, you drop your status and he becomes an authority and you are someone who is begging him to work with you.",
+            "unit_id": "u000065"
+          },
+          {
+            "quote": "Where I teach always to walk into any conversation with the client from their higher status because think normally about this.",
+            "unit_id": "u000066"
+          }
+        ],
+        "text": "It's advised to enter conversations with clients from a higher status, positioning oneself as the one who can help, rather than needing help."
+      },
+      "title": "Importance of Higher Status in Sales",
+      "topic": "higher status"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000068"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "seems like you responded to one of the ads and asked us to call you back, possibly looking for help. See? You're possibly looking for help.",
+            "unit_id": "u000068"
+          }
+        ],
+        "text": "To condition clients so they feel they are seeking help, influencing their perception of the interaction."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "So I'm conditioning my client to feel that he is the one who is looking for help.",
+              "unit_id": "u000068"
+            }
+          ],
+          "text": "Use language and questions that frame the client as seeking help."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So I'm conditioning my client to feel that he is the one who is looking for help. This is exactly what narrow emotional persuasion does.",
+            "unit_id": "u000068"
+          }
+        ],
+        "text": "Condition the client to feel that they are the one seeking help through specific verbal structures."
+      },
+      "title": "Technique of Narrow Emotional Persuasion",
+      "topic": "emotional persuasion"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000077",
+        "u000078",
+        "u000079",
+        "u000080",
+        "u000081",
+        "u000082",
+        "u000083",
+        "u000084",
+        "u000085",
+        "u000086",
+        "u000087",
+        "u000088",
+        "u000089"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "but that's a mediated reaction of something that you perceive as a threat.",
+            "unit_id": "u000079"
+          },
+          {
+            "quote": "because of all of their build up experience not you specifically the other guys before you was trying to sell him something",
+            "unit_id": "u000089"
+          }
+        ],
+        "text": "Sales resistance occurs when a client perceives a threat, often due to prior negative experiences with salespeople. To overcome this, ensure the client feels in control of their decision."
+      },
+      "title": "Sales Resistance Breaking Technique",
+      "topic": "sales resistance"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000069",
+        "u000070",
+        "u000071"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "not repeating the word by word the questions as I created them.",
+            "unit_id": "u000070"
+          },
+          {
+            "quote": "That's why I'm always saying to my agents in my coaching, my scripts are based on right questions.",
+            "unit_id": "u000069"
+          }
+        ],
+        "text": "Use scripted questions and tone as designed in training to invoke emotional persuasion, without deviating from the script until sufficiently skilled."
+      },
+      "title": "Establishing Emotional Persuasion",
+      "topic": "emotional persuasion"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000075",
+        "u000076"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "get yourself in the mode of generating new conversation with potential clients, whatever it will be",
+            "unit_id": "u000075"
+          }
+        ],
+        "text": "Agents should schedule time to generate new conversations with potential clients to reduce desperation and increase sales success."
+      },
+      "title": "Generating New Conversations as a Sales Strategy",
+      "topic": "client acquisition"
+    }
+  ]
+}

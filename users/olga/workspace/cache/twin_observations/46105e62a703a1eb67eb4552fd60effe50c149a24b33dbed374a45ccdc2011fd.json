@@ -1,0 +1,50 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-1c8a7c2f7176909b",
+          "quote": "Hi I’m Olga the Top 1 Sales coach in the whole world entire world with this and that certification!!! (🤪Just used it for example- I’ve never done it this way)",
+          "unit_id": "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The author uses a hypothetical example to demonstrate how not to introduce oneself at a networking event.",
+      "proposed_adaptation": {
+        "action": "Use hypothetical negative examples to illustrate ineffective communication styles.",
+        "limits": "Hypothetical examples should not be mistaken for empirical evidence.",
+        "when": "crafting introductions for professional networking"
+      },
+      "qualification": "This is a hypothetical case devised by the author and not an account of an observed interaction.",
+      "scope": "linkedin",
+      "situation": "The post warns against an ineffective introduction style at networking events.",
+      "support_ids": [
+        "ex-1c8a7c2f7176909b"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-8b01e901ecd8095c",
+          "quote": "Getting Ghosted by your Clients?… Here is what you should Do! 1. Stop sending Listings and Fact sheets! 2. Ask …. Have you found what you were looking for or…. You are still looking ?",
+          "unit_id": "linkedin-posts-2026-09-17-getting-ghosted-by-your-clients-md-4c3ab06c31:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "Instead of sending more listings and fact sheets, directly ask the client if they have found what they were looking for or are still searching.",
+      "proposed_adaptation": {
+        "action": "Directly inquire if prospects have found what they need instead of providing additional documentation.",
+        "limits": "Strategy may not apply in situations where prior communication has been entirely missed or ignored.",
+        "when": "addressing a lack of response from prospective clients"
+      },
+      "qualification": "This advice is provided as an illustration, not as a proven strategy based on testing or measured outcomes.",
+      "scope": "linkedin",
+      "situation": "Clients stopping communication after initial contact, commonly referred to as being 'ghosted'.",
+      "support_ids": [
+        "ex-8b01e901ecd8095c"
+      ]
+    }
+  ]
+}

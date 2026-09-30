@@ -1,0 +1,50 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "11+ yrs selling Dubai real estate",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Olga Sinenko claims to have over 11 years of experience selling real estate in Dubai."
+      },
+      "title": "real estate experience",
+      "topic": "professional background"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Start with FREE Sales Training on Telegram",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Olga Sinenko offers free sales training on Telegram."
+      },
+      "title": "sales training offer",
+      "topic": "sales training"
+    }
+  ]
+}

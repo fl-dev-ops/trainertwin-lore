@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "youtube-video-2026-04-29-dubai-agents-if-client-say-i-ll-wait-answer-this-before-you-4c0ad26e8a-07b2f37878f1cff79824.jsonl",
+  "evidence_hash": "8271b18d03adde91676ba4b145abab95bf5597abe538b9a3fcdec92e039e054a",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:11:31Z",
+  "metadata_hash": "571cdbaa12b81b32389f656d36f9ae6d608189ec9a84da052ccc393f994885c5",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 5
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 8,
+    "units_total": 32
+  },
+  "revision": "07b2f37878f1cff79824",
+  "snapshot_hash": "40164c5fb6f6ab80231dd43aaade1b410eefca4e4b1718284d346b73f68d7ef9",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-04-29-dubai-agents-if-client-say-i-ll-wait-answer-this-before-you-4c0ad26e8a",
+  "source_path": "youtube/video/2026-04-29-dubai-agents-if-client-say-i-ll-wait-answer-this-before-you-jdVOWThjPM0.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "d59fc39d2e4f4fd47f65a30c497d11cf6afb743b0e33f5d7b4a97115062c9dc5",
+  "source_snapshot": "youtube-video-2026-04-29-dubai-agents-if-client-say-i-ll-wait-answer-this-before-you-4c0ad26e8a-07b2f37878f1cff79824.json",
+  "version": "4"
+}

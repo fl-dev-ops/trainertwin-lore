@@ -1,0 +1,166 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000058"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "You started it because something inside of you knew that working harder was not the answer.",
+            "unit_id": "u000058"
+          }
+        ],
+        "text": "The video aims to address the underlying identity issue in sales rather than providing more knowledge."
+      },
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "You started it because something inside of you knew that working harder was not the answer.",
+            "unit_id": "u000058"
+          }
+        ],
+        "text": "The audience started the video not because they needed more knowledge, but because they knew working harder was not the answer."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Rationale behind starting the video",
+      "topic": "sales_identity"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000057"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "If after this video, you are still thinking, I'm not a natural salesperson, replace that with a sentence. I can design a system that works for me and I can become the perfect person for the system.",
+            "unit_id": "u000057"
+          }
+        ],
+        "text": "The speaker encourages the listener to replace negative thoughts about not being a natural salesperson with a constructive approach focused on designing a personal sales system."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Encouragement to change perspective",
+      "topic": "sales_identity"
+    },
+    {
+      "context_unit_ids": [
+        "u000059"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "selling gonna stop being a fight. It becomes the most therapeutic, most clarifying and profitable conversation.",
+            "unit_id": "u000059"
+          }
+        ],
+        "text": "The speaker describes selling as a therapeutic, clarifying, and profitable conversation once the identity issue is fixed."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Sales as a therapeutic conversation",
+      "topic": "sales_identity"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000057"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If after this video, you are still thinking, I'm not a natural salesperson, replace that with a sentence. I can design a system that works for me and I can become the perfect person for the system.",
+            "unit_id": "u000057"
+          }
+        ],
+        "text": "If you feel you are not a natural salesperson, replace that thought with 'I can design a system that works for me and I can become the perfect person for the system.'"
+      },
+      "title": "Camera confidence and personal identity in sales",
+      "topic": "sales_identity"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000058"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "industries change. The buyer changes, the script changes, the identity behind the salesperson does not.",
+            "unit_id": "u000058"
+          }
+        ],
+        "text": "The identity behind the salesperson does not change even if the industry, buyer, or script changes."
+      },
+      "title": "Identity behind the salesperson",
+      "topic": "sales_identity"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000058"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the way you showed up to every sales conversation is the actual product the client is buying.",
+            "unit_id": "u000058"
+          }
+        ],
+        "text": "The way you show up to every sales conversation is the actual product the client is buying."
+      },
+      "title": "Impact of personal identity on sales",
+      "topic": "sales_identity"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000059"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You are failing because you are showing up as the wrong person. Fix that and selling gonna stop being a fight.",
+            "unit_id": "u000059"
+          }
+        ],
+        "text": "You are failing because you are showing up as the wrong person. Fix that and selling will stop being a fight."
+      },
+      "title": "Role of identity in sales success",
+      "topic": "sales_identity"
+    }
+  ]
+}

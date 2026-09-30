@@ -1,0 +1,286 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000132",
+        "u000134",
+        "u000137",
+        "u000139"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Uh yeah, hi Nishanth. I just wanted to ask on that thing uh that you told that uh the JavaScript topics, they are asking from different perspectives.",
+            "unit_id": "u000132"
+          }
+        ],
+        "text": "Uh yeah, hi Nishanth. I just wanted to ask on that thing uh that you told that uh the JavaScript topics, they are asking from different perspectives."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "agree. That's a very good question Gauri. Like I say this very commonly. Now it's very easy to get an answer to a question but very difficult to get the right question. Correct?",
+            "unit_id": "u000139"
+          }
+        ],
+        "text": "Develop a habit of questioning why things are the way they are to better understand JavaScript topics."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Uh yeah, hi Nishanth. I just wanted to ask on that thing uh that you told that uh the JavaScript topics, they are asking from different perspectives.",
+            "unit_id": "u000132"
+          },
+          {
+            "quote": "So like, can you give like different tips on how can we prepare for that? Because like as I think, these perspectives will not come to my mind like",
+            "unit_id": "u000134"
+          }
+        ],
+        "text": "An interview participant asked for tips on preparing for JavaScript interview questions from different perspectives."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Responding to JavaScript Interview Preparation",
+      "topic": "javascript interview preparation"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000120"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "if you're having six to seven year or beyond experience, then system design is very, very important. And system design",
+            "unit_id": "u000120"
+          }
+        ],
+        "text": "The speaker expresses the importance of system design based on years of experience by contrasting different experience levels."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "If you are someone who is having less than five years of experience, system design may not be very relevant for your experience.",
+            "unit_id": "u000120"
+          }
+        ],
+        "text": "To explain how system design relevance varies with experience."
+      },
+      "speaker_id": "2",
+      "title": "Expressing the Importance of System Design Experience",
+      "topic": "experience level"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000116",
+        "u000117",
+        "u000118",
+        "u000119",
+        "u000120"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "Depending on the companies that you pick, DSA may not be like that important.",
+              "unit_id": "u000116"
+            }
+          ],
+          "text": "Select the target company, as importance of DSA varies by company."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "dedicate your time solving at least one fifty to two hundred DSA problems a bare minimum.",
+              "unit_id": "u000117"
+            }
+          ],
+          "text": "For companies like Google, solving 150-200 DSA problems is necessary."
+        },
+        {
+          "citations": [
+            {
+              "quote": "you can keep a limited DSA even if you solve hundred DSA problems with six",
+              "unit_id": "u000117"
+            }
+          ],
+          "text": "For other companies, solving 100 DSA problems with a mix of difficulties is sufficient."
+        },
+        {
+          "citations": [
+            {
+              "quote": "collectively if you can solve sixty easy, twenty medium and twenty hard problems, it could be more than sufficient",
+              "unit_id": "u000118"
+            }
+          ],
+          "text": "Focus on 60 easy problems and 20 each of medium and hard problems from five data structures: array, string, stack, queue, and link list."
+        },
+        {
+          "citations": [
+            {
+              "quote": "If you are someone who is having less than five years of experience, system design may not be very relevant",
+              "unit_id": "u000119"
+            }
+          ],
+          "text": "For those with less than 5 years of experience, focus on JavaScript, React, and machine coding."
+        },
+        {
+          "citations": [
+            {
+              "quote": "if you're having six to seven year or beyond experience, then system design is very, very important.",
+              "unit_id": "u000120"
+            }
+          ],
+          "text": "For those with 6-7 years or more experience, system design is important."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there are primarily five pillars of the interview preparation. Basics of JavaScript, React, machine coding, system design, and DSA.",
+            "unit_id": "u000116"
+          }
+        ],
+        "text": "A structured front end interview preparation involves focusing on five main pillars: Basics of JavaScript, React, machine coding, system design, and Data Structures and Algorithms (DSA)."
+      },
+      "title": "Structured Front End Interview Preparation",
+      "topic": "frontend interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000122",
+        "u000123",
+        "u000124",
+        "u000125",
+        "u000126"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "There are like fifteen minutes machine coding where you are asked to build a simple to-do list.",
+              "unit_id": "u000123"
+            }
+          ],
+          "text": "Practice different levels of machine coding tasks, like building a to-do list with various functionalities in different time frames."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Almost if you are targeting any good company you will not be able to clear that without having a strong foundation of machine coding.",
+            "unit_id": "u000126"
+          }
+        ],
+        "text": "Machine coding is considered crucial for interviews in good companies."
+      },
+      "title": "Machine Coding as an Interview Requirement",
+      "topic": "frontend interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000127",
+        "u000128",
+        "u000129"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "first you prompt very well in your company projects.",
+              "unit_id": "u000129"
+            }
+          ],
+          "text": "Practice using company projects to give efficient prompts."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "There is a project already existing and there is a bug. How quickly you'll be able to understand the right file.",
+            "unit_id": "u000127"
+          }
+        ],
+        "text": "AI rounds test the ability to prompt efficiently using existing projects."
+      },
+      "title": "AI Round in Interviews",
+      "topic": "AI in frontend interviews"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000139",
+        "u000140",
+        "u000141",
+        "u000142"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you have to slowly start building this temperament of why.",
+            "unit_id": "u000140"
+          }
+        ],
+        "text": "To better prepare for interviews, develop a mindset of questioning why things are the way they are."
+      },
+      "title": "Developing a Questioning Mindset",
+      "topic": "learning strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000120",
+        "u000121"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "find someone. He could be a mentor or",
+            "unit_id": "u000120"
+          },
+          {
+            "quote": "who can counter your thoughts. Discuss more and more system problems with them",
+            "unit_id": "u000121"
+          }
+        ],
+        "text": "Finding a knowledgeable mentor can be beneficial for preparing for system design interviews, especially for those with seven or more years of experience."
+      },
+      "title": "Finding Mentors for System Design Preparation",
+      "topic": "system design preparation"
+    }
+  ]
+}

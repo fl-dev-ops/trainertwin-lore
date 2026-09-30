@@ -1,0 +1,96 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-8d7606fe373130b0",
+          "quote": "Express Course For Agents in Dubai",
+          "unit_id": "linkedin-posts-2026-04-06-express-course-for-agents-in-md-974f16025e:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "\"Express Course For Agents in Dubai\" highlights urgency with 'express' and a clear audience/location with 'agents in Dubai'.",
+      "proposed_adaptation": {
+        "action": "Use the term 'express' to convey urgency and specify the target audience/location",
+        "limits": "Do not assume urgency translates to interest or attendance.",
+        "when": "Promoting events with limited enrollment"
+      },
+      "qualification": "Single text's promotional context; not observed response or outcome.",
+      "scope": "linkedin",
+      "situation": "The text promotes an express course for agents in Dubai, suggesting urgency and a targeted location.",
+      "support_ids": [
+        "ex-8d7606fe373130b0"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-6a064e1f3e289ffb",
+          "quote": "She was About to Give Up! Now She has her Own Agency",
+          "unit_id": "linkedin-posts-2026-04-07-she-was-about-to-give-md-9a91953971:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "\"She was About to Give Up! Now She has her Own Agency\" employs a two-part contrast to tell a transformation story in headline format.",
+      "proposed_adaptation": {
+        "action": "Employ a two-part contrast to highlight transformation",
+        "limits": "May not engage if context or transformation is unclear.",
+        "when": "Crafting headlines for success stories"
+      },
+      "qualification": "Expression-focused on one example; not general usage data.",
+      "scope": "linkedin",
+      "situation": "The headline uses a two-part structure with a contrast between 'She was About to Give Up!' and 'Now She has her Own Agency'.",
+      "support_ids": [
+        "ex-6a064e1f3e289ffb"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-6ead9bfc2443b6cc",
+          "quote": "Tag a friend who needs it in a comment!",
+          "unit_id": "linkedin-posts-2026-08-31-this-will-scare-you-must-md-27f40a91ea:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The phrase \"Tag a friend who needs it in a comment!\" acts as a direct call to action, prompting social media engagement through tagging.",
+      "proposed_adaptation": {
+        "action": "Include a call to action encouraging tagging within comments",
+        "limits": "Effectiveness may vary by audience engagement norms.",
+        "when": "Increasing post engagement on social platforms"
+      },
+      "qualification": "Limited to explicit social media engagement; not observed behavior change.",
+      "scope": "linkedin",
+      "situation": "The text \"Tag a friend who needs it in a comment!\" serves as an invitation for engagement, encouraging readers to interact with the content by involving others.",
+      "support_ids": [
+        "ex-6ead9bfc2443b6cc"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-0dfbf81a815143a8",
+          "quote": "Ps. And thanks god my misspelling and autocorrect keeps me a human",
+          "unit_id": "linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Humorous tone demonstrated by self-deprecating comment on spelling mistakes maintaining human authenticity.",
+      "proposed_adaptation": {
+        "action": "Use self-deprecating remarks on minor flaws for humor",
+        "limits": "Context of informal, relatable settings; not for formal communication.",
+        "when": "Humanizing online persona in informal contexts"
+      },
+      "qualification": "Single example without broader humor strategy evidence.",
+      "scope": "linkedin",
+      "situation": "The author uses humor by saying their misspelling and autocorrect mistakes keep them human.",
+      "support_ids": [
+        "ex-0dfbf81a815143a8"
+      ]
+    }
+  ]
+}

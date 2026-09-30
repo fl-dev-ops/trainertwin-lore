@@ -1,0 +1,56 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000057",
+        "u000058",
+        "u000059"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "If after this video, you are still thinking, I'm not a natural salesperson, replace that with a sentence. I can design a system that works for me and I can become the perfect person for the system.",
+            "unit_id": "u000057"
+          },
+          {
+            "quote": "Fix that and selling gonna stop being a fight. It becomes the most therapeutic, most clarifying and profitable conversation you will learn how to have. Now, go and record your first video.",
+            "unit_id": "u000059"
+          }
+        ],
+        "text": "The speaker encourages audience members who feel they are not natural salespeople, suggesting that they can design a system that works for them. The speaker connects identity to sales success, advising viewers to record their first video."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Sales Technique Video Motivation",
+      "topic": "Motivational Structure"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000058",
+        "u000057",
+        "u000059"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the vision of you, the way you showed up to every sales conversation is the actual product the client is buying. It doesn't matter where, real estate, IT, AI, coaching, training, the industries change. The buyer changes, the script changes, the identity behind the salesperson does not.",
+            "unit_id": "u000058"
+          }
+        ],
+        "text": "The vision of oneself and how one shows up to sales conversations is the actual product the client is buying, and the identity behind the salesperson is consistent across different industries, buyers, and scripts."
+      },
+      "title": "Importance of Identity in Sales",
+      "topic": "Sales Techniques"
+    }
+  ]
+}

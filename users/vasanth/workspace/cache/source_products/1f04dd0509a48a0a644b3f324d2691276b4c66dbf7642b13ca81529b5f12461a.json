@@ -1,0 +1,63 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000024"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "charging you around fifteen dollar a month and like sixty dollar a month if if using lot of pro features. They also have a free trial but I feel like GitHub Copilot free trial is little bit better in terms of pricing compare to this.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "The speaker compares pricing and features between Windserv and GitHub Copilot, discussing free trials, multiple file editing, and overall experience."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Comparative Analysis of AI Tools",
+      "topic": "AI tools comparison"
+    },
+    {
+      "context_unit_ids": [
+        "u000027"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "do not use fine. Otherwise, please start using these because you have to learn basically using these tools and make the productivity faster. For example, today, if somebody's taking like one hour to build something with the help of the Janaya, probably they can build that in five minutes.",
+            "unit_id": "u000027"
+          }
+        ],
+        "text": "The speaker encourages users to adopt AI tools by stating that they could improve productivity from taking one hour to complete a task to taking five minutes."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Encouragement to Use Tools",
+      "topic": "AI tools usage"
+    },
+    {
+      "context_unit_ids": [
+        "u000028"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "make the video, share the video with your friends so that they can also get benefited. Subscribe to my channel Career with Vasant. Whatever you felt honestly, please do comment it. Follow me on LinkedIn, follow me on Medium, and if you want to get one-on-one session with me, all of that I mentioned in the comment section.",
+            "unit_id": "u000028"
+          }
+        ],
+        "text": "The speaker requests viewers to like, share, and subscribe to the channel, and suggests viewers comment and engage on other platforms."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Call to Action for Video Engagement",
+      "topic": "video engagement"
+    }
+  ],
+  "knowledge": []
+}

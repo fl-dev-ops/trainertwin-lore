@@ -1,0 +1,25 @@
+# 4 Questions That Kill Your Dubai Real Estate Deals in 2026
+
+[Original captured file](../../../data/youtube/video/2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-pQCLpcXSx2s.md) · 2026-08-13 · youtube
+
+- [Client Disappearing in Real Estate Deals](../topics/client_disappearing.md#record-b17f81316ed2fe91)
+- [Changing Communication Style](../topics/communication_style_change.md#record-dd26aee29d61792d)
+- [Avoid Assumptions in Initial Contact](../topics/initial_contact_assumptions.md#record-ed86b9b13762fe29)
+- [Questions that Harm Sales](../topics/harmful_questions.md#record-c603438db9c051ff)
+- [Important Sales Elements](../topics/important_sales_elements.md#record-68142b2dd252b935)
+- [Assumption Leading to Lost Opportunities](../topics/initial_contact_assumptions.md#record-1118896d89c2a8c8)
+- [Real Estate Client Uncertainty](../topics/harmful_questions.md#record-9738446deb4ea22d)
+- [Effective Client Engagement](../topics/communication_style_change.md#record-4c9ae55f3b3755d2)
+- [Initial Contact Strategy](../topics/initial_contact_assumptions.md#record-557b7964f75ba948)
+- [Opening Line Critique](../topics/communication_style_change.md#record-7b336b744fd4aa8f)
+- [Client Interest Questions](../topics/harmful_questions.md#record-93c8bec6eb4878b0)
+- [Assumptive Language During Calls](../topics/initial_contact_assumptions.md#record-cfdc58ccc585b016)
+- [Transformation through Coaching](../topics/communication_style_change.md#record-ce5eef8d32d0ee25)
+- [Avoid building rapport](../topics/sales-techniques.md#record-23916d15c74dc568)
+- [Starting client interaction effectively](../topics/sales-techniques.md#record-7f150691047d50f7)
+- [Creating a vacuum in the client's mind](../topics/sales-techniques.md#record-bdcc3e44872bacdf)
+- [Client must pitch Dubai to themselves](../topics/sales-techniques.md#record-d113479378b6b6aa)
+- [Importance of process in sales](../topics/sales-techniques.md#record-6d334baf60cb14bb)
+- [Letting the client justify the option to themselves](../topics/sales-techniques.md#record-77ae865e0bc34694)
+- [Neutral tone introduction](../topics/sales-techniques.md#record-7995cc18ec0c5156)
+- [Self-justification technique](../topics/sales-techniques.md#record-b7f76eb9ba193d36)

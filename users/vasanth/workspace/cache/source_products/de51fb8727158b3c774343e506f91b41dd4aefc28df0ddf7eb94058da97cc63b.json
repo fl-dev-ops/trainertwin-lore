@@ -1,0 +1,265 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000379",
+        "u000380",
+        "u000381",
+        "u000382"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Good question, Victor.",
+            "unit_id": "u000379"
+          }
+        ],
+        "text": "Victor asks about full stack interviews."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "create a resume that has explain all of your front end skill and start applying for the job",
+            "unit_id": "u000382"
+          }
+        ],
+        "text": "Victor is advised to apply more for front end developer roles if that is his preference."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Good question, Victor. Like if you would have any of your personal question, I would have asked you to stay back",
+            "unit_id": "u000379"
+          }
+        ],
+        "text": "Victor asks a question about full stack interviews that is applicable to everyone present."
+      },
+      "speaker_id": "4",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "create two different resumes, one for front end, one for back end",
+            "unit_id": "u000381"
+          }
+        ],
+        "text": "Suggest creating separate resumes for front end and back end roles and applying separately for each role."
+      },
+      "title": "Question on Full Stack Interview",
+      "topic": "interview preparation"
+    },
+    {
+      "context_unit_ids": [
+        "u000395",
+        "u000399",
+        "u000400",
+        "u000401",
+        "u000402",
+        "u000403"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "as a front end developer if someone goes into system design round how they should prepare",
+            "unit_id": "u000395"
+          }
+        ],
+        "text": "Om inquires about system design preparation for front end developers."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "are you required to have a good understanding of the back end system design like in-depth understanding of implementation? No. But you need to have a fair understanding how system together works",
+            "unit_id": "u000403"
+          }
+        ],
+        "text": "Explain that system understanding is more about fair understanding than in-depth backend design knowledge."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "as a front end developer if someone goes into system design round how they should prepare",
+            "unit_id": "u000395"
+          }
+        ],
+        "text": "Om asks about how to prepare for the system design round as a front end developer."
+      },
+      "speaker_id": "4",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "to give an overview about the system design and with my experience of giving many interviews almost now if you are having like five to six years of experience applying for senior or staff role you will be asked to have a good knowledge on system design",
+            "unit_id": "u000399"
+          }
+        ],
+        "text": "Provide an overview of system design expectations and examples like video streaming and seat selection systems."
+      },
+      "title": "Clarification on System Design Interview",
+      "topic": "interview preparation"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000382"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "create a resume that has explain all of your front end skill and start applying for the job",
+            "unit_id": "u000382"
+          }
+        ],
+        "text": "The advice is structured with a conditional premise of role preference, followed by a direct instruction to create a tailored resume and apply for jobs accordingly."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Front End vs. Full Stack Resume Advice",
+      "topic": "job application strategy"
+    },
+    {
+      "context_unit_ids": [
+        "u000399",
+        "u000400",
+        "u000401"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "to give an overview about the system design and with my experience of giving many interviews almost now if you are having like five to six years of experience applying for senior or staff role you will be asked to have a good knowledge on system design",
+            "unit_id": "u000399"
+          }
+        ],
+        "text": "The explanation begins with a summary of experience and system design requirement, includes a comparison of system types, and provides specific examples like how video streaming and seat selection systems might be covered."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "System Design Preparation Explanation",
+      "topic": "interview preparation"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000379",
+        "u000380"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "right full stack combination becomes slightly difficult",
+            "unit_id": "u000380"
+          }
+        ],
+        "text": "The right full stack combination becomes slightly difficult."
+      },
+      "title": "Full Stack Combination for Interviews",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000380"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You should be good at both front end and back end, especially if you are a five plus years of experience",
+            "unit_id": "u000380"
+          }
+        ],
+        "text": "As a full stack developer, you should be good at both front end and back end, especially if you have five plus years of experience."
+      },
+      "title": "Interview Process for Full Stack Developers",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000381",
+        "u000382"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "create two different resumes, one for front end, one for back end",
+            "unit_id": "u000381"
+          }
+        ],
+        "text": "Create two different resumes, one for front end and one for back end, and apply individually for the respective roles."
+      },
+      "title": "Creating Resumes for Different Roles",
+      "topic": "job application strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000382"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "create a resume that has explain all of your front end skill and start applying for the job",
+            "unit_id": "u000382"
+          }
+        ],
+        "text": "Identify your inclination between front end or back end, then create a resume that explains all of your front end skills and start applying for jobs."
+      },
+      "title": "Preparation for Front End Developer Roles",
+      "topic": "job application strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000399",
+        "u000403"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "are you required to have a good understanding of the back end system design like in-depth understanding of implementation? No. But you need to have a fair understanding how system together works",
+            "unit_id": "u000403"
+          }
+        ],
+        "text": "You are not required to have an in-depth understanding of backend system design, but a fair understanding of how systems work together is needed."
+      },
+      "title": "System Design Understanding for Interviews",
+      "topic": "interview preparation"
+    }
+  ]
+}

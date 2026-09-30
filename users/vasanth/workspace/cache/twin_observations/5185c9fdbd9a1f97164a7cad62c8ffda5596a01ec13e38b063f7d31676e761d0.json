@@ -1,0 +1,50 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-280299a6631339e8",
+          "quote": "I used to ask in interview, you can also listen to this, why call stack is actually a stack? Why can't call stack be actually linked list or why not call stack be tree?",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000092"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth uses a rhetorical question to explain why the call stack is a stack and not another data structure like a linked list or tree.",
+      "proposed_adaptation": {
+        "action": "Use rhetorical questions to provoke critical thinking about why specific data structures are used over others.",
+        "limits": "Avoid overuse where direct explanation is more suitable.",
+        "when": "Explaining data structure concepts in programming tutorials"
+      },
+      "qualification": "Self-reported in a recorded transcript. No independent observation or broader application verified.",
+      "scope": "youtube",
+      "situation": "Vasanth uses rhetorical questions during a programming lesson on YouTube to discuss the nature of call stack and different data structures.",
+      "support_ids": [
+        "ex-280299a6631339e8"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-1702d8de4662bde9",
+          "quote": "If execution happens that way, then the d will be printed first, because it's a stack, right? It's a pile of plates, one one on top of another.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000094"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Explains the concept of the call stack using the analogy of a pile of plates to demonstrate the LIFO (Last In First Out) order.",
+      "proposed_adaptation": {
+        "action": "Use relatable analogies like comparing a stack to a pile of plates to convey LIFO principles.",
+        "limits": "Not applicable for detailed algorithmic behavior requiring precise technical vocabulary.",
+        "when": "Introducing stack data structure concepts to programming students"
+      },
+      "qualification": "Limited to an individual speaker's analogy in an isolated lesson. No cross-case validation.",
+      "scope": "youtube",
+      "situation": "During a programming lecture, the speaker uses an analogy to explain the last-in-first-out behavior of the call stack in JavaScript.",
+      "support_ids": [
+        "ex-1702d8de4662bde9"
+      ]
+    }
+  ]
+}

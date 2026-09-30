@@ -1,0 +1,50 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-c9f7c528f9fddabf",
+          "quote": "Now my suggestion Suresh is as you clearly told, I think all of us here are building lot of code using the JNAI. And let's start embracing it. Let's see, probably we may not go back to an era where we will not use JNAI for coding. That's something we should all accept. Like there is no pre calculator era anymore. Like nobody is we are not going to go back to that era. So we are going to continue to code using JNAI. Maybe there could be token limit, but we still continue to code with JNAI. So let's we have to start embracing it, use it as much as possible while coding with vigilantly. That is something we cannot avoid. Correct? But what I would say",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000264"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth compared the use of JNAI in coding to the era of pre-calculators, implying an inevitable change in practice.",
+      "proposed_adaptation": {
+        "action": "Use an analogy comparing past transitions to new technological integrations to emphasize their inevitability.",
+        "limits": "Avoid assuming uniform acceptance of technology; analogy might not apply to all individuals.",
+        "when": "Discussing technology adoption in a training context."
+      },
+      "qualification": "One example supports an isolated observation, not a recurring habit.",
+      "scope": "youtube",
+      "situation": "A statement during a talk regarding AI's role in coding.",
+      "support_ids": [
+        "ex-c9f7c528f9fddabf"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-b79bbe924582febf",
+          "quote": "much. Okay? Do not keep a timeline beyond three months. If you I'm honestly I'm a believer only two months, not even three months. Okay? To make you interview ready. I can guarantee you actually. I have mentored so many people. So not necessarily from anyone you take mentorship. If you are there is a good mentor, they should be able to make you interview ready in two months provided you can dedicate at least twenty five hours in a week Muthuraj. Okay?",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000341"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker presents advice by first stating a belief in a concise timeframe, then supports it with personal success claims and specific details on expected dedication.",
+      "proposed_adaptation": {
+        "action": "Begin with a concrete timeframe suggestion, then outline support through past examples and effort expectations.",
+        "limits": "Ensure timeframe suggestions are realistic for the recipient's specific situation; individual capabilities differ.",
+        "when": "Providing guidance on skill development timelines."
+      },
+      "qualification": "One example supports an isolated observation, not a recurring habit.",
+      "scope": "youtube",
+      "situation": "Advice offered for interview preparation in a general context.",
+      "support_ids": [
+        "ex-b79bbe924582febf"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Her Agency Refused to pay Her Commissions - So she did this ...",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The title is structured in two parts: a problem statement ('Her Agency Refused to pay Her Commissions') and an unresolved action ('So she did this ...')."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Attention-Grabbing Title",
+      "topic": "title writing"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Her Agency Refused to pay Her Commissions",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "An agency refused to pay a woman's commissions."
+      },
+      "title": "Agency Payment Dispute",
+      "topic": "agency payment"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So she did this ...",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The woman took some action after her agency refused to pay her commissions."
+      },
+      "title": "Response to Non-payment",
+      "topic": "agency payment"
+    }
+  ]
+}

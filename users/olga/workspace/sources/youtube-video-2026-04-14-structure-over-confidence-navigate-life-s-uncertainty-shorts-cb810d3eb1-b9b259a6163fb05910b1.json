@@ -1,0 +1,84 @@
+{
+  "audience": "",
+  "author": "",
+  "category": "youtube",
+  "content_hash": "689fe9b2ba86a37ea8935171ca3a883db9f5fcd9c8e3298a6bbad56eb168b6f6",
+  "date": "2026-04-14",
+  "date_basis": "source",
+  "external_id": "btMVBcDuMV4",
+  "format": "transcript",
+  "id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1",
+  "metadata_hash": "cfdcf5cfd1763a79e3e440b6e649030084fa7ea0f10c00b5868ac6a7d6c6cfca",
+  "original_text": "---\nid: btMVBcDuMV4\ntitle: 'Structure Over Confidence: Navigate Life''s Uncertainty #shorts'\ndate: '2026-04-14'\nurl: https://www.youtube.com/shorts/btMVBcDuMV4\ndescription: 'When life changes overnight, confidence falters. You need structure\n  first. A simple next step, a plan, a direction. Structure calms your brain faster\n  than motivation ever will. #LifeChange #Structure #Mindset #PersonalGrowth'\nduration: 00:00:41\nmodel: saaras:v3\ntranscript: true\n---\n\n# Structure Over Confidence: Navigate Life's Uncertainty #shorts\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nIf your life changed overnight, the first thing you need is not confidence, it's a structure. Because when life gets unstable, confidence disappear very fast. And that's when most people start panicking, overthinking, scrolling, freezing, comparing. But in moments like this, you do not need to magically feel better first. You need just a simple next step, a move, a plan, a direction.\n\n### 00:00:28 · Speaker 1\n\nBecause when the life becomes uncertain like it is now in Dubai, structure comes your brain much faster than motivation ever will.\n\n### 00:00:39 · Speaker 1\n\nWhat is your structure today?\n",
+  "passages": [
+    {
+      "id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:p000001",
+      "locator": "lines 20-20",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:00",
+      "text": "If your life changed overnight, the first thing you need is not confidence, it's a structure. Because when life gets unstable, confidence disappear very fast. And that's when most people start panicking, overthinking, scrolling, freezing, comparing. But in moments like this, you do not need to magically feel better first. You need just a simple next step, a move, a plan, a direction."
+    },
+    {
+      "id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:p000002",
+      "locator": "lines 24-24",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:28",
+      "text": "Because when the life becomes uncertain like it is now in Dubai, structure comes your brain much faster than motivation ever will."
+    },
+    {
+      "id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:p000003",
+      "locator": "lines 28-28",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:39",
+      "text": "What is your structure today?"
+    }
+  ],
+  "path": "youtube/video/2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-btMVBcDuMV4.md",
+  "purpose": "",
+  "relative_path": "youtube/video/2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-btMVBcDuMV4.md",
+  "sha256": "3489727c876b0270ce862766dd0b0de580db06c57a021feb7aaedf470497f6d0",
+  "speakers": {},
+  "title": "Structure Over Confidence: Navigate Life's Uncertainty #shorts",
+  "units": [
+    {
+      "end": 386,
+      "id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:u000001",
+      "locator": "lines 20-20",
+      "passage_id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:p000001",
+      "raw_text": "If your life changed overnight, the first thing you need is not confidence, it's a structure. Because when life gets unstable, confidence disappear very fast. And that's when most people start panicking, overthinking, scrolling, freezing, comparing. But in moments like this, you do not need to magically feel better first. You need just a simple next step, a move, a plan, a direction.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:00",
+      "text": "If your life changed overnight, the first thing you need is not confidence, it's a structure. Because when life gets unstable, confidence disappear very fast. And that's when most people start panicking, overthinking, scrolling, freezing, comparing. But in moments like this, you do not need to magically feel better first. You need just a simple next step, a move, a plan, a direction."
+    },
+    {
+      "end": 130,
+      "id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:u000002",
+      "locator": "lines 24-24",
+      "passage_id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:p000002",
+      "raw_text": "Because when the life becomes uncertain like it is now in Dubai, structure comes your brain much faster than motivation ever will.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:28",
+      "text": "Because when the life becomes uncertain like it is now in Dubai, structure comes your brain much faster than motivation ever will."
+    },
+    {
+      "end": 29,
+      "id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:u000003",
+      "locator": "lines 28-28",
+      "passage_id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1:p000003",
+      "raw_text": "What is your structure today?",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:39",
+      "text": "What is your structure today?"
+    }
+  ],
+  "url": "https://www.youtube.com/shorts/btMVBcDuMV4"
+}

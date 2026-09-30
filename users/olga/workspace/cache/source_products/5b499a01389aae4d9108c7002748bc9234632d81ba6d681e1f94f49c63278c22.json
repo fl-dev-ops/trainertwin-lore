@@ -1,0 +1,44 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "How to Convince the Client is starting with…",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Begins with an abrupt introduction 'How to Convince the Client is starting with…' to capture attention."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Introductory statement",
+      "topic": "Rhetorical structure"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "What to say - here where many agents get it wrong",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Uses a parenthetical statement to express that many agents make mistakes at a particular point."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Parenthesis use",
+      "topic": "Clarity in writing"
+    }
+  ],
+  "knowledge": []
+}

@@ -1,0 +1,28 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "It’s was always my #1 priority",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author's top priority has always been their reputation."
+      },
+      "title": "Reputation as a Priority",
+      "topic": "business_reputation"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 0,
+  "evidence_file": "linkedin-posts-2026-03-30-if-client-is-telling-you-md-355c302a69-2d37a9f2244d01da1935.jsonl",
+  "evidence_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:11:12Z",
+  "metadata_hash": "4bfdd8d20efb1656caf55e134965ddd36e64e5b1b823a496043bae2ac8c5c1cd",
+  "model": "openai/gpt-4o",
+  "products": {},
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 1,
+    "semantic_support": "not_reviewed",
+    "status": "empty",
+    "units_cited": 0,
+    "units_total": 1
+  },
+  "revision": "2d37a9f2244d01da1935",
+  "snapshot_hash": "ebb57c3be3b7dfeef8d34f64fc4379a25ac6da0089e53bcd47a9abb8a0d0df22",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-03-30-if-client-is-telling-you-md-355c302a69",
+  "source_path": "linkedin/posts/2026-03-30-if-client-is-telling-you.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "f59204e8095fca599588034a646c07b322faf098dbe24f695e341b0501a6cac1",
+  "source_snapshot": "linkedin-posts-2026-03-30-if-client-is-telling-you-md-355c302a69-2d37a9f2244d01da1935.json",
+  "version": "4"
+}

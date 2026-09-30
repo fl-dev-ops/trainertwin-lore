@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "instagram-posts-2026-05-21-get-trained-close-deals-grow-md-63761ec46e-345fd96b4b2c4e20fa9d.jsonl",
+  "evidence_hash": "4978483a561bd22258afd2a381afeca07f11f48aca304fcf5500746f3fd8a451",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:31:16Z",
+  "metadata_hash": "b6e1c7059a7233b8edbe814ba04ede306ad9ef259fd1ecc7168c884331505556",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 1,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 3,
+    "units_total": 4
+  },
+  "revision": "345fd96b4b2c4e20fa9d",
+  "snapshot_hash": "d89b06ac9ebd97ae8cfad0b7347a5507ba00380e7adf1fbf362a4fe493d594f2",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-05-21-get-trained-close-deals-grow-md-63761ec46e",
+  "source_path": "instagram/posts/2026-05-21-get-trained-close-deals-grow.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "beca96f8c853fdab81fc534470276de39d54f31bb0f7480af2c7cb1401fd8dc0",
+  "source_snapshot": "instagram-posts-2026-05-21-get-trained-close-deals-grow-md-63761ec46e-345fd96b4b2c4e20fa9d.json",
+  "version": "4"
+}

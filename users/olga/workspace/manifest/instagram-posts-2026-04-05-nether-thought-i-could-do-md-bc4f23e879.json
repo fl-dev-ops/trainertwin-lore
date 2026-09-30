@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "instagram-posts-2026-04-05-nether-thought-i-could-do-md-bc4f23e879-e857dff793d4942d536b.jsonl",
+  "evidence_hash": "03f772a4731442efac8317829591fb6a6a533f610cb97a34912895843def00a8",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:05:14Z",
+  "metadata_hash": "0011fd675871a98c1a812aa7a8be97c56e7eeb8a06a9f658e469f792b57b20f2",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "e857dff793d4942d536b",
+  "snapshot_hash": "abab53a4b8972a686690da7fe5b9ce9419ba63978e052769b8eea48d35490174",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-04-05-nether-thought-i-could-do-md-bc4f23e879",
+  "source_path": "instagram/posts/2026-04-05-nether-thought-i-could-do.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "a0741fdd28b3abf3fb6ad105745a9ae89c8578cb33baa997dd7caebb9e18026e",
+  "source_snapshot": "instagram-posts-2026-04-05-nether-thought-i-could-do-md-bc4f23e879-e857dff793d4942d536b.json",
+  "version": "4"
+}

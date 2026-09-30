@@ -1,0 +1,487 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000005",
+        "u000006"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Most sales people are working hard, but in the wrong direction, because they're chasing free outdated beliefs.",
+            "unit_id": "u000005"
+          },
+          {
+            "quote": "These sales gurus are already on a different level of authority.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The speaker uses a critical and corrective tone while challenging traditional beliefs about sales techniques, describing them as outdated and ineffective."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Sales Advice Tone",
+      "topic": "sales_techniques"
+    },
+    {
+      "context_unit_ids": [
+        "u000019",
+        "u000020"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The stage number one is unaware, where I literally do not have a problem.",
+            "unit_id": "u000019"
+          },
+          {
+            "quote": "Next stage is product aware. So understand this product or that product definitely going to help me.",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "The speaker outlines the stages of buyer awareness in a step-by-step sequence from unaware to most aware, following a clear progression through these defined stages."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Buyer Awareness Stages Explanation",
+      "topic": "sales_techniques"
+    },
+    {
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Authority is not the watch, the suit, the LinkedIn title. Authority is your inner position.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "The speaker dismantles misconceptions about authority in sales by juxtaposing superficial markers like watches and LinkedIn titles with the concept of inner position as an equal adult."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Misconception About Authority in Sales",
+      "topic": "sales_techniques"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You're failing because you're trying to sell product to someone who is trying to solve a problem.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Sales failure often occurs because one tries to sell a product to someone who is trying to solve a problem."
+      },
+      "title": "Sales Failure Cause",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I learned it from twenty-six years on the phone, in the meeting, eleven of those in Dubai real estate.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker learned effective sales techniques from 26 years of experience, including 11 years in Dubai real estate."
+      },
+      "title": "Competence in Sales",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "my own coaching client make on average over one million a year in commission.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker's coaching clients make on average over one million a year in commission."
+      },
+      "title": "Success of Coaching Clients",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "They are failing because they believe the wrong thing about sales. And the problem is not what you know. The problem is who you are when you sell.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Many salespeople fail because they believe the wrong thing about sales; the problem lies in who they are when selling, not what they know."
+      },
+      "title": "Salespeople's Misbeliefs",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000005"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Most sales people are working hard, but in the wrong direction, because they're chasing free outdated beliefs.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "Many salespeople work hard in the wrong direction because they follow outdated sales beliefs."
+      },
+      "title": "Outdated Sales Beliefs",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The idea that more knowledge, better technique, or the perfect closing line will fix everything.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The belief that more knowledge, better technique, or the perfect closing line will lead to sales success is a misconception."
+      },
+      "title": "Misconception about Sales Confidence",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "They're not magic spells. And when you try it, it doesn't work.",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "Common assumed closing phrases used in sales, such as 'just finish the paperwork,' are not effective as they are not magic spells."
+      },
+      "title": "Ineffectiveness of Assumed Sales Phrases",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "These sales gurus are already on a different level of authority. Their confidence is what they radiate.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "Sales gurus exhibit a different level of authority and confidence which influences their sales success, unlike regular salespeople who display the opposite traits."
+      },
+      "title": "Difference in Sales Authority",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000010"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "He buys because he feels the pain of his problems and the need to solve them.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "Clients decide to buy because they feel the pain of their problems and need to solve them, not because of confidence or expensive watches."
+      },
+      "title": "Client Decision Factors",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000011",
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "And they often explain it through the magnetic word report. Build report and make them trust you.",
+            "unit_id": "u000011"
+          },
+          {
+            "quote": "But this is not how the trust works anymore.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "The traditional idea of building rapport to gain trust does not work with modern sophisticated buyers who recognize sales conversations as manipulation."
+      },
+      "title": "Misbelief About Building Rapport",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000015",
+        "u000017"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You just have to be more consistent.",
+            "unit_id": "u000015"
+          },
+          {
+            "quote": "Consistency without your sales system is just noise.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "Consistency in sales actions alone is insufficient without a proper sales system, as it results in mere noise rather than real progress."
+      },
+      "title": "Consistency in Sales Is Not Enough",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000019",
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "stage number one is unaware, where I literally do not have a problem.",
+              "unit_id": "u000019"
+            }
+          ],
+          "text": "Stage 1: Unaware - No problem."
+        },
+        {
+          "citations": [
+            {
+              "quote": "moved to stage number two, the problem aware. So I do have a problem, but I don't know how to solve it.",
+              "unit_id": "u000019"
+            }
+          ],
+          "text": "Stage 2: Problem Aware - Acknowledges a problem without a known solution."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Stage number three is when I'm solution aware. I understand that there is various solutions.",
+              "unit_id": "u000019"
+            }
+          ],
+          "text": "Stage 3: Solution Aware - Identifies various solutions."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Next stage is product aware. So understand this product or that product definitely going to help me.",
+              "unit_id": "u000020"
+            }
+          ],
+          "text": "Stage 4: Product Aware - Identifies helpful products."
+        },
+        {
+          "citations": [
+            {
+              "quote": "The last stage number five is most aware.",
+              "unit_id": "u000020"
+            }
+          ],
+          "text": "Stage 5: Most Aware - Approaches final buying decision."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Stay with me and you will understand why this is so important. So the stage number one is unaware, where I literally do not have a problem.",
+            "unit_id": "u000019"
+          },
+          {
+            "quote": "Next stage is product aware. So understand this product or that product definitely going to help me.",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "Eugene Schwartz's system describes five stages of buyer awareness."
+      },
+      "title": "Five Stages of Buyer Awareness",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000022"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "By the time the client comes to you, he doesn't need another salesperson to pitch and convince him. He already has all of the information.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "Modern buyers often do not require salespeople for information as they are already most aware and need salespeople for different reasons."
+      },
+      "title": "Modern Challenges in Sales",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000023"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "It's attention, authority, and need. Miss one of those and it doesn't matter how hard you follow up.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "Successful sales require attention, authority, and need; missing one results in failure regardless of follow-ups."
+      },
+      "title": "Elements of Successful Sales",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000025"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you're usually saying something like this, Hi, it's Olga from XYZ company. uh you submitted your inquiry about ABC, how can I help you today? And it's over. The conversation is dead.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "A common mistake in sales is sounding generic right from the initial conversation, which loses client attention."
+      },
+      "title": "Common Mistake in Initial Sales Conversation",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Authority is not the watch, the suit, the LinkedIn title. Authority is your inner position.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "Authority in sales comes from an inner position of being an equal adult, not from material possessions or titles."
+      },
+      "title": "Authority in Sales",
+      "topic": "sales_techniques"
+    }
+  ]
+}

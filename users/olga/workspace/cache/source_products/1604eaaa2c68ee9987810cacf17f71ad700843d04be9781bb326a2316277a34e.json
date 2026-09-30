@@ -1,0 +1,179 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000088"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "What sets Olga apart from many other trainers is her hands-on experience and expertise in real estate. She's not just a 'wanna-be' – she's a seasoned pro who truly understands the industry's intricacies.",
+            "unit_id": "u000088"
+          }
+        ],
+        "text": "The text uses a positive and highlighting tone to emphasize Olga's hands-on experience and expertise in real estate, describing her as a 'seasoned pro' who 'truly understands' the industry."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Description of Professional Experience",
+      "topic": "real_estate"
+    },
+    {
+      "context_unit_ids": [
+        "u000101"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I liked the analogy with a doctor. I've already started applying this approach with my leads.",
+            "unit_id": "u000101"
+          }
+        ],
+        "text": "An analogy comparing sales behavior to that of a doctor's approach is used to communicate a strategy of not overwhelming clients with options."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Analogy Used in Sales Training",
+      "topic": "sales_training"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000088"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Olga has a proven track record of inspiring individuals to elevate their game in real estate.",
+            "unit_id": "u000088"
+          }
+        ],
+        "text": "Olga is a seasoned professional in the real estate industry with a proven track record of inspiring and elevating individuals."
+      },
+      "title": "Real Estate Trainer with Hands-On Experience",
+      "topic": "real_estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000088"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you're looking for a trainer who can provide actionable guidance and support, Olga is your go-to expert.",
+            "unit_id": "u000088"
+          }
+        ],
+        "text": "Olga provides actionable guidance and support to individuals in the real estate industry."
+      },
+      "title": "Providing Actionable Guidance and Support",
+      "topic": "real_estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000096",
+        "u000097"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "resulting in a significant improvement in their professional skills and outcomes.",
+            "unit_id": "u000096"
+          }
+        ],
+        "text": "Olga's training has resulted in a significant improvement in the professional skills and outcomes of brokers."
+      },
+      "title": "Training Impact on Brokers",
+      "topic": "real_estate_training"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000096",
+        "u000097"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "One of her key advantages is the ability to tailor her approach to diverse learning styles, creating an atmosphere of openness and trust.",
+            "unit_id": "u000096"
+          }
+        ],
+        "text": "Olga tailors her training approach to diverse learning styles and creates an atmosphere of openness and trust."
+      },
+      "title": "Tailoring Approach to Diverse Learning Styles",
+      "topic": "real_estate_training"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000101"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The main thing I took away from this is that we shouldn't always be available, chasing after clients, and bombarding them with numerous options upon request. I liked the analogy with a doctor.",
+            "unit_id": "u000101"
+          }
+        ],
+        "text": "We shouldn't always be available, chasing clients, or bombarding them with numerous options upon request, similar to a doctor."
+      },
+      "title": "Analogy with a Doctor",
+      "topic": "sales_approach"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000108"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Over the last few months she became a critical link in our big team. She is a strategist and creative trainer of sales department.",
+            "unit_id": "u000108"
+          }
+        ],
+        "text": "Olga has become a critical link in the sales team as a strategist and creative trainer."
+      },
+      "title": "Role in Sales Team",
+      "topic": "sales_training"
+    }
+  ]
+}

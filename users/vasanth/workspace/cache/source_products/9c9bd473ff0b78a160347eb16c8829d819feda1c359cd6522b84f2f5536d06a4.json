@@ -1,0 +1,357 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "can you please explain me a problem that you solved in the past which you are very proud of?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Interview question about past problem solving successes is posed."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "after I take their brief introduction about their skills, experience, etcetera, the immediate next question that I ask is, can you please explain me a problem that you solved in the past which you are very proud of?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Vasanth commonly asks candidates to explain a problem they solved that they are proud of, after they introduce themselves during an interview."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Introduction of Interview Question",
+      "topic": "Interview Technique"
+    },
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000003",
+        "u000004",
+        "u000005",
+        "u000007"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "can you please explain me a problem that you solved in the past which you are very proud of?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Explain a problem solved in the past which you are proud of."
+      },
+      "diagnosis": {
+        "citations": [
+          {
+            "quote": "picking the tasks that are too simple.",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "do not be too complicated or do not be too easy, okay?",
+            "unit_id": "u000004"
+          },
+          {
+            "quote": "Highlight your contribution.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "Candidates often pick tasks that are too simple or too complicated and fail to highlight their contribution or impact."
+      },
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "And lot of people, if I ask you like out of ten, probably like seven to eight people will not going to answer this question very well.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Candidates often respond poorly to questions about past projects, affecting interview outcomes."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Mistakes during Interview Question Response",
+      "topic": "Interview Technique"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000006",
+        "u000007"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "why this question is important, why somebody should ask you about your past project. The reason being like two people looking at each other or knowing each other for the first time.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Vasanth explains the importance of the past project question by listing reasons why interviewers use it, including verifying skills and understanding candidate nature."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Importance Explanation",
+      "topic": "Interview Technique"
+    },
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000005",
+        "u000007"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "do not highlight your contribution.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "Vasanth describes common mistakes by recounting specific errors, like simple or complex task selection and lack of personal contribution."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Common Mistakes Explanation",
+      "topic": "Interview Technique"
+    },
+    {
+      "context_unit_ids": [
+        "u000010"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "The presentation is organized into a step-by-step guide including picking a challenge, providing context, highlighting role, explaining approach, sharing results, and reflecting on lessons."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Interview Strategy Presentation",
+      "topic": "Interview Technique"
+    },
+    {
+      "context_unit_ids": [
+        "u000012",
+        "u000013"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I was tasked with like a dashboard loading that is ten second. The challenge that I was having was there was a dashboard which is taking ten seconds to roll.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Vasanth gives an example of a good project explanation in an interview by detailing a task, his role, the approach taken, and the results achieved."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Example Explanation",
+      "topic": "Interview Technique"
+    },
+    {
+      "context_unit_ids": [
+        "u000015"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "please like the video on the youtube comment whatever you felt honestly share the video with your friends subscribe to my channel career with vasant follow me on linkedin",
+            "unit_id": "u000015"
+          }
+        ],
+        "text": "Vasanth encourages viewers to engage with his content by asking them to like, comment, share, and subscribe."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Invitation to Engage with Content",
+      "topic": "Content Promotion"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this is something that's very common that is asked by most interviewer.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Most interviewers ask candidates to explain a problem they solved which they are proud of as a common question."
+      },
+      "title": "Interviewer Question Strategy",
+      "topic": "Interview Technique"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there's no guarantee that that is true. There's a only way to assess is like dig deeper and understand one of your past projects",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Interviewers ask about past projects to assess candidates' abilities, as resumes offer no guarantee of truth."
+      },
+      "title": "Importance of Past Project Question",
+      "topic": "Interview Technique"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "interviewer want to assess your ability to handle challenges.your decision making and problem solving skills. How you learn and improve your experience.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Interviewer questions about past projects aim to test skills like handling challenges, decision-making, and improvement."
+      },
+      "title": "Addressing Technical Questions",
+      "topic": "Interview Technique"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000005",
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "picking the tasks that are too simple.",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "highlight your contribution.",
+            "unit_id": "u000005"
+          },
+          {
+            "quote": "focusing too much on the team effort.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Common mistakes include choosing tasks that are too simple or overly complex, failing to highlight personal contribution, and not mentioning the impact."
+      },
+      "title": "Common Mistakes in Interview Responses",
+      "topic": "Interview Technique"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000008",
+        "u000009",
+        "u000010"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Pick a challenge, provide context, highlight your role, explain your approach, share the result, explain the reflect the lesson learned.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "Choose a decent-sized problem, provide context, highlight your role, explain your approach, share results, and reflect on lessons learned."
+      },
+      "title": "Best Practices for Interview Responses",
+      "topic": "Interview Technique"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "discuss with one of your peers who are relatively having more knowledge about the product or like get a mock interview of someone.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "Conduct mock interviews with peers or experts to master interview questions, allowing for scrutiny and improvement."
+      },
+      "title": "Mock Interview Strategy",
+      "topic": "Interview Preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you want to take mock interview from me, the link is in the comments description section, you can go ahead and check.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "The speaker offers mock interview services, available through a link in the comments or description section."
+      },
+      "title": "Offering Mock Interview Services",
+      "topic": "Interview Preparation"
+    }
+  ]
+}

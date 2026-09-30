@@ -1,0 +1,192 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000275",
+        "u000276",
+        "u000277",
+        "u000278"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "just a small question that uh JavaScript pushes anything in the call stack only when uh the function is called right not it is when it is declared",
+            "unit_id": "u000275"
+          }
+        ],
+        "text": "just a small question that uh JavaScript pushes anything in the call stack only when uh the function is called right not it is when it is declared"
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "correct",
+            "unit_id": "u000276"
+          }
+        ],
+        "text": "correct"
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "just a small question that uh JavaScript pushes anything in the call stack only when uh the function is called right not it is when it is declared",
+            "unit_id": "u000275"
+          }
+        ],
+        "text": "A question was posed about when JavaScript functions are pushed to the call stack."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Discussion on Call Stack Operation",
+      "topic": "JavaScript execution"
+    },
+    {
+      "context_unit_ids": [
+        "u000283",
+        "u000284",
+        "u000285",
+        "u000286",
+        "u000287",
+        "u000288",
+        "u000289"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Yeah, so I was just thinking that, you know, why do we even need an execution context in the first place?",
+            "unit_id": "u000283"
+          }
+        ],
+        "text": "Yeah, so I was just thinking that, you know, why do we even need an execution context in the first place?"
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Yes, Soumya. So primary reason is that only. Like, unlike languages like Java or C++ where it is not compiled many a times. So we are trying to allocate memory during the runtime. So that's the primary reason why execution context is is there, Soumya.",
+            "unit_id": "u000288"
+          }
+        ],
+        "text": "Yes, Soumya. So primary reason is that only. Like, unlike languages like Java or C++ where it is not compiled many a times. So we are trying to allocate memory during the runtime. So that's the primary reason why execution context is is there, Soumya."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Yeah, so I was just thinking that, you know, why do we even need an execution context in the first place?",
+            "unit_id": "u000283"
+          }
+        ],
+        "text": "The speaker was asked about reasons for the creation of execution context in JavaScript."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Execution Context and Memory Allocation",
+      "topic": "JavaScript execution"
+    },
+    {
+      "context_unit_ids": [
+        "u000296",
+        "u000297",
+        "u000298",
+        "u000299",
+        "u000300",
+        "u000301",
+        "u000302",
+        "u000303",
+        "u000304",
+        "u000305",
+        "u000306"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Will the say hi wait until the time is over and then returns to greetings or it will gonna do something else.",
+            "unit_id": "u000296"
+          }
+        ],
+        "text": "Will the say hi wait until the time is over and then returns to greetings or it will gonna do something else."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "fundamental says that until and unless the call stack is empty, nothing won't be pushed, right? So when so when the say hi is called, right? It sees an asynchronous uh code and it pushes to the micro task queue.",
+            "unit_id": "u000297"
+          }
+        ],
+        "text": "fundamental says that until and unless the call stack is empty, nothing won't be pushed, right? So when so when the say hi is called, right? It sees an asynchronous uh code and it pushes to the micro task queue."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "the question is you have a function called say hi. Within the function there is a set timeout. The set timeout can take a lot of time to execute and there is a caller who has called this function.",
+            "unit_id": "u000296"
+          }
+        ],
+        "text": "A discussion about asynchronous function execution in JavaScript using setTimeout."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Async Execution with setTimeout",
+      "topic": "JavaScript execution"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000273"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "right because everything end of the day is object only in JavaScript. You can consider it as a block. Everything required to execute that block within present is within that box only. Box or block.",
+            "unit_id": "u000273"
+          }
+        ],
+        "text": "The speaker uses an analogy by comparing JavaScript's execution context to a 'box or block' to help explain its function."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "Everything required to execute that block within present is within that box only. Box or block. Okay? That's a good analogy.",
+            "unit_id": "u000273"
+          }
+        ],
+        "text": "To clarify the concept of execution context by comparing it to an object or block."
+      },
+      "speaker_id": "2",
+      "title": "Analogy for Execution Context",
+      "topic": "JavaScript explanation"
+    },
+    {
+      "context_unit_ids": [
+        "u000296"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The question is you have a function called say hi. Within the function there is a set timeout. The set timeout can take a lot of time to execute and there is a caller who has called this function. Will the say hi wait until the time is over and then returns to greetings or it will gonna do something else.",
+            "unit_id": "u000296"
+          }
+        ],
+        "text": "The speaker constructs the question by setting up the scenario first and then asking what will happen in the given scenario regarding asynchronous execution."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Question Construction",
+      "topic": "JavaScript question"
+    }
+  ],
+  "knowledge": []
+}

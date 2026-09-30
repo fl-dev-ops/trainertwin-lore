@@ -1,0 +1,25 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Your Clients will Respect you MORE if...",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The title suggests a causal relationship between client respect and unspecified actions or behaviors, indicated by 'if...' followed by an unfinished statement."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Client respect",
+      "topic": "respect"
+    }
+  ],
+  "knowledge": []
+}

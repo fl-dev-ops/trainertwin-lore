@@ -1,0 +1,325 @@
+{
+  "adaptations_status": "proposed_not_observed",
+  "config": {
+    "authors": [
+      "olgasi"
+    ],
+    "max_chars": 60000,
+    "max_sources": 24,
+    "model": "openai/gpt-4o",
+    "reviewed_only": false
+  },
+  "coverage": {
+    "active_records": 839,
+    "active_sources": 149,
+    "duplicate_publications_omitted": 0,
+    "eligible_sources": 84,
+    "excluded_records": {
+      "attribution_unknown_or_other": 125
+    },
+    "policy": "All eligible case/expression records from date/channel-balanced, content-deduplicated publications",
+    "selected_by_channel": {
+      "linkedin": 12,
+      "youtube": 12
+    },
+    "selected_dates": [
+      "2026-03-29",
+      "2026-03-30T12:31:32.081000Z",
+      "2026-03-30T14:34:17.839000Z",
+      "2026-03-31",
+      "2026-04-01T04:30:09.663000Z",
+      "2026-04-02",
+      "2026-04-02T05:01:33.628000Z",
+      "2026-04-02T10:56:04.637000Z",
+      "2026-04-04",
+      "2026-04-06",
+      "2026-08-20",
+      "2026-08-30",
+      "2026-09-10",
+      "2026-09-17",
+      "2026-09-17T12:13:05.631000Z",
+      "2026-09-19",
+      "2026-09-21T08:33:34.796000Z",
+      "2026-09-25",
+      "2026-09-25T02:58:33.252000Z",
+      "2026-09-27T04:15:02.095000Z",
+      "2026-09-28T11:32:35.123000Z",
+      "2026-09-29T04:00:04.621000Z"
+    ],
+    "selected_examples": 58,
+    "selected_sources": 24,
+    "source_limit_omitted": 60,
+    "warning": "Counts describe selected evidence, not persona confidence or extraction recall"
+  },
+  "observation_review": "unreviewed",
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-8483fbfa17002987",
+          "quote": "Dubai Real Estate Sales Mentor & Business Consultant | 11+ years Selling | 6+ years Coaching. Turning “Just send me some options…” into Closed deals.",
+          "unit_id": "linkedin-olgasi-yaml-ef8e458ca5:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The headline states the role and experience of the person, followed by a phrase 'Turning “Just send me some options...” into Closed deals.'",
+      "proposed_adaptation": {
+        "action": "Structuring headlines with role, experience, and a capability slogan",
+        "limits": "Effectiveness in attracting engagement is unevaluated",
+        "when": "Professional profiles or networks looking to highlight personal achievements and expertise"
+      },
+      "qualification": "The expression is only observed on the LinkedIn profile, not across multiple channels.",
+      "scope": "linkedin",
+      "situation": "Authored text on LinkedIn highlighting years of experience and subject-matter expertise.",
+      "support_ids": [
+        "ex-8483fbfa17002987"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-2435379ea871e866",
+          "quote": "Is Dubai over hype? No, but the thing where got hype is not most of you think it was. It was never the city, it was the exit.",
+          "unit_id": "youtube-video-2026-09-25-what-changed-in-dubai-real-estate-in-2026-falling-resales-ha-f4d1591cf2:u000027"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker uses a dismissive tone to describe perceptions of Dubai being overhyped, emphasizing the focus on the exit rather than the city itself.",
+      "proposed_adaptation": {
+        "action": "Use a similar dismissive tone to challenge mainstream perceptions and refocus discussions on specific strategies or elements.",
+        "limits": "Not applicable to contexts requiring neutral or positive encouragement without critique.",
+        "when": "Discussing market perceptions in other real estate contexts."
+      },
+      "qualification": "The observation is based on a single video transcript and may not represent a consistent pattern across multiple videos or other contexts.",
+      "scope": "youtube",
+      "situation": "A video discussing the Dubai real estate market, focusing on market strategies and perceptions.",
+      "support_ids": [
+        "ex-2435379ea871e866"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-2cb6702ae9616f3e",
+          "quote": "everyone is dancing and they assume this is how the room looks like all the time. But this market isn't falling apart. It's just Tuesday,",
+          "unit_id": "youtube-video-2026-09-25-what-changed-in-dubai-real-estate-in-2026-falling-resales-ha-f4d1591cf2:u000014"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker contrasts perceptions of Dubai as a bubble with an analogy about a social event to illustrate the market's returning to normality, saying 'everyone is dancing and they assume this is how the room looks like all the time. But this market isn't falling apart. It's just Tuesday.'",
+      "proposed_adaptation": {
+        "action": "Use an analogy of a social event or regular occurrence to depict the hyperbolic nature of market speculation.",
+        "limits": "Do not extend to markets without cultural familiarity with the analogy or in written analyses favoring data over metaphor.",
+        "when": "Delivering a critical comparison of market conditions with exaggerated perceptions"
+      },
+      "qualification": "Observation based on a single YouTube example, identity of speaker not independently authenticated.",
+      "scope": "youtube",
+      "situation": "Discussion on Dubai real estate market by a YouTube speaker, contrasting current perceptions of market normality with a past inflated perception depicted as a party.",
+      "support_ids": [
+        "ex-2cb6702ae9616f3e"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-f4ff6606c2d883b7",
+          "quote": "sees this opportunity of March twenty twenty-six not as a downfall but as a kind of uprising cleanse of the market.",
+          "unit_id": "youtube-video-2026-03-31-smart-agents-see-this-market-as-a-cleanse-not-a-crisis-3f1wp-900c0410c1:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The invitation to join the Telegram community uses motivational language to frame a market change as a positive opportunity, not a crisis, expressed as 'sees this opportunity of March twenty twenty-six not as a downfall but as a kind of uprising cleanse of the market.'",
+      "proposed_adaptation": {
+        "action": "Describe systemic changes with positive connotations, highlighting growth rather than declines.",
+        "limits": "Not universally suitable for all audience moods or when market downturns have direct negative impacts on invitees.",
+        "when": "Inviting participants to a resource-sharing community in a volatile market"
+      },
+      "qualification": "Single-channel observation with speaker identity unauthenticated.",
+      "scope": "youtube",
+      "situation": "YouTube speaker promotes a Telegram community by framing a market change in motivational terms as a positive opportunity rather than a crisis.",
+      "support_ids": [
+        "ex-f4ff6606c2d883b7"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-b37420b734a4422c",
+          "quote": "So next time when you are Cold Dming or Introducing yourself on a networking event instead of!",
+          "unit_id": "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:u000001"
+        },
+        {
+          "example_id": "ex-b37420b734a4422c",
+          "quote": "Is this something that you may possibly will benefit from with your own sales team?",
+          "unit_id": "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:u000002"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "The author suggests a self-introduction strategy: state the problems you solve and the solutions offered, rather than listing personal titles or certifications.",
+      "proposed_adaptation": {
+        "action": "Encourage professionals to introduce themselves by outlining the problems they address and their offered solutions.",
+        "limits": "Does not apply when personal credentials are specifically requested.",
+        "when": "When doing cold introductions or networking in a professional setting."
+      },
+      "qualification": "Based on a LinkedIn post, self-reported by the author without independent observation.",
+      "scope": "linkedin",
+      "situation": "A LinkedIn post where the author advises on cold introductions and networking events.",
+      "support_ids": [
+        "ex-b37420b734a4422c"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-fb65cff12bfca6e7",
+          "quote": "Please follow carefully. 😇 Bad advice #1: Before you WhatsApp the lead, send an email first. Especially if they are European or American.",
+          "unit_id": "linkedin-posts-2026-09-25-how-to-spot-a-not-md-9cfd139d2f:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The post uses sarcasm and humor to critique conventional sales advice by labeling them as 'Bad advice.'",
+      "proposed_adaptation": {
+        "action": "Employ sarcasm and humor by calling ineffective advice 'bad advice' to highlight its impracticality.",
+        "limits": "Avoid in contexts where sarcasm may be misunderstood or perceived as unprofessional, such as formal reports or highly cultural sensitive environments.",
+        "when": "Critiquing overly adhered sales scripts or advice in written communication."
+      },
+      "qualification": "Inherent to this particular authored example, without other platforms to support broader use.",
+      "scope": "linkedin",
+      "situation": "LinkedIn post critiquing common sales errors through humor and sarcasm.",
+      "support_ids": [
+        "ex-fb65cff12bfca6e7"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-4cb78c53516d79c8",
+          "quote": "Which problem Do You solve?…. This is my first question to",
+          "unit_id": "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The post begins with a provocative question as a rhetorical device to engage the reader and introduce the topic.",
+      "proposed_adaptation": {
+        "action": "Use a provocative question as a rhetorical device to draw attention and engage the audience.",
+        "limits": "Not suitable for detailed technical or factual presentations where clarity from the outset is necessary.",
+        "when": "Crafting introductory messages or speeches."
+      },
+      "qualification": "Observed in a single authored LinkedIn post; no counter-examples within the batch.",
+      "scope": "linkedin",
+      "situation": "An authored LinkedIn post presenting advice on introducing oneself at networking events.",
+      "support_ids": [
+        "ex-4cb78c53516d79c8"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-631980d4ebc7e4c1",
+          "quote": "discipline is not mood you find on Monday morning. It's a resource you either produce or borrow.",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000027"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Olga Si uses an analogy comparing discipline to a resource that must be produced or borrowed, rather than a mood found on Monday morning.",
+      "proposed_adaptation": {
+        "action": "Use analogies to frame abstract concepts like discipline as tangible resources.",
+        "limits": "Not applicable in contexts where literal resource management is involved, as it might mislead rather than clarify.",
+        "when": "Addressing motivation or discipline in coaching or self-help settings."
+      },
+      "qualification": "Based on a single spoken instance within a YouTube video; no cross-platform repetition observed.",
+      "scope": "youtube",
+      "situation": "A spoken scenario during a YouTube video dealing with real estate time management.",
+      "support_ids": [
+        "ex-631980d4ebc7e4c1"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-b7079c04d062857f",
+          "quote": "Dubai won Expo 2020 bid in November 2013, seven years before the event. And the market didn't wait for their Expo to open.",
+          "unit_id": "youtube-video-2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-48ff0090d5:u000010"
+        },
+        {
+          "example_id": "ex-b7079c04d062857f",
+          "quote": "Riyadh won Expo twenty thirteen October twenty twenty three.",
+          "unit_id": "youtube-video-2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-48ff0090d5:u000011"
+        },
+        {
+          "example_id": "ex-b7079c04d062857f",
+          "quote": "I'm not telling Riyadh will repeat Dubai numbers. It may not.",
+          "unit_id": "youtube-video-2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-48ff0090d5:u000012"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker compares Dubai's Expo 2020 experience to Riyadh's post-Expo 2030 win, highlighting market impacts and development timelines, while noting he's not predicting Riyadh will repeat Dubai's numbers.",
+      "proposed_adaptation": {
+        "action": "Use historical precedents to frame expectations for similar current events, clarifying parallels without predicting direct repetition of outcomes.",
+        "limits": "Avoid implying direct causality or guaranteed outcomes, focus on illustrating similarities in scenarios.",
+        "when": "When comparing historical economic impacts of major international events on cities to current scenarios."
+      },
+      "qualification": "The expression is a comparison within a particular context and does not claim or predict exact outcomes across different situations.",
+      "scope": "youtube",
+      "situation": "The speaker compares Dubai's experience after winning Expo 2020 to Riyadh's current situation post Expo 2030 win, focusing on potential market impacts and timelines for infrastructure development.",
+      "support_ids": [
+        "ex-b7079c04d062857f"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-b0f159f34ded8476",
+          "quote": "I can read regulations, I can see the transactions... but I cannot predict the future. Now that can anyone else who's making video about this.",
+          "unit_id": "youtube-video-2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-48ff0090d5:u000027"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker articulates their inability to predict the real estate market's future by emphasizing observation limits and the subjective nature of their opinion, shared across similar commentators.",
+      "proposed_adaptation": {
+        "action": "Emphasize personal observations and limitations in predictive accounts, highlighting the uncertain nature of forecasting in volatile markets.",
+        "limits": "Avoid presenting subjective observations as comprehensive forecasts, maintain transparency about informational boundaries.",
+        "when": "When discussing market forecasts and acknowledging limitations in prediction."
+      },
+      "qualification": "The expression is presented as a personal and perspective-driven limitation in forecasting, rather than an absolute claim applicable to all contexts.",
+      "scope": "youtube",
+      "situation": "The speaker presents their personal view on real estate predictions, noting limitations in forecasting and the speculative nature of the market.",
+      "support_ids": [
+        "ex-b0f159f34ded8476"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-7edbd9d938b2d0cf",
+          "quote": "only probably a very small percentage, maybe even two percent of people going to move before it's going to be obvious for everyone else.",
+          "unit_id": "youtube-video-2026-08-20-dubai-vs-saudi-real-estate-foreign-ownership-expo-2030-the-n-48ff0090d5:u000029"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker uses a small percentage analogy (two percent) to highlight investors likely to act in early markets with incomplete data.",
+      "proposed_adaptation": {
+        "action": "Use analogy of small percentages to communicate the rarity and risk tolerance required for early investment action, reinforcing understanding of minority investor dynamics.",
+        "limits": "Do not generalize specific percentages across all markets and historical periods; maintain focus on illustrative purposes.",
+        "when": "When highlighting the behavior of early adopters within emerging investment markets."
+      },
+      "qualification": "This is an illustrative analogy specific to the context of the speaker's discussion and not a universal predictor of market behavior.",
+      "scope": "youtube",
+      "situation": "The speaker uses a percentage analogy to discuss the early adoption risk in emerging markets, drawing on historical patterns observed in Dubai.",
+      "support_ids": [
+        "ex-7edbd9d938b2d0cf"
+      ]
+    }
+  ]
+}

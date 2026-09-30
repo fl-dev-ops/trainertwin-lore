@@ -1,0 +1,28 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You can Make Money In any situation",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "You can Make Money In any situation"
+      },
+      "title": "generate income opportunities",
+      "topic": "income generation"
+    }
+  ]
+}

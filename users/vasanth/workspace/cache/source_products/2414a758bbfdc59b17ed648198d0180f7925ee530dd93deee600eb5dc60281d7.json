@@ -1,0 +1,386 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000141",
+        "u000142",
+        "u000143"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "The complete execution example. So we have console.log a very very popular interview question maybe two three year back.",
+            "unit_id": "u000141"
+          }
+        ],
+        "text": "Vasanth demonstrates the execution order of JavaScript using a simple code snippet involving `console.log`, `setTimeout`, and `Promise.resolve`."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Execution Order Example in JavaScript",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "context_unit_ids": [
+        "u000146",
+        "u000147",
+        "u000148",
+        "u000150"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "do we have to return that object also if we mutate",
+            "unit_id": "u000146"
+          }
+        ],
+        "text": "do we have to return that object also if we mutate"
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": {
+        "citations": [
+          {
+            "quote": "Yes, it's gonna get reflected. Okay.",
+            "unit_id": "u000152"
+          }
+        ],
+        "text": "If objects are modified, the changes reflect in the original object."
+      },
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Objects and arrays are shallow copied",
+            "unit_id": "u000150"
+          }
+        ],
+        "text": "Objects and arrays are shallow copied so by nature it is not going to get mutated."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "like in the example where object was passed in an argument in a function",
+            "unit_id": "u000146"
+          }
+        ],
+        "text": "Param asks about mutating objects passed as function arguments and whether it reflects on the original object."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Mutating JavaScript Objects",
+      "topic": "JavaScript Objects"
+    },
+    {
+      "context_unit_ids": [
+        "u000155",
+        "u000160"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "say you have ten of those. So all ten of those would be like transferred to the call stack in the same order",
+            "unit_id": "u000155"
+          }
+        ],
+        "text": "say you have ten of those. So all ten of those would be like transferred to the call stack in the same order"
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "What Event-to does is it checks in this in this particular period how many of them are there and it'll move all of them to call stack in the same order.",
+            "unit_id": "u000161"
+          }
+        ],
+        "text": "Event loop checks how many tasks are present within a period and moves them in the same order."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "So say you have ten of those. So all ten of those would be like transferred to the call stack in the same order.",
+            "unit_id": "u000155"
+          }
+        ],
+        "text": "Soumya asks how microtask queue execution is handled when multiple tasks are involved."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Microtask Queue Execution",
+      "topic": "JavaScript Execution"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000136",
+        "u000137",
+        "u000139"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "execute call stack should be empty, that means everything in the call stack should be executed first.",
+            "unit_id": "u000137"
+          }
+        ],
+        "text": "Vasanth uses a step-by-step explanation to describe the execution order in JavaScript, starting from the call stack to microtasks and then macrotasks, repeating the cycle."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Explaining Execution Order",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "context_unit_ids": [
+        "u000139",
+        "u000143"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "the highest priority is given to micro task.",
+            "unit_id": "u000139"
+          }
+        ],
+        "text": "Vasanth highlights the concept of priority by explaining why microtasks have higher priority than macrotasks in the execution cycle."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Priority Explanation",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "context_unit_ids": [
+        "u000141",
+        "u000142"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "console.log a, then there is a set timeout, then there is a promise, then there is a console.log b.",
+            "unit_id": "u000141"
+          }
+        ],
+        "text": "Provides a sequence of commands with expected outputs to demonstrate how JavaScript execution order affects console outputs."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Execution Example",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "context_unit_ids": [
+        "u000150",
+        "u000152"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "obligation arrays are shallow copied",
+            "unit_id": "u000150"
+          }
+        ],
+        "text": "Vasanth clarifies confusion by affirming the nature of shallow copying in JavaScript when asked about object mutation."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Exchange on Object Mutation",
+      "topic": "JavaScript Objects"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000136",
+        "u000137"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "execution order call stack must be empty",
+            "unit_id": "u000136"
+          },
+          {
+            "quote": "execute call stack should be empty, that means everything in the call stack should be executed first. Followed by you execute one micro task. Followed by, sorry, followed by you execute all the micro task. Followed by you execute one macro task and you repeat the cycle.",
+            "unit_id": "u000137"
+          }
+        ],
+        "text": "The execution order in JavaScript involves ensuring that the call stack is empty, executing all microTasks, and then executing one macroTask, repeating the cycle."
+      },
+      "title": "JavaScript Event Loop Basics",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000139",
+        "u000143"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "after the call stack is empty, highest priority is given to micro task.",
+            "unit_id": "u000139"
+          },
+          {
+            "quote": "micro task queue have higher priority than the macro task queue.",
+            "unit_id": "u000143"
+          }
+        ],
+        "text": "Microtasks are given higher priority than macrotasks after the call stack is empty."
+      },
+      "title": "Microtask Priority in Execution",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000150",
+        "u000152"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Objects and arrays are shallow copied so by nature it is not going to get mutated.",
+            "unit_id": "u000150"
+          },
+          {
+            "quote": "Yes, it's gonna get reflected. Okay.",
+            "unit_id": "u000152"
+          }
+        ],
+        "text": "In JavaScript, objects and arrays are shallow copied, so mutations can reflect on the original object if modified."
+      },
+      "title": "JavaScript Object Mutation",
+      "topic": "JavaScript Objects"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000169",
+        "u000179"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "event loop is a custom algorithm for different JavaScript environments. As I told, Chrome has a different event loop, Node.js has a different event loop",
+            "unit_id": "u000169"
+          },
+          {
+            "quote": "event loop: JavaScript has given implementation for the whoever wants to use the event loop implementation is kept open",
+            "unit_id": "u000179"
+          }
+        ],
+        "text": "Different JavaScript environments like Chrome and Node.js can have custom implementations of the event loop."
+      },
+      "title": "Custom Event Loops by Environment",
+      "topic": "JavaScript Runtimes"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000141",
+        "u000142"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there is a promise, then there is a console.log b",
+            "unit_id": "u000141"
+          },
+          {
+            "quote": "And then D will be printed.",
+            "unit_id": "u000142"
+          }
+        ],
+        "text": "Vasanth provided an example involving `console.log`, `setTimeout`, and `promise`. The output sequence demonstrated the priority of sync tasks followed by microtasks, and then macrotasks."
+      },
+      "title": "Execution Example with JavaScript Code",
+      "topic": "JavaScript Execution"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000144"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "many people I know use this as a small delay while executing. Let's say in React a component is mounted but you need to start the processing after a small delay.",
+            "unit_id": "u000144"
+          }
+        ],
+        "text": "`setTimeout` is often used to introduce a small delay in JavaScript, such as in React where components need processing after a delay."
+      },
+      "title": "Use of setTimeout for Delays",
+      "topic": "JavaScript Timing"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000169"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "what is the millisecond or microsecond with which it is gonna check is largely that browser or however the implementation dependent",
+            "unit_id": "u000169"
+          }
+        ],
+        "text": "The interval at which an event loop checks the call stack and queues can vary by environment and is specific to its implementation."
+      },
+      "title": "Algorithm Interval in Event Loop",
+      "topic": "JavaScript Runtimes"
+    }
+  ]
+}

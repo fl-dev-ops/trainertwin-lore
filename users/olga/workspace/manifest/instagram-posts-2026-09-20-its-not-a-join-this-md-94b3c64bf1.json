@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "instagram-posts-2026-09-20-its-not-a-join-this-md-94b3c64bf1-1e7bcd3470d850ce8cc1.jsonl",
+  "evidence_hash": "cda90a366de92dd62438b673497f8cf925af4e2400e633656c64eb7d3a331082",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:10:17Z",
+  "metadata_hash": "2d653cfaf4169c8505ac72fc9d79b5660a3aad3a8f74a83b73fd93ad31549908",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 4
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "1e7bcd3470d850ce8cc1",
+  "snapshot_hash": "1dde6f302f475caec749a8c293884771acc866d299e9fdea8c892a5fd7b8c95a",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-09-20-its-not-a-join-this-md-94b3c64bf1",
+  "source_path": "instagram/posts/2026-09-20-its-not-a-join-this.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "0ca8af6faa4ac3e15b09b54bba7d31ad4e92e8263f0e96c1a5df309f7614ba3b",
+  "source_snapshot": "instagram-posts-2026-09-20-its-not-a-join-this-md-94b3c64bf1-1e7bcd3470d850ce8cc1.json",
+  "version": "4"
+}

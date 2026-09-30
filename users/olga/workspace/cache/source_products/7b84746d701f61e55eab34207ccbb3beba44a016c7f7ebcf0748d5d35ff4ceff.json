@@ -1,0 +1,89 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Is this only me… or you are as well bombarded by Sales messages- which have Such a generic text…",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text expresses frustration with sales messages through a rhetorical question and exclamation for emphasis."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Expressing Frustration",
+      "topic": "tone of complaint"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "My basic advice with all respect- start with a Problem Statement in a message and ask a question… “…is there something that you potentially experiencing?”\n\nI guarantee higher response rate from already warm clients!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The advice is structured as a direct recommendation followed by a guarantee, suggesting confidence in the proposed method."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Advice Structure",
+      "topic": "recommendation structure"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Is this only me… or you are as well bombarded by Sales messages- which have Such a generic text…",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author feels bombarded by sales messages with generic text, written by AI, which merely list services that are hard to understand."
+      },
+      "title": "Generic Sales Messages",
+      "topic": "communication critique"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "My basic advice with all respect- start with a Problem Statement in a message and ask a question… “…is there something that you potentially experiencing?”",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author advises starting a message with a problem statement and asking a question to achieve a higher response rate from warm clients."
+      },
+      "title": "Advice for higher response rate",
+      "topic": "sales strategy"
+    }
+  ]
+}

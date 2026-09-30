@@ -1,0 +1,33 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Shocking… It works!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The title \"Shocking… It works!\" uses ellipsis and an unexpected claim to grab attention."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "Shocking… It works!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The purpose is to capture the reader's attention with surprise or intrigue."
+      },
+      "speaker_id": null,
+      "title": "Emotionally Engaging Title",
+      "topic": "Title Effect"
+    }
+  ],
+  "knowledge": []
+}

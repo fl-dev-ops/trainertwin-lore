@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b-806e4a180a9ba22b1e13.jsonl",
+  "evidence_hash": "188c208b7e58bc627c2b95ff1f84ecbbbcccb92d34cddcb4fa975c4eee4d2dcc",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:32:20Z",
+  "metadata_hash": "721022f929e2178650cf23056c7ef076480614f1ffb19b5e38867f0a254cbfec",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 4,
+    "units_total": 4
+  },
+  "revision": "806e4a180a9ba22b1e13",
+  "snapshot_hash": "112089e0398eae5b7a9aad5901fe918348b85bfd3a42d65230b83d4597053e96",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b",
+  "source_path": "linkedin/posts/2026-04-03-do-you-know-what-really.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "feeb61468126121b1e60b953b3f5af3631ff09da853f1a1b0ee43d89e902e454",
+  "source_snapshot": "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b-806e4a180a9ba22b1e13.json",
+  "version": "4"
+}

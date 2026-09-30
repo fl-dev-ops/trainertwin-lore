@@ -1,0 +1,25 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "We All lost the Future, Now what?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The title poses a question, indicating an exploration or discussion to follow."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Title structure",
+      "topic": "Title of post"
+    }
+  ],
+  "knowledge": []
+}

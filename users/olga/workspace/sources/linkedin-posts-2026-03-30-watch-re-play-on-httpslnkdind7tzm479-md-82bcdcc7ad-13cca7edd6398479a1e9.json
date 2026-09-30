@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "a6715392e548fdb3116c7726ca0f1f35534245870bdb7bbc79622a9ab2a49ed7",
+  "date": "2026-03-30T12:31:32.081000Z",
+  "date_basis": "source",
+  "external_id": "7444360665051602944",
+  "format": "post",
+  "id": "linkedin-posts-2026-03-30-watch-re-play-on-httpslnkdind7tzm479-md-82bcdcc7ad",
+  "metadata_hash": "7cb9f9bb32cc86181f239079a57e0d3caaebb1d72580dbf83296065d75512eea",
+  "original_text": "---\nid: '7444360665051602944'\ndate: '2026-03-30T12:31:32.081Z'\nurl: https://www.linkedin.com/posts/olgasi_if-you-feel-lost-and-demotivated-deal-are-activity-7444360665051602944-68jL\nlikes: 1\ncomments: 0\n---\n\nWatch Re-play on - https://lnkd.in/d7Tzm479\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-03-30-watch-re-play-on-httpslnkdind7tzm479-md-82bcdcc7ad:p000001",
+      "locator": "lines 9-9",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Watch Re-play on - https://lnkd.in/d7Tzm479"
+    }
+  ],
+  "path": "linkedin/posts/2026-03-30-watch-re-play-on---httpslnkdind7tzm479.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-03-30-watch-re-play-on---httpslnkdind7tzm479.md",
+  "sha256": "ab2f4240448b4bd5f55cb0d3993928abc2388f7523b152271a467dd4fc7787b7",
+  "speakers": {},
+  "title": "Watch Re-play on - https://lnkd.in/d7Tzm479",
+  "units": [
+    {
+      "end": 43,
+      "id": "linkedin-posts-2026-03-30-watch-re-play-on-httpslnkdind7tzm479-md-82bcdcc7ad:u000001",
+      "locator": "lines 9-9",
+      "passage_id": "linkedin-posts-2026-03-30-watch-re-play-on-httpslnkdind7tzm479-md-82bcdcc7ad:p000001",
+      "raw_text": "Watch Re-play on - https://lnkd.in/d7Tzm479",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Watch Re-play on - https://lnkd.in/d7Tzm479"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_if-you-feel-lost-and-demotivated-deal-are-activity-7444360665051602944-68jL"
+}

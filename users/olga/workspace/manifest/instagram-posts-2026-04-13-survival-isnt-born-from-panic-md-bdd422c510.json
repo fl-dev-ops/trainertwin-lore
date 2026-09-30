@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "instagram-posts-2026-04-13-survival-isnt-born-from-panic-md-bdd422c510-d82f4249e473287ec06a.jsonl",
+  "evidence_hash": "c3ab6c35651c0c8f5d0e99f128e3fb9cfbae0dcc5f0234e12ddcc2808feae9df",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:05:18Z",
+  "metadata_hash": "9f1f3f0d75b65834b9bf0fabbd942b8cce9354b3a223e3d72734b95915d98b2d",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 1,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 2,
+    "units_total": 2
+  },
+  "revision": "d82f4249e473287ec06a",
+  "snapshot_hash": "88ee201eb8c896a81ca9d360d8a087f828a3335d7789b636f8827e0cef7d2342",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-04-13-survival-isnt-born-from-panic-md-bdd422c510",
+  "source_path": "instagram/posts/2026-04-13-survival-isnt-born-from-panic.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "9b13671547b7171ec02b77dbd5604eb8878993866e406e22c40f49d64a2a590c",
+  "source_snapshot": "instagram-posts-2026-04-13-survival-isnt-born-from-panic-md-bdd422c510-d82f4249e473287ec06a.json",
+  "version": "4"
+}

@@ -1,0 +1,30 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you build around four things. Market and product knowledge, creating your database of investors, content based on the new knowledge that you are getting, and then you can create consistent flow of leads through the social media.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "New real estate agents should focus on market and product knowledge, creating a database of investors, developing content based on new knowledge, and practicing sales conversations."
+      },
+      "title": "Time management for new agents",
+      "topic": "Time management"
+    }
+  ]
+}

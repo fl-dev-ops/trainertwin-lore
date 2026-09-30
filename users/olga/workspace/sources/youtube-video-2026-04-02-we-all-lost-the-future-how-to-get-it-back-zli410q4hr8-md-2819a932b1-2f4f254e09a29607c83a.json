@@ -1,0 +1,104 @@
+{
+  "audience": "",
+  "author": "",
+  "category": "youtube",
+  "content_hash": "c2df160363262b177892a6d79ae3ce10f7608a629724b43f31e9ddeb6a8dbd3a",
+  "date": "2026-04-02",
+  "date_basis": "source",
+  "external_id": "Zli410Q4hR8",
+  "format": "transcript",
+  "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1",
+  "metadata_hash": "25f7f1fc018807cde4ad32f705e1a900c5929366d057f66825c74d3026264f10",
+  "original_text": "---\nid: Zli410Q4hR8\ntitle: We all lost The Future… How to get it back?\ndate: '2026-04-02'\nurl: https://www.youtube.com/shorts/Zli410Q4hR8\ndescription: ''\nduration: 00:00:58\nmodel: saaras:v3\ntranscript: true\n---\n\n# We all lost The Future… How to get it back?\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nuncertainty that you feel right now in Dubai is because the future you had, you dreamed, you probably lived already in it, without that even happening, is gone. You lost it.\n\n### 00:00:14 · Speaker 1\n\nAnd the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and being angry, you end up in exception.\n\n### 00:00:31 · Speaker 1\n\nasking yourself a simple question. Why is this happened for me? And you will find a lot of power and the reasons and the understanding for yourself how you can get a window of opportunities instead of this crisis and make money.\n\n### 00:00:50 · Speaker 1\n\nor at least enjoy and get new skills and new path, shift your career in different direction if it's needed. Everyone can do it. You can do it.\n",
+  "passages": [
+    {
+      "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:p000001",
+      "locator": "lines 18-18",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:00",
+      "text": "uncertainty that you feel right now in Dubai is because the future you had, you dreamed, you probably lived already in it, without that even happening, is gone. You lost it."
+    },
+    {
+      "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:p000002",
+      "locator": "lines 22-22",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:14",
+      "text": "And the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and being angry, you end up in exception."
+    },
+    {
+      "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:p000003",
+      "locator": "lines 26-26",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:31",
+      "text": "asking yourself a simple question. Why is this happened for me? And you will find a lot of power and the reasons and the understanding for yourself how you can get a window of opportunities instead of this crisis and make money."
+    },
+    {
+      "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:p000004",
+      "locator": "lines 30-30",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:50",
+      "text": "or at least enjoy and get new skills and new path, shift your career in different direction if it's needed. Everyone can do it. You can do it."
+    }
+  ],
+  "path": "youtube/video/2026-04-02-we-all-lost-the-future-how-to-get-it-back-Zli410Q4hR8.md",
+  "purpose": "",
+  "relative_path": "youtube/video/2026-04-02-we-all-lost-the-future-how-to-get-it-back-Zli410Q4hR8.md",
+  "sha256": "179eb529b6fb71fbef3879e24464a27dced04df464897b02745252cf337c263e",
+  "speakers": {},
+  "title": "We all lost The Future… How to get it back?",
+  "units": [
+    {
+      "end": 173,
+      "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:u000001",
+      "locator": "lines 18-18",
+      "passage_id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:p000001",
+      "raw_text": "uncertainty that you feel right now in Dubai is because the future you had, you dreamed, you probably lived already in it, without that even happening, is gone. You lost it.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:00",
+      "text": "uncertainty that you feel right now in Dubai is because the future you had, you dreamed, you probably lived already in it, without that even happening, is gone. You lost it."
+    },
+    {
+      "end": 174,
+      "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:u000002",
+      "locator": "lines 22-22",
+      "passage_id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:p000002",
+      "raw_text": "And the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and being angry, you end up in exception.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:14",
+      "text": "And the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and being angry, you end up in exception."
+    },
+    {
+      "end": 228,
+      "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:u000003",
+      "locator": "lines 26-26",
+      "passage_id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:p000003",
+      "raw_text": "asking yourself a simple question. Why is this happened for me? And you will find a lot of power and the reasons and the understanding for yourself how you can get a window of opportunities instead of this crisis and make money.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:31",
+      "text": "asking yourself a simple question. Why is this happened for me? And you will find a lot of power and the reasons and the understanding for yourself how you can get a window of opportunities instead of this crisis and make money."
+    },
+    {
+      "end": 142,
+      "id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:u000004",
+      "locator": "lines 30-30",
+      "passage_id": "youtube-video-2026-04-02-we-all-lost-the-future-how-to-get-it-back-zli410q4hr8-md-2819a932b1:p000004",
+      "raw_text": "or at least enjoy and get new skills and new path, shift your career in different direction if it's needed. Everyone can do it. You can do it.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:50",
+      "text": "or at least enjoy and get new skills and new path, shift your career in different direction if it's needed. Everyone can do it. You can do it."
+    }
+  ],
+  "url": "https://www.youtube.com/shorts/Zli410Q4hR8"
+}

@@ -1,0 +1,46 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "One of the most important ones is the decision making funnel. Every time I show it on my trainings and I'm asking, have you seen ever the funnel representation of anything?",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker begins by emphasizing the importance of the 'decision making funnel' and introduces it as something they often use in training. They ask the audience if they are familiar with funnel representations."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Decision making funnel introduction",
+      "topic": "sales funnel"
+    },
+    {
+      "context_unit_ids": [
+        "u000003",
+        "u000004"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "we have a sales funnel so the lead are coming uh from lead generating machine and then they're going through the process and then they're buying in the end.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The explanation transitions from a general query about sales funnel awareness to a specific description of the funnel process, equating it to the journey from a lead generator to the completion of a sale."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Sales funnel process",
+      "topic": "sales funnel"
+    }
+  ],
+  "knowledge": []
+}

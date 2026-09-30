@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2026-07-20-100-agree-on-that-just-md-222acbd073-099105fd07cebd22e26b.jsonl",
+  "evidence_hash": "3978ed8bbf3e79b5d3eec3fd750c1bef8ded2424ecea8b031e7b5575416f9891",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:15:28Z",
+  "metadata_hash": "8db6b27f1dd7cd03fcd3fe401e8dd49b480d501fd3321b98d1edee6a79d7aa95",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "099105fd07cebd22e26b",
+  "snapshot_hash": "4afdce6c963a9bad8e42f00c5a380a8893c7bdca7053075b7bd07403a4063a9a",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-07-20-100-agree-on-that-just-md-222acbd073",
+  "source_path": "linkedin/posts/2026-07-20-100-agree-on-that-just.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "55b4ff398475a8248ec44fea6e296e95034fe3fa35917fb1c342f66e9d514baa",
+  "source_snapshot": "linkedin-posts-2026-07-20-100-agree-on-that-just-md-222acbd073-099105fd07cebd22e26b.json",
+  "version": "4"
+}

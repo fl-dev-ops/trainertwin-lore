@@ -1,0 +1,296 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000232",
+        "u000233"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "then it will offload that thing to the web APIs.",
+            "unit_id": "u000232"
+          }
+        ],
+        "text": "There is a common misunderstanding about when code comes to the call stack and execution via web APIs."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "JavaScript Execution Misconception",
+      "topic": "JavaScript"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000231",
+        "u000232"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So any line that need to get executed will always come to call stack first.",
+            "unit_id": "u000231"
+          },
+          {
+            "quote": "then it will offload that thing to the web APIs.",
+            "unit_id": "u000232"
+          }
+        ],
+        "text": "The speaker describes the process where any line of code is first sent to the call stack. If the JavaScript engine cannot handle it, it offloads the task to web APIs, which then return to the queue and the call stack for execution."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Explanation of Execution Flow",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000226",
+        "u000227"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "JavaScript executes code, there is no code in JavaScript can be executed in parallel.",
+            "unit_id": "u000226"
+          },
+          {
+            "quote": "It's not parallel. It executes things in a concurrent way.",
+            "unit_id": "u000227"
+          }
+        ],
+        "text": "The speaker emphasizes the difference between parallel and concurrent execution, noting that JavaScript operates concurrently rather than in parallel due to having a single thread."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Differentiation Between Parallel and Concurrent",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000237"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Execution context is an environment in which JavaScript code is evaluated and executed. ... At any moment, only one execution context is active.",
+            "unit_id": "u000237"
+          }
+        ],
+        "text": "The explanation includes a definition of execution context as the environment where JavaScript code runs, emphasizing the active state of the execution context which must be on top of the call stack."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Explanation of Execution Context",
+      "topic": "JavaScript"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "Set time out of zero doesn't mean immediate execution.",
+              "unit_id": "u000221"
+            }
+          ],
+          "text": "Set time out of zero doesn't mean immediate execution."
+        }
+      ],
+      "context_unit_ids": [
+        "u000221"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript executes code using a single call stack. Asynchronous operations are handled by browser with APS.",
+            "unit_id": "u000221"
+          }
+        ],
+        "text": "JavaScript executes code using a single call stack. Asynchronous operations are handled by the browser with APIs."
+      },
+      "title": "JavaScript Execution",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000226"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript executes code, there is no code in JavaScript can be executed in parallel. Okay, parallel processing cannot happen in JavaScript, the reason being there is only one thread that executes everything.",
+            "unit_id": "u000226"
+          }
+        ],
+        "text": "JavaScript executes code sequentially because there is only one thread that executes everything."
+      },
+      "title": "Event Loop Function",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000227",
+        "u000228"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript executes thing in a uh there are two things. It's not parallel. It executes things in a concurrent way.",
+            "unit_id": "u000227"
+          },
+          {
+            "quote": "memory intensive can happen in parallel but two things cannot be executed in parallel.",
+            "unit_id": "u000228"
+          }
+        ],
+        "text": "JavaScript cannot execute tasks in parallel due to a single thread, but it can execute them concurrently."
+      },
+      "title": "Parallel vs Concurrent Execution",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000237"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Execution context is an environment in which JavaScript code is evaluated and executed. Every time JavaScript runs the code, it does inside the execution context. At any moment, only one execution context is active.",
+            "unit_id": "u000237"
+          }
+        ],
+        "text": "An execution context is an environment in which JavaScript code is evaluated and executed. Only one execution context is active at any given moment, and it sits on top of the call stack."
+      },
+      "title": "Execution Context",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000224"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript is host agnostic. The same JS engine can be run in browser, Node JS. Deno is actually an equivalent to Node JS. I've added here. It's secure, modern, runtime equivalent to Node JS with some changes.",
+            "unit_id": "u000224"
+          }
+        ],
+        "text": "JavaScript is host agnostic, meaning the same JavaScript engine can run in different environments, and each environment provides its own event loop implementation and APIs."
+      },
+      "title": "Event Loop Implementation",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000231",
+        "u000232"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So any line that need to get executed will always come to call stack first.",
+            "unit_id": "u000231"
+          },
+          {
+            "quote": "then it will offload that thing to the web APIs.",
+            "unit_id": "u000232"
+          }
+        ],
+        "text": "Any line of code that needs to get executed will always come to the call stack first, and JavaScript engine will determine if it can handle it or offload it to web APIs."
+      },
+      "title": "Execution Flow in JavaScript",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000233"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript do not care. Unless it comes to the stack, it is not going to execute.",
+            "unit_id": "u000233"
+          }
+        ],
+        "text": "The JavaScript engine only executes items within the call stack; items in micro task and macro task queues are not executed unless they reach the call stack."
+      },
+      "title": "Call Stack and Execution Context",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000238"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Types of execution context are two execution context. Global execution context and the function execution context.",
+            "unit_id": "u000238"
+          }
+        ],
+        "text": "There are two types of execution contexts in JavaScript: Global Execution Context and Function Execution Context."
+      },
+      "title": "Execution Context Types",
+      "topic": "JavaScript"
+    }
+  ]
+}

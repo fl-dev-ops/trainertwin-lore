@@ -1,0 +1,244 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000035"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I see Dubai real estate from the government regulation side as a hot stove. So, when the market needs to be, let's say, increased, they push the the heater up",
+            "unit_id": "u000035"
+          }
+        ],
+        "text": "The Dubai real estate market is compared to a hot stove, implying that government regulations adjust the market conditions like turning up heat."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Analogy in Market Regulation",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "context_unit_ids": [
+        "u000048"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "it took us almost three years to drop forty percent in price. So if you're looking for the whole market to go down to to forty percent, that probably not going to happen within one or two or three or even or even twelve months altogether.",
+            "unit_id": "u000048"
+          }
+        ],
+        "text": "A comparison is made between historical market cycles to illustrate potential future market behaviors, using a timeline reference and percentage change as markers."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Historical Comparison of Real Estate Dynamics",
+      "topic": "Dubai Property Market"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000026"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the property registration hasn't been done yet. So this push is from the Benghati project, Benghati Sky Flames, which was very successful, a significant amount been sold.",
+            "unit_id": "u000026"
+          }
+        ],
+        "text": "The property registration hasn't been done yet, affecting the market dynamics."
+      },
+      "title": "Market Split and Property Registration Impact",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000027",
+        "u000028"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "but we had already several cycles in Dubai. Yes, you can see the actual behavior of the prices from two thousand eight.",
+            "unit_id": "u000027"
+          }
+        ],
+        "text": "Dubai had several market cycles since 2008, with recorded data showing how prices behaved."
+      },
+      "title": "Dubai Property Market Tracking",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I would say we got an opportunity to host Expo 2020, which actually happened in 2021. So this alone put Dubai on the arena of international, not real estate market, of international business field.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "Hosting Expo 2020 led to fast market movement and increased international recognition."
+      },
+      "title": "Expo 2020 Impact on Market",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000030"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I opened my training company and now I literally train and coach agencies and do business consultancy for the company as well.",
+            "unit_id": "u000030"
+          }
+        ],
+        "text": "Olga opened a training company in 2020 focused on coaching agencies and business consultancy."
+      },
+      "title": "Training and Consultancy Offer",
+      "topic": "Training Services"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000036"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "it was like the beginning of the social media. So now, you probably hear about Dubai from each and every refrigerator.",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "The beginning of social media increased Dubai's international presence, impacting population interest."
+      },
+      "title": "Social Media Influence",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000046"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "demand on the townhouses and villas increased significantly for the ready properties uh after Corona.",
+            "unit_id": "u000046"
+          }
+        ],
+        "text": "Demand for townhouses and villas increased significantly for ready properties after Corona."
+      },
+      "title": "Post-Corona Demand Shift",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000048"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "it took us almost three years to drop forty percent in price.",
+            "unit_id": "u000048"
+          }
+        ],
+        "text": "A previous market took almost three years to drop forty percent in price."
+      },
+      "title": "Price Drop Timeline",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000050"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "it's way more appealing to get the free two years, four years payment plan rather than try to get a mortgage or trying to get some sort of a cheaper unit on the secondary market.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "Developers' free years payment plans appeal more to international investors than secondary market options."
+      },
+      "title": "Payment Plans Appeal",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000053"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So that most probably the seller before at least, uh, he could say, no, you know what? I'm still wanting this.",
+            "unit_id": "u000053"
+          }
+        ],
+        "text": "If bank valuation is lower than the asking price, sellers may still hold to their price, unlike UK norms."
+      },
+      "title": "Bank Valuation Impact",
+      "topic": "Dubai Property Market"
+    }
+  ]
+}

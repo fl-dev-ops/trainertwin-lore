@@ -1,0 +1,28 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Full Training on my Youtube Channel",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "A full training is available on the author's YouTube channel with the hashtag #ColdCallingTraining."
+      },
+      "title": "Cold Calling Training on YouTube",
+      "topic": "Training Resource"
+    }
+  ]
+}

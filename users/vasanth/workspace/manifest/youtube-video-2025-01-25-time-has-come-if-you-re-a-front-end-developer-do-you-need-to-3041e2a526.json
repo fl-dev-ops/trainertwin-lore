@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 9,
+  "evidence_file": "youtube-video-2025-01-25-time-has-come-if-you-re-a-front-end-developer-do-you-need-to-3041e2a526-520272c6335173e35d24.jsonl",
+  "evidence_hash": "59c0fd37a4da138c0d9cc6465f75fb88b90558e669f2d7348f9c8ff5431dffa0",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T21:12:44Z",
+  "metadata_hash": "4cc077524eb2753f6286880c519d85b783b32bbca751e6a705c2b85370e1a732",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 2,
+    "knowledge": 6
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 10,
+    "units_total": 22
+  },
+  "revision": "520272c6335173e35d24",
+  "snapshot_hash": "34edc64be37f4e432a09419a595d08f9210b583a2233dbc3a3219d217fefcf4d",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2025-01-25-time-has-come-if-you-re-a-front-end-developer-do-you-need-to-3041e2a526",
+  "source_path": "youtube/video/2025-01-25-time-has-come-if-you-re-a-front-end-developer-do-you-need-to-r2IEDA12vo0.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/vasanth/data",
+  "source_sha256": "2547f401eb61a7558d7f71be9e12dbc52f07708474f6b6d708cc7569d70b2b18",
+  "source_snapshot": "youtube-video-2025-01-25-time-has-come-if-you-re-a-front-end-developer-do-you-need-to-3041e2a526-520272c6335173e35d24.json",
+  "version": "4"
+}

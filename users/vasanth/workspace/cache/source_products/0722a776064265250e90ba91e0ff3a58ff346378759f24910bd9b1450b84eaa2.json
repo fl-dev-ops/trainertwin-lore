@@ -1,0 +1,324 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000183",
+        "u000188",
+        "u000189"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "What if if I have the same kind of file in two files? So how it will execute?",
+            "unit_id": "u000183"
+          }
+        ],
+        "text": "What if if I have the same kind of file in two files? So how it will execute?"
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "files are something a logical separation for human to understand, like one dot js, two dot js to ten dot js",
+            "unit_id": "u000188"
+          },
+          {
+            "quote": "whatever the logical separation that you think you have according as per the files, that are not a logical separation for the browser to execute. Okay, but there will be at times where there is more than one global I'm going to explain more about global execution model where one more than one can exist.",
+            "unit_id": "u000189"
+          }
+        ],
+        "text": "Files are logical separations for humans and don't affect browser execution much. At times more than one global execution can exist."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Okay, okay, so my second question is, now you explain that concept of micro task, macro task with the one simple file with the console, right? What if if I have the same kind of file in two files? So how it will execute?",
+            "unit_id": "u000183"
+          }
+        ],
+        "text": "A participant asked about executing similar files across multiple files and how it impacts the JavaScript execution."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "File execution in JavaScript",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000192",
+        "u000195"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "But as you mentioned that any task that is put inside this stack is executed immediately.",
+            "unit_id": "u000192"
+          }
+        ],
+        "text": "But as you mentioned that any task that is put inside this stack is executed immediately."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "there is an execution context that will be created and statements will be executed inside that.",
+            "unit_id": "u000195"
+          },
+          {
+            "quote": "Then B is pushed onto the stack, then console.log is executed. So there is a chronological order that we need to maintain, like how to which function should be popped when and the return value of that should be passed to which function.",
+            "unit_id": "u000196"
+          }
+        ],
+        "text": "JavaScript uses an execution context for tasks, and there is an execution order maintained in the call stack for function calls like A calling B, B calling C."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "But as you mentioned that any task that is put inside this stack is executed immediately.",
+            "unit_id": "u000192"
+          }
+        ],
+        "text": "A participant asked how calling a stack data structure relates to immediate task execution in JavaScript."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Call stack discussion",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000198",
+        "u000201"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "how like browser things will know whether I have to move this promise to micro or macro.",
+            "unit_id": "u000198"
+          }
+        ],
+        "text": "how like browser things will know whether I have to move this promise to micro or macro."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "No, I think you'll not be able to visualize because these are intrinsic. And which one to put in micro task and which one to put in macro task is predefined",
+            "unit_id": "u000201"
+          }
+        ],
+        "text": "It cannot be visualized because these distinctions are predefined and intrinsic."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "how like browser things will know whether I have to move this promise to micro or macro.",
+            "unit_id": "u000198"
+          }
+        ],
+        "text": "A participant asked whether task execution between micro and macro can be visualized in the network tab."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Visualizing task execution",
+      "topic": "JavaScript"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000182"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "JavaScript says. However you want to implement whether you write a compiler in Python, C++, Java, whichever the thing that you can write and make that to work faster or efficient up to you.",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "Vasanth emphasizes the flexibility of implementing JavaScript runtime across different programming languages without restrictions."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "JavaScript as a language or as a body it is not putting a restriction on that.",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "To highlight the adaptability and lack of limitations in creating JavaScript compilers."
+      },
+      "speaker_id": "2",
+      "title": "JavaScript flexibility",
+      "topic": "JavaScript"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000179",
+        "u000182"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "There is one more section around like why event loop, uh why does JS engine do not include the event loop? I'll explain more. But in a nutshell if you have to see, the implementation is left to the different environments because however they want to implement, they can implement it.",
+            "unit_id": "u000179"
+          },
+          {
+            "quote": "Whether you write a compiler in Python, C++, Java, whichever the thing that you can write and make that to work faster or efficient up to you. JavaScript as a language or as a body it is not putting a restriction on that.",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "JavaScript does not put restrictions on how the runtime environment or the compiler should be implemented in different languages like Python, C++, or Java."
+      },
+      "title": "JavaScript runtime implementation",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000188",
+        "u000189"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "files are something a logical separation for human to understand, like one dot js, two dot js to ten dot js, right? So whatever the files that you are seeing logically, it need not to be the way the browser sees it.",
+            "unit_id": "u000188"
+          },
+          {
+            "quote": "logical separation of the file is only for human to understand, not for the browsers.",
+            "unit_id": "u000189"
+          }
+        ],
+        "text": "Logical separation of JavaScript files like one.js, two.js is only for human understanding and not used by browsers for execution."
+      },
+      "title": "Logical separation of files",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000195",
+        "u000196"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "a statement like this will individually will not be put into the stack. There is an execution context that will be created and statements will be executed inside that.",
+            "unit_id": "u000195"
+          },
+          {
+            "quote": "there is a chronological order that we need to maintain, like how to which function should be popped when and the return value of that should be passed to which function.",
+            "unit_id": "u000196"
+          }
+        ],
+        "text": "To understand execution, it's important to learn about execution contexts and call stacks which maintain chronological order during function calls."
+      },
+      "title": "Execution context and call stack",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000196",
+        "u000197"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there is an order required in terms of execution. And call stack is not actually property of just the the JavaScript itself. Almost all the programming",
+            "unit_id": "u000196"
+          },
+          {
+            "quote": "language that we use has a equivalent property as that of the stack where execution order is maintained.",
+            "unit_id": "u000197"
+          }
+        ],
+        "text": "Almost all programming languages use a stack-like structure to maintain execution order, similar to the JavaScript call stack."
+      },
+      "title": "Call stack in programming languages",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000209",
+        "u000211"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you can actually write a lightweight uh JavaScript compiler actually. You can just take the ECMAScript tools",
+            "unit_id": "u000209"
+          },
+          {
+            "quote": "you can try building a simple uh like JavaScript compiler. You can write in any language like Python, Rust or any language wherever you are comfortable and you can give a shot.",
+            "unit_id": "u000211"
+          }
+        ],
+        "text": "It's possible to create a lightweight JavaScript compiler using ECMAScript tools and write it in languages like Python, Rust, or any other."
+      },
+      "title": "JavaScript compiler creation",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000221"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "JavaScript executes code using a single call stack. Asynchronous operations are handled by browser with APS. Micro task queue have a higher priority than macro task queue. Event loop decides the execution order.",
+            "unit_id": "u000221"
+          }
+        ],
+        "text": "In JavaScript, the event loop decides execution order, and micro task queues have a higher priority than macro task queues."
+      },
+      "title": "Event loop and task queues",
+      "topic": "JavaScript"
+    }
+  ]
+}

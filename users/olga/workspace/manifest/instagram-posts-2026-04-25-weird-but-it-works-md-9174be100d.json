@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-04-25-weird-but-it-works-md-9174be100d-96e1e982c33f0e20bca1.jsonl",
+  "evidence_hash": "e2ea06d543bbe2fa632814189f3b172ed1df8aa8993f00aae0c2629270ecf4f7",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:06:18Z",
+  "metadata_hash": "f49ee41187e88f18450c1f368a5716eecd82b14b8bf28798da6e5ad42084e39b",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 13
+  },
+  "revision": "96e1e982c33f0e20bca1",
+  "snapshot_hash": "e6cb3c94d4d9b3b5c3ec5b27dd36300d6239f951bf635705101da515c80754ce",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-04-25-weird-but-it-works-md-9174be100d",
+  "source_path": "instagram/posts/2026-04-25-weird-but-it-works.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "e1fecbeebf4a55f5f891dca3e0d7d0f18b853d498f68aa7e7c33ab0be498df3b",
+  "source_snapshot": "instagram-posts-2026-04-25-weird-but-it-works-md-9174be100d-96e1e982c33f0e20bca1.json",
+  "version": "4"
+}

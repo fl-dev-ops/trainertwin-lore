@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2026-04-16-will-you-adapt-to-a-md-626966f41e-d81993f2a5fa40ec330e.jsonl",
+  "evidence_hash": "3ea2f95da082fc7a38cac15cf6293fb06c50d2967c36933464cc3e7d99a218d4",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:12:51Z",
+  "metadata_hash": "856ba6a06418c6cef9829f2eb1bf2df3fcd4ef87762691e24bfb1b972fbc86b7",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "d81993f2a5fa40ec330e",
+  "snapshot_hash": "b12c12646feedb61212b3de90cf5e420f8f3287f70d47e1ca7fc648bec7e7657",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-04-16-will-you-adapt-to-a-md-626966f41e",
+  "source_path": "linkedin/posts/2026-04-16-will-you-adapt-to-a.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "815232494a1f5379e8a34a83984f33184d671894fa981ee854e1678efcaf79d0",
+  "source_snapshot": "linkedin-posts-2026-04-16-will-you-adapt-to-a-md-626966f41e-d81993f2a5fa40ec330e.json",
+  "version": "4"
+}

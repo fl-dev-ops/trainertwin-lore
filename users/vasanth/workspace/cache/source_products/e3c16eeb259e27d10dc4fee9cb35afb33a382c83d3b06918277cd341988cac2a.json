@@ -1,0 +1,92 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000024",
+        "u000025"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "start embracing the Gen AI and then getting fearful of it. So start using it so that you can build the projects much faster.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "Vasanth encourages viewers to explore Gen AI tools and not fear them by using inclusive language ('start embracing') and suggests that faster project completion is possible ('you cannot no longer take one hour time')."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Encouragement to explore Gen AI",
+      "topic": "Gen AI tools"
+    },
+    {
+      "context_unit_ids": [
+        "u000025"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "If you like the video please like the video share the video with your friends and comment whatever you felt",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "Vasanth concludes the video by inviting viewers to like, share, and comment on the video, and suggests topics for future content."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Concluding call to action",
+      "topic": "Video engagement"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000022",
+        "u000023"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "all of this work can be basically eliminated with the help of just product or somebody doing with help of tools like this. And lot of time actually getting saved.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "Using Gen AI tools allows for faster project development and eliminates the repetitive feedback loop between designers and leadership during the design process."
+      },
+      "title": "Gen AI advantages",
+      "topic": "Gen AI tools"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000021",
+        "u000022"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "so many uh templates that are available. It is similar to WordPress but an advanced version.",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "To get started with app development, one can use available templates and customize them as needed."
+      },
+      "title": "Using templates for app development",
+      "topic": "App development"
+    }
+  ]
+}

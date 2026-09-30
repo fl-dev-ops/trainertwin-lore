@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 2,
+  "evidence_count": 20,
+  "evidence_file": "youtube-video-2026-09-10-dubai-2008-vs-2026-record-prices-falling-rents-massive-suppl-4fdefd4cca-6521c033b098a5586170.jsonl",
+  "evidence_hash": "661e3f79e4814b189b715ca8a367a95ac22f72ad912aebafbec2917b627140ef",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:15:55Z",
+  "metadata_hash": "8758500e93e2df20b93ba954ce70d0178856d8ff077bc4720ed2d9c8443e435c",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 6,
+    "knowledge": 14
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 15,
+    "units_total": 44
+  },
+  "revision": "6521c033b098a5586170",
+  "snapshot_hash": "a8c663c16af249ba657a67026842a6a198d10aa93ad0d632a04773d76bd12762",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-09-10-dubai-2008-vs-2026-record-prices-falling-rents-massive-suppl-4fdefd4cca",
+  "source_path": "youtube/video/2026-09-10-dubai-2008-vs-2026-record-prices-falling-rents-massive-suppl-fpjQdsJSLCM.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "c6de24aaad820ae56f1951829b3c28b60645b017ca33168bc15ef4f0fe5e2610",
+  "source_snapshot": "youtube-video-2026-09-10-dubai-2008-vs-2026-record-prices-falling-rents-massive-suppl-4fdefd4cca-6521c033b098a5586170.json",
+  "version": "4"
+}

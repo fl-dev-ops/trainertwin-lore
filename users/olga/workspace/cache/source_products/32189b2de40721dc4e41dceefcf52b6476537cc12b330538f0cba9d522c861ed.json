@@ -1,0 +1,73 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Had this question on my last online session with a sales team from Expat Key Saudi Arabia.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author was involved in an online session with a sales team from Expat Key Saudi Arabia, where they encountered the issue of clients not committing."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Sales Team's Struggle with Client Commitment",
+      "topic": "client_commitment"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Why the Clients Do not Commit?!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text begins with a rhetorical question to engage the reader and introduce the topic."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Opening Question",
+      "topic": "rhetorical_questions"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Had this question on my last online session with a sales team from Expat Key Saudi Arabia.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author reported having a question about why clients do not commit during an online session with a sales team from Expat Key Saudi Arabia."
+      },
+      "title": "Challenges in Client Commitment",
+      "topic": "client_commitment"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "instagram-posts-2026-09-17-yes-on-my-youtube-md-268c83f918-bde19a140810ec7c7d49.jsonl",
+  "evidence_hash": "c597c89e88e83097c66b4cf74a50906b212964ea126fcfda00ee57add5a874e4",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:10:11Z",
+  "metadata_hash": "9c58132c6d2823713a1ae0cc2faffd3b1c5ab094a9e55362771a29d2a1e09d0e",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 4
+  },
+  "revision": "bde19a140810ec7c7d49",
+  "snapshot_hash": "e6dab091ec6517cc3f850e1de9883551ad38aef7ae446e9428674140b393760d",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-09-17-yes-on-my-youtube-md-268c83f918",
+  "source_path": "instagram/posts/2026-09-17-yes---on-my-youtube.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "c7a7f745c8698f9fb6cd2193db8c773f026a725552b8dbb141776bd3c0dddbbe",
+  "source_snapshot": "instagram-posts-2026-09-17-yes-on-my-youtube-md-268c83f918-bde19a140810ec7c7d49.json",
+  "version": "4"
+}

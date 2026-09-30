@@ -1,0 +1,73 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-eaedd4a7652a28f4",
+          "quote": "right because everything end of the day is object only in JavaScript. You can consider it as a block. Everything required to execute that block within present is within that box only. Box or block. Okay?",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000273"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker compares JavaScript's execution context to a 'box or block' to explain its function, highlighting that everything required for execution is contained within it.",
+      "proposed_adaptation": {
+        "action": "Use simple analogies to illustrate abstract ideas, aiding learner comprehension",
+        "limits": "Not universally effective; may oversimplify or confuse if analogies are misunderstood",
+        "when": "Explaining complex technical concepts"
+      },
+      "qualification": "This observation is limited to a single recorded explanation on YouTube and does not confirm widespread application of the analogy.",
+      "scope": "youtube",
+      "situation": "The speaker uses an analogy to explain the concept of execution context in JavaScript by likening it to a 'box' or 'block'.",
+      "support_ids": [
+        "ex-eaedd4a7652a28f4"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-15deec910c82badd",
+          "quote": "The question is you have a function called say hi. Within the function there is a set timeout. The set timeout can take a lot of time to execute and there is a caller who has called this function.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000296"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker sets up a scenario involving a function with a set timeout to question what happens during asynchronous execution, prompting learners to consider outcomes and foster discussion.",
+      "proposed_adaptation": {
+        "action": "Posing structured scenarios for learners to explore outcomes, simulating real-world problem-solving",
+        "limits": "May vary in learner engagement or difficulty in grasping scenarios without prior topic familiarity",
+        "when": "Discussing asynchronous programming"
+      },
+      "qualification": "Based solely on one recorded transcript segment—it does not show adaptability to other topics or confirm interaction in community engagement.",
+      "scope": "youtube",
+      "situation": "Vasanth constructs scenarios to challenge the audience's understanding of asynchronous execution in JavaScript.",
+      "support_ids": [
+        "ex-15deec910c82badd"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-3f8bd657c0e85be2",
+          "quote": "You want to justify?",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000384"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth asks participants to justify their answer regarding the persistence of execution contexts, indicating a facilitation strategy to create interactive dialogue among learners.",
+      "proposed_adaptation": {
+        "action": "Encouragement of justifications for learner responses, promoting deeper engagement and active reflection",
+        "limits": "Does not guarantee participatory balance; participants may feel pressured rather than encouraged",
+        "when": "During interactive discussions"
+      },
+      "qualification": "Single instance observed, lacks data on effectiveness or participant reflections.",
+      "scope": "youtube",
+      "situation": "The speaker prompts participants to justify their answers, enhancing active engagement during a session on execution contexts.",
+      "support_ids": [
+        "ex-3f8bd657c0e85be2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "I am the unique person who in their mind is doing something they're not capable of.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "While performing an action that others may not do, like using a camera publicly, others may project their inability to do the same."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Judgement and perception",
+      "topic": "judgement perception"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I believe that this is the most underrated money making skill in twenty twenty six, twenty seven and and going forward.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker states their belief in a personal skill and frames it as valuable for the future."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Personal belief statement",
+      "topic": "street camera confidence"
+    },
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "your brain is telling you they do judge you, right?",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker suggests people are judging them, even if it's not explicitly visible."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Assumed external judgement",
+      "topic": "judgement perception"
+    },
+    {
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "or maybe they really like Jesus Christ. I wish I could do something like this.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker presents different possible reactions other people might have towards their action, from judgment to admiration."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Contrasting reactions",
+      "topic": "judgement perception"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I believe that this is the most underrated money making skill in twenty twenty six, twenty seven and and going forward.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The ability to walk on the streets with a camera in hand and feel confident is considered an underrated money-making skill for 2026 and beyond."
+      },
+      "title": "Street camera confidence",
+      "topic": "street camera confidence"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "your brain is telling you they do judge you, right?",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "While walking with a camera, one may feel that others are judging them even if they are not visibly doing so."
+      },
+      "title": "Perceptions of judgement",
+      "topic": "judgement perception"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The way I trick myself, because I still need to do that, is",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "I know for sure that they will pay any money not to do this.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker tricks themselves into not feeling judged by believing others would pay not to perform the action they are doing, which is using a camera in public confidently."
+      },
+      "title": "Self-trick for confidence",
+      "topic": "confidence strategy"
+    }
+  ]
+}

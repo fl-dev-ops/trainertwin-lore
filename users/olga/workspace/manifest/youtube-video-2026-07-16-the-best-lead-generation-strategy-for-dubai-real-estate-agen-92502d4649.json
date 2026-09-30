@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 2,
+  "evidence_count": 21,
+  "evidence_file": "youtube-video-2026-07-16-the-best-lead-generation-strategy-for-dubai-real-estate-agen-92502d4649-b742dc98db9e2477b6ac.jsonl",
+  "evidence_hash": "784d3435b532be61832d54ae15f3cfe2021d5760ae20c5c1cb6e7e27a499a7fa",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:14:12Z",
+  "metadata_hash": "a7c27822d333fa36936d0b1ea4d8741a96bc143b3eb36d1b284bc5fefa6c93b6",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 3,
+    "expression": 4,
+    "knowledge": 14
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 21,
+    "units_total": 44
+  },
+  "revision": "b742dc98db9e2477b6ac",
+  "snapshot_hash": "5241cd50ff701aeb940796252981e8d9e78b94ccfe3d04051bf4d5dd7e8dd7cc",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-07-16-the-best-lead-generation-strategy-for-dubai-real-estate-agen-92502d4649",
+  "source_path": "youtube/video/2026-07-16-the-best-lead-generation-strategy-for-dubai-real-estate-agen-x9mWjb117AA.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "d8b0b191c80a5c97a78216963929647af22f6d516c4ffa997882346dd5409425",
+  "source_snapshot": "youtube-video-2026-07-16-the-best-lead-generation-strategy-for-dubai-real-estate-agen-92502d4649-b742dc98db9e2477b6ac.json",
+  "version": "4"
+}

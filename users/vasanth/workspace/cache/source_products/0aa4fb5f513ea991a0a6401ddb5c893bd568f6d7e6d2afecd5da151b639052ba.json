@@ -1,0 +1,309 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000056",
+        "u000057"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "where let's say two people trying to edit a same document at the same time. Let's say both of them are on the line number two. When they start typing, there should be a sync between both the people. How do we ensure there is a sync between both the people?",
+            "unit_id": "u000056"
+          }
+        ],
+        "text": "Vasanth explains the difference between thick and thin clients and how synchronization in real-time collaborative applications like Google Docs is achieved."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Thick vs Thin Client Explanation",
+      "topic": "frontend_development"
+    },
+    {
+      "context_unit_ids": [
+        "u000059"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "How the BookMyShow is able to render that layout irrespective of like there is one one static code... handle all these variations.",
+            "unit_id": "u000059"
+          }
+        ],
+        "text": "Vasanth discusses how applications like BookMyShow handle layout rendering across different theaters."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Application Rendering Explanation",
+      "topic": "frontend_development"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000060"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "building something in the thick front end development like Figma... building something in thick front end development is something that I would encourage everyone... to actually work start working on.",
+            "unit_id": "u000060"
+          }
+        ],
+        "text": "The speaker emphasizes learning about thick client development and suggests a focus on understanding functionality-heavy frontend developments."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Thick client development encouragement",
+      "topic": "frontend_development"
+    },
+    {
+      "context_unit_ids": [
+        "u000066"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "this is the universal problem. Not don't think like only you are not getting it. Everybody will actually get this.",
+            "unit_id": "u000066"
+          }
+        ],
+        "text": "The speaker acknowledges the widespread struggle of applying to many jobs and not receiving interview calls, providing a sense of shared experience and validation."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Universal job application issue",
+      "topic": "job_applications"
+    },
+    {
+      "context_unit_ids": [
+        "u000067"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Companies, premium companies look for some premiumness in your resume. Premiumness could be",
+            "unit_id": "u000067"
+          }
+        ],
+        "text": "The speaker uses an analogy to compare the importance of showing 'premiumness' in resumes to increase shortlisting chances, suggesting that like a non-premium brand product, resumes without stand-out features may not be considered by premium companies."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Analogy in job application advice",
+      "topic": "job_applications"
+    },
+    {
+      "context_unit_ids": [
+        "u000084"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "there is a very simple analogy is that like a box.",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "The speaker compares the JavaScript execution context to a box, which creates a dedicated space for each code execution."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Execution context analogy",
+      "topic": "javascript"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000055"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "application, thin client or thin web application, which is primarily for displaying the information and lot of applications on online today are actually this, which are just like company's website... there are thick clients. thick clients, the good example would be Figma... Google Docs is a thick client... Google Calendar is a thick client.",
+            "unit_id": "u000055"
+          }
+        ],
+        "text": "Thin clients are primarily for displaying information, such as basic company or institution websites, while thick clients involve more logic and functionality, like applications such as Figma, Google Docs, Google Drive, and Google Calendar."
+      },
+      "title": "Thin and thick clients",
+      "topic": "frontend_development"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000060"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I would encourage everyone in the room to actually work start working on... understanding how thick thick clients or the functionality heavy sort of front end developments will work.",
+            "unit_id": "u000060"
+          }
+        ],
+        "text": "Spending time understanding thick frontend development is encouraged for those interested in frontend development."
+      },
+      "title": "Importance of thick frontend development",
+      "topic": "frontend_development"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000064"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "why are phone developers like apply for like hundreds of jobs and they are not getting interview calls?... if at all you have you experience it, hundred hundred might be slightly exaggerated, but any number it could be.",
+            "unit_id": "u000064"
+          }
+        ],
+        "text": "It is common for phone developers to apply for many jobs without getting interview calls."
+      },
+      "title": "Challenges in job applications",
+      "topic": "job_applications"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000067"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "premium companies look for some premiumness in your resume. Premiumness could be like your past company... a big company... big college... contributed to some open source... applying is using.",
+            "unit_id": "u000067"
+          }
+        ],
+        "text": "Premium companies look for premium qualities in resumes, which could include working at a big company, having a prestigious educational background, or contributing to open-source projects relevant to the applying company."
+      },
+      "title": "Premium companies and resume shortlisting",
+      "topic": "job_applications"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000071"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Instead, try to apply for those companies which act like a launching pad to join this bigger company.",
+            "unit_id": "u000071"
+          }
+        ],
+        "text": "Apply to companies that act as a launching pad to join bigger companies, instead of directly applying for premium companies if lacking a premium background."
+      },
+      "title": "Strategic job application advice",
+      "topic": "job_applications"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000074"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You can connect with more people on LinkedIn, build up a rapport, you go to physical meetups... whenever there's a difficult situation, you want some referral, they are not the one who just upload your resume into portal.",
+            "unit_id": "u000074"
+          }
+        ],
+        "text": "Develop connections with the right people while having a stable job, to increase chances of getting an interview call during difficult situations."
+      },
+      "title": "Passive job search strategy",
+      "topic": "job_search"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000078"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I feel all of us have two problems... not getting interview calls... getting calls, but you're not able to convert into an offer.",
+            "unit_id": "u000078"
+          }
+        ],
+        "text": "Two common problems in job searching are not getting interview calls and failing to convert interviews into job offers, particularly in frontend development."
+      },
+      "title": "Two common job search problems",
+      "topic": "job_search"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000084"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there's a concept called execution context in JavaScript... like a box... global execution context... local execution context.",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "In JavaScript, there is a concept called execution context, which operates like a box where code execution is wrapped, with two types: global and local execution contexts."
+      },
+      "title": "Execution context in JavaScript",
+      "topic": "javascript"
+    }
+  ]
+}

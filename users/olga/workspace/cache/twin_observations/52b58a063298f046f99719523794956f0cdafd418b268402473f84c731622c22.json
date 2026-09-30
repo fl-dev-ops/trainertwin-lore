@@ -1,0 +1,50 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-4cb78c53516d79c8",
+          "quote": "Which problem Do You solve?…. This is my first question to",
+          "unit_id": "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The post begins with a provocative question as a rhetorical device to engage the reader and introduce the topic.",
+      "proposed_adaptation": {
+        "action": "Use a provocative question as a rhetorical device to draw attention and engage the audience.",
+        "limits": "Not suitable for detailed technical or factual presentations where clarity from the outset is necessary.",
+        "when": "Crafting introductory messages or speeches."
+      },
+      "qualification": "Observed in a single authored LinkedIn post; no counter-examples within the batch.",
+      "scope": "linkedin",
+      "situation": "An authored LinkedIn post presenting advice on introducing oneself at networking events.",
+      "support_ids": [
+        "ex-4cb78c53516d79c8"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-631980d4ebc7e4c1",
+          "quote": "discipline is not mood you find on Monday morning. It's a resource you either produce or borrow.",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000027"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Olga Si uses an analogy comparing discipline to a resource that must be produced or borrowed, rather than a mood found on Monday morning.",
+      "proposed_adaptation": {
+        "action": "Use analogies to frame abstract concepts like discipline as tangible resources.",
+        "limits": "Not applicable in contexts where literal resource management is involved, as it might mislead rather than clarify.",
+        "when": "Addressing motivation or discipline in coaching or self-help settings."
+      },
+      "qualification": "Based on a single spoken instance within a YouTube video; no cross-platform repetition observed.",
+      "scope": "youtube",
+      "situation": "A spoken scenario during a YouTube video dealing with real estate time management.",
+      "support_ids": [
+        "ex-631980d4ebc7e4c1"
+      ]
+    }
+  ]
+}

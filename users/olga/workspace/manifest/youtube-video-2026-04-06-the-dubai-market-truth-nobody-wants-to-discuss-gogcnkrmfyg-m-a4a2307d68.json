@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "youtube-video-2026-04-06-the-dubai-market-truth-nobody-wants-to-discuss-gogcnkrmfyg-m-a4a2307d68-e65800fe81cbb205ab18.jsonl",
+  "evidence_hash": "34d26ccfb5cf4d2242878f2ae7d4a2e798bae6f86648a48b6bb71f635bec3df1",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:08:16Z",
+  "metadata_hash": "e962c23574a7325324ddd7dd13f42c8e544197c9e4c1f2cda738e19be07ac81a",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 2,
+    "units_total": 5
+  },
+  "revision": "e65800fe81cbb205ab18",
+  "snapshot_hash": "8c9f22ddceb0c0287fbc4046d8364595efe7b43a10f1e4f196fad8f5677fc8f8",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-04-06-the-dubai-market-truth-nobody-wants-to-discuss-gogcnkrmfyg-m-a4a2307d68",
+  "source_path": "youtube/video/2026-04-06-the-dubai-market-truth-nobody-wants-to-discuss-gOgCNKrmFyg.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "12617bab008a6b1fd70fe191a92c1b63c4e38a3c591cf67fe247fd8c5f2434d5",
+  "source_snapshot": "youtube-video-2026-04-06-the-dubai-market-truth-nobody-wants-to-discuss-gogcnkrmfyg-m-a4a2307d68-e65800fe81cbb205ab18.json",
+  "version": "4"
+}

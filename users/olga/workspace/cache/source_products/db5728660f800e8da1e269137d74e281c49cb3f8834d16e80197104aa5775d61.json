@@ -1,0 +1,92 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "100% agree on that!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The phrase '100% agree on that!' expresses strong agreement with the preceding content."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Strong Agreement",
+      "topic": "rhetorical expression"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "these ex-agents are burning through their money very fast",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Ex-agents are burning through their money very fast."
+      },
+      "title": "Ex-Agents' Financial Practices",
+      "topic": "ex-agents"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "moving into holding the agents commissions and stealing from agents will ends terribly for them",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Moving into holding the agents commissions and stealing from agents will end terribly for them."
+      },
+      "title": "Predicted Outcome for Ex-Agents",
+      "topic": "ex-agents"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this challenging period will hopefully clean a lot of “such” companies",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "This challenging period will hopefully clean a lot of “such” companies."
+      },
+      "title": "Challenging Period's Impact on Companies",
+      "topic": "challenging period"
+    }
+  ]
+}

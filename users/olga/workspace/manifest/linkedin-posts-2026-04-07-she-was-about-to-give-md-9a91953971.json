@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2026-04-07-she-was-about-to-give-md-9a91953971-3f21b7ce086d88825487.jsonl",
+  "evidence_hash": "744b6e038204a45fe80778568d0293efc91fb22e096a2ec3e31338fc3da07530",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:11:54Z",
+  "metadata_hash": "8c92bcd99ff845325307015173e8658dfd46bfdbe839fd8f8f0c23ee93f54627",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "3f21b7ce086d88825487",
+  "snapshot_hash": "d317e65cace0b2c74402cbc2c1b3f6dc5d825697ddd2578a436574295bf13ba0",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-04-07-she-was-about-to-give-md-9a91953971",
+  "source_path": "linkedin/posts/2026-04-07-she-was-about-to-give.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "41944c4ac28e39ddbf31530fae4ca4e61092ffac0c17d35abf6c67fdbc6903ef",
+  "source_snapshot": "linkedin-posts-2026-04-07-she-was-about-to-give-md-9a91953971-3f21b7ce086d88825487.json",
+  "version": "4"
+}

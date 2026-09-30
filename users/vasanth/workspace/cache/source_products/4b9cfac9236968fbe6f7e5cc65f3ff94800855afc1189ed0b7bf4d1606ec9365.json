@@ -1,0 +1,188 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000022",
+        "u000023"
+      ],
+      "cue": null,
+      "diagnosis": {
+        "citations": [
+          {
+            "quote": "the progress was extremely important than perfection. So I wanted to deliver things not necessarily in the right way. Because of which what happened I never understood the fundamentals concepts of JavaScript.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "The progress of work was prioritized over perfection, leading to a lack of understanding of fundamental JavaScript concepts."
+      },
+      "kind": "reported_exchange",
+      "outcome": {
+        "citations": [
+          {
+            "quote": "Even after I'm three years of experience I did not know none of these basics.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "The speaker felt 'extremely hollow' and realized a lack of understanding in JavaScript basics even after three years of experience."
+      },
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "I got an opportunity to work in like startups and mid-range companies where the the progress was extremely important than perfection.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "The speaker reflects on their past experiences working at startups and mid-range companies."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Mistakes in Learning JavaScript",
+      "topic": "JavaScript learning"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000025"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "please like the video, comment whatever you felt honestly. Share the video with your friends so that they can also get benefited.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "The speaker uses an imperative style to encourage the audience to like, comment, share, subscribe, and follow on multiple platforms."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Invitation to Action",
+      "topic": "community"
+    },
+    {
+      "context_unit_ids": [
+        "u000022",
+        "u000024"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I did when I started my front end journey and which I don't want to do.",
+            "unit_id": "u000022"
+          },
+          {
+            "quote": "do not make the mistake that I did.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "The speaker shares personal mistakes and learning experiences to advise the audience on what not to do when learning JavaScript."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "do not make the mistake that I did.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "The speaker intends to prevent the audience from repeating the same mistakes."
+      },
+      "speaker_id": "1",
+      "title": "Personal Mistake Sharing",
+      "topic": "JavaScript learning"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "take as many mock interviews as possible there are tons of websites where you can learn mock interviews for free",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "Take as many mock interviews as possible, using websites or forming a community to practice."
+      },
+      "title": "Mock Interview Practice",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000021"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there is multiple channels from where you can learn the fundamentals of React. But my all-time favorite is Code Evolution by Vishwas.",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "The speaker recommends the YouTube channel Code Evolution by Vishwas for learning React concepts."
+      },
+      "title": "Learning React",
+      "topic": "React learning"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000024"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if you start learning JavaScript, do not make the mistake that I did. It's not about building the screens.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "If you start learning JavaScript, focus on understanding fundamental concepts rather than just building screens."
+      },
+      "title": "Understanding JavaScript Fundamentals",
+      "topic": "JavaScript learning"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000025"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Join our Telegram group. We have three thousand two hundred plus members all across the world. You get a community for taking mock interviews, sharing your questions or sometimes even job related updates also posted here.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "Join a Telegram group with 3,200+ members for mock interviews, sharing questions, and job updates."
+      },
+      "title": "Community Engagement",
+      "topic": "community"
+    }
+  ]
+}

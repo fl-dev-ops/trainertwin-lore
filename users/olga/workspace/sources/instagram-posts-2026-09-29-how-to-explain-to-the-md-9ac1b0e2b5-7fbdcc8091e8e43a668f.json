@@ -1,0 +1,84 @@
+{
+  "audience": "",
+  "author": "",
+  "category": "instagram",
+  "content_hash": "393f9113551e148236e506439d9465eefd0d604a847b18b98e838a55d10287e8",
+  "date": "2026-09-29T13:20:06Z",
+  "date_basis": "source",
+  "external_id": "3996903327723369368",
+  "format": "transcript",
+  "id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5",
+  "metadata_hash": "8522804545efe130cc77855ae1a8572768fc1885ee368599ed1df900bbd21af5",
+  "original_text": "---\nid: '3996903327723369368'\ntype: reel\ndate: '2026-09-29T13:20:06.000Z'\nurl: https://www.instagram.com/p/Dd32mZqhzOY/\nlikes: 7\ncomments: 0\nviews: 18\nduration: 55.40136\nvideoUrl: https://instagram.fese1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPFdhdL3Vn7BiII8bo5IxYn-6VcMSL1Htc00Zlk0jiRglK7LTEwhDGkQi-ytYjo7hDdtJL6-kWJ2D0IF4wlrK3PdEawAKFEdCUaR00.mp4?_nc_cat=104&_nc_oc=AdqnDra1BuNvfdlTImhdhWDEaoWCaB0eBV-4kIQagk1pAyCaz7aaexd_SQX1fjtg37Fc8whnOmv6Yf9FeHlNrh1X&_nc_sid=9ca052&_nc_ht=instagram.fese1-1.fna.fbcdn.net&_nc_ohc=Bhhfb90wg24Q7kNvwGiGV65&efg=eyJ2ZW5jb2RlX3RhZyI6ImlnLXhwdmRzLmNsaXBzLmMyLUMzLmRhc2hfYmFzZWxpbmVfMV92MSIsInZpZGVvX2lkIjpudWxsLCJvaWxfdXJsZ2VuX2FwcF9pZCI6OTM2NjE5NzQzMzkyNDU5LCJjbGllbnRfbmFtZSI6ImlnIiwieHB2X2Fzc2V0X2lkIjoyMTYzMDY0MjM3OTQ4NDQ2LCJhc3NldF9hZ2VfZGF5cyI6MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjU1LCJiaXRyYXRlIjo4NjI1OTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=UAtqdXfyFlHCAtRE1ACe3A&_nc_ss=7a22e&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQNmgN-o4Lw0hCju33tyypwuF-2xHGNz-VVPL1o0nj8iRw&oe=6ABD94FD\ntranscript: true\n---\n\n## Caption\nHow to explain to the client series \n\n#realestatecoachingdubai\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nthe fuel to the crash was leverage. Now let me show you the pattern. It explains the whole controversy with logic. Phase one, recovery. From late twenty eleven, the confidence crept back. Prices ticked up. Nothing dramatic. Phase two, expansion. Dubai won Expo in November twenty thirteen, and the market cut fire, sixty one percent growth under two years. Phase three.\n\n### 00:00:30 · Speaker 1\n\nAnd almost nobody understands this one, hyper supply. Developers launch when the prices are booming, but the tower takes three or four years. So everything launched in A4 year of 2013 delivered in a cool down market of two thousand sixteen, seventeen, eighteen. Supply always arrives late to the party.\n\n",
+  "passages": [
+    {
+      "id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:p000001",
+      "locator": "lines 15-15",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "How to explain to the client series "
+    },
+    {
+      "id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:p000002",
+      "locator": "lines 23-23",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:00",
+      "text": "the fuel to the crash was leverage. Now let me show you the pattern. It explains the whole controversy with logic. Phase one, recovery. From late twenty eleven, the confidence crept back. Prices ticked up. Nothing dramatic. Phase two, expansion. Dubai won Expo in November twenty thirteen, and the market cut fire, sixty one percent growth under two years. Phase three."
+    },
+    {
+      "id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:p000003",
+      "locator": "lines 27-27",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:30",
+      "text": "And almost nobody understands this one, hyper supply. Developers launch when the prices are booming, but the tower takes three or four years. So everything launched in A4 year of 2013 delivered in a cool down market of two thousand sixteen, seventeen, eighteen. Supply always arrives late to the party."
+    }
+  ],
+  "path": "instagram/posts/2026-09-29-how-to-explain-to-the.md",
+  "purpose": "",
+  "relative_path": "instagram/posts/2026-09-29-how-to-explain-to-the.md",
+  "sha256": "27cb8b82b2833e32bf7739cd09ab1b0a0a5598a6bf98580395be072a31ae2ff8",
+  "speakers": {},
+  "title": "How to explain to the client series",
+  "units": [
+    {
+      "end": 35,
+      "id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:u000001",
+      "locator": "lines 15-15",
+      "passage_id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:p000001",
+      "raw_text": "How to explain to the client series",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "How to explain to the client series"
+    },
+    {
+      "end": 369,
+      "id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:u000002",
+      "locator": "lines 23-23",
+      "passage_id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:p000002",
+      "raw_text": "the fuel to the crash was leverage. Now let me show you the pattern. It explains the whole controversy with logic. Phase one, recovery. From late twenty eleven, the confidence crept back. Prices ticked up. Nothing dramatic. Phase two, expansion. Dubai won Expo in November twenty thirteen, and the market cut fire, sixty one percent growth under two years. Phase three.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:00",
+      "text": "the fuel to the crash was leverage. Now let me show you the pattern. It explains the whole controversy with logic. Phase one, recovery. From late twenty eleven, the confidence crept back. Prices ticked up. Nothing dramatic. Phase two, expansion. Dubai won Expo in November twenty thirteen, and the market cut fire, sixty one percent growth under two years. Phase three."
+    },
+    {
+      "end": 302,
+      "id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:u000003",
+      "locator": "lines 27-27",
+      "passage_id": "instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5:p000003",
+      "raw_text": "And almost nobody understands this one, hyper supply. Developers launch when the prices are booming, but the tower takes three or four years. So everything launched in A4 year of 2013 delivered in a cool down market of two thousand sixteen, seventeen, eighteen. Supply always arrives late to the party.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:30",
+      "text": "And almost nobody understands this one, hyper supply. Developers launch when the prices are booming, but the tower takes three or four years. So everything launched in A4 year of 2013 delivered in a cool down market of two thousand sixteen, seventeen, eighteen. Supply always arrives late to the party."
+    }
+  ],
+  "url": "https://www.instagram.com/p/Dd32mZqhzOY/"
+}

@@ -1,0 +1,336 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001",
+        "u000002",
+        "u000003"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "to buy when you buy a property you pay four percent to register it. In Saudi, you pay five percent.",
+            "unit_id": "u000001"
+          },
+          {
+            "quote": "where for the first time, eligible foreign buyers can register ownership inside their haram.",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "new zones open to foreign ownership and Riyadh preparing for Expo 2030.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker explains the financial aspects of buying real estate by comparing the costs, registration fees, and opportunities for foreign ownership and new zones opening in Saudi Arabia."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Explanation of real estate costs and opportunities",
+      "topic": "Saudi real estate"
+    },
+    {
+      "context_unit_ids": [
+        "u000006",
+        "u000007",
+        "u000008"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "zones where non-Saudi buyers can own real estate, rent it out and sell for profit.",
+            "unit_id": "u000006"
+          },
+          {
+            "quote": "eligibility changes, ownership rights changes, permitted percentages changes.",
+            "unit_id": "u000007"
+          },
+          {
+            "quote": "they talk about Saudi property as the whole country is one opportunity. It isn't.",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "The speaker describes changes in Saudi's real estate market eligibility and zoning, emphasizing complex investment decisions due to varying eligibility and rights in different zones across cities."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Describing real estate market dynamics",
+      "topic": "Saudi real estate"
+    },
+    {
+      "context_unit_ids": [
+        "u000010",
+        "u000011",
+        "u000012"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Dubai won Expo 2020 bid in November 2013, seven years before the event. And the market didn't wait for their Expo to open.",
+            "unit_id": "u000010"
+          },
+          {
+            "quote": "Riyadh won Expo twenty thirteen October twenty twenty three.",
+            "unit_id": "u000011"
+          },
+          {
+            "quote": "I'm not telling Riyadh will repeat Dubai numbers. It may not.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "The speaker compares Dubai's experience after winning Expo 2020 to Riyadh's current situation post Expo 2030 win, emphasizing potential market impacts and development timelines."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Comparison of Expo impacts in Dubai and Riyadh",
+      "topic": "real estate comparison"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "In Saudi, you pay five percent. And if you are a foreign buyer in insider approved homes, you may pay another two percent on top.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Buying property in Saudi Arabia as a foreigner can incur up to a 7% fee because you pay 5% for registration and possibly another 2% if you buy as a foreigner in approved homes."
+      },
+      "title": "Real estate registration fees",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "about Medina, where for the first time, eligible foreign buyers can register ownership inside their haram.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Eligible foreign buyers can register ownership in specific areas of Medina for the first time."
+      },
+      "title": "Foreign ownership in Medina",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Saudi Arabia is now offering foreign investors something that they never offered before. Not a vision, not a rendering, a legal road to own. New zones open to foreign ownership and Riyadh preparing for Expo 2030.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Saudi Arabia now offers foreign investors new zones opened to foreign ownership and is preparing for Expo 2030."
+      },
+      "title": "Saudi Arabia's new foreign investment offer",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000005"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I see what happens when the real buyer tries to reserve the unit, get approval, register the ownership and rent it out. Those two things are not always the same. And that gap is where investors lose money.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "The speaker describes the gap between the vision of buying property and the actual challenges of reserving a unit, getting approval, registering ownership, and renting it out, where investors may lose money."
+      },
+      "title": "Reality of foreign ownership process in Saudi Arabia",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Saudi Arabia has begun to finding zones where non-Saudi buyers can own real estate, rent it out and sell for profit. In international terms, we use a freehold ownership.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Saudi Arabia has begun to define zones where non-Saudi buyers can own real estate, rent it out, and sell for profit, termed as freehold ownership."
+      },
+      "title": "New foreign ownership zones in Saudi Arabia",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000011"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Riyadh won Expo twenty thirteen October twenty twenty three, which puts Riyadh today roughly where Dubai",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "Riyadh won Expo 2030 in October 2023, placing it in a similar situation as Dubai was in 2013 after it won Expo 2020."
+      },
+      "title": "Riyadh's investment climate post-Expo 2030",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Saudi Arabia is a huge country. It's thirty seven point six million. Medium ages under thirty, roughly sixty three percent under thirty five.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "Saudi Arabia has a young population, with roughly 63% under the age of 35, creating domestic demand for housing as they enter career and family life stages."
+      },
+      "title": "Saudi Arabia's demographics and real estate demand",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The biggest mistake I see investors make, they talk about Saudi property as the whole country is one opportunity. It isn't. Riyadh, Jeddah, the Red Sea, and Medina aren't four locations, they're four different investment theses.",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "The biggest mistake investors make is believing Saudi property is one opportunity, when in reality, cities like Riyadh, Jeddah, the Red Sea, and Medina each have different investment theses."
+      },
+      "title": "Complexity of foreign ownership in Saudi Arabia",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000017"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if you are an agent watching this and you want to develop a better understanding of the market, that you can analyze it and explain it with confidence, this is exactly what I teach in my academy.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "The speaker offers courses in their academy for agents to develop a better understanding of the market, to analyze it and explain it with confidence."
+      },
+      "title": "Necessity of understanding Saudi real estate",
+      "topic": "Saudi real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000024"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "because Dubai now is a completely different stage. Over two decades of international freehold ownership, a mature registration process, title deeds, and establish secondary market.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "Dubai's real estate market has over two decades of international freehold ownership experience, a mature registration process, and an established secondary market, unlike Saudi Arabia."
+      },
+      "title": "Comparison of Dubai and Saudi Arabia",
+      "topic": "real estate comparison"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000026"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this is the once in a lifetime opportunity and you need to move immediately. I'm not gonna do that. Because the honest position is at this moment in time, nobody knows.",
+            "unit_id": "u000026"
+          }
+        ],
+        "text": "The speaker advises not to view the Saudi market as a once-in-a-lifetime opportunity or to move immediately, acknowledging the uncertainty and the evolving nature of the market."
+      },
+      "title": "Rational approach to investment opportunity",
+      "topic": "investor advice"
+    }
+  ]
+}

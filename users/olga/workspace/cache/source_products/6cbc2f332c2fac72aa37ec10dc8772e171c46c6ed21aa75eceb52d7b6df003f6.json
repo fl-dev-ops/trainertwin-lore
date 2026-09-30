@@ -1,0 +1,121 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Instead of 'What if it falls apart?', ask 'What problem can I solve today that someone will pay for?'",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Instead of asking \"What if it falls apart?\" consider asking \"What problem can I solve today that someone will pay for?\""
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Hypothetical Reframing of Survival Question",
+      "topic": "Survival and Usefulness"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Survival is not created in panic. It's created in usefulness.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker presents a structured argument contrasting panic and usefulness in survival situations."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Outline of Survival Advice",
+      "topic": "Survival and Usefulness"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Survival isn't born from panic, but usefulness.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Survival isn't born from panic, but usefulness."
+      },
+      "title": "Survival vs Panic",
+      "topic": "Survival and Usefulness"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Instead of 'What if it falls apart?', ask 'What problem can I solve today that someone will pay for?'",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Instead of asking 'What if it falls apart?', ask 'What problem can I solve today that someone will pay for?'"
+      },
+      "title": "Ask the Right Question",
+      "topic": "Survival and Usefulness"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Useful people outlast emotional ones in uncertain times.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Useful people outlast emotional ones in uncertain times."
+      },
+      "title": "Usefulness in Uncertain Times",
+      "topic": "Survival and Usefulness"
+    }
+  ]
+}

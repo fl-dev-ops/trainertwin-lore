@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2026-05-12-at-habico-properties-every-monday-md-de4d24bfaf-4fe4538f9f5e13d0d420.jsonl",
+  "evidence_hash": "a9f7ad31ee25a452bc8c9340e93482af3720d9d53857006787bfac350423f17c",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:13:36Z",
+  "metadata_hash": "93fe081c8ac7c7311a0515af004d96326fac2b463667111743f93a7f5476ade7",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "4fe4538f9f5e13d0d420",
+  "snapshot_hash": "2f6c0c59bab17456980f72878443dbfc38c1625d6f783a1e1ede885c03f76340",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-05-12-at-habico-properties-every-monday-md-de4d24bfaf",
+  "source_path": "linkedin/posts/2026-05-12-at-habico-properties-every-monday.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "47551f9ec5e32d6e7b5dae8e0cae0014d7bb247bb708d6dd68b211a82b46ebeb",
+  "source_snapshot": "linkedin-posts-2026-05-12-at-habico-properties-every-monday-md-de4d24bfaf-4fe4538f9f5e13d0d420.json",
+  "version": "4"
+}

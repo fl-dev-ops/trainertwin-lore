@@ -1,0 +1,160 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007",
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the recovery of Dubai will happen, maybe not in three, four, five, six months, time, but even in a year",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "The recovery of the Dubai market will happen, although it may not occur in three, four, five, six months, but perhaps within a year."
+      },
+      "title": "Market recovery expectation",
+      "topic": "Dubai real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Jeremy Minor passed me some magic spell with narrow emotional persuasion technique, which I then converted to Dubai realities and now I'm using it.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Jeremy Minor's narrow emotional persuasion technique has been converted to adapt to the realities in Dubai."
+      },
+      "title": "Emotional persuasion technique",
+      "topic": "sales technique"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000023",
+        "u000025"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "when the price of the oil goes up, what goes up? Inflation goes up. What's became more expensive? Everything, logistic, all of the goods, delivery",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "When the price of oil goes up, inflation increases and everything, including logistics and all goods, becomes more expensive."
+      },
+      "title": "Inflation impact due to oil prices",
+      "topic": "economic impact"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I do have a Telegram community where I give specific, unique tips, teach you how to sell, to buy real estate",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "Olga Seneinka offers a Telegram community for specific, unique tips on selling, buying real estate, and becoming resilient."
+      },
+      "title": "Telegram coaching community offering",
+      "topic": "coaching"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000015"
+      ],
+      "exceptions": [
+        {
+          "citations": [
+            {
+              "quote": "Not those who are anxious, not those who not going to buy anyway, even without the war. Those one like, I'm so sorry, I cannot help you with that.",
+              "unit_id": "u000016"
+            }
+          ],
+          "text": "This method may not work for clients who are anxious or would not buy due to other reasons even without current crises."
+        },
+        {
+          "citations": [
+            {
+              "quote": "they just cannot make decision altogether, not about buying real estate property, just literally anything in life",
+              "unit_id": "u000005"
+            }
+          ],
+          "text": "Some clients may be indecisive in general and unable to make buying decisions, not just real estate."
+        }
+      ],
+      "goal": {
+        "citations": [
+          {
+            "quote": "make those who are telling you wait and see to realize that waiting and seeing gonna cost them more",
+            "unit_id": "u000015"
+          }
+        ],
+        "text": "To persuade clients who say \"I'll wait\" to act now."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "potentially if he has a common sense if this person is not naturally anxious",
+              "unit_id": "u000002"
+            }
+          ],
+          "text": "Clients should have common sense and not be naturally anxious."
+        }
+      ],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "create a logical uh sequence that anyone whom I will be delivering to will be able to understand",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "make those who are telling you wait and see to realize that waiting and seeing gonna cost them more",
+            "unit_id": "u000015"
+          }
+        ],
+        "text": "Create logical sequences to convince clients that waiting and seeing will cost them more."
+      },
+      "title": "Strategy for reluctant real estate clients",
+      "topic": "client persuasion"
+    }
+  ]
+}

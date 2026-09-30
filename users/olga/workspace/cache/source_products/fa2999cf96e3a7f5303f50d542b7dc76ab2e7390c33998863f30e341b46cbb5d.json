@@ -1,0 +1,124 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "And of course they explain it to themselves like, well why she's doing this? Oh how dare she? Or maybe they don't or maybe they really like Jesus Christ. I wish I could do something like this.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker presents a hypothetical scenario where bystanders internally justify their judgment as a way to manage their own insecurities about street filming."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Rhetorical strategy on judgment",
+      "topic": "Overcoming judgment"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The best skill I ever got is being able to walk on the streets like this with a camera in my hand and feel myself.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker claims that the best skill they ever acquired is being able to walk on the streets with a camera in hand and feel confident."
+      },
+      "title": "Street camera confidence as a skill",
+      "topic": "Street camera confidence"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I believe that this is the most underrated money making skill in twenty twenty six, twenty seven and and going forward.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker believes that being confident on the streets with a camera is the most underrated money-making skill in the years 2026 and 2027 and beyond."
+      },
+      "title": "Underrated money-making skill",
+      "topic": "Street camera confidence"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "But your brain is telling you they do judge you, right?",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "To overcome the feeling of being judged by others while filming on the streets."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "But your brain is telling you they do judge you, right?",
+              "unit_id": "u000002"
+            }
+          ],
+          "text": "Recognize that people might judge you for filming on the streets."
+        },
+        {
+          "citations": [
+            {
+              "quote": "I know for sure that they will pay any money not to do this. So I am the unique person who in their mind is doing something they're not capable of.",
+              "unit_id": "u000003"
+            }
+          ],
+          "text": "Trick yourself into thinking that these people would pay any money not to film on the streets, thus feeling unique and confident."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But your brain is telling you they do judge you, right? The way I trick myself, because I still need to do that, is",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "I know for sure that they will pay any money not to do this. So I am the unique person who in their mind is doing something they're not capable of.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker describes how they trick themselves to overcome the feeling of being judged while filming on the streets."
+      },
+      "title": "Tricking oneself to overcome judgment",
+      "topic": "Overcoming judgment"
+    }
+  ]
+}

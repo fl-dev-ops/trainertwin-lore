@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "youtube-video-2026-04-02-smart-investing-shift-your-real-estate-strategy-now-t7p-l-tm-8b7a067173-3829b5471ca7a9fb272b.jsonl",
+  "evidence_hash": "fe68a4ce68bd51fb42bfd229df992ec47a99bbea218c9b554b33e7e8bec97ebb",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:07:59Z",
+  "metadata_hash": "78e6982a843991c5ee9b82f6dd4cde704a9be9e330096d1833107074eae10179",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "3829b5471ca7a9fb272b",
+  "snapshot_hash": "60aee890a3c150707f7fc008c4fc418863d4137b5a077b878bb6c9c09d1b4f14",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-04-02-smart-investing-shift-your-real-estate-strategy-now-t7p-l-tm-8b7a067173",
+  "source_path": "youtube/video/2026-04-02-smart-investing-shift-your-real-estate-strategy-now-t7p_L_tmeis.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "b6274114f7f33a97da6eee22f08c750445b3962dd3d212f9204383822ccb457d",
+  "source_snapshot": "youtube-video-2026-04-02-smart-investing-shift-your-real-estate-strategy-now-t7p-l-tm-8b7a067173-3829b5471ca7a9fb272b.json",
+  "version": "4"
+}

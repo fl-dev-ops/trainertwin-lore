@@ -1,0 +1,50 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-2cb6702ae9616f3e",
+          "quote": "everyone is dancing and they assume this is how the room looks like all the time. But this market isn't falling apart. It's just Tuesday,",
+          "unit_id": "youtube-video-2026-09-25-what-changed-in-dubai-real-estate-in-2026-falling-resales-ha-f4d1591cf2:u000014"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker contrasts perceptions of Dubai as a bubble with an analogy about a social event to illustrate the market's returning to normality, saying 'everyone is dancing and they assume this is how the room looks like all the time. But this market isn't falling apart. It's just Tuesday.'",
+      "proposed_adaptation": {
+        "action": "Use an analogy of a social event or regular occurrence to depict the hyperbolic nature of market speculation.",
+        "limits": "Do not extend to markets without cultural familiarity with the analogy or in written analyses favoring data over metaphor.",
+        "when": "Delivering a critical comparison of market conditions with exaggerated perceptions"
+      },
+      "qualification": "Observation based on a single YouTube example, identity of speaker not independently authenticated.",
+      "scope": "youtube",
+      "situation": "Discussion on Dubai real estate market by a YouTube speaker, contrasting current perceptions of market normality with a past inflated perception depicted as a party.",
+      "support_ids": [
+        "ex-2cb6702ae9616f3e"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-f4ff6606c2d883b7",
+          "quote": "sees this opportunity of March twenty twenty-six not as a downfall but as a kind of uprising cleanse of the market.",
+          "unit_id": "youtube-video-2026-03-31-smart-agents-see-this-market-as-a-cleanse-not-a-crisis-3f1wp-900c0410c1:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The invitation to join the Telegram community uses motivational language to frame a market change as a positive opportunity, not a crisis, expressed as 'sees this opportunity of March twenty twenty-six not as a downfall but as a kind of uprising cleanse of the market.'",
+      "proposed_adaptation": {
+        "action": "Describe systemic changes with positive connotations, highlighting growth rather than declines.",
+        "limits": "Not universally suitable for all audience moods or when market downturns have direct negative impacts on invitees.",
+        "when": "Inviting participants to a resource-sharing community in a volatile market"
+      },
+      "qualification": "Single-channel observation with speaker identity unauthenticated.",
+      "scope": "youtube",
+      "situation": "YouTube speaker promotes a Telegram community by framing a market change in motivational terms as a positive opportunity rather than a crisis.",
+      "support_ids": [
+        "ex-f4ff6606c2d883b7"
+      ]
+    }
+  ]
+}

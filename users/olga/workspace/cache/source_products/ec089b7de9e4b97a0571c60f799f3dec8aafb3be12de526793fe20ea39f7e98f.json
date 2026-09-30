@@ -1,0 +1,58 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "sees this opportunity of March twenty twenty-six not as a downfall but as a kind of uprising cleanse of the market.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The invitation to join the Telegram community uses motivational language to frame a market change as a positive opportunity, not a crisis."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Community Invitation Wording",
+      "topic": "promotion"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "Dubai real estate agent and everyone who is aspired to be one and sees this opportunity of March twenty twenty-six not as a downfall but as a kind of uprising cleanse of the market.",
+              "unit_id": "u000001"
+            }
+          ],
+          "text": "Interest in the Dubai real estate market or being an aspiring real estate agent in Dubai."
+        }
+      ],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I highly recommend you to check my strong in sales Telegram community just recently created where I'm sharing strategies, life trainings and support you guys and get support from you as well building up the future.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker offers a Telegram community where they share strategies, life trainings, and provide support to its members."
+      },
+      "title": "Telegram Community Offering",
+      "topic": "real estate advice"
+    }
+  ]
+}

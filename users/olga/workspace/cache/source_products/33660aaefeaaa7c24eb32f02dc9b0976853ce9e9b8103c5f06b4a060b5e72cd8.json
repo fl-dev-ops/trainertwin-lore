@@ -1,0 +1,200 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000228"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "to actually call to the client. You can role play it with Chat GPT even as well.",
+            "unit_id": "u000228"
+          }
+        ],
+        "text": "An agent is advised to role-play calls using Chat GPT to prepare for real client interactions."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Role-playing with Chat GPT",
+      "topic": "training simulation"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000230"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The main difference between you having a client and a secondary market where you listed the property for sales rental.",
+            "unit_id": "u000230"
+          }
+        ],
+        "text": "The speaker contrasts the off-plan sales process with the secondary market, explaining differences in how clients engage."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Comparison of off-plan and secondary market",
+      "topic": "sales process"
+    },
+    {
+      "context_unit_ids": [
+        "u000235"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "majority of this advertisement and the leads that you're getting, they are not intent based, they are more interruption base.",
+            "unit_id": "u000235"
+          }
+        ],
+        "text": "The speaker describes leads from off-plan marketing as 'not intent based, they are more interruption base.'"
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Use of interruptions in client engagement",
+      "topic": "lead generation"
+    },
+    {
+      "context_unit_ids": [
+        "u000254"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "what attracted their attention on the first call you're asking them? And my favorite question on that is like, um when you when you saw the ad, like, um besides the shiny computer graphics of Dubai, what was the um what was about the project that attracted you to respond?",
+            "unit_id": "u000254"
+          }
+        ],
+        "text": "The speaker suggests asking potential clients about what attracted them to the ad, to initiate self-reflection and deeper engagement."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Questioning technique for engagement",
+      "topic": "client interaction"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000228"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You can role play it with Chat GPT even as well. You have to make absolute sure that you are using the same word patterns.",
+            "unit_id": "u000228"
+          }
+        ],
+        "text": "You can role play it with Chat GPT even as well. You have to make absolute sure that you are using the same word patterns."
+      },
+      "title": "Role-play with Chat GPT",
+      "topic": "sales methods"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000229"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "that in off-plan you are getting the cut of five or six or seven or maybe ten percent",
+            "unit_id": "u000229"
+          }
+        ],
+        "text": "In off-plan sales, agents receive a commission cut of five to ten percent."
+      },
+      "title": "Off-plan commission structure",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000232"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Unfortunately, now the lead generation in Dubai real estate for off-plant project is mainly done through social media or Google AdWords.",
+            "unit_id": "u000232"
+          }
+        ],
+        "text": "Lead generation in Dubai real estate for off-plant projects is mainly done through social media or Google AdWords."
+      },
+      "title": "Lead capture process",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000246"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So you have to track your metrics, which is the dials, how many dials you've done a day, how many leads answered, and then it's good for you to understand, okay, I've been dialing this time and I've been dialing this time.",
+            "unit_id": "u000246"
+          }
+        ],
+        "text": "You should track your metrics such as the number of dials made and the response rate to maximize sales effectiveness."
+      },
+      "title": "Sale process for off-plan leads",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000242",
+        "u000243"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "work with those who are potentially interested, are potentially concerned, not serious at all, just requested some information. This is a different kind of art, and you have to be an agent who is first way more skilled with your communication and ability to simplify things.",
+            "unit_id": "u000242"
+          }
+        ],
+        "text": "You should aim to be more skilled with communication and simplify things for the client to improve conversion rates."
+      },
+      "title": "Improving lead conversion",
+      "topic": "sales techniques"
+    }
+  ]
+}

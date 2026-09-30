@@ -1,0 +1,183 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000017"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Recovery, expansion, hyper supply, recession, one full cycle, seven to nine years for Dubai.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "The speaker explains the real estate cycle by dividing it into the phases of recovery, expansion, hyper supply, and recession, indicating that these cycles last seven to nine years."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Dubai Real Estate Explanation",
+      "topic": "real_estate_cycles"
+    },
+    {
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "That's not pure good news. A crisis cuts both ways.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "The speaker uses a cautious tone when discussing the stability of the current market compared to 2008, highlighting that while it operates on cash, it is not immune to crisis."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "2026 Market Analysis",
+      "topic": "market_comparison"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002",
+        "u000006",
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You have to do your own homework before you move money.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Viewers are advised to 'do your own homework before you move money,' emphasizing the importance of research before making financial decisions."
+      },
+      "title": "Dubai Market Advice",
+      "topic": "property_investment"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006",
+        "u000014",
+        "u000017"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "2008 was not a property crash. It was a credit crash that happened to property.",
+            "unit_id": "u000014"
+          },
+          {
+            "quote": "Phase four, recession. Takes an outside shock to finish the job.",
+            "unit_id": "u000016"
+          },
+          {
+            "quote": "Recovery, expansion, hyper supply, recession, one full cycle, seven to nine years for Dubai.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "Dubai's real estate market follows a cycle that includes the phases of recovery, expansion, hyper supply, and recession, which typically lasts seven to nine years."
+      },
+      "title": "Dubai Real Estate Cycles",
+      "topic": "real_estate_cycles"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000018",
+        "u000033"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Roughly four hundred forty thousand homes scheduled between now and twenty twenty nine.",
+            "unit_id": "u000033"
+          },
+          {
+            "quote": "The heaviest year is twenty twenty seven, and eighty seven percent of it is apartments.",
+            "unit_id": "u000033"
+          }
+        ],
+        "text": "Dubai is projected to have around 440,000 homes scheduled between now and 2029, with the heaviest year being 2027, where 87% of the supply is expected to be apartments."
+      },
+      "title": "Housing Over Supply Issue",
+      "topic": "real_estate_supply"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000035",
+        "u000036"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Over supply is really a city problem. It's a building problem.",
+            "unit_id": "u000036"
+          },
+          {
+            "quote": "Three hundred owners list for rent in the same week.",
+            "unit_id": "u000035"
+          }
+        ],
+        "text": "Investors are cautioned that oversupply is not just a citywide issue but also a building-specific problem when multiple identical units are listed simultaneously."
+      },
+      "title": "Investor Caution",
+      "topic": "real_estate_investment"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000030",
+        "u000033"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "In two thousand eight it ran on ninety percent loans. Today most purchases are cash.",
+            "unit_id": "u000030"
+          },
+          {
+            "quote": "It's very hard for a cash market to have a heart attack.",
+            "unit_id": "u000030"
+          }
+        ],
+        "text": "The 2008 market was largely powered by credit, whereas the current market relies more on cash purchases, making it less prone to collapse from a lack of lending."
+      },
+      "title": "2008 vs 2026 Market Comparison",
+      "topic": "market_comparison"
+    }
+  ]
+}

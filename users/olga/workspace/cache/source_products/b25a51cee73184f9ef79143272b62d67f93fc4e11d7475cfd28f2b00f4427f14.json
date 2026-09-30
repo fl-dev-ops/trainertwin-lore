@@ -1,0 +1,25 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Smart agent See this as...",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The title uses the phrase \"Smart agent See this as...\" which is an opening to a discussion or presentation."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Smart agent phrase",
+      "topic": "phrasing"
+    }
+  ],
+  "knowledge": []
+}

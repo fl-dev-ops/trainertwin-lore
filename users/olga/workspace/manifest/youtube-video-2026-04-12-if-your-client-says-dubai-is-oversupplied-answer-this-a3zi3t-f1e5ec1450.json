@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "youtube-video-2026-04-12-if-your-client-says-dubai-is-oversupplied-answer-this-a3zi3t-f1e5ec1450-7530ddb226b1f8cc6576.jsonl",
+  "evidence_hash": "0af9db271d6481da36d7dbf4c7f88a60dbc764c3ada5f3ab868accf7a61adba0",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:10:58Z",
+  "metadata_hash": "7f846b6e734c4ff1c2f4068358c89bf00d4690bef4ef2963184240fe11ab6370",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 2,
+    "knowledge": 5
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 7,
+    "units_total": 30
+  },
+  "revision": "7530ddb226b1f8cc6576",
+  "snapshot_hash": "cc0f7f58db0aa675dbab4cdd0da87bb7f55c9444363ba3bef393ce95d2a0949d",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-04-12-if-your-client-says-dubai-is-oversupplied-answer-this-a3zi3t-f1e5ec1450",
+  "source_path": "youtube/video/2026-04-12-if-your-client-says-dubai-is-oversupplied-answer-this-a3ZI3TpEaKc.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "c35664842cbdbc03b77be873fe4523036078f7da31d7275dbaf7bed6b5faa23c",
+  "source_snapshot": "youtube-video-2026-04-12-if-your-client-says-dubai-is-oversupplied-answer-this-a3zi3t-f1e5ec1450-7530ddb226b1f8cc6576.json",
+  "version": "4"
+}

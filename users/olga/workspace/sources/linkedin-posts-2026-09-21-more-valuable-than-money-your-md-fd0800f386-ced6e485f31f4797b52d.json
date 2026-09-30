@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "6f143f6e93338b5a9f998ab140a80c2bed0a97f612a1c9a929c2688cebbb7b37",
+  "date": "2026-09-21T10:07:17.783000Z",
+  "date_basis": "source",
+  "external_id": "7507742242774601728",
+  "format": "post",
+  "id": "linkedin-posts-2026-09-21-more-valuable-than-money-your-md-fd0800f386",
+  "metadata_hash": "c4fcfea47e9a20588519d46bc591ba85c22a0880922a9c22d5dc54ec4468bda5",
+  "original_text": "---\nid: '7507742242774601728'\ndate: '2026-09-21T10:07:17.783Z'\nurl: https://www.linkedin.com/posts/olgasi_more-valuable-than-money-your-reputation-activity-7507742242774601728-sPCF\nlikes: 16\ncomments: 1\nimages_count: 5\n---\n\nMore Valuable than Money!??\nYour Reputation!\n\nIt’s was always my #1 priority… somehow it’s now 204 reviews on google with 5* where 95% - are actually describing their experience! All real people I trained!\n\n## Comments (1)\n\n### Mahady hasan (YouTube Growth & GEO Strategist | Helping Real Estate Agencies Rank on Mobile & AI Search.)\n> Reputation is the only business asset that compounds over time.\n> \n>  Having over 200 detailed 5-star reviews isn't just social proof it's proof of real transformation and unshakeable client trust.\n> \n>  Money follows value, but reputation sustains it. \n> Huge milestone!\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-09-21-more-valuable-than-money-your-md-fd0800f386:p000001",
+      "locator": "lines 10-13",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "More Valuable than Money!??\nYour Reputation!\n\nIt’s was always my #1 priority… somehow it’s now 204 reviews on google with 5* where 95% - are actually describing their experience! All real people I trained!"
+    }
+  ],
+  "path": "linkedin/posts/2026-09-21-more-valuable-than-money-your.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-09-21-more-valuable-than-money-your.md",
+  "sha256": "db67a5781d161bda3247d9818e8e2c2f25fd9a449306548f962cff97f8c30f03",
+  "speakers": {},
+  "title": "More Valuable than Money!??",
+  "units": [
+    {
+      "end": 205,
+      "id": "linkedin-posts-2026-09-21-more-valuable-than-money-your-md-fd0800f386:u000001",
+      "locator": "lines 10-13",
+      "passage_id": "linkedin-posts-2026-09-21-more-valuable-than-money-your-md-fd0800f386:p000001",
+      "raw_text": "More Valuable than Money!??\nYour Reputation!\n\nIt’s was always my #1 priority… somehow it’s now 204 reviews on google with 5* where 95% - are actually describing their experience! All real people I trained!",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "More Valuable than Money!?? Your Reputation! It’s was always my #1 priority… somehow it’s now 204 reviews on google with 5* where 95% - are actually describing their experience! All real people I trained!"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_more-valuable-than-money-your-reputation-activity-7507742242774601728-sPCF"
+}

@@ -1,0 +1,55 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-b37420b734a4422c",
+          "quote": "So next time when you are Cold Dming or Introducing yourself on a networking event instead of!",
+          "unit_id": "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:u000001"
+        },
+        {
+          "example_id": "ex-b37420b734a4422c",
+          "quote": "Is this something that you may possibly will benefit from with your own sales team?",
+          "unit_id": "linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9:u000002"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "The author suggests a self-introduction strategy: state the problems you solve and the solutions offered, rather than listing personal titles or certifications.",
+      "proposed_adaptation": {
+        "action": "Encourage professionals to introduce themselves by outlining the problems they address and their offered solutions.",
+        "limits": "Does not apply when personal credentials are specifically requested.",
+        "when": "When doing cold introductions or networking in a professional setting."
+      },
+      "qualification": "Based on a LinkedIn post, self-reported by the author without independent observation.",
+      "scope": "linkedin",
+      "situation": "A LinkedIn post where the author advises on cold introductions and networking events.",
+      "support_ids": [
+        "ex-b37420b734a4422c"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-fb65cff12bfca6e7",
+          "quote": "Please follow carefully. 😇 Bad advice #1: Before you WhatsApp the lead, send an email first. Especially if they are European or American.",
+          "unit_id": "linkedin-posts-2026-09-25-how-to-spot-a-not-md-9cfd139d2f:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The post uses sarcasm and humor to critique conventional sales advice by labeling them as 'Bad advice.'",
+      "proposed_adaptation": {
+        "action": "Employ sarcasm and humor by calling ineffective advice 'bad advice' to highlight its impracticality.",
+        "limits": "Avoid in contexts where sarcasm may be misunderstood or perceived as unprofessional, such as formal reports or highly cultural sensitive environments.",
+        "when": "Critiquing overly adhered sales scripts or advice in written communication."
+      },
+      "qualification": "Inherent to this particular authored example, without other platforms to support broader use.",
+      "scope": "linkedin",
+      "situation": "LinkedIn post critiquing common sales errors through humor and sarcasm.",
+      "support_ids": [
+        "ex-fb65cff12bfca6e7"
+      ]
+    }
+  ]
+}

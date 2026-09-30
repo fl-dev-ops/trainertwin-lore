@@ -1,0 +1,76 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Most agents try to close by pushing harder. They explain more, they send more options, more payment plans, more follow-ups, and the client still disappears.",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "This is where neuroemotional persuasion comes in. You learn how to ask better questions.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker presents common ineffective sales tactics before introducing an alternative method, neuroemotional persuasion. They first list what most agents do wrong, and then explain the concept's fundamentals."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Sales Advice Framing",
+      "topic": "neural persuasion"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "'I need to think about it...'\n'I'm not in a rush - I'll let you know...'\n'Now its not a right time...'",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The post lists common objections such as 'I need to think about it,' 'I'm not in a rush,' and 'Now is not the right time.'"
+      },
+      "title": "Overcoming Sales Objections",
+      "topic": "sales strategies"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "This is where neuroemotional persuasion comes in. You learn how to ask better questions. So instead of convincing the client, the client starts convincing himself.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Neuroemotional persuasion involves learning to ask better questions so the client convinces themselves rather than being convinced by the agent."
+      },
+      "title": "Neuroemotional Persuasion",
+      "topic": "neural persuasion"
+    }
+  ]
+}

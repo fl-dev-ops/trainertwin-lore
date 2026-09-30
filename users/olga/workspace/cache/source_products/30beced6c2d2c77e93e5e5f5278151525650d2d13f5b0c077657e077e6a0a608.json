@@ -1,0 +1,262 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000037"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The person who bought a villa in a supply constrained community and the person who bought one of four hundred identical apartments both sit inside the same rising line and they have completely different lives.",
+            "unit_id": "u000037"
+          }
+        ],
+        "text": "The speaker uses a comparative structure to explain the different potential outcomes for two types of property investments within the same rising market line, emphasizing their differing impacts on lives."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Property Investment Variability Explanation",
+      "topic": "property market analysis"
+    },
+    {
+      "context_unit_ids": [
+        "u000042"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "But before you sign anything, answer three questions. First, what creates the real demand for this specific property? Not to buy, not the brochure. Second, how many new identical units going to be handed over within the year in the same district? Third, who buys it or rents it from you and why yours instead the one on the floor above?",
+            "unit_id": "u000042"
+          }
+        ],
+        "text": "The speaker uses a structured list of three questions to guide listeners in evaluating potential property investments."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Market Strategy Advice",
+      "topic": "property market advice"
+    },
+    {
+      "context_unit_ids": [
+        "u000043"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "we're entering absorption, not a crash. Two thousand eight was a credit collapse.",
+            "unit_id": "u000043"
+          }
+        ],
+        "text": "The speaker contrasts the current market phase with the historical 2008 credit collapse to highlight differences in the current situation."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Comparison to Historical Event",
+      "topic": "property market analysis"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000036"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Over supply is really a city problem. It's a building problem.",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "Over supply is really a city problem. It's a building problem."
+      },
+      "title": "Impact of Oversupply",
+      "topic": "property market analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000037"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The person who bought a villa in a supply constrained community and the person who bought one of four hundred identical apartments both sit inside the same rising line and they have completely different lives.",
+            "unit_id": "u000037"
+          }
+        ],
+        "text": "The person who bought a villa in a supply constrained community and the person who bought one of four hundred identical apartments both have completely different lives."
+      },
+      "title": "Property Investment Variability",
+      "topic": "property market analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000038"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "One share of Dubai's stock is now more than ten years old, and the building is actually a physical object, sitting in fifty degrees heat half of the year.",
+            "unit_id": "u000038"
+          }
+        ],
+        "text": "One share of Dubai's stock is now more than ten years old, and the building sits in fifty degrees heat half of the year, which affects its competition."
+      },
+      "title": "Property Age Importance",
+      "topic": "property market analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000039"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "A rising city doesn't guarantee a rising asset. So read the clock. Prices easing off in October peak.",
+            "unit_id": "u000039"
+          }
+        ],
+        "text": "A rising city doesn't guarantee a rising asset, and factors such as community, building, handover year, and developer are important."
+      },
+      "title": "Importance of Community and Developer",
+      "topic": "property market analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000040"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "This is the early age of hyper supply. Not phase four. Not a cliff. Phase fee without a leverage bond that turned two thousand eight from the correction into a catastrophe.",
+            "unit_id": "u000040"
+          }
+        ],
+        "text": "The current market is in the early stage of hyper supply, not a phase four or cliff, and it differs from 2008 since it lacks a leverage bond turning a correction into a catastrophe."
+      },
+      "title": "Hyper Supply Phase",
+      "topic": "property market analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000041"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "watch free things. The monthly index, the off-plan share, and the new lease rents.",
+            "unit_id": "u000041"
+          }
+        ],
+        "text": "Watch the monthly index, the off-plan share, and the new lease rents to predict market correction and trends."
+      },
+      "title": "Watching Market Indicators",
+      "topic": "property market analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000042"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But before you sign anything, answer three questions. First, what creates the real demand for this specific property? Not to buy, not the brochure. Second, how many new identical units going to be handed over within the year in the same district? Third, who buys it or rents it from you and why yours instead the one on the floor above?",
+            "unit_id": "u000042"
+          }
+        ],
+        "text": "Before signing anything, answer three questions: what creates the real demand, how many new identical units will be handed over, and who will buy or rent the property."
+      },
+      "title": "Evaluating Property Investment",
+      "topic": "property market advice"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000043"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Dubai moves in seven to nine year cycles. And we're entering absorption, not a crash. Two thousand eight was a credit collapse.",
+            "unit_id": "u000043"
+          }
+        ],
+        "text": "Dubai moves in seven to nine year cycles, and the current phase is absorption, not a crash, unlike the credit collapse in 2008."
+      },
+      "title": "Property Cycles and Strategies",
+      "topic": "property market analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000044"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Prices may cool when the supply less, but that's normal. It's the phase where the best buyers do the best deals.",
+            "unit_id": "u000044"
+          }
+        ],
+        "text": "Prices may cool when the supply lessens, but that's normal, and it's the phase where the best buyers do the best deals."
+      },
+      "title": "Market Expectations and Opportunities",
+      "topic": "property market analysis"
+    }
+  ]
+}

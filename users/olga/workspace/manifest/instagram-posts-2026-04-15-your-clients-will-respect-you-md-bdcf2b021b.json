@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "instagram-posts-2026-04-15-your-clients-will-respect-you-md-bdcf2b021b-7048993bd8c78a4f4279.jsonl",
+  "evidence_hash": "a9a5e6dd10df24e829e012fa706e601d12aa78d3364f8059bc18e8130f5cfc15",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:05:57Z",
+  "metadata_hash": "dc6708ae90c80972cda180f00b361261c3573c3bd5e22cd30f331215d0426987",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 2,
+    "units_total": 2
+  },
+  "revision": "7048993bd8c78a4f4279",
+  "snapshot_hash": "a1eddaf9b81201c2d772c53f97be0cb5a6f7c9ee6f2cf721212c02f25c206797",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-04-15-your-clients-will-respect-you-md-bdcf2b021b",
+  "source_path": "instagram/posts/2026-04-15-your-clients-will-respect-you.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "0ab60ea0eb0c98b139f1c7799daf784df9919d630fcdf92a758f00ccf989a7da",
+  "source_snapshot": "instagram-posts-2026-04-15-your-clients-will-respect-you-md-bdcf2b021b-7048993bd8c78a4f4279.json",
+  "version": "4"
+}

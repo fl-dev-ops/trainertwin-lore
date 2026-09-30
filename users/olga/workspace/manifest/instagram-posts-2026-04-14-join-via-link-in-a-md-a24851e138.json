@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "instagram-posts-2026-04-14-join-via-link-in-a-md-a24851e138-e77657a0b810fab9be12.jsonl",
+  "evidence_hash": "698cfbeec8092044da5069779a03600e9220e5acdb53b2daa830f4960543977c",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:05:28Z",
+  "metadata_hash": "a30e65fa32f29e522e3bf674e8e4021a5356c9c1e77023dcb8d5c66af6640fc5",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 3,
+    "units_total": 4
+  },
+  "revision": "e77657a0b810fab9be12",
+  "snapshot_hash": "35b1d11fea5f178c62e0db6bca0d8706084e65246d424761f1dc507435e09852",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-04-14-join-via-link-in-a-md-a24851e138",
+  "source_path": "instagram/posts/2026-04-14-join-via-link-in-a.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "d42a4799cf28c6afecd0c4b0222d0b57533ec38731e2355490fc1cd0f5ca05b9",
+  "source_snapshot": "instagram-posts-2026-04-14-join-via-link-in-a-md-a24851e138-e77657a0b810fab9be12.json",
+  "version": "4"
+}

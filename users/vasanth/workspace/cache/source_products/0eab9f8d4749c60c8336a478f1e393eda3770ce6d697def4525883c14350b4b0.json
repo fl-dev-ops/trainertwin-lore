@@ -1,0 +1,284 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000247",
+        "u000249",
+        "u000256"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "So how we should be ready? Like anyhow layoffs will happen, that is not in our control.",
+            "unit_id": "u000247"
+          }
+        ],
+        "text": "So how we should be ready? Like anyhow layoffs will happen, that is not in our control."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "please don't be lazy. Do you just your duty sort of a thing. Try to do as much as possible so that from your the lens of your immediate manager, you're actually in a very very good position.",
+            "unit_id": "u000267"
+          }
+        ],
+        "text": "Keep up with using AI in coding and strive to be an irreplaceable team member by fully understanding and impacting the project."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "That is the case with the most like Lloyd banks whatever it is, Dust Bank. So they are making their own centers, they don't need any service from the I M E.",
+            "unit_id": "u000256"
+          }
+        ],
+        "text": "A question was asked about how to prepare for potential layoffs with company changes."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Layoff preparation discussion",
+      "topic": "job security"
+    },
+    {
+      "context_unit_ids": [
+        "u000270",
+        "u000272"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "how earlier you can understand how the approach you can take to understand that particular repository.",
+            "unit_id": "u000270"
+          }
+        ],
+        "text": "how earlier you can understand how the approach you can take to understand that particular repository."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "take that repo now and ask Jenny AI, give me a one document summary of the entire project",
+            "unit_id": "u000272"
+          }
+        ],
+        "text": "Use Jenny AI to get a document summary of the project and use prompting to get a general understanding."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "they can get more attention and more they will survive more like. So how you will understand, let's say for example you are the new to the particular project",
+            "unit_id": "u000270"
+          }
+        ],
+        "text": "Someone asked for advice on understanding a new project quickly when they are new to it."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Learning a new project quickly",
+      "topic": "understanding projects"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000272"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "take that repo now and ask Jenny AI, give me a one document summary of the entire project, which are all the important file where I am doing what",
+            "unit_id": "u000272"
+          }
+        ],
+        "text": "The speaker explains their personal strategy for quickly understanding a new project by using AI to create a document summary."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "first thing that I will do is I will take that repo now and ask Jenny AI",
+            "unit_id": "u000272"
+          }
+        ],
+        "text": "To convey an efficient method of gaining project understanding quickly."
+      },
+      "speaker_id": "2",
+      "title": "Inquiry about AI usage in projects",
+      "topic": "AI in projects"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000242"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "our company also developed Figma to on act code. It is almost giving sixty percentage of the code.",
+            "unit_id": "u000242"
+          }
+        ],
+        "text": "Our company developed Figma to on act code, providing almost 60% of the code."
+      },
+      "title": "Company AI use development",
+      "topic": "company AI tools"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000272"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "new project where I don't know single line of code",
+            "unit_id": "u000272"
+          }
+        ],
+        "text": "To understand a new project when unfamiliar with its code."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "take that repo now",
+              "unit_id": "u000272"
+            }
+          ],
+          "text": "Access to the project repository."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "ask Jenny AI, give me a one document summary of the entire project, which are all the important file where I am doing what",
+              "unit_id": "u000272"
+            }
+          ],
+          "text": "Ask Jenny AI for a document summary of the project and important files."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "take that repo now and ask Jenny AI, give me a one document summary of the entire project, which are all the important file where I am doing what",
+            "unit_id": "u000272"
+          }
+        ],
+        "text": "To understand a new project, use Jenny AI for a document summary and important file identification."
+      },
+      "title": "Use AI tools in projects",
+      "topic": "AI in projects"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000273"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "testimonial whether you are understanding it or not",
+            "unit_id": "u000273"
+          }
+        ],
+        "text": "To verify understanding of a new project."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "once I have to study everything",
+              "unit_id": "u000273"
+            }
+          ],
+          "text": "Some understanding of the project has been gained."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "ask me like ten question quiz around the project which like ask some very specific questions, can I answer them or not?",
+              "unit_id": "u000273"
+            }
+          ],
+          "text": "Ask the AI to create a quiz with specific questions about the project."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "ask like give me like once I have to study everything, you can ask me to create a quiz for you.",
+            "unit_id": "u000273"
+          }
+        ],
+        "text": "After gaining some project understanding, ask the AI for a quiz to test comprehension."
+      },
+      "title": "Gain full project understanding",
+      "topic": "understanding projects"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000284"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "pick a sizable project I mean, let's say you want to go into UX. So now try to pick a project where you want to design an app.",
+            "unit_id": "u000284"
+          }
+        ],
+        "text": "To pursue UX design, pick a sizable project and complete it independently using tools like Figma for design."
+      },
+      "title": "Pursuing UX design",
+      "topic": "career advancement"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000287"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "build like ten different APIs maybe using Janiya or without Janiya. Check whether you really enjoy the process",
+            "unit_id": "u000287"
+          }
+        ],
+        "text": "If exploring backend is considered, create APIs for a project and evaluate if you enjoy the process."
+      },
+      "title": "Enjoying backend work",
+      "topic": "career choices"
+    }
+  ]
+}

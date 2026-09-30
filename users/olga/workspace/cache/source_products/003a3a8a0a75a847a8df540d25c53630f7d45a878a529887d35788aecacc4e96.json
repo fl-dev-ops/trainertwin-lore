@@ -1,0 +1,89 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Mr. client, I know it may look like the market has stopped. But reality is, the market shifted.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The statement provides an explanation of the market shift by contrasting the initial appearance of a stopped market with the reality of a changing market."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "market_shift_explanation",
+      "topic": "market_change"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Demand didn't disappear. Buyers became more selective.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker supports the claim that the market has not stopped by stating that demand didn't disappear, thereby warranting the shift explanation."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "shift_claim_warrant",
+      "topic": "market_change"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I know it may look like the market has stopped. But reality is, the market shifted.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The market has not stopped; it has shifted."
+      },
+      "title": "market_shift",
+      "topic": "market_change"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Now, people are buying very smart. Demand didn't disappear. Buyers became more selective.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Buyers are now buying very smart, and demand has not disappeared, but buyers have become more selective."
+      },
+      "title": "smart_buying",
+      "topic": "consumer_behavior"
+    }
+  ]
+}

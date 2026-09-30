@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "432af16828b8bbf2e961bd45bc397e52e552b0dc667b00b58a4cb57aa8c577c5",
+  "date": "2026-07-20T19:53:52.792000Z",
+  "date_basis": "source",
+  "external_id": "7485059425808834560",
+  "format": "post",
+  "id": "linkedin-posts-2026-07-20-100-agree-on-that-just-md-222acbd073",
+  "metadata_hash": "8db6b27f1dd7cd03fcd3fe401e8dd49b480d501fd3321b98d1edee6a79d7aa95",
+  "original_text": "---\nid: '7485059425808834560'\ndate: '2026-07-20T19:53:52.792Z'\nurl: https://www.linkedin.com/posts/olgasi_dubairealestate-realestate-dubai-activity-7485059425808834560-HdiK\nlikes: 15\ncomments: 0\n---\n\n100% agree on that! \n\nJust to add - that these ex-agents are burning through their money very fast and moving into holding the agents commissions and stealing from agents will ends terribly for them! \n\nAnd this challenging period will hopefully clean a lot of “such” companies.\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-07-20-100-agree-on-that-just-md-222acbd073:p000001",
+      "locator": "lines 9-13",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "100% agree on that! \n\nJust to add - that these ex-agents are burning through their money very fast and moving into holding the agents commissions and stealing from agents will ends terribly for them! \n\nAnd this challenging period will hopefully clean a lot of “such” companies."
+    }
+  ],
+  "path": "linkedin/posts/2026-07-20-100-agree-on-that-just.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-07-20-100-agree-on-that-just.md",
+  "sha256": "55b4ff398475a8248ec44fea6e296e95034fe3fa35917fb1c342f66e9d514baa",
+  "speakers": {},
+  "title": "100% agree on that!",
+  "units": [
+    {
+      "end": 277,
+      "id": "linkedin-posts-2026-07-20-100-agree-on-that-just-md-222acbd073:u000001",
+      "locator": "lines 9-13",
+      "passage_id": "linkedin-posts-2026-07-20-100-agree-on-that-just-md-222acbd073:p000001",
+      "raw_text": "100% agree on that! \n\nJust to add - that these ex-agents are burning through their money very fast and moving into holding the agents commissions and stealing from agents will ends terribly for them! \n\nAnd this challenging period will hopefully clean a lot of “such” companies.",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "100% agree on that! Just to add - that these ex-agents are burning through their money very fast and moving into holding the agents commissions and stealing from agents will ends terribly for them! And this challenging period will hopefully clean a lot of “such” companies."
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_dubairealestate-realestate-dubai-activity-7485059425808834560-HdiK"
+}

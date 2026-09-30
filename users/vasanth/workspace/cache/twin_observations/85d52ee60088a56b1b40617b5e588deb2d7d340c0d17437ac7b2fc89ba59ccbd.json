@@ -1,0 +1,50 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-1ca5889a105bafae",
+          "quote": "If the kid has not decided what to pursue and not having passion on any one stream then do engineering.",
+          "unit_id": "linkedin-posts-2026-09-28-when-family-and-friends-ask-md-9101e697a0:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "If undecided and no passion for a specific stream, pursue engineering, as engineers will still be needed in the future.",
+      "proposed_adaptation": {
+        "action": "Suggest pursuing a general degree like engineering to keep future options open when specific interests are not developed.",
+        "limits": "Not suitable for students with strong interests or in non-generalist career fields.",
+        "when": "advising students who are undecided about their career choices"
+      },
+      "qualification": "No independent validation of strategy effectiveness; single expression case.",
+      "scope": "linkedin",
+      "situation": "Family and friends ask for suggestions on what to pursue after 12th grade.",
+      "support_ids": [
+        "ex-1ca5889a105bafae"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-6f536a88fe30f5f1",
+          "quote": "First thing to study is fundamentals of JavaScript. Because without fundamentals of JavaScript, whether you pick React, Angular, Vue or any other framework, Node.js or any other framework, you're not gonna master it.",
+          "unit_id": "youtube-video-2025-01-03-master-frontend-development-in-2025-a-complete-roadmap-bfdva-7c1566cce2:u000005"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth emphasizes the importance of understanding JavaScript fundamentals before exploring frameworks like React, Angular, or Vue.",
+      "proposed_adaptation": {
+        "action": "Emphasize the importance of mastering fundamental concepts before tackling more complex topics or technologies.",
+        "limits": "Content specific to JavaScript and web development contexts; may not transfer to other fields.",
+        "when": "Teaching foundational programming skills"
+      },
+      "qualification": "This expression only reflects the speaker's perspective; not universally validated.",
+      "scope": "youtube",
+      "situation": "Vasanth gives advice about studying JavaScript for frontend development.",
+      "support_ids": [
+        "ex-6f536a88fe30f5f1"
+      ]
+    }
+  ]
+}

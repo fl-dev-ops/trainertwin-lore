@@ -1,0 +1,256 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000004",
+        "u000005",
+        "u000006",
+        "u000007"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "they can cash out with profit even during construction. And by the time they came to me, the unit was listed for several months with zero offers.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "The speaker describes Apple's property as being in a good location on paper but with issues preventing sale."
+      },
+      "diagnosis": {
+        "citations": [
+          {
+            "quote": "the developer is new, is actually the first residential project for him... the delay looked like at least one year.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The issue was attributed to the developer's inexperience and construction delays."
+      },
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Apple came to me for a consultation around nine months ago. They had a portfolio of three units in Dubai.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "A consultation with Apple regarding their property portfolio in Dubai's Marina area."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "One of the simplest ways to start understanding Dubai, past, current, and future demand is through its main roads.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Understanding demand through its main roads is a more effective strategy for investment in Dubai."
+      },
+      "title": "Dubai Marina Investment Issue",
+      "topic": "Dubai Investment Strategy"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "the city usually grows from the old center, historical core,",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "Dubai doesn't work like that. It's not one center with everything growing around it.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker contrasts Dubai's growth with other world capitals using a sequence describing first what typically happens, then explaining how Dubai diverges from this pattern."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Dubai Growth Explanation",
+      "topic": "Dubai Growth"
+    },
+    {
+      "context_unit_ids": [
+        "u000019"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "if you invest into this tower, of course, you have to buy a ready unit. You will have of only rental income. The price appreciation will be completely minimal.",
+            "unit_id": "u000019"
+          }
+        ],
+        "text": "The speaker uses a candid tone to discuss the realities of investing in older buildings within Dubai Marina."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Real Estate Strategy Description",
+      "topic": "Dubai Investment Strategy"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "let me show you the Dubai map, the way I see it, not as a list of areas, but as a money map.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker claims to present a different view of the Dubai map as a 'money map' rather than just a list of areas, implying an alternate strategy for investment."
+      },
+      "title": "Dubai Investment Map",
+      "topic": "Dubai Investment Strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Dubai doesn't work like that.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Dubai's growth model is described as 'more palace-centric,' creating new centers with government plans, unlike the 'moneycentric' model seen in other capitals like London or Paris."
+      },
+      "title": "Dubai Growth Model",
+      "topic": "Dubai Growth"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "One of the simplest ways to start understanding Dubai, past, current, and future demand is through its main roads.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Understanding Dubai's past, current, and future demand can start by analyzing its main roads."
+      },
+      "title": "Impact of Roads on Demand",
+      "topic": "Dubai Demand"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you don't have to have a knowledge about these areas because this is only for GCC passport holders and there is not much you can buy here.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "The old center of Dubai like Deira and Karama have constraints for non-GCC passport holders, limiting purchasing options."
+      },
+      "title": "Old Centers and GCC Holders",
+      "topic": "Dubai Investment Constraints"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if you are looking for hustle-free long-term tenant, prices in Dubai Marina will be probably lower.",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "Dubai Marina's expected high demand for short-term rentals contrasts with lower prices for long-term tenants."
+      },
+      "title": "Investment in Dubai Marina",
+      "topic": "Dubai Investment Strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000023"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "clients bought a unit there in 2019 for two bedroom for 3.6 million dirhams. And ... the price was 7.2.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "A client bought a two-bedroom unit on a post-handover payment plan in 2019 and its price increased from 3.6 million dirhams to 7.2 million dirhams by November 2025."
+      },
+      "title": "Boulevard Island Investment",
+      "topic": "Dubai Investment Strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000026"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I want to specifically stop myself on this area Marjan. uh You probably heard of this new upcoming developments.",
+            "unit_id": "u000026"
+          }
+        ],
+        "text": "New developments in Marjan are catching the interest of major developers despite current lack of direct road connectivity."
+      },
+      "title": "Marjan Development",
+      "topic": "Dubai Development"
+    }
+  ]
+}

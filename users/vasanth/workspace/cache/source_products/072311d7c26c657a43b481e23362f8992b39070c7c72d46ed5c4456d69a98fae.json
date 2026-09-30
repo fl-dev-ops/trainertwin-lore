@@ -1,0 +1,485 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000084"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "there's a concept called execution context in JavaScript. Most of you here would know what is execution context. So there is a very simple analogy is that like a box.",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "The speaker explains the concept of execution context in JavaScript using an analogy."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Execution Context Analogy",
+      "topic": "JavaScript execution context"
+    },
+    {
+      "context_unit_ids": [
+        "u000085"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Now what interviewers ask is, let's say there are ten different JS files... How many global execution contexts will be created for this?",
+            "unit_id": "u000085"
+          }
+        ],
+        "text": "The speaker describes an interview question about the number of global execution contexts created for multiple JavaScript files calling each other."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Interview Question on Execution Contexts",
+      "topic": "JavaScript interview questions"
+    },
+    {
+      "context_unit_ids": [
+        "u000086",
+        "u000087"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "in React, you are able to call an arrow function from almost anywhere. So you just knowing the concept of hosting will not be able to answer you this question.",
+            "unit_id": "u000087"
+          }
+        ],
+        "text": "An interview question involves calling arrow functions in React, which can be done from almost anywhere, unlike in regular JavaScript functions due to hosting rules."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "React Arrow Functions Interview Question",
+      "topic": "React interview questions"
+    },
+    {
+      "context_unit_ids": [
+        "u000089"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "But the good example of closure is actually in React if you see, there is a parent child component. You are passing props to the child component and from the child component you are able to invoke the parent component function, right?",
+            "unit_id": "u000089"
+          }
+        ],
+        "text": "The speaker gives an example of using closures in React to pass props and invoke functions between parent and child components."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Closure in React",
+      "topic": "JavaScript closure"
+    },
+    {
+      "context_unit_ids": [
+        "u000101",
+        "u000102",
+        "u000103",
+        "u000104"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Yeah, so the the classes will be like a Saturday and Sunday, like the timing, what is the timing actually?",
+            "unit_id": "u000101"
+          }
+        ],
+        "text": "Mithun asks about the timing of the cohort sessions."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Usually it's eight to eleven. Last court ran from eight AM to eleven AM or eleven AM to one PM.",
+            "unit_id": "u000102"
+          }
+        ],
+        "text": "The sessions are preferably in the morning between 8 AM and 11 AM, as indicated by participant poll."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Yeah, so the the classes will be like a Saturday and Sunday, like the timing, what is the timing actually?",
+            "unit_id": "u000101"
+          }
+        ],
+        "text": "The speaker and Mithun discuss the timing options for cohort sessions."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Cohort Session Timing Decision",
+      "topic": "cohort session timing"
+    },
+    {
+      "context_unit_ids": [
+        "u000107",
+        "u000108",
+        "u000109",
+        "u000110",
+        "u000111"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "...like if I I agreed for the eleven to one, okay, but most of the people are agreed for another time because I agreed because I have some work, personal ones.",
+            "unit_id": "u000107"
+          }
+        ],
+        "text": "The participant explains their difficulty attending the preferred session time."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "All sessions will be recorded. So you can watch the recording in that case, Muthuraj.",
+            "unit_id": "u000111"
+          }
+        ],
+        "text": "The speaker assures that all sessions will be recorded for anyone unable to attend live."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "...like if I I agreed for the eleven to one, okay, but most of the people are agreed for another time because I agreed because I have some work, personal ones.",
+            "unit_id": "u000107"
+          }
+        ],
+        "text": "A participant expresses concern about their personal schedule conflicting with the preferred cohort session timing."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Sessions Recorded for Different Time Preferences",
+      "topic": "cohort session timing"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000084"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "there's a concept called execution context in JavaScript... So there is a very simple analogy is that like a box.",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "The speaker uses an analogy to explain what an execution context is in JavaScript, comparing it to a box used for wrapping and executing code."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Analogy in Teaching Execution Context",
+      "topic": "JavaScript execution context"
+    },
+    {
+      "context_unit_ids": [
+        "u000085"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Now what interviewers ask is, let's say there are ten different JS files... How many global execution contexts will be created for this?",
+            "unit_id": "u000085"
+          }
+        ],
+        "text": "The speaker constructs a question by describing a scenario with multiple JavaScript files calling each other, asking how many global execution contexts will be created."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Question Construction on Execution Contexts",
+      "topic": "JavaScript interview questions"
+    },
+    {
+      "context_unit_ids": [
+        "u000102",
+        "u000104"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "we poll and identify the time. Usually it's eight to eleven.",
+            "unit_id": "u000102"
+          }
+        ],
+        "text": "The speaker describes the process of finalizing cohort session timing by polling participants and accommodating the majority preference."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Session Timing Poll Explanation",
+      "topic": "cohort session timing"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000083"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you repeatedly getting topics which you have not studied. Second, you got the topics which you have studied, but they are asking to altogether different perspective which you never thought.",
+            "unit_id": "u000083"
+          }
+        ],
+        "text": "There is a pattern in interview preparation where individuals repeatedly encounter topics they have not studied, or they study topics but face questions from altogether different perspectives."
+      },
+      "title": "Interview Preparation Patterns",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000084"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there's a concept called execution context in JavaScript. Most of you here would know what is execution context. So there is a very simple analogy is that like a box.",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "The concept of execution context in JavaScript is likened to a box where each execution creates a global or local context."
+      },
+      "title": "JavaScript Execution Context Teaching",
+      "topic": "JavaScript execution context"
+    },
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "only works if you are disciplined otherwise self study will not work.",
+              "unit_id": "u000091"
+            }
+          ],
+          "text": "Self study will not work without discipline."
+        }
+      ],
+      "context_unit_ids": [
+        "u000090",
+        "u000091"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "self study is something that is very suitable for someone who who knows in and out like at least in and out of what to study for their experience.",
+            "unit_id": "u000091"
+          }
+        ],
+        "text": "Self study is suitable for someone who knows what to study and can create a timetable with generative AI, but it requires discipline."
+      },
+      "title": "Self Study Interview Preparation",
+      "topic": "interview preparation methods"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000091",
+        "u000092"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "mentor led preparation. You can hire a mentor pay them money so they're going to be with you they'll tell what to study how how to study they'll take your interviews.",
+            "unit_id": "u000092"
+          }
+        ],
+        "text": "Mentor-led interview preparation involves hiring a mentor to guide and conduct mock interviews."
+      },
+      "title": "Mentor-Led Interview Preparation",
+      "topic": "interview preparation methods"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000093",
+        "u000094"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you also start seeing a peer pressure. Let's say there is someone with the same experience, you work in a bigger company with much more salary than you, like performing good in the live session, then there's a competition mindset.",
+            "unit_id": "u000094"
+          }
+        ],
+        "text": "Cohort-based preparation provides a study environment with peers and live teaching, fostering competition and improving efforts."
+      },
+      "title": "Cohort-Based Interview Preparation",
+      "topic": "interview preparation methods"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000095",
+        "u000116"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there's a five primary pillars for front end interview preparation. Basically JavaScript, React, machine coding, system design and DSA.",
+            "unit_id": "u000095"
+          }
+        ],
+        "text": "Frontend interview preparation involves five pillars: JavaScript, React, machine coding, system design, and DSA."
+      },
+      "title": "Five Pillars of Frontend Interview Preparation",
+      "topic": "frontend interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000117"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if you are aspiring for Google you may be beyond that also. Maybe you may have to solve like if you are a first time solver my suggestion is at least you should be able to solve two fifty problems",
+            "unit_id": "u000117"
+          }
+        ],
+        "text": "For companies like Google, DSA preparation should include solving 150 to 200 problems at a minimum, with more required for first-time solvers."
+      },
+      "title": "DSA Preparation for Companies Like Google",
+      "topic": "DSA preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000097"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Sessions held on the weekends, Saturdays and Sundays, okay? So that like you can join during your weekends and there'll be midweek there'll be doubt clearing session if you're stuck somewhere... kept in the notion document, sessions will be recorded in the YouTube private cloud",
+            "unit_id": "u000097"
+          }
+        ],
+        "text": "Cohort sessions for frontend development offer live teaching, recorded sessions, and resources hosted on a private cloud, with placement activity information provided in Notion documents."
+      },
+      "title": "Cohort Offerings for Frontend Development",
+      "topic": "cohort offerings"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000098"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Next Saturday we are starting the cohort. As I speak, we have fifteen people out of twenty five who got registered, more ten seats are available.",
+            "unit_id": "u000098"
+          }
+        ],
+        "text": "Registration for the cohort closes soon, with limited seats remaining for those interested in frontend development."
+      },
+      "title": "Interview Preparation and Cohort Enrollment",
+      "topic": "enrollment information"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000101",
+        "u000102"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Usually it's eight to eleven. Last court ran from eight AM to eleven AM or eleven AM to one PM.",
+            "unit_id": "u000102"
+          }
+        ],
+        "text": "Cohort sessions typically run in the mornings, with a preference for early timings between 8 AM to 11 AM or 11 AM to 1 PM."
+      },
+      "title": "Cohort Session Timing",
+      "topic": "cohort session timing"
+    }
+  ]
+}

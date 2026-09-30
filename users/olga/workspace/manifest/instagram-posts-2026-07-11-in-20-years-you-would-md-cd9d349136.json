@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 7,
+  "evidence_file": "instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136-3367102b85b9b62b54f2.jsonl",
+  "evidence_hash": "039e22055a92bed21fc743809cf4e1a82c0c8bfbb8f85cc84f5f3932a4480bb1",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:08:46Z",
+  "metadata_hash": "14739b1020d476369c422bfb04848b60ae399cdb488d455dfa2c0d4c48649f2d",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 3,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 2
+  },
+  "revision": "3367102b85b9b62b54f2",
+  "snapshot_hash": "cf9ddef5b9d5470166b000e825dad7804ae5d60b58c6973396912c21fd2c6291",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136",
+  "source_path": "instagram/posts/2026-07-11-in-20-years-you-would.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "d75913a7f1659cacc2049573086d40b7457e1757c05e8a9135418878d025bbe0",
+  "source_snapshot": "instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136-3367102b85b9b62b54f2.json",
+  "version": "4"
+}

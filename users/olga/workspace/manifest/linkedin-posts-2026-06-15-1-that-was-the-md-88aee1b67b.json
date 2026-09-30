@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 6,
+  "evidence_file": "linkedin-posts-2026-06-15-1-that-was-the-md-88aee1b67b-d8a41bfefd9ddc1a0942.jsonl",
+  "evidence_hash": "83190680539ceb84a99d97c5ba932ba323c9c6e9e2019128f9ded5973dfec7bf",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:32:38Z",
+  "metadata_hash": "d778f24fbfb09ca65b75a99a9395de50cc5ebdf33601b7d781d337a75f250c6f",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 4
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 4,
+    "units_total": 4
+  },
+  "revision": "d8a41bfefd9ddc1a0942",
+  "snapshot_hash": "ce61f4abfd87580ceda8a3f3f6b49ae237ec8da7476bad2ff69c86fd7d02b02e",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-06-15-1-that-was-the-md-88aee1b67b",
+  "source_path": "linkedin/posts/2026-06-15-1---that-was-the.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "dc03e9870a439061747a80262a680487d3ee339da17293c28364f0720083af40",
+  "source_snapshot": "linkedin-posts-2026-06-15-1-that-was-the-md-88aee1b67b-d8a41bfefd9ddc1a0942.json",
+  "version": "4"
+}

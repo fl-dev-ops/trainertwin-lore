@@ -1,0 +1,440 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000020"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I'm happy to do that also. I'm not a college teacher or a school teacher who has like strict urgency of completing everything.",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "The instructor emphasizes flexibility by stating the willingness to extend session timelines and not rush through the material."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Session Planning",
+      "topic": "Session Details"
+    },
+    {
+      "context_unit_ids": [
+        "u000021"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I honestly don't know the answer I don't bluff in the session.",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "The instructor expresses a candid admission of not knowing everything, emphasizing honesty in responding to questions."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Example Handling Unknowns",
+      "topic": "Session Details"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "So from your end please keep at least two and a half hours 8 AM to 10:30 AM from your side please try to dedicate that much time for the cohort.",
+              "unit_id": "u000004"
+            }
+          ],
+          "text": "Participants should dedicate at least two and a half hours from 8 AM to 10:30 AM for the cohort."
+        }
+      ],
+      "context_unit_ids": [
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "द टिपिकल सेशन ड्यूरेशन विल बी अप टू टू आवर्स।",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "But it can stretch to two point five hours depending on the day that we are...",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "A typical session duration is up to two hours but can extend to two and a half hours."
+      },
+      "title": "Cohort Session Duration",
+      "topic": "Cohort Setup"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004",
+        "u000005"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So topics covered as I told JavaScript, React, Machine Coding, System Design and DSA.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The topics covered in the cohort include JavaScript, React, Machine Coding, System Design, and DSA."
+      },
+      "title": "Topics Covered",
+      "topic": "Cohort Setup"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000005",
+        "u000006"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I had a maximum count in my mind of twenty-five. I never wanted to extend it, but it so happened...",
+            "unit_id": "u000005"
+          },
+          {
+            "quote": "I could not say no to them because of which overall number has become thirty three.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The intended maximum number of participants was twenty-five, but circumstances increased it to thirty-three."
+      },
+      "title": "Max Participants",
+      "topic": "Cohort Setup"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006",
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "everyone here hasn't joined for the placement support itself. Some like learning plus placement, some have joined only for the sake of pure learning.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Not all participants joined for placement support; some joined for learning purposes."
+      },
+      "title": "Participant Goals",
+      "topic": "Cohort Setup"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007",
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "And session format, how a typical session would look like. A live session, quiz, sometimes a live assignments, discussion.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Sessions include live instruction, quizzes, and sometimes live assignments and discussions."
+      },
+      "title": "Session Format",
+      "topic": "Session Details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So it's not like mandatory for anyone to turn on the video. I am teaching and sessions are recorded...",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "Video is not mandatory, but the instructor's sessions will be recorded."
+      },
+      "title": "Video Policy",
+      "topic": "Session Details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So complete preparation, the complete cohort group whoever has joined, in fact not even three I believe, everyone here are like three to four years of experience.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "Participants are expected to have three to four years of experience, with the capability to build simple programs in JavaScript."
+      },
+      "title": "Cohort Experience Level",
+      "topic": "Participant Expectations"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000011",
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So this is not a UI heavy program also.",
+            "unit_id": "u000011"
+          },
+          {
+            "quote": "It's a functional heavy.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "The cohort will not delve deeply into UI design; the focus is on functionality."
+      },
+      "title": "Depth of Teaching",
+      "topic": "Participant Expectations"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "max time session before I start is two minutes. So, eight two I'm gonna start.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "Sessions will start with a max wait time of two minutes beyond the planned start time."
+      },
+      "title": "Session Timing",
+      "topic": "Session Details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000015"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Next, tools we are using for the throughout the cohort. Zoom as you already there we are on the primarily for the recording.",
+            "unit_id": "u000015"
+          }
+        ],
+        "text": "The cohort uses tools like Zoom, Google Sheets, Discord, and Notion for various activities and content sharing."
+      },
+      "title": "Use of Tools",
+      "topic": "Cohort Setup"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000016",
+        "u000017"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "raise your hand if you have any doubts in middle of the session and I'll pick up in the next like I'll give you a meaningful for the side, not like it's not like monologue...",
+            "unit_id": "u000016"
+          },
+          {
+            "quote": "So anytime you want to speak just raise your hand. I'll give a pause.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "Participants are encouraged to raise their hand to ask questions rather than unmuting immediately."
+      },
+      "title": "Raising Doubts",
+      "topic": "Session Details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000018",
+        "u000019"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Now there is no group activity. I'm not making this people into some groups and ask them to build some Swiggy clone, YouTube clone. I never believed in that.",
+            "unit_id": "u000017"
+          },
+          {
+            "quote": "Instead we'll be focusing more on individual excellence. Like all the task we'll be solving by yourself.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "The approach emphasizes individual problem-solving rather than group activities or project clones."
+      },
+      "title": "Approach to Learning",
+      "topic": "Pedagogy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000019",
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I wouldn't rush to cover syllabus... if I have... to push a topic to the next day, I'm very very happy to do that.",
+            "unit_id": "u000019"
+          },
+          {
+            "quote": "In fact, even if I have to extend it by completely one more weekend...",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "The instructor is open to extending sessions or moving topics to future dates if necessary."
+      },
+      "title": "Flexibility in Topic Coverage",
+      "topic": "Session Details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000021"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I honestly don't know the answer I don't bluff in the session. I'll take a note of it I'll read about it once I'm fully sure I'm going to come and explain.",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "The instructor will not bluff answers; they will research and revert with information."
+      },
+      "title": "Handling Unknown Questions",
+      "topic": "Session Details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000022"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "let's not argue in the session.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "Avoid arguments during sessions to maintain a respectful and productive environment."
+      },
+      "title": "Avoiding Arguments",
+      "topic": "Session Details"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000023"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I have a planned holiday June twenty ninth till fifth July.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "The instructor has a planned holiday from June 29th to July 5th."
+      },
+      "title": "Instructor's Planned Holiday",
+      "topic": "Cohort Setup"
+    }
+  ]
+}

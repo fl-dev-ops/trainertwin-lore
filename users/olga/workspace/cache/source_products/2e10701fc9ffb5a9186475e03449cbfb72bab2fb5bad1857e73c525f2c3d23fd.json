@@ -1,0 +1,222 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "there are two Dubai markets. In one of them, prices are falling and sellers are getting nervous. In the other, the buyers are running for the new launches, same market, opposite stories.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker describes two contrasting conditions in the Dubai property market: falling prices causing seller nervousness versus eager buyers for new launches."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Description of Two Market Conditions",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "This is a heat map which will show you where the price is going up or where the price is going down.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The speaker uses a heat map to display areas with rising and falling prices."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Use of Heated Map",
+      "topic": "Data Analysis"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "if you are from the camp, those who think that Dubai real estate market is gone, or you're one of the few who sees this as an opportunity",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker uses speculative language, setting up contrasting scenarios without giving a definitive prediction."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Speculative Tone",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "future price prediction made by you, not based on what the other agents are promising you but on the actual data",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker invites the audience to independently predict future prices based on presented data, promoting an unbiased view."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Data-Driven Approach Invitation",
+      "topic": "Data Analysis"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there are two Dubai markets. In one of them, prices are falling and sellers are getting nervous. In the other, the buyers are running for the new launches, same market, opposite stories.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "There are two Dubai markets: in one, prices are falling and sellers are nervous, and in the other, buyers are eager for new launches."
+      },
+      "title": "Two Dubai Property Markets",
+      "topic": "Dubai Property Market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "future price prediction made by you, not based on what the other agents are promising you but on the actual data",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Enable the audience to make future price predictions based on actual data."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "I'm going to show you the actual sales and rental transactions from the conflict period compared to the previous cycle",
+              "unit_id": "u000002"
+            }
+          ],
+          "text": "Show actual sales and rental transactions from the conflict period."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm going to show you the actual sales and rental transactions from the conflict period compared to the previous cycle with zero bias because I'm not an agent.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker will show sales and rental transactions from a conflict period compared to the previous cycle."
+      },
+      "title": "Presentation of Sales and Rental Transactions",
+      "topic": "Data Analysis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "It's actually a property monitor, one of my favorite tool, unfortunately not available for retail, casual investors or buyers or agent. That's only um kind of um B to B tool for valuations, for banks and for real estate agency.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Property Monitor is a B-to-B tool for valuations, accessible to banks and real estate agencies, not individual investors or buyers."
+      },
+      "title": "Use of Property Monitor Tool",
+      "topic": "Tools"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "This is a heat map which will show you where the price is going up or where the price is going down.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "A heat map will show where prices are rising or falling."
+      },
+      "title": "Heat Map for Price Trends",
+      "topic": "Price Trends"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000018"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you are in the situation which I, which I mentioned, uh a little bit more critical, and you are, uh now, let me just remove it, just here, pop pop.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "The number of transactions is important because it affects sellers who may need to lower prices if there are fewer buyers and serious offers."
+      },
+      "title": "Explanation of Transaction Volume Importance",
+      "topic": "Real Estate Transactions"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "#1 skill in 2026 and 27!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The statement asserts a bold claim about the importance of a specific skill by labeling it as the '#1 skill.'"
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Bold claim",
+      "topic": "announcement"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Overcoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Overcoming objections based on one's own deep understanding of the market is the number one skill in 2026 and 2027."
+      },
+      "title": "Skill in 2026 and 2027",
+      "topic": "business skills"
+    }
+  ]
+}

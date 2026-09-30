@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a-2990a67c8303191a444a.jsonl",
+  "evidence_hash": "fcc243c58a3d0c280a34ad066933dec3b8a95ca3c60ad98a58f33658df6340aa",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:10:49Z",
+  "metadata_hash": "7038e684f500e9c8de172288d2b1020a4ed788e468284aeed0643434c21a0193",
+  "model": "openai/gpt-4o",
+  "products": {
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 3
+  },
+  "revision": "2990a67c8303191a444a",
+  "snapshot_hash": "bb03be0a4982d9010daf087ee37363749ade6c28ccc6b32ace8da196d0cf06e2",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a",
+  "source_path": "youtube/video/2026-04-10-the-universe-definitely-has-a-plan-success-Y7y2Od1aHaE.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "f197e0add2960b780ae459822f3dddbfd1725f93f470a4501bd0abb3185a4bd5",
+  "source_snapshot": "youtube-video-2026-04-10-the-universe-definitely-has-a-plan-success-y7y2od1ahae-md-86d28a956a-2990a67c8303191a444a.json",
+  "version": "4"
+}

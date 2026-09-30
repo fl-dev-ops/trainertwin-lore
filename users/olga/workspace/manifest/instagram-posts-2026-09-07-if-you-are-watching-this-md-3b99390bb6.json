@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "instagram-posts-2026-09-07-if-you-are-watching-this-md-3b99390bb6-4d7fbe3fe28428003a61.jsonl",
+  "evidence_hash": "f7b344db39ce1b26deb8ff25d4a1cc520eb47c321d0f34319966f39d80028af0",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:31:52Z",
+  "metadata_hash": "834139a9945c621ecd590d4c8f8abf6956003e9aaca3d6006d4ee674e281aab9",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 2
+  },
+  "revision": "4d7fbe3fe28428003a61",
+  "snapshot_hash": "61032a0645edad45d7bfdf2409cb9f1dc2d0d6be571da049c7293e65bc34374e",
+  "source_format": "source-products-v4",
+  "source_id": "instagram-posts-2026-09-07-if-you-are-watching-this-md-3b99390bb6",
+  "source_path": "instagram/posts/2026-09-07-if-you-are-watching-this.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "3fe0a64bbfb4673573ea89112bee5144c2ca9b4c8caf0ec58a33c8bde034dcba",
+  "source_snapshot": "instagram-posts-2026-09-07-if-you-are-watching-this-md-3b99390bb6-4d7fbe3fe28428003a61.json",
+  "version": "4"
+}

@@ -1,0 +1,376 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "He's not measuring your knowledge only. He's measuring your composure. And the moment he feels you hesitate, he starts to hesitate too. That's the exact moment the deal dies.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "A real estate agent lacks composure when a client hesitates, causing the client to hesitate and killing the deal."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Client hesitation and composure",
+      "topic": "real estate sales"
+    },
+    {
+      "context_unit_ids": [
+        "u000010"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "imagine the client tells you, all of this Iranian conflict, I will wait and see.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "A potential client expresses concern about the Iranian conflict, using it as a reason to wait before making a decision."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Iranian conflict objection",
+      "topic": "real estate sales"
+    },
+    {
+      "context_unit_ids": [
+        "u000011"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": {
+        "citations": [
+          {
+            "quote": "but the clients disappear after that.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "The clients disappeared after receiving the reassurance message."
+      },
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "One agent in my mentorship, actually a very successful one by the way, has been caught by me recently sending what he felt was a reassurance message.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "An agent was observed sending a reassurance message which led to client silence."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Mentorship success story",
+      "topic": "real estate sales"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000012",
+        "u000013"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "there are two types of people in every uncertain market. The first follows the crowd. They they wait for the headlines to become positive, for everyone else to feel confident, and for someone to tell them that it's safe to act.",
+            "unit_id": "u000012"
+          },
+          {
+            "quote": "The second forms the own view. They look past the noise, they understand the risk and ask where the opportunity might be.",
+            "unit_id": "u000013"
+          }
+        ],
+        "text": "The speaker presents an analogy of two types of people in uncertain markets: those who follow the crowd and those who form their own views, asking the client to identify with one."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "they want to feel that they make their own decisions.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "To encourage the client to feel they are making their own independent choice, increasing their likelihood of moving forward with a decision."
+      },
+      "speaker_id": "1",
+      "title": "Confidence analogy",
+      "topic": "real estate sales"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The client says, I need some time to think. And suddenly, you don't know what to say. You give them more information, start explaining the market again and hope they will come back, but they don't.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "When a client says they need time to think, it's common to provide more information in hopes they'll return, but this doesn't always result in a closed deal."
+      },
+      "title": "Client hesitation",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000004",
+        "u000005",
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "sales confidence doesn't come from knowing more. It's a skill you train.",
+            "unit_id": "u000004"
+          },
+          {
+            "quote": "For the past six years, I've been helping agents in my online academy build the same confidence.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "The speaker claims to have trained in sales confidence and now assists others through an online academy to build the same confidence, helping them close significant deals."
+      },
+      "title": "Sales confidence training",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I call it a knowledge trap. Knowledge is important, but knowledge without sales communication skill turns you into information provider, not a closer.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The belief is that in sales, knowledge alone turns you into an information provider, not a closer, because sales communication skills are also necessary."
+      },
+      "title": "Knowledge trap in sales",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007",
+        "u000008",
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "There are three levels of confidence in sales. The first is borrowed confidence.",
+            "unit_id": "u000007"
+          },
+          {
+            "quote": "The second is knowledge based confidence.",
+            "unit_id": "u000008"
+          },
+          {
+            "quote": "The third is a skill based confidence.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "There are three levels of confidence in sales: borrowed confidence, knowledge-based confidence, and skill-based confidence."
+      },
+      "title": "Levels of confidence",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009",
+        "u000010",
+        "u000011",
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "Let me show you how confidence will help you complete quickly avoid the situation altogether.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "To guide clients towards a decision by addressing their concerns and helping them feel they are making their own choice."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "This is when you understand what should happen in the client mind and what you should do and what you should say to engineer between you and the client the yes in the sales process.",
+              "unit_id": "u000009"
+            }
+          ],
+          "text": "Understanding client psychology and confidence in sales."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Instead of hoping that the client will never mention their concern, you have to bring this concern to the daylight by yourself, and they will choose not to worry about that.",
+              "unit_id": "u000012"
+            }
+          ],
+          "text": "When the client expresses a concern, acknowledge it and bring it to light yourself."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Like for example, say this, there are two types of people in every uncertain market.",
+              "unit_id": "u000013"
+            }
+          ],
+          "text": "Present the idea of two types of people in uncertain markets to the client, asking where they stand."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You know how to ask the right questions, uncover what is really stopping the client, challenge the thinking, move his resistance.",
+            "unit_id": "u000009"
+          },
+          {
+            "quote": "Let me show you how confidence will help you complete quickly avoid the situation altogether.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "A method to engage and understand clients to move them toward a decision, rather than just providing information, involves handling objections and guiding thinking."
+      },
+      "title": "Overcoming client objections",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014",
+        "u000015"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "One of my mentees generated one million in four months after being in the industry for two years with just two deals behind the belt.",
+            "unit_id": "u000014"
+          },
+          {
+            "quote": "How to communicate your market knowledge, how uncover the client motivation, how to use his internal urgency instead of creating the external sales pressure",
+            "unit_id": "u000015"
+          }
+        ],
+        "text": "The speaker claims that understanding how to communicate and use internal client motivation leads to sales success, with examples of mentees achieving significant results after short periods of engagement."
+      },
+      "title": "Sales success transformation",
+      "topic": "real estate sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000017",
+        "u000018"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "collect twenty rejections.",
+            "unit_id": "u000017"
+          },
+          {
+            "quote": "no starts to feel less personal. It stops being a threat and becomes an information.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "To reduce the personal emotional impact of rejection and build sales confidence."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Over the next seven days, collect twenty rejections.",
+              "unit_id": "u000017"
+            }
+          ],
+          "text": "Over the next seven days, actively seek situations to receive 20 rejections outside of sales contexts."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Ask for things you may not get, make requests people may refuse.",
+              "unit_id": "u000018"
+            }
+          ],
+          "text": "Ask for things you are unlikely to receive or make requests that may likely be denied to practice facing rejection."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Over the next seven days, collect twenty rejections.",
+            "unit_id": "u000017"
+          },
+          {
+            "quote": "You need to prove to yourself that hearing no is not dangerous.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "The speaker suggests a method of building confidence by collecting 20 rejections over the next seven days to lessen the fear of hearing 'no'."
+      },
+      "title": "Building sales confidence",
+      "topic": "real estate sales"
+    }
+  ]
+}

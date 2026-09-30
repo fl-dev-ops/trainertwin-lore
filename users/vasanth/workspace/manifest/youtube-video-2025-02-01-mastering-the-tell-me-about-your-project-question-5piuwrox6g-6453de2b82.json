@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 7,
+  "evidence_file": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82-c7ff288ae267e8ade9db.jsonl",
+  "evidence_hash": "213d3cca25b12bb29bddeddb9aba77459ea61af14b665375969d3915fa412365",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T21:12:54Z",
+  "metadata_hash": "4f72256dd36f6b9def3f0a23d92c112e11826229931f33f8f46d8e6d11995153",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 1,
+    "knowledge": 5
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 11,
+    "units_total": 15
+  },
+  "revision": "c7ff288ae267e8ade9db",
+  "snapshot_hash": "44c417f2a9cd051463cf9718c52f7d2d1586f9eddf4041d21a0922e13eb73edd",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82",
+  "source_path": "youtube/video/2025-02-01-mastering-the-tell-me-about-your-project-question-5PiUWrOx6Gg.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/vasanth/data",
+  "source_sha256": "fbe964d11079f845694cf15771a24c33302cc6d96da69a9cb7664911286cb374",
+  "source_snapshot": "youtube-video-2025-02-01-mastering-the-tell-me-about-your-project-question-5piuwrox6g-6453de2b82-c7ff288ae267e8ade9db.json",
+  "version": "4"
+}

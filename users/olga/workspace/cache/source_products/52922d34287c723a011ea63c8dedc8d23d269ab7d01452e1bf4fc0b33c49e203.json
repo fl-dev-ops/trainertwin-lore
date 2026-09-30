@@ -1,0 +1,122 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Getting Ghosted by your Clients?… Here is what you should Do!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Clients ghosting by not responding or engaging further after initial contact."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "Stop sending Listings and Fact sheets!\n2. Ask …. Have you found what you were looking for or…. You are still looking ?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Instead of sending more listings and fact sheets, directly ask the client if they have found what they were looking for or are still searching."
+      },
+      "title": "Ghosted client communication strategy",
+      "topic": "client communication"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "1. Stop sending Listings and Fact sheets!\n2. Ask …. Have you found what you were looking for or…. You are still looking ?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The advice is structured into a numbered list format with clear imperatives for action."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Direct client engagement",
+      "topic": "client communication"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Works every time! Magic",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The post expresses confidence in the approach by stating 'Works every time! Magic'."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Confidence in method",
+      "topic": "client communication"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Stop sending Listings and Fact sheets",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Stop sending Listings and Fact sheets when your clients ghost you."
+      },
+      "title": "Advice on client communication",
+      "topic": "client communication"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Ask …. Have you found what you were looking for or…. You are still looking ?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Ask the client if they have found what they were looking for or if they are still looking."
+      },
+      "title": "Client engagement question",
+      "topic": "client engagement"
+    }
+  ]
+}

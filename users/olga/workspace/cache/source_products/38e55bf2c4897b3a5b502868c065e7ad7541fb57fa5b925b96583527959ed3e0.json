@@ -1,0 +1,345 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000281",
+        "u000282"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "qualification questions which I already told you it's the problem that he has or need whatever you call it.",
+            "unit_id": "u000282"
+          }
+        ],
+        "text": "Incorporate various qualification questions to understand the client's needs and deal with objections."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "In my first Zoom, I definitely do um investor area tour, I definitely talk about um legislation, I'm talking about the project um a bit, a different developers.",
+            "unit_id": "u000281"
+          }
+        ],
+        "text": "The speaker describes a strategy for handling objections before a project presentation."
+      },
+      "speaker_id": "1",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "what makes you feel that, you know, looking at Dubai as a potential investment opportunity for you is the right move.",
+            "unit_id": "u000281"
+          }
+        ],
+        "text": "Ask questions to assess the client's thinking and address objections early."
+      },
+      "title": "Pre-Handling Objections Question",
+      "topic": "sales_techniques"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000282",
+        "u000283"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "and what is um what does the decision process look like for you or what does the decision process looks like for your family if he is with the family when it comes to buying a property abroad?",
+            "unit_id": "u000283"
+          }
+        ],
+        "text": "The speaker instructs how to ask a question about the client's decision process and anticipates their response to adjust accordingly."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Framing a Question about Decision Process",
+      "topic": "client_communications"
+    },
+    {
+      "context_unit_ids": [
+        "u000269",
+        "u000270"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Can I expect from you? If everything will change on your end, you kind of give me a heads up, send me a message, maybe a call, maybe a pigeon, so I can book you to my next next available slot and we book this one with another client",
+            "unit_id": "u000269"
+          },
+          {
+            "quote": "Can I expect from you? And this is my final hook. And he gonna say yes. Consistency and commitment one of the pillars of influence.",
+            "unit_id": "u000270"
+          }
+        ],
+        "text": "The speaker uses a question to secure commitment by asking, 'Can I expect from you?' followed by a rationale about human nature's desire for consistency and commitment."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Commitment Through Questioning",
+      "topic": "sales_techniques"
+    },
+    {
+      "context_unit_ids": [
+        "u000278",
+        "u000279"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Pre-handling is what I teach specifically...if you pre-handle all of them.",
+            "unit_id": "u000279"
+          }
+        ],
+        "text": "The speaker explains 'pre-handling objections' by distinguishing it from normal objection handling and describing how it anticipates objections rather than reacting to them."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Pre-Objection Handling Explanation",
+      "topic": "sales_techniques"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000254",
+        "u000255"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "they're going to believe themselves more way more than believe you.",
+            "unit_id": "u000255"
+          }
+        ],
+        "text": "Clients will believe themselves more than they believe a salesperson, so it is important for them to verbalize their reasons for interest in a project."
+      },
+      "title": "Client Self-Persuasion",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "if the client is in Dubai, which is a very rare case nowadays, and he wants to meet you face to face, which is a very rare case nowadays as well, then fantastic, you won it. But usually, they're going to be very hesitant to do that.",
+              "unit_id": "u000256"
+            }
+          ],
+          "text": "Client may be hesitant to meet in person if not in Dubai."
+        }
+      ],
+      "context_unit_ids": [
+        "u000256",
+        "u000257"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "The book next step in my sales process is an educational video call.",
+            "unit_id": "u000256"
+          }
+        ],
+        "text": "To engage the client further after the first call by arranging an educational session."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "The book next step in my sales process is an educational video call.",
+              "unit_id": "u000256"
+            }
+          ],
+          "text": "Initial call with the client completed."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "not a brochures, not just options, not different projects.",
+              "unit_id": "u000257"
+            }
+          ],
+          "text": "Do not send brochures or options before full qualification."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The book next step in my sales process is an educational video call.",
+            "unit_id": "u000256"
+          }
+        ],
+        "text": "Book a follow-up educational video call with a client after the first call."
+      },
+      "title": "First Call Follow-Up",
+      "topic": "sales_process"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000259",
+        "u000260"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "how the property performs and give them some recommendation based on will they wish to exit, will they wish to hold it, will they wish to maybe go short term and and long term.",
+            "unit_id": "u000260"
+          }
+        ],
+        "text": "To provide clients with insightful examples of past investment performance."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "you have to prepare them in advance, that means that, you know, you have a breakdown of one bedroom, two bedroom with a different budget, three bedroom townhouses and for each and every project that your company advertise.",
+              "unit_id": "u000262"
+            }
+          ],
+          "text": "Preparation of relevant case studies in advance."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "leave the comment to this video so I can give it to you personally.",
+              "unit_id": "u000263"
+            }
+          ],
+          "text": "Obtain the client's commitment before sending case studies."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "send him a case study.",
+            "unit_id": "u000259"
+          }
+        ],
+        "text": "Provide clients with case studies of past investments instead of standard promotional material."
+      },
+      "title": "Use of Case Studies",
+      "topic": "client_communications"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000278",
+        "u000279",
+        "u000280"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "pre-handle all of them.",
+            "unit_id": "u000279"
+          }
+        ],
+        "text": "To avoid objections arising after project presentations by addressing them early on."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "What makes you feel that looking at Dubai now is the right move?",
+              "unit_id": "u000280"
+            }
+          ],
+          "text": "Pose questions to create urgency and address possible objections."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "pre-handle all of them.",
+            "unit_id": "u000279"
+          }
+        ],
+        "text": "Address potential objections before discussing different project options with clients."
+      },
+      "title": "Pre-Handling Objections",
+      "topic": "sales_techniques"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000273",
+        "u000274"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "you will make him believe that he is able with the knowledge that he got from your educational meeting to make his own decision on which is the best property for him.",
+            "unit_id": "u000275"
+          }
+        ],
+        "text": "To inform clients and help them see the value of Dubai investments, empowering them to make their own decisions."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm not going to sell my client anything. I'm not going to pitch any project at this stage.",
+            "unit_id": "u000273"
+          }
+        ],
+        "text": "Conduct a first meeting with clients that is educational rather than focused on selling."
+      },
+      "title": "Educational First Meeting",
+      "topic": "client_communications"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000266",
+        "u000267",
+        "u000270"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "they report that from basically maybe ten to fifteen percent actually show up to a meeting, they go to up sixty percent people showing up.",
+            "unit_id": "u000266"
+          }
+        ],
+        "text": "Follow-up sequences can significantly increase meeting show-up rates from 10-15% to 60%."
+      },
+      "title": "Follow-Up Sequence",
+      "topic": "sales_techniques"
+    }
+  ]
+}

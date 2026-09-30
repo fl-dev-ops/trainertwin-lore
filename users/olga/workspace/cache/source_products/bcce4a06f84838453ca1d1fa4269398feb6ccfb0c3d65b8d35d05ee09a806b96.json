@@ -1,0 +1,270 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "The client says, I need some time to think.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The client says, I need some time to think."
+      },
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "The client says, I need some time to think. And suddenly, you don't know what to say.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "A client expresses a need to think, leading the agent to provide more information in hopes the client will return, but they don't."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Client Hesitation",
+      "topic": "client_interaction"
+    },
+    {
+      "context_unit_ids": [
+        "u000010"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "for example, imagine the client tells you, all of this Iranian conflict, I will wait and see.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "The client tells you, all of this Iranian conflict, I will wait and see."
+      },
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "for example, imagine the client tells you, all of this Iranian conflict, I will wait and see.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "A scenario where a client expresses concerns about an Iranian conflict and decides to wait, demonstrating the typical agent response of providing factual information."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Dealing with Client Concerns",
+      "topic": "client_interaction"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000005",
+        "u000006"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "knowledge without sales communication skill turns you into information provider, not a closer.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The speaker contrasts confidence with merely having knowledge, emphasizing the need for communication skills to avoid becoming just an information provider."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Contrasting Knowledge and Confidence",
+      "topic": "confidence"
+    },
+    {
+      "context_unit_ids": [
+        "u000013"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "And you, Mr. client, for what do you stand on that? How many do you think will choose the crowd group or follow the crowd?",
+            "unit_id": "u000013"
+          }
+        ],
+        "text": "The speaker uses a rhetorical question to challenge the client's thinking and identity about following the crowd or forming their own view."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Challenge Client's Thinking",
+      "topic": "sales_technique"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007",
+        "u000008",
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "The first is borrowed confidence. This is when when you memorize somebody else's script, objection handler presentation, and you feel confident only when the client follows the conversation exactly as you plan it.",
+              "unit_id": "u000007"
+            }
+          ],
+          "text": "Borrowed confidence is when you memorize somebody else's script and you feel confident only when the client follows the conversation exactly as you plan it."
+        },
+        {
+          "citations": [
+            {
+              "quote": "The second is knowledge based confidence. This is when you know the project, the area, the developer and the market. You can explain the details and answer the questions. But if the client becomes emotional, resistant or uncertain, knowledge",
+              "unit_id": "u000008"
+            }
+          ],
+          "text": "Knowledge-based confidence is when you know the project, area, developer, and market, and can explain details and answer questions, but may struggle if the client is emotional, resistant, or uncertain."
+        },
+        {
+          "citations": [
+            {
+              "quote": "The third is a skill based confidence. This is when you understand what should happen in the client mind and what you should do and what you should say to engineer between you and the client the yes in the sales process.",
+              "unit_id": "u000009"
+            }
+          ],
+          "text": "Skill-based confidence is understanding what should happen in the client's mind and knowing what to say to guide the client towards a yes in the sales process."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "There are three levels of confidence in sales.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "There are three levels of confidence in sales: borrowed confidence, knowledge-based confidence, and skill-based confidence."
+      },
+      "title": "Three Levels of Confidence",
+      "topic": "sales_confidence"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000005",
+        "u000006"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "knowledge without sales communication skill turns you into information provider, not a closer.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Building sales confidence involves more than just having knowledge; it requires developing sales communication skills."
+      },
+      "title": "Building Sales Confidence",
+      "topic": "confidence"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000016",
+        "u000017",
+        "u000018"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "Ask for things you may not get, make requests people may refuse.",
+              "unit_id": "u000018"
+            }
+          ],
+          "text": "Be open to asking for things you may not get and making requests people may refuse."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Ask for things you may not get, make requests people may refuse.",
+              "unit_id": "u000018"
+            }
+          ],
+          "text": "Ask for things you may not get and make requests people may refuse."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Over the next seven days, collect twenty rejections.",
+              "unit_id": "u000017"
+            }
+          ],
+          "text": "Collect twenty rejections over the next seven days."
+        },
+        {
+          "citations": [
+            {
+              "quote": "After twenty rejections, no starts to feel less personal. It stops being a threat and becomes an information.",
+              "unit_id": "u000018"
+            }
+          ],
+          "text": "Recognize that after twenty rejections, 'no' starts to feel less personal and becomes an information rather than a threat."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Over the next seven days, collect twenty rejections.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "The assignment is to collect twenty rejections over the next seven days to overcome the fear of hearing 'no'."
+      },
+      "title": "Overcoming Fear of Rejection",
+      "topic": "rejection"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "knowledge without sales communication skill turns you into information provider, not a closer.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Knowledge without sales communication skills turns a person into an information provider, not a closer."
+      },
+      "title": "Knowledge Trap in Sales",
+      "topic": "knowledge_vs_confidence"
+    }
+  ]
+}

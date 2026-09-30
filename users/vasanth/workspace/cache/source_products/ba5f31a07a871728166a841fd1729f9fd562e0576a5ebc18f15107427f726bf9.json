@@ -1,0 +1,456 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000022"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Okay. And let's avoid the arguments in the session.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "During a session, the speaker advises the cohort to avoid arguments."
+      },
+      "speaker_id": "2",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "let's take it at the end so please respect my voice.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "Address any disagreements or arguments after the session."
+      },
+      "title": "handling_disagreement",
+      "topic": "session_management"
+    },
+    {
+      "context_unit_ids": [
+        "u000030",
+        "u000035"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "Honestly speaking I had not initially planned to take the AI rounds as a part of the curriculum.",
+            "unit_id": "u000033"
+          }
+        ],
+        "text": "There is increased interest in covering AI rounds due to their relevance in interviews."
+      },
+      "response": {
+        "citations": [
+          {
+            "quote": "to answer your question yes",
+            "unit_id": "u000034"
+          }
+        ],
+        "text": "The speaker confirms that AI topics will be covered in forthcoming sessions."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Actually, I want to ask like nowadays like it's becoming popular for some AI rounds happening in for the front end engineering interviews.",
+            "unit_id": "u000031"
+          }
+        ],
+        "text": "A participant asks if AI rounds will be covered due to their increasing popularity."
+      },
+      "speaker_id": "2",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "I'll include this in two to three different doubt clearing sessions on across the sessions.",
+            "unit_id": "u000034"
+          }
+        ],
+        "text": "Include AI rounds in doubt clearing sessions due to demand and popularity."
+      },
+      "title": "discussion_of_ai_rounds",
+      "topic": "curriculum_content"
+    },
+    {
+      "context_unit_ids": [
+        "u000030",
+        "u000031"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "see Param raised the hand now. Yeah, Param, you want to say something?",
+            "unit_id": "u000030"
+          }
+        ],
+        "text": "Participant raises a hand to ask about session details."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "I think there is this react tab, I believe, like there is something reaction, you can go there.",
+            "unit_id": "u000030"
+          }
+        ],
+        "text": "Details on using the reaction tab to coordinate questions."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Okay, your question, thank you.",
+            "unit_id": "u000030"
+          }
+        ],
+        "text": "A participant seeks clarification on session scheduling."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "clarifying_session_scheduling",
+      "topic": "session_management"
+    },
+    {
+      "context_unit_ids": [
+        "u000038"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "aspiration for somebody else. Correct?",
+            "unit_id": "u000038"
+          }
+        ],
+        "text": "Introductions help participants know each other and can find aspirational connections."
+      },
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "So once I want to like everyone to get introduced, I'm stopping the recording also, okay?",
+            "unit_id": "u000038"
+          }
+        ],
+        "text": "The speaker discusses the importance of participant introductions."
+      },
+      "speaker_id": "2",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "want to like everyone to get introduced",
+            "unit_id": "u000038"
+          }
+        ],
+        "text": "Have everyone introduce themselves to facilitate interaction and networking."
+      },
+      "title": "examining_the_importance_of_introductions",
+      "topic": "session_management"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000022"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So I'm saying. It sometimes it happens we are all engineers and many a times in the office also this happens where people are speaking to each other and they have an opinion A you may not agree whatever I'm saying right.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "The speaker explains the necessity of respecting the session structure by avoiding immediate disagreements."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "avoiding_arguments_explanation",
+      "topic": "session_management"
+    },
+    {
+      "context_unit_ids": [
+        "u000042",
+        "u000048"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I divide them into three parts. A definition, a bookish example and a practical example, okay?",
+            "unit_id": "u000042"
+          }
+        ],
+        "text": "Divide learning into understanding the definition, bookish example, and practical example to facilitate understanding of technical concepts."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "if you know all the three things, then you'll be able to answer very well in the interview.",
+            "unit_id": "u000048"
+          }
+        ],
+        "text": "To effectively understand and express technical concepts in interviews and discussions."
+      },
+      "speaker_id": "2",
+      "title": "definition_study_strategy",
+      "topic": "study_methodology"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000022",
+        "u000023"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Okay. And let's avoid the arguments in the session.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "Avoid arguments during the session and address any disagreements after the session ends."
+      },
+      "title": "session_arguments_avoidance",
+      "topic": "session_management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000024"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I would suggest try to keep yourself free until like August eighth and ninth.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "The cohort should ideally end on August first but may extend to August eighth and ninth due to unavoidable circumstances."
+      },
+      "title": "session_end_date",
+      "topic": "session_management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000024"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I would suggest to you to keep it after August eighth.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "Plan any commitments after August eighth to accommodate potential session extensions."
+      },
+      "title": "rescheduling_due_to_unavailability",
+      "topic": "session_management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000030"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there is something reaction, you can go there and I think you can raise your hand.",
+            "unit_id": "u000030"
+          }
+        ],
+        "text": "Raise your hand using the react tab to ask questions during the session."
+      },
+      "title": "session_communication_methods",
+      "topic": "session_management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000033",
+        "u000034"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I had not initially planned to take the AI rounds as a part of the curriculum.",
+            "unit_id": "u000033"
+          },
+          {
+            "quote": "so that you can plan accordingly Param and that will be covered to answer your question yes",
+            "unit_id": "u000034"
+          }
+        ],
+        "text": "AI rounds were not initially planned in the curriculum but will be addressed during doubt clearing sessions."
+      },
+      "title": "ai_round_coverage",
+      "topic": "curriculum_content"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000043"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "articulation is a very very important skill.",
+            "unit_id": "u000043"
+          }
+        ],
+        "text": "Articulation is a very important skill, especially after having five to six years of experience."
+      },
+      "title": "importance_of_articulation",
+      "topic": "technical_communication"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000042",
+        "u000046"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "if you know all the three things, then you'll be able to answer very well in the interview.",
+            "unit_id": "u000048"
+          }
+        ],
+        "text": "To understand and be able to explain technical concepts effectively during interviews."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "I'm a firm believer like you should study everything before like getting started with that.",
+              "unit_id": "u000041"
+            }
+          ],
+          "text": "Interest in learning technical concepts."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "Let's say take an example of JavaScript hosting.",
+              "unit_id": "u000042"
+            }
+          ],
+          "text": "Identify a concept you want to learn (e.g., JavaScript hoisting)."
+        },
+        {
+          "citations": [
+            {
+              "quote": "many people they they read it and they basically it will not take it into their heart.",
+              "unit_id": "u000043"
+            }
+          ],
+          "text": "Learn and understand its definition."
+        },
+        {
+          "citations": [
+            {
+              "quote": "So if you're someone who's having less than five years of experience, they ask you to prove hosting, you can pick this up.",
+              "unit_id": "u000046"
+            }
+          ],
+          "text": "Study a 'bookish' example that theoretically proves the concept."
+        },
+        {
+          "citations": [
+            {
+              "quote": "So this is a practical example.",
+              "unit_id": "u000048"
+            }
+          ],
+          "text": "Find a practical example where the concept is used in real development scenarios."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So I divide them into three parts. A definition, a bookish example and a practical example, okay?",
+            "unit_id": "u000042"
+          }
+        ],
+        "text": "Study technical concepts by dividing them into a definition, bookish example, and practical example."
+      },
+      "title": "studying_concepts_method",
+      "topic": "study_methodology"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000042",
+        "u000043"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So even if you are not saying like line by line sort of a definition unlike exam. But be sure exact definitions.",
+            "unit_id": "u000043"
+          }
+        ],
+        "text": "Be sure of exact definitions as they matter a lot in interviews."
+      },
+      "title": "importance_of_recorded_definitions",
+      "topic": "technical_communication"
+    }
+  ]
+}

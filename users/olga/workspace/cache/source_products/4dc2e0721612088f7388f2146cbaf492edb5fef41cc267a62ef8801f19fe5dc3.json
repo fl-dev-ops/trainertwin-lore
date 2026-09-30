@@ -1,0 +1,404 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000024",
+        "u000025"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "I will wait to list.",
+            "unit_id": "u000024"
+          },
+          {
+            "quote": "I'm not going to listen now, I will wait, let's see, I'm going to give you a pocket listing.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "Clients often respond to agents with non-committal statements like 'I will wait to list' or offer 'pocket listings'."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Identifying Common Client Responses",
+      "topic": "Client Behavior"
+    },
+    {
+      "context_unit_ids": [
+        "u000005",
+        "u000015",
+        "u000016"
+      ],
+      "cue": null,
+      "diagnosis": {
+        "citations": [
+          {
+            "quote": "but you are still not making money it's just because you don't have yet right communication skills and your conversation with the client will never even reach the point",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The agent lacks certain skills to convert knowledge into successful deals."
+      },
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "This month, she closed around two hundred fifty thousand in her own commission, just in one month.",
+            "unit_id": "u000016"
+          }
+        ],
+        "text": "After attending Olga's training, the agent closed substantial deals and significantly increased her income."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "And if you are the one who is still from outside looking in and maybe Googling how to become a Dubai real estate agent, this training going to give you the structure and the knowledge each and every agent who is already in Dubai would wish to have in the beginning of their career.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "A real estate agent is knowledgeable but is stuck and not closing deals in Dubai real estate."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "But basically she gave up in herself and her ability to actually close Dubai real estate.",
+            "unit_id": "u000015"
+          }
+        ],
+        "text": "The agent attended Olga's training and improved skills."
+      },
+      "title": "Agent Stuck Despite Knowledge",
+      "topic": "Client Behavior"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000018",
+        "u000019",
+        "u000020",
+        "u000021",
+        "u000022",
+        "u000023",
+        "u000024"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I'm just looking.",
+            "unit_id": "u000018"
+          },
+          {
+            "quote": "I will buy but not now.",
+            "unit_id": "u000019"
+          },
+          {
+            "quote": "Oh",
+            "unit_id": "u000020"
+          },
+          {
+            "quote": "just send me some options.",
+            "unit_id": "u000021"
+          },
+          {
+            "quote": "I'm working with other agents.",
+            "unit_id": "u000022"
+          },
+          {
+            "quote": "or I am not selling altogether.",
+            "unit_id": "u000023"
+          },
+          {
+            "quote": "I will wait to list.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "The speaker uses a series of client statements to illustrate common non-committal responses agents encounter."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Client Behavior Phrases",
+      "topic": "Client Behavior"
+    },
+    {
+      "context_unit_ids": [
+        "u000030",
+        "u000031"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "your client with a click of the button can literally know way more than you. And with the artificial intelligence, oh my god, even those who weren't that active with internet, they're now full on with AI.",
+            "unit_id": "u000030"
+          },
+          {
+            "quote": "because of guys like him who've been pushing, convincing, simply lying on the phone, all of us are traumatized.",
+            "unit_id": "u000031"
+          }
+        ],
+        "text": "The speaker contrasts past and present sales environments, relating it to changes in information access and client distrust."
+      },
+      "purpose": null,
+      "speaker_id": "3",
+      "title": "Comparison Between Traditional and Modern Sales Tactics",
+      "topic": "Sales Skills"
+    },
+    {
+      "context_unit_ids": [
+        "u000006",
+        "u000007"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "experience. I've been here for eleven years and I started just like you, being an agent myself, then I transitioned into the sales manager.",
+            "unit_id": "u000006"
+          },
+          {
+            "quote": "but I couldn't understand what, for example, British people or Indian people are telling me.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "The speaker narrates her career progression from agent to sales manager and her self-directed learning journey."
+      },
+      "purpose": null,
+      "speaker_id": "3",
+      "title": "First Person Narration of Career Improvement",
+      "topic": "Career Path"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Dubai real estate is full of agents who are very busy but broke.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Dubai real estate is full of agents who are very busy but broke."
+      },
+      "title": "Real Estate Challenges in Dubai",
+      "topic": "Real Estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "then it's not luck, it's not even your leads, it's your processes and sales skills.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The lack of success in real estate is due to poor processes and sales skills, not bad luck or leads."
+      },
+      "title": "Improving Sales Skills",
+      "topic": "Sales Skills"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "in this training I will show you why clients behave that way how to influence their decision without sounding pushy and how to control the process so you can lead the client step by step towards their actual deal",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Olga offers training that shows why clients behave a certain way, how to influence decisions without being pushy, and how to control the process to lead clients to deals."
+      },
+      "title": "Understanding Client Behavior",
+      "topic": "Client Behavior"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "but you are still not making money it's just because you don't have yet right communication skills and your conversation with the client will never even reach the point",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Real estate agents may have strong knowledge about the market but still fail due to lack of proper communication skills."
+      },
+      "title": "Real Estate Communication Skills",
+      "topic": "Communication Skills"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "just over the past four years I invested in my own sales and marketing skills, this is what I call the high income skills, around forty thousand dollars",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Olga invested around forty thousand dollars in her own sales and marketing skills over four years."
+      },
+      "title": "Investment in Skills",
+      "topic": "Skill Development"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this is exactly the representation of your current level of sales skills and understanding of the sales process.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "The amount of money an agent makes is a representation of their current level of sales skills and understanding of the sales process."
+      },
+      "title": "High Income Skills",
+      "topic": "Skill Development"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000011"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "private coaching in a circle program which costed me fifteen thousand dollars on its own for one and a half years",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "Olga participated in Jeremy Minor's private coaching program for one and a half years which cost fifteen thousand dollars."
+      },
+      "title": "Jeremy Minor's Coaching",
+      "topic": "Skill Development"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So they are answering this question from their own mouth to their own ears, going to tell themselves everything that you wanted to pitch.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Salespeople should ask clients the right questions so clients convince themselves instead of feeling they are being sold to."
+      },
+      "title": "Question Techniques",
+      "topic": "Sales Skills"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000014"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Some of my private coaching client who actually master the skill, they got up to one million in their own commission just in four months.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "Some of Olga's coaching clients have achieved up to one million in commission in four months by mastering certain skills."
+      },
+      "title": "Successful Sales Strategy",
+      "topic": "Sales Skills"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000031"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "because of guys like him who've been pushing, convincing, simply lying on the phone, all of us are traumatized.",
+            "unit_id": "u000031"
+          }
+        ],
+        "text": "Traditional sales tactics involving heavy pushing and convincing are less effective due to client distrust from previous negative experiences."
+      },
+      "title": "Obsolescence of Traditional Sales Tactics",
+      "topic": "Sales Skills"
+    }
+  ]
+}

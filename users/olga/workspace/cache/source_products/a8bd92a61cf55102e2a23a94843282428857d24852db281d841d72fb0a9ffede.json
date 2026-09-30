@@ -1,0 +1,138 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "What I'm going to do is show you the market data for ready property, rents and off plant. And who is still buying and selling while everyone else stood still.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker lays out the structure of what they will discuss: market data for ready property, rents, and off-plan sales, and who is buying and selling."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Introduction to Video Content",
+      "topic": "video structure"
+    },
+    {
+      "context_unit_ids": [
+        "u000023"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I haven't read about these four phases. I I I saw through all of them. And I'm watching now a second cycle.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "The speaker contrasts the current Dubai market cycle with previous cycles, mentioning personal experience in witnessing these changes."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Comparison of Market Cycles",
+      "topic": "rhetorical structure"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "This market is more predictable today than it has been in five years.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The Dubai real estate market is more predictable today than it has been in five years."
+      },
+      "title": "Dubai Real Estate Market Predictability",
+      "topic": "Dubai real estate market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm using the data from Dubai Land Department presented in the Cavendish Maxwell Marketing Report",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker uses data from the Dubai Land Department presented in the Cavendish Maxwell Marketing Report."
+      },
+      "title": "Market Data Used",
+      "topic": "market research"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000018"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "One hundred sixty-two thousand five hundred in twenty-twenty-seven.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "There are 162,500 housing units scheduled for completion in Dubai by 2027."
+      },
+      "title": "Future Housing Developments",
+      "topic": "Dubai real estate market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000020",
+        "u000025"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Assume you're taking handover and make sure that payment plan works on that basis.",
+            "unit_id": "u000020"
+          },
+          {
+            "quote": "Treating early exit as bonus, rather a strategy.",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "Consider which community you buy into and assume you will need to take handover; view early exit as a bonus, not a strategy."
+      },
+      "title": "Advice for Off-plan Buyers",
+      "topic": "property investment advice"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "youtube-video-2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7b-212eb17012-d64bb570161c2e19f5d6.jsonl",
+  "evidence_hash": "d54002f4e5d358174fb9debba5e917a8691d11b72d79b6066bc27b95bfad41de",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:08:13Z",
+  "metadata_hash": "c6dae27fd01047d62676e0c345f7d9029e18ba20c8ba42a79911a2cb06cc4a88",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "d64bb570161c2e19f5d6",
+  "snapshot_hash": "9d80d3729b7ef138601611ab41123cca7f680e3654bbc37d78cf62217958dc51",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7b-212eb17012",
+  "source_path": "youtube/video/2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7bfYIlLnM.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "1faa56260085158bbb76e56c319a572bff6c933196e4112b7644bcfd0990e77c",
+  "source_snapshot": "youtube-video-2026-04-04-dubai-real-estate-durring-the-war-proof-you-need-to-see-7c7b-212eb17012-d64bb570161c2e19f5d6.json",
+  "version": "4"
+}

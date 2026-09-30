@@ -1,0 +1,152 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "In one of them, prices are falling and sellers are getting nervous. In the other, the buyers are running for the new launches, same market, opposite stories.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker uses a contrasting structure to describe the two opposing states of the Dubai market—one with falling prices and nervous sellers, and another with eager buyers and new launches."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Comparison of Two Markets",
+      "topic": "Dubai real estate market"
+    },
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "with zero bias because I'm not an agent. I'm not make a dirham whatever you're going to buy or run.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker asserts objectivity by emphasizing a non-agent perspective and promising unbiased data analysis."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Market Analysis Transparency",
+      "topic": "Dubai real estate market"
+    },
+    {
+      "context_unit_ids": [
+        "u000012"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "It's it's not kind of a stock market where we have just a one piece of stocks and this is how they're selling it. It's a little bit more complicated.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "The complexity of the real estate market is explained in contrast to the simplicity of the stock market, highlighting the nuance that lower market activity doesn't directly translate to price drops."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Explanation of Complex Market Dynamics",
+      "topic": "Dubai real estate market"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Right now, there are two Dubai markets. In one of them, prices are falling and sellers are getting nervous. In the other, the buyers are running for the new launches, same market, opposite stories.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "There are two markets in Dubai: one where prices are falling and sellers are nervous, and another where buyers are eager for new launches."
+      },
+      "title": "Two Dubai Markets",
+      "topic": "Dubai real estate market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm going to show you the actual sales and rental transactions from the conflict period compared to the previous cycle with zero bias because I'm not an agent.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The video will present actual sales and rental transactions from the Dubai market's conflict period compared to the previous cycle, claiming zero bias due to the speaker not being a real estate agent."
+      },
+      "title": "Data-Driven Analysis",
+      "topic": "Dubai real estate market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "It's actually a property monitor, one of my favorite tool, unfortunately not available for retail, casual investors or buyers or agent.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker uses a property monitor tool, which is only available for banks and real estate agencies, to show property valuations."
+      },
+      "title": "Use of Property Monitor",
+      "topic": "Dubai real estate market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "This is a heat map which will show you where the price is going up or where the price is going down. Then next is the number of transactions, which areas are still, let's say, in a hotspot and which are cooling down.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The heat map will show where prices are increasing or decreasing and highlight areas that are hotspots or cooling down."
+      },
+      "title": "Price Changes Overview",
+      "topic": "Dubai real estate market"
+    }
+  ]
+}

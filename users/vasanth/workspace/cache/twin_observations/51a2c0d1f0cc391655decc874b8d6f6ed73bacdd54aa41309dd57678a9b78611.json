@@ -1,0 +1,101 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-c0b46791db2d2d3d",
+          "quote": "Sure. I'll take answer from one last person then I then explain myself. Is anybody else wants to answer? The answer so far so told is not fully correct. The pieces of it are correct. Anybody wants to answer?",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000179"
+        },
+        {
+          "example_id": "ex-c0b46791db2d2d3d",
+          "quote": "You could raise your hand.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000180"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "interaction",
+      "observation": "The trainer, identified as Vasanth, encourages a learner-led discussion by asking if others want to answer and stating the known answers are partially correct before offering his own explanation.",
+      "proposed_adaptation": {
+        "action": "Facilitate learner-led discussions by first inviting individual responses and then offering explanations after participant engagement.",
+        "limits": "Does not apply if participants are unengaged or if the topic requires a straightforward explanation.",
+        "when": "Interactive sessions or discussions on technical problems."
+      },
+      "qualification": "Interaction is represented only from a single session and lacks cross-validation with other interactions.",
+      "scope": "youtube",
+      "situation": "Debate occurs over whether JavaScript's event loop executes all micro tasks at once or one by one.",
+      "support_ids": [
+        "ex-c0b46791db2d2d3d"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-c0b46791db2d2d3d",
+          "quote": "then I then explain myself.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000179"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "The strategy involves inviting multiple student explanations to pieces of a problem before providing a comprehensive overview of the solution.",
+      "proposed_adaptation": {
+        "action": "Solicit various answers from the learners and then explain the material, acknowledging the accuracy and comprehensiveness of the participants' contributions.",
+        "limits": "Not suitable when time is limited or when participants have a poor grasp of the topic basics.",
+        "when": "Teaching moments where a synthesis of different responses may aid understanding of a complex topic."
+      },
+      "qualification": "This teaching strategy is documented for one example session and lacks exploration across diverse teaching scenarios.",
+      "scope": "youtube",
+      "situation": "Vasanth gives explanations of task execution priorities in JavaScript event loop study sessions.",
+      "support_ids": [
+        "ex-c0b46791db2d2d3d"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-7a24251346a1da0a",
+          "quote": "You design a system as simpler as required and not simpler than that. You don't want to over simplify this or you want to like over complicate it, try to keep it as simple as required, same way.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000181"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker uses the analogy of designing systems as simply as needed to explain execution priorities, connecting it to maintaining correct task execution order.",
+      "proposed_adaptation": {
+        "action": "Use analogies from system design to elucidate how complexity should be managed to maintain order.",
+        "limits": "Ineffective if the learners don't understand system design analogies or if the subject matter doesn't map well to ordered processes.",
+        "when": "Explaining hierarchical or priority-driven processes."
+      },
+      "qualification": "This analogy is specific to systems design concepts and its applicability beyond similar topics is unverified.",
+      "scope": "youtube",
+      "situation": "Vasanth uses analogies to explain complex systems like the JavaScript event loop, focusing on ordered execution and priority.",
+      "support_ids": [
+        "ex-7a24251346a1da0a"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-cf198817fa84ff9f",
+          "quote": "try to understand for the question what do they mean by accurate.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000272"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker advises to question the interviewer on the definition of 'accurate' and suggests achieving relative accuracy as a strategy in interviews.",
+      "proposed_adaptation": {
+        "action": "Advise candidates to clarify the terms of technical questions to better align their responses with interviewer expectations.",
+        "limits": "May not be suitable for interviews with rigid question formats or where clarification questioning is not welcome.",
+        "when": "Coaching sessions on handling technical interview questions."
+      },
+      "qualification": "Advice focuses on interview strategy and does not provide empirical feedback on its success.",
+      "scope": "youtube",
+      "situation": "Participants inquire about creating an accurate timing mechanism in JavaScript during a study session.",
+      "support_ids": [
+        "ex-cf198817fa84ff9f"
+      ]
+    }
+  ]
+}

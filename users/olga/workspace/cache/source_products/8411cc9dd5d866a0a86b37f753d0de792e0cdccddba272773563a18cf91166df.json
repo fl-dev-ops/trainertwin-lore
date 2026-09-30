@@ -1,0 +1,93 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "It's not just about sales; it's about the client's actual journey. Let's map it out. Full training on my Youtube channel",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text combines the introduction and the call to action ('Let's map it out') in one line, followed by a pointer to more detailed resources ('Full training on my Youtube channel')."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Initial Engagement Invitation",
+      "topic": "introduction"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Full training on my Youtube channel",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Full training available on my Youtube channel about mapping the client's journey."
+      },
+      "title": "Client Journey Mapping Offering",
+      "topic": "offer"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "One of the most important ones is the decision making funnel. Every time I show it on my trainings and I'm asking, have you seen ever the funnel representation of anything? I hear like...",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "One of the most important concepts is the decision making funnel, which is often unfamiliar to training participants."
+      },
+      "title": "Decision Making Funnel Importance",
+      "topic": "funnel"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "For the ease of it, I'm gonna take the example of someone who is interested to invest, which is literally probably eighty percent of the clients, who's potentially looking for offline or ready projects.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "For Dubai real estate, the client journey usually involves potential clients interested in investing in offline or ready projects, which encompasses about eighty percent of clients."
+      },
+      "title": "Dubai Real Estate Client Journey Example",
+      "topic": "client_journey"
+    }
+  ]
+}

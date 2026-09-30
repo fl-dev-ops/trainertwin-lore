@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2026-04-06-express-course-for-agents-in-md-974f16025e-684ab10a9e8419076e25.jsonl",
+  "evidence_hash": "5b462984214428ffb2fdbca3da62a518ec081cd1658127c5f1144e4ce3e0922c",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:11:44Z",
+  "metadata_hash": "8a7c412db60e4b783cea16716269ca5cd726339ec557c6e194dcd303311fec4a",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "684ab10a9e8419076e25",
+  "snapshot_hash": "38b6ea33ecc9c7dfe8cd9fbd9b9d77b8ebfdff19e2c7b5a374fbf8246557af6c",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-04-06-express-course-for-agents-in-md-974f16025e",
+  "source_path": "linkedin/posts/2026-04-06-express-course-for-agents-in.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "aaef5e0aa67c5b07982d0e6fb75d9c2a6bae71dd1f934d4461bd353b22f204ce",
+  "source_snapshot": "linkedin-posts-2026-04-06-express-course-for-agents-in-md-974f16025e-684ab10a9e8419076e25.json",
+  "version": "4"
+}

@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "d929dcc6badff45efbd589742ce388b35e2886c13dced7dfe393d7de5179bc15",
+  "date": "2026-03-30T14:12:57.950000Z",
+  "date_basis": "source",
+  "external_id": "7444386191036272640",
+  "format": "post",
+  "id": "linkedin-posts-2026-03-30-if-client-is-telling-you-md-355c302a69",
+  "metadata_hash": "4bfdd8d20efb1656caf55e134965ddd36e64e5b1b823a496043bae2ac8c5c1cd",
+  "original_text": "---\nid: '7444386191036272640'\ndate: '2026-03-30T14:12:57.950Z'\nurl: https://www.linkedin.com/posts/olgasi_if-client-is-telling-you-im-hearing-alot-activity-7444386191036272640-HfL1\nlikes: 5\ncomments: 0\narticle:\n  title: If Client is Telling you - “I’m Hearing alot of Negative New about Dubai”\n    - respond with this!\n  subtitle: youtube.com\n  link: https://youtu.be/l2mO_ptlfk8\n---\n\nIf Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this!\n\nhttps://lnkd.in/dtX6QEaC\n\n### Shared Article: [If Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this!](https://youtu.be/l2mO_ptlfk8)\n> youtube.com\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-03-30-if-client-is-telling-you-md-355c302a69:p000001",
+      "locator": "lines 14-19",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "If Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this!\n\nhttps://lnkd.in/dtX6QEaC\n\n### Shared Article: [If Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this!](https://youtu.be/l2mO_ptlfk8)\n> youtube.com"
+    }
+  ],
+  "path": "linkedin/posts/2026-03-30-if-client-is-telling-you.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-03-30-if-client-is-telling-you.md",
+  "sha256": "f59204e8095fca599588034a646c07b322faf098dbe24f695e341b0501a6cac1",
+  "speakers": {},
+  "title": "If Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this!",
+  "units": [
+    {
+      "end": 282,
+      "id": "linkedin-posts-2026-03-30-if-client-is-telling-you-md-355c302a69:u000001",
+      "locator": "lines 14-19",
+      "passage_id": "linkedin-posts-2026-03-30-if-client-is-telling-you-md-355c302a69:p000001",
+      "raw_text": "If Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this!\n\nhttps://lnkd.in/dtX6QEaC\n\n### Shared Article: [If Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this!](https://youtu.be/l2mO_ptlfk8)\n> youtube.com",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "If Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this! https://lnkd.in/dtX6QEaC ### Shared Article: [If Client is Telling you - “I’m Hearing alot of Negative New about Dubai” - respond with this!](https://youtu.be/l2mO_ptlfk8) > youtube.com"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_if-client-is-telling-you-im-hearing-alot-activity-7444386191036272640-HfL1"
+}

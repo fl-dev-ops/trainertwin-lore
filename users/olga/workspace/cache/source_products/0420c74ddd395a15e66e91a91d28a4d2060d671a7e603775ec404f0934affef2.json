@@ -1,0 +1,202 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000004",
+        "u000005",
+        "u000006"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "two different markets. Developer deals, the off-plan projects, and secondary market distress properties owned by individuals. They do not behave the same way.",
+            "unit_id": "u000004"
+          },
+          {
+            "quote": "He cannot suddenly drop to four hundred on the same conditions. Why? Because that would destroy investor trust, damage his reputation, and make buyers ignore his next project.",
+            "unit_id": "u000005"
+          },
+          {
+            "quote": "He keeps the headline prices close to the old levels but changes the condition he gives. Better deals for cash buyers, offer longer payment plans, more flexible payment plans.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The speaker contrasts developer deals (specifically mentioning off-plan projects) with secondary market distressed properties, explaining how they operate differently to establish a basis for understanding Dubai's real estate dynamics."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "two different markets. Developer deals, the off-plan projects, and secondary market distress properties owned by individuals. They do not behave the same way.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "To clarify the differences in behavior between two types of real estate markets: developer deals and secondary market properties."
+      },
+      "speaker_id": "1",
+      "title": "Analytical comparison of market segments",
+      "topic": "Dubai real estate"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000010",
+        "u000011"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Headlines about the Dubai property index, thirty percent down, do not automatically mean that the actual property prices fell by the same percentage.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "Headlines about the Dubai property index showing a 30% decline do not automatically mean that property prices have fallen by the same percentage."
+      },
+      "title": "Dubai real estate assessment",
+      "topic": "Dubai real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "By the end of this video, you will have a clear step-by-step strategy for finding a real distress opportunities, not just discounted listing. A practical method to structure the offers that can get you forty below the previous market price, not just like ten percent off.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "By the end of the video, viewers will have a step-by-step strategy for finding real distressed opportunities in Dubai real estate, aiming for 40% below previous market price."
+      },
+      "title": "Distressed deal strategy",
+      "topic": "Dubai real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004",
+        "u000005",
+        "u000006",
+        "u000007",
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Developer deals, the off-plan projects, and secondary market distress properties owned by individuals. They do not behave the same way.",
+            "unit_id": "u000004"
+          },
+          {
+            "quote": "He cannot suddenly drop to four hundred on the same conditions. Why? Because that would destroy investor trust, damage his reputation, and... make buyers ignore his next project... So, what does he do instead? He keeps the headline prices close to the old levels but changes the condition he gives.",
+            "unit_id": "u000005"
+          },
+          {
+            "quote": "He keeps the headline prices close to the old levels but changes the condition he gives. Better deals for cash buyers, offer longer pay payment plans, more flexible payment plans...",
+            "unit_id": "u000006"
+          },
+          {
+            "quote": "secondary market properties are ready units owned by individuals.",
+            "unit_id": "u000007"
+          },
+          {
+            "quote": "Here, the price is not controlled by the developer. It's controlled by one person situation.",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "There is a difference between developer deals and secondary market properties. Developers may modify conditions rather than lowering prices, while secondary market properties depend on individual situations."
+      },
+      "title": "Developer and secondary market differences",
+      "topic": "Dubai real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000017",
+        "u000018"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Now we are moving to negotiation strategy, not just psychology. If you are emotionally attached to one property, you will overpay. If you can walk away, you become a dangerous negotiation.",
+            "unit_id": "u000017"
+          },
+          {
+            "quote": "First, put yourself in the seller's shoes.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "When negotiating for a distressed property, avoid emotional attachment, understand the seller's perspective, and be ready to move quickly on opportunities."
+      },
+      "title": "Negotiation strategy",
+      "topic": "Real estate negotiation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000024"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Preparation means knowing what to buy, where to buy it, how to check, and how to negotiate with the right seller.",
+            "unit_id": "u000024"
+          }
+        ],
+        "text": "Preparation to buy in Dubai's real estate market involves knowing what to buy, where to buy it, and how to negotiate with sellers effectively."
+      },
+      "title": "Preparation for buying in Dubai",
+      "topic": "Real estate preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000023"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I have a bad news for you. Real distress deals like this can be gone within two or three hours. So let me ask you, are you ready to move that fast? Most people are not.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "Buyers need to prepare to move quickly on real distressed deals, which can be resolved within two to three hours."
+      },
+      "title": "Importance of market preparation",
+      "topic": "Dubai real estate"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 3,
+  "evidence_file": "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5-3580690d011728cbb73d.jsonl",
+  "evidence_hash": "28b90a03fb41bcde03bb4e198fa2282397d20ce01b25601de5841aad8aa3052f",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:15:38Z",
+  "metadata_hash": "7d2a0f4cd0578cc92e986a8bec6df16e55586d7bf70cb2511795b03a573a7e63",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "3580690d011728cbb73d",
+  "snapshot_hash": "dac67963d6154ba279ae9b8c5a08d0a7ebc8222c21bd85d2a9545303a290a26c",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5",
+  "source_path": "linkedin/posts/2026-08-11-for-ekaterina-karanska-it-was.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "dc540a0bec07ff64747dda47c242ea488fa9f24f9723fb6ae45003858e1de3c3",
+  "source_snapshot": "linkedin-posts-2026-08-11-for-ekaterina-karanska-it-was-md-2df238c3b5-3580690d011728cbb73d.json",
+  "version": "4"
+}

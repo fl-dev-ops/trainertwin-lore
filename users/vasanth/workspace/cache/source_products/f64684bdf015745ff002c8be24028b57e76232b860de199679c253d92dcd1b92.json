@@ -1,0 +1,344 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000151",
+        "u000157"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "how much time like a let's say a normal engineer working on a team how much time should they dedicate for uh this roadmap preparation",
+            "unit_id": "u000151"
+          }
+        ],
+        "text": "The questioner inquired about the necessary time commitment for interview preparation."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "if you seriously can put twenty five hours in a week",
+            "unit_id": "u000155"
+          }
+        ],
+        "text": "The speaker suggested a set amount of weekly preparation hours to become interview-ready in six to eight weeks."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "I have one question uh so regarding structured fronted interview preparation roadmap. So I get this question a lot and you must be getting it too that people ask that how much time like a let's say a normal engineer working on a team how much time should they dedicate for uh this roadmap preparation",
+            "unit_id": "u000151"
+          }
+        ],
+        "text": "A question was asked about the time commitment needed for structured front-end interview preparation."
+      },
+      "speaker_id": "2",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "twenty five hours of preparation on anything, not necessarily front end. Let's say you want to do gymming... if you seriously can put twenty five hours in a week",
+            "unit_id": "u000155"
+          }
+        ],
+        "text": "It was advised to spend twenty-five hours a week on preparation, broken down into daily and weekend commitments."
+      },
+      "title": "Time Management for Interview Preparation",
+      "topic": "interview preparation"
+    },
+    {
+      "context_unit_ids": [
+        "u000163",
+        "u000172"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "like suppose I could not study for a week or two weeks because of some certain thing. Then again how we can come back to the same like learning like we are not like suppose I am working on different stack I won't get into this like that is the problem.",
+            "unit_id": "u000165"
+          }
+        ],
+        "text": "The speaker sought advice on how to get back to learning after an interruption."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "ensure you do not have a zero productive days. Zero productive days means a day where you did not do anything that is productive for the goal that you have.",
+            "unit_id": "u000172"
+          }
+        ],
+        "text": "The speaker suggested maintaining continuity by avoiding zero productive days, thus staying in touch with the learning material."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "like difficulties of having the job like we are working on different stack and getting back to the stack like if we have some gap between.",
+            "unit_id": "u000163"
+          }
+        ],
+        "text": "A question was asked about managing studies alongside work when unable to study due to a busy schedule."
+      },
+      "speaker_id": "2",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "So unless you're truly on vacation or something that you decided not to study anything, ensure you do not have a zero productive days. Zero productive days means a day where you did not do anything that is productive for the goal that you have.",
+            "unit_id": "u000172"
+          }
+        ],
+        "text": "The advice given was to aim for zero productive days, committing at least fifteen to twenty minutes to study daily to remain connected to the material."
+      },
+      "title": "Handling Interruptions in Learning",
+      "topic": "learning management"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000155",
+        "u000157"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "if you could dedicate like one to two hours in a day and five hours during the weekend, collectively it can come close to twenty to twenty five hours.",
+            "unit_id": "u000155"
+          }
+        ],
+        "text": "The speaker provides a detailed breakdown of time allocation for preparation, specifying daily and weekend commitments."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Time Commitment Explanation",
+      "topic": "interview preparation"
+    },
+    {
+      "context_unit_ids": [
+        "u000172",
+        "u000173"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I'll have a rule called like zero productive days. Okay? So unless you're truly on vacation or something that you decided not to study anything...",
+            "unit_id": "u000172"
+          }
+        ],
+        "text": "The speaker explains the zero productive days concept by defining it and providing ways to avoid it."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Zero Productive Days Rule Explanation",
+      "topic": "learning management"
+    },
+    {
+      "context_unit_ids": [
+        "u000182",
+        "u000185"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "a chain effect. So the cab drivers will not be able to pay the EMI. People who own the home they'll not be able to pay the EMI.",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "The speaker discusses potential societal impacts of AI displacement and economic chain reactions."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Consequences of AI",
+      "topic": "AI and employment"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "considering all of us here are working, most of us at least, if you could dedicate like one to two hours in a day and five hours during the weekend",
+              "unit_id": "u000155"
+            }
+          ],
+          "text": "The advice is considering that most individuals are working full-time alongside their preparation."
+        }
+      ],
+      "context_unit_ids": [
+        "u000151",
+        "u000155"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "twenty five hours of preparation on anything, not necessarily front end. Let's say you want to do gymming, let's say you want to learn swimming, let's say you want to learn cricket, anything, if you seriously can put twenty five hours in a week",
+            "unit_id": "u000155"
+          }
+        ],
+        "text": "For a structured front-end interview preparation roadmap, dedicating a minimum of twenty-five hours a week is suggested, involving one to two hours on weekdays and five hours over the weekend."
+      },
+      "title": "Interview Preparation Time Commitment",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [
+        {
+          "citations": [
+            {
+              "quote": "if you could dedicate like one to two hours in a day and five hours during the weekend, collectively it can come close to twenty to twenty five hours.",
+              "unit_id": "u000155"
+            }
+          ],
+          "text": "Preparation should be done alongside work commitments, with an advised time of twenty-five hours a week."
+        }
+      ],
+      "context_unit_ids": [
+        "u000151",
+        "u000156"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "assuming you are someone who is actively working on front end so you have a very basic idea",
+              "unit_id": "u000156"
+            }
+          ],
+          "text": "The individual should have a basic understanding of front-end development."
+        }
+      ],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "it's a journey of around six to eight weeks that means forty five to sixty days. One point five to two months depending on how much time like how skilled you are how much effort you put and all of that.",
+            "unit_id": "u000156"
+          }
+        ],
+        "text": "Becoming interview-ready in front-end development may take about six to eight weeks for someone already familiar with front-end basics."
+      },
+      "title": "Becoming Interview Ready",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000165",
+        "u000172"
+      ],
+      "exceptions": [
+        {
+          "citations": [
+            {
+              "quote": "I'll have a rule called like zero productive days. Okay? So unless you're truly on vacation or something that you decided not to study anything",
+              "unit_id": "u000172"
+            }
+          ],
+          "text": "Zero productive days are acceptable when one is truly on vacation or has decided not to study for a reason."
+        }
+      ],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "ensure you do not have a zero productive days. Zero productive days means a day where you did not do anything that is productive for the goal that you have. For example, you want to preparing for interview, you are you are very much stuck in your office work. But definitely you will get at least fifteen to twenty minutes to study one topic in that day.",
+            "unit_id": "u000172"
+          }
+        ],
+        "text": "To maintain continuity in learning, avoid zero productive days unless necessary, devoting at least fifteen to twenty minutes daily to study a topic even amidst other commitments."
+      },
+      "title": "Zero Productive Days Rule",
+      "topic": "learning management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000183",
+        "u000186"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "will revolt, they attack and everything, correct? So country countries want people to employ. So countries can start putting more rules on the usage of JNUAT. They can say only forty percent in this particular domain or only thirty percent in this particular domain, correct?",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "The introduction of AI may lead to massive unemployment, potentially resulting in economic disruptions and societal changes."
+      },
+      "title": "AI and Unemployment Concerns",
+      "topic": "AI and employment"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000183",
+        "u000186"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So whenever the problem which is so difficult situation, then countries will come together and enforce some rules.",
+            "unit_id": "u000183"
+          }
+        ],
+        "text": "Countries may join forces to address major issues, similar to global responses to the ozone layer crisis, to mitigate AI-related unemployment impacts in the future."
+      },
+      "title": "Global Response to Major Problems",
+      "topic": "global cooperation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000183",
+        "u000186"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "could be definitely because of the laziness. If you are not able to study, dedicate anything, and then again start becoming new thing for you where preparation start become very uphill battle. So unless it is something unavoidable, hundred percent unavoidable, I would say make sure there are very less zero productive days.",
+            "unit_id": "u000182"
+          }
+        ],
+        "text": "To combat unemployment caused by AI, governments might enforce rules limiting AI usage in certain domains, ensuring employment."
+      },
+      "title": "Government Measures Against Unemployment",
+      "topic": "AI and employment"
+    }
+  ]
+}

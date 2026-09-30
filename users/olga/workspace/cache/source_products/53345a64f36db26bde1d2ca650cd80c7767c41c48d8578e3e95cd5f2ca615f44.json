@@ -1,0 +1,48 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Survival is not created in panic. It's created in usefulness. So instead of asking myself what if everything falls apart, ask yourself, what problem can I solve today that somebody would actually pay for? Because in uncertain times useful people survive faster than emotional people.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Olgasi presents survival strategy by contrasting the outcomes of being useful versus emotional."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Survival Strategy Explanation",
+      "topic": "survival_strategy"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Because in uncertain times useful people survive faster than emotional people.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "In uncertain times, useful people survive faster than emotional people."
+      },
+      "title": "Being Useful Over Emotional",
+      "topic": "survival_strategy"
+    }
+  ]
+}

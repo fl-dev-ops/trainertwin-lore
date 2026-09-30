@@ -1,0 +1,48 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "you can ask your clients this question, and probably it's easier, it's an emotional persuasion, they're going to come up to their own realization",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker suggests asking clients a question to lead them to an emotional persuasion and their own realization about which developers will sustain."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Question as Emotional Persuasion",
+      "topic": "client interaction"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "semi-government developers, big developers which been already on a higher scale, on a high demand",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Semi-government developers and big developers already in high demand may sustain in the current market."
+      },
+      "title": "Sustainability of Real Estate Developers",
+      "topic": "real estate market"
+    }
+  ]
+}

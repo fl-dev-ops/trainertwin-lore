@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 8,
+  "evidence_file": "youtube-video-2026-09-19-is-this-2008-in-dubai-all-over-again-realestate-7h9afvyuliu-32e6f5a0b1-4655a8efe7f29b215387.jsonl",
+  "evidence_hash": "c2b685a229f361fcf260306f5be38cb5d3458745eb5df38338e15e94e22dd8c1",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:16:13Z",
+  "metadata_hash": "699bc3db35530a4afe39913f13a9dde1d05f4fa9db46fa11a2a4f1ea866e4c74",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 1,
+    "knowledge": 6
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 3,
+    "units_total": 3
+  },
+  "revision": "4655a8efe7f29b215387",
+  "snapshot_hash": "9b50ea23321446a5460b75235f61a6ee643bf4e7fbcf00aff4ebc7b73898e670",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-09-19-is-this-2008-in-dubai-all-over-again-realestate-7h9afvyuliu-32e6f5a0b1",
+  "source_path": "youtube/video/2026-09-19-is-this-2008-in-dubai-all-over-again-realestate-7H9AfVyuliU.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "70187c7469760eb6aaf6613648163ac883eb70e82d3c7a9f30fcda520ee907c7",
+  "source_snapshot": "youtube-video-2026-09-19-is-this-2008-in-dubai-all-over-again-realestate-7h9afvyuliu-32e6f5a0b1-4655a8efe7f29b215387.json",
+  "version": "4"
+}

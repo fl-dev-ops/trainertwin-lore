@@ -1,0 +1,215 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000287",
+        "u000288"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "How about you start building some APIs for the same one like online webinar thing.",
+            "unit_id": "u000287"
+          }
+        ],
+        "text": "Consider building APIs to see if the process is enjoyable."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Once you really start enjoying, then only you should start considering it as a serious career option.",
+            "unit_id": "u000288"
+          }
+        ],
+        "text": "If you do not enjoy the process, do not consider it as a serious career option."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "you told you are not liking it.",
+            "unit_id": "u000287"
+          }
+        ],
+        "text": "Gauri is considering whether to pursue backend development but has reservations about liking it."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "Check whether you really enjoy the process or not. If you're someone who's really enjoying that process Gauri then you should start pursuing that particular domain.",
+            "unit_id": "u000287"
+          }
+        ],
+        "text": "Build different APIs to see if the process is enjoyable and decide if backend development is a suitable career path based on the experience."
+      },
+      "title": "Building and enjoying backend projects",
+      "topic": "career_decision"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000287",
+        "u000288"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Do you do you really enjoy that course of doing that? Maybe one project if you're not able to make out you can make couple.",
+            "unit_id": "u000287"
+          },
+          {
+            "quote": "If you really do not enjoy, be one project if you're not able to make a title, you can make two three.",
+            "unit_id": "u000288"
+          }
+        ],
+        "text": "The speaker uses a hypothetical scenario and a direct recommendation to guide Gauri on trying different projects and evaluating her enjoyment before deciding on a career."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Experimental career decision",
+      "topic": "career_decision"
+    },
+    {
+      "context_unit_ids": [
+        "u000321"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "But now let's say eight thousand people from Facebook are laid off.",
+            "unit_id": "u000321"
+          }
+        ],
+        "text": "The speaker uses a comparison with employees laid off from reputable companies to suggest that career gaps should not be seen negatively."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Handling unemployment perception",
+      "topic": "career_advice"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000287",
+        "u000288"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Do you do you really enjoy that course of doing that? Maybe one project if you're not able to make out you can make couple. So after that you may not be the best at it but if you really enjoy the process of doing let's say the back end one you told you are not liking it.",
+            "unit_id": "u000287"
+          },
+          {
+            "quote": "If you really do not enjoy, be one project if you're not able to make a title, you can make two three. Once you really start enjoying, then only you should start considering it as a serious career option.",
+            "unit_id": "u000288"
+          }
+        ],
+        "text": "To determine if you enjoy working in a specific domain, such as backend development, try building projects in that domain. If you enjoy the process and find it fulfilling, consider pursuing it as a serious career option."
+      },
+      "title": "Choosing a software development domain",
+      "topic": "career_decision"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000305"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Nowadays they ask little bit about the oral architecturing part. You should not be someone who say I just built the screen.",
+            "unit_id": "u000305"
+          }
+        ],
+        "text": "Having knowledge about AWS, deployment, and the CICD pipeline is beneficial for tech interviews. It helps to have an understanding of end-to-end architecture beyond just building screens."
+      },
+      "title": "Understanding AWS in tech interviews",
+      "topic": "career_advice"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000321"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But now let's say eight thousand people from Facebook are laid off, are they are someone who's unqualified or not so good engineers? They are probably the the top best engineers on the world. So now the unemployment badge or the layoff badge is not a something big to think to worry.",
+            "unit_id": "u000321"
+          }
+        ],
+        "text": "Unemployment gaps should not be a big concern, as layoffs are common and should not be seen negatively. It’s not a big problem even if the gap is up to six months."
+      },
+      "title": "Handling unemployment gaps",
+      "topic": "career_advice"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000328"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If you really think you built a good version of Figma by yourself, you could even open source it.",
+            "unit_id": "u000328"
+          }
+        ],
+        "text": "For learning and showcasing skills, consider building a tool similar to Figma where designers can build screens and add comments. Open-source the project if it turns out well."
+      },
+      "title": "Building a Figma-like project",
+      "topic": "project_learning"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000339"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "don't never keep more than three months for an interview preparation, provided you are already working on it, okay? If you are thinking beyond three months then there is some problem in your preparation strategy.",
+            "unit_id": "u000339"
+          }
+        ],
+        "text": "Don’t spend more than three months on interview preparation if you are already working on the basics. Prolonged preparation might indicate issues in the preparation strategy."
+      },
+      "title": "Interview preparation strategy",
+      "topic": "career_advice"
+    }
+  ]
+}

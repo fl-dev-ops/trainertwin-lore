@@ -1,0 +1,270 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "on my training sessions, the agents that I trained. What had happened here in 2014? Why we actually moved so fast? And I would say we got an opportunity to host Expo 2020",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "During training sessions, agents are asked about the events in 2014 that led to Dubai's rapid market movement."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Agent Training Sessions",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "context_unit_ids": [
+        "u000046"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "you can see the demand on the townhouses and villas increased significantly for the ready properties uh after Corona. You might not know that but those who've been stuck here through March till let's say almost end of June uh in twenty twenty they felt me includingly I was in in the smaller union back then that I want a space I want to be able to go my yard I I want this.",
+            "unit_id": "u000046"
+          }
+        ],
+        "text": "Post-Corona, individuals began seeking larger living spaces in Dubai, driven by the desire for more personal space."
+      },
+      "speaker_id": "1",
+      "strategy": null,
+      "title": "Demand for Larger Living Spaces Post-Corona",
+      "topic": "Dubai Real Estate"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000048"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "it took us almost three years to drop forty percent in price. So if you're looking for the whole market to go down to to forty percent, that probably not going to happen within one or two or three or even or even twelve months altogether.",
+            "unit_id": "u000048"
+          }
+        ],
+        "text": "The speaker reassures the audience by emphasizing that a significant market decline won't happen suddenly, citing historical data on the duration of market downturns."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Market Demand Explanation",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "context_unit_ids": [
+        "u000050"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "it's way more appealing to get the free two years, four years payment plan rather than try to get a mortgage or trying to get some sort of a cheaper unit on the secondary market.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "The speaker highlights the appeal of payment plans for off-plan properties to international investors, contrasting them with the challenges of securing mortgages or secondary market properties."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Appeal to International Investors",
+      "topic": "Dubai Real Estate"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000027"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this is what I call a market split. So, let me show you the actual trajectory from the beginning of the market, how the prices behave",
+            "unit_id": "u000027"
+          }
+        ],
+        "text": "The Dubai real estate market experiences a 'market split,' where offline and secondary markets are affecting each other."
+      },
+      "title": "Dubai Real Estate Market Split",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "we got an opportunity to host Expo 2020, which actually happened in 2021. So this alone put Dubai on the arena of international, not real estate market, of international business field, where we became a little bit more recognizable.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "Dubai's recognition increased in the international business field after being selected to host Expo 2020."
+      },
+      "title": "Dubai Expo and Market Recognition",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000028"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the year when the Dubai land department started collecting and record the data, which is amazing. I do not think that any other country have been so digital with intentionally digital with the market.",
+            "unit_id": "u000028"
+          }
+        ],
+        "text": "In 2008, the Dubai Land Department started collecting and recording data, showing a digital approach to the market."
+      },
+      "title": "Dubai's Adoption of Digital Market",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000036"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "we do have licenses for business where you do not need an local partner anymore.",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "Dubai offers business licenses where a local partner is no longer needed."
+      },
+      "title": "Non-local Business Ownership in Dubai",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000036"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "uh 2016, 17, 18, 19, it was like the beginning of the social media. So now, you probably hear about Dubai from each and every refrigerator.",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "In 2016-2019, the rise of social media contributed to increased global interest in moving to Dubai."
+      },
+      "title": "Dubai Property Market and Social Media",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000046"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you can see the demand on the townhouses and villas increased significantly for the ready properties uh after Corona.",
+            "unit_id": "u000046"
+          }
+        ],
+        "text": "Demand for townhouses and villas increased significantly for ready properties after Corona."
+      },
+      "title": "Increase in Demand for Ready Properties",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000048"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "what I'm trying to tell you here is again, I promise I'm not going to make any prediction, but I want you to understand that on the previous market, regardless of what was there, what was not there yet, it took us almost three years to drop forty percent in price.",
+            "unit_id": "u000048"
+          }
+        ],
+        "text": "It took almost three years for the Dubai property market to drop 40% in price during a previous market downturn."
+      },
+      "title": "Property Price Cycles in Dubai",
+      "topic": "Dubai Real Estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000050"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "No, because of the payment plans that the developers are offering for many, specifically international investors, it's it's way more appealing to get the free two years, four years payment plan rather than try to get a mortgage or trying to get some sort of a cheaper unit on the secondary market.",
+            "unit_id": "u000050"
+          }
+        ],
+        "text": "Payment plans for off-plan transactions are appealing to international investors, offering free two to four-year plans."
+      },
+      "title": "Appeal of Off-plan Property Payment Plans",
+      "topic": "Dubai Real Estate"
+    }
+  ]
+}

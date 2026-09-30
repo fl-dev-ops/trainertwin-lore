@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "bf1002d1fe459ad048c09d34697fe74171d5fdb9142e01713ad855ad4c7ce202",
+  "date": "2026-04-07T13:47:15.188000Z",
+  "date_basis": "source",
+  "external_id": "7447278823147995138",
+  "format": "post",
+  "id": "linkedin-posts-2026-04-07-you-can-make-money-in-md-d09d2b7024",
+  "metadata_hash": "53e9724fcc27d42ec2ba7b769eaa4c2196452dc0b2d3df3b117ea206923035a7",
+  "original_text": "---\nid: '7447278823147995138'\ndate: '2026-04-07T13:47:15.188Z'\nurl: https://www.linkedin.com/posts/olgasi_dubairealestatecareer-realestateagentdubai-activity-7447278823147995138-bo0X\nlikes: 31\ncomments: 0\nvideoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHiaGh6U5EgFA/mp4-720p-30fp-crf28/B4DZ1oMl7ZHgBE-/0/1775569633655?e=1791298800&v=beta&t=b4nz7AOXvRhnCDhHB0n8ct0U4ruy3-6rTfsai0FqxAg\n---\n\nYou can Make Money In any situation \n\n\n\n\n*\n*\n*\n*\n*\n#dubairealestatecareer #realestateagentdubai #dubairealestateindustrytips #dubaiagenttraining #realestateschool #newagentadvice #newrealestateagent #realestateinvesting #realtor #realestateagenttraining #realestatecoachingandtraining #dubaipropertyprices #newrealestateagenttips #dubairealestatecrash #howtosell #dubairealestateagent #realestateagentcareer #salestips #howtobecomearealestateagentindubai #howtogetlistings\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-04-07-you-can-make-money-in-md-d09d2b7024:p000001",
+      "locator": "lines 10-10",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "You can Make Money In any situation "
+    }
+  ],
+  "path": "linkedin/posts/2026-04-07-you-can-make-money-in.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-04-07-you-can-make-money-in.md",
+  "sha256": "3f7b741be86759ef987608c20c46465b2f77fd899ba44d2b841d744b93111496",
+  "speakers": {},
+  "title": "You can Make Money In any situation",
+  "units": [
+    {
+      "end": 35,
+      "id": "linkedin-posts-2026-04-07-you-can-make-money-in-md-d09d2b7024:u000001",
+      "locator": "lines 10-10",
+      "passage_id": "linkedin-posts-2026-04-07-you-can-make-money-in-md-d09d2b7024:p000001",
+      "raw_text": "You can Make Money In any situation",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "You can Make Money In any situation"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_dubairealestatecareer-realestateagentdubai-activity-7447278823147995138-bo0X"
+}

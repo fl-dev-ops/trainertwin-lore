@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "Olga_Si_Sales",
+  "category": "twitter",
+  "content_hash": "18a07a8bfd04a228412e955c5ebbc1aa7517f2a160ac68fa96e66f48f8e9b349",
+  "date": "2026-09-23T05:14:56Z",
+  "date_basis": "source",
+  "external_id": "2102627755674509680",
+  "format": "post",
+  "id": "twitter-tweets-2026-09-23-in-dubai-september-2025-md-24d401ef02",
+  "metadata_hash": "14a72dae160638f4ae7e2d0e457d0974e8f66ccef8ed5bfbc2d461adb0a85199",
+  "original_text": "---\nid: '2102627755674509680'\ndate: '2026-09-23T05:14:56Z'\nurl: https://x.com/Olga_Si_Sales/status/2102627755674509680\nlikes: 0\nretweets: 0\nreplies: 0\nquotes: 0\nviews: 3\nisReply: false\nconversationId: '2102627755674509680'\n---\n\nIn Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k \nSeptember 2027 - ? Your guess?\n",
+  "passages": [
+    {
+      "id": "twitter-tweets-2026-09-23-in-dubai-september-2025-md-24d401ef02:p000001",
+      "locator": "lines 14-15",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "In Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k \nSeptember 2027 - ? Your guess?"
+    }
+  ],
+  "path": "twitter/tweets/2026-09-23-in-dubai---september-2025.md",
+  "purpose": "",
+  "relative_path": "twitter/tweets/2026-09-23-in-dubai---september-2025.md",
+  "sha256": "1f398e42342a894255c6882d340e8f6fcabc1735e87cae2eeae0c5a0dc6fd864",
+  "speakers": {},
+  "title": "In Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k",
+  "units": [
+    {
+      "end": 107,
+      "id": "twitter-tweets-2026-09-23-in-dubai-september-2025-md-24d401ef02:u000001",
+      "locator": "lines 14-15",
+      "passage_id": "twitter-tweets-2026-09-23-in-dubai-september-2025-md-24d401ef02:p000001",
+      "raw_text": "In Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k \nSeptember 2027 - ? Your guess?",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "In Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k September 2027 - ? Your guess?"
+    }
+  ],
+  "url": "https://x.com/Olga_Si_Sales/status/2102627755674509680"
+}

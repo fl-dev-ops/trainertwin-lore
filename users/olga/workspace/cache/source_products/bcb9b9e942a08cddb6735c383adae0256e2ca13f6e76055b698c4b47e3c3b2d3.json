@@ -1,0 +1,28 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Full Sales training on my Youtube channel",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author offers a full sales training on their YouTube channel."
+      },
+      "title": "Sales training offering",
+      "topic": "Sales Training"
+    }
+  ]
+}

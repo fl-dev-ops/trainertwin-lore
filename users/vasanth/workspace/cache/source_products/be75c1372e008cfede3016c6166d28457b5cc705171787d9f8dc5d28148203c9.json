@@ -1,0 +1,171 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000023",
+        "u000024",
+        "u000025"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "For example if you're just like one or two years of experience then practical example many time is not very important but if you are somebody who is at a five plus years of experience then these three part rule is very very essential for you to study.",
+            "unit_id": "u000023"
+          }
+        ],
+        "text": "The explanation of the 'three-part rule' follows a sequence: introduction to the concept (three-part rule), the significance based on experience, and elaboration on each part: definition, bookish example, practical example."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Explanation Sequence",
+      "topic": "explanation_structure"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000021"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "February fifteenth, Shivaratri which is on Sunday. So, I just wanted to call it also. If anybody want to take, you or someone want to take a holiday, that is the day. Definitely there's not going to be session. Unless there is any medical emergency or personal emergency, all the weekends I'm available.",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "There will be no cohort session on February 15th (Shivaratri), unless there is a medical or personal emergency."
+      },
+      "title": "Cohort Session Schedule",
+      "topic": "session_scheduling"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000022",
+        "u000023",
+        "u000024",
+        "u000025",
+        "u000026",
+        "u000027",
+        "u000028"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "this is something that helped me a lot and helped my lot of my mentees who while they were preparing for their interview,",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "To help understand and explain complex topics effectively, particularly for interviews."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "For example if you're just like one or two years of experience then practical example many time is not very important but if you are somebody who is at a five plus years of experience then these three part rule is very very essential for you to study.",
+              "unit_id": "u000023"
+            }
+          ],
+          "text": "Consider the level of experience before applying the method fully."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "So if you look at any topic while you are studying you can fit this three part rule one is a definition.",
+              "unit_id": "u000023"
+            }
+          ],
+          "text": "Identify the definition of the topic."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Second step is like bookish example. So bookish example means something that you can prove by writing it,",
+              "unit_id": "u000025"
+            }
+          ],
+          "text": "Provide a bookish example that explains the concept."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Third is a practical example. So they would ask like like there are concept but no concept is actually created for interview, right? They are actually created for some real purpose.",
+              "unit_id": "u000027"
+            }
+          ],
+          "text": "Provide a practical example to demonstrate real-world application."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So I call it like three part rule. So which I call like a definition, bookish example and a practical example.",
+            "unit_id": "u000022"
+          }
+        ],
+        "text": "Use a three-part rule for studying: definition, bookish example, and practical example."
+      },
+      "title": "Three-Part Rule for Studying",
+      "topic": "interview_preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000033",
+        "u000034",
+        "u000035"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I would want you to create a document, preferably a cloud document like Google Docs or anything like that which can be shareable, which is accessible on mobile, desktop, web, everywhere.",
+            "unit_id": "u000033"
+          }
+        ],
+        "text": "Create a living document for interview preparation that includes definitions, examples, and personal notes taken from study sessions or interviews."
+      },
+      "title": "Document Preparation for Interviews",
+      "topic": "interview_preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000031",
+        "u000032"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "first is what I believe. So you don't have to take a note of anything in the session. All things that I would teach will be part of the notion which will be shared with you later.",
+            "unit_id": "u000032"
+          }
+        ],
+        "text": "It is preferable to focus on listening during lessons rather than taking notes, as materials will be provided after the session."
+      },
+      "title": "Studying and Note-Taking Advice",
+      "topic": "study_advice"
+    }
+  ]
+}

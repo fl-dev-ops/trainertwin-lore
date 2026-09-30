@@ -1,0 +1,125 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "When family and friends ask for my suggestion, what is after 12th ?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Family and friends ask for suggestions on what to pursue after 12th grade."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "If the kid has not decided what to pursue and not having passion on any one stream then do engineering.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "If undecided and no passion for a specific stream, pursue engineering, as engineers will still be needed in the future."
+      },
+      "title": "Recommending Engineering After 12th",
+      "topic": "Career Guidance"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Follow me and I will help you to find your dream job: Vasanth Bhat",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The text invites readers to follow the author for more guidance on career pathways and finding their dream job."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Engaging Followers",
+      "topic": "Social Media Engagement"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "If the kid has not decided what to pursue and not having passion on any one stream then do engineering.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "If a student has not decided on a career path and lacks passion for a specific field, consider pursuing engineering."
+      },
+      "title": "Choosing a Career Path After 12th",
+      "topic": "Career Guidance"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I strongly believe world would continue to need enginners (problem solvers) even in the genAI era.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The world will continue to need engineers (problem solvers) even in the generative AI era."
+      },
+      "title": "Importance of Engineers in the Future",
+      "topic": "Career Guidance"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But, one should aspire study on Tier 1 college, Tier 3 college may not yield much.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Aspire to study in a Tier 1 college as a Tier 3 college may not yield much benefit."
+      },
+      "title": "Tier of College Matters",
+      "topic": "Career Guidance"
+    }
+  ]
+}

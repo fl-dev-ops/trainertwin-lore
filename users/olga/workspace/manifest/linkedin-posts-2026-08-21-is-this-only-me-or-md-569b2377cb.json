@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 4,
+  "evidence_file": "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb-7f76c5c4b308f9cc61fe.jsonl",
+  "evidence_hash": "d577539073fc4c8fbdac8a68ea32d1f405ed932473b37b34eeb111d1e0b64924",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:15:59Z",
+  "metadata_hash": "f105e4234c305a95f66ccbe6cc7194b65f7ba245d45ee0d8eaeb4b9a9d7ccbf0",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "7f76c5c4b308f9cc61fe",
+  "snapshot_hash": "7beda3fb314bc544ead710337cd088eac23c24d79ed12a065793dd8a13fdf417",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb",
+  "source_path": "linkedin/posts/2026-08-21-is-this-only-me-or.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "44bb9628fcc54a909a3cfc5a6cc2283b2bb5a34f79d0c8664ef636282408c521",
+  "source_snapshot": "linkedin-posts-2026-08-21-is-this-only-me-or-md-569b2377cb-7f76c5c4b308f9cc61fe.json",
+  "version": "4"
+}

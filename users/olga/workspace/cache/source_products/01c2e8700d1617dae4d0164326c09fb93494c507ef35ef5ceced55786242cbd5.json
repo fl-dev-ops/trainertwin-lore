@@ -1,0 +1,25 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Even WithOut a War!",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The phrase 'Even WithOut a War!' capitalizes 'WithOut', which is an unconventional use of capitalization."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Phrase capitalization",
+      "topic": "Caps in authored text"
+    }
+  ],
+  "knowledge": []
+}

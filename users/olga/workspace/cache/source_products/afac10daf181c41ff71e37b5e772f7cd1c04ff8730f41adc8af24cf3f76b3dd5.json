@@ -1,0 +1,174 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000030"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "secret method is something that you already use just not for this purpose. Google reviews.",
+            "unit_id": "u000030"
+          }
+        ],
+        "text": "Using Google reviews to determine the authenticity of seller and tenant claims about a property."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Review for Building Reality",
+      "topic": "real_estate"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000036"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I'd really appreciate if you click the like and subscribe and if you are an investor, leave your comment on the comment section and I read and respond myself.",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "The speaker concludes the video by requesting viewers to like, subscribe, and leave comments, promising personal interactions as an incentive."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "I'd really appreciate if you click the like and subscribe and if you are an investor, leave your comment on the comment section and I read and respond myself.",
+            "unit_id": "u000036"
+          }
+        ],
+        "text": "To engage the audience and encourage interaction."
+      },
+      "speaker_id": "1",
+      "title": "Call to Action",
+      "topic": "video_conclusion"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000028",
+        "u000029",
+        "u000030",
+        "u000031",
+        "u000032",
+        "u000033",
+        "u000034",
+        "u000035"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "if you're hoping for thirty or even forty percent discount for a really good property, you cannot behave like a casual buyer. You are a distress deal hunter.",
+            "unit_id": "u000034"
+          }
+        ],
+        "text": "To obtain a significant discount on good properties by taking advantage of distressed deals in Dubai."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "Do your search, use property finder over you to both have an easy system to track and compare past sales and rental transactions.",
+              "unit_id": "u000028"
+            }
+          ],
+          "text": "Understand the real estate market by doing proper research using property tracking systems to compare past sales and rental transactions."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "based on unit type, square footage, developer, layout, budget. Do your search, use property finder over you to both have an easy system to track and compare past sales and rental transactions.",
+              "unit_id": "u000028"
+            }
+          ],
+          "text": "Shortlist your project based on unit type, square footage, developer, layout, and budget."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Before you fall in love with a discount, check the building reality. You need to understand tenants, complainants, owners, comments, maintenance issue, maybe it has an AC problem, noise, or traffic.",
+              "unit_id": "u000029"
+            }
+          ],
+          "text": "Check the building reality and potential issues by reading tenants' and owners' reviews, not just brochures."
+        },
+        {
+          "citations": [
+            {
+              "quote": "If you want to buy a distress deal, you must act differently. Not with the WhatsApp, but with the real check made payable to the owner.",
+              "unit_id": "u000031"
+            }
+          ],
+          "text": "Avoid using common negotiation methods like WhatsApp offers; instead, use a real check made payable to the owner."
+        },
+        {
+          "citations": [
+            {
+              "quote": "the best opportunities will not go to people who start searching at the last moment. They will go to buyers who prepare early, shortlisted the options, checked their buildings, and understood the real market value.",
+              "unit_id": "u000032"
+            }
+          ],
+          "text": "Prepare early by shortlisting options, checking building conditions, and understanding the real market value."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Start negotiating multiple units, stay emotionally detached and move fast when the right deal comes.",
+              "unit_id": "u000033"
+            }
+          ],
+          "text": "Negotiate on multiple units simultaneously, stay emotionally detached, and act quickly when a suitable deal arises."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if you're hoping for thirty or even forty percent discount for a really good property, you cannot behave like a casual buyer. You are a distress deal hunter. Your weapon is preparation, your advantage is emotional control.",
+            "unit_id": "u000034"
+          }
+        ],
+        "text": "To successfully buy 'distressed deals' in Dubai, one should not act like a casual buyer but like a 'distress deal hunter,' focusing on preparation and emotional control."
+      },
+      "title": "Property Buying Strategy",
+      "topic": "real_estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000035"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if you treat Dubai real estate as a business, understand the seller psychology and structure serious offers instead of, you know, WhatsApping messages,",
+            "unit_id": "u000035"
+          }
+        ],
+        "text": "Treat Dubai real estate as a business by understanding seller psychology and structuring serious offers, rather than relying on messaging platforms like WhatsApp."
+      },
+      "title": "Understanding Seller Psychology",
+      "topic": "real_estate"
+    }
+  ]
+}

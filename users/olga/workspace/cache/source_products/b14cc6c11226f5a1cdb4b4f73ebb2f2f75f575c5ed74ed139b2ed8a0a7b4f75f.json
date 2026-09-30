@@ -1,0 +1,168 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000033"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "No one can be a specialist in every single area of Dubai.",
+            "unit_id": "u000033"
+          }
+        ],
+        "text": "An agent faces the challenge of competing with specialists in different areas of Dubai."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "Your way out is honesty. Don't pretend to know every area. Build a network of top agents instead and turn that network into a hidden competitive advantage.",
+            "unit_id": "u000033"
+          }
+        ],
+        "text": "Be honest about your area of specialization and leverage a network of top agents for other areas."
+      },
+      "title": "Honesty About Area Specialization",
+      "topic": "real estate strategy"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000031"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "No one can be a specialist in every single area of Dubai. And I'm not going to pretend I am Mr. Client. My core area is Dubai Marina. For everything else, I work with a top specialist in each area.",
+            "unit_id": "u000031"
+          }
+        ],
+        "text": "The speaker uses a direct statement to acknowledge their specialization limits and their reliance on a network of specialists for other areas."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Script for Dealing with Area Specialization",
+      "topic": "real estate strategy"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000028"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "And he stops seeing you as just another broker and starts seeing you as irreplaceable to selling his property.",
+            "unit_id": "u000028"
+          }
+        ],
+        "text": "To be seen as irreplaceable in selling a property."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "It's a breakdown of exactly whom he is competing against the other sellers with the same property, the prices, videos, photos, then send him every week activity reports, viewings, offers, how the interest is moving.",
+            "unit_id": "u000028"
+          }
+        ],
+        "text": "Provide sellers with weekly activity reports on competing properties, viewings, offers, and interest movements to become an irreplaceable broker."
+      },
+      "title": "Seller Activity Report Method",
+      "topic": "real estate strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000029"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "He needs a clear reason and idea. a clear deadline, the end of the tenancy or his own unit just got sold.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "To understand the buyer's motivation and decision."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Your job isn't to show him the option. It's to help him understand his own motivation and his own decision.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "Help buyers understand their own motivation and reasons for buying, rather than just presenting options."
+      },
+      "title": "Buyer Motivation Analysis Method",
+      "topic": "real estate strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000030",
+        "u000031"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you need a strong network of sellers agent across different areas. Those who hold real stock, who know you and whom you trust.",
+            "unit_id": "u000030"
+          },
+          {
+            "quote": "For everything else, I work with a top specialist in each area, people with the strongest listing and the deepest local knowledge.",
+            "unit_id": "u000031"
+          }
+        ],
+        "text": "Build a network of specialist agents in various areas of Dubai to strengthen your position as a buyer's agent."
+      },
+      "title": "Building a Specialist Network",
+      "topic": "real estate strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000034"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "How do you actually generate leads in Dubai when there is no expired listings, no for sale by owners, no Zillow leads, and cold calling and door knocking is illegal?",
+            "unit_id": "u000034"
+          }
+        ],
+        "text": "Generating leads in Dubai is challenging due to the lack of expired listings, for sale by owners, and the illegality of cold calling and door knocking."
+      },
+      "title": "Lead Generation Challenges in Dubai",
+      "topic": "real estate strategy"
+    }
+  ]
+}

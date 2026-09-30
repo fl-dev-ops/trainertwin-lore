@@ -1,0 +1,116 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "First comes denial. Then anger, bargaining, depression, and finally acceptance.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author introduces the concept of losing the future, which feels like grief, structured by listing the stages of grief: denial, anger, bargaining, depression, and acceptance."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Grief and Future Loss Explanation",
+      "topic": "Emotional Impact"
+    },
+    {
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "For Agents - if you want to keep selling - I will help you Join the agency where I'm already coaching the team and If you are an Agency Owner and you want to use it to build one of the strongest teams in the market, DM me, I'll share my High-Performance program.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The author uses a direct call-to-action, inviting agents and agency owners to join their training programs, creating a sense of immediacy and potential success."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Training Opportunity Call-to-Action",
+      "topic": "Training Opportunity"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The hardest part is that we all LOST OUR FUTURE… And this kind of loss is real. It feels like grief. First comes denial. Then anger, bargaining, depression, and finally acceptance.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The loss of our future feels like grief and follows stages similar to the stages of grief: denial, anger, bargaining, depression, and acceptance."
+      },
+      "title": "Stages of Grief Analogy",
+      "topic": "Emotional Impact"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "For Agents - if you want to keep selling - I will help you Join the agency where I'm already coaching the team and If you are an Agency Owner and you want to use it to build one of the strongest teams in the market, DM me, I'll share my High-Performance program.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "For agents wanting to keep selling, there is an opportunity to join an agency where the author is currently coaching a team. For agency owners who want to build a strong team, the author offers to share a High-Performance program upon request."
+      },
+      "title": "Real Estate Training Offering",
+      "topic": "Training Opportunity"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "At the end of January, I submitted my resignation, and 28 February was my last day as Head of Learning & Development. I knew one thing - my own direction had to change. My Live It Up - Real Estate Training Academy needed my full attention.",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "I have seen what happens when confidence disappears, old strategies stop working, and the market tests people. 2009 in Kiev, Ukraine - where I was a Head of sales of Real Estate Developer - we had a financial system collapse, accounts were frozen by the government for a whole year. 2018 in Dubai - When the market was slowing down...",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The author resigned as Head of Learning & Development to focus on their real estate training academy despite market difficulties, highlighting past experiences with difficult economic cycles in 2009 and 2018."
+      },
+      "title": "Personal Experience and Economy",
+      "topic": "Self-Report"
+    }
+  ]
+}

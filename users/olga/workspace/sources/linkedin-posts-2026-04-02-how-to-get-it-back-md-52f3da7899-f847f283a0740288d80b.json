@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "d80cfd049f4bf15608aa0a871ab5486cf617b34cc869450f810c012423aa3d8c",
+  "date": "2026-04-02T05:01:33.628000Z",
+  "date_basis": "source",
+  "external_id": "7445334588928868352",
+  "format": "post",
+  "id": "linkedin-posts-2026-04-02-how-to-get-it-back-md-52f3da7899",
+  "metadata_hash": "cc7c3d1f07b4d5d294b7c99db7a359fec87cfd69f63ebc508742d8ec2ea10faa",
+  "original_text": "---\nid: '7445334588928868352'\ndate: '2026-04-02T05:01:33.628Z'\nurl: https://www.linkedin.com/posts/olgasi_how-to-get-it-back-first-step-is-to-accept-activity-7445334588928868352-fjnH\nlikes: 20\ncomments: 2\nvideoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFqB32NISriWg/mp4-720p-30fp-crf28/B4DZ1MkURTHwCI-/0/1775106088095?e=1791298800&v=beta&t=Sv0Vc9u5DM1hmgxCMnANAKIToXnVU2KNzjr6_hK2bwk\n---\n\nHow to get it back?\nFirst Step is To Accept and Ask Yourself a Question\n\n## Comments (2)\n\n### Mido Hasan (Founder & CEO at Oriential | Making businesses easier to understand, trust, and choose)\n> I can't agree more!\n> I've had to go through all this; it's painful, but it actually shaped me and helped me realize my real strength and focus on it.\n> \n> Thanks for the advice, Olga, it's valuable!\n\n### aamir sam (Videographer , filmmaker , video editor)\n> You right mam\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-04-02-how-to-get-it-back-md-52f3da7899:p000001",
+      "locator": "lines 10-11",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "How to get it back?\nFirst Step is To Accept and Ask Yourself a Question"
+    }
+  ],
+  "path": "linkedin/posts/2026-04-02-how-to-get-it-back.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-04-02-how-to-get-it-back.md",
+  "sha256": "8c8e0cc38aa5bffc78a8d90bca4e2385024b7c5a8409fe4ed64020c4fbc78fea",
+  "speakers": {},
+  "title": "How to get it back?",
+  "units": [
+    {
+      "end": 71,
+      "id": "linkedin-posts-2026-04-02-how-to-get-it-back-md-52f3da7899:u000001",
+      "locator": "lines 10-11",
+      "passage_id": "linkedin-posts-2026-04-02-how-to-get-it-back-md-52f3da7899:p000001",
+      "raw_text": "How to get it back?\nFirst Step is To Accept and Ask Yourself a Question",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "How to get it back? First Step is To Accept and Ask Yourself a Question"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_how-to-get-it-back-first-step-is-to-accept-activity-7445334588928868352-fjnH"
+}

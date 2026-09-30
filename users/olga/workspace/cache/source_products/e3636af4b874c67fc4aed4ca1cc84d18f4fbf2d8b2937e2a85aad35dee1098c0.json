@@ -1,0 +1,73 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Phase one, recovery. From late twenty eleven, the confidence crept back. Prices ticked up.",
+            "unit_id": "u000002"
+          },
+          {
+            "quote": "Phase two, expansion. Dubai won Expo in November twenty thirteen, and the market cut fire, sixty one percent growth under two years.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The explanation of market phases is structured into distinct stages: recovery, expansion, and hyper supply."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Explaining Market Phases",
+      "topic": "Economic Patterns"
+    },
+    {
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Supply always arrives late to the party.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Uses the metaphor 'supply always arrives late to the party' to describe the timing of market supply relative to demand."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Hyper Supply Explanation",
+      "topic": "Economic Patterns"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Developers launch when the prices are booming, but the tower takes three or four years. So everything launched in A4 year of 2013 delivered in a cool down market of two thousand sixteen, seventeen, eighteen.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "Developers launch projects when prices are booming, resulting in a late supply that arrives during market cool down phases."
+      },
+      "title": "Understanding Market Crashes",
+      "topic": "Economic Patterns"
+    }
+  ]
+}

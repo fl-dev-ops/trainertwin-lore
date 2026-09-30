@@ -1,0 +1,290 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000005",
+        "u000006",
+        "u000008",
+        "u000009"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "I have close to ten years of IT industry experience. My core skills are content development, I build mobile and web application, reactive native React JS, native Android, native iOS, Angular, Ionic, these have been my core skills.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Vasanth shares details about his IT industry experience, skills, and current role at Walmart Global Tech."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "So let's start by my introduction and then followed by we have cohort introduction, few call outs and everything.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "Vasanth introduces himself and outlines his professional background and experience related to the cohort."
+      },
+      "speaker_id": "4",
+      "strategy": null,
+      "title": "Vasanth's Introduction and Cohort Details",
+      "topic": "Cohort"
+    },
+    {
+      "context_unit_ids": [
+        "u000018"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "I would I would request you basically to raise your hand and I give a meaningful pauses in middle of the session",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "Vasanth requests participants to raise their hand and wait for pauses to ask questions."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "in the middle of the session also. Let's say you while I'm explaining something you have a doubt.",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "Vasanth explains the process for asking questions and participating during the cohort sessions."
+      },
+      "speaker_id": "4",
+      "strategy": null,
+      "title": "Cohort Interaction Guidelines",
+      "topic": "Cohort"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "roughly the session duration is around two hours.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The session is structured with a defined duration, introduction, concept discussion, and quiz."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "how this session is going to be as you all know roughly the session duration is around two hours.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "To guide the participants through the session flow and manage time effectively."
+      },
+      "speaker_id": "4",
+      "title": "Session Structure",
+      "topic": "Cohort"
+    },
+    {
+      "context_unit_ids": [
+        "u000017"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "these are the tools that we'll be using.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "Vasanth describes the tools and platforms using words like 'Google Suite', 'Discord', and 'Notion' for different cohort activities."
+      },
+      "purpose": null,
+      "speaker_id": "4",
+      "title": "Cohort Tools and Plan Wording",
+      "topic": "Cohort"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "As at the session one there is one chance if you still want to be part of the cohort we have like around five slots left",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Vasanth offers a cohort program with around five slots available."
+      },
+      "title": "Cohort Availability",
+      "topic": "Cohort"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "there's a concept for the today will be like JavaScript execution context and the runtime environment we'll be covering that",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "To introduce the cohort and cover JavaScript execution context and runtime environment."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "we will spend around fifteen twenty minutes about introduction of the cohort",
+              "unit_id": "u000003"
+            }
+          ],
+          "text": "Spend 15-20 minutes on the introduction of the cohort and participants."
+        },
+        {
+          "citations": [
+            {
+              "quote": "the concept for the today will be like JavaScript execution context and the runtime environment we'll be covering that",
+              "unit_id": "u000003"
+            }
+          ],
+          "text": "Cover the concept of JavaScript execution context and runtime environment."
+        },
+        {
+          "citations": [
+            {
+              "quote": "In middle of the session there's going to be one quiz and after the session you will be shared with a few questions as well.",
+              "unit_id": "u000003"
+            }
+          ],
+          "text": "Conduct a quiz during the session."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "roughly the session duration is around two hours. So to begin with what we are going to do is we will spend around fifteen twenty minutes about introduction of the cohort and about the introduction of all the participants",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The cohort session is approximately two hours long, featuring an introduction, a concept discussion on JavaScript execution context and runtime environment, and a quiz."
+      },
+      "title": "Cohort Duration and Content",
+      "topic": "Cohort"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000013"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "So extreme basics of web is not taught as a part of the court. Like I wouldn't be teaching how to you do the console.log in the in the court. Okay? And it's not a DSA heavy court",
+            "unit_id": "u000013"
+          }
+        ],
+        "text": "The cohort will not cover basic web concepts or heavy DSA topics but will focus on functionality relevant to front-end interviews."
+      },
+      "title": "Cohort Content Focus",
+      "topic": "Cohort"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000016"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "Google Sheets will be used for all the assignment sharing purposes.",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "To facilitate communication and assignment sharing within the cohort."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "we'll be connecting over Gmeet where like the one we connected for all our day-to-day connections of meetings.",
+              "unit_id": "u000017"
+            }
+          ],
+          "text": "Connect over Google Meet for meetings."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Google Sheets will be used for all the assignment sharing purposes.",
+              "unit_id": "u000017"
+            }
+          ],
+          "text": "Use Google Sheets for assignment sharing purposes."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Google Forms is used for a live quiz",
+              "unit_id": "u000017"
+            }
+          ],
+          "text": "Use Google Forms for live quizzes."
+        },
+        {
+          "citations": [
+            {
+              "quote": "I'm going to create a Discord channel today and in fact channel is created but I haven't invited anyone.",
+              "unit_id": "u000017"
+            }
+          ],
+          "text": "Utilize Discord for group announcements and discussions."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "we'll be connecting over Gmeet where like the one we connected for all our day-to-day connections of meetings. Google Sheets will be used for all the assignment sharing purposes. Google Forms is used for a live quiz",
+            "unit_id": "u000017"
+          }
+        ],
+        "text": "The cohort uses Google Suite, Discord for announcements, and Notion for session content."
+      },
+      "title": "Cohort Tools",
+      "topic": "Cohort"
+    }
+  ]
+}

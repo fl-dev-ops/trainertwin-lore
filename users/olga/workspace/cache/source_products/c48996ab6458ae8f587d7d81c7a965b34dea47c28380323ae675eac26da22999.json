@@ -1,0 +1,199 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000004",
+        "u000005",
+        "u000006"
+      ],
+      "cue": null,
+      "diagnosis": {
+        "citations": [
+          {
+            "quote": "the developer is new, is actually the first residential project for him, and before he was building warehouses.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Although located in a good area on paper, the properties were affected by developer issues and delays."
+      },
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Apple came to me for a consultation around nine months ago. They had a portfolio of three units in Dubai.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Apple consulted about a property portfolio in Dubai that was underperforming."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Apple's consultation experience",
+      "topic": "investment mistakes"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Every developer presentation promises future demand, high ROI, limited supply, and a strong capital appreciation.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker structures the presentation by first challenging common investment advice, then reframing Dubai's city layout as a 'money map'."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Investment presentation structure",
+      "topic": "investment locations"
+    },
+    {
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The difference between the growth of any other world capital and Dubai is not obvious from the beginning.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker compares Dubai's multiple centers to New York's Brooklyn and Manhattan, then contrasts it with European cities' single central core."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Comparison of city growth patterns",
+      "topic": "urban growth patterns"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "let me show you the Dubai map, the way I see it, not as a list of areas, but as a money map.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Location is crucial when investing in Dubai real estate. Understanding a 'money map' is more important than simply focusing on city center or waterfront properties."
+      },
+      "title": "Importance of location",
+      "topic": "investment locations"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Dubai doesn't work like that.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Dubai's growth pattern is different from other world capitals, which usually expand from a historical core. Instead, Dubai creates multiple new centers with government planning."
+      },
+      "title": "Growth comparison with other cities",
+      "topic": "urban growth patterns"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "One of the simplest ways to start understanding Dubai, past, current, and future demand is through its main roads.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "A mistake in Dubai real estate investment is often due to a weak strategy rather than the area itself. Understanding main roads and future metro lines can help."
+      },
+      "title": "Strategy in good areas",
+      "topic": "investment strategies"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000016"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "you renovate it, you rebuild it, and then you sell it with profit.",
+            "unit_id": "u000016"
+          }
+        ],
+        "text": "Flip older properties for profit."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "buy an older property, you renovate it, you rebuild it, and then you sell it with profit.",
+            "unit_id": "u000016"
+          }
+        ],
+        "text": "In Dubai, flipping involves buying, renovating, and selling older properties for profit. This differs from buying off-plan and reselling before completion."
+      },
+      "title": "Flipping properties",
+      "topic": "property flipping"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000019"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you will have of only rental income. The price appreciation will be completely minimal.",
+            "unit_id": "u000019"
+          }
+        ],
+        "text": "Investing in older buildings in Dubai Marina might not yield high price appreciation but can provide steady rental income."
+      },
+      "title": "Investment in older buildings",
+      "topic": "investment strategies"
+    }
+  ]
+}

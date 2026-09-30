@@ -1,0 +1,12 @@
+{
+  "files": {
+    "analysis.md": "d7daabc2cb78977d92a98504db6c8db546b30d54b962c3be4d7c170ddc616298",
+    "timeline.md": "735cfed1d5fddc6885457155187d9342717165bb3bc4f94c2b76fd9daaa64040"
+  },
+  "inputs": {
+    "evidence": "aaa27b0a0b8b83a9dc2a60cd9f25dfaba6a6b0e0864ace8708381afd0d69467c",
+    "twin": "b091911b27a2edb82861df651b2bdcc643dd45ccf1bc9ec1fd74e19665616b07",
+    "wiki": "5b6e1ef20bac3829e82060588c997ac25c077f0bfd5b992b410d7abe0b15ec92"
+  },
+  "version": "4"
+}

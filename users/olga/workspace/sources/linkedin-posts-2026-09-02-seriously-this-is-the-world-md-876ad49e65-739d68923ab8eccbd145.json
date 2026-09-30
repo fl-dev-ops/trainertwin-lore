@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "d07607285974c8b9f950d0aa9798c8d171a3628587d6ab7ea87259dc119df3a8",
+  "date": "2026-09-02T02:55:09.036000Z",
+  "date_basis": "source",
+  "external_id": "7500748120281161728",
+  "format": "post",
+  "id": "linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65",
+  "metadata_hash": "5b67458105f6088b78b5971efe0bdf1c2c7f491713c1d83e742216ec2cc50f4d",
+  "original_text": "---\nid: '7500748120281161728'\ndate: '2026-09-02T02:55:09.036Z'\nurl: https://www.linkedin.com/posts/olgasi_seriously-this-is-the-world-we-are-living-activity-7500748120281161728-2uV5\nlikes: 13\ncomments: 2\nimages_count: 1\n---\n\nSeriously? This is the world we are living now?\nAi generated DMs, brainless conversations…\n\nI want to start the movement of Banning this Account!\nWho is with me?\nPs. And thanks god my misspelling and autocorrect keeps me a human\n\n## Comments (2)\n\n### Zishan Khan (Real Estate Business Leader | Brokerage Build-Out, Growth & Sales Strategy | Off-Plan & Secondary Sales Leadership | Corporate Training)\n> Unfortunately banning this account or 100s of other similar accounts which you will come across won't cut it. $17 Bill was poured into exactly these products last year. The numbers have almost doubled this year. \n> When will the VCs realize that in our industry we sell 'trust'. Properties are sold as a byproduct of that trust. \n> AI calls/messages might seem convenient to some. Use it at the expense of eroding trust. The personal touch.\n\n### Kateryna Prus (Real Estate Agent | Languages: English, Ukrainian, Russian)\n> I wish people were using AI only when it's absolutely necessary! We're turning into robots...\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:p000001",
+      "locator": "lines 10-15",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Seriously? This is the world we are living now?\nAi generated DMs, brainless conversations…\n\nI want to start the movement of Banning this Account!\nWho is with me?\nPs. And thanks god my misspelling and autocorrect keeps me a human"
+    }
+  ],
+  "path": "linkedin/posts/2026-09-02-seriously-this-is-the-world.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-09-02-seriously-this-is-the-world.md",
+  "sha256": "0dd6f499bea3da88da9d097b7e8c17e90c13142eb75462c5b2d6e999d0d9f6f7",
+  "speakers": {},
+  "title": "Seriously? This is the world we are living now?",
+  "units": [
+    {
+      "end": 228,
+      "id": "linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:u000001",
+      "locator": "lines 10-15",
+      "passage_id": "linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:p000001",
+      "raw_text": "Seriously? This is the world we are living now?\nAi generated DMs, brainless conversations…\n\nI want to start the movement of Banning this Account!\nWho is with me?\nPs. And thanks god my misspelling and autocorrect keeps me a human",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Seriously? This is the world we are living now? Ai generated DMs, brainless conversations… I want to start the movement of Banning this Account! Who is with me? Ps. And thanks god my misspelling and autocorrect keeps me a human"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_seriously-this-is-the-world-we-are-living-activity-7500748120281161728-2uV5"
+}

@@ -1,0 +1,225 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000085"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "Now what interviewers ask is, let's say there are ten different JS files, one dot JS, two dot JS, three dot JS to ten dot JS, correct? So now one dot JS is calling nine dot JS, nine dot JS is calling two dot JS, a lot of this internally they are calling each other.",
+            "unit_id": "u000085"
+          }
+        ],
+        "text": "Interviewers ask about global execution contexts in a scenario involving multiple JavaScript files calling each other."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "JavaScript Concept in Interview",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000089"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "illustration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "But the good example of closure is actually in React if you see, there is a parent child component. You are passing props to the child component and from the child component you are able to invoke the parent component function.",
+            "unit_id": "u000089"
+          }
+        ],
+        "text": "While closures are often exemplified using counter increment examples, a more practical use is in React, where a child component is able to invoke the parent component function."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Example of Using Closure in React",
+      "topic": "JavaScript"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000084"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So there is a very simple analogy is that like a box.",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "Vasanth uses an analogy of a box to explain the concept of execution context in JavaScript, making it relatable and easier to visualize."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "Most of you here would know what is execution context.",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "To simplify the understanding of execution context for the audience."
+      },
+      "speaker_id": "2",
+      "title": "Analogical Explanation of Execution Context",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000090",
+        "u000091",
+        "u000093"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Now there are three ways to primarily prepare for a good interview.",
+            "unit_id": "u000090"
+          },
+          {
+            "quote": "One is a self study. Self study is something that is very suitable.",
+            "unit_id": "u000091"
+          },
+          {
+            "quote": "The cohort is a third way to prepare where you have lot of like minded people like you who creates a very good study environment",
+            "unit_id": "u000093"
+          }
+        ],
+        "text": "Vasanth outlines three methods of interview preparation in a sequential manner: self-study, mentor-led preparation, and cohort-based learning, detailing each approach's pros and cons."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Interview Preparation Options Explored",
+      "topic": "interview preparation"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000083"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "There is a pattern in your interview preparation where you repeatedly get topics which you have not studied.",
+            "unit_id": "u000083"
+          }
+        ],
+        "text": "It is common for interviewees to encounter topics they haven't studied or questions that present familiar topics from an unfamiliar perspective."
+      },
+      "title": "Interview Preparation Challenges",
+      "topic": "interview preparation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000084"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "Every time whenever you want to execute a code, you wrap it an execution context created, a memory created for that",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "To understand how execution contexts work in JavaScript."
+      },
+      "kind": "method",
+      "prerequisites": [
+        {
+          "citations": [
+            {
+              "quote": "Most of you here would know what is execution context.",
+              "unit_id": "u000084"
+            }
+          ],
+          "text": "Basic understanding of JavaScript execution contexts."
+        }
+      ],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "So there is a very simple analogy is that like a box.",
+              "unit_id": "u000084"
+            }
+          ],
+          "text": "Recognize the analogy of execution context like a box."
+        },
+        {
+          "citations": [
+            {
+              "quote": "Every time whenever you want to execute a code, you wrap it an execution context created",
+              "unit_id": "u000084"
+            }
+          ],
+          "text": "Create an execution context when executing code."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "There'll be two execution context. One is a global execution context, another one is a local execution context.",
+            "unit_id": "u000084"
+          }
+        ],
+        "text": "JavaScript execution contexts include a global execution context and local execution contexts for functions."
+      },
+      "title": "JavaScript Execution Contexts",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000090",
+        "u000091",
+        "u000093"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Now there are three ways to primarily prepare for a good interview.",
+            "unit_id": "u000090"
+          },
+          {
+            "quote": "One is a self study. Self study is something that is very suitable.",
+            "unit_id": "u000091"
+          },
+          {
+            "quote": "The cohort is a third way to prepare where you have lot of like minded people like you who creates a very good study environment",
+            "unit_id": "u000093"
+          }
+        ],
+        "text": "There are three primary ways to prepare for interviews: self-study, mentor-led preparation, and cohort-based learning."
+      },
+      "title": "Interview Preparation Strategies",
+      "topic": "interview preparation"
+    }
+  ]
+}

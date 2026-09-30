@@ -1,0 +1,119 @@
+{
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-9448d418f0471e17",
+          "quote": "First comes denial. Then anger, bargaining, depression, and finally acceptance.",
+          "unit_id": "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The author introduces the concept of losing the future, which feels like grief, structured by listing the stages of grief: denial, anger, bargaining, depression, and acceptance.",
+      "proposed_adaptation": {
+        "action": "Reuse the stages of grief structure to explain complex emotional responses to broad audiences.",
+        "limits": "Do not assume stages apply universally or replace with professional psychological counsel when needed.",
+        "when": "Elaborating psychological impacts in educational content."
+      },
+      "qualification": "Single authored post without independent corroboration.",
+      "scope": "linkedin",
+      "situation": "An authored LinkedIn post exploring future loss using the stages of grief as an explanatory structure.",
+      "support_ids": [
+        "ex-9448d418f0471e17"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-d8686d9fcc5d9637",
+          "quote": "For Agents - if you want to keep selling - I will help you Join the agency where I'm already coaching the team and If you are an Agency Owner and you want to use it to build one of the strongest teams in the market, DM me, I'll share my High-Performance program.",
+          "unit_id": "linkedin-posts-2026-04-03-do-you-know-what-really-md-6f879e816b:u000004"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The author uses a direct call-to-action, inviting agents and agency owners to join their training programs, creating a sense of immediacy and potential success.",
+      "proposed_adaptation": {
+        "action": "Employ bold calls-to-action that highlight immediate participation and benefits.",
+        "limits": "Effectiveness depends on audience's trust and readiness; avoid over-promising results.",
+        "when": "Promoting exclusive learning opportunities."
+      },
+      "qualification": "Single use in a promotional context; no follow-up performance data.",
+      "scope": "linkedin",
+      "situation": "An authored LinkedIn post promoting training programs with urgency and opportunity emphasis.",
+      "support_ids": [
+        "ex-d8686d9fcc5d9637"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-5da05c2ce661a506",
+          "quote": "would be your most valuable skill!",
+          "unit_id": "linkedin-posts-2026-09-09-despite-all-whats-happening-joining-md-567391fca8:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The statement emphasizes the importance of a skill by stating it directly as 'your most valuable skill!' without additional evidence.",
+      "proposed_adaptation": {
+        "action": "Use direct assertions to align with cultural priorities when backed by sufficient context.",
+        "limits": "Dependent on context relevance and alignment with audience experience; should not stand alone in skill validation.",
+        "when": "Discussing skill prioritization in training content."
+      },
+      "qualification": "Assertion without data or elaboration.",
+      "scope": "linkedin",
+      "situation": "A LinkedIn post discussing the value of real estate communication skills under pressure.",
+      "support_ids": [
+        "ex-5da05c2ce661a506"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-4854c83567efca59",
+          "quote": "How you Should Change your Strategy Now to Make it?",
+          "unit_id": "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The author uses a question format for the title, directly addressing the reader.",
+      "proposed_adaptation": {
+        "action": "Frame titles as questions to prompt reader consideration and participation.",
+        "limits": "Questions should connect with substantive content to maintain engagement and trust.",
+        "when": "Engaging with readers on strategy-related topics."
+      },
+      "qualification": "Limited to title engagement strategy without follow-up content analysis.",
+      "scope": "linkedin",
+      "situation": "A LinkedIn post that uses a rhetorical question to engage readers about strategic change.",
+      "support_ids": [
+        "ex-4854c83567efca59"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-1623fdb2cb4115c6",
+          "quote": "And !!! For Tony to Cement that into your Head - you have to Jump like crazy! Dance! Scream! Walk on Fire 🔥… for 4 days…",
+          "unit_id": "linkedin-posts-2026-09-08-how-do-you-change-your-md-d280ed8cdd:u000003"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The author lists extreme activities undertaken during Tony Robbins' events to make a point about their intensity and purpose.",
+      "proposed_adaptation": {
+        "action": "Use vivid, extreme activity descriptions to captivate an audience or potential participants.",
+        "limits": "May not translate to all audiences or imply specific outcomes; contextual translation needed.",
+        "when": "Describing high-intensity learning experiences."
+      },
+      "qualification": "Rhetorical list without third-party validation of impact.",
+      "scope": "linkedin",
+      "situation": "Describing an experience at a personal development event, highlighting intense activities to underscore the point.",
+      "support_ids": [
+        "ex-1623fdb2cb4115c6"
+      ]
+    }
+  ]
+}

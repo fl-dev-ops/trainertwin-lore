@@ -1,0 +1,184 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000009",
+        "u000011"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "what is the last innovation that human could ever make?",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "The speaker uses rhetorical questions to prompt the audience to think about what the last innovation that humans could ever make might be."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Rhetorical Question",
+      "topic": "human innovation"
+    },
+    {
+      "context_unit_ids": [
+        "u000018"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "tigers have been tigers for last thousands of years... But human is not been the same human for last few years",
+            "unit_id": "u000018"
+          }
+        ],
+        "text": "The speaker contrasts the development of humans with animals like tigers and elephants, emphasizing the unique progress of humanity compared to other species."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Contrasting Human and Animal Capabilities",
+      "topic": "human innovation"
+    },
+    {
+      "context_unit_ids": [
+        "u000024",
+        "u000025"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "If you ask me I think there is no layoff that has happened so far with this one to one sort of a thing",
+            "unit_id": "u000024"
+          },
+          {
+            "quote": "I think AI is really started already taking over the job.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "The speaker expresses belief through the repeated use of 'I think' and 'I believe', indicating a personal conviction about AI's impact on jobs."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Expressing Belief",
+      "topic": "AI and jobs"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002",
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "where I help them to basically upskill and change the job.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "To help mentees upskill and change their jobs."
+      },
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Some of my mentees are there on the call as well. So where I help them to basically upskill and change the job. I've been a fairly successful mentor in terms of the job opportunities.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker mentors people primarily with the intention of job change and has mentored over fifty people in the last two and a half years."
+      },
+      "title": "Mentorship Offering",
+      "topic": "mentorship"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "train them for the front end interview preparation.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "To prepare individuals for front end interviews."
+      },
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "personally screening them and forming a small group of people and train them for the front end interview preparation.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker runs cohorts to train people for front end interview preparation, screening personally and forming a small group of like-minded people."
+      },
+      "title": "Cohort Information",
+      "topic": "cohort"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000023",
+        "u000024",
+        "u000025"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there is no layoff that has happened so far with this one to one sort of a thing where there was a human doing something suddenly AI came and replaced that work",
+            "unit_id": "u000024"
+          },
+          {
+            "quote": "Any big company if if you speak at this point in time is expecting at least that developer to be thirty percent more productive than the year before.",
+            "unit_id": "u000025"
+          }
+        ],
+        "text": "The speaker believes that while there is no direct one-to-one replacement of humans by AI in jobs, AI has started taking over roles by increasing productivity expectations, leading to situations where 30% more productivity is expected without new hires or backfills."
+      },
+      "title": "AI and Job Replacement Views",
+      "topic": "AI and jobs"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000028",
+        "u000029",
+        "u000031"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But at least for next two to three years, I don't think the AI will be able to do the things end to end.",
+            "unit_id": "u000031"
+          }
+        ],
+        "text": "The speaker believes that front end development will not be dead in the AI era for the next two to three years, as AI will not be capable of handling all development tasks end-to-end in that timeline."
+      },
+      "title": "Front End Development Future",
+      "topic": "front end development"
+    }
+  ]
+}

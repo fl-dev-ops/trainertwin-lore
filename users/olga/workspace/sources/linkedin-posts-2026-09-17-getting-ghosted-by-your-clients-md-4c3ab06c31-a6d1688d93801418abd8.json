@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "ef9efac158af0c097134f8473d8908e55ab8172f606f499798764d1e492318fc",
+  "date": "2026-09-17T12:13:05.631000Z",
+  "date_basis": "source",
+  "external_id": "7506324349281411072",
+  "format": "post",
+  "id": "linkedin-posts-2026-09-17-getting-ghosted-by-your-clients-md-4c3ab06c31",
+  "metadata_hash": "dec8dcd74d61acb8be389395bc236655d5849b2bab42f56c9cc886705cf70dbe",
+  "original_text": "---\nid: '7506324349281411072'\ndate: '2026-09-17T12:13:05.631Z'\nurl: https://www.linkedin.com/posts/olgasi_getting-ghosted-by-your-clients-here-is-activity-7506324349281411072-ESIY\nlikes: 7\ncomments: 4\nimages_count: 1\n---\n\nGetting Ghosted by your Clients?… Here is what you should Do!\n\n1. Stop sending Listings and Fact sheets!\n2. Ask …. Have you found what you were looking for or…. You are still looking ?\n\nWorks every time! Magic\n\n## Comments (2)\n\n### Anwesha Bose (Founder & CEO, BlueMint | Personal branding & brand strategy for founders & C-Suite in UK, USA, UAE | AI visibility / GEO | ex-AglaSem, 25M MPV)\n> Hey Olga Sinenko. Are you the same one who does videos with Ashley? Apologies if i am mistaken.\n\n### Vlad Ivankov (Entrepreneur. Rethinking how companies get built in the AI era.)\n> That’s cool. That’s the good one 👍\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-09-17-getting-ghosted-by-your-clients-md-4c3ab06c31:p000001",
+      "locator": "lines 10-15",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Getting Ghosted by your Clients?… Here is what you should Do!\n\n1. Stop sending Listings and Fact sheets!\n2. Ask …. Have you found what you were looking for or…. You are still looking ?\n\nWorks every time! Magic"
+    }
+  ],
+  "path": "linkedin/posts/2026-09-17-getting-ghosted-by-your-clients.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-09-17-getting-ghosted-by-your-clients.md",
+  "sha256": "fe4db5609cb2e3ee673dfdcb451ac20805991865a2eeaad7bb67ee879258a207",
+  "speakers": {},
+  "title": "Getting Ghosted by your Clients?… Here is what you should Do!",
+  "units": [
+    {
+      "end": 209,
+      "id": "linkedin-posts-2026-09-17-getting-ghosted-by-your-clients-md-4c3ab06c31:u000001",
+      "locator": "lines 10-15",
+      "passage_id": "linkedin-posts-2026-09-17-getting-ghosted-by-your-clients-md-4c3ab06c31:p000001",
+      "raw_text": "Getting Ghosted by your Clients?… Here is what you should Do!\n\n1. Stop sending Listings and Fact sheets!\n2. Ask …. Have you found what you were looking for or…. You are still looking ?\n\nWorks every time! Magic",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Getting Ghosted by your Clients?… Here is what you should Do! 1. Stop sending Listings and Fact sheets! 2. Ask …. Have you found what you were looking for or…. You are still looking ? Works every time! Magic"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_getting-ghosted-by-your-clients-here-is-activity-7506324349281411072-ESIY"
+}

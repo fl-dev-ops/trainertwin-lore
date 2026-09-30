@@ -1,0 +1,901 @@
+{
+  "adaptations_status": "proposed_not_observed",
+  "config": {
+    "authors": [
+      "careerwithvasanth",
+      "vasanth"
+    ],
+    "max_chars": 60000,
+    "max_sources": 12,
+    "model": "openai/gpt-4o",
+    "reviewed_only": false
+  },
+  "coverage": {
+    "active_records": 414,
+    "active_sources": 14,
+    "duplicate_publications_omitted": 0,
+    "eligible_sources": 14,
+    "excluded_records": {
+      "attribution_unknown_or_other": 51
+    },
+    "policy": "All eligible case/expression records from date/channel-balanced, content-deduplicated publications",
+    "selected_by_channel": {
+      "linkedin": 2,
+      "youtube": 10
+    },
+    "selected_dates": [
+      "2025-01-03",
+      "2025-01-18",
+      "2025-01-25",
+      "2025-02-01",
+      "2025-02-08",
+      "2025-03-05",
+      "2025-03-22",
+      "2026-01-13",
+      "2026-05-31",
+      "2026-06-09",
+      "2026-09-28T05:40:21.724000Z",
+      "2026-09-29T05:23:25.775000Z"
+    ],
+    "selected_examples": 111,
+    "selected_sources": 12,
+    "source_limit_omitted": 2,
+    "warning": "Counts describe selected evidence, not persona confidence or extraction recall"
+  },
+  "observation_review": "unreviewed",
+  "patterns": [
+    {
+      "citations": [
+        {
+          "example_id": "ex-1ca5889a105bafae",
+          "quote": "If the kid has not decided what to pursue and not having passion on any one stream then do engineering.",
+          "unit_id": "linkedin-posts-2026-09-28-when-family-and-friends-ask-md-9101e697a0:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "If undecided and no passion for a specific stream, pursue engineering, as engineers will still be needed in the future.",
+      "proposed_adaptation": {
+        "action": "Suggest pursuing a general degree like engineering to keep future options open when specific interests are not developed.",
+        "limits": "Not suitable for students with strong interests or in non-generalist career fields.",
+        "when": "advising students who are undecided about their career choices"
+      },
+      "qualification": "No independent validation of strategy effectiveness; single expression case.",
+      "scope": "linkedin",
+      "situation": "Family and friends ask for suggestions on what to pursue after 12th grade.",
+      "support_ids": [
+        "ex-1ca5889a105bafae"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-6f536a88fe30f5f1",
+          "quote": "First thing to study is fundamentals of JavaScript. Because without fundamentals of JavaScript, whether you pick React, Angular, Vue or any other framework, Node.js or any other framework, you're not gonna master it.",
+          "unit_id": "youtube-video-2025-01-03-master-frontend-development-in-2025-a-complete-roadmap-bfdva-7c1566cce2:u000005"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth emphasizes the importance of understanding JavaScript fundamentals before exploring frameworks like React, Angular, or Vue.",
+      "proposed_adaptation": {
+        "action": "Emphasize the importance of mastering fundamental concepts before tackling more complex topics or technologies.",
+        "limits": "Content specific to JavaScript and web development contexts; may not transfer to other fields.",
+        "when": "Teaching foundational programming skills"
+      },
+      "qualification": "This expression only reflects the speaker's perspective; not universally validated.",
+      "scope": "youtube",
+      "situation": "Vasanth gives advice about studying JavaScript for frontend development.",
+      "support_ids": [
+        "ex-6f536a88fe30f5f1"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-241440141c5b97e6",
+          "quote": "Okay, your question, thank you. So, yeah, I think if you want to raise your hand, I think there is this react tab... you can raise your hand and I'll be notified actually, whoever is raising hand. Yeah, see Param raised the hand now. Yeah, Param, you want to say something?",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000030"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "interaction",
+      "observation": "The trainer used the \"raise hand\" feature to identify and respond to participant questions, acknowledging the raised hand and seeking confirmation before the participant spoke.",
+      "proposed_adaptation": {
+        "action": "Incorporate a hand-raising tool to manage and organize participant questions during live sessions.",
+        "limits": "Not adaptable for platforms without reaction features or for exceptionally large audiences.",
+        "when": "Video conferencing or online workshops with suitable technology."
+      },
+      "qualification": "Single recorded case; relies on functionality that may vary by platform.",
+      "scope": "youtube",
+      "situation": "During a live YouTube session, a participant raised a question about covering AI rounds in front-end engineering interviews.",
+      "support_ids": [
+        "ex-241440141c5b97e6"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-47f313c54ae6f894",
+          "quote": "let's avoid the arguments in the session... please respect my voice like if anything that we need to discuss more we can just take it at the end",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000022"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker instructed participants to avoid arguments during the session, suggesting discussions take place at the end instead.",
+      "proposed_adaptation": {
+        "action": "Communicate a clear guideline to defer debates or expansive discussions to the end of the session.",
+        "limits": "May not suit environments that encourage spontaneous debate throughout.",
+        "when": "In any structured teaching environment where time management is crucial."
+      },
+      "qualification": "Only observed in one session; actual impact on session dynamics is unknown.",
+      "scope": "youtube",
+      "situation": "In a YouTube session, the trainer addressed the potential for arguments during the workshop.",
+      "support_ids": [
+        "ex-47f313c54ae6f894"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-5a6e6fe6ce687a4b",
+          "quote": "divide them into three parts. A definition, a bookish example and a practical example",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000042"
+        },
+        {
+          "example_id": "ex-5a6e6fe6ce687a4b",
+          "quote": "Explain a concept with definition, a bookish example and a practical example depending on the need.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000048"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Concepts are structured with a definition, bookish example, and practical example for clarity and thoroughness.",
+      "proposed_adaptation": {
+        "action": "Adopt a multi-level structure for explaining concepts: define, provide an abstract example, and relate it to real-world application.",
+        "limits": "May not apply to non-technical subjects or environments focused on rapid Q&A.",
+        "when": "In any systematic technical training or educational setting."
+      },
+      "qualification": "Pattern based on a single described method; lacks broader validation in different contexts.",
+      "scope": "youtube",
+      "situation": "Explaining JavaScript concepts in a YouTube cohort session, the trainer detailed how to structure explanations for technical concepts.",
+      "support_ids": [
+        "ex-5a6e6fe6ce687a4b"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-e05eb04776312f89",
+          "quote": "I want you to start asking more and more why to yourselves.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000058"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker urges the audience to engage in self-questioning and inquiry by asking 'why' repeatedly, using JavaScript as a template for inquiry.",
+      "proposed_adaptation": {
+        "action": "Encourage participants to ask foundational 'why' questions to deepen understanding and foster critical thinking.",
+        "limits": "May not apply where factual certainty is critical or time for exploration is limited.",
+        "when": "In learning environments aiming to encourage critical thinking."
+      },
+      "qualification": "Single context observation; impact on learning outcomes is not independently confirmed.",
+      "scope": "youtube",
+      "situation": "The speaker encouraged participants to question the material rather than accept it as presented.",
+      "support_ids": [
+        "ex-e05eb04776312f89"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-280299a6631339e8",
+          "quote": "I used to ask in interview, you can also listen to this, why call stack is actually a stack? Why can't call stack be actually linked list or why not call stack be tree?",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000092"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth uses a rhetorical question to explain why the call stack is a stack and not another data structure like a linked list or tree.",
+      "proposed_adaptation": {
+        "action": "Use rhetorical questions to provoke critical thinking about why specific data structures are used over others.",
+        "limits": "Avoid overuse where direct explanation is more suitable.",
+        "when": "Explaining data structure concepts in programming tutorials"
+      },
+      "qualification": "Self-reported in a recorded transcript. No independent observation or broader application verified.",
+      "scope": "youtube",
+      "situation": "Vasanth uses rhetorical questions during a programming lesson on YouTube to discuss the nature of call stack and different data structures.",
+      "support_ids": [
+        "ex-280299a6631339e8"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-1702d8de4662bde9",
+          "quote": "If execution happens that way, then the d will be printed first, because it's a stack, right? It's a pile of plates, one one on top of another.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000094"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Explains the concept of the call stack using the analogy of a pile of plates to demonstrate the LIFO (Last In First Out) order.",
+      "proposed_adaptation": {
+        "action": "Use relatable analogies like comparing a stack to a pile of plates to convey LIFO principles.",
+        "limits": "Not applicable for detailed algorithmic behavior requiring precise technical vocabulary.",
+        "when": "Introducing stack data structure concepts to programming students"
+      },
+      "qualification": "Limited to an individual speaker's analogy in an isolated lesson. No cross-case validation.",
+      "scope": "youtube",
+      "situation": "During a programming lecture, the speaker uses an analogy to explain the last-in-first-out behavior of the call stack in JavaScript.",
+      "support_ids": [
+        "ex-1702d8de4662bde9"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-d89f9faaf1156484",
+          "quote": "So say you have ten of those. So all ten of those would be like transferred to the call stack in the same order.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000155"
+        },
+        {
+          "example_id": "ex-d89f9faaf1156484",
+          "quote": "What Event-to does is it checks in this in this particular period how many of them are there and it'll move all of them to call stack in the same order. Okay? And get executed.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000161"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "interaction",
+      "observation": "A participant, Soumya, phrases an inquiry concerning the sequence in which events within the microtask queue are moved to the call stack, while Vasanth confirms and expands upon this understanding with technical reasoning about the event loop and its management of task execution.",
+      "proposed_adaptation": {
+        "action": "Encourage participants to voice their understanding of complex processes, then affirm or clarify with additional explanation.",
+        "limits": "Do not assume all participants will have the same technical baseline or express their misunderstandings later.",
+        "when": "conducting live coding sessions or technical explanations."
+      },
+      "qualification": "Based on a single recorded interaction with a stated participant, identity not independently authenticated.",
+      "scope": "youtube",
+      "situation": "During a JavaScript teaching session, a participant, Soumya, questions how microtask queue execution is handled with multiple tasks involved, and the instructor Vasanth responds with explanations about the event loop processing order.",
+      "support_ids": [
+        "ex-d89f9faaf1156484"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-891241398b58e269",
+          "quote": "And event loop whenever it is asked in the interview, you can explain event loop as an algorithm also and event loop as a process as well.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000229"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "Vasanth suggests explaining the event loop as both an algorithm and a process when tackling JavaScript interview questions, providing a dual perspective approach.",
+      "proposed_adaptation": {
+        "action": "Advise them to cover algorithmic aspects and process details for comprehensive technical question handling.",
+        "limits": "This approach is specific to technical concepts like the event loop, and may not be suitable for all interview topics where process is less relevant.",
+        "when": "preparing learners for technical interviews."
+      },
+      "qualification": "A teaching strategy suggestion in a recorded case context, specific to JavaScript interview settings.",
+      "scope": "youtube",
+      "situation": "An explanation on JavaScript execution is given, focusing on the event loop process and its description in interviews.",
+      "support_ids": [
+        "ex-891241398b58e269"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-eaedd4a7652a28f4",
+          "quote": "right because everything end of the day is object only in JavaScript. You can consider it as a block. Everything required to execute that block within present is within that box only. Box or block. Okay?",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000273"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker compares JavaScript's execution context to a 'box or block' to explain its function, highlighting that everything required for execution is contained within it.",
+      "proposed_adaptation": {
+        "action": "Use simple analogies to illustrate abstract ideas, aiding learner comprehension",
+        "limits": "Not universally effective; may oversimplify or confuse if analogies are misunderstood",
+        "when": "Explaining complex technical concepts"
+      },
+      "qualification": "This observation is limited to a single recorded explanation on YouTube and does not confirm widespread application of the analogy.",
+      "scope": "youtube",
+      "situation": "The speaker uses an analogy to explain the concept of execution context in JavaScript by likening it to a 'box' or 'block'.",
+      "support_ids": [
+        "ex-eaedd4a7652a28f4"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-15deec910c82badd",
+          "quote": "The question is you have a function called say hi. Within the function there is a set timeout. The set timeout can take a lot of time to execute and there is a caller who has called this function.",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000296"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker sets up a scenario involving a function with a set timeout to question what happens during asynchronous execution, prompting learners to consider outcomes and foster discussion.",
+      "proposed_adaptation": {
+        "action": "Posing structured scenarios for learners to explore outcomes, simulating real-world problem-solving",
+        "limits": "May vary in learner engagement or difficulty in grasping scenarios without prior topic familiarity",
+        "when": "Discussing asynchronous programming"
+      },
+      "qualification": "Based solely on one recorded transcript segment—it does not show adaptability to other topics or confirm interaction in community engagement.",
+      "scope": "youtube",
+      "situation": "Vasanth constructs scenarios to challenge the audience's understanding of asynchronous execution in JavaScript.",
+      "support_ids": [
+        "ex-15deec910c82badd"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-3f8bd657c0e85be2",
+          "quote": "You want to justify?",
+          "unit_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:u000384"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth asks participants to justify their answer regarding the persistence of execution contexts, indicating a facilitation strategy to create interactive dialogue among learners.",
+      "proposed_adaptation": {
+        "action": "Encouragement of justifications for learner responses, promoting deeper engagement and active reflection",
+        "limits": "Does not guarantee participatory balance; participants may feel pressured rather than encouraged",
+        "when": "During interactive discussions"
+      },
+      "qualification": "Single instance observed, lacks data on effectiveness or participant reflections.",
+      "scope": "youtube",
+      "situation": "The speaker prompts participants to justify their answers, enhancing active engagement during a session on execution contexts.",
+      "support_ids": [
+        "ex-3f8bd657c0e85be2"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-5b9f4456602c71c3",
+          "quote": "Do not jump too early. What is too early? Too early means like basically you are running away from some problems. You do not know why you are making a job switch.",
+          "unit_id": "youtube-video-2025-01-18-while-changing-the-job-must-watch-before-changing-the-job-5-9de67d87d0:u000018"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth summarizes the discussion by contrasting when moving between jobs might be too early, too long, and the right balance.",
+      "proposed_adaptation": {
+        "action": "Contrast characteristics defining undesirable actions and their context like job changes",
+        "limits": "Avoid assuming universally relatable job change motivations; limits to job transition conversations.",
+        "when": "Summarizing scenarios for educational purposes"
+      },
+      "qualification": "Based on a sole speaker's narration without audience response.",
+      "scope": "youtube",
+      "situation": "Speaker discusses job changes amidst various reasons.",
+      "support_ids": [
+        "ex-5b9f4456602c71c3"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-95e520d9faee4272",
+          "quote": "The best example is like rocket science, right? Probably both of us will not be able to ask the right questions around rocket science.",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000139"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Examples explain difficulty in asking relevant questions without sufficient skills or familiarity, using rocket science as an analogy.",
+      "proposed_adaptation": {
+        "action": "Use analogies highlighting the need for subject familiarity before posing expert-level queries",
+        "limits": "Not universally applicable to all academic subjects; specificity to speaker analogy context.",
+        "when": "Introducing complex subject areas to beginners"
+      },
+      "qualification": "Single speaker exploration without multiple example agreement.",
+      "scope": "youtube",
+      "situation": "Explaining the challenges of asking relevant questions in unfamiliar domains.",
+      "support_ids": [
+        "ex-95e520d9faee4272"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-d1f32c5f6eff02ab",
+          "quote": "Anybody else? Any other questions?",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000147"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Speaker Vasanth uses an open-ended invitation to solicit further questions by saying, 'Anybody else? Any other questions?'",
+      "proposed_adaptation": {
+        "action": "Use open-ended invitations to encourage audience participation",
+        "limits": "Not applicable when only specific feedback is required",
+        "when": "live Q&A sessions"
+      },
+      "qualification": "Single recorded instance; no broader frequency data available.",
+      "scope": "youtube",
+      "situation": "Speaker Vasanth invites questions during a recorded session about frontend development.",
+      "support_ids": [
+        "ex-d1f32c5f6eff02ab"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-d1f32c5f6eff02ab",
+          "quote": "I realized like a minimum of like if you can put twenty five hours of preparation on anything",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000155"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "Vasanth recommends dedicating a specific number of hours weekly, namely twenty-five, to prepare effectively for any learning goal.",
+      "proposed_adaptation": {
+        "action": "Advise setting a consistent weekly time goal for preparation",
+        "limits": "Avoid specifics of weekly hours for all learning contexts",
+        "when": "Guiding learners on preparation for skill development"
+      },
+      "qualification": "Supported by a single documented recommendation; not reviewed across different contexts.",
+      "scope": "youtube",
+      "situation": "Vasanth discusses structured frontend interview preparation during a recorded interaction.",
+      "support_ids": [
+        "ex-d1f32c5f6eff02ab"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-d1f32c5f6eff02ab",
+          "quote": "how much time should they dedicate for uh this roadmap preparation like for day and in your time like in your view like in one month two month",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000151"
+        },
+        {
+          "example_id": "ex-d1f32c5f6eff02ab",
+          "quote": "I believe from someone who already understand front end development to become an interview ready it's a journey of around six to eight weeks",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000156"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "interaction",
+      "observation": "A participant directly engages with Vasanth, posing a precise question about interview preparation time, which Vasanth responds to with a detailed answer.",
+      "proposed_adaptation": {
+        "action": "Encourage participant-directed queries and provide context-aware, substantive responses",
+        "limits": "Inappropriate where one-way delivery is needed",
+        "when": "Facilitating Q&A-style learning sessions"
+      },
+      "qualification": "Derived from direct recorded participation, not a written forum or indirect report.",
+      "scope": "youtube",
+      "situation": "Recorded interaction between Vasanth and participants during a YouTube session asking about preparation time for interviews.",
+      "support_ids": [
+        "ex-d1f32c5f6eff02ab"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-759420d6dc951419",
+          "quote": "all these uncertainties which are not there in your control if because of that you are losing a job then we cannot do anything about it. just like keep aspiring for more and more good jobs somewhere it would turn out Santosh.",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000217"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "interaction",
+      "observation": "Vasanth acknowledges the situation and advises Santosh by recognizing uncontrollable factors in the job market and emphasizing positivity about Santosh's ability to clear technical interviews.",
+      "proposed_adaptation": {
+        "action": "Acknowledge the situation and redirect focus to the individual's strengths and abilities, encouraging perseverance.",
+        "limits": "Do not apply if the client requires actionable change advice rather than reassurance.",
+        "when": "Responding to client concerns about uncontrollable career setbacks"
+      },
+      "qualification": "Interaction reflects a single recorded instance, specific to a conversation about Santosh's challenges.",
+      "scope": "youtube",
+      "situation": "Recorded discussion between Santosh and Vasanth about job market challenges, focusing on offers being revoked.",
+      "support_ids": [
+        "ex-759420d6dc951419"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-62c874066be111df",
+          "quote": "If I say what is super intelligence now then it is no longer super intelligence.",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000188"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker uses a rhetorical question to emphasize a point about super intelligence by suggesting that if defined, it ceases to be super intelligence.",
+      "proposed_adaptation": {
+        "action": "Use rhetorical questions to highlight the complexity or inherent contradictions of defining the concept.",
+        "limits": "Avoid using when definitions are necessary for understanding the concept.",
+        "when": "Explaining abstract concepts"
+      },
+      "qualification": "Based on a rhetorical statement within a specific educational context, not general teaching efficacy.",
+      "scope": "youtube",
+      "situation": "Vasanth discusses the concept of super intelligence and AI development.",
+      "support_ids": [
+        "ex-62c874066be111df"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-c9f7c528f9fddabf",
+          "quote": "Now my suggestion Suresh is as you clearly told, I think all of us here are building lot of code using the JNAI. And let's start embracing it. Let's see, probably we may not go back to an era where we will not use JNAI for coding. That's something we should all accept. Like there is no pre calculator era anymore. Like nobody is we are not going to go back to that era. So we are going to continue to code using JNAI. Maybe there could be token limit, but we still continue to code with JNAI. So let's we have to start embracing it, use it as much as possible while coding with vigilantly. That is something we cannot avoid. Correct? But what I would say",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000264"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth compared the use of JNAI in coding to the era of pre-calculators, implying an inevitable change in practice.",
+      "proposed_adaptation": {
+        "action": "Use an analogy comparing past transitions to new technological integrations to emphasize their inevitability.",
+        "limits": "Avoid assuming uniform acceptance of technology; analogy might not apply to all individuals.",
+        "when": "Discussing technology adoption in a training context."
+      },
+      "qualification": "One example supports an isolated observation, not a recurring habit.",
+      "scope": "youtube",
+      "situation": "A statement during a talk regarding AI's role in coding.",
+      "support_ids": [
+        "ex-c9f7c528f9fddabf"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-b79bbe924582febf",
+          "quote": "much. Okay? Do not keep a timeline beyond three months. If you I'm honestly I'm a believer only two months, not even three months. Okay? To make you interview ready. I can guarantee you actually. I have mentored so many people. So not necessarily from anyone you take mentorship. If you are there is a good mentor, they should be able to make you interview ready in two months provided you can dedicate at least twenty five hours in a week Muthuraj. Okay?",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000341"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker presents advice by first stating a belief in a concise timeframe, then supports it with personal success claims and specific details on expected dedication.",
+      "proposed_adaptation": {
+        "action": "Begin with a concrete timeframe suggestion, then outline support through past examples and effort expectations.",
+        "limits": "Ensure timeframe suggestions are realistic for the recipient's specific situation; individual capabilities differ.",
+        "when": "Providing guidance on skill development timelines."
+      },
+      "qualification": "One example supports an isolated observation, not a recurring habit.",
+      "scope": "youtube",
+      "situation": "Advice offered for interview preparation in a general context.",
+      "support_ids": [
+        "ex-b79bbe924582febf"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-dedc14d2b336a82a",
+          "quote": "Let's say calculator was not there. You you write two numbers and then add them on a paper and then finally make a number, right? So if you I don't feel you should be still enjoying that. If there is a calculator, use calculator. Getting my point Vinay.",
+          "unit_id": "youtube-video-2026-05-31-should-frontend-developers-learn-ai-full-stack-or-system-des-48f7608352:u000358"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker uses an analogy comparing traditional methods of calculation to the use of calculators, suggesting embracing new tools.",
+      "proposed_adaptation": {
+        "action": "Use analogies that relate old and new methods to clarify benefits of new technology adoption.",
+        "limits": "Do not assume analogies will be understood without contextual explanation.",
+        "when": "Explaining the transition to new technology in training settings"
+      },
+      "qualification": "Based on a single source without independent corroboration.",
+      "scope": "youtube",
+      "situation": "Speaker uses an analogy to explain the adoption of new AI tools.",
+      "support_ids": [
+        "ex-dedc14d2b336a82a"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-fe5e51e300d4bb78",
+          "quote": "Let me just hit enter and see what result I'll get.",
+          "unit_id": "youtube-video-2025-01-25-time-has-come-if-you-re-a-front-end-developer-do-you-need-to-3041e2a526:u000002"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "Use AI to generate the necessary code components and styling for the application.",
+      "proposed_adaptation": {
+        "action": "Incorporate live demonstrations of using AI tools to accomplish technical tasks quickly.",
+        "limits": "Not effective for engaging audiences that require detailed manual instruction.",
+        "when": "Conducting coding workshops or classes online"
+      },
+      "qualification": "Demonstrated in a single session without live audience interaction.",
+      "scope": "youtube",
+      "situation": "Speaker demonstrates creating a To-Do app using AI in a recorded session.",
+      "support_ids": [
+        "ex-fe5e51e300d4bb78"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-b5ba240d329f64b9",
+          "quote": "you have a wound on your head and you want some medical related help for that.",
+          "unit_id": "youtube-video-2025-01-25-time-has-come-if-you-re-a-front-end-developer-do-you-need-to-3041e2a526:u000001"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker uses an analogy involving a medical scenario to explain a limitation of AI in acting like a doctor for specific advice.",
+      "proposed_adaptation": {
+        "action": "Use relatable analogies to highlight scenarios where AI tools are not applicable.",
+        "limits": "Incomprehensible when audience lacks context for analogy.",
+        "when": "Introducing technical limitations of AI tools to beginners"
+      },
+      "qualification": "Depends on analogy familiarity; no external validation.",
+      "scope": "youtube",
+      "situation": "Speaker uses analogy of medical scenario to explain AI limitations.",
+      "support_ids": [
+        "ex-b5ba240d329f64b9"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-4b08d2cf07fac33a",
+          "quote": "Interpreter is fast. If you look interpreter interpretation is always faster than the compilation because it's a line by line execution right?",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000085"
+        },
+        {
+          "example_id": "ex-4b08d2cf07fac33a",
+          "quote": "But the problem is on a production grid application, right? The interpretation is not easier. Because you have a lot of code block, right?",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000086"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "interaction",
+      "observation": "Vasanth explained that interpretation is faster due to line-by-line execution but is not suitable for production due to code block issues.",
+      "proposed_adaptation": {
+        "action": "Clarify the pros and cons of interpretation vs. compilation in a specific context, using speed vs. safety concerns.",
+        "limits": "Not applicable to discussions outside of programming language features.",
+        "when": "During technical workshops discussing language features."
+      },
+      "qualification": "Single instance observation within a specific recorded session. No general pattern asserted.",
+      "scope": "youtube",
+      "situation": "A participant asked about the advantages of using compiled or interpreted languages.",
+      "support_ids": [
+        "ex-4b08d2cf07fac33a"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-6db48e33c4703a62",
+          "quote": "like you can be stupid here because it's a very small group of people and nobody is here to judge anything because everybody is in pursuit of basically going to the next level.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000078"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth used reassuring language to invite participation, stating that the small group setting means no one is there to judge, promoting an open atmosphere for asking questions.",
+      "proposed_adaptation": {
+        "action": "Use reassuring language to encourage participants to ask 'why' questions without fear of judgment.",
+        "limits": "May not be effective in large or less trusting group environments.",
+        "when": "During small group workshops or sessions."
+      },
+      "qualification": "Expression of reassuring tone in a specific context isn't indicative of general teaching style.",
+      "scope": "youtube",
+      "situation": "Vasanth reassures participants that any 'why' questions are welcome because there is no judgment within the small group focused on learning.",
+      "support_ids": [
+        "ex-6db48e33c4703a62"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-c0b46791db2d2d3d",
+          "quote": "Sure. I'll take answer from one last person then I then explain myself. Is anybody else wants to answer? The answer so far so told is not fully correct. The pieces of it are correct. Anybody wants to answer?",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000179"
+        },
+        {
+          "example_id": "ex-c0b46791db2d2d3d",
+          "quote": "You could raise your hand.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000180"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "interaction",
+      "observation": "The trainer, identified as Vasanth, encourages a learner-led discussion by asking if others want to answer and stating the known answers are partially correct before offering his own explanation.",
+      "proposed_adaptation": {
+        "action": "Facilitate learner-led discussions by first inviting individual responses and then offering explanations after participant engagement.",
+        "limits": "Does not apply if participants are unengaged or if the topic requires a straightforward explanation.",
+        "when": "Interactive sessions or discussions on technical problems."
+      },
+      "qualification": "Interaction is represented only from a single session and lacks cross-validation with other interactions.",
+      "scope": "youtube",
+      "situation": "Debate occurs over whether JavaScript's event loop executes all micro tasks at once or one by one.",
+      "support_ids": [
+        "ex-c0b46791db2d2d3d"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-c0b46791db2d2d3d",
+          "quote": "then I then explain myself.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000179"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "teaching_strategy",
+      "observation": "The strategy involves inviting multiple student explanations to pieces of a problem before providing a comprehensive overview of the solution.",
+      "proposed_adaptation": {
+        "action": "Solicit various answers from the learners and then explain the material, acknowledging the accuracy and comprehensiveness of the participants' contributions.",
+        "limits": "Not suitable when time is limited or when participants have a poor grasp of the topic basics.",
+        "when": "Teaching moments where a synthesis of different responses may aid understanding of a complex topic."
+      },
+      "qualification": "This teaching strategy is documented for one example session and lacks exploration across diverse teaching scenarios.",
+      "scope": "youtube",
+      "situation": "Vasanth gives explanations of task execution priorities in JavaScript event loop study sessions.",
+      "support_ids": [
+        "ex-c0b46791db2d2d3d"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-7a24251346a1da0a",
+          "quote": "You design a system as simpler as required and not simpler than that. You don't want to over simplify this or you want to like over complicate it, try to keep it as simple as required, same way.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000181"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker uses the analogy of designing systems as simply as needed to explain execution priorities, connecting it to maintaining correct task execution order.",
+      "proposed_adaptation": {
+        "action": "Use analogies from system design to elucidate how complexity should be managed to maintain order.",
+        "limits": "Ineffective if the learners don't understand system design analogies or if the subject matter doesn't map well to ordered processes.",
+        "when": "Explaining hierarchical or priority-driven processes."
+      },
+      "qualification": "This analogy is specific to systems design concepts and its applicability beyond similar topics is unverified.",
+      "scope": "youtube",
+      "situation": "Vasanth uses analogies to explain complex systems like the JavaScript event loop, focusing on ordered execution and priority.",
+      "support_ids": [
+        "ex-7a24251346a1da0a"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-cf198817fa84ff9f",
+          "quote": "try to understand for the question what do they mean by accurate.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000272"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker advises to question the interviewer on the definition of 'accurate' and suggests achieving relative accuracy as a strategy in interviews.",
+      "proposed_adaptation": {
+        "action": "Advise candidates to clarify the terms of technical questions to better align their responses with interviewer expectations.",
+        "limits": "May not be suitable for interviews with rigid question formats or where clarification questioning is not welcome.",
+        "when": "Coaching sessions on handling technical interview questions."
+      },
+      "qualification": "Advice focuses on interview strategy and does not provide empirical feedback on its success.",
+      "scope": "youtube",
+      "situation": "Participants inquire about creating an accurate timing mechanism in JavaScript during a study session.",
+      "support_ids": [
+        "ex-cf198817fa84ff9f"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-f30e15195b467ced",
+          "quote": "I will give you ten minutes. That is twelve twenty six you can take twelve thirty six maybe two minutes buffer like twelve thirty eight.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000285"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker outlines the timing rules for the quiz, specifying the start time, duration, buffer time, and the post-quiz break.",
+      "proposed_adaptation": {
+        "action": "Outline specific timing and guidelines to manage participant expectations",
+        "limits": "Not applicable to spontaneous activities or events more suited to flexible timing.",
+        "when": "Scheduled tests or activities requiring interval management"
+      },
+      "qualification": "This is a specific observation from a single event without broader examples of similar moments.",
+      "scope": "youtube",
+      "situation": "A speaker gives detailed timing and instructions for a quiz during a video session, specifying the buffer time and break period after quiz completion.",
+      "support_ids": [
+        "ex-f30e15195b467ced"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-e3343425023fae1f",
+          "quote": "So JavaScript is a single threaded and synchronous by default.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000299"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker uses a simple assertion format to describe JavaScript's threading model: 'JavaScript is a single threaded and synchronous by default.'",
+      "proposed_adaptation": {
+        "action": "Use simplified assertions to convey complex technical characteristics",
+        "limits": "May not suit contexts requiring more elaborate explanations or in-depth technical analysis.",
+        "when": "Discussion of programming models or comparative technology architectures"
+      },
+      "qualification": "The observation is based on a singular instance in the transcript, without evidence of habit or broader application.",
+      "scope": "youtube",
+      "situation": "During a video session, the speaker repeatedly explains that JavaScript is single-threaded and synchronous by default.",
+      "support_ids": [
+        "ex-e3343425023fae1f"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-091acef3cb1b5588",
+          "quote": "What is the thing if again I can poll it on the discord and get your opinion.",
+          "unit_id": "youtube-video-2026-01-13-how-to-crack-frontend-interviews-cohort-session-1-1jtahqwkhf-cad8a717e8:u000313"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "The speaker suggests a potential change in session timing in a consultative manner, seeking input and agreement from the audience.",
+      "proposed_adaptation": {
+        "action": "Involve participants in scheduling via polls to gain consensus",
+        "limits": "Less applicable to situations needing immediate or non-negotiable scheduling decisions.",
+        "when": "Scheduling meetings or collaborative events where participant input can be solicited"
+      },
+      "qualification": "This observed consultative approach is singular and may not reflect a regular practice without further examples.",
+      "scope": "youtube",
+      "situation": "In a session timing discussion, the speaker involves the audience in decision-making concerning future meeting times through polls.",
+      "support_ids": [
+        "ex-091acef3cb1b5588"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-cdf7f46c3181910c",
+          "quote": "start embracing the Gen AI and then getting fearful of it. So start using it so that you can build the projects much faster.",
+          "unit_id": "youtube-video-2025-03-05-ai-codes-react-in-seconds-is-frontend-development-over-genai-b5c99da380:u000024"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth encourages viewers to explore Gen AI tools and not fear them by using inclusive language ('start embracing') and suggests that faster project completion is possible ('you cannot no longer take one hour time').",
+      "proposed_adaptation": {
+        "action": "Use inclusive language to encourage exploration and reduce fear of adoption",
+        "limits": "Avoid assuming audience homogeneity; pace of encouragement may differ by familiarity and context.",
+        "when": "Promoting new technology tools or practices"
+      },
+      "qualification": "Language and tone provide the encouragement form, but the speaker's identity is not independently authenticated.",
+      "scope": "youtube",
+      "situation": "Vasanth encourages viewers to explore Gen AI tools and overcome apprehensions.",
+      "support_ids": [
+        "ex-cdf7f46c3181910c"
+      ]
+    },
+    {
+      "citations": [
+        {
+          "example_id": "ex-d009599b101584ed",
+          "quote": "If you like the video please like the video share the video with your friends and comment whatever you felt",
+          "unit_id": "youtube-video-2025-03-05-ai-codes-react-in-seconds-is-frontend-development-over-genai-b5c99da380:u000025"
+        }
+      ],
+      "counter_ids": [],
+      "dimension": "expression",
+      "observation": "Vasanth concludes the video by inviting viewers to like, share, and comment on the video, and suggests topics for future content.",
+      "proposed_adaptation": {
+        "action": "Invite explicit interaction by prompting likes, shares, and comments",
+        "limits": "Engagement strategies should align with content value and audience expectations to avoid forced interactions",
+        "when": "Concluding content focused on community engagement"
+      },
+      "qualification": "Standard practice is not distinctly stylistic; similar calls to action are common in content creation.",
+      "scope": "youtube",
+      "situation": "Vasanth ends videos with a call to action for viewer engagement.",
+      "support_ids": [
+        "ex-d009599b101584ed"
+      ]
+    }
+  ]
+}

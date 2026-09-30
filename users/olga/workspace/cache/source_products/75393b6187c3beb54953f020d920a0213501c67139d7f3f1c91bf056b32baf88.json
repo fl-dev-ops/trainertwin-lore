@@ -1,0 +1,67 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "My Answer is Leadgeneration what is your?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author both states an answer and poses a question in the same sentence."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "question format",
+      "topic": "lead generation"
+    },
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "tone",
+      "observation": {
+        "citations": [
+          {
+            "quote": "My Answer is Leadgeneration what is your?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The sentence has a conversational tone, engaging readers to think about their own answer."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "conversational tone",
+      "topic": "lead generation"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "My Answer is Leadgeneration what is your?",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author's answer to an unspecified question is 'Leadgeneration'."
+      },
+      "title": "lead generation focus",
+      "topic": "lead generation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 2,
+  "evidence_file": "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717-e1e9947c10c4cf59589b.jsonl",
+  "evidence_hash": "f1a3fce218a4f8546f1c50c0b1602c2b61dd81846e9ca78c6d65cdeeca4a8909",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:11:48Z",
+  "metadata_hash": "279a104512ae31f2cb664afec15a82775d977cf424fddfa1f5794140abad18ef",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1,
+    "knowledge": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "e1e9947c10c4cf59589b",
+  "snapshot_hash": "b83003f06bdca39332e3cb585b266803740aa286a1027f89aea532392c6d2d53",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717",
+  "source_path": "linkedin/posts/2026-04-06-how-you-should-change-your.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "f851d6b5af675296984cfa22010ffff07113eb39ec37d15fb1f83e41846bc648",
+  "source_snapshot": "linkedin-posts-2026-04-06-how-you-should-change-your-md-ea10044717-e1e9947c10c4cf59589b.json",
+  "version": "4"
+}

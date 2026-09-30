@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1-e6518c96afe9979a2673.jsonl",
+  "evidence_hash": "abd96623432ba3b6fe04cf3d341f25a3d6934234302218497041f979725c413b",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:11:05Z",
+  "metadata_hash": "bd292c304fc3fa77947172b043f11113a9f3a2728c538fa80eb944ccfce77419",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 2,
+    "knowledge": 3
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 3,
+    "units_total": 3
+  },
+  "revision": "e6518c96afe9979a2673",
+  "snapshot_hash": "7e3a6896d10d04c30bec8c47b1cc54305aba5b5693719f6e5d5ef4aca5264f73",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1",
+  "source_path": "youtube/video/2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-btMVBcDuMV4.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "3489727c876b0270ce862766dd0b0de580db06c57a021feb7aaedf470497f6d0",
+  "source_snapshot": "youtube-video-2026-04-14-structure-over-confidence-navigate-life-s-uncertainty-shorts-cb810d3eb1-e6518c96afe9979a2673.json",
+  "version": "4"
+}

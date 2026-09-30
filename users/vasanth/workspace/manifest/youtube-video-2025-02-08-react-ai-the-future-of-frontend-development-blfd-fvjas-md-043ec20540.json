@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 2,
+  "evidence_count": 14,
+  "evidence_file": "youtube-video-2025-02-08-react-ai-the-future-of-frontend-development-blfd-fvjas-md-043ec20540-d72900270e1ac714695d.jsonl",
+  "evidence_hash": "e8d717b0851ea57a446f1b2953df275198dd20345c941a6caa95e34c3ab14db6",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T21:13:07Z",
+  "metadata_hash": "1ca0057b225667adf07ad07b38dd6a31ef28a116a44a0135a7c9ac292acfb39b",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 5,
+    "knowledge": 8
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 12,
+    "units_total": 30
+  },
+  "revision": "d72900270e1ac714695d",
+  "snapshot_hash": "896ffcea2b83180854ff21eb7cbe19fd489638dac265aea95ed036b02b125bde",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2025-02-08-react-ai-the-future-of-frontend-development-blfd-fvjas-md-043ec20540",
+  "source_path": "youtube/video/2025-02-08-react-ai-the-future-of-frontend-development-bLfD_-Fvjas.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/vasanth/data",
+  "source_sha256": "23383070dfd59b7f6127f078a0a36538a4f65e658e7fe9bc9a187742dd854475",
+  "source_snapshot": "youtube-video-2025-02-08-react-ai-the-future-of-frontend-development-blfd-fvjas-md-043ec20540-d72900270e1ac714695d.json",
+  "version": "4"
+}

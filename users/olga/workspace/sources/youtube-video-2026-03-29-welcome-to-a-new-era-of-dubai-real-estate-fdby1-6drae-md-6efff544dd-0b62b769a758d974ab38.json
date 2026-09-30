@@ -1,0 +1,64 @@
+{
+  "audience": "",
+  "author": "",
+  "category": "youtube",
+  "content_hash": "3268e887144af07b045869317b51ca773d17b2ceea947e63f9f5cacd62ee10b7",
+  "date": "2026-03-29",
+  "date_basis": "source",
+  "external_id": "fdBY1_6dRAE",
+  "format": "transcript",
+  "id": "youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd",
+  "metadata_hash": "e0e97ab6933aeb71124f287095c5e3111eabfb2372e33a86562947f702cd3455",
+  "original_text": "---\nid: fdBY1_6dRAE\ntitle: Welcome to a new era of Dubai real estate\ndate: '2026-03-29'\nurl: https://www.youtube.com/shorts/fdBY1_6dRAE\ndescription: \"If you’re serious about building a real estate career in Dubai, make\\\n  \\ sure to join my private community.\\nThis is where I share exclusive trainings,\\\n  \\ case studies, scripts, and behind-the-scenes strategies that are not published\\\n  \\ on YouTube.\\nJoin community: https://t.me/Olga_Sinenko_bot\\n\\n\\U0001F393 LeaveItUp\\\n  \\ Real Estate Growth Academy  for agents who are already working in Dubai real estate\\\n  \\ or planning a smart move and want to start strong.\\n\\U0001F517 https://bit.ly/4rmwpB9\\n\\\n  \\nInside the Academy, you will learn how to:\\n ✅ Sell both property with confidence\\n\\\n  \\ ✅ Get listings instead of being ghosted or rejected\\n ✅ Understand how buyers\\\n  \\ think - and how to actually sell to them\\n ✅ Learn Dubai’s areas, client profiles\\\n  \\ & smart investment strategies\\n ✅ Build a daily structure that brings consistent\\\n  \\ results\\n ✅ Grow your income in a 100% commission-only environment\\n ✅ Handle\\\n  \\ objections and negotiations like a pro - with confidence, not pressure\\n\\n\\U0001F4F2\\\n  \\ Want personal help with your real estate strategy?\\n \\U0001F517https://bit.ly/4pOYekf\\n\\\n  \\n Follow me on Instagram and send me a DM — I always respond personally.\\n \\U0001F449\\\n  \\ https://www.instagram.com/olga_sinenko.official\\n\\n#DubaiRealEstate #DubaiRealEstatecoach\\\n  \\ #Dubaisalescoach #RealEstateTraining #coldcallig #RealEstateAgentDubai #SellingInDubai\\\n  \\ #Coldcallingrealestate #DubaiPropertyMarket #RealEstateTraining #BecomeARealEstateAgent\\\n  \\ #RealEstateSuccess #DubaiRealEstateAgent #DubaiRealEstateSalesTraining #DubaiSalesTraining\\\n  \\ #DubaiRealEstateMentor\"\nduration: 00:00:49\nmodel: saaras:v3\ntranscript: true\n---\n\n# Welcome to a new era of Dubai real estate\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nWelcome to a new era of Dubai real estate which started in March twenty twenty-six. My name is Olga Semenenko, I'm real estate sales trainer. And there is a fear, panic, and a lot of buyers, sellers, and the agent moving out of this fantastic country. If you are someone, same as me, who decided to stay strong and be united with your future, I'm inviting you to my\n\n### 00:00:27 · Speaker 1\n\nclosed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market. See you there.\n",
+  "passages": [
+    {
+      "id": "youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:p000001",
+      "locator": "lines 36-36",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:00",
+      "text": "Welcome to a new era of Dubai real estate which started in March twenty twenty-six. My name is Olga Semenenko, I'm real estate sales trainer. And there is a fear, panic, and a lot of buyers, sellers, and the agent moving out of this fantastic country. If you are someone, same as me, who decided to stay strong and be united with your future, I'm inviting you to my"
+    },
+    {
+      "id": "youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:p000002",
+      "locator": "lines 40-40",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "t": "00:00:27",
+      "text": "closed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market. See you there."
+    }
+  ],
+  "path": "youtube/video/2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdBY1_6dRAE.md",
+  "purpose": "",
+  "relative_path": "youtube/video/2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdBY1_6dRAE.md",
+  "sha256": "8a1870004f6f81fdc85608de558afa01400df684b89c400ba8fcffa2d6ee968a",
+  "speakers": {},
+  "title": "Welcome to a new era of Dubai real estate",
+  "units": [
+    {
+      "end": 365,
+      "id": "youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:u000001",
+      "locator": "lines 36-36",
+      "passage_id": "youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:p000001",
+      "raw_text": "Welcome to a new era of Dubai real estate which started in March twenty twenty-six. My name is Olga Semenenko, I'm real estate sales trainer. And there is a fear, panic, and a lot of buyers, sellers, and the agent moving out of this fantastic country. If you are someone, same as me, who decided to stay strong and be united with your future, I'm inviting you to my",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:00",
+      "text": "Welcome to a new era of Dubai real estate which started in March twenty twenty-six. My name is Olga Semenenko, I'm real estate sales trainer. And there is a fear, panic, and a lot of buyers, sellers, and the agent moving out of this fantastic country. If you are someone, same as me, who decided to stay strong and be united with your future, I'm inviting you to my"
+    },
+    {
+      "end": 275,
+      "id": "youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:u000002",
+      "locator": "lines 40-40",
+      "passage_id": "youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:p000002",
+      "raw_text": "closed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market. See you there.",
+      "representation": "spoken_turn",
+      "speaker_id": "1",
+      "start": 0,
+      "t": "00:00:27",
+      "text": "closed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market. See you there."
+    }
+  ],
+  "url": "https://www.youtube.com/shorts/fdBY1_6dRAE"
+}

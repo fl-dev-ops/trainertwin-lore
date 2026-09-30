@@ -1,0 +1,260 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000193",
+        "u000209",
+        "u000217"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "So just I wanted to know like how I can write up like resolve these things actually.",
+            "unit_id": "u000207"
+          }
+        ],
+        "text": "Santosh wants to know how to resolve the issues of job offers being revoked after clearing technical rounds."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "whatever the job market companies losing the job companies losing the project other things right? fully not there in your control Santosh.",
+            "unit_id": "u000214"
+          }
+        ],
+        "text": "Uncontrollables such as companies losing projects are common and out of individual control, even in premium companies."
+      },
+      "response": {
+        "citations": [
+          {
+            "quote": "all these uncertainties which are not there in your control if because of that you are losing a job then we cannot do anything about it. just like keep aspiring for more and more good jobs somewhere it would turn out Santosh.",
+            "unit_id": "u000217"
+          }
+        ],
+        "text": "Vasanth acknowledges Santosh's situation and offers encouragement, suggesting that his ability to clear technical interviews is a positive sign for future opportunities."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Yeah, hi Usanta. So, it's like quite long I'm not working like I got laid off in TechM. It's been one and a half years now. So, maybe like first six months I'm actively looking out job in the market.",
+            "unit_id": "u000193"
+          }
+        ],
+        "text": "Santosh explains a situation where he has cleared ten technical interviews but still faces challenges in securing a job offer due to companies losing clients or projects."
+      },
+      "speaker_id": "2",
+      "strategy": {
+        "citations": [
+          {
+            "quote": "things which you cannot control don't try to control it. things which you can influence things which you can only influence you influence it again don't try to control it.",
+            "unit_id": "u000214"
+          }
+        ],
+        "text": "Vasanth advises focusing on what can be controlled and exerting influence where possible, rather than trying to control uncontrollable aspects of the job market."
+      },
+      "title": "Job market challenges and advice",
+      "topic": "job market"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000188"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "If I say what is super intelligence now then it is no longer super intelligence.",
+            "unit_id": "u000188"
+          }
+        ],
+        "text": "The speaker uses a rhetorical question to emphasize a point about super intelligence by suggesting that if defined, it ceases to be super intelligence."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Belief expression on super intelligence",
+      "topic": "super intelligence"
+    },
+    {
+      "context_unit_ids": [
+        "u000186"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "This is this is something I strongly believe. It may not happen but this is just my belief.",
+            "unit_id": "u000186"
+          }
+        ],
+        "text": "The speaker uses the phrase 'strongly believe' to emphasize personal conviction regarding future AI regulations."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Belief expression on future AI scenario",
+      "topic": "AI regulation"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000186"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "it might be like matter of two to three years where the situation becomes so worse, governments will come together and enforce some rule",
+            "unit_id": "u000186"
+          }
+        ],
+        "text": "The speaker believes that in two to three years, the situation with AI could become so severe that governments will come together to enforce some rules."
+      },
+      "title": "Belief about future AI regulations",
+      "topic": "AI regulation"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000188",
+        "u000190",
+        "u000192"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I strongly believe if if at least on the research and that science field if there is no restriction then we'll encounter a state called super intelligence.",
+            "unit_id": "u000188"
+          }
+        ],
+        "text": "The speaker strongly believes that without restrictions in the research and science field, humanity might encounter a state called super intelligence."
+      },
+      "title": "Belief about super intelligence",
+      "topic": "super intelligence"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000217"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "all these uncertainties which are not there in your control if because of that you are losing a job then we cannot do anything about it. just like keep aspiring for more and more good jobs somewhere it would turn out Santosh.",
+            "unit_id": "u000217"
+          }
+        ],
+        "text": "Uncertainties not under one's control should be accepted, and one should continue aspiring for good jobs despite them."
+      },
+      "title": "Advice on dealing with job market uncertainties",
+      "topic": "job market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000214"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "things which you cannot control don't try to control it. things which you can influence things which you can only influence you influence it again don't try to control it.",
+            "unit_id": "u000214"
+          }
+        ],
+        "text": "Focus on what you can control and influence rather than trying to control the uncontrollable aspects of job search."
+      },
+      "title": "Understanding control and influence in job search",
+      "topic": "job search strategy"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000190"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if a system becomes so capable of doing all of these things, correct? Then probably human may not have much of their existence on on the planet.",
+            "unit_id": "u000190"
+          }
+        ],
+        "text": "Super intelligence would be a state where a system is capable of autonomously achieving complex tasks, indicating limited human existence on the planet."
+      },
+      "title": "On achieving super intelligence",
+      "topic": "super intelligence"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000189"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the Janai model or the robot that whatever you would invent will be able to come up with an algorithm or hypothesis where we'll be able to find something that which can travel faster than light or using light how can we travel faster than the speed of light itself.",
+            "unit_id": "u000189"
+          }
+        ],
+        "text": "Super intelligence could theoretically find a way to travel faster than the speed of light."
+      },
+      "title": "Super intelligence and speed of light",
+      "topic": "super intelligence"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000192"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "belief",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I really doubt we'll reach that place considering the countries coming together and enforcing lot of rules.",
+            "unit_id": "u000192"
+          }
+        ],
+        "text": "The speaker doubts humanity will reach a state of super intelligence due to countries coming together to enforce many rules."
+      },
+      "title": "Belief about national regulations on AI",
+      "topic": "AI regulation"
+    }
+  ]
+}

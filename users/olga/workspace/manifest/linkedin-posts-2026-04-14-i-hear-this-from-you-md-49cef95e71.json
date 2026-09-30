@@ -1,0 +1,31 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 1,
+  "evidence_file": "linkedin-posts-2026-04-14-i-hear-this-from-you-md-49cef95e71-b4df0967cfe5785ca884.jsonl",
+  "evidence_hash": "6207802c2289bf37965ecc9b66e5dfd4a0664488ccfe30b08811c6ccd6e7d2f3",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:12:33Z",
+  "metadata_hash": "23bf1130a94323c8b37fbcdd40fe7d1b8f473caa2bbb6ab6db5b52e26c5bc560",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 1
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 1,
+    "units_total": 1
+  },
+  "revision": "b4df0967cfe5785ca884",
+  "snapshot_hash": "dd8c32d5c82746f826b61f33f7d7d04a9e975d1ae2c18e2578b061e4ff30e559",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-04-14-i-hear-this-from-you-md-49cef95e71",
+  "source_path": "linkedin/posts/2026-04-14-i-hear-this-from-you.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "11e5b328aeeb1063dac5fbd7a08c1995e56df30f3f8444988163b675add4e3c2",
+  "source_snapshot": "linkedin-posts-2026-04-14-i-hear-this-from-you-md-49cef95e71-b4df0967cfe5785ca884.json",
+  "version": "4"
+}

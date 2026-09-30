@@ -1,0 +1,33 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 5,
+  "evidence_file": "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57-bfcda04774f6874e215d.jsonl",
+  "evidence_hash": "555fce3e08fbf5e8b90cafab0233d0d9f64c4cd2eac1b40d391d9d9c4ed84a1f",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-29T17:15:54Z",
+  "metadata_hash": "16c0c60ca948cd93417bcd518667875051210afda43ef7544962302b1c03a381",
+  "model": "openai/gpt-4o",
+  "products": {
+    "cases": 1,
+    "expression": 2,
+    "knowledge": 2
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 3,
+    "units_total": 3
+  },
+  "revision": "bfcda04774f6874e215d",
+  "snapshot_hash": "da06e665873b73c0b9fb3b9ed342f6018e2829dbd0397bec0e95472d36c7e4f6",
+  "source_format": "source-products-v4",
+  "source_id": "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57",
+  "source_path": "linkedin/posts/2026-08-20-whom-do-you-think-you.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "65c812bd3c3be3caaccb4e7c0f435f2eccc5583c23763201b7a1b0045619afcb",
+  "source_snapshot": "linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57-bfcda04774f6874e215d.json",
+  "version": "4"
+}

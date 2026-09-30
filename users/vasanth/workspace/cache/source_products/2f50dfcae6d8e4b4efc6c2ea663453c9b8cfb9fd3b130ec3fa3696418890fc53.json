@@ -1,0 +1,274 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000141",
+        "u000142",
+        "u000143"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "So we have console.log a very very popular interview question maybe two three year back.",
+            "unit_id": "u000141"
+          }
+        ],
+        "text": "An explanation of how JavaScript executes console.log, promises, and setTimeout in a specific order."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "JavaScript Execution Order Example",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000146",
+        "u000147",
+        "u000148",
+        "u000149",
+        "u000150"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "in the example where object was passed in an argument in a function.",
+            "unit_id": "u000146"
+          }
+        ],
+        "text": "Speaker 5 asks about object mutation and return in JavaScript functions."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "Objects and arrays are shallow copied so by nature it is not going to get mutated. If you want to mutate it you can mutate it Param.",
+            "unit_id": "u000150"
+          }
+        ],
+        "text": "Speaker 2 explains that objects are shallow copied, affecting the original object when mutated."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "in the example where object was passed in an argument in a function. So like in that case do we have to return that object also if we mutate or if we if we do not return that object and reassign in the call caller function like will it mutate the original object?",
+            "unit_id": "u000146"
+          }
+        ],
+        "text": "Speaker 5 inquires about the need to return objects after mutation and whether changes are reflected in the original object."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Interaction on Object Mutation Doubts",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000166",
+        "u000167",
+        "u000168",
+        "u000169"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "is there a specific algorithm like internally where like I mean the time period in which the event loop checks between the like if the call stack and any of the queues is empty, right?",
+            "unit_id": "u000167"
+          }
+        ],
+        "text": "Speaker 1 asks about the specific algorithm on timing for event loop checking between queues."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "event loop is a custom algorithm for different JavaScript environments. As I told, Chrome has a different event loop, Node.js has a different event loop, maybe Safari has a different event loop.",
+            "unit_id": "u000169"
+          }
+        ],
+        "text": "Speaker 2 mentions that the event loop's timing is implementation-dependent, differing among environments like Chrome and Node.js."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "is there a specific algorithm like internally where like I mean the time period in which the event loop checks between the like if the call stack and any of the queues is empty, right?",
+            "unit_id": "u000167"
+          }
+        ],
+        "text": "Speaker 1 asks about the specific algorithm on timing for event loop checking between queues."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Clarification on Event Queue and Timing",
+      "topic": "JavaScript"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000136",
+        "u000137"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So execution order call stack must be empty. Let's say first priority of executing the task is everything in the call stack get executed once after call stack is empty execute all micro tasks",
+            "unit_id": "u000136"
+          },
+          {
+            "quote": "micro task, mutation observer, all of those will be executed. Followed by you execute one micro task.",
+            "unit_id": "u000137"
+          }
+        ],
+        "text": "The speaker explains JavaScript execution order by warning listeners first, then listing the sequence: call stack completion, then microtasks, followed by macrotasks, and highlighting the repeat of this cycle."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Explanation of JavaScript Execution Order",
+      "topic": "JavaScript"
+    },
+    {
+      "context_unit_ids": [
+        "u000141",
+        "u000142"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "So we have console.log a very very popular interview question maybe two three year back.",
+            "unit_id": "u000141"
+          }
+        ],
+        "text": "The speaker uses a popular interview question about JavaScript execution to illustrate the concept of event loop processing."
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Interview Question Discussion",
+      "topic": "JavaScript"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000136",
+        "u000137",
+        "u000138",
+        "u000139"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "many people don't know this okay. So please listen to this carefully. So execution order call stack must be empty. Let's say first priority of executing the task is everything in the call stack get executed once after call stack is empty execute all micro tasks micro task means you already just now saw correct.",
+            "unit_id": "u000136"
+          },
+          {
+            "quote": "if you end up processing everything from the macro task queue, then something priority comes into call stack, you will not have you will not be able to process it.",
+            "unit_id": "u000138"
+          }
+        ],
+        "text": "JavaScript execution order prioritizes completing tasks in the call stack before processing microtasks, which are of higher priority than macrotasks."
+      },
+      "title": "JavaScript Execution Order",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000140",
+        "u000141",
+        "u000142",
+        "u000143"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Even though set set term mode is set to zero duration the JavaScript processor considers like this is something that is async in nature.",
+            "unit_id": "u000143"
+          },
+          {
+            "quote": "And then D will be printed. So after A, D will be printed. Then call stack becomes empty. And then micro task queue executes C because promise are having higher priority than set timeout.",
+            "unit_id": "u000142"
+          }
+        ],
+        "text": "Console.log statements and promises have higher priority in execution over setTimeout, despite its zero millisecond delay, because promise callbacks are added to the microtask queue which is executed before macros."
+      },
+      "title": "Call Stack and Task Queue Priorities",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000178",
+        "u000179",
+        "u000180"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The reason being, let's say Node.js don't have web APIs.",
+            "unit_id": "u000178"
+          },
+          {
+            "quote": "So I'm going to explain actually. There is one more section around like why event loop, uh why does JS engine do not include the event loop?",
+            "unit_id": "u000179"
+          }
+        ],
+        "text": "The event loop implementation is open for customization by different JavaScript environments such as Chrome and Node.js, which do not all provide the same features as a web browser."
+      },
+      "title": "Event Loop Implementation Variability",
+      "topic": "JavaScript"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000149",
+        "u000150"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "obligation arrays are shallow copied I'm very sorry. Objects and arrays are shallow copied so by nature it is not going to get mutated.",
+            "unit_id": "u000150"
+          }
+        ],
+        "text": "Objects and arrays in JavaScript are shallow copied, meaning changes to their properties affect the original object unless deep copied explicitly."
+      },
+      "title": "Impact of Object Mutation in JavaScript",
+      "topic": "JavaScript"
+    }
+  ]
+}

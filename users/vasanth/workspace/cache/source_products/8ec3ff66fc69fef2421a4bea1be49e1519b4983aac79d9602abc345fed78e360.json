@@ -1,0 +1,242 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "this is a video where I'm explaining about how to build generative AI or AI driven UI components in React.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker introduces the topic by outlining the purpose of the video, which is to explain building generative AI or AI-driven UI components in React."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Introduction with Context",
+      "topic": "AI and React"
+    },
+    {
+      "context_unit_ids": [
+        "u000027"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Second, the UI no longer going to be very static depending on the user persona, user perspective, the UI is going to be extremely dynamic.",
+            "unit_id": "u000027"
+          }
+        ],
+        "text": "The speaker progressively reveals information by listing how AI is integrated into interactive UIs and what the future holds for such technology."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Progressive Reveal of Information",
+      "topic": "AI and React"
+    },
+    {
+      "context_unit_ids": [
+        "u000013",
+        "u000014"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Let's open this Holo booth, okay?",
+            "unit_id": "u000013"
+          },
+          {
+            "quote": "So now we started it. I'm giving next.",
+            "unit_id": "u000014"
+          }
+        ],
+        "text": "After explaining a concept theoretically, the speaker transitions to a 'realistic example' to demonstrate the concept in action."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Example Transition",
+      "topic": "AI and React"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this is a video where I'm explaining about how to build generative AI or AI driven UI components in React.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The video explains how to build generative AI or AI-driven UI components in React."
+      },
+      "title": "Introduction to AI-driven UI in React",
+      "topic": "AI and React"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000006",
+        "u000007"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "lot of things related to Valentine's Day it is customized correct same would happen for Diwali same would happen for Independence Day where it is customized but that customization is not happening at the client level",
+            "unit_id": "u000006"
+          },
+          {
+            "quote": "can we customize that website for the user requirement? That has never happened in the front end.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "Customization in front-end apps does not happen at the client level; AI can allow user-specific interfaces that adapt to user requirements."
+      },
+      "title": "Customization using AI in React",
+      "topic": "AI and React"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009",
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the ML models need not to always run on the back end. There are ways now we can run the ML models on the client.",
+            "unit_id": "u000009"
+          },
+          {
+            "quote": "what if you had a small tensorflow algorithm that runs an ML algorithm that runs on the client and can like predict, okay?",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Machine learning models can now run on the client side, not just the back end, particularly for smaller user requirements."
+      },
+      "title": "Running ML models on client-side",
+      "topic": "AI and React"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000013"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "TensorFlow as you all know like primarily deals with ML algorithm. So they have this JavaScript driven algorithms which can technically run on the browser for a smaller set of inputs and give relatively better results.",
+            "unit_id": "u000013"
+          }
+        ],
+        "text": "TensorFlow.js provides JavaScript-driven algorithms that can run on the browser for smaller inputs, aiding personalization."
+      },
+      "title": "Using TensorFlow.js for Client-Side ML",
+      "topic": "AI and React"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000025",
+        "u000029"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "we no longer gonna have the same set of AI which was like running on the back end. We start having the AI models running on the client.",
+            "unit_id": "u000025"
+          },
+          {
+            "quote": "I'll just summarize the video. So where we all have to start thinking about AI first in React. So how do we embed AI models into React Native or React JS.",
+            "unit_id": "u000029"
+          }
+        ],
+        "text": "We need to start thinking about embedding AI models into React Native or React JS along with the backend."
+      },
+      "title": "AI integration into React explained",
+      "topic": "AI and React"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000028"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Voice and gesture responsive React apps, we already have some degree of them, but how about like we make it like more",
+            "unit_id": "u000028"
+          },
+          {
+            "quote": "so that's how where the systems are becoming more and more brilliant and that's where we are headed okay so",
+            "unit_id": "u000028"
+          }
+        ],
+        "text": "Voice and gesture responsive React apps can become more efficient with the integration of AI tools."
+      },
+      "title": "AI tools for React development",
+      "topic": "AI and React"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000027"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the UI no longer going to be very static depending on the user persona, user perspective, the UI is going to be extremely dynamic.",
+            "unit_id": "u000027"
+          }
+        ],
+        "text": "UIs will no longer be static but will become extremely dynamic, changing based on user persona and perspective."
+      },
+      "title": "Dynamic UI with AI",
+      "topic": "AI and React"
+    }
+  ]
+}

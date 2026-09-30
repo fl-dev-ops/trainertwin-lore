@@ -1,0 +1,124 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000005",
+        "u000006",
+        "u000007",
+        "u000009",
+        "u000010"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "we will pay you but we don't know when and we cannot commit to any date.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "The company's communication about delayed payment."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "So they wanted to keep to keep closing deals for them.",
+            "unit_id": "u000007"
+          }
+        ],
+        "text": "The company wanted Ekaterina to continue closing deals for them."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "basically your company was more or less directly to your face telling you, you have to wait. You have to wait. We're not going to pay you.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "Ekaterina's agency refused to pay her commissions."
+      },
+      "speaker_id": "2",
+      "strategy": null,
+      "title": "Ekaterina's Agency Experience",
+      "topic": "Real Estate Agency Fallouts"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000006",
+        "u000010"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "we will pay you but we don't know when and we cannot commit to any date.",
+            "unit_id": "u000006"
+          },
+          {
+            "quote": "bring more deals and from those deals we will start paying you what we owe you. That was the message.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "Speaker 2 repeats the company's message to illustrate uncertainty and conditionality: \"we will pay you but we don't know when... That was the message.\""
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Ekaterina's Agency Strategy",
+      "topic": "Payment Delays Discussion"
+    },
+    {
+      "context_unit_ids": [
+        "u000012"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "but you don't have a guarantee that they will pay you from the new ones as well. You're just increasing the debt.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "The speaker indicates additional work requirements without assurance of payment for new deals: \"but you don't have a guarantee that they will pay... increasing the debt.\""
+      },
+      "purpose": null,
+      "speaker_id": "2",
+      "title": "Ambiguity in Payment Assurance",
+      "topic": "Payment Delay Conundrum"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000005",
+        "u000006",
+        "u000007",
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you have to wait. You have to wait. We're not going to pay you.",
+            "unit_id": "u000005"
+          },
+          {
+            "quote": "we will pay you but we don't know when and we cannot commit to any date.",
+            "unit_id": "u000006"
+          }
+        ],
+        "text": "Ekaterina's company told her she has to wait for her payments and there is no commitment on the date of payment."
+      },
+      "title": "Agency Payment Conditions",
+      "topic": "Agency Payment Preconditions"
+    }
+  ]
+}

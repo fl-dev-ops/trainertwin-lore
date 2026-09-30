@@ -1,0 +1,182 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000004",
+        "u000005",
+        "u000008"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "This idea is the market has stopped.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The investor expresses that the market has stopped and prices will fall."
+      },
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "The market has stopped, so I can wait and see basically, well, the price is going to be falling.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "An investor believes the market has stopped and plans to wait until prices fall before buying multiple units."
+      },
+      "speaker_id": null,
+      "strategy": {
+        "citations": [
+          {
+            "quote": "when I'm saying reframe and reality of that, the market hasn't stopped.",
+            "unit_id": "u000005"
+          }
+        ],
+        "text": "Reframe the investor's perception by presenting evidence that the market is active and shifting."
+      },
+      "title": "Responding to Market Concerns",
+      "topic": "investor_concerns"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000010"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "What kind of projects and developers will sustain from the current market? And you can ask your clients this question. And probably it's easier than emotional persuasion, they're going to come up to their own realization.",
+            "unit_id": "u000010"
+          }
+        ],
+        "text": "The speaker suggests using questions to help clients come to their own realization about sustaining projects and developers."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Interactive Questioning for Self-Realization",
+      "topic": "client_interaction"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "I decided to do short videos just like this where I will be showcasing nine different strategies for those agents who wants to keep selling offline.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "To showcase nine different strategies for real estate agents who want to keep selling offline."
+      },
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "My name is August and I'm real estate sales trainer and I decided to do short videos just like this where I will be showcasing nine different strategies for those agents who wants to keep selling offline.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker decided to create short videos showcasing nine different strategies for real estate agents who want to keep selling offline."
+      },
+      "title": "Showcasing Sales Strategies",
+      "topic": "real_estate_sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000004",
+        "u000005",
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "Yes, Mr. client, I know it may look like the market has stopped. But reality is, the market shifted. Now, people are buying very smart. Demand didn't disappear. Buyers became more selective.",
+            "unit_id": "u000008"
+          }
+        ],
+        "text": "To change the client's perception from believing the market has stopped to recognizing market shifts and intelligent buying."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "This idea is the market has stopped.",
+              "unit_id": "u000004"
+            }
+          ],
+          "text": "Acknowledge the client's belief that the market has stopped."
+        },
+        {
+          "citations": [
+            {
+              "quote": "when I'm saying reframe and reality of that, the market hasn't stopped.",
+              "unit_id": "u000005"
+            }
+          ],
+          "text": "Reframe this belief by explaining that the market has shifted, not stopped."
+        },
+        {
+          "citations": [
+            {
+              "quote": "big launch in Abu Dhabi of gated community located on the beach. um it might not mean anything for you. O'Hara launched Manchester City and in seventy two hours more than six billion properties been sold.",
+              "unit_id": "u000006"
+            }
+          ],
+          "text": "Illustrate active demand with examples of recent property sales."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "when you're talking to an investor and you are selling an off-plan and this is an off-plan investor, you have to reframe the general idea that he will bring to the table.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Reframing the idea that the market has stopped into a recognition of market shifts and intelligent buying."
+      },
+      "title": "Market Reframing Strategy",
+      "topic": "real_estate_sales"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000012",
+        "u000013"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'm so sorry to bring it to everyone, but the smaller first-time developers which jump in the market in the past years, they gonna go.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "Smaller first-time developers who entered the market in past years are unlikely to survive current market conditions."
+      },
+      "title": "Perception of Smaller Developers",
+      "topic": "real_estate_sales_market"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "6e26561861f494494ac4677ba0461f5b72d522a2773fde072f4c751a66ac20ba",
+  "date": "2026-04-09T12:52:14.969000Z",
+  "date_basis": "source",
+  "external_id": "7447989756757491712",
+  "format": "post",
+  "id": "linkedin-posts-2026-04-09-we-all-lost-the-future-md-b16dbb284b",
+  "metadata_hash": "a54dae70c4b87ab628dcbfed1f050b0df579449b99edfe1c74a34e13335fc4ed",
+  "original_text": "---\nid: '7447989756757491712'\ndate: '2026-04-09T12:52:14.969Z'\nurl: https://www.linkedin.com/posts/olgasi_we-all-lost-the-future-now-what-activity-7447989756757491712-ztVU\nlikes: 13\ncomments: 0\nvideoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHv8MLeLSzpdw/mp4-720p-30fp-crf28/B4DZ1yTLuwHwBE-/0/1775739132229?e=1791298800&v=beta&t=QYrOsiqFvavjl7yM0LGbDA6zEWGrBwJp3wT1k4WVXGI\n---\n\nWe All lost the Future, Now what?\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-04-09-we-all-lost-the-future-md-b16dbb284b:p000001",
+      "locator": "lines 10-10",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "We All lost the Future, Now what?"
+    }
+  ],
+  "path": "linkedin/posts/2026-04-09-we-all-lost-the-future.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-04-09-we-all-lost-the-future.md",
+  "sha256": "05474af918768628f6db216ee2bcd5c3f80a81d4f04ddae6a53a4fc166075d72",
+  "speakers": {},
+  "title": "We All lost the Future, Now what?",
+  "units": [
+    {
+      "end": 33,
+      "id": "linkedin-posts-2026-04-09-we-all-lost-the-future-md-b16dbb284b:u000001",
+      "locator": "lines 10-10",
+      "passage_id": "linkedin-posts-2026-04-09-we-all-lost-the-future-md-b16dbb284b:p000001",
+      "raw_text": "We All lost the Future, Now what?",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "We All lost the Future, Now what?"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_we-all-lost-the-future-now-what-activity-7447989756757491712-ztVU"
+}

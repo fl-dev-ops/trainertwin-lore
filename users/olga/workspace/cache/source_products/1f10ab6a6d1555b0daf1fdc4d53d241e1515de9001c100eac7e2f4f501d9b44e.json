@@ -1,0 +1,255 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000126",
+        "u000127",
+        "u000128"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "I always would want to have a little bit higher than the markets.",
+            "unit_id": "u000128"
+          }
+        ],
+        "text": "Sellers often list their properties slightly above market price based on online comparisons rather than relying on agent valuations."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Everything is literally typically copy paste. All the buildings are more or less brand new.",
+            "unit_id": "u000126"
+          }
+        ],
+        "text": "In Dubai's secondary real estate market, sellers are skeptical of agents providing property valuations because they can easily compare similar unit prices online."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Owner's Skepticism of Property Valuations",
+      "topic": "secondary_market"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000119"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "The commission on the deal is paid by the seller. When we're talking about the secondary market in Dubai, the commission is paid by the buyer or if we're talking about rentals, by the tenant.",
+            "unit_id": "u000119"
+          }
+        ],
+        "text": "The speaker explains the commission structure by contrasting the payment responsibility in the secondary market and rental scenarios in Dubai."
+      },
+      "purpose": null,
+      "speaker_id": "3",
+      "title": "Explanation of Commission",
+      "topic": "commission"
+    },
+    {
+      "context_unit_ids": [
+        "u000140",
+        "u000141"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "they are not buying. And that's true. They submit inquiry to understand a little bit more. The level of awareness and the need is dramatically lower.",
+            "unit_id": "u000140"
+          }
+        ],
+        "text": "The speaker describes the nature of leads in the off-plan market and how their lack of urgency affects conversion compared to the secondary market."
+      },
+      "purpose": null,
+      "speaker_id": "3",
+      "title": "Lead Qualification in Off-Plan Market",
+      "topic": "lead_management"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000119",
+        "u000120",
+        "u000134",
+        "u000135"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the secondary market in Dubai, the commission is paid by the buyer or if we're talking about rentals, by the tenant.",
+            "unit_id": "u000119"
+          }
+        ],
+        "text": "In Dubai's secondary real estate market, the commission is paid by the buyer, unlike the commission for rentals, which is paid by the tenant."
+      },
+      "title": "Commission Systems in Dubai Real Estate",
+      "topic": "commission"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000121",
+        "u000122",
+        "u000123",
+        "u000124",
+        "u000129"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "In Dubai you cannot do that, like literally. If you are the owner, there is only one portal and it's just not really popular where you can put your property by yourself.",
+            "unit_id": "u000121"
+          }
+        ],
+        "text": "In Dubai, property listings on popular portals like Property Finder are only accessible to licensed real estate companies, not individual owners."
+      },
+      "title": "Listing Properties in Dubai",
+      "topic": "property_listing"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000125",
+        "u000126",
+        "u000127",
+        "u000128"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there is no need for me as a seller, look for your help to help me to evaluate how much my property worth because I as an owner of the property, go online, again property finder, all by you and over there, I can clearly see that there is five or six units the same as mine, maybe a little bit higher, maybe a little lower. There is no difference.",
+            "unit_id": "u000128"
+          }
+        ],
+        "text": "Secondary market agents in Dubai face challenges like lack of exclusivity and competition with other agents, as most properties are new and comparable."
+      },
+      "title": "Challenges for Secondary Market Agents",
+      "topic": "secondary_market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000130",
+        "u000131",
+        "u000132",
+        "u000133",
+        "u000134"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you're getting paid by the seller, which is a developer, which is not like a physical person.",
+            "unit_id": "u000131"
+          }
+        ],
+        "text": "In the off-plan market, agents can earn higher commissions ranging from 4% to 10% paid by developers, who are not individual sellers."
+      },
+      "title": "Income in Off-Plan Sales",
+      "topic": "commission"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000133",
+        "u000134",
+        "u000137"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Then your building, which is not completed yet, the price per square foot will be higher.",
+            "unit_id": "u000137"
+          }
+        ],
+        "text": "Off-plan properties are priced higher per square foot despite not being completed, which often confuses potential buyers."
+      },
+      "title": "Off-Plan Property Features",
+      "topic": "off_plan_properties"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000138",
+        "u000139",
+        "u000140",
+        "u000141"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The level of awareness and the need is dramatically lower.",
+            "unit_id": "u000141"
+          }
+        ],
+        "text": "Leads in the off-plan market often lack serious buyers compared to the more immediate needs of secondary market leads."
+      },
+      "title": "Lead Nature in Off-Plan vs Secondary Market",
+      "topic": "lead_management"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000145",
+        "u000146"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "you will get a salary. And as soon as I'm saying you will get a salary, a lot of you gonna gonna feel so much excited going, oh my god, I can get a salary.",
+            "unit_id": "u000146"
+          }
+        ],
+        "text": "Relationship managers in developer salesforces receive a salary ranging from 8,000 to 12,000 dirhams, contingent on meeting strict productivity targets."
+      },
+      "title": "Developer Relationship Managers",
+      "topic": "developer_positions"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000319"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "they could wake up and come to the session and ten by then like everybody will be hungry.",
+            "unit_id": "u000319"
+          }
+        ],
+        "text": "Consideration of participant preferences and habits for breakfast timing."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "two reasons I do, I think even when I was mentoring also I used to do this. I used to take an early session.",
+            "unit_id": "u000319"
+          },
+          {
+            "quote": "So two reasons, one definitely you get rest of the day for your preparation.",
+            "unit_id": "u000319"
+          }
+        ],
+        "text": "Scheduling sessions earlier allows participants time for personal activities and preparation during the day."
+      },
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "No, I I thought of that but again I think beyond ten probably people may not like wait to have breakfast, right?",
+            "unit_id": "u000319"
+          }
+        ],
+        "text": "Discussion on the timing of sessions to accommodate participant needs for breakfast and personal time."
+      },
+      "speaker_id": "4",
+      "strategy": null,
+      "title": "Scheduling Session Time",
+      "topic": "Session Organization"
+    },
+    {
+      "context_unit_ids": [
+        "u000323",
+        "u000333"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "So Discord can act as a way if you're coming to Discord probably you're coming for the covert you come with a mindset of learning.",
+            "unit_id": "u000324"
+          }
+        ],
+        "text": "Discussion on maintaining a platform for communication that suits educational purposes."
+      },
+      "diagnosis": null,
+      "kind": "recorded_exchange",
+      "outcome": null,
+      "rationale": {
+        "citations": [
+          {
+            "quote": "Discord can act as a way if you're coming to Discord probably you're coming for the covert you come with a mindset of learning.",
+            "unit_id": "u000324"
+          },
+          {
+            "quote": "it's going to be only for this cohort members only, nobody else, except that me and one more my support staff",
+            "unit_id": "u000333"
+          }
+        ],
+        "text": "Discord is chosen because it facilitates a mindset of learning and will be used exclusively for cohort communication."
+      },
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "And purposefully I'm not creating WhatsApp or Telegram or anything like that.",
+            "unit_id": "u000323"
+          }
+        ],
+        "text": "Vasanth explains the reasoning behind using Discord over other platforms for cohort communication."
+      },
+      "speaker_id": "4",
+      "strategy": null,
+      "title": "Use of Discord for Cohort Communication",
+      "topic": "Support and Communication"
+    }
+  ],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000319",
+        "u000321"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "beyond ten probably people may not like wait to have breakfast",
+            "unit_id": "u000319"
+          },
+          {
+            "quote": "eight to ten you get complete day for yourself. And second is definitely you all have some personal time also required",
+            "unit_id": "u000321"
+          }
+        ],
+        "text": "Sessions are recommended to be held from eight to ten in the morning to allow participants to have the rest of the day for their own use and personal time."
+      },
+      "title": "Session Timing Advice",
+      "topic": "Session Organization"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000321"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "anytime you message, I get notification. Anything non-technical support staff will respond, anything technical I myself will check it or any suggestions you have, you can always message me.",
+            "unit_id": "u000321"
+          }
+        ],
+        "text": "Participants are encouraged to message the instructor on WhatsApp for technical issues, and they will get a notification for immediate response."
+      },
+      "title": "Technical Support Availability",
+      "topic": "Support and Communication"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000323",
+        "u000324",
+        "u000325",
+        "u000333"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I'll be creating a Discord group and I'll be sharing the, I'll be inviting all of you there. Please start using the Discord.",
+            "unit_id": "u000323"
+          },
+          {
+            "quote": "purpose of creating Discord is like even after the court is over also we can still stay connected",
+            "unit_id": "u000324"
+          },
+          {
+            "quote": "everywhere basically anywhere we would have a group, it's going to be only for this cohort members only, nobody else, except that me and one more my support staff",
+            "unit_id": "u000333"
+          }
+        ],
+        "text": "A Discord group will be created to keep connected with the cohort members and share updates and discussions, excluding the use of WhatsApp and Telegram."
+      },
+      "title": "Discord Group Creation",
+      "topic": "Support and Communication"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000345",
+        "u000351"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this recording needs to be uploaded and comes... will be shared to you over a email and uh, I will also add all of that in the notion document",
+            "unit_id": "u000345"
+          },
+          {
+            "quote": "unlisted means only registered email ID people can actually view it. So those email IDs will be shared with your email IDs",
+            "unit_id": "u000351"
+          }
+        ],
+        "text": "Session recordings will be uploaded to YouTube as unlisted and links will be shared via email and Notion documents to provide continued access."
+      },
+      "title": "Content Delivery via Notion and YouTube",
+      "topic": "Session Organization"
+    }
+  ]
+}

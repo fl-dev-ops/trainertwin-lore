@@ -1,0 +1,44 @@
+{
+  "audience": "",
+  "author": "olgasi",
+  "category": "linkedin",
+  "content_hash": "dc4f517377cd9733648c5a31c61dee63d6c0fa90d2ff5e618caa6c81f33bccfd",
+  "date": "2026-05-20T12:00:48.856000Z",
+  "date_basis": "source",
+  "external_id": "7462834715151101952",
+  "format": "post",
+  "id": "linkedin-posts-2026-05-20-another-idea-of-leadgen-md-8f8f3e0802",
+  "metadata_hash": "c9ecfb15cefc2dac2ada53e681dcae054889102cef1543c40a62ee033ae796a0",
+  "original_text": "---\nid: '7462834715151101952'\ndate: '2026-05-20T12:00:48.856Z'\nurl: https://www.linkedin.com/posts/olgasi_dubai-real-estate-lead-generation-why-agents-activity-7462834715151101952-bW2N\nlikes: 3\ncomments: 0\narticle:\n  title: 'Dubai Real Estate Lead Generation: Why Agents’ Ideas Fail'\n  subtitle: olgasiliveitup.com\n  link: https://www.olgasiliveitup.com/blog/dubai-real-estate-lead-generation-why-agent-ideas-fail\n---\n\nAnother Idea of LeadGen!\n\n### Shared Article: [Dubai Real Estate Lead Generation: Why Agents’ Ideas Fail](https://www.olgasiliveitup.com/blog/dubai-real-estate-lead-generation-why-agent-ideas-fail)\n> olgasiliveitup.com\n\n",
+  "passages": [
+    {
+      "id": "linkedin-posts-2026-05-20-another-idea-of-leadgen-md-8f8f3e0802:p000001",
+      "locator": "lines 13-16",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "t": "",
+      "text": "Another Idea of LeadGen!\n\n### Shared Article: [Dubai Real Estate Lead Generation: Why Agents’ Ideas Fail](https://www.olgasiliveitup.com/blog/dubai-real-estate-lead-generation-why-agent-ideas-fail)\n> olgasiliveitup.com"
+    }
+  ],
+  "path": "linkedin/posts/2026-05-20-another-idea-of-leadgen.md",
+  "purpose": "",
+  "relative_path": "linkedin/posts/2026-05-20-another-idea-of-leadgen.md",
+  "sha256": "fa8e39a9dfab1141889de7580990ef75d5f9a6aeb951d715184c9b3dc2db3aad",
+  "speakers": {},
+  "title": "Another Idea of LeadGen!",
+  "units": [
+    {
+      "end": 218,
+      "id": "linkedin-posts-2026-05-20-another-idea-of-leadgen-md-8f8f3e0802:u000001",
+      "locator": "lines 13-16",
+      "passage_id": "linkedin-posts-2026-05-20-another-idea-of-leadgen-md-8f8f3e0802:p000001",
+      "raw_text": "Another Idea of LeadGen!\n\n### Shared Article: [Dubai Real Estate Lead Generation: Why Agents’ Ideas Fail](https://www.olgasiliveitup.com/blog/dubai-real-estate-lead-generation-why-agent-ideas-fail)\n> olgasiliveitup.com",
+      "representation": "authored_text",
+      "speaker_id": "",
+      "start": 0,
+      "t": "",
+      "text": "Another Idea of LeadGen! ### Shared Article: [Dubai Real Estate Lead Generation: Why Agents’ Ideas Fail](https://www.olgasiliveitup.com/blog/dubai-real-estate-lead-generation-why-agent-ideas-fail) > olgasiliveitup.com"
+    }
+  ],
+  "url": "https://www.linkedin.com/posts/olgasi_dubai-real-estate-lead-generation-why-agents-activity-7462834715151101952-bW2N"
+}

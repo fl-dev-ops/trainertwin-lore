@@ -1,0 +1,136 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "uncertainty that you feel right now in Dubai is because the future you had, you dreamed, you probably lived already in it, without that even happening, is gone. You lost it.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker starts by addressing the audience's current emotions, attributing them to the loss of a dreamed future."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Future loss explanation",
+      "topic": "future_loss"
+    },
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "And the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and being angry, you end up in exception.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The speaker connects the acceptance of losing the future with moving through the five stages of grief to reach acceptance."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Grief stages presentation",
+      "topic": "grief_process"
+    },
+    {
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "asking yourself a simple question. Why is this happened for me? And you will find a lot of power and the reasons and the understanding for yourself how you can get a window of opportunities instead of this crisis and make money.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "The speaker suggests reframing a crisis into a question of personal growth, focusing on opportunity rather than loss."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Opportunity framing",
+      "topic": "opportunity_in_crisis"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "uncertainty that you feel right now in Dubai is because the future you had, you dreamed, you probably lived already in it, without that even happening, is gone. You lost it.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The speaker claims that the uncertainty felt is due to the loss of a future that was dreamed or already lived in thought."
+      },
+      "title": "Acceptance of lost future",
+      "topic": "future_loss"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "And the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and being angry, you end up in exception.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Accepting the loss of the future can expedite going through the five stages of grief, leading to acceptance."
+      },
+      "title": "Stages of grief in future loss",
+      "topic": "grief_process"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003",
+        "u000004"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "asking yourself a simple question. Why is this happened for me? And you will find a lot of power and the reasons and the understanding for yourself how you can get a window of opportunities instead of this crisis and make money.",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "or at least enjoy and get new skills and new path, shift your career in different direction if it's needed. Everyone can do it. You can do it.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "By asking why a situation happened, one can find opportunities, potentially making money or gaining skills."
+      },
+      "title": "Finding opportunity in crisis",
+      "topic": "opportunity_in_crisis"
+    }
+  ]
+}

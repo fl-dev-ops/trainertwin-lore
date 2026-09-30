@@ -1,0 +1,323 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000275",
+        "u000276",
+        "u000277"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "just a small question that uh JavaScript pushes anything in the call stack only when uh the function is called right not it is when it is declared",
+            "unit_id": "u000275"
+          }
+        ],
+        "text": "Saad asks if JavaScript pushes anything to the call stack only when the function is called, not when it is declared."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "correct",
+            "unit_id": "u000276"
+          },
+          {
+            "quote": "नो नो करेक्ट। ओनली व्हेन देयर इज अ रेफरेंस गेटिंग, दैट टाइम इट विल गेट गेटिंग एट एडेड साथ। करेक्ट।",
+            "unit_id": "u000277"
+          }
+        ],
+        "text": "The instructor confirms that JavaScript indeed pushes to the call stack only when a function is called, not declared."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "Yes, Saad, please go ahead.",
+            "unit_id": "u000274"
+          }
+        ],
+        "text": "A participant had a question about JavaScript call stack behavior regarding function calls and declarations."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Question on Execution Context",
+      "topic": "JavaScript Fundamentals"
+    },
+    {
+      "context_unit_ids": [
+        "u000283",
+        "u000288",
+        "u000289"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "is there any other reason like why execution context is specifically created?",
+            "unit_id": "u000283"
+          }
+        ],
+        "text": "The participant asks if there's any reason for creating an execution context besides memory checks before executing code."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "primary reason is that only. Like, unlike languages like Java or C++ where it is not compiled many a times. So we are trying to allocate memory during the runtime.",
+            "unit_id": "u000288"
+          }
+        ],
+        "text": "The primary reason for execution context is runtime memory allocation, unlike precompiled languages like Java or C++."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "why do we even need an execution context in the first place?",
+            "unit_id": "u000283"
+          }
+        ],
+        "text": "A participant questions the necessity of an execution context in JavaScript."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Execution Context Role",
+      "topic": "JavaScript Execution Context"
+    },
+    {
+      "context_unit_ids": [
+        "u000296",
+        "u000302",
+        "u000306"
+      ],
+      "cue": {
+        "citations": [
+          {
+            "quote": "Will the say hi wait until the time is over and then returns to greetings or it will gonna do something else.",
+            "unit_id": "u000296"
+          }
+        ],
+        "text": "There is a question about whether a function with a setTimeout will wait for the timeout to complete before proceeding."
+      },
+      "diagnosis": null,
+      "kind": "reported_exchange",
+      "outcome": null,
+      "rationale": null,
+      "response": {
+        "citations": [
+          {
+            "quote": "when the say hi is called, right? It sees an asynchronous uh code and it pushes to the micro task queue.",
+            "unit_id": "u000297"
+          },
+          {
+            "quote": "and once the main call stack is empty it will push that that thing to the",
+            "unit_id": "u000301"
+          }
+        ],
+        "text": "The response explains that asynchronous code does not wait for the call stack; it goes to the micro task queue and executes after the stack is empty."
+      },
+      "situation": {
+        "citations": [
+          {
+            "quote": "with the current execution context, we explain, right? Like there is an execution context created, and then it will be killed as soon as the execution is over.",
+            "unit_id": "u000296"
+          }
+        ],
+        "text": "A JavaScript function contains a setTimeout, and there is a question about its execution order."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "Async Execution Query",
+      "topic": "JavaScript Async Functions"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000273"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "You can consider it as a block. Everything required to execute that block within present is within that box only. Box or block. Okay? That's a good analogy.",
+            "unit_id": "u000273"
+          }
+        ],
+        "text": "The speaker uses an analogy comparing JavaScript objects to a block where everything required to execute is inside the block, facilitating understanding."
+      },
+      "purpose": {
+        "citations": [
+          {
+            "quote": "That's a good analogy. You can consider it like an object also or you can consider it like a block of thing everything required to execute is present within that. Okay?",
+            "unit_id": "u000273"
+          }
+        ],
+        "text": "To help participants understand the concept of execution context by relating it to something familiar like objects or blocks."
+      },
+      "speaker_id": "2",
+      "title": "Object Analogy",
+      "topic": "JavaScript Fundamentals"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000273"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "advice",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "right because everything end of the day is object only in JavaScript. You can consider it as a block. Everything required to execute that block",
+            "unit_id": "u000273"
+          }
+        ],
+        "text": "Consider everything in JavaScript as an object or a block, where everything required to execute is within that box or block."
+      },
+      "title": "JavaScript Object Analogy",
+      "topic": "JavaScript Fundamentals"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000275",
+        "u000276"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "just a small question that uh JavaScript pushes anything in the call stack only when uh the function is called right not it is when it is declared",
+            "unit_id": "u000275"
+          },
+          {
+            "quote": "correct",
+            "unit_id": "u000276"
+          }
+        ],
+        "text": "JavaScript pushes a function into the call stack only when the function is called, not when it is declared."
+      },
+      "title": "Function Call and Call Stack",
+      "topic": "JavaScript Call Stack"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000280",
+        "u000281",
+        "u000282"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "execution context is you can consider like the the call stack basically, is it a part of JS engine? We can say definitely yes.",
+            "unit_id": "u000281"
+          },
+          {
+            "quote": "the call stack executes the code from the execution context and that execution context will be present in the stack",
+            "unit_id": "u000282"
+          }
+        ],
+        "text": "The execution context is part of the JS engine as it gets into the engine, and the engine executes the references of the execution context."
+      },
+      "title": "Execution Context in JS Engine",
+      "topic": "JavaScript Execution Context"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000283",
+        "u000288"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "primary reason is that only. Like, unlike languages like Java or C++ where it is not compiled many a times. So we are trying to allocate memory during the runtime.",
+            "unit_id": "u000288"
+          }
+        ],
+        "text": "The primary reason for the execution context is memory allocation during runtime, unlike precompiled languages like Java or C++."
+      },
+      "title": "Reason for Execution Context",
+      "topic": "JavaScript Execution Context"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000291",
+        "u000296"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "async functions, right? Within the function execution context,",
+            "unit_id": "u000291"
+          },
+          {
+            "quote": "Will the say hi wait until the time is over and then returns to greetings or it will gonna do something else.",
+            "unit_id": "u000296"
+          }
+        ],
+        "text": "In JavaScript, asynchronous functions like setTimeout allow execution to continue without waiting, placing tasks in the micro task queue until the call stack is empty."
+      },
+      "title": "Async Functions and Execution Context",
+      "topic": "JavaScript Asynchronous Execution"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000311",
+        "u000318"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "first greeting will execute. Then say hi will be called. Okay. So when the say hi will be called, it will try to execute.",
+            "unit_id": "u000311"
+          },
+          {
+            "quote": "hi will be printed and then the when the event loop will check like okay the stall call stack is empty, then again that inside set timeout will say hi.",
+            "unit_id": "u000318"
+          }
+        ],
+        "text": "The greeting will execute first, followed by hi, and then the setTimeout will execute once the call stack is empty."
+      },
+      "title": "Order of Execution and Event Loop",
+      "topic": "JavaScript Event Loop"
+    }
+  ]
+}

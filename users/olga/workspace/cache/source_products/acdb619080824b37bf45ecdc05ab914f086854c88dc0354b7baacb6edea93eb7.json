@@ -1,0 +1,89 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Do I actually know how to sell, or have I just been working in a market where selling was easier?",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The author questions whether they actually know how to sell or if they have just been operating in an easier market."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Rhetorical questioning",
+      "topic": "communication style"
+    },
+    {
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Then you actually started working with leads. And realised it does not work like that at all.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The author contrasts the belief that selling in Dubai real estate would be easy due to the popularity and regular project launches with the reality of working with leads and facing challenges."
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Contrast presentation",
+      "topic": "buyer behavior in real estate"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "But quite often, the problem happened much earlier.\n\n- You did not qualify the client properly.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The problem of buyers disappearing often happens because the client was not qualified properly."
+      },
+      "title": "Client qualification issue",
+      "topic": "buyer behavior in real estate"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "this may not be an individual agent problem.\n\nIt may be a sales process problem.",
+            "unit_id": "u000003"
+          }
+        ],
+        "text": "When clients keep disappearing after Zoom calls and endless follow-ups, it may indicate a sales process problem, not an individual agent issue."
+      },
+      "title": "Sales process challenge",
+      "topic": "sales process in real estate"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "I never thought I will say this..",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The post begins with an unexpected realization, using suspenseful wording like \"I never thought I will say this.”"
+      },
+      "purpose": null,
+      "speaker_id": null,
+      "title": "Introduction with Anticipation",
+      "topic": "real estate trends"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Sales Skills are not what determine your success in Dubai real estate anymore",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "Sales skills are not what determine success in Dubai real estate anymore."
+      },
+      "title": "Sales Skills in Dubai Real Estate",
+      "topic": "real estate trends"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "offering",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "Training - How to sell in a war uncertainty market.\n\nIt comes after several MindShifting concepts",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "Training on \"How to sell in a war uncertainty market\" includes several MindShifting concepts for agents."
+      },
+      "title": "MindShifting Concepts for Agents",
+      "topic": "real estate training"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000001",
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": {
+        "citations": [
+          {
+            "quote": "To see every situation either from the position - why this is happening to Me…\n\nOr From a position “why I Created this “all” in my life”",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "To shift perspective from external blame to internal reflection."
+      },
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "But after 2 pages written on - How that was me… not Trump 🤪… who created this in my life.",
+              "unit_id": "u000002"
+            }
+          ],
+          "text": "Write two pages on how you created your current situation."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "there is a choice…\nTo see every situation either from the position - why this is happening to Me…\n\nOr From a position “why I Created this “all” in my life”",
+            "unit_id": "u000001"
+          },
+          {
+            "quote": "But after 2 pages written on - How that was me… not Trump 🤪… who created this in my life.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The training includes a reflection exercise on viewing situations as self-created."
+      },
+      "title": "Reflection Exercise in Training",
+      "topic": "real estate training"
+    }
+  ]
+}

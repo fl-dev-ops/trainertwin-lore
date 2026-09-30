@@ -1,0 +1,23 @@
+{
+  "files": {
+    "examples.jsonl": "2e116e4a303e2b097323940a914094e9f9da9bc4ccfa49af70996e610681651b",
+    "profile.json": "3cd351606664ba5cc3dcd9d590edbc13a45ae84c4226d79c103bf0842eb9dd2f",
+    "profile.md": "0de49d686260c350bd6877b61eb58250f39d00c26b45a433081b5fbcfc5bde4e"
+  },
+  "inputs": {
+    "config": {
+      "authors": [
+        "olgasi"
+      ],
+      "max_chars": 60000,
+      "max_sources": 24,
+      "model": "openai/gpt-4o",
+      "reviewed_only": false
+    },
+    "evidence": "aaa27b0a0b8b83a9dc2a60cd9f25dfaba6a6b0e0864ace8708381afd0d69467c",
+    "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+    "specification": "96eb1beb0f7f41fccc1f5bb79243883d4af17accc71b3c0bd8b4889108dd4560",
+    "workspace_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/workspace"
+  },
+  "version": "4"
+}

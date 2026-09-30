@@ -1,0 +1,32 @@
+{
+  "chunk_chars": 15000,
+  "chunks": 1,
+  "evidence_count": 14,
+  "evidence_file": "youtube-video-2026-07-31-5-levels-of-dubai-real-estate-from-danger-zones-to-safe-bets-d90891a327-909c1216153dc7a94c23.jsonl",
+  "evidence_hash": "53e566791c6f53804c08c9546faa340f44fafffc16eb304a2bc5356a60a5232e",
+  "extraction_signature": "7d38a4938549cec343c026023b69a7e581821b9f6b0564f7d55b4b662a9deb6b",
+  "ingested_at": "2026-09-30T05:14:32Z",
+  "metadata_hash": "8b43ebb1090bca5c8c21ac278adbcb1052fb221b58bf6380d9f7955d6281b10e",
+  "model": "openai/gpt-4o",
+  "products": {
+    "expression": 5,
+    "knowledge": 9
+  },
+  "quality": {
+    "coverage_is_recall": false,
+    "empty_chunks": 0,
+    "semantic_support": "not_reviewed",
+    "status": "complete",
+    "units_cited": 8,
+    "units_total": 24
+  },
+  "revision": "909c1216153dc7a94c23",
+  "snapshot_hash": "4c4e8242fccbc0aa6f568b0169612d9ab77aeecf941f9defeffae1ab54b63f08",
+  "source_format": "source-products-v4",
+  "source_id": "youtube-video-2026-07-31-5-levels-of-dubai-real-estate-from-danger-zones-to-safe-bets-d90891a327",
+  "source_path": "youtube/video/2026-07-31-5-levels-of-dubai-real-estate-from-danger-zones-to-safe-bets-4YZuEYW4RTs.md",
+  "source_root": "/Users/suryaumapathy/Developers/Github/foreverlearning/olga/users/olga/data",
+  "source_sha256": "cac48a57272ca8e4b19d9f14215fc88db545eba6a3b7eab58d753a7474a06135",
+  "source_snapshot": "youtube-video-2026-07-31-5-levels-of-dubai-real-estate-from-danger-zones-to-safe-bets-d90891a327-909c1216153dc7a94c23.json",
+  "version": "4"
+}

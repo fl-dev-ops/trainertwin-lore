@@ -1,0 +1,133 @@
+{
+  "cases": [],
+  "expression": [],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000008",
+        "u000009",
+        "u000010",
+        "u000011",
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The war by itself is not the reason for prices to go down.",
+            "unit_id": "u000008"
+          },
+          {
+            "quote": "the financial crisis in two thousand eight all over the world which started in U.S. was the housing crisis.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "The war is not the reason for real estate prices to go down; the real reason is systemic like the financial crisis in 2008 caused by the housing crisis."
+      },
+      "title": "Dubai real estate market in crisis",
+      "topic": "real estate market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000010",
+        "u000011",
+        "u000012"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "the check of the background of their ability to pay back was not even happening. They were just given the money away.",
+            "unit_id": "u000011"
+          }
+        ],
+        "text": "The 2008 financial crises were due to banks giving mortgages to individuals unable to repay, leading to defaults."
+      },
+      "title": "Impact of 2008 financial crisis on real estate",
+      "topic": "financial crisis"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000012",
+        "u000014",
+        "u000016"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "what we see here in Dubai banking system, nothing is happening. You can go get a mortgage right now.",
+            "unit_id": "u000012"
+          }
+        ],
+        "text": "In Dubai, the banking system is stable with no defaults, indicating there is no reason for real estate prices to fall systemically."
+      },
+      "title": "Olga Si's stance on current market stability in Dubai",
+      "topic": "real estate market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000018",
+        "u000020"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "um and the countries which shall let's say creating this noise in the social media, this crisis, this fear.",
+            "unit_id": "u000018"
+          },
+          {
+            "quote": "they're doing it to get more views, you know, that's that's normal.",
+            "unit_id": "u000020"
+          }
+        ],
+        "text": "Countries experiencing economic crises create noise on social media to attract more views and potentially heighten crisis perceptions."
+      },
+      "title": "Countries in crisis create social media noise",
+      "topic": "economic perception"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000021"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "understanding how you can move the conversation from the crisis of the real estate market to the fundamentals saying that the crisis is not there.",
+            "unit_id": "u000021"
+          }
+        ],
+        "text": "The real estate crisis is not as dire as portrayed if one considers economic fundamentals beyond the immediate market panic."
+      },
+      "title": "Olga Si's view on Dubai's economic fundamentals",
+      "topic": "real estate market"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "cases": [
+    {
+      "context_unit_ids": [
+        "u000065",
+        "u000066"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "it's a new development, uh being sold in twenty twenty four. And the resale happened with the property being completed in June twenty twenty six.",
+            "unit_id": "u000065"
+          }
+        ],
+        "text": "A two-bedroom apartment in Dubai was purchased as a new development in 2024 and had completed resale in 2026."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "property under market conditions",
+      "topic": "Dubai property market"
+    },
+    {
+      "context_unit_ids": [
+        "u000074",
+        "u000075"
+      ],
+      "cue": null,
+      "diagnosis": null,
+      "kind": "demonstration",
+      "outcome": null,
+      "rationale": null,
+      "response": null,
+      "situation": {
+        "citations": [
+          {
+            "quote": "two and twenty sixteen it was already sold on the previous cycle which cycle was going down one point four they doubled the money within six years not that bad rental contracts for one bedroom still able to rent out for the new contract for sixty five and the renewal was happening from twenty twenty four February he was renting it for sixty six which I would say a little bit low",
+            "unit_id": "u000074"
+          }
+        ],
+        "text": "A one-bedroom unit was consistently rented and experienced both a sell and rental price change over a few years."
+      },
+      "speaker_id": null,
+      "strategy": null,
+      "title": "comparison of rental and sales",
+      "topic": "Dubai rental market"
+    }
+  ],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000059",
+        "u000060"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "so the the purchase price was four hundred thirty six. Then you could see that it was a panic resale in May twenty twenty five and then yesterday this person who purchased over here, well distress of course, he resold it already with six hundred.",
+            "unit_id": "u000059"
+          }
+        ],
+        "text": "The speaker presents a sequence of transaction details, including purchase price, resale conditions, and potential transaction costs."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "structure of explanation",
+      "topic": "property transaction"
+    },
+    {
+      "context_unit_ids": [
+        "u000057",
+        "u000058"
+      ],
+      "form": "wording",
+      "observation": {
+        "citations": [
+          {
+            "quote": "you can see uh two thousand two hundred twenty eight apartment being transferred",
+            "unit_id": "u000057"
+          }
+        ],
+        "text": "The speaker uses exact numbers and percentages to represent property transactions and market trends."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "use of numerical data",
+      "topic": "Dubai property market"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000053"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "if the evaluation is coming from the bank with a lower price, most probably your seller will be half to much the price of the bank. That's not the case in Dubai.",
+            "unit_id": "u000053"
+          }
+        ],
+        "text": "A bank's evaluation of a property's price in Dubai does not necessarily affect the seller's asking price, unlike in some other countries where sellers might match the bank's evaluation."
+      },
+      "title": "property evaluation practices",
+      "topic": "Dubai property market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000054"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "price, yeah, it might be lower than the bank thinks, but I still want this price. And believe me, a lot of buyers will still go ahead because the properties, um the good ones are on a high demand always.",
+            "unit_id": "u000054"
+          }
+        ],
+        "text": "Despite lower evaluations from banks, many buyers in Dubai may still proceed with purchasing properties due to high demand for good ones."
+      },
+      "title": "demand for properties",
+      "topic": "Dubai property market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000061"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "he sold it for six hundred thousand.",
+            "unit_id": "u000061"
+          }
+        ],
+        "text": "A property was purchased for 436,000 and later resold for 600,000, resulting in a profit."
+      },
+      "title": "investment returns",
+      "topic": "Dubai property market"
+    }
+  ]
+}

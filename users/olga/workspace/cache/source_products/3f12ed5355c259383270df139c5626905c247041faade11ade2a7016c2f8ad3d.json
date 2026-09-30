@@ -1,0 +1,163 @@
+{
+  "cases": [],
+  "expression": [
+    {
+      "context_unit_ids": [
+        "u000001"
+      ],
+      "form": "structure",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Welcome to the battlefield of Dubai. My name is Olga Sinek, I'm real estate sales trainer and I'm teaching you how to keep sane in this war market uncertainty and how using my nine strategies keep selling off plan.",
+            "unit_id": "u000001"
+          }
+        ],
+        "text": "The introduction begins by establishing credibility of the speaker as a real estate sales trainer, addresses the audience directly, and sets up the importance of strategies in dealing effectively with the Dubai real estate market."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Introduction Structure",
+      "topic": "rhetorical_moves"
+    },
+    {
+      "context_unit_ids": [
+        "u000004"
+      ],
+      "form": "rhetorical_move",
+      "observation": {
+        "citations": [
+          {
+            "quote": "Supply on paper and real delivery supply.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "The speaker uses contrast to differentiate 'supply on paper' from 'real delivery supply', highlighting the common perception versus the actual situation."
+      },
+      "purpose": null,
+      "speaker_id": "1",
+      "title": "Use of Contrast to Explain Market Concepts",
+      "topic": "real_estate_market"
+    }
+  ],
+  "knowledge": [
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000002"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "self_report",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "I've been here for eleven years selling myself.",
+            "unit_id": "u000002"
+          }
+        ],
+        "text": "The author claims they have been selling real estate in Dubai for eleven years."
+      },
+      "title": "Selecting Real Estate Products in Dubai",
+      "topic": "real_estate_market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000003",
+        "u000004",
+        "u000007",
+        "u000008"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "method",
+      "prerequisites": [],
+      "steps": [
+        {
+          "citations": [
+            {
+              "quote": "The developer announced in one thing, which is supply on paper, but real delivery is completely different.",
+              "unit_id": "u000007"
+            }
+          ],
+          "text": "The developer announces supply on paper, but real delivery is often different."
+        },
+        {
+          "citations": [
+            {
+              "quote": "If you will go to any platforms which at you as an agent should be using, hopefully you have an access from your company, reading, uh property monitor, you will see that there is a certain percentage of new units",
+              "unit_id": "u000007"
+            },
+            {
+              "quote": "certain developers which are mentioned and then you go and understand what is the actual construction progress of this project",
+              "unit_id": "u000008"
+            }
+          ],
+          "text": "Agents should use platforms like Property Monitor to check the actual construction progress of projects."
+        }
+      ],
+      "summary": {
+        "citations": [
+          {
+            "quote": "You have to explain the difference between",
+            "unit_id": "u000003"
+          },
+          {
+            "quote": "Supply on paper and real delivery supply.",
+            "unit_id": "u000004"
+          }
+        ],
+        "text": "Explain the difference between supply on paper and real delivery supply to offline investors."
+      },
+      "title": "Difference Between Paper Supply and Real Delivery",
+      "topic": "real_estate_market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000009"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "The difference between on paper, which is announced and realistic, uh supply, which going to be handed over, is around forty percent.",
+            "unit_id": "u000009"
+          }
+        ],
+        "text": "The difference between announced and actual supply is about 40% less."
+      },
+      "title": "Fluctuation In Announced vs. Actual Supply",
+      "topic": "real_estate_market"
+    },
+    {
+      "constraints": [],
+      "context_unit_ids": [
+        "u000013"
+      ],
+      "exceptions": [],
+      "goal": null,
+      "kind": "claim",
+      "prerequisites": [],
+      "steps": [],
+      "summary": {
+        "citations": [
+          {
+            "quote": "we had on average fifteen to twenty thousand people coming into Dubai, getting their residency per month.",
+            "unit_id": "u000013"
+          }
+        ],
+        "text": "Before the uncertainty, Dubai had an influx of 15,000 to 20,000 new residents per month."
+      },
+      "title": "Expected Real Estate Market Behavior",
+      "topic": "real_estate_influx"
+    }
+  ]
+}
