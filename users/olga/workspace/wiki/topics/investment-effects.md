@@ -1,6 +1,21 @@
-# investment effects
+# Investment effects
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Investment effects
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-8e6414dc0927da6a"></a>
 ## Impact of market conditions on investors
@@ -48,3 +63,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 98-98 · spoken_turn
 
 > not one of them can now. Two of them cannot make the next installment. One has already almost quarter million dirhams in late payment fees and developer keep charging more. None of them were reckless back then. They they did exactly what this entire industry told them to do. So before you sign anything off plan, answer one question and answer it out loud.
+

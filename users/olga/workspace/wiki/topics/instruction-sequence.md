@@ -1,6 +1,22 @@
-# instruction sequence
+# Instruction sequence
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Instruction sequence
+
+## Methods and expression
+
+- [Step Emphasis](../expression/step-emphasis-8eeb5841f1.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-8eeb5841f1f2dfb4"></a>
 ## Step Emphasis
@@ -23,3 +39,4 @@ Not stated in the cited excerpt.
 
 > How to get it back?
 > First Step is To Accept and Ask Yourself a Question
+

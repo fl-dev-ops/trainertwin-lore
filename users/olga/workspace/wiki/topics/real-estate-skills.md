@@ -1,6 +1,22 @@
 # real estate skills
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate skills
+
+## Methods and expression
+
+- [Importance justification](../expression/importance-justification-5da05c2ce6.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f897ca690f1e8428"></a>
 ## Real estate skill in 2026
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Despite “all what’s happening” joining real estate in 2026!? My answer is - Ability to Talk about Real Estate under pressure would be your most valuable skill!
+

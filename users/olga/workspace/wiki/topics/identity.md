@@ -1,6 +1,21 @@
 # identity
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** identity
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-075e462cb470e053"></a>
 ## Name Change Experience
@@ -38,3 +53,4 @@
 > And Matthew - who was the CEO back then asked me where I’m from…
 > 
 > However by
+

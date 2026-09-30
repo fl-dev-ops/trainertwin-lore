@@ -1,6 +1,22 @@
 # new agent schedule
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** new agent schedule
+
+## Methods and expression
+
+- [Six-Month Agent Schedule](../methods/six-month-agent-schedule-8234f1cf26.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-8234f1cf2682f1f1"></a>
 ## Six-Month Agent Schedule
@@ -57,3 +73,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 80-80 · spoken_turn
 
 > screen, just if the client is sitting on the other side. Then you put your first recording next to your fourth, and you will see the change in your composure. It will shock you. Second part is your database. You may not have leads, but you know people, and they are not your buyers, they're your distribution line. One of them has a cousin who've been looking at Dubai for a year, but you will never find this cousin on a portal.
+

@@ -1,6 +1,22 @@
 # experienced agent schedule
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** experienced agent schedule
+
+## Methods and expression
+
+- [Time Management Changes After Six Months](../methods/time-management-changes-after-six-months-6a4ef876c5.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-6a4ef876c5d10162"></a>
 ## Time Management Changes After Six Months
@@ -70,3 +86,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 132-132 · spoken_turn
 
 > and evenings are for viewings or Zoom meetings with clients. They batched into one part of the day, they're not scattered across it. Wednesday afternoon is the only block in this week that isn't a conversation. It's a content and one hour listening back to your own calls. That's your education now. When I break down coaching clients recordings, the conversion from call to meeting to closing goes as much as fifty percent. On your own, you will still hear
+

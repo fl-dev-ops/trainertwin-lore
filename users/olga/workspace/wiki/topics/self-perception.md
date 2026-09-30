@@ -1,6 +1,21 @@
-# self perception
+# self-perception
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** self-perception
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-fa8debef6753e193"></a>
 ## Unique Skill Perception
@@ -18,3 +33,4 @@
 **unknown speaker** · lines 27-27 · spoken_turn
 
 > I know for sure that they will pay any money not to do this. So I am the unique person who in their mind is doing something they're not capable of. And of course they explain it to themselves like, well why she's doing this? Oh how dare she? Or maybe they don't or maybe they really like Jesus Christ. I wish I could do something like this.
+

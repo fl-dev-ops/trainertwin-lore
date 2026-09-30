@@ -1,23 +1,22 @@
 # real estate trends
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
 
-<a id="record-60295dcb791fbb84"></a>
-## Creek Harbor Investment Reflection
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
 
-**Product:** knowledge · **Type:** self_report · **Source support:** not_reviewed
-**Publication:** 2026-06-24 · **Author:** olgasi · **Format:** transcript
+**Aliases:** real estate trends, Real Estate Trends
 
-### Summary
+## Methods and expression
 
-- The speaker reflects on Creek Harbor's early days as a deserted and seemingly unattractive area for investment, despite its later success.
-  - “At that time I was already an agent here for a year. But I was thinking as a new agent, uh oh my god, it's so far. Who will even be interested in living here? It was completely deserted, nothing happening area.” — [lines 174-174](../../../data/youtube/video/2026-06-24-the-dubai-areas-that-will-rise-over-the-next-10-years-k4mivSZgOpA.md) (`youtube-video-2026-06-24-the-dubai-areas-that-will-rise-over-the-next-10-years-k4mivs-55e5a76b49:u000034`)
+- [Introduction with Anticipation](../expression/introduction-with-anticipation-ae2c1ffc46.md)
 
-### Original context
+## Episodes
 
-**olgasi** · lines 174-174 · spoken_turn
 
-> and Metroline. So, uh Creek Harbor was launched in two thousand fifteen sixteen and honestly, I remember myself at this launch. At that time I was already an agent here for a year. But I was thinking as a new agent, uh oh my god, it's so far. Who will even be interested in living here? It was completely deserted, nothing happening area. And uh there were people who saw
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-e0f09435c7b59193"></a>
 ## Sales Skills in Dubai Real Estate
@@ -82,3 +81,21 @@ Not stated in the cited excerpt.
 > Or From a position “why I Created this “all” in my life”
 > 
 > Can you imagine-this question and reflection exercise is  Now a part of my
+
+<a id="record-60295dcb791fbb84"></a>
+## Creek Harbor Investment Reflection
+
+**Product:** knowledge · **Type:** self_report · **Source support:** not_reviewed
+**Publication:** 2026-06-24 · **Author:** olgasi · **Format:** transcript
+
+### Summary
+
+- The speaker reflects on Creek Harbor's early days as a deserted and seemingly unattractive area for investment, despite its later success.
+  - “At that time I was already an agent here for a year. But I was thinking as a new agent, uh oh my god, it's so far. Who will even be interested in living here? It was completely deserted, nothing happening area.” — [lines 174-174](../../../data/youtube/video/2026-06-24-the-dubai-areas-that-will-rise-over-the-next-10-years-k4mivSZgOpA.md) (`youtube-video-2026-06-24-the-dubai-areas-that-will-rise-over-the-next-10-years-k4mivs-55e5a76b49:u000034`)
+
+### Original context
+
+**olgasi** · lines 174-174 · spoken_turn
+
+> and Metroline. So, uh Creek Harbor was launched in two thousand fifteen sixteen and honestly, I remember myself at this launch. At that time I was already an agent here for a year. But I was thinking as a new agent, uh oh my god, it's so far. Who will even be interested in living here? It was completely deserted, nothing happening area. And uh there were people who saw
+

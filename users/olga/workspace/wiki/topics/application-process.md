@@ -1,6 +1,22 @@
-# application process
+# application-process
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** application-process
+
+## Methods and expression
+
+- [Test Task for Applicants](../methods/test-task-for-applicants-b04a3ab19f.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b04a3ab19f2a84a2"></a>
 ## Test Task for Applicants
@@ -69,3 +85,4 @@ Not stated in the cited excerpt.
 > &gt; Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on May 18, 2026.
 > 
 > No readable text, headlines, numbers, or bullet points are present in the image.
+

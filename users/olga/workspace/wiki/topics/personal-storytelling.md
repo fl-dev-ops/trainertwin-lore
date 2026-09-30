@@ -1,6 +1,22 @@
 # personal storytelling
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** personal storytelling
+
+## Methods and expression
+
+- [Narrative Reflection](../expression/narrative-reflection-6ea1b33f56.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-6ea1b33f563ff58f"></a>
 ## Narrative Reflection
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 > Would you go back 20 years if you could?
 > 
 > #Gratitude #PersonalGrowth #LifeReflection #PresentMoment WomenOver40 Midlife
+

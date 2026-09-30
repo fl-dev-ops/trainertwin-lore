@@ -1,6 +1,61 @@
-# networking
+# Networking
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Networking, networking
+
+## Methods and expression
+
+- [Invitation to join a community](../expression/invitation-to-join-a-community-985ec5bffc.md)
+- [Network Building Instructions](../expression/network-building-instructions-54f6524fec.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
+
+<a id="record-28b3e6b5c9b437ec"></a>
+## Joining a closed community
+
+**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
+**Publication:** 2026-03-29 · **Author:** olgasi · **Format:** transcript
+
+### Summary
+
+- Olga Semenenko invites people to join a closed community, 'strong in sales', on Telegram for support and strategy development.
+  - “I'm inviting you to my closed community, strong in sales on Telegram where we will be together.” — [lines 40-40](../../../data/youtube/video/2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdBY1_6dRAE.md) (`youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:u000002`)
+
+### Original context
+
+**olgasi** · lines 40-40 · spoken_turn
+
+> closed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market. See you there.
+
+<a id="record-985ec5bffc2301ed"></a>
+## Invitation to join a community
+
+**Product:** expression · **Type:** structure · **Source support:** not_reviewed
+**Publication:** 2026-03-29 · **Author:** olgasi · **Format:** transcript
+
+### Observation
+
+- The speaker invites people to join a community for mutual support and strategy development, emphasizing collective action: 'It's not only about the support, it's about me and you bringing up the working strategies.'
+  - “It's not only about the support, it's about me and you bringing up the working strategies.” — [lines 40-40](../../../data/youtube/video/2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdBY1_6dRAE.md) (`youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:u000002`)
+
+### Purpose
+
+Not stated in the cited excerpt.
+
+### Original context
+
+**olgasi** · lines 40-40 · spoken_turn
+
+> closed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market. See you there.
 
 <a id="record-31436332045472db"></a>
 ## Building a Network
@@ -48,40 +103,3 @@ Not stated in the cited excerpt.
 
 > because if your client calls a downtown listing himself and get a strong downtown specialist on the phone, within five minutes, he may realize, well, the agent knows the area far better than you do. So your way out is honesty. Don't pretend to know every area. Build a network of top agents instead and turn that network into a hidden competitive advantage. But every single thing I showed you just stressed on one assumption that you have actually clients to work with.
 
-<a id="record-28b3e6b5c9b437ec"></a>
-## Joining a closed community
-
-**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
-**Publication:** 2026-03-29 · **Author:** olgasi · **Format:** transcript
-
-### Summary
-
-- Olga Semenenko invites people to join a closed community, 'strong in sales', on Telegram for support and strategy development.
-  - “I'm inviting you to my closed community, strong in sales on Telegram where we will be together.” — [lines 40-40](../../../data/youtube/video/2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdBY1_6dRAE.md) (`youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:u000002`)
-
-### Original context
-
-**olgasi** · lines 40-40 · spoken_turn
-
-> closed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market. See you there.
-
-<a id="record-985ec5bffc2301ed"></a>
-## Invitation to join a community
-
-**Product:** expression · **Type:** structure · **Source support:** not_reviewed
-**Publication:** 2026-03-29 · **Author:** olgasi · **Format:** transcript
-
-### Observation
-
-- The speaker invites people to join a community for mutual support and strategy development, emphasizing collective action: 'It's not only about the support, it's about me and you bringing up the working strategies.'
-  - “It's not only about the support, it's about me and you bringing up the working strategies.” — [lines 40-40](../../../data/youtube/video/2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdBY1_6dRAE.md) (`youtube-video-2026-03-29-welcome-to-a-new-era-of-dubai-real-estate-fdby1-6drae-md-6efff544dd:u000002`)
-
-### Purpose
-
-Not stated in the cited excerpt.
-
-### Original context
-
-**olgasi** · lines 40-40 · spoken_turn
-
-> closed community, strong in sales on Telegram where we will be together. It's not only about the support, it's about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market. See you there.

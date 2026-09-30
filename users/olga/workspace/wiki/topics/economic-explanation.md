@@ -1,6 +1,22 @@
 # economic explanation
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** economic explanation
+
+## Methods and expression
+
+- [Use of analogy](../expression/use-of-analogy-b821792559.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b821792559f7bd67"></a>
 ## Use of analogy
@@ -26,3 +42,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 28-28 · spoken_turn
 
 > hundred seventy dirhams per square foot to around a thousand. And two quarters, the villas felt forty percent. Here is the sentence to remember. Two thousand eight was not a property crash. It was a credit crash that happened to property.
+

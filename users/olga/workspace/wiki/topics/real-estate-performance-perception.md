@@ -1,6 +1,21 @@
 # real estate performance perception
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate performance perception
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-e32de24882f7ba11"></a>
 ## Discussing Misconceptions in Real Estate
@@ -48,3 +63,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 48-48 · spoken_turn
 
 > exactly what your week should look like. Two, what to change as you come up on your first year and one number that decides whether you are still here and as well I will put my calendar on the screen so you can copy that. And three, the priority map which is behind every top closer agent schedule because you don't have a time management problem. You never did. You fell into the same trap as everyone coming into this industry from outside. You had a priority.
+

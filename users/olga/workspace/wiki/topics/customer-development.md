@@ -1,6 +1,21 @@
-# customer development
+# Customer development
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Customer development
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-73a8dd968f7d9d21"></a>
 ## Advice against insufficient customer development
@@ -34,3 +49,4 @@
 > The only thing you haven’t done is proper customer development with actual market insiders. Not a marketing agency that has never sold anything except its own services. 
 > 
 > And the reason nobody does this is
+

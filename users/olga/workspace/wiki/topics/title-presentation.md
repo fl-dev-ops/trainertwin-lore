@@ -1,6 +1,22 @@
 # title presentation
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** title presentation
+
+## Methods and expression
+
+- [Header format](../expression/header-format-0bc6551765.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0bc65517652c2b76"></a>
 ## Header format
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Get Trained by Me
+

@@ -1,6 +1,21 @@
-# real estate conditions
+# Real estate conditions
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Real estate conditions
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-9a1e055d0ff5e5bc"></a>
 ## Discussion of real estate market conditions
@@ -27,3 +42,4 @@
 **olgasi** · lines 54-54 · spoken_turn
 
 > maybe month two, it clears. Nobody has to change anything they were already doing. But a supply cycle doesn't pass that fast. It has a schedule. Ready sales felt twenty five point eight percent year on year. Twenty thousand transactions in six months. Off plan, same period, felt eight point eight. The segment everyone in the city calls the safe one, secondary, felt three times harder than
+

@@ -1,6 +1,22 @@
 # confidence
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** confidence
+
+## Methods and expression
+
+- [Contrasting Knowledge and Confidence](../expression/contrasting-knowledge-and-confidence-513a870c34.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-8aa65792cb5fc54e"></a>
 ## Building Sales Confidence
@@ -47,3 +63,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 102-102 · spoken_turn
 
 > plan and learn how to compare different developers and get the objection from the sales gurus, you finally start closing deals. And yet again, nothing. I call it a knowledge trap. Knowledge is important, but knowledge without sales communication skill turns you into information provider, not a closer. An information provider sends brochures, prices, payment plans, a closer knows how to understand the client, challenge the thinking.
+

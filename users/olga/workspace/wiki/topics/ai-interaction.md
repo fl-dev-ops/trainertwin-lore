@@ -1,6 +1,21 @@
-# ai interaction
+# AI interaction
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** AI interaction
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-59144e5193d0374c"></a>
 ## Use Human Judgment in AI Responses
@@ -24,3 +39,4 @@
 > If you are generating your responses Via Free Ai please at least read it once - use a human judgement!
 > 
 > If you are a sales person and trying to sell me or anyone else something - at least make sure your potential clients even understand behind your generic “integration and Automation”
+

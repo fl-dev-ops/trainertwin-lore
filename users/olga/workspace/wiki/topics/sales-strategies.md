@@ -1,6 +1,21 @@
 # sales strategies
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** sales strategies
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-83eb16e1d4f57119"></a>
 ## Overcoming Sales Objections
@@ -31,3 +46,4 @@
 > \*
 > \*
 > \* #ColdCallingDubai #ColdCallingTraining #ColdCallingTips #ColdCallingScripts #ColdCallingBlueprint #ColdCallingLessons #MasterColdCalling #DubaiRealEstateTraining #RealEstateSalesTraining #RealEstateCoachDubai #DubaiRealEstateCoach #SalesCoachingForAgents #RealEstateAgentTraining #RealEstateAgentTips #ListingBasedBusiness #OvercomingSalesFear #ObjectionHandling #SalesConfidenceTechniques #RealEstateNegotiationSkills #ClosingDealsDubai #NewAgentSuccess #RealEstateGrowthStrategies #RealEstateCoachingDubai #DubaiAgentTraining #RealEstateCourseDubai #OnlinePropertyPresentation #LocationBasedSales #SellingToGlobalInvestors #RealEstateSalesStrategies
+

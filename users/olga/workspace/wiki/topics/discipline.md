@@ -1,6 +1,22 @@
 # discipline
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** discipline
+
+## Methods and expression
+
+- [Discipline analogy](../expression/discipline-analogy-631980d4eb.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-631980d4ebc7e4c1"></a>
 ## Discipline analogy
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 144-144 · spoken_turn
 
 > minutes when the new client was live on the line with you. Most agents come back with under an hour. Open your calendar and put the call blocks in. Two a day. Forty-five minutes each. Because discipline is not mood you find on Monday morning. It's a resource you either produce or borrow. And if you want me to look at your week and your current pipeline and show you how you can double your sales, book a coaching session with me. Link is below.
+

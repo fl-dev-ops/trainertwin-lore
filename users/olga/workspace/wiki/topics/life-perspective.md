@@ -1,6 +1,21 @@
 # life perspective
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** life perspective
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-5202a52167e2b173"></a>
 ## Life perspective
@@ -43,3 +58,4 @@
 > I want this version of my life.
 > 
 > My business. The
+

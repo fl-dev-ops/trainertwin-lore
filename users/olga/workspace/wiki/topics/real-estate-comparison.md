@@ -1,6 +1,22 @@
 # real estate comparison
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate comparison
+
+## Methods and expression
+
+- [Comparison of Expo impacts in Dubai and Riyadh](../expression/comparison-of-expo-impacts-in-dubai-and-riyadh-b7079c04d0.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-9b5a1640ec8f4747"></a>
 ## Comparison of Dubai and Saudi Arabia
@@ -49,3 +65,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 83-83 · spoken_turn
 
 > I was in 2016. Past the announcement, dip into the built. Well, yes, it's still before the event. And unlike Dubai, Riyadh has a second deadline behind the first. The World Cup in 2034. It extends the cycle to another decade. I'm not telling Riyadh will repeat Dubai numbers. It may not. But the mechanism of global event forcing the global infrastructure development, the single
+

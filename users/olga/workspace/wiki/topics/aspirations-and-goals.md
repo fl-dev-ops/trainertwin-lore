@@ -1,6 +1,21 @@
 # aspirations and goals
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** aspirations and goals
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ccff6b3b39132063"></a>
 ## Future Aspirations
@@ -35,3 +50,4 @@
 > Would you go back 20 years if you could?
 > 
 > #Gratitude #PersonalGrowth #LifeReflection #PresentMoment WomenOver40 Midlife
+

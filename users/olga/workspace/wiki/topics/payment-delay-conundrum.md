@@ -1,6 +1,22 @@
-# payment delay conundrum
+# Payment Delay Conundrum
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Payment Delay Conundrum
+
+## Methods and expression
+
+- [Ambiguity in Payment Assurance](../expression/ambiguity-in-payment-assurance-ea3b47e687.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ea3b47e68728ea9f"></a>
 ## Ambiguity in Payment Assurance
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 68-68 · spoken_turn
 
 > but you don't have a guarantee that they will pay you from the new ones as well. You're just increasing the debt.
+

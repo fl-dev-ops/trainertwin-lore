@@ -1,6 +1,21 @@
-# self report
+# Self-Report
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Self-Report
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-cb26c162e408faff"></a>
 ## Personal Experience and Economy
@@ -32,3 +47,4 @@
 > 2018 in Dubai - When the market was slowing down, \(many do not know that as they started after 2020\) - where I came up with Rent-to-Own scheme and convinces small private developers in Al Furjan to run it.
 > 
 > 2020 August - when many were leaving Dubai - I opened my company - Live it up… The name is funny right - its even not about real estate
+

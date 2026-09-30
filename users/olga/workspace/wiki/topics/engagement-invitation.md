@@ -1,6 +1,22 @@
 # engagement invitation
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** engagement invitation
+
+## Methods and expression
+
+- [Call to engage with content](../expression/call-to-engage-with-content-566bc333ae.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-566bc333ae86bb83"></a>
 ## Call to engage with content
@@ -26,3 +42,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 1371-1371 · spoken_turn
 
 > It was pleasure to see you here and see you in the next one. Yes. Um, if you want again, it's up to you to decide. Subscribe and click a like and leave a comment. What was the most valuable for you? And then, I'll see you in the next one.
+

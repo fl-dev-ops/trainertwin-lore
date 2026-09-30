@@ -1,6 +1,23 @@
-# self belief
+# self-belief
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** self-belief
+
+## Methods and expression
+
+- [Choosing positive thoughts](../methods/choosing-positive-thoughts-fd741e67c6.md)
+- [Disruption of negative thoughts](../expression/disruption-of-negative-thoughts-0a56e19e2d.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-fd741e67c664f286"></a>
 ## Choosing positive thoughts
@@ -79,3 +96,4 @@ Not stated in the cited excerpt.
 > Now the next step - I just don’t believe it… I’m choosing to think “I already have everything I need and already winning “
 > 
 > Hey - 👋 if this does not work!!! Jump more!
+

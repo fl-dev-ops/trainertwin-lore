@@ -1,6 +1,22 @@
-# question framing
+# Question framing
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Question framing
+
+## Methods and expression
+
+- [Leading with a Question](../expression/leading-with-a-question-474826ec28.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-474826ec28951565"></a>
 ## Leading with a Question
@@ -23,3 +39,4 @@ Not stated in the cited excerpt.
 
 > How to get it back?
 > First Step is To Accept and Ask Yourself a Question
+

@@ -1,6 +1,22 @@
-# call to action
+# Call to Action
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Call to Action
+
+## Methods and expression
+
+- [Direct Call to Action](../expression/direct-call-to-action-3074e2cd3d.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-3074e2cd3d8844ab"></a>
 ## Direct Call to Action
@@ -33,3 +49,4 @@ Not stated in the cited excerpt.
 > And you can join next training and mentorship
 > 
 > Ps. I’m serious - leads are very Good, I’m I’m not trying to Sell you Something
+

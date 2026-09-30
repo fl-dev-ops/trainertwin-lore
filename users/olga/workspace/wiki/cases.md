@@ -1,79 +1,79 @@
 # Cases
 
-- [Hypothetical Reframing of Survival Question](topics/survival-and-usefulness.md#record-d21c20d2d0de1d29)
-- [When life changes overnight](topics/life-change-preparation.md#record-78c0dfb76e8d4dba)
-- [Example from The Big Short](topics/financial-crisis.md#record-ac910b8773726ffb)
-- [Ekaterina's Agency Experience](topics/real-estate-agency-fallouts.md#record-4bbaa1fe52b7865d)
-- [Example of a Successful Deal](topics/successful-deal.md#record-37b1e53bb07bb82e)
-- [Financial concerns as a trigger](topics/financial-planning.md#record-a92d37e2356d4050)
-- [Leads misunderstanding](topics/real_estate.md#record-2f20bb92f049834b)
-- [Client indecision in real estate](topics/client-indecision.md#record-415f0a05a098dfb6)
-- [Reflection on Aging](topics/gratitude-and-reflection.md#record-da2163742bf8ed0b)
-- [Client Interest Delay](topics/client_interaction.md#record-a48e571b15e8ef70)
-- [Buyer Quick Decision Requirement](topics/real_estate_sales.md#record-35fdf0635607b632)
-- [Client Perception of Scammers](topics/real-estate-tactics.md#record-a3dde5b5d108619f)
-- [Rejection in Real Estate](topics/rejection_management.md#record-2ea32470e48005ce)
-- [Three decisions](topics/decision-making.md#record-551cddd958375410)
-- [Developing a Training Program for Real Estate](topics/real-estate-training.md#record-adfc339fa65dfacf)
-- [Overcoming Sales Agent Challenges](topics/sales-strategy.md#record-e0c2d4ba5d4dfc7a)
-- [Evaluating Sales Manager Candidate](topics/sales-management.md#record-3b74396ebbdd08a3)
-- [Reflecting on life experiences](topics/life-reflection.md#record-0d6bd853934624be)
-- [Sales Team's Struggle with Client Commitment](topics/client_commitment.md#record-7b61ed48c3c18258)
-- [LinkedIn Posting Reflection](topics/content_self-promotion.md#record-f3740a137fe400ea)
-- [Client's response to agent pricing tactics](topics/real_estate_agents.md#record-f97069e72546639a)
-- [Ghosted client communication strategy](topics/client-communication.md#record-8b01e901ecd8095c)
-- [Self-Introduction Strategy](topics/sales-introduction.md#record-b37420b734a4422c)
-- [Agent Blaming Clients for Ad Costs](topics/communication_mistakes.md#record-6088ff3734a70cce)
-- [Two potential futures for a startup](topics/startup-trajectory.md#record-1b1462415be49ddd)
-- [Responding to Market Concerns](topics/investor_concerns.md#record-2ae8c0bec113c1d3)
-- [Investor strategy discussion](topics/investment-strategy.md#record-88f0acd2bc42e9e4)
-- [Identifying Common Client Responses](topics/client-behavior.md#record-f4fdfc3ddc468c68)
-- [Agent Stuck Despite Knowledge](topics/client-behavior.md#record-bc2efe344b9ff1af)
-- [Client decision making funnel](topics/client_journey.md#record-3087f583db0b1620)
-- [Reactions to Desperation in Sales](topics/status-perception.md#record-95c89903a0e76d02)
-- [developer targets and agency recruitment](topics/developer-expectations.md#record-eaf0971563849a83)
-- [Employer KPI Demands](topics/employment_constraints.md#record-3f8a9858892c6227)
-- [Rejection Fear in Cold Calling](topics/lead_generation.md#record-3342f728956cf7b7)
-- [Lead Database Usage](topics/lead_management.md#record-683e068de14dd7dd)
-- [Pattern Interrupt Demonstration](topics/real-estate-sales.md#record-22af317b98abd9bb)
-- [Role-playing for consistency](topics/sales-training.md#record-ec928d15c4472b64)
-- [Pre-Handling Objections Question](topics/sales_techniques.md#record-67ac8b91bbd828c1)
-- [Understanding Decision-Making Influences](topics/decision-making-process.md#record-7a7ed7c29098188c)
-- [Pre-handling Objections Related to Investments](topics/objection-handling.md#record-6bce159374936cfa)
-- [Using Tone and Cadence in Client Interactions](topics/communication-skills.md#record-f20c7917d97b15c9)
-- [Scheduling a Presentation](topics/presentation-scheduling.md#record-a49c94aab3051d5a)
-- [Client Objection: Dubai Oversupply](topics/client-objection.md#record-02d1eed2c2f04fa0)
-- [Judgement and perception](topics/judgement-perception.md#record-1af30b74d1ca26ab)
-- [Using past images for motivation](topics/self-imagery-motivation.md#record-6bba59fecce953c9)
-- [Review for Building Reality](topics/real_estate.md#record-e5343459887dcee0)
-- [Failure in Sales Due to Beliefs](topics/sales_approach.md#record-7cfa839b7798f46d)
-- [Trust and Modern Sales](topics/sales_approach.md#record-3ccc1694595e94f5)
-- [Sales Call Opener Issue](topics/sales_approach.md#record-9f79b111013acf4d)
-- [Rationale behind starting the video](topics/sales_identity.md#record-29161e27f7a84767)
-- [Client Success Story: Ekaterina](topics/real_estate_success.md#record-cc5b769b1fca103c)
-- [Client Success Story: Georges](topics/real_estate_success.md#record-58c7bc19d22a2384)
-- [Apple's consultation experience](topics/investment-mistakes.md#record-a2aaf02c7a3098dd)
-- [Creek Harbor Launch Experience](topics/real-estate-reflections.md#record-101779048c789f47)
-- [Description of Two Market Conditions](topics/dubai-property-market.md#record-9997933663b6d29d)
-- [Use of Heated Map](topics/data-analysis.md#record-890a9534c526af89)
-- [Price vs Bank Evaluation](topics/dubai-property-market.md#record-41fc38dca78fea38)
-- [Real Estate Advice Failure](topics/real_estate_deals_dubai.md#record-809a5f8ee58f43a7)
-- [Engagement through Strategic Questions](topics/real_estate_deals_dubai.md#record-cfcbdc3c67c30ca0)
-- [Seller Strategy Situation](topics/seller-strategy.md#record-c41413d1100c9d06)
-- [Buyer Strategy Discussion](topics/buyer-strategy.md#record-cc2d3e8eac5d8c07)
-- [Lead Generation Context](topics/lead-generation.md#record-acb4dffdb02ebc1b)
-- [Real estate market dynamics](topics/real_estate_market.md#record-fe13dbf20f252246)
-- [Lead generation evaluation approach](topics/lead_generation.md#record-96de51ef78a9f4c1)
-- [Old leads reactivation method](topics/leads_reactivation.md#record-4327155d74eb886b)
-- [Client Hesitation](topics/client_interaction.md#record-fe033fa4c3a267c9)
-- [Dealing with Client Concerns](topics/client_interaction.md#record-55e91cf9607ae5af)
-- [Assumption Leading to Lost Opportunities](topics/initial_contact_assumptions.md#record-1118896d89c2a8c8)
-- [Real Estate Client Uncertainty](topics/harmful_questions.md#record-9738446deb4ea22d)
-- [Effective Client Engagement](topics/communication_style_change.md#record-4c9ae55f3b3755d2)
-- [Initial Contact Strategy](topics/initial_contact_assumptions.md#record-557b7964f75ba948)
-- [Discussing Misconceptions in Real Estate](topics/real-estate-performance-perception.md#record-e32de24882f7ba11)
-- [Agents failing in the market](topics/real-estate-market.md#record-7fe1594f2b77e752)
-- [Impact of market conditions on investors](topics/investment-effects.md#record-8e6414dc0927da6a)
-- [Challenges with rental strategy](topics/rental-strategy.md#record-efcc1ba19ca1b292)
-- [Dubai Market Comparison](topics/market-comparison.md#record-b0e17ddb5e420a1c)
-- [Miscalculation in Real Estate Exit](topics/real-estate-investment.md#record-269838d262553131)
+- [Hypothetical Reframing of Survival Question](sources/instagram-posts-2026-04-13-survival-isnt-born-from-panic-md-bdd422c510.md#record-d21c20d2d0de1d29) · cases · instagram
+- [When life changes overnight](sources/instagram-posts-2026-04-14-life-changing-overnight-lifechange-struc-md-024b465431.md#record-78c0dfb76e8d4dba) · cases · instagram
+- [Example from The Big Short](sources/instagram-posts-2026-04-14-you-can-make-money-in-md-ef33594198.md#record-ac910b8773726ffb) · cases · instagram
+- [Ekaterina's Agency Experience](sources/instagram-posts-2026-04-17-her-agency-refused-to-pay-md-3c5628abcd.md#record-4bbaa1fe52b7865d) · cases · instagram
+- [Example of a Successful Deal](sources/instagram-posts-2026-05-21-get-trained-close-deals-grow-md-63761ec46e.md#record-37b1e53bb07bb82e) · cases · instagram
+- [Financial concerns as a trigger](sources/instagram-posts-2026-06-08-reel-3915094168145235867-md-489688f6d5.md#record-a92d37e2356d4050) · cases · instagram
+- [Leads misunderstanding](sources/instagram-posts-2026-06-11-this-happened-90-of-a-md-f31947dee0.md#record-2f20bb92f049834b) · cases · instagram
+- [Client indecision in real estate](sources/instagram-posts-2026-06-22-just-hold-his-hand-coldcallingdubai-md-2828d42f5c.md#record-415f0a05a098dfb6) · cases · instagram
+- [Reflection on Aging](sources/instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136.md#record-da2163742bf8ed0b) · cases · instagram
+- [Client Interest Delay](sources/instagram-posts-2026-07-28-you-search-you-send-options-md-74a2eefcb7.md#record-a48e571b15e8ef70) · cases · instagram
+- [Buyer Quick Decision Requirement](sources/instagram-posts-2026-07-28-you-search-you-send-options-md-74a2eefcb7.md#record-35fdf0635607b632) · cases · instagram
+- [Client Perception of Scammers](sources/instagram-posts-2026-08-24-hes-renting-your-4m-off-plan-md-82a6d29628.md#record-a3dde5b5d108619f) · cases · instagram
+- [Rejection in Real Estate](sources/instagram-posts-2026-09-13-1-week-post-tony-robbins-md-7b85bbe53a.md#record-2ea32470e48005ce) · cases · instagram
+- [Three decisions](sources/instagram-posts-2026-09-24-roi-from-tony-robbins-unleash-md-f48d0a11b4.md#record-551cddd958375410) · cases · instagram
+- [Developing a Training Program for Real Estate](sources/linkedin-olgasi-yaml-ef8e458ca5.md#record-adfc339fa65dfacf) · cases · linkedin
+- [Overcoming Sales Agent Challenges](sources/linkedin-olgasi-yaml-ef8e458ca5.md#record-e0c2d4ba5d4dfc7a) · cases · linkedin
+- [Evaluating Sales Manager Candidate](sources/linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701.md#record-3b74396ebbdd08a3) · cases · linkedin
+- [Reflecting on life experiences](sources/linkedin-posts-2026-07-13-in-20-years-you-would-md-07336225bc.md#record-0d6bd853934624be) · cases · linkedin
+- [Sales Team's Struggle with Client Commitment](sources/linkedin-posts-2026-08-09-why-the-clients-do-not-md-d7ecb814a8.md#record-7b61ed48c3c18258) · cases · linkedin
+- [LinkedIn Posting Reflection](sources/linkedin-posts-2026-08-20-whom-do-you-think-you-md-b3ffd89a57.md#record-f3740a137fe400ea) · cases · linkedin
+- [Client's response to agent pricing tactics](sources/linkedin-posts-2026-08-25-dubai-agents-are-scammers-a-md-347b6da663.md#record-f97069e72546639a) · cases · linkedin
+- [Ghosted client communication strategy](sources/linkedin-posts-2026-09-17-getting-ghosted-by-your-clients-md-4c3ab06c31.md#record-8b01e901ecd8095c) · cases · linkedin
+- [Self-Introduction Strategy](sources/linkedin-posts-2026-09-21-which-problem-do-you-solve-md-67b47efeb9.md#record-b37420b734a4422c) · cases · linkedin
+- [Agent Blaming Clients for Ad Costs](sources/linkedin-posts-2026-09-25-how-to-spot-a-not-md-9cfd139d2f.md#record-6088ff3734a70cce) · cases · linkedin
+- [Two potential futures for a startup](sources/twitter-tweets-2026-08-27-two-ways-dubai-prop-tech-startup-md-abd8ed22ea.md#record-1b1462415be49ddd) · cases · twitter
+- [Responding to Market Concerns](sources/youtube-video-2026-03-30-if-client-is-telling-you-i-m-hearing-alot-of-negative-new-ab-14701f23af.md#record-2ae8c0bec113c1d3) · cases · youtube
+- [Investor strategy discussion](sources/youtube-video-2026-04-07-is-waiting-for-rock-bottom-the-best-strategy-wsq2ptjxalw-md-ee0110c360.md#record-88f0acd2bc42e9e4) · cases · youtube
+- [Identifying Common Client Responses](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-f4fdfc3ddc468c68) · cases · youtube
+- [Agent Stuck Despite Knowledge](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-bc2efe344b9ff1af) · cases · youtube
+- [Client decision making funnel](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-3087f583db0b1620) · cases · youtube
+- [Reactions to Desperation in Sales](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-95c89903a0e76d02) · cases · youtube
+- [developer targets and agency recruitment](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-eaf0971563849a83) · cases · youtube
+- [Employer KPI Demands](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-3f8a9858892c6227) · cases · youtube
+- [Rejection Fear in Cold Calling](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-3342f728956cf7b7) · cases · youtube
+- [Lead Database Usage](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-683e068de14dd7dd) · cases · youtube
+- [Pattern Interrupt Demonstration](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-22af317b98abd9bb) · cases · youtube
+- [Role-playing for consistency](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-ec928d15c4472b64) · cases · youtube
+- [Pre-Handling Objections Question](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-67ac8b91bbd828c1) · cases · youtube
+- [Understanding Decision-Making Influences](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-7a7ed7c29098188c) · cases · youtube
+- [Pre-handling Objections Related to Investments](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-6bce159374936cfa) · cases · youtube
+- [Using Tone and Cadence in Client Interactions](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-f20c7917d97b15c9) · cases · youtube
+- [Scheduling a Presentation](sources/youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962.md#record-a49c94aab3051d5a) · cases · youtube
+- [Client Objection: Dubai Oversupply](sources/youtube-video-2026-04-12-if-your-client-says-dubai-is-oversupplied-answer-this-a3zi3t-f1e5ec1450.md#record-02d1eed2c2f04fa0) · cases · youtube
+- [Judgement and perception](sources/youtube-video-2026-04-15-master-street-camera-confidence-underrated-money-skill-short-1b94cfcd2b.md#record-1af30b74d1ca26ab) · cases · youtube
+- [Using past images for motivation](sources/youtube-video-2026-04-27-how-to-stop-procrastination-motivation-realestatetraining-yl-5b9fca4910.md#record-6bba59fecce953c9) · cases · youtube
+- [Review for Building Reality](sources/youtube-video-2026-05-07-why-most-distressed-deals-in-dubai-are-fake-05sbejv5zho-md-5ae767c007.md#record-e5343459887dcee0) · cases · youtube
+- [Failure in Sales Due to Beliefs](sources/youtube-video-2026-05-26-the-sales-techniques-nobody-teaches-because-they-actually-wo-b31a69b6e9.md#record-7cfa839b7798f46d) · cases · youtube
+- [Trust and Modern Sales](sources/youtube-video-2026-05-26-the-sales-techniques-nobody-teaches-because-they-actually-wo-b31a69b6e9.md#record-3ccc1694595e94f5) · cases · youtube
+- [Sales Call Opener Issue](sources/youtube-video-2026-05-26-the-sales-techniques-nobody-teaches-because-they-actually-wo-b31a69b6e9.md#record-9f79b111013acf4d) · cases · youtube
+- [Rationale behind starting the video](sources/youtube-video-2026-05-26-the-sales-techniques-nobody-teaches-because-they-actually-wo-b31a69b6e9.md#record-29161e27f7a84767) · cases · youtube
+- [Client Success Story: Ekaterina](sources/youtube-video-2026-06-16-dubai-real-estate-career-explained-why-most-agents-fail-sgvl-7f021f4b6d.md#record-cc5b769b1fca103c) · cases · youtube
+- [Client Success Story: Georges](sources/youtube-video-2026-06-16-dubai-real-estate-career-explained-why-most-agents-fail-sgvl-7f021f4b6d.md#record-58c7bc19d22a2384) · cases · youtube
+- [Apple's consultation experience](sources/youtube-video-2026-06-24-the-dubai-areas-that-will-rise-over-the-next-10-years-k4mivs-55e5a76b49.md#record-a2aaf02c7a3098dd) · cases · youtube
+- [Creek Harbor Launch Experience](sources/youtube-video-2026-06-24-the-dubai-areas-that-will-rise-over-the-next-10-years-k4mivs-55e5a76b49.md#record-101779048c789f47) · cases · youtube
+- [Description of Two Market Conditions](sources/youtube-video-2026-07-01-the-dubai-property-market-update-demand-price-drops-what-s-c-7689113646.md#record-9997933663b6d29d) · cases · youtube
+- [Use of Heated Map](sources/youtube-video-2026-07-01-the-dubai-property-market-update-demand-price-drops-what-s-c-7689113646.md#record-890a9534c526af89) · cases · youtube
+- [Price vs Bank Evaluation](sources/youtube-video-2026-07-01-the-dubai-property-market-update-demand-price-drops-what-s-c-7689113646.md#record-41fc38dca78fea38) · cases · youtube
+- [Real Estate Advice Failure](sources/youtube-video-2026-07-07-how-to-close-off-plan-secondary-deals-in-dubai-in-2026-kby6l-7b0008a9c7.md#record-809a5f8ee58f43a7) · cases · youtube
+- [Engagement through Strategic Questions](sources/youtube-video-2026-07-07-how-to-close-off-plan-secondary-deals-in-dubai-in-2026-kby6l-7b0008a9c7.md#record-cfcbdc3c67c30ca0) · cases · youtube
+- [Seller Strategy Situation](sources/youtube-video-2026-07-07-how-to-close-off-plan-secondary-deals-in-dubai-in-2026-kby6l-7b0008a9c7.md#record-c41413d1100c9d06) · cases · youtube
+- [Buyer Strategy Discussion](sources/youtube-video-2026-07-07-how-to-close-off-plan-secondary-deals-in-dubai-in-2026-kby6l-7b0008a9c7.md#record-cc2d3e8eac5d8c07) · cases · youtube
+- [Lead Generation Context](sources/youtube-video-2026-07-07-how-to-close-off-plan-secondary-deals-in-dubai-in-2026-kby6l-7b0008a9c7.md#record-acb4dffdb02ebc1b) · cases · youtube
+- [Real estate market dynamics](sources/youtube-video-2026-07-16-the-best-lead-generation-strategy-for-dubai-real-estate-agen-92502d4649.md#record-fe13dbf20f252246) · cases · youtube
+- [Lead generation evaluation approach](sources/youtube-video-2026-07-16-the-best-lead-generation-strategy-for-dubai-real-estate-agen-92502d4649.md#record-96de51ef78a9f4c1) · cases · youtube
+- [Old leads reactivation method](sources/youtube-video-2026-07-16-the-best-lead-generation-strategy-for-dubai-real-estate-agen-92502d4649.md#record-4327155d74eb886b) · cases · youtube
+- [Client Hesitation](sources/youtube-video-2026-07-24-the-real-secret-to-success-in-dubai-real-estate-in-2026-and-4c881de4ed.md#record-fe033fa4c3a267c9) · cases · youtube
+- [Dealing with Client Concerns](sources/youtube-video-2026-07-24-the-real-secret-to-success-in-dubai-real-estate-in-2026-and-4c881de4ed.md#record-55e91cf9607ae5af) · cases · youtube
+- [Assumption Leading to Lost Opportunities](sources/youtube-video-2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-p-56bc27347c.md#record-1118896d89c2a8c8) · cases · youtube
+- [Real Estate Client Uncertainty](sources/youtube-video-2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-p-56bc27347c.md#record-9738446deb4ea22d) · cases · youtube
+- [Effective Client Engagement](sources/youtube-video-2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-p-56bc27347c.md#record-4c9ae55f3b3755d2) · cases · youtube
+- [Initial Contact Strategy](sources/youtube-video-2026-08-13-4-questions-that-kill-your-dubai-real-estate-deals-in-2026-p-56bc27347c.md#record-557b7964f75ba948) · cases · youtube
+- [Discussing Misconceptions in Real Estate](sources/youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6.md#record-e32de24882f7ba11) · cases · youtube
+- [Agents failing in the market](sources/youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6.md#record-7fe1594f2b77e752) · cases · youtube
+- [Impact of market conditions on investors](sources/youtube-video-2026-09-17-dubai-6-months-after-the-war-ready-sales-26-flips-halved-162-3167b6efe5.md#record-8e6414dc0927da6a) · cases · youtube
+- [Challenges with rental strategy](sources/youtube-video-2026-09-17-dubai-6-months-after-the-war-ready-sales-26-flips-halved-162-3167b6efe5.md#record-efcc1ba19ca1b292) · cases · youtube
+- [Dubai Market Comparison](sources/youtube-video-2026-09-19-is-this-2008-in-dubai-all-over-again-realestate-7h9afvyuliu-32e6f5a0b1.md#record-b0e17ddb5e420a1c) · cases · youtube
+- [Miscalculation in Real Estate Exit](sources/youtube-video-2026-09-25-what-changed-in-dubai-real-estate-in-2026-falling-resales-ha-f4d1591cf2.md#record-269838d262553131) · cases · youtube

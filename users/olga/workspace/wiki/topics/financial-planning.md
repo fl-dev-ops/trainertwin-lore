@@ -1,6 +1,21 @@
 # financial planning
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** financial planning
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-a92d37e2356d4050"></a>
 ## Financial concerns as a trigger
@@ -47,3 +62,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 25-25 · spoken_turn
 
 > to start looking for solution. So for example, he found the problem. But this guy who wants to retire early, he had an idea to retire early for maybe five years. But he hadn't done anything towards that.
+

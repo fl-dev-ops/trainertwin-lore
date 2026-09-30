@@ -1,0 +1,84 @@
+{
+  "entities": [
+    {
+      "kind": "place",
+      "mentions": [
+        {
+          "quote": "Dubai",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:extra-description-cc7de673-0"
+        },
+        {
+          "quote": "Dubai",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000005"
+        },
+        {
+          "quote": "Dubai",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000014"
+        }
+      ]
+    },
+    {
+      "kind": "product",
+      "mentions": [
+        {
+          "quote": "COURSES",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:extra-description-cc7de673-1"
+        },
+        {
+          "quote": "Word-for-word scripts",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:extra-description-cc7de673-1"
+        }
+      ]
+    },
+    {
+      "kind": "person",
+      "mentions": [
+        {
+          "quote": "Olga",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000013"
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "activities": [
+        "teaching"
+      ],
+      "end_unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002",
+      "moves": [
+        {
+          "action": "Describes market size and challenges",
+          "quote": "forty thousand licensed brokers in this city.",
+          "role": "instructor",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000001"
+        },
+        {
+          "action": "Dispels myths about closing deals",
+          "quote": "you're missing some secret closing technique. You're not.",
+          "role": "instructor",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002"
+        }
+      ],
+      "start_unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000001",
+      "summary": {
+        "citations": [
+          {
+            "quote": "forty thousand licensed brokers in this city. two hundred thousand sales last year.",
+            "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000001"
+          },
+          {
+            "quote": "you're missing some secret closing technique. You're not.",
+            "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002"
+          }
+        ],
+        "text": "The speaker introduces the challenges faced by real estate agents, particularly focusing on the discrepancy between the number of licensed brokers and actual deals closed. They emphasize that the issue is not time management, but rather priorities."
+      },
+      "title": "Introduction to Challenges in Real Estate",
+      "topics": [
+        "real estate market",
+        "challenges"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,42 @@
 # sales training
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** sales training, sales\_training, Sales Training
+
+## Methods and expression
+
+- [Training methods for real estate agents](../methods/training-methods-for-real-estate-agents-d00f1971af.md)
+- [Analogy Used in Sales Training](../expression/analogy-used-in-sales-training-59eea9699f.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
+
+<a id="record-a8dc83c204e45dde"></a>
+## sales training offer
+
+**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
+**Publication:** unknown · **Author:** olga\_sinenko.official · **Format:** post
+
+### Summary
+
+- Olga Sinenko offers free sales training on Telegram.
+  - “Start with FREE Sales Training on Telegram” — [/profile/biography](../../../data/instagram/olga_sinenko.official.yaml) (`instagram-olga-sinenko-official-yaml-a4fadf2d62:u000003`)
+
+### Original context
+
+**authored text by olga\_sinenko.official** · /profile/biography · authored_text
+
+> 11+ yrs selling Dubai real estate
+> I teach to turn “Just send me some OPTIONS” into closed deals🤝
+> Start with FREE Sales Training on Telegram ↓
 
 <a id="record-b692d3733c4628f2"></a>
 ## Sales Training Components
@@ -18,6 +54,180 @@
 **unknown speaker** · lines 33-33 · spoken_turn
 
 > So we are talking about sales training, which is done by me, and leads, the fresh leads from the social media marketing campaign. So while everyone is stopping and kind of retracting and just like preserving, we are moving forward. So if you feel like you need to make money in twenty twenty six regardless of the market.
+
+<a id="record-7654254657d48f54"></a>
+## NEPS Influence System
+
+**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
+**Publication:** unknown · **Author:** olgasi · **Format:** post
+
+### Summary
+
+- The Neuro-Emotional Persuasion System is offered as training on how to influence without fake scripts, pressure, or trying to convince people.
+  - “I teach how to INFLUENCE through my Neuro-Emotional Persuasion System” — [/profile/about](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000011`)
+
+### Original context
+
+**authored text by olgasi** · /profile/about · authored_text
+
+> 1 Billion AED + between me and my Team over last Buyers Market 2015-2020. 
+> 2020 - Started Live it Up - Real Estate Growth Academy For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations and follow-ups into closed deals.
+> 
+>           Over 2,000 agents have gone through my trainings. 
+> 
+> My students earn up to 1M AED per year in commission and open their own agencies.
+> 
+> I teach how to INFLUENCE through my Neuro-Emotional Persuasion System.
+> This is not about fake scripts, pressure or trying to convince people.
+> It is about understanding human behavior, reading hesitation, knowing why clients delay decisions, asking the right questions and guiding them to a clear next step without pushing.
+> 
+> I’ll help you:
+> - turn “I’ll think about it” into a clear next step
+> - qualify buyers before wasting hours on calls and WhatsApps
+> - lead calls and presentations into Closing with confidence
+> 
+> All of this to  build consistent income in a commission-only environment
+> 
+>                SAME as Agents in my Coaching:
+> 🔥 Ekaterina
+> Before 2 deals in 2 years → After 1,650,000 AED commission in 12 months → opened her own company
+> 🔥 Lisa
+> Before beginner with no leads and no portal access → first $15,000 commission in 3 weeks after one private coaching session
+> 🔥 Arina
+> Before panic fear of cold calls → 250 cold calls/week, 8 listings and 3 closed deals after mentorship
+
+<a id="record-c53435c8bc525d9a"></a>
+## Influencing Clients
+
+**Product:** knowledge · **Type:** belief · **Source support:** not_reviewed
+**Publication:** unknown · **Author:** olgasi · **Format:** post
+
+### Summary
+
+- Influence in sales is not about fake scripts or trying to convince people, but understanding human behavior and guiding them to a clear next step.
+  - “This is not about fake scripts, pressure or trying to convince people. It is about understanding human behavior, reading hesitation, knowing why clients delay decisions, asking the right questions and guiding them to a clear next step without pushing.” — [/profile/about](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000011`)
+
+### Original context
+
+**authored text by olgasi** · /profile/about · authored_text
+
+> 1 Billion AED + between me and my Team over last Buyers Market 2015-2020. 
+> 2020 - Started Live it Up - Real Estate Growth Academy For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations and follow-ups into closed deals.
+> 
+>           Over 2,000 agents have gone through my trainings. 
+> 
+> My students earn up to 1M AED per year in commission and open their own agencies.
+> 
+> I teach how to INFLUENCE through my Neuro-Emotional Persuasion System.
+> This is not about fake scripts, pressure or trying to convince people.
+> It is about understanding human behavior, reading hesitation, knowing why clients delay decisions, asking the right questions and guiding them to a clear next step without pushing.
+> 
+> I’ll help you:
+> - turn “I’ll think about it” into a
+
+<a id="record-d00f1971afa93480"></a>
+## Training methods for real estate agents
+
+**Product:** knowledge · **Type:** method · **Source support:** not_reviewed
+**Publication:** unknown · **Author:** olgasi · **Format:** post
+
+### Summary
+
+- Real estate agents are trained to influence without fake scripts or pressure, and to understand human behavior to guide clients to the next step.
+  - “For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations and follow-ups into closed deals.” — [/profile/about](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000011`)
+
+### Goal
+
+- To close deals in real estate sales.
+  - “turn conversations, calls, presentations and follow-ups into closed deals.” — [/profile/about](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000011`)
+
+### Prerequisites
+
+Not stated in the cited excerpt.
+
+### Steps
+
+Not stated in the cited excerpt.
+
+### Constraints
+
+Not stated in the cited excerpt.
+
+### Exceptions
+
+Not stated in the cited excerpt.
+
+### Original context
+
+**authored text by olgasi** · /profile/about · authored_text
+
+> 1 Billion AED + between me and my Team over last Buyers Market 2015-2020. 
+> 2020 - Started Live it Up - Real Estate Growth Academy For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations and follow-ups into closed deals.
+> 
+>           Over 2,000 agents have gone through my trainings. 
+> 
+> My students earn up to 1M AED per year in commission and open their own agencies.
+> 
+> I teach how to INFLUENCE through my Neuro-Emotional Persuasion System.
+> This is not about fake scripts, pressure or trying to convince people.
+> It is about understanding human behavior, reading hesitation, knowing why clients delay decisions, asking the right questions and guiding them to a clear next step without pushing.
+> 
+> I’ll help you:
+> - turn “I’ll think about it” into a clear next step
+> - qualify buyers before wasting hours on calls and WhatsApps
+> - lead calls and presentations into Closing with confidence
+> 
+> All of this to  build consistent income in a commission-only environment
+> 
+>                SAME as Agents in my Coaching:
+> 🔥 Ekaterina
+> Before 2 deals in 2 years → After 1,650,000 AED commission in 12 months → opened her own company
+> 🔥 Lisa
+> Before beginner with no leads and no portal access → first $15,000 commission in 3 weeks after one private coaching session
+> 🔥 Arina
+> Before panic fear of cold calls → 250 cold calls/week, 8 listings and 3 closed deals after mentorship
+
+<a id="record-19c253660209e9cb"></a>
+## Role in Sales Team
+
+**Product:** knowledge · **Type:** claim · **Source support:** not_reviewed
+**Publication:** unknown · **Author:** olgasi · **Format:** post
+
+### Summary
+
+- Olga has become a critical link in the sales team as a strategist and creative trainer.
+  - “Over the last few months she became a critical link in our big team. She is a strategist and creative trainer of sales department.” — [/profile/receivedRecommendations/19/description](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000108`)
+
+### Original context
+
+**authored text by olgasi** · /profile/receivedRecommendations/19/description · authored_text
+
+> Olga is pretty talented sales trainer . Over the last few months she became a critical link in our big team. 
+> 
+> She is a strategist and creative trainer of sales department, with her help we find and grow Sales Manager.
+> 
+> It is a pleasure to work with such professionals like Olga!
+
+<a id="record-59eea9699fb7af42"></a>
+## Analogy Used in Sales Training
+
+**Product:** expression · **Type:** rhetorical_move · **Source support:** not_reviewed
+**Publication:** unknown · **Author:** olgasi · **Format:** post
+
+### Observation
+
+- An analogy comparing sales behavior to that of a doctor's approach is used to communicate a strategy of not overwhelming clients with options.
+  - “I liked the analogy with a doctor. I've already started applying this approach with my leads.” — [/profile/receivedRecommendations/17/description](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000101`)
+
+### Purpose
+
+Not stated in the cited excerpt.
+
+### Original context
+
+**authored text by olgasi** · /profile/receivedRecommendations/17/description · authored_text
+
+> I really liked how you present information; it feels like you understand human psychology and have a good grasp of the subject. It's always nice to watch a professional at work. The main thing I took away from this is that we shouldn't always be available, chasing after clients, and bombarding them with numerous options upon request. I liked the analogy with a doctor. I've already started applying this approach with my leads.
 
 <a id="record-9959172618b41a36"></a>
 ## Sales training offering
@@ -100,153 +310,3 @@ Not stated in the cited excerpt.
 
 > to actually call to the client. You can role play it with Chat GPT even as well. You have to make absolute sure that you are using the same word patterns. You're not changing it. You're not forgetting to ask fair enough because the the simple follow the structure rule gonna help you with getting way more, I would say, fifty percent as I promised you.
 
-<a id="record-d00f1971afa93480"></a>
-## Training methods for real estate agents
-
-**Product:** knowledge · **Type:** method · **Source support:** not_reviewed
-**Publication:** unknown · **Author:** olgasi · **Format:** post
-
-### Summary
-
-- Real estate agents are trained to influence without fake scripts or pressure, and to understand human behavior to guide clients to the next step.
-  - “For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations and follow-ups into closed deals.” — [/profile/about](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000011`)
-
-### Goal
-
-- To close deals in real estate sales.
-  - “turn conversations, calls, presentations and follow-ups into closed deals.” — [/profile/about](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000011`)
-
-### Prerequisites
-
-Not stated in the cited excerpt.
-
-### Steps
-
-Not stated in the cited excerpt.
-
-### Constraints
-
-Not stated in the cited excerpt.
-
-### Exceptions
-
-Not stated in the cited excerpt.
-
-### Original context
-
-**authored text by olgasi** · /profile/about · authored_text
-
-> 1 Billion AED + between me and my Team over last Buyers Market 2015-2020. 
-> 2020 - Started Live it Up - Real Estate Growth Academy For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations and follow-ups into closed deals.
-> 
->           Over 2,000 agents have gone through my trainings. 
-> 
-> My students earn up to 1M AED per year in commission and open their own agencies.
-> 
-> I teach how to INFLUENCE through my Neuro-Emotional Persuasion System.
-> This is not about fake scripts, pressure or trying to convince people.
-> It is about understanding human behavior, reading hesitation, knowing why clients delay decisions, asking the right questions and guiding them to a clear next step without pushing.
-> 
-> I’ll help you:
-> - turn “I’ll think about it” into a clear next step
-> - qualify buyers before wasting hours on calls and WhatsApps
-> - lead calls and presentations into Closing with confidence
-> 
-> All of this to  build consistent income in a commission-only environment
-> 
->                SAME as Agents in my Coaching:
-> 🔥 Ekaterina
-> Before 2 deals in 2 years → After 1,650,000 AED commission in 12 months → opened her own company
-> 🔥 Lisa
-> Before beginner with no leads and no portal access → first $15,000 commission in 3 weeks after one private coaching session
-> 🔥 Arina
-> Before panic fear of cold calls → 250 cold calls/week, 8 listings and 3 closed deals after mentorship
-
-<a id="record-7654254657d48f54"></a>
-## NEPS Influence System
-
-**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
-**Publication:** unknown · **Author:** olgasi · **Format:** post
-
-### Summary
-
-- The Neuro-Emotional Persuasion System is offered as training on how to influence without fake scripts, pressure, or trying to convince people.
-  - “I teach how to INFLUENCE through my Neuro-Emotional Persuasion System” — [/profile/about](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000011`)
-
-### Original context
-
-**authored text by olgasi** · /profile/about · authored_text
-
-> 1 Billion AED + between me and my Team over last Buyers Market 2015-2020. 
-> 2020 - Started Live it Up - Real Estate Growth Academy For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations and follow-ups into closed deals.
-> 
->           Over 2,000 agents have gone through my trainings. 
-> 
-> My students earn up to 1M AED per year in commission and open their own agencies.
-> 
-> I teach how to INFLUENCE through my Neuro-Emotional Persuasion System.
-> This is not about fake scripts, pressure or trying to convince people.
-> It is about understanding human behavior, reading hesitation, knowing why clients delay decisions, asking the right questions and guiding them to a clear next step without pushing.
-> 
-> I’ll help you:
-> - turn “I’ll think about it” into a clear next step
-> - qualify buyers before wasting hours on calls and WhatsApps
-> - lead calls and presentations into Closing with confidence
-> 
-> All of this to  build consistent income in a commission-only environment
-> 
->                SAME as Agents in my Coaching:
-> 🔥 Ekaterina
-> Before 2 deals in 2 years → After 1,650,000 AED commission in 12 months → opened her own company
-> 🔥 Lisa
-> Before beginner with no leads and no portal access → first $15,000 commission in 3 weeks after one private coaching session
-> 🔥 Arina
-> Before panic fear of cold calls → 250 cold calls/week, 8 listings and 3 closed deals after mentorship
-
-<a id="record-c53435c8bc525d9a"></a>
-## Influencing Clients
-
-**Product:** knowledge · **Type:** belief · **Source support:** not_reviewed
-**Publication:** unknown · **Author:** olgasi · **Format:** post
-
-### Summary
-
-- Influence in sales is not about fake scripts or trying to convince people, but understanding human behavior and guiding them to a clear next step.
-  - “This is not about fake scripts, pressure or trying to convince people. It is about understanding human behavior, reading hesitation, knowing why clients delay decisions, asking the right questions and guiding them to a clear next step without pushing.” — [/profile/about](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000011`)
-
-### Original context
-
-**authored text by olgasi** · /profile/about · authored_text
-
-> 1 Billion AED + between me and my Team over last Buyers Market 2015-2020. 
-> 2020 - Started Live it Up - Real Estate Growth Academy For the past 6+ years, I’ve been training Dubai real estate agents to turn conversations, calls, presentations and follow-ups into closed deals.
-> 
->           Over 2,000 agents have gone through my trainings. 
-> 
-> My students earn up to 1M AED per year in commission and open their own agencies.
-> 
-> I teach how to INFLUENCE through my Neuro-Emotional Persuasion System.
-> This is not about fake scripts, pressure or trying to convince people.
-> It is about understanding human behavior, reading hesitation, knowing why clients delay decisions, asking the right questions and guiding them to a clear next step without pushing.
-> 
-> I’ll help you:
-> - turn “I’ll think about it” into a
-
-<a id="record-a8dc83c204e45dde"></a>
-## sales training offer
-
-**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
-**Publication:** unknown · **Author:** olga\_sinenko.official · **Format:** post
-
-### Summary
-
-- Olga Sinenko offers free sales training on Telegram.
-  - “Start with FREE Sales Training on Telegram” — [/profile/biography](../../../data/instagram/olga_sinenko.official.yaml) (`instagram-olga-sinenko-official-yaml-a4fadf2d62:u000003`)
-
-### Original context
-
-**authored text by olga\_sinenko.official** · /profile/biography · authored_text
-
-> 11+ yrs selling Dubai real estate
-> I teach to turn “Just send me some OPTIONS” into closed deals🤝
-> Start with FREE Sales Training on Telegram ↓

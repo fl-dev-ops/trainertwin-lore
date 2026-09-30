@@ -1,6 +1,22 @@
 # linking
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** linking
+
+## Methods and expression
+
+- [Providing a link](../expression/providing-a-link-035ffa519e.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-035ffa519eea905d"></a>
 ## Providing a link
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 9-9 · authored_text
 
 > Watch Re-play on - https://lnkd.in/d7Tzm479
+

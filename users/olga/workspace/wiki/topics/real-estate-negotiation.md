@@ -1,6 +1,21 @@
-# real estate negotiation
+# Real estate negotiation
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Real estate negotiation
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f37c4acb46f1c5b8"></a>
 ## Negotiation strategy
@@ -23,3 +38,4 @@
 **olgasi** · lines 112-112 · spoken_turn
 
 > rates a rental income. You bought it three, maybe four years ago, by February 2026. Similar units were selling with a strong premium of 50% above the original price that you paid. So, why would you suddenly decide to sell now and lose 30 or 40%? You wouldn't. Because mentally you are still living in the market of the last five years. Prices were going up, buyers were chasing units, agents were telling you Your unit will only become more expensive
+

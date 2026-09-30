@@ -1,6 +1,21 @@
-# agency payment preconditions
+# Agency Payment Preconditions
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Agency Payment Preconditions
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-5aefbd55cd4f7f5e"></a>
 ## Agency Payment Conditions
@@ -35,3 +50,4 @@
 **unknown speaker** · lines 56-56 · spoken_turn
 
 > hoping that eventually at some point they're going to pay
+

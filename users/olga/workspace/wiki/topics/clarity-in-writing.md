@@ -1,6 +1,22 @@
-# clarity in writing
+# Clarity in writing
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Clarity in writing
+
+## Methods and expression
+
+- [Parenthesis use](../expression/parenthesis-use-b7c9628273.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b7c9628273a75078"></a>
 ## Parenthesis use
@@ -24,3 +40,4 @@ Not stated in the cited excerpt.
 > ## Caption
 > How to Convince the Client is starting with…
 > What to say - here where many agents get it wrong
+

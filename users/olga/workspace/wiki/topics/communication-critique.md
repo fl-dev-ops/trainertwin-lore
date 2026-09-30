@@ -1,6 +1,21 @@
 # communication critique
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** communication critique
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0625513e7e053c2f"></a>
 ## Generic Sales Messages
@@ -34,3 +49,4 @@
 > I guarantee higher response rate from already warm clients!
 > 
 > Ps. Keep thinking that Common Sense is Untrainable…
+

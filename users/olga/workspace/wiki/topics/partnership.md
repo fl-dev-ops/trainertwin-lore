@@ -1,6 +1,21 @@
-# partnership
+# Partnership
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Partnership
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-012d79eb0b7d3134"></a>
 ## Partnership with Habico Properties
@@ -31,3 +46,4 @@
 > In simple words - where agents want to come to work, they Call they Support Each other, and they are believe in Themselves and your the Company.
 > 
 > When agents work in such environment where they feel supported, develop professionally, and achieve stronger
+

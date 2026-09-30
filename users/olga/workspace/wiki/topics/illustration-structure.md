@@ -1,6 +1,22 @@
 # illustration structure
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** illustration structure
+
+## Methods and expression
+
+- [Startup illustration](../expression/startup-illustration-a1cb81e73f.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-a1cb81e73fb7814b"></a>
 ## Startup illustration
@@ -28,3 +44,4 @@ Not stated in the cited excerpt.
 > For B2C: a lot of free users who open it twice, maybe some💰 for a month, then cancel. No profit. And you’re staring at the thing you spent everything building.
 > 
 > Your thoughts?
+

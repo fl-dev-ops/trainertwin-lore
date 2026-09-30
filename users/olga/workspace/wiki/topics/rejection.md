@@ -1,6 +1,22 @@
 # rejection
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** rejection
+
+## Methods and expression
+
+- [Overcoming Fear of Rejection](../methods/overcoming-fear-of-rejection-3e39be72f2.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-3e39be72f2ef2253"></a>
 ## Overcoming Fear of Rejection
@@ -54,3 +70,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 150-150 · spoken_turn
 
 > outside of sales. Ask for things you may not get, make requests people may refuse. Do it on purpose. You need to prove to yourself that hearing no is not dangerous. After twenty rejections, no starts to feel less personal. It stops being a threat and becomes an information. That's it. That's wrap one. Nineteen to go. And your next step is right here. Watch the next video how to watch offline deals uh in twenty twenty twenty six, everything we talked about it today is a foundation. That video is where the deals happen.
+

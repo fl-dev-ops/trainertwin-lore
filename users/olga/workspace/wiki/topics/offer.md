@@ -1,6 +1,21 @@
 # offer
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** offer
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f10d657b0675cef9"></a>
 ## Client Journey Mapping Offering
@@ -18,3 +33,4 @@
 **authored text by unknown author** · lines 15-15 · authored_text
 
 > It's not just about sales; it's about the client's actual journey. Let's map it out. Full training on my Youtube channel
+

@@ -1,6 +1,21 @@
 # professional experience
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** professional experience
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f134afcfbd5a62ba"></a>
 ## Professional Background
@@ -18,3 +33,4 @@
 **authored text by Olga\_Si\_Sales** · /profile/description · authored_text
 
 > 11+ Years in Dubai Real Estate | Sales Trainer &amp; Mentor | Human Behaviour, Buyer Psychology &amp; Neuro-Emotional Persuasion
+

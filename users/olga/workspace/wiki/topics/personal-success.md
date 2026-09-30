@@ -1,6 +1,22 @@
 # personal success
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** personal success
+
+## Methods and expression
+
+- [Rhetorical Tone of Achievement](../expression/rhetorical-tone-of-achievement-8355d2b46a.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-8355d2b46afc002c"></a>
 ## Rhetorical Tone of Achievement
@@ -40,3 +56,4 @@ Not stated in the cited excerpt.
 > That’s it!
 > 
 > Just wanted to brag about my client 👏
+

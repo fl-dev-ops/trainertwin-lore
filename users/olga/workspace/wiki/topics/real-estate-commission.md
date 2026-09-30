@@ -1,6 +1,22 @@
 # real estate commission
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate commission
+
+## Methods and expression
+
+- [Commission breakdown explanation](../expression/commission-breakdown-explanation-18cfe6a07b.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-18cfe6a07b6012ac"></a>
 ## Commission breakdown explanation
@@ -36,3 +52,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 599-599 · spoken_turn
 
 > operation maybe and and you just dying to sell or sorry to rent this property then you're going to be working with the agent because the commission going to be like really really not that great. And an off plan five percent or ten percent on some projects will be split half half with your employer with your agency. So that means minimum you're going to get two and a half percent. And the prices for off plan properties are usually higher than the prices for secondary market. In the same area you could have two
+

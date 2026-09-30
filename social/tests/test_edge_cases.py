@@ -349,7 +349,7 @@ def test_youtube_skips_paid_retranscription_for_saved_videos(tmp_path, monkeypat
 
     def fake_build(audios_dir, json_dir, directory, videos, **kwargs):
         calls["built"] = len(videos)
-        return len(videos)
+        return 1  # Only the one pending video's audio is exported.
 
     monkeypatch.setattr(youtube, "build_markdowns_from_json", fake_build)
     (video_dir / "2026-07-31-old-olddddd11.md").write_text(

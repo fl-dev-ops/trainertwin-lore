@@ -1,6 +1,22 @@
 # real estate scheduling
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate scheduling
+
+## Methods and expression
+
+- [Building a Weekly Schedule for Agents](../methods/building-a-weekly-schedule-for-agents-d924134cd6.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-d924134cd6f36f4d"></a>
 ## Building a Weekly Schedule for Agents
@@ -42,3 +58,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 136-136 · spoken_turn
 
 > what went wrong and they will change it next time. Then a quick plan for tomorrow, exactly what you will be doing in your blogs. And the last twenty minutes is the serum. Saturday calls are for referrals, follow-ups, and planning the week ahead. Now look at the colors. Everything in green is a conversation with a human being who could buy. That's most of your week. The gray is the admin and the fires. The path that you can currently do all day. And I know how it looks from outside.
+

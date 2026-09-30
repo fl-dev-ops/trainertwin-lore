@@ -1,6 +1,21 @@
 # real estate sales technique
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate sales technique
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-7c2be71740c1a837"></a>
 ## conversation technique
@@ -43,3 +58,4 @@
 > But through the kind of conversation that builds trust and helps people move forward.
 > 
 > This is exactly what I teach in my Academy and in my private
+

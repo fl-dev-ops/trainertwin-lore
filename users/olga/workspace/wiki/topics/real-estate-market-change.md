@@ -1,6 +1,22 @@
 # real estate market change
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate market change
+
+## Methods and expression
+
+- [Post-Covid market insight](../expression/post-covid-market-insight-5cedd14c0e.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-d67915379bea45f8"></a>
 ## End-user demand post-Covid
@@ -56,3 +72,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 74-74 · spoken_turn
 
 > not where you start. And here is why. A type of person which is moving to Dubai now, a change. Before Covid, it was mostly singles, young couples, short-term expats. People who came, who worked, stayed a few years, rented or bought maybe one bed. After Covid, the profile shifted. Family start arriving from Europe, US, Russia, Canada. People used to have houses, gardens, spaces, schools.
+

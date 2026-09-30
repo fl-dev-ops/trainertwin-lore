@@ -187,28 +187,41 @@ def enrich_video(video: dict[str, Any]) -> None:
 
 # --- 2. Audio Download ---
 def download_video_audio(video_url: str, output_dir: Path) -> Path | None:
-    """Download single YouTube video audio as MP3."""
+    """Download audio, retrying with a second YouTube client when one is blocked."""
     output_dir.mkdir(parents=True, exist_ok=True)
     out_template = str(output_dir / "%(title)s [%(id)s].%(ext)s")
-    cmd = [
-        "yt-dlp",
-        "-x",
-        "--audio-format",
-        "mp3",
-        "--audio-quality",
-        "0",
-        "--extractor-args",
-        "youtube:player_client=web_embedded",  # default client hits HTTP 403 as of Sep 2026
-        "-o",
-        out_template,
-        video_url,
-    ]
-    status(f"YouTube: downloading audio {video_url}")
-    res = subprocess.run(cmd, capture_output=True, text=True, check=False)
-    if res.returncode != 0:
-        print(f"Failed to download {video_url}: {res.stderr}", file=sys.stderr)
-        return None
-    return output_dir
+    errors = []
+    for client, fallback_format in (
+        ("web_embedded", None),
+        ("android_vr", None),
+        ("mweb", "18"),
+    ):
+        status(f"YouTube: downloading audio {video_url} ({client})")
+        format_args = ["-f", fallback_format] if fallback_format else []
+        res = subprocess.run(
+            [
+                "yt-dlp",
+                "-x",
+                "--audio-format",
+                "mp3",
+                "--audio-quality",
+                "0",
+                *format_args,
+                "--extractor-args",
+                f"youtube:player_client={client}",
+                "-o",
+                out_template,
+                video_url,
+            ],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        if res.returncode == 0:
+            return output_dir
+        errors.append(f"{client}: {res.stderr.strip()}")
+    print(f"Failed to download {video_url}: {'; '.join(errors)}", file=sys.stderr)
+    return None
 
 
 # --- 3. Sarvam AI Batch Transcription ---

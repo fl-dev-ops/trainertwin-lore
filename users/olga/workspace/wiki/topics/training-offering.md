@@ -1,6 +1,21 @@
 # training offering
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** training offering
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-4e6aa4a24dcb0483"></a>
 ## YouTube Training Offering
@@ -18,3 +33,4 @@
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Teaching you how to overcome a WAR objections in my Youtube Training
+

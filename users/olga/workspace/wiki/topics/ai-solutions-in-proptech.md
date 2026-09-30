@@ -1,6 +1,21 @@
-# ai solutions in proptech
+# AI solutions in PropTech
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** AI solutions in PropTech
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-c822d0860d7d5445"></a>
 ## AI voice solutions in real estate
@@ -34,3 +49,4 @@
 > And specifically since 2022 I’ve spoken with a number of agencies founded by people who floated into Dubai after resetting their business because of the situation in the homeland.
 > 
 > They managed to get some
+

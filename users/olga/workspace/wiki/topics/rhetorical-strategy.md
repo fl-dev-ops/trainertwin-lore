@@ -1,6 +1,22 @@
 # rhetorical strategy
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** rhetorical strategy
+
+## Methods and expression
+
+- [Question Framing](../expression/question-framing-d4056df593.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-d4056df593ede3bb"></a>
 ## Question Framing
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 > Would you go back 20 years if you could?
 > 
 > #Gratitude #PersonalGrowth #LifeReflection #PresentMoment WomenOver40 Midlife
+

@@ -1,6 +1,22 @@
 # communication style
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** communication style
+
+## Methods and expression
+
+- [Rhetorical questioning](../expression/rhetorical-questioning-cae66bce2b.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-cae66bce2b6830b7"></a>
 ## Rhetorical questioning
@@ -48,3 +64,4 @@ Not stated in the cited excerpt.
 > 
 > I think this question matters not only for agents.
 > If you manage a
+

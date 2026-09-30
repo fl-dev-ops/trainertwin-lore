@@ -1,6 +1,23 @@
 # communication
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** communication
+
+## Methods and expression
+
+- [Sales Communication](../methods/sales-communication-308440e821.md)
+- [Tony Robbins Example](../expression/tony-robbins-example-4e601eadbe.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-308440e82171152f"></a>
 ## Sales Communication
@@ -99,3 +116,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 467-467 · spoken_turn
 
 > ten minutes, maybe even less. This person stands up, I can do it. He's not telling him, even though he could, he has enough power and people are like fully trusting him. He's not telling him anything. He's asking him a right question. So the person discover through this question on his own. So the art of Tony Robbins is instead of me pitching you and telling you, I will ask the question when their your personal response on this question would be
+

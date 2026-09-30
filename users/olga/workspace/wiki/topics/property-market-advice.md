@@ -1,6 +1,22 @@
 # property market advice
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** property market advice
+
+## Methods and expression
+
+- [Market Strategy Advice](../expression/market-strategy-advice-bc1cbfd061.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b60a5f558332e258"></a>
 ## Evaluating Property Investment
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 204-204 · spoken_turn
 
 > power, developers competing for you. But before you sign anything, answer three questions. First, what creates the real demand for this specific property? Not to buy, not the brochure. Second, how many new identical units going to be handed over within the year in the same district? Third, who buys it or rents it from you and why yours instead the one on the floor above? If you cannot answer all three, you are not investing in Dubai.
+

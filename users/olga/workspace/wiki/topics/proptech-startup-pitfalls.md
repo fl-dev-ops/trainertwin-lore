@@ -1,6 +1,21 @@
-# proptech startup pitfalls
+# PropTech startup pitfalls
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** PropTech startup pitfalls
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-50df7bedc681a05f"></a>
 ## Common startup pitfalls
@@ -32,3 +47,4 @@
 > Those differences aren’t visible to someone who hasn’t been in the industry like me since 2015, through the previous buyer’s market, and watched the market cycles in Dubai sitting on both sides, the agent’s and the agency’s.
 > 
 > So let me save you the time and the money, because I can already tell you how this
+

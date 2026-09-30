@@ -1,6 +1,24 @@
-# ai conversation
+# AI conversation
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** AI conversation
+
+## Methods and expression
+
+- [Tone of disbelief](../expression/tone-of-disbelief-9e5e4c2c40.md)
+- [Rhetorical question](../expression/rhetorical-question-7b6f40bf14.md)
+- [Humor through self-deprecation](../expression/humor-through-self-deprecation-0dfbf81a81.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-6da2aa353f034a73"></a>
 ## Humanity and AI
@@ -24,16 +42,16 @@
 > Who is with me?
 > Ps. And thanks god my misspelling and autocorrect keeps me a human
 
-<a id="record-0dfbf81a815143a8"></a>
-## Humor through self-deprecation
+<a id="record-9e5e4c2c409741ae"></a>
+## Tone of disbelief
 
 **Product:** expression · **Type:** tone · **Source support:** not_reviewed
 **Publication:** 2026-09-02T02:55:09.036000Z · **Author:** olgasi · **Format:** post
 
 ### Observation
 
-- The author uses humor by saying their misspelling and autocorrect mistakes keep them human.
-  - “Ps. And thanks god my misspelling and autocorrect keeps me a human” — [lines 10-15](../../../data/linkedin/posts/2026-09-02-seriously-this-is-the-world.md) (`linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:u000001`)
+- The author begins with a rhetorical question expressing disbelief about the current state of the world.
+  - “Seriously? This is the world we are living now?” — [lines 10-15](../../../data/linkedin/posts/2026-09-02-seriously-this-is-the-world.md) (`linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:u000001`)
 
 ### Purpose
 
@@ -76,16 +94,16 @@ Not stated in the cited excerpt.
 > Who is with me?
 > Ps. And thanks god my misspelling and autocorrect keeps me a human
 
-<a id="record-9e5e4c2c409741ae"></a>
-## Tone of disbelief
+<a id="record-0dfbf81a815143a8"></a>
+## Humor through self-deprecation
 
 **Product:** expression · **Type:** tone · **Source support:** not_reviewed
 **Publication:** 2026-09-02T02:55:09.036000Z · **Author:** olgasi · **Format:** post
 
 ### Observation
 
-- The author begins with a rhetorical question expressing disbelief about the current state of the world.
-  - “Seriously? This is the world we are living now?” — [lines 10-15](../../../data/linkedin/posts/2026-09-02-seriously-this-is-the-world.md) (`linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:u000001`)
+- The author uses humor by saying their misspelling and autocorrect mistakes keep them human.
+  - “Ps. And thanks god my misspelling and autocorrect keeps me a human” — [lines 10-15](../../../data/linkedin/posts/2026-09-02-seriously-this-is-the-world.md) (`linkedin-posts-2026-09-02-seriously-this-is-the-world-md-876ad49e65:u000001`)
 
 ### Purpose
 
@@ -101,3 +119,4 @@ Not stated in the cited excerpt.
 > I want to start the movement of Banning this Account!
 > Who is with me?
 > Ps. And thanks god my misspelling and autocorrect keeps me a human
+

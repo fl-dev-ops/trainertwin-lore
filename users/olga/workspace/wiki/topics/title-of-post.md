@@ -1,6 +1,22 @@
-# title of post
+# Title of post
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Title of post
+
+## Methods and expression
+
+- [Title structure](../expression/title-structure-6958b6063e.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-6958b6063e3222b5"></a>
 ## Title structure
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > We All lost the Future, Now what?
+

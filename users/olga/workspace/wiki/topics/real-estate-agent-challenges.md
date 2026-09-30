@@ -1,6 +1,21 @@
 # real estate agent challenges
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate agent challenges
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-c0311545c4871332"></a>
 ## Challenges for secondary market agents
@@ -23,3 +38,4 @@
 **olgasi** · lines 567-567 · spoken_turn
 
 > maybe a little lower. There is no difference. And I can see the prices. So based on that, I always would want to have a little bit higher than the markets. So this is the challenges that you will have as a secondary market agent.
+

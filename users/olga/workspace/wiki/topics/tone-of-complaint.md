@@ -1,6 +1,22 @@
 # tone of complaint
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** tone of complaint
+
+## Methods and expression
+
+- [Expressing Frustration](../expression/expressing-frustration-a0e5ba708d.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-a0e5ba708da3e276"></a>
 ## Expressing Frustration
@@ -38,3 +54,4 @@ Not stated in the cited excerpt.
 > I guarantee higher response rate from already warm clients!
 > 
 > Ps. Keep thinking that Common Sense is Untrainable…
+

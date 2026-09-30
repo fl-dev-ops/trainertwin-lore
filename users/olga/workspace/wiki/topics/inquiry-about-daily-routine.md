@@ -1,6 +1,22 @@
 # inquiry about daily routine
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** inquiry about daily routine
+
+## Methods and expression
+
+- [Questioning about daily structure](../expression/questioning-about-daily-structure-643414b9f3.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-643414b9f3878c34"></a>
 ## Questioning about daily structure
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 31-31 · spoken_turn
 
 > What is your structure today?
+

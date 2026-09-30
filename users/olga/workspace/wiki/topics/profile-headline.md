@@ -1,6 +1,22 @@
 # profile headline
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** profile headline
+
+## Methods and expression
+
+- [Headline Content](../expression/headline-content-8483fbfa17.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-8483fbfa17002987"></a>
 ## Headline Content
@@ -90,3 +106,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · /profile/multiLocaleHeadline/0/headline · authored_text
 
 > Dubai Real Estate Sales Mentor &amp; Business Consultant | 11+ years Selling  | 6+ years Coaching. Turning “Just send me some options…” into Closed deals.
+

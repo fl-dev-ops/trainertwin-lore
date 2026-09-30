@@ -1,6 +1,21 @@
 # training announcement
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** training announcement
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-6b2dff84b93f8f6a"></a>
 ## upcoming live training
@@ -22,3 +37,4 @@
 > If you want to learn how to persuade without sounding pushy, join my Free Telegram community. https://lnkd.in/daeg2EiS
 > 
 > I’ll soon be doing a Live Zoom training on Cold Calling and Objection Handling - #1 skills in Current Market
+

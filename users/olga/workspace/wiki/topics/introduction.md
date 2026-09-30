@@ -1,6 +1,23 @@
 # introduction
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** introduction
+
+## Methods and expression
+
+- [Initial Engagement Invitation](../expression/initial-engagement-invitation-932b26ef60.md)
+- [Introduction with an unpopular opinion](../expression/introduction-with-an-unpopular-opinion-5c260ee0c3.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-932b26ef60d6079c"></a>
 ## Initial Engagement Invitation
@@ -43,3 +60,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 36-36 · spoken_turn
 
 > I'm gonna say unpopular opinion. To buy real estate market needed a cleanse. And if you're just watching it from a position of the agent, of the seller, of the buyer, that's all what we created ourselves. My name is Olga Sinek, I'm a real estate sales coach, and I am looking at the market not only from the perspective of how to teach the agent to sell you more. I've seen the behaviors of sellers and buyers, agents and developers.
+

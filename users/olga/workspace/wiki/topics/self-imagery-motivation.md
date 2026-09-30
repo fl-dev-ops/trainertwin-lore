@@ -1,6 +1,22 @@
-# self imagery motivation
+# self-imagery motivation
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** self-imagery motivation
+
+## Methods and expression
+
+- [Motivation advice structure](../expression/motivation-advice-structure-5a3b1ba0c6.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-260c0c6ee996ec08"></a>
 ## Motivation through self-imagery
@@ -18,27 +34,6 @@
 **olgasi** · lines 26-26 · spoken_turn
 
 > If you're going to put a picture of yourself, the old one,
-
-**olgasi** · lines 30-30 · spoken_turn
-
-> And you're going to look at that every day, the way you live your life, the decision you make, going to be more precise, driven, and you get more motivation. So...
-
-<a id="record-5a3b1ba0c67a3d08"></a>
-## Motivation advice structure
-
-**Product:** expression · **Type:** structure · **Source support:** not_reviewed
-**Publication:** 2026-04-27 · **Author:** olgasi · **Format:** transcript
-
-### Observation
-
-- The speaker suggests a structured sequence of actions: put up an old picture, look at it daily, and thereby become more driven and precise in decision-making.
-  - “look at that every day, the way you live your life, the decision you make, going to be more precise, driven, and you get more motivation.” — [lines 30-30](../../../data/youtube/video/2026-04-27-how-to-stop-procrastination-motivation-realestatetraining-Yl9k9Rq9NqE.md) (`youtube-video-2026-04-27-how-to-stop-procrastination-motivation-realestatetraining-yl-5b9fca4910:u000004`)
-
-### Purpose
-
-Not stated in the cited excerpt.
-
-### Original context
 
 **olgasi** · lines 30-30 · spoken_turn
 
@@ -105,3 +100,25 @@ Not stated in the cited excerpt.
 **olgasi** · lines 58-58 · spoken_turn
 
 > I mean, I think it's like a like a pretty good representation. Picture number two. um That's me fifteen kg heavier. So.
+
+<a id="record-5a3b1ba0c67a3d08"></a>
+## Motivation advice structure
+
+**Product:** expression · **Type:** structure · **Source support:** not_reviewed
+**Publication:** 2026-04-27 · **Author:** olgasi · **Format:** transcript
+
+### Observation
+
+- The speaker suggests a structured sequence of actions: put up an old picture, look at it daily, and thereby become more driven and precise in decision-making.
+  - “look at that every day, the way you live your life, the decision you make, going to be more precise, driven, and you get more motivation.” — [lines 30-30](../../../data/youtube/video/2026-04-27-how-to-stop-procrastination-motivation-realestatetraining-Yl9k9Rq9NqE.md) (`youtube-video-2026-04-27-how-to-stop-procrastination-motivation-realestatetraining-yl-5b9fca4910:u000004`)
+
+### Purpose
+
+Not stated in the cited excerpt.
+
+### Original context
+
+**olgasi** · lines 30-30 · spoken_turn
+
+> And you're going to look at that every day, the way you live your life, the decision you make, going to be more precise, driven, and you get more motivation. So...
+

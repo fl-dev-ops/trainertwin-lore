@@ -1,6 +1,23 @@
-# self expression
+# self-expression
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** self-expression
+
+## Methods and expression
+
+- [Confidence Assertion](../expression/confidence-assertion-6fc83b58f1.md)
+- [Perception of Uniqueness](../expression/perception-of-uniqueness-6e80edc0a9.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-6fc83b58f114c9c5"></a>
 ## Confidence Assertion
@@ -43,3 +60,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 27-27 · spoken_turn
 
 > I know for sure that they will pay any money not to do this. So I am the unique person who in their mind is doing something they're not capable of. And of course they explain it to themselves like, well why she's doing this? Oh how dare she? Or maybe they don't or maybe they really like Jesus Christ. I wish I could do something like this.
+

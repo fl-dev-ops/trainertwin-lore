@@ -1,6 +1,22 @@
 # task management
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** task management
+
+## Methods and expression
+
+- [Explaining an Agent’s Ineffective Workday](../expression/explaining-an-agent-s-ineffective-workday-4ff99b6394.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-1855650ff57286d2"></a>
 ## Avoid Procrastination
@@ -40,3 +56,4 @@
 **olgasi** · lines 64-64 · spoken_turn
 
 > She usually spent pressing the other thirty-ninth very fast, very sincerely. I tracked an agent in my coaching, nine hours a day in the office, and forty minutes of actual conversation with a human who could buy a property. Let's imagine it's eleven thirty AM, twenty minutes before lunch, thirty leads in front of you and open a serum, you check WhatsApp, you scroll the portals, maybe there is some new inventory. You are not procrastinating. Your brain is protecting you.
+

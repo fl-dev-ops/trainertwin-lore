@@ -1,6 +1,21 @@
-# investment opportunities
+# Investment opportunities
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Investment opportunities
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-6ad83116f9b6b007"></a>
 ## Distress Deals as Investment Opportunities
@@ -18,3 +33,4 @@
 **olgasi** · lines 159-159 · spoken_turn
 
 > like Dubai, opportunities still exist for investors who know where to look. One example of the current time, 2026, is the distress deals, when the properties are become available below their potential market value. And in my next video, I go through step by step how to get a distress deal, where this opportunity is coming from, and what investors need to know before considering it. Watch it next.
+

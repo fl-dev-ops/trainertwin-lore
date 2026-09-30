@@ -1,6 +1,21 @@
 # sales process in real estate
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** sales process in real estate
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ab5e8c71735c735a"></a>
 ## Sales process challenge
@@ -28,3 +43,4 @@
 > I know this problem well.
 > My first real estate clients did not want to talk to me either.
 > That is where my understanding of sales in this market really started.
+

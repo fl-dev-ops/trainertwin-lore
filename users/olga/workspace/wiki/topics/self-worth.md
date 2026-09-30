@@ -1,6 +1,21 @@
-# self worth
+# self-worth
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** self-worth
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-7e104231e1d737c7"></a>
 ## Belief about self-worth
@@ -25,3 +40,4 @@
 > Now the next step - I just don’t believe it… I’m choosing to think “I already have everything I need and already winning “
 > 
 > Hey - 👋 if this does not work!!! Jump more!
+

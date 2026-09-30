@@ -1,6 +1,21 @@
 # communicating value
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** communicating value
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b3d8232d741182f1"></a>
 ## Communicating value
@@ -26,3 +41,4 @@
 **olgasi** · lines 1363-1363 · spoken_turn
 
 > with a commission breath. And you are now giving him a value. So if you ever wonder how the value looks like, it's a clean representation of one kg of value. Well, value doesn't have any measurements, right? So it's you to decide or maybe you can even put in the comments down below how valuable or less valuable this training was for you. So we're done with our training. If you stuck till the end like good for you, I will attach
+

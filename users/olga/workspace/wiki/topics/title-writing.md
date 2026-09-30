@@ -1,6 +1,22 @@
 # title writing
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** title writing
+
+## Methods and expression
+
+- [Attention-Grabbing Title](../expression/attention-grabbing-title-8437475203.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-8437475203593455"></a>
 ## Attention-Grabbing Title
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Her Agency Refused to pay Her Commissions - So she did this ...
+

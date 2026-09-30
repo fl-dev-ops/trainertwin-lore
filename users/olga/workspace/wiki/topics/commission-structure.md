@@ -1,6 +1,22 @@
 # commission structure
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** commission structure
+
+## Methods and expression
+
+- [salary and commission discussion](../expression/salary-and-commission-discussion-f2efd01fca.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0970a78591a32f94"></a>
 ## commission differences
@@ -43,3 +59,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 643-643 · spoken_turn
 
 > they will ask for your productivity, for your KPIs, and you're going to have them in a very, very determined and strict way. There are some developers who will give you an approximate target of six million to sell on a six million volume within the first month because you are just fresh and new, and then from second to third, they're going to move it to twelve. Some developers are going to give you higher numbers. It all depends on the
+

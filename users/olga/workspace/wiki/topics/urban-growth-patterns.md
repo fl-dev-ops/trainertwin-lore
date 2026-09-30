@@ -1,6 +1,22 @@
 # urban growth patterns
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** urban growth patterns
+
+## Methods and expression
+
+- [Comparison of city growth patterns](../expression/comparison-of-city-growth-patterns-7084bd8120.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ec8ee23e85dc7e0a"></a>
 ## Growth comparison with other cities
@@ -43,3 +59,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 50-50 · spoken_turn
 
 > It's not one center with everything growing around it. It's much more palace-centric, more like New York, where Manhattan is still powerful, but Brooklyn and other districts became their own centers of demand. Dumai is even more extreme because the city keeps creating new centers with the purpose and clear government plan. Dubai South, downtown Jebel Ali, Dubai Silicon Oasis, and other future corridors.
+

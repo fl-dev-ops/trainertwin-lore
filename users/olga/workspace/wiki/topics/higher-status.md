@@ -1,6 +1,21 @@
 # higher status
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** higher status
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-bceac75ff57cee0a"></a>
 ## Importance of Higher Status in Sales
@@ -23,3 +38,4 @@
 **olgasi** · lines 319-319 · spoken_turn
 
 > spreading commission breath on him or someone who is higher status. That's very interesting part. Where I teach always to walk into any conversation with the client from their higher status because think normally about this.
+

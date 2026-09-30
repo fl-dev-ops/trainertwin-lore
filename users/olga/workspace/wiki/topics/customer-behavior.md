@@ -1,6 +1,22 @@
 # customer behavior
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** customer behavior
+
+## Methods and expression
+
+- [Client decision-making funnel](../expression/client-decision-making-funnel-9a97b128f3.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-9a97b128f3c0b5ff"></a>
 ## Client decision-making funnel
@@ -30,3 +46,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 44-44 · spoken_turn
 
 > it doesn't mean that immediately you're going to be interested to buy.
+

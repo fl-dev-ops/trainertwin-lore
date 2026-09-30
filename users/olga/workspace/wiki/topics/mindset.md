@@ -1,6 +1,61 @@
 # mindset
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** mindset
+
+## Methods and expression
+
+- [Cultivating Mindset Advice](../expression/cultivating-mindset-advice-51d3d14269.md)
+- [Explanation Sequence](../expression/explanation-sequence-373405a919.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
+
+<a id="record-be594cf9ac54bf38"></a>
+## Making Money Mindset
+
+**Product:** knowledge · **Type:** advice · **Source support:** not_reviewed
+**Publication:** 2026-04-14T13:47:50Z · **Author:** unknown · **Format:** transcript
+
+### Summary
+
+- Cultivate a mindset to make money regardless of the situation, acknowledging that everyone is fearful, but focusing on a 'front vision.'
+  - “this is the mindset that you have to, um, cultivate in yourself. Yes, everyone is fearful. Yes, everyone sees this, but this is a front vision, right?” — [lines 28-28](../../../data/instagram/posts/2026-04-14-you-can-make-money-in.md) (`instagram-posts-2026-04-14-you-can-make-money-in-md-ef33594198:u000002`)
+
+### Original context
+
+**unknown speaker** · lines 28-28 · spoken_turn
+
+> Without further delay, I want to give you an interesting example of how someone, regardless of situation, can still make money. And to be realistic, this is the mindset that you have to, um, cultivate in yourself. Yes, everyone is fearful. Yes, everyone sees this, but this is a front vision, right? I want to give you, um, a well-known example, which you can, and I'm kind of asking you to do that if you haven't seen that proper movie. you haven't seen that movie yet properly. Um Big Short uh Movie Bud 2008.
+
+<a id="record-51d3d14269318b60"></a>
+## Cultivating Mindset Advice
+
+**Product:** expression · **Type:** wording · **Source support:** not_reviewed
+**Publication:** 2026-04-14T13:47:50Z · **Author:** unknown · **Format:** transcript
+
+### Observation
+
+- The speaker uses imperative and motivational language to advise listeners to cultivate a mindset for making money by using a 'front vision' amid fears.
+  - “this is the mindset that you have to, um, cultivate in yourself.” — [lines 28-28](../../../data/instagram/posts/2026-04-14-you-can-make-money-in.md) (`instagram-posts-2026-04-14-you-can-make-money-in-md-ef33594198:u000002`)
+
+### Purpose
+
+Not stated in the cited excerpt.
+
+### Original context
+
+**unknown speaker** · lines 28-28 · spoken_turn
+
+> Without further delay, I want to give you an interesting example of how someone, regardless of situation, can still make money. And to be realistic, this is the mindset that you have to, um, cultivate in yourself. Yes, everyone is fearful. Yes, everyone sees this, but this is a front vision, right? I want to give you, um, a well-known example, which you can, and I'm kind of asking you to do that if you haven't seen that proper movie. you haven't seen that movie yet properly. Um Big Short uh Movie Bud 2008.
 
 <a id="record-f5dba96723d5eca7"></a>
 ## Focus Determines Experience
@@ -174,40 +229,3 @@ Not stated in the cited excerpt.
 > 
 > Change your emotional
 
-<a id="record-be594cf9ac54bf38"></a>
-## Making Money Mindset
-
-**Product:** knowledge · **Type:** advice · **Source support:** not_reviewed
-**Publication:** 2026-04-14T13:47:50Z · **Author:** unknown · **Format:** transcript
-
-### Summary
-
-- Cultivate a mindset to make money regardless of the situation, acknowledging that everyone is fearful, but focusing on a 'front vision.'
-  - “this is the mindset that you have to, um, cultivate in yourself. Yes, everyone is fearful. Yes, everyone sees this, but this is a front vision, right?” — [lines 28-28](../../../data/instagram/posts/2026-04-14-you-can-make-money-in.md) (`instagram-posts-2026-04-14-you-can-make-money-in-md-ef33594198:u000002`)
-
-### Original context
-
-**unknown speaker** · lines 28-28 · spoken_turn
-
-> Without further delay, I want to give you an interesting example of how someone, regardless of situation, can still make money. And to be realistic, this is the mindset that you have to, um, cultivate in yourself. Yes, everyone is fearful. Yes, everyone sees this, but this is a front vision, right? I want to give you, um, a well-known example, which you can, and I'm kind of asking you to do that if you haven't seen that proper movie. you haven't seen that movie yet properly. Um Big Short uh Movie Bud 2008.
-
-<a id="record-51d3d14269318b60"></a>
-## Cultivating Mindset Advice
-
-**Product:** expression · **Type:** wording · **Source support:** not_reviewed
-**Publication:** 2026-04-14T13:47:50Z · **Author:** unknown · **Format:** transcript
-
-### Observation
-
-- The speaker uses imperative and motivational language to advise listeners to cultivate a mindset for making money by using a 'front vision' amid fears.
-  - “this is the mindset that you have to, um, cultivate in yourself.” — [lines 28-28](../../../data/instagram/posts/2026-04-14-you-can-make-money-in.md) (`instagram-posts-2026-04-14-you-can-make-money-in-md-ef33594198:u000002`)
-
-### Purpose
-
-Not stated in the cited excerpt.
-
-### Original context
-
-**unknown speaker** · lines 28-28 · spoken_turn
-
-> Without further delay, I want to give you an interesting example of how someone, regardless of situation, can still make money. And to be realistic, this is the mindset that you have to, um, cultivate in yourself. Yes, everyone is fearful. Yes, everyone sees this, but this is a front vision, right? I want to give you, um, a well-known example, which you can, and I'm kind of asking you to do that if you haven't seen that proper movie. you haven't seen that movie yet properly. Um Big Short uh Movie Bud 2008.

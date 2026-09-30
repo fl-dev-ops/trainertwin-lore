@@ -1,6 +1,22 @@
 # commission breath
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** commission breath
+
+## Methods and expression
+
+- [Metaphor: 'Commission Breath'](../expression/metaphor-commission-breath-3806e1e20d.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-3806e1e20db7d8cc"></a>
 ## Metaphor: 'Commission Breath'
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 307-307 · spoken_turn
 
 > commission breath. This is my favorite one that's not actually my technology. What does that mean? When you are on the edge, when you run for your savings, when um you just need to close this deal, the way you communicate, it literally repels clients. That's why I call it commission breath. Like you stink the desire to sell, because that's basically your, you know, basic needs are not going to be met. And then, potentially you'll have to ask your mom or dad to buy you a ticket back home because you cannot survive here.
+

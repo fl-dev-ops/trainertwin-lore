@@ -1,6 +1,21 @@
-# market characteristics
+# Market characteristics
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Market characteristics
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-bd24c4c7c5151c36"></a>
 ## Early-Stage Market Characteristics
@@ -22,3 +37,4 @@
 **olgasi** · lines 151-151 · spoken_turn
 
 > on property, that's not a criticism. It's what an early stage market looks like. Dubai looked exactly like this once, two thousand five. I just want to say it's not for everyone. In any market and any point of history, only probably a very small percentage, maybe even two percent of people going to move before it's going to be obvious for everyone else. They're going to decide when the picture is still incomplete. They have a risk tolerance to
+

@@ -1,6 +1,22 @@
 # emotional persuasion
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** emotional persuasion
+
+## Methods and expression
+
+- [Technique of Narrow Emotional Persuasion](../methods/technique-of-narrow-emotional-persuasion-fd047f2956.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-fd047f29561ca39b"></a>
 ## Technique of Narrow Emotional Persuasion
@@ -66,3 +82,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 339-339 · spoken_turn
 
 > mentioned before, I know, you know the guy. How do you know the guy by the way? Because he's a very famous actor. But why he's a very famous actor? uh I don't know. Because he out rehearses everyone. Because when he is performing, when he's playing the character, you do not see him only and not that you copy is saying a good script. You feel, you believe that this is the character. So, I'm not sure about this moment of Ryan Serkhan life, yeah, you know who is
+

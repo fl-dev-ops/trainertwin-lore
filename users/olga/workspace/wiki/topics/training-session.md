@@ -1,6 +1,21 @@
 # training session
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** training session
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ea04974e70da35fa"></a>
 ## Training session on unsaid client requirements
@@ -20,3 +35,4 @@
 > I had the pleasure of welcoming Olga to our office, where she delivered an excellent training session for our agents &amp; staff. She has a remarkable ability to simplify complex topics, making them easy to understand and practical to apply. Her session on Sales and understand unsaid requirement of clients was engaging, insightful, and highly valuable for our team.
 > 
 > Olga’s professionalism, depth of knowledge, and approachable style left a lasting impression. She not only educated our agents &amp; staff but also inspired them with actionable strategies they can use to better support international clients. I would highly recommend Olga to any organization looking for a trainer who can truly add value and empower teams.
+

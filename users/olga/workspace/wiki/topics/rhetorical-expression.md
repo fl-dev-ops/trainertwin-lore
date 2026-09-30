@@ -1,6 +1,22 @@
 # rhetorical expression
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** rhetorical expression
+
+## Methods and expression
+
+- [Strong Agreement](../expression/strong-agreement-b62524686a.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b62524686a24becb"></a>
 ## Strong Agreement
@@ -26,3 +42,4 @@ Not stated in the cited excerpt.
 > Just to add - that these ex-agents are burning through their money very fast and moving into holding the agents commissions and stealing from agents will ends terribly for them! 
 > 
 > And this challenging period will hopefully clean a lot of “such” companies.
+

@@ -1,6 +1,21 @@
 # automation
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** automation
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-523b841ababf1146"></a>
 ## Automation &amp; Control in Content Marketing
@@ -18,3 +33,4 @@
 **olgasi** · lines 192-192 · spoken_turn
 
 > YouTube is no longer optional. It becomes part of your positioning. Control here is very high because you control your message, your topics, your consistency, and the audience you are building. Today, with the right tools, you can automate a large part of the process: research, structure, editing support, repurposing of the videos, titles, descriptions, and distribution. But the most important is not automation
+

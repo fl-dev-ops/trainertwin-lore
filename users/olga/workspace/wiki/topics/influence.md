@@ -1,6 +1,22 @@
 # influence
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** influence
+
+## Methods and expression
+
+- [Butterfly Analogy](../expression/butterfly-analogy-4dfa1df289.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-4dfa1df2895f5134"></a>
 ## Butterfly Analogy
@@ -26,3 +42,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 427-427 · spoken_turn
 
 > kind of call is to I want to capture it. But if you capture it, what's going to happen with this? It's not going to be butterfly anymore, right? So, what you should do to do everything possible for the butterfly to stay here, maybe, you know, locate yourself and stay with you forever. Uh, this is what persuasion and influence really is. Not pitching, convincing, but acting, being and asking the right question. So, the butterfly would design
+

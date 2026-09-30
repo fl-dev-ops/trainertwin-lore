@@ -1,6 +1,21 @@
 # business skills
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** business skills
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-9ff4fa2eeb25b67a"></a>
 ## Skill in 2026 and 2027
@@ -18,3 +33,4 @@
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Overcoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!
+

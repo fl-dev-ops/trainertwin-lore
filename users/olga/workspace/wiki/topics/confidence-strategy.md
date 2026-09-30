@@ -1,6 +1,22 @@
 # confidence strategy
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** confidence strategy
+
+## Methods and expression
+
+- [Self-trick for confidence](../methods/self-trick-for-confidence-688a8c1053.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-688a8c1053c62880"></a>
 ## Self-trick for confidence
@@ -43,3 +59,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 28-28 · spoken_turn
 
 > I know for sure that they will pay any money not to do this. So I am the unique person who in their mind is doing something they're not capable of. And of course they explain it to themselves like, well why she's doing this? Oh how dare she? Or maybe they don't or maybe they really like Jesus Christ. I wish I could do something like this.
+

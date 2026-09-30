@@ -1,6 +1,21 @@
 # developer constraints
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** developer constraints
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f8df449666071991"></a>
 ## developer sales constraints
@@ -18,3 +33,4 @@
 **olgasi** · lines 651-651 · spoken_turn
 
 > looking for options. They are considering different thing. And in a developer Salesforce, you can only sell the project of this developer. You cannot just go on the market and do secondary. You cannot just go on the market and sell off-plan project of other developers. That's not possible.
+

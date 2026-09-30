@@ -1,6 +1,21 @@
-# client objection
+# Client objection
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Client objection
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-02d1eed2c2f04fa0"></a>
 ## Client Objection: Dubai Oversupply
@@ -42,3 +57,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 43-43 · spoken_turn
 
 > as I'm saying. Supply on paper and real delivery supply. Now let me ask you is what was the biggest objection or concern you had from the clients? There is so many things going to be built. There's going to be oversupply, the market will not be able to absorb it, meaning there is not going to be enough clients who are going to be buying this. That's why the prices will go down. And please correct me if I'm wrong in the comments right now, just stop the video, correct me if you haven't been getting this rejection from your clients.
+

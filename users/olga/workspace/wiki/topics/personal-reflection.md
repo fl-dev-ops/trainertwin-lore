@@ -1,6 +1,22 @@
 # personal reflection
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** personal reflection
+
+## Methods and expression
+
+- [Reflective Tone](../expression/reflective-tone-11ed3770da.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-11ed3770da74ab93"></a>
 ## Reflective Tone
@@ -56,3 +72,4 @@ Not stated in the cited excerpt.
 > And if you hearing it as well sometimes - that Great! You are moving forward!
 > 
 > Happy birthday to me!
+

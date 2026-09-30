@@ -1,6 +1,21 @@
 # status perception
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** status perception
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-95c89903a0e76d02"></a>
 ## Reactions to Desperation in Sales
@@ -60,3 +75,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 315-315 · spoken_turn
 
 > you survive, you drop your status and he becomes an authority and you are someone who is begging him to work with you. And you know what? Maybe it will work in a different industry, but when someone putting on a table maybe the half or maybe full of his life time savings, the advice from whom will he take? From a desperate person who is completely needy, attached?
+

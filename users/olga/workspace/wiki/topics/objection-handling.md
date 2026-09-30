@@ -1,6 +1,22 @@
-# objection handling
+# Objection Handling
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Objection Handling
+
+## Methods and expression
+
+- [Objection Pre-handling](../methods/objection-pre-handling-ba47439d16.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ba47439d16cde03a"></a>
 ## Objection Pre-handling
@@ -103,3 +119,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 1283-1283 · spoken_turn
 
 > first of all. He might in the end of your whole sales process on the sales call he can tell you, oh, you know what? I've been really thinking maybe I should go and buy that property in my own country again, like, oh, I look at my own country. Maybe it's a good decision. Can you imagine? It's going to be hard to handle it back then.
+

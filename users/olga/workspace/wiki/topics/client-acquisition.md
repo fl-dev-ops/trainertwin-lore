@@ -1,6 +1,21 @@
 # client acquisition
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** client acquisition
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-cd1cf76eecfdb237"></a>
 ## Generating New Conversations as a Sales Strategy
@@ -22,3 +37,4 @@
 **olgasi** · lines 359-359 · spoken_turn
 
 > all of this is happening to you for one simple reason. You have not enough clients to deal with. When you have not enough clients to deal with, you are desperate to sell just to this one client. When you have a lot, your desperation goes down. So you can change it just by doing this one small trick. So let's go to the next stage. Another concept which is I would be saying completely the crucial, the foundation, I don't know.
+

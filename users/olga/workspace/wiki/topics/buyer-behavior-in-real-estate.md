@@ -1,6 +1,22 @@
 # buyer behavior in real estate
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** buyer behavior in real estate
+
+## Methods and expression
+
+- [Contrast presentation](../expression/contrast-presentation-f6907ff777.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f520ddc8e868cbf9"></a>
 ## Client qualification issue
@@ -121,3 +137,4 @@ Not stated in the cited excerpt.
 > 
 > I think this question matters not only for agents.
 > If you manage a
+

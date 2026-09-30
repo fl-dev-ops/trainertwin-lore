@@ -1,6 +1,22 @@
-# course offering
+# Course Offering
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Course Offering
+
+## Methods and expression
+
+- [Promotional Wording](../expression/promotional-wording-8d7606fe37.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-c65c5d76f6efcca1"></a>
 ## Course Offering in Dubai
@@ -47,3 +63,4 @@ Not stated in the cited excerpt.
 > And if you are a Developer Relationships Relationship manager - use this Strategies in Your Broker Briefings.
 > 
 > https://lnkd.in/dgcVHAeZ
+

@@ -1,6 +1,22 @@
 # neural persuasion
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** neural persuasion
+
+## Methods and expression
+
+- [Sales Advice Framing](../expression/sales-advice-framing-01ea314d7e.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-35ae573c32b1bb15"></a>
 ## Neuroemotional Persuasion
@@ -48,3 +64,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 38-38 · spoken_turn
 
 > client's mind. And inside that mind, there is always a battle between fear, doubt, and trust. This is where neuroemotional persuasion comes in. You learn how to ask better questions. So instead of convincing the client, the client starts convincing himself. You stop pitching, you start leading. And this is when they start ghosting. You start booking meetings and you are closing every month. Follow to learn how to close without pushing over explaining.
+

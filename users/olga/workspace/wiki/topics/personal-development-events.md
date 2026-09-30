@@ -1,6 +1,23 @@
 # personal development events
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** personal development events
+
+## Methods and expression
+
+- [Methods at Tony Robbins' Events](../methods/methods-at-tony-robbins-events-984222fd1c.md)
+- [Activities Description](../expression/activities-description-1623fdb2cb.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-984222fd1cc0b521"></a>
 ## Methods at Tony Robbins' Events
@@ -74,3 +91,4 @@ Not stated in the cited excerpt.
 > 
 > But this is just a beginning- I’ll leave in a comments a daily Mental exercise- I’m planning to do for the next ….XYZ years.
 > Just in case you want to try…
+

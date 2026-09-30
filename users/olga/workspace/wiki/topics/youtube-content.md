@@ -1,6 +1,21 @@
-# youtube content
+# Youtube content
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Youtube content
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0e121746ea1b7662"></a>
 ## Youtube channel offering
@@ -18,3 +33,4 @@
 **authored text by unknown author** · lines 15-15 · authored_text
 
 > Full Sales training on my Youtube channel
+

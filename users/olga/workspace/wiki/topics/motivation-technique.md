@@ -1,6 +1,21 @@
-# motivation technique
+# Motivation technique
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Motivation technique
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-c7db7cb26e6b954f"></a>
 ## Visualization with Old Picture
@@ -22,3 +37,4 @@
 **unknown speaker** · lines 34-34 · spoken_turn
 
 > And you're going to look at it every day, the way you live your life, the decision you make, going to be more precise, driven, and you get more motivation. So...
+

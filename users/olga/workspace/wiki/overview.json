@@ -6,6 +6,11 @@
     "youtube": 38
   },
   "content_families": 149,
+  "entities": 4,
+  "episodes": 3,
+  "methods": 52,
+  "omitted_entity_candidates": 2,
+  "organized_sources": 2,
   "processing": [
     {
       "coverage_is_recall": false,
@@ -1207,9 +1212,13 @@
   },
   "records": 839,
   "sources": 149,
+  "stale_organization": [],
+  "topic_aliases_organized": false,
+  "topics": 365,
   "unknown_case_fields": {
     "diagnosis": 69,
     "outcome": 71,
     "rationale": 70
-  }
+  },
+  "unorganized_sources": 147
 }

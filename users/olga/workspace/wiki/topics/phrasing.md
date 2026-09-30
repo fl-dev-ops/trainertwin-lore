@@ -1,6 +1,22 @@
 # phrasing
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** phrasing
+
+## Methods and expression
+
+- [Smart agent phrase](../expression/smart-agent-phrase-618ae4aa9c.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-618ae4aa9c784e21"></a>
 ## Smart agent phrase
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Smart agent See this as...
+

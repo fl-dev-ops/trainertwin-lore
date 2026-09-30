@@ -1,6 +1,22 @@
-# speech introduction
+# Speech introduction
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Speech introduction
+
+## Methods and expression
+
+- [Introduction Tone](../expression/introduction-tone-f9311960ec.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f9311960ec5bf34f"></a>
 ## Introduction Tone
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 31-31 · spoken_turn
 
 > Welcome to the battlefield of Dubai. My name is Olga Sinek, I'm real estate sales trainer and I'm teaching you how to keep sane in this war market uncertainty and how using my nine strategies keep selling off plan. This video are for real estate agents. However, if you are a potential buyer, I advise you to stay till the end because maybe it's going to click something in your mind. I do not teach how to trick, manipulate people. I teach
+

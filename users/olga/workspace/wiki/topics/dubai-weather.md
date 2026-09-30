@@ -1,6 +1,21 @@
-# dubai weather
+# Dubai weather
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Dubai weather
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-28d13d1242ee1c54"></a>
 ## Dubai April Weather
@@ -18,3 +33,4 @@
 **olgasi** · lines 18-18 · spoken_turn
 
 > This is the real weather of Dubai in the almost middle of April when you need some sort of a jacket and the skies are like this. I think we are all in the middle of the scene of some horror movie.
+

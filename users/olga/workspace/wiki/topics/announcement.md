@@ -1,6 +1,22 @@
 # announcement
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** announcement
+
+## Methods and expression
+
+- [Bold claim](../expression/bold-claim-0f2cd18636.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0f2cd18636adcf7b"></a>
 ## Bold claim
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Overcoming Objections based on your Own Deep understanding of the market is #1 skill in 2026 and 27!
+

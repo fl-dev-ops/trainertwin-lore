@@ -1,6 +1,22 @@
-# market strategies
+# Market Strategies
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Market Strategies
+
+## Methods and expression
+
+- [Questioning on Market Conditions](../expression/questioning-on-market-conditions-cdf02da798.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-cdf02da798173e13"></a>
 ## Questioning on Market Conditions
@@ -42,3 +58,4 @@ Not stated in the cited excerpt.
 > Are you still getting quality leads?
 > 
 > Are you able to successfully negotiate Price Reduction?
+

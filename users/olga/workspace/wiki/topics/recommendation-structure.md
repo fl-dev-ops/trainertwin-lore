@@ -1,6 +1,22 @@
 # recommendation structure
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** recommendation structure
+
+## Methods and expression
+
+- [Advice Structure](../expression/advice-structure-33c05ae8da.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-33c05ae8da98e699"></a>
 ## Advice Structure
@@ -38,3 +54,4 @@ Not stated in the cited excerpt.
 > I guarantee higher response rate from already warm clients!
 > 
 > Ps. Keep thinking that Common Sense is Untrainable…
+

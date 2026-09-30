@@ -1,6 +1,22 @@
 # street camera confidence
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** street camera confidence
+
+## Methods and expression
+
+- [Personal belief statement](../expression/personal-belief-statement-74126efda2.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-417784b3da8272d5"></a>
 ## Street camera confidence
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 20-20 · spoken_turn
 
 > The best skill I ever got is being able to walk on the streets like this with a camera in my hand and feel myself. I believe that this is the most underrated money making skill in twenty twenty six, twenty seven and and going forward. And you know what? People around me might not look
+

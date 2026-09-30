@@ -1,6 +1,22 @@
-# training opportunity
+# Training Opportunity
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Training Opportunity
+
+## Methods and expression
+
+- [Training Opportunity Call-to-Action](../expression/training-opportunity-call-to-action-d8686d9fcc.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-52f9646870bfc6f8"></a>
 ## Real Estate Training Offering
@@ -53,3 +69,4 @@ Not stated in the cited excerpt.
 > For Agents - if you want to keep selling - I will help you Join the agency where I'm already coaching the team
 > and
 > If you are an Agency Owner and you want to use it to build one of the strongest teams in the market, DM me, I'll share my High-Performance program.
+

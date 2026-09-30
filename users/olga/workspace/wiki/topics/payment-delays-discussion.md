@@ -1,6 +1,22 @@
-# payment delays discussion
+# Payment Delays Discussion
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Payment Delays Discussion
+
+## Methods and expression
+
+- [Ekaterina's Agency Strategy](../expression/ekaterina-s-agency-strategy-0a844a9802.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0a844a980245b136"></a>
 ## Ekaterina's Agency Strategy
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 60-60 · spoken_turn
 
 > bring more deals and from those deals we will start paying you what we owe you. That was the message.
+

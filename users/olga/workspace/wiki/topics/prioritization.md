@@ -1,6 +1,21 @@
 # prioritization
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** prioritization
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-25f768f427fe467c"></a>
 ## Identifying Money-Making Activities
@@ -18,3 +33,4 @@
 **olgasi** · lines 108-108 · spoken_turn
 
 > So, this is what changes when your schedule is after your first six months. Your money making activities become the priority. Not something you fit, something that you all week is build around and I want to be precise about what that means because almost everybody gets it wrong. A money making activity is when you're talking to a stranger who could potentially buy something from you. On the phone, on a video call or in the message thread that actually moving, not you're talking to yourself.
+

@@ -1,6 +1,21 @@
 # economic impact
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** economic impact
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-86873be5b2ddecda"></a>
 ## Inflation impact due to oil prices
@@ -26,3 +41,4 @@
 **olgasi** · lines 127-127 · spoken_turn
 
 > Rising of the oil prices will affect cost of living in many countries. In many European countries, in Australia, in US, in Canada, everywhere it will. So, increasing inflation, purchasing power falls,
+

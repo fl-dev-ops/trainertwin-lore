@@ -148,9 +148,6 @@
 - 2026-09-28T16:15:09Z · [How to explain the Client series.](sources/instagram-posts-2026-09-28-how-to-explain-the-client-md-1ba57ba6de.md)
 - 2026-09-29T04:00:04.621000Z · [Your client is not interested. Now what? 👀](sources/linkedin-posts-2026-09-29-your-client-is-not-interested-md-be154f19c7.md)
 - 2026-09-29T13:20:06Z · [How to explain to the client series](sources/instagram-posts-2026-09-29-how-to-explain-to-the-md-9ac1b0e2b5.md)
-
-## Undated sources
-
-- [olga\_sinenko.official](sources/instagram-olga-sinenko-official-yaml-a4fadf2d62.md)
-- [olgasi](sources/linkedin-olgasi-yaml-ef8e458ca5.md)
-- [Olga\_Si\_Sales](sources/twitter-olga-si-sales-yaml-3ddf7f043f.md)
+- undated · [olga\_sinenko.official](sources/instagram-olga-sinenko-official-yaml-a4fadf2d62.md)
+- undated · [olgasi](sources/linkedin-olgasi-yaml-ef8e458ca5.md)
+- undated · [Olga\_Si\_Sales](sources/twitter-olga-si-sales-yaml-3ddf7f043f.md)

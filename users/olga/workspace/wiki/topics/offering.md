@@ -1,6 +1,21 @@
 # offering
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** offering
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-4f3a34a13336c1b9"></a>
 ## Business consulting services
@@ -19,6 +34,23 @@
 
 > Business Consulting
 
+<a id="record-ab89cb0bae4eaa81"></a>
+## Corporate Training Services
+
+**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
+**Publication:** unknown · **Author:** olgasi · **Format:** post
+
+### Summary
+
+- Provides Corporate Training services.
+  - “Corporate Training” — [/profile/services/servicesList/1](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000014`)
+
+### Original context
+
+**authored text by olgasi** · /profile/services/servicesList/1 · authored_text
+
+> Corporate Training
+
 <a id="record-12f19418126dd4e2"></a>
 ## Executive Coaching Services
 
@@ -36,19 +68,3 @@
 
 > Executive Coaching
 
-<a id="record-ab89cb0bae4eaa81"></a>
-## Corporate Training Services
-
-**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
-**Publication:** unknown · **Author:** olgasi · **Format:** post
-
-### Summary
-
-- Provides Corporate Training services.
-  - “Corporate Training” — [/profile/services/servicesList/1](../../../data/linkedin/olgasi.yaml) (`linkedin-olgasi-yaml-ef8e458ca5:u000014`)
-
-### Original context
-
-**authored text by olgasi** · /profile/services/servicesList/1 · authored_text
-
-> Corporate Training

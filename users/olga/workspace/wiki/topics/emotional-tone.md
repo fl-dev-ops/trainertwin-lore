@@ -1,6 +1,22 @@
 # emotional tone
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** emotional tone
+
+## Methods and expression
+
+- [Tone of Gratitude](../expression/tone-of-gratitude-45d3545b55.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-45d3545b55a461d9"></a>
 ## Tone of Gratitude
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 > Would you go back 20 years if you could?
 > 
 > #Gratitude #PersonalGrowth #LifeReflection #PresentMoment WomenOver40 Midlife
+

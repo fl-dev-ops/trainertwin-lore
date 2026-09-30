@@ -1,6 +1,22 @@
-# real estate agent qualification
+# Real estate agent qualification
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Real estate agent qualification
+
+## Methods and expression
+
+- [Identifying Trustworthy Real Estate Agents](../methods/identifying-trustworthy-real-estate-agents-a5380665d4.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-a5380665d4f9fcd9"></a>
 ## Identifying Trustworthy Real Estate Agents
@@ -66,3 +82,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 137-137 · spoken_turn
 
 > that number comes off your yield every year for as long as you own the property. Four. What are the cons of the building? What can go wrong with the developer or with the area? Give me the worst case scenario. Because every building has weakness and every developer has a story behind. And if the agent says there is no cons, everything is great, leave. There is no such a thing. The only explanation is that he doesn't know
+

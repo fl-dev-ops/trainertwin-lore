@@ -1,6 +1,21 @@
 # training capability
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** training capability
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-16590b8c1f044397"></a>
 ## Breaking down complex concepts
@@ -20,3 +35,4 @@
 > Working with Olga Sinenko has been an outstanding experience. As a Sales Trainer, Olga has a rare ability to break down complex concepts and turn them into practical skills that can be applied immediately. Whether it’s mastering cold calling, refining closing strategies, or improving overall client communication, Olga delivers training that is clear, motivating, and effective.
 > 
 > What impressed me most is her ability to create a positive and encouraging environment. She doesn’t just teach techniques—she empowers you to believe in your abilities and perform at a higher level. Olga is professional, insightful, and passionate about developing people, and anyone fortunate enough to train with her will come away more skilled and more confident in their sales career.
+

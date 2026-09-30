@@ -1,6 +1,21 @@
-# tools
+# Tools
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Tools
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-34b9748e7a6428dd"></a>
 ## Use of Property Monitor Tool
@@ -18,3 +33,4 @@
 **olgasi** · lines 42-42 · spoken_turn
 
 > to stick with me till the end. I will now show you briefly what you will be experiencing in this video and if you love this map. It's actually a property monitor, one of my favorite tool, unfortunately not available for retail, casual investors or buyers or agent. That's only um kind of um B to B tool for valuations, for banks and for real estate agency. So, what we're gonna discover today is the price change.
+

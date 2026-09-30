@@ -1,6 +1,22 @@
-# market predictability
+# Market predictability
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Market predictability
+
+## Methods and expression
+
+- [Explanation of market predictability](../expression/explanation-of-market-predictability-50476958ec.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-50476958ecaa25f9"></a>
 ## Explanation of market predictability
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 38-38 · spoken_turn
 
 > Is this the most dangerous period in Dubai real estate market? Wrong question. This market is more predictable today than it has been in five years. And that is exactly what makes it dangerous. Because when the numbers are published and the pipeline is booked out till twenty twenty-eight or twenty-nine and you can see the whole thing coming, you don't get to call it a bad luck afterwards. You get to call it
+

@@ -1,17 +1,32 @@
 # gratitude and reflection
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
 
-<a id="record-c8e29a80b08b19a0"></a>
-## Gratitude Exercise
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
 
-**Product:** knowledge · **Type:** advice · **Source support:** not_reviewed
+**Aliases:** gratitude and reflection
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
+
+<a id="record-f9fe96de263b5b94"></a>
+## Life Reflection
+
+**Product:** knowledge · **Type:** self_report · **Source support:** not_reviewed
 **Publication:** 2026-07-11T16:08:20Z · **Author:** unknown · **Format:** post
 
 ### Summary
 
-- Reflect on how much one would pay to go back to a younger age and consider gratitude for the present life.
-  - “How much would I pay to go back to being 26? Or even 36? Honestly? Nothing.” — [lines 14-31](../../../data/instagram/posts/2026-07-11-in-20-years-you-would.md) (`instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136:u000001`)
+- The author reflects on not wanting their old life back, but instead cherishes the current version of it with their people, health, body, business, and achievements.
+  - “I don’t want my old life back. I want this version of it. My people, my health, my body, my business, where I live and everything I have built.” — [lines 14-31](../../../data/instagram/posts/2026-07-11-in-20-years-you-would.md) (`instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136:u000001`)
 
 ### Original context
 
@@ -36,16 +51,16 @@
 > 
 > #Gratitude #PersonalGrowth #LifeReflection #PresentMoment WomenOver40 Midlife
 
-<a id="record-f9fe96de263b5b94"></a>
-## Life Reflection
+<a id="record-c8e29a80b08b19a0"></a>
+## Gratitude Exercise
 
-**Product:** knowledge · **Type:** self_report · **Source support:** not_reviewed
+**Product:** knowledge · **Type:** advice · **Source support:** not_reviewed
 **Publication:** 2026-07-11T16:08:20Z · **Author:** unknown · **Format:** post
 
 ### Summary
 
-- The author reflects on not wanting their old life back, but instead cherishes the current version of it with their people, health, body, business, and achievements.
-  - “I don’t want my old life back. I want this version of it. My people, my health, my body, my business, where I live and everything I have built.” — [lines 14-31](../../../data/instagram/posts/2026-07-11-in-20-years-you-would.md) (`instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136:u000001`)
+- Reflect on how much one would pay to go back to a younger age and consider gratitude for the present life.
+  - “How much would I pay to go back to being 26? Or even 36? Honestly? Nothing.” — [lines 14-31](../../../data/instagram/posts/2026-07-11-in-20-years-you-would.md) (`instagram-posts-2026-07-11-in-20-years-you-would-md-cd9d349136:u000001`)
 
 ### Original context
 
@@ -128,3 +143,4 @@ Not stated in the cited excerpt.
 > Would you go back 20 years if you could?
 > 
 > #Gratitude #PersonalGrowth #LifeReflection #PresentMoment WomenOver40 Midlife EntrepreneurLife DubaiLife MyJourne
+

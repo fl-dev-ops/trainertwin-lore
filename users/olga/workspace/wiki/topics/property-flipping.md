@@ -1,6 +1,22 @@
 # property flipping
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** property flipping
+
+## Methods and expression
+
+- [Flipping properties](../methods/flipping-properties-9fb915d7fc.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-9fb915d7fc8b6ed5"></a>
 ## Flipping properties
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 102-102 · spoken_turn
 
 > during the first price spike after pandemic, it was almost hundred percent increase the prices of the villas over here just in two years. And the flipping, which is very popular in Europe as well, can be done here. What I'm saying by flipping, it's not like you buy enough land property and then you flip it before the completion. No, no, no. Well, like more old school flipping, the same as you do in Europe, you buy
+

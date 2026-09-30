@@ -1,6 +1,21 @@
-# broker briefings
+# Broker Briefings
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Broker Briefings
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-c2116f1b826ed147"></a>
 ## Advice for Developer Relationship Managers
@@ -22,3 +37,4 @@
 > And if you are a Developer Relationships Relationship manager - use this Strategies in Your Broker Briefings.
 > 
 > https://lnkd.in/dgcVHAeZ
+

@@ -1,6 +1,22 @@
 # career building
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** career building
+
+## Methods and expression
+
+- [Call to Action Structuring](../expression/call-to-action-structuring-66bca51ab9.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-66bca51ab9997c42"></a>
 ## Call to Action Structuring
@@ -27,3 +43,4 @@ Not stated in the cited excerpt.
 > 
 > career@habicoptoperties.com
 > WhatsApp: +971 5229585566
+

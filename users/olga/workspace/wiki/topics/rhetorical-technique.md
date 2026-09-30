@@ -1,6 +1,23 @@
-# rhetorical technique
+# Rhetorical Technique
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Rhetorical Technique
+
+## Methods and expression
+
+- [Rhetorical Questions](../expression/rhetorical-questions-e5c7239383.md)
+- [Contrast Emphasis](../expression/contrast-emphasis-aaa8116833.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-e5c7239383d7f77a"></a>
 ## Rhetorical Questions
@@ -91,3 +108,4 @@ Not stated in the cited excerpt.
 > Now I’m really curious…
 > 
 > If the 2-year property visa has already become more flexible, how long do you think it will take before Golden Visa
+

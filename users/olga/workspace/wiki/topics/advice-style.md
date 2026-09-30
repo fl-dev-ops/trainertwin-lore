@@ -1,6 +1,22 @@
-# advice style
+# Advice style
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Advice style
+
+## Methods and expression
+
+- [Direct advice](../expression/direct-advice-b3ab0151af.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b3ab0151af7c5545"></a>
 ## Direct advice
@@ -27,3 +43,4 @@ Not stated in the cited excerpt.
 > 
 > If you feel you’re doing amazingly and you love the money, go ahead. 
 > But for everyone else, maybe it’s time to rethink where you’re putting your investment…
+

@@ -1,6 +1,21 @@
-# ex agents
+# ex-agents
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** ex-agents
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-dc9b5ed7b870f8c1"></a>
 ## Ex-Agents' Financial Practices
@@ -43,3 +58,4 @@
 > Just to add - that these ex-agents are burning through their money very fast and moving into holding the agents commissions and stealing from agents will ends terribly for them! 
 > 
 > And this challenging period will hopefully clean a lot of “such” companies.
+

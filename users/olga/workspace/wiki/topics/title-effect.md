@@ -1,6 +1,22 @@
-# title effect
+# Title Effect
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Title Effect
+
+## Methods and expression
+
+- [Emotionally Engaging Title](../expression/emotionally-engaging-title-3f9b3022ca.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-3f9b3022ca9225c8"></a>
 ## Emotionally Engaging Title
@@ -23,3 +39,4 @@
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Shocking… It works!
+

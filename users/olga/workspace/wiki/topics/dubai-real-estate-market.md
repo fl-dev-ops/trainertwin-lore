@@ -1,6 +1,40 @@
-# dubai real estate market
+# Dubai real estate market
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Dubai real estate market
+
+## Methods and expression
+
+- [Wording on Market Hype](../expression/wording-on-market-hype-2435379ea8.md)
+- [Contrasting Market Perceptions](../expression/contrasting-market-perceptions-2cb6702ae9.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
+
+<a id="record-f4a570bb69776e68"></a>
+## Dubai Market Recovery
+
+**Product:** knowledge · **Type:** claim · **Source support:** not_reviewed
+**Publication:** 2026-09-25 · **Author:** olgasi · **Format:** transcript
+
+### Summary
+
+- The Dubai market is recovering.
+  - “The Dubai market is recovering” — [lines 37-37](../../../data/youtube/video/2026-09-25-what-changed-in-dubai-real-estate-in-2026-falling-resales-ha-3kBUFkV0O9k.md) (`youtube-video-2026-09-25-what-changed-in-dubai-real-estate-in-2026-falling-resales-ha-f4d1591cf2:u000001`)
+
+### Original context
+
+**olgasi** · lines 37-37 · spoken_turn
+
+> The Dubai market is recovering
 
 <a id="record-a6d26c88b42bfdb2"></a>
 ## Dubai Real Estate Cycle
@@ -46,23 +80,6 @@
 **olgasi** · lines 73-73 · spoken_turn
 
 > because the softening started before it. Price growth turned negative for the first time in this cycle back in Q4 2025. And then it was unexpected because of supply. 24,800 units completed in the first half of this year alone, up 37.6% compared to the first six months of 2025. The conflict didn't dot this
-
-<a id="record-f4a570bb69776e68"></a>
-## Dubai Market Recovery
-
-**Product:** knowledge · **Type:** claim · **Source support:** not_reviewed
-**Publication:** 2026-09-25 · **Author:** olgasi · **Format:** transcript
-
-### Summary
-
-- The Dubai market is recovering.
-  - “The Dubai market is recovering” — [lines 37-37](../../../data/youtube/video/2026-09-25-what-changed-in-dubai-real-estate-in-2026-falling-resales-ha-3kBUFkV0O9k.md) (`youtube-video-2026-09-25-what-changed-in-dubai-real-estate-in-2026-falling-resales-ha-f4d1591cf2:u000001`)
-
-### Original context
-
-**olgasi** · lines 37-37 · spoken_turn
-
-> The Dubai market is recovering
 
 <a id="record-2435379ea871e866"></a>
 ## Wording on Market Hype
@@ -245,3 +262,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 89-89 · spoken_turn
 
 > and nobody knew what was going to happen to the city. Most people were too nervous to commit to anything. Now, everyone's comparing today to twenty twenty-four or twenty-five and calling it a crash. Those wasn't normal. There was a party started after Covid. A lot of people showed up in twenty twenty-four. So everyone is dancing and they assume this is how the room looks like all the time. But this market isn't falling apart. It's just Tuesday,
+

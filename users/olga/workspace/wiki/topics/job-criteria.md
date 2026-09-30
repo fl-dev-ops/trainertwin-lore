@@ -1,6 +1,23 @@
-# job criteria
+# job-criteria
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** job-criteria
+
+## Methods and expression
+
+- [Job Description Structure](../expression/job-description-structure-d9b734004a.md)
+- [Specific Exclusion](../expression/specific-exclusion-d2a7203b5f.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-7b37b372ccc3386f"></a>
 ## YouTube Video Editor Role
@@ -163,3 +180,4 @@ Not stated in the cited excerpt.
 > &gt; Alt text: Photo by Olga Sinenko | Real Estate Sales Mentor on May 18, 2026.
 > 
 > No readable text, headlines, numbers, or bullet points are present in the image.
+

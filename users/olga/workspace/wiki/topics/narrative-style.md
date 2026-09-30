@@ -1,6 +1,22 @@
-# narrative style
+# Narrative style
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Narrative style
+
+## Methods and expression
+
+- [Personal experience narrative](../expression/personal-experience-narrative-13e8100df2.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-13e8100df2b61152"></a>
 ## Personal experience narrative
@@ -38,3 +54,4 @@ Not stated in the cited excerpt.
 > And specifically since 2022 I’ve spoken with a number of agencies founded by people who floated into Dubai after resetting their business because of the situation in the homeland.
 > 
 > They managed to get some
+

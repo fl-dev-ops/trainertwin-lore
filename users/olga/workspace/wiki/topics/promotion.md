@@ -1,6 +1,22 @@
 # promotion
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** promotion
+
+## Methods and expression
+
+- [Community Invitation Wording](../expression/community-invitation-wording-f4ff6606c2.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f4ff6606c2d883b7"></a>
 ## Community Invitation Wording
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 36-36 · spoken_turn
 
 > Dubai real estate agent and everyone who is aspired to be one and sees this opportunity of March twenty twenty-six not as a downfall but as a kind of uprising cleanse of the market. I highly recommend you to check my strong in sales Telegram community just recently created where I'm sharing strategies, life trainings and support you guys and get support from you as well building up the future. spine, the foundation, the core of to buy real estate market. See you there.
+

@@ -1,6 +1,21 @@
-# author s role
+# Author's role
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Author's role
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-1dfb1006ebeca30c"></a>
 ## Author's role in video content
@@ -18,3 +33,4 @@
 **olgasi** · lines 42-42 · spoken_turn
 
 > a decision. So in this video, my role is simple. I don't sell properties and I'm not going to benefit anything from you buying, selling or running away from this market. What I'm going to do is show you the market data for ready property, rents and off plant. And who is still buying and selling while everyone else stood still. And there is one shift happening inside existing rental contract. sirf
+

@@ -1,6 +1,22 @@
 # real estate leads
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** real estate leads
+
+## Methods and expression
+
+- [Explanation of lead quality difference](../expression/explanation-of-lead-quality-difference-fb61a5a5b2.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-cda288977c648ad8"></a>
 ## Leads from off-plan vs secondary markets
@@ -49,3 +65,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 619-619 · spoken_turn
 
 > all of those leads and the agents are coming into my training, the the biggest concern they have, like all of these leads are not serious. Why they submitted the inquiry, they are not buying. And that's true. They submit inquiry to understand a little bit more. The level of awareness and the need is dramatically lower. So that means for you that the conversion rate for you in secondary, for you in a plan, going to be different. Your conversation start and your ability to talk and
+

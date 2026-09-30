@@ -1,6 +1,21 @@
-# client indecision
+# Client indecision
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Client indecision
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-415f0a05a098dfb6"></a>
 ## Client indecision in real estate
@@ -46,3 +61,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 44-44 · spoken_turn
 
 > And you are expecting him to make decision, would he buy this one bedroom in Maritime City because it's such a great investment and you're promising him? He has no idea about that.
+

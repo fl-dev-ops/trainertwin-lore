@@ -1,6 +1,21 @@
 # master brokerage
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** master brokerage
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-a83c4d4c36276058"></a>
 ## role of master brokerage
@@ -43,3 +58,4 @@
 **olgasi** · lines 751-751 · spoken_turn
 
 > most of the time. But at the same time, the master brokerage might not be that rigid with asking you about your KPIs, right? Because bigger developers, I don't want to say the names, but usually they're hiring, firing, hiring, firing based on, okay, you've been here for three months, you haven't completed the KPIs, you haven't brought the quantity of deals that we expect to you, we're going to say you buy. And if you are not yet into Dubai real estate, you know
+

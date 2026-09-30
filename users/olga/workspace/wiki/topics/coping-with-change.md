@@ -1,6 +1,23 @@
 # coping with change
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** coping with change
+
+## Methods and expression
+
+- [Exploring Future Loss](../expression/exploring-future-loss-58ea11f2dc.md)
+- [Acceptance and Grief Stages](../expression/acceptance-and-grief-stages-ba159e4215.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-8285e1c39817af7c"></a>
 ## Accepting Lost Futures
@@ -98,3 +115,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 22-22 · spoken_turn
 
 > And the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and being angry, you end up in exception.
+

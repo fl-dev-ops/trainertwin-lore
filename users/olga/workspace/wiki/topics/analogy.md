@@ -1,6 +1,22 @@
 # analogy
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** analogy
+
+## Methods and expression
+
+- [film reference in explanation](../expression/film-reference-in-explanation-822529744c.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-822529744c5280d2"></a>
 ## film reference in explanation
@@ -31,3 +47,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 36-36 · spoken_turn
 
 > he was able to see what is coming. And despite what everyone else was telling him, there was another two guys who kind of understood the gig, but he was the main one. He played against the common sense in that way and the market and he won approximately eight hundred million.
+

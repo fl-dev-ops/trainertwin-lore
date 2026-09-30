@@ -1,6 +1,22 @@
 # client engagement
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** client engagement
+
+## Methods and expression
+
+
+## Episodes
+
+- [Skills for Engaging Clients](../episodes/skills-for-engaging-clients-165ee02c30.md) · teaching · body
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-01bb46f7e491c725"></a>
 ## Client engagement question
@@ -23,3 +39,4 @@
 > 2. Ask …. Have you found what you were looking for or…. You are still looking ?
 > 
 > Works every time! Magic
+

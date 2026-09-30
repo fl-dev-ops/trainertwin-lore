@@ -1,6 +1,22 @@
-# emotional impact
+# Emotional Impact
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Emotional Impact
+
+## Methods and expression
+
+- [Grief and Future Loss Explanation](../expression/grief-and-future-loss-explanation-9448d418f0.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b35848332de0412a"></a>
 ## Stages of Grief Analogy
@@ -65,3 +81,4 @@ Not stated in the cited excerpt.
 > 
 > So you are still reading - Lets dive in.
 > You and I were
+

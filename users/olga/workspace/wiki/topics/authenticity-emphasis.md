@@ -1,6 +1,22 @@
-# authenticity emphasis
+# Authenticity Emphasis
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Authenticity Emphasis
+
+## Methods and expression
+
+- [Emphasis on Authenticity](../expression/emphasis-on-authenticity-71f4a13812.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-71f4a138123212b1"></a>
 ## Emphasis on Authenticity
@@ -35,3 +51,4 @@ Not stated in the cited excerpt.
 > But Raw and Honest 
 > 
 > And if you want to Support your Sales team and become stronger during this period  - text me
+

@@ -1,6 +1,21 @@
-# agent deployment
+# Agent Deployment
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Agent Deployment
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-1db7f08510ee6b29"></a>
 ## Agent Count in Dubai
@@ -19,3 +34,4 @@
 
 > In Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k 
 > September 2027 - ? Your guess?
+

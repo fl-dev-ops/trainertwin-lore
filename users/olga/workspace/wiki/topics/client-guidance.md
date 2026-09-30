@@ -1,6 +1,22 @@
-# client guidance
+# Client guidance
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Client guidance
+
+## Methods and expression
+
+- [Consequence awareness](../expression/consequence-awareness-a0e7396fe4.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-a0e7396fe444163f"></a>
 ## Consequence awareness
@@ -35,3 +51,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 44-44 · spoken_turn
 
 > And you are expecting him to make decision, would he buy this one bedroom in Maritime City because it's such a great investment and you're promising him? He has no idea about that.
+

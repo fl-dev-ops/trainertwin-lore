@@ -1,6 +1,38 @@
-# market strategy
+# market\_strategy
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** market\_strategy, Market strategy
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
+
+<a id="record-2012844b2c567322"></a>
+## Market Resurgence
+
+**Product:** knowledge · **Type:** belief · **Source support:** not_reviewed
+**Publication:** 2026-04-15T13:38:55Z · **Author:** unknown · **Format:** transcript
+
+### Summary
+
+- The speaker believes that by becoming a supportive pillar in the real estate market, one can become a top agent once the market bounces back.
+  - “will stay last and become a top agent as soon as the market bounces back” — [lines 36-36](../../../data/instagram/posts/2026-04-15-clients-are-panicking-what-agent.md) (`instagram-posts-2026-04-15-clients-are-panicking-what-agent-md-ccaa4bde0b:u000004`)
+
+### Original context
+
+**unknown speaker** · lines 36-36 · spoken_turn
+
+> will stay last and become a top agent as soon as the market bounces back. So see you in my community.
 
 <a id="record-6238fac78fd24131"></a>
 ## Real estate market strategy advice
@@ -18,3 +50,4 @@
 **olgasi** · lines 134-134 · spoken_turn
 
 > What do you want me to pull apart next? Because I read them and I make videos out of it. If you're buying, you're buying into a delivery cycle, not a launch cycle. That is a completely different market from what your friends bought two, three years ago. And the strategies that worked for them are the one most likely to hurt you now. If you are holding and planning where to sell, separate your two reasons. Do you really need this? money or you are just afraid of the crash. Do the math before the market does it for you.
+

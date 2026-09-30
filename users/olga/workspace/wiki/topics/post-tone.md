@@ -1,6 +1,22 @@
-# post tone
+# Post Tone
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Post Tone
+
+## Methods and expression
+
+- [Reassuring Tone](../expression/reassuring-tone-3e0bc4100f.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-3e0bc4100fa84054"></a>
 ## Reassuring Tone
@@ -33,3 +49,4 @@ Not stated in the cited excerpt.
 > And you can join next training and mentorship
 > 
 > Ps. I’m serious - leads are very Good, I’m I’m not trying to Sell you Something
+

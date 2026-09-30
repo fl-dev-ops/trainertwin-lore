@@ -1,6 +1,21 @@
-# property evaluation tools
+# Property Evaluation Tools
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Property Evaluation Tools
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-18dcf2ade839cc87"></a>
 ## Use of Specialized Tools in Property Evaluation
@@ -22,3 +37,4 @@
 **olgasi** · lines 1203-1203 · spoken_turn
 
 > siders. I don't like using DXB interact, nothing against the Fed. It's a good tool, but they the client can use it himself. So it's very important that your company you're working with, they do have either rating or property monitor, which is a tool actually officially used by the property evaluators and banks when they are doing the um decision and evaluating the property for the mortgage or stuff like this. And then, if you got everything, you book sales.
+

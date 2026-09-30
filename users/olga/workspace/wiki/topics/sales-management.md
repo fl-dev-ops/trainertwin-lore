@@ -1,6 +1,23 @@
 # sales management
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** sales management
+
+## Methods and expression
+
+- [Effective Interview Techniques](../methods/effective-interview-techniques-a4582946fd.md)
+- [Strategic Questioning](../expression/strategic-questioning-3b083e764d.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0ecfbf8fb11ba221"></a>
 ## Identifying the Right Sales Manager
@@ -12,6 +29,39 @@
 
 - Having a 'wrong' sales manager can lead to loss of leads, decreased team motivation, damaged sales culture, and costly damage to the company.
   - “If you have a “Wrong” sales manager…. It can cost you your leads, your team’s motivation, your sales culture and, in some cases, months of damage you will only notice when it is already expensive to fix.” — [lines 10-88](../../../data/linkedin/posts/2026-05-27-if-you-have-a-wrong.md) (`linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:u000001`)
+
+### Original context
+
+**authored text by olgasi** · lines 10-88 · authored_text
+
+> If you have a “Wrong” sales manager….
+> 
+> It can cost you your leads, your team’s motivation, your sales culture and, in some cases, months of damage you will only notice when it is already expensive to fix.
+> 
+> I recently helped one of my clients interview a candidate for a sales manager position.
+> 
+> Before we started working together, the company had been speaking to this person for a few months. 
+> 
+> On the surface, he looked like a good fit. Confident, experienced, well-spoken, familiar with the market.
+> 
+> But sometimes confidence is not competence.
+> 
+> And in sales leadership, this difference is very expensive.
+> 
+> The role was not just to “manage people”. It was to scale a team, create structure, lead agents, and make sure the company does not depend on random individual performance.
+> 
+> So I did not
+
+<a id="record-a2df55d84ceecd8f"></a>
+## Difference Between Confidence and Competence
+
+**Product:** knowledge · **Type:** claim · **Source support:** not_reviewed
+**Publication:** 2026-05-27T06:43:10.327000Z · **Author:** olgasi · **Format:** post
+
+### Summary
+
+- In sales leadership, the difference between confidence and competence is very expensive.
+  - “But sometimes confidence is not competence. And in sales leadership, this difference is very expensive.” — [lines 10-88](../../../data/linkedin/posts/2026-05-27-if-you-have-a-wrong.md) (`linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:u000001`)
 
 ### Original context
 
@@ -100,39 +150,6 @@ Not stated in the cited excerpt.
 > How do you qualify them?  
 > What exactly should be done to build urgency?  
 > How do you move them from interest
-
-<a id="record-a2df55d84ceecd8f"></a>
-## Difference Between Confidence and Competence
-
-**Product:** knowledge · **Type:** claim · **Source support:** not_reviewed
-**Publication:** 2026-05-27T06:43:10.327000Z · **Author:** olgasi · **Format:** post
-
-### Summary
-
-- In sales leadership, the difference between confidence and competence is very expensive.
-  - “But sometimes confidence is not competence. And in sales leadership, this difference is very expensive.” — [lines 10-88](../../../data/linkedin/posts/2026-05-27-if-you-have-a-wrong.md) (`linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:u000001`)
-
-### Original context
-
-**authored text by olgasi** · lines 10-88 · authored_text
-
-> If you have a “Wrong” sales manager….
-> 
-> It can cost you your leads, your team’s motivation, your sales culture and, in some cases, months of damage you will only notice when it is already expensive to fix.
-> 
-> I recently helped one of my clients interview a candidate for a sales manager position.
-> 
-> Before we started working together, the company had been speaking to this person for a few months. 
-> 
-> On the surface, he looked like a good fit. Confident, experienced, well-spoken, familiar with the market.
-> 
-> But sometimes confidence is not competence.
-> 
-> And in sales leadership, this difference is very expensive.
-> 
-> The role was not just to “manage people”. It was to scale a team, create structure, lead agents, and make sure the company does not depend on random individual performance.
-> 
-> So I did not
 
 <a id="record-75fb12a32814a2bb"></a>
 ## Sales Process Insight
@@ -263,52 +280,6 @@ Not stated in the cited excerpt.
 > 
 > They do not treat sales as a collection of talented individuals.
 
-<a id="record-3b083e764d0181fd"></a>
-## Strategic Questioning
-
-**Product:** expression · **Type:** rhetorical_move · **Source support:** not_reviewed
-**Publication:** 2026-05-27T06:43:10.327000Z · **Author:** olgasi · **Format:** post
-
-### Observation
-
-- The author crafts questions to appear as if learning from the interviewee, aiding in revealing true competency.
-  - “I asked questions in a way that made him feel like I genuinely wanted to learn from his experience.” — [lines 10-88 part 2](../../../data/linkedin/posts/2026-05-27-if-you-have-a-wrong.md) (`linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:u000002`)
-
-### Purpose
-
-- To unveil the truth about the interview's competence by making them comfortable.
-  - “That is usually when the truth comes out.” — [lines 10-88 part 2](../../../data/linkedin/posts/2026-05-27-if-you-have-a-wrong.md) (`linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:u000002`)
-
-### Original context
-
-**authored text by olgasi** · lines 10-88 · authored_text
-
-> interview him like an examiner.
-> The tone is everything… because I know I could be quite intimidating… 
-> 
-> I asked questions in a way that made him feel like I genuinely wanted to learn from his experience.
-> 
-> That is usually when the truth comes out.
-> 
-> Because when a person really knows what they are doing, they can explain their thinking clearly.
-> 
-> And when they don’t, they usually hide behind generic words.
-> 
-> The first question I asked was simple:
-> 
-> “What is your sales process?”
-> 
-> Not lead management.
-> 
-> Not “we call the lead, send options on WhatsApp and follow up”.
-> 
-> I asked about the actual sales process.
-> 
-> What needs to happen with the client from the first contact until the decision?  
-> How do you qualify them?  
-> What exactly should be done to build urgency?  
-> How do you move them from interest
-
 <a id="record-3b74396ebbdd08a3"></a>
 ## Evaluating Sales Manager Candidate
 
@@ -433,3 +404,50 @@ Not stated in the cited excerpt.
 > In this market, many companies are cutting, but Some are growing…
 > 
 > They do not treat sales as a collection of talented individuals.
+
+<a id="record-3b083e764d0181fd"></a>
+## Strategic Questioning
+
+**Product:** expression · **Type:** rhetorical_move · **Source support:** not_reviewed
+**Publication:** 2026-05-27T06:43:10.327000Z · **Author:** olgasi · **Format:** post
+
+### Observation
+
+- The author crafts questions to appear as if learning from the interviewee, aiding in revealing true competency.
+  - “I asked questions in a way that made him feel like I genuinely wanted to learn from his experience.” — [lines 10-88 part 2](../../../data/linkedin/posts/2026-05-27-if-you-have-a-wrong.md) (`linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:u000002`)
+
+### Purpose
+
+- To unveil the truth about the interview's competence by making them comfortable.
+  - “That is usually when the truth comes out.” — [lines 10-88 part 2](../../../data/linkedin/posts/2026-05-27-if-you-have-a-wrong.md) (`linkedin-posts-2026-05-27-if-you-have-a-wrong-md-f68cc20701:u000002`)
+
+### Original context
+
+**authored text by olgasi** · lines 10-88 · authored_text
+
+> interview him like an examiner.
+> The tone is everything… because I know I could be quite intimidating… 
+> 
+> I asked questions in a way that made him feel like I genuinely wanted to learn from his experience.
+> 
+> That is usually when the truth comes out.
+> 
+> Because when a person really knows what they are doing, they can explain their thinking clearly.
+> 
+> And when they don’t, they usually hide behind generic words.
+> 
+> The first question I asked was simple:
+> 
+> “What is your sales process?”
+> 
+> Not lead management.
+> 
+> Not “we call the lead, send options on WhatsApp and follow up”.
+> 
+> I asked about the actual sales process.
+> 
+> What needs to happen with the client from the first contact until the decision?  
+> How do you qualify them?  
+> What exactly should be done to build urgency?  
+> How do you move them from interest
+

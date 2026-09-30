@@ -1,6 +1,38 @@
 # training
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** training, Training
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
+
+<a id="record-6909816313e8b409"></a>
+## Youtube Training on WAR Objections
+
+**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
+**Publication:** 2026-04-13T12:36:49Z · **Author:** unknown · **Format:** transcript
+
+### Summary
+
+- The author offers training on how to overcome a WAR objections in their Youtube Training.
+  - “Teaching you how to overcome a WAR objections in my Youtube Training” — [lines 15-15](../../../data/instagram/posts/2026-04-13-teaching-you-how-to-overcome.md) (`instagram-posts-2026-04-13-teaching-you-how-to-overcome-md-52d37fd823:u000001`)
+
+### Original context
+
+**authored text by unknown author** · lines 15-15 · authored_text
+
+> Teaching you how to overcome a WAR objections in my Youtube Training
 
 <a id="record-be99363d6020206c"></a>
 ## Sales Process Course Offering
@@ -22,19 +54,3 @@
 > 
 > Full break down of the pricess in the Off-plan course inside my academy.
 
-<a id="record-6909816313e8b409"></a>
-## Youtube Training on WAR Objections
-
-**Product:** knowledge · **Type:** offering · **Source support:** not_reviewed
-**Publication:** 2026-04-13T12:36:49Z · **Author:** unknown · **Format:** transcript
-
-### Summary
-
-- The author offers training on how to overcome a WAR objections in their Youtube Training.
-  - “Teaching you how to overcome a WAR objections in my Youtube Training” — [lines 15-15](../../../data/instagram/posts/2026-04-13-teaching-you-how-to-overcome.md) (`instagram-posts-2026-04-13-teaching-you-how-to-overcome-md-52d37fd823:u000001`)
-
-### Original context
-
-**authored text by unknown author** · lines 15-15 · authored_text
-
-> Teaching you how to overcome a WAR objections in my Youtube Training

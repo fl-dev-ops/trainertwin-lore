@@ -1,6 +1,21 @@
-# rental market
+# Rental market
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Rental market
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-3b133be9a6663fc0"></a>
 ## Change in rental contracts
@@ -23,3 +38,4 @@
 **olgasi** · lines 78-78 · spoken_turn
 
 > is 95,000 new contracts. A year earlier, new contracts were 100,000. The new real market held. The new tenant market shrink. Rents themselves 75.7 dirhams per square foot, which is down 2.5% quarter on quarter. Annual growth 7.8%. That is the lowest in years since 2023.
+

@@ -1,6 +1,21 @@
 # presentation scheduling
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** presentation scheduling
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-5f18737d6a390a59"></a>
 ## Transition to presentation scheduling
@@ -79,3 +94,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 1307-1307 · spoken_turn
 
 > I need to have a Zoom call with you. So you, it's like think about me as a client. I don't need to have a Zoom call. So you're basically asking me when I can have a free time to help you to try to sell me something. I don't want to do that. That's why my transition to presentation is completely different. Your goal, Oh, I'm here. Your goal, uh, for all of these processes, help him understand that he doesn't have enough of knowledge, information,
+

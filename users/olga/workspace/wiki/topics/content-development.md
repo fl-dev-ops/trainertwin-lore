@@ -1,6 +1,22 @@
 # content development
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** content development
+
+## Methods and expression
+
+- [Purpose of Educational Content](../methods/purpose-of-educational-content-3a526727fc.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-3a526727fc97a305"></a>
 ## Purpose of Educational Content
@@ -38,3 +54,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 84-84 · spoken_turn
 
 > So, don't ever send please. I'm doing real estate. Let me know if you need anything. That asks for a favor because gives a reason for a person. Send them a presentation you just built. Give people something worth forwarding. And let the ask from them come later. Third part, content. And you already did the work. You studied three projects. You build the slides, you practice it loud, loud. That is content. You just have to point
+

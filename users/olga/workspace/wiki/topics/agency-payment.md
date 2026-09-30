@@ -1,6 +1,21 @@
 # agency payment
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** agency payment
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0ee7857d8d56ed92"></a>
 ## Agency Payment Dispute
@@ -35,3 +50,4 @@
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Her Agency Refused to pay Her Commissions - So she did this ...
+

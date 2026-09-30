@@ -1,0 +1,68 @@
+{
+  "entities": [
+    {
+      "id": "olga-eba9f66d5d",
+      "kind": "person",
+      "mentions": [
+        {
+          "quote": "Olga",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000013"
+        }
+      ],
+      "name": "Olga"
+    }
+  ],
+  "episodes": [
+    {
+      "activities": [
+        "teaching"
+      ],
+      "end_unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002",
+      "id": "introduction-to-challenges-in-real-estate-99652f1847",
+      "moves": [
+        {
+          "action": "Describes market size and challenges",
+          "quote": "forty thousand licensed brokers in this city.",
+          "role": "instructor",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000001"
+        },
+        {
+          "action": "Dispels myths about closing deals",
+          "quote": "you're missing some secret closing technique. You're not.",
+          "role": "instructor",
+          "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002"
+        }
+      ],
+      "scope": "whole_source",
+      "start_unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000001",
+      "summary": {
+        "citations": [
+          {
+            "quote": "forty thousand licensed brokers in this city. two hundred thousand sales last year.",
+            "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000001"
+          },
+          {
+            "quote": "you're missing some secret closing technique. You're not.",
+            "unit_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002"
+          }
+        ],
+        "text": "The speaker introduces the challenges faced by real estate agents, particularly focusing on the discrepancy between the number of licensed brokers and actual deals closed. They emphasize that the issue is not time management, but rather priorities."
+      },
+      "title": "Introduction to Challenges in Real Estate",
+      "topics": [
+        "real estate market",
+        "challenges"
+      ],
+      "unit_ids": [
+        "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000001",
+        "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002"
+      ]
+    }
+  ],
+  "fingerprint": "557dc0e172c4872b0828a79fdc07825c60c0b4293acb5de3a682cff5e46c9eed",
+  "interpretation_status": "unreviewed",
+  "model": "openai/gpt-4o",
+  "omitted_entities": 2,
+  "source_id": "youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6",
+  "windows": 1
+}

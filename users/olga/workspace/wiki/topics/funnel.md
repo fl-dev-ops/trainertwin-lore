@@ -1,6 +1,21 @@
 # funnel
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** funnel
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-07ed7a621aaef516"></a>
 ## Decision Making Funnel Importance
@@ -22,3 +37,4 @@
 **unknown speaker** · lines 27-27 · spoken_turn
 
 > Uh no. Oh maybe you've seen so usually we have a sales funnel so the lead are coming uh from lead generating machine and then they're going through the process and then they're buying in the end. That's kind of similar process. But I want you to understand.
+

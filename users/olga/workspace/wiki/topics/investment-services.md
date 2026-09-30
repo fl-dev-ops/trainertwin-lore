@@ -1,6 +1,21 @@
-# investment services
+# Investment Services
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Investment Services
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ac4f857154028442"></a>
 ## Private Investment Strategy Sessions
@@ -18,3 +33,4 @@
 **olgasi** · lines 226-226 · spoken_turn
 
 > Someone buying for rental income today should not use the same logic as someone buying for capital growth over the five to seven years. Someone buying with cash, not the same way thinking of someone buying with a payment plan. This is why I offer a private investment strategy sessions. We look at your situation, budget, cash flow, risk level, and exit strategy. You will walk away with a refreshing clarity. As I'm not an agent, I'm not going to be trying
+

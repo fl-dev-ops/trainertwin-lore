@@ -199,6 +199,65 @@ def test_youtube_skips_old_and_guards_existing_selection(tmp_path, monkeypatch):
         social.collect_youtube("https://youtube.com/@me", data, audios, since, True)
 
 
+def test_youtube_reuses_manifest_metadata_when_live_details_are_blocked(tmp_path, monkeypatch):
+    data = tmp_path / "users/me/data/youtube"
+    data.mkdir(parents=True)
+    (data / "me.yaml").write_text(
+        yaml.safe_dump(
+            {
+                "videos": [
+                    {
+                        "id": "blocked1234",
+                        "title": "Saved title",
+                        "url": "https://youtube.com/watch?v=blocked1234",
+                        "upload_date": "2026-08-01",
+                        "description": "Saved description",
+                        "author": "me",
+                    }
+                ]
+            }
+        )
+    )
+    monkeypatch.setattr(
+        social.youtube,
+        "fetch_channel_videos",
+        lambda _: [
+            {
+                "id": "blocked1234",
+                "title": "Saved title",
+                "url": "https://youtube.com/watch?v=blocked1234",
+            }
+        ],
+    )
+    monkeypatch.setattr(
+        social.youtube,
+        "fetch_video_details",
+        lambda _: pytest.fail("saved metadata should avoid a blocked live lookup"),
+    )
+
+    social.collect_youtube(
+        "https://youtube.com/@me", data, tmp_path / "audios", date(2005, 4, 23), False
+    )
+
+    manifest = yaml.safe_load((data / "me.yaml").read_text())
+    assert manifest["videos"][0]["upload_date"] == "2026-08-01"
+
+
+def test_youtube_audio_download_retries_alternate_client(tmp_path, monkeypatch):
+    calls = []
+
+    def run(command, **kwargs):
+        calls.append(command)
+        return subprocess.CompletedProcess(
+            command, 1 if len(calls) == 1 else 0, "", "HTTP Error 403"
+        )
+
+    monkeypatch.setattr(youtube.subprocess, "run", run)
+    assert youtube.download_video_audio("https://youtube.com/watch?v=blocked1234", tmp_path)
+    assert "youtube:player_client=web_embedded" in calls[0]
+    assert "youtube:player_client=android_vr" in calls[1]
+
+
 def test_youtube_discovery_preserves_channel_author(monkeypatch):
     payload = {
         "entries": [

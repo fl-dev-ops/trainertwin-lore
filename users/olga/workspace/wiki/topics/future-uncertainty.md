@@ -1,6 +1,22 @@
-# future uncertainty
+# Future Uncertainty
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Future Uncertainty
+
+## Methods and expression
+
+- [Forecasting Question](../expression/forecasting-question-46a226ad6d.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-46a226ad6dcc8668"></a>
 ## Forecasting Question
@@ -23,3 +39,4 @@ Not stated in the cited excerpt.
 
 > In Dubai - September 2025 - approx 100k agents, September 2026 - approx 80k 
 > September 2027 - ? Your guess?
+

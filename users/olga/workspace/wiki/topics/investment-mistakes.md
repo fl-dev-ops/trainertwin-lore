@@ -1,6 +1,21 @@
 # investment mistakes
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** investment mistakes
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-a2aaf02c7a3098dd"></a>
 ## Apple's consultation experience
@@ -51,3 +66,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 62-62 · spoken_turn
 
 > recognizable location. They have been promised that they can cash out with profit even during construction. And by the time they came to me, the unit was listed for several months with zero offers. When I dig deeper, I found out that the developer is new, is actually the first residential project for him, and before he was building warehouses. And on top of that, based on the visible construction progress, the delay looked like at least one year.
+

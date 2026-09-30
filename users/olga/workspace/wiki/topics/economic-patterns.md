@@ -1,6 +1,23 @@
-# economic patterns
+# Economic Patterns
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Economic Patterns
+
+## Methods and expression
+
+- [Explaining Market Phases](../expression/explaining-market-phases-b107a528ed.md)
+- [Hyper Supply Explanation](../expression/hyper-supply-explanation-10727c1cb0.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-37a85a89e79dc521"></a>
 ## Understanding Market Crashes
@@ -69,3 +86,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 27-27 · spoken_turn
 
 > And almost nobody understands this one, hyper supply. Developers launch when the prices are booming, but the tower takes three or four years. So everything launched in A4 year of 2013 delivered in a cool down market of two thousand sixteen, seventeen, eighteen. Supply always arrives late to the party.
+

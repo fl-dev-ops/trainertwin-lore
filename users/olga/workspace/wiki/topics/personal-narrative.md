@@ -1,6 +1,22 @@
 # personal narrative
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** personal narrative
+
+## Methods and expression
+
+- [Narrative Structure](../expression/narrative-structure-98abf76c4f.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-98abf76c4fc46fc1"></a>
 ## Narrative Structure
@@ -56,3 +72,4 @@ Not stated in the cited excerpt.
 > And if you hearing it as well sometimes - that Great! You are moving forward!
 > 
 > Happy birthday to me!
+

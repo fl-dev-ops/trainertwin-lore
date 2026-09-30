@@ -1,6 +1,21 @@
 # achievements
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** achievements
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-217b0b4b9d6fe60a"></a>
 ## Ekaterina's Earnings and Achievements
@@ -41,3 +56,4 @@
 > And second - opened her own agency.
 > 
 > More details in this video - https://lnkd.in/g9GDiZYb
+

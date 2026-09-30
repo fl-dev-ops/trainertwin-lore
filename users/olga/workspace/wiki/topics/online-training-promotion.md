@@ -1,6 +1,21 @@
-# online training promotion
+# Online training promotion
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Online training promotion
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-62e64d695dcc8483"></a>
 ## Full training advertisement
@@ -28,3 +43,4 @@
 > \*
 > \*
 > \* #ColdCallingDubai #ColdCallingTraining #ColdCallingTips #ColdCallingScripts #ColdCallingBlueprint #ColdCallingLessons #MasterColdCalling #DubaiRealEstateTraining #RealEstateSalesTraining #RealEstateCoachDubai #DubaiRealEstateCoach #SalesCoachingForAgents #RealEstateAgentTraining #RealEstateAgentTips #ListingBasedBusiness #OvercomingSalesFear #ObjectionHandling #SalesConfidenceTechniques #RealEstateNegotiationSkills #ClosingDealsDubai #NewAgentSuccess #RealEstateGrowthStrategies #RealEstateCoachingDubai #DubaiAgentTraining #RealEstateCourseDubai #OnlinePropertyPresentation #LocationBasedSales #SellingToGlobalInvestors #RealEstateSalesStrategies
+

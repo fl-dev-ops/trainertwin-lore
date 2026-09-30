@@ -1,6 +1,24 @@
-# time management
+# Time management
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Time management, time management
+
+## Methods and expression
+
+- [Managing Time for Real Estate Success](../methods/managing-time-for-real-estate-success-694a3a187e.md)
+- [Framing Time Management Issues](../expression/framing-time-management-issues-44ebaba8b0.md)
+- [Call block scheduling advice](../expression/call-block-scheduling-advice-0b1ab2c4eb.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-bb705a0db2081c43"></a>
 ## Time management for new agents
@@ -26,23 +44,6 @@
 **unknown speaker** · lines 32-32 · spoken_turn
 
 > knowing exactly how your diet should evolve from the new agent to a consistently closing one. Watch it on my YouTube channel.
-
-<a id="record-906562bd0049c7e3"></a>
-## Discipline in time management
-
-**Product:** knowledge · **Type:** claim · **Source support:** not_reviewed
-**Publication:** 2026-08-30 · **Author:** olgasi · **Format:** transcript
-
-### Summary
-
-- Discipline is not a mood you find on Monday morning; it's a resource you either produce or borrow.
-  - “discipline is not mood you find on Monday morning. It's a resource you either produce or borrow.” — [lines 144-144](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000027`)
-
-### Original context
-
-**olgasi** · lines 144-144 · spoken_turn
-
-> minutes when the new client was live on the line with you. Most agents come back with under an hour. Open your calendar and put the call blocks in. Two a day. Forty-five minutes each. Because discipline is not mood you find on Monday morning. It's a resource you either produce or borrow. And if you want me to look at your week and your current pipeline and show you how you can double your sales, book a coaching session with me. Link is below.
 
 <a id="record-694a3a187e5b3ea1"></a>
 ## Managing Time for Real Estate Success
@@ -86,6 +87,33 @@ Not stated in the cited excerpt.
 
 > exactly what your week should look like. Two, what to change as you come up on your first year and one number that decides whether you are still here and as well I will put my calendar on the screen so you can copy that. And three, the priority map which is behind every top closer agent schedule because you don't have a time management problem. You never did. You fell into the same trap as everyone coming into this industry from outside. You had a priority.
 
+<a id="record-44ebaba8b0a84740"></a>
+## Framing Time Management Issues
+
+**Product:** expression · **Type:** structure · **Source support:** not_reviewed
+**Publication:** 2026-08-30 · **Author:** olgasi · **Format:** transcript
+
+### Observation
+
+- The speaker first addresses common misconceptions regarding low productivity, then outlines a three-part plan to address these issues.
+  - “you're missing some secret closing technique. You're not.” — [lines 44-44](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002`)
+  - “You're often the busiest person” — [lines 44-44](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002`)
+  - “I will share with you three things in this video.” — [lines 48-48](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000003`)
+
+### Purpose
+
+Not stated in the cited excerpt.
+
+### Original context
+
+**olgasi** · lines 44-44 · spoken_turn
+
+> you're missing some secret closing technique. You're not. You'll probably watched more self-training than a guy in your office who is closing every month. You're often the busiest person in the room, in early, out late, answering messages at midnight. I must be bad at managing my time, you think. But another CRM app will not gonna help you. That's why I will share with you three things in this video. One, if you're in the first six months,
+
+**olgasi** · lines 48-48 · spoken_turn
+
+> exactly what your week should look like. Two, what to change as you come up on your first year and one number that decides whether you are still here and as well I will put my calendar on the screen so you can copy that. And three, the priority map which is behind every top closer agent schedule because you don't have a time management problem. You never did. You fell into the same trap as everyone coming into this industry from outside. You had a priority.
+
 <a id="record-7a77adc955c9d17a"></a>
 ## Managing calendar call blocks
 
@@ -96,6 +124,23 @@ Not stated in the cited excerpt.
 
 - Open your calendar and put the call blocks in. Two a day. Forty-five minutes each.
   - “Open your calendar and put the call blocks in. Two a day. Forty-five minutes each.” — [lines 144-144](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000027`)
+
+### Original context
+
+**olgasi** · lines 144-144 · spoken_turn
+
+> minutes when the new client was live on the line with you. Most agents come back with under an hour. Open your calendar and put the call blocks in. Two a day. Forty-five minutes each. Because discipline is not mood you find on Monday morning. It's a resource you either produce or borrow. And if you want me to look at your week and your current pipeline and show you how you can double your sales, book a coaching session with me. Link is below.
+
+<a id="record-906562bd0049c7e3"></a>
+## Discipline in time management
+
+**Product:** knowledge · **Type:** claim · **Source support:** not_reviewed
+**Publication:** 2026-08-30 · **Author:** olgasi · **Format:** transcript
+
+### Summary
+
+- Discipline is not a mood you find on Monday morning; it's a resource you either produce or borrow.
+  - “discipline is not mood you find on Monday morning. It's a resource you either produce or borrow.” — [lines 144-144](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000027`)
 
 ### Original context
 
@@ -124,29 +169,3 @@ Not stated in the cited excerpt.
 
 > minutes when the new client was live on the line with you. Most agents come back with under an hour. Open your calendar and put the call blocks in. Two a day. Forty-five minutes each. Because discipline is not mood you find on Monday morning. It's a resource you either produce or borrow. And if you want me to look at your week and your current pipeline and show you how you can double your sales, book a coaching session with me. Link is below.
 
-<a id="record-44ebaba8b0a84740"></a>
-## Framing Time Management Issues
-
-**Product:** expression · **Type:** structure · **Source support:** not_reviewed
-**Publication:** 2026-08-30 · **Author:** olgasi · **Format:** transcript
-
-### Observation
-
-- The speaker first addresses common misconceptions regarding low productivity, then outlines a three-part plan to address these issues.
-  - “you're missing some secret closing technique. You're not.” — [lines 44-44](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002`)
-  - “You're often the busiest person” — [lines 44-44](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000002`)
-  - “I will share with you three things in this video.” — [lines 48-48](../../../data/youtube/video/2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-LT8S6d8aeYY.md) (`youtube-video-2026-08-30-time-management-for-real-estate-agents-hour-by-hour-schedule-e4701583b6:u000003`)
-
-### Purpose
-
-Not stated in the cited excerpt.
-
-### Original context
-
-**olgasi** · lines 44-44 · spoken_turn
-
-> you're missing some secret closing technique. You're not. You'll probably watched more self-training than a guy in your office who is closing every month. You're often the busiest person in the room, in early, out late, answering messages at midnight. I must be bad at managing my time, you think. But another CRM app will not gonna help you. That's why I will share with you three things in this video. One, if you're in the first six months,
-
-**olgasi** · lines 48-48 · spoken_turn
-
-> exactly what your week should look like. Two, what to change as you come up on your first year and one number that decides whether you are still here and as well I will put my calendar on the screen so you can copy that. And three, the priority map which is behind every top closer agent schedule because you don't have a time management problem. You never did. You fell into the same trap as everyone coming into this industry from outside. You had a priority.

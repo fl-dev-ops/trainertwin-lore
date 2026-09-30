@@ -1,6 +1,22 @@
 # investment locations
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** investment locations
+
+## Methods and expression
+
+- [Investment presentation structure](../expression/investment-presentation-structure-4a3d7e4dc8.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-840a9e4828baa1e7"></a>
 ## Importance of location
@@ -39,3 +55,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 42-42 · spoken_turn
 
 > Every developer presentation promises future demand, high ROI, limited supply, and a strong capital appreciation. And all this repeats the same rule, location, location, location. That rule is exactly why people lose money in Dubai. So let me show you the Dubai map, the way I see it, not as a list of areas, but as a money map. Do not try to apply the basic logic investing in the city center of Waterfront, you will
+

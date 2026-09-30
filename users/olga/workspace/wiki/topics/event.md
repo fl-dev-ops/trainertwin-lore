@@ -1,6 +1,22 @@
 # event
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** event
+
+## Methods and expression
+
+- [Event Announcement](../expression/event-announcement-6e63923a41.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-237021f2e117b4c8"></a>
 ## Coaching Academy Anniversary
@@ -56,3 +72,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Celebrating the 6th Year of my Coaching Academy with Tony Robbins- Unleash the Power within 4 days event in Cologne!
+

@@ -1,6 +1,21 @@
 # creating content
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** creating content
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-304bd83677aef33b"></a>
 ## Quality of First Videos
@@ -38,3 +53,4 @@
 > Mine were painfully cringe.
 > 
 > If you don’t believe me, go to my YouTube channel and find my first videos. Cringe is still there.
+

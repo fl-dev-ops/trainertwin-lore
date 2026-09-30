@@ -1,6 +1,22 @@
-# career path
+# Career Path
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Career Path
+
+## Methods and expression
+
+- [First Person Narration of Career Improvement](../expression/first-person-narration-of-career-improvement-d6a6bf2f16.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-d6a6bf2f16417321"></a>
 ## First Person Narration of Career Improvement
@@ -27,3 +43,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 83-83 · spoken_turn
 
 > real estate market is different from the real estate market that I used to work. But you know, instead pretending that I'm naturally confident, I put myself into the learning and just over the past four years I invested in my own sales and marketing skills, this is what I call the high income skills, around forty thousand dollars and here I usually here I usually ask if you are in my training offline, I usually ask, okay, and how much money have you invested yourself maybe last year because I'm recording in December 2025.
+

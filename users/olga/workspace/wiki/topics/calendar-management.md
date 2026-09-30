@@ -1,6 +1,21 @@
 # calendar management
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** calendar management
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-61adbd138e3a4baa"></a>
 ## Calendar Optimization
@@ -18,3 +33,4 @@
 **olgasi** · lines 140-140 · spoken_turn
 
 > rigid, impossible in this market. But look again, you're not planning eight hours, you're protecting six, because this is how it ends for the ones who never do. Agents don't fail loudly in this market. They have a good month, then a quiet one, then two, and somewhere around month six with no deals, they're gone. So what do you do next? Trap your talk minutes today.
+

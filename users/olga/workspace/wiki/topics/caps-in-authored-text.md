@@ -1,6 +1,22 @@
-# caps in authored text
+# Caps in authored text
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Caps in authored text
+
+## Methods and expression
+
+- [Phrase capitalization](../expression/phrase-capitalization-ea82b4cf4e.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ea82b4cf4e30b0ba"></a>
 ## Phrase capitalization
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · lines 10-10 · authored_text
 
 > Even WithOut a War!
+

@@ -1,6 +1,21 @@
-# rent negotiation
+# Rent Negotiation
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Rent Negotiation
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f23ee624ccebebf7"></a>
 ## Negotiating Rent Reduction
@@ -46,3 +61,4 @@
 > The problem is not only the number of leads.
 > 
 > The bigger problem is how
+

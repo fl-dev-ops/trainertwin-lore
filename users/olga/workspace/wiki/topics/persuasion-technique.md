@@ -1,6 +1,22 @@
 # persuasion technique
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** persuasion technique
+
+## Methods and expression
+
+- [Use of rhetoric in persuasion](../expression/use-of-rhetoric-in-persuasion-af245e700c.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-af245e700c80e7dc"></a>
 ## Use of rhetoric in persuasion
@@ -26,3 +42,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 1351-1351 · spoken_turn
 
 > questions from the agents that was over the phone. The agents was rushing and telling you bunch of nonsense which you as a client were not able to kind of put together in your mind because it's way too much information, right? It's the same as I'm trying to teach you a brain surgery on the phone like how effective that going to be.
+

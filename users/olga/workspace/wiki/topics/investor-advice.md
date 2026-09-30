@@ -1,6 +1,21 @@
 # investor advice
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** investor advice
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-412401c9b50656c9"></a>
 ## Rational approach to investment opportunity
@@ -18,3 +33,4 @@
 **olgasi** · lines 139-139 · spoken_turn
 
 > and overpriced unit can still lose value. But Dubai system has already been stress tested. Saudi Arabia is building an international property ecosystem just now. And now something you don't usually hear on the video like this. You would expect me at this point maybe to tell you this is the once in a lifetime opportunity and you need to move immediately. I'm not gonna do that. Because the honest position is at this moment
+

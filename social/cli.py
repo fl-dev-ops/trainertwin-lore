@@ -12,6 +12,8 @@ from datetime import UTC, date, datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
+import yaml
+
 from .dates import published_day
 from .instagram import cli as instagram
 from .linkedin import cli as linkedin
@@ -112,11 +114,20 @@ def collect_youtube(
 ) -> None:
     videos = youtube.fetch_channel_videos(url)
     stage(f"{len(videos)} videos discovered")
+    manifest = data / f"{data.parent.parent.name}.yaml"
+    previous = (
+        yaml.safe_load(manifest.read_text(encoding="utf-8")) if manifest.exists() else {}
+    ) or {}
+    known = {v["id"]: v for v in previous.get("videos", []) if v.get("id")}
     today = datetime.now(UTC).date()
     selected = []
     for video in track(videos, "YouTube metadata / dates", unit="video"):
         if not str(video.get("url", "")).startswith("https://"):
             video["url"] = f"https://www.youtube.com/watch?v={video['id']}"
+        old = known.get(video["id"], {})
+        for key in ("upload_date", "description", "author", "duration", "title"):
+            if not video.get(key) and old.get(key):
+                video[key] = old[key]
         day = video_date(video)
         if day is None:
             status(f"YouTube: skipped {video.get('id', 'unknown')} — publication date unavailable")
@@ -125,7 +136,6 @@ def collect_youtube(
             youtube.enrich_video(video)
             selected.append(video)
     status(f"YouTube: selected {len(selected)}/{len(videos)} videos for {since} through {today}")
-    manifest = data / f"{data.parent.parent.name}.yaml"
     youtube.save_video_index(url, selected, manifest)
     stage(f"{len(selected)} dated videos indexed")
     if not transcribe or not selected:
@@ -136,10 +146,8 @@ def collect_youtube(
     audio_dir = audio_root / since.isoformat() / run_id
     run = audio_root / "runs" / since.isoformat() / run_id
     selection = run / "selection.json"
-    identifiers = [
-        v["id"] for v in sorted(selected, key=lambda v: v.get("title") or "")
-    ]
-    if selection.exists() and json.loads(selection.read_text()) != identifiers:
+    identifiers = sorted(v["id"] for v in selected)
+    if selection.exists() and set(json.loads(selection.read_text())) != set(identifiers):
         raise ValueError(
             f"Video selection changed for {since}; review {run} before reusing Sarvam jobs"
         )
@@ -188,11 +196,11 @@ def collect_youtube(
     if (run / "uploads").exists():
         for mp3 in (run / "uploads").glob("*.mp3"):
             mp3.unlink(missing_ok=True)
-    if count != len(selected):
+    if count != len(pending):
         raise ValueError(
-            f"Only {count}/{len(selected)} YouTube transcripts built; inspect {run}"
+            f"Only {count}/{len(pending)} pending YouTube transcripts built; inspect {run}"
         )
-    stage(f"{count} transcripts saved")
+    stage(f"{len(selected)} transcripts available")
 
 
 def main(argv: list[str] | None = None) -> None:

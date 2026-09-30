@@ -1,6 +1,22 @@
 # sales challenge
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** sales challenge
+
+## Methods and expression
+
+- [Structure of realization](../expression/structure-of-realization-b22caba85c.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-e04ba7f41d47cb92"></a>
 ## Core sales problem
@@ -75,3 +91,4 @@ Not stated in the cited excerpt.
 > Eleven years later, even with social media leads landing directly in your CRM, agents are still facing the same core sales problem.
 > 
 > You still need to know how to lead a conversation with someone who does not
+

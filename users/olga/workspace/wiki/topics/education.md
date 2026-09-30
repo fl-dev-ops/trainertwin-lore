@@ -1,6 +1,21 @@
-# education
+# Education
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Education
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-e4ff7e22e0740683"></a>
 ## Academic City Benefits
@@ -18,3 +33,4 @@
 **olgasi** · lines 162-162 · spoken_turn
 
 > If I will ask you, do you think we're going to move further or closer towards the AI? I think the answer is obvious. An academic city is full of universities and as well with the growth of Dubai and the education accessibility here, you literally can, uh, instead of going to US, London, you can have the same education degree here in Dubai. So that's a very strong going forward price appreciation. My favorite area, which as well includes Dubai Hills that I mentioned before.
+

@@ -1,9 +1,14 @@
 # Corpus overview
 
-149 source publications; 839 accepted source-local records; 149 normalized content families.
+149 source publications; 839 accepted source-local records.
 
-- knowledge: 500 records
-- cases: 77 records
-- expression: 262 records
+- topics: 365
+- methods: 52
+- episodes: 3
+- entities: 4
+- organized_sources: 2
+- unorganized_sources: 147
+- omitted_entity_candidates: 2
+- topic_aliases_organized: False
 
-No new conclusions are generated here. Missing rationales/outcomes remain unknown. Publication dates are not event dates; repetition is not independent verification. Processing coverage is not semantic recall.
+Counts are not recall or confidence. Organization labels are unreviewed; methods retain source-local variants.

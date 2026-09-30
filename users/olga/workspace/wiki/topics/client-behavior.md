@@ -1,6 +1,22 @@
-# client behavior
+# Client Behavior
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Client Behavior
+
+## Methods and expression
+
+- [Client Behavior Phrases](../expression/client-behavior-phrases-070aab4c5a.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-43f43dae5e7e13f1"></a>
 ## Understanding Client Behavior
@@ -19,56 +35,51 @@
 
 > these people or a different what what exactly I am doing to creating the outcome that I'm receiving and in this training I will show you why clients behave that way how to influence their decision without sounding pushy and how to control the process so you can lead the client step by step towards their actual deal and for you to finally make money and one more thing if you feel like you know all of the areas the floor plans the different
 
-<a id="record-070aab4c5ac34e56"></a>
-## Client Behavior Phrases
+<a id="record-f4fdfc3ddc468c68"></a>
+## Identifying Common Client Responses
 
-**Product:** expression · **Type:** wording · **Source support:** not_reviewed
+**Product:** cases · **Type:** illustration · **Source support:** not_reviewed
 **Publication:** 2026-04-08 · **Author:** olgasi · **Format:** transcript
 
-### Observation
+### Situation
 
-- The speaker uses a series of client statements to illustrate common non-committal responses agents encounter.
-  - “I'm just looking.” — [lines 127-127](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000018`)
-  - “I will buy but not now.” — [lines 131-131](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000019`)
-  - “Oh” — [lines 135-135](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000020`)
-  - “just send me some options.” — [lines 139-139](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000021`)
-  - “I'm working with other agents.” — [lines 143-143](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000022`)
-  - “or I am not selling altogether.” — [lines 147-147](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000023`)
+- Clients often respond to agents with non-committal statements like 'I will wait to list' or offer 'pocket listings'.
   - “I will wait to list.” — [lines 151-151](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000024`)
+  - “I'm not going to listen now, I will wait, let's see, I'm going to give you a pocket listing.” — [lines 155-155](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000025`)
 
-### Purpose
+### Cue
+
+Not stated in the cited excerpt.
+
+### Diagnosis
+
+Not stated in the cited excerpt.
+
+### Strategy
+
+Not stated in the cited excerpt.
+
+### Rationale
+
+Not stated in the cited excerpt.
+
+### Response
+
+Not stated in the cited excerpt.
+
+### Outcome
 
 Not stated in the cited excerpt.
 
 ### Original context
 
-**olgasi** · lines 127-127 · spoken_turn
-
-> I'm just looking.
-
-**olgasi** · lines 131-131 · spoken_turn
-
-> I will buy but not now.
-
-**olgasi** · lines 135-135 · spoken_turn
-
-> Oh
-
-**olgasi** · lines 139-139 · spoken_turn
-
-> just send me some options.
-
-**olgasi** · lines 143-143 · spoken_turn
-
-> I'm working with other agents.
-
-**olgasi** · lines 147-147 · spoken_turn
-
-> or I am not selling altogether.
-
 **olgasi** · lines 151-151 · spoken_turn
 
 > I will wait to list.
+
+**olgasi** · lines 155-155 · spoken_turn
+
+> this one. Yeah, I'm not going to listen now, I will wait, let's see, I'm going to give you a pocket listing. Something along that line. How do I know that? That knowledge comes from the strategy sessions where the agents are coming to me with all of these questions and they don't know what to do, they feel stuck and feels like all of this is something that you never will able to overcome. And yeah, probably on your own, it's going to be hard. However, those who took a step
 
 <a id="record-bc2efe344b9ff1af"></a>
 ## Agent Stuck Despite Knowledge
@@ -162,48 +173,54 @@ Not stated in the cited excerpt.
 
 > This month, she closed around two hundred fifty thousand in her own commission, just in one month. Like it's like a snowballing effect. And then the four months after was just consistent, consistent closing. With the first year, she actually finished with one million six hundred twenty five thousand. That's kind of a life changing money. At this point she already opened her own real estate company and surprise, surprise, she's still in the coaching with me. Why?
 
-<a id="record-f4fdfc3ddc468c68"></a>
-## Identifying Common Client Responses
+<a id="record-070aab4c5ac34e56"></a>
+## Client Behavior Phrases
 
-**Product:** cases · **Type:** illustration · **Source support:** not_reviewed
+**Product:** expression · **Type:** wording · **Source support:** not_reviewed
 **Publication:** 2026-04-08 · **Author:** olgasi · **Format:** transcript
 
-### Situation
+### Observation
 
-- Clients often respond to agents with non-committal statements like 'I will wait to list' or offer 'pocket listings'.
+- The speaker uses a series of client statements to illustrate common non-committal responses agents encounter.
+  - “I'm just looking.” — [lines 127-127](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000018`)
+  - “I will buy but not now.” — [lines 131-131](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000019`)
+  - “Oh” — [lines 135-135](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000020`)
+  - “just send me some options.” — [lines 139-139](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000021`)
+  - “I'm working with other agents.” — [lines 143-143](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000022`)
+  - “or I am not selling altogether.” — [lines 147-147](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000023`)
   - “I will wait to list.” — [lines 151-151](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000024`)
-  - “I'm not going to listen now, I will wait, let's see, I'm going to give you a pocket listing.” — [lines 155-155](../../../data/youtube/video/2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-_0b6EYyDuPQ.md) (`youtube-video-2026-04-08-full-sales-course-dubai-real-estate-2026-off-plan-secondary-e5e68c2962:u000025`)
 
-### Cue
-
-Not stated in the cited excerpt.
-
-### Diagnosis
-
-Not stated in the cited excerpt.
-
-### Strategy
-
-Not stated in the cited excerpt.
-
-### Rationale
-
-Not stated in the cited excerpt.
-
-### Response
-
-Not stated in the cited excerpt.
-
-### Outcome
+### Purpose
 
 Not stated in the cited excerpt.
 
 ### Original context
 
+**olgasi** · lines 127-127 · spoken_turn
+
+> I'm just looking.
+
+**olgasi** · lines 131-131 · spoken_turn
+
+> I will buy but not now.
+
+**olgasi** · lines 135-135 · spoken_turn
+
+> Oh
+
+**olgasi** · lines 139-139 · spoken_turn
+
+> just send me some options.
+
+**olgasi** · lines 143-143 · spoken_turn
+
+> I'm working with other agents.
+
+**olgasi** · lines 147-147 · spoken_turn
+
+> or I am not selling altogether.
+
 **olgasi** · lines 151-151 · spoken_turn
 
 > I will wait to list.
 
-**olgasi** · lines 155-155 · spoken_turn
-
-> this one. Yeah, I'm not going to listen now, I will wait, let's see, I'm going to give you a pocket listing. Something along that line. How do I know that? That knowledge comes from the strategy sessions where the agents are coming to me with all of these questions and they don't know what to do, they feel stuck and feels like all of this is something that you never will able to overcome. And yeah, probably on your own, it's going to be hard. However, those who took a step

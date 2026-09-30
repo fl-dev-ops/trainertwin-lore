@@ -1,6 +1,21 @@
 # gratitude
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** gratitude
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-0de5dfd1be1feed5"></a>
 ## Gratitude and appreciation
@@ -28,3 +43,4 @@
 > We spend so much time waiting for the next level, the next achievement and the next version of ourselves that we forget to notice how far we have already come.
 > 
 > Would you go back 10 or 20 years if you could?
+

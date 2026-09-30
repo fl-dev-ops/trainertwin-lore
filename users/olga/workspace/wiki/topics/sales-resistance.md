@@ -1,6 +1,22 @@
 # sales resistance
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** sales resistance
+
+## Methods and expression
+
+- [Analogy: Salesperson as Threat](../expression/analogy-salesperson-as-threat-08dc6170d6.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-366ad5cc40324cec"></a>
 ## Sales Resistance Breaking Technique
@@ -104,3 +120,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 375-375 · spoken_turn
 
 > used to be a threat before. Or maybe, um some kind of tribe from the other side of the river. You, as a salesperson, now consider a threat. Just by you behaving in a salesy way, just by you indicating to me, a client, that you are a salesperson, you unconditionally the same as like
+

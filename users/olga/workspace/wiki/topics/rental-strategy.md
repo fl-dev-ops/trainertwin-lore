@@ -1,6 +1,21 @@
-# rental strategy
+# Rental strategy
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Rental strategy
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-efcc1ba19ca1b292"></a>
 ## Challenges with rental strategy
@@ -42,3 +57,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 86-86 · spoken_turn
 
 > renewal. The second one has stopped. This market pays you an income, not an increase. And if you already own, the tenants sitting inside your property today is worth more than the one you will imagine gonna come next. Two third of this market is renewals. Push too hard, you're gonna lose them and you're gonna be hunting for replacement in the pool which shrank by five thousand contracts this year. And let me tell you
+

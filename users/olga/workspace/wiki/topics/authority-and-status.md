@@ -1,6 +1,22 @@
-# authority and status
+# Authority and status
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Authority and status
+
+## Methods and expression
+
+- [Hypothetical example](../expression/hypothetical-example-2e91cabe14.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-2e91cabe145bbb5b"></a>
 ## Hypothetical example
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 28-28 · spoken_turn
 
 > Guys, do you know that the dentists, and I checked it with them with several, they don't actually have all of these book appointments, but they force you to come two p.m. on Thursday. Do you know why? They have other slots open. They want you to value that appointment like, oh my god. That's why we're gonna look how as well to become an actual authority for them and step into relationship from the higher status.
+

@@ -1,6 +1,22 @@
 # client persuasion
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** client persuasion
+
+## Methods and expression
+
+- [Strategy for reluctant real estate clients](../methods/strategy-for-reluctant-real-estate-clients-edb09d6b85.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-edb09d6b8503f257"></a>
 ## Strategy for reluctant real estate clients
@@ -101,3 +117,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 91-91 · spoken_turn
 
 > Right? Not those who are anxious, not those who not going to buy anyway, even without the war. Those one like, I'm so sorry, I cannot help you with that. The logical points that you will be using. First of all, the Hormuz uh blockage, which is stopping the oil containers, I'm just how you jump from that. This is what is happening right now, the oil crisis. The containers are blocked there. By the way, I don't know if you know why they block
+

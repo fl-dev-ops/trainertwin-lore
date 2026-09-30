@@ -1,6 +1,22 @@
 # urgency
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** urgency
+
+## Methods and expression
+
+- [Urgency Explanation](../expression/urgency-explanation-bab83f6900.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-c96c89856485e3bf"></a>
 ## Internal vs External Urgency
@@ -55,3 +71,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 204-204 · spoken_turn
 
 > is the last unit. This is the best price or the price will go up on Monday. This is external urgency and it dies the moment the call ends. Internal urgency rooted in his own words. And it keeps growing in his head because it's connected to the problem that he need to solve. And it grows for days after you hang up. And this is what brings him back to you with the deposit. You can watch this video ten times.
+

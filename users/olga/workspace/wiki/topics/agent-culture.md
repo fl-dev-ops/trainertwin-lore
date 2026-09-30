@@ -1,6 +1,22 @@
-# agent culture
+# Agent Culture
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Agent Culture
+
+## Methods and expression
+
+- [Building Agent Culture](../methods/building-agent-culture-243ade219a.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-243ade219a4a2196"></a>
 ## Building Agent Culture
@@ -69,3 +85,4 @@ Not stated in the cited excerpt.
 > But Raw and Honest 
 > 
 > And if you want to Support your Sales team and become stronger during this period  - text me
+

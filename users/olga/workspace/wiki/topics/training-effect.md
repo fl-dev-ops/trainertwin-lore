@@ -1,6 +1,21 @@
 # training effect
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** training effect
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-ef6397ab449e3629"></a>
 ## Transformation through training
@@ -20,3 +35,4 @@
 > I had the privilege of working with Olga, and I can honestly say she has completely transformed the way I approach real estate sales. Her knowledge of the Dubai market is unmatched, and she has this incredible ability to turn objections into opportunities. Through her creative role-playing exercises and real-world scenarios, she gave me the tools and confidence to close deals with direct clients and open doors to B2B opportunities I never thought possible.
 > 
 > What makes Olga truly exceptional is her generosity with her time and expertise. She is always willing to help, quick to respond, and genuinely invested in seeing her mentees succeed. Thanks to her guidance, I not only improved my sales skills but also gained a deeper understanding of strategy and client relationships that will stay with me throughout my career.
+

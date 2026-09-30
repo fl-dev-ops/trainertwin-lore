@@ -1,6 +1,21 @@
-# decision making process
+# Decision Making Process
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Decision Making Process
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-39b13e0bfcff0524"></a>
 ## Decision Making Process in Property Purchase
@@ -91,3 +106,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 1195-1195 · spoken_turn
 
 > those people who are somehow in charge into my next meeting or demolish their authority in his mind because they're going to be always a triggering. Yeah, there is a process for kind of I don't want to say killing authority, demolishing their authority as well because really if if I have a if I have a brother who never invested in a property himself is a working class, doesn't have much money, what's the point of me taking advice from him rather than just informing
+

@@ -1,6 +1,21 @@
 # client management
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** client management
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f3cf086827aab050"></a>
 ## Changing client's mindset
@@ -18,3 +33,4 @@
 **olgasi** · lines 32-32 · spoken_turn
 
 > to sell and shift the mindset, not convince, shift the mindset of your clients. I do have a strategy session where, oh I call it a soft session, where I teach you how step by step succeed in this frozen and slowly going down market.
+

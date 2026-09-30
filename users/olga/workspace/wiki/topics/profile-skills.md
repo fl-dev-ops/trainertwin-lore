@@ -1,6 +1,22 @@
 # profile skills
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** profile skills
+
+## Methods and expression
+
+- [Sales skill list with symbols](../expression/sales-skill-list-with-symbols-5b6348b246.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-5b6348b246a0f57e"></a>
 ## Sales skill list with symbols
@@ -22,3 +38,4 @@ Not stated in the cited excerpt.
 **authored text by olgasi** · /profile/topSkills/3 · authored_text
 
 > •	Training Programs Delivery
+

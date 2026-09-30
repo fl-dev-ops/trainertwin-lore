@@ -1,6 +1,21 @@
-# real estate agency fallouts
+# Real Estate Agency Fallouts
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Real Estate Agency Fallouts
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-4bbaa1fe52b7865d"></a>
 ## Ekaterina's Agency Experience
@@ -64,3 +79,4 @@ Not stated in the cited excerpt.
 **unknown speaker** · lines 60-60 · spoken_turn
 
 > bring more deals and from those deals we will start paying you what we owe you. That was the message.
+

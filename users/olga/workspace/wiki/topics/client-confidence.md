@@ -1,6 +1,23 @@
 # client confidence
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** client confidence
+
+## Methods and expression
+
+- [Client confidence in identifying opportunities](../methods/client-confidence-in-identifying-opportunities-80eac481a7.md)
+- [Client engagement through value questioning](../expression/client-engagement-through-value-questioning-3c48818e30.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-80eac481a7e93f02"></a>
 ## Client confidence in identifying opportunities
@@ -84,3 +101,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 1335-1335 · spoken_turn
 
 > set you down and walk you through the whole process from the put in initial deposit and, you know, to paying the the full installments, the construction, then the the handover process, which additional um documents and and let's say uh financial investments you will have to do at that point and then how uh the process will be different if you will decide to sell during the construction or if you will go to the um selling
+

@@ -1,6 +1,21 @@
 # professional background
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** professional background
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-e175628229fbdc0a"></a>
 ## real estate experience
@@ -20,3 +35,4 @@
 > 11+ yrs selling Dubai real estate
 > I teach to turn “Just send me some OPTIONS” into closed deals🤝
 > Start with FREE Sales Training on Telegram ↓
+

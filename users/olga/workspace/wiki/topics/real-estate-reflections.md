@@ -1,6 +1,21 @@
-# real estate reflections
+# Real Estate Reflections
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Real Estate Reflections
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-101779048c789f47"></a>
 ## Creek Harbor Launch Experience
@@ -53,3 +68,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 182-182 · spoken_turn
 
 > It's not about the people or passengers coming in and just going to the area directly. Think about the staff, pilots, cabin crews, they do have quite lucrative packages, salaries, and they do have an opportunity to take loans and mortgages, uh easily because they work for the government company. So I would say probably twenty percent of those who are living in currently in Creek, anyhow connected with the airport, Emirates,
+

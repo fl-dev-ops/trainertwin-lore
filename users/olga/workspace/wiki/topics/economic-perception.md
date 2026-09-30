@@ -1,6 +1,21 @@
 # economic perception
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** economic perception
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-c6d87347774dc846"></a>
 ## Countries in crisis create social media noise
@@ -27,3 +42,4 @@
 **olgasi** · lines 107-107 · spoken_turn
 
 > Will that be US? But why are they doing this? Now, I mean, they're doing it to get more views, you know, that's that's normal. But realistically, uh those countries are really suffering right now because their economy is actually at way bigger risk. And look, if you are a professor, you're going to tell me, Olga, your your kind of um terminology may be a little bit weak, you don't give a proper numbers, I'm not here for that. I'm here to give you a strategy and
+

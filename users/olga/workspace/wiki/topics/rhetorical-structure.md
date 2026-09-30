@@ -1,6 +1,22 @@
-# rhetorical structure
+# Rhetorical structure
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Rhetorical structure
+
+## Methods and expression
+
+- [Introductory statement](../expression/introductory-statement-b6d9af385f.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-b6d9af385fb6ddcf"></a>
 ## Introductory statement
@@ -24,3 +40,4 @@ Not stated in the cited excerpt.
 > ## Caption
 > How to Convince the Client is starting with…
 > What to say - here where many agents get it wrong
+

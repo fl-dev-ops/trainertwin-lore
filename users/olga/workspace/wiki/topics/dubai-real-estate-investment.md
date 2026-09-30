@@ -1,6 +1,22 @@
-# dubai real estate investment
+# Dubai real estate investment
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Dubai real estate investment
+
+## Methods and expression
+
+- [Exit Strategy in Dubai Real Estate](../methods/exit-strategy-in-dubai-real-estate-f9d45f222d.md)
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-f9d45f222ddc2263"></a>
 ## Exit Strategy in Dubai Real Estate
@@ -55,3 +71,4 @@ Not stated in the cited excerpt.
 **olgasi** · lines 85-85 · spoken_turn
 
 > Lloyd. That's what people mean when they talk about doubling money in Dubai. Look at this case. Bought in twenty twenty one for seven hundred thousand and sold three years later at exactly one point four million. And this case is one of many. Those people didn't buy in twenty twenty four. It was a twenty twenty one. And twenty twenty one was a completely different market altogether. Launches were just started. We were coming out of Covid.
+

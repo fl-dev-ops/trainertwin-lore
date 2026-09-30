@@ -1,6 +1,21 @@
-# budget considerations
+# Budget Considerations
 
-> Source-local records, not independent fact verification. Original steps and qualifications are retained.
+[Wiki home](../index.md)
+
+> Navigation groups source evidence; it does not establish a universal position or independent corroboration.
+
+**Aliases:** Budget Considerations
+
+## Methods and expression
+
+
+## Episodes
+
+
+## Named entities
+
+
+## Source-local knowledge, cases and expression
 
 <a id="record-d2458c1f74898c8c"></a>
 ## Handling Budget Misalignment
@@ -27,3 +42,4 @@
 **olgasi** · lines 1271-1271 · spoken_turn
 
 > not that many times, right? Probably zero. It's always the opposite way. So, if it's an opposite way, we have to help them understand which kind of function, which kind of kind of bips and bobs from their desirable, ideal picture we can take out without paying, and they will still love the property. Do you have any properties already generating a passive income for you or what kind of investment do you have?
+
