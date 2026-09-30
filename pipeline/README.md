@@ -114,4 +114,4 @@ uv run python scripts/pipeline_demo.py --output /tmp/trainertwin-demo
 
 The demo refuses an existing output directory. It builds all views, a twin candidate, field audits, task context and a report using **fixture-authored model responses**, asserts retained method/case details, then rebuilds with zero new calls. It is an integration check, not evidence of live extraction quality.
 
-Research rationale: [TRAINERTWIN_RESEARCH.md](../docs/research/TRAINERTWIN_RESEARCH.md). Current validation: [RESULTS.md](../docs/pipeline/RESULTS.md). Past evaluation measurements live under `docs/research/pipeline-evaluation/`; they are research records, not another runnable implementation. The chronology preview uses the same current record reader. MCP feature work, collectors and the profile UI are outside this refactor.
+Research rationale: [TRAINERTWIN_RESEARCH.md](../docs/research/TRAINERTWIN_RESEARCH.md). The chronology preview uses the same current record reader. MCP feature work, collectors and the profile UI are outside this refactor.

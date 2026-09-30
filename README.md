@@ -63,5 +63,4 @@ uv run python scripts/pipeline_demo.py --output /tmp/trainertwin-demo
 
 The demo uses fixture-authored responses and makes no paid calls. It checks the full flow and retained details, not live-model quality or trainer resemblance.
 
-- [Current validation results](docs/pipeline/RESULTS.md)
 - [Research rationale](docs/research/TRAINERTWIN_RESEARCH.md)
