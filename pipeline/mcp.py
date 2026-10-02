@@ -19,7 +19,7 @@ from pathlib import Path
 from typing import Any
 
 from dotenv import load_dotenv
-from mcp.server.mcpserver import MCPServer
+from mcp.server import MCPServer
 
 from .author import author_scenario_prompt
 from .normalize import normalize_workspace

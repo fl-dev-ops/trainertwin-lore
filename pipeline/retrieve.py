@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import re
+import sys
 from pathlib import Path
 from typing import Any
 
@@ -78,7 +79,7 @@ def route_query_with_jev(
                     aliases = list({c["preferred"].lower()} | {a.lower() for a in c.get("aliases", [])})
                     return choice, aliases, confidence
     except Exception as exc:
-        print(f"Warning: Jev query routing failed ({exc}); falling back to keyword search", flush=True)
+        print(f"Warning: Jev query routing failed ({exc}); falling back to keyword search", file=sys.stderr, flush=True)
 
     return None, [], 0.0
 

@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import os
 import re
+import sys
 import time
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
@@ -82,7 +83,7 @@ def detect_domain_stopwords_llm(
                     tokens.add(sub)
         return tokens
     except Exception as exc:
-        print(f"Warning: LLM domain stopword detection failed ({exc}); falling back to heuristic", flush=True)
+        print(f"Warning: LLM domain stopword detection failed ({exc}); falling back to heuristic", file=sys.stderr, flush=True)
         return detect_domain_stopwords(items)
     finally:
         client.close()
@@ -347,7 +348,7 @@ def normalize_workspace(
     domain_sw = detect_domain_stopwords_llm(items, api_key, model=model)
     effective_stopwords = BASE_STOPWORDS | domain_sw
     if domain_sw:
-        print(f"LLM-identified creator domain background words: {sorted(domain_sw)}", flush=True)
+        print(f"LLM-identified creator domain background words: {sorted(domain_sw)}", file=sys.stderr, flush=True)
 
     jev = JevClient(api_key)
     taxonomy: dict[str, Any] = {}
@@ -355,18 +356,18 @@ def normalize_workspace(
     try:
         for facet, counts in sorted(by_facet.items()):
             t0 = time.time()
-            print(f"Normalizing '{facet}' ({len(counts)} raw labels)...", flush=True)
+            print(f"Normalizing '{facet}' ({len(counts)} raw labels)...", file=sys.stderr, flush=True)
             clusters = cluster_facet(
                 facet, counts, jev, threshold=threshold, workers=workers, stopwords=effective_stopwords
             )
             taxonomy[facet] = {c["id"]: c for c in clusters}
             merged_count = len(counts) - len(clusters)
             dt = time.time() - t0
-            print(f"  → {len(clusters)} canonical concepts ({merged_count} synonyms merged) in {dt:.2f}s", flush=True)
+            print(f"  → {len(clusters)} canonical concepts ({merged_count} synonyms merged) in {dt:.2f}s", file=sys.stderr, flush=True)
     finally:
         jev.close()
 
     out_path = workspace / "taxonomy.json"
     atomic(out_path, js(taxonomy))
-    print(f"Taxonomy saved to {out_path}")
+    print(f"Taxonomy saved to {out_path}", file=sys.stderr, flush=True)
     return taxonomy
