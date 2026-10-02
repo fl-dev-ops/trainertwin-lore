@@ -3,6 +3,7 @@
 import json
 import math
 import random
+import threading
 import time
 from typing import Any
 
@@ -36,6 +37,7 @@ class SpendBudget:
             output_price,
             path,
         )
+        self._lock = threading.Lock()
         self.spent = load_json(path)["spent_or_reserved_usd"] if path.exists() else 0.0
         if (
             type(self.spent) not in {int, float}
@@ -45,6 +47,21 @@ class SpendBudget:
             raise ValueError("Invalid persisted spend budget")
 
     def reserve(self, payload, max_output_tokens):
+        with self._lock:
+            return self._change(payload, max_output_tokens, None)
+
+    def settle(self, reservation, usage):
+        with self._lock:
+            self._change(None, None, (reservation, usage))
+
+    def _change(self, payload, max_output_tokens, settlement):
+        if settlement is not None:
+            reservation, usage = settlement
+            actual = usage.get("cost")
+            if type(actual) in {int, float} and math.isfinite(actual) and actual >= 0:
+                self.spent += actual - reservation
+                self.save()
+            return None
         amount = (
             (len(js(payload).encode("utf-8")) + 512) * self.input_price
             + max_output_tokens * self.output_price
@@ -56,12 +73,6 @@ class SpendBudget:
         self.spent += amount
         self.save()
         return amount
-
-    def settle(self, reservation, usage):
-        actual = usage.get("cost")
-        if type(actual) in {int, float} and math.isfinite(actual) and actual >= 0:
-            self.spent += actual - reservation
-            self.save()
 
     def save(self):
         atomic(
@@ -90,14 +101,16 @@ class OpenRouter:
         self.model = model
         self.last_usage: dict[str, Any] = {}
         self.spend_budget = None
-        self.max_output_tokens = 8192
+        self.max_output_tokens = 16384
+        self.provider = None
+        self.reasoning_effort = None
         self.http = httpx.Client(
             base_url="https://openrouter.ai/api/v1",
             headers={
                 "Authorization": f"Bearer {api_key}",
                 "Content-Type": "application/json",
             },
-            timeout=httpx.Timeout(120.0, connect=20.0),
+            timeout=httpx.Timeout(400.0, connect=20.0),
             transport=transport,
         )
 
@@ -118,8 +131,20 @@ class OpenRouter:
                 "type": "json_schema",
                 "json_schema": {"name": name, "strict": True, "schema": schema},
             },
-            "provider": {"require_parameters": True},
+            "provider": {
+                "require_parameters": True,
+                **(
+                    {"order": [self.provider], "allow_fallbacks": False}
+                    if self.provider
+                    else {}
+                ),
+            },
             "max_tokens": self.max_output_tokens,
+            **(
+                {"reasoning": {"effort": self.reasoning_effort}}
+                if self.reasoning_effort
+                else {}
+            ),
         }
         for attempt in range(4):
             reservation = (

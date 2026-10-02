@@ -1,0 +1,3416 @@
+{
+  "activity": {
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 54
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 3
+    },
+    "job-posting": {
+      "id": "job-posting",
+      "preferred": "job posting",
+      "aliases": [
+        "job posting"
+      ],
+      "count": 2
+    },
+    "sales-pitch": {
+      "id": "sales-pitch",
+      "preferred": "sales pitch",
+      "aliases": [
+        "sales pitch"
+      ],
+      "count": 2
+    },
+    "cold-calling": {
+      "id": "cold-calling",
+      "preferred": "cold calling",
+      "aliases": [
+        "cold calling"
+      ],
+      "count": 2
+    },
+    "objection-handling": {
+      "id": "objection-handling",
+      "preferred": "objection handling",
+      "aliases": [
+        "objection handling"
+      ],
+      "count": 2
+    },
+    "community-invite": {
+      "id": "community-invite",
+      "preferred": "community invite",
+      "aliases": [
+        "community invite"
+      ],
+      "count": 1
+    },
+    "visualization": {
+      "id": "visualization",
+      "preferred": "visualization",
+      "aliases": [
+        "visualization"
+      ],
+      "count": 1
+    },
+    "ai-photo-generation": {
+      "id": "ai-photo-generation",
+      "preferred": "AI photo generation",
+      "aliases": [
+        "AI photo generation"
+      ],
+      "count": 1
+    },
+    "recruitment": {
+      "id": "recruitment",
+      "preferred": "recruitment",
+      "aliases": [
+        "recruitment"
+      ],
+      "count": 1
+    },
+    "client-communication": {
+      "id": "client-communication",
+      "preferred": "client communication",
+      "aliases": [
+        "client communication"
+      ],
+      "count": 1
+    },
+    "webinar-replay": {
+      "id": "webinar-replay",
+      "preferred": "webinar replay",
+      "aliases": [
+        "webinar replay"
+      ],
+      "count": 1
+    },
+    "cold-calling-training": {
+      "id": "cold-calling-training",
+      "preferred": "cold calling training",
+      "aliases": [
+        "cold calling training"
+      ],
+      "count": 1
+    },
+    "lead-follow-up": {
+      "id": "lead-follow-up",
+      "preferred": "lead follow-up",
+      "aliases": [
+        "lead follow-up"
+      ],
+      "count": 1
+    },
+    "candidate-interview": {
+      "id": "candidate-interview",
+      "preferred": "candidate interview",
+      "aliases": [
+        "candidate interview"
+      ],
+      "count": 1
+    },
+    "sales-messaging": {
+      "id": "sales-messaging",
+      "preferred": "sales messaging",
+      "aliases": [
+        "sales messaging"
+      ],
+      "count": 1
+    },
+    "sales-prospecting": {
+      "id": "sales-prospecting",
+      "preferred": "sales prospecting",
+      "aliases": [
+        "sales prospecting"
+      ],
+      "count": 1
+    },
+    "seminar-attendance": {
+      "id": "seminar-attendance",
+      "preferred": "seminar attendance",
+      "aliases": [
+        "seminar attendance"
+      ],
+      "count": 1
+    },
+    "posting-on-linkedin": {
+      "id": "posting-on-linkedin",
+      "preferred": "posting on LinkedIn",
+      "aliases": [
+        "posting on LinkedIn"
+      ],
+      "count": 1
+    },
+    "cold-direct-messaging": {
+      "id": "cold-direct-messaging",
+      "preferred": "cold direct messaging",
+      "aliases": [
+        "cold direct messaging"
+      ],
+      "count": 1
+    },
+    "daily-exercises": {
+      "id": "daily-exercises",
+      "preferred": "daily exercises",
+      "aliases": [
+        "daily exercises"
+      ],
+      "count": 1
+    },
+    "strategy-session-consultation": {
+      "id": "strategy-session-consultation",
+      "preferred": "strategy session consultation",
+      "aliases": [
+        "strategy session consultation"
+      ],
+      "count": 1
+    },
+    "presentation-preparation": {
+      "id": "presentation-preparation",
+      "preferred": "presentation preparation",
+      "aliases": [
+        "presentation preparation"
+      ],
+      "count": 1
+    },
+    "role-playing": {
+      "id": "role-playing",
+      "preferred": "role-playing",
+      "aliases": [
+        "role-playing"
+      ],
+      "count": 1
+    },
+    "calendar-scheduling": {
+      "id": "calendar-scheduling",
+      "preferred": "calendar scheduling",
+      "aliases": [
+        "calendar scheduling"
+      ],
+      "count": 1
+    },
+    "lead-generation": {
+      "id": "lead-generation",
+      "preferred": "lead generation",
+      "aliases": [
+        "lead generation"
+      ],
+      "count": 1
+    },
+    "database-prospecting": {
+      "id": "database-prospecting",
+      "preferred": "database prospecting",
+      "aliases": [
+        "database prospecting"
+      ],
+      "count": 1
+    },
+    "paid-lead-generation": {
+      "id": "paid-lead-generation",
+      "preferred": "paid lead generation",
+      "aliases": [
+        "paid lead generation"
+      ],
+      "count": 1
+    },
+    "outbound-calling": {
+      "id": "outbound-calling",
+      "preferred": "outbound calling",
+      "aliases": [
+        "outbound calling"
+      ],
+      "count": 1
+    },
+    "personal-branding": {
+      "id": "personal-branding",
+      "preferred": "personal branding",
+      "aliases": [
+        "personal branding"
+      ],
+      "count": 1
+    },
+    "data-analysis": {
+      "id": "data-analysis",
+      "preferred": "data analysis",
+      "aliases": [
+        "data analysis"
+      ],
+      "count": 1
+    },
+    "closing-question": {
+      "id": "closing-question",
+      "preferred": "closing question",
+      "aliases": [
+        "closing question"
+      ],
+      "count": 1
+    }
+  },
+  "situation": {
+    "lead-stops-responding": {
+      "id": "lead-stops-responding",
+      "preferred": "lead stops responding",
+      "aliases": [
+        "getting ghosted by clients",
+        "lead stops replying",
+        "lead stops responding"
+      ],
+      "count": 12
+    },
+    "client-wants-to-wait-and-see": {
+      "id": "client-wants-to-wait-and-see",
+      "preferred": "client wants to wait and see",
+      "aliases": [
+        "client hesitation",
+        "client stalling",
+        "client wants to wait and see"
+      ],
+      "count": 4
+    },
+    "market-fear-and-downturns": {
+      "id": "market-fear-and-downturns",
+      "preferred": "market fear and downturns",
+      "aliases": [
+        "market fear and downturns"
+      ],
+      "count": 2
+    },
+    "uncertain-times": {
+      "id": "uncertain-times",
+      "preferred": "uncertain times",
+      "aliases": [
+        "uncertain times"
+      ],
+      "count": 2
+    },
+    "starting-real-estate-career-in-dubai": {
+      "id": "starting-real-estate-career-in-dubai",
+      "preferred": "starting real estate career in Dubai",
+      "aliases": [
+        "starting real estate career in Dubai"
+      ],
+      "count": 2
+    },
+    "market-downturn": {
+      "id": "market-downturn",
+      "preferred": "market downturn",
+      "aliases": [
+        "market downturn"
+      ],
+      "count": 2
+    },
+    "busy-agent-with-no-sales": {
+      "id": "busy-agent-with-no-sales",
+      "preferred": "busy agent with no sales",
+      "aliases": [
+        "busy agent with no sales",
+        "busy without closing deals"
+      ],
+      "count": 2
+    },
+    "ghosted-leads": {
+      "id": "ghosted-leads",
+      "preferred": "ghosted leads",
+      "aliases": [
+        "ghosted leads",
+        "leads disappear after sending information"
+      ],
+      "count": 2
+    },
+    "market-uncertainty-and-panic": {
+      "id": "market-uncertainty-and-panic",
+      "preferred": "market uncertainty and panic",
+      "aliases": [
+        "market uncertainty and panic"
+      ],
+      "count": 1
+    },
+    "challenging-market-and-war-conditions": {
+      "id": "challenging-market-and-war-conditions",
+      "preferred": "challenging market and war conditions",
+      "aliases": [
+        "challenging market and war conditions"
+      ],
+      "count": 1
+    },
+    "overcoming-war-objections": {
+      "id": "overcoming-war-objections",
+      "preferred": "overcoming war objections",
+      "aliases": [
+        "overcoming war objections"
+      ],
+      "count": 1
+    },
+    "believing-model-physiques-require-specific-genetics": {
+      "id": "believing-model-physiques-require-specific-genetics",
+      "preferred": "believing model physiques require specific genetics",
+      "aliases": [
+        "believing model physiques require specific genetics"
+      ],
+      "count": 1
+    },
+    "positioning-status-with-clients": {
+      "id": "positioning-status-with-clients",
+      "preferred": "positioning status with clients",
+      "aliases": [
+        "positioning status with clients"
+      ],
+      "count": 1
+    },
+    "feeling-judged-while-filming": {
+      "id": "feeling-judged-while-filming",
+      "preferred": "feeling judged while filming",
+      "aliases": [
+        "feeling judged while filming"
+      ],
+      "count": 1
+    },
+    "sudden-life-instability": {
+      "id": "sudden-life-instability",
+      "preferred": "sudden life instability",
+      "aliases": [
+        "sudden life instability"
+      ],
+      "count": 1
+    },
+    "lead-says-they-are-not-ready-to-buy": {
+      "id": "lead-says-they-are-not-ready-to-buy",
+      "preferred": "lead says they are not ready to buy",
+      "aliases": [
+        "lead says they are not ready to buy"
+      ],
+      "count": 1
+    },
+    "entering-emerging-markets": {
+      "id": "entering-emerging-markets",
+      "preferred": "entering emerging markets",
+      "aliases": [
+        "entering emerging markets"
+      ],
+      "count": 1
+    },
+    "agency-refusing-to-pay-commissions": {
+      "id": "agency-refusing-to-pay-commissions",
+      "preferred": "agency refusing to pay commissions",
+      "aliases": [
+        "agency refusing to pay commissions"
+      ],
+      "count": 1
+    },
+    "planning-for-early-retirement-or-passive-income": {
+      "id": "planning-for-early-retirement-or-passive-income",
+      "preferred": "planning for early retirement or passive income",
+      "aliases": [
+        "planning for early retirement or passive income"
+      ],
+      "count": 1
+    },
+    "feeling-limited-by-circumstances": {
+      "id": "feeling-limited-by-circumstances",
+      "preferred": "feeling limited by circumstances",
+      "aliases": [
+        "feeling limited by circumstances"
+      ],
+      "count": 1
+    },
+    "client-says-no": {
+      "id": "client-says-no",
+      "preferred": "client says no",
+      "aliases": [
+        "client says no"
+      ],
+      "count": 1
+    },
+    "starting-a-new-business-venture": {
+      "id": "starting-a-new-business-venture",
+      "preferred": "starting a new business venture",
+      "aliases": [
+        "starting a new business venture"
+      ],
+      "count": 1
+    },
+    "moving-to-dubai-without-sales-experience": {
+      "id": "moving-to-dubai-without-sales-experience",
+      "preferred": "moving to Dubai without sales experience",
+      "aliases": [
+        "moving to Dubai without sales experience"
+      ],
+      "count": 1
+    },
+    "client-hesitates-to-buy-due-to-lack-of-clarity": {
+      "id": "client-hesitates-to-buy-due-to-lack-of-clarity",
+      "preferred": "client hesitates to buy due to lack of clarity",
+      "aliases": [
+        "client hesitates to buy due to lack of clarity"
+      ],
+      "count": 1
+    },
+    "client-evaluating-alternative-investments": {
+      "id": "client-evaluating-alternative-investments",
+      "preferred": "client evaluating alternative investments",
+      "aliases": [
+        "client evaluating alternative investments"
+      ],
+      "count": 1
+    },
+    "fear-of-being-on-camera": {
+      "id": "fear-of-being-on-camera",
+      "preferred": "fear of being on camera",
+      "aliases": [
+        "fear of being on camera"
+      ],
+      "count": 1
+    },
+    "uncommitted-investor-comparing-multiple-business-options": {
+      "id": "uncommitted-investor-comparing-multiple-business-options",
+      "preferred": "uncommitted investor comparing multiple business options",
+      "aliases": [
+        "uncommitted investor comparing multiple business options"
+      ],
+      "count": 1
+    },
+    "buyer-urgency": {
+      "id": "buyer-urgency",
+      "preferred": "buyer urgency",
+      "aliases": [
+        "buyer urgency"
+      ],
+      "count": 1
+    },
+    "client-disappears-after-pitching": {
+      "id": "client-disappears-after-pitching",
+      "preferred": "client disappears after pitching",
+      "aliases": [
+        "client disappears after pitching"
+      ],
+      "count": 1
+    },
+    "reflecting-on-past-vs-present-life-in-your-40s": {
+      "id": "reflecting-on-past-vs-present-life-in-your-40s",
+      "preferred": "reflecting on past vs present life in your 40s",
+      "aliases": [
+        "reflecting on past vs present life in your 40s"
+      ],
+      "count": 1
+    },
+    "client-demands-unrealistic-discount": {
+      "id": "client-demands-unrealistic-discount",
+      "preferred": "client demands unrealistic discount",
+      "aliases": [
+        "client demands unrealistic discount"
+      ],
+      "count": 1
+    },
+    "fears-of-2008-real-estate-crash-repeating": {
+      "id": "fears-of-2008-real-estate-crash-repeating",
+      "preferred": "fears of 2008 real estate crash repeating",
+      "aliases": [
+        "fears of 2008 real estate crash repeating"
+      ],
+      "count": 1
+    },
+    "explaining-historical-market-crash-to-clients": {
+      "id": "explaining-historical-market-crash-to-clients",
+      "preferred": "explaining historical market crash to clients",
+      "aliases": [
+        "explaining historical market crash to clients"
+      ],
+      "count": 1
+    },
+    "feeling-not-good-enough": {
+      "id": "feeling-not-good-enough",
+      "preferred": "feeling not good enough",
+      "aliases": [
+        "feeling not good enough"
+      ],
+      "count": 1
+    },
+    "handling-rejection-in-sales": {
+      "id": "handling-rejection-in-sales",
+      "preferred": "handling rejection in sales",
+      "aliases": [
+        "handling rejection in sales"
+      ],
+      "count": 1
+    },
+    "market-uncertainty": {
+      "id": "market-uncertainty",
+      "preferred": "market uncertainty",
+      "aliases": [
+        "market uncertainty"
+      ],
+      "count": 1
+    },
+    "recovering-from-setbacks": {
+      "id": "recovering-from-setbacks",
+      "preferred": "recovering from setbacks",
+      "aliases": [
+        "recovering from setbacks"
+      ],
+      "count": 1
+    },
+    "selling-in-a-down-or-uncertain-market": {
+      "id": "selling-in-a-down-or-uncertain-market",
+      "preferred": "selling in a down or uncertain market",
+      "aliases": [
+        "selling in a down or uncertain market"
+      ],
+      "count": 1
+    },
+    "allocating-early-earnings-and-investments": {
+      "id": "allocating-early-earnings-and-investments",
+      "preferred": "allocating early earnings and investments",
+      "aliases": [
+        "allocating early earnings and investments"
+      ],
+      "count": 1
+    },
+    "client-war-objections": {
+      "id": "client-war-objections",
+      "preferred": "client war objections",
+      "aliases": [
+        "client war objections"
+      ],
+      "count": 1
+    },
+    "client-hearing-negative-news-about-dubai": {
+      "id": "client-hearing-negative-news-about-dubai",
+      "preferred": "client hearing negative news about Dubai",
+      "aliases": [
+        "client hearing negative news about Dubai"
+      ],
+      "count": 1
+    },
+    "clients-panicking": {
+      "id": "clients-panicking",
+      "preferred": "clients panicking",
+      "aliases": [
+        "clients panicking"
+      ],
+      "count": 1
+    },
+    "market-slowdown-and-crisis": {
+      "id": "market-slowdown-and-crisis",
+      "preferred": "market slowdown and crisis",
+      "aliases": [
+        "market slowdown and crisis"
+      ],
+      "count": 1
+    },
+    "agency-refused-to-pay-commissions": {
+      "id": "agency-refused-to-pay-commissions",
+      "preferred": "agency refused to pay commissions",
+      "aliases": [
+        "agency refused to pay commissions"
+      ],
+      "count": 1
+    },
+    "market-uncertainty-or-war-concerns": {
+      "id": "market-uncertainty-or-war-concerns",
+      "preferred": "market uncertainty or war concerns",
+      "aliases": [
+        "market uncertainty or war concerns"
+      ],
+      "count": 1
+    },
+    "poor-lead-quality-complaints": {
+      "id": "poor-lead-quality-complaints",
+      "preferred": "poor lead quality complaints",
+      "aliases": [
+        "poor lead quality complaints"
+      ],
+      "count": 1
+    },
+    "declining-channel-views-and-subscribers": {
+      "id": "declining-channel-views-and-subscribers",
+      "preferred": "declining channel views and subscribers",
+      "aliases": [
+        "declining channel views and subscribers"
+      ],
+      "count": 1
+    },
+    "entering-a-new-real-estate-market": {
+      "id": "entering-a-new-real-estate-market",
+      "preferred": "entering a new real estate market",
+      "aliases": [
+        "entering a new real estate market"
+      ],
+      "count": 1
+    },
+    "low-demand-for-specific-nationality": {
+      "id": "low-demand-for-specific-nationality",
+      "preferred": "low demand for specific nationality",
+      "aliases": [
+        "low demand for specific nationality"
+      ],
+      "count": 1
+    },
+    "difficult-real-estate-market": {
+      "id": "difficult-real-estate-market",
+      "preferred": "difficult real estate market",
+      "aliases": [
+        "difficult real estate market"
+      ],
+      "count": 1
+    },
+    "client-budget-too-low-for-residency": {
+      "id": "client-budget-too-low-for-residency",
+      "preferred": "client budget too low for residency",
+      "aliases": [
+        "client budget too low for residency"
+      ],
+      "count": 1
+    },
+    "hiring-sales-leadership": {
+      "id": "hiring-sales-leadership",
+      "preferred": "hiring sales leadership",
+      "aliases": [
+        "hiring sales leadership"
+      ],
+      "count": 1
+    },
+    "low-conversion-rate-from-social-media-leads": {
+      "id": "low-conversion-rate-from-social-media-leads",
+      "preferred": "low conversion rate from social media leads",
+      "aliases": [
+        "low conversion rate from social media leads"
+      ],
+      "count": 1
+    },
+    "starting-over-in-a-new-market": {
+      "id": "starting-over-in-a-new-market",
+      "preferred": "starting over in a new market",
+      "aliases": [
+        "starting over in a new market"
+      ],
+      "count": 1
+    },
+    "withheld-commission": {
+      "id": "withheld-commission",
+      "preferred": "withheld commission",
+      "aliases": [
+        "withheld commission"
+      ],
+      "count": 1
+    },
+    "market-slowdown-and-falling-lead-numbers": {
+      "id": "market-slowdown-and-falling-lead-numbers",
+      "preferred": "market slowdown and falling lead numbers",
+      "aliases": [
+        "market slowdown and falling lead numbers"
+      ],
+      "count": 1
+    },
+    "low-response-rate-to-sales-messages": {
+      "id": "low-response-rate-to-sales-messages",
+      "preferred": "low response rate to sales messages",
+      "aliases": [
+        "low response rate to sales messages"
+      ],
+      "count": 1
+    },
+    "hr-redundancies-in-real-estate": {
+      "id": "hr-redundancies-in-real-estate",
+      "preferred": "HR redundancies in real estate",
+      "aliases": [
+        "HR redundancies in real estate"
+      ],
+      "count": 1
+    },
+    "receiving-generic-automated-dms": {
+      "id": "receiving-generic-automated-dms",
+      "preferred": "receiving generic automated DMs",
+      "aliases": [
+        "receiving generic automated DMs"
+      ],
+      "count": 1
+    },
+    "clients-do-not-commit": {
+      "id": "clients-do-not-commit",
+      "preferred": "clients do not commit",
+      "aliases": [
+        "clients do not commit"
+      ],
+      "count": 1
+    },
+    "launching-tech-products-in-real-estate-without-customer-deve": {
+      "id": "launching-tech-products-in-real-estate-without-customer-deve",
+      "preferred": "launching tech products in real estate without customer development",
+      "aliases": [
+        "launching tech products in real estate without customer development"
+      ],
+      "count": 1
+    },
+    "brokerage-withholding-agent-commissions": {
+      "id": "brokerage-withholding-agent-commissions",
+      "preferred": "brokerage withholding agent commissions",
+      "aliases": [
+        "brokerage withholding agent commissions"
+      ],
+      "count": 1
+    },
+    "automated-outreach-on-linkedin": {
+      "id": "automated-outreach-on-linkedin",
+      "preferred": "automated outreach on LinkedIn",
+      "aliases": [
+        "automated outreach on LinkedIn"
+      ],
+      "count": 1
+    },
+    "low-content-engagement": {
+      "id": "low-content-engagement",
+      "preferred": "low content engagement",
+      "aliases": [
+        "low content engagement"
+      ],
+      "count": 1
+    },
+    "joining-real-estate-during-market-uncertainty": {
+      "id": "joining-real-estate-during-market-uncertainty",
+      "preferred": "joining real estate during market uncertainty",
+      "aliases": [
+        "joining real estate during market uncertainty"
+      ],
+      "count": 1
+    },
+    "introducing-yourself-at-a-networking-event": {
+      "id": "introducing-yourself-at-a-networking-event",
+      "preferred": "introducing yourself at a networking event",
+      "aliases": [
+        "introducing yourself at a networking event"
+      ],
+      "count": 1
+    },
+    "internal-champion-leaves-customer-company": {
+      "id": "internal-champion-leaves-customer-company",
+      "preferred": "internal champion leaves customer company",
+      "aliases": [
+        "internal champion leaves customer company"
+      ],
+      "count": 1
+    },
+    "users-cancel-after-trial": {
+      "id": "users-cancel-after-trial",
+      "preferred": "users cancel after trial",
+      "aliases": [
+        "users cancel after trial"
+      ],
+      "count": 1
+    },
+    "initial-client-contact": {
+      "id": "initial-client-contact",
+      "preferred": "initial client contact",
+      "aliases": [
+        "initial client contact"
+      ],
+      "count": 1
+    },
+    "asking-client-budget": {
+      "id": "asking-client-budget",
+      "preferred": "asking client budget",
+      "aliases": [
+        "asking client budget"
+      ],
+      "count": 1
+    },
+    "reviving-failed-deals": {
+      "id": "reviving-failed-deals",
+      "preferred": "reviving failed deals",
+      "aliases": [
+        "reviving failed deals"
+      ],
+      "count": 1
+    },
+    "matching-inventory-to-client-needs": {
+      "id": "matching-inventory-to-client-needs",
+      "preferred": "matching inventory to client needs",
+      "aliases": [
+        "matching inventory to client needs"
+      ],
+      "count": 1
+    },
+    "presenting-property-figures": {
+      "id": "presenting-property-figures",
+      "preferred": "presenting property figures",
+      "aliases": [
+        "presenting property figures"
+      ],
+      "count": 1
+    },
+    "market-cleanse-vs-crisis": {
+      "id": "market-cleanse-vs-crisis",
+      "preferred": "market cleanse vs crisis",
+      "aliases": [
+        "market cleanse vs crisis"
+      ],
+      "count": 1
+    },
+    "client-believes-the-market-has-stopped": {
+      "id": "client-believes-the-market-has-stopped",
+      "preferred": "client believes the market has stopped",
+      "aliases": [
+        "client believes the market has stopped"
+      ],
+      "count": 1
+    },
+    "handling-market-crisis-and-uncertainty": {
+      "id": "handling-market-crisis-and-uncertainty",
+      "preferred": "handling market crisis and uncertainty",
+      "aliases": [
+        "handling market crisis and uncertainty"
+      ],
+      "count": 1
+    },
+    "market-downturn-and-uncertainty": {
+      "id": "market-downturn-and-uncertainty",
+      "preferred": "market downturn and uncertainty",
+      "aliases": [
+        "market downturn and uncertainty"
+      ],
+      "count": 1
+    },
+    "market-crisis": {
+      "id": "market-crisis",
+      "preferred": "market crisis",
+      "aliases": [
+        "market crisis"
+      ],
+      "count": 1
+    },
+    "market-slowdown": {
+      "id": "market-slowdown",
+      "preferred": "market slowdown",
+      "aliases": [
+        "market slowdown"
+      ],
+      "count": 1
+    },
+    "market-performance-during-war": {
+      "id": "market-performance-during-war",
+      "preferred": "market performance during war",
+      "aliases": [
+        "market performance during war"
+      ],
+      "count": 1
+    },
+    "buyers-disappearing-after-receiving-options": {
+      "id": "buyers-disappearing-after-receiving-options",
+      "preferred": "buyers disappearing after receiving options",
+      "aliases": [
+        "buyers disappearing after receiving options"
+      ],
+      "count": 1
+    },
+    "client-is-not-interested": {
+      "id": "client-is-not-interested",
+      "preferred": "client is not interested",
+      "aliases": [
+        "client is not interested"
+      ],
+      "count": 1
+    },
+    "fear-and-panic-in-the-property-market": {
+      "id": "fear-and-panic-in-the-property-market",
+      "preferred": "fear and panic in the property market",
+      "aliases": [
+        "fear and panic in the property market"
+      ],
+      "count": 1
+    },
+    "clients-ghosting-or-rejecting-agents": {
+      "id": "clients-ghosting-or-rejecting-agents",
+      "preferred": "clients ghosting or rejecting agents",
+      "aliases": [
+        "clients ghosting or rejecting agents"
+      ],
+      "count": 1
+    },
+    "buyer-thinks-the-market-has-stopped": {
+      "id": "buyer-thinks-the-market-has-stopped",
+      "preferred": "buyer thinks the market has stopped",
+      "aliases": [
+        "buyer thinks the market has stopped"
+      ],
+      "count": 1
+    },
+    "investors-unable-to-cash-out-of-payment-plans": {
+      "id": "investors-unable-to-cash-out-of-payment-plans",
+      "preferred": "investors unable to cash out of payment plans",
+      "aliases": [
+        "investors unable to cash out of payment plans"
+      ],
+      "count": 1
+    },
+    "fearful-buyers-during-market-uncertainty": {
+      "id": "fearful-buyers-during-market-uncertainty",
+      "preferred": "fearful buyers during market uncertainty",
+      "aliases": [
+        "fearful buyers during market uncertainty"
+      ],
+      "count": 1
+    },
+    "investor-waiting-for-market-bottom": {
+      "id": "investor-waiting-for-market-bottom",
+      "preferred": "investor waiting for market bottom",
+      "aliases": [
+        "investor waiting for market bottom"
+      ],
+      "count": 1
+    },
+    "feeling-judged-while-filming-in-public": {
+      "id": "feeling-judged-while-filming-in-public",
+      "preferred": "feeling judged while filming in public",
+      "aliases": [
+        "feeling judged while filming in public"
+      ],
+      "count": 1
+    },
+    "distinguishing-fake-developer-discounts-from-real-distress": {
+      "id": "distinguishing-fake-developer-discounts-from-real-distress",
+      "preferred": "distinguishing fake developer discounts from real distress",
+      "aliases": [
+        "distinguishing fake developer discounts from real distress"
+      ],
+      "count": 1
+    },
+    "making-offers-to-pressured-sellers": {
+      "id": "making-offers-to-pressured-sellers",
+      "preferred": "making offers to pressured sellers",
+      "aliases": [
+        "making offers to pressured sellers"
+      ],
+      "count": 1
+    },
+    "navigating-life-uncertainty": {
+      "id": "navigating-life-uncertainty",
+      "preferred": "navigating life uncertainty",
+      "aliases": [
+        "navigating life uncertainty"
+      ],
+      "count": 1
+    },
+    "client-says-dubai-is-oversupplied": {
+      "id": "client-says-dubai-is-oversupplied",
+      "preferred": "client says Dubai is oversupplied",
+      "aliases": [
+        "client says Dubai is oversupplied"
+      ],
+      "count": 1
+    },
+    "client-fears-oversupply-and-price-drops": {
+      "id": "client-fears-oversupply-and-price-drops",
+      "preferred": "client fears oversupply and price drops",
+      "aliases": [
+        "client fears oversupply and price drops"
+      ],
+      "count": 1
+    },
+    "market-uncertainty-and-delayed-projects": {
+      "id": "market-uncertainty-and-delayed-projects",
+      "preferred": "market uncertainty and delayed projects",
+      "aliases": [
+        "market uncertainty and delayed projects"
+      ],
+      "count": 1
+    },
+    "competing-agents-leaving-during-crisis": {
+      "id": "competing-agents-leaving-during-crisis",
+      "preferred": "competing agents leaving during crisis",
+      "aliases": [
+        "competing agents leaving during crisis"
+      ],
+      "count": 1
+    },
+    "fear-of-war-escalation-and-price-impact": {
+      "id": "fear-of-war-escalation-and-price-impact",
+      "preferred": "fear of war escalation and price impact",
+      "aliases": [
+        "fear of war escalation and price impact"
+      ],
+      "count": 1
+    },
+    "entering-market-during-uncertain-times": {
+      "id": "entering-market-during-uncertain-times",
+      "preferred": "entering market during uncertain times",
+      "aliases": [
+        "entering market during uncertain times"
+      ],
+      "count": 1
+    },
+    "client-objection": {
+      "id": "client-objection",
+      "preferred": "client objection",
+      "aliases": [
+        "client objection"
+      ],
+      "count": 1
+    },
+    "investors-relying-on-location-location-location-rule": {
+      "id": "investors-relying-on-location-location-location-rule",
+      "preferred": "investors relying on location location location rule",
+      "aliases": [
+        "investors relying on location location location rule"
+      ],
+      "count": 1
+    },
+    "buying-branded-off-plan-units-with-delays": {
+      "id": "buying-branded-off-plan-units-with-delays",
+      "preferred": "buying branded off-plan units with delays",
+      "aliases": [
+        "buying branded off-plan units with delays"
+      ],
+      "count": 1
+    },
+    "market-panic-and-war-uncertainty": {
+      "id": "market-panic-and-war-uncertainty",
+      "preferred": "market panic and war uncertainty",
+      "aliases": [
+        "market panic and war uncertainty"
+      ],
+      "count": 1
+    },
+    "client-expects-property-crash-due-to-war": {
+      "id": "client-expects-property-crash-due-to-war",
+      "preferred": "client expects property crash due to war",
+      "aliases": [
+        "client expects property crash due to war"
+      ],
+      "count": 1
+    },
+    "evaluating-country-financial-stability": {
+      "id": "evaluating-country-financial-stability",
+      "preferred": "evaluating country financial stability",
+      "aliases": [
+        "evaluating country financial stability"
+      ],
+      "count": 1
+    },
+    "client-hesitating-to-invest": {
+      "id": "client-hesitating-to-invest",
+      "preferred": "client hesitating to invest",
+      "aliases": [
+        "client hesitating to invest"
+      ],
+      "count": 1
+    },
+    "investor-risk-assessment": {
+      "id": "investor-risk-assessment",
+      "preferred": "investor risk assessment",
+      "aliases": [
+        "investor risk assessment"
+      ],
+      "count": 1
+    },
+    "market-uncertainty-and-price-drops": {
+      "id": "market-uncertainty-and-price-drops",
+      "preferred": "market uncertainty and price drops",
+      "aliases": [
+        "market uncertainty and price drops"
+      ],
+      "count": 1
+    },
+    "client-hesitation-due-to-regional-conflict": {
+      "id": "client-hesitation-due-to-regional-conflict",
+      "preferred": "client hesitation due to regional conflict",
+      "aliases": [
+        "client hesitation due to regional conflict"
+      ],
+      "count": 1
+    },
+    "client-delaying-investment-purchase": {
+      "id": "client-delaying-investment-purchase",
+      "preferred": "client delaying investment purchase",
+      "aliases": [
+        "client delaying investment purchase"
+      ],
+      "count": 1
+    },
+    "market-uncertainty-objection": {
+      "id": "market-uncertainty-objection",
+      "preferred": "market uncertainty objection",
+      "aliases": [
+        "market uncertainty objection"
+      ],
+      "count": 1
+    },
+    "qualifying-international-investors": {
+      "id": "qualifying-international-investors",
+      "preferred": "qualifying international investors",
+      "aliases": [
+        "qualifying international investors"
+      ],
+      "count": 1
+    },
+    "negotiating-in-a-buyer-s-market": {
+      "id": "negotiating-in-a-buyer-s-market",
+      "preferred": "negotiating in a buyer's market",
+      "aliases": [
+        "negotiating in a buyer's market"
+      ],
+      "count": 1
+    },
+    "clients-looking-outside-your-specialty-area": {
+      "id": "clients-looking-outside-your-specialty-area",
+      "preferred": "clients looking outside your specialty area",
+      "aliases": [
+        "clients looking outside your specialty area"
+      ],
+      "count": 1
+    },
+    "investor-expecting-one-property-to-provide-high-yield-growth": {
+      "id": "investor-expecting-one-property-to-provide-high-yield-growth",
+      "preferred": "investor expecting one property to provide high yield, growth, and safety",
+      "aliases": [
+        "investor expecting one property to provide high yield, growth, and safety"
+      ],
+      "count": 1
+    },
+    "investor-asking-for-the-best-area-in-dubai": {
+      "id": "investor-asking-for-the-best-area-in-dubai",
+      "preferred": "investor asking for the best area in Dubai",
+      "aliases": [
+        "investor asking for the best area in Dubai"
+      ],
+      "count": 1
+    },
+    "deal-drought": {
+      "id": "deal-drought",
+      "preferred": "deal drought",
+      "aliases": [
+        "deal drought"
+      ],
+      "count": 1
+    },
+    "buyer-s-market": {
+      "id": "buyer-s-market",
+      "preferred": "buyer's market",
+      "aliases": [
+        "buyer's market"
+      ],
+      "count": 1
+    },
+    "diversifying-lead-channels": {
+      "id": "diversifying-lead-channels",
+      "preferred": "diversifying lead channels",
+      "aliases": [
+        "diversifying lead channels"
+      ],
+      "count": 1
+    },
+    "falling-rents-and-off-plan-premium": {
+      "id": "falling-rents-and-off-plan-premium",
+      "preferred": "falling rents and off-plan premium",
+      "aliases": [
+        "falling rents and off-plan premium"
+      ],
+      "count": 1
+    },
+    "fear-of-a-2008-market-crash-repeating": {
+      "id": "fear-of-a-2008-market-crash-repeating",
+      "preferred": "fear of a 2008 market crash repeating",
+      "aliases": [
+        "fear of a 2008 market crash repeating"
+      ],
+      "count": 1
+    },
+    "navigating-a-market-correction": {
+      "id": "navigating-a-market-correction",
+      "preferred": "navigating a market correction",
+      "aliases": [
+        "navigating a market correction"
+      ],
+      "count": 1
+    },
+    "nervous-sellers-under-financial-pressure": {
+      "id": "nervous-sellers-under-financial-pressure",
+      "preferred": "nervous sellers under financial pressure",
+      "aliases": [
+        "nervous sellers under financial pressure"
+      ],
+      "count": 1
+    },
+    "lack-of-offers-forcing-price-reductions": {
+      "id": "lack-of-offers-forcing-price-reductions",
+      "preferred": "lack of offers forcing price reductions",
+      "aliases": [
+        "lack of offers forcing price reductions"
+      ],
+      "count": 1
+    },
+    "international-investors-seeking-tax-free-wealth-protection": {
+      "id": "international-investors-seeking-tax-free-wealth-protection",
+      "preferred": "international investors seeking tax-free wealth protection",
+      "aliases": [
+        "international investors seeking tax-free wealth protection"
+      ],
+      "count": 1
+    },
+    "vacant-furnished-units-facing-high-service-charges": {
+      "id": "vacant-furnished-units-facing-high-service-charges",
+      "preferred": "vacant furnished units facing high service charges",
+      "aliases": [
+        "vacant furnished units facing high service charges"
+      ],
+      "count": 1
+    },
+    "evaluating-dubai-property-market": {
+      "id": "evaluating-dubai-property-market",
+      "preferred": "evaluating Dubai property market",
+      "aliases": [
+        "evaluating Dubai property market"
+      ],
+      "count": 1
+    },
+    "analyzing-supply-growth-and-roi": {
+      "id": "analyzing-supply-growth-and-roi",
+      "preferred": "analyzing supply growth and ROI",
+      "aliases": [
+        "analyzing supply growth and ROI"
+      ],
+      "count": 1
+    },
+    "failing-to-execute-an-exit-strategy": {
+      "id": "failing-to-execute-an-exit-strategy",
+      "preferred": "failing to execute an exit strategy",
+      "aliases": [
+        "failing to execute an exit strategy"
+      ],
+      "count": 1
+    },
+    "selecting-a-real-estate-agent": {
+      "id": "selecting-a-real-estate-agent",
+      "preferred": "selecting a real estate agent",
+      "aliases": [
+        "selecting a real estate agent"
+      ],
+      "count": 1
+    },
+    "assessing-property-investment-risks": {
+      "id": "assessing-property-investment-risks",
+      "preferred": "assessing property investment risks",
+      "aliases": [
+        "assessing property investment risks"
+      ],
+      "count": 1
+    },
+    "client-asks-to-send-options": {
+      "id": "client-asks-to-send-options",
+      "preferred": "client asks to send options",
+      "aliases": [
+        "client asks to send options"
+      ],
+      "count": 1
+    },
+    "premature-pitch-assumptions": {
+      "id": "premature-pitch-assumptions",
+      "preferred": "premature pitch assumptions",
+      "aliases": [
+        "premature pitch assumptions"
+      ],
+      "count": 1
+    },
+    "pitching-market-stability-and-tax-advantages": {
+      "id": "pitching-market-stability-and-tax-advantages",
+      "preferred": "pitching market stability and tax advantages",
+      "aliases": [
+        "pitching market stability and tax advantages"
+      ],
+      "count": 1
+    },
+    "fear-of-property-market-crash": {
+      "id": "fear-of-property-market-crash",
+      "preferred": "fear of property market crash",
+      "aliases": [
+        "fear of property market crash"
+      ],
+      "count": 1
+    },
+    "analyzing-price-drops-and-supply-trends": {
+      "id": "analyzing-price-drops-and-supply-trends",
+      "preferred": "analyzing price drops and supply trends",
+      "aliases": [
+        "analyzing price drops and supply trends"
+      ],
+      "count": 1
+    },
+    "evaluating-seller-hesitations-and-rental-growth": {
+      "id": "evaluating-seller-hesitations-and-rental-growth",
+      "preferred": "evaluating seller hesitations and rental growth",
+      "aliases": [
+        "evaluating seller hesitations and rental growth"
+      ],
+      "count": 1
+    },
+    "investors-unable-to-flip-before-handover": {
+      "id": "investors-unable-to-flip-before-handover",
+      "preferred": "investors unable to flip before handover",
+      "aliases": [
+        "investors unable to flip before handover"
+      ],
+      "count": 1
+    },
+    "navigating-delivery-surges-and-financing": {
+      "id": "navigating-delivery-surges-and-financing",
+      "preferred": "navigating delivery surges and financing",
+      "aliases": [
+        "navigating delivery surges and financing"
+      ],
+      "count": 1
+    },
+    "deciding-whether-to-buy-hold-or-sell": {
+      "id": "deciding-whether-to-buy-hold-or-sell",
+      "preferred": "deciding whether to buy, hold, or sell",
+      "aliases": [
+        "deciding whether to buy, hold, or sell"
+      ],
+      "count": 1
+    }
+  },
+  "topic": {
+    "lead-qualification": {
+      "id": "lead-qualification",
+      "preferred": "lead qualification",
+      "aliases": [
+        "lead qualification"
+      ],
+      "count": 6
+    },
+    "cold-calling": {
+      "id": "cold-calling",
+      "preferred": "cold calling",
+      "aliases": [
+        "cold calling"
+      ],
+      "count": 5
+    },
+    "mindset": {
+      "id": "mindset",
+      "preferred": "mindset",
+      "aliases": [
+        "mindset"
+      ],
+      "count": 5
+    },
+    "objection-handling": {
+      "id": "objection-handling",
+      "preferred": "objection handling",
+      "aliases": [
+        "objection handling"
+      ],
+      "count": 4
+    },
+    "decision-making-funnel": {
+      "id": "decision-making-funnel",
+      "preferred": "decision-making funnel",
+      "aliases": [
+        "decision making funnel",
+        "decision-making funnel"
+      ],
+      "count": 3
+    },
+    "lead-generation": {
+      "id": "lead-generation",
+      "preferred": "lead generation",
+      "aliases": [
+        "lead generation"
+      ],
+      "count": 3
+    },
+    "sales-training": {
+      "id": "sales-training",
+      "preferred": "sales training",
+      "aliases": [
+        "sales training"
+      ],
+      "count": 3
+    },
+    "real-estate-agent-training": {
+      "id": "real-estate-agent-training",
+      "preferred": "real estate agent training",
+      "aliases": [
+        "real estate agent training"
+      ],
+      "count": 3
+    },
+    "client-decision-making-funnel": {
+      "id": "client-decision-making-funnel",
+      "preferred": "client decision-making funnel",
+      "aliases": [
+        "client decision stages",
+        "client decision-making funnel"
+      ],
+      "count": 3
+    },
+    "distressed-deals": {
+      "id": "distressed-deals",
+      "preferred": "distressed deals",
+      "aliases": [
+        "distress deals",
+        "distressed deals"
+      ],
+      "count": 3
+    },
+    "neuro-emotional-persuasion": {
+      "id": "neuro-emotional-persuasion",
+      "preferred": "neuro emotional persuasion",
+      "aliases": [
+        "neuro emotional persuasion",
+        "neuro-emotional persuasion",
+        "neuroemotional persuasion"
+      ],
+      "count": 3
+    },
+    "off-plan-vs-secondary": {
+      "id": "off-plan-vs-secondary",
+      "preferred": "off-plan vs secondary",
+      "aliases": [
+        "off-plan vs secondary",
+        "secondary market vs off-plan"
+      ],
+      "count": 3
+    },
+    "off-plan-sales": {
+      "id": "off-plan-sales",
+      "preferred": "off-plan sales",
+      "aliases": [
+        "off-plan deals",
+        "off-plan sales"
+      ],
+      "count": 3
+    },
+    "video-editing-hiring": {
+      "id": "video-editing-hiring",
+      "preferred": "video editing hiring",
+      "aliases": [
+        "video editing hiring"
+      ],
+      "count": 2
+    },
+    "buyer-psychology": {
+      "id": "buyer-psychology",
+      "preferred": "buyer psychology",
+      "aliases": [
+        "buyer psychology"
+      ],
+      "count": 2
+    },
+    "imposter-syndrome": {
+      "id": "imposter-syndrome",
+      "preferred": "imposter syndrome",
+      "aliases": [
+        "imposter syndrome"
+      ],
+      "count": 2
+    },
+    "negotiation-tactics": {
+      "id": "negotiation-tactics",
+      "preferred": "negotiation tactics",
+      "aliases": [
+        "negotiation tactics"
+      ],
+      "count": 2
+    },
+    "gratitude": {
+      "id": "gratitude",
+      "preferred": "gratitude",
+      "aliases": [
+        "gratitude"
+      ],
+      "count": 2
+    },
+    "time-management": {
+      "id": "time-management",
+      "preferred": "time management",
+      "aliases": [
+        "time management"
+      ],
+      "count": 2
+    },
+    "market-downturn-strategy": {
+      "id": "market-downturn-strategy",
+      "preferred": "market downturn strategy",
+      "aliases": [
+        "market downturn strategy"
+      ],
+      "count": 2
+    },
+    "agent-mindset": {
+      "id": "agent-mindset",
+      "preferred": "agent mindset",
+      "aliases": [
+        "agent mindset"
+      ],
+      "count": 2
+    },
+    "lead-conversion": {
+      "id": "lead-conversion",
+      "preferred": "lead conversion",
+      "aliases": [
+        "lead conversion"
+      ],
+      "count": 2
+    },
+    "client-qualification": {
+      "id": "client-qualification",
+      "preferred": "client qualification",
+      "aliases": [
+        "client qualification"
+      ],
+      "count": 2
+    },
+    "developer-and-location-selection": {
+      "id": "developer-and-location-selection",
+      "preferred": "developer and location selection",
+      "aliases": [
+        "developer and location selection"
+      ],
+      "count": 2
+    },
+    "developer-risk": {
+      "id": "developer-risk",
+      "preferred": "developer risk",
+      "aliases": [
+        "developer risk"
+      ],
+      "count": 2
+    },
+    "market-correction": {
+      "id": "market-correction",
+      "preferred": "market correction",
+      "aliases": [
+        "market correction"
+      ],
+      "count": 2
+    },
+    "market-shift": {
+      "id": "market-shift",
+      "preferred": "market shift",
+      "aliases": [
+        "market shift",
+        "market shifts"
+      ],
+      "count": 2
+    },
+    "off-plan-resales": {
+      "id": "off-plan-resales",
+      "preferred": "off-plan resales",
+      "aliases": [
+        "off-plan resales"
+      ],
+      "count": 2
+    },
+    "closing-sales": {
+      "id": "closing-sales",
+      "preferred": "closing sales",
+      "aliases": [
+        "closing sales",
+        "deal closing"
+      ],
+      "count": 2
+    },
+    "personal-development": {
+      "id": "personal-development",
+      "preferred": "personal development",
+      "aliases": [
+        "personal development",
+        "personal growth"
+      ],
+      "count": 2
+    },
+    "market-downturn-navigation": {
+      "id": "market-downturn-navigation",
+      "preferred": "market downturn navigation",
+      "aliases": [
+        "market downturn navigation"
+      ],
+      "count": 1
+    },
+    "market-uncertainty-strategies": {
+      "id": "market-uncertainty-strategies",
+      "preferred": "market uncertainty strategies",
+      "aliases": [
+        "market uncertainty strategies"
+      ],
+      "count": 1
+    },
+    "market-opportunities": {
+      "id": "market-opportunities",
+      "preferred": "market opportunities",
+      "aliases": [
+        "market opportunities"
+      ],
+      "count": 1
+    },
+    "market-momentum": {
+      "id": "market-momentum",
+      "preferred": "market momentum",
+      "aliases": [
+        "market momentum"
+      ],
+      "count": 1
+    },
+    "fitness-mindset": {
+      "id": "fitness-mindset",
+      "preferred": "fitness mindset",
+      "aliases": [
+        "fitness mindset"
+      ],
+      "count": 1
+    },
+    "perceived-authority": {
+      "id": "perceived-authority",
+      "preferred": "perceived authority",
+      "aliases": [
+        "perceived authority"
+      ],
+      "count": 1
+    },
+    "scheduling-strategy": {
+      "id": "scheduling-strategy",
+      "preferred": "scheduling strategy",
+      "aliases": [
+        "scheduling strategy"
+      ],
+      "count": 1
+    },
+    "filming-in-public": {
+      "id": "filming-in-public",
+      "preferred": "filming in public",
+      "aliases": [
+        "filming in public"
+      ],
+      "count": 1
+    },
+    "motivation": {
+      "id": "motivation",
+      "preferred": "motivation",
+      "aliases": [
+        "motivation"
+      ],
+      "count": 1
+    },
+    "self-reflection": {
+      "id": "self-reflection",
+      "preferred": "self-reflection",
+      "aliases": [
+        "self-reflection"
+      ],
+      "count": 1
+    },
+    "client-journey": {
+      "id": "client-journey",
+      "preferred": "client journey",
+      "aliases": [
+        "client journey"
+      ],
+      "count": 1
+    },
+    "brokerage-support": {
+      "id": "brokerage-support",
+      "preferred": "brokerage support",
+      "aliases": [
+        "brokerage support"
+      ],
+      "count": 1
+    },
+    "structure-and-habits": {
+      "id": "structure-and-habits",
+      "preferred": "structure and habits",
+      "aliases": [
+        "structure and habits"
+      ],
+      "count": 1
+    },
+    "problem-solving-and-usefulness": {
+      "id": "problem-solving-and-usefulness",
+      "preferred": "problem solving and usefulness",
+      "aliases": [
+        "problem solving and usefulness"
+      ],
+      "count": 1
+    },
+    "selective-attention": {
+      "id": "selective-attention",
+      "preferred": "selective attention",
+      "aliases": [
+        "selective attention"
+      ],
+      "count": 1
+    },
+    "real-estate-sales-coaching": {
+      "id": "real-estate-sales-coaching",
+      "preferred": "real estate sales coaching",
+      "aliases": [
+        "real estate sales coaching"
+      ],
+      "count": 1
+    },
+    "contrarian-investing": {
+      "id": "contrarian-investing",
+      "preferred": "contrarian investing",
+      "aliases": [
+        "contrarian investing"
+      ],
+      "count": 1
+    },
+    "saudi-real-estate-market": {
+      "id": "saudi-real-estate-market",
+      "preferred": "Saudi real estate market",
+      "aliases": [
+        "Saudi real estate market"
+      ],
+      "count": 1
+    },
+    "broker-commissions": {
+      "id": "broker-commissions",
+      "preferred": "broker commissions",
+      "aliases": [
+        "broker commissions"
+      ],
+      "count": 1
+    },
+    "financial-triggers": {
+      "id": "financial-triggers",
+      "preferred": "financial triggers",
+      "aliases": [
+        "financial triggers"
+      ],
+      "count": 1
+    },
+    "real-estate-recruitment": {
+      "id": "real-estate-recruitment",
+      "preferred": "real estate recruitment",
+      "aliases": [
+        "real estate recruitment"
+      ],
+      "count": 1
+    },
+    "sales-skills": {
+      "id": "sales-skills",
+      "preferred": "sales skills",
+      "aliases": [
+        "sales skills"
+      ],
+      "count": 1
+    },
+    "video-content-creation": {
+      "id": "video-content-creation",
+      "preferred": "video content creation",
+      "aliases": [
+        "video content creation"
+      ],
+      "count": 1
+    },
+    "lead-nurturing": {
+      "id": "lead-nurturing",
+      "preferred": "lead nurturing",
+      "aliases": [
+        "lead nurturing"
+      ],
+      "count": 1
+    },
+    "sales-tactics": {
+      "id": "sales-tactics",
+      "preferred": "sales tactics",
+      "aliases": [
+        "sales tactics"
+      ],
+      "count": 1
+    },
+    "client-matching": {
+      "id": "client-matching",
+      "preferred": "client matching",
+      "aliases": [
+        "client matching"
+      ],
+      "count": 1
+    },
+    "property-data-accuracy": {
+      "id": "property-data-accuracy",
+      "preferred": "property data accuracy",
+      "aliases": [
+        "property data accuracy"
+      ],
+      "count": 1
+    },
+    "client-motivation": {
+      "id": "client-motivation",
+      "preferred": "client motivation",
+      "aliases": [
+        "client motivation"
+      ],
+      "count": 1
+    },
+    "client-communication": {
+      "id": "client-communication",
+      "preferred": "client communication",
+      "aliases": [
+        "client communication"
+      ],
+      "count": 1
+    },
+    "aging-and-personal-growth": {
+      "id": "aging-and-personal-growth",
+      "preferred": "aging and personal growth",
+      "aliases": [
+        "aging and personal growth"
+      ],
+      "count": 1
+    },
+    "market-crash-risk": {
+      "id": "market-crash-risk",
+      "preferred": "market crash risk",
+      "aliases": [
+        "market crash risk"
+      ],
+      "count": 1
+    },
+    "property-investment-evaluation": {
+      "id": "property-investment-evaluation",
+      "preferred": "property investment evaluation",
+      "aliases": [
+        "property investment evaluation"
+      ],
+      "count": 1
+    },
+    "market-cycles-and-hyper-supply": {
+      "id": "market-cycles-and-hyper-supply",
+      "preferred": "market cycles and hyper supply",
+      "aliases": [
+        "market cycles and hyper supply"
+      ],
+      "count": 1
+    },
+    "unleash-the-power-within": {
+      "id": "unleash-the-power-within",
+      "preferred": "Unleash the Power Within",
+      "aliases": [
+        "Unleash the Power Within"
+      ],
+      "count": 1
+    },
+    "personal-development-events": {
+      "id": "personal-development-events",
+      "preferred": "personal development events",
+      "aliases": [
+        "personal development events"
+      ],
+      "count": 1
+    },
+    "2008-market-crash": {
+      "id": "2008-market-crash",
+      "preferred": "2008 market crash",
+      "aliases": [
+        "2008 market crash"
+      ],
+      "count": 1
+    },
+    "state-management": {
+      "id": "state-management",
+      "preferred": "state management",
+      "aliases": [
+        "state management"
+      ],
+      "count": 1
+    },
+    "team-building": {
+      "id": "team-building",
+      "preferred": "team building",
+      "aliases": [
+        "team building"
+      ],
+      "count": 1
+    },
+    "leadership": {
+      "id": "leadership",
+      "preferred": "leadership",
+      "aliases": [
+        "leadership"
+      ],
+      "count": 1
+    },
+    "self-reflection-and-acceptance": {
+      "id": "self-reflection-and-acceptance",
+      "preferred": "self-reflection and acceptance",
+      "aliases": [
+        "self-reflection and acceptance"
+      ],
+      "count": 1
+    },
+    "mindset-shift": {
+      "id": "mindset-shift",
+      "preferred": "mindset shift",
+      "aliases": [
+        "mindset shift"
+      ],
+      "count": 1
+    },
+    "strategy-change": {
+      "id": "strategy-change",
+      "preferred": "strategy change",
+      "aliases": [
+        "strategy change"
+      ],
+      "count": 1
+    },
+    "broker-briefings": {
+      "id": "broker-briefings",
+      "preferred": "broker briefings",
+      "aliases": [
+        "broker briefings"
+      ],
+      "count": 1
+    },
+    "earning-in-different-market-conditions": {
+      "id": "earning-in-different-market-conditions",
+      "preferred": "earning in different market conditions",
+      "aliases": [
+        "earning in different market conditions"
+      ],
+      "count": 1
+    },
+    "motivation-and-deal-flow": {
+      "id": "motivation-and-deal-flow",
+      "preferred": "motivation and deal flow",
+      "aliases": [
+        "motivation and deal flow"
+      ],
+      "count": 1
+    },
+    "handling-client-panic": {
+      "id": "handling-client-panic",
+      "preferred": "handling client panic",
+      "aliases": [
+        "handling client panic"
+      ],
+      "count": 1
+    },
+    "client-respect-and-boundaries": {
+      "id": "client-respect-and-boundaries",
+      "preferred": "client respect and boundaries",
+      "aliases": [
+        "client respect and boundaries"
+      ],
+      "count": 1
+    },
+    "uncertainty": {
+      "id": "uncertainty",
+      "preferred": "uncertainty",
+      "aliases": [
+        "uncertainty"
+      ],
+      "count": 1
+    },
+    "unpaid-commissions": {
+      "id": "unpaid-commissions",
+      "preferred": "unpaid commissions",
+      "aliases": [
+        "unpaid commissions"
+      ],
+      "count": 1
+    },
+    "price-reduction-strategies": {
+      "id": "price-reduction-strategies",
+      "preferred": "price reduction strategies",
+      "aliases": [
+        "price reduction strategies"
+      ],
+      "count": 1
+    },
+    "relocating-to-dubai": {
+      "id": "relocating-to-dubai",
+      "preferred": "relocating to Dubai",
+      "aliases": [
+        "relocating to Dubai"
+      ],
+      "count": 1
+    },
+    "sales-team-culture-and-retention": {
+      "id": "sales-team-culture-and-retention",
+      "preferred": "sales team culture and retention",
+      "aliases": [
+        "sales team culture and retention"
+      ],
+      "count": 1
+    },
+    "personal-branding-for-lead-generation": {
+      "id": "personal-branding-for-lead-generation",
+      "preferred": "personal branding for lead generation",
+      "aliases": [
+        "personal branding for lead generation"
+      ],
+      "count": 1
+    },
+    "lead-conversion-vs-sales-mentorship": {
+      "id": "lead-conversion-vs-sales-mentorship",
+      "preferred": "lead conversion vs sales mentorship",
+      "aliases": [
+        "lead conversion vs sales mentorship"
+      ],
+      "count": 1
+    },
+    "youtube-growth-strategy": {
+      "id": "youtube-growth-strategy",
+      "preferred": "YouTube growth strategy",
+      "aliases": [
+        "YouTube growth strategy"
+      ],
+      "count": 1
+    },
+    "market-adaptation": {
+      "id": "market-adaptation",
+      "preferred": "market adaptation",
+      "aliases": [
+        "market adaptation"
+      ],
+      "count": 1
+    },
+    "language-barrier": {
+      "id": "language-barrier",
+      "preferred": "language barrier",
+      "aliases": [
+        "language barrier"
+      ],
+      "count": 1
+    },
+    "target-demographic": {
+      "id": "target-demographic",
+      "preferred": "target demographic",
+      "aliases": [
+        "target demographic"
+      ],
+      "count": 1
+    },
+    "questioning-frameworks": {
+      "id": "questioning-frameworks",
+      "preferred": "questioning frameworks",
+      "aliases": [
+        "questioning frameworks"
+      ],
+      "count": 1
+    },
+    "visual-contrast-strategy": {
+      "id": "visual-contrast-strategy",
+      "preferred": "visual contrast strategy",
+      "aliases": [
+        "visual contrast strategy"
+      ],
+      "count": 1
+    },
+    "agent-training-and-mentorship": {
+      "id": "agent-training-and-mentorship",
+      "preferred": "agent training and mentorship",
+      "aliases": [
+        "agent training and mentorship"
+      ],
+      "count": 1
+    },
+    "listing-based-business": {
+      "id": "listing-based-business",
+      "preferred": "listing-based business",
+      "aliases": [
+        "listing-based business"
+      ],
+      "count": 1
+    },
+    "negotiation-skills": {
+      "id": "negotiation-skills",
+      "preferred": "negotiation skills",
+      "aliases": [
+        "negotiation skills"
+      ],
+      "count": 1
+    },
+    "2-year-property-owner-visa": {
+      "id": "2-year-property-owner-visa",
+      "preferred": "2-year property owner visa",
+      "aliases": [
+        "2-year property owner visa"
+      ],
+      "count": 1
+    },
+    "sales-management-hiring": {
+      "id": "sales-management-hiring",
+      "preferred": "sales management hiring",
+      "aliases": [
+        "sales management hiring"
+      ],
+      "count": 1
+    },
+    "sales-coaching": {
+      "id": "sales-coaching",
+      "preferred": "sales coaching",
+      "aliases": [
+        "sales coaching"
+      ],
+      "count": 1
+    },
+    "career-reinvention": {
+      "id": "career-reinvention",
+      "preferred": "career reinvention",
+      "aliases": [
+        "career reinvention"
+      ],
+      "count": 1
+    },
+    "founding-an-agency": {
+      "id": "founding-an-agency",
+      "preferred": "founding an agency",
+      "aliases": [
+        "founding an agency"
+      ],
+      "count": 1
+    },
+    "lead-conversion-strategy": {
+      "id": "lead-conversion-strategy",
+      "preferred": "lead conversion strategy",
+      "aliases": [
+        "lead conversion strategy"
+      ],
+      "count": 1
+    },
+    "cold-outreach-messaging": {
+      "id": "cold-outreach-messaging",
+      "preferred": "cold outreach messaging",
+      "aliases": [
+        "cold outreach messaging"
+      ],
+      "count": 1
+    },
+    "ai-disruption-in-hr-and-recruitment": {
+      "id": "ai-disruption-in-hr-and-recruitment",
+      "preferred": "AI disruption in HR and recruitment",
+      "aliases": [
+        "AI disruption in HR and recruitment"
+      ],
+      "count": 1
+    },
+    "ai-generated-outreach": {
+      "id": "ai-generated-outreach",
+      "preferred": "AI-generated outreach",
+      "aliases": [
+        "AI-generated outreach"
+      ],
+      "count": 1
+    },
+    "agent-complaints": {
+      "id": "agent-complaints",
+      "preferred": "agent complaints",
+      "aliases": [
+        "agent complaints"
+      ],
+      "count": 1
+    },
+    "client-commitment": {
+      "id": "client-commitment",
+      "preferred": "client commitment",
+      "aliases": [
+        "client commitment"
+      ],
+      "count": 1
+    },
+    "proptech-product-market-fit": {
+      "id": "proptech-product-market-fit",
+      "preferred": "PropTech product-market fit",
+      "aliases": [
+        "PropTech product-market fit"
+      ],
+      "count": 1
+    },
+    "agent-commissions": {
+      "id": "agent-commissions",
+      "preferred": "agent commissions",
+      "aliases": [
+        "agent commissions"
+      ],
+      "count": 1
+    },
+    "closing-system": {
+      "id": "closing-system",
+      "preferred": "closing system",
+      "aliases": [
+        "closing system"
+      ],
+      "count": 1
+    },
+    "ai-generated-dms": {
+      "id": "ai-generated-dms",
+      "preferred": "AI generated DMs",
+      "aliases": [
+        "AI generated DMs"
+      ],
+      "count": 1
+    },
+    "coaching-academy-milestone": {
+      "id": "coaching-academy-milestone",
+      "preferred": "coaching academy milestone",
+      "aliases": [
+        "coaching academy milestone"
+      ],
+      "count": 1
+    },
+    "content-strategy": {
+      "id": "content-strategy",
+      "preferred": "content strategy",
+      "aliases": [
+        "content strategy"
+      ],
+      "count": 1
+    },
+    "communication-skills-under-pressure": {
+      "id": "communication-skills-under-pressure",
+      "preferred": "communication skills under pressure",
+      "aliases": [
+        "communication skills under pressure"
+      ],
+      "count": 1
+    },
+    "pitching": {
+      "id": "pitching",
+      "preferred": "pitching",
+      "aliases": [
+        "pitching"
+      ],
+      "count": 1
+    },
+    "client-reputation-and-google-reviews": {
+      "id": "client-reputation-and-google-reviews",
+      "preferred": "client reputation and google reviews",
+      "aliases": [
+        "client reputation and google reviews"
+      ],
+      "count": 1
+    },
+    "client-follow-up": {
+      "id": "client-follow-up",
+      "preferred": "client follow-up",
+      "aliases": [
+        "client follow-up"
+      ],
+      "count": 1
+    },
+    "re-engagement-questions": {
+      "id": "re-engagement-questions",
+      "preferred": "re-engagement questions",
+      "aliases": [
+        "re-engagement questions"
+      ],
+      "count": 1
+    },
+    "overcoming-objections": {
+      "id": "overcoming-objections",
+      "preferred": "overcoming objections",
+      "aliases": [
+        "overcoming objections"
+      ],
+      "count": 1
+    },
+    "market-knowledge": {
+      "id": "market-knowledge",
+      "preferred": "market knowledge",
+      "aliases": [
+        "market knowledge"
+      ],
+      "count": 1
+    },
+    "sales-mentoring": {
+      "id": "sales-mentoring",
+      "preferred": "sales mentoring",
+      "aliases": [
+        "sales mentoring"
+      ],
+      "count": 1
+    },
+    "agent-headcount-trends": {
+      "id": "agent-headcount-trends",
+      "preferred": "agent headcount trends",
+      "aliases": [
+        "agent headcount trends"
+      ],
+      "count": 1
+    },
+    "proptech-b2b-failure-cycle": {
+      "id": "proptech-b2b-failure-cycle",
+      "preferred": "proptech B2B failure cycle",
+      "aliases": [
+        "proptech B2B failure cycle"
+      ],
+      "count": 1
+    },
+    "proptech-b2c-failure-cycle": {
+      "id": "proptech-b2c-failure-cycle",
+      "preferred": "proptech B2C failure cycle",
+      "aliases": [
+        "proptech B2C failure cycle"
+      ],
+      "count": 1
+    },
+    "sales-pressure-tactics": {
+      "id": "sales-pressure-tactics",
+      "preferred": "sales pressure tactics",
+      "aliases": [
+        "sales pressure tactics"
+      ],
+      "count": 1
+    },
+    "active-listening": {
+      "id": "active-listening",
+      "preferred": "active listening",
+      "aliases": [
+        "active listening"
+      ],
+      "count": 1
+    },
+    "product-knowledge": {
+      "id": "product-knowledge",
+      "preferred": "product knowledge",
+      "aliases": [
+        "product knowledge"
+      ],
+      "count": 1
+    },
+    "market-mindset": {
+      "id": "market-mindset",
+      "preferred": "market mindset",
+      "aliases": [
+        "market mindset"
+      ],
+      "count": 1
+    },
+    "market-reframing": {
+      "id": "market-reframing",
+      "preferred": "market reframing",
+      "aliases": [
+        "market reframing"
+      ],
+      "count": 1
+    },
+    "investment-strategy-shift": {
+      "id": "investment-strategy-shift",
+      "preferred": "investment strategy shift",
+      "aliases": [
+        "investment strategy shift"
+      ],
+      "count": 1
+    },
+    "off-plan-developments": {
+      "id": "off-plan-developments",
+      "preferred": "off-plan developments",
+      "aliases": [
+        "off-plan developments"
+      ],
+      "count": 1
+    },
+    "property-market-resilience": {
+      "id": "property-market-resilience",
+      "preferred": "property market resilience",
+      "aliases": [
+        "property market resilience"
+      ],
+      "count": 1
+    },
+    "lead-engagement": {
+      "id": "lead-engagement",
+      "preferred": "lead engagement",
+      "aliases": [
+        "lead engagement"
+      ],
+      "count": 1
+    },
+    "client-trust": {
+      "id": "client-trust",
+      "preferred": "client trust",
+      "aliases": [
+        "client trust"
+      ],
+      "count": 1
+    },
+    "usefulness-over-emotion": {
+      "id": "usefulness-over-emotion",
+      "preferred": "usefulness over emotion",
+      "aliases": [
+        "usefulness over emotion"
+      ],
+      "count": 1
+    },
+    "developer-risk-vs-market-risk": {
+      "id": "developer-risk-vs-market-risk",
+      "preferred": "developer risk vs market risk",
+      "aliases": [
+        "developer risk vs market risk"
+      ],
+      "count": 1
+    },
+    "off-plan-developer-solvency": {
+      "id": "off-plan-developer-solvency",
+      "preferred": "off-plan developer solvency",
+      "aliases": [
+        "off-plan developer solvency"
+      ],
+      "count": 1
+    },
+    "developer-inventory-absorption": {
+      "id": "developer-inventory-absorption",
+      "preferred": "developer inventory absorption",
+      "aliases": [
+        "developer inventory absorption"
+      ],
+      "count": 1
+    },
+    "construction-quality-risks": {
+      "id": "construction-quality-risks",
+      "preferred": "construction quality risks",
+      "aliases": [
+        "construction quality risks"
+      ],
+      "count": 1
+    },
+    "investor-financial-qualification": {
+      "id": "investor-financial-qualification",
+      "preferred": "investor financial qualification",
+      "aliases": [
+        "investor financial qualification"
+      ],
+      "count": 1
+    },
+    "off-plan-investing": {
+      "id": "off-plan-investing",
+      "preferred": "off-plan investing",
+      "aliases": [
+        "off-plan investing"
+      ],
+      "count": 1
+    },
+    "camera-confidence": {
+      "id": "camera-confidence",
+      "preferred": "camera confidence",
+      "aliases": [
+        "camera confidence"
+      ],
+      "count": 1
+    },
+    "developer-reliability": {
+      "id": "developer-reliability",
+      "preferred": "developer reliability",
+      "aliases": [
+        "developer reliability"
+      ],
+      "count": 1
+    },
+    "persuasion": {
+      "id": "persuasion",
+      "preferred": "persuasion",
+      "aliases": [
+        "persuasion"
+      ],
+      "count": 1
+    },
+    "unusual-weather": {
+      "id": "unusual-weather",
+      "preferred": "unusual weather",
+      "aliases": [
+        "unusual weather"
+      ],
+      "count": 1
+    },
+    "seller-psychology": {
+      "id": "seller-psychology",
+      "preferred": "seller psychology",
+      "aliases": [
+        "seller psychology"
+      ],
+      "count": 1
+    },
+    "negotiation-strategy": {
+      "id": "negotiation-strategy",
+      "preferred": "negotiation strategy",
+      "aliases": [
+        "negotiation strategy"
+      ],
+      "count": 1
+    },
+    "structure-over-confidence": {
+      "id": "structure-over-confidence",
+      "preferred": "structure over confidence",
+      "aliases": [
+        "structure over confidence"
+      ],
+      "count": 1
+    },
+    "off-plan-real-estate": {
+      "id": "off-plan-real-estate",
+      "preferred": "off-plan real estate",
+      "aliases": [
+        "off-plan real estate"
+      ],
+      "count": 1
+    },
+    "construction-delivery-rates": {
+      "id": "construction-delivery-rates",
+      "preferred": "construction delivery rates",
+      "aliases": [
+        "construction delivery rates"
+      ],
+      "count": 1
+    },
+    "market-absorption": {
+      "id": "market-absorption",
+      "preferred": "market absorption",
+      "aliases": [
+        "market absorption"
+      ],
+      "count": 1
+    },
+    "persuasion-questions": {
+      "id": "persuasion-questions",
+      "preferred": "persuasion questions",
+      "aliases": [
+        "persuasion questions"
+      ],
+      "count": 1
+    },
+    "agency-selection": {
+      "id": "agency-selection",
+      "preferred": "agency selection",
+      "aliases": [
+        "agency selection"
+      ],
+      "count": 1
+    },
+    "brokerage-interviews": {
+      "id": "brokerage-interviews",
+      "preferred": "brokerage interviews",
+      "aliases": [
+        "brokerage interviews"
+      ],
+      "count": 1
+    },
+    "rera-certification": {
+      "id": "rera-certification",
+      "preferred": "RERA certification",
+      "aliases": [
+        "RERA certification"
+      ],
+      "count": 1
+    },
+    "secondary-market": {
+      "id": "secondary-market",
+      "preferred": "secondary market",
+      "aliases": [
+        "secondary market"
+      ],
+      "count": 1
+    },
+    "commission-timelines": {
+      "id": "commission-timelines",
+      "preferred": "commission timelines",
+      "aliases": [
+        "commission timelines"
+      ],
+      "count": 1
+    },
+    "sales-psychology": {
+      "id": "sales-psychology",
+      "preferred": "sales psychology",
+      "aliases": [
+        "sales psychology"
+      ],
+      "count": 1
+    },
+    "conversion-rates": {
+      "id": "conversion-rates",
+      "preferred": "conversion rates",
+      "aliases": [
+        "conversion rates"
+      ],
+      "count": 1
+    },
+    "sales-mindset": {
+      "id": "sales-mindset",
+      "preferred": "sales mindset",
+      "aliases": [
+        "sales mindset"
+      ],
+      "count": 1
+    },
+    "rapport-building": {
+      "id": "rapport-building",
+      "preferred": "rapport building",
+      "aliases": [
+        "rapport building"
+      ],
+      "count": 1
+    },
+    "sales-follow-up": {
+      "id": "sales-follow-up",
+      "preferred": "sales follow-up",
+      "aliases": [
+        "sales follow-up"
+      ],
+      "count": 1
+    },
+    "buyer-awareness-stages": {
+      "id": "buyer-awareness-stages",
+      "preferred": "buyer awareness stages",
+      "aliases": [
+        "buyer awareness stages"
+      ],
+      "count": 1
+    },
+    "transactional-analysis": {
+      "id": "transactional-analysis",
+      "preferred": "transactional analysis",
+      "aliases": [
+        "transactional analysis"
+      ],
+      "count": 1
+    },
+    "authority-positioning": {
+      "id": "authority-positioning",
+      "preferred": "authority positioning",
+      "aliases": [
+        "authority positioning"
+      ],
+      "count": 1
+    },
+    "urgency-creation": {
+      "id": "urgency-creation",
+      "preferred": "urgency creation",
+      "aliases": [
+        "urgency creation"
+      ],
+      "count": 1
+    },
+    "confidence-building": {
+      "id": "confidence-building",
+      "preferred": "confidence building",
+      "aliases": [
+        "confidence building"
+      ],
+      "count": 1
+    },
+    "pattern-interrupt": {
+      "id": "pattern-interrupt",
+      "preferred": "pattern interrupt",
+      "aliases": [
+        "pattern interrupt"
+      ],
+      "count": 1
+    },
+    "sales-identity": {
+      "id": "sales-identity",
+      "preferred": "sales identity",
+      "aliases": [
+        "sales identity"
+      ],
+      "count": 1
+    },
+    "urban-planning-and-polycentric-growth": {
+      "id": "urban-planning-and-polycentric-growth",
+      "preferred": "urban planning and polycentric growth",
+      "aliases": [
+        "urban planning and polycentric growth"
+      ],
+      "count": 1
+    },
+    "road-infrastructure-and-district-access": {
+      "id": "road-infrastructure-and-district-access",
+      "preferred": "road infrastructure and district access",
+      "aliases": [
+        "road infrastructure and district access"
+      ],
+      "count": 1
+    },
+    "investment-due-diligence": {
+      "id": "investment-due-diligence",
+      "preferred": "investment due diligence",
+      "aliases": [
+        "investment due diligence"
+      ],
+      "count": 1
+    },
+    "strategy-customization": {
+      "id": "strategy-customization",
+      "preferred": "strategy customization",
+      "aliases": [
+        "strategy customization"
+      ],
+      "count": 1
+    },
+    "buyer-mindset-and-positioning": {
+      "id": "buyer-mindset-and-positioning",
+      "preferred": "buyer mindset and positioning",
+      "aliases": [
+        "buyer mindset and positioning"
+      ],
+      "count": 1
+    },
+    "banking-crisis-and-housing-fundamentals": {
+      "id": "banking-crisis-and-housing-fundamentals",
+      "preferred": "banking crisis and housing fundamentals",
+      "aliases": [
+        "banking crisis and housing fundamentals"
+      ],
+      "count": 1
+    },
+    "macroeconomic-indicators": {
+      "id": "macroeconomic-indicators",
+      "preferred": "macroeconomic indicators",
+      "aliases": [
+        "macroeconomic indicators"
+      ],
+      "count": 1
+    },
+    "media-fear-vs-economic-reality": {
+      "id": "media-fear-vs-economic-reality",
+      "preferred": "media fear vs economic reality",
+      "aliases": [
+        "media fear vs economic reality"
+      ],
+      "count": 1
+    },
+    "international-tax-comparison": {
+      "id": "international-tax-comparison",
+      "preferred": "international tax comparison",
+      "aliases": [
+        "international tax comparison"
+      ],
+      "count": 1
+    },
+    "unrealized-gains-taxation": {
+      "id": "unrealized-gains-taxation",
+      "preferred": "unrealized gains taxation",
+      "aliases": [
+        "unrealized gains taxation"
+      ],
+      "count": 1
+    },
+    "tax-comparison-objection-handling": {
+      "id": "tax-comparison-objection-handling",
+      "preferred": "tax comparison objection handling",
+      "aliases": [
+        "tax comparison objection handling"
+      ],
+      "count": 1
+    },
+    "geopolitical-oil-disruption": {
+      "id": "geopolitical-oil-disruption",
+      "preferred": "geopolitical oil disruption",
+      "aliases": [
+        "geopolitical oil disruption"
+      ],
+      "count": 1
+    },
+    "inflation-hedge-arguments": {
+      "id": "inflation-hedge-arguments",
+      "preferred": "inflation hedge arguments",
+      "aliases": [
+        "inflation hedge arguments"
+      ],
+      "count": 1
+    },
+    "rising-material-costs-and-developer-pricing": {
+      "id": "rising-material-costs-and-developer-pricing",
+      "preferred": "rising material costs and developer pricing",
+      "aliases": [
+        "rising material costs and developer pricing"
+      ],
+      "count": 1
+    },
+    "strategy-wrap-up": {
+      "id": "strategy-wrap-up",
+      "preferred": "strategy wrap-up",
+      "aliases": [
+        "strategy wrap-up"
+      ],
+      "count": 1
+    },
+    "cost-of-entry-comparison": {
+      "id": "cost-of-entry-comparison",
+      "preferred": "cost of entry comparison",
+      "aliases": [
+        "cost of entry comparison"
+      ],
+      "count": 1
+    },
+    "saudi-foreign-ownership-zones": {
+      "id": "saudi-foreign-ownership-zones",
+      "preferred": "Saudi foreign ownership zones",
+      "aliases": [
+        "Saudi foreign ownership zones"
+      ],
+      "count": 1
+    },
+    "expo-driven-market-cycles": {
+      "id": "expo-driven-market-cycles",
+      "preferred": "Expo-driven market cycles",
+      "aliases": [
+        "Expo-driven market cycles"
+      ],
+      "count": 1
+    },
+    "domestic-demographic-demand": {
+      "id": "domestic-demographic-demand",
+      "preferred": "domestic demographic demand",
+      "aliases": [
+        "domestic demographic demand"
+      ],
+      "count": 1
+    },
+    "madinah-haram-real-estate": {
+      "id": "madinah-haram-real-estate",
+      "preferred": "Madinah Haram real estate",
+      "aliases": [
+        "Madinah Haram real estate"
+      ],
+      "count": 1
+    },
+    "mature-market-ecosystem": {
+      "id": "mature-market-ecosystem",
+      "preferred": "mature market ecosystem",
+      "aliases": [
+        "mature market ecosystem"
+      ],
+      "count": 1
+    },
+    "liquidity-and-exit-risks": {
+      "id": "liquidity-and-exit-risks",
+      "preferred": "liquidity and exit risks",
+      "aliases": [
+        "liquidity and exit risks"
+      ],
+      "count": 1
+    },
+    "overcoming-procrastination": {
+      "id": "overcoming-procrastination",
+      "preferred": "overcoming procrastination",
+      "aliases": [
+        "overcoming procrastination"
+      ],
+      "count": 1
+    },
+    "self-motivation": {
+      "id": "self-motivation",
+      "preferred": "self-motivation",
+      "aliases": [
+        "self-motivation"
+      ],
+      "count": 1
+    },
+    "visual-reminders": {
+      "id": "visual-reminders",
+      "preferred": "visual reminders",
+      "aliases": [
+        "visual reminders"
+      ],
+      "count": 1
+    },
+    "accountability": {
+      "id": "accountability",
+      "preferred": "accountability",
+      "aliases": [
+        "accountability"
+      ],
+      "count": 1
+    },
+    "sales-confidence": {
+      "id": "sales-confidence",
+      "preferred": "sales confidence",
+      "aliases": [
+        "sales confidence"
+      ],
+      "count": 1
+    },
+    "levels-of-confidence": {
+      "id": "levels-of-confidence",
+      "preferred": "levels of confidence",
+      "aliases": [
+        "levels of confidence"
+      ],
+      "count": 1
+    },
+    "handling-rejection": {
+      "id": "handling-rejection",
+      "preferred": "handling rejection",
+      "aliases": [
+        "handling rejection"
+      ],
+      "count": 1
+    },
+    "market-structure-differences": {
+      "id": "market-structure-differences",
+      "preferred": "market structure differences",
+      "aliases": [
+        "market structure differences"
+      ],
+      "count": 1
+    },
+    "meeting-booking-strategy": {
+      "id": "meeting-booking-strategy",
+      "preferred": "meeting booking strategy",
+      "aliases": [
+        "meeting booking strategy"
+      ],
+      "count": 1
+    },
+    "investment-planning": {
+      "id": "investment-planning",
+      "preferred": "investment planning",
+      "aliases": [
+        "investment planning"
+      ],
+      "count": 1
+    },
+    "secondary-market-dynamics": {
+      "id": "secondary-market-dynamics",
+      "preferred": "secondary market dynamics",
+      "aliases": [
+        "secondary market dynamics"
+      ],
+      "count": 1
+    },
+    "seller-qualification": {
+      "id": "seller-qualification",
+      "preferred": "seller qualification",
+      "aliases": [
+        "seller qualification"
+      ],
+      "count": 1
+    },
+    "buyer-representation": {
+      "id": "buyer-representation",
+      "preferred": "buyer representation",
+      "aliases": [
+        "buyer representation"
+      ],
+      "count": 1
+    },
+    "rental-yield-vs-capital-growth": {
+      "id": "rental-yield-vs-capital-growth",
+      "preferred": "rental yield vs capital growth",
+      "aliases": [
+        "rental yield vs capital growth"
+      ],
+      "count": 1
+    },
+    "oversupply-risks": {
+      "id": "oversupply-risks",
+      "preferred": "oversupply risks",
+      "aliases": [
+        "oversupply risks"
+      ],
+      "count": 1
+    },
+    "family-townhouse-capital-growth": {
+      "id": "family-townhouse-capital-growth",
+      "preferred": "family townhouse capital growth",
+      "aliases": [
+        "family townhouse capital growth"
+      ],
+      "count": 1
+    },
+    "wealth-preservation-assets": {
+      "id": "wealth-preservation-assets",
+      "preferred": "wealth preservation assets",
+      "aliases": [
+        "wealth preservation assets"
+      ],
+      "count": 1
+    },
+    "premium-view-valuation": {
+      "id": "premium-view-valuation",
+      "preferred": "premium view valuation",
+      "aliases": [
+        "premium view valuation"
+      ],
+      "count": 1
+    },
+    "new-agent-training": {
+      "id": "new-agent-training",
+      "preferred": "new agent training",
+      "aliases": [
+        "new agent training"
+      ],
+      "count": 1
+    },
+    "sales-activities": {
+      "id": "sales-activities",
+      "preferred": "sales activities",
+      "aliases": [
+        "sales activities"
+      ],
+      "count": 1
+    },
+    "cold-calling-blocks": {
+      "id": "cold-calling-blocks",
+      "preferred": "cold calling blocks",
+      "aliases": [
+        "cold calling blocks"
+      ],
+      "count": 1
+    },
+    "pipeline-management": {
+      "id": "pipeline-management",
+      "preferred": "pipeline management",
+      "aliases": [
+        "pipeline management"
+      ],
+      "count": 1
+    },
+    "sphere-of-influence": {
+      "id": "sphere-of-influence",
+      "preferred": "sphere of influence",
+      "aliases": [
+        "sphere of influence"
+      ],
+      "count": 1
+    },
+    "lead-reactivation": {
+      "id": "lead-reactivation",
+      "preferred": "lead reactivation",
+      "aliases": [
+        "lead reactivation"
+      ],
+      "count": 1
+    },
+    "social-media-ads": {
+      "id": "social-media-ads",
+      "preferred": "social media ads",
+      "aliases": [
+        "social media ads"
+      ],
+      "count": 1
+    },
+    "content-marketing": {
+      "id": "content-marketing",
+      "preferred": "content marketing",
+      "aliases": [
+        "content marketing"
+      ],
+      "count": 1
+    },
+    "youtube-marketing": {
+      "id": "youtube-marketing",
+      "preferred": "YouTube marketing",
+      "aliases": [
+        "YouTube marketing"
+      ],
+      "count": 1
+    },
+    "lead-generation-strategy": {
+      "id": "lead-generation-strategy",
+      "preferred": "lead generation strategy",
+      "aliases": [
+        "lead generation strategy"
+      ],
+      "count": 1
+    },
+    "property-market-cycle-diagnosis": {
+      "id": "property-market-cycle-diagnosis",
+      "preferred": "property market cycle diagnosis",
+      "aliases": [
+        "property market cycle diagnosis"
+      ],
+      "count": 1
+    },
+    "2008-credit-crash-mechanics": {
+      "id": "2008-credit-crash-mechanics",
+      "preferred": "2008 credit crash mechanics",
+      "aliases": [
+        "2008 credit crash mechanics"
+      ],
+      "count": 1
+    },
+    "four-phase-property-cycle": {
+      "id": "four-phase-property-cycle",
+      "preferred": "four-phase property cycle",
+      "aliases": [
+        "four-phase property cycle"
+      ],
+      "count": 1
+    },
+    "market-indicators-and-geopolitical-resilience": {
+      "id": "market-indicators-and-geopolitical-resilience",
+      "preferred": "market indicators and geopolitical resilience",
+      "aliases": [
+        "market indicators and geopolitical resilience"
+      ],
+      "count": 1
+    },
+    "cash-driven-market-versus-leverage": {
+      "id": "cash-driven-market-versus-leverage",
+      "preferred": "cash-driven market versus leverage",
+      "aliases": [
+        "cash-driven market versus leverage"
+      ],
+      "count": 1
+    },
+    "pipeline-supply-and-building-level-competition": {
+      "id": "pipeline-supply-and-building-level-competition",
+      "preferred": "pipeline supply and building-level competition",
+      "aliases": [
+        "pipeline supply and building-level competition"
+      ],
+      "count": 1
+    },
+    "asset-evaluation-in-hyper-supply": {
+      "id": "asset-evaluation-in-hyper-supply",
+      "preferred": "asset evaluation in hyper supply",
+      "aliases": [
+        "asset evaluation in hyper supply"
+      ],
+      "count": 1
+    },
+    "client-communication-for-market-cycles": {
+      "id": "client-communication-for-market-cycles",
+      "preferred": "client communication for market cycles",
+      "aliases": [
+        "client communication for market cycles"
+      ],
+      "count": 1
+    },
+    "market-trends": {
+      "id": "market-trends",
+      "preferred": "market trends",
+      "aliases": [
+        "market trends"
+      ],
+      "count": 1
+    },
+    "property-price-drops": {
+      "id": "property-price-drops",
+      "preferred": "property price drops",
+      "aliases": [
+        "property price drops"
+      ],
+      "count": 1
+    },
+    "transaction-volume": {
+      "id": "transaction-volume",
+      "preferred": "transaction volume",
+      "aliases": [
+        "transaction volume"
+      ],
+      "count": 1
+    },
+    "historical-price-cycles": {
+      "id": "historical-price-cycles",
+      "preferred": "historical price cycles",
+      "aliases": [
+        "historical price cycles"
+      ],
+      "count": 1
+    },
+    "government-regulations": {
+      "id": "government-regulations",
+      "preferred": "government regulations",
+      "aliases": [
+        "government regulations"
+      ],
+      "count": 1
+    },
+    "villa-and-townhouse-demand": {
+      "id": "villa-and-townhouse-demand",
+      "preferred": "villa and townhouse demand",
+      "aliases": [
+        "villa and townhouse demand"
+      ],
+      "count": 1
+    },
+    "bank-valuations": {
+      "id": "bank-valuations",
+      "preferred": "bank valuations",
+      "aliases": [
+        "bank valuations"
+      ],
+      "count": 1
+    },
+    "secondary-flips": {
+      "id": "secondary-flips",
+      "preferred": "secondary flips",
+      "aliases": [
+        "secondary flips"
+      ],
+      "count": 1
+    },
+    "end-user-buyers": {
+      "id": "end-user-buyers",
+      "preferred": "end-user buyers",
+      "aliases": [
+        "end-user buyers"
+      ],
+      "count": 1
+    },
+    "short-term-rentals": {
+      "id": "short-term-rentals",
+      "preferred": "short-term rentals",
+      "aliases": [
+        "short-term rentals"
+      ],
+      "count": 1
+    },
+    "rental-yields": {
+      "id": "rental-yields",
+      "preferred": "rental yields",
+      "aliases": [
+        "rental yields"
+      ],
+      "count": 1
+    },
+    "exit-strategy": {
+      "id": "exit-strategy",
+      "preferred": "exit strategy",
+      "aliases": [
+        "exit strategy"
+      ],
+      "count": 1
+    },
+    "off-plan-market-trends": {
+      "id": "off-plan-market-trends",
+      "preferred": "off-plan market trends",
+      "aliases": [
+        "off-plan market trends"
+      ],
+      "count": 1
+    },
+    "agent-qualification": {
+      "id": "agent-qualification",
+      "preferred": "agent qualification",
+      "aliases": [
+        "agent qualification"
+      ],
+      "count": 1
+    },
+    "due-diligence-questions": {
+      "id": "due-diligence-questions",
+      "preferred": "due diligence questions",
+      "aliases": [
+        "due diligence questions"
+      ],
+      "count": 1
+    },
+    "call-openings": {
+      "id": "call-openings",
+      "preferred": "call openings",
+      "aliases": [
+        "call openings"
+      ],
+      "count": 1
+    },
+    "sales-conversation-structure": {
+      "id": "sales-conversation-structure",
+      "preferred": "sales conversation structure",
+      "aliases": [
+        "sales conversation structure"
+      ],
+      "count": 1
+    },
+    "closing-criteria": {
+      "id": "closing-criteria",
+      "preferred": "closing criteria",
+      "aliases": [
+        "closing criteria"
+      ],
+      "count": 1
+    },
+    "buyer-motivation": {
+      "id": "buyer-motivation",
+      "preferred": "buyer motivation",
+      "aliases": [
+        "buyer motivation"
+      ],
+      "count": 1
+    },
+    "call-opening-script": {
+      "id": "call-opening-script",
+      "preferred": "call opening script",
+      "aliases": [
+        "call opening script"
+      ],
+      "count": 1
+    },
+    "tonality": {
+      "id": "tonality",
+      "preferred": "tonality",
+      "aliases": [
+        "tonality"
+      ],
+      "count": 1
+    },
+    "booking-meetings": {
+      "id": "booking-meetings",
+      "preferred": "booking meetings",
+      "aliases": [
+        "booking meetings"
+      ],
+      "count": 1
+    },
+    "data-based-positioning": {
+      "id": "data-based-positioning",
+      "preferred": "data-based positioning",
+      "aliases": [
+        "data-based positioning"
+      ],
+      "count": 1
+    },
+    "market-crash-comparison": {
+      "id": "market-crash-comparison",
+      "preferred": "market crash comparison",
+      "aliases": [
+        "market crash comparison"
+      ],
+      "count": 1
+    },
+    "credit-vs-cash-purchases": {
+      "id": "credit-vs-cash-purchases",
+      "preferred": "credit vs cash purchases",
+      "aliases": [
+        "credit vs cash purchases"
+      ],
+      "count": 1
+    },
+    "market-cycle-correction": {
+      "id": "market-cycle-correction",
+      "preferred": "market cycle correction",
+      "aliases": [
+        "market cycle correction"
+      ],
+      "count": 1
+    },
+    "secondary-market-vs-rental-yields": {
+      "id": "secondary-market-vs-rental-yields",
+      "preferred": "secondary market vs rental yields",
+      "aliases": [
+        "secondary market vs rental yields"
+      ],
+      "count": 1
+    },
+    "handover-supply-and-mortgages": {
+      "id": "handover-supply-and-mortgages",
+      "preferred": "handover supply and mortgages",
+      "aliases": [
+        "handover supply and mortgages"
+      ],
+      "count": 1
+    },
+    "investment-strategy": {
+      "id": "investment-strategy",
+      "preferred": "investment strategy",
+      "aliases": [
+        "investment strategy"
+      ],
+      "count": 1
+    }
+  }
+}

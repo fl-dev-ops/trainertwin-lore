@@ -1,7 +1,7 @@
 [project]
 name = "trainertwin-lore"
 version = "0.1.0"
-description = "Source-grounded knowledge ingestion, living wiki synthesis, and behavioral persona engine for TrainerTwin"
+description = "Index captured posts and transcripts into one list"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -16,8 +16,6 @@ dependencies = [
 [project.scripts]
 trainertwin-pipeline = "pipeline.__main__:main"
 trainertwin-social = "social.cli:main"
-trainertwin-mcp = "pipeline.mcp:main"
-trainertwin-profile = "pipeline.profile:main"
 
 [tool.uv]
 package = true
