@@ -1,37 +1,35 @@
 ---
 name: trainertwin-lore
 description: >-
-  Extract, ingest, and analyze trainer lore and social media content for TrainerTwin persona development.
-  Provides cited knowledge/methods, teaching cases, expression examples, deterministic wiki rendering,
-  and attributed twin observations with separately labeled proposed adaptations. Use when collecting social media, ingesting trainer evidence,
-  building living wikis, querying trainer lore, or analyzing communication style and decision heuristics.
+  Extract, index, retrieve, and author grounded behavioral AI twin scenario prompts (SKILL.md) for TrainerTwin.
+  Provides deterministic source indexing, Jev taxonomy normalization, instant scenario retrieval, and
+  production-grade prompt authoring calibrated for Gemini 3.8 Flash. Use when collecting social media,
+  indexing creator corpora, normalizing tags with Jev, querying scenario grounding clips, authoring persona SKILL.md prompts, or auditing prompt fidelity.
 license: MIT
 compatibility: "Python 3.12+ via uv"
 metadata:
-  version: "0.1.0"
+  version: "0.2.0"
   category: ai-persona
-  tags: ["trainertwin", "persona", "living-wiki", "social-media", "source-evidence"]
+  tags: ["trainertwin", "persona", "digital-twin", "skill-authoring", "source-grounding", "mcp"]
 ---
 
 # TrainerTwin Lore
 
 ## Overview
 
-Use the single current implementation in `pipeline/` and the normal `users/<slug>/workspace/`. Update code in place; Git holds history. Do not create frozen code copies or version-named pipelines/workspaces.
+`trainertwin-lore` turns public posts, transcripts, and writings into authentic, grounded behavioral persona prompts (`SKILL.md`) for AI digital twins.
 
-The pipeline extracts cited knowledge/methods, teaching cases and expression examples, renders them without model resummarization, and separately generates attributed observations/proposed adaptations. Speaker names require explicit metadata, not diarization-ID guesses. Exact quotes establish occurrence, not semantic truth or a faithful personality.
+The pipeline enforces strict invariants:
+- **Immutable Ground Truth:** Raw source files are untouched. The index stores line ranges and verbatim quote snapshots.
+- **Single Responsibility:** Record indexing, taxonomy normalization, retrieval, authoring, and validation are strictly decoupled.
+- **Calibrated for Gemini 3.8 Flash:** Prompts use explicit turn bounds (2–4 sentences), frequency-calibrated signature phrases, and negative boundaries.
 
-## Workflow
+---
 
-### 1. Ingestion Status & Lint
-Check active evidence cards and verify integrity:
-```bash
-uv run trainertwin-pipeline --user <slug> status
-uv run trainertwin-pipeline --user <slug> lint
-```
+## 5-Stage CLI Workflow
 
-### 2. Collect Social Sources
-Collect date-bounded posts from an absolute UTC start date to today:
+### 1. Collect Social Sources
+Collect public posts and video transcripts since an absolute UTC calendar date:
 ```bash
 uv run trainertwin-social --user <slug> --since YYYY-MM-DD \
   --linkedin 'https://www.linkedin.com/in/<profile>/' \
@@ -40,32 +38,53 @@ uv run trainertwin-social --user <slug> --since YYYY-MM-DD \
   --twitter 'https://x.com/<handle>'
 ```
 
-### 3. Run the Current Pipeline
+### 2. Index Corpus (Deterministic Landmarks + Facets)
+Index source files into `users/<slug>/workspace/index.json` with multi-axial facets (`topic`, `situation`, `activity`), 500-char quote previews, and adjacency pointers:
 ```bash
-# Inspect parsing without paid calls.
-uv run trainertwin-pipeline --user <slug> ingest --dry-run
+# Dry run to inspect planned segmentation without paid calls
+uv run trainertwin-pipeline --user <slug> index --dry-run
 
-# Extract the three cited products; resume in this workspace if the budget runs out.
-uv run trainertwin-pipeline --user <slug> ingest --model openai/gpt-4o --max-calls 20
-
-# Render the wiki offline, then generate separately scoped twin candidates.
-uv run trainertwin-pipeline --user <slug> build
-uv run trainertwin-pipeline --user <slug> twin --author <exact-alias> --model openai/gpt-4o --max-calls 8
-
-# Compile and validate offline.
-uv run trainertwin-pipeline --user <slug> analyze
-uv run trainertwin-pipeline --user <slug> lint
+# Run full parallel indexing (default model: google/gemini-3.8-flash)
+uv run trainertwin-pipeline --user <slug> index --workers 8
 ```
 
-Keep paid calls explicitly budgeted. Re-ingest incompatible stored records in the same workspace; never invent missing fields to convert old records. Consult `pipeline/README.md` and `pipeline/SCHEMA.md` from the repository root for the current contract.
+### 3. Normalize Taxonomy (Dynamic LLM Stopwords + TypeSafe Jev)
+Clusters raw tags into canonical concepts and aliases in `users/<slug>/workspace/taxonomy.json` in seconds using `typesafe/jev-1.13`:
+```bash
+uv run trainertwin-pipeline --user <slug> normalize
+```
 
-### 4. MCP Tools
-When running with the `trainertwin-lore` MCP server enabled, use the registered MCP tools:
-- `get_status(user)`: Inspect ingestion counts and stale manifests.
-- `lint_workspace(user)`: Run offline integrity audit.
-- `read_report(user, report_name)`: Read `analysis`, `timeline`, or `persona-prompt`.
-- `get_wiki_topic(user, topic_slug)`: Read living wiki topic pages or platform behaviors (`linkedin`, `youtube`, `instagram`, `twitter`).
-- `analyze_persona(user)`: Recompile persona reports offline.
-- `collect_social(user, since, ...)`: Run multi-platform scraper.
-- `run_ingest(user, model, max_calls)`: Run evidence extraction.
-- `build_wiki(user, model, max_calls)`: Run wiki synthesis.
+### 4. Query Grounding Clips
+Retrieve the exact 3–5 grounded source clips for a specific scenario using Jev choice routing and set-utility diversification:
+```bash
+uv run trainertwin-pipeline --user <slug> query "How to handle a client who says 'I will wait for prices to crash'?"
+```
+
+### 5. Author & Validate SKILL.md Prompts
+Synthesize a deployable, grounded Agent Skill prompt for the runtime twin, and run an adversarial grounding audit:
+```bash
+# Author the scenario prompt
+uv run trainertwin-pipeline --user <slug> author "Client says: 'I will wait until prices crash before buying'"
+
+# Validate grounding, citation integrity, and voice authenticity
+uv run trainertwin-pipeline --user <slug> validate client-says-i-will-wait-until-prices-crash-before-buying.md
+```
+
+---
+
+## MCP Server Integration (`trainertwin-mcp`)
+
+Run the stdio MCP server for agent harnesses (Pi, Claude Code, Cursor, Windsurf, Zed):
+```bash
+uv run trainertwin-mcp
+```
+
+### Registered MCP Tools:
+- `get_status(user)`: Inspect total sources, item counts, taxonomy clusters, and authored scenarios.
+- `query_scenarios(user, scenario_query, max_clips=5)`: Retrieve the 3–5 grounded clips with verbatim text and line coordinates.
+- `author_scenario_skill(user, scenario_query, model)`: Retrieve clips and author a production-grade `SKILL.md` runtime prompt.
+- `validate_scenario_skill(user, scenario_filename, judge_model)`: Run an adversarial audit checking citation validity and zero hallucination.
+- `read_scenario_skill(user, scenario_slug)`: Read an authored scenario prompt from `workspace/scenarios/`.
+- `list_taxonomy(user, facet)`: Inspect canonical concepts and aliases from `taxonomy.json`.
+- `collect_social(user, since, ...)`: Run the multi-platform scraper.
+- `normalize_taxonomy(user, threshold=0.70)`: Run the Jev-powered taxonomy clustering.

@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "trainertwin-lore": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/Users/suryaumapathy/Developers/Github/foreverlearning/olga",
+        "trainertwin-mcp"
+      ],
+      "env": {
+        "OPENROUTER_API_KEY": "your_openrouter_api_key_here"
+      }
+    }
+  }
+}

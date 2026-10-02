@@ -16,6 +16,7 @@ dependencies = [
 [project.scripts]
 trainertwin-pipeline = "pipeline.__main__:main"
 trainertwin-social = "social.cli:main"
+trainertwin-mcp = "pipeline.mcp:main"
 
 [tool.uv]
 package = true
