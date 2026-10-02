@@ -1,66 +1,201 @@
 # TrainerTwin Lore
 
-Turn public posts, transcripts and writings into source-grounded knowledge, teaching cases and communication examples for TrainerTwin.
+Extract public posts, transcripts, and writings to generate source-grounded behavioral persona prompts (`SKILL.md`) for AI digital twins.
 
-**One pipeline:** the implementation lives in `pipeline/`, writes to `users/<slug>/workspace/`, and is updated in place. Git holds code history; there are no separate runnable pipeline versions.
+---
 
-## Flow
+## Architecture Flow
 
 ```text
-social collectors → users/<slug>/data/
-  → preserved originals + cited source records
-      ├── knowledge & methods
-      ├── teaching & interaction cases
-      └── expression examples
-  → deterministic wiki
-  → attributed twin observations + separately labeled proposed adaptations
-  → task-conditioned context, research report, optional audits/reviews
+[ Social Collectors ] (YouTube transcripts, LinkedIn, Instagram, X)
+        │
+        ▼
+users/<slug>/data/ (Raw, immutable source files)
+        │
+        ▼ (Stage 1: Indexing — Gemini 3.8 Flash)
+users/<slug>/workspace/index.json
+  ├── Deterministic landmarks & line coordinates (start_line, end_line ≤ 100)
+  ├── 500-character verbatim quote previews
+  ├── Adjacency pointers (prev, next) for small-to-big context expansion
+  └── Multi-axial facets: topic, situation, activity
+        │
+        ▼ (Stage 2: Normalization — TypeSafe Jev)
+users/<slug>/workspace/taxonomy.json
+  ├── Dynamic LLM domain background stopword detection (0 hardcoded terms)
+  └── High-speed parallel Jev clustering into canonical concepts + aliases
+        │
+        ▼ (Stage 3: Scenario Retrieval — Jev Choice Routing)
+Matched 3–5 Grounded Source Clips
+  ├── Jev choice decision over canonical situations
+  └── Set-utility diversification (max 2 clips per source file)
+        │
+        ▼ (Stage 4: Prompt Authoring — Gemini 3.8 Flash)
+users/<slug>/workspace/scenarios/<scenario-slug>.md (SKILL.md)
+  ├── YAML Frontmatter (name, description, activation triggers)
+  ├── Adult-to-Adult relational stance & power dynamics
+  ├── Verbatim signature phrases & cadence bounds (2–4 sentences per turn)
+  ├── Priority-ordered decision heuristics (Trigger → Action → Avoid)
+  ├── Exact file path and line citations
+  └── Negative boundaries ("What the persona NEVER does")
+        │
+        ▼ (Stage 5: Adversarial Audit — Dual-Model Validation)
+Validation Scorecard (Citations integrity, zero-hallucination check)
 ```
 
-The pipeline preserves method steps, constraints and short answers. Unknown rationales/outcomes stay unknown. Speaker identity requires explicit metadata, never a guess from diarization numbers. A quotation proves source occurrence, not semantic entailment or external truth; the output is not a verified personality or runtime chatbot.
+---
 
-## Setup
+## Installation & Setup
 
-Python 3.12+ and [uv](https://github.com/astral-sh/uv):
+### Prerequisites
+* Python 3.12+
+* [uv](https://github.com/astral-sh/uv) package manager
 
-```sh
+### 1. Clone & Sync
+```bash
+git clone https://github.com/foreverlearning/trainertwin-lore.git
+cd trainertwin-lore
 uv sync
+```
+
+### 2. Environment Setup
+Copy the template and configure your OpenRouter API key:
+```bash
 cp .env.example .env
 ```
-
-Set `OPENROUTER_API_KEY` for ingestion, twin generation and optional model audits. Pass `--model` or set `OPENROUTER_MODEL`. Build, context selection, report compilation, integrity checks and dry runs make no model calls. Collector credentials are documented in [social/README.md](social/README.md).
-
-## Collect and process
-
-```sh
-# Only specify the platforms you need.
-uv run python -m social --user jane-doe --since 2026-08-01 \
-  --linkedin 'https://www.linkedin.com/in/janedoe/'
-
-# Inspect source parsing without paid calls.
-uv run python -m pipeline --user jane-doe ingest --dry-run
-
-# Ingest → build → twin → report → validate, with one shared logical call cap.
-# --author must match explicitly supplied source/speaker metadata.
-uv run python -m pipeline --user jane-doe run --author janedoe \
-  --model openai/gpt-4o --max-calls 20
-
-# Offline retrieval and checks.
-uv run python -m pipeline --user jane-doe context 'How should I structure this exercise?'
-uv run python -m pipeline --user jane-doe lint
+Ensure `.env` contains:
+```bash
+OPENROUTER_API_KEY=sk-or-v1-...
 ```
 
-Interrupted/budget-limited ingestion retains validated caches; rerun the same command to resume. The call cap is per invocation and counts logical requests, not HTTP retries or spend. Re-extract incompatible stored records in the same workspace before rebuilding; sources and human review history are preserved.
+---
 
-See [pipeline/README.md](pipeline/README.md) for individual stages, budgets, attribution, reviews and workspace behavior, and [pipeline/SCHEMA.md](pipeline/SCHEMA.md) for the data contract. Collection and existing MCP entry points are separate integrations, not alternative pipeline implementations.
+## CLI Usage (5 Stages)
 
-## Verify offline
-
-```sh
-uv run python -m pytest -q pipeline/tests social/tests
-uv run python scripts/pipeline_demo.py --output /tmp/trainertwin-demo
+### 1. Collect Social Sources
+Extract date-bounded posts and video transcripts into `users/<slug>/data/`:
+```bash
+# Only specify the platforms you need
+uv run trainertwin-social --user olga --since 2026-08-01 \
+  --youtube 'https://www.youtube.com/@olga_sinenko' \
+  --linkedin 'https://www.linkedin.com/in/olgasi/'
 ```
 
-The demo uses fixture-authored responses and makes no paid calls. It checks the full flow and retained details, not live-model quality or trainer resemblance.
+### 2. Index & Prepare Corpus (Indexing + Auto-Normalization)
+Index raw transcripts into `index.json` with multi-axial facets and automatically cluster canonical taxonomy concepts in `taxonomy.json`:
+```bash
+# Dry run to inspect planned segmentation without paid calls
+uv run trainertwin-pipeline --user olga index --dry-run
 
-- [Research rationale](docs/research/TRAINERTWIN_RESEARCH.md)
+# Run full parallel indexing (8 workers on Gemini 3.8 Flash)
+# Automatically normalizes tags into taxonomy.json at the end
+uv run trainertwin-pipeline --user olga index --workers 8
+
+# (Optional) Re-cluster taxonomy without re-indexing source files:
+uv run trainertwin-pipeline --user olga normalize
+```
+
+### 3. Query Grounding Clips
+Search the catalog by scenario to retrieve the top 3–5 grounded clips:
+```bash
+uv run trainertwin-pipeline --user olga query "How does Olga handle a client who says 'I will wait until prices crash'?"
+```
+
+### 4. Author & Validate SKILL.md Prompts
+Synthesize a deployable `SKILL.md` runtime prompt and run an adversarial grounding audit:
+```bash
+# Author the scenario prompt
+uv run trainertwin-pipeline --user olga author "Client says: 'I will wait until prices crash before buying'"
+
+# Run adversarial audit against source lines
+uv run trainertwin-pipeline --user olga validate client-says-i-will-wait-until-prices-crash-before-buying.md
+```
+
+---
+
+## MCP Server Installation
+
+The Model Context Protocol (MCP) server runs over `stdio` and complies with the latest `mcp v2.2.0` specification. It allows any MCP host to query the catalog, retrieve grounded clips, author prompts, and validate persona skills.
+
+### Direct Test / Launch
+```bash
+uv run trainertwin-mcp
+```
+
+### Host Configurations
+
+#### 1. Claude Desktop (`claude_desktop_config.json`)
+* **macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
+* **Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
+
+```json
+{
+  "mcpServers": {
+    "trainertwin-lore": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/ABSOLUTE/PATH/TO/trainertwin-lore",
+        "trainertwin-mcp"
+      ],
+      "env": {
+        "OPENROUTER_API_KEY": "sk-or-v1-..."
+      }
+    }
+  }
+}
+```
+
+#### 2. Cursor (`.cursor/mcp.json` or Settings → MCP)
+```json
+{
+  "mcpServers": {
+    "trainertwin-lore": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/ABSOLUTE/PATH/TO/trainertwin-lore",
+        "trainertwin-mcp"
+      ],
+      "env": {
+        "OPENROUTER_API_KEY": "sk-or-v1-..."
+      }
+    }
+  }
+}
+```
+
+#### 3. Claude Code CLI
+```bash
+claude mcp add trainertwin-lore -- uv run --directory /ABSOLUTE/PATH/TO/trainertwin-lore trainertwin-mcp
+```
+
+#### 4. Pi Coding Agent (`~/.pi/agent/mcp.json`)
+```json
+{
+  "mcpServers": {
+    "trainertwin-lore": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "/ABSOLUTE/PATH/TO/trainertwin-lore",
+        "trainertwin-mcp"
+      ],
+      "env": {
+        "OPENROUTER_API_KEY": "sk-or-v1-..."
+      }
+    }
+  }
+}
+```
+
+---
+
+## Offline Unit Testing
+
+Run all unit tests across indexing, normalization, retrieval, authoring, and validation:
+```bash
+uv run python -m pytest -q pipeline/tests
+```

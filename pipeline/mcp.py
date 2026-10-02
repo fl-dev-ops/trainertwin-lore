@@ -199,6 +199,23 @@ def collect_social(
 
 
 @app.tool()
+def reindex_corpus(
+    user: str,
+    workers: int = 8,
+    model: str = "google/gemini-3.8-flash",
+) -> str:
+    """Index source files into index.json and automatically build normalized taxonomy.json with Jev."""
+    cmd = [
+        sys.executable, "-m", "pipeline", "--user", user, "index",
+        "--workers", str(workers), "--model", model
+    ]
+    proc = subprocess.run(cmd, cwd=str(ROOT), capture_output=True, text=True)
+    if proc.returncode != 0:
+        return json.dumps({"status": "error", "message": proc.stderr or proc.stdout})
+    return json.dumps({"status": "success", "output": proc.stdout[-1500:]})
+
+
+@app.tool()
 def normalize_taxonomy(user: str, threshold: float = 0.70) -> str:
     """Run Jev-powered taxonomy normalization to cluster raw tags into canonical concepts."""
     _, workspace = _get_user_dirs(user)

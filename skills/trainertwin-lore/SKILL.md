@@ -26,7 +26,7 @@ The pipeline enforces strict invariants:
 
 ---
 
-## 5-Stage CLI Workflow
+## 4-Stage CLI Workflow
 
 ### 1. Collect Social Sources
 Collect public posts and video transcripts since an absolute UTC calendar date:
@@ -38,29 +38,26 @@ uv run trainertwin-social --user <slug> --since YYYY-MM-DD \
   --twitter 'https://x.com/<handle>'
 ```
 
-### 2. Index Corpus (Deterministic Landmarks + Facets)
-Index source files into `users/<slug>/workspace/index.json` with multi-axial facets (`topic`, `situation`, `activity`), 500-char quote previews, and adjacency pointers:
+### 2. Index & Prepare Corpus (Extraction + Auto-Normalization)
+Index source files into `users/<slug>/workspace/index.json` with multi-axial facets, 500-char quote previews, and adjacency pointers. Automatically clusters tags into `taxonomy.json` using TypeSafe Jev upon completion:
 ```bash
 # Dry run to inspect planned segmentation without paid calls
 uv run trainertwin-pipeline --user <slug> index --dry-run
 
-# Run full parallel indexing (default model: google/gemini-3.8-flash)
+# Run full parallel indexing (automatically runs taxonomy normalization at completion)
 uv run trainertwin-pipeline --user <slug> index --workers 8
-```
 
-### 3. Normalize Taxonomy (Dynamic LLM Stopwords + TypeSafe Jev)
-Clusters raw tags into canonical concepts and aliases in `users/<slug>/workspace/taxonomy.json` in seconds using `typesafe/jev-1.13`:
-```bash
+# (Optional) Re-run taxonomy clustering standalone without re-indexing source files:
 uv run trainertwin-pipeline --user <slug> normalize
 ```
 
-### 4. Query Grounding Clips
+### 3. Query Grounding Clips
 Retrieve the exact 3–5 grounded source clips for a specific scenario using Jev choice routing and set-utility diversification:
 ```bash
 uv run trainertwin-pipeline --user <slug> query "How to handle a client who says 'I will wait for prices to crash'?"
 ```
 
-### 5. Author & Validate SKILL.md Prompts
+### 4. Author & Validate SKILL.md Prompts
 Synthesize a deployable, grounded Agent Skill prompt for the runtime twin, and run an adversarial grounding audit:
 ```bash
 # Author the scenario prompt

@@ -62,6 +62,7 @@ def cli():
     command.add_argument("--include", action="append")
     command.add_argument("--limit", type=int)
     command.add_argument("--dry-run", action="store_true")
+    command.add_argument("--no-normalize", action="store_true", help="Skip automatic taxonomy normalization after indexing")
     command.add_argument("--max-usd", type=float)
     command.add_argument("--input-price", type=float)
     command.add_argument("--output-price", type=float)
@@ -191,6 +192,13 @@ def cli():
         for client in clients:
             client.close()
     print(f"Calls left: {budget[0]}")
+
+    if not getattr(args, "no_normalize", False):
+        load_dotenv(ROOT / ".env")
+        key = os.getenv("OPENROUTER_API_KEY", "")
+        if key:
+            from .normalize import normalize_workspace
+            normalize_workspace(workspace, key, workers=args.workers)
 
 
 def main():

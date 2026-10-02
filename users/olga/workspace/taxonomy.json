@@ -262,11 +262,10 @@
       "id": "lead-stops-responding",
       "preferred": "lead stops responding",
       "aliases": [
-        "getting ghosted by clients",
         "lead stops replying",
         "lead stops responding"
       ],
-      "count": 12
+      "count": 10
     },
     "client-wants-to-wait-and-see": {
       "id": "client-wants-to-wait-and-see",
@@ -299,6 +298,14 @@
       "preferred": "starting real estate career in Dubai",
       "aliases": [
         "starting real estate career in Dubai"
+      ],
+      "count": 2
+    },
+    "getting-ghosted-by-clients": {
+      "id": "getting-ghosted-by-clients",
+      "preferred": "getting ghosted by clients",
+      "aliases": [
+        "getting ghosted by clients"
       ],
       "count": 2
     },
@@ -1619,6 +1626,15 @@
       ],
       "count": 2
     },
+    "client-motivation": {
+      "id": "client-motivation",
+      "preferred": "client motivation",
+      "aliases": [
+        "buyer motivation",
+        "client motivation"
+      ],
+      "count": 2
+    },
     "personal-development": {
       "id": "personal-development",
       "preferred": "personal development",
@@ -1841,14 +1857,6 @@
       "preferred": "property data accuracy",
       "aliases": [
         "property data accuracy"
-      ],
-      "count": 1
-    },
-    "client-motivation": {
-      "id": "client-motivation",
-      "preferred": "client motivation",
-      "aliases": [
-        "client motivation"
       ],
       "count": 1
     },
@@ -3321,14 +3329,6 @@
       "preferred": "closing criteria",
       "aliases": [
         "closing criteria"
-      ],
-      "count": 1
-    },
-    "buyer-motivation": {
-      "id": "buyer-motivation",
-      "preferred": "buyer motivation",
-      "aliases": [
-        "buyer motivation"
       ],
       "count": 1
     },
