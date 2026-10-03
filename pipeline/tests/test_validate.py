@@ -72,3 +72,42 @@ def test_validate_scenario(mock_openrouter, mock_jev_class, tmp_path):
     assert report["jev_entailment_audit"]["total_rules_checked"] == 1
     assert report["jev_entailment_audit"]["grounded_rules"] == 1
 
+
+@patch("pipeline.validate.JevClient")
+@patch("pipeline.validate.OpenRouter")
+def test_validate_scenario_fails_closed_on_jev_failure(mock_openrouter, mock_jev_class, tmp_path):
+    mock_judge = MagicMock()
+    mock_judge.complete.return_value = {
+        "verdict": "PASS",
+        "grounding_score": 10,
+        "voice_authenticity_score": 9,
+        "gemini_adherence_readiness": 10,
+        "hallucinations_found": [],
+        "unsupported_claims": [],
+        "summary": "Judge thinks it passed",
+    }
+    mock_openrouter.return_value = mock_judge
+
+    # Simulate Jev API returning empty answers on error
+    mock_jev = MagicMock()
+    mock_jev.decide.return_value = {}
+    mock_jev_class.return_value = mock_jev
+
+    skill_file = tmp_path / "skill.md"
+    skill_file.write_text("""
+    ### Rule 1: Grounded Rule
+    - Trigger: X
+    - Action: Y
+    - Grounding Citation: `source.md` (lines 1-2)
+    """)
+
+    source_file = tmp_path / "source.md"
+    source_file.write_text("Line 1\nLine 2\n")
+
+    report = validate_scenario(skill_file, tmp_path, "fake-key")
+    # MUST FAIL CLOSED: Even if LLM judge passed, empty Jev result forces FAIL verdict
+    assert report["judge_evaluation"]["verdict"] == "FAIL"
+    assert len(report["jev_entailment_audit"]["hallucinations"]) == 1
+    assert any("[Jev Entailment Failure]" in h for h in report["judge_evaluation"]["hallucinations_found"])
+
+

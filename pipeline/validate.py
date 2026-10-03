@@ -118,17 +118,19 @@ def validate_scenario(
             continue
 
         valid_citations += 1
-        verbatim_slice = " ".join(
+        # Preserve speaker headings (### 00:01:23 · Speaker 1) for speaker attribution verification
+        verbatim_slice = "\n".join(
             line.strip() for line in raw_lines[s - 1 : e]
-            if line.strip() and not line.strip().startswith("###") and not line.strip().startswith("---")
+            if line.strip() and not line.strip().startswith("---")
         )
         citation_audit.append({"file": fpath, "lines": f"{s}-{e}", "status": "VALID"})
-        collected_evidence.append(f"[{fpath} L{s}-{e}]: \"{verbatim_slice}\"")
+        collected_evidence.append(f"[{fpath} L{s}-{e}]:\n\"{verbatim_slice}\"")
 
     # Jev semantic entailment verification on cited rules
     jev_client = JevClient(api_key)
     jev_hallucinations = []
     jev_results = []
+    jev_error = None
     try:
         rules = parse_rules_with_citations(content)
         for r in rules:
@@ -142,29 +144,43 @@ def validate_scenario(
             raw_lines = full_path.read_text(encoding="utf-8").splitlines()
             if not (1 <= r["start"] <= r["end"] <= len(raw_lines)):
                 continue
-            excerpt = " ".join(
+            # Preserve speaker lines in the excerpt so Jev verifies speaker attribution
+            excerpt = "\n".join(
                 line.strip() for line in raw_lines[r["start"] - 1 : r["end"]]
-                if line.strip() and not line.strip().startswith("###") and not line.strip().startswith("---")
+                if line.strip() and not line.strip().startswith("---")
             )
             jev_ans = jev_client.decide(
-                state=f"TRANSCRIPT / EVIDENCE EXCERPT:\n\"\"\"{excerpt}\"\"\"",
+                state=f"TRANSCRIPT / EVIDENCE EXCERPT (WITH SPEAKERS):\n\"\"\"\n{excerpt}\n\"\"\"",
                 questions={
                     "entailment": {
                         "type": "choice",
                         "instructions": (
-                            f"Evaluate whether the following rule is strictly supported by the excerpt without inventing facts or misattributing speakers:\n"
+                            f"Evaluate whether the following rule is factually supported by the excerpt without misattributing speakers:\n"
                             f"Rule: \"{r['title']}. Action: {r['action']}\""
                         ),
                         "criteria": {
-                            "grounded": "The claim is factually supported, directly asserted, or logically entailed by the excerpt without misattributing speakers or inventing terminology.",
-                            "hallucinated": "The claim invents facts, uses terminology not present in the excerpt, or misattributes statements."
+                            "grounded": "The advice and core action are directly asserted or logically entailed by the excerpt.",
+                            "hallucinated": "The claim invents concepts absent from the text, contradicts the excerpt, or misattributes statements to another speaker."
                         }
                     }
                 }
             )
-            ans = jev_ans.get("entailment", {})
-            choice = ans.get("choice", "grounded")
-            conf = ans.get("confidence", 0.0)
+            ans = jev_ans.get("entailment")
+            if not ans or not isinstance(ans, dict) or "choice" not in ans:
+                # FAIL CLOSED: Missing or malformed Jev decisions cannot pass as grounded
+                item_res = {
+                    "rule": r["title"],
+                    "citation": f"{r['file']} L{r['start']}-{r['end']}",
+                    "choice": "unverified_error",
+                    "confidence": 0.0,
+                    "error": "Jev returned empty or missing decision"
+                }
+                jev_results.append(item_res)
+                jev_hallucinations.append(item_res)
+                continue
+
+            choice = ans["choice"]
+            conf = float(ans.get("confidence", 0.0))
             item_res = {
                 "rule": r["title"],
                 "citation": f"{r['file']} L{r['start']}-{r['end']}",
@@ -172,10 +188,19 @@ def validate_scenario(
                 "confidence": conf,
             }
             jev_results.append(item_res)
+            # High-confidence hallucination or evaluator error fails the validation
             if choice == "hallucinated" and conf >= 0.60:
                 jev_hallucinations.append(item_res)
     except Exception as exc:
-        print(f"Warning: Jev entailment verification skipped ({exc})", file=sys.stderr)
+        jev_error = str(exc)
+        print(f"Error: Jev entailment verification failed ({exc})", file=sys.stderr)
+        jev_hallucinations.append({
+            "rule": "Jev Evaluator",
+            "citation": "N/A",
+            "choice": "evaluator_error",
+            "confidence": 1.0,
+            "error": str(exc),
+        })
     finally:
         jev_client.close()
 
@@ -195,7 +220,7 @@ def validate_scenario(
     if jev_hallucinations:
         judge_res["verdict"] = "FAIL"
         for h in jev_hallucinations:
-            err_msg = f"[Jev Entailment Failure]: Rule '{h['rule']}' is ungrounded/hallucinated against {h['citation']} (confidence: {h['confidence']:.2f})"
+            err_msg = f"[Jev Entailment Failure]: Rule '{h['rule']}' is ungrounded/hallucinated against {h['citation']} (confidence: {h.get('confidence', 0.0):.2f})"
             if err_msg not in judge_res["hallucinations_found"]:
                 judge_res["hallucinations_found"].append(err_msg)
 
