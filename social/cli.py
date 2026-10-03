@@ -142,42 +142,40 @@ def collect_youtube(
         stage("audio skipped")
         stage("transcription skipped")
         return
-    run_id = hashlib.sha256(url.encode()).hexdigest()[:10]
-    audio_dir = audio_root / since.isoformat() / run_id
-    run = audio_root / "runs" / since.isoformat() / run_id
+
+    video_dir = data / "video"
+    pending = [
+        v for v in selected if not list(video_dir.glob(f"*-{v['id']}.md"))
+    ]
+    if not pending:
+        stage(f"all {len(selected)} transcripts already saved")
+        stage("audio skipped")
+        stage("transcription skipped")
+        return
+
+    stage(f"{len(selected) - len(pending)} transcripts already saved; {len(pending)} new videos need audio")
+    batch_key = hashlib.sha256(f"{url}:{','.join(sorted(v['id'] for v in pending))}".encode()).hexdigest()[:10]
+    audio_dir = audio_root / since.isoformat() / batch_key
+    run = audio_root / "runs" / since.isoformat() / batch_key
     selection = run / "selection.json"
-    identifiers = sorted(v["id"] for v in selected)
+    identifiers = sorted(v["id"] for v in pending)
     if selection.exists() and set(json.loads(selection.read_text())) != set(identifiers):
         raise ValueError(
             f"Video selection changed for {since}; review {run} before reusing Sarvam jobs"
         )
     selection.parent.mkdir(parents=True, exist_ok=True)
     selection.write_text(json.dumps(identifiers) + "\n", encoding="utf-8")
-    video_dir = data / "video"
-    video_dir = data / "video"
-    pending = [
-        v for v in selected if not list(video_dir.glob(f"*-{v['id']}.md"))
-    ]
-    stage(
-        f"{len(selected) - len(pending)} transcripts already saved"
-        if len(pending) < len(selected)
-        else f"{len(selected)} videos need audio"
-    )
-    if pending:
-        for video in track(pending, "YouTube audio downloads", unit="video"):
-            ident = video.get("id")
-            if (
-                not ident
-                or not any(
-                    p.name.endswith(f"[{ident}].mp3") for p in audio_dir.glob("*.mp3")
-                )
-            ) and youtube.download_video_audio(video["url"], audio_dir) is None:
-                raise ValueError(f"Download failed: {video['url']}")
-        stage(f"{len(pending)} audio downloads checked")
-    else:
-        stage("transcripts already saved; audio skipped")
-        stage("transcription skipped")
-        return
+
+    for video in track(pending, "YouTube audio downloads", unit="video"):
+        ident = video.get("id")
+        if (
+            not ident
+            or not any(
+                p.name.endswith(f"[{ident}].mp3") for p in audio_dir.glob("*.mp3")
+            )
+        ) and youtube.download_video_audio(video["url"], audio_dir) is None:
+            raise ValueError(f"Download failed: {video['url']}")
+    stage(f"{len(pending)} audio downloads checked")
     state, raw = run / "sarvam-jobs.json", run / "sarvam-json"
     cache = youtube.load_date_cache(audio_dir)
     cache.update({v["id"]: v["upload_date"] for v in pending if v.get("id")})

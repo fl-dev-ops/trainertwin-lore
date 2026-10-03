@@ -89,26 +89,53 @@ yaml.SafeDumper.add_representer(
 def fetch_channel_videos(
     channel_url: str, max_videos: int | None = None
 ) -> list[dict[str, Any]]:
-    """Extract video metadata from a channel or playlist using yt-dlp flat playlist extraction."""
-    target_url = channel_url.rstrip("/")
-    if re.search(r"/@[^/]+$", target_url):
-        target_url = f"{target_url}/videos"
-    cmd = [
-        "yt-dlp",
-        "--flat-playlist",
-        "-J",
-        target_url,
-    ]
-    status(f"YouTube: discovering videos from {target_url} (waiting for yt-dlp)")
-    proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
-    if proc.returncode != 0:
-        print(f"Error fetching channel metadata: {proc.stderr}", file=sys.stderr)
-        sys.exit(1)
+    """Extract video metadata from a channel or playlist using yt-dlp flat playlist extraction.
+    Always includes both regular videos and shorts when a channel is specified.
+    """
+    clean_url = channel_url.rstrip("/")
+    base_channel = re.sub(
+        r"/(videos|shorts|featured|playlists|community|streams)$", "", clean_url
+    )
+    if re.search(r"(/@[^/]+|/channel/[^/]+|/c/[^/]+|/user/[^/]+)$", base_channel):
+        target_urls = [f"{base_channel}/videos", f"{base_channel}/shorts"]
+    else:
+        target_urls = [clean_url]
 
-    data = json.loads(proc.stdout)
-    entries = data.get("entries", [])
-    if not entries and data.get("id"):
-        entries = [data]
+    seen_ids: set[str] = set()
+    entries: list[dict[str, Any]] = []
+    for target_url in target_urls:
+        cmd = [
+            "yt-dlp",
+            "--no-update",
+            "--flat-playlist",
+            "-J",
+            target_url,
+        ]
+        status(f"YouTube: discovering content from {target_url} (waiting for yt-dlp)")
+        proc = subprocess.run(cmd, capture_output=True, text=True, check=False)
+        if proc.returncode != 0:
+            continue
+
+        try:
+            data = json.loads(proc.stdout)
+        except Exception:
+            continue
+
+        tab_entries = data.get("entries", [])
+        if not tab_entries and data.get("id"):
+            tab_entries = [data]
+
+        for item in tab_entries:
+            vid_id = str(item.get("id") or "")
+            if not vid_id or len(vid_id) != 11 or vid_id.startswith("UC"):
+                continue
+            if vid_id not in seen_ids:
+                seen_ids.add(vid_id)
+                entries.append(item)
+
+    if not entries:
+        print(f"Error: No videos found from {channel_url}", file=sys.stderr)
+        sys.exit(1)
 
     videos = []
     for item in entries:
