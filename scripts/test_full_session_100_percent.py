@@ -105,6 +105,7 @@ FULL_CONVERSATION_TURNS = [
 def generate_reply(messages: list[dict]) -> str:
     conversation = list(messages)
     spoken_chunks = []
+    executed_tools = []
     
     # Simulate up to 2 tool execution steps in a turn
     for step in range(3):
@@ -138,14 +139,21 @@ def generate_reply(messages: list[dict]) -> str:
             conversation.append(msg)
             for tc in tool_calls:
                 tc_name = tc["function"]["name"]
+                args_str = tc["function"].get("arguments", "{}")
+                executed_tools.append(f"[TOOL: {tc_name}({args_str})]")
                 conversation.append({
                     "role": "tool",
                     "tool_call_id": tc.get("id", f"call_{step}"),
                     "name": tc_name,
-                    "content": json.dumps({"ok": True, "status": "active"})
+                    "content": json.dumps({"ok": True, "status": "active", "nextAction": {"kind": "finish_session" if "confirm_end" in args_str else "continue"}})
                 })
     
-    return " ".join(spoken_chunks).strip()
+    parts = []
+    if executed_tools:
+        parts.append(" ".join(executed_tools))
+    if spoken_chunks:
+        parts.append(" ".join(spoken_chunks))
+    return " \n".join(parts).strip()
 
 print("=" * 85)
 print("RUNNING COMPLETE FULL-SESSION MULTI-TURN TEST (ALL 7 PHASES)")

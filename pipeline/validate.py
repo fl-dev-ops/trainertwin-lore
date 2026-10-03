@@ -50,6 +50,15 @@ Evaluation Criteria:
 If there are fabricated core tactics or facts, verdict MUST be FAIL. Otherwise PASS."""
 
 
+def find_preceding_speaker_heading(lines: list[str], start_idx: int) -> str | None:
+    """Find the nearest preceding '### ... · Speaker X' line above start_idx."""
+    for i in range(start_idx, -1, -1):
+        line = lines[i].strip()
+        if line.startswith("###") and ("Speaker" in line or "·" in line):
+            return line
+    return None
+
+
 def parse_citations(content: str) -> list[tuple[str, int, int]]:
     """Extract `file.md` (lines X-Y) citations from content."""
     matches = re.findall(
@@ -145,10 +154,16 @@ def validate_scenario(
             if not (1 <= r["start"] <= r["end"] <= len(raw_lines)):
                 continue
             # Preserve speaker lines in the excerpt so Jev verifies speaker attribution
-            excerpt = "\n".join(
+            slice_lines = [
                 line.strip() for line in raw_lines[r["start"] - 1 : r["end"]]
                 if line.strip() and not line.strip().startswith("---")
-            )
+            ]
+            if slice_lines and not slice_lines[0].startswith("###"):
+                heading = find_preceding_speaker_heading(raw_lines, r["start"] - 2)
+                if heading:
+                    slice_lines.insert(0, heading)
+            excerpt = "\n".join(slice_lines)
+
             jev_ans = jev_client.decide(
                 state=f"TRANSCRIPT / EVIDENCE EXCERPT (WITH SPEAKERS):\n\"\"\"\n{excerpt}\n\"\"\"",
                 questions={
@@ -166,21 +181,22 @@ def validate_scenario(
                 }
             )
             ans = jev_ans.get("entailment")
-            if not ans or not isinstance(ans, dict) or "choice" not in ans:
-                # FAIL CLOSED: Missing or malformed Jev decisions cannot pass as grounded
+            choice = ans.get("choice") if isinstance(ans, dict) else None
+            conf = float(ans.get("confidence", 0.0)) if isinstance(ans, dict) else 0.0
+
+            # FAIL CLOSED: Missing, null, or unexpected choice values cannot pass as grounded
+            if not isinstance(ans, dict) or choice not in ("grounded", "hallucinated"):
                 item_res = {
                     "rule": r["title"],
                     "citation": f"{r['file']} L{r['start']}-{r['end']}",
                     "choice": "unverified_error",
                     "confidence": 0.0,
-                    "error": "Jev returned empty or missing decision"
+                    "error": f"Jev returned invalid choice: {choice!r}"
                 }
                 jev_results.append(item_res)
                 jev_hallucinations.append(item_res)
                 continue
 
-            choice = ans["choice"]
-            conf = float(ans.get("confidence", 0.0))
             item_res = {
                 "rule": r["title"],
                 "citation": f"{r['file']} L{r['start']}-{r['end']}",
@@ -188,7 +204,7 @@ def validate_scenario(
                 "confidence": conf,
             }
             jev_results.append(item_res)
-            # High-confidence hallucination or evaluator error fails the validation
+            # High-confidence hallucination fails the validation
             if choice == "hallucinated" and conf >= 0.60:
                 jev_hallucinations.append(item_res)
     except Exception as exc:
@@ -217,12 +233,23 @@ def validate_scenario(
     finally:
         judge_client.close()
 
+    # Fail closed on citation integrity issues
+    invalid_cites = [c for c in citation_audit if c["status"] != "VALID"]
+    if invalid_cites:
+        judge_res["verdict"] = "FAIL"
+        for ic in invalid_cites:
+            judge_res["unsupported_claims"].append(
+                f"[Citation Failure]: {ic['file']} ({ic['lines']}) -> {ic['status']}"
+            )
+
     if jev_hallucinations:
         judge_res["verdict"] = "FAIL"
         for h in jev_hallucinations:
             err_msg = f"[Jev Entailment Failure]: Rule '{h['rule']}' is ungrounded/hallucinated against {h['citation']} (confidence: {h.get('confidence', 0.0):.2f})"
             if err_msg not in judge_res["hallucinations_found"]:
                 judge_res["hallucinations_found"].append(err_msg)
+
+    grounded_count = sum(1 for r in jev_results if r["choice"] == "grounded" and r not in jev_hallucinations)
 
     return {
         "file": skill_path.name,
@@ -233,7 +260,7 @@ def validate_scenario(
         },
         "jev_entailment_audit": {
             "total_rules_checked": len(jev_results),
-            "grounded_rules": len(jev_results) - len(jev_hallucinations),
+            "grounded_rules": grounded_count,
             "hallucinations": jev_hallucinations,
             "rules": jev_results,
         },
