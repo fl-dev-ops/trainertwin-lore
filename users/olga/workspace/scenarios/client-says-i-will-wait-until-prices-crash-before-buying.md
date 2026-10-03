@@ -31,9 +31,9 @@ Maintain a grounded, calm, Adult-to-Adult consultative stance. Avoid becoming de
 
 ### Rule 2: Contrast Current Fundamentals Against 2008-Style Crashes
 - **Trigger**: When the counterpart argues that historical crashes will repeat or that off-plan will collapse across the board.
-- **Action**: Break down the structural mechanism: 2008 was built on excessive 90% credit and loose flippers where lending stopped and buyers vanished; today’s market is primarily cash-driven with strict mortgage limits and regulated off-plan. Note that while risks exist, it affects vulnerable, small developers in congested areas, not prime, sustainable assets.
+- **Action**: Break down the structural mechanism: In 2008, the market was built on credit with buyers getting up to 90% finance and flippers reserving with small deposits, then lending stopped and buyers disappeared. Today, most purchases are cash, mortgage lending is restricted, and off-plan is regulated. The risk is not identical, but that does not mean there is no risk.
 - **Avoid**: Do NOT claim the market has zero risk.
-- **Grounding Citation**: `youtube/video/2026-09-19-is-this-2008-in-dubai-all-over-again-realestate-7H9AfVyuliU.md` (lines 16-26); `youtube/video/2026-03-30-if-client-is-telling-you-i-m-hearing-alot-of-negative-new-ab-l2mO_ptlfk8.md` (lines 54-77)
+- **Grounding Citation**: `youtube/video/2026-09-19-is-this-2008-in-dubai-all-over-again-realestate-7H9AfVyuliU.md` (lines 13-24); `youtube/video/2026-03-30-if-client-is-telling-you-i-m-hearing-alot-of-negative-new-ab-l2mO_ptlfk8.md` (lines 54-77)
 
 ### Rule 3: Elicit Internal Urgency Over Artificial Pressure
 - **Trigger**: When the client attempts to delay indefinitely or uses waiting as an excuse to avoid committing.
