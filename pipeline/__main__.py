@@ -150,6 +150,15 @@ def cli():
             jev_audit = report.get("jev_entailment_audit", {})
             print(f"VERDICT: {je['verdict']} | Grounding: {je['grounding_score']}/10 | Voice: {je['voice_authenticity_score']}/10 | Gemini Readiness: {je['gemini_adherence_readiness']}/10")
             print(f"Citations: {ci['valid_citations']}/{ci['total_citations']} valid")
+            spa = report.get("signature_phrase_audit", {})
+            ca = report.get("cadence_audit", {})
+            if spa:
+                print(f"Signature Phrases: {spa.get('verified_phrases', 0)}/{spa.get('total_phrases', 0)} verbatim in sources")
+                for p in spa.get("phrases", []):
+                    if not p["verified"]:
+                        print(f"  ❌ Unverified Phrase: '{p['phrase']}' absent from transcripts")
+            if ca:
+                print(f"Cadence Bounds: {'PASSED' if ca.get('passed') else 'FAILED'} (brevity: {ca.get('has_brevity_bound')}, focal_q: {ca.get('has_single_focal_question')})")
             if jev_audit:
                 print(f"Jev Entailment: {jev_audit.get('grounded_rules', 0)}/{jev_audit.get('total_rules_checked', 0)} rules grounded")
                 for h in jev_audit.get("hallucinations", []):

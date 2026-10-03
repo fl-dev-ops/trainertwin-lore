@@ -44,10 +44,68 @@ Your role is to check whether the authored prompt is grounded in real source evi
 Evaluation Criteria:
 1. Grounding & Fidelity (1-10): Are the heuristics, tactics, and rules supported by the provided source evidence?
 2. Voice & Authenticity (1-10): Does it capture the creator's real tone, phrases, and posture rather than generic AI assistant speech?
-3. Gemini Adherence Readiness (1-10): Does it have turn bounds (2-4 sentences), frequency calibration for verbal ticks, and explicit "Never" boundaries?
+3. Gemini Adherence Readiness (1-10): Does it have strict voice turn bounds (strictly under 50 words), single focal question rule, frequency calibration for verbal ticks, and explicit "Never" boundaries?
 4. Hallucinations / Unsupported Claims: Identify ANY assertion or rule that cannot be verified in the provided evidence.
 
 If there are fabricated core tactics or facts, verdict MUST be FAIL. Otherwise PASS."""
+
+
+def parse_signature_phrases(content: str) -> list[str]:
+    """Extract signature phrases listed under Section 2."""
+    match = re.search(
+        r"Signature Phrases[^\n]*:\s*\n((?:\s*-\s*[\"'].*?[\"'].*?\n)+)",
+        content,
+        re.IGNORECASE,
+    )
+    if not match:
+        return []
+    block = match.group(1)
+    phrases = []
+    for line in block.strip().splitlines():
+        p_match = re.search(r"-\s*[\"']([^\"']+)[\"']", line)
+        if p_match:
+            phrases.append(p_match.group(1).strip())
+    return phrases
+
+
+def audit_signature_phrases(phrases: list[str], source_texts: list[str]) -> list[dict[str, Any]]:
+    """Verify that every signature phrase is a literal verbatim substring in the source evidence."""
+    combined_evidence = " ".join(source_texts).lower()
+    norm_evidence = re.sub(r"\s+", " ", combined_evidence.replace("…", "..."))
+    results = []
+    for phrase in phrases:
+        norm_phrase = re.sub(r"\s+", " ", phrase.lower().replace("…", "...").strip())
+        found = norm_phrase in norm_evidence
+        if not found and norm_phrase.endswith(("?", "!", ".", ":", ",")):
+            found = norm_phrase[:-1].strip() in norm_evidence
+        results.append({
+            "phrase": phrase,
+            "verified": found,
+            "status": "VERIFIED" if found else "FABRICATED_OR_ABSENT",
+        })
+    return results
+
+
+def check_cadence_bounds(content: str) -> dict[str, Any]:
+    """Check whether SKILL.md specifies strict voice turn bounds and single focal questions."""
+    has_brevity = bool(re.search(r"under 50 words|<= ?50 words|strictly under 50", content, re.IGNORECASE))
+    has_single_q = bool(re.search(r"one focal|single focal|exactly one (?:diagnostic )?question", content, re.IGNORECASE))
+    
+    # Extract dialogue turns specifically from Section 4
+    section_4 = re.search(r"## 4\. Exemplar Dialogue Turns(.*?)(?=## 5|\Z)", content, re.DOTALL)
+    dialogue_text = section_4.group(1) if section_4 else ""
+    exemplars = re.findall(r"\*\*(?!Trigger|Action|Avoid|Grounding Citation|Rule)[^*]+\*\*:\s*([^\n]+)", dialogue_text)
+    long_exemplars = []
+    for ex in exemplars:
+        words = ex.split()
+        if len(words) > 50:
+            long_exemplars.append({"text": ex[:80] + "...", "word_count": len(words)})
+    return {
+        "has_brevity_bound": has_brevity,
+        "has_single_focal_question": has_single_q,
+        "long_exemplars_found": len(long_exemplars),
+        "passed": has_brevity and has_single_q and len(long_exemplars) == 0,
+    }
 
 
 def find_preceding_speaker_heading(lines: list[str], start_idx: int) -> str | None:
@@ -109,6 +167,7 @@ def validate_scenario(
     citation_audit = []
     valid_citations = 0
     collected_evidence = []
+    full_source_texts = []
 
     for fpath, s, e in citations:
         full_path = data_dir / fpath
@@ -121,7 +180,9 @@ def validate_scenario(
             citation_audit.append({"file": fpath, "lines": f"{s}-{e}", "status": "FILE_NOT_FOUND"})
             continue
 
-        raw_lines = full_path.read_text(encoding="utf-8").splitlines()
+        raw_text = full_path.read_text(encoding="utf-8")
+        full_source_texts.append(raw_text)
+        raw_lines = raw_text.splitlines()
         if not (1 <= s <= e <= len(raw_lines)):
             citation_audit.append({"file": fpath, "lines": f"{s}-{e}", "status": "OUT_OF_BOUNDS"})
             continue
@@ -134,6 +195,10 @@ def validate_scenario(
         )
         citation_audit.append({"file": fpath, "lines": f"{s}-{e}", "status": "VALID"})
         collected_evidence.append(f"[{fpath} L{s}-{e}]:\n\"{verbatim_slice}\"")
+
+    # Verbatim signature phrase audit (deterministic, zero LLM cost)
+    signature_phrases = parse_signature_phrases(content)
+    phrase_audit = audit_signature_phrases(signature_phrases, full_source_texts)
 
     # Jev semantic entailment verification on cited rules
     jev_client = JevClient(api_key)
@@ -250,6 +315,26 @@ def validate_scenario(
                 judge_res["hallucinations_found"].append(err_msg)
 
     grounded_count = sum(1 for r in jev_results if r["choice"] == "grounded" and r not in jev_hallucinations)
+    cadence_res = check_cadence_bounds(content)
+
+    # Fail closed on cadence violations
+    if not cadence_res["passed"]:
+        judge_res["verdict"] = "FAIL"
+        if not cadence_res["has_brevity_bound"]:
+            judge_res["unsupported_claims"].append("[Cadence Failure]: Section 2 missing strict voice brevity bound (< 50 words).")
+        if not cadence_res["has_single_focal_question"]:
+            judge_res["unsupported_claims"].append("[Cadence Failure]: Section 2 missing single focal question protocol.")
+        if cadence_res["long_exemplars_found"] > 0:
+            judge_res["unsupported_claims"].append(f"[Cadence Failure]: Found {cadence_res['long_exemplars_found']} exemplar turn(s) exceeding length bounds.")
+
+    # Fail closed on unverified/fabricated signature phrases
+    unverified_phrases = [p for p in phrase_audit if not p["verified"]]
+    if unverified_phrases:
+        judge_res["verdict"] = "FAIL"
+        for up in unverified_phrases:
+            judge_res["hallucinations_found"].append(
+                f"[Fabricated Signature Phrase]: '{up['phrase']}' was not found word-for-word in the evidence sources."
+            )
 
     return {
         "file": skill_path.name,
@@ -258,11 +343,17 @@ def validate_scenario(
             "valid_citations": valid_citations,
             "citations": citation_audit,
         },
+        "signature_phrase_audit": {
+            "total_phrases": len(signature_phrases),
+            "verified_phrases": sum(1 for p in phrase_audit if p["verified"]),
+            "phrases": phrase_audit,
+        },
         "jev_entailment_audit": {
             "total_rules_checked": len(jev_results),
             "grounded_rules": grounded_count,
             "hallucinations": jev_hallucinations,
             "rules": jev_results,
         },
+        "cadence_audit": cadence_res,
         "judge_evaluation": judge_res,
     }
