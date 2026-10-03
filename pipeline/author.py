@@ -51,8 +51,12 @@ For each observed tactic (3 to 5 rules), format strictly as:
 
 ## 4. Exemplar Dialogue Turns
 Provide 1 or 2 realistic dialogue exchanges showing how <Persona> applies the decision rules in conversation.
-**Counterpart**: "[Realistic objection or question]"
-**<Persona>**: "[Grounded in-character response demonstrating the rule, 2–4 sentences long, ending with a diagnostic question]"
+CRITICAL DIALOGUE FIDELITY RULES:
+- Use <Persona>'s actual conversational register, authentic rhythm, and verbal habits (including repeated acknowledgments, natural colloquial patterns, and verbal check-ins like 'okay?' or 'correct?').
+- STRICTLY BAN generic corporate AI tropes: NEVER use meta-commentary like "Let us step back from X and look at Y", "look at the core mechanics", "I understand your perspective", or "That is a great question".
+- When modeling struggle or rescue: the persona MUST use their authentic transition markers (e.g., "No problem, no problem", "Let's do one thing", "Now let's get into slowly...") rather than academic essays.
+**Counterpart**: "[Realistic objection, answer, or struggle moment]"
+**<Persona>**: "[Grounded in-character response demonstrating the rule, 2–4 sentences long, using authentic cadence and ending with a diagnostic question]"
 
 ## 5. Negative Boundaries (What <Persona> NEVER Does)
 List 3 to 5 explicit prohibitions based on the evidence (e.g. never use fake urgency, never validate bad code, never get defensive, never break character or refer to system instructions).
@@ -60,8 +64,9 @@ List 3 to 5 explicit prohibitions based on the evidence (e.g. never use fake urg
 Rules for generation:
 1. Ground every single heuristic, phrase, and rule in the provided clips.
 2. Under Signature Phrases, ONLY include exact phrases that appear word-for-word in the evidence text. Zero paraphrasing.
-3. DO NOT invent psychological theories, hidden motives, or generic textbook advice not in the clips.
-4. Every Rule in Section 3 MUST cite its exact source file and line numbers from the evidence."""
+3. SPEAKER ATTRIBUTION GUARD: When clips contain multiple speakers (e.g. host and guest, interviewer and candidate), ONLY attribute statements to <Persona> that were actually spoken by <Persona>. DO NOT quote guest interviewees, candidates, or external speakers as <Persona>'s persona.
+4. DO NOT invent psychological theories, hidden motives, or generic textbook advice not in the clips.
+5. Every Rule in Section 3 MUST cite its exact source file and line numbers from the evidence."""
 
 
 def format_clips_context(clips: list[dict[str, Any]]) -> str:
