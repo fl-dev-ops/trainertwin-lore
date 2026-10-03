@@ -377,6 +377,15 @@
       ],
       "count": 3
     },
+    "leetcode-practice": {
+      "id": "leetcode-practice",
+      "preferred": "LeetCode practice",
+      "aliases": [
+        "LeetCode practice",
+        "practicing LeetCode tagged questions"
+      ],
+      "count": 3
+    },
     "code-snippet-analysis": {
       "id": "code-snippet-analysis",
       "preferred": "code snippet analysis",
@@ -582,14 +591,6 @@
       "preferred": "live execution",
       "aliases": [
         "live execution"
-      ],
-      "count": 2
-    },
-    "leetcode-practice": {
-      "id": "leetcode-practice",
-      "preferred": "LeetCode practice",
-      "aliases": [
-        "LeetCode practice"
       ],
       "count": 2
     },
@@ -912,14 +913,6 @@
       "preferred": "conclusion",
       "aliases": [
         "conclusion"
-      ],
-      "count": 1
-    },
-    "practicing-leetcode-tagged-questions": {
-      "id": "practicing-leetcode-tagged-questions",
-      "preferred": "practicing LeetCode tagged questions",
-      "aliases": [
-        "practicing LeetCode tagged questions"
       ],
       "count": 1
     },
@@ -2192,6 +2185,15 @@
       ],
       "count": 2
     },
+    "handling-massive-scale": {
+      "id": "handling-massive-scale",
+      "preferred": "handling massive scale",
+      "aliases": [
+        "handling massive scale",
+        "large scale data handling"
+      ],
+      "count": 2
+    },
     "startup-vs-big-tech": {
       "id": "startup-vs-big-tech",
       "preferred": "startup vs big tech",
@@ -2216,15 +2218,6 @@
       "aliases": [
         "industry-wide tech layoffs",
         "tech layoffs across global markets"
-      ],
-      "count": 2
-    },
-    "entering-tech-with-a-non-btech-background": {
-      "id": "entering-tech-with-a-non-btech-background",
-      "preferred": "entering tech with a non-BTech background",
-      "aliases": [
-        "entering tech with a non-BTech background",
-        "non-IT graduate transitioning to tech"
       ],
       "count": 2
     },
@@ -3342,14 +3335,6 @@
       ],
       "count": 1
     },
-    "handling-massive-scale": {
-      "id": "handling-massive-scale",
-      "preferred": "handling massive scale",
-      "aliases": [
-        "handling massive scale"
-      ],
-      "count": 1
-    },
     "content-creator-vs-consumer": {
       "id": "content-creator-vs-consumer",
       "preferred": "content creator vs consumer",
@@ -4155,6 +4140,14 @@
       "preferred": "graduating from tier-three colleges",
       "aliases": [
         "graduating from tier-three colleges"
+      ],
+      "count": 1
+    },
+    "entering-tech-with-a-non-btech-background": {
+      "id": "entering-tech-with-a-non-btech-background",
+      "preferred": "entering tech with a non-BTech background",
+      "aliases": [
+        "entering tech with a non-BTech background"
       ],
       "count": 1
     },
@@ -5299,6 +5292,14 @@
       "preferred": "experienced professional organizing resume layout",
       "aliases": [
         "experienced professional organizing resume layout"
+      ],
+      "count": 1
+    },
+    "non-it-graduate-transitioning-to-tech": {
+      "id": "non-it-graduate-transitioning-to-tech",
+      "preferred": "non-IT graduate transitioning to tech",
+      "aliases": [
+        "non-IT graduate transitioning to tech"
       ],
       "count": 1
     },
@@ -7022,14 +7023,6 @@
       ],
       "count": 1
     },
-    "large-scale-data-handling": {
-      "id": "large-scale-data-handling",
-      "preferred": "large scale data handling",
-      "aliases": [
-        "large scale data handling"
-      ],
-      "count": 1
-    },
     "taking-too-long-to-reach-the-core-answer": {
       "id": "taking-too-long-to-reach-the-core-answer",
       "preferred": "taking too long to reach the core answer",
@@ -7325,6 +7318,16 @@
       ],
       "count": 8
     },
+    "code-evaluation": {
+      "id": "code-evaluation",
+      "preferred": "code evaluation",
+      "aliases": [
+        "code evaluation",
+        "code execution",
+        "code review"
+      ],
+      "count": 8
+    },
     "higher-order-functions": {
       "id": "higher-order-functions",
       "preferred": "higher-order functions",
@@ -7364,15 +7367,6 @@
       "preferred": "time complexity analysis",
       "aliases": [
         "time complexity analysis"
-      ],
-      "count": 7
-    },
-    "code-evaluation": {
-      "id": "code-evaluation",
-      "preferred": "code evaluation",
-      "aliases": [
-        "code evaluation",
-        "code review"
       ],
       "count": 7
     },
@@ -7489,6 +7483,17 @@
         "two pointer implementation",
         "two pointer technique",
         "two-pointer technique"
+      ],
+      "count": 6
+    },
+    "edge-case-testing": {
+      "id": "edge-case-testing",
+      "preferred": "edge case testing",
+      "aliases": [
+        "edge case testing",
+        "edge case verification",
+        "test case edge cases",
+        "testing edge cases"
       ],
       "count": 6
     },
@@ -7616,13 +7621,13 @@
       ],
       "count": 5
     },
-    "edge-case-testing": {
-      "id": "edge-case-testing",
-      "preferred": "edge case testing",
+    "stale-closures": {
+      "id": "stale-closures",
+      "preferred": "stale closures",
       "aliases": [
-        "edge case testing",
-        "edge case verification",
-        "testing edge cases"
+        "stale closure in hooks",
+        "stale closures",
+        "stale closures in callbacks"
       ],
       "count": 5
     },
@@ -7912,21 +7917,21 @@
       ],
       "count": 4
     },
-    "stale-closures": {
-      "id": "stale-closures",
-      "preferred": "stale closures",
-      "aliases": [
-        "stale closures",
-        "stale closures in callbacks"
-      ],
-      "count": 4
-    },
     "product-vs-service-companies": {
       "id": "product-vs-service-companies",
       "preferred": "product vs service companies",
       "aliases": [
         "product vs service companies",
         "service vs product companies"
+      ],
+      "count": 4
+    },
+    "jsx": {
+      "id": "jsx",
+      "preferred": "JSX",
+      "aliases": [
+        "JSX",
+        "JSX syntax"
       ],
       "count": 4
     },
@@ -8319,6 +8324,15 @@
       ],
       "count": 3
     },
+    "call-apply-bind": {
+      "id": "call-apply-bind",
+      "preferred": "call apply bind",
+      "aliases": [
+        "apply and bind methods",
+        "call apply bind"
+      ],
+      "count": 3
+    },
     "coding-problem-breakdown-methodology": {
       "id": "coding-problem-breakdown-methodology",
       "preferred": "coding problem breakdown methodology",
@@ -8326,16 +8340,6 @@
         "coding problem breakdown",
         "coding problem breakdown methodology",
         "interview problem breakdown"
-      ],
-      "count": 3
-    },
-    "job-offer-evaluation": {
-      "id": "job-offer-evaluation",
-      "preferred": "job offer evaluation",
-      "aliases": [
-        "job offer comparison",
-        "job offer decision making",
-        "job offer evaluation"
       ],
       "count": 3
     },
@@ -8976,14 +8980,6 @@
       ],
       "count": 2
     },
-    "jsx": {
-      "id": "jsx",
-      "preferred": "JSX",
-      "aliases": [
-        "JSX"
-      ],
-      "count": 2
-    },
     "technical-interview-strategy": {
       "id": "technical-interview-strategy",
       "preferred": "technical interview strategy",
@@ -9209,14 +9205,6 @@
       "aliases": [
         "startup vs MNC",
         "startups vs MNCs"
-      ],
-      "count": 2
-    },
-    "call-apply-bind": {
-      "id": "call-apply-bind",
-      "preferred": "call apply bind",
-      "aliases": [
-        "call apply bind"
       ],
       "count": 2
     },
@@ -9472,14 +9460,6 @@
       ],
       "count": 2
     },
-    "jsx-syntax": {
-      "id": "jsx-syntax",
-      "preferred": "JSX syntax",
-      "aliases": [
-        "JSX syntax"
-      ],
-      "count": 2
-    },
     "derived-state": {
       "id": "derived-state",
       "preferred": "derived state",
@@ -9521,21 +9501,21 @@
       ],
       "count": 2
     },
-    "genai-job-impact": {
-      "id": "genai-job-impact",
-      "preferred": "GenAI job impact",
-      "aliases": [
-        "AI impact on IT careers",
-        "GenAI job impact"
-      ],
-      "count": 2
-    },
     "variable-redeclaration": {
       "id": "variable-redeclaration",
       "preferred": "variable redeclaration",
       "aliases": [
         "redeclaration error",
         "variable redeclaration"
+      ],
+      "count": 2
+    },
+    "job-offer-evaluation": {
+      "id": "job-offer-evaluation",
+      "preferred": "job offer evaluation",
+      "aliases": [
+        "job offer comparison",
+        "job offer evaluation"
       ],
       "count": 2
     },
@@ -9659,6 +9639,14 @@
       "preferred": "wealth distribution",
       "aliases": [
         "wealth distribution"
+      ],
+      "count": 1
+    },
+    "genai-job-impact": {
+      "id": "genai-job-impact",
+      "preferred": "GenAI job impact",
+      "aliases": [
+        "GenAI job impact"
       ],
       "count": 1
     },
@@ -15470,14 +15458,6 @@
       ],
       "count": 1
     },
-    "test-case-edge-cases": {
-      "id": "test-case-edge-cases",
-      "preferred": "test case edge cases",
-      "aliases": [
-        "test case edge cases"
-      ],
-      "count": 1
-    },
     "string-reduction": {
       "id": "string-reduction",
       "preferred": "string reduction",
@@ -15955,6 +15935,14 @@
       "preferred": "corporate reality check",
       "aliases": [
         "corporate reality check"
+      ],
+      "count": 1
+    },
+    "ai-impact-on-it-careers": {
+      "id": "ai-impact-on-it-careers",
+      "preferred": "AI impact on IT careers",
+      "aliases": [
+        "AI impact on IT careers"
       ],
       "count": 1
     },
@@ -17582,6 +17570,14 @@
       ],
       "count": 1
     },
+    "job-offer-decision-making": {
+      "id": "job-offer-decision-making",
+      "preferred": "job offer decision making",
+      "aliases": [
+        "job offer decision making"
+      ],
+      "count": 1
+    },
     "vetting-company-culture": {
       "id": "vetting-company-culture",
       "preferred": "vetting company culture",
@@ -18790,14 +18786,6 @@
       ],
       "count": 1
     },
-    "code-execution": {
-      "id": "code-execution",
-      "preferred": "code execution",
-      "aliases": [
-        "code execution"
-      ],
-      "count": 1
-    },
     "undefined-behavior": {
       "id": "undefined-behavior",
       "preferred": "undefined behavior",
@@ -19926,14 +19914,6 @@
       ],
       "count": 1
     },
-    "apply-and-bind-methods": {
-      "id": "apply-and-bind-methods",
-      "preferred": "apply and bind methods",
-      "aliases": [
-        "apply and bind methods"
-      ],
-      "count": 1
-    },
     "partial-function-application": {
       "id": "partial-function-application",
       "preferred": "partial function application",
@@ -20219,14 +20199,6 @@
       "preferred": "synchronous execution in React",
       "aliases": [
         "synchronous execution in React"
-      ],
-      "count": 1
-    },
-    "stale-closure-in-hooks": {
-      "id": "stale-closure-in-hooks",
-      "preferred": "stale closure in hooks",
-      "aliases": [
-        "stale closure in hooks"
       ],
       "count": 1
     },
