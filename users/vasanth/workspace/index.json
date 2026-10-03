@@ -774,6 +774,306 @@
       "path": "youtube/video/2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-OnQvAtOm8cg.md",
       "sha256": "9d1db3f66ff8c068f5f4d5825d30f705b994cdb94d0931861451866fac35c033",
       "basis": "sections"
+    },
+    "youtube-video-2022-08-28-learn-colorize-extension-in-visual-studio-code-and-map-betwe-d866f22800": {
+      "path": "youtube/video/2022-08-28-learn-colorize-extension-in-visual-studio-code-and-map-betwe-W9tL0dwIWXM.md",
+      "sha256": "b72ae5fadd8bda0106002223b172aa366021fda0781809cfd215daf4be50ea4d",
+      "basis": "whole"
+    },
+    "youtube-video-2022-08-27-learn-peacock-extension-in-visual-studio-code-and-colorise-y-558b85ea3f": {
+      "path": "youtube/video/2022-08-27-learn-peacock-extension-in-visual-studio-code-and-colorise-y-tZJ-GgYx-6Y.md",
+      "sha256": "2978e2bd1f34be7fa4d21dca9c1ed81af2a36aea35485a6a1b2581d14fce875a",
+      "basis": "whole"
+    },
+    "youtube-video-2022-08-27-learn-sticky-scroll-extension-in-visual-studio-code-and-make-8928f6b794": {
+      "path": "youtube/video/2022-08-27-learn-sticky-scroll-extension-in-visual-studio-code-and-make-VTkUjnS_y4o.md",
+      "sha256": "c8552aed26c9f712898dd3e416456ec63a5d6bef8aa7cd4cd7792c3a57ff1a2e",
+      "basis": "whole"
+    },
+    "youtube-video-2022-08-25-learn-spell-checker-in-visual-studio-code-and-make-no-spelli-5c00a897cd": {
+      "path": "youtube/video/2022-08-25-learn-spell-checker-in-visual-studio-code-and-make-no-spelli-NQjDcV7D7io.md",
+      "sha256": "a3ef5cf2a9ecadf990212a856ed6c701664d5a0fecec63d8c6460d84b79d2903",
+      "basis": "whole"
+    },
+    "youtube-video-2022-08-28-learn-auto-rename-tag-extension-in-visual-studio-code-and-cl-2f3a2b8613": {
+      "path": "youtube/video/2022-08-28-learn-auto-rename-tag-extension-in-visual-studio-code-and-cl-Nthy3R1N5HE.md",
+      "sha256": "97abca98c52b9a5cf6192e2954d111f516338182ae13c2437fe8a126631565cb",
+      "basis": "whole"
+    },
+    "youtube-video-2022-06-17-maang-interview-qstns-solved-shorts-interview-frontend-faceb-f922186373": {
+      "path": "youtube/video/2022-06-17-maang-interview-qstns-solved-shorts-interview-frontend-faceb-8ByBOT7Aehs.md",
+      "sha256": "86a26c6c49a370655816d866e71825d673f8bb85872a6bd0d1338b07015457a7",
+      "basis": "whole"
+    },
+    "youtube-video-2022-08-28-learn-better-comments-extension-in-visual-studio-code-and-co-87f47a7d92": {
+      "path": "youtube/video/2022-08-28-learn-better-comments-extension-in-visual-studio-code-and-co-PYPkYlZm3Y0.md",
+      "sha256": "3fc884b6970876997167494f06e5eda5d632c9c55ecda463288d4881059e43dc",
+      "basis": "whole"
+    },
+    "youtube-video-2022-06-20-9-10-will-fail-to-solve-this-meta-facebook-interview-questio-16f61ad242": {
+      "path": "youtube/video/2022-06-20-9-10-will-fail-to-solve-this-meta-facebook-interview-questio-xCvOQwjPAw4.md",
+      "sha256": "e2c28d08cb42480b7332b572e33416de72be75b06548da1609c1fe6f827cb95f",
+      "basis": "whole"
+    },
+    "youtube-video-2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-10ebbbb774": {
+      "path": "youtube/video/2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-TXRjImSxm7k.md",
+      "sha256": "6afc6fa3eb3c1f58fde561fae3743525a7fecf56eb86dbf0ab434e146907235e",
+      "basis": "whole"
+    },
+    "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-3-nkins-eb616ab881": {
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-3-NKInspIc8fQ.md",
+      "sha256": "fa952eaca17d133961f0b6daa5a115066e9bf3f5af57d98434e32e45999fb2ff",
+      "basis": "whole"
+    },
+    "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-4-nejqg-17a87cd545": {
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-4-nEjqGzJ8Lo8.md",
+      "sha256": "a0095f60b4ea0fbb54e9526096b3e04b411b51a495b8df45c32acc42202904b4",
+      "basis": "whole"
+    },
+    "youtube-video-2022-09-27-does-async-await-block-main-thread-in-javascript-shorts-j-wq-7a4bca849c": {
+      "path": "youtube/video/2022-09-27-does-async-await-block-main-thread-in-javascript-shorts-j_WqYUkEOhc.md",
+      "sha256": "f1164193287202c3df9d5fd183fc4edfb081bedbf2c5cf192cd8ccf262f27a69",
+      "basis": "whole"
+    },
+    "youtube-video-2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-e463a6e7aa": {
+      "path": "youtube/video/2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-mF5VBtMjltE.md",
+      "sha256": "9fde0c367e933106210b933296a112378053a5c0e52325e4c029a4817a68dbbe",
+      "basis": "whole"
+    },
+    "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-2-tn78k-dc3872021b": {
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-2-tn78kAxG1iw.md",
+      "sha256": "b83856ae149fd7a52f25603dfb8a614d94998fd8555fa302b81bbd0f5171fefb",
+      "basis": "whole"
+    },
+    "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-5-ytwlq-6d99d48354": {
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-5-YTwlqepy7aI.md",
+      "sha256": "a08fa9bfec64f44462fde63955a9a3a4231eb0edd852498cbb168f7856adda6e",
+      "basis": "whole"
+    },
+    "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-1-uprtg-9268e52fc9": {
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-1-upRtGTd9juQ.md",
+      "sha256": "76f7aa9d94a364ecb0ae70ebfd08f5644afddcec8592301c998f4c0172332f26",
+      "basis": "whole"
+    },
+    "youtube-video-2022-10-01-by-being-full-stack-developer-your-chance-of-shortlisting-is-6f81506601": {
+      "path": "youtube/video/2022-10-01-by-being-full-stack-developer-your-chance-of-shortlisting-is-E7oSHwWJhvU.md",
+      "sha256": "54b0f77b7a8e187daa5b5d75c5a42b715cee4357438a0737138105912577ab33",
+      "basis": "whole"
+    },
+    "youtube-video-2022-10-01-don-t-fall-for-fresher-full-stack-developer-scam-part-1-4xqk-7ab0da7de2": {
+      "path": "youtube/video/2022-10-01-don-t-fall-for-fresher-full-stack-developer-scam-part-1-4XqkwKyJf3E.md",
+      "sha256": "67bf5e463c6ead68e31d30e3c41c816897f4c19e4f5ec05d0f05789b37f01686",
+      "basis": "whole"
+    },
+    "youtube-video-2022-10-01-don-t-become-situational-full-stack-developer-part-2-hrqqyja-1fa1f5ba88": {
+      "path": "youtube/video/2022-10-01-don-t-become-situational-full-stack-developer-part-2-HRQQyJaR7rQ.md",
+      "sha256": "cf6ed077665509bf99605ef439f8369810b5fa8310bc9e31209b21c1533571b9",
+      "basis": "whole"
+    },
+    "youtube-video-2022-10-01-don-t-be-a-generalist-it-industry-needs-specialists-full-sta-f618e6758e": {
+      "path": "youtube/video/2022-10-01-don-t-be-a-generalist-it-industry-needs-specialists-full-sta-H3zH48KUBHw.md",
+      "sha256": "d4bf60fc08654def2cbd1142ad04d353b36bb2d9e05b1b7c5a7a292aace5896e",
+      "basis": "whole"
+    },
+    "youtube-video-2022-10-01-just-check-once-are-you-situational-full-stack-developer-or-44391c69af": {
+      "path": "youtube/video/2022-10-01-just-check-once-are-you-situational-full-stack-developer-or-w8uCbeqdn-A.md",
+      "sha256": "bbaf4aef088667ceb44a21e8ba70f02482f09dec60a26324b1100d3efc316905",
+      "basis": "whole"
+    },
+    "youtube-video-2022-10-01-don-t-fall-for-full-stack-scam-google-facebook-and-other-pre-c9d76e5c72": {
+      "path": "youtube/video/2022-10-01-don-t-fall-for-full-stack-scam-google-facebook-and-other-pre-03vJ9EAZIdc.md",
+      "sha256": "53a132075f1f279edc2a951f997e9de75a5206af9be7b88eacbd0c6e27f6a099",
+      "basis": "whole"
+    },
+    "youtube-video-2022-10-01-there-is-no-right-full-stack-combination-that-works-for-all-0eb935dffe": {
+      "path": "youtube/video/2022-10-01-there-is-no-right-full-stack-combination-that-works-for-all-vW5Fdb-eobc.md",
+      "sha256": "ba7e7c62acc1673e19d990fcae9d8fa2371c44318da0c1a91e762ae20c4cff15",
+      "basis": "whole"
+    },
+    "youtube-video-2022-10-01-freshers-don-t-fall-for-fresher-full-stack-development-scam-7aac6abd4b": {
+      "path": "youtube/video/2022-10-01-freshers-don-t-fall-for-fresher-full-stack-development-scam-WVMGTY9s5s0.md",
+      "sha256": "462e7c6bea5ab8bdb3540051bf5628cf3fe4ff1d5d4816995913f63efa321610",
+      "basis": "whole"
+    },
+    "youtube-video-2022-11-07-how-much-dsa-to-prepare-for-frontend-developer-interview-sho-37d595bba7": {
+      "path": "youtube/video/2022-11-07-how-much-dsa-to-prepare-for-frontend-developer-interview-sho--63SA0pZCms.md",
+      "sha256": "71db6447889e2434405e6e4c51376f0e4730c418ea6de7238960d6faa62c6a76",
+      "basis": "whole"
+    },
+    "youtube-video-2022-11-07-how-to-clear-interview-without-painful-preparation-shorts-in-1307dc5691": {
+      "path": "youtube/video/2022-11-07-how-to-clear-interview-without-painful-preparation-shorts-in-enLjOezXyUE.md",
+      "sha256": "877dfd89eb7b7bcc76c6a919cf5d5551046f6c1e4a66722383c40f88fc7367d2",
+      "basis": "whole"
+    },
+    "youtube-video-2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-08084550b8": {
+      "path": "youtube/video/2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-q4UojNsiAeg.md",
+      "sha256": "ebd7ccf7854207822585dcabe7c8e78532394484557a6f9f17cefe207e9a0147",
+      "basis": "sections"
+    },
+    "youtube-video-2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-9c06f7833e": {
+      "path": "youtube/video/2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-0OmNkE7kghk.md",
+      "sha256": "5d63298d8c58ee9067127f93b3760af96448ac281cce49d68a6d0993253b6c7f",
+      "basis": "sections"
+    },
+    "youtube-video-2022-11-30-only-1-10-can-give-right-answer-to-this-are-you-that-one-sho-25965e1cbc": {
+      "path": "youtube/video/2022-11-30-only-1-10-can-give-right-answer-to-this-are-you-that-one-sho-4-ks716yWRE.md",
+      "sha256": "564cdd93ad00d73bfa96f2267530d66cf6e980f3ccdd140d9cc6ab72cb6a534e",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-01-99-of-you-cannot-guess-right-answer-to-this-question-javascr-0ec7810d99": {
+      "path": "youtube/video/2022-12-01-99-of-you-cannot-guess-right-answer-to-this-question-javascr-WV4fVAUVzAs.md",
+      "sha256": "6686e9db5011ac3acfcfc3dbf31de3d545159f71097ece12401c87380b5cd9e0",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-05-self-invoking-function-closure-most-confusing-javascript-int-a2349de018": {
+      "path": "youtube/video/2022-12-05-self-invoking-function-closure-most-confusing-javascript-int-UIr2fYUPjOw.md",
+      "sha256": "9c943b69b198eb4319a93969e99d795b237b5fbd9fc9b4bb425f38d4b4c8b286",
+      "basis": "whole"
+    },
+    "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67": {
+      "path": "youtube/video/2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-KMcrghrs00k.md",
+      "sha256": "ca6dfa4efdd3344001353a2e1d4f139123761b692c569d561517de57489eb787",
+      "basis": "sections"
+    },
+    "youtube-video-2022-12-06-what-happens-when-you-pass-parameters-to-closure-javascript-3888ba1e90": {
+      "path": "youtube/video/2022-12-06-what-happens-when-you-pass-parameters-to-closure-javascript-yW1Zv9_O9QA.md",
+      "sha256": "af283e15e9486c2c1ccb53afba2028a674f8efc4f720a671f51bcd4297d7b07f",
+      "basis": "whole"
+    },
+    "youtube-video-2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo-ecc83df90e": {
+      "path": "youtube/video/2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo--FK2uzPfSeI.md",
+      "sha256": "ec9425cdd86e79bb56c77a6050d55a9ecfc74ac7f424435ae400c86b8323bd57",
+      "basis": "sections"
+    },
+    "youtube-video-2022-12-15-javascript-interview-what-is-console-log-a-function-or-an-ob-61ac8e8349": {
+      "path": "youtube/video/2022-12-15-javascript-interview-what-is-console-log-a-function-or-an-ob-upeLt3cZQe0.md",
+      "sha256": "474eec3df6f98a10b91fe73ace3b3f1895adc9b1e6952dd67734af3b1e9ef7f7",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-14-javascript-interview-currying-and-non-currying-in-same-funct-eca31ba2d8": {
+      "path": "youtube/video/2022-12-14-javascript-interview-currying-and-non-currying-in-same-funct-AshTtL3Ie_M.md",
+      "sha256": "0a09b9af231fe234bb0986e0f8b597cf0efde2b613931b74d7cabdbd1bb35198",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-18-when-to-memoisation-in-in-javascript-important-topic-for-int-e92751760c": {
+      "path": "youtube/video/2022-12-18-when-to-memoisation-in-in-javascript-important-topic-for-int-F52hp7f2yJI.md",
+      "sha256": "f5e357196af0a7cea57bc41fe71dbc77a5e2a773e9ff3f67d56ab7fcb635bcb0",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-07-does-arrow-functions-hoisted-in-javascript-most-confusing-in-ac899512e6": {
+      "path": "youtube/video/2022-12-07-does-arrow-functions-hoisted-in-javascript-most-confusing-in-qUpvBVUyf7o.md",
+      "sha256": "72affd64b171e4514e0db018a373998df08228db9b53f530f1f3dc7949a53bbc",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-17-learn-memoisation-in-one-minute-in-javascript-important-topi-ea81510936": {
+      "path": "youtube/video/2022-12-17-learn-memoisation-in-one-minute-in-javascript-important-topi-r89zy-6Y1sQ.md",
+      "sha256": "d26ecc5c1369da2d877e5d4402d31091c4cbcbd6a2ccc4e007098e73c23d4d14",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-19-why-you-should-use-memoisation-in-in-javascript-important-to-570e04d7a9": {
+      "path": "youtube/video/2022-12-19-why-you-should-use-memoisation-in-in-javascript-important-to-qp1VCAstfWU.md",
+      "sha256": "f1f136cffc14b7803edce5f3e71e8a7af2c475354e3f5cfc42a4a45627a86a90",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-15-javascript-console-log-is-a-pure-function-yd1rovwjiwm-md-3aa52c1fbd": {
+      "path": "youtube/video/2022-12-15-javascript-console-log-is-a-pure-function-yd1rOVwJiwM.md",
+      "sha256": "0b28e60224a55aed5adca3f9b0f81af1baa4fdfa80f71b89abc82757c43b9758",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-20-fibonacci-series-explained-with-diagram-in-javascript-import-335c252ed5": {
+      "path": "youtube/video/2022-12-20-fibonacci-series-explained-with-diagram-in-javascript-import-r7mG5PtHqQQ.md",
+      "sha256": "91f4e5fb3475d233abbcc22df2eb7c1718eefd1a45d0dbe29155103b0adfc738",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-22-learn-recursive-solution-to-fibonacci-series-in-javascript-i-e8c8bce02e": {
+      "path": "youtube/video/2022-12-22-learn-recursive-solution-to-fibonacci-series-in-javascript-i-ogNNAzZ3AZk.md",
+      "sha256": "2be51252ae28a7125a39b8055ab0a5fff3720fb65f6baf2adc86bca603249e96",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-21-learn-recursive-solution-to-fibonacci-series-in-javascript-i-0a518b8a9e": {
+      "path": "youtube/video/2022-12-21-learn-recursive-solution-to-fibonacci-series-in-javascript-i-Ii2vLCaOWYg.md",
+      "sha256": "a9c697efe064eab0018b3a1f50cbd2e64c448aa0ea244698bd96f5c73ac500cd",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-23-most-simplest-memoization-example-ever-in-javascript-importa-56b9d4c8f1": {
+      "path": "youtube/video/2022-12-23-most-simplest-memoization-example-ever-in-javascript-importa-qCwPPD9xqbA.md",
+      "sha256": "6a55bf8544d80d6fe1723974bf311ac07caee5548de7d18b732dcbdf9dd54122",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-28-in-it-industry-what-is-right-age-to-retire-retirement-softwa-b0144b7e4f": {
+      "path": "youtube/video/2022-12-28-in-it-industry-what-is-right-age-to-retire-retirement-softwa-b3x2fqgieNo.md",
+      "sha256": "901cd9dfaacae47ebc7bce132ca0a7dc9d66bc074fed65700fdad0fe3739933c",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-26-ask-this-question-at-the-end-of-every-interview-100-you-will-61f0bc3dad": {
+      "path": "youtube/video/2022-12-26-ask-this-question-at-the-end-of-every-interview-100-you-will-ralvnZWXvxs.md",
+      "sha256": "82f67eb98c70e5da767d898045c7d7e63229a40ffabb3c41949c7dc023ef8aed",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-27-career-in-it-industry-ends-at-the-age-of-40-retirement-softw-a9f0b2bc09": {
+      "path": "youtube/video/2022-12-27-career-in-it-industry-ends-at-the-age-of-40-retirement-softw-f2RhQ8EkuHQ.md",
+      "sha256": "efe8a20041d4cbf0fd7c04005a181c6ff43c056cb3ce9cfba804f49b54c2d846",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-29-follow-csw-strategy-to-pick-right-job-offer-when-you-have-mo-d56cba8da3": {
+      "path": "youtube/video/2022-12-29-follow-csw-strategy-to-pick-right-job-offer-when-you-have-mo-1FbI9ezxhLI.md",
+      "sha256": "f1fd533e1dce4e4585830bf3b445e7959b5bbdc149a6e5c4991c4594d328a48c",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-31-difference-between-parseint-and-number-in-javascript-importa-2a34433471": {
+      "path": "youtube/video/2022-12-31-difference-between-parseint-and-number-in-javascript-importa-FZ1h8NNZSRw.md",
+      "sha256": "10373766adcc3d5f4fc9b592291476491ddbb3bc62a8c5a026dbb90ad931da93",
+      "basis": "whole"
+    },
+    "youtube-video-2022-12-30-90-candidates-makes-this-mistake-in-the-interview-interview-75372cb383": {
+      "path": "youtube/video/2022-12-30-90-candidates-makes-this-mistake-in-the-interview-interview-Ph-fE6Az5xA.md",
+      "sha256": "bd0d96f9a52e2bc5102694b58704832d8b2b3a9b541d5d5448d1b33d84d7d1fa",
+      "basis": "whole"
+    },
+    "youtube-video-2023-01-03-why-product-companies-don-t-hire-freshers-hiring-freshers-fr-66334d1539": {
+      "path": "youtube/video/2023-01-03-why-product-companies-don-t-hire-freshers-hiring-freshers-fr-s1LU2UOQANk.md",
+      "sha256": "164b9140114366d28afab87a7cb5b677a3fe3a90a804676a4cab0692e37db01e",
+      "basis": "whole"
+    },
+    "youtube-video-2023-01-12-more-than-90-people-make-this-mistake-while-resigning-the-jo-1a4507a0db": {
+      "path": "youtube/video/2023-01-12-more-than-90-people-make-this-mistake-while-resigning-the-jo-51WK5XDgmho.md",
+      "sha256": "f0d52d32289b8411b885a41306e9fe35d7f66311487cef4085ef8eb468aa6656",
+      "basis": "whole"
+    },
+    "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165": {
+      "path": "youtube/video/2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-1PbGdGHOBeM.md",
+      "sha256": "83dd2bd49b90142c170b1d0969b4218218be115502b6d5535d0d1bf56b021d07",
+      "basis": "list"
+    },
+    "youtube-video-2023-01-19-more-than-90-candidates-make-this-mistake-in-the-interview-n-ed94610b64": {
+      "path": "youtube/video/2023-01-19-more-than-90-candidates-make-this-mistake-in-the-interview-n-8VjzGbjmkoM.md",
+      "sha256": "b23971c9af7287655ba9f7d550d8910206562d539672d8d97a32fec9b6cfebda",
+      "basis": "whole"
+    },
+    "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573": {
+      "path": "youtube/video/2023-01-09-how-to-get-more-than-30-hike-during-job-change-gaBo8wDIHrI.md",
+      "sha256": "5891a6f6a2339b37e9e61196547ea94e09d79266426326c0b0b766e07f9adf94",
+      "basis": "list"
+    },
+    "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323": {
+      "path": "youtube/video/2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-QNkyLNV0W_I.md",
+      "sha256": "dbb303eb7ca0b744fdb316402e117417aadb362e3441ec2a7ec66030059888d0",
+      "basis": "list"
+    },
+    "youtube-video-2025-12-27-recorded-courses-vs-cohorts-what-actually-works-for-frontend-cfc0ed60b1": {
+      "path": "youtube/video/2025-12-27-recorded-courses-vs-cohorts-what-actually-works-for-frontend--7LTjcmA6H0.md",
+      "sha256": "d1c7c84f941c3fe942df038da323958ee642dde7a99274eb4ea7c97a6e304851",
+      "basis": "whole"
+    },
+    "youtube-video-2025-12-22-i-ve-taken-500-frontend-interviews-here-s-what-most-candidat-174c52f3c6": {
+      "path": "youtube/video/2025-12-22-i-ve-taken-500-frontend-interviews-here-s-what-most-candidat-lN1hW_1AO0A.md",
+      "sha256": "512f76685f6effb920e6a707c5aeaa305d3186419595be4bc4fe3c66a4ddda3a",
+      "basis": "whole"
+    },
+    "youtube-video-2026-05-28-careerwithvasanth-frontend-mastery-cohort-2-launch-frontend-9b772f866e": {
+      "path": "youtube/video/2026-05-28-careerwithvasanth-frontend-mastery-cohort-2-launch-frontend-ziD0ywlSNC0.md",
+      "sha256": "99364c0b39f700c406ed2467902ae6d2d05f06a663ea36a68c2538a155c28bd4",
+      "basis": "whole"
     }
   },
   "items": [
@@ -55275,6 +55575,1747 @@
       "source_id": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2",
       "path": "youtube/video/2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-OnQvAtOm8cg.md",
       "prev": "youtube-video-2026-06-09-careerwithvasanth-frontend-mastery-cohort-2-session-1-javasc-0f97878bf2:1884-1907",
+      "next": null
+    },
+    {
+      "title": "Learn Colorize Extension in Visual Studio Code and map between Hex code and color",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Colorize VS Code extension"
+        },
+        {
+          "facet": "activity",
+          "label": "software tutorial"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 27
+      },
+      "quote": "all welcome back to Uncommon Geeks myself Hassan. Let's learn another very important VS code extension today. If you are someone who is using VS code and you are using the CSS, there is always a problem to match between the hexadecimal color code and the color, correct? So there is a beautiful extension called Colorize. You just go to extension and install the Colorize and you can the way you use is very simple. Whenever you go for to pick any any ID, selector and you can just give color and see",
+      "item_id": "youtube-video-2022-08-28-learn-colorize-extension-in-visual-studio-code-and-map-betwe-d866f22800:0021-0027",
+      "source_id": "youtube-video-2022-08-28-learn-colorize-extension-in-visual-studio-code-and-map-betwe-d866f22800",
+      "path": "youtube/video/2022-08-28-learn-colorize-extension-in-visual-studio-code-and-map-betwe-W9tL0dwIWXM.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Learn Peacock Extension in Visual Studio Code and Colorise your editor",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Peacock VS Code Extension"
+        },
+        {
+          "facet": "situation",
+          "label": "working with multiple windows of Visual Studio Code"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 26
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. Myself, Fazal. Let's learn another very important Visual Studio Code extension today. Whenever you're working with multiple windows of Visual Studio Code, it is it will become a little difficult to identify which window you're currently working. So for that, there's an extension called Peacock. Install Peacock extension. Then just hit command P or control P on your windows and put an arrow mark and then you can colorify your Visual Studio Code data. For",
+      "item_id": "youtube-video-2022-08-27-learn-peacock-extension-in-visual-studio-code-and-colorise-y-558b85ea3f:0020-0026",
+      "source_id": "youtube-video-2022-08-27-learn-peacock-extension-in-visual-studio-code-and-colorise-y-558b85ea3f",
+      "path": "youtube/video/2022-08-27-learn-peacock-extension-in-visual-studio-code-and-colorise-y-tZJ-GgYx-6Y.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Enabling Sticky Scroll in Visual Studio Code",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "sticky scroll"
+        },
+        {
+          "facet": "situation",
+          "label": "losing context while scrolling long functions"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 35
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. Myself Vasanth. Let's learn a very important VS Code hack today. So, let's say you have a function which is like this merge and which which goes around fifty one to fifty three lines and whenever you are scrolling and debugging, you gradually lost which function you are into. So there is a beautiful VS code settings which you can enable to avoid this problem. So go to file, go to code and go to your preferences and the settings. So inside that you have ",
+      "item_id": "youtube-video-2022-08-27-learn-sticky-scroll-extension-in-visual-studio-code-and-make-8928f6b794:0023-0035",
+      "source_id": "youtube-video-2022-08-27-learn-sticky-scroll-extension-in-visual-studio-code-and-make-8928f6b794",
+      "path": "youtube/video/2022-08-27-learn-sticky-scroll-extension-in-visual-studio-code-and-make-VTkUjnS_y4o.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Using the Code Spell Checker Extension in Visual Studio Code",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Code Spell Checker"
+        },
+        {
+          "facet": "situation",
+          "label": "spelling mistakes in code"
+        },
+        {
+          "facet": "activity",
+          "label": "code review preparation"
+        }
+      ],
+      "span": {
+        "start_line": 19,
+        "end_line": 25
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks, myself Fasant. So in this video, we are we are looking at a very important VS code extension called code spell checker. So it's a common mistake that most developers do whenever they're typing, they do a spelling mistake. So just go to VS code and search for spell and install this code spell checker extension. How to use that is let's say you are trying to log something, let's say you want to log the excellence and you have missed adding a double L here",
+      "item_id": "youtube-video-2022-08-25-learn-spell-checker-in-visual-studio-code-and-make-no-spelli-5c00a897cd:0019-0025",
+      "source_id": "youtube-video-2022-08-25-learn-spell-checker-in-visual-studio-code-and-make-no-spelli-5c00a897cd",
+      "path": "youtube/video/2022-08-25-learn-spell-checker-in-visual-studio-code-and-make-no-spelli-NQjDcV7D7io.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Learn Auto Rename tag Extension in Visual Studio Code and close tag automatically",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Auto Rename Tag extension"
+        },
+        {
+          "facet": "activity",
+          "label": "VS Code setup"
+        },
+        {
+          "facet": "situation",
+          "label": "modifying HTML markup tags"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 28
+      },
+      "quote": "# Learn Auto Rename tag Extension in Visual Studio Code and close tag automatically #shorts #vscode ## Transcript Hello all, welcome back to Uncommon Geeks. uh Myself, Fasan, let's learn another very important VS code exchange today. Its name is Auto Rename Tag. So, whenever you're coding with any scripting, any markup language like HTML, after a point of time, there are so many tags and you get lost, which and you want to change particular tag, it will become very difficult. So the easiest way ",
+      "item_id": "youtube-video-2022-08-28-learn-auto-rename-tag-extension-in-visual-studio-code-and-cl-2f3a2b8613:0018-0028",
+      "source_id": "youtube-video-2022-08-28-learn-auto-rename-tag-extension-in-visual-studio-code-and-cl-2f3a2b8613",
+      "path": "youtube/video/2022-08-28-learn-auto-rename-tag-extension-in-visual-studio-code-and-cl-Nthy3R1N5HE.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "MAANG Frontend Interview Preparation Series",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "frontend interview preparation"
+        },
+        {
+          "facet": "situation",
+          "label": "preparing for MAANG technical interviews"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 23
+      },
+      "quote": "Hey, stop scrolling. Are you a front end developer? You are looking out for a job change in very high paying companies like Meta, Apple, Amazon, Netflix and Google or what we call Mang. But you don't know where are the right materials or how to solve the tough interview questions that are asked in these companies, right? But wait is over. I have prepared a brand new video series for the front end developers by decoding all the most common interview questions of Mang. Just click on the descriptio",
+      "item_id": "youtube-video-2022-06-17-maang-interview-qstns-solved-shorts-interview-frontend-faceb-f922186373:0021-0023",
+      "source_id": "youtube-video-2022-06-17-maang-interview-qstns-solved-shorts-interview-frontend-faceb-f922186373",
+      "path": "youtube/video/2022-06-17-maang-interview-qstns-solved-shorts-interview-frontend-faceb-8ByBOT7Aehs.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Learn Better Comments Extension in Visual Studio Code",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Better Comments extension"
+        },
+        {
+          "facet": "activity",
+          "label": "code commenting"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 31
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks, myself Azant. So, let's learn another very important VS code extension today. It is called Better Comments, who want to always comment in a simple and traditional format. So there are a lot of different ways which we can comment. So there's an extension called Better Comments, just install that plugin. So after installing that, you can just clarify your comments. So for example, as soon as you put the two stars and close it with one star, you start seei",
+      "item_id": "youtube-video-2022-08-28-learn-better-comments-extension-in-visual-studio-code-and-co-87f47a7d92:0021-0031",
+      "source_id": "youtube-video-2022-08-28-learn-better-comments-extension-in-visual-studio-code-and-co-87f47a7d92",
+      "path": "youtube/video/2022-08-28-learn-better-comments-extension-in-visual-studio-code-and-co-PYPkYlZm3Y0.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Meta/Facebook Interview Question",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Meta interview questions"
+        },
+        {
+          "facet": "activity",
+          "label": "technical interview"
+        }
+      ],
+      "span": {
+        "start_line": 14,
+        "end_line": 28
+      },
+      "quote": "# 9/10 will fail to solve this Meta/Facebook interview question #shorts ## Transcript Hello So this is actually the only way you can actually transmit sound through the phone is through the eSIM Hello",
+      "item_id": "youtube-video-2022-06-20-9-10-will-fail-to-solve-this-meta-facebook-interview-questio-16f61ad242:0014-0028",
+      "source_id": "youtube-video-2022-06-20-9-10-will-fail-to-solve-this-meta-facebook-interview-questio-16f61ad242",
+      "path": "youtube/video/2022-06-20-9-10-will-fail-to-solve-this-meta-facebook-interview-questio-xCvOQwjPAw4.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "How to cache/memoise function with varying args in Js",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memoization with varying arguments"
+        },
+        {
+          "facet": "situation",
+          "label": "technical interview deciding question"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 27
+      },
+      "quote": "Now, coming to this video, it is super important video, like you saw on thumbnail. I literally lost a very good package because I couldn't answer this question in the interview. There were three questions in the deciding round where one question I had answered perfectly right, second question was somewhat right, and this was the third question where interviewer was expecting me to answer fully, but I couldn't answer. So whatever the number you are seeing on the thumbnail, that is just subjective",
+      "item_id": "youtube-video-2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-10ebbbb774:0021-0027",
+      "source_id": "youtube-video-2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-10ebbbb774",
+      "path": "youtube/video/2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-TXRjImSxm7k.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "5 things that every Engineering student must know Pt - 3",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "entrepreneurship in college"
+        },
+        {
+          "facet": "situation",
+          "label": "planning career as an entrepreneur during engineering"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 26
+      },
+      "quote": "So now you are clear about your purpose. Let us take some couple of examples and deal with that. For example, now you want to become an entrepreneur. So you you you are either rich or you are whatever the state of life you are but you still have an ability to take a risk, correct? So you want to you want to be an entrepreneur and now you have four years where you are learning some things and after end of four years you want to become entrepreneur. So what should be a thought process? So entrepre",
+      "item_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-3-nkins-eb616ab881:0020-0026",
+      "source_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-3-nkins-eb616ab881",
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-3-NKInspIc8fQ.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "5 things that every Engineering student must know Pt - 4",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "engineering degree purpose"
+        },
+        {
+          "facet": "activity",
+          "label": "career planning"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 26
+      },
+      "quote": "See, the purpose of your engineering should be very clear, correct? So Vasant, what is purpose? So purpose is nothing but to get a job, right purpose. To do a higher education, again a right purpose where engineering is just one step for you but you want to pursue some higher education and you cannot pursue that without having an engineering degree. So you're pursuing engineering. Third, you are interested to get a government job, but still you want also know some amount of engineering like I've",
+      "item_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-4-nejqg-17a87cd545:0020-0026",
+      "source_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-4-nejqg-17a87cd545",
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-4-nEjqGzJ8Lo8.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Does async await block main thread in JavaScript",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "async await execution order"
+        },
+        {
+          "facet": "topic",
+          "label": "event loop"
+        },
+        {
+          "facet": "activity",
+          "label": "code output puzzle"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 42
+      },
+      "quote": "Okay? So now let me decode this, let me make this a little more trickier. Okay? So what I'll do, I'll put this here before calling test. after calling test. Now guess the output, what will be the output? The order of locks, what is the order of locks now? I know it is get might be making a little confusing. The purpose of making this is to you should have a very solid understanding of async and await or a promises. So by the end of this definitely you will get that. Okay so please please stay tu",
+      "item_id": "youtube-video-2022-09-27-does-async-await-block-main-thread-in-javascript-shorts-j-wq-7a4bca849c:0020-0042",
+      "source_id": "youtube-video-2022-09-27-does-async-await-block-main-thread-in-javascript-shorts-j-wq-7a4bca849c",
+      "path": "youtube/video/2022-09-27-does-async-await-block-main-thread-in-javascript-shorts-j_WqYUkEOhc.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Memoizing a function with varying arguments",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memoization"
+        },
+        {
+          "facet": "situation",
+          "label": "caching function results with multiple arguments"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 31
+      },
+      "quote": "So, first time you calculated ten comma twenty, what is the output? There was no necessity to compute the remaining three values, correct? You could have just stored the result of the previous computation and returned it, correct? So, let's say you have another function called, I'm sorry. Let's say you have another function called multiply. multiply that takes let's say three arguments. Number three. Number three and it will return multiplication of three arguments, okay? So now, let's say you w",
+      "item_id": "youtube-video-2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-e463a6e7aa:0021-0031",
+      "source_id": "youtube-video-2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-e463a6e7aa",
+      "path": "youtube/video/2022-09-26-i-lost-50l-ctc-bcz-of-this-qstn-how-to-cache-memoise-functio-mF5VBtMjltE.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "5 things that every Engineering student must know Pt - 2",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "internships"
+        },
+        {
+          "facet": "situation",
+          "label": "engineering college students considering internships"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 26
+      },
+      "quote": "See, if you are in a college which are giving you a six to eight months time to go for an internship, then please go go for an internship. In case if you don't know how you can get an internship from good companies and normal companies, please mention that in comment section. I'll try to make a detailed video about how to get a good internship, okay? And if you let's say you already got the internship now, which is for one month or two months, correct? See, frankly, I did not do any internship i",
+      "item_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-2-tn78k-dc3872021b:0020-0026",
+      "source_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-2-tn78k-dc3872021b",
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-2-tn78kAxG1iw.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "5 things that every Engineering student must know Pt - 5",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "academic performance vs skills"
+        },
+        {
+          "facet": "situation",
+          "label": "deciding target engineering percentage"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 26
+      },
+      "quote": "my experience of scoring very high in my engineering days, what I advise is, you don't have to be a topper, like for example, seventy, eighty percent, ninety percent. ninety percent to at least in Karnataka people won't get. But at least seventy to eighty percent if you're planning, I don't say that is that should be that shouldn't be your goal. So scoring high shouldn't be your goal, but at least sixty percent you should get, correct? And many start saying no, no, no, many have got good jobs wi",
+      "item_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-5-ytwlq-6d99d48354:0020-0026",
+      "source_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-5-ytwlq-6d99d48354",
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-5-YTwlqepy7aI.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "5 things that every Engineering student must know Pt - 1",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "peer comparison and mental health"
+        },
+        {
+          "facet": "situation",
+          "label": "unplaced engineering graduate seeing friends get jobs"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 30
+      },
+      "quote": "Correct? See comparison is something that kills lot of kills as in don't think literal killing but in mind it will kill lot of people it will starts creating lot of downfall in our mental system because of the comparison. Like I had my friend who with whom I used to eat for last four years we used to hang out everywhere but now he has got placed with six lakh seven lakh ten lakh package but I'm still not finding a job. So this has I have seen a lot of this among the engineering graduates and who",
+      "item_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-1-uprtg-9268e52fc9:0020-0030",
+      "source_id": "youtube-video-2022-09-29-5-things-that-every-engineering-student-must-know-pt-1-uprtg-9268e52fc9",
+      "path": "youtube/video/2022-09-29-5-things-that-every-engineering-student-must-know-pt-1-upRtGTd9juQ.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "By being full stack developer your chance of shortlisting is reducing",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "full stack vs single stack specialization"
+        },
+        {
+          "facet": "situation",
+          "label": "struggling to get shortlisted for engineering roles"
+        },
+        {
+          "facet": "activity",
+          "label": "career coaching"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 28
+      },
+      "quote": "company they are aspiring if they are not working on the stack complete full stack whatever they have learned they are trying to apply on a one stack where they are confident like whether Java just the Java or just the React or Angular part they are applying if this is something that you want to do what is the point of you becoming a full stack developer yourself Is it not the right time, at least now the high time for you to evaluate? You could have rather become this mediocre full stack or jus",
+      "item_id": "youtube-video-2022-10-01-by-being-full-stack-developer-your-chance-of-shortlisting-is-6f81506601:0018-0028",
+      "source_id": "youtube-video-2022-10-01-by-being-full-stack-developer-your-chance-of-shortlisting-is-6f81506601",
+      "path": "youtube/video/2022-10-01-by-being-full-stack-developer-your-chance-of-shortlisting-is-E7oSHwWJhvU.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Don't fall for fresher full stack developer scam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "full stack developer courses"
+        },
+        {
+          "facet": "situation",
+          "label": "freshers choosing between full stack vs specialized frontend or backend"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 24
+      },
+      "quote": "But just by being a fresher you call yourself a full stack developer that is an absolute waste. So if you are a fresher who has applied for a companies who is going to apply for a course or already in a course and not paid the fees just at least compare the difference. So how much you are paying for the full stack developer course how much you would pay individual like front end and the back end okay. If you think that is a significant difference and you are somebody who is inclined to one like ",
+      "item_id": "youtube-video-2022-10-01-don-t-fall-for-fresher-full-stack-developer-scam-part-1-4xqk-7ab0da7de2:0018-0024",
+      "source_id": "youtube-video-2022-10-01-don-t-fall-for-fresher-full-stack-developer-scam-part-1-4xqk-7ab0da7de2",
+      "path": "youtube/video/2022-10-01-don-t-fall-for-fresher-full-stack-developer-scam-part-1-4XqkwKyJf3E.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Don't become situational full stack developer part 2",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "full stack developer skill development"
+        },
+        {
+          "facet": "situation",
+          "label": "learning the second stack as a situational full stack developer"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 24
+      },
+      "quote": "there is a back end developer who is very good at back end technology who want to implement certain web applications. So he he go through some basic React JS course or angular course and he understand the basics and with the help of some web and the stack overflow he tries to build a UI etcetera. Okay? So this is good. There is nothing wrong in doing this way. But problem is most full stack developers even whoever out there have a priority whether to work on a back end or to work on the front en",
+      "item_id": "youtube-video-2022-10-01-don-t-become-situational-full-stack-developer-part-2-hrqqyja-1fa1f5ba88:0018-0024",
+      "source_id": "youtube-video-2022-10-01-don-t-become-situational-full-stack-developer-part-2-hrqqyja-1fa1f5ba88",
+      "path": "youtube/video/2022-10-01-don-t-become-situational-full-stack-developer-part-2-HRQQyJaR7rQ.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Don't be a generalist 😭! IT Industry needs specialists | full stack developer scam 💔",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "generalist vs specialist"
+        },
+        {
+          "facet": "topic",
+          "label": "software engineering careers"
+        },
+        {
+          "facet": "situation",
+          "label": "scaling application from startup to high traffic"
+        }
+      ],
+      "span": {
+        "start_line": 19,
+        "end_line": 25
+      },
+      "quote": "industry gradually goes at a stage where it needs specialist and not a generalist. Okay? What do I mean by this? So let's say you are starting an application, you are a startup company, you started an application. So whenever you started that way, you need more generalist than the specialist. What do I mean by generalist? Somebody who knows back end, front end, even if they do deliver the products for whatever they are manufacturing or even if they themselves do QA. All these things can be done ",
+      "item_id": "youtube-video-2022-10-01-don-t-be-a-generalist-it-industry-needs-specialists-full-sta-f618e6758e:0019-0025",
+      "source_id": "youtube-video-2022-10-01-don-t-be-a-generalist-it-industry-needs-specialists-full-sta-f618e6758e",
+      "path": "youtube/video/2022-10-01-don-t-be-a-generalist-it-industry-needs-specialists-full-sta-H3zH48KUBHw.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Situational full stack developer vs real full stack developer",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "situational full stack developer"
+        },
+        {
+          "facet": "situation",
+          "label": "developer learning stack out of project necessity"
+        }
+      ],
+      "span": {
+        "start_line": 19,
+        "end_line": 25
+      },
+      "quote": "how most of the full stack developer at least in India are formed are they are all situational full stack developers. So what do I mean by situational full stack developers? See, uh let's say I wanted to learn a mobile application development because I have a lot of interest in that and I see a future prospects in that. So I decide to learn full stack mobile application development via some online course and YouTube curriculum etcetera. And then after making I made some very good projects maybe ",
+      "item_id": "youtube-video-2022-10-01-just-check-once-are-you-situational-full-stack-developer-or-44391c69af:0019-0025",
+      "source_id": "youtube-video-2022-10-01-just-check-once-are-you-situational-full-stack-developer-or-44391c69af",
+      "path": "youtube/video/2022-10-01-just-check-once-are-you-situational-full-stack-developer-or-w8uCbeqdn-A.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Decline in Full Stack Developer Hiring at Top Tech Companies",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "full stack hiring trends"
+        },
+        {
+          "facet": "situation",
+          "label": "applying for software roles at premium tech companies"
+        }
+      ],
+      "span": {
+        "start_line": 19,
+        "end_line": 25
+      },
+      "quote": "okay? And this trend of hiring the full stack developer continued a bit in premium companies also. In 2018, 19 even the premium companies like Google, Facebook, LinkedIn also hired full stack developers. But now, but now if you go and open the career page of any of the premium company that probably want to work. Facebook, Google, Netflix, Amazon, any company. If I could have actually shown but that itself becomes one video so I'm not showing. Feel free to go to any of the career sites and just s",
+      "item_id": "youtube-video-2022-10-01-don-t-fall-for-full-stack-scam-google-facebook-and-other-pre-c9d76e5c72:0019-0025",
+      "source_id": "youtube-video-2022-10-01-don-t-fall-for-full-stack-scam-google-facebook-and-other-pre-c9d76e5c72",
+      "path": "youtube/video/2022-10-01-don-t-fall-for-full-stack-scam-google-facebook-and-other-pre-03vJ9EAZIdc.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "There is no right full stack combination that works for all",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "full stack tech stacks"
+        },
+        {
+          "facet": "situation",
+          "label": "choosing a full stack developer career combination"
+        }
+      ],
+      "span": {
+        "start_line": 19,
+        "end_line": 25
+      },
+      "quote": "considering from a full stack developer career point of view. What is right full stack combination you tell me? So this video can be watched by lot of developers across so I'm asking a question to you. What is the right full stack development combination? So is it Java and React JS or is it Java and Angular? Is it Java and just vanilla JavaScript HTML or is it Java and Vue JS? Or there are a lot of other UI popular UI frameworks out there. This also applies is it with a C# and all these combinat",
+      "item_id": "youtube-video-2022-10-01-there-is-no-right-full-stack-combination-that-works-for-all-0eb935dffe:0019-0025",
+      "source_id": "youtube-video-2022-10-01-there-is-no-right-full-stack-combination-that-works-for-all-0eb935dffe",
+      "path": "youtube/video/2022-10-01-there-is-no-right-full-stack-combination-that-works-for-all-vW5Fdb-eobc.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Freshers full stack development scam",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "fresher full stack development"
+        },
+        {
+          "facet": "situation",
+          "label": "freshers applying for full stack roles after short bootcamps"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 24
+      },
+      "quote": "but there has been lot of things that are happening with the freshers with this full stack development. In fact, I have interviewed developers or this fresher developer who come out of this premium institutes. I can't take a name because it will create a problem to him but I have I have interviewed them. They undergo four to five months training to become a full stack developer. I wonder how a fresher has a value of a full stack developer, correct? Obviously, they teach you how to build a UI, ho",
+      "item_id": "youtube-video-2022-10-01-freshers-don-t-fall-for-fresher-full-stack-development-scam-7aac6abd4b:0018-0024",
+      "source_id": "youtube-video-2022-10-01-freshers-don-t-fall-for-fresher-full-stack-development-scam-7aac6abd4b",
+      "path": "youtube/video/2022-10-01-freshers-don-t-fall-for-fresher-full-stack-development-scam-WVMGTY9s5s0.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "DSA Preparation for Frontend Developer Interviews",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "data structures and algorithms"
+        },
+        {
+          "facet": "situation",
+          "label": "frontend developer interview preparation"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 24,
+        "end_line": 50
+      },
+      "quote": "few companies that are really actually looking for your DSA and especially on top of them is Google. uh they they would want want you to write some DSA answers in their Google sheets. Yes. And yeah I mean I would say they're not at a very very high level. They're not going to ask you to reverse uh a graph or a tree and and stuff like that but they would really ask you basic questions and and that's where you need to really transition yourself and uh Yeah by the can be like, uh, I can write all o",
+      "item_id": "youtube-video-2022-11-07-how-much-dsa-to-prepare-for-frontend-developer-interview-sho-37d595bba7:0024-0050",
+      "source_id": "youtube-video-2022-11-07-how-much-dsa-to-prepare-for-frontend-developer-interview-sho-37d595bba7",
+      "path": "youtube/video/2022-11-07-how-much-dsa-to-prepare-for-frontend-developer-interview-sho--63SA0pZCms.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Continuous Interviewing and Retrospecting Instead of Painful Preparation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "interview preparation strategy"
+        },
+        {
+          "facet": "activity",
+          "label": "giving interviews"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 47
+      },
+      "quote": "Okay, so I I don't prepare for any interview. It's it's the same day, same week before any kind of interview. I kind of Yes yeah just keep giving interviews and I keep taking interviews so I kind of have that practice of of being in that zone again and again and then solving new questions again and again and that's that's something really helps me to be on top of my game and to also understand what's happening in the industry at the moment and what the industry is looking for so yeah I mean when",
+      "item_id": "youtube-video-2022-11-07-how-to-clear-interview-without-painful-preparation-shorts-in-1307dc5691:0021-0047",
+      "source_id": "youtube-video-2022-11-07-how-to-clear-interview-without-painful-preparation-shorts-in-1307dc5691",
+      "path": "youtube/video/2022-11-07-how-to-clear-interview-without-painful-preparation-shorts-in-enLjOezXyUE.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Tactfully asking interviewers about company drawbacks",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "interview questions"
+        },
+        {
+          "facet": "activity",
+          "label": "job interview"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 44
+      },
+      "quote": "things you don't like about this company. So you can't really straightforwardly ask that. Exactly. But you have to like play around with the words and then make them feel super comfortable. Yeah. And that's where I've gotten really, really interesting responses. So if I give you an example of the most interesting response I got is from I think a director at Apple told me that obviously we all know Apple is super, super secretive about what they do and what products they launch. And that's not on",
+      "item_id": "youtube-video-2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-08084550b8:0021-0044",
+      "source_id": "youtube-video-2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-08084550b8",
+      "path": "youtube/video/2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-q4UojNsiAeg.md",
+      "prev": null,
+      "next": "youtube-video-2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-08084550b8:0045-0068"
+    },
+    {
+      "title": "Internal secrecy and communication silos between Apple teams",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "corporate culture"
+        },
+        {
+          "facet": "situation",
+          "label": "internal secrecy at Apple"
+        }
+      ],
+      "span": {
+        "start_line": 45,
+        "end_line": 68
+      },
+      "quote": "four Yeah okay motor also internally they are extremely secretive. Yes. Being so secretive that it's a problem that teams don't communicate that well to each other. Teams are secretive within different teams. So you might be working on a problem that another team might have already solved and you would never know. Yes",
+      "item_id": "youtube-video-2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-08084550b8:0045-0068",
+      "source_id": "youtube-video-2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-08084550b8",
+      "path": "youtube/video/2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-q4UojNsiAeg.md",
+      "prev": "youtube-video-2022-11-07-uber-engineer-explains-why-apple-s-teams-don-t-talk-to-each-08084550b8:0021-0044",
+      "next": null
+    },
+    {
+      "title": "Why Communication Matters in Moderate or Borderline Interviews",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "interview evaluation"
+        },
+        {
+          "facet": "situation",
+          "label": "borderline interview performance"
+        },
+        {
+          "facet": "activity",
+          "label": "technical interview"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 44
+      },
+      "quote": "as interviews would be really really happy if it's a clear cut yes or if there are certain things which there are clear cut no and the most taxing part is when when it's in between and Yeah or correct Correct We want to push to yes. Yes. Right? Because we know we as I as interviewer know that not every day might be your best day. Not every day would be typically killing it or typically at the top of your game. So we want to give you yes and give you the the benefit of the doubt. But that one rea",
+      "item_id": "youtube-video-2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-9c06f7833e:0021-0044",
+      "source_id": "youtube-video-2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-9c06f7833e",
+      "path": "youtube/video/2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-0OmNkE7kghk.md",
+      "prev": null,
+      "next": "youtube-video-2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-9c06f7833e:0045-0063"
+    },
+    {
+      "title": "Two-Way Communication and Mutual Understanding During Interviews",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "communication skills"
+        },
+        {
+          "facet": "situation",
+          "label": "interview feedback loop"
+        },
+        {
+          "facet": "activity",
+          "label": "interview assessment"
+        }
+      ],
+      "span": {
+        "start_line": 45,
+        "end_line": 63
+      },
+      "quote": "Yes, right because definitely correct correct Direct to communicate and I would say ki if I if I communicated something to you how good were you able to get it if you communicated something to me how how good I was able to understand it so it's a",
+      "item_id": "youtube-video-2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-9c06f7833e:0045-0063",
+      "source_id": "youtube-video-2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-9c06f7833e",
+      "path": "youtube/video/2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-0OmNkE7kghk.md",
+      "prev": "youtube-video-2022-11-07-when-interview-goes-moderate-how-to-clear-it-shorts-javascri-9c06f7833e:0021-0044",
+      "next": null
+    },
+    {
+      "title": "Analyzing Code Output Questions in Technical Interviews",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "code output questions"
+        },
+        {
+          "facet": "activity",
+          "label": "technical interview"
+        },
+        {
+          "facet": "situation",
+          "label": "guessing output too quickly"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 32
+      },
+      "quote": "set timeout function so this entire block. The question what they ask is what is the output? Guess the output. So one very very mistake very common mistake that interview candidates have done that I've seen is suddenly guess the output. don't delve into problem at all. Don't check line by line. Just you have understood one or two lines, dental. Don't do that. Some interviewers are good enough. They'll give you time to give a second answer. Some interviewers are not like that. You said the answer",
+      "item_id": "youtube-video-2022-11-30-only-1-10-can-give-right-answer-to-this-are-you-that-one-sho-25965e1cbc:0022-0032",
+      "source_id": "youtube-video-2022-11-30-only-1-10-can-give-right-answer-to-this-are-you-that-one-sho-25965e1cbc",
+      "path": "youtube/video/2022-11-30-only-1-10-can-give-right-answer-to-this-are-you-that-one-sho-4-ks716yWRE.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Variable Hoisting Interview Question",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "hoisting"
+        },
+        {
+          "facet": "activity",
+          "label": "mock interview"
+        },
+        {
+          "facet": "situation",
+          "label": "predicting function output with var"
+        }
+      ],
+      "span": {
+        "start_line": 24,
+        "end_line": 32
+      },
+      "quote": "Second question, very, very, very, very classic problem. So many scenarios this question is asked. In fact, I think I have also asked in my other series, but still a lot of get confused to answer this, okay? So if you know the answer mention hosting question number two and put your answer in the comment section then continue watching. Okay? So if not, you are calling a function called get rate, okay? So then you are trying to see rate is undefined, then you have initial let rate is equals to let",
+      "item_id": "youtube-video-2022-12-01-99-of-you-cannot-guess-right-answer-to-this-question-javascr-0ec7810d99:0024-0032",
+      "source_id": "youtube-video-2022-12-01-99-of-you-cannot-guess-right-answer-to-this-question-javascr-0ec7810d99",
+      "path": "youtube/video/2022-12-01-99-of-you-cannot-guess-right-answer-to-this-question-javascr-WV4fVAUVzAs.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Self invoking function + closure !! most confusing #javascript interview question ever",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "closures"
+        },
+        {
+          "facet": "topic",
+          "label": "IIFE"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 29
+      },
+      "quote": "is this inner function whatever was there it that I have made a self invoking function. Okay self invoking function what they call ify need will execute automatically it will not wait for any external trigger. Correct? So in this case what is the output? You know already the concept, you already guessed the output in the previous, again you get confused here. Why you are getting confused is because you really don't know the concept, you only know the question. You expecting the same question to ",
+      "item_id": "youtube-video-2022-12-05-self-invoking-function-closure-most-confusing-javascript-int-a2349de018:0023-0029",
+      "source_id": "youtube-video-2022-12-05-self-invoking-function-closure-most-confusing-javascript-int-a2349de018",
+      "path": "youtube/video/2022-12-05-self-invoking-function-closure-most-confusing-javascript-int-UIr2fYUPjOw.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Researching Cash-Burning Companies Before Joining",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "company research"
+        },
+        {
+          "facet": "situation",
+          "label": "evaluating startup job offers"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 45
+      },
+      "quote": "So see like whenever you join some company right do some do some research. For example companies like Byju's or Paytm Zomato Swiggy they are cash burning companies. Cash burning company means on every transaction which they are doing mostly they are burning some their own own cash. Correct. So they have not reached they have not they have not been a positive revenue company. So so if you are joining such kind of companies see how recently they have laid off and how recently they have got funding",
+      "item_id": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67:0022-0045",
+      "source_id": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67",
+      "path": "youtube/video/2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-KMcrghrs00k.md",
+      "prev": null,
+      "next": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67:0046-0069"
+    },
+    {
+      "title": "Checking Layoff History and Recent Funding",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "job security"
+        },
+        {
+          "facet": "situation",
+          "label": "assessing risk of layoffs"
+        }
+      ],
+      "span": {
+        "start_line": 46,
+        "end_line": 69
+      },
+      "quote": "So of and how Exactly not laid off recently and if they have if they don't have any history of laying off and they have got fundings recently then it's still a safe bet to join but if they have read if they have laid off recently or they are they are not have they have not raised fund recently or or you are not hearing good things about that company from their employees then I think you should avoid and don't have any",
+      "item_id": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67:0046-0069",
+      "source_id": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67",
+      "path": "youtube/video/2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-KMcrghrs00k.md",
+      "prev": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67:0022-0045",
+      "next": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67:0070-0088"
+    },
+    {
+      "title": "Avoiding Companies with Recent Layoffs and Poor Sentiment",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "company reputation"
+        },
+        {
+          "facet": "situation",
+          "label": "deciding whether to join a startup"
+        }
+      ],
+      "span": {
+        "start_line": 70,
+        "end_line": 88
+      },
+      "quote": "and still a join But Correct",
+      "item_id": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67:0070-0088",
+      "source_id": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67",
+      "path": "youtube/video/2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-KMcrghrs00k.md",
+      "prev": "youtube-video-2022-11-29-why-you-shouldn-t-be-joining-these-companies-shorts-layoffs-895b93bc67:0046-0069",
+      "next": null
+    },
+    {
+      "title": "What happens when you pass parameters to closure",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "closures"
+        },
+        {
+          "facet": "topic",
+          "label": "setTimeout loop scoping"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 33
+      },
+      "quote": "you have a set timeout, you have a normal function, okay, not self invoking or anything, but that function has been triggered and the value of I is passed to this, okay? value of I you are passing and that is I mean K and I are basically the same, just to avoid confusion I'm referring here as a K, okay? the argument that you're passing is first you'll pass zero, second you'll pass one, third you'll pass two, correct? whenever it is the third, the loop will be exited. Now what will be the output?",
+      "item_id": "youtube-video-2022-12-06-what-happens-when-you-pass-parameters-to-closure-javascript-3888ba1e90:0023-0033",
+      "source_id": "youtube-video-2022-12-06-what-happens-when-you-pass-parameters-to-closure-javascript-3888ba1e90",
+      "path": "youtube/video/2022-12-06-what-happens-when-you-pass-parameters-to-closure-javascript-yW1Zv9_O9QA.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Understanding tech industry layoffs and avoiding panic",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "tech layoffs"
+        },
+        {
+          "facet": "situation",
+          "label": "tech company layoffs"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 45
+      },
+      "quote": "see laying off can happen to anyone. uh if if if Facebook and Microsoft can fire then anybody can fire. Exactly. uh so so it's pretty much like part of the journey and at the end they are running company they want to have profits for their company. So even if they have to fire you maybe it is difficult for them but they have to do it for the interest of their company. So you we have to deal with it first thing. Second thing is like don't panic. Exactly. Layoffs has been happening from the beginn",
+      "item_id": "youtube-video-2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo-ecc83df90e:0022-0045",
+      "source_id": "youtube-video-2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo-ecc83df90e",
+      "path": "youtube/video/2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo--FK2uzPfSeI.md",
+      "prev": null,
+      "next": "youtube-video-2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo-ecc83df90e:0046-0069"
+    },
+    {
+      "title": "Maintaining patience in a slow job market and deciding whether to switch",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "job hunting"
+        },
+        {
+          "facet": "situation",
+          "label": "slow job market"
+        }
+      ],
+      "span": {
+        "start_line": 46,
+        "end_line": 69
+      },
+      "quote": "Exactly Exactly even in next two hundred years as well. Exactly. So it's okay. Now the question comes whether like yeah I do believe that if you are looking for a change or looking for a job as a fresher the market is slow. Yes. Keep patience it will take time to get a job but you will get a job we still have opportunities but it will take some time so you have to keep some patience. Now the last question is whether we should join or or we should switch or not at this time. but Exactly looking",
+      "item_id": "youtube-video-2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo-ecc83df90e:0046-0069",
+      "source_id": "youtube-video-2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo-ecc83df90e",
+      "path": "youtube/video/2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo--FK2uzPfSeI.md",
+      "prev": "youtube-video-2022-11-29-why-big-small-tech-firms-firing-associates-shorts-amazon-goo-ecc83df90e:0022-0045",
+      "next": null
+    },
+    {
+      "title": "What console.log is in JavaScript programming constraints",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "console.log"
+        },
+        {
+          "facet": "situation",
+          "label": "technical interview fundamentals question"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 33
+      },
+      "quote": "So what is console.log? So in programming constraints, is it a keyword? Is it a function? Is it a class? What it is? So almost you'll be using it day in and day out if you're a JavaScript or a content developer where to for either for debugging or either for logging something on the screen. So you'll be somewhere or the other you'll be using it every day. But most if I won't say most but many will not know actually what is console dot log in with respect to programming constraints. So interviewe",
+      "item_id": "youtube-video-2022-12-15-javascript-interview-what-is-console-log-a-function-or-an-ob-61ac8e8349:0023-0033",
+      "source_id": "youtube-video-2022-12-15-javascript-interview-what-is-console-log-a-function-or-an-ob-61ac8e8349",
+      "path": "youtube/video/2022-12-15-javascript-interview-what-is-console-log-a-function-or-an-ob-upeLt3cZQe0.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Handling currying and non-currying in the same function",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "function currying"
+        },
+        {
+          "facet": "topic",
+          "label": "arguments object"
+        },
+        {
+          "facet": "activity",
+          "label": "technical interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 45
+      },
+      "quote": "So, thought process to be changed this way. So where, we have two arguments here and we have one argument in the first function call. So, and we should have a two block inside the add function which where one block handles the closure kind of function calls and another block handles the normal function call. So now you got some some lights in your brain. Two things. One block handles the closure, another block handles the normal function. So there has to be check. Correct, there should be a chec",
+      "item_id": "youtube-video-2022-12-14-javascript-interview-currying-and-non-currying-in-same-funct-eca31ba2d8:0023-0045",
+      "source_id": "youtube-video-2022-12-14-javascript-interview-currying-and-non-currying-in-same-funct-eca31ba2d8",
+      "path": "youtube/video/2022-12-14-javascript-interview-currying-and-non-currying-in-same-funct-AshTtL3Ie_M.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "When to Memoisation in in #javascript #important #topic for #interview Learn in 1 minute",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memoization"
+        },
+        {
+          "facet": "situation",
+          "label": "repetitive function calls optimization"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 29
+      },
+      "quote": "So memoization is nothing but trying to catch the value of the previous processing and use it for the further processing. Is it possible all the time? No. Only for repetitive actions it is possible. For those functions which you are not sure whether the same set of inputs are coming to going to come again or not, then it's an unnecessary headache of using the memoization, correct? Every optimization technique comes with its own performance problems. So just because somebody else is using, don't ",
+      "item_id": "youtube-video-2022-12-18-when-to-memoisation-in-in-javascript-important-topic-for-int-e92751760c:0023-0029",
+      "source_id": "youtube-video-2022-12-18-when-to-memoisation-in-in-javascript-important-topic-for-int-e92751760c",
+      "path": "youtube/video/2022-12-18-when-to-memoisation-in-in-javascript-important-topic-for-int-F52hp7f2yJI.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Hoisting of Arrow Functions in JavaScript",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "arrow function hoisting"
+        },
+        {
+          "facet": "situation",
+          "label": "interviewer trying to confuse candidate on hoisting"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 29
+      },
+      "quote": "is functions hosted in JavaScript? I said yes. So is it a normal function in JavaScript? Yes. So function one will be able to invoke this? Yes. What about the second function? This is always there will be a interviewer wants to create a confusion in you and see how you're reacting to that. Okay? So now this if you see function two, correct? If this was not there, okay, most would have said welcome to gigs for gigs is the output. But now just because this is there, you start getting confused. So ",
+      "item_id": "youtube-video-2022-12-07-does-arrow-functions-hoisted-in-javascript-most-confusing-in-ac899512e6:0023-0029",
+      "source_id": "youtube-video-2022-12-07-does-arrow-functions-hoisted-in-javascript-most-confusing-in-ac899512e6",
+      "path": "youtube/video/2022-12-07-does-arrow-functions-hoisted-in-javascript-most-confusing-in-qUpvBVUyf7o.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Learn Memoisation in One minute in JavaScript",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memoization"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 32
+      },
+      "quote": "what is memorization is is this So whenever you're doing a big computation where the computation result is so high or the computation happened to get the result is so high, then don't do it repetitively. If there is a chance where you can catch that value, then please catch the value and return the cached value. In very simple example, the factorial program, correct? What is factorial of five? One twenty. Five into four into three into two into one, which is one twenty, correct? Factorial of ten",
+      "item_id": "youtube-video-2022-12-17-learn-memoisation-in-one-minute-in-javascript-important-topi-ea81510936:0022-0032",
+      "source_id": "youtube-video-2022-12-17-learn-memoisation-in-one-minute-in-javascript-important-topi-ea81510936",
+      "path": "youtube/video/2022-12-17-learn-memoisation-in-one-minute-in-javascript-important-topi-r89zy-6Y1sQ.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Why you should use Memoisation in JavaScript",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memoization"
+        },
+        {
+          "facet": "topic",
+          "label": "performance optimization"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 29
+      },
+      "quote": "So see let's say twenty factorial means uh when you're doing the five factorial you've already multiplied four into three into two into one correct? When you already did the ten factorial you've already multiplied ten to one. So whenever you're doing twenty factorial again you need not to multiply twenty, nineteen, eighteen etcetera. So whatever you have multiplied till nineteen factorial you can store that value somewhere just multiply twenty to that correct? So it would save around nineteen mu",
+      "item_id": "youtube-video-2022-12-19-why-you-should-use-memoisation-in-in-javascript-important-to-570e04d7a9:0023-0029",
+      "source_id": "youtube-video-2022-12-19-why-you-should-use-memoisation-in-in-javascript-important-to-570e04d7a9",
+      "path": "youtube/video/2022-12-19-why-you-should-use-memoisation-in-in-javascript-important-to-qp1VCAstfWU.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Whether console.log is a pure function",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pure functions"
+        },
+        {
+          "facet": "topic",
+          "label": "console.log"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 48
+      },
+      "quote": "Now, let's slightly extend this. you know this is a function. Second question around this same snippet, is it a pure function or not? Okay. Tell me whether it's a pure function or not. If you know, just take the video video timing and answer your answer in the comment section. So to answer to that question, we should know what the function is returning, correct? Without that we'll not be able to tell whether it's a pure function or not. So to understand what it is returning, let's say less outpu",
+      "item_id": "youtube-video-2022-12-15-javascript-console-log-is-a-pure-function-yd1rovwjiwm-md-3aa52c1fbd:0022-0048",
+      "source_id": "youtube-video-2022-12-15-javascript-console-log-is-a-pure-function-yd1rovwjiwm-md-3aa52c1fbd",
+      "path": "youtube/video/2022-12-15-javascript-console-log-is-a-pure-function-yd1rOVwJiwM.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Calculating Fibonacci of Three",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Fibonacci series"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 50
+      },
+      "quote": "of bonacci of three, correct? What is Fibonacci of three? Fibonacci of three is Fibonacci of Fibonacci of two plus Fibonacci of Fibonacci of one, correct? What is Fibonacci of two? You already saw. Fibonacci of two from the code is one. Fibonacci of one from the code is also one, correct? So, if you go back here, Fibonacci of two is one. Fibonacci of one is one. So, Fibonacci of three is one plus one, two. So, Fibonacci of three is two, correct? So, Fibonacci of three is two. Even if you see in ",
+      "item_id": "youtube-video-2022-12-20-fibonacci-series-explained-with-diagram-in-javascript-import-335c252ed5:0028-0050",
+      "source_id": "youtube-video-2022-12-20-fibonacci-series-explained-with-diagram-in-javascript-import-335c252ed5",
+      "path": "youtube/video/2022-12-20-fibonacci-series-explained-with-diagram-in-javascript-import-r7mG5PtHqQQ.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Optimizing Fibonacci Recursion with Memoization/Caching",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memoization"
+        },
+        {
+          "facet": "topic",
+          "label": "fibonacci series"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 27,
+        "end_line": 41
+      },
+      "quote": "So we need to catch the value, correct? As it's a recursion, the catch should be something that is passed every time, correct? Rest is very simple. You know it. If same how we did, if catch of number return catch of cash of number. Correct? Then what we have to do somewhere the cash of num has to initialized. Here you are initializing it. That's all. Very very simple. Just two lines of a code, normal function become a very optimized function, correct? This is about the explanation. Let me explai",
+      "item_id": "youtube-video-2022-12-22-learn-recursive-solution-to-fibonacci-series-in-javascript-i-e8c8bce02e:0027-0041",
+      "source_id": "youtube-video-2022-12-22-learn-recursive-solution-to-fibonacci-series-in-javascript-i-e8c8bce02e",
+      "path": "youtube/video/2022-12-22-learn-recursive-solution-to-fibonacci-series-in-javascript-i-ogNNAzZ3AZk.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Recursive solution to Fibonacci Series",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "Fibonacci series"
+        },
+        {
+          "facet": "topic",
+          "label": "recursion"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 29
+      },
+      "quote": "Okay. So Fibonacci, this series takes a number, okay? So what are the possibilities? Let's say, see, I would have not erased that number. So zero, one, two, three, four. So Fibonacci of zero is zero. Fibonacci of one is one. Fibonacci of two is Fibonacci of one plus Fibonacci of zero, that is one. So Fibonacci of three is one plus one, two, goes on, correct? So now we have certain conditions here. So I'm writing a recursive solution. I'll explain step by step, don't worry. So recursion means alw",
+      "item_id": "youtube-video-2022-12-21-learn-recursive-solution-to-fibonacci-series-in-javascript-i-0a518b8a9e:0023-0029",
+      "source_id": "youtube-video-2022-12-21-learn-recursive-solution-to-fibonacci-series-in-javascript-i-0a518b8a9e",
+      "path": "youtube/video/2022-12-21-learn-recursive-solution-to-fibonacci-series-in-javascript-i-Ii2vLCaOWYg.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Most simplest memoization example ever in javascript",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "memoization"
+        },
+        {
+          "facet": "activity",
+          "label": "coding tutorial"
+        }
+      ],
+      "span": {
+        "start_line": 27,
+        "end_line": 41
+      },
+      "quote": "what I'll do is I'll create a variable called cash. Okay? And here what I do is very very simple. So what I'll do I'll see if cash has a num. Okay? uh if it has then what I'll do is I'll return I'll return cash of cash of num, okay? If not, what I'll do is cash of num is equals to, don't worry, even if you're not understanding, I'll explain this once again. Number plus ten, okay? Okay. So, I'll explain once again what everything that I've coded here. Okay? So basically, we have created a simple ",
+      "item_id": "youtube-video-2022-12-23-most-simplest-memoization-example-ever-in-javascript-importa-56b9d4c8f1:0027-0041",
+      "source_id": "youtube-video-2022-12-23-most-simplest-memoization-example-ever-in-javascript-importa-56b9d4c8f1",
+      "path": "youtube/video/2022-12-23-most-simplest-memoization-example-ever-in-javascript-importa-qCwPPD9xqbA.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "In IT Industry What is Right Age to retire ?",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "retirement planning"
+        },
+        {
+          "facet": "situation",
+          "label": "planning when to retire in IT"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 38
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. Myself, Vasanth. I hope you all doing well. I get this question very often, Vasanth, what is the right age to retire? My simple answer to them is that nothing called right age to retire. There's only one thing, the probable number of years that you would live and the amount of money that you have already saved. Let me give a simple example. By spending thirty thousand every day, you can live next ten years if you have ten crore rupees in your bank accou",
+      "item_id": "youtube-video-2022-12-28-in-it-industry-what-is-right-age-to-retire-retirement-softwa-b0144b7e4f:0032-0038",
+      "source_id": "youtube-video-2022-12-28-in-it-industry-what-is-right-age-to-retire-retirement-softwa-b0144b7e4f",
+      "path": "youtube/video/2022-12-28-in-it-industry-what-is-right-age-to-retire-retirement-softwa-b3x2fqgieNo.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Ask this question at the end of every interview",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "questions to ask interviewers"
+        },
+        {
+          "facet": "situation",
+          "label": "end of interview"
+        },
+        {
+          "facet": "activity",
+          "label": "interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 38
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. Myself, Prasannath. Almost at the end of every interview, the interviewer asks, do you have any questions for me? Most candidates say no to that. If you are someone who is doing that, please don't do that. Because that is the right time for you to get lot of information about the team that you will be working on and about the company. For example, if your software developer is interviewing you, try to get more information about the technology that the c",
+      "item_id": "youtube-video-2022-12-26-ask-this-question-at-the-end-of-every-interview-100-you-will-61f0bc3dad:0032-0038",
+      "source_id": "youtube-video-2022-12-26-ask-this-question-at-the-end-of-every-interview-100-you-will-61f0bc3dad",
+      "path": "youtube/video/2022-12-26-ask-this-question-at-the-end-of-every-interview-100-you-will-ralvnZWXvxs.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "IT Industry Career Longevity and Retirement Age",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "retirement age"
+        },
+        {
+          "facet": "situation",
+          "label": "concern about IT career ending at 40"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 38
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. Myself Vasanth, I hope you all doing well. I get this question very often. Vasanth, does the IT industry career end at the age of forty years? My simple answer to that is no. No government rule says the IT industry career will end at the age of forty-five. Especially with respect to India, the official age of retirement in private sector varies from fifty-eight to sixty-five years. Why it is a variable and not fixed? Because there is two bodies, that is",
+      "item_id": "youtube-video-2022-12-27-career-in-it-industry-ends-at-the-age-of-40-retirement-softw-a9f0b2bc09:0032-0038",
+      "source_id": "youtube-video-2022-12-27-career-in-it-industry-ends-at-the-age-of-40-retirement-softw-a9f0b2bc09",
+      "path": "youtube/video/2022-12-27-career-in-it-industry-ends-at-the-age-of-40-retirement-softw-f2RhQ8EkuHQ.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Follow CSW strategy to pick right job offer when you have more than one job offer",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "CSW strategy"
+        },
+        {
+          "facet": "situation",
+          "label": "multiple job offers"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 42
+      },
+      "quote": "Okay Hello all, welcome back to Uncommon Geeks. Myself Hassan. I hope you all doing well. I know in of you have a multiple job offers and not sure which one to pick. My simple advice is follow C S W strategy. What is C S W strategy? C stands for career growth. S stands for salary. W stands for work life balance. So mention this in the rows and in the columns, mention all the company which different companies that gave you offers. And out of ten, how much you would rate this particular company fo",
+      "item_id": "youtube-video-2022-12-29-follow-csw-strategy-to-pick-right-job-offer-when-you-have-mo-d56cba8da3:0032-0042",
+      "source_id": "youtube-video-2022-12-29-follow-csw-strategy-to-pick-right-job-offer-when-you-have-mo-d56cba8da3",
+      "path": "youtube/video/2022-12-29-follow-csw-strategy-to-pick-right-job-offer-when-you-have-mo-1FbI9ezxhLI.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Difference between parseInt and Number in JavaScript",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "parseInt vs Number"
+        },
+        {
+          "facet": "situation",
+          "label": "JavaScript interview questions"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 38
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. Myself, Vasanth. So in this video, let us learn a very important interview question of JavaScript where what is the difference between the parse int and the number function, okay? So as you know, you think at least both the functions are used to convert a string into a number, which is half true. Basically, the main difference between parse int and number are, parse int tries to convert the given input into a number until it encounters the first non-dig",
+      "item_id": "youtube-video-2022-12-31-difference-between-parseint-and-number-in-javascript-importa-2a34433471:0032-0038",
+      "source_id": "youtube-video-2022-12-31-difference-between-parseint-and-number-in-javascript-importa-2a34433471",
+      "path": "youtube/video/2022-12-31-difference-between-parseint-and-number-in-javascript-importa-FZ1h8NNZSRw.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Under Commit and Over Perform in Technical Interviews",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "managing expectations"
+        },
+        {
+          "facet": "situation",
+          "label": "asked about LeetCode difficulty comfort level"
+        },
+        {
+          "facet": "activity",
+          "label": "technical interview"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 46
+      },
+      "quote": "and Hello all welcome back to Uncommon Geeks myself Vasanth. I've seen this common mistake more than ninety percent of the candidate make this mistake in the interview that is over commit and under perform. My advice is under commit and over perform. Let me give a simple example. Interviewer ask you Vasanth are you comfortable solving hard difficulty questions on lead code. You can say I've solved lot of medium difficulty question and some amount of hard difficulty questions also. Though you are",
+      "item_id": "youtube-video-2022-12-30-90-candidates-makes-this-mistake-in-the-interview-interview-75372cb383:0032-0046",
+      "source_id": "youtube-video-2022-12-30-90-candidates-makes-this-mistake-in-the-interview-interview-75372cb383",
+      "path": "youtube/video/2022-12-30-90-candidates-makes-this-mistake-in-the-interview-interview-Ph-fE6Az5xA.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Why Product Companies Don't Hire Freshers and How to Get Shortlisted",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "fresher hiring"
+        },
+        {
+          "facet": "situation",
+          "label": "getting hired at top product companies as a fresher"
+        }
+      ],
+      "span": {
+        "start_line": 31,
+        "end_line": 37
+      },
+      "quote": "Hello all, welcome back to Uncommon This. My name is Vasanth. So I know you're a fresher, you want to get into our top product companies like Amazon, Google, Flipkart, Myntra, etcetera. But let me tell you a hard reality. The number of openings for a fresher in these companies is less than five percent. The reason for that is very simple. The product is something what they sell for the customer and they want the product to be a top notch. They don't want to hire some random guy who can introduce",
+      "item_id": "youtube-video-2023-01-03-why-product-companies-don-t-hire-freshers-hiring-freshers-fr-66334d1539:0031-0037",
+      "source_id": "youtube-video-2023-01-03-why-product-companies-don-t-hire-freshers-hiring-freshers-fr-66334d1539",
+      "path": "youtube/video/2023-01-03-why-product-companies-don-t-hire-freshers-hiring-freshers-fr-s1LU2UOQANk.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Mistake to avoid when resigning from a job",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "job resignation"
+        },
+        {
+          "facet": "situation",
+          "label": "deciding to resign from a company"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 38
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasanth. More than ninety percent people make this mistake when they are resigning the job. They'll directly send an email to manager, hey manager, I've got a new opportunity, I want to decide to leave your organization, thank you. Please don't do this, please don't do this. The reason for that is you've worked for an organization one, two year or whatever the number of years and you don't want to be so rude directly sending a manager resigna",
+      "item_id": "youtube-video-2023-01-12-more-than-90-people-make-this-mistake-while-resigning-the-jo-1a4507a0db:0032-0038",
+      "source_id": "youtube-video-2023-01-12-more-than-90-people-make-this-mistake-while-resigning-the-jo-1a4507a0db",
+      "path": "youtube/video/2023-01-12-more-than-90-people-make-this-mistake-while-resigning-the-jo-51WK5XDgmho.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Ask what is the answer to this question at the end of the interview",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "interview questions"
+        },
+        {
+          "facet": "situation",
+          "label": "interview went moderate"
+        },
+        {
+          "facet": "activity",
+          "label": "job interview"
+        }
+      ],
+      "span": {
+        "start_line": 33,
+        "end_line": 34
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasant. So this happens very often in the interview where the interview is not a clear cut yes nor a clear cut no. So both interviewer and the candidate are unsure what is the result. In such cases if you are a candidate do these things to get a yes from the interviewer. First thing. So if you if the question that is asked to you which you think is very important and you do not answer well, ask what is the answer to this question at the end o",
+      "item_id": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165:0033-0034",
+      "source_id": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165",
+      "path": "youtube/video/2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-1PbGdGHOBeM.md",
+      "prev": null,
+      "next": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165:0033-0034"
+    },
+    {
+      "title": "Be an excellently good communicator",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "communication skills"
+        },
+        {
+          "facet": "situation",
+          "label": "interview went moderate"
+        },
+        {
+          "facet": "activity",
+          "label": "job interview"
+        }
+      ],
+      "span": {
+        "start_line": 33,
+        "end_line": 34
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasant. So this happens very often in the interview where the interview is not a clear cut yes nor a clear cut no. So both interviewer and the candidate are unsure what is the result. In such cases if you are a candidate do these things to get a yes from the interviewer. First thing. So if you if the question that is asked to you which you think is very important and you do not answer well, ask what is the answer to this question at the end o",
+      "item_id": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165:0033-0034",
+      "source_id": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165",
+      "path": "youtube/video/2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-1PbGdGHOBeM.md",
+      "prev": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165:0033-0034",
+      "next": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165:0033-0037"
+    },
+    {
+      "title": "Possess the skills of a team player",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "teamwork"
+        },
+        {
+          "facet": "situation",
+          "label": "interview went moderate"
+        },
+        {
+          "facet": "activity",
+          "label": "job interview"
+        }
+      ],
+      "span": {
+        "start_line": 33,
+        "end_line": 37
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasant. So this happens very often in the interview where the interview is not a clear cut yes nor a clear cut no. So both interviewer and the candidate are unsure what is the result. In such cases if you are a candidate do these things to get a yes from the interviewer. First thing. So if you if the question that is asked to you which you think is very important and you do not answer well, ask what is the answer to this question at the end o",
+      "item_id": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165:0033-0037",
+      "source_id": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165",
+      "path": "youtube/video/2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-1PbGdGHOBeM.md",
+      "prev": "youtube-video-2023-01-02-3-simple-tricks-to-clear-interview-that-went-moderate-softwa-4de125a165:0033-0034",
+      "next": null
+    },
+    {
+      "title": "Clarify requirements before jumping into coding implementation",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "requirement clarification"
+        },
+        {
+          "facet": "situation",
+          "label": "coding interview problem presentation"
+        },
+        {
+          "facet": "activity",
+          "label": "technical interview"
+        }
+      ],
+      "span": {
+        "start_line": 34,
+        "end_line": 38
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasanth. I've seen more than ninety percent of junior and intermediate level engineers make this mistake in the interview where they directly jump into implementation as soon as the question is asked. For example, let's say I'll ask you to build a TikTok toe game and immediately people start building the rows, columns, the color, the cross mark, all of that immediately. And after a point they realize they don't know the requirement correctly.",
+      "item_id": "youtube-video-2023-01-19-more-than-90-candidates-make-this-mistake-in-the-interview-n-ed94610b64:0034-0038",
+      "source_id": "youtube-video-2023-01-19-more-than-90-candidates-make-this-mistake-in-the-interview-n-ed94610b64",
+      "path": "youtube/video/2023-01-19-more-than-90-candidates-make-this-mistake-in-the-interview-n-8VjzGbjmkoM.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Point number one",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "salary expectation setting"
+        },
+        {
+          "facet": "situation",
+          "label": "job switch"
+        }
+      ],
+      "span": {
+        "start_line": 33,
+        "end_line": 34
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasanth. So I get this question very often, Vasanth, how to get more than thirty percent hike whenever we are doing a job switch. My simple answer to them is, very first, attend those interviews only where they're ready to give you more than thirty percent hike. Whenever HR calls you, make it very explicit that I I come only fifty fifty percent hike is given. So don't waste the time if they're not able to afford you. Point number one. Point n",
+      "item_id": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573:0033-0034",
+      "source_id": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573",
+      "path": "youtube/video/2023-01-09-how-to-get-more-than-30-hike-during-job-change-gaBo8wDIHrI.md",
+      "prev": null,
+      "next": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573:0033-0034"
+    },
+    {
+      "title": "Point number two",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "interview performance and negotiation"
+        },
+        {
+          "facet": "situation",
+          "label": "salary negotiation"
+        }
+      ],
+      "span": {
+        "start_line": 33,
+        "end_line": 34
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasanth. So I get this question very often, Vasanth, how to get more than thirty percent hike whenever we are doing a job switch. My simple answer to them is, very first, attend those interviews only where they're ready to give you more than thirty percent hike. Whenever HR calls you, make it very explicit that I I come only fifty fifty percent hike is given. So don't waste the time if they're not able to afford you. Point number one. Point n",
+      "item_id": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573:0033-0034",
+      "source_id": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573",
+      "path": "youtube/video/2023-01-09-how-to-get-more-than-30-hike-during-job-change-gaBo8wDIHrI.md",
+      "prev": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573:0033-0034",
+      "next": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573:0033-0037"
+    },
+    {
+      "title": "Point number three",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "leveraging competing job offers"
+        },
+        {
+          "facet": "situation",
+          "label": "salary negotiation"
+        }
+      ],
+      "span": {
+        "start_line": 33,
+        "end_line": 37
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasanth. So I get this question very often, Vasanth, how to get more than thirty percent hike whenever we are doing a job switch. My simple answer to them is, very first, attend those interviews only where they're ready to give you more than thirty percent hike. Whenever HR calls you, make it very explicit that I I come only fifty fifty percent hike is given. So don't waste the time if they're not able to afford you. Point number one. Point n",
+      "item_id": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573:0033-0037",
+      "source_id": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573",
+      "path": "youtube/video/2023-01-09-how-to-get-more-than-30-hike-during-job-change-gaBo8wDIHrI.md",
+      "prev": "youtube-video-2023-01-09-how-to-get-more-than-30-hike-during-job-change-gabo8wdihri-m-b67afab573:0033-0034",
+      "next": null
+    },
+    {
+      "title": "apply for those companies who also have a ninety day notice period and procure a job offer",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "90 day notice period"
+        },
+        {
+          "facet": "situation",
+          "label": "companies not shortlisting resume due to notice period"
+        }
+      ],
+      "span": {
+        "start_line": 34,
+        "end_line": 34
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasant. A lot of people in the service industry face this problem where they have a ninety day notice period. As the notice period is ninety days, no other companies are ready to shortlist their resume. So one of the quickest ways to quickest way to solve this problem is apply for those companies who also have a ninety day notice period and procure a job offer. And after that you can apply for other companies if you are interested. Second, ha",
+      "item_id": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323:0034-0034",
+      "source_id": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323",
+      "path": "youtube/video/2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-QNkyLNV0W_I.md",
+      "prev": null,
+      "next": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323:0034-0034"
+    },
+    {
+      "title": "have a very good relationship with your manager",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "reducing notice period"
+        },
+        {
+          "facet": "situation",
+          "label": "negotiating notice period with manager"
+        }
+      ],
+      "span": {
+        "start_line": 34,
+        "end_line": 34
+      },
+      "quote": "Hello all, welcome back to Uncommon Geeks. My name is Vasant. A lot of people in the service industry face this problem where they have a ninety day notice period. As the notice period is ninety days, no other companies are ready to shortlist their resume. So one of the quickest ways to quickest way to solve this problem is apply for those companies who also have a ninety day notice period and procure a job offer. And after that you can apply for other companies if you are interested. Second, ha",
+      "item_id": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323:0034-0034",
+      "source_id": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323",
+      "path": "youtube/video/2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-QNkyLNV0W_I.md",
+      "prev": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323:0034-0034",
+      "next": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323:0036-0038"
+    },
+    {
+      "title": "buying the notice period",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "notice period buyout"
+        },
+        {
+          "facet": "situation",
+          "label": "new company willing to pay buyout"
+        }
+      ],
+      "span": {
+        "start_line": 36,
+        "end_line": 38
+      },
+      "quote": "and very important. Lot of these service companies are open for buying the notice period. If the new company that you're joining is ready to buy out your notice period, then please go for the buyout option. Buyout here I mean they'll pay for the amount to which you need to serve. For example, your three months salary is one lakh, the new company will pay one lakh to your old company so that you can be relieved immediately. So use these three options and come out of the ninety day notice period p",
+      "item_id": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323:0036-0038",
+      "source_id": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323",
+      "path": "youtube/video/2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-QNkyLNV0W_I.md",
+      "prev": "youtube-video-2023-01-16-3-simple-steps-to-solve-90-day-notice-period-problem-intervi-95ccd34323:0034-0034",
+      "next": null
+    },
+    {
+      "title": "Recorded Courses vs Cohorts: What Actually Works for Frontend Developers",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cohort-based learning vs self-paced courses"
+        },
+        {
+          "facet": "situation",
+          "label": "unstructured interview preparation"
+        },
+        {
+          "facet": "activity",
+          "label": "frontend interview preparation"
+        }
+      ],
+      "span": {
+        "start_line": 34,
+        "end_line": 40
+      },
+      "quote": "How many recorded front end courses are sitting half finished in a bookmark right now? Be honest. Most of us start strong, then quietly stop. Recorded courses aren't bad, but they assume perfect discipline. No deadlines, no accountability and no one tells you what you think is wrong. And front end interviews don't test content, they test how you reason and explain trade-offs. That's very hard to learn by just watching a video alone. That's exactly why I built a front end developer cohort, not an",
+      "item_id": "youtube-video-2025-12-27-recorded-courses-vs-cohorts-what-actually-works-for-frontend-cfc0ed60b1:0034-0040",
+      "source_id": "youtube-video-2025-12-27-recorded-courses-vs-cohorts-what-actually-works-for-frontend-cfc0ed60b1",
+      "path": "youtube/video/2025-12-27-recorded-courses-vs-cohorts-what-actually-works-for-frontend--7LTjcmA6H0.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "I’ve Taken 500+ Frontend Interviews — Here’s What Most Candidates Miss",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "frontend interview preparation"
+        },
+        {
+          "facet": "situation",
+          "label": "job switch stagnation"
+        },
+        {
+          "facet": "activity",
+          "label": "mentorship cohort announcement"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 43
+      },
+      "quote": "# I’ve Taken 500+ Frontend Interviews — Here’s What Most Candidates Miss ## Transcript If you're a front end developer who's been trying to switch jobs for last three to six months, but it's still not happening, then this video might explain why. You're not idle, you've been preparing on your own, watching videos, reading posts, solving problems, yet somehow the progress feels slow and confusing. That's because there is content everywhere. JavaScript, React, system design, machine coding, but no",
+      "item_id": "youtube-video-2025-12-22-i-ve-taken-500-frontend-interviews-here-s-what-most-candidat-174c52f3c6:0028-0043",
+      "source_id": "youtube-video-2025-12-22-i-ve-taken-500-frontend-interviews-here-s-what-most-candidat-174c52f3c6",
+      "path": "youtube/video/2025-12-22-i-ve-taken-500-frontend-interviews-here-s-what-most-candidat-lN1hW_1AO0A.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "Frontend Mastery Cohort-2 Launch and Interview Preparation Details",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "frontend interview preparation"
+        },
+        {
+          "facet": "situation",
+          "label": "preparing for product based company frontend interviews"
+        }
+      ],
+      "span": {
+        "start_line": 30,
+        "end_line": 36
+      },
+      "quote": "Hi all, if you are a front end developer preparing for a product based company interviews, this is for you. A few months back, I launched a career with Vasan front end mastery cohort one, with simple goal, structured front end interview preparation. Not just reaction tags, not just random DSA, but areas where front end developers actually struggle. Like JavaScript fundamentals, React depth, machine coding, front end system design and interview thinking. Cohort one turned out to be a strong succe",
+      "item_id": "youtube-video-2026-05-28-careerwithvasanth-frontend-mastery-cohort-2-launch-frontend-9b772f866e:0030-0036",
+      "source_id": "youtube-video-2026-05-28-careerwithvasanth-frontend-mastery-cohort-2-launch-frontend-9b772f866e",
+      "path": "youtube/video/2026-05-28-careerwithvasanth-frontend-mastery-cohort-2-launch-frontend-ziD0ywlSNC0.md",
+      "prev": null,
       "next": null
     }
   ]

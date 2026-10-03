@@ -6,7 +6,7 @@
       "aliases": [
         "mock interview"
       ],
-      "count": 319
+      "count": 320
     },
     "interview-preparation": {
       "id": "interview-preparation",
@@ -15,7 +15,7 @@
         "Interview Preparation",
         "interview preparation"
       ],
-      "count": 48
+      "count": 60
     },
     "machine-coding": {
       "id": "machine-coding",
@@ -39,7 +39,7 @@
       "aliases": [
         "career coaching"
       ],
-      "count": 28
+      "count": 29
     },
     "live-coding": {
       "id": "live-coding",
@@ -80,7 +80,7 @@
       "aliases": [
         "coding tutorial"
       ],
-      "count": 13
+      "count": 14
     },
     "coding-implementation": {
       "id": "coding-implementation",
@@ -90,6 +90,14 @@
         "coding implementation"
       ],
       "count": 13
+    },
+    "technical-interview": {
+      "id": "technical-interview",
+      "preferred": "technical interview",
+      "aliases": [
+        "technical interview"
+      ],
+      "count": 11
     },
     "coding": {
       "id": "coding",
@@ -156,14 +164,6 @@
       ],
       "count": 7
     },
-    "technical-interview": {
-      "id": "technical-interview",
-      "preferred": "technical interview",
-      "aliases": [
-        "technical interview"
-      ],
-      "count": 6
-    },
     "coding-snippets": {
       "id": "coding-snippets",
       "preferred": "coding snippets",
@@ -205,6 +205,14 @@
       ],
       "count": 5
     },
+    "job-interview": {
+      "id": "job-interview",
+      "preferred": "job interview",
+      "aliases": [
+        "job interview"
+      ],
+      "count": 5
+    },
     "q-a": {
       "id": "q-a",
       "preferred": "q&a",
@@ -222,20 +230,19 @@
       ],
       "count": 5
     },
-    "technical-questioning": {
-      "id": "technical-questioning",
-      "preferred": "technical questioning",
-      "aliases": [
-        "technical inquiry",
-        "technical questioning"
-      ],
-      "count": 5
-    },
     "code-execution": {
       "id": "code-execution",
       "preferred": "code execution",
       "aliases": [
         "code execution"
+      ],
+      "count": 4
+    },
+    "technical-questioning": {
+      "id": "technical-questioning",
+      "preferred": "technical questioning",
+      "aliases": [
+        "technical questioning"
       ],
       "count": 4
     },
@@ -610,6 +617,15 @@
       ],
       "count": 2
     },
+    "interview-problem-solving": {
+      "id": "interview-problem-solving",
+      "preferred": "interview problem-solving",
+      "aliases": [
+        "interview problem-solving",
+        "technical interview problem solving"
+      ],
+      "count": 2
+    },
     "video-conclusion": {
       "id": "video-conclusion",
       "preferred": "video conclusion",
@@ -665,14 +681,6 @@
       "preferred": "code explanation",
       "aliases": [
         "code explanation"
-      ],
-      "count": 1
-    },
-    "interview-problem-solving": {
-      "id": "interview-problem-solving",
-      "preferred": "interview problem-solving",
-      "aliases": [
-        "interview problem-solving"
       ],
       "count": 1
     },
@@ -945,14 +953,6 @@
       "preferred": "coding round",
       "aliases": [
         "coding round"
-      ],
-      "count": 1
-    },
-    "technical-interview-problem-solving": {
-      "id": "technical-interview-problem-solving",
-      "preferred": "technical interview problem solving",
-      "aliases": [
-        "technical interview problem solving"
       ],
       "count": 1
     },
@@ -1612,14 +1612,6 @@
       ],
       "count": 1
     },
-    "job-interview": {
-      "id": "job-interview",
-      "preferred": "job interview",
-      "aliases": [
-        "job interview"
-      ],
-      "count": 1
-    },
     "community-discussion": {
       "id": "community-discussion",
       "preferred": "community discussion",
@@ -2076,6 +2068,14 @@
       ],
       "count": 1
     },
+    "technical-inquiry": {
+      "id": "technical-inquiry",
+      "preferred": "technical inquiry",
+      "aliases": [
+        "technical inquiry"
+      ],
+      "count": 1
+    },
     "interactive-discussion": {
       "id": "interactive-discussion",
       "preferred": "interactive discussion",
@@ -2099,6 +2099,94 @@
         "technical summary"
       ],
       "count": 1
+    },
+    "software-tutorial": {
+      "id": "software-tutorial",
+      "preferred": "software tutorial",
+      "aliases": [
+        "software tutorial"
+      ],
+      "count": 1
+    },
+    "code-review-preparation": {
+      "id": "code-review-preparation",
+      "preferred": "code review preparation",
+      "aliases": [
+        "code review preparation"
+      ],
+      "count": 1
+    },
+    "vs-code-setup": {
+      "id": "vs-code-setup",
+      "preferred": "VS Code setup",
+      "aliases": [
+        "VS Code setup"
+      ],
+      "count": 1
+    },
+    "code-commenting": {
+      "id": "code-commenting",
+      "preferred": "code commenting",
+      "aliases": [
+        "code commenting"
+      ],
+      "count": 1
+    },
+    "career-planning": {
+      "id": "career-planning",
+      "preferred": "career planning",
+      "aliases": [
+        "career planning"
+      ],
+      "count": 1
+    },
+    "code-output-puzzle": {
+      "id": "code-output-puzzle",
+      "preferred": "code output puzzle",
+      "aliases": [
+        "code output puzzle"
+      ],
+      "count": 1
+    },
+    "giving-interviews": {
+      "id": "giving-interviews",
+      "preferred": "giving interviews",
+      "aliases": [
+        "giving interviews"
+      ],
+      "count": 1
+    },
+    "interview-assessment": {
+      "id": "interview-assessment",
+      "preferred": "interview assessment",
+      "aliases": [
+        "interview assessment"
+      ],
+      "count": 1
+    },
+    "technical-interview-preparation": {
+      "id": "technical-interview-preparation",
+      "preferred": "technical interview preparation",
+      "aliases": [
+        "technical interview preparation"
+      ],
+      "count": 1
+    },
+    "frontend-interview-preparation": {
+      "id": "frontend-interview-preparation",
+      "preferred": "frontend interview preparation",
+      "aliases": [
+        "frontend interview preparation"
+      ],
+      "count": 1
+    },
+    "mentorship-cohort-announcement": {
+      "id": "mentorship-cohort-announcement",
+      "preferred": "mentorship cohort announcement",
+      "aliases": [
+        "mentorship cohort announcement"
+      ],
+      "count": 1
     }
   },
   "situation": {
@@ -2118,12 +2206,21 @@
       ],
       "count": 4
     },
+    "interview-went-moderate": {
+      "id": "interview-went-moderate",
+      "preferred": "interview went moderate",
+      "aliases": [
+        "interview performance is moderate",
+        "interview went moderate"
+      ],
+      "count": 4
+    },
     "front-end-interview-preparation": {
       "id": "front-end-interview-preparation",
       "preferred": "front-end interview preparation",
       "aliases": [
         "front-end interview preparation",
-        "frontend interview preparation",
+        "frontend developer interview preparation",
         "interview preparation for frontend developers"
       ],
       "count": 4
@@ -2185,6 +2282,23 @@
       ],
       "count": 2
     },
+    "salary-negotiation": {
+      "id": "salary-negotiation",
+      "preferred": "salary negotiation",
+      "aliases": [
+        "salary negotiation"
+      ],
+      "count": 2
+    },
+    "preparing-for-faang-technical-interviews": {
+      "id": "preparing-for-faang-technical-interviews",
+      "preferred": "preparing for FAANG technical interviews",
+      "aliases": [
+        "preparing for FAANG technical interviews",
+        "preparing for MAANG technical interviews"
+      ],
+      "count": 2
+    },
     "handling-massive-scale": {
       "id": "handling-massive-scale",
       "preferred": "handling massive scale",
@@ -2212,12 +2326,21 @@
       ],
       "count": 2
     },
-    "tech-layoffs-across-global-markets": {
-      "id": "tech-layoffs-across-global-markets",
-      "preferred": "tech layoffs across global markets",
+    "job-hunting-in-a-down-market": {
+      "id": "job-hunting-in-a-down-market",
+      "preferred": "job hunting in a down market",
       "aliases": [
-        "industry-wide tech layoffs",
-        "tech layoffs across global markets"
+        "job hunting in a down market",
+        "slow job market"
+      ],
+      "count": 2
+    },
+    "facing-layoffs": {
+      "id": "facing-layoffs",
+      "preferred": "facing layoffs",
+      "aliases": [
+        "facing corporate layoffs",
+        "facing layoffs"
       ],
       "count": 2
     },
@@ -2471,6 +2594,14 @@
       ],
       "count": 1
     },
+    "frontend-interview-preparation": {
+      "id": "frontend-interview-preparation",
+      "preferred": "frontend interview preparation",
+      "aliases": [
+        "frontend interview preparation"
+      ],
+      "count": 1
+    },
     "answering-polyfill-interview-questions": {
       "id": "answering-polyfill-interview-questions",
       "preferred": "answering polyfill interview questions",
@@ -2604,14 +2735,6 @@
       "preferred": "testing out of bounds index",
       "aliases": [
         "testing out of bounds index"
-      ],
-      "count": 1
-    },
-    "preparing-for-faang-technical-interviews": {
-      "id": "preparing-for-faang-technical-interviews",
-      "preferred": "preparing for FAANG technical interviews",
-      "aliases": [
-        "preparing for FAANG technical interviews"
       ],
       "count": 1
     },
@@ -3663,14 +3786,6 @@
       ],
       "count": 1
     },
-    "interview-performance-is-moderate": {
-      "id": "interview-performance-is-moderate",
-      "preferred": "interview performance is moderate",
-      "aliases": [
-        "interview performance is moderate"
-      ],
-      "count": 1
-    },
     "deciding-borderline-candidate-ratings": {
       "id": "deciding-borderline-candidate-ratings",
       "preferred": "deciding borderline candidate ratings",
@@ -3823,22 +3938,6 @@
       ],
       "count": 1
     },
-    "job-hunting-in-a-down-market": {
-      "id": "job-hunting-in-a-down-market",
-      "preferred": "job hunting in a down market",
-      "aliases": [
-        "job hunting in a down market"
-      ],
-      "count": 1
-    },
-    "facing-layoffs": {
-      "id": "facing-layoffs",
-      "preferred": "facing layoffs",
-      "aliases": [
-        "facing layoffs"
-      ],
-      "count": 1
-    },
     "evaluating-offer-from-cash-burning-startup": {
       "id": "evaluating-offer-from-cash-burning-startup",
       "preferred": "evaluating offer from cash-burning startup",
@@ -3900,6 +3999,14 @@
       "preferred": "comparing product and service companies",
       "aliases": [
         "comparing product and service companies"
+      ],
+      "count": 1
+    },
+    "tech-layoffs-across-global-markets": {
+      "id": "tech-layoffs-across-global-markets",
+      "preferred": "tech layoffs across global markets",
+      "aliases": [
+        "tech layoffs across global markets"
       ],
       "count": 1
     },
@@ -4639,14 +4746,6 @@
       ],
       "count": 1
     },
-    "facing-corporate-layoffs": {
-      "id": "facing-corporate-layoffs",
-      "preferred": "facing corporate layoffs",
-      "aliases": [
-        "facing corporate layoffs"
-      ],
-      "count": 1
-    },
     "rebounding-from-layoff": {
       "id": "rebounding-from-layoff",
       "preferred": "rebounding from layoff",
@@ -4660,6 +4759,14 @@
       "preferred": "stagnant career path",
       "aliases": [
         "stagnant career path"
+      ],
+      "count": 1
+    },
+    "industry-wide-tech-layoffs": {
+      "id": "industry-wide-tech-layoffs",
+      "preferred": "industry-wide tech layoffs",
+      "aliases": [
+        "industry-wide tech layoffs"
       ],
       "count": 1
     },
@@ -7126,6 +7233,374 @@
         "student experienced interruption during quiz"
       ],
       "count": 1
+    },
+    "working-with-multiple-windows-of-visual-studio-code": {
+      "id": "working-with-multiple-windows-of-visual-studio-code",
+      "preferred": "working with multiple windows of Visual Studio Code",
+      "aliases": [
+        "working with multiple windows of Visual Studio Code"
+      ],
+      "count": 1
+    },
+    "losing-context-while-scrolling-long-functions": {
+      "id": "losing-context-while-scrolling-long-functions",
+      "preferred": "losing context while scrolling long functions",
+      "aliases": [
+        "losing context while scrolling long functions"
+      ],
+      "count": 1
+    },
+    "spelling-mistakes-in-code": {
+      "id": "spelling-mistakes-in-code",
+      "preferred": "spelling mistakes in code",
+      "aliases": [
+        "spelling mistakes in code"
+      ],
+      "count": 1
+    },
+    "modifying-html-markup-tags": {
+      "id": "modifying-html-markup-tags",
+      "preferred": "modifying HTML markup tags",
+      "aliases": [
+        "modifying HTML markup tags"
+      ],
+      "count": 1
+    },
+    "technical-interview-deciding-question": {
+      "id": "technical-interview-deciding-question",
+      "preferred": "technical interview deciding question",
+      "aliases": [
+        "technical interview deciding question"
+      ],
+      "count": 1
+    },
+    "planning-career-as-an-entrepreneur-during-engineering": {
+      "id": "planning-career-as-an-entrepreneur-during-engineering",
+      "preferred": "planning career as an entrepreneur during engineering",
+      "aliases": [
+        "planning career as an entrepreneur during engineering"
+      ],
+      "count": 1
+    },
+    "caching-function-results-with-multiple-arguments": {
+      "id": "caching-function-results-with-multiple-arguments",
+      "preferred": "caching function results with multiple arguments",
+      "aliases": [
+        "caching function results with multiple arguments"
+      ],
+      "count": 1
+    },
+    "engineering-college-students-considering-internships": {
+      "id": "engineering-college-students-considering-internships",
+      "preferred": "engineering college students considering internships",
+      "aliases": [
+        "engineering college students considering internships"
+      ],
+      "count": 1
+    },
+    "deciding-target-engineering-percentage": {
+      "id": "deciding-target-engineering-percentage",
+      "preferred": "deciding target engineering percentage",
+      "aliases": [
+        "deciding target engineering percentage"
+      ],
+      "count": 1
+    },
+    "unplaced-engineering-graduate-seeing-friends-get-jobs": {
+      "id": "unplaced-engineering-graduate-seeing-friends-get-jobs",
+      "preferred": "unplaced engineering graduate seeing friends get jobs",
+      "aliases": [
+        "unplaced engineering graduate seeing friends get jobs"
+      ],
+      "count": 1
+    },
+    "struggling-to-get-shortlisted-for-engineering-roles": {
+      "id": "struggling-to-get-shortlisted-for-engineering-roles",
+      "preferred": "struggling to get shortlisted for engineering roles",
+      "aliases": [
+        "struggling to get shortlisted for engineering roles"
+      ],
+      "count": 1
+    },
+    "freshers-choosing-between-full-stack-vs-specialized-frontend": {
+      "id": "freshers-choosing-between-full-stack-vs-specialized-frontend",
+      "preferred": "freshers choosing between full stack vs specialized frontend or backend",
+      "aliases": [
+        "freshers choosing between full stack vs specialized frontend or backend"
+      ],
+      "count": 1
+    },
+    "learning-the-second-stack-as-a-situational-full-stack-develo": {
+      "id": "learning-the-second-stack-as-a-situational-full-stack-develo",
+      "preferred": "learning the second stack as a situational full stack developer",
+      "aliases": [
+        "learning the second stack as a situational full stack developer"
+      ],
+      "count": 1
+    },
+    "scaling-application-from-startup-to-high-traffic": {
+      "id": "scaling-application-from-startup-to-high-traffic",
+      "preferred": "scaling application from startup to high traffic",
+      "aliases": [
+        "scaling application from startup to high traffic"
+      ],
+      "count": 1
+    },
+    "developer-learning-stack-out-of-project-necessity": {
+      "id": "developer-learning-stack-out-of-project-necessity",
+      "preferred": "developer learning stack out of project necessity",
+      "aliases": [
+        "developer learning stack out of project necessity"
+      ],
+      "count": 1
+    },
+    "applying-for-software-roles-at-premium-tech-companies": {
+      "id": "applying-for-software-roles-at-premium-tech-companies",
+      "preferred": "applying for software roles at premium tech companies",
+      "aliases": [
+        "applying for software roles at premium tech companies"
+      ],
+      "count": 1
+    },
+    "choosing-a-full-stack-developer-career-combination": {
+      "id": "choosing-a-full-stack-developer-career-combination",
+      "preferred": "choosing a full stack developer career combination",
+      "aliases": [
+        "choosing a full stack developer career combination"
+      ],
+      "count": 1
+    },
+    "freshers-applying-for-full-stack-roles-after-short-bootcamps": {
+      "id": "freshers-applying-for-full-stack-roles-after-short-bootcamps",
+      "preferred": "freshers applying for full stack roles after short bootcamps",
+      "aliases": [
+        "freshers applying for full stack roles after short bootcamps"
+      ],
+      "count": 1
+    },
+    "internal-secrecy-at-apple": {
+      "id": "internal-secrecy-at-apple",
+      "preferred": "internal secrecy at Apple",
+      "aliases": [
+        "internal secrecy at Apple"
+      ],
+      "count": 1
+    },
+    "borderline-interview-performance": {
+      "id": "borderline-interview-performance",
+      "preferred": "borderline interview performance",
+      "aliases": [
+        "borderline interview performance"
+      ],
+      "count": 1
+    },
+    "interview-feedback-loop": {
+      "id": "interview-feedback-loop",
+      "preferred": "interview feedback loop",
+      "aliases": [
+        "interview feedback loop"
+      ],
+      "count": 1
+    },
+    "guessing-output-too-quickly": {
+      "id": "guessing-output-too-quickly",
+      "preferred": "guessing output too quickly",
+      "aliases": [
+        "guessing output too quickly"
+      ],
+      "count": 1
+    },
+    "predicting-function-output-with-var": {
+      "id": "predicting-function-output-with-var",
+      "preferred": "predicting function output with var",
+      "aliases": [
+        "predicting function output with var"
+      ],
+      "count": 1
+    },
+    "evaluating-startup-job-offers": {
+      "id": "evaluating-startup-job-offers",
+      "preferred": "evaluating startup job offers",
+      "aliases": [
+        "evaluating startup job offers"
+      ],
+      "count": 1
+    },
+    "assessing-risk-of-layoffs": {
+      "id": "assessing-risk-of-layoffs",
+      "preferred": "assessing risk of layoffs",
+      "aliases": [
+        "assessing risk of layoffs"
+      ],
+      "count": 1
+    },
+    "deciding-whether-to-join-a-startup": {
+      "id": "deciding-whether-to-join-a-startup",
+      "preferred": "deciding whether to join a startup",
+      "aliases": [
+        "deciding whether to join a startup"
+      ],
+      "count": 1
+    },
+    "tech-company-layoffs": {
+      "id": "tech-company-layoffs",
+      "preferred": "tech company layoffs",
+      "aliases": [
+        "tech company layoffs"
+      ],
+      "count": 1
+    },
+    "technical-interview-fundamentals-question": {
+      "id": "technical-interview-fundamentals-question",
+      "preferred": "technical interview fundamentals question",
+      "aliases": [
+        "technical interview fundamentals question"
+      ],
+      "count": 1
+    },
+    "repetitive-function-calls-optimization": {
+      "id": "repetitive-function-calls-optimization",
+      "preferred": "repetitive function calls optimization",
+      "aliases": [
+        "repetitive function calls optimization"
+      ],
+      "count": 1
+    },
+    "interviewer-trying-to-confuse-candidate-on-hoisting": {
+      "id": "interviewer-trying-to-confuse-candidate-on-hoisting",
+      "preferred": "interviewer trying to confuse candidate on hoisting",
+      "aliases": [
+        "interviewer trying to confuse candidate on hoisting"
+      ],
+      "count": 1
+    },
+    "planning-when-to-retire-in-it": {
+      "id": "planning-when-to-retire-in-it",
+      "preferred": "planning when to retire in IT",
+      "aliases": [
+        "planning when to retire in IT"
+      ],
+      "count": 1
+    },
+    "end-of-interview": {
+      "id": "end-of-interview",
+      "preferred": "end of interview",
+      "aliases": [
+        "end of interview"
+      ],
+      "count": 1
+    },
+    "concern-about-it-career-ending-at-40": {
+      "id": "concern-about-it-career-ending-at-40",
+      "preferred": "concern about IT career ending at 40",
+      "aliases": [
+        "concern about IT career ending at 40"
+      ],
+      "count": 1
+    },
+    "multiple-job-offers": {
+      "id": "multiple-job-offers",
+      "preferred": "multiple job offers",
+      "aliases": [
+        "multiple job offers"
+      ],
+      "count": 1
+    },
+    "javascript-interview-questions": {
+      "id": "javascript-interview-questions",
+      "preferred": "JavaScript interview questions",
+      "aliases": [
+        "JavaScript interview questions"
+      ],
+      "count": 1
+    },
+    "asked-about-leetcode-difficulty-comfort-level": {
+      "id": "asked-about-leetcode-difficulty-comfort-level",
+      "preferred": "asked about LeetCode difficulty comfort level",
+      "aliases": [
+        "asked about LeetCode difficulty comfort level"
+      ],
+      "count": 1
+    },
+    "getting-hired-at-top-product-companies-as-a-fresher": {
+      "id": "getting-hired-at-top-product-companies-as-a-fresher",
+      "preferred": "getting hired at top product companies as a fresher",
+      "aliases": [
+        "getting hired at top product companies as a fresher"
+      ],
+      "count": 1
+    },
+    "deciding-to-resign-from-a-company": {
+      "id": "deciding-to-resign-from-a-company",
+      "preferred": "deciding to resign from a company",
+      "aliases": [
+        "deciding to resign from a company"
+      ],
+      "count": 1
+    },
+    "coding-interview-problem-presentation": {
+      "id": "coding-interview-problem-presentation",
+      "preferred": "coding interview problem presentation",
+      "aliases": [
+        "coding interview problem presentation"
+      ],
+      "count": 1
+    },
+    "job-switch": {
+      "id": "job-switch",
+      "preferred": "job switch",
+      "aliases": [
+        "job switch"
+      ],
+      "count": 1
+    },
+    "companies-not-shortlisting-resume-due-to-notice-period": {
+      "id": "companies-not-shortlisting-resume-due-to-notice-period",
+      "preferred": "companies not shortlisting resume due to notice period",
+      "aliases": [
+        "companies not shortlisting resume due to notice period"
+      ],
+      "count": 1
+    },
+    "negotiating-notice-period-with-manager": {
+      "id": "negotiating-notice-period-with-manager",
+      "preferred": "negotiating notice period with manager",
+      "aliases": [
+        "negotiating notice period with manager"
+      ],
+      "count": 1
+    },
+    "new-company-willing-to-pay-buyout": {
+      "id": "new-company-willing-to-pay-buyout",
+      "preferred": "new company willing to pay buyout",
+      "aliases": [
+        "new company willing to pay buyout"
+      ],
+      "count": 1
+    },
+    "unstructured-interview-preparation": {
+      "id": "unstructured-interview-preparation",
+      "preferred": "unstructured interview preparation",
+      "aliases": [
+        "unstructured interview preparation"
+      ],
+      "count": 1
+    },
+    "job-switch-stagnation": {
+      "id": "job-switch-stagnation",
+      "preferred": "job switch stagnation",
+      "aliases": [
+        "job switch stagnation"
+      ],
+      "count": 1
+    },
+    "preparing-for-product-based-company-frontend-interviews": {
+      "id": "preparing-for-product-based-company-frontend-interviews",
+      "preferred": "preparing for product based company frontend interviews",
+      "aliases": [
+        "preparing for product based company frontend interviews"
+      ],
+      "count": 1
     }
   },
   "topic": {
@@ -7135,7 +7610,7 @@
       "aliases": [
         "closures"
       ],
-      "count": 39
+      "count": 41
     },
     "event-loop": {
       "id": "event-loop",
@@ -7144,7 +7619,7 @@
         "event loop",
         "event loop concept"
       ],
-      "count": 26
+      "count": 27
     },
     "settimeout": {
       "id": "settimeout",
@@ -7160,7 +7635,7 @@
       "aliases": [
         "hoisting"
       ],
-      "count": 15
+      "count": 16
     },
     "variable-hoisting": {
       "id": "variable-hoisting",
@@ -7172,6 +7647,14 @@
         "variable hoisting"
       ],
       "count": 14
+    },
+    "arguments-object": {
+      "id": "arguments-object",
+      "preferred": "arguments object",
+      "aliases": [
+        "arguments object"
+      ],
+      "count": 11
     },
     "frontend-system-design": {
       "id": "frontend-system-design",
@@ -7198,19 +7681,19 @@
       ],
       "count": 10
     },
+    "memoization": {
+      "id": "memoization",
+      "preferred": "memoization",
+      "aliases": [
+        "memoization"
+      ],
+      "count": 10
+    },
     "interview-preparation": {
       "id": "interview-preparation",
       "preferred": "interview preparation",
       "aliases": [
         "interview preparation"
-      ],
-      "count": 10
-    },
-    "arguments-object": {
-      "id": "arguments-object",
-      "preferred": "arguments object",
-      "aliases": [
-        "arguments object"
       ],
       "count": 10
     },
@@ -7247,6 +7730,14 @@
       ],
       "count": 10
     },
+    "data-structures-and-algorithms": {
+      "id": "data-structures-and-algorithms",
+      "preferred": "data structures and algorithms",
+      "aliases": [
+        "data structures and algorithms"
+      ],
+      "count": 9
+    },
     "time-complexity": {
       "id": "time-complexity",
       "preferred": "time complexity",
@@ -7262,14 +7753,6 @@
         "JavaScript Fundamentals",
         "JavaScript fundamentals",
         "javascript fundamentals"
-      ],
-      "count": 8
-    },
-    "data-structures-and-algorithms": {
-      "id": "data-structures-and-algorithms",
-      "preferred": "data structures and algorithms",
-      "aliases": [
-        "data structures and algorithms"
       ],
       "count": 8
     },
@@ -7328,12 +7811,29 @@
       ],
       "count": 8
     },
+    "currying": {
+      "id": "currying",
+      "preferred": "currying",
+      "aliases": [
+        "currying",
+        "function currying"
+      ],
+      "count": 8
+    },
     "higher-order-functions": {
       "id": "higher-order-functions",
       "preferred": "higher-order functions",
       "aliases": [
         "higher order functions",
         "higher-order functions"
+      ],
+      "count": 7
+    },
+    "iife": {
+      "id": "iife",
+      "preferred": "IIFE",
+      "aliases": [
+        "IIFE"
       ],
       "count": 7
     },
@@ -7370,6 +7870,23 @@
       ],
       "count": 7
     },
+    "communication-skills": {
+      "id": "communication-skills",
+      "preferred": "communication skills",
+      "aliases": [
+        "communication skills"
+      ],
+      "count": 7
+    },
+    "frontend-interview-preparation": {
+      "id": "frontend-interview-preparation",
+      "preferred": "frontend interview preparation",
+      "aliases": [
+        "front-end interview preparation",
+        "frontend interview preparation"
+      ],
+      "count": 7
+    },
     "infinite-scrolling": {
       "id": "infinite-scrolling",
       "preferred": "infinite scrolling",
@@ -7385,15 +7902,6 @@
       "aliases": [
         "variable scope",
         "variable scoping"
-      ],
-      "count": 7
-    },
-    "currying": {
-      "id": "currying",
-      "preferred": "currying",
-      "aliases": [
-        "currying",
-        "function currying"
       ],
       "count": 7
     },
@@ -7416,14 +7924,6 @@
         "variable declarations"
       ],
       "count": 7
-    },
-    "iife": {
-      "id": "iife",
-      "preferred": "IIFE",
-      "aliases": [
-        "IIFE"
-      ],
-      "count": 6
     },
     "virtual-dom": {
       "id": "virtual-dom",
@@ -7486,14 +7986,12 @@
       ],
       "count": 6
     },
-    "edge-case-testing": {
-      "id": "edge-case-testing",
-      "preferred": "edge case testing",
+    "component-re-rendering": {
+      "id": "component-re-rendering",
+      "preferred": "component re-rendering",
       "aliases": [
-        "edge case testing",
-        "edge case verification",
-        "test case edge cases",
-        "testing edge cases"
+        "component re-rendering",
+        "re-rendering lifecycle"
       ],
       "count": 6
     },
@@ -7538,6 +8036,15 @@
       ],
       "count": 5
     },
+    "performance-optimization": {
+      "id": "performance-optimization",
+      "preferred": "performance optimization",
+      "aliases": [
+        "Performance Optimization",
+        "performance optimization"
+      ],
+      "count": 5
+    },
     "promises": {
       "id": "promises",
       "preferred": "promises",
@@ -7560,22 +8067,6 @@
       "preferred": "topological sort",
       "aliases": [
         "topological sort"
-      ],
-      "count": 5
-    },
-    "communication-skills": {
-      "id": "communication-skills",
-      "preferred": "communication skills",
-      "aliases": [
-        "communication skills"
-      ],
-      "count": 5
-    },
-    "component-re-rendering": {
-      "id": "component-re-rendering",
-      "preferred": "component re-rendering",
-      "aliases": [
-        "component re-rendering"
       ],
       "count": 5
     },
@@ -7621,23 +8112,15 @@
       ],
       "count": 5
     },
-    "stale-closures": {
-      "id": "stale-closures",
-      "preferred": "stale closures",
+    "edge-case-testing": {
+      "id": "edge-case-testing",
+      "preferred": "edge case testing",
       "aliases": [
-        "stale closure in hooks",
-        "stale closures",
-        "stale closures in callbacks"
+        "edge case testing",
+        "edge case verification",
+        "testing edge cases"
       ],
       "count": 5
-    },
-    "memoization": {
-      "id": "memoization",
-      "preferred": "memoization",
-      "aliases": [
-        "memoization"
-      ],
-      "count": 4
     },
     "shallow-copy": {
       "id": "shallow-copy",
@@ -7652,6 +8135,14 @@
       "preferred": "JSON.stringify",
       "aliases": [
         "JSON.stringify"
+      ],
+      "count": 4
+    },
+    "recursion": {
+      "id": "recursion",
+      "preferred": "recursion",
+      "aliases": [
+        "recursion"
       ],
       "count": 4
     },
@@ -7692,15 +8183,6 @@
       "preferred": "developer productivity",
       "aliases": [
         "developer productivity"
-      ],
-      "count": 4
-    },
-    "performance-optimization": {
-      "id": "performance-optimization",
-      "preferred": "performance optimization",
-      "aliases": [
-        "Performance Optimization",
-        "performance optimization"
       ],
       "count": 4
     },
@@ -7890,15 +8372,6 @@
       ],
       "count": 4
     },
-    "frontend-interview-preparation": {
-      "id": "frontend-interview-preparation",
-      "preferred": "frontend interview preparation",
-      "aliases": [
-        "front-end interview preparation",
-        "frontend interview preparation"
-      ],
-      "count": 4
-    },
     "call-stack": {
       "id": "call-stack",
       "preferred": "call stack",
@@ -7914,6 +8387,35 @@
       "aliases": [
         "forEach vs map",
         "map vs forEach"
+      ],
+      "count": 4
+    },
+    "stale-closures": {
+      "id": "stale-closures",
+      "preferred": "stale closures",
+      "aliases": [
+        "stale closure in hooks",
+        "stale closures"
+      ],
+      "count": 4
+    },
+    "fibonacci-series": {
+      "id": "fibonacci-series",
+      "preferred": "Fibonacci series",
+      "aliases": [
+        "Fibonacci sequence",
+        "Fibonacci series",
+        "fibonacci series"
+      ],
+      "count": 4
+    },
+    "company-culture": {
+      "id": "company-culture",
+      "preferred": "company culture",
+      "aliases": [
+        "company culture",
+        "corporate culture",
+        "organizational culture"
       ],
       "count": 4
     },
@@ -7958,14 +8460,6 @@
       "preferred": "Array.prototype.filter",
       "aliases": [
         "Array.prototype.filter"
-      ],
-      "count": 3
-    },
-    "recursion": {
-      "id": "recursion",
-      "preferred": "recursion",
-      "aliases": [
-        "recursion"
       ],
       "count": 3
     },
@@ -8038,6 +8532,14 @@
       "preferred": "API integration",
       "aliases": [
         "API integration"
+      ],
+      "count": 3
+    },
+    "requirement-clarification": {
+      "id": "requirement-clarification",
+      "preferred": "requirement clarification",
+      "aliases": [
+        "requirement clarification"
       ],
       "count": 3
     },
@@ -8288,6 +8790,15 @@
       ],
       "count": 3
     },
+    "interview-preparation-strategy": {
+      "id": "interview-preparation-strategy",
+      "preferred": "interview preparation strategy",
+      "aliases": [
+        "interview preparation strategy",
+        "interview strategy"
+      ],
+      "count": 3
+    },
     "polyfill-testing": {
       "id": "polyfill-testing",
       "preferred": "polyfill testing",
@@ -8306,15 +8817,6 @@
       ],
       "count": 3
     },
-    "company-culture": {
-      "id": "company-culture",
-      "preferred": "company culture",
-      "aliases": [
-        "company culture",
-        "organizational culture"
-      ],
-      "count": 3
-    },
     "resume-optimization": {
       "id": "resume-optimization",
       "preferred": "resume optimization",
@@ -8324,12 +8826,30 @@
       ],
       "count": 3
     },
+    "fresher-hiring": {
+      "id": "fresher-hiring",
+      "preferred": "fresher hiring",
+      "aliases": [
+        "entry-level developer hiring",
+        "fresher hiring"
+      ],
+      "count": 3
+    },
     "call-apply-bind": {
       "id": "call-apply-bind",
       "preferred": "call apply bind",
       "aliases": [
         "apply and bind methods",
         "call apply bind"
+      ],
+      "count": 3
+    },
+    "array-reversal": {
+      "id": "array-reversal",
+      "preferred": "array reversal",
+      "aliases": [
+        "array reversal",
+        "array reversal approaches"
       ],
       "count": 3
     },
@@ -8343,15 +8863,23 @@
       ],
       "count": 3
     },
-    "use-strict": {
-      "id": "use-strict",
-      "preferred": "use strict",
+    "machine-coding-round": {
+      "id": "machine-coding-round",
+      "preferred": "machine coding round",
       "aliases": [
-        "JavaScript strict mode",
-        "strict mode",
-        "use strict"
+        "machine coding challenge",
+        "machine coding round",
+        "technical coding round"
       ],
       "count": 3
+    },
+    "arrow-function-hoisting": {
+      "id": "arrow-function-hoisting",
+      "preferred": "arrow function hoisting",
+      "aliases": [
+        "arrow function hoisting"
+      ],
+      "count": 2
     },
     "function-hoisting": {
       "id": "function-hoisting",
@@ -8407,6 +8935,14 @@
       "aliases": [
         "Object Mutation",
         "object mutation"
+      ],
+      "count": 2
+    },
+    "pure-functions": {
+      "id": "pure-functions",
+      "preferred": "pure functions",
+      "aliases": [
+        "pure functions"
       ],
       "count": 2
     },
@@ -8588,14 +9124,6 @@
       ],
       "count": 2
     },
-    "requirement-clarification": {
-      "id": "requirement-clarification",
-      "preferred": "requirement clarification",
-      "aliases": [
-        "requirement clarification"
-      ],
-      "count": 2
-    },
     "internship-search": {
       "id": "internship-search",
       "preferred": "internship search",
@@ -8604,11 +9132,36 @@
       ],
       "count": 2
     },
+    "situational-full-stack-developers": {
+      "id": "situational-full-stack-developers",
+      "preferred": "situational full stack developers",
+      "aliases": [
+        "situational full stack developer",
+        "situational full stack developers"
+      ],
+      "count": 2
+    },
+    "generalist-vs-specialist": {
+      "id": "generalist-vs-specialist",
+      "preferred": "generalist vs specialist",
+      "aliases": [
+        "generalist vs specialist"
+      ],
+      "count": 2
+    },
     "edge-cases": {
       "id": "edge-cases",
       "preferred": "edge cases",
       "aliases": [
         "edge cases"
+      ],
+      "count": 2
+    },
+    "internships": {
+      "id": "internships",
+      "preferred": "internships",
+      "aliases": [
+        "internships"
       ],
       "count": 2
     },
@@ -8817,6 +9370,14 @@
       "preferred": "video player design",
       "aliases": [
         "video player design"
+      ],
+      "count": 2
+    },
+    "software-engineering-careers": {
+      "id": "software-engineering-careers",
+      "preferred": "software engineering careers",
+      "aliases": [
+        "software engineering careers"
       ],
       "count": 2
     },
@@ -9190,6 +9751,14 @@
       ],
       "count": 2
     },
+    "salary-expectation-setting": {
+      "id": "salary-expectation-setting",
+      "preferred": "salary expectation setting",
+      "aliases": [
+        "salary expectation setting"
+      ],
+      "count": 2
+    },
     "entry-level-compensation": {
       "id": "entry-level-compensation",
       "preferred": "entry-level compensation",
@@ -9420,14 +9989,6 @@
       ],
       "count": 2
     },
-    "array-reversal": {
-      "id": "array-reversal",
-      "preferred": "array reversal",
-      "aliases": [
-        "array reversal"
-      ],
-      "count": 2
-    },
     "google-gemini-live": {
       "id": "google-gemini-live",
       "preferred": "Google Gemini Live",
@@ -9501,6 +10062,22 @@
       ],
       "count": 2
     },
+    "interview-questions": {
+      "id": "interview-questions",
+      "preferred": "interview questions",
+      "aliases": [
+        "interview questions"
+      ],
+      "count": 2
+    },
+    "console-log": {
+      "id": "console-log",
+      "preferred": "console.log",
+      "aliases": [
+        "console.log"
+      ],
+      "count": 2
+    },
     "variable-redeclaration": {
       "id": "variable-redeclaration",
       "preferred": "variable redeclaration",
@@ -9564,15 +10141,6 @@
       ],
       "count": 2
     },
-    "machine-coding-round": {
-      "id": "machine-coding-round",
-      "preferred": "machine coding round",
-      "aliases": [
-        "machine coding challenge",
-        "machine coding round"
-      ],
-      "count": 2
-    },
     "career-background": {
       "id": "career-background",
       "preferred": "career background",
@@ -9588,6 +10156,15 @@
       "aliases": [
         "problem solving",
         "problem-solving process"
+      ],
+      "count": 2
+    },
+    "use-strict": {
+      "id": "use-strict",
+      "preferred": "use strict",
+      "aliases": [
+        "strict mode",
+        "use strict"
       ],
       "count": 2
     },
@@ -9663,14 +10240,6 @@
       "preferred": "let variable hoisting",
       "aliases": [
         "let variable hoisting"
-      ],
-      "count": 1
-    },
-    "arrow-function-hoisting": {
-      "id": "arrow-function-hoisting",
-      "preferred": "arrow function hoisting",
-      "aliases": [
-        "arrow function hoisting"
       ],
       "count": 1
     },
@@ -10047,14 +10616,6 @@
       "preferred": "JSON.parse and JSON.stringify",
       "aliases": [
         "JSON.parse and JSON.stringify"
-      ],
-      "count": 1
-    },
-    "pure-functions": {
-      "id": "pure-functions",
-      "preferred": "pure functions",
-      "aliases": [
-        "pure functions"
       ],
       "count": 1
     },
@@ -11074,14 +11635,6 @@
       ],
       "count": 1
     },
-    "interview-preparation-strategy": {
-      "id": "interview-preparation-strategy",
-      "preferred": "interview preparation strategy",
-      "aliases": [
-        "interview preparation strategy"
-      ],
-      "count": 1
-    },
     "device-battery-management": {
       "id": "device-battery-management",
       "preferred": "device battery management",
@@ -11386,14 +11939,6 @@
       ],
       "count": 1
     },
-    "fibonacci-sequence": {
-      "id": "fibonacci-sequence",
-      "preferred": "Fibonacci sequence",
-      "aliases": [
-        "Fibonacci sequence"
-      ],
-      "count": 1
-    },
     "recursive-fibonacci": {
       "id": "recursive-fibonacci",
       "preferred": "recursive Fibonacci",
@@ -11434,35 +11979,11 @@
       ],
       "count": 1
     },
-    "situational-full-stack-developers": {
-      "id": "situational-full-stack-developers",
-      "preferred": "situational full stack developers",
-      "aliases": [
-        "situational full stack developers"
-      ],
-      "count": 1
-    },
     "tech-stack-specialization": {
       "id": "tech-stack-specialization",
       "preferred": "tech stack specialization",
       "aliases": [
         "tech stack specialization"
-      ],
-      "count": 1
-    },
-    "generalist-vs-specialist": {
-      "id": "generalist-vs-specialist",
-      "preferred": "generalist vs specialist",
-      "aliases": [
-        "generalist vs specialist"
-      ],
-      "count": 1
-    },
-    "entry-level-developer-hiring": {
-      "id": "entry-level-developer-hiring",
-      "preferred": "entry-level developer hiring",
-      "aliases": [
-        "entry-level developer hiring"
       ],
       "count": 1
     },
@@ -11655,14 +12176,6 @@
       "preferred": "academic performance",
       "aliases": [
         "academic performance"
-      ],
-      "count": 1
-    },
-    "internships": {
-      "id": "internships",
-      "preferred": "internships",
-      "aliases": [
-        "internships"
       ],
       "count": 1
     },
@@ -12498,14 +13011,6 @@
       ],
       "count": 1
     },
-    "software-engineering-careers": {
-      "id": "software-engineering-careers",
-      "preferred": "software engineering careers",
-      "aliases": [
-        "software engineering careers"
-      ],
-      "count": 1
-    },
     "career-journey": {
       "id": "career-journey",
       "preferred": "career journey",
@@ -12703,14 +13208,6 @@
       "preferred": "interview rounds structure",
       "aliases": [
         "interview rounds structure"
-      ],
-      "count": 1
-    },
-    "technical-coding-round": {
-      "id": "technical-coding-round",
-      "preferred": "technical coding round",
-      "aliases": [
-        "technical coding round"
       ],
       "count": 1
     },
@@ -15458,6 +15955,14 @@
       ],
       "count": 1
     },
+    "test-case-edge-cases": {
+      "id": "test-case-edge-cases",
+      "preferred": "test case edge cases",
+      "aliases": [
+        "test case edge cases"
+      ],
+      "count": 1
+    },
     "string-reduction": {
       "id": "string-reduction",
       "preferred": "string reduction",
@@ -17274,14 +17779,6 @@
       ],
       "count": 1
     },
-    "salary-expectation-setting": {
-      "id": "salary-expectation-setting",
-      "preferred": "salary expectation setting",
-      "aliases": [
-        "salary expectation setting"
-      ],
-      "count": 1
-    },
     "ctc-breakdown-and-vesting": {
       "id": "ctc-breakdown-and-vesting",
       "preferred": "CTC breakdown and vesting",
@@ -17727,14 +18224,6 @@
       "preferred": "financial planning",
       "aliases": [
         "financial planning"
-      ],
-      "count": 1
-    },
-    "fresher-hiring": {
-      "id": "fresher-hiring",
-      "preferred": "fresher hiring",
-      "aliases": [
-        "fresher hiring"
       ],
       "count": 1
     },
@@ -19026,14 +19515,6 @@
       ],
       "count": 1
     },
-    "re-rendering-lifecycle": {
-      "id": "re-rendering-lifecycle",
-      "preferred": "re-rendering lifecycle",
-      "aliases": [
-        "re-rendering lifecycle"
-      ],
-      "count": 1
-    },
     "performance-evaluation": {
       "id": "performance-evaluation",
       "preferred": "performance evaluation",
@@ -19607,6 +20088,14 @@
       "preferred": "stateless components",
       "aliases": [
         "stateless components"
+      ],
+      "count": 1
+    },
+    "javascript-strict-mode": {
+      "id": "javascript-strict-mode",
+      "preferred": "JavaScript strict mode",
+      "aliases": [
+        "JavaScript strict mode"
       ],
       "count": 1
     },
@@ -20247,6 +20736,14 @@
       "preferred": "event handlers and timeouts",
       "aliases": [
         "event handlers and timeouts"
+      ],
+      "count": 1
+    },
+    "stale-closures-in-callbacks": {
+      "id": "stale-closures-in-callbacks",
+      "preferred": "stale closures in callbacks",
+      "aliases": [
+        "stale closures in callbacks"
       ],
       "count": 1
     },
@@ -21618,14 +22115,6 @@
       ],
       "count": 1
     },
-    "array-reversal-approaches": {
-      "id": "array-reversal-approaches",
-      "preferred": "array reversal approaches",
-      "aliases": [
-        "array reversal approaches"
-      ],
-      "count": 1
-    },
     "auxiliary-array-reversal": {
       "id": "auxiliary-array-reversal",
       "preferred": "auxiliary array reversal",
@@ -22247,14 +22736,6 @@
       "preferred": "React anti-patterns",
       "aliases": [
         "React anti-patterns"
-      ],
-      "count": 1
-    },
-    "interview-strategy": {
-      "id": "interview-strategy",
-      "preferred": "interview strategy",
-      "aliases": [
-        "interview strategy"
       ],
       "count": 1
     },
@@ -23495,6 +23976,334 @@
       "preferred": "Session Conclusion",
       "aliases": [
         "Session Conclusion"
+      ],
+      "count": 1
+    },
+    "colorize-vs-code-extension": {
+      "id": "colorize-vs-code-extension",
+      "preferred": "Colorize VS Code extension",
+      "aliases": [
+        "Colorize VS Code extension"
+      ],
+      "count": 1
+    },
+    "peacock-vs-code-extension": {
+      "id": "peacock-vs-code-extension",
+      "preferred": "Peacock VS Code Extension",
+      "aliases": [
+        "Peacock VS Code Extension"
+      ],
+      "count": 1
+    },
+    "sticky-scroll": {
+      "id": "sticky-scroll",
+      "preferred": "sticky scroll",
+      "aliases": [
+        "sticky scroll"
+      ],
+      "count": 1
+    },
+    "code-spell-checker": {
+      "id": "code-spell-checker",
+      "preferred": "Code Spell Checker",
+      "aliases": [
+        "Code Spell Checker"
+      ],
+      "count": 1
+    },
+    "auto-rename-tag-extension": {
+      "id": "auto-rename-tag-extension",
+      "preferred": "Auto Rename Tag extension",
+      "aliases": [
+        "Auto Rename Tag extension"
+      ],
+      "count": 1
+    },
+    "better-comments-extension": {
+      "id": "better-comments-extension",
+      "preferred": "Better Comments extension",
+      "aliases": [
+        "Better Comments extension"
+      ],
+      "count": 1
+    },
+    "meta-interview-questions": {
+      "id": "meta-interview-questions",
+      "preferred": "Meta interview questions",
+      "aliases": [
+        "Meta interview questions"
+      ],
+      "count": 1
+    },
+    "memoization-with-varying-arguments": {
+      "id": "memoization-with-varying-arguments",
+      "preferred": "memoization with varying arguments",
+      "aliases": [
+        "memoization with varying arguments"
+      ],
+      "count": 1
+    },
+    "entrepreneurship-in-college": {
+      "id": "entrepreneurship-in-college",
+      "preferred": "entrepreneurship in college",
+      "aliases": [
+        "entrepreneurship in college"
+      ],
+      "count": 1
+    },
+    "engineering-degree-purpose": {
+      "id": "engineering-degree-purpose",
+      "preferred": "engineering degree purpose",
+      "aliases": [
+        "engineering degree purpose"
+      ],
+      "count": 1
+    },
+    "async-await-execution-order": {
+      "id": "async-await-execution-order",
+      "preferred": "async await execution order",
+      "aliases": [
+        "async await execution order"
+      ],
+      "count": 1
+    },
+    "academic-performance-vs-skills": {
+      "id": "academic-performance-vs-skills",
+      "preferred": "academic performance vs skills",
+      "aliases": [
+        "academic performance vs skills"
+      ],
+      "count": 1
+    },
+    "peer-comparison-and-mental-health": {
+      "id": "peer-comparison-and-mental-health",
+      "preferred": "peer comparison and mental health",
+      "aliases": [
+        "peer comparison and mental health"
+      ],
+      "count": 1
+    },
+    "full-stack-vs-single-stack-specialization": {
+      "id": "full-stack-vs-single-stack-specialization",
+      "preferred": "full stack vs single stack specialization",
+      "aliases": [
+        "full stack vs single stack specialization"
+      ],
+      "count": 1
+    },
+    "full-stack-developer-courses": {
+      "id": "full-stack-developer-courses",
+      "preferred": "full stack developer courses",
+      "aliases": [
+        "full stack developer courses"
+      ],
+      "count": 1
+    },
+    "full-stack-developer-skill-development": {
+      "id": "full-stack-developer-skill-development",
+      "preferred": "full stack developer skill development",
+      "aliases": [
+        "full stack developer skill development"
+      ],
+      "count": 1
+    },
+    "full-stack-hiring-trends": {
+      "id": "full-stack-hiring-trends",
+      "preferred": "full stack hiring trends",
+      "aliases": [
+        "full stack hiring trends"
+      ],
+      "count": 1
+    },
+    "full-stack-tech-stacks": {
+      "id": "full-stack-tech-stacks",
+      "preferred": "full stack tech stacks",
+      "aliases": [
+        "full stack tech stacks"
+      ],
+      "count": 1
+    },
+    "fresher-full-stack-development": {
+      "id": "fresher-full-stack-development",
+      "preferred": "fresher full stack development",
+      "aliases": [
+        "fresher full stack development"
+      ],
+      "count": 1
+    },
+    "interview-evaluation": {
+      "id": "interview-evaluation",
+      "preferred": "interview evaluation",
+      "aliases": [
+        "interview evaluation"
+      ],
+      "count": 1
+    },
+    "code-output-questions": {
+      "id": "code-output-questions",
+      "preferred": "code output questions",
+      "aliases": [
+        "code output questions"
+      ],
+      "count": 1
+    },
+    "company-research": {
+      "id": "company-research",
+      "preferred": "company research",
+      "aliases": [
+        "company research"
+      ],
+      "count": 1
+    },
+    "job-security": {
+      "id": "job-security",
+      "preferred": "job security",
+      "aliases": [
+        "job security"
+      ],
+      "count": 1
+    },
+    "company-reputation": {
+      "id": "company-reputation",
+      "preferred": "company reputation",
+      "aliases": [
+        "company reputation"
+      ],
+      "count": 1
+    },
+    "settimeout-loop-scoping": {
+      "id": "settimeout-loop-scoping",
+      "preferred": "setTimeout loop scoping",
+      "aliases": [
+        "setTimeout loop scoping"
+      ],
+      "count": 1
+    },
+    "tech-layoffs": {
+      "id": "tech-layoffs",
+      "preferred": "tech layoffs",
+      "aliases": [
+        "tech layoffs"
+      ],
+      "count": 1
+    },
+    "job-hunting": {
+      "id": "job-hunting",
+      "preferred": "job hunting",
+      "aliases": [
+        "job hunting"
+      ],
+      "count": 1
+    },
+    "retirement-planning": {
+      "id": "retirement-planning",
+      "preferred": "retirement planning",
+      "aliases": [
+        "retirement planning"
+      ],
+      "count": 1
+    },
+    "questions-to-ask-interviewers": {
+      "id": "questions-to-ask-interviewers",
+      "preferred": "questions to ask interviewers",
+      "aliases": [
+        "questions to ask interviewers"
+      ],
+      "count": 1
+    },
+    "retirement-age": {
+      "id": "retirement-age",
+      "preferred": "retirement age",
+      "aliases": [
+        "retirement age"
+      ],
+      "count": 1
+    },
+    "csw-strategy": {
+      "id": "csw-strategy",
+      "preferred": "CSW strategy",
+      "aliases": [
+        "CSW strategy"
+      ],
+      "count": 1
+    },
+    "parseint-vs-number": {
+      "id": "parseint-vs-number",
+      "preferred": "parseInt vs Number",
+      "aliases": [
+        "parseInt vs Number"
+      ],
+      "count": 1
+    },
+    "managing-expectations": {
+      "id": "managing-expectations",
+      "preferred": "managing expectations",
+      "aliases": [
+        "managing expectations"
+      ],
+      "count": 1
+    },
+    "job-resignation": {
+      "id": "job-resignation",
+      "preferred": "job resignation",
+      "aliases": [
+        "job resignation"
+      ],
+      "count": 1
+    },
+    "teamwork": {
+      "id": "teamwork",
+      "preferred": "teamwork",
+      "aliases": [
+        "teamwork"
+      ],
+      "count": 1
+    },
+    "interview-performance-and-negotiation": {
+      "id": "interview-performance-and-negotiation",
+      "preferred": "interview performance and negotiation",
+      "aliases": [
+        "interview performance and negotiation"
+      ],
+      "count": 1
+    },
+    "leveraging-competing-job-offers": {
+      "id": "leveraging-competing-job-offers",
+      "preferred": "leveraging competing job offers",
+      "aliases": [
+        "leveraging competing job offers"
+      ],
+      "count": 1
+    },
+    "90-day-notice-period": {
+      "id": "90-day-notice-period",
+      "preferred": "90 day notice period",
+      "aliases": [
+        "90 day notice period"
+      ],
+      "count": 1
+    },
+    "reducing-notice-period": {
+      "id": "reducing-notice-period",
+      "preferred": "reducing notice period",
+      "aliases": [
+        "reducing notice period"
+      ],
+      "count": 1
+    },
+    "notice-period-buyout": {
+      "id": "notice-period-buyout",
+      "preferred": "notice period buyout",
+      "aliases": [
+        "notice period buyout"
+      ],
+      "count": 1
+    },
+    "cohort-based-learning-vs-self-paced-courses": {
+      "id": "cohort-based-learning-vs-self-paced-courses",
+      "preferred": "cohort-based learning vs self-paced courses",
+      "aliases": [
+        "cohort-based learning vs self-paced courses"
       ],
       "count": 1
     }
