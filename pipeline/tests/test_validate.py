@@ -1,5 +1,5 @@
 from unittest.mock import MagicMock, patch
-from pipeline.validate import parse_citations, validate_scenario
+from pipeline.validate import parse_citations, parse_rules_with_citations, validate_scenario
 
 
 def test_parse_citations():
@@ -15,8 +15,27 @@ def test_parse_citations():
     assert cites[1] == ("another.md", 30, 50)
 
 
+def test_parse_rules_with_citations():
+    text = """
+    ### Rule 1: First Heuristic
+    - Trigger: When user asks X
+    - Action: Do Y
+    - Avoid: Do not do Z
+    - Grounding Citation: `source.md` (lines 5-10)
+    """
+    rules = parse_rules_with_citations(text)
+    assert len(rules) == 1
+    assert rules[0]["rule_num"] == 1
+    assert rules[0]["title"] == "First Heuristic"
+    assert rules[0]["action"] == "Do Y"
+    assert rules[0]["file"] == "source.md"
+    assert rules[0]["start"] == 5
+    assert rules[0]["end"] == 10
+
+
+@patch("pipeline.validate.JevClient")
 @patch("pipeline.validate.OpenRouter")
-def test_validate_scenario(mock_openrouter, tmp_path):
+def test_validate_scenario(mock_openrouter, mock_jev_class, tmp_path):
     mock_judge = MagicMock()
     mock_judge.complete.return_value = {
         "verdict": "PASS",
@@ -28,6 +47,12 @@ def test_validate_scenario(mock_openrouter, tmp_path):
         "summary": "Passed audit cleanly",
     }
     mock_openrouter.return_value = mock_judge
+
+    mock_jev = MagicMock()
+    mock_jev.decide.return_value = {
+        "entailment": {"type": "choice", "choice": "grounded", "confidence": 0.95}
+    }
+    mock_jev_class.return_value = mock_jev
 
     skill_file = tmp_path / "skill.md"
     skill_file.write_text("""
@@ -44,3 +69,6 @@ def test_validate_scenario(mock_openrouter, tmp_path):
     assert report["judge_evaluation"]["verdict"] == "PASS"
     assert report["citation_integrity"]["valid_citations"] == 1
     assert report["judge_evaluation"]["grounding_score"] == 10
+    assert report["jev_entailment_audit"]["total_rules_checked"] == 1
+    assert report["jev_entailment_audit"]["grounded_rules"] == 1
+

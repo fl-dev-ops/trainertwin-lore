@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Any
 
 from .client import OpenRouter
+from .normalize import JevClient
 
 JUDGE_SCHEMA = {
     "type": "object",
@@ -58,6 +59,32 @@ def parse_citations(content: str) -> list[tuple[str, int, int]]:
     return [(f, int(s), int(e)) for f, s, e in matches]
 
 
+def parse_rules_with_citations(content: str) -> list[dict[str, Any]]:
+    """Extract each rule's name, action, and citation from SKILL.md."""
+    rule_blocks = re.findall(
+        r"###\s+Rule\s+(\d+):\s*([^\n]+)\n(.*?)(?=###\s+Rule|\n##\s+|\Z)",
+        content,
+        re.DOTALL,
+    )
+    rules = []
+    for num, title, body in rule_blocks:
+        action_m = re.search(r"-\s+(?:\*\*)?Action(?:\*\*)?:\s*([^\n]+)", body)
+        cite_m = re.search(
+            r"-\s+(?:\*\*)?Grounding Citation(?:\*\*)?:\s*[`\"]?([^`\"\n\s]+\.(?:md|yaml))[`\"]?\s*\(lines?\s*(\d+)\s*[-–]\s*(\d+)\)",
+            body,
+        )
+        if cite_m:
+            rules.append({
+                "rule_num": int(num),
+                "title": title.strip(),
+                "action": action_m.group(1).strip() if action_m else "",
+                "file": cite_m.group(1).strip(),
+                "start": int(cite_m.group(2)),
+                "end": int(cite_m.group(3)),
+            })
+    return rules
+
+
 def validate_scenario(
     skill_path: Path,
     data_dir: Path,
@@ -66,6 +93,7 @@ def validate_scenario(
     judge_model: str = "openai/gpt-4o-mini",
 ) -> dict[str, Any]:
     """Audit an authored SKILL.md against its verified source evidence."""
+    import sys
     content = skill_path.read_text(encoding="utf-8")
     citations = parse_citations(content)
 
@@ -97,6 +125,60 @@ def validate_scenario(
         citation_audit.append({"file": fpath, "lines": f"{s}-{e}", "status": "VALID"})
         collected_evidence.append(f"[{fpath} L{s}-{e}]: \"{verbatim_slice}\"")
 
+    # Jev semantic entailment verification on cited rules
+    jev_client = JevClient(api_key)
+    jev_hallucinations = []
+    jev_results = []
+    try:
+        rules = parse_rules_with_citations(content)
+        for r in rules:
+            full_path = data_dir / r["file"]
+            if not full_path.is_file():
+                candidates = list(data_dir.rglob(Path(r["file"]).name))
+                if candidates:
+                    full_path = candidates[0]
+            if not full_path.is_file():
+                continue
+            raw_lines = full_path.read_text(encoding="utf-8").splitlines()
+            if not (1 <= r["start"] <= r["end"] <= len(raw_lines)):
+                continue
+            excerpt = " ".join(
+                line.strip() for line in raw_lines[r["start"] - 1 : r["end"]]
+                if line.strip() and not line.strip().startswith("###") and not line.strip().startswith("---")
+            )
+            jev_ans = jev_client.decide(
+                state=f"TRANSCRIPT / EVIDENCE EXCERPT:\n\"\"\"{excerpt}\"\"\"",
+                questions={
+                    "entailment": {
+                        "type": "choice",
+                        "instructions": (
+                            f"Evaluate whether the following rule is strictly supported by the excerpt without inventing facts or misattributing speakers:\n"
+                            f"Rule: \"{r['title']}. Action: {r['action']}\""
+                        ),
+                        "criteria": {
+                            "grounded": "The claim is factually supported, directly asserted, or logically entailed by the excerpt without misattributing speakers or inventing terminology.",
+                            "hallucinated": "The claim invents facts, uses terminology not present in the excerpt, or misattributes statements."
+                        }
+                    }
+                }
+            )
+            ans = jev_ans.get("entailment", {})
+            choice = ans.get("choice", "grounded")
+            conf = ans.get("confidence", 0.0)
+            item_res = {
+                "rule": r["title"],
+                "citation": f"{r['file']} L{r['start']}-{r['end']}",
+                "choice": choice,
+                "confidence": conf,
+            }
+            jev_results.append(item_res)
+            if choice == "hallucinated" and conf >= 0.60:
+                jev_hallucinations.append(item_res)
+    except Exception as exc:
+        print(f"Warning: Jev entailment verification skipped ({exc})", file=sys.stderr)
+    finally:
+        jev_client.close()
+
     judge_client = OpenRouter(api_key, judge_model)
     user_prompt = (
         f"AUTHORED SKILL PROMPT TO AUDIT:\n\n{content}\n\n"
@@ -110,12 +192,25 @@ def validate_scenario(
     finally:
         judge_client.close()
 
+    if jev_hallucinations:
+        judge_res["verdict"] = "FAIL"
+        for h in jev_hallucinations:
+            err_msg = f"[Jev Entailment Failure]: Rule '{h['rule']}' is ungrounded/hallucinated against {h['citation']} (confidence: {h['confidence']:.2f})"
+            if err_msg not in judge_res["hallucinations_found"]:
+                judge_res["hallucinations_found"].append(err_msg)
+
     return {
         "file": skill_path.name,
         "citation_integrity": {
             "total_citations": len(citations),
             "valid_citations": valid_citations,
             "citations": citation_audit,
+        },
+        "jev_entailment_audit": {
+            "total_rules_checked": len(jev_results),
+            "grounded_rules": len(jev_results) - len(jev_hallucinations),
+            "hallucinations": jev_hallucinations,
+            "rules": jev_results,
         },
         "judge_evaluation": judge_res,
     }

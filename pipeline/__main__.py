@@ -147,8 +147,13 @@ def cli():
             report = validate_scenario(sf, root, key, judge_model=args.judge_model)
             je = report["judge_evaluation"]
             ci = report["citation_integrity"]
+            jev_audit = report.get("jev_entailment_audit", {})
             print(f"VERDICT: {je['verdict']} | Grounding: {je['grounding_score']}/10 | Voice: {je['voice_authenticity_score']}/10 | Gemini Readiness: {je['gemini_adherence_readiness']}/10")
             print(f"Citations: {ci['valid_citations']}/{ci['total_citations']} valid")
+            if jev_audit:
+                print(f"Jev Entailment: {jev_audit.get('grounded_rules', 0)}/{jev_audit.get('total_rules_checked', 0)} rules grounded")
+                for h in jev_audit.get("hallucinations", []):
+                    print(f"  ❌ Jev Hallucination: '{h['rule']}' ungrounded in {h['citation']} (conf {h['confidence']:.2f})")
             if je.get("hallucinations_found"):
                 print(f"⚠️ Hallucinations: {je['hallucinations_found']}")
             if je.get("unsupported_claims"):
