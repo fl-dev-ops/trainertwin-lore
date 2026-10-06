@@ -8,7 +8,7 @@
         "interview preparation",
         "job interview preparation"
       ],
-      "count": 50
+      "count": 83
     },
     "job-interview": {
       "id": "job-interview",
@@ -16,7 +16,7 @@
       "aliases": [
         "job interview"
       ],
-      "count": 43
+      "count": 57
     },
     "resume-writing": {
       "id": "resume-writing",
@@ -24,9 +24,10 @@
       "aliases": [
         "CV writing",
         "resume building",
+        "resume preparation",
         "resume writing"
       ],
-      "count": 24
+      "count": 26
     },
     "career-coaching": {
       "id": "career-coaching",
@@ -34,13 +35,21 @@
       "aliases": [
         "career coaching"
       ],
-      "count": 9
+      "count": 15
     },
     "presentations": {
       "id": "presentations",
       "preferred": "presentations",
       "aliases": [
         "presentations"
+      ],
+      "count": 7
+    },
+    "course-recommendation": {
+      "id": "course-recommendation",
+      "preferred": "course recommendation",
+      "aliases": [
+        "course recommendation"
       ],
       "count": 7
     },
@@ -101,6 +110,15 @@
       ],
       "count": 4
     },
+    "podcast-wrap-up": {
+      "id": "podcast-wrap-up",
+      "preferred": "podcast wrap-up",
+      "aliases": [
+        "podcast conclusion",
+        "podcast wrap-up"
+      ],
+      "count": 4
+    },
     "resume-tailoring": {
       "id": "resume-tailoring",
       "preferred": "resume tailoring",
@@ -118,19 +136,20 @@
       ],
       "count": 3
     },
+    "executive-presentation": {
+      "id": "executive-presentation",
+      "preferred": "executive presentation",
+      "aliases": [
+        "executive presentation",
+        "executive presentations"
+      ],
+      "count": 3
+    },
     "budgeting": {
       "id": "budgeting",
       "preferred": "budgeting",
       "aliases": [
         "budgeting"
-      ],
-      "count": 3
-    },
-    "podcast-wrap-up": {
-      "id": "podcast-wrap-up",
-      "preferred": "podcast wrap-up",
-      "aliases": [
-        "podcast wrap-up"
       ],
       "count": 3
     },
@@ -150,6 +169,30 @@
       ],
       "count": 3
     },
+    "job-search": {
+      "id": "job-search",
+      "preferred": "job search",
+      "aliases": [
+        "job search"
+      ],
+      "count": 3
+    },
+    "job-application": {
+      "id": "job-application",
+      "preferred": "job application",
+      "aliases": [
+        "job application"
+      ],
+      "count": 3
+    },
+    "career-guidance": {
+      "id": "career-guidance",
+      "preferred": "career guidance",
+      "aliases": [
+        "career guidance"
+      ],
+      "count": 3
+    },
     "online-courses": {
       "id": "online-courses",
       "preferred": "online courses",
@@ -163,6 +206,15 @@
       "preferred": "discussion",
       "aliases": [
         "discussion"
+      ],
+      "count": 3
+    },
+    "podcast-intro": {
+      "id": "podcast-intro",
+      "preferred": "podcast intro",
+      "aliases": [
+        "podcast intro",
+        "podcast introduction"
       ],
       "count": 3
     },
@@ -191,12 +243,19 @@
       ],
       "count": 2
     },
-    "executive-presentation": {
-      "id": "executive-presentation",
-      "preferred": "executive presentation",
+    "executive-communication": {
+      "id": "executive-communication",
+      "preferred": "executive communication",
       "aliases": [
-        "executive presentation",
-        "executive presentations"
+        "executive communication"
+      ],
+      "count": 2
+    },
+    "problem-solving": {
+      "id": "problem-solving",
+      "preferred": "problem solving",
+      "aliases": [
+        "problem solving"
       ],
       "count": 2
     },
@@ -232,27 +291,11 @@
       ],
       "count": 2
     },
-    "job-application": {
-      "id": "job-application",
-      "preferred": "job application",
-      "aliases": [
-        "job application"
-      ],
-      "count": 2
-    },
     "scenario-planning": {
       "id": "scenario-planning",
       "preferred": "scenario planning",
       "aliases": [
         "scenario planning"
-      ],
-      "count": 2
-    },
-    "podcast-intro": {
-      "id": "podcast-intro",
-      "preferred": "podcast intro",
-      "aliases": [
-        "podcast intro"
       ],
       "count": 2
     },
@@ -272,12 +315,37 @@
       ],
       "count": 2
     },
+    "career-development": {
+      "id": "career-development",
+      "preferred": "career development",
+      "aliases": [
+        "career development"
+      ],
+      "count": 2
+    },
+    "book-recommendation": {
+      "id": "book-recommendation",
+      "preferred": "book recommendation",
+      "aliases": [
+        "book recommendation"
+      ],
+      "count": 2
+    },
     "prompting-chatgpt": {
       "id": "prompting-chatgpt",
       "preferred": "prompting ChatGPT",
       "aliases": [
         "ChatGPT prompting",
         "prompting ChatGPT"
+      ],
+      "count": 2
+    },
+    "job-interview-prep": {
+      "id": "job-interview-prep",
+      "preferred": "job interview prep",
+      "aliases": [
+        "interview prep",
+        "job interview prep"
       ],
       "count": 2
     },
@@ -417,14 +485,6 @@
       ],
       "count": 1
     },
-    "executive-communication": {
-      "id": "executive-communication",
-      "preferred": "executive communication",
-      "aliases": [
-        "executive communication"
-      ],
-      "count": 1
-    },
     "timed-rehearsal": {
       "id": "timed-rehearsal",
       "preferred": "timed rehearsal",
@@ -438,14 +498,6 @@
       "preferred": "stakeholder interviewing",
       "aliases": [
         "stakeholder interviewing"
-      ],
-      "count": 1
-    },
-    "problem-solving": {
-      "id": "problem-solving",
-      "preferred": "problem solving",
-      "aliases": [
-        "problem solving"
       ],
       "count": 1
     },
@@ -510,14 +562,6 @@
       "preferred": "self-education",
       "aliases": [
         "self-education"
-      ],
-      "count": 1
-    },
-    "job-interview-prep": {
-      "id": "job-interview-prep",
-      "preferred": "job interview prep",
-      "aliases": [
-        "job interview prep"
       ],
       "count": 1
     },
@@ -641,14 +685,6 @@
       ],
       "count": 1
     },
-    "job-search": {
-      "id": "job-search",
-      "preferred": "job search",
-      "aliases": [
-        "job search"
-      ],
-      "count": 1
-    },
     "software-demo": {
       "id": "software-demo",
       "preferred": "software demo",
@@ -686,14 +722,6 @@
       "preferred": "interview closing",
       "aliases": [
         "interview closing"
-      ],
-      "count": 1
-    },
-    "career-guidance": {
-      "id": "career-guidance",
-      "preferred": "career guidance",
-      "aliases": [
-        "career guidance"
       ],
       "count": 1
     },
@@ -782,14 +810,6 @@
       "preferred": "upskilling",
       "aliases": [
         "upskilling"
-      ],
-      "count": 1
-    },
-    "podcast-introduction": {
-      "id": "podcast-introduction",
-      "preferred": "podcast introduction",
-      "aliases": [
-        "podcast introduction"
       ],
       "count": 1
     },
@@ -1022,14 +1042,6 @@
       "preferred": "volunteering",
       "aliases": [
         "volunteering"
-      ],
-      "count": 1
-    },
-    "podcast-conclusion": {
-      "id": "podcast-conclusion",
-      "preferred": "podcast conclusion",
-      "aliases": [
-        "podcast conclusion"
       ],
       "count": 1
     },
@@ -1328,19 +1340,141 @@
         "situational interview questions"
       ],
       "count": 1
+    },
+    "critical-thinking": {
+      "id": "critical-thinking",
+      "preferred": "critical thinking",
+      "aliases": [
+        "critical thinking"
+      ],
+      "count": 1
+    },
+    "career-assessment": {
+      "id": "career-assessment",
+      "preferred": "career assessment",
+      "aliases": [
+        "career assessment"
+      ],
+      "count": 1
+    },
+    "roleplay": {
+      "id": "roleplay",
+      "preferred": "roleplay",
+      "aliases": [
+        "roleplay"
+      ],
+      "count": 1
+    },
+    "video-introduction": {
+      "id": "video-introduction",
+      "preferred": "video introduction",
+      "aliases": [
+        "video introduction"
+      ],
+      "count": 1
+    },
+    "performance-feedback": {
+      "id": "performance-feedback",
+      "preferred": "performance feedback",
+      "aliases": [
+        "performance feedback"
+      ],
+      "count": 1
+    },
+    "career-advice": {
+      "id": "career-advice",
+      "preferred": "career advice",
+      "aliases": [
+        "career advice"
+      ],
+      "count": 1
+    },
+    "management-book-review": {
+      "id": "management-book-review",
+      "preferred": "management book review",
+      "aliases": [
+        "management book review"
+      ],
+      "count": 1
+    },
+    "internship-interview-preparation": {
+      "id": "internship-interview-preparation",
+      "preferred": "internship interview preparation",
+      "aliases": [
+        "internship interview preparation"
+      ],
+      "count": 1
+    },
+    "career-milestone-celebration": {
+      "id": "career-milestone-celebration",
+      "preferred": "career milestone celebration",
+      "aliases": [
+        "career milestone celebration"
+      ],
+      "count": 1
+    },
+    "course-review": {
+      "id": "course-review",
+      "preferred": "course review",
+      "aliases": [
+        "course review"
+      ],
+      "count": 1
+    },
+    "online-course-recommendation": {
+      "id": "online-course-recommendation",
+      "preferred": "online course recommendation",
+      "aliases": [
+        "online course recommendation"
+      ],
+      "count": 1
     }
   },
   "situation": {
-    "starting-a-new-job-or-role": {
-      "id": "starting-a-new-job-or-role",
-      "preferred": "starting a new job or role",
+    "starting-a-new-job": {
+      "id": "starting-a-new-job",
+      "preferred": "starting a new job",
       "aliases": [
-        "first 90 days in a new role",
         "starting a new job",
         "starting a new job or role",
         "starting a new role"
       ],
       "count": 9
+    },
+    "answering-interview-questions": {
+      "id": "answering-interview-questions",
+      "preferred": "answering interview questions",
+      "aliases": [
+        "answering interview questions"
+      ],
+      "count": 4
+    },
+    "entry-level-supply-chain-jobs": {
+      "id": "entry-level-supply-chain-jobs",
+      "preferred": "entry level supply chain jobs",
+      "aliases": [
+        "entry level supply chain jobs"
+      ],
+      "count": 4
+    },
+    "aspiring-to-become-a-manager": {
+      "id": "aspiring-to-become-a-manager",
+      "preferred": "aspiring to become a manager",
+      "aliases": [
+        "aspiring to become a manager",
+        "trying to become a manager"
+      ],
+      "count": 4
+    },
+    "fresh-graduate-with-no-experience": {
+      "id": "fresh-graduate-with-no-experience",
+      "preferred": "fresh graduate with no experience",
+      "aliases": [
+        "fresh graduate new joiner",
+        "fresh graduate with no experience",
+        "fresh graduate with no prior experience"
+      ],
+      "count": 4
     },
     "answering-salary-expectations-in-interview": {
       "id": "answering-salary-expectations-in-interview",
@@ -1355,6 +1489,30 @@
       "preferred": "biggest achievement question",
       "aliases": [
         "biggest achievement question"
+      ],
+      "count": 3
+    },
+    "answering-behavioral-interview-questions": {
+      "id": "answering-behavioral-interview-questions",
+      "preferred": "answering behavioral interview questions",
+      "aliases": [
+        "answering behavioral interview questions"
+      ],
+      "count": 3
+    },
+    "post-pandemic-workplace": {
+      "id": "post-pandemic-workplace",
+      "preferred": "post-pandemic workplace",
+      "aliases": [
+        "post-pandemic workplace"
+      ],
+      "count": 3
+    },
+    "breaking-into-supply-chain-it": {
+      "id": "breaking-into-supply-chain-it",
+      "preferred": "breaking into supply chain IT",
+      "aliases": [
+        "breaking into supply chain IT"
       ],
       "count": 3
     },
@@ -1375,11 +1533,11 @@
       ],
       "count": 2
     },
-    "fresh-graduate-with-no-experience": {
-      "id": "fresh-graduate-with-no-experience",
-      "preferred": "fresh graduate with no experience",
+    "delivering-bad-news": {
+      "id": "delivering-bad-news",
+      "preferred": "delivering bad news",
       "aliases": [
-        "fresh graduate with no experience"
+        "delivering bad news"
       ],
       "count": 2
     },
@@ -1423,6 +1581,63 @@
       ],
       "count": 2
     },
+    "managing-difficult-customers": {
+      "id": "managing-difficult-customers",
+      "preferred": "managing difficult customers",
+      "aliases": [
+        "managing difficult customers"
+      ],
+      "count": 2
+    },
+    "starting-a-supply-chain-career": {
+      "id": "starting-a-supply-chain-career",
+      "preferred": "starting a supply chain career",
+      "aliases": [
+        "starting a supply chain career"
+      ],
+      "count": 2
+    },
+    "balancing-customer-satisfaction-with-cost-efficiency": {
+      "id": "balancing-customer-satisfaction-with-cost-efficiency",
+      "preferred": "balancing customer satisfaction with cost efficiency",
+      "aliases": [
+        "balancing customer satisfaction with cost efficiency"
+      ],
+      "count": 2
+    },
+    "dealing-with-nasty-emails": {
+      "id": "dealing-with-nasty-emails",
+      "preferred": "dealing with nasty emails",
+      "aliases": [
+        "dealing with nasty emails"
+      ],
+      "count": 2
+    },
+    "preparing-for-supply-chain-internship-interview": {
+      "id": "preparing-for-supply-chain-internship-interview",
+      "preferred": "preparing for supply chain internship interview",
+      "aliases": [
+        "preparing for supply chain internship interview"
+      ],
+      "count": 2
+    },
+    "advancing-to-senior-supply-chain-leadership": {
+      "id": "advancing-to-senior-supply-chain-leadership",
+      "preferred": "advancing to senior supply chain leadership",
+      "aliases": [
+        "advancing to senior supply chain leadership"
+      ],
+      "count": 2
+    },
+    "evolving-technology-and-shrinking-job-lifecycles": {
+      "id": "evolving-technology-and-shrinking-job-lifecycles",
+      "preferred": "evolving technology and shrinking job lifecycles",
+      "aliases": [
+        "evolving technology and shrinking job lifecycles",
+        "shrinking job lifecycles and rapidly changing technology"
+      ],
+      "count": 2
+    },
     "introvert-job-hunting": {
       "id": "introvert-job-hunting",
       "preferred": "introvert job hunting",
@@ -1432,12 +1647,39 @@
       ],
       "count": 2
     },
+    "retail-store-manager-transitioning-to-supply-chain": {
+      "id": "retail-store-manager-transitioning-to-supply-chain",
+      "preferred": "retail store manager transitioning to supply chain",
+      "aliases": [
+        "retail store manager transitioning to supply chain",
+        "store manager wanting to enter the supply chain industry"
+      ],
+      "count": 2
+    },
     "early-career-progression": {
       "id": "early-career-progression",
       "preferred": "early career progression",
       "aliases": [
         "early career growth",
         "early career progression"
+      ],
+      "count": 2
+    },
+    "fresh-graduates-job-search": {
+      "id": "fresh-graduates-job-search",
+      "preferred": "fresh graduates job search",
+      "aliases": [
+        "fresh graduates job search",
+        "fresh graduates seeking career paths"
+      ],
+      "count": 2
+    },
+    "switching-into-supply-chain": {
+      "id": "switching-into-supply-chain",
+      "preferred": "switching into supply chain",
+      "aliases": [
+        "engineers switching to supply chain",
+        "switching into supply chain"
       ],
       "count": 2
     },
@@ -1689,14 +1931,6 @@
       ],
       "count": 1
     },
-    "fresh-graduate-new-joiner": {
-      "id": "fresh-graduate-new-joiner",
-      "preferred": "fresh graduate new joiner",
-      "aliases": [
-        "fresh graduate new joiner"
-      ],
-      "count": 1
-    },
     "role-transition-without-full-competence": {
       "id": "role-transition-without-full-competence",
       "preferred": "role transition without full competence",
@@ -1718,14 +1952,6 @@
       "preferred": "managing highly experienced domain expert",
       "aliases": [
         "managing highly experienced domain expert"
-      ],
-      "count": 1
-    },
-    "delivering-bad-news": {
-      "id": "delivering-bad-news",
-      "preferred": "delivering bad news",
-      "aliases": [
-        "delivering bad news"
       ],
       "count": 1
     },
@@ -1782,6 +2008,14 @@
       "preferred": "late attendees",
       "aliases": [
         "late attendees"
+      ],
+      "count": 1
+    },
+    "first-90-days-in-a-new-role": {
+      "id": "first-90-days-in-a-new-role",
+      "preferred": "first 90 days in a new role",
+      "aliases": [
+        "first 90 days in a new role"
       ],
       "count": 1
     },
@@ -1886,14 +2120,6 @@
       "preferred": "deciding where to move",
       "aliases": [
         "deciding where to move"
-      ],
-      "count": 1
-    },
-    "evolving-technology-and-shrinking-job-lifecycles": {
-      "id": "evolving-technology-and-shrinking-job-lifecycles",
-      "preferred": "evolving technology and shrinking job lifecycles",
-      "aliases": [
-        "evolving technology and shrinking job lifecycles"
       ],
       "count": 1
     },
@@ -2289,14 +2515,6 @@
       ],
       "count": 1
     },
-    "managing-difficult-customers": {
-      "id": "managing-difficult-customers",
-      "preferred": "managing difficult customers",
-      "aliases": [
-        "managing difficult customers"
-      ],
-      "count": 1
-    },
     "answering-supply-chain-disruption-question": {
       "id": "answering-supply-chain-disruption-question",
       "preferred": "answering supply chain disruption question",
@@ -2513,14 +2731,6 @@
       ],
       "count": 1
     },
-    "answering-behavioral-interview-questions": {
-      "id": "answering-behavioral-interview-questions",
-      "preferred": "answering behavioral interview questions",
-      "aliases": [
-        "answering behavioral interview questions"
-      ],
-      "count": 1
-    },
     "cross-functional-conflict-resolution": {
       "id": "cross-functional-conflict-resolution",
       "preferred": "cross-functional conflict resolution",
@@ -2625,14 +2835,6 @@
       ],
       "count": 1
     },
-    "starting-a-supply-chain-career": {
-      "id": "starting-a-supply-chain-career",
-      "preferred": "starting a supply chain career",
-      "aliases": [
-        "starting a supply chain career"
-      ],
-      "count": 1
-    },
     "cybersecurity-outage-causing-airport-and-hospital-downtime": {
       "id": "cybersecurity-outage-causing-airport-and-hospital-downtime",
       "preferred": "cybersecurity outage causing airport and hospital downtime",
@@ -2713,14 +2915,6 @@
       ],
       "count": 1
     },
-    "balancing-customer-satisfaction-with-cost-efficiency": {
-      "id": "balancing-customer-satisfaction-with-cost-efficiency",
-      "preferred": "balancing customer satisfaction with cost efficiency",
-      "aliases": [
-        "balancing customer satisfaction with cost efficiency"
-      ],
-      "count": 1
-    },
     "implementing-bopis-and-omnichannel-strategy": {
       "id": "implementing-bopis-and-omnichannel-strategy",
       "preferred": "implementing BOPIS and omnichannel strategy",
@@ -2774,14 +2968,6 @@
       "preferred": "evaluating career switch reasons",
       "aliases": [
         "evaluating career switch reasons"
-      ],
-      "count": 1
-    },
-    "retail-store-manager-transitioning-to-supply-chain": {
-      "id": "retail-store-manager-transitioning-to-supply-chain",
-      "preferred": "retail store manager transitioning to supply chain",
-      "aliases": [
-        "retail store manager transitioning to supply chain"
       ],
       "count": 1
     },
@@ -3129,14 +3315,6 @@
       ],
       "count": 1
     },
-    "fresh-graduates-job-search": {
-      "id": "fresh-graduates-job-search",
-      "preferred": "fresh graduates job search",
-      "aliases": [
-        "fresh graduates job search"
-      ],
-      "count": 1
-    },
     "office-return-mandates": {
       "id": "office-return-mandates",
       "preferred": "office return mandates",
@@ -3382,14 +3560,6 @@
       "preferred": "early career or career plateau",
       "aliases": [
         "early career or career plateau"
-      ],
-      "count": 1
-    },
-    "switching-into-supply-chain": {
-      "id": "switching-into-supply-chain",
-      "preferred": "switching into supply chain",
-      "aliases": [
-        "switching into supply chain"
       ],
       "count": 1
     },
@@ -4080,9 +4250,794 @@
         "stepping outside comfort zone"
       ],
       "count": 1
+    },
+    "receiving-nasty-emails": {
+      "id": "receiving-nasty-emails",
+      "preferred": "receiving nasty emails",
+      "aliases": [
+        "receiving nasty emails"
+      ],
+      "count": 1
+    },
+    "meeting-with-senior-management": {
+      "id": "meeting-with-senior-management",
+      "preferred": "meeting with senior management",
+      "aliases": [
+        "meeting with senior management"
+      ],
+      "count": 1
+    },
+    "transitioning-from-individual-contributor-to-manager": {
+      "id": "transitioning-from-individual-contributor-to-manager",
+      "preferred": "transitioning from individual contributor to manager",
+      "aliases": [
+        "transitioning from individual contributor to manager"
+      ],
+      "count": 1
+    },
+    "receiving-feedback-as-a-line-manager": {
+      "id": "receiving-feedback-as-a-line-manager",
+      "preferred": "receiving feedback as a line manager",
+      "aliases": [
+        "receiving feedback as a line manager"
+      ],
+      "count": 1
+    },
+    "virtual-meetings": {
+      "id": "virtual-meetings",
+      "preferred": "virtual meetings",
+      "aliases": [
+        "virtual meetings"
+      ],
+      "count": 1
+    },
+    "struggling-to-understand-gm-s-leadership-style-as-a-new-midd": {
+      "id": "struggling-to-understand-gm-s-leadership-style-as-a-new-midd",
+      "preferred": "struggling to understand GM's leadership style as a new middle manager",
+      "aliases": [
+        "struggling to understand GM's leadership style as a new middle manager"
+      ],
+      "count": 1
+    },
+    "rejected-after-job-application": {
+      "id": "rejected-after-job-application",
+      "preferred": "rejected after job application",
+      "aliases": [
+        "rejected after job application"
+      ],
+      "count": 1
+    },
+    "gathering-stakeholder-feedback": {
+      "id": "gathering-stakeholder-feedback",
+      "preferred": "gathering stakeholder feedback",
+      "aliases": [
+        "gathering stakeholder feedback"
+      ],
+      "count": 1
+    },
+    "pitching-recommendations-in-an-organization": {
+      "id": "pitching-recommendations-in-an-organization",
+      "preferred": "pitching recommendations in an organization",
+      "aliases": [
+        "pitching recommendations in an organization"
+      ],
+      "count": 1
+    },
+    "presenting-recommendations-to-leadership": {
+      "id": "presenting-recommendations-to-leadership",
+      "preferred": "presenting recommendations to leadership",
+      "aliases": [
+        "presenting recommendations to leadership"
+      ],
+      "count": 1
+    },
+    "rejected-on-projects": {
+      "id": "rejected-on-projects",
+      "preferred": "rejected on projects",
+      "aliases": [
+        "rejected on projects"
+      ],
+      "count": 1
+    },
+    "opening-question-of-a-job-interview": {
+      "id": "opening-question-of-a-job-interview",
+      "preferred": "opening question of a job interview",
+      "aliases": [
+        "opening question of a job interview"
+      ],
+      "count": 1
+    },
+    "answering-interview-opening-questions": {
+      "id": "answering-interview-opening-questions",
+      "preferred": "answering interview opening questions",
+      "aliases": [
+        "answering interview opening questions"
+      ],
+      "count": 1
+    },
+    "introducing-yourself-in-a-job-interview": {
+      "id": "introducing-yourself-in-a-job-interview",
+      "preferred": "introducing yourself in a job interview",
+      "aliases": [
+        "introducing yourself in a job interview"
+      ],
+      "count": 1
+    },
+    "missing-report-deadline": {
+      "id": "missing-report-deadline",
+      "preferred": "missing report deadline",
+      "aliases": [
+        "missing report deadline"
+      ],
+      "count": 1
+    },
+    "explaining-previous-job-departure": {
+      "id": "explaining-previous-job-departure",
+      "preferred": "explaining previous job departure",
+      "aliases": [
+        "explaining previous job departure"
+      ],
+      "count": 1
+    },
+    "explaining-job-departure-or-layoff": {
+      "id": "explaining-job-departure-or-layoff",
+      "preferred": "explaining job departure or layoff",
+      "aliases": [
+        "explaining job departure or layoff"
+      ],
+      "count": 1
+    },
+    "answering-recruiter-questions-about-strengths": {
+      "id": "answering-recruiter-questions-about-strengths",
+      "preferred": "answering recruiter questions about strengths",
+      "aliases": [
+        "answering recruiter questions about strengths"
+      ],
+      "count": 1
+    },
+    "candidate-salary-expectations-vs-budget": {
+      "id": "candidate-salary-expectations-vs-budget",
+      "preferred": "candidate salary expectations vs budget",
+      "aliases": [
+        "candidate salary expectations vs budget"
+      ],
+      "count": 1
+    },
+    "establishing-base-for-salary-negotiation": {
+      "id": "establishing-base-for-salary-negotiation",
+      "preferred": "establishing base for salary negotiation",
+      "aliases": [
+        "establishing base for salary negotiation"
+      ],
+      "count": 1
+    },
+    "benchmarking-industry-salaries": {
+      "id": "benchmarking-industry-salaries",
+      "preferred": "benchmarking industry salaries",
+      "aliases": [
+        "benchmarking industry salaries"
+      ],
+      "count": 1
+    },
+    "explaining-complex-forecasting-data-to-non-technical-stakeho": {
+      "id": "explaining-complex-forecasting-data-to-non-technical-stakeho",
+      "preferred": "explaining complex forecasting data to non-technical stakeholders",
+      "aliases": [
+        "explaining complex forecasting data to non-technical stakeholders"
+      ],
+      "count": 1
+    },
+    "job-interview-question-about-excel-proficiency": {
+      "id": "job-interview-question-about-excel-proficiency",
+      "preferred": "Job interview question about Excel proficiency",
+      "aliases": [
+        "Job interview question about Excel proficiency"
+      ],
+      "count": 1
+    },
+    "managing-a-team-as-a-new-manager": {
+      "id": "managing-a-team-as-a-new-manager",
+      "preferred": "managing a team as a new manager",
+      "aliases": [
+        "managing a team as a new manager"
+      ],
+      "count": 1
+    },
+    "treating-linkedin-only-as-a-job-search-platform": {
+      "id": "treating-linkedin-only-as-a-job-search-platform",
+      "preferred": "treating LinkedIn only as a job search platform",
+      "aliases": [
+        "treating LinkedIn only as a job search platform"
+      ],
+      "count": 1
+    },
+    "job-security-and-career-transitions": {
+      "id": "job-security-and-career-transitions",
+      "preferred": "job security and career transitions",
+      "aliases": [
+        "job security and career transitions"
+      ],
+      "count": 1
+    },
+    "interview-for-supply-planning-manager-position": {
+      "id": "interview-for-supply-planning-manager-position",
+      "preferred": "interview for supply planning manager position",
+      "aliases": [
+        "interview for supply planning manager position"
+      ],
+      "count": 1
+    },
+    "preparing-for-career-advancement": {
+      "id": "preparing-for-career-advancement",
+      "preferred": "preparing for career advancement",
+      "aliases": [
+        "preparing for career advancement"
+      ],
+      "count": 1
+    },
+    "interview-question-about-software-experience": {
+      "id": "interview-question-about-software-experience",
+      "preferred": "interview question about software experience",
+      "aliases": [
+        "interview question about software experience"
+      ],
+      "count": 1
+    },
+    "job-seeking-or-outreach": {
+      "id": "job-seeking-or-outreach",
+      "preferred": "job seeking or outreach",
+      "aliases": [
+        "job seeking or outreach"
+      ],
+      "count": 1
+    },
+    "early-career-in-supply-chain": {
+      "id": "early-career-in-supply-chain",
+      "preferred": "early career in supply chain",
+      "aliases": [
+        "early career in supply chain"
+      ],
+      "count": 1
+    },
+    "job-searching-in-saudi-arabia-under-saudization": {
+      "id": "job-searching-in-saudi-arabia-under-saudization",
+      "preferred": "job searching in Saudi Arabia under Saudization",
+      "aliases": [
+        "job searching in Saudi Arabia under Saudization"
+      ],
+      "count": 1
+    },
+    "answering-procurement-process-questions-in-an-interview": {
+      "id": "answering-procurement-process-questions-in-an-interview",
+      "preferred": "answering procurement process questions in an interview",
+      "aliases": [
+        "answering procurement process questions in an interview"
+      ],
+      "count": 1
+    },
+    "answering-interview-questions-on-business-objectives": {
+      "id": "answering-interview-questions-on-business-objectives",
+      "preferred": "answering interview questions on business objectives",
+      "aliases": [
+        "answering interview questions on business objectives"
+      ],
+      "count": 1
+    },
+    "pandemic-disruptions-and-port-shutdowns": {
+      "id": "pandemic-disruptions-and-port-shutdowns",
+      "preferred": "pandemic disruptions and port shutdowns",
+      "aliases": [
+        "pandemic disruptions and port shutdowns"
+      ],
+      "count": 1
+    },
+    "demand-planner-interview-question": {
+      "id": "demand-planner-interview-question",
+      "preferred": "demand planner interview question",
+      "aliases": [
+        "demand planner interview question"
+      ],
+      "count": 1
+    },
+    "evaluating-supply-chain-candidates-for-system-implementation": {
+      "id": "evaluating-supply-chain-candidates-for-system-implementation",
+      "preferred": "evaluating supply chain candidates for system implementations",
+      "aliases": [
+        "evaluating supply chain candidates for system implementations"
+      ],
+      "count": 1
+    },
+    "transitioning-from-related-fields-without-formal-education": {
+      "id": "transitioning-from-related-fields-without-formal-education",
+      "preferred": "transitioning from related fields without formal education",
+      "aliases": [
+        "transitioning from related fields without formal education"
+      ],
+      "count": 1
+    },
+    "interview-question-on-managing-conflict-between-supply-plann": {
+      "id": "interview-question-on-managing-conflict-between-supply-plann",
+      "preferred": "interview question on managing conflict between supply planning and finance or procurement",
+      "aliases": [
+        "interview question on managing conflict between supply planning and finance or procurement"
+      ],
+      "count": 1
+    },
+    "early-career-stages": {
+      "id": "early-career-stages",
+      "preferred": "early career stages",
+      "aliases": [
+        "early career stages"
+      ],
+      "count": 1
+    },
+    "asked-about-experience-managing-demand-planning-systems": {
+      "id": "asked-about-experience-managing-demand-planning-systems",
+      "preferred": "asked about experience managing demand planning systems",
+      "aliases": [
+        "asked about experience managing demand planning systems"
+      ],
+      "count": 1
+    },
+    "company-sponsoring-certifications": {
+      "id": "company-sponsoring-certifications",
+      "preferred": "company sponsoring certifications",
+      "aliases": [
+        "company sponsoring certifications"
+      ],
+      "count": 1
+    },
+    "penalties-for-imperfect-orders": {
+      "id": "penalties-for-imperfect-orders",
+      "preferred": "penalties for imperfect orders",
+      "aliases": [
+        "penalties for imperfect orders"
+      ],
+      "count": 1
+    },
+    "procurement-manager-job-interview": {
+      "id": "procurement-manager-job-interview",
+      "preferred": "procurement manager job interview",
+      "aliases": [
+        "procurement manager job interview"
+      ],
+      "count": 1
+    },
+    "peak-season-demand-surge": {
+      "id": "peak-season-demand-surge",
+      "preferred": "peak season demand surge",
+      "aliases": [
+        "peak season demand surge"
+      ],
+      "count": 1
+    },
+    "asked-unexpected-situational-questions": {
+      "id": "asked-unexpected-situational-questions",
+      "preferred": "asked unexpected situational questions",
+      "aliases": [
+        "asked unexpected situational questions"
+      ],
+      "count": 1
+    },
+    "p-g-job-candidate-shortlisting": {
+      "id": "p-g-job-candidate-shortlisting",
+      "preferred": "P&G job candidate shortlisting",
+      "aliases": [
+        "P&G job candidate shortlisting"
+      ],
+      "count": 1
+    },
+    "answering-supply-chain-planning-interview-questions": {
+      "id": "answering-supply-chain-planning-interview-questions",
+      "preferred": "answering supply chain planning interview questions",
+      "aliases": [
+        "answering supply chain planning interview questions"
+      ],
+      "count": 1
+    },
+    "answering-inventory-accuracy-interview-question": {
+      "id": "answering-inventory-accuracy-interview-question",
+      "preferred": "answering inventory accuracy interview question",
+      "aliases": [
+        "answering inventory accuracy interview question"
+      ],
+      "count": 1
+    },
+    "handling-conflicting-cross-departmental-numbers": {
+      "id": "handling-conflicting-cross-departmental-numbers",
+      "preferred": "handling conflicting cross-departmental numbers",
+      "aliases": [
+        "handling conflicting cross-departmental numbers"
+      ],
+      "count": 1
+    },
+    "operations-management-interview-questions": {
+      "id": "operations-management-interview-questions",
+      "preferred": "operations management interview questions",
+      "aliases": [
+        "operations management interview questions"
+      ],
+      "count": 1
+    },
+    "warehouse-manager-interview": {
+      "id": "warehouse-manager-interview",
+      "preferred": "warehouse manager interview",
+      "aliases": [
+        "warehouse manager interview"
+      ],
+      "count": 1
+    },
+    "answering-what-kpis-have-you-used-to-manage-your-operations": {
+      "id": "answering-what-kpis-have-you-used-to-manage-your-operations",
+      "preferred": "answering what KPIs have you used to manage your operations",
+      "aliases": [
+        "answering what KPIs have you used to manage your operations"
+      ],
+      "count": 1
+    },
+    "applying-for-supply-chain-roles": {
+      "id": "applying-for-supply-chain-roles",
+      "preferred": "applying for supply chain roles",
+      "aliases": [
+        "applying for supply chain roles"
+      ],
+      "count": 1
+    },
+    "stepping-into-a-new-leadership-role": {
+      "id": "stepping-into-a-new-leadership-role",
+      "preferred": "stepping into a new leadership role",
+      "aliases": [
+        "stepping into a new leadership role"
+      ],
+      "count": 1
+    },
+    "advent-of-ai-in-supply-chain": {
+      "id": "advent-of-ai-in-supply-chain",
+      "preferred": "advent of AI in supply chain",
+      "aliases": [
+        "advent of AI in supply chain"
+      ],
+      "count": 1
+    },
+    "transitioning-from-manufacturing-to-amazon": {
+      "id": "transitioning-from-manufacturing-to-amazon",
+      "preferred": "transitioning from manufacturing to Amazon",
+      "aliases": [
+        "transitioning from manufacturing to Amazon"
+      ],
+      "count": 1
+    },
+    "entering-supply-chain-as-a-fresh-graduate": {
+      "id": "entering-supply-chain-as-a-fresh-graduate",
+      "preferred": "entering supply chain as a fresh graduate",
+      "aliases": [
+        "entering supply chain as a fresh graduate"
+      ],
+      "count": 1
+    },
+    "fresh-graduate-engineer-seeking-job": {
+      "id": "fresh-graduate-engineer-seeking-job",
+      "preferred": "fresh graduate engineer seeking job",
+      "aliases": [
+        "fresh graduate engineer seeking job"
+      ],
+      "count": 1
+    },
+    "transitioning-from-entry-level-warehouse-or-driver-role": {
+      "id": "transitioning-from-entry-level-warehouse-or-driver-role",
+      "preferred": "transitioning from entry-level warehouse or driver role",
+      "aliases": [
+        "transitioning from entry-level warehouse or driver role"
+      ],
+      "count": 1
+    },
+    "tracking-sla-compliance-and-penalties": {
+      "id": "tracking-sla-compliance-and-penalties",
+      "preferred": "tracking SLA compliance and penalties",
+      "aliases": [
+        "tracking SLA compliance and penalties"
+      ],
+      "count": 1
+    },
+    "preventing-future-stockouts": {
+      "id": "preventing-future-stockouts",
+      "preferred": "preventing future stockouts",
+      "aliases": [
+        "preventing future stockouts"
+      ],
+      "count": 1
+    },
+    "it-jobs-at-risk-from-ai-and-layoffs": {
+      "id": "it-jobs-at-risk-from-ai-and-layoffs",
+      "preferred": "IT jobs at risk from AI and layoffs",
+      "aliases": [
+        "IT jobs at risk from AI and layoffs"
+      ],
+      "count": 1
+    },
+    "project-manager-moving-to-supply-chain": {
+      "id": "project-manager-moving-to-supply-chain",
+      "preferred": "project manager moving to supply chain",
+      "aliases": [
+        "project manager moving to supply chain"
+      ],
+      "count": 1
+    },
+    "career-change-into-supply-chain": {
+      "id": "career-change-into-supply-chain",
+      "preferred": "career change into supply chain",
+      "aliases": [
+        "career change into supply chain"
+      ],
+      "count": 1
+    },
+    "moving-to-australia-for-supply-chain-jobs": {
+      "id": "moving-to-australia-for-supply-chain-jobs",
+      "preferred": "moving to Australia for supply chain jobs",
+      "aliases": [
+        "moving to Australia for supply chain jobs"
+      ],
+      "count": 1
+    },
+    "starting-a-career-in-procurement-or-sourcing": {
+      "id": "starting-a-career-in-procurement-or-sourcing",
+      "preferred": "starting a career in procurement or sourcing",
+      "aliases": [
+        "starting a career in procurement or sourcing"
+      ],
+      "count": 1
+    },
+    "deciding-whether-to-pursue-a-master-s-after-a-bachelor-s-in-": {
+      "id": "deciding-whether-to-pursue-a-master-s-after-a-bachelor-s-in-",
+      "preferred": "deciding whether to pursue a master's after a bachelor's in supply chain",
+      "aliases": [
+        "deciding whether to pursue a master's after a bachelor's in supply chain"
+      ],
+      "count": 1
+    },
+    "relocating-abroad-with-supply-chain-experience": {
+      "id": "relocating-abroad-with-supply-chain-experience",
+      "preferred": "relocating abroad with supply chain experience",
+      "aliases": [
+        "relocating abroad with supply chain experience"
+      ],
+      "count": 1
+    },
+    "over-explaining-technical-details-in-job-interviews": {
+      "id": "over-explaining-technical-details-in-job-interviews",
+      "preferred": "over-explaining technical details in job interviews",
+      "aliases": [
+        "over-explaining technical details in job interviews"
+      ],
+      "count": 1
+    },
+    "answering-interview-questions-on-problem-solving-or-action-o": {
+      "id": "answering-interview-questions-on-problem-solving-or-action-o",
+      "preferred": "answering interview questions on problem solving or action orientation",
+      "aliases": [
+        "answering interview questions on problem solving or action orientation"
+      ],
+      "count": 1
+    },
+    "long-resume": {
+      "id": "long-resume",
+      "preferred": "long resume",
+      "aliases": [
+        "long resume"
+      ],
+      "count": 1
+    },
+    "candidate-gives-overly-long-interview-answers": {
+      "id": "candidate-gives-overly-long-interview-answers",
+      "preferred": "candidate gives overly long interview answers",
+      "aliases": [
+        "candidate gives overly long interview answers"
+      ],
+      "count": 1
+    },
+    "candidate-forgets-to-prepare-questions-for-interviewers": {
+      "id": "candidate-forgets-to-prepare-questions-for-interviewers",
+      "preferred": "candidate forgets to prepare questions for interviewers",
+      "aliases": [
+        "candidate forgets to prepare questions for interviewers"
+      ],
+      "count": 1
+    },
+    "supply-chain-internship-interview": {
+      "id": "supply-chain-internship-interview",
+      "preferred": "supply chain internship interview",
+      "aliases": [
+        "supply chain internship interview"
+      ],
+      "count": 1
+    },
+    "lower-pay-ceilings-in-logistics": {
+      "id": "lower-pay-ceilings-in-logistics",
+      "preferred": "lower pay ceilings in logistics",
+      "aliases": [
+        "lower pay ceilings in logistics"
+      ],
+      "count": 1
+    },
+    "seeking-promotion-in-supply-chain-planning": {
+      "id": "seeking-promotion-in-supply-chain-planning",
+      "preferred": "seeking promotion in supply chain planning",
+      "aliases": [
+        "seeking promotion in supply chain planning"
+      ],
+      "count": 1
+    },
+    "choosing-a-career-path-in-supply-chain": {
+      "id": "choosing-a-career-path-in-supply-chain",
+      "preferred": "choosing a career path in supply chain",
+      "aliases": [
+        "choosing a career path in supply chain"
+      ],
+      "count": 1
+    },
+    "breaking-into-supply-chain-without-experience-or-degree": {
+      "id": "breaking-into-supply-chain-without-experience-or-degree",
+      "preferred": "breaking into supply chain without experience or degree",
+      "aliases": [
+        "breaking into supply chain without experience or degree"
+      ],
+      "count": 1
+    },
+    "managing-team-morale-during-tough-meetings": {
+      "id": "managing-team-morale-during-tough-meetings",
+      "preferred": "managing team morale during tough meetings",
+      "aliases": [
+        "managing team morale during tough meetings"
+      ],
+      "count": 1
+    },
+    "ai-and-robotics-replacing-warehouse-roles": {
+      "id": "ai-and-robotics-replacing-warehouse-roles",
+      "preferred": "AI and robotics replacing warehouse roles",
+      "aliases": [
+        "AI and robotics replacing warehouse roles"
+      ],
+      "count": 1
+    },
+    "jobs-at-risk-from-ai-automation": {
+      "id": "jobs-at-risk-from-ai-automation",
+      "preferred": "jobs at risk from AI automation",
+      "aliases": [
+        "jobs at risk from AI automation"
+      ],
+      "count": 1
+    },
+    "entering-supply-chain-analytics": {
+      "id": "entering-supply-chain-analytics",
+      "preferred": "entering supply chain analytics",
+      "aliases": [
+        "entering supply chain analytics"
+      ],
+      "count": 1
+    },
+    "entering-supply-chain-career": {
+      "id": "entering-supply-chain-career",
+      "preferred": "entering supply chain career",
+      "aliases": [
+        "entering supply chain career"
+      ],
+      "count": 1
+    },
+    "career-advancement-roadblock": {
+      "id": "career-advancement-roadblock",
+      "preferred": "career advancement roadblock",
+      "aliases": [
+        "career advancement roadblock"
+      ],
+      "count": 1
+    },
+    "transitioning-from-it-to-supply-chain": {
+      "id": "transitioning-from-it-to-supply-chain",
+      "preferred": "transitioning from IT to supply chain",
+      "aliases": [
+        "transitioning from IT to supply chain"
+      ],
+      "count": 1
+    },
+    "ai-eliminating-data-entry-jobs": {
+      "id": "ai-eliminating-data-entry-jobs",
+      "preferred": "AI eliminating data entry jobs",
+      "aliases": [
+        "AI eliminating data entry jobs"
+      ],
+      "count": 1
+    },
+    "public-perception-of-supply-chain-during-disruptions": {
+      "id": "public-perception-of-supply-chain-during-disruptions",
+      "preferred": "public perception of supply chain during disruptions",
+      "aliases": [
+        "public perception of supply chain during disruptions"
+      ],
+      "count": 1
+    },
+    "outdated-supply-chain-skills": {
+      "id": "outdated-supply-chain-skills",
+      "preferred": "outdated supply chain skills",
+      "aliases": [
+        "outdated supply chain skills"
+      ],
+      "count": 1
+    },
+    "applying-for-a-master-s-degree-in-supply-chain-management": {
+      "id": "applying-for-a-master-s-degree-in-supply-chain-management",
+      "preferred": "Applying for a Master's degree in Supply Chain Management",
+      "aliases": [
+        "Applying for a Master's degree in Supply Chain Management"
+      ],
+      "count": 1
+    },
+    "choosing-a-supply-chain-role": {
+      "id": "choosing-a-supply-chain-role",
+      "preferred": "choosing a supply chain role",
+      "aliases": [
+        "choosing a supply chain role"
+      ],
+      "count": 1
+    },
+    "managing-high-pressure-logistics-and-operational-disruptions": {
+      "id": "managing-high-pressure-logistics-and-operational-disruptions",
+      "preferred": "managing high pressure logistics and operational disruptions",
+      "aliases": [
+        "managing high pressure logistics and operational disruptions"
+      ],
+      "count": 1
+    },
+    "questioning-the-necessity-of-an-engineering-degree": {
+      "id": "questioning-the-necessity-of-an-engineering-degree",
+      "preferred": "questioning the necessity of an engineering degree",
+      "aliases": [
+        "questioning the necessity of an engineering degree"
+      ],
+      "count": 1
+    },
+    "hitting-kpis-only-leads-to-higher-targets": {
+      "id": "hitting-kpis-only-leads-to-higher-targets",
+      "preferred": "hitting KPIs only leads to higher targets",
+      "aliases": [
+        "hitting KPIs only leads to higher targets"
+      ],
+      "count": 1
+    },
+    "executives-ignoring-dashboards": {
+      "id": "executives-ignoring-dashboards",
+      "preferred": "executives ignoring dashboards",
+      "aliases": [
+        "executives ignoring dashboards"
+      ],
+      "count": 1
+    },
+    "erp-system-rollout": {
+      "id": "erp-system-rollout",
+      "preferred": "ERP system rollout",
+      "aliases": [
+        "ERP system rollout"
+      ],
+      "count": 1
+    },
+    "unpredictable-operational-surprises": {
+      "id": "unpredictable-operational-surprises",
+      "preferred": "unpredictable operational surprises",
+      "aliases": [
+        "unpredictable operational surprises"
+      ],
+      "count": 1
     }
   },
   "topic": {
+    "problem-solving": {
+      "id": "problem-solving",
+      "preferred": "problem solving",
+      "aliases": [
+        "problem solving",
+        "problem-solving process"
+      ],
+      "count": 12
+    },
     "star-method": {
       "id": "star-method",
       "preferred": "STAR method",
@@ -4097,31 +5052,6 @@
       ],
       "count": 12
     },
-    "problem-solving": {
-      "id": "problem-solving",
-      "preferred": "problem solving",
-      "aliases": [
-        "problem solving",
-        "problem-solving process"
-      ],
-      "count": 11
-    },
-    "career-transition": {
-      "id": "career-transition",
-      "preferred": "career transition",
-      "aliases": [
-        "career transition"
-      ],
-      "count": 7
-    },
-    "supply-chain-master-s-programs": {
-      "id": "supply-chain-master-s-programs",
-      "preferred": "supply chain master's programs",
-      "aliases": [
-        "supply chain master's programs"
-      ],
-      "count": 7
-    },
     "soft-skills": {
       "id": "soft-skills",
       "preferred": "soft skills",
@@ -4129,7 +5059,80 @@
         "people skills",
         "soft skills"
       ],
+      "count": 9
+    },
+    "career-transition": {
+      "id": "career-transition",
+      "preferred": "career transition",
+      "aliases": [
+        "career transition"
+      ],
+      "count": 8
+    },
+    "supply-chain-master-s-programs": {
+      "id": "supply-chain-master-s-programs",
+      "preferred": "supply chain master's programs",
+      "aliases": [
+        "master's in supply chain",
+        "supply chain master's programs"
+      ],
+      "count": 8
+    },
+    "supply-chain-career-paths": {
+      "id": "supply-chain-career-paths",
+      "preferred": "supply chain career paths",
+      "aliases": [
+        "career paths in supply chain",
+        "education paths in supply chain",
+        "supply chain career paths"
+      ],
+      "count": 8
+    },
+    "self-awareness": {
+      "id": "self-awareness",
+      "preferred": "self-awareness",
+      "aliases": [
+        "self awareness",
+        "self-awareness"
+      ],
       "count": 7
+    },
+    "interview-preparation": {
+      "id": "interview-preparation",
+      "preferred": "interview preparation",
+      "aliases": [
+        "interview preparation"
+      ],
+      "count": 7
+    },
+    "supply-chain-certifications": {
+      "id": "supply-chain-certifications",
+      "preferred": "supply chain certifications",
+      "aliases": [
+        "supply chain certifications"
+      ],
+      "count": 7
+    },
+    "entry-level-supply-chain-roles": {
+      "id": "entry-level-supply-chain-roles",
+      "preferred": "entry-level supply chain roles",
+      "aliases": [
+        "entry-level supply chain hiring",
+        "entry-level supply chain jobs",
+        "entry-level supply chain roles",
+        "supply chain career entry",
+        "supply chain entry-level roles"
+      ],
+      "count": 7
+    },
+    "action-orientation": {
+      "id": "action-orientation",
+      "preferred": "Action Orientation",
+      "aliases": [
+        "Action Orientation",
+        "action orientation"
+      ],
+      "count": 6
     },
     "sample-interview-answers": {
       "id": "sample-interview-answers",
@@ -4148,11 +5151,52 @@
       ],
       "count": 6
     },
-    "interview-preparation": {
-      "id": "interview-preparation",
-      "preferred": "interview preparation",
+    "demand-planning": {
+      "id": "demand-planning",
+      "preferred": "demand planning",
       "aliases": [
-        "interview preparation"
+        "demand planning"
+      ],
+      "count": 6
+    },
+    "ai-in-supply-chain": {
+      "id": "ai-in-supply-chain",
+      "preferred": "AI in supply chain",
+      "aliases": [
+        "AI in Supply Chain",
+        "AI in supply chain"
+      ],
+      "count": 6
+    },
+    "root-cause-analysis": {
+      "id": "root-cause-analysis",
+      "preferred": "root cause analysis",
+      "aliases": [
+        "root cause analysis"
+      ],
+      "count": 5
+    },
+    "networking": {
+      "id": "networking",
+      "preferred": "networking",
+      "aliases": [
+        "networking"
+      ],
+      "count": 5
+    },
+    "walk-me-through-your-resume": {
+      "id": "walk-me-through-your-resume",
+      "preferred": "walk me through your resume",
+      "aliases": [
+        "walk me through your resume"
+      ],
+      "count": 5
+    },
+    "critical-thinking": {
+      "id": "critical-thinking",
+      "preferred": "critical thinking",
+      "aliases": [
+        "critical thinking"
       ],
       "count": 5
     },
@@ -4164,65 +5208,45 @@
       ],
       "count": 5
     },
-    "ai-in-supply-chain": {
-      "id": "ai-in-supply-chain",
-      "preferred": "AI in supply chain",
+    "inventory-management": {
+      "id": "inventory-management",
+      "preferred": "inventory management",
       "aliases": [
-        "AI in Supply Chain",
-        "AI in supply chain"
+        "inventory control",
+        "inventory management"
       ],
       "count": 5
     },
-    "supply-chain-career-paths": {
-      "id": "supply-chain-career-paths",
-      "preferred": "supply chain career paths",
+    "scor-model": {
+      "id": "scor-model",
+      "preferred": "SCOR model",
       "aliases": [
-        "education paths in supply chain",
-        "supply chain career paths"
+        "SCOR 12.0 Model",
+        "SCOR model"
       ],
       "count": 5
     },
-    "entry-level-supply-chain-roles": {
-      "id": "entry-level-supply-chain-roles",
-      "preferred": "entry-level supply chain roles",
+    "conflict-resolution": {
+      "id": "conflict-resolution",
+      "preferred": "conflict resolution",
       "aliases": [
-        "entry-level supply chain hiring",
-        "entry-level supply chain jobs",
-        "entry-level supply chain roles"
-      ],
-      "count": 5
-    },
-    "root-cause-analysis": {
-      "id": "root-cause-analysis",
-      "preferred": "root cause analysis",
-      "aliases": [
-        "root cause analysis"
+        "conflict resolution"
       ],
       "count": 4
     },
-    "self-awareness": {
-      "id": "self-awareness",
-      "preferred": "self-awareness",
+    "stakeholder-management": {
+      "id": "stakeholder-management",
+      "preferred": "stakeholder management",
       "aliases": [
-        "self awareness",
-        "self-awareness"
+        "stakeholder management"
       ],
       "count": 4
     },
-    "networking": {
-      "id": "networking",
-      "preferred": "networking",
+    "career-advancement": {
+      "id": "career-advancement",
+      "preferred": "career advancement",
       "aliases": [
-        "networking"
-      ],
-      "count": 4
-    },
-    "action-orientation": {
-      "id": "action-orientation",
-      "preferred": "Action Orientation",
-      "aliases": [
-        "Action Orientation",
-        "action orientation"
+        "career advancement"
       ],
       "count": 4
     },
@@ -4242,6 +5266,77 @@
       ],
       "count": 4
     },
+    "supply-chain-analyst": {
+      "id": "supply-chain-analyst",
+      "preferred": "supply chain analyst",
+      "aliases": [
+        "supply chain analyst"
+      ],
+      "count": 4
+    },
+    "logistics-coordinator": {
+      "id": "logistics-coordinator",
+      "preferred": "logistics coordinator",
+      "aliases": [
+        "logistics coordinator"
+      ],
+      "count": 4
+    },
+    "data-analytics-in-supply-chain": {
+      "id": "data-analytics-in-supply-chain",
+      "preferred": "data analytics in supply chain",
+      "aliases": [
+        "data analytics in supply chain",
+        "supply chain data analytics"
+      ],
+      "count": 4
+    },
+    "supply-chain-career-transition": {
+      "id": "supply-chain-career-transition",
+      "preferred": "supply chain career transition",
+      "aliases": [
+        "career transition to supply chain",
+        "supply chain career transition"
+      ],
+      "count": 4
+    },
+    "salary-expectation-question": {
+      "id": "salary-expectation-question",
+      "preferred": "salary expectation question",
+      "aliases": [
+        "salary expectation question",
+        "salary expectations"
+      ],
+      "count": 4
+    },
+    "supply-chain-management-courses": {
+      "id": "supply-chain-management-courses",
+      "preferred": "supply chain management courses",
+      "aliases": [
+        "supply chain courses",
+        "supply chain management courses"
+      ],
+      "count": 4
+    },
+    "lifelong-learning": {
+      "id": "lifelong-learning",
+      "preferred": "lifelong learning",
+      "aliases": [
+        "continuous learning",
+        "lifelong learning"
+      ],
+      "count": 4
+    },
+    "business-acumen": {
+      "id": "business-acumen",
+      "preferred": "business acumen",
+      "aliases": [
+        "business acumen",
+        "business mindset",
+        "business understanding"
+      ],
+      "count": 4
+    },
     "resume-customization": {
       "id": "resume-customization",
       "preferred": "resume customization",
@@ -4252,11 +5347,31 @@
       ],
       "count": 4
     },
-    "conflict-resolution": {
-      "id": "conflict-resolution",
-      "preferred": "conflict resolution",
+    "interview-questions-to-ask": {
+      "id": "interview-questions-to-ask",
+      "preferred": "interview questions to ask",
       "aliases": [
-        "conflict resolution"
+        "interview questions to ask",
+        "questions to ask interviewers",
+        "questions to ask the interviewer"
+      ],
+      "count": 4
+    },
+    "procurement-basics": {
+      "id": "procurement-basics",
+      "preferred": "procurement basics",
+      "aliases": [
+        "procurement basics",
+        "procurement essentials",
+        "procurement fundamentals"
+      ],
+      "count": 4
+    },
+    "email-etiquette": {
+      "id": "email-etiquette",
+      "preferred": "email etiquette",
+      "aliases": [
+        "email etiquette"
       ],
       "count": 3
     },
@@ -4276,19 +5391,28 @@
       ],
       "count": 3
     },
-    "walk-me-through-your-resume": {
-      "id": "walk-me-through-your-resume",
-      "preferred": "walk me through your resume",
-      "aliases": [
-        "walk me through your resume"
-      ],
-      "count": 3
-    },
     "active-listening": {
       "id": "active-listening",
       "preferred": "active listening",
       "aliases": [
         "active listening"
+      ],
+      "count": 3
+    },
+    "linkedin-profile-optimization": {
+      "id": "linkedin-profile-optimization",
+      "preferred": "LinkedIn Profile Optimization",
+      "aliases": [
+        "LinkedIn Profile Optimization",
+        "LinkedIn profile optimization"
+      ],
+      "count": 3
+    },
+    "conflict-management": {
+      "id": "conflict-management",
+      "preferred": "conflict management",
+      "aliases": [
+        "conflict management"
       ],
       "count": 3
     },
@@ -4305,6 +5429,22 @@
       "preferred": "time management",
       "aliases": [
         "time management"
+      ],
+      "count": 3
+    },
+    "leadership-styles": {
+      "id": "leadership-styles",
+      "preferred": "leadership styles",
+      "aliases": [
+        "leadership styles"
+      ],
+      "count": 3
+    },
+    "car-model": {
+      "id": "car-model",
+      "preferred": "CAR model",
+      "aliases": [
+        "CAR model"
       ],
       "count": 3
     },
@@ -4333,11 +5473,27 @@
       ],
       "count": 3
     },
+    "cross-cultural-communication": {
+      "id": "cross-cultural-communication",
+      "preferred": "cross-cultural communication",
+      "aliases": [
+        "cross-cultural communication"
+      ],
+      "count": 3
+    },
     "career-development": {
       "id": "career-development",
       "preferred": "career development",
       "aliases": [
         "career development"
+      ],
+      "count": 3
+    },
+    "s-op-process": {
+      "id": "s-op-process",
+      "preferred": "S&OP process",
+      "aliases": [
+        "S&OP process"
       ],
       "count": 3
     },
@@ -4349,14 +5505,6 @@
       ],
       "count": 3
     },
-    "scor-model": {
-      "id": "scor-model",
-      "preferred": "SCOR model",
-      "aliases": [
-        "SCOR model"
-      ],
-      "count": 3
-    },
     "supply-chain-career-advice": {
       "id": "supply-chain-career-advice",
       "preferred": "supply chain career advice",
@@ -4365,11 +5513,27 @@
       ],
       "count": 3
     },
-    "demand-planning": {
-      "id": "demand-planning",
-      "preferred": "demand planning",
+    "supply-chain-resilience": {
+      "id": "supply-chain-resilience",
+      "preferred": "supply chain resilience",
       "aliases": [
-        "demand planning"
+        "supply chain resilience"
+      ],
+      "count": 3
+    },
+    "behavioral-interview-questions": {
+      "id": "behavioral-interview-questions",
+      "preferred": "behavioral interview questions",
+      "aliases": [
+        "behavioral interview questions"
+      ],
+      "count": 3
+    },
+    "supply-chain-risk-management": {
+      "id": "supply-chain-risk-management",
+      "preferred": "supply chain risk management",
+      "aliases": [
+        "supply chain risk management"
       ],
       "count": 3
     },
@@ -4397,67 +5561,147 @@
       ],
       "count": 3
     },
-    "supply-chain-analyst": {
-      "id": "supply-chain-analyst",
-      "preferred": "supply chain analyst",
+    "supply-chain-career-development": {
+      "id": "supply-chain-career-development",
+      "preferred": "supply chain career development",
       "aliases": [
-        "supply chain analyst"
+        "supply chain career development"
       ],
       "count": 3
     },
-    "logistics-coordinator": {
-      "id": "logistics-coordinator",
-      "preferred": "logistics coordinator",
+    "cv-writing": {
+      "id": "cv-writing",
+      "preferred": "CV writing",
       "aliases": [
-        "logistics coordinator"
+        "CV writing",
+        "cv writing"
       ],
       "count": 3
     },
-    "lifelong-learning": {
-      "id": "lifelong-learning",
-      "preferred": "lifelong learning",
+    "career-skills": {
+      "id": "career-skills",
+      "preferred": "career skills",
       "aliases": [
-        "continuous learning",
-        "lifelong learning"
+        "career skills"
       ],
       "count": 3
     },
-    "business-acumen": {
-      "id": "business-acumen",
-      "preferred": "business acumen",
+    "drive-for-results": {
+      "id": "drive-for-results",
+      "preferred": "drive for results",
       "aliases": [
-        "business acumen",
-        "business understanding"
+        "drive for results",
+        "driving results"
       ],
       "count": 3
     },
-    "change-management": {
-      "id": "change-management",
-      "preferred": "change management",
+    "demand-planning-software": {
+      "id": "demand-planning-software",
+      "preferred": "demand planning software",
       "aliases": [
-        "change management",
+        "demand planning software",
+        "demand planning systems"
+      ],
+      "count": 3
+    },
+    "cpim-certification": {
+      "id": "cpim-certification",
+      "preferred": "CPIM certification",
+      "aliases": [
+        "ASCM CPIM certification",
+        "CPIM certification"
+      ],
+      "count": 3
+    },
+    "cscp-certification": {
+      "id": "cscp-certification",
+      "preferred": "CSCP certification",
+      "aliases": [
+        "APICS CSCP certification",
+        "CSCP certification"
+      ],
+      "count": 3
+    },
+    "cpfr": {
+      "id": "cpfr",
+      "preferred": "CPFR",
+      "aliases": [
+        "CPFR",
+        "CPFR industry practice"
+      ],
+      "count": 3
+    },
+    "practical-experience": {
+      "id": "practical-experience",
+      "preferred": "practical experience",
+      "aliases": [
+        "operational experience",
+        "practical experience"
+      ],
+      "count": 3
+    },
+    "storytelling-in-supply-chain": {
+      "id": "storytelling-in-supply-chain",
+      "preferred": "storytelling in supply chain",
+      "aliases": [
+        "storytelling in supply chain",
+        "supply chain storytelling"
+      ],
+      "count": 3
+    },
+    "5-whys": {
+      "id": "5-whys",
+      "preferred": "5 whys",
+      "aliases": [
+        "5 whys",
+        "5 whys technique",
+        "five whys analysis"
+      ],
+      "count": 3
+    },
+    "podcast-conclusion": {
+      "id": "podcast-conclusion",
+      "preferred": "podcast conclusion",
+      "aliases": [
+        "podcast closing",
+        "podcast conclusion",
+        "podcast wrap-up"
+      ],
+      "count": 3
+    },
+    "answering-tell-me-about-yourself": {
+      "id": "answering-tell-me-about-yourself",
+      "preferred": "answering tell me about yourself",
+      "aliases": [
+        "answering tell me about yourself",
+        "tell me about yourself",
+        "tell me about yourself question"
+      ],
+      "count": 3
+    },
+    "problem-statement": {
+      "id": "problem-statement",
+      "preferred": "problem statement",
+      "aliases": [
+        "problem statement"
+      ],
+      "count": 2
+    },
+    "dealing-with-change": {
+      "id": "dealing-with-change",
+      "preferred": "dealing with change",
+      "aliases": [
         "dealing with change"
       ],
-      "count": 3
+      "count": 2
     },
-    "inventory-management": {
-      "id": "inventory-management",
-      "preferred": "inventory management",
+    "virtual-communication": {
+      "id": "virtual-communication",
+      "preferred": "virtual communication",
       "aliases": [
-        "inventory control",
-        "inventory management"
+        "virtual communication"
       ],
-      "count": 3
-    },
-    "interview-questions-to-ask": {
-      "id": "interview-questions-to-ask",
-      "preferred": "interview questions to ask",
-      "aliases": [
-        "interview questions to ask",
-        "questions to ask interviewers",
-        "questions to ask the interviewer"
-      ],
-      "count": 3
+      "count": 2
     },
     "communication-skills": {
       "id": "communication-skills",
@@ -4508,12 +5752,51 @@
       ],
       "count": 2
     },
-    "linkedin-profile-optimization": {
-      "id": "linkedin-profile-optimization",
-      "preferred": "LinkedIn profile optimization",
+    "resilience": {
+      "id": "resilience",
+      "preferred": "resilience",
       "aliases": [
-        "LinkedIn Profile Optimization",
-        "LinkedIn profile optimization"
+        "resilience"
+      ],
+      "count": 2
+    },
+    "team-management": {
+      "id": "team-management",
+      "preferred": "team management",
+      "aliases": [
+        "team management"
+      ],
+      "count": 2
+    },
+    "digital-body-language": {
+      "id": "digital-body-language",
+      "preferred": "digital body language",
+      "aliases": [
+        "digital body language"
+      ],
+      "count": 2
+    },
+    "blind-spots": {
+      "id": "blind-spots",
+      "preferred": "blind spots",
+      "aliases": [
+        "blind spots"
+      ],
+      "count": 2
+    },
+    "priority-setting": {
+      "id": "priority-setting",
+      "preferred": "priority setting",
+      "aliases": [
+        "priority setting"
+      ],
+      "count": 2
+    },
+    "learning-agility": {
+      "id": "learning-agility",
+      "preferred": "learning agility",
+      "aliases": [
+        "learning agility"
       ],
       "count": 2
     },
@@ -4525,11 +5808,27 @@
       ],
       "count": 2
     },
-    "conflict-management": {
-      "id": "conflict-management",
-      "preferred": "conflict management",
+    "decision-quality": {
+      "id": "decision-quality",
+      "preferred": "decision quality",
       "aliases": [
-        "conflict management"
+        "decision quality"
+      ],
+      "count": 2
+    },
+    "verbal-communication": {
+      "id": "verbal-communication",
+      "preferred": "verbal communication",
+      "aliases": [
+        "verbal communication"
+      ],
+      "count": 2
+    },
+    "managing-anxiety": {
+      "id": "managing-anxiety",
+      "preferred": "managing anxiety",
+      "aliases": [
+        "managing anxiety"
       ],
       "count": 2
     },
@@ -4581,19 +5880,27 @@
       ],
       "count": 2
     },
-    "stakeholder-management": {
-      "id": "stakeholder-management",
-      "preferred": "stakeholder management",
+    "strengths-based-development": {
+      "id": "strengths-based-development",
+      "preferred": "strengths-based development",
       "aliases": [
-        "stakeholder management"
+        "strengths-based development"
       ],
       "count": 2
     },
-    "car-model": {
-      "id": "car-model",
-      "preferred": "CAR model",
+    "career-one-liner": {
+      "id": "career-one-liner",
+      "preferred": "career one-liner",
       "aliases": [
-        "CAR model"
+        "career one-liner"
+      ],
+      "count": 2
+    },
+    "data-analysis": {
+      "id": "data-analysis",
+      "preferred": "data analysis",
+      "aliases": [
+        "data analysis"
       ],
       "count": 2
     },
@@ -4637,11 +5944,36 @@
       ],
       "count": 2
     },
+    "book-recommendations": {
+      "id": "book-recommendations",
+      "preferred": "book recommendations",
+      "aliases": [
+        "book recommendation",
+        "book recommendations"
+      ],
+      "count": 2
+    },
     "daily-learning-habits": {
       "id": "daily-learning-habits",
       "preferred": "daily learning habits",
       "aliases": [
         "daily learning habits"
+      ],
+      "count": 2
+    },
+    "problem-solving-interview-questions": {
+      "id": "problem-solving-interview-questions",
+      "preferred": "problem-solving interview questions",
+      "aliases": [
+        "problem-solving interview questions"
+      ],
+      "count": 2
+    },
+    "supply-chain-software": {
+      "id": "supply-chain-software",
+      "preferred": "supply chain software",
+      "aliases": [
+        "supply chain software"
       ],
       "count": 2
     },
@@ -4661,14 +5993,6 @@
       ],
       "count": 2
     },
-    "cross-cultural-communication": {
-      "id": "cross-cultural-communication",
-      "preferred": "cross-cultural communication",
-      "aliases": [
-        "cross-cultural communication"
-      ],
-      "count": 2
-    },
     "career-progression": {
       "id": "career-progression",
       "preferred": "career progression",
@@ -4677,11 +6001,35 @@
       ],
       "count": 2
     },
-    "career-advancement": {
-      "id": "career-advancement",
-      "preferred": "career advancement",
+    "developing-others": {
+      "id": "developing-others",
+      "preferred": "developing others",
       "aliases": [
-        "career advancement"
+        "developing others"
+      ],
+      "count": 2
+    },
+    "change-management": {
+      "id": "change-management",
+      "preferred": "change management",
+      "aliases": [
+        "change management"
+      ],
+      "count": 2
+    },
+    "microsoft-excel": {
+      "id": "microsoft-excel",
+      "preferred": "Microsoft Excel",
+      "aliases": [
+        "Microsoft Excel"
+      ],
+      "count": 2
+    },
+    "collaboration": {
+      "id": "collaboration",
+      "preferred": "collaboration",
+      "aliases": [
+        "collaboration"
       ],
       "count": 2
     },
@@ -4701,11 +6049,51 @@
       ],
       "count": 2
     },
+    "customer-segmentation": {
+      "id": "customer-segmentation",
+      "preferred": "customer segmentation",
+      "aliases": [
+        "customer segmentation"
+      ],
+      "count": 2
+    },
+    "personal-branding": {
+      "id": "personal-branding",
+      "preferred": "personal branding",
+      "aliases": [
+        "personal branding"
+      ],
+      "count": 2
+    },
     "supply-chain-career": {
       "id": "supply-chain-career",
       "preferred": "supply chain career",
       "aliases": [
         "supply chain career"
+      ],
+      "count": 2
+    },
+    "supply-chain-education": {
+      "id": "supply-chain-education",
+      "preferred": "supply chain education",
+      "aliases": [
+        "supply chain education"
+      ],
+      "count": 2
+    },
+    "capacity-planning": {
+      "id": "capacity-planning",
+      "preferred": "capacity planning",
+      "aliases": [
+        "capacity planning"
+      ],
+      "count": 2
+    },
+    "sourcing-roles": {
+      "id": "sourcing-roles",
+      "preferred": "sourcing roles",
+      "aliases": [
+        "sourcing roles"
       ],
       "count": 2
     },
@@ -4725,11 +6113,11 @@
       ],
       "count": 2
     },
-    "supply-chain-resilience": {
-      "id": "supply-chain-resilience",
-      "preferred": "supply chain resilience",
+    "supply-chain-it-roles": {
+      "id": "supply-chain-it-roles",
+      "preferred": "supply chain IT roles",
       "aliases": [
-        "supply chain resilience"
+        "supply chain IT roles"
       ],
       "count": 2
     },
@@ -4741,19 +6129,20 @@
       ],
       "count": 2
     },
-    "cscp-certification": {
-      "id": "cscp-certification",
-      "preferred": "CSCP certification",
-      "aliases": [
-        "CSCP certification"
-      ],
-      "count": 2
-    },
     "job-search-strategy": {
       "id": "job-search-strategy",
       "preferred": "job search strategy",
       "aliases": [
         "job search strategy"
+      ],
+      "count": 2
+    },
+    "supply-chain-management": {
+      "id": "supply-chain-management",
+      "preferred": "supply chain management",
+      "aliases": [
+        "Supply Chain Management",
+        "supply chain management"
       ],
       "count": 2
     },
@@ -4781,6 +6170,14 @@
       ],
       "count": 2
     },
+    "order-management": {
+      "id": "order-management",
+      "preferred": "order management",
+      "aliases": [
+        "order management"
+      ],
+      "count": 2
+    },
     "supply-chain-transformation": {
       "id": "supply-chain-transformation",
       "preferred": "supply chain transformation",
@@ -4797,11 +6194,11 @@
       ],
       "count": 2
     },
-    "practical-experience": {
-      "id": "practical-experience",
-      "preferred": "practical experience",
+    "warehouse-automation": {
+      "id": "warehouse-automation",
+      "preferred": "warehouse automation",
       "aliases": [
-        "practical experience"
+        "warehouse automation"
       ],
       "count": 2
     },
@@ -4813,11 +6210,19 @@
       ],
       "count": 2
     },
-    "supply-chain-career-development": {
-      "id": "supply-chain-career-development",
-      "preferred": "supply chain career development",
+    "warehouse-management": {
+      "id": "warehouse-management",
+      "preferred": "warehouse management",
       "aliases": [
-        "supply chain career development"
+        "warehouse management"
+      ],
+      "count": 2
+    },
+    "hs-codes": {
+      "id": "hs-codes",
+      "preferred": "HS codes",
+      "aliases": [
+        "HS codes"
       ],
       "count": 2
     },
@@ -4837,14 +6242,6 @@
       ],
       "count": 2
     },
-    "supply-chain-certifications": {
-      "id": "supply-chain-certifications",
-      "preferred": "supply chain certifications",
-      "aliases": [
-        "supply chain certifications"
-      ],
-      "count": 2
-    },
     "career-stagnation": {
       "id": "career-stagnation",
       "preferred": "career stagnation",
@@ -4861,21 +6258,120 @@
       ],
       "count": 2
     },
-    "5-whys": {
-      "id": "5-whys",
-      "preferred": "5 whys",
+    "compensation": {
+      "id": "compensation",
+      "preferred": "compensation",
       "aliases": [
-        "5 whys",
-        "five whys analysis"
+        "compensation"
       ],
       "count": 2
     },
-    "drive-for-results": {
-      "id": "drive-for-results",
-      "preferred": "drive for results",
+    "cross-functional-influence": {
+      "id": "cross-functional-influence",
+      "preferred": "cross-functional influence",
       "aliases": [
-        "drive for results",
-        "driving results"
+        "cross-functional influence"
+      ],
+      "count": 2
+    },
+    "safety-stock": {
+      "id": "safety-stock",
+      "preferred": "safety stock",
+      "aliases": [
+        "safety stock"
+      ],
+      "count": 2
+    },
+    "logistics-cost": {
+      "id": "logistics-cost",
+      "preferred": "logistics cost",
+      "aliases": [
+        "logistics cost",
+        "logistics costs"
+      ],
+      "count": 2
+    },
+    "logistics-careers": {
+      "id": "logistics-careers",
+      "preferred": "logistics careers",
+      "aliases": [
+        "logistics careers"
+      ],
+      "count": 2
+    },
+    "linkedin-networking": {
+      "id": "linkedin-networking",
+      "preferred": "linkedin networking",
+      "aliases": [
+        "LinkedIn networking",
+        "linkedin networking"
+      ],
+      "count": 2
+    },
+    "online-assessment-tests": {
+      "id": "online-assessment-tests",
+      "preferred": "online assessment tests",
+      "aliases": [
+        "online assessment tests"
+      ],
+      "count": 2
+    },
+    "no-spoken-dialogue": {
+      "id": "no-spoken-dialogue",
+      "preferred": "no spoken dialogue",
+      "aliases": [
+        "no spoken dialogue"
+      ],
+      "count": 2
+    },
+    "personality-types": {
+      "id": "personality-types",
+      "preferred": "personality types",
+      "aliases": [
+        "personality types"
+      ],
+      "count": 2
+    },
+    "answering-why-you-left-your-last-job": {
+      "id": "answering-why-you-left-your-last-job",
+      "preferred": "answering why you left your last job",
+      "aliases": [
+        "answering why you left your last job"
+      ],
+      "count": 2
+    },
+    "supply-and-demand-planning-manager-salaries": {
+      "id": "supply-and-demand-planning-manager-salaries",
+      "preferred": "supply and demand planning manager salaries",
+      "aliases": [
+        "supply and demand planning manager salaries",
+        "supply and demand planning manager salary"
+      ],
+      "count": 2
+    },
+    "supply-chain-salaries": {
+      "id": "supply-chain-salaries",
+      "preferred": "supply chain salaries",
+      "aliases": [
+        "supply chain salaries"
+      ],
+      "count": 2
+    },
+    "cv-length": {
+      "id": "cv-length",
+      "preferred": "CV length",
+      "aliases": [
+        "CV length",
+        "resume length"
+      ],
+      "count": 2
+    },
+    "strengthsfinder-2-0-assessment": {
+      "id": "strengthsfinder-2-0-assessment",
+      "preferred": "StrengthsFinder 2.0 assessment",
+      "aliases": [
+        "StrengthsFinder 2.0",
+        "StrengthsFinder 2.0 assessment"
       ],
       "count": 2
     },
@@ -4888,21 +6384,21 @@
       ],
       "count": 2
     },
+    "weakness-interview-question": {
+      "id": "weakness-interview-question",
+      "preferred": "weakness interview question",
+      "aliases": [
+        "weakness interview question",
+        "weakness question"
+      ],
+      "count": 2
+    },
     "five-year-goal-questions": {
       "id": "five-year-goal-questions",
       "preferred": "five-year goal questions",
       "aliases": [
         "five-year career plan question",
         "five-year goal questions"
-      ],
-      "count": 2
-    },
-    "cpfr-and-collaborative-forecasting": {
-      "id": "cpfr-and-collaborative-forecasting",
-      "preferred": "CPFR and collaborative forecasting",
-      "aliases": [
-        "CPFR",
-        "CPFR and collaborative forecasting"
       ],
       "count": 2
     },
@@ -4924,12 +6420,21 @@
       ],
       "count": 2
     },
-    "sourcing-roles": {
-      "id": "sourcing-roles",
-      "preferred": "sourcing roles",
+    "linkedin-functionality": {
+      "id": "linkedin-functionality",
+      "preferred": "LinkedIn functionality",
       "aliases": [
-        "sourcing and procurement jobs",
-        "sourcing roles"
+        "LinkedIn capability",
+        "LinkedIn functionality"
+      ],
+      "count": 2
+    },
+    "onboarding-and-break-even-point": {
+      "id": "onboarding-and-break-even-point",
+      "preferred": "onboarding and break-even point",
+      "aliases": [
+        "break-even point in onboarding",
+        "onboarding and break-even point"
       ],
       "count": 2
     },
@@ -4942,12 +6447,48 @@
       ],
       "count": 2
     },
+    "china-plus-one-strategy": {
+      "id": "china-plus-one-strategy",
+      "preferred": "China plus one strategy",
+      "aliases": [
+        "China plus one",
+        "China plus one strategy"
+      ],
+      "count": 2
+    },
+    "analytical-skills": {
+      "id": "analytical-skills",
+      "preferred": "analytical skills",
+      "aliases": [
+        "analytical ability",
+        "analytical skills"
+      ],
+      "count": 2
+    },
+    "customs-classification": {
+      "id": "customs-classification",
+      "preferred": "customs classification",
+      "aliases": [
+        "customs classification",
+        "tariff classification"
+      ],
+      "count": 2
+    },
     "in-transit-tracking": {
       "id": "in-transit-tracking",
       "preferred": "in-transit tracking",
       "aliases": [
         "in-transit tracking",
         "in-transit visibility"
+      ],
+      "count": 2
+    },
+    "supply-chain-career-progression": {
+      "id": "supply-chain-career-progression",
+      "preferred": "supply chain career progression",
+      "aliases": [
+        "career progression in supply chain",
+        "supply chain career progression"
       ],
       "count": 2
     },
@@ -4980,14 +6521,6 @@
       "preferred": "SMART implementation plan",
       "aliases": [
         "SMART implementation plan"
-      ],
-      "count": 1
-    },
-    "problem-statement": {
-      "id": "problem-statement",
-      "preferred": "problem statement",
-      "aliases": [
-        "problem statement"
       ],
       "count": 1
     },
@@ -5047,14 +6580,6 @@
       ],
       "count": 1
     },
-    "virtual-communication": {
-      "id": "virtual-communication",
-      "preferred": "virtual communication",
-      "aliases": [
-        "virtual communication"
-      ],
-      "count": 1
-    },
     "networking-plan": {
       "id": "networking-plan",
       "preferred": "networking plan",
@@ -5092,14 +6617,6 @@
       "preferred": "driving change",
       "aliases": [
         "driving change"
-      ],
-      "count": 1
-    },
-    "email-etiquette": {
-      "id": "email-etiquette",
-      "preferred": "email etiquette",
-      "aliases": [
-        "email etiquette"
       ],
       "count": 1
     },
@@ -5231,14 +6748,6 @@
       ],
       "count": 1
     },
-    "resilience": {
-      "id": "resilience",
-      "preferred": "resilience",
-      "aliases": [
-        "resilience"
-      ],
-      "count": 1
-    },
     "public-speaking-skills": {
       "id": "public-speaking-skills",
       "preferred": "public speaking skills",
@@ -5260,14 +6769,6 @@
       "preferred": "CV writing overview",
       "aliases": [
         "CV writing overview"
-      ],
-      "count": 1
-    },
-    "cv-length": {
-      "id": "cv-length",
-      "preferred": "CV length",
-      "aliases": [
-        "CV length"
       ],
       "count": 1
     },
@@ -5375,14 +6876,6 @@
       ],
       "count": 1
     },
-    "team-management": {
-      "id": "team-management",
-      "preferred": "team management",
-      "aliases": [
-        "team management"
-      ],
-      "count": 1
-    },
     "goal-setting": {
       "id": "goal-setting",
       "preferred": "goal setting",
@@ -5420,14 +6913,6 @@
       "preferred": "content engagement",
       "aliases": [
         "content engagement"
-      ],
-      "count": 1
-    },
-    "critical-thinking": {
-      "id": "critical-thinking",
-      "preferred": "critical thinking",
-      "aliases": [
-        "critical thinking"
       ],
       "count": 1
     },
@@ -5535,14 +7020,6 @@
       ],
       "count": 1
     },
-    "digital-body-language": {
-      "id": "digital-body-language",
-      "preferred": "digital body language",
-      "aliases": [
-        "digital body language"
-      ],
-      "count": 1
-    },
     "humor-in-communication": {
       "id": "humor-in-communication",
       "preferred": "humor in communication",
@@ -5572,14 +7049,6 @@
       "preferred": "hidden quadrant",
       "aliases": [
         "hidden quadrant"
-      ],
-      "count": 1
-    },
-    "blind-spots": {
-      "id": "blind-spots",
-      "preferred": "blind spots",
-      "aliases": [
-        "blind spots"
       ],
       "count": 1
     },
@@ -5671,22 +7140,6 @@
       ],
       "count": 1
     },
-    "priority-setting": {
-      "id": "priority-setting",
-      "preferred": "priority setting",
-      "aliases": [
-        "priority setting"
-      ],
-      "count": 1
-    },
-    "learning-agility": {
-      "id": "learning-agility",
-      "preferred": "learning agility",
-      "aliases": [
-        "learning agility"
-      ],
-      "count": 1
-    },
     "command-skills": {
       "id": "command-skills",
       "preferred": "command skills",
@@ -5724,14 +7177,6 @@
       "preferred": "standing alone",
       "aliases": [
         "standing alone"
-      ],
-      "count": 1
-    },
-    "decision-quality": {
-      "id": "decision-quality",
-      "preferred": "decision quality",
-      "aliases": [
-        "decision quality"
       ],
       "count": 1
     },
@@ -5868,14 +7313,6 @@
       "preferred": "delegating leadership style",
       "aliases": [
         "delegating leadership style"
-      ],
-      "count": 1
-    },
-    "verbal-communication": {
-      "id": "verbal-communication",
-      "preferred": "verbal communication",
-      "aliases": [
-        "verbal communication"
       ],
       "count": 1
     },
@@ -6039,27 +7476,11 @@
       ],
       "count": 1
     },
-    "managing-anxiety": {
-      "id": "managing-anxiety",
-      "preferred": "managing anxiety",
-      "aliases": [
-        "managing anxiety"
-      ],
-      "count": 1
-    },
     "identifying-leadership-styles": {
       "id": "identifying-leadership-styles",
       "preferred": "identifying leadership styles",
       "aliases": [
         "identifying leadership styles"
-      ],
-      "count": 1
-    },
-    "leadership-styles": {
-      "id": "leadership-styles",
-      "preferred": "leadership styles",
-      "aliases": [
-        "leadership styles"
       ],
       "count": 1
     },
@@ -6095,27 +7516,11 @@
       ],
       "count": 1
     },
-    "strengths-based-development": {
-      "id": "strengths-based-development",
-      "preferred": "strengths-based development",
-      "aliases": [
-        "strengths-based development"
-      ],
-      "count": 1
-    },
     "talent-vs-strength": {
       "id": "talent-vs-strength",
       "preferred": "talent vs strength",
       "aliases": [
         "talent vs strength"
-      ],
-      "count": 1
-    },
-    "strengthsfinder-2-0-assessment": {
-      "id": "strengthsfinder-2-0-assessment",
-      "preferred": "StrengthsFinder 2.0 assessment",
-      "aliases": [
-        "StrengthsFinder 2.0 assessment"
       ],
       "count": 1
     },
@@ -6172,14 +7577,6 @@
       "preferred": "virtual communication and teamwork",
       "aliases": [
         "virtual communication and teamwork"
-      ],
-      "count": 1
-    },
-    "career-one-liner": {
-      "id": "career-one-liner",
-      "preferred": "career one-liner",
-      "aliases": [
-        "career one-liner"
       ],
       "count": 1
     },
@@ -6276,14 +7673,6 @@
       "preferred": "five-year reassessment",
       "aliases": [
         "five-year reassessment"
-      ],
-      "count": 1
-    },
-    "data-analysis": {
-      "id": "data-analysis",
-      "preferred": "data analysis",
-      "aliases": [
-        "data analysis"
       ],
       "count": 1
     },
@@ -6431,14 +7820,6 @@
       ],
       "count": 1
     },
-    "weakness-interview-question": {
-      "id": "weakness-interview-question",
-      "preferred": "weakness interview question",
-      "aliases": [
-        "weakness interview question"
-      ],
-      "count": 1
-    },
     "interview-best-practices": {
       "id": "interview-best-practices",
       "preferred": "interview best practices",
@@ -6452,14 +7833,6 @@
       "preferred": "interview answer examples",
       "aliases": [
         "interview answer examples"
-      ],
-      "count": 1
-    },
-    "salary-expectations": {
-      "id": "salary-expectations",
-      "preferred": "salary expectations",
-      "aliases": [
-        "salary expectations"
       ],
       "count": 1
     },
@@ -6735,14 +8108,6 @@
       ],
       "count": 1
     },
-    "business-mindset": {
-      "id": "business-mindset",
-      "preferred": "business mindset",
-      "aliases": [
-        "business mindset"
-      ],
-      "count": 1
-    },
     "technical-skills": {
       "id": "technical-skills",
       "preferred": "technical skills",
@@ -6804,14 +8169,6 @@
       "preferred": "immigrating in finance",
       "aliases": [
         "immigrating in finance"
-      ],
-      "count": 1
-    },
-    "book-recommendations": {
-      "id": "book-recommendations",
-      "preferred": "book recommendations",
-      "aliases": [
-        "book recommendations"
       ],
       "count": 1
     },
@@ -6991,22 +8348,6 @@
       ],
       "count": 1
     },
-    "problem-solving-interview-questions": {
-      "id": "problem-solving-interview-questions",
-      "preferred": "problem-solving interview questions",
-      "aliases": [
-        "problem-solving interview questions"
-      ],
-      "count": 1
-    },
-    "supply-chain-software": {
-      "id": "supply-chain-software",
-      "preferred": "supply chain software",
-      "aliases": [
-        "supply chain software"
-      ],
-      "count": 1
-    },
     "ats-formatting": {
       "id": "ats-formatting",
       "preferred": "ATS formatting",
@@ -7148,14 +8489,6 @@
       "preferred": "P&L understanding",
       "aliases": [
         "P&L understanding"
-      ],
-      "count": 1
-    },
-    "developing-others": {
-      "id": "developing-others",
-      "preferred": "developing others",
-      "aliases": [
-        "developing others"
       ],
       "count": 1
     },
@@ -7311,11 +8644,11 @@
       ],
       "count": 1
     },
-    "cpfr-industry-practice": {
-      "id": "cpfr-industry-practice",
-      "preferred": "CPFR industry practice",
+    "cpfr-and-collaborative-forecasting": {
+      "id": "cpfr-and-collaborative-forecasting",
+      "preferred": "CPFR and collaborative forecasting",
       "aliases": [
-        "CPFR industry practice"
+        "CPFR and collaborative forecasting"
       ],
       "count": 1
     },
@@ -7332,30 +8665,6 @@
       "preferred": "ERP and planning systems",
       "aliases": [
         "ERP and planning systems"
-      ],
-      "count": 1
-    },
-    "s-op-process": {
-      "id": "s-op-process",
-      "preferred": "S&OP process",
-      "aliases": [
-        "S&OP process"
-      ],
-      "count": 1
-    },
-    "microsoft-excel": {
-      "id": "microsoft-excel",
-      "preferred": "Microsoft Excel",
-      "aliases": [
-        "Microsoft Excel"
-      ],
-      "count": 1
-    },
-    "collaboration": {
-      "id": "collaboration",
-      "preferred": "collaboration",
-      "aliases": [
-        "collaboration"
       ],
       "count": 1
     },
@@ -7396,14 +8705,6 @@
       "preferred": "demand planning role",
       "aliases": [
         "demand planning role"
-      ],
-      "count": 1
-    },
-    "demand-planning-software": {
-      "id": "demand-planning-software",
-      "preferred": "demand planning software",
-      "aliases": [
-        "demand planning software"
       ],
       "count": 1
     },
@@ -7695,22 +8996,6 @@
       ],
       "count": 1
     },
-    "customer-segmentation": {
-      "id": "customer-segmentation",
-      "preferred": "customer segmentation",
-      "aliases": [
-        "customer segmentation"
-      ],
-      "count": 1
-    },
-    "demand-planning-systems": {
-      "id": "demand-planning-systems",
-      "preferred": "demand planning systems",
-      "aliases": [
-        "demand planning systems"
-      ],
-      "count": 1
-    },
     "s-op-and-s-oe": {
       "id": "s-op-and-s-oe",
       "preferred": "S&OP and S&OE",
@@ -7751,14 +9036,6 @@
       ],
       "count": 1
     },
-    "linkedin-functionality": {
-      "id": "linkedin-functionality",
-      "preferred": "LinkedIn functionality",
-      "aliases": [
-        "LinkedIn functionality"
-      ],
-      "count": 1
-    },
     "linkedin-activity": {
       "id": "linkedin-activity",
       "preferred": "LinkedIn activity",
@@ -7796,14 +9073,6 @@
       "preferred": "controlled narrative",
       "aliases": [
         "controlled narrative"
-      ],
-      "count": 1
-    },
-    "personal-branding": {
-      "id": "personal-branding",
-      "preferred": "personal branding",
-      "aliases": [
-        "personal branding"
       ],
       "count": 1
     },
@@ -8031,35 +9300,11 @@
       ],
       "count": 1
     },
-    "supply-chain-education": {
-      "id": "supply-chain-education",
-      "preferred": "supply chain education",
-      "aliases": [
-        "supply chain education"
-      ],
-      "count": 1
-    },
-    "capacity-planning": {
-      "id": "capacity-planning",
-      "preferred": "capacity planning",
-      "aliases": [
-        "capacity planning"
-      ],
-      "count": 1
-    },
     "logistics-and-shipping": {
       "id": "logistics-and-shipping",
       "preferred": "logistics and shipping",
       "aliases": [
         "logistics and shipping"
-      ],
-      "count": 1
-    },
-    "supply-chain-courses": {
-      "id": "supply-chain-courses",
-      "preferred": "supply chain courses",
-      "aliases": [
-        "supply chain courses"
       ],
       "count": 1
     },
@@ -8135,14 +9380,6 @@
       ],
       "count": 1
     },
-    "supply-chain-it-roles": {
-      "id": "supply-chain-it-roles",
-      "preferred": "supply chain IT roles",
-      "aliases": [
-        "supply chain IT roles"
-      ],
-      "count": 1
-    },
     "career-adaptability": {
       "id": "career-adaptability",
       "preferred": "career adaptability",
@@ -8196,14 +9433,6 @@
       "preferred": "Russia-Ukraine war commodity disruption",
       "aliases": [
         "Russia-Ukraine war commodity disruption"
-      ],
-      "count": 1
-    },
-    "onboarding-and-break-even-point": {
-      "id": "onboarding-and-break-even-point",
-      "preferred": "onboarding and break-even point",
-      "aliases": [
-        "onboarding and break-even point"
       ],
       "count": 1
     },
@@ -8295,14 +9524,6 @@
       ],
       "count": 1
     },
-    "behavioral-interview-questions": {
-      "id": "behavioral-interview-questions",
-      "preferred": "behavioral interview questions",
-      "aliases": [
-        "behavioral interview questions"
-      ],
-      "count": 1
-    },
     "omnichannel-order-fulfillment": {
       "id": "omnichannel-order-fulfillment",
       "preferred": "omnichannel order fulfillment",
@@ -8332,22 +9553,6 @@
       "preferred": "supply chain career overview",
       "aliases": [
         "supply chain career overview"
-      ],
-      "count": 1
-    },
-    "supply-chain-risk-management": {
-      "id": "supply-chain-risk-management",
-      "preferred": "supply chain risk management",
-      "aliases": [
-        "supply chain risk management"
-      ],
-      "count": 1
-    },
-    "supply-chain-data-analytics": {
-      "id": "supply-chain-data-analytics",
-      "preferred": "supply chain data analytics",
-      "aliases": [
-        "supply chain data analytics"
       ],
       "count": 1
     },
@@ -8404,14 +9609,6 @@
       "preferred": "interview tips",
       "aliases": [
         "interview tips"
-      ],
-      "count": 1
-    },
-    "cpim-certification": {
-      "id": "cpim-certification",
-      "preferred": "CPIM certification",
-      "aliases": [
-        "CPIM certification"
       ],
       "count": 1
     },
@@ -8479,27 +9676,11 @@
       ],
       "count": 1
     },
-    "procurement-essentials": {
-      "id": "procurement-essentials",
-      "preferred": "procurement essentials",
-      "aliases": [
-        "procurement essentials"
-      ],
-      "count": 1
-    },
     "strategic-procurement": {
       "id": "strategic-procurement",
       "preferred": "strategic procurement",
       "aliases": [
         "strategic procurement"
-      ],
-      "count": 1
-    },
-    "procurement-basics": {
-      "id": "procurement-basics",
-      "preferred": "procurement basics",
-      "aliases": [
-        "procurement basics"
       ],
       "count": 1
     },
@@ -8524,14 +9705,6 @@
       "preferred": "supply chain management degree",
       "aliases": [
         "supply chain management degree"
-      ],
-      "count": 1
-    },
-    "data-analytics-in-supply-chain": {
-      "id": "data-analytics-in-supply-chain",
-      "preferred": "data analytics in supply chain",
-      "aliases": [
-        "data analytics in supply chain"
       ],
       "count": 1
     },
@@ -8572,14 +9745,6 @@
       "preferred": "placement rates",
       "aliases": [
         "placement rates"
-      ],
-      "count": 1
-    },
-    "supply-chain-management": {
-      "id": "supply-chain-management",
-      "preferred": "supply chain management",
-      "aliases": [
-        "supply chain management"
       ],
       "count": 1
     },
@@ -9055,14 +10220,6 @@
       ],
       "count": 1
     },
-    "podcast-conclusion": {
-      "id": "podcast-conclusion",
-      "preferred": "podcast conclusion",
-      "aliases": [
-        "podcast conclusion"
-      ],
-      "count": 1
-    },
     "apics-cscp-exam-prep": {
       "id": "apics-cscp-exam-prep",
       "preferred": "APICS CSCP exam prep",
@@ -9180,14 +10337,6 @@
       "preferred": "supply planning",
       "aliases": [
         "supply planning"
-      ],
-      "count": 1
-    },
-    "order-management": {
-      "id": "order-management",
-      "preferred": "order management",
-      "aliases": [
-        "order management"
       ],
       "count": 1
     },
@@ -9452,14 +10601,6 @@
       "preferred": "outsourcing industry trends",
       "aliases": [
         "outsourcing industry trends"
-      ],
-      "count": 1
-    },
-    "china-plus-one-strategy": {
-      "id": "china-plus-one-strategy",
-      "preferred": "China plus one strategy",
-      "aliases": [
-        "China plus one strategy"
       ],
       "count": 1
     },
@@ -9847,14 +10988,6 @@
       ],
       "count": 1
     },
-    "warehouse-automation": {
-      "id": "warehouse-automation",
-      "preferred": "warehouse automation",
-      "aliases": [
-        "warehouse automation"
-      ],
-      "count": 1
-    },
     "inventory-and-data-entry-automation": {
       "id": "inventory-and-data-entry-automation",
       "preferred": "inventory and data entry automation",
@@ -9980,6 +11113,14 @@
       "preferred": "supply chain planning careers",
       "aliases": [
         "supply chain planning careers"
+      ],
+      "count": 1
+    },
+    "sourcing-and-procurement-jobs": {
+      "id": "sourcing-and-procurement-jobs",
+      "preferred": "sourcing and procurement jobs",
+      "aliases": [
+        "sourcing and procurement jobs"
       ],
       "count": 1
     },
@@ -10132,14 +11273,6 @@
       "preferred": "entry-level skills",
       "aliases": [
         "entry-level skills"
-      ],
-      "count": 1
-    },
-    "analytical-skills": {
-      "id": "analytical-skills",
-      "preferred": "analytical skills",
-      "aliases": [
-        "analytical skills"
       ],
       "count": 1
     },
@@ -10420,30 +11553,6 @@
       "preferred": "free logistics courses",
       "aliases": [
         "free logistics courses"
-      ],
-      "count": 1
-    },
-    "warehouse-management": {
-      "id": "warehouse-management",
-      "preferred": "warehouse management",
-      "aliases": [
-        "warehouse management"
-      ],
-      "count": 1
-    },
-    "customs-classification": {
-      "id": "customs-classification",
-      "preferred": "customs classification",
-      "aliases": [
-        "customs classification"
-      ],
-      "count": 1
-    },
-    "hs-codes": {
-      "id": "hs-codes",
-      "preferred": "HS codes",
-      "aliases": [
-        "HS codes"
       ],
       "count": 1
     },
@@ -10943,14 +12052,6 @@
       ],
       "count": 1
     },
-    "podcast-wrap-up": {
-      "id": "podcast-wrap-up",
-      "preferred": "podcast wrap-up",
-      "aliases": [
-        "podcast wrap-up"
-      ],
-      "count": 1
-    },
     "supply-chain-curriculum-and-modules": {
       "id": "supply-chain-curriculum-and-modules",
       "preferred": "supply chain curriculum and modules",
@@ -11399,27 +12500,11 @@
       ],
       "count": 1
     },
-    "supply-chain-career-progression": {
-      "id": "supply-chain-career-progression",
-      "preferred": "supply chain career progression",
-      "aliases": [
-        "supply chain career progression"
-      ],
-      "count": 1
-    },
     "industry-trends": {
       "id": "industry-trends",
       "preferred": "industry trends",
       "aliases": [
         "industry trends"
-      ],
-      "count": 1
-    },
-    "compensation": {
-      "id": "compensation",
-      "preferred": "compensation",
-      "aliases": [
-        "compensation"
       ],
       "count": 1
     },
@@ -11444,22 +12529,6 @@
       "preferred": "career roadmap",
       "aliases": [
         "career roadmap"
-      ],
-      "count": 1
-    },
-    "supply-chain-storytelling": {
-      "id": "supply-chain-storytelling",
-      "preferred": "supply chain storytelling",
-      "aliases": [
-        "supply chain storytelling"
-      ],
-      "count": 1
-    },
-    "cross-functional-influence": {
-      "id": "cross-functional-influence",
-      "preferred": "cross-functional influence",
-      "aliases": [
-        "cross-functional influence"
       ],
       "count": 1
     },
@@ -12007,27 +13076,11 @@
       ],
       "count": 1
     },
-    "safety-stock": {
-      "id": "safety-stock",
-      "preferred": "safety stock",
-      "aliases": [
-        "safety stock"
-      ],
-      "count": 1
-    },
     "lead-time": {
       "id": "lead-time",
       "preferred": "lead time",
       "aliases": [
         "lead time"
-      ],
-      "count": 1
-    },
-    "logistics-cost": {
-      "id": "logistics-cost",
-      "preferred": "logistics cost",
-      "aliases": [
-        "logistics cost"
       ],
       "count": 1
     },
@@ -12172,14 +13225,6 @@
       "preferred": "TMS software vendors",
       "aliases": [
         "TMS software vendors"
-      ],
-      "count": 1
-    },
-    "logistics-careers": {
-      "id": "logistics-careers",
-      "preferred": "logistics careers",
-      "aliases": [
-        "logistics careers"
       ],
       "count": 1
     },
@@ -13047,14 +14092,6 @@
       ],
       "count": 1
     },
-    "podcast-closing": {
-      "id": "podcast-closing",
-      "preferred": "podcast closing",
-      "aliases": [
-        "podcast closing"
-      ],
-      "count": 1
-    },
     "humanitarian-supply-chain": {
       "id": "humanitarian-supply-chain",
       "preferred": "humanitarian supply chain",
@@ -13100,14 +14137,6 @@
       "preferred": "internship search strategy",
       "aliases": [
         "internship search strategy"
-      ],
-      "count": 1
-    },
-    "linkedin-networking": {
-      "id": "linkedin-networking",
-      "preferred": "linkedin networking",
-      "aliases": [
-        "linkedin networking"
       ],
       "count": 1
     },
@@ -13295,14 +14324,6 @@
       ],
       "count": 1
     },
-    "supply-chain-career-transition": {
-      "id": "supply-chain-career-transition",
-      "preferred": "supply chain career transition",
-      "aliases": [
-        "supply chain career transition"
-      ],
-      "count": 1
-    },
     "supply-chain-software-skills": {
       "id": "supply-chain-software-skills",
       "preferred": "supply chain software skills",
@@ -13431,14 +14452,6 @@
       ],
       "count": 1
     },
-    "online-assessment-tests": {
-      "id": "online-assessment-tests",
-      "preferred": "online assessment tests",
-      "aliases": [
-        "online assessment tests"
-      ],
-      "count": 1
-    },
     "interview-stages": {
       "id": "interview-stages",
       "preferred": "interview stages",
@@ -13492,6 +14505,1550 @@
       "preferred": "career diversification",
       "aliases": [
         "career diversification"
+      ],
+      "count": 1
+    },
+    "email-communication": {
+      "id": "email-communication",
+      "preferred": "email communication",
+      "aliases": [
+        "email communication"
+      ],
+      "count": 1
+    },
+    "cv-writing-tips": {
+      "id": "cv-writing-tips",
+      "preferred": "cv writing tips",
+      "aliases": [
+        "cv writing tips"
+      ],
+      "count": 1
+    },
+    "cv-and-resume-writing": {
+      "id": "cv-and-resume-writing",
+      "preferred": "CV and resume writing",
+      "aliases": [
+        "CV and resume writing"
+      ],
+      "count": 1
+    },
+    "job-interview-tips": {
+      "id": "job-interview-tips",
+      "preferred": "job interview tips",
+      "aliases": [
+        "job interview tips"
+      ],
+      "count": 1
+    },
+    "compassion": {
+      "id": "compassion",
+      "preferred": "compassion",
+      "aliases": [
+        "compassion"
+      ],
+      "count": 1
+    },
+    "giving-feedback": {
+      "id": "giving-feedback",
+      "preferred": "giving feedback",
+      "aliases": [
+        "giving feedback"
+      ],
+      "count": 1
+    },
+    "excel-keyboard-shortcuts-and-efficiency": {
+      "id": "excel-keyboard-shortcuts-and-efficiency",
+      "preferred": "Excel keyboard shortcuts and efficiency",
+      "aliases": [
+        "Excel keyboard shortcuts and efficiency"
+      ],
+      "count": 1
+    },
+    "feedback-management": {
+      "id": "feedback-management",
+      "preferred": "feedback management",
+      "aliases": [
+        "feedback management"
+      ],
+      "count": 1
+    },
+    "pareto-principle": {
+      "id": "pareto-principle",
+      "preferred": "pareto principle",
+      "aliases": [
+        "pareto principle"
+      ],
+      "count": 1
+    },
+    "action-taking": {
+      "id": "action-taking",
+      "preferred": "action-taking",
+      "aliases": [
+        "action-taking"
+      ],
+      "count": 1
+    },
+    "decision-making": {
+      "id": "decision-making",
+      "preferred": "decision making",
+      "aliases": [
+        "decision making"
+      ],
+      "count": 1
+    },
+    "networking-tips": {
+      "id": "networking-tips",
+      "preferred": "Networking Tips",
+      "aliases": [
+        "Networking Tips"
+      ],
+      "count": 1
+    },
+    "7-38-55-rule": {
+      "id": "7-38-55-rule",
+      "preferred": "7-38-55 rule",
+      "aliases": [
+        "7-38-55 rule"
+      ],
+      "count": 1
+    },
+    "handling-job-rejection": {
+      "id": "handling-job-rejection",
+      "preferred": "handling job rejection",
+      "aliases": [
+        "handling job rejection"
+      ],
+      "count": 1
+    },
+    "perseverance": {
+      "id": "perseverance",
+      "preferred": "perseverance",
+      "aliases": [
+        "perseverance"
+      ],
+      "count": 1
+    },
+    "the-first-90-days-book-recommendations": {
+      "id": "the-first-90-days-book-recommendations",
+      "preferred": "The First 90 Days book recommendations",
+      "aliases": [
+        "The First 90 Days book recommendations"
+      ],
+      "count": 1
+    },
+    "celebrating-success": {
+      "id": "celebrating-success",
+      "preferred": "celebrating success",
+      "aliases": [
+        "celebrating success"
+      ],
+      "count": 1
+    },
+    "mbti": {
+      "id": "mbti",
+      "preferred": "MBTI",
+      "aliases": [
+        "MBTI"
+      ],
+      "count": 1
+    },
+    "smd-model": {
+      "id": "smd-model",
+      "preferred": "SMD model",
+      "aliases": [
+        "SMD model"
+      ],
+      "count": 1
+    },
+    "fact-finding": {
+      "id": "fact-finding",
+      "preferred": "fact-finding",
+      "aliases": [
+        "fact-finding"
+      ],
+      "count": 1
+    },
+    "recommendations": {
+      "id": "recommendations",
+      "preferred": "recommendations",
+      "aliases": [
+        "recommendations"
+      ],
+      "count": 1
+    },
+    "organizational-agility": {
+      "id": "organizational-agility",
+      "preferred": "organizational agility",
+      "aliases": [
+        "organizational agility"
+      ],
+      "count": 1
+    },
+    "cliftonstrengths-formula-for-strength": {
+      "id": "cliftonstrengths-formula-for-strength",
+      "preferred": "CliftonStrengths formula for strength",
+      "aliases": [
+        "CliftonStrengths formula for strength"
+      ],
+      "count": 1
+    },
+    "diction": {
+      "id": "diction",
+      "preferred": "diction",
+      "aliases": [
+        "diction"
+      ],
+      "count": 1
+    },
+    "public-speaking": {
+      "id": "public-speaking",
+      "preferred": "public speaking",
+      "aliases": [
+        "public speaking"
+      ],
+      "count": 1
+    },
+    "cliftonstrengths-domains": {
+      "id": "cliftonstrengths-domains",
+      "preferred": "CliftonStrengths domains",
+      "aliases": [
+        "CliftonStrengths domains"
+      ],
+      "count": 1
+    },
+    "cliftonstrengths": {
+      "id": "cliftonstrengths",
+      "preferred": "CliftonStrengths",
+      "aliases": [
+        "CliftonStrengths"
+      ],
+      "count": 1
+    },
+    "future-proofing": {
+      "id": "future-proofing",
+      "preferred": "future proofing",
+      "aliases": [
+        "future proofing"
+      ],
+      "count": 1
+    },
+    "freelancing-soft-skills": {
+      "id": "freelancing-soft-skills",
+      "preferred": "freelancing soft skills",
+      "aliases": [
+        "freelancing soft skills"
+      ],
+      "count": 1
+    },
+    "freelance-economy-growth": {
+      "id": "freelance-economy-growth",
+      "preferred": "freelance economy growth",
+      "aliases": [
+        "freelance economy growth"
+      ],
+      "count": 1
+    },
+    "handling-rejection": {
+      "id": "handling-rejection",
+      "preferred": "handling rejection",
+      "aliases": [
+        "handling rejection"
+      ],
+      "count": 1
+    },
+    "conflict-management-skills": {
+      "id": "conflict-management-skills",
+      "preferred": "conflict management skills",
+      "aliases": [
+        "conflict management skills"
+      ],
+      "count": 1
+    },
+    "smart-cities": {
+      "id": "smart-cities",
+      "preferred": "smart cities",
+      "aliases": [
+        "smart cities"
+      ],
+      "count": 1
+    },
+    "iot-investment": {
+      "id": "iot-investment",
+      "preferred": "IoT investment",
+      "aliases": [
+        "IoT investment"
+      ],
+      "count": 1
+    },
+    "strengths-interview-question": {
+      "id": "strengths-interview-question",
+      "preferred": "strengths interview question",
+      "aliases": [
+        "strengths interview question"
+      ],
+      "count": 1
+    },
+    "finance-communication": {
+      "id": "finance-communication",
+      "preferred": "finance communication",
+      "aliases": [
+        "finance communication"
+      ],
+      "count": 1
+    },
+    "cross-functional-business-acumen": {
+      "id": "cross-functional-business-acumen",
+      "preferred": "cross-functional business acumen",
+      "aliases": [
+        "cross-functional business acumen"
+      ],
+      "count": 1
+    },
+    "answering-motivation-questions": {
+      "id": "answering-motivation-questions",
+      "preferred": "answering motivation questions",
+      "aliases": [
+        "answering motivation questions"
+      ],
+      "count": 1
+    },
+    "company-alignment": {
+      "id": "company-alignment",
+      "preferred": "company alignment",
+      "aliases": [
+        "company alignment"
+      ],
+      "count": 1
+    },
+    "past-achievements": {
+      "id": "past-achievements",
+      "preferred": "past achievements",
+      "aliases": [
+        "past achievements"
+      ],
+      "count": 1
+    },
+    "data-communication": {
+      "id": "data-communication",
+      "preferred": "data communication",
+      "aliases": [
+        "data communication"
+      ],
+      "count": 1
+    },
+    "supply-chain-planning-tools": {
+      "id": "supply-chain-planning-tools",
+      "preferred": "Supply Chain Planning Tools",
+      "aliases": [
+        "Supply Chain Planning Tools"
+      ],
+      "count": 1
+    },
+    "team-recognition": {
+      "id": "team-recognition",
+      "preferred": "team recognition",
+      "aliases": [
+        "team recognition"
+      ],
+      "count": 1
+    },
+    "linkedin": {
+      "id": "linkedin",
+      "preferred": "LinkedIn",
+      "aliases": [
+        "LinkedIn"
+      ],
+      "count": 1
+    },
+    "profit-and-loss-statement": {
+      "id": "profit-and-loss-statement",
+      "preferred": "profit and loss statement",
+      "aliases": [
+        "profit and loss statement"
+      ],
+      "count": 1
+    },
+    "cpfr-planning": {
+      "id": "cpfr-planning",
+      "preferred": "CPFR planning",
+      "aliases": [
+        "CPFR planning"
+      ],
+      "count": 1
+    },
+    "linkedin-visibility": {
+      "id": "linkedin-visibility",
+      "preferred": "LinkedIn visibility",
+      "aliases": [
+        "LinkedIn visibility"
+      ],
+      "count": 1
+    },
+    "promotion-to-manager": {
+      "id": "promotion-to-manager",
+      "preferred": "promotion to manager",
+      "aliases": [
+        "promotion to manager"
+      ],
+      "count": 1
+    },
+    "comfort-around-higher-management": {
+      "id": "comfort-around-higher-management",
+      "preferred": "comfort around higher management",
+      "aliases": [
+        "comfort around higher management"
+      ],
+      "count": 1
+    },
+    "supply-chain-infrastructure": {
+      "id": "supply-chain-infrastructure",
+      "preferred": "supply chain infrastructure",
+      "aliases": [
+        "supply chain infrastructure"
+      ],
+      "count": 1
+    },
+    "vision-2030": {
+      "id": "vision-2030",
+      "preferred": "Vision 2030",
+      "aliases": [
+        "Vision 2030"
+      ],
+      "count": 1
+    },
+    "logistics-and-warehousing": {
+      "id": "logistics-and-warehousing",
+      "preferred": "logistics and warehousing",
+      "aliases": [
+        "logistics and warehousing"
+      ],
+      "count": 1
+    },
+    "expatriate-job-market": {
+      "id": "expatriate-job-market",
+      "preferred": "expatriate job market",
+      "aliases": [
+        "expatriate job market"
+      ],
+      "count": 1
+    },
+    "supply-chain": {
+      "id": "supply-chain",
+      "preferred": "supply chain",
+      "aliases": [
+        "supply chain"
+      ],
+      "count": 1
+    },
+    "procure-to-pay-process": {
+      "id": "procure-to-pay-process",
+      "preferred": "procure-to-pay process",
+      "aliases": [
+        "procure-to-pay process"
+      ],
+      "count": 1
+    },
+    "procurement-strategy-alignment": {
+      "id": "procurement-strategy-alignment",
+      "preferred": "procurement strategy alignment",
+      "aliases": [
+        "procurement strategy alignment"
+      ],
+      "count": 1
+    },
+    "supply-chain-resilience-and-kpis": {
+      "id": "supply-chain-resilience-and-kpis",
+      "preferred": "supply chain resilience and KPIs",
+      "aliases": [
+        "supply chain resilience and KPIs"
+      ],
+      "count": 1
+    },
+    "cash-to-cash-cycle-time": {
+      "id": "cash-to-cash-cycle-time",
+      "preferred": "cash to cash cycle time",
+      "aliases": [
+        "cash to cash cycle time"
+      ],
+      "count": 1
+    },
+    "inventory-cash-flow": {
+      "id": "inventory-cash-flow",
+      "preferred": "inventory cash flow",
+      "aliases": [
+        "inventory cash flow"
+      ],
+      "count": 1
+    },
+    "cogs-calculation": {
+      "id": "cogs-calculation",
+      "preferred": "COGS calculation",
+      "aliases": [
+        "COGS calculation"
+      ],
+      "count": 1
+    },
+    "gross-profit": {
+      "id": "gross-profit",
+      "preferred": "Gross profit",
+      "aliases": [
+        "Gross profit"
+      ],
+      "count": 1
+    },
+    "supply-chain-certifications-vs-experience": {
+      "id": "supply-chain-certifications-vs-experience",
+      "preferred": "supply chain certifications vs experience",
+      "aliases": [
+        "supply chain certifications vs experience"
+      ],
+      "count": 1
+    },
+    "cost-to-deliver": {
+      "id": "cost-to-deliver",
+      "preferred": "cost to deliver",
+      "aliases": [
+        "cost to deliver"
+      ],
+      "count": 1
+    },
+    "cross-functional-conflict": {
+      "id": "cross-functional-conflict",
+      "preferred": "cross-functional conflict",
+      "aliases": [
+        "cross-functional conflict"
+      ],
+      "count": 1
+    },
+    "demand-forecasting-models": {
+      "id": "demand-forecasting-models",
+      "preferred": "demand forecasting models",
+      "aliases": [
+        "demand forecasting models"
+      ],
+      "count": 1
+    },
+    "perfect-order-kpi": {
+      "id": "perfect-order-kpi",
+      "preferred": "perfect order KPI",
+      "aliases": [
+        "perfect order KPI"
+      ],
+      "count": 1
+    },
+    "p-g-peak-performance-factors": {
+      "id": "p-g-peak-performance-factors",
+      "preferred": "P&G peak performance factors",
+      "aliases": [
+        "P&G peak performance factors"
+      ],
+      "count": 1
+    },
+    "procurement-software-experience": {
+      "id": "procurement-software-experience",
+      "preferred": "procurement software experience",
+      "aliases": [
+        "procurement software experience"
+      ],
+      "count": 1
+    },
+    "delivery-lead-times": {
+      "id": "delivery-lead-times",
+      "preferred": "delivery lead times",
+      "aliases": [
+        "delivery lead times"
+      ],
+      "count": 1
+    },
+    "supply-chain-costs": {
+      "id": "supply-chain-costs",
+      "preferred": "supply chain costs",
+      "aliases": [
+        "supply chain costs"
+      ],
+      "count": 1
+    },
+    "logistics-and-procurement": {
+      "id": "logistics-and-procurement",
+      "preferred": "logistics and procurement",
+      "aliases": [
+        "logistics and procurement"
+      ],
+      "count": 1
+    },
+    "situational-interview-questions": {
+      "id": "situational-interview-questions",
+      "preferred": "situational interview questions",
+      "aliases": [
+        "situational interview questions"
+      ],
+      "count": 1
+    },
+    "supply-planner": {
+      "id": "supply-planner",
+      "preferred": "supply planner",
+      "aliases": [
+        "supply planner"
+      ],
+      "count": 1
+    },
+    "statistical-stock-modeling": {
+      "id": "statistical-stock-modeling",
+      "preferred": "statistical stock modeling",
+      "aliases": [
+        "statistical stock modeling"
+      ],
+      "count": 1
+    },
+    "interview-question-situations": {
+      "id": "interview-question-situations",
+      "preferred": "interview question situations",
+      "aliases": [
+        "interview question situations"
+      ],
+      "count": 1
+    },
+    "prioritization-interview-questions": {
+      "id": "prioritization-interview-questions",
+      "preferred": "prioritization interview questions",
+      "aliases": [
+        "prioritization interview questions"
+      ],
+      "count": 1
+    },
+    "conflict-management-interview-questions": {
+      "id": "conflict-management-interview-questions",
+      "preferred": "conflict management interview questions",
+      "aliases": [
+        "conflict management interview questions"
+      ],
+      "count": 1
+    },
+    "procurement-entry-level-jobs": {
+      "id": "procurement-entry-level-jobs",
+      "preferred": "procurement entry-level jobs",
+      "aliases": [
+        "procurement entry-level jobs"
+      ],
+      "count": 1
+    },
+    "s-op-vs-s-oe": {
+      "id": "s-op-vs-s-oe",
+      "preferred": "S&OP vs S&OE",
+      "aliases": [
+        "S&OP vs S&OE"
+      ],
+      "count": 1
+    },
+    "human-skills-in-supply-chain-planning": {
+      "id": "human-skills-in-supply-chain-planning",
+      "preferred": "human skills in supply chain planning",
+      "aliases": [
+        "human skills in supply chain planning"
+      ],
+      "count": 1
+    },
+    "data-visualization-tools-in-demand-planning": {
+      "id": "data-visualization-tools-in-demand-planning",
+      "preferred": "data visualization tools in demand planning",
+      "aliases": [
+        "data visualization tools in demand planning"
+      ],
+      "count": 1
+    },
+    "wms-implementation-experience": {
+      "id": "wms-implementation-experience",
+      "preferred": "WMS implementation experience",
+      "aliases": [
+        "WMS implementation experience"
+      ],
+      "count": 1
+    },
+    "make-in-india": {
+      "id": "make-in-india",
+      "preferred": "Make in India",
+      "aliases": [
+        "Make in India"
+      ],
+      "count": 1
+    },
+    "continuous-improvement-methodologies": {
+      "id": "continuous-improvement-methodologies",
+      "preferred": "continuous improvement methodologies",
+      "aliases": [
+        "continuous improvement methodologies"
+      ],
+      "count": 1
+    },
+    "procurement-entry-level-roles": {
+      "id": "procurement-entry-level-roles",
+      "preferred": "procurement entry-level roles",
+      "aliases": [
+        "procurement entry-level roles"
+      ],
+      "count": 1
+    },
+    "sourcing-jobs": {
+      "id": "sourcing-jobs",
+      "preferred": "sourcing jobs",
+      "aliases": [
+        "sourcing jobs"
+      ],
+      "count": 1
+    },
+    "warehouse-management-kpis": {
+      "id": "warehouse-management-kpis",
+      "preferred": "Warehouse Management KPIs",
+      "aliases": [
+        "Warehouse Management KPIs"
+      ],
+      "count": 1
+    },
+    "supply-chain-analyst-salary": {
+      "id": "supply-chain-analyst-salary",
+      "preferred": "supply chain analyst salary",
+      "aliases": [
+        "supply chain analyst salary"
+      ],
+      "count": 1
+    },
+    "supply-chain-hiring": {
+      "id": "supply-chain-hiring",
+      "preferred": "supply chain hiring",
+      "aliases": [
+        "supply chain hiring"
+      ],
+      "count": 1
+    },
+    "entry-level-manufacturing-roles": {
+      "id": "entry-level-manufacturing-roles",
+      "preferred": "entry level manufacturing roles",
+      "aliases": [
+        "entry level manufacturing roles"
+      ],
+      "count": 1
+    },
+    "production-planning-and-quality-control": {
+      "id": "production-planning-and-quality-control",
+      "preferred": "production planning and quality control",
+      "aliases": [
+        "production planning and quality control"
+      ],
+      "count": 1
+    },
+    "warehouse-associate": {
+      "id": "warehouse-associate",
+      "preferred": "warehouse associate",
+      "aliases": [
+        "warehouse associate"
+      ],
+      "count": 1
+    },
+    "transportation-coordinator": {
+      "id": "transportation-coordinator",
+      "preferred": "transportation coordinator",
+      "aliases": [
+        "transportation coordinator"
+      ],
+      "count": 1
+    },
+    "supply-chain-job-locations": {
+      "id": "supply-chain-job-locations",
+      "preferred": "supply chain job locations",
+      "aliases": [
+        "supply chain job locations"
+      ],
+      "count": 1
+    },
+    "compensation-factors": {
+      "id": "compensation-factors",
+      "preferred": "compensation factors",
+      "aliases": [
+        "compensation factors"
+      ],
+      "count": 1
+    },
+    "sourcing-specialist-salary": {
+      "id": "sourcing-specialist-salary",
+      "preferred": "sourcing specialist salary",
+      "aliases": [
+        "sourcing specialist salary"
+      ],
+      "count": 1
+    },
+    "procurement-careers": {
+      "id": "procurement-careers",
+      "preferred": "procurement careers",
+      "aliases": [
+        "procurement careers"
+      ],
+      "count": 1
+    },
+    "supply-chain-execution": {
+      "id": "supply-chain-execution",
+      "preferred": "supply chain execution",
+      "aliases": [
+        "supply chain execution"
+      ],
+      "count": 1
+    },
+    "reverse-logistics-roles": {
+      "id": "reverse-logistics-roles",
+      "preferred": "reverse logistics roles",
+      "aliases": [
+        "reverse logistics roles"
+      ],
+      "count": 1
+    },
+    "demand-planner-salaries": {
+      "id": "demand-planner-salaries",
+      "preferred": "demand planner salaries",
+      "aliases": [
+        "demand planner salaries"
+      ],
+      "count": 1
+    },
+    "demand-planning-career-levels": {
+      "id": "demand-planning-career-levels",
+      "preferred": "demand planning career levels",
+      "aliases": [
+        "demand planning career levels"
+      ],
+      "count": 1
+    },
+    "amazon-hiring-process": {
+      "id": "amazon-hiring-process",
+      "preferred": "Amazon hiring process",
+      "aliases": [
+        "Amazon hiring process"
+      ],
+      "count": 1
+    },
+    "amazon-leadership-principles": {
+      "id": "amazon-leadership-principles",
+      "preferred": "Amazon Leadership Principles",
+      "aliases": [
+        "Amazon Leadership Principles"
+      ],
+      "count": 1
+    },
+    "the-first-90-days": {
+      "id": "the-first-90-days",
+      "preferred": "The First 90 Days",
+      "aliases": [
+        "The First 90 Days"
+      ],
+      "count": 1
+    },
+    "supply-chain-manager-interview-questions": {
+      "id": "supply-chain-manager-interview-questions",
+      "preferred": "supply chain manager interview questions",
+      "aliases": [
+        "supply chain manager interview questions"
+      ],
+      "count": 1
+    },
+    "inventory-replenishment-policies": {
+      "id": "inventory-replenishment-policies",
+      "preferred": "inventory replenishment policies",
+      "aliases": [
+        "inventory replenishment policies"
+      ],
+      "count": 1
+    },
+    "protectionism-and-tariffs": {
+      "id": "protectionism-and-tariffs",
+      "preferred": "protectionism and tariffs",
+      "aliases": [
+        "protectionism and tariffs"
+      ],
+      "count": 1
+    },
+    "amazon-supply-chain-careers": {
+      "id": "amazon-supply-chain-careers",
+      "preferred": "Amazon supply chain careers",
+      "aliases": [
+        "Amazon supply chain careers"
+      ],
+      "count": 1
+    },
+    "fulfillment-center-operations": {
+      "id": "fulfillment-center-operations",
+      "preferred": "fulfillment center operations",
+      "aliases": [
+        "fulfillment center operations"
+      ],
+      "count": 1
+    },
+    "planning-and-inventory-management": {
+      "id": "planning-and-inventory-management",
+      "preferred": "planning and inventory management",
+      "aliases": [
+        "planning and inventory management"
+      ],
+      "count": 1
+    },
+    "amazon-hiring-requirements": {
+      "id": "amazon-hiring-requirements",
+      "preferred": "Amazon hiring requirements",
+      "aliases": [
+        "Amazon hiring requirements"
+      ],
+      "count": 1
+    },
+    "supply-chain-data-analyst": {
+      "id": "supply-chain-data-analyst",
+      "preferred": "supply chain data analyst",
+      "aliases": [
+        "supply chain data analyst"
+      ],
+      "count": 1
+    },
+    "six-sigma-black-belt-certification": {
+      "id": "six-sigma-black-belt-certification",
+      "preferred": "Six Sigma Black Belt certification",
+      "aliases": [
+        "Six Sigma Black Belt certification"
+      ],
+      "count": 1
+    },
+    "master-black-belt-role": {
+      "id": "master-black-belt-role",
+      "preferred": "Master Black Belt role",
+      "aliases": [
+        "Master Black Belt role"
+      ],
+      "count": 1
+    },
+    "procurement-manager-salary": {
+      "id": "procurement-manager-salary",
+      "preferred": "procurement manager salary",
+      "aliases": [
+        "procurement manager salary"
+      ],
+      "count": 1
+    },
+    "procurement-career-skills": {
+      "id": "procurement-career-skills",
+      "preferred": "procurement career skills",
+      "aliases": [
+        "procurement career skills"
+      ],
+      "count": 1
+    },
+    "free-supply-chain-courses": {
+      "id": "free-supply-chain-courses",
+      "preferred": "free supply chain courses",
+      "aliases": [
+        "free supply chain courses"
+      ],
+      "count": 1
+    },
+    "logistics-and-inventory-management": {
+      "id": "logistics-and-inventory-management",
+      "preferred": "logistics and inventory management",
+      "aliases": [
+        "logistics and inventory management"
+      ],
+      "count": 1
+    },
+    "supply-chain-it-manager-salaries": {
+      "id": "supply-chain-it-manager-salaries",
+      "preferred": "supply chain IT manager salaries",
+      "aliases": [
+        "supply chain IT manager salaries"
+      ],
+      "count": 1
+    },
+    "s4-hana-implementation": {
+      "id": "s4-hana-implementation",
+      "preferred": "S4 HANA implementation",
+      "aliases": [
+        "S4 HANA implementation"
+      ],
+      "count": 1
+    },
+    "abcs-of-performance": {
+      "id": "abcs-of-performance",
+      "preferred": "ABCs of performance",
+      "aliases": [
+        "ABCs of performance"
+      ],
+      "count": 1
+    },
+    "mba-value": {
+      "id": "mba-value",
+      "preferred": "MBA value",
+      "aliases": [
+        "MBA value"
+      ],
+      "count": 1
+    },
+    "contract-enforcement-with-ai": {
+      "id": "contract-enforcement-with-ai",
+      "preferred": "contract enforcement with AI",
+      "aliases": [
+        "contract enforcement with AI"
+      ],
+      "count": 1
+    },
+    "demand-drift-analysis": {
+      "id": "demand-drift-analysis",
+      "preferred": "demand drift analysis",
+      "aliases": [
+        "demand drift analysis"
+      ],
+      "count": 1
+    },
+    "ai-data-standardization": {
+      "id": "ai-data-standardization",
+      "preferred": "AI data standardization",
+      "aliases": [
+        "AI data standardization"
+      ],
+      "count": 1
+    },
+    "supply-chain-digital-twins": {
+      "id": "supply-chain-digital-twins",
+      "preferred": "supply chain digital twins",
+      "aliases": [
+        "supply chain digital twins"
+      ],
+      "count": 1
+    },
+    "prompt-writing": {
+      "id": "prompt-writing",
+      "preferred": "prompt writing",
+      "aliases": [
+        "prompt writing"
+      ],
+      "count": 1
+    },
+    "transitioning-from-store-management-to-supply-chain": {
+      "id": "transitioning-from-store-management-to-supply-chain",
+      "preferred": "transitioning from store management to supply chain",
+      "aliases": [
+        "transitioning from store management to supply chain"
+      ],
+      "count": 1
+    },
+    "australian-supply-chain-jobs": {
+      "id": "australian-supply-chain-jobs",
+      "preferred": "Australian supply chain jobs",
+      "aliases": [
+        "Australian supply chain jobs"
+      ],
+      "count": 1
+    },
+    "mining-vs-imports": {
+      "id": "mining-vs-imports",
+      "preferred": "mining vs imports",
+      "aliases": [
+        "mining vs imports"
+      ],
+      "count": 1
+    },
+    "finance-to-supply-chain-transition": {
+      "id": "finance-to-supply-chain-transition",
+      "preferred": "finance to supply chain transition",
+      "aliases": [
+        "finance to supply chain transition"
+      ],
+      "count": 1
+    },
+    "cips-level-2-certification": {
+      "id": "cips-level-2-certification",
+      "preferred": "CIPS Level 2 certification",
+      "aliases": [
+        "CIPS Level 2 certification"
+      ],
+      "count": 1
+    },
+    "inventory-management-and-planning": {
+      "id": "inventory-management-and-planning",
+      "preferred": "inventory management and planning",
+      "aliases": [
+        "inventory management and planning"
+      ],
+      "count": 1
+    },
+    "master-s-degree-vs-industry-experience": {
+      "id": "master-s-degree-vs-industry-experience",
+      "preferred": "master's degree vs industry experience",
+      "aliases": [
+        "master's degree vs industry experience"
+      ],
+      "count": 1
+    },
+    "interview-answer-structure": {
+      "id": "interview-answer-structure",
+      "preferred": "interview answer structure",
+      "aliases": [
+        "interview answer structure"
+      ],
+      "count": 1
+    },
+    "pronoun-usage-in-interviews": {
+      "id": "pronoun-usage-in-interviews",
+      "preferred": "pronoun usage in interviews",
+      "aliases": [
+        "pronoun usage in interviews"
+      ],
+      "count": 1
+    },
+    "star-method-answer-timing": {
+      "id": "star-method-answer-timing",
+      "preferred": "STAR method answer timing",
+      "aliases": [
+        "STAR method answer timing"
+      ],
+      "count": 1
+    },
+    "candidate-honesty": {
+      "id": "candidate-honesty",
+      "preferred": "candidate honesty",
+      "aliases": [
+        "candidate honesty"
+      ],
+      "count": 1
+    },
+    "procurement-vs-purchasing": {
+      "id": "procurement-vs-purchasing",
+      "preferred": "procurement vs purchasing",
+      "aliases": [
+        "procurement vs purchasing"
+      ],
+      "count": 1
+    },
+    "supply-chain-technical-interview-questions": {
+      "id": "supply-chain-technical-interview-questions",
+      "preferred": "supply chain technical interview questions",
+      "aliases": [
+        "supply chain technical interview questions"
+      ],
+      "count": 1
+    },
+    "analytical-skills-interview-questions": {
+      "id": "analytical-skills-interview-questions",
+      "preferred": "analytical skills interview questions",
+      "aliases": [
+        "analytical skills interview questions"
+      ],
+      "count": 1
+    },
+    "self-skills-interview-questions": {
+      "id": "self-skills-interview-questions",
+      "preferred": "self-skills interview questions",
+      "aliases": [
+        "self-skills interview questions"
+      ],
+      "count": 1
+    },
+    "career-advancement-in-logistics": {
+      "id": "career-advancement-in-logistics",
+      "preferred": "career advancement in logistics",
+      "aliases": [
+        "career advancement in logistics"
+      ],
+      "count": 1
+    },
+    "supply-and-demand-planning": {
+      "id": "supply-and-demand-planning",
+      "preferred": "supply and demand planning",
+      "aliases": [
+        "supply and demand planning"
+      ],
+      "count": 1
+    },
+    "supply-chain-leadership": {
+      "id": "supply-chain-leadership",
+      "preferred": "supply chain leadership",
+      "aliases": [
+        "supply chain leadership"
+      ],
+      "count": 1
+    },
+    "procurement-career-path": {
+      "id": "procurement-career-path",
+      "preferred": "procurement career path",
+      "aliases": [
+        "procurement career path"
+      ],
+      "count": 1
+    },
+    "contract-writing": {
+      "id": "contract-writing",
+      "preferred": "contract writing",
+      "aliases": [
+        "contract writing"
+      ],
+      "count": 1
+    },
+    "supplier-negotiation": {
+      "id": "supplier-negotiation",
+      "preferred": "supplier negotiation",
+      "aliases": [
+        "supplier negotiation"
+      ],
+      "count": 1
+    },
+    "community-growth": {
+      "id": "community-growth",
+      "preferred": "community growth",
+      "aliases": [
+        "community growth"
+      ],
+      "count": 1
+    },
+    "supply-chain-career-guide": {
+      "id": "supply-chain-career-guide",
+      "preferred": "supply chain career guide",
+      "aliases": [
+        "supply chain career guide"
+      ],
+      "count": 1
+    },
+    "logistics-manager-career-path": {
+      "id": "logistics-manager-career-path",
+      "preferred": "logistics manager career path",
+      "aliases": [
+        "logistics manager career path"
+      ],
+      "count": 1
+    },
+    "procurement-manager": {
+      "id": "procurement-manager",
+      "preferred": "procurement manager",
+      "aliases": [
+        "procurement manager"
+      ],
+      "count": 1
+    },
+    "supply-chain-transformation-roles": {
+      "id": "supply-chain-transformation-roles",
+      "preferred": "supply chain transformation roles",
+      "aliases": [
+        "supply chain transformation roles"
+      ],
+      "count": 1
+    },
+    "supply-chain-systems-manager": {
+      "id": "supply-chain-systems-manager",
+      "preferred": "supply chain systems manager",
+      "aliases": [
+        "supply chain systems manager"
+      ],
+      "count": 1
+    },
+    "procurement-negotiation-skills": {
+      "id": "procurement-negotiation-skills",
+      "preferred": "procurement negotiation skills",
+      "aliases": [
+        "procurement negotiation skills"
+      ],
+      "count": 1
+    },
+    "technical-command": {
+      "id": "technical-command",
+      "preferred": "technical command",
+      "aliases": [
+        "technical command"
+      ],
+      "count": 1
+    },
+    "emotional-intelligence-in-leadership": {
+      "id": "emotional-intelligence-in-leadership",
+      "preferred": "emotional intelligence in leadership",
+      "aliases": [
+        "emotional intelligence in leadership"
+      ],
+      "count": 1
+    },
+    "leadership-principles": {
+      "id": "leadership-principles",
+      "preferred": "leadership principles",
+      "aliases": [
+        "leadership principles"
+      ],
+      "count": 1
+    },
+    "customer-service-career-progression": {
+      "id": "customer-service-career-progression",
+      "preferred": "customer service career progression",
+      "aliases": [
+        "customer service career progression"
+      ],
+      "count": 1
+    },
+    "supply-chain-planning-role": {
+      "id": "supply-chain-planning-role",
+      "preferred": "supply chain planning role",
+      "aliases": [
+        "supply chain planning role"
+      ],
+      "count": 1
+    },
+    "ai-in-transportation-dispatching": {
+      "id": "ai-in-transportation-dispatching",
+      "preferred": "AI in transportation dispatching",
+      "aliases": [
+        "AI in transportation dispatching"
+      ],
+      "count": 1
+    },
+    "supply-chain-analyst-skills": {
+      "id": "supply-chain-analyst-skills",
+      "preferred": "supply chain analyst skills",
+      "aliases": [
+        "supply chain analyst skills"
+      ],
+      "count": 1
+    },
+    "inventory-tracking": {
+      "id": "inventory-tracking",
+      "preferred": "inventory tracking",
+      "aliases": [
+        "inventory tracking"
+      ],
+      "count": 1
+    },
+    "supply-chain-career-realities": {
+      "id": "supply-chain-career-realities",
+      "preferred": "supply chain career realities",
+      "aliases": [
+        "supply chain career realities"
+      ],
+      "count": 1
+    },
+    "workplace-burnout": {
+      "id": "workplace-burnout",
+      "preferred": "workplace burnout",
+      "aliases": [
+        "workplace burnout"
+      ],
+      "count": 1
+    },
+    "it-to-supply-chain-pivot": {
+      "id": "it-to-supply-chain-pivot",
+      "preferred": "IT to supply chain pivot",
+      "aliases": [
+        "IT to supply chain pivot"
+      ],
+      "count": 1
+    },
+    "supply-chain-logistics-courses": {
+      "id": "supply-chain-logistics-courses",
+      "preferred": "supply chain logistics courses",
+      "aliases": [
+        "supply chain logistics courses"
+      ],
+      "count": 1
+    },
+    "leadership-and-emotional-intelligence": {
+      "id": "leadership-and-emotional-intelligence",
+      "preferred": "leadership and emotional intelligence",
+      "aliases": [
+        "leadership and emotional intelligence"
+      ],
+      "count": 1
+    },
+    "private-5g": {
+      "id": "private-5g",
+      "preferred": "private 5G",
+      "aliases": [
+        "private 5G"
+      ],
+      "count": 1
+    },
+    "smart-port-automation": {
+      "id": "smart-port-automation",
+      "preferred": "smart port automation",
+      "aliases": [
+        "smart port automation"
+      ],
+      "count": 1
+    },
+    "iot-edge-computing": {
+      "id": "iot-edge-computing",
+      "preferred": "IoT edge computing",
+      "aliases": [
+        "IoT edge computing"
+      ],
+      "count": 1
+    },
+    "smart-port-architecture": {
+      "id": "smart-port-architecture",
+      "preferred": "Smart Port Architecture",
+      "aliases": [
+        "Smart Port Architecture"
+      ],
+      "count": 1
+    },
+    "supply-chain-flows": {
+      "id": "supply-chain-flows",
+      "preferred": "supply chain flows",
+      "aliases": [
+        "supply chain flows"
+      ],
+      "count": 1
+    },
+    "erp-integration": {
+      "id": "erp-integration",
+      "preferred": "ERP integration",
+      "aliases": [
+        "ERP integration"
+      ],
+      "count": 1
+    },
+    "erp-software-comparison": {
+      "id": "erp-software-comparison",
+      "preferred": "ERP software comparison",
+      "aliases": [
+        "ERP software comparison"
+      ],
+      "count": 1
+    },
+    "inventory-clerk-automation": {
+      "id": "inventory-clerk-automation",
+      "preferred": "inventory clerk automation",
+      "aliases": [
+        "inventory clerk automation"
+      ],
+      "count": 1
+    },
+    "upskilling-to-data-analyst": {
+      "id": "upskilling-to-data-analyst",
+      "preferred": "upskilling to data analyst",
+      "aliases": [
+        "upskilling to data analyst"
+      ],
+      "count": 1
+    },
+    "supply-chain-awareness": {
+      "id": "supply-chain-awareness",
+      "preferred": "supply chain awareness",
+      "aliases": [
+        "supply chain awareness"
+      ],
+      "count": 1
+    },
+    "supply-chain-master-s-programs-in-the-uk": {
+      "id": "supply-chain-master-s-programs-in-the-uk",
+      "preferred": "Supply Chain Master's Programs in the UK",
+      "aliases": [
+        "Supply Chain Master's Programs in the UK"
+      ],
+      "count": 1
+    },
+    "supply-chain-it-systems": {
+      "id": "supply-chain-it-systems",
+      "preferred": "Supply Chain IT Systems",
+      "aliases": [
+        "Supply Chain IT Systems"
+      ],
+      "count": 1
+    },
+    "erp-and-logistics-software": {
+      "id": "erp-and-logistics-software",
+      "preferred": "ERP and Logistics Software",
+      "aliases": [
+        "ERP and Logistics Software"
+      ],
+      "count": 1
+    },
+    "data-visualization-analytics": {
+      "id": "data-visualization-analytics",
+      "preferred": "data visualization & analytics",
+      "aliases": [
+        "data visualization & analytics"
+      ],
+      "count": 1
+    },
+    "agile-project-management": {
+      "id": "agile-project-management",
+      "preferred": "agile project management",
+      "aliases": [
+        "agile project management"
+      ],
+      "count": 1
+    },
+    "emerging-tech-ai-adaptability": {
+      "id": "emerging-tech-ai-adaptability",
+      "preferred": "emerging tech & AI adaptability",
+      "aliases": [
+        "emerging tech & AI adaptability"
+      ],
+      "count": 1
+    },
+    "networking-and-communication": {
+      "id": "networking-and-communication",
+      "preferred": "networking and communication",
+      "aliases": [
+        "networking and communication"
+      ],
+      "count": 1
+    },
+    "end-to-end-perspective": {
+      "id": "end-to-end-perspective",
+      "preferred": "end-to-end perspective",
+      "aliases": [
+        "end-to-end perspective"
+      ],
+      "count": 1
+    },
+    "supply-chain-burnout": {
+      "id": "supply-chain-burnout",
+      "preferred": "supply chain burnout",
+      "aliases": [
+        "supply chain burnout"
+      ],
+      "count": 1
+    },
+    "manufacturing-career-qualifications": {
+      "id": "manufacturing-career-qualifications",
+      "preferred": "manufacturing career qualifications",
+      "aliases": [
+        "manufacturing career qualifications"
+      ],
+      "count": 1
+    },
+    "moving-goalposts-and-unrealistic-expectations": {
+      "id": "moving-goalposts-and-unrealistic-expectations",
+      "preferred": "moving goalposts and unrealistic expectations",
+      "aliases": [
+        "moving goalposts and unrealistic expectations"
+      ],
+      "count": 1
+    },
+    "logistics-management-course": {
+      "id": "logistics-management-course",
+      "preferred": "logistics management course",
+      "aliases": [
+        "logistics management course"
+      ],
+      "count": 1
+    },
+    "cpir-framework": {
+      "id": "cpir-framework",
+      "preferred": "CPIR framework",
+      "aliases": [
+        "CPIR framework"
+      ],
+      "count": 1
+    },
+    "erp-implementation-leadership": {
+      "id": "erp-implementation-leadership",
+      "preferred": "ERP implementation leadership",
+      "aliases": [
+        "ERP implementation leadership"
+      ],
+      "count": 1
+    },
+    "supply-chain-manager-daily-routine": {
+      "id": "supply-chain-manager-daily-routine",
+      "preferred": "supply chain manager daily routine",
+      "aliases": [
+        "supply chain manager daily routine"
       ],
       "count": 1
     }
