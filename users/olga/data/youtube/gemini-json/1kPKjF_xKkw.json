@@ -1,0 +1,276 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "A lot of real estate sales trainer is going to tell you, oh, build the report, don't talk about project, don't talk about sale for the first five minutes on the conversation. I would disagree with that. We have to be precise with our current clients, they don't have time. They understand what we are doing. Oh, are you live in India? Oh, fantastic. Oh, you have Taj Mahal there. No one, no, I mean, he knows what you're doing, you know what you're doing, it's awkward. It will be the time that you will be boring. That's fine. Okay, someone consider me boring."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And get blocked."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will get blocked. I know that. You cannot avoid it. You're going to get blocked multiple times because they're not buying the property. They're buying financial freedom in the future. They're buying education for their kids."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That is the good one. Now, now we talk because now we talk money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, uh, welcome, uh, welcome to this video. That's a first type of kind of a content. Olga is here. You cannot yet see her, but I, I'm pretty sure she's going to become one of the real estate agent. Is this the plan?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "This is the plan. Yes, and there is no way back."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, uh, just before we start, uh, I, I hope you know me, Olga Sinenko, real estate sales trainer, someone who helps you to develop a high income skill and keep earning consistent income in a commission only environment of Dubai real estate. But I came with the questions and we're going to kind of streamline them. I have no idea which questions she wrote, but I will try to be precise. We can then cut that to the short video, so you're going to have a better access to the quick learning tips. Yeah, let's go, fire up."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so let's start the first one. And that I'm still struggling with, which is how to engage with the client. For example, he says, show me the project. What I mean here is when you're approaching a client and the client is not talkative or doesn't show interest."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We're talking about the WhatsApp."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. Doesn't doesn't show interest or it's too busy or name it. So he's very sharp with the answers."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Okay, let let's wrap it up. How to make client engage with you? Because it seems like if he's giving you a short answers, he's not engaging with you. That is all short and sweet answer is, you have to ask him a question. So because if you are just saying something and not asking the question, there is no engagement. So everything that you write about the project, about Dubai or anything, you put the hook inside of them. Does it feels like something which you potentially might be considering if you are with a conversation because it's quite a wrong long sentence to write. But if you are texting, does that make sense for you? Question mark. Boom. What do you think about that? How does that sound? Question mark. So this is an engagement tool."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, are you tired of watching endless YouTube videos and you are still stuck at zero? Then it's time to get a real help. Follow me on Instagram and send me a DM and yes, I read every single one and reply myself. Let's make you money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, answering the question, if he is not or he's asking you, show me the project."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Short questions, same as like, show me this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If we text, it's a short questions. If we communicate or voice to voice, you can ask, does that feels like that potentially might make sense for you? Is this what you wanted to know? As if I am as if I'm steering, you know, the horse."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm steering it a little bit right, steering it a little bit left. I cannot just turn it because the horse going to, you know, actually kick me out. I'm not a horse rider. I'm just afraid of these big animals."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But the idea is, you're kind of testing. He's giving you, oh, that's interesting, or that makes sense. And then you can, okay, out of what we discuss, what do you feel like is the most important for you, Mr. Client? So he is telling you, I like this. You ask him, why you like this? Because of XYZ and ABC. So this is where you're getting into the reason and client understand his own requirements and you understand his requirements. Make sense?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Does that make sense?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, yes, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so now coming back. If the client just telling you, show me the project. Fantastic. Great. Do you know what he means? No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, exactly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Does he know what he means? No, as well. That's why we have to help him and help ourselves. I'm open to show you the project. Oh, what do you think the most important so I can start from that? Boom. Question again."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Mhm. It's like, I give you an example this morning before I come, and the client was like, uh, show me the project. And then I I was like, what is your budget? And he said, show me the project. And then I would tell you. And then, you know, I didn't want to sound rude and I was like, okay, I do understand. Um, still we have a plenty of projects. And I really instead of sending you hundreds or thousands, please just give me roughly how much is your maximum, uh, um, potential payment or name it. And then he was like, okay, then I can go from 1.5 to three maximum. Then I was like, okay, thank you. So now we can talk. Now I understand. I cannot."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But I will still qualify him further. I will still qualify like 1.3, whatever million. Okay, and is this uh available within the first couple of months or is this you can get access to within two or three years? Because the client's going to tell you, oh, I have that much money. But he thinks he has this money and then he has to sell the kidney of his granddaughter and then, I don't know, the mom's and dad's house. So he doesn't have them. Oh, sorry, I have to travel to Xstan to sell the, I don't know, property or production factory of dates. Wow."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "All right. So yeah, that's."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's that answer question."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, this makes a lot of sense."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And really quick, if you are not yet inside my Dubai Real Estate Growth Academy, you are really falling behind. You can find the answers of how to cold call, how to convince client to give you a listing, how to handle the Dubai's bubble of rejection, all in one place. So, it's time to click join now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Which is the my my um insecurity here is like, what shall I ask and how can I get what I want not to make the client bored or overwhelmed?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Very good question. How to not make the client bored or overwhelmed? Ask him questions relative to what your discussion, what you're talking about. I will explain what I'm actually meaning. A lot of real estate sales trainer is going to tell you, oh, build the report, don't talk about project, don't talk about sale for the first uh five minutes on the conversation. I would disagree with that. We have to be precise with our current clients, they don't have time. They understand what we are doing. Oh, are you live in India? Oh, fantastic. Oh, you have Taj Mahal there. No one, no, I mean, he knows what you're doing, you know what you're doing, it's awkward. So, what is curiosity mean for you? Are you a curious person naturally?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So when you are asking the question with a curious tone, and what what do you do you why do you why do you feel that investing in Dubai now is right move for you? You know?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And why now though? You see? If he's saying, oh, but why now though? If you are curious, it gives him a signal again, it's all unconscious human behavior to respond. He's more engaging in the conversation because you are more interested to talk to human who are interested about you, who are curious about you, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Or if someone, and why do you want to invest in Dubai? Oh, I don't want to answer this question really. It's the same question. So, don't worry at this point of time, you are just starting about bored or overwhelmed or being entertaining, forget about that. You don't look for self-validation in the relationship with the client. It will be the time that you will be boring. That's fine. Okay, someone consider me boring."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And get blocked."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will get blocked. I know that. You cannot avoid it. You're going to get blocked multiple times. That's fine. As I said, the earlier that will happen, the better the learning outcome you will have. I cannot, I can help you to, I can give you the right strategies, but execution of this right strategy is going to cause you a lot of mistakes because you cannot execute them ideally because you don't know. But this is learning and doing. Don't worry about that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Great. Now it's all clear. Much clearer. So, the next question is, how to encourage the client for a meeting? What I mean by this is, for example, I'm struggling because obviously people are busy. So, if you're an investor and you have money to invest, you definitely don't have time to chat. But you also have to find time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so let's let me pause you and then we're going to continue. You are coming from the assumption, it's your objection, not theirs. You're coming, I will just, I will just repeat it for you. If you are investor, you are busy person, you don't have time to waste. So I'm asking you, uh, Mr. Client, does that means that you do not take this as a priority for your family, for yourself to make XYZ amount of money in the next five years? Is this priority for you? But if it's not, I mean."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And that's a false belief. I think that this is the most important thing for them because that's how they're going to create themselves a financial freedom. I will explain you why I think that way. I am deep down rooted in myself this seed that I'm helping people, not selling them. Because I know for my 10 years of experience in Dubai, Dubai real estate makes money, for sure. Even if you put a stick in the sand in, I mean."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Bower apartment, anywhere, five years ago, you 100% make money. 100%. So I am coming from the place, I am here to help you to make money. So, it's my responsibility to make you being able to see it that way. So that's why I I I'm not going to get tired to engage in and, you know, chasing, not chasing, yeah, but but really engaging with you. Because I know I can help you. It's okay that you don't yet think that I can help. So if I'm coming from the belief that everyone should allocate the time to build their future in a tax-free environment where they will eventually have a financial freedom to do what they want. Because they're not buying the property. They're buying financial freedom in the future. They're buying education for the kids. You got me? So this is a pre-requisited wrong belief. So let's just shift it. Keep going. Everyone is busy, but still valid, okay?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. So yeah, and basically because I'm struggling to get a meeting, like everyone is just on WhatsApp so far in my clients. Everyone is just on WhatsApp and how shall I engage with them in a way to make them, okay, you know what, I'm interested, I'm curious to know what you have for me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "First of all, let let's put it this way. We still talking about the age leads. So those are not actively experiencing the pain of not having enough money. So they are not really that motivated. So what that means, you cannot convert each and every one of them into the interested one. I wouldn't say the same as a cold calling, but similar. So expectation should be, I can potentially tickle five to two percent out of them. So my goal is here, try to find whom I can bring back to life from the age leads, from the old leads. So that's why I should have a lot of attempts because the age leads, I mean, any company can provide you a lot of age leads. And you are just going through the process of finding the right one. I don't want to say it's a numbers game, but don't waste your time if if the person is completely ignoring you and engaging. I will try to call, if he's a message, send me some options, blah blah blah. I'm like, yeah, I'm open to to share the options with you. Um, what do you feel would be the most important to see in those options? Because I want him to start thinking what is important for him to see and he and he give, oh, I want to see the numbers. He will tell you what he wants to see. He's like, oh, just send me the brochure. And then I will, if he is still on the WhatsApp, I'm like, uh, Mr. Client, I'm sure I'm going to put a bit of humor, maybe a happy face. I'm sure you have a lot of brochures already spamming your WhatsApp. Out of those brochures, it's not much you can understand. But if you thought of what do you need to see? Just for you to even, I'm trying to squeeze the because that's not word to word, so I'm trying to squeeze it in a message. Just for you to see if Dubai or if Russell Hema is even an option for you. So this is the way when I'm pushing him a little bit away."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. I actually agree with this because earlier today, uh, I had this, um, this client that is very straight, just one word, question mark, one word, question mark. And exactly like, exactly what you're saying now, I was like, would you be interested to Russell Hema or Dubai? You know, so and then I still didn't send him any offers, any brochures, because I don't know what he wants. I'm trying to understand. And then he just respond, rack. Same thing. I'm like, okay, great. Thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, at least we narrow down. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then I sent him like W, which is the highest, and I was just like, I'm this is the highest. The the the middle, um, price is this and the most affordable is this. Please have a look and let me know which one shall I follow up with."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And now you're asking me a question, was it right move, was it wrong move or?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I'm just saying what I've done and now I yeah, I need your your opinion because what are you saying now, I can see I first step was the right one, which is kind of, are you interested here or there? Then I understood. But then I send him the three options and now here is I have to wait on him, which is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so let me convert it and put you in his shoes. We don't know anything about him. We don't know how financially literate, how well he understand Dubai, which number was that? Dubai number or?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, it is Dubai number."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so it is Dubai number. We can imagine the person a bit not Dubai. My next step in my sales process is I will never share 32 pages of presentation. No one goes for that. Zooming on the phone, it's horrible. If I will go for the first one, I will never go for the second one. No one has time for that, like really. So what I would do, I will tell my own marketing staff to maximum a two page, we'll format them in Canva by the way, in the readable over the phone format. So I don't have to zoom. I don't need all of this flashy, flashy stuff. I can send the link with a video if I have the project. So then the next thing that I will do after I sent him, the next step for me, because I do not expect him to buy or send me the payment link. He doesn't know what's the next step and you don't know what's the next step. But the next step is really, let me know if you're ready for me showing you the ROI calculation based on past performance and three years of market transaction data."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, that is the good one. Now, now we talk because now we talk money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "ROI calculation. Well, I I supposedly that's what he wants to talk about. ROI calculation based on because every agent going to say, oh, let me show you ROI calculation. I wanted to make it relevant and something that he never seen before, which is ROI calculation based on three years uh past performance. And guys, if we are talking about Russell Hema, I know you're going to tell me, okay, but there is no three years past performance. Yeah, there is no. But there is a lot of areas in Dubai which has a long, long years of past performance, which can be comparable to Russell Hema and can be shown as a potential worst case scenario. I actually going to film a video about that. How to."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it is the same as the sorry to cut you. The same as the statistics of before and after casino in Singapore."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Potentially, we can show this, we can show my favorite is uh Blue Water Islands. For one simple reason, it was a rumors, everyone who've been here since 2015, everyone been under the Jews that the casino going to be opening in Blue Water Islands, it's going to be offshore because it's an island, it's not in Dubai. Caesar uh hotel came and they they had a Caesar branded residencies for, I don't know, five years maybe. Now, is it Caesar? It's a Banyan Tree. But let me ask you those and if you are living in a Blue Waters or owning anything in Blue Waters, does that actually affected the prices of the property in the Blue Waters? No, they skyrocket. Something which been purchased for four and a half, three bedroom, 4.6 million in 2000, I think it was 18. Now is 12. Sorry."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Everything increases."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, there is no casino there. No, none. Canceled."
+    }
+  ]
+}

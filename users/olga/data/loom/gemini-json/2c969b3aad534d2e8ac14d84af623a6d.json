@@ -1,0 +1,828 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "That's great."
+    },
+    {
+      "speaker_id": "2",
+      "text": "the case. So, um, no deals yet. Correct?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, is there anyone close to the deal in your mind?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "All of them. Very close."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, that's good."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But suddenly, but suddenly they're becoming very far."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, and what bothers you in this situation? But it's kind of normal. Isn't it isn't it the same with all of your colleagues?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "For me, you know, it seems like in my mind it's happening just with me, but this is the normal like I'm saying some of the people they're working like long time, let's say maybe seven months, eight months without deals, right? But for me, I'm just like happen this one personally."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you have a sales experience previously?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But that's your first sales experience. Okay. So."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right in my ground."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Which background?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Restaurant, F&B."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, okay. Mhm. Mhm. Okay, interesting. And why you decided to even start real estate?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Thinking it's mine. Honestly saying like I got stuck in my F&B and then in my one place for five years. Just I want to change something. It means that if I would go to different restaurant, it's going to be like everything from the zero. It's it seems like it's going to be different field. But that's why that's why like uh some thoughts came to my mind, just to try this field. Maybe because everyone is saying about this, maybe because of everyone is saying real estate in Dubai. It's like everyone is working, every second person, every third person. And then anyway, I was thinking that just I don't like like what I'm doing right now. I'm saying my passion finished. So I lose my passion in F&B and just I wanted to try something else and it's going to be very good for future growth and there is a huge potential in long-term perspective."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, let's get to the point. You were mentioning that you are feel like you're lacking a bit of professionalism. How do you mean exactly? What what does it mean? Give me a definition. Professional person is and what I'm don't having is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So basically, I think professional person knows everything about the market and uh have answers for all questions. And Okay. Oh yeah, like uh educated, uh have a full information, knowledge, plus sales skills. And then he can close, let's say, any deal. Rightly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, let's step aside from the market knowledge for a moment. I will give you some tips how you can accelerate your learning things, but exactly as you you learned English, right? So, that's comes from you, which is a skill and the knowledge as well, by the way. So it's comes from you trying to read, memorize, repeat, read, memorize, repeat, and your brain slowly, slowly, slowly start to kind of absorb the information differently. So I would say it's very similar to um, in my coaching, I'm always saying, if you're just new starting in the industry, your goal is to drop yourself as a fish into the aquarium that everything you hear, see, read, is about real estate. Up to the point, I'm always advised. I'm going to share that resources with you after. I'm always advising a podcast. Uh, of course, I'm advising my course, which is literally uh, my training session recording where I'm from different angles explaining and ROI, the questions you have to ask, how the people can answer, what you should do instead, like it's not only a theory of the Dubai Land Department bullshit, it's not even there. It's more about the the the how you have to respond when the client is saying this. And I have a training session recording, and I have a role plays and a group coaching session recording. So you, for example, anyone can hear like, I'm giving this information and then the agent goes, yes, Olga, but clients don't like when the people are asking them questions. Well, I cannot ask these questions because I have this pushback. And I was like, okay, do this and this and this and this. And usually everyone has almost the same questions. So now, for you, for the next, let's say, three, four months, I will advise you to delute yourself into the uh, podcast that I will recommend. And as much more YouTube videos as you can have. I mean, doesn't mean that you have to get my course, but you have to hear all the time different perspective, different names in the podcast that I will recommend you. I have no association with that. I always advise to go down to the first episode, which was probably already four years ago, five even. So that means that your historical ladder is going to start from five years ago. So anyone you are talking today, you can share the information with of course five years ago, but there is no other way for you to actually retrieve it rather than to listen to the older episodes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So what you're looking for is a professional which comes from the common sense combining the cause and effects explained by others. What you will do, you will take this explanations and try to understand that and then use on your next communication with the client. Okay? So that's the knowledge gap that that you have. So now about the sales skills, like what do you feel now with the communication with a client? What do you feel is breaking point?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think less confident. Because let's say on the on the some sales, because of my let's say unprofessionalism. Um,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's such a such a generic term. I'm I'm I don't know, maybe I'm biased towards the um, Eastern Europeans altogether, not only you know, post-Soviet Union countries, but we with our education, we were more enabled to have our opinion. That's why we have way more common sense than Asians, for example."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm talking from the So you do have that. Don't professional. Okay. Keep going."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so in uh let's say on the way to close the deal, there is something which will like client will ask, but I don't know the answer. And then I will ruin it. So this kind of responsibility which is on me and uh pressure as well. So I'm a bit scared about it. And like the client is very fragile. But the potential, yeah, but the the deal it's like very important, especially now. So that's why I'm like uh trying to involve as much as many like um professional people who is with experience. And uh this is the client, so the baby I will give to him. And together we will make a deal."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you are now trying to collaborate with more experienced agents and okay to share the commission with them, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Good strategy. I was doing actually the same exactly when I landed here in 2014. Even though I'm coming from the real estate experience, I've been sailing real estate since I'm 21, but that was in a different kind of conditions, a different background. My question to you is, give me an exact example of you said something or you you had no idea about something and that's why the client withdrew. Give me an example."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um There is no such an example."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, is this true or is that your brain is trying to tell you that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe yes. Hello. Maybe yes. Maybe yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why I'm why I'm saying this, I just came back from the I actually going to post that on my Telegram. Are you part of my Telegram or not? I have a Telegram channel."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think yes. I think yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. So, I was just driving from the session, uh sometimes my mentorship clients receiving in-person session when I need to just like."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, and he just told me, you know, Olga, just like, I just feel people don't like questions. And I was like, okay, fair point. Um, how many of your clients told you specifically that they don't like questions? He's like, three or four. And I was like, aha, out of how many? He's like, 200. Mhm. So now we put this fear or thought out of your brain and we're looking at it. And I'm just asking yourself, without I'm going to go a little bit of woo woo because I just come back from Tony Robbins event in Germany. So I'm just all more about like, you know, what is underneath of underneath. So, we don't have to believe each and every thought we have in our mind. Just like, Olga, what do you mean? Like, my thoughts are not truth? No, they are not. Majority of the time, they are not. Your brain is conditioned to protect you because your survival in the thousand years ago, being conditioned by you being overprotected. That's why when you as a human, don't give him another task, for example, go and learn real estate, find the ways to explain why Dubai now is an opportunity. If you don't give him this task consciously, he going to just start pulling whatever information is available and scaring you. You never going to close the deal. Look, the guy never responded. Probably he's already purchased with someone else or he's going to go to another agent. And then you're sitting there paralyzed, but nothing has actually happened. You got me?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, um, Let's do a small role play, because any conversation, as you want to show yourself as a professional, goes down, funny enough, to your ability lead the conversation. But now I'm asking you, Sergey, what do you think, who is leading the conversation?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "There's two people talking. Which one is leading? Like now, who is leading this conversation?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "In my conversation. Now you're the one."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, this conversation. Yeah. Why? How do you understand that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um Because I'm like a student and you're like a coach."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because I'm asking you a questions."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Person who is asking questions, leading the conversation. Person who is answering, is led. So, my methodology and what I teach is based on neuro-emotional persuasion technique. Jeremy Minor is my main influence. I was in his inner circle for one and a half years. So I kind of, he's teaching sales. He's a very big. I don't know if you actually came across him on YouTube or Instagram. Uh, he's amazing. Like, but he doesn't sell real estate. He doesn't teach real estate sales. He just has this methodology which basically works anywhere. I adopted it for kind of Dubai landscape. So, instead of me telling you, I am an agent, you're the client. Everyone thinks, how should I perfect my pitch? What should I say so the client going to be engaged and want to work with me? How can I show him that I'm more professional? Right? Is this the question that you potentially asking?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. No, you don't ask this question."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm asking a lot of questions here."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, let me show you how how that can be changed, right? But instead of like telling you, we're going to do a role play. First, you're going to be an agent and I'm going to be a client. And we're going to, let's say, role play the leads, you you're selling off plan, correct?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that's the leads that are from social media, someone responded to whatever ads is there, and you are having a first call and can you imagine person actually picked up?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So I want to understand what you're doing, take in consideration, I'm giving you a hint, your goal on this call is book a meeting with him, as you know, yeah? You have to book a meeting, Zoom meeting, in person meeting, or anything, right? Are you ready?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You're going to like role play you like really. Let's do that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I I suppose to book a book a meeting room but it's it was occupied so that's why it's a bit."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Doesn't matter. You just don't care about anyone else. People are worried about themselves. They don't look at you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, yes, I'm ready."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hello, you're calling me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, Olga. This is Sergey, property advisor from calling from Dubai regarding your potential interest about let's say by project. Is it correct?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, which project, which project again? I I clicked on several actually."
+    },
+    {
+      "speaker_id": "1",
+      "text": "by project. It's project for community Beach."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. And is this in Dubai because I don't recall the Al Mamzar Beach?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's uh yeah on on the border of Dubai and Sharjah. Completely on the border."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Uh yeah, so can you tell me how much it cost? What are the options?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So we have from one, one and four bedroom apartments. So what are you looking for? One or two bedrooms? Three bedroom."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh well, it depends. I don't know. What's the price?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "The price is uh 950,000 for one bedroom and for two bedroom it's 1.5 million. And for three it's 2.2."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. They're probably one bedroom. What's the payment plan?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "The payment plan is 3070. And uh so it's going to be 10% uh down payment and 4% uh to Land Department."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Do you do you have any other project as well? With a similar price point like on the beach?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not on the beach? No, no, on the beach, on the beach. On the beach, on the beach. Uh-huh. So, where exactly you're looking for?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, to be honest, my main like I wanted to have some something with the water view."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Water view. It's for yourself or for investment purpose?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, eventually maybe I'm going to be coming, staying there for a while, but not not for me to live there, no."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So it's mostly for investment purpose and then for a while like for one, two months you will come here and just to stay and uh go back."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, that would be great."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Great, great. So uh may I ask you what's your budget approximately? Because we have different projects in different location and it depends from the budget, from two million to 50 million, 100 million."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, to be honest, 900 is somewhere around that line."
+    },
+    {
+      "speaker_id": "1",
+      "text": "900. So what particularly you don't like in this project?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, I I don't really like it. I just probably want you to send me the information just to look at it. I just got this um ad and I was like, okay, with the water, with this price, I potentially interested, but I'm not sure if it's even the right project for me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um based on what you said to me which is within your budget and it's the only one project which will have very huge potential because it's first community in Al Mamzar Beach. And it's under price value of it and in this area it's going to be very huge capital appreciation like up to 20, 30% even on handover plus this is the project which is from Al Qasimi family. And uh this exactly particularly project is going to be perfect for investment purpose and uh and user. So the thing is it's very important just do not send you like if you are talking about money, of course. So it's better do not send you some kind of pictures and brochures. Apart of it we need to have a Zoom meeting and we will discuss it about everything and I will show you the project, the growth in that area plus potential of it. Because we are talking about money, right? So I think like pictures and this ads and this advertisements will not give you any information. Because you want statistics and uh full information and you want to see in real life."
+    },
+    {
+      "speaker_id": "2",
+      "text": "If you feel like you're talking more than three minutes, stop yourself and ask a question."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Don't allow yourself to go for three minutes because you don't know what's going on if the person is still there. And instead of like a quick overview, first of all, well done. Um, I pushed you a bit. Send me some options. You kind of were able to overcome it. Um, huge capital appreciation, good ROI, good rental yield, nice ROI, nice rental yield. I advise not to use this because it sounds like nothing. If you want to use appreciation, based on the market data, in this area and waterfront properties, we would potentially expect minimum of 20% appreciation. So this sounds professional. Right? But it's not even that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Based on market data."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You are so focused on money. Why do you think people buy in properties?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "To invest, to for themselves, to live, to give for rent."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But but why? What are they buying? Are they buying square feet? Are they buying price?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "They want to put money in the heavy asset and save their money."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why? This is this is the reason I'm doing this. Why? What's my reason to do that? For what?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "For what? Because it's uh like safety, safe investments."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because I want to feel safe."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah? So, my core teaching, like what do you know about me from this conversation? What you qualified me? What do you know about me? As a client."
+    },
+    {
+      "speaker_id": "1",
+      "text": "As a client. Okay, so basically your budget is one million. You want one to front and you want to."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do I do I have this money? How much out of that do I have? Does that automatically means that I have them? Is this my budget? Is this the full budget? Or maybe just because you're"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Full budget."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but because I'm talking to a stranger, I'm not going to tell you how much money do I have. Of course."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Even you said, even you said it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. So let me let me flip it and you will understand that there is no need even to to know anything about the Al Mansar or anything. Because my goal is to to book a meeting. I gave you several times an opportunity to hook me into the meeting. Because because the people are coming for the meeting not because you want them. We need a meeting. That's what you said. People not going to come because I want us to meet. I want to book a Zoom meeting with you or we need a meeting. People going to come to a meeting and show up if they think that the meeting is valuable for them. And for that, I have to ask them a question. I will show you how to do that, okay? Um, hi Sergey. Um, it's just Olga, um, it looks like you responded to one of the ads and ask us to call you back, possibly looking for help with the investment in uh Dubai project. Did did I get you in a bad time?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm driving right now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Say that again?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm driving right now. Yes, I'm safe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Are you are you safe? Yes, I'm safe."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm safe. Just can you call me after 20 minutes?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, definitely. Uh just before I'm going to call you in 20 minutes, are you are you hands-free? Is is it fine? Because"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes, yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah? Um, just to kind of validate that that you actually wanted to submit the inquiry and actually wanted to know more about Dubai real estate. Is this correct?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, it's correct, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh-huh. Um, and just for us to understand if we actually have it need to have a call at 20 minutes, um, when you saw the ad, like what was about the ad probably that kind of attracted you to look into Dubai market further, take into consideration the current situation in the market?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I just was watching some reels and then I just saw some beautiful picture and then I click on it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. And and what was the reels about on that picture that kind of attracted you? Besides the computer graphics?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's kind of visualization, you know, like motivation, successful reels."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. And if you were to potentially actually look in the investments in Dubai, why would you do that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So I decided to just to have a look."
+    },
+    {
+      "speaker_id": "2",
+      "text": "For tactics, yeah, sure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then I made some inquiries, right? I'm just like looking for a property now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. And beside just looking for the property, what do you want to, let's say, to achieve with this property in the next, let's say, three, four years?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm just looking for now and then maybe when I will have money after two years, I will buy something."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you just looking now? Yes. And then in two or three years, help me understand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will buy something. I will buy something maybe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Probably. Look, of course, if you do you need to understand, is it even for you? But besides just looking, have you kind of while you've been looking, have you seen anything so far that kind of attracted your attention?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, I saw like uh some projects in uh Dubai Hills, let's say. Uh-huh. Okay. But I don't know any information about this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And what was attractive about those projects for you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Like nice community. So basically my target was kind of like to have a capital appreciation and uh to give for rental income. I heard in Dubai. It's uh high rental income but at the moment like I don't have uh much money."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, that's completely fine. And and do you have already some property generating a passive income for you, maybe not in Dubai, maybe somewhere else? Or that's going to be your first investment?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, I don't. I don't have. It's going to be my first investment."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh-huh. And just because I'm always asking brave people who are inquiring now, what kind of make you feel that inquiring now, taking into consideration you're potentially going to look in three three years, is actually the right time?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because uh like some of the friends they told me about this. But some of the friends told me about this but this situation started and I didn't have plan to to buy this year. And then I'm still looking and just to to see like what's going on while I'm getting ready and getting some information. And while I'm collecting money as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course, and just because you mentioned the the understanding about the market and the Dubai. How well do you feel at the moment, you know, the whole process of let's say owning the property, not just you know, putting the down payment and then paying installments, because it's an easy process. But then the legislation around you kind of putting the property on your name, hand it over, potentially renting it out and selling. How well do you understand that process so far?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I understand. I spoke with a few agents so they made for me this uh Zoom meeting and then they explained to me for the areas."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm not talking about I'm not talking about the areas that that the beach that this area is great and that area is great, but more about the legislation uh part where what you will have to do and what additional payment you will have during the process of, you know, construction and then on handover and then while you're going to be renting out the property. How well do you understand that points?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I heard it. I need to there is a down payment and payment plan accordingly and then I will receive the documents. So then I will find property management company and that's it like I understand."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Okay. And and how well do you know which area actually, besides what the agents are explaining you, as you mentioned, um, not the promised ROI, as they say, seven or 8%, but based on the past performance, sales and rental transactions in the area. So that what's, let's say, investment advisors are using to build a future investment plan for their people. How well do you understand which area in Dubai is actually most suitable for your type of investment?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, just somebody send me some numbers about JVC, Creek Harbor, so everything was growing last two years. I saw some they told me I can make like seven to 9% ROI."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And and besides of you seeing someone is sending you some numbers, which probably were truthful. I don't know. Have you been able to sit down with someone and actually see into the Dubai Land Department data, the past transaction for sales and rental, which you can see with your own eyes that it's actually not what someone put in the Excel file, but what actually what happened in the past. Have you have you had that experience?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, I had like one week somebody showed me the the website, the transactions, yes, I understand everything, yeah. Just send me the some brochures, so I will I will check and then I will choose. I will choose which project."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But but based on what but based on what you've seen so far, what do you think is kind of missing for you to even decide if Dubai is the right place for you right now or not?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm just collecting right now information. I'm checking brochures. Just to choose the right project which is right for for me and then in general I'm preparing for the purchase when I'll be ready."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. And what in this brochures, because I'm I'm sure if you've been talking to several agencies, you said, you probably have a spam on your WhatsApp with all of the brochures and 35 pages of PDF files. What do you what do you feel is missing? Because I don't want to be the one of the agent who is spamming you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, this is the right. That's why I have disappearing messages. In WhatsApp."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, what what do you think like what what do you think is missing? Because you keep inquiring. I'm just here to help for you to as as you said, you're not sure even in the beginning of our conversation. If Dubai is the right place or not. But since you already seen the numbers, you already seen the transactions, you understand the whole process of owning the property and additional payments that you will have. Correct me if I'm wrong. Is this correct?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes, yes. Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, from with the knowledge that you have so far, what do you feel is missing, besides the money that you have to, let's say, collect, as you mean, for you to kind of become, let's say, from I'm just looking to, yeah, potentially I'm going to buy in the next couple of months. Is it just the money that you don't have right now?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, money and maybe somebody will offer me something else because I don't have full project. So while um while I'm checking brochures, so it's better for me to understand like what's in the market, what is which area. Also, what is special. Some discounts as well maybe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, So, help me understand. I'm just a little bit confused. Um, are you, because that's what you told me, are you already based on the numbers that the other agents I guess presented to you from the Dubai Land Department, are you already aware of the area's performance and you kind of already choose the area, not based on the marketing promises of the brochures, but based on the real data? So you're not going to regret in the future because you just believe some guaranteed ROI. Or are you still in the process of understanding that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm understanding, yeah. Just collecting information for now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Would that be useful for you, and I don't know, maybe it's not, uh, to book a little bit more time together, where instead of pitching you a project and a brochure, I will help you to compare different areas, show you how different projects by different developers perform in the free four years. So you're going to have more clarity by the time when, you know, as you said, you're going to collect money. Would that make sense for us or you just like a stupid idea altogether?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which which areas you want to show me?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, based on your budget, which I'm going to ask you a little bit more on the question, I will uh, identify the areas which we can look at. Because we are looking for something as, you know, we can look at something ready, we can look at something off plan. It's depends on many variables. But first, I will need to ask you a couple of questions. Are you open for that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm busy right now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Would that be more sense instead of like me harassing you on the phone to book maybe a 15-minute Zoom call where you will see my face, I will see your face. Because why would you tell your personal details to to to someone you never even met? Would that make sense for us?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes, of course. How many minutes you said?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "15. And now I'm booking the meeting. I don't want to go. I'm going a little bit beyond the time and I have a next call."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You you see what I did?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Have I pitched anything about anything? Have I said that Dubai is a great place?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Have I said the prices are growing?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No. But I was so soft."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Huh? You were so so?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Soft as a client."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, as a client, my um, my evaluation about you, you could be a harder client. My evaluation about you, you do not have the money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes. That's I said openly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That that's fine. And I'm not here to sell you because my first, in my sales process, my first meeting is not about selling anything because no one going to buy on the first meeting. It's just."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But you said 15 minutes, right? On meeting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, of course, I'm going to qualify you. So we're just talking. You will not show anything."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will just speak. You will not show anything."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It depends. My goal is to move you to the next step. I definitely going to book a 30 minutes of my time and then if you're going to jump off 15 minutes, that's fine. But what I'm doing on the first in my sales process, the first meeting is educational, specifically for this client who, oh, I don't know, oh, I'm not sure. There is no magic thing, like you, your goal is to empower the client to believe in his own ability to choose a right option for him. Not based on what you told him. He's never going to believe you. But based on what he feels and thinks. And for that, I need him to be open. That's why I was saying, just before you decide, maybe Dubai is not the right place. I said it several times. Why? Because I want to remove the sales resistance. Because if he will understand that I'm going to pitch in Dubai, he's never going to come."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But if you said like you want to show the the data, so I'm expecting data on the meeting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I'm going to open the property monitor, of course. What's the problem? Yeah. I'm going to show you the data."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I understand it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You see? So what I was doing on this meeting, I was trying to find what do you think is missing in your knowledge, in your understanding? What's the reason for even you to come to this meeting? And if you will tell me, I don't want anything. I know everything. I And you kind of said that. It was like, okay, but help me understand. I say, help me understand. Why why are you still searching? Is there something that you Because I know it's bullshit, right? If you have all the information, why are you clicking? You're coming, Sergey, you're coming from the perspective, you don't know clients that well. You haven't had a lot of conversations. I I assume, don't want to push it down. Usually people they're not going to say, oh, I'm just collecting the brochures. Or I just want to have more brochures. I just want to understand just keep keep saying this because that's not really what we want. What they want to understand. That's why they collect the brochures. They don't need the brochures. They want to understand something. That's why I'm saying, but why you're trying to understand? Is it this? The sales process of how much you're going to pay, the legislation around it. And it's usually with a normal client, it works wonders. They say, yeah, I actually I I don't know how to. Or I'm just I'm saying, besides the marketing promise or what other agents are telling you about seven or 8%, have you seen with your own eyes the past sales and rentals transactions, which are showing you which area perform well? This works as a magic spell for them. They're like, no, I'm very interested. So this is the goal for me to attract them with one or two hooks. This is one, this is second. There is no need for anything else. Very rarely. Maybe a golden visa. But it's still legislation process for the property. And then they're coming, they're coming on a meeting. Because despite of what I'm going to tell you, you were trying to tell me that there is no other options. I have to buy this one property because this is the budget that I have."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But in in the same time, like uh I'm scared to show this data on the property monitor."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because maybe I'll do it wrong. Then it will not show this comparison."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Practice. Practice. Go to the property monitor training. They do training every week. Go to the property monitor training and practice. But this the knowledge of the market, you can only grasp when you get an imaginary client and you're doing a presentation for him and you're recording that like, if you were in my coaching, they're going to be a task when you're recording the presentation. There is a structure of how you do it, what you say, how you move them. And this is not presentation in my process. That's actually the questions that they're answering and based on that answers, they are basically selling themselves. Like, when you're going to be watching this recording, when I'm playing the agent, I said, I ask so many times, what makes you feel that now you want to look at to this? Why you decided to inquire now? When you are asking the real clients, this question, they have to pitch to themselves that, yeah, because, you know, I think it's a good time actually because just, you know, maybe I'm going to get a better deal. It's not you are telling them. They are telling themself, they believe it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think it's too many questions."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, too many questions. Correct. It's too many. Because if you're not going to ask questions, was it felt to you like the questions are unnecessary or you didn't want to respond?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You you forced me to respond, let's say."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And maybe I said, yes, okay, so we agree for a meeting, so but eventually like after this conversation, I said like, okay, no, this lady was too much for me. She pushed me, so I will ignore her. Look, I'm not saying that it works 100% for everyone, but I know for a fact, if you're not asking questions with the right tone, in the right time, in the right questions, you're just getting, oh, you have 900. Well, this is the only one project you have. You're always going to have, just send me some options. I never mentioned any project because my goal is to bring you to a Zoom meeting. I'm not going to send you any options. Because I know 99.9% if I'm going to start sending you the options, we're never going to meet. You're gone. Is it? Is it something which is happens?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, send me some options, send me brochure. And this is what what's scary for the agents. It's scary to ask the questions because then the conversation goes out of control. Because you think that you are talking when you are talking. You're actually controlling. When you are answering, you are controlling something. But then you have to ask someone."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But I will say no. I will say no."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But I will say no. I will say no. What do you mean no? Like send me brochure. I will not send anything. I will say no. I will not send you or still asking questions. You you ask me for the brochures. What I was saying?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Did I say I think a lot of agents will like uh make spam of your WhatsApp and then send a lot of brochures apart of it. I know my client tells so well. I have a full profile of all of the type of the clients, avatars, what they want, what they're afraid. Um, I'm talking about not about the agents, about the clients, actual clients. So, whatever I'm saying, when I'm with a client, or whatever I'm teaching agent what to say, the client hearing it and he feels as it's exactly what he doesn't like. Or it just hits home fantastically. Because, yeah, they're spamming me and then they're harassing me and then, yeah, exactly. That's do do you want to have another one doing this for you? No, I don't. So, I'm with them, with the client. And there is some stupid agents who are sending him brochure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Anyway. Was that helpful?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. It was. It was."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I will send you the um, list of resources that you can watch. And I'm not sure if it's even for you. I'm going to do a group mentorship, uh, which potentially going to start end of October and November, specifically designed for agents who are working on off plan, getting social media leads. So, there would be a whole training on the sales process from the first call to the educational meeting, to second educational meeting, to the closing. And besides that, there's going to be a role plays where you role play live with different agents. Some agents who will be able to and not going to be afraid, can bring me the call recordings. So, I will do the decomposition of the call. I will tell them what exactly they're doing wrong and what they should do instead to generate more meetings. The agent will bring me a Zoom meeting recording where I'm going to do a decomposition of the Zoom meeting with the client. Can you imagine? You can actually record a Zoom meeting with a client. With client saying yes, I want to record the Zoom meeting. So, this, uh, is the best structure so far that I've seen. I haven't done that with Dubai real estate agent as a group environment yet. I'm doing it with my coaching clients individually and then I'm bringing them to the group to the role play. So, that's kind of my inspiration. So, is there something that you potentially can consider or"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, it is. Yes. It is."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, for now, promise me that you're going to start asking a little bit more questions. And every you hear someone is having the budget of 900 and wants a waterfront property. You don't have much clients. Don't tell them that there is nothing, there is only one project. Invite them for a Zoom meeting anyway. Your goal is to to have as much more interaction as possible. Even if the client has no budget or nothing, your goal is to exercise volume, volume, volume. Okay?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And Look, you downloaded my script for the off plan. I I I think it's there the invitation, like transition into inviting to a Zoom meeting."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. But on the actual actual meeting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What to do on actual Zoom meeting. There's a lot of things. Well, I have a lot of videos in my course where I teach what to do in a Zoom meeting. I cannot teach you in five minutes what to do on a Zoom meeting. It's just, how you want me to do it? It's just like, Olga, I want to become, I want to become a hair dresser, teach me how to cut the hair. I was like, just. Um, so, again, it's up to you. I do have a course, uh, for the off plan. There is a lot of information there. It's a good thing for you to deep into that. It gives you a different perspective. At least, what you have to focus on is not ask more questions and stop sounding like each and every other person they are talking because they're going to choose you based on how they feel about you. If they feel that you're the same as every other agent, whatever I'm going to teach you is useless. This is the first step. That's why I emphasize so much on the first call. What you do, how you say. Everything I said is scripted from my script."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's that's great. That's great. That's great. So, and then you said, watch a lot of videos, right? Because I might I have a fear about it. About the Zoom meeting and the first. That's why maybe I block it in my mind. It's fine. It's fine. Don't like like so what? You have to break that. Do a Zoom meeting with your friend. Tell them about. Do yourself a Zoom meeting. Record yourself doing a Zoom meeting. And then watch it and understand what you should do differently. Believe me, without even the sales skills up to that any level, you will understand, okay, that's just I need to learn what should I say here. That's what stupid. I have to find out more information about that. People are forgetting the self-learning is available always. It's a little bit longer, of course, but it's possible. Okay? One thing before I go, I uh will ask you to write a Google review for me. Because I'm just crazy about Google reviews. I want to have more Google reviews than anyone else, than any real estate agency. I think I have almost 200 right now. But where?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I will send you the link to my Google. Um, but don't write, Olga is a great trainer. It just gives no information. The same when you will ask for Google reviews for you, ask your client, can you please just mention what was the best of your experience? What I helped you maybe to understand or to find, what was kind of a-ha moment in our interaction, which has a way more value for anyone who is then reading these Google reviews. You got me? So I coach you how to to write a Google reviews. I coach you how to put yourself inside the industry, around everyone is about real estate. And allow yourself to make mistakes. I'm not allowed. You will make them this way or the other way. It's so scary. But it's fine. It's fine. The problem is you think you don't have to be scared. You have to be scared, of course. Who you mean? It's it's very scary. I allow you to be scared. That's great. That's great. Thank you so much. Thank you. It was a pleasure talking to you and talk to you soon. Bye bye. I will send you this recording as well, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's great. That's great. Thank you so much. Thank you."
+    }
+  ]
+}

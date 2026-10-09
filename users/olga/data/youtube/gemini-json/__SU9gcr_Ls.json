@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Could you have a successful 2026 as Dubai real estate agent? What I mean successful is making 1 million in your pocket in the commission for the whole year, which really comes down to like what? 160,000 a month. It's not that much. However, for you to be able to do that is not about one deal, right? Let's imagine you close this one big deal. And then what? It's about building consistent flow of business, creating your own lead generation and potentially conversion and making sure that you build your own black book of investors, someone who will consistently repeat business with you and will bring you that stability that you need for 1 million dirhams. I'm talking about this in the bigger details in my YouTube channel where I have different videos where I answer the questions the agent have. I I train and coach them on how to become a millionaire and you will find the interview with the millionaires in my coaching program who are already successfully got in 2025 1,650,000 in their own commission. So, jump to my YouTube channel. What are you waiting for?"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "But besides the price, what did you like about the project?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What we're doing? We're taking the price away and we're moving the clients to the result-based thinking. So he going to tell himself what he actually like about the project."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And how does this compare to the ideal criteria that you have? We are actually checking if the value that we created within this client is enough to match the price."
+    }
+  ]
+}

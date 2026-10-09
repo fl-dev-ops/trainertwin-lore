@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "is the first. Help the client to understand themselves. What I'm saying, understand what do they need. We all coming into the um purchase process, yeah, the sales process, thinking, oh, the client wants one bedroom in GVC. So that's why I'm going to start showing him one bedroom in GVC. The client doesn't really know what he wants. The client thinks that he knows. Uh, he potentially might understand the outcomes he expects. But your job with your advanced questionability to help the client to realize what type of property, in which location, with which developer, the payment plan, what going to be the ideal option for him. Because before you know that, there is no point even sending him any sales offers."
+    }
+  ]
+}

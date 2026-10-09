@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "If you want to make $1 million in commission only Dubai environment in 2026, you just really have to do this one thing. And I know it's going to sound terrible for someone, but if you want to become a top one agent, you have to be able to do the things that 99% of other agents don't. So, getting to the most important task for your day is 200 dials. You can even make 300 dials to potential clients. You're going to have 200 DMs. You can have 200 conversations, whatever goes your way. But for you to be able to track your success, are you on or off? That's the number which is suitable in 2026 for the agent in Dubai real estate, which is highly recommended. And if you don't know what to say or where to get this leads, you can follow my YouTube channel where I go into deep, deep details of both the communication skills and how to generate leads. See you on my YouTube trainings."
+    }
+  ]
+}

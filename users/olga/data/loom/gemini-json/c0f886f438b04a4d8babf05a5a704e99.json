@@ -1,0 +1,928 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Because I don't."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because I don't I was also talking to my husband saying that okay, I don't see financial results now, but I see different results like those that are building the my foundation where I I'm learning not to be easily shattered, you know, like if there is a problem, I'm learning to be more firm than before."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Being able to go through that to see differently. Um it's not like a giving up, but just to see the problem as as what it is. It's it's just some obstacle, nothing more than that. You just have to overcome it. And I think with Adam that was a good thing. You see, so it was something which started. You put yourself into this first four agents and you one of them and then you almost gave up, but then you keep going. And you see you got to the point that you have another guy who is knowledgeable. Now you had a trouble with him."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, yeah, that was very."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of him being dismissive."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Towards you, which activated."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, it was very."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, which activated a mechanism in inside of you, you know, he was talking to you as a parent. So it's activated a child, not a child, teenager mechanism. The teenager is like, oh, go away, who are you? Just I'm so angry, you know, this angriness is coming from there."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And maybe maybe another you from the past, she would let this feeling of angriness come out and start the the fight. Not the fight, but disagreement, I would say."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But now you're more come down and thinking maybe way longer before you act."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Which is exactly what you want. And this thing, I like this thing with um Sam, because that's going to be very common for you with the clients, with just anyone. How you will overcome this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That what makes you different than others."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And now what you can do as well, you can maybe sit down and think about the deals which fall apart from before. There were a lot of deals that almost been closed. Right? We're almost on the finish line and then something happened."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Maybe. But it never like this type of deals they didn't come to contracts."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, yeah, I'm I'm saying it didn't come to contracts, but they didn't come to contracts for a specific reason."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Maybe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Anyways."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would say now you definitely may feel, I don't know if you more knowledgeable as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, of course, that's a big difference. Now it's not only about it's about the psychology of people like as you're saying. You understand what they what they want to you kind of I understand people more now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And you understand yourself a little bit more, I hope."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Their problem, that's my problem. Yes, myself more, of course."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. I will I wanted I wanted for the next week to offer you um a little exercise when we're going to be working on your um not on your skills, but on your uh character trails. Like being um systematic. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I'm not that systematic, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Right? And the way I work on my trails of being systematic or being um I have all of them. Yeah, being passionate, uh being successful, accepting myself. Um um it's actually all of that. I'm going to show you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you have it on the board."
+    },
+    {
+      "speaker_id": "2",
+      "text": "All of this papers. So basically what is written there, um is a simple formula. First of all, I'm if you're going to be talking about systematic. Um the first sentence that I do is like, I am allowing myself to be systematic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And the next thing which I uh uh write is um what is systematic for me? Some analogy from, you know, from whatever from the world. Yeah, for my systematic I will be doing. Um I have um no, no, that's not systematic. Systematic I'm going down. I'm like um perfect mechanism acting and uh creating um predictable results."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mechanism. Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I am like systematic mechanism working and creating predictable results. So if for myself, and I was like, it's I come up with this. Whatever my my thought process uh kind of bringing it into analogy. So I have to understand what is it systematic for me. And then the next level is then how I will understand how I will manifest that I am systematic. And I'm writing that every time I'm doing XYZ, or in this case, um every time when I'm planning and acting on my plan, I'm becoming more systematic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you see, it's not like, oh, I'm just going to be systematic now. Like, okay, man, but what does that mean exactly? How to be that for you, not for me, because for me it might be different. For you, the way you put it into your, you know, um let's say shelves inside of your brain is going to be different."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, if you want to work on being systematic, every morning I'm coming to this board and I'm choosing one of the um trails, one of the words I'm going to be working on today. And I'm just reading it. I'm just like, okay, that's what I'm going to do. This is how it feels. This is my analogy. That's what I'm going to be focusing on. And that's it, and I'm leaving."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, but here the I need to choose something what I'll be systematic about, like calls or I don't know, let's say Instagram or."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Everything. Everything. You you systematic to be systematic is what you want to train. And you cannot be systematic in one thing and not be systematic in another thing. You see? Because the way you do one thing, the same way you do everything."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, I'm just for me, for example, systematic meaning I'm planning and I'm executing. That's meaning the system. That means that I have a plan step by step, so this is a system for me, and I executed step by step. Not chaotic. Oh, I'm going to do this, I'm going to do that. Like rather than systematic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, it's a bit difficult because I'm I don't know, I've I've always been like that, like having a lot of interest, doing this, doing this, doing this, you know. Now it's difficult in work to do this and this and this according to my plan."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that's why let's uh pick up you do you want to train for next week being systematic?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, of course."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is it something that you or you want to be, I don't know, something else? What do you want to be?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I want to try, of course, to see how it is."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And we can uh develop specific exercise that you will be doing, like for example, calls."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "When you remember in calls, we come up with a formula when there is an hour where you cleaning the data."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And there is another hour."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Where I'm making calls."
+    },
+    {
+      "speaker_id": "2",
+      "text": "When you sending the sending the WhatsApp. And this is what you do on Monday. And through the Monday and Tuesday, you receive the messages."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And on Tuesday, you call those people."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, that's what I also understood that calling every day, I think it is a bit difficult for me. Anyways, I for me calling like maybe three times per week is better than every day."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would say um but you're sitting down and you just calling for 45 minutes, then you have 15 minutes break, then you have another 45 minutes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because stopping starting is what makes it difficult for you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes. When I'm in the process, okay. When I'm in the process, I can do it, but the starting is very difficult. I don't know, it's kind of a way for now, wait on my shoulders. The starting is."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How about how about we're going to we're going to train your reptilian brain and we're going to promise to that reptilian brain which is controlling you in order not to start."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If I start, okay, do it. Just do it. But this. How? How about we're going to promise a treat for your reptilian brain? Whatever you feel it's going to be. Something that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hm?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It doesn't work. Not strong for me."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So the treat is not strong for you. To allow yourself something that you're not usually allowing yourself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not really. It's like, okay, I don't really need it, you know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, it's not about needed, but what going to make you a little bit more happy?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I noticed that it doesn't really work for me. It's just like bribing myself. It doesn't work."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. How about you're going to be starting always calling when you're hungry?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "When you're hungry? I'm hungry. I cannot do anything when I'm hungry."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, not like really hungry, but you haven't been eating for like three, four hours before you start calling. And then you're going to eat after you finish the calls. Just food, nothing special, just food. Have you have you noticed are you eating? I mean, does that food affects your overall being sluggish or not?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, no, if I if I eat like just if I don't become very full, if I am very full, I cannot do anything. But if I'm okay, just a little bit of food, then I can work. Just to produce the hungriness a little bit. It's for me, I can work."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, because it's important to again, train yourself a little bit with something going to be happening after this. It's not a bribing, but even if you consciously not going to feel that, but unconsciously you will."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Should try. Didn't try."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, and do not and do not have any food in between of your meals. Do you have any food or snacks in between of the meals or any soft drinks, sweet drinks?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Just nuts like this, nuts."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. Nothing. Specifically in your condition now, any food which that's why our parents or grandparents were always telling, do not eat before the meal, do not snack or do not do anything. So the thing is, when your body goes uh after the food, on the when you eat, it releases insulin. Insulin is the hormone which helps the sugar get inside the cells. And then there is no food. I'm not talking about chewing food. There is no sweet taste or any taste. So it can be coffee with no sugar. It can be tea with no sugar, with no milk, with nothing. You can have it between the the meals. But if you have any thing with the taste, your body going to release insulin again. So you even if it's a small thing, it doesn't matter. You are in a fat state longer. So your insulin is always elevated. So that's why for people um sometimes it's very hard to lose weight because the elevated insulin and the fat state doesn't let your body to start burning fat for fuel."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So specifically in your condition now, you will have elevated insulin because the insulin is um I would say growth hormone. You not as if it's a growth hormone, but insulin helps your body to grow, get bigger. So that's why a lot of um a lot of females during this period, they have even a condition because they eat whatever they want, uh adding on already elevated insulin, they have like um a diabetes, but this is not the actual diabetes, it's just diabetes during the pregnancy. So whenever they will deliver the baby, the diabetes is going to go away. But it's again about this. Try to avoid anything, completely anything between the meals. To get yourself really hungry, so that when your insulin drops, your body goes into the condition when at some point the glucose, which is a fuel for you, will disappear, and this is when they start burning your fat stores for fuel. Cannot burn your fat stores if you are in a state when you have some food. It's only happens when you do not have any food."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So try this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, notice I need to notice when it happens and then make calls during this time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Only 45 only 45 minutes. Yeah, just just try to to now track because and you know, before I got my nutrition certification, I was like this, okay, so what's the problem? It's just like a small something or it's just piece of apple or it's just piece of this, piece of that. It's not going to make me fat. But in reality, it's mess up with your metabolism overall. Because our body are not conditioned to be in a fat state all the time. Look at the animals in the wild. They eat once a day, maybe twice. And all other time they don't eat. The same our body is designed that way. Because in a wild condition, there is no abundance of food that you can just go and eat all the time. It's not like this. And if even if you give the the food for whatever squirrel and she's not hungry, she's not going to eat it. She's going to hide it. Right? But only what we do to our animals by feeding them consistently and we the same thing we do to ourselves, um actually creates all of the diseases that we do have because majority of them is uh caused by the metabolic dysfunction. Metabolic meaning the way we absorb the nutrients. And this happens mainly because we eat way too much sugar, when we should not enough protein and all other things."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so, um let's focus on that. You're going to be on Monday doing the."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Checking."
+    },
+    {
+      "speaker_id": "2",
+      "text": "One hour of cleaning the data. Then the following whatever one hour or maybe less, you're going to be sending the messages. And then through that time till Tuesday, Tuesday when you usually call. You call after two or you call at 11?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I can yeah, after two, like around 3:00 p.m. I can start calling. Before, I don't know why I cannot. Before I still think, oh, maybe he's busy. This, this, this, this, this. At three, it's my time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How about you again, just to try, just to give it as an experiment. To try to call next Tuesday at 11:00. To do 45 sec 45 minutes at 11:00."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will try. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And when you have this busy busy thought, you can you can wrap it up the same as we discussed. I have an illusion."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Bad people."
+    },
+    {
+      "speaker_id": "2",
+      "text": "People are busy. They're not going to like me. They're going to be upset with me. And that's okay that I have this illusion. That's no problem with it. I can have it. Of course, no problem. What I'm choosing to do instead? I'm choosing to allow people being upset with me. It's not going to hurt me, it's not going to kill me at all. They can be upset with me. That's fine. And I'm choosing to act. Letting the others being upset if they will be upset. But you already had a conversation, you're not calling to someone who never responded to you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then track on the pickup rate at 11:00 and at 2:00. And you will understand which which is better. But it's not like through the one day, it has to be a couple of days."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, of course, it has to be a couple of days."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How do you feel about that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Feel like, well, I have to do this. It's a plan."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But why would you do that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Nothing else to do in this sphere, like it's only calling and getting the connections with people. What else I can do in this? How am I going to generate business if I don't make calls? It's the simplest job I think in the world, just make calls. Really? It is. But at the same time, it's the most difficult one because you work with people and then you face your own challenges."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh my God. But honestly, it's the easiest job you can do, really."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But do you feel now when you kind of dig deeper into that and then you absolutely aware what it takes to be successful? Do you feel that this is still what you want to do?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yes. It's just I understand that I need time to build my character in this. But I'll be honest with you, I was a completely different person like two years ago when I was teaching."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What do you mean? How do you mean?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I was very much softer, you know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Softer than this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Than this. I was much softer. Once I joined real estate, it was a roller coaster for me, especially the six months. Every day I was crying, every day, really. I was coming home and I wanted to give up all the time. Every day. But then I was like, I don't want to go back to teaching. No, I cannot see myself teaching again. And then I go again, I go again. So."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would say, you know, if if if you're open to that, I can give you my observation, come back to the coming back to the question that have you changed and what about your results? Um, in your specific situation, now I know you a little bit more. You haven't had, and you just now having this moment, the like a proper adulthood in terms of you are disconnected completely with your parents. You're self-sufficient. You're renting your apartment. You're paying your own bills. There is no one else there to support you. There is just only you. You see, you never had this part. And this this transition is very important for you to grow up and to see the other people for they are, not to see them parents, not to see them as someone who needs to like you for you to survive. You see? And that's um at the stage of growing up because when we are kids, even a teenagers, our survival depends on, in realistic, is depends on if our parent figures like us. Because if they don't like us, we're in trouble. We are dependent on them. So that this connection and understanding, okay, doesn't matter, I'm not going to die if people don't like me. You see, you you kind of miss that stage. So now you're going through that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes. It's true."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And it this stage is always painful. Always painful."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. That's why I'm just giving myself some time to go through all this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Let's put the number on the calls you're going to do next week."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Calls or conversation? Because it's better for me to have."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Calls, calls."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Calls."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because conversation, you remember, conversation you cannot control. If they pick up, then you will have conversation. If you don't pick up, you can control only how many numbers you will dial."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Let's do 50."
+    },
+    {
+      "speaker_id": "2",
+      "text": "50 for the week."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, calls. Conversations, I don't know how many it will come up to."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, to do 50 calls for the week."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, that's right. Well, but I'm realistic."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How many numbers you have to clean up to get 50 calls?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't know, many."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because some of the numbers they're going to be, you know, non-existing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I might check I last time when I checked, ah, no, it was my data. So, I need to see how many."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you have to you have to come up. There's a new data you're going to be using, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, like not a new data, but the new building that I didn't call."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But you told me you have a new data from uh October."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I didn't no, I don't have from October. I didn't take it. I didn't ask if you have any check."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But why don't you want to ask?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I forgot."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I forgot. I will ask just now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's important."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So for your efforts, just not to be so, you know, wasteful. I'll ask my team leader now. Let's see."
+    },
+    {
+      "speaker_id": "2",
+      "text": "If he responds."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so let's imagine which out of the database you will be calling. So you have 16 four bedroom units."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I will do this. I need to call the four bedrooms."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It connected with these owners. And the building which will be ready by end of next year."
+    },
+    {
+      "speaker_id": "2",
+      "text": "This is the same building as you've been calling as well already from your database. Or a different one?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, it's a different one. When I made blasts last time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. This is new people, new faces."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is this new building has a four bedrooms as well?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, there are only one, two and three beds. There are no four bedrooms."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What's happening with your um Kevin Crew?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Nothing. She's like, I'm not going to do anything for now. I will just wait for the right uh what do you call it? For the right buyer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you know if there are any other agents are bringing her clients?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, she's listed with two other agencies. No, no one brought. She told no one we didn't have. They just inquire and they give me an offer, but no one even came for reviewing. Of course. Who can for reviewing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so they give you giving you a fake offers hoping that you're going to put the price down."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. And when I told her that this property, that she sent me the that somebody sold. She said that I don't know, this agent sent me this. I'm like, okay. A lot of agents can send you different things, but it doesn't mean that it's true. That's it. That was the last conversation we had."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Have you sent her the uh data from Akatia to show that there is no such a deal been registered?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I sent her. I said that her deal is not registered. I'm like, maybe it is under the contract, but it doesn't mean that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, but it's not under the contract because in this system you can see deals under the contract. You can see deals with MOU as well. You can see."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but in my."
+    },
+    {
+      "speaker_id": "2",
+      "text": "If you will go if you will look through the things that I've sent you, you will see that there is a MOU for."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I noticed that. Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What do you want to do with this one? Do you want because there is a strategy. You you want to potentially use your unit to generate some interest and then get a lot of pocket listings which you're going to be then converting into the listing with the documents similar to what she has."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What do you mean?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Do you have any we discussed it. Do you have any other one bedrooms that you can offer if the client will randomly call you about this unit?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but they're much cheaper, of course."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why they why these units are not listed yet with you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's what I don't know. Uh, because they some of them they say they don't want to list."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you do you think that you're going to call make sense to call them now and check what's the price, what's the status, why they even selling?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, of course, it makes sense."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Just to, you know, to work on something that you already have rather than all let's do this 50 calls. Because you have stuff that you can work on. And if you will understand that they are not serious, whatever, that's fine."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I understood because if they are asking the overpriced price, I don't want to even to have that as a listing because I know that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Everyone okay. Everyone going to ask overpriced. Have you ever met any any owner who was not asking overpriced?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think I only had one last year who was good and we closed the deal within one day."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What was his need for sale?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, just because he wanted to buy another property, that's it. It was not like urgent, but we sold it within one day. I mean, we did one viewing, the price was good and we just went under the."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so do you think it's just well, coincidence, luck?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't know. I think my whole last year when I closed the properties, it was just I did only one viewing and we closed. I had several. All of them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's not going to happen now. This year it's not happening this way at all. And it's not happening not only to you, it's not happening to anyone."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Okay. But the off plan sales are still growing, like people are selling, you know. I don't know how they are doing it. Really, I don't know how they are doing it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, I think that these numbers are inflated."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Really?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course. I mean, off plan sales of what? Of Himar? Maybe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of what? Of off plan sales of Ebar? Which off plan sales?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I'm selling the most, of course. I'm selling. So."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Anyway. Let's focus on what we can do. So those who are pocket listings and they are not listed with anyone. I need to convert them into the listings for sure. Give them give them a call and follow the the script that that you know. I know we've been talking, I know blah blah blah blah, but what is the reason for you even, you know, to sell it? Why not to keep it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Why would you sell it now?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "If it's not listed then they're just, you know, trying to I don't know how get how they are going to get the price just by talking to thousands of agents. Send it to everyone. And that that's that's the reason it's like how many offers have you get in the price that you're looking for?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Last time when I was talking, I asked this one woman, right? Like, have you listed it online? She said, I don't really believe in the power of listings anymore. It's all about the your network you are having. So a lot of people kind of start thinking that way that it's about your network. But what do what do they mean? What do they mean that they're saying it's about your network? What do they mean?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "clients already, you have a lot of connections, just offer it to your people. That's what I understand when they say network. You have. Exactly, but you don't need to understand. You're just like, how do you mean network? I assume. It's like, how do you mean network? Because all the people that you know, and I was like, well, I know people who are investors, but investors are looking for in your mind, what are they looking for? Or they're looking for the deal. Yeah, well, exactly. Why? Why do you think they're looking for the deal? Because they're there to make money. But who is the one who has an emotional attachment to the property and who is the one who going to be able to pay a premium? Is this an investor? No. No, it's of course an end user. An end user is someone who is coming on the market once in four years and leaving the market. You know what else? I feel like if I dig deeper into this type of questions, they will say, okay, you cannot sell, another agent will sell. I mean, I'm more than happy that the other agent will help you, but how is it going for you meanwhile? How many actual offers have you received with the price that you wanted? That's it. Like, look, I'm here to help because now in the digital world, everyone is looking for everything online. And unfortunately, the way the Dubai Land Department tied our hand is that we actually not even able to advertise the property on our social media because we need a QR code. So, just believing that through the, you know, when you have such an opportunity now to display your property into in front of the millions of buyers from all over the world, you just want to keep it between the agents. How many pocket listings do they have literally? Why would they work on you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, that's what I I really like this phrases, these sentences you said now. It's very good. It's convincing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's not like look and this it's it's coming from your not believing to what they say. You see? You don't believe it because that's actually not true. I know that and you know that. Because I know that I agree with them. I'm still agreeing with them. Even if I know it's not true. I still have it. It's fine. So, how about the other additional task? Before you're going to be doing this 50 calls is to how many pocket listings of one bedroom do you have?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I need to check. Maybe around I think around 15 I have for sure. The rented ones."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do do 10 calls. Do 10 calls to those ones. And try to have this conversation with them. Just to practice this conversation. You don't care if they're going to say, oh, Arena, never call me again. Okay, fine, no problem with me. Fine. No problem. You don't want me to call you? I cannot call you. Fine. This conversation, this this practice of this type of conversation is extremely important for you. That's the next step. Because you see, the thing is, you got the listing. And now is the hardest part is to do the price reduction. And if you haven't from the beginning as we discussed, put yourself into this price reduction mode. It's not easy to."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I that's what that's what it is like, okay, I'm making calls, I'm getting the unit and I'm telling them like I was telling them, I'll offer this to my client and then come back to you with an update. And I don't have a client to offer this to their overpriced. I I need to call them back and have the conversation again, what you said now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, you want to practice it, let's practice it. You are practicing second call, you're the agent calling me. We agreed that you're going to show the unit to your client. Now you can ask me what's the reason of me even selling the unit because you haven't asked it on the first call. So now you have a little bit more credibility, that's the second time we're talking."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Let's imagine I I list this unit with the whatever, with three agents already for whatever price I want."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so I'll be saying something like, hi, I just wanted to give you a call to give you an update. Um I offered your unit to my investors. However, um it hasn't brought me any any offers that would be attractive to you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How do you mean? What was the offer?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Like you're asking you're asking 1.7. Uh we are not coming to that price because the investors they're giving the offers which are based on the latest transactions and they're within 1.4. Would you consider 1.4 as an offer?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I would not."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All right, I see. Um, you know, like I just want to understand for me, what is even the reason for you to sell this property now? Why not wait until it the price really picks up to that offer that you want?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, well, I'm not in a rush, but um um I feel like if I would get this price now, I can reinvest somewhere else um into other units on off plan and then um, you know, where getting the off plan, I can potentially make more money by the end of that completion of that unit. I think like this one is already getting to the point that that's just the highest possible price."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I just don't agree. And um one moment."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh so have you you're saying you would like to invest into other properties. Have you seen something that you would potentially like to buy?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, you know, I'm just going always with the Mar project and it just um Mar South seems to be um launching a several new options. I I think the location is nice. It's not as good as Dubai Hills, but you still can kind of jump into the cheaper option there."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All right. And do do like the price point for the properties you're checking is it within 1.7? Is it the reason you want to sell it 1.7?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um No, it's just uh, you know, I I want to buy two properties. I want to put the down payment to two properties. That's why it will be great to get the highest possible price from this. All right. And uh when would you like to make the move? When would you like to do that? Because as far as I know, these properties are selling fast. Can I see that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, there is a couple of yeah, you can. There is a couple of things. I'm it would be great if I could do like in a month. But it's again depends. In a month. All right. And um have you been getting offers for your unit so far? Because for you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I mean like agents are saying, calling me saying that they will be able to get me the price, but to be honest, no one got it. No one really worked on that properly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All right. And have you listed it online? I've because I think I haven't seen your property online. Have you considered it? Yeah, I think I'm not sure. I gave the I approved the link, but that's how it feels. A couple of agents. I haven't even checked if they are doing if they are listing it or not. Well, I well, I was just checking the property finder. And um let's say that let's imagine that I saw the property listed online. Yeah, yeah. A property listed online and there are other units listed at, you know, more attractive prices. And let's imagine when the buyer comes to the market, which property do you think he'll go first?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, well, I don't know, probably the the cheapest one."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, and how do you shop yourself? When you go and you want to buy some property or even if you want to buy a car, what do you pay attention to?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, the price is probably the the main thing I'm I'm paying attention on."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, do you think it's the same thing here?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I believe the price is one of the most important things for the property, that's for sure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, so, um what I will say here. Now ask with the with the question that you want. So at this stage, considering all of this, do you think you would be considering a price change at this stage? To help your property get sold."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Perfect. Because the price change he going to say no, but to give him what he want. You see? Like, do you want to do XYZ to receive ABC? Yeah. And XYZ that is something that I don't want to do, but I want to receive things. So this is how we frame it. It's like we're wrapping up it. To help to help your property to get sold and then you can have a chance to invest into other projects. Yeah, we'll potentially can can do that, but I am not I'm not ready to go with 1.4. All right. So what's the price in your mind that you would be ready to go for? Maybe 1.5. All right. So let's list your property at 1.5 million uh and see start seeing the activity on the market. And then if after two weeks we don't get any offers or any viewings, what do you think we should do? Yeah, well, I don't know, potentially price should see what what the the the the other units are doing as well and maybe come up with a bit price decrease as well. Well, yeah, we could possibly do that. So let's have this conversation after two weeks. Let's see how it works with 1.5 and then we could come back to this conversation and have another chat. Is is this fair? Yeah, we can do that. Perfect. You see how you did it? Yeah, you feel it like, okay, now ask the question. Now ask the question. And this question in the end, like, this is it fair? As if it feels like it's hook, you know, you're hooking me. I cannot not answer. You see? I cannot go away with that. And if I will feel that I have still have some objection, I will give it to you. Now. And this is what you're looking for. You want to get with this hook all of the objections from the person while he's with you on the phone to help him clarify it. Rather than he going to be going and just thinking it for yourself. Then I will have this type of call. It's it's look, it's nice. You slowly will start introducing and implementing. That's why I want us to get this um kind of group calling so you can practice with each other. Of course. And you will see how the other person because now you compare yourself with me. You compare yourself with me and I'm just like, oh my gosh, she knows all the time what to say. She blah blah blah blah blah. And I feel like I don't. You see? Which might not be a great representation of your progress. But now you will be with a girl, it's her third week. So you will see how different the conversation will be that you are able to have and she will be able to have yet. You see? Have you been watching into the any script when you've been going with the questions or that was from your head? Now, no, I don't have any script. Perfect. Perfect. You see, you know everything you know everything that you need to say. I understand that now I know what to say. Okay, not perfectly, but kind of start understanding it. It's all about making calls now and practicing. For sure. Perfect. So, we have a task. 10 calls to pocket listings. Yeah. Then 50 calls from new database. For the week. Yeah, and and 16 four bedrooms. Maybe you don't need to call all 16, but you have to contact the 16 numbers or whoever is remaining for the four bedrooms. So that's your task. Simple. Very simple, right? Why brain doesn't want to do that, you know? Why is it so difficult to do it, execute? It seems very easy, just sit and make. What is difficult in it? How about you're going to start telling yourself, it was difficult for me, but now it's getting easier and easier. Because it's true. Is it getting easier now? It's getting easier. Start talking about this. Start talking to yourself that way. Rather than again, oh, why it's so hard, blah blah blah blah blah. No. It was hard and now it's easier. Yeah, right. Because we are the same as what I'm teaching is to help your clients to verbalize with you what they want, why they want it, what the pain they're experiencing because they're going to believe it. Goes the same towards you. Even there is no one there, you're talking to yourself, the same crap. Exactly. If you're going to keep talking, like, oh, it's hard, it's hard. That's what you're going to believe it, that it's hard. Yeah. True. Okay, cool. Any more questions for today? No, for today, no. Perfect. Okay."
+    }
+  ]
+}

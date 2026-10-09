@@ -1,0 +1,24 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "I'm already dealing with someone from your company. There's no benefit for me to deal with you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, that's most common objection, um, can look like, well, I'm already dealing with other agents, or I'm already dealing with someone in your company. If you are the the agent or sales person from the developer, that might be something that you are facing a lot when you're trying to onboard your new agents or uh, channel partners. So, I'm already dealing with someone from your company. I would always say that that's not a problem. Um, and help me understand what with this relationship, uh, are you 100% satisfied with the information, a service, or support that the person is giving you, or would you change something if you could? I strictly uh, prohibit to anyone in my coaching to bad mouth or talk, you know, not negatively about the competitors, other agents, developers, or who workers, right? That's the other agents in your team. It's not, it's not putting you in the best light. So, imagine that this is something that you can fix for the person you're talking with. If he is not 100% satisfied, and by the way, no one is 100% satisfied with like literally anything, that's just a human being. No, he actually didn't respond to my last message, and then I called him, and I was like, look, it's not like I'm trying, I'm trying to step over your relationship with that person, but would that be useful if maybe we're going to jump on a quick call or online Zoom meeting, I'm going to quickly do a presentation for you just to refresh which project do we have, and I'm going to as well add some uh key selling point which I use for my clients to help you sell more. And then my favorite look, would that be useful if we will do that?"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 7,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    },
+    {
+      "id": "6",
+      "label": "Speaker 6"
+    },
+    {
+      "id": "7",
+      "label": "Speaker 7"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "is given by the root of alpha T XT minus 1 plus 1 minus alpha T times epsilon where epsilon is a sample drawn from normal 01. And this defines a first order markov chain is what we saw. So starting from a data point, you keep projecting it onto the latent space according to this equation, this particular equation."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This particular equation and that will quote unquote add noise, right? That is adding noise and slowly because it's a markov chain, the stationary distribution will go to normal 01 is what we saw. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Now, um this encoding uh enforces a distribution on the Tth latent space conditioned on T minus first latent space, which happens to be a Gaussian with certain parameters, mean and variance that is written here. And the corresponding decoding distribution uh is what we call as the model distribution and it is learnable. Okay?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What do you learn is that you learn the decoding distribution, the mean and the variance of the decoding distribution at all time steps T. Now, as we saw later uh in the in in in the lecture that the variance is actually often not learned, that is also assumed to be fixed or known. What is learning, you learn is the mean of the decoding distribution. Okay? Now, how do we do that? We do that using the usual elbow optimization. So for that we started from the log likelihood, wrote down the elbow and uh yeah, did some algebraic manipulations, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And finally, uh what we got was that there were three terms in the elbow. One we called as the reconstructed term where you take the uh first latent variable and try to reconstruct the data. And the second term is prior matching term, okay, which was independent of model parameters theta, okay? And the third term is what we called as the consistency term or denoising matching term, okay? That is what we called as the uh consistency term."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That involved a KL divergence, computing KL divergence between two distributions. One was this Q uh XT minus 1 given XT and X naught and the model decoding term P theta XT minus 1 given XT. So note that uh in the denoising matching term or consistency term, right? There are two distributions, uh one is the decoding distribution, the other is is a sort of reverse of the encoding distribution. Uh reverse in the sense that it is um it's going in the backward direction of XT minus 1 uh given XT and X naught, but yeah. So that is known, okay, but had has to be computed. It is not uh uh trivially known, we have to compute that distribution. So what we did was uh we wanted to compute that uh consistency term. For that we need to compute the uh known reverse uh distribution that appears in the consistency term and uh we use base law, right? And uh uh the fact that all of the involved distributions are Gaussian distributions, completed the square and uh finally we yeah, took two things. One in the uh while we are computing the uh known term, okay, known denoising term in the consistency loss component."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We we encounter terms like Q of X T given X naught, right? Where uh uh where XT is the Tth uh latent uh vector and X naught is the data. So now we use recursion to find this Q of XT given X naught, right? Uh using this argument and finally Q of XT uh given X naught still happened to be a Gaussian with parameters denoted by alpha bar X naught and uh yeah, parameterized by alpha bar X naught where alpha bar is uh the one that is defined here, which is the product of multiple all the alphas till the time T."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So using that uh and the fact that all of them that are involved are Gaussian distributions, completed the square and finally found out what this uh the known denoising matching term was, right? And we called uh we called that as a Gaussian distribution, we found out that it was a Gaussian distribution too with a mean uh denoted by this mu Q and the variance denoted by sigma Q. Okay? And uh the sigma Q uh was simply a function of um uh T, okay? Uh that had nothing to do with uh any parameters, it was a function of T and we wrote that as small sigma Q square T times identity and mu Q uh was a function of uh XT and X naught, okay? Which can be uh computed, which which is known and can be computed. Okay? Now, having P theta, okay? We have to we can now finally compute the um denoising matching term or consistency term, which is a KL divergence between two Gaussian distributions. Okay?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Now, uh the KL divergence between two Gaussian distributions has a deterministic form, okay? We use that deterministic form, which is KL divergence between two Gaussian distributions and finally found out that the denoising matching term will involve uh difference computing difference between uh two means, okay? One which is the mean of the uh backward or the decoding distribution mu theta at XT and the other term was the mean uh of this uh known denoising term, okay? mu Q computed at XT. That's what we saw. Any questions on this so far?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, hope I'm audible."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, sir, audible."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So then what we did was while we can actually stop here, okay? Uh and uh uh and we can implement uh uh DDPM this way, as I said, no, uh in the literature, uh people don't uh uh use this formulation to implement, but they rather reparameterize uh the uh they parameterize this particular uh thing uh using uh uh in terms of uh the epsilon or the noise that is added, okay? That is what is implemented. So we saw that reparameterization as well. So maybe I will do it again. We did it in the last class, no? Let me do it again, huh?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So we'll assume that uh we know that the elbow now has uh uh difference uh between the means of uh uh mu Q uh means means mu Q and mu theta. Okay, let us take it from there and do it, huh?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Now,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "This was what it was and we showed that that Q of XT minus 1 given XT and X naught was a Gaussian distribution. The mean we called as mu Q, okay? Uh and the variance was sigma Q. Right? And mu Q was a function of XT and X naught. So given XT and X naught, you had this mean to be equal to root of alpha T into 1 minus alpha T bar times XT plus root of alpha T minus 1 bar into 1 minus alpha T into X naught divided by 1 minus alpha T bar. See, note that uh the denominator is actually a constant, which is a scaling factor. So basically, it's a linear combination of XT and X naught, that is what this mu Q is, right? So now, okay. Now if you recall, uh using a recursion we showed that the Tth latent variable XT, okay? Can be represented in terms of alpha T bar, okay? represented in terms of X naught, right? Alpha T bar into X naught plus root of 1 minus alpha T bar into epsilon. Do you remember this? So we use recursion and showed that uh XT can be showed uh in terms of uh X naught and the noise added epsilon, correct?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "This implies that now mu Q, okay?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Your screen is stuck."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes, sir. It's lagging, I guess. We don't see the board."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Hold on, see, let me do one thing. Let me just use my phone internet to connect, huh? That should be better. Give me a second."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do you see the screen now?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "No, sir."
+    },
+    {
+      "speaker_id": "6",
+      "text": "No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What's happening? I just changed my internet to my phone internet."
+    },
+    {
+      "speaker_id": "7",
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "7",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sir, are you waiting?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Please tell me if you can see the screen. Whenever you can."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's visible?"
+    },
+    {
+      "speaker_id": "7",
+      "text": "Yes, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hopefully it works. Yeah. Sorry about this. As I said, I've come to my hometown and internet is not my standard one. So some issues. Okay. So what they were doing is that expressing this mu Q, okay? Uh in terms of X naught and epsilon, right? This mu Q now can be expressed in terms of X naught and epsilon. Okay, so this is the recursion that we wrote. Sorry, XT is expressed in terms of X naught and epsilon, which means that I can write my mu Q now in terms of this. So I write this as root of alpha T into 1 minus alpha T bar times XT plus root of alpha T minus 1 bar into 1 minus alpha T, okay? Now, this implies that here I can write X naught, okay? Uh in terms of XT and epsilon, right? XT minus root of 1 minus alpha T bar times epsilon divided by alpha T root of alpha T bar, right? So, which means that this X naught which is there in mu Q, I can replace that with this thing now, XT minus root of 1 minus alpha T bar into epsilon divided by root of alpha T bar, right? This entire thing divided by 1 minus alpha T bar. Right? So I can I mean, what did I just do? XT can be reparameterized in terms of X naught and epsilon, which means that X naught can be reparameterized in terms of XT and epsilon. So mu Q now, uh the X naught in mu Q now can be written in terms of XT. That is what was done. So I will skip the algebra. If you uh re-iterate the terms and group them and modify, what will happen is, finally, the mu Q can be expressed 1 1 by root of alpha T into XT minus 1 minus alpha T divided by root of 1 minus alpha T bar into root of alpha T times epsilon. Okay? Yeah, so this is simply by rearranging the terms above. Like that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay? That should be okay, right? I mean, what we did was, we uh mu Q was written in terms of uh XT and epsilon. Is that all right? Okay. Now, recall that the P theta of XT minus 1 given XT, the one that we had, what was that? We assumed that to be a Gaussian with a mean mu theta and variance was exactly equal to sigma Q, right? We didn't want to change the variance, the mean was mu theta. Correct? Right? Now, this mu theta now can be expressed as follows. minus alpha T divided by 1 minus alpha T bar into some epsilon theta cap. Okay. So now this is something which is subtle. If you understand this, then we are done. Okay. So what did we do? We expressed the mean, okay? Of the decoding distribution in terms of XT and some epsilon theta cap, okay? Uh that is to be learned. We will say that this epsilon theta cap is learnable. Okay. So what did we do here? See, note that uh any Gaussian distribution, right? Uh can be expressed in terms of any other Gaussian distribution just by scaling and shifting. Correct? Do you do you agree with me on that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That is reparameterization, right? So you if you are given a particular Gaussian distribution, you can always scale and sample from a particular Gaussian distribution, you can always scale and shift the sample of that particular Gaussian distribution to make it into any other Gaussian distribution. Do you agree?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, am I audible?"
+    },
+    {
+      "speaker_id": "7",
+      "text": "Yes, sir. Yes, sir. You're audible. Yes. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So you agree with what the statement that I made, right? Any Gaussian distribution can be expressed in terms of any other Gaussian distribution. Now, this P theta of XT minus 1 given XT is a Gaussian distribution with a certain mean mu theta. Okay? Now, what we did was, we just represented that mean in terms of XT, right? Which is a constant, right? And some sample from a Gaussian distribution, uh epsilon theta cap with some scales and shifts. Now, I can always find an epsilon theta, right? Uh which when scaled by this particular scaling factor and shifted by 1 by 1 by root of alpha T times XT will give back my mu theta. Do you agree? So, what I'm trying to say is, if you scale and shift uh a particular Gaussian distribution, right? You can always learn the scale and shift factor so that you can get back to the original Gaussian distribution. Is that is that all right?"
+    },
+    {
+      "speaker_id": "7",
+      "text": "Yes, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So why I mean, then the next question is, why did we even have to like introduce these random scale shift? This is just to make the loss function look nice, that's all. Okay? So there is, in fact, you know, I can just write this as mu theta and mu Q minus mu theta can be written as this, this entire mu Q that we have minus mu theta, right? It doesn't matter. But people generally write it this way to ensure that the final loss function that you see has a nicer form to see, that's all. There is no other sanctity to this, huh? What I'm simply doing is, uh deliberating all the learnable things, scale and shift into this epsilon theta, that's all. Okay? So with this, what will happen is, the the loss that we had, no, the KL divergence between Q of XT minus 1 given XT and P theta of XT minus 1 given XT now simply became, let me just write proportional to because generally the constants are ignored. It became proportional to, this was initially, uh we had a sum here from T equal to 2 to capital T mu Q, which was a function of XT and X naught and there was mu theta now, which is a function of XT and T. T because there is an alpha T there. Okay, this is what the last term was. And this we saw was now equivalent to all terms being equal. Let's call this as epsilon T. Okay, I think this is better to write this as epsilon T because the Tth sample, right? I mean, Tth noise sample that was drawn to make X naught XT. It's easier to understand. Okay, this is epsilon T and you have epsilon theta cap. Just to make it look this elegant, no, this mu Q, sorry, mu theta was reparameterized in terms of XT and those constants. Finally, this is what it turned down to. Is this all right? So when you are implementing a diffusion model, right? A DDPM, all you have to do is implement this loss function. So this becomes a regression problem, right? So this is a regression over epsilon T. Let me explain that more. Regression over epsilon T. Okay. Any questions so far? How did we get there get here? Before I move to the implementation nuances."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, am I audible? Any questions here?"
+    },
+    {
+      "speaker_id": "7",
+      "text": "Yes, sir. You're audible. Yes. We are here."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No questions? Okay. Right. Okay. So this is what it becomes. So now the next thing is, how do we implement this in practice? This is implementation."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So now what are we given? So given, so I will show it for one data sample, no? You have to do it again in batch. Given X naught, this is a sample from the data distribution. From the true data distribution. Okay? What is to be done is that, then, first what you do is, uh sample T, okay? Uniformly between 2 and capital T. So, what is done in practice is, this sum that you see here, no? Uh from T equal to 2 to capital T, people don't do it on uh like all T's and take a sum of it. They do a uniform sampling of uh some some subset of uh T between 2 and T and then do it. Okay? So typically, it's not they don't take all T's because of computational complexity. Some T is taken, okay? Sample T, uh uniformly between 2 and capital T, okay? And you obtain XT, okay? As and you also have the alpha 1 set. Set alpha 1, alpha 2 up to alpha capital T. Okay? So you fix this. So typically, it is fixed at uh uh a schedule that uh 0.98 and so on, 0.9. Okay? Uh this is again, this is an example, but yeah, so you should set alphas this way. And you obtain XT uh using this equation, right? Square root of alpha T bar times X naught plus 1 minus alpha T bar into some epsilon T where epsilon T is a sample from normal 01. Is this all right so far?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So once you have this, what you do is the following, that you build, construct construct a neural network parameterized by theta. Okay? So this neural network typically will have this architecture, which is called the unit. Okay? So now it is called unit because note that finally, what we need is a regression over epsilon theta cap. Right? Because our loss function is this, right? We want an estimate of epsilon theta cap. Now, uh we know that the dimensionality of epsilon T is actually D, which is the data dimensionality. Okay? Now, uh when you have regression tasks, okay? Uh where the output is same as that of the input and especially when you are using image kind of uh data, the standard architecture that is used is this sort of an architecture, which is called unit. The name unit is given to this is because it looks like a U, right? U. So you start from D dimensions, okay? Keep reducing the dimensions and then you come to some bottleneck D dash and then you increase the dimensions and finally, you get back to the D dimensions. So that's why the name unit. Okay? So now what does this take as an input? So you please note here that the mu theta that we had, in fact, this epsilon theta cap now will also become a function of XT, right? And T. Obviously, right? Because that is the scale and shift and uh that's what a function of mu theta. So this unit will take XT, which we have obtained and T as an input, okay? And it is supposed to uh output epsilon theta cap, which is an estimate of epsilon T that we have used to get XT. What is the loss function? The loss function is simply the difference between, note that both of them are vectors of size D. So you can easily compute this. That's all. So this is the loss function. You need to compute the gradient of this with respect to theta and then back propagate it. So this is all it is, right? I mean, you do it for multiple T's. Okay, in fact, I mean, ideally, you should do it for T equal to 2 to capital T. Uh typically, what is done is, I mean, T is fixed to some 1000, right? 1000 or 2000 is what is done. So instead of taking 1000 XT's, uh people typically take some 50 uh XT's for a given X naught. Okay? And then train it. And again, for you take another sample X naught, input sample X naught and you sample some other subset of T and do this. Now, how do you give T as an input to this unit is something that I'll talk about in a while. But yeah, so other than that, is the training procedure for DDPM clear? See, one other thing that is to be noted is, uh unlike in VAEs and GANs, right? Where the final inference uh happens to be just a forward pass through the network that you have trained, here, here, the inference is not through this network. We will see that in a while. What I'm saying is, this network will not give you a new sample from the data distribution. Do you see that? Unlike in a GAN and a VAE, where you just take a Z, right? And pass it through the decoder or the generator, you get a sample from the input distribution, right? A new sample from the input distribution, that does not happen in a DDPM. So I will also talk about how to do inference in a DDPM in a while. But is the training procedure clear? This is what you're supposed to implement in your in your assignment. So let me know if this makes sense, otherwise I can explain more."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh sir, when we are taking a X naught, uh sorry, I have a question, sir. Can I go ahead?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, please, please. Yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh so when we take a X naught, uh the T uh for every X naught, the T has to be a fixed length, like the sample that we are taking."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh what do you mean by that? See, you take one X naught, right? One X naught, suppose you are doing this on some data set, right? Some image data set. X naught is one sample from the data set, one image. You take one image. For that one image, you get uh all the noisy versions, no? Latent versions, X1, X2, X3, X4 and so on. For each of them, you do one one training through this unit."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "6",
+      "text": "So is it one or more than one for for a given data point?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh because the loss function has the sum across all T's, no? Okay. Yeah, but here we we don't take all T's, but we take some samples from 2 to T. Practice, yeah, in practice, uh capital T is, see, capital T is fixed at 1000, okay? But while training, you do a random sampling, uniform sampling between 2 and 1000 and do it. That is how it is done. This is for one X naught. And you need to do it for all data sets, all data points, no? That will that will be one epoch. And you do multiple epochs of training, usually training. Is that all right? And epsilon, epsilon T is just a sample from a normal 01. Yes, epsilon T is always a sample from normal 01, that's all. So for you when you obtain XT, you take one sample from normal 01. See, last class we saw that, no? It is simply one sample from normal 01, but the the the information about T is encoded in this alpha bar because alpha bar is product of all alphas from 1 to T, isn't it? You have to uh actually, there is one other step here. You have to compute alpha bar T, right? As a product of I equal to 1 to T alpha I. This is how we defined alpha bar, no? For every T, you have to define alpha bar this way and get an XT, then pass it through the unit, predict whatever is coming, compute the loss, back propagate. Is that all right? Any other questions on training?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so I have one question regarding the training of the network itself in the first place. So I mean, what kind of issues can we anticipate while training? Just some practical things."
+    },
+    {
+      "speaker_id": "1",
+      "text": "DDPM training is not that hard. Uh I mean, that is why these are state of the art generative models these days because they are pretty stable, okay? Uh one thing that can happen is that if you don't sample your T properly, then the underlying distribution might not be learned. But if you do good enough sampling, I've seen that in our experience, these networks actually work pretty well. Unlike in a GAN, right? Where you have this saddle point problem and you have the mode collapse, etc. Those sorts of issues do not generally uh arise with DDPMs. Okay? And after how many epochs we can expect uh to get a good generation quality?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That depends on data sets. You can track the loss, right? I mean, this is a regression loss. So whenever the loss is uh converging and reducing, that is the point where you can perhaps stop. Depends on the data set. It completely depends on the data set and the architecture, how deep your architecture is. There is no common answer for that. Okay. So any other questions on inference generation?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No questions? Okay. So now I think you can implement it, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Okay. So let us move on quickly then. So this is about training. Let me talk about inference in DDPM. Suppose you have after you have trained this, how do you generate images? Okay, let us look at that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So what are we given? So we are given uh the trained network, okay? Epsilon theta star. Okay? So this is the trained network. So now what we need to do is, we need to sample from P of X naught. Okay? So we need to sample from P of X naught. So how do we do that? We do that by starting from a random noise. Okay? So we start from a random noise. So we start from X capital T, okay? Which is a sample from normal 01. Okay? So we start from a random noise. And then we run the reverse process. Okay? So we run the reverse process. So what is the reverse process? The reverse process is P theta of XT minus 1 given XT. Okay? So this is the reverse process. So we need to sample from this. Okay? So we need to sample from this. So how do we sample from this? We know that this is a Gaussian distribution. Okay? So this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution. So we know that this is a Gaussian distribution."
+    }
+  ]
+}

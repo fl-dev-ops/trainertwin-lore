@@ -1,0 +1,316 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "on how to become a top real estate agent."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How much, you know, money that will be generated into your pocket?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "On Monday, basically I went to the office. Nobody knew who I was. I was giving a database. By this time, I realized call calling is illegal."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What changed for you in terms of, you know, understanding the market?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What I liked is your confidence. I had no idea about Dubai."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How to move to Dubai and change your life completely if you are already like Walter, a little bit more than 35. Uh, in this video, you're going to know all about the starting from scratch from someone who done it several times actually. Yeah, because Dubai was not your first destination where you moved to Ecuador, you moved to Oh, but he going to tell about this himself. So, Walter."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Tell me, tell me about your um, like overall life journey. Which countries you've been living, working, building businesses?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Sure. Well, I graduated from high school and that that long ago. Yes, and I traveled to United States to study mechanical engineering. Okay. After that, I started working in the oil industry and I worked in South America in Ecuador, Colombia. I was transferred to Scotland in the UK. I spent several years there and then I moved into Asia and then back to South America."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you've been like all around the globe."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All over the place. Yes. So, basically, I've been doing the oil industry for several years. Then after that, I started doing my own entrepreneurial projects. Okay. I went into construction."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Was that in"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That was in Ecuador. Ecuador. Yes, when I went back to Ecuador. So, I had a construction company, I have an import and export company as well. I haven't mentioned that too much. Then I was into broadcasting, radio broadcasting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That you haven't mentioned ever."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, the thing is that my father passed away and I had to take charge of the family business and that was one of the businesses that we had. Okay. So, that was very interesting for me. I used to love that business. It was very competitive, very difficult and uh, I learned a lot about it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so you moved in Dubai, uh, with which kind of idea and from which country?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I moved from Ecuador to the United Kingdom because we wanted a safer place for my family. When I was in the United Kingdom, I was looking for opportunities where I can invest, what I can do. And uh, then of course, you know, the situation in Europe is very difficult right now, the high taxation in the UK. So, the opportunity came to me to move to Dubai. And I thought, okay, if if I'm going to be investing, where am I going to invest? Am I going to invest in the United Kingdom or Dubai? And uh, logic says follow where the money goes. So, I came here."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you've been all of that nice entrepreneurship/work career budget. And you came in Dubai to Dubai, yeah? Is it to Dubai?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I came to Dubai, yeah. English is not my first language."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm saying here. Okay, so you came to Dubai, uh, a year ago, a little bit more?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, it's about 10 months."
+    },
+    {
+      "speaker_id": "2",
+      "text": "10 months. Okay. So you landed and how you end up being a real estate?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Uh, before I came here, basically I was contacted by uh, head hunters and uh, they asked me if I was interested in coming to Dubai into real estate."
+    },
+    {
+      "speaker_id": "2",
+      "text": "If you are still watching a free content and and wondering why you're not making money, it's because the free content, even like this, doesn't build your system. Follow me on Instagram where I actually reply myself and we will figure it out what's actually holding you back."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you out of the blue with your LinkedIn profile, they just contacted you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's correct."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, that's a good point for all of the recruiters who are thinking, we do not have people to reach out to. Just anyone who has a quite significant experience and travel the world can be a real estate agent, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. So, I replied to them and uh, in about one week I had about three or four interviews if I remember. Then we selected two companies. Out of those two companies, I decided to sign with one of them. And one week after that interview, I was in Dubai. Because I thought, you know, what do I do waiting more time in the United Kingdom? So, I just said, okay, here are the keys for the the bedroom that I was renting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And uh, then I just packed and I moved in here. Okay. About one month later, you know, they sorted out my visa and everything else and uh, I was working in real estate in Dubai."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So tell me about your point A coming into Dubai. What was that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Point A, you mean like"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The the beginning, like you are with a new company, you landed. Fantastic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. I arrived uh,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "What you what you understood regarding like compare what your recruiter was telling you or the reality is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. I was excited when I arrived. I came to the airport, I took the taxi to the accommodation I I have rented. And uh, it was great to see the buildings and everything uh, about Dubai, everything modern. So, very excited. I saw this is the land of opportunities. Then that was on Friday. And on on Monday, basically I went to the office. Nobody knew who I was. I was there, so it's like I introduced myself, then the manager came later and uh, introduced himself and uh, told me where I should sit and uh, basically we're going to do some training. And uh, they were always busy, so the training lasted two weeks. It was very informal. And uh, so I said, okay, maybe it's a new company, they are getting organized and uh, just go with it. After the training period, basically I was told, um, which area would you like to focus? And uh, I was"
+    },
+    {
+      "speaker_id": "2",
+      "text": "By the time in two weeks, you have a pretty much good idea about each and every area of Dubai, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, that's what I want to say, you know, like I was lost. You know, I arrived here, I had problems, you know, with accommodation I already rented, it was the wrong place. I didn't like it, but I already signed for one month, so I had to stick it. And uh, then it was what what what was happening at work. So, I was supposed to decide which area of Dubai I want to specialize on. And uh, I have no idea about Dubai. I didn't know which areas are the ones that are moving on, the ones that are generating more money. I was given some training about how to use a property finder, uh, property monitor. And then uh, doing some research, I checked certain areas which I like and uh, something that uh, vibrated good with me. I like Emirates Living. And I selected the area, the Meadows. I was focusing on that area. That was great because I like the lifestyle, I like the type of houses they are. I thought I can probably relate to the people coming and looking for houses there. So, that was great. Now, into practice, going into practice, I was given a database and I was told you have to call and you have to get the houses that you want to sell or rent. So, okay, so I said great. I've never done cold calling in my life before. So, in my mind, I was looking for excuses to delay the process. So, okay, I need the right microphone, so I go and get the right microphone. I need the light, the the right uh, headphones. So, but everything was just excuses to delay the process. And uh, there comes the point that you cannot delay it any longer. So, you have to start doing the cold calling and then I started. And uh, by this time, I realized cold calling is illegal. So, you shouldn't be cold calling. You can get a fine of about 50,000 dirhams if you do cold calling. Cold messaging, you know, I try to do some cold messaging, everybody else was doing and uh, I lost my WhatsApp about three or four times. You know, like they lock you out for one day. And uh, you could probably permanently lose it. So, I had to do all of this, uh, first of all, I didn't like doing the cold calling, then there was the fear if you get caught doing cold calling, you're going to pay 50,000 dirhams. And uh, then I didn't know how to do the calling. So, I started watching some videos and trying to learn how to break the ice and uh, then you go for it. So, I started calling and then it's like you get like, who are you? Why are you calling me? How do you get my phone number? And it's like, uh, you go, I'm sorry and uh, I won't bother you and uh, just hang up."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so let's wrap it up. How many listings have you got?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "How many listings out of, let's say, couple of months that you've been actively doing cold calling?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, okay. That was difficult. After two months, it wasn't that many, you know, like probably I got uh, three, four listings."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, in that area, I would say that's a reasonable amount."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That was But I heard that you have to have at least 15 to 20 listings if you want to generate business."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, yes, but that's happens over time. So, where are the listing with the documents that they allow you to list the property on on the portal?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes, yes. So, that was but that was uh, very difficult."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Have you got any leads out of that listings?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No. No, very few because it's like, uh, sometimes you you put the listings, but the people that are calling, they're looking for something else. So, sometimes you have the property, but you don't have the right buyer for the property. Or sometimes you have the you have the buyer, but you don't have the property. But nobody tells you what to do. So, I started guessing that maybe I should be dealing with other agents, you know, and uh, see what we can do. And uh, you start increasing your network and try to work with other agents to be able to offer some stock that you don't have it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And before you messaged me on LinkedIn, because that's that's how we met. You've seen my post, I was talking about training or what was the the trigger point for you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, I saw you, uh, I saw you on a video and uh, what I liked is your confidence. You know, you came out as very confident. I was very concerned about speaking because English is not my first language. I am concerned about my accent. I was concerned about my accent. So, I wanted to do everything perfect, you know. And waiting for perfection, which I was not going to achieve it, I was waiting all the time before I actually do things. And when I saw Olga doing the videos, she didn't care, you know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "With your unperfect English, the angles, like"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, it's just the way you were shooting the videos, you know, you were you were just doing it at the moment. So, it's like I was very impressed. And then I spoke to you. I liked uh, your approach. I wanted to hear and I wanted to learn how to do uh, cold calling. That's how I am. So, we got connected."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So we got. So we got connected. So anyway, long story short, Walter is now working in the company where I currently do the training. He's in my six month, uh, uh, coaching, uh, coaching program. So let's say being more or less four months right now into the coaching program. What changed for you in terms of, you know, understanding the market, being able to talk to people or those kind of factors which were holding you back when you just started?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. First of all, I understood that you cannot change the process. You have to understand the product you're going to sell, so you have to learn about the city. You have to learn about real estate, about uh, the laws over here and uh, you know, that takes some time. Okay, so you have to do that. Then, uh, what was important for me with the with Olga's training was to change my um, my mind, the way I was thinking about doing things, that uh, you know, you're never at the point where you're perfect. You just have to do it and improve all the time. And I think uh, that helped me a lot with this course because you see Olga, she's not perfect. She reminds me of this beautiful uh, KBG agent in one of those James movie, uh, James Bond movies. And it's like, uh, all of a sudden it's like she's you're sitting there, tied up, a cold of water on your face and uh, answer the question."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Answer the question. Walter, do it again. Pause, Walter, that's the wrong question. Ask."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, so, for me it's uncomfortable, but it's something that I have to face it because it's like growing means that you have sometimes to be in the uncomfortable position of doing something new. Because if you continue doing the same things over and over, you're going to get the same results. If you want different results, you have to change. And I think uh, Olga as my coach is doing that for me. So, sometimes we have like this uh, relationship where it's like uh, we push each other, you know, and it's like she's pushing me and I'm holding back."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You just hate me at some point, right? Because I always love you, but you just hate."
+    },
+    {
+      "speaker_id": "1",
+      "text": "At some point, uh, you know, I'm wondering, am I doing the right thing? Should I continue here? But yes, I have to continue here because it's like I'm learning a lot. And uh, thank you Olga for uh, for your coaching."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, but the biggest thank you could do is you close any deal, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's correct. So, for me what's important, what's changed is that I started closing deals. I have more clients in the pipeline. I feel comfortable uh, with the clients, you know, I know uh, how to answer certain questions. I'm still learning how I'm improving. But basically that. Also, you don't close these deals on the first day, you know. We're talking about people investing anything between 4 million dirhams to to higher higher amounts. And you don't expect them to come and uh, do that within the first hour of conversation with them. So, you have to be you have to advise them properly about all the opportunities, about all the difficulties and obstacles that they may face here and uh, let them actually make the decision at the right time when they feel it's right."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I couldn't say better. So, where do you see yourself as a point B, let's imagine in the next six months?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. On the next six months, what I want to do is I want to be closing one deal per month. In my mind, I would like to sell at least uh, 4 million dirhams per month as a basis, something which is achievable, something which is realistic at this stage. And uh, this is direct deals. And uh, business to business."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How much how much, you know, money that will be generated into your pocket?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That will be about uh, 2%, about 80,000 dirhams per month."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Just just a simple 80,000, which is what, 20,000 euros or probably like"
+    },
+    {
+      "speaker_id": "1",
+      "text": "US dollars, more or less, yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "17,000 pounds or 16,000 pounds."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. And uh, also adding to that, I would like to close about 20 million dirhams per month, uh, business to business. So, you know, I think it's realistic. I have to uh, put that plan into action. And what does that mean? That means that if I want to sell that, I have to make sure that I'm contacting agents and doing presentations, several amount of presentations every month. And I have to also be talking to new leads, certain amount of leads every month. Because this is a little bit of statistics. From 100 leads, the average is that we close three leads. Okay. So, what I need to do is increase the amount of leads that I have. So, that would be the next plan, start generating my own leads."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And that's exactly what we're going to talk about in the next video, which we're going to link probably here or here, I'm not sure. But circling down to the you being 10 months in real estate. Which advice, just just just to finish this episode, which advice would you give to yourself now, knowing what you know about the process and the steps and all of the pain points? Which advice would you give to yourself on Friday of your arrival in Dubai?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Actually, I should have done that before I come to Dubai. But uh, you can learn by yourself and make the mistakes and discover what you should have done better, or you can come and get advice from somebody who has already done that. So, my advice would be anybody coming into Dubai and they want to do real estate, I would say get yourself a coach. I would recommend Olga because it helps you to avoid certain mistakes. And what what what Olga has done for me, she has given me she has given me some clarity about the path I have to follow to go from point A to point B, where I want to be. So, one of the great achievements this year is that I have a clear path on how to become a top real estate agent. And that means that I have to work on several areas. First, of course, learning the market, understanding the product, but also at the same time, if I want to generate my own leads, it means that I have to develop a brand. It means that I have to be active in social media. It means that I have to become an expert on certain subjects about real estate and I have to be generating posts that add value to people that don't know much about real estate. Also, I have to differentiate myself from thousands of other people who are doing the same thing. So, how am I going to achieve that? I have to do something extra, something different than the rest."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I love that. I could not expect less than you, Walter. So, how about this? A year from now, we're agreeing that we're going to do another video and I just want to see how far, and I believe you don't really yet know how far you can go. It's going to be way more than just closing 4 million direct and 20 millions in direct."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Per month."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. I believe that it's going to be a big jump for you within the next six months, really. I can see that because you're changing, you're evolving. The way you communicate now, the way you see things in real estate as an opportunities based on your experience, fantastic experience that you have is a completely different. So, you see more opportunities in the places where previously you just saw the obstacles. Yeah? So, six months?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Thank you."
+    }
+  ]
+}

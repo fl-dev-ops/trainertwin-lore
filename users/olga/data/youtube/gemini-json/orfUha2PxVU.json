@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "how how to get the buyers to meet you. Usually real estate agent are thinking that the meeting is for them, for me to show, to peach. But the buyers doesn't want to do that. Specifically if we're talking about selling off plan, whatever is in Zoom or in person meeting. So, the buyer going to meet you if he will feels, feel, not think, that you have something that he is lacking. For that, you have to create the luck first. And you will do that with this simple question. Uh, Mr. buyer, I do respect that you probably have your own opinion on the market. But how confident do you feel uh, in your ability to actually determine which out of this project will be the next top seller based on, you know, like market data, sales, rental transaction for the past three years and you know, the the future of this particular development. How confident do you feel that you can do that? Question mark? Boom, he doesn't. So, you book a meeting."
+    }
+  ]
+}

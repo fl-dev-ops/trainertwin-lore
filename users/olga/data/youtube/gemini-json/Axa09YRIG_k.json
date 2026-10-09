@@ -1,0 +1,324 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 4,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "role play and practice."
+    },
+    {
+      "speaker_id": "1",
+      "text": "the opening and then maybe going through the um further qualification. You have to keep in mind that your goal with this potential call is to book the next step which is meeting in person if the client is here or uh online meeting. Okay? So, let's put it this way. Um if you want to role play, you can raise your hand and then the first who raise their hand going to be an agent, second person going to be a client and then we're going to follow the structure. If you haven't raised the hand, I'm going to choose you myself. Because I can see the cameras. Okay? Gavin, because you are the first one, uh Mariani, can you start recording or is it recorded already?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "We are already recording since the very beginning. I just wanted to make sure that everything is recorded. Perfect. Thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm just I'm just the one who forget to record my sessions all the time. So Gavin, are you ready to be an agent?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. Do do I follow the script?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "A, do you want to be You look, there are guidance in the script which might help you. If you want to do whatever you want to do, it's totally fine. Yeah, that the script is just the guidance not to let's say forget to ask about certain things. A, would you be okay to be a prospect?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Unmute yourself."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, uh I don't mind, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, okay. So, you are you requested three months ago you were looking into investment opportunities. So out of the blue Gavin is calling you."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. So, will he start or"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He will start, yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah. Go."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ring ring."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, hi, hello."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hi, is that A?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh yes, who is this?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hi there, it's Gavin calling from OBG. Um you made an inquiry a few months ago in relation to property investment. I was just wondering how that went for you."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh I don't kind of remember which project was it?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh well we have various projects here. Um I mean have you have you did you follow through with the investment three months ago or are you still in the market for an investment opportunity?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I don't remember when I had applied for it, but uh yes, a while back I did uh make a registration."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. And are you interested in in property investment? Is that something you wish to do?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh yes, I was looking for something. Uh not not sure yet. Uh but yes, I was looking for something in downtown."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, fantastic. Any particular reason why you was looking in downtown at all?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "So I had uh signed up for a project uh which came on uh in the advertisement. It was one residence."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. Yeah. And was there a particular reason why you signed up for that one project, one residence in downtown?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes, it was very close to Burj Khalifa and uh that was uh that's what my family was also looking for something very close to Burj Khalifa."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Fantastic. So, are you based in Dubai or do you live overseas?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh no, I live overseas. I live in India."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, you live in India, yeah. So so you'll be an overseas investor, yeah?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. And do you own any property at the moment in Dubai at all?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Not at the moment."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. And do you currently invest in India?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh yes, I I do invest in India as well and I'm looking to invest start investing in Dubai as well. But I'm not yet sure yet, but I'm looking into new projects."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Fantastic. So, your your current portfolio you've got in India. Um what sort of portfolio have you got there? How many properties do you own at the moment?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "So I own two properties in India. Those are two BHKs. Uh both of them are two BHK apartments, two bedroom apartments."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Fantastic. And how have they been performing for you thus far?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh they don't give a good return on investment to me. So I'm trying to diversify my investments to Dubai for a better return on investment."
+    },
+    {
+      "speaker_id": "3",
+      "text": "100%, yeah. I've got a lot of Indian clients who are doing a similar thing to yourself. Um they they're currently struggling with with their properties back home in India and they're looking for hence why they're they're looking to enter the Dubai market. 100%. What sort of ROI do you hoping to generate? What's the goal here?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "See, anyone would like a maximum return investment, but I'm looking towards uh 7 to 8%."
+    },
+    {
+      "speaker_id": "3",
+      "text": "7 to 8%."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Minimum. Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. And is there any particular reason why you're looking for that 7 to 8%? What do you want to do with that actual income?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh so it's kind of generate a passive income and the for the future if I would like to move to Dubai, I can move in with my family if I feel it's comfortable."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Fantastic. So you're looking to increase your passive income. Yes. Right. Take on investment, yeah. Would it just be the one investment or would you be looking to accelerate that in the future?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh for starters I would like to start with one investment, see how it goes and you know, try to read the market and then if it goes well, performs well, then I might diversify some more few funds from India to Dubai."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Great stuff. And the sort of budget you're looking at how much are you looking to invest currently at the moment?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh so budget is not decided yet. Okay. Not decided but somewhere from from a range from 1.5 to 1.6 million."
+    },
+    {
+      "speaker_id": "3",
+      "text": "1.5 to 1.6, yeah. And would that be cash or mortgage?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh mostly cash."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Mostly cash, yeah. So budget wise you you you've got approximately 1.5 to spend on the investment property in Dubai, yeah? Great stuff. And is that money accessible or would you need to release that from somewhere? Could you could you move pretty quick on that or?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "So I have properties in India, I would like to dilute the funds which I have and then reinvest. So"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. Fine, fantastic. I mean obviously the the beauty of off plan here in Dubai, you know, properties uh opportunities have payment plans. So there's no immediate rush to to release the funds. So you'd basically drip feed it over maybe the construction period which could be one year, two years, three years, how long that that would suit yourself. I think the best thing for us would be to book you in for a consultancy meeting to go into more detail and take a deeper dive into your goals and exactly what you're you're looking to achieve with your diversification. Are you available on Tuesday at 10:00 a.m. at all, Indian time for a meeting?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh yeah, I'm fine with that, yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, sure. Fantastic. What I'll do is I'll book you in for a Google Meet online on Tuesday and we'll take a deep dive. In the meantime, I'm going to send you a bit of information just just to give you a little little bit of a taste of what's to come on Tuesday morning and we'll we'll go through it together."
+    },
+    {
+      "speaker_id": "4",
+      "text": "So before we get into the Google Meet, I would like to have a few list of properties, you know, in the particular area I discussed about. So that I can go through them and you know, decide which one I'm like."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm happy to do that. I I don't think it's the right way in fairness, you know, I'm more of an investment advisor. Um so if if I was to bombard you with a lot of information, you may get confused and and you may not find out what what's actually the right investment for you. This is very different to buying an emotional buy, you know, this is investments we need to make sure we are picking the right product. Um rather than being like an Amazon style sales person, you know, I'd rather go go through an investment procedure first and foremost, take a deeper dive into your wants and needs. Um I'll send you a couple of projects in in terms of highlights of the sort of stuff we do and and the one you originally inquired about. But I think the best for us to to take it step by step, take you through the investment process, take take you through the consultation and then I can obviously then then then then release some potential items that would be more suited to your goals. Would that be good? Because you want to Sounds good. Great stuff. I look forward to seeing you on Tuesday, okay?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Sure, looking forward, yes. See you. Bye bye."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. Perfect. Um let's uh let's have a constructive feedback panel. Malaki, are you online?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I definitely am. I definitely am. Yeah. Yeah. Thank you Gavin. You've done well there. Yeah, so tell me uh and all of us, why say me, uh what Gavin did great, what you liked, uh and what potentially he still could improve."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so I think um first of all it was a good call. asking the right questions to engage the client. I would just just a bit of feedback and a little bit critical is just reframe how you're asking the questions. So it's not as direct and it's more conversational rather than a list of questions. It will be very rare for a client to be as open as that. Um but other than that, in regards to the questioning, you're great. You got a lot out in regards to the lifestyle choice, whether the investment strategy is more ROI or capital appreciation, you've gone brief on location. Um I'm not I can't remember if you asked their investment time frame to understand when he or she would like to when he would like to invest. However, ultimately asking questions right framework. Um yeah, I would just pretty much tweak the approach of the question so it seems much more conversational rather than an interview."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, thank you. Um who can tell me that maybe out of what the A was responding, I've got something like several points that for me were kind of a red flag and I would love to maybe not on this call Gavin, but in the in the next call definitely to go for for further into that. What was that? What he mentioned? Do you do you remember Gavin maybe yourself?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes. Obviously this is the purpose of this call is to get him in for that meeting. And that's where you dig deeper and ask further questions. Um so I if anything I might I might have asked too many questions during that, you know. Um I may have been able to book that meeting slightly earlier. Um but in relation to yours, he he's obviously a coming investor, you know, in India. Um so he knows his way around property investment so to speak. I'd need to find out how much he does know in terms of experience within that market. Um he's looking for 7 to 8% return. He's mentioned Burj Khalifa because he's based overseas and it may not be the right area for him. So hence hence the deep dive in terms of areas and and exactly again to deeper on the goals itself. Um and it's a passive income and he wants to possibly look at moving his family over here in the future as well. Um so and with the 1.5 as well, we we as just stated there, we need to look at time scales. Um in terms of, you know, how soon he wants to to get that investment working for him here. Um along along with the funds as well. But those sort of conversations I I'd rather have on a face-to-face presentation with the slides, et cetera and then start to dig deeper."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, Catherine just texted that he mentioned that he needs to sell his asset in India."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Right, okay, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You I mean, you probably kind of got that, but for me that was just like, oops. I would at this point potentially because he's so open, I will dig deeper and say, okay, I understand. I say, out of this 1.5 million that you mentioned, how much will be coming from you selling? You got me? So I just need to like, uh, it's it's it's a high level sales skills, I would say."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, no, she's 100% right. I I actually missed that. So um so that that's why"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's fine that you missed it because you you are you are focused in in still you're driving the conversation, you're focused on what you want to ask next."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, no, but theoretically you should ask questions on on the feedback you get first and foremost. So I so I I didn't react to that. So that's my bad. Um maybe that might have been came around the back and started waving."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, Gavin, this is your style, guys, for everyone. Uh Malaki, 100%. I would advise to be a little bit more conversational as well, but this is how Gavin is. And that's going to work for him because that's his personality. At some point he might be more let's say what like relax and more conversational, but because this is how he is, it's going to work for him. If I will try to be Gavin and be like boom, boom, boom, people going to push back for me. But for him it might work. The one thing that uh I would change in the beginning Gavin, that you was like, are you interested in investing? That was like very direct too early. I do understand that you're trying to qualify him not to waste your time, but majority of people specifically from the recycle leads, they're going to tell you no. And then how you will go from there?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I I would then say, so so why'd you inquire in the first place?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's as well kind of you contradicting, you know, why did you inquire in the first place? You got me? So it was like, have you found what you're looking for or you're still looking? That's why the question that I am still on using is neutral and gives them the space to talk because are you interested is only yes or no. And if it's no, it's you then have to kind of reshuffle your strategy. Oh, but when you inquired, were you interested? And he going to say, well, I was just looking now I'm not."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then I will have to there is still a ways out of it. It was like, I would do my favorite one. It was like, so have you have you completely gave up on the idea of of making the money with Dubai real estate or what happened? So and then I'm going to dig deeper into his answer is no, why because of the experience that he had. I'm going to dig deeper into experience, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Sure."
+    }
+  ]
+}

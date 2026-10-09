@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "How to ask about the client budget without sounding like, oh, can you give me your bank details? But this is the question where agent usually terrified with. Um, I've been told so many times that they just don't want to ask it because they just don't want to upset the client and realistically, you have to financially qualify him and help him understand if he's money, is he even able or what he needs to be able. So, we already spoke a lot of all the questions that the first and the second stage and then the third stage, right? We have to make him feel comfortable and build up with us the plan of how he going to make all of this money that he considers. There is a document behind me, well, might be accessible for you if you join my online, well, if you want to join online Academy, it's on YouTube with all of the trainings, material scripts, call call interviews and things that you need to get yourself into if you want to sell more and be realistic. Okay, so my favorite question, the way you deliver the payment plan. You start asking, what the uh potentially comfortable monthly payments uh will be for you? What would be your ideal payment structure? Um, in terms of payment, how much money do you feel you will be able allocate for monthly and quarterly payment? In terms of you still having all of the additional lifestyle benefits that you have with your family right now. And what amount you can potentially allocate for initial down payment?"
+    }
+  ]
+}

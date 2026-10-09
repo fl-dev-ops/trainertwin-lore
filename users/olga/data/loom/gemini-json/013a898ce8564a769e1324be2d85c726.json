@@ -1,0 +1,528 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "I wanted because uh you already have a lot of clients you're working with. And I think it's a great exercise. So I put together. Yeah. Can you see my screen?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I can."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So basically, uh this is a basic map um of a matrix of different types of clients which are generating through the leads. This is let's say your networking might be because Habika doesn't generate much from the campaigns much leads from inside of Dubai, but this is international investors. So what we're going to do now, uh we're going to walk through the fears, objections and the reasons for them to invest."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So it's kind of uh studying your uh audience."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We're going to go through some and then I'm going to give you a task just to complete this um on your own. So let me let me go through the end users. So the pains of the reasons for them to buy. Uh you see, I'm I'm typing. I'm using money on rent. Spend time on driving. I'm in the wrong location. I have new work children. I'm constantly facing maintenance issues because the building is old. Uh I have low quality amenities. Uh I want to increase my status. I want to live in a certain area. I feel I'm not good enough in supporting my family if I don't have the property on my name. So I cannot support the financial future of my kids. It's too small for my growing family. So it creates massive inconvenience from the living circumstances, whatever it will be. Uh my elderly parents moving in with us because my wife is pregnant second time, anything. So this is the pains that they're going to need to present, answer in our questions. You got me?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. This is We want to add any"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do you want to add anything to this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, this is the this is pretty much it. I mean, another thing, yeah, it's too I mean, obviously, we cannot concentrate on all of these things in a conversation, especially in the beginning stage with a client because they feel like it's they're being integrated. Uh being said that, yeah, I think you pretty much covered everything. Maybe I wasn't thinking this this many you know, options as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So now let's talk about the fears they have because the fears is the main reason they're not going ahead."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So what if I select I think it's just thousand and that way. I own property and lose money. Um I'm going to buy in a bad quality building, which you're going to have hidden defects. Uh I'm going to miss the"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Opportunity, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't know how to spell opportunity anyway. We're going to correct it after. Uh what if I'm not going to have enough money to pay it off if it's a developer payment plan? Delay of the project to even cancellation. Do you think I miss any?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Here, yeah, here, what if I lost my uh what uh job or income stream?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh then what if I suddenly I encounter some financial requirement back home? I mean, most of the people here, they are expats. That's something I I hear."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Urgently."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, back home. Then another thing is that what if what if something happens to me, then who would take care of the liability? My family doesn't have enough to support the payment plan of him. You know, this is basically when we try to uh switch an inquiry from, you know, ready property to an off plan, this this something this comes up."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Then the uh favorite one now, the war escalation."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, objections they have. Too expensive payment plan, meaning longer or whatever."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, unit is too small, too far. We don't want to wait four years."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, unit is too small is all the time because many, you know, these people, the end users, if they've been living here for, let's say, past 15 years, 16 years, it's very normal for them to feel like, yeah, the modern buildings are at very uh smaller size."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that that's that's another thing. And this waiting period of this, you know, three and a half years, four years is for the thing. Then objections are like the market going to correct, the market going to correct, so we'll wait. I don't know whether it is an objection or it is an opinion, you know, market going to correct and uh"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Objection, of course."
+    },
+    {
+      "speaker_id": "2",
+      "text": "We will buy something better."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will wait, I will buy."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, for the dip, yeah. Wait for the correction. Any, yeah, the my favorite line is like, you know, anyway, it's was going like, you know, high, high, high for the past five years. So something goes up must come down. But based on what?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Unrealistically, for example, the the project that we see, like Ro District for me, is something which is already coming down."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Coming down in the sense."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, it's it's it's a it's a lower price for sure."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, exactly, exactly. See, uh, and ACC, there are two, three ACC buildings in in the vicinity. And they are selling ready ready studios at 550, 525, 570, that's the price."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And ACC building."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Realistically, this is"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And this is a price for ACC. Okay. So the first time investor, I'm not making enough money."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's his problem. He doesn't feel like he is making enough money altogether. He needs to have an additional source. So he just kind of like, I think it's more like an idea for me to have this big step, like, oh, I'm saving I have 300,000, 400,000, 500,000, but it took me like one and a half year, for example, to add another 100,000. So how can I accelerate the process?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it's possible."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I I feel like it's just been too slow. So, kids education, um secure retirement. Again, it's going to be big for local as we don't have any retirement funds. And so if you're not doing it yourself, as in Europe, the government is taking care of you. Over here, you have to take care of yourself. Passive income, uh early retirement. What do you want to add here?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The first time investor, yeah. First time investor, uh the their reasons, yeah. Reasons to buy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. I'm not you know, So what he's running away from?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, why should somebody buy? Yeah, okay, fine."
+    },
+    {
+      "speaker_id": "2",
+      "text": "First time investor because, you know, what I'm thinking, you know, mostly I'm closing on this, one of the points, of course. Uh, you know, there is it is very certain that there is at least 5 to 6% of rental increase on an average every year. If one year it is not increasing, then the next two, three years it's going to be compensated. So average price increase for a rental that we are seeing is 5%. So imagine that somebody is staying in a 50,000 dirhams one bedroom apartment, yeah, to the the border towards the border to Sharjah and Dubai. Then most of these first time buyers with for looking for one bedroom or one and a half bedrooms, they're staying there. For them, uh they're thinking it's 50,000. So by the end of 10 years, it is going to be, let's say, close to 70,000 dirhams. Per year. So the effective loss of money, they are not uh putting it in towards an asset. And they're actually losing, you know, uh 50,000 to half a million to 600,000 dirhams."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which they don't have."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, which they don't which they have, that's the reason they are losing it, right? Because anyway, for them to stay here,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which if it doesn't feel that they have them. Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, which they feel they don't have. So instead of uh, you know, wasting this money, right? So for for a first time buyer, this is actually this this makes more sense in terms of investment. When they are moving"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But this is an investor. This is an investor. He's not buying to move in."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Then the passive income. So if, let's say, if he's a UAE resident and investor, right? So anyway, he's paying towards his rent."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, that's the reason he's a first time investor. So the rent that he or she is getting from this investment will at least pay part of the investment and the capital appreciation going to get from here, uh that will be, you know, kind of, let's say, 30, 40% in 10 years time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But this is a benefit, but the fear, the pains, what do you what do you think else could be? Part of what I could"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The pain maybe because of the maybe they will be priced out. If they don't act now, it will be a higher price opportunity next year. And that's going to be another high price opportunity year after."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. So what are the fears they have?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The fears are almost same as the end user resident here."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The same."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Almost same, almost same, but if"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Price of my property will not go up. Yeah, because they are more inclined to that. Or maybe I will not be able to rent it out because of the competition or bad quality of the building."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, or another thing is that uh the number of units going to come out is too much. There are not enough people in UAE. That's something very logical because UAE has seen half a million people increased from last 12, 13, 14 months. It was close to 3.6 million, now it is 4.15 million inside Dubai itself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So it's too expensive payment plan, you need too small. I think they're more prone to discounts. Expectations of the price drop."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Expectations of price drop, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which are the objections do you think?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, objections, it's like, you know, first time investor, even though even though they have, you know, enough money to afford an apartment, they'll always say, town house would grow much higher. Without even thinking that, you know, they cannot afford a town house. That's one of the objections."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, this is this is this is a reality. It's kind of no objection you can buy, you just don't have enough money for that. Okay, so what's the difference between the first time and experienced investor? Why he will be buying again?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because he or she always experienced the positive sides and they already, you know, crossed all these tensions, all these concerns once. So for it's a human nature. Once we successfully done that, it's easy to replicate that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. Then the things that they like, this is the answers that we want to hear from them on our questions, right? For example, um instead of asking, and what makes you feel that you you kind of want to put your money down in Dubai real estate rather than whatever, keep printing, investing somewhere else or maybe going and buying something back home. Um for experienced investors, um if they already have property, we can say, and and what makes you feel that that that you want to kind of expand your portfolio in Dubai because you already have it here. Why Dubai? You can still ask them. Because this is the thing we need to pull out of them. Are they happy with what they've done, with their investment? Uh are they making enough money? Are they not making enough money? We have to understand like the miscalculations, the fears that they have is miscalculations that they did, the mistakes that they did with the first investment. We have to pull that out from them. Because that might be a reason they're not going to go ahead with the the next investment. They're going to be hesitant. And I believe that those type of investors, they are way more um into logical pricing calculation."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. They are."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Then this one and this one."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know, the deal I closed a three bedroom, uh April 30th, April 30th, her sister, she was a first time uh buyer. So her concern was, you know, kind of the first and second group. However, the deal I closed uh the Sunday before, a sibling, a brother of her, and he already have two investment in his portfolio and this three bedroom is for himself. So the presentation which I first did was didn't work out. Then I from that meeting I I kind of figured out, yeah, he is more into calculation and stuff. ROI, uh price per square foot, and uh service charges, uh those stuff. So when I switched into that, the when I changed my presentation aligned with that concerns, then he it was easy to close."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. True. Now, let's look at those type of investors. So we have GCC, experienced or first time. I'm I'm talking about GCC, it could be anyone, uh Oman,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Saudi, Qatari,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Saudi Arabia. So all of these guys, they're pretty much similar. Um from Arab world, I'm talking about Lebanese living in Lebanon, um Egyptians. I'm talking about Asians, whatever, India, Pakistan. Again, a little bit different. Uh Europe, UK, again, first time or experienced. For this experienced, I would say in Dubai and outside. I mean, if he has investment overall, maybe in Spain, uh maybe somewhere else, maybe in Thailand, like those type of people. Uh Australia, US, Canada, I put them in a different bracket. And Soviet Union countries, of course, they're just completely different thing. So which one do you want us to put together? Which one do you feel like you are not very much aware?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Here, the experienced Europe and UK investor. See, if they're experienced in that country, their concerns are pretty different from the concerns of the first time investors that they never invested anything anywhere. For instance, UK investors, uh they're also, you know, off plan is there, but it's more like there is a registration fee, it's very very very very minimal percentage. Then after that, uh there is a maximum pre-handover payment plan is like 20 10% to 30%. That's maximum. The remaining money they are giving on handover. For them, it feels very safe. And when we pitch, you know, clients of them, I mean, the UK clients, it is very important for them uh to have such kind of payment plan. If it is 1090, that does not exist in Dubai. So they are more like, you know, happy to go with 2080 payment plan for an off plan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let's talk about the pains, why they're buying. Those experienced, we have already in Dubai or other countries."
+    },
+    {
+      "speaker_id": "2",
+      "text": "High taxes, like 45, 50% tax in their home country."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Then dependent on single economy. So they wanted to diversify. If they concentrate their, you know, lack of diversification in their own economy or their own market, that's it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And the properties that they have already, they want to diversify from them as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And with the"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And very slow, very slow capital appreciation and uh very it's like uh, you know, two to 3% of rental I mean, rental income. Net rental income. These are the pain points they have."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And as well, will that be fair to say that probably 50% of them consider move into Dubai. Potential. Yeah, relocation somewhere."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And it's always like five to 10 years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, because to avoid the exit tax and stuff, it takes time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And as well, this is one more thing that probably you know that, uh that um again, for inheritance, this 40% inheritance tax."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So move the um family money. Yeah. Okay. So which objections do you think they they're going to um give us? Let's start with objections."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know, if it is a first time buy investor, then obviously the um legal framework. That's something they are and many of them feel like they wanted to be here present to buy a property."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh I don't think that this is a big objection if they want to be here. Like that's just kind of manageable."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. And they can come."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If it's just like such a strong thing that, oh no. Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Then the mortgage eligibility, you know, many of the people if it is uh off plan, they are thinking of taking mortgage as without any visa."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. I want mortgage and most of the time they're either too old or do not have a salaried income as expected from our banks. Haven't haven't had many cases, successful cases for UK people to get in mortgages, to be honest. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So are you saying it is easy for the European people to get mortgage from here or is it difficult?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's a little bit, I mean, if you have a business in um in your own country, it might be more difficult."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. If you have a salary."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Then you have a salary. But majority, yeah, but majority of them they do have a business, like from my experience. Yeah. So, uh let's talk about the fears that they have."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know, the fears I came across, what if this project is not getting completed as promised? Uh credibility of the developer. In this case, you know, always we, I mean, of course, there is no option to go with newer developer or less of uh, you know, non-developer."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. As well, they're afraid of they will still have to pay tax."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, for the UK and Germany and Canada, yeah, they feel like even if they invest, they cannot take the money back home. They have to because it's not UK is no, but Canada, Germany, US, that's a problem because they are global tax income. Global income tax."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Regardless, they have to tax it if they are residents over there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But for them, the thing is, it's only uh profit or kind of revenue that you already received. But you sold this property, you don't have to pay anything. If the property is not yet sold, and it's for example, under construction for the off plan, you don't pay any taxes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but again, they have to wait 10 years for the case of Germany, they have to wait 10 years for it to be and then sell for it to be tax-free. But I believe the workaround that you told me once that um if they are not taking this money back home, then how can it be taxed?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Again, we need to check it. Okay, so uh look through the other types. Uh try to fill it out. This is an exercise for you just to, okay, so do I really want it? Do do I really know another pain points? Or maybe if you will feel like, well, I don't think any specifically I understand what the GCC experienced investor going to tell me in his fears. Then make a note and we will discuss that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "All right. You know, one thing I would uh love to touch base though, this GCC investor, I never have been encountered with those kind of people. I mean, saying Arab people, like a Qatari, Omani, or uh a Kuwaiti, any of those people came and invest in Dubai. I've never encountered. Maybe it's because I I don't speak Arabic. I don't know the reason. And how how do you have any personal experience with them? How do you"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I do. Um they do do not speak English. If you are talking about Omanis, they're a little bit better in English. Saudis, if if it's more or less an average person, they don't speak good English. So, um overall, Saudis are the general population is is not rich at all. So it's just a misconception that everyone is rich there. Um they they will come across as very rude."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But just because they're I think they're just bombarding, yes, this one, that one. So, um they are dealing with them is late evenings. This is when you can talk to them. So basically after 10, 10 to 12, this is what the business time is for them, regardless is it Ramadan or not. For some reason, they're active that way. And because of the nature of being very kind of inconsistent and changing their mind, half of the deals has to be pre-time agreed. So if the person is telling you like, yes, I'm interested, I understood it. I was telling like, look, um if you don't want it, if you don't like it, you just tell me. It's fine. I don't want to put a pressure on you. I mean, if you don't like it, it's fine. I'm just going to handle it. Then they say, oh, no, no, no, thank you so much. So you you have to push them a little bit more, I would say. But realistically, uh the GCC investors, um majority of them, so they want to the reason of, for example, GCC, yeah, yes, we're going to talk about Oman, Saudi. Own properties are not appreciating much."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In their country."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. It's not appreciating much. Again, because they don't have a big development, despite how it looks like, it doesn't the people are not starting making more money and there is no much money coming from outside as an investment into the real estate because the expats are not moving there the same way they're moving to Dubai. Yeah. Not. So the problem they have over there, um let's say, uh Jeddah, minus five or zero. This is for the past year."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And also the liquidity is a big concern."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How do they mean?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, if they ever wanted to get out of that property and take cash out of that, I mean, there there should be a buying pool and it is it is almost non-existent in these places."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They do have a social programs for first home buyers. For local. They do have a mortgage program for off plan. So there is a verified developers, some of them. You can get a mortgage support. Again, if you are GCC resident. And their market is mainly based on their own people. So that's why I'm saying it just this is the problem this is the problem that they have, that's why they're coming here. The same in Oman, despite Oman, um is let's say freehold and uh it was years ago that you buy property in Oman and you get a residence visa forever. There is no minimum, there is no golden visa for you buy 500, 600, 700 and you got the residency visa forever. But just Oman is not that attractive for international investors like Dubai. So the fears that they have from what I always seen, again, maybe I was not working with like princesses, is cheap. So they are quite cheap."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, they are."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Or those who are not cheap, they want a mark. Yeah, so that's that's my experience. Um and it's always the objective is expensive, of course. They don't have any problems and the reason they are falling off is they are not able to get finance for themselves from from the from Saudi. Personal loans."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And with the recent developments, the social tension between"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because they're using that a lot. They're taking they used to take I mean, I don't know, they used to take"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think there is a delay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Am I going with a delay? Yes, I am."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let me send you another link, okay? Give me a sec."
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 5,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Okay guys, who wants to be an next agent? If you're going to raise your hand, there is an opportunity to raise your hand. It's just there next to the button leave the call on the left hand side. If you want to be an agent, if you don't want to be an agent, I'm just going to call someone out of the blue. Not able to unmute myself, Catherine. Okay, let me"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You, you know what you can do? You can re um try to get back to the call. Just leave the call and try to get back to it. I cannot I cannot unmute you as well. Mariani, can you unmute her because you're probably organizer?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, I don't think I can."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Just just one thing for future reference. Obviously with the numbers so low today, being six of us. Would it be better off doing any sort of thing face-to-face when the numbers are under 10? Would that be possible? Could like if we could get into the room or go to one end of the office."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm happy to do face-to-face, of course. We were doing the, you know, recording, uh, Gavin for one specific reason."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I see. Of course."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because we can then rewatch it."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I get it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So now, you you you know, when you were in the floor with a, you couldn't see yourself from a side and there is so much powerful learning for you when you're going to rewatch yourself. So you're going to see what you're doing."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then you're going to have even if you you don't need a sales trainer for that, you record your own calls and you rewatch them, you know what you should do differently next time."
+    },
+    {
+      "speaker_id": "3",
+      "text": "That's good to rewatch because I'll never rewatch. I don't have the opportunity to record, so."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, let's rewatch it."
+    },
+    {
+      "speaker_id": "3",
+      "text": "camera and that sort of thing, so I'll get it. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, Catherine, try to reconnect, okay? Try to leave the call and reconnect. So, rather than Catherine, as I assume she wants to be the prospect. Sorry, she wants to be an agent. Anyone else want to raise their hand? Sam, I can see you."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Hey. Um, not today."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, you're more more to watch today, honestly."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, Malaki, are you ready?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Catherine, you're ready? You cannot hear you. You're still on mute. I don't know. I think it's on your laptop, actually."
+    },
+    {
+      "speaker_id": "2",
+      "text": "If you could if you can join via uh your phone, Catherine, maybe it would work."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You also cannot unmute."
+    },
+    {
+      "speaker_id": "3",
+      "text": "This is amazing, isn't it? I've never seen so many people who cannot unmute."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh my God. Malaki, you cannot unmute yourself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You can't unmute someone. No, guys. Okay. Ahmed, Fahi, I can see you. Can you unmute yourself?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "People Oh."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Hello, can you hear me now?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. Okay, perfect."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Perfect."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, Mariani, I yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. It's someone is next to you talking on the phone, so it's just really distracting. Yeah. So, who can Malaki, can you be an agent, right?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, I can be an agent."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Who can unmute yourself and be the client? Sam, do you want to be a client because seems like you can unmute yourself."
+    },
+    {
+      "speaker_id": "4",
+      "text": "It's a first step."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I can do that."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Perfect."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So Sam, let's let's let's make it a little bit more difficult for Malaki. Let's make uh let's pretend that you do not remember that you just just don't be that yeah, yeah, this is I'm still looking. Yeah, just be a little bit like on a on the fence."
+    },
+    {
+      "speaker_id": "4",
+      "text": "All right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Cool, let's go."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, morning, is that Sam?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yes, who is this? Who's calling?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Morning, Sam. It's just Malakai making some updates in my system regarding your real estate inquiry. Do you currently own an investment or are you looking?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Um, no, I don't remember doing the inquiry. What is this about? I don't get it."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, no, no problem. I actually hear that a lot. It is in regards to the real estate investment that you made. Would you still looking to make a bit of money in regards to the real estate investment in Dubai?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "No, I'm not interested at the moment. I'm I'm really busy right now."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, no, that's not a problem. We actually do hear that a lot. Was there something that changed from your initial inquiry to now? Why are you no longer interested?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh, yeah, but I mean, uh, I'm not really trying to have this conversation right now. I'm busy. I'm at work."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, no, not a problem. So, um, just before I let you go, when you initially made your inquiry, do you remember why you made that inquiry?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "I mean, I saw the advertisement and we're all looking to make money, of course, so yeah, just curious about the numbers, you know."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, that's that's not a problem. I actually do hear that a lot. So if you could say hypothetically, you know, just on the numbers in regards to the ROI, capital appreciation, what would be something that would, you know, maybe move the needle in your current or future investment portfolio?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh, honestly, uh, this is something new to me, real estate, so like I said, just looking to make money, you know."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. And so, just to kind of understand your current situation, I'm assuming this would be your first investment. You haven't invested previously?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "No, no. And how long is this going to take? Because like I said, I'm busy. I'm not trying to have this conversation right now."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, no, that's not a problem. It would just be um a few minutes of your time to see if we could get the ROI that you were initially looking for. Traditionally in Dubai, it's around the 7 to 9% within other areas accelerating up to that. So you'll be looking at about 10% liquid cash on an initial investment plus capital appreciation. Would that again improve your current circumstance?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh, yeah, sounds interesting, but is that is that like guaranteed return that I'm going to have?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, absolutely. So there are actually some investment projects that we have that could give you the guaranteed. But for me, as a consultant, it's really to understand what a good guarantee would be for yourself. So hypothetically again, if you would think in the next three to five years, what would be something to say, okay, I'm glad I made that investment in property."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, I mean if you're talking about double digit return, that sounds good."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, okay, and double digit, so we're talking around the 10, 11, 12%?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, so again, if we were just to pull with think hypothetically, if you could find something based within that double digit ROI investment for yourself, um, in in regards to time frame on your investment time horizon, you know, is it a short-term, long-term thing? When would you initially start to like to make money within the within the market?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh, really depends the the the value of the investment here because I mean, I'm not going to have millions available right now to invest."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. Okay, that's that's not a problem. And we do actually hear that often as well. So just to understand your investment comfortability, what would you be comfortable investing in at the moment?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh, are you saying like how much I have right now to invest or?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, just your investment comfortability. So, ideally to get 10, 8, 9% on that, what would be, you know, ideal for you to say in the next three to five years again, this has moved your investment portfolio or at least made a good start."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Um, honestly, I don't really have that much money available at the moment. I would have to work out some stuff to sell some stuff, you know, so that's why I'm saying that I'm not really interested at the moment because it's complicated right now."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, that's not a problem. And when you say complicated, are you talking about liquid cash or the process of understanding how it works or you aware of the payment plan options?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, yeah. Basically I would have like 300,000 available right now."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, and is that AED, is that pounds, dollars?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, in Dirhams."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, 300,000 Dirham. So you are actually, you know, in a better situation than a lot of the initial clients and there's definitely something that we could find for yourself. Um, what I think would be best if you could give me around 48 hours to curate something that hits your needs in regards to location, lifestyle, time horizon, and the capital appreciation that you were looking for. Do you have any availability in the next 48 hours?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, so what I'll Okay, perfect. So what I'll do, um, I'll get a Google calendar link sent over. It will go over the ROI commonly, um, what's going in the secondary market. We'll speak about some opportunities within your budget and investment comfortability horizon and we'll just have an overall general conversation on free education on how we can ensure that in the next three to five years, we can make sure that this is the start of your investment portfolio."
+    },
+    {
+      "speaker_id": "5",
+      "text": "All right. Can you send me some information because I mean, I don't want to waste my time or your time, you know."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, absolutely. So what I'll do, I'll send you over an agenda via WhatsApp via WhatsApp in regards to everything that we're covering. So the different areas, the top three emerging Emirates within the UAE, the ROI, so the return on investment, capital appreciation, depending on the type of units that you're looking for, and more importantly, as you were concerned or had an area of concern on budget, a little bit about the payment plan options for yourself as well."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Okay. Sounds good."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Perfect."
+    },
+    {
+      "speaker_id": "5",
+      "text": "That would be it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, but have you booked a meeting with him?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, I know I I so in the next 48 hours and then I would just"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but I have not booked him though."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, I haven't confirmed the time now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's how you probably he going to get you ghosted. Guys, who thinks that Sam going to ghost uh Malaki?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, I was waiting for him to actually schedule the meeting. I was like, yeah, this is going to be easy to ghost."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, Malaki, thank you so much. It was very uh lot of words, lot of words, lot of smart words altogether. Who is there to give the constructive feedback? Who can give it? Who can unmute himself?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I can see we have eight people."
+    },
+    {
+      "speaker_id": "3",
+      "text": "It was a difficult call to start. So I think he done well to to hang in there with his question and keep on the line considering he wanted to get off the line very much so in the beginning. Um, so he done really well to to extract further information from him in terms of 300,000 that he's got to invest, etcetera. And and get to a meeting. Like I said, he just needs to confirm a date and a time, which I'm sure he would have done further into the call. Um, he he done well to hang in there because he he was very negative at the beginning, Sam."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Potentially."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Potentially. Okay, so who who noticed something which I could say was a bit of kind of a disproportionate between Sam and Malaki? Who noticed anything?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I was speaking more than him."
+    },
+    {
+      "speaker_id": "1",
+      "text": "First of all, and then what else?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sam wasn't very eager. He he didn't he didn't want to talk. He was like pushing Malakai away."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, that's we got it, but this is you cannot change. But what else? Why he was like this?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He was talking."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Space for Sam to expand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, Malaki didn't really leave a space for him to expand. Uh, from my observation, guys, and you rewatch it after, Sam, he said that he doesn't understand or doesn't know much about it, Malaki, right? And you've been using very slangy complex words repeatedly over him. So that might be some reason that the person feels small, so I don't understand what he's saying, but I don't want to look stupid on the call, right? So if you will find someone who is on the level who that really basic one, and you can understand it from the answers, it's good to match and simplify whatever you're saying to what he actually able to understand. Because you were talking a lot about, um, well, first of all, I love your tonality, I love your relax, I love how you three times you you move through his I'm busy, I'm at work. I love that. So that shows that you have this calm collected confidence and you're not afraid, which is a big for all of the agent probably in Dubai and probably for those who are on the call as well. They have a fear of, oh my God, I'm I'm interrupting person. I'm just like, you know, I have to I have to be fast, I have to speak faster. Well, you didn't go fast. You haven't done it. You were doing whatever you wanted to do. You didn't I would not say didn't care, but you were just doing your job. Um, sometimes, specifically with the clients who are not remembering that they inquired and don't understand much about investments, if you are using, um, real estate investment, ROI, real estate investment, horizon a lot, they can trigger the scam in their mind. Because guys, whoever received a call from this trading platforms that teaching you how to trade and try to This is what they're saying usually. So we have to be a little bit more careful with that. Yeah. And um,"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, that's what I felt honestly as the client. Um, especially in the end there when I asked if he would text me the information about it and then Malakai started talking about ROIs again and all of that and I was like, now I'm more confused."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because, you know, Malaki, I'm not saying that there's going to be a lot of clients who are very confused with the investment, but some of them, they uh, the term ROI is new for them. They just start looking at the investment. They don't even understand is it one digit is a good investment or two digit is a good investment or three digit is a good investment. They, you know, they kind of this language is new for them. And um, that's great what you're doing, you're just putting all of this competitive advantage and the projects and everything. But that might be for the new leads, this is what they inquired about, they do remember about this. But the recycling leads, guys, don't forget whom are we talking with. Those who basically left the idea almost to purchase. We need to uh help them to kind of dig into like, but why, but when you inquired back then, why, what was the uh and you did a great job. You're asking about the do they have a investment already? Uh, what was about the investment in Dubai specifically? You did this. Just a little bit less of the fancy words."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Jargon."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Jargon, yeah, yeah. Which you, yeah, like as soon as you will find the client who is more experienced investor, that's going to be your guy. So he going to, oh, I need I need Malaki because he is just speaking my language. But Sam, he was not that person. Okay? Which you has uh have a little bit to adjust. Perfect."
+    }
+  ]
+}

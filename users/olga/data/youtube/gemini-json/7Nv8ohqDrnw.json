@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Big red flag if the company is overselling itself to you. Big red flag if they do not provide you on boarding training schedule. Big red flag if you don't know which team you're going to be joining, yeah? it's good to have a conversation with your potential manager just to see if you too much. Big red flag if the company telling you, you can do everything. You can sell off plan, rentals, secondary, commercial. That means for you, if you are yet not having that much experience, getting there going to be like a zoo. Everyone is doing whatever they want to do, there is no guidance and you're going to be just sit quietly, observe saying what even I have to do for the day."
+    }
+  ]
+}

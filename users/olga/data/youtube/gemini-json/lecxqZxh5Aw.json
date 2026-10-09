@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Another big one, when you only talk about amazing things the property has to offer, clients start thinking, well, it's too good to be true. You want them to be excited, not suspicious. So, be real with them. Highlight the good things, but also highlight the not so perfect. When you are up front about the pros and cons, you're building that trust. And the trust, well, that's how you close the deal, right? Think about this like dating. If someone tells you on the first date that they never had a bad day, never messed up, never had a hangover. It's probably feels like a job. Same goes for property."
+    }
+  ]
+}

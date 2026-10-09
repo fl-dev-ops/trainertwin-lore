@@ -1,0 +1,532 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 5,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "strong, so and you have a good acoustic here. So, just a bit about me and why I think I have right to speak up in front of you. You are real estate and sales professionals. So, I'm exactly like you. I'm nine years in Dubai. Nine years being in real estate in Dubai. Before I was in real estate in different countries, including my own home country, which is Ukraine. Then I was working in India for four years and then I finally got into real estate here in Dubai. So, being in different roles, same as you, I started as a just an agent. I was working for developers as well. Then I became a sales manager, and now what I'm doing is my own business. Nothing fancy, guys. Do not think that it's so easy or it's fantastic. And I could probably make more money being in sales, but, you know, when you're 44, you start thinking what makes me more happy and maybe not necessarily brings a lot of money at this point, right? Instead of telling you that I've sold millions and trillions and I'm selling it now, which irrelevant to you, right? Because if I sold that, it doesn't mean that you could, because many people which are doing significant in sales are mainly selling because of their personality. It's not about sales techniques or any methodology that they can teach you. So, how it will go, guys? I am here as giving you a bit of the the sales tricks and sales techniques, which might be helping you. I don't know. Maybe you don't need my help. I have no idea yet. I have to ask you a little bit more questions. Um, you are more than welcome to stop any time if you are, for example, disagreeing with anything I'm saying or you have anything to add, or you just don't understand altogether what I'm talking about. Fine? This is what I'm asking from you. One more thing. I do understand we're all working 70 hours a week being on the phones, right? Can we for this 30, 30 seconds. Okay. I wish. For 30 minutes, because I put a timer on my watch for 40 minutes. Can we pretend all of us that we are doing a brain surgery? When the brain surgeon is doing the surgery, when his phone rings, what he does? Does he do anything? No. Why? Because he's professional. There is more important stuff than respond on any client inquiry. And that's okay to be busy for your client because if you are busy, then does that mean that you have other clients? You are not desperate for this specific one. And it's okay for you to be busy with other clients. So if you are busy, that means that you are more desirable. Make sense? Right? So, saying so, I hope you're gonna leave the phone unless it's someone is about to transfer you money. Yeah, if it's money transfer, they have problem with the payment link. Don't worry, you can jump up and and leave the room and and do your payment here. What do you want from me within this 30 minutes? What do you want me to give you? What would be the click point that, okay, Olga was okay. Olga was not bad. She taught us something. What do you want to have as a takeaway from this session? I can offer a lot. It depends what you need, you know. Do you know what what what do you feel going to help you to increase your level of sales? Like in your specific case, what do you think it is?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think reaching to the clients."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Fantastic. To be able to reach self-generating leads or maybe reaching to the clients that you already have, to be able for them to see you as a trusted advisor. And drop the other agents that are dealing with and just work with you."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Probably this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ah? Does it sound like a plan, guys? Are you interested in this? Should we work on that specifically? Cool. So, without further delay, let's start. The way it's going to go, I'm going to give you some sales training in the beginning, and then I'm going to go over the platform which I am implementing into my sales structure when I teach other companies. So, you know, I'm a sales trainer, I'm always for the hunt for something which can make your life easier, more effective, so you can close more deals. So, there are a couple of startups are on the market, and I selected one which I'm seeing as top out of the competitors just due to whatever they're doing now and the functionality that they're giving to you in terms of, you know, saving your time, giving you education. And I will talk a little bit about Alnair. Who knows Alnair?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Who is a pro user of Alnair? Who pays them money? Ah, fantastic. I can see one. Fantastic. Do you like it? Do you know all the functionality?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I'm using this six months."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Fantastic. So, I can see that, uh, you know, I'm a data driven. This is the list of the uh, Prima Capital agents which are with Alnair. Unfortunately, I couldn't pull the data who is with the pro paid version. So, today I'm going to go a little bit over the functionality that can save you up to two hours a day when you are with the client on Zoom or, you know, sending them offers. And show you a little bit how to do that. Then if you are interested, I will collect your email and I will give you the two weeks trial which will include additional online training session from me on how to implement Alnair and even save more time. But it's again up to you. If you feel that it's something you want, fantastic. If you don't, we're going to part as friends. So, um, saying so, any questions on that point? I have to kind of brief down because I think I'm I'm going into the high pitch. Do you know what high pitch means? Do you know what high pitch means in sales? High pitch. When we are coming up, oh, my company is great and I'm the best sales trainer and I definitely going to sell all of the problems that you have. When I'm saying so, what do you feel? Do you feel that I'm going to solve your problems? Or do you feel that I really want you to buy something from me? Huh?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Buy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. Okay, cool, guys. Having this in mind, I don't know why I call it how to be a top agent in 2024, but I believe it's not like in 30 minutes I will give you all of this knowledge. It's a little bit more of, you know, three or four months program with me. However, I will give you some sprinkles, some sids, what to think and what to look at in your behavior with the clients. The current problem you have with leads, it's based on my experience working with a lot of companies on the market, secondary off-plan. I accumulated these problems, and you would tell me if something that you experience. A new era of buyers. Does anyone heard about sales resistance? Do you know what sales?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Fantastic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Usually it's no one. We have one. Sales resistance. We're going to talk about this. Um, and we're going to talk about how to build the trust and become that one trusted advisor, so the client going to choose you rather than 20 other agents where you're dealing they're dealing with. Is it true that specifically when you work with the social media leads, clients which are coming from the off-plan social media background, they all work with 15, 20 other agents, right? You're not the only one. True or no?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Or no."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, guys. So, um, before we go through that, I have a question for you. It might be a little bit tricky, but I appreciate honesty. Um, who closed the deal last month? Raise your hand. One, two, three, four, five. Fantastic. Very good. Who closed the deal last month, which is February and January? Fantastic. Very good. Who closed deal three months in a row? Three months in a row?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "One."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Three months. Okay, cool. We are talking about the consistency of the sales skills, right? Because what we don't want to have being in a sales position is to hope and pray that next month I'm going to close. We want to know what to do and how to act to kind of close it, right? And one more questions. Question. Just one. It's 2024. How how much money, um, how much money have you spent on learning, um, sales skills or any high-income skills in 2023? How much money you invested in yourself? Purchase a course, mentorship, book, anything?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I do a lot of them."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, fantastic. How much money do you have like a number?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, if I count, I will feel bad, so I don't want to count. Why would you feel bad?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because you don't think it's return of investment that's working in your favor."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, but I don't want to count this money because maybe it's too much, so I don't want to feel guilty, so I'm just doing it for myself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, fantastic. Anyone spent more than 10,000?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "10,000."
+    },
+    {
+      "speaker_id": "1",
+      "text": "10,000?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "15."
+    },
+    {
+      "speaker_id": "1",
+      "text": "15. 15,000 dirhams or dollars? Okay, guys. I don't know. I don't want to be a winner. I spent $20,000 last year. But this year, just because it's only beginning beginning of the year, I spent 3.3,000 as well. Just beginning. Just I'm taking it slow."
+    },
+    {
+      "speaker_id": "4",
+      "text": "This is like what education or just like?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Courses, education, mentorship, everything. Everything I learn just to make myself smarter. I'm learning high-income skills, which is sales and marketing. What would you do if you will make 100,000 dirhams in commission, which you kind of put on outside of your expenses? What would you do with this 100,000? How would you invest it?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Own skills."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Fantastic. Sometimes real estate people say I'm going to invest in real estate, which is fine, of course, but realistically, it's going to give you what? 15% return per year, if you're lucky. I mean, on 100,000, you cannot really do much. But the sales skills, something can generate up to 1,000% return in one year. Well, this is what I know because when I just got my first big commission of 25,000 in 2016, I spent it on my first payment for my MBA here in University of Wollongong. I wouldn't say that that 100,000 was a good investment overall, but definitely make me feel that I am worth investing 100,000 dirhams. That's a little bit different attitude towards yourself. Okay, having this in mind, your current problem with the leads. And I'm going to read it through. They don't pick up the phone at all, right? Are they? You got the social media leads, it's in your CRM system, been dropped, but they never pick up the phone. Is it something that you experience?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They don't have time and ask, just send me the information. True? Yeah. Information sent and there is no response after. They never respond. Whatever you send them. Even if you sometimes did an Alnair nice collection of different units, some different project, they still do not respond. Um, they pick up the phone, they seem interested. They had a really like half an hour conversation and you feel fantastic, it's almost done deal. You send them the options and then they never respond. Is this something that's happening with you guys?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't know. Maybe it's not. Maybe you are different. Okay, cool. Then we are kind of on the same page. Um, interested, stayed in touch, discussed a couple of options and then he's going into, I need to think about it. Or I'm letting, I will let you know if I'm interested. Happens. And we don't know why. It's like a boyfriend who just dumped you and you're just like, what the hell? What's happened? I don't know, everything was so good. Seems to me. Okay, guys. This is a very common problem. And I'm not saying that I know exactly why it's happening, but I definitely know at least 60% why it's happening. First of all, let's be honest, social media leads or leads which are clicking while they're browsing through Instagram and Facebook,"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Window shoppers."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They don't have that much of intent. It's not like they window shoppers, they have an interest because you would not click on something which is not interesting for you. For example, I'm not clicking on the ads of penis enlargement. Like really, I'm never going to click on it. So, I don't have any intent on that. So, it's never been a case that someone phoning me back and say, well, have you subscribed for this service because we're really good in it? So, they have an intent, but it's, of course, a little bit low that we want them to be. So, next is a little bit something for your entertainment. Have you seen the movie Wolf of the Wall Street?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes? Do you like it?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What do you like about it? It's fun. The character is cool. Crazy. Yeah, but do you know that Jordan Belfort, the guy is actually a real character? He does exist and he has his own sales training system, which is, do you know the name of this training system?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Straight line."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Straight line persuasion, right? One of the pillars of his sales training system is, when you call to the client, be really enthusiastic about your product because if you're enthusiastic about your product, you're going to think that there is something really good you can share. Have you heard how Jordan Belfort speaks? Like the real Jordan Belfort. He has a podcast. Well, this voice, the tonality, the way he paced, his cadence, it's something you cannot replicate. It works for him. Specifically, it works in this movie. So, my question is, I'm going to play a small episode from the movie. This is exactly when Jordan Belfort lost his job on a stock market and he's looking for a new position in some, what is it called, Mickey Mouse stock trading investor center. So, the questions I will ask you after the video is, how would you describe Jordan? Which year does this movie represents? Yeah, because, I mean, the movie itself been filmed in, I think, 2008, 11 or something like this. But the events of the movie, they've been a little bit earlier. And do you think similar conversation that we will see in the movie could potentially happened today, March 5th? Probably 6th. In Dubai real estate or in any sales sector. Okay? Cool, guys. So, I know you're going to enjoy it, but think of the questions. Well, I hope the audio going to be loud enough. The internet is not giving us a good chance."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Okay, that's stop."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I did it already once, guys. Do you know how to stop it?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Sorry guys. We need. We need a technical support. Can anyone call someone from reception? Because I already did it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In other company couple of weeks back and I was just like, Jesus Christ, I'm just like pressing too much. I don't know how to get back. I'm just afraid to kind of up. Yeah, cool. It's going to take some time. Are you struggling with the speed of internet here?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Can you hear what he's saying? Oh, no. Guys, that's my hints. Oh, no. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, guys. Um, the other question, um, which year do you think that's represents?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Late 80s, early 90s."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Late 80s, early 90s. Any other ideas?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "2011."
+    },
+    {
+      "speaker_id": "3",
+      "text": "2011."
+    },
+    {
+      "speaker_id": "2",
+      "text": "2009."
+    },
+    {
+      "speaker_id": "1",
+      "text": "9. Okay. There is no laptops, by the way, over there, just so you know. Not even computers. They don't have it. You see? They sell from the paper. So, are you still sure it's 2011?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think yeah. The movie was shot in 2013."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah. So, just after 1981, Black Monday."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Fantastic. Black Monday was the reason he was actually out from the stock market. Fantastic. So, guys, this is a 40 years ago. 40 years. Having this in mind, do you think between those time that 2081, well, I was born in 2080 up till this point, something changed with these consumers behavior?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "With the consumers, they are more informative now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Fantastic. So, do you think this conversation with the same outcome would make could be even possible in our days?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Possibly, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And the guy would buy."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah. Possibly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But out of 100, how many conversation is going to be like this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's going to be very low, but it will happen."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, following through, guys. The guy would buy if he confirmed what he says actually. He will go and check on the Google about the company and so. Exactly. If he finds his words are really like something, then he will buy. The new era of buyers is what we're going to talk about today. So, the reason that your buyers are having a very low level of trust, or basically it's kind of a post trust era, because of Jordan Belfort and everyone like him for 40 years been exhausting the trust. Back then in 80s and even 90s, the sales person was the only, let's say, connection link between the company and the public and the consumer. So, we've been selling sales people to educate and tell about the product and features and benefits. So, you talk a lot, you hope and pray that whatever you're going to say going to click with what the consumer wants and they're going to buy from you. But unfortunately, it doesn't work this way anymore. Your buying behavior has changed as well. Do you believe in anything a sales person is telling you? Telling. And any promises that you've been given by a sales person? What do you believe in now?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I want something solid, consistent, history."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, for someone who is more driven by the numbers, because there are different type of personalities, someone who is more driven by opinion of others, going to look at Google reviews, right? Or there are people who have like, well, whatever I feel I'm not feel, I am understood and respected by the sales person, right? When are we saying understood? That means the sales person been asking me question to understand my unique situation. And asking me smart, skilled question, and appear in front of me like a professional. Not just any question, not just open-ended question. Not just trying to connect with me in the beginning of the sales call selling, hey, how are you? Oh, how is weather down there? Or, I don't know. You like mountain climbing and I like mountain. Oh, I've been in India. I've been living there for four years. Which city are from? Come on, the client does know what you want to do. They know about rapport building. They know that you're you're just wasting their time hoping that you're going to build up the relationship for that. You think the same way. Even though you most of you are younger, you haven't been sold that much, but we all living now in a post-trust era. So, we've been sold each day, every day, starting from the first social media ad that we see when we open our Instagram in the morning, right? So, that brings us to a conclusion that us as a customers, and our customers as well, they don't need or even don't want anymore to be pressured by sales people. So, as soon as they experience a little bit of sales pressure, what they do? They put sales resistance. They don't want to interact with you. And there are two type of people, I mean, there is 17 or in some methodologies 21, but it doesn't matter. Overall there are two type of people. The A type personality, which are majority of you, probably because real estate agents and sales people, we are kind of more outgoing. So, the A type personality, uh, when he will feel that he's pressured, he's going to start throwing objections on you. Oh, that's not actually correct. That's not right. Blah, blah, blah and, you know, you're going to start having a battle with the client. The B type personality going to probably say, that sounds fantastic. I really, really like it. Let me just think about it and I get back to you in couple of days. What they want, they just want to get rid of us, unfortunately, guys. The true is, we can lie to ourselves, but the true is this."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Just me at the same."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, and like, this is this is not your fault anyhow, that sometimes consciously or unconsciously, you are triggering triggering this reaction, you're triggering the sales resistance. We all been taught to sell Jordan Belfort way. We all been taught this way. I did. When I had my first sales training, this is what exactly was I've been told. I have to kind of shift myself and change myself to a different methodology, which works way better in the current days. That's not your fault, guys, but this is your problem, right? Am I right? If you have this problem with leads, this is your problem. There is no one else but you going to be there to decide it. Are you going to solve it or not? Again, it's up to you. You don't have to. It depends. If you are happy with your current level of earnings and you're happy where you are, there is no need to change anything. If you want to have more and you see progression in your career into, you know, maybe sales leadership role or just to make more money, then you have to look into the, you know, learning new sales skills, changing a little bit something. Because if you're going to be just keep doing the same way, like, whatever going to change? You're doing the same thing and expecting a different outcome. Unfortunately, it's a definition of insanity, craziness. Not by me, by Einstein. Are you with me, guys? How do you feel about that?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You're probably going to ask me, okay, Olga, what the hell? Yeah, we know that, potentially, that's something. So, what should we do, right? Do you know what you should do? Any ideas? How to solve this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Listen to you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, you don't have to listen to me. Okay, how? Try to do it differently. How?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Differently."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which ones?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, the I think it's going to be, we're going to have the Alnair in the next in the base."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What's the question again?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Thank you for re-asking it. I'm going to re-form the question. Having this in mind that potentially the problem is that what you're saying or maybe not asking, causing the client to shut down on you, stop responding. It's not because of the client, because the client is the same. Those are the same clients are buying from other agent, guys. You've seen the transaction. This transaction been done by the clients. Some clients which been working with you, then purchase through other agent. So, having this in mind, what do you think from this point, it makes sense for you to change or start doing differently?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "The way you speak and the time you're calling. Sometimes he simply doesn't click with you because he knows you are from this ex kind of country. So, sometimes you have to simply accept that this client is interested, but he might not simply click with you and you'll have to pass him to someone else. On the other hand, you can work on yourself and you can enhance your English, the way you speak, the uh, what do you call it, vocab you have and you can add value to yourself and eventually, you're going to increase the sales transaction you're going to be making. However, still you're going to be losing some interesting client, which is part of the game."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Are you on the sales management role already or not yet?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, I'm agent."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But we feel that, you know, soon something is coming, no? I wish, I wish this for you."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah. Just make me get mad at me, that will happen."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, whatever, whatever you feel going to make you more money, I don't know. Okay, that that's that's a key, guys. And maybe our managers, nothing. 30 minutes is gone. Are you going to give me 10 more minutes?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, go ahead. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Are you are you wanted to you like me? You don't have to actually, but it's pleasant. Thank you. So, when anyone is telling you, you have to change the vocabulary or you have to kind of enhance your English, that's this is what we have to do. But how exactly to do that? Have anyone ever told you what you have to do one step by step to to kind of get where you are with your English, vocabulary, your sales skills to where you want to be? Apart of, you have to build a trust with your client. Be really the one who he want to get back to. And you're just standing there because this is what I've been told when I was in my agent career and I'm just standing there like, yeah, that's fantastic, man, but what exactly I should do? That sounds great, but like step by step, what should I do? I don't know, and the funny thing, maybe the person who was giving me advice, had no idea as well. But it just sounds like a right thing to say. I'm not saying that you don't know. It's not about anything about you. I'm just I'm just saying that we all know the right thing. The same with fitness, the same with losing weight. We kind of know what to do, right? Move more, eat less. It's just a common sense, but there is no there are still people who are a little bit struggling with how to get there. So, what I do, usually, what I'm aiming to do is to teach sales skills and strategies as a step by step process with the scripts, with the sales processes. With the sales process is a king that you put the script on it, and you create such a connection with the script because you learn it, you understand it, you understand the answers of your questions. That the script becomes your own. It's you. There is no disconnection anymore. And then you follow your sales process and make your client follow the sales process with you. Does that make sense? Not yet. Because it's just like, okay, it sounds good, Olga, but what exactly should we do? Okay, so let's see. There's another questions that I usually got from the agents. How to convince the client or how to convince? What should I say? What exactly should I say? He's Olga, look, he sent me this message. What should I respond? Um, how to make the client trust me? He doesn't trust me. How to make him trust me? Or how to make him choose me as the only one agent?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "You first need to trust yourself that you're trustworthy and you don't have to prove it to anybody else."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, you you feel that you're trustworthy, but the other person doesn't necessarily feel that."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You won't convince anyone. You have to make that come to terms. And that's what you get for it. Love it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And the way you're going to convince them, the easiest way is through asking the right questions in the right time with the right tone. So, the response on your question is going to be exactly the thing, or almost the thing, guys, it's not about manipulation, by the way. I'm going to remove that word. It's about helping people to get where they want to be because sales is nothing rather than change. They are here. They don't have a property, they don't have a passive income, they don't have a new home, they don't have a retirement plan, they don't have understanding how they're going to pay for their kids' education. This is where they are. Property is just a vehicle, which brings them up where they want to be. Secure financial status, kids' education paid, new home in a safe country, or whatever you want. This is what they're buying. They're not buying the property. But the change that they have to accept, specifically when we're talking about off-plan sales. The fear that they have that they're going to make a wrong decision is on a different level compared to a secondary market. And we all know that, right? On this point, I'm usually asking talking about a little bit of analogy so you can understand what I mean. When you come into the doctor office for the appointment, doesn't matter, dentist, general practitioner, anyone. How do you understand that this is a good doctor? How do you kind of make this judgment?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "He listens to you."
+    },
+    {
+      "speaker_id": "4",
+      "text": "You ask some questions that you are sure that like you want to validate him like you will not give him full information about your maybe symptoms or something, but you already know what is there. So, you want to make sure that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's calm, collected, he knows what he's doing. Through his question and ability, the way he asks questions, the way he leads from one answer to another question to ask you, to another question, just from that. Because you are not a doctor, you don't understand, okay, so let me check how good you are with, I don't know, this part of medicine. You don't know that. But you understand, just because he asked the right question in the right time and leads you to a conclusion, you realize that maybe my symptoms, which I think were just needed an additional painkiller, is way more than I thought it was. Right? Through these questions, he might create inside of you internal urgency to change your situation. When you understand which problem or potential problem in the future your current condition may have. Right? But if he will just tell you, oh, you're probably having XYZ and then you will have to pay me $1,000, so I can do an operation and then, you know, we're going to do a recover me and it's just going to cost you this much. What are you going to do? Would you believe this doctor? You're probably going to say, yeah, fantastic, well, let me just, you know, check with other doctors, so I can be sure that whatever we're doing makes sense. Exactly the same way. So, guys, the main way for us to move forward and overcome the sales resistance, just just coming into the, um, does anyone understand what the sales resistance means at this point? Or should I give you an example? Or you know where you have all of you have sales resistance. My favorite example is, you are in the mall, walking into, I don't know, Massimo Dutti, which which one is your favorite shop? Chanel, maybe? Um, and the shopping assistant is happily looking at you and walking towards you. Hi, hello, how can I help you today? What is your response?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "No, thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, thank you. I'm I'm just looking, right? And this is this comes automatically. You don't think, okay, I'm going to say this and I'm going to say that. It just comes. It's just there, always. So, this auto responses is just because you want to protect yourself from uncomfortable conversation, from them trying to sell you something. And it's already always there. And that's been triggered with the first second of what you say and the tone of your voice. Comes together, both. What else could the shopping assistant say to make you maybe engage with him? Any ideas?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "What are you looking for today or something?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What are you looking for today? Potentially. Any other ideas?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Add value to his store shopping trip and tell him, hi, don't miss on the discount over there in that corner. Have a look at it. Enjoy the shopping. This is what what they do. Yeah, that's good one."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But do you want to sell only because it's cheap? Or you want to sell to sell, you want them to buy based on value, the real value. You want to pay them full price for the."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I just want them to to get some attention and take them around whenever I find another opening. I'll ask that question again."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Fantastic, guys. Yeah. Any ideas?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "You tell him, what exactly are you looking for?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Very good. You can approach him as a human. Hi, my name is Ahmed. Uh, how are you doing? How are you doing, guys? Are you are you calling your people, your clients and you're asking them how are you doing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No one cares."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Please don't do that. I know maybe in Arabic is different, but it's just, you know, just each and every person doing any cold call or anything just just how are you. And I know, and you know, that this is a stranger calling me. He doesn't really care how I do it. He doesn't really care. So, why he's asking? Because he wants to sell me something. It increases the sales resistance times and times. All the options are good, guys. Um,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, I'm right here if you need anything. How do you feel about the, you know, there is an interesting thing."
+    },
+    {
+      "speaker_id": "4",
+      "text": "You can ask him, have you ever been in our show before? Not, let me show you around what collection here and there, so you have like better coordination inside the shop."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Potentially. Yeah, and then you can understand he's like already a customer and or he's not here. So, what if he will answer, yeah, I've been in your shop. I'm here often."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, well, why did you buy before? What did you have? Potentially, if he if he if he is like a little bit more open to you, he will say, but sometimes they will not. Guys, what I'm what I'm trying to to kind of give you as an opinion, and this is doesn't mean that there's the best option. But what if we're going to use a pattern interrupt? I'm coming in, I'm still looking. This is my auto response. This is the response I'm going to say. So, the sales person is approaching me saying, um, hi, I know you're still looking. If things change, let me know. Or, I know you, I know you're just looking, but do you know what you're looking for? Less what are you looking for? You see? Less direct, more neutral. Do you see the neutrality? Is there anything I can help you with? There is a status play in any sales game, specifically in real estate. So, if you're coming with a lower status, saying, hi, um, it's Olga. Um, you know, I know you requested, is it a good time to talk? Um, I can help you absolutely with anything, just any time you need, just give me a call. Where is your status? Here, but why would it be here? He has a problem. Your client has a problem. He needs a property. You have a solution. You are the doctor. Like on a different level. Because you know how to solve his problem, and he doesn't. If you're coming from a lower level, you end up having a problem and the solution. And he's not going to treat you as a trusted advisor, of course not. Because you're needy, you're attached to the results. You want this sale more than him. And this is what he feels from the beginning, the way you enter the conversation. So, the sales resistance, my my favorite example is when my mom used to call me when I was a kid. From the first sounds out of your mouth when she was pronouncing my name, I knew it's going to be good, bad, what's going to be happening. So, 90% of population do not trust sales people, including ourselves, actually, we do not trust them. Well, I I have a very low trust in sales people. Because we come across as aggressive. We do come. When we speak fast, when we are pushing through, then we are hoping to to move our point across before someone say, I'm not interested, we can come across as aggressive. Desperate, desperate for a sale. We need it more than them. Needy and attached, attached to the outcome, attached to the results. I need you to buy this unit. Right? Um, an example for that is both females and males, the dating scene, because it's human behavior, guys. All of this is based on the human behavior, all I teach. And it works in absolutely any field of human connection. When you are dating and the lady or the gentleman is really, very interested in you. He's texting, calling, and just like, way too much attention. What do you feel? You feel like a little bit something is like, it's like too much, no? It's like you feel like you want to push back. Even though you like him. Only if they if you guys on a date with a female and she's, you know, after the first cup of coffee, start talking about kids and how she wants to get married and, you know, you look like a guy who potentially going to have a good genetic material. How do you feel? I'm going to say, oh, sorry, my phone is ringing. Really? So, you want to you you are about to get married, so, maybe it's going to be a good one. But anyway, guys, this is all the balance. And because we are needy, because we are attached, we are coming into the relationship with a lower status. When you come into any relationship with a lower status, it's very hard for you to bring the status up. So, the idea of the sales conversation, at least how I teach the sales, is for you to come even with the higher status, or at least on the same level. And it all comes from the communication skills. We all think that we know how to talk. Communication skills is in our CV clicked, but unfortunately, it's a little bit more than that. How do you usually now, um, open the call when you call back to the leads from social media? Like, they have the lead, you can see it's from whatever campaign Vincci, Dori and you launched or something. You have a campaign, you have this lead, you call and what are you saying?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hi, good morning, Mr. X. I hope you're doing well. Oh, hi. Uh, my name is Hamad. Uh, sorry. I was calling and I would say, uh, you were interested, you left a query and you were interested in this project. How may I help you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I keep it open and he speaks. Okay. What if you're going to say was just send me some information. I'll get back to you. No. Uh, I I could consider that as a brush off. So, I don't want to. It is brush off. You don't have to consider it."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, so you you attack or a little bit. Being sensitive and knowing that you're not, you see, you attack a little bit. Okay, great. And you prefer timing, you would like me to call you back?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, just don't call me back. Just send me the unit information. If I will like something, I will call you back."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What I say to those people, I believe you have a local number and you're in Dubai. Would you like to meet me in person? Would you like to come and see the project?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, actually, I don't know yet. That's why I'm asking the information. Good. Good, guys. Look, and I'm not saying that the recipe that I'm teaching is going to solve all the problems because it's a human relationship, human connection. It's delivery of of the script, it's delivery of what you're saying. The cure from Jordan Belfort disease when we assume, we assume he's interested. Just because he clicked. When I'm training the newbies, I'm I'm I'm giving them the the comprehensive training, and I'm telling you, guys, you're going to get back to me asking in couple of weeks when we're going to start selling, Olga, why the leads are like this? Why are they not serious? And they say, no, we would not. I was like, yeah, guys, believe me, you will. So, when you are assuming that that they're interested, you kind of push them to bring the sales resistance wall and even tell you, send me some option. Why? Because he doesn't want to have a conversation of you trying to sell him on the first call, not because of you, he doesn't know you. But he has another 15 agents before called him and trying to kind of push the solution down the throat, features and benefits, great ROI, best location, blah, blah, blah, boo, boo, boo. He's like, no, not this one. It's not about you specifically. It's just how the market is. So, instead of this, we have to add a little bit more neutrality. When we are neutral, we're coming across, just in the beginning of conversation, not further in the process, guys. Like unbiased. So, I'm as a professional, I'm as a doctor, having you sitting in my office, to be honest, I don't even know if I can even help you yet. I need to know a little bit more about your symptoms, for how long the symptoms been happening, or you've done so far to kind of stop them. And and and what even you want to achieve with having your condition, right? Because I don't know, like, you you step into my my doorstep. I don't know if I can even help you. Maybe you should go to a surgeon or a dentist. I don't know. So, I'm coming neutral. When I'm coming neutral, he doesn't feel threatened to open up. Do you see how that works, guys? Do you understand what I mean? And I mean exactly this. The first question that I teach, depending on your CRM system and how you're receiving the leads. If you are able to understand which social media campaign been done and you've seen the artwork, well, that's preferably, then you should know, okay, so that's, let's put it again, Vincci, Dori. This is what's been written on the ad that they've seen, and they registered the interest. So, I know, I'm kind of on the same page. What I'm doing from the beginning? I'm removing the focus from myself, and me showing them great features and benefits into him and his problem. So, when you saw the ad, um, what was about the ad, maybe, you know, besides the shiny graphics that attracted your attention to respond? What is the answer on this question? He's going to tell me what he's looking for, right? Potentially. Oh, I'm just interested, or I'm just curious, or I just want to make some money. I was like, okay, that's fine. No one ever, you know, told me on this call that they want to make less money. And then I'm jumping into my next questions. My next favorite question, which I am asking in the beginning of conversation. And, um, regardless if his number from Dubai, or number from Oman, Qatar, Australia, it doesn't matter. Um, I would add something, oh, I can see your number is from Dubai, or I can see your number is from Australia. Um, so, um, what attracted you to look a little bit further into Dubai real estate market rather than maybe invest in Australia? I'm using my tone, curious. No high pitch. I'm very neutral. I'm unbiased. What attracted you to look in Dubai real estate market rather than, you know, maybe check something over there where you live? How do you feel about this question? Scary to ask? No one has asked them. What will be the response on this question? What he going to say? Will he try to sell himself of Dubai? Will he try to prove you why Dubai is a good investment? Right? Do you see how it works? And this is just like a small just like a small seed, just like a small nibbles. Right? Um, that can be the next question after have you been to Dubai. And and based on your help me understand based on your kind of um, understanding of market statistics, the the the trends, um, the the prices of, you know, sale and rentals. How confident how confident do you feel that you will be able to choose the property that will bring you, as you told me, the highest ROI? After you ask him a couple of those questions, he would say, well, I I don't know, right? And then you can help him with one more question. I want to say, box him into the, this is this is all you come to the Zoom Zoom meeting booking. Right? Then you can ask, well, have you, I mean, I assume you're talking to other agents, right? In in Dubai. And that's fine. This is what I would do if I would be on your shoes, choosing the right property for me. That makes total sense. What I just did? I'm normalizing it. Now he can open up in front of me. Now he doesn't have to hide. And I will tell, um, have you have any of those agents, or maybe someone else ever kind of sit down with you and went through all of the process how investment works, like in terms of uh, legislation and then the further handover of the property, and then maybe resale or rentals. Have you have you had anyone kind of go over this with you? What he going to say? No. And I'm using specifically, have you ever sit down with someone? Why? Because I'm saying this in your mind, you're imagining yourself sitting down. It's the same as I would say, don't think about green monkey in the in the center of the room. So, he understands, I I don't know. I I I really I really Before, you ask him this question, he he never even thought about this. He never understood before you start asking him that there is a gap in his knowledge, and he might not be able to choose the right unit. Make sense, guys? How does it feels? Yes, no? Okay, from there, we're going to make him into like, so, he's already sitting and thinking. He's not reactive. He's not boxing us. We are putting him in a position when he thinks, what that means? When we are out of the conversation, he going to still keep doing what? Thinking about what you said. About what you ask. Do I really or do not? What? So, after this, what I teach to do is, well, um, if that would be helpful. Listen to that. If that would be helpful. That's me, I'm helping you. If I'm helping you and you need help, where is my status? You need help. I'm helping you. If that would be helpful, um, we can book a little bit more time together. We can book a little bit more time together, where, you know, I can show you uh, a different option that we have for our investors. The the databases that we use as professionals to kind of determine based on the actual transactions, sales and rental values, which area will have a high potential in the future. Would that be useful if we would do that? Yes. Okay, I can open my calendar. It seems like I have a couple of windows here and there. Which one works for you? Right? But it's not enough, guys. We have to show him something on the on the Zoom meeting, right? We have to show something. On Zoom meeting or in person because if on the Zoom meeting we just open the map and just like, this is downtown, this is, oh, you know, there is a communities and there is individual buildings. He's like, well, what the hell, man? Why am I even here? So, there is a huge I don't want to say gap. There is a huge there is a small learning piece into how to do the Zoom meeting to keep them engaged and not drop off after the Zoom meeting, but jump into another Zoom meeting and book with you. Does that make sense? Was it a little bit valuable? I think it's the next one. Let me check. So, if you want my script for the off-plan and secondary, you can scan it, register yourself, and I will send you the extended version of the script step by step what to say on your first call. It's going to be with a bit, you don't need it, right? But you're not going to get it if you're not doing it. Okay, guys. Moreover, with those uh, who registered, I will send you the invitation link for Alnair platform as well. So, you can, um, start your two weeks free trial of full functionality of the platform. And I will give you an additional uh, training, which is going to be online, on how to use the platform for your Zoom. Right? But the agents with whom I'm working, they are saying that instead of two hours creating different offers and just just browsing what to send to the client, they now use it 10 minutes, max, a day. And they look professional, and they really stand out. But, you know, I have a special twist on using Alnair for sale. Everyone done? We can we can jump to. Anyway, it's a bit of more that you wanted. So, this is how Alnair looks like. Guys, um, your internet is a little bit slow. However, I know that you some of you are using Really, some of you are using Genie Map. Um, and I really will try now to connect the platform with my phone internet, so we're not going to wait for hundreds of minutes while I'm creating a different collection and offers because with Alnair, it's not only you can send the client, well, I think I put it there. Yeah. So, I treat Alnair, specifically if the company got an access and it provides you the platform and paid for you to use it, as this is our company Prima Capital database. And I'm I'm selling it to the client. On the Zoom, I will be able to show you our inside database with all of the units available. Not only developers. In Alnair, you will find availability of units. You will be able to create a different setup for the, uh, for the client, and send them a special offer special collection, not only of projects and prices, of specific units in this project, based on their requirements, based on the down payment, based on the how much down payment they have. If they have only 150,000, you can filter and understand which project are with 150,000 down payment, post handover payment plan, going to be delivered in 2026. You're going to click this project, you're going to add them into collection, you're going to write a personalized message, you're going to enter ROI, which you can hand print in and send it to the client. And if you send it as a link, and this unit, one of the units that you've sent him, will be sold in two or three days. Guess what's going to happen? Inside the client link, because it's connected with the database, it's going to be marked as sold. So, now the client who've seen the offer when you just sent it to him, he've seen there is five units available. In two days, because you know which offer you sent to which client, you go in through the offers, you click in them. I was like, okay, so out of this offer that I sent to the client with different developers, different units from different developers in one link, two been sold. So, what I can do? I can text the client to say, hi, Mr. Client, um, I'm not sure if you've seen that, but there is a bit of change of availability. The two units from what I've sent you already, been sold. So, I just just wanted you to let you know. So, what does it mean? Do you ever need to bring this external urgency by saying, the units are selling fast, there is the last unit. And he doesn't believe you. But when he sees that unit is sold on the system, you don't have to tell it anymore. It's there. Um, you have floor plans, project and view from the windows, guys. Specific units, you pick them up, you show you. There is a floor plan of the building, and you can see where the view going to be. If you come to the plot, and you face the road, okay, so I can see that's going to be there. Well, Mr. Client, this is a picture for you. Um, you can do it dynamic links or PDF files. If you don't want to send the link, it's not really nice looking yet. It's kind of longish, but we're working on it. You can send a PDF file as well. So, do I have anything else? Oh, guys, this this is a I introduce it recently, actually, into my Zoom training. Um, when you are going through the map with the client, which you potentially can. So, here is, Mr. Client, our database, it's not going to be Alnair written here, it's going to be Prima Capital if your company would buy this. So, it's database of Prima Capital. So, you can see in our database, it's currently only in Dubai because you can switch to Shajah, Abu Dhabi, Al Ain, and whatever. We have 793 developers. So, remember how I told you that I would love to send you some options, but that's really so many options to send. And, you know, we have to know a little bit more what you're exactly looking for to be able to send it for you. If you don't want to show all of the options to the client, you can put the filters and show him only what he needs to see based on his requirement. So, I'm going through the map with the client saying, okay, so Mr. Client, you've been to Dubai, which area looks familiar for you? And he going to say something like, oh, yeah, just downtown, I've been to Burj Khalifa, I've been to Marina, blah, blah, blah. And you're saying, oh, Marina, you've seen Marina. How do you like it? Oh, I really like it. It's an amazing area and just, you know, I was really like thinking potentially to buy something over there. You can say, yeah, that that makes sense, you know, that's really a great area already. Um, and I wanted to show you something. And you jump into this. You're on a Zoom, you're sharing your screen. Guys, you know how to do it, right? And you do not let your client to have a Zoom call with you when they're on the phone walking through the streets of India. I had a guy, I have an agent telling me this. Olga, is it okay if I had a Zoom with a client and and she was not switching on the camera, but I think just because she was going through the streets of, you know, and she was in Mumbai. And I'm just like, she was in Mumbai, the most populated city in India, going through the streets, looking at the, what are you been wasting your time? I don't understand. So, we make it really serious for them. And there is a way to do that, so the client is waiting for to have a Zoom with you. And then I'm showing something like this. So, do you recognize Marina now? This is my this is my conversation with the client. I'm not pitching on a Zoom. I never pitch. I turn my statements into questions. Do you recognize that's Marina? Yeah, well, guess, which year is this? Like, what do you think which year is this? The first picture. Picture number one, which year?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "90s."
+    },
+    {
+      "speaker_id": "4",
+      "text": "2000."
+    },
+    {
+      "speaker_id": "3",
+      "text": "2000."
+    },
+    {
+      "speaker_id": "1",
+      "text": "2000? Maybe even four? Maybe even five? Right? 2005. And what about the picture number two? Do you do you by the way, do you recognize what is this? This is JBR. You've seen the JBR, Mr. Client? Oh, yeah, I've seen. You've been on the beach? Oh, yeah, I've been on the beach. So, what's like on the other side of JBR? Oh, I don't know. Oh, that's that's actually Marina Mall on the construction. Oh, really, that's fantastic. Yeah, and this is, um, I believe like maybe 2010. Okay, and what about this picture? Marina Mall is still on the construction, but it's just way more already on the picture. What are you going to say? Oh, I don't know, 2015, 16, 17. He can he can say, oh, but maybe 2008 because of the buildings and blah, blah, blah. I was like, yeah, well, potentially, but you can see construction going. And what about this picture? Bluewaters Island, Dubai Eye. Which area is this? You know, guys, what I'm doing this? I'm asking the client, okay, so, I know you like Marina, right? But based on what you've seen so far, just my question to you, um, let's put it this way. This client is from India, just because we've already been talking about India. And I know about my home country. This is why I would say I know about my home country. But I don't know like exactly about your. Do you think anything like this would be possible to complete just in, you know, kind of 15, 20 years in your country? What are you going to say? Even if they are from US, what are they going to say? Australia, what are they going to say? UK, what are they going to say? No. They're going to say no. I mean, well, yeah. But do you think how it's possible in Dubai? Oh, yeah, because Dubai is this, Dubai is this. Not me telling him, he's telling himself. You see? Do I do anything? Do I force him? No, I'm just showing them. Guys, this is just really from Google, horrible pictures. Sorry for that. My next question would be, um, but as an investor, because this is here, we are here to to find you the best option. Where do you think it was the right time for investors to put the money in, so they can make higher profits? Do you think it's here? Or do you think it's here? Picture number one? Guys, are you all in this? You would all select number one. I would say, okay, but I'm not stopping on this, guys. I'm not happy. I'm not yet excited sales person thinking, okay, I sold him. No, no, no. I need him to sell himself a little bit more, right? So, not for me. I want him to feel really connect with it. So, I'm going to ask him, but why do you think so? What he going to start talking about? What he going to start saying? Oh, well, because, you know, just in the beginning, it's always like higher, the prices are cheaper, blah, blah, blah. Guys, isn't this exactly what you want to say when you're trying to sell JVC, JVT, or really any area which is now under development, right? Is this what you're trying to do? To tell him that it's good to invest now before all of the infrastructure been developed, so you can have a better value for money when the price is going to go up and the metro going to be there, blah, blah, blah, right? But you don't have to do it because he knows. He knows for himself, he makes this decision already. Just because you ask him right question in the right time. So, then then you say, yeah, well, exactly. Yeah, that makes sense. Because over here in Marina, I know you love it, and you told me, and I do as well. But there is no much potential left. And the prices are already on the top. I'm not saying they're not going to grow, they will. But it depends on what you want. Do you want like to really have a high price appreciation of your property when the area will be completed? Are you okay with, you know, just a little bit? It's up to you to decide. What are you going to tell you? And I'm not telling you should. I'm telling you it's up to you to decide. I don't know. Maybe maybe you're okay to get here, and I can find you a unit. That's no problem. I think I think that's it. And, um, any questions on this, guys? Was it valuable? What's your biggest takeaway? Anyone is happy to share that? What now you will do differently?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I like the different approaches for sure because like, for example, like you said, it's obviously different with different clients. But like in my case, like I work with German, Polish, Czech Republic people. So, they have different mindset, all of those. So, so for example, your approach, I know that from one of the the people, like one of the countries, I can use for sure. But on the other side, you also said like, oh, building the the trust to your client and everything is is maybe not the best way to do it at the beginning. But like, for example, for me, as with Polish people, it's the only thing to do it because like if you are like, just you will be like selling and trying to do this, they will be like, you know what, like, I feel like we cannot sit and drink a coffee together, so maybe just not good. You know? So, I think the approach and seeing the differences is very good and I I really respect it and like I really liked your presentation. And I think it would very valuable to see even the other perspective. So, thank you so much for your presentation."
+    }
+  ]
+}

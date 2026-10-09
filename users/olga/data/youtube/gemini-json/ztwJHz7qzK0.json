@@ -1,0 +1,20 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Building the client up that is one of the main stepping stones and understanding your clients, what they want, what problem they have, how the problem is affecting them, what's going to happen if they will never change, never purchase the property. So, if you as an agent think that your clients are only there to make money, you are losing a lot of clients just because you're talking about price, not solving their actual problem."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Come on, come on guys, come on."
+    }
+  ]
+}

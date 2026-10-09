@@ -1,0 +1,24 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "So, what advice would you give to yourself knowing everything you know, if it was an opportunity to send the message into 2014."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, a very good question, you. Very good question. I feel like um if I was to send a message back to myself now, it's all about hustling. Okay? So, I feel like in Dubai, if you want to come to Dubai and you want to make it work, you want to be successful, it's all about hustle. You got to work hard, okay? It's not for the faint-hearted. If you want to come here and enjoy the lifestyle and have all the great things that Dubai has to offer, great, you can do that, but it comes at at at kind of at a cost. So, you got to be willing to work seven days a week, 10, 12, 13 hours a day. You know, you got to make sure the job comes first in every aspect. If you can do that, you're on to a winner. Um I see so many people that come to Dubai and they don't make it work because they're the the lifestyle takes over. You know, they want to make all this money, they get disappointed when they don't make the money, but they actually haven't put the effort in."
+    }
+  ]
+}

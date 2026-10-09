@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "When you're moving from anywhere to Dubai, how to secure your accommodation? I heard so many stories when the agents are renting Airbnb for paying for month in advance and then they're arriving here and their accommodation is horrible. The mattress is bad, it's too noisy, it's completely wrong area for me now I understand how I have to commute. So, the easiest way, get yourself something for one week, maximum. Do not commit for anything else. When you are here in Dubai, depending on your budget, you can try to get yourself into shared accommodation in the bigger areas like Marina, Business Bay, downtown. There are a lot of expats just like you, they don't have enough cash to afford the whole whole apartment, but you can get a quite decent room in the very well maintained building with a pool, gym, and all of the lifestyle, let's say evidence of Dubai, but paying, I would say anywhere around 900 to 1,000 pounds. Yes, it going to be that much. You will be able to squeeze down your budget later on when you will move into your own yearly contract accommodation, which is going to be probably a little bit further than all of this fancy pancy areas, but you will have your car to commute and you're going to still be reasonable, nice building with gym and pool. Now this is Dubai, it's always gym and pool."
+    }
+  ]
+}

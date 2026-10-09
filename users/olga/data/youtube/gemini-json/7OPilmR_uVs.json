@@ -1,0 +1,464 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "I know that in some companies agents work for commissions for months and months to come."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sometimes they don't even get paid it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Close your first deal, like literally in the first couple of weeks."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In the first literally first couple of weeks."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then get paid by the end of the month."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly. If you want to make it here in Dubai, you want this to be your life and this you're taking it seriously, you're going to want to work the next 365 days. If you take a holiday in your first year in real estate, you're like starting again."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Welcome to a new episode of Olga and Ashley."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hello. Long time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. Actually you've been requesting us to talk more about the initial steps that you should start activating in order to what to do what?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, listen, I think people have been asking us so many questions about how to basically how to start in real estate, the qualities needed in real estate, and how to be successful. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And we decided to come up with a 10 factors that agent most probably don't know or don't know or they know but they still don't do it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Correct."
+    },
+    {
+      "speaker_id": "1",
+      "text": "To get your every month count and close deals every month."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, that's why we're here, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's why we're here to to close deals and make money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And um factor number 10 going to be most valuable one, I think."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think so. You've got to stay tuned."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because Ashley doesn't know yet what it's going to be number 10."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I've no idea what it's going to be. That's why you got to stay tuned. To see how I deal with that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And as usually, your favorite host Ashley."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He he's getting famous uh talking to me on this uh YouTube channel. Usually you've been said that, oh, you were there with oh Ashley, I know you. You're there with a blonde girl."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And every meeting I've been having over the last two months, pretty much from anyone from the UK, I've been speaking to online. They're like, I recognize you. You you do YouTube with the blonde lady. I'm like, yes, that's Olga. That's like, fantastic. I can't believe I'm talking to you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, and just for you to kind of justify me a little bit more than a blonde lady. My name is Olga Sinenka and I'm real estate sales trainer uh in Dubai. Uh, well, what would what else would you say? Why should they believe you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because it's because I talk the truth. I'm authentic and I know when they're good things. I do. I do and you are the best. Listen, I've um been in Dubai for 11 years and I've worked with many trainers and"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's out of the script by the way."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is that? So I can't out myself. But I I do want to say that, you know, 11 years in Dubai, um worked with many sales trainers. I can honestly say that Olga is definitely one of the best in the business for her knowledge, her skill, the way she delivers her content whether that's in person or like this. I think it's definitely something very good that everyone should uh should definitely get into."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And if you feel like this type of content more training um let's say related uh is your way that I recently launched my online YouTube Academy where I made it available just for a price of a cup of coffee a month. You can"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Cup of coffee. Cup of coffee. Maybe a tasty one. To be successful and to make money, a cup of coffee a day or a month."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would say you can dive yourself and understand the real estate market of Dubai regardlessly of if you are already in Dubai or you are still kind of outside googling how to become a chief executive officer of a huge real estate company in Dubai in six months. How about that one?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "There you go. Should we should we make an episode on that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think we should. It's pretty interesting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Some magic wand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, think done. Okay, factor number one. The quantity of interactions with the clients, whatever it's called, messages or maybe direct face-to-face conversation daily is equal to quantity of deals you close monthly. What do you think about this one?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I always think that you need to as a broker, I know what I did is I would always analyze my stats at the end of each month. Okay? So if I did X amount of calls, got X Y amount of viewings and Z amount of deals and money on the board, I would then think, okay, if I want to earn more money next month, I need to double what I'm doing with my calls. So data and stats are so important when you're starting out. I always say this to my team, make sure that you record your stats because in two or three months time, you're going to want to evaluate yourself, right? And see how you've done and how you can better. In most cases, this job it comes down to numbers. It really comes down to the effort and the numbers that you're that you're putting in. So that's why it's super important that you do record your data."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You don't have to show it to your managers, so he's not going to get upset, but your wallet will say thank you to you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Definitely."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Every end of the month. And you said, when by the way, in your company, how often do you pay commission to the agents?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So we actually pay our commissions once a month. So the cutoff for our company is on the 25th of each month, okay? So the brokers need to make sure that their deals are signed, sealed and delivered and the money is in our account by the 25th because then what happens is we have the five days then to process all the commissions. I then get everybody paid by the first of each month. So then it gives us a bit of time to get everything ready."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So we would be curious to know how is it in your company because I know that in some companies agents work for commissions for months and months to come."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sometimes they don't even get paid it. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, what do you think about next one?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hey, so appearance shapes your confidence. I think definitely when it comes to real estate, I think"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You can clearly see that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Definitely your appearance shapes your confidence. I love dressing up in a suit every day. I feel like normally outside of the office, I'm dressed in gym gear to be honest with you. I now have two styles, either gym or work, but I love coming to work in a suit because it's work, Ashley. Okay? It sets my mind different than home, Ashley. Gets me in the groove, gets me thinking, right, okay, I'm going to get stuff done today. I'm going to focus. I feel like if you even like dress down Fridays,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ultimately still, you come in if you're dressed down on a Friday, your mindset's different. Because you're not in that work mode. You're not dressed in your suit or your work gear. You're already waiting for the weekend to start. So I feel like having for myself, having a suit to wear every day is important. Makes me feel good as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And how many suits do you think on average uh successful real estate agent has?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I've got quite a few suits to be fair. One, two, three. See, I'm trying to count it off my head. Um, I definitely feel you should have at least one suit per day. Okay? So a different suit every single day. Um, you can double that up as well. So at least, I don't know, five to 10 suits. Um, at least five because then you can mix it up every day and change it and change the ties and change the pocket squares."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Should we should we add in the description of this video some referrals of the tailors?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, listen, I've got a great tailor. Great tailor. If you want to uh any details."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Comment, comment below."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I got you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So I I believe that um dressing up yourself every day is a sort of kind of routine which as you said, puts you in the mood. And it affects the way you show up on your face-to-face conversation. That's for sure, but even on the call, when you are with a client and you feel that you are a million dollar agent, that kind of change the outcome of every conversation."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Definitely. 100%. I also think people take you seriously anyway as well. I think definitely when it comes to face-to-face, first impressions always count, right? So when you pull up to a viewing or a meeting and you get out the car or you walk in in the room and you're dressed in a nice suit or whatever you're wearing, if it's business-like, people will automatically take you in a different way or you know, greet you in a in a certain way. Even when I'm in the supermarket, I can people will look and they'll smile. Um if I'm coming from work and I'm getting my shopping. It's so people will see in a different light. So it's always good to I feel to to dress to impress."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And anyway, if you feel like you are, no, I'm just like a trainers, uh high socks."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, high socks. Yeah, high socks."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So probably real estate is not quite right or Dubai real estate is not the place."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe not quite right. No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "For you, you have to look for something else. Even if you're not yet the agent in Dubai real estate, but you're planning and looking towards that direction. My real estate growth Academy is the right place to begin. You will discover how the market works all together, how to get your first listing and first client, how to generate your own leads, even if you never done sales or real estate before. Click join and start preparing today. Choosing the right company, secondary or off plan. You know, my take on that is if you are thinking about secondary, you have to evaluate the company based on first of all, how many agents do they have in secondary market team. And it doesn't mean that necessarily if they have 100 plus agents that it's a good company because you're going to have more limitation of what you as an agent. Yeah. And if it's five agents, then probably it's going to be harder for you to close the deal."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's for. I I think when it comes to this, it's a very good question and I feel like we're very much kind of in between the large and small. We're kind of a boutique kind of style when it comes to our numbers and our and our team. Um we don't want to overpack our our company."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Tell me the boutique is numbers. It's like"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So currently now we've got 40 brokers in total."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, it's a decent size."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's a nice size. I think between 40 and 60 brokers is a nice size company. That gives our secondary teams enough people per team to have a nice big slice of the pie, but also get support from their colleagues, okay? So we can gain market share. They can have the benefit of doing their own deals, but have support from their colleagues to close deals together. I've worked in companies where there've been in one company, 30 people in one team. Okay? They were fighting, literally fighting for business."
+    },
+    {
+      "speaker_id": "1",
+      "text": "For the same listing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "For the same listing. That then affects the culture. That affects the whole team morale because people are stealing listings and fighting and this and that. So I really feel that by having smaller and more focused teams, you're going to get better results."
+    },
+    {
+      "speaker_id": "1",
+      "text": "100%. And what if you don't understand what we actually talking about in depth, uh, the smaller or kind of kind of boutique size of the agency will offer you that means that every member of your team will have a certain stock in their area. So when you are getting a buyer and none of your listings are suitable for him,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Correct."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Then you can easily cross-sell it with one of your colleagues. And the funny thing, cross-selling with your colleagues is way easier than you going on the market and trying to find the broker who makes sense, controls the buyer and"
+    },
+    {
+      "speaker_id": "2",
+      "text": "But also when you go outside of the four walls that you're working in, you can't guarantee the professionalism of the broker that you're going to use. So if they if you do pick a company with a broker that's not experienced or they don't work in a good way, that's going to affect your name and your brand as well. So by keeping it in house, you know you're going to work with good like-minded people. But I think in answer to your question in terms of secondary or off-plan, I feel it really depends on the person. I feel secondary is good for anybody who's new starting in the industry because you can build your little black book of contact of contacts. When you're calling, you're meeting, you're speaking to a lot of people, investors, you can build your network over time. If you go into off-plan straight away, most people don't have a network, especially if they're moving from another country to Dubai. They don't have a network of people. So unless you have maybe you're a bit more mature, you have a network of people, go in off-plan because you can use that network to get deals and make you make you money. If you haven't got a network or you're very young or new to the business,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which is 90% of"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Correct. Agents who are coming in Dubai. Correct. Secondary is the way to go because you can also sell off-plan to your secondary uh contacts whilst you're building your network. So you get the best of both worlds."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I would say going into the off-plan market, you have to be very careful with first of all, which company you are going with and then which developer are you selling? Because realistically, uh your commission could be delayed for not only two, three months, it could be delayed for a year. And even your company will not be able to do anything because developer is not paying them. Rising the case, going complaining to the court is I would say difficult and not that successful."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think that in most cases it doesn't go anywhere. Um by the time it does, most people have run out of money. So they either have to leave the industry, right? Or they they're going back to their home country. So my advice and what we do here is that we do put brand new people to Dubai into real estate, into our secondary team. Let them gain the knowledge and the skill and the experience. From there, the world's their oyster. They can they can navigate, they can move wherever they want to move to. But us doing them a favor, they can go into secondary and start pretty much making money straight away and gain that market confidence."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because where else rather than secondary market you can close your first deal, like literally in the first couple of weeks."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In the first literally first couple of weeks."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then get paid by the end of the month."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly. Still 25th."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Till the 20th. She's learning."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Technical survival in Dubai."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Which is sometimes uh we are really don't want to kind of remember because when I came here, I came with $10,000 uh with no connections, uh no big investors in my book."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I moved into the shared accommodation. Just right there one of those windows."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I did too. There we go."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So living in sharing accommodation is a sacrifice what they had to do in order to to get into the position where we actually could make money. So when you are coming into um industry in being a new broker, what is important for you to understand? It's going to be painful."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's going to be painful. For me, it's, you know what, keep your costs down, be frugal. Move into um a shared accommodation. Don't rush out and buy yourself an expensive car or rent an expensive car. Get yourself a little basic run around. What you're trying to do is you're trying to cement and solidify your life in Dubai. What most people will tend to do is they come here, they get elaborate cars, they move into their own apartment straight away before they've even even made a dirham of money. So by the time the money comes, they're they're stressed because they spend a lot of money, they haven't got the deals coming in. By the time the deals do come in, it's too late. You know? So I think by being smart, um have a budget and stick to it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So then this is basically two points that we have. The next one is get comfortable with discomfort."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would say for my personal experience, and I started in Dubai real estate 2015 as an agent, it was a good, I would say one and a half, probably two years till I start to feel financially secure where I was able to kind of start traveling again. I got myself a car. I finally moved out to my own apartment because, you know, I just couldn't be 100% sure that I will be able to kind of survive that specifically in that market condition."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Not smart."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You you moved at the same time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Same time. Um for me, I always remember, um being told by the company I was working for at the time, the CEO, um his dad came in to give a speech or give a talk. One of the most valuable piece of kind of advice he gave us was, if you want to make it here in Dubai, you want this to be your life and this you're taking it seriously, you're going to want to work the next 365 days. If you take a holiday in your first year in real estate, you're like starting again. And I was like, oh, okay, so I want to make this my home. I'm going to make sure I do this. So I actually did work the whole year. I didn't take a break. I've seen people around me taking breaks after three months, four months, five months. They were coming back and they were struggling because they had to start all over again. No listings, no leads and nothing. Whereas I was in my groove. You know? So it really helped me. But also I did have to humble myself with my living arrangements, with the car I was driving. I was like, I moved from the UK to Dubai and I'm driving a Kia Kia Rio, I think it was at the time. And I'm living in a maid's room in Marina. As I"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Red one."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It was actually white. And I'm living in a maid's room in Marina. As I"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, that was building was that? I was living in Tamani as well. That was my last actually, Tamani is a hotel apartment, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mine was actually in Tamani. It was a hotel apartment. That's my last place I was renting."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That was last place I was renting. We probably been living there at the same time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It was traumatic for me. That's that's another story I can tell, but totally traumatic, but it humbled me. And I"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It was a good pool, sorry."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Very good pool. Very good. It was a good building, just a shame the people I was living with. Um but no, it really humbled me and it gave me the drive and the motivation to to make sure that I was successful so I could afford to to progress and stay and all that kind of good stuff."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Daily victory journal. Uh I'm not sure that it sounds very much masculine because like journal is more for females. That's why I make it very simple for you. Um what going to make you focus on your daily wins and keep your dopamine level high, so regardlessly of how many knows you heard today, you're going to be able to continue tomorrow. And answering this question is remember what you done successfully in a day. And how you can remember? I'm just like rolling it and rolling it. I'm just like, Olga, come in. Uh, I would say the simplest way, every night before going to bed, ask yourself a question."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What was my success of the day?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Good question."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Just a simplest success. Well, like what was your success for yesterday? I know what was the other big pile of troubles that you got, but what was success for yesterday?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "But I made it through the day."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, let's let's Jim. Have you been to Jim?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I know I did. I think for me, um, you know, there's so many different factors that go into this. Um, whether it is going to the gym in the morning, you know, I think for me, making sure I get up on time, get myself to the gym before before work is definitely a huge factor of this. But also, I think when it comes to business, it's just making sure that the company, first of all, opens its doors when it's meant to open its doors and that all my team have what they need to do to be successful in their field. And that could be training, it could be uh certain tools that they need. It's just making sure that I am the person that can deliver that for them so they can enable to to do their work. So before I go to bed every night, I'm like, okay, so what's this done today? Did we did we achieve this? I'm like, okay, I feel good."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so in my case, it's a little bit more simpler. I just can say, oh, my hair looked absolutely great today. It was a good hair day, which is not actually today, but we're going to skip it. It's fine."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's good. There you go."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Now let's establish whom are you talking to? I mean, in terms of, you know, you and the client, is this the one who is making decision? But I'm not allowing you one more time to ask, who is the decision maker? Is this the one who is making decision? Because the client will never tell you the truth. Why? Because of the ego. The same as you, probably. So, how to ask them in direct way? I love the next formula. Help me understand, what's the decision making process looks like in your family when it comes to buying the property abroad? And if he going to tell you, oh, I'm making decision with my wife, I'm quickly jump into, well, if the wife is not there. Okay, and and how does your how does your wife feels about your idea to start making money with buy real estate? And what if you're going to come to her, she going to tell you that she's not quite. What are you going to do then? It's a good question, yeah? So, if you like that type of content, you probably should follow me, like, and maybe comment, which other things you feel like you're not able to extract from the client, so I'm get you the question for that one as well."
+    }
+  ]
+}

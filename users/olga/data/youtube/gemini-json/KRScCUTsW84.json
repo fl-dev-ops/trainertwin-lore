@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "you're responding now when the the client is telling you the bias is a bubble. You were like let let's put ourselves in the shoes of the clients. If you were the one who really want to do something but you are afraid. But you really want to do that, but you're afraid. Is this the only reason why you will still go ahead and apply? Right? Because if you don't really want to do that, you're just afraid, you're never going to apply. So even he is fearful to do that, he still really want to do it. So this is a fear-based objection. Right? So the fear-based objection, we only can overcome when he when we help our client to reframe help me to translate in Arabic reframe."
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Give it another go."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Done."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm back."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sorry, I'm busy. So we're just being so hectic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm sorry."
+    },
+    {
+      "speaker_id": "2",
+      "text": "When you are not closing this month, you will still be able to go through that and keep consistency because you are already consistent in other places. However, majority of workplaces, the agencies, it seems like we want to build that family culture. But in reality, if you as an agent not closing in one month, second month, third month, they're going to ask you to leave."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So we do all these things to make sure this is a space where people want to be, not just for work, but for pleasure as well. A home from home."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hi and welcome to the new episode."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, it's me."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, it's me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Sorry about that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "We're going to be talking together about five harsh realities, uh, from the life of Dubai real estate agent, no one wants to talk about."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But we are today."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, and the first one going to be discussed by Ashley, who is next to the blonde girl. Olga. So if you haven't watched our videos yet, we are talking about Dubai real estate from the perspective of the agents, from the perspective of the company owners and the from the perspective of the sales trainers. So, go like this video, subscribe to the channel and go rewatch all of the previous videos."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You should watch them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And if you feel like you are finally ready to jump into Dubai real estate as an agent, we are here to help with the training and the best company to work with."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hey, here we go."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So let's start with the first, first harsh reality. Relationship and family."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, uh, there is so many single people in Dubai, more single people than probably in any other country. Yeah. What do you think? Why?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do you know what? I feel that, I know there's lots of other countries around the world that have transient people, but I don't know what it is about Dubai. I feel people do come here. There's so many bright lights and dazzly stuff going on that I feel like people just want to have fun. I've known people that have been in the most stable relationships for years. They've moved to Dubai and after a year they've broken up. So I feel Dubai is a place where people want to come, explore, enjoy, and just live. Um, yeah, I feel that's why there's so many people single people here. I think people just want to be single to enjoy what Dubai has to offer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And from the lady perspective, I would say probably 70% of population males. However, it doesn't mean that you have a lot of options, right? Because the good guys very rare and they are already taken."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Correct."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I found my relationship here, my boyfriend after being in Dubai for, what is that? Um, seven years."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How did you guys meet?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, well, that's funny. On Tinder."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, was it it works."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It works. It did. It did because I got blocked from Tinder after two weeks."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, you're swiping too much."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I was not even swiping. I think I think I was, um, not responding or I was like responding in a, um, neutral way and someone just got complained about me. But anyway, it does work and."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. I'm going to need I'm going to need my subscription today then."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Give it another go."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Done."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm back."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Sorry, I'm busy."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So we're just being so hectic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm sorry."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you know I have something on my finger?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You've been swiping too much."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but it's definitely a fun place to be. However, meeting even a friends, not only like a soulmate here is is really difficult."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I agree with that. I I feel that, um, Dubai is very hectic as it is. Um, even friendships, you know, you can go for weeks without seeing friends because life just happens here. That's Dubai time happens. Um, so life does get busy. I feel like to manage everything with your work, your your social life, there's a lot for me anyway. Um, so I do feel that that's why most people again are single because they're just so caught up in the the madness that is their life."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And you have to always remember that the best relationship that you will ever have is with yourself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "With yourself. I've been practicing that mantra for years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How's it going? The best relationship ever. Between you two."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think we're going to get to the next level. I love it. Myself."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Money is not equal to luxury. Luxury. How are you going to pronounce it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Luxury."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Luxury. Luxurious life. Oh, what about your luxurious life when you're lying on the sofa with a Baskin Robbins on your belly?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's my luxurious life. I feel that that word is used so much in Dubai, luxury. I think everybody wants that luxurious life. In reality, does it happen for most people? They like to think they are. They like to play keeping up with the Joneses when they have very little in their bank account, but they're wearing the best designer clothes and best shoes, but then they're going home to a shared apartment or they're eating beans on toast. I think sometimes people get so wrapped up in this whole hype. Be authentic to yourself, you know? I I just think to myself, people, I see it happen with brokers, with a lot of people, they get wrapped up in this vortex of this crazy luxurious life when really they're just crippling themselves."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And in the end of the day, the best luxury that you can have is what? Financial freedom."
+    },
+    {
+      "speaker_id": "1",
+      "text": "100%. I think health and wealth for me is, um, definitely the two things that, you know, that that are important. Um, having financial freedom is definitely something we all aspire to. That's why we moved to Dubai is because we want that financial freedom. We want to live a good lifestyle, not have to worry about what's in their bank account. That doesn't have to mean you got to go and buy the luxurious stuff that's going to cost thousands of dirhams or dollars."
+    },
+    {
+      "speaker_id": "2",
+      "text": "To impress someone. Oh, bluntly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, no. No, I I yeah, I want a a younger me."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Would have been very much into this. Now I'm in my 40s, I realize that actually it's it's a need and a want. Do I need it? No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, um, the most luxurious things that we are allowing ourselves recently is, uh, a peptide."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, correct."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's a new thing to stay young."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, young."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Energy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "NAD."
+    },
+    {
+      "speaker_id": "2",
+      "text": "NAD."
+    },
+    {
+      "speaker_id": "1",
+      "text": "NAD. Yeah. NAD."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Again."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Definitely. Again, helps with your overall energy, with your aging, with your overall mood, you know, all these sorts of things that are important for life and and for work."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And or having a membership in the luxurious fitness club just because I love their cold plunge and steam room and sauna and all of these things. And I I value that way more than buying yourself a G-wagon."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I can't justify it. I I cannot justify it. I really can't."
+    },
+    {
+      "speaker_id": "2",
+      "text": "A G-wagon. Yeah, no, I couldn't."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe next year."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe. I know you want it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe one day."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Don't tell."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so let's talk about, um, burnout and mental health. Um, I think I can share it here that sometimes we are not talking for the weekend and then you just coming back to me saying like, I was like my social battery was so low, I felt I didn't want to talk to anyone."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Correct."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, what is your way to kind of overcome it? Because you now is a bubbly, very energetic personality and then."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So for me, I have, um, I say my social battery. I, um, with this with the job that I have, it's very high pressure. There's a lot of moving plates and lots of hats I've got to wear and a lot of accountability for me. So throughout the week, my pure focus is on the company and the business that I'm helping run. By Friday, my social battery is at literally 5%. So I need that weekend to recharge, spend time on myself, whether that's health, fitness, with my dogs, just being at home, so I can then be the best version of myself for myself, personally, and for my team. And that to me, my weekends are very much spent just on myself and focusing on me because pretty much the five days of the week is focusing on other people. So for myself to cope, I have to take those two days to reset and get back to to Ashley."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You should have a certain routines which is not actually include going out and drinking."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, at least, uh, once, maybe two, maybe three or four times a week gym."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Gym, always gym. Fitness, gym is definitely mental clarity that everybody should have. Moving, uh, you always feel so much better. There's been certain situations for both of us that we've not wanted to go to the gym, we've not wanted to work out, but actually it turned out to be the best workout we've had. And we leave feeling so good about ourselves and so energized and ready to go and ready to tackle the day or whatever. So moving, get out, even if it for a walk, get out in the fresh air, hot air. Have a walk, move around, it'll make you feel so much more better."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And I would say specifically we're going to talk about gym and real estate. Um, this is the best combination in terms of you doing heavy lifting over there, looking at yourself, being resilient and able to increase your weight or almost increase the reps or whatever. We're going to talk about progressive overload or something else, not sure but terms. So then when you are not closing this month, you will still be able to go through that and keep consistency because you are already consistent in other places. The way you, how is it? Like the way you do one thing, the same way you do everything."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. Yeah, no, I definitely I think that that is the saying, but I feel that when it comes to fitness, fitness gives you and going to the gym gives you discipline. Okay. I always like, we've got a couple of people that have joined our company that are personal trainers or are into sport. I love those type of people because they're they're determined, they have grit and they're disciplined and they like structure. These are all qualities that are needed to be, you know, in real estate. So by somebody getting into fitness, I know their mind's going to be right for this job because they're used to that discipline. They're strong-minded. They want to succeed, they want to win. And it really is that type of person that will always do well in this job."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The next myth that I want us to talk about, maybe not relative to your company. However, majority of workplaces, the agencies, it seems like we want to build that family culture. But in reality, if you as an agent not closing in one month, second month, third month, they're going to ask you to leave."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Correct."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, what should the new agent understand about the right relationship with the company?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I feel with our company, um, I mean, a lot of our brokers live in the same building on the same floor, which is great because I know for a fact that they're all."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Where they are, have they been drinking?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Agreed. But also for me, I know that they've got that support network. Um, they're like my kids. I feel like I've got lots of kids. Um, so this space that we've created has to be a place where they feel safe and where they feel that they can come and they can be themselves. Now, I feel that companies don't necessarily always have this. Um, and people will move their lives."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Based on a phone call or Zoom to a company that said they've got culture, we do this, we do that, and it's not like that at all. It's actually toxic. We've had people come from different companies here that have come from toxic environments. They've come here and they feel safe. Yes, but they're not always going to perform. They're not always going to do deals each month, but that's okay. As long as they've been consistent with what they're doing and they're we know they're working, they'll always have our support because we know in this job it's not always about making the money. It's about being loyal and being consistent and turning up every day. If you're doing that, we'll always be there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And going to the next bit, which is friends and support of the family. It's very important for you as an agent to kind of clearly look around and understand whom are you surrounding yourself with."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. That's so important."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is this this guys when very angry with bad leads from, you know, hanging out around the cooler?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. Or the coffee machine."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The coffee machine."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Always the coffee machine."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So it's if you, um, and it's, you know, it's actually tempting. I was in this situation when I was an agent myself. Like sometimes when you feel down, you want to kind of listen to some stories of the other people are down and they blame the the company, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's a dangerous game. Dangerous game. I feel like, you know, and it happens, it happens everywhere. We've had it happen here. We've had to remove these people from our culture because it's not the type of culture that we want to portray. Um, not everybody will be happy in a company. Um, not every company's right for certain people. You have good days and bad days, but I always say to the brokers, if someone's been negative, move. Don't be around negative people because you'll always have good and bad days. But one negative person can spoil a whole team, culture, company. Um, and that's when it does become toxic. So, um, have your good days and bad days. If you have a bad day, try and change the narrative yourself."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What about that smoothie day that you were about to introduce?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which one?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "You remember you told me about the new initiative that you're starting that will come and do massages and smoothie days. Was that my dream or there was reality? Because it sounded like a dream."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, it happens. Yeah, it happens. So we did corporate massages. We actually need to book another one. So corporate massages we do for the team. We bought a big blender, so we're going to be getting fruit for uh, the team and doing smoothie days once or once or twice a month. We just got PlayStation 5. Um, we're changing the pantry into like a games room. Um, so we're doing all these things to make sure this is a space where people want to be, not just for work, but for pleasure as well. A home from home."
+    },
+    {
+      "speaker_id": "2",
+      "text": "However, if you want really to prepare yourself for all the realities that Dubai real estate market going to punch you with."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Shock at you. And it will chuck many things at you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, there is a place that you can go and study a little bit more. It's my online training Academy. There is a link down below and there is a around probably now 45 different trainings and videos that I add on every week on how to sell secondary off plan, how to learn the market and all the things that you will need to kind of, you know, I'm I'm looking at it as like, I'm taking you as a fish and putting you into the water. So you surround yourself with water, you understand how to swim."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Correct. And you know what? We have been sending all our new brokers that are joining us from outside of Dubai. We've been sending Olga's, um, YouTube channel of her training programs to our new brokers and they've found it so beneficial because they feel a bit more confident with what they're walking into. It's not so cold. Okay. So I definitely recommend if you're looking to get into real estate or you're moving, check it out."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And see you in our next videos."
+    }
+  ]
+}

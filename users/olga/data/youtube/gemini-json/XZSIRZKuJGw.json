@@ -1,0 +1,436 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "What's um I think uh consent."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Consent. It's a good word. Consent."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You are getting famous. You know, as I'm saying, any any type of publicity is a good publicity nowadays, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So today we're going to go through the uh mortgages. Um why it's important for you guys, specifically because of um new regulation which recently come up with the first home buyers. I'm not sure if everyone's seen that already. It's for UAE residents who are the first home owners. I think it was um two weeks ago. They come up with all of the strategy, which I consider a good lead generation strategy as well for for the buyers to get more original, good leads, people who actually can pay for everyone, for the banks, for the um real estate companies and for the government developers. So, what is the case now and it's actually already happening? Um you as a first home buyer, meaning you don't have a title deed on your name or on your name yet in UAE. You are a salary employee. You can expect, if you register, to have hundreds of calls after, of course. But um they will offer you either to get um a little bit better mortgage rates, which I do believe and if you will just walk in and talk to the um mortgage advisor, he going to give you the same. But I think it's more about creating awareness in residents of UAE that they can actually purchase the property. And I see it and that's very important as another button which increase the heat of the market. You remember I was telling you that basically the UAE government has a stove, they increasing the heat, decreasing the heat of the market based on the laws and regulations that they are uh putting to work. So now this is another button they pressed. I'm sure they have a lot of more to press to keep the market growing steadily. So now let's look at the criteria for residents and experts because that's what is the most interesting for us. First of all, we're going to be talking about um uh UAE residents. So now you can borrow up to, I think for for like last two years, I think, maybe three. You can borrow up to 80%. Just to guys for for give you the uh a bit backtrack in 2018, 2019, it was 70%. So you see there was another regulation that changed. Uh I again, I'm I might be not exactly sure which year, but would affected the increase of the prices as well. Can you please check if the the phone is recording?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Fantastic. Because we're recording the microphone from the phone. So, now you can borrow 80% uh of the property. Um which is under 5 million dirhams. So this is criteria you might not heard. So if it's 5 million and above, you will be able to borrow 70%. Yeah? And 75 and 85 is for uh local UAE uh nationals. Right. It's always was 5% more for them. Um maximum mortgage term is 25 years, up to the age of 65. The guys, that's very important thing to consider because um some people are coming with being, let's say, 50 and they still in their head, they, oh, well, I'm going to take a 20 years mortgage. The bank actually can look at you even being 50 and can tell you, oh, I'm only going to give you mortgage for 10 years. They may say that. All of these are generic terms, guys. It's all will uh differ based on the the actual evaluation of the um your client, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, in some cases, banks will also uh consider a longer term if you're a partner with a secondary mortgage. Is that correct?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "What does it mean secondary mortgage?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So like uh"
+    },
+    {
+      "speaker_id": "2",
+      "text": "If there is another person in the mortgage, there's a family."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. Yeah, exactly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But they're going to still look at you. So who is the main person? So if it's your wife, it's going to be her age. They're not going to okay, so your wife is younger, so we're going to give you for more. But you are going to be the the main person in the mortgage. It's going to be kind of a joint venture. They will look at the income of both of you and she going to sign the letter that she's not against of you taking a mortgage. But it's still going to be your age."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So for example, if I uh deliver my dad, my dad's argument say he's 75."
+    },
+    {
+      "speaker_id": "2",
+      "text": "They they're not going to take his documents. He's not eligible for mortgage. Look, bank is making business out of it. He's looking at you as a potential, will you be living that long? But even though, I will get back to that, you will still have to yearly pay for your life insurance. Yeah? In US, guys, I'm not sure if you um if you heard of it. There is a they are big on different kind of insurances. That's a big business actually and and selling really, really fast. So in US, uh there is a thing which is a mortgage protection insurance. I'm sure in UK there is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "There used to be."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Used to be, not anymore. Okay. So mortgage protection insurance is something that you buy. It's not a life insurance. It's something that you buy additionally if you have a mortgage and you pay, when you buy insurance, you pay whatever quarterly or monthly a certain amount towards that. So the uh mortgage protection insurance just in case you will pass away during the mortgage period, the bank, sorry, not the bank, the insurer going to cover the um the remaining of your uh mortgage. So your family doesn't have to stay with that mortgage. It's um it's quite a good product to sell, but I don't think we have it here."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, we do have it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "We do have it here, but it's not mandatory. I don't think I don't think they sell it actually."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I know a family friend of mine happened to purchase it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Purchase it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, they purchased the property and uh he died initially the insurance paid for the mortgage."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I believe that that's a smart way to go, but people don't want to think about that. That's why we're going to have a second part of the training as a will and how to get yourself a little bit more passive income, guys, because uh the mortgage advisors, by the way, and the anyone who is setting up the will is going to give you a referral fee for you bringing the client to them, regardlessly for the mortgage if they will buy the property with you or with anyone else. Right? Because he might not choose you or apartment that you're offering, but he still might get the mortgage. As soon as the mortgage is uh uh final offer letter is signed, meaning he's agreeing on the mortgage and all the conditions, the mortgage is delivered, you will pay your uh you will get your referral fees. It's usually a percentage. We definitely have to talk with our mortgage advisors. I'm not up to speed how much is that. But usually it was from my memory around 2, 3, 4,000 dirhams. Okay. So, um"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Percentage wise?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't remember. It's because um if you're dealing with the mortgage advisors and this this presentation actually cut off from Holo and I believe that we are using Holo here as well as a mortgage advisors. I have to double check on that. So they they're giving you a percentage of what they are making. Because they are not banks, they are just brokers as well, dealing with multiple banks."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How much do they make?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hmm, it's a good question."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Percentage wise?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think one or two, something like this, the banks are paying them. Or maybe something from the the amount which is mortgaged, of course, not from the total price of the property. So, if it's a second mortgage, you will get 60%. So if you already have a mortgage and you still have eligibility with your income to get another mortgage, you will only get 60% from the bank. That's the thing to consider, guys. So when you qualify your clients, do you have already mortgage or it's going to be your first one? A lot of them they don't know. Yeah? Any questions on that? Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So if they choose to go for a secondary mortgage, uh would it then change the title?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's it's not the secondary mortgage on the same property. It's a different property."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Or what I mean to say, sorry, if they already have one mortgage, that's their first mortgage. That in the UK is considered as a residential, but they're going to live there. Right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, sorry. Sorry, sorry. If they choose then to go for a another property and go via a mortgage, what's that known as? In the UK, for example, it's uh buy to let."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We don't have this. For us, it's always mortgage is mortgage. We don't care, are you going to live there? Are you going to keep it empty?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, for you to take that first mortgage, doesn't have to be known as a buy to let."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let me ask you this. For the first mortgage, when you're buying this to live in, will you have a more reasonable rates for that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Currently so, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. So that's why the government is supporting you as a first home owner. Potentially, guys, I don't know, with this program, which is not yet fully operational, if the first home owner, maybe they will give you a better rate than for the second mortgage. Up till this point, they don't have any difference between the first mortgage or second mortgage, it's still a mortgage. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Then, uh very important point to to mention here, guys. Um 80% from the property, not the price that you pay to the seller, the property evaluation. Yeah? What is what does it mean? When you as a buyer applying for uh a mortgage pre-approval, pre-approval. So you submit your documents, I will run through the documents which is needed. And then the bank is pre-approving you saying, yeah, looks like, man, you are eligible for 3 million. We can give you um up to the 3 million is the amount of the property that you can purchase, taking in consideration that um 20% of that will have to be from your own pocket. Yeah? So this is a pre-approval letter that you have. Then you go with this pre-approval letter, you find the property. You put a 10% deposit, you sign the uh um SPA with your condition that the property will be mortgaged, that the the transfer will happen in three months. Usually we take a little bit longer time for the mortgage properties. After that, this is a part of the documents that you will have to submit to the bank, including the um title deed of the property. The bank appoint one of the um valuation companies. Valuation companies are not a part of the banks. That's a completely different contenders. Uh they have their licensing from, I'm not sure, Dubai Land Department, Dubai Financial Department. So, but they're working with the bank. So it's a different entity. Uh a valuer visits the property. You as a broker will have to arrange the visit of this person to the property. So he walks in, looks, takes some pictures and then writes a report. In this report, he is giving you a evaluation of how much in his opinion the property is worth. So for example, if it's 3 million and you're buying for 3 million, but the guy walks in and he's saying it's 2.8. This 200,000 is something that you will have to get additionally. There is some rare cases where you can renegotiate if the seller is actually motivated to kind of bring the price down a bit. But I know that in UK, if the evaluation came lower, you have as a seller kind of you obliged to sell with the price that the bank is giving you. Will that be correct?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Or you're not sure about that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Say say that again."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So for example, the uh I am a seller, I'm selling for 3 million. But the evaluation came 2.8. In our SPA sales purchase agreement, me and the buyer agreed on selling for three. But the evaluation is lower. So now I kind of have to come down with the price as well. Will that be?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, you can sell higher. Yeah. Okay. Because I've got I've got different knowledge from agents in UK who've been telling me, oh no, you have to go down or there is going to be a conversation and there is a closer in the contract that if the evaluation will come lower, we can still renegotiate the price. It's going to be very hard to put this clause in the contract here in UAE."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, you can sell it if you want to, but if the bank values it less, that's the only thing that they're going to give you the loan off. Yeah. Basically. So if they got to pay, there's a rejection over there, they will still value it on their valuation of 2.8, not the 3 million."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. That's true. So if uh a client wants to pay a premium, they can do, but it's not compulsory. That will be their loss. So in Dubai, when you're dealing with the secondary market uh client who is looking for a mortgage, um that's a good conversation to have in advance. Taking um that you can look into Raiden and look at the actual property evaluation because over there you can look at what the evaluation of this property is um in the last 2, 3, 4 months. So they will give you an understanding what the evaluation will be for that one as well. So you can kind of predict evaluation. And get your client ready, well, you have to pay a little bit more, man. So if you don't have a budget for that, if your kind of down payment is really limited, we either have to look for a lower price or different location or maybe a different unit altogether."
+    },
+    {
+      "speaker_id": "1",
+      "text": "One thing over here, Olga. This happens only in secondary sale or in new properties as well?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "For the new properties, let's get back to that. Uh currently with this new program, and it was actually before, but it was not actively uh spoken. With the government developers, and there is a list of government developers including Nakheel, Emaar, uh Meraas, uh Dubai Properties, and there is some names which is like, oh, where are these guys? I never heard of them. They're not really publicly promoting themselves. For those developers, you can actually get a mortgage if the construction is 50% complete. So you can get 50% of the price of the unit in your SPA sales purchase agreement because that's what you have with the developer. So, they're going to give you um the kind of percentage of completion, the developer. However, I think it has to be evaluated with Dubai Land Department because Dubai Land Department is someone who is actually giving the percentage, not the developer itself. And then the process of documents going to be a little bit more um I would say, um they will require more documents from you because for the bank, it's still going to be considered a more high risk loan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But there is no valuation of new properties, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "They're not going to evaluate that. They they're going to just evaluate the 50% of what the SPA says."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Only with this developer, but other developers?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, you cannot do it with Binghatti, Damac, you cannot do it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You have to do valuation."
+    },
+    {
+      "speaker_id": "2",
+      "text": "They're not going to give you the mortgage for those with a 50% completion. But if it's almost completed, right? So for example, if it's 2, 3 months before the handover. And you know how the processes of the handover. It's it's not like, okay, we stop construction, the handover is next day, yeah? There is a lot of documentation they have to pass through. But I know more about that. It's um however, if the developer is able to issue uh a handover certificate or a building completion certificate, which is not yet a title deed, that might be consider, I'm not saying will be always, because with the banks, it's up to them to decide. Maybe for some developers, which is no name developer, I'm so sorry. Uh with the first time on the market, they still not going to, oh, well, we're not going to do that. But it might be considered enough to actually start the process of the classical mortgage. However, bank still can tell you, we're not going to give you 80%, we're going to give you 70% on that. So that's possible. But that has to be like really, really before the handover. So that gives you a great loop for those who are buying, who are residents in UAE, who have a good age gap before 65. And they don't have a lot of other mortgages and obligations, the car loans, the credit cards that they're paying, you know, oh, I have 150,000 dirhams limit on my credit card and I'm actually always always paying the the the kind of commission on that. Then you can with this type of buyer go into the off-plan property under the consideration that he will have then to mortgage or apply for a mortgage right before the completion. And this handover payments, which are usually what, 60, 40% depending, they can be taken care of by bank. However, if we will look at the Emaar, what's the payment plan with Emaar? 80, 20. So by the time you probably um, you know, the 50% completion of the building is done, you probably paid how much? Probably around 50 or maybe even 60%. Right? Potentially. So, um you you still will have to do this heavy lifting with these banks, with these developments. Okay? Any any questions on that, guys? Okay, let's move forward. Um So what are the requirements? You have to have your down payment 20%. I even been shared the phone number. I think it was two years two two months ago. Um got the number of the guy who is helping to have a 100% mortgage. So you kind of take a personal loan of 20% and then 80% you take as a mortgage. I had no time to communicate to him. I'm really curious to do that. Probably going to go through my old messages, going to talk to him how he's able to do that because the banks are actually when they are giving you final uh offer letter, they really look through all of your uh legal and visible depth in UAE. So I don't know how they can miss it. Have no idea how they're doing it. So your minimum salary should be 10 uh thousand or above 15, you have a better options. Meaning basic salary. It has to be in the contract and it has to be transferred every month because they're going to ask for sometimes even three years bank statement of yours. But usually they're going to ask for six months bank statement. Sometimes people are kind of getting ready to to take a mortgage, so they're moving money from one account to another account just to kind of inflate it. Asking money from friends. Let me show that to you guys. Um so you have to be employed for six months in the current company. Why? Because the probation period is six months. The bank wants to be sure that you pass the probation period. However, even in my practice, it was a cases where they've been giving mortgages for someone who is three months in a company. It took a while, we changed two banks. Uh the girl was local Emirati and she was 24 years old. She got a mortgage. Um you now, it was not the case before, but now they're opening this opportunity. Even if you have your own company here, you can uh apply for a mortgage. But your business self-employed, meaning you're an investor, right? In your visa, it's investor. Your business has to be running for three years. They will ask for all of the, you know, books and reports, how profitable it is. Um and your if it's only six months, the amount LTV is this 80% or 60% that they're given to you, uh will be lower. They can tell you, okay, we can only give you 50%. Before, they were not giving loans for self-employed people because self-employed person, if you run your own business, you consider in Dubai, not not in other countries, as a risk uh client. What if you what if you go out of business? Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Would we as non-salaried employment be classed as self-employed or employed?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. Unfortunately or fortunately, you as a real estate agent who doesn't have a salary, or anyone, by the way, guys, who is working in a real estate company or even a development company or even a construction company, is considered by the banks lower. We are not very much desirable candidates. Even someone with a salary in the company, at least that was a criteria before. However, uh I know that uh one of my ex-colleagues um she's been with the company for 10 years. She's an agent, she doesn't have any salary. She got herself a mortgage. I probably shouldn't say that because we're recording."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What LTV?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "At what LTV did she get her mortgage?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm not sure, but I pretty, I mean, I'm not I cannot tell you like exact, but I think it was 80%. Yeah. But what the companies are doing, if you have a good relationship with the company, you can just agreed with them, okay, look, I have this amount of commission. Just pay it to me for the six months that is a salary. Just do that transaction if it's a salary. I need to see it for the six months then give me the um the letter that my salary is, let's say, 30,000. And that's going to be enough for the banks actually."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But doesn't the bank know that most real estate agencies brokers"
+    },
+    {
+      "speaker_id": "2",
+      "text": "They don't care, they just look at the documents. Because look, do you think the bank is incentivized to give you a mortgage? Do you think that the bank or the mortgage broker is looking for all the possible opportunities to actually give it to you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, for sure."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. That's is one of the reason of crisis, financial crisis in US in 2008, right? Because they've been giving mortgages to so many people because they all been incentivized. The mortgage brokers get so much bonuses for giving the risky mortgages with fluctuating interest rates. So, um what else? Um everything else uh which can create an impact of your uh on your ability to get a mortgage is a credit cards. So if you, for example, have uh a credit card with a 20,000 limit, I will advise you when you apply, decrease the limit up to 5,000. They're going to look at the limits of your credit cards, how much you can borrow per month. Yeah? You never thought about this, right? Or you knew?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Okay, good. Personal loans. They will look at um if you took a personal loan, have you delayed any payment? Yeah? Have you cleared it up as it was or you asked for additional time? So all going to be considered as your behavior. Auto loans, like all of these things. Um now there is an application uh which you will be asked to fill up. Um it's your credit score. So you can get your credit score even now. Um it's uh the report from that application is 80 dirhams. You just input your details and then"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What's the name of the application?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I have to double check it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "ECB?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "ECB. Alpha, easy, Charlie, Delta."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Thank you. So they will give you like, where are you? 70, 80. I think everything above 70 is good. Considered good."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's over 100."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's over 100."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's over 100."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So if a personal loan was taken in the last six months, the mortgage might be declined. So, that means, guys, I don't know how this 100% mortgage works."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is it even legal?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is it even legal that a person can get a 100% mortgage?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't know. It's been changed to credit bureau now. Credit bureau. Yes, credit bureau. Yeah. Now residents requirements, guys. Um again, that was not the case, let's say, five years ago that non-resident can receive um a mortgage on the property."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's over 100."
+    },
+    {
+      "speaker_id": "2",
+      "text": "736. Really? I was thinking it's 70 something, no? And what is the maximum?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't know. I think it's 1000. I think it'll be 900."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But is it is it is it a free one, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, no. You paid."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You paid. Okay. Because I think it shows you something for free as well, but for you to download the document, you have to pay or something."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The free one is for downloading your document is 100 dirhams. For the"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Was 80. Okay. Non-resident. So they're going to they're going to give you uh 60%, so 40% of the payment will be required. Two years of tax returns because they want to look at, you know, the the actual they evaluate how much you're making based on the tax. Personal income statement for two years, uh company registration documents, if applicable, if you are uh working and you have your own company. Uh how does it look like without all of these fancy words is your income should be above 25,000 dirhams. And your expenses should be low. What I'm saying expenses, guys, if for example, if you're coming with, I am a single breadwinner, I am a father, I have a wife and I have two kids and compared to someone who is like, well, I'm I'm just on my own and I have the same salary, um my wife and two kids going to pull more money from you, so the bank going to give me less because the bank going to look at the dependent and the expenses that I will have to pay for them. Um home country credit bureau report as well. Personal bank statement up to 12 months, they can ask for more. And business bank statement for the past 12 months, if it's applicable, if it's a company. I believe that KYC in both cases you're going to fill up the KYC, but the KYC that you will have to fill up if you are non-resident is going to be way um stronger. You will have to give a lot of documents. Any questions on that, guys? Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Could we wind back to the residential and expats? Residents and expats. How does one determine the amount of uh percentage of mortgage?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "They will they will ask you uh your expenses and they will deduct it. They will look at the they will look at the the actual net profit. So you have an income, let's imagine. You have an income, my my salary is 30,000. Yeah, then you then you say, well, I have additional income of 5,000. You have to kind of prove the source of income or you have to show that there's some money is actually coming in your account. It can be some profit from your investment, can be some profit from your own business. And then they will ask you your expenses."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, right."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you have to kind of give them your expenses, but you have to list your dependent, you have to list your family there."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, sorry, I'm a bit confused. In the UK, it's as simple as, okay, I'm an individual applicant. Uh as an individual, I earn, I don't know, 100,000 for the year. So they'll times that by four and they'll say you're eligible for a mortgage up until uh 400,000 based on my 100,000 salary. So they don't look at your expenses?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "They do consider affordability as well. So the affordability checks are done to make sure that you can actually make the payments. If not, then they'll adjust it accordingly. So as a rule of thumb, it'll be, yeah, 100,000 times four and they'll be like, you can go look for a property in this work. Up to 400,000 property."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't I don't think it's like this here."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So they they don't they don't have a strong they don't have a strong rule like that. Yes. Yes. For example, the bank has an office here in Dubai, but it doesn't transact in retail banking. The company has an office here, but he doesn't doesn't have an activity, a business activity. That's not accepted. My question to you right now is, are foreign banks allowed to give personal mortgage in the UAE? Or it has to be a UAE bank or a registered bank?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But my question to you, will any bank in the world, if we're talking about loans, that's going to be your personal loan based on your income in the country and outside of the country where you're taking a loan. It's not anyhow going to be a mortgage on the property. They're not going to give you a like, international bank, which is based, let's say, in Germany, they cannot mortgage the property in Dubai. Because they are not able to acquire the asset because they cannot take the collateral in their possession. Yeah? Guys, everyone understand what collateral means? Yeah, collateral is actually the property, collateral is what you give. Give me the cup, this is a collateral, you give me money. How much is that? So, it's a little bit um uh answering your question. It's a little bit more, I would say, simpler. You have to list your expenses. Because in UK, for example, and I believe it's it's going to be um the schools are free, right? For the kids. Here you have to pay. Uh in UK you can live with your, you know, mom and dad. You don't have to pay any rent. Here, most probably you will have to pay rent because like it's very rarely that as a family, you're going to be living here with mom and dad. So that's why they look more on expenses because they know the expenses here are quite high. And they look at the at the amount of money that you have expenses free. It's kind of a fixed cost is what your expenses for the family."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, sorry, I'm still struggling to understand. Could you maybe break down potentially an individual on 50,000 a month, what would"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I will I have some breakdowns. We're going to we're going to walk through them based on the amount of the price of the property. Because again, it's all going to be depend. Even who applied for the credit card through the online, through the application? Anyone applied for the credit card? I just did it recently."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I was about to, then I cancelled it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um because you can do I want to right now at this stage borrow some money. I don't want to do that. I want to do that on my own money. I mean, I don't want to I don't want to run into that, but actually what you do here with the credit card just to get some points and some perks, you just use you just pay with everything with the credit card and you fill it up by the end of the month."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Same as UK."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Same as UK. Yeah, but it's it's going to give you a beautiful leverage, maybe some cashbacks. Yeah, so it's easier to just to use it. And if if you have a 5,000 dirham limit, which I do. Yeah, if you have a 5,000 dirham limit, which I do."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Battery is off. Oops. Um hopefully this is charging or not. Yeah. Camera is off. Camera battery is off. Okay, guys. Can you switch it off? Both. One of them. And can you switch off this one? Guys, I could"
+    }
+  ]
+}

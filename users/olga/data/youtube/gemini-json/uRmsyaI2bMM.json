@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "you are not only competing with the developers, you're competing with other agents and you are competing with a lot of other investment options that the potential client can use to make more money. You can turn, I'm not interested or I'm just looking into, yes, send me the payment. Individual agents who really want to understand how not only to make a quick cash, but build a long lasting career, make a real money in Dubai real estate. We need to understand why the clients are telling you, I'm just looking. I will not buy now, just send me some options. They still do not understand what they're doing wrong and why they are themselves that because it's true causing the client to put the wall of resistance between the client and the sales person."
+    }
+  ]
+}

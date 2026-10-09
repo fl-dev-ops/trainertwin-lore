@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "How to start as a real estate agent in Dubai within one minute. First of all, make sure you have six month worth savings for living, not surviving, for living, because you need to feed yourself. And rather than that, you're going to feel needy, attached, and you're going to push the commission breath. Think your commission breath to your client. Second of all, understand what you want to do, what you want to do, secondary or off plan. Focus, if it's secondary in a certain area and become an area professional. If you want to do an off plan, find a company which is already generating enough of fresh leads and get ready to be on the phone for 24/7 and follow up. Hopefully, you get this deal done soon."
+    }
+  ]
+}

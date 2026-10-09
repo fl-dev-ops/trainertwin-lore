@@ -1,0 +1,152 @@
+platform: medium
+author: Vasanth Bhat
+handles:
+- careerwithvasanth.medium.com
+- mevasanth.medium.com (retired redirect)
+total: 28
+posts:
+- id: 71b9f3b0db20
+  title: How to use local Images dynamically in React Native | by Vasanth Bhat | Medium
+  date: 2020-05-16
+  url: https://careerwithvasanth.medium.com/how-to-use-local-images-dynamically-in-react-native-71b9f3b0db20
+  file: ./posts/2020-05-16-how-to-use-local-images-dynamically [71b9f3b0db20].md
+- id: a4164d7e6a2d
+  title: How everything is Object in JavaScript ? | by Vasanth Bhat | Medium
+  date: 2021-02-03
+  url: https://careerwithvasanth.medium.com/how-everything-is-object-in-javascript-a4164d7e6a2d
+  file: ./posts/2021-02-03-how-everything-is-object-in-javascript [a4164d7e6a2d].md
+- id: 815475544ab0
+  title: Memoization in JavaScript — Hot topic for Interview | by Vasanth Bhat | Medium
+  date: 2021-02-21
+  url: https://careerwithvasanth.medium.com/memoization-in-javascript-hot-topic-for-interview-815475544ab0
+  file: ./posts/2021-02-21-memoization-in-javascript-hot-topic-for [815475544ab0].md
+- id: 37194ffca3f8
+  title: Ionic — How to Obfuscate your code | by Vasanth Bhat | Medium
+  date: 2021-02-28
+  url: https://careerwithvasanth.medium.com/ionic-how-to-obfuscate-your-code-37194ffca3f8
+  file: ./posts/2021-02-28-ionic-how-to-obfuscate-your-code [37194ffca3f8].md
+- id: e99c94a47ca5
+  title: The Problem with Returning Values from Async Await Functions | by Vasanth Bhat | JavaScript in Plain English
+  date: 2021-08-07
+  url: https://mevasanth.medium.com/problem-with-returning-values-from-async-await-function-javascript-e99c94a47ca5
+  file: ./posts/2021-08-07-the-problem-with-returning-values-from [e99c94a47ca5].md
+- id: a124fa02d511
+  title: React — Problems with passing array as a prop | by Vasanth Bhat | Medium
+  date: 2021-11-26
+  url: https://mevasanth.medium.com/react-problems-with-passing-array-as-a-prop-a124fa02d511
+  file: ./posts/2021-11-26-react-problems-with-passing-array-as [a124fa02d511].md
+- id: 9d44e0487987
+  title: How Hoisting works in JavaScript if it is interpreted ? — Hot topic for interview. | by Vasanth Bhat | Geek Culture
+    | Medium
+  date: 2022-02-23
+  url: https://medium.com/geekculture/how-hoisting-works-in-javascript-if-it-is-interpreted-9d44e0487987
+  file: ./posts/2022-02-23-how-hoisting-works-in-javascript-if [9d44e0487987].md
+- id: 3e129435083e
+  title: JavaScript Clousures — Tricky Interview Topic | by Vasanth Bhat | Medium
+  date: 2022-03-19
+  url: https://mevasanth.medium.com/javascript-clousures-tricky-interview-topic-3e129435083e
+  file: ./posts/2022-03-19-javascript-clousures-tricky-interview-t [3e129435083e].md
+- id: b8ad620397bf
+  title: JavaScript — Function currying and it’s variations | by Vasanth Bhat | JavaScript in Plain English
+  date: 2022-03-19
+  url: https://mevasanth.medium.com/javascript-function-currying-and-its-variations-b8ad620397bf
+  file: ./posts/2022-03-19-javascript-function-currying-and-its-va [b8ad620397bf].md
+- id: 220ba72f6266
+  title: React Native — Redux, the most simplest explanation | by Vasanth Bhat | Medium
+  date: 2022-03-19
+  url: https://mevasanth.medium.com/react-native-redux-the-most-simplest-explanation-220ba72f6266
+  file: ./posts/2022-03-19-react-native-redux-the-most-simplest [220ba72f6266].md
+- id: 48b05fa2b999
+  title: My Interview experience at MPL | React Native | Gaming Company | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-03-22
+  url: https://mevasanth.medium.com/my-interview-experience-at-mpl-react-native-gaming-company-48b05fa2b999
+  file: ./posts/2022-03-22-my-interview-experience-at-mpl-react [48b05fa2b999].md
+- id: 2805086d851e
+  title: My Interview Experience at Reliance - Jio | React Native | Jio Money | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-03-22
+  url: https://mevasanth.medium.com/my-interview-experience-at-reliance-jio-react-native-jio-money-2805086d851e
+  file: ./posts/2022-03-22-my-interview-experience-at-reliance-- [2805086d851e].md
+- id: bb766097ac05
+  title: Prototype and Protypal Inheritance in JavaScript | by Vasanth Bhat | Medium
+  date: 2022-05-29
+  url: https://careerwithvasanth.medium.com/prototype-and-protypal-inheritance-in-javascript-bb766097ac05
+  file: ./posts/2022-05-29-prototype-and-protypal-inheritance-in-ja [bb766097ac05].md
+- id: 6804df457a95
+  title: Finally, Github Co-Pilot is Open to All | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-07-05
+  url: https://mevasanth.medium.com/finally-github-co-pilot-is-open-to-all-6804df457a95
+  file: ./posts/2022-07-05-finally-github-co-pilot-is-open-to [6804df457a95].md
+- id: a476c532a6fd
+  title: Component Composition in React. As per React’s official documentation… | by Vasanth Bhat | JavaScript in Plain English
+  date: 2022-09-08
+  url: https://mevasanth.medium.com/component-composition-in-react-a476c532a6fd
+  file: ./posts/2022-09-08-component-composition-in-react-as-per [a476c532a6fd].md
+- id: 8817238df70a
+  title: Event Bubbling and Trickling/Capturing in JavaScript — Common interview question | by Vasanth Bhat | Medium
+  date: 2022-09-15
+  url: https://careerwithvasanth.medium.com/event-bubbling-and-trickling-capturing-in-javascript-common-interview-question-8817238df70a
+  file: ./posts/2022-09-15-event-bubbling-and-tricklingcapturing-in [8817238df70a].md
+- id: 282b93e535e1
+  title: 90% Will Fail to Solve This Facebook Interview Question | by Vasanth Bhat | JavaScript in Plain English
+  date: 2022-10-21
+  url: https://careerwithvasanth.medium.com/90-of-you-will-fail-to-answer-solve-this-facebook-interview-question-part-1-282b93e535e1
+  file: ./posts/2022-10-21-90-will-fail-to-solve-this [282b93e535e1].md
+- id: 8adc8801677e
+  title: Don’t skip | Top 5 frontEnd Interview topics to prepare in 2022 | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://mevasanth.medium.com/dont-skip-top-5-frontend-interview-topics-to-prepare-in-2022-8adc8801677e
+  file: ./posts/2022-10-21-dont-skip-top-5-frontend-interview [8adc8801677e].md
+- id: ff4011afb27a
+  title: Don’t skip | Top 5 ReactJS Interview topics and detailed solution | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://careerwithvasanth.medium.com/dont-skip-top-5-reactjs-interview-topics-and-detailed-solution-ff4011afb27a
+  file: ./posts/2022-10-21-dont-skip-top-5-reactjs-interview [ff4011afb27a].md
+- id: 345c71ff9ccd
+  title: Flatten array of array in JavaScript | Microsoft Interview question | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://mevasanth.medium.com/flatten-array-of-array-in-javascript-microsoft-interview-question-345c71ff9ccd
+  file: ./posts/2022-10-21-flatten-array-of-array-in-javascript [345c71ff9ccd].md
+- id: f465bc0fc940
+  title: How much DSA to prepare for frontEnd developer interview | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://careerwithvasanth.medium.com/how-much-dsa-to-prepare-for-frontend-developer-interview-f465bc0fc940
+  file: ./posts/2022-10-21-how-much-dsa-to-prepare-for [f465bc0fc940].md
+- id: d25c3b8c3ba4
+  title: How to get Github Copilot for 100% free | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://mevasanth.medium.com/how-to-get-github-copilot-for-100-free-d25c3b8c3ba4
+  file: ./posts/2022-10-21-how-to-get-github-copilot-for [d25c3b8c3ba4].md
+- id: 2259bf90d021
+  title: I lost 50L+ package, because I couldn’t answer this JavaScript question. | by Vasanth Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://careerwithvasanth.medium.com/i-lost-50l-package-because-i-couldnt-answer-this-javascript-question-2259bf90d021
+  file: ./posts/2022-10-21-i-lost-50l-package-because-i [2259bf90d021].md
+- id: 8e0072961c29
+  title: Solve Meta | Amazon | Google | Apple Interview Question. Write custom implementation for Array.flat() | by Vasanth
+    Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://mevasanth.medium.com/solve-meta-amazon-google-apple-interview-question-write-custom-implementation-for-array-flat-8e0072961c29
+  file: ./posts/2022-10-21-solve-meta-amazon-google-apple-interv [8e0072961c29].md
+- id: f492eed948c7
+  title: Solve Meta, Amazon, Google, Apple, Microsoft frontEnd developer interview question | by Vasanth Bhat | Geek Culture
+    | Medium
+  date: 2022-10-21
+  url: https://medium.com/geekculture/solve-meta-amazon-google-apple-microsoft-frontend-developer-interview-question-f492eed948c7
+  file: ./posts/2022-10-21-solve-meta-amazon-google-apple-microsoft [f492eed948c7].md
+- id: d652e9ecd98e
+  title: Why is your resume not shortlisting in a premium company ? | Tips and tricks of resume shortlisting | by Vasanth
+    Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://careerwithvasanth.medium.com/why-your-resume-is-not-shortlisting-in-premium-company-tips-and-tricks-of-resume-shortlisting-d652e9ecd98e
+  file: ./posts/2022-10-21-why-is-your-resume-not-shortlisting [d652e9ecd98e].md
+- id: 20c9656b6ce8
+  title: Youtube — System design, MAANG interview question. How live commenting, pagination works on Youtube ? | by Vasanth
+    Bhat | Geek Culture | Medium
+  date: 2022-10-21
+  url: https://careerwithvasanth.medium.com/youtube-system-design-maang-interview-question-20c9656b6ce8
+  file: ./posts/2022-10-21-youtube-system-design-maang-interview-q [20c9656b6ce8].md
+- id: d921d8b34584
+  title: The Art of writing Bug free code. As per research 70% of the work in the… | by Vasanth Bhat | Medium
+  date: 2023-03-13
+  url: https://careerwithvasanth.medium.com/the-art-of-writing-bug-free-code-d921d8b34584
+  file: ./posts/2023-03-13-the-art-of-writing-bug-free [d921d8b34584].md

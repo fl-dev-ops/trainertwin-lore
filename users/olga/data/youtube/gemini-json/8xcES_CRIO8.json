@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "The best skill I ever got is being able to walk on the streets like this with a camera in my hand and feel myself. I believe that this is the most underrated money making skill in 2026, 27 and I'm going forward. And you know what? People around me might not look, but your brain is telling you they do judge you, right? The way I trick myself because I still need to do that is I know for sure that they will pay any money not to do this. So I am the unique person who in their mind is doing something they are not capable of. And of course, they explain it to themselves like, oh, why she's doing this? Oh, how dare she? Or maybe they don't, or maybe they really like Jesus Christ, I wish I could do something like this."
+    }
+  ]
+}

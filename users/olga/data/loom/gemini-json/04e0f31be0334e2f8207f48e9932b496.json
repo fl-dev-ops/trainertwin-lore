@@ -1,0 +1,564 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "And I want to open it in some other mode. Because I cannot, you know, I cannot operate it because this stupid sharing thing is closing the, uh, opportunity for me to pause it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm laughing because I was so scared."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's just, that's recording number two. Recording number one."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hi, hi Adnan. This is Arena. How are you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, hi Arena. I'm good, I'm good. How are you? Sorry, I, I was on a call when you called."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, no problem. That's fine. Is your day going well?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, all is well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, yeah, I just wanted to give you a quick update, um, and discuss a little bit about your property. So we've seen today, around 10:30, the property and you know, my couple said that they actually like it. But the problem is they have three children and when they saw the property, they kind of understood it's a bit small, you know, they need 1800 minimum. So I don't think that these people will be proceeding with any offer, you know. But, uh, but I also wanted to talk to you a bit about your property because I think you're trying to sell it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Honestly, I'm just annoyed that I cannot stop it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's not possible still. What is this?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I, the button is there, but because I have all of this sharing thing pumping out, I cannot save it. So you said that, um, I think you're trying to sell it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. Oh my God. I should have asked him like, even though he sent me the link, I saw it was listed in August. I should have asked him, how long have you been active on the market? I don't need to say, oh, you sent me this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You said, you said it was two months. And you kind of swapped it under the rug, you know, you kind of, I felt you, you kind of felt maybe awkward discussing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But this is exactly what you have to talk about. That's the topic that he has to talk about. because look, um, he's been trying to sell it. He has his ups and down, he's a little bit maybe upset and desperate with other agents. I want him to tell this all to you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I want him to vomit it to you, you know, sometimes you just a good vomit makes you feel relieved. I want to tell it to the to the a little bit deeper into the problem that he had."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I feel like you're trying to sell it. It's a little bit neutral language, but understood kind of opposite way."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So I would, it would be better if I asked how long have you been active on the market? Or"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, and how long you're trying to sell it. And the"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Or when you, when you start selling it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see? So just anything which is going to give us, um, look my thought process. I need him, if there is a pain, I want him to relieve this pain with me now, on this call. So before I will go, are you frustrated with you are not able to sell the property? He's going to say, what? Who are you talking about? I cannot ask this question directly, but what I can do, I can make him tell me that he is frustrated. And how? First of all, I have to prepare the the the the question. I have to say, so for how long you've been, you've been kind of trying to sell it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, for three months. So you've been listed it in August. Uh huh. And what happened?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. And I am comfortable that the thing which you have to start being comfortable is silence."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do not try to save them. They are okay, they need this pain. Because if they're not going to feel pain, they're not going to move. And they need to move. See? They need to make this move to decrease the price, to I don't know, maybe it's mainly increase the price, right? To be more negotiable, so they can jump into the new property. He needs to cash out, he needs new investment. How do you understand he needs to cash out? In your mind, what does it mean?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Like to sell this property now because it has already appreciated. He has already according to the, when he invested, it was much cheaper, right? So now he'll be selling with capital appreciation. So he wants to sell and to reinvest this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Why?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because he doesn't know what will happen with the market in the future. Maybe it will."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What did you just said? Why do you need this money?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ah, because he is an investor and he wants to gain more money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So you need this money for other payments."
+    },
+    {
+      "speaker_id": "2",
+      "text": "For other, yes, investments he said."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So can you imagine? That means that you have a payment due. And you don't have money to pay them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You got me? So that's why he's selling."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's not like, yeah, he said he's telling you, I need to cash out, but I don't think you understand how, how serious it is."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I thought he just wants to sell and buy a new one."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But he's already have some obligation. That's what he's going to tell you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, he said that he has some options in Dubai Hills, in Park View."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Obligati Okay, so let's let's take it into the deeper. Just trying to get it. Gonna start from here again. Oh, now without you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But I cannot hear."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh sorry, sorry, sorry, sorry, sorry. I didn't didn't share it. Stop sharing. Share. This one. Share. Oh, fantastic, it's here."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I've been holding this property for like three years now or now it's the fourth year. And uh I'll be I'm having other investments uh"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Having other investments."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Other investments. Uh huh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So what does it mean? He already has them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, he already has them and he needs to probably pay the payments, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you can imagine, if you are not, if you are late with the payments to the developer, what developer is going to do?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Put fines or maybe even take it back. It is possible."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Possible, yeah. Will you get any money if the developer is going to take it back?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, they don't pay anything."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If you will have no money to pay this property, which are the options for you, for developer not to take it back?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "If you will not have money to pay for it, what are the options? I think to sell. Sell at."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Depends, if he already paid at least 40% and if resale is allowed by the developer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, yes, so I need to."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So now you were getting into the woods, now you feel it, right? Now you see a little bit different picture. I want to go and talk about this. That's the way of the pain."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. But I feel like, you know, I felt like there are so many topics to discuss and how can I discuss, how can I pick one? My idea was."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because this is what he's he's telling it to you. Let's try one more time. Okay. Let me just do this. Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Send me the listing. It's been like, I believe, more than two months, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, approximately."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, so I'm just curious, you know, for me,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's been like believe two months. Why you? That's not a question. Is it a question?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, of course not. I should have asked him like, how long have you been active on the market?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And it's like, and how long you've been trying to sell it? I'm asking."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Closed-ended questions, now I understood."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And he's going to say two months. And you're going to say, two months. I don't have to tell him it's long. You see how I repeat it. So he will have to say that this is how our brain operates. He will say,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I was trying to sell it for two months, but then this happened and that happened."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's going to expand on this. This is a trick for you to start using with your husband first. You all of these questions, you have to practice on the people that you know, rather than you keep communicating with them the same way that you do. You cannot change, you cannot, okay, at work I'm just asking this skilled question and at home I'm just doing the same thing. Communication changed everywhere, improves everywhere. Right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "To kind of help you sell, because I specialize in Dubai Hills and that's my area."
+    },
+    {
+      "speaker_id": "1",
+      "text": "A little bit pitch, no need. No need. No need. You know, he will understand like, you could say, oh, two months. And and um, is this your like your first apartment in Dubai Hills? And then you purchased it? And then you purchased it? What was the price? Ah, yeah, that makes sense."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I want him to, he he's telling me that he already purchased it like two or three years ago, he already gained enough money. I want him to tell me that he's happy. I want to say, okay, okay, so just not to ask a personal question, what was the purchase price?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because you will see it anyway, it's going to be in the title deed. It's not a secret information."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I can see it even in the data."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But it's not about you seeing it. It's about he telling you that he's happy with the money that he's potentially going to make. You see the difference? Yeah, I purchased it for like, whatever, 1.2 million and now I'm just going to say like, well, I'm going to sell it with this and this. He's living through that experience again and again and again. So he's convincing himself without us convincing him that selling now is the right move."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And now he's going to."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I just want to understand, uh, if it's okay, like what's the reason that"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Just want to understand if it's okay. You make the question sound suspicious."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You make this question sound suspicious for him. But he he did answer, he did receive. But, uh, because you are not comfortable with the question and I wanted to show it to you. You make them uncomfortable. But if you are allowing yourself to ask this question, and, uh, I actually love the property, you remember what we said? I actually love the property. What's the possible reason you, you know, you've been trying to sell it? There is nothing, that's a normal question, completely. He is coming to you, you are the doctor. You're asking, so, what's the purpose of your visit? What kind of triggered you to visit me? This is the first question the doctor asked, right? Because they want to understand why, in your mind, in your mind."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That you are selling the property. I actually know the answer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's a nice property. Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "For free, for three years now, approximately, now it's the fourth year. And uh I'll be, I'm having other investments uh I don't know, in different locations, so I'm just trying to cash out and jump into another venture. Instead, ah, okay, for three years?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because he was talking, I was like, if I interrupt."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is a introjection, we're going to learn it later. This is advanced sales skills. I'm just going to explain it to you, why I'm sometimes doing this. Um, the sound out of your mouth like, ah, hmm, makes sense, uh huh. It's, uh, the name of those sounds are verbal cues. So the verbal cues, uh, are advanced sales communication, which makes them feel that you are very much listening and will help you to introject with your question when you need to introject. Because if you're just silent and then you're like, oh, help me understand. It's not going to say. But if you're going to, ah, and help me understand. What's the Makes sense. And and what about And I just wanted to ask you about this. You see? It it's not you don't have to start trying it now. But in the future, this it's going to make a huge difference in the way that you steer the conversation because you need to move it. And sometimes you cannot if the person is talking for 10 minutes. That's why you need to know how to introject with the verbal cues and ask him the question."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm having other investments. This is what he's telling you, the first thing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is what he's telling you himself, I'm having other investments. You have to go there. He's giving it to you on the golden plate. That's the most important. That's the main reason he's trying to sell."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In different locations, so I'm just trying to cash out and jump into another venture. What do you think saying this going to make him do? What was your initial intent for saying this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, okay, yeah. Actually, well, I think you know that in Dubai Hills, the prices have gone up and it's a good time to sell now. increased on the price. Why I told this, he will sell like even above the market. I'm saying, oh, the prices have increased in Dubai Hills, you know. I'm like making him feel that wow, he's going to make a lot of money now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But why?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't know, it's because I'm stupid. I'm asking this type of questions."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's not, it's not because you're stupid. That's just it's not about this. There is a psychological reason why you're doing this. We have to understand why. Because you think you're going to like you more if you're going to tell him that he is right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe, I don't know. Maybe it is this type of thing inside. Probably, I want to feel like, oh, she understands me. It doesn't matter if my property is priced very high, but she's okay, she's like everyone."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Everyone agrees, you know, on my price. So why don't you agree?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Choice."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because this is what what this is what makes you different. I want to talk with someone who Yeah, I want to talk with someone who has his opinion because that's what salesperson is. The salesperson is Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Now I."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, now I understand, but at that time I was just speaking, I don't know, my mind was all over. No worries. Just now you're going to, uh, you're going to like, maybe stop yourself, why am why am I saying this? Even if you said that already, you're going to think, okay, so how I can kind of twist it? I would after that, for example, uh, after this, when I'm already kind of, sorry, I'm waiting for the car delivery. Maybe that's them. Hello? I'm good, good. Perfect. Yes. Yes, I am here. It's 30 uh 301, yes. Yes, it's cluster A, yes, perfect. It's a replacement car. So sorry, I'm on the Zoom call. Uh when are you going to be here? Perfect. Can you give me a call? Okay, thank you. Sorry, that's the bank card. I'm trying to receive it for like a week."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, so from here, look, what I would do, and I, okay, so the prices are high, blah, blah, blah. And it was like, but it's really depends on um, you know, the, the amount of cash and, you know, the time frame that you need it for. Because, you know, some some landlords, they are okay just to keep it for years and years and like, you know, with no offers. I want him to tell me, so what I'm doing here, a little bit. This technology is called labeling. I'm labeling others. I can do a good labeling, I can do a bad labeling. So in this way, it's like, you know, like some other landlords, they just, you know, keeping trying to sell the property for years and years with kind of no success. He doesn't want to be like them. So he kind of have to say, oh, yeah, well, I'm not one of those. So he's going to stay now consistent with not being one of those. He doesn't know that, he doesn't understand. This is unconscious."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. But if you want it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm interested to."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You know, because I think it's important when you want to sell, you you as a seller should know how many people see your property weekly online, how many clicks are there, you know? It helps because the sellers if if you're interested to sell and you need money."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, yes, I noticed it. It's like around 22. 22.5. Ah, service charge per square foot, like yeah, dirhams, yes, yes. So I'm paying around 30 something. Wow. I remember when it was 18. I don't know why. 30,000, 31, 32,000. No. I know, I know. It's just a lot. So yes, it's 190, but I'm paying 30 for the service charge, 35 let's say. So I'm left with only 155. Ah, I see. Well, in terms of your apartment, it's not a bad one at all. It's nice. It can be sold."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's talking about a total price he's paying per year. You understand that? No, it's 30,000, 31, 32,000. So yes, it's 190, but I'm paying 30 for the service charge, 35 let's say. So I'm left with only 155. Ah, I see. Well, in terms of your apartment, it's not a bad one at all. It's nice. It can be sold."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, yes. Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So if you are looking at the parking spot, what's the new rent rate for now?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, I see some people are renting at 190. Yes. Yeah, mine is 190 already. Yours is 190. It's in a good price range. 190 is there, 200, it all depends on the floor. And also sometimes on some upgrades. So if yours is 190, I think it makes uh maybe around 5.5 or 6% ROI, I believe. Yes. Gross. Yes. Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How you calculate it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Right away. When I was talking to him, the rental amount on the price that he is asking, which is a bit high. So and it was gross, it was gross, not net."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But you don't have to calculate it. You have to calculate it how much is given for him now. Yeah, it's not fair."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ah yes, for him, of course, there it will make sense. I didn't tell him, right? That, yeah. Yeah, I didn't tell him that based on the price that you're asking and rental amount, what do you think like, in your mind, who's going to be able to pay the highest price? Investor or end user? End user, of course. Why? Because, uh, end user's goal is to live in that apartment and if they like it, they will be able to pay a higher price. But why they're going to be able to higher price? Expand more on, what do you mean they like it? Well, like, they will like the view, the apartment, the size, and So what does it mean? For you, Mr. seller, to get the highest possible price, who should be considered?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because uh yeah, I mean, every month. Okay. So, what is the next, uh what's the main goal for the next week? Okay. So, I don't know. Ah, so I would ask him like, we could potentially discuss the price. Not adjustment, conversation about the price adjustment. Perfect. Let's do that. By the way, I hate this. We did this once already. We agreed with her to wait for another week and then have a conversation about the price. Fantastic. So you know how to do that? Let's do that. That's what you meant? I thought you were saying not only the portal, I thought you were saying how I will be able to sell this property apart from the, this is your marketing strategy. This is your marketing strategy. Okay. So, I don't know. Now we have to work on price reduction of these listings. Yes, yes, yes. Okay. Okay. Have a good weekend. I'm so happy I found you. You are a great person to work with. Thank you. Okay, have a good weekend. Bye, bye."
+    }
+  ]
+}

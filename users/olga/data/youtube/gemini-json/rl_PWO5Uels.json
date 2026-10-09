@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Mr. client, I know it may look like the market has stopped, but reality is, the market shifted. Now, people are buying very smart. didn't disappear. buyers became more selective."
+    }
+  ]
+}

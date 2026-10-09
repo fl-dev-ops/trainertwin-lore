@@ -1,0 +1,516 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 4,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Sure. Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So for for me in terms of what's stopping uh what's stopping us from from closing? Is that was that the question? Right, so I guess for for me personally without sounding too arrogant, um it's I I have enough confidence in my ability to close. I guess it's the frequency of meeting the clients. I still think this is a contact sport. You've got to get in front of people, you've got to meet them. You they need to know who you are. Um so in in in terms of what's stopping me, it's probably just the volume of people we're meeting uh and and then uh I I wouldn't say there's a lack of product knowledge or industry knowledge. I think the I don't want to speak on behalf of everyone else, I'll speak for myself. I think I've got enough knowledge to be able to close. Um it it most likely like in Dubai, especially just having the right contact within a developer to ensure we're getting the right stock and then being able to to close it that way. Like that's a little bit where for me, um you know, I I could pitch a project. I could try and sell a particular unit. Um but then being able to then also negotiate with the developer to get a good payment plan and push them on that. Uh so that you can confidently ask the client to put a deposit down."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so now, um bring me up to speed, how many deals you closed, let's say over the last six months?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "In the last six months, I would say six."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Very good."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't think so."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so what's good for you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh I want to be like I want to be doing four or five a month minimum."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, correct me if I'm wrong. From now, you've told me, it's literally the quantity of leads that you're getting."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The the quality. The quality I would say is"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but if you're going to have more of this quality, will you close more?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Or not."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think so."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. And how many how many leads are you getting now on the, let's say weekly basis?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "A weekly basis, um I would say we so so my position is slightly different now. So my position is I'm I'm the team leader of of the team. So I'm allocating leads. So the team can get anywhere from 25 to 50 leads a day. Uh as long as they're getting through the calls. Uh but the quality is quite poor."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Would you consider potentially and I'm just asking you guys because you're a group and that that you potentially pull some budget together to pay for some lead generation to a company."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh I think we could possibly again like without speaking on behalf of everyone else, like I think we could possibly pull money to do our own lead generation."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly, that's what I'm saying."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "But do you know anybody that does good uh uh social media marketing, because we don't want to give it to our same marketers. They'll just do the same thing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In in my uh in my coaching, I have Osama who has his digital marketing agency. He came to me for coaching. He's co-owner of the real estate agency as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Sorry sorry I the reaction is only cuz Osama is the same guy that does hours and it's just by coincidence his name is"
+    },
+    {
+      "speaker_id": "2",
+      "text": "He used to have such a big hair. Now he shaved it. So he look like a half"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I hope it's not the same guy."
+    },
+    {
+      "speaker_id": "4",
+      "text": "It's not the same guy. Not the same guy."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, he's 24 years old, so I'm not sure. He's he's working on himself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No worries. We'll we'll call him we'll call him Sammy. He's he's Sammy for us."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Look, I'm sure that your Sammy is a decent guy. The only thing that he's been given a target to get as many leaders as possible. So he has to show some shit. To generate a lot of leads. It's not like he's not an idiot."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I just, you know, it's just kind of working with it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Um we we can talk about that after regardlessly uh because again, Osama came to me. He's 24. He's extremely um um hard working and eager to learn, and he's already successful. So his goal coming to me in my coaching because he's not real estate agent, was to understand what the hell is going on. Why his team is not able to close anything what he's generating. He's a co-owner of the new agency. So I taught him the process. He's start calling them, and he's saying that the leads are great actually. So that fast forward um he get a new agent for whom he offered a package as I'm going to do your social media marketing. I'm going to do the reels for you. You're going to generate your own leads. I'm going to generate leads additionally for you for social media marketing campaigns. And as well I'm going to kind of tell you from what I've taught him, how to close those deals. So the agents are coming to his agency now on a package uh where they have their own brand building, which he helps with. They have the lead generation. But as well the system, for example, the lead generated from his marketing is one split for the lead generated by you, even from the videos that he uh filmed for you and edited and posted, that's your lead. And his leads, um I was uh kind of connecting him from my other clients but they are in Saudi Arabia, so they couldn't like really work together. Uh from what he told me, the minimum budget for an a good campaign for that to mature should be around 50,000."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Is this is this on a monthly basis?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I'm not sure. I'm not going to I'm not going to sell anything on his behalf. I'm not going to say"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But uh"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I assume it's for a full campaign. Like to run a campaign, it's 50,000 that he's going to be successful."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know how it is, if if, for example, um he's giving you leads from he's running campaign. He's just giving you leads from those campaigns, which he has for himself. This is a different perspective. But if it's a new campaign, which going to be arranged for you, you have to pour a little bit of more money on that campaign for the campaign to mature. For the AB testing and all of that stuff. That that's my I never I I never did any paid marketing myself. All my marketing is organic."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I can teach you that."
+    },
+    {
+      "speaker_id": "4",
+      "text": "So"
+    },
+    {
+      "speaker_id": "2",
+      "text": "How to do organic marketing."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Just so that I heard you correctly. Did you say 50, that's 50 or 15?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "50, 50,000, 50."
+    },
+    {
+      "speaker_id": "4",
+      "text": "50,000. Okay. Okay, cool."
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, no, no. If it ends up being uh successful, maybe it will be the start of a new company."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Like that's that's something to think in the future. Okay. What about you, Rakshit? How many deals you closed with the last six months?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Um over the last six months, six months if from the beginning of the year. Yeah, so over the last 10 months it's been 10 deals or 11 now. Um so yeah, I mean on an average it's like a deal a month."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Not bad, guys. What do you want from me? Why are we even here? Like really?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Um I mean see like I I think the three of us are on the same page. Um firstly, what the business is trying to do is bring us quantity of leads rather than quality. Um but with that, what's happening is, um so just so you know, like we work different markets, right? So Ahmed and Amir both do Australia. I do the US and UK. Um so um lately what's been happening with the US is the cost per lead is is significantly high, right? So we're exhausting budgets pretty soon. Now, what's happening with the exhausting budgets is we're not getting quantity, neither are we getting quality, right? So just like what Amit said is I would obviously like to be in front of more clients. Um the reason Amir and I both joined the business is so that is because we get the freedom of being in front of clients rather than doing it over the phone. Because we sell by doing property events around the world, right? So um my problem is not necessarily the fact that I'm not able to sell well. It's just the fact that I'm not able to be in in front of as many clients as I want to, because I feel like the couple of clients that come to me that are actually in a position in a position to make an investment or make a decision. Um I think I'm fairly okay to convert them. The problem is not being in front of as many as those guys that I want to be."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, so that's not just from me to add here, sorry, which I think is important. And you you tell me what you think, Rakshit, like given we did like London and Birmingham just a few weeks ago."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh I think there's also what you and I talked about Olga, which ties into these uh which is like for a for maybe one, two, three, four, four or five deals, we got about as close as you can get to a deal being done and we weren't able to finish it off. So, yes, getting in front of more of the right people, like more of the quality leads is is one thing. But I also do think for me, I again, speak for myself, I think that there is some skill missing to get those clients to do it to get over the line. Um that we we are missing in terms of a skill. Because we should have converted those people. Like they they got super close. So either we pushed too hard, or we didn't push enough, or we didn't ask the right questions. You don't know what you don't know, right? You don't know what you did wrong that you don't know about. Um I think even though the market is down, uh like it's a buyer's market, I think, yeah, okay, sure. Maybe you shouldn't be making, maybe, and and even to this I disagree, but maybe let's just say worst case, maybe you shouldn't be making a killing in this market. But you should be making a pretty good living. There are still people closing on a regular basis. I don't want to go to a roadshow and come back with no closes. I think that's pathetic."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, look, because if we're dealing with a problem that we just need more clients, then I can again, potentially connect you with right people, whom there is no button which has uh on it good leads that you can press and the good leads is going to come. But at least I can connect you with people who who are not there to cheat, who are not there to scam, and understand because they've been taught by me, and they've been calling to those leads, they understand what is a good lead, what is a bad lead, right? Rather than the marketing people, they just think anyone who click the form is interested. Or there is another gap that I can potentially help you and this is coaching for, how we increase the conversion of what we already have. How we again, going to create a system where I will be potentially all the time nurturing those leads who never purchase, will not even halfway to purchase, but I'm not losing the connectivity with them, and I keep talking to them with a specific, I say, occasion, not like high, are you ready to buy? So then I will eventually build a pipeline."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes. Yes. This is what's missing. Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because correct me if I'm wrong, like I see in front of me a pretty pretty successful agents already. So I would be thinking what is the next step for me? Because now you're going from one agency to another agency. Whoever promised you to get a better leads or with a better chair, or with the better story, you're kind of going there. Where is an opportunity and I can see the future in it, and I'm kind of, let's say, live and prove that this is possible. Um where you can start slowly, yet working with the company, yet working with the lead provider. Start building your own system including creating your, I don't want to say this pathetic personal brand. I would say, I call it organic content marketing. What that means? The content, the marketing that you're putting, organically brings people to you, who watch your videos, felt that you are the right guy, inquired, and they already have told to buy with you. You don't have to do the work. Like now you have cold leads, guys. Yes, there's people are interested. They don't care about you. The majority of work that could be, you know, outsourced to the videos. Like, let them watch couple of my videos, they're going to be cooked. And this is in the future, going forward with all of the social media, we're transitioning into the marketing via social media. So if you want to be successful in this career, one of the ways is for you to become self-sustainable. And that then it doesn't mean to open your real estate agency. It doesn't have to be that. There is a lot of companies like Felix or other kind of membership-based real estate that provide you a license, but you just needed to close the deal, and you get your you keep your all commission."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Which usually for for individual agents the problem with this model would be, I'm on my own. I need a team. I need I need to bounce. I need to kind of have this, you know,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Culture."
+    },
+    {
+      "speaker_id": "2",
+      "text": "We are together. You have a client, I have a client. I'm down, you're going to pull me up. But you have this dynamic. And realistically, to build a team of three, four, five people, and just just do the work. Yeah. It's easy. Getting the if you want a license for yourself, get the license for yourself. You can you don't have to open like a proper real estate company. You have a kind of a It's a free zone, blah blah blah bullshit license for real estate. You can get it. It's pretty cheap."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So what is for you in the future? Because there is one way. And there is another way. Oh, let me just be the agent and just jump from the up and down the company, which is basically a dead end. Or I can open my own agency and decide that I'm going to build a my team, and I'm going to become a manager, and operator, and I'm going to then hear Olga saying, Olga, give me good people, like this owner from today. Please, give me good agents, and I'm sitting there and I was like, oh, you know, I promised to myself that I'm going to not going to recommend to my coaching agents any companies. Because I'm I'm getting a backfire all the time. And I generally think that they're good people. And then something bad happens. And I'm not getting anything out of it. It's not like I'm getting, oh, here's your 2,000, or 5,000, or 10,000. I'm not getting anything out of it. I just want to connect the people. So, what do you feel as a future plan will be most suitable for you?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What what what you suggested at least a version of that. Meaning like, if we can um you know, this is ideally uh thinking. If you if you if we figure out a way where we can run our own roadshows. And we just set it up and we'll go and we know we can get our own leads that are, you know, good. We qualify them and we go and do it ourselves. We're in charge of our own destiny, you know? Uh instead of having to be at the mercy. Look, the the company that we're at, I'll speak again for myself. I can appreciate the effort that they're putting in. They are nice people. Uh uh that that's not my issue. I don't think they're evil, or they're like taking advantage of us or anything like that. It's just the uh you need to like improve things and you need to do it faster because I as well as the others here, we have a finite amount of time. I'm nearly 40, you know? I'm not 25 anymore. There's a finite amount of time to uh get the savings that you want to get, to take care of your family, and to move forward and go to the next stage in life and enjoy the better things. I can't just keep going to road trips, roadshows, and be put in front of people who are waste of time. I don't I don't care about the free trip. Uh I'm there to come back with money. And and if it's a waste, then it's a waste. Like I don't I'd rather just stay here and just make calls. Yeah. Instead of 17 hours on a on a plane to go somewhere, sit in front of seven people who have no money, and then come back again. Uh it's it's okay. I I'd rather not have to do the travel."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, look, what we can do now. I'm thinking. I can show you because I have that uh open on my uh laptop. I will show you a little bit of what my uh I don't want to say fancy word methodology. What my coaching is like. Because um for you to follow that's literally can you see that? I don't know why. I'm just wondering what what Oh, okay. Share screen sharing stopped. That's not what I want to share, but I'm going to try my best to find it. No. 100 of presentations. So, you guys stay with me. This one. Yeah. Can you see that on my screen?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that's Okay. So where should I put us? I'll put us here. So that's just a slide deck what I was uh training that I was giving. So basically, it's off plan closing system for leads from social media, which is not for the road show, which is just a normal leads which you call. I this is how I create a process. Can you see that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, basically, basically what I teach and how I map everything. So you got the lead. This is the matrix that you track. All the time you have an Excel sheet. Um that you can do it with a charge GPT as well. So you don't have to type it. You just dictate and then copy paste, copy paste, copy paste. Uh but you track how how many leads do you call. Let's imagine that's not your sales system yet because I haven't created it. The normal sales system. Meaningful conversation. How many Zoom book Zoom have you booked or how many people into the roadshow have you booked, and then you track your pickup rate. Then, you know what you do on the inbound call. And you know what you do if they will buy later. They go into the another sequence, where on this call, if they would tell you, they are completely not qualified for you to book them or to, you know, have further. You it's all scripted. You say a certain words. Like, for example, would that make sense for you to maybe till you're going to get ready to have uh insider marketing data. Uh not just the spam of projects which you probably have from another agents. Just more like a detailed analysis. Would that be useful if you were to get that on the email? Yes. You get the email. You got them into the sequence. This allows you to follow up with them every three months or six months, depending. Why? Because usually, the follow-up is nothing about, or I just send you this project, do you like it? But the originally follow-up could be based on the materials that you created. So you call them after three, four months and it's like, hey, just send this report. Uh have you got that okay? Have you have you actually received it or it went to spam? Oh yeah, received it. And did you did you read it or you got bored after the first page? Oh no, I read it. Okay. So, you might he might lie to you. He's like, oh, so what are your thoughts? You have a purpose to follow up about. And it might be I know it sounds maybe a little bit boring, and you're not going to do it with a lot of people, but out of that dead end, which usually a dead end. You can still squeeze three, four deals a year if you do it religiously. But the these deals will never going to go to you. If you're not going to do it. So then I teach what to do on the first call. So this is a role play. This is the first stage of the role play. What you ask. What attracted their attention. Um and then you dig into the pain that they have. Why they're even looking. There there is a question frame on it. Then your next goal in your case, it's going to be, for example, um booking the road show. However, we potentially can investigate. Does it make sense for you between you booking them on the roadshow and you're calling them to have a small squeezed Zoom meeting as well? Because what your goal is is to have as much as face-to-face time with them. To create more triggers in terms of they want to know more. They understood something, they understood step one, but they want to know more. Then the probability of them coming actually to the road show will increase. So that is well completely scripted. Oh, sorry. There's the way you talk about an educational zoom, you don't sell anything. You don't offer the projects. You you kind of supposed to. They think that you will, but you don't. You do the investor tour on the map. I teach how to do that. How to create the desire of Dubai is growing. Right? You can do it in person as well. I don't know which kind of presentation you execute when you are with them face-to-face. But you can do a lot of things with showing the pictures and the video and making them guess which picture which here this picture is, and which year this picture is. For example, I love to do that in my sales career with the pictures of Dubai Marina, which you just Google them. So pictures of Dubai Marina, you show it to them and it's like, well, which year they were, oh, uh I don't know or like, for example, just guess. And then it's four years between these two pictures. And I'm saying, something like this would be potentially possible in your country? Oh, of course no. It's like, really, why? So then that's whole process. You basically those deals that you lost, Amir, or you think you lost. What was missing usually? One or two things. Is either fear, which been caused by them thinking that they're not going to have financial power to pay. So that means that you didn't dig into the budget enough, didn't simplify it for them. Or the fear, which been caused by them not really believing in their own ability to make a right choice. You see? So you are fighting between those two fears with the client. What I'm saying, like the second fear is more uh tricky. Uh I should think that I understood the prices, which area, why the price is going to go up. I've seen the past performance. I've seen the uh sales and rentals. It gives me clarity as if I understand. So if the client doesn't have that, they will not never going to be able to tell you why they didn't purchase. Because it's just below the con the the consciousness. But this is reality. That's the reason they're not buying. Uh I'm not going to go further because it's just uh uh I wanted you to get the whole idea. So how does the sales process look like? Is it like, oh my God, Olga, just like so much uh mass or how does it feel?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No. That's that's actually perfect. Like for me personally, that's what I that's one of the things I've been looking for to have a a systemized structured process of the customer journey."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What we're doing right now is very different to that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's more like I mean that's why um let's put it this way. Let's just role play, right? We Amir, I I promised you a role play. We never did it. Let's imagine, I have no idea how your process of presenting face-to-face the client look like. Um what do you I I just want to role play with you the thing that you find the most challenging. Or can be any objection that you're getting and you're kind of uh uh trying to overcome it, or maybe how to get them to engage in the beginning, when you just met them, and then you have to find out like a budget information and then they're not really telling you this. So tell me what you're kind of now maybe not that confident. And the way it's going to go, one of you going to be an agent. And one of you going to be a client. So you know how the client react. So I'm going to look at that. And then we're going to flip. I'm going to be an agent. And another person going to be a client. And I will kind of on a go try to assemble the process, how I would do it. Okay?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yep."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, which situation do you think makes sense for us to role play?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, I think uh where we actually get stuck more, I think we're the root issue is, I think it it would be the the logical thing is to go directly to the points where we're at the road show. I think the problems arise way before that during the calls. Uh like the way we handle the calls when we get the leads. So you you would call somebody and um you know, yeah, um uh you registered your interest for uh for the roadshow. Uh you know, tell me a little bit about what you're after. And then then a couple of uh common issues arise. Uh one is the most the most common one these days is uh reservation due to the conflict due to the war. I just want to wait until the war the war settles down, or they just flat out think Dubai is finished, and it's not going to recover for another 20 years. Um so uh a whole wide range of questions."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Like let's let's role play. Who going to be Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yep."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Amir, let's just I I I got it. Who going to be an agent?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Who want to be an agent?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, do you want to be an agent? Who going to be that client?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'll be the agent. I'll be the agent."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Amir, go the first call. You're trying to book a um attendance of the roadshow, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'll book I'll book Amir. I'll call Amir and I'll I'll book him in for a roadshow. Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Let's do it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'll I'll go ring ring and then you go for it, I mean."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, hello."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ring ring."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hey, Amir, how you doing? This is Amit. I'm just giving you a quick call. Uh you inquired on uh one of my events that I'm hosting in your city."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What event is that, mate?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, so look, uh it's a Dubai property event. Uh I'm originally from Sydney myself. Uh so I'm specifically hosting an event. I wanted to formally introduce myself before we obviously get an opportunity to meet in person. So, can I just ask you a couple of questions before we move forward?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, sure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Brilliant. Have you been looking uh to invest in Dubai for a while or is this the early stages for you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, I literally just started looking, but uh I've been I've been seeing what's happening over there and I'm not too confident with what's going on, so I think I'm just going to uh hold off and just purchase something here in Australia instead."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Yeah, look, very common kind of response I'm getting from people in Australia. Obviously, there is a lot of information being spread on the news. Okay. But to be honest, it's not actually stopping investors from making decisions and and and making a purchase here either. Uh have you been to the UAE before?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, I haven't been there. I've got some friends there, um but I've never been there myself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And and what's the feedback been from your friends who are who are based here?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, they're telling me that uh they think that property prices are going to come down even more, uh much more. And uh right now is not the time to buy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. No problem. With with your specific interest in terms of buying, um what I would suggest, uh we jump onto a Zoom call. We sit down in person. I can go through the actual map of Dubai. I'll fill in the gaps in terms of information for you. Um and and I can actually explain to you how the process works here, because Dubai actually as a market has proven time and time again that it bounces back and bounces back relatively strong."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Can I pause you guys?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I got enough."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ahmed, really, thank you. Can I pause us just for us to be quicker, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, of course. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Thank you. Amazing. I just I just love your speed. So, I'm going to point on Rakshit. What do you think was good, was really great, and what do you think would be improved? Guys, here everyone is just removing the ego. Yeah, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We're all here to just learn."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You are constructive feedback panel. Before I give my feedback. Mhm."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Um, see, first of all, first of all, um I think it's great that the call even went that long when when Amir said he wasn't interested, right? So for me, when somebody says not interested, it doesn't go more than the first 15 seconds. So I like the fact that Ahmed acknowledged everything that he said and then gave him a rebuttal. So he said, yeah, not a problem. I'm getting the same response from people here. Um but it almost even though, I mean, there's something that I struggle with as well. Even though Amir said he wasn't interested and he's not keen in looking. Uh Ahmed was a little pushy to get him back into maybe being interested, right? Uh Ahmed mentioned something about how um I appreciate registering your details. What I do differently when people say they're not interested, I said, but you registered. I I hope you know these leads cost me money. Um and like you registered, which is why I'm giving you a call. So why did you register the first time?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "You're saying this to people. I hope you're giving a really bold face. I hope you're really giving a bold face with that."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, I mean, I try."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What is the respond? I'm so sorry. I'm so curious. What is the respond when you when you say that?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "So, um, I mean, I I don't give this a lot"
+    },
+    {
+      "speaker_id": "2",
+      "text": "He just said, oh, sorry, excuse me, should I pay you back?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "No, no, but but like what a lot of people says, yeah, we were just going through it. I thought it was interesting, so I registered. And like what what I do sometimes on my road shows is I even like go one step further and I say, I'm sorry, but this road show is purely for people who are willing to make a decision. If that's not you, let me know when you're willing to make that decision and we can reconnect. Um I can keep in touch and send you your reports in the meantime."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And now you're telling me you don't have enough leads, right? You're disqualifying people badly. And you're telling me, Olga, I need more leads. Well, I I'm going to found you leads exactly right now. If I'm going to if you're going to stop saying that things, you're going to have way more leads."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, so"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Thank you so much. I I Ahmed, are you are you open for me to give you a feedback?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Please. Please, of course. Be as harsh and brutal as you want to be. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Um I would not I mean, it's it's up to the personality. I like that you're playful on the phone. Uh and you can be even more playful because you're talking to Australians. I think they are just like Yeah. Formally introduce myself. No one is interested in you. You don't have an authority for them. Is this ad running, high, it's me, Ahmed, I'm inviting you to the road show. Is this about Is this is this like this?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Or no. No. Because if it would be me, I know that I'm in the video. I know I'm talking. That's going to be different. Which could be a very good actually selling point. You know, you're giving me a lot of marketing ideas, how if you're going to do your own roadshow, how the own can be placed. So, um, he told you he's not interested, right? But you kind of like you're going you're just pretended that just has never happened, right? Guys, have you have you had the same feelings? It's just never happened. So you just keep going. And the way you try to uh uh he's like, I'm not interested. I don't think it's safe. I'm going to wait. You are saying, the reason I'm hosting this event is because a lot of people buying despite the regional tension. So you try to use the uh fear of missing out and social proof that you are an idiot. Everyone is buying, which might not work that well, because like you're telling me that like, well, you're telling me basically that others people are bad. I don't really care. So then you telling him that you want to give him a right guidance, but he never asked for that. And why I'm saying, I'm going to show you how to change it. You you've been going in the right path. And then you ask him, is it the early stages for you? Or you've been I for me, early stages. I've been looking 10 years. For Amir, maybe two days. Like, I would avoid using this good ROI, high rental yield, good project. What are you talking about? Just ask a simple question. And for how long you've been kind of looking at that direction? Yeah. So they're going to tell you, oh, two months or three months and and then if they're going to tell you five years, oh, you just started. Hmm. Instead of, oh, you've been looking for so long because you just started. It's funny, he's going to say, yeah, I'm actually looking a little bit too long. Ah, okay. And what kind of stopped you from maybe choosing something over this five years? You see my conversation is different. Yeah. Because I my goal to ask him for how long you've been looking is actually to discover is there any procrastination and going forward, which objections he gave already to the other sales people because he's still with me on the phone. I want to know this objection now because he's going to give me the same objection. Yeah. But I want to know it now, not after. Then. Very common response. So you confirming that everyone is actually the same as me. Meaning response that they are It's a good way. I will show you how to refrain the the client, how to in the beginning, even of the call, um make him decide that he's not one of them who is afraid. Yeah. This is a sales technique called framing. Just showing them to identity, they automatically pick up the good one. So, that's it. Yeah. Um a lot of times what they will do is, you'll get them on the call and they're they're kind of interested. They did register, et cetera. And they might want to come to the road show on the weekend. But what they'll say is, yeah, yeah, can you just send me some details of some projects on WhatsApp? And then we can we can call. And that's, you know, uh obviously you don't do that. And then from there, it's kind of like ghosting, you know? Uh this is another like common situation. My my goal will be with them, because I don't want to tell them why is it important for them to understand everything better. My I'm I'm just yeah, that's not a problem. Removing the sales resistance. Everything that they say, yeah, that's not a problem. But how is it important for you just besides like looking at the project because you know how it is, like the best marketing materials you can ever see. It's marketing, right? What's important for you to kind of truly understand your future opportunities in Dubai, not based on the marketing, but based on like realistic sales and rental transactions or how the say full cycle of the property you are handing it over, you're renting it, you're selling it. How important is for you to understand that? Oh, yeah, that's really important. Yeah. So, that's that's what I do, guys. Um let's put it this way. My coaching, individual, uh for 13 weeks uh includes um uh it includes access to my course with a lot of video recording where explain different theories, uh talk about how to present on a zoom, how to show the map, how to uh ask about the budget, like around 40 different videos over there. Then we meet online like this, we record the sessions. They're going to be a theory part. They're going to be a deal progression plan because I want to understand what's going on with your clients. You're going to give me all this is the client, I don't know what to do. Meanwhile, through the whole process, we're going to have a group chat. Or like I have a group chat with my coaching clients where he can ask me any questions, he can drop a screenshot, what should I do with this message, how can I book this client, and all of that things, and you will be surprised that I'm just telling you what to do, you send it to the client, and you book it. And you kind of learn on a go. Then there're going to be role plays because if you're going to go in the group and giving the fantastic opportunity all of you role playing. By the way, you're going to be role playing without me as well. But with me, I will be able to correct you. Tell you, okay, you said this, you should do that. Try. And you're going to try it in another way. Plus, I will ask you to bring me your call recordings. And I'm going to fry your call recordings, I will tell you, okay, you said this, that's the that's the reason the client responded that way. Try to change this. Try to ask him this question. This is basically a decomposition of what you're doing right now. Plus because you have roadshows, we together going to build a process for you. For pre-roadshow, on roadshow, post-roadshow. Because for example, me selling a time share, we do four hours face-to-face sales. The time share has a very good sales process developed by UK people. But it has to be very controllable. So it's not kind of a normal scenario when that's why the product is membership of the club is only can be sold within highly controlled environment where the people are committed to stay with you for four hours. There is hundreds of tables and everyone is on the tables is selling. But for you, the process of what you're saying, through the presentation, how you close them based on what you receive. What kind of consolidation dinner could be done if they didn't purchase. Or consolidation dinner after they purchase. You go with them on a dinner. Or on a lunch, whatever. This is where you warm them up. You close up the objections because you don't want to have don't want to have any refunds. And this is where you ask for referrals. That's guys, that's just if I were in your position, that's what I would do. I will go above and beyond. I will exhaust all of the opportunities. And so, this is how it is. Uh 13 weeks, eight sessions. Um besides those mandatory sessions, we can have another calls, um I would love to meet you in person. For example, we can have several sessions like in person. I insist on the I insist. Uh the session which are recorded, it's easy for you to then watch them. And to kind of get in depth, what was happening because sometimes when you're yourself in role play, you might not be able to see yourself. But when you're going to watch it, I was like, ah, okay, now I see that. Because significant change in your communication skills happens when you've been corrected immediately, and you try to do it differently. You get corrected immediately, and you try to do it differently. And now you're good to go. Not waiting for another client and then just try something else, have done it correct, have done it correct. That's it. The price is 21,000 for one person. But Amir told me that three of you can go. So I offered him unbelievable deal because it's it's fun for me to train three people. Uh so you pay only for two. So one is going for free and that's going to be Amir, guys. So on you. So, guys, can I can I make a photo for my social media because I don't think I ever had so many handsome guys. In one go. Okay. By the way, I'm a big fan of Australia. I um as soon as I make my first money, I uh join University of Wollongong in Dubai. And I did my masters. And 2018. I was actually thinking to relocate in Australia at some point. That's why that's why I did it. And I went to Sydney and I was in Brisbane. And I was just like, I have a fascination about Australia. Not trying to build rapport here. I just just honest thing. Just have couple of friends with you who you think they are amazing, they're the best people. So fun. So, that's that's probably true. Probably. Yeah. Okay, guys, that's that's you have to decide with yourself, right? Cool. Yeah. Amir, I'm going to send you the recording and then you're going to share with the guys. Ah, one more thing before I go. Because I think, ah, we shared a lot of energy. I gave you a bit, you gave me a bit. It would be very helpful if you will leave me a Google review. Yeah. Amir, did I ask you to leave me a Google review or not yet? No, not yet. I'm going to I'm going to send the link, and it will be great if you will text something. Say, Olga, make me realize that I'm leaving money on the table. Or something like this. Okay? That. So, guys, can I can I make a call for my social media because I don't think I've ever had so many handsome guys. Yeah. In one go. No, it's not as handsome as me. Yeah. Okay, by the way, I'm a big fan of Australia. I um as soon as I made my first money, I uh joined University of Wollongong in Dubai and I did my master's. And 2018, I was actually thinking to relocate to Australia at some point. That's why that's why I did it. And I went to Sydney and I was in Brisbane. And I was just like, I have a fascination about Australia. Not trying to build rapport here. I just just honest thing. Just have a couple of pictures with you who you think they are amazing. They're the best people. So funny. You probably love it more than the best people. Yeah, that's probably true. Probably. Yeah. Okay, guys, that's that's you have to decide with yourself, right? Cool. Yeah. Amir, I'm going to send you the recording and you're going to share it with the guys. Ah, one more thing before I go. Because I think, ah, we shared a lot of energy. I gave you a bit, you gave me a bit. It would be very helpful if you will leave me a Google review. Yeah. Amir, did I ask you to leave me a Google review or not yet? No, not yet. I'm going to I'm going to send the link, and it will be great if you will text something. Say, Olga, make me realize that I'm leaving money on the table. Or something like this. Okay? Bad."
+    }
+  ]
+}

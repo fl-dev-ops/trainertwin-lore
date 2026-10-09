@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "follow up plan with sellers, like I would say potential sellers. Someone who owns a property now, but he is not there to sell. So you got him, he has the property, I'm not selling now. How you then can call him in three months? Hi, Mr. seller, are you selling now? Or how are you? How is your kids? No, that's a bullshit. So, in order for you to be on top of the mind of the potential sellers and be the first who actually gets that listing, you should do what? Uh? Deliver the value for them. So, how about sending a very tailor, nice, readable on the phone, not 55 paragraphs marketing report. And then, after three months, you see quarterly, let's say, you're going to call that seller and say, hi, Mr. seller, I'm just checking in. Have you got the report that I've sent you? Uh, okay, have it usually sometimes go to spam, but have you got the numbers? Oh, what do you think about them? This is how you start a follow-up."
+    }
+  ]
+}

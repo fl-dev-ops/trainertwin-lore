@@ -1,0 +1,396 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 3,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "So, you qualify them. Qualify, what I mean. Are they able or willing to put some budget to that? Because we don't want, uh, maybe in the beginning of your career, I'm okay to have anyone and everyone on the meeting with me, whatever it's Zoom or in person. I'm just doing my reps. But if I want to allocate my time smartly, I would just want to meet people who are actually able to pay for my service, right? I who are able to purchase the property. So I need to understand budget, what else?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "What they are looking for."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What they are looking for exactly. Potentially, but it's a first call, you know. I don't want you to think, and this is the biggest misconception, that I'm not saying all of the clients, but majority of clients, they actually know what they're looking for. They don't know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "They don't know. So that's why they are coming to us."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Actually, for me, I'm building a relation first. I talk with the, if it's a woman, I always ask like, uh, if she's married, she has a kid. She's looking for an user or investor. Is it a first investor or no? She invested for where, which location?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Make a conversation, opening something with her. And if it's a lady, what else we have to consider, even it's it's a man, yeah?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "It's a man, of course, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Authority, meaning authority, do you have authority? But I'm not going to in my in my um scripts, in my communication strategies on the first call and on the how to lead the online meeting, in person meeting. I never ask, who is the one to make decision on this purchase? Because if I'm going to ask, if I'm going to"
+    },
+    {
+      "speaker_id": "3",
+      "text": "You know, your wife or your"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, because if I'm going to ask the guy, what he going to tell me? It's me. If I'm going to ask a woman, you're going to tell me, it's him or it's me. Does that make sense for me?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "But they know that who going to make the decision."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. But what they're really asking about? What do I need to know? Is is what they're going to answer me now is actually true? No. Okay. But do I want to have a true answer? Because the way I'm asking the question about the authority, I took it from B2B sales process. In B2B sales process, there is a multiple decision makers on different stages, you know that. What I'm saying B2B sales process, if I'm, for example, selling CRM solution for a company. Well, it's just like, well, one person going to make decision? No. It's usually an accountant, and then the sales, and then the marketing, and then the operation manager, some someone like. So it's a bunch of people. That's why when I'm talking to them, I'm asking, um, and help me understand, how how that decision making process looks like. Now we are talking about individual, yeah? For you, if I'm talking with a person who is now on on his own, and I know he's single, or for your family, when it comes to buying the property abroad. Because what I'm actually asking, I don't care, is me or not me. I need to understand what should happened in terms of decision making process. You're going to tell me now, oh, we have to, you know, uh, maybe come to Dubai first, or we need to sell our house in Mallorca, or we need to talk to our grandmother, grandfather, the Financial advisor. I need to know that now. Ideally. On the first call, if not, on the Zoom call. Because I want on the first call, I don't want to have a first meeting or video call with person who's not able to make decision. Because if I will have it with a wife, and there is a family. And the wife going to tell me, oh, don't worry, I'm going to tell everything to my husband. It's a natural tendency of human beings, and I know human psychology. If one of it's not only in families, like, for example, two friends. One of them got into presentation, heard how fantastic Dubai market is, and other"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Was the exact information."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, one friend is coming to another friend and telling him, my God, it's so fantastic, we're going to make so much money. The friend who was not on the presentation, haven't had the same exposure, he will try to convince protecting his friend, he will try to convince him that it's a bad decision. Naturally, husband to wife, who was single on the presentation, will convince the partner, it's a bad decision. I don't want to waste my time. Me as a sales person, I want to have exposure to both. There is a way to pull the other person on the meeting, or at least to kind of pre-open I usually ask this question, okay, and um, like, oh, it's my me and husband, blah, blah, blah. Okay, tell me, tell me how how your husband feels about kind of new idea of start making money with Dubai real estate. Oh, he feels good or bad or blah, blah. Would that come as a surprise for him or we are we making like a surprise? Okay, would that be useful if maybe he will be on presentation as well? Because he probably going to ask you after a lot of questions, you're going to And, you know, I've been selling properties for several years. I am good in explaining stuff, but still I'm not going to be able to explain things to you in the way that you're going to be able to answer his questions. So, would that be useful if we're going to just get together at a convenient time, both of you? He will be able to ask the questions that he has. So, in this way, whatever you will feel is right, going to be easy to convince him. As if I'm helping her to convince him. Yeah? Between the first qualification call and a Zoom meeting, I'm sending them materials, which are not brochures, fact sheets, and uh, pictures and videos, floor plans. I'm not sending this shit. Why? Makes no sense. Makes no sense. What do you think I mean when I'm saying the case study? What I'm sending them?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Sorry, what is it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Case study of similar projects. This is what I'm sending before my actual sales call on a Zoom, before my video meeting with them. I'm sending them the case studies. What do you think is a case study?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Brochure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, I'm not sending brochure. Brochure is what? Guys, I'm so sorry, like with all of the respect, 39 pages of fantastic nothing. Moreover, I'm more usually opening this on my phone, can I read that? What should I do?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Scrolling."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Zoom. And then there is like pure pure nothing. No, but marketing thinks it's good, so you're not going to upset them."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I mean, I don't say anything about that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, well, let's be honest. If that that was the option for people making decision to buy, why would they have a sales people then, right? But realistically, that's not going to sell anything. What going to sell anything, which questions does the end user has or investor has? Which questions? Which question he wants to be answered? Why he's coming in presentation with you? Like, why? He wants to understand the floor plans, really? If he understand the floor plans, he going to buy?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "He wants to get the first, he wants to understand the developer."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, I'm so sorry, do you know here which developer you're going to send him? Or if you if you think that like, I I'm calling this you're shooting yourself in the foot if over here you start pitching anything. It's way too early. You have no no information about the person. You never done a proper qualification. You're going to where you're going to, oh, that's the best possible project. I'm going to send you. There is just one unit left. I'm going to hold it for you for one day and then and then what? He's just not going to respond. He's like, a madman. People are buying property with the money they generated for 30 years. It's like, wow, five minutes to 10 minutes with me on the phone and then I'm going to send him this and he going to buy? I mean, that's happens, guys. I'm not saying that it's not happens, but this is a lay down sale. The lay down sale, meaning the client was round and about for six months. He knows the project probably better than you. You just happened to get a lottery ticket for this client looking for specifically for this unit, and you somehow magically got it to him, you send it and he purchased. Or this is a money laundering. Which is not easy because you will need a KYC still. We don't have to do you want to base your income on a will you win a lottery or not? Nah. Because realistically, closing a real client, a cold client, who doesn't know you, doesn't know Dubai, doesn't know the company. And this is what we have now, because we are doing active outreach for Portugal, US, the the deepest villages of UK."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course, uh, if I have international clients, I'm not going to pitch him the project itself. I have to pitch him what is Dubai? How you can, uh, get the, uh, the property appreciation? How it's worked in Dubai?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So what we are sending here? What I'm saying the case study, guys. What is most convincing for you if you're trying to find yourself a fitness coach? What is most convincing for you? Is it more convincing for you as a fitness coach on Instagram put himself as a picture, this is me, this is how strong I am, this is my apps, or he put the picture of before and after of his client?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right? You don't care about like, well, you ripped, of course, you have nothing to do all day, you just eat and train. But what I want to understand, how others in similar to my position make money. So that's why the case study is what? You're going to Raiden, finding the comparative project that you can compare from the past. Not from now, from the past. Three, four, five, six years. You're getting the initial sales price from the developer. You're getting the sales price, which was by the time where you know the project was completed. Completed. Completed. Yes, because that's the two prices which going to give you an opportunity to"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Three prices."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The launch price, the construction price, and the rating price."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I mean, on construction price sometimes it's"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But at least on construction or on the on the handover price and price now. Price now, because you have to like, if someone kept this unit from the beginning, as you potentially may, then what's the opportunity to sell it with this price appreciation? He decided to keep renting it. You can check the rental from the first year, then do a calculation up till this point, and in the end add two screenshots from Property Finder of the current sales price and current rental price. This is a case study. And you can have it for all of the OBG projects. When I'm talking about Ras Al Khaimah, I'm comparing it with Blue Waters Island. Because we don't have anything in Ras Al Khaimah, it can be a stopping factor. I mean, I'm comparing it to Blue Waters Island. It's a good comparison. I've done in six month coaching"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Blue Waters Island."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Um, we we've done five different strategies in how to calculate it. I took the unit, I mean, that's available on Raiden. The first launch price for three bedrooms in 2018, I mean, I know it was a good year, the prices were going boom, boom, boom, boom. It's my sales career, the the prices were always going down. Um, so 2018, three bedroom unit was 4.6 million. Guess how much is this unit now?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "16, 18."
+    },
+    {
+      "speaker_id": "1",
+      "text": "4.6."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How many beds?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "2018."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Three bedroom."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Three bedroom."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, maybe and maybe nine, 10."
+    },
+    {
+      "speaker_id": "1",
+      "text": "12."
+    },
+    {
+      "speaker_id": "2",
+      "text": "12."
+    },
+    {
+      "speaker_id": "1",
+      "text": "12. Why I'm taking Blue Waters, guys?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I think it's a bit extreme."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Why?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Because with Blue Waters, it's some it's some unique."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How it was unique? Why it's unique?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Is Ras Al Khaimah Marjan Island is unique? The Russian and the Ukraine war at the time, it just started. It impacted this that specific island a lot. Most of the buyers."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which one?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Blue Waters."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, Blue Waters became very famous and very profitable way before Ukrainian and Russian war."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Ukrainian, it was only last year and uh, and uh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Just calm down with this war. There was a small impact. Everyone is saying, oh, it was"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, no, no, no, no. No, I was selling. Why there's so many buyers that's that's"
+    },
+    {
+      "speaker_id": "1",
+      "text": "There are so many buyers. Who is"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Blue Water, it was like 50% sold out of it. And 2019, 2020."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's fine. I'm not talking about the launch. I'm talking about the first stages. I'm talking about when it matured, because it's basically matured now. Yeah. We have a full, look, I'm not going to argue with you because I don't remember numbers about the first and the last one by my memory. Uh, but we have full calculation of different ages stages where you could exit as a case study. We all we've done it. I mean, we dig deeper into that. Why I'm taking Blue Waters? Which hotel was in Blue Waters from the beginning? Who remembers? Which brand?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Casino was supposed to be there. We all hope that it will be there. Uh, is it uh, Caesars?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Is there any casino there? Ah, wow. Does that actually affected price negatively?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, not really."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, really? So that's why I'm using this one. Okay, can you imagine, do you have a trust that casino in Ras Al Khaimah actually going to be completed, built, Mr. Client?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I hope so."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What do you mean you hope so?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I can I can say yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, what do you mean you hope so? You see, I'm I'm I'm going, if the client is telling me this, I'm just going for a kill. What do you mean you hope so?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, because it took so long, it never happened in the, yeah, okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. What do you mean it took so long?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "It took so long in Dubai and those things."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So long, how do you mean?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Never happened. No, I was waiting for it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, you were waiting for it. For how long?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, no, no, they never start the construction, they never announced that it's going to be a casino. It was"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Look, I'm not I'm not going to cut him off because I want him to cut himself. I want him to cut himself."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Imagine he's a buyer who lost money on the palm back in the day on uh, on uh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What do you mean lost money on the palm?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "On uh, Jebel Ali, on Jebel Ali."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What do you mean which one? 2008, what what which year?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Which year he lost money?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, well, my very close friend who's still an Engel & Völkers, she was 2017, 2018, she was a queen there in Blue Waters. Um, she was selling it. There was a post-handover payment plan for five years from Meraas. So that was the one of the reasons the Blue Waters kind of been sold that quickly. At that time, everything was but I am using the numbers which are obvious. I'm using the branded residences. I'm using the unsuccessful case of casino trying to be launched because I know"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I totally agree."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, because I know with the current casino, Wynn Casino, who owns the biggest share in the casino? Who owns it? Is it two Russian guys?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, it's RAK government."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Who owns it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "RAK government. Do you think that there is going to be any concern that they're going to build it?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "They will."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, guys. This is what I I want you to be a little bit different than every other agent."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Case study, that's what we need. Get similar."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Case study, but that's what you have to do anyway for yourself because and then the beauty of the current social media branding and building your brand. Anything you do and learn, you can teach to others through your social media. You can start talking about these case studies in your LinkedIn, Instagram, YouTube, whatever, TikTok, and that what going to bring the interest towards you. Because I hate when someone is on presenting their project saying, oh, it's a high ROI, or it's a high rental yield, or it's a 8% rental yield. Like, look, it's just just boring. No one believes it because no one half of the people in the world don't understand how to calculate rental yield. Half of other people don't understand what is ROI. Uh, price appreciation, um, return on investment, return on asset. No one understands that. We have to give them numbers. When we are sending them the case study, you have then a loop to get back. Oh, have you have you seen that case study or you get bored? My favorite one, right? And what do you think about the numbers? Or which type of investment strategy do you think going to be better for you? Okay, so in terms of pricing, where do you stand? Like, I can start qualifying him. Then on the call, instead of jumping into presentation, half of the call, you should keep qualifying the client and pre-handle objection. I have full set on Tuesday on our six-month coaching program here. I've done the training on five stages that you have to walk through on the first call, the the video meeting with the investor who has like no one like far away from Dubai, never invested, have someone you have to go into educational meeting before the actual sales meeting. I break down the stages and the questions exactly how to phrase them. Because if you will ask kind of the same thing from a different tone or with a different phrase, you're going to have a pushback from the client, or how is that your business? I don't want to like, my budget is my budget. Why do you want to go inside my pocket? I would say 70% of agent told me that um, that's actually recorded on our call, um, that they feel that the client is, um, not comfortable talking about the budget, and the client stopped being that friendly with them when they start conversation about the budget. That's why we they prefer not to talk about the budget."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, because we want to be friends with the client, right? Because it's just kind of relationship building. Okay, then it's going to be sell. What else here?"
+    }
+  ]
+}

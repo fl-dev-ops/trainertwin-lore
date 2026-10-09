@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Dubai is a bubble objection. What it is? It's a smoke screen. Doesn't mean that we cannot handle it, but we have to understand what is behind this actual objection, what we are handling. Is it time, is it money or is it value?"
+    }
+  ]
+}

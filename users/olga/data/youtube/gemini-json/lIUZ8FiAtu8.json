@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "how to move the client from the chatting on the WhatsApp to a meeting in person face to face. In your mind, you need this meeting, but how to make him want that? The biggest mistake that the agent are doing is that they're telling, I need a meeting. I need to meet with you. What you have to do is to create a gap in the mind of the client from where he is to where he wants to be. The gap means that he doesn't have a certain knowledge or information. You have to show it to him, but you cannot just tell him, oh, Mr. client, you don't know this and you don't know this, so that's why you have to go on the zoom with me. That's not going to work. Um, how confident do you feel in terms of actually understanding the market statistic data for the past rental and sales performance for the three years, uh, so you can determine which areas actually make sense? Question mark. How confident? And then he's like, uh, uh, uh. Well, would that make sense for us to put a little bit more time together on the zoom where you can with your own eyes see what we use as a professional just to determine what is the best investment? Would that be useful for you if you will see that with your own eyes?"
+    }
+  ]
+}

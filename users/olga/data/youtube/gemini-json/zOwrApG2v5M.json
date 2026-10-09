@@ -1,0 +1,652 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "1 million 600,000. 600,000 in my own commission."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In my own commission. What brought me to coaching was my failure. I was failing as an agent and I realized that I'm spending a lot of time and a lot of effort."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would say probably 80% of agent going to say, wow. That's a good money. Why are we thinking about coaching?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It was a change of my mentality as well, like a change from a tour guide to actually a person who is selling."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You have to wait. You have to wait. We're not going to pay you. We will pay you, but we don't know when and we cannot commit."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hi, welcome to the new video. As you can see, I'm not alone here. Finally, I caught her. She is not living in Dubai. I am introducing you Yekaterina. She is my top sales agent of 2024 and I would be probably considering 2025 as well. What I mean, if you ever seen me talking about an agent who made a million, here she is. And now she's going to introduce yourself and tell us a bit more. Was it easy for you to make this 1 million? And where do you stand now on how much money have you made for the 12 month from October 2024 to now, we're in December 2025. Right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hi guys. Uh, yes, my name is Yekaterina. I'm a broker that uh was working on Dubai market and now I'm working on Dubai and Saudi market. And I started my career about three years ago, a little bit more. And I um started came back to Dubai with an idea that I will be a I will I will follow up the career of a broker. So it took me about one and a half years to before I met Olga and uh many changes happened."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, I just want to kind of point on that. Yekaterina with me in the coaching for one and a half years. That's who strange. You already made 1 million and and way more than 1 million. So, why are you still in coaching relationship with me?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I don't want to call it greediness. And to be honest, I don't know that I don't even realize that uh the amount of money that I've made because I still didn't receive a big part of it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But we're going to discuss about the, you know, kind of challenges, I would say. I don't want to say that the court case that that you're currently going through. We're definitely going to talk about this in the end. So, that's another encouragement for you to watch this video till the end."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, at the moment, I would say that what brought me to coaching was my failure. I was failing as an agent and I realized that I'm spending a lot of time and a lot of effort, having my family in Saudi and living in here, commuting and everything and I spent a lot of money and a lot of effort with a very small result."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so let's talk about the failures because I mean, what you consider failure would be a tremendous result for someone who is as well starting in real estate. So for the first one and a half year, you've been, um, let's say without the coaching support. How much money you made?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I've made about 200,000 maybe."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In your own commission."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In my own commission, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, which is coming roughly, if we're talking about one and a half year, which is coming roughly 11,000 dirhams a month. I don't know, you ask yourself, would you be okay with having 11k, which is, well, 2,000 pounds, more than 2,000 pounds a month?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would say probably 80% of agent going to say, wow. That's a good money. Why are we thinking about coaching?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because that's not enough money for Dubai to support a family."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, okay, then now we we're talking."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And uh the next thing happened that I realized that uh I'm doing everything what the other agents are doing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And I'm not doing anything different. I was in the same uh like one company, then I changed to another company, and then I changed to the third company, and I was doing and repeating what everybody else doing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you had the same leads as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The same leads and uh and then the agents who were closing, they were closing their like customers from the past that they already have relationship with. But the new agents like me were closing approximately the same level, like barely anything. And the deals that I closed were actually my clients. Like, I mean, people that I know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "As well. Your personal clients."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Personal clients, not the leads, yes. I didn't close even one lead."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, you know, back uh one and a half years ago, you you're kind of understanding that you do all of this efforts, you you're calling, you're following up, you're going on the viewings, the clients who kind of know you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Developers, projects."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then nothing has happened. So what was your like first step? What you decided to do first?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I realized that I need um um like not a coach, a mentor at that time. I was uh like I had an idea to reach out to top brokers in Dubai."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How you found them?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, I asked around and I was uh maybe it was also Instagram and uh Facebook like advertisements, you are in this whoever. So like um, so I sent emails or personal messages and I didn't get any reply."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What what you were offering them?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I was offering to work for them as an assistant for free and to work for them um like as a co-agent and uh share the commission of anything that comes out of the cooperation. Um, yeah, I was not."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How many outreach you've done?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think like about after the fifth, I gave up."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Five is a good day."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe not because."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe not enough."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe not enough. But."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, that's a good strategy, I would say to to follow up if you if you want to dedicate your time, um, into kind of learning from someone who I'm not sure if he will be able even to teach, but."
+    },
+    {
+      "speaker_id": "2",
+      "text": "At the same time, like they don't know me. They didn't know me. And probably I didn't write the proper message that would catch their attention. Something like that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then what happened?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then I met you at um as a coach for the."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I was I was coaching the the company where Yekaterina was working, but we actually got back on our coaching relationship, I think months after I was coaching that company."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, because I was still not sure, like at this idea had to like grow in me to spend money before I make money. Like, you know, you're thinking like, okay, I need to make at least a little bit so I can spend, but no, the investment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let me let me wait. Let me just close this deal. Let me just somehow with the skills that I currently have at the processes, just just do this big closure and then I will have money to pay for the coach, yeah?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. How about how how can I spend something that I didn't earn yet? But."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Makes sense."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What goes first, egg or chicken, right? So."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So at some point you decided, okay, chicken or egg?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then a couple of months passed. Still nothing. Still I didn't so I thought, yeah, okay, then I will invest in myself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The first months of our coaching, and I want to be completely honest with you, um, Yekaterina was still making zero profit. Zero. It was I think it was four months."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It took me time, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But there was a moment, if I can share that, right? There was a moment where she was about to give up because she it felt like she did everything she could. Um, she dedicated herself to her career. Her Saudi, her family is in Saudi. She's flying in to Dubai, uh, working here and then flying back to Saudi. She spent money for coaching. She told she she'd done everything I told her and then nothing is happening. There was one meeting that we had. You actually were in Dubai. And I think I was myself asking her, but she was about to give up. And but that was give up not on, um, I would say coaching or real estate altogether. It was more about, should I do it? I should I go back to be a full-time mom?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Or like change like career, like to do something completely different."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Completely different. And then I ask you a question. Do you remember which question I asked?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's always like I'm interested to dig for a why. So I asked Yekaterina, why do you want to succeed? Why is it important for you to actually be someone who is successfully making money? Uh, let's be honest. Yekaterina has a supportive husband, he has a good career, she has two fantastic kids. She could spend time with them instead. And then what you responded to me?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I remember now this moment. And my response was that I wanted my kids to see a successful mom rather than like just a stay-at-home wife. And to show them on my example that anything is possible, that you can change in a flip of a moment. Okay, in two, three years."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, let's put it this way. That was like a very low moment for you. It's kind of you have to go maybe a little bit down to the bottom to push with your legs and jump in because we took one month more. And by the end of that month, you start closing. It was literally, yeah, like you close your first couple of deals, which were in a collaboration with another agent."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then after?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then after it was um a different way of communication with leads and um bringing them to the viewing, like uh having meet them in person because I had this opportunity. And um my experience is through meeting personally and sales when you meet people and you have a chance to talk to them. And uh questions."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So what changed? You're talking about the question. What changed for you? Because you were meeting people before face to face."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, I was and uh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So then and you were not closing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It was a change of my mentality as well, like a change from a tour guide to uh actually a person who is selling. But selling not like a front of sale, like you know, buy this project, it's the best one. You kind of go through questions, you try to understand the client, you try to understand what their needs are. And uh you as you said, you're like a doctor. Don't be afraid of questions, just like go ahead and as a doctor, you're helping them. And I found myself not as um a person who is trying to sell anything, but a person who is actually doing good for them. I'm selling a project that I truly believe in. I'm selling a property that is going to make them profit or they will well appreciate what will happen when this project will be."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, what was the result of your because we are talking about one one year back. What was your result of your October?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Like the the like the total revenue."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Total commission that you got into your own pocket because we don't want to talk about total revenue. There were deals which were with referral partners, which finally kind of start converting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "There were like the referral partners, yes, from the people that I know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So they are taking a lot of commission."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Word of mouth. They take us, but I'm glad because they bring more. And um about 1.59, 1.6."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, you're talking about from the point of October till now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Now. Okay, let's round it up to 1.6."
+    },
+    {
+      "speaker_id": "1",
+      "text": "1 million 600,000."
+    },
+    {
+      "speaker_id": "2",
+      "text": "600,000 in my own commission."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In my own commission. Well, when you received, let's say, first 200, when you kind of closed on the first 200, what was the feeling? How you felt? That was like basically in one month almost, right? You've done the same amount as you've done in one and a half before."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I was like, you know, shocked to see these numbers on my account. It kind of I don't know, it was like warm feeling like that I'm I have my own money. And I'm I can do whatever I want with my own money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And how the relationship or dynamic of relationship changed with your kids, with your husband? I remember you were talking, um, that was a bit of a different dynamic now, yeah?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Absolutely, because when you have a husband who has a successful career and he's uh like now top like his numbers and salary are high and he's uh specialist and you're just a wife. I mean, I know he values me like because there was a lot of things that you are covering as a like as a household and how the kids are growing up and the schools and all that, but from the point of view of me being myself, I kind of returned myself to myself. Me as a person, not as a mother, not as a wife, not as a like sister or uh caretaker, care giver. No, I'm me myself with my own vision, with my own path. And um it's a freedom. It is gives you freedom."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I don't want to scare you to death. It gives you freedom and at the same time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Respect."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And at the same time, do you feel a little bit scared of what's going to happen next?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh. That's that's another chapter. It is like level."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, um, let us uncover this a bit because I hope we're going to see each other in one year. I'm not sure what that's going to be next level for you back then. So now Yekaterina already opened her own, um, real estate agency and that would be kind of average if she would be the one who's open agency in Dubai because it's kind of easy thing to do. But she opened her real estate company in Riyadh, where, as we sit in December 2025, freehold is not yet announced. So international investors are not able to properly own the property if you don't have the, um, visa and specific conditions and stuff like that. This will be announced in January. So Yekaterina is now not only kind of the on the front of the innovators, but she's going to be running that movement and that wave of the first investors, the first expat who invest in in Saudi real estate. However, being the first, how does it feel?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It feels overwhelming. It feels um hard and uncomfortable because you're doing things that you've never done before. I was only employee and a business owner is a completely different setup. It feels scary, the change of even like your own mentality from employee to a person who is responsible for how the business whole thing works. And at the same time exciting."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And our coaching session, we still are in a coaching relationship. Our coaching session is currently not about how to close the deal, but more about how to negotiate the conditions with the Saudi partners, how to go ahead with the marketing, how to start creating your own brand, which is a completely new territory, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "We we we went to a level up."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, how does it feel from you, last September, not this September, the previous September, thinking, should you continue or should you go back to be, um, a full stay-at-home mama or persuading different career, to you, opening the company in Saudi Arabia? And we've been probably one of the first females with a real estate agency there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Probably and especially expat, like not a local person and probably yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't know how it happened. Just started with one thing, one thing followed another."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Were you ready for this? Back in September? You told me that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. Even in September this year, were you ready for this? Of course not. No, it's step by step. It's step by step. The the the way will open up for the person who is walking it. You need to do every day, you just like you just say to yourself, okay, I don't know how to do it. Charge GPT, Olga, this this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Networking connections."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Networking, absolutely. I'm I keep asking questions. I'm not sitting there like, okay, there's no way how to do it. Of course there is a way, yeah. Just I need to find somebody who will uh answer my question."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, another kind of obvious question, but I just want you to recognize that. Um, will this opening a company and kind of starting running your own business, getting the employees already, yeah, coming in your visa, will that be possible without that one step up that you had last year when you finally closed the deal? Like you felt you can. So it's not about you making money, it's about I can do it. I can do something which I thought I cannot."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, that step happened also like with the effort before. It took four months with you for me to change and transform the way I'm thinking and the way like I'm approaching the client and the way. So it is not like a step. It's it's a result of the many steps before."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Many steps and then it just clicks."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Absolutely, like it's many steps before in my opinion. But of course, there is like like should be like some dedication and at the same time you need to enjoy the moment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, um, this question I always ask, uh, agents who are coming, um, on these videos. Um, what, which advice would you give to yourself, um, three years back to Yekaterina who was just starting her career?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would."
+    },
+    {
+      "speaker_id": "1",
+      "text": "With all of the mistakes that you've done and kind of obstacles that you then had to overcome. What would that be?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, at that time, I didn't realize that sales is a skill. It's a skill that you can train. And I would suggest to to find a way to the training of the sales earlier. Not to try to do what everybody else are doing. You need to try to do something different. That's but different in a way like how to to learn it. Not to, okay, I'll just do the real like, I don't know, with my head upside down, you know? That didn't work. I tried social media. I stopped. I stopped because I didn't have anything from that. Except like my friends saying, oh, you look so good, you should continue. I'm like, no, but I needed leads. It was taking my time. So I stopped it because it was not generating leads, it was not generating money. And it is my time. And I spent this time on studying with you rather than doing what every other agent is doing with the social media."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, now I want to ask you the question, which is unfortunately or fortunately is now not only in front of you. I have a couple of agents in my coaching recently going through the same path. I'm going to ask you the question, otherwise, this 1 million 600,000. How much of those money you have actually received from the company?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, with the company, my earnings were about uh 1.2 million. And they still owe me 600 plus."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So 600 plus thousand. And why they're not paying you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because they think they can."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So they just told you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The company is in troubles, we have uh this and that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They received the money in their possession."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, they yes, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So they spent it on something else."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, because there was bad decisions of a previous previous management. So why they're solving their problems with my money? This is a mistake. This is a mystery for me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so basically your company was more or less directly to your face telling you, you have to wait."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You have to wait."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We're not going to pay you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "We will pay you, but we don't know when and we cannot commit."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So they wanted you to keep to keep closing deals for them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hoping that eventually at some point they're going to pay you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Bring more deals and from those deals we will start paying you what we owe you. That was the message. But you don't have a guarantee that they will pay you from the new ones as well. You're just increasing the debt. So what is the point of sales? And psychologically you can't sell. You're different and your setup is different. Why would I be like now killing myself here, spending my time, my weekend and uh I will just increase their pocket. The debt and they will increase their wealth. Like, you know, why?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, currently you're going through an interesting process, which I hope you will never need to go through. Thanks God you'll be collecting all of the documents, all the copies of the contract, SPAs, uh correspondence and your cases in the court."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, my cases in the court. And the next step would be for the company to uh to reply."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, um, for you, if you are just starting your career in real estate, I we don't want to scare you to death. Uh, not each and every company going to be like this. However, for you to secure yourself, I would say the main thing is to get your rare card, license, real estate license as soon as possible. So you're going to be able to put these deals on your name. It's not going to be put on someone else's name. And then make sure that all of the documents, all of the emails, you duplicate and keep for yourself because that's now an evidence in the court."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, unfortunately this have things happen and um but also like don't uh believe that we will pay you like just ask for your commission according to your contract, like when the employer would receive it from the developer, they would have one week, two week, one month, it depends on the contract. How long they have to pay you your part. And then just follow up on that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And they have to pay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "They have to pay, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Don't collect like me many deals and believing that yes, like okay, like the new deal is coming, they will cover up from that deal. So like."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It didn't happen."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It didn't happen for me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so now let's flip it because I want us to, um, uh, stop this video on a good note. Will you be so fast with opening your own company in Saudi Arabia if this delaying commission wouldn't happen?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. I would never. I would never have a like that courage or brave enough to just because I was busy with the leads that the company was providing me with and I was working with people. So it was like my day my days were full with work and um I had a success in that work. And I should have got a reward for that work. And then they when that didn't happen, so I put my focus and my attention on something else instead of uh like company leads."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so now you have an opportunity to record this message to yourself as well. You see, I'm always putting you on the hot spot. I'm not going to I'm not going to let you hang. Okay. So, in terms of, I don't want to talk about the profit because it's hard for the company on the first year to to get certain profits. We don't know yet how much money you will be in need to spend for the marketing, for the, um, let's say licensing and all other stuff. What would be your your revenue goal for 2026?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The minimum goal for the 2026."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm talking about profit, not talking about your own profit. I'm talking about the revenue for the company because we have to think now, you are the company."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, monthly like the commission that would come to the company that would be shared with between the broker and the company should be minimum about 200,000. Maybe for the beginning."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, we are talking about 2.4 million. Like overall, if it's 200, 2.4, right? I'm not sure if I'm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "If I made 1.6, let's double it, so at least make it three."
+    },
+    {
+      "speaker_id": "1",
+      "text": "3 million. In my pocket."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In my commission."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, no, that's a revenue. You see, you cannot think that way anymore. That's a revenue. Now you have your baby. You have to grow it because it's now you had an egg, now it's your chicken."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Not commission. No more commission for me. For me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, it will be commission for you, of course, because you're going to still selling."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but like I would probably invest it back to the business because this is a baby. That is going to grow."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So the word of encouragement for anyone who is thinking of going into Dubai real estate or maybe being into Dubai real estate some time ago and now thinking, should I come back? Is it a good time? What would you advise?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, you have to have a pillow, financial pillow to support you because I've seen many agents that were suffering at the this early stages and they didn't have enough money to for rent, for food and uh like when they came from different countries, they came with uh like you need to have a certain amount of money. You can shorten your way if you take an advice and go into coaching or go into mentorship and you like find a proper proper advice that would shorten up the the amount of time that will bring you to the result. So the advice is uh be realistic. Don't expect mega sales."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Someone who make 1.6 is like, be realistic. Be realistic."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's okay, but at the beginning."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But this is much appreciated. That's true. That's true. Be realistic."
+    },
+    {
+      "speaker_id": "2",
+      "text": "First one and a half years were not easy. And if I like I had like support from my husband. But if I'm alone and I I think it would be tough. So like you will not start closing from the very beginning. Unless you are extremely lucky and I wish this luck to everybody."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so, thank you, Yekaterina. Love talking to you. And I hope in a year time we're going to be back to podcast."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Like put a big like I mean, yeah, you know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You know, it's just like uh people think that manifestation is something you just sit and down, say, I want this to happen, I want this to happen. We kind of did manifestation here for 3 million and now you have to go back to the app and actually start doing the work."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Now I have to find out how do I do it. How do I make this 3 million?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No worries, one step at a time."
+    }
+  ]
+}

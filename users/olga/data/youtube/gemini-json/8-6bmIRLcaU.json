@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "If you are the real estate agent in Dubai real estate and in 2026 you believe oh that's going to be my year, the year when I'm going to make 1 million in commission, but you really have no plan on how to do that. You have to tune in to my YouTube channel where I literally posted recently a YouTube video where I explain how my coaching client made 1,650,000 and her own commission, her own pocket in 2025. See you there."
+    }
+  ]
+}

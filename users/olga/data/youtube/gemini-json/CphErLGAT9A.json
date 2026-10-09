@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Hi, my name is Olga and welcome to my first stage of the Leave it up real estate growth Academy. I've been selling Dubai properties for more than 11 years and in the past five, I train and coach individual agents and the sales team and the companies on how to make consistent income in a commission only environment, selling off plan and secondary, making cold calls, online presentation and creating all of this business model which going to make you profitable. In this membership, I specifically put everything together and I'm doing it for literally a couple of cups of coffee a month. The reason being is I want more people to be able to access the knowledge and have the dream life and dream career and the city which was my dream city for many years. So, if you feel like you need a little bit more guidance and understanding and how to handle the clients, objection, cold calling, structured, social media, Instagram, welcome to my membership. And see you in my lives."
+    }
+  ]
+}

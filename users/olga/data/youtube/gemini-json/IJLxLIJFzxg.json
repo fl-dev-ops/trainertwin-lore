@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "He is buying this for the family because of discomfort him, his wife, his kid, his extended family feel. So my question to you, how much does the comfort of your family cost?"
+    }
+  ]
+}

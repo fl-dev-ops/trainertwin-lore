@@ -1,0 +1,40 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "is this a good time to speak?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, who is this?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Sister, I called to see if you uh found what you uh were looking for or if you like are still looking for something, have you uh had any success in your search for a property? I understand what is like your overall goal with this investment? Are you looking for passive income or perhaps a new home for yourself? So what would be your ideal criteria for the property? What are the key features you're looking for in an investment? Thank you. Just to confirm that's XYZBC@gmail.com correct?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, you're right. And and and just the last question, are you are you AI? Are you artificial intelligence or"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would AI would that uh be a compliment? But yes, I am indeed an AI designed uh to assist you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Could any of your sales or even a real estate agent have such a productive conversation asking the key questions, not getting scared or upset or jumping into the pitching mode?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "how you to get buyers to agree to meet you. That's usually goes for someone who is selling off plan, the agent, I literally cannot pull this buyers on a Zoom meeting, on a personal meeting, because they just want again, just to see the options, just send me some options. Instead of this, you can say something like, Mr. Buyer, I I believe you you kind of know Dubai a little bit and you probably have your own assumption of which the the best possible property to invest. But how do you feel in terms of your confidence about which next top performing area will be based on the market data for the past three years, for rental, sales, like those tools that we use as professional to determine. How confident do you feel that you can actually understand that? Question mark. So, you're creating the gap and he feels like, well, I'm actually not very confident. Can you help me with this, Mr. Agent? And that's exactly what you need."
+    }
+  ]
+}

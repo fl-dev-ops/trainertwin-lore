@@ -1,0 +1,28 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "I would like overthink too much in my head about what I was going to say next to, you know, a broker or a client. And sitting on with with you and your sessions, I really understood that you have to just, you know, go with the flow."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You do have a common sense. And the common sense is a unexplainable quality. Either you have it or no. Imagine and be prepared for any conversation on any turn that the client will be able or will do, because you should not have anything which is unexpected."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I was kind of scared to pick up the phone and speak to, you know, other agents, clients. I was more just taking it easy, just learning about different projects in the market."
+    }
+  ]
+}

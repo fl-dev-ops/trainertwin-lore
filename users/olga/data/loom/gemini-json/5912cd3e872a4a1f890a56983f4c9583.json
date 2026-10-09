@@ -1,0 +1,288 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Ahmed"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Hey."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hi, I'm so sorry. I'm so sorry. No, it's fine. Let's keep going because I have eight minutes, seven minutes before my next. Yeah, yeah. Let's go."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so we my question was, um, and besides the the kind of shiny computer graphics, what was about the ad that attracted you to respond?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I usually uh looking to invest from a long time, but I never felt that uh somewhere or someone has helped me enough. So I only click on ads and then I don't buy anything."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, okay. That's an interesting thing. Um, and help me understand with all of the the current things which which are happening right now in the region. There are literally two type of kind of people that we see. Some of them are more conditioned by the headlines and the fear and they see the situation as what the government uh or the media wants us to be seen as a threat. And there is others which are, you know, more um on entrepreneurial side and they see an opportunity in it. Like what do you stand on kind of assessing what is happening in the market?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would say I'm between the both. I'm looking for opportunities, yes, but uh I don't think that anything now in the market is worth investing unless you would say otherwise."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And and what what should it be for you to to worth investing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Something which is like uh below market price, something with a very easy payment plans. I heard also now uh due to the conditions in uh this region, some developers are doing cashbacks or some gifts with the payment plans."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, that's possible. But besides the cashback and payments plan, uh what do you think is the most important thing just to make sure that this investment actually going to make you money?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, I have to understand why am I buying there? I need to know like uh how how sure are you like, will you will you will you ever guarantee my uh ROIs? Will you ever guarantee if I want to sell, I can sell it? We don't know if we're going to live uh three years from now or not."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And uh that makes makes a lot of sense. And will that be the the first time you're looking into investment because you told me you've been looking for a while or you have some other properties there you invested before, maybe not in Dubai, maybe anywhere else?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, it's my first."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's your first. And what makes you feel that, you know, putting your money in Dubai is actually a right move?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because I'm living here. I'm I'm living here and uh I'm not planning to move out and uh we we know regardless of this situation, we know everyone actually knows uh uh how how good the the market is here in here in Dubai. But it maybe it's not the right time to invest now at the moment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And and and based on what you're living now, uh you're living in Dubai. Um, how well do you feel um you can assess the different project and different developers, not based on what, let's say, the other agents, as you mentioned, are telling you, and this is the best project, but based on the, you know, kind of real numbers, the transactions for the sales and rentals, which kind of we see as professionals, a main indicator of the project will be successful. How confident you are that you can kind of assess the project based on that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would say that uh I'm always with the government's vision, whatever developers the governance will put them as the top eight or seven developers, I would buy with them, not with anyone else. Because I want to Hey, yeah, that makes sense."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But what I'm saying, it's it's more like about assessing those different developers, not based on what the marketing they have."
+    },
+    {
+      "speaker_id": "2",
+      "text": "My only issue is the entry, I mean, the down payment and the payment plans."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Okay, so look, will that make sense uh for us to have a little bit more time together, uh just to look at what your entry plan looks like, which kind of flexibility would you need, and to assess which out of those government developers will actually be able to offer that to you. And besides this, as well, uh would that be useful for you to see the actual numbers of people who invested before and exited, so you can see that if this actually make money to someone rather than guarantee."
+    },
+    {
+      "speaker_id": "2",
+      "text": "before before this this full war and uh no, I would say that how how about you will send me some details about those developers and their projects which they have in the market right now. And I'll tell you if like one of them were was actually compatible with what I'm looking for."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm absolutely open to send you all of the developers, but same time, let me guess, uh you probably already have your WhatsApp a bit spammed with all of the details and the generic brochures. Would that be fair?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So do you want me to send you another spam of the developers?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I would like to see a couple of like I don't send everything. What do you think will be the best? Just let me let me have a look at it. To or like"
+    },
+    {
+      "speaker_id": "1",
+      "text": "For me to understand and for you to understand what is the best for you, I need to uh kind of see a situation from uh the not only financial perspective, but what even you want to achieve in the next three to four years with this investment."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm looking to rent it out after handover for like two or or three years. And then either I do a flip and I resell it or I'm looking to do a cash out refinance and buy another apartment with it as an off plan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Okay. And in terms of the"
+    },
+    {
+      "speaker_id": "2",
+      "text": "somewhere with like uh somewhere with with like a fair capital appreciation. I want a location which will have a very good future. This is what makes me afraid most of the times other than the payment plan issue."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. When you're saying afraid, what do you mean exactly?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, I'm uh I'm not a millionaire. I just have some money to put it as down payment and I'm going to do the rest from my monthly income. So I would not bear losing any money, you know?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, I never have anyone on this call to tell me that they're actually planning to lose money."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But some people would"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But besides besides besides not losing money and besides looking at the the options um online, what what do you want like just let me let me help me understand. What do you want to see in that materials that I should send you, uh so you can kind of distinguish which is better and which is worse because each and every developer, I would say they're saying that this is the project is the best and we have the best payment plan and we have the best facilities. So what you were hoping, how you will be distinguishing this developers?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I want to see some uh like data, uh real data. Okay. regarding those developers, how many projects they have delivered and also uh I want to know like how much did people make money with them before and what's the estimated uh I mean, ROIs which I'm going to get once it is like handover. I mean, no developer will ever agree or also no uh no agent will ever agree on uh guaranteeing any profits. So this is what makes me afraid the most. When I ask them to like guarantee that some uh somehow not on the documents, only like uh to make me listen to that, most of them don't. And that's something which I actually should rethink about."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, you definitely could. That that's exactly what I'm offering. And besides"
+    },
+    {
+      "speaker_id": "2",
+      "text": "the one who's guaranteeing everything."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I wish we could live in the world where you're just born and everything is guaranteed to you, but that's going to be more like utopia. I've been born in Soviet Union, apparently promised to be such kind of utopia. I'm not sure if you're aware what happened to Soviet Union back in the days. Uh but but but let's get let's get get back to our conversation. Um besides this generic materials, because, you know, I work a little bit differently, maybe than the most of the agents on the market. I'm not sure if it it kind of makes sense for you, but instead of promising things and pushing the project which pays probably the highest commission, I prefer to put my cards on the table and walk the client through the previous performance of the developers, as I'm saying, sales and rental transactions. And for that, I uh makes sense for us to jump on a quick zoom so I can share my screen and open the tool which unfortunately not accessible to just retail investors. I cannot give you access for you to to to jump in. It's basically used for the banks and valuation companies and real estate uh companies, where I will exactly show you different areas, different location and developers. So you can see with your own eyes and then make I would say more confident choice. What if maybe it's not even the right time for you to maybe it's the right time to wait."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, okay. I don't mind. Okay, I don't mind, but I just want you to know that I'm not fully ready to invest even if I find something which I actually like. I mean, even"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you shouldn't be. And you shouldn't be. It would be strange if I had a five minute with you on the call and why would you don't know me, you never seen me. Why would you even trust anything I'm saying, right? That's just my own objection. Before you you even trust my a word, you have to kind of see me face to face, but the zoom makes it beautifully and then if I am the wrong agent for you, please just be my guest and tell it to me directly because probably you will be able by talking to so many agents as you said, to understand, is the agent telling you the truth or he is just trying to tell you what you want to hear in order to sell you. Will you be able to distinguish?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, definitely. I'm down to do your Zoom meeting."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so um let me check my schedule. Um which time usually works for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Anytime after uh three afternoon would be good."
+    },
+    {
+      "speaker_id": "1",
+      "text": "After 3:00 p.m. Okay. Um do you use Google Calendar by the way? Do you put your meetings in the Google Calendar?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't usually, no."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, that's that's fine. Look, I I do have a slot on Thursday 3:00 p.m. Would that be a good time?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh no, let's do it earlier. Before that, I'm actually traveling on on Thursday. So let's do it somewhere around"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so at the Wednesday 4:00 p.m. then."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What I would do, uh I will book the slot in my calendar. I will send you the reminder the day before. So it's going to be on Tuesday uh evening that we have a meeting. And um then hopefully see you on Wednesday. And before I go, can can I ask you um about something?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, please."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh I know that life get busy on on both ends and if something will change on your side, can I expect from you that you're going to, you know, send me maybe a message or WhatsApp or maybe, you know, like a pigeon. So I can rebook your time to a new time and and book someone else on your slot. Can I expect that from you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, definitely, but uh don't worry, I'm going to attend, don't worry."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh okay. Thank you. Thank you so much. Boom. Done."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I see what you did. I want to end the phone call since the second or third minute, but you continued to make me Wow. Wow."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's just common sense. The last moment, the last moment which I just did, increases the show up rate on a Zoom meeting up to 60%. This is all scripted."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I can get that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What I just did, I put the responsibility back on you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Yeah, I know. Like I felt the responsibility when I when I'm answering those questions, I felt like you're putting some responsibility on me, so I have to be man enough to, you know, like to go on with it. Especially the the last question, but the way you were you were like making me continue the conversation without being bored, without like getting into some details which are really frustrating in every call. I want to know how to do anything about the real estate."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I know everything about you, though. I mean, almost everything, what I need to know. I know that you've been uh talking to many agents. I know that you're collecting brochures and never go ahead. I know that you have fears and doubts, so you have hesitation. I know that you have a limitation towards your budget. I know what you imagine as an ideal outcome would be."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So right now you can you can blame me easily. Yeah. Easily you can"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But I'm not playing. I'm not playing anything with this. What I'm playing with you is the only one thing I know that everyone is interested. Will I actually make money? And I play around when you're talking about guarantees, I have a whole bunch of structures how to work with the clients who want to guarantee because um the way to break that objection is to make them realize answering my questions that there is no guarantee in life all together. So forget about it. But I cannot tell you this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly. You can't do that. Yeah. Common sense, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because you're going to resist. I cannot tell you, there is no guarantee in life and you're just So, uh what you're doing, maybe you're doing it differently right now. Uh but the main thing is my goal is not to pitch anything. My goal is to book a meeting. My goal is to see is there any common sense in you? And even if there is no common sense, which I haven't sense a lot of common sense in this client. However, I don't care. I need meat to box, you know, Rocky Balboa was boxing the the the cows. I need mix to box, so I need you to into my Zoom call. I don't care."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That was amazing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Okay. Cool. So, I'm I'm going to stop here because I need to jump to another call. I'm going to send you the recording and we're going to keep talking, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure, sure. Thank you. Thank you so much."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Thank you. Thank you, Ahmed. Bye-bye."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Have a good day."
+    }
+  ]
+}

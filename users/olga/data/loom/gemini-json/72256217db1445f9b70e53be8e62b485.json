@@ -1,0 +1,668 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Karina"
+    },
+    {
+      "id": "2",
+      "label": "Olga"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "2",
+      "text": "here, we're still mixed in English. Mhm. Yeah, you're right. Yeah, for sure. Because my methodology all comes from selling in English. I was not working with Russian. I I literally over there, I don't think I ever sold anyone to Russian person, because back then in the previous down flow market, when I was selling since 2015 till 2020, uh, mainly, was no Russians. was no one, no one was speaking Russian. That's just recently. And this will change again. Yeah. And those type of clients are leaving."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Yeah, so Yeah, so you believe the Russians will come? Or"
+    },
+    {
+      "speaker_id": "2",
+      "text": "they will leave as they did already."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, they will leave. Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because of of many situations happening. There is no money in the country left. So basically, it's just kind of the liquidity that they used to have, they now put it here. Those who are here, they're going to be still transacting, but the inflow of new buyers, no, I don't see that happening."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Okay. I got it. So."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I am coming, uh, walking through what you mentioned. And you seems like you closed already at least one deal, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I closed, let's say, two deals."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why why let's say? Has everything signed?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, yeah, because first deal I closed, it was three apartments, like together. So it's count like one deal."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, okay, and then So it's two deals, but it's three apartment in one deal."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, three apartment in one deal, but second deal I closed like a week ago or two weeks ago, something like this, not closed yet, it's in process, because of mortgage situation. So we just waiting for final approval and we will transfer maybe in a week."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, but the SPA signed already."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, we signed."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So then it's just, yeah, well. If something will go wrong, that's not kind of your thing. But I consider a sale when my client is crying on the other side, whatever Zoom or but he wants it so much, but he just doesn't have the money. Well this is a sale. I unfortunately he doesn't have the money, I cannot deal with that, but this is the process that I'm actually going for. That means that this person potentially can give me a lot of referrals. He could be my best possible ambassador for the future, because he needs potentially my referral fee that I'm going to offer him to build up that first payment or down payment for the mortgage to be able to actually own the property because he loves it so much."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Yeah. So."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, you are saying, uh, your main concern is, uh, let's put it this way, the follow-up. Right? So this is Yeah, I guess so. So this is what you believe is now the main reason you're not closing more deals."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. You know, I believe my, like, main reason that I cannot, um, in advance know what the client will ask me, to answer them, you know? I don't have, and, of course, it's normal maybe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You don't read the mind of people. Ah, yeah, well, that's a valid concern, of course. Any other superpowers you want to have?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, I mean, not the read minds, but, um, you know, some people maybe know the, um, what their main concerns in advance, and can answer in advance, or at least have, uh, answer for this, um, question if it will come."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. So,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, hopefully, I don't have this structure in mind yet. Maybe it's because."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Let me do one step backwards. So you think that if you, you, yourself will verbally from your own mouth to the ears of the client, will answer all of his concerns, he's going to say, okay, Karina, I'm buying. This is the belief that you have currently."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think so. Maybe not like this. Let me think. Um. Yes, I think I'm not enough, uh, share the information or something. So, I'm not too much talkative person, you know? I'm more listener in my life."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, that's great."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, I know it's a big advantage. Yeah, I know it's good for sales because you need to, uh, ask the right question, and then just shut mouth up, and that's all. So, and maybe the problem is this, uh, right questions or something like this, I believe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. We we got it. Because I I want to help you, uh, before you reach to that point to understand that if you will know everything about the market, all of the transaction and square feet, that's not going to make you a better salesperson for sure. Then you're going to discover as like, well, I I still not able to move the conversation further enough to even share this information with the client. Because the client majority of the time, besides just some certain common facts, he doesn't care what you say, he care what he says. What his opinion. What his reason to overcome that. Your reason, of course, you're a salesperson, you're going to give me hundreds of reasons. And the more let's say, complex your reason are, eventually the less I'm going to trust you, because I know you were there to trick me. So, instead of like, uh, what you're trying to say probably, I will kind of reframe it, because you haven't been exposed to many sales situation, um, let's say, um, various options, how to close the deal, how to move the client through that objection, or what to say if the client says this, or how to kind of revert him, um, then whatever you have a roadblock, you just stop and you don't know what to do. It's because you don't have enough of repetition of doing the same thing. You got me? It's it's like you are learning how to dance. If you just look at the Michael Jackson, he's doing the moonwalk. I mean, you understand what he is doing clearly, you can see that, but you cannot do the moonwalk. I mean, you you're going to do something which is probably not going to be any any moonwalk. But for you to be able like a Michael Jackson, who's like, boom, and he is doing the moonwalk, you have to do it a lot of times. So that's more about how many times you have in these conversations, how many times you're overcoming those objections, and this ideally shouldn't be happening with the clients, because we need to be able to process to stop to understand what you're doing. This is the feedback that you have whenever you role play with someone, like for example, in my coaching environment, I do group role plays when the agents in my coaching are coming together and one is playing the agent, one is playing the client, and they're doing the conversation, they're doing objection handling, and there is a constructive feedback panel of everyone else who is watching and I'm asking the question, so what was wrong, what was right, what should be improved? And you kind of see it from a side, you understand, ah, now I can and then I give my respond on that. What should be said or asked to change the situation. And that kind of is like, aha, then in your brain, this situation is already registered. So you're already seen that, it's like, the example with the driving, right? You know now what to do if someone's going to, you know, cut you off, because you've had it. So now your brain automatically whenever you go around something similar, it might be not this exact, but you know, okay, so even if you were not the one who was role playing, but you observed it, and you understood what would happening, you can use it pretty fast in your real conversation with the clients. Because otherwise, it just high stress level with the client, you always have a high stress level, because you're afraid to lose a client. And then you basically, you know, you you're alone on a battlefield, which means that you're going to have some losses. It's not a safe environment. We're going to we're going to do, um, a role play in the end. Potentially what whatever you feel is objection, you are not able to kind of go through, or maybe a first call, or maybe a second call, or maybe some follow-up, you don't know how to say. You show me how you do it. I'm going to be a client. We're going to role play it. And then I'm going to flip and I'm going to show you how I would coach you to do that instead. That's why recording is going to be important, because my recording comes with a transcript. Then you can pull out the transcript and just memorize the language. And the sequence, my understanding, why I'm saying this. Because realistically, there is a common sense in real estate, and I can see that you are the goal with the common sense. You don't have to know all of the knowledge to start closing and you kind of prove it. You just need to little bit expand of the communication skills. So the client not going to put you into let me wait and see, I will let you know, just send me some options, into into that kind of jail. Okay. Yes. So, um, you mentioned that you want to have a skill to create an urgency. So how do you create an urgency now?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, urgency what what do you mean about urgency?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "This is what you mentioned, you want to understand how to kind of follow up and how to create urgency for them to move faster, I would say to close the deal, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ah, okay, yeah, I get because I don't remember what I mentioned. There, uh, so, yeah, I have this problem, I guess, that, um, sometimes I just tired of the, um, call or something. And they asking like, uh, stupid questions or something like this, and you know, that, or they don't want to ask my questions. And sometimes,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And they're not asking you questions."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. Uh, sometimes I have like maybe good mood or I don't know what exactly, but I can, um, like, I feel it like game, and I'm okay with it. Like, I I just started to again, ask them questions, like in different maybe way or, uh, just tell them, like, okay, if you want me to send something, I can send you no problem, but, uh, we have a lot of, uh, options around. So, I cannot you just send something. You know, I need to know exactly what you need, and then I can send you. Uh, so, but yeah, sometimes I just maybe too early quit the call or something like this. That's why I'm thinking, I'm not, uh, enough explaining them what is going on or something like this. Maybe even in first call, I think it's happening mostly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How often, uh, like, like what is the usual duration of your first call? How long?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, it's really depends. Some people I can talk like 10 minutes, 15 minutes, some people like 3 minutes, 4 minutes. It's I don't know. I don't have."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What what what happens after the first call? Like what you had the first call, where are you moving them?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Uh, usually I'm trying to send them a message, like after this, after this, like, not all the time, to be honest."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What is it No, no, no, no, no. You you have a call with me. What is the purpose of this call? What is the next step for me as a client after this first call? Because I'm not going to buy on the first call with you, correct, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, for sure."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So where are you leading me? What should I do next?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Uh, usually I just send in maybe some options or something like this. So, I just Yeah, I just."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then what's happening after you did it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then, after that, what's happening? And then I'm trying to, if it's ready property, for example, I'm trying to, uh, like convert them for viewing, for example."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Something like this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Uh, but if it's not a ready property?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. I don't know, I'm not sell ready property. No, not sell off plan ready. Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Not not sell of plan already."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ready, ready."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So your goal is to And those ready properties, are they coming from your own listings, you have a listings with a company?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, I told you I have uh, inventory from my company for meantime. So, I'm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So it's not your listings, it's a company inventory."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes. For meantime, like this. But, uh, I planning to make my own listings, or maybe convert to off plan. I don't know. I I a bit confused about what should I do? Because before I was focusing on off plan, and I had a lot of calls, uh, like leads for for off plan, but in the end, I sell with ready property. So, I'm like into the ready properties, but I don't know what should I do."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, I think as soon as you get the leads, and as soon as the leads are actually calling you, and they've been given to you, then that just makes sense for them to be converted, whatever they are for ready or for not ready that you can convert them. But if they are, let's say, imagine that they are uh, people who are looking for ready property because they need to move in, they're end users, correct, most of the time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not all of them, investors, end users, like 50/50, let's say."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, what is the reason they are not going ahead with viewing the property? Because the next step is for you to arrange the viewing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, maybe the price, uh, sometimes the price because we have like high price, let's say in the our inventory."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh because our like um company investing by themselves. So,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course, we want to make a profit. It's right."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you have any other pocket listings with the similar kind of type of the units, but with a lower price?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I guess I have through the other agents I have. Like not my personal, but through the agents. That's why I want my own listings, because then I will have like my pool."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So they still clicked on the ad. They saw the price and they clicked on the ad. There is a price in the ad, right? Because they're coming from property finder to, correct?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not all the time because for example, in one project, it's in GVC, we make advert it's ready property and we make advertisement for it's not mentioned the price or something, we just talking about, oh, it's new opportunity, blah, blah, blah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So the main objection you have is price."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, I think price. May yeah, main objections right now it's price, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, it always would be price. And how are you overcoming it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Actually, I don't know how to overcome it. Like about the price, like, okay, what should I."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So let me ask you this this, Karina. Let me ask you this. For how long you've been having this objection? That it's too expensive."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Like pretty long."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. And what have you done? Like, I don't know, maybe you bought a book, or maybe some course, or maybe something to learn how to overcome this objection, because like you identified that this is a road block for you. What have you done so far?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, I trying to change my speaking, I tried to convert them maybe for another properties or something like this, which I have. Uh, but yeah, usually they even maybe if I send them something, I know it's popular like objection, not objections, like popular, uh, blockage, yes, that, uh, you send them options, and they maybe one time, they will answer you, but then they will just disappear, ghosting you, and that's all. So, mostly it's like this, or sometimes they, because I'm trying to follow up. I'm calling, I'm writing like different messages with different hooks. I try to do something, but yeah. As I sometimes they maybe even answer me back, but then again, they just disappearing. Maybe we even agreed at, uh, meeting or something, but again, like like this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, this is a valid concern. But in your mind, your evaluating your project against other project, is it actually, you know, competitive? Does this project has value compared to others? Or is it really just overpriced building?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, actually, no. It's not overpriced. Like, um, it's in comparison with, uh, others who sell, for example, in this building, it's okay price. It's not that high, higher than it's, you know. Because every, uh, who is selling in this building, not from our inventory, they put in, uh, plus or minus same price. So, it's not something."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So the price is actually not one of the reason. What about the other buildings? What compared about other buildings?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "About other buildings, it depends, because this project, for example, in GVC, and you know, in GVC, it's a lot of different projects, especially from Binghatti. It's building from Binghatti. It's new building. But so, the prices, of course, for like three years, so it's new building. Just this year was handed over, handed over. And, uh, the prices for old buildings, like three, five years old, of course, they lower than this price, you know? So, I believe the people going for that or something like this, but the main scene of this project, for example, it's really good location because it's just near to road, to Al Hail Road. So, it's easy access."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, it's new access."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, yeah, it's like sale point, let's say, it's good location."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, going forward, like, what do you think you need to be able to sell more? Would it be the client has to stop complaining about the price?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, of course, no, I know, it's it's normal, they will complain. I just want to understand how I need to lead them, I believe. What the structure I need to have to, um, like make this process step by step, like following, you know? We have call, then we have meeting, for example, Zoom or something like this. Then we have face to face, face to face meeting to go to view the property and then we close it, something like this. I believe I don't have this follow-up structure, let's say. Because I'm just trying to do something, and then I lost it and something like this, I believe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, but those deals that you closed, how you how have you closed them?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, I just going for the meetings. That's all. I had a lot of meetings, a lot of viewings, for example."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So just luck."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't think it's luck. I'm working hard, to be honest, but maybe I just don't have a structure, you know? I'm working hard. I I make a lot of, uh, efforts, but, uh, I believe I can do less efforts, but, uh, take the big, um, how it's called, like, receive more, you know? What what I mean? Like, because I'm doing some steps, I'm doing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, be more effective. Correct. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Something like this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, um, which part of your process do you want to role play? Because your process is a little bit different than for example, the process to sell off plan. It's easier, I would say. Because you do have a building to invite them, there is more reasons for them to engage with you. Those people are usually looking for something because the end users, they either need to move in because the rent is finished, or they need to move in because they sold the property. There is an actual factor, an actual tiger behind me, and I have to run from him. Well, the off plan investors who just like they're they're looking, they're considering, it's just a little bit less, uh, I would say, urgent for them, because if they need to disposal money, the money is sitting in the pocket, then they still have kind of time for a month. But if I need to move something, my rent is expiring in one month. What am I going to do? I'm going to take my furniture and go where? So you have an, um, people with a higher intent, this is what I call. And then the process has to be built that every step of your communication is not to sell them something, not to answer all of the questions, not to overcome all the objections, to find what they are actually lacking in understanding, or in the situation where they are in, and move them to the next step. Of course, you have to qualify them. The main qualification for, uh, any buyer of any industry would be why are you even start looking? I understand that they're looking. Is there any specific reason you're looking for for moving right now? What are you staying? When your rent is finished? When do you think you need to move in into a new place? And besides of these questions, which creates the urgency that you need, because if you don't know when the rent is finished, if you don't know why they're even moving, why they decided on GVC, what other factors for them to decide on GVC, then you really have no information about them. You really cannot communicate further. And from the first call, your goal is to book them on a meeting. Or at least to book that you're going to send them the options, and then they will respond to you. If you feel that there is no response consistently happening, you can you can say something like, uh, look, Mr. client, uh, I understand that you're probably talking with a lot of agents, and that's how you should, because you're looking for the best option, correct? You're going to say correct. Automatically, it's clicked in his mind that you are actually a normal agent, not like a weird one who's like, are you working with other agents? How could you? I'm not like So, would that make sense for you, if I will prepare the options, as you mentioned, that this is your main kind of criteria? I will put together the options, evaluating this one criteria, that you mean. Um, and then I know life got busy, but can I expect from you, if you completely hate it, and this is nothing like you ever wanted to even visit, you're going to send me a message. Sorry, Karina, that's nonsense, I don't like it at all. Can I expect that from you? This is your communication. So, you're booking the next step, and he's responding on the next step. And this way, the person will say, oh, of course, of course, I respond to you, Karina, of course. Because now if you're just like, oh, I'm okay, so let's we're going to move to WhatsApp, I'm going to send you some option, and if you like something, he doesn't have any obligation. And I would ask him as well what he's seen, what he liked, what he didn't like. Because if the person is looking, he has certain criteria. If he doesn't know his criteria, he at least knows what he liked, what he didn't like. And you as a professional should know which building he's talking about. How they're in comparison. And in your mind, it should be like a matrix of which building usually people are comparing your product to. What are pros and cons of those buildings. Again, this is all you can get from your clients if you're going to start asking them the questions. And of course, you have to go to the building and just like literally see it. So, and then you're building in this way the process step by step. And then you have a fluently in conversation. That's how it should be. Every time, whatever conversation you have, you book a next step. Whatever it is. I'm going to send you a message. Can I expect that you're going to respond to me? Can I expect can I expect from you that you're not going to ghost me? I'm just 25, I'm I'm I'm really sensitive to people ghosting me. This is a joke. You play around, you're becoming a human for them. And they're not going to ghost you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Yeah, that's I'm not doing for sure. I'm trying to like uh, tell them something like this, but of course not like you're talking. You're telling it's so easy, you know, way. I'm a bit maybe like I I need something from you, something."
+    },
+    {
+      "speaker_id": "2",
+      "text": "By the book, official, you should stop. Yeah. Okay. So, um, let's let's try to role play. What do you want to role play? Which process you feel is kind of it's too expensive, you want to play it's too expensive?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe. Yeah, let's let's play. Because to be honest with you, I don't."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm going to be a client."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I understand that you don't know, of course, why why should you? My question to you was different, Karina. You don't know that for a while. And you know that you're losing deals because of this. And you you're not like acting upon, because if I know that my sales process is leaking client, I'm leaving the money on the table, because I don't know how to do something. I'm my my thought process is, okay, so if I will go somewhere and get the knowledge, get the skills, so I can do this, which is I cannot do now. How much more money I will make? I'm doing calculation. And this is how I understand the ROI on any of my decisions. ROI return on investment, on my decision. If I, uh, went to Tony Robin's event, which was beginning of September, four days in Germany, VIP sector, with Tony Robbins. I understand why I did it. I already got all my money back, by the way. My work, the way I performed, the way I was able to see opportunities, I already got all my money back. It's just not even been a month. This is this is how it is. I'm sorry, but investing in yourself, specifically when you're young, is the most high return on investment ever. Because you have more years to actually get the return. I'm 46. I'm still thinking, oh, Jesus Christ, there's another 15, 20 years for me to just like fruit from that. I'm going to have a 1000% return. And and real estate is maximum what you can get, what, 25, if you're so lucky, price appreciation, plus rental yield. Okay, let's let's go into that. Um, Karina, the building is really good, but it's, um, the price is really expensive. Why is it so expensive?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, why it's so expensive? Uh, you know, because this building just handed over, and if you see around, uh, there is a lot of buildings with, uh, of course, less price, but, uh, they three to five years old buildings. So, uh, I don't know. What should I say? Uh,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, do you want me to do that? Yes, let's start. First of all,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "First of all."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The first advice that I got when I was 22, I attended my first sales training. That was a mind-blowing experience, and it was in 2002. Long time ago. I understood that there is some sort of secret knowledge of how how to like do things with people and for people and they're going to buy from you and they're going to build the trust. I was like, Jesus, why no one ever told me so? And and that training, they told me, if there is an objection, for example, your price is too high. You are completely not allowed to say, yes, it's high because. Yeah. Don't we don't have to explain the objection. First of all, second of all, don't ever say, but you don't understand, this is a I'm talking the old school knowledge, like a basic of sales training, which doesn't work actually, by the way, in the current market, but people are still doing these mistakes. Um, when I say, yeah, it's too expensive, usually people say, um, well, it may look like it's too expensive, but. They know that the technique is to agree somehow on a partially objection, but they instead of using what it's been taught to me back then, and, they use but. But, again, a contradiction. So, we are in the fighting mode, boxing. I tell you this. Yeah, it's a debate and you tell me that, and I'm proving to you, and and this is just that's it. You're gone. There is no deal going to happen. That's uh, that's not a collaborative process. So let's just move back to it's too expensive. Give it to me. Say it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so, Olga, it's so expensive."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, how how do you mean, uh, so expensive?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I checked the projects around, and I found like a lot, uh, lower price than this building."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, okay, I got it. Um, well, there is various options on the market, but besides the price, Karina, what what is actually important for you in the apartment? Because there is also an option, there is way cheaper things you can buy, maybe not in that area. I I'm I'm I'm up to you, but I don't know, are you looking for the best project that fits your requirement, or for the cheapest one?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm looking something in between, because it will be for investment."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, of course. Of course, of course. And uh, besides the price, what is what else is important for you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think the main objection is price, because I'm looking for good ROI, since it will be investment."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I got you. I got you. The price aside. What else is important? Because if it's only price, then we're just going to scroll down to the cheapest one, and you don't have even to go inside, you just buy the cheapest one, correct? But I I I guess that's not what you're doing, because you you call to my ad."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, so you're looking for something which gonna actually going to keep the value of the unit and generate you more money. Because if the price is the cheapest, probably the rent's going to be not that high as well. I don't know. What do you think about that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, maybe you're right, but for example, in this area, I saw a lot of Binghatti projects, maybe three years old, and they was cheaper, but the price for rent more or less the same. So, I'm thinking, maybe I should go for that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Maybe we don't know yet. And I'm not here to sell you this specific project, we just happened to meet on the, uh, the ad that you've seen, and I can offer you other options. And for me to even understand what the best fits your requirement, besides the price, what should be in the unit? Do you have any other criteria?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, of course, I want to good quality inside the unit, and for me, especially, it should be like."
+    },
+    {
+      "speaker_id": "2",
+      "text": "When you say good quality, can you give me an example?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Good quality. Yeah, just for example, that, uh, this building was okay in three years like it's today, because, you know, in Dubai, a lot of projects with not good quality, like today it's handed over, but in two, three years, it's looks like it's 10 years old building. So, I need to."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, well, have you seen anything so far? Uh, for how long you've been looking, by the way? I forgot to ask you that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "For three months."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, well, for three months, have you seen anything so far that kind of, you know, attracted your attention with a good quality and the reasonable price?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not really."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Really? It cannot be all that bad, but maybe you've seen something with a good quality, but the price was maybe not the one you're looking for."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, the price maybe was even cheaper, but the location, it was in different locations. So I don't really like that kind of location."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, that location is important for you as well, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course, since it's investment."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course. And if you're looking at the criteria, the quality, the location, the price, what do you think is the is the number one? Like, if it's not there, the way you want it, you're not going to even look further into the project project."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The main thing, I believe it's combination between the price and the quality."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. And location could be the third one. If it's not desirable for you, you're still going to go for it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, location also is important."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, would that make sense for us, because I'm here to help, you know, you've been looking four months, you haven't seen anything so far. The way I do, maybe it's a bit different than other agents. Um, I know, you told me that you consider this building is not with the price, more that you're looking for. Would that make sense for us to actually meet in this building, just because, you know, we have a couple of options over here. I will show you the quality of this building for you to have a reference point. You're going to tell me, is it good, is it bad? And as well, while we are there, I will show you the videos and pictures of other units. We'll look at the map, and I'm going to give you, let's say, what I call a bit of like investor tour in GVC. So, you will know which buildings are actually, based on your requirements, it's worth looking, and which one does make sense. Would that help you if we will do that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes, I think so. Let's have a chat later. I have I will be busy right now, so I will let you know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I've I've got you. I've got you. But how's it important for you to find the the property? Maybe it's not important for you, then I'm not going to even bother you with all of this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, it's important, but I'm not really in a rush."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But you you don't have to be in a rush. That's not for you to buy anything. But as you said, for you to get the best, unfortunately, you have to a little bit study the market, rather than you're wasting your time calling to the ads which are not as you told me, you wanted, and over the three months, you haven't seen anything. Really? That just a lot of time. Like, I would expect you to see something that you really like."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would like to see something, of course, but can you just send me options that you have and I will get back to you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm sure you have a lot of options already on your WhatsApp. Which actually not not creating much clarity. Look, I'm not I'm I'm absolutely open to show you the options on the WhatsApp. But how confident are you that just from the pictures, which look one way, and then you go into the unit, it's a completely different scenario, you will be able to understand the level of the quality that you're looking for. Would that make sense for you to kind of invest a little bit more time for your future kind of investment to be profitable, and actually go for a meeting? Because the way it it it it may work for you, that you will understand the areas, the buildings that you actually have to focus on, and with the current, let's say, price trend, you will know exactly which offers are you looking for, instead of just, you know, just keep browsing, just keep getting the new things, you just get potentially a little bit more confused. Would that make sense for you to kind of narrow down?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes, it makes sense for sure, but, uh, I I work, I at work right now, and, uh, can we catch up maybe next time and I will."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm not asking about right now. Yeah. Yeah. Okay. So, this is what I teach, how to talk like that. How to be able to, um, everything I used, if you noticed, I was just using the questions. This is neuro-emotional persuasion technique, which I learned by investing $50,000 into inner circle of Jeremy Miner, who is one of the top sales gods in US. He doesn't teach real estate. He has no correlation with Dubai. He doesn't understand the process. He just has a methodology, which I then able to adapt for offplan, secondary, cold calling and everything else. So, I never pitch you anything. I never told you the prices will go up. This is the last unit. I never said anything like this, and it was not needed. Because whatever I'm going to say, you don't care. What you care is about yourself. And your ability, but you see what I did? I pulled out of you. It's quality, it's location. You told me. Now you know, now you know, as a client, because you might not know that. You think the clients are sitting down and doing reflection, oh, let me reflect on how I feel today. No. You have to pull that out of them. And then with you, they feel, oh my God, I understood this. Oh my God, there is some structure on how to buy. Oh my God, there is some comparison. And of course, then you will have to execute that. You have to be able to compare different building. You have to execute the knowledge. So it doesn't mean that you got this way talking like Olga and there is just deals that happen, you know, of course, the knowledge is there. But when you have this type of communication, and people are actually coming to your meeting, and and you have an opportunity to move them forward. Make sense? Yes, for sure. Okay. What I can what what is the next step for you? Um, your structure is a bit different, uh, than pure secondary or pure offplan. You're working with the buyers only, but then kind of offplan sales structure when you are doing the meetings with them potentially could be applied, because on the meetings when you sell the offplan, you show them the you're working with investors, you show them investor logic, you show them the tour around Dubai, map, how this location going to be performing because of infrastructure development, you're going to put it all together for them to actually buy that location. Um, I do have courses where I have a recording things. But what potentially may work for you, I'm not sure. Um, I'm launching the first, starting the first group coaching, purely group coaching. Um, we're going to be 10 agents, and what I teach is exactly step by step process with buyers. The first call, what you're doing in the first call, how you move them to educational Zoom meeting, this is for the offplan, uh, mainly. However, the the meeting in person or meeting in a Zoom is exactly the same. How you qualify them? How do you ask them about budget? How you narrow down the options? Like all of these things. And on top of that, a big component is the role plays, where everyone is coming, and they're role playing, and I'm fixing what is wrong in the role play. So, then everyone is able to talk. I don't want to say like me, better better than me. Because this this skill is the same as learning a different language. You have to practice it. In the safe environment. Because if you do not practice it, you understood what I said. You have you you you probably will listen and say, like, yeah, all of the she's saying is making sense. Would you be able to repeat it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No. Yeah, that's the problem."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, there is no other way. This is how I learned all the sales skills. This is the only option, this is how we learn as a human, through repetition and role play, always. So this is a big component of that. And as well, uh, call recordings, meaning agents are bringing me call recordings of the clients, which could be recorded in multiple ways. And I'm doing the breakdown, what should be done differently? Why client responded like this? What should be fixed next time? That as well progresses the skills, uh, to the next level within like a couple of weeks. Doesn't mean that only your call recording will help you. Any call recording you're listening and I'm breaking them down, you'll understand what you're doing wrong yourself. So, this is how in my private coaching agents are changing the communication and they're making results. And of course, like all other, um, let's put it this way, market realities and practices, um, and the techniques with clients, how to present in a way that it doesn't feels like you are pitching and being a tour guide, and all of that other stuff. So, uh, I'm going to have this launch of this group program, probably in a couple of weeks. I'm going to do a Zoom meeting for everyone who is interested to come and learn, because I don't have a price yet, I don't have a full structure yet. So if you want, I can invite you for that as well. If that makes sense for you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, it's totally makes sense for me because, um, right now I'm really not good at talking at everything, and I need to understand the structure because I want to be like successful in real estate in speaking, in sales. So, I believe that for me, it makes sense, totally makes sense."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You're going to become very dangerous in talking to literally everyone, because that's not a technique for sales, that's a technique to get everything what you want from people. My boyfriend, my boyfriend knows that. He adopted he adopted some of them, and he he knows that so well because he's just like five years listening to all of that. Um, and he's like, don't use this technique on me. Don't use it. Like, I just just don't use this technique on me. He knows. Yeah, yeah, for sure. Okay, cool. Karina. So the next step is, uh, I'm going to wait till record it, uh, convert. I'm going to send you the recording, and I'm going to send you the link for my Google review. It would be great if you could type something like this. I was on the session with Olga, and what she helped me to realize is, this, this, this, this, this. That the best way to, um, say thank you to me. Okay, sure. So, others are discovering, they're not like they're not like, Olga is a great sales trainer. It's just for doesn't mean anything, right? But when they will read the problems that that you had, they're going to say, yes, exactly me. I have this. I need Olga. And of course, you will have to execute that. You have to be able to compare different building. You have to execute the knowledge. So it doesn't mean that you got this way talking like Olga, and there's just deals that happen, you know, of course, the knowledge is there. But when you have this type of communication, and people are actually coming to your meeting, and and you have an opportunity to move them forward. Make sense? Yes, for sure. Okay. Yeah, of course. I'm not expecting it will be easy. I'm working both. I just want to understand what is good, because I was all almost one year, but it was like this. I believe everyone has this journey, but I mean, still I'm just, um, just understanding what is going on, you know, in the market, in everything. So, it's a bit like this for me. What you can try? Do you have a database of the area that you're having inventory in? Yes, I can I can take it from the company. Try to find the units which you think going to be suitable for the client. That you have already client. Try to find units for them. Mhm. Okay. And you mostly working in offplan, right? No, it's never going to be easy. Yeah, of course. I'm not expecting it will be easy. I'm working both. I just want to understand what is good, because I was all almost one year, but it was like this. I believe everyone has this journey, but I mean, still I'm just, um, just understanding what is going on, you know, in the market, in everything. So, it's a bit like this for me. What you can try? Do you have a database of the area that you're having inventory in? Yes, I can I can take it from the company. Try to find the units which you think going to be suitable for the client. That you have already client. Try to find units for them. Do you have a cold calling script for the secondary market, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "From you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, no, by the way, I, uh, download two for off plan and secondary, but it's the same. I checked, it's the same. One script. I don't know. Maybe I download something."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm going to I'm going to double check it. Maybe my IT guy just did a mistake, and everyone is downloading the same script. Cool. I'm going to send you the secondary script. Okay. Thank you. After the call, I really need to jump off. Okay. Thank you so much, yeah. Cool. Talk to you soon. Bye-bye."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Yeah, sure. I will watch it, yeah. Thank you so much. You're going to make it. Yeah. And I and I completely can relate to that, because to you and your level that you sometimes feel that the speaking is, we we still not coming from a native speaker, even though English your English is great. I keep here with a broken English as well, 12 years ago. And I it was very important for me to be able to push my English and sales in English into the level that now British people are coming to me on a session. Wow. They want to learn from me. Americans, it doesn't matter. Yeah. But your English is perfect. Okay, cool. I'm just, yeah, going there. Don't worry. When you're going to be 46, your English is going to be perfect as well. Don't compare your chapter one with my chapter 10. You're great. Okay. Yeah. Thank you. Yeah, and one more question I wanted to ask you, yeah. Sure. Can I ask you? Like, uh, because I'm like confused. I told you that I start with this, and then I, uh, like found myself in that, and what should I do? Like, what was what will be your maybe, I don't know. Like, opinion of what should I focus on? It should be like secondary and I just choose one, um, location, for example, and just going with this, or off plan is better and easier maybe. I don't know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Let's look at your resources. You have leads, which are coming for which areas? GVC, which other areas? We have a lot of areas actually, business, but it's just, you know, around Dubai. It's not something just one. It's just inventory everywhere. Find out. Do okay, do evaluation which of leads you have the most. Like, separate yourself, this three areas, I'm getting most of the leads because this leads, forget about the project which are overpriced, which you are trying to sell. If the people are not buying them, you have leads. These are real clients. So you have inventory, regardless it's from other agents or your pocket listings, doesn't matter. But the good thing, you don't have to go and actually convince someone to give you a listing, because that's another headache. It's very hard and competitive. So you have already leads. You have to you have to start serving them. For that, you have to understand what are the project around the area, with the price and competitive? What are the better project than yours? Which they would buy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And I will be focusing on that. I have a source of leads. I'm not going to go and just like, oh, let me start secondary or let me go offplan. Who going to give you leads for offplan? You? Where you going to go get leads for offplan?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, but maybe I can manage it, like make advertisement or something."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Forget about this. Karina, forget about this. You don't have money for that. And you don't like you're not on that level that you're going to put your own money into marketing, in in advertisement. No, you're not going. It's 50,000 dirhams minimum a month spend. And there is no guarantee that you're going to close any of those leads."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, because leads, it's 50/50."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's why I thought. Yeah, I know. I know it's not like 100 will be good. But I mean, still. You you don't have good leads. No one has a good lead."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, just I want to maybe more wider the opportunities for myself, because I I feel like I'm stuck with this just this inventory that we have. It's not that much inventory. Like we have projects in different areas, but it's not like I have a lot of."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Find another working leads."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You have buyers. You can work on finding another units for them."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Try to find units for them. Do you have a cold calling script for the secondary market, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "But if you want to go and explore yourself, it's easier to focus on what you have already. You have ready buyers, what are they looking for?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Are they construction workers?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Are they construction workers? Physically, I mean construction worker, you call him, he's like, I never submitted an inquiry, I work on construction. Some of them."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What what does it mean construction?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "You have normal leads, everyone else has the same. I mean, just I want to maybe more wider the opportunities for myself, because I I feel like I'm stuck with this just this inventory that we have. It's not that much inventory. Like we have projects in different areas, but it's not like I have really good leads. No one has a good leads."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, not really. But that's what I'm trying to tell, because it's not like I have really good leads."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. What you can try. Do you have a database of the area that you are having inventory in?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I can I can take it from the company."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Try to find the units which you think going to be suitable for the client. That you have already clients. Try to find units for them."
+    }
+  ]
+}

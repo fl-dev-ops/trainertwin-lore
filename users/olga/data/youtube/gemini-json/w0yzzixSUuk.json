@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "the agent simply push whatever listing or off plan property they have available hoping that something gonna stick. And what happens? The client feels pressured, loses trust, and either stops responding all together or gives the classic I need to think about it. Because no one likes to feel that they've been sold, but everyone wants to feel like they're making their own decision. And I know you there you're probably thinking, okay, that sounds great in theory, but is it really how buyers"
+    }
+  ]
+}

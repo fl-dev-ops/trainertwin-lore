@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "If you are Dubai real estate agent and you want to have unfair competitive advantage in the current war uncertainty market, you're in the right place. My name is Olga and I'm real estate sales coach with my own 11 years of experience selling Dubai. I invite you to join my 14 days strong in sales boot camp. Live program for Dubai agents who want to adapt, regroup and keep making money in any changing market. See you there."
+    }
+  ]
+}

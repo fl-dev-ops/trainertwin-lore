@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Olga Sinenko"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "the same as you, if you want to build a consistent income in the commission only sphere and you want to have maybe 40% of clients only in three years coming back from the cold sources of leads, you should build a relationship, rather than trying to push your solution down the throat. We as a sales people, we like to talk more. Why? Because we feel confident when we are talking. Sometimes we just love the sound of our own voice. Because what if I'm going to ask the question and then he going to start talking, then he going to ask the question, I don't know what to say. Guys, this is just you understand it or you don't understand it, but the reality is you talking way too much because you are what? Not desperate to say, you're nervous."
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Welcome to another episode with our secret lady agent who is about to crash the market with hundreds of deals. So far she got us a very juicy questions and my name is always Olga Sinenko and I'm your real estate sales trainer with my own sales experience and how I like to say, I'm in working, you know, in hospitality or, you know, maybe retail, I've never been a cabin crew. All my career starting from 21 and I'm 45 now, I just been selling real estate. Okay, so I hope I already born you to death about me. So what we're going to have for today? By the way, let's get back to that American client whom we had a discussion. Can you brief us briefly about that? You got this lead, what was the first stage of your understanding what she wants and then what happened?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, so the lady um requested, she wants to buy a property in UAE and she wants to retire and move and live America. And then when I start showing her the properties with the prices and she, first of all, she was very clear that she want something in Marjan Island. And she specifically applied for W Hotel, which is the luxury brand. And then when I shown her the properties options, she said, oh, that's crazy. That's more than a million US dollars. I I'm having only 100,000 US dollars."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, she was expecting that uh for your information, yeah, audience. There is nothing that you can buy for $100,000 as a property, probably anywhere in the developed country. Just doesn't exist. However, you go in."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So yes, and then um like she was actually shocked and then as you always advise, like I ask her if she look at the market and she said, no. She just told the US dollar is strong and UAE is affordable and then she will have $100,000 and move here and live a luxury life."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Then we understand Well, you cannot have a luxury life $100,000 in Thailand as well. Sorry to say or maybe in Cambodia. Okay, uh-huh."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then we agreed, we gave her the options of having uh mortgage that we explained."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How well, how close she is to retirement?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um four years as long as she said like, this is So she's 61."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The next four or five years she said she's planning. Okay, but we we are talking about the mortgage. So, you know, the mortgage is always limited by the age of the person who's taking it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, again, I said let's speak to, you know, give No, let's speak to mortgage advisor. Um, we're not losing anything. It's a"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, well just another deviation. Exactly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So we spoke to the mortgage advisor and he told her what documents he needs, what are the options and so on and so on. And then we sent her an email where to forward all these documents. And the day after I followed up and she said I sent the documents."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And she didn't."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But she I said no, but he didn't receive it and then she took a screenshot of the email she sent it. So basically she sent it to an she said I sent it to this email. And I said, but the email I send you is this. So you send it to a wrong email. And then she start creating stories and panicking that there is a fraud and people will use her personal information."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Like your passports."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Passport, income and so on and it will happen. I don't know what and she's traveling next month to Singapore and she never been outside in this part of the world. And she was like being very dramatic. So I tried to be"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And we are just just for us understanding. This all happens through the WhatsApp, right? Through the messenger."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, we had a Zoom meeting."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So she does exist with a video. This lady does exist. How old she looked like?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um she looks to me, of course, Americans they're aging differently. I would say she's late 60s."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, for those who are watching us, uh the mortgage age is 65. So if they are late 60s, there is no chance for them to get a mortgage at all. Not in Dubai, not I believe in any other country, where it's really close to your retirement. As soon as you stop receiving your salary income, you're not a desirable candidate for a mortgage. Well, you're going to die and then it's"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And also it's like when the mortgage advisor asked her about her income, so basically she seems like I haven't been to America, but doesn't seem a high income, also converted to Dubai uh to dirhams. So she said she's getting like $4,000 a month, 4,000 something."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so that's before the taxation."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think so, yeah. To be honest, I'm going to I'm confused here. I don't remember exactly, but let's say 5,000."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The income which you supposedly should be generating being an outside uh client to be able to get a mortgage for the secondary market property is 25,000 dirhams comparable. So we would expect 4,000 is quite not enough."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. So I don't know if she actually thought about it or she seeks some advice, but she was shy to admit that she's not qualified."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Regardless, regardless like look, even if she will get a mortgage, um she has only 100,000. For the mortgage, being an international investor, you will need to put down a 40%. So 40% uh and if she has only 100,000, 40% of what that can be. You got me? So we are talking about a property which is less than a million. Dirham. Effectively. And probably she will never be able to get a mortgage. Even if she's in her 50s, then um, you know, 55, they will give you what? 9, 8 years slash to complete the mortgage. So the mortgage payment going to be very heavy for her probably. So that's basically like a payment bomb."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. But overall and then she sent me the screenshot of the email she sent and then she started being dramatic this and that. Out of curiosity, I just checked if that email exists, just sent hi and the email bounced back. So that email doesn't exist."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So she knew that it's going to bounce back as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. And it did bounce back if she ever sent it. Yeah. But obviously I didn't want to tell her that, you know, I checked this and this. So I just said how is it going? How are you feeling? Would you like to continue? And she said, no."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Would you like to continue scamming me? What kind of scam we're trying to pull on each other?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So I tried to be nice and she said, no, I didn't report the issue because I don't want to go to the airport and they don't allow me to travel to Singapore. Yeah, that was the story and uh"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which issue? With the email?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Report the issue with the email to whom?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "To the police because she's afraid, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That she sent her documents by the email to some weird email. Yeah. To a wrong email that she's afraid it's going to use."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What she been doing all her life? Which kind of job she been doing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um she said it actually and it's some company um and when she was on the video, she was with the uniform, she had a radio or like a walkie-talkie thing and"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So she's a basically a security supervisor probably. I mean, for what you're saying."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. I mean, I don't remember exactly uh what is it, but"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh my dear American agents, if you're watching us, honestly, a big sorry for you because probably this type of clients they're dealing on daily basis."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, and that that's where we stayed. I said, okay, I understand. Uh let's keep in touch and that's it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, that's fine. So this lead is non-existing. Let's forget about that. But but she helped you to kind of optimize your workflow. You understood what you don't know, where you you pull them mortgage advisor together. So you know how how."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It was beneficial for me as well because I don't know how it works if you're not a resident. So the information he gave her, it was beneficial for me that I will know for me and if there is a really a potential client that really would take advantage of this, I will be able to to explain. So and in the end it was again, you know, it's learning from people. You never know in the beginning, but slowly, slowly, it's pretty much the same approach. So."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let's jump to the questions. So now we're going to have a set of questions that that got me from your second week and or second or third week in third week in Dubai real estate. Uh with no real estate experience, more or less no sales experience, uh freshly, more or less freshly in Dubai, right? Okay, so let's jump into it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so the first question is, what are the common mistakes do you think brokers make when selling a property?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, let's drop the couple of differences. We're selling the off-plan property probably going to be different from selling secondary market property. Uh but let's imagine we are talking about the off-plan."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, or overall like just some two, three, the most common."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, mistake number one what I see with the agents who are trying to sell off-plan, they are aware of three, four, five, six projects. They think they know them. Um and they are trying to push this project to the clients. Potentially ask client one or two questions about what do you want, which area or blah, blah, blah, the budget and then they're trying to push the project. Sometimes, what I hear a lot of on the calls reviews is they are uh defaulting into the cheapest, affordable, one percent payment plan per month because they feel if it's so cheap that there's just no brain to buy. Yeah, and and again, they're coming from the understanding, I don't have much money. I never spent any money as an agent, right? I never spent any money on real estate. Maybe the most expensive thing I ever purchased myself was an iPhone. So in my mind, it has to be really cheap. I mean, come on. I mean, it has to be really cheap. So they they they just default to that. Or the secondary market, um the biggest mistake what makes the agent fail would be that they do not go and prospect, look for their listings and for the clients enough. That's 100%. This is number one. You see, it's kind of a little bit different."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So just say that again."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They do not prospect, they don't look for the clients or for the listings enough. They don't spend enough time calling, doing the whatever, cold outreach through the databases, uh or potential clients. They do not go through the old leads that they have, the someone who inquired before. They do not go properly from the um someone who sold with them a year ago, what was going on, they never called to that people. So they don't do enough outreach because in the secondary market, you pretty much you are the one who generating your own business. With the off-plan, you sit down, you have some stock and you wait for the leads. For the secondary, you have to go into the cold databases, basically, find your own listing, convince the seller that he has to sell with you. You put it on the portal and then this listing with the presentation on the portal going to start generating you buyers. So, the thing is here, again, the biggest mistake in that cycle is that they have a various properties, not comparable in different location. So this property is generating you buyers for one bedroom in GVC. This property is generating you buyers for six bedroom villa on Palm. Okay. So you have to show to your buyers several options. So you now have to look for three, four, five options to show with your one bedroom and three, four, five options to show with your villa. So you see how not comparable it is. So they're not focusing on just being a master of one area or even one building. And then they default into I cannot do viewing in one evening on the Palm and GVC. It's not possible. I cannot be 6:00 p.m. there, 7:00 p.m. there, or 5:00 p.m. there. It just not going to work."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. So that's a two different problems. Probably too many options. Would you say too many options?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Shiny object syndrome. Trying everything, whatever works, or I need to have more opportunities."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But this is a confusion for the client. Right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, for the client, the client who's looking for one bedroom in GVC, he's not even anyhow six bedroom villa."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, what the client is struggling on the other hand, uh if we are talking for the off-plan, the client who are trying to purchase off-plan, they have a various of agents giving them misleading information, trying to push the projects which they want to sell based on"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Commission."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Commission, based on what they think is more affordable and based on their knowledge. So the client is getting more confused and it's like, well, I don't know what to buy. If we are talking about the market, uh secondary market, the clients trying to contact the agents, they want to see the property. They really have a desire and need to buy most of the time because they are moving and or because they really want to, you know, got advantage of their savings that they have. They want to put the investment, put this money making machine. But the agent just has one and two properties. So I am as a client, I have to call multiple agents. They do not respond, they do not follow up. Uh they don't have actually property, they just put the fake listing or they have a different property. So I'm just like, how I'm here, I just want to buy."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You cannot trust. Probably is this exactly because some of the uh agents, brokers, they just want to sell because they want to get the money, which is at the end of the day we all need."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Majority. Some. Let's say majority of people."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So yeah, and then it's just exactly is the fish market as people call it. It's kind of just go and everybody wants to throw it, but at the end of the day you're buying a home. And this is an investment that for example, how I would say it, I don't know if it will connect, but let's say if you go to a Rolex shop, right? So"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Just been there yesterday. Fresh experience for me."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's why I'm not wearing any watches. I just let the steer a bit."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly. So you know the price and the people there they're not going to convince you how good is the actual. Here is the what you can afford and the style you're looking for. The the age or the model or name it, but you know where you're going. You know the the the the level of this quality product. When with the with the uh this kind of agents or brokers as you're saying like they just want to throw something because they want to get paid. So the client probably just feel like, I cannot trust that person. How can I go and give my money like, first of all, he doesn't explain to me, then he's rushing from one to another, he doesn't give me enough time. So I don't feel like I can do it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I tell you an example, I've done operation and I was looking for this operation for 10 years. I tried different countries and I every time"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is it a sex change operation? Sorry. Just got to say that. Just because it's ready for us 10 year. Joking, you don't have to regret."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I will tell you if you want to know. And then uh um I even here in Dubai and I just go there and they're like quickly the the doctors are telling me this and that. So I didn't feel like how I'm going to go under anesthesia and I don't know what's going on with me when actually I don't trust that person. And it's not like I'm spending hundreds of thousands and millions. And then all of a sudden I went absolutely randomly to someone that I said, you know what? I'm not going to pay for the consultation at least. So why not? I went there and the doctor was unbelievable. After five minutes, I was like, let's book the date. So I would say because I experienced this with something with me. So I've done operation on my eyes, my eyelid and which is the eyes. So I was like, and then I was so happy and you cannot actually say it's done. No. So anyways, it's not about my operation, but it's the same thing that like we have to make the client trust us, not just to throw things."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is the this is the biggest know-how. Trust. If we're going to put the keywords how to if we're going to Google and or YouTube how to make the client trust us, it's going to be hundreds of thousands of videos is still how to do that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know what I think is my opinion here is about the here we put the actual position we have as brokers, it's about your personality and who you are as a human. So if you actually are a cheater and user and abuser, because there are different people in in out there in the on on the streets. So if you go and if you are just a one that only wants to get and just no matter what is the price, I don't care. I'm just going to get it. So in this case you're like this everywhere wherever you go. But if you that's why actually even the CEO of the of the one broker group, um he told me something that I actually will never forget and that made me think, should I actually go for this job? So he said, this job, this position is about the personality. It's all about your personality. At this is a skill that you will learn in time, but your personality is who you are. So if you think you are strong enough mentally and you can accept everything that's going on without"
+    },
+    {
+      "speaker_id": "1",
+      "text": "A lot of knows."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly, without affecting you, that means you're going to be successful."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So yeah, I think it's what he this one with the with how to trust is about the personality."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And of course about the knowledge. Yeah, of course."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which is I would say the 99% of agents, well, let's put it this way, 95% of agents. It's not that like they want to lie or they want to cheat, but they just don't have the knowledge or understanding of the market, of the areas, of the ROI calculation, of the financial literacy on the basic level for themselves, so they cannot even of course transfer it to the clients. So it's not like they want to lie, but they end up lying because they have nothing to say about that. And the clients will majority of the time, I would hopefully that's going to be less and less. They just want to hear what they want to hear. Just tell me, you're going to love me forever. It's going to be happy ever after. I'm going to close my eyes. I'm going to run. I'm run to the marriage. I'm going to die for you. I'm going to die for you. Yeah, and then it's just like, well, you see, it didn't work. Why? Well, probably because you closed your eyes."
+    }
+  ]
+}

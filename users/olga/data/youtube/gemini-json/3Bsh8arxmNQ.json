@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "How to handle? Well, I just cannot handle anymore, just send me some options. Probably, this is what each and every off plan real estate agent is thinking to himself. But what if I tell you this? You are, Mr. Agent, actually the one who is triggering the potential buyer to tell you, just send me some options. With the stupid question like, oh, do you like Dubai? Which area in Dubai do you want to invest? The person, your potential buyer has no idea which area Dubai he wants to invest. That's why he's telling you what? Just send me some options. Instead of that, what you will need? You need to book a Zoom meeting. So ask him a different question, which is in the description."
+    }
+  ]
+}

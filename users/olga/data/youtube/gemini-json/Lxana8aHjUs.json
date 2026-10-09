@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "If you are already Dubai real estate agent or someone who still aspire despite what's going on to relocate and start your career, seeing the current situation of March 2026 as opportunity, I am inviting you to join my Telegram community strong in sales where I teach and support Dubai agents and if you never heard about me, my name is Olga Sinenka and I'm selling Dubai real estate for 11 years and overall um selling for 26 years in different countries. But it's not about me, it's about you. It's about how to use the current situation to the best of it. What I want to say? It's not to become a predator who is leveraging on poor sellers and buyers. As my community is how to become a supportive pillar on Dubai real estate market, someone who will stay last and become a top agent as soon as the market bounce back. So see you in my community."
+    }
+  ]
+}

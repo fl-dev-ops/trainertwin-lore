@@ -1,0 +1,140 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "So let's today run through the decision-making process."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So let's imagine um, you're going to be the one who is um an agent. you're going to be the client. And let me give you a bit of a role because there is a certain stage of qualification. You already um let's say explain that your budget is whatever around two million. Um you are invested from UK. You never invested before outside of UK. Um and that's the whole information that we have. So in the decision-making process, we need to establish first who will be involved in making decisions and there is a set of questions for that. And how the decision process overall going to go. Meaning does a client need to move his money somehow from somewhere to somewhere. If that not yet been discussed and we just imagine that not yet been discussed. If the client need to come to Dubai. If the client needs someone to come and see whatever the property, well he's not coming to Dubai, there is some other person who is helping him, his brother, mother. Like all of this steps has to be distinguished. And if we will find out that there is someone who is making decision with the client, but he's not on this call, the next step is for us to understand and kind of overcome objections of the client that oh I need to go and talk to him or I need to bring it to to that person, the third party authority who is basically um an escape from him and making decision. So the last question is how does your brother, wife, whoever been distinguished feel about your plans making money with Dubai properties. So that's a question that allows us to transition then into building the next step with that person who is not on the call. Yeah, makes sense?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, any any questions on how that that can be put?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's exactly, you remember you had a case uh with a son and the um whoever there was, son was trying to buy a property."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And his brother, father was the one who is making decision. How that how that went for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Same. Uh he keeps skipping up because apparently his father's not been listening pretty well, I would say. Yeah. And he keeps telling, you know, that uh I'm going to put forward it towards my brother who's going to decide on behalf of my father, but you know, he's never ready to give his brother's number for some reason. I've met his brother. I'm not going to say no. I know that it's legit, nevertheless. Because I presented to his brother for some other project already. Okay. But when it comes to the one which they really like right now, which is Ola, it's been almost two months now. Okay. And he keeps saying that, you know, we've come down to gone back to India for a long term, uh where it's a wedding which is happening for my sister. And uh I'll be back when the summer ends, that's around September 2nd week. Okay. So if we are doing something, it's going to be done, but even if we are not doing something right now, any, you know, uh any properties in the future, I'll be only working with you. So I know that he's been working with me. He does reply back, nevertheless. But, you know, he's got his own thing going on, I would say."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, because that's not his urgency because he doesn't have the money. Who has the money? Does he has the money?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh so he basically, he and his family is basically, uh what do you call? They they they are developers back in India. Okay. So they have their own construction company there and it's a pretty good one. It's in Surat. Okay. And uh pretty much what do I want to say is the money held is with his father, brother who looks after the business."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So the question the answer is he doesn't have the money."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. It it the funds have to come from like the top. The family goes in a way where it comes from the grandfather to the father, to the brother and then to him. Okay. So they have a pipeline."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And the brother Okay. So the pipeline. But the brother was on the call with you or not?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. So I met him, uh I went to meet him uh one and a half month ago when he was here in Dubai. So I did a meeting with him uh and with the brother and him both. Okay. I I did it already. So it was like a formal uh meeting where, you know, I kind of spoke to him about the studio and some other project, but he was having second thoughts about that project because initially the inquiry was for a studio. Okay. From a studio I brought him up to a one bed and he really loved Ola because I showed him around the project, but uh he was very indecisive then because he had something happening with the family during that time. He said we'll keep it up for later and kept asking for a better offer, better offer, better offer. I gave him all I could, but then I don't know, I just got delayed, I would say."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What's the better offer looks like for him?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh so there was already Ola already had a 30/70 payment plan, 4% DLD waiver. He wanted No, but have you told you what the good offer looks like? Yeah. Yeah. So he wanted a 4% discount and a 4% DLD waiver, which I tried getting from the developer, but it was not possible during that time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. And if he's in this business, it would be a good question to ask."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Uh you know, he said something all that, very much. Okay. I just I have to let you know. He said, you know, basically in India what happens is since he's a developer, when it's the last few units, you're ready to make some concessions. Okay. So what happens in India is uh even if a project is worth maybe like uh 200k, 300k, whatever it is for the least studio, yeah, or a one bed. He's ready to take a bit of a loss because he just wants to finish his inventory and he's already made his profits out out of it. So he expects the same thing here, but I told him it doesn't work really like that. So for a builder to understand it's very difficult."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And let me ask you a question. And why the developers in India are doing that? Why they will give the discount on the last unit?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh because the number of people who are investing are not a lot. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't understand that's not I don't understand that. Because of the number of people, why would they give a discount?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So uh in India it's like there's a lot of competition, but, you know, it's not like a monopoly what happens here. Yeah. People invest, but it's not the same wavelength of number of people who are investing here from foreign and everything. The people who can invest are only Indians. Yeah. So that's that's so that's a very different thing because here you find people from Europe, people from all different continents."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Have you asked him the question because that's going to change his decision-making process and going to change his point of view because he thinks that's what exactly I'm saying, guys. I believe, I am from India, I believe, I am from UK, I believe that the way it's in UK, it's all over the globe. Because I have a straw vision, this is the only thing I know. How we can change that? It's like, well, but why why are you doing discounts in India? And he's going to tell me something like you did. Oh, well, because um I don't have that many people in a position to purchase, so I have to secure those buyers with a discount because I need to sell off my project and the faster I'm going to do that, the faster I'm going to get to the next one. And now you're going to ask him the other question. Okay, that makes sense. But will you be still doing that if you had a lot of buyers who are looking to buy your units? And he's going to tell you, no, I would not. And then you say, well, you know, and then you're going to tell him that it doesn't work that way in Dubai or Ras Al Khaimah, but bringing him from the different point. He said, I'm not going to do that. I was like, that exactly what is happening. We actually sold out Ola within the XYZ amount of um months. And August is the slowest month in Dubai. And by September, October, when everyone's going to come back, what do you think going to happen? Oh, probably the people going to, you know, buy. Take into consideration and the reason that he was choosing the Ola, you're listing them again. Take into consideration, the same as you told me that this is uh the great quality, the location is amazing, how many of those units going to be actually available in November, even December? The developer doesn't I mean, as much as I kind of appreciate your idea, but here developers doesn't have to give the discount because they know the unit is going to sold out. It's just a question to whom. It's just a question who will be able to get this last unit with the best possible price. Will that be you, will that be someone else? It's up to you to decide. And you have all the time in the world. You can go and come back for sure. But what if you're going to come back in November and you're not going to have any availability in Ola and if you look at the current projects they are launching, the price per square feet is a completely different range. So with the budget that you have to spend and the amount of ROI you're planning, you will not going to fit into the same square footage. You have to go lower, paying higher price. How are you going to feel then? Or you're going to say, oh, it's okay. Even if you're going to tell you it's okay, what you just did, you put in the seed into his mind and it's going to grow."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Got it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You got it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Yeah, got it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So you said correctly. You said, yeah, but it does work in Dubai, but you have to do some preparation work. You have to understand why he's doing this. Because this underlying reason why he is doing this is his concept about thing. So you what you need to do, you have to change his concept. And for you to be able to change his concept, you have to pull out why this concept exist. And then to pull out this is different in Dubai because we don't have it. You got me? So that's why no one is no one is doing this. Yeah, well, potentially we can discuss an additional benefit if there's going to be a bulk deal. Yeah. Potentially. But what's the point for the developer to cut themselves 8%, which is 2% or 4% and 4%, if he knows that he's going to wait for a couple of months and he's going to sell the unit maybe even with a higher price. Would you do that if you were in this developer's shoes? If you had this opportunity, would you do it? And he's going to say, no, I wouldn't. Well, my hands are tied as well. The developer is not going to do anything and at least it's not going to make financial sense for them. And the project almost sold out. That's okay for them to hold a couple of units, even maybe till the 50% of the construction going to be over and then release these units on the market on a completely different price. Yeah, because you remember, Mr. Client, we still hold the money on the escrow account. So it's not like this money goes into the developer's hand. No. So, does he really care about this? Not really. So you see, so you now put the the the build the picture in his mind, but with the questions, not just you telling, telling, telling, telling. Makes sense? Okay. Savil."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No worries, you did amazing job, doesn't mean that it's not going to work. You still can kind of plant the seed in his mind. The question is, do they have the money, don't they have the money, we don't know because you're now telling me all the money's in the business, the money's here. Maybe they don't have that. Maybe that's all in a running business. So pulling out the the cash flow which is used for you to make money is very difficult. Maybe they don't have it. Maybe they just pretending they're so big and they don't have it. Okay?"
+    }
+  ]
+}

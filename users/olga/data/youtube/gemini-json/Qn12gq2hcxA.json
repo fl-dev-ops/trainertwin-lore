@@ -1,0 +1,140 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 3,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Hi. And in this video, we're going to be digging into what to say on the phone call with a client who submitted his inquiries four, five, or even six months ago. How to talk to the age leads, because out of the age leads, the old leads or recycle, whatever your company is using as a terminology for that, you can still close a lot of deals. In this video, I'm going to break down an existing call which an agent in my coaching program is executing using the fantastic script that I provide, which literally changed the conversion rate from maybe 10% up to like, let's say 40%. And even though he has a script, he's trained by me, he's still not there yet. So I will show you what he's doing right and what should be done additionally to make you book a 100% guaranteed Zoom meeting out of the age lead."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hello. Hi, there, Haji."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Speaking."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Am I pronouncing your name correctly? Sorry."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hey, Haji, it's Rahul from One Broker Group here in Dubai. Uh, is this a bad time?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, what he's saying, am I pronouncing your name correctly? Um, if you're if you're not sure how to pronounce the name of the person, I would highly advise you just to go to Chat GPT and it will help you. Um, because if you're just jumping into the I'm not sure if I'm pronouncing your name correctly, you're giving away an information, hi, I don't know you. I'm a stranger calling you. probably it's going to be a sales call, which going to effectively activate the sales resistance in almost, let's say, 90% of human beings. And then instead of asking the question about, you know, availability, the way I teach it, uh, did I get you in a bad time? He's asking, is it a bad time? Do you see the difference? How the answer can differ from simply the way you ask the question."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, I'm just having like five minutes break. Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, I can see in my system that at some point you may have been interested in investing in Dubai real estate. So I was just doing some updates just to check if you have already found what you're looking for or perhaps you're still looking."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, no, I just"
+    },
+    {
+      "speaker_id": "1",
+      "text": "actually executed almost perfectly my favorite question to kind of kickstart the conversation. Have you have you found what you're looking for or you're still looking? Curious, a little bit concerned tone, which is enable the person to tell you the story what actually happened, rather than, you know, just just giving you yes or no answer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "find what I'm looking for. We had like a lot of agency contact me and they give me the floor plan and everything, but we didn't decide which one we're going to take so far, but we just still looking."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You're still looking. Okay. So, have you kind of sat down with I don't know, a professional who's guided you through, you know, the inside market data on actual sales transactions over the last three to five years just to help you"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. No, we didn't."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Look, uh, what he is doing, it's out of my script as well. He is immediately trying to book a Zoom meeting with her. Well, it might not sound like this for you, because usually you're booking a Zoom meeting saying, oh, I need to have a Zoom meeting with you or, uh, can you have a Zoom meeting with me? Mhm. So look, what she answered on the question. But what she really said, first of all, you have to listen carefully to the client. So if you know the script, if you know the questions that you ask, it's easy for you to kind of focus your attention on the client. So she said, we. Ah, the first indication that is someone else, probably a husband, because we are talking to a wife. We've seen something. The agent's been sending us the floor plans, but we're still confused what we will take. And this is a very, very common, uh, situation for anyone who is trying to invest in Dubai real estate. Because the the agent out there, maybe you're one of them. I think if I'm just going to send them the whole possible PDFs and files and the pictures, they will be able to make a choice. But realistically, the way it looks from their perspective, it's just so confusing. There is so many options. I do not have a clarity and I do not believe even in my ability to choose. So that's why the closing or transition into the booking the Zoom meeting that my agent is executing so effective. I will try to kind of scroll down to the beginning of his his transition into the booking, so you will hear it one more time."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. So, have you kind of sat down with I don't know, a professional who's guided you through, you know, the inside market data on actual sales transactions over the last three to five years just to help you"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. No, we didn't do yet. No. My husband is dealing with this thing."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Sorry?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "My husband is the one who's dealing with this thing, but I don't think he get any any information, any details."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right. Would it be helpful for maybe you and your husband to jump on a Zoom call and then I can perhaps get a better understanding of what exactly you're trying to get out of this just so I can tailor uh this the opportunities to you much better, I would say. Um."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, okay. Yeah. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see? Oh, okay. First of all, what you have to distinguish here. She's not the one who's making decision, even the slightest. It doesn't mean that she shouldn't be on that call. That's why my agent is going to for you and your husband, which is a good position. She's saying my husband is dealing with that. So he heard that. However, and you will now hear it in the further like the end of the conversation. Um, she was not yet fully convinced that he has a needed authority as a professional to actually tell her something she doesn't know. But because remember, he just called her out of the blue. She had five minutes of the time. He asked her, uh, you're still looking? She said, yes, my husband is dealing with that. And then he immediately went into the transition and booking presentation. However, you can see in my script, there is a lot of additional questions that you have to ask. So through this question, you actually will build the authority in the eyes of your potential client. So he will not only be happy to say yes, but actually attend the meeting, because fast pace in the future, she agreed to meet, but haven't met my agent yet. I keep postponing the thing. But let's listen to how he was trying to get out of this situation. So it's a long conversation about the email."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Um, so Haji, let me send you an email and perhaps we can me, you and your husband can get on a Zoom call and we I can get a better understanding of what it is maybe you guys are looking for and I can find help you out."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, yeah, yeah, sounds good."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah. All right, Haji. Sounds good. I'll drop you an email and as well as a WhatsApp. Um, would it be helpful for you maybe if I took your husband's number down as well?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "A good try. He's going for the husband number because he understood that it's kind of useless to get into. And then the other question, what do you want to see in this email, right? Yes, for you to make sense. It's it's another if if he will ask that question, it's another opportunity for him to get out of the meeting, to continue the conversation with her now, what's important for her, then to ask her additional question, then potentially to book a meeting that she will bring her husband because she will feel like, oh my God, this guy is really can give us more clarity. However, it's it doesn't mean that everything works 100% of the time, but you can still try."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I can't pass you his number. I've spoken to him, so I'm very sorry, but with the email, I will I can answer the email and if he she's a gatekeeper. I can pass you his information."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right, perfect. No worries. Sounds good."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so, uh, let's sum up what he did. He did distinguish if she's still looking for. He understood that she has a main decision maker who is doing all of the research and conversations potentially. But why this number been registered with us? Because she was clicking on some ads as well. And then he was trying to go immediately, that's the first mistake, without having a deeper conversation with her, what they've seen so far, what about the floor plans, what they like, what they didn't like, have they physically visit or they've been, you know, trying to understand the market from abroad, just to give her a bit of, you know, it's like on the date. When you um ask for the person you on a blind date for a marriage, um after 20 minutes of your conversation, they're probably going to be a no. But if it's going to be, you know, second date or maybe second hour, you might have a different answer. Oh, by the way, if if you feel like you like this video, so you can comment below, um and give me a thumbs up, subscribe to the channel. There is a private membership, which I call my leave it up, uh, online training Academy, where I share, uh, in-depth, um, let's say, case studies like this on the different Zoom meeting recording, call recording with the client, all of my lectures, which I ever done of my five years career being a sales trainer in Dubai, and I packed it with knowledge, which I have from 10 years working in the industry. So if you want that, I'm definitely going to link, uh, that down below, um, how to join. And if you kind of, you know, I don't want to say that, but probably tired of just watching the free content and you want to kind of start making real traction and making money in Dubai real estate, you can follow me on Instagram and write me a message over there. I personally respond on my DMs. If so, I will talk to you on Insta or see you in the next video."
+    }
+  ]
+}

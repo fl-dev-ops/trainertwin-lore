@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Olga Sinenko"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "And people are from outside looking in real estate they think, well, this is such an easy thing. I can do that. I like properties. Um, it's Olga, can you please save my number? Whatever you need to buy or sell, please call me. How many of those are actually calling you back? Hi, Mr. Are you selling your property yet? We value what we own, what is us, what we we have is way more than something that we don't own yet."
+    }
+  ]
+}

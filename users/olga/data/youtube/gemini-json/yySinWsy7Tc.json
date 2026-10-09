@@ -1,0 +1,36 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Give it another go."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm back. So I'm busy. So we're just been so hectic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "When you are not closing this month, you will still be able to go through that and keep consistency because you are already consistent in other places. However, majority of workplaces, the agencies, it seems like they want to build that family culture. But in reality, if you as an agent not closing in one month, second month, third month, they're going to ask you to leave."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And so we do all these things to make sure this is a space where people want to be. Not just for work, but for pleasure as well. A home from home."
+    },
+    {
+      "speaker_id": "1",
+      "text": "However, if you want really to prepare yourself for all the realities that"
+    }
+  ]
+}

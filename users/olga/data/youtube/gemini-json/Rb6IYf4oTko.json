@@ -1,0 +1,20 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "that saying no yourself to the things that you don't want to have your life. This is how you're going to handle no differently when someone is telling you that. Focus on dial, not responses. This is how you're going to get consistent with just dial exactly same number numbers every day and the result will find you by itself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "master the script. If you sound like every other agent in Dubai, you're going to hear only no. Comment script below and I will send you the latest best cold call script I yet created."
+    }
+  ]
+}

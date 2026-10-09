@@ -1,0 +1,680 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Okay. Done. Cool. First of all, well done. For being 20 something."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's 21."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, I'm just 21 is like, first of foremost, um, you've been born here, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Um, so why real estate?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, when I finished school, I had like a lot of circumstances happened with me, so I was forced to go to Syria to study. I went for one year, but I saw everything there, the atmosphere, the vibes, and I didn't like actually anything. My family was in a bad financial, let's say, situation. So I was forced to come here again and study and work. Uh, it was like by coincidence, I worked in admin in a real estate company. And then, yeah, I shifted after like four months of working as an admin to a broker. It was like two years ago."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Okay, cool. I understood that. Um, I calculated your commission as well. Well done for closing 10 million deal from the social media leads."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, yeah, it's Google Ads actually."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It just doesn't matter. It's still kind of social interactions. Someone who never heard about you, doesn't have any kind of understanding. What about the other two deals? The Imtiaz and The other two deals were from my social media. Your personal social media."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which one? Instagram or TikTok?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "TikTok."
+    },
+    {
+      "speaker_id": "1",
+      "text": "TikTok. Mhm. Okay. And how many leads on average are you getting from TikTok?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Actually not that much. My TikTok account was generating a lot of very low ticket leads. You know, because actually it was poor marketing. Now, I'm trying to improve it like step by step."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Because you've probably been talking about this type of project. I don't know exactly the number."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Have you been as well talking about the kind of cheaper properties, no?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm trying to"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think the network is unstable."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is it delaying a little bit, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is it better now or not?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe from my phone, it's better. Yeah, yeah. For now, it's better."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, cool. So, you mentioned cold calling in your, um, question. So how do you get leads usually?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, from our company, it used to do like for two, let's say, two years, uh, campaigns on TikTok and Instagram, so I have like 400 leads in my system. All right. So I call them, I see what is the update, you know, about the situation. Now, a lot of them canceled the idea, a lot of them delayed, a lot of them are afraid. But it is not only about the client himself. I can find that there is a problem with me connecting with the client emotionally, break the ice with them, know how to communicate in the right way with them, you know. This is the thing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Sometimes I find that Yeah, sometimes I find like if I'm talking with an investor who already invested like before, have a lot of properties, I find like maybe him is in a higher status than me, you know. That's the thing. So"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because he is. He is. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh-huh."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, I I find like every word that I should say should be like studied, should be right 100%. I cannot go like any word that that's wrong because he will ghost me at the end of the day because that's his totally right because he's investing with million and he has already a portfolio."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Now, I'm asking you right now, I want to have the coaching moment. Um, have you heard yourself saying this? And that's why we're recording, I want you to rewatch this session again."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Whose problem is actually is this? Is this the problem of this investor or it's your problem that you're already canceling yourself for him?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "My problem."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right? And it's so funny because right now I'm, um, I'm going to be recording sales confidence video in like, it's for my YouTube channel, it's the next one. I was like, yeah, everyone, everyone needs this confidence in sales. Okay, cool. Let's do this. I want to see from inside how you communicate. Let's imagine I'm I'm one of your old leads. You're calling me. I'm going to be a normal person. I'm going to be role play. You are an agent, and I am a client. I want to see what you're doing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, let's try."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Ring, ring."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Hello."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hi."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hi, is it Olga?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, it's Olga. Who's this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's Ammar. I'm just calling regarding the request you made a while back, possibly looking into Dubai real estate. Do you remember this?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, probably some time ago. Yeah, yeah. Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I was just calling to see if you found what you were looking for or if you're still looking."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, actually we kind of postponed the idea."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, do you find that now it's not the right time for you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, kind of."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why is that exactly?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, you know what's happening to the world. It's going crazy, there's bombing again happening. So just, I don't know if Dubai will recover after this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So for you, I found that your request was like seven months ago. It was like before the war happened. What was your main goal of investing, let's say in real estate, not in Dubai market itself?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, I just wanted to put some money for the future, like not much as a, um, a rental income, more like ability to kind of grow this money and sell the property maybe in like three, four years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. And what do you think the difference for it now is happening in Dubai market life? Why do you think that's now it's not the proper time?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, because I I think that the prices will go down more. So either you will wait or maybe the Dubai not going to be a thing at all. And if the people going to move out from here, then to whom I'm going to be selling my property in three years?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. So, let's stop for here, Olga. You know, I want to hear from you how to handle those objections also like it's not I want the like two sentences to memorize, I want the mindset how to handle those objections."
+    },
+    {
+      "speaker_id": "1",
+      "text": "First of all, well done. I can hear you have a good phrases put together. They're flowing. So probably it's similar to what I'm teaching. So probably you got my script as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I I saw the course. I already been uh studying the course for the last two months or three months, maybe, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. I can see that you're really studying it. So, you, I don't know if you notice it, but if if there will be other clients from my coaching, they would say, oh, he's good. He's really good. Like look at him. Because you're good. But that's exactly what is the next step is understand where are we going now? So let's"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Before I will give you the answer, I want to understand what's happening in your head. What information you've got about me right now?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I got information, but there is something I will tell you honestly, Olga. That thing is when I'm asking the question, I feel that maybe the client will close the close the line, he will not continue the call or he find me like I'm investigating with him. I'm not really trying to find the answers to help him."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I cannot feel it being a client. I would tell you if that was obvious."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh-huh. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You are not rushing, because the client can, like I never spoke to you before. I can feel that something is wrong in this conversation. If you are, if your tonality is off, if you are speeding up, if you, um, uh, uh, uh, like, but you're good. You're just you keep going. You have a very good, um, initial setup of your tone of the voice and the cadence, the speed of the way you speak. It's good. It's very hard to train if you have it wrong. Possible, but hard to train. But you have it already good."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Second of all, yes, that may happen. Yes, all of this may happen. The person can be angry because his wife is divorcing him. Yes. What Now I'm going to give you the mindset piece. Unfortunately, I would not be able to change with you in one or two months even because you're only 21. Your life experience is what is needed to have this composure and steadiness in yourself."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. I get it. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But you're getting it really fast, right? And the way you look and the way you sound, I would never say, I I understand that you're a young guy, but I would never say that you are 21. Which is plays on your side right now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, first of all, I have to be disconnected from the outcome. I have to already gave up. Yeah, the client might not be even interested to talk to me. And it's fine. I'm going to survive for that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So you're getting with this, like, um, in my coaching, sometimes I'm giving the task. Go collect the noes. It's very difficult for you guys, I'm talking about young Arab guys, because of the culture you've been brought is very much pro masculinity. If someone will feel, or someone is saying no to me, that's personally disrespecting me, just"
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's very right. That's very correct."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And the the thing is, even if I'm going to give you now the logical explanation why it's wrong, it's not going to change the way you feel inside every time you hear no. You have to have an experience of living through that. What I mean, I want you to as a first task, that I will write to you, 20 noes. Not in the sales situation. I want you to go in your normal life, the easiest way is you go to Starbucks or whatever you you get your coffee. You can go to the place like there is surely you you buy certain drinks from a certain place all the time and they might know you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ask them, can I get this time for free? I'm buying for for so long from you. Can I get this one for free?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They might say no. Ask for the discount that you're not supposed to have. Ask for some ask for things that you know people are going to say no."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You can try with strangers. You can try you you can even give If that's going to go weird, if that's going to go weird, it's like, look, I'm sorry, I didn't want to upset you. That's my favorite one. If you heard me saying this, like if something goes weird into the sales situation, there is two ways. I'm so sorry. I didn't want to upset you. I'm so sorry. I didn't want to confuse you. You're saying, I'm so sorry. I didn't want to upset you. It's actually, uh, a task I've got from my coach. Just to get myself through the sales process. I'm sorry, I didn't it was just like a task I have to collect 20 no."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And the person going to was like, oh, okay. Oh, that's not serious. The goal is to put yourself through that. Uh, why are you doing this? For you to have in body experience. The person is telling you no, and you are surviving. Nothing happens."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Yeah, I get it. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's not embarrassing, it's even if it's embarrassing, you survive through embarrassment. Nothing happens."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If if you ever heard or ever seen this, um, um, pickup training when the guy's been told how to kind of get the girls, this is one of the first stages. They they're telling them, go and talk, go get the number from the most beautiful girl walking in the street. And of course, she's going to say no. And then your assignment, like talk to 20 girls. Beautiful. You know they're out of your league, you know they're going to say no. But you get desensitized."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So that's I don't want you to talk to the girls. My good wrong here in Dubai. This type of things. This this get the shift inside of your body. So you need an experience of you getting the no and surviving through that. And every time, like the problem with, uh, this type of feeling, it might not cure it in one go. It's going to get better, you're not going to feel this way. But then after three, four months, you're going to get back to feeling this way. So you have to go and collect another 20 no."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I get it. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, okay. So, don't don't believe that, oh, it's just like, boom, magic spell. Now I can do it. No. It's not like that. Unfortunately, I wish it could be like a bicycle."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Same, same, same, same. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So you have to train it. So the next thing, like, look, who is this person? You're talking to me. What do you know about me?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know, if you're lead in my system, so I will just read like, he's from, let's say, Italy, German, uh, US. I know the country, I know some information about the culture and how these people like to deal with."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. But now you had a conversation with them. From this conversation, what do you know about me already?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I know you were interested before in real estate, you want to put your money in something that will generate for you rental income and to grow your money over time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Rental."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, you remember you said that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, I told you that I want to price appreciation."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, yes, yes, I remember. You said like, I want to grow my money, uh, in real estate."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And sell this. And sell that after. Price appreciation. I said specifically this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, I was focusing, you know, on other things."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Always, I mean, like literally always have a notebook in front of you and just just write things down because you're not only interested in remember the the the information, you need my words, how I said that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh-huh. Okay. Yeah, I get it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If I would say, um, I want the price to grow and then I'm going to sell it, you don't say price appreciation. You say growth of your price."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Focus on the vocab that the client is saying."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, you remember some, I mean, probably because you're looking at the sales trainings, uh, the methodology of 40 years ago, zig-ziggler training, just something that Dr. Anand is using a lot. Is basically repeating what the client just told you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah. I do it every time, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Don't do that. Don't do that. That's just annoying thing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, okay. I get it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's annoying thing. A lot of people are doing it. It's like, no, stop it. Because all of these techniques then been they've been around for so long. So everyone knows about them. My dad knows what rapport means. He is 73 years old, he doesn't speak English, he knows what rapport means. He was never in sales."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You got me. So the people they understand, like, what are you trying to For you, when you're saying, it's hard for you to get rapport with people, because rapport is basically finding similarities. You're 21 years of age. How you can find similarities with someone who is 40? It's not possible."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's not possible. There is no need to And when we are building about talking about authority, I want you to think, this is what I'm talking about my trainings as well a lot. Um, the doctor has a fantastic authority. He doesn't need to break the ice. He doesn't need to do anything."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. But you know something, Olga, I was talking with my manager about that thing exactly because she heard some of my calls. She's telling me you're acting like a doctor or engineer, you're not acting like a salesman. And sometimes you need to act like a salesman to connect emotionally with the client. It doesn't work like 100%."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What does she mean exactly? What what what does it do? She say, oh, great, thank you. You're such a, oh, you're such a good man. Oh, you're experienced."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, not bad things actually. She she's literally so good at this because she's she told me like exactly that sentence and it's like in my mind. It's you're not a customer service, you're a salesman at the end of the day."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So how to connect?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "This is something she told me like in the flow of the call. It happens."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see, this is what the sales managers are doing. I'm not don't want to talk anything against of them, but the reality is that they don't have a methodology to teach how to do that. So they're saying generic phrases, which means something for them, but nothing for you. Because when someone, oh, you have to build the trust with the client. And I'm just like, okay, so what should I do exactly? How? Like, tell me one, two, three, what to do?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly. Exactly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So I will look, when we are talking, fortunately or unfortunately, the clients now, they don't want to give you the time to build the rapport with them. Because they know what you're doing. If you're going to rapport is talking about everything aside of the sale. Talking about, oh, which country are you from? Oh, I've seen it's a good weather over there. Oh, yeah, I've been here. But you haven't been there. You don't know anything. You're going to fake it. You cannot do that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I cannot do this actually. In my personality, I I can see that this is fake, even if I do it. That's why I don't do it even."
+    },
+    {
+      "speaker_id": "1",
+      "text": "There is like, and the client is just like, sorry, but like, what is this about? Like, what do you want? He's going to get annoyed because he knows about rapport as well. So instead of this, the same as you're going to the doctor. You are showing them with your questions, which you did perfectly fine right now. You just don't know what to do after. That you're actually professional. And majority of people, at least serious clients, like those who are really looking for an options, and these are the clients which are outside of Dubai. They don't want to talk to someone who's going to be, oh, you love fishing, I love fishing. No, no. No, I mean, I know that I don't have anything probably in common with you. Besides that I need your professionalism. And I can understand your professionalism because I've been talking to other agents, and what the other agents are doing is like, oh, yeah, Mr. Client, Dubai is now the great place to invest. And I'm just sitting there, just like, um, okay. Yeah, of course, you're going to say this because you want to sell me something."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, the next step with me, again, you understood that I want to, uh, to grow the an actual asset cost. Yeah. But that's a different."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And you're afraid of the market and what's happening now in the market and the legal tension, and you're afraid that the price is going to go down in the next, let's say, couple two to three years."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The reason that you don't know what to do after is that in your mind, I'm giving you my concern and my objection. And if you as a human being, not as a sales person, as a human being, believe that this is a valid concern, you will never be able to overcome my concern, overcome my objection with me. Because you believe it's true. So basically, I have to like lie to you, which is not who you are. So first of all, you have to sell yourself Dubai. Up to the point, look, if we're talking about from someone from US or from anywhere in the world. What else they can do with money? Like what else? Whenever they're going to put the money into, which brings them profit, outside of Dubai tax-free environment, wherever they're going to bring put their money into, they will have to pay from 50 to 40, minimum 30% tax to the government. So despite of what's going to happen in Dubai, whatever's going to happen there is worse. This is the reality. So I have conviction. It's not about them at all. I am so convinced that this is the place which is better than whatever they can imagine. Because I know, uh, in Thailand, there is no freehold ownership proper one. And the government can change whatever rules they want, and they can take the property off you. You will never get any residency with your ownership. Bali is not a freehold, it's all leasehold and 25 years max. Or Cyprus, overpriced, there's no much happening there anyway. The sales is very low. What are they going to do? What else are they going to go?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Nowhere."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Nowhere. What are we going to do? Yeah, yeah, that's that danger. Yeah, but the life the world is a dangerous place. Things changed. So this is my setup, you know. I'm going through this setup."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I get it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What I want to do, what I want to do with this lead, realistically, your goal when you're approaching old leads is to kind of crack them open and understand, is there anything there? Is there anyone alive? Like, do you have anything going on with you, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, if the person is 100% terrified and no, no, no, and blah blah blah. Okay, you you cannot do anything, like really. In in this case, what I would advise you, so if the person is saying, yeah, well, you know, I'm kind of delayed the decision, and I'm like, not going to do anything, and blah, blah, blah, blah, blah. I would tell him, like, completely understand that, respect that. Completely understand and respect that. Uh, as you know, with this current situation, sometimes we do have, um, a very, like, opportunities that are too good to miss. Do you want to completely me to forget your number and and and never ever like call you and and send you anything? Or if if I have something which, uh, potentially will match your requirements, I still should send you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So you're here, you see what I'm doing? I'm playing on your greediness."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm playing on your greediness. And see what they're going to say. You can you can frame it as an in a message as well, in a text, if you're texting. Oh, no, the situation, blah, blah, blah. Or, with this specific case, I'm talking about the current situation, you can preempt if you're talking to the old leads, even to the new ones, right? You can pre-enter this concern because you know the concern is going to be there. Majority of people are concerned. So, this is a framing technique. So, what is a framing technique? Is basically, that's what I teach on my mentorship, because it requires a little bit more of kind of brainwashing. So, um, I need the client to take on a new identity. Yeah. Meaning, on this specific moment, I want him to become someone else on the moment of conversation. Okay. And that's that you can practice again, not even in your sales environment. You can practice it with friends. It's not manipulative. It's it's just a technique. You can start the conversation with, like, hey, hello, Ammar. Um, I know you've been potentially looking some time ago. Have you found what you're looking for, or are you still looking? Oh, no, I'm just kind of gave up, or blah, blah, blah. And you can say, like, look, completely respect that. There is always going to be, like, two type of people that on the market. Uh, one is the those who believe the headlines, they they get concerned, they get bullied, and some sort of follow the the trend what the government wants them to do. Uh, and kind of waiting for permission, the situation is back to normal, somehow. And there is another one. They they kind of more like independent thinkers. They they see the opportunity and they are there to make money. So, so which kind of one are you at the moment? Which camp do you think you are closer to?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. I I get I get the point."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So your point is, you're bringing in, you don't have to be that direct if you don't need to. But you can be direct. Why? Because if he's there and then, oh, no, I am the one who is just completely just, realistically, okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But isn't that question will hurt the ego of the person himself?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't care. I'm going to challenge his belief. Because sometimes this is like, if we're in the sales situation, he's going to listen to me. If he's going to feel that whatever I said is different and makes sense. So if it's not a typical bullshit sales, oh, the transaction increase and blah blah blah. He, I want him to change his mind. I'm going to challenge him."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's the thing. When I was when uh we were doing like the role play, and I told you for now, I don't know what to say. In logic, I know exactly like what's going to happen. I can explain for him the cycles that happen in Dubai. I can explain but this is something that will never, you know, reach a solution. I want to know exactly how to, you know, to get to the point."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We're going to role play that again and you're going to be me, I will show you because I don't I don't like to, oh, you'd say this. I will show you how to do that, okay? But the first one, I want you to understand, you can reframe him. And then if he say, no, I'm that one who's going to wait for permission that the situation is safe now, and then I'm going to go back. You can say, like, uh, look, respect your decision, and you, you know, you're not going to make any move if if it's not going to make financial sense for you, right? So, at this point of time, do you want me to kind of completely never text you, never call you, or if I will have, let's say, an opportunity which is too good to miss, with a like the higher financial growth potential, do you still want me to send it your way, just for you to to see?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I'm playing here again on his greediness. And that's, look, when you're saying that direct, why he why do you think it's upsetting him? I get it because like you you're talking with a person, like, this is like FOMO, fear of missing like opportunity. You know? Yeah, but then there's like, you know, there are some people who are like this, and you know there are some people who are like this. And I could, so for what do you feel, like, which which position you're currently more inclined to?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think if someone's telling me this over a phone, I will tell him, thank you. I will call you when I'm interested. You know?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He was not interested from the beginning. Ah, okay. I get it. So, it's an old lead. It's old lead. You don't want to waste your time on this person. If he's not there. Like, we can still, you know, we we can still believe that, you know, I close my eyes and run. Everything is going to be great. The lead is talking to me. And and then you waste, how many times you wasted weeks and weeks and weeks and nothing happened?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "A lot. That happens a lot."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do you want to keep doing this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, of course not."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So now is the time where you can be a little bit more like, if you don't want me to ever bother you, you completely forgot about the opportunity. Yeah, that's fine. Just tell me. I'm not going to do that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So let's role play and I will show you the the other way."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Can we do one thing before the role play? Yeah. Uh, yes. Not today. Today I've like three, I'll have the call, uh, from those numbers in the system, okay? So, I told him like exactly the same. He told me, yeah, I requested before. It was like seven months. I already bought. So I asked him where did you buy exactly? And he told me, yeah, I bought in JVC and I bought in Dubai South. I told him, great. Uh, then I told him like, what's your thought now about the market? So, we talked for a bit, and he told me, what do you have good opportunities for now?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, the thing when he asked me, what do you have good opportunities? I told him like, it really depends on what exactly you're looking because you already, uh, have some properties. So, now you're building a portfolio. That means like, each property will serve you in a different way. So, he told me, yes, let's have a call by evening. The thing, Olga, when somebody asks me, what do you have good for me? Okay? Some of them likes to be direct, like, like, I have one, two, three, four. But I don't like to go this way because maybe I'm going to pitch something that he doesn't really want. But some of them doesn't want to ask him, ask, ask, ask, ask, ask. What what do you do in this situation? Like if I'm telling you, what do you have good for me? Or what do you have good opportunities in the market?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm saying exactly what I'm teaching. It's like, look, it depends. And I know that there are going to be hundreds of agents who are answering this question. They're going to just bombard you with 55 different listings and location. You're going to look at that and it's like, no, it's all bullshit. And I don't want to be one of them, and this is not how I work. Because what is good for me, or what is good for your neighbor, might not be good for you at all. You have a different perspective. So let's, and then I start qualifying, where do you want to be with your property portfolio in five years?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Like, we could talk about a number of units, and we can talk about the amount that you want to be generating. Because you can get it from one unit. Or if you want the flexibility of getting partially liquid, meaning selling one unit, it can be several units."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So let's imagine the future, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I mean, of course, how can I Because he doesn't know what he wants. That's why he's talking to you. He doesn't know what how He doesn't even know how to verbalize this. Because what humans get used to, this is the property, is it with the sea view or not? Oh, yeah, well, the price is too high. That's the level of their communication. They are not able to to step up and understand, okay, what is a diversified portfolio looks like? Even."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Like, for for example, for a balanced portfolio, like the basic math, there should be a cash generating units, meaning something which is giving a good rental returns, which is GVC he already got. And then there is a potential price appreciation, which is probably the unit in Dubai South, that's what I'm looking for. Then, depending of the budget, we need to If this is both apartments, we need to add on townhouse. Because this is what diversification looks like. And the townhouse should be, let's say, in an area which we 100% know, we're going to go up in price. Because in townhouses, there is no rental yield, substantially, it's like, whatever, four, five% at at most. But the price appreciation, definitely is what why the people are buying it. So, you're going to tell me, yes, this is not a behavior that's going to be the prices. Just like, yeah, possibly. Possibly. What could what could be we might not have any price appreciation, or even a slight decline. However, with the previous market cycle, when we haven't had this exposure of Dubai, we haven't had exposure of social media, from 2016 till 2020, uh, the prices were actually going down. It's not just on corona, the prices went down. And we basically lost on average 40% of the prices within four years. So, the worst case scenario, and of course, we're not losing it 10, 10, 10, it was more, kind of five, seven, and then it was more. You potentially can look at the market, and I'm not telling you to buy now anything. But would that be useful for you to, for example, select couple of options, select couple of areas, and maybe give it a look, how they're going to develop within the next three to four months. And I'm happy to get back on this conversation in like, three or four months time, and I will show you the numbers. Would that make sense? For your goal is, you're building your pipeline. Not everyone is closable on the first call. Probably no one. And specifically in this situation. I get it. But I want him to see you as someone who is, whatever happened, if I'm going to ever buy the property in Dubai, it's going to be Ammar. That's it. So, there is no magic spell, unfortunately. Do this, and he's going to buy it. Of course, of course, yeah. And out of out of this conversation, on my my on my presentation with him, I would say, like, but when you were looking at the gold, um, what was your like, the main consideration? What was like, maybe objections, like, what you were thinking, why not to invest in gold? What are the downside? Because you already have to know the downside. Because there is definitely a downside. Otherwise, everyone's going to be investing in gold and making so much money. For sure. Cool. So, we're done?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. 1 hour 30 minutes. So, it's like, uh, not tomorrow, the next Wednesday."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Wednesday, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, all right. Uh, not tomorrow, the next Wednesday."
+    }
+  ]
+}

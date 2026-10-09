@@ -1,0 +1,1256 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 3,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, um, the goal is, when we are doing the cold call, complete cold call. We need to break the pattern of each and every person who called them before to show ourselves as a a bit different agent. The same way the pattern interrupt, right? will work for us, letting them feel that they have power to say no. Right? So, instead of us I've been afraid of rejection, we're kind of inviting them to reject us. Right? That's why the the script that you have going to sound something like this. Um, hi, is this Arina? Uh, hi, Arina, this is Olga. And I'm not sure if that's the right time, but I was hoping to ask you something really quick and then you decide. Should we continue this conversation or no? Fair enough? So, this pattern interrupt, I'm not sure if it's the right time for you, but I was hoping to ask you something really quick, and then you decide. So, the keywords here is and then you decide. So, I'm empowering you to decide. Should we continue this conversation or no? Fair enough? I have to ask them, fair enough, they have to agree. Okay, what is it about? Right? And then we are getting into like, um, I'm working currently with a pre-approved mortgage buyer who is looking for two bedroom. And I believe, do you still have the unit in XYZ?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then we are starting from there, qualifying and going into details. This is very important. And this pattern interrupt will change the quality of the responses. And everyone who was using it, they've been literally reporting to me that it's 90% different in what they had before in terms of I'm not interested, no, stop calling me, blah, blah, blah, to the conversation that they had. Okay? So, who is ready to start? Who's going to be the agent?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I can."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Me."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, Miriam, you're more fresh. Arina. boiled by me, she's saying. I was boiling her."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, Arina, you're going to be you're going to be, um, a owner of Villanova, right? Three bedroom townhouse?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Me?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, you're going to be the the client, potential seller. Yeah? Okay, let's go?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hi, Arina."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hello, who is this?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is Miriam. Uh, I'm just calling you, uh, sorry, this is Miriam calling you. I just wanted to ask you something really quick and you can decide if you want to continue this conversation or not. Is this fair enough?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Why are you calling me?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm just calling you regarding your, uh, townhouse in Villanova. Do you, um, do you still own it?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, what is this about?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, I currently have a pre-mortgage, uh, uh, I currently have a mortgage uh, approved mortgage buyer and, um, he's looking and I'm just looking for options for him. Are you, what's happening with your property? Are you currently like planning to sell it, renting it out? What is happening with your property?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, I'm not planning to sell it. It's rented."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Miriam, if you feel that you don't know where to go, we always can stop. We are not in a rush, no one tell us to go fast. If you're like, okay, I'm stuck, what should I say? What should I ask?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Are you stuck?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm stuck in the, yeah, like it's rented because you know, all my script I'm mainly like focusing on the sales part and on the."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, it's rented. Uh-huh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so it's rented, so would you be totally against the idea of, uh, selling your property if the price is right for you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, if the price is right for me, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, and uh."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Start qualification."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, so what what would be your, uh, expected price, selling price?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, you you're the professional, you're calling me, you tell me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Currently like the the townhouses type A like yours are transacting for 3.6 million. Would that price make sense for you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, I will not sell anything less than 4 million."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I'm stuck, Olga."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Look, are you curious? Ladies, ladies, no worries, no worries. Let's let's let's it's okay. It's okay that you're stuck. Of course, you're stuck. What do you think? You're just going to go straight away. Ladies, who knows how to dance, I don't know, Bachata? Have you ever tried, have you ever been in a dance class?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How does it feels?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Very uncomfortable."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In the beginning, yeah, very very awkward."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, why would you expect it's going to be different here? Yeah?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "True, true, true."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The person who is teaching you how to dance was learning the dance the same way. Exactly the same way. There is no other way. There is no someone is like, okay, I know how to dance Bachata, I just watched the video, that's me dancing Bachata the same exact as on the video. Right? So, perfect. She pushed you. What she did? Or you're professional, you tell me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You kind of agreed with her. Yeah. And then she's telling that she's not going to sell for less than 4 million. Do you know anything about your unit?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "If I know anything about her unit?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, at this point."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh-huh. Yeah, yeah, you know something about your unit?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, the type, the type."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And that that's enough? That's it? That's enough for you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Type, single row, something like that, corner."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Will that be a possibility that some unit is going to be sold for 4 million?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "If it's Let's say if it's a single row, corner unit, that will sell more."
+    },
+    {
+      "speaker_id": "2",
+      "text": "If it's upgraded as well?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "True."
+    },
+    {
+      "speaker_id": "2",
+      "text": "True. But I don't know if she is upgraded or not. I have no idea about your unit at this point, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, I will say, you know, potentially we can discuss it. Is there any specific reason you are you're looking for 4 million?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, now she's going to protect and she's going to say why she's looking for 4 million. What do you think she's going to say? If she's going to say, oh, no, it's exactly the same as everyone else, but I'm looking for 4 million. Now you know that this is a seller who is not a seller yet. Fantastic. We got our lead into our database and she's going to be potentially be a seller. What else you need to find out? She told you the unit is rented."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, how much is rented for? For how long?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, now you know all of this. Let's proceed. Arina, set the say the last thing that you just said."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm not going to sell it less than 4 million."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What what were we just talking about? Yeah, yeah. Sorry, I'm just like."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Take your time. Please."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is there any Is there any particular reason you want to sell it for 4 million?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, I did a lot of upgrades. I changed everything in the bathroom. I enlarged the living room. It's a completely fresh villa now. Also it's furnished."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That sounds fantastic. Uh, and you you mentioned you were you were renting it out. May I know, uh, I removed this, Olga, sorry. You just mentioned that you were renting it out. Uh, how much are you renting it for? And for how long?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I don't know how much is the rent in Villanova."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Any number. I don't know, 10 dirhams."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No problem."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm renting for 200, but, uh, I don't know, my tenant will stay or not. I didn't give him a notice."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All right. Um, so since your, uh, townhouse has been renovated and you have done a lot of work and investment on it. And would it make sense if I bring you a buyer with in this budget of 4 million for you to sell it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Miriam, you don't have a buyer. Don't forget about this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But that's why if Yeah. If I find some No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, stop, stop. Forget about the buyer at this moment. The buyer is needed for you, ladies, to be able to push through in the beginning. Now, if you're going to keep conversation about the buyer, she's going to say, okay, bring me the buyer then. What are you going to do?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You're not going to bring the buyer. You don't have a buyer."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And that's fine. You don't look, you you had a pre-approved mortgage buyer who was looking for a certain budget. She now told you it's 4 million. Like, are you are you some sort of a magician? You can pull the buyer out of the cup. Oh, okay, 4 million. No problem. Let me just."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If it was like this, wow."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's that's how we make them believe, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but you you don't have to think about it like this about yourself."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You you are not a puppet for the seller. You're not his puppet. He's not like, okay, so that's I'm just looking for my buyer if your unit is make sense or not. Perfect. What do you think is the next step?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So now I know all the information, like she's like, she's not she's not."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you know she's listing this unit with other the agent or not? Do you think she's actively trying to sell? Or you're going to assume?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. But initially she's saying she's not selling. So I still ask, okay. Are you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would I would ask it. I would ask it. And you know how I would ask it? Let me help you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not to ask personal."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. I know you told me that you are not actively selling, but have you been maybe communicating or maybe listing your property? Just don't want to assume. You see?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Yeah. So, so."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Go ahead."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Arina, I know that you're not actively, uh, marketing your property, but are you, uh, are you listing on any portals? I just."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I listed my property like with three agents, but I didn't have any results, so now I don't want to list it anymore."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Perfect. You see, we got there. If we would not ask this question, we never got to the experience that she had before. Is this important for us?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, of course."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course. So, what is your next question?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "My next question would be, uh, asking her about the, uh, so what, uh, about the performance of the other agents, like something like."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would very good. Fantastic. But I'm not going to give you the cues that it's all about the performance because we know it's not only about the performance of the agent. What I will ask her, how do you mean, um, how do you mean that was advertised but not sold?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh-huh. How do you mean?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, how do you mean that it was advertised but not sold?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, I don't know, these agents, they just came to pictures, they listed, and then my contract finished after three months and I didn't get, I didn't have any viewings, nothing. I don't know what the agents were doing, to be honest."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "There was only one agent who brought me one client and we tried to call but I don't know, something went wrong."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I know we Sorry, parenthesis, Olga, I remember we discussed like how I can bring the marketing plan, what I can do for her now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's too early, too early, too early, too early, too early. You need her, like, look, here you need her to understand and change your mind and ideas that it's not about the agents only, right? Yeah. But with this, like, what do you know already? Yeah? Let's assess what do you know about this person."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. First."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, I know that she does have interest of selling it because she has been listing it for three months. So, it's been a long time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Also, you know when was that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, she said three months."
+    },
+    {
+      "speaker_id": "2",
+      "text": "When? When?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, three months, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, when? Do you just recently, five years ago, two years ago, I don't know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I know, I know, I don't know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Uh, she upgraded she upgraded the unit."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's it's rented."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's rented, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mm-hmm. Perfect. So, coming back to the we collected all of this, yeah? Coming back to the work that the other agents did and that the other one agent brought her a client, right? You being an active agent on the market, on average, if you will list now the property in Villanova with the market price, which is attractive for the buyers, how many viewings, how many inquiries of the actual buyers you will have per week?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, maybe like Yeah. Should I give a number like three?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mm-hmm. So, those are out of out of this three, how many will be eligible for the viewing?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe like two, one or two."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, you have this information now, right? So, we're operating with this information. Ask her a question."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because you have to ask her a question. She told me she had one viewing in three months."
+    },
+    {
+      "speaker_id": "1",
+      "text": "One viewing. Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, how many, uh, sorry, I'm just like. One viewing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ask her about this. Ask her about this. Yeah. Why why only one viewing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ask her about this. Ask her about this. Yeah. Why why only one viewing?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, that's simple."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Simple."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah. I overthink a lot."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No worries."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You're like me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Sorry, Arina. Why why only one viewing?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I don't really know. The price we listed it was 3. at that time it was 3.8 last year. We listed 3.8, it was vacant, but I don't know why only one viewing, to be honest. The agent brought me one client only."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe he didn't do a good job. I'm not sure. You agents, you have to do it better."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, so Arina, what I do for my investors, actually, I have a marketing background. So, I."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Too early, too early. No, too early. Too early. You have to establish a pain. Look, you you got into the pain. Yeah, yeah, yeah. Talk about this, talk about this experience."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah. Uh, so I."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you want me to show you quickly?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, sorry, Olga, I'm not like."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's fine. That's fine. Like, um, like one viewing in three months. Well, I just want to don't want to assume anything but the listing that I put on the market and the way I market the listing it's literally in the minimum, I would say it was like three inquiry and out of the three inquiry, we had two qualified buyer. So, we're like two viewings a week. Um, rather than, let's say, maybe your agent not being the way they have to be with the professionalism. What do you think might be the reason of, you know, the your property haven't sold?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I don't really know. I don't know. It was vacant."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "It was vacant. The price was 3.8. It was not upgraded at that time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mm-hmm. But what about the other properties, uh, which were in competition with you? Have they been sold?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I saw my neighbors, they sold, I think, yeah. They sold their properties a bit lower than I was asking."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Lower?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Maybe 3.6 or seven."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mm. Okay. Well, potentially might be a case?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Maybe. But then I upgraded my unit. Now it's rented."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, of course. Yeah, I see. Uh, and, uh, back then, you were just trying to sell it because of the the price were good, or what was the reason for you to sell?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I just wanted to get into another investment. But then I decided to continue renting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, uh, do you still have an idea if you potentially will sell this unit, you will be interested in getting into new investment? Or what's your plan now?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "If I sell it 4 million, if you bring me a client, what's who would like to buy it 4 million, it's okay if he is a mortgage buyer, no problem."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I will invest into other projects."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Which one is on your list? I'm just curious."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I usually invest in Dubai Hills. So, I want to invest in Dubai Hills."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Is there any specific reason why Dubai Hills?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Because I know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You see what I'm doing, Miriam? I'm just going behind her. Yeah. Questions which are relative to what she told me. And she feels very comfortable in this conversation, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's amazing, Olga."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because it's just it's just not Okay, is there any reason to buy Hills?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, I most of my friends invest in Dubai Hills as well. So, we they're making good capital appreciation. That's why I want to change from Villanova to Dubai Hills."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Look what I discovered just now. I'm just going to dig deeper into that. And what about the capital appreciation in Villanova? What what what was your initial purchase price?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "My purchase price I bought it not off plan. I bought it as a resale."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "So, I bought it like 2.8."
+    },
+    {
+      "speaker_id": "2",
+      "text": "2.8, okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "When was that?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Three years ago."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Three years ago, okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I don't know what I'm talking about."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Doesn't matter. And there what what is like an average return of investment of where you calculated it probably, if you're looking to Dubai Hills, I don't want to assume. You can generate with the investment into Dubai Hills?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I can generate within three years, I can definitely get 60% return on what I invest."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And over here, it will be would I would I assume a little bit less?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mm-hmm. So, you see what I did? Yeah, yeah. So, this is something I can work on. And I'm this is a cold call. I'm not going to go further. And I'm I just went further because she's communicating with me, right? So, now I'm going to wrap up the call. And I would say, okay, Arina, what I can do for you, if you'd like, um, I will ask you to send me the pictures of your unit. I I I believe you have it if you rented it before. Right? I will work on my, uh, uh, current buyers. I will see who will be at the point of, you know, 4 million, it has to be an end user who's going to fall in love in your property, right? Yeah, but in terms of you're saying it's rented, uh, in terms of viewing, how is it with your tenant?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, my tenants, they can do viewings only on Saturday and Sunday. Saturday and Sunday."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, of course. We don't want to bother them, that's for sure. That's it's important to keep a good relationship with the tenant, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, he's a good tenant. I don't want to bother."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so, so let me work my magic. And I will give you a call maybe in two days. Um, we're going to be on Monday. Which time is better for you on Monday?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Monday like, uh, 2:00 p.m. is fine."
+    },
+    {
+      "speaker_id": "2",
+      "text": "2:00 p.m. is fine. And just for us to keep this connection, because I know we have had lots of calls from the agent. Would that be okay if now I'm going to WhatsApp you? My name is Olga again. And you will be so kind to save my number. And then whenever whenever I will call you with a potential offer, you will be the one who's picking up. Can I can I count on you to do that?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, you sound like a nice person. You can do it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, perfect. That's it. You see?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Wow."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Closes in the loop. I close in the loop. I don't want anything from her. I'm going to text you. I'm going to ask you to send me the pictures. I'm going to look at the pictures. I'm going to try to understand the the property better. I'm going to go and check the similar unit. She's not advertising it with anyone. But I'm going to go and check with the similar unit. And then when I'm going to be doing the marketing plan for her, what hopefully the next time I'm going to call her, I'm going to maybe, uh, invite her for a meeting or or something. If she's not going to be yet for a meeting, but that's going to be my future plan. She doesn't sound like a really motivated seller for me yet. But at least I will have a conversation. You see, I have more meat into my next conversation. Dubai Hills, she wants this, she invested, uh, three years ago, 280. I can do a lot of this information with this information for my next call. Make sense?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Cool."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ladies. Very good."
+    },
+    {
+      "speaker_id": "3",
+      "text": "It's very good."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't want you to now compare what I'm doing with what you're doing. You you're just looking at someone who've been teaching how to dance Bachata for years, being a professional dancer himself, winning the competitions. And you just came to my dance class and you're getting upset that you do not dance the way I dance."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you just amaze all this person that yeah, of course, because I on a different chapter. That's why we're here. But was I the same place where you were? Yes. Did I walk up one day and I had all of this magic skills in me? No. So, the way we teach to dance, the way we teach to talk with the sellers or buyers is the same way, move the leg, move the arm, move this one the same. Repeat, repeat, repeat, repeat, repeat. Cool. Miriam, that was that was very good call. Because we it's the first time we're role playing. We're going to have more of that. That's why it's going to be easier for you, ladies. Right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's that's a great idea."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then you can connect with each other, more than happy to do a group of three of us, just for the role plays. And for, you know, more more chit chat and conversation that we have. And you can even connect without me. And have a role play. It will be easier for you after some time when you will hear, okay, so that's what I did. I shouldn't be doing this. Arina, what do you think I should do? I forgot. I don't know where which question to ask. You see?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, yeah, yeah. It was exactly the same. When when you gave me this script before, it was difficult to change the way I'm thinking to into this one. It was very difficult. But now I kind of already have the script in my mind. It's just I just need to make calls, make it. Just sit and make it, that's it. Because I have this in my mind. We role played with you a lot."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Arina just recently had a fantastic call which she told me, oh my God, it was such a bad call. But I that was actually a fantastic call. So, she got the unit out of the client who is off market and the first thing he told her, do you know that calling cold calling is illegal? He was really angry."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm listening to that and I know her a little bit and she is a very soft and sensitive person. And I was just, Jesus Christ. I'm looking, there is a long long line of recording, right? And I was like, oh my God, she had a conversation. I would expect the Arina two and a half months ago will just drop out of the call immediately. Just, boom, that's gone. But now she just she just was calming him down. She was asking the right questions. She was not she didn't stop. It was not even a slight feeling that she is scared in her tone of voice."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And it's amazing, Olga. But what would you say when someone tell you, you know, it's illegal? So, what would be your next, uh."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm so sorry, I'm so sorry, didn't mean to upset you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Look, I'm only saying two things to people to remove the sales resistance and to calm them down. It's one thing. I'm so sorry, didn't mean to confuse you. If they actually, why are you calling me? Who is this? And blah, blah, blah. Why are you asking these questions? And if someone is upset, I'm so sorry, didn't mean to upset you."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The natural reaction on the other side is like, well, I'm not upset. Because no one's going to tell me, oh, you upset me. It's a weakness. Oh, you confused me. No, of course I didn't. I'm not me confused. No, no, I'm not confused."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I had people before who reported me. I had this. Yeah, yeah. I don't know, maybe because my number, because I'm using my personal number, not the company number. My number is not registered, that's why they cannot find me. But I remember before, it was like last year, when they I was scared for weeks, I couldn't do anything at all. I was just like at home. Like, I don't want to work in this sphere at all. Now when she said, I will, it's illegal, I will report you. I'm like, it's okay, I'm sorry, I'm just doing my job. Like, if you don't want to talk about it, we can just stop, no problem."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, that was exactly what she said. Did he stop?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, he didn't stop."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Why? Because it's a pattern interrupt. You see, they feel they they have a power to make decision either to continue or to stop. Why are they angry? If you don't give them this power. Hi, I'm calling and you have a unit here, are you looking to sell? I don't want to be in this conversation. You're pushing me to be in this conversation. You see? And when you're going to start using this pattern interrupt and the gaining agreement in this way or any other way of them to be in this conversation, how can they report you? I told you, no, once like we can stop."
+    },
+    {
+      "speaker_id": "3",
+      "text": "They cannot report you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I told you, no, once like we can stop. He said, okay, tell me what you called me for. Exactly. Okay, ladies, switch. Arina, now you are the agent. Miriam, you will have, um, a four bedroom apartment in Dubai Hills."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know there is only 18 of them. Am I correct?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, it's a very rare type of a unit. In all Dubai Hills, there's only 18 apartment for four bedroom."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, you kind of a little bit knows up. Right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Mm-hmm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Breathe in, breathe out, ladies, starting."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hi, Miriam."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, who is this?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hi, Miriam, this is Arina. Um, I'm not sure if it's the right time to call you, but I was just hoping to ask you some questions. Um, is that okay if we continue this conversation?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What is this about?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, yeah, I'm just looking for a four bedroom apartment in Dubai Hills and there are only 18 units. Why I'm calling you because I have a pre-approved mortgage buyer with whom I'm working currently and his request is quite specific. So, I was thinking just to give you a call and see if you still own this property."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, I do."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right. So, um, see, um, would you be open to discuss a potential sale of this one?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It depends on the price."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, just before going to the price, can I ask you a question? Are you living in the apartment at the moment or it's rented?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's currently rented."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right. Um, and how much is it rented for?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "300,000."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right. And do you know if the tenant will be moving out from the property because we need something which is vacant or vacant on transfer?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, the rent will be over in two months time. Uh, and I did not give him official notice. So, I might renew the contract. I'm not sure. It depends if I sell it for a good price."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, I see. And how long has this tenant been renting from you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's being, uh, so now 10 months."
+    },
+    {
+      "speaker_id": "3",
+      "text": "10 months. And, um, well, see, my client, they really want to buy and move in. So, I just want to understand, are you in good relationships with your with your tenant?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, yes, actually, I am."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, so do you think like if, um, let's say, if we go and see the property and the buyer likes it, do you think we can kind of negotiate with the tenant to move out earlier if I find something for him? Do you think it's possible like since you've been in relationship with the tenant?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "To be honest, it's a family, you know, four bedroom, they have two kids, they're going to the school next door, so they have to do the arrangements. So, I'm not sure they will move straight away. Uh, but, uh."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But I can I can I can have a chat with them."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, good. So, yeah. You you said you have a buyer. So, what is your buyer's budget?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, so let's just, uh, have this opportunity to talk to them. My buyer's budget is around, it's it's a it's a market price. Actually, I don't want to give the price now because I don't want to I I want to align with your expectation. Could you tell me like, do you have any expectation on the price?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, you know, as you mentioned, it's very rare this property and, uh, my apartment is fully furnished, uh, with like, uh, super high-end Italian brands. Uh, I upgraded everything as well. It's on the high floor. The view is unbelievable. So, actually, my expectation for this is 5 million."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right. Thank you so much. Well, I'll talk to him about this. But can you tell me, is it possible to view the property? Like what is the viewing arrangement with your tenant?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, usually during the the weekends on Saturdays, they're okay for viewings after 11:00 a.m."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right, great. Uh, Miriam, just for me to understand and for us to work more effectively, do you really want to sell this property or or you're kind of, you know, trying to see what price you can get in the market? Have you been trying to sell this property?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you want to re-ask this question?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Sorry, Miriam. Yeah, how long have you been trying to sell this property? How long?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, to be honest, I have shared with few agents like two months ago, uh, just to see what kind of, uh, prices I can get for my apartment. Uh, if it's around 5 million, I want to reinvest in a in a villa in a in a field project. Uh, so, so I'm thinking, yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, have you listed this property? I'm sorry to interrupt, but I just want to understand, have you listed this property online? You said you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, actually, I because I'm not a first time investor. I have a huge network of agents. I always work like with the same agents. I mean, I have and I just share all the details directly with them."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. And have you got any viewings, any offers so far?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, I got one, uh, one viewing and, uh, then I did not hear back from the from the agent. Uh, they said they said, I mean, he said that they went ahead with something else. Uh, yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You didn't hear back, like, what do you mean? Do you think that something that the buyer, you know, didn't really."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ask the question. You didn't hear back, what do you mean? That's it, stop it."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You didn't hear back, what do you mean? Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's a fantastic question. Stop it."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, well, the the agent said he was waiting for the feedback from the buyer and then he said the buyer is not answering anymore. Okay, I see. I'm not sure what the feedback was. Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right. And, uh, what was the price at that time that you gave it to the agent?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Still 5 million. It was just, uh, two weeks ago. Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right, great. So, um, well, what I can do now is I would ask you to send me some pictures and some details of your property and then I'll communicate with my buyer and then possibly, you know, come back to you with, uh, some feedback. Is that okay with you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Sure, sure, sure. I have photos already. So."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, good. Can I send you a WhatsApp message?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Please, go ahead."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right. Thank you. And I think for now that's the only thing I need."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All right."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Perfect."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Miriam, what would you say?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, she's very good. She's so good with the flow, really. Arina, you're doing so well. Because no matter what I'm throwing at you, you just like so composed, you know? Yeah. And you just keep you just keep going, keep going, keep going, you know? It's, uh, it's not easy. You know, because for me now it's I'm trying to think about the loop and I should not say this, I should say that and, you know, like, but you're really like, uh, going with the flow. It's it's really good. Because I felt it was a easy I felt it was a easy conversation, like, no matter, like, you know, I'm I'm just like 80% of the sellers I don't want to I'm just working with agent off market. And but you were so composed about it and relaxed and at all. Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm trying. But are you making the calls now? No, but like are you calling people?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, uh, I started calling, uh, people, not as active as, uh, as I wanted. And, uh, I'm still doing a mix of WhatsApp and calls. If they don't answer, you know, because not all of them answer. So, I'm."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I know what you I know what you Yeah, yeah, yeah. I'm doing the WhatsApp. But first also I'm so scared like you, you know, I'm just like, uh, really filtering my data. I'm checking every single name if it's not an agent, if it's not is not in real estate industry. I'm so scared because I got last like last year, so even this year, I I sent even a video to one guy. And it was the wrong name. The wrong guy. And he was so upset. He was Emirati and he told me, my name is not Mohammed blah, blah, blah. It's he wrote me in Arabic. I sent it to my husband. What is he saying? So, I got so scared from that, you know. I'm trying to think out of the box. Uh, but but I think the the advantage also for us, somehow, I think a lot of people are scared of cold calls. So, I don't know a lot of agent that are doing that. So, maybe now people who are doing really get the result because very few agents are doing now. They're very scared. In my office, I don't hear cold calls, you know, for example."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, yeah. I don't hear cold calls in my office. I don't hear them at all."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm doing cold calls at home because I cannot do them in the office. And Olga, maybe she told you what I'm doing. Maybe seven calls per day, and only two conversations."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But it's good. You can get connected to two. It's not bad at all, you know?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Trying."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. But Arina, really, you're like, uh, I mean, you have that flow, you know, like, yeah, you just keep going, keep going, keep going, you know? It's good."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I don't know, one month ago I was, I don't know, how I was."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, I'm in that stage with Olga like, uh, uh, uh, uh, I need a break. Uh, uh, uh, uh, you know, my brain is, uh, frozen brain, you know, like, because I'm trying to integrate everything. And have it in front of me. So, if when I call, if he do that, at least I have the paper, so I know that how to go back, you know? At least to help me in the first calls until it becomes natural to me. But I'm not in that stage yet. I need to make way more calls. Okay, so now I'm trying to do it. Okay, Arina, what I'm trying to do, it's to record my voice and put it in my car. When I'm driving, you know, the script, so I'm very good at when I listen to something, you know, like I will remember, you know, and at least it's automatic. Like I know for this, I should use this question. So, when I will be in the conversation, I'm popping that, you know, I will picked up on this and that."
+    },
+    {
+      "speaker_id": "3",
+      "text": "How I was doing like with Olga. I have couple of clients and for every client, I was putting a specific script and only then I was calling like Adam. Oh, yeah. For every client, I had a specific script. So, this is not to forget to ask something and this way it helped a little bit."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Arina, what I'm doing now, I'm segregating like, with Olga, we went through like a lot of like, uh, role play. So, for example, if the objection will be this, those are the three sentence I can use. If it's that, if we're talking about the price, how I will ask about the listing. So, there are those three things. If you ask me about off plan suddenly and I want to go back to this proper unit now like secondary market. How do I jump back? So, I'm trying to to segregate by, uh, by by, uh, topics, you know? And have it in front of me. So, if when I call, if he do that, at least I have the paper, so I know that how to go back, you know? At least to help me in the first calls until it becomes natural to me. But I'm not in that stage yet. I need to make way more calls."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You need to give me your calls."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, yeah, yeah, yeah, yeah. I'm I'm I have one, uh, recording I will send you. Uh."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. But you know, it's great that, uh, that you I mean, this is the best thing, you know, that you can record and we get feedback and all because sometimes we don't know what's blocking us, you know? But there's that fear for sure. That fear of cold calls is there and to get rid of it. So, a lot of work. Internal work. Internal work."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Internal work."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But you know, we're very self-critical, you know, like it's our nature, especially, I think, women even maybe more. So, we all have this, you know, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's why we need each other to support and to show what we're already doing great. So, now Arina, you have two females are telling you from the two different setting points that you are doing great. But it's not enough. It has to be a third point, which is deep down in you, who is telling you that you are doing great. Yes, exactly. But that's going to be a combination. Okay, cool. Arina, then you, uh, jump out from the call. I'm going to be stopping recording."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "if the marketing agency reached out to you and said, oh, don't worry, we're just going to have a little bit, we're just going to create a campaign for you. They're probably going to take your money and you're going to be sorely disappointed. If you have this idea, you're not getting into, oh, someone going to give me the leads. You're going into lead generation, training and recruitment business."
+    },
+    {
+      "speaker_id": "2",
+      "text": "As long as I believe in business, as long as you don't fail, you don't succeed, right? Are you trying to sell it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, I'm not trying to sell it. Seems like we are back live. Uh, Olga Sinenko, real estate sales trainer here with you in Dubai. Honestly, we are, which floor is this? 29th. 29. I know you cannot see that, but behind the cameras, it's a stunning view of Dubai Marina. Maybe we're going to show you. And Usman with me, who is a top billionaire, trillionaire performer. He recently purchased his second Ferrari. What was that? Did you go for the green or blue one?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, the model cars, yes, the red one."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, it's going to be second red Ferrari. Okay, if you want to know a little bit more about Usman, he is four months in real estate. He already closed a deal. We have a long interview around 15 minutes, was that? And probably we're going to attach it somewhere here or the description of this video. And today, now, we're going to have some sort of question answered. Usman always has a lot of ideas on how to make more money in real estate. And now I'm going to I don't want to say it's going to be a shark tank, the show from yes, but something similar to that. So,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, so I always uh come to Olga with uh stupid slash brilliant genius ideas to make money in Dubai because I see I've seen people change their lives from businesses and, you know, overall just Dubai is really rewarding if you're hard working, I believe. As compared to many other countries where you're just not on the spotlight. So, first my idea that I came to uh came to you a while back was that I should open my own marketing agency in a third world country, which is going to be cheap, which is going to be not working on commissions, they're just going to be having a salary and they're going to be happy in that. It's not like I'm going to be, you know, exploiting them. So, that would give me another whole group of people, a team of people just working for my brand, which is me, Usman, a real estate agent in Dubai, who's selling off plan or secondary or whatever, whatever type of property I have. So, that would be giving me direct leads and then I would be able to close more."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, um, I'm going to ask a couple of questions just to understand that the mind process. When you say in the marketing agency, we are not talking about like the marketing in terms of digital marketing, that's a direct cold outreach towards the potential possible clients and that. No, it's going to be both, right? So, it's going to be digital marketing because digital marketing is obviously effective a lot. Okay, so you're going to have um someone who's going to be running ads, creatives. Okay. And the cold callers."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's going to be both, right? So, it's going to be digital marketing because digital marketing is obviously effective a lot. Exactly. And the cold callers. So, the cold callers, it's going to be like uh you get a database of people who who want to invest in Dubai or. Yeah, okay. No, in Pakistan. Okay. Yeah. So, they're just going to be calling up people and in Pakistan, my people speak amazing English. They're fluent in it. They know how to close. They're doing sales since childhood. Even I, I started selling cars at the age of 13. So, you know, a lot of people like me in Pakistan. So, they're going to be start reaching out to people and as as long as they qualify some one, one person, they're going to be giving me a qualified lead. So, they already know that someone reached out to them from my team and now they're going to be having a final meeting with the guy who's actually present on on site. So, it's going to be two different teams who's going to be working for me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, I would say the the digital marketing team, um, and you're not the first one out of the agency in my coaching who are coming to me with ideas and recently had um, a consulting um, session with a UK-based um, future agent who had a brilliant idea that he's going to be generating the leads from UK. He's going to be talking to them and then in collaboration with several agencies in Dubai, those agents are going to be closed. So, the the problem that I see with, let's put it like there is a outbound type of the marketing, so it's a direct cold outreach, which you can control and you can, let's say, have an stronger KPIs in terms of how many calls they should be doing, how many conversion usually as per agent, um, they should be doing based on, you know, the past statistics. So, this is one part of the business. The digital marketing part of the business is always way more trickier, specifically if you're dealing with the smaller budgets. Like it's all now in the current lead generation marketing in the company, uh, in in Dubai, when the company is running, I would say at least 150 to 350,000 dirhams, which is around $100,000 per month. So, let's get back to this digital. What was in your mind, the number that you will be plugged into the digital marketing lead generation?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, first of all, the main expense is running the Google Ads, right? And the meta ads. So, how much you were thinking to spend on Google Ads? A couple of thousand dollars, obviously. And then, yeah. Couple. Yeah. Like two. Yeah, or three. At the start, yes. Maybe, yes. Then see where it goes because personally, I'm not from the marketing side, right? So,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, this is you you are, you know, if we will put your brain uh on the on the plate, I don't want you to imagine it, but if we will put the out of the brain or the percentage wise, how much percentage of your brain would you dedicate to marketing? Like 1% of my brain, for example, knows about marketing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, well, probably like that. Yeah. Probably. Probably."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, in this case, um, I would say the learning curve for you to be able to hire and evaluate the marketing team that you're going to be dealing with and then to understand why we spend so much money and why the leads are so shit, it's going to take you a couple of more months. In reality, uh, and that's what I'm saying to literally everyone, there are two different approaches. There is a meta leads, so basically campaign that you run on a Facebook or Instagram, and there is the Google Ads. With the Google Ads, you create landing pages with the keywords and you pay for those keywords to be showing on the top. So, now, let's put it this way for the Google Ads, you exercise your purchasing power with the company like One Broker Group, with the company like, um, I don't know, Emaar, Damac, um, Townhouse, Metropolitan, X Capital. And I would be probably 100%, 1000% sure that they do have way more marketing budget to spend than you. So, that means only for you to run the ads in terms of understanding which creatives, which messages, which headlines going to work, it's going to take you minimum 100,000 dirhams, which is, let's say, well, 30, 40,000. Without you spending that budget, you will not even be able to evaluate because the budget is too low. And if, guys, I'm telling it to you, sorry, I'm just talking to you. If if if the marketing agency reached out to you and said, oh, don't worry, we're just going to have a little bit, we're just going to create a campaign for you. They're probably going to take your money and you're going to be sorely disappointed. Yeah. So, now get back to the cold calling. How you're going to set that up? The cold calling team."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Cold callers, just people with good English, they reach out, give them a script, your script."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. You're going to have your script. Okay. So, if they've already been doing cold calls and to shift them to my script, it's a little bit more complex."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Send them all of your videos for free. Okay. Videos. Okay. We've done it. And then, uh, just give them the script, give them a call manager, so they have the buy number and just ask them to call, start calling. As much as they call, at least if they dial 1000 numbers, one would respond, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, let's imagine they they've got the the client who is potentially interested. They say, hey, yeah, well, I potentially can have a Zoom meeting. What's going to happen next?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "They're going to set up a call with the sales manager, sales manager, me. Yeah. Okay. And they're going to send me the link, set up a link or me, I'll I'll set up the link. We're going to have the then I'll have a Zoom call with the client and then understand what what does he want to invest, what are his pain points, why does he want to bring in his money into Dubai if he's not already into Dubai. Uh, just make a connection with the client and then go on forward, obviously."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Um, the the second lead generation structure in my understanding is more financially proven. Because there are people, their KPIs is to do XYZ amount of dials, they cannot say how much of those dials going to be successful. You introduce a bit of a system, the additional cost in this system going to be CRM, because you will need a CRM. You will need to run a CRM. So, that's technical stuff. You will need to understand the the call manager plus the call recordings because you want to listen and review those calls. So, guys, what I'm trying to tell you, if you have this idea, you're not getting into, oh, someone going to give me the leads. You're going into lead generation, training and recruitment business."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but let me cut you off there. There are many companies in Pakistan which are BPO companies. You just go to them, you tell them, this is what I want. They already have the hired people working for them. So, you just give them the script, tell them a little bit, give them a training, a month's training maximum. And they're going to start doing something eventually. And as long as I believe in business, as long as you don't fail, you don't succeed, right? So, I won't know what works and what does not work for me until or unless I actually try and execute something."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, this we kind of step down instead of you hiring all of this team and setting up the business model for yourself. So, you're just buying a service where you will be able to train the team, you will be able to evaluate the work. You still going to have some plugin CRM system because the Excel sheets you're just going to lose the control out of it. This I see as a the option of potential system. However, I am immediately warning you that for you to successfully run this model, you will need to have an assistant. You will need to have an assistant who's going to be following up with your current clients, who's going to be sending the messages confirming your meetings because if you will really going to start getting busy with all of this calls that you will have to do and you not run a proper follow-up and you not run the the creation of the offers and the next meeting and someone is not hand holding you through the process, you're going to fail. So, that is immediate still investment. So, you have this team, for example, you got them on a package, XYZ colors, XYZ amount of dials a day, and then you got yourself an assistant, maybe in Dubai, maybe not in Dubai, maybe remote, who will be your right hand in handling all of the process because again, this is a lead management business. Taking into consideration that you're getting the clients, they're not buying now. Because those clients are cold, they're not yet in a position to buy. They're not clicked on the ad, which was a first idea of lead generation. Exactly. However, that can work. What the first step forward for you is to evaluate, um, get a couple of offers from the companies which are providing the services. Understand what will be, I mean, I would say add plus 25% on that. Double check the the actual quality of services that they're delivering. Yeah, because you can get in touch with the past clients, so you find some references. Definitely. And then maybe jump on a Zoom call with the team that you potentially will hire and see how good they are. And I would say, yeah, that might work. This system might work."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How do you feel? What what do you feel you're going to be ready for?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, as soon as I close a deal or two, yeah, definitely. Because right now, these are all potential business ideas, Olga. It's not like something that I'm going to be doing right now. Because I'm really new into real estate. I don't want to, you know, get really, really, you know, be all over the place. Right now, my company is working as a master brokerage. I want to be dedicated to the company. I want to do what they're doing and, you know, just excel in that first and then, yes, I I have my I want to work on other streams of, you know, generating leads, potential business ideas, blah, blah, blah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Was that helpful?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, very helpful. Definitely. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, um, as I'm saying, in a year time from now, yeah, the beginning of September 2026. What do you see yourself with this idea or other ideas? What would be your, um, let's say, realistic and then optimistic?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, like you asked me in the beginning of the interview, what color is my Ferrari, then yes. You're going to show me the Ferrari. Yeah, then I'll. Is it optimistic or realistic? Why not realistic? Huh? It's achievable. I mean, yeah. It's achievable. But my question is, do you really want to put this money into Ferrari? And why not? I love cars. I mean, yeah, but I love cars. But it's it's about I mean, even if I rent a Ferrari. Okay. Let's say, for a week, for a week. That means that I have money to spend on a Ferrari. No? Whom would you want to impress? No one, just buy it just just for myself. I love cars. Ever since a young age, I've been really passionate about cars. So, the price that you will give yourself is the Ferrari. Whatever it will be. A week. Not Ferrari, a 1970 Dodge Challenger. That won't depreciate even in the Dubai market. Because where I come from, automotives appreciate. And over here, they depreciate and all over the country they depreciate all over the world they depreciate. But a Dodge Challenger 1970, that's my dream car. Maybe just because the currency devaluating as well. Yeah, that is. I mean, that's just I cannot imagine the car is appreciating. It's basically the currency is devaluating. That as well, plus back home, we don't have that we didn't have that many options before. We didn't have that many roads as well. No, no, no. We we have amazing roads, trust me. Oh my God. Yeah, yeah, yeah. Pakistan is really developed. I'm talking about my country. It's just like a calls and bumps. No, no, no. The place I come from is Islamabad, which is the capital. It's one of the most beautiful cities, capital cities in the world. It comes it's ranked number seventh. So, it's green. It has amazing wide roads and it's just Pakistan is great, to be very honest. Even people have super cars as well. Are you trying to sell it? No, I'm not trying to sell it. I'm not trying to sell it, but it's my home country. I love I love my country. I love that you are very passionate about this. Oh, yes, 100%. Okay. So, what's the last thing you want to say to the agents who are watching this video and they maybe have a hundred of millions ideas of how to do this or I want to do that and what if this marketing? To be very honest, I personally have not invested something into a business, so it's too soon for me to say like, don't do this, do do that. But let's say in real estate when I came in without a salary, me being alone here and, you know, you need money to survive, obviously. So, I took this risk. So, I would say to everyone that keep on taking risks. Sooner or later, something might work for you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Better sooner than later. Yeah. Thank you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Thank you, Olga. Lovely."
+    }
+  ]
+}

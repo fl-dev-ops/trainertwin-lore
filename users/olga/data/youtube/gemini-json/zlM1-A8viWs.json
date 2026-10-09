@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "I'm willing to do whatever it takes for as long as it takes. This is important, guys. Because we all get used to dopamine hits, quick results, quick fix. But real estate is a little bit different, right? It's at least six months of going through the pain, right? Learning, pushing, creating relationship with the client, and then the pendulum going to swing and then you will have results. If it swing faster, that's fine, but you will still have to push it."
+    }
+  ]
+}

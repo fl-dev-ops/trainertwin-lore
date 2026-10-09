@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "It's very tough and rejection dense business, which is not for everyone. And the success simply going down to the numbers of conversation you have daily with potential clients, potential clients, not just everyone. There is a lot of noise coming from the networking, and the social media, and we can do this, and we can generate leads, and better even to go to off plan where the leads are falling on you. where the company is providing all of that. Reality is going to be still the same. Wherever you choose a off plan, or wherever you choose a secondary market, you will have to go and prospect yourself proactively, generating conversation with decision makers, preferably sellers, because who owns the stock, owns the market."
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+channel_url: users/olga/data/loom/loom.yaml
+total_videos: 42
+videos:
+- id: 5912cd3e872a4a1f890a56983f4c9583
+  url: https://www.loom.com/share/5912cd3e872a4a1f890a56983f4c9583
+  title: 'Olga & Ahmed. role play. '
+  upload_date: '2026-09-01'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Ahmed
+- id: db963070e64d4be7a632ba678024d69e
+  url: https://www.loom.com/share/db963070e64d4be7a632ba678024d69e
+  title: Role Play session. 31.08.2026 Jacob and KJ. Its too expensive
+  upload_date: '2026-09-01'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 3
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+    '3': Speaker 3
+- id: f201870d8c62496ea6a6ff69f36ff937
+  url: https://www.loom.com/share/f201870d8c62496ea6a6ff69f36ff937
+  title: Roley Play Osama and KJ 1. 12.07.2026
+  upload_date: '2026-07-12'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 3
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+    '3': Speaker 3
+- id: a4390d0ca7024503b0bb33fe3c422bbc
+  url: https://www.loom.com/share/a4390d0ca7024503b0bb33fe3c422bbc
+  title: Roleplay Training and Payment Plan Videos
+  upload_date: '2026-06-19'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: c40dbbed444c4d378898e614f5c33484
+  url: https://www.loom.com/share/c40dbbed444c4d378898e614f5c33484
+  title: Building Client Frames to Secure Referrals
+  upload_date: '2026-06-10'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 7947c61cfae24c27b02fe30c345d46a8
+  url: https://www.loom.com/share/7947c61cfae24c27b02fe30c345d46a8
+  title: Session 3. Osama. How to Build Buyer Pain and Fear
+  upload_date: '2026-06-05'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 3a0e269f3d2b42678687b0d42264c235
+  url: https://www.loom.com/share/3a0e269f3d2b42678687b0d42264c235
+  title: 30 min Strategy session Natalia. 02.10.2026
+  upload_date: '2026-10-04'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 320aed5b951848ae982e02da82170d29
+  url: https://www.loom.com/share/320aed5b951848ae982e02da82170d29
+  title: Холодные звонки в недвижимости, практика и скрипты
+  upload_date: '2026-10-04'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 72256217db1445f9b70e53be8e62b485
+  url: https://www.loom.com/share/72256217db1445f9b70e53be8e62b485
+  title: 30 min Session  Olga and Karina 23.09.2026
+  upload_date: '2026-09-23'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Karina
+    '2': Olga
+- id: 1ddaa7cff1d34df7a09594e4de58e517
+  url: https://www.loom.com/share/1ddaa7cff1d34df7a09594e4de58e517
+  title: 30 min Session Olga & Mila 23.09.2024
+  upload_date: '2026-09-23'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 8f63ab4c487444a79bc9699470362e95
+  url: https://www.loom.com/share/8f63ab4c487444a79bc9699470362e95
+  title: 30 min Strategy session. Elvira 17.09.2026
+  upload_date: '2026-09-17'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 5e55a68f3951461784b74c37d43c3089
+  url: https://www.loom.com/share/5e55a68f3951461784b74c37d43c3089
+  title: Strategy session 16.09.2026 Olga & the Three Musketeers
+  upload_date: '2026-09-16'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 4
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+    '3': Speaker 3
+    '4': Speaker 4
+- id: 5260303e0e814255b842203979b08bf6
+  url: https://www.loom.com/share/5260303e0e814255b842203979b08bf6
+  title: 30 min Strategy session Amir. 15.09.2026
+  upload_date: '2026-09-15'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 2c969b3aad534d2e8ac14d84af623a6d
+  url: https://www.loom.com/share/2c969b3aad534d2e8ac14d84af623a6d
+  title: 30 min Session Sergey. 11.09.2026
+  upload_date: '2026-09-11'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: fd4fa0e6a0c345ef8ab173db398a41b9
+  url: https://www.loom.com/share/fd4fa0e6a0c345ef8ab173db398a41b9
+  title: 30 min Session Noham. 11.09.2026
+  upload_date: '2026-09-11'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 1
+  speakers:
+    '1': Speaker 1
+- id: f288376c0b3945e5806b1e80387b65f5
+  url: https://www.loom.com/share/f288376c0b3945e5806b1e80387b65f5
+  title: 30 min Session Madiha. 11.09.2026
+  upload_date: '2026-09-11'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: ee5ec992bb3a4a6a869b14ba810ca282
+  url: https://www.loom.com/share/ee5ec992bb3a4a6a869b14ba810ca282
+  title: 30 min Session Olga & Ayanda
+  upload_date: '2026-09-09'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: c72a58343798470a82d296379aab8d17
+  url: https://www.loom.com/share/c72a58343798470a82d296379aab8d17
+  title: 30 min session Olga & Christopher. 09.09 2026
+  upload_date: '2026-09-09'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: b4b71525d4134acd868b3e7306813efc
+  url: https://www.loom.com/share/b4b71525d4134acd868b3e7306813efc
+  title: Session Maaz & Olga. Leadgen cold calling. 01.09.2026
+  upload_date: '2026-09-01'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: ff3e178f51b347f0b123c18f47b63bed
+  url: https://www.loom.com/share/ff3e178f51b347f0b123c18f47b63bed
+  title: Olga & Ahmed. First call role play. 01.09.2026
+  upload_date: '2026-09-01'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 58ca0280cdac4607925441e85cc26187
+  url: https://www.loom.com/share/58ca0280cdac4607925441e85cc26187
+  title: Session 3. KJ Case study with client cases
+  upload_date: '2026-06-30'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 09a0e0504fbf4775b995f578001e442e
+  url: https://www.loom.com/share/09a0e0504fbf4775b995f578001e442e
+  title: Session Ammar. 14.07.2026
+  upload_date: '2026-07-14'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 34dee810cc3b411c883b9162bb57b03b
+  url: https://www.loom.com/share/34dee810cc3b411c883b9162bb57b03b
+  title: Sos strategy session Olga & Mari 21.09.2026
+  upload_date: '2026-09-21'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 013a898ce8564a769e1324be2d85c726
+  url: https://www.loom.com/share/013a898ce8564a769e1324be2d85c726
+  title: Session 1 KJ. 05.06.2026 Types of Clients
+  upload_date: '2026-06-06'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 06550570710e44ebb94dd4d86073aefc
+  url: https://www.loom.com/share/06550570710e44ebb94dd4d86073aefc
+  title: Session 1 KJ. 05.06. Overcoming Camera Fear and Building Brand
+  upload_date: '2026-06-06'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: c2e9ee0c21f94f1680ed215ef3717cbf
+  url: https://www.loom.com/share/c2e9ee0c21f94f1680ed215ef3717cbf
+  title: Session 4. KJ 08.07.2026 Part 2
+  upload_date: '2026-07-09'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: dc9f0a4895ed4f55a5dba92066d7012b
+  url: https://www.loom.com/share/dc9f0a4895ed4f55a5dba92066d7012b
+  title: Zoom session 1 Arina 05.10.24
+  upload_date: '2024-10-05'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 077e55f513384c08bcb6a7310de9c509
+  url: https://www.loom.com/share/077e55f513384c08bcb6a7310de9c509
+  title: Zoom session 2 Arina 12.10.2024
+  upload_date: '2024-10-12'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 9ae3109369444c66ad54384ca85228c0
+  url: https://www.loom.com/share/9ae3109369444c66ad54384ca85228c0
+  title: Basic Hunting Script. 21.05.2024
+  upload_date: '2024-05-21'
+  description: In this video, I will go through the basic hunting script, focusing on the tone of voice, cadence, and facial
+    expressions. The goal is to have a two-way conversation and sound curious. I will provide specific exercises to improve
+    articulation. No action is requested from the viewers.
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 1
+  speakers:
+    '1': Speaker 1
+- id: 04e0f31be0334e2f8207f48e9932b496
+  url: https://www.loom.com/share/04e0f31be0334e2f8207f48e9932b496
+  title: Arina Zoom session 3 19.10.2024
+  upload_date: '2024-10-19'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: c4ee6ce30e2949149491b041e266c293
+  url: https://www.loom.com/share/c4ee6ce30e2949149491b041e266c293
+  title: Price reduction pre-set strategy. 19.10.2024
+  upload_date: '2024-10-19'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: c347cf5d74784db5947ace036bffa4ae
+  url: https://www.loom.com/share/c347cf5d74784db5947ace036bffa4ae
+  title: Zoom Coaching session 26.10.24 Arina
+  upload_date: '2024-11-02'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 55cc843dfee340a3b4959f7afe996321
+  url: https://www.loom.com/share/55cc843dfee340a3b4959f7afe996321
+  title: Zoom Coaching Session Arina 10.11.2024
+  upload_date: '2024-11-10'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 54789992020449c3868974c384b35a97
+  url: https://www.loom.com/share/54789992020449c3868974c384b35a97
+  title: Cold Calling After WhatsApp message. 10.11.24
+  upload_date: '2024-11-10'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 1
+  speakers:
+    '1': Speaker 1
+- id: 6bf95dffe11847daaf26a4cab1a6df69
+  url: https://www.loom.com/share/6bf95dffe11847daaf26a4cab1a6df69
+  title: Zoom Session 16.11.2024 Arina Full session
+  upload_date: '2024-11-16'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: c0f886f438b04a4d8babf05a5a704e99
+  url: https://www.loom.com/share/c0f886f438b04a4d8babf05a5a704e99
+  title: Zoom coaching session Arina 23.11.24
+  upload_date: '2024-11-23'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 70431ad891094ec0bbc6b0a571c79362
+  url: https://www.loom.com/share/70431ad891094ec0bbc6b0a571c79362
+  title: Session Arina 30.11.2024
+  upload_date: '2024-11-30'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: f9dee49839e74c5ca63947cdefe8f93b
+  url: https://www.loom.com/share/f9dee49839e74c5ca63947cdefe8f93b
+  title: Role play. 30.11.2024 Arina Myriam
+  upload_date: '2024-11-30'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 3
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+    '3': Speaker 3
+- id: 11756ef950014ea1ab1752afb9b4e814
+  url: https://www.loom.com/share/11756ef950014ea1ab1752afb9b4e814
+  title: Session 07.12.2024 Arina
+  upload_date: '2024-12-07'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 3e08f3e2c5ee4a31808e907cc6695cb2
+  url: https://www.loom.com/share/3e08f3e2c5ee4a31808e907cc6695cb2
+  title: Session 07.12.2024 Arina. Part 2.
+  upload_date: '2024-12-07'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 10cd2fde13bc461085cca367d0bd86e2
+  url: https://www.loom.com/share/10cd2fde13bc461085cca367d0bd86e2
+  title: Session Recording 21.12.2024 Arina
+  upload_date: '2024-12-21'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: 9e4c468af1cf418c8c5b947d79c11fad
+  url: https://www.loom.com/share/9e4c468af1cf418c8c5b947d79c11fad
+  title: Session Arina 11.01.2025
+  upload_date: '2025-01-11'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2

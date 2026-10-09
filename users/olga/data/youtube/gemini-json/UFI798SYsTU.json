@@ -1,0 +1,956 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 6,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    },
+    {
+      "id": "6",
+      "label": "Speaker 6"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "just because 16 was saying that he'd been bombarded, right? He already kind of have, and this is another trick that I'm sharing with you. He kind of already have this, oh, I don't want to to meet anyone, right? So instead of us saying a good and positive stuff, oh, would that be a good idea if we could jump on a zoom call? You can just actually say exactly opposite. Like, look, I know he told me you've been bombarded and you're talking to other agents, they were giving you like um information that you were not expecting. Would that be would that be like a completely terrible idea if we would jump on a call and based on who you need in terms of numbers, I will guide you for X, Y, Z. Would that be, would you be totally against of it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see? You see how different it is. What are you going to say? You're going to first of all decreases the resistance,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "a bit, and then you're going to say, oh, well, because he wants to say no. He wants to say no. This is what 16 was saying. Yeah, I've been and but if we we will try that approach,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "we kind of look, if the person going to say us, no, I don't want. My ego is safe, because I actually told you, would that be a terrible idea? Would you definitely disagree if I will offer you to jump on a zoom with me?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then he said, yeah, I'm definitely disagree. I was like, okay, but I offered you. It's it's a kind of anti-rejection technique. There is no rejection, because you cannot reject me,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "because I'm rejecting you first, rejecting myself. Yeah, I'm offering you to reject me, and that's fine if you do."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Cool."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. He was a good client as well. He was not that, you know, he was she was a good client. That's true. He was not that difficult. So,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. Um,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, um, now I know that Angeli and 16 was not an agent. Constantine was not an agent, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "And I was not an agent as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you was not an agent as well. So, let's put 16 an agent,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "and who's going to be the the client? The client going to be, um, uh, yes, Henry going to be a client, right? Henry was not the you Henry you was an agent."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, uh, Henry, can you be a client for us?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Cannot hear you."
+    },
+    {
+      "speaker_id": "4",
+      "text": "If you want, I can be."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, 16 and uh, yeah, yeah. Let's do that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "16 and Krishna back."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah. Let's go."
+    },
+    {
+      "speaker_id": "1",
+      "text": "16 you are the agent."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. Uh, how should I call you by the way? Kubaya for"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Like which one which one is it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Krishna back is the name."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Kushit back, guys. Kushit back. Kushit back. The sun in the sky. Kushit back, please."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Nice. It's just hard for me to pronounce, but I'll I'll try not to it. You can I'm just telling you you can call me O, just in case, just O, just to make it easy."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, you can call me Liam, like that's the stage name that I use. Liam."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Liam. Nice. That's great."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Let's go."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Liam, I like the Liam. M.m."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Hi Liam, it's uh, just 16 here."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah. Uh, who is it?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "So, it's 16 from the OBG and it's about a request you made a while back, possibly looking into investing in Dubai real estate. Um, I'm just here doing some updates in my CRM system, so I called to see if you found what you were looking for or are you still looking by any chance."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, could you please remind me when was it? Because recently I don't remember of me doing something like this, a bit."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, it might have been a while back, but uh we got um a click on the ad you did on the website and filled some information. Uh, that's why I have you in the system here and I'm just doing some updates. So, as I understand, you were looking to buy real estate in Dubai."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Mhm. Yep. Yep, something like this. Honestly, I was looking for overall real estate and uh some kind of ads came up to me, maybe in Instagram or somewhere. Uh, I I don't actually remember. Maybe I might have clicked and showed an interest, but specifically I cannot remember, honestly."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, and are you still interested or was this just back then?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I I'm still looking for some kind of options that's going to be worth my money. But let's see, let's see. Uh, the situation is going pretty hard for me."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Mhm. And so, Liam, if you were to invest in Dubai real estate, let's say, what would be your overall goal with this investment? Are you looking for passive or passive income or a new home for yourself?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yep, yep. It's going to be most probably passive income. Uh, honestly, I'm uh yep, I'm looking for some something like this. Let let's see, let's see. We are we are going to."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Mhm. And are you living in Dubai yourself or where are you based if you if you don't mind me asking?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, I'm not in Dubai. I'm not in Dubai. Uh like uh right now, uh I am in uh UK, uh around London. So,"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, so are you planning to move to Dubai or you're just planning to keep living in the UK and just use this opportunity as a investment?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I don't think for me yet, like moving to Dubai is not an option."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, and just if you don't mind me asking, why would you want to invest into Dubai, not um the UK, for example?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Honestly, that that's the thing that I mentioned, if you remember, honestly, I'm not specifically looking into Dubai. Dubai is, of course, one of uh the options that I've got, but not specifically to Dubai. I I I'm still thinking on that. I don't know. Uh so that's why."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. Um. And do you already have a property, maybe generating a passive income for you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yep, uh, honestly, I don't have a property that's generating a passive income for me and that's the thing that I'm looking for. Uh, I'm I'm looking to have a portfolio, but I'm honestly undecided about it. Uh, because uh I I don't know this fear yet and I have never tried, so that's why I don't know if it's a good good thing for me to try this and take it as a risk. Not even if it's not a big one. Uh, I I would just invest something that I that I have got already knowledge of. I don't know, honestly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Can we pause for a second? Can we pause for a second? I'm not stopping you, 16. We are very you're doing very good. I just want you to think now, I'm going to ask you a question, so and everyone, please be attentive. Identify, what do you have on this client right now? Do you know why he's looking?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, he wants to get passive income, um just as an investment. As I understand for now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do you know his time frame?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, time frame not yet, no."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Do you know what was his kind of hesitation about? You remember, a couple of times he said, oh, let's see, let's see."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, he's missing some data. Uh, he doesn't know something about the data, but I have it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So now you remember, you remember that your goal is at least, well, tell me, is this based on what he said, is this a potential client for is he qualified enough to be booked? I'm just holding my hand like this. to be booked on a zoom meeting?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Well, the thing is, I I think I'm still missing some stuff, like the budget, time frame, and uh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But do you think from his answers now, I want you to have this feeling. Is he a good client to be booked into a zoom meeting?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "To be honest, uh it's uh I'm more skeptical, but I'm still kind of optimistic in a way. So I would try to keep going."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes or no? Yes or yes."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes, yes, yes, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, now think of what next questions, maybe a couple of questions, the smart one you will ask, and then transition him into the zoom meeting."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Ask him when you want to buy. When you want to buy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Are you try are you try to Okay."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, Liam, so you mentioned you're missing some information about investing into Dubai real estate, some real concise information. So let let's dig deeper. What exactly or more specifically are you missing?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I I don't think that I told you about missing anything. Uh the thing, I don't know if you got confused or not, but what I mean here is that uh actually uh I've got some couple of good options and uh I'm a person who wants to be in control. You know what I mean? Okay. Like I I want I want to put my money uh because I'm not you know, that that's not a monopoly money. You understand what I mean? That's something that I earn uh like uh working hard or something. Uh so that's why I want to put it I told you that I'm looking at couple of options, but we are going to see."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, and if you were to make an investment, what would be your time frame?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Like, how how do you what do you how do you mean time frame?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Like, uh when you could invest, for example, or when are you looking to make this investment or when is a good moment when you have."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Start making money. When are you going to start making money, 16? It's not like you landed."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, honestly, that's a really good question that you asked. I've got my money ready in the bank, uh but as I told you, I didn't yet find uh any kind of good options. Like I have good options, but I'm still undecided on that. Uh, so that that that's the thing that I'm having right now."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, Liam, so would it help you if I, for example, booked a zoom meeting with our area specialist who would show you the best options in the market, and I'm sure you would be surprised."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Surprised about what?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "The options."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, like I mean you mentioned you have a couple of good options, but our area specialists have really great options also. So, would it be helpful for you if I did that for you?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Oh, the thing is, uh, I'm just telling you, you can call me O, just in case, just O, just to make it easy. Yeah, you can call me Liam, like that's the stage name that I use. Liam. Liam. Nice. That's great. Let's go. Liam, I like the Liam. M.m. Hi Liam, it's uh, just 16 here. Yeah. Uh, who is it? So, it's 16 from the OBG and it's about a request you made a while back, possibly looking into investing in Dubai real estate. Um, I'm just here doing some updates in my CRM system, so I called to see if you found what you were looking for or are you still looking by any chance. Uh, could you please remind me when was it? Because recently I don't remember of me doing something like this, a bit. Okay, it might have been a while back, but uh we got um a click on the ad you did on the website and filled some information. Uh, that's why I have you in the system here and I'm just doing some updates. So, as I understand, you were looking to buy real estate in Dubai. Mhm. Yep. Yep, something like this. Honestly, I was looking for overall real estate and uh some kind of ads came up to me, maybe in Instagram or somewhere. Uh, I I don't actually remember. Maybe I might have clicked and showed an interest, but specifically I cannot remember, honestly. Okay, and are you still interested or was this just back then? Yeah, I I'm still looking for some kind of options that's going to be worth my money. But let's see, let's see. Uh, the situation is going pretty hard for me. Mhm. And so, Liam, if you were to invest in Dubai real estate, let's say, what would be your overall goal with this investment? Are you looking for passive or passive income or a new home for yourself? Yep, yep. It's going to be most probably passive income. Uh, honestly, I'm uh yep, I'm looking for some something like this. Let let's see, let's see. We are we are going to. Mhm. And are you living in Dubai yourself or where are you based if you if you don't mind me asking? No, I'm not in Dubai. I'm not in Dubai. Uh like uh right now, uh I am in uh UK, uh around London. So, Mhm. Okay, so are you planning to move to Dubai or you're just planning to keep living in the UK and just use this opportunity as a investment? I don't think for me yet, like moving to Dubai is not an option. Mhm. Okay, and just if you don't mind me asking, why would you want to invest into Dubai, not um the UK, for example? Honestly, that that's the thing that I mentioned, if you remember, honestly, I'm not specifically looking into Dubai. Dubai is, of course, one of uh the options that I've got, but not specifically to Dubai. I I I'm still thinking on that. I don't know. Uh so that's why. Mhm. Okay. Um. And do you already have a property, maybe generating a passive income for you? Yep, uh, honestly, I don't have a property that's generating a passive income for me and that's the thing that I'm looking for. Uh, I'm I'm looking to have a portfolio, but I'm honestly undecided about it. Uh, because uh I I don't know this fear yet and I have never tried, so that's why I don't know if it's a good good thing for me to try this and take it as a risk. Not even if it's not a big one. Uh, I I would just invest something that I that I have got already knowledge of. I don't know, honestly. Can we pause for a second? Can we pause for a second? I'm not stopping you, 16. We are very you're doing very good. I just want you to think now, I'm going to ask you a question, so and everyone, please be attentive. Identify, what do you have on this client right now? Do you know why he's looking? Yeah, he wants to get passive income, um just as an investment. As I understand for now. Do you know his time frame? Uh, time frame not yet, no. Mhm. Do you know what was his kind of hesitation about? You remember, a couple of times he said, oh, let's see, let's see. Yeah, he's missing some data. Uh, he doesn't know something about the data, but I have it. So now you remember, you remember that your goal is at least, well, tell me, is this based on what he said, is this a potential client for is he qualified enough to be booked? I'm just holding my hand like this. to be booked on a zoom meeting? Well, the thing is, I I think I'm still missing some stuff, like the budget, time frame, and uh. But do you think from his answers now, I want you to have this feeling. Is he a good client to be booked into a zoom meeting? To be honest, uh it's uh I'm more skeptical, but I'm still kind of optimistic in a way. So I would try to keep going. Yes or no? Yes or yes. Yes, yes, yes, yes. Okay. So, now think of what next questions, maybe a couple of questions, the smart one you will ask, and then transition him into the zoom meeting. Okay. Okay. Ask him when you want to buy. When you want to buy. Yeah. Are you try are you try to Okay. Okay, Liam, so you mentioned you're missing some information about investing into Dubai real estate, some real concise information. So let let's dig deeper. What exactly or more specifically are you missing? I I don't think that I told you about missing anything. Uh the thing, I don't know if you got confused or not, but what I mean here is that uh actually uh I've got some couple of good options and uh I'm a person who wants to be in control. You know what I mean? Okay. Like I I want I want to put my money uh because I'm not you know, that that's not a monopoly money. You understand what I mean? That's something that I earn uh like uh working hard or something. Uh so that's why I want to put it I told you that I'm looking at couple of options, but we are going to see. Okay, and if you were to make an investment, what would be your time frame? Like, how how do you what do you how do you mean time frame? Like, uh when you could invest, for example, or when are you looking to make this investment or when is a good moment when you have. Start making money. When are you going to start making money, 16? It's not like you landed. Uh, honestly, that's a really good question that you asked. I've got my money ready in the bank, uh but as I told you, I didn't yet find uh any kind of good options. Like I have good options, but I'm still undecided on that. Uh, so that that that's the thing that I'm having right now. Okay, Liam, so would it help you if I, for example, booked a zoom meeting with our area specialist who would show you the best options in the market, and I'm sure you would be surprised. Surprised about what? The options. Uh, like I mean you mentioned you have a couple of good options, but our area specialists have really great options also. So, would it be helpful for you if I did that for you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Oh, I don't know, like, why don't you tell me and give me some figures about like that that's going to be the price for this project and that's going to be the um maybe let's say the passive income that you're going to get and uh we're we are we are going to decide on that."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes, I I will definitely send you these um metrics in your email later. But for now, um would it be helpful if we booked a zoom meeting with the area specialist?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, no, no, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, Yeah. No, you don't."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, yes, yes or no question, Liam. Very simple."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh I think I need to think about that. Uh what what days are we talking about here?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, when whenever you would like, since you mentioned you like to be in control, so you tell me."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, let's say that this week, I don't think if if if not after 6:00 p.m., I don't think that we can manage that. Even the Liam I have three meetings. Uh, what do you say about like today is the fourth."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, pause guys. It's good. We are in the booking booking the meeting, right? Okay, A, I want you to be our constructive feedback panel. What was good and what could be improved?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Um, I think uh 16 did a very good job in terms and when you're speaking to a prospect, which is more towards like, you know, making decisions in himself. Uh, I think he he has done his part very well in terms of like, you know, giving directions as well at the same time asking him."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Tell me one thing that he did good. Guys, I want us to start being able to notice the small things and verbalize it, right? Instead of saying, oh, he did this good, he could improve this. And I'm writing it down exactly, so then I can repeat it."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh, okay. So, in that way if I would have to say like the part where 16 said like, you know, uh, what's what's stopping or like in a way, I mean that was probably my question, but he was in another way, he was asking the same thing. What stopped him like in terms of like, yeah, finding some good options, but he hasn't made his decisions yet. Uh, that's one thing and the second thing I think uh would be sorry, forgot the question again. I'm bad."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, no worries. What do you think he could improve?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Improvement? I think uh he pretty much did very well, but the part where you jumped in, you know, in terms of like identifying uh like if he's ready to be on the zoom call or not. I think that was uh spot on. I think we should do that straight up. When speaking to a client, you know, we need to understand like what is the right time to pitch him uh about the zoom meeting to come on board on zoom meeting."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So what he could improve then?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh just identify try to identify a bit earlier, you know, just like in first three to four questions, just make an understanding is he is he ready or is he not ready?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, but we cannot ask him in a three or four questions is he ready to book a zoom, because we have to uh do the qualification uh for our closer. It's not like we are just."
+    },
+    {
+      "speaker_id": "5",
+      "text": "He was doing the zoom call already. He was doing the uh, you know, uh qualification from the start anyway. Uh my point being is like he was doing this qualification right away, but uh at the stage when you, you know, stopped him and asked him like is he at this stage right now to go towards meeting or not? I think at that point, that was where I started thinking that, okay, is he right now towards a point or not, you know? So that's what I'm trying to say. It makes sense."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Thank you. Thank you, A. Angeli, you wanted to add something?"
+    },
+    {
+      "speaker_id": "6",
+      "text": "Yes, I really like how he just quoted his own words to him. Like as you said, you like to be control, you like to control your situation. So when you backfire your own your quote the same to to the person, they usually used to like calm down or understand you much better. So that was very good stroke."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, what could be improved?"
+    },
+    {
+      "speaker_id": "6",
+      "text": "What can be improved? Like maybe he was at the end of the call, he was confident. In the beginning, he was like a little bit fumbling with his words or with the question as you said, stretching the questions even if it's not needed."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, thank you. Arena."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I really like how 16 started his conversation, his tonality, his speed, even those verbal cues and pauses were really amazing. I didn't feel like."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And taking consideration that 16 was not doing sales before."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That was amazing, actually. His tonality and the speed, I was like, okay, I want to hear more. Please speak, you know. I want to hear more. That was cool. I think he got a little bit confused or maybe he didn't really get the idea of the client's problem, and after that he was a little bit not sure what to ask. So that was when the client said that, uh, he said that I want to make some income or ROI. Here we could ask like what kind of ROI he is looking for or what kind of what like what is he looking for from his investment? Because he's saying I we don't know, I don't know, I don't know, let's see, let's see, but here we could help him understand what he wants from this investment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But he could ask him something. Okay, and when you're saying that you will see, is there any specific you want to kind of um get clearance on?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I wanted to ask that, because we would see, we would see, we would see what?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So this I think he needs to kind of work on trying to understand the client's need."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ask more questions about that. Okay, uh McDonald's."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, um, I I wanted to say something about uh what A said. Um, I actually think he was right in terms of the qualification, yeah? So we do not need to go through the qualification before uh booking a zoom meeting. Um, you could book a zoom meeting maybe even at the beginning and then get the client actually interested to go through the qualification."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, guys, that's not how it is. Sorry. I don't want you to book a zoom meeting and then after the qualification, you will understand that the person is completely not in a position. And it's going to be very hard for you to book a zoom meeting with a person who doesn't see the value for himself, because you haven't built the gap in his mind from where he is now to where he wants to be. There is no value of this zoom meeting. The attendance of the zoom meeting going to be very low. So you're going to be kind of doing the job, but you're getting your bonus when the meeting is actually happened. But the client is not attending the meeting, it's not good booking. You got me?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "So, what if I what if I put it like this, yeah? Um, okay, um, you have booked a meeting for Thursday on the 19th. Um, so just so uh the area specialist can understand you better. Uh, I would like to know, uh, do you already have a property generating a passive income for you or will you or would this be a first time for you? Isn't that kind of."
+    },
+    {
+      "speaker_id": "3",
+      "text": "He already has a property generating a passive income for me and that's the thing that I'm looking for. Uh, I'm I'm looking to have a portfolio, but I'm honestly undecided about it. Uh, because uh I I don't know this fear yet and I have never tried, so that's why I don't know if it's a good good thing for me to try this and take it as a risk. Not even if it's not a big one. Uh, I I would just invest something that I that I have got already knowledge of. I don't know, honestly. Can we pause for a second? Can we pause for a second? I'm not stopping you, 16. We are very you're doing very good. I just want you to think now, I'm going to ask you a question, so and everyone, please be attentive. Identify, what do you have on this client right now? Do you know why he's looking? Yeah, he wants to get passive income, um just as an investment. As I understand for now. Do you know his time frame? Uh, time frame not yet, no. Mhm. Do you know what was his kind of hesitation about? You remember, a couple of times he said, oh, let's see, let's see. Yeah, he's missing some data. Uh, he doesn't know something about the data, but I have it. So now you remember, you remember that your goal is at least, well, tell me, is this based on what he said, is this a potential client for is he qualified enough to be booked? I'm just holding my hand like this. to be booked on a zoom meeting? Well, the thing is, I I think I'm still missing some stuff, like the budget, time frame, and uh. But do you think from his answers now, I want you to have this feeling. Is he a good client to be booked into a zoom meeting? To be honest, uh it's uh I'm more skeptical, but I'm still kind of optimistic in a way. So I would try to keep going. Yes or no? Yes or yes. Yes, yes, yes, yes. Okay. So, now think of what next questions, maybe a couple of questions, the smart one you will ask, and then transition him into the zoom meeting. Okay. Okay. Ask him when you want to buy. When you want to buy. Yeah. Are you try are you try to Okay. Okay, Liam, so you mentioned you're missing some information about investing into Dubai real estate, some real concise information. So let let's dig deeper. What exactly or more specifically are you missing? I I don't think that I told you about missing anything. Uh the thing, I don't know if you got confused or not, but what I mean here is that uh actually uh I've got some couple of good options and uh I'm a person who wants to be in control. You know what I mean? Okay. Like I I want I want to put my money uh because I'm not you know, that that's not a monopoly money. You understand what I mean? That's something that I earn uh like uh working hard or something. Uh so that's why I want to put it I told you that I'm looking at couple of options, but we are going to see. Okay, and if you were to make an investment, what would be your time frame? Like, how how do you what do you how do you mean time frame? Like, uh when you could invest, for example, or when are you looking to make this investment or when is a good moment when you have. Start making money. When are you going to start making money, 16? It's not like you landed. Uh, honestly, that's a really good question that you asked. I've got my money ready in the bank, uh but as I told you, I didn't yet find uh any kind of good options. Like I have good options, but I'm still undecided on that. Uh, so that that that's the thing that I'm having right now. Okay, Liam, so would it help you if I, for example, booked a zoom meeting with our area specialist who would show you the best options in the market, and I'm sure you would be surprised. Surprised about what? The options. Uh, like I mean you mentioned you have a couple of good options, but our area specialists have really great options also. So, would it be helpful for you if I did that for you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mcdonald, yeah, look, from from the experience of selling uh the real estate in Dubai, to get the client to be on a even agree on a zoom is one of the challenging thing, guys. That's why we have a frontline sales people. We're going to be doing the qualification in a right way and book the zoom meeting. Because if if booking a zoom meeting would be so easy that from the one call, you are immediately booking it, why would we need a frontline sales people? The agent could do it themselves, right?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, but um during during his conversation for some reason, you can feel or tell that uh at this uh point in the conversation, the client is actually interested in the zoom meeting. So, why not just uh when you actually get that idea that you want to."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, again, again. And you see we were we are having a bit of resistance and that's fine, because you've been doing sales before when a different way. It's not about what you can tell, it's not about what you feel the client is ready or not ready. It's about what the client thinks. Does this zoom meeting is important for him or not? Does it make sense for him? It's not about you, what you think. Because if you think it's good for him and then you're going to start telling him, oh, it's good for you because of X, Y, Z and ABC, going to be irrelevant."
+    },
+    {
+      "speaker_id": "5",
+      "text": "I understand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But thank you for bringing it up. Uh, we definitely going to going to put you as an agent next. Uh, 16, my feedback, uh, you are, um, you know, how some some people are gifted with being, um, I don't know, tall or well-built or having specific hearing or eye. You have a great tonality. And this is the something that, um, gives you a a very big advantage. Uh the tone of your voice makes the other person feel, um, confident and for some reason, I don't know, guys, if this is how I feel being just a human being, I start to respect you. Kind of start seeing you as a as someone with authority, just because of the tone of your voice."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, same. Same thing. Yeah. Uh, what you did great is that you've been following the the flow of the uh questions. I can see that you've been learning the questions. That's why it was quite quick for you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You just could improve one thing for now. You remember when you uh jump into a zoom um by the way, guys, do you know why the uh such a direct zoom booking approach did work for 16? Because of the tonality. It would not work probably with half of us. It would not, but with him, because of his tonality, it does work. So, if I want you to start paying attention on that. And this where you start assessing your own feelings, how do you feel about him saying, not what he says, how do you feel about it? After you start booking a meeting, you you said, oh, our area specialist is going to give you even better options, even better price, even better, you know, You couldn't I think you you were thinking that you're just that's going to be a last day. If you feel like you want them to kind of um get excited, the same as you do about the zoom meeting, you can say something like this. Like, look, I know the zoom meeting, I know you have a couple of options that you told me and you are considering them. Would that be helpful if, uh, I will book you, um, uh, a call with our area specialist, where you can not only kind of discuss what you have in mind and, um, let's say proof read it in terms of the actual returns, you're going to look at the data of the different areas performance, and you will be able to understand if what you select is actually good or maybe, potentially, there is something else to consider. Would that help you?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I understand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So you basically look what you're doing. You're doing. But if someone is telling you, guys, I don't I don't want this kind of thing stop you. Someone say, oh, yeah, I already have good options. Fine, fantastic. This is how it should be. Of course, you are looking for uh for a property. You're a smart guy. Of course, you have a good option. And would that help you if you will meet with our area specialist for some kind of, I don't know, maybe like audit, so where you will look at the numbers of the actual property performance and audit your options with him. It's not like he's going to try to sell you something different. But more than they're helping you understand is what you consider is really giving you your expected returns or maybe there is something else to look at. Would that help you? You see, so it doesn't matter. If if I have a client that he's telling me, oh, you know, I already selected three options, like, yeah, fantastic. Would you be open to maybe sit down and look, and I'm going to be kind of an independent advisor helping you understand with the three options compared to what you're looking for and compared to the actual market transaction are the best. Would that help you? Boom. You see, we we decrease in the sales resistance. He doesn't think it's a sales call and anyone going to sell him something. And in your note for the closer here in Dubai, you just you just text him that this person already kind of short listed some options. That means that he is, you remember the sales funnel that we were going through? So that means that he is already on the lower stages, so he's potentially is ready to buy. It's a great client. You see?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Make sense? So don't don't get care, oh, he already have options. He's talking to you. If he would make a decision about the option, he would not be talking to you, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right? He'll say, okay, sorry, I'm already selected. Boom. So if the conversation is happening, that there is something which stops him from making this decision. There is an uncertainty and potentially this is how we can sneak in."
+    },
+    {
+      "speaker_id": "3",
+      "text": "And we could have asked it, right, about that uncertainty that stops him from like choosing one of these options he has."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Say it again? We can ask about this like a reason for this uncertainty, why he still has options but not close the deal. Like digging into it. It might be it might be, yeah, you can do that. You can do that. But it has to be really like very very diffuse and very smooth. And I know you keep mentioning about this options. Okay. Yeah. And I know you've been mentioning about this options and um um has anyone has anything kind of, you know, stop you from going ahead with this or what happened? It's kind of closed questions, but I make it open question. Uh, did anything kind of stop you from going ahead with this, which is yes or no, but I'm not letting you answer yes or no or what have happened? Because what have happened, you cannot answer yes or no."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You got me? Okay."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, perfect. Now, McDonald's, you will be the agent. And, um, who's going to be the client for McDonald's?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Arsan, you you Arsan, you were the client already, right? Or not?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, okay. You're going to be the client then. Let's start."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Sure, no problem."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Okay, who's McDonald's who I can't hear you."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hi, A. Um, is McDonald's here?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, so um this is about the request you made uh a while about uh a while back, uh possibly looking into investing in Dubai real estate."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Um, I mean if you say so, I don't remember, but go on."
+    },
+    {
+      "speaker_id": "3",
+      "text": "So, uh basically, I was doing some updates in my system, so I called to see if you could uh if you found what you were looking for or if you are still looking for something in the market."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Oh, I I've already like uh found a couple of properties. I've already invested in them."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Oh, great to hear. Um, have you ended up buying off plan already properties?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, I I invested in uh few of them, yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, and are you happy with your purchases?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Happy? I mean, it's hard to make me happy."
+    },
+    {
+      "speaker_id": "3",
+      "text": "And why is that?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "I mean, I'm always looking for something new, you know, something that could give me a good return and everything, you know."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, and uh what was the overall goal um from the purchase you made at first?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh, when it comes to goal, I have like uh I I like to invest short term and long term uh investments. So,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "So, you are more of uh a passive and also an active investor, yes?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Sorry, what's the question again?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "So you are more of like a passive and active investor. You do not mind waiting three, four years for an investment or maybe few months. Yes?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, I mean, few months, yes, correct."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. So, and this investment, was this uh did you make this investment in Dubai?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "I have invested in Dubai as well. Uh Saudi as well. And I'm probably going to look more into Dubai as well."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. So, um, when when did you invest in Dubai? You said you invested uh in Dubai as well. When when was this?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh last year, 2024."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. So, um, what is the potential time frame for that investment?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Potential time frame for that investment. Yes, good question."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Like, what would you like to like what how much would you like to be making from that investment?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "I mean, there is no limit. I like to hit the skyrocket high, maybe next to Elon Musk."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, and and you believe uh that investment is giving you the kind of uh profit you um looking for?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh honestly, it it's a decision already made. So, I'm not worried about that anymore."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. So, um, I would like to know, are you willing to diversify like let's say, um, look at what properties we offer and maybe see if this is something that um fits your goal."
+    },
+    {
+      "speaker_id": "5",
+      "text": "So, I am already uh discussed few of the properties. Um, but I haven't made the decision yet where to go. Um, so yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. So, um, I would I would like to know, um, what kind of goal are you looking for in terms of uh a new investment, let's say."
+    },
+    {
+      "speaker_id": "5",
+      "text": "As I said before, anything giving me, you know, return investment in short term and also something in long term."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, let's pause for a minute, for a minute. Let's pause. We're not finishing. Um, McDonald's, uh, which information do you have about the client at this stage?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, uh, I have an information that uh he's currently investing in Dubai."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is he looking to invest again?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, uh, I think he doesn't mind investing again."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Doesn't mind or looking?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He said about."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, I mean."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You heard you heard what he's what he's said."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I think he said that um he's looking to invest."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. You know what you know what his goal overall?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Well, to make um more money like he said."
+    },
+    {
+      "speaker_id": "1",
+      "text": "As if passive investor, active investor, he invested before already. So it's an experienced investor, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So he probably he's probably talking numbers, right? Time frame."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Um, well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "More or less understandable."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I I think I really didn't break that down."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You did, you did. Like, look, you you actually ask him and he told you that he selected already a couple of projects. So what his time frame?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "If he selected a couple of projects. Is it in one year?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I mean."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, probably sooner. So, now you collect all of this information for you. So what is your goal again?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Um, I mean."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ask him, ask him the only thing is decision making process. You can ask him about what's the decision making process looks like and book a meeting with him. Right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, in in terms of uh is if he is uh looking for an investment that probably pays sooner or something like that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You don't care about this. You're just overcomplicating it for yourself. You already got the information. Just think of what I'm going to write down as a as a note about this client. You already have enough. You got me? You have enough."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, but I I I am actually a little bit lost."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No worries. What do you think is missing?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Um."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Intent, motivation, time frame, decision making."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, um, I'm sorry. Okay, decision making in in terms of what?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "In terms of uh your booking him on a zoom call."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Is this him himself doing all of this investment or he has a group, a partnership or he has a wife with him or what's going on? Because you don't want to just book it for him and then as Angeli yesterday was the lady whose dad going to pay for investment and you're booking the lady, which is useless. Right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I see. Okay, so um I I asked him questions regarding Go ahead, let's let's continue. A, continue. Okay, ask him."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so uh we cannot talk about time frames and budgets now until I can confirm that uh you are an agent for one broker group. Okay, let's pause this, yeah? You see we are going round and round in circle."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, so uh we cannot talk about time frames and budgets now until I can confirm that uh you are an agent for one broker group. Okay, let's pause this, yeah? You see we are going round and round in circle."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. A, you you got a karma for you, right? From yesterday. Possible. Simple. So reality check how scripts are different from the other calls. Perfect. Perfect. To whom you popcorn?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Liam."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Liam. Yeah, I think the biggest insight I got from today's uh session is that about the tonality. All the things that we have mentioned about 16's tonality and everything else. Yes. Perfect. To whom you popcorn?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Arena."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. So the most important thing for me was again to understand how important the scripts are. Not just learning them by heart, but actually understanding why we are asking this or that question. Again and again, I understand that it's uh like the best thing we can do to memorize them. Perfect. To whom you popcorn? I I popcorn to Bati."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Oh, thank you. Well, I would say the only word I'm taking away for the last like a week and a half is humility. I'm so much grateful that I could stop thinking that I'm the smartest one and I have to learn something new. I'm being humble is the key to understand the real concerns of the prospects."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. To whom you popcorn?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Who hasn't answered yet? Constantine. Have you? Not yet."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Thank you very much thinking about me, but I did answer already."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Sales resistance. Sales resistance. Okay, Constantine, to whom you popcorn?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I popcorn to A. Sorry. How you pronounce it? No worries, guys. A, A, yes. A, yes. A. Now I remember, now I remember. Thank you so much. Simple. Simple. So, reality check how scripts are different from the other calls. Perfect. Perfect. To whom you popcorn?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Kushiback."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I think the biggest insight I got from today's uh session is that about the tonality. All the things that we have mentioned about 16's tonality and everything else. Yep. Perfect. To whom you popcorn?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Liam."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, thank you for the popcorn. So, I would like to say the flow. I like the how we progress in the flow in this uh beautiful in this beautiful speech, how we talk to the client and how we make it better and better. So, we don't confuse, so we don't try to sell, so we try to just to lead the conversation and to have a result. So, thank you. Yeah, and I would like to popcorn to I guess 16. Yeah, thank you, Henry, for the popcorn. and in two words, uh I would say concise questioning. So, taking into account uh what the client says and actually trying to make a quick uh idea of what question should be the best. So, next, I would like to popcorn to A."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Sure. Uh, so for me it was the part that um we we need to learn more about how to keep the ball in the in our court, right? Rather than having the prospect leave the conversation. So, in order to do that, we need to be precise on asking questions and making sure whenever we are asking a question, the prospect answers it. You ask a follow-up question around the same answer he's giving. So, I think if we learn that, uh, we are all going to be ruling Dubai very soon. Definitely, guys. From my side, I really enjoyed today. Um, I don't know, but I feel the energy is flowing. I feel you are getting better uh every time you are role playing and every time you are giving a feedback to someone else. One thing that might be opening you up a little bit now, as I said, practice on the people around you. And how you can practice, how you can activate this as the people saying active listening, oh, you just have to ask question. For you to be able to ask question, you have to start being curious about other people. What not you think they think, I know, I realize, I understood. No, forget about that. Why is he saying that? What is the actual reason for him? And verbalize those questions through your mouth. In a safe environment of your friends and kids, partners, I don't know, anyone. First of all, you will become the most uh interesting person in the room. Because uh the best topic of discussion is what? People talking about themselves. And you're going to be the one who is always letting them discover, think about themselves. It can be absolutely anything. It's like, why whatever you can start. Look, you've been working with this company for X, Y, Z, what what makes you feel that, you know, you want to go in this industry at the first place? You see, the same exact uh like I said, yeah, the same exact script, but I'm not talking about properties, I'm talking about something else. Oh, it's because of this and and why is that important for you? Uh, and going forward if you if you would will will potentially um change something, what would that be? You see, and you you're curious about the person, and he's curious about himself, and he's like, oh my God. Um, I I when I start learning this first, I was using that a lot uh in the group of people that I didn't know. And, you know, me being in this job, I was always around people whom I don't know. I start talking to people in and on the, you know, in the street, in the elevators. Dubai is a very friendly place. The people literally, the girls wanted to take my Instagram. Just because I asked them a couple of questions in the elevator. They got so excited. They thought I'm a best friend, best person ever. So I ask them. You got me? So, curiosity. Drop everything, your smartness, as Bati said, become curious again. Okay, last question before we finish for today."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All? No questions? Okay, guys, tomorrow 2:00 p.m. uh we will have finally, hopefully, fingers crossed, the agent from OBG going to be presenting Russell Kema project for us. And then we're going to role play."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, cool. See you tomorrow. Bye bye."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Thank you. Thank you so much. Bye bye. Bye."
+    }
+  ]
+}

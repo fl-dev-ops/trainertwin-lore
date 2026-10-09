@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "If you're struggling with asking questions, specifically the tough ones, I have something for you. It's always hard to say, um, do you have a wife or how much money are you making? But if you add on the amortization level, which I'm going to teach you, it's going to be a game changer. Not just like a personal question. Not to ask like a personal question. Are you on your own or you have a family to support? Um, and how do you understand in terms of um, uh pricing? What do you have in mind? Oh, I forgot to ask you. I forgot to ask you, um, are you on your own or you have a partner? And in terms of budget, uh what do you have um allocated for this purchase?"
+    }
+  ]
+}

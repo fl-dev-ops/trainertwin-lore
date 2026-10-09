@@ -1,0 +1,344 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 4,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "I think I need I need to try once again before I decide if I Because I think I think agents prefer WhatsApp for the first for the first communication because um for for myself when I I have a call from a number I I it is not my contact. I I don't pick up."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How can you say that you are an agent and you do not pick up a strange numbers? Like in my understanding, look, I'm not here to judge anything, but in my understanding, I was an agent and I had I had a number which is not in my phone book calling me. My assumption immediately was that's a client. Someone referred someone referred me to the client. Had that a lot."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Someone gave my number. It's a new number of the client. I didn't save it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, but uh remember we we are calling the the agent from Linkus. So Linkus when you are you are calling someone from Linkus, it's Choin OBG real estate."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so if I have a call from OBG real estate, a real estate agent, what I can assume?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh he's cooperating with me in secondary market deal or um or uh he's he he know OBG, so uh uh so he assume he will try to um briefing me for or inviting me for the new projects or making a group and already I have a group of How do you know that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, honestly, it's such a thought process you think it's spreading through that. What if it's a recruiter calling you from OBG want to offer you a position of manager?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "How do you know?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "When recruiters are calling, it's the same going to be the same number. They're calling from the company uh um phone numbers usually when the company is providing SIM card to majority of the agencies. So it's going to be showing like whatever real estate, name it. That's how it will be."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You're right. You're right. Uh but we are agents, so no you know if if if I have a call from another agent from another agency. So I I understand it's okay, yeah, interview or inviting me for interview or they uh the agent will will need my help in cooperating in secondary market because he saw my listing, so uh uh so he needs to pick up the phone, okay. Or he will send me on WhatsApp."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so what you think should be sent in a WhatsApp to actually Look, if we look at the understanding of the sales process, the sales funnel, however you want to have a representation of that. There is stages, steps that should be taken for your client to actually purchase your product."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And you can choose to have way more steps in every step is a probability that the client going to change his mind and buy something else. Plus every step has to be managed for you. It's I've sent 55 WhatsApp messages. Do I remember who I've sent it? It's not actually filtered properly on my phone. I will forget to follow up. You got me? So it's it's additional step for the client to swap away and for you to just forget that you have to do something else."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, look, um I was always saying that you cannot overcome objections if you believe in them yourself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, you're right."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And if you prove to yourself that that doesn't work, the agent doesn't care, the agent won't this and and you just simply don't want to work with the agent, which is completely fine. You will not be able to overcome it. It's just always going to be this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. You're right."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I can try once again."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I can try once again."
+    },
+    {
+      "speaker_id": "2",
+      "text": "There is no need to like, look, it's just just ask yourself, what do you want? You. Do you want to only work with the direct buyers and chase them, which is completely fine. There's no problem with that. Uh however, that will be always more difficult. Your your your work uh going to be more valuable than any process that you will set up into that. You got me? So you can it's harder because it's B2B basically. Right? Selling through the agency. But it's always a possibility of the agent in your network has a client."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, if we're talking about the ratio of um luck or success, it's higher because when you're working with B2C, it's only you who has a client. And if you know that now you're currently do not have anyone who is potentially probably will purchase in the next month or two, you know, that you for sure not going to have money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you again, you can sell it to yourself from the different perspective. Then the I would say career progression. Whenever you will decide to go into the management level or to go in let's say into a different company, whatever. You having the network of agents whom you've been working with, who knows you, will always going to be a benefit for whatever reason. You're going to repackage them into a different uh developer potentially or you will repackage them as your team when you will become a manager. So that condition of you building the relationship within the network is inevitable if you want to progress. Otherwise, you just just decide yourself like, look, that's just me. I'm just going to be working on my own and I'm going to only dealing with direct clients and that's only what I'm going to do. Because if if it's like this, you you potentially need to be in a relationship with many developers. You still have to build that network, but Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I understand."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Developer agent."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I understand."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And if any like any smart agent who who is working right now, who kind of sees it's a little bit for more than it is. It's not like, oh, I'm already in the group of OBG or it's You're in the group of hundreds of developers. How many of them?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, the thing is I'm I'm telling honestly. I think about it differently, yeah. Uh when someone has a group with OBG, okay, and he's my colleague in OBG. Why I'm trying to convince them uh to make another group with OBG? I think it's not ethical. this from my perspective. It's not ethical. Okay, okay, I I'm putting myself, I'm putting I'm putting the other agent in my shoes, so uh uh I have a group with ABC uh company, so uh someone else from from my company, the same company, trying to make another group to work with my agents. So we are fighting our ourselves."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Let me ask you this. Let me ask you this. Yeah. If you're talking about like real estate business, the secondary market. I am in a team of Dubai Marina. Yeah. I have listings in Dubai Marina, so do my colleague, who is one of the fifth agents, we all working in Dubai Marina. And we literally have a listing in the same building, two different listings, but the client inquired on both listings. So he has a client and I have a client. The client doesn't belong to anyone, guys. That's what I want to understand. That's client choice whom he going to go with. And it's unfair towards the client if, for example, my colleague is lazy or busy or whatever, and he's not able to give him a service of the client can fulfill his dream of buying the property. Or I'm not going to go there as well because he's already dealing with my colleague. So what? And what I'm saying, guys, um now I have a bit of the eye into what is actually happening with the groups inside of the group when the agents from OBG, some of the very like, you know, experienced agents been working and selling in OBG a lot. Well, the the group is made for them. They've been added there by the frontline sales people are making the group now because seems to be it's so easy for them, you know? They don't even have the buy number, WhatsApp number. You got me? They have no idea most of them about Dubai. It's a 10% of what you know, they know. But they're able to make a group somehow. Can you imagine? Weird. And we're adding a um agent from OBG in that group. So we have a visibility of what's actually agent of OBG is doing inside that group. And guess what? Do you think what's the work of the agent inside the group? What is he doing? Just wild guess. Anyone? Anyone who is not a note taker. Seems like from to be much. Huh?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Marco, what do you think this agent is doing in the group? There is five other agents, what he's doing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's a fresh. He never spoke to any of those agents by the way. Never. He just been added. The work been done for him."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, he he first need to like introduce himself and like"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hi, my name is Olga. I'm an agent. If you have any inquiries, that's me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, no, it's will be more friendly to like"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Text them in the group. Like let's understand. They text them in the group, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Text them in the group or he can like see the the the or ask for the sales manager and give him a call to introduce uh himself first and then he will start to uh"
+    },
+    {
+      "speaker_id": "2",
+      "text": "To do what in the group? What? What I'm saying, guys, what I want you to understand, when you when they're saying, we do have a group with OBG, I want you to understand how does that actually looks like for them. So what do you think? Now my question is, you introduced yourself, you texted them friendly message, maybe even call once, which I don't believe it's what's happening. But then uh let's imagine uh that's done. Uh so what's happening inside the group day to day?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "They what? They what?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "What is happening inside that group? Inside the group, what's happening? What the agent of OBG is doing inside that group?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He needs to understand uh first the areas uh they the they work in and uh try to try to"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So what what what what what explain you what is in terms of the actions. What how he will understand the areas? What he will do?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He needs to call to call someone to know to know what is the areas they are focusing uh and uh what is the what is the category of clients they they they are dealing with. So start"
+    },
+    {
+      "speaker_id": "2",
+      "text": "But do you know what's really happening? And I guarantee because I I'm talking to some people. You know what's really happening? The agent of OBG just start sending, spamming them with the brochures, availability, every day, which is basically a spam. There's nothing else. There is nothing else. Okay, so now you tell me this, how this will help to the agent who is in this group understand the project and sell it. How's that going to help? Will it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And he needs to sorry, but now we say this, what how can I step on my colleague who is already created the group? Well, if his group is valuable, you cannot do that. But if he's doing a shitty job, basically being a spammer, then you have to do that because it's responsibility on you so the projects of the company going to sell and responsibility to help the people who are in that group. Because no one needs spam. No one is opening availability and looking, oh, square feet. Aha, this one. Who needs that? No one. The reality, guys. Yeah, but And the funny thing, this system probably used to work for many years, but the reason that we are a little bit struggling now with all of that is just because this system, I'm I'm I'm talking about making a group and texting them availability, making the group and texting them availability. It doesn't work anymore. No one cares. There's millions of thousands of groups. No one cares. So you have to come more inventive, guys. You have to do something different and it's so easy because everyone is so lazy to do exactly the same thing. That's why talking to them and inviting yourself to do a briefing in the agency is a winning strategy. I don't care if you're dealing with someone in OBG. Have he came and trained you in your office or he just spamming you with the folder? You know, I mean, it's it's my colleague. I respect him, but my goal is just to make sure that you know about the project so you can make money and I will make money if you make money. That's all what I want. If you explain like this to yourself, like, oh, well, okay. Doesn't seems that bad at all. Unfortunately, we cannot take the groups away from people. And that's in some in some kind, if if you put yourself into the into the shoes of the owner of the business. Let's imagine you are the owner or I don't know, Mohammed Alabar, Emaar. You have a multi-billion dollar business. But reality is that all your business activities and even success of your operations is based on will the agent spam this group with availability or not? How funny is that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So what is the weak link? And how you can benefit from that knowing that literally everyone is just doing bare minimum. Well, you will come with a different attitude and a bit of creativity and and humanizing approach. You're going to be a star because everyone is just doing bare minimum. It's a standard in the industry. Don't do calls, don't do this, do that. And even for me, guys, sorry if I'm going to be like a little bit more motivational today. But for me, going to the developer or going to the sales office and just sit in the sales office because it's my duty, that's a kind of shifting the cause and effect, you know? The effect the cause that you're sitting in the office is because you have work to do and you're doing the work and you're calling and you're doing the briefing and you have consistent people coming in. This is how you make money. It's not because you're sitting in the office, you're going to make any money. It just it's not going to happen. Regardless, even if you paid salary, come on, like 8, 10,000 dirhams paid by the developer or yeah, well, fantastic, but the reality is if you're not going to sell for two months, you're going to be out. And you then still have to go and find another job. Okay, guys, anyone else has a little bit more doubts or anything? And I'm saying, it's completely it's completely okay to just decide that I don't want to deal with a B2B. I don't want to do that. Completely fine. But just as any process can be enhanced. The way the company is currently doing it, there's no point of doing it for sure. But you are smart. That's why you're here. That's why you're coming. You can do things differently. Yeah. Marco, what do you think?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What I I'm think about the B2B it's a good it's a good thing. It's a good thing to not not only making money with agents to make relationship or make connections or or or something, but uh what we are facing I know, I know what are you talking about. We need to try to be smarter, to be uh creative, to be"
+    },
+    {
+      "speaker_id": "2",
+      "text": "You just have to follow the script. Uh I will share with you if I haven't yet. I will share with you the call recordings that's been done by the frontline sales people. They're using my script exactly the same that you have and they're booking the meetings, they're creating the groups. Fantastic conversation they have. Fantastic. No one is telling them, oh no, I don't want to. I'm sharing it with you. You just want to be smart. There is no need to be smart. I gave you everything. Just just follow the simple process. Savil, I've seen you coming on on board."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you want to share something?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. Do you want to share something?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Hello."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I can hear you. You probably cannot hear me. Okay, fantastic. Anyone else? Atik. Who who who is alive, not not a note taker."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm alive. Okay, again."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. I'm I'm looking at my video and I understand that I'm going against all I've told you about how you have to be visible and stuff like this, trying to put some light. Okay, how is it going for you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I'm very well, thank you. Sorry, stuck a little outside. Um How is it going for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, very well, Olga. How are you doing?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, rather than very well. Let's talk about needy greedy."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "So yeah, what was the question again?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "How is the B2B model working for you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "B2B model um going on. Uh building relationships right now. And um yeah, so got a few agencies um I've got a few agencies uh lined up. And um yeah. It's uh carrying on, but yeah, it's stuck. Sometimes uh everything that you know, I was just listening to what Walter was saying, I mean uh Marco was saying as well. And uh there was a lot of uh things that you know, that that are challenges uh that that associate with it as well, but having said that, yeah, it's all about building that relationship and and like I mentioned, um you know, what what I do is also, you know, I it's not it's not about us screwing up our colleagues who already have a group with the other agencies. But um, you know, we just give them a different perspective with regards to what I can bring to the table differently."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Pratik, how is your I know you're doing the presentation today."
+    },
+    {
+      "speaker_id": "4",
+      "text": "We cannot hear you. Let me unmute you. Good morning, everyone. Sorry for being late. Uh yes, I am doing a presentation in one of the agencies today. So they wanted a specific presentation for Rak. And uh we had given the presentation to this we have given the briefing to this uh to this agency before as well. But that was basically for Dubai projects. Now they are running a special campaign for Russell Kema, so they have requested me to uh give a presentation for Russell Kema. So I have made a presentation for the same."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. And"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Other than that also uh I have made around three or four groups."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And how many calls? How many calls you've done?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "How many calls? Calls is uh because last couple of days I was not able to call the only calls which I did was on Monday. But I am planning to finish at least 75% of the list by the weekend on Saturday itself. from on on until Saturday. Uh because yesterday also I was"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I ask you, Pratik, is you you you've done three groups, right? Yes. Uh how many calls they took you to get three group?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "20 calls."
+    },
+    {
+      "speaker_id": "2",
+      "text": "20 calls."
+    },
+    {
+      "speaker_id": "4",
+      "text": "20 calls."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And have you booked already the meeting with this agency with whom you created the groups?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "One agency, yes. One agency, yes, that is today. And the other agencies also I am one agency I have to follow up follow up today because they told to give a call on Thursday, maybe uh they can arrange a meeting tomorrow morning or today in the evening."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, got you. Yes."
+    }
+  ]
+}

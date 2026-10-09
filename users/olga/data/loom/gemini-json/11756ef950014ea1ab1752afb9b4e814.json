@@ -1,0 +1,1176 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Mhm. So, uh, I think that the priority now will be your Marjam."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, of course, of course, because our contract is still 16th of December, I need to get an offer. 100%."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But uh, I I think I asked him like our contract is still 16th of December. Um, if we reduce the price on the portals to 1.3 or 1.36, the buyer can easily give an offer at 1.33 because it's not a big like for a for a buyer, I think it will be easier, no? But from 1.4 to come to 1.33, that is a bit difficult for a buyer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But I have to go back to those who requested, who got interested, talk to them again. And then see what it is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Have you spoke to all of them already or not yet?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, not yet. I will do it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think you you can strategize and try to do it all today."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, of course. I wanted to do it today."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Then, you know, to use this specific um, case study as an example."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, what we need to actually make the seller understand when we are asking for the price reduction is not we are actually asking for reducing the price slash him netting less money. But that that that's important that our communication strategy should be different."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, of course. First of all, I should have talked about this price reduction in the beginning. Now I understand. 100%."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, not not even that. Not even that. We can interject in any time and this is going to be for you a different way of interjecting. We are not asking for a price reduction as per se. What do we need, Mr. Seller, is to make sure that each and every person who is looking for a two bedroom unit in your area will be able to see your unit."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What in your mind, do you think it's possible or not possible? How do you think we can get to the point that each and every person who is literally putting the search in this area will be able to see your unit? What do you think we need to do?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because you know, my clicks are good, like I have more than 100 clicks for this listing within seven days only, but I got only two new inquiries."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Have you have you checked, uh, again, this is all about you analyzing the competition."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is all for you to help the seller see what the buyer will see."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And if you will filter with the lowest price in the area. Which page will be your listing on?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I don't I don't think so. It will be on the first. I need to check this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Have you ever tried?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, no, I always I always."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do this exercise."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Now?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Share Yeah, yeah, share the screen and do this exercise."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Let's see."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it's a good point."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so look, look, look, look. No, no. First of all, let's let's keep it as it is. Like Mr. Client, now we're going to go through the exercise. Go back to the to the featured, what sorted by, what is it usually stands on? Sorted by featured."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, for example, featured, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so Mr. Client, this is and the conversation could be on Zoom, the conversation could be face to face, the conversation could be on the phone. You can say like look, Mr. Client, the way people search for apartment, the same way as you did, they open the portal, and the first thing that they can see is featured. Yes, premium featured, but do you think they really care about premium or featured?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What do you think they will do now when they see the featured?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "They will go to the lowest price, because they will go back."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They will go back, go back. Go up."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, no. Yeah, go up, and they will filter the price low."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, of course."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And now let's see now let's see Mr. Seller, what we are competing with. Yeah, yeah, you can add more filters."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ready. I need to otherwise. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, and I'm not saying Mr. Seller that this is the the way you have to go to put the lowest possible price. But I just want us to understand how visible we are for our potential buyers. So, what the buyer going to think of? Okay, I'm looking at the square feet, usually, and I'm looking at the price. Fair enough?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Go back. Uh-huh. Scrolling now. When we will find our unit?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I will somewhere very, very far. Even it is featured and premium."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But it's useless, the feature in this is just useless."
+    },
+    {
+      "speaker_id": "2",
+      "text": "See? Yeah, it's very far away. Oh my God. Yeah, I will do this exercise because."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Page number two. No, no, no, page number two. We are looking for it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Lots of new buildings."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, let's put page number three."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, checking. Maybe it's."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, this is it. On the second page, almost at the end."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In the end of the second page. And now let's put it as, let's go further. Now we'll let's see. Let's see. We are in the price range. What we are competing with. Right? What we are competing with? 400,000 is the same apartment as you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Where is 1.4?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "1.4 is you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And there, so."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We are going downstairs. And we can see where we are competing. And there, uh, how how good is this building?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, I'm not really sure. I haven't been in this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Like click on this, click on this listing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Three months it was listed ago."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It doesn't matter, but that shows that this this was not sold. Let's check if this is, it's by the way with the made room."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it's."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And let's check is this is with the furniture? Because I can clearly see this unit been upgraded."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it is upgraded. I remember I saw this listing before, but does it come with furniture? They didn't mention."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you see the price is here for some reason with this weird numbers. Anyway, uh-huh, Mall of Emirates, laundry kitchen. And this is ready to move in, meaning vacant."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And it's a bit smaller than ours."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Who cares? It's no one cares if they have a additional uh, made room. We can look at the floor plan. Let's go to the floor plan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If it's if it's available."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't know. I think here we cannot see the floor plan. Maybe on by it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So this is one of the units which is fully upgraded. Regardless of the quality, you have a great quality, fantastic one. I do understand that. But upgraded unit, at least you can see they put, well, the minimum I would say 50k in the upgrades, because you can see that's a different uh, wall, which is building, there is some furnitures already, some marble. The lights are a little bit different."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, go up. Just let's see what other things that our buyers will see as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, Jade Tower. It's fixed to under payment plan, but it is actually off plan. Why is it listed here? I don't know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But it's not ready at all, because this is what they're doing, this is a promotion."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is a promotion as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Same. Ah, this is the same apartment. Yes, it is upgraded, you see?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But this is this is with a payment plan again."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, and guaranteed ROI."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You have to understand what is this, is this from developer still available, is this from the resale. Is this ready, is it not ready, what it is."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Another fully fitted apartment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which is uh, let's put it this way, worse building. But let's go back to the cheaper units. Like 1.3."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Shirina. This is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Do you know what this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I haven't been in this building. I think it is like five years old building. I know a lot of people who came on my listing for forum, they were asking about Shirina, because of the how bigger the."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because of the size of the unit. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's much bigger size, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, the quality is worse. I can see that. But this has three bathrooms. He has two bathrooms, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. He has two, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I would I would expect the price is still negotiable."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I believe so. If they put this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The pictures are not fantastic. Let's see what else the buyer will will see with us."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Pictures are also not talking. Uh, this is under construction. I don't know why it is here. So."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But it's it's something which is handed over."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, I know that this is still under construction. I just checked this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, but it's going to be as the same handed over in 2025. This all handover. Okay. Zero commission because it's from the developer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's nice units. Okay, so I need to go back to number one."
+    },
+    {
+      "speaker_id": "2",
+      "text": "This is also bigger than the apartment that that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. But this is this is tenanted, so, let's put it this way, we don't know. This is a smaller unit. What is about this? I have been in the I've visited this unit. Terrible."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. What the what the lower one?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "This one is the same, I think. Yeah. Okay. This is the price."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I've used some of my clients here. They do like it by the way."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because of the quality and because of the, I don't know, the smell issue all over the building."
+    },
+    {
+      "speaker_id": "2",
+      "text": "They have an AC issue."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, go down, down, where we see. The same, the same building, the same, same, same."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What about the This one I haven't seen. Um, I cannot say. But looks like something that we are competing with."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Competing with and again, I can see the flooring is interesting. More than with terrace. So this is what we are competing with for sure. Showers looks good. Yeah, it's a little bit less uh in square feet, but it's still good. Go down."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And that's it. Terrace are offline, offline."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And the what what is what what was that? Just up. What was the kitchen?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, this one. Alareb, yeah. This is a very old building. Five years payment plan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Five years payment plan."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I think it's older than that. I don't know why they are mentioning five years payment plan. How to use it? I don't really know. You can see it's a very it's old building."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I would be surprised that it's still on the payment plan."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No idea. Maybe this company bought the the building, and now they want to resell it, and that's why they give payment plan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe, maybe."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, 4% DLD waiver. Okay, could be something to compete with again because of the size, a bit bigger."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Size DLD waiver. That's definitely something to compete with. So, as as whatever we see, we are now in a in a good spot."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "For him to, so basically what we are trying to say is it's not like we are trying to sell your unit with a lower price. What we need to do is we know your unit is great and you know the unit is great. And look, there are other units which is worse in quality and I brought the uh, sellers, sorry, the buyers to that building. They hated. But for us to attract those who are shopping in this area, we need our price to be on a certain level. And it doesn't mean that we're going to sell for that price. Because they will come, they will fall in love in your unit, and guess what will happen if you will have two or three potential clients falling in love with your unit. You will have probably multiple offers. And when you will have the multiple offers, the offers will beat against each other. This is what we need, we need offers, we need them to want it, because if they are not able to see the unit, they're not going to be giving you offer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And regardless what what we will do. No one is forcing you to accept the offer. If we will not be able to increase it up to the level that you want, no one is forcing you to um, accept that offer. It's you deciding will you accept it or not, but at least you will have a real people falling in love with your unit and offering you the the cash that they have."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it's a good point."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's a conversation. It's like look, it's not we are trying to sell it, we are trying to bring as much more people through the door, qualified. We want to show your unit to each and every person who is qualified, who has enough budget, because if he has 1.2, he's definitely can stretch to 1.35. He can."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it's a good point, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Good. I will I will I will watch the video, write down everything you said, and uh, yes, have a conversation because yesterday he told me that I, uh, I'm not in a hurry to sell, but I also don't want to drag it. And that's why he said, okay, let's go back to those um, uh, your to to your previous buyers. And I agree you to offer them 1.33. I said, yeah, I can do that, but I also asked him, that's not an issue for me to do, but it would be better if we if you if we actually set the listing at 1.35 36 to attract more buyers."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you have to, you know, this this is the thing. They don't understand the verbal structure which I just enroll in front of you, you understood only when I speak through that, yeah? But now you understood it. Ah, okay, this is how it works. When you are telling him we're going to decrease the price to attract more buyers, he doesn't understand that he doesn't have to sell for the same price. You see? But if you will, what I mean by attract more buyers is like each and every person who is looking to move into the area, qualified with enough money, with a pre-approval, will be able to walk through the door, fall in love in your unit. Because they everyone are falling in love. What we are lacking is the quantity of people. Because it's a numbers game. The more we will bring inside the unit, the more opportunities we have to actually get the offer that you want."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I love it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And for the end user specifically, because the end user is someone who is very much emotion driven. They're buying the house, maybe for the next 15 years, at least in their mind. So whenever they're inside of your unit and they love it, and they've been in other units and they don't like it, do you think they will be able to pay a little bit more?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, of course."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you asking him, do you think they will be able to pay a little bit more?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, probably."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's going to say, yeah, probably. Because his condition, he thinks his unit is the best. So we have to play on that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So I know that your unit is the best. The only problem is we are not able to bring the people through the door. So help me to help you to bring them through the door."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Great. I'll definitely do it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Okay, so this one is discussed. 16 is basically we have a week, a little bit more than that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I will do my best. What to do?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You can share the unit through the network of your agents. I will send you the new upgrade of my AI assistant that I'm working with. They basically, it's a WhatsApp now, it's a WhatsApp chat. You remember I was giving you on Telegram AI assistant who is writing it. So now it's it's on the WhatsApp chat. So it's basically you are adding on the details of the unit, adding on the pictures and it creates some sort of a listing presentation for you with the link that you can send it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, yeah, it's great. Uh, of course, when I send now this like this type of PDF, it will be with the price 1.33 for sure not 1.4. You know what, I when I met him, when we discussed the price, I told him initially that 1.4, I'm not sure that we can achieve this price, but I told him that 1.35 will be achievable, but 1.4, I said, we're listing at this price. However, even in the beginning I didn't know how to talk to him properly, but I told him that it would I understood it was a high price. But I didn't talk to him, I didn't know how to talk to him to agree on price reduction after some period of time. And that's why I'm in this situation now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's fine, that's why you're learning. But you have to be in this situation now, so you will be in a different situation when you're going to take a next listing. You see? Because if you if you haven't experienced that much pain, disappointment with you putting so much work for the listing in um, um, Mulberry, for this listing, and still you're not able to as like, the next time you're just going to be like, look, this is it, you can list it for any price you want, who is the one who is making decision on the price in the end of the day, blah, blah, blah. You run him through the script. If the person is stubborn and is, no, never, I'm going to but, who's making decision? Do you want to work with him or no?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly. Why why do I even want to make a listing? I think a lot of agents are basically struggling with these. That just because we don't discuss this in the beginning, you know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. 99.9%."
+    },
+    {
+      "speaker_id": "2",
+      "text": "100%."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because you want to be happy ears."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You mean you want to have a listing, but you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You want to have a listing. I just I was just so exciting to have a listing. Yeah, but that's."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's what I want. You know, that's how I feel. I'm going through the stages. Okay, I have the listing. I'm excited. Wow, I'm a super agent on the portals. Did you sell this listing? No. Why? And because I suck."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, you're not. Look, but you see this it's an inevitable learning process. The seed is dry and ugly in the beginning. When you put it into the soil, water, and then it starts growing. But can it become a tree just from the seed like this? No. So you're going through the process. It's it has to be that way. You just have to trust the process. You heard this before. Trust the process."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, uh, now tell me what you wanted to talk about."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, ah, why I said you will be angry at me. It's because."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You can remove the, you can remove the share screen. Uh-huh."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, I said because I'm crazy. I'm comparing myself with others again, and it's boiling me a little bit. So I just wanted to discuss. I see people closing in my company. Of course, I cannot compare myself with this person. He has a lot of years of experience, but I want to understand how they are doing it. Closing like bulk deals. He closed 100 million deals in my area, in my Dubai Hills."
+    },
+    {
+      "speaker_id": "2",
+      "text": "He closed six villas, and he closed it at 100 million. And I'm like, wow, how are you doing it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is it off plan?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, it's ready villas for flipping. He's amazing. I know him. It's he was doing only Creek Harbor. Now he joined our team. He's working in our team. He's very experienced. Okay, but the more I see this type of people, the more I want to know how can I become one of them? What I'm lacking? A lot of things I'm lacking, of course."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, no, just tell me what do you think you're lacking?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Courage, braveness, the the ability to communication."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But when you are when you are getting more courage and when you are getting more confidence?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Only when I go through this type of."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Are you feeling confident brushing the teeth in the morning? How confident you are in in brushing teeth process?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Closed eyes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's it. What he's doing potentially, and I don't know his lead generation process. I do not know that. But if you're talking it's for flipping, was that the same flipping in uh, Creek Harbor?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "In Creek Harbor, I think I saw his listings and all some of them were for flipping, some of them were just villas. And the thing is that he sold these villas, six of them to one buyer. Now they will renovate and this villas will go exclusively for sale with him. That's amazing. He's amazing. So, how we can be, me, how can I become this type of person?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, you have a you have an opportunity in your hand. Tell me which opportunity do you have to become that that person? It's already in your hand. You just have to recognize it. Which one is that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Believe in my own self, not compare?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No. Forget about you are believing in. You have a actual person in your hand."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You mean my my investors? My this uh plot investor? Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So how do you think he got this guy?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Same way, like just by interacting with."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It was something, someone approached him. He qualified him properly. He understood what he's looking for. He understood the type of this business. I will guess that this guy whom you talking about has a certain level of experience in renovating the stuff. In renovating the."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe. One day, uh, recently, like maybe three, four weeks ago, I it was my initiative. During the meeting, I asked, I said, we need a kind of a uh, what did I say? I said, we need an example of a person doing a really nice cold call. I just asked, can we like see how it is done? But of course, I'm training with you, but I want to understand, can they actually show? Somebody can show or not. And this guy, he said, I will show how it is done. And we all were sitting and he made a cold call. This cold call was like everything you teach me. It was amazing, like, he got a villa in Palm in in Jumeirah Islands. Like, what, just with one call, how are you doing it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you've seen how he's doing it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It was super, you know, relaxed, talking. A lot of people are looking at him, watching him, and he's like in this in his process. It was amazing. This is the level of confidence, you know, we need in this sphere to make it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But the level of confidence you will receive only by doing a lot of calls. And you are avoiding it. You see? You want to skip the process of growing in pain and you just want to become a tree."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's like sometimes you're thinking, uh, you want more, but then you're like, I'm fine with what I have. Like, I don't have anything to complain about. You know, this type of things are also in your mind all the time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's it's it's fine. And and now you have to um, be happy with what you have. Is it up?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. Yes, that's what I'm saying. I'm happy with what I have. Like, why I'm thinking, maybe they maybe he needs this money for something else, you know, I'm this type of thoughts I'm having in my mind."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But I will tell you, if his success would not boil you that much, from the my observation, I would agree that you're actually happy with whatever you have. But if it's boiling you that much,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Boiling in a way like I also want to do like that, because I'm I don't want to be just, you know, an average agent."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You just don't want, it's not about being an agent, you just don't want to be an average person."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, maybe I don't want to be an average person. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No. So that's that's your opportunity to do. And you are not average already. Look at the things you've done. You had a crazy romantic story, which people going to die to experience that. You was brave enough."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But I'm saying, I'm happy with what I have."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But you happy with your have because it's out of ordinary. You understand that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. That's a good point. I never thought in this way."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, it's true. It's out of ordinary. It's ordinary for you, but that's why you have you want out of ordinary results. So, usually."
+    },
+    {
+      "speaker_id": "2",
+      "text": "He's also talking a lot of plans and I feel like, yes, and I'm in this sphere. This sphere can give you this opportunity to achieve a lot of things in your life. And that's why I don't want to skip this. I don't want to skip the life."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Look, you're not skipping it. What specifically in your new stage of the life that you're walking into. Most important is to create that comfort and stability, which you can only get with a lot of listings on your name, and still being able to, you know, play and be a mother, and still consistently improving your career."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, of course. I'm not going to."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So the cold calling I I I believe that this the new, you know, transition that you will be going to going to make you more confident. And it's going to maybe give you that push additionally why do I need it? Because now you have someone whom you have to support. And that going to be more important for you than how do I look? If the other people going to be upset with me calling them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know what, yeah. I'm slowly, I understand that. Slowly this is changing, but still it is there. It's changing. I I know I feel I'm different from what I was before."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, it's it's a slow process. And, uh, when I'm saying that through the the work that you're doing, from the calls, you start seeing that you are generating a certain pool of people who want to be with you, your clients. Yeah. And I was thinking about this land, um, deal, Marriott. I believe that you have to partner for that deal specifically with the Sam, probably."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I was thinking about it. My husband said, do him. If you partner with Sam, he will close this guy. I said, like, I know, I know it. I know it. If I tell Sam, he's personality is like he will not skip this because he knows there is a huge opportunity for him in the future as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So how I can be that person who is taking this opportunity as well and not not losing it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Just just do it. That's it. You're already doing it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Now, you know what, I'm thinking like, okay, if I tell Sam, he will be, okay, we are I'm going to do this deal only if you blah, blah, if you go behind your company, if you go behind of this. If he starts talking about."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How do you know that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because with Adam, he spoke with me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So what? So what? Okay, so stop catastrophization, stop imagining that you can read minds of people, you know the future, you don't know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Forget about it. And it doesn't mean that he cannot tell you this, he can. But this guy is with you, your client is with you, because you're working for farm. And you can tell Sam, like look, this guy approached me. He's not my client specifically, but he is a client of me and the client of the company as well. So the deal should be in the following conditions. If you want to speak it up, then speak it up. That's it. And you know, the land deal and the deal for the big commercial premises, they will the owner of the land or the whatever. And I would say it's it's good to have, um, for each and every plot you will show them, ideally, to get um, an additional agent to buyer agreement."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, agent buyer agreement. You mean."
+    },
+    {
+      "speaker_id": "1",
+      "text": "There is the agent to agent. There is agent to seller and there is an agent to buyer. And at some point potentially, uh, can be requested a proof of funds."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, that will be necessary for plots. They will request."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You have to understand, okay, so I know you represent the group of investors, how do you usually do it, who is the one, because the title deed on the land will be written to what, to the company? To the individual person? To whom it will be written? So who will be actually the buyer? And I know you you told me about the six people, you are representing them. But, uh, help me understand what's the decision making process between you look like. Should we should we do a presentation for them? Because you need to guide me. And I will tell you, you need to guide me what's the best way to help you with this deal. That's it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think dealing me with this again is another step of my comfort zone."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would It's great. I mean, it's great, but I already know that it will be not easy."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It will be not not."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It will be not easy at all, you're going to learn a lot, and it might not lead to anything. Might be just a waste of time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It will increase my confidence. Yeah. But maybe this is this is what you're going to be getting from it. That's it. Maybe this is just an exercise and you will pay your time to feel that you're on a different level. That's it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe this is not directly, I mean, not closing this deal, but because you went through this path, you will be easier closing other deals. You never know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. I understand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so you have to qualify, let's talk about this uh, Marriott investors, right? You have to qualify them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You have to understand, uh, this plot is for residential, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Usually the residential um, okay, so do they have a developer who going to be working with them, developing the building?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I didn't ask this. I didn't ask."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because look, how it works, I will explain you, yeah?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, they."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, for us to like I'm an investor, I have money. I'm thinking, okay, great, I want to build a building in Dubai, it's it's booming, I want to sell this building. Mhm. You first have to before even choosing the land, okay, this location I wanted. You have to understand which concept of the building will be marketing side, constructional side, the most sellable. I have to understand the type of the units, the type of amenities. For that, I have to understand the competition around me. And then, okay, it's no problem, I can build the building, I can hire the main contractor, I can hire the first engineering company which will develop all of this plans and structures, then the consultancy who will um, negotiate and agree and and and sign and and put the stamp of Dubai Land Department on each and every plan, contractor who going to start building it, but for me, I have to start selling it. How I will sell it? I don't have facilities, I don't have marketing, I don't have a sales team. There are two options for them. One option is to hire exclusive sales partner, which can be an agency. So taking into consideration, we're going to give the marketing budget to this agency, we're going to give them a commission. In this way, they're going to become a sort of um, outside sales department, which still going to be doing the same as every other developer is doing. They're going to be selling through the other agents as well. So you got me? So that means that they got exclusive deal for the agency. Which can be farm. Mhm. Maybe. We have exclusive deals. Yes. And this is your conversation should be, you see? However, for the farm to be an exclusive agency, the project that they developed before that should be really, really juicy. And the project development is a completely different breed. It's a lot of marketing, plus engineering. You see, because the marketing going to study, marketing analytics going to study, okay, in this area, what was the most uh, successful project? What is the most successful project in other areas? What we don't have here that going to be attractive for the clients? Because that's in this small details is a success of the project. Yeah. So the development part of it is very important. That's why there are a lot of companies like Devmark, for example. Have you heard about Devmark? Yes. I know the owner and I know how he started. Devmark is not a developer. They don't have any they don't have anything on their own. All of these buildings are not theirs. Someone is coming with an idea and with the plot. Or someone is coming with the idea and with the money. And they're telling him, okay, let's us do the development of the project. If you don't have a plot, we will find the plot for you, but we will make out of your money that you have and the plot, the most sellable and the most profitable project for you. And then we will sell it, because we already have a network. This is what we're doing. This is why all of this small Mickey Mouse developments are developers, as I call them, developers, contractors or whatever. They're coming to them, because they have already a brand, they have already a name, they have already a network of the agents. You see? So they're charging a big chunk of commission. Sometimes having additional services added on like, we're going to be managing the construction, we're going to be managing this, we're going to be managing the approval process from Dubai Land Department. You see? It's a lot of things inside. Buying a land a plot of land is nothing. But this is if they want to build. Yeah. Because the other way, okay, I want to get this plot and I want to flip it. I want to hold it for three years and then I want to flip it. Which is a which is another thing as well. If I talk to him like this, he'll be like, wow, you have brains. You know. But now. That's it. You have brains. You just never thought about it that way. I didn't think about it. That will be. So now you think about it. You see? Do you have any questions on what you think he will ask you? So I will respond, so you will know what response should be."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I think not not really. I don't know what he will be asking me. But uh, what he might ask me. If he needs to understand how the process of."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think he is more knowledgeable in this than than you. That's why you asking him a question. Have you thought about it? What do you want to do actually? Do you want to build it yourself? Do you have an experience building such things? Do you want to attract uh, development company who going to be doing development of project for you just to make sure that whatever you will build going to be the most demand uh, driven, not just, oh I think it's going to be great. I'm building something no one wants it. You see?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, that's great. I will definitely get some talk with this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How stretchy? Stretchy."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's very interesting also, you know. Uh, it's a lot of things to learn about development. My husband was also asking me like, do they have somebody, do they have an engineer who will build? I said, I don't know. Ask them. Like how they're going to buy a plot. Who will be building for them? I can do, I can do work with them. I'm like, let me, I don't know how to ask."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Potentially, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, potentially. This is exactly what that guy is doing. Whom you want to be like."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's exactly how he's talking."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But yes, but you see I don't know this type of stuff, right? Now you tell me, now I understand that yeah, this is I understand that this is the right thing to ask, but if you haven't told me, I wouldn't even think about it myself."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course, because you don't have this experience. So now you buy my experience. That's what's happening."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And that guy, but most probably, I want you to ask him to get the courage and ask him like, look, this client to whom you send the six villas, where you got the client from? How that happened? I will give you my story, which I think happened. Out of whatever connections, networking, maybe cold calling, maybe through whatever things he's doing. He got a guy who was considering having um, quick profit. He didn't know what he can do. Uh, he felt like potentially this guy was doing something like this in any other European country. Maybe Spain, maybe Greece, buying an old houses, renovating it, maybe Portugal. You understood the the location wise, some Mediterranean stuff. So, your your guy told him like, look, now the most demanding and the the highest price appreciation is on villas. And now we have a lot of demand on something which is already upgraded. Which has a little bit more to add. For us to be more successful, we have to choose the most demanding community, which is still appreciating way more. For example, he could choose springs or meadows, but it's an old community. Doesn't have the facilities that Dubai Hills has, doesn't have the the growth and doesn't have a golf course. It doesn't have a lot of things. So what we can do, we can find a villas, which we can somehow allocate and build a project for the similar villas, where we will be able just with, let's say, uh, using one villa as a showroom, already start selling when we completed only one villa as a showroom. We can already can start selling others, while they are still under construction."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see? The guy was like, well, that's so smart, of course. Like you think, okay, that's smart."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. I also mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So look look look look. See what I think. And again, that has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants the three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's it. That's how."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No. Well, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course, the one who will offer more."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "The one who is either paying cash."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hello, yeah. Paying cash and making decisions in 10 minutes. It's not someone who going to go, oh, you know, I have to go see, then I have to talk to my bank, then I have to no, you lost it. You lost it. If there're going to be a rare opportunity, where the price could be 1.4. There is a hundred of investors with cash hunting for this. And the seller, which will be giving the 3.4 price, he will be giving it only for a reason, he needs to pay for it. But what he can do as well. You can offer him this deal. Like, look, it's up to you to decide. But what if you have enough cash to purchase this, whatever two bedroom unit. You can get this two bedroom unit, and then, um, the money is in this two bedroom unit, which is rented, which is already generating new money. Yeah, he was saying that yes, also he mentioned why he would buy in this building if it was a bit lower price, because he knows it can be easily rented to Emirates. They get the money 100k, they will easily rent it. So he was like, I know it will be rented. Yeah. So look look look look. See what I think. And again, there has to be you checking it with a mortgage advisor. The one which I gave you, she going to be perfect to understanding what do you want? I wouldn't say better than with my mortgage advisor. I don't like him at all, in fact. That's it. So look what you do. So he's buying you two bedroom unit. Fully cash paid. It's rented out and start generating him money. Then he's getting this unit, and, uh, using it to get a finance. Funds released, it's called the funds released. So he's releasing the funds from this unit. He can already show to the bank that there is this amount of friends are coming to my pocket. I have a tenancy agreement, that's amount of friends, is additional income is coming to my pocket. So I'm releasing the funds from here, and I'm putting it into whatever he wants. He wants this three bedroom town house, four bedroom town house, he can do it. But I don't know, can he how much of money he can release from this unit? That's that's due to the unit evaluation. But this unit going to be evaluated higher for sure than the just handed over uh, villas. But when he releases the money, does it mean that he lose his unit or it's still under his name? Or it's under the bank? He's still under his name, but he going to have it mortgaged. Ah, okay. But no, it's not mortgaged going to be, it's it's going to be different. It's not mortgage. It's going to be use as a collateral. But this is a complex deal, you have to understand through the mortgage advisor. Again, go for you. Yeah, it's new things for me, you know. Cool. Today's Today's Zoom call is like completely new level for me. So many different things, you know? Different and it's all about real estate. It's amazing. Yeah. So that's why again, um, I know he wants to catch this deal with 1.4. But another conversation you should have like, look, man, I I understand that you want to get this blah, blah, blah, 1.34 with the this town house. And that potentially might be an option for 1.4. But the thing is, whenever the unit is becoming available with a price way lower than others, and you're looking not just for any unit, you're looking for the specific unit. From perspective of the reality. They're going to be at least three, four, five clients beating for this unit. And I don't know how many will be beating for this unit. And guess which out of those clients going to win? You tell me. Of course, the one who will win. No, let's imagine, let's imagine everyone is offering 3.4. Which one going to win?"
+    }
+  ]
+}

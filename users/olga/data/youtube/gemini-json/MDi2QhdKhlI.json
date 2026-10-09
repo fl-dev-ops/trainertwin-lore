@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "What I'm going to teach you today, I'm going to teach you go a little bit below the belt as I call it, and understand why he needs money, for what? And how to ask the question where he actually going to answer you why. Because if you just going to be direct and like, oh, why are you selling? He's like, well, it's none of your business, right? But if you're going to ask a question in a different way, like, I absolutely love your property, like really, I work in this area and this is one of my favorite type of units. Is there any specific reason you're even trying to sell it? You see how different this is. So answering this question, what's the person going to tell you? You decrease the risk for him to be open, right? And then he's going to tell you something X Y Z and ABC and he's like, well, is there any kind of option for you even to keep the unit? What are you going to tell you now?"
+    }
+  ]
+}

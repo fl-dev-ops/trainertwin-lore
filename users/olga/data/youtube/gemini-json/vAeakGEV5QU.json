@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "What shall I ask and how can I get what I want not to make the client bored or overwhelmed? Very good question. How to not make the client bored or overwhelmed? Ask him questions relative to what your discussion, what you're talking about. I will explain what I'm actually meaning. A lot of real estate sales trainers are going to tell you, oh, build a report, don't talk about project, don't talk about sales for the first five minutes on the conversation. I would disagree with that. We have to be precise with the current clients, they don't have time. They understand what we are doing. Oh, oh, you live in India. Oh, fantastic. Oh, you have Taj Mahal there. No, one, no, I mean, he knows what you're doing, you know what you're doing, it's awkward. So, what is curiosity mean for you? Are you curious person naturally? Yeah. So when you are asking the question with a curious tone, and what, why do you, why do you feel that investment in Dubai now is right move for you, you know? Yeah, yeah, yeah. And why now though? You see? If he's saying, oh, but why now though? If you are curious, it gives him a signal again, it's all unconscious human behavior to respond. He's more engaging in the conversation because you are more interested to talk to human who are interested about you, who are curious about you, right? Yeah. Or if someone, and why do I want to invest in Dubai? I don't want to answer this question really. It's the same question."
+    }
+  ]
+}

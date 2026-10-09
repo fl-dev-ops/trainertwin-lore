@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "thinking about this this this bubble example that may mean that the person beforehand been involved in some sort of uh uh real estate um ownership in a country which the bubble burst or the country got into the currency devaluation. he's fearful, he's afraid. We're not going to be able to help him overcome the fear. For us to diffuse it, to make it go, we have to help him to see the different perspective of what had happened to him or the reason that happened to him and why that potentially not going to happen again and how we can protect him from that scenario."
+    }
+  ]
+}

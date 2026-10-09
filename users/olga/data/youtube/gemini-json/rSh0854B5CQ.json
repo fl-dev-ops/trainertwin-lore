@@ -1,0 +1,28 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "If the marketing agency reached out to you and said, oh, don't worry, we're just going to have a little bit, we're just going to create a campaign for you, they're probably going to take your money and you're going to be sorely disappointed. If you have this idea, you're not getting into, oh, someone's going to give me the leads. You're going into lead generation, training and recruitment business."
+    },
+    {
+      "speaker_id": "2",
+      "text": "As long as I believe in business, as long as you don't fail, you don't succeed, right? Are you trying to sell it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, I'm not trying to sell it."
+    }
+  ]
+}

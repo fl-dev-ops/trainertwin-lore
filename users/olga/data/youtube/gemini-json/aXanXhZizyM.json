@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Olga Sinenko"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "How to overcome cold calling anxiety? When I just like the phone is here and you just it just so heavy, you cannot just even dial the number. You're afraid of rejection, people going to shout at you or even report you because cold calling in Dubai is illegal. First of all, detach yourself from the outcome. You are not there to generate listing. You are there to have just two-way conversation, normal, usual, you know, like human beings do. That's point number two. Instead of focusing on just getting the listing, focus on the quantity of dials. If you're going to sustain 100 dials a day, regardless if people pick up or they don't, you're going to build an a massive list of current sellers and potential sellers. That's how it's all starting."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "When I'm saying refrain and reality of that, the market hasn't stopped. I'm recording it on 18, I'm just looking up at just which date is this. On 18 of March, couple of days back, we had a big launch in Abu Dhabi of gated community located on the beach. Um, it might not mean anything for you. Ohara, launch Manchester City, and in 72 hours, more than 6 billion properties been sold."
+    }
+  ]
+}

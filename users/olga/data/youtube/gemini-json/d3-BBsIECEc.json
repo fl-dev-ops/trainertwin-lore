@@ -1,0 +1,524 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 3,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Okay, Marian."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, I understand that you have 1.5 million dollars to invest."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "From the conversation, uh, we have determined that you can pay the 20% this year. And uh, you also understand the payment plan. However, you indicated that uh, part of that money is going to come from selling your father's farm. Is that correct?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, that's correct. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. What percent of the 1.5 million will come from the farm sale?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, around, uh, I'm expecting 200,000 uh dollars to come from, from this, this, this sale of the, the farm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And uh, in the worst case situation, if the sale takes a little bit longer, how will that affect you purchasing the property?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, so then, uh, my husband would step up and uh, help me with this, uh, with this scenario."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So ideally you sell the farm and you get those 200,000 from your father, but that is not a non-stopper because you can get your husband to chip in. Is that correct?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, that's correct. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Go into the husband, Walter. Husband now, look, there is another guy here."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm just making it just difficult."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes. And uh, does is your husband aware that you're looking for properties in Dubai in uh, in the UAE?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, 100%. Yeah, yeah, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And is he supportive of the idea?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. Do you think that he can join in our meeting next time that we discuss this this opportunities?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I believe so. Yeah. Uh, do you really think this is necessary?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, it depends what he's actually looking for, you know, like uh, who is the decision maker for these uh particular."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Walter, Walter, can I stop you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You you're doing great."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Father-in-law and son-in-law is a bit tricky to get on the same."
+    },
+    {
+      "speaker_id": "3",
+      "text": "It it doesn't matter, but it might be still okay. What what she asked, do you think it's necessary? Uh, I I feel like there is a hesitation. I want to ask you, okay, so what do you think is necessary? Is he now kind of assisting you with this decision or is just you and her father?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You got me."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You ask her, let her say, let her say it's necessary because you now she feels like as if you're making decision for her by inviting your husband."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You can ask, does it, I mean, what do you think? Do you think it makes sense for us to invite your husband as well? So just as a backup plan, so he will be aware of everything and if, you know, the farm going to take, I love how you said it, going to take longer to be sold, he will kind of help you with that. Do you think it's going to be useful? As if you're leaving this decision for her. Even though you made it already. It's just like a common sense. Oh yeah, that's going to be useful."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So Marian, if uh, your husband is going to be investing those 200,000 dollars, do you think it's necessary for him to be in this meeting?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, for me, it will make more sense if in the first uh, meeting, we have just me and my father, because we are the main uh, part of this, this deal. And then in the second one, once I agree with my father, then in the second meeting, I I would invite my husband because of of course he's important. But in the first meeting, I would prefer just me and my father."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, understand. And uh, let's assume that we have the second meeting with you and your father, and uh, then uh, your husband is going to be involved. What do you think are the criteria that your husband would be looking for to make the investment?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, good question. I would have to go deeper into those questions with him, but again, he doesn't want to get into more mortgage, uh, and of course he he wants to he he's more into the quality side and and again, uh, how much this can generate monthly, uh, to us, um, like percentage-wise, um, on uh, related to to how much we are, we are investing, of course. Um, I think that those would be the, the most interesting things for him to to know, but I I haven't got so deep into him because the main, the main conversation has been between me and and my father."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Understood. Just one more question, uh, Maria. Is this the first time that you're going to be investing overseas in real estate or have you done this before?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's the the very first uh, investment in real estate ever. So, for me at least, my father has has has investment, but for me, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Now, I'm asking this because I want to talk about the logistics of transferring the money from one country to another. Uh, right now, which country would would you have the funds on?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, uh, my portfolio is in American dollars. It's here in uh, a part is here in the UAE and another part is in Brazil, but uh, minority is in Brazil. Uh, to be honest with you. And of course, um, as if my father agrees to sell his farm, then we would have to transfer uh, the money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. I'm asking you that because obviously I want to give you some options as to the best way to transfer money depending where it is. Uh, basically to uh, so you can save on the exchange rate and some of the some of the fees that uh, some banks may charge you. So, when we get there, you know, I can uh, I can give you some suggestions there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, that's good, that's perfect. That that would be really helpful."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Walter, um, I want you, you're doing great job. Now what she just told you? What she just told you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "She told me that she's got money in the United States, some part in Dubai and some part in Brazil."
+    },
+    {
+      "speaker_id": "3",
+      "text": "United States?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "She said US dollars, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, US dollars in UAE."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In UAE. Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "And some part in Brazil, as you write."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, so your thought process, what do you need to know next? Do you know how much is this? Small, big? Do you know what she means? Small, big? I don't know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, I don't have, I don't have that. So that's the next question, yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Go."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You have to qualify more further."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah. Go there. Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All right, Maria, so you have some US dollars in Dubai, so that makes it easier. And uh, then you have uh, some money in Brazil. Uh, just to have an idea of percentages, how much of the amount is in Brazil?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, the amount that is ready to invest, it's around 500,000 US dollars, it's here, which is the most important part. I have just some savings like 100,000 dollars, uh, which are invested in in Brazil. Um, and the rest that is also in US American dollars is invested, but it's here in the UAE."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Uh, regarding the money which is in Brazil, have you checked to see how long it takes to transfer money from Brazil to Dubai?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, it's very quick. It takes like 24 hours, honestly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Great."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Walter."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Tell me what do you want to do next?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm still uh, I'm still asking uh, the questions about the budget. So I'm reading the question."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I know, but like let's stop asking, let's just stop because we can't do it here. Let's think which information like the um, the profile of Mariani, what do we know already for this questioning session with her? What do we know about your budget specifically?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "She's got 1.5 million budget to invest."
+    },
+    {
+      "speaker_id": "3",
+      "text": "She expected to have, she doesn't have it, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, she's uh, 200,000 she would need from the father's farm, which can be covered by her father or her husband."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. She mentioned that it's around 500,000 US dollars in Brazil to be transferred."
+    },
+    {
+      "speaker_id": "3",
+      "text": "In Dubai."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The other amount."
+    },
+    {
+      "speaker_id": "3",
+      "text": "In Dubai, she said 500,000 in Dubai."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And how much is in Brazil, Maria?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "100."
+    },
+    {
+      "speaker_id": "1",
+      "text": "100. Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Guys, that's why what I'm doing right now, I'm doing the notes. You have to do the notes. You have to you're too much in the conversations. You have to do, okay, you have to do the notes. Perfect. What else we know? Yeah, okay, Walter, what else do you think you need to know about her budget? What else is missing? Is there anything you feel is missing?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, what is the time frame that, you know, how she going to be making the payments? You know, like, okay, how much can she make this year? How much can she make on the 26 and 27?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Potentially, but I would say, Walter, up to this point, I would be satisfied with all of the information that I've got. I would not ask her about the budget anymore. Maybe I will ask her, like, because it's not still clear. She's saying the 500 in dollars are here. Uh, that might be obstacles. They might be on a fixed saving accounts, which will mature in January 2026. And she doesn't want to take the money out of it because she doesn't want to lose her 6% because she put it on 6% interest rate three years ago and that's you got me?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I want to avoid this because I need money now. That's why I'm going to ask you, Mariani, okay, and this 500,000 just for us to understand, is it like a just a current account or fixed saving account? How quickly, let's say, if you will need to, how quickly you can get access to that amount?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And this is ready. This is ready because yeah, this is ready."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, cool. Uh, and I'm asking the questions about the next stage, guys. That's it. But Walter, you see the clarity that you have right now. 100,000 in Brazil."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We haven't given her any options yet. Right now."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, yeah, don't worry about this decision. Forget about this yet. It's the first part of we are talking about the budget. We're asking her to find her about the budget. Guys, if you now, when you understood about the budget, going to start putting solution down the road without understanding other criteria, decision-making process, you already got the decision-making process, by the way. Out of just talking about the budget. But you can still clarify that a bit if it's needed. I would not clarify it because we weren't brushed pretty pretty good around that. So, now, Walter, you have a beautiful picture of her. And she has a picture of how her money looks like. Right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "So you can proceed now. You can offer now after some other additional questions."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, Walter, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If uh, if the time allows, you continue that or do you uh, book the next meeting for this?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I will still brush through the um, other criteria. Because, look, she is the one who is putting, like, I know that it feels that there is a father involved, there is a husband involved, but realistically, she is the one who is putting all of this guys together. That's why I will still believe that I need to get her very much on board with her decision, and then she will be able to convince because she has an authority. She never said out of my questions, oh, you know, if my father is like, well, I don't know, maybe I will not buy. She never said that. She was she was confidently going through and overcoming all of that thing. Oh, then I'm going to go to the father, the husband, then I'm going to go. So I can see that she's a doer. She's going to find the way."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "So then, um, I will ask her still a questions, right? We are now talking about the budget and then we are talking about the um, authority, which we kind of brush off. Then a bit of a past experience, which you did already, Walter, ask, have she purchased anything before? Outside, or she told you no. I will ask, okay, so Mariani, um, if you're talking about the past experience, I know you told me that's going to be your first investment on the property overseas, but uh, have you done any kind of investment overall, rather than in stocks? Maybe you invested in property in Brazil? How does that look like? I just still want to get here. And then I'm asking about the time frame. What this uh, amount that you are looking for, like this, let's say 15,000 a month. When do you want to start generating it? Boom. She's giving me the the thing. And only then I'm asking what she is looking for. Make sense?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Have she seen? Because uh, when I'm going to be talking about your past experience, one more thing. I will ask you, if I'm the first person you're talking to about the potential investment in Dubai real estate, or you've kind of seen some options, you spoke with other people, how does it look like? Is she going to tell me, oh, I looked at this, I looked at that. Okay, so what did you like about this? Okay. What did you like about that? Were you in a position to go ahead on any of these options? Oh, really? And and what stopped you? Uh, okay. So this is how I will find out. Because if I'm going to, okay, which areas of Dubai do you want to invest? I'm putting them in a position, send me some options and I will get back to you. Do you understand why?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "One question, Olga. Let's we have asked all of the questions regarding the budget. And now she tells you, I'm looking for a property with uh, a sea view. And uh, we don't have those properties available at that price range."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Whom we don't have these properties available?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Like for example, okay, uh, JW Mario, you know, like uh, the cheapest property available right now is 3.2. Uh, the million dirhams. And uh, he's looking into the Boulevard."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So how do you handle that? What I will try to what I will try to say is basically as an investor, what you're looking for is basically the return on investment on your property."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Do you know why she's looking for the sea view property?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You want to know why she's looking for the sea view property?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Majority, the majority of the clients they want that."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, exactly. But I just don't want to assume that she's a majority. I want to find her own reasons and if they're right, then maybe I will, I mean, if it's possible to find, okay, so let me put it this way. If in my conversation digging deeper into why she wants the sea view, I will understand and she will tell me clearly, this is my number one priority. If the property doesn't have a sea view, I'm not buying."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So if I will distinguish this in Mariani, what should I do? She wants to make money, right? You told me that we don't have anything available. So what should I do?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Walter."
+    },
+    {
+      "speaker_id": "1",
+      "text": "First I look at the properties that we have in our stock and try to."
+    },
+    {
+      "speaker_id": "3",
+      "text": "And nothing is available, then what?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "We do have something available in Dubai, but if we don't have it in our stock, we will look at other developers and propose to her."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Of course. But if I have to ask, is there any specific reason you're looking for the sea view? With this question you understand, should you still offer her something from our stock, which is matching your reasons? Because she's, oh, I just think because of the sea view, I'm going to make more money. And it's like, ah, okay, I understand. So the way it works is, and then I want to, I'm going to sell her for the reasons. She thinks that this is the medicine for her headache, but I am a doctor. And I know that your headache going to be cured with just with a glass of water. Yeah, but I need you to understand why she's asking for the medicine. Because she's coming to me, like, ah, I need this medicine. I was like, okay, is there any specific reason for you looking for this medicine? Oh, I'm just using it for my headache."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Everyone wants with the sea view, you're correct. But why why are you specifically looking for the sea view?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mariani, answer the question."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I actually am one of the people that don't don't care about sea view because I'm looking at numbers. I'm an investor, so I think about value for money. So I'm looking for a property that's able to give me the the best ROI. So again, value for money. Not the cheapest, not the most expensive, but the the relationship number is attractive for me as an investor. And also it's it's in a reasonable distance from the casino because for me, I understand that's the main attraction, but the view, it's not the most important thing for me because I don't believe that people are going to book just to sit there. That's my point of view, but I'm open for your point of view as as an agent, as a an investment advisor."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I agree with you. That's what uh, that's the direction I would take the conversation because uh, but some of the clients, you know, like they approach, I want this kind of apartments. So it's like we start the conversation and uh, we start presenting them, then they start seeing the prices and then it's like they they become open now to the other options."
+    },
+    {
+      "speaker_id": "3",
+      "text": "You can do that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But but Olga, but that's the longest way. Because uh, if uh, if I ask more questions at the beginning, it is probably uh, it will save me maybe one day."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Of course. Yeah, that's why you have to ask them about the criteria."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "But I would not say which area do you want to invest? I was like, which criteria do you have? Like the number one, number two, number three, non-negotiable, that you feel your apartment should have. That that's why I'm not talking about something. And look, Walter, it's an interesting thing came to my head and I think it's going to be very uh, um, useful trick. When a person is saying, oh, I just want to see you. You're going to say, really? This is something I never heard from the clients who are buying a property next to the sea. I'm I'm making a joke. How many like, you know, between you and me, how many clients do you think which uh, coming to me asking for help with the investment? How many of them are asking to have a sea view property? What the client going to tell me? All. Everyone probably asking you about this. And it's like, yeah, well, do you think developers know about that? That the sea view is kind of on a big demand? You're going to say, yeah, probably they do. And guess what they do with the prices of these units which are having a directly sea view? Do they put it in the kind of lowest possible price or do they want to make some premium from that? In this way, you are telling the client, I'm with you in the same camp. There is them, developers. But I'm going to help you with them. Make sense, Walter?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Guys, but still let's stop guessing, let's start asking."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Because I'm so sorry, we are such a fortune tellers. We know what's going on in the head of the person you just never met in your whole entire life. You don't know what's going on in the head of the person who is your daughter, son, husband or wife. You don't know what's going on in your own head. You don't know. So how all of the sales people are just fortune tellers. Oh, I know how why he asked me the question. No, you don't. Oh, I know why he wants to see you. No, you don't. Right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's that's part of me guessing, but you know, but you know, you have to qualify at the end of the day."
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, the guessing, I mean, I I offer you to stop the guess game and start asking questions."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, cool, guys. Good good call."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "What happens now if for some reason I have to delay or stop paying the installments?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, that's a good question and instead of you jumping immediately into saying, oh, that's not going to be a problem, I will have because that's you see how it is it's a more concern of the person. But there's something behind that question. I want to kind of pull it out. I was like, is there any specific reason you're asking me this question? Have have you planning maybe some like, you know, cash flow problems in the future or what's behind that question? I want him to tell me. I want him to open up and then it's going to be easier for me to overcome his concern about delaying the payment. But realistically what will happen is the client, um, for example, let's put you in the shoes of the developer. You have an obligation, you're building, uh, you're investing your own money by the way, because, you know, your money is on escrow account that the developer cannot access them up till the point they finish the completion. And someone stopped paying you. Like one person, next person, third person stop paying you. What would be your actions, right? If if you are selling something, a person who is buying is not paying, what would you do? Well, the the realistically, if there is no way for you to restart your payment and there is, oh my God, I cannot pay it anymore, the best exit strategy is for you to sell your current investment. And that's what the real estate agent would help you to do, understanding the different exit strategies. However, there is an option for you to get maybe a personal loan in your country or if you're into buy a personal loan to buy, or if the property is almost close to completion and there is potentially going to be a building completion certificate and we are talking about the last payments which should be on handover, you can get a mortgage on the property which is not yet still with the title deed."
+    }
+  ]
+}

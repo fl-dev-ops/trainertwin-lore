@@ -1,0 +1,20 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "what kind of projects and developers will sustain from the current market? And you can ask your clients this question, and probably it's easier, they will motion persuasion, they're going to come up to their own realization. Yeah, well, probably, well, semi-government developers. Big developers, which been already on a higher scale, on a high demand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So,"
+    }
+  ]
+}

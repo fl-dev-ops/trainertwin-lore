@@ -1,0 +1,28 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "My goal in this course is to find someone who is potentially going to be panically selling at some point and I will be able to understand that because I am having a I'm having you talking. I can hear what you say. You got me? You are calm, you are collected. You know the situation is going to get better. So I'm not here to prove you anything. I am I whatever you want to go, I'm going with you. Because my goal is not to inform everyone in the my all the market is great. No, I don't really care because I don't know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. I'm just there giving them an opportunity and I haven't anything haven't said anything about the commission discount because I don't feel like I have to even talk about this. I may be potentially use this as an argument later. But I understood everything that I needed to know. You're going to be using your current current property for your finance."
+    }
+  ]
+}

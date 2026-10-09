@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Okay, so this slide represents a little bit on a different um horizon it was more horizontal, this is vertical sales process for the off plan. In other ways, in the beginning you have to understand problem or emotional need of the client. And on the first call, you go with the qualification questions. From the first call, you book first video call or meeting in person, where you kind of present market analytics, talk about ROI all together, but your main agenda here is to ask additional questions about budget, decision-making process, time frame on investing, deeper into the problem and a bit of a consequences. What's going to happen if they're not going to invest? Then you book a next video call. Hopefully, that's going to be the last one you need, where you actually based on the information collected on the first call, only present your solutions. Only present three minimum projects units in this project under the impression that let me finish that there is a first one that I'm kind of selling and there is two which are helping me to sell this one. So the one which is matching the requirements the most, then something which is matching but a little bit more expensive and have additional perks, and then something you can default to if he's not going to be able to see the value. But I don't know why I even start recording this. I'm going to stop it because we're now going to jump into activity. This is what I promise you. Yeah."
+    }
+  ]
+}

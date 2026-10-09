@@ -1,0 +1,36 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Okay, shorting down the question. This is what we're going to learn for communication. What do you actually want to tell want to ask me?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "How to tell a client with low budget, like this is he has no money. Yes, in a nice way and what what what can we offer? to actually keep us a client, it's you give a lower cheaper price, but still get the client a property."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so let's let's look at you. Yeah, um 100,000 and for those who doesn't know, it's approximately 360,000 dirhams. Don't forget that you have to pay 4% transfer fee on that as well and um if you buy in secondary, you will have to pay 2% commission, right? Realistically, there are human beings who do not have money to invest in real estate. anywhere and she's one of them. So, um this is one of the cases that she doesn't have money or she doesn't have access to the money or she doesn't know how to get access to additional money. Maybe she's crazy and we're going to remove that subject altogether, but let's imagine that this is a common person. Everyone is asking me something ridiculous. Oh, I want a penthouse or I want in Dubai Marina, a stand alone villa by the beach with a parking for the yacht. It just doesn't exist. Yeah, I wish"
+    },
+    {
+      "speaker_id": "2",
+      "text": "With 100k or 1 million."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It doesn't matter. It just doesn't exist. The first the client is telling me, oh, I just have this amount of money. I was like, okay, fantastic. I'm not going to tell her that she is um stupid. But what I can do? And it's like, um and have you for how long you've been looking actually for potentially some investment in Dubai? I'm going to pre-enter the you are not that smart question. But I want that with neuro emotion persuasion technique. I want that she going to tell it to herself instead of me upsetting her. And that means that she going to come to the realization that she needs more money and then I will offer her a suggestion of how she can get access to additional money. Here in Dubai, maybe in US."
+    }
+  ]
+}

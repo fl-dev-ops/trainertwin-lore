@@ -1,0 +1,36 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "A lot of agents they believe that just because they've been told that the company has a marketing and the company has a social media leads, the company have these leads, that they're going to be handed over with listings, buyers and sellers. In reality,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's not like that. You're literally starting a brand new office, a cold start branch."
+    },
+    {
+      "speaker_id": "1",
+      "text": "topic which everyone is talking, even those who've been in Dubai real estate for a year, they're still asking, oh, what should I do? Should I mean focus on offline or secondary? And developers are going to"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. In the no for a couple of weeks and then he's signing it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So yeah, that's my first experience. I was like, what have I done? What have I done wrong? Yeah, where have I moved to?"
+    }
+  ]
+}

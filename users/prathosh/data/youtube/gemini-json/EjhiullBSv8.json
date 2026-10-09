@@ -1,0 +1,484 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 4,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "You want to watch the my angle to use for them to put it in the I love."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. I think somebody has started the recording. Okay, good. So So okay, I came to know from Sohas that you wanted some specific questions from the quiz to be resolved. Uh, is that the case or what what I'm open for the whatever discussion you want to have, we can have. I'm I'm actually open for the day. So we will go ahead with the quiz questions. There were some questions from the quiz that Sohas told that you had some queries. Let me go ahead with that. Okay. Which quiz we will start? We'll start quiz four. The latest one? Or you want quiz two? Which one you want? I'll leave the option to you. Do you want to start with quiz four, or do you want to start with quiz two?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Guys, come on. It's a tutorial. You should interact something. It's nice. It is one additional thing Sohas had told is he'll share the question papers of the quiz. So right now it's not accessible to us because that test we can only attempt it once. Once you attempt it, you can't open the link again. So he said he'll share the PDF of the quiz at least if not the actual submission."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, I was not knowing that. Just wait a minute then. So you want quiz two's questions?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, we don't have the questions from any quiz. So whichever is possible or"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So okay, what okay, I don't know tell me anything on that. Okay, no, there were four quizzes. What I'll do is I'll put all the quiz quiz questions together into one single PDF and then I'll send it to you. That would be comfortable?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, yes. Uh, thank you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, okay. So now let me take the what do you call thing and then let me go ahead with quiz two. This quiz two. This quiz. DG M quiz. Okay. Uh, quiz two, you had a question with the last one. Is the question, okay, quiz two, question 17. Okay. So the question is the generator in a GAN receives input noise from which distribution? Yeah. Can somebody try to answer this question? Any any any guesses? I'll not give uh the answer directly. Let's try some."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Normal distribution."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Normal distribution."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. How does how does okay, let me ask this question uh in a simple way. How does a GAN works?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Chandan, I think the question was uh in the original formulation uh which distribution was used. And I think there was a confusion whether the original uh formulation refers to uniform distribution or Gaussian distribution."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It was from Gaussian distribution, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh I think that's where the confusion was because someone said that in the paper it mentions uh uniform."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. No, it's Gaussian. And that I clarified this specific doubt, right? No, no, it is Gaussian distribution. I explicitly remember clarifying that doubt. Okay, uh, okay, So okay, I I thought you have problem with the formulation. Okay. I was not knowing that the problem was something else. Okay, let me go ahead and Just a minute."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Chandan, I have one question."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Huh?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "So for today's tutorial, the agenda is the discussion of quiz queries, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Quiz see that is what people Sohas said that people want. So I just want to uh go ahead and discuss the questions. So whatever you have"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I think we did that already in the last."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You're done with all the quest"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, almost all are done except for few outliers. I think that can be posted in channel and we can just get the answers. I think we can use this for solving any other things."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That that is that see that was my initial question. Okay, my initial question was that. Uh see these things can be exactly as you rightly pointed. These things can be posted and uh you you can get it clarified in the chat and and even uh what do you call let me put it like this the questions were pretty straightforward, right? You you felt that it is you you did you okay, let me ask this question like this. Did you feel that the questions are something like that?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I think we already noted those three or four questions where there was a confusion. Okay. Yeah, I think that was already noted by Sohas. So maybe specifically those questions uh we could clarify uh maybe either today or maybe offline in the chat as well. So that that that's also fine."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So now Okay. Then what we will do"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I mean one topic that we had uh raised was uh do uh in the assignments, right?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Mode collapse."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Like we did not talk in detail I believe during the classes. At least that's my perception regarding the mode collapse and all all those things."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Ah yes that can be discussed."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Sorry, Raghavendra. You were saying something. I interrupted."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Oh yeah that that that was the same thing. So I mean from the experiences we had with our assignments, right? Uh we observed different things. So we wanted to I mean one of them was mode collapse. And maybe we can probably start with mode collapse itself. Like what is it and um how do we really see the symptoms of it in the in the training? Okay, okay, let me discuss with mode collapse then. I'll not uh I'll give you briefly a a small idea of what is mode collapse. Okay. Mode collapse, let's go ahead with that. So now, did you see in your output that the generation of images that is happening is very limited? Did you observe that specific phenomena?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Go ahead, go ahead."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, we did."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So now why is that? Did you did you try to do anything because of that?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh no, I mean one thing that at least I was not very sure of was in which scenario it was actually leading to a mode collapse. So if you look at the generator and the discriminator losses, right? If you can figure out whether"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, that that I Yes, yes, yes. That that I'll come. But my point is did you observe mode collapse in your experiments is the first question?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, we did. So for example the samples that we generated, right? many of them looked very similar."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Correct. Okay, that you have observed. Okay, so now let me uh start with that. Okay. So it's in uh issue in training GANs. Okay. So where where generator learns to produce only limited variety of outputs. Okay. Limited uh variety of outputs. Okay. Now as observed in, as observed in uh your assignment. Okay. Now how does it happens? Now, basically, uh it will it in the sense the generator. It will ignore ignore certain regions. regions or to be more specific certain modes. certain modes of the data distribution. Okay. This is the first idea of uh the uh thing. Okay. So now, okay, now let me ask this."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Chandan, by modes you mean the modes of the data distribution or?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, yes, yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, so Go ahead, go ahead."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ignored. Okay, that is the reason why you are not getting some varieties. Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "So so it it tries to only uh learn those modes or or certain modes are ignored. I mean. So for instance if the data say just to take an example if the data has like 20 modes, it will only pick something like five or"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It will only five or six."
+    },
+    {
+      "speaker_id": "4",
+      "text": "So Chandan, one question."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, go ahead."
+    },
+    {
+      "speaker_id": "4",
+      "text": "We shouldn't be correlating modes and the classes, right? Like the like let's say in animal data set, we had some good number of uh classes of animals, like different different varieties of animals. So we should not be considering a mode as a particular class of animals, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "We don't know the data distribution like that, right? We cannot say that. It might be or it might not be. Even see, okay, let let me take this. Now take a standard GMM, okay, the mixture of Gaussians. So what is happening is you're just learning one particular mode. You're not looking into the variety of the modes. Okay. Now we don't know so whether uh uh what do you call one animal, for example, let's take animal A. Okay. So how is its distribution? Is the animal A learned fully because of which B C are not uh able are being ignored or A is partially ignored or B is also partially ignored, we don't know that. As we as we know that the training is pretty complex process. We don't know where it will lead to, right? Okay. With me till now?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, fine. Good. Uh So now, uh let me write some notations. The GAN setup. Now what is this? Sorry, wrong notation again. G of Z. And this is the generator. Maps sample Z from latent distribution. P Z of Z to generated data distribution. Makes sense? So now this the generated data distribution should match should match the true data distribution. Correct? Okay. Or it should use X here. Okay, let's use X here. This this makes sense? This you're able to get? The first point?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is this point clear? Okay, this is the standard idea. Okay. See, okay, okay, okay, again, I don't know whether Sarri is there or not. Again, every time I tell you the same thing. Uh sometimes I use different notation. So I always first try to put my notations and then go ahead. Okay, then you have discriminator D of X. Okay. Is is trained to distinguish between real data real data samples to be more specific. Real data samples from which distribution? From which distribution? And takes samples from In this case can you tell me what will be the objective? Classify real as real and fake as fake. Correct. No, no, no, what will be the objective function? How does uh it works? What will be the objective function of this GAN?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Reduce the KL divergence between. P data and P x."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Okay, that is true. How do you how do you put it through? How do you write it? As a min-max game."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Maximize with respect to theta, minimize with respect to Okay, you can So minimize with respect to which which thing? Do you want to minimize with respect to generator, or you want to minimize with respect to discriminator weights?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Minimize with respect to the generator."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Minimize with respect to the generator."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, minimize with respect to the generator. Okay. Then maximize with respect to."
+    },
+    {
+      "speaker_id": "4",
+      "text": "With respect to discriminator."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Discriminator. Okay. And then expectation of X sampled from which distribution? P data. What do you what is the thing?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "log of D of X."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Plus."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Log of 1 - D of G of Z."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Correct. This is from which distribution? See always remember, okay, don't always always remember this is a this is a small trick that I have learned. Now always, no, write which distribution. Okay, otherwise you will really get confused. Which distribution? You'll get. P Z and then here what I should write? Log of."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Log of 1 minus."
+    },
+    {
+      "speaker_id": "2",
+      "text": "D of G of Z. Okay. So now now what do you think will happen? Okay, fine. Let me go ahead with the next step. Now, the one thing that happens is now, the generator, so okay, let me use G. The generator learns which distribution?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "True data distribution."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, no, no, no, no, no. Which distribution the generator should learn? True data distribution. No, generator should learn PG. Correct? And that should match with the true distribution. Okay. Are you with me? With me on that? Is it clear?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Generator should learn PG of X. Uh now what will happen is with with support on very limited very limited subset of modes of P data of X. Now is it clear? What is happening? Now what it what what will be the outcome of this? Now if this case happens, if the generator learns with the support of limited nodes of P data, now what will happen? It has only learned a okay. So okay, you know the idea of support, right?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "No, please elaborate on that as well a bit."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, what is the support for Gaussian?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Minus infinity to infinity."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Standard deviation."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Correct. Now support in the sense what is the values that it takes? Okay. So now what has happened? With me? So is the idea of support clear?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "So it is basically range, is support range?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so now what happens is uh that the the No, sorry, the Gaussian distribution the domain is minus infinity to infinity, but the range is zero to one. Oh, yeah, yeah, sorry, sorry, sorry, yeah. Correct, correct, sorry, sorry, my bad, my bad. So now now what has now does this statement make sense? Now the generator has learned the distribution PG with support on very limited subset of modes. See, if you have modes like this, it has only learned uh the the support of this. Okay. If your mode is like this, it has only learned like this. Now because of which what happens? What will be the outcome of this? This is okay, I should What will be the outcome of this limited support learning? Therefore, G produces what? What is the input for G? G produces similar output for different values of Z. Okay. Makes sense? Is this clear? Hello? Yes. Okay. Any any questions here? No questions on this. So what do we like mean by the modes here? Like limited subset of modes of P data? See, okay, did not do GMMS. I think he hasn't done GMMS, correct. Okay. This is the data."
+    },
+    {
+      "speaker_id": "4",
+      "text": "So when you when we say support, do we mean the range here, the or the domain?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, uh support basically means let me write that. Support basically means set of all possible values that a random variable can you fill in the remaining things?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Can take."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Can take. Okay. Okay, I'll be back in a minute. Just just give me two minutes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "one question. So so C is the set of all possible values that random variable can take. then you mentioned it produces similar output for different values of that. When C is large or when C is small or is there any"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, no, no, what it okay, okay, sorry that is not C. That is I have just put it in a bracket."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Oh, okay, okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sorry, my bad. Okay, I just wanted to write what is support. Okay. Again, don't think this I have put colon and then it is a function. Okay. So now in this case, okay, now now can you understand what will be the role of discriminator in this case? If this happens, now what will happen in discriminator? What will what will be the role of what if this is the case? If this is the way in which the learning has happened. Now what will happen in the case of discriminator?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "So if uh for a given output discriminator was classifying either as a real or as a fake, for different values of Z, the response will be same. Like since the output is similar."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So now, now because of this what will happen is the discriminator will easily distinguish between these modes. And regions where Correct? This makes sense? This is a direct outcome of this. This makes sense in uh uh the discriminator case? Okay, what does discriminator should do? Should be able to accurately classify between a real and a fake. Correct. So now if it has learned very well the distribution on selected modes, then what will happen to the discriminator in that case? It won't be able to distinguish between the true and because of which what will happen? Because of that what will happen? Discriminator will fail. Okay. Think of it in in terms of gradient signal. What will happen in terms of gradient signal? What will be the gradient signal in that case? What will happen to gradient signal? Gradient will reduce. No, no, no, no, no, no, no. Gradient will reduce in which regions? Correct, gradient correct, you're correct. Gradient will reduce in which regions? Reduce in the sense it takes very small values. In which in in Correct. In the modes which Hello? In the modes which it hasn't learned. Correct? So therefore the gradient signal No, how come this is like gradient signal uh gradient signals are reducing for those modes which are not learned? If it is if the discriminator is not is failing for the learned modes, then like It is not able to then it is not able to uh you know like the loss function will be less, right? So if loss function is less, what will be the outcome? So that if loss function is less, that means uh so it is telling the generator that no you what you have learned is correct. Like you don't need to you know What will be the outcome if if okay if loss function value takes a lesser value, what will be the outcome in terms of gradient? It will be lesser. Answers your question? But why why for those modes which are not learned? It will be for those modes which are learned. Okay. Like, I'm not sure if it is the correct interpretation, but Okay. So now tell me, there are two kinds of modes now. Okay. So now for okay, let's take that there are two modes. Okay, mode A and mode B. This is learned. Not learned. Now tell me out of these two, which will have the stronger value of gradient and which will have the weaker value of gradient? Mode A should have a weaker value. Correct. Weaker value. Stronger value. Makes total sense, right? Correct. So now what is the solution for this? You know the you already know the solution for this. This is the problem. Okay. So now because of which the learning is not happening properly. Now because of which the outcome is what you're getting. Now why is this happening? It is pretty much clear for us now. Now tell me what will be the solution for this? You already know the solution. I know that. What will be the solution? Don't learn the discriminator with each. Maybe or learn the generator more often than the discriminator."
+    },
+    {
+      "speaker_id": "4",
+      "text": "No, no, no, no. In that, the question was, in the context of GAN training, when does the mode collapse refers to the generator produces identical samples regardless of input noise is the answer. What else was there?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Which divergence you use in W GAN?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "KL divergence."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Which is JS."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Which is JS."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Which is JS?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "For the new GAN."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Correct. So now you use the versustine GAN. So the problem is solved. Okay. That is the reason why people don't go ahead with the regular GAN. Make sense now?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I think somewhere there was one mention that discriminator is too strong early. Then what happens or this was one of the option where it says that the discriminator is too strong in the early in the training."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But Chandan, one one question. I mean. Okay, okay, okay, okay. Chandan, maybe uh Okay, it is in case of GAN, in case of GAN, which of the following conditions leads to unstable training? That is the question. Yeah, there was someone who was saying something. Yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "maybe before the next quiz if you can, you know, open the quiz for review for all of us, so we can have, we can you know, pick up the questions and then ask otherwise it's been a long time when we don't remember the exact questions."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Make sense, make sense. Yeah, sure. See, the thing is what will happen is, okay, we should have given you the PDF, that is not done. I'll look into it myself. Okay. Uh we cannot open the quiz once it is closed. Now then we will have all possible problems and uh yeah, what in our end backend. So that's the reason why we close the quiz. Okay, it is not like we want to do it. Okay. So now So now you're able to see quiz two at least? Go ahead and check in your this thing. Teams. Now you're able to see all the quiz? Now you're able to see all the quiz?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "And some of the other subjects at least we were able to see what we had marked and what like which questions we got wrong after the quiz. So maybe there's some option. That you're not able to see. Okay, let me look into it."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, that's what I meant by review."
+    },
+    {
+      "speaker_id": "2",
+      "text": "At least we can see what we Okay, I got your point. I got your point. Let me let me think through it. And one thing that I feel we can do is you just before in the student group, you just put what are all the questions that you have. Okay. Uh so that these kinds of logistic issues, we don't want to all the logistic issues, just put it in the chat somewhere in some place so that we don't need to look at these issues when having the tutorial. Okay. Now you're able to see quiz two at least? Go ahead and check in your this thing. Teams. Yeah, you're able to see quiz two at least? Quiz two you're able to see now, right? Quiz three. Yeah, it will come now. It will it will come now. Quiz three is I am able to see. Quiz two you are not able to see. Okay, just refresh it. You should be able to do it. Okay. I'm just doing the same thing. And uh one more thing, okay, I'll put it in the channel. So you will have next two weeks continuous quiz. Both the weeks you will have quiz. Okay. Quiz five and quiz six. So we will do it in a continuous manner. Okay. Now you're able to see all the quiz? Yes. Okay. Problem solved. Okay. Yes, go ahead. So now we are looking into the quiz two question. In the case of GANs, uh which of the following conditions can lead to unstable training? Okay, let's look at the options. So, okay, let's let's use the idea of elimination. That's the best idea to use in quiz. Let's take one. So when proper balance is there between generator and discriminator, what do you mean by proper balance between generator and discriminator? What does that option even mean? What will happen in in the training process in that case? Forgotten GANs already. Since you're in diffusions, you have already forgotten GANs. Okay. Using versus science distance instead of JS divergence, will it have any problem in training? With this current discussion, are you convinced that if you use, okay, at least Jensen-Shannon divergence will not work?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Chandan, I have maybe a basic question. So what do we mean by stability of training?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Stability of training is that your uh what do you call your okay, okay, in terms let's take in terms of classification. What do you mean by stability of training? If if training is done properly, what do you mean by that in terms of classification? In in any any any model? Or in regression for that matter?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I mean the loss the way I understand this is could be like the loss is continuously decreasing. It's not uh fluctuating. It's not increasing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because what what will be the outcome of loss decreasing?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "That means your accuracy is increasing at least in the classification. What do you mean by that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Your model has learned properly, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "That would mean Yes. Correct? Your accuracy is it it has learned what it needs to learn. That is what we mean by stable training. Okay. Now tell me what do you mean by stable training in terms of GANs? Extend the same idea. The generator is learning or learning the data distribution. And is that the only thing? And the classifier is able to distinguish between reals and fakes. So now then both of them does this mean that both of them are in balance now? I mean it is so it's a min-max game, right? So Correct, correct. When when do you okay, okay. Good point, good point. When do you say that So also one one question I have is one question I have is in the GAN training, right? Initially, should the generator be strong or the discriminator be strong? What do you mean by initially the generator should be strong?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, no, no, no. What is it? It's like in the question, it's not a question. It's not a question. Okay. But okay, okay, okay, fine, fine. Okay. From our assignments, right? I mean, whatever we tried whether that was as expected or not. I mean, we also don't get that feedback that's why. Hey, go and check in internet, pa."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In the beginning. Because if the discriminator is too strong, the generator doesn't get good feedback, right? So both of them are okay, both of them are initialized with random weights. It's a min-max game. They will come to an optimal point. There is nothing like see, you are not like first generator first you are learning the generator, then you are learning the discriminator. It's not like that, right? You're learning not like that, right? But but but if the discriminator is uh strong initially itself, right? That means it would not send back a good gradient for the generator to improve upon, correct? Does that answer the question that you have in the quiz? Yes, kind of but the point is uh Correct. You're correct. So is is it a stable training then? No, no, one minute. Is it a stable training then? No. I mean the yeah the generator doesn't get a chance to really Correct, learned. Is it a stable training in that case? Yeah, but it's also not it's also not it's also not a stable training. If say for example, generator is too strong initially, and the discriminator is not, right? No, no, no, no, no, no, no. What do you mean by generator being strong? So it's able to generate real quite good images in the beginning itself. And at that same point of time, the discriminator is not able to uh uh identify, I mean, is is basically not trained well enough to distinguish between reals and fakes. So what will be the outcome of that? It's in the balance. No, no, my point is what we one thing is strong. Yeah. What will be the outcome of generator being strong? Yeah, the discriminator gives wrong feedback. Okay. Because discriminator is not strong enough yet. Okay. Even this is a uh uh I mean not a balanced training, right? I mean, would we would you call this a stable training? I got your point. I got your point. Let me let me think through it. How to say that. Okay. See, that is what we want, right? In a way. Okay, now, okay. At a stable training, what do we want the discriminator to do? Post training, if your training has happened properly, what do we want the discriminator to do? Yeah, it has to tell you what is real and what is fake. So it should I mean it should not be able to it should not be able to distinguish between real. So what should be the probability? What should be the probability of real example? Correct. So so it should be in an equilibrium state. So you should get 0.5 as the outcome of the discriminator, correct? Is that the first point clear? Okay. So now if if the generator is strong, that means that it is generating good images. Now what will be the outcome of that on the discriminator? No, but at that point of time, discriminator hasn't learned good enough. So it may be giving you saying that okay, uh it's not able to distinguish correctly, right? So it may it may tell you either it is real or it may tell you it is fake. But it has not learned good enough at that point of time. No, I get your point. Okay, your point is that there are two answers for this question. No, what I don't understand is what is really I got your point training in this case. Okay, balance training is who should who should who should be learning faster or who should be learning slower and it's a okay, uh no, no, no, there is nothing there is nothing like that who should be learning faster and who should be learning slower. Now, both of them will reach an equilibrium. That is what we want. Okay. We don't want one to become stronger and the other. Yeah, and since we are training both of them simultaneously, right? We don't I mean, we are not training both of them separately. We are training them simultaneously. So both of them are learning at a particular rate. Correct. And and which rate is ideal? Oh, there is nothing like that. Is my point. You can really see that is the reason why do you think that people went to diffusions? No, we we understand the problem with generator. Okay. It's very hard to get that. Yes, these are the problems. Yes, as you have rightly pointed, yes. I'll look into these answers because even if generator is strong. Uh so you will okay, okay. I'm not able to convince myself that if generator is strong, that makes discriminator to be weak. That argument I somehow I'm not able to get it. Let me mull over it. Okay. And then so somehow, somehow I personally feel that the generator. Yeah, and even in the questions, right? I mean, so so when when we get such a question, it's it was at least very, very difficult for me to understand what do we mean by stable. That is totally fine. Okay, okay, stable. Okay, stable now you understood what is stable? Not fully because I don't know uh See, stable is a stable okay, stable stable training is okay, stable training is discriminator is uh uh what do you call giving 0.5. Okay, that is stability is in terms of that cannot be the beginning, right? That cannot No, no, no, no, no, no, no, no, no, no, no. Stable training is once you're done with the training. When you have when you have achieved that okay, did he tell about Nash equilibrium, right? When you have achieved that Nash equilibrium. Or equilibrium for that matter. Okay, now that is when you say the training is done. Okay, so now the question here is uh no, we want discriminator to give me 0.5 uh because of the generated even if I generate an image, that should give me 0.5 is what we should learn there. Now that is what I mean by stable training in terms of discriminator. In terms of generator, what do I mean by stable training is it is able to uh generate samples in uh uh as per all the modes. Okay. So that at least it's generation is proper. That is that is what I I mean by stable training. That means that it has learned proper weights. Overall, that is the uh uh uh view that I'll tell you. Okay. So now, okay, uh here as per your you have rightly pointed. So generator also becomes strong because I haven't given a counter example that so and discriminator about any discriminator I haven't told. Okay, that's something that we need to review, which which I'll look into it. No problem. Okay. Does that answer your question? At least partially? Yeah. Okay. Chandan, we also had a question on like so so what are the ideal curves we should expect for loss when we are training some kind of a review loss curves. The curves of the loss so that we know whether the training is going good or not. No, we're the GANs. Where did we have this question? No, no, not a question. It's not a question. Okay, okay, fine, fine. Okay. From our assignments, right? I mean, whatever we tried whether that was as expected or not. I mean, we also don't get that feedback that's why. Hey, go and check in internet, pa. It's it's a it's a very straightforward question. I'll I'll leave it. Okay. You don't Okay. What okay. So now uh when you say ideal curve, now tell me what is there in X-axis and what is there in Y-axis at the first point? I just want Okay, uh okay. The reason why I ask so many questions is I want you to So the point was what we saw what we saw was the loss was reducing, but there was the generation was never good. Right? So what do you mean by that? So what does that mean? So the generation was not good in the sense you are generating from the same modes or the the generation quality was not good? Generation quality. Okay. So then So then we are stuck in local minima, that's all. That means we are stuck with local minima. Use something like simulated annealing and other things to come out of it. That would be a nice idea. Come again. What what can we use? Simulated annealing. There's an idea called as simulated annealing that will help you if you are stuck in local minima that will help you out. Have you Okay, are you using what Okay, what are the hyper parameters of in the sense Okay, what are the things that you are using? So okay, what are the things that you are using in your code? So okay, let let me put it like this. How do you Okay, which How do you uh what do you call optimize? Yeah, I mean the learning rate you are asking about and which optimizer we are using. Huh. And are you doing anything else apart from that? No, I mean at least we did not try anything different. So the standard Adam optimizer and we played around with learning rates, but we couldn't get much improvement. Have you done standard CNN training? I also tried. Yeah, as part of this DGM course itself, yes, but not before. Do you know something called as learning rate schedulers? Just okay, just okay. I'll I'll be back in a minute. Just just give me two minutes. I'll be back. Just just give me two minutes. Have you Okay, my question was have you used schedulers in learning rate schedulers in your codes? No. Use it. It will help you. We discussed about learning rate schedulers, right? I I remember me I only telling you. Use learning rate schedulers will really get it clear. See, this is like see. Uh let me be see the neural network training, no. even small small things like this will give you a lot of boom in your results. Okay. So use a learning rate scheduler that will really help you. You're using uh all those decays and other things in Adam? Or what is optimizer that you're using? Yeah, Adam was the one which we used. Huh. Are you using all those decays and other things? Beta and other things? You just give learning rate, that's all. What is the learning rate that you're using? Yeah, 1e2 power of minus minus five. That range. Okay, don't start with so much. Okay. So this is the problem. Always know, start with 10 to the power of minus 3 or 10 to the power of minus 4 and use schedulers so that it and use proper weight decays and other things so that the learning rate will gradually reduce. Okay, don't use such a small learning rate in any any of the training that uses in images. Okay. See, I I can understand if you had enough resources, you would have tried and tested all these things. Okay. So these are some of the tricks of the trade, you just go through any of the your Okay, while okay. So okay, any other okay, uh can I stop uh the recording? Yeah, sure."
+    }
+  ]
+}

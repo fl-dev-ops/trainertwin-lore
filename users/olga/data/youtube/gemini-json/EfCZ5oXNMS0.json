@@ -1,0 +1,516 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 4,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Moving to the next one. Alternative pattern interrupt. I just put it as just like a random thing. Uh that's actually I don't want to have a drama, I don't want to worry about the drama. It's actually a sales call. Or let's change it. It's an opportunity call. Do you want to hang up now or you will need 30 seconds and then you decide? Uh, should we continue this conversation or not?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Does this make sense? So you can change it. Uh, you can say instead of this drama. That's actually a sales call. And then you can say let's that's an opportunity call. Do you want to hang up now or then you or you want to give me 30 seconds to tell you why I'm calling and then you decide. Kind of the same thing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's a funny one. And again guys, I was like getting this out of top of my head. Um, it's actually a cold call. Um, let's just remove this. It's just kind of another way to get it. Uh, probably you'll be in a real estate agent, do not like cold calling yourself that much. But anyway, I was hoping to tell you really quick why I'm calling and then you decide. Should we continue this conversation or not? Fair enough. As an opportunity to say additional yes. So if you're going to add fair enough, your probability of getting okay is higher."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Three different pattern interrupts. In the end and then you decide should we continue this conversation or no is all the same. Now you can unmute yourself and tell me what do you think about this ideas."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Will that be helpful? Will not be helpful? Maybe you can give me some guidance how that can be changed based on your experience."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hmm?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Anyone?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I had more of a question, Olga."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, what how would you respond to for example, if the agent kind of is uh like in a passive aggressive tone or something like saying cold calling is illegal, you know, like he's he's not too happy with the call."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Good question. Yeah, of course he's not happy. Do you think if I'm going to um, do you think I'm going to tell him he probably hates cold calling. He will in that way with a tone which is playful, he going to come on. Oh, yeah, cold calling is legal. Do you think you're going to say that? But even if you will, guys, which another pattern interrupt or which funny thing we can say to remove the sales resistance because if someone is saying anything with aggressive tone, it just shows that he has what towards me? Sales resistance. So it's irrelevant uh to continue conversation if he's still going to be resisting. So what we can say?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Anything which is you know,"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I mean, uh, hi, Olga."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes. So, Olga, if he's reaching out to an agent and he's saying that cold calling is illegal and stuff. I mean, we found his number on property finder or something. So he's inviting you to contact him, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Potentially, it doesn't matter. He's his number is out there."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, exactly. So it's not a cold call because he he wants people to reach out to him."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's a cold call. It's a it's a cold call realistically. So it's not it's not guys, look, it's it's not about I'm going to start proving that. Oh, no, but you have your number on the property finder. That's why I'm calling. It's not like boxing. It's just not he it's not about logic. But he is giving you the indication. I'm resisting to what you're saying. I don't like you, right? That's what he's giving you. The message. So how we can change that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's an agent, guys. Have he ever done a cold calls in his life himself?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Definitely, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Does he know the pain of the cold call?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So how we can use it? Which which which pattern interrupt, which phrase we can say backwards, which going to make it like light-headed joke, conversational, agreeing with him. Yeah, well,"
+    },
+    {
+      "speaker_id": "4",
+      "text": "You know how it is in the business?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Give me a right tone."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Hey man, you know how it is in the business, right? I mean, you got to do what you got to do."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Something like this. Raheel, give me one more time that objection that you said."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Can you what?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, no, Raheel, give me the objection, not you, uh,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Oh, okay, okay, okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, give me the objection that you said."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Like in a what? Like in a role play way."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, give me, you are role playing. Give it to me. Give it. How would the agent will say?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, hey, Olga, by the way, you do know that cold calling is illegal in Dubai now, right? So I don't really appreciate being called out of the blue."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, Raheel, like I know that more than anyone else because I'm actually 10 years in real estate. But would that be fair to say that probably the the highest earnings, the highest commission we never generated through a cold call, would that be fair to say as well? Is it? No?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, it's fair."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's it. So what I'm talking about, a result of the cold call, which is positive. He knows that. I know that he knows. I know that uh, I know that he feels that he probably is afraid of cold calls. Yeah. I can say something like this like, well, uh, Raheel, if to be brutally honest with you, I probably hate doing the cold calls even more than you hate receiving them. But will the opportunity arise in front of you if you're not going to do that? Probably not. So, will you allow me really quick tell you why I was calling and then if that's not for you, that's fine. We can move on. Maybe we become a partners, um, in in a business, maybe, we're going to make a lot of money, maybe not. It's a it's a fair thing to say. Yeah, but what you're saying, it's a fair thing to say. But the only reason that I will be able to overcome whatever you are saying me is just when I believe that I am still able to deliver some value to you. Is it right thing to say for the agent? I'm not interested. I don't want to know. Yeah, of course it is. But it doesn't mean that he and I'm sure that he will make money selling the project that I have in one broker group. Is it 100% guaranteed? Of course not. Is it possible? Yes, it is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's in ideal world, everyone is going to be so happy to have a call from us. Unfortunately, this ideal world doesn't exist. Give me some more objections. Give me give me the things that you feel you're not able to break through and maybe some things that's just not need to break through because that's just if you're going to tell me, Olga, the agent has told me he doesn't work in real estate anymore. So what should I say? I was like, well, he's not a lead. You're looking for the leads. He's not a lead anymore. That's it. Just leave him. Call to another number."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Give me some more objection, guys. What do you think you're going to be what you already had couldn't overcome or what do you think you will be facing with?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Yes, Atik."
+    },
+    {
+      "speaker_id": "4",
+      "text": "So I had this very, very rude call yesterday from an agent. Um, so if it's from the list that Eugene uh subscribed to us and uh I called I called him up and so I was like, hi, is this so and so and uh um, I said exactly the same. I was like, are you still in real estate? And that's all I asked him. I was like, are you still in real estate? And then uh he was like, uh, what is this about? Uh, he was like, I'm traveling right now. Then I was like, okay. Um, is there another time I can call you on? Do you have a few uh, maybe a few seconds that I can just tell you about why I'm calling? He's like, I just told you that I'm traveling right now and you're still continuing to do the cold call. Don't ever call me again. Who gave you my number? Blah, blah, blah, blah. He was going on and then he cut the line off."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so why do you think he was like this?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Maybe he fought at home with his wife."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Or maybe he was paying for roaming. Which is his mind is very expensive."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, true that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, well, that's probably a reason. So it's not about like, guys, you're going to you're going to have angry people because you don't know the moment that he may be lost five deals just five minutes ago. And now you're cold calling. Everyone going to be in trouble."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Definitely."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I would say if the person is outside and he's telling you, uh, I am away. When are you coming back to Dubai? That's only question I would ask. Because I know realistically, he's away. He's paying for roaming. The only reason he's paying for roaming."
+    },
+    {
+      "speaker_id": "4",
+      "text": "No, no, no. Let me correct it. He was in Dubai, but he was traveling. So that's what I asked him what is it about?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Traveling."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, he was basically he was driving on the road."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How do you understand that he was driving?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "That's what he told me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Traveling is not driving."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Maybe, okay, possibly. Maybe not maybe driving or maybe on a metro, I don't know, but he said he was on the road."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but again, guys, I don't know. For me traveling is like, well, I'm traveling, I'm outside. So that's it. I'm getting annoyed when I'm having uh some I don't know, UAE numbers calling me when I'm outside and then I'm picking up and that's just like a do. Oh, we want to give you this. Well, I will not be that the same annoyed if I will pick up the call from here, but now I know I have to pay two dirhams for a stupid call from do. I don't want to do that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Will you run into that? Yes. Can you overcome that? No. That's it. That's something that it's just just going to be happening. It doesn't mean that you don't have to call him maybe in two weeks. Hopefully he'll be back. That's it. Do you want to role play? Who wants to role play? Someone going to be an agent, someone going to be a agent from OBG, someone going to be an agent from outside and we're going to role play. Different situations. Yeah. Do do you do you want the script? Do you want this script? Do you want this script?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I'll do the first one."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, you want the the cold calling, uh, pattern interrupts?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Who uh, Raheel, will you be an agent from outside? Atik will be the Yeah, Atik will be the OBG agent. Let's go ahead."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, hi, is this Raheel?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hi, yeah, speaking. Who is this?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Um, well, I wish I could tell you that I was a client who's going to invest about a 10 million dirhams, but unfortunately, that would be a bit of an overstatement. Would you give me quick 30 seconds to explain why I'm calling?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, yeah, sure."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Fantastic. So, is that good?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, fantastic. I love it. Keep explaining. Let's go forward."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. Um, so Raheel, I'm here uh with regards to uh some of the projects that we are offering here in the market on behalf of OBG. So, um, uh, are you are you familiar with what OBG is? Are you have you work have you heard about uh one broker group?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, I actually used to work with an agent from OBG, but I haven't really been in touch with him for a while now."
+    },
+    {
+      "speaker_id": "4",
+      "text": "No problem. Um, I'd be glad to help. Uh, look, Raheel, the fact of the matter is, uh, with OBG, we have a lot of exclusive projects, uh, ranging from all over from all the locations here in Dubai, uh, and in Marjan Islands as well. Uh, we have different payments, different price points, different, uh, uh, options available in the market. Uh, do you think perhaps, uh, you may have clients, uh, who might be interested that you'd like to perhaps work with us?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, potentially, Atik, but what I would want to know is what makes OBG different to the other companies who are also calling me up offering me similar kind of opportunities."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Well, I'm glad you asked that, Raheel. Uh, the fact of the matter is, OBG is known to be a master broker. It's uh, that's a competitive advantage that we have. And uh, what I mean by a master broker is we, uh, have exclusive projects in the market where only we can sell. So we partner with agents like yourself, um, to pitch it to your clients and we offer the commission payouts just as in what a developer would do like for an example, like what MR, Damac and will do. So we offer uh commissions to our agents. We work with our agents very closely. And, uh, uh, this is what OBG offers and this is what OBG is different compared to the rest, uh, of the other agencies in the market. And, um, I believe you just told me that you were working with an agent previously, is that correct?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, previously."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. Can I know that have you closed any deals with this agent before?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, no, I haven't actually."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. So then that speaks about a fact that maybe this particular agent has not briefed you with the current projects in the market. Uh, what I would like to offer here is Raheel, the fact of the matter is there is, um, obviously, you know, through a call, um, it's not going to be, um, uh, practical for me to explain all the projects that we have. Okay. What I would recommend you is perhaps maybe at another free time when it's convenient for you, maybe we can get on a Zoom call or I'd like to invite you over here to our office where I can give you a briefing on the projects that we have. And, uh, specifically what we are focusing on is Al Marjan Islands. Uh, have you sold anything in Al Marjan?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, no, I haven't actually."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. Well, my friend, let me tell you something. If you are not selling in Al Marjan, you're losing out a lot of money, my friend. It's literally like your client having an opportunity to invest next to the Burj Khalifa 20 years ago. Would you not want to give that opportunity to your client to make money, meanwhile you make money as well?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Absolutely."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Well, would you believe if I tell you, in Dubai, an off-plan property can maximum give you an ROI of 8 to 9% if you're lucky. Would you believe if I tell you that Marjan Islands is perhaps the only project that I can think of, not only in Dubai, not only in the UAE, I would say in the whole world that can give you an ROI of 25% or more. So, the question here,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "That sounds impressive, yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, I know. Sometimes it can sound like a scam, my friend. But, um, every single, uh, point that what I will be, uh, showing to you during our briefing is all going to be backed with stats from the Ras Al Khaimah Land Department, um, from the, uh, Al Marjan authorities. Um, and this is the reason why I'm going to show you it is very practical, it is very possible. And, uh, this is the reason that I'd say that it's best if we can arrange a briefing, then I can explain to you how these numbers are possible."
+    },
+    {
+      "speaker_id": "3",
+      "text": "That sounds good, Atik, but I'm just worried that I might be stepping on the other agent who I was in touch in the past, like on his toes, like, so I don't want there to be any like, you know, drama or conflict of interest. So how would we approach that?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Well, um, I'm glad you, uh, brought up that question here, Raheel. Uh, the fact of the matter here is, you're always free to work with whichever agent you want to. But the fact of the matter what I do with my clients, with my, uh, partners that I work with is, I do not just be a relationship manager to them. What I do with my agents, the difference that I bring to the table is I train my agents how you have to speak to your client. Do you think that would bring some benefit as far as maybe comparing the difference with you, maybe bring a value addition to yourself, as an agent, compared to maybe another agent because I'm sure if that agent had already briefed you, we'd not be having this conversation right now. Is that correct?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Correct, yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, fantastic. So, my point here is, uh, Raheel, um, what the difference, what I would like to state here is, before you sell a property, before you sell a particular project, I believe, firstly, understanding the location,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Atik, is amazing. Like, look, you're doing a great job."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let's shorten it up. Take him. He's ready. You're overcooking him. Book a meeting. That's it. Book a meeting right now, right? Just be direct. You're already doing a good job. Sometimes you're like, over, over, like, he's good. You feel like"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, so Raheel, um, so Raheel, okay, let's let's take things forward. Um, I don't want to waste too much of your time. When are you available for maybe a Zoom call? Is there a time on your calendar that sounds good to you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I might be free next week. Um, if you could shoot me a message with some uh convenient times that you're available, I can have a look and select myself."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Absolutely, my friend. I'd love to give you a time next week, but unfortunately, the fact of the matter here is, Raheel, I don't want to I don't want you to miss out on making money here because the fact of the matter is this this project is already 80% sold out. So by next week, we can literally be gone. So I want you to be I want you to wave the ride. So I'd rather request, is there any possibility maybe we can schedule a meeting maybe within the next uh day or two?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Um, yeah, sure. Why not?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, how about let's say we fix uh, what is your convenient time? Tell me tomorrow a time tomorrow or today or tomorrow."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Tomorrow 12."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, 12, I've got a meeting, but can we do 1:00 p.m.?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, sure. Sounds good."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Done, buddy. So I'll see you tomorrow. I'll be sharing the link with you shortly."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Cool."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. Perfect. Thank you, Atik. Lovely. I am sure everyone learned a lot, uh, about the Ras Al Khaimah, about which benefit you could help him with. Okay. And who is ready now to give, um, a constructive feedback? First of all, the constructive feedback is what, uh, uh, Atik did great and what could he potentially improve? Yeah, who is who is there to Kritish, what do you think?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I think uh, Atik was very clear. The starting of the call was very interesting that even I didn't think of. I mean, the moment you That's from the cold calling script. We just we just. Yeah, but still but the way of doing is sometimes we just read it, but we're actually doing it. That's kind of a difference. But that's still fine. But yeah, only thing was like it was a longer bit. I mean, I felt that the the the broker got convinced, but I mean, when you think you're convinced, you cannot like keep extending it. You just have to like immediately you think once he's okay, then you just like send him a Zoom call. That's it. Because if you keep over-explaining him then it might be an issue. He maybe changes his mind. But but he was on point like most of the things he said about Ras Al Khaimah and telling him clearly that you know, the things are going like the things are getting selling out. So that was that was convincing me more. So I think the call was fine."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. Yeah. No, yeah, well, I liked that. Yeah, I'm going to give you a feedback. I like the flow. I like that you had a smile when you're talking. So that's immediately brings the conversation into more relaxed atmosphere. You use the pattern interrupt very fluently. It just took you like, boom, you got it and you go through that. Um, guys, you can create your own pattern interrupt. Just follow the the structure that it should be with a question in the end. Uh, what I can, you know, you're already like 80%, like 85, right? What could then on the like on the a little bit more advanced level and you're getting there is sometimes instead of saying, um, um, all the agents of BNOBG, he probably haven't told you, uh, how to close or what I'm doing differently. I'm telling to my agents on this and that, blah, blah, blah. So it was still maybe some somehow felt that my colleague is bad, right? Which can create a little bit like, uh, well, you know, he's saying that bad things about his colleague, but it's just not really nice. We can we can say the same thing, but on a different level. Atik, let me let me finish and I will I will share with you. It's like, well, for sure, I appreciate the way you're dealing with with that client. Um, have you actually, um, have you actually got, uh, like a coaching from him on how to close and was he, um, really participating in the conversation with your clients? Have you found that he's delivering value in helping you to close? Yeah. So I am not telling that this guy was not good in closing, helping. Who is telling this to himself? Raheel. Right? So I'm not the one who is saying that the other agent is bad. Raheel is saying, oh, well, actually he haven't done that. Okay, that like what I do is a little bit different. And then you can say, oh, I do this and I do that. So he before you are saying that how great you are, make him feel that he is lacking something. He is missing something. There's something was not done yet for him. Right? Okay. Yeah, sorry, I interrupted you. Tell me."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Um, no, just I wanted to clarify the fact is, um, obviously, you know, we never want to put our colleagues down. Um, the fact of the matter is, uh, Olga, uh, what I usually do is I actually ask them if the agent has been active with them. And if they say they do, I ask them, okay, uh, if that's the case, obviously, like, you know, OBG, we have different teams. Okay. So we specialize in different projects. For an example, um, obviously, you ask me about, um, uh, Al Marjan Islands, you know, we are trained in Al Marjan, like, you know, we know we know our house and Al Marjan like the back of our hands because we are trained in this project. Okay. But if you ask me about Double Tree by Hilton, um, you know, I'm not an expert in that. Okay. So if I'm talking to a client about a particular project, what I have to explain to him is that OBG is a big company. We have different teams specializing in different events and this is what we specialize on and I'd be able to assist, you know, we put that point across."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, perfect. Beautiful. However, guys, now when we are all going to be focusing on B2B, it's great for us to be a specialist in all of the projects as well. Yeah. So let's learn a little bit more about other projects. Yes, Raheel, tell me."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, I just had a question on the the the role play we did, Olga. What would have Atik, what's the best answer for him to have said if I told him that the other agent told me the exact same thing as you? Like he just said to me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do you want to role play that? Let's role play. I'm going to be I'm going to be saying. Look, um, Raheel, I'm the way I the way I deal with agents, I actually train them on how to sell a specific project, like which type of speech, which type of conversation they uh, should have with the clients and which question they should ask the client so the client will see, um, this is the best possible option for him."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, to be honest, Olga, that sounds great, but it's the same I'm hearing the same thing basically that the last agent told me as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, well, and was he going ahead with explaining and telling you and helping you in the way that he told you, he will?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, yeah, he did."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, and then what happened?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "We kind of just lost touch to be honest and Really, why?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Really, why?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Um, he didn't follow up with me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hmm. So, do you think it would be kind of useful if he will be kind of on top of that, a little bit more?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, definitely."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see what I did? I'm still looking for the same thing. I'm still looking for the gap. I never said that the agent was not good or whatever. If he if he will, Raheel, if I could I could play it in a different game. Like, look, that's that's how it is. That's how we train in One Broker Group. Yeah, we we're really on top of, uh, um, I would say, our agents in our team, right? We're helping them to really close the deal. Uh, but you've been working with other agent. Um, just for me to understand, are you kind of, um, you know, 100% satisfied with, um, I don't know, the response rate, the information he was giving you or how he was performing with you on a Zoom call with a client or maybe would you change something if you could? The same question. Now, with this question, I'm directing Raheel to think of what he would change and he will find the things he will change. He will find. He'll say, uh, well, he was he couldn't actually tell me more about that that project and that I don't care the outcome what he will tell me is irrelevant. What I'm digging with my question is the the bigger the gap between where this agent is now in a relationship understanding of OBG project or ability to sell to where he wants to be. So I'm now the one who helps him to bridge the gap to close the deal. That's it. But he has to talk about the gap. Yeah. Was that useful, Raheel? Was that the answer?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, thank you. Thank you, Olga. Yeah. Definitely."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, and if, let's imagine, and if the agent going to tell you, no, I'm actually like, that's my boyfriend working in OBG. He is eating and breathing with me. I know everything about OBG project. He's the best. That just means that this lead is not your client. It's a cold call, guys. You got me? You can you can switch it, right? You can do that. I will say another funny way like, look, I do believe that relationship should be connected well and all of that, you know, professional, personal level. Um, in just in case, if your boyfriend will ever be over busy or I don't want you, you know, maybe you will change your mind and you, you know, you're going to choose another man in your life. Would that be useful for us still to stay in touch? Yeah. So, if you will change your mind, would you you will potentially go to the same guy for the OBG project? I don't know. Maybe maybe not. Would that be a possibility? Anyway, guys, uh, what's the best thing with the cold calling to the agents is that you can have fun. You can be more human, right? They're not your kind of on the same level. They're not your clients, you know, you're not their puppy. They're the same client. Uh, they're the same as you. So come into this call with energy. You're I'm the same as me. You're the same as me. I'm the same as you. I know your problems. I know, uh, uh, how annoying the clients are. I'm here to help you to handle it. Yeah, makes sense? Perfect. Thank you, Atik, one more time for this amazing master session. Yeah, so, guys, let's let's smash this calls and let's next Tuesday come with certain outcomes, certain roadblocks, which you will have for sure when you're going to do this 100 calls. Okay? And then we on this side will be able to change, shift, maybe look for another databases of agent or maybe create a different events. We can invite the agents rather than just pitching, uh, me coming to the office or me going on on Zoom or me coming. Like, you got me, we will change the approaches if you will give us more information. Okay? Perfect. Then I am off and we're going to share this call recording is usually in the group. Thank you, guys. Any questions? Mariani's is here as well. I'm here. Well, see you on Tuesday."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Oh, Olga, I had a quick question, sorry. Just about the whole shifting to the B2B model. So does that mean we're not going to get any leads anymore, like like direct ones?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You're going to have way less leads. The way we're going to distribute it, it's still not clear, but I believe, um, that, um, it's more practical to have a dedicated B2C team who will be properly trained on how to do the online meetings, how to pitch to the direct clients. So the effectiveness of the marketing budget spent will be way higher, rather than someone who is already running between B2C and B2B, might be with the client, might be, you know, with the agency. Um, I see the model, again, that's just my point of view, is that we should have a dedicated team for the B2C clients and those team will have a little bit stricter rules in terms of where they should be, uh, how they should be available. So that going to be a duty day, right? There is a duty day where you have to be the same as frontline sales people. They have, uh, day when they are on a shift. So that means that you have to be on the shift, you have to be available. You have to sit in the office next to the camera, just in case you're going to get dropped the lead who wants to, uh, have a video call now. And you have to be trained on all of the projects of One Broker Group and additional competitors because we can sell anything and we have to leverage that model. Because what I've seen, again, going through the call recordings, is that the agent haven't done any qualification. Uh, the client briefly said that, well, I have 600,000 dirhams. And then the agent start pitching, uh, JW Marriott just because he knows the JW Marriott better than any other project. But the client is on the, you know, the client is on the Zoom. He is kind of entertaining this conversation, but he's just entertaining is, okay, um, will I be interested to walk through the video of $50 billion penthouse? Yeah. Does that mean that I'm a potential buyer? No. So both are wasting time. So and this this this was the lead. He might up his budget. He might be sold something, not with OBG even, with a different developer. If someone, for example, Nora Residences, we know about three, four other competitors. If whatever the reason, the payment plan for him has to be with the post and over. I know I'm a specialist in all of the projects of OBG and all of the projects that can be sold rather than OBG. So it's more like an off-plan agent overall, guys. You understand? If you will go to any real estate agency and they have off-plan team, the off-plan team is not only specialized in five projects. The off-plan team, uh, kind of should know all of the off-plan projects and be able to sell that. So these are guys who are coming to you. They have a kind of a foundational knowledge about different projects, but they're coming to you when you are dealing with them as a B2B type of client, when they need more knowledge about the project. Makes sense?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Any more questions? We're going to give you more clarification. I don't know, um, what will be the decision yet. I believe that, um, we have to be just more intentional with the B2C clients."
+    }
+  ]
+}

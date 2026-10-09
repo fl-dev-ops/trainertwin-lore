@@ -1,0 +1,32 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "And out of that training that we have in coaching, uh altogether, I think we've been for a little bit more than three months, I think. Yeah, in coaching. So what was the like the biggest takeaway or the biggest wow that you can say, yeah, this is the result that I've got."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I remember it was like, uh when I was talking to when I was doing cold calls and I had a very aggressive client on the cold call who was you know, who was very aggressive, negative. He was raising his voice. But the way I handled that call with peace, with peace in my mind, with the structured, you know, sentences and uh I was so I I wasn't nervous even at all during that call. I was like, okay, that's when I understood that yeah, I have kind of overcome this fear of making cold calls. Because I faced I faced what I was scared of and that's when I overcome it. So that's when I understood that yeah, it's not that scary. Because I kind of by doing this cold calls and having that support from you, I've built that uh what do you say, that support inside of me. Because the coaching that you were providing, it was not just about the real estate aspect. It was about the psychological aspect as well. How to build inside of you this support, how to find the how to understand that you don't need to be self you don't need to find outside validation. You have to find"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because you're validating yourself, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, you have to find this uh self-worth within yourself. And you have to understand that you are already enough. You don't need someone to say that, oh, you're a good person or or you're a good agent. You have to know yourself that you're a good person and you're a good agent."
+    }
+  ]
+}

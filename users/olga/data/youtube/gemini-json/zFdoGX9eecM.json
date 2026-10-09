@@ -1,0 +1,396 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 4,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "For those who joined recently, um, we are now discussing the lead."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What I was saying is like, uh, at the Zoom meeting it will become evident, you know, like, uh, and then what happens is that these people usually come you in the way that it says I have $10 million, you know, but I cannot transfer it. So it's like I need to borrow your account or something like that. And then the next thing they will say, okay, but uh, first is like, can you help me pay some of these transfer fees and transfer me some $500 and that's the scam."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, I I kind of brought them up to speed, but because we haven't had a proper conversation. Uh, so yesterday you discovered that he is actually not having a Malawi passport. Right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, no. He said he's having a British passport."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Oh. What else you what else you discovered?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, so I kept probing him on, you know, uh, access of funds and where is he getting the funds from? So what he mentioned was there is a company based out of Malaysia, Flash, uh, he mentioned the name, let me just check that. Uh, Flash commodities or something like this. Uh, and uh, they are giving him the money on 1% loan. So I was asking him basis what they're giving him the money. I mean, is it against his, uh, company or, you know, against what? Why would someone loan him like, you know, $10 million? So he didn't give me a proper answer to that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. But what what he was saying?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, yeah, so what I mentioned was, uh, yeah, that would be great because $10 million loan on 1% sounds too good to be true. So he said, uh, yeah, the loan company is called Flash Cooperative and it's a business loan. So I asked him, is this"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Flash cooperative."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, Flash Cooperative. So I asked him, is this, uh, business loan against your current business or, you know, against property business that you plan to develop in Dubai? Maybe like a proposal he has sent that, you know, he's planning to, uh, you know, start something in Dubai. So is it against that? So he mentioned no, just a normal loan. So I was trying to look at this Flash Cooperative, what kind of company they are. So in this, in this case, you know, how how do I proceed, Olga, like"
+    },
+    {
+      "speaker_id": "1",
+      "text": "We are here to help. I'm here to help with compliance, uh, Shida. So what she said was, you know, uh, he will need to give us some proof regarding his, uh, you know, his, uh, agreement with the Malaysian company, like, you know, a loan contract or, you know, something of those sorts and that the Malaysian company will not claim anything on the property that he's buying here."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, well, to be honest, we don't care, will they claim or no, that is their relationship. But additionally, which red flags will be that he being a British citizen, uh, the money going to be transferred from Malaysia."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "His bank account here, will he he will have to show the source of funds."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, he will have to show, yeah, even if"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What she mentioned was even if it is coming to the escrow from the Malaysian account or to his bank account and then he transfers to our account, uh, either way, he'll have to show his loan contract."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So this is what you discovered that he has to show the loan contract has to be shown. Then what he was telling you when I just wanted to know a little bit more because he told you, I'm going to come to Dubai. I'm going to open a bank account. They're going to send me the money to my bank account and then I'm going to buy the property, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So when he's planning to come to Dubai?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "He said he will be here probably by the end of this, this, uh, month."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is it like a one-off visit?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, so he's planning to come to Dubai to explore."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah. So that's what he mentioned. So I said, okay, in that case, you know, we can meet and then discuss further."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. And when he is planning to move?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "He's planning to move once, you know, he has all his property things sorted."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But what do what does he mean? That's what he's telling you, right? He thinks sorted. But what does he mean by that?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, see, what I think is he plans to come here. He plans to see how the market is like. Okay. And then identify whatever he wants to buy. If if this is a genuine case, this is what I feel. He plans to, uh, you know, identify the properties that he wants to buy and then once he has a clarity on that, then he plans to, you know, move the funds and then invest and then"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But he doesn't have an account. When he is planning to open an account?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "He doesn't have an account, but from what I know, uh, non-UAE residents can also start a bank account. Last time, remember, Olga, I was checking with you, right? For another client."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, yes. It's not for transferring immediately 10 million."
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, no."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, yes, Walter."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I just want to make a comment, Shibi."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. don't lend money without a guarantee or a collateral. So it's like, uh,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "This is this is what I asked, you know, the loan is against what, you know, there has to be something against what he's getting the loan, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. So if if the bank gives him the money to buy the house, maybe the house will be the collateral."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, the bank doesn't do that. Malaysian bank doesn't use it as a collateral. The if it's a personal loan, it's not about the collateral, it's about your salary or the income that you have. This is what they're looking for. This is not a business loan because I mean, for you to become an investor and I'm going to start making money with it, then you will have to then first as she be saying, prepare the proposal of the full full property portfolio and how much they will be generating and show it to the bank. That doesn't seems to be that way, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, that's what I asked him and he said it's a business loan. It's either against your existing business or it's against your Dubai property business that you plan to, you know, uh, develop here and then it's probably against that. So you need to show the kind of revenue that you're generating and then against that you're getting the 10 million. So, uh, he said it's just a business loan. So I I do I think, you know, the funds, if it's a genuine case, I think the funds are like you said, maybe he's trying to make black into white or something of that sorts. Uh,"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Shibi, I think, um, if it's a business loan, um, and it's done based on the proposal of a portfolio potentially in, uh, in in the UAE. A, it doesn't look like he's that far. So I'll probably ask for him to to validate his proposal, uh, based on that. Or if it's based on an existing business as as you also mentioned, um, tap into that, understand his current business, his current setup. Because"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, it's not that. From what I understood, what he mentioned was he he started a business but that failed and then he was working somewhere and then he quit working there. So it has nothing to do with his existing portfolio. That's what he mentioned. So I I seriously doubt that the money is coming from some unknown source and he doesn't want to declare it maybe now."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Well, if if that's the case, I can connect him with someone who can do a server to server or ledger to ledger."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Explain what does it mean, Fahad?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "I have no idea."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm starting to think that this is something to do with money laundering."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, that's what I"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I mean, it's you're just starting to think now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, at first I thought it was a scam. Now I'm believing it's more of a"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, it's one one or two. First of all, um, see, if it's a scam, you know, what kind of a scam are we looking at like?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "They will, uh, usually from these countries, they say that they have inherited this and they need somebody's help to borrow a bank account and then it's like they raise your, uh, your ambition, you know, and they're going to catch you there. So in this case, you're willing to get a commission, you want to close the sale. So it's like it sounds like it's a real person, it's a real deal. So he will tell you that he's having difficulties to transfer the money. So it's like, can you help? And then probably we'll ask you to, uh, borrow your bank account. So they will get your details for your bank account and that's dangerous. And then the other one is that they may say, you know, like, look, uh, they just froze my accounts here and I have the money here. Can you help me, uh, transferring $500 to pay this and, uh, and then they just scam you for $500, $1,000 or whatever you fall for."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, usually they start with a very small amount. So you won't suspect anything."
+    },
+    {
+      "speaker_id": "2",
+      "text": "At the Zoom meeting, you're going to see this because you're going to see the the guy how the environment around him. It's like, uh, I had a Zoom meeting yesterday and the guy was wearing like, uh, a very t-shirt and the background, you know, it was very hot. The place. So it's like you can tell right away like he's not going to be buying anything in W."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, for the, uh, let's imagine that Shibi is having the meeting, a Zoom meeting with this guy. Which questions should be asked? Let's just help Shibi and just lay down the questions."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "How soon will you be able to transfer the money, uh, to Dubai once you're here?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think it's a little bit like further in the line. What what what do we need to understand? Let's imagine we are just giving him, um, um, a bit of a trust, yeah? So which questions should Have you asked him, have you ever been to Dubai?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah. So he had been to Dubai, but that was like in 2007, he mentioned."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Have you asked him why he did why he decided to buy the property in Dubai?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, so what he mentioned was, uh, he wants to resettle into Dubai. He wants to like retire in Dubai. Uh, he's got a family, two daughters. One of them is, uh, already into college and the second one has to move into university. So he wants to enroll her somewhere in Dubai and he wants to move to Dubai. He's divorced, so his wife is not in the picture. Uh, yeah, so that's the reason that he wants to, you know, buy a property here. Or buy build that portfolio here, generate enough income to be paying back. He was very clear in the sense that he said, he has to pay back 370,000 USD every year to the bank, uh, against this loan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Good point. Good point. Okay. So let let So he wants to build a portfolio where he's able to pay back 370,000 USD to the bank every year. And he mentioned that he's speaking to couple of other agency agents as well. And one of them mentioned that it'll be good to have, uh, you know, a property where they promise you like 10% fixed ROI, like how we are doing in Ola. No, no, no. Unolax. Unolax, sorry, yeah. Where, you know, we promise a fixed percentage of ROI for, you know, three years or 10 years or whatever. So he said one of the agents mentioned that to him, what what do I think about that? So, yeah, I'm just telling you the conversations that we had."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So the the first thing that, uh, guys, before we're going to start jumping in, he's coming on end of the month, which is literally next week. Yeah. So what do we have to ask him? Just for us to clarify, is he actually coming? And to make sure he if he going to come, he going to meet us. What should we do?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Fix an appointment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which hotel does he stay? Which area? Which plans do you have? Uh, do you have already anything set up or you want me to recommend you the, um, structure which going to help you to, um, understand the area in depth, including the off-plan and secondary, do you want me to arrange that for you? You somehow taking a control out of his schedule. Make sense? Then regarding the money. I will ask him on which stage are you currently with this 10 million? We know how does it how does it sounds, right? So in in the beginning you should have a pre-approval. I'm so sorry, it's any loan like this. You have to have a pre-approval. Have you got a pre-approval? Mhm. If you're going to say yes, and then we can ask him even deep, which additional documents you will require regarding the, you know, properties that you will have here. Which additional documents you will require for the properties, which you will put potentially as a collateral. I'm I'm asking him. So where are you in the stage of getting the loan approval?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes, correct."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which additional documents you will require in the future from to to submit to the bank to get this finally approved. Um, then based on that, I would still ask him, have you had, um, a clear road map on where the bank will be sending you the money? Will you require to open a bank account here? Have you went through that process? Shibi, you're asking this question, let's imagine that he is a he's a solid client. You're asking this question for him to feel that he doesn't know so much and he needs you to help him."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because you by asking this question, you're showing him that you know how to do things."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. Right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Got me?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Right. So he already mentioned he has several agents."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right. Yeah, I wanted to understand. You're asking him, have he already had a clear road map? That's why I'm giving it like so broad. How the money will be sent from Malaysian bank to Dubai? Does he need a bank account?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Does he need anything else? Because, um, there is an option, uh, to, for example, transfer the money through crypto."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Or there is an option without him needed to open a bank account, there is a financial institution which going to open for the specific project or for specific person an escrow account. Yes. Where he will be transferring the money and from this escrow account, which is not his bank account in the Right. in the bank."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, we had those meeting, Olga, right? Uh, I forgot the name of that company. I was trying to remember that and I was like, uh,"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Real trust."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Real trust. Yes, real trust. Okay. So wherein they will act as the intermediary in terms of getting the funds. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, potentially. So again, Shibi, what you're trying to do, you're trying to show that you know a lot of things, he doesn't know them, he needs you. Because what's going to happen with the average agent who got this lead? He's going to be running, sending him the properties, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Creating the presentation, the same as you was planning to do."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which is not the case."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So then, uh, guys, that's what I say, he's planning to move in Dubai."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah. So he needs to buy a property."
+    },
+    {
+      "speaker_id": "3",
+      "text": "And one other thing, Olga, he kept asking me, uh, you know, should I send the money in smaller amounts? Uh, do you think it's a problem? Uh, you know, do you do you see there is an issue? Then I asked him about the KYC. He kept reiterating this, like, you know, do you think I should send it in smaller amounts? Uh,"
+    },
+    {
+      "speaker_id": "4",
+      "text": "That's a valid question actually because, um, I've spoken to bankers, that was my next question to Shibi because each bank has limits for inward remittances. So China, um, I know a Chinese investor with 15 million and the bank said, no, you can't bring in that much. Uh, you need to split it by one and, uh, they're not accepting China, even though they're not on the list, can you imagine? So, uh, so those kind of things have to be looked into."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's because it's because of Chinese banks. The Chinese bank is not allowing to send it. It's not about a UAE bank, it's about the China regulation."
+    },
+    {
+      "speaker_id": "4",
+      "text": "In this case, uh, the the bank, the account, the money was somewhere else. The KYC was China in an offshore account. So that's that's the I can give the bank UAE bank names, but that would be contrary, but each bank has it, Olga. From what I know, from what I have experienced myself. And also very importantly, uh, Shibi, since she's here since the beginning, knows that banks work differently here. They have a fixed amount per month, even if you have money, you don't have money, they have a limitation of $200,000 for privileged, uh, banking, uh, better forex rates, conversions. So those kind of things can be put forward to."
+    }
+  ]
+}

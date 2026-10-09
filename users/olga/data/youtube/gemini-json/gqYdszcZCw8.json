@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Guys, there's only two reasons someone going to think it's too expensive. One reason is they really don't have the money, or they don't have the money now, or they don't have the money in that amount. And the other reason is the value that you've put into this uh offer is not enough in the mind of the client to much the price."
+    }
+  ]
+}

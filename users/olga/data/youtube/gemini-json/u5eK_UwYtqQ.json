@@ -1,0 +1,24 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "how to explain a client, how to convince a client, why the project is a good investment especially for this budget. Okay. So now for his budget."
+    },
+    {
+      "speaker_id": "2",
+      "text": "With this question we have to step back a bit and look at the qualification of the client. With the questions we ask him within the qualification, specifically the stage of the features and benefits of the property that he wants to have and his financial ability to kind of put the money with the payment structure which is fitting his requirements. That's going to be two main things. And then before we as well ask him about the let's say the reasons, the motivation, the pain that he's trying to fix with this investment, whatever it is. I want to make money, so I can retire earlier or I can stop paying taxes in my own country or something like this. I can move my family here. So this is all we extracted before. So if you haven't done the proper qualification process, if you haven't like pull out this information not only for you, for the client as well, in your presentation, because that's what you're asking me, how to explain, this is how to present. The presentation stage of any sales process is automatically generating more resistance from the client. The sales resistance goes up just because the client understand he's in the sales process. So now you will ask for money. Before that was all song and dance, look good. And then you see it's it's a time. So that's very important in this stage, when we present, we use the set language structures. So remember how you said that you wanted XYZ, so this property has exactly that. This is the structure that you're doing. In this way, you tied up what he told you he wanted to the property that you show."
+    }
+  ]
+}

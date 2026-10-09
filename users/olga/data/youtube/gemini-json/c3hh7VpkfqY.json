@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "You have a pocket listings, so does everyone else, but how to convert them? That's the question. It's listed with three other agents, but the property is still on the market. So, what they are doing wrong? You have to find that and tell that to the landlord. Are they actually working with other agent, maximizing the ability of the seller to get the client? Are they quick enough in responding in the calls and arranging the viewings? Are they providing the property performance report? Are they really protecting the seller's side in the negotiation? Guess what, guys, that's just the tip of the iceberg. But if you want to know more, you have to do what? Come to Chattons."
+    }
+  ]
+}

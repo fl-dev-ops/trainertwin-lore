@@ -1,0 +1,324 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 5,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "aren't cannot. Uh Sam, do you want to jump in and try? Be an agent. You see, you the universe is putting everything in you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'll be a client for you, Sam."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Oh my gosh. It's good. It's okay. Breathe, breathe."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, just in front of everyone, I get kind of nervous."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm going to I'm going to pull the script for you. Just to kind of have some sort of plan where to go. Perfect. Ring ring."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And Yes, yes. I just like to say am I going to be the agent for Sam?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You're you're going to be an agent for Sam."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And can we do something a little different?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You're going to be you're going to be the client for Sam. Yes. You can do something."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I want him to be if if it's okay with Sam, I want him to be a client that is speaking to a few different agencies, so knows a little bit about a lot and I want to see how you can kind of keep the conversation going. So I don't really know much, but maybe I think I do."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Doesn't matter. These clients they think they know things as well, but they don't, so."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Cool. Let's do that."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. Um, yes. Ring ring."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hi. Hi, this is Sam. How are you doing?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, I'm not not too bad. Hi, Sam."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Who's this?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, uh, this is about a request you made a while back, possibly looking to invest in Dubai real estate. Is that something that you're still looking for or have you found your?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, I've made I've made a few few requests um next to the casino. I'm not sure are you over that area?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, yeah, actually we have a lot of projects there right now at Al Marjan Island. Um, was there any project in specific that any project?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, I wanted I wanted it um on the the island nearest to the casino. What what island what island is your project on?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Well, so we have projects in the second island and the the fourth island. The third island is where the Wind Casino is located. Okay. Yeah, yeah, I was looking around Island two, Island four."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, okay. And what what what are you looking to invest in this type of project right now?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "The main thing I know there the government have got a lot of government planning behind them. So it's really on the square foot. I've got about two to 2.5 million dirhams um and I wanted something that is around 3,000 square foot."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, perfect."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, we actually have um two projects there we could work for you. Um, so is this your first investment here? Do you already have some?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It would be it would be it would be yes."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. And where where are you speaking from?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm I'm from the UK from London."
+    },
+    {
+      "speaker_id": "4",
+      "text": "From the UK. Oh, nice. Uh, and what makes you want to invest here in Dubai and Ras Al Khaimah more specifically?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Just like everyone else, the casino, the casino. So I'm just trying to get the the best unit, win views, hopefully you've got a few and um the best capital appreciation and ROI. So that's why I know Island two, Island four. Those are the closest because the majority got the win views and um the highest capital appreciation. What's your what project do you have that gives me the highest ROI at the moment?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, yeah, I mean, we can go over that. Um, usually what I do is I schedule a Zoom meeting so I can present to you the projects. I can show you some images and we can talk more about the numbers. Um, this call right now is more so so we're on the same page, you know, I'm I'm investment advisor, so I like to qualify my clients to see where they're at at the moment. So we can have a uh a meeting and go through the the specifics of the projects. Does that sound good to you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, no, I definitely think we're on the same page. I'm definitely going to put some money in rack. It's just to understand what ROI is best. So I've got a few I've spoke to BMW um and Ellington. They can give me around 9 to 12% ROI. What can your project give you?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, actually we have projects that we have 10% guaranteed ROI for the first five years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that will be the win view."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Sorry?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is that with a view of the Wind Casino?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, we we would have to check the the available units because not all units would have view to the Wind Casino. Uh, but like I said, this is an investment that you would have your."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is that is that from the beach?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, no, it's it's actually two minutes away from the beach. It's not exactly beach front, but it's really two minutes walk to the beach. Uh, but like I said, this is an investment that that you would have a guaranteed ROI, 10% ROI. So that's something that if you're looking for a safe investment, let's say. Uh, not saying that the my other options that are not safe, but this is guaranteed. They have a contract. They have to give you the 10% ROI every year. Uh, but we do have."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How long is that for?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "The are beach front actually and then I'm just going to."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How long is the 10% ROI?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "For five years, the first five years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's good. That's good. I'll get like 50% on my investment in the first five years, liquid."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yes. Yeah, so this is a."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'll definitely look at that one."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay, perfect. Yeah, so we can go through that on the next meeting. Um, like I was saying, we also have we do have options that are beach front and it has Wind Casino view, sea view. So of course, we're talking about a uh a little bit higher investment in regards of the the projects that I was talking about with 10% guarantee. But if that's something that also interests you, I can we can go through both projects uh during the meeting. Okay. And yeah, so when would you be available for that meeting? Is this week fine for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Over five years, I could meet you to I could meet you tomorrow. Well, I've got a flight tomorrow, so in the evening. I can come to the office perhaps, go over things because I'm trying to finalize everything in next week."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Oh, so you're you're actually flying to Dubai?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yep."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Oh, that's perfect. Okay. So we can schedule a meeting here at the office and I can I can actually show you one of the mockups for the project and and yeah, this is perfect. Uh what time exactly would be better for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm landing in the morning, so I can do the afternoon around 3, 4 p.m. Dubai time. Where's your office based?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh, we're here in Marina in Marina. It's the I can send you the address on WhatsApp to make it easier for you. Um."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I'll be there tomorrow. So yeah, send me over WhatsApp of the two projects um and I'll come by 3, 4 p.m. tomorrow."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. Yeah, I'll be waiting for you here at 3 p.m. That that sound good to you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "All right. Thank you, Malakai. It was good talking to you and I'll see you tomorrow."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Fantastic. Guys, have you had a feeling that Sam is almost closing a deal, right? All of this role play is actually it's it's it's like a psychology session with uh Gestalt therapy. You're going through that and you're actually closing the deal with Malaki. Okay, uh."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, I I actually got excited for the meeting tomorrow."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see? You see? That's that's that's a good thing that can move you forward. Okay, so, who is ready to give the feedback to Sam? Anyone who can unmute himself? Yes, please."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Go ahead, Tina."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, we can hear you, yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "So to start with, that was a very good uh conversation. It was a very good call and well done Malakai. It was um a different side of the of a call. A good one. So it gave us a a on where exactly we can go. Not all clients are going to be difficult, so you gave us another side of a client. And um to start with, um there is Sam. Malakai had all the time to talk to you and I feel like you were supposed to go into more detail in understanding what he was looking for. You already mentioned he was looking, you didn't even ask him. You mentioned he was looking into BMW, Ellington, blah, blah. You were supposed to understand why he was already looking into those projects, his budget, what he wanted from those projects and see how you can compare to what we have in our stock and which one exactly to offer to him. And Malakai is more into ROI. So good job on mentioning that he has you have the 10% ROI guaranteed, but also you need to look into your speech was more supposed to be to the ROI. Malakai had all the time to talk to you and um for him to get you to the next meeting, I think you were supposed to just give him all the inform try to talk to him more and make him understand our projects more so that he's even more keen to come and see what you have to offer. And um, yeah, also understand like his budget and his number of bedrooms because he might be looking into BMW and um and Ellington, but you also need to know why those projects where they are and they're not really what you can compare. Maybe you actually want a beachfront and those projects might not be on the beachfront. You know which one to offer him, you know. So, inasmuch as Malakai had all the time, um Sam you were supposed to really use that opportunity to brag as much as you can and give him that keenness to actually give come to your office and have a better conversation. You could have actually closed him on that call because he was really keen and really listening and he was giving you all the time. It was really easy to close him on that call."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't believe in closing on the call, Tina, specifically if we find out that he's coming here."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's I will I will I will give my explanation. Um there are an impulsive buyers who potentially will do that. But that's always goes down to he might say, yes, I'm interested. I'm going to send him a link. He's not going to pay because he's coming to Dubai. And that's going to bounce back to me as a refund or the client decided to cancel because he felt that he was I would say drone or manipulated into the deal. Then the client can just never talk to you."
+    },
+    {
+      "speaker_id": "3",
+      "text": "But let's look at the call exactly with how the call was going."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Completely agree with you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "He needs to know the reason for his his visit to Dubai. Has he got other meetings involved? 100%. You know, so we could have dived deeper on that visit to Dubai."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, um, so thank you for the feedback, Tina. And that's something I actually have been trying to figure out and I wanted to ask Olga about it. Uh, it's it's exactly what you guys are talking about that how much information should I actually give in a call like this? And when would be the right time to try to schedule a meeting or should I just keep the conversation going?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would not keep the conversation going. I would I would he wanted to know about this uh beach front. He wanted to know about 10% ROI. He wanted to know about all of this project. What I need to build in his head is that you can show him everything and you are not overselling at the same time. You see, I would not say, oh, that's going to be really good for you. This is a really good project. I would say like, Malaki, uh I can I understand that you are dealing with different developers and the companies. That's absolutely normal and that's exactly what I would do if I were in your place. Just for me to understand and prepare for our meeting, uh which kind of project in BMW or Ellington kind of sparkle your interest? Uh, okay. And and what was it that maybe a type of unit that you remember that they shared with you? Uh, and how do you feel about those project right now in terms of, yes, it's a right project for me or do they have a potential? Mhm. And what did you like about this? What you didn't like? Just for me to prepare when we're going to meet, um the best possible options or even though I'm happy to compare the options that you're looking at with other developers, just not to, let's say, pitch you that what I have is the best, but more like to show you because I can sell you any of those at the same price. I don't care. Just for you to see with uh a different point of view, more, let's say, point of your person who is here on the ground, how does those compare to each other? Would that help you if I will do that? Yeah. So your meetings in uh BMW and Ellington, have you scheduled them already? Just for us to understand. I would do, um it depends. I will either try to be the first one or the last one. I'm not going to schedule myself in between. If I would again, this is just a little bit over the top. Uh, if I had maybe two conversations with Malaki, I will try to meet him maybe I know the guys are doing this. They're picking up people from the airport. I know that Sam is doing this. I will ask, have you already arranged your pickup or maybe you scheduled? He he going to tell me that there is some other agent picking him up from the airport. That I want to have the first meeting with him. Because most probably that agent going to move his day around. You got me? Uh about selling over phone or giving too much information. Look, the person is not able to see any anything, right? He's on the phone. I'm my my as much as my beautiful language will allow me to describe the W residence or so on Lux and the numbers, even if I'm going to give him an exact read the exact calculation. What is the guarantee that he will be able to comprehend this information, right? It's very very very difficult. So, that's that's my take on it. I I would uh you know, I would not hope for the lottery winning that the person is going to say yes on the phone and I'm going to close him then and there. Can this happen? Yes, potentially. How many times that has happened in my whole career? I don't know. None, probably. Yes, Malaki."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Just my little feedback. I tried to because I was um being a little bit hard on Sam. I tried to. You were not actually. Was he hard? I was very direct. I tried to give him a little bone there when I said I'm investing this week. I want so my little feedback for Sam and you know, it was it was a a different type of conversation was to double down onto why and you know, my kind of transaction process and my motivation to invest on that week. I think that would have turned the conversation as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, as well. Because we we might find the client who just need to move his money because otherwise he going to lose them. And then we know it's not about as much as the project as it's about how easy and fast the company will be able to process the documents, uh with a less hustle. Does he know already how he going to move the money? So I'm going to be useful for him into that regard. But Sam, overall, very good. One advice, smile on your face when you talk on the phone. Just smile. That going to give a different tone to your voice. It's already very friendly, but when you smile, that's it."
+    }
+  ]
+}

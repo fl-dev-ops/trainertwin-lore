@@ -1,0 +1,92 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Olga"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Guys, I'm going to go through a lot of documents today, but I will share all of them with you. Mandatory Google Meet setup. Clear professional background. Your name and the company name. As you can see, it's Olga Sinenko. You can see it's, you know, that means you have to join from your company profile. It's always going to be automatically there. Client should have a camera on as well. And believe me, in my years when I was selling, if the client is not on camera, I'm not going to do a presentation, but I'm not going to act, um, rude to him. I'm just going to act dumb. And this is exactly what I put here for you to ask and say if the client is not on camera. Uh, it seems like your camera is not working. Uh, can you please check on your end? You just not assume the client does want to be on camera. Maybe he didn't know that he needs to be on camera. And Guys, I'm running really quickly through this training. Otherwise, I would ask you the question, I will wait for your response. Why do you think the client has to be on camera? But I'm going to answer this question myself. Because you have to see is the person is actually reacting in whatever you're doing. Is he is he engaged? Is he even looking? But rather than that, if the person is not on camera, I don't know, I mean, I'm so sorry. I'm a lady. I don't know what's going on down there, right? Maybe he's fall asleep. No, we are not engagement going to be very low. The only excuse or whatever the camera is not working, then I'm going to cut that short and I will still try to rebook the other meeting. Yeah? I mean, I would not do the full presentation if the camera is not working. And like, you need to see you have to the idea of you to be with the client is to have this connection face to face. So, uh, if the client is on the phone and he's walking somewhere, right? If he's on the phone, even sitting somewhere, I will do kind of the same thing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, yeah, hi, Olga, just a quick question. Um, I've had this issue sometimes where client, uh, they, they are more comfortable with talking with their cameras off. Number one. Number two, uh, they feel that, uh, because sometimes"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Have they asked you that? Have you asked them, I mean, they told you, oh, we are not comfortable with the camera on."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, yeah, I did."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, you just assume."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, no, no. I did ask them, but then they'll be like, yeah, sometimes, yeah, I'm on the road and all of that stuff. But, but like you said,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Love it, love it, love it. If he's on the road,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, but if we actually let them go and do not, um, you know, like we say like, okay, we'll reschedule for another time, we might even lose the chance of them coming online right now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, I take, I take, let me ask you this. If the client is on the road driving, what's the probability of him paying attention on anything you're saying? And what I'm teaching is you actually have to share the screen, so he will see the numbers of rating, he will see your, uh, beautiful renders. How that's going to happen if the person is driving? Well, what I'm trying to tell you guys, if you are agreeing on that, you're lowering your standards, first of all, and and then, um, well, he's not going to buy from you anyway. That that's not the product is not a glasses. He was not attentive, he couldn't understand anything, he didn't like, he didn't get the questions and you don't know how engaged he is. What I've seen a lot is that actually client is in camera, client was with the pen and paper writing down, and the agent was not. Well, that's a problem. Look, if if the client is driving, if the client is walking, um, I'm saying, uh, look, is there is there any chance that that, I mean, you're working for for is it a long trip or when you're going to be in a kind of quiet place so you can, uh, focus and see the numbers that I'm about to share with you. That's what I'm going to navigate. And if the person is driving, you can say like, uh, really appreciate that. Uh, unfortunately, it's against our company policy because you're driving now, uh, there is a video that's going on. I don't want anything to happen. And our company specifically instructed us to be very careful with our clients. So would that be useful for us if we maybe book a little bit further time today when you're going to arrive in a destination?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Understood."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's it. There is no point like the reality is, uh, you can waste your time right now, or you can take a chance, tell him, increase your status and book him for another appointment."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but my question here is sometimes, uh, sometimes, uh, if we let them go, they might not come back like, you know, again, they might"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, how many of that people who were not on camera with you or driving bought from you eventually?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I did have a couple of plans who bought from."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, they bought from you without being on camera after the zoom?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, no, but they did eventually come online."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I am my structure is if the client is driving, I'm not going to present him. It's a waste of time. If the client is walking on the busy street, like seriously, guys, you What is that? If the client doesn't have, um, a value into in this meeting, it's your now turn to create this value. And that's why you can say we can have a quick chat, right? Uh, but you're not going to be able to see actually the data from the statistics platform that only we as professionals have access to. That's exactly what I wanted to show you. So you will decide for yourself, the if the market opportunities or the ROI is actually that lucrative. Like rather than, you know, you listening and hearing like all of the agents are saying 7 to 10%. What I wanted to show you the numbers which are creating this 7 or 10 or 20%. Would that be useful if we book the time where you will be actually able to see that? You see, you create the value. Because chit-chatting with you, there is not much value for him. Or he'd been chatting with hundreds of agents. But if you will create the value that he will be able to see and, um, listen to my language. It's not like, oh, I will show you this, I will show you that. No one cares about you. What the people care about themselves. So that's why you have to fix the language and the questions that I'm going to be teaching here are with neuro-emotional persuasion technique. So, that means that the best way and the best and the best use of it is actually to use them as they've been given. Not to change them, not to twist them, not to say something similar, because neuro-emotional persuasion is the way of asking question, the people are responding to your question and telling to themselves from their mouth to their ears, what you wanted to tell them. Because no one trusts, there's no trust in you, you're the sales person. And everyone having 100% trust to whom? To ourselves. So, why won't we use that? Yeah?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Correct. Thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Correct. Um, believe me, I've taught this trick several I'm not several times, many times. Uh, my, uh, my clients, they were even able to put the meeting on the Zoom recording. But now with us, we have an opportunity to record the meeting without even client understanding. But back in the days, it was just, you know, you put the Zoom on recording, the client will understand that this is recording. And usually the client going to say, oh no, why are you recording this? So teach them how to actually make the client feel that you're recording for him. And they was like, yeah, absolutely, give it put it on recording. So, coming back, we you are the one who is leading the meeting. You are the one who is asking the questions. Not the client is asking you the questions, which is majority of the time, the client is taking advantage of, oh, tell me about this, tell me about that. And then that's not you who's steering the process. So the way to take the initiative back, I'm not saying you're not to answer the questions to the client. You are answering the question and instead of, okay, the Dubai is like blah, blah, blah, real estate market. Stop. And then you're waiting for what? For the client to ask you the next question, right? So where you to take the initiative back, you have to finish with the question, right? They put the hook inside of him. So this is the engagement, right? The Dubai blah, blah, blah. But for you specifically, why do you think that, you know, investing in Dubai now is the right time? So let him answer this question, so he will convince himself that this is the right time now. Okay. First part of the process is introduction. Not many been doing this. I wrote you a simple script, you can follow it, you can change it, you can do whatever you want, just to give you a little bit more credibility. Over here, you will see that I put the which problem do you solve? Hi, my name is Olga, I'm an investment advisor, um, with One Broker Group. Uh, I've been with the company for X amount of years, or I overall in Dubai real estate market, I'm, uh, 10 plus years. Uh, I work closely with both, like local investors here and international. And, uh, uh, my our team focuses or I'm I'm focusing on, um, uh, helping the first time investors, it's depending on whom are you talking with. If it's a first time investor, you're going to be focusing on first time investor. It's like a, uh, investor who has already a portfolio, like you're going to be talking about helping the investors who already invested before in Dubai to kind of help them with diversification of their portfolio, or you're helping the first time investors, um, to to build the most profitable strategies and help them with the short-term or long-term, uh, investment plans, right? Uh, how to present yourself. Hi, my name is Olga, I'm an investor advisor, uh, One Broker Group. I've been working with the company for X amount of years and, you know, if you have more years in Dubai real estate, I would say overall in Dubai real estate, I'm for 10 plus years. Then you a little bit tailor what you say based on whom are you talking to. Is a first time investor, then you're going to talk about the first time investor, is investor who already invested, then you're going to change it, right? Uh, for the first time investor, I will say, um, I'm helping, uh, the first time investors to enter the market and build the most profitable strategies for the short-term and the long-term. Uh, if it's an experienced investor who already has a couple of properties, I would say, we're helping the experienced investor to diversify the current portfolio, so they will have higher profits with the lower risks. Basic, guys, it's just nothing, nothing amazing. Uh, then One Broker Group. I can see that not many of you, uh, been talking about the company, been talking about the developer, been talking about the project, yes, but not talking about the company and this is a massive, uh, uh, credibility which the investors from outside of UAE who doesn't know us, they will need that. Yeah? I'm now afraid. Are we on the market since 2016? I promise to double check this. And then I will change it. And that automatically will change in your document as well. We are leading master broker, uh, UAE, closely working with many Dubai top, uh, developers. You can say that we got the award in 2022. Uh, but what I'm mainly going to be focusing on is that currently we have, um, eight plus projects, uh, in our portfolio that we're actively, um, supporting, uh, we're working constantly with, uh, Russell Hema government and with Dubai government. Um, inside of our company, we are basically hand holding you through the whole process. Yeah? So what different is as if you will go to the any other development company is that they're going to just, you know, sell you the unit and then the next call that you're going to receive from them is like, well, your next payment is at this day. So what we do is a little bit different. We're not only hold hand hold you from the process of the construction. We will help you with the handover. We have a separate department who is dealing with it. Uh, meanwhile, if you will decide to exit before the handover or after handover or even in the early stages, we will help you to the sell the unit. And then we will actually develop a an exit strategies for you, right? Well, whenever you want to exit, you want to get a long-term, uh, price appreciation plus long-term rental income, or you want to get the price appreciation with the short-term rental income. We have the property management companies, we're going to help you with, uh, the long-term. We we have a short-term, uh, holiday home company who going to manage your unit and make sure that you kind of generate, uh, maximum profit. So we have everything under one roof including design and renovation that we can do for you. So that's the difference. So you you you're kind of selling us as a full package."
+    }
+  ]
+}

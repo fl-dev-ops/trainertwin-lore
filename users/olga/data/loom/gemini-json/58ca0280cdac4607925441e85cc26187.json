@@ -1,0 +1,788 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Perfect. So, this is from your experience. This is a guys you've been dealing with, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I've I've been dealing with and most likely there is no further development on these leads."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Or they stalled. So, let's play this uh in this way. You will tell me what you see here as a strategy, what could be done, why you decided that this strategy could work, and then I will show you what I see."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So the first one, Joel, he came to me. I mean, you you have the brief, yeah. He came to me, he was ready to transact, but his concern was he already submitted two EIs and uh he wasn't even ready for a Zoom meeting. My intention was to get him to a Zoom meeting, but I didn't succeed."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh-huh. So, let's look at this guy in terms of the sales funnel. You remember the sales funnel I I teach."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Where do you think this guy is already on the sales funnel? Is he one who discovered the problem? Is he one who looking for solutions? Where he is?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, ready to transact."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's on the bottom."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Bottom, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In this stage, realistically, there is very hard to bring them on a Zoom meeting because there is nothing that they want from you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The Zoom meeting is not always how it should be done. For me, I would ask Ali, uh, this guy, why Ali? I understand that you really want it, but what specifically about this project? Because he knows the answer on that. I would never advise you to ask the same question from this Australian guy in the bottom because he doesn't know what he's not he doesn't have any information. But someone who is already on the bottom of the funnel, he knows. He's going to tell me. Why am even asking this? Not for me to tell him to sell himself, well, a little bit. It's more for me to understand the way he sees the outcome. And you have an expertise already to compare where in other project he could have a similar outcome."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So your goal is to discover why he is so much fixated on sleep. Uh, Ali. And realistically, there's not much you can do with this person. He is someone with the shoes uh, size 41. If you don't have 41, I don't I'm not going to I'm I'm I'm browsing online. You're telling me, oh, come to the shop, check the shoes. I'm like, yeah, I'm sorry, I'm 41. Do you have 41? Oh, let's see, let's come. I was like, no, I'm not coming because if you don't have 41, there's no point for me coming. It's not like I'm going to potentially squeeze myself in 39. You understand?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hmm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So with this specific client, if you"
+    },
+    {
+      "speaker_id": "2",
+      "text": "He was fixated on because it's a CV and he was pretty convinced. Uh, this is going to be a huge hit in the future and also he already have one, two investments. So he's committed with payments, monthly recurring payments, or monthly or quarterly recurring payments. On other than that, his cousin had worked in Dubai real estate for eight years. He left the scene and now he's frustrated talking to 20 brokers and everyone is saying in the same the same thing. That's how he ended up paying two EIs. This is the premises."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Then I will connect myself if if this is a conversation, then I will connect myself to that. And what are all of these brokers are telling you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So I'm not like them. What are all of these brokers are telling you? And and look, I understand it's frustrating. I mean, I work in the industry. So what are they want from you? Ah, so you're kind of someone who is not a broker with him."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But realistically, why they couldn't get the AI? Because it was uh, it was overbooked?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it was overbooked and uh the EIs were collected like three times of the actual number of units."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, you you cannot do anything. I would I would talk to him like, um, anyway, this is luck. No one can promise you. It's not like anyone has a special magic power. They're going to give the developer will give the priority to those who are buying in bulk and buying multiple units. You just want one bedroom. This is the most hot commodity."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And he wanted a payment plan, correct?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Regardless of the payment plan, it was because it's a government all about. I even tried booking the full 20% and 4% SLD with the developer, but that wasn't happening."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's it. I would say like, this is a lottery. They always going to give the priority to even if they will select the AI, they will give the priority to those who are able to pay cash."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, you cannot blame them. It's just it's not a Santa Claus kind of type of event. So my goal is like, I understand that you're frustrated, but not not like a broker. It's just reality of life, which is something which is in high demand is always uh, not easy to obtain. Are you now, what is your plan B? I'm asking him. And I would ask him like, you submitted two AI. Uh, look, I'm here to not tell you anything. I just want to kind of understand what else you can do in this situation from your perspective. What is your plan B? If not this, then which project? Or what are you going to be doing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So the last stage is then I pretty much told him, see, this is not happening. Uh, then I shared an analysis which I did for another client and he told me, I'll go through and get back. Now my budget is maximum 1.1. Payment plan is he need a uh, you know, 2080 or 3070 payment plan."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which one? Sorry."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Anything then I ever tried to I tried to give him"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which payment plan he needed?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "7030 or 2080. Least exposure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "3070 or 2080."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Then he replied to me that okay, I'll get back to you on that and uh then after that I shared two options like India's and Arinsha. The yards by Beyond, it's 4060, it's doable. But uh he he never responded after 12th of June."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He never responded after 12th of June."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, let me tell you. My my intention is not to perhaps we may not get this client. So if we if I were to steer that conversation, uh, how should I have done? I mean, that's what I wanted to know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "For this specific client, uh, because you haven't had like, sometimes it's not much we can do, even without all of the beautiful sales skills. So just the person doesn't have a financial capacity to do anything. And then he um, that's that's like a kind of case. There is not much in product for his budget and his expectations."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "For me, for example, what I would do, I would from the beginning ask that, like, what are these brokers are telling you? Are you already submitting two EIs and and and you are still talking to me? Is this because you don't trust those brokers or or why? Because how you got this client? He clicked on some ad or what?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so he's still looking option. And I was like, okay, so you're still considering option."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because he was sure by that time that he wouldn't be getting any unit."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Makes sense. Do you want potentially to develop a plan B? That doesn't mean that you have to take it, just for you to have it. Is this what you're trying to to to kind of look for?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm and he has to agree or no, I'm just like, you're like, you're clicking on the options. So that's definitely we are not advertising one bedroom full CV for 1.1. So you click on the other options. So you're clearly looking for something. This is my thought process. So do you do you want to keep looking on your own or you want me like, I'm a little bit crazy analytical person. Do you want me to kind of show you what I do for my client?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He might say no. But this is this is the angle you can try next time. Because look, what I'm what I'm thinking, what this person is actually want? What is his real situation? Because on paper we are saying one thing, but underneath we say underneath the reason is completely different or might be different."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And eight years of he verifies everything with him. Um, okay, so cousin is not in real estate anymore."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, he left Dubai. Maybe he's in Australia, Canada, I don't know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Then I would say, so what what your cousin advise you? Like overall, like what what is his main advice for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I was like, and when exactly he left? Ah, two years. Okay, well, he has quite a fresh understanding of the market."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's what I would do. I need to discredit him and he can still be very fine stuff, but I will say, so the so the cousin advised you advise you this full CV unit?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will maybe dig into this. You never had a conversation, a phone conversation with him?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I never had. He was hesitant to get on a conversation."
+    },
+    {
+      "speaker_id": "1",
+      "text": "His whole point, he wasted his time talking to 20 brokers. Why would he spend another 20 minutes talking to another broker? Supposedly everyone saying the same thing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And that's why I'm asking, so what are they telling you? I'm just curious. Like it's 20 different brokers tell him the same thing. What are they telling you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This I will try to again, if if he's not on the call, I will try to do the videos. I will try to do some sort of maybe a loom for him, compare not the text that you've sent him, but compare the things that um, the project, maybe he's more visual. I will try to do it from that angle. Have you tried that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I haven't."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so let's Okay, that's the next logical step. I mean, make a small loom uh recording and uh send it to him."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "First. Loom. I know you hate talking to brokers. So I just recorded this video as a way to share um, the options."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is your first uh opening line in the video. And you can put it as a text as well. Then video notes. He what are these brokers telling you? Video notes. Goal to humanize the sales. And then now, next step. Video note. Have you found what you're looking for? Or you're still looking? You remember that there's like, I don't want to spam you, blah, blah, blah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh my God. Yeah, yeah, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So this is an option to try."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "The project by. My question, uh, about this client, why he wanted three or four bedroom unit?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I didn't actually discover that. Because he was also"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's strange for me. He's from UK, looking for four or five bedroom unit. Why?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And that too, that unit was never there in that uh only a penthouse of a four bedroom in that entire uh in that Skyflame. And somebody wanted to spend eight six to eight million. Why would someone consider uh Skyflame in Majan?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It it depends. You have to understand that penthouse buyers are very specific type of buyers. And penthouse is not a bad investment. It's not about the price, it's about the um limitation. It's a very limited supply."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So it's it's it's interesting product to understand. I'm not saying that I'm a specialist at selling penthouses. I've never never sold any, but I know I tried. So I kind of understand how it works. So my first question, why three, four bedrooms?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, this client that stage has been passed. I mean, now now we are talking about Dominic. Okay, right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, Dominic, Dominic."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Dominic Tyler, he last, I'm tied up today, so we'll revert back later in the morning. That was 20th of May. After 20th of May, what was the last response? Okay. Dominic, I mean, I I sent him this message. Fair point. I probably drifted too far into Dubai advisor mode. The original point was simply that Skyflame may not actually fit you. We're searching for three, four beds and not available in that property. Happy to properly narrow down with you when timing suits. This was my message and he responded, I'm tied up today, so we'll revert back later or in the morning. 20th of May, no responses. So I sent that, you know, that old picture with, you know, that edited picture. No response, audio note, no response. I shared a client presentation. Okay, that no response, but he's seen all of this. Uh, then my last message, I've been thinking about our previous conversation and I suspect you're right. You asked about three, four bedroom property and I probably made it more complicated than it need to be. Uh, at the time my concern was simply that Skyflame didn't actually have that product type you were looking for. Out of curiosity, did you ever find three, four bedroom project that ticked the boxes? That was my last message and no response at all, but he has seen that. I can see the blue tick marks."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. The first like, now, uh, we should not ever miss the first step. Why the hell are you investing, man? You are from UK, you you're moving your money to three to four bedroom. My natural concern, are you not aware of how completely investment market here works? That usually people going to like look into one or two bedroom and you are coming with a mindset of UK, where just bigger units or you're moving your family here. And that was an idea to move your family. I was like, so the reason, motivation, why? If you don't know that, if you're talking about is it possible or not possible, it's"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, let's let's try and do a role play here. You be the agent. Yeah, I'm going to be Dominic."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Right. So, okay, anyway, this is message. Let's try on a call because that's what I'm trying to learn."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, hi Dominic. Um, I promise, I'm not going to be as annoying as other agents. However, you you tell me in the end of the conversation goes, right? Uh, what I want to understand a little bit more is your overall goal. Three, four bedroom. Um, why specifically this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Hi, hi, Olga. Can you send me details of three, four bedrooms properties?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I I definitely can and we and we do have variety of units. Um, any specific reason you're exactly looking for three, four bedrooms? And is it three or four?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Both will do, three or four."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, is there any need of the maid room or study room or this has to be a proper bedrooms?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, three bedroom plus study would do."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And any specific reason, is this for your own live in, relocation or"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, I'm I'm in UK. I'm I'm going to uh shift to Dubai in in two, three years. That's the that's the reason I'm looking for."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, good. Uh and and are you shifting to Dubai in two, three years? Is this anyhow connected with you kind of moving your business or you get a job opportunity? Just for me to kind of narrow down at least some areas for you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So why are you going to this discovery mode? See, I filled a specific form. It was about a specific property. Why don't you just give me the details of that and I can see if this is something."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course, of course. Where are you living in UK, Dominic? Just just a quick question. We might have some neighbors in common."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, I don't want to discuss those details right now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No worries. Like can can you give me one second to give you an analogy? So you maybe understand better. If you if you're looking for London properties, right? London is quite a big city. Would that be right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And if you will ask the London agent to send you three, four bedrooms in London, will he be able to send the options to you or that probably going to be 1,200 or maybe 10,000 different units in different location, which are sometimes completely not possible even to compare."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Fair point. I'll be honest with you. See, I inquire about stuff which I kind of like from the brochure and from the ad. And I got messages and calls from random agents. All the time they are suggesting a chat and uh giving me some other options all the time, rather than giving me the help I'm looking for."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but that's why I'm here. I'm here to help. So when you saw the ad, you told me that something attracted you. What was that exactly that attracted you? Just just for me to grasp your kind of criteria a little bit at least."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, it was close to one of the main roads in Dubai and uh the price for I assume the price for a four bedroom is going to be something around 6, 8 million. I am comfortable with that money. And Bingati as I I've done some research and I know that Bingati is really fast and they always uh deliver their product in time. So, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They do, they do. And I would love to give you a three or four or three plus maids in Bingati. However, whatever reason, don't blame me. Blame Bingati. They decided not to do this um number of bedroom units in this building. Would that make sense for you to look at some other buildings with the same developer, closer to the main roads, where there are potentially units of three and four bedrooms?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So are you saying me there are no three, four bedrooms? Then why did your ad uh says it's studio to four bedroom?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "The four bedroom is a penthouse."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, and how about three bedrooms?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "They decided not to do it. Like, don't blame the the messenger, please. I I myself love three bedrooms, would love to have them there. But we this is the situation we are facing. What do you think we should do next? Should we look at the other options in Bingati with the connectivity to main roads within the budget from 6 to 8 million?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, probably we need a conversation, I guess. Believe me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because if you're moving in two, two, three years, um, it's it's not like this is not the only one project, right? And sometimes, I'm not sure if it's happened to you. You you think that um, you you've seen something and that going to be an ideal purchase and then you look a little bit further and you understand, no, it's actually not right. But it doesn't mean that Dubai has uh, not got a project to offer. So, should we stick with the Bingati and look within the inventory of Bingati overall or do you want me to offer maybe comparable developers? Just to just to see what is there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. We we should we should do a Zoom meeting then."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see what I was doing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, I am using the analogy because realistically, if someone is trying to ask me, I'm always downgrading to common sense. I'm not really listening to what they say. If that makes sense. I listen, but I'm kind of trying to understand what is behind it. So now I know he's moving in. Now, I don't want to dig deeper because he's aggressive. I'm otherwise I would ask him, um, okay, so, um, your job, your office location, do you know that already or that still have to be determined because you you haven't agreed to any placement yet. I will not say you haven't found a job. Haven't agreed to any placement yet."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, okay, let's stop the role play here. And see, actually he agreed, probably needs a convo. That's exactly his message on, um, which day? 15th of May. Then he got busy busy with although he agreed, he never uh, you know, showed up for the meeting. So, what can be done now?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Same uh, loom loom recording. Same."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think you can record the loom."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Specifically taking three or four bedrooms from two different projects and just just showing the location and then the brochure or the picture or the layout. Then another location and then the picture and the layout. And it has to be under four minutes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. All right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then you start the loom, um, would love you to see more options um of uh a video call. So far, it's just what I guessed may be attractive. Or depends. Depending, I would look at his language, what he's saying. Attractive or suitable. This is what I would do. So this is this is how I start my loom. Because theoretically, I want to move my call to action to the beginning. I don't believe you're going to potentially watch in the end. So my call to action will be in the beginning."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Independent researcher."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ayush."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh-huh."
+    },
+    {
+      "speaker_id": "2",
+      "text": "This client, he got uh in a click that Anora's I think that zero down payment. Then it's like the problem with this client, he messages and he disappear. Then again, he messages and he disappear. There is a uh like three, four days, maybe even weeks of gap. I mean, three, four days gap between messages. And unlike many other clients, he is like that everything is going well. Uh, how are you? That kind of that relationship oriented guy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, what what does it mean family home and and five, six years? What he told you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because he's in India. He has a company here, probably a dummy company or something. Uh, and he wanted to"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He has a company here."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. He has a company here. He has a bank account here. And uh he but that's you know, the companies that maybe in Fujairah, Freezone or Ajman Freezone. You know, the company just for the sake of a company. And he has a bank account here."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would I would ask that, like, okay, so you have opened the company actually doing business or just for visa?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, I didn't ask that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see, but this is what if he's in you think that he's in Fujairah or somewhere, but what if he's doing some, I don't know, dates trading with Iran from Deira?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "He told me. He he he possibly. He he told me that he have a company, but it's very unlikely that people with a company and stuff asking for a very 1 million for a family to move in. He doesn't mind location. He just needs to be in a good community. And he never told me what is a good community in his mind."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because he doesn't know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so where in India he lives?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, he lives in uh Gujarat or Mumbai, one of the northern cities."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is it a small city, big city?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it's any city in India is smaller in comparison to Dubai."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. No, really, every city is big in comparison to quantity of people living in. Okay, so let me ask you. Um, his budget is 1 million, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So what is a family home for him? We are talking about Ajman or Sharjah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, he needs to be in Dubai."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, for 1 million, what is it possible?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "One bedroom."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean, is it a family home for him?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, he uh his wife and a kid. That's what he's thinking. He's very stingy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Have you confirmed that this one bedroom is enough for him?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, he told me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And in five, six years, that means that he's planning to move it in five, six years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Currently, I'm living in India. I come to Dubai once every three, four months and I'm looking to shift with my family within the next five to six years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's what he told me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is the question I will ask him. Now explain me why I'm asking this question from the narrow emotional persuasion perspective."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe you want to know what's the motive, what's the cash flow look like? Why is it it is it is a bit too early to start looking now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I need him to sell himself why he needs it now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because his behavior is flaky. Five to six years is very much down the line, a lot of things can change. I'm I'm challenging him because I don't want to work with a time waster. If he might be not a time waster, but he might be someone you can nurture through the years, but I want to know it now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Then he told me he's moving next five to six years, so he wanted to look for uh off plan so that it will be complete three to four years and by the time he will be, you know, moving in, uh he can put it on rental for the remaining one or two years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm still like, this is the question I have to ask him. Why you decided to look now? Oh, I want to move in. Yeah, but you can start looking in a maybe a year or two. Then he's going to say, oh, yeah, but I think that the prices are good now. There is way more than I need to move in five to six years. Five to six years is long down the line. And then I will ask, and why five, six years? Is this anything connected to your business or it's probably my kids will have to go to school or my kids will do this. I don't see the motive for him to to buy. I need to challenge him on a motive."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's the similar thing that uh if I I'm working with a seller, I'm just going to give you a perspective, so it's going to be easy for you to grasp. I'm working with a seller on the secondary market. I need to challenge, is he a seller, a really a seller or he just, oh, I want to sell if the price is going to be good. So if I'm working with someone, I want to sell if the price is going to be good, he never going to negotiate the price. He doesn't have a reason to sell. So my question is, like, amazing unit, fantastic, love this. And this is by my my favorite type. Is there any specific reason you even want to sell it? Is there any chance for you? I know it's strange coming from your agent, but is there any chance for you to keep it? This is what I'm asking him. Because if this idiot going to say, oh, yeah, maybe, you know, I'm just like, that's it. Done. I can't manufacture that from zero. If there is zero, I cannot do it. If I see, okay, there is something there, that five to six years, why five to six years? Oh, because I want my kid to go to school in Dubai. Oh, okay. How long how old is your kid? Ah, okay, why I'm just I'm just curious. I'm I'm trying to plan to build a family. Is there a specific reason you uh, you want your kid to go in Dubai? Because like, I'm, you know, from India, we had a good education there. So I'm digging, I'm digging, I'm digging the reasons."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And this is the uh video note. Again, um, have you found? Or it's not your priority right now. And I would say, um, have you found what you're looking for? You're still looking in video. Uh, I understand that it's not your priority. So then"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Actually, I sent him a video note already on to what?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, no, no, no. How he responded to video note?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, he didn't respond."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will tell him one more."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Think. If this if this is a dead lead, I'm okay to kill it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "When he was talking about I was just rechecking the content of that. Okay. I I send this video. Have you already found out what are you looking for? Or would it be useful if we open up? Oh, this is not a priority right now. That's fine both ways with me. Just wanted to understand. Do you want me to share the developer offers like he was zero down percent down payment? No. Zero percent down payment, you say. Which are too good to miss. So basically, I'm asking you, do you want me to keep spamming you or not?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So this is the final final nail on the coffin. I mean, if we before leaving the client, considering this is a No, no, not final, not final. He is five to six years, he's not final. You can reach with him reach out to him in uh six months. It's fine. I would be say more final for this guy. However, there is not yet final."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Analytical investor, experience, looking for distress deal. Ooh, love it. So it's a ready buyer."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So then he replied in the night itself around 1:00. Don't understand the question. We have a colleague in Riyadh who said, our development would appeal to UAE developer. Hence the question. The investment is for my baby girl. I I didn't understand. I asked ChatGPT, what does this guy mean? And then I I replied, I may have completely misunderstood. When you mentioned your colleague in Riyadh and our development, are you referring to a project in Saudi Arabia? That may be of interest. If so, then I understand why you asked whether I only represent one developer. Then he replied, then he replied, yes, I understand. You told me you only represent the UAE, hence I stopped talking about it as our site is in Brisbane. It's of value now due to the Olympics coming to Brisbane. See, I I just replied, got it that clears up. I don't really have the right network in Australia, so I would rather stay in my lane. Out of curiosity, have you made any progress on the investment for your baby girl since we last spoke? No reply. Send him the loom of Dubai South. At this point, I don't understand who is this person. Is he just collecting the information for whatever?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He like Zoom, he's considering 15 years. He may be thinking now, would it be beneficial or more beneficial to invest in Australia given the contest that Australia is about to host an Olympics. Or as everyone says, is Dubai still the best bet? From that, look, loom Dubai South, you will see that in Dubai South on the heat map, uh it's uh doubled the transaction number compared to January last year. And the price per square foot went up. Okay. In May. How about Warsan? Have you checked that? Warsan is also one of the highest transacting. Probably Majan, probably Majan 100%. Warsan, I haven't checked. But you can check it on the loom. That's why I would put this in the areas. And then I would say, look, you probably know better all of the taxation that you will have to go through while you're buying in uh Melbourne. Um, happy to compare this with you on a Zoom or and show you the tool where we can kind of answer your question with a real data, rather than me just sending the presentation for you. You might not be a real client. That's my concern. Yeah. In terms of, I mean, it's just baby daughter 15 years. It's just too far from he's too too far on on the uh sales funnel. You got me? Yeah, he can easily wait one year, two year because it wouldn't make much difference. And we consider baby daughter 15 year investment horizon, like, why? Like, what do you want to like, what do you want to achieve for her for your daughter in the 15 years? And I was like, okay, so I understand and what exactly it it should be an amount of money or should be a variety of properties which are generating a certain amount of money? What do you want? No, he want to invest maximum 5 million. Preferably a villa townhouse setup. And so where do you want to start to grow to to 5 million? So what is your starting point? No, no, no. He has a budget of 5 million to invest. Okay, so where do you want to go within the 15 years with this investment? Oh, I didn't ask. You see? Like, because it might be, Mr. Client, that you should have a diversification in your portfolio. Maybe some property in Australia, maybe some property in Dubai. But this is the case. We're talking about 15 years plan. I hope you're not planning to just buy one property and hold it for 15 years. This is not how you build a portfolio for your daughter. Okay, so then yeah, now I I I got a perspective. So maybe it's uh good to send a message or video note before the loom. Loom of Dubai South. It's for to pull him out. And then you can say that this is the the recent numbers. This is the the kind of the price appreciation what is happening. Uh, but before you make any decision between Melbourne and Dubai, will that make sense for you to actually look in the numbers of Dubai? And I will show you comparables um of the cost of the deal, the additional fees that you will have to pay. And then you compare it with whatever is in the Melbourne because you know better. All right. Compare Dubai and peace. That's it. Okay, I really have to run. Yeah. Thank you. You've done a great job. I love it. This is sent to you. This is an execution. I think we have to do it more often. I love this. I love this format actually. I mean, I love this. Do you love this? I mean, this is a real real case scenario, right? So, yeah. Cool. So, from you, um, the feedback on the This is the dress that you're going to wear to airport today. Oh, is it your Yes, yes, that's that's that's me. I'm always wearing black. Rodney is already messaging me that I have to go. Okay. I will upload everything before I leave on the platform. And this is I will share with you now this document, okay? Sure. Bye-bye. Bye-bye."
+    }
+  ]
+}

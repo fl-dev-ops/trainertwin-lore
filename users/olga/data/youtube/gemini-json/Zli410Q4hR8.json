@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "uncertainty that you feel right now in Dubai is because the future you had, your dream, you probably lived already in it without that happening is gone. You lost it. And the sooner you accept that you lost the future, the sooner five stages of grief will pass and you end up instead of being denial and and being angry, you end up in acceptance. Asking yourself a simple question, why is this happened for me? And you will find a lot of power and the reasons and the understanding for yourself, how you can get a window of opportunities instead of this crisis and make money. or at least enjoy and get new skills and your path, shift your career in different direction if it's needed. Everyone can do it. You can do it."
+    }
+  ]
+}

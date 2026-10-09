@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "So what is actually happening in Dubai? Stability of economy means diversification within a different sectors. So not only real estate, tourism, trade, now, now we we we're bringing up the first casino in the region, and I don't want to say it's doesn't matter that it's not in Dubai."
+    }
+  ]
+}

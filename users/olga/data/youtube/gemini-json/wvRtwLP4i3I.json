@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Dubai agents and everyone who aspire to be an agent in 2026. That's a difficult time for all of us. I created a supportive community, strong in sales, it's on Telegram. I'm sharing the new reality strategies for you to pivot from offland to secondary, to pick up more listings, to keep making money in this war affected market. My name is Olga Sinenko and my real estate sales training with my own sales experience been in Dubai for 11 years. However, it's more important what you can do and how you can come to the decision and more important how to use the right strategy that going to keep you making money during this certain time and then make you top agent on the growing market. And that's everything I talk in my strong in sales Telegram community. See you there."
+    }
+  ]
+}

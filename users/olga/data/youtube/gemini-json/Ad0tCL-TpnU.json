@@ -1,0 +1,24 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Isn't it the Middle East politically unstable?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, I was not expecting you put in this question. I was not prepared for that. But okay, so let's look at the political instability which is currently happening as we speak as Israel and Iran are kind of not able to negotiate with each other and that there's some muscles are going back and forth. Realistically, from the 25 years which we really closely looking at UAE. You can say that we are as if like a small Switzerland. Yeah, we don't have any, we don't take turns, we're supporting everyone, any conflict as we're trying to be as neutral as possible. Plus, we have a fantastic military support from US and military bases here. We are we are really, really protective. If you don't know, there was a a war coming or the conflict coming on the Yemen, which is way closer than Iran and Israel. Syrian war was in a full swing for for many, many years. Now it's a little bit down. So what realistically can happen is a worst case scenario over here is that we're going to have an influx of oil prices, the raise of oil prices, yeah? And let me ask you this. For the countries of the Middle East, when the oil prices are increasing, is it a good scenario or bad scenario? Will they make more money or less money? I mean, probably you know the answer. So, if that's going to happen for a long period of time, the prices are going to increase more, so then, you know, no brainer, the Middle Eastern country, Kuwait, Qatar, Omar, Saudi Arabia, they're going to make way more money, and then they're going to be the main buyers, right? It coming and and invest in money in safe haven and Dubai. But even if that's not what's going to happen, already now we know that Iranian, Israeli investors are looking differently in opportunity what they have, regardless what's happening in their countries and I I feel sorry for for both nations, it's not like some supporting any kind of conflict. But I believe that the the field of opportunities that Dubai real estate created for everyone equal is actually what helps us. I don't want to say to sustain any conflict is just let's say to level up whatever instability with the security of Dubai."
+    }
+  ]
+}

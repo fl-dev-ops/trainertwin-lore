@@ -1,0 +1,680 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "cloud."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, I will ask a couple of more questions. Um, and because we have only 30 minutes, I have another call at 5:00. If I will feel I understood everything, will it be okay if I'm kind of cut you off?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah, absolutely. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because sometimes it comes that the agent they want to explain themselves so much and they're not even explain, if you know what I mean, just explain to themselves that the clients called not mine. So they're starting to kind of, yes, but the client is and I was like, okay, I cannot change the clients. They're going to be always like this. I'm here for almost 12 years and the clients been like this even 12 years ago. Nothing changed. Okay, and in the end, potentially we can I will I will see how it goes. We can do a small role play. So basically instead of teaching you say this or say that, I usually do the the demo kind of what you can say, what show me what you are saying, so I can look at inside of your conversation and I will flip and I will show you what you can say instead. Which going to be more practical for you, yeah? Good?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, um, how many rentals have you closed so far? Have you closed? I mean, I know that there is no sales, but have you closed any rentals?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, so it's been a month just now and no close rentals. Just being straight up with that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's fine. Uh, how many you have online listings?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, online listings, three going on to four, pocket listings around 15. I shall double check on that. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. No, no, it's fine. You're building up. That's that's good to go. What would be let's say the um, the main objection when you are with a client on the viewing or when you're on the phone, why do you think it's not moving forward?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Well, when it comes to studios, for example, I would say they like variety of choices, right? Now, I was able to get one studio, for example, as easy Pearl, which is down south of Verjan. Pocket listing the same building. So I'm trying to at least, okay, if this is not suitable, ah, I've got another unit, same building, check it out. You might like it. Um, that's how I'm going, but they like, oh, I want to see this. This is, you know, so they I think it's more of they just want to really check to see the small details. To be fair, I understand them. Similar to my wife, when we're looking for a place, it's like, oh, I want to make sure everything is nice, small details. And I think this is more when it comes to lower, um, when the budget is smaller. Yes, exactly. I'm also in that scenario too, where when I've been showing people more bedrooms, it's less of that as a problem. They're just more keen on having it the right place. No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. That's that's correct. And to bounce back, when you're on the phone with them just qualifying, um, you don't have to, I would say, ask that many questions about the features of the property. Just some. But what you have to find out for sure when they are due to leave the current tendency. What have they seen already? What did they like? What they didn't like about that? And then in this way, you're going to be learning yourself about different buildings and what people like or don't like about other buildings as well. Even if you don't know that building, you're just like a maniac sitting down, writing everything. So the first months your clients are your main teachers."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So just just pull everything out of them. And you will not it not going to feel interrogating because I mean, I'm not saying it's you, as some clients, for some agents they feel I'm interrogating the person. I was like, come down. It's going to feel like you're actually having a conversation, curious about their point of view. But what you're really doing, you're actually qualifying them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because if I'm going to tell you, oh yeah, I just didn't like the windows. I was like, oh, so the windows are important for you. And what what specifically you didn't like? So you probe and clarify, probe and clarify. And then you're meeting with them, how you do the viewing is very important. That's like literally the most crucial thing. I'm going to get back to that in the end. Now I'm going to keep asking you the questions. You remind me that we have a viewing thing. Because if you're not doing it correct,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You're basically wasting all of your time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I don't want that. No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, exactly. You don't want that. Um, so like on average, how many clients you're actively seeing on a weekly basis? Like this three, four listings, how many clients are they generating?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "In listings, generate quite a lot."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not not listings, the clients, the the the actual viewings."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The clients start to come through the list. Okay. So I've only actually shown one. A couple units on the same building, whereas for the messages, a lot of them have been, oh, I'm looking for November. So so the space is quite far, where for me there's no point on me really showing them if down the line it's most likely to be taken, right? So I did say if anything does pop up on my desk around that time, of course, come back and we'll update each other. If anything changes, just let me know. Um, when it comes to the viewing, also, since so the one viewing, she did talk about the windows, actually. It's like, oh, I I can hear some noise, this and that. The second studio, she was like, same scenario. I did follow up on her. She brought up that objection, basically. Nice units, just noisy. I was like, okay, from the two units, if noise was not the factor, which of the two units would you choose? She's like, oh, the first one, which was a cheaper version of this. Then after that, I gave her another option. Then she didn't reply. Then it was, oh, it was more like, oh, thank you. Then now I've been following up, that's it. You know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, when this person supposedly should be moving in out?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, the top of So this is also one thing she didn't she's not even opening up to me, you know? I know it's crazy for me just to say that, what are you doing, Christopher? You know? It's like,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Christopher, that's fine, you know, if I would be training someone who is like already on the top of the game, I don't know, the owner of farm just came to the session. Of course, you don't know. Of course, they are not opening up. Of course, this is how it should be. So let's do not expect that somehow in one month, being in this market where uncertainty is through the roof, you will become just some sort of a super pooper agent. It's not possible. But it's good that you are realizing it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, again, taking this in consideration, if you don't have at least with with the actual clients which are potentially buying five to six viewings a week, I will not qualify, I will not hard qualify my clients at all. And even if I qualify them and they are not suitable in terms of they're making a move in November, I will still pull them into the viewing. You know why? I would not give this advice to someone who is six months or seven months or one year on the market. But you need meat. You understand what I mean?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You need meat. You you you need more reps."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm, okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It doesn't matter, will he buy or will he not? You are doing it as if he's buying."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will I will show you the technique that you can use on the um, viewing. And you are doing it with everyone. Doesn't like I want him to want it. But because the funny thing, the deal, the actually sale happened not when the person signing and giving you the money. My deal is happened that the person wanted it so much, but he doesn't have the money. But if he wanted it so much as he's telling me, oh my God, if I only had the money, I'm really shaking. This is that that's my dream. I'm going to go somehow collect the money, I'm going to buy it. I was like, okay, I've done my job."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "My job is done. He's he wants to buy it. He would bought it, but he doesn't have the money. I cannot give money to people. You got me? So now, your your main goal is to make them shake because of the unit. And with this, you can pull more pocket listings because you can show these pocket listings to the clients as well, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Um, what what you kind of done? Like how your schedule look like now? So you're doing the calls. How many calls you do in a day?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that could depend on 50, 100, 150, depending on specific things during the day. I come into the office, let's say around 10, sometimes earlier, update my CRM, go through the leads, the tenants, try to keep everything updated. CRM and WhatsApp. Then from there, check the priority with the dates. And follow up accordingly. Now, I've been shuffling because my manager wants me to concentrate on Tilal, like townhouses, villas, which I like, of course. But every time I've gotten a call and they've been saying, oh, I've got a studio. Oh, I've got a lead, for example, they want a studio. So I'm like, okay, I'm really, you know, so I'm getting drawn into these Azizi buildings where I'm like, oh, near the metro. Okay, now I'm going to go for metro. Well, I still have Tilal Maruj in my scopes, but of course, I need to find something for the client. So that's how I'm going back and forth."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, what do you want yourself? If let's say the manager would not tell you anything, what would you do?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I actually want to feel my something moving. It's more like because, um, to be fair, I do like the image of being, oh, the go-to guy for Al Furjan when it comes to everything. But I do know again, it could be nice to niche down. I'm not sure. So again, I'm still learning a lot. So things have changed a wee bit here and there, but I'm taking it all in, you know?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then you told me that you want to focus on off plan as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, so that's the thing also, because for example, I got in touch in LinkedIn for off plan, which is actually in Al Furjan, it's Reef Luxu developments, which is down south. The building is Reef 999, which is the handover is June next year. So I've already talked to the officer there. She was like, look, I've got my team. I would love to do content for this. Let's go. Then she was, okay, let's do it. I've got that scheduled on Friday. So I'm also building my brand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, so they they they're going to be potentially giving you an opportunity to advertise the units and bring the clients to semi-finished building, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. But it still would consider a little bit kind of a secondary market deal. I will explain you why because this is just one stock. One piece of stock that you are selling. Because like imagine, now we have like you have three destructions. Al Furjan, Tilal, and a building, which is off plan. Right? So now, the leads which, let's imagine, going to start coming for the off plan, they will want Al Furjan, but they might consider another off plan projects. So now, from there, you will have to go and learn more projects off plan because you you will not just offer one. You will have to each and every client offer at least three options, so they can select one. Because if you just offer one option, you're guaranteed with let me think about it. Our brain doesn't work if there is no reference point, if there is no comparison. You will never do a viewing just one for one property."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It has to be at least two, minimum two, better three. So, as a beginner, how old are you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm 33."
+    },
+    {
+      "speaker_id": "1",
+      "text": "33. Okay. Have you done sales before?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I've done sales for four years now. It's been online sales, actually, so remote sales. I've been in commission for four years straight."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So it's a high ticket. What have you been selling?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, programs, training programs, Bizo."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So you had an appointment setter first, right? Yeah. You just been a closer. It's fantastic. So you understand the structure of the questions, you understand the script, you understand the thing that I'm leading to. Like, for example, my methodology is built on neuro-emotional persuasion, which I learned from Jeremy Miner. I'm not sure if you've seen him."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I've also been closing. Seven level."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Seven level, yeah. I was with his inner circle for one and a half year. And I decomposition everything he's teaching because he's just teaching basically high ticket sales online. I put the decomposition into the uh, off plan and I shift a little bit the secondary as well in terms of how you do, for example, the conversion of the pocket listing into the actual listing with the documents. How you kind of script that process and what you do in between. So, um, for you, it should be kind of way easier than on anyone else. So you have to present several options all the time. And it's a lot of distraction, to be honest. What I would do if I were you, I will get to the office at 8:00. From 8:00 to 9:00, I'm finishing with my admin. So I'm not wasting my valuable selling time when I can actually talk to people for admin. And then I'm allocating my time for calls and this calls is just like, you know, you're now your appointment setter, basically. You have to do that. Because now, if you want to focus on secondary, your finding a stock is an initial part of the job. It's the main thing. For the next six months, it's just the the only one thing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So 50, 150 calls, dials, because I always talk about dials, right? It's just dialing the numbers. Might be not enough."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's a painful, of course, to learn a cold calling, but this is how it is."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What you will do for the um, the actual viewing? Right? How explain me how you're doing the viewing now. Let's imagine, you're talking to me, I'm on a viewing. We're going to be role playing the viewing. Show me what you do."
+    },
+    {
+      "speaker_id": "2",
+      "text": "All right, actually, I've never been taught this. But yeah, I'll bring them in. So I'll be there 15 minutes early, right? Check the place myself. Um, make sure everything, there's no craziness in the bathroom. At least clean everything up. Okay. Then I'll actually say, look, I'm upstairs now. Just let me know when you're downstairs, I'll come down. So I'm not saying I've maybe gotten somewhere there, but it could maybe look like I've already done a viewing. I don't know. But then I'll come down, pick them up, bring them up, a little bit of small talk, coming up."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let let's do that. Let's do that. Let's do a role play. You know how to do the role play."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, sure. Okay. Let's give it a shot."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let's come up. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "All right. Hi, Olga. How's it going?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, all good, all good."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Great, great. So, I'm just about to show you up. Anything in particular you'd like me to know before we head up?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, nothing. I was just very curious about, you know, how the um, AC is operating. Is there any smell over here? Because sometimes it just gives a smell."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Absolutely, absolutely. Well, nothing at all on top of my head that's on your concern. But what we'll do, head up just now, got the keys and everything. Okay, now we're at the door. This is the unit. You see how you're liking so how do you like the lobby so far? How's the walk?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, that's fine."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Great. Okay. So, in the unit now. Then I'll do like a section, depending on how it looks. So, for example, oh, bathroom is to the left. Take your time, by the way. I'll let yourself sink in. Then depending on where she's moving or they're moving, I'll kind of explain. So if they're looking at the wardrobes, I'll say, look, those are newly built-in wardrobes. If they look out, okay, see that's a nice view, you know, this and that, that kind of stuff. So, that's how I do the viewing. I let them like,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And what how you end the viewing?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, so how I end the viewing? All right, is there anything stopping from just moving forward right now? Then I'll say,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, well, we we we we need to look for the other options."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Absolutely, other options. And you've mentioned that you liked X, Y, Z, X, Y, Z. What else is there to look for? What would get you across that line?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, well, probably a better pricing. Like we know that the prices are going down now, so we were hoping just to get either a high number of checks, or less pricing, or maybe commission discount."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Absolutely, Olga, absolutely. Now, in terms with the offer, I've already mentioned to you which the landlord is asking. Have you gotten an offer that beats this one currently?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What do you mean beats one? The lower offer?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, a different offer you're looking at another view."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, okay. Um, yeah. Uh, well, not really, we're just browsering."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. And you mentioned your move date is in a couple weeks."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, 15 of September. Or like October."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, just to let you know, now these units, especially this tower, do can go fast. Now, when is the soonest I can actually get a offer if this actually checks all the boxes for you? Because again, I wouldn't want you to move forward if this isn't the right unit for you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Maybe we can tell you tomorrow."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. All right. And before I forget, was there anything you disliked about this unit?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, I don't know, the painting. Just like maybe overall, I haven't had that such a great feeling about it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Great feeling. What do you mean by that? Just so we're on the same page here."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, so, uh, you know, when I like I walked in, um, I like to have a lot of light. And it's look a little bit darker than I was hoping for. And I just don't see my furniture actually fitting in."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Okay. Well, wouldn't you say these are things we could arrange once everything is settled?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, I'm not sure. I have to like really draw the the plan and understand will that be a point."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So, just so I've got this correct. Your problem is more of just the furniture aspect of things where you we can sort that out, basically. Like lighting, we can sort that out, furniture, we can arrange stuff here and there. Is that everything?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Potentially, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "All right. Well, that's not it. Well, it seems like there's no other reason for us not to move forward with this. If again, I'll let you have a wee bit of time to think about it. There's no rush. Again, the only rush is if another offer does get presented to the landlord, then we've lost it. But again, we can keep each other updated. Does that sound all right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, of course."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Amazing. Well, before I bring you down, any last questions for me?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, Christopher, that was very good. Thank you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Great. It was amazing meeting you and then we go from there."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, Christopher, I feel that there is a good sales background."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Confident, um, pushing to confess that this is actually a good unit. So sometimes, look, and this is no judgment here. Uh, if that would if that would work for you well, I would say just keep running the same thing. I'm not here to change anything if it's working fantastically. Well, if you feel that sometimes the people are kind of disappearing or ghosting you, that might mean that they they got a bit of too much of the sales pressure. They were not able to be open and honest with you because they don't see that you actually will be able to understand them. So they say, oh yeah, everything great and fine. And then they just never responded again."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "If this is not happening to you, just ignore everything I say. Does this happen to you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, it's a mixture, I would say. Yeah. And I do try to adapt depending on who I'm calling, even with the line. Like if they're kind of shy, like, hey, I'll be like, oh, right. I'll kind of mirror in a way."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Perfect. What you can what you can do for for a start, for example, I already brought you, okay, Christopher, tell me what is the most important for you in the apartment, so we actually going to start from there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm not letting them wander on their own and take their time. I'm there guiding them. What's the most important? Like, what's your deal breaker? And same time I'm qualifying them. They say, oh, this is important. Let's say they have the windows. Let's give me something. Let's let's role play. So what is actually the most important thing that makes you feel, aha, that's the place I want to live."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Well, a balcony is a must have, a nice balcony, especially in Dubai. That's what everyone talks about."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, and why is the balcony important for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I would like a nice view. Imagine a nice coffee outside."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Are you are you a smoker or just a coffee?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm a secret smoker. My wife doesn't know. But a nice coffee out in the balcony would be amazing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, cool. And your current apartment, do you have a balcony?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "We do, actually. Yes, uh, because we do like to do the hanging there, you know, so that was why a balcony is a must needed aspect."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Okay, and I probably ask you, just already ask you, but just for me to uh, kind of uh, bring it to my memory. Um, what's the main reason you're even looking for a new place if you're already living somewhere?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Well, just more space, really. Uh, I've got a new job in X, Y, Z, so this works a lot better. Like, I have the metro, it can go vice versa. It just seems like a better area for where we're at at the moment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And and why this area specifically?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Yeah, just basically with work. So, like,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Close to work."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. And"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so but besides the area being nice with a balcony close to work, and you can see already the a little bit of apartment. How do you feel? Is this potentially might be an option for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It could be, it could be. Like,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Why?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, the balcony is nice, right? You've got the review. It's more spacious than the last. Yeah, that's basically it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And and from the apartment that you've seen so far, have you found anything that kind of like, you know, resonated with you a little bit more?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, I've still got a couple more to view."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then yeah, from there, we'll see."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, of course. But overall, like, let's say for yourself, what are the main top three criteria that you're going to be evaluating, let's say, this apartment and others as well? Just for me to understand, maybe I can offer you something else."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Yes, so where I'm looking at is around the area too. So the near close to the metro is still going to be an aspect there. I would say maybe the overall feel of the place. Maybe. Yeah, see how it feels, really, you know?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. So, um, from and this is when I'm finishing already, let's say I walked around, I just showed them, dropped them this and that. And then I'm standing, this is the door behind me, the same as here. I'm not letting them pass. I'm inside the apartment. I was like, so after what you've seen so far here, and I know you probably will still have to think about it, but for now, would you say that this is the option you will never consider? This is completely out of your list?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, definitely, this is on the list, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I was like, and what kind of makes you feel that it potentially could be a good option?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, a better option."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, what makes you feel that this might be a good option for you, or that might might be your future home?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "All right, so just the location's right, the balcony is good, it's more spacious than the old one. So,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Look, I'm not going to I'm not going to be like every other agent who's probably telling you, you have to give an offer fast, that's a good unit, it's going to sell. You see what I'm doing? Because everyone is saying exactly the same thing. Subject to availability, this is first come, first served. People don't like that because everyone is saying exact thing. So your goal is not to be like everyone else. Um, let me say that I'm going to be a little bit late. Give me I just want to finish it. Just give me. But compared to the other offers, right? What do you where do you think, uh, when do you think it's it makes sense for us to get back in touch?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Where do you think it's going to be?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Where do you think it makes sense for us to get back in touch? I am pretending that's going to be their own decision."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Where do you think it's going to be? I would say tomorrow."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, and from now to tomorrow, how many other units you will be checking?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, so I've got a couple units during the week. Yeah. So, maybe after that,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which building which building so I have a better understanding of like what you've been already seeing. And I'm recording this. I'm recording this. I'm just kind of writing myself down or I remember. Um, because what you're really doing, specifically if you if you're showing them just one property, you are failing because you have to show them three in one go. You might not have it. Because now your structure is is going to be this. Look, um, how about that? And I'm not sure if it's going to work for you. We're going to connect as you said, as you said, you, not me. I'm not needy. On that date, and if you feel that your your search is uncomplete, maybe not this unit and other units, uh, you're going to let me know and I will find something that match your requirements better. Would that work?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That works."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What I need to what I need to win is an opportunity to get them back into some sort of communication. Because if they will feel, look, if they will feel, and I'm I'm inviting you to try it, that you are the one who is fixing on this apartment, offer for the client, for the owner, blah, blah, blah, they will feel that you're working for the owner. You're not their agent. Unfortunately, Christopher, again, for someone who is been in the market four years, I will never give this advice. Because if I have a 20 20 listings which I'm servicing, they're consistently generating me leads, my goal is to strict my qualification on the call and on the viewing. That's what I'm going to do. You don't have this luxury yet."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So they have to feel that you are way better than any other agent, more understandable and don't let them feel compressed."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, you got it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Got it, got it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so was that helpful?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, absolutely. Really nice. Um, especially the viewing part because I I never really got the proper training with that. So that's a big big."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Never never had I, so I had to develop my own structure, trial and error. And now I'm I'm telling you that this the door thing, when you're standing kind of not letting them out in some way, instead of doing it anywhere else, works way better. If you if you're showing them three property, you're doing it in the last one. You're not doing it in the first one, you're doing it in the last."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. I see, I see. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Cool. So, um, that's it. I'm jumping out. I'm going to send you the recording. And I'm not sure if that going to be potentially interesting for you because now I want to focus because you're you're in a secondary. Um,"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm actually your leasing. Then off plan, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But leasing secondary is a secondary. You're the same game. You're calling to the landlords. And then and then off plan. Um, I will be doing a a group mentorship this November where I will be teaching specific skills of communication, like how to say stuff. I will be showing, you know, the uh, off plan sales process from the beginning of the first call, then what should be sent to the client, then the uh, educational Zoom, then the sales call, like all of this, I'm going to do the decomposition and we're going to be doing a lot of practical role plays, call recording reviews. So that's done for agents to be able to learn in a very short time, on a practical way and implement immediately with the clients. So that's why it's going to be a group training, that's why it's going to be a role play, like something like we did today, but a little bit more engaging because we're going to be role playing the call. Would you potentially interested to know about that program? I know that this is just not even your field yet."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Mhm. Yeah, yeah. I keep I would be interested. Like, uh, that's the thing too, like, I'm always willing to invest. I do know how the field works too, which is nice. Uh, new to real estate, especially Dubai, also new to Dubai, so that's another thing. So, all right, two news. Also, Olga, if you're ever hiring, maybe I can join your team, you know?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm only focusing on coaching. Well, that's the thing, you know, you may need a say, you may need someone busy woman."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And you know what?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "To sell my products."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, just to help you. Obviously, you're going to be the face and there's going to be a time which you can't be on these calls all the time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course, Christopher, we can definitely talk about this. I'm now still kind of in process of building my coaching practice. And now I'm doing all of the calls myself because as you know, for you to build something, you have to kind of, okay, that's my perspective. I have to hand selected and put it together. I'm not going to hire I'm not going to hire anyone who's going to be talking to people on my behalf if I haven't coached him and trained him. It just makes no sense for me. So, cool. I'm going to send you the recording. One more thing that I always ask. Um, is a Google review."
+    }
+  ]
+}

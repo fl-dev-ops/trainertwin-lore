@@ -1,0 +1,484 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "So the fear of camera public speaking which is number two after fear of death is happening because uh we are afraid to be excluded. We are afraid to be publicly humiliated. Um and then because of this being pushed out of the group. And this is very normal. I don't know anyone who wants to have that. It just there are there are videos not less not just the real estate profession. There are videos where you know people are saying and recording reels like really dumb stuff. How can they do that if everyone is feared?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "They feel they fear and do it anyway."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And then my question to you. Are you judging them for recording their videos?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. I'm not."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You you I want to just to kind of entangle that not inside of you, right? Because we only can judge what is happening in the world from our own head. I I cannot connect my my brain to your brain now with a wire and understand how do you see the world. But probably if we will do that, you will understand that we can look at the same thing and just completely different mind information running through the system. So, if you are judging them, then you 100% believe, even if you don't consciously think that, that everyone else going to judge you. But realistically, it's not about the judgment, it's more about um sometimes things that we judge or we kind of secretly envy is the things we want for ourselves. If it doesn't give you any emotions at all, that definitely this is something which you don't want at all. So if it gives you any emotions, I'm not saying"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, it gives me I I want it to be, you know, like that. So obviously I can be convinced envy because I I feel like even many people, you know, constantly say me that I have a decent face. I want it to be showcased and this is one of the perfect feel for that. And I always felt that see, in a life, we can only, you know, put up a certain number of roles. But in front of camera, we can, you know, maybe for a change, we can come in a traditional dress, maybe in a full suit today, maybe some, you know, comedy, sarcastic video on the and maybe it, you know, these changes, it's only possible in videos. So I love to explore this aspect."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um the way I offering you to do that is to first, do the as they call it decomposition of your personality. And I will give you the prompts that you will run with chat GPT and I will give you the the questions. So basically, for us to create your brand, we have to create you unique structure. And based on that, we're going to do your unique tone of voice. So how you talk to people. It has to be comfortable for you and it has to be as well different from"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I already like it. I already like it. I mean, this is the first time somebody is saying that. I've sat with many, you know, the so-called content creators, directors, and you are the first person saying the right tone because, you know, the the biggest fear is kind of, oh, let me put it this way. When I'm seeing my own recording, I completely felt this is a different person. This is not the way I communicate."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And maybe that's the reason I always, you know, you know, you know, forget lines. Some of my meetings, I I know it's way unnecessary, but the last deal I closed, that family came to Habico's office at 2:30 in the afternoon. I sat with them until 5:30 in that office. I was sitting at as chair, you know, the office that we see. And uh because they were particularly, they were insisting on the office. I I I figured out that they won't be meeting in a uh coffee shop. Even if I if I do, I'm not posting them. That's the reason on a holiday, I invited them to the office. Then after that, I took them to the site in the night. I've shown them, see, this, this, this, the the the construction already started. And they I introduced the location, exit and entry. So I spent time till 8:00 with that family and they decided, okay, we're going to book tomorrow. Then it took me another day because uh 9:45 of next day, they get they got a call feed. So they told me, anyway, we don't think we can afford it. We're going to come to the developer office because we gave you commitment. I told them, don't come to developer office because I this this is the last thing I want you to feel that not to be safe and pushed on to something. Let me come to your home. Have your breakfast. They said, okay, yeah, we are having the breakfast. Let me come to your home and we will sit and analyze if this or any other thing is affordable for you at all. Maybe there are some funds that you have in India, you may not even think of. Maybe some asset that you can, you know, with time, you can liquidate. Obviously, if you try and liquidate now, you cannot make money. I understand that fear. So instead of I'm not selling you anything today. I can promise you that bit. Let me meet you at your home. Then they told me, okay, come to my home. They sat with them another two hours. And because in that, you know, I connected my laptop to their bigger TV. Then I showed the things and sitting there, I made them book a unit with another developer with a 5,000 dirhams, you know, uh booking. And the next day we went and paid that 187 or close to 200,000 dirhams uh check. So it's like I actually ideally I wanted to cut short the time. However, when I present things, I mean if people are interested, they they get on to a longer conversation with me. So I you know, why did I even told you this? It's like, you know, this is my character. I'm I'm very elaborative. I'm very uh you know, sometimes I feel like I'm authoritative and at the same time, maybe in another day, I feel like I'm very collaborative. I don't know what am I."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You are persistent. This is the word."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is that a bad thing or a good thing?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, it's a good thing. I consider it a good thing."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Sometimes people hate me because I follow up like 25 times. I don't stop until until somebody block me, I don't stop."
+    },
+    {
+      "speaker_id": "1",
+      "text": "People going to hate you anyway. Yeah. Surprise, surprise. As I'm saying, we are not McDonald's to be liked by everyone. I don't think that this is your really your um concern."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I don't care."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't want any I just want to you know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, as I said, for you, going forward, to become the to go expert, not an agent expert, uh your content and your YouTube channel, because I'm not like not interested to do this small reels with you and then just like run and and do the fun stuff. I don't see you that way."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And I'm not comfortable doing that. You know, I don't I don't know how you read that. Maybe you you've already seen my character. I'm not comfortable. I I need time. For me, a 30 seconds reel is nothing. I I cannot communicate anything. I need to do, you know, five minutes, 10 minutes video so that I can completely put across an idea."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And like the depth and the intelligence of the content that Rizwan can present and no no offense, he's great. He's getting his own niche. He has his own tone of voice and what you can present is a completely two different uh type of the content. And the good thing with you kind of getting all of that in your online tone of voice and your online persona, you're going to be attracting people who going to feel comfortable only with you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Exactly. That filtering. I love it. I love it. This is the first filter. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because that's why the tone of voice is very important. But besides that, the exercise of being comfortable with camera is an exercise of accepting your imperfections, of being okay with looking stupid sometimes, of being not able to do something. And it doesn't mean that you have to, you know, it's not we're not doing YouTube lives. But it's more like I'm going through the process. I'm trying, I'm trying and I cannot make it and I feel I'm incapable, idiot and blah, blah, blah. So it's more like going through that. And then allowing you without fear or shame, because the shame is what what you feel about yourself, like how I like, like you said, oh, I'm I'm afraid of camera. As if it's shameful. As if it's not okay to be afraid of camera. And this is actually the most normal thing to be afraid of. Because you want to protect yourself."
+    },
+    {
+      "speaker_id": "2",
+      "text": "If it's if it's very normal to you know, sit sit in an air conditioned room. I you know, I have an experience when I when I uh shot a video in Wasal sales center."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And you got sweat, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, so it's like then one person came to me and I would have done it better. You know, can you can you give this place to us for some time? You know, humiliation, insulting. I didn't I I couldn't even feel those things because from inside I was trembling."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's fine. You have to become comfortable in this and it going to take probably at least a year of active filming to stop feeling literally anything. Your body even stop going to stop reacting, you're not going to sweat. And I'm talking from my personal experience because in the I I remember my first things that I was filming, I was doing lives as well. I was doing on Instagram. I remember, I'm not like a sweaty person. I remember, I'm just completely wet, like soaking wet. And then, but I knew I I I was shaking. It was not that visible, but I was really terrified. Then the terrified part went away, but I was still sweating. And then I was even forgetting, why I'm sweating? Just like so strange. I don't feel that. Like physically inside, I don't feel that. But but the body still got the reaction. And then the body got into the calm mode. Yeah, so we are in peace with that. So the way I see it is that we first develop your overall persona. Who you are, what you like, what you don't like, which stories do you want to share? Because it's it's going to be a bit of your personal stories, the stories of your clients. We have to build up like, for example, my story um is is that I came to Dubai with $10,000 uh and no connections. And I build everything here from scratch. Even though I was a head of sales back in my country, none of this matters when I step into Dubai real estate. This is my personal story. This is how people connect with me. So we will have to find these small personal stories, these small things that they can feel, oh, I kind of know this guy. Oh, yeah, I have the same feeling. Oh, I just to make you very personal with them. Then, um, the content plan will be based on the niche that you want to kind of take care of. So you've seen the previous file was lots of different investors. We don't want all of them. Think of which type of clients do you want to attract. So then the the content will will be tailored to what fears, problems, potential risks that they have in their mind. So whenever your content going to be scenario and the title, that's going to all speak to them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "See, I I I really believe in Dubai and I believe that Dubai going to continue its path of trajectory. Just simply because the government is so powerful and visionary here. And uh I can see, at least I expect to see a lot of people moving into Dubai in many many many cultures like Europe, India, Pakistan, wherever the wealthy people are there, they're going to move in. And eventually they going to be the biggest investors here. This is what I'm saying."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I think you're very comfortable working with them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I am because, you know, even now, even these these deals I've closed the in this year, everything is like 1 million, 2 million, 3 million maximum. Yeah. Nothing more than that. Even now I am, you know, closing deals, kind of showing the differentiation of not buying now and waiting for 10 years. And what is your financial difference? And yesterday I worked for a client that they already bought something. I introduced them an 800,000 dirhams ready to move in apartment. That's the maximum they can afford now. What difference would it make in 10 years time? That's actually if they have only 200,000 dirhams now, the property will give you give them 2,500 to 3,000 dirhams cash per city every month after paying the mortgage. So I presented that. So I like this kind of comparison and these kind of approach would be appreciated by the people who wanted to move in. They want to see what is the difference. How why everyone is saying Dubai is different? Because it makes more sense. It makes more money. It's uh it is more predictable. So I wanted to uh and I think these kind of approach would be appreciated and attracted to any high net worth individual regardless of the culture."
+    },
+    {
+      "speaker_id": "1",
+      "text": "100%, I think so. And I I think as well then what unfortunately, unfortunately, now focusing on those type of buyers, which are going to be buying anyway, um probably going to be the most successful strategy for the next maybe a year even. We don't know how how long the situation going to start. Because when when the market starts collapsing in 2018, 19, I just shifted and I was working with the uh properties in Al Furjan. And my average deal, I think it was um for two bedroom, it was maybe one 1.2 something like this. So it just it was the the cheap properties. Yeah. Where you you could sell a lot of this because we got the rent to own options and we've been doing uh different promo back then with the developers and the properties were ready. So no not that many people were making money around me. So it's the same situation, it's the same type of market. However, again, the additional clients will start coming from your own lead generation, if let's say, if we're going to start and and start posting videos maybe in three weeks from now, imagine. Then the reality of the the channel bringing uh proper lead flow probably going to be around October, November."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Six months. I don't even expect November, maybe maybe more than that. And Olga, I need a I need a branding uh concept, you know, the YouTube channel is I I I was I thought it's keys with KJ, it's going to be good, but I don't think it there should be, you know, some connection with my persona and stuff. We need to start from there, you know, when we're planning the content. What do you think?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "When you plan the content, it's it's a bit different strategy. I will explain you later on. I don't want to put all of you in in one go. It's you are searching for outliers, those videos who flew, got many views in your industry and you are reshaping them, taking your take on them, taking the topic, opening it from different angle, contradicting that. And um I will get access to property monitor. Ashley finally got it back. So I'm going to be doing my videos on property monitor and I'm going to be happy to share the property monitor with you so you can start doing the in-depth analysis of the videos as well. Like because my outlier was the video on property monitor. Or showing all of these maps and just talking why this area is having higher end, why this area is having lower end. And this is what actually attracts people. But it's going to be a mix of different type of content. Wider content, more direct for a certain projects or certain areas, which you want to sell and then again wider content. So the wider content brings a lot of different clients on our channel. Then they go into a next funnel piece, then they go to a next funnel piece and then they're contacting you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I will, you know, there are there are many so-called advisors. They're just, you know, talking shit about, you know, project. They're something is in a praising the uh Dubai and someone is like, you know, have you ever seen videos of Jake Nasser?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "From the head, I don't remember. You can share it with me."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, and he he's actually, I don't think he he wanted to be this angel uh Dubai real estate advisor. So he constantly saying that the sales are low. It's not it is getting low, it is getting low. And he's showing all this and even even it is true, he shouldn't be doing that kind of, you know, in-depth thing because eventually he's hurting the industry if he wanted to make some money."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Send me these videos and I will explain you why he's doing this. I will understand what exactly he's selling."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Because um he's he's selling it. He's actually selling it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Either he is hunting for sellers who going to be desperate. I don't know I don't know what what what is that or"
+    },
+    {
+      "speaker_id": "2",
+      "text": "This is how FBI and"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because the reality is you cannot properly make money in monetization with uh our niche here in Dubai. In terms of if you're going to be monetized on YouTube, you're not going to make that much. Like you're not going to make thousands dollars a month. Reason being our niche is very uh uh small."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "There is no many people. Like it's just I don't want to say it's like, okay, property in California probably have way more views, but realistically, this is how it is."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I just sent you his channel."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I've seen it. No. Okay. I'm going to check his videos popular. Okay, he's he's He's only having shorts. I mean, I don't know, maybe I cannot see. Subscribe. If he's only having shorts, then I don't think he's he's making any traction. Like however, maybe it's a strategy as well. Maybe it's a strategy as well."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, maybe. And I I can see that most of the 99% of his videos are like teleprompter, even when he's standing. Uh so maybe he's not comfortable to do longer videos."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh long videos going to be done with the teleprompter, but uh there is no problem for reading from teleprompter if if the text that you wrote yourself. If you read something completely like someone gave it to you, then you just and and you're not prepared. But there is a small little bits that I tried this new headphones. I bought specially for uh trying a different things because I don't like to read from a teleprompter that much."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, okay. If it is playing on your ear like the news the uh who are you using this the actors?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's Yeah. So it's it's basically gives me the the the flow where I have to go."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, the rhythm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um I'm trying different things, so."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, for this, for this, you can uh you know, familiarize the script two, three times and record your own voice. When it is playing in your ear, in earpiece, then it's easy for you to follow."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I was trying uh actually today an AI uh reader with the lower speed. I found the voice that I liked. And that was fine. It was okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Labs, which one are you using?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That was uh uh 11."
+    },
+    {
+      "speaker_id": "2",
+      "text": "11 lab. 11 reader. Yeah. Maybe different. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. But anyway, um some scripts you have to be very precise uh and for today's I I had to be very precise, but I had to be very animatic as well. Uh but some scripts if this is specifically real estate related, I don't read. I just have the cues and then I talk."
+    },
+    {
+      "speaker_id": "2",
+      "text": "One moment. Hello. Okay. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All right. So your tasks for the week, for the weekend. Um fill up the Excel file."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, the the other different nationalities, yeah. Okay. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh I will share with you tomorrow, um not today because it's just getting late. Um I will share with you tomorrow the questions that you can put in chat GPT and dictate, but don't tell chat GPT not to. I think it's in the prompt, but just in case, not to bring some bullshit from his own side. That's a decomposition of your personality. And then, uh send me some YouTube channels, might not be about real estate. Just might be something where you like the presenter, you like the style, you like the video, you feel like, yes, that's just something that I kind of like. Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, I'll I'll send you my channel. Yeah. You know, just to make you uncomfortable."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Why are you why are you going to make me uncomfortable?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "You know, maybe, I don't know. Uh, channel. So, another thing, there are 40 subscribers. That's cool. Uh, uh, okay. Then, you know, have you ever came across the channel of Sohaib? Because I I I kind of like his"
+    },
+    {
+      "speaker_id": "1",
+      "text": "My God, you were a little bit bigger. I would not even be able to recognize you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, that's good."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, it's it's interactive. Okay. I will I will look into that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I mean, you know, there are some videos specifically I wanted to look at the uh you know, the longer videos that I did."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, the longer videos."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. You know, there is one I did about that Dubai fountain view, you know, that golden circle thing. And another one is that uh you know, the"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You have four videos. South Garden, Secret of living beside royalty."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. South Garden is basically a general video that was about a Wasal launch and then I was giving why it is important. That's more like a salesy, but other than that, the three other videos, it has nothing to do with sales. You know, the the allure of, you know, something something that the having the advantage of having a royal neighbor in terms of an investment. That's the key of one area and how to find out, you know, recession proof uh not all uh one bedrooms or two bedrooms are created equal. Even in uh you know, Dubai downtown, inside that Mohammed bin Boulevard circle. Some will continue to appreciate in another 5, 10 years and some will stop and some will even decline. So that kind of thing I did. And this is the kind of, you know, stuff I wanted to do, but in a polished way. Because here,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will tell you one thing. We are now going into, I know you want to be in a creative mode, but we want to to plug in the creative mode into the uh what our um viewers want to see, not rather that what you want to sing to them. That's my music. Yeah, what they want to see, how they want to see it and put it together with a proper scripting, uh pacing, giving a cues to the editor. So he not going to just edit the way he wants. He's going to edit the way we want him to keep their attention. So the problem that I see now and the videos might be great, but having a three minute video, it's basically for algorithm somewhere in between. So it's not a long form, it's not a short form. And what I see with the videos, uh of that size, the algorithm is not promoting them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So it's it's no point to make a video which is going to be not around 10 minutes. Okay. And our goal from the sales perspective and the marketing perspective, the person has to spend with you at least half an hour. Maybe it's going to be two videos. But for me to develop some sort of relationship with you, trust that yeah, I have to spend half an hour. Then I will way more prone to buy from you. So how many of your short videos I have to watch? So no. I know it's easy to film three minute videos, yes, but that's not what the plan is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Are you are you implying that we should do kind of like 30 minutes long videos?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't think that 30 minutes will be always a format, but I'm saying, for example, I definitely going to put you to create your own video uh Dubai map. I don't know which take you want to uh which which kind of angle you want to do. Uh but it definitely going to be with the map, you explaining the areas, you talking about the money, you talking about the why this area is good or bad. It's very interactive. It's a wide video which going to pull a lot of audience and this is one of the top videos in outliers. Outliers are those videos who got hundreds of views more than other videos like this. That means that the people want to watch it, they look for them, they send it to other people. So this is the content the viral content that we want. And YouTube going to be recommending this video as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, what's your take on the language? Uh do you do you feel like, you know, I should continue doing the uh videos in English because essentially I want that because otherwise I could I couldn't be able to connect to the international buyers."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course. I think your English is great. Why not?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I would say you do have an accent, like between me and you, I do have an accent. My English is not fantastic. Uh will someone who is a native speaker, like a white person, let's say from UK, see me as a potential option? Yes, of course. It doesn't matter because um I do look more familiar to them. You don't have a typical, let's say, Asian look. I'm so sorry. I'm just going to be you, right? So you're easy to mingle with everyone. Because one of the pillars of persuasion is familiarity."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Familiarity. Yeah, I know this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So it's if a person looks way too different, it's just naturally I'm just concerned. But you look like where are you from? I don't know. You look like my friend Victor from Moscow, really."
+    },
+    {
+      "speaker_id": "2",
+      "text": "This is the very first time that someone's saying me that I look like somebody else. I've I've"
+    },
+    {
+      "speaker_id": "1",
+      "text": "He he looks as well like a person from anywhere. So is that a compliment to you? It's just that's that's a clever compliment. I'm going to read it. See, um, you know, I I was told that you look like somebody from Lebanon, somebody from Egypt, somebody from Pakistan, some, you know, Pakistan, India is the same thing. I mean, there is no distinction. Uh, yeah, and many people, you know, come to me and you know, start speaking in Arabic. In all my years, more than more than 100 of such encounters have happened."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So that's that's your competitive advantage. We have to leverage on that. So for now, this is three things. The Excel file, decomposition document, decomposition of your personality, and YouTube videos that YouTube channels that you like."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. And when you're going to be sending the links for the YouTube channels, tell me what exactly you like about them."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And the uh"
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's not necessarily be in the real estate content, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, no, no, no. No. Not necessarily. Because you you know the way I I see you as a as a brand is someone who is very much analytically uh corporate um calculated, but at the same time, someone who has a very unique sales skills. And confidence and sales skills is a very very kind of similar in how it feels and look. Because as a client, I want to come to you and I want to be sure that you're not only going to sell me, but you're going to then sell my property."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right? Because you're building your brand, not only on you selling to people, but you're selling the managing portfolio. This is what you want to attract. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think I'm I'm kind of whoever is there, they are giving me manage their portfolio. I mean, they somebody wanted to list their property off plan, they gave me the listing. I think this is something I can do and of course, it needs to be polished."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. I mean, in Habika, you there is all the resources available, so that's great."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, there is an editor who loves me. He want to he he told me that when you start videos, I told them there is a plan in pipeline. He will do."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. I'm just waiting for the official news to come. You know, that stuff. I mean, it doesn't mean that you don't don't have to wait for that to post your video. That's fine."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, videos is fine. Yeah. So, today Shaira wanted to, you know, I think there is a is it the oh, time, yeah. 8:30. Yeah. Okay. All right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Usually usually uh I've been told like, Olga, I'm too tired. I have a I have a client. He's just told me, Olga, it was so much information. I was like, okay. So in my case, it's the other way around. You're tired. I'm so big. I we we definitely going to find a better time. I think for both because evening it's not the the the smartest time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Okay, maybe from next sessions, you know, one of the day uh in morning or before noon. I don't know when we are comfortable. That's the reason when you send me that message yesterday, I think that you have a meeting 10:30. I told you're coming to, you know, Habigo."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No. Do you have any more questions for me? I mean, you have not that many today."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I mean, it's it's more comfortable now since we are seeing, you know, at least, you know, twice a week. It's not anymore like that first, you know, kind of session that we had."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You can feel that, yeah. I'm I'm very comfortable around you right now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You are very comfortable. Yeah. But you are not that um emotional, like this is how you are, as you know. And for me, uh it takes me sometime now I can read you, so I'm kind of aligned with how you are. But in the beginning, it was a little bit like I need someone who is more it's easy for me to to read someone who is more or less on the same level."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, if excited, energetic. Yeah, right. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "A little bit agitated. Yeah. So I was like, okay, that's just I know what I can you can say half of the sentence. I already know what you're talking about. But this is just the thing. So let's talk about next week. Okay. How do you feel about uh for example, Wednesday?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, Wednesday would be cool. Yeah. Um do you want morning or maybe afternoon? Like 4:00 p.m."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, 4:00 p.m. would be, you know, Morning. Can you do mornings? Can you do mornings if that won't be a problem for you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No. I don't want to give you any more stress because I want my tutor to be energetic."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So if you are okay with let's say 8:00 a.m. I'm very very fresh at 8:00 a.m. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right after the gym, yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I'm not going to the gym on a Wednesday. Monday, Tuesday."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Wednesday is my day off."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Only two days of gym and you this body and I'm I don't I'm not for four days. Yeah, that's more like it. See, I'm not brave enough to ask a lady's age, so I'm not asking that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm 46. I just posted about this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You posted about that. You're 46. You're really 46."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Why would I lie about this? Yeah, okay, okay. Normally it's the other way around. So, are you is this session is recorded, yeah. It is getting recorded."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I can stop recording it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, please. I think."
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 5,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Yeah, so he kept asking me, you know, is that going to be a problem? Is that going to be a problem? So that kind of also raised a red flag for me."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, that's actually a good question. It's a right Olga, don't you think it's a good question because"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I would say that it's at least serious investor. Yeah, I would say at least it gives us more about he actually has this money. We know that the money is not not clean 100%. It's not clean."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Um, the another question I would ask, okay, so when you're planning to move here, right? Uh, how are you planning how are you planning to sponsor your visa? Do you need um to buy property first and then to apply for a golden visa or how do you want to do it? That's that's a question. Does he need to open a company?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "property holding company. That makes sense if he doesn't want uh"
+    },
+    {
+      "speaker_id": "3",
+      "text": "But it's going to be still it's still going to be not easy. Maybe with a British passport it's going to be easier. But it's not like oh you you you move in, you open the company, and you open the bank account for yourself. It still takes at least two, three months to do all of this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What I'm saying, it's what his plan? Is he planning to come in, rent a short-term rentals, buy himself a property, move into the ready property. But if he is buying the ready property, he will need at least, let's imagine 2 million dirhams to be ready for the purchase."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Because it's a ready property and it's not like anyone going to agree on small amount."
+    },
+    {
+      "speaker_id": "1",
+      "text": "True, yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "50,000 you can send them every week. You have to remember that they are developers who who do sell right now ready units."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, that's something else I wanted to also check, you know. Because if he's if he wants to pay back the bank, uh like, you know, what he mentioned was from the time he gets the money, he has around 8, 9 months before he can start paying off his uh yearly uh loan amount, which is 370,000 US dollar and he'll need to build a profile where he'll be able to pay back that amount on a yearly basis."
+    },
+    {
+      "speaker_id": "3",
+      "text": "If he going to start talking about this, oh, show me how I can do it, show me how I can do it. He was going to try to pull you into this conversation. Don't buy it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hmm."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Because that's a huge amount of work which you will have to do and then you will discover that the person is a scammer. What I would do if you're going to be, oh, don't worry about that. We definitely take care about this. I have a couple of options already. Just first what we have to understand, how we can help you to move the money here with the minimum uh cost. You're not spending so much money and time of moving in here. So as soon as we're going to establish that roadmap, finding the property going to be the next step and an easy step. Is it possible? Yes. So 370 USD, let's imagine."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That translates to roughly 1.1 million. Yeah. And of course he wants"
+    },
+    {
+      "speaker_id": "3",
+      "text": "1 million. Interesting, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, and and of course he wants something on top of it, you know, for his own. So let's say maybe he's looking at 400,000 to be generated."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Guys, what would you think? Which property will we will we will put into this portfolio?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh rental property 40% of um, you know, on the verge of almost getting ready, Sheikh Zayed where the rentals are stable. Um, we got to think it out. I would say 30% at least in off plan, but in medium to say a year for capital appreciation. Um, I'm pretty sure that he can cover 1.5% in 10 million."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Let's calculate it. Let's calculate it in pure numbers. So we need 1 million. Uh, so how much rent that should be? Let's say we need uh 1 million 200 dirhams to be generated per year."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, 1 million dirhams."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes. 1 million 200 dirhams because we need him to give some tips to live on."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So if it's a property"
+    },
+    {
+      "speaker_id": "3",
+      "text": "30 million it's 30 35 million dirhams, right? Invest."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, correct."
+    },
+    {
+      "speaker_id": "3",
+      "text": "37 something. So we need to focus on this cash generating units first, something which is already going to bring us this cash. Yeah?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is he open to commercial properties as well, or is it just residential?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "For him his main concern is he needs to be paying back the bank 370,000 dirhams per year and he needs some money for his uh, you know, expenses in Dubai. So I"
+    },
+    {
+      "speaker_id": "3",
+      "text": "We'll check how much expenses does he need. I mean, I'm giving him 200,000, but it might not be enough."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's a question. Does he have any other money out of that rather than this 10 million? It will be weird if he doesn't have any more money in his whole entire life."
+    },
+    {
+      "speaker_id": "3",
+      "text": "That's right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, so I kept asking him that. So he said, and I'll need some extra money, you know, to be generated so that I can, you know, live by in the. You never asked how much"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I think that's a red flag actually. A serious investor will not talk about his margin of money in this. That is a big red flag because he will already factor in that in that 1 million dirhams. According to my experience."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, what I assume so what I told him like, so which means 400,000 yearly is comfortable. He said, yes, that that's that's good enough."
+    },
+    {
+      "speaker_id": "3",
+      "text": "So he he took himself 30,000."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. That's interesting."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, that's Maybe he maybe he should stay in Malawi. I think it's going to be enough for that country."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. No, what I what I what I said was so let's say 370 to 400k is what you want to generate uh on a yearly basis. So he said, yes, that's good."
+    },
+    {
+      "speaker_id": "3",
+      "text": "400k. Let let's look at this. What will we will put in the portfolio to generate 400k? Which unit?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I was thinking maybe something in downtown uh in terms of rental."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Let's let's look at the pure numbers. Then we will find the area where we can uh reach that. Make sense?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So if you're saying 400, yeah, I think that translates to maybe 1.2 million."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, Marco, tell us. And he's disappeared."
+    },
+    {
+      "speaker_id": "4",
+      "text": "I'm here. I'm here."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes. Okay."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh so property can generate this income, it's a beach front. Beach front uh property like MRP beach front."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Guys, I'm let's let's let's first put how much rent and which type of units. And then we're going to look beach front, beach front, this one, that one, you know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I would say Olga, Olga, 3. 35 million dirhams, 10% of it is 3.5, 8% is around 2.8. 2.8 million. So realistically he should be able to get a good margin if he really invest it correctly. Even on the lower side 2 million is achievable per annum. Um, but um now getting to the specific uh I would ask him does he since he's already visited here uh Dubai, does he have a specific region that he may want to"
+    },
+    {
+      "speaker_id": "3",
+      "text": "He like this you are assuming and they said I told you not to assume that people know what they want. He visited Dubai a long time ago."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He doesn't know. He doesn't know what he wants."
+    },
+    {
+      "speaker_id": "3",
+      "text": "He doesn't know what he wants."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He doesn't know what he wants."
+    },
+    {
+      "speaker_id": "3",
+      "text": "How how do you expect him to know? Even if like you've been in real estate for quite a while, like do you know which area to invest is better? Yes, yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Not right now."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Olga, if I understood correctly, we need to look to see what properties will return him that 400,000 per annum, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Not which property. It has to be 80,000 with a price of the property around 1 million 10. You got me? So we have a time"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Why does why does the property have to be a million 10?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm just I'm just giving you the ratio because we have a certain amount to spend and then we have we don't want to spend all this 10 million for just ready property which is already generating income. Because rental yield, the higher rental yield is not always going to mean a price appreciation as well. Right? What is the easiest and most um understandable area to generate a high rental yield, not the price appreciation."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So for the yield. Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "JVC. JVC, fantastic, guys. In JVC."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Marina."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Marina, all the buildings, yes. 100%."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And down, I mean, Business Bay, Downtown, those are"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Downtown Business Bay, we have to look at the price point of the unit going to be higher and the unit going to be probably generating the same rent."
+    },
+    {
+      "speaker_id": "5",
+      "text": "So am I correct in saying if he invested in JVC, for example, he potentially only just needs four units to be paid out, right? Which will cost about 8 million."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I would say five."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Five."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I was thinking five units."
+    },
+    {
+      "speaker_id": "5",
+      "text": "So he'll put in 10 million directly to those five units."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, no, no, no. He doesn't need to put 10 million, guys."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Another thing what he mentioned was, uh, most of the agents told him, you know, don't even look at JVC, that's really uh over supplied. So I told him, uh, see my friend, if, you know, if that was the case, developers would not be investing into JVC. You know,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "This is so so so look now what we are what I'm trying to do with you guys. And the same you have to do with him. You have to give him a structure in his mind. Because he doesn't have a structure. He's listening to this agent, that agent, and then you are becoming one of the agents who is sporadically telling him some information which is more confusing. So that's why I'm going to pulling you all down. Okay, Mr. Client, let's focus on what is the crucial essential for your business model to work. For your business model to work, you want to have 400,000 yearly to pay the cost of you getting this mortgage, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "One smart question we forgot to ask about this loan, mortgage, whatever. What is the question?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "How many years?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, love it. We don't know how many years."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, he mentioned 30, 32 years. I asked him that."
+    },
+    {
+      "speaker_id": "5",
+      "text": "That sounds about right."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. He said 30 to 32 years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How old is he by the way?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "How old is he? We're talking about 32 years. He's daughter is in university."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's 52 years."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh my gosh. That's another red flag."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "32 years loan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. He said 32 years and he's 52 years. So"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "5",
+      "text": "No, I mean, unless"
+    },
+    {
+      "speaker_id": "3",
+      "text": "25 years is a max always anywhere. When we're talking about personal loan, the duration of the personal loan, I think it's up five years max."
+    },
+    {
+      "speaker_id": "5",
+      "text": "I think in a situation like this, would they consider another applicant on the loan? For example, he's mentioned his daughter, his daughter may have the opportunity to go to the max uh time frame. So I would probably ask after that if if he said 32 years, and I know he's 52, uh I would ask if he's the only applicant on that loan."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Just to validate. And if he says yes, I am, then you think, holy shit, you're playing with"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I'm so sorry. I'm so sorry. How the bank is giving you 32 years? What's going to happen?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's not the bank or something else."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I know, I know, but it's like still weird."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So uh I I wanted to look at this company Flash Cooperative. It's I don't think it's a bank. It's uh it's a financial institution. Yeah, so just I need to look into it again."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I would advise you to put in the Google search, scam and Flash Cooperative. Scam 100% from Malaysia. That's what you have to put in."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I can share a link of a Malaysian audit thing. You need to pay some money if you can fish out that financial reports if it helps you, but I would rather not spend any money on this. Yes, Olga."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay. So it is clear that he's laundering money. Now, do we get out of this deal or do we uh do the KYC, that's his responsibility how he answers those questions. And then uh we put him in contact with the third party company that will help the money transfer and we sell them the units to achieve his goals. Should we pull out this business or should we continue? Knowing that uh he's laundering."
+    },
+    {
+      "speaker_id": "2",
+      "text": "How do you confirm he's laundering?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "I don't we don't care if he's laundering and all what we care, can we do a proper KYC? I'm so sorry. We are not FBI. We don't care. But, you see? This is an important thing that you never told us."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. It's the biggest red flag so far that I had."
+    },
+    {
+      "speaker_id": "3",
+      "text": "However, it doesn't mean that it's wrong. Maybe they're doing something like this. However, the first thing you're pulling him into, like, look, let's focus on us finding the right way to keep you out of the trouble. So you will 100% sure that you will generate this 400,000 a year. So now let's look at the areas which have been proven to have the highest rental yield and the lowest price per property. Because you don't want to overuse your budget. And when you are doing a balanced portfolio, that means there're going to be a property which are there for price appreciation and there are property which are just a cash generating units. This is what you need. You need a cash generating units. It's not about the area, guys. I I want you to put it in his head. He's doing a business here. So, I would say, um, 70,000. I don't know, my phone is doesn't recognize my face. I was trying to do that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But the client is already suggesting because he's spoken to friends again, what's his decision making process? He says no JVC. Uh how would you go about it?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "He's not talking to friends, he's talking to other agents."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Other agents. How would you go about it if where would you pick up where would you pick up if you have a 10 million kind of uh basket?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Guys, forget about me. I'm just giving you the structure how to talk to him. That's why I'm telling you, Mr. Client, let's focus on us finding the right cash generating units for you. Would that be fair that the worst thing that we have to understand what going to pay you this 400,000 dirhams? You're going to say yes, because that's if it's true, this is what he worries about. And you from what I understood, we will not be able still to bring all of his 10 million within the country in one month. It's not possible. So it's going to be a gradual process. So that means the first that we will have to focus on is to buying him a ready unit, maybe something which is vacant right after completion, or something which is vacant, for example, if we're talking about five units, let's say six units, just in case. Three of them going to be vacant. That means that we can rent them out with a higher rent and three of them going to be already rented. Make sense?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What what is the average cost of the ready property in uh JVC, one bedroom?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "1.3 to 1.1 to 1.5 depending on the developer."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Let's say 1.3, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, sometimes you get"
+    },
+    {
+      "speaker_id": "3",
+      "text": "If you multiply 1.3 on six. So when you multiply 1.3 on six."
+    },
+    {
+      "speaker_id": "1",
+      "text": "7.8."
+    },
+    {
+      "speaker_id": "4",
+      "text": "7.8 million."
+    },
+    {
+      "speaker_id": "3",
+      "text": "7.8 million. Out of 30 7 million, let's say, right? So we're already with 7.8 million, we covered his cost of that money. So how much we we left with?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "What is the rental uh I think it's 70,000."
+    },
+    {
+      "speaker_id": "3",
+      "text": "70,000."
+    },
+    {
+      "speaker_id": "1",
+      "text": "70,000. Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "70 on six, how much it will be?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "We're still on uh"
+    },
+    {
+      "speaker_id": "2",
+      "text": "42, 4.2."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We need to generate 400,000."
+    },
+    {
+      "speaker_id": "3",
+      "text": "It's 420."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, 442, 420, sorry."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Dirhams. Yes. Correct. We still are short of 600,000."
+    },
+    {
+      "speaker_id": "3",
+      "text": "How? Okay, so we didn't we miscalculated because 370,000 is the amount. Yes. So let's buy more of that thing. How many one bedrooms do we need? So six going to generated for 20. So we need um 1 million 280 in rent."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Can't we look at bigger units that generate?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No. I will tell you. We are looking at the ratio of the price and the rent. If you will look at the two bedroom and the amount of rent which generated by two bedroom, how much is two bedroom rent in JVC?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "100,000 max."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What's the price of two bedroom?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "120, 120, 140."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Depends, depends on uh which uh building. Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Hard hard to find this."
+    },
+    {
+      "speaker_id": "5",
+      "text": "I mean, I'm paying for one bedroom 95. And I've asked for two bed, two bed is 120, 130."
+    },
+    {
+      "speaker_id": "3",
+      "text": "How many checks?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Four."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Is it furnished unit?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "No."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Which building is this?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Uh Oxford 212."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. Uh what's the price of the property?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "No one no one's told me, okay? No one's told me."
+    },
+    {
+      "speaker_id": "3",
+      "text": "And what if they will then?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "We'll go chill out at the pool. Um, no jokes aside. Uh, the price of the property."
+    },
+    {
+      "speaker_id": "3",
+      "text": "What's the price of the property?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "From from no, from the it was bought two years ago, I believe at 600 and now I believe it's 1 million."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's it."
+    },
+    {
+      "speaker_id": "5",
+      "text": "From what I understand. What I understand."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Bought two years ago in 600."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, if I remember correctly, it was bought very, very cheap."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, we'll we'll research on that later."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think that's a very one-off case, you know, in in"
+    },
+    {
+      "speaker_id": "3",
+      "text": "What I'm saying, guys, that two bedroom still going to be expensive for rent."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, 100, 100."
+    },
+    {
+      "speaker_id": "3",
+      "text": "The rental yield not going to be in our favor."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But Olga, as an um as an investor, right? Uh what would be a little cumbersome to be managing 12 units, 12 to, you know, 13 units and then ensure"
+    },
+    {
+      "speaker_id": "3",
+      "text": "He's going to pay you for managing that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, I'm just saying from an investor perspective, if because I'll have to ensure that it is always occupied and, you know,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "That's why you will Yes, there is a management company who are doing this for you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "But he he wants this um rental yield. If he will go to beach front property, will he get this rental yield?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Marco. I was checking online, uh, you know, the beach front properties are being rented out at maybe 300, 350,000."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Which ones you've been checking?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I was looking at MR Beach Front, but then I'm seeing a lot of uh available units for sale, plus uh, you know, some of them have not even been rented for maybe three months, four months. So which means you know the, yeah, so it's not"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Have you calculated ROI on that? Or sorry, rental yield on beach front?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, I did not calculate that."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I guarantee you it's going to be 6% gross."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "It can be higher if you look in Marina. We can get six units in Marina as well. But I'm talking about JBR units."
+    },
+    {
+      "speaker_id": "4",
+      "text": "My advice is uh short term in JVC or something like that."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Marco, Marco, like look. Guys, tell me why advising him a short-term unit not going to be beneficial for us."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Why?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Because he needs to purchase."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "From what we we what we see, uh 18 units, Marco."
+    },
+    {
+      "speaker_id": "4",
+      "text": "No, no, no, short term, short term, at least at least 12% per year."
+    },
+    {
+      "speaker_id": "3",
+      "text": "But do you want him to now go deep into understanding how short term works and now pulling all this unit is not with the short term, show me the results of this unit. Do you want to do that? You as an agent."
+    },
+    {
+      "speaker_id": "4",
+      "text": "No, no."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Exactly. So think about that. Before you advise the client, think what you will have to do to pull this short term."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's a very interesting case actually. It's it's really interesting case study. This is a very interesting case study in the sense to understand the dynamics of areas, you need domain expertise, you need to know uh ROI, ROE, like what you explain in the beach 6% return. I mean,"
+    },
+    {
+      "speaker_id": "3",
+      "text": "And you have to make it very simple so the person will understand and not think it's very complex, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's interesting."
+    }
+  ]
+}

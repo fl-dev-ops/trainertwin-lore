@@ -1,0 +1,108 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "We we already have a area report under insight, but the aim was to, you know, trim down the area report and make it more concise under the CMA tool. So of course, it's it's going to be an automated PDF report. Again, it will have very important metrics, uh, or how the area prices have been, the price trends, the volume. So, yes, I think, um, we have we have had a survey with, uh, approx, you know, 10 agencies and I've understood from them that what really, uh, would the information they would need under our area report. And based on that, we are we are we are coming up with a trimmed down version on from this tool for that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Do you have any any way to produce a report, uh, that is focused on the rental, uh, that it's like similar with grabs, etcetera. projection about the rental income."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, exactly. Um, there are multiple reports, uh, available. So I think I'd like to take you. Of course, on the CMA tool, you could generate rental transactions as well. So that's just you need to click for rent for that project. Otherwise, uh, if uh, if you're looking to get some ready graphs, then I would, um, yes, guide you to refer to insight module, go under trends and indices. And, uh, here, so yeah, you could see trends, um, it's it's derived on three levels, city level price trends, area level price trends, and it even goes down further on a property level price trends. So we could simply, you know, come to this section. By the way, our trends and indices are very, um, I mean, say it has a wider use case amongst banks. Um, so, yes, um, um, you could give full weightage to it. So what you can do is, let's say if you're evaluating these three areas, Business Bay, Downtown, Dubai Marina, of course, you could choose either apartment, villas, you could even do this on a bedroom level. Simply, you know, you could come down to this chart, uh, which, um, which helps you to understand, you know, how, um, yeah, I mean, how, um, uh, the downtown, uh, prices are. I mean, an investor looking at it can benefit from knowing how the historical price, uh, for downtown has been and they can compare it with the other areas like Marina, Business Bay at at at the at present time. Um, so the the graph is, uh, interactive. If I take my cursor and, uh, just pointed out to the recent time, so it tells us that compared to these three areas, Downtown has seen a highest price increase. Yeah, it's clearly saying here that 14.64% price growth compared to last year. Uh, that's on a downtown level, whereas Dubai Marina has seen 1.8% rental price growth and and and Business Bay somewhere around 3.3. So that's more on a area level. Similarly, you could run a similar report on a property level. Um, otherwise, if you go under rental yields, yeah, rental yields is also available under area or under property level. So, you know, you you you can, sorry, for rental yields, I think let me guide you to go under rankings, uh, section for that, and you have a rental yield here. So I could, you know, simply, if I have to guide my client who's looking to buy a four-bed villa, uh, I might probably ask him to you look into these areas. Uh, these are the top five or top 10 areas, you know, which are probably giving you higher net yields, which is somewhere around average 8%, 7.3% compared to the other communities, uh, of Dubai, which are probably at, uh, 3% or 3.3%. So, this this yields are getting calculated on a monthly basis. We update this every month. Uh, you can see the latest month data, or if you want to dive into historical dates, you could do that. And we tell you separately, what is the gross yield and what is net yield. So, yep, um, some ready charts for the rents, uh, rental yields, we saw area or a property level price trends under this trends and indices, uh, section. Um, under since we are under rankings, I'll quickly walk you through this, uh, section here. Since you also mentioned off-plan is a focus. Um, so, um, yeah, we are looking at area level ranking, and, uh, let's say on a macro level, you wish to identify, you know, which areas are in demand. Um, uh, so I could just simply set up my filters. We are doing this for freehold areas of Dubai, and all the areas. But of course, you have an option of going down on a JVC level, you could pick the areas. And these are my timelines. We are doing this starting this year onwards till date. And if we just observe this graph here, um, you know, it helps us to understand that JVC or Business Bay, these are like top 10 communities of Dubai, which are most popular because, um, it they have seen highest, uh, number of transactions being recorded in the off-plan, uh, off-plan sales. So this is purely showing you the demand. But if I go up here on this graph, I could even study the price. So Lamer is, you know, being identified as the most expensive, uh, community because of the price here, 7,000 plus the per square feet price. Um, so yeah, um, gives you, uh, whatever rankings that we are, sorry, data transactions that we are studying here in the data section in a raw data format is all, you know, put up together and, uh, uh, a ready, uh, graph is available for you to get a macro level overview. That's rankings. And lastly, the reports, uh, being the very useful, uh, sections, um, wherein, uh, I'd guide you to go under comparison reports, and you have some ready-made area comparison, property comparison, or let's say a developer, uh, comparison reports, uh, to share. Um, I mean, if, um, if I am pitching for an off-plan project to an investor, I'd definitely tie that project, uh, with this developer report. Uh, because, uh, my investor also needs to have an, uh, confidence in the developer. Uh, let's say if it's a new developer, especially. Um, let's say we take an example of, uh, let's say ACW, ACW Holdings. And, uh, can we can we take some examples of any any developers? Would you like to run this in the live demo?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "If it's a new developer. Um, Aqua, let's put Aqua."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That was just Aqua properties. Yeah, I'll remove Demac and Dubai properties also. Let's remove Emaar also. Let's let's say we're running a performance analysis for these two developers, Aqua and ACW Holdings. And for last three years for all the areas of Dubai. And a developer report starts with giving me an idea of how much sales, um, you know, these developers have done. So Aqua has have had a very good, uh, you know, quarter, uh, quarter two was their best. Uh, and in terms of, uh, sale, 298 sales, uh, have been recorded. Whereas, uh, ACW is very new, I mean, there is there's just two transactions showing. Uh, so, um, yeah. Um, we get to know if it's a, you know, really, uh, new developer, uh, if they have not have had any historical launches, everything from this report. So, um, yeah, gives you volume of transactions, then it tells you how the prices, the price movements in the off-plan and in the primary, it's same. Then it tells us the supply. So it tells us the split of their completed and upcoming supply. Aqua has about 2,000 units plus in the in the, uh, yeah. So that's the supply. Lastly, it also tells us the size. Um, so if I am looking at Aqua, uh, the average three-bed sizes that they are building is about 1,800 square feet. Uh, for three beds, whereas two beds is 1581. If I compare that with ACW, they are building slightly smaller sizes, 1451. So yeah, a full report with their transactions, with the supply, um, and when is their due dates with the unit mix."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And there there is a map with location in the bottom as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, there is a map, uh, here. Correct. So let me show you maps. There you also have maps, uh, here, here. Let me show you this. So firstly, you get to see all the plots which are sold in Dubai. You could come to land plot transaction map for that. Right now we are looking at Business Bay and total 208 property, uh, sorry, land have been sold. This is the overall value of the land sold and average price. The red dots that you see here on the map, we are trying to like give you the exact geo location of these, uh, um, you know, uh, plots that have been sold. Let's say I click on this one, and I get to see the exact plot here, uh, on the map. And yeah, um, so this plot actually got sold three times. Uh, yeah, uh, three times number of transactions, you can see three. The latest sale happened on 11/11/2025. So parcel number GFA, FFR, um, uh, total amount or and what's the purpose of the land is something that is more, uh, uh, looked after information. So yeah, you get to see the purpose of the land. It's a commercial land, uh, with office and hospitality space. So this is one thing that can be visualized from the map. Otherwise, if you wish to visualize transactions on the map or let's say supply, you could even do that. So let's quickly check the transactions and, uh, JVC is appearing red because compared to other areas of Dubai, JVC have seen a highest transaction registrations and hence, uh, it appears darker red of shade, uh, as compared to light blue and, uh, blue shades. Uh, uh, but you could see that here as well. After JVC, Business Bay have had, uh, highest transactions. So you see clearly the split of off-plan sales versus ready."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that was a full, um, you know, walk through again of both the tools. Um, in case, you know, I'm missing on anything, you'd like me to run a practical example, you know, we could we could take that now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I know I asked you this question sometime ago. I cannot get property monitor, property monitor has a heat map with rentals and sales and transactions which shows which areas are green, red or orange, depending on the number of transaction, which areas are growing. Do you have anything like this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, so heat map is I mean, this is the map we we've got for but yes, let's say you are like you're doing you would like to run it by volume, right? You said which areas are having highest volume of sales. So yes, we are right now. Yeah. Let's explain what I'm doing. I know that the first evidence of potential price drop. Let's imagine that I want to understand will the price in this area will decrease in the next two to three months. For me, because I understand a bit of simple human behavior and economics, I get the number of transaction. If I can see that the number of transaction in this area consistently decreasing month after month after month. So I I do not imagine that that's just when people prices would fall. That means that the unit are not selling, the property stays on the market. So the owners will start dropping the prices. And then when the prices is basically, uh, fear index goes up and then everyone going to start decreasing prices. So my first evidence is to see the number of transaction in the area. Compare this compared to the previous months. Will I be able to see it anywhere?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, okay. So I think for that, I'd guide you to, yes, of course, you could do that on map, uh, as well. I I'll show you both ways. Uh, but, uh, so one way is to get that information through the ready report. Uh, for example, I'm looking at area report right now. And you wanted to do this last month. So you could choose the date range here. We are currently running this from 2024 onwards till date. And this has been the, uh, trend of, uh, sorry, uh, you you said, uh, volume of sales, right? You wanted to check that. So sorry, I I instead of checking this stand alone report, uh, it's better you go under area comparison report. There you get to see the volume of the volume trend. So if we look at the business, so right now we're looking at these four or five areas and checking their performance for the last three years. So here very clearly we get to see the volume of sale. For example, Business Bay back in 2022, have had 156."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I just want to see a lot of areas. I want to see one area and I want to see volume of transaction."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So I'll just remove the areas from here."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Let's make like six months, not last three years, like last six months."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, let's do last six months. And you said, um, just I'll remove the other areas here. If if I'm not sure if you are have also logged in with me simultaneously, you could actually run that from the area comparison report. So right now, um, we are currently looking at these five areas, but I could always limit it down, uh, to just Business Bay or one more community. Uh, I just need to go under area and deselect, uh, the other, uh, area names. And you said last six months. So I've selected last six months. And here it is. So it gives me the volume of sale in both ready and off-plan market, uh, for that area. Uh, so that's how it's the graph is going to look here, uh, by volume, and you could even study the prices, uh, price trends here, uh, for the last six months, which will be a indicator, um, to, you know, uh, uh, see how or to to forecast, uh, you know, the future prices. That's how, you know, our clients are doing at the moment. So this is doable, uh, through the ready report from the report section. Otherwise, if you go under maps and refer to price trend maps, uh, you will, uh, you'll have a ready trend here as well. So that's your price trend maps here. And, uh, okay, currently we are looking at all bedrooms and we are running this on a area level. You could run this by clicking down to a property level. And on the map, um, you could run this by sale prices, by rental prices, or by rental yields. Um, if I click on rental yields and just take my cursor, so it gives me, um, you know, this area, which is Jebel Ali location. Um, there has been a, uh, you know, 5.9% uh, uh, rental price increase compared to last year, whereas compared to last month, 0.5% decrease. Uh, so, um, I know you were you wanted to look at the trend, but the trend is available here in this graph. Uh, so what we can do is instead of looking at all the areas, you could just zoom zoom and, you know, just select that area through the, uh, uh, circle here or make it a rectangle and it will pick those four areas, five areas, and you could study that trend, uh, rental price or a sale price, uh, change, uh, through the graph right down below here. So that's on the map, through the graph, or you even get to see that in terms of rankings. Uh, so these are the top 25 areas, uh, with their month on month, quarter on quarter, year on year, uh, value changes. These are rental price, uh, value changes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "But here I cannot see the number of transaction. I can only see the price changes and rental price changes and rental yield."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So, um, this is on a property level, but if I I think go to, uh, if if you have to look at by volume, then yes, let's let's go to this section for that, transaction maps. Yes, I think this here. By volume, you could run it here. So this is your transaction maps and World Island in the last 12 months have had 92 transactions and that were all in ready. If I have to do an off-plan, I could just slice and dice the filter on the top."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but it means that I have to, let's say, if I want to look at the last three months, I have to open three pages and then last date I have to modify it, right? And then just basically."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, yeah, if you're looking by volume, then you have to come here. But if you're looking by, uh, you wanted to understand the trend of price change, uh, on a map, then you could come to this price trend maps section for that. I have these two maps."
+    },
+    {
+      "speaker_id": "2",
+      "text": "forecast the future price. I don't want to look at what has happened before because what has happened before, the registered transaction is basically something which been agreed probably three, two months ago. But it's been reflected just now. So something is agreed now already, which will be reflected in the two, three months. So we always look at the data which is agreed and recorded in the land department as with a delay of two to three months. You got me? So I'm just was thinking how I can using like bit of smartness forecast the future."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right. I mean, now, uh, we we we've we actually are internally with the help of our data science team is trying to come up with generative AI feature, which is going to it's going to do AI-based price forecasting. Because we already on the platform are showing you the historical and the current prices. It's it's uh now in the world of AI, it's it's a need. So we are let's see how successful we'll be in, you know, embedding that onto the tool, which is going to set up a context on, you know, not just on the prices, but also on the on the on the supply side, uh, uh, yeah. But right now the way clients are doing is, yes, yeah, checking the existing, yes, forecast from the tool."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Is there anything else you want to show us? I think every everything is self-explanatory. We recorded the session. So hopefully that's going to be rewards 100,000 times by our agents. So they can actually use that properly."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Right. And what I can do is on top of that, we have also come up with a explainer video internally. So probably I'll even share that video with the team. And, uh, yes, for some, yes, yes, that would be helpful."
+    }
+  ]
+}

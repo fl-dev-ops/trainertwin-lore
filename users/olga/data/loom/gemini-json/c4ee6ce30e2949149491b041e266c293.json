@@ -1,0 +1,396 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "my end goal to agree with him that after a couple of weeks of performance on the portals to consider price adjustments with him."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Not adjustment, conversation about the price adjustment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, to agree on the conversation about the price. Perfect. Let's do that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "By the way, I one second, with my member apartment, we agreed with her to wait for another week and then have a conversation about the price."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Fantastic. So you know how to do that? Let's do that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's what you meant. I thought you were saying not only the portals, I thought you were saying how I will be able to sell this property apart."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And this is your marketing strategy. This is your marketing strategy."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So I confused I confused both of them."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No worries. Okay, let's do that. Then I understood what you mean."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because no one they of course you should be confused. No one is talking about this or teaching. Everyone is just listing on the portal and like hope and pray that it just something going to happen magically like that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "The same as the company he's apparently listed with."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Okay. So, um, So, Arena, my price is whatever, 4.8. I want to start with that price. I want to list with that price."
+    },
+    {
+      "speaker_id": "1",
+      "text": "All right, so, um, Oh my God, why am I getting confused? So, okay, let's do this following. We will list this price, we will list your apartment at 4.8 million, and then start to see the performance of your property on the portals."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What is the questions?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "And I'm coming to it. Let's say if"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's too late already."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's too late already."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course, because you have to ask him. Yeah, we definitely can list it with whatever price you feel is right. Yeah, it's your apartment. You can list it with whatever price you feel is right. What this does to him lowers his resistance. Because each and every other agent told him that the price is too high or whatever. And then I'm asking him the question. Um, and in your mind, um,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "When do you think like in your mind when we don't get results, let's say within another two to three weeks?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No. Too early. You have to tell him. Ask him, in your mind, who is the one who is actually, because you told him, you can decide to list the property with whatever time you want. That's up to you. It's your property, it's your decision. So he agreed with it. Yeah, yeah, it's my decision. Ah. And then I was like, and and and in your mind, like, if you will, you know, kind of think, who's actually, who's actually the one who's deciding on for how much the property would actually be sold?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, it's the buyer, yeah. Of course. The buyer gives an offer, and then it I will either accept or reject it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah. Yeah, that's right. And and and you know, you're your buyer yourself. How do you shop for real estate?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Uh, of course, I go and check the lowest priced property first, and then I start choosing uh, or writing down the advantages of this one and compare."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, makes sense. But when you have like two, three units with more or less the same advantages, what would be your, you know, kind of the main decision-making factor?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, it's the price, of course."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Would that be fair to say that it's kind of the same way that the other people going to, you know, kind of make decision?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, yeah, it's fair to say, of course."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And and if the price of your property, let's say, would be already predetermined, right? If you would go into the future, and the price of your property, which is sold in your future, it's it's already predetermined, right? I mean, we don't know it yet, but in the future, it's already existed. When would you know, when would you want to know this price? In three, four, six months or now?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, well, of course, I would like to know it now, because I'm interested like at what price I can sell my property."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, perfect. Uh, so we definitely can start with the the price that you want. Correct?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yes, we can start."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, what I can offer for you, if that makes sense. We're going to track the reports, we're going to see what the market is communicating to us within this first three weeks. And if the feedback of the market would be low ball offers, just a few buyers are interested. What do you think we we need to do to make sure that we're actually going to sell your property?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, at that time, I would probably reconsider my price."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay, so would that be fair to say that we can come back to have this conversation in three weeks?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, let's check what is the market saying within this and then we will see. But again, I'm not in a rush to sell, so it's just from me."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I completely agree with you. Yeah, whatever. But but what happens with the units which are on the market for like, like three to six months? What what do you think is happening with them in terms of price?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, I can just remove it from the market and that's it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, you can. You can. But why why why do you even want to sell it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because uh, it's not a risk for me to keep this property, but"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, we're not talking about risk, but for you selling now, why would you even consider that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, I want to invest into some other projects. So, I would need money."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So what is it more risky for you? Is it more risky to miss the opportunity with the new project that potentially could give you how how much do you think they could bring you in terms of returns?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, maybe 20%, let's say."
+    },
+    {
+      "speaker_id": "2",
+      "text": "20%? So is it is it more risky to lose this opportunity to get 20%? Uh or or is it is it more risky to get the property sold now when the prices are at the highest and just just move to your next investment?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, yeah, it would be risky if I couldn't sell it now, because I don't know what will happen with the market after some time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's it's up to you to decide. And and I'm saying, you don't have to sell it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But I want to sell it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You see, I'm I'm silent. And you feel uncomfortable. Now you're saying, now you're protecting your position. This is exactly how they feel inside. You felt it just now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Have you felt it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, that you're not in an element and I'm as soon as he's telling me, oh, I'm not even in a rush to sell. He's like, of course. But if you would sell it, why would you do that? I'm digging. I'm I'm putting the hook. I want to pull this pain back again. Because no, you tell you told me now that you want to sell it. So why would you do that? I mean, you don't have to, of course, that's your property, you don't have to sell it. But if you would, why would you do it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You want to try it your way. So, look, the first thing, you're telling him that uh, he can sell it for the any price he wants."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You mean list it? It's up to you. Yeah, list it, sell it. Doesn't matter. Because we have to keep him open. He emotionally start protecting himself from you because you're a bad person trying to tell him that his apartment is not worth what he wants, right? As any other agent. Then you're asking him, making him think, not everyone going to tell you that's a buyer. Believe me, some people going to say, no, it's me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ah, yes, yes, I know."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course, some people going to say, it's me. And I was like, yeah, well, and then you're going to say, it's it kind of feels it's you, but eventually, eventually, who's going to vote with the money? Because this is what I, like, what we just did with this loop. We just did a loop for him, like the circle. I'm changing your way of thinking, because your way of thinking is wrong. I cannot change it otherwise, but asking you the question, so you think through and you come up to your own reasons. So now your way of thinking is changed. Think of it as if you are walking on the island, on the flat, on the beach of the island. You look around, you don't know, it's just the water all around. I cannot see the ground. I don't know where the land is. But if you will walk up and change your perspective, change your way of thinking, you're going to go on the mountain. You will be able to see other land. It's always been there. But it was just like with the perspective that you had from the beach, you were not able to see that. So when they are on the beach with us, they whatever we say, they they're deaf. They cannot see that. We have to change their perspective. This is what sale is. Building a lot of different bits and pieces, but building the gap and changing their perspective. Okay? Let's do that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, what again, same?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, you're going to you're going to you you're going to do it to me. And I'm going to help you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So I'm the agent or I'm the buyer?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, you're the agent, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So, um, yes, we can list, so you said you want to list it 4.8 million, right? Of course, we can list it at 4.8 million. And, um, when do you think in your mind we could potentially discuss the pricing strategy for the property?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "We can discuss it now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, uh, okay, so who do you think, um, is going to actually determine the price of your property? Who who is it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, yes, of course, it can be you, but who will at the end provide you a check and, you know, vote for your property?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, yeah, yeah, that's going to be a buyer."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, yeah, that's what I mean. So we when we go when we list your property at 4.8 million, um, we will, okay, when we list your property at 4.8 million, we can give it a time, like let's say three weeks. And then when the when we understand what's happening with your property, we could potentially"
+    },
+    {
+      "speaker_id": "2",
+      "text": "How do you mean what's happening with the property?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, we can see how the property is performing on the market, like if we are getting any, uh, inquiries, if we are getting any viewings, how many viewings are we getting per week? How many inquiries are we getting? What kind of inquiries we are getting? And then let's give it a time, let's say three weeks. If we don't get any results, when do you when in your mind do you think we could discuss the price?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I mean, I'm not really flexible with the price."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, okay, so do do you think you want to keep this property for?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Tone. Ah. You see, your tone makes me defensive right now. You are defensive, so it makes me defensive."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, yeah, I understand you're not that flexible with the price."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Way better, way better. I'm keeping my guard down. Uh-huh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I understand that you're not that flexible with the price, but uh, what do you think is happening with properties that stay longer on the market, let's say like six months, seven months? Do you think they attract buyers? Do you think they attract buyers?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "But but but how do but how do the buyers know that they are for six months on the market?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, you know, you can see when the property was listed, uh, on the portals and it's going to be there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maybe I'm just going to remove it from the market."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, of course you want to remove, but then my question is like, why are you even selling it? Why why don't keep it for another year, let's say?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Oh, yeah, well, I cannot do it because of this and because of that. It was good. I was challenging you. You understand where you need to go, but you missed the most, not the most, the important bit. You didn't kind of expand on that. So when you say, who is the one who eventually going to vote for your property with a check? And I'm saying the buyer. What you should do next?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm saying, ah, uh, I would say next like, okay, so and how do you shop? Maybe how how do you go and find properties that you would like to buy?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, well, I don't know. I'll go on the portal, just check the prices."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, and uh, which price do you check it first?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I told you, check the prices and that going to be a great, you you're doing good, but what a great way for you, because I I kind of told you and I kind of didn't."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And what do you think?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm going to go on the portal, check the prices and you're going to say, prices?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Prices?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Now you feel it, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Prices? Then I'm like, prices? Yes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And that's it. And you're silent. And you're silent. Prices? And I was like, yeah, well, like, I'm going to look for the lowest price."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, is it fair to say that the buyer who will probably buy your property?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "You can, look, let let him talk more, because you see, I just gave you a couple of words. You want me to literally talk."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, prices?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "And and when you're saying price, I was like, how do you mean exactly? Oh, I'm just I'm just going to look for the lowest possible price. And you will say, is there any any specific reason why would you do that? Why? Because look, what I'm trying to do with him, I want him to become a buyer. I want him to feel what the buyers feel. This is what's going to change his perspective, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I want him to be in the buyer's shoes. So he going to say, yeah, well, because like, I want to buy the lowest price. Or because the buyers are always looking for the lowest price, or because when you're buying something, or because I'm an investor, I want to have the the highest return. And then you're saying what you just said. Would that be fair to say that and and do the pauses. You see the pauses. Would that be fair to say that like every buyer going to kind of think that way? You see? Give it a pause. So when you pause, you kind of let him think through."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah."
+    }
+  ]
+}

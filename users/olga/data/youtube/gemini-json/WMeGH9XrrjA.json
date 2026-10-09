@@ -1,0 +1,32 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "What I'm fishing for is the where I can put my hook, what they want to know more, and this is what I'm going to offer them on a zoom call. I am in competition with probably 10 agents who are trying to pull them into, oh, I can show you this. I'm going to they already send them all the brochures and sales offer. And they're not in the stage of even able to evaluate that. So if you offer them something different, they might be more engaged. Because the responsibility is this, to either believe to what you've been told, because it's just so good to be true, because it's just 100% return in in five days."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Something that he told me right from the beginning is that he will come to Dubai and will together we will go and walk the places where he's going to invest. When?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "When?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh, good question."
+    }
+  ]
+}

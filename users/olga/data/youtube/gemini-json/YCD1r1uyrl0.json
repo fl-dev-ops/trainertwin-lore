@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "It's actually sales technique which you're talking against your favor. You're saying something, it might not be for you. I'm not sure if it's even right move, but would you be open to maybe look at the options and then you decide should you even look at the Dubai market, should you consider Dubai market or maybe you better invest in UK."
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "it's you close four deals recently, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh four no two. Two deals. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh is it off plan or secondary?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Off plan. I have not closed any secondary and deal until now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. So and and what you what you mentioned a kind of a trouble is that off plan costs now more than secondary and that's kind of turns the clients off, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh is this what they're giving you as an objection?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh it is an objection once they research the market. Just to give you a case study. Just a recent experience which I shared. So uh you must have seen that a couple of weeks back, Shobha was selling on a 2080 payment plan if you must have seen."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, Shobha is selling on a 2080 payment plan. They're selling their products 5 million and above on 2080. The same product that someone six months back purchased on a 60/40 payment plan, right? So right now they are trying to sell a 2080 payment plan for their townhouses. So their project is very close to MR Valley, right? There's a project called Shobha Sanctuary which is on the plot of Terra Solis, right? So they're selling a four-bedroom townhouse uh for 5.8 million, almost 6 million, right? A four-bed townhouse for almost 6 million on barren land until now, right? It's barren completely until now with the projection of the houses to be 2029. Whereas MR Valley already a 30 to 40% developed community in one of the off plan resales, someone is trying to sell at OP, right? And this is not a one this is not just one OP transaction that is happening in MR Valley. If you see the data, if you see by UT, if you see anything, there are at least eight to nine deals every day that are coming on OP and MR Valley. So me as a buyer, when I'm seeing this, a location which is better, a developer which is more credible, a community which is already ready, I'll get an earlier handover. I am paying 30% lesser. This townhouse is costing me 3.5, 3.6 million, and this townhouse is costing me 6 million. So there's a huge disparity in uh most of the projects. Even if you pick up normal locations like Dubai South, uh Dubai Land Residential Complex, Dubai Marina, MR Creek Harbor, you pick any location, every off plan launch is more expensive than the ready project over there. So one uh always, right? So once a buyer, see there are two types of buyers in this market. There are buyers who are just coming here to park their money. When they're buying off plan, it doesn't matter to them, it appreciates, it depreciates, whatever it is. Whatever I as a broker tell him is okay to understand because his basic priority is to park the money. Just to park his cash, just to park his money, just to park his funds. The other."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Just to park his money. Let's call it that way."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. So uh the other section of the buyer is someone who wants to buy an off plan, but right now because of the various infrastructure for him to attain knowledge, be it the regulations, be it, be it interact, be it chat GPT, be it cloud, anything, right? If if I am a buyer, I will always be the second buyer. Just if you don't mind, just a second. Can you just pause because there's someone at my door. Just a second."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, sure, sure, sure. Go."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm really sorry. I'm back. So, uh so what I was telling you is this, right? If I am a buyer, I would definitely if I'm trying to invest 3 million, 4 million dirhams into an off plan project. I am basically buying brochure, I'm basically buying dreams. I'm basically getting getting dream sold, right? So I will definitely do my research. I will do my due diligence. And once I'm doing that due diligence, I am finding out that there is a huge disparity in what the broker is saying to me. So if I am that broker who is trying to pitch something which is not coming in the due diligence, I come across someone who is unprofessional, who is unethical, who does not knows his craft, I lose a client, I lose a deal. So this is exactly what is happening on ground. And I'm I'm telling about ticket sizes which are 5 million, 6 million because I have not sold anything which is above that ticket size in general, right? So I don't know that you can tell better because you are more experienced, you must have seen ticket is 20, 25, 15. That's a different ball game. I'm not talking about that ball game. I'm talking about the ball game which is under 10 million. So if I see anything under 10 million if if I am a client, I feel that anyone who is okay to buy a 5 million off plan, 60% of the times, he has the entire money. That's why he's going to park that. And if he's okay to and if he's getting options in the secondary market or in off plan resales, he'll try to get into that direction. Pay a 2% extra commission, save 200,000 rather than pay 300 300,000 dirhams extra and buy something which is not going to make sense. So this is my basic understanding. This is the basic pain point which I have."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course. Uh, I'm going to jump into a little bit deeper angle. There is um only four types of objections. If we're going to talk about objections. There is a smoke screen, but we are not considering, which is I need to think about it, uh, I need to talk to my wife, I need to talk to my financial advisor, just bullshit that he's basically not telling us what the objection is. Money objection. It's too expensive. Time objection. It's not the right time, I need more time. I'm talking in general, not specifically towards the real estate, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure, sure, sure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh if you're selling a coaching program, for example, like I I don't have time to dedicate right now to do the coaching. And value objection. Value means I do not see the value in what you're offering. So the value objection is the one which you cannot overcome usually. So if you come into the sales process and you're offering a certain product to the client and he's giving you a value objection and you just gave me a value objection. It's like, why would I put money when there is a better option, that means that your qualification when you were actually exploring what he's looking for, what his financial capacity is, you did the wrong judgment and you're offering him something that you will never be able to sell because my favorite example on that, my shoe size is 41. You can give me a discount on the shoe which is 39. I'm not going to buy it. Why? Because my shoe size is 41. So, you can do whatever song and dance, but because it's the wrong size, you cannot do anything. So here we are coming back to the point is this is not a coaching session. I I I need to ask you a little bit more questions, but this is very painful for you. The reason you are not able to overcome this, because you truly believe that it's way better for them. Don't sell don't sell Shobha. Shobha on its own if you will go to any uh property monitor, I'm not sure if DXB Interact is able to to show that or Radin, the data, which I'm using, to dig deeper, literally, it's very hard to make any profit on resale on Shobha projects."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Means if I tell you, if I tell you frankly speaking, 60% of the Shobha inventory is distressed."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course, because those people miscalculated it, because they're not a product that you have to sell on completion. Is this a Shobha problem? No, that's a problem of those who make decision based on what they wanted to hear from the agent. And the agents were promising them something, they were opening the ears instead of going to the data. And this is how I'm going to communicate to the client. I was like, yeah, well, there there is a distress. Of course. Well, why do you think these people are selling now? Because they miscalculated the exit. Well, they were actually hearing what they wanted to hear from the agent and they selected the agent, not the one who is telling them the truth, but the one who is telling them, oh, you can make 20, 30, 40, 50% on exit. And this is where they are. So I'm not sure, Mr. Client, where do you want to be with your investment and which type of agent do you want to deal with. I work a little bit differently. I work pro data and I'm showing to my clients the whole background. So would that make sense for us to book a little bit more time together on a Zoom, where I can walk you through the exact past transactions for sales and rentals, so you can see with your own eyes which project is better for you. And I use it to book a meeting."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because my goal is not to prove anything to the point. And let's put it this way. Why the off plan is more expensive. Because off plan is giving you the option to delay the payment of the money. Money now, pay later is always going to be expensive, because you have to pay this leverage. You you understand what I mean?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I understand because you are getting that leverage, you are getting that flexibility to pay anything. Yeah, even if I'm buying a car, right? If I pay cash for a Mercedes and if I take that on an EMI, the EMI will definitely be more expensive."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And this is this is the delusion when we look at the deal which been closed with the mortgage, transaction been recorded, for example, let's imagine it's 5 million villa been sold. It's ready, so it's been sold with mortgage, even at OP, right? But the person who is buying it with mortgage, he is, for example, putting one and a half million as his own down payment and he is taking three and a half as a mortgage. In his title deal, the price is going to be 5 million. When he will be selling this villa maybe in five or six years time, will this actually cost him altogether 5 million?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No? Of course. He pays way more for servicing the mortgage. I mean, you reality is with the seven years, unfortunately, because how the mortgages are structured here, you cannot cover the body of the mortgage in the beginning, you just cover the percentage mainly in a small piece of the body of the mortgage. So, you, I don't want to say pay double, but up to the seventh year of your service in the mortgage, you already paid additional minimum 50% of your mortgage to the fees to the bank. I mean, it's always you pay that, but the bank is not telling you, hi, Olga. You're getting this property, so it's 5 million, actually, it's going to cost you uh 12. Who would be signing this contract? No one, right? What they say, oh, pay month, it's going to be that much. Okay, fine, I'm I'm I'm I'm going into that. So, I find with the client, I was like, look, it depends. If you are on a on the ground that you have all the cash available now, or majority of the cash, because that's how it should be when you are going into resale, you should have at least 50% ready, at least. Or maybe even more, I don't know, depending on the payment plan. And then the remaining has to be done within the year, ideally, because that's a handover date. I mean, do you have this capacity? No problem. Let's go explore the off plan resale. But if you don't have this capacity, then like, why are we even talking about this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Fair enough, makes sense."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, and I would say, what if the client, oh, why is it more expensive? The prices are like, exactly. So what makes you even click on the ad about the off plan property? Why not to go and explore secondary market option? Have you been talking to, you know, do you have all of the amount available? Have you been talking to any uh mortgage advisor? Have you received any pre-approval yet? How does it look like for you? That's it. And most conversation going to stop there. Because they don't have a capacity to take 5 million mortgage, most of the time, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, because whatever, the money is not there, someone has a company here, that means he's not employed, he doesn't have a salary. If you have a company, no one going to give you a mortgage because the mortgage is only given to the salary employees."
+    },
+    {
+      "speaker_id": "2",
+      "text": "True."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, saying this, the first thing to be able to overcome any objection, is to stop believing it. If you believe this objection, you will never be able to overcome it. So you have to do the work in your head to uncovering it. And I'm not, like, look, it might be true. I'm not saying it's it's not true that the off plan is more expensive. But is it better? Is it worse? It depends. I don't know why your situation. For someone who is not able to accumulate any cash otherwise, buying the off plan and educating a certain portion of money every three, four months, is the only way to go forward. If not, you will not be able to purchase any."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Fair enough. Fair enough, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So I'm not here to convince you in anything."
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, no. I I it's it's all these all these uh things I'm just trying to uh get inside my head and try to use this when I pitch as well. Uh because."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, that's why."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, sorry to interrupt. No, no, no, sorry."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And it's not it's not about the pitch as much, right? Um uh anyway, the way my methodology works, I'm not sure how many videos of my of my teaching you have you seen. I am not telling you, I'm not pitching, it's not about the pitch. I'm asking you the questions. Answering these questions, you are telling things yourself to yourself, because despite a great rapport that I will be potentially able to build with you, you're still going to see me as a sales person trying to sell you something. So you're you're going to be always skeptical. But you're never going to be skeptical towards what you are saying to yourself, never. You're always going to say, that's true. So, the art here of neuro-emotional persuasion is to use the questions in a way that you're going to say what I wanted to pitch myself, but you're going to say it to yourself. Yeah. And we're going to role play that, so you're going to have a better understanding of that. Okay, so, I have a couple of questions that here. So we have two deals. Um, you have leads from social media, or you it's your network?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Only cold calling."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Cold calling. Cold calling databases of owners?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, not database of owners as well. I cold call, I cold call on people uh who have uh salaries of 50,000, 50,000 and above, 35,000, 40,000, something like that. So people who have decent amount of pockets, who are okay to pay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And what is your what is your process? So you cold call, yeah, I'm interested. Well, where you go from there?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So I So when we are selling off plan, it depends on the launch which is coming, right? Supposedly, a launch is coming right now by MR Valley. I start the call by pitching MR Valley. That uh hey Mr. XYZ, uh I'm reaching out uh in regards to a launch by MR. This is MR Valley. I try to put in couple of USPs here and there, try to pitch across. If there's a good amount of interest, he will ask what it is, what it is not. Then I tell him this is the particular project. If again the conversation builds up, he tells me, fine, this project is good, but it is not fitting in the plan of scheme of plans. I need something uh lower budget, I need something not for a townhouse, for an apartment. Then accordingly I build up the uh requirements, the criteria list for them. Accordingly in the next call, I again call them, we had a conversation. Then this is something which you wanted. This is some these are some of the options. Now it's for you to come down and have a look at it. Then they come in, then they have a look at it, from there, then it goes ahead. Cold, warm, hot, then a transaction. All my transactions have been like this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so then. Okay, so basically, you don't know which type of a client you're approaching, your variety of buyers can bring you, oh, I need a warehouse, or I need a commercial, or I need here, or I need there. So that means that you have no control over the stock. And even if there would be a a chance for you to start accumulating some secondary market stock, it would be pretty much useless because um the way you're acquiring leads while your stock is not yet there, those leads are not matching with your stock."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes. So that's."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is is it either you're a buyer agent, either you're a seller agent, either you're selling off plan, either you're selling secondary."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. So, in this way, the way I would do it, um, okay, so let me let me ask a little bit more question. And besides that, you mentioned that you want to have a stock."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "In communication problem, what else what else is there for you? What else is giving you, let's say, maybe frustration or what would you want to change?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Not frustration, see, I'll tell you the entire scenario, right? If I take a couple of minutes from you, right? I'll just tell the entire scenario. Uh when I started working, right? I knew nothing about real estate. So at that time, we were told this is a launch which is coming. Pick up the phone, pitch this product, call them for a meeting. That is how it started. I failed miserably. 60 days, no transaction. On this biased data, right? No transaction. Then what I did, from there, I then changed to my own data, the data which I'm still working upon, right? I call, I enquire I pitch for a launch. I enquire then they respond to that launch. If they're interested or they're not interested, then they give the requirement, that is how I build my pipeline, that is how I close. So it's not that I have been selling just one project. I genuinely I sell as per the need of the clients, right? Now because I've gained experience uh a little bit experience, right? Uh what is happening is this, now when I'm talking to clients, I'm talking to referrals, I'm talking to people here and there. If there is a potential to buy, they are not trying to buy something which everyone is offering and my problem is this, I don't want to sell something which everyone is offering. I'll tell you, just to give you a simple example. Supposedly a launch is coming, right? Uh in Dubai, either you're working for the best of the best of agencies, right? Uh in a certain manner, right? You can work for the best off plan agencies like Metropolitan, uh like Eon interest or any other agency it can be. The top agencies, right? For off plan. If you're working for them, right? So what happens is this, I am working with for a very boutique agency, right? For a very normal agency. I'm doing everything on my own, supposedly. So what happens is this, I am selling a Damac project which is coming in a hot launch. It can be Damac Islands. The world is selling that. There is no USP in my product. There can be a USP in me that I know more than him uh or I know more than someone or I am more approachable, I built a better rapport. But when it boils down to a client who is trying to buy anything under 4 to 5 million. I'm trying to say what I have understood of this client's psyche. Nine out of 10 times this client is trying to save every bloody penny that he can save. And that penny can be from my own pocket as well, right? So it boils down to a point where I am offering the same. Are you calling for Dubai Dubai database? The people are in Dubai, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, yes, yes, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So uh what happens is this, right? That I call I everything is done, right? And the ratio is for one buyer, there are 10 brokers, right? So there are 10 brokers chewing his ears. So even a even that I beat 10 of them, I am at the top of his priority list. It will definitely come down to one single point, how much is that you are going to offer. Because that is how the market is right now on a ground level scenario, right? Everyone is selling the same product. The client want to save every single penny. The market is such that if I am not offering four, someone else will offer four. I have to work for 1% after doing all this, right? Try to lower my value or lose out on the deal. There are just this is the common scenario for selling off plan under 5 million. 10 million, 15 million is what you can say, what is the mindset, what is the psyche of that client, right? If he genuinely values uh the uh broker or not, that is I have not encountered until now, right? The highest."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's not about the client, it's about the broker. Would that be fair to say that there are brokers on the market which never share the commission?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Even I don't, right? I walk out of deals. Yeah, I walk I walk out of deals. This Shobha this Shobha launch as well, right? It's a 6 million product. Someone is telling him that I'll give him, I'll give you five. I cannot work for 1% and sell a 6 million product. I've told it's not a good product. If you want to save 5%, go and buy from him. That's totally your call. I have this to offer. If you want to take this, this is of more value, you can take."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so, rather than that, the problem is that everyone wants a discount."
+    },
+    {
+      "speaker_id": "2",
+      "text": "This is what I am feeling. This is what I'm feeling under 5 million. Under 5 million, this is a basic psyche. Uh because I have not sold 7, 8, 10, I have not sold like that. I've just sold one floor once of 16 million."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Why do you think, like, um, let me ask you this. In your, in your objection, in your understanding, why would they only choose the agent who is giving them the commission cut?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Because see, uh right now, uh there's a very repetitive amount of off plan uh buyers, right? Supposedly, I am someone who buys only off plan, right? I'm buying only off plan, I'm buying only off plan, I'm going to again buy off plan. Now I understand that everyone sells the same damn product. No broker is trying to offer anything more or means off plan buyer mindset I'm saying, right? Uh even if there are I I have encountered with clients. He has a he has an agent, right? Uh I have two properties in Dubai, supposedly. One in Dubai Hills Estate, one uh in Dubai South. I have I another launch which is coming, I want to buy this. I have an agent, right? Who is selling for me, who is reselling for me, who is doing everything. But what I'll do is this, I'll again go and buy from an agent who's trying to offer me something because this agent won't."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You know why? That's why."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't know why."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Why? You answer me, why?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I feel because if I don't do it, someone else is going to do it. There is option for the client to choose that if I am not off if if I am saving 300,000."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because because the agents are sound exactly the same. They're doing exactly the same word by word, pitching exactly the same way. So I'm as a client, I don't see the difference. They're all commodity for me. You're all commodity. I'm not saying this. It's not about the product, it's not about the product per se. It's about what I feel with this specific agent and how do this specific agent makes me feel? Because the client, he is, regardless, is it off plan or secondary, it doesn't matter. This is a delusion that the people are buying properties. They're not buying walls, regardlessly, secondary or off plan, it doesn't matter. They are buying the solution to the problems. But the problem with the agents is that they are not even digging into the what happened like, why even start looking, you already have so many properties, why to buy more? They're not even talking about that, ever. So they're talking about how great is the project, how much money you can make. So I'm listening to that, and I'm just like, well, everyone is the same. And I'm talking from my own experience selling the properties and why the clients were buying through me, and I'm now having um unbiased coaching session for the clients. When I come in, having a one-hour session with me, paying me money, so I look at the project, evaluate the uh portfolio, and telling them what to do. They don't go to the agents. They pay me money for my time. Because they know I'm not going to sell them something. And the reason."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Fair enough."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I I have so many feedback from the clients, because I do a lot of like things for my content as well. But the reason that they they are, I was like, look, there are so many agents on the market. Why are you here sitting in front of me paying me money for my knowledge? You can get it from the agent for free. He's like, no. No one is ever told me anything like you did. No one has no idea about the investment strategy. No one ever asked me what do I want to achieve. No one ever showed me any plan. No one ever showed me a case study of someone who invested before and how his portfolio looked like now. I haven't seen anything like this. The only thing that they are making, they're saying, it's great project, it's cheap, it's a new launch. And they're bombarding me with all of the spam on the WhatsApp. It was like, I just they're useless. I'm so sorry, and my my recent uh client, I'm going to do a reel about that. He just said, agents are just scammers. And I was just like, scammers, but how? How they can even scam you? Well, he couldn't explain me what the scam is, but this is how he feels. You got me? So the agent the agent who is winning in this market specifically, is someone who knows how to talk to the client. So he's not like everyone else."
+    },
+    {
+      "speaker_id": "2",
+      "text": "110%, what you're what you're saying, I believe that, I follow that as well. But because see, uh if there is a fresh buyer, right? A new buyer all together. A new buyer. See, if if this is for buyers uh who have purchased before, who have resold it, who understand the value of an agent, who understand what an agent brings to the table. Like as you said, people are paying you because they know that what you bring to the table, right? For a new buyer, because selling off plan is like acquiring a new buyer every month. It's like we are working on a new client acquisition, a new client acquisition, a unique client acquisition every month. Either you work on your old clients and their referrals, or you have to acquire a new client every month. So this new client which is coming, which is like the main cash cow for anyone who is selling off plan, you need couple of fresh, unique client acquisitions every month to get things rolling for you. This new acquisition which is coming has still not tasted the value of a broker. So if he has not understood the value."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because the value of a broker is come not from the testing. Simple example, because I know where you're leading and you allow me to interrupt you. You're going to the to the doctor appointment. For example, you know that you have a pain in your stomach. How do you understand that this specific doctor is good? How? How do you understand that this is a professional? Because he's standing up and said, I have this diploma and I've been doing so many operations, and I'm so good and I'm definitely going to help you. Or when the doctor is telling you something, it's like, look, and when you have this pain, which is like on the left side, right? It goes a little bit on the right and then you feel a bit of a numbness. Is it is it something like this? And you're just like, yeah. It's like, okay, and when you feel this numbness, after some time, you maybe going to experience a pain in your right leg. You're going to say, yeah. And for how long it's been going on? Oh, it's been going on for. He never told you anything, but you know he's a professional. You know that this is the guy I want. How? Because he's he he feels the value that the way you deliver the questions, there is a value in that. You got me? So."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Fair enough. I understood. What you're saying, I totally acknowledge. I'm just telling about the ground level reality which is happening right now. Again, I'll come down."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's been always like this. Please. It's been always like this."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So what is happening what is happening more is this, you're the best broker. The client took everything from you, right? Now, if by default someone calls him or he gets a call from someone, he will definitely he's going to cross-check with that person. What about this project, right? Now the person tells, ah, fine, this project is really good. Then he'll again come to you, yes, this project is good. But that person is offering me this much, or that person is now, there are brokers in the market who are okay to work for 1%, half percent because they are doing nothing. The only thing that they are doing is just they're just getting lucky by selling."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is this is this like, okay, so that I just want to This conversation goes nowhere. I can see your frustration, and you have a right of that frustration. What I can tell you that I cannot change the clients. I cannot change them. You cannot we cannot change our mom or dad. We cannot change them. This is this is how they are. But what we can do, we can change ourselves. And by changing ourselves, other people are going to change as well. Because the same buyer would behave differently, talking to a different agent. It's not about the buyer. And it's easy to think that this is their fault, this is how they are, because then I don't need to change anything. And I'm kind of like, I I I just have to do more of what I'm doing. But the reality is, the buyers are going to pay more, even with a 5 million budget, that's actually a lot of money, or going to be okay to pay or not to even talk about the commission with someone who they will see that this is the one agent that I found who actually understands me, who guided me, he showed me all the different strategies of the worst case scenario, best case scenarios, and it's not about the money for me, because how do I even know I'm going to get this 5% back? It just, you know. How can I how can I justify that? It's not justifiable. But what I can do is I can make sure that this guy is selling me the best project on the market."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Fair enough, makes sense."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let's let's role play the cold call if you want."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure, no worries. I'm just curious."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm just curious. Um, I would say uh cold call is not a sales activity, it's a marketing activity. So, in your way, it's going to be depends heavily on how many cold calls you do, because it's just literally a luck. But let's imagine. Ring, ring."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So I am the I am the agent, you are the buyer, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You are the agent. Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure. Uh hey Olga, good afternoon. How are you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I'm good. Who is this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh Olga, this side, Mars. Uh I was reaching out to you in regards to a very good launch. Uh just to tell you, uh this launch is not like any other launch. This launch is something which I am pitching to my people, which is being backed by data. I'll just like to present this numbers in 30 seconds, right? If you don't mind."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What what exactly are we talking about? Launch, what is this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Launch, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Sorry, I I just just didn't get. Is it what is this call about?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh just just interrupt, right? Uh is this call is running or we are just trying to restart the call?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, no, we're not restarting the call. You just called me out of somewhere and I'm out of the role play. I'm just telling you. You're just talking about some lunch. I'm completely confused. And I'm sure a lot of clients are confused. Who is this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, sure. No worries, right? Uh ma'am, Yes, sure, sure. So uh ma'am, just to tell you, uh that uh first of all, really sorry uh to bother you at this time of the day. But the thing is this, I had something really good on my table. Uh this is a launch by MR. Are you aware about MR? Have you heard about MR?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I think so."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Right. Enquired for properties before with MR or you just saw them here and there?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I just seen their name on the building."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You must have seen across Dubai. They are the one who have shaped Dubai. I have something really good from that developer, right? Uh this is something where you can make an ROI of somewhere around 7 to 8% stable, and you can expect a decent appreciation as well of uh 35 to 40% at the time of handover. Uh this is for townhouses that is coming in a community called MR Valley. Townhouses which is a bit. uh"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh you can send me the options. I can look through that and if it's something interesting, I can get back to you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Makes sense, ma'am, right? I'll sure, I'll surely send you all the possible options. But before I just conclude this call, I would just like to ask for you, are you really in this market or uh for something, you're looking for something where you are able to make 7 to 8% of stable ROI every year?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, 7 to 8% is what in each and every brochure, so I don't understand why is such a big deal."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ma'am, it is a really big deal. Selling on brochures and selling in reality, the numbers are very different. On brochure, I can give you 11, 12% ROI as well. But if you're aware about real estate, if you know about real estate in general, across the globe, uh any ROI in between 7 to 8%, which is stable is the healthiest number. The best on the best of the cities offer 3 to 4%."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but you're saying stable, but how you can guarantee that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh ma'am, that can only be guaranteed by data, if you agree with this, right? Uh this is why I'm telling about a developer that has."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I mean by data of the past performance, but we never had a crisis now, uh with the Iran. So how that past performance going to predict the future performance?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh we can only predict the future but that prediction comes from the data which has happened across the years, right? So no one can predict future. It might happen that a lightning comes across, a tsunami comes across and everything goes for a toss, right? But see, we have to be positive that if everything stays stable, if everything is going the way the world is going to be, we only predict through past data. We only predict that predict numbers. We only foresee the best on the best of the people who are working in this industry, be it Goldman and Sachs, be it anyone who is doing all this, right? You have to see that what data exactly has happened, what history is there in the past. So based on that only, this is something which I am predicting, a developer which has delivered more than 10 master communities, a developer who has given its clients appreciation of 200% if you know about Emirates Hills, or even more than that. So I'm pitching a developer who is someone in this industry who has shaped this entire city to where it is. That is why I'm trying to pitch across a healthy number of 7 to 8%. And this is in reality, I'm not trying to pitch something across on brochures. This is the reason why I would send across the details. But the best possible thing would be is this, if you can just allow me 15 minutes of time on a Zoom call or over a cup of coffee. I'll lay down the entire presentation. This is just general information for you. You can treat that 15 minutes as general information. If that rings a bell, you can tell me that exactly what you want or exactly what I can offer and accordingly we can take the journey ahead. Like ma'am, with all my respect, like you're a real estate agent, of course you're going to show me the best possible numbers."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, let me do my research."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh no, ma'am, see, the thing is this. I am a real estate agent, right? Just trying just interrupting you again. Ma'am, really sorry for that. I am a real estate agent but the thing is this, it is my duty to present the number. But it is you who is going to do the due diligence, who is going to match that whether my number and your due due diligence matches or not. There might have happened in past that you have met real estate agents who have given you XYZ numbers. Your due diligence does not match that XYZ numbers. I'll present across that numbers. Your due diligence matches, you can tell me, yes, it matched my due diligence. You are someone who is sounding fair enough, who is making sense, who is bringing value to the table. And then accordingly we can take conversations ahead. At least I need an opportunity from you to present myself, to show that my numbers and my research make sense as compared to any other broker in the market."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, I'm not working with any brokers and I'm not actively actually looking. You can send me the information. If it's something interesting for me, I will get back to you."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Ma'am, surely I will be sending that across. And if you go through it, you will definitely find something valuable. And once you have gone through it, tomorrow around 3:00 PM, should I give you a call just to uh have an understanding that whether you went to the project or not or you need any other information on it or not?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh you can text me and I can tell you yes or no."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure, no worries, ma'am, that's that that makes it crystal clear for us as well whether we are on the same page or not. Tomorrow, I'll just try to uh get in touch with you or uh WhatsApp. And you can just tell me that what exactly your feedback is. If it's a positive feedback, we'll can stay in touch and take this journey ahead. If not, ma'am, definitely in future we can collaborate as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Cool."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure. Uh what is your feedback? Is this something that the conversation like this has happened usually or not?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh if the project is good, then conversations like this happen."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Depends on the project."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Uh but you're coming from the conclusion that the person will already know about the project. Or you are pitching them some numbers over the call."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I am pitching those numbers over the call that fine, this is a townhouse. You can expect this kind of ROI. This was sold at this price. Now this is getting sold at this price, all these things."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You know, the funny thing is that when I start selling in in uh January 2015, when I joined Chris's International Real Estate, we were in Emaar Square. That was a kind of agency purchase because it's a franchise by Emaar as well. And we were selling a lot of Emaar projects. The Emaar agents are told us to pitch the launches. And nothing changes since then. So it's 11 years ago, they had this strategy, just call the client, just pitch him, just bring him to the sales center. And that's been going around for so long. I'm just like, I'm just impressed it still works, to be honest. Look, now let's imagine I I'm I'm not uh, I'm not a big believer um in a cold call per se, for this but it definitely can work. The way I would do it is a little bit different. My goal is to have them on a call, or at least book a next call, or at least book a next Zoom meeting, right? And the way I will do it is for me to actually elicit some reaction. And I'm going to have a problem statement first, rather than me pitching them. So anyway, let's imagine, I'm calling you. Um, hi uh Maaz."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, who's this?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Hi, Maaz, uh, it's just Olga. And, um, I'm going to completely honest with you. You do not expect my call. And, um, we never actually spoke before. Um, would it be fine if I will take maybe 30 seconds to tell you why I'm calling and and then you decide, should we continue this conversation or no?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, fair, if you have called, please tell me."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, um, and you can just tell me that I destroyed completely your day. Um, I am working with the Emaar developer. Uh, currently there are couple of options available, um, which, um, indicates the new change in the uh market. And the payment plan kind of got a little bit longer. The offers are got kind of a little bit better. Uh, would that be a completely a stupid idea for you to potentially look into the investment of real estate of Dubai right now?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, you can tell me the options. If anything is good then we can see."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but but before before this call, have you have you been ever considering, maybe do you have any options, properties already generating a passive income for you or what is your story?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, I just see on Instagram, everyone is selling properties."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. And for how long you've been in Dubai?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "10 years."
+    },
+    {
+      "speaker_id": "1",
+      "text": "10 years? Oh, that that's just a a new comer. And over this over this 10 years, have you uh kind of ever considering, maybe buying the properties which potentially I would expect that you're renting right now, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh currently renting. Yes, I would want to buy, but I don't understand that how this market is and why everyone dances on Instagram and sells properties."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How do you mean you don't understand? What exactly is not clear?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh means the properties remain the same, just the dancing style of people on Instagram changes, that's it."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but but besides dancing, you've been here for for 10 years. Have you have you seen anyone actually making money or losing money with real estate?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh means real estate is everywhere people make money mostly. Back in my home country, I buy land, keep it for 10 years, it appreciates. Uh in Dubai, I'm not sure right, I invest in lands in India. It's okay for me. If uh if it's a land in India, I buy. Dubai I'm not that sure. Will it appreciate as much as the land?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, of course. And why should you be? Uh would that make sense for you? And again, it's just from you've been here for 10 years. Uh to uh maybe look into that little bit further and besides of seeing the dance on Instagram and the agents are promising this 7 to 8% ROI just actually look at the numbers from Dubai Land Department of someone, let's say who invested maybe 10 years ago, five years ago, what they were able to achieve? Would that make sense for you to look at that?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um, yeah, fine. No worries, we can look into that. No worries, there's no harm in looking at anything."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. That because the reason uh I'm offering this is potentially, I'm not sure if it's right for you, but there is an opportunity to to get into the market, which was so high for the past three, four years, the people were looking kind of from a side and they were thinking, should I go, should I know? But for the next six months, there will be a different window. But you don't have to decide anything. What my offer is for us to book a little bit more time together where I will be able to, let's say, on a Zoom, to share my screen and walk you through Dubai Land Department data. Again, as I said, not a promise of any ROI, I'm not going to pitch the best project, this and this, because I'm sure you keep getting those calls and they literally all look the same. And and why should you believe me? You haven't even seen me ever in in your whole life. But that make sense for you to just potentially gain some education on that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, makes sense, makes sense, makes sense, right? Uh you learn every day, education is important, know how and getting myself. Yeah. So it's all, I listen to podcasts, I listen to people uh who are in this industry. I listen to Callam White, at times I listen to Firasul Massadi a lot, right? Their understanding, what they try to say, what they try to pitch and across accordingly you have to grow because this is an industry that I've chosen now. I've given three years. I was 26 when I started, I'm 29 now when I am right now. So I cannot now start a new career altogether now. So this is something which is my lifelong bread and butter. But I just don't want to be a survivor in this industry. I want to thrive, not survive. So this is something which is my mindset is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, and and maybe after you're going to keep continue invest in India, maybe it's going to be way better for you, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure, makes sense, no worries."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And uh in terms of timing, just for me to look at the schedule, where when are you actually better stand with a 30-minute, let's say, on a Zoom. When it's it's an afternoon time."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Weekends, afternoon."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Afternoon. Will will this say Saturday's fine for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, makes sense, no worries."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let let me check your schedule schedule. Saturday. Will 3:00 PM going to work?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "3:30 works."
+    },
+    {
+      "speaker_id": "1",
+      "text": "3:30. Okay. 3:30. And and just because I'm a little bit nerdy, I'm using the Google Calendar for everything. Do you use Google Calendar?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, I use."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. Um, which email should I send invite to?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Maaz@rediffmail.com."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, uh this one. Is this the one you're actually using for Google Calendar or you just it goes to spam and you will never respond me?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, no, this is something which I'll check up on surely."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, Maaz, um, what I do, I've sent you the invitation. Uh, and and one more thing, before I go, can I can I ask you about something?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Please, go ahead."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, I know life get busy on both sides. And you have your work and family life. I have my clients. If something will change on your end on Saturday 3:30 PM, can I expect from you to kind of give me a message or maybe, I don't know, call or maybe send me a pigeon that you're not going to be able to attend the meeting so I can book you on another time and maybe book my other client to this lot. Can I expect that from you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, sure, no worries, we are professionals. We'll do that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Thank you. So I usually remind about the meeting on uh the evening, so Friday evening you can expect the WhatsApp from me. By the way, do you have the same number for the WhatsApp?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, I have the same number."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So and before I go, is there any specific question do you want me to kind of go through, so I I can prepare maybe some additional materials, like, maybe something that was in your mind about Dubai real estate and maybe some, you know, myth that you've been told and you want to have kind of a better numbers attached to that. Is anything I can kind of showcase for you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Um yes, you can. No, no, everything is fine. Whatever you present on that day, in general, that's okay. In general, I don't have any questions in such. Once after the Google Meet if we have any questions, I'll surely tell you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Mhm. Okay. So, um, that's it then. Do you want me to send you this call recording?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, please send me this call recording. Whatever the further processes, just let me know. That means whatever the how the coaching classes are, what exactly the charges are, you just let me know, right? See, I'm very open to learning. I want to learn, I want to evolve. Sales is something which I want my entire life to be carried forward in, right? So there is no uh means backing out from learning. This is self-investment. So I understand that. And it's all I listen to podcasts, I listen to people uh who are in this industry. I listen to Callum White, at times I listen to Firasul Masudi a lot, right? Their understanding, what they try to say, what they try to pitch and across accordingly you have to grow because this is an industry that I've chosen now. I've given three years. I was 26 when I started, I'm 29 now when I am right now. So I cannot now start a new career altogether now. So this is something which is my lifelong bread and butter. But I just don't want to be a survivors in this industry. I want to thrive, not survive. So this is something which is my mindset is."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Cool. Thank you, Maaz. Uh, one thing, I'm going to wait for this recording to be uploaded. I will ask you to I will send you the link for my Google reviews. And it helps me a lot if you will put couple of words, specifically, do not say, Olga is a great coach. Tell in couple of sentences, what you were able to kind of realize, or what was the most kind of eye opening with you on this session. That's going to be the best example."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Sure. I will I will do that, sure, positively, sure."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, thank you, Maaz. And um, yeah, see you soon. Bye."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Thank you. See you soon. Makes sense, bye. Have a great day ahead, have a great weekend, bye. Bye. Bye."
+    }
+  ]
+}

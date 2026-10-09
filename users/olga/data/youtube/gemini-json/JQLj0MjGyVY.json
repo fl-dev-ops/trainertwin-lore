@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "I'm building my team and I do not care if you have experience in Dubai real estate or not. All I care is if you can think, act, and grow. If you want to try yourself in something bigger, this is your chance. I'm hosting an open day where I will go through some business game, going to give you a mini training, which definitely gives you a feeling how it is to be in real estate. And if we click, you're going to be joining a six month training program and the company. But even if not, you will walk away with insights, clarity and ton of value. If you feel like that's something for you, DM team and I will send you the info. See you on open day."
+    }
+  ]
+}

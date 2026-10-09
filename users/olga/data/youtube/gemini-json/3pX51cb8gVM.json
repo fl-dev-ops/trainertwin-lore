@@ -1,0 +1,36 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 2,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Почему ты считаешь, что Дубае"
+    },
+    {
+      "speaker_id": "2",
+      "text": "which are not requested from property find out the result of the position."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Поэтому меня не отвлекает вот в таком"
+    },
+    {
+      "speaker_id": "2",
+      "text": "very"
+    },
+    {
+      "speaker_id": "1",
+      "text": "понимаю, что касалось"
+    }
+  ]
+}

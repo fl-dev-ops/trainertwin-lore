@@ -1,0 +1,284 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 5,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "the same as you, if you want to build a consistent income in the commission only sphere and you want to have maybe 40% of clients only in three years coming back from the cold sources of leads, you should build a relationship, rather than trying to push your solution down the throat. We, as a sales people, we like to talk more. Why? Because we feel confident when we are talking. Sometimes we just love the sound of our own voice. Because what if I'm going to ask the question and then he going to start talking, then he going to ask the question, I don't know what to say. Guys, this is just, you understand it or you don't understand it, but the reality is you're talking way too much because you are what?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "desperate to sell."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not desperate to sell. You're nervous. If you still don't understand why your clients are not buying from you, and you're wondering how other agents, what are they able to do differently, seems like you have the same leads, the same information, but somehow this 1% is getting way more commission than you do. If you just stumble on this video, my name is August and I'm real estate sales coach here in lovely Dubai, and I've been selling real estate here myself for 10 years, for past four years, I coach and train sales teams just to become a consistent producer in the commission only environment. So, if you feel that you need to have consistent income, and you're lacking a certain skills and maybe knowledge, maybe understanding of the market, maybe you know it all. Still, click subscribe and notification button so you're not going to miss another video with me. Let's jump to the video. If you feel, and this is okay to feel that, that selling has like a negative stigma a little bit. The sales people are someone who is, well, twitching the arms and, you know, persuading you to do something you don't want to do, and then you're coming into the sales profession, you automatically start thinking the same way about yourself. And if you feel that way about yourself, you're never never going to be able to go extra mile in following up with the client. You will give up because like, oh my God, I'm just like, I'm just this person. I'm trying to get the money out of him. I'm doing something to him, right? Yeah? Who feels that that's something that potentially you feel sometimes? I felt that way. Yeah? I felt that way. And I understood like there are some people who are really persuasive. They just don't care. They just call and call and call. I'm just like, oh my God, they have such a thick skin. They don't have any morals. And then I kind of get that this way of selling is not what I can do. It burns me out. So I have to change it. I have to shift it. I don't want to sell to just anyone in order just to sell. It's not what I do."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Boom. We're going to get back to the video in a second. Um, there is a course and I created it for those who still feel that the cold calling skills, the communication and closing skills over the phone are not there yet. I have a lot of messages on how to, and I put everything as a step-by-step process in a course where I teach you how to become a money-making machine and start closing this month and consistently for the course of your blowing the mind created by real estate. Let's jump to the video and description of the course is in the description of this video. link to the course, not the description."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Because the same as you, if you want to build a consistent income in the commission only sphere and you want to have maybe 40% of clients only in three years coming back from the cold sources of leads, you should build a relationship, rather than trying to push your solution down the throat. So first of all, selling is collaborative. It's not what we do to people, it's what we do for people. But for you even to get into that, you have to understand that what you are looking for in the first conversation with the client is the problem that you can sell, the problem that you can sell to. The problem that you can solve and sell your solution. This is what it is. Because if there is no problem, you remember how I was asking, is there any is there any reason you're trying to kind of sell this property? It's absolutely amazing. I would like really keep it. Is there any reason you want to sell it? I am looking for what? For the problem he's trying to solve with selling the real estate. Yeah? I I brought this phone. I don't know. Should I should I do more or should I jump into that? I another kind of mind shifting ideas. This is my old phone. Yeah, that's my new one. So, let's imagine that we are buying the phone. And we are coming to the whatever, offline store and the sales person is trying to sell us the phone. What the sales person going to talk about? Oh, this is the phone. I was like, okay. What are you going to do? How would you sell the phone? Say it. It's a role play. Sell me."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Hi, how are you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm good, good."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, so how can I help you? Are you looking for?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, just a phone."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Which phone? Uh, what the the type of the phone?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I think this uh iPhone 16 is is a good one."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Right. So, let me show you this. You can check the camera. How how do you feel about that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, okay."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, it's very nice. It can help you if you can record or you can like take a selfie. Okay. Yes. The color and the picture very clear. Yeah. This is very nice. So, do you looking for like to save a lot the document?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, potentially. Yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, it's very nice. Let's say I don't know you want the phone. Why you change? So, it's very big for the saving. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. So, how do you feel about it? Yeah, I think it's good. Yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "But I need to go check some other options. How much is this one?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "2,000. Okay. Okay, I'm just going to go look around and come back to you."
+    },
+    {
+      "speaker_id": "4",
+      "text": "So, how can I help you? What are you looking for?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "The phone. Yeah."
+    },
+    {
+      "speaker_id": "4",
+      "text": "So, what type of the phone you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "This one. I just want to come back and see other options and other phones in terms of a price, for example. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, cool, guys. Thank you so much. It was very useful. What would you do differently? Go ahead."
+    },
+    {
+      "speaker_id": "5",
+      "text": "I would say that this is the last piece over here."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Love it. Last piece, huh?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "And this is in very high demand."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So what you are doing now?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Creating the curiosity."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Curiosity or external urgency?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Urgency as well."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's not urgency as well, it's external urgency. Oh, last piece, oh, blah blah. Oh, it's on the high demand. I was like, well, I've seen this phone in another shop. If you don't have enough stock, that's fine."
+    },
+    {
+      "speaker_id": "5",
+      "text": "But you can go and check it out, maybe it's sold out already."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, that's not I I just check it on, you know. Guys, the problem with with this type of things, you know, 20 years ago, we had no access to the online stores, right? So tell me now, like you're telling me it's just sold out everywhere. Okay. So I know you're lying to me basically. So kind of and I know what you're doing, you're trying to to sell me, right? You're trying to sell me. Do I understand that?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah. Also, I can give you out some discounts on this phone."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, guys, that's means that you're only going to sell something if it's really cheap. I mean."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yes. Let's say, um, you look amazing today. So, do you, uh, what do you do? What's your profession?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm a I'm a sales trainer."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Okay, great. So, do you take a lot of pictures? Do you travel?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, I love it. You do? Yes. Good. Good. Guys, we we've seen just three different approaches, right? Thank you so much."
+    },
+    {
+      "speaker_id": "5",
+      "text": "But which type of questions?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Which type of questions? Closed or open? What I was what was my response? Okay, potentially, maybe. It was nothing for me to say. Because she said everything that she wanted me to say. And you don't know if it's like, guys, when you're asking the closed questions or the answer is like, oh, yeah, potentially, or your question is way too long. Thank you so much for giving this example. The question is too long. So it has consists of two sentences. I don't know what should I answer. Like you ask me, do you want to travel and you take the pictures like this or the pictures like that? I already lost like, what, what's the question is about? We, as a sales people, we like to talk more. Why? Because we feel confident when we are talking. Sometimes we just love the sound of our own voice. Because what if I'm going to ask the question and then he going to start talking, then he going to ask the question, I don't know what to say. Guys, this is just, you understand it or you don't understand it, but the reality is you're talking way too much because you are what?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "desperate to sell."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Not desperate to sell. You're nervous. You're nervous. When you are talking, you are kind of in control. But does it anything to me? Or you you you kind of pull me in, yeah? This is how we condition to sell, guys. Hi, this is the phone. It's very good. It has a best camera over here. And uh, you know, you can store the files and it has XYZ um memory and then it it it's very good for businessman. I can see you're a businessman as well. The color is very great. Do you like the color? Uh-huh."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, what should we do instead, yeah?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Instead, what we should do is inquire more about the client. How?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Open questions as you mentioned."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And Which question do you think? Which the first question you heard me just now asking the question about the property. Which was the first question do you think you need to ask when you're trying to sell the phone?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why do you need? No. Have you ever tried like that? Let's say iPhone."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is a closed question because I can say yes. And then what are you going to do with it? So what what it's like, I want to help you to understand. Sorry. I want to help you to understand that the closed questions are not giving not you enough information, not me ability to even think through. You can shift your question into the open-ended question and and and for you specifically, why iPhone 16?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "What is the specific model you're looking for? Like if it's an iPhone 16, why iPhone 16? Is there anything special about that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But your tone of the voice has to be You see what my tone of the voice was? I'm curious and I'm just like because of and why are you looking for iPhone 16? You're going to say, well, what the hell? The question is, go away. I just want iPhone 16. Give me another sales person. Guys, I'm going to bring it back to square one for you. Person came looking for the phone, right? There's inquiry. For you to even understand what he's aspiration, ideas, pain points, blah blah blah. What you have to ask in the beginning. Okay, that's fantastic. Uh, can I ask you what what's wrong with your what's wrong with the phone you are using now? Why you even decided to change it? Bam. What am I asking about? The problem that you have. What are you going to tell me? Oh, this in my case, specifically, that's my old phone, that's my new phone. Oh, you know what? My memory is really I have 250 here. I when I was buying it, I was not even thinking that I will be recording so many videos and now I'm in a position where I use my phone a lot for recording. So I need not only better camera, but more storage. Wow, just one question. Now you know what to tell me. There is no need to guess I'm traveling. Why? Why would I do this, Joe? Why are you guessing I'm traveling? It's related, yeah, I'm traveling, but would I buy my phone just for me to travel and do like a weird what if I don't have Instagram and I'm not posting it? Will I it's just your guesses, which makes no sense for the client. That's why there is a lot of deals are lost because we are not asking right questions. Because guys, I even did uh a real about this. Um my thought process was each and every profession has some sort of a tool. And I decided to go with a funny one. Carpenter has a hammer. Is it? Like you see the hammer, you okay, that's a carpenter. Exotic dancer has a pole, right? You will see the the pole, you will understand what is all about. Okay, we have a profession. We are the sales people. Forget about real estate. We are the sales people first. What is our tool, guys? Which tool do we have? A phone?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Well, mouth."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Well, mouth. What we're doing what?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Understanding the problem. The way you talk. No, your communication skills."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, yeah, but communication skills is everyone is putting in CV, I have communication skills because they think that I can talk. I have skills."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Understand your product."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. But what is your tool to sell more? Understanding the product? Well, someone knows product ins and outs. Does that mean they're going to be selling it?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Persuasion."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What is persuasion? How you can persuade people?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "When I know exactly what are you looking for, what are you missing?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "But how you will know what I'm looking for?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Questions."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Questions, guys. Fantastic. Your tool, the only one tool that you have. No one ever told you, right? This are questions. And then you will listen, but the questions are coming first. Because if you don't ask the questions, like old school sales technique, I tell you, oh, listen to your client. Now the clients don't want to talk. Or you think that you're going to get a lay down sale. Lay down sale means someone who is already decided to buy. And he's just looking for is basically order taken. If I came today to Tim Hortons, was he selling me a coffee? No, he just took my order. And there's going to be some lay down sales here and there happening in the life of sales people. That's why they decide that a real lead, a good lead is someone who is waiting for my call with a credit card. Everyone else is not a good one."
+    }
+  ]
+}

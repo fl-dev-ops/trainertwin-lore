@@ -1,0 +1,548 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 7,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    },
+    {
+      "id": "6",
+      "label": "Speaker 6"
+    },
+    {
+      "id": "7",
+      "label": "Speaker 7"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "question. Let's get back to the video."
+    },
+    {
+      "speaker_id": "2",
+      "text": "for the better, right? And of course, like uh you will be eligible for example for a golden visa. You told me up to 1 million US dollars you are looking to invest, right? No."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Up, no. Around 1 million, around or less to start. Okay, to start. We couldn't get golden visa because I think it's 3 millions, no?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, no, you can actually get. These are good news. So,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "She said US dollars. Have they heard US dollars, guys?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I'm not sure. Because premier 1 million US dollars is 3 million 700, let's say. But they're saying less than 3 million."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So basically your investment should be minimum 2 million dirhams, which is like half million uh US dollars, like 600,000 US dollars. Just let me convert quickly. How much is uh US dollars to get the visa? Just one second."
+    },
+    {
+      "speaker_id": "3",
+      "text": "For"
+    },
+    {
+      "speaker_id": "2",
+      "text": "It's around 550,000."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Look at their faces, guys. Or their faces of this clients. What's happening with them?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "They look confused. I mean, they're quite shocked. Yeah, like they they're happy, they're gonna be happy that it's they can afford the golden visa."
+    },
+    {
+      "speaker_id": "1",
+      "text": "They they they just don't understand what's going on, which currency we're talking about. I feel that."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "US dollars."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "To get the golden visa."
+    },
+    {
+      "speaker_id": "3",
+      "text": "How many?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "550."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, which is really good. So guys, you would be eligible then both of you can apply for it. Also, if you have family members, kids or something, also you would be able to get it."
+    },
+    {
+      "speaker_id": "3",
+      "text": "And you can get it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You uh dollars."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "In euros is uh similar. Yes. Yes, yes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. Okay."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, let me just give you a quick introduction about Dubai market. So, Dubai market is population is growing a lot, right? Only last year we saw 100,000 people that moved in from Europe mainly. So there is a huge demand for properties for rent. Rent are increasing like even this year we saw a massive jump, which is amazing for the, you know, landlords for for owners of apartments and homes. Uh and Dubai has a variety like different areas, um, you know, like I want to understand, are you looking to invest somewhere somewhere in the prime area, something that's close to Burj Khalifa, because this would be the best for you to get high return on your investment for short-term rentals because all tourists, they want to be around Burj Khalifa. Something that, you know, easier."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Or Marina, or Marina is also a good"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, do you remember where they stayed? In the beginning they said that."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Palm."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "3",
+      "text": "It's a good place."
+    },
+    {
+      "speaker_id": "5",
+      "text": "But uh instead of qualifying or getting to know what the client really needs, the agent is trying to project her thoughts, you know. Yeah, where we should invest. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Absolutely true. So, and um there is a question which is Is this what you are trying to do? Yes or no? Yeah? So now, when uh you have no idea, is this actually 500,000? Do they have this 500,000 ready available? Do they need a payment plan? Uh, have they considered a property which is going to be off plan or ready? Um, whom even going to be in a title deed? Because I just assume that this is two people, but maybe it's going to be others, right?"
+    },
+    {
+      "speaker_id": "6",
+      "text": "So,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, the on this stage, if you're circling yourself down, oh, the downtown next to Burj Khalifa going to be good for you. It's very hard to come back. Not possible almost to come back. Because what you're going to say, oh, you know, a GVC going to be great for you as well. Oh, you know, Dubai South going to be great for you. They do we do we have any criterias of their choice that we know from them?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Their first uh initial uh thought of investment was Palm Jumeirah, Palm Jumeirah, if I'm not mistaken. But as long as"
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, they were staying in Palm Jumeirah."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Oh, they were staying in Palm Jumeirah. But unless you qualify them where they really wants to invest and and if you if I as an agent keep on, you know, focusing on my perspective and their I mean investment that they should be doing, I mean, it doesn't make sense. You could be offering a lot of places because they don't know like I do as an agent in Dubai. So you you have to properly yeah, clarify, you know, qualify. I mean their thoughts and process. And after that you can you know,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Very good, guys. Uh, Lamba, which questions do you think you have to ask them now?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "I mean, Dubai is a booming place. There's no doubt about that. But there are certain places where people are making money. So what sort of investment and what type of, you know, environment do you like as a former investment that you're that you're going to put your money on? Like there could be certain areas which are making a lot of money. It could be Palm, sorry, it could be Dubai Creek Harbor, it could be Downtown, it could be Marina, it could be JVC. But just to understand their requirements and I mean like, yeah, in general. Then after I can offer something to them."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, you remember they wanted to stay in this apartment as well. So can that be a criteria? We have to short list something. We have to start somewhere. We have to, you remember the second one, understand uh the product, but the third, they understand themselves. What do they want? We have no idea what do they want."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You told me that you want to stay for two weeks in the property. So, which area do you want to stay for these two weeks? Which area will you consider? And, which is more important, will that be a main component in your decision-making process that you want to have an apartment which you will stay two weeks in the area that you absolutely love or that will be potentially possible to, let's say, ignore maybe the the areas that you love and stay these two weeks in the area which going to have the most profitable profile for the remaining weeks of the year. What is what is there for you? Tell me. Do you feel that this question is the right to start with? Because we at least know something about them."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah. I think that's a"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Are they going to tell me?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "valid one, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, no, I only want X Y Z area because I want to stay there for two weeks and it's not negotiable. Okay, that's criteria number one. Bam, bam, I wrote it down. Which areas? Okay, this one, this one. Okay, makes sense. What else in your apartment is important? Ah, it has to be this, it has to be that. Okay, what else? And I'm talking like, can they give me now the indication of the areas? They don't know the names of them. I never presented them the map yet. But they can give me some sort of guidelines."
+    },
+    {
+      "speaker_id": "2",
+      "text": "you said and around downtown. Yes. Also, uh this is perfect really like maybe even business next to the downtown business bay. Uh, may I know like are you looking like for let's say two bedroom apartments, two plus one, two bedroom plus living room would be fine or"
+    },
+    {
+      "speaker_id": "3",
+      "text": "One or two bedrooms. Depend the price, okay?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. One or two. I see. And you are looking for something to buy off plan that's in uh on the construction now? Yeah?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yes, yes. Off plan. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, is it enough for us to understand what they're looking to buy off plan? What if these people think that off plan you can buy and they're going to be delivered in six months? Do they understand that off plan you have to wait for three, four years? Do you just have to assume that? Yeah? wanted to say something."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Oh no, I was just saying that she should ask like when do they want their property to be ready by. So, that's a question."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah? Makes sense. Yeah, Pratik?"
+    },
+    {
+      "speaker_id": "7",
+      "text": "Oh, that is what that is what that the question has to be because 1 million, first of all, money 1 million US they are right now or they want to invest in phases. And that is we have to clarify that in how much time they are looking to uh get the property be ready."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. And this is additional question that we can start. You see that they what they just said, one or two bedroom depending on the price. Do I know what that mean? No. I want to understand what it means in their head. Okay, so if it's going to be one bedroom, what do you think the the the budget you can allocate for one bedroom? Ah, okay. And if it's a two bedroom, ah, okay. I use each and everything what they're saying as an ability to probe and clarify for them, not for me, guys. Because they probably again, they don't understand what they want. Does these people look like someone who understands what they want, guys, at this point of time? Completely not."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I will try to put the notes."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Like like like like we sell in Portugal off plan."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Also."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Also."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, yeah. You are guys in the right business. I hope in the future."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What should we do now? We are selling Portugal off plan. Fantastic. What should the agent do right then and there?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, he she should be more, you know, I mean like she should more dig into this uh issue of I mean this topic regarding what how off plan market in Portugal goes around, revolves around and and what's the difference between Dubai and Portugal. So, that's"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. That's what she should dig in. Of course. How do you guys how do you guys collect money from your clients? Fantastic question to ask, right?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What they're going to tell you most probably? We take a payment in advance. Right? Do you think the clients in Portugal have a payment plan or post handover payment plan or on handover payment plan? I don't really think so. If we're talking about them building a house, but that's you are acquiring the plot, you pay your money for the plot, then you invest in probably, you know, some drawings, uh engineering drawings and all of that. And then you have a model that you're selling. Right? And it depends on the cash flow. I want to dig into that right then and there. But what will mean"
+    },
+    {
+      "speaker_id": "2",
+      "text": "future to be developer like yourself. So it's really, really amazing. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "She just said what, guys? I want to be the developer like yourself. It's really amazing. Why she did this?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "She's trying to boost her ego, I think, a bit. Just good, maybe."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But what it can be I'm not saying that is that work, is that that not work, but what it communicating to them as well?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "I mean, from my perspective, she's she's just trying to attack the base, you know? Just to charm, please them. Yeah, I know, but what it can do to them as well? What they can do to them?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Oh, can make them feel she's inexperienced."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah, I mean like, you know, she uh they could feel like she's way inferior than them."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. Do you want to be in this position as an agent?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "No."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So something off plan, we will focus on Marina, Downtown and Business Bay. Uh, I have in my mind few projects in mind, okay, that you might like. Just let me open my folder so I can show you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "What she's doing? She's going to pitch them. Uh, seven minutes in. She's going to pitch the project. What does she know about budget, decision-making process, time frame they want to invest, past experiences, and most important, why they decided to invest? Tax-free, great. For me, if I I I feel that that is a tax-free, I'm going to have an expanded conversation of them. How much taxation are they paying now? How much it costs them to make one euro profit in tax? Is a good question to ask, not very invasive, Walter. Not very nosy, because I'm not asking exactly how much profit are you making. I'm asking how much it costs you to make one euro profit in tax. Do you see how this is a very nice simple question? Why I'm going to ask them about how much tax are they paying now, guys?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "To make them feel"
+    },
+    {
+      "speaker_id": "1",
+      "text": "How is that relevant?"
+    },
+    {
+      "speaker_id": "6",
+      "text": "To understand uh or you know, to convince them that how much they're spending already on taxes and all."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't want to convince them, Shibi. I want them to convince themselves."
+    },
+    {
+      "speaker_id": "3",
+      "text": "To remember the pain."
+    },
+    {
+      "speaker_id": "1",
+      "text": "To convince me."
+    },
+    {
+      "speaker_id": "5",
+      "text": "I want them to feel pain."
+    },
+    {
+      "speaker_id": "6",
+      "text": "Right now."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I will ask them."
+    },
+    {
+      "speaker_id": "5",
+      "text": "So that, you know, so that the client I mean would understand how much they are missing out, you know, by not investing in Dubai. That could be a valid one, yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. Because Shibi, we discussed that yesterday. How can I create urgency in these people? I can only create Yeah, by driving home the pain point even deeper. Exactly. But okay, so you are kind of losing 30 uh cents on every euro you're making. And for how long that's been going on? Oh, that's been going on for five years. Uh, okay. And has been any changes? Maybe, you know, maybe taxation got better recently. Oh, no, it's got worse. Ah, okay. And going forward, what do you think will happen with the taxation in Portugal? Oh, it's going to go really worse. Do you want to change it? Do you want to pay zero tax? Ah, okay. And now I'm jumping back. But if I'm not going to step on that pain, it's it's just going to be, oh yeah, that's great to have to pay no tax. But when you when you talk yourself through, I'm losing 30 cents in my each and every euro I'm making. That's painful. I've been losing 30 cents in each and every euro I'm making for five years. That's really painful. So how much they're actually letting you keep your government? How much they're letting you keep out of money that you make? You see, that's a good question to ask."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I will open my my Google Maps."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's opening the Google Map."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Or actually, you know what? I can open my just one second. I can share my screen and show you the. Okay. Thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "He's opening."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So basically, This is Dubai map, okay? Yes. And down there we have Abu Dhabi and down the upper part we have Sharjah. So we'll start from the beginning from Marina, right? So here basically it's Marina. We have Dubai Marina with nice beautiful buildings. Then we have JBR Beach over here. Dubai Eye, which is I'm sure you guys saw it, which is located. Yes, yes, it's amazing. And then over here we are having the Palm, where you stay, right? Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, what what's just happening right now? Let's talk about delivering value to the client."
+    },
+    {
+      "speaker_id": "3",
+      "text": "She's explaining what they already know."
+    },
+    {
+      "speaker_id": "1",
+      "text": "This is this, this is this, this is this, this is this. Okay, if you don't have much to say about the map and you're just really just learning yourself, that's completely fine. How we can make it better even with a with a lack of knowledge. Oh, this is Dubai Marina. And then what we do? We ask them a question, right? Uh-huh. Which question we can ask? To make them engaged."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Where did you where did you exactly stay on the Palm?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. Fantastic. Beautiful. Yeah, uh, okay, did you like it? And how was your traffic? Uh, okay, have you been in Downtown? Ah, look, at at this point of time, Belmina doesn't know what she's doing. She's just, you know, just sort of a showing the things. Which is which is fine, but when you are with a client and she's about to literally give them the sales offer, I'm not sure if you if you watched it till the end, you have to understand which product you're going to sell them. And you sell this starting from the map. I if you're going to sell them Downtown, let's imagine, I decided I'm going to sell them Downtown. And they are talking about Dubai Marina and the Palm. I have to say something, I would say negative or silly semi-negative about these areas, so kind of kill it in their mind, so they're not going to get back. Because I need to I need them to short list their options. Because how they otherwise going to short list the options? They're going to think that everything is great, they will never be going to be able to choose. I was like, like this is a Palm, this is Dubai Marina. So here, well, when you, by the way, when you've been on the Palm? Ah, December. Uh, did you went for swim? How was the weather? Ah, okay. You see, with those type of um, locations like Palm, like uh Dubai Marina, the usual tourists like yourself are going there during the season where they actually can have the swim, where they can enjoy the weather. And what's happening with the properties which are on short-term rentals during the season of, let's put it this way, from May to almost October, those properties are a little bit harder to rent. Do you see the reason why it's harder to rent those units?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "What they're going to tell you?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ah, yeah, that makes sense. Oh, it's too hot. Oh, Okay, so now let's move to Downtown. Guys, do you see what what I mean? Please, tell me, do you understood?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Just one question, Olga. Yeah. Albina, uh, how how long has she been in real estate and how long has she been in Dubai?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Belmina. Um, well, when I came to the company, she was working in Sabah's team. I don't know how how long. I think she was pretty new, maybe um, not maybe a year altogether."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. Because I can understand what she's doing, you know, it's like what we try to do, we're trying to first try to show that we uh understand the area or bullshit about it, which uh in this case the client probably knows better than uh than me. So it's like it's going to be very difficult."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But she's not even bullshitting. But this client they don't know. But guys, you know things about the area. Like the only thing that you you just um, you're not tactical about saying things because you don't understand why are you heading into. So what's the goal of the map? But the goal of the map is to help them to short list the options for themselves. And again, coming back to uh them believe, overcome their fear and believe their own ability to choose, you should feed them with the information that going to ensure that they understand now. Ah, okay, that's because of this. Oh, So you have to give this this pieces of puzzle into their head. Because if you just pointing on Dubai Marina, this is the what it gives them. Okay, I know what Dubai Marina is. That's it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And then we have like all the way here. We we are going like there is beach. We have Burj Al Arab. We have the biggest in Dubai."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, let me just"
+    },
+    {
+      "speaker_id": "2",
+      "text": "As you can see, the Business Bay is very close to the"
+    },
+    {
+      "speaker_id": "3",
+      "text": "It's near the the Miracle Garden, the Bay, no? No, no."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Miracle Garden is actually a little bit further. So Miracle Garden, it's like some like around it's here, Miracle Garden."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, okay. We've been there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm sure you you liked it a lot, you know, we women we love taking pictures. Uh, so right now, we had an amazing project in Marina JBR by Frank Muller."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't know why she's talking about this, because Frank Muller is sold out and this is end of June. Guys, there is no point of talk about something which is not available."
+    },
+    {
+      "speaker_id": "2",
+      "text": "And this is the building, how it's going to look like at the end. You see it has some bronze nice colors."
+    },
+    {
+      "speaker_id": "3",
+      "text": "We didn't see any image."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Just the first page. One second. Ah, okay. Yes. Let me again share my screen. It's amazing. You see it has a unique shape, uh and the balcony is quite and basically it's very close as well to the Dubai Museum of the Future. So for example, why to invest in Dubai? Number one, like especially this project, it has strategic location. It has investor-friendly policies. As you already know,"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, um, now we're just reading from the brochures. When we say in strategic location, do you think we have to explain what strategic location mean to them and why having a strategic location as Downtown is important? Or you think they just just, okay, strategic location. It's like you upload the uh, the file into their brain from your brain and they just like, oh, okay, because of this one. When you're saying these generic phrases, strategic location, do you think it means anything to them?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Why? Why is it strategic?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. And why strategic is important? How we could do it differently, Walter?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Maybe uh we should have a slide or maybe open the Google Maps and show where the building is actually placed and look at all the amenities around it, which other areas are there, shopping malls, uh restaurants, hospitals, schools, depending on what they're looking for."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. Or if we're just saying, we don't want to open the Google Map, we're saying strategic location. So that means that from this building to Dubai Mall is only five minutes and Dubai Mall is uh one of the number one driver for the short-term rentals because the people are coming to attend the Dubai Mall, the fountains, they want to be closer to the landmark. So that means that your property on a short-term rentals will be really popular."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I like that."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see, guys, what what I mean that we are digesting this food for them. I have to chew it. They don't know how to eat yet."
+    },
+    {
+      "speaker_id": "3",
+      "text": "I think you did it great because indirectly you told them how the strategic location is going to help the revenue for them."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But this is what you should do, because these terms are irrelevant. For you to be able to do it yourself, guys, there's a magic question that you can ask to any of those uh generic words, phrases. This question is, and what does that mean for them? Strategic location. And what it means for you is blah, blah, blah, blah, blah, blah. So you can blah, blah, blah. Golden visa. So you will be able to maybe move some of your capital and keep your capital in Dubai with this opportunity to not pay in tax on it. Do you feel how that may benefit you with the next 10 years? Bam. What else? State-of-the-art education and health care. I don't know how it's relevant for them. What does it mean that uh we have the all universities from all over the world, they have their campus in Dubai. We have several places actually. So what that means, if your child will consider enrolling in one of the universities, instead of going them to Europe and you paying way too much for that education, you can have it less in Dubai and keep your child safe and secure with Dubai environment, rather than, you know, they're going to be able to be exposed to all of the, you know, maybe addictions and and and drugs and other things which are freely available in Europe. Do do you see how that benefit you?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "important basically things that are Dubai are very close to this location. And you see like from the bird's perspective, it's really beautiful, you know, like very beautiful. And it's under the construction? Uh, right now it's under the construction. I will show you by the end of the presentation when it's expected to be completed. Okay. And uh here we are seeing this building in total has 450."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I don't believe that you should, even if you present the project, you should be running through the brochure at all. You have to just separate a couple of slides that you feel going to be relevant and that's it. Because all of this, um, you see even the text. You cannot properly see things. It's just so small."
+    }
+  ]
+}

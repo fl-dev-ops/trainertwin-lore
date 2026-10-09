@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "So, the career of real estate agent is similar to career of doctor, athlete, and writer, and a football player, for example, if if it's more similar. You're doing exactly the same thing all the time."
+    }
+  ]
+}

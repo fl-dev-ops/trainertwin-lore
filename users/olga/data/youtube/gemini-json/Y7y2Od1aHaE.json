@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "This is a real weather of Dubai in the almost middle of April when you need some sort of a jacket and the skies are like this. I think we are all in the middle of the scene of some horror movie. What's going to happen to Dubai? Will we be the one who survived that?"
+    }
+  ]
+}

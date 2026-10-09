@@ -1,0 +1,356 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 3,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "By the way, guys."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's good to have a calculator right next to your hand. I'm using my phone because I was not involved, Walter. It might be more difficult for you. Do you know which potential return Mariani is expecting? In percentage. Rental yield on 1.5 million."
+    },
+    {
+      "speaker_id": "2",
+      "text": "She talked about 15, that's where we got confused. Mariani, you talk about 15,000 dirhams per month."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. I yeah, yeah, 15,000."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that's about 4,000 US dollars per month."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Calculate it on a yearly basis because we're talking about the year, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Around 50,000 US dollars per year."
+    },
+    {
+      "speaker_id": "1",
+      "text": "From 30 to 50, depending if it's 10 or 15. So how much is this out of 1 and a half million dollars?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So that's only 3%. 3.3%."
+    },
+    {
+      "speaker_id": "1",
+      "text": "You see? It's good for you to you know, it's good for you to start calculate to calculate this before you're going to start talking about the returns. You see how your pitch going to change now, right? When you're talking about ROI and the brand, your pitch is going to change dramatically because you know what she's actually expecting. Fantastic. Let's dig to the budget. Again, let's dig to that."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. So Mariam, they understand that uh you want to invest 1.5 million and uh you don't have all that money available right now. However, you will be needing 150,000, which is 10% of that amount to separate the unit. And then one month later, you will pay another 150,000 US dollars to secure the unit under a contract SPA agreement. And then the unit is basically yours. Is that feasible for you?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, for these first two payments, I'm okay with that. I have this money available."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Now, during the next two years, until uh quarter 4 2027, you're going to be paying 50%. Okay? So on year number on 2026, you're going to be paying another 300,000 US dollars."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All at once? All at once, like one payment?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, no, you will have uh every six months one payment."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay. Yes. So how much am I going to pay and when?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "So you like for example, let's assume that uh you are signing the SPA agreement in September this year. Okay? You have paid already 20% in 2025."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Walter, can I stop you? I just want to give this one small little trick that you I know you like the trick. You're telling her, let's imagine you're signing the sales agreement this September."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And then does this time frame is actually comfortable for you? You see what you're doing? It's pre-closing her. It's a it's because you're not selling her now, Walter. She's going to be more open. She doesn't have a sales resistance. You're just doing some calculation, you see? But you can give her this. Does it do you have anything planned over this month or this month is good? You got me? You understand what I'm saying?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Explain again, please. Okay. So what would you like me to change in the approach?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You just said, so let's imagine you're signing the sales purchase agreement in September."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, but the reason I'm saying that is because I want to explain to her when is the next payment that she will have to do because."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Walter, but you can like you can do even more than that. How about doing more? How about finding the additional objections or finding that she's telling you that she's going to be signing in September? That's why when you, let's imagine you're signing the sales purchase agreement in September, full stop, and you ask her questions. Does the September sounds good for you? Do you have anything planned for September? You're asking, can she sign in September right now?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I I personally feel that I will be putting pressure on her right now that I want to sell her in September."
+    },
+    {
+      "speaker_id": "1",
+      "text": "But that's why you're asking, do you have anything else planned in September, maybe wedding or holidays?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "No, as a client, how do you feel, Mariani, if I ask you that?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, I understand your point as an agent, but I mean, you need to see if the client is serious or not or if you're wasting your time."
+    },
+    {
+      "speaker_id": "1",
+      "text": "With the smile, Walter. With the joke. You see, I've never said, Mariani, does it does it feels good for you to sign the document in September? She's going to say, I'm not signing anything. You got me? But if I will I will make you, Mariani, have you planned anything about September, maybe something the wedding or anything? She's going to say, oh, no, it's okay. So let's let's imagine that September and I keep going. Makes sense, Walter? Have I a little bit shifted your You don't have to do it."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I have a mixture of so many thoughts and emotions and I'm trying just to uh keep cool here. But uh yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, Walter, uh signing SPA in September, keep going."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Let me go back. So where do we take the conversation from?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "You you finished that. I stop you on signing SPA in September."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So let's assume that uh you pay the second payment in September, Mariani, and uh you sign the SPA. Does that sound realistic, something that could happen?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Look, uh, for the money that you you you mentioned, 150,000 and then after that, of course, I would be committed to pay the other amount. I'm comfortable with that, money-wise. But again, this is a decision that I need to make with my father because we are buying it together and he is in Brazil. So, um, again, money-wise, it's fine. I'm okay with that, but I need to check with him."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I understand."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Perfect. Okay. So maybe for our next conversation, we can also invite your father so he can ask some of the questions that he may have. Do you think that would be feasible for us?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, it will make things easier because, um, again, he's a very important part."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Of course, of course. And yes, I think you should consider your father's advice, you know, he's got a lot of wisdom, a lot of experience, and uh."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Walter, Walter, whoa, whoa, whoa, whoa, whoa, whoa, whoa. I will ask you a question. Now you are saying these words, you have to consider your father advice, he has got a lot of experience, a lot of wisdom. Why are you saying this? Why? What is your what which goal do you want to achieve with this?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "I'm trying to gain more trust with Mariani, a little bit more rapport."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Ah, okay. Um, by by telling you are great, you're so smart, your father is so smart. Do you know her father? So you're telling her that she has to consider, guys, I'm not saying it's just for all Pacific situation. But you you think that you're going to say good things about the human being who is your client and he going to believe that you are actually honest. It's a big misconception. They know what you're doing. They know that you're trying to massage them in order."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Then why why pretend then? Why are we pretending that we are not trying to sell?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but it's not like you're trying to sell her. You're trying to help her to make money, Walter. Yes. So what's bad with that? You're trying to help her."
+    },
+    {
+      "speaker_id": "2",
+      "text": "That's what I'm saying. Olga, at the end we're trying to sell. And it's like you're telling me you're telling me, don't you think that they are not smart enough to know that?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "That's why you don't have to say this. You don't have to say this. Did I ever teach you to massage clients, tell them all of the beautiful things. Oh, thank you so much. You're so smart. You're a great investor. I'm saying against of it. I am I'm asking you not to be every other agent. So instead of you telling, oh, you have to take an advice of your father, you have to do that. I need to help her, but what if the father?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "That is my style. You see, I cannot guess everything, you know, what what would Olga say in this case? Sometimes I have to improvise and sometimes I have to improvise."
+    },
+    {
+      "speaker_id": "1",
+      "text": "And it's good, but do you want me to help you? But every time that I'm saying something and you tell me, no, that's not the right thing, why are you trying to achieve? I understand that you're trying to help me. But it's like all of a sudden it's like, fuck, am I saying the right thing? What is Olga going to think? You know, it's like I'm I'm left with no room to maneuver."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Why you care what I want to think? In this space, I am trying to help you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "I know you're trying to, but it's like a sometimes."
+    },
+    {
+      "speaker_id": "2",
+      "text": "I don't want you to massage you the same as you're massaging Mariani, right? This is what you want me to do. Say, oh, great, Walter. Oh, so smart. Oh, fantastic. And then you're going to go not making any money for another five months. For another six months. I want you to start making money from tomorrow, every conversation. Yes, it's uncomfortable. Do you think I was in a different position than I've been taught sales skills? Do you think I was born out of the mother's womb with all of these things? Of course, it's uncomfortable. You're a man, you're coming from the background, you're so smart, and I'm telling you you're saying these things wrong. I it I'm not saying it's wrong. I'm advising you, you can do a different way. The way I would ask the Mariani, because I can shoot myself in the foot. What if your what if your father is going to tell her not to invest? I'm dead. I'm dead. What if the father doesn't even think that anything is worth buying out of Brazil? Do I know her father? No. That's why before I'm going to start talking, your father is great, I'm going to ask you, oh, fantastic, Mariani. Um, and have you had this conversation about you making money with Dubai properties already or is it kind of a big secret for him? Keep going, Mariani."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Um, so my father is not a big fan of properties, to be honest. Okay. But, uh, he's not a big fan of properties. He prefer other he prefers other types of investment. Um, I don't really know how to explain it to you, but he knows that I want to invest and, um, and, uh, I mean, some of his money is is going to be part of this and, um, like he's selling his farm to help me with this investment."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Is that a decision which is already made that he's selling his farm or?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No. Um, we are making we are reaching the decision together. Uh, but that's why I want him to understand how the process work, um, and also regarding the the return. This is why for me the return is very important because my father has some types of investments that I don't agree and I don't really they they're not real investments. So I just want to."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Even if it's like this in the family anyway, yeah, everyone has his own point of view, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, exactly. And because he's getting old and he won't be able to take care of those investments and this farm, I just want to take a more comfortable source of income and I'm not going to say that I am the main decision maker, but because of course, it's his farm, it's under his name, it's not under my name, but I need to show him the how much money he can get, uh, we can get out of this."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Out of this. I got you. So, uh, how does he feel? Like I'm I'm kind of still going to ask you. On this point of time, yeah, you haven't had like a proper conversation with him. So how do you think he feels about this idea of, you know, putting 1 and a half million in Dubai real estate so you can make around 10 or 15 or let's say $50,000 in a year? How does he feels about that?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Look, most of the money is mine. Um, as long as, of course, I I this is between me and him, he gets a share of it. He's fine with it. He's a very open-minded person. Okay. So he's happy to share and he doesn't want to buy uh in a place where he he needs to keep paying taxes, etc."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Makes sense. Does he pay taxes now?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "If uh we don't have any properties in Brazil that like generates rental income."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, but with the farm that he has, does he pay taxes now on the income that that farm?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, he doesn't pay taxes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, makes sense. Uh-huh. Guys, you understood what I went there. Sorry, Mariani. You understood why I went there. You understood what I'm doing right now. Why I'm having this conversation about the father? Do I have now as a agent more clarity about whole my sales process, which I have to do now for the next 30 minutes? Do I understand what I should do? Should I go with Mariani? What should I tell her? What shouldn't I tell her? How I should close her to be with the father on the next meeting? And basically, I'm going to make sure that I'm doing uh small hooks, not giving her full information, just the hooks which going to be triggering her to really brought the father, bring the father on the meeting. But I'm going to get back now in the role play. I just I just explaining you what I'm doing. And you see my face with all of these things, guys. You think I'm doing it naturally like this? No. This is a sales skills. I'm making her feel because I know she cannot see me, so I'm I'm looking at the camera immediately, directly in the eyes. So she feels I'm looking at your eyes, right, Mariani? Yeah. And I know like, mm, mm. And I'm introjecting, asking my questions in the medium seconds when she's stopping. And I'm doing it because I'm saying, aha, mm. I'm doing the verbal cues, I'm asking the question. So now what I want to get her to go is for her to confirm that she will bring the father on a next meeting. And I want you to feel that I'm with with with her in the team to help her to secure that consistent income. She's keep talking about the income, monthly income, monthly income, monthly income. This is what is important for her. I'm going to be talking only about this. For me to be able to help her, I need to help her convince her father, because that's what she's trying to do, Walter. Because if now I'm going to, you see, it's not like we played it around, but what you were trying to tell her, you have to listen to your father, and I now I know that your father going to tell her what? Most probably 50% chance not to invest. Potentially. Yeah, but from what the conversation that she's giving me now, right? So I'm coming back to the role play. It's like, um, okay, Mariani, makes sense. What do you think we need to kind of to do, uh, in terms of explaining the opportunities here in Dubai to kind of make your father to look at that a little bit differently, like you're saying a little bit even more open-minded. What do you think we need to do?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Uh, for me, the most important thing is the the opportunity of the consistent consistent, uh, monthly income. And, uh, the tax-free environment, of course, and also because we don't pay interest rates. For me, those are the key."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do you think it's going to be Yeah, yeah, so sorry to interrupt you, just maybe connection. What do you think going to be important for him to see on the meeting that we will do together?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "How much money he can make."
+    },
+    {
+      "speaker_id": "1",
+      "text": "How much money he can make per month as well, right?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Do you think anything else will be important for him in his decision?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "That's the most important thing."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. So now, guys, you see what I did? Where she's now."
+    },
+    {
+      "speaker_id": "2",
+      "text": "What is his father's expectations uh for the returns? What has what has he invested before and what are the expectations for every investment that he's made so far? To have an understanding of ROI and ROE, Olga."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Um, I does she knows about that? Like, I would I would I don't know. Maybe we can ask this, but I don't understand which information it gives me, Pranay. Which information it gives me? Why am I asking this question?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "She says she wants she wants uh uh she he she says her father wants to make money, but uh what are her father's expectations? So the next question is very good because uh he's going to prepare for the next meeting to be able to come to the father. So that and I agree with you because the question that you're doing about her father right now is basically so that we are ready for the next meeting. So."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Guys, but let me ask you this. Can you tailor like really like, okay, so my father wants to make uh half a million dollars uh per year. Uh-huh. And then what are you going to do? Because yeah, but because what you can do is just really calculate the different options that you have, right? You're going to be doing this anyway."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So, can you lie to him and tell him that you're going to be double of what you calculate? No. That's what what could you Pranay saying, what could be potentially uh useful to us is the past experience of the father, how much money he's making. But what else? Let's imagine, we talk about the father, blah, blah, blah, bullshit, let's imagine, not blah, blah, blah, bullshit, but let's imagine Mariani agreed that she's going to bring the father by the next meeting. We still have to proceed. What still we don't know out of these questions about the budget? The decision of the father, uh, he needs to sell the farm, right? So I understand a big chunk of money going to be coming from there."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You are assuming that he's a farmer."
+    },
+    {
+      "speaker_id": "1",
+      "text": "She said that. She said that, right, Mariani?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Yeah, yeah, she has a farm."
+    },
+    {
+      "speaker_id": "2",
+      "text": "You missed that part. Sorry."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, you missed that part. He has a farm, he needs to sell it. So now I know. So, do I want to understand out of the 1 and a half million, what is the amount she's planning to receive from selling the farm? Because for me, it's a very questionable part of the budget. I cannot distinguish, is it easy to sell the farm? Is it hard to sell the farm? How much money actually can be this farm sold, right? Do I want to dig there? Little bit, slightly. Because now we are distinguishing, is Mariani is actually able, does she has this money? Because she thinks she has. But if you're not going to ask deeper, she's going to keep thinking that she has them, and then the the the farm is not sold, and the farm was actually 1 million dollars. So she now defaulted into the 500, and then probably at that point she's going to stop answering your messages, because she knows she doesn't have the budget she promised you to have. And if you find about this now that there is this triggering part of the farm, which is 1 million. So you have, okay, Mariani, so let's imagine the worst case scenario, just out of the blue, let's imagine. Which money do you think you have actually access to for you just to start maybe slow, right? And I'm going to talk with you about like realistic 500,000. Because the father, if you're going to sell the farm, yeah, fantastic. But I want to make a sale anyway, without the father selling the farm, right? Too many variables. Okay? So let's little bit talk about Walter, the question that you're asking when you are uh going more into the structure of this 1 and a half million dollars. She told you there is a farm that needs to be sold. Ask her about the amount which she's expecting to receive from the farm. And what where the other money going to be coming from? Because you're talking about the payment plan, talk about the flow of the payment plan and ask her about these things."
+    }
+  ]
+}

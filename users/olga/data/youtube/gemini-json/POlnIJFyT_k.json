@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "How many people can I include on the title deed of the property? Well, that's a good question, Mr. client. How many people do you want to? Um, originally, I believe that um it's four people as a max. Uh, but if you are talking about you sponsoring your family, uh getting them visa support, then they it's not mandatory for them to be on a title deed. Moreover, now we have a fantastic opportunity of crafting and drafting your will. Well, literally, for all of the assets that you have in Dubai, you can create a will. Oh, by the way, not only in Dubai and your own country, you can create a will which will be effective. Uh, it depends uh on how many, you know, people you want to include in the will, the price of the drafting the will going to be different, but the minimum price of registering the will in Abu Dhabi courts is 1,500 dirhams. So, if your question is, how will I pass my property to someone in my family, don't bother about title deed, just make a will for yourself."
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 5,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    },
+    {
+      "id": "2",
+      "label": "Speaker 2"
+    },
+    {
+      "id": "3",
+      "label": "Speaker 3"
+    },
+    {
+      "id": "4",
+      "label": "Speaker 4"
+    },
+    {
+      "id": "5",
+      "label": "Speaker 5"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "Not yet."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "So yeah, so we will see that. We'll Let us I'll tell you how people evolve to transformers and talk about transformers as well and then we can close."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "3",
+      "text": "We have distillation also we plan to."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Knowledge distillation is pending."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Distillation is pending."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so let's uh okay, let's start with distillation and then move to sequence models. Okay. Thanks for reminding. Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, so this was an idea that was proposed by Intern and his group in uh early late 2000s, I think. It's a the objective here uh it's not the primary objective, but still the context in which distillation is used today. The objective is to reduce reduce the size of sharing something."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Can't you see my screen?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "Not yet, sir."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Not yet, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It is saying that it is showing the screen. Okay, let me do it again."
+    },
+    {
+      "speaker_id": "3",
+      "text": "At least I am not able to see."
+    },
+    {
+      "speaker_id": "4",
+      "text": "No, no, it is not shared."
+    },
+    {
+      "speaker_id": "1",
+      "text": "No, still not seen?"
+    },
+    {
+      "speaker_id": "3",
+      "text": "No, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Oh, come. Let me rejoin from here."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Let me know when you see the screen."
+    },
+    {
+      "speaker_id": "3",
+      "text": "We can see now, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Now? Okay. Yeah. Okay. So the objective here is to reduce the size of very large neural networks without compromising the performance. This is the objective. The idea is pretty simple. When it was proposed, it was proposed without further understanding of what was actually happening. I'll tell you what it is. So in in knowledge distillation, what happens is you have a very large neural network that is to be compressed. So large neural network to be compressed. This is usually called the teacher network. Then the you have another neural network with desirable size. That is called the student network."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Sir, I have a question."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh, let's let me complete this and then yeah, tell me what is it?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Sir, uh this is related to like a bit related to the assignment. So like in the animal data set, we have around 5,500 images. We have divided among 90 classes, right? And even when we were going for the classification task, we saw that the training accuracy was very high, but the testing accuracy is always very low. So what my perception was, since the data this the the the data size is very small, like we have good number of classes, but not sufficient images per classes. That is the reason uh that the model is able to learn the features like, you know, remember the features and not able to classify properly on on newer set of images. Is that the correct interpretation?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, why what is the relevance of that question to what we are doing now? I think it would have been asked at the end of the class, right? Anyway, so now that you have asked."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "We were looking at distillation. I think after this after I'd finished this this part, you could have asked anyway. Yeah, that can be one of the reasons. So what happens is when your data has multiple short modes. So you can think of each of the classes as one data mode. And typically when the data set has too many modes, okay, with very less samples amongst each of the mode, then getting a discriminator or a classifier that would put decision boundaries across those classes would be difficult. Yeah, so in that way your interpretation is correct."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Okay. Okay, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Shall we continue with what we were doing?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So if you have any questions on assignments, etcetera, please note that down and ask at the like at the end of the class, okay? So that it does not break the flow of what is being done. Of course, you can ask questions regarding what is being taught. Okay. Anyway, where was I where was I? Uh, yeah, so distillation, two neural networks. One uh large neural network, uh that needs to be compressed. That is called that is typically called the teacher network. And there is another neural network with the desirable size, which is called the student network, okay? Now, um, the teacher network is trained with a supervised objective. Whatever suppose you are solving a classification problem, it is solved with supervised objective with cross entropy loss and whatever the supervision might be. Okay. Supervised objective independently of the student. What happens is you have a network here. Whatever the task might be, okay, let us call this the teacher network. So some data, some task, and it is trained with minimizing, let's call the parameters theta. Just usual minimizing the expected loss function, okay, which is between let's call this F theta maybe F theta of X, Y. Yeah, so this is the usual empirical risk minimization, okay, or supervised training. Now there is a smaller neural network, which is called the student network. The same base of X and Y. This is V, okay? Now this has two objectives for training. Uh, one is a KL objective between let's call this CT and this as CS. KL objective between the distribution of ZT and the distribution of CS plus a supervised loss. Okay. So what is happening here is that when the student network is being trained, okay? Now the uh KL divergence between the distributions of some features in some uh some layers. Typically the pre softmax layer of the student and the teacher network is minimized. Okay. And there is a supervised loss that is minimizing the uh loss between the real true predictions and the predictions of the neural network, okay? So now what is this doing is this trying to match the features learn or match actually, learn or match the features of teacher. Okay. To that of students. That is what it is doing. Right? By ensuring that the KL divergence between the distributions of representations between the Sorry about it. So, uh by making by ensuring that the the KL divergence between the features of the teacher and the students are uh are matching, uh your I mean the idea is to ensure that the um uh features that the teacher has learned uh is imbibed by the student. So if it does that, then whatever uh the performance that the teacher is supposed to give with a larger network, uh can be achieved or can be expected to be achieved uh using the student network. Okay. So procedure wise this is what is done. So in practice, the KL divergence term between the teacher features and student features is approximated via a mean squared error loss or squared error loss. Average it is actually mean squared error loss. Between ZT and ZS. Yeah, this is also not a bad approximation, right? When we assume uh these two distributions PT and PZ, actually what this actually means that you have PT coming from a Gaussian, okay, and PS is also coming from a Gaussian. If you make this assumption, then we know that the KL divergence is equivalent to uh minimizing the uh mean squared error between the features taken averaged over all possible samples, okay? Okay. So, so this is what this is how the finally what is done is instead of using the teacher network, uh teacher network is discarded, uh meaning it is uh uh I mean it is it is the goal is to not use the teacher network, but to use the student network for further processing. That is the idea. Okay. So I will tell you so there is this was what was being done uh in distillation. Um, now, a very recent paper came that gave a very nice statistical perspective of why should this work, okay? What is actually happening uh under the hood? I'll talk about that. Before that, if there are any questions on the procedure of what distillation is, uh do ask. And by the way, in your assignment, what I've asked is, uh I've asked you to use a a larger teacher network, uh and uh distill it on to a smaller student and compare it with just training the student network separately. I mean, meaning a network that is of the size of the student network separately and then compare the performance. Okay. Okay, questions now. Uh yeah, Vivek."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, uh two small questions. So, should the sizes of the features of uh the Z and the um uh I mean both the ZT and ZS, should they both be the same?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "By sizes you mean the dimensionality?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Dimensions, yes."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, they they have to be same. Otherwise, how would you define KL divergence?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "KL divergence. Okay. So, the second question is, uh how important is the KL divergence term uh in this? So, if we skip that and if we simply use a completely different network, so is that still called distillation?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh what do you mean by that? See, if you uh if you do not use any features from the teacher, okay, while training the student network, then this there's no distillation, right? It is simply an independent training."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Right. Okay. Isn't it?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah. See, it is called distillation only because you have a teacher network and you are using those features to uh uh you are actually imposing those features on the features of the student. That's all, right?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Right. Yes, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "It's like whatever teacher network has learned, uh the transformation that the teacher teacher network has learned, you're trying to ensure that the features of the student network matches those features at a distributional level."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Uh yeah, but if if the student network is struggling too hard to simply match with the teacher network more than uh increasing the accuracy of the classification task, then should we reduce the weightage on the KL divergence term?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Of course, of course, of course. I mean, that's that's always there, right? I mean, when you have two loss terms, you can you always wait them accordingly."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Okay. Yes, sir. That's all. Thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Okay. Uh yeah, Sarvesh."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Sir, if uh Z are just the pre-softmax terms, so why to include this expected loss in student network? Because anyways, they will be same, right? If they are same then."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Good question. Uh, uh, see, what happens this is this is a practical thing. What happens is when uh when you do not have the supervised loss, because I mean teacher network may itself have not learned to solve the task properly, right? The performance of the student network will not be great if you don't include that."
+    },
+    {
+      "speaker_id": "3",
+      "text": "Okay, sir. Just to be sure that it is learning the main."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Correct. Correct. Whatever is needed, know, the main uh learning should happen. That is why the supervised loss is also included."
+    },
+    {
+      "speaker_id": "3",
+      "text": "All right. Thank you."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Sanjit."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Sir, uh if the teacher network is like as we are asking it is very large and let's say uh the data size is not uh sufficient enough for the learning to happen correctly. And at the same time then we are trying to use that uh loss for training the student network. So uh how can we expect uh the student network to be learned properly?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Uh yeah, you're saying if the teacher network is bad, how do what does what happens to distillation?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "No, no, like my like I I asked a previous question, right? If the uh the data set is not sufficiently large. So we cannot expect the teacher network itself to learn the uh the classification properly. And then we are trying to train the student network."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That is what, know, what happens if the teacher network itself is not good?"
+    },
+    {
+      "speaker_id": "5",
+      "text": "Hmm."
+    },
+    {
+      "speaker_id": "1",
+      "text": "That is what you are asking. Yeah."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Yes, sir."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, so yeah, so what happens is if there is like some level of uncertainty in the teacher network is okay, as we will see in the theory. But if teacher network is not even doing uh like uh supervised learning, right? Then obviously the student network will perform badly. Yeah. So you'll have to ensure that the uh teacher network uh has to have some level of good accuracy for this to work."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Anything else?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay, shall we continue?"
+    },
+    {
+      "speaker_id": "4",
+      "text": "Yeah, just one small query. What is the benefit? Is it going to use less resources?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So training definitely not. Uh, but inference of course, right? Because the student network is by design uh smaller in terms of sizes. Uh, it is going to use less number of less resources during inference. Because finally what you uh what you end up storing is the student network, not the teacher network."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Sir, one more question. The training has to happen simultaneously?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "So that's a design choice. Typically what is done is uh uh teacher network is trained up to some level, okay, where you have decent accuracy and then uh both of them are trained simultaneously. But you can completely train the teacher network once and uh then freeze it and then do a distillation. That is also possible. That's a design choice."
+    },
+    {
+      "speaker_id": "5",
+      "text": "Okay."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Okay, so uh yeah, so this is what is done procedurally. Now, uh as I said, know, there is a very nice uh uh interpretation so as to why this works. Just try to look at that. Statistical perspective on knowledge distillation. Okay. Uh, okay, so what happens is um in typical supervised learning, the labels are deterministic. In the sense that every data point, so okay, let us it gives design the problem that way. Suppose uh the class labels, right? They belong to uh one out of K categories. Okay. In a in a K class classification problem, then typically for each X, for each X, okay, Y is only one of the K plus one labels. Right? This is what happens. However, there is always uncertainty in the labeling. Uncertainty in labeling. So which implies that for each X, there exists there exists a distribution over Y. P of Y given X. So what I'm trying to say is, let's say that there is you have you have an image that you want to label. Okay. Now, okay, so I'll take an example that is sort of ambiguous. Um, okay, I should write it not like this. Okay. Which digit do you think it is? I mean, let's say that I'm annotating MNIST. I sorry. If you do this, now, some people write it this way, know, so this means that this has some likelihood of being in three and some likelihood of being in five. Right? So now there exists, so what is this? Uh along Y axis, what I've written is this is uh P of Y given X. Okay. Now, what is done in typical supervised learning is, okay, in supervised learning, P of Y given X is approximated with a delta function. Isn't it? So the uncertainty that is associated with the labeling is completely ignored, uh when uh I mean in in typical supervised learning, right? Now, what this uh this this nice paper does is the following. They consider, okay, so any question so far? I mean, what I'm trying to say is there are uh there is an uncertainty that exists with uh the labeling inherently because every data point can can probabilistically belonging to one of K possible classes. But labeling is always done in such a way that uh the uncertainty that that is there in the labeling is ignored and labels are marked labels are given in a deterministic way. Is this clear?"
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yes, sir. Yeah."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Okay. Now, what is the consequence of it is the following. Now, define two types of risks or losses. One is the typical supervised loss. Supervised loss with deterministic labeling. Call it R, okay? And there is uh okay, let's call it R cap. And there is something called base distill loss, okay? Base distill loss, call it RB cap. Okay. Now, this is uh uh what can actually be shown is that this is we know what R cap is, right? This is simply the expectation of the loss F is the classifier that we are looking at. This is F theta of X, Y. This is what it is. This is with respect to PXY. And this can be shown as KL divergence between the distribution of uh uh F theta of X theta of Y given X, let's say, is a classifier imposes a distribution on labels, right? That is what it does. And the true label distribution. That is what you can show, okay? Uh I mean, if you use a cross entropy kind of loss, then this KL divergence is equivalent to that cross entropy. I mean, that is easy to show, okay? The uh interesting result that which is shown is, now, suppose R star represents the generalization risk. Or it's also called the true risk. Which is nothing but uh the error, average error on unseen data. Average error on unseen data. Okay. What can be shown is that R star will be lower for RB cap, okay, compared to R cap. So this is a this is actually the main result. Which is there in that paper, which uses uh Jensen's inequality, okay, to bound the variance of these two risks. Yeah, but this is the uh crux of the result that would say that the generalization error that we get, the generalization uh error that is achieved using base distill risk is lesser compared to that of the uh the risk that is obtained using the direct delta approximation. Okay. Which means, so what does this imply in summary is, it is better to use base distill risk or the distribution actual distribution over the labels given data, okay, instead of instead of delta approximated labels. So this is the idea, okay? So now uh this this paper says that now see if you incorporate the I mean, that is why this thing P of Y given X is also called dark knowledge. That is the term that is used in the distillation literature, okay? If you incorporate the dark knowledge that is there uh in the labeling or uncertainty that is there in the labeling, you achieve a better generalization performance is the idea. Now, uh this is not directly related to connected to distillation yet, okay? Now this now the question is, given a labeling, a deterministic labeling scheme, scheme, there is no access access to P of Y given X, isn't it? I mean, we are only given deterministic labels. How do we know what is the distribution of the labels conditioned on data? We don't know that, okay? Therefore, the idea is the idea is to approximate P of Y given X, okay, as or rather using another using a neural network. So this neural network is the teacher neural network. Right? So now what happens is, in fact, uh this theory, right? It does not talk about uh the size reduction at all. So it suggests what is called as self distillation. I'll talk about it. So there is this network F theta, you get X and Y. You is just trained in a supervised way with deterministic label, okay? Supervised using deterministic labels. However, the pre-softmax uh uh activations that you get, the logits that you get, these can be interpreted as as an approximation to P of Y given X. So this is an approximation to P of Y given X. So then what you do is, you take the you take another network. We don't talk about sizes here, right? I mean, it can be the same size or different size. If it's of the same size, then it is typically called the self distillation, okay? Take that and use RB star here to train this. So RB is the base distill risk is simply the KL divergence between the true or rather the models estimate of Y given X, okay, and the true Y given X. So now we don't have access to true Y given X. So you we use the teachers F theta's logits as an approximation to this. Now, when somebody asked the question, right? We can why why do we have a supervised loss? So if we if we have a perfect uh uh estimation of P of Y given X, then we do not need supervised loss. Now, since we are approximating the true uncertain the label uncertainty using another neural network that is trained using deterministic labels, so it can only do so so much, right? So that is why you also have a supervised loss here, okay, to ensure that the uh network, the distilled network also does well on the supervised training. As I said, know, in this uh treatment, there is no reference to making this SP a smaller network, know, that becomes a uh a byproduct, right? Or a happy consequence of this that okay, there's no restriction on how big or large this S SP network should be. Because as long as you are matching the the true label uncertainty, you should get better risk irrespective of the uh uh the network size. And that is why people tried, okay, let's try to make this SP a smaller network and then uh try to ensure so this is there is this scale here. And try to use this technique for network compression. In fact, as uh as it stands, you can do what is called as self distillation, which is that you train a neural network using supervised fashion and then take that same neural network and use the logits of the previous one and retrain it by minimizing the KL between the logits and the supervised loss. I mean, if you have gotten P of Y given X to a fair extent from the teacher network, then doing self distillation should improve the generalization according to this theory. Okay. Okay, that's about it. Uh questions? Yeah, Vivek."
+    },
+    {
+      "speaker_id": "2",
+      "text": "So, after the encoding process is over, we just have a single vector, right?"
+    },
+    {
+      "speaker_id": "1",
+      "text": "Exactly. That's an issue."
+    },
+    {
+      "speaker_id": "2",
+      "text": "Yeah, so that's exactly I wanted to know it's hard to believe that one small vector can."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Yeah, it's you exactly. That was actually an issue and that is why I'll just hold on to that question. That would be my next narrative. Okay. I'm actually building up to transformers. So that I'll I'll tell you why that is an issue and how people solved it. Okay. Santosh."
+    },
+    {
+      "speaker_id": "4",
+      "text": "Uh yes, sir. Uh so the number of RNN cells will be equivalent to the input sequence in the first layer."
+    },
+    {
+      "speaker_id": "1",
+      "text": "Correct. Correct. See, that is because it is uh it is uh the parameters are shared across time. You'll just repeating the same RNN cell one after the other with a different input and the hidden layer. That's all. But the weights remain the same across time. Okay. Also my second question is that right now we have only two layers. If we have multiple RNN layers, so the final hidden state of first layer will be passed to the second layer and then like that. So the output will be passed to next layer."
+    },
+    {
+      "speaker_id": "1",
+      "text": "There will be two things, right? If you have like two layer thing, there will be one that goes like this, one that goes like this. Yeah. You can have any number of RNN layers one after the other. Any number of hidden layers one after the other. You can make it deep. Okay. Okay, sir. Yeah. As I said in the beginning of the course, right? I uh like this is not a course where I teach NLP fundamentals and architectures, right? So I mean, one can actually teach a full course on sequence modeling and how RNNs work and a lot of nuances there. But as I said, this this course is more on uh you now you know what this course started almost coming at the end of it. But yeah, so an overview of RNNs are like this. Any other question on this? If not, let's move. So as uh this was as I said, know, this was the the state of the art till for machine translation, okay? Like till let's say like 20 2014, 2015 times, okay? Uh some form or the other of it, which is uh an improvisation over this is what was being done. Any question so far? This received a lot of attention, okay? And this gave a significant boost in terms of uh uh what the uh what we could achieve using machine translation, okay? Then came this this this thing, know, which is the transformer architecture where they said, okay, see anyway you're using attentions here, okay? Why even have an RNN cell? Because you end up with the problems of vanishing gradient and all that if you have very long sequence lengths. So why not create an architecture, right? So come this transformer, which is an attention only architecture without a recurrent nature structure. Yeah, that is what a transformer is all about, okay? It is an attention only architecture without recurrence. Yeah, that is what a transformer is all about, okay? It is an attention only architecture without recurrence. I'll briefly talk about uh what uh attention is I mean, this is transformer is, okay? Now you have like input sequence X that is equal to X1, X2 up to XT, right? Okay. Now, a transformer is some function F theta that you take each XJ and gives you a corresponding ZJ. Okay. So now what what does it do is given a sequence X to data X, okay? A transformer outputs a sequence of representations or hidden layers. I mean, you don't have to call them hidden representations Z, okay? Corresponding to each of the input tokens. So for every input token XI, there is a corresponding representation Z, okay? That is how you do it. So now the question is, how do you get this ZJ, right? Now ZJ is given as a linear combination of all the value vectors, okay? I'll tell you what these value vectors are. So now given a data token XJ, XJ, okay? Multiply that with three matrices. Call one as the query matrix. So this is transpose XJ, okay? Then you have the value matrix and the key matrix. Okay. What are we doing? We are getting uh three particular vectors, okay? Uh so here all obtain three vectors. Okay, as this. Here the WQ, WV and WK are learnable. learn through back propagation. These are the learnable matrices. Do you understand? So what is happening? Given a particular data point, you take each of the token corresponding to it, which is a vector. Okay. Uh pre-multiply that with three matrices. Okay. Uh they and call them as query, value and key vectors. So corresponding to each of the token, you will get three vectors. Okay. Then the representation corresponding to each of the input token is a linear combination of all the value vectors corresponding to all the tokens. Okay. The question is, how do you get this alpha J? Obviously this alpha J gotten. So what you do is that you take alphas, okay, and divide that by some constant D, which is the dimensionality of data. And then you do a say that alphas are soft max over alpha divided by T. That's all. So now why do you do this? This you do because all beta Js, right? They are bounded between zero and one and they simply sum to one. That is why you do this soft max. So that the linear combination of the values that you are taking, okay, uh is bounded between zero and one. So now let me repeat what is done here is that uh you given a token, given a sequence of tokens, okay, which is uh an input data point, one input data point. You define three matrices. Call them as uh and multiply those data points with the with these three matrices. Okay. They and call them as the query, value and key vectors. So corresponding to each of the token, you will get three vectors. Okay. Then the representation corresponding to each of the input token is a linear combination of all the value vectors corresponding to each of the tokens. Okay. That's all. Now, how do you define which of I mean, how do you get what is the weight factor for the linear combination? To get the weight factor for the linear combination, you use the query and key vectors. How? Uh you take the query vector corresponding to the token of interest. You take an inner product of that query with all the key vectors corresponding to all the tokens and normalize it so that it lies between zero and one. That would give you what is the weight or scale with which you have to scale each of the value vectors uh to obtain the representation corresponding to uh the I mean, the token of interest. Okay. So this is one transformer block. With a single head, they call it. I there is also a counterpart uh called the multi-head uh attention. I'll talk about that in a while. But yeah, any questions so far? So, so if we uh shuffle the X1 to XT, uh then the Zs will also be shuffled. In the sense, like the if the sequence changes, Yes. That is true. Okay, so please go ahead. So, so does it when it changes, does it still remain the do the individual values still remain the same or will they also change? No, no, they do change, you know, they do change depending upon what the sequence uh what the what the corresponding what the relative positions of each of the tokens are in the sequence. They do change. Okay. Okay, sir. Okay, sir. Okay. Sir, uh is the T fixed here? Yeah, T is fixed. Yeah. So you you keep hearing about this context lens of all these LLMs, right? They say that you are coming up with uh like uh larger and larger context lens. This T is what is called as context lens. Now it is like uh uh 2,500 is what the context length of GPTs and so on. That is the context length. So now you might ask this question. We started by saying that uh each of the input data point will have different sequence length. How how does transformer handle it? They handle it by just zero padding. That's all. So they keep a fixed context length and then uh if I mean that length is equal to the highest possible length of the highest possible sequence. And for all the other sequences that have length less than the highest possible length sequence, they zero pad them and make them equal length. And now how does that how how is that handled? The hope is that that is handled by the appropriate representation. Okay. The attention for or rather these alphas and betas for that corresponding uh zero tokens will be zero. And it has been observed that they will actually ignore them. Okay, sir. Thank you. Okay. Yeah, one more point here, sir. I mean, here that position information is not present anywhere, right? So if you shuffle the sequence. Yeah, yeah, hold on. That's correct. That is correct. And uh do you recall that during our DDPM discussions, I talked about positional embeddings? Where we have to do give T uh the time information also as an input. Right? In transformer also, what is given is in addition to this, uh T is also given as an input using the positional encoding. For the precise reason that you said. Positional embeddings. And we talked about positional embeddings during the diffusion lectures, okay? Fine. Now, how do we finally solve the uh the sequence to sequence problem is that we have here a transformer block. There is one other like normalization layer that they use and also a skip connection like ResNet and so on, right? I'm skipping that. The major focus is on attention, okay? So can yeah, there is enormous amount of literature on this. You'll understand. The difficult part is how the attentions are actually uh computed. So you get Z1 through ZT, okay? And there is this is this is the encoder. And similarly, there is a decoder block. Uh what does it do is it will take these uh uh embeddings or the representations given by the encoder as the input, okay? And then do an auto regressive uh generation. So you get Y1 and you take Y1 as an input and give it just like you do it in RNN, right? So you take that and you get Y2. And you take that as give it as an input and so on. Okay. So this is how in fact, this is exactly what a large language model does. Okay. So this is Bart kind of large language model. This is how the training happens. In addition to this, there's also uh like attention blocks between the encoder and decoder, okay? These are called uh cross attention. So the details, so this is whatever we saw, right? Which is attention between the input tokens, uh that is called self attention. And there is also attention between the query keys of the encoder and the query keys of the decoder. That is called cross attention. And this is actually the bare bone of what the modern day LLMs do. Okay. So now you know that, right? I mean, you are given a particular prompt, when you give GPT a prompt, what you are actually doing is giving a prompt to the encoder. And depending upon your prompt, this decoder generates. And how is the training done? Surprisingly enough, training is completely supervised. Supervised training, okay, using KL minimization. I mean, like the usual cross entropy loss is what is used. That's all. The bare minimum training bare bone training of an LLM happens in a completely supervised way, okay, using KL minimization. So you have pairs of these tokens, input and output tokens. In fact, uh actually what happens is that you first train an embedding extractor using the self supervised learning techniques that we just saw, know, masked uh reconstruction. Last class we looked at masked reconstruction. So what is done is, let me just talk about it perhaps. So first thing that is done is, okay, so at a broad level, LLM training typically happens this way. So where and by the way, architecture wise, right? Everything that is used in an LLM today are transformers. You take a transformer, okay, uh take an input sequence and uh you get the embeddings and uh the task is to simply reconstruct the data back. Using the encoding. So technically speaking, there is also an encoder decoder model here. Another transformer. This is the decoder. You get Z1 to Z3. And what is given as an input is uh uh a version of X, okay, where it is uh a masked masked version of X. Usual self-supervised learning task that we do, right? And this Z will go as input to the decoder and what is given back is the true data. So this is exactly what is done in Bert, okay? So you have an encoder and a decoder and encoder takes masked version of X with random mask and it reconstructs the data. So this is what is called as the self-supervised pre-training. Okay. This is done. Once this is done, you get embeddings of data. So then you use a usual encoder decoder model in the second stage using supervised fine tuning. Supervised fine tuning, okay, uh on the embeddings obtained in the obtained using self-supervised learning. See, surprisingly, uh the the inner workings of an LLM is very, very simple. I mean, from an ML complexity perspective, all you do is take a lot of data and do a self-supervised pre-training using mask reconstruction kind of tasks. And then you do a supervised fine tuning on whatever data that you want. That's all it is. Using transformer as the backbone. Now, there are nuances here where uh when you are doing fine tuning, right? Uh uh you may not have a lot of data. How do you do it without fine tuning? There is this retrieval augmented generation or rag kind of frameworks. And also this low rank reconstruction, low rank approximation for fine tuning, where the problem is that if this pre-training, the model is like billions of parameters, you can't you can't fine tune on all billions of parameters. You just take a subset of them and then fine tune. And all those are other improvisations and nuances. But at a broad level, this is exactly what happens. So we there's a transformer, which is which is the bare bone architecture. You take data, typically from the entire internet and do a self-supervised pre-training using mask reconstruction task, which we have seen. And then whatever take that model which generates embedding and do a supervised fine tuning on whatever data that you want. And that's if you do that, then you already have a like GPT2 or GPT3 that is there. Okay. That's that's what it is. Uh any questions on this? Yeah, as I said, know, this is not a full course on LLM. So I don't go to the nuances of it. Just wanted to introduce and put it in the perspective of what uh the uh the so-called uh modern LLMs are doing. This is exactly what it is. As I said, know, in terms of ML complexity, it's very, very simple. There's a self-supervised pre-training using transformers and there is a supervised fine tuning that is happening using usual cross entropy kind of losses. Right? And the underlying architecture that is used is a transformer. Please also remember, the word generative AI, right? It is used in a very, very loose sense today. In in outside of uh expert community, where it is used for uh like image generation, language generation and all that. Whenever there are there is a sequence task that is done, know, it uh a transformer is used. And this kind of uh uh recipes followed. Wherever there is an image generation task, know, typically transformer is not used, a diffusion model is used. Right? Okay. So, that's about it. That's all I wanted to cover in this course. Yeah, so let's maybe just stop recording. Yeah, what is rag? You talked about little, right? What is that? Yeah. See, the thing is, uh even when you fine tune, right? Uh sometimes, you know, it will not it may not suit your purpose. So it's think of it like using an additional uh data that you have, okay, without doing a fine tuning, I mean, supervised fine tuning on it. Uh you use that additional data to guide your uh transformer or generator in some way. I mean, or the decoder. See, in all our generative modeling, right? We know that I mean, we know"
+    }
+  ]
+}

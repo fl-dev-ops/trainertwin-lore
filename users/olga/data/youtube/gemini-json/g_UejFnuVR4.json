@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "I'm going to say an unpopular opinion. Dubai real estate market needed a cleanse. And if you're just watching it from the position of the agent, of the seller, of the buyer, that's all what we created ourselves. My name is Olga, I'm a real estate sales coach, and I am looking at the market not only from the perspective of how to teach the agent to sell you more. I've seen the behaviors of sellers and buyers, agents and developers, and of course, I analyze the market data. So, if you want to have an unbiased opinion, a different point of view of someone who is not trying to sell you anything, you have to click on this video and join my YouTube channel where I deliver a different type of content, something which is beyond buy cheap and make money in Dubai real estate. See you there."
+    }
+  ]
+}

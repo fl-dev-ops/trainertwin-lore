@@ -1,0 +1,16 @@
+{
+  "model": "gemini-2.5-flash",
+  "speaker_count": 1,
+  "speakers": [
+    {
+      "id": "1",
+      "label": "Speaker 1"
+    }
+  ],
+  "turns": [
+    {
+      "speaker_id": "1",
+      "text": "How to convince the seller to lower the asking price? It's common sense. Every seller thinks that his property is the best and costs the most. So, how you instead of being pushy and logical, like, look, Mr. Seller, this property only can be sold for this one and that one. He's going to be dead. Going to come from a different perspective. You can say something like this. Uh, look, Mr. Seller, you can definitely list, list, not sell. List the property with any price that you want. It's totally, totally your right. But let me ask you this, whom in your mind will be the person who will determine how much the property is actually worth? Asking this question and wait till he will tell you, it's a buyer. And then, and what do you, sure, Mr. Seller, how do you actually determine which is property is even right for you? Well, which property is even right for you? Like this."
+    }
+  ]
+}
