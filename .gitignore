@@ -39,3 +39,5 @@ Thumbs.db
 # Temporary workspace backups & benchmarks
 **/index.backup-*.json
 workspace_retrieval_benchmark.json
+.cache/
+gemini-json/
