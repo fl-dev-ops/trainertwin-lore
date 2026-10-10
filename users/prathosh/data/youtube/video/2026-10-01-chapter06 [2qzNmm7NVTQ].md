@@ -4,11 +4,13 @@ title: chapter06
 url: https://www.youtube.com/watch?v=2qzNmm7NVTQ
 date: '2026-10-01'
 duration: 00:08:52
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter06
@@ -17,72 +19,225 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atasha sthodhyaya Atmasamyamayoga Sribhagava nuvacha Anashetash karma palankaryam karmakaroti yaha Sasanyasi chayogi chana niragnirnachakriyaha Yamsanyasamite prahuruyogantam vidhipandava Nasyasanyastasankalpo yogibhavate kashchana
+अथ षष्ठोऽध्यायः।
+आत्मसंयमयोगः।
+श्रीभगवानुवाच।
+अनाश्रितः कर्मफलं कार्यं कर्म करोति यः।
+ससंन्यासी च योगी च न निरग्निर्न चाक्रियः।
+
+### 00:00:22 · Speaker 1
+
+यं संन्यासमिति प्राहुर्योगन्तं विद्धि पाण्डव।
+न ह्यसन्यस्तसङ्कल्पो योगी भवति कश्चन।
 
 ### 00:00:33 · Speaker 1
 
-Yadahinendriyartheshunakarmasvanojate sarvasankalpasanyasi yoga rudhastaduchyate udharedhatmanatmananatmanamavasadhyet atmaivachyatmano bandhuratmaivarepuratmanaha
+आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते।
+योगारूढस्य तस्यैव शमः कारणमुच्यते।
 
-### 00:01:03 · Speaker 1
+### 00:00:43 · Speaker 1
 
-Bhanduratmatmanastasya jnatmaivatmana jitaha anatmanastoshatrutevartetatmaivashatravat jitatmanavprashantasyaparamatma samahitaha shitoshna sukadhuke shutatha mana pamana yo ha jnana vijnanatraptatma kutasto vijitendriyaha yuktaityuchyate yogis
+यदा हिनेन्द्रियार्थेषु न कर्मस्वनुषज्जते, सर्वसङ्कल्पसन्न्यासी योगारूढस्तदोच्यते।
 
-### 00:01:33 · Speaker 1
+### 00:00:53 · Speaker 1
 
-Sadhya malo sth ashmakanchanaha suhunmitra yudasi namadyastadveshabandhu sadhushwapichapapeshu samabuddhrevisheshyate yogi yunjita satatamatmanam rahashtitaha ekaki yatachitatmanirashiraparigrahaha shuchavadeshapratashtapyastiramasanamatmanaha natyutritan
+उद्धरेदात्मनात्मानन्नात्मानमवसादयेत्।
+आत्मैव ह्यात्मनो बन्धुरात्मैवरिपुरात्मनः।
 
-### 00:02:03 · Speaker 1
+### 00:01:04 · Speaker 1
 
-Sankhya nitya chanchayala jnanakushottaram tatraika gram manakratva yatachitendriyakriyaha upavisha sanyunjya jyotgamatma vishuddhaye samanka yashiro grivan darayan natchalam sthiraha sampreksha nasya kagram svandishashcha navalokayan prashantatma vigatabhir brahmachaivrathas
+बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः। अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्।
 
-### 00:02:33 · Speaker 1
+### 00:01:15 · Speaker 1
 
-Manasamyam yamachito yuktam asitam atparaha yunjanevam sadatmanam yogin yatamanasaha shantinirvana paramam matsamsthah madhigachati natchashnatastuyogosti natchayikan tamanashnataha natchatiswapnashilasyajagra to naivachar juna yuktahara viharas
+जितात्मनः प्रशान्तस्य परमात्मा समाहितः शीतोष्णसुखदुःखेषु तथा मानापमानयोः।
 
-### 00:03:03 · Speaker 1
+### 00:01:25 · Speaker 1
 
-Yuktaswapna vabodasya yoga bhavate dukhaha yada vinyatin chitta matmanye vavatasyate nispruhasarvaka me bhayo yuktait yuchyate tada yata jiponivatas tonengate sopa masmruta yogino yata chittasya yunjato yoga matmanaha yatra param
+ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः।
 
-### 00:03:33 · Speaker 1
+### 00:01:37 · Speaker 1
 
-Yamate chitana rudham yoga sevaya Yatra chaivatmanatmanam pashyanatmanitoshati Sukham atyan tikam yata buddhigrahyamati indriyam Veti yatra na chaivayam stithashala tatvataha Yamlabdhva cha paramlabhham anyate na dikantataha Yasmin stithona dukhe na guruna pevichal yate
+सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु।
+साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते।
 
-### 00:04:03 · Speaker 1
+### 00:01:47 · Speaker 1
 
-Tam vidya dushkha sam yoga viyogam yogasanyatam sanishchayena yokta vyogyo niravinnachetasa sankalpa prabhavan kamam sthakta saravana shesataha manasai ven driyagramam vinyamyasaman tataha shanai shanairuparamed buddhya dhrtegrahitaya atmasamstam manakratva nakincha
+योगी युञ्जीत सततमात्मानं रहसि स्थितः।
+एकाकीयत चित्तात्मा निराशीरपरिग्रहः।
 
-### 00:04:33 · Speaker 1
+### 00:01:57 · Speaker 1
 
-Yadapichintayet Yato yato nishcharati manaschan chalamasthiram Tatastato niyamyaita datman yeva vashanayet Prashantamanasam shanam yoginam sukhamutamam Upaitishantarajasam brahma bhutamakal masham Yunjanevam sadatmanam yogi viga takal mashaha Sukhena brahma samsparashamachyan tam
+शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः।
+नात्युच्छ्रितन्नातिनीचं चैलाजिनकुशोत्तरम्।
 
-### 00:05:03 · Speaker 1
+### 00:02:08 · Speaker 1
 
-Sukham sukham ashna te sarva bhutas tam atmanam sarva bhuta anichatmani yikshate yoga yuktatma sarvatra samadharshanaha yomam pashyati sarvatra sarvanjamyi pashyati tasyahana pranasyami sachamena pranasyati sarva bhutas titam yomam bhajatyekatvam astithaha sarvata
+तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः।
+उपविश्यासने युञ्जाद्योगमात्मविशुद्धये।
 
-### 00:05:33 · Speaker 1
+### 00:02:19 · Speaker 1
 
-Samano Pisa Yogi Mayi Vartate Atma Upamyena Sarvatrasamam Pashyati Yorjuna Sukhamva Yadivadukam Sa Yogi Paramo Mataha Arjuna Uvacha Yoyam Yogastvaya Prokta Samyena Madhusudana Etasyahana Pashyami Chanjalatva Jatimstiram Chanjalam Himanakrishna Pramate
+समङ्काय शिरोग्रीवन् धारयन् अचलं स्थिरः।
+सम्प्रेक्ष्य नासिकाग्रं स्वन्दिशश्चानवलोकयन्।
 
-### 00:06:03 · Speaker 1
+### 00:02:29 · Speaker 1
 
-Sri Bhagava no vacha Asamshayam mahabaho mano dur nigrahanchalam Abhyasena tu kante yairagena chakrasyate Asamyatatmana yoga dushprapa itime matihi Vasyatmana tu yatata shakyovaptumupayataḥ
+प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः।
+मनस्संयम्यमुच्चित्तो युक्त आसीत मत्परः।
 
-### 00:06:33 · Speaker 1
+### 00:02:40 · Speaker 1
 
-Arjuna uvacha Ayatashradhyopeto yoga chalitamanasaha Apratyayoga samshiddhankam gatinkrishnagachati Kachino abhyavibhrastashchinnabrahmivanasyati Apratasyamahabaho vimodho brahmanaphati Etanme samshayangkrishnachetomarasyasheshatah Tvadanyasam
+युञ्जन्नेवं सदात्मानं योगी नियतमानसः।
+शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति।
 
-### 00:07:03 · Speaker 1
+### 00:02:51 · Speaker 1
 
-Sri Bhagava nuvacha Partanai bhana mutravina shastasyavidyate Nahikalya nakrat kashtidurga tinta tagachati Prapyapunyakratam lokanushetva shashwati samaha Shuchinam srimatangehe yoga bhastobhijayate Atava yoginame
+नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।
+न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।
 
-### 00:07:33 · Speaker 1
+### 00:03:02 · Speaker 1
 
-Yadadhidralabhataram lokajanmayadhidrasham Tatratham buddhisamyogam labhatayapurvadehikam Yata te chata to bhuyasam siddha kuru nandana Purvabhyase nate naivakriyate hyavashopisaha Jignasya rapiyogasya shabdabrahamati vartate
+युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु युक्तस्वप्नावबोधस्य योगो भवति दुःखः।
+
+### 00:03:12 · Speaker 1
+
+यदा विनियतं चित्तमात्मन्येवावतिष्ठते, निःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा।
+
+### 00:03:22 · Speaker 1
+
+यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता।
+योगिनो यतचित्तस्य युञ्जतो योगमात्मनः।
+
+### 00:03:32 · Speaker 1
+
+यत्रोपरमते चित्तन्निरुद्धं योगसेवया।
+यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति।
+
+### 00:03:43 · Speaker 1
+
+सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्।
+वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः।
+
+### 00:03:53 · Speaker 1
+
+यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः।
+यस्मिन् स्थितो न दुःखेन गुरुणापि विचाल्यते।
+
+### 00:04:04 · Speaker 1
+
+तं विद्याद्दुष्खसंयोगवियोगं योगसञ्झितम्।
+स निश्चयेन योक्तव्यो योगो निर्विण्णचेतसा।
+
+### 00:04:15 · Speaker 1
+
+सङ्कल्पप्रभवान् कामांस्त्यक्त्वा सर्वानशेषतः।
+मनसैवेन्द्रियग्रामं विनियम्य समन्ततः।
+
+### 00:04:26 · Speaker 1
+
+शनैः शनैरुपरमेद्बुद्ध्या धृतिगृहीतया।
+आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्।
+यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।
+
+### 00:04:40 · Speaker 1
+
+ततस्ततो नियम्यै तदात्मन्येव वशं नयेत्।
+प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्।
+उपैतिशान्तरजसं ब्रह्मभूतमकल्मषम्।
+
+### 00:04:55 · Speaker 1
+
+युञ्जन्नेवं सदात्मानं योगी विगतकल्मषः।
+सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते।
+
+### 00:05:06 · Speaker 1
+
+सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि।
+ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः।
+
+### 00:05:17 · Speaker 1
+
+यो मां पश्यति सर्वत्र सर्वञ्च मयि पश्यति।
+तस्याहन्न प्रणश्यामि स च मे न प्रणश्यति।
+सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः।
+सर्वथा वर्तमानोऽपि स योगी मयि वर्तते।
+
+### 00:05:37 · Speaker 1
+
+आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।
+सुखं वा यदि वा दुःखं स योगी परमो मतः।
+अर्जुन उवाच।
+योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन।
+
+### 00:05:55 · Speaker 1
+
+एतस्याहन्न पश्यामि चञ्चलत्वात् स्थितिं स्थिराम्।
+चञ्चलं हि मनः कृष्णप्रमाथिबलवद्दृढम्।
+तस्याहन्निग्रहं मन्ये वायोरिव सुदुष्करम्।
+
+### 00:06:11 · Speaker 1
+
+श्रीभगवानुवाच।
+असंशयं महाबाहो मनो दुर्निग्रहञ्चलम्।
+अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।
+असम्यतात्मना योगो दुष्प्राप इति मे मतिः।
+
+### 00:06:29 · Speaker 1
+
+वश्यात्मना तु यतता शक्यो वाप्तुमुपायतः।
+अर्जुन उवाच।
+अयति श्रद्धयोपेतो योगाच्चलितमानसः।
+अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति।
+
+### 00:06:47 · Speaker 1
+
+कच्चिन्नो भयविभ्रष्टश्छिन्नाभ्रमिव नश्यति।
+अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि।
+
+### 00:06:57 · Speaker 1
+
+एतन्मे संशयं कृष्ण छेत्तुमर्हस्य शेषतः त्वदन्यः संशयस्यास्य छेत्तानह्युपपद्यते।
+
+### 00:07:08 · Speaker 1
+
+श्री भगवानुवाच।
+पार्थनैवेहनामुत्र विनाशस्तस्य विद्यते।
+न हि कल्याणकृत्कश्चिद्दुर्गतिन्तातगच्छति।
+
+### 00:07:20 · Speaker 1
+
+प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीस्समाः। शुचीनां श्रीमताङ्गेः योगभ्रष्टोभिजायते।
+
+### 00:07:32 · Speaker 1
+
+अथवा योगिनामेव कुले भवति धीमताम्। एतद्धि दुर्लभतरं लोके जन्म यदिदृशम्।
+
+### 00:07:42 · Speaker 1
+
+तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्।
+यतते च ततो भूयः संसिद्धौ कुरुनन्दन।
+
+### 00:07:52 · Speaker 1
+
+पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः।
+जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते।
 
 ### 00:08:03 · Speaker 1
 
-Madhyatmanas tu yogi samshudhakil bishaha Anekajan masamshiddhato yati parangatim Tapas vibhyodhiko yogi jnany bhypimato dhiyaha Karmibheshtha dhiyoko yogi tasmad yogi bhavarjuna Yoginam api sarvesham madgatenantaratmana Shradhavan bhajate yomam samayuktatamo
+प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः।
+अनेकजन्मसंसिद्धस्ततो याति पराङ्गतिम्।
 
-### 00:08:33 · Speaker 1
+### 00:08:13 · Speaker 1
 
-Mataha Untatsaditeshramad Bhagavad Gita Supanishatsubrahmavidyayam Yogashastra Shri Krishna Jnana Samvade Atmasamyama Yogo nama Todyaya
+तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः।
+कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवारजुना।
+
+### 00:08:24 · Speaker 1
+
+योगिनामपि सर्वेषां मद्गतेनान्तरात्मना।
+श्रद्धावान् भजते यो मां समे युक्ततमो मतः।
+
+### 00:08:35 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे आत्मसंयमयोगो नाम अथोऽध्यायः।

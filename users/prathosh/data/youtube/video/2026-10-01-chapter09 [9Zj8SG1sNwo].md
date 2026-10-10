@@ -4,11 +4,13 @@ title: chapter09
 url: https://www.youtube.com/watch?v=9Zj8SG1sNwo
 date: '2026-10-01'
 duration: 00:06:36
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter09
@@ -17,52 +19,150 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Rajavidya Rajagukhyayogaha Sri Bhagavanuvacha Idantute guhyatamam pravakshamyanasu yabe Jnanam vidyana sahitam yadnyatva mokshayasubhat Rajavidya Rajagukhyam pavitra midamutamam pratyaksha vagamandarmyam susokhankartumavayam
+अथ नवमोऽध्यायः।
+राजविद्याराजगुह्ययोगः।
+श्रीभगवानुवाच।
+इदन्तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे।
+ज्ञानं विज्ञानसहितं यज्ञात्वा मोक्ष्यसे शुभात्।
 
-### 00:00:33 · Speaker 1
+### 00:00:24 · Speaker 1
 
-Ashradadhanapurushadharmasyasyaparantapa aprapyamanivartante mrtyusamsara-vartmani mayatatamidamsaravan jagadbhyaktamurtina matstani sarvabhutani natchahanteshvastitaha natchamatsani bhutani bhashyamayoga maishvaram bhutabhun natchabhutastomaatma
+राजविद्या राजगुह्यं पवित्रमिदमुत्तमम्।
+प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम्।
 
-### 00:01:03 · Speaker 1
+### 00:00:34 · Speaker 1
 
-bhutabhavanaha yathakasha sthito nityam vayusaravatra gomahan tata saravana bhuta nimatstani jupadharaya sarava bhuta nikaunteya prakritim yantimamikam kalpakshaye punastani kalpadu visrajam yaham prakritim swamavashtabhyavisrajam punafpunaha bhuta
+अश्रद्धधानाः पुरुषा धर्मस्यास्य परन्तप।
+अप्राप्यमान्निवर्तन्ते मृत्युसंसारवर्त्मनि।
 
-### 00:01:33 · Speaker 1
+### 00:00:44 · Speaker 1
 
-Mamimankrta naamavasham prakritir vashat nacchaman tani karma nini badhantidhananjaya udasi navadasi namasaktante shukaramasu mayadhyakshena prakritisu yate sacharacharam hetuna nena kaunte yajagadviparivartate avajanantimam udhama nushintanumastretam param
+मया ततमिदं सर्वं जगदव्यक्तमूर्तिना। मत्स्थानि सर्वभूतानि न चाहन्तेष्ववस्थितः।
 
-### 00:02:03 · Speaker 1
+### 00:00:55 · Speaker 1
 
-Bhava Majananto mama bhuta maheshvaram Moggaha Moggakarmano Moggah jnana vichetasaha Rakshasi ma surinchaiva prakritimohinimshritaaha Mahatmanastu mam parta daivim prakritimashritaaha Bhajanjananya mana sognyatva bhuta adhimabhyayam satatankirtayanto mam yatantashchadradhav
+न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम्।
+भूतभृन्न च भूतस्थो ममात्मा भूतभावनः।
+यथाकाशस्थितो नित्यं वायुः सर्वत्र गो महान्।
 
-### 00:02:33 · Speaker 1
+### 00:01:12 · Speaker 1
 
-Namasyantasyam bhaktya nitya yukta upasate jnana yagnena chapyanye yajanto mama upasate ekatvena pratthakthvena bahudha vishwato mukham ahankraturaham yagnasvadaha mahamaujadam mantrahahamahamevajahamahamagniraham hutham pita hamasyajagato mata
+तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय।
+सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम्।
+कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम्।
 
-### 00:03:03 · Speaker 1
+### 00:01:28 · Speaker 1
 
-Tapamya Hama Hama Varasan Nigranam Bijam Vyayam Tapamyah Hama Hama Varasan Nigranam Yudhrajamicha Amratanchaivam Rtyushcha Sadasachahamarjuna Travidya Mamso Mapavtha
+प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः।
+भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात्।
+न च मान्तानि कर्माणि निबध्नन्ति धनञ्जय।
+उदासीनवदासीनमसक्तं तेषु कर्मसु।
 
-### 00:03:33 · Speaker 1
+### 00:01:48 · Speaker 1
 
-puta papa yagnirishthvasvargatim pratayante te punya masadyasurendra lokam ashtanti divyan divyade vabhogan te tam bhuktvasvargalokam vishalankshine punya marthyalokam vishanti evantrayidharma manuprapanah gata gata kamakamalabhante ananyashintayantam amye janafparupasate te
+मयाध्यक्षेण प्रकृतिः सूयते सचराचरम्।
+हेतुनानेन कौन्तेय जगद्विपरिवर्तते।
+अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम्।
+परं भावमजानन्तो मम भूतमहेश्वरम्।
 
-### 00:04:03 · Speaker 1
+### 00:02:08 · Speaker 1
 
-nityabi yuktanam yogakshemam vahamyaham yepyanya devata bhakta yajante sadhyayan vithaha te pimam eva kounte yajantya vidhipur vakam aham hisarva yajnana bhuktachaprabhure vacha natumam abhijananti tatve natasyavantite yantideva vratadevan pitruṇya yantip
+मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः।
+राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः।
 
-### 00:04:33 · Speaker 1
+### 00:02:19 · Speaker 1
 
-Pitravrataha Bhuta niyanti bhute jayanti madhyajino pimam Patram pushpam palantoyam yome bhaktya prayatshati Tadaham bhaktya prahrtamashna me prayatatmanaha Yatkaroshiyadashna siyadjuhoshidadasyat Yatapasya sekaunteyatadkurusva madara panam Subha subhapalayrevam okshase
+महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः। भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम्।
 
-### 00:05:03 · Speaker 1
+### 00:02:30 · Speaker 1
 
-Karma bandhanai Sanya sa yoga yuktatma vimokto mahamupashasya Samohamsaravabhuteshunamedvashos tina priyaha ye bhajan titham bhaktya majite teshapya ham apichet suduracharo bhajate mama anyabhak sadhure vasa mantavyasamyag vyavasito hisaha kship
+सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः। नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते।
+
+### 00:02:41 · Speaker 1
+
+ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते, एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम्।
+
+### 00:02:51 · Speaker 1
+
+अहं क्रतुरहं यज्ञस्वधाहमहमौषधम्।
+मन्त्रोहमहमेवाज्यमहमग्निरहं हुतम्।
+पिताहमस्य जगतो माता धाता पितामहः।
+वेद्यं पवित्रमोङ्काररुक्सामयजुरेव च।
+
+### 00:03:11 · Speaker 1
+
+गतिरभर्ता प्रभुः साक्षी निवासः शरणं सुहृत्।
+प्रभवः प्रलयस्थानं निधानं बीजमव्ययम्।
+
+### 00:03:21 · Speaker 1
+
+तपाम्यहमहं वर्षन्निगृह्णाम्युत्सृजामि च।
+अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन।
+त्रैविद्यामांसोमपाः पूतपापा यज्ञेरिष्ट्वा स्वर्गतिं प्रार्थयन्ते।
+
+### 00:03:38 · Speaker 1
+
+ते पुण्यमासाद्य सुरेन्द्रलोकं अश्नन्ति दिव्यान् दिवि देवभोगान्।
+ते तं भुक्त्वा स्वर्गलोकं विशालं क्षीणे पुण्ये मर्त्यलोकं विशन्ति।
+एवं त्रयी धर्ममनुप्रपन्नाः गतागतं कामकामा लभन्ते।
+
+### 00:03:58 · Speaker 1
+
+अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते, तेषान् नित्याभियुक्तानां योगक्षेमं वहाम्यहम्।
+
+### 00:04:09 · Speaker 1
+
+येप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विताः, तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम्।
+
+### 00:04:19 · Speaker 1
+
+अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च।
+न तु मामभिजानन्ति तत्त्वेनातश्चवन्ति ते।
+
+### 00:04:30 · Speaker 1
+
+यान्ति देवव्रता देवान् पितॄन् यान्ति पितृव्रताः।
+भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम्।
+
+### 00:04:41 · Speaker 1
+
+पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति, तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः।
+
+### 00:04:51 · Speaker 1
+
+यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।
+यत् तपस्यसि कौन्तेय तत् कुरुष्व मदर्पणम्।
+शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः।
+संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि।
+
+### 00:05:11 · Speaker 1
+
+समोहं सर्वभूतेषु न मे द्वेष्योस्ति न प्रियः।
+ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम्।
+
+### 00:05:23 · Speaker 1
+
+अपि चेत् सुदुराचारो भजते मामनन्यभाक् साधुरेव समन्तव्यः सम्यग्व्यवसितो हि सः।
 
 ### 00:05:33 · Speaker 1
 
-Prambhavatidhar matma shashvachanti nega chati kaunteya pratijani hiname bhaktav pranasyati mamhi partavyapashrityaye pishyopapayo nayaha triyavishastata shudra ste piyanti parangatim kim punar brahmahana punya bhaktarajarashayastata anityam sukham lokam imam prapyabhajaswa
+शिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति।
+कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति।
 
-### 00:06:03 · Speaker 1
+### 00:05:43 · Speaker 1
 
-Manmama bhava madbhaktomadyajimanamaskuru mame vaishasya yuktaibhamatmanam atparayanaha ontatsaditeshramadbhagavadgita su paneshatsubrahma vidyayam yogashastra shrikrsnar juna samvade raja vidya raja guhya yogonamadyayaha
+मां हि पार्थव्यपाश्रित्य येऽपि स्युः पापयो नयः।
+त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम्।
+
+### 00:05:54 · Speaker 1
+
+किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा? अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्।
+
+### 00:06:05 · Speaker 1
+
+मन्मना भवमद्भक्तो मद्याजीमान् नमस्कुरु।
+मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः।
+
+### 00:06:16 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे राजविद्याराजगुह्ययोगो नाम अध्यायः।

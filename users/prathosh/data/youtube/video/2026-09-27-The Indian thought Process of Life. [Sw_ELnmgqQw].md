@@ -4,883 +4,952 @@ title: The Indian thought Process of Life.
 url: https://www.youtube.com/watch?v=Sw_ELnmgqQw
 date: '2026-09-27'
 duration: 00:36:48
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4 + diarization
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  speaker_0: Speaker 2
+  speaker_1: Speaker 3
+  speaker_2: Speaker 4
+language: en-IN
 ---
 
 # The Indian thought Process of Life.
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### 00:00:00 · Speaker 2
 
-Utam vedam antara patake gunahotehe jopaniya shiksha is grantamibhataihe
+उत्तम वेद मंत्र पाठक के गुण होते हैं जो पाणिनीय शिक्षा इस ग्रंथ में बताए गए हैं।
 
-### 00:00:06 · Speaker 2
+### 00:00:06 · Speaker 4
 
-Rupiya namah Hari hi um Ishushi ida ganapate ganeshatwama ahra vipratamanga vinam Garate tva taki njanare maha markan maha vanjitramarcha
+गुरुभ्यो नमः।
+हरिः ॐ।
+निशुसी ईदगणपते गणेशो त्वामाह्रविप्रातमङ्गवेनाम्।
+नरते त्वत्क्रीयते किञ्चनारे महामर्खन्माघवन् चित्रमर्च्या।
 
-### 00:00:22 · Speaker 2
+### 00:00:22 · Speaker 4
 
-Acharya of Pavano's Makkam Acharya Anija Bharati Devu Narayanacharya Devi Mangala Devata Sri Guruphyurama Vande Bharatam Ataram
+आचार्यः पवनोस्माकम् आचार्याणि च भारती। देवो नारायणः श्रीशः देवी मङ्गलदेवता। श्रीगुरुभ्यो नमः। वन्दे भारतमातरम्।
 
-### 00:00:35 · Speaker 2
+### 00:00:35 · Speaker 4
 
-I'm just gonna
+Manchsthan.
 
-### 00:00:38 · Speaker 2
+### 00:00:38 · Speaker 4
 
-Pujan Sarasangat Chala Kamahudayan
+Pujyan Sarasanghachalakamahodayan.
 
-### 00:00:43 · Speaker 2
+### 00:00:43 · Speaker 4
 
-Bhagat O Riana Hum Pranam
+Bhagavata varyanaham pranamami.
 
-### 00:00:46 · Speaker 2
+### 00:00:46 · Speaker 4
 
-Vedanantaram Kumaravaryan Vedamurthyaram Devavrata Sharmaram Tatpitar Padashtha Pranam Atra Mama Guru Samaha Srinivasu Varakadevi Mahodaya Prishanti Tanavi Pranam
+तदनन्तरं कुमारवर्यान् वेदमूर्तिणं देवव्रतशर्माणं तत्पितृपादांश्च प्रणमामि।
+अत्र मम गुरुसमाः श्रीनिवासवरखेडिमहोदयाः अपि सन्ति तानपि प्रणमामि।
 
-### 00:01:03 · Speaker 2
+### 00:01:02 · Speaker 4
 
-Yadja petra yatha sarvatra bhagavata mahabhagai ruchate bharatavarhi yahi asma vibhij sarvairapi
+Yadyapyatra yatha sarvatra bhagavatamaha mahabhagairuchyate.
 
-### 00:01:16 · Speaker 2
+### 00:01:10 · Speaker 4
 
-Salvada Girvanya eva bhashaya vevahar vevahar adhikam kartavya muttati sahichavartate eva eva eva eva bhavitavi mutti kintu
+Bharatavarshiyaih asmaabhih asmaabhih sarvairapi.
 
-### 00:01:28 · Speaker 2
+### 00:01:16 · Speaker 4
 
-Vachata kalena asmakam dor gabhagibhitham yada suravya repee
+सर्वदा गीर्वाण्या एव भाषया व्यवहारः व्यवहारादिकं कर्तव्यम् इति तेषाम् इच्छा वर्तते।
+एवमेव एवमेव भवितव्यम् इति।
+किन्तु।
 
-### 00:01:34 · Speaker 2
+### 00:01:28 · Speaker 4
 
-I will switch now to English.
+Gachhata kaalena asmakam daurdaunbhagyamidam yat sarvairapi.
 
-### 00:01:48 · Speaker 2
+### 00:01:34 · Speaker 4
 
-Unfortunately
+This language is not studied, so I, for the sake of my speech, will switch now to English.
 
-### 00:01:52 · Speaker 2
+### 00:01:48 · Speaker 4
 
-So, I don't know if I genuinely believe I belong in this stage. So, there used to be this odd man out question that used to be there in our schools, right? Perhaps I am the odd man out here in this stage.
+Unfortunately.
 
-### 00:02:08 · Speaker 2
+### 00:01:52 · Speaker 4
 
-With the blessings of my gurus, I have had this privilege of treading these two seemingly orthogonal paths of life. So I've had the bhagya of studying Vedas and Shastras, and I've also had the bhagya of going to IITs and studying BTechs and now teaching in one of these institutions. So perhaps that is the reason I'm here today. Now, everybody asks me this question. In this today's era of AI and computer science,
+So, uh I don't know if I genuinely believe I mean belong in this in this stage. So there used to be this odd man out question that used to be there in our schools, right? Perhaps I am the odd man out here in this stage.
 
-### 00:02:38 · Speaker 2
+### 00:02:07 · Speaker 4
 
-What is the relevance of our shastras? Why you should think about it? We have so many people here given an opportunity do you send your children to an IIT or to a Veda Pata Shala? This is the reality of today.
+But with the blessings of my gurus, I have had this privilege of treading these two seemingly orthogonal paths of life. So I've I've had the bhagya of studying Vedas and shastras and I've also had the bhagya of going to IITs and studying BTechs and now teaching in one of these institutions. So perhaps that is the reason I'm here today.
 
-### 00:02:54 · Speaker 2
+### 00:02:31 · Speaker 4
 
-It's Santitapi Punditamaha Mahabhagaha Maheeshwaryaa Sadrishaha a Veda they we they will keep they will dedicate their life for Veda Dhyana but not all of us. But now today here I am making a claim that studying Shastras and Vedas is a non-negotiable thing for every person every person you know that is not only in this in this Bharata Varsha but everywhere in the world. So we have this right.
+Now everybody asks me this question, in this today's era of AI and computer science, what is the relevance of our shastras?
 
-### 00:03:24 · Speaker 2
+### 00:02:40 · Speaker 4
 
-I think that time has come today. I'll I'll give you a few examples of why I think it is and I'm not just saying it for the sake of saying I have examples and data points to prove this and I'll just spend spent the next 15 minutes in making some of those points. Now when I when my students in IIT and IISc asks me this question they these are JEE toppers I mean they come to know that I've studied Sanskrit and Shastra
+Why should think about it? We have so many people here. Given an opportunity, do you send your children to an IIT or to a Veda Pathashala? This is the reality of today.
 
-### 00:03:54 · Speaker 2
+### 00:02:54 · Speaker 4
 
-And all that, they say, what is the relevance of all this and why should we do this? Here is my answer to them.
+See, santi tepi punyatamaah mahabhagaah maheshavarya sadrushaah ye veda they we they will keep they will they will dedicate their life for vedadhyayana but not all of us. But now today here I am making a claim that studying shastras and vedas is a non-negotiable thing for every person every person you know that is not only in this in this Bharatavarsha but everywhere in the world. So we have this right etad desha prasutasya.
 
-### 00:04:01 · Speaker 2
+### 00:03:24 · Speaker 4
 
-Shastras are useful to a human being in all walks of life. So, I'll give you three examples. Let's take the intellectual level to start with. Intellectually speaking, if somebody studies Veda Shastras, their intellectual capability will be transcendent to a different level altogether. So, I keep saying this. Give me somebody who has studied Naya Shastra for 12 years. I will make them do quantum physics and mathematics in a matter of one year.
+Akashat agrajanamah swam swam charitram shikshyeram prithivya sarva manavah. I think that time has come today.
+I'll I'll give you a few examples of why I think it's and I'm not just saying it for the sake of saying.
+I have examples and data points to prove this and I'll just spend the next 15 minutes in making some of those points.
 
-### 00:04:31 · Speaker 2
+### 00:03:44 · Speaker 4
 
-and I have done these experiments. This is possible because buddhi vai sadhya, right? The kind of intellectual capability that one gets by studying Shastra is unparalleled. I will give you another very surprising instance. So, you all everybody uses AI today, right? All of us use AI. Do you know what algorithm goes behind all these AI engines? There is this thing called transformers, little bit of technical detail, but I will nevertheless tell you this. I am just saying that the embedding the
+Now when I when my students in IIT and IISC asks me this question, they these are JEE toppers. I mean they come to know that I've studied Sanskrit and Shastras and all that, they say what is the relevance of all this and why should we do this? Here is my answer to them.
 
-### 00:05:01 · Speaker 2
+### 00:04:00 · Speaker 4
 
-that is associated with every word in a token is given by a linear combination of the embeddings of other tokens. So, if I if I say that sarvesham shabdhanam ity yoga etranaya te swarte shaktihi, you will say that this is some shastra. If I tell you that the embedding of each word is a linear combination of everything else and then then you will say it is great stuff. It is not. See, this is something you know there are infinite amount of jumps like these in our shastras. Now, trust me when I say
+Now, shastras are useful to a human being in all walks of life. So I'll give you 3 examples. Let's take the intellectual level to start with. Okay. Intellectually speaking, if somebody studies Veda shastras, okay, their intellectual capability will be transcendent to a different level altogether. So I keep saying this, give me somebody who has studied Nyaya shastra for 12 years, I will make them do quantum physics and mathematics.
 
-### 00:05:31 · Speaker 2
+### 00:04:30 · Speaker 4
 
-this. Now having said this, the Shastras themselves says that the final or the you know biggest pala of Shastra is not to look for signs in Shastra. That is one of the mistake that all of us do. Whenever some signs comes in in some point in time, we will try to find that in our Shastras and say, oh look our Shastra said this. Shastras themselves says that if you find signs in Shastra, think of it like finding
+In a matter of one year and I've done these experiments. This is possible because buddhi vaishadhya, right? The kind of intellectual capability that one gets by studying shastra is unparalleled.
 
-### 00:06:01 · Speaker 2
+### 00:04:41 · Speaker 4
 
-weed when you are cultivating the crop. You don't cultivate the crop for the sake of weed. You cultivate the crop for the sake of crop and weed is a byproduct. So, so-called today's science and materialism is a byproduct of Shastra. So, you have to ignore meaning that's not the main you know agenda of Shastras. Now, then what is the agenda? So, we transcend the intellectual level and then go to the socio-physical level.
+I'll give you another very surprising instance. So you all, everybody uses AI today, right? All of us use AI. Do you know what algorithm goes behind all these AI engines? This this thing called transformers. Little bit of technical detail, but I'll nevertheless tell you this. I'm just saying that the embedding that is associated with every word in a token is given by a linear combination of the embeddings of other tokens. So if I if I say that,
 
-### 00:06:31 · Speaker 2
+### 00:05:11 · Speaker 4
 
-and see why should we study Shastra. The relevance of Shastras at socio-physical level is at its peak today. Today we have it in front of us. Today we are staring at call it Deva or Danava that is extraordinarily powerful than us which is called AI and we don't know how to deal with it. We have absolutely no idea how to deal with this species called AI and we are standing there. Now who is there to teach us how to deal with this? You go to
+Danam yogetranvithe swarthe shaktihi, you will say that this is some shastra. If I tell you that the embedding of each word is a linear combination of everything else in them, then you will say it's great stuff.
+It's not.
+See, this is something, you know, there are infinite amount of jumps like these in our shastras.
+Now trust me when I say this.
 
-### 00:07:01 · Speaker 2
+### 00:05:32 · Speaker 4
 
-Asterisk again
+Now, having said this, the shastras themselves says that the final or the, you know, biggest phala of shastra is not to look for science in shastra. That is one of the mistake that all of us do. Whenever some science comes in in some point in time, we will try to find that in our shastras and say, oh look, our shastra said this. Shastras themselves says that tridivadi labhyamapi nasya phalam bhavati krishereva phala lakulam. If you find science in shastra, think of it like finding weed when you are cultivating.
 
-### 00:07:03 · Speaker 2
+### 00:06:02 · Speaker 4
 
-So there is one thing in Mahabharata right it says slokar jana parvaksami aduktam granthakotishu paropakaram punyaya papaya parapiyadana So construct all algorithms in such a way that it will lead to the betterment of human life. Now this is what is there in Shastras. Think of somebody in whose hands all these powerful tools gets into and he has no background of Dharma and Shastra, what would happen to human society and we are already seeing what's happening.
+Getting the crop. You don't cultivate the crop for the sake of weed. You cultivate the crop for the sake of crop and weed is a byproduct. So so-called today's science and materialism is a byproduct of shastra. Tridivadi labhyamapi nasya phalam kathitam krishiriva palalakulam. So you have to ignore meaning that's not the main you know agenda of shastras. Now then what is the agenda? So we transcend the intellectual level and then go to the socio-physical level and see why should we study shastra.
 
-### 00:07:33 · Speaker 2
+### 00:06:33 · Speaker 4
 
-in terms of what's happening in our geo geopolitical landscape it's because there is no yadracha santras santrashti and people are not happy and everybody is talking about growing I mean producing more and consuming more and that we define as the metric of our success if you look at shastras they say that you have to be you know going away from prakriti not indulging and overusing prakriti because the very word
+The relevance of shastras at socio-physical level is at its peak today. Today we have it in front of us. Today we are staring at call it deva or danava that is extraordinarily powerful than us which is called AI and we don't know how to deal with it.
 
-### 00:08:03 · Speaker 2
+### 00:06:52 · Speaker 4
 
-or very uddesha paramapurushartha shastra is moksha the very very word says getting rid of srimad bhagavata gives a definition of moksha as the following right look at the you know the stark difference today's material world The ultimate goal of today's material world is to exploit the nature and take everything that you can from the nature. Our shastra says give up everything
+We have absolutely no idea how to deal with this species called AI and we are standing there. Now, who is there to teach us how to deal with this? You go to shastras again.
 
-### 00:08:33 · Speaker 2
+### 00:07:03 · Speaker 4
 
-that is not you. So he so shastra says the ultimate happiness that you are looking for don't exploit prakriti to get it it's internal so
+So there is one thing in Mahabharata, right? It says shlokardhena pravakshami yaduktam granthakotishu paropakaram punyaya papaya parapidanam. So construct all algorithms in such a way that it will lead to the betterment of human life.
 
-### 00:08:47 · Speaker 2
+### 00:07:17 · Speaker 4
 
-All your efforts have to be dedicated towards it. So, now we come to the third level of Shastra, which is the metaphysical level of it. If you look at Upanishads, there are umpteenth number of stories and narratives in Upanishads that talk about this. You know, there is this famous, famous conversation between the husband and wife, you know, Yajnavalkya and Dargi in Bhagavad Gita, where you all know the story. This sage renounces everything and you know, goes to a forest and his wife asks, why are you going to the forest?
+Now this is what is there in shastras. Think of somebody in whose hands all these powerful tools gets into and he has no background of dharma and shastra, what would happen to human society? And we are already seeing what's happening in terms of what's happening in our geopolitical landscape.
 
-### 00:09:17 · Speaker 2
+### 00:07:37 · Speaker 4
 
-forest you know he gives all his material wealth to the wife and wife asks why are you going to the forest and he says you know I have to get happiness I have to get Amritattva okay now the wife asks Amritattva can't I get it with wealth he responds Amritattva sya asha api nasti gargi vittena don't even hope to have Amritattva with material wealth so then she asks what what should i do then she responds this is the most
+It's because there is no yadruchha santushti and people are not happy and everybody is talking about growing, I mean producing more and consuming more and that we define as the metric of our success.
 
-### 00:09:47 · Speaker 2
+### 00:07:53 · Speaker 4
 
-beautiful line that I've seen in my life which is the one that does not lead to amritattva see think about it for a moment this is I mean I thought this god by this thought by the kid Nachiketa who comes in who appears in Kathopanishad again you know the story right he goes to Yamadharma and Yamadharma lures him with all wealth the guy says here is what it means
+If you look at shastras, they say that you have to be, you know, going away from prakriti, not indulging and overusing prakriti. Because the very word or very uddesha, paramapurushartha of shastra is moksha. The very, very word says getting rid of. Shrimad Bhagavata gives a definition of moksha as the following, right? Muktarhitva anyatha rupam swaroopena vyavasthitihi. Look at the, you know, the stark difference. Today's material world...
 
-### 00:10:17 · Speaker 2
+### 00:08:23 · Speaker 4
 
-Again I am a mathematician right, so I tell suppose you take a very very large number, whatever the largest number that you can think of, 1 followed by let us say million zeros, you put it down 1, 1 by that number leads to 0. So that is what Nachiketa says, he says even if you give me 1 billion years of life, it is going to end.
+The ultimate goal of today's material world is to exploit the nature and take everything that you can from the from the nature. Our shastra says give up everything that is not you. Anyatha rupam hitva swarupena vyavasthitihi muktih. So so shastra says the ultimate happiness that you are looking for don't exploit prakriti to get it. It's internal. So.
 
-### 00:10:40 · Speaker 2
+### 00:08:47 · Speaker 4
 
-Whatever is going to end is not something that I want. What do I do with anything that does not lead me to Amritattva? See, we never think about it. I know I keep telling my students all the time this. We do everything in our life, right? Assuming that we stay forever. Again, quoting Mahabharata, there is this Yaksha Prashna, where this Yaksha asks
+All your efforts have to be dedicated towards it. So now we come to the third level of shastra which is the metaphysical level of it. If you look at Upanishads, there are umpteen number of stories and narratives in Upanishads that talk about this. You know there is this famous famous conversation between the husband and wife, you know Yagnavalkya and Gargi in Brihadaranyaka, where you all know the story. This sage renounces everything and you know goes to a forest and his wife asks why are you going to.
 
-### 00:11:10 · Speaker 2
+### 00:09:17 · Speaker 4
 
-Dharmaraja, what is the biggest surprise in in this universe? Dharmaraja responds, Ahanyahani bhutani gamishanti amalayam shesha sthavaramichanti kimashcharyam atakparam. We see death every moment in this world, but the ones who live on will think that they will live on for eternity. What is more surprising than this?
+The forest. He gives all his material wealth to the wife and wife asks, "Why are you going to the forest?" He says, "You know, I have to get happiness. I have to get amritatva."
 
-### 00:11:32 · Speaker 2
+### 00:09:29 · Speaker 4
 
-So think about it, all of us are going to perish and all of our material possessions are going to perish. Now, I was thinking of, I was talking of relevance of Veda and Shastras, right? Today, if you go to western world, everybody says, you know, there is this one famous quotation, I don't want to take name, the greatest technological leader once said, stay hungry, stay foolish. You know who I am talking about. The meaning is, the guy says that never settled. So this is what capitalism tells us, right?
+Okay. Now the wife asks, Amritatva, can't I get it with wealth? He responds, Amritatvasya asha api nasti Gargi vittena. Don't even hope to have Amritatva with material wealth. So then she asks, what what should I do? Then she responds, this is the most beautiful line that I've seen in my life, which is, yenaham namrutasyam tenaham kim kuriyam. The one that does not lead to Amritatva. See, think about it for a.
 
-### 00:12:02 · Speaker 2
+### 00:09:59 · Speaker 4
 
-settle. So, you should never have Satchi. Always aim higher, always aim higher. People now, again I don't take names, but the ones who aim to send rockets to Mars, who aims to go to Mars and build their colonies are celebrated today. I would say that our Vedas and Upanishads gives you more ambition than his. Why? If you ask Nachiketa whether he wants to go to Mars, the guy says no. If I go to Mars,
+moment. This is, I mean, I thought this got by this thought by the kid Nachiketa who comes in, who appears in Kathopanishad. Again, you know the story, right? He goes to Yamadharma and Yamadharma lures him with all wealth. The guy says, api sarvam jeevitam alpam eva tavaiva vaha stavan nritta gite. Here is what it means. Again, I am a mathematician, right? So I'll tell. Suppose you take a very, very large number, whatever the largest number that you can think of, 1 followed by let's say million zeros. You put it down 1, 1.
 
-### 00:12:32 · Speaker 2
+### 00:10:29 · Speaker 4
 
-will I be Amrita if you say no he will say ya namam namrita syam te namam kingkuriyam why do I have to go to Mars to die
+by that number leads to zero. So that's what Nachiketa says. He says, even if you give me 1 billion years of life, it is going to end.
 
-### 00:12:44 · Speaker 2
+### 00:10:40 · Speaker 4
 
-Think about it, right? So what is the biggest ambition that all of us can have? It is this ambition of being happy for eternity. And this is what Shastras call as mumuksha.
+Whatever is going to end is not something that I want.
 
-### 00:12:58 · Speaker 2
+### 00:10:45 · Speaker 4
 
-Think about it, right? So now, I mean, you paint this picture to students. Why are you studying JEE? Oh, I want to go to IIT. Why are you, why do you want to go to IIT? Oh, I get whatever job. Why, why do you want to get a job to get to earn? Why do you earn, you know, to, to get some other material possession? Why do you want material possession to be happy? But all this is going to end in your death. Now, can you imagine any other, you know, any more ambitious way of projecting life than
+Yenaham namrutasyam tenaham kim kuriyam. What do I do with anything, okay, that does not lead me to amritatva.
 
-### 00:13:28 · Speaker 2
+### 00:10:55 · Speaker 4
 
-What shastras have done
+See we never think about it. I know I keep telling my students all the time this. We do everything in our life, right? Assuming that we stay forever. Again quoting Mahabharata, there is this Yaksha Prashna where this Yaksha asks Dharmaraja, what is the biggest surprise in in this universe? Dharmaraja responds, ahanyahani bhutani gamishyanti yamalayam shesha sthavaramichanti kimashcharyamato atah param. We see death every moment in this world.
 
-### 00:13:32 · Speaker 2
+### 00:11:25 · Speaker 4
 
-Unfortunately, today's science is limiting our our thinkings with material possessions. We have to transcend beyond materialism. The very possibility of existence. See now people will ask me now tell me what is the proof of existence of life beyond materialism and all that. That's why you have to come to it's like you know I I keep quoting this. Asking proof for existence of Atiindraya Pararthah is like asking a physicist
+But the ones who live on will think that they will live on for eternity. What is more surprising than this?
 
-### 00:14:02 · Speaker 2
+### 00:11:32 · Speaker 4
 
-Give me the proof of quantum entanglement
+So think about it, all of us are going to perish and all of our material possessions are going to perish. Now, I was thinking of, I was talking of relevance of Veda and Shastras, right? Today, if you go to Western world, everybody says, you know, there is this one famous quotation, I don't want to take name, the greatest technological leader once said, stay hungry, stay foolish. You know who I am talking about. The meaning is, the guy says that never settle. So this is what capitalism tells us, right? You should never.
 
-### 00:14:06 · Speaker 2
+### 00:12:02 · Speaker 4
 
-As a physicist, what would I say? Oh, go to class one, study alphabets, then study math, then study calculus, then study eto calculus. Then after 20 years, you will get to know what it is. People, you know, don't expect quantum physical answers in one minute, but they want us to prove the Atiindrayapadartha in five minutes.
+Settle. So you should never have santushti. Always aim higher, always aim higher. People now, again I I don't take names, but the ones who aim to send rockets to Mars, who who who aims to go to Mars and build their colonies are celebrated today.
 
-### 00:14:28 · Speaker 2
+### 00:12:19 · Speaker 4
 
-So if anybody is seriously interested, this is how, this is the story that I build in front of my students. Thankfully, these institutions attract the most intellectual people in our country. So if you give them logical explanations, they take it. And I'll tell you what, some of my IIT students are studying Shastra with me today.
+I would say that our Vedas and Upanishads gives you more ambition than than his. Why? If you ask Nachiketa whether he wants to go to Mars, the guy says no. If I go to Mars, will I be Amrita?
 
-### 00:14:53 · Speaker 2
+### 00:12:35 · Speaker 4
 
-I have convinced them to study Shastra for 20 years and then debate. I don't worry if they end up becoming Charvakas. At least they will become great Charvakas with great intellectual and logical conclusions. And you know, one of my students tell me that I come to you to learn and I stay here with you for 10 years just to prove that what you are saying is wrong. I said I am happy come and this guy is coming and this is the fifth year I am teaching him Naya Shastra because learn the way to think. Shastras make you learn how to learn.
+If you say no, he will say, "Yenaham namrthasyam tenaham kimkuryam." Why do I have to go to Mars to die?
 
-### 00:15:23 · Speaker 2
+### 00:12:44 · Speaker 4
 
-Use all those things and debate with me and I tell him that if you convince me that all the Atiindriya things does not exist, both of us become… both of us will become biggest materialist… materialist together. But use the correct tools. So, I will conclude. The question is not about why Shastra is relevant. The question is why are we not studying Shastras despite it being the most relevant thing in the world?
+Think about it, right? So what is the biggest ambition that all of us can have? It is this ambition of being happy for eternity. And this is what shastras call as mumuksha.
 
-### 00:15:52 · Speaker 2
+### 00:12:58 · Speaker 4
 
-I mean, people here know more than me. All these years of all the kinds of things that has happened to this country has put us in this particular position. But I think it's time, you know, again, Mahatma Bhagadaya Na, Etadrshaha Purushaha, Adyapisanti. And that is why, you know, we are still having people like Deva Vratis Sharma who are sitting here and being felicitated. We should be thankful to Bhagavaji and Sangha, you know, it's because of this it is happening. So,
+Think about it, right? So now, I mean, you paint this picture to students. Why are you studying JEE? Oh, I want to go to IIT. Why are you, why do you want to go to IIT? Oh, I get whatever job. Why, why do you want to get a job? To get, to earn. Why do you earn, you know, to to get some other material possession? Why do you want material possession? To be happy. But all this is going to end in your death. Now, can you imagine any other, you know, any more ambitious way of projecting life than.
 
-### 00:16:22 · Speaker 2
+### 00:13:28 · Speaker 4
 
-Aya Mukta, I will I will take leave and I'll I thank Sang and the Aya Jnans for giving me an opportunity as I told perhaps I don't belong in this stage but I am very thankful that I was given this opportunity so I will do a summary of a little thing that I said to my gurus and Bhagavan Sri Krishna Sri Krishna Pranamastha Thank you Pranamastha
+What shastras have done.
 
-### 00:16:50 · Speaker 1
+### 00:13:32 · Speaker 4
 
-shown us that our ancient Shastras are not just historical texts but living frameworks that can inform the most advanced technologies of the 21st centuries. We are truly grateful for your clarity and depth you have brought to this stage. Thank you so much sir.
+Unfortunately, today's science is limiting our thinking.
 
-### 00:17:12 · Speaker 1
+### 00:13:37 · Speaker 4
 
-Uttam Vakta or Sudhi Shrotake Vichme Adhik Samay Rehanahi Chahi Ataha Me Pujani Sarasangha Chala Dr. Mohan Bhagvat Mohadejiko Anuroth Kirti Hum Ki Ap Apni Ojasvi Vanise Sabhako Sambodhit Kare
+with material possessions. We have to transcend beyond materialism. The very possibility of existence. See now people will ask me, now tell me what is the proof of existence of life beyond materialism and all that. That's why you have to come to it's like you know I I keep quoting this. Asking proof for existence of atindriya padartha is like asking a a physicist, give me the proof of quantum entanglement.
+
+### 00:14:06 · Speaker 4
+
+As a physicist what would I say? Oh go to class one, study alphabets, then study math, then study calculus, then study Itok calculus, then after 20 years you will get to know what it is. People, you know, don't expect quantum physical answers in 1 minute, but they want us to prove the atindriya padartha in 5 minutes.
+
+### 00:14:28 · Speaker 4
+
+So if anybody is seriously interested, this is how, this is the story that I build in front of my students. Thankfully, these institutions attract the most intellectual.
+
+### 00:14:40 · Speaker 4
+
+people in the in in our country. So if you give them logical you know explanations they they take it. And I'll tell you what, some of my IIT students are studying shastra with me today.
+
+### 00:14:53 · Speaker 4
+
+I have convinced them to study shastra for 20 years and then debate. I don't worry if they end up becoming Charvakas, at least they will become great Charvakas with great intellectual and logical conclusions.
+And you know one of my students tell me that I come to you to learn and I stay here with you for 10 years just to prove that what you are saying is wrong. I said I am happy come and this guy is coming and this is the 5th year I am I am teaching him Nyaya shastra. Because learn the way to think. Shastras make you learn how to learn.
+
+### 00:15:23 · Speaker 4
+
+Use all those things and debate with me and I tell him that if you convince me that all the atheendriya things does not exist, both of us become, both of us will become biggest materialist together.
+
+### 00:15:36 · Speaker 4
+
+But use the correct tools. So, I'll conclude. The question is not about why shastra is relevant. The question is why are we not studying shastras despite it being the most relevant thing in the world.
+
+### 00:15:52 · Speaker 4
+
+I mean people here know more than me all these years of all the kinds of things that has happened to this country has put us in this particular position but I think it's time you know again Mahata Bhagadeyena etadrishah purushah adyapi santi.
+And that is why you know we are still having people like Devavrat Sharma who are sitting here and being felicitated we should be thankful to Bhagwat ji and Sangh you know that's because of this it is it is happening.
+So.
+
+### 00:16:22 · Speaker 4
+
+Evam uktva I will I will take leave and I'll I thank Sangha and the organizers for giving me an opportunity. As I told, perhaps I don't belong in this stage, but I am very thankful that I was given this opportunity. So I will do a samarpana of a little thing that I said to my gurus and Bhagavan Sri Krishna. Sri Krishna arpanamastu. Thank you. Namaste.
+
+### 00:16:50 · Speaker 2
+
+shown us that our ancient shastras are not just historical texts, but living frameworks that can inform the most advanced technologies of the 21st centuries. We are truly grateful for your clarity and depth you have brought to this stage. Thank you so much sir.
+
+### 00:17:12 · Speaker 2
+
+उत्तम वक्ता और सुधी श्रोता के बीच में अधिक समय रहना नहीं चाहिए। अतः मैं पूजनीय सरसंघचालक डॉक्टर मोहन भागवत महोदय जी को अनुरोध करती हूं कि आप अपनी ओजस्वी वाणी से सभा को संबोधित करें।
 
 ### 00:17:31 · Speaker 3
 
-Sabhi Mahanubhava Veda Murti Kumar Kareji Upasthit Sarjan Mata Bhagavan
+सभी महानुभाव, वेदमूर्ति कुमार काळे जी, उपस्थित सज्जन, माता भगिनि।
 
 ### 00:17:41 · Speaker 3
 
-Master Video we say up case I'm not to you again
+वास्तव में जो विषय आपके सामने आना चाहिए वो आ गया है।
 
 ### 00:17:45 · Speaker 3
 
-Or tamriti sagara
+And uttam reeti se aa gaya hai.
 
 ### 00:17:48 · Speaker 3
 
-Why are you talking
+Wahi baat hai.
 
 ### 00:17:52 · Speaker 3
 
-The carati who did you go do so restani
+Ladkhadati hui duniya ko doosra rasta nahi hai.
 
 ### 00:17:59 · Speaker 3
 
-I'm not sure
+Our pass woh rasta hai.
 
 ### 00:18:02 · Speaker 3
 
-In Hamare pas wo rastay isko ham kum jante vilkul nai jante esatoheni
+लेकिन हमारे पास वो रास्ता है इसको हम कम जानते हैं। बिल्कुल नहीं जानते ऐसा तो है नहीं।
 
-### 00:18:10 · Speaker 3
+### 00:18:09 · Speaker 3
 
-Okay I'm ready for the job
+Because our ancestors made this arrangement.
 
 ### 00:18:13 · Speaker 3
 
-The parastiti is very high
+Ki paristhiti kaisi bhi aa jaye.
 
-### 00:18:18 · Speaker 3
+### 00:18:17 · Speaker 3
 
-is with the other action of MGI
+This vidya ka rakshan hona chahiye.
 
 ### 00:18:22 · Speaker 3
 
-Get down on go
+ye gyan unko.
 
 ### 00:18:25 · Speaker 3
 
-No janae khe jane you go khe no go se mela
+न जाने कितने युगों के अनुभव से मिला।
 
 ### 00:18:31 · Speaker 3
 
-Be aj ki dunyato pachajar salka iti has diktii
+अभी आज की दुनिया तो पांच हजार साल का इतिहास देखती है ज्यादा से ज्यादा।
 
 ### 00:18:38 · Speaker 3
 
-Or is me an eek preo or no eekier
+And in that, they did many experiments.
 
 ### 00:18:44 · Speaker 3
 
-Ishwar Ram kikoi cheese I am anually lok bithaye
+ईश्वर नाम की कोई चीज है मानने वाले लोग भी थे।
 
 ### 00:18:48 · Speaker 3
 
-Uno nuevo progreso progreso
+Unhone us prakar se prayog kiye.
 
 ### 00:18:53 · Speaker 3
 
-Yo Rajasattagadhar Bharat Jali Malati Rajasattagibriyog
+जो राजसत्ता के आधार पर चलने वाले थे, राजसत्ता के प्रयोग हुए।
 
 ### 00:18:59 · Speaker 3
 
-Look us at tackle a Brayway
+Loksatta ke prayog hue.
 
 ### 00:19:03 · Speaker 3
 
-Vectori mata samuho ki mata dono ki prayog hai
+व्यक्ति की महत्ता, समूह की महत्ता, दोनों के प्रयोग हुए।
 
 ### 00:19:08 · Speaker 3
 
-How do you
+Har prayog.
 
 ### 00:19:11 · Speaker 3
 
-A do rep and me a separate room
+Adhurepan mein asafal raha.
 
 ### 00:19:15 · Speaker 3
 
-Joe David is a man of shokko Joe
+The claim was that it would give humans the
 
 ### 00:19:20 · Speaker 3
 
-Arjuko talash reeti he janmase he sukaki wo sukamile ga likin wo naime la
+हर जीव को तलाश रहती है जन्म से सुख की। वो सुख मिलेगा लेकिन वो नहीं मिला।
 
 ### 00:19:27 · Speaker 3
 
-So without any
+Facility.
 
 ### 00:19:30 · Speaker 3
 
-Bhakti Duniya Gyanbara
+bahar ki duniya ka gyan badha.
 
 ### 00:19:33 · Speaker 3
 
-Bruno Jibunto do Quira
+But life is sad.
 
 ### 00:19:37 · Speaker 3
 
-Kuchu loga kasuki wa subkani wa
+Some people became happy, not everyone.
 
 ### 00:19:42 · Speaker 3
 
-So sampurna sushruti keli sampurna or shashwat suk
+तो संपूर्ण सृष्टि के लिए संपूर्ण और शाश्वत सुख।
 
 ### 00:19:48 · Speaker 3
 
-You do
+This is
 
-### 00:19:51 · Speaker 3
+### 00:19:50 · Speaker 3
 
-Manush Vichar Karna Valla Pranii
+Manushya vichar karne wala prani.
 
 ### 00:19:54 · Speaker 3
 
-Uski picha dhotah hai wo uski liye k murga marichika hai
+uske peeche daudta hai.
+
+### 00:19:57 · Speaker 3
+
+वो उसके लिए एक मृग मरीचिका ही रह गई।
 
 ### 00:20:01 · Speaker 3
 
-Don't keep moving the rusty horn the other rapan
+क्योंकि मूल में दृष्टिकोण में अधूरापन है।
 
 ### 00:20:08 · Speaker 3
 
-Zoro
+Jad.
 
 ### 00:20:11 · Speaker 3
 
-Prakriti hai usmissi jana partha
+प्रकृति है, उसमें से जाना पड़ता है।
 
 ### 00:20:16 · Speaker 3
 
-to generate a pretty good idea
+परंतु जड़ प्रकृति भी आई कहाँ से है?
 
 ### 00:20:20 · Speaker 3
 
-Would you like any
+That consciousness will come.
 
 ### 00:20:24 · Speaker 3
 
-Jada Prakriti Sadhar 18
+or the inert nature is not always there.
 
 ### 00:20:29 · Speaker 3
 
-And a precuity head of you would scannovassa da o sippa recar caniota
+यानी प्रकृति है तो भी उसका अनुभव सदा उसी प्रकार का नहीं होता है।
 
 ### 00:20:37 · Speaker 3
 
-I think I've got to go to the bathroom
+आप एखादी अच्छी चीज खाएंगे आपको अच्छी लगेगी और खाएंगे। लेकिन खाते-खाते एक समय आएगा ना जब आप उसको देखना भी नहीं चाहेंगे।
 
 ### 00:20:48 · Speaker 3
 
-So to was to do have the good usmejo sukata wo abneira kyo kyo ki sukha smetai ni
+तो वस्तु तो है वो। लेकिन उसमें जो सुख था वो अब नहीं रहा। क्यों? क्योंकि सुख उसमें था ही नहीं।
 
 ### 00:20:57 · Speaker 3
 
-Sukh abhi ke ander jo chaita ne huzmeta
+सुख आपके अंदर जो चैतन्य है उसमें था।
 
 ### 00:21:03 · Speaker 3
 
-Who's Chaitanya God Hanmy Rakar is Jyotirnath Parkermana
+उस चैतन्य को ध्यान में रखकर इस जड़त्व को पार करना है।
 
 ### 00:21:09 · Speaker 3
 
-Vidome material science
+So, in the Vedas, material science is not there, it is not like that.
 
 ### 00:21:14 · Speaker 3
 
-Agvandi gita mukha hai tri gunya vishaya hai
+God ne Gita mein kaha hai. Triguanya vishayaah vedaah.
 
 ### 00:21:20 · Speaker 3
 
-This trigonometry how are you now
+Nistrayagonyo bhavarjuna.
 
 ### 00:21:24 · Speaker 3
 
-Vedme wobi he likin vedme nistraygunya honeka upai bihe prakrti ke pare jaka apne shudha chaitanya ke bhotko pane ka bihe
+वेद में वो भी है लेकिन वेद में निस्त्रैगुण्य होने का उपाय भी है। प्रकृति के परे जाकर अपने शुद्ध चैतन्य के बोध को पाने का भी उपाय है।
 
 ### 00:21:39 · Speaker 3
 
-Sleve vodo vado akilam dharma mulam ka
+इसलिए वेदो अखिलम धर्म मूलम कहा है।
 
 ### 00:21:45 · Speaker 3
 
-Sab dharma ka mool I mean dharma sab dharma ka artha kya karna
+सब धर्मों का मूल। अभी धर्म शब्द का अर्थ क्या करना?
 
 ### 00:21:52 · Speaker 3
 
-What be um upper body full weightage
+We also forgot our language when.
 
 ### 00:21:56 · Speaker 3
 
-So I'm not sure religion
+to we usko religion bana diya.
 
 ### 00:22:01 · Speaker 3
 
-Dharma vastavik dharanakarta Jisni amse surushi utpannohi chalraaye vilayogi hirsha utpannohi oni am dharma
+धर्म वास्तविक धारणा करता है। जिस नियम से सृष्टि उत्पन्न हुई, चल रही है, विलय होगी, फिर से उत्पन्न होगी, वो नियम धर्म है।
 
-### 00:22:14 · Speaker 3
+### 00:22:13 · Speaker 3
 
-It's clear
+And therefore.
 
 ### 00:22:16 · Speaker 3
 
-Sharir milahe to sharir mandhudhikhe jivan se janahe
+शरीर मिला है तो शरीर मन बुद्धि के जीवन से जाना है।
 
 ### 00:22:22 · Speaker 3
 
-Muske li artha purushtha kamupurushtha dono avasakhe dekin unko dharmake anusasan me mukshakita rafchalanahe kyunki paramosukhaki prapti yegar jivon kalakshay tovo prapti usi se huki
+उसके लिए अर्थ पुरुषार्थ काम पुरुषार्थ दोनों आवश्यक हैं। लेकिन उनको धर्म के अनुशासन में मोक्ष की तरफ चलाना है। क्योंकि परम सुख की प्राप्ति ये अगर जीवों का लक्ष्य है तो वो प्राप्ति उसी से होगी।
 
 ### 00:22:42 · Speaker 3
 
-Or is that Manu Siddhu and Galak say
+And therefore, the goal of human life is.
 
 ### 00:22:47 · Speaker 3
 
-Was param giprapakaran
+us param ki prapti karna.
 
 ### 00:22:51 · Speaker 3
 
-GNAKLEH even survival is an E
+For living, life, survival, it's not like that.
 
 ### 00:22:56 · Speaker 3
 
-Gina were natural leader John major and wonder cake
+जीना मरना चलते रहता है, जन्म जन्मांतर का खेल है।
 
 ### 00:23:01 · Speaker 3
 
-Likin jinam barne ke khele me jite jite par ho jala
+लेकिन जीने मरने के खेल में जीते जीते पार हो जाना है।
 
 ### 00:23:09 · Speaker 3
 
-He's the G1 head
+Isliye jeevan hai.
 
 ### 00:23:11 · Speaker 3
 
-Or isle ye in donoki bat we do me we dafna
+And so, the matter of these two is in the Vedas; the Vedas are our own.
 
 ### 00:23:17 · Speaker 3
 
-Kabikibi bat karte wa daur wajjana sake te wujelataye aur mikaal dena chai
+कभी-कभी बात करते हैं वेद और विज्ञान ऐसा कहते हैं। मुझे लगता है ये और निकाल देना चाहिए।
 
 ### 00:23:26 · Speaker 3
 
-Okay whether we with Nani or whether he with Nani
+क्योंकि वेद भी विज्ञान ही है और वेद ही विज्ञान है।
 
 ### 00:23:33 · Speaker 3
 
-Vidyanandini science is our theme
+विज्ञान यानी साइंस इस अर्थ में हम कहते हैं ना।
 
 ### 00:23:37 · Speaker 3
 
-Janam with Janamastik with Janamakaram
+ज्ञानम विज्ञानम आस्तिक वो विज्ञान नहीं कह रहा हूं मैं।
 
 ### 00:23:42 · Speaker 3
 
-Begin with our science Isaketi With science here again
+लेकिन वेद और साइंस ऐसा कहते हैं। तो वेद साइंस नहीं है क्या?
 
 ### 00:23:50 · Speaker 3
 
-Jobate keval bahar dekhen nahe dikshakti Lekin surshti jistechalti hai aisi bate dekhne kili hai aadhar dekhna partha
+जो बातें केवल बाहर देख के नहीं दिख सकती लेकिन सृष्टि जिससे चलती है ऐसी बातें देखने के लिए अंदर देखना पड़ता है।
 
 ### 00:24:02 · Speaker 3
 
-Akhi dunya rugay bar dekte dekte nahe mila kuch to
+baki duniya ruk gayi bahar dekhte dekhte nahi mila kuch to.
 
 ### 00:24:08 · Speaker 3
 
-But to go i
+Ab to koi.
 
 ### 00:24:10 · Speaker 3
 
-Upayini kubisa bharde kune valai kan bharke suntime ag bharke diktay
+उपाय ही नहीं है क्योंकि सब बाहर देखने वाला है। कान बाहर का सुनते हैं, आंख बाहर के देखते हैं।
 
 ### 00:24:17 · Speaker 3
 
-If Durbin lagali to ajada de krenali microscope lagali to suksma de krenali
+दूरबीन लगा ली तो आग ज्यादा देखने लगी। माइक्रोस्कोप लगा लिया तो सूक्ष्म देखने लगी। लेकिन उसकी भी एक मर्यादा है।
 
 ### 00:24:28 · Speaker 3
 
-I will show you
+Ab uske aage dekh hi nahi sakte.
 
 ### 00:24:31 · Speaker 3
 
-Oh manusha kasa abhavi kankar katha jo mujhe dikhta hai wo hene
+तो मनुष्य का स्वाभाविक अहंकार कहता है जो मुझे दिखता नहीं वो है नहीं।
 
 ### 00:24:38 · Speaker 3
 
-You know what I'm saying
+Jo mujhe theek nahi lagta wo theek nahi hai.
 
-### 00:24:43 · Speaker 3
+### 00:24:42 · Speaker 3
 
-You might as well stop with eight TK
+Jo main samajhta hoon wahi theek hai.
 
 ### 00:24:47 · Speaker 3
 
-This is
+This ego ke chalte duniya ruk gayi.
 
 ### 00:24:51 · Speaker 3
 
-Amare Purva Jone Jo Jivan Ka Anubha Liyatha Uske Chalte O Vinamra Banga
+Our ancestors, who experienced life, became humble because of that.
 
 ### 00:24:59 · Speaker 3
 
-Unone so jaggi bahar agar me di cry
+aur unhone socha ki bahar agar nahi dikh raha hai.
 
 ### 00:25:04 · Speaker 3
 
-So trassuce ki ye cone he jiska diktaye jiska cone diktaye
+तो थोड़ा सोचे कि ये कौन है जिसको दिखता है या जिसको नहीं दिखता है वो कौन है।
 
 ### 00:25:13 · Speaker 3
 
-Akoko diktaheli ken akoko me diktahokoene
+aankhon ko dikhta hai lekin aankhon mein dekhta kaun hai?
 
 ### 00:25:17 · Speaker 3
 
-Active enterena
+Aag to ek yantra hai na.
 
 ### 00:25:21 · Speaker 3
 
-Narneke bat dogante kandar nikaldiya so dusarne ke bika maanadi
+mrne ke baad do ghante ke andar nikal diya to dusri ke bhi kaam aati hai.
 
 ### 00:25:26 · Speaker 3
 
-What machine there?
+Oh machine.
 
 ### 00:25:28 · Speaker 3
 
-You can have a look at it
+Dekhne wala kaun hai?
 
 ### 00:25:33 · Speaker 3
 
-Uska author Hamne under Khoa Ja Islaam Comilla
+Uska uttar humne andar khoja isliye humko mil gaya.
 
 ### 00:25:38 · Speaker 3
 
-Uscad Harper
+And based on that, a.
 
 ### 00:25:43 · Speaker 3
 
-Vishwa Dharma Manav Dharma Jiswa Dharma I'm Hindu Dharma Kayدي
+विश्व धर्म, मानव धर्म जिसको आजकल हम हिंदू धर्म कहते हैं।
 
-### 00:25:51 · Speaker 3
+### 00:25:50 · Speaker 3
 
-Rtama Vishwa Aravarti Samskriti
+Or prathama vishvavara Bharatiya sanskriti.
 
 ### 00:25:55 · Speaker 3
 
-Muske under dhal kur hamara samajek rast ravanam
+Uske andar dhal kar hamara samaj ek rashtra bana.
 
 ### 00:26:00 · Speaker 3
 
-Sraatra kapriyo jani vo etad desha prasuta sijo kage avi
+उस राष्ट्र का प्रयोजन ही वो है। एतद्देशप्रसूतस्य जो कहा गया अभी।
 
 ### 00:26:07 · Speaker 3
 
-Gee one of the just a
+Jeevan Vidya Sikhana.
 
 ### 00:26:11 · Speaker 3
 
-Yo bhautik jivan miltaye uska samna karte hue usme se amrutatvako praptohana avidyaya mrtyam tirtva vidyaya mrtyam usnute ye tarika kaise hota he udhuniyo sikhana ye hamlo gonga prayojanhe
+जो भौतिक जीवन मिलता है उसका सामना करते हुए उसमें से अमृतत्व को प्राप्त होना।
+अविद्यया मृत्युं तीर्त्वा विद्ययामृतमुश्नुते।
+ये तरीका कैसा होता है वो दुनिया को सिखाना ये हम लोगों का प्रयोजन है।
 
 ### 00:26:31 · Speaker 3
 
-O prayojan sadar hene valahe isliye saprakarke apati yonse bhakkar amara samaj
+वो प्रयोजन सदा रहने वाला है। इसलिए सब प्रकार के आपत्तियों से बचकर हमारा समाज।
 
 ### 00:26:41 · Speaker 3
 
-Agitalki
+Aage chalta aaya hai.
 
 ### 00:26:44 · Speaker 3
 
-So I think we should have a team meeting tomorrow
+Jo kehte kuch baat hai ki hasti mitati nahi hamari.
 
-### 00:26:49 · Speaker 3
+### 00:26:48 · Speaker 3
 
-Who could you bat here by that
+Wo kuch baat ye baat hai.
 
 ### 00:26:52 · Speaker 3
 
-Samayi samayi par duniyako jo bodha dena parega us bodh kas roth amare pase uski adhar par hamara prana jivan karavu or ham duniyako dikhe
+समय-समय पर दुनिया को जो बोध देना पड़ेगा, उस बोध का स्रोत हमारे पास है। उसके आधार पर हमारा अपना जीवन खड़ा हो और हम दुनिया को दिखाएं।
 
 ### 00:27:05 · Speaker 3
 
-Yamarakortov
+This is our duty.
 
 ### 00:27:08 · Speaker 3
 
-For Istliye Shariri Kakramon huye Shastron saatyajarki yega Budhiko bharta ki yega Atma visrut banane ke prayatno huye Hambi kabhi kabhi vilasi taka karan bulge Isab honeke bhabhi Prishe hamlo kade huye
+और इसलिए शारीरिक आक्रमण हुए, शस्त्रों से अत्याचार किए गए, बुद्धि को भ्रष्ट किया गया, आत्मविस्मृत बनाने के प्रयत्न हुए। हम भी कभी-कभी विलासिता के कारण भूल गए। ये सब होने के बाद भी फिर से हम लोग खड़े हो रहे हैं।
 
 ### 00:27:28 · Speaker 3
 
-A vichar gije nyati tihasme hajar varshoka itna kharap kalkanda jalka
+आप विचार कीजिए ज्ञात इतिहास में हजार वर्षों का इतना खराब खालखंड झेलकर।
 
 ### 00:27:37 · Speaker 3
 
-Or lugbug niche rasat alme jaka purse uparutkar
+और लगभग नीचे रसातल में जाकर फिर से ऊपर उठकर।
 
 ### 00:27:45 · Speaker 3
 
-The chatur shau or shankhi avdime pirsay duniyaki asha banne wala dusra koi deshane
+पचहत्तर सौ वर्षों की अवधि में फिर से दुनिया की आशा बनने वाला दूसरा कोई देश है नहीं।
 
 ### 00:27:57 · Speaker 3
 
-Don't keep a merry pass again hey
+Because we have this knowledge.
 
 ### 00:28:02 · Speaker 3
 
-Or abito graje
+Aur abhi tak raha hai.
 
 ### 00:28:05 · Speaker 3
 
-Jyanki sadhana bhavatsaralogone chordi lekin ek vargara jo saprakarke parishatime saprakarke kshatpa jhelkar jesa kahaghi aki nishkara ise kya milaga esawal ki abina
+उस ज्ञान की साधना बहुत सारे लोगों ने छोड़ दी। लेकिन एक वर्ग रहा जो सब प्रकार की परिस्थिति में सब प्रकार के कष्ट झेलकर जैसा कहा गया कि निष्कारण इससे क्या मिलेगा यह सवाल किए बिना।
 
 ### 00:28:24 · Speaker 3
 
-Srdha Vishwaspurva
+Shraddha vishwaspurvak.
 
 ### 00:28:27 · Speaker 3
 
-Peace with you Jyotirmohan Karmakili Abha Jeevan Lagata
+इस विद्या को जतन करने के लिए अपना जीवन लगाता रहा।
 
 ### 00:28:32 · Speaker 3
 
-Hey so much fun who are you
+I understand today what.
 
 ### 00:28:35 · Speaker 3
 
-Sanda krama Vikrama Ditya Deva pratikhe jika Avyananda namlo kare ho jane anjane amare vija ki yajukrta dnyata ho uska vishkare
+दंडक्रम विक्रमादित्य देवव्रत रेखे जी का अभिनंदन हम लोग कर रहे हैं। वो जाने अनजाने हमारे हृदय की ये जो कृतज्ञता है उसका आविष्कार है।
 
 ### 00:28:50 · Speaker 3
 
-The Krutanatha I have an eighth degree
+Ye krutagnata ye apane ek tarah se.
 
 ### 00:28:54 · Speaker 3
 
-Lekhi ye bi jo bataye gaye abadne pratijini jo bataye ye apke wal krutad netazika amni jalega
+लेकिन ये भी जो बताया गया बाद में प्रतोष जी ने जो बताया कि अब केवल कृतज्ञता से काम नहीं चलेगा।
 
 ### 00:29:02 · Speaker 3
 
-Sayatato hogi hi parantu hamsablogon ko paise usubodho praptakarna
+सहायता तो होगी ही परंतु हम सब लोगों को फिर से उस बोध को प्राप्त करना पड़ेगा।
 
 ### 00:29:11 · Speaker 3
 
-Or Usabot car
+And that bodh ka.
 
 ### 00:29:14 · Speaker 3
 
-Rachalin Hamari Samaj me Purunata tha
+Prachalan hamare samaj mein purnatah tha.
 
 ### 00:29:19 · Speaker 3
 
-Which make a big maria dog which Paris did take a dog
+usme kabhi maryada aa gayi kuch paristhiti ke karan aa gayi hogi.
 
 ### 00:29:24 · Speaker 3
 
-Oh merry Samatha Ek orga Dyanira
+So our society's one class remained ignorant.
 
 ### 00:29:30 · Speaker 3
 
-I can't work here anymore
+Ek hi varg gyani ban gaya.
+
+### 00:29:32 · Speaker 3
+
+Iske chalte bhi bahut nuksan hua hai.
 
 ### 00:29:36 · Speaker 3
 
-Dhire dhire is vidyaka jatankarne mala luga hi is vidyaka prakashme esar rastadhundey
+धीरे-धीरे इस विद्या का जतन करने वाले लोग ही इस विद्या के प्रकाश में ऐसा रास्ता ढूंढे।
 
 ### 00:29:45 · Speaker 3
 
-I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of the verse is but I am sure that it is a verse that is very meaningful I am not sure what the meaning of
+कि संपूर्ण सृष्टि को एक शाश्वत अस्तित्व प्रदान करने वाला अमरता का वरदान देने वाला ये जो ज्ञान है। ये ज्ञान पहले हमारे समाज के सब लोगों में।
+
+### 00:30:00 · Speaker 3
+
+प्रस्फुरित हो। उसके प्रकाश में सब लोग अपना-अपना कर्तव्य करते हुए भौतिक जीवन जीते-जीते आध्यात्मिकता को कैसे प्राप्त करना इसकी जीवन विद्या सीखें, इसकी कला सीखें।
 
 ### 00:30:16 · Speaker 3
 
-Yeah I'm saying I don't need a car and I need to go to work
+ये होने से ही दुनिया का तारण है, नहीं तो नहीं।
+
+### 00:30:20 · Speaker 3
+
+Koi upay nahi hai.
 
 ### 00:30:24 · Speaker 3
 
-Dharma just sub dharma came all the way there oh dharma he upai hey baki koi bautik shastriska upai ni hosakta
+धर्म जिस सब धर्मों के मूल भेद है वो धर्म ही उपाय है। बाकी कोई भौतिक शास्त्र इसका उपाय नहीं हो सकता।
 
 ### 00:30:36 · Speaker 3
 
-He be he got time every day he had to
+शिबी की कथा मैंने बताई है कई बार।
 
 ### 00:30:40 · Speaker 3
 
-Kabutaratahe Rajakidharbarmeh Chukjatahe Rajakipas Rajajuskosarinditah Usko kanevala bache picheseatahe or Kabutar ki mankar taha
+तो कबूतर आता है राजा के दरबार में छुप जाता है राजा के पास। राजा उसको शरण देता है। उसको खाने वाला बाज पीछे से आता है और कबूतर की मांग करता है।
 
 ### 00:30:53 · Speaker 3
 
-So Rajagat Iki Umariprajahe Uska Sarakshan Karna Meradharme Mayetume Utkok Honey Nidu
+तो राजा कहता है कि वो मेरी प्रजा है। उसका संरक्षण करना मेरा धर्म है। मैं तुम्हें उसको खाने नहीं दूंगा।
 
 ### 00:31:01 · Speaker 3
 
-It's a box over here
-
-### 00:31:03 · Speaker 3
-
-Rajagopadhyaya Prayogi Suroksa Orishle Vajko Kanneh Hidde
+एक पक्ष हो गया। राजा का कर्तव्य है प्रजा की सुरक्षा और इसलिए बाज को खाने नहीं देगा।
 
 ### 00:31:11 · Speaker 3
 
-Dusrapaksha Kapudarve Apna Pranbhatan Apna Dharma
+दूसरा पक्ष कबूतर भी है, अपना प्राण बचाना अपना धर्म है।
 
 ### 00:31:17 · Speaker 3
 
-Those cold brews smelled like
+To uska upay usne kiya hai.
 
 ### 00:31:22 · Speaker 3
 
-Take in baji kishti gimi ravi ek paashey mude prakrutini diya hai ye ane mẽ
-
-### 00:31:28 · Speaker 3
-
-Two marriages that's for us
+लेकिन बाज कैसा है कि मेरा भी एक पक्ष है। मुझे प्रकृति ने दिया है, यह अन्न है मेरा। मैं तुम्हारे जैसा घास-फूस खा के नहीं जी सकता।
 
 ### 00:31:32 · Speaker 3
 
-Yeah me radharmaya prokutinam mujhe diya
+ये मेरा धर्म है, प्रकृति ने मुझे दिया है।
 
 ### 00:31:36 · Speaker 3
 
-So if you want to get the same thing
+Tum is dharm ka ullanghan karte hue apne dharm ki duhai kaise de sakte ho?
 
 ### 00:31:42 · Speaker 3
 
-Dharma sadā sarvāda ananda dāyhoti kīśika dukhīyena dharma sapko unatkartai sapko sukhdetai
+धर्म तो सदा सर्वदा आनंददायी होता है। किसी को दुख दिए बिना धर्म सबको उन्नत करता है। सबको सुख देता है।
 
 ### 00:31:54 · Speaker 3
 
-I'll be scanning your neck yeah
+Ab iska nirnay kya hai?
 
 ### 00:31:58 · Speaker 3
 
-Subsidiary jurisprudence deshme duniya me jahapre mahaka jurisprudence laka viva charkare to iskakoyupa hekya
+सबसे अच्छा ज्यूरिसप्रूडेंस देश में या दुनिया में जहां पर है वहां का ज्यूरिसप्रूडेंस लाके भी विचार करें तो इसका कोई उपाय है क्या?
 
 ### 00:32:09 · Speaker 3
 
-Miska pa Turkusenia
+Iska upay tark se nahi hai.
 
 ### 00:32:14 · Speaker 3
 
-I will say that I will be able to do this in the future I will be able to do this in the future
+तीन ही पर्याय है आज के किसी भी ज्यूरिसप्रूडेंस के सामने। या तो बाज को कबूतर को खाने दो। नहीं तो बाज को भूखा मरने दो। या तो राजा कहे कि इन मामलों से राज्य का कोई संबंध नहीं।
 
 ### 00:32:32 · Speaker 3
 
-Would you be able to say he said he can't look down on you
+Some people are not getting the benefit.
 
-### 00:32:38 · Speaker 3
+### 00:32:37 · Speaker 3
 
-Samasya I see a ask a dunya kesa amne yesaari samasya satya naya sablok jante parantu esa pratna jabata tab satya naya sablok jante
+समस्या ऐसी है आज के दुनिया के सामने ये सारी समस्याएं हैं। सत्य है, न्याय है, सब लोग जानते हैं। परंतु ऐसा प्रश्न जब आता है तब सत्य और न्याय साथ में कहां मिलेंगे?
 
 ### 00:32:53 · Speaker 3
 
-Abhi Shibi Rajaket to maribhi bhatse
+Tabsiibi Raja says that your point is also correct.
 
 ### 00:32:57 · Speaker 3
 
-Subka dharma re nai changeya or easily a
+Sabka dharm rehna chahiye aur isliye.
 
 ### 00:33:02 · Speaker 3
 
-To non-vegetarian we have to eat meat and fish and we have to eat vegetables and fruits and vegetables and fruits and vegetables and we have to eat meat and fish and we have to eat vegetables and fruits and vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we have to eat meat and fish and we have to eat vegetables and fruits and we
+तुम नॉन वेजिटेरियन हो ये बात सही है लेकिन कबूतर ही खाओगे ऐसा तो है नहीं। तुमको मांस चाहिए। तो कबूतर के वजन के बराबर मेरा मांस काट के मैं देता हूं उसको खाओ। तो मेरा भी व्रत धर्म रह जाता है कबूतर का भी रहता है तुम्हारा भी रहता है।
 
 ### 00:33:20 · Speaker 3
 
-You tiaga
+Jo tyag hai.
 
 ### 00:33:23 · Speaker 3
 
-Dharma ke liye Raja Apne maushtiya karti karti Kartavya palank liye Swayamnuksa nsaankar
+धर्म के लिए राजा अपने मांस का त्याग करता है। कर्तव्य पालन के लिए स्वयं नुकसान सहन करता है।
 
 ### 00:33:33 · Speaker 3
 
-Harmarakshaki Jemewari is with Dagirakshaki Jemewari Marya Paniya
+धर्म रक्षा की जब जिम्मेवारी इस विद्या के रक्षा की जिम्मेवारी मेरी अपनी है।
 
 ### 00:33:42 · Speaker 3
 
-Makorunga or Makorunga or Darmakorunga or Darmobari
+मैं करूंगा और मैं करूंगा धर्म करूंगा तब धर्म बढ़ेगा।
 
 ### 00:33:49 · Speaker 3
 
-Now the Dharma car raki rakhaga runda Dharma may be rakhaga
+मैं धर्म की रक्षा करूंगा, धर्म मेरी रक्षा करेगा।
 
-### 00:33:56 · Speaker 3
+### 00:33:55 · Speaker 3
 
-Ye jo ek jivan ka tarika hai
+ye jo ek jeevan ka tareeka hai.
 
-### 00:34:00 · Speaker 3
+### 00:33:59 · Speaker 3
 
-O jivan katarika am sab log noko apne jivan me sthapit karna parega
+वो जीवन का तरीका हम सब लोगों को अपने जीवन में स्थापित करना पड़ेगा।
 
 ### 00:34:09 · Speaker 3
 
-Jo sabki unnatikarta he sabko exatraktaha bhikarne nidhita trutne nidhita sabko saath me agay barata he
+Jo sabki unnati karta hai, sabko ek saath rakhta hai, bikharne nahi deta, tootne nahi deta, sabko saath mein aage badhata hai.
 
 ### 00:34:21 · Speaker 3
 
-Famutkarsh or Nishriyas dono ki pratikaradetahi
+समुत्कर्ष और निश्रेयस दोनों की प्राप्ति करा देता है।
 
 ### 00:34:26 · Speaker 3
 
-Ape a prey protect case of how can we serve with her man
+Apne apne pratyak ke swabhav ke anusar vo bhi dharm hai.
 
 ### 00:34:31 · Speaker 3
 
-I'm sub-logonke carto weka nirdharankatai wo be der ma
+हम सब लोगों के कर्तव्य का निर्धारण करता है, वो भी धर्म है।
 
 ### 00:34:37 · Speaker 3
 
-Usa dharmakisthapana upane jivan me karmi hai Us dharmakadar satke
+उस धर्म की स्थापना अपने जीवन में करनी है। उस धर्म का आधार सत्य है।
 
 ### 00:34:45 · Speaker 3
 
-Or was that here
+And that's the truth.
 
 ### 00:34:47 · Speaker 3
 
-Purna satya praptta tabhutaya jyapam ander dekte jyapam adhatmak sadanadar
+पूर्ण सत्य प्राप्त तब होता है जब हम अंदर देखते हैं, जब हम आध्यात्मिक साधना करते हैं।
 
 ### 00:34:55 · Speaker 3
 
-To Sadharana Marga where the precious ꜱ
+us sadhana ka marg ved prashast karte hain.
 
-### 00:35:01 · Speaker 3
+### 00:35:00 · Speaker 3
 
-With i suprakarki sadhana uka usmi sanga he With u mi suprakarka ganbi he
+वेद ये सब प्रकार की साधनाओं का उसमें संग्रह है।
 
-### 00:35:10 · Speaker 3
+### 00:35:06 · Speaker 3
 
-Traygunya visheshi vedme he likin vedokha patanus kili inikarna mistry gunya hone kili inikarna
+Vedas mein sab prakar ka gyan bhi hai.
+
+### 00:35:09 · Speaker 3
+
+परंतु जैसा कहा गया त्रैगुण्य विषय वेद में है लेकिन वेदों का पठन उसके लिए नहीं करना है। निस्त्रैगुण्य होने के लिए करना है।
 
 ### 00:35:21 · Speaker 3
 
-Yeah but ajme apke samne bol sakrango
+ye baat aaj main aapke saamne bol sak raha hoon.
 
 ### 00:35:26 · Speaker 3
 
-My name is Hans Krugart Denega
+I have not studied Sanskrit.
 
 ### 00:35:29 · Speaker 3
 
-Mujhe wa te kewal sunkar he malaума
+Mujhe Ved keval sunkar hi maloom hai.
 
 ### 00:35:33 · Speaker 3
 
-Shirbi ma bol sakta hu iska karantya hai usvega vidyaka pidi dar pidi prathastar hikar jatan karne vale kutumba mari hai
+फिर भी मैं बोल सकता हूं। इसका कारण क्या है? उस वेद विद्या का पीढ़ी दर पीढ़ी व्रतस्थ रहकर जतन करने वाले कुटुंब हमारे यहां हैं।
 
 ### 00:35:48 · Speaker 3
 
-Or isliye ab sabki or se un sabke pratimay krutadnata vyarthakarthamu abhilandan kartamu ese sab parivarunka or is bhakt ko samachkar ham sablo gage avapmi jivan me chale apna jivan thikare deshka jivan thikare duniya ka jivan thikho jayega ushi ke liye bhartwar se or esa bhartwar se bananikli amsablo ghe es sabhakt kar chale itni bhakt kainiti
+और इसलिए आप सबकी ओर से उन सबके प्रति मैं कृतज्ञता व्यक्त करता हूँ, अभिनंदन करता हूँ ऐसे सब परिवारों का और इस बात को समझ कर हम सब लोग आगे अब अपने जीवन में चलें, अपना जीवन ठीक करें, देश का जीवन ठीक करें, दुनिया का जीवन ठीक हो जाएगा। उसी के लिए भारतवर्ष है और ऐसा भारतवर्ष बनाने के लिए हम सब लोग हैं, ये समझ कर चलें। इतनी बात कहनी थी।
 
 ### 00:36:18 · Speaker 3
 
-Bakito subbatadi ha protosjene uka manangije
+बाकी तो सब बता दिया है प्रतोष जी ने, उसका मनन कीजिए।
 
 ### 00:36:23 · Speaker 3
 
-I want to go to Samyane and I want to come I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go to Samyane and I want to go
+विद्वान लोगों को समझाने में आपको वो काम आएगा। लेकिन इस सबका सारांश यही है कि हमको ऐसी विद्या जतन करने वालों का समर्थन करना है, उनका पोषण हो ये देखना है, उसके आधार पर अपने जीवन में परिवर्तन लाना है। वो बोध लेकर आप सब लोग जाइए। इतना एक अनुरोध रखता हूं। बहुत-बहुत धन्यवाद।

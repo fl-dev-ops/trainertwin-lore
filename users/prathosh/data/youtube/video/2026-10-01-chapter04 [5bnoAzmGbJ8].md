@@ -4,11 +4,13 @@ title: chapter04
 url: https://www.youtube.com/watch?v=5bnoAzmGbJ8
 date: '2026-10-01'
 duration: 00:07:59
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter04
@@ -17,64 +19,195 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atachaturthodhyayaha Jnana karma sannyasa yogaha Sribhagavanubhaja Imam vivasvate yogam prakta vana hama vyayam vivasvan manave praha manureksva kave bravit evam param param praptamimam rajarasya viduhu sakale nehamahata yoga nashtav parantapa
+अथ चतुर्थोऽध्यायः।
+ज्ञानकर्मसन्न्यासयोगः।
+श्रीभगवानुवाच।
+इमं विवस्वते योगं प्रोक्तवानहमव्ययम्।
 
-### 00:00:33 · Speaker 1
+### 00:00:18 · Speaker 1
 
-Sāyavāyam mayate jayoga prakta puratanaha bhaktosīme sakha ceti rahasyam hetaduttamam arjuna uvāca aparam bhavato janma paranjana vivasvataḥ katame tadvijaniyantvamada uvakta va niti sri bhagava uvāca bhūnime vyatitani janma nitya vācārjuna
+विवस्वान् मनवे प्राहमनुरिक्ष्वाकवे ब्रवीत्। एवं परम्परा प्राप्तमिमं राजर्षयो विदुः।
 
-### 00:01:03 · Speaker 1
+### 00:00:28 · Speaker 1
 
-Tanyam vedasaravadinatvam veta parantapa ajopisanavyayatma bhuta namishvaropisan prakritim svamadeshtayasampavamyatmamaya yadayadahidarmasya glanirbhavati bhārata abhyutana madharmasyata datmanam srjamyam
+स काले नेहमहता योगो नष्टः परन्तप।
+स एवायं मया तेद्ययोगः प्रोक्तः पुरातनः।
+भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम्।
+
+### 00:00:44 · Speaker 1
+
+अर्जुन उवाच।
+अपरं भवतो जन्म परं जन्म विवस्वतः।
+कथमेतद्विजानीयान् त्वमादौ प्रोक्तवानिति।
+
+### 00:00:57 · Speaker 1
+
+श्री भगवानुवाच।
+बहूनि मे व्यतीतानि जन्मानि तव चार्जुन।
+तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप।
+
+### 00:01:10 · Speaker 1
+
+अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन्।
+प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया।
+
+### 00:01:21 · Speaker 1
+
+यदा यदा हि धर्मस्य ग्लानिर्भवति भारत, अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्।
 
 ### 00:01:31 · Speaker 1
 
-Vairitra naya sadhunam vinasya cha dushkritam dharma samstha panarthaya sambhava mi yuge yuge janmakarmachame divyamevam yoveti tatvataha kya tvadeh punarjan manaithi ma metisor juna vitaragabhaya krodha manmayam upashrita ha bahavog jnanatapasaputa madbhavam
+परित्राणाय साधूनां विनाशाय च दुष्कृताम्।
+धर्मसंस्थापनार्थाय सम्भवामि युगे युगे।
 
-### 00:02:01 · Speaker 1
+### 00:01:42 · Speaker 1
 
-Yayatha mam prapadyante tamstataiva bhajamyaham mama vartmanu vartante manushya fpartasaravashaha kamsanthaskarmanam siddhim yajanta ihadevataha kshipram himanusheloke siddhribhavatekarmaja chaturvaranyam mayasrastanggunakarma vibhagashaha tasyakarthar
+जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः।
+त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन।
 
-### 00:02:31 · Speaker 1
+### 00:01:52 · Speaker 1
 
-Namah paimam vidya kartaram avyayam namah karma nilimpanthiname karma phales proha itimam yobhyajanate karma bherna sabadyate evanyatva krtam karma purvairapemukshabhi kurukarmayavatasmatvam purvaipurvatarankratam kimkarmakimakarmeti kavyopyatramohita ha tate
+वीतरागभयक्रोधा मन्मया मामुपाश्रिताः।
+बहवो ज्ञानतपसा पूता मद्भावमागताः।
+ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्।
 
-### 00:03:01 · Speaker 1
+### 00:02:09 · Speaker 1
 
-Karma pravaksham yajnata mokshase subhat karma no kshapi bodhavyam bodhavyam javikarmanaha akarmanascha bodhavyam gahanakarmano gatihi karma naka karma yaphashe dakkarmanicha karma yaha sabuddhimana manushe susayuktakritsnakarmakrat yasyasarve samaram bhak kama sankalpa varajita
+मम वर्तमानुवर्तन्ते मनुष्याः पार्थ सर्वशः।
+काङ्क्षन्तः कर्मणां सिद्धिं यजन्ता इह देवताः।
+क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा।
 
-### 00:03:31 · Speaker 1
+### 00:02:25 · Speaker 1
 
-jnana nidhagdha karma nantamahuf pandetam buddha ha jnana nidhagdha karma nantamahuf pandetam
+चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः।
+तस्य कर्तारमपि मां विध्य कर्तारमव्ययम्।
 
-### 00:04:01 · Speaker 1
+### 00:02:35 · Speaker 1
 
-Sadhvati tovimatsaraha samasiddhava siddhau chakratva pinanibhadhyate gata sangasya mukhasya jnana vasthita chetasaha yajnaya charatakarma samagram praviliyate brahmaharpanam brahma hava brahma agna brahmana hutam brahmaivate nagantavyam brahma karmhasam adhina
+न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा।
+इति मां योऽभिजानाति कर्मभिर्न सबध्यते।
+
+### 00:02:45 · Speaker 1
+
+एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः।
+कुरु कर्मैव तस्मात् त्वं पूर्वैः पूर्वतरं कृतम्।
+
+### 00:02:56 · Speaker 1
+
+किं कर्म किमकर्मेति कवयोप्यत्र मोहिताः? तत्ते कर्म प्रवक्ष्यामि यज्ञात्त्वा मोक्षसे शुभात्।
+
+### 00:03:06 · Speaker 1
+
+कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।
+अकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः।
+
+### 00:03:17 · Speaker 1
+
+कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः।
+स बुद्धिमान् मनुष्येषु स युक्तः कृत्स्नकर्मकृत्।
+यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः।
+ज्ञानाग्निदग्धकर्माणन्तमाहुः पण्डितं बुधाः।
+
+### 00:03:37 · Speaker 1
+
+त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः।
+कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित् करोति सः।
+
+### 00:03:48 · Speaker 1
+
+निराशीर्यत चित्तात्मा त्यक्तसर्वपरिग्रहः।
+शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्।
+
+### 00:03:59 · Speaker 1
+
+यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः। समस्सिद्धावसिद्धौ च कृत्वापि न निबध्यते।
+
+### 00:04:09 · Speaker 1
+
+गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः।
+यज्ञायाचरतः कर्म समग्रं प्रविलीयते।
+
+### 00:04:20 · Speaker 1
+
+ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणाहुतं ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना।
 
 ### 00:04:31 · Speaker 1
 
-Bhrama meva pare yagnam yogena vare yopasate brahma agna vare yagnam yagnena ivopajukvati shatra din indriyanyanyam samyam agna shojukvati shabdadin vishayanyanyam indriyagneshojukvati sarva din indriyakarmani pranakarmani cha pare atmasamyama yogagnau jukvati jnana dite
+दैवमेवापरे यज्ञं योगिनः पर्युपासते। ब्रह्माज्ञावपरे यज्ञं यज्ञेनैवोपजुह्वति।
 
-### 00:05:01 · Speaker 1
+### 00:04:41 · Speaker 1
 
-Dravya yagnasthapo yagnya yoga yagnasthatapare svadhyayagnana yagnasthayataya samshetavrataha apane jukvati pranam prane panantatapare pranapa nagati rudha pranaya maparayana ha aparenya taha raf pranand praneshu jukvati sarve pite yagnavido yagnakshapita
+श्रोत्रादीनीन्द्रियाण्यन्ये सम्यमाग्निषु जुह्वति।
+शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति।
+सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे।
+आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते।
 
-### 00:05:31 · Speaker 1
+### 00:05:02 · Speaker 1
 
-Yajna sista mritabhujoyanti brahmasanatanam nayam lokostya yajna sya kutonyakurusattama evam bhuvidha yajna vitata brahmano mukhe karma jan vidhitan sarvanevangyatva vimokshasya shrayandravyamaya yajna jnana yajna parantapa sarvane karma
+द्रव्ययज्ञास्तपोयज्ञायोगयज्ञास्तथापरे।
+स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः।
 
-### 00:06:01 · Speaker 1
+### 00:05:12 · Speaker 1
 
-Akilam partagnane parisamapyate tadvidhipranipate na pare prashne nasevaya upadekshan tite jnanangyaninastadvadarsanaha yednyatva napanar mahamevamyasya sipandava yena bhuta nyasheshena drakshasyatmanyato maji apichedasi papee bhessarve bhavpapakrtamaha
+अपाने जुह्वति प्राणं प्राणे पानं तथा परे प्राणापानगतिरुद्ध्वा प्राणायामपरायणाः।
 
-### 00:06:31 · Speaker 1
+### 00:05:23 · Speaker 1
 
-Sarvagnya plavenaiva vrajinamsantaishyasi yatayidham samsamidhagnirabhasmasat kuruteer juna jnanagnisarvakarmani bhasmasat kurute tatha nahignyanena sadrasampavitramihavidyate tatsvayam yogasamsiddhakalenatmanivindati shradhavalabhatagnyanantatparas
+अपरे नियताहाराः प्राणान् प्राणेषु जुह्वति। सर्वेप्येते यज्ञविदो यज्ञक्षपितकल्मषाः।
 
-### 00:07:01 · Speaker 1
+### 00:05:33 · Speaker 1
 
-Samyate indriyaha jnana mlabdhva param shanti machire na dhigat chati agnasya sadadhanasya samshayatma vinasyati nayam lokosti nappro nasukam samshayatmanaha yogasya nyashtakarma nagnyanasanchinna samshayam atmavanta nakarmadini badhanti dhananjaya tasma dagnya
+यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम्।
+नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम।
 
-### 00:07:31 · Speaker 1
+### 00:05:44 · Speaker 1
 
-Jnana sambhutam pratangyana sinatmanaha chitvainam samshayam yoga mateshtot eshtabharata ontatsaditeshre madbhagavadgita supaneshatsubrahmavidyayam yogashastra shrikashnar jonasamvade jnana karmasanyasa yoga nama tordhyaya
+एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे कर्मजान् विद्धितान् सर्वान् एवं ज्ञात्वा विमोक्ष्यसे।
+
+### 00:05:55 · Speaker 1
+
+श्रेयान् द्रव्यमयाद्यज्ञा ज्ञानयज्ञः परन्तप।
+सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते।
+
+### 00:06:06 · Speaker 1
+
+तद्विद्धिप्रणिपातेन परिप्रश्नेन सेवया उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः।
+
+### 00:06:16 · Speaker 1
+
+यज्ञात्वां पुनर्मोहमेवं यास्यसि पाण्डव।
+येन भूतान्यशेषेण द्रक्षस्यात्मन्यथो मयि।
+
+### 00:06:27 · Speaker 1
+
+अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः सर्वं ज्ञानप्लवेनैव वृजिनं संतरिष्यसि।
+
+### 00:06:37 · Speaker 1
+
+यथैधांसि समिद्धोऽग्निर्भस्मसात् कुरुतेऽर्जुन। ज्ञानाग्निः सर्वकर्माणि भस्मसात् कुरुते तथा।
+
+### 00:06:48 · Speaker 1
+
+न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।
+तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति।
+श्रद्धा वा लभते ज्ञानं तत्परः संयतेन्द्रियः।
+ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति।
+
+### 00:07:09 · Speaker 1
+
+अग्नश्चाश्रद्धधानश्च संशयात्मा विनश्यति।
+नायं लोकोऽस्ति न परो न सुखं संशयात्मनः।
+
+### 00:07:19 · Speaker 1
+
+योगसन्यस्तकर्माणं ज्ञानसञ्चिन्नसंशयम्।
+आत्मवन्तन्नकर्माणि निबध्नन्ति धनञ्जय।
+
+### 00:07:30 · Speaker 1
+
+तस्मादज्ञानसम्भूतं वृत्थं ज्ञानासिनात्मनः।
+छित्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत।
+
+### 00:07:41 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे ज्ञानकर्मसन्न्यासयोगो नाम 4 अध्यायः।

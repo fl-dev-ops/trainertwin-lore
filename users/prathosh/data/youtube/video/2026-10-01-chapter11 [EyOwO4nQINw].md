@@ -4,11 +4,13 @@ title: chapter11
 url: https://www.youtube.com/watch?v=EyOwO4nQINw
 date: '2026-10-01'
 duration: 00:12:05
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter11
@@ -17,100 +19,273 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atta ekadashodhyayaha Vishwaroopadrasana yogaha Arjuna uvacha Madanograhaya paramangukhya madhyatmasanyetam Yatva yuktam vachastena moho yam vigato mama Bhavapyayo hibhutanam shatau vistara shomaaya Tva taka malapatrakshamahatmyam api cha vyayam
+अथ एकादशोऽध्यायः।
+विश्वरूपदर्शनयोगः।
+अर्जुन उवाच।
+मदनुग्रहाय परमं गुह्यमध्यात्मसन्नितम्।
 
-### 00:00:33 · Speaker 1
+### 00:00:18 · Speaker 1
 
-Sri Bhagava Nivacha Pashyame Patarupa Nishata Saha Sra Sra Sra Sra Sra
+यत्त्वयोक्तं वचस्तेन मोहो यं विगतो मम।
+भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया।
 
-### 00:01:03 · Speaker 1
+### 00:00:28 · Speaker 1
 
-I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have to say that I have
+त्वत्तः कमलपत्राक्षमाहात्म्यमपि चाव्ययम्।
+एवमेतद्यथार्थत्वमात्मानं परमेश्वर।
+द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम।
 
-### 00:01:33 · Speaker 1
+### 00:00:44 · Speaker 1
 
-Divyanda dhamma te chakshuv pashyame yoga maishvaram sanjaya uvacha eva mukta vata raja maha yogeshwaro harih darshayama sapartha yapaaram rupa maishvaram aneka bhaktanayana aneka bhutadarashanam aneka divya bharanan divya anekodyata yudham divyamalyam
+मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो योगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम्।
 
-### 00:02:03 · Speaker 1
+### 00:00:54 · Speaker 1
 
-Saradharan Divyagandha Nulepanam Sarvashcharyamayende vamanantam vishvato mukham Divisurya sahasrasya bhaved yuga padu tata Yadibhasadrashi sasyadbhasastasya mahatmanaha Tatraikastan jagatkrsnam pravibhaktamani kadha Apashadeva devasya sharire pandavastada Tatasya
+श्री भगवानुवाच।
+पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः।
+नानाविधानि दिव्यानि नानावर्णाकृतीनि च।
+
+### 00:01:07 · Speaker 1
+
+पश्यादित्यान् वसून् रुद्रानश्विनौ मरुतस्तथा।
+बहून्य दृष्टपूर्वाणि पश्याश्चर्याणि भारत।
+
+### 00:01:18 · Speaker 1
+
+इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम्।
+मम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि।
+
+### 00:01:29 · Speaker 1
+
+न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा दिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम्।
+
+### 00:01:39 · Speaker 1
+
+सञ्जय उवाच।
+एवमुक्त्वा ततो राजन् महायोगेश्वरो हरिः। दर्शयामास पार्थाय परमं रूपमैश्वरम्।
+
+### 00:01:52 · Speaker 1
+
+अनेकवक्त्रनयनमनेकाद्भुतदर्शनम्।
+अनेकदिव्याभरणं दिव्यानेकोद्यतायुधम्।
+
+### 00:02:02 · Speaker 1
+
+दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम्।
+सर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम्।
+
+### 00:02:13 · Speaker 1
+
+दिविसूर्यसहस्रस्य भवेद्युगपदुत्थिता।
+यदि भासदृशी सा स्याद्भासस्तस्य महात्मनः।
+तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा।
+अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा।
 
 ### 00:02:33 · Speaker 1
 
-Vismaya Vistara Rastaromadhananjaya Pranamya Shira Sa Devankratan Jalirabhasata Arjuna Uvacha Pashyami Devamstava Devade Saravamstatabhuta Visheshasanghan Brahma Nami Shankamala Sanastam Rashi Mshasarava Nuraganshchadivyan Anikabahudarabhaktranetram Pashyamitvam Saravatonant
+ततस्स विस्मयाविष्टो हृष्टरोमा धनञ्जयः।
+प्रणम्य शिरसा देवं कृताञ्जलिरभाषत।
 
-### 00:03:03 · Speaker 1
+### 00:02:43 · Speaker 1
 
-Nanta namadhyana punastavadam pashya mevishveshvara vishwarupa kiritinangadinan chakridan chatejorashimsarvato diptimantam pashya mitvan duraniriksham samanta dipta nalaarka jyotimaprameyam tvamaksharam paramam veditavyan tvamasya vishvasya paranidhanam tvamavyaashashvatadharma
+अर्जुन उवाच।
+पश्यामि देवांस्तव देवदेहे सर्वांस्तथा भूतविशेषसङ्घान्।
+ब्रह्माणमीशं कमलासनस्थं ऋषींश्च सर्वानुरगांश्च दिव्यान्।
 
-### 00:03:33 · Speaker 1
+### 00:02:59 · Speaker 1
 
-ma gopta sanatana svam purusho matome anadi madhyanta mananta virya anantabahum shashisur yantram pashya mitva dipta hutasha vaktram svate jasa vishvam adhyaschasarava drashtvat bhutam rupa mukhrantavedan lokatra yam pravyathtam mahatman
+अनेकबाहुदरवक्त्रनेत्रं पश्यामि त्वां सर्वतोऽनन्तरूपम्।
+नान्तन्न मध्यन्न पुनस्तवादिं पश्यामि विश्वेश्वरविश्वरूपम्।
+किरीटिनं गदिनं चक्रिणं च तेजोराशिं सर्वतो दीप्तिमन्तम्।
 
-### 00:04:03 · Speaker 1
+### 00:03:18 · Speaker 1
 
-Ami hit vam surasanga vishantek achit bhita pranjala yog grananti svasti chyukta maharasya siddhasanga sthuvantetvam stutibhiv pushkala bihi rudra ditya vasavo jha sadhya vishvesh vinamarutas choshma pascha gandharvayaksha surasiddhasanga vikshantetvam vishmetashchayi vasarave roopam mahate bahuvaktranetram
+पश्यामि त्वां दुर्निरीक्षं समन्ताद् दीप्तानलार्कद्युतिमप्रमेयं।
+त्वमक्षरं परमं वेदितव्यं त्वमस्य विश्वस्य परं निधानम्।
 
-### 00:04:33 · Speaker 1
+### 00:03:31 · Speaker 1
 
-Dhrashtra hitva pravya tita sthaham Nabhas prashanti tamane karanam vyata nanandipta vishala netram dhrashtra hitva pravya tita taratma dhatinavinda mishamancha vishno damstra karala nichate mukhani dhrashtra ivakala nalasanibhani
+त्वमव्ययः शाश्वतधर्मगोप्ता सनातनस्त्वं पुरुषो मतो मे।
+अनादिमध्यान्तमनन्तवीर्यम् अनन्तबाहुं शशिसूर्यनेत्रम्।
 
-### 00:05:03 · Speaker 1
+### 00:03:45 · Speaker 1
 
-Dishonajane nalaabhichasharma prasiddadevesha jagannivasam Amichatvandharashtrasaputra sarveshaiva vanipala sanghaihi Vishmodronasutaputra stathasau sahasmadhyajirapi yodhamukhaihi Vaktra nite tvaramana vishantidamstrakarala nibhyanakani kechidvilagna dashanatare shosandrasehantechu
+पश्यामि त्वां दीप्तहुताशवक्त्रं स्वतेजसा विश्वमिदन्तपन्तम्।
+द्यावापृथिव्योरिदमन्तरं हि व्याप्तं त्वयैकेन दिशश्च सर्वाः।
+दृष्ट्वाद्भुतं रूपमुग्रं तवेदन् लोकत्रयं प्रव्यथितं महात्मन्।
 
-### 00:05:33 · Speaker 1
+### 00:04:04 · Speaker 1
 
-Yatha nadinam bahavom bhuvaga samudram eva bhimukhadravanti Tatha tavaminar lokavira vishanti vaktra nyabhivijwalanti Yatha pradiptanjal nam patangah vishantinasha yasamrudhavega Tathaivanasha yavishanti lokavapi vaktra nyasamrudhavega Lelehyase gra samanas
+अमीहि त्वां सुरसङ्घा विशन्ति केचिद्भीताः प्राञ्जलयो गृणन्ति।
+स्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घास्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः।
 
-### 00:06:03 · Speaker 1
+### 00:04:18 · Speaker 1
 
-Samantatlokhan samagraan vadhanir jalad bihi tejo bhira pur yajagat samagram bhahas tavagra ph pratapan tevishno akhya himeko bhavanugra uponamostute devavaraprasedha vijnatamicha mebhavantamadyana hiprajana me thava pravartim shribhagava novacha kalos me lokakshayakrat pravartim
+रुद्रादित्यावसवो ये च साध्या विश्वेश्विनौ मरुतश्चोष्मपाश्च।
+गन्धर्वयक्षासुरसिद्धसङ्घा वीक्षन्ते त्वां विस्मिताश्चैव सर्वे।
 
-### 00:06:33 · Speaker 1
+### 00:04:31 · Speaker 1
 
-sama har tami ha pravrataha rute pit van abhivishyant tisara vayeva sthita pratyani keshu yodha ha tasma tva muteshtayasho labhasvajitva shatrun bhanksharajam samrudham mayaivaiteni hatav purvameva nimitamatram bhavasavyasachin dronan cha bhishman cha jayadratan cha karanand tatanyanapi yodhaviran
+रूपं महत्ते बहुवक्त्रनेत्रं महाबाहो बहुबाहुरुपादम्।
+बहुदरं बहुदंष्ट्राकरालं दृष्ट्वा लोकाः प्रव्यथितास्तथाहम्।
 
-### 00:07:03 · Speaker 1
+### 00:04:44 · Speaker 1
 
-Maya Hatha Svanja Himav Yatashta Yudha Svajeta Sirane Sapatna Sanjaya Uvacha Etachutva Vachanam Kesavasyakratan Jaliruve Pamanakiriti Namaskratha Bhuya Evah Krishnam Sagad Gadambhitabhitabhranambya Arjuna Uvacha Stane Hrishikeshatava Prakirtya Jagat Prakritya Yanurajate
+नभस्पृशन् दीप्तमनेकवर्णं व्यात्ताननन् दीप्तविशालनेत्रम्।
+दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा धृतिन् न विन्दामि शमञ्च विष्णो।
 
-### 00:07:33 · Speaker 1
+### 00:04:57 · Speaker 1
 
-Raksham sibhitani dhisodravanti sarve namasyanti cha sidhasangha ha kasma chate nanameran mahatmangari yase brahmanopya dikatre ananta deva shajagani vasatvamaksharam sadasattat paramyat svamadeva phurushaphuranastvamasya vishvaschapan nidhanam veta sivedyan chapan chadhamatvaya
+दंष्ट्राकरालानि च ते मुखानि दृष्ट्वैव कालानलसन्निभानि।
+दिशो न जानेन लभे च शर्म प्रसीद देवेश जगन्निवास।
 
-### 00:08:03 · Speaker 1
+### 00:05:10 · Speaker 1
 
-Namah Tatam Vishwam Anantarupa Vayuryam Ogniravarunashashankaprajapatistvam Prapita Mahashcha Namo Namaste Stusahasrakratvapunascha Bhuyopinamo Namaste Namav Purastata Tataprashtastenaamostute Saravata Evasarava Anantavirya Mitavikramastvam Saravam Samapno Shetato Sisaravaha Sakheeti
+अमी च त्वाम् धृतराष्ट्रस्य पुत्राः सर्वे सहैवावनिपालसङ्घैः।
+भीष्मो द्रोणः सूतपुत्रस्तथा सौ सहास्मदीयैरपि योधमुख्यैः।
+
+### 00:05:23 · Speaker 1
+
+वक्त्राणि ते त्वरमाणा विशन्ति दंष्ट्राकरालानि भयानकानि।
+केचिद्विलग्नादशनान्तरेषु संदृश्यन्ते चूर्णितैरुत्तमाङ्गैः।
+
+### 00:05:36 · Speaker 1
+
+यथा नदीनां बहवोऽम्बुवेगाः समुद्रमेवाभिमुखाद्रवन्ति, तथा तवामी नरलोकवीरा विशन्ति वक्त्राण्यभिविज्वलन्ति।
+
+### 00:05:49 · Speaker 1
+
+यथा प्रदीप्तं ज्वलनं पतङ्गाः विशन्ति नाशाय समृद्धवेगाः।
+तथैव नाशाय विशन्ति लोकाः तवापि वक्त्राणि समृद्धवेगाः।
+
+### 00:06:01 · Speaker 1
+
+लेलिह्यसे ग्रसमानः समन्तात् लोकान् समग्रान् वदनैर्ज्वलद्भिः।
+तेजोभिरापूर्य जगत् समग्रं भासस्तवो ग्राः प्रतपन्ति विष्णोः।
+
+### 00:06:14 · Speaker 1
+
+आख्याहिमेको भवानुग्ररूपो नमोस्तुते देववरप्रसीद।
+विज्ञातुमिच्छामि भवन्तमाद्यन्नहि प्रजानामि तव प्रवृत्तिम्।
+
+### 00:06:28 · Speaker 1
+
+श्रीभगवानुवाच।
+कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान् समाहर्तुमिह प्रवृत्तः।
+ऋतेऽपि त्वां न भविष्यन्ति सर्वे ये वः स्थिताः प्रत्यनीकेषु योधाः।
+
+### 00:06:44 · Speaker 1
+
+तस्मात् त्वमुत्तिष्ठ यशो लभस्व जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम्।
+मयैवैते निहताः पूर्वमेव निमित्तमात्रं भव सव्यसाचिन्।
+
+### 00:06:57 · Speaker 1
+
+द्रोणञ्च भीष्मञ्च जयद्रथञ्च कर्णं तथा ज्ञानपि योधवीरान्।
+मया हतांस्त्वं जहि मा व्यथिष्ठा युध्यस्व जेतासि रणे सपत्नान्।
+
+### 00:07:10 · Speaker 1
+
+सञ्जय उवाच।
+एतच्छ्रुत्वा वचनं केशवस्य कृताञ्जलिर्वेपमानः किरीटी।
+नमस्कृत्वा भूय एवाः कृष्णं सगद्गदं भीतभीतः प्रणम्य।
+
+### 00:07:26 · Speaker 1
+
+अर्जुन उवाच।
+स्थाने हृषीकेश तव प्रकीर्त्या जगत्प्रहृष्यत्यनुरज्यते च।
+रक्षांसि भीतानि दिशोऽद्रवन्ति सर्वे नमस्यन्ति च सिद्धसङ्घाः।
+
+### 00:07:41 · Speaker 1
+
+कस्माच्च तेन नमेरन्महात्मन् गरीयसे ब्रह्मणोप्यादिकर्त्रे।
+अनन्तदेवेशजगन्निवासत्वमक्षरं सदसत्तत्परं यत्।
+
+### 00:07:54 · Speaker 1
+
+त्वमादिदेवः पुरुषः पुराणस्त्वमस्य विश्वस्य परं निधानम्।
+वेत्तासि वेद्यं च परं च धाम त्वया ततं विश्वमनन्तरूप।
+वायुर्यमोग्निर्वरुणः शशाङ्कः प्रजापतिस्त्वं प्रपितामहश्च।
+
+### 00:08:13 · Speaker 1
+
+नमो नमस्तेस्तु सहस्रकृत्वः पुनश्च भूयोऽपि नमो नमस्ते।
+नमः पुरस्तादथ पृष्ठतस्ते नमोस्तुते सर्वत एव सर्व।
+अनन्तवीर्यामितविक्रमस्त्वं सर्वं समाप्नोषि ततोऽसि सर्वः।
 
 ### 00:08:33 · Speaker 1
 
-Yajna tama himananta vedamaya pramadat pranayena vapi yachavaha sarthamasat krto seviharashaya sanabho janeshu yeko thava pyachutat tat samakshan tat kshamaya tvamahamaprameyam pitasi lokasyacharacharasya tvamasya puje scharagur gariyam
+सखेति मत्वा प्रसभं यदुक्तं हे कृष्ण हे यादव हे सखेति।
+अजानता महिमानन्तवेदं मया प्रमादात् प्रणयेन वापि।
 
-### 00:09:03 · Speaker 1
+### 00:08:45 · Speaker 1
 
-Natvatsamosthyabhyadhikakutonyolo katrayapyapratima prabhava tasmat pranamya pranidhyakayam prasada yetvamahamishamidhyam piteva putrasyasakevasakhyuvpriyafpriyayara hasidevasodhum
+यच्चावहासार्थमसत्कृतोसि विहारशय्यासनभोजनेषु।
+एकोथवाप्यच्युत तत्समक्षं तत्क्षामये त्वामहमप्रमेयम्।
+
+### 00:08:58 · Speaker 1
+
+पिताशि लोकस्य चराचरस्य त्वमस्य पूज्यश्च गुरुर्गरीयान्।
+न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो लोकत्रयेऽप्यप्रतिमप्रभावः।
+
+### 00:09:11 · Speaker 1
+
+तस्मात् प्रणम्य प्रणिधाय कायं प्रसादयेत्त्वामहमीशमीड्यम्।
+पितेव पुत्रस्य सखेव सख्युः प्रियः प्रियायार्हसि देव सोढुम्।
 
 ### 00:09:25 · Speaker 1
 
-Adrastapurvam hashito smitratva bhayena cha pravyatitam anome tadeva medarshayadevaru pamprasi dadeve sa jagannivasa kiri tinangadhinanchakra hastam icha mitvandratumahan tataiva tenei varupe na chatur bhujena sahasrabho bhava vishwamurte sribhagava nuvacha maya prasane natavarjo
+अदृष्टपूर्वं हृषितोस्मि दृष्ट्वा भयेन च प्रव्यथितं मनो मे।
+तदेव मे दर्शय देवरूपं प्रसीद देवेश जगन्निवास।
 
-### 00:09:55 · Speaker 1
+### 00:09:37 · Speaker 1
 
-Dhamru Pamparanda Rishetam Atma Yogat Tejo Mayam Vishwanatham Jyamyanmet Vadanyena Nadrastapurubam Naveda Yadyadya Nair Nada Naisnachakri Abhirnatapobhirugrahi Yevamru Pashakyahandroloke Drastuntvadanyena Kurupravira Mate Vyathamachavi Mudhabhavodrastvarupanghuramidramamedam
+किरीटिनं गदिनं चक्रहस्तं इच्छामि त्वां द्रष्टुमहं तथैव।
+तेनैव रूपेण चतुर्भुजेन सहस्रबाहो भव विश्वमूर्ते।
 
-### 00:10:25 · Speaker 1
+### 00:09:50 · Speaker 1
 
-Vyapetabhi fpreetamanav punastvanta devame roopamidam prapasya sanjaya uvacha ityarahnam vasudevasthokhtva svakam roopandarshayama sabhu yaha ashvasayama sachabhitame nam bhutva punasomya vapur mahatma arjuna uvacha drashtvedam anusam roopantavasomyanjanardana
+श्री भगवानुवाच मया प्रसन्नेन तव अर्जुनेदं रूपं परं दर्शितमात्मयोगात्।
 
-### 00:10:55 · Speaker 1
+### 00:10:00 · Speaker 1
 
-Idani masmi samvrata sachetav prakriti gataha sribhagava nuvacha sudurdhar shamidamrupandrasthavanasyan mama deva apyasya roopasya nitya darshanakangshanaha nham vedairnatapasana da nenanachedhyaya shakya evam vidhudrasthadrasthavanasyamam yatha
+तेजोमयं विश्वमनन्तमाद्यं यन्मे त्वदन्येन न दृष्टपूर्वं।
+न वेदयज्ञाध्ययनैर्न दानैस्न च क्रियाभिर्न तपोभिरुग्रैः।
+एवं रूपश्शक्य अहन्द्रुलोके द्रष्टुं त्वदन्येन कुरु प्रवीर।
+
+### 00:10:19 · Speaker 1
+
+माते व्यथामाच विमूढभावो दृष्ट्वा रूपं घोरमीदृङ्ममेदम्।
+व्यपेतभीः प्रीतमनाः पुनस्त्वं तदेव मे रूपमिदं प्रपश्य।
+
+### 00:10:32 · Speaker 1
+
+सञ्जय उवाच।
+इत्यर्जुनं वासुदेवस्तथोक्त्वा स्वकं रूपं दर्शयामास भूयः।
+आश्वासयामास च भीतमेनं भूत्वा पुनः सौम्यवपुर्महात्मा।
+
+### 00:10:48 · Speaker 1
+
+अर्जुन उवाच। दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन। इदानीमस्मि संवृत्तस्सचेताः प्रकृतिं गतः।
+
+### 00:11:02 · Speaker 1
+
+श्री भगवानुवाच। सुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम। देवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिणः।
+
+### 00:11:15 · Speaker 1
+
+नाहं वेदैर्न तपसा न दानेन न चेज्यया शक्य एवं विधो द्रष्टुं दृष्टवानसि मां यथा।
 
 ### 00:11:25 · Speaker 1
 
-bhakti atvana nyaya shakya ahameva vidhor juna jnatun drastun cha tatve na praveshtun cha parantapa matkarmakran mat paramo madbhaktasangavarjita ha nirvairasaravabhuteshuyasamameti pandava ontatsaditeshre madbhagavadgitasu paneshatsubrahmavidyayam yogashastra shikrashnar juna
+भक्त्या त्वनन्यया शक्य अहमेवं विधोऽर्जुन।
+ज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप।
 
-### 00:11:55 · Speaker 1
+### 00:11:36 · Speaker 1
 
-Om Vade Vishwaroopadharasya Yogonama Ekadasho Dhyaya
+मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः।
+निर्वैरः सर्वभूतेषु यः समामेति पाण्डव।
+
+### 00:11:46 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे विश्वरूपदर्शनयोगो नाम एकादशोऽध्यायः।

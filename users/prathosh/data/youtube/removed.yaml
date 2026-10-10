@@ -1,0 +1,7 @@
+# Sources deliberately excluded from the twin. Re-downloads must skip these ids.
+removed:
+- id: _QCsp4ZdKLU
+  title: Lec 6 - Deep Generative Models GAN variants and Applications
+  date: '2024-11-23'
+  reason: duplicate upload of 'Lec 12 - Diffusion Models part 2' (same 9623 s video; content is diffusion, so this title is wrong)
+  removed: '2026-10-09'

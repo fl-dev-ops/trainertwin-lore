@@ -4,17 +4,35 @@ title: '#cvwriting #jobsearch #careerdevelopment #cvwritingservices #cvwriter #c
   #shorts'
 url: https://www.youtube.com/watch?v=QiAsrf2T2zQ
 date: '2021-08-14'
-duration: 00:00:14
-model: nvidia/canary-qwen-2.5b + sortformer
+duration: 00:00:15
+model: 'ocr: apple-vision'
+content: on_screen_text
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  speaker_0: On-screen text
 ---
 
 # #cvwriting #jobsearch #careerdevelopment #cvwritingservices #cvwriter #cvwritingtips #shorts
 
-
 ## Transcript
 
-Stay and give me tonight Put me to the test Let me give you innovation Cause I do it so right Think about it Oh think about it Think about it Oh take a look at me now
+### 00:00:00 · On-screen text
+
+Don't steal CV · others. Keep it · genuine · skil
+
+### 00:00:00 · On-screen text
+
+ON TAIS TOPIC
+
+### 00:00:01 · On-screen text
+
+CV WRITING
+
+### 00:00:01 · On-screen text
+
+TIP # 4
+
+### 00:00:02 · On-screen text
+
+SU8SCRl81 ro OUR

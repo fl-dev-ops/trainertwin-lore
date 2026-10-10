@@ -1,14 +1,16 @@
 ---
 id: EDVkcY89ZH0
-title: "Adhyaya 29 | Mahabharata Tatparya Nirnaya \u2014  Sri Madhvacharya"
+title: Adhyaya 29 | Mahabharata Tatparya Nirnaya —  Sri Madhvacharya
 url: https://www.youtube.com/watch?v=EDVkcY89ZH0
 date: '2026-06-23'
 duration: 00:12:18
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # Adhyaya 29 | Mahabharata Tatparya Nirnaya —  Sri Madhvacharya
@@ -17,108 +19,289 @@ speakers:
 
 ### 00:00:00 · Speaker 1
 
-Shri Gurubhyo namaha Shrimad Anumad bhima madhvan tarakatarama Krishna Vedavyasatmakalakshmi hakyri vayanamaha Ata Shrimad Anandatirtabhagavatpada Charya virachite Shriman maha Bharata tatparayanirnaye Dharma sara nirupanannamayeko natrimshodhyayaha Yadaiva Krishna sakala dhira jayudhishtiram yavaraj cha bhimam
+श्रीगुरुभ्यो नमः।
+श्रीमद्धनुमद्भीममध्वान्तर्गतरामकृष्णवेदव्यासात्मकलक्ष्मीहयग्रीवाय नमः।
 
-### 00:00:30 · Speaker 1
+### 00:00:11 · Speaker 1
 
-Viprayir yuta vabhishycha shishascha yukta datva harshayama satustau tadaivacharavakai te prasadham rakshastradandi yati reva bhutva yudhishthirangarahayama sa viprashtvangarahayanti ti ti supapashilaha bhasmibhavashve vatastviti ritekshanadbhutpa patamasa bhasmasat bhasmikrtesmin yati vesham
+अथ श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये धर्मसारनिरूपणन्नाम एकोनत्रिंशोऽध्यायः।
 
-### 00:01:00 · Speaker 1
+### 00:00:24 · Speaker 1
 
-Sadhana yudhasthirandukhetam vrshtnesimaha pravachanayam yati rakshakarma suyodhanasya ivasakha supapaha rakshodhamoyanihatodhyavipraisthanma suchakradhakar yodyarajan tirithashantamanasa vipran santarpaya masadhanaishcha bhaktya asantwayecha bandhavansapaurasamsaya dikhan
+यदैव कृष्णौ सकलाधिराज्ये युधिष्ठिरं यौवराज्ये च भीमम्।
+विप्रैर्युता वभिषिच्चाशिषश्च युक्ता दत्वा हर्षयामासतुस्तौ।
 
-### 00:01:30 · Speaker 1
+### 00:00:37 · Speaker 1
 
-Sabhishmatro nakaranam vadhaduryodhanasya pa pa shankitapyamano radyatya ge mano dadhe so nujaikrishnaya viprayap yukto dharmasha sanam bhimam sampratayitvaivanaveti tyaha palgunam tasmin krudhen rupam prahura vipra stvat
+तदैव चार्वाक इति प्रसिद्धं रक्षस्त्रिदण्डी यतिरेव भूत्वा युधिष्ठिरं गर्हयामास विप्रास्त्वां गर्हयन्तीति सुपापशीलः।
 
-### 00:02:00 · Speaker 1
+### 00:00:51 · Speaker 1
 
-So pedhar mahavit shakro juna ites shrotva pedadharma samshayam
+भस्मी भवाश्वेव ततस्त्वितीरिते क्षणादभूत्पापतमस्सभस्मसात्।
+भस्मीकृतेस्मिन् यतिवेषधारिणी युधिष्ठिरं दुःखितं वृष्णिसिंहः।
+
+### 00:01:04 · Speaker 1
+
+प्रोवाचनायं व्यतिरुग्रकर्मा सुयोधनस्यैव सखासुपापः। रक्षोधमो यन्निहतोद्यविप्रैस्तन्माशुचः कृतकार्योद्यराजन्।
+
+### 00:01:18 · Speaker 1
+
+तीरितः शान्तमनः सविप्रान् सन्तर्पयामास धनैश्च भक्त्या, असान्त्वयच्च बान्धवान् स पौरसंशयादिकान्।
+
+### 00:01:29 · Speaker 1
+
+ददौ यथेष्टतो धनं प्ररक्षचानुपूर्ववत्।
+स भीष्मद्रोणकर्णानां वधादुर्योधनस्य च।
+
+### 00:01:39 · Speaker 1
+
+पापाशङ्कीतप्यमानो राज्यत्यागे मनोदधे।
+सोनुजैः कृष्णया विप्रैरप्युक्तो धर्मशासनम्।
+भीमं सम्प्रार्थयित्वैव न वेत्सीत्याह फल्गुनम्।
+
+### 00:01:56 · Speaker 1
+
+तस्मिन् क्रुद्धे नृपं प्राहुर्विप्रास्त्वत्तोऽपि धर्मवित्। शक्रोऽर्जुन इति श्रुत्वाप्येतद्धर्मे ससंशयम्।
 
 ### 00:02:07 · Speaker 1
 
-Matne ha de vasarve pe dharmo yami te va dinaha ityevam shankam antamuchaturve prayadavau krishna dharmo yami te va shastra yuktya punaf punaha nat inishchita buddhiantan tada pe purushotamau hatapakshagatave natvachankaya ago charaha yato bhishmashtato ya hitamityu chaturavya
+मत्स्नेहादेव सर्वेऽपि धर्मो यमिति वादिनः।
+इत्येवं शङ्कमानन्तमुचतुर्विप्रयादवौ।
 
-### 00:02:37 · Speaker 1
+### 00:02:17 · Speaker 1
 
-Sata bhyaam pratrabhisyaivamuni bhishyasamanvita ha bhishmam yajulajitesmimstam bhishmayaha keshavaha prachet yuktasa bhishmayanapaprachakilamanjasa atro vacha kilan tharman krishno bhishmasariragaha bhishmoh yaha harim parta bodhani yastvayaivahi
+कृष्णौ धर्मो यमित्येव शास्त्रयुक्त्या पुनः पुनः नातिनिश्चितबुद्धिं तं तदापि पुरुषोत्तमौ।
 
-### 00:03:07 · Speaker 1
+### 00:02:28 · Speaker 1
 
-Ashok terma madeve shaparthan bodhayatum prabho Ityukto bhagavana hatvat kirtayitvayasam sthithaha Prabhaksha myakhilan dharman sukshman tatvam api tiha Ragnya prathamato dharma bhagavad dharma paalanam tadarthankanta kodhara dharma bhagavata api Manovakarma bhira vishnora chidratvena
+हतपक्षगतत्वेन त्वच्छंकाया अगोचरः।
+यतो भीष्मस्ततो याहितमित्यू चतुरव्ययौ।
 
-### 00:03:37 · Speaker 1
+### 00:02:38 · Speaker 1
 
-Purnasya Shagunavishnuswatantraschaikayevatu Tadvashamsarvamanyachasarvade tivinishchayaha Devatakrama vignyanama puja nyasyavaihare puja bhagavatatve nadeva dinanchasarvashaha vrtha karma krateshva pinirashistvamsadai vacha Vishnur bhagavatanan
+सताभ्यां भ्रातृभिश्चैव मुनिभिश्च समन्वितः।
+भीष्मं ययौ लज्जितेस्मिंस्तं भीष्मा याह केशवः।
 
-### 00:04:07 · Speaker 1
+### 00:02:50 · Speaker 1
 
-Pratyapasya Kratisada Paraspara Virodhetu Visheshasya Nukulata Priyam Vishnou Stadiyanam Pe Saravam Samacharet Dharma Mapya Priyantasya Naivakin Chit Samacharet Samyevirodheta Chabahuna Nuvarte Vaishnavan Yete Sadharana Dharmagnaya Bhagavata Iti Tatva
+पृच्छेत्युक्तः स भीष्मेणपप्रच्छाखिलमञ्जसा। अत्रोवाचाखिलान् धर्मान् कृष्णो भीष्मशरीरगः।
 
-### 00:04:37 · Speaker 1
+### 00:03:01 · Speaker 1
 
-Savignyapanandharma vipraschattuvisheshatah shari radhanda santiyagavputrabhar Yadikandhate tatra pinangahani syadvedanavachiran natu natchartadandhakarthavyo vipra vaishadyabhikvachet shari radhanda vishayeva vaishadyanancha vipravat yathalabdhenavarte abhikshaya vadvijotamaha
+भीष्मोऽह्याः हरिं पार्था बोधनीयास्त्वयैव हि।
+का शक्तिर्मम देवेश पार्थान् बोधयितुं प्रभो।
 
-### 00:05:07 · Speaker 1
+### 00:03:12 · Speaker 1
 
-Shishyajyo palabdhirvakshatra dharma na vapi ma ha padivishan dharmaikshatriyasuraviprayo anyatra sarvavite na vartetaitam shapalayan virodhinakshatriya chaprasakhyabaharedhanam samadikramato dharma vartayedandaton tataha apalayisada yudhesata
+इत्युक्तो भगवानाह त्वत्कीर्त्यै त्वयि संस्थितः प्रवक्ष्याम्यखिलान् धर्मान् सूक्ष्मं तत्त्वमपीतिह।
 
-### 00:05:37 · Speaker 1
+### 00:03:23 · Speaker 1
 
-Karmakar yamrte kva chit krishna nidhyagoraksha kusidam vaisyaji vanam paricharyaivashudrasya vratiranyaswapur vavat varteyor brahmhanadyashtakramat pujahare priyaha haribhaktavanuchastovaranochonati pujate vina pranamam pujastovaranahino haripriyaha adharastatra
+राज्ञः प्रथमतो धर्मो भगवद्धर्मपालनम्, तदर्थं कण्टकोद्धारो धर्मा भागवता अपि।
 
-### 00:06:07 · Speaker 1
+### 00:03:33 · Speaker 1
 
-Karthavyo yatra bhaktir hare vairava Nyapanam shatriyanam chatharmo viprabhyanugnya Tatabhavatu vaishyanam shudrasya paramapati Varaneshvagneshvaranastunagnani syat katanjana Itishrutera varanasyagnapanapraptirevana Nyayamsaravantri varanastustri bhira vedan vina kilam
+मनोवाकर्मभिर्विष्णोरच्छिद्रत्वेन चार्चनम्।
+पूर्णाशेषगुणो विष्णुः स्वतन्त्रश्चैक एव तु।
 
-### 00:06:37 · Speaker 1
+### 00:03:44 · Speaker 1
 
-Svayapunyate strinam svadharaniyateranam dharma gunotamanantusmrtyaivan dantamo vrajet gunasarvasvahanishya duttarotarato tracham adhododhikadoshasya strinam anyatra madhyataha veda apyutamastri bhikrishnadyabhiriva kila devyo munistriyasyaiva
+तद्वशं सर्वमन्यच्च सर्वदेति विनिश्चयः।
+देवताक्रमविज्ञानमपूजान्यस्य वैहरेः।
 
-### 00:07:07 · Speaker 1
+### 00:03:54 · Speaker 1
 
-Nara de kulaja api utama itivigneyasa chudraya rapya vai dekam
+पूजा भागवतत्वेन देवादीनां च सर्वशः।
+वृथा कर्माकृतिः क्वापि निराशीस्त्वं सदैव च।
+
+### 00:04:05 · Speaker 1
+
+विष्णोर्भागवतानां च प्रतीपस्याकृतिः सदा परस्परविरोधे तु विशिष्टस्यानुकूलता।
+
+### 00:04:15 · Speaker 1
+
+प्रियं विष्णोस्तदीयानामपि सर्वं समाचरेत्। धर्ममप्यप्रियं तेषान्नैव किञ्चित् समाचरेत्।
+
+### 00:04:26 · Speaker 1
+
+साम्ये विरोधे च बहून् अनुवर्तेत वैष्णवान्। एते साधारणा धर्माज्ञेया भागवता इति।
+
+### 00:04:36 · Speaker 1
+
+तत्त्वविज्ञापनं धर्मो विप्रस्य तु विशेषतः।
+शारीरदण्डसन्त्यागः पुत्रभार्यादिकानृते।
+
+### 00:04:47 · Speaker 1
+
+तत्रापि नाङ्गहानिः स्याद्वेदनावाचिरन्नतु। न चार्थदण्डः कर्तव्यो विप्रवैश्यादिभिः क्वचित्।
+
+### 00:04:57 · Speaker 1
+
+शारीरदण्डविषये वैश्यादीनां च विप्रवत्।
+यथालब्धेन वर्तेत भिक्षया वा द्विजोत्तमः।
+
+### 00:05:08 · Speaker 1
+
+शिष्ययाज्ञोपलब्धैर्वाक्षत्रधर्मेण वापदी। महापतिविषां धर्मैः क्षत्रियः सुरविप्रयोः।
+
+### 00:05:18 · Speaker 1
+
+अन्यत्र सर्ववित्तेन वर्तेतैतांश्च पालयन् विरोधिनः क्षत्रियाच्च प्रसह्यैव हरेद्धनम्।
+
+### 00:05:29 · Speaker 1
+
+सामादिक्रमतो धर्मान्वर्तयेद्दण्डतोन् ततः अपलायी सदा युद्धे सतां कार्यमृते क्वचित्।
+
+### 00:05:40 · Speaker 1
+
+कृषिवाणिज्यगोरक्षाकुसीदं वैश्यजीवनम्।
+परिचर्यैव शूद्रस्य वृत्तिरन्ये स्वपूर्ववत्।
+वर्तेयुर्ब्राह्मणाद्याश्च क्रमात् पूज्या हरिप्रियाः।
+हरिभक्तावनुच्चस्तु वर्णोच्चो नातिपूज्यते।
+
+### 00:06:00 · Speaker 1
+
+विना प्रणामं पूज्यस्तु वर्णहीनो हरिप्रियः।
+आदरस्तत्र कर्तव्यो यत्र भक्तिर्हरेर्वरा।
+
+### 00:06:11 · Speaker 1
+
+ज्ञापनं क्षत्रियाणां च धर्मो विप्राभ्यनुज्ञया। तदभावे तु वैश्यानां शूद्रस्य परमापदी।
+
+### 00:06:22 · Speaker 1
+
+वर्णेष्वज्ञेष्ववर्णस्तु न ज्ञानी स्यात् कथञ्चन इति श्रुतेरवर्णस्य ज्ञापनप्राप्तिरेव न।
+
+### 00:06:32 · Speaker 1
+
+ज्ञेयं सर्वं त्रिवर्णस्थस्त्रीभिर्वेदान्विनाखिलम्। स्वीयपुन्नियतिस्त्रीणां स्वदारनियतिर्नृणाम्।
+
+### 00:06:43 · Speaker 1
+
+धर्मो गुणोत्तमानां तु स्मृत्यैवान्धन्तमो व्रजेत्। गुणसर्वस्वहानिः स्यादुत्तरोत्तरतोत्र च।
+
+### 00:06:54 · Speaker 1
+
+अधोधोधिकदोषः स्यात् स्त्रीणामन्यत्र मध्यतः। वेदा अप्युत्तमस्त्रीभिः कृष्णाद्याभिरिवाखिलाः।
+
+### 00:07:05 · Speaker 1
+
+देव्यो मुनिस्त्रियश्चैव नरादिकुलजा अपि उत्तमा इति विज्ञेया सच्छूद्रैरप्यवैदिकम्।
 
 ### 00:07:15 · Speaker 1
 
-Nyaya manyir harer nama nidhakartavya me vacha sarvatantham o yati varam sadrasam me vacha yovishnur manyate kinchit gunaishkaishchita pekhvachit brahmeshana dikam api bhedam yovana manyate bheda drak tad guna dowa pradur bhavagate piyaha prakrtandeham atava dukhagnanashrama dikam
+ज्ञेयमन्यैर्हरेर्नाम निजकर्तव्यमेव च सर्वथान्धन्तमो याति वरं सदृशमेव च।
 
-### 00:07:45 · Speaker 1
+### 00:07:25 · Speaker 1
 
-Mano vaktanubhuryo vatasmiṃ stadbhaktaye vāva virodhakradvishvadhinadanyat kin chidapismaran anyadhinatvavichasyasarvapurtyavidhvacha bhaktihina sthate sarve tammondham yancha samshayam tatve samshaya yuktaye
+यो विष्णोर्मन्यते किञ्चिद्गुणैः कैश्चिदपि क्वचित्, ब्रह्मेषानादिकमपि भेदं यो वा न मन्यते।
 
-### 00:08:15 · Speaker 1
+### 00:07:36 · Speaker 1
 
-sarvete nirayo pagaha doshe bhasteguna dhikyenaivayanti adhamangatim guna dosha samyam anusham sarvadai vapunaphunaha yavad dosha kshayasya jordhagatikramasya yevatu sarvad dosha kshayasya mukti ratmayogyanosa rataha bhakti jnanon natave vasvargashcha subhakaramanaha
+भेदद्रक् तद्गुणादौ वा प्रादुर्भावगतेऽपि यः प्राकृतं देहमथवा दुःखाज्ञानश्रमादिकम्।
 
-### 00:08:45 · Speaker 1
+### 00:07:47 · Speaker 1
 
-Vishnu Vaishnavabha Kenaha Nif Papisyakarmanaha Ityadidharmasaravasvam Bhishmas Tenaiva Vishnuna Partha Nangaditan Tachasrutva Dharma Suto Nujan Paprachaviduranjai Vasarandhrama Deshutreshu Ahakshata Dharma Mevasa Ramarthanjamadyamam Nijankaman Ishpalatva Dhartramam
+मन्यते तारतम्यं वा तद्भक्तेष्वन्यथैव यः। मनोवाक्तनुभिर्यो वा तस्मिंस्तद्भक्त एव वा।
 
-### 00:09:15 · Speaker 1
+### 00:07:58 · Speaker 1
 
-Hame varjuno bravit saram sadvidhagnayo daivo ma nushayevacha daivo vidya hiranya dharma nushav parikir titaha madhyamo dharma evatra sadhyamsa dhanamevacha vidya akhyortho dharmasya vidya yaivabimuchyate manushortho pe vidya yach karanam suprayojitaha
+विरोधकृद्विष्ण्वधीनादन्यत्किञ्चिदपि स्मरन्।
+अन्याधीनत्वविच्चास्य सर्वपूर्त्यविदेव च।
+
+### 00:08:08 · Speaker 1
+
+भक्तिहीनाश्च ते सर्वे तमोन्धं यान्त्यसंशयं, तत्त्वे संशययुक्ता ये सर्वे ते निरयोपगाः।
+
+### 00:08:19 · Speaker 1
+
+दोषेभ्यस्ते गुणाधिक्येनैव यान्त्यधमाङ्गतिम्।
+गुणदोषसाम्ये मानुष्यं सर्वदैव पुनः पुनः।
+
+### 00:08:30 · Speaker 1
+
+यावद्दोषक्षयश्चोर्ध्वा गतिः क्रमशः एव तु सर्वदोषक्षये मुक्तिरात्मयोग्यानुसारतः।
+
+### 00:08:41 · Speaker 1
+
+भक्तिज्ञानोन्नतावेव स्वर्गश्च शुभकर्मणः।
+विष्णुवैष्णववाक्येन हानिः पापस्य कर्मणः।
+
+### 00:08:51 · Speaker 1
+
+इत्यादि धर्म सर्वस्वं भीष्मस्थेनैव विष्णुना।
+पार्थानां गदितं तच्च श्रुत्वा धर्मसुतो नुजान्।
+
+### 00:09:02 · Speaker 1
+
+पप्रच्छ विदुरं चैव सारं धर्मादिषु त्रिषु। आहक्षत्ता धर्ममेव सारमर्थं च मध्यमम्।
+
+### 00:09:13 · Speaker 1
+
+नीचं कामन् निष्फलत्वादर्थमेवार्जुनो ब्रवीत्। सारं सद्विविधो ज्ञेयो दैवो मानुष एव च।
+
+### 00:09:24 · Speaker 1
+
+दैवो विद्या हिरण्यादिर्मानुषः परिकीर्तितः। मध्यमो धर्म एवात्र साध्यं साधनमेव च।
+
+### 00:09:34 · Speaker 1
+
+विद्याह्वयोर्थो धर्मस्य विद्ययैव विमुच्यते।
+मानुषोर्थोऽपि विद्यायाः कारणं सुप्रयोजितः।
 
 ### 00:09:45 · Speaker 1
 
-Dharmar tattam vina pyartha isto shayur gurudevataha yama vatravidam sheshtavar junokta manu chatuha ata habhi ma pravarasuta tavadrasham samastanabibhasa harashat smayana kama daterik tamastikin chichubhank varatam sayyat kamyum hika
+तुष्टोर्थेन गुरुर्यस्मात् कैवल्यं दातुमप्यलम्।
+धर्मार्थतां विनाप्यर्थैस्तुष्येयुर्गुरुदेवताः।
+यमावत्रविदां श्रेष्ठावार्जुनोक्त...
 
-### 00:10:15 · Speaker 1
+### 00:10:00 · Speaker 1
 
-Nasadam syaat paramo pimoksho nasadyatam yati vinahikamad parat paropya dipuman harishchhasvashetare saham api kamya
+तमनुचतुः।
+अथाह भीमः प्रवरः सुतत्वदृशां समस्तानभिभाष्य हर्षात्।
+स्मयन्नकामादतिरिक्तमस्ति किञ्चिच्छुभं क्वावरतां सयायात्।
 
-### 00:10:45 · Speaker 1
+### 00:10:14 · Speaker 1
 
-Akamito va gatime vadadyat kamaf pumartho kila evatena chaivaka moshtutata pinaitam rute hichitvanghata kudya vatsyat sarastata saivachidatmika pisachetana goodhatanu sadhya na prashnayogya prathageva kamastena sharajanyadita ratamyam itchasyantet vidho hivedyodharmarthayuka
+काम्यं हि कामाभिधमाहुरार्याः काम्याः पुमर्थाः सहसाधनैर्यत्।
+अकाम्यतां यात्यपुमर्थ एव पुमर्थितत्वाद्धि पुमर्थोक्तः।
+विज्ञानभक्त्यादिकमप्यतीव तत्साधनं कामबहिष्कृतं चेत्।
 
-### 00:11:15 · Speaker 1
+### 00:10:33 · Speaker 1
 
-Tasmat svabhuddhi paramadabhir vikam brahmetha anurupakamaha raja nakamad paramsubhamhiparo hikamo harire vayena pragnasurachandanasa ralepto vichitra malyabharanairupetaha idam vachobhi
+न साधनं स्यात् परमोऽपि मोक्षो न साध्यतां याति विना हि कामात्।
+परात् परोऽप्यादिपुमान् हरिश्च स्वस्येतरेषामपि काम्य एव।
 
-### 00:11:45 · Speaker 1
+### 00:10:47 · Speaker 1
 
-Svayukte ra pratipatvan nirachakrenama rutihi itis srimadananda tirthabhagavat pada charya virachite sriman maha bharatata parayanirnaye dharma sara nirupanana maeko natrimshodhyaha
+अकामितो वाग्गतिमेव दद्यात् कामः पुमर्थोखिल एव तेन।
+छैव कामोस्तु तथापि नैतामृते हि चित्वं घटकुड्यवत्स्यात्।
 
-### 00:12:15 · Speaker 1
+### 00:10:59 · Speaker 1
 
-Adhesh are paramastu
+सारस्ततस्सैव चिदात्मिकापि सा चेतना गूढतनुः सदैव।
+न प्रश्नयोग्यः पृथगेव कामस्तेनैष राजन् यदि तारतम्यम्।
+
+### 00:11:12 · Speaker 1
+
+इच्छस्य यन्ते त्रिविधो हि वेद्यो धर्मार्थयुक्तः परमो मतोत्र।
+एका विरोधी यदि मध्यमो सौ द्वयोर्विरोधी तु स एव नीचः।
+
+### 00:11:25 · Speaker 1
+
+तस्मात् स्वबुद्धिप्रमदाभिरेव कामं प्रमेथा अनुरूपकामः।
+राजन्न कामादपरं शुभं हि परो हि कामो हरिरेव येन।
+
+### 00:11:38 · Speaker 1
+
+प्राज्ञः सुहृच्चन्दनसारलिप्तो विचित्रमाल्याभरणैरुपेतः।
+इदं वचो व्याससमासयुक्तं सम्प्रोच्य भीमो विररामवीरः।
+
+### 00:11:51 · Speaker 1
+
+प्रशस्य भीममन्यांश्च राजा मोक्षमथास्तुवत् स्वयुक्तेरप्रतीपत्त्वान् निराचक्रेण मारुतिः।
+
+### 00:12:01 · Speaker 1
+
+इति श्रीमदानन्दतीर्थभगवत्पादाचार्यविरचिते श्रीमन्महाभारततात्पर्यनिर्णये धर्मसारनिरूपणन्नाम एकोनत्रिंशोऽध्यायः।
+श्रीमद्वेषार्पणमस्तु।

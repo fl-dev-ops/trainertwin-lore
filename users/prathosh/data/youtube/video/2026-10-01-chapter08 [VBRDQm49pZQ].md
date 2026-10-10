@@ -4,11 +4,13 @@ title: chapter08
 url: https://www.youtube.com/watch?v=VBRDQm49pZQ
 date: '2026-10-01'
 duration: 00:05:40
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter08
@@ -17,44 +19,139 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Ata Ashta Modyaya Akshara Brahma Yogaya Arjuna Uvacha Kintad Brahma Kimadyatman Kimkarmha Purushottama Adibhutanchakimprokta Madhidayavankimuchyate Adhyajnachakatangkotrade Hesmin Madhusudana Prayana Kale Chakatangnyayosi Nyatamabhihi Sri Bhagavan Uma
+अथ अष्टमोऽध्यायः।
+अक्षरब्रह्मयोगः।
+अर्जुन उवाच।
+किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम।
+अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते।
 
-### 00:00:33 · Speaker 1
+### 00:00:22 · Speaker 1
 
-Aksharam brahmah paramam svabhavadhyatma mutyate bhuta bhavadbhavakaro visar gakkarmasanghyataha adibhutang sarobhavapurushashtadhidaivatam adhyagnohame vatra dehe deha bhrtamvara antakale chama mevasmaran mukta va kale varam yafprayatisamadbhavam
+अधियज्ञः कथं कोत्र देहेस्मिन् मधुसूदन? प्रयाणकाले च कथं ज्ञेयोषि नियतात्मभिः?
 
-### 00:01:03 · Speaker 1
+### 00:00:32 · Speaker 1
 
-Yam yatinastyatra samshayaha yamyamva pismaran bhavantya jatyante kale varam tanta me vaitikaunte yasada tadbhavabha vithaha tasmat sarveshukale shoma manosmarayudhyacha ma yarpita mano buddhir me vaishasya samshayaha abhyasa yuga yuktena cheta sa nanyagamina
+श्री भगवानुवाच।
+अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते।
+भूतभावोद्भवकरो विसर्गः कर्मसञ्ज्ञितः।
+
+### 00:00:45 · Speaker 1
+
+अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम्।
+अधियज्ञोऽहमेवात्र देहे देहभृतां वर।
+
+### 00:00:56 · Speaker 1
+
+अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।
+यः प्रयाति समद्भावं याति नास्त्यत्र संशयः।
+
+### 00:01:07 · Speaker 1
+
+यं यं वापि स्मरन् भावन्त्यजत्यन्ते कलेवरम्।
+तन्तमेवैति कौन्तेय सदा तद्भावभावितः।
+तस्मात् सर्वेषु कालेषु मामनुस्मरयुध्य च।
+
+### 00:01:23 · Speaker 1
+
+मय्यर्पितमनोबुद्धिर्मामे वैश्यस्य संशयः। अभ्यासयोगयुक्तेन चेतसा नान्यगामिना।
 
 ### 00:01:33 · Speaker 1
 
-Paramam Purushandivyam Yati Partha Nuchintayan Kavim Puranam Anushasitaram Anuraniyamsam Anusmare Dyaha Taravasyadhataram Machintyarupam Adityavaradan Tamasapharasthat Prayanakale Manasachale Nabhatya Yukto Yogabalena Chaiva Pravormadhe Pranamaveshasamyaksatam Param Purushamupaiti Div
+परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन्।
+कविं पुराणं अनुशासितारं अनोरणीयांसं अनुस्मरेद्यः।
+सर्वस्य धातारं अचिन्त्यरूपं आदित्यवर्णं तमसः परस्तात्।
 
-### 00:02:03 · Speaker 1
+### 00:01:52 · Speaker 1
 
-Yadaksharam vedavidhvadantivishanti yadhyatayovi taragaha yadichantobrahmacarayancharantitate padamsangrahenapravakshye sarvadwara nisamyam yamanohridayerudhyacha mordhyadhyatmanapranamasthito yogadharanam omityaksharam brahmavyaharanam anusmaran
+प्रयाणकाले मनसाचलेन भक्त्यायुक्तो योगबलेन चैव।
+भ्रुवोर्मध्ये प्राणमावेश्य सम्यक्सतं परं पुरुषमुपैति दिव्यम्।
 
-### 00:02:33 · Speaker 1
+### 00:02:05 · Speaker 1
 
-Yavprayati jnana hamsa yati paramangatim ananyachetasa tatamyo mam smarati nityasya ha tasya hamsa sulabhavarta nityasya yuktasya yoginaha mamupetyapunarjan madukhalayamashashvatam napnupantimahatmanasam chidhim paramangataha abrambhuvana lokavunaravarti
+यदक्षरं वेदविदो वदन्ति विशन्ति यद्यतयो वीतरागाः।
+यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण प्रवक्ष्ये।
 
-### 00:03:03 · Speaker 1
+### 00:02:18 · Speaker 1
 
-Mamupetyataukaunte yapanarjan mana vidyate sahasrayugaparyant tamaharayat brahmano viduhu ratrim yugasahasranthante horatra vidojanaha avyaktad vyaktasyasaravaprabhavantyaharagame ratryagame pralayante tatraiva vyaktasanyake bhutagramasayeva
+सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च।
+मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणम्।
 
-### 00:03:33 · Speaker 1
+### 00:02:28 · Speaker 1
 
-bhutva bhutva praliyate ratri agame vashapartaprabhavatyaharagame parastasmatubhavonyovyaktovyaktatsanatanaha yasyasarave shubhute shunasyatsuna vinasyati avyaktokshara ityuktastamahovparamangatim yemprapyanaivartante tadhamma paramam mama purushasa
+ओमित्येकाक्षरं ब्रह्मव्याहरन् मामनुस्मरन्।
+यः प्रयाति त्यजन् देहं स याति परमाङ्गतिम्।
+
+### 00:02:39 · Speaker 1
+
+अनन्यचेताः सततं यो मां स्मरति नित्यशः।
+तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः।
+
+### 00:02:50 · Speaker 1
+
+मामुपेत्य पुनर्जन्मदुःखालयमशाश्वतम्।
+नाप्नुवन्ति महात्मानः संसिद्धिं परमाङ्गताः।
+
+### 00:03:00 · Speaker 1
+
+आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते।
+
+### 00:03:10 · Speaker 1
+
+सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः।
+रात्रिं युगसहस्रान्तान्तेहोरात्रविदो जनाः।
+
+### 00:03:20 · Speaker 1
+
+अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे।
+रात्र्यागमे प्रलीयन्ते तत्रैव अव्यक्तसंज्ञके।
+
+### 00:03:31 · Speaker 1
+
+भूतग्रामस्स एवायं भूत्वा भूत्वा प्रलीयते।
+रात्र्यागमे वशः पार्थ प्रभवत्यहरागमे।
+
+### 00:03:42 · Speaker 1
+
+परस्तस्मात्तु भावोऽन्यो व्यक्तो व्यक्तात् सनातनः।
+यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति।
+
+### 00:03:52 · Speaker 1
+
+अव्यक्तोक्षर इत्युक्तस्तमाहुः परमाङ्गतिम्।
+यं प्राप्य न निवर्तन्ते तद्धाम परमं मम।
 
 ### 00:04:03 · Speaker 1
 
-Saparapartha bhakti labhyastvananyaya yasyantasthani bhutani yena sarva midhantatam yatrakale tva navratimavratin chaivayoginaha prayatayanti tantaalam vakyamibharata rashabha agnirjotirahashuklashandmasa uttarayanam tatra prayatagachante brahma brahma vidhajana
+पुरुषस्स परः पार्थ भक्त्या लभ्यस्त्वनन्यया।
+यस्यान्तस्थानि भूतानि येन सर्वमिदं ततम्।
 
-### 00:04:33 · Speaker 1
+### 00:04:13 · Speaker 1
 
-Dhumar Atristata Krishna sanmasa dakshina yanam Tatra chandra masan yoti yogi prapyane vartate Shukla Krishna gati heti jagata sashvate mate Ekaya yatyanavratimanyaya vartate punaha Naites ruti partajanan yogi mukhyate kashyana Tasmatsarve shukale shukal
+यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ।
 
-### 00:05:03 · Speaker 1
+### 00:04:24 · Speaker 1
 
-Yoga yukta bhavar juna vedasya yogya jnana shata pasuchai vadane shoyat punya palam pradesh tam atyad tat sarva midam viditva yogi param sthana mupaiti cha dhyam ontad saditeshrama dhagavad gita supaneshat subramha vidyayam yogashastra shikrsnar juna samvade akshara brahma yogonama tamodhyayam
+अग्निर्ज्योतिरहः शुक्लषण्मासा उत्तरायणम्। तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः।
+
+### 00:04:35 · Speaker 1
+
+धूमो रात्रिस्तथा कृष्णषण्मासा दक्षिणायनम्।
+तत्र चांद्रमसं ज्योतिर्योगी प्राप्य निवर्तते।
+
+### 00:04:46 · Speaker 1
+
+शुक्लकृष्णे गतीष्येते जगतः शाश्वते मते। एकया यात्यनावृत्तिमन्यया वर्तते पुनः।
+
+### 00:04:56 · Speaker 1
+
+नैते श्रुति पार्थजानन् योगी मुह्यति कश्चन।
+तस्मात् सर्वेषु कालेषु योगयुक्तो भवार्जुन।
+
+### 00:05:07 · Speaker 1
+
+वेदेषु यज्ञेषु तपस्सु चैव दानेषु यत् पुण्यफलं प्रदिष्टम्।
+अत्येति तत्सर्वमिदं विदित्वा योगी परं स्थानमुपैति चाद्यम्।
+
+### 00:05:19 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे अक्षरब्रह्मयोगो नाम अष्टमोऽध्यायः।

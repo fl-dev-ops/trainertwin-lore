@@ -4,11 +4,13 @@ title: chapter12
 url: https://www.youtube.com/watch?v=dC-2NvSmses
 date: '2026-10-01'
 duration: 00:04:01
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter12
@@ -17,32 +19,95 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atadvadasodhyayaha bhakti yogaha arjuna uvacha evam satata yukta ye bhaktas tvaṁ pariyupasate yecha pyaksharam vyaktante janki yoga vittamaḥ sri bhagavan uvacha maya vishyamanu ye mana nitya yukta uvasate sradhyapara yopetasthe me yukta tamaḥ
+अथ द्वादशोऽध्यायः भक्तियोगः।
+अर्जुन उवाच।
+एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते।
+ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः।
 
-### 00:00:33 · Speaker 1
+### 00:00:22 · Speaker 1
 
-Yathvaksaramanirdesham avyaktam parayupasate saravatra gamachinchanchakutastham achalantruvam sannyam yendriyagram saravatra sama buddhayaha te prapnavantim meva sarava buddhahite rataha klesha dhikatarastesham avyakta sakta chetasham avyakta higatera
+श्री भगवानुवाच।
+मय्यावेश्य मनो ये मान् नित्ययुक्ता उपासते।
+श्रद्धया परयोपेतास्ते मे युक्ततमा मताः।
 
-### 00:01:03 · Speaker 1
+### 00:00:35 · Speaker 1
 
-kandeha vadhiravapyate yetu saravana karma ni mayi sanyasya mat paraha ananyena ivayoge namandhyayanta upasate tesha mahamsa mudharta mrtyu samsara sagarat bhava minachirat partamayaveshitachetasam mayeva mana adatsva mayi buddhini vesha ya devasishasyam
+ये त्वक्षरमनिर्देश्यम् अव्यक्तं पर्युपासते, सर्वत्रगमचिन्त्यञ्च कूटस्थम् अचलम् ध्रुवम्।
 
-### 00:01:33 · Speaker 1
+### 00:00:46 · Speaker 1
 
-Atta urdhvanasamshayaha Atachitamsamadhatunashakno shimayistiram Abhyasa yogena tatoma michaptun tananjaya Abhyasepyasamartosi madkarmah paramobhava Madharthamapi karma nikurubansiddhimavapshasi Ataitadapyashaktosi kartumadyogamashritaha Sarvakarmabha
+सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः।
+ते प्राप्नुवन्ति मामेव सर्वभूतहितेरताः।
 
-### 00:02:03 · Speaker 1
+### 00:00:56 · Speaker 1
 
-Pallatya gan tatah kuruyat atmavan shreyo hignyanam abhyazadhyana dhyanam visheshyate dhyanat karma pallatya gasya gachan teranantaram adveshtasarvabhutanam maitrakaruna evacha dirmamo nirahankara samadukha sukakshami santoshtasattatamyogi yatatma dhrudhanishtha
+क्लेशोधिकतरस्तेषाम् अव्यक्तासक्तचेतसाम्, अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते।
 
-### 00:02:33 · Speaker 1
+### 00:01:07 · Speaker 1
 
-Mayar petamano buddhiyo madbhakta sama priyaha yasman nod vijate loko lukan nod vijate chayaha harsha marsha bhayodve gair mukto yasachame priyaha anapeksha shuchiradaksha uda sino gata vyataha saravaram bhavarityagi yomad bhakta sama priyaha yonarshatena
+ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः।
+अनन्येनैव योगेन मां ध्यायन्त उपासते।
+तेषामहं समुद्धर्ता मृत्युसंसारसागरात्।
 
-### 00:03:03 · Speaker 1
+### 00:01:22 · Speaker 1
 
-Advesti nasho chati nakang shati trupa subha parityagi bhakti manya samasya me priyaha samashatrao jhamitree chata thamana pamana yoh shito shna sukha dukhe shu samasanga vibhajitaha tulyanindastu tera mauni santosho yena ke na chit aniketastharamatera bhakti manme priyo naraha yetu dha
+भवामि न चिरात् पार्थ मय्यावेशितचेतसाम्।
+मय्येव मन आधत्स्व मयि बुद्धिं निवेशय।
+निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः।
+
+### 00:01:37 · Speaker 1
+
+अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्।
+अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय।
+
+### 00:01:48 · Speaker 1
+
+अभ्यासेप्यसमर्थोऽसि मत्कर्म परमो भव।
+मदर्थमपि कर्माणि कुर्वन् सिद्धिमवाप्स्यसि।
+अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः।
+सर्वकर्मफलत्यागं ततः कुरुयतात्मवान्।
+
+### 00:02:08 · Speaker 1
+
+श्रेयो हि ज्ञानमभ्यासाज्ञानाध्यानं विशिष्यते।
+ध्यानात् कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम्।
+
+### 00:02:19 · Speaker 1
+
+अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च निर्ममो निरहङ्कारः समदुःखसुखः क्षमी।
+
+### 00:02:29 · Speaker 1
+
+सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः।
+मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः।
+
+### 00:02:40 · Speaker 1
+
+यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।
+हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः।
+
+### 00:02:51 · Speaker 1
+
+अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः।
+सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः।
+
+### 00:03:02 · Speaker 1
+
+यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति।
+शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः।
+समश्शत्रौ च मित्रे च तथा मानापमानयोः।
+शीतोष्णसुखदुःखेषु समस्सङ्गविवर्जितः।
+
+### 00:03:22 · Speaker 1
+
+तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित्।
+अनिकेतस्थिरमतिर्भक्तिमान्मे प्रियो नरः।
 
 ### 00:03:33 · Speaker 1
 
-Sri Sri Madhav Gita Supaneshat Subramah Vidya Yam Yogashastra Shri Krishna Rjuna Samvade Bhakti Yogo Na Madhva Dasha Odhyaya
+ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते।
+श्रद्धधाना मत्परमा भक्तास्तेति वमे प्रियाः।
+
+### 00:03:44 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे भक्तियोगो नाम द्वादशोऽध्यायः।

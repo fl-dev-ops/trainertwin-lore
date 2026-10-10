@@ -4,11 +4,13 @@ title: chapter10
 url: https://www.youtube.com/watch?v=TOLdr-T1Rrs
 date: '2026-10-01'
 duration: 00:08:03
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter10
@@ -17,64 +19,203 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atadashamodhyayaha vibhuti yogaha sribhagavanuvacha bhuya eva maha baho shunome paramam vachaha yate ham priyamanaya vaksha mihitakam myaya nam evidusuraganath prabhavanamaharashayaha ahama dharahidevanamaharashinanchasara vashaha yomamajamana dind
+अथ दशमोऽध्यायः।
+विभूतियोगः।
+श्रीभगवानुवाच।
+भूय एव महाबाहो शृणु मे परमं वचः।
+यत्तेहं प्रीयमाणाय वक्ष्यामि हितकाम्यया।
 
-### 00:00:33 · Speaker 1
+### 00:00:22 · Speaker 1
 
-Asamodha samartya shosarvapapai pramuchyate buddhargyanamasamohakshamasatyandamashamaha sukhandukam pavopavopayan cha bhayamevacha ahimsa samata tustastapodanam yashoyashaha bhavanti bhava bhutanamata eva pratagvidaha
+न मे विदुस्सुरगणाः प्रभवन्नमहर्षयः।
+अहमादिर्हि देवानां महर्षीणां च सर्वशः।
+यो मामजमनादिं च वेत्ति लोकमहेश्वरम्।
+
+### 00:00:37 · Speaker 1
+
+असम्मूढः समर्थ्येषु सर्वपापैः प्रमुच्यते।
+बुद्धिर्ज्ञानमसंमोहः क्षमा सत्यं दमः शमः।
+सुखं दुःखं भवो भावो भयञ्चाभयमेव च।
+
+### 00:00:53 · Speaker 1
+
+अहिंसा समता तुष्टिस्तपोदानं यशो यशः भवन्ति भावा भूतानां मत्त एव पृथग्विधाः।
 
 ### 00:01:03 · Speaker 1
 
-Maharshaya saptapurova chathvaro manavasthata madbhava manasa jata yesham lokai mahprajaha yetham vibhutim yogan jambamayove titatvataha sovikam bhavana yogena yudhate natrasamshayaha aham sarvasya prabhavo mata sarvam pravartate iti matva bhajante mam buddha bhavasaman
+महर्षयः सप्तपूर्वे चत्वारो मनवस्तथा।
+मद्भावा मानसा जाता येषां लोकैमाः प्रजाः।
 
-### 00:01:33 · Speaker 1
+### 00:01:14 · Speaker 1
 
-Majjita madgata prana bodhayantaf parasyam kathayantasya manichyan tushyan ticharamanticha tesham satata yuktanam bhajatam prithipurvakam dadami buddhiyogantam yena mama upayantite tesham eva nakam partam ahamagnyanajantamaha nasyam yatma
+एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः।
+सो विकम्पेन योगेन युज्यते नात्र संशयः।
 
-### 00:02:03 · Speaker 1
+### 00:01:25 · Speaker 1
 
-Bhavastog Jnana Deepena Bhasvata Arjuna Uvacha Param Brahma Paranthama Pavitram Paramam Bhavan Purusham Shashwatandivyama Devamajam Vibhham Ahustva Mroshaya Sarve Deva Rishara Radhasthata Asito Deva Lobhyasasvayan Chaiva Bravishime Saravame Tadratam Anyajan Maham
+अहं सर्वस्य प्रभवो मत्तस्सर्वं प्रवर्तते इति मत्वा भजन्ते मां बुधा भावसमन्विताः।
 
-### 00:02:33 · Speaker 1
+### 00:01:35 · Speaker 1
 
-Vadasi ke shava nahite bhagavan vyaktim vidur devanadanava swayam evatmanatmanam vethatvam purushottama bhutabhavanabhutesha devadevajagatpathe vaktumarahasyasyeshenadivyachyatma vibhutayaha yabhir vibhuti bhirlokaanimam svam vyapya teshtasi katam vidya ma
+मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परं कथयन्तश्चमान् नित्यं तुष्यन्ति चरमन्ति च।
 
-### 00:03:03 · Speaker 1
+### 00:01:46 · Speaker 1
 
-Maham Yogam Stvamsada Parichintayan Kesu Kesu Chabha Ve Shuchintyo Shibhagavan Maya Vistare Natmano Yogam Vibhuti Jajana Bhuyak Kathayatra Heshan Vato Nasti Mmratam Sri Bhagavan Nuvaja Hantate Kathayasya Midivyachyatma Vibhuti Jajana
+तेषां सततयुक्तानां भजतां प्रीतिपूर्वकं ददामि बुद्धियोगन्तं येन मामुपयान्ति ते।
 
-### 00:03:33 · Speaker 1
+### 00:01:56 · Speaker 1
 
-AhamAtma Gudakesha Sarvabhuta Shyasya Tatha Ahamadhi Shama Dhyana Bhuta Namante Vachah Adityana Maham Vishnur Jyotisham Ravi Ram Shuman Maricharam Ruta Masmi Nakshatra Maham Shashi Vedanam Samavedosmi Devana Masmi Vasabhah
+तेषामेवानुकम्पार्थम् अहमज्ञानजन्तमः।
+नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता।
 
-### 00:04:03 · Speaker 1
+### 00:02:08 · Speaker 1
 
-Indriyanam anashtasmi bhutana masmi chetana Rudranam shankarashasmi vittesho yaksharakshasam Vasunam pa vakashasmi merushikarina maham Purodasanchamukhyamam vidhipartha brahaspatim Sena nina mahamskanda sarasa masmi sagaraha Maharshinam
+अर्जुन उवाच।
+परं ब्रह्म परं धाम पवित्रं परमं भवान्।
+पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम्।
 
-### 00:04:33 · Speaker 1
+### 00:02:20 · Speaker 1
 
-Sahangiramasmekamaksharam Yajnana japayagnosmsthavaranam himalayaha ashvatasaravarakshanandevarashinanchana radaha gandharvananchitra rata sidhanam kapilomunihi utchaishrabhasamashvanam vidhimamratodbhavam
+आहुस्त्वा मृषयः सर्वे देवर्षिर्नारदस्तथा। असितो देवलो व्यासः स्वयंचैव ब्रवीषि मे।
 
-### 00:05:03 · Speaker 1
+### 00:02:31 · Speaker 1
 
-Ayudhana maham vajranthe nuna masmi ka madhuk prajanas chasmikandarpa sarpana masmi vasukihi anantas chasmikandarpa sarpana masmi vasukihi varunoyadasa maham pitru namah chasmikam yamasamyamata maham praladas chasmikam dhyayanam kalachkalyata maham braganancham braganam
+सर्वमेतद्रुतं मन्ये यन्मां वदसि केशव। न हि ते भगवन् व्यक्तिं विदुर्देवा न दानवाः।
 
-### 00:05:33 · Speaker 1
+### 00:02:41 · Speaker 1
 
-Sarjana madhyantasya madhyan chai vahamarjuna adhyatma vidya vidyanam vadapravadata maham aksharana makra smitvandvasama sikasya cha
+स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम।
+भूतभावन भूतेश देव देव जगत्पते।
 
-### 00:06:03 · Speaker 1
+### 00:02:51 · Speaker 1
 
-Ahameva kshaya kalodhatam vishwato mukhaha mrityasarvaharashya mudbhavasya bhavishyatam kirteshirvakjanarinam sprteramedhadrthikshama brahatsamatatazamnangayatri chandasa maham mazanam margashirshohamratunangkusumakaraha jyutanchalaya
+वक्तुमर्हस्य शेषेण दिव्याह्यात्मविभूतयः।
+याभिर्विभूतिभिर्लोकानि मांस्त्वं व्याप्य तिष्ठसि।
 
-### 00:06:33 · Speaker 1
+### 00:03:02 · Speaker 1
 
-ta masmi te jaste jasvina maham jayosmi vyavasya osmi satvamsatvavata maham vrsni nam vasudevosi pandavanandhanan jayaha muni nam apiham vyasakavina mushanaha kavihi dandodhamayata masmi niti rasmijigirshatam maunanchaivasmi guhya nanya nanya navata maham
+कथं विद्यामहं योगिं स्त्वां सदा परिचिन्तयन्।
+केषु केषु च भावेषु चिन्त्योसि भगवन्मया।
 
-### 00:07:03 · Speaker 1
+### 00:03:13 · Speaker 1
 
-Yat chapi sarovabhu tanam bijan tadah marjuna natadastivina yatsyan maya bhutan characharam nantosti mamadivyanaam vibhutinam parantapa yeshatu deshatav proktov vibhutera vistara maya yadyat vibhutimatsattvam srimadur jitam eva tattadeva vagat satvam
+विस्तरेणात्मनो योगं विभूतिं च जनार्दना। भूयः कथय तृप्तिर्हि शृण्वतो नास्ति मे मृतम्।
 
-### 00:07:33 · Speaker 1
+### 00:03:23 · Speaker 1
 
-Mamate jumshasam bhavam Atava bahunaitena kin yatenathavar juna Vishtabhyaham idam krtsnam ekam shena sthito jagat Untatsaditeshri madbhagavad gita supaneshatsubrahmavidyayam Yogashastra shikrishnar juna samvade vibhuti yogana madashamudhyayaha
+श्री भगवानुवाच।
+हन्त ते कथयिष्यामि दिव्याह्यात्मविभूतयः।
+प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे।
+
+### 00:03:37 · Speaker 1
+
+अहमात्मा गुडाकेश सर्वभूताशयस्थितः।
+अहमादिश्च मध्यञ्च भूतानामन्त एव च।
+
+### 00:03:48 · Speaker 1
+
+आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान्।
+मरीचिर्मरुतामस्मि नक्षत्राणामहं शशि।
+
+### 00:03:58 · Speaker 1
+
+वेदानां सामवेदोऽस्मि देवानामस्मि वासवः।
+इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना।
+
+### 00:04:10 · Speaker 1
+
+रुद्राणां शङ्करश्चास्मि वित्तेषो यक्षरक्षसां वसूनां पावकश्चास्मि मेरुशिखरिणामहम्।
+
+### 00:04:21 · Speaker 1
+
+पुरोधसाञ्च मुख्यं मां विद्धि पार्थ बृहस्पतिम्।
+सेनानीनामहं स्कन्दः सरसामस्मि सागरः।
+
+### 00:04:32 · Speaker 1
+
+महर्षीणां भृगुरहङ्गिरामस्मेकमक्षरम्।
+यज्ञानां जपयज्ञोस्मि स्थावराणां हिमालयः।
+
+### 00:04:43 · Speaker 1
+
+अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः।
+गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः।
+
+### 00:04:54 · Speaker 1
+
+उच्चैःश्रवसमश्वानां विद्धिमाममृतोद्भवम्।
+ऐरावतं गजेन्द्राणां नराणां च नराधिपम्।
+
+### 00:05:05 · Speaker 1
+
+आयुधानामहं वज्रं धेनूनामस्मि कामधुक्।
+प्रजनश्चास्मि कन्धर्पः सर्पाणामस्मि वासुकिः।
+
+### 00:05:15 · Speaker 1
+
+अनन्तश्चास्मि नागानां वरुणो यादसामहम्।
+पितॄणामर्यमाचास्मि यमः संयमतामहम्।
+
+### 00:05:26 · Speaker 1
+
+प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम्। मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम्।
+
+### 00:05:37 · Speaker 1
+
+पवनः पवतामस्मि रामः शस्त्रभृतामहम्। चषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी।
+
+### 00:05:48 · Speaker 1
+
+सर्गाणाम् आदिरन्तश्च मध्यं चैवाहमर्जुन।
+अध्यात्मविद्याविद्यानां वादः प्रवदतामहम्।
+
+### 00:05:59 · Speaker 1
+
+अक्षराणामकारोस्मि द्वन्द्वः सामासिकस्य च।
+अहमेवाक्षयः कालो धाताहं विश्वतोमुखः।
+
+### 00:06:10 · Speaker 1
+
+मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम्।
+कीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा।
+
+### 00:06:21 · Speaker 1
+
+बृहत्साम तथासाम्नां गायत्री छन्दसामहम्।
+मासानां मार्गशीर्षोऽहं ऋतूनां कुसुमाकरः।
+
+### 00:06:32 · Speaker 1
+
+द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम्।
+जयोस्मि व्यवसायोस्मि सत्वं सत्ववतामहम्।
+
+### 00:06:43 · Speaker 1
+
+वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः। मुनीनामप्यहं व्यासः कवीनामुशना कविः।
+
+### 00:06:54 · Speaker 1
+
+दण्डोदमयतामस्मि नीतिरस्मि जिगीषताम्।
+मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम्।
+
+### 00:07:05 · Speaker 1
+
+यच्चापि सर्वभूतानां बीजं तदहमर्जुन।
+न तदस्ति विना यत्स्यान्मया भूतं चराचरम्।
+
+### 00:07:15 · Speaker 1
+
+नान्तोस्ति मम दिव्यानां विभूतीनां परन्तप।
+एष तु उद्देशतः प्रोक्तो विभूतेर्विस्तरो मया।
+
+### 00:07:26 · Speaker 1
+
+यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा, तत्तदेवावगच्छत्वं मम तेजोंशसम्भवम्।
+
+### 00:07:37 · Speaker 1
+
+अथवा बहुनैतेन किं ज्ञातेन तवार्जुन। विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्।
+
+### 00:07:47 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे विभूतियोगो नाम दशमोऽध्यायः।

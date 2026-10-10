@@ -4,11 +4,13 @@ title: chapter16
 url: https://www.youtube.com/watch?v=PyuqXYkdQaI
 date: '2026-10-01'
 duration: 00:04:47
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter16
@@ -17,40 +19,111 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atasodasodhyaya Daiva surasampad vibhaga yogaha Sri Bhagavan uvacha Abhayam satva samshudhirdyana yoga vasya vasya tithihi Dhananda mascha yagnascha swadhyasya tapa arjavam Ahimsa satya makrodasya gashantirapaisvanam Dayabhuteshvalaluptvam ardavam hirachapala
+अथ षोडशोऽध्यायः।
+दैवासुरसम्पद्विभागयोगः।
+श्रीभगवानुवाच।
+अभयं सत्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः।
+दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्।
 
-### 00:00:33 · Speaker 1
+### 00:00:24 · Speaker 1
 
-Tejasamadhrateshau chamadroho natimanita bhavantesampadandevi mabhijatasya Bharata dambodarpo bhimanashakrodhavparushame vacha agyananchabhijatasya partha sampadama surim devi sampadvimokshayani bandhaya surimata mahasuchasampadandevi
+अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्।
+दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम्।
 
-### 00:01:03 · Speaker 1
+### 00:00:35 · Speaker 1
 
-Daivamabhijato sipandava dvabhutasar gaulokesmin daiva asura evacha daivo vistarashaproktasura prathameshnu pravrittinchanivrittinchajanana vidura suraha nashauchanapichacharo nasyanteshuvidyate asatyama pratisthante jagadahuranishvaram aparas
+तेजः शमा धृतिः शौचमद्रोहो नातिमानिता भवन्ति सम्पदं दैवीमभिजातस्य भारत।
+
+### 00:00:45 · Speaker 1
+
+दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च। अज्ञानं चाभिजातस्य पार्थसम्पदमासुरीम्।
+
+### 00:00:56 · Speaker 1
+
+दैवी सम्पद्विमोक्षाय निबन्धाय सुरीमता माशुचः सम्पदं दैवीमभिजातोसि पाण्डव।
+
+### 00:01:07 · Speaker 1
+
+द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च।
+दैवो विस्तरशः प्रोक्त आसुरं पार्थमे शृणु।
+
+### 00:01:18 · Speaker 1
+
+प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः।
+न शौचन्नापि चाचारो न सत्यं तेषु विद्यते।
+असत्यमप्रतिष्ठन्ते जगदाहुरनीश्वरम्।
 
 ### 00:01:33 · Speaker 1
 
-Sambhu tanki manyat kamahitukam teetandras te mavastabhyanasthatmanul pabudhayaha prabhavantyukrakarmanashtaya yajagato hitaha kamaasritya duspurandamba namadan vithaha mohadgrahitva sadgrahan prabhavartante suchivrataha chintama parimayancha pralayan tamupashrita
+अपरस्परसम्भूतं किमन्यत्कामहैतुकम्।
+एतान्दृष्टिमवष्टभ्यनष्टात्मानोल्पबुद्धयः।
 
-### 00:02:03 · Speaker 1
+### 00:01:43 · Speaker 1
 
-Kamo pabhuga param etah vaditenishchita ha asha pasasya tarbadhakam akrodha parayanaha ihante kamabhogartham anyayena rthasanchayan idam adyamaya labdamimam prapsyemonoratham idamasti idamapime bhavishyati punardhanam asau mayah hata shatrurhanishyecha
+प्रभवन्त्युग्रकर्माणः क्षयाय जगतो हिताः।
+काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः।
 
-### 00:02:33 · Speaker 1
+### 00:01:53 · Speaker 1
 
-Adhyabhyanava nasmi konyosti sadrasamaya yakshe dasya mimodhisha ityagnanabimohita ha anekachitta vibhanta mohajala samavrata ha prasaktakamabho geshopatanti narakeshuchau atmasambhavita sthadtad
+मोहाद्गृहीत्वा सद्ग्राहान् प्रवर्तन्ते शुचिव्रताः।
+चिन्तामपरिमेयान् च प्रलयान्तामुपाश्रिताः।
+कामोपभोगपरमा एतावदिति निश्चिताः।
 
-### 00:03:03 · Speaker 1
+### 00:02:09 · Speaker 1
 
-Sanama namadan vithaha yajante namayagniste dampa na vidhipur vakam ahankaram balandar pankam krodhancha samshrita ha mamatma paradehesupradvishantobhyasuyakaha tanahandvishatakru ran samsare shunaradhaman kshipamyajasramashubhan asurishvevayonishu
+आशापाशशतैर्बद्धाः कामक्रोधपरायणाः।
+ईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान्।
+
+### 00:02:21 · Speaker 1
+
+इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम्।
+इदमस्तीदमपि मे भविष्यति पुनर्धनम्।
+असौ मया हतः शत्रुर्हनिष्ये चापरानपि।
+ईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान् सुखी।
+
+### 00:02:40 · Speaker 1
+
+आढ्योभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया। यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः।
+
+### 00:02:51 · Speaker 1
+
+अनेकचित्तविभ्रान्ता मोहजालसमावृताः प्रसक्ताः कामभोगेषु पतन्ति नरकेषु च।
+
+### 00:03:01 · Speaker 1
+
+आत्मसम्भावितास्तब्धा धनमानमदान्विताः।
+यजन्ते नाम यज्ञैस्ते दम्भेन विधिपूर्वकम्।
+
+### 00:03:12 · Speaker 1
+
+अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः।
+मामात्मपरदेहेषु प्रद्विषन्तोभ्यसूयकाः।
+
+### 00:03:22 · Speaker 1
+
+तानहन्द्विशतः क्रूरान् संसारेषु नराधमान्।
+क्षिपाम्यजस्रमशुभान् आसुरीष्वेव योनिषु।
 
 ### 00:03:33 · Speaker 1
 
-Asurim vyonimapanam mudha jan manijan mani mama prapyayaiva kounteyatato yantyadhamangatim trivedhanarakasyedandvaranashanamatmanaha kamakrodhas tatha lobhas tasma detatrajan tyajet etairvimukta kounteyatamodvarais tribharanaraha acharatyatmanashayastato yata
+आसुरीं व्योनिमापन्ना मूढा जन्मनि जन्मनि।
+मामप्राप्यैव कौन्तेय ततो यात्यधमां गतिम्।
 
-### 00:04:03 · Speaker 1
+### 00:03:44 · Speaker 1
 
-Tasma chakra vidhi mutsra ja vartate kama karataha nasasiddhim abhnavapni nasukhan aparangatim tasma chakra vidhi mutsra ja vartate karya karya vyavasthita vyatva shastra vidha nuktam karma kartamihar hasi ontatsaditeshramad bhagavad gita supaneshatsubrahma vidyayam yoga
+त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः। कामः क्रोधस्तथा लोभस्तस्मादेतत्रयं त्यजेत्।
 
-### 00:04:33 · Speaker 1
+### 00:03:55 · Speaker 1
 
-Shastrasya Krishnar Juna Sambade Deva Sura Sampad Vibhaga Yogo Shodha Shodhya Yaha
+एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः। आचरत्यात्मनः श्रेयस्ततो याति परां गतिम्।
+
+### 00:04:06 · Speaker 1
+
+यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः।
+न ससिद्धिमवाप्नोति न सुखं न परां गतिम्।
+तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ।
+
+### 00:04:21 · Speaker 1
+
+ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि।
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे दैवासुरसम्पद्विभागयोगो षोडशोऽध्यायः।

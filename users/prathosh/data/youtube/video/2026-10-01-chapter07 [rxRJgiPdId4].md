@@ -4,11 +4,13 @@ title: chapter07
 url: https://www.youtube.com/watch?v=rxRJgiPdId4
 date: '2026-10-01'
 duration: 00:05:51
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter07
@@ -17,48 +19,141 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atasaptamodhyaya Jnana vijnana yogaha Sri Bhagavan uvacha Mayasaktamanavapartayogam yunjan madashrayaha Asamshayam samagramam yathagnasyasita chranu Jnanante hamsavignyanamidham vakyam yasheshataha Yajnata vaneha bhuyon yajnata vyamavashyate
+अथ सप्तमोऽध्यायः।
+ज्ञानविज्ञानयोगः।
+श्रीभगवानुवाच।
+मय्यासक्तमनाः पार्थ योगं युञ्जनमदाश्रयः।
+असंशयं समग्रं मां यथाज्ञास्यसि तच्छृणु।
 
-### 00:00:33 · Speaker 1
+### 00:00:23 · Speaker 1
 
-Manushyanam sahasre shukshinam vayati sidhaye yatata mapisiddhanam kashin mamvetitattvataha bhumi rapo nalovayukham mano buddhre vacha ahankara ityam me bhinnaprakritirastadha apareyam itastvanyam prakritim vidhime param jivabhutam mahabaho yadana
+ज्ञानन्तेहं सविज्ञानमिदं वक्ष्याम्यशेषतः।
+यज्ञात्वानेह भूयोऽन्यज्ञातव्यमवशिष्यते।
 
-### 00:01:03 · Speaker 1
+### 00:00:34 · Speaker 1
 
-Santaryate jagat etadyoni nibhutani sarvani chupadharaya ahankrsnasya jagataprabhabapralayasthatha mattaparatarananyat kinchidastidhananjaya mayisarvamidham pratam sutre maniganaiva rasohamapsukhante yaprabhasmeshashishasyuryayoḥ pranavasarvamidham prasushabdha ke paurosha
+मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये, यततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः।
 
-### 00:01:33 · Speaker 1
+### 00:00:45 · Speaker 1
 
-Bhagavatam sarvabhuteshvatapashchasmithapashveshu bhijam sarvabhutanam vidhi partha sanatanam buddha buddhimata mithashtejasvinamaham balambhalavatan cha hankamaragavivarjitam dharma virudha
+भूमिरापो नलो वायुः खं मनो बुद्धिरेव च।
+अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा।
 
-### 00:02:03 · Speaker 1
+### 00:00:55 · Speaker 1
 
-bhuteshuka mosmi bhartarashabha yechaivasattvika bhava rajasasthamasachaye mata evetitanvidhinatvahante shute maji tribhira gunamaya rupavire bhisaravamidan jagat mohitanabhyajanati mama bhavparamavyayam devi hyesha gunamaji mama maya duratyaya mama
+अपरेयमितस्त्वन्यां प्रकृतिं विद्धिमे पराम्। जीवभूतां महाबाहो ययेदं धार्यते जगत्।
 
-### 00:02:33 · Speaker 1
+### 00:01:06 · Speaker 1
 
-Maya prapadyante maya metantaranthite naman dushkritino mudhav prapadyante naradhamaha maya yapahrutagnana asurambhavamastritaaha chaturvidha bhajante manjana sukritinorjuna arto jignya surartharthi jnani tapharatarashabha te shangyani nitya yukta ekabhakte
+एतद्योनीनि भूतानि सर्वाणीत्युपधारय।
+अहंकृत्स्नस्य जगतः प्रभवः प्रलयस्तथा।
 
-### 00:03:03 · Speaker 1
+### 00:01:16 · Speaker 1
 
-Visheshyate Priyo Hignyaninotyar Tamaham Sacha Mama Priyaha Udara Sarva Evaita Jnani Tvatmai Vame Matam Asthita Sahi Yuktatma Mameva Nuthamangatim Bahunanjan Manamantai Jnana Van Mam Prapadyate Vasudev Sarva Mitisamahatma Sudurulabhaha Kamaistaistaista
+मत्तः परतरं नान्यत् किञ्चिदस्ति धनञ्जय।
+मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव।
+रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः।
+प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु।
 
-### 00:03:33 · Speaker 1
+### 00:01:35 · Speaker 1
 
-Tat Tvagnanav Prapadyante Nyadevataha Tantanyama Mastaya Prakritya Nyata Svaya Yuyuyam Yantanum Bhaktasradhaya Chitumichati Tasya Tasya Chalam Sradhan Tameva Vidhah Myaham Sataya Sradhaya Yukta Sasya Radhanami Hate Labhate Chata Khama Mayavabihitan Hita
+पुण्यो गन्धः पृथिव्याञ्च तेजश्चास्मि विभावसौ।
+जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु।
 
-### 00:04:03 · Speaker 1
+### 00:01:46 · Speaker 1
 
-Anta vatupalan tesha ntapavatyal pamidhasam devan devayajoyanti madbhaktayanti mama pi avyaktam vyakti ma panam anyante mama buddhayaha param bhavamajananto mama vyayamanutam naham prakashasarvasya yogamayasamavrataha mudho yana pija
+बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्।
+बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्।
 
-### 00:04:33 · Speaker 1
+### 00:01:57 · Speaker 1
 
-Vedaham samyati tani vartamana nchar juna bhavishya nichabhuta nimantu vedanakashchana itchadvesha samutena dvamohena bharatam sarvabhuta nisamoham sargayanti parantapa yeshantvantakatampa panjana nam punyakarmanam
+बलं बलवतां चाहं कामरागविवर्जितम्।
+धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ।
+
+### 00:02:07 · Speaker 1
+
+ये चैव सात्विकाभावा राजसास्तामसाश्चये।
+मत्त एवेति तान् विद्धिनत्वहन्तेषु ते मयी।
+
+### 00:02:18 · Speaker 1
+
+त्रिभिर्गुणमयैर्भावैरेभिस्सर्वमिदं जगत्।
+मोहितन्नाभिजानाति मामेभ्यः परमव्ययम्।
+दैवीह्येषा गुणमयी मम माया दुरत्यया।
+मामेव ये प्रपद्यन्ते मायामेतान्तरन्ति ते।
+
+### 00:02:38 · Speaker 1
+
+नमान् दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः।
+माययापहृतज्ञाना आसुरं भावमाश्रिताः।
+
+### 00:02:49 · Speaker 1
+
+चतुर्विधा भजन्ते माञ्जनाः सुकृतिनोऽर्जुन।
+आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ।
+
+### 00:03:00 · Speaker 1
+
+तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते।
+प्रियो हि ज्ञानिनोत्यर्थमहं स च मम प्रियः।
+
+### 00:03:10 · Speaker 1
+
+उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम्। आस्थितः सहि युक्तात्मा मामेवानुत्तमां गतिम्।
+
+### 00:03:22 · Speaker 1
+
+बहूनां जन्मनामन्ते ज्ञानवान् मां प्रपद्यते।
+वासुदेवः सर्वमिति स महात्मा सुदुर्लभः।
+
+### 00:03:32 · Speaker 1
+
+कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्ते न्यदेवताः। तन्तन्नियममास्थाय प्रकृत्या नियतास्वया।
+
+### 00:03:43 · Speaker 1
+
+यो यो यां यान्तनुं भक्तश्रद्धयार्चितुमिच्छति, तस्य तस्याचलां श्रद्धान् तामेव विदधाम्यहम्।
+
+### 00:03:54 · Speaker 1
+
+सतया श्रद्धया युक्तस्तस्याराधनमीहते, लभते च ततः कामान्मयैव विहितान्हितान्।
+
+### 00:04:05 · Speaker 1
+
+अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम्।
+देवान् देव यजो यान्ति मद्भक्ता यान्ति मामपि।
+अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः।
+
+### 00:04:21 · Speaker 1
+
+परं भावमजानन्तो मम अव्ययमनुत्तमम्।
+नाहं प्रकाशः सर्वस्य योगमाया समावृतः।
+
+### 00:04:32 · Speaker 1
+
+मूढो यन्नाभिजानाति लोको मामजमव्ययम्।
+वेदाहं समतीतानि वर्तमाननि च अर्जुना।
+
+### 00:04:42 · Speaker 1
+
+भविष्याणि च भूतानि मान्तु वेदन कश्चन इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत।
+
+### 00:04:52 · Speaker 1
+
+सर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप।
+येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम्।
 
 ### 00:05:03 · Speaker 1
 
-Te dvandva mohaniramukta bhajante mandrithavrataha Jara marana mokshayamam ashrityayatanti te brahmhatad vidukrta namadyatman karmachakilam sadhibhutad hidayivam sadhyagnachaye viduhu prayanakale pichamante vidur yukthachetasaha untad saditeshramadhagavad gita su panish
+ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः।
+जरामरणमोक्षाय मामाश्रित्य यतन्ति ये।
 
-### 00:05:33 · Speaker 1
+### 00:05:14 · Speaker 1
 
-Satsang Brahma vidyayam Yoga Shastra Shri Krishna Jnana Samvade Jnana Vignana Yoga nama Tamodhyaya
+ते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम्।
+साधिभूताधिदैवं मां साधियज्ञं च ये विदुः।
+प्रयाणकालेऽपि च मान्ते विदुर्युक्तचेतसः।
+
+### 00:05:30 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे ज्ञानविज्ञानयोगो नाम तमोऽध्यायः।

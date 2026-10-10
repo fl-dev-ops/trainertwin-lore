@@ -4,11 +4,13 @@ title: chapter01
 url: https://www.youtube.com/watch?v=g3G-bZ7j_OI
 date: '2026-10-01'
 duration: 00:09:00
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter01
@@ -17,72 +19,219 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Ataprathamodyaya Arjuna vishadhyogaha Dhritarashtra uvacha Dharmakshetre kurukshetre samaveta yuyutsabaha Mamakav pandavashchiva kimakuravata sanjaya sanjaya uvacha Dhristvatu pandavani kamvudhanduryodhanastada Acharya mupasangamya raja vachanam
+अथ प्रथमोऽध्यायः।
+अर्जुनविषादयोगः।
+धृतराष्ट्र उवाच।
+धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।
+मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।
 
-### 00:00:33 · Speaker 1
+### 00:00:23 · Speaker 1
 
-Pashyitam Pandu Putranam Acharya Mahatin Chamum Vudhan Drupada Putrenathavashe Nadhimata Atrasura Maheshvasabhimar Junasama Yudhi Yudhano Virataschadrupadaschamaha Rathaha Drishtaketoschetanakashirajashchavir Yavan Purujitkuntibhojasch
+सञ्जय उवाच।
+दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।
+आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्।
 
-### 00:01:03 · Speaker 1
+### 00:00:35 · Speaker 1
 
-Yudhama nyusha vikranta uttamau jashavir yavan saubhadra droopade yashasarva eva maharatha ha asmakantuvishyata yeta nibhodadvijotama nayaka mama sanyasyasyasanyarthantan bravi mite bhavan bhishmascha karanasya krupascha samitin jayaha
+पश्यैतां पाण्डुपुत्राणाम् आचार्यमहतीं च मूम्। व्यूढान् द्रुपदपुत्रेण तव शिष्येण धीमता।
 
-### 00:01:33 · Speaker 1
+### 00:00:46 · Speaker 1
 
-Ashvatam bhikaranashchasa madhatishtatayvacha anye cha bhavashura madhate yaktaji vitaha nana shastra praharanasarave yudhavisharada aparyaptantadasmakam balampishma bhirkshetam aparyaptantvidam etesham balampi ma bhirkshetam
+अत्र शूरा महेश्वासा भीमार्जुनसमायुधी युयुधानो विराटश्च द्रुपदश्च महारथः।
+
+### 00:00:56 · Speaker 1
+
+धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् पुरुजित्कुन्तिभोजश्च शैभ्यश्च नरपुङ्गवः।
+
+### 00:01:07 · Speaker 1
+
+युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।
+सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः।
+
+### 00:01:18 · Speaker 1
+
+अस्माकं तु विशिष्टा एतान्निबोधद्विजोत्तमा।
+नायका मम सैन्यस्य संज्ञार्थं तान् ब्रवीमि ते।
+
+### 00:01:29 · Speaker 1
+
+भवान् भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः। अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च।
+
+### 00:01:39 · Speaker 1
+
+अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।
+नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः।
+
+### 00:01:50 · Speaker 1
+
+अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्। पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्।
 
 ### 00:02:01 · Speaker 1
 
-Ayane shuchasarave shuyata bhagam avastitaha bhishmam eva bhirkshantu bhavan tasarva evahi tasya sanjanayanharashankurubhrajapita mahaha simhanadam vinadyo cha shankhandadmauprata bhavan tata shankha shabherya shapanava nakago mukha sahasaiva bhahanyantasa shabdastumulo bhavat
+अयनेषु च सर्वेषु यथा भागमवस्थिताः।
+भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि।
+तस्य सञ्जनयन् हर्षं कुरु वृद्धः पितामहः।
+सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्।
 
-### 00:02:31 · Speaker 1
+### 00:02:22 · Speaker 1
 
-Tata shvair tirhayare yuke mahatisyandaneshtetau Madhavapandavasya vadivyau shankau pradadmatuhu Panchajanyam rashi kesho devadatanjanjayaha Poundran dadhamo mahashankam bi makarmavrukodaraha Anantavijayam raja kunti putro yudheshthiraha Nakula saha devashchasugho sh
+ततश्शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।
+सहसैवाभ्यहन्यन्तसशब्दस्तुमुलोभवत्।
+ततश्वेर्तैर्हयेर्युक्ते महति स्यन्दने स्थितौ।
+माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदद्मतुः।
 
-### 00:03:01 · Speaker 1
+### 00:02:42 · Speaker 1
 
-Kashyaparameswara Khandi Jitha Drishtadyumna Viradascha Satya Kishaparajitha Drupadodraupade Yashchasarvashaprathivipate Saubhadraschamaha Bahushankhandadmvprathakprathak Saghoshodharta Rastramam Hridayanivyadrayat Nabhashtapratibhinchaya
+पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः। पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः।
 
-### 00:03:31 · Speaker 1
+### 00:02:53 · Speaker 1
 
-Sri Vatamulovyanuna dayan Atavyavasthitandrashtva dhartharashtran kapidvajaha Pravratasyastrasampate dhanurudyamya pandavaha Hrishikeshan tada vakyamida mahamahi pate Arjuna uvacha Sena yorubhayor madhyaratam sthapayamichyuta Yavadetani riksham yodhuka
+अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः।
+नकुलः सहदेवश्च सुघोषमणिपुष्पकौ।
 
-### 00:04:01 · Speaker 1
+### 00:03:03 · Speaker 1
 
-Kairmayasaha yudhavyamasmir ranasa mudhyame yudhyamana navakshahmya etetrasamagata dharta rastrasya dhorubuddhi yudhe priyachikirshabha sanjaya uvacha evamukto rishi kesho gudakeshena Bharata sena yorubhayor madhyastapayitvarata
+काश्यश्च परमेश्वासः शिखण्डी च महारथः।
+धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः।
 
-### 00:04:31 · Speaker 1
+### 00:03:14 · Speaker 1
 
-Bhishma Dra Na Pramukhadasarveshan Jamma Hikshetam Ujjapartha Pashyitan Samavetan Guruniti Tatra Pashyatin Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashyitan Pashy
+द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते, सौभद्रश्च महाबाहुः शङ्खान् दध्मः पृथक् पृथक्।
 
-### 00:05:01 · Speaker 1
+### 00:03:24 · Speaker 1
 
-Krishna sa khandeyasarvan bandhu navasthitam krupaya paraya vistha vishy dhanidama bravit arjuna uvacha drashtve mam svajanam krishna yuyutsum samupasthitam siddhante mama gatranimukhan japarishushyati vepathushcha sharire meroma harashashcha jayate gandhivam sramshate hastatvach
+सघोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।
+नभश्च पृथिवीञ्चैव तुमुलो व्यनुनादयन्।
+अथ व्यवस्थितान् दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः।
 
-### 00:05:31 · Speaker 1
+### 00:03:40 · Speaker 1
 
-Nimitta nitya pashyami viparitani kesava natcha shreyono pashyami hatva svajanamahave nakamshay vijayankrishna natcha rajyam sukhanicha kinorajena govinda kim bhogairji vitenava yeshamarte kamshe tano
+प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः।
+हृषीकेशं तदा वाक्यमिदमाहमहीपते।
+अर्जुन उवाच।
 
-### 00:06:01 · Speaker 1
+### 00:03:53 · Speaker 1
 
-Ara Jambhoga Sukha Nitya Ta Imevasthita Yudha Pranasthyakta Dhananicha Acharya Vipitaraputras Tatayvachapita Mahaha Matulashvasurapautras Yala Sambandhanastatha Yeta Nahantho Mithamignatopi Madhusudana Apatrelokya Rajasya Hetokinumahi Krite
+सेनयोरुभयोर्मध्ये रथं स्थापयमेच्युत।
+यावदेतान्निरीक्षेहं योद्धुकामानवस्थितान्।
+कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे।
+
+### 00:04:09 · Speaker 1
+
+योत्स्यमानानवेक्षेहं य एतेत्र समागताः। धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः।
+
+### 00:04:20 · Speaker 1
+
+सञ्जय उवाच एवमुक्तो हृषीकेशो गुडाकेशेन भारत। सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्।
+
+### 00:04:33 · Speaker 1
+
+भीष्मद्रोणप्रमुखतस्सर्वेषां च महीक्षिताम्।
+उवाच पार्थ पश्यैतान् समवेतान् कुरूनिति।
+
+### 00:04:44 · Speaker 1
+
+तत्रापश्यत् स्थितान् पार्थः पितॄनथ पितामहान्।
+आचार्यान् मातुलान् भ्रातॄन् पुत्रान् पौत्रान् सखींस्तथा।
+श्वशुरान् सुहृदश्चैव सेनयोरुभयोरपि।
+
+### 00:05:00 · Speaker 1
+
+तान् समीक्ष्य स कौन्तेय सर्वान् बन्धूनवस्थितान्।
+कृपया परयाविष्टो विषीदन्निदमब्रवीत्।
+
+### 00:05:11 · Speaker 1
+
+अर्जुन उवाच।
+दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्।
+सीदन्ति मम गात्राणि मुखं च परिशुष्यति।
+वेपथुश्च शरीरे मे रोमहर्षश्च जायते।
+
+### 00:05:28 · Speaker 1
+
+गाण्डीवं स्रंसते हस्तात् त्वक् चैव परिदह्यते।
+न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः।
+
+### 00:05:38 · Speaker 1
+
+निमित्तानि च पश्यामि विपरीतानि केशव।
+न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे।
+न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च।
+किन्नो राज्येन गोविन्द किं भोगैर्जीवितेन वा।
+
+### 00:05:59 · Speaker 1
+
+येषामर्थे काङ्क्षितन्नो राज्यं भोगस्सुखानि च।
+त इमेव स्थिता युद्धे प्राणास्त्यक्त्वा धनानि च।
+
+### 00:06:10 · Speaker 1
+
+आचार्याः पितरः पुत्रास्तथैव च पितामहाः।
+मातुलाश्वशुराः पौत्राः शालाः सम्बन्धिनस्तथा।
+
+### 00:06:21 · Speaker 1
+
+एतान्नहन्तुमिच्छामि घ्नतोऽपि मधुसूदन।
+अपि त्रैलोक्यराज्यस्य हेतोः किन्नुमही कृते।
 
 ### 00:06:31 · Speaker 1
 
-Nihātya dhartha rāstrānākha pṛtisya janardhana papame vashraya dasman hatvaita na tatajinaha tasman arhavyam hantundhartha rāstrānā svābandhavan svajanam hi katam hatva sukhinasya mamadhava yadya pīte na pashyantilobho pāhatajetasaha kulakṣaya kruthandosham mithra drohe
+निहत्य धार्तराष्ट्रान् नः का प्रीतिः स्यात् जनार्दना।
+पापमेवाश्रयेदस्मान् हत्वैता न ततायिनः।
 
-### 00:07:01 · Speaker 1
+### 00:06:42 · Speaker 1
 
-Kathana gnyaya masma bhivpada dasmanivartitum kulakshaya kruthandosham prapashadbhir janardana kulakshaya pranashanti kuladharmasanatana dharmena ste kulankrits namadharma bhibhavat yuta adharmabhibhavat krishnapradushanti kulastriyaha tri-shodhustasub
+तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान् स्वबान्धवान्।
+स्वजनं हि कथं हत्वा सुखिनः स्याममाधव।
 
-### 00:07:31 · Speaker 1
+### 00:06:53 · Speaker 1
 
-Varshneya jayate varna sankaraha sankarona rakhaiva kulagnanam kulasyacha patanti pitarohesham lupta pindodakakriyaha doshairetaikulagnanam varna sankarakarakaihi sadjante jatidharmakuladharmashashashvataha utsanakuladharmanam manushyananjanardana
+यद्यप्येतेन पश्यन्ति लोभोपहतचेतसः।
+कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्।
 
-### 00:08:01 · Speaker 1
+### 00:07:04 · Speaker 1
 
-Narake niyatam vasobhavati chyano shushrama ahobhata mahatpa pankartum vyavasita vayam yadra ja sukhalobhenahantum svajana mudyataha yadimam aprati karam ashram shastra paññayaha dharta rāśtra rāne hanyustan mekshe mataram bhavet sanjaya uvācha eva mukta
+कथं न ज्ञेयमस्माभिः पापादस्मान् निवर्तितुम्।
+कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दना।
 
-### 00:08:31 · Speaker 1
+### 00:07:14 · Speaker 1
 
-Jnana sankhya ratopasta upavishat visra jasasharan chapam shoka samvignana nasaha untatsaditeshramad bhagavad gita supanishat supramavidyayam yogashastra shikrishnar jnana samvade arjuna vishad yoga namam pratamodhyaya
+कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः।
+धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत।
+
+### 00:07:25 · Speaker 1
+
+अधर्माभिभवात् कृष्णप्रदुष्यन्ति कुलस्त्रियः।
+स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः।
+
+### 00:07:35 · Speaker 1
+
+शङ्करो नरकायैव कुलघ्नानां कुलस्य च। पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः।
+
+### 00:07:46 · Speaker 1
+
+दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः साध्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः।
+
+### 00:07:57 · Speaker 1
+
+उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन।
+नरके नियतं वासो भवतीत्यनुशुश्रुम।
+
+### 00:08:07 · Speaker 1
+
+अहो बत महत्पापं कर्तुं व्यवसिता वयम्।
+यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः।
+
+### 00:08:17 · Speaker 1
+
+यदि मामप्रतीकारम् अशस्त्रं शस्त्रपाणयः धार्तराष्ट्रारणे हन्युस्तन्मे क्षेमतरं भवेत्।
+
+### 00:08:28 · Speaker 1
+
+सञ्जय उवाच।
+एवमुक्त्वा अर्जुनः सङ्ख्ये रथोऽपस्थ उपाविशत्।
+विसृज्य सशरं चापं शोकसंविघ्नमानसः।
+
+### 00:08:40 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे अर्जुनविषादयोगो नाम प्रथमोऽध्यायः।

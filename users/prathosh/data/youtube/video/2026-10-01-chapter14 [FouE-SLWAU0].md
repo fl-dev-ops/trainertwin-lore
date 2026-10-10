@@ -4,11 +4,13 @@ title: chapter14
 url: https://www.youtube.com/watch?v=FouE-SLWAU0
 date: '2026-10-01'
 duration: 00:05:17
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter14
@@ -17,44 +19,132 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atachaturdashaodhyayaha Gunatraya vibhagayogaha Sri Bhagavan uvacha Parambhujavpravakshamignyananangyanam uttamam Yajnata munayasarve param Siddhimitogataha Yidangyanam upashritya mama sadarmyamagataha Sarghepinupajayante pralayena vyatanti cha
+अथ चतुर्दशोऽध्यायः।
+गुणत्रयविभागयोगः।
+श्रीभगवानुवाच।
+परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्।
 
-### 00:00:33 · Speaker 1
+### 00:00:18 · Speaker 1
 
-Mamayo nir mahadbhram hata smingarabhandadham yaham tamsam bhava sarvabhutananta to bhavati bhara tar sarvayo ni shokaunte ya murtaya sambhavanti yaha tasam brahmaha dhyo nirahambi ja pratapita sattvam rajastama ite guna prakrati sambhava ha nibhantimaha bahodehe dehinam avyayam
+यज्ञात्वा मुनयः सर्वे परां सिद्धिमितोगताः।
+इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः।
 
-### 00:01:03 · Speaker 1
+### 00:00:29 · Speaker 1
 
-Tatra sattva nirmalatva prakasha kamanam mayam sukha sanghena badhati jnana sanghena janaghara rajoragatmakam vidhitrashna sangasamudbhavam tani badhati kaunte yakarma sanghena dehinam tamastvajnana jam vidhimohanam sarvadehinam pramada lasyanidra bhistanibh
+सर्गेऽपि नोपजायन्ते प्रलयेन व्यथन्ति च।
+मम योनिर्महद्ब्रह्म तस्मिन् गर्भं दधाम्यहम्।
 
-### 00:01:33 · Speaker 1
+### 00:00:39 · Speaker 1
 
-Sattva m sukhe sanjayati rajakarmani bhārata jnana m avratya tattamav pramadesanjayati tuta rajasthamascha bhibhu yasattva bhavati bhārata rajasthamaschaiva tattamav sattva m rajastata sarvadvareshu dehesmin prakasha upajayate jnana m yadata da vidya
+सम्भवः सर्वभूतानां ततो भवति भारत।
+सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्त्याः।
+तासां ब्रह्म महद्योनिरहं बीजप्रदः पिता।
 
-### 00:02:03 · Speaker 1
+### 00:00:55 · Speaker 1
 
-Vivradham satvamityutta lobhav pravartirambhakarmanamashamaspruhah rajasyetanijayante vivradhe Bharatarashabha aprakasho pravarteshcha pramadamohayevacha tamasyetanijayante vivradhe kurunandana yatasatve pravardhe tupralayam yati dehabhata tado tamavidam
+सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः।
+निबध्नन्ति महाबाहो देहे देहिनमव्ययम्।
+तत्र सत्त्वं निर्मलत्वात् प्रकाशकमनामयम्।
 
-### 00:02:33 · Speaker 1
+### 00:01:10 · Speaker 1
 
-Rajaseva pralayangatva karma sange shudhajate tatha pralina tamasi mudhayone shudhajate karmanas sukrtasyah usatvikandirmalam phalam rajaseva palandukhamagnyanandhamasaphalam sattvatsanjayate jnanam rajaso lobhayevacha pramadamoha
+सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ।
+रजोरागात्मकं विद्धि तृष्णा सङ्गसमुद्भवम्।
 
-### 00:03:03 · Speaker 1
+### 00:01:20 · Speaker 1
 
-Tamasubhavatognanam evacha Urdhvangacchantisattvastamadyetisthantirajasaha Jaganya gunavratistha adhoga chantitamasa ha Nanyangune bhaktaram yadadrashtanupashyati Gunebheshthaparamvetimadbhavamso dhikachati Gunaneta natyatri ndehi dehasamuthbhava
+तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम्।
+तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम्।
 
-### 00:03:33 · Speaker 1
+### 00:01:31 · Speaker 1
 
-Janmamratyujara dukkhiravimukto mritamashnute Arjuna uvacha kairlingaistrin gunaneta natito bhavati prabho kimacharakatanchaitan srin gunanativartate sribhagavanuvacha prakashancha pravartincha mohamevacha pandava natveshti sampravartininaivrita
+प्रमादालस्य निद्राभिस्तन्निबद्धाति भारत।
+सत्वं सुखे सञ्जयति रजः कर्मणि भारत।
 
-### 00:04:03 · Speaker 1
+### 00:01:41 · Speaker 1
 
-Tulyapriya priyodhirastulyanindatmasamstutihi mana pamana yostulyastulya mithra repakshayo sarvaram bhavari
+ज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत।
+रजस्तमश्चाभिभूय सत्वं भवति भारत।
+रजस्सत्वं तमश्चैव तमस्सत्वं रजस्तथा।
 
-### 00:04:33 · Speaker 1
+### 00:01:56 · Speaker 1
 
-Sagunansamatichaitan brahmabhuja yakalpathe brahmanohipratistha mamratasya vyasyasyacha shashvatasyachadhrmasya sukasyachante kasyachah untsaditeshrimadbhagavadgita supanishatso brahmavidyaya
+सर्वद्वारेषु देहेस्मिन् प्रकाश उपजायते।
+ज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत।
 
-### 00:05:03 · Speaker 1
+### 00:02:07 · Speaker 1
 
-Yoga Shastra Shri Krishna Jnana Samvade Gunatraya Vibhaga Yogo nama Chaturtha Shodhyaha
+लोभः प्रवृत्तिरारम्भः कर्मणामशमस्पृहा।
+रजस्येतानि जायन्ते विवृद्धे भरतर्षभ।
+
+### 00:02:17 · Speaker 1
+
+अप्रकाशो प्रवृत्तिश्च प्रमादो मोह एव च।
+तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन।
+
+### 00:02:27 · Speaker 1
+
+यदा सत्वे प्रवृद्धे तु प्रलयं याति देहभ्रत्।
+तदोत्तमविदां लोकानमलान् प्रतिपद्यते।
+रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते।
+तथा प्रलीनस्तमसि मूढयोनिषु जायते।
+
+### 00:02:47 · Speaker 1
+
+कर्मणः सुकृतस्याहुः सात्विकं निर्मलं फलं।
+रजसस्तु फलं दुःखमज्ञानं तमसः फलम्।
+
+### 00:02:57 · Speaker 1
+
+सत्त्वात् सञ्जायते ज्ञानं रजसो लोभ एव च।
+प्रमादमोहौ तमसो भवतो ज्ञानमेव च।
+
+### 00:03:07 · Speaker 1
+
+ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः।
+जघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः।
+
+### 00:03:18 · Speaker 1
+
+नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति, गुणेभ्यश्च परं वेत्ति मद्भावं सोधिगच्छति।
+
+### 00:03:29 · Speaker 1
+
+गुणानेतानतीत्यत्रीं देही देहसमुद्भवान्।
+जन्ममृत्युजरादुःखैर्विमुक्तो मृतमश्नुते।
+अर्जुन उवाच।
+कैर्लिङ्गैस्त्रीं गुणानेतानतीतो भवति प्रभो।
+
+### 00:03:48 · Speaker 1
+
+किमाचारः कथञ्चैतान्स्त्रीन्गुणानतिवर्तते।
+श्रीभगवानुवाच।
+प्रकाशञ्च प्रवृत्तिञ्च मोहमेव च पाण्डव।
+न द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति।
+
+### 00:04:06 · Speaker 1
+
+उदासीनवदासीनो गुणैर्यो न विचाल्यते, गुणावर्तन्त इत्येव यो वतिष्ठति नेङ्गते।
+
+### 00:04:16 · Speaker 1
+
+समदुःखसुखस्वस्थः समलोष्टाश्मकाञ्चनः।
+तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः।
+
+### 00:04:27 · Speaker 1
+
+मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः।
+सर्वारम्भपरित्यागी गुणातीतः स उच्यते।
+
+### 00:04:37 · Speaker 1
+
+माञ्चयो व्यभिचारेण भक्तियोगेन सेवते, सगुणान् समतीत्यैतान् ब्रह्म भूयाय कल्पते।
+
+### 00:04:47 · Speaker 1
+
+ब्रह्मणो हि प्रतिष्ठा हममृतस्याव्ययस्य च।
+शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च।
+
+### 00:04:58 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे गुणत्रयविभागयोगो नाम चतुर्दशोऽध्यायः।

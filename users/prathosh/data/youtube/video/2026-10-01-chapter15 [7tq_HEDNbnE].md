@@ -4,11 +4,13 @@ title: chapter15
 url: https://www.youtube.com/watch?v=7tq_HEDNbnE
 date: '2026-10-01'
 duration: 00:04:13
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter15
@@ -17,36 +19,99 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-At tapancha dashodhyaya purushottamayoga sribhagavanuvacha urdhvamula madhushakamashvatam prahuravyayam chandam siasya pranani sastam vedasavedavit ataschordhvam prasrtastasyasya kaguna pravardha vishaya pravalaha ataschamula anya santhata nikarma nobandhi nimanusha
+अथ पञ्चदशोऽध्यायः।
+पुरुषोत्तमयोगः।
+श्रीभगवानुवाच।
+ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्।
+छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्।
 
-### 00:00:33 · Speaker 1
+### 00:00:22 · Speaker 1
 
-Narupa masya hata to palabhyate nanto nacajr nacasm prateshta ashvatam enam subirudham ulam asangashastra nadridhe nacitva tataf padantat parimargitavyam yasmindata nivartantibhu yaha tam evachadyam purusham prapadyayatavpravratetvprasruta purani dirmanamohajitasang
+अधश्चोर्ध्वं प्रसृतास्तस्य शाखाः गुणप्रवृद्धा विषयप्रवालाः।
+अधश्च मूलान्यनुसन्ततानि कर्मानुबन्धीनि मनुष्यलोके।
 
-### 00:01:03 · Speaker 1
+### 00:00:35 · Speaker 1
 
-Sangadosa adhyatmanitya vinivrtaka mama dvandvair vimukta sukha dukha sangyaigat chanti mudhav patamam vyajnat natad bhasayate suryo nashankona pavakaha yadgatvana nivartante tadhamma paramam mama mamaivamsho jivaloke jivabhutasanatanaha manashashtanindriyani prakritas tani karsati
+न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च सम्प्रतिष्ठा अश्वत्थमेनं सुविरूढमूलम् असङ्गशस्त्रेण दृढेन छित्वा।
 
-### 00:01:33 · Speaker 1
+### 00:00:49 · Speaker 1
 
-Shariram yada vapno tiyacha pyutkramati shwaraha grahitvaitani samyativayur gandhani vashayat shrotan chakshus parashanancharasananghaname vacha adhishthayamanashchayam vishayanupasevate utkramantam sthitam vipunjanam va gunanvitham vimudhana nupashyantipas
+ततः पदं तत्परिमार्गितव्यं यस्मिन् गता न निवर्तन्ती भूयः।
+तमेव चाद्यं पुरुषं प्रपद्ये यतः प्रवृत्तिः प्रसृता पुराणी।
 
-### 00:02:03 · Speaker 1
+### 00:01:02 · Speaker 1
 
-Yatanto yoginas chayatam pashyant yatmanyavasthitam Yatanto pakratatmano nainam pashyant yachetasaha Yadadit jagatante jo jagadbhasayate kilem Yachandramasya chagnautatejo vidhima makam Gama vishyachabhuta nidharaya mehamo jasa
+निर्माणमोहाजितसङ्गदोषा अध्यात्मनित्याविनिवृत्तकामाः।
+द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै गच्छन्त्यमूढाः पदमव्ययन्तत।
 
-### 00:02:33 · Speaker 1
+### 00:01:14 · Speaker 1
 
-Pushnamichaujadhisarvaso mobhutva rasatmakaha Ahamvaishwanaro bhutva praninandehamasritaha Pranapanasamayuktakvachamyananchathoravidham Sarvascha chaamrdisanivisto mattasmrteradyanamapo hanancha Vedaischa saravairahameva vedyo vedanthakradvedavidvachaham
+न तद्भासयते सूर्यो न शशाङ्को न पावकः।
+यद्गत्वा न निवर्तन्ते तद्धाम परमं मम।
 
-### 00:03:03 · Speaker 1
+### 00:01:24 · Speaker 1
 
-dvaimo purusho lokaksharas chakshara ye vacham ksharasaravana bhuta nikuta sthokshara uchyate uttamav purushastvanyav paramatmet yudhakrataha yolo katrayama visha bibhartyavyaya isvaraha yasmat ksharamati toham akshara dapichotamaha atosmi lokave decha pratitav purushottamaha
+ममैवांशो जीवलोके जीवभूतः सनातनः।
+मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति।
 
-### 00:03:33 · Speaker 1
+### 00:01:34 · Speaker 1
 
-Yomam evam samudha jana tipurushottamam sasarvavid bhajatimam sarvabhavena Bharata Iti gushyatamam shastra midamuktamayanagha etat buddha buddhimansyat krtakrtyasya Bharata ontatsaditeshramad bhagavad-gita supaneshatsubrahmavidyayam yogashastra shrikrsnara jnanas
+शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः। गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात्।
 
-### 00:04:03 · Speaker 1
+### 00:01:46 · Speaker 1
 
-Sambade purushottama yoga namah
+श्रोत्रं चक्षुस्पर्शनं च रसनं घ्राणमेव च।
+अधिष्ठाय मनश्चायं विषयानुपसेवते।
+उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम्।
+
+### 00:02:01 · Speaker 1
+
+विमूढानानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः।
+यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम्।
+यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः।
+
+### 00:02:18 · Speaker 1
+
+यदादित्यगतं तेजो जगद्भासयतेखिलम्।
+यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्।
+
+### 00:02:29 · Speaker 1
+
+गामाविश्य च भूतानि धारयाम्यहमोजसा।
+पुष्णामि च औषधीः सर्वाः सोमो भूत्वा रसात्मकः।
+
+### 00:02:40 · Speaker 1
+
+अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।
+प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।
+
+### 00:02:51 · Speaker 1
+
+सर्वस्य चाहं हृदि सन्निविष्टो मत्तस्मृतिर्ज्ञानमपोहनञ्च।
+वेदैश्च सर्वैरहमेव वेद्यो वेदान्तकृद्वेदविदेव चाहम्।
+
+### 00:03:04 · Speaker 1
+
+द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च।
+क्षरः सर्वाणि भूतानि कूटस्थोक्षर उच्यते।
+उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः।
+यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः।
+
+### 00:03:24 · Speaker 1
+
+यस्मात् क्षरमतीतोऽहं अक्षरादपि चोत्तमः।
+अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः।
+
+### 00:03:34 · Speaker 1
+
+यो मामेवमसम्मूढो जानाति पुरुषोत्तमम्।
+स सर्वविद्भजति मां सर्वभावेन भारत।
+
+### 00:03:45 · Speaker 1
+
+इति गुष्यतमं शास्त्रमिदमुक्तं मया नघ।
+एतद्बुद्ध्वा बुद्धिमान् स्यात् कृतकृत्यश्च भारत।
+
+### 00:03:55 · Speaker 1
+
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे पुरुषोत्तमयोगो नाम पञ्चदशोऽध्यायः।

@@ -1,0 +1,27 @@
+# Sources deliberately excluded from the twin. Re-downloads must skip these ids.
+removed:
+- id: k-jy-VvN39o
+  title: '#careergrowth #dubairealestateconsultant #dubaisalescoach #realestatetraining'
+  date: '2024-07-10'
+  reason: background-music lyrics only
+  removed: '2026-10-09'
+- id: 3pX51cb8gVM
+  title: Thinks Again How to Stop Convinsing
+  date: '2024-07-30'
+  reason: five disconnected fragments, no usable content
+  removed: '2026-10-09'
+- id: fB0KvNumFOo
+  title: How can you handle any objection? Simple—you should not believe in it.
+  date: '2024-07-23'
+  reason: background-music lyrics only
+  removed: '2026-10-09'
+- id: A32nHbAutOU
+  title: The Region's First Casino is 1 hour away - Dubai Still will Benefit
+  date: '2024-09-12'
+  reason: duplicate upload of 2024-08-08 'Is Dubai's Economy Stronger Than Ever?' (identical audio/transcript)
+  removed: '2026-10-09'
+- id: gqYdszcZCw8
+  title: Why Are Buyers Saying It's TOO EXPENSIVE?!
+  date: '2024-10-17'
+  reason: duplicate upload of 2024-09-08 'Why is the Client giving you the Money Objection?!' (identical)
+  removed: '2026-10-09'

@@ -4,11 +4,13 @@ title: Skandha 08 Adhyaya 1 to 11 SrimadBhagavatam
 url: https://www.youtube.com/watch?v=1cJzpfbASqY
 date: '2026-06-28'
 duration: 01:33:53
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # Skandha 08 Adhyaya 1 to 11 SrimadBhagavatam
@@ -17,772 +19,2256 @@ speakers:
 
 ### 00:00:00 · Speaker 1
 
-Yatra vishvasrajam sargo mano nanyan vadasvanaha yatra dharma hi vidhasthatu varanashretha shubhaha manvantare hare janma karma ni chama hi yasaha grinan te kavya brahmanta ninovadasharandvatham yatasminantare
+राजोवाच।
+स्वायंभुवस्येह मनोर्वंशोयं विस्तराच्छ्रुतः।
+यत्र विश्वसृजां सर्गो मनूनन्यान् वदस्वनः।
 
-### 00:00:30 · Speaker 1
+### 00:00:13 · Speaker 1
 
-Brahman Bhagavan Vishwabhavanaha Kritaban Kurute Karta Hyatite Nagate Thava Ruchiruvacha Manavosmin Vyati Ta Shat Kalpeswayambhuva Dayaha Adyastekathito Hyatradeva Dinanchasambhava Akutyan Devahutyan Chaduhitrostasyavaimanoh Darmagnano Padeshara
+यत्र धर्मा हि विविधाश्चतुर्वर्णाश्रिताशुभाः। मन्वन्तरे हरेर्जन्मकर्माणि च महीयसः।
 
-### 00:01:00 · Speaker 1
+### 00:00:23 · Speaker 1
 
-Krtam bhagavan putratam gataha Krtam purabhagavata kapilasya nubaranetam Akyasya bhagavan yagno yachakarakuru dvaha Viraktaka mabhoge shushatarupa patifrabhu Visradjarajan tapase sabhar yo vanama vishat Sunandayam varashatam padai kenabhuvaṁ sprashan Tapyamanastapo
+गृणन्ति कवयो ब्रह्मन् तानि नो वद शृण्वताम्।
+यदस्मिन्नन्तरे ब्रह्मन् भगवान् विश्वभावनः।
+कृतवान् कुरुते कर्ता ह्यतीते ते नागतेऽथवा।
 
-### 00:01:30 · Speaker 1
+### 00:00:39 · Speaker 1
 
-Oghoramida manvahabharata Manurvacha Yena yendapate vishvam vishwavyam yatas tapaha Yojagartishayanesminayantamvedavedasaha Atma vasyamidam vishvam yajagatyanjagan manaha Tena tyaktenabunjitha magradhakasyachidhanam Yenapashyan tipashyan
+ऋषिरुवाच।
+मनवोस्मिन् व्यतीताः षट्कल्पे स्वायम्भुवादयः।
+आद्यस्ते कथितो ह्यत्र देवादीनां च सम्भवः।
 
-### 00:02:00 · Speaker 1
+### 00:00:52 · Speaker 1
 
-Tambhuta nilayande vam suparnam upadha vata yasya dhyantauna madhyanchana paronantaram bahihi vishvasya muniyadyasya madvishvanchatadrutam mahat savishvakaya puruhuta isasya satyam paranjo terajaf puranaha dathasyajan madhyajayatma shaktya tamvidya yodasyanirih
+आकूत्यान् देवहूत्यान् च दुहित्रोस्तस्य वैमनोः।
+धर्मज्ञानोपदेशार्थं भगवान् पुत्रतां गतः।
 
-### 00:02:30 · Speaker 1
+### 00:01:03 · Speaker 1
 
-Atadra ruchayash karma ni hante karma hantave I hamanohipurusha prayoni hampapadyate I hate bhagavani shonahitatravishajate Atmalabhena purnartho navasidantiye nutam Tami hamananirahankratam buddhir nira shishampur damananyachoditam Tachikshayantani jab
+कृतं पुरा भगवतः कपिलस्यानुवर्णितम्।
+आख्यास्ये भगवान् यज्ञो यच्चकार कुरुद्वह।
+विरक्तः कामभोगेषु शतरूपापतिः प्रभुः।
+विसृज्य राज्यं तपसे स भार्यो वनमाविशत्।
 
-### 00:03:00 · Speaker 1
+### 00:01:23 · Speaker 1
 
-Shri Shukhavacha Iti Mantro Panishadam Vyaharantam Samahitam Drishtvasuraya Tudhana Jagdhuma Bhadravan Kshudha Tamstatha Vasitan Viksha Yagnasara Vagato Harihi Yamaif Parevru Tode Vairhatva Sasatra Vishtapam
+सुनन्दायां वर्षशतं पदैकेन भुवं स्पृशन्।
+तप्यमानस्तपोघोरमिदमन्वाह भारत।
+मनुरुवाच।
 
-### 00:03:30 · Speaker 1
+### 00:01:36 · Speaker 1
 
-Tatrendro rochanastwasi devashchatushitadaya urjastambhayasya saptarushayobrahmahavadinaha rucheshuvoedashirasasthusitana mapatnyabhut tasyan jagneyato devo vibhurityabhivishrotaha
+येनायं तपते विश्वं विश्ववीर्यं यतस्तपः।
+यो जागर्ति शयानेस्मिन्नायं तं वेदवेदसः।
+
+### 00:01:47 · Speaker 1
+
+आत्मा वास्यमिदं विश्वं यज्जगत्यां जगन्मनः।
+तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यचिद्धनम्।
+
+### 00:01:58 · Speaker 1
+
+यन्न पश्यन्ति पश्यन्तं चक्षुर्यस्य न रिष्यति।
+तं भूतनिलयं देवं सुपर्णमुपधावत।
+यस्याद्यन्तौ न मध्यं च न परोऽनन्तरं बहिः।
+विश्वस्यामूनि यद्यस्माद्विश्वं च तद्रुतं महत्।
+
+### 00:02:18 · Speaker 1
+
+सविश्वकायः पुरुहूत ईशः सत्यं परं ज्योतिरजः पुराणः।
+धत्तेस्य जन्माद्यजयात्मशक्त्या तां विद्ययोदस्य निरीहास्ते।
+
+### 00:02:31 · Speaker 1
+
+अथाग्रऋषयः कर्माणि हन्ते कर्महन्तवे।
+ईहमानो हि पुरुषः प्रायो नीहां प्रपद्यते।
+
+### 00:02:41 · Speaker 1
+
+इहते भगवानीशो नहि तत्र विसज्जते। आत्मलाभेन पूर्णार्थो नावसीदन्ति येनु तम्।
+
+### 00:02:52 · Speaker 1
+
+तमीहमानन्निरहङ्कृतं बुधैर्निराशिषं पूर्णमनन्यचोदितम्।
+तच्छिक्षयन्तन्निजवर्त्ममूढान्प्रभुं प्रपद्ये खिलधर्मभावनम्।
+
+### 00:03:05 · Speaker 1
+
+श्रीशुक उवाच।
+इति मन्त्रोपनिषदं व्याहरन्तं समाहितम्।
+दृष्ट्वा सुरा यातुधाना जग्धुमभ्यद्रवन् क्षुधा।
+
+### 00:03:18 · Speaker 1
+
+तांस्तथा वसितान्वीक्ष्य यज्ञः सर्वगतो हरिः।
+यामैः परिवृतो देवैर्हत्वा शासत्रिविष्टपम्।
+
+### 00:03:28 · Speaker 1
+
+स्वारोचिषो द्वितीयस्तु मनुरग्नेः सुतो भवत्।
+द्युमत्सुषेणरोचिष्मत्प्रमुखास्तस्य चात्मजाः।
+
+### 00:03:39 · Speaker 1
+
+तत्रेन्द्रो रोचनस्त्वासीद्देवाश्चतुषितादयः। ऊर्जस्तंभादयः सप्तऋषयो ब्रह्मवादिनः।
+
+### 00:03:50 · Speaker 1
+
+ऋषेस्तु वेदशिरसस्तुषितानामपत्न्यभूत्। तस्यां जज्ञे ततो देवो विभुरित्यभिविश्रुतः।
 
 ### 00:04:00 · Speaker 1
 
-Ashta shita sahasra nimuna yoe dhratavrata Anvashikshan vratantas yakumarabrahamhacharinaha Tritiya utamonamapriavrata sutomanuhu Pavanasranjayo yagnahotra dyastatsuta nrupa Vashtatanayasapta ruchayapramada dayaha Satyavedashuta bhadradhava indrastusatya jit
+अष्टाशीतिसहस्राणि मुनयो ये धृतव्रताः अन्वशिक्षन् व्रतन्तस्य कौमारब्रह्मचारिणः।
+
+### 00:04:10 · Speaker 1
+
+तृतीय उत्तमो नाम प्रियव्रतसुतो मनुः।
+पवनसृञ्जयो यज्ञहोत्राद्यास्तत्सुता नृप।
+
+### 00:04:20 · Speaker 1
+
+वसिष्ठतनयाः सप्तऋषयः प्रमदादयः सत्या वेदश्रुता भद्रा देवा इन्द्रस्तु सत्यजित्।
 
 ### 00:04:30 · Speaker 1
 
-Dharma sya sunrata yan to bhagavan purushottama satyase na iti kato jata satyavratai saha sunrata vrata do shila nasato yaksharakshasan bhuta druho bhuta ganam stvadhid satyajit sutaha chaturtautama bharta manornam na jata pasaha vrushakya ter narake torityadyada
+धर्मस्य सूनृतायान्तु भगवान् पुरुषोत्तमः।
+सत्यसेन इति ख्यातो जातः सत्यव्रतैः सह।
 
-### 00:05:00 · Speaker 1
+### 00:04:41 · Speaker 1
 
-Dhatsuta ha Satyaka hara yovirade vastrishika isvaraha Jyotir dhamadayasaptarushayastapacentare Deva vidrata yonama vidrata stanayanrupa Nasthaka lena yairveda vidrutasvenate jasa Tatra bijagne bhagavan harinam harimedhasaha Haritya huto
+सो नृतव्रतदुःशीला न सतो यक्षराक्षसान्। भूतद्रुहो भूतगणांस्त्ववधीत् सत्यजित्स्तुतः।
 
-### 00:05:30 · Speaker 1
+### 00:04:51 · Speaker 1
 
-Yena gajendra mochito grahat rajo vacha badhara yana etate shrotomichahe vayam hariryata gajapatinra hagrasthamamu muchat tatkatha sumahat punyandhanyam swastyayanam shubham yatrayatra tamashlokobhagavan giyate harihi sutavvacha parikshitaiva
+चतुर्थौत्तमभ्रातामनुर्नाम्ना च तापसः।
+वृषः ख्यातिर्नरः केतुरित्याद्यादशतत्सुताः।
 
-### 00:06:00 · Speaker 1
+### 00:05:02 · Speaker 1
 
-Sato Badarajan if Prayo Pavishthena Kata Suto Dithaha Uvachavi Praph Pratinandiya Parthivam Muda Muninam Sadasis Mashan Vatam Sri Shukhavacha A Siddhirivarorajam Strikuta Iti Vishrotaha Kirode Navrutasriman Yojana Yutamuchritaha Tavata Vistrutaf Parayak Tribhishurunga If Payo Nidhim
+सत्यकाहरयो वीरा देवास्त्रिशिख ईश्वरः।
+ज्योतिर्धामादयः सप्तऋषयस्तापसेन्तरे।
 
-### 00:06:30 · Speaker 1
+### 00:05:13 · Speaker 1
 
-Dhishascharo chayana ste raupya yasahiran mayaihi Anyaishakakubhasarvara ratnadhathuvichitratihi Nanadrumalata gulmaist nirghoshair nirjaram basam Sadanirnidjamanangrisamantatpayor mibhihi Karotisha malambhumimshubhira marakata dibhihi Siddhacharanagandharva vidyad
+देवावैधृतयो नाम विधृतेस्तनया नृप।
+नष्टाः कालेन यैर्वेदा विधृतास्वेन तेजसा।
 
-### 00:07:00 · Speaker 1
+### 00:05:23 · Speaker 1
 
-Kinnarayrap sarobhischa kridadhir jushthakandaraha yatra sangita sanadyarnadadguhamarashaya abhigara jante harayashlaghinav parashankaya nana ranyapashuvratasankuladranya langrataha khitradrumasurodyana kalakantabihangamaha sarit sarobhirachodai pulinairamanibha
+तत्रापि यज्ञे भगवान् हरिण्यां हरिमेधसः।
+हरिरित्याहुतो येन गजेन्द्रो मोचितो ग्रहात्।
+राजोवाच।
 
-### 00:07:30 · Speaker 1
+### 00:05:36 · Speaker 1
 
-Devastri Madh Janamo Dasaurabhakta Nilayir Yudha Tasyadronyam Bhagavato Varunasyamahatmanaha Udyanamrato Manama Akridam Surayo Shetam Sarvato Lankratan Divyair Nityapushpaphaladrumaihi Mandaraf Parijataischa Patala Shokachampakaihi Chutaih Priya Lai
+बादरायण एतत् ते श्रोतुमिच्छामहे वयम्।
+हरिर्यथा गजपतिं ग्राहग्रस्तममूमुचत्।
+तत्कथासु महत्पुण्यं धन्यं स्वस्त्ययनं शुभम्।
+यत्र यत्रोत्तमश्लोको भगवान् गीयते हरिः।
 
-### 00:08:00 · Speaker 1
+### 00:05:56 · Speaker 1
 
-Svapanasiram brairam braatakai rapi Kramukair na rikelaishaksharju rairbi japurakai Madhukaisa lata lishatamalai rasanarju nai Aristo dumbo ruplakshir vataishkim shukachandanai Pichuman dai kovida rai saralais surada rubhihi Trakshakshiram bhajambu bhurbadariakshabhyamalai
+सूत उवाच।
+परीक्षितैवं स तु बादरायणिः प्रायोपविष्टेन कथासुचोदितः।
+उवाच विप्राः प्रतिनन्द्य पार्थिवं मुदा मुनीनां सदसि स्म शृण्वताम्।
+
+### 00:06:12 · Speaker 1
+
+श्रीशुक उवाच। आसीद्गिरिवरो राजं स्त्रीकूट इति विश्रुतः। क्षीरोदेनावृतः श्रीमान् योजनायुतमुच्छृतः।
+
+### 00:06:25 · Speaker 1
+
+तावता विस्तृतः पर्यक्त्रिभिः शृङ्गैः पयोनिधिम्।
+दिशश्चरोचयन्नास्ते रौप्यायसहिरण्मयैः।
+
+### 00:06:36 · Speaker 1
+
+अन्यैश्च ककुभः सर्वारत्नधातुविचित्रितैः।
+नानाद्रुमलतागुल्मैः निर्घोषैर्निर्झराम्भसाम्।
+
+### 00:06:47 · Speaker 1
+
+सदा निर्णिज्यमानां घृस्समन्तात्पयौर्भिः करोति श्यामलां भूमिं शुभैरमरकतादिभिः।
+
+### 00:06:57 · Speaker 1
+
+सिद्धचारणगन्धर्वविद्याधरमहोरगैः किन्नरैरप्सरोभिश्च क्रीडद्भिर्जुष्टकन्दरः।
+
+### 00:07:07 · Speaker 1
+
+यत्र सङ्गीतसन्नादैर्नदद्गुहममर्षया।
+अभिगर्जन्ति हरयश्लाघिनः परशङ्कया।
+नानारण्यपशुव्रातसङ्कुलद्रोण्यलङ्कृतः।
+चित्रद्रुमसुरोद्यानकलकण्ठविहङ्गमः।
+
+### 00:07:26 · Speaker 1
+
+सरित्सरोभिरच्छोदैः पुलिनैर्मणिवालुकैः।
+देवस्त्रीमज्जनामोदसौरभाक्ता निलैर्युतः।
+
+### 00:07:37 · Speaker 1
+
+तस्य द्रोण्यां भगवतो वरुणस्य महात्मनः उद्यानमृतुमन्नाम आक्रीडं सुरयोषिताम्।
+
+### 00:07:47 · Speaker 1
+
+सर्वतोलङ्कृतं दिव्यैर्नित्यपुष्पफलद्रुमैः मन्दारैः पारिजातैश्च पाटलाशोकचम्पकैः।
+
+### 00:07:58 · Speaker 1
+
+सूतैः प्रियालैः पनसैराम्ब्रैराम्ब्रातकैरपि क्रमुकैर्नारिकेलैश्च खर्जूरैर्बीजपूरकैः।
+
+### 00:08:09 · Speaker 1
+
+मधुकैः सालतालैश्च तमालैरसनार्जुनैः।
+अरिष्टो दुम्बरप्लक्षैर्वटैः किं शुकचन्दनैः।
+
+### 00:08:20 · Speaker 1
+
+पिचुमन्दैः कोविदारैः सरलैः सुरदारुभिः द्राक्षेक्षुरं भाजम्बूभिर्बदर्यक्षाभयामलैः।
 
 ### 00:08:30 · Speaker 1
 
-Bilwais kapithair jambirairavrutobhala takadibhi Tasmin sarasupulamlasat kanchanapankajam Kumudod palakalharashatapatrasheorjetam Matashatpada nirjushtam shakuntai kalanisvanaihamsakaran davakirananchakravaisarasairapi Jalakukutako yashtidatu ha kulaku jetam
+बिल्वैः कपित्थैर्जम्बीरैर्वृतो भल्लातकादिभिः तस्मिन् सरस्सु विपुलं लसत्काञ्चनपङ्कजम्।
 
-### 00:09:00 · Speaker 1
+### 00:08:41 · Speaker 1
 
-Matsyakachapasancha Rachalatpadmaraja Payaha Kadam bhavetasan alani pavanjulakirvratam Kundai kurabaka shokai shirishai kutajengudaihi Kubjakai svarna yuthibhrna gapuna gaja tibhihi Malika shatapatraishamadhavijalaka dibhihi Shobhitanti rajaishtan yair nityarthobhiralandrum
+कुमुदोत्पलकल्हारशतपत्रश्रियोर्जितम्।
+मत्तषट्पदनिर्जुष्टं शकुन्तैः कलनिस्वनैः।
+हंसकारण्डवाकीर्णं चक्राह्वैस्सारसैरपि।
+जलकुक्कुटकोयष्टिदात्यूहकुलकूजितम्।
 
-### 00:09:30 · Speaker 1
+### 00:09:01 · Speaker 1
 
-Tatraikada tadgiri kananashrayakare nobhiravaranayuthapastaran sakandakanki chakave novetra vadvisha lagulmam prajan vanaspatin yadgandhamatradhar yogajendra vyaghra dhyaviyalamruga sakadga mahoragashchapibhyadravanti sakaurakrishnasharabhaschamaryaha brukavaraha mahisarakshita
+मत्स्यकच्छपसञ्चारचलत्पद्मरजःपयः।
+कदम्बवेतसनलनीपवञ्जुलकैर्वृतम्।
+कुन्दैः कुरबकाशोकैः शिरीषैः कुटजेङ्गुदैः।
+कुब्जकैः स्वर्णयूथीभिर्नागपुन्नागजातिभिः।
+
+### 00:09:21 · Speaker 1
+
+मल्लिकाशतपत्रैश्च माधवीजालकादिभिः।
+शोभितन्तीरजैश्चान्यैर्नित्यर्थुभिरलन्द्रुमैः।
+
+### 00:09:31 · Speaker 1
+
+तत्रैकदा तद्गिरिकाननाश्रयः करेणुभिर्वारणयूथपश्चरन्।
+सकण्टकं कीचकवेणुवेत्रवद्विशालगुल्मं प्ररुजन् वनस्पतीन्।
+
+### 00:09:44 · Speaker 1
+
+यद्गन्धमात्राद्धरयोगजेन्द्राव्याघ्रादयो व्यालमृगाः स खड्गाः।
+महोरगाश्च पिभयाद्रवन्ति सगौरकृष्णाः शरभाश्च मर्यः।
+वृकावराहा महिषर्ष...
 
 ### 00:10:00 · Speaker 1
 
-Sagarmataptaskare bhikkharenasashadasya charantya bhita yadanugrahena sagarmataptaskare bhikkharenabhiravrtamadachutkalabhiranudhrutaha giringarimna paritavprakampayanishavyamano likulairmadashanai sarunilampankajare nureshitanjigvanvidurat madhavikvalekshanaha
+शल्या गोपुच्छसाला वृकमर्कटाश्च अन्ये च क्षुद्रा हरिणाः शशादयश्चरन्त्यभीता यदनुग्रहेण।
 
-### 00:10:30 · Speaker 1
+### 00:10:10 · Speaker 1
 
-Vrutasvayute natrushardite natatsaro varabhyashamata gamadhrutam vigahyatasmin namratam bunirmalam hemara bindot palare novasitam papunikaman nijapushkarodhrutam svatmanam adhisnapayan gataklamaha svapushkareno dhtasi karamubhiranipaya yatsamsnapayan yathagrihi gurdan karenon kalabham sthadurumado
+सघर्मतप्तः करिभिः करेणुभिर्वृतो मदच्युत्कलभैरनुद्रुतः।
+गिरिङ्गरिम्णापरितः प्रकम्पयन्निषेव्यमाणोलिकुलैर्मदाशनैः।
 
-### 00:11:00 · Speaker 1
+### 00:10:24 · Speaker 1
 
-Tatatrakaschinrupadivachoditograho baliyamsthrane ruchagrahit Yadruchayivamvyanangato gajo yathabalam soti balovichakrame Tatathuram yuthapatinkarenabo vikrishyanantarasa baliyasa Vichukrushodinadyoparegajav parshnikrahas taraetun natcha shakan
+सरोनिलं पङ्कजरेणुरूषितं जिघ्रन् विदूरात्मदविह्वलेक्षणः।
+वृतस्वयूथेन तृषार्दितेन तत्सरोवराभ्याशमथागमद्रुतम्।
+
+### 00:10:37 · Speaker 1
+
+विगाह्य तस्मिन्नमृताम्बुनिर्मलं हेमारविन्दोत्पलरेणुवासितम्।
+पपौनिकामन्निजपुष्करोद्धृतं स्वात्मानमद्भिस्नपयन्गतक्लमः।
+
+### 00:10:50 · Speaker 1
+
+स्वपुष्करेणोद्धृतशीकराम्बुभिर्निपाययत्संस्रपयन् यथा गृही।
+घूर्णन्करेणूनकलभांश्च दुर्मदो नाचष्टकृच्छ्रं कृपणो जमायया।
+
+### 00:11:04 · Speaker 1
+
+तं तत्र कश्चिन् नृपदैव चोदितो ग्राहो बलीयांश्चरणे रुषा ग्रहीत्।
+यदृच्छयैवं व्यसनं गतो गजो यथा बलं सोति बलो विचक्रमे।
+
+### 00:11:17 · Speaker 1
+
+तथातुरं यूथपतिं करेणवो विकृष्यमाणन्तरसा बलीयसा।
+विचुकृषुर्दीनधियोपरे गजाः पार्श्निग्रहाः तारयितुं न चाशक्न।
 
 ### 00:11:30 · Speaker 1
 
-Yudha tare vami bhendra nakrayor vikarajato ranta rato bahir mithaha samasahasram vayagaman mahi pate sa prana yosthramam sata maraha tatoga jendrasya saho balau ja sankale nadirge namaha na buddhyaha vikrasyamanasyajale vasi datho viparaya yobhud sakalanjalau kasaha itthanga jendrasya yada pasanka tampranasya de
+युध्यतोरेवमिभेन्द्रनक्रयोर्विकर्षतोरन्तरतो बहिर्मितः।
+समास्सहस्रं व्यगमन् महीपते सप्राणयोश्चित्रममं सतामराः।
 
-### 00:12:00 · Speaker 1
+### 00:11:42 · Speaker 1
 
-Namahivivasho yadrachaya aparayanatma vimokshane chirandadyavimam buddhimathabhyapadyata namahimagnata ya aturanga jashkutaskarinya prabhavantimochitum grahe napashena vidhatura vruto pyahanchatam yami paramparayanam yachaschaneshobalinonta koragat prashandavega dabhidhavato prasham
+ततो गजेन्द्रस्य सहो बलौजसां कालेन दीर्घेण महान भूद्वयः।
+विकृष्यमाणस्य जले वसीदतो विपर्ययो भूत् सकलं जलौकसः।
 
-### 00:12:30 · Speaker 1
+### 00:11:56 · Speaker 1
 
-Sri Sri Kabbah Vacha Evam Vyavasito Budhya Samadhyamano Ghrati Jajapaparamanjapiram Prakjan Manyanushikshetam Gajendra Vacha Vunnamo Bhagavate Tasmai Yata Etachidatmakam Purushaya Dibija Yaparesha Yahidhi
+इत्थं गजेन्द्रस्य यदापसङ्कटं प्राणस्य देही विवशो यदृच्छया।
+अपारयन्नात्मविमोक्षणे चिरं दध्याविमां बुद्धिमथाभ्यपद्यत।
 
-### 00:13:00 · Speaker 1
+### 00:12:09 · Speaker 1
 
-Yes minidam yataschetam yene damya idam swayam yosmat parasmachaparastam prapadyeswayam bhuvam yasvatmanidhanijamaya yarpitang vachidvhatang vachata terohitam avidhadraksakshubhayanta dikshatesa atmamulo vatumam paratparaha kalenapanchatvamiteshukritsna sho ke shuline
+नमामि मे ज्ञातय आतुरङ्गजाः कुतः करिण्यः प्रभवन्ति मोचितुम्।
+ग्राहेण पाशेन विधातुरावृतोप्यहं च तं यामि परम्परायणम्।
 
-### 00:13:30 · Speaker 1
+### 00:12:22 · Speaker 1
 
-Shuchasarvahe Tushu Tamastadasidgahananga Bhiram Yastasyapare Vivirajate Vibhuu Nayasyadeva Ruchayas Padam Vidurajantof Punakor Hatigantomi Ritam Yatanatasya Krithibhrevichestato Duratya Yanukramanasama Vatu Didrakshavo Yasyapadam Somangalam Vimukta Sanga Munayasya Susadhavaha Charantyalokam Vratamam
+यः कश्चनेषो बलिनोन्तको रगात् प्रचण्डवेगादभिधावतो भृशम्।
+भीतं प्रपन्नं परिपाति यद्भयान् मृत्युः प्रधावत्यरणन्तमीमहि।
+श्रीशुक उवाच।
 
-### 00:14:00 · Speaker 1
+### 00:12:39 · Speaker 1
 
-Tathapilokashraya sambhava yasyasvama yatanyanukalam ruchati tasmainam avpareshaya brahmane nantasaktaye arupa yorurupa yana mama asharya karmane nama atma pradipa yasakya
+एवं व्यवसितो बुद्ध्या समाधाय मनो हृदि।
+जजापपरमं जाप्यं प्राग्जन्मन्यनुशिक्षितम्।
 
-### 00:14:30 · Speaker 1
+### 00:12:49 · Speaker 1
 
-Namah paramatmane namo giram vidura yamanasashchetasa mapi satvena pratilabhyajanashkarmena vipashchetam namaskarivalyanatha yanirvana sukhasam vide namaskarayaghorayamudhayagunakarmane nirvishesha yasamya yanamogyanaghana yecha kshetragnya yanamastubhi
+गजेन्द्र उवाच।
+ॐ नमो भगवते तस्मै यत एतच्चिदात्मकम्।
+पुरुषायादिबीजाय परेशाय हि धीमहि।
 
-### 00:15:00 · Speaker 1
+### 00:13:01 · Speaker 1
 
-Namah sarvadhyaksha yasakshine Purushayatma mula yamula prakritayena maha sarvendriya gunadrastre sarvapratyayahetave asatyachavimukta yasadabhasayate namah namaste khilakarana yanarayanayartivina sanaya sarvagamam namaharnava yanamo pavargaya paraya
+यस्मिन् इदं यतश्चेदं येनेदं य इदं स्वयं।
+योस्मात् परस्माच्च परस्तं प्रपद्ये स्वयम्भुवम्।
 
-### 00:15:30 · Speaker 1
+### 00:13:12 · Speaker 1
 
-Guna Ranichan Natidushmapaya Tatkhobhavispurjitamanasaya Yuktatma viswardaye pari bhavitayagnanatmanebhagavate namaishwaraya Yendarmakamartavi mukta kama bhajanta isthankatimapnovanti kincha shisorachapidehamavya yankarotome da bradhyovi mokshanam ekantin
+यस्वात्मनीदन्निजमाययार्पितं क्वचिद्विभातं क्वचतत्तिरोहितम्।
+अविद्धदृक्साक्षुभयन्तदीक्षते स आत्ममूलो वतु मां परात्परः।
 
-### 00:16:00 · Speaker 1
+### 00:13:25 · Speaker 1
 
-No yes yashana kanchanartham vanchanti yete bhagavad pradhana aadyat bhutam yacharitam sumangalangayanta ananda samudramagna tamaksaram brahma paramparasham avyaktam ajatmikayo gaggamyam atindriyam sukshamivati duram anantamajyam paripurnamide yasya brahma dhyodeva veda lokasharachara
+कालेन पञ्चत्वमितेषु कृत्स्नशो लोकेषु लीनेषु च सर्वहेतुषु।
+तमस्तदासीद्गहनं गभीरं व्यस्तस्य पारेभिविराजते विभुः।
 
-### 00:16:30 · Speaker 1
+### 00:13:39 · Speaker 1
 
-Samarupabhibhe de njalpya chakalayakrta ha yathar chesognesaviturgabastayo nirjanti samjantiyasakrat svaro cheshaha tata yato yenguna sampravaho buddhir manakha nisharirasar gaha savainadevasura martyatereyanastri nashandro napumanajantuhu nayangunakar manasan nchasanishedheshesho jayata dash
+न यस्य देवारुषयः पदं विदुर्जन्तुः पुनः कोर्हति गन्तुमीरितम्।
+यथा नटस्याकृतिभिर्विचेष्टतो दुरत्ययानुक्रमणः समावतु।
 
-### 00:17:00 · Speaker 1
+### 00:13:51 · Speaker 1
 
-Jiji Vishena Hamihamuya Kimantarabahishta Vrataye Bhayonya Itchamikale Nanyasya Viplavastasyat Maloka Varanasyamokshanam
+दिदृक्षवो यस्य पदं सुमङ्गलं विमुक्तसङ्गामुनयः सुसाधवः।
+चरन्त्यलोकं व्रतमव्रणं वने सर्वात्मभूताः सुहृदस्समे गतिः।
+
+### 00:14:04 · Speaker 1
+
+न विद्यते यस्य च जन्मकर्म वा न नामरूपे गुणदोष एव वा।
+तथापि लोकाश्रयसम्भवाय यः स्वमायया तान्यनुकालमृच्छति।
+
+### 00:14:17 · Speaker 1
+
+तस्मै नमः परेशाय ब्रह्मणेनन्तशक्तये।
+अरूपायोरुरूपाय नमः आश्चर्यकर्मणे।
+नमः आत्मप्रदीपाय साक्षिणे परमात्मने।
+नमो गिरां विदूराय मनसश्चेतसामपि।
+
+### 00:14:37 · Speaker 1
+
+सत्त्वेन प्रतिलभ्याय नैष्कर्म्येण विपश्चिताम्।
+नमः कैवल्यनाथाय निर्वाणसुखसंविदे।
+
+### 00:14:47 · Speaker 1
+
+नमः शान्ताय घोराय मूढाय गुणकर्मणे।
+निर्विशेषाय साम्याय नमो ज्ञानघनाय च।
+
+### 00:14:58 · Speaker 1
+
+क्षेत्रज्ञाय नमस्तुभ्यं सर्वाध्यक्षाय साक्षिणे।
+पुरुषायात्ममूलाय मूलप्रकृतये नमः।
+
+### 00:15:08 · Speaker 1
+
+सर्वेन्द्रियगुणद्रष्ट्रे सर्वप्रत्ययहेतवे असत्याच्च विमुक्ताय सदाभासाय ते नमः।
+
+### 00:15:18 · Speaker 1
+
+नमो नमस्ते अखिलकारणाय नारायणायार्तिविनाशनाय।
+सर्वागमां नाय महार्णवाय नमोपवर्गाय परायणाय।
+
+### 00:15:31 · Speaker 1
+
+गुणारणिच्छन्नचिदुष्मपाय तत्क्षोभविस्फूर्जितमानसाय।
+युक्तात्मभिः स्वहृदये परिभाविताय ज्ञानात्मने भगवते नमः ईश्वराय।
+
+### 00:15:46 · Speaker 1
+
+यन् धर्मकामार्थविमुक्तकामा भजन्त इष्टां गतिमाप्नुवन्ति।
+किञ्चाशिशोरात्यपि देहमव्ययं करोतु मेदभ्रदयो विमोक्षणम्।
+
+### 00:15:59 · Speaker 1
+
+एकान्तिनो यस्य न कञ्चनार्थं वाञ्छन्ति ये ते भगवत्प्रधानाः।
+अत्यद्भुतं यच्चरितं सुमङ्गलं गायन्त आनन्दसमुद्रमग्नाः।
+
+### 00:16:11 · Speaker 1
+
+तमक्षरं ब्रह्मपरं परेषम् अव्यक्तमाध्यात्मिकयोगगम्यम्।
+अतीन्द्रियं सूक्ष्ममिव अतिदूरम् अनन्तमाद्यं परिपूर्णमीडे।
+
+### 00:16:24 · Speaker 1
+
+यस्य ब्रह्मादयो देवा वेदा लोकाश्चरचराः।
+नामरूपविभेदेन जल्प्या च कलया कृताः।
+
+### 00:16:34 · Speaker 1
+
+यथार्चिशोऽग्नेः सवितुर्गभस्तयो निर्यान्ति सम्यान्त्यसकृत्स्वरोचिषः।
+तथा यतोऽयं गुणसम्प्रवाहो बुद्धिर्मनः खानिशरीरसर्गः।
+
+### 00:16:48 · Speaker 1
+
+स वै न देवासुरमर्त्यतिर्यन्न स्त्री न षण्ढो न पुमान् न जन्तुः।
+नायं गुणः कर्म न सन्न चासन्निषेधशेषो जयतादशेषः।
+
+### 00:17:02 · Speaker 1
+
+जिजीविषेनाहमियामुया किमन्तर्बहिश्चावृतये भयोन्द्या।
+इच्छामि कालेन न यस्य विप्लवस्तस्यात्मलोकावरणस्य मोक्षणम्।
 
 ### 00:17:15 · Speaker 1
 
-Soham Vishwasrajam Vishwama Vishwam Vishwavedasam Vishwatma namajam pramhapranatosmi parampadam Yogarandhikarmano rati yoga vibhavite Yogino yem prapashanti yogi shantanatosmiyam Namo namaskar bhama shakyave gashaktetrayaya kila dhigunaya Prapannapala yaduranta shaktaye buddhindi
+सोहं विश्वसृजं विश्वमविश्वं विश्ववेदसं।
+विश्वात्मानमजं ब्रह्म प्रणतोस्मि परं पदम्।
 
-### 00:17:45 · Speaker 1
+### 00:17:25 · Speaker 1
 
-Nayam Vedaswam Atmanam Yachaktyahandhyah Tanduratyayam Hatmyam Bhagavantanatosmyaham Sri Shukhavacha Yevangajendra Mupavaranita Niravisheshambrahma Dayo Vidhalingabhida Bhimana Na Naite Yadopasasropur Nikhilat Makatva Tatra Kila Maravarohari
+योगरन्धितकर्माणो हृदियोगविभाविते।
+योगिनोयं प्रपश्यन्ति योगीशं तन्नतोस्म्यहम्।
 
-### 00:18:15 · Speaker 1
+### 00:17:35 · Speaker 1
 
-Chandra mayena garudena samohyam nashakra yudha hyagamada shuyato gajendraha sonda sarasya robalena grahita arto drashtva garudmati harinka upata chakram utshi pyasam bhujakarangiramaha kritranarayana kila gurū
+नमो नमस्तुभ्यमसह्यवेगशक्तित्रयायाखिलधीगुणाय।
+प्रपन्नपालाय दुरन्तशक्तये बुद्धीन्द्रियाणामनवाप्यवर्त्मने।
 
-### 00:18:45 · Speaker 1
+### 00:17:48 · Speaker 1
 
-Bhagavan namaste Tam Vikshaya Piti Tamajasahasvatiriyasakratham Shusarasakhrupa yojahara Grahadvipatita mukhajarinagendram sampasyatam hariramuchadushriyam Shri Sukhabhava Tada devarashigandhara vamhe shanapurogamaha mumuchukusumasaram shamsantakarmatadare
+नायं वेदस्वमात्मानं यच्छक्त्याहन्धियाहतः। तन्दुरत्ययमाहात्म्यं भगवन्तन्नतोस्म्यहम्।
 
-### 00:19:15 · Speaker 1
+### 00:17:59 · Speaker 1
 
-Nedur dundubhyo divya gandharva nanrator jaguhu ruchayascharana sidhashtovapurushottam yosau grahasavaisadya paramashchar yaru padrak mukto deva lasha penahur gandharva sattamaha pranam myashirasadhisham uttamashlokam vyayam agayata yashodhamakirta
+श्रीशुक उवाच एवं गजेन्द्रमुपवर्णितनिर्विशेषं ब्रह्मादयो विविधलिङ्गभिदाभिमानाः।
 
-### 00:19:45 · Speaker 1
+### 00:18:09 · Speaker 1
 
-Sankhya guna sat katham sonokam pita ishe na parikram yapranam yatam lokasyapasyato lokam samagan mukta kil bishaha gajendra bhagavatsparshad vimukto jnana bandhanat praptobhagavatorupam pita vasashchator bhujaha savipur vamabhudraja pandyo dravidasat tamaha indradyo
+नैते यदोपशसृपुर्निखिलात्मकत्वात् तत्राखिलामरवरो हरिराविरासीत्।
+तन्तद्वदार्थमुपलभ्य जगन्निवासस्तोत्रं निशम्यति विजयस्सहसंस्तुवद्भिः।
 
-### 00:20:15 · Speaker 1
+### 00:18:24 · Speaker 1
 
-Yadru chayatramaha yashamunisamagamachishyaganai parishrithaha tamvikshatoshni maktarahanadikamrahasyupasi namrahasyuchokopaha
+छन्दोमयेन गरुडेन समुह्यमानश्चक्रायुधो ह्यगमदाशु यतो गजेन्द्रः।
+सोन्तस्सरस्युरुबलेन गृहीत आर्तो दृष्ट्वा गरुत्मति हरिङ्ख उपात्तचक्रम्।
 
-### 00:20:45 · Speaker 1
+### 00:18:40 · Speaker 1
 
-Tasma imam shapa madhadasa durayan duratmakrta buddhiradya madhela nat pravishatantamisram yathagajastabdhamatisadoshaha shri shukabubhacha evam shaptvagato gastyobhagavanrapasanugaha inradyum no apirajarashirdeshtantadupadharayan apanakhaunjare
+उत्क्षिप्यसाम्भुजकरं गिरमाह कृच्छ्रान्नारायणाखिलगुरो भगवन् नमस्ते।
+तं वीक्ष्य पीडितमजः सहसा वतीर्यसग्राहमाशु सरसः कृपयोज्जहार।
 
-### 00:21:15 · Speaker 1
+### 00:18:55 · Speaker 1
 
-Haryarchana Nabhavena Yad Gajatve Pianus Mritih Evam Vimoksha Gaja Yuthapam Abhijana Bhastena Pippa Rishadatangamite Na Yuktaha Gandharvasiddha Vibhudhirupagi Yama Nakarmad Bhutam Swabhavanangaruda Sanogat Evam Maharajatave Rito Mayakrishna Nabhavo Gajarahajamoksha
+ग्राहाद्विपाटितमुखादरिणा गजेन्द्रं सम्पश्यतां हरिरमोमुचदुश्रियाणाम्।
+श्रीशुक उवाच।
 
-### 00:21:45 · Speaker 1
+### 00:19:06 · Speaker 1
 
-Atanukirtayanti tachrayas kama dvijatayaha shuchayaprataruthayaduswapnadhyupashantaye idama ha harefpreto gajendrakurusattama sharanvatam saravabhutanam saravabhutamayo vibhu
+तदा देवर्षिगन्धर्वा ब्रह्मेशा न पुरोगमाः।
+मुमुचुः कुसुमासारं शंसन्तः कर्म तद्धरेः।
+
+### 00:19:16 · Speaker 1
+
+नेदुर्दुन्दुभयो दिव्या गन्धर्वाननृतुर्जगुहुः। ऋषयश्चारणास्सिद्धास्तुष्टुवुः पुरुषोत्तमम्।
+
+### 00:19:27 · Speaker 1
+
+यो सौग्राहः स वै सद्यः परमाश्चर्यरूपधृक्।
+मुक्तो देवलशापेन हूहूर्गन्धर्वसत्तमः।
+
+### 00:19:38 · Speaker 1
+
+प्रणम्य शिरसाधीशम् उत्तमश्लोकमव्ययम्।
+अगायत यशोधाम कीर्तन्यगुणसत्कथम्।
+
+### 00:19:48 · Speaker 1
+
+सोनुकं पित ईशेन परिक्रम्य प्रणम्य तम् लोकस्य पश्यतो लोकं स्वमगान्मुक्तकिल्बिषः गजेन्द्रो भगवत्स्पर्श।
+
+### 00:20:00 · Speaker 1
+
+विमुक्ताद्विमुक्तो ज्ञानबन्धनात् प्राप्तो भगवतो रूपं पीतवासाश्चतुर्भुजः।
+स वै पूर्वमभूद्राजा पाण्ड्यो द्रविडसत्तमः इन्द्रद्युम्न इति ख्यातो विष्णुव्रतपरायणः।
+
+### 00:20:19 · Speaker 1
+
+स एकदाराधनकाल आत्मवान् गृहीत मौनव्रत ईश्वरं हरिम्।
+जटाधरस्तापस आप्लुतोच्युतं समर्चयामास कुलाचलाश्रयः।
+
+### 00:20:33 · Speaker 1
+
+यदृच्छया तत्र महायशा मुनिः समागमच्छिष्यगणैः परिश्रितः।
+तं वीक्ष्य तूष्णीमकृतार्हणादिकं रहस्युपासीनं ऋषिश्चुकोपः।
+
+### 00:20:46 · Speaker 1
+
+तस्मा इमं शापमदादसाधुरयन्दुरात्मा कृतबुद्धिरद्य।
+मध्येलनात्प्राविशतान्तमिश्रं यथा गजस्तब्धमतिः सदोषः।
+
+### 00:21:00 · Speaker 1
+
+श्रीशुक उवाच। एवं शप्त्वागतोगस्त्यो भगवान् नृपसानुगः। इन्द्रद्युम्नोऽपि राजर्षिर्दिष्टं तदुपधारयन्।
+
+### 00:21:13 · Speaker 1
+
+आपन्नः कौञ्जरीं योनिम् आत्मस्मृतिविनाशिनीम्।
+हर्यर्चानानुभावेन यद्गजत्वेऽप्यनुस्मृतिः।
+
+### 00:21:24 · Speaker 1
+
+एवं विमोक्ष्य गजयूथपमब्जनाभस्तेनापि पारिशदताङ्गमितेन युक्तः।
+गन्धर्वसिद्धविबुधैरुपगीयमानकर्माद्भुतं स्वभवनं गरुडासनोगात्।
+
+### 00:21:39 · Speaker 1
+
+एवं महाराज तवे रितो मया कृष्णानुभावो गजराजमोक्षणम्।
+स्वर्ग्यं यशस्यं कलिकल्मशापहं दुःस्वप्ननाशं कुरु वर्यशरण्वताम्।
+
+### 00:21:53 · Speaker 1
+
+अथानुकीर्तयन्त्येतच्छ्रेयस्कामाद्विजातयः शुचयः प्रातरुत्थाय दुःस्वप्नाद्युपशान्तये।
+
+### 00:22:04 · Speaker 1
+
+इदमाह हरिः प्रीतो गजेन्द्रं कुरुसत्तमा।
+शृण्वतां सर्वभूतानां सर्वभूतमयो विभुः।
 
 ### 00:22:15 · Speaker 1
 
-Sri Bhagavanu Vacha Yamanthwancha Saraschetangirikandaraka Nanam Vitraki Chakavenu Nangulmani Surapadapan Sringani Manidhishnya Nibramhanome Shivasyacha Kirodamme Priyandhamashvetadvipanchabhasaram Sri Vatsangaustubhamalangadangamodakimama
+श्रीभगवानुवाच।
+येमान् त्वां च सरश्चेदं गिरिकन्दरकाननं।
+वेत्रकीचकवेणूनां गुल्मानि सुरपादपान्।
 
-### 00:22:45 · Speaker 1
+### 00:22:29 · Speaker 1
 
-Sudarshanam Panchajanyam Suparanam Patagesharam Sheshanchamatkalam Suksham Shriyande Vimadashrayam Brahmhan Naradam Rashi Bhavam Prakladamevacha Matyakur Mavarahadya Rava Taraikrata Nime Karmanyanantapunyanisuryasomahutashanam Pranavam Satyamavyakthangove Pranam
+शृङ्गाणि मानिधिष्ण्यानि ब्रह्मणो मे शिवस्य च। क्षीरोदं मे प्रियं धाम श्वेतद्वीपञ्च भास्वरम्।
 
-### 00:23:15 · Speaker 1
+### 00:22:40 · Speaker 1
 
-Dharma mokshayam Dakshayani dharmapatnim so makasyapayo rapi Gangam sarasvatin nandam kalindim sitavaranam druvam brahmharushin saptapunyashlokam shchamanavan utthaya paratrante prayata susama hitaha smaranti mamarupani mukhyante temahasokhilat ye
+श्रीवत्सं कौस्तुभं मालाङ्गदां कौमोदकीं मम।
+सुदर्शनं पाञ्चजन्यं सुपर्णं पतगेश्वरम्।
 
-### 00:23:45 · Speaker 1
+### 00:22:50 · Speaker 1
 
-Mams tovantyane nanga pratibuddhyani satyaye tesham pranatyaye chahan dadami vimalam matim shri jukavu vacha itya deshyashri kesav pradma yajalajotam harishayan vibudhani kamaruha kagadhipam shri jukavu vacha raja nuditametate harish karmaghana shanam
+शेषं च मत्कलां सूक्ष्मां श्रियं देवीं मदाश्रयां।
+ब्रह्माणं नारदमृषिं भवं प्रह्लादमेव च।
 
-### 00:24:15 · Speaker 1
+### 00:23:01 · Speaker 1
 
-Gajendra Mokshanam punyam raivatantvantaram shunu panchamo raivato nama manusta pasasodaraha balavindhyadyastasyasyasuta arjunapurvaka vibhurindrasuraganarajanbhataraya dayaha hiranya roma vedashira urdvabhada yodvijaha patni vibhanta shubhrasyavikuntai
+मत्स्यकूर्मवराहाद्यैरवतारैः कृतानि मे कर्माण्यनन्तपुण्यानि सूर्यसोमहुताशनान्।
 
-### 00:24:45 · Speaker 1
+### 00:23:12 · Speaker 1
 
-Tayosvakalaya Jagne Vaikunta Bhagavan Swayam Vaikunta Kalpetoena Loko Loka Namaskrata Ramaya Pratyama Nadevya Tatpriyakamya Tasya Nobhavakacheto Guna Chaparamo Daya Bhuman Redhunsavimayo Vishnora Varanayad Guna Shastha Chacha
+प्रणवं सत्यमव्यक्तं गोविप्रान् धर्ममक्षयम्।
+दाक्षायणीं धर्मपत्नीं सोमकश्यपयोरपि।
 
-### 00:25:15 · Speaker 1
+### 00:23:23 · Speaker 1
 
-Chakshusha Putra Chakshushona Mabhai Manohu Purusha Purusha Sudhyamna Pramukha Chakshushat Majah Indra Mandradhyumastatradeva Apyadayogana Munayastatravairajahari Madhvirakadayaha Tatra Pideva Sambhutyam Vairajasya Bhavatsutaha Ajitona Mabhagavanam Shena Jagatapatihi
+गङ्गां सरस्वतीं नन्दां कालिन्दीं सितवारणम्।
+ध्रुवं ब्रह्मऋषीं सप्तपुण्यश्लोकांश्च मानवान्।
+उत्थाय पररात्रान्ते प्रयताः सुसमाहिताः।
+
+### 00:23:39 · Speaker 1
+
+स्मरन्ति मम रूपाणि मुच्यन्ते ते महसोखिलात्।
+ये मां स्तुवन्त्यनेनाङ्गप्रतिबुध्यनिषात्यये।
+तेषां प्राणात्यये चाहं ददामि विमलां मतिम्।
+
+### 00:23:55 · Speaker 1
+
+श्रीशुक उवाच इत्यादिश्य हृषीकेशः प्राध्माय जलजोत्तमम्।
+हर्षयन् विबुधानीकमारुरोह खगाधिपम्।
+
+### 00:24:08 · Speaker 1
+
+श्रीशुक उवाच। राजन् नुदितमेतत्ते हरेः कर्माघनाशनम्। गजेन्द्रमोक्षणं पुण्यं रैवतं त्वन्तरं शृणु।
+
+### 00:24:22 · Speaker 1
+
+पञ्चमो रैवतो नाम मनुस्तापससोदरः।
+बलविन्ध्यादयस्तस्य सुता अर्जुनपूर्वकाः।
+
+### 00:24:32 · Speaker 1
+
+विभुरिन्द्रः सुरगणा राजन् भूतरयादयः।
+हिरण्यरोमा वेदशिरा ऊर्ध्वबाह्वादयो द्विजाः।
+
+### 00:24:42 · Speaker 1
+
+पत्नी विकुण्ठा शुभ्रस्य वैकुण्ठैः सुरसत्तमैः तयोः स्वकलया जज्ञे वैकुण्ठो भगवान् स्वयम्।
+
+### 00:24:53 · Speaker 1
+
+वैकुण्ठः कल्पितो येन लोको लोकनमस्कृतः।
+रमया प्रार्थ्यमानेन देव्या तत्प्रियकाम्यया।
+
+### 00:25:03 · Speaker 1
+
+तस्यानुभावः कथितो गुणाश्च परमोदयाः। भौमान् रेणून् च विममेयो विष्णोर्वर्णयेद्गुणान्।
+
+### 00:25:14 · Speaker 1
+
+षष्ठश्च चक्षुषः पुत्रश्चाक्षुषो नाम वै मनुः।
+पुरुः पुरुषसुद्युम्नप्रमुखाश्चाक्षुषात्मजाः।
+
+### 00:25:25 · Speaker 1
+
+इन्द्रो मन्द्रद्युमस्तत्र देवा आप्यादयो गणाः।
+मुनयस्तत्र वैराजहरिमद्वीरकादयः।
+
+### 00:25:35 · Speaker 1
+
+तत्रापि देवः सम्भूत्यां वैराजस्याभवत्सुतः। अजितो नाम भगवानंशेन जगतः पतिः।
 
 ### 00:25:45 · Speaker 1
 
-Payobdhim yena nirmatyasuranam sadhita sudha brahmamanam bhajidhratah karmarupena mandaraha rajo vacha yata bhagavata brahmam matita kshirasagaraha yadartam va yataschadrindadharam bhucharatmana yata mrutam suraif praptankimanyata bhavatataha yata bhagavata
+पयोब्धिं येन निर्मथ्य सुराणां साधिता सुधा।
+भ्रममाणोम्भसि धृतः कूर्मरूपेण मन्दरः।
+राजोवाच।
 
-### 00:26:15 · Speaker 1
+### 00:25:58 · Speaker 1
 
-Bhagavata karma vada svaparamad bhutam twayetankatyamane namahina satvatam patehe natitra pyatime chitam suchiranta pata pitam sutavu vacha samprashta bhagavane vandvaipayanasuto dvijaha abhinandya hare virya mabhya chastum prachakrame shri shukhavu vacha
+यथा भगवता ब्रह्मन्मथितः क्षीरसागरः यदर्थं वा यतश्चाद्रिन्दधाराम्बुचरात्मना।
 
-### 00:26:45 · Speaker 1
+### 00:26:09 · Speaker 1
 
-Yada yudhe surairdeva badhyam nashita yudhai Gata sava nipatitanoteshtaran smabhu yashaha Yadadurva sasha penasendra lokastrayon rupa Nishri kasha bhavamstatra ne shurijadikashkriyaha Nishamyaita suragana mahendra varunadayaha Nadyagachanswayam mantra mantra yanto
+यथामृतं सुरैः प्राप्तं किमन्यदभवत् ततः।
+एतद्भगवतः कर्म वदस्व परमाद्भुतम्।
 
-### 00:27:15 · Speaker 1
+### 00:26:19 · Speaker 1
 
-Tato brahma sabhan jagmur merur mordhani sarvashah sarvam vignya payanchakruf pranatharameshtine saviloken draivadin isatvan vigata prabhan loka namangala prayan surash chayavayata vibhuu samahitenamana saasamsaran purusham param uvachotula
+त्वयेत्थं कथ्यमानेन महिना सात्वतां पतेः नातितृप्यति मे चित्तं सुचिरन्तापतापितम्।
 
-### 00:27:45 · Speaker 1
+### 00:26:29 · Speaker 1
 
-Adbhavadan Devan Sabhagavan Paraha Aham Bhavo Yuyamato Suradayo Manushyatir Yagdrum Agarmajadayaha Yasya Vataram Shakala Visarjita Vraja Masarave Saranantam Vyayam Nayasya Vadyona Charakshani Yono Pekshani Yadarani Yapakshaha Ta Pisaragastiti Samyamartandhateraja Satvatamam Shikale
+सूत उवाच।
+सम्पृष्टो भगवानेवं द्वैपायनसुतो द्विजाः।
+अभिनन्द्य हरेर्वीर्यमभ्याचष्टुं प्रचक्रमे।
+
+### 00:26:42 · Speaker 1
+
+श्रीशुक उवाच।
+यदा युद्धे सुरैर्देवा बाध्यमानाश्चितायुधैः।
+गतासवो निपतितानोत्तिष्ठेरन्स्मभूयशः।
+
+### 00:26:56 · Speaker 1
+
+यदा दुर्वासशापेन सेन्द्रालोकास्त्रयो नृप निश्रीकाश्चाभवंस्तत्र नेषु रिद्यादिकाः क्रियाः।
+
+### 00:27:07 · Speaker 1
+
+निशाम्यैतत् सुरगणा महेन्द्रवरुणादयः।
+नाध्यगच्छन् स्वयं मन्त्रैर्मन्त्रयन्तो विनिश्चयम्।
+
+### 00:27:17 · Speaker 1
+
+ततो ब्रह्मसभान् जग्मुर्मेरोर्मूर्धनि सर्वशः सर्वं विज्ञापयाञ्च कृः प्रणताः परमेष्ठिने।
+
+### 00:27:28 · Speaker 1
+
+सविलोकेन्द्रवायुवादीन्निस्सत्वान् विगतप्रभान्।
+लोकानमङ्गलप्रायान्सुराश्चैव यथाविभुः।
+
+### 00:27:39 · Speaker 1
+
+समाहितेन मनसा संस्मरन् पुरुषं परम्।
+उवाचोत्फुल्लवदनो देवान् स भगवान् परः।
+अहं भवो यूयमथो सुरादयो मनुष्यतिर्यग्द्रुमघर्मजादयः।
+
+### 00:27:55 · Speaker 1
+
+यस्यावतारां शकला विसर्जिता व्रजाम सर्वे शरणन्तमव्ययम्।
+न यस्य वध्यो न च रक्षणीयो नोपेक्षणीयादरणीयपक्षः।
+थापि सर्गस्थितिसम्यमार्थं धत्ते रजःसत्त्वतमांसि काले।
 
 ### 00:28:15 · Speaker 1
 
-Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasya Tasy
+अयन्तु तस्य स्थितिपालनक्षणः सत्त्वञ्जुषाणस्य भवाय देहिनाम्।
+तस्माद्व्रजामः शरणं जगद्गुरुं स्वानां सनोधास्यति शंसुरप्रियः।
 
-### 00:28:45 · Speaker 1
+### 00:28:28 · Speaker 1
 
-Stuti mad bhuta daivi bhargir bhishthvah itendriyaha brahmuvacha avikriyam satyamanantam adhyanguhasyanishkalamapratarkyam mano grajanam vachasaniroktanam mamahe deva varam varenyam
+श्रीशुक उवाच। इत्याभाष्य सुरान्वेधाः सहदेवैररिन्दम। अजितस्य पदं साक्षाज्जगाम तमसः परम्।
+
+### 00:28:41 · Speaker 1
+
+तत्रादृष्टस्वरूपाय श्रुतपूर्वाय चाभ्यधात्। स्तुतिमद्भुतदैवीभिर्गीर्भिस्त्ववहितेन्द्रियः।
+
+### 00:28:51 · Speaker 1
+
+ब्रह्मोवाच।
+अविक्रियं सत्यमनन्तमाद्यं गुहाशयन् निष्कलमप्रतर्क्यम्।
+मनोग्रयाणं वचसा निरुक्तं नमामहे देववरं वरेण्यम्।
 
 ### 00:29:07 · Speaker 1
 
-Upaschitam pranamana diyatmanam artendriyabhasamanidram avranam chaya tapau yatranagra drpakshau tamaksarankhantri yugam vrajamahe ajasyachakran tvajayaramanam mano mayam panchadasharamashu trinabhividjut bala mashtanemi adakshama hushamrutam prapadye yade kavaranantamasa param sadalo kamavyaktamanantaparam
+विपश्चितं प्राणमनोधियात्मनामर्थेन्द्रियाभासमनिद्रमव्रणम्।
+छायातपौ यत्र न गृध्रपक्षौ तमक्षरं खन्त्रियुगं व्रजामहे।
 
-### 00:29:37 · Speaker 1
+### 00:29:19 · Speaker 1
 
-Asan chakarupa suparna patram upasate yogarate nadhiraha nayasya kashtati viparti mayam yajana muhyati vedanartham
+अजस्य चक्रं त्वजयेर्यमाणं मनोमयं पञ्चदशारमाशु।
+त्रिनाभिविद्युद्बलमष्टनेमि यदक्षमाहुस्तमृतं प्रपद्ये।
 
-### 00:29:50 · Speaker 1
+### 00:29:32 · Speaker 1
 
-Sanjeeva Jitamattamagunam Pareeshanama Mibhute Shosaman Charantham
+यदेकवर्णं तमसः परं सदलोकमव्यक्तमनन्तपारम्।
+आसाञ्चकारोपसुपर्णपत्रमुपासते योगरथेन धीराः।
 
-### 00:29:57 · Speaker 1
+### 00:29:44 · Speaker 1
 
-Yame vayam yatkrpayivate to satvena srishta bahiran taram vibho gatinasukshma mrsyasya vidmahe kuto suradya itara pradhana padu mahiyam svakratai vayasya chatura vidho yatra hibhuta sarghaha savaimahapurusha atmatantra prasidhatam brahmaha vibhutihi ambastu yadre taudaravirya mshidhantijivan chittavar dhamana
+न यस्य कश्चातिपि पर्तिमायां यया जनो मुह्यति वेदनार्थं तन्निर्जितात्मात्मगुणं परेशं नमामि भूतेषु समं चरन्तम् इमे वयं यत्कृपयैव ते तु।
 
-### 00:30:27 · Speaker 1
+### 00:30:00 · Speaker 1
 
-Loka astrayotha kila lokapala prasiddhatam brahma maha vibhuti hi Somam mano yasya samam anantibhukasam vai balamandha ayuhu Isha naganam prajanaprajanam prasiddhatana samaha vibhuti hi Adnir mukham yasya dojata vedajata kriyakandanimita janma Antasamudre pachatasvadhatun
+सत्त्वेन सृष्टा बहिरन्तरं विभो गतिन्नसूक्ष्मा मृषयश्च विद्महे कुतो सुराद्या इतरप्रधानाः।
 
-### 00:30:57 · Speaker 1
+### 00:30:10 · Speaker 1
 
-Prasiddhatana samaha vibhuti hi yachaksura sitaranirdeva yannantrai mayobramhana yeshadhishnyam dvaranjamukte ramratasyamratyo prasiddhatana samaha vibhuti hi prana dabhudjascharacharanam pranasahovai balamo jashchavayuhu anvasmasamrajamivanugavayam prasiddhatana samaha vibhuti hi
+पादौ महीयं स्वकृतैव यस्य चतुर्विधो यत्र हि भूतसर्गः।
+स वै महापुरुष आत्मतन्त्रः प्रसीदतां ब्रह्ममहाविभूतिः।
+
+### 00:30:23 · Speaker 1
+
+अम्भस्तु यद्रेत उदारवीर्यं सिद्ध्यन्ति जीवन्त्युतवर्धमानाः।
+लोकास्त्रयोथाखिललोकपालाः प्रसीदतां ब्रह्ममहाविभूतिः।
+
+### 00:30:36 · Speaker 1
+
+सोमं मनो यस्य समामनन्ति दिवौकसां वै बलमन्ध आयुः।
+ईशोनगानां प्रजनः प्रजानां प्रसीदतान्नः समः विभूतिः।
+
+### 00:30:49 · Speaker 1
+
+अग्निर्मुखं यस्य तु जातवेदा जातः क्रियाकाण्डनिमित्तजन्म।
+अन्तस्समुद्रे पचतस्वधातून् प्रसीदतान्नः समः विभूतिः।
+
+### 00:31:01 · Speaker 1
+
+यच्चक्षुरासीत्तरणिर्देवयानं त्रयीमयो ब्रह्मण एषधिष्ण्यम्।
+द्वारं च मुक्तेरमृतस्य मृत्योः प्रसीदतान्नः समहाविभूतिः।
+
+### 00:31:14 · Speaker 1
+
+प्राणादभूद्यश्च चराचराणां प्राणः सहो वै बलमोजश्च वायुः। अन्वास्मसम्राजमिवानुगावयं प्रसीदतान्नस्समहाविभूतिः।
 
 ### 00:31:27 · Speaker 1
 
-Sadhya shodhyasya rudhasya kani prajagnir ekam purushasya nabhyaha pranendriyatmas vashari rabandhup prasidatanas samaha vibhutihi balan mahendrastridashav prasadan manyorgiri shosharanadvirincha ha kebyasya chandam srishayastu medrathav prasidatanas samaha vibhutihi shirvakshasav pitarashayasya sandarmastana ditharaf
+श्रोत्राद्दिशो यस्य हृदश्चखानिप्रजग्निरेखं पुरुषस्य नाभ्याः।
+प्राणेन्द्रियात्मा स्वशरीरबन्धुः प्रसीदतान्नः समहाविभूतिः।
 
-### 00:31:57 · Speaker 1
+### 00:31:40 · Speaker 1
 
-prashatobhut dhyauryas chashirishnop sara so viharat prasidhatana samaha vibhuti hi vipra mukhadbrahmachayas chagukhyam rajanya asid bhujayor balancha urvar vidodhonghiravedashudra prasidhatana samaha vibhuti hi lobhodharat prithiruparyabhud yutiranastav pashavyam sparashena kama ha drvoryam aphakshabhavas
+बलान् महेन्द्रस्त्रिदशाः प्रसादान् मन्योर्गिरीशो शरणाद्विरिञ्चः। खेभ्यश्च छन्दांसिषयस्तु मेढृतः प्रसीदतान्नस्समहाविभूतिः।
 
-### 00:32:27 · Speaker 1
+### 00:31:53 · Speaker 1
 
-Namo stutasma upashantashaktaye swara jala bhapa repuritatmane guneshoma yaratite svratibhrnasajamanaya namasvabhutaye
+श्रीर्वक्षसः पितरश्चाययासं धर्मस्तनादितरः पृष्ठतो भूत्।
+दौर्यस्य शीर्ष्णोप्सरसो विहारात् प्रसीदतान्नः स महाविभूतिः।
 
-### 00:32:57 · Speaker 1
+### 00:32:07 · Speaker 1
 
-Sattvano dharasyatman amasmat karanago charaha prapananan didrakshunam sasmitante mukham bhujam tais taisve chakratarupai kalle kalle svayam vibho karmadura vishaham yanno bhagavan vaikaroti hi klesha bhuryalpasara ni karma ni viphalanicha dehinam vishayarthanana tat tai
+विप्रोमुखाद्ब्रह्मचर्यस्य गुह्यं राजन्यासीत् भुजयोर्बलं च।
+ऊर्वोर्विडो जोङ्घ्रिरवेदशूद्रौ प्रसीदतान्नस्समहाविभूतिः।
 
-### 00:33:27 · Speaker 1
+### 00:32:19 · Speaker 1
 
-Nadhamakarma Kalpopeviphalayeshwararpitaha Kalpatpurushasyaivasachyatma dayito hitaha Yata hiskandashakhanantarormula vasechanam Evamardhanam Vishnosareshamatmanashahi Namastubhyamananta yadurvitar katmakarmane Nirguna yagunam
+लोभोधरात् प्रीतिरुपर्यभूद्युतिरनस्तः पशव्यं स्पर्शेन कामः।
+भ्रुवोर्यमः पक्ष्मभवस्तु कालः प्रसीदतान्नस्समः विभूतिः।
 
-### 00:33:57 · Speaker 1
+### 00:32:32 · Speaker 1
 
-Sri Shukhavacha Evam Stutasuraganir Bhagavan Harish Varaha Te Shama Virabudrajansahasrakodaya Jutihi Tenai Vamahasasarve Deva Pratihatekshanaha Napashyan Kandishakshoni Matmananchagrato Vibhum Virincho Bhagavanrashti
+द्रव्यं वयः कर्मगुणाश्च शेषं यद्योगमायाविहताः पतन्ति।
+यद्दुर्विभाव्यं प्रबुधावबोधं प्रसीदतान्नस्समहाविभूतिः।
 
-### 00:34:27 · Speaker 1
+### 00:32:45 · Speaker 1
 
-Sahasharavan Bharata Svachamarakatasya Mankanjagarabharuneekshanam Taptahema Vadate Nalasatkaujaya Vasasa Prasannacharusaravangam Sumukham Sundarabhruvam Mahamanikiri Tenake Urabhyanchabhushtam Karanabharanirbhatakapo Lashre Mukham Bujam Kanchik
+नमोस्तु तस्मा उपशान्तशक्तये स्वराज्यलाभपरिपूरितात्मने।
+गुणेषु माया रचितेषु वृत्तिभिर्न सज्जमानाय नमः स्वभूतये।
+
+### 00:32:58 · Speaker 1
+
+सत्वन्नो दर्शयात्मानमस्मत्करणगोचरः। प्रपन्नानान्दिदृक्षूणां सस्मितं ते मुखाम्बुजम्।
+
+### 00:33:09 · Speaker 1
+
+तैस्तैस्वेच्छाकृतैरूपैः काले काले स्वयं विभो।
+कर्मदुर्विषहं यन्नो भगवान्वै करोतिहि।
+
+### 00:33:19 · Speaker 1
+
+क्लेशभूर्यल्पसाराणि कर्माणि विफलानि च देहिनां विषयार्तानां न तथैवार्पितं त्वयि।
+
+### 00:33:30 · Speaker 1
+
+नाथमः कर्मकल्पोऽपि विफलायेश्वरार्पितः।
+कल्पते पुरुषस्यैव सह्यात्मा दयितो हितः।
+
+### 00:33:40 · Speaker 1
+
+यथा हि स्कन्धशाखानान्तरोर्मूलावसेचनम्।
+एवमाराधनं विष्णोः सर्वेषामात्मनश्च हि।
+
+### 00:33:51 · Speaker 1
+
+नमस्तुभ्यमनन्ताय दुर्वितर्क्यात्मकर्मणे। निर्गुणाय गुणेशाय सत्वस्थाय च साम्प्रतम्।
+
+### 00:34:02 · Speaker 1
+
+श्रीशुक उवाच।
+एवं स्तुतः सुरगणैर्भगवान् हरिरीश्वरः।
+तेषामाविरभूद्राजन् सहस्रार्कोदयद्युतिः।
+
+### 00:34:14 · Speaker 1
+
+तेनैव महसा सर्वे देवाः प्रतिहते क्षणाः।
+नापश्यन् खन्दिशः क्षोणीमात्मानं चाग्रतो विभुम्।
+
+### 00:34:25 · Speaker 1
+
+विरिंचो भगवान् दृष्ट्वा सहशर्वेण भारत। स्वच्छं मरकतश्यामं कञ्जगर्भारुणेक्षणम्।
+
+### 00:34:36 · Speaker 1
+
+तप्तहेमा वदाते नलसत्कौशेयवाससा प्रसन्नचारुसर्वाङ्गं सुमुखं सुन्दरभ्रुवम्।
+
+### 00:34:46 · Speaker 1
+
+महामणिकिरीटेन केयूराभ्यां च भूषितम्।
+कर्णाभरणनिर्भातकपोलश्रीमुखाम्बुजम्।
 
 ### 00:34:57 · Speaker 1
 
-Sudarshana dibhisvastrayor murtimadhirupa sitam tushthavadeva pravarasarvesham purusham param sarva garakanai sardham sarvanga iravaningatihi brahma vacha ajayajanmaschiti samyama yaguna yane
+काञ्चीकलापवलयहारनूपुरशोभितम्।
+कौस्तुभाभरणं लक्ष्मबिभ्रतं वनमालिनम्।
+सुदर्शनादिभिः स्वास्त्रैर्मूर्तिमद्भिरुपासितम्।
+तुष्टावदेव प्रवरः सर्वेषं पुरुषं परम्।
 
-### 00:35:27 · Speaker 1
+### 00:35:16 · Speaker 1
 
-Anuradha ranavaya Anuradha ranavaya Troupantavaitat purusharashabhedyamshreyor tevra vaidikatan trikaishtha Yogena dhatasahanastrelukan prashyamya mushmin bhavavishwamurte Twayagra aashi dhamatmatantra tvamadiranto jagato syamadyam ghatasyamratyne vaparaf parasmat
+सर्वाकरगणैः सार्धं सर्वाङ्गैर्वनिङ्गतैः।
+ब्रह्मोवाच।
+अजाय जन्मस्थितिसम्यमायगुणाय निर्वाणसुखार्णवाय।
+अणोरणिम्ने परिगण्यधाम्ने महानुभावाय नमो नमस्ते।
 
-### 00:35:57 · Speaker 1
+### 00:35:36 · Speaker 1
 
-Tva me vachase shavisheshanama Tva me yathmastra yasya svayetandharmaya vishvan tadano pravistaha Pashyanti yuktamanasa manishe no guna vyavaye pya gunam vipashyataha Yatagni medhas samratancha gosubhuvyanam budhkanane tathor vyaha Yogayermanosya adhyanti hitva guneshubhuddha kavyo vyanti Tantva vyana
+रूपं तवैतत्पुरुषर्षभेद्यं श्रेयोर्थिभिर्वैदिकतान्त्रिकैश्च।
+योगेन धातस्सह न स्त्रीलोकान् पश्याम्यामुष्मिन् भवविश्वमूर्ते।
 
-### 00:36:27 · Speaker 1
+### 00:35:48 · Speaker 1
 
-Sattva vidhatsva kila lokapala vayam yad arta sthavapadam ulam samagataste bahiran taratman kim va ja vignya pyamasheshasakshinaha
+त्वय्यग्र आसीदिदमात्मतन्त्रे त्वमादिरन्तो जगतोस्य मध्यम्।
+घटस्य मृत्स्नेव परः परस्मात् त्वमेव चाशेषविशेषनामा।
 
-### 00:36:57 · Speaker 1
+### 00:36:01 · Speaker 1
 
-Sri Shukhavacha Evam Virincha Dibhiridita Dvijaya Yatasam Radhyam Yataiva Jagadaji Muta Ghibhirayagira Badhanjalin Samrutasarvakaman Ekha Eshvarastasmin Surakar Yeshwaraha Viharthuka Mast
+त्वं माययात्माश्रयया स्वयेदन्निर्माय विश्वं तदनुप्रविष्टः।
+पश्यन्ति युक्ता मनसा मनीषिणो गुणव्यवायेप्यगुणं विपश्चितः।
 
-### 00:37:27 · Speaker 1
+### 00:36:14 · Speaker 1
 
-Sri Bhagavan Maharaj Hanta Brahmahana Hoshambhu He Deva Mamabhashtam Srinuta Vahita Sarve Shreyo Vasyadyatapura Yatudhana Isha Daita Isha Vatsa Dhravidhiyatam Kalaena Nukrahitai Sairiya Vadvobhava Atmanaha Aaryopihis
+यथाग्निमेधस्यमृतं च गोषु भुव्यन्नम्बूत्खनने तथोर्व्याः।
+योगैर्मनुष्या अधियन्ति हित्वा गुणेषु बुद्ध्या कवयो वयन्ति।
 
-### 00:37:57 · Speaker 1
+### 00:36:26 · Speaker 1
 
-Sandhya Satikari Yarthagaurave Ahimushakavadhe Vahartasya Padavangatai Amrutod Padane Yatnakriyata Mavilam Betam Yesyapitasya Vajanturum Ratiyograstomarobhavet Kiptwa Kirodadausarva Virutrunalata Shadhi Mantanamanda Rangratva Netrangratva Tova Sukhim
+तन्त्वा वयन्नाथसमुज्जिहानं सरोजना भातिचिरेप्सितार्थम्।
+दृष्ट्वा गता निर्वृतिमद्य सर्वे गजादवार्ता इव गाङ्गमम्भः।
 
-### 00:38:27 · Speaker 1
+### 00:36:40 · Speaker 1
 
-Sahayena mayadeva nirmatadvamatanritha Klesha bhajobhavishanti daitya yuyam phalagraha yuyantadanumodadhvam yadichanti surasuraha nasamrambe nasidhyantasaravertasantwaya yatha nabhetavyanka lakutadvishajaladhisambhavat lobhakaryo naboja turo
+सत्त्वं विधत्स्वाखिललोकपाला वयं यदर्थास्तव पादमूलम्।
+समागतास्ते बहिरन्तरात्मन् किं वाद्यविज्ञाप्यमशेषसाक्षिणः।
 
-### 00:38:57 · Speaker 1
+### 00:36:53 · Speaker 1
 
-Shri Shukhavacha Iti Devan Samadhyabhagavan Purushottama Te Shamtardadhe Rajan Swachandagati Shwaraha Tatasmi Bhagavate Namaskar Chapita Mahaha Bhavashcha Jagmatoswam Swam Dhamachayur Balimsuraha Drishtvarinatha Sampananja Takshobhanswam
+अहं गिरित्रश्च सुरादयो ये दक्षादयोऽग्नेरिव केतवस्ते।
+किं वा विधेमेश पृथग्विभाविता विधत्स्व शन्नो द्विजदेवमित्र।
 
-### 00:39:27 · Speaker 1
+### 00:37:06 · Speaker 1
 
-Nya shetha daitya rada chaisa nivik raha kala vith Tevairo chani masinam guptan cha surayuthapai Shriya paramaya jusan jitase samupagaman Mahendra shlakshna yavacha santva jitva maha matihi Abhyabha shata tatsaravam shikshetam purushotamat Tadaro chata daitya shatatram
+श्रीशुक उवाच।
+एवं विरिञ्च्यादिभिरेडितस्तद्विज्ञाय तेषां हृदयं यथैव।
+जगादजीमूतगभीरयागिरा बद्धाञ्जलीन् संवृतसर्वकामान्।
 
-### 00:39:57 · Speaker 1
+### 00:37:21 · Speaker 1
 
-Surya Surya Surajipaha Shambaro Rishtane Misha Chate Chatri Puravasinaha Tato Deva Surakritva Samvedankrita Sau Rada Udyamam Paramanchakram Rutarthe Paranthapa Tatas Te Mandara Girimanja Sodpatyadur Madaha Nadanta Udadhininyushaktapharighabahavaha Durabha Radvah
+एक एवेश्वरस्तस्मिन् सुरकार्ये सुरेश्वरः विहर्तुकामस्थानाः समुद्रोन्मथनादिभिः।
 
-### 00:40:27 · Speaker 1
+### 00:37:32 · Speaker 1
 
-Sri Sankar Vairochanadayaha Aparayantastamvodhumvivasha vijahupati Nipatansagirastavadbahunamaradanavan Churnayama samahatabharenakanakachalaha Tamstatabhagnamanaso bhagnabahurukandharan Vignyaabhagavamstatra babhu vagarudadhvajaha
+श्री भगवानुवाच।
+हन्त ब्रह्मन्नहो शम्भो हे देवा मम भाषितम्।
+शृणुता वहिता सर्वे श्रेयो वस्याद्यथा पुरा।
+
+### 00:37:45 · Speaker 1
+
+यातुधानैश्च दैतेयैस्तावत्सन्धिर्विधीयताम्।
+कालेनानुगृहीतैस्तैर्यावद्वो भव आत्मनः।
+
+### 00:37:56 · Speaker 1
+
+अरयोपि हि सन्धेयाः सति कार्यार्थगौरवे अहिमूषकवद्देवाह्यर्थस्य पदविङ्गतैः।
+
+### 00:38:07 · Speaker 1
+
+अमृतोत्पादने यत्नः क्रियतामविलम्बितम्।
+यस्यपीतस्य वैजन्तुर्मृत्युग्रस्तो मरो भवेत्।
+
+### 00:38:17 · Speaker 1
+
+क्षिप्त्वा क्षीरोदधौ सर्वावीरुत्तृणलतौषधीः। मन्थानं मन्दरं कृत्वा नेत्रं कृत्वा तु वासुकिम्।
+
+### 00:38:28 · Speaker 1
+
+सहायेन मया देवा निर्मथध्वमतन्द्रिताः।
+क्लेशभाजो भविष्यन्ति दैत्यायूयं फलग्रहाः।
+
+### 00:38:38 · Speaker 1
+
+यूयन्तदनुमोदध्वं यदिच्छन्त्यसुराः सुराः।
+न संरम्भेण सिद्ध्यन्ति सर्वेऽर्थाः सान्त्वया यथा।
+
+### 00:38:49 · Speaker 1
+
+न भेतव्यं कालकूटाद्विषाज्जलधिसम्भवात्। लोभः कार्यो नवो जातु रोषः कामस्तु वस्तुषु।
+
+### 00:39:01 · Speaker 1
+
+श्रीशुक उवाच।
+इति देवान् समादिश्य भगवान् पुरुषोत्तमः।
+तेषामन्तर्दधे राजन् स्वच्छन्दगतिरीश्वरः।
+
+### 00:39:14 · Speaker 1
+
+ततस्मै भगवते नमस्कृत्य पितामहः भवश्च जग्मतुस्वं स्वं धामचेयुर्बलिं सुराः।
+
+### 00:39:24 · Speaker 1
+
+दृष्ट्वारीनथसम्पन्नान् जातक्षोभान् स्वनायकान्।
+न्येषेदद्दैत्यराडुच्चैः सन्धिविग्रहकालवित्।
+
+### 00:39:34 · Speaker 1
+
+ते वैरोचनिमासीनं गुप्तं चासुरयूथपैः। श्रिया परमया जुष्टं जिताशेषमुपागमन्।
+
+### 00:39:45 · Speaker 1
+
+महेन्द्रश्लक्ष्णया वाचा सान्त्वयित्वा महामतिः।
+अभ्यभाषत तत्सर्वं शिक्षितं पुरुषोत्तमात्।
+तदरोचतदैत्यस्य तत्रान्ये ये सुराधिपाः।
+
+### 00:40:00 · Speaker 1
+
+शम्बरोरिष्टनेमिश्च ये च त्रिपुरवासिनः।
+ततो देवासुराः कृत्वा संविदं कृतसौहृदाः।
+
+### 00:40:11 · Speaker 1
+
+उद्यमं परमञ्चक्रुरमृतार्थे परन्तप।
+ततस्ते मन्दरगिरिमञ्जसोत्पाट्यदुर्मदाः।
+नदन्त उदधिन्निन्निन्ह्यः शक्ताः परिघबाहवः।
+
+### 00:40:26 · Speaker 1
+
+दूरभारोद्वहश्रान्ताश्चक्रवैरोचनादयः अपारयन्तस्तं वोढुं विवशा विजहुः पथि।
+
+### 00:40:36 · Speaker 1
+
+निपतं सगिरस्तावद्बहून् अमरदानवान् चूर्णयामास महता भारेण कनकाचलः।
+
+### 00:40:46 · Speaker 1
+
+तांस्तथा भग्नमनसो भग्नबाहूरुकन्धरान् विज्ञाय भगवांस्तत्र बभूव गरुडध्वजः।
 
 ### 00:40:57 · Speaker 1
 
-I will show you how to do it in the same way in the same way I will show you how to do it in the same way
+गिरिपातविनिष्पिष्टान् विलोक्यामरदानवान्।
+इक्षया जीवयामास निर्जरान् निर्व्रणान् यथा।
 
-### 00:41:27 · Speaker 1
+### 00:41:08 · Speaker 1
 
-Sri Shukhavacha Tena Garaja Ma Mantriya Palabhagaena Vasukim Paridha Yagiruta Sminetram Abdimudan Vithaha Are Bhire Surayeta Amratar Tekurudvaha Harif Purastha Jagre Puruvande Vasthatobhavan Tanaichandaitya Patayomaha Purushachetam Nagranhimov
+गिरिञ्चारोप्य गरुडे हस्तेनैकेन लीलया।
+आरुह्य प्रययावब्धिं सुरासुरगणैर्वृतः।
 
-### 00:41:57 · Speaker 1
+### 00:41:18 · Speaker 1
 
-Why am I put some hair and I'm gonna go home
+अवरोप्यगिरिं स्कन्धात् सुपर्णः पततां वरः।
+ययौ जलान्त उत्सृज्य हरिणा स विसर्जितः।
 
-### 00:42:01 · Speaker 1
+### 00:41:28 · Speaker 1
 
-Svadhyaya yashrutasampannaphrakhyata janmakarmabhihi itithushnim stitan daityan vilokyapurushotamaha smayamano visraja gram puchan jagrahasa maraha kruthastha navibhagaste yevankasyapanandana mama tuv paramayata amratarte payonidhim matyamane raneve sodhiranadharo
+श्रीशुक उवाच।
+तेनागराजमामन्त्र्य फलभागेन वासुकिम्।
+परिधाय गिरौ तस्मिन् नेत्रमब्धिं मुदान्विताः।
 
-### 00:42:31 · Speaker 1
+### 00:41:41 · Speaker 1
 
-Dhyapu Vishat Dhyamano Pibalibhrga Vat Pandunandana Te Sunera Vindamanasa Parimla Namukshriyaha Asan Swapaurushena Te Daivena Tibhali Yasa Vilokya Vigne Shagatintadeshvaro Durantaviro Vitathabhisandhihi Krtva Vapokachapa Madbhutamahat Pravishyato Yengirimudjahara Tamut
+आरेभिरे सुरायत्ता अमृतार्थे कुरुद्वह।
+हरिः पुरस्ताज्जगृहे पूर्वं देवास्ततो भवन्।
+
+### 00:41:51 · Speaker 1
+
+तन्नैच्छन्दैत्यपतयो महापुरुषचेष्टितम्।
+न गृह्णीमो वयं पुच्छमहेरङ्गममङ्गलम्।
+स्वाध्यायश्रुतसम्पन्नाः प्रख्याता जन्मकर्मभिः।
+इति तूष्णीं स्थितान् दैत्यान् विलोक्य पुरुषोत्तमः।
+
+### 00:42:12 · Speaker 1
+
+स्मयमानो विसृज्याग्रं पुच्छं जग्राह सामरः।
+कृतस्थानविभागास्ते एवं कश्यपनन्दनाः।
+
+### 00:42:23 · Speaker 1
+
+ममन्थुः परमायत्ता अमृतार्थे पयोनिधिम्।
+मध्यमानेर्णवे सोद्रिरनाधारोह्यपोविशत्।
+
+### 00:42:34 · Speaker 1
+
+ध्रियमाणोऽपि बलिभिर्गौरवात् पाण्डुनन्दन।
+ते सुनिर्विण्णमनसः परिम्लानमुखश्रियः।
+आसन् स्वपौरुषे नष्टे दैवेनातिबलीयसा।
+
+### 00:42:49 · Speaker 1
+
+विलोक्य विघ्नेशगतिं तदेश्वरो दुरन्तवीर्यो वितथाभिसन्धिः।
+कृत्वा वपुः काच्छपमद्भुतं महत्प्रविश्यतोयं गिरिमज्जहार।
 
 ### 00:43:01 · Speaker 1
 
-Tetam Vikshakula Chalam Puna Samuteta Nirmatetum Surasuraha Dadharaprashtena Salakshayo Janaprashtarina Dvipa Iva Paromahan Surasurendra Bhujavirya Ve Petam Pare Brahmantangirimanga Prashtataha Vibhatada Vartana Madhika Chapome Nengakando Yana Maprameyaha Tatha Surana Vishada Surana Rupenate Shambha
+तमुत्थितं वीक्ष्य कुलाचलं पुनः समुत्थितानिर्मथितुं सुरासुराः।
+दधार पृष्ठेन सलक्षयोजनप्रस्तारिणा द्वीप इवापरो महान्।
 
-### 00:43:31 · Speaker 1
+### 00:43:14 · Speaker 1
 
-Ullabirya mi rayan Udi payande vaganasha vishnordhaivena ganendra mabodharupaha Upar yagendra giriradivanya akramya hastena sahasrabahu Tastau diva brahmabha vendra mukhyara bhishthuvadhisumano bhivrastaha Upar yadhaschatmani gotranetrayofpare nate prabishatasamidhita ha Mamanturabhintra
+सुरासुरेन्द्रैर्भुजवीर्यवेपितं परिभ्रमन्तं गिरिमङ्गपृष्ठतः।
+बिभ्रत्तदावर्तनमादिकच्छपोमेनेङ्गकण्डूयनमप्रमेयः।
 
-### 00:44:01 · Speaker 1
+### 00:43:27 · Speaker 1
 
-Madhavata Mahadrena Kshobhitana Krachakram Ahindra sahasra kara ladin mokshvasa gnidhu mahata varchaso suraha Paulo makale yabalil waladyodhavagnidhada sarala evabhavan Devam sthata chvasa shikha hataprabhan dhumram varasragvarakan chokananan samabhya varashan bhagavadvasha gana vavusa mudro myupagu
+तथा सुराणाविषदासुरेण रूपेण तेषां बलवीर्यमीरयन् उद्दीपयन् देवगणाश्च विष्णुर्दैवेन नागेन्द्रमबोधरूपः।
 
-### 00:44:31 · Speaker 1
+### 00:43:40 · Speaker 1
 
-Sudhava Yavaha Matyamanata sindhur devasuravarutapai yada sudhana jayeta nirmanthajita swayam meghasya mahakana kaparedhikaranavidhyotavidyunmurdhibrajadvilulitavanastragdharoraktanetraha jayitrair dhur bhirtajadabhyadairdan dasukangrihitva matnan matna pratigiri vasho patato
+उपर्यगेन्द्रं गिरिराडिवाण्य आक्रम्य हस्तेन सहस्रबाहुः।
+तस्थौ दिवि ब्रह्म भवेन्द्रमुख्यैरभिष्टुवद्भिः सुमनोभिवृष्टः।
 
-### 00:45:01 · Speaker 1
+### 00:43:53 · Speaker 1
 
-Nirmatya mana dudadhirabhudvisham mahalbanam halahalakhva magrataha samprantaminon makarahi kachapoti midvipagrahatimgilakulat tadukravagan dishidishupar Yadhu visara padutsara padasakhyavir yam bhita prajadudravuranga seshvara arakshamana sharanam sadashivam vilokyatande
+उपर्यधश्चात्मनि गोत्रनेत्रयोः परेण ते प्राविशता समेधिताः।
+ममन्थुरब्धिन्तरसा मदोत्कटा महाद्रिणा क्षोभितनक्रचक्रम्।
 
-### 00:45:31 · Speaker 1
+### 00:44:07 · Speaker 1
 
-Devavarantilokya bhava yadevyabhijotamuni nam Aasi namadrava pavargahetostapojushanam stutibhivprane mohu prajau chuhu devadevamahadevabhutatmanbhutabhavanam trahe nasaranapanantra lokya dahanadvishat tvamekasaravajagataishvarobandhamokshayo ha
+अहीन्द्रसाहस्रकरालदिं मुखश्वासाग्निधूमाहतवर्चसो सुराः।
+पौलोमकालेयबलीलवलादयोदवाग्निदग्धाः सरला इवाभवन्।
 
-### 00:46:01 · Speaker 1
+### 00:44:20 · Speaker 1
 
-Tat Tvam Brahman Gohyam Sadhasadbhava Bhavanam Nana Shaktibhirabhasa Tvam Atma Jagadishvaraha Tvam Shabdhyonir Jagadadhiratma Pranendriyadravyaguna
+देवांश्च तच्छ्वासशिखाहतप्रभान् धूम्राम्बरस्रग्वरकञ्चुकाननान्।
+समुभ्यवर्षन् भगवद्वशाघनावौः समुद्रोर्म्युपगूढवायवः।
 
-### 00:46:31 · Speaker 1
+### 00:44:34 · Speaker 1
 
-Kalakratosatyamrotanchadarmastvayaksharamyatrivrda mananti Adniramukhante kila devatatmakshitim vidurlo kabhavan gripankajam Kalu gatiste kila devatatmano dishaschakarna urasananjale shaha Nabhirnabhasteshvasanabhaswan suryaschakshum shijalam smaretaha Paravaratma druhinastavatmasomo
+मथ्यमानात् तथा सिन्धोर्देवासुरवरूथपैः।
+यदा सुधानजायत निर्ममन्थाजितः स्वयम्।
 
-### 00:47:01 · Speaker 1
+### 00:44:44 · Speaker 1
 
-Mukha ni pancha panishat avesha yastrim shadashtotaramantra vargaha yata chiva khyam paramatmatatvandevaswayan jyotiravasthiti ste chayat vadharma
+मेघश्यामः कनकपरिधिः कर्णविद्योतविद्युन्मूर्ध्निभ्राजद्विलुलितवनस्रग्धरो रक्तनेत्रः।
+जैत्रैर्दोरभिर्जगदभयदैर्दन्तशूकं गृहीत्वा मत्नन्मत्ना प्रतिगिरिरिवाशोभताथो धृताद्रिः।
 
-### 00:47:31 · Speaker 1
+### 00:45:04 · Speaker 1
 
-Mudajayre visar gonaetratrayam satvarajastamamsi Saksham mano shastrakutastaveksha chandomayodevarashipurana Nata giritra kila lokapala virincha vaikunta surendragam yam Jyotiv paramyatrajastamashatvanayad brahmhanirastabhedam Kamadharatre purakaala harad yane kabhuta druhaksha payatas tudayena tate
+निर्मथ्यमानादुदधेरभूद्विषं महोल्बणं हालहलाह्वमग्रतः।
+सम्भ्रान्तमीनोन्मकराहिकच्छपोत्तिमिद्विपग्राहतिमिङ्गिलाकुलात्।
 
-### 00:48:01 · Speaker 1
+### 00:45:17 · Speaker 1
 
-Yet want to call a idamat magratam svanet ravan his pulling ashikaya bhaskhitan taveshya Yet watmara magurubhira griddhichintitang griddhvan dvancharan tamumaya tapase bhittaptam katanta ugra vapushaniratam smashane te bhutabhuti mavidastavahi nalaja Tattasyate sadasato paratav parasyanandjaswarupagamane prabhavantibhumnah
+तदुग्रवेगं दिशि दिश्युपर्यधो विसर्पदुत्सर्पदसह्यवीर्यम्।
+भीताः प्रजादुद्रुवरङ्गसेश्वरा अरक्ष्यमाणाः शरणं सदाशिवम्।
 
-### 00:48:31 · Speaker 1
+### 00:45:30 · Speaker 1
 
-Brahma dayakimuta samstavane vayantutatsarga sarga vishaya apibhaktimatram etat param prapasya munaparante maheshwara madana yahilokasyavyaktistevyaktakarmanah shishukavacha tadvikshavyasanantasankrpaya brshapi ditaha sarvabhuta sukhrudeva idama hasatim prith
+विलोक्यतं देववरं त्रिलोक्या भवाय देव्याभियुतं मुनीनाम्।
+आसीनमद्रावपवर्गहेतोस्तपो जुषाणं स्तुतिभिः प्रणेमुः।
+प्रजा ऊचुः।
 
-### 00:49:01 · Speaker 1
+### 00:45:46 · Speaker 1
 
-Shiva uvacha Ahobhatabhavan yatat prajanam pashyavishasam Kirodamatanodbhutatkala kutadupastetam Asam pranaparipsunam vidheya mabhayam hime Yeta vanhiprabhorato yad dinaparipalanam Pranaiswaf praninapanti sadhavakyanabhagurai
+देवदेव महादेव भूतात्मन् भूतभावनाम्।
+त्राहिनः शरणापन्नान् त्रैलोक्यदहनाद्विषात्।
 
-### 00:49:31 · Speaker 1
+### 00:45:56 · Speaker 1
 
-Bhuddhavairushubhute sumohitesvatma ma yaya Pumsakrupayato bhadre sarvatma priyate hari hi Priyate harubhagavate priyehamsacharacharaha Tasma didangaram bhunjeprajanam svastirastume shri shukhavacha evama mantriya bhagavan bhavanim vishwabhavanaha
+त्वमेकः सर्वजगत ईश्वरो बन्धमोक्षयोः।
+तं त्वामर्चन्ति कुशलाः प्रपन्नार्तिहरं गुरुम्।
 
-### 00:50:01 · Speaker 1
+### 00:46:06 · Speaker 1
 
-Tadvishan jagdumarebbe prabhavagnan vamo data Tatakaratalikrtyavyapihala halamvisham Abhakshayan mahadevachrupaya bhutabha vanaha Tasya pitarashayamaswiryangalakal mashaha Yachakaragalenilantacha sadhorvibhu shanam Tapyante lokatape nasadbavaprayasho
+गुणमय्या स्वशक्त्यास्य सर्गस्थित्यप्ययान् विभो।
+तत्से यदा स्वदृग्भूमन् ब्रह्मविष्णुशिवाभिधाम्।
 
-### 00:50:31 · Speaker 1
+### 00:46:17 · Speaker 1
 
-Paramaradhanantadhipurushasya kilatmana Nishamya karmatachampurdevadevasya midhushaha Praja daksha yani brahma vaikuntha sashashamsire Praskanam pibataf panir yat kinchi jagruhusmatat Vrashikahibeshavshadyodandashukashayapare Sri Shukhavacha
+त्वं ब्रह्म परमं गुह्यं सदसद्भावभावनम्।
+नानाशक्तिभिराभासस्त्वमात्मा जगदीश्वरः।
 
-### 00:51:01 · Speaker 1
+### 00:46:27 · Speaker 1
 
-Pitegare vrushankena prithas te maradanava mamantustarasasindhum havirdhani tato bhavat tamagnihotrimrshayo jagrahurabrahamhavadinaham yagnasyadevapanasyamidhyahavishendrapa tatau chaishrabana mahayobhu chandra panduraha tasmin balisprahan chakrenendra isvarak
+त्वं शब्दयोनिर्जगदादिरात्मा प्राणेन्द्रियद्रव्यगुणस्वभावः।
+कालः क्रतुः सत्यमृतं च धर्मस्त्वय्यक्षरं यत्रिवृदा मनन्ति।
 
-### 00:51:31 · Speaker 1
+### 00:46:39 · Speaker 1
 
-Tata Ira Vato Namabaran Indrabhuvinar Gataha Danta Ishchatur Bhishweta Dre Haran Bhagavato Maham Tato Bhavat Parijatasura Lokabhu Shanaha Purayatyar Thino Yortai Shashwad Bhuvya Tabhavan Tataschapsaraso Jata Nishka Kanchasuvasasaha Ramanyaswarginam
+अग्निर्मुखं तेखिलदेवतात्मा क्षितिं विदुर्लोकभवाङ्घ्रिपङ्कजम्।
+कालो गतिस्तेखिलदेवतात्मनो दिशश्च कर्णौ रसनञ्जलेशः।
 
-### 00:52:01 · Speaker 1
+### 00:46:52 · Speaker 1
 
-Tathascha virabhu tasya chirama bhagavat priya Ranjayan tithi shaktya vidyutsaudamani yatha Tasya chakras praham sarve saura surama navaha Rupa udaryavayovar namahimakshiptachet tasaha Tasya chasana maninye mahendra mahadabhatam
+नाभिर्नभस्ते श्वसनन्नभस्वान् सूर्यश्च चक्षूंषि जलं स्मरेतः। परावरात्मा दृहिणस्तवात्मा सोमो मनोद्यौर्भगवन् चिरस्ते।
 
-### 00:52:31 · Speaker 1
+### 00:47:05 · Speaker 1
 
-Murti matyasarichreshtha he makumbhirjalam shuchi abhishechanika bhumi raharatsakhalo shadhihi gavapanchapavitra ni vasanto madhumaadhavam prushayakalpayanchakrurabhishecamyatha vidhi jagurabhadranigandharavanaryaschanandratur jaguhu meghamrudanga panava muraja nakago mukhan
+कुक्षिः समुद्रागिरयोस्थिसङ्घारोमाणि सर्वौषधिवीरुधस्ते छन्दांसि साक्षात् तव सप्तधातवस्त्रयीमयात्मन् हृदयं स धर्मः।
 
-### 00:53:01 · Speaker 1
+### 00:47:17 · Speaker 1
 
-Vyana dayan shankhavino vina to mulani swanana tato abhishechur devim shriyam padmakaram satim digibhav puranakalashay sukta vakyardvijeritaihi samudra phita kaushe yava sasi samupaharat varuna srajan vai jayanti madhuna mattashat padam bhushana nivicitra ni vishvakarmap
+मुखानि पञ्चोपनिषत्तवेषयैस्त्रिंशदष्टोत्तरमन्त्रवर्गः।
+यत्तच्छिवाख्यं परमात्मतत्त्वं देवस्वयं ज्योतिरवस्थितस्ते।
 
-### 00:53:31 · Speaker 1
+### 00:47:30 · Speaker 1
 
-Tattva Krita Svasti Hare Ram Saraswati Padma Majjhala Ghascha Kundale Tattva Krita Svasti Anupalastra Janadadvire Pham Parigrikhyapa Ninnam Chacha Lavaktram Sukhapola Kundalam Savridaha San Dadati Sushobhanam Stanadvayan Chati Krishodari Saman Nirantaranchandana Kumokshetam Tattva Tato No Purabal Gusinji Tairabhisarpati
+छाया त्वधर्मो मुडयैर्विसर्गो नेत्रत्रयं सत्वरजस्तमांसि।
+साक्षान्मनुःशास्त्रकृतस्तवेक्षा छन्दोमयो देवऋषिःपुराणः।
 
-### 00:54:01 · Speaker 1
+### 00:47:42 · Speaker 1
 
-Malate vasa babhu vilokayanti nira vadyamatmanapadandhravancha vyabhicharisat gnam gandharvayaksha surasiddhacharanatra vishtape yadishunan vavindata nunantapo yasyanamanyunirjaya yogyanam kachitachana sangavarjitam kashin mahamstasyana kamanirjaya sa ishwarakimparato vyapashrayaha dharma
+न ते गिरित्राखिललोकपालविरिञ्च वैकुण्ठसुरेन्द्रगम्यम्।
+ज्योतिःपरं यत्र रजस्तमश्च सत्वं न यद्ब्रह्मनिरस्तभेदम्।
+
+### 00:47:55 · Speaker 1
+
+कामाध्वरत्रिपुरकालहराद्यनेकभूतद्रुहः क्षपयतस्तुतयेन तत्ते।
+यत्वन्तकाल इदमात्मकृतं स्वनेत्रवह्निस्फुलिङ्गशिखया भसितन्तवेष।
+
+### 00:48:10 · Speaker 1
+
+ये त्वात्मरामगुरुभिर्हृदिचिन्तितां घृद्वन्द्वं चरन्तमुमया तपसेभितप्तम्।
+कथन्त उग्रवपुषन्निरतं श्मशाने ते भूतभूतिमविदस्तवहीनलज्जाः।
+
+### 00:48:25 · Speaker 1
+
+तत्तस्य ते सदसतोः परतः परस्य नाञ्जस्वरूपगमने प्रभवन्ति भूम्नः।
+ब्रह्मादयः किमुत संस्तवने वयन्तु तत्सर्गसर्गविषया अपि भक्तिमात्रम्।
+
+### 00:48:40 · Speaker 1
+
+एतत्परं प्रपश्यामो न परन्ते महेश्वरा।
+मडनाय हि लोकस्य व्यक्तिस्ते व्यक्तकर्मणः।
+
+### 00:48:50 · Speaker 1
+
+श्रीशुक उवाच। तद्वीक्ष्य व्यसनन्तासां कृपया भृशपीडितः। सर्वभूतसुहृद्देव इदमाह सतीं प्रियाम्।
+
+### 00:49:03 · Speaker 1
+
+शिव उवाच।
+अहो बत भवान् एतत् प्रजानां पश्य वैशसं।
+क्षीरोदमथनोद्भूतात् कालकूटादुपस्थितम्।
+
+### 00:49:17 · Speaker 1
+
+आसां प्राणपरीप्सूनां विधेयमभयं हि मे।
+एतावान् हि प्रभोरर्थो यद्दीनपरिपालनम्।
+
+### 00:49:27 · Speaker 1
+
+प्राणैः स्वैः प्राणिनः पान्ति साधवः क्षणभङ्गुरैः।
+बद्धवैरेषु भूतेषु मोहितेष्वात्ममायया।
+
+### 00:49:38 · Speaker 1
+
+पुंसः कृपयतो भद्रे सर्वात्मा प्रीयते हरिः।
+प्रीते हरौ भगवति प्रियेहं सचराचरः।
+तस्मादिदङ्गरं भुञ्जे प्रजानां स्वस्तिरस्तु मे।
+
+### 00:49:54 · Speaker 1
+
+श्रीशुक उवाच एवमामन्त्र्य भगवान् भवानीम्।
+
+### 00:50:00 · Speaker 1
+
+विश्वभावनः।
+तद्विषं जगधुमारेभे प्रभावज्ञान्वमोदत।
+ततः करतलीकृत्यव्यापि हालाहलं विषम्।
+अभक्षयन् महादेवः कृपया भूतभावनः।
+
+### 00:50:18 · Speaker 1
+
+तस्यापि दर्शयामास स्ववीर्यं गलकल्मषः। यच्चकारगले नीलंतच्च साधोर्विभूषणम्।
+
+### 00:50:28 · Speaker 1
+
+तप्यन्ते लोकतापेन साधवः प्रायशो जनाः।
+परमाराधनं तद्धि पुरुषस्याखिलात्मनः।
+
+### 00:50:39 · Speaker 1
+
+निशाम्यकर्म तच्छम्भूर्देवदेवस्य मीढुषः। प्रजादाक्षायणी ब्रह्मा वैकुण्ठश्च शशंशिरे।
+
+### 00:50:49 · Speaker 1
+
+प्रस्कन्नं पिबतः पाणेर्यत्किञ्चिच्च गृहुस्मतत्।
+वृश्चिका हि विषौषध्योदन्दशूकाश्च ये परे।
+
+### 00:51:00 · Speaker 1
+
+श्रीशुक उवाच।
+पीतेगरे वृषाङ्केण प्रीतास्ते मरदानवाः।
+ममन्थरसा सिन्धुं हविर्धानी ततोभवत्।
+
+### 00:51:13 · Speaker 1
+
+तामग्निहोत्रीमृषयो जगृहुर्ब्रह्मवादिनः।
+यज्ञस्य देवपानस्य मेध्यायः विषे नृप।
+
+### 00:51:23 · Speaker 1
+
+तत उच्चैः श्रवा नामहयो भूच्चन्द्रपाण्डुरः।
+तस्मिन् बलिस्पृहान् चक्रेनेन्द्र ईश्वरशिक्षया।
+
+### 00:51:33 · Speaker 1
+
+तत ऐरावतो नाम वारणेन्द्रो विनिर्गतः। दन्तैश्चतुर्भिः श्वेताद्रेर्हरन् भगवतोमहम्।
+
+### 00:51:44 · Speaker 1
+
+ततो भवत्पारिजातस्सुरलोकविभूषणः पूरयत्यर्थिनो योर्थैः शश्वद्भुवि यथा भवान्।
+
+### 00:51:55 · Speaker 1
+
+ततश्चाप्सरसो जाता निष्ककण्ठ्यः सुवाससः।
+रमण्यस्वर्गीणां वल्गुगतिलीलावलोकनैः।
+
+### 00:52:05 · Speaker 1
+
+ततश्चाविरभूत् साक्षात् श्रीरमा भगवत्प्रिया। रञ्जयन्ती दिशः कान्त्या विद्युत्सौदामनी यथा।
+
+### 00:52:16 · Speaker 1
+
+तस्यां चक्रुस्पृहां सर्वे ससुरासुरमानवाः। रूपौदार्यवयोवर्णमहिमा क्षिप्तचेतसः।
+
+### 00:52:26 · Speaker 1
+
+तस्याश्चासनमानिन्ये महेन्द्रो महदद्भुतम्।
+मूर्तिमत्यः सरिच्छ्रेष्ठा हेमकुम्भैर्जलं शुचिः।
+
+### 00:52:37 · Speaker 1
+
+अभिषेचनिका भूमिराहरत्सकलौषधीः।
+गावः पञ्चपवित्राणि वसन्तो मधुमाधवम्।
+ऋषयः कल्पयाञ्चक्रुरभिषेकं यथाविधि।
+जगुर्भद्राणि गन्धर्वा नार्यश्चनन्दृतुर्जगुहु।
+
+### 00:52:57 · Speaker 1
+
+मेघामृदङ्गपणवमुरजानकगोमुखान् व्यनादयन् शङ्खवेणुवीणातुमुलनिस्वनान्।
+
+### 00:53:08 · Speaker 1
+
+ततोऽभिशिशिचुर्देवीं श्रियं पद्मकरां सतीम्।
+दिगिभाः पूर्णकलशैः सूक्तवाकैर्द्विजेरितैः।
+
+### 00:53:18 · Speaker 1
+
+समुद्रः पीतकौशेयवाससी समुपाहरत्।
+वरुणस्रजं वैजयन्तीं मधुनामत्तषट्पदाम्।
+
+### 00:53:29 · Speaker 1
+
+भूषणानि विचित्राणि विश्वकर्मा प्रजापतिः।
+हारं सरस्वती पद्ममजो नागाश्च कुण्डले।
+ततः कृतस्वस्त्ययनोत्पलस्रजन्नदद्विरेफां परिगृह्य पाणिना।
+
+### 00:53:44 · Speaker 1
+
+चचालवक्त्रं सुकपोलकुण्डलं सव्रीडहासन्दधती सुशोभनम्।
+स्तनद्वयं चातिकृशोदरीसमन्निरन्तरं चन्दनकुङ्कुमोक्षितम्।
+ततस्ततो नूपुरवल्गुसिञ्जितैर्विसर्पति हेमलतेवसाबभौ।
+
+### 00:54:05 · Speaker 1
+
+विलोकयन्ती निरवद्यमात्मनः पदं ध्रुवञ्चाव्यभिचारिसद्गुणम्।
+गन्धर्वयक्षासुरसिद्धचारणत्रैविष्टपेयादिषु नान्वविन्दत।
+
+### 00:54:17 · Speaker 1
+
+नूनं तपो यस्य न मन्यु निर्जयो ज्ञानं क्वचित् तच्च न सङ्गवर्जितम्।
+कश्चिन्महांस्तस्य न कामनिर्जयः स ईश्वरः किं परतो व्यपाश्रयः।
 
 ### 00:54:31 · Speaker 1
 
-Kwacheta sana bhuta saur dantiyag kwacheta chana mukte karanam viryanapumso sthajave ganishkritana hidvitiyo gunasanga varjetaha kwachicha yornahishila mangalam kwacheta dapya stina vedyama yushaha yatrabhyankutra cha sopyamangala su mangala kashchana kamsate himam shishukavacha evam vimrisha
+धर्मः क्वचित् तस्य न भूतसौहृदं त्यागः क्वचित् तच्च न मुक्तिकारणम्।
+वीर्यं नपुंसोस्त्यजवेगनिष्कृतं न हि द्वितीयो गुणसङ्गवर्जितः।
 
-### 00:55:01 · Speaker 1
+### 00:54:44 · Speaker 1
 
-Vyabhichari sadgunam padan nijayaka shrayasadgunashrayam vovre varam sarava guna irapekshetam rama makundan irapekshamipsetam tasyam sadesha ushatin avakanja mala madjan madhuvratavarutagiro paghustam tastauniviya nikate taduraswadhamasavridaha savikasanayane nabhitam swasya shtriyastra jagato janako jananya
+क्वचिच्चिरायुर्नहि शीलमङ्गलं क्वचित् तदप्यस्ति न वेद्यमायुषः।
+यत्रोभयं कुत्र च सोऽप्यमङ्गलः सुमङ्गलः कश्चन काङ्क्षते हि मां।
 
-### 00:55:31 · Speaker 1
+### 00:54:58 · Speaker 1
 
-Shri Svap Prajasakarune na Nirikshanena Yatrasthita idhyatasadhipatimstrelakan Shankhaturyamradanganam vaditranam prataksvanaha Devanuganam sastrinan rtyatangayata mabhut Brahmahrudrangiromukhasaravevishvasrajo vibhum
+श्रीशुक उवाच।
+एवं विमृश्या व्यभिचारिसद्गुणं पदन्निजैकाश्रयिसद्गुणाश्रयम्।
+उव्रेवरं सर्वगुणैरपेक्षितं रमामुकुन्दन्निरपेक्षमीप्सितम्।
 
-### 00:56:01 · Speaker 1
+### 00:55:13 · Speaker 1
 
-Sri Ayya Vilokita Deva Sapraja Patayaprajaha Shila Diguna Sampanna Lebhire Niravratim Param Nisatva Loloparajan Nirudhyoga Gatatrapaha Yadachopekshita Lakshmi Babhu Vardhitiyadanava Atasidva Runi Devi Kanya Kamalalochan
+तस्यां सदेशौषधीन् नवकञ्जमालां माद्यन्मधुव्रतवरूथगिरोपघुष्टां।
+तस्थौ निवीयनिकटे तदुरस्वधामसव्रीडहासविकसन्नयनेन भीता।
 
-### 00:56:31 · Speaker 1
+### 00:55:28 · Speaker 1
 
-Asura Jagrahustam vai Hare Rana Mate Naye Ato Dader Matyamanat Kashyapiramratibhi Udateshtan Maharaja Purusha Paramad Bhutaha Dirghapi Varadordandak Kambhgrivorune Kshanaha Shyamalastarunasragvi Sarva Bharanabhu Shitaha Pitavasa Mahoraskas Sumrashtama
+स्वस्यास्त्रियस्त्रिजगतो जनको जनन्या वक्षो निवासमकरोत्परमं विभूतेः।
+श्रीस्वाः प्रजास्सकरुणेन निरीक्षणेन यत्र स्थितैधयत साधिपतींस्त्रिलोकान्।
 
-### 00:57:01 · Speaker 1
+### 00:55:44 · Speaker 1
 
-Nila kunchita keshanta subhagasimhavikramaha amratasyapurana kalasham bibhadravalayabhu shetaha savibhagavata sakshad vishnuram shamshasam bhava ha danvantarete khyata ayurvedadragitjabhak tamalokyasurasarave kalashanchamratam lipsantasaravastu
+शङ्खतूर्यमृदङ्गानां वादित्राणां पृथक्स्वनः।
+देवानुगानां सस्त्रीणां नृत्यतां गायतामभूत्।
 
-### 00:57:31 · Speaker 1
+### 00:55:55 · Speaker 1
 
-Nikalashantarasa Haran Niyamane surais tasmin kalashemratabhajane Vishan namana so deva harim sharanama yuyu Iti tadyatanyama lokya bhagavan bhratyaka makrat Makhidyatamithortam vasadhyasyesvama yaya Mithakalirabhuteshantadarthetarshachetasam Ahampurva
+ब्रह्मरुद्राङ्गिरो मुख्याः सर्वे विश्वसृजो विभुम्।
+ईडिरे वितथैर्मन्त्रैस्तल्लिङ्गैः पुष्पवर्षिणः।
 
-### 00:58:01 · Speaker 1
+### 00:56:06 · Speaker 1
 
-Maham Purva Natva Natvamite Prabho Deva Svabhagamarahanti Yetulya Yasahetabaha Satrayaga Ivaitasminesadhrmasanatanaha Itiswan Pratyashedanvaidite Yajatamatsara Durbalaprabhalandrajan Grihita Kalashan Muhu Yetasminantare Vishnu Sarvopaya Vidishvara
+श्रिया विलोकिता देवास्स प्रजापतयः प्रजाः। शीलादिगुणसम्पन्ना लेभिरे निर्वृतिं पराम्।
 
-### 00:58:31 · Speaker 1
+### 00:56:17 · Speaker 1
 
-Yoshidrupa manirdeshan dadharaparamadbhutam Prekshani yott palashyamam saravabhyavasundaram samana karana bharanam sukhapolo nasaanam
+निस्सत्त्वा लोलुपा राजन् निरुद्योगागतत्रपाः।
+यदाचोपेक्षिता लक्ष्म्या बभूवुर् दैत्यदानवाः।
+
+### 00:56:28 · Speaker 1
+
+अथासी द्वारिणी देवी कन्या कमललोचना।
+असुराजगृहुस्तां वै हरेरनुमतेन ते।
+
+### 00:56:38 · Speaker 1
+
+अथोदधेर्मथ्यमानात् काश्यपैरमृतार्थिभिः उदतिष्ठन् महाराजपुरुषः परमाद्भुतः।
+
+### 00:56:48 · Speaker 1
+
+दीर्घपीवरदोर्दण्डः कम्बुग्रीवोरुणे क्षणः।
+श्यामलस्तरुणः स्रघ्वी सर्वाभरणभूषितः।
+
+### 00:56:59 · Speaker 1
+
+पीतवासामोरस्कः सुमृष्टमणिकुण्डलः।
+नीलकुञ्चितकेशान्तः सुभगसिंहविक्रमः।
+
+### 00:57:09 · Speaker 1
+
+अमृतस्य पूर्णकलशं बिभ्रद्वलयभूषितः।
+स वै भगवतः साक्षाद्विष्णोरंशांशसम्भवः।
+
+### 00:57:19 · Speaker 1
+
+धन्वन्तरिरिति ख्यात आयुर्वेददृगिज्यभाक्।
+तमालोक्यासुराः सर्वे कलशं चामृताहृतम्।
+
+### 00:57:29 · Speaker 1
+
+लिप्सन्तस्सर्ववस्तूनि कलशन्तरसाहरन्।
+नीयमाने सुरैस्तस्मिन् कलशे मृतभाजने।
+
+### 00:57:40 · Speaker 1
+
+विषण्णमनसो देवा हरिं शरणमाययुः।
+इति तद्दैन्यमालोक्य भगवान् भृत्यकामकृत्।
+मा खिद्यतमिथोर्थं वस्साधयिष्ये स्वमायया।
+
+### 00:57:55 · Speaker 1
+
+मिथः कलिरभूत्तेषान्तदर्थे तर्षचेतसाम्।
+अहं पूर्वमहं पूर्वन्नत्वन्नत्वमिति प्रभो।
+
+### 00:58:06 · Speaker 1
+
+देवाः स्वभागमर्हन्ति ये तुल्यायासहेतवः।
+सत्रयाग इवैतस्मिन्नेष धर्मः सनातनः।
+
+### 00:58:17 · Speaker 1
+
+इति स्वान् प्रत्यषेधन्वैदैतेया जातमत्सराः।
+दुर्बलाः प्रबलान् राजन् गृहीतकलशान् मुहुः।
+
+### 00:58:27 · Speaker 1
+
+एतस्मिन्नन्तरे विष्णुः सर्वोपायविदीश्वरः।
+योषिद्रूपमनिर्देश्यन्दधारपरमाद्भुतम्।
+
+### 00:58:38 · Speaker 1
+
+प्रेक्षणीयोत्पलश्यामं सर्वावयवसुन्दरम्।
+समानकरणाभरणं सुखपोलोन्नसाननम्।
 
 ### 00:58:48 · Speaker 1
 
-Navayau vana nishpandastana Bharakrshodaram Mukhamo da narakta lihunka rodvignalochanam Vibhatsvakeshabharana mala mutpulamalikam Sugrivakanta Bharanam subhu jangadabho shetam Virajam bharasamvitan chitram vadhyashobhyah Kancha pravila sadval guspuracharanu puram
+नवयौवननिष्पन्दस्तनभारकृशोदरम्।
+मुखामोदानुरक्तालिहुङ्कारोद्विग्नलोचनम्।
 
-### 00:59:18 · Speaker 1
+### 00:58:58 · Speaker 1
 
-Savrida smita Vikshipta bhuva vila savalokanai daitya yudhapachetasuka ma mudipayan mohu tenyon yatasudhapatram harantas yaktasau rudaha khipanto dasyudharmena ayantin dadra shustriyam ahoru pamahodham aho asyanavam vayaha itite ta abhidrutyapaprachurajata
+बिभ्रत्स्वकेशभारेण मालामुत्फुल्लमल्लिकाम्।
+सुग्रीवकण्ठाभरणं सुभुजाङ्गदभूषितम्।
 
-### 00:59:48 · Speaker 1
+### 00:59:09 · Speaker 1
 
-Khruchayaha Katvankanjapalashakshikutovakinjikirshasi Kasyasivadabamo Rumathanti Vamanam Sinaha Navayantwam Aridai Chaisidhagantharvacharanai Sprashtapurvan Tujanimo Lokeshakuto Nribhi Nunantwam Vidhina Subrupreshita Sishari Rinam Sarvendriyama
+विरजाम्बरसंवीतं चित्रं वध्वीयशोभया।
+काञ्च्या प्रविलसद्वल्गुस्फुरच्चरणनूपुरम्।
+सव्रीडस्मितविक्षिप्तभ्रूविलासावलोकनैः।
+दैत्ययूथपचेतस्सुकाममुद्दीपयन्मुहुः।
 
-### 01:00:18 · Speaker 1
+### 00:59:29 · Speaker 1
 
-Sadhana Preetim Vidhatum Sagrane Nakim Satvanas Pardhama Nana Me Kavastunibha Mini Nyatinam Badhaviranam Shamvidhatsvasumadyame Vyankasyapadayada Bhatarakrta Paurushaha Vibhajasyatanya Yanaivabhedoyatabhavit Sri Shukhavacha Ityupamantritodaitya
+तेन्योन्यतः सुधापात्रं हरन्तस्त्यक्तसौहृदाः। क्षिपन्तो दस्युधर्मेण आयान्तीन्ददृशुस्त्रियम्।
 
-### 01:00:48 · Speaker 1
+### 00:59:40 · Speaker 1
 
-Shri Bhagavan Naavacha Katankasha Padayada Pumschal Yamay Sangata Vishwasam Pandita Jatuka Mini Shunayantihi Sala Brakanam Srinanchas Vairini Nam Suradvishaha Sakhyanya Hora Nitya Ninuta
+अहो रूपमहो धाम अहो अस्यानवं वयः।
+इति ते तामभिदृत्यपप्रच्छुर्जातः हृच्छयाः।
+का त्वं कञ्जपलाशाक्षिकुतो वा किञ्चिकीर्षसि।
+कस्यासि वद वा मोरुमत्थन्तीव मनांसिनः।
 
-### 01:01:18 · Speaker 1
+### 01:00:00 · Speaker 1
 
-Tattva nuttam vichin vatam shri shukhavacha iti te kshve lata istasya ashvastamanaso suraha jahasura bhavagam bhiran dadusha mrta bhajanam tato grahitva mrta bhajanam harer babhasha ishtasmitashobhyagira yad yabhupetankvajasadhasadhva krta mayavo vibhaje sudha mimam
+न वयं त्वामरैर्दैत्यैः सिद्धगन्धर्वचारणैः।
+स्पृष्टपूर्वान्तु जानीमो लोकेशैश्च कुतो नृभिः।
+
+### 01:00:12 · Speaker 1
+
+नूनं त्वं विधिना सुभ्रु प्रेषितासि शरीरिणां सर्वेन्द्रियमनःप्रीतिं विधातुं सघृणेन किम्?
+
+### 01:00:23 · Speaker 1
+
+सात्वन्नस्पर्धमानानामेकवस्तुनि भामिनी।
+ज्ञातीनां बद्धवैराणां संविधत्स्व सुमध्यमे।
+
+### 01:00:33 · Speaker 1
+
+वयं कश्यपदायादाभ्रातरः कृतपौरुषाः।
+विभजस्व यथान्यायन्नैव भेदो यथा भवेत्।
+
+### 01:00:44 · Speaker 1
+
+श्रीशुक उवाच।
+इत्युपामन्त्रितो दैत्यैर्मायायोषिद्वपुरहरिः।
+प्रहस्य रुचिरापाङ्गैर्निरीक्षन्निदमब्रवीत्।
+
+### 01:00:57 · Speaker 1
+
+श्रीभगवानुवाच।
+कथं कश्यपदायादाः पुंश्चल्यां मयि सङ्गताः।
+विश्वासं पण्डिता जातु कामिनेषु न यान्ति हि।
+
+### 01:01:10 · Speaker 1
+
+सालावृकाणां स्त्रीणां च स्वैरिणीनां सुरद्विषः।
+सख्यान्याहुरनित्यानि नूतनं नूतनं विचिन्वताम्।
+
+### 01:01:22 · Speaker 1
+
+श्रीशुक उवाच।
+इति ते क्ष्वेलितैस्तस्या आश्वस्तमनसो सुराः।
+जहसुर्भावगम्भीरन्ददुश्चामृतभाजनम्।
+
+### 01:01:35 · Speaker 1
+
+ततो गृहीत्वा मृतभाजनं हरिर्वभाष ईषत्स्मितशोभया गिरा।
+यद्यभ्युपेतं क्वचसाध्वसाधुवा कृतं मया वो विभजे सुधामि माम्।
 
 ### 01:01:48 · Speaker 1
 
-Ityabhivya ratantasya akarnya surapungava a pramana vidastasya stata tian vam sata atoposhakratasnana hutwachavisha nalam datva gove prabhute bhakratasvastyayana dvijaihi yathopajosham vasam siparidhaya hata nite kusheshuprabishansarve pragareshwabibhu
+इत्यभिव्याहृतं तस्या आकर्ण्या सुरपुङ्गवाः अप्रमाणविदस्तस्यास्तत्तथेत्यन्वमं सत।
 
-### 01:02:18 · Speaker 1
+### 01:01:59 · Speaker 1
 
-Shitaha Pramukheshu Pavishtheshusureshuditijsu cha Dhupamo Dithashalayan Jushtayam Alyadi Pakaihi Tasyan Narendra Kalabho Rulasadhu Kulashoni Tatala Sagatramada Vikalakshi Saku Jati Kanakano Purasindhite Nakumbastani Kalashapa Niratha Viveha Tamshi Mukhin Kanakakunda
+अथो पोष्यकृतस्नानाहुत्वा च हविषा नलं दत्वा गोविप्रभूतेभ्यः कृतस्वस्त्ययनाद्विजैः।
 
-### 01:02:48 · Speaker 1
+### 01:02:10 · Speaker 1
 
-Sahalacharu Karanana Sakapola Vatanam Parade Vataksham Samvikshasam Mohurutsmita Vikshane Nadeva Surabhi Galya Tastanapati Kantaam Asuranam Sudhada Nam Sarpa Namivadurudhanyam Matvajatinam Shasanan Natand Vyabhajadachyutaha Kalpayitva Prathakpanthi Rubhayeshan Jagatpatihi Tamscho Pavi
+यथोपजोषं वासांसि परिधायाहतानि ते कुशेषु प्राविशन् सर्वे प्रागग्रेष्वभिभूषिताः।
 
-### 01:03:18 · Speaker 1
+### 01:02:20 · Speaker 1
 
-Daityan grahita kalashovanchayanopasancharaihi durasthan pa yama sajaramratyuharamsudham te pa layantasamayamasurasvakratanrupal tushnimasankratasnehastri vibhajukupsaya tasyangkrata te pranayav pranayapayakatara
+प्रामुखेषु उपविष्टेषु सुरेषु दितिजेषु च धूपामोदितशालायां जुष्टायां माल्यदीपकैः।
 
-### 01:03:48 · Speaker 1
+### 01:02:31 · Speaker 1
 
-Bhumane nacabaddhanuchinchanavi priyam devalinga pratichanasvarbanurdeva samsadi pravishasya om api bhadrarkabhyanchasuchitaha chakrenakshuradharena jahara bibhata shiraha haristasyakabandhasu sudhaya plavito patat shirastvamaratanitamajograhamachi krupat
+तस्यान्नरेन्द्रकलभोरुलसद्दुकूलश्रोणीतटालसगतिर्मदविह्वलाक्षी।
+साकूजती कनकनूपुरसिञ्जितेन कुम्भस्तनी कलशपाणिरथाविवेश।
 
-### 01:04:18 · Speaker 1
+### 01:02:46 · Speaker 1
 
-Yestu parvani chandrarka vabhidha vativiradi hi pitha prajem rute devair bhagava lokabhavanaham pashyata masurendranam swaroopan jagrahe vibhuu yevam sura suragana samadesha kala het vartayoga gatayo vipalair vibhikal paha tatram ratham suragana phalamanjasa puchyat pada pankajara jashrayanadaiti
+तां श्रीमुखीं कनककुण्डलचारुकर्णनासाकपोलवदनां परदेवताख्यां।
+संवीक्ष्य सम्मुमुहुरुत्स्मितवीक्षणेन देवासुराविगलितस्तनपट्टिकान्ताम्।
 
-### 01:04:48 · Speaker 1
+### 01:03:02 · Speaker 1
 
-Yad yudhyate shuvasukarmano vachobhradevatmajadishundrabhishadasat purasthat Taire vasadbhavatiyat kriyate chatasmin sarvasyadbhavati mulanishchanam yat Shri Shukhavacha Itida navadaitayana vindanamratanrupal yuktasharmaniyatashanara yana parangmukha
+असुराणां सुधादानं सर्पाणामिव दुर्नयम्।
+मत्वा जातिनुं शसानानन्नान् व्यभजदच्युतः।
+
+### 01:03:12 · Speaker 1
+
+कल्पयित्वा पृथक् पङ्क्तीरुभयेषां जगत्पतिः तांश्चोपवेशयामासः श्वासुः श्वासु च पङ्क्तिषु।
+
+### 01:03:23 · Speaker 1
+
+दैत्यान् गृहीतकलशो वञ्चयन् उपसञ्चरैः।
+दूरस्थान् पाययामास जरा मृत्युहरां सुधाम्।
+
+### 01:03:34 · Speaker 1
+
+ते पालयन्तः समयमसुराः स्वकृतं नृप।
+तूष्णीमासन् कृतस्नेहा स्त्रीविवादजुगुप्सया।
+
+### 01:03:44 · Speaker 1
+
+तस्यां कृतातिप्रणयाः प्रणयापायकातराः बहुमानेन चाबद्धा नोचुः किञ्चनविप्रियम्।
+
+### 01:03:54 · Speaker 1
+
+देवलिङ्गप्रतिच्छन्नस्वर्भानुर्देवसंसदी प्रविश्य सोममपि बच्छन्द्रार्काभ्याञ्च सूचितः।
+
+### 01:04:05 · Speaker 1
+
+चक्रेण क्षुरधारेण जहार पिबतः शिरः।
+हरिस्तस्य कबन्धस्तु सुधया प्लावितो पतत्।
+शिरस्त्वमरतान्नीतमजोग्रहमचीकृपत्।
+यस्तु पर्वणि चन्द्रार्कावभिधावति वैरधीः।
+
+### 01:04:24 · Speaker 1
+
+पीतप्राये मृते देवैर्भगवाल्लोकभावनः।
+पश्यतामसुरेन्द्राणां स्वरूपं जगृहे विभुः।
+
+### 01:04:35 · Speaker 1
+
+एवं सुरासुरगणाः समदेशकालहेत्वर्थयोगगतयो विफलैर्विकल्पाः।
+तत्रामृतं सुरगणाः फलमञ्जसा पुह्यत्पादपङ्कजरजश्रयणान्नदैत्याः।
+
+### 01:04:50 · Speaker 1
+
+यद्युद्यतेषु वसुकर्मनो वचोभिर्देवात्मजादिषु नृभिस्तदसत्पुरस्तात्।
+तैरेव सद्भवति यत् क्रियते च तस्मिन् सर्वस्य तद्भवति मूलनिषेचनं यत्।
+
+### 01:05:05 · Speaker 1
+
+श्रीशुक उवाच।
+इति दानवदैतेयानाविन्दन्नमृतं नृप।
+युक्ताः कर्मणियत्ताश्च नारायणपराङ्मुखाः।
 
 ### 01:05:18 · Speaker 1
 
-Adhyayitvamrutamrangan paaya yitvamrutam saran pashyatam sarvabhutanam yayaugarudavahanaha sapatnanam paramrindrashvachaditinandana amrasyamana utpeturdevan pratyudhyata yudha tatasuragana sarve sudhaya pita yadhidhatah pratysam yudhushastrayarnarayanaparaya
+साधयित्वामृतं राजन् पाययित्वामृतं सुरान्।
+पश्यतां सर्वभूतानां ययौ गरुडवाहनः।
 
-### 01:05:48 · Speaker 1
+### 01:05:29 · Speaker 1
 
-Tatra Deva Suro Nama Ranav Paramadharunaha Rodhas Yudhavato Rajantumuloro Maharshanaha Tatra Nyonyam Sapatnaste Samrabdhamanaso Rane Samasadya Sibhurbanairni Jagnuravidha Yudhai Shankhaturyam Rudanga Nam Peri Damarinamahan Hastya Shwaratapatinanadata
+सपत्नानां परामृद्धिं दृष्ट्वा च दितिनन्दनाः।
+अमृश्यमाणा उत्पेतुर्देवान् प्रत्युद्यतायुधाः।
 
-### 01:06:18 · Speaker 1
+### 01:05:40 · Speaker 1
 
-Niswano Bhavat Ratino Ratibhista Trapati Bhisa Hapatayaha Haya Haya Ribhaishe Bhasa Samasajantasamyuge Ustraich Ketchidvijai Ketchidapare Bhya Yuchharaihi Ketchidgauramragairakshardvip Bhirahare Bhirtahatah Grudraichankair Bhakairanyeshyanair Bhasaistimingilaih Sharabhair Mahesh
+ततः सुरगणाः सर्वे सुधया पीतयैधिताः।
+प्रतिसंयुयुधुः शस्त्रैर्नारायणपरायणाः।
+तत्र देवासुरो नाम रणः परमदारुणः।
+रोधस्युदन्वतो राजन् तुमुलोरो महर्षणः।
 
-### 01:06:48 · Speaker 1
+### 01:06:00 · Speaker 1
 
-Shiva Bhira Kubhke Chitkrkala Sai Shashir Naraihi Bastair Ke Krishnasareham Sairanyecha Sukaraihi Anya Jalasthalakagai Satvair Vikrta Vigrahihi Senayo Robhayorajan Vibhushu Te Grato Grataha Chitradvajapatirajanatapatra Sita Malaihi
+तत्रान्योऽन्यं सपत्नास्ते संरब्धमनसो रणे समासाद्यासिभिर्बाणैर्निजघ्नुर्विविधायुधैः।
 
-### 01:07:18 · Speaker 1
+### 01:06:11 · Speaker 1
 
-Mahadhanirvajradandair vibhrajadbarhacha marai Vato dhutota roshni shaisatkutair varma bhushanai Spuradbhiravishadai shastra sutaram suryareshmi bihi Devadhanaviranandvajinyopandunandanam Rejatoravichimala bhiryadasamivasagare Virochanobalisankhe
+शङ्खतूर्यमृदङ्गानां भेरीडमरिणां महान् हस्त्यश्वरथपत्तीनान् नदतान् निस्वनोभवत्।
 
-### 01:07:48 · Speaker 1
+### 01:06:21 · Speaker 1
 
-Sura Nanchamu Patihi Yanam Vaiha Yasana Maka Magamayanir Mitam Sarva Sangra Mikopetam Sarvaschar Yamayam Prabho Apartharkyamanir Deshendrasyaman Madarshanam Asthita Stadvimanagrim Sarva Nikadhipairvrataha Vallabhyajanachatra Griyay Rajecha Chandra Ivo Dhe
+रथिनो रथिभिस्तत्र पत्तिभिस्सहपत्तयः।
+हयाहयैरिभैश्चेभास्समसज्जन्तसंयुगे।
+उष्ट्रैः केचिद्विजैः केचिदपरेभिययुःखरैः।
+केचिद्गौरमृगैरुक्षैर्द्वीपिभिर्हरिभिर्भटाः।
+
+### 01:06:42 · Speaker 1
+
+गृध्रैः कङ्कैर्बकैरन्येष्येनैर्भासैस्तिमिङ्गिलैः। शरभैर्महिषैः खड्गैर्गोगृषैर्गवयारुणैः।
+
+### 01:06:53 · Speaker 1
+
+शिवाभिराखुभिः केचित् कृकलासैः शशैर्नरैः।
+बस्तैरेके कृष्णसारैरहंसैरन्ये च सूकरैः।
+
+### 01:07:04 · Speaker 1
+
+अन्ये जलस्थलखगैः सत्वैर्विकृतविग्रहैः।
+सेनयोरुभयो राजन् विविशुस्ते ग्रतो ग्रतः।
+
+### 01:07:14 · Speaker 1
+
+चित्रध्वजपटैराजन्नातपत्रैः सितामलैः महाधनैर्वज्रदण्डैर्विभ्राजद्बार्हचामरैः।
+
+### 01:07:24 · Speaker 1
+
+वातोद्धूतोत्तरोष्णीषैः सत्कृतैर्वर्मभूषणैः।
+स्फुरद्भिर्विशदैः शस्त्रैः सुतरां सूर्यरश्मिभिः।
+
+### 01:07:36 · Speaker 1
+
+देवदानववीराणां ध्वजिन्यौ पाण्डुनन्दन।
+रेजतुर्वीचिमालाभिर्यादसामिव सागरे।
+
+### 01:07:46 · Speaker 1
+
+वैरोचनो बलिस्सङ्ख्ये सो सुराणां च मूपतिः। यानं वैहायसन्नामकामघं मयनिर्मितम्।
+
+### 01:07:57 · Speaker 1
+
+सर्वसाङ्ग्रामिकोपेतं सर्वाश्चर्यमयं प्रभो। अप्रतर्क्यमनिर्देश्यं दृश्यमानमदर्शनम्।
+
+### 01:08:07 · Speaker 1
+
+आस्थितस्तद्विमानाग्र्यं सर्वाणीकाधिपैर्वृतः।
+वालव्यजनच्छत्राग्र्यैरेजे चन्द्र इवोदये।
 
 ### 01:08:18 · Speaker 1
 
-Tasya sansarvato yana ri yuta nam patayo suraha namuchishambharobano viprachitirayo mukhaha dvimurdha kalana bhutapraheteraheteril valaha shakunera bhutasanta po vajradam strovirochanaha
+तस्यासन् सर्वतो यानैर्यूथानां पतयो सुराः।
+नमुचि शम्बरो बाणो विप्रचित्तिरयोमुखः।
 
-### 01:08:48 · Speaker 1
+### 01:08:29 · Speaker 1
 
-Arshad Kalaha Arshad Rishthane Misha Mayash Chatri Puradhipaha Anye Paulo Makaleya Nivata Kabachadayaha Alabdhabhaga Soma Shyake Balankleshabhaginaha Sarva Ete Ranamukhe Bahusho Nirjita Maraha Simhana Dambimunchanta Shankhanadur Maharavan Drastva Sapatna Nutsik
+द्विमूर्धाकालनाभोथप्रहेतिर्हेतिरिल्वलः।
+शकुनिर्भूतसन्तापो वज्रदंष्ट्रो विरोचनः।
 
-### 01:09:18 · Speaker 1
+### 01:08:40 · Speaker 1
 
-Tasya sansarvat o devanana vahadvaja yudhaha lokapala sahaganairvaivagnivaruna dayaha tehyon yamabhisamsratchakshipanto namabhiramithaha ahvayanto
+हयग्रीवः शङ्कुशिराः कपिलो मेघदुन्दुभिः तारकश्चक्रदृक्षुम्भो निशुम्भो जम्भोत्कलः।
 
-### 01:09:48 · Speaker 1
+### 01:08:50 · Speaker 1
 
-Yudha balirindrenatarake nativaspati varuno hetina yudhanmitra rajan prahetina yamas tukalanabhena vishvakarma mayena vai shambaro yudha tvastra savitra tavirochanah aparajitenamuchirashvino vrishaparavana suryo balis
+अरिष्टोरिष्टनेमिश्चमयश्च त्रिपुराधिपः।
+अन्ये पौलोमकालेयानि वातकवचादयः।
 
-### 01:10:18 · Speaker 1
+### 01:09:01 · Speaker 1
 
-Sutairdevo banadhyeshtha shate nasaha rahuna cha tatha sa ma phuloma yudhe nilaha nishum bhushum bhayur devi bhadrakali narashani vrsakapistujamhe namah shena vibha vasuho ilvala sahavata per brahmapatrayarindama kama devena duramarashau dhalomatra bisaha
+अलब्धभागाः सोमस्य केवलं क्लेशभागिनः सर्व एते रणमुखे बहुशो निर्जितामराः।
 
-### 01:10:48 · Speaker 1
+### 01:09:11 · Speaker 1
 
-Brahmaspati Sushanasanarake Nishanishcharaha Maruto Nivatakavachai Kale Yairavasavomara Vishwedvas Tupaulomairudrakrodhavashaisaha Taevamajavasurasurendradwandvena samhachachyudhyamana Anyonyama sadjanijagnurojasajigeshavastikshnasharamshachikshipuhu Bhushundebhi
+सिंहनादं विमुञ्चन्त शङ्खान् दध्मुर्महारवान्। दृष्ट्वा सपत्नानुत्सिक्तान् बलभित्कुपितो भृशम्।
 
-### 01:11:18 · Speaker 1
+### 01:09:22 · Speaker 1
 
-Chakradashtibhati shaktyul mukhaif prasaparashvadhirapi nistrim sabhalaih pareghaisam mudgaraisabhindipaalais chashiram sichi chiduhu gajasturanga sarathav padatayasaro hava vidha vikandita ha nikratabahurushirotharangayaschinadvajeshvasatanutrabhu shana ha tesham padaghatarathangachur nithada yodhana dulba
+ऐरावतं दिक्करिणमारूढो वियतिस्वराट्।
+यथास्रवत्प्रस्रवणमुदयाद्रिमहर्पतिः।
+तस्यांसर्वतो देवा नानावाहध्वजायुधाः।
+लोकपालास्सहगणैर्वाय्वग्निवरुणादयः।
 
-### 01:11:48 · Speaker 1
+### 01:09:42 · Speaker 1
 
-Uchritastada Reenur deshakhand yamaninchachadayan yavarthatas rakshate bhivpareplutaha Shiro bhirudrata kiritakundalaisam rambhadrakbhivparedashtadachadai Maha bhujaisabharanaisaha yudhaisam prasrtabhukkarabho rubhira babhau Kabandhasatra chotpetofpatitaisvashirokshibhi Udyata yudhador dandairada
+तेन्योऽन्यमभिसंसृत्य क्षिपन्तो नामभिर्मिथः।
+आह्वयन्तो विशन्तोऽग्रे युयुधुर्द्वन्द्वयोधिनः।
+युधे बलिरिन्द्रेण तारकेण दिवस्पतिः।
+वरुणो हेतिना युध्यन्मित्रो...
 
-### 01:12:18 · Speaker 1
+### 01:10:00 · Speaker 1
 
-Bhavantobhatanradhe Baliramahendran dashabhishtribhiraya vatamsharaiha chaturbhishchaturvahane kena rohamarchayat satana patatashakrastavadbhi shigravikramaha chichedanishitair bhalairasampraptanhasaniva tasyakarmotamamviksha duramarashaktima dade tanjwal
+राजन् प्रहेतिना यमस्तु कालनाभेन विश्वकर्मा मयेन वै शम्बरो युयुधे त्वष्ट्रा सवित्रा तु विरोचनः।
 
-### 01:12:48 · Speaker 1
+### 01:10:13 · Speaker 1
 
-Tat Tv Sula Tatv Prasanta Tatv Tama Ramrashtra Yedya Chastram Samadhyad Sarvan Tatv Chinad Vibhu Sasarjata Surima Yaman Taradha Nagato Suraha Tatv Pradurabhu Chaila Surani Ko Pariprabhu Tato Nipetustarabo Dahyamana
+अपराजितेन नमुचिरश्विनौ वृषपर्वणा सूर्यो बलिसुतैर्देवो बाणज्येष्ठशतेन सह।
 
-### 01:13:18 · Speaker 1
+### 01:10:23 · Speaker 1
 
-Shila Vitanka Shikharas Churnayantod Vishadbalam Mahoraga Samutpeturdanda Sukha Savrashikaha Simhavya Gravarahas Chamardayanto Mahasuran Yatudhan Yashashtasashula Hastaviva Sasaha Chindibinditivadin Yashatharakshogana Vibho Tato Mahagana Vibho
+राहुणा च तथा सोमः पुलोम्ना युयुधे निलः। निशुम्भ शुम्भयोर्देवी भद्रकालीनराशनी।
 
-### 01:13:48 · Speaker 1
+### 01:10:33 · Speaker 1
 
-Srishtodaitena sumahan vanishvasanasaratihi Samvartaka ivatyogro vibhudadvajini madhak Tatasamudra udvelasarvatapratyadrshyata Prasandavatayrudbhutataranga vartabhishanaham
+वृषा कपिस्तु जम्भेन महिषेण विभावसुः।
+इलवलः सहवातापिर्ब्रह्मपुत्रैररिन्दम।
+कामदेवेन दुर्मर्ष उत्कलो मातृभिस्सह।
+बृहस्पतिस्तु शनसा नरकेण शनैश्चरः।
+
+### 01:10:53 · Speaker 1
+
+मरुतो निवातकवचैः काले यैर्वसवो मराः।
+विश्वे देवास्तु पौलोमैरुद्राः क्रोधवशैस्सह।
+
+### 01:11:04 · Speaker 1
+
+त एव माजावसुराः सुरेन्द्रद्वन्द्वेन संहत्य च युध्यमानाः।
+अन्योन्यमासाद्य निजघ्नुरोजसा जिगीषवस्तीक्ष्णशरांश्च चिक्षिपुः।
+
+### 01:11:17 · Speaker 1
+
+भूषुण्डिभिश्चक्रगदृष्टिपट्टिशैः शक्त्युल्मुखैः प्रासपरश्वधैरपि।
+निस्त्रिंशभल्लैः परिघैः समुद्गरैः सभिण्डिपालैश्च शिरांसिचिच्छिदुः।
+
+### 01:11:31 · Speaker 1
+
+गजास्तुरङ्गास्सरथाः पदातयस्सारो हवाहा विविधा विखण्डिताः।
+निकृत्तबाहुरुशिरोधराङ्घ्र्यश्चिन्नध्वजे श्वासतनुत्रभूषणाः।
+
+### 01:11:44 · Speaker 1
+
+तेषां पदाघातरथाङ्गचूर्णितादायोधनादुल्बण उच्छ्रितस्तदा।
+रेणुर्दिशः खन्द्युमणिं च छादयन् यवर्तता स्रुक्सृतिभिः परिप्लुतः।
+
+### 01:11:57 · Speaker 1
+
+शिरोभिरुद्रुत्तकिरीटकुण्डलैः संरम्भदृग्भिः परिदष्टदच्छदैः।
+महाभुजैः साभरणैः सहायुधैः सम्प्रास्तृता भूः करभोरुभिरबभौ।
+
+### 01:12:11 · Speaker 1
+
+कबन्धस्तत्र चोत्पेतुः पतितैः स्वशिरोक्षिभिः उद्यतायुधदोर्दण्डैराधावन्तो भटान्मृधे।
+
+### 01:12:22 · Speaker 1
+
+बलिर्महेन्द्रं दशभिस्त्रिभिरैरावतं शरैः। चतुर्भिश्चतुरो वाहाने केनारोहमार्चयत्।
+
+### 01:12:32 · Speaker 1
+
+सतानापततश्चक्रस्तावद्भिः शीघ्रविक्रमः।
+चिच्छेदनिशितैर्भल्लैरसं प्राप्तान् हसन्निव।
+
+### 01:12:42 · Speaker 1
+
+तस्य कर्मोत्तमं वीक्ष्य दुर्मर्षः शक्तिमाददे।
+ताञ्ज्वलन्तीं महोलकाभां हस्तस्थामच्छिनद्धरिः।
+
+### 01:12:53 · Speaker 1
+
+ततः शूलं ततः प्रासं ततस्तोमरमृष्टयः। यद्यच्छस्त्रं समादद्यात् सर्वं तदच्छिनद्विभुः।
+
+### 01:13:04 · Speaker 1
+
+ससर्जाथासुरीं मायामन्तर्धानगतो सुरः।
+ततः प्रादुरभूच्छैलः सुरानीकोपरि प्रभो।
+
+### 01:13:15 · Speaker 1
+
+ततो निपेतुस्तरवो दह्यमानादवाग्निना शिलाविटङ्कशिखराश्चूर्णयन्तोद्विषद्बलम्।
+
+### 01:13:26 · Speaker 1
+
+महोरागाः समुत्पेतुर्दन्दशूकाः स वृश्चिकाः सिंहव्याघ्रवराहाश्च मर्दयन्तो महासुरान्।
+
+### 01:13:36 · Speaker 1
+
+यातु धान्यश्च शतशः शूलहस्ता विवाससः।
+छिन्धिभिन्धीति वादिन्यस्तथा रक्षोगणा विभो।
+
+### 01:13:47 · Speaker 1
+
+ततो महाघनाव्योम्नि गम्भीरपरुषस्वनाः।
+अङ्गारान् मुमुचुर्वातैः राहतास्तनयित्नवः।
+
+### 01:13:57 · Speaker 1
+
+सृष्टो दैत्येन सुमहान् वह्निः श्वसनसारथिः।
+सामवर्तक इवात्युग्रो विबुधध्वजिनीमधाक्।
+
+### 01:14:08 · Speaker 1
+
+ततः समुद्र उद्वेलः सर्वतः प्रत्यदृश्यत।
+प्रचण्डवातैरुद्भूततरङ्गावर्तभीषणः।
 
 ### 01:14:18 · Speaker 1
 
-Sri Jyamana Sumaya Subhishadu Surasaini Natat Pratibhividhyam Yatra Vidurindra Dayon Rupa Dhata Pradurabhutatra Bhagavan Vishwabhavanaha Tatasuparanam Sakratang Ghrupalabhisangavasa Navakanjalo Chanaha Adrasyata Stha Yudhabahurula Satrikaust
+एवं दैत्यैर्महामायैरलक्ष्यगतिभीषणैः।
+सृज्यमानासु मायासु विषेदुः सुरसैनिकाः।
 
-### 01:14:48 · Speaker 1
+### 01:14:28 · Speaker 1
 
-Tubhanar jyakirita kundalaha Tasmin pravashe surakuta karmaja maya vineeshuramahatamahi yasi Swapno yathahe pratibodha agate harismrutes sarva vipadvinashini Drashtvam rade garudava hamata revaha avidyashula mahino dathakala ne mihi Tali layaga rudamur dhipatad grihita tena hanandrapasavahamarintra
+न तत्प्रतिविधिं यत्र विदुरिन्द्रादयो नृप। ध्यातः प्रादुरभूत्तत्र भगवान् विश्वभावनः।
 
-### 01:15:18 · Speaker 1
+### 01:14:38 · Speaker 1
 
-Mali sumalya tebalu yudhipe tatu yachakrena krita shirasavatamalyavam stam Ahat yatigmagadyahanadanda jendran tavachiro chinadare nadatorinadyaha shishukavacha toasurafrachypalabdachetasa parasyapumsa parayanukampaya jagnurabrashamshakrasamiranadayastam sthantra
+ततः सुपर्णां सकृतां घृपल्लवः पिषङ्गवासा नवकञ्जलोचनः।
+अदृश्यताष्टायुधबाहुरुल्लसच्छ्रीकौस्तुभानर्घ्यकिरीटकुण्डलः।
 
-### 01:15:48 · Speaker 1
+### 01:14:52 · Speaker 1
 
-Yairabhisamhataphura Vairochanayasamrabdhabhagavanpakasha sanaha Udayachadyada vajramprajaha hetichukrshuhu Vajrapanisthamahedantiraskratyapurasthitam Manasvinam susampanamvicharanthamaha bradhe Indrabhava Natan mudhamaya bhrama yeshanodji
+तस्मिन् प्रविष्टे सुरकूटकर्मजा मायाविनेषुर्महतां महीयसी।
+स्वाप्नो यथा हि प्रतिबोध आगते हरिस्मृतिः सर्वविपद्विनाशिनी।
 
-### 01:16:18 · Speaker 1
+### 01:15:05 · Speaker 1
 
-Jitva Balan Nibhadakshan Yatharati Tadanam Aru Rukshan Tima Yabhiruchis Rupshan Tiyadivam Tandasun Vidhunomyagnan Purvasmatapada Dada Sohandruma Inastedyavadrena Shataparavana Shiro Harishyamandatman Gatasvagnyatibhisaha Baliruvacha
+दृष्ट्वा मृधे गरुडवाहमथारिवाह आविध्य शूलमहि नोदथ कालनेमिः।
+तल्लीलया गरुडमूर्ध्नि पतद्गृहीत्वा तेनाहनन् नृपसवाहमरिन्द्रधीशः।
 
-### 01:16:48 · Speaker 1
+### 01:15:20 · Speaker 1
 
-Sangra me vartamana nankale no ditha karmanam kirti rajayo jayom rachyo sarve shamsuranukramat tamimankala rashananjana fashanti surayaha nakruchan tenashochan titatra yuyama pandita ha navayam anyamanana matmanantatra karanam girova sadhusochyanangrinhi
+माली सुमाल्यति बलौ युधिपे ततुर्यच्चक्रेण कृत्तशिरसावथमाल्यवांस्तम्।
+आहत्य तिग्मगदया हनदण्डजेन्द्रं तावच्छिरोच्छिनदरेर्नदतो रिणाद्यः।
 
-### 01:17:18 · Speaker 1
+### 01:15:36 · Speaker 1
 
-Shri Shukhavacha Pratyakshipya Vibhuvir Narachairavir Mardanaham Akaranapur Nirahanadakshay Paira Hatam Punaha Yevanirakruto Devo Vairinatatyavadinam Namrashatadadhikshapan Totra Hata Iva Dvipaha Praharat Kulishantasma Amoghampara
+श्रीशुक उवाच।
+थो सुराः प्रत्युपलब्धचेतसः परस्य पुंसः परयानुकम्पया।
+जघ्नुरभृशं शक्रसमीरणादयस्तांस्तान् रणे यैरभिसंहताः पुरा।
 
-### 01:17:48 · Speaker 1
+### 01:15:52 · Speaker 1
 
-Sahamardhanam Sayano nyapata bhumauchina paksha ivachalaha sakayam patitanrashtra jambo balisakha sukrot abhyad saurodom sakura hatasya pisamacharan sasimhava asadyagada mudyam yaram hasa jatra vatadayachakrangajanchasumaha balaha gada praharavyatito
+वैरोचनाय संरब्धो भगवान् पाकशासनः।
+उदयच्छद्यदा वज्रं प्रजाः हेति चुकृषुः।
 
-### 01:18:18 · Speaker 1
+### 01:16:02 · Speaker 1
 
-Tato rato mata lina haribhirda shashatiravrtaha anithod vipamutra jaratamaruhe vibhu Tasyatattu jayankarmayan toradanavasatamaha shule nadjvalata tattusmayamanohanam vradhe sehe rujayam
+वज्रपाणिस्तमाहेदन्तिरस्कृत्य पुरस्थितम्।
+मनस्विनं सुसम्पन्नं विचरन्तं महामृधे।
 
-### 01:18:48 · Speaker 1
+### 01:16:12 · Speaker 1
 
-Sudurumarsham Satvam Alambyam Talihi Indro Jambhasya Sankrudh Vajrena Paharachira Jambhamsutva Hattantasya Gnyatayo Narada Drusha Namuchischa Balafpa Kastrayo Pe Yustvaran Vithaha Vachobhif Parushairindram Vardhaya Ntosya Marmasu Sharairava Kiran Meghadharabhirivaparvatam
+इन्द्र उवाच।
+नटवन्मूढमायाभिर्मायेषान्नो जिगीषसि।
+जित्वा बालान्निबद्धाक्षान् यथा हरति तद्धनम्।
 
-### 01:19:18 · Speaker 1
+### 01:16:25 · Speaker 1
 
-Harindas Chhatana Jauhari Ashvatsya Balaksharai Tavad Bhiradhyama Sayuga Pallaguhastavan Shatabhyam Matalimpakorathamsavayavam Pratthak Sakrat Sandhana Mukshena Tadadbhutamabhudrane Namuchif Panchadasa Bisvaranapunkhirmaheshubhi Ahat Yavyanadatsankhesatoya Ivato Yadaha
+आरुरुक्षन्ति मायाभिरुत्सि सृप्सन्ति ये दिवम्।
+तान् दस्यून् विधुनो म्यज्ञान् पूर्वस्माच्च पदादधः।
 
-### 01:19:48 · Speaker 1
+### 01:16:36 · Speaker 1
 
-Sarvata sarakutenashakram sarathasarathim chadayama surasura pravratasuryamibham buddha alakshayantastamati va vichvala vichukrushurde vagana saha nuga anayakashatrubale nirjita vanikpatha bhinnanavoyataranave tathasturashadishubhadha panjaradviniragata sashvara tadbhajagrani
+सोहन् दुर्मायिनस्तेद्य वज्रेण शतपर्वणा शिरो हरिष्ये मन्दात्मन् घटस्वज्ञातिभिस्सह।
 
-### 01:20:18 · Speaker 1
+### 01:16:47 · Speaker 1
 
-Babhu Disha Kampravindcharo Chayan Swati Jasasurya Ivaksha Patya Niriksha Pratanande Vafparirabhditam Rane Udaya Chadripun Hantum Vajram Vajradharo Rusa Satenaivastadharanashirasi Balapakayo Nyatinam Pashyatam Rajanjahan Rajanayanbhyam Namuchisadvadhrashtva
+बलिरुवाच।
+सङ्ग्रामे वर्तमानानां काले नोदितकर्मणाम्।
+कीर्तिर्जयोजयो मृत्युः सर्वेषां श्युरनुक्रमात्।
 
-### 01:20:48 · Speaker 1
+### 01:17:00 · Speaker 1
 
-Shoka mara sharushan vithaha Jigam surindran drapathe kakaraparamo dyamam Ashmasaramayam shulanghanta vadhyamabhu sanam Pragrihyabhyadravat krudho namuchiradanavotamaha Tada vidyamaha viryo hatosi tivitarajan prahino devara jayaninadan margaradiva Tada patadgaga
+तमिमं कालरशनञ्जनाः पश्यन्ति सूरयः।
+न हृष्यन्ति न शोचन्ति तत्र यूयमपण्डिताः।
 
-### 01:21:18 · Speaker 1
+### 01:17:10 · Speaker 1
 
-Tatale Mahajavan Niti Chide Harire Shubhissa Sahastra Dha Tamahanandrupakulishena Kandare Roshan Vitas Tritasya Pateshiro Haran Tato Shanat Vajamapi Vajra Urjito Bibhe Dayaha Surapatinau Jase Rithaha Tadat Bhutam Paramate Virya Vratrabheteraskrto Namuti Shiro Dharatvacha Tasma Dindra Bibhe Chatro Vajra
+न वयं मन्यमानानामात्मानं तत्र कारणम्।
+गिरोवस्साधुषोच्यानां गृह्णीमो मर्मताडनाः।
 
-### 01:21:48 · Speaker 1
+### 01:17:22 · Speaker 1
 
-Pratihato yataha Kimbidandaivayoge nabhutam lokabimohanam Yename purva madrinam pakshache dafprajatyaye Kruto nibhishatam bharaif patatraif patatambhavi Tapasa ramayan tvastram vratro yena vipatitaha Anye chatibalope tasarvasatra rakshatavachaha Soyam prasatam
+श्रीशुक उवाच। प्रत्याक्षिप्य विभुं वीरो नाराचैर्वीरमर्दनः। आकर्णपूर्णैरहनदाक्षेपैराहतं पुनः।
 
-### 01:22:18 · Speaker 1
+### 01:17:35 · Speaker 1
 
-Nathada devajram brahmate jopyakaranam Iti shakram vishedantamaha gashari rini Nayam shuskairato nardhir vadhamarhati da navaha Mayasmayadvarodhatom rachuranaivardra shuskayo ha Atonya shintani yeste upayo maghavan repo ha
+एवन्निराकृतो देवो वैरिणा तथ्यवादिना।
+नामृष्यत् तदधिक्षेपं तोत्राहत इव द्विपः।
+
+### 01:17:45 · Speaker 1
+
+प्राहरत् कुलिशन्तस्मा अमोघं परमर्दनम्।
+सयानोन्यपतद्भूमौ छिन्नपक्ष इवाचलः।
+
+### 01:17:55 · Speaker 1
+
+सखायं पतितं दृष्ट्वा जम्भो बलिसखः सुहृत् अभ्ययात् सौरदं सख्युर्हतस्यापि समाचरन्।
+
+### 01:18:06 · Speaker 1
+
+ससिंहवाह आसाद्य गदामुद्यम्यरं हसा जत्रावताडयच्छक्रं गजं च सुमहाबलः।
+
+### 01:18:16 · Speaker 1
+
+गदाप्रहारव्यथितो भृशं विह्वलितो गजः।
+जानुभ्यान्धरणीं स्पृष्ट्वा कश्मलं परमं व्ययौ।
+
+### 01:18:27 · Speaker 1
+
+ततो रथो मातलिना हरिभिर्दशशतैर्वृतः आनीतो द्वीपमुत्सृज्य रथमारुरुहे विभुः।
+
+### 01:18:37 · Speaker 1
+
+तस्य तत् पूजयन् कर्मयन्तुर्दानवसत्तमः।
+शूलेन ज्वलतां तुस्मयमानो हनन्मृधे।
+
+### 01:18:47 · Speaker 1
+
+सेहेरुजं सुदुर्मर्षं सत्वमालम्ब्य मातलिः।
+इन्द्रोजम्भस्य संक्रुद्धो वज्रेणापाहरच्छिरः।
+
+### 01:18:58 · Speaker 1
+
+जम्भं श्रुत्वा हतं तस्य ज्ञातयो नारदादृशेः।
+नमुचिश्च बलः पाकस्त्रयोपेयुस्त्वरान्विताः।
+
+### 01:19:09 · Speaker 1
+
+वचोभिः परुषैरिन्द्रं मर्दयन्तोस्य मर्मसु शरैरवाकिरन्मेघाधाराभिरिव पर्वतम्।
+
+### 01:19:19 · Speaker 1
+
+हरीन्दशशतानाजौ हर्यश्वस्य बलः शरैः।
+तावद्भिरर्दयामास युगपल्लघुहस्तवान्।
+शताभ्यां मातलिं पाको रथं सावयवं पृथक्।
+सकृत्सन्धानमोक्षेण तदद्भुतमभूद्रणे।
+
+### 01:19:39 · Speaker 1
+
+नमुचिः पञ्चदशभिः स्वर्णपुङ्खैर्महेशुभिः।
+आहत्यव्यनदत्सङ्ख्ये सतोय इवतो यदः।
+सर्वतश्शरकूटेन शक्रं सरथसारथिम्।
+छादयामासुरसुराः प्रावृट् सूर्यमिवाम्बुदाः।
+
+### 01:20:00 · Speaker 1
+
+अलक्षयन्तस्तमतीव विह्वला विचुकृषुर्देवगणाः सहानुगाः।
+अनायकाः शत्रुबलेन निर्जिता वणिक्पथा भिन्ननवो यथार्णवे।
+
+### 01:20:12 · Speaker 1
+
+ततस्तुराषाडिषु बद्धपञ्जराद्विनिर्गतस्साश्वरथध्वजाग्रणीः।
+बभौ दिशः खं पृथिवीं च रोचयन् स्वतेजसा सूर्य इव क्षपात्यये।
+
+### 01:20:25 · Speaker 1
+
+निरीक्ष प्रुतनान् देवः परैरभ्यर्धितां व्रणे। उदयच्छद्रिपून् हन्तुं वज्रं वज्रधरो रुषा।
+
+### 01:20:35 · Speaker 1
+
+सतेनैवाष्टधारेण शिरसि बलपाकयोः।
+ज्ञातीनां पश्यतां राजन् जहार जनयन् भयम्।
+
+### 01:20:46 · Speaker 1
+
+नमुचिस्तद्वधं दृष्ट्वा शोकामर्षरुषान्वितः।
+जिघां सुरिन्द्रं नृपते चकार परमोद्यमम्।
+
+### 01:20:57 · Speaker 1
+
+अश्मसारमयं शूलं घण्टावद्धेमभूषणम्। प्रगृह्याभ्यद्रवत्क्रुद्धो नमुचिर्दानवोत्तमः।
+
+### 01:21:07 · Speaker 1
+
+तदा विध्य महावीर्यो हतोसीति वितर्जयन्।
+प्राहिणोद्देवराजाय निनदन् मृगराडिव।
+तदा पतद्गगनतले महाजवन्निचिच्छिदे हरिरिषुभिः सहस्रधा।
+
+### 01:21:23 · Speaker 1
+
+तमाहनन् नृपकुलिशेन कन्धरे रुषान्वितस्त्रिदशपतिः शिरोहरन्।
+ततोऽस्य न त्वचमपि वज्र ऊर्जितोऽपि भेदयः सुरपतिनौजसेरितः।
+तदद्भुतं परमतिवीर्यवृत्रभित्तिरस्कृतो।
+
+### 01:21:42 · Speaker 1
+
+नमुचिशिरोधरत्वचा। तस्मादिन्द्रो बिभेच्छत्रोर्वज्रः प्रतिहतो यतः। किमिदन्दैव योगेन भूतं लोकविमोहनम्।
+
+### 01:21:55 · Speaker 1
+
+येन मे पूर्वमद्रीणां पक्षच्छेदः प्रजात्यये कृतो निविशतां भारैः पतत्रैः पततां भुवि।
+
+### 01:22:06 · Speaker 1
+
+तपस्सारमयं त्वाष्ट्रं वृत्रो येन विपाटितः।
+अन्ये चातिबलोपेताः सर्वास्त्रैरक्षतत्वचः।
+
+### 01:22:17 · Speaker 1
+
+सोयं प्रतिहतो वज्रो मया मुक्तो सुरेल्पके।
+नाहं तदाददे वज्रं ब्रह्मतेजोप्यकारणम्।
+
+### 01:22:28 · Speaker 1
+
+इति शक्रं विषेदन्तमाह वागशरीरिणी।
+नायं शुष्कै रथो नार्द्रैर्वधमर्हति दानवः।
+
+### 01:22:38 · Speaker 1
+
+मयास्मयद्वरो दत्तो मृत्युर्नैवार्द्रशुष्कयोः।
+अतोऽन्यश्चिन्तनीयस्ते उपायो मघवन् रिपोः।
 
 ### 01:22:48 · Speaker 1
 
-Tandaivangirama karanya makhavan susama hitaha dhyayan feena matha pashyadupaya mubhayatmakam
+तान् दैवीं गिरमाकर्ण्यमघवान् सुसमाहितः ध्यायन् फेनमथा पश्यदुपायमुभयात्मकम्।
 
 ### 01:22:59 · Speaker 1
 
-Nasuske na chardre na ja harana muce shira ha tantu stovura muni gana mal jaishava kiran vibhum
+न शुष्केण न चार्द्रेण जहार नमुचेश्शिरः।
+तन्तुष्टुवुर्मुनिगणामाल्यैश्चावाकिरन्विभुम्।
 
 ### 01:23:09 · Speaker 1
 
-Santara Vamukhyo Jagatora Vishwa Vasupara Vasu Devadundubhyone Dura Nartakyonandratora Muda Anye Pyavam Pratidvandavan Vaivagnivaruna Dayaha Sudhaya Masa Surastraughiramragan Kesarino Yatha Bramhana Prashetodevan Devarashirnaradonrupa Varayama Savibudhan Drishtva Dhanavasa
+गन्धर्वमुख्यौ जगतुर्विश्वावसु परावसु देवदुन्दुभयो नेदुरनर्तक्यो नन्दृतुर्मुदा।
 
-### 01:23:39 · Speaker 1
+### 01:23:20 · Speaker 1
 
-Sankshayam Narada Bhuvacha Bhavad Bhiramratam Praptanara Yana Bhujashrayaihi Shriyasamedhita Sarve Uparamata Vikrhat Shri Shukhabhuvacha Samyam Yaman Yosamram Bhama Nayan Toamune Ravachaha Sangi Yamananucharayayus Sarve Tri Veshtapam Yevashtaranita
+अन्येप्येवं प्रतिद्वन्द्वान् वाय्वग्निवरुणादयः सूदयामासुरस्त्रौघैर्मृगान् केसरिणो यथा।
 
-### 01:24:09 · Speaker 1
+### 01:23:31 · Speaker 1
 
-Sasmin na rada numate nate Balim vapan namada ya astangirimupa gaman Tatra vinashtavayan vidyamanashiro dharan Ushana ji vayama sasanji vinyasavadhyaya Balishcho sanasas prashtav pratyapana ndriyas mrtahi Parajito pina kidjaloka tatvichakshanaha Sri Joka
+ब्रह्मणा प्रेषितो देवान् देवर्षिरनारदो नृप।
+वारयामास विबुधान् दृष्ट्वा दानवसंक्षयम्।
+नारद उवाच।
+
+### 01:23:44 · Speaker 1
+
+भवद्भिरमृतं प्राप्तं नारायणभुजाश्रयैः।
+श्रिया समेधिताः सर्वे उपारमतविग्रहात्।
+
+### 01:23:55 · Speaker 1
+
+श्रीशुक उवाच।
+संयम्यमन्युसंरम्भं मानयन्तो मुनेर्वचः।
+सङ्गीयमानानुचरैर्ययुस्सर्वे त्रिविष्टपम्।
+
+### 01:24:08 · Speaker 1
+
+ये वशिष्ठारणे तस्मिन्नारदानुमतेन ते बलिं विपन्नमादाय अस्तङ्गिरिमुपागमन्।
+
+### 01:24:18 · Speaker 1
+
+तत्रा विनष्टावयवान् विद्यमानशिरोधरान्। उषना जीवयामास सञ्जीविन्या स्वविद्यया।
+
+### 01:24:29 · Speaker 1
+
+बलिश्चोशनसा स्पृष्टः प्रत्यापन्नेन्द्रियस्मृतिः।
+पराजितोऽपि न खिद्यल्लोकतत्त्वविचक्षणः।
 
 ### 01:24:39 · Speaker 1
 
-Vrishad vajonishamyedam yoshidrupalanadanavan mohayitva suraganan hare so mamapa yayahat vrishama rokhya girisha sarvabhutaganairavrataha sahadevyayaudrashtum yatraste madhusudanaha sabhajito bhagavatasadaram somaya bhavaha supavista uvache dampratipu
+श्रीशुक उवाच।
+वृषध्वजो निशं वेदं योषिद्रूपेण दानवान्।
+मोहयित्वा सुरगणान् हरिः सोममपाययत्।
 
-### 01:25:09 · Speaker 1
+### 01:24:52 · Speaker 1
 
-Devadeva Jagadvyapin Jagadishajaganmaya Sarveshamevabhavanantvamatmaheturishvaraha Tavai vacharanam bhujamshreyas kamanirashishaha Visrudev bhayatasangamunayasyasamupasate Tavam brahmhapurnamamratamvagunamvisohkamananda matramavekaramananyadanyat
+वृषमारुह्य गिरिशः सर्वभूतगणैर्वृतः सहदेव्याय यौ द्रष्टुं यत्रास्ते मधुसूदनः।
 
-### 01:25:39 · Speaker 1
+### 01:25:02 · Speaker 1
 
-Vishwasya hetu rudayasthi samyamana matmesh varashchata dupakshatayana pekhshaha ekastvameva sadasadvaya madvayan cha swaranankrtakrtamibehanavastubhedaha adyanata svayjanairvihatovikalpo yasmad gunavyatikaro nirupadhekasha tvam brahma kechita vayantyutadharma meka ek param sadasato purusham paresh
+सभाजितो भगवता सादरं सोमया भवः। सूपविष्ट उवाचेदं प्रतिपूज्यस्मयन् हरिम्।
 
-### 01:26:09 · Speaker 1
+### 01:25:12 · Speaker 1
 
-Anya vadanti navashakti utam parantvam ketin mahapurusha mavyamatmatantram naham parya yurusha yonamari chimukha jananti yadvirachitankalu satvasargaha yena maaya mushita chetasai sadaitya martyadyakimutashashvata bhadrabrataha satvam sami hasitatas titjan manashan bhute hitan cha jagato yapi bantamoks
+देवदेवजगद्व्यापिन् जगदीशजगन्मयः।
+सर्वेषामेव भावानां त्वमात्मा हेतुरीश्वरः।
 
-### 01:26:39 · Speaker 1
+### 01:25:23 · Speaker 1
 
-Vayuryatha Vishatikancha Characharam Saravan Twadat Makataya Vagamo Nutiste Avatara Mayadrastha Ramamasyate Gunayi Sohan Tadrastomicham Yate Yoshidvapurdhatam Yenasamo Hitaditya Paiitaschamrutam Suraha Tadidraksha Vaayatapharankautu Halamhinaha
+तवैव चरणां भोजं श्रेयस्कामानिराशिषः।
+विसृज्योभयतस्सङ्गं मुनयः समुपासते।
 
-### 01:27:09 · Speaker 1
+### 01:25:33 · Speaker 1
 
-Sri Shukhavacha Evam Bhartito Vishnur Bhagavan Shulapanina Prahasya Bhavagambhirangirisham Pratyabhhashata Sri Bhagavan Shacha Kautu Halyadaityanam Yoshitveshamayakrataha Pashyata Surakarya Nigate Piyushabhajane Tathayandarasya Yeshya Miditraksham
+त्वं ब्रह्मपूर्णममृतं विगुणं विशोकमानन्दमात्रमविकारमनन्यदन्यत्।
+विश्वस्य हेतुरुदयस्थितिसम्यमानामात्मेश्वरश्च तदुपेक्षतया नपेक्षः।
 
-### 01:27:39 · Speaker 1
+### 01:25:48 · Speaker 1
 
-Surasattama Tatka minanchamanta vyamsankalpaprabhavadayam Sri Shukhavacha Iti prubhano bhagavam sthataivanta radhyeta Sarvatasya rayamschakshurbhava astasahomaya Tato dadarasho pavane varashtri yam vichitra pushparunapalavadrumvikridatin kandukali lalasan
+एकस्त्वमेव सदसद्वयमद्वयञ्च स्वर्णं कृताकृतमिवेह न वस्तुभेदः।
+अज्ञानतस्त्वयिजनैर्विहतो विकल्पो यस्माद्गुणव्यतिकरो निरुपाधिकश्च।
 
-### 01:28:09 · Speaker 1
+### 01:26:03 · Speaker 1
 
-Dikshobrahamatkan dukhachapalairabhrasham pradvignatara yata lo la lochanam swakaranavibhajitalo la kundalola satkapola la kamandeta nanam
+त्वां ब्रह्म केचिदवयन्त्युत धर्ममेक एके परं सदसतोः पुरुषं परेशम्।
+अन्ये वदन्ति नवशक्तियुतं परं त्वां केचिन्महापुरुषमव्ययमात्मतन्त्रम्।
 
-### 01:28:39 · Speaker 1
+### 01:26:18 · Speaker 1
 
-Shlotha dhu kulang kavarin cha vichutam sanakhyatim vamakaren avalguna Vinigati manya karen akandu kamvemo hayantin jagadatma ma yaya Tam viksha deva iti kandu kali lajesha vrida sputasmita visrashakataksa mudha ha Sri prakshana pratishamiksha nira vrutatma natma namantika umam svaganash chaveda Tasya shakaragra
+नाहं परायुरुषयो नमरीचिमुख्या जानन्ति यद्विरचितं खलु सत्वसर्गाः।
+यन्मायया मुषितचेतस ईशदैत्यमर्त्यादयः किमुतशश्वतभद्रवृत्ताः।
 
-### 01:29:09 · Speaker 1
+### 01:26:33 · Speaker 1
 
-Vasasasutram Laguma Rutoharat Bhavasyadevaschakila Nupashyataha Evantam Ruchira Pangindarashaniyamano Ramam Drastvatasyamanashchakrevilajantyam Bhavakila Taya Pashtavignanastatkrtasmara Vikvalaha Bhavanya Apipashyantyak
+सत्त्वं समीहसि ततस्थितिजन्मनाशान् भूते हितं च जगतो ह्यपि बन्धमोक्षौ।
+वायुर्यथा विशति खञ्च चराचराख्यं सर्वं त्वदात्मकतया वगमो नुतिस्ते।
 
-### 01:29:39 · Speaker 1
+### 01:26:49 · Speaker 1
 
-Satamayan tamalokya vivastra vridita brisham niliyamana vriksheshu hasanti nanvateshtata taman vagachadbhagavan bhavapravyatiten driyaha kamasyachavashani tachare numivayu tapaha sonuvrajati vegena grahitva nichatim sthriyam kesha
+अवतारामया दृष्टा रममाणस्य ते गुणैः सोहन्तद्द्रष्टुमिच्छामि यत्तेयोषिद्वपुर्धृतम्।
 
-### 01:30:09 · Speaker 1
+### 01:26:59 · Speaker 1
 
-Santha upani yabhu bhyam pareshasvajay So pagudha bhagavata karen a kareni yatha Itas tatav prasarpanti viprakiranashiro ruha Atmanam ocha yitvangasura rasha bhujantarath Pradravatsa prathushrini maya devavinirmita Tasya saupadavim rudra vishnurat bhutakarmanaha
+येन सम्मोहिता दैत्याः पायिताश्चामृतं सुराः। तद्दिदृक्षव आयाताः परं कौतूहलं हिनः।
 
-### 01:30:39 · Speaker 1
+### 01:27:10 · Speaker 1
 
-Pratyapadyataka me navirinevavinirajita Tasya nudhavato retas chaskandamo gare tasaha shushmino yudhapasya vavasitama nudhavatah yatra yatra patan mahyam retas tasyamahatmanaha tani rudra sahim nashakshetra nyasan mahipate saritsara su shaila shubaneshu pavaneshu
+श्रीशुक उवाच।
+एवमभ्यर्थितो विष्णुर्भगवान् शूलपाणिना।
+प्रहस्य भावगम्भीरं गिरिशं प्रत्यभाषत।
 
-### 01:31:09 · Speaker 1
+### 01:27:23 · Speaker 1
 
-Yatra kva cha san ruchaya sata trasa nihito haraha skaner tasi so pashyat manande vama yaya jadi krutan rupashashtasanya vartata kashmalat atavagatam hatmya atmano jagadatmana aparignya viryasana menetadudahrutam tamaviklava mamvridama lakshya madhusu
+श्रीभगवानुवाच।
+कौतूहलाय दैत्यानां योषिद्वेषो मया कृतः।
+पश्यतासुरकार्याणि गते पीयूषभाजने।
 
-### 01:31:39 · Speaker 1
+### 01:27:37 · Speaker 1
 
-Dhanaha Uvajaparamapreto Bibhratsvam Paurushindanum Sribhagavanuvacha Dishtyattvam Vibhudhashtaswan Nishthamatmanastitaha Yato Dustraya Svairamo Hito Syanamaha Konome Titharenmayam Vishaktastvadrate Puman Tamstan Visrajatim Bhavan Dustra Makar
+तत्तेहं दर्शयिष्यामि दिदृक्षोः सुरसत्तम। तत्कामिनां च मन्तव्यं सङ्कल्पप्रभवोदयम्।
 
-### 01:32:09 · Speaker 1
+### 01:27:47 · Speaker 1
 
-Seyang gunamaji maya natvamabhibhavishyati mayasametankale nakamarupe nabha gashaha shishukavacha evam bhagavatarajan shivatsankena satkrataha amantyatam parikramyasaganasvalayam yayo atmam shabhatantamayam bhavanim bhagavan
+श्रीशुक उवाच।
+इति ब्रुवाणो भगवांस्तत्रैवान्तरधीयत।
+सर्वतश्चारयंश्चक्षुर्भव आस्तसहो मया।
 
-### 01:32:39 · Speaker 1
+### 01:28:00 · Speaker 1
 
-Shamsatam Rushimukyanam Pritya Tustabharata Ayivya Pashastwamodasyamayam Parasypumsa Paradevata Yah Ahan Kalanam Rushabhovimukhyaya Vaishonye Kimutaswatantra Yah Mamaprichastwamopetya Yogatsamasahasranta Uparatamvai Sayeshasakshat Purushapuranonayatra Kalovishatena Veda
+ततो ददरशो पवने वरस्त्रियं विचित्रपुष्पारुणपल्लवद्रुमे।
+विक्रीडतीं कन्दुकलीलयालसन्नितम्बपर्यस्तदुकूलमेखलाम्।
 
-### 01:33:09 · Speaker 1
+### 01:28:14 · Speaker 1
 
-Sri Shukhavacha Itite bhijitastata Vikramashargadan vanaha Sindhornirmatane yena dhatavprashtemah chalaha Yatanmuhkirtayato nusaranvato narishtem jatu samudya masquachet Yadutamashlokaguna nubarananam samastasamsara parishramapaham Asada vishaya manghimbhavagamyam prapan
+आवर्तनोद्वर्तनकम्पितस्तनप्रकृष्टहारोरुभरैः पदे पदे प्रभज्यमानामिव मध्यतश्चलत्पदप्रवालन्नयतीन् ततस्ततः।
 
-### 01:33:39 · Speaker 1
+### 01:28:26 · Speaker 1
 
-Na namrta mamaravarayanasya sindhham kapata yuvati vesho mohanyasya surarimstamim mama pasrata nam kamapurana tosmi
+दिक्षुभ्रमत्कन्दुकचापलैर्भृशं प्रोद्विग्नतारायतलोललोचनाम्।
+स्वकर्णविभ्राजितलोलकुण्डलोल्लसत्कपोलालकमण्डिताननाम्।
+
+### 01:28:40 · Speaker 1
+
+श्लथद्दुकूलाङ्कबरीञ्च विच्चुतां सन्नह्यतीं वामकरेण वल्गुना।
+विनिघ्नतीमन्यकरेण कन्दुकं विमोहयन्तीं जगदात्ममायया।
+
+### 01:28:53 · Speaker 1
+
+तां वीक्ष्य देव इति कन्दुकलीलयेषद्व्रीडास्फुटस्मितविसृष्टकटाक्षमूढः।
+स्त्रीप्रेक्षणप्रतिसमीक्षणनिर्वृतात्मानात्मानमन्तिक उमां स्वगणाश्च वेद।
+
+### 01:29:08 · Speaker 1
+
+तस्याः कराग्रात् सतु कन्दुको यदा गतो विदुरन्तमनुव्रजन्त्याः।
+वासः स सूत्रं लघुमारुतो हरद्भवस्य देवश्च किलानुपश्यतः।
+
+### 01:29:21 · Speaker 1
+
+एवं तां रुचिरापाङ्गीं दर्शनीयां मनोरमां दृष्ट्वा तस्यां मनश्चक्रे विलज्जन्त्यां भवः किल।
+
+### 01:29:32 · Speaker 1
+
+तयापहृतविज्ञानस्तत्कृतस्मरविह्वलः भवान् यापि पश्यन्त्यागतह्रेस्तत्पदं व्ययौ।
+
+### 01:29:43 · Speaker 1
+
+सातमायान्तमालोक्य विवस्त्रा व्रीडिता भृशं निलीयमाना वृक्षेषु हसन्तीनान्वतिष्ठत तामन्वगच्छद् भगवान् भवः प्रव्यथितेन्द्रियः कामस्य च वश।
+
+### 01:30:00 · Speaker 1
+
+शन्नीतः करेणुमिव यूथपः।
+सोनुव्रज्जातिवेगेन गृहीत्वा निच्छतीं स्त्रियम्।
+केशबन्ध उपानीय बाहुभ्यां परिशस्वजे।
+
+### 01:30:14 · Speaker 1
+
+सोपगूढा भगवता करिणा करिणी यथा।
+इतस्ततः प्रसर्पन्ती विप्रकीर्णशिरोरुहा।
+आत्मानं मोचयित्वाङ्गसुरर्षभभुजान्तरात्।
+प्राद्रवत्सा पृथुश्रोणी माया देवविनिर्मिता।
+
+### 01:30:34 · Speaker 1
+
+तस्यासौ पदवीं रुद्रो विष्णोरद्भुतकर्मणः।
+प्रत्यपद्यत कामेन वैरिणेव विनिर्जितः।
+
+### 01:30:44 · Speaker 1
+
+तस्यानुधावतोरेतश्च स्कन्दामोघरेतसः शुष्मिणो यूथपस्येव वासितामनुधावतः।
+
+### 01:30:55 · Speaker 1
+
+यत्र यत्रापतन्मह्यां रेतस्तस्य महात्मनः। तानि रुद्रस्य हेम्नश्च क्षेत्राण्यासन् महीपते।
+
+### 01:31:06 · Speaker 1
+
+सरित्सरः सुशैलेषु वनेषु पवनेषु च।
+यत्र क्व चासन् ऋषयस्तत्र सन्निहितो हरः।
+स्कन्नेरेतसि सोपश्यदात्मानं देवमायया।
+जडीकृतं नृपश्रेष्ठसन्यवर्ततकश्मलात्।
+
+### 01:31:26 · Speaker 1
+
+अथावगतमाहात्म्य आत्मनो जगदात्मनः अपरिज्ञेयवीर्यस्य न मेने तदुदाहृतम्।
+
+### 01:31:36 · Speaker 1
+
+तमविक्लवमव्रेडमालक्ष्य मधुसूदनः उवाच परमप्रेतो बिभ्रत्स्वां पौरुषीं तनुम्।
+
+### 01:31:47 · Speaker 1
+
+श्रीभगवानुवाच।
+दिष्ट्या त्वं विबुधश्रेष्ठस्वान्निष्ठामात्मना स्थितः।
+यतो दुस्तरया स्वैरं मोहितोऽस्यङ्गमायया।
+
+### 01:32:01 · Speaker 1
+
+कोनुमेति तरेन्मायां विषक्तस्त्वधृते पुमान्।
+तांस्तान् विसृजतीं भावान् दुस्तरामकृतात्मभिः।
+
+### 01:32:12 · Speaker 1
+
+सेयं गुणमयी माया न त्वामभिभविष्यति मया समेतं कालेन कामरूपेण भागशः।
+
+### 01:32:22 · Speaker 1
+
+श्रीशुक उवाच। एवं भगवता राजन् श्रीवत्साङ्केन सत्कृतः। आमन्त्यतं परिक्रम्य सगणस्वालयं व्ययौ।
+
+### 01:32:35 · Speaker 1
+
+आत्मांशभूतान्तां मायां भवानीं भगवान् भवः।
+शंसतामृषिमुख्यानां प्रीत्या तुष्टाव भारत।
+
+### 01:32:46 · Speaker 1
+
+अयि व्यपश्यस्त्वमजस्य मायां परस्य पुंसः परदेवतायाः।
+अहं कलानां वृषभोऽपि मुह्ये यया वशोन्ये किमुतास्वतन्त्राः।
+
+### 01:32:58 · Speaker 1
+
+यं माम पृच्छस्त्वमुपेत्य योगात् समासहस्रान्त उपारतं वै।
+स एष साक्षात् पुरुषः पुराणो न यत्र कालो विषतेन वेदः।
+
+### 01:33:11 · Speaker 1
+
+श्रीशुक उवाच।
+इति तेभिहितस्तातविक्रमः शार्गधन्वनः।
+सिन्धोर्निर्मथने येन धृतः पृष्ठे महाचलः।
+
+### 01:33:24 · Speaker 1
+
+एतन्मुहुः कीर्तयतो नुशुरण्वतो नरिष्यते जातु समुद्यमः क्वचित्। यदुत्तमश्लोकगुणानुवर्णनं समस्तसंसारपरिश्रमापहम्।
+
+### 01:33:36 · Speaker 1
+
+असदविषयमङ्घृं भावगम्यं प्रपन्नानमृतममरवर्या नाशयत् सिन्धुमध्यम्।
+कपटयुवतिवेषो मोहयन् यः सुरारींस्तमिमुमुपसृतानां कामपूरन्नतोस्मि।

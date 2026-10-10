@@ -4,11 +4,13 @@ title: chapter17
 url: https://www.youtube.com/watch?v=MNdyIEdiwAk
 date: '2026-10-01'
 duration: 00:05:24
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter17
@@ -17,44 +19,124 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atasaptadashtadyaya Shradhatrayavibhaga Yogaha Arjuna uvaca Yeshastravidhimutridhyajante Shradhyayanvithaha Tejashthatukakrishnasattvamaha Rajasthamaha Sri Bhagavan uvaca Trivedha bhavate Shradhadehinamsa svabhavaja Satvikirajasi chaivata
+अथ सप्तदशोऽध्यायः।
+श्रद्धात्रयविभागयोगः।
+अर्जुन उवाच।
+ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः।
+तेषां निष्ठा तु का कृष्णसत्त्वमाहोरजस्तमः।
 
-### 00:00:33 · Speaker 1
+### 00:00:23 · Speaker 1
 
-Sattva niroopa sarvasya shadha bhavati bhārata shadham ayam purusho yachraddhasa evasaha yajante sattvika devan yaksha raksham sirajasaha pratant bhutaganam shanye yajante tamasajana aśastra vihitanghorantapyante yachraddhasa
+श्री भगवानुवाच। त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा। सात्विकी राजसी चैव तामसी चेति तां शृणु।
 
-### 00:01:03 · Speaker 1
+### 00:00:36 · Speaker 1
 
-Sambha hankara samyukta kamaragabal anvita ha karsayan tasharirastambhu tagra mamachetasaha manchaivan tasharirastantan vidya suranishchayan aha rastwapesaravasyatri vidhobhavate priyaha yajnastapastatadan tesham pedamimamshunam ayusatvabalarogyasukhapi teviva
+सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।
+श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः।
 
-### 00:01:33 · Speaker 1
+### 00:00:47 · Speaker 1
 
-Aha prasya s nidhasthiradya ahara satvikapriyaha katvam lavana tushnati kshnarukshavida hinaha ahara rajasasheesta dukhakamaya pradaha yataya mangata rasamputi parayushetanchayat ucheshtam api chamedhyam bhajanantamasa priyam apala kamsibhiryagno
+यजन्ते सात्विका देवान्यक्षरक्षांश्च राजसाः। प्रेतान् भूतगणांश्चान्ये यजन्ते तामसा जनाः।
 
-### 00:02:03 · Speaker 1
+### 00:00:58 · Speaker 1
 
-vidhira sthaya idyate yastavyam eveti manasam adhyayasatvikaha apishandhayato palandam phartam api chaivayat idyate bharatashrestham vyagyanam vidhira jasam vidhihi namasrashtanam mantrahe namadakshinam sadhavirahitam vyagyantha masam parichakshate devadvijaguru prajnapujana
+अशास्त्रविहितं घोरं तप्यन्ते ये तपोजनाः।
+तम्भाहङ्कारसंयुक्ताः कामरागबलान्विताः।
 
-### 00:02:33 · Speaker 1
+### 00:01:09 · Speaker 1
 
-Shauchar Javam Brahmacharya Mahimsachashari Ranthapavuchyate Anudvega Karamvachyamsatyam Priyajitanchayat Svadhyaya Bhyaasananchaiva Vangmayantapavuchyate Manaprasada Saumyatvam Avarnamatma Vinigraha Bhavasamshudhirityatapomanasamuchyate Shadhyaparaya Taptantap
+कर्षयन्तश्शरीरस्थं भूतग्राममचेतसः। मां चैवान्तश्शरीरस्थं तान् विद्यासुरनिश्चयान्।
 
-### 00:03:03 · Speaker 1
+### 00:01:20 · Speaker 1
 
-Pasta Trividhanaraihi Phala Kamsibhaya Yukti Satve Kampa Rajakshate Satkaramanabujartantapodamhe nacaiwayat Kriyate tadiha praktam rajasanchalamadruvam Mudhagrahe natmano yat pirdaya kriyate tapaha Parasyo sadhanartham vata tama samudhakratam Datta vyamiti
+आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः। यज्ञस्तपस्तथादानं तेषां भेदमिमं शृणु।
 
-### 00:03:33 · Speaker 1
+### 00:01:30 · Speaker 1
 
-Yad danandi yate nupakarine deshe kale cha patre cha tadanam satvikam smrutam yatuprachyopakarartham phalamudeshyabhapunaha diyate cha parikleshtantadanam rajasam smrutam adesha kale yadanam apatre bhishchadi yate asatkrutam avagnyatantata ma samudahrutam
+आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः।
+रस्याः स्निग्धाः स्थिराः हृदयाः आहाराः सात्विकप्रियाः।
 
-### 00:04:03 · Speaker 1
+### 00:01:41 · Speaker 1
 
-Vontatsaditi nirdesho brahmanastrividhasmrutaha brahmanaste navedascha yagnascha vihita vpras tasma domityudahrtya yagnadana tapakriyaha pravartante vidhanoktas satatam brahmavadinam taditya nabhisandhayapalam yagnatapakriyaha dhanakriyasha vidhakriyante mokh
+कट्वं ललवणात्युष्णतीक्ष्णरुक्षविदाहिनः। आहारा राजसस्येष्टा दुःखशोकामयप्रदाः।
 
-### 00:04:33 · Speaker 1
+### 00:01:51 · Speaker 1
 
-Sadhankam shibihi Sadbhaves adhubhaves adityate pratasyate karma nityata sa chabdha phartayu jate yadni tapasidane jasthetis adityachyate karmachaya vata dharthyam sadityeva bhidhyate asradhyah utandhatan tapastaptankratanjaya asadityuchyate partanachatadprayate
+यातयामं गतरसं पूति पर्युषितं च यत्।
+उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।
+अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इष्यते।
+यष्टव्यमेवेति मनस्समाधाय स सात्विकः।
 
-### 00:05:03 · Speaker 1
+### 00:02:11 · Speaker 1
 
-Yajna no ihu ontatsadite srimad bhagavad gita supanishat supramavidyaya yoga shastra shri krishnar juna samvadesha dhatrayavi bhaga yogana ma tada shodhyaya
+अभिसन्धाय तु फलन्दम्भार्थमपि चैव यत्।
+इज्यते भरतश्रेष्ठतं यज्ञं विद्धिराजसं।
+विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम्।
+श्रद्धाविरहितं यज्ञं तामसं परिचक्षते।
+
+### 00:02:31 · Speaker 1
+
+देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवं ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते।
+
+### 00:02:41 · Speaker 1
+
+अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत्।
+स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते।
+मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः।
+भावसंशुद्धिरित्येतत्तपोमानसमुच्यते।
+
+### 00:03:01 · Speaker 1
+
+श्रद्धया परया तप्तं तपस्तत्रिविधं नरैः।
+फलाकाङ्क्षिभिर्युक्तैः सात्विकं परिचक्षते।
+सत्कारमानपूजार्थं तपोदम्भेन चैव यत्।
+
+### 00:03:16 · Speaker 1
+
+क्रियते तदिह प्रोक्तं राजसञ्चलमध्रुवम्।
+मूढग्राहेणात्मनो यत् पीडया क्रियते तपः।
+
+### 00:03:26 · Speaker 1
+
+परस्योत्साधनार्थं वा तत्तामसमुदाहृतम्।
+दातव्यमिति यद्दानं दीयतेनुपकारिणे।
+देशे काले च पात्रे च तद्दानं सात्विकं स्मृतम्।
+
+### 00:03:43 · Speaker 1
+
+यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम्।
+
+### 00:03:53 · Speaker 1
+
+अदेशकाले यद्दानम् अपात्रेभ्यश्च दीयते, असत्कृतमवज्ञातं तत्तामसमुदाहृतम्।
+
+### 00:04:04 · Speaker 1
+
+ओं तत्सदिति निर्देशो ब्रह्मणस्त्रिविधस्मृतः।
+ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा।
+
+### 00:04:14 · Speaker 1
+
+तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः प्रवर्तन्ते विधानोक्तास्सततं ब्रह्मवादिनाम्।
+
+### 00:04:25 · Speaker 1
+
+तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः दानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः।
+
+### 00:04:36 · Speaker 1
+
+सद्भावे साधुभावे च सदित्येतत् प्रयुज्यते। प्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते।
+
+### 00:04:46 · Speaker 1
+
+यज्ञे तपसिदाने च स्थितिः सदिति चोच्यते।
+कर्म चैव तदर्थीयं सदित्येवाभिधीयते।
+
+### 00:04:56 · Speaker 1
+
+अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् असदित्युच्यते पार्थ न च तत्प्रेत्यनो इह।
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायाम्।
+
+### 00:05:12 · Speaker 1
+
+योगशास्त्रे श्रीकृष्णार्जुनसंवादे श्रद्धात्रयविभागयोगो नाम तदशोऽध्यायः।

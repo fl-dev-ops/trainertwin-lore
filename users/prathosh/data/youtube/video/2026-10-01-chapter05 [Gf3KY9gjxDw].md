@@ -4,11 +4,13 @@ title: chapter05
 url: https://www.youtube.com/watch?v=Gf3KY9gjxDw
 date: '2026-10-01'
 duration: 00:05:43
-model: nvidia/canary-qwen-2.5b + sortformer
+model: sarvam saaras:v4
 transcript: true
 speaker_count: 1
 speakers:
   speaker_0: Speaker 1
+language: sa-IN
+content: recitation
 ---
 
 # chapter05
@@ -17,48 +19,135 @@ speakers:
 
 ### 00:00:03 · Speaker 1
 
-Atthapan chamo jaya karma sanyasa yogaha arjuna uvacha sanyasa karma nankrishnapanarayana jashamsasi yachreya etayore kantane bruhisuneshchitam sribhagavanuvacha sanyasa karma yogascha nishreya sakara vubhau tayosto karma sanyasa tayosto karma sanyasa
+अथ पञ्चमोऽध्यायः।
+कर्मसंन्यासयोगः।
+अर्जुन उवाच।
+संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि।
+यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्।
 
-### 00:00:33 · Speaker 1
+### 00:00:22 · Speaker 1
 
-vishesha te dhnyasya nityasya sanyasiyo nadvestina kamsati nirdvandvo himaha baho sukham bandhat pramuchyate sankhya yoga pratibhala phrabhadantena panditaaha ekam api asthita samya gubha yorvindate palam yatsankhya prapyate sthanantadyogairabikam yate ekam sankhya
+श्रीभगवानुवाच। संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ। तयोस्तु कर्मसन्न्यासात् कर्मयोगो विशिष्यते।
 
-### 00:01:03 · Speaker 1
+### 00:00:36 · Speaker 1
 
-Yogan jayog jayapashyati sapashyati sanyasastumaha bahodukhamaptumayogataha yogayukto munirabraham nacirena dhigachati yogayukto vishuddhatma vijitatma jiten driyaha sarvabhutatma bhutatma kuruvanapinalipyate naivakinjitkaromitiyukto manyetatvavit
+ज्ञेयः स नित्यसन्न्यासी यो न द्वेष्टि न काङ्क्षति। निर्द्वन्द्वो हि महाबाहो सुखं बन्धात् प्रमुच्यते।
 
-### 00:01:33 · Speaker 1
+### 00:00:46 · Speaker 1
 
-Pashyam shandhavans prashanjikshan nashnangatshan svapan svasan pralapan visrajan granhanun mishanimishanapi indriyani indriyartheshuvartanta itidharayan brahmahanyadhyakarmani sanghantyaktva karoti yaha lipyate nasapaena padma patramivam phasa kaya namana budhya kevalairindriyai
+साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः।
+एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम्।
 
-### 00:02:03 · Speaker 1
+### 00:00:57 · Speaker 1
 
-Yoginakar makarvan tesangan chaktvatmasudhaye Yuktakar mapalan chaktva shanti mapnotina shikim Ayuktakar makarenapale saktone badhyate Sarvakarmani manasa sanyasyasthe sukhamvashi Navadvare puredehi nai vakrovanakarayan
+यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते।
+एकं साङ्ख्यं च योगं च यः पश्यति स पश्यति।
+
+### 00:01:07 · Speaker 1
+
+संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः। योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति।
+
+### 00:01:18 · Speaker 1
+
+योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः।
+सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते।
+
+### 00:01:29 · Speaker 1
+
+नैव किञ्चित् करोमीति युक्तो मन्येत तत्त्ववित्। पश्यं शृण्वन् स्पृशन् जिघ्रन् अश्नन् गच्छन् स्वपन् श्वसन्।
+
+### 00:01:39 · Speaker 1
+
+प्रलपन् विसृजन् गृह्णन् उन्मिषन् निमिषन् अपि।
+इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन्।
+ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।
+लिप्यतेन स पापेन पद्मपत्रमिवाम्भसा।
+
+### 00:02:00 · Speaker 1
+
+कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि योगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये।
+
+### 00:02:10 · Speaker 1
+
+युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम्।
+अयुक्तः कामकारेण फले सक्तो निबध्यते।
+
+### 00:02:21 · Speaker 1
+
+सर्वकर्माणि मनसा संनस्यास्ते सुखं वशी। नवद्वारे पुरे देही नैव कुर्वन्नकारयन्।
 
 ### 00:02:31 · Speaker 1
 
-Nakartratva nakarmani lokasyasruty prabhu nakarmabhala samyogam svabhavastu pravartate nadate kasyachit papan nacayiva sukratam vibhuu agyanena vratangyanan te na mukhyantijantabaha jnanena tu tatagnyanam yeshanashitam atmanaha teshamadhyavadyanam prakashayatitatparam
+न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः।
+न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते।
 
-### 00:03:01 · Speaker 1
+### 00:02:41 · Speaker 1
 
-Tat buddhayastad atmanasthaneshtastat parayanaha gatshancharavratinyan anirdhutakalmasha ha vidyaavinaya sampanne brahmane gavihastini shunichayavashwapake chapandita samadharashinaha ihai vatirjita sargoyesham samyeshthitam manaha dirdosam he samam brahmata smad
+नादत्ते कस्यचित् पापं न चैव सुकृतं विभुः। अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः।
 
-### 00:03:31 · Speaker 1
+### 00:02:52 · Speaker 1
 
-Brahmanite sthita na praharshet priyam prapyanodvijet prapyacha priyam tirabudhirasam mudho brahma vid brahmanis sthita bhakya sparasheshvasaktatma vindatyatmani yatsukham sabrahma yoga yuktatma sukham akshaya mashnute ye hi sam sparashajabhuga dukkha yonaya evate adyan
+ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः।
+तेषामादित्यवज्ञानं प्रकाशयति तत्परम्।
 
-### 00:04:01 · Speaker 1
+### 00:03:02 · Speaker 1
 
-Santavantachchounte yanateshuramate buddhaha Shaknoti haivayasudham prakshariravimokshanat kamakrodhodbhavamvegam sa yuktasa sukhi naraha yontasukhantararamastatantarajyotirevayaha sa yogi brahmaniravanam brahma bhuto dhigachati labhante brahmaniravanam rishayakshinaka
+तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः। गच्छन्त्य पुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः।
 
-### 00:04:31 · Speaker 1
+### 00:03:13 · Speaker 1
 
-Masha ha Chinna dvaidha yata manasarvabhuta hite rata ha Kamakrodha vyuktanam yatinam yatachetasam Abhito brahmaniravanam vartate viditatmanam Sparshan krta bahir bahya stakshushchayvantare pravo ha Pranapana samu krta vanasabhantaracharinau Yaten
+विद्याविनयसम्पन्ने ब्राह्मणे गविहस्तिनी।
+शुनिचैव श्वपाके च पण्डिताः समदर्शिनः।
+इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः।
+निर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः।
+
+### 00:03:34 · Speaker 1
+
+न प्रहृष्येत् प्रियं प्राप्य नोद्विजेत् प्राप्य चाप्रियम्।
+स्थिरबुद्धिरसंमूढो ब्रह्मविद्ब्रह्मणि स्थितः।
+
+### 00:03:45 · Speaker 1
+
+बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनियतसुखम्।
+सब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते।
+
+### 00:03:56 · Speaker 1
+
+ये हि संस्पर्शजा भोगा दुःखयो नय एव ते। आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः।
+
+### 00:04:06 · Speaker 1
+
+शक्नोति हैवयस्सोढुं प्राक्शरीरविमोक्षणात्। कामक्रोधोद्भवं वेगं सयुक्तः स सुखी नरः।
+
+### 00:04:17 · Speaker 1
+
+योन्तस्सुखोन्तरारामस्तथान्तर्ज्योतिरेवयः।
+स योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति।
+
+### 00:04:28 · Speaker 1
+
+लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः।
+छिन्नद्वैधायतात्मानः सर्वभूतहितेरताः।
+
+### 00:04:39 · Speaker 1
+
+कामक्रोधवियुक्तानां यतीनां यतचेतसाम्।
+अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्।
+
+### 00:04:50 · Speaker 1
+
+परशान् कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ।
 
 ### 00:05:01 · Speaker 1
 
-Sri Ayyapparabuddhiram Nirmalakshaparayanaha Vigatecha bhayakrodho yasada mukta evasaha Bhuktaram yagnatapasam sarovalokamaheshvaram suhrudham sarovabhutanangyatva mamshantimruchati ontatsaditeshri madbhagavadgita supaneshatsubrahmavidyayam yogashastra shre Krishna rjuna samvade
+यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः। विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः।
 
-### 00:05:31 · Speaker 1
+### 00:05:11 · Speaker 1
 
-Karma sannyasa yoga nama panchamodhyaya
+भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम्।
+सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति।
+ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायाम्।
+
+### 00:05:29 · Speaker 1
+
+योगशास्त्रे श्रीकृष्णार्जुनसंवादे कर्मसंन्यासयोगो नाम पञ्चमोऽध्यायः।
