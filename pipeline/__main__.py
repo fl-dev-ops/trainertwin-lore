@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 
 from .client import OpenRouter, SpendBudget
 from .index import index_paths, plan
+from .log import configure_logging
 
 ROOT = Path(__file__).resolve().parents[1]
 EXTENSIONS = {".md", ".markdown", ".txt", ".yaml", ".yml"}
@@ -83,9 +84,18 @@ def cli():
     val_cmd.add_argument("scenario_file", nargs="?", help="Specific scenario file to validate (or all if omitted)")
     val_cmd.add_argument("--judge-model", default="openai/gpt-4o-mini")
 
+    tr_cmd = subparsers.add_parser("transcripts", help="Normalize transcript md files (turn merge + punctuation strip)")
+    tr_cmd.add_argument("files", nargs="+", type=Path)
+    tr_cmd.add_argument("--write", action="store_true", help="Overwrite in place (default: dry run)")
+
     args = parser.parse_args()
     root = (args.data or ROOT / "users" / args.user / "data").resolve()
     workspace = (args.workspace or ROOT / "users" / args.user / "workspace").resolve()
+
+    if args.command == "transcripts":
+        from . import transcript_norm
+        transcript_norm.cli_files(args.files, write=args.write)
+        return
 
     if args.command == "normalize":
         load_dotenv(ROOT / ".env")
@@ -216,6 +226,7 @@ def cli():
 
 
 def main():
+    configure_logging()
     try:
         cli()
     except (ValueError, RuntimeError, OSError, httpx.HTTPError) as exc:
