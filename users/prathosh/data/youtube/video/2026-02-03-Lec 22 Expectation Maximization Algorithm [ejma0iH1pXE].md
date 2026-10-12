@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 22 Expectation Maximization Algorithm
+
 ## Transcript
+
 
 Welcome back to the lecture Now lets
 look at this question

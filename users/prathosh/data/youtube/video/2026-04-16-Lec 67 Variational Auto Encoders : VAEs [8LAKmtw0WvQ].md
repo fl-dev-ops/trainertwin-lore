@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 67 Variational Auto Encoders : VAEs
+
 ## Transcript
+
 
 Yeah welcome
 We will continue our discussion on

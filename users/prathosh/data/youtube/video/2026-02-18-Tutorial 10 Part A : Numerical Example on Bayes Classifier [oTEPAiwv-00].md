@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 10 Part A : Numerical Example on Bayes Classifier
+
 ## Transcript
+
 
 Hello all
 Welcome to this tutorial

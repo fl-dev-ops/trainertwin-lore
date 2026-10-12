@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 14 Part 2 : Transfer Learning using CNNs
+
 ## Transcript
+
 
 Hello all welcome to this tutorials
 in which well be continuing our

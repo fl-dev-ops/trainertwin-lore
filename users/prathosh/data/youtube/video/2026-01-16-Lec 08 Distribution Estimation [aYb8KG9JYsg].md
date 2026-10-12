@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 08 Distribution Estimation
+
 ## Transcript
+
 
 Hello everyone welcome to this session
 of the course

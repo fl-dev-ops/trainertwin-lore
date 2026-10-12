@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 65 Introduction to Generative Models
+
 ## Transcript
+
 
 Okay in this class we will look at the
 principles of uh generative modeling

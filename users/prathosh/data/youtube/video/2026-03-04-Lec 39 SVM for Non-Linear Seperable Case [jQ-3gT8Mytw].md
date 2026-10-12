@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 39 SVM for Non-Linear Seperable Case
+
 ## Transcript
+
 
 Welcome to this class So let us look at
 the case where the data is not linearly

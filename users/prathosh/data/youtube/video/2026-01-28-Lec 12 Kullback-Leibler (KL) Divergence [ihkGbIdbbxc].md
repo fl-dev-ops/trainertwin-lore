@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 12 Kullback-Leibler (KL) Divergence
+
 ## Transcript
+
 
 Welcome back Now remember what our
 objective was or our objective was to

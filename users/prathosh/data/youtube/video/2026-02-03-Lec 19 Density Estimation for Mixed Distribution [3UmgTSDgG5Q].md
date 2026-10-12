@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 19 Density Estimation for Mixed Distribution
+
 ## Transcript
+
 
 Welcome back So lets move on to
 another interesting algorithm which is

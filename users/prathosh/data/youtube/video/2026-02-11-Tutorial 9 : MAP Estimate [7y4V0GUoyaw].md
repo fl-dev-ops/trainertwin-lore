@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 9 : MAP Estimate
+
 ## Transcript
+
 
 Hello all welcome to this tutorial in
 which we will be looking at map

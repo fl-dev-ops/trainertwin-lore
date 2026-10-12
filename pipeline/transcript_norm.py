@@ -61,21 +61,23 @@ def _parse(md_text: str):
     m = re.match(r"(---\n.*?\n---\n)", md_text, re.S)
     fm = m.group(1) if m else ""
     rest = md_text[len(fm):]
-    parts = rest.split("## Transcript", 1)
-    if len(parts) != 2:
+    idx = rest.find("## Transcript")
+    if idx == -1:
         raise ValueError("no '## Transcript' section")
+    prefix, body = rest[:idx], rest[idx + len("## Transcript") + 1:]
     turns, other = [], []
+    other = [l for l in prefix.splitlines()]  # keep '# Title' etc. byte-for-byte
     cur_label, cur = None, []
-    for line in parts[1].splitlines():
+    for line in body.splitlines():
         tm = TURN_HEADER.match(line)
         if tm:
             if cur_label is not None:
                 turns.append((cur_label, "\n".join(cur)))
             cur_label, cur = tm.group(1).strip(), []
-        elif line.startswith("# ") or line.strip() == "## Transcript":
-            other.append(line)
-        elif cur_label is not None:
+        elif tm is None and cur_label is not None:
             cur.append(line)
+        elif line.startswith("# "):
+            other.append(line)
     if cur_label is not None:
         turns.append((cur_label, "\n".join(cur)))
     return fm, other, turns

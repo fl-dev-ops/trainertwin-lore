@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 10 - Deep Generative Models VAEs beta VAE VQ VAEs
+
 ## Transcript
+
 
 ### Speaker 1
 

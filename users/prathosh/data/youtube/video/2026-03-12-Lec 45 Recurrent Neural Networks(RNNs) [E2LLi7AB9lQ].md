@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 45 Recurrent Neural Networks(RNNs)
+
 ## Transcript
+
 
 Welcome everyone We are now discussing
 different architectural

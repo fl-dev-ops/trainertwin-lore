@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 42 ERM on Neural Networks and Error Backpropagation
+
 ## Transcript
+
 
 Okay welcome everyone Lets look at uh
 erm on neural networks

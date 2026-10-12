@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 15 Part 2 : Deep RNNs, LSTMs and GRUs
+
 ## Transcript
+
 
 Hello all Welcome to the second part
 of this RNN tutorials in which

@@ -13,7 +13,10 @@ language: sa-IN
 content: recitation
 ---
 
+# Adhyaya 13 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya
+
 ## Transcript
+
 
 ### Speaker 1
 

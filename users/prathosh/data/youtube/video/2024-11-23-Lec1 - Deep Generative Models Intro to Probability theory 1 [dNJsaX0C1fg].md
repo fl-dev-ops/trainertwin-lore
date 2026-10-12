@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec1 - Deep Generative Models Intro to Probability theory 1
+
 ## Transcript
+
 
 ### Speaker 1
 

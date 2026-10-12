@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 9 - Deep Generative Models Variational Auto Encoders
+
 ## Transcript
+
 
 ### Speaker 1
 

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 11 Entropy
+
 ## Transcript
+
 
 So welcome to this uh new class on
 mathematical foundations of machine

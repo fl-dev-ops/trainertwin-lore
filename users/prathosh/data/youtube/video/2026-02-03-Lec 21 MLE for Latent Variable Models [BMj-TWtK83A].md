@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 21 MLE for Latent Variable Models
+
 ## Transcript
+
 
 Welcome back to the lecture So the
 question is uh maximum likelihood

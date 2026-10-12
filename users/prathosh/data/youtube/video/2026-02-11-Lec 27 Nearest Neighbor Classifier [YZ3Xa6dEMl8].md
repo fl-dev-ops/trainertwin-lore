@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 27 Nearest Neighbor Classifier
+
 ## Transcript
+
 
 So lets look at the other uh way to do
 it which is uh okay by the way u see

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 10 Part B : Numerical Example on MLE and MAP Estimate
+
 ## Transcript
+
 
 Hello all welcome to the second part of
 this tutorial in which we will be

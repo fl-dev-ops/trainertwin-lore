@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorail 3 : Risk Minimization Framework
+
 ## Transcript
+
 
 Hello all welcome to this tutorials in
 which we shall be looking into the

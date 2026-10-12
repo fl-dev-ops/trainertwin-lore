@@ -13,7 +13,10 @@ language: sa-IN
 content: recitation
 ---
 
+# Adhyaya 29 | Mahabharata Tatparya Nirnaya —  Sri Madhvacharya
+
 ## Transcript
+
 
 ### Speaker 1
 

@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 5 - Deep Generative Models Generative Adverarial NetowrksGANs
+
 ## Transcript
+
 
 ### Speaker 1
 

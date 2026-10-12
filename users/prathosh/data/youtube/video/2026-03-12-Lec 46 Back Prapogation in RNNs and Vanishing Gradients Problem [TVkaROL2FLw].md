@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 46 Back Prapogation in RNNs and Vanishing Gradients Problem
+
 ## Transcript
+
 
 Welcome everyone to the class Okay So
 now we have to look at how to

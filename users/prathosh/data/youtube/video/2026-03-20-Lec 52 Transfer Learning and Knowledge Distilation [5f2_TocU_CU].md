@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 52 Transfer Learning and Knowledge Distilation
+
 ## Transcript
+
 
 Welcome back So let me introduce you to
 this idea called transfer learning So

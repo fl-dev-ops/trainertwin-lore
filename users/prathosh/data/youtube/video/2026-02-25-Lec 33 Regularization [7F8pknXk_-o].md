@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 33 Regularization
+
 ## Transcript
+
 
 So welcome everyone So in todays
 lecture we will continue uh our

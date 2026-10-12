@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 13 Minimization of KL Divergence
+
 ## Transcript
+
 
 Welcome back So now that we have uh a
 way to

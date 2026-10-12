@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 51 Positional Embeddings
+
 ## Transcript
+
 
 Welcome everyone Um well be continuing
 our discussion on transformers and then

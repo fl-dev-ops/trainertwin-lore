@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 38 Dual Function in SVM
+
 ## Transcript
+
 
 Welcome to this class Well continue
 our discussions on uh the maximum margin

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 41 Neural Networks and Universal Approximation Theorem
+
 ## Transcript
+
 
 Okay welcome everyone We will continue
 our discussions uh in this course

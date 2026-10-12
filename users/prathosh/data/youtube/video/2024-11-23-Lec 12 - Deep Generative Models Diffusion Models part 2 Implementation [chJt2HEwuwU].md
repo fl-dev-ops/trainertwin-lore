@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 12 - Deep Generative Models Diffusion Models part 2 Implementation
+
 ## Transcript
+
 
 ### Speaker 1
 

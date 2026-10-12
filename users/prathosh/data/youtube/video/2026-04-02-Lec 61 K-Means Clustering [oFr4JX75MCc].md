@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 61 K-Means Clustering
+
 ## Transcript
+
 
 Welcome all
 We will continue our discussion on

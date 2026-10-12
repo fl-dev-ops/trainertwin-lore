@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 35 Stochastic Gradient Descent as a Regularizer
+
 ## Transcript
+
 
 Now consider so Ill say another example
 of regularizer

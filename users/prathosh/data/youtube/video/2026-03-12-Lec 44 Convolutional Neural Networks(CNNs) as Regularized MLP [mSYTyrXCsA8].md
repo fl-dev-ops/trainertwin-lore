@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 44 Convolutional Neural Networks(CNNs) as Regularized MLP
+
 ## Transcript
+
 
 Welcome everyone to the class Now
 lets lets see how it is done in

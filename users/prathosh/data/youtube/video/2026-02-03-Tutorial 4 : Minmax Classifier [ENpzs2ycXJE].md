@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 4 : Minmax Classifier
+
 ## Transcript
+
 
 Hello all welcome to this tutorial in
 which we will be going ahead and looking

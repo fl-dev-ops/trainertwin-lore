@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 20 Latent Variable Models
+
 ## Transcript
+
 
 Welcome everyone Let us continue on our
 discussion

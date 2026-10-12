@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 58 Ada-Boosting
+
 ## Transcript
+
 
 Welcome everyone to this course
 Uh in this lecture we will continue our

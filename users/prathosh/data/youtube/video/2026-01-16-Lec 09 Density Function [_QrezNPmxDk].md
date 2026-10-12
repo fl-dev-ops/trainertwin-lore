@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 09 Density Function
+
 ## Transcript
+
 
 Welcome back So given
 uh a continuous random variable with

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 50 Multi-Head Attention and Transformer Architecture
+
 ## Transcript
+
 
 Welcome back So there is another uh
 small bit of information that I need to

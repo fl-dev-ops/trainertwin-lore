@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 63 NCE - Noise Contrastive Estimation
+
 ## Transcript
+
 
 Welcome to this lecture So we were
 looking at uh unsupervised

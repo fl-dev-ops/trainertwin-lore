@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 14 Part 1 : CNNs
+
 ## Transcript
+
 
 Hello all
 welcome to this tutorial

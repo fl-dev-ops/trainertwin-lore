@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 47 LSTMs and GRUs
+
 ## Transcript
+
 
 Welcome everyone to the class
 See general mathematical

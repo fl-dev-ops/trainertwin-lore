@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 11 : Pytorch - Tensors and Data Loaders
+
 ## Transcript
+
 
 Hello all welcome to this series of
 tutorials in which we will be

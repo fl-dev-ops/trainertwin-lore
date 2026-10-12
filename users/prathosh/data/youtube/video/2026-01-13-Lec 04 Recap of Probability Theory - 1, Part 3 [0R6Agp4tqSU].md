@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 04 Recap of Probability Theory - 1, Part 3
+
 ## Transcript
+
 
 Now what happens to the probability
 measure So we had a probability measure

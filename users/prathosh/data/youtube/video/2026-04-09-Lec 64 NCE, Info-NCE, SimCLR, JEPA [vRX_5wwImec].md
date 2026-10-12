@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 64 NCE, Info-NCE, SimCLR, JEPA
+
 ## Transcript
+
 
 Welcome to this lecture Now the final
 NC estimator consider

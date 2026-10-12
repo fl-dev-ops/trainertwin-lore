@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 16 Bayes Classifier
+
 ## Transcript
+
 
 Welcome everyone What h
 minimizes the true risk

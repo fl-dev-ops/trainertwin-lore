@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 37 SVM Formulation
+
 ## Transcript
+
 
 So let us uh formulate this now
 So mathematically

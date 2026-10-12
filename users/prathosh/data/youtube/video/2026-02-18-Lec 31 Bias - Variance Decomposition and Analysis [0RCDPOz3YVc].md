@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 31 Bias - Variance Decomposition and Analysis
+
 ## Transcript
+
 
 Okay So welcome to this lecture Uh
 in todays lecture we will look at uh a

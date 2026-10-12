@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 53 SGD, RMS Prop, ADAM : Optimizers
+
 ## Transcript
+
 
 Welcome back
 Training neural networks

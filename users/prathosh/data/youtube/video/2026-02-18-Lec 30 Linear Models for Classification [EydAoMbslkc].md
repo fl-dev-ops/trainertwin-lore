@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 30 Linear Models for Classification
+
 ## Transcript
+
 
 Okay So so far uh we saw I mean
 theres a slight nuance there a slight

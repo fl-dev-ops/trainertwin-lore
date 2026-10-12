@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 56 Ensemble Methods, Bagging and Boosting
+
 ## Transcript
+
 
 In todays lecture we will be looking
 at the ensemble methods specifically

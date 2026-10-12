@@ -13,7 +13,10 @@ speakers:
   speaker_2: Speaker 3
 ---
 
+# Lec 7a - Deep Generative Models GAN variants and Applications
+
 ## Transcript
+
 
 ### Speaker 1
 

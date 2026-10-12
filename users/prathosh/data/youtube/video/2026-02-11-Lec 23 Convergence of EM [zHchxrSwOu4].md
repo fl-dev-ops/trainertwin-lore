@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 23 Convergence of EM
+
 ## Transcript
+
 
 Okay welcome everyone We will continue
 with the discussion on the EM algorithm

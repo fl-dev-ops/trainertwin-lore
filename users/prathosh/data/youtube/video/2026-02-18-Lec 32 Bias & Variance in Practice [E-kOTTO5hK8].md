@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 32 Bias & Variance in Practice
+
 ## Transcript
+
 
 Welcome back Lets consider an example
 Okay lets construct a distribution and

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 26 Parzen Window
+
 ## Transcript
+
 
 Okay So lets move on
 The last family of uh density estimation

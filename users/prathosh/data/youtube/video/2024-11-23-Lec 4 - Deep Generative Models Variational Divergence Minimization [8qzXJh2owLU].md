@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 4 - Deep Generative Models Variational Divergence Minimization
+
 ## Transcript
+
 
 ### Speaker 1
 

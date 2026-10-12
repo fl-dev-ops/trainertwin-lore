@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 1 : Introduction to Python Basics
+
 ## Transcript
+
 
 Hello all
 welcome to this tutorial in the course

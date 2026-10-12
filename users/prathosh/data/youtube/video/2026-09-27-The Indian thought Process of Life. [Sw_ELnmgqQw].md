@@ -14,7 +14,10 @@ speakers:
 language: en-IN
 ---
 
+# The Indian thought Process of Life.
+
 ## Transcript
+
 
 ### Speaker 2
 

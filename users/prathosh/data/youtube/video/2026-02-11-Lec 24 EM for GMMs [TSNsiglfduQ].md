@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 24 EM for GMMs
+
 ## Transcript
+
 
 Okay so this completes the EM
 algorithm So now what we will do now is

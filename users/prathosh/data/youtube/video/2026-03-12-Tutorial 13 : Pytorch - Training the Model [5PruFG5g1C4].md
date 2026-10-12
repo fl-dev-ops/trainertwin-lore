@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 13 : Pytorch - Training the Model
+
 ## Transcript
+
 
 Hello all Welcome
 to the third part of the tutorials on

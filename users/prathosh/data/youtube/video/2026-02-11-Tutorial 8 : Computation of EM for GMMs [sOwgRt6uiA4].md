@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 8 : Computation of EM for GMMs
+
 ## Transcript
+
 
 Hello all welcome to this tutorial
 in which we shall be looking at GMMs

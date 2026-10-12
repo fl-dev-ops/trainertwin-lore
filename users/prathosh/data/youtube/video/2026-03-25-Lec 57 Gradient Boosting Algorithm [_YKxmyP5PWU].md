@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 57 Gradient Boosting Algorithm
+
 ## Transcript
+
 
 Welcome back
 So we will see a principled way of

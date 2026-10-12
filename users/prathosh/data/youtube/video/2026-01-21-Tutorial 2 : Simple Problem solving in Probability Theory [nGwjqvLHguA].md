@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 2 : Simple Problem solving in Probability Theory
+
 ## Transcript
+
 
 Hello all welcome to this tutorial on
 problems of probability

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 10 Challenge With ML
+
 ## Transcript
+
 
 Welcome back
 So please be informed that if I write px

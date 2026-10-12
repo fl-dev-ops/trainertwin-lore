@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 6 : Example of NP Classifier, ROC Curve
+
 ## Transcript
+
 
 Hello all welcome to this tutorials in
 which we will be seeing an example of

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 34 Regularized ERM and MAP Estimate
+
 ## Transcript
+
 
 So the next question is right why should
 this increase bias Now we said that oh

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 5 :  Neyman Pearson Classifier
+
 ## Transcript
+
 
 Hello all welcome to this tutorial in
 which we will be looking at

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 14 Example of ML Estimate
+
 ## Transcript
+
 
 Welcome back Now the next question is
 how do we solve this optimization

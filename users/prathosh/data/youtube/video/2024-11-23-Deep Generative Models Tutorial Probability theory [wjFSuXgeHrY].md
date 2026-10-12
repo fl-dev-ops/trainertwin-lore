@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Deep Generative Models Tutorial Probability theory
+
 ## Transcript
+
 
 ### Speaker 1
 

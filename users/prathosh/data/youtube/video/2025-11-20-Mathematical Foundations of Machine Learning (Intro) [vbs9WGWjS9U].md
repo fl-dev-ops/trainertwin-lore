@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Mathematical Foundations of Machine Learning (Intro)
+
 ## Transcript
+
 
 Machine
 learning and artificial intelligence

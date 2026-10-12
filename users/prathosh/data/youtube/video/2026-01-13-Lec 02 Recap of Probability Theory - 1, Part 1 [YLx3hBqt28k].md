@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 02 Recap of Probability Theory - 1, Part 1
+
 ## Transcript
+
 
 Hello everyone welcome to the second
 class of this course

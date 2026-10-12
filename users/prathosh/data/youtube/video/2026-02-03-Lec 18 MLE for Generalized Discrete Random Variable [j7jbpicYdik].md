@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 18 MLE for Generalized Discrete Random Variable
+
 ## Transcript
+
 
 Welcome back to the lecture and let us
 look at the other example too

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 06 Understanding a Chest X-Ray  as Sample from Distribution
+
 ## Transcript
+
 
 Welcome back So now uh lets try to get
 that example uh grounded in in these uh

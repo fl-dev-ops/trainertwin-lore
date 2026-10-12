@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 3 - Deep Generative Models Intro to Generative Modelling
+
 ## Transcript
+
 
 ### Speaker 1
 

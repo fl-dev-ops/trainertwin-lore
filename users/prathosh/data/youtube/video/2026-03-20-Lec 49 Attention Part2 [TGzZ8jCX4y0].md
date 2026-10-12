@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 49 Attention Part2
+
 ## Transcript
+
 
 Welcome back So now let us define what
 is called as the attention vector

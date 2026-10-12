@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 12 : Pytorch - Building MLP and Auto Grad
+
 ## Transcript
+
 
 Hello all welcome to this uh second
 part of our uh PyTorch tutorial Now

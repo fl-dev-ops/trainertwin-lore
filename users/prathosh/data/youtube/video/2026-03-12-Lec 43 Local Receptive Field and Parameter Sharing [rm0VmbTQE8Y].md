@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 43 Local Receptive Field and Parameter Sharing
+
 ## Transcript
+
 
 Welcome everyone to the class So last
 time we looked at a fully connected

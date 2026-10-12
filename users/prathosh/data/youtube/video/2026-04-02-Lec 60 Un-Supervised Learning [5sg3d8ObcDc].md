@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 60 Un-Supervised Learning
+
 ## Transcript
+
 
 Welcome everyone to this course Now
 lets go to the next paradigm in machine

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 01  Overview of Function Approximation
+
 ## Transcript
+
 
 Hello everyone welcome to the NPTEL
 course on mathematical foundations of

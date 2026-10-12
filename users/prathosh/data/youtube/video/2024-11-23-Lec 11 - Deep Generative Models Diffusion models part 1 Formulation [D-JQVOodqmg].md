@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 11 - Deep Generative Models Diffusion models part 1 Formulation
+
 ## Transcript
+
 
 ### Speaker 1
 

@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 7 - Deep Generative Models GAN variants and Applications
+
 ## Transcript
+
 
 ### Speaker 1
 

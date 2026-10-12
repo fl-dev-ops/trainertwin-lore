@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Deep Generative Models Tutorial Error back propagation
+
 ## Transcript
+
 
 ### Speaker 1
 

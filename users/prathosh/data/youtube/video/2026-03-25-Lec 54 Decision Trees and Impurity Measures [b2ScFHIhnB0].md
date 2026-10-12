@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 54 Decision Trees and Impurity Measures
+
 ## Transcript
+
 
 Welcome to this
 lecture

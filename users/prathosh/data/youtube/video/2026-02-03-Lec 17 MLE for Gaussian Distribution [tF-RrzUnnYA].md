@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 17 MLE for Gaussian Distribution
+
 ## Transcript
+
 
 Okay good morning Uh welcome to this
 class on density estimation

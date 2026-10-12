@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 03 Recap of Probability Theory - 1, Part 2
+
 ## Transcript
+
 
 So now you have the probability measure
 So what do you do with this Uh youll

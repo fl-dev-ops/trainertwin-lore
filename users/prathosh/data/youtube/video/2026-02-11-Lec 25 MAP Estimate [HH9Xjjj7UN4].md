@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 25 MAP Estimate
+
 ## Transcript
+
 
 Welcome to this lecture where we will
 discuss well continue from wherever we

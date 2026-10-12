@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 15 Risk Minimization Framework
+
 ## Transcript
+
 
 Welcome everyone Last time we saw the
 recipe that is used to solve any machine

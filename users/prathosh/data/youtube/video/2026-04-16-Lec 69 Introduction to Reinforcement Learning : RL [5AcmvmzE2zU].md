@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 69 Introduction to Reinforcement Learning : RL
+
 ## Transcript
+
 
 Welcome everyone
 So the last topic that I wanted to touch

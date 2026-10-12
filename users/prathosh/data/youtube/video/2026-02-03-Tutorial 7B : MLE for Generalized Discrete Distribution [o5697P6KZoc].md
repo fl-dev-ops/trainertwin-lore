@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 7B : MLE for Generalized Discrete Distribution
+
 ## Transcript
+
 
 Hello all welcome to the next part of
 this tutorial

@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 5a - Deep Generative Models GAN Training
+
 ## Transcript
+
 
 ### Speaker 1
 

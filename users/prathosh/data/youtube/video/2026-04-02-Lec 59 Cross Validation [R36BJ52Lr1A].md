@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 59 Cross Validation
+
 ## Transcript
+
 
 Welcome everyone to this course
 So now since we have written the

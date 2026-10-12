@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 28 Ordinary Least Squares (OLS)
+
 ## Transcript
+
 
 Welcome everyone
 In todays lecture

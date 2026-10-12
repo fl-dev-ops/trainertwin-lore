@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 8 - Deep Generative Models WGANS Intro Latent Variable Models
+
 ## Transcript
+
 
 ### Speaker 1
 

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 62 PCA - Principal Component Analysis
+
 ## Transcript
+
 
 Welcome all
 So the first example is the class of

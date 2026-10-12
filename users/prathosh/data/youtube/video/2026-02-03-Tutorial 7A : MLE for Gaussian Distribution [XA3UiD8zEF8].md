@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Tutorial 7A : MLE for Gaussian Distribution
+
 ## Transcript
+
 
 Hello all welcome to this tutorials in
 which we will be looking at obtaining

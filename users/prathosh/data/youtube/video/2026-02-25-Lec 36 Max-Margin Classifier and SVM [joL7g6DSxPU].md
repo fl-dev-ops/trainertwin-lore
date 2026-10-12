@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 36 Max-Margin Classifier and SVM
+
 ## Transcript
+
 
 Okay So welcome everyone uh to this
 lecture

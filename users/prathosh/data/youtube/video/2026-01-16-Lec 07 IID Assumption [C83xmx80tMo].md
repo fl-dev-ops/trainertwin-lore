@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 07 IID Assumption
+
 ## Transcript
+
 
 Welcome back What is this IID
 So this means that this is

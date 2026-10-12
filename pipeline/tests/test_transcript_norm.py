@@ -2,7 +2,13 @@ import pytest
 
 from pipeline.transcript_norm import TranscriptValidationError, normalize_transcript
 
-FM = "---\nid: x\ntitle: t\n---\n\n# t\n\n## Transcript\n\n"
+FM = "---\nid: x\ntitle: Test Title\n---\n\n# Test Title\n\n## Transcript\n\n"
+
+
+def test_title_preserved():
+    md = FM + "### Speaker 1\n\nHello\n"
+    out = normalize_transcript(md)
+    assert "# Test Title" in out and out.index("# Test Title") < out.index("## Transcript")
 
 
 def test_merges_same_speaker_and_drops_timestamps():

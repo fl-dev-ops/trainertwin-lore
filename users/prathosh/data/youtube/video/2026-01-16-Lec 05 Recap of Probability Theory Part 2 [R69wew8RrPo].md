@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 05 Recap of Probability Theory Part 2
+
 ## Transcript
+
 
 Welcome to this class uh in the course
 mathematical foundations of uh machine

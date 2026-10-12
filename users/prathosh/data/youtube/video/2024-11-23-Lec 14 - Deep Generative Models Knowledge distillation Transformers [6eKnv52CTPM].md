@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 14 - Deep Generative Models Knowledge distillation Transformers
+
 ## Transcript
+
 
 ### Speaker 1
 

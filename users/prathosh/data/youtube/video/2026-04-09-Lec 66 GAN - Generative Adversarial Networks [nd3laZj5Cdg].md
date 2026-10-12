@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 66 GAN - Generative Adversarial Networks
+
 ## Transcript
+
 
 Okay in this class
 we will look at generative adversarial

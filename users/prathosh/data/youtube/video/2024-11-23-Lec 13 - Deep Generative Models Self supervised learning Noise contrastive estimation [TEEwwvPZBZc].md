@@ -15,7 +15,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Lec 13 - Deep Generative Models Self supervised learning Noise contrastive
+
 ## Transcript
+
 
 ### Speaker 1
 

@@ -8,7 +8,10 @@ model: youtube-captions (en-orig)
 transcript: true
 ---
 
+# Lec 40 SVM with Kernel Function
+
 ## Transcript
+
 
 Welcome to this class So now let lets
 finally there is one final case that we

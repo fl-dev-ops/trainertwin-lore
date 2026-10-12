@@ -14,7 +14,10 @@ speakers:
   speaker_3: Speaker 4
 ---
 
+# Deep Generative Models Tutorials CNNs
+
 ## Transcript
+
 
 ### Speaker 1
 
