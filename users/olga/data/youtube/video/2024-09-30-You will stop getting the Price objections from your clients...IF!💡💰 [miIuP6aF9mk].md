@@ -12,22 +12,20 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # You will stop getting the Price objections from your clients...IF!💡💰
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
 But besides the price uh what did you like about the project
 
-### 00:00:04 · Speaker 1
 
-What we're doing we're taking the price away and we're moving the clients to the result based thinking So he's gonna tell himself what he actually like about the project
+What were doing were taking the price away and were moving the clients to the result based thinking So hes gonna tell himself what he actually like about the project
 
-### 00:00:16 · Speaker 1
 
-And how does this compare to the ideal criteria that you have? We are actually checking if the value that we created
+And how does this compare to the ideal criteria that you have We are actually checking if the value that we created
 
-### 00:00:29 · Speaker 1
 
 within this client is enough to match the price

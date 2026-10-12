@@ -12,18 +12,17 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # How to ask Uncomfortable Questions in Real Estate, without sounding rude or pushy!?
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-If you are struggling with asking questions, specifically the tough ones, I have something for you. It's always hard to say, do you have a wife or how much money are you making? But if you add on the amortization level, which I'm going to teach you, it's going to be a game changer. Not to ask like a personal question. Not to ask like a personal question, are you on your own or you have a family to support? And help me understand in terms of pricing, what do you have in mind?
+If you are struggling with asking questions specifically the tough ones I have something for you Its always hard to say do you have a wife or how much money are you making But if you add on the amortization level which Im going to teach you its going to be a game changer Not to ask like a personal question Not to ask like a personal question are you on your own or you have a family to support And help me understand in terms of pricing what do you have in mind
 
-### 00:00:30 · Speaker 1
 
 Oh I forgot to ask you
 
-### 00:00:34 · Speaker 1
 
 I forgot to ask you um are you on your own or you have a partner and in terms of budget uh what do you have um allocated for this purchase

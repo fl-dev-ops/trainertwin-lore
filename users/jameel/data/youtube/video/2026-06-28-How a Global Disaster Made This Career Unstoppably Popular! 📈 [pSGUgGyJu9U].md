@@ -11,9 +11,10 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # How a Global Disaster Made This Career Unstoppably Popular! 📈
 
 
 ## Transcript
 
-wow, like how this has become so popular and so and people have been so much more aware of it. And I think, you know, those those events, like you talked about, are certainly the moments that kind of spurred this more in like the public eye, right? I think, you know, people obviously always saw trucks and trains and things like moving stuff, but did they really think much about like what's going on to make that happen? Not so much, right? Unless you're like in it. But then, you know, obviously when when they can't get the things that they want right then it's like well what's the reason right it's like oh the supply chain right so so it kind of you know it kind of started as like well we're getting the finger pointed at us uh to blame it in a sense right but then people started to become aware
+wow like how this has become so popular and so and people have been so much more aware of it And I think you know those those events like you talked about are certainly the moments that kind of spurred this more in like the public eye right I think you know people obviously always saw trucks and trains and things like moving stuff but did they really think much about like whats going on to make that happen Not so much right Unless youre like in it But then you know obviously when when they cant get the things that they want right then its like well whats the reason right its like oh the supply chain right so so it kind of you know it kind of started as like well were getting the finger pointed at us uh to blame it in a sense right but then people started to become aware

@@ -11,10 +11,11 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Are You Forcing Clients to Say “Yes”? Here’s the Problem
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-X Y Z you see I'm answers driven do you feel like you have a I don't know crack in your neck as well I'm just like yeah I do like you don't know this and you don't know that so what you have to do is come on a meeting a zoo I want to book a zoo meeting mr. client answering this question even it's a closed question he feels that there is something that he's lacking that was just a leisure I will tell you jump you're gonna ask how high right so we shouldn't do that so the same questions can be true
+X Y Z you see Im answers driven do you feel like you have a I dont know crack in your neck as well Im just like yeah I do like you dont know this and you dont know that so what you have to do is come on a meeting a zoo I want to book a zoo meeting mr client answering this question even its a closed question he feels that there is something that hes lacking that was just a leisure I will tell you jump youre gonna ask how high right so we shouldnt do that so the same questions can be true

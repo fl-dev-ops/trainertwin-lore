@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # How to BOOK More Meeting and Covert Them Into Sales? (Dubai Agents)
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-of the off-plan sales process that hopefully you will be following if you are not already each and every communication with your client should end with agreeing on the next if the buyer thinks that whatever solution you provide will solve his problem only then the sale will happen why do they want to invest some money what makes them feel that the way their money is working now is not enough anymore
+of the off plan sales process that hopefully you will be following if you are not already each and every communication with your client should end with agreeing on the next if the buyer thinks that whatever solution you provide will solve his problem only then the sale will happen why do they want to invest some money what makes them feel that the way their money is working now is not enough anymore
 
-### 00:00:30 · Speaker 1
 
 Logical explanation with the property monitor statistics and whatever digs being tracked statistics not gonna work

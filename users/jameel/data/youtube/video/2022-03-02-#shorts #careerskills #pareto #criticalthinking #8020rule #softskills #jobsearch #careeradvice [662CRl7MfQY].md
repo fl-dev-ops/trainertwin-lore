@@ -13,18 +13,17 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # #shorts #careerskills #pareto #criticalthinking #8020rule #softskills #jobsearch #careeradvice
 
 ## Transcript
 
-### 00:00:05 · On-screen text
+### On-screen text
 
-use five why · analysis · WATCH FULL
+use five why analysis WATCH FULL
 
-### 00:00:10 · On-screen text
 
-apply the · 7 so whats
+apply the 7 so whats
 
-### 00:00:30 · On-screen text
 
-80/20 rule
+80 by 20 rule

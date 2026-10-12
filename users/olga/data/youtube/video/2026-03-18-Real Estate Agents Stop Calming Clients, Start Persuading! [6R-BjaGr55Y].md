@@ -11,18 +11,17 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Real Estate Agents Stop Calming Clients, Start Persuading!
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-What agents should do instead of trying to calm people down? I really don't think that, again, because I just gave you an example of my friend who literally believes me anyway, but I think even after I've told her that, you know, like all of these people, they're really thinking that way, she was still kind of like, you know, uncertain and unsure. So if you, with your current clients, well, overseas investors, they see the media with the headlines over there,
+What agents should do instead of trying to calm people down I really dont think that again because I just gave you an example of my friend who literally believes me anyway but I think even after Ive told her that you know like all of these people theyre really thinking that way she was still kind of like you know uncertain and unsure So if you with your current clients well overseas investors they see the media with the headlines over there
 
-### 00:00:30 · Speaker 1
 
-completely different and you're gonna keep pushing and convincing that everything is great you're gonna lose them because of course you're the salesperson of course this is what you want them to see in their mind you're lying to them so let's not do that let's use a bit of negative emotional persuasion and to be honest it might seem from your side as a very dramatic and tragical event so again your job is here not to deny their reality
+completely different and youre gonna keep pushing and convincing that everything is great youre gonna lose them because of course youre the salesperson of course this is what you want them to see in their mind youre lying to them so lets not do that lets use a bit of negative emotional persuasion and to be honest it might seem from your side as a very dramatic and tragical event so again your job is here not to deny their reality
 
-### 00:01:00 · Speaker 1
 
 Your job is here to bring them instead of fear which is fear in the unknown bring them clarity

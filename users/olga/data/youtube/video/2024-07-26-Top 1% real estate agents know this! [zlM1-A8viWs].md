@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Top 1% real estate agents know this!
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-I'm willing to do whatever it takes for as long as it takes. This is important guys because we all get used to dopamine hits, quick results, quick fix. But the real estate is a little bit different, right? It's at least six months of going through the pain.
+Im willing to do whatever it takes for as long as it takes This is important guys because we all get used to dopamine hits quick results quick fix But the real estate is a little bit different right Its at least six months of going through the pain
 
-### 00:00:19 · Speaker 1
 
-Right? Learning, pushing, creating relationship with the client. And then the pendulum gonna swing and then you will have results. If it swing faster, that's fine, but you'll still have to push it.
+Right Learning pushing creating relationship with the client And then the pendulum gonna swing and then you will have results If it swing faster thats fine but youll still have to push it

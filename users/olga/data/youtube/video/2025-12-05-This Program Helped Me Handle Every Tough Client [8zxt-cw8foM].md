@@ -12,14 +12,15 @@ speakers:
   speaker_1: Speaker 2
 ---
 
+
 # This Program Helped Me Handle Every Tough Client
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-coaching program really helped me guys this is unscripted so you know it's coming from the heart but uh this really it gave me a direction as to where to go i knew to come to olga whenever i had an agent or a client asking me you know weird questions or you know i wasn't able to get in touch with them as i wanted to so olga really helped me out and this coaching program really gave me direction the six months are still going on so i still annoy her a lot trust me
+coaching program really helped me guys this is unscripted so you know its coming from the heart but uh this really it gave me a direction as to where to go i knew to come to olga whenever i had an agent or a client asking me you know weird questions or you know i wasnt able to get in touch with them as i wanted to so olga really helped me out and this coaching program really gave me direction the six months are still going on so i still annoy her a lot trust me
 
-### 00:00:03 · Speaker 2
+### Speaker 2
 
-It's coming from the
+Its coming from the

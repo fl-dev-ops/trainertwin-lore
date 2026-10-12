@@ -12,9 +12,10 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Why AI Will Replace Transportation Coordinators and Dispatchers (And How to Upskill Now)
 
 
 ## Transcript
 
-The next job which is at risk is transportation coordinator or dispatcher. Now, what are these jobs? These are jobs where you are basically doing standard scheduling of shipments or warehouse or transportation. So you are basically organizing delivery appointments and pickups and drop-offs and all those kinds of things. So try to learn more of the AI enabled modules in transportation management systems. For instance, if Mercury Gate or Manhattan are launching using some new modules which are AI enabled try to upskill yourself on them sooner than later before it's too late
+The next job which is at risk is transportation coordinator or dispatcher Now what are these jobs These are jobs where you are basically doing standard scheduling of shipments or warehouse or transportation So you are basically organizing delivery appointments and pickups and drop offs and all those kinds of things So try to learn more of the AI enabled modules in transportation management systems For instance if Mercury Gate or Manhattan are launching using some new modules which are AI enabled try to upskill yourself on them sooner than later before its too late

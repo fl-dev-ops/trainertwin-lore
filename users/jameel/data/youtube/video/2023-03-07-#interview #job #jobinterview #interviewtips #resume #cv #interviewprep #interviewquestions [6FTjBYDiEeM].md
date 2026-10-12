@@ -12,38 +12,32 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # #interview #job #jobinterview #interviewtips #resume #cv #interviewprep #interviewquestions
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
 LIKE A
 
-### 00:00:01 · On-screen text
 
 Hnw TO INTER VIEW
 
-### 00:00:05 · On-screen text
 
-SHARE STORIES · THAT CONTAIN THE
+SHARE STORIES THAT CONTAIN THE
 
-### 00:00:06 · On-screen text
 
-1.SITUATION · Explain the circumstancesyou were in
+1 SITUATION Explain the circumstancesyou were in
 
-### 00:00:13 · On-screen text
 
-2.TASK
+2 TASK
 
-### 00:00:27 · On-screen text
 
-4.RESULTS
+4 RESULTS
 
-### 00:00:33 · On-screen text
 
 DO YOU HAVE YOU
 
-### 00:00:34 · On-screen text
 
-YES/NO · SHARE IN CHAT
+YES by NO SHARE IN CHAT

@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Mastering Curiosity: The Art of Intrigue and Decision #shorts
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-This call is not about that. Do you want me to tell you why I'm calling?
+This call is not about that Do you want me to tell you why Im calling
 
-### 00:00:04 · Speaker 1
 
-And then you decide should we continue or you want to hang up now? You see, if I am giving you this, I am increasing your curiosity, I'm pulling you up, you're curious.
+And then you decide should we continue or you want to hang up now You see if I am giving you this I am increasing your curiosity Im pulling you up youre curious

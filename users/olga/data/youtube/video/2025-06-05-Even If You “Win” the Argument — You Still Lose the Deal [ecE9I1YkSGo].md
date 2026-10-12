@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Even If You “Win” the Argument — You Still Lose the Deal
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-Even if you win it's probably not going to be ideal it depends on whether you're going to fight or flight mode I'm going to just have all of these arguments it just happens automatically when someone feels threatened then someone feels that his ability to make decision on his own so how we can blame them we are triggering them to ask us to send them some options by asking the questions which is
+Even if you win its probably not going to be ideal it depends on whether youre going to fight or flight mode Im going to just have all of these arguments it just happens automatically when someone feels threatened then someone feels that his ability to make decision on his own so how we can blame them we are triggering them to ask us to send them some options by asking the questions which is
 
-### 00:00:30 · Speaker 1
 
 Oh

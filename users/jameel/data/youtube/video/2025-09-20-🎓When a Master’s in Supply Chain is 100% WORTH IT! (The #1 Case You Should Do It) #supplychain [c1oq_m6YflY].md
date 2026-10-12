@@ -12,9 +12,10 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # 🎓When a Master’s in Supply Chain is 100% WORTH IT! (The #1 Case You Should Do It) #supplychain
 
 
 ## Transcript
 
-The first thing is that if a master's program in supply chain will help you in your efforts to migrate to a new country, definitely go for it. And especially for those who have already gotten experience in supply chain. I've consulted so many of my clients in my coaching calls who are working in India and Amazon or in other companies and they have landed an MBA or an MS in supply chain and that is what has gotten them their visa to come to the US or come to Canada. That's a very good route of getting to a new country So if that's the case with you, then definitely a master's degree in supply chain is is worth it
+The first thing is that if a masters program in supply chain will help you in your efforts to migrate to a new country definitely go for it And especially for those who have already gotten experience in supply chain Ive consulted so many of my clients in my coaching calls who are working in India and Amazon or in other companies and they have landed an MBA or an MS in supply chain and that is what has gotten them their visa to come to the US or come to Canada Thats a very good route of getting to a new country So if thats the case with you then definitely a masters degree in supply chain is is worth it

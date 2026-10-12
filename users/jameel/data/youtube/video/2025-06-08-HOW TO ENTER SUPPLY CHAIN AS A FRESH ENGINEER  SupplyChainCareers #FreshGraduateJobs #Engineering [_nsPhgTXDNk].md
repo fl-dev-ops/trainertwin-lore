@@ -12,6 +12,7 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # HOW TO ENTER SUPPLY CHAIN AS A FRESH ENGINEER? SupplyChainCareers #FreshGraduateJobs #Engineering
 
 

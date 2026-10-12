@@ -13,18 +13,17 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # Celebrating 15 years Supply Chain Leadership experience at Mars Inc. #shorts #supplychain #coach
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
 10 Years
 
-### 00:00:13 · On-screen text
 
 MARS
 
-### 00:00:24 · On-screen text
 
-SUPPLY CHAIN CAREER COACH · C8reFrSki115 They Don't Teach You in College.
+SUPPLY CHAIN CAREER COACH C8reFrSki115 They Dont Teach You in College

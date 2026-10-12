@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Afraid of the Cold Calling? 3 simple steps on how to change it.
 
 ## Transcript
 
-### 00:00:08 · Speaker 1
+### Speaker 1
 
-Start saying no yourself to the things that you don't want to have in your life. This is how you're gonna handle no differently when someone is telling you that. Focus on dials, not responses. This is how you're gonna get consistent work. Just dial exactly same number of numbers every day and the result will find you by itself. Master the script. If you sound like every other agent in Dubai, you're gonna hear only no. Comment script below and I will send you
+Start saying no yourself to the things that you dont want to have in your life This is how youre gonna handle no differently when someone is telling you that Focus on dials not responses This is how youre gonna get consistent work Just dial exactly same number of numbers every day and the result will find you by itself Master the script If you sound like every other agent in Dubai youre gonna hear only no Comment script below and I will send you
 
-### 00:00:38 · Speaker 1
 
 the latest best cold coin script I yet created

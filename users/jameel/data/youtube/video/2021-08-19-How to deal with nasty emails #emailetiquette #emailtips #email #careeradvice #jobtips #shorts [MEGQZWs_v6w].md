@@ -13,18 +13,17 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # How to deal with nasty emails? #emailetiquette #emailtips #email #careeradvice #jobtips #shorts
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
-:(. TIP # 2_ · -'* .1 GATHER · FACTS .4 · MORE ON SOFT SKILLS
+ TIP 2 times 1 GATHER FACTS 4 MORE ON SOFT SKILLS
 
-### 00:00:00 · On-screen text
 
-I•￿1l$k￿￿mftnÉHow TO DEAL WITH
+I ￿1l k￿￿mftnÉHow TO DEAL WITH
 
-### 00:00:01 · On-screen text
 
 CHANNEL ro LEARN

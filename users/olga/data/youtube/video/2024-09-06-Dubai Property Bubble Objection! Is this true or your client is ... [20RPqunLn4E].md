@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Dubai Property Bubble Objection! Is this true or your client is ...
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-Dubai is a bubble objection. What is it? It's a smoke screen.
+Dubai is a bubble objection What is it Its a smoke screen
 
-### 00:00:06 · Speaker 1
 
-It doesn't mean that we cannot handle it but we have to understand what is behind this actual objection what we are handling is it time is it money or is it value
+It doesnt mean that we cannot handle it but we have to understand what is behind this actual objection what we are handling is it time is it money or is it value

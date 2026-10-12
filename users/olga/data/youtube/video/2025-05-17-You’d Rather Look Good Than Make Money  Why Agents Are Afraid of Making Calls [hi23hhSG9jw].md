@@ -12,14 +12,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # You’d Rather Look Good Than Make Money? Why Agents Are Afraid of Making Calls
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-How to overcome fear of making calls? It's number 0.1 question. It is the most common question I ever get. So the fear of making calls come from two sources. Your desire to always look good and be perfect, which is, you know, your ego play, and then the lack of skills. Ah, there is a third one. The lack of repetition with the right skills. So I cannot help you to trim your ego.
+How to overcome fear of making calls Its number 0 point 1 question It is the most common question I ever get So the fear of making calls come from two sources Your desire to always look good and be perfect which is you know your ego play and then the lack of skills Ah there is a third one The lack of repetition with the right skills So I cannot help you to trim your ego
 
-### 00:00:30 · Speaker 1
 
 probably you have to ask yourself what is more important for me is it more important for me to look good and be poor or is it more important for me to get the script which Olga actually posted towards this video in the comments and start making more calls with the better sales skills

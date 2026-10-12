@@ -13,18 +13,19 @@ speakers:
   speaker_1: Speaker 2
 ---
 
+
 # “I Like Houses, So I’ll Do Real Estate” — Biggest Mistake Beginners Make
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-And people are from outside looking in real estate they think wow it's just such an easy thing I can do that I like properties. It's Olga can you please save my number whenever you need to buy or sell please call me how many of those are actually calling you back
+And people are from outside looking in real estate they think wow its just such an easy thing I can do that I like properties Its Olga can you please save my number whenever you need to buy or sell please call me how many of those are actually calling you back
 
-### 00:00:16 · Speaker 2
+### Speaker 2
 
 Hi mister are you selling your property yet
 
-### 00:00:19 · Speaker 1
+### Speaker 1
 
-We value what we own, what is us, what we have is way more than something that we don't own yet.
+We value what we own what is us what we have is way more than something that we dont own yet

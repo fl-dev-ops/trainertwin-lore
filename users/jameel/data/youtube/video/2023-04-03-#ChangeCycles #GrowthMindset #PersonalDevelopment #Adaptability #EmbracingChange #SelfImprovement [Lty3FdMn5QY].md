@@ -12,9 +12,10 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # #ChangeCycles #GrowthMindset #PersonalDevelopment #Adaptability #EmbracingChange #SelfImprovement
 
 
 ## Transcript
 
-Climbing that mountain getting to the top I'm taking my time but I ain't gonna stop saying hey yeah The tide is getting high but I ain't gonna drown I'll fall right to the top if you try holding me now I'm singing hey yeah hey yeah you can push me down but I can't ever get hey yeah I ain't gonna stop ain't gonna stop I ain't gonna stop ain't gonna stop singing hey yeah Transcript
+Climbing that mountain getting to the top Im taking my time but I aint gonna stop saying hey yeah The tide is getting high but I aint gonna drown Ill fall right to the top if you try holding me now Im singing hey yeah hey yeah you can push me down but I cant ever get hey yeah I aint gonna stop aint gonna stop I aint gonna stop aint gonna stop singing hey yeah Transcript

@@ -13,42 +13,41 @@ speakers:
   speaker_2: Speaker 3
 ---
 
+
 # Stop Assuming Your Client Doesn’t Have Time
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-I'm struggling because obviously people are busy so if you're an investor and you have money to invest you definitely don't have time to chat but you also have to find time
+Im struggling because obviously people are busy so if youre an investor and you have money to invest you definitely dont have time to chat but you also have to find time
 
-### 00:00:10 · Speaker 2
+### Speaker 2
 
-Okay so let's let me pause you and then we're gonna continue
+Okay so lets let me pause you and then were gonna continue
 
-### 00:00:14 · Speaker 3
+### Speaker 3
 
 You are coming from the
 
-### 00:00:15 · Speaker 2
+### Speaker 2
 
-Assumption it's your objection not theirs you're coming I will just I will just repeat it for you if you are investor you're a busy person you don't have time to waste so I'm asking you mr. client does that means that you do not take this as a priority for your family for yourself to make XYZ amount of money in the next five years is this priority for you but if it's not I mean and that's a false belief I think that this is the most
+Assumption its your objection not theirs youre coming I will just I will just repeat it for you if you are investor youre a busy person you dont have time to waste so Im asking you mr client does that means that you do not take this as a priority for your family for yourself to make XYZ amount of money in the next five years is this priority for you but if its not I mean and thats a false belief I think that this is the most
 
-### 00:00:45 · Speaker 2
 
-important thing for them because that's how they gonna create themselves a financial freedom I will explain you why I think that way I am deep down rooted in myself the seed that I'm helping people not selling them because I know from my 10 years of experience in Dubai Dubai real estate makes money for sure even if you put a stick in the sand in I mean
+important thing for them because thats how they gonna create themselves a financial freedom I will explain you why I think that way I am deep down rooted in myself the seed that Im helping people not selling them because I know from my 10 years of experience in Dubai Dubai real estate makes money for sure even if you put a stick in the sand in I mean
 
-### 00:01:08 · Speaker 1
+### Speaker 1
 
 Yeah
 
-### 00:01:08 · Speaker 2
+### Speaker 2
 
-Buy a boomer apartment anywhere five years ago, you 100% make money. 100%. So I am coming from the place I am here to help you to make money. So it's my responsibility to make you being able to see it that way. So that's why I I I'm not gonna get tired to engaging and you know chasing not chasing yeah but but re-engaging with you because I know I can help you it's okay that you don't yet think that I can help so if I'm coming from the belief that everyone should like
+Buy a boomer apartment anywhere five years ago you 100 percent make money 100 percent So I am coming from the place I am here to help you to make money So its my responsibility to make you being able to see it that way So thats why I I Im not gonna get tired to engaging and you know chasing not chasing yeah but but re engaging with you because I know I can help you its okay that you dont yet think that I can help so if Im coming from the belief that everyone should like
 
-### 00:01:38 · Speaker 2
 
-the time to build their future in a tax-free environment where they will eventually have a financial freedom to do what they want because they're not buying the property they're buying financial freedom in the future they're buying education for the kids you got me so this is a prerequisite wrong belief so let's just shift it
+the time to build their future in a tax free environment where they will eventually have a financial freedom to do what they want because theyre not buying the property theyre buying financial freedom in the future theyre buying education for the kids you got me so this is a prerequisite wrong belief so lets just shift it
 
-### 00:01:50 · Speaker 1
+### Speaker 1
 
 The binding key

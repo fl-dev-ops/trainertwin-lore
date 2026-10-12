@@ -11,10 +11,11 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Which Real Estate Developers Will Survive the Shift?
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-What kind of projects and developers will sustain from the current market? And you can ask your clients this question and probably it's easier than your emotional persuasion they're gonna come up to their own realization. Yeah, well probably, well semi-government developers, big developers which been already on a higher scale, on a high demand.
+What kind of projects and developers will sustain from the current market And you can ask your clients this question and probably its easier than your emotional persuasion theyre gonna come up to their own realization Yeah well probably well semi government developers big developers which been already on a higher scale on a high demand

@@ -13,10 +13,11 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # Nasty Email Tip 1 #emailetiquette #emailtips #email #careeradvice #jobtips #shorts #careercoach
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
-HOW DEAL WITH · 111 TIP #I · ,11 NEVER REPLY · 'th IMMEDIATELY · SOFT SKILLS
+HOW DEAL WITH 111 TIP I 11 NEVER REPLY th IMMEDIATELY SOFT SKILLS

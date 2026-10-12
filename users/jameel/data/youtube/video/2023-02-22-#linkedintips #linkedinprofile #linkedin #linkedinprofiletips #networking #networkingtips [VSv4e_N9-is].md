@@ -13,38 +13,32 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # #linkedintips #linkedinprofile #linkedin #linkedinprofiletips #networking #networkingtips
 
 ## Transcript
 
-### 00:00:05 · On-screen text
+### On-screen text
 
-Tip#1
+Tip 1
 
-### 00:00:05 · On-screen text
 
-DEFINE YOUR GOALS""rtI
+DEFINE YOUR GOALS rtI
 
-### 00:00:09 · On-screen text
 
 CREATE A PROFILE THAT
 
-### 00:00:10 · On-screen text
 
-STANDS OUT · SECTIONS · ENDORSEMENTS · INCLUDE · RECOMMENDATIONS
+STANDS OUT SECTIONS ENDORSEMENTS INCLUDE RECOMMENDATIONS
 
-### 00:00:15 · On-screen text
 
 CONNECT WITH THE RIGHT PEOPLE
 
-### 00:00:15 · On-screen text
 
-IN YOUR INDUSTRY & REGION
+IN YOUR INDUSTRY REGION
 
-### 00:00:20 · On-screen text
 
 PERSONALIZED MESSAGE
 
-### 00:00:24 · On-screen text
 
-ills · TREAT NETWORKING AS A
+ills TREAT NETWORKING AS A

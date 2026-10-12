@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Why Your Enthusiastic Sales Voice Is Losing Clients
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-because of those type of training they've been given to the salespeople specifically being enthusiastic so you be enthusiastic on the phone then the client who is on the phone will become enthusiastic as well that's actually causing now the client to run the opposite way so if you hear yourself on the phone you are going into what I call a high pitch meaning your voice your tone of the voice is different than the voice you're talking to your friend then you're actually
+because of those type of training theyve been given to the salespeople specifically being enthusiastic so you be enthusiastic on the phone then the client who is on the phone will become enthusiastic as well thats actually causing now the client to run the opposite way so if you hear yourself on the phone you are going into what I call a high pitch meaning your voice your tone of the voice is different than the voice youre talking to your friend then youre actually
 
-### 00:00:30 · Speaker 1
 
-Activating what we're going to be talking in a minute sales resistance
+Activating what were going to be talking in a minute sales resistance

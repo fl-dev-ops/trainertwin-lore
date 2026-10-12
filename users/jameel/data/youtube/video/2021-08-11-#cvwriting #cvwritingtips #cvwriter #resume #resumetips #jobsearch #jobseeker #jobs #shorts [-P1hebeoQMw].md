@@ -13,18 +13,17 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # #cvwriting #cvwritingtips #cvwriter #resume #resumetips #jobsearch #jobseeker #jobs #shorts
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
-Don't mention buzz · words or cliches · go getter · best of breed · dynamic · self motivated
+Dont mention buzz words or cliches go getter best of breed dynamic self motivated
 
-### 00:00:00 · On-screen text
 
 CV WRITING
 
-### 00:00:01 · On-screen text
 
-TIP # 2
+TIP 2

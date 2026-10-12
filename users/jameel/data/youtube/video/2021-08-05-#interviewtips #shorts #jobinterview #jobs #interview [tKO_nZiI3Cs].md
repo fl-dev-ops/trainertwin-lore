@@ -12,14 +12,14 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # #interviewtips #shorts #jobinterview #jobs #interview
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
-to my YouTube channel to · watch how you can interview like a
+to my YouTube channel to watch how you can interview like a
 
-### 00:00:01 · On-screen text
 
-Real life skills they don t · feach you in college.
+Real life skills they don t feach you in college

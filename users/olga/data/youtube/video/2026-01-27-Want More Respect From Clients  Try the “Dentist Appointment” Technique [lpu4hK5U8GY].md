@@ -11,10 +11,11 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Want More Respect From Clients? Try the “Dentist Appointment” Technique
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-Guys, do you know that the dentist and I checked it with them with several, they don't actually have all of these book appointments, but they force you to come 2 p.m. on Thursday. Do you know why? They have other slots open. They want you to value that appointment like, oh my god, that's why we're gonna look how as well to become an actual authority for them and step into relationship from the higher status.
+Guys do you know that the dentist and I checked it with them with several they dont actually have all of these book appointments but they force you to come 2 pm on Thursday Do you know why They have other slots open They want you to value that appointment like oh my god thats why were gonna look how as well to become an actual authority for them and step into relationship from the higher status

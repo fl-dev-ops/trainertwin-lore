@@ -12,26 +12,27 @@ speakers:
   speaker_1: Speaker 2
 ---
 
+
 # The Harsh Truth About Marketing Agencies
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-If the marketing agency reaching out to you saying oh don't worry we're just going to have a little bit and we're just going to create the campaign for you they're probably going to take your money and you're going to be sorely disappointed. If you have these ideas you're not getting into oh someone's going to give me the leads you're going into lead generation training and recruitment business
+If the marketing agency reaching out to you saying oh dont worry were just going to have a little bit and were just going to create the campaign for you theyre probably going to take your money and youre going to be sorely disappointed If you have these ideas youre not getting into oh someones going to give me the leads youre going into lead generation training and recruitment business
 
-### 00:00:19 · Speaker 2
+### Speaker 2
 
-As long as I believe in business, as long as you don't fail, you don't succeed, right? And you're trying to sell it.
+As long as I believe in business as long as you dont fail you dont succeed right And youre trying to sell it
 
-### 00:00:23 · Speaker 1
+### Speaker 1
 
-Are you trying to sell it?
+Are you trying to sell it
 
-### 00:00:24 · Speaker 2
+### Speaker 2
 
-No I'm not trying to say that
+No Im not trying to say that
 
-### 00:00:26 · Speaker 1
+### Speaker 1
 
 Ha ha

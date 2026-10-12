@@ -12,9 +12,10 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Top 3 Skills in the Post Pandemic World #shorts #softskills #postpandemic #covid19 #change
 
 
 ## Transcript
 
-COVID-19 has fundamentally changed the world around us. While each of our personal lives have been badly affected, the professional working landscape has also changed fundamentally. Here are the top three soft skills to be successful in the post-pandemic workplace. The first one is dealing with change. The second one is compassion. And the third one is virtual communication. For a more in-depth insight into each of these soft skills, watch my video on this subject on my YouTube channel and don't forget to subscribe. That was great
+COVID 19 has fundamentally changed the world around us While each of our personal lives have been badly affected the professional working landscape has also changed fundamentally Here are the top three soft skills to be successful in the post pandemic workplace The first one is dealing with change The second one is compassion And the third one is virtual communication For a more in depth insight into each of these soft skills watch my video on this subject on my YouTube channel and dont forget to subscribe That was great

@@ -13,30 +13,26 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # #shorts #cvwriting #cvtips #resumewriting #resume #resumetips #jobsearch #jobs #careertips #career
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
 Resume
 
-### 00:00:00 · On-screen text
 
-CV WRITING · CHANNEL ON · THIS TOPIC
+CV WRITING CHANNEL ON THIS TOPIC
 
-### 00:00:01 · On-screen text
 
-TIP # 1 · Don't make your CV more
+TIP 1 Dont make your CV more
 
-### 00:00:02 · On-screen text
 
 than 2 pages long
 
-### 00:00:05 · On-screen text
 
-o-5 years of experience:
+o 5 years of experience
 
-### 00:00:05 · On-screen text
 
 1 Page

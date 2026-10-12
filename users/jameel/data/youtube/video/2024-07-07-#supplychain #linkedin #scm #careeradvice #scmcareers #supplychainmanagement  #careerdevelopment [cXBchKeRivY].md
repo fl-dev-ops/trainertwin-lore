@@ -11,9 +11,10 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # #supplychain #linkedin #scm #careeradvice #scmcareers #supplychainmanagement  #careerdevelopment
 
 
 ## Transcript
 
-LinkedIn is not a job search platform. If you treat it only as a job search platform then it is something like Indeed. You can't compare Indeed with LinkedIn. LinkedIn provides you a lot more opportunities to become more visible and connect directly with recruiters, potential opportunities. If you are only looking for a job you may be only utilizing 5 to 10% of LinkedIn's capability. It's not only about job. I know some of my Clients in the supply chain industry are consultants right and so they are providing consulting services to their clients using LinkedIn as a platform. The platform itself is agile and it's very dynamic. How do we use it if we use it just for one purpose which is you know I'm looking for a job then of course you are limiting yourself or you are you're being victim of self-limiting belief as I say.
+LinkedIn is not a job search platform If you treat it only as a job search platform then it is something like Indeed You cant compare Indeed with LinkedIn LinkedIn provides you a lot more opportunities to become more visible and connect directly with recruiters potential opportunities If you are only looking for a job you may be only utilizing 5 to 10 percent of LinkedIns capability Its not only about job I know some of my Clients in the supply chain industry are consultants right and so they are providing consulting services to their clients using LinkedIn as a platform The platform itself is agile and its very dynamic How do we use it if we use it just for one purpose which is you know Im looking for a job then of course you are limiting yourself or you are youre being victim of self limiting belief as I say

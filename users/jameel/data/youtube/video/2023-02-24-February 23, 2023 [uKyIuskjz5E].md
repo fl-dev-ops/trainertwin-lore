@@ -12,26 +12,23 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # February 23, 2023
 
 ## Transcript
 
-### 00:00:01 · On-screen text
+### On-screen text
 
-skil · &HOW TO DELIVER A
+skil HOW TO DELIVER A
 
-### 00:00:03 · On-screen text
 
-'KILLER' PRESENTATION
+ KILLER PRESENTATION
 
-### 00:00:08 · On-screen text
 
 thills
 
-### 00:00:16 · On-screen text
 
-,vK/X/¥/
+ vK by X
 
-### 00:00:32 · On-screen text
 
 Explain1 message per slide

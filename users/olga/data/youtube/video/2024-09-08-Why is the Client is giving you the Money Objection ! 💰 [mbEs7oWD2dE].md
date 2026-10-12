@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Why is the Client is giving you the Money Objection?! 💰
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-Guys, there's only two reasons someone's gonna think it's too expensive. One reason is they really don't have the money or they don't have the money now or they don't have the money in that amount and the other reason is the value that you've put into this
+Guys theres only two reasons someones gonna think its too expensive One reason is they really dont have the money or they dont have the money now or they dont have the money in that amount and the other reason is the value that youve put into this
 
-### 00:00:19 · Speaker 1
 
 Offer is not enough in the mind of the client to match the price

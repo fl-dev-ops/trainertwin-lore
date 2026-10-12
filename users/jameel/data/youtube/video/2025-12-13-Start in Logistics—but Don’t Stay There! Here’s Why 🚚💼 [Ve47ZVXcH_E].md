@@ -12,9 +12,10 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Start in Logistics—but Don’t Stay There! Here’s Why 🚚💼
 
 
 ## Transcript
 
-The third vertical in supply chain is logistics. So if you are a warehouse coordinator or you're working in a warehouse or in a trucking company, this is for you guys, right? So this is the vertical in supply chain where you fit. But once again, doesn't mean that you should stay here forever. One of my key advice to people, especially who are working in logistics and transportation, is that it's a great place to start your supply chain career, but don't stay there forever. uh because not only these logistics jobs are generally less paid to be very honest with you but you can really capitalize on that experience that you have gained by moving to other functions so
+The third vertical in supply chain is logistics So if you are a warehouse coordinator or youre working in a warehouse or in a trucking company this is for you guys right So this is the vertical in supply chain where you fit But once again doesnt mean that you should stay here forever One of my key advice to people especially who are working in logistics and transportation is that its a great place to start your supply chain career but dont stay there forever uh because not only these logistics jobs are generally less paid to be very honest with you but you can really capitalize on that experience that you have gained by moving to other functions so

@@ -11,18 +11,17 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # If he is saying - I just want to invest - Do not take it as an answer!
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-If you're not doing this thing there is no no point to move forward if you if they're giving you I just want to invest
+If youre not doing this thing there is no no point to move forward if you if theyre giving you I just want to invest
 
-### 00:00:08 · Speaker 1
 
-And you're just like okay fantastic he wants to invest and you're just like jumping up and
+And youre just like okay fantastic he wants to invest and youre just like jumping up and
 
-### 00:00:14 · Speaker 1
 
-then he's gonna stop responding to you because he doesn't see the value
+then hes gonna stop responding to you because he doesnt see the value

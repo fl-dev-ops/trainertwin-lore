@@ -12,14 +12,14 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # Do you have learning agility? #shorts #softskills #learningagility #criticalthinking
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
-SOFT SKILLS MODEL · LEVEL 2 · LEARNING AGILITY · Finding yourself in a new situation and · not knowing what to do but havlng the ij · ablllty and resources to figure It out · more about thls skill
+SOFT SKILLS MODEL LEVEL 2 LEARNING AGILITY Finding yourself in a new situation and not knowing what to do but havlng the ij ablllty and resources to figure It out more about thls skill
 
-### 00:00:00 · On-screen text
 
 Subscrlbe to the Youtube Channel In the profile to learn

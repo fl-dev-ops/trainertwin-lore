@@ -11,14 +11,14 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Worth it? From Salary to Commission only!
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-You show me a way to think differently about about everything about how to like pitch things how to sell you give me really practical uh like exercise that I start implementing role play is amazing for me because I really get to to know what I'm doing wrong and how I should do things better the next time you know I think you reach a point that you're not scared anymore because you have answered to every single objection every single thing that people throw at you a big goal in the company where I am it's like we want
+You show me a way to think differently about about everything about how to like pitch things how to sell you give me really practical uh like exercise that I start implementing role play is amazing for me because I really get to to know what Im doing wrong and how I should do things better the next time you know I think you reach a point that youre not scared anymore because you have answered to every single objection every single thing that people throw at you a big goal in the company where I am its like we want
 
-### 00:00:30 · Speaker 1
 
-to reach one million net per agent. So that's what we're trying to to reach.
+to reach one million net per agent So thats what were trying to to reach

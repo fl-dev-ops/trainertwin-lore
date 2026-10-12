@@ -13,34 +13,29 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # How to deal with nasty emails? #shorts #softskills #jobsearch #careertips #careerdevelopment #short
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
-Have you received a nasty · don't teach in collegel
+Have you received a nasty dont teach in collegel
 
-### 00:00:00 · On-screen text
 
-Soft Skills Channel"
+Soft Skills Channel
 
-### 00:00:02 · On-screen text
 
-Don't worry.
+Dont worry
 
-### 00:00:08 · On-screen text
 
-Tip#1: Don't Reply Immediately
+Tip 1 Dont Reply Immediately
 
-### 00:00:08 · On-screen text
 
-don't teach in ￿11￿.
+dont teach in ￿11￿
 
-### 00:00:09 · On-screen text
 
-.Tip#2: Gather Facts
+ Tip 2 Gather Facts
 
-### 00:00:12 · On-screen text
 
-Tip#3: Call the person who sent the |
+Tip 3 Call the person who sent the

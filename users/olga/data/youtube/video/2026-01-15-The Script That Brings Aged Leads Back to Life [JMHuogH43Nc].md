@@ -12,26 +12,26 @@ speakers:
   speaker_1: Speaker 2
 ---
 
+
 # The Script That Brings Aged Leads Back to Life
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
 How to approach an aged lead
 
-### 00:00:03 · Speaker 2
+### Speaker 2
 
-I can say hi um if it's there is no name hi uh Olga here um from XYZ company seems like some time ago you were potentially considering do you see how neutralizing I'm language
+I can say hi um if its there is no name hi uh Olga here um from XYZ company seems like some time ago you were potentially considering do you see how neutralizing Im language
 
-### 00:00:15 · Speaker 1
+### Speaker 1
 
 Oh you look
 
-### 00:00:15 · Speaker 2
+### Speaker 2
 
-to us are potentially considering then I'm gonna say have you found what you're looking for or you completely gave up on the idea of making money in Dubai real estate because no one wants to completely give up on the idea of making money so that's gonna give oh no I'm not completely give up so what we are looking for we are looking for the vital sign from that lead it's an old lead age lead we are looking for the vital sign looking for or you completely gave up on the idea of making money
+to us are potentially considering then Im gonna say have you found what youre looking for or you completely gave up on the idea of making money in Dubai real estate because no one wants to completely give up on the idea of making money so thats gonna give oh no Im not completely give up so what we are looking for we are looking for the vital sign from that lead its an old lead age lead we are looking for the vital sign looking for or you completely gave up on the idea of making money
 
-### 00:00:45 · Speaker 2
 
-in Dubai real estate because no one wants to completely give up on the idea of making money so that's gonna give oh no I'm not completely give up so what we are looking for we are looking for the vital sign from that lead it's an old lead age lead we are looking for the vital sign
+in Dubai real estate because no one wants to completely give up on the idea of making money so thats gonna give oh no Im not completely give up so what we are looking for we are looking for the vital sign from that lead its an old lead age lead we are looking for the vital sign

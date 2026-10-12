@@ -13,18 +13,17 @@ speakers:
   speaker_0: On-screen text
 ---
 
+
 # How to give feedback-Tip2  #feedbackmatters #feedbackmanagement #developmentprocess #softskills
 
 ## Transcript
 
-### 00:00:00 · On-screen text
+### On-screen text
 
-Tok HOW TO GIVE FEEDBACK · TIP2
+Tok HOW TO GIVE FEEDBACK TIP2
 
-### 00:00:01 · On-screen text
 
-ALIGN FEEDBACK · WITH BUSINESS
+ALIGN FEEDBACK WITH BUSINESS
 
-### 00:00:01 · On-screen text
 
 GOALS

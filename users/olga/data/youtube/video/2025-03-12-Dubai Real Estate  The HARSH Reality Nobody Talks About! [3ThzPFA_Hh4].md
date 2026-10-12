@@ -11,10 +11,11 @@ speakers:
   speaker_0: Speaker 1
 ---
 
+
 # Dubai Real Estate: The HARSH Reality Nobody Talks About!
 
 ## Transcript
 
-### 00:00:00 · Speaker 1
+### Speaker 1
 
-But Dubai was based on data the most challenging one in the whole world. So I thought to myself if I make it there I can make it anywhere because I was not selling. I don't even put the time before our coaching as the time I was in real estate I was in dreamland.
+But Dubai was based on data the most challenging one in the whole world So I thought to myself if I make it there I can make it anywhere because I was not selling I dont even put the time before our coaching as the time I was in real estate I was in dreamland
