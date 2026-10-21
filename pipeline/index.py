@@ -60,6 +60,8 @@ def _tc_to_ranges(lines: list[str], timecodes: list[tuple[int, int]]) -> list[tu
     turn_pat = re.compile(r"^### (\d{2}:\d{2}:\d{2})")
     turns = [(i, _to_seconds(m.group(1))) for i, line in enumerate(lines, 1) if (m := turn_pat.match(line))]
 
+    if not turns and any(re.match(r"^### Speaker [1-9]\d* · ", line) for line in lines):
+        return []  # Untimed transcripts cannot be aligned to description chapter times.
     if not turns:
         # No transcript — use timecode lines directly as boundaries
         positions = [tc[0] for tc in timecodes]
@@ -184,7 +186,8 @@ def has_list(text: str) -> bool:
 
 
 def sections(lines: list[str]) -> list[tuple[int, int]]:
-    turns = [i for i, line in enumerate(lines, 1) if re.match(r"### \d{2}:\d{2}:\d{2}", line)]
+    turns = [i for i, line in enumerate(lines, 1)
+             if re.match(r"### (?:\d{2}:\d{2}:\d{2}|Speaker [1-9]\d* · )", line)]
     if len(turns) < 8:
         return []
     groups = [turns[i : i + 6] for i in range(0, len(turns), 6)]
@@ -223,7 +226,9 @@ def accept(lines: list[str], raw: dict) -> list[dict]:
             start, end = int(span["start_line"]), int(span["end_line"])
         except (KeyError, TypeError, ValueError):
             continue
-        if not title or _bad_title(title) or not (1 <= start <= end <= len(lines)) or end - start > 100:
+        start = max(1, min(start, len(lines)))
+        end = max(start, min(end, len(lines)))
+        if not title or _bad_title(title) or end - start > 100:
             continue
         quote = " ".join(line.strip() for line in lines[start - 1 : end] if line.strip() and not line.strip().startswith("###"))
         quote = " ".join(quote.split())

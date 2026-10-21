@@ -1,0 +1,55 @@
+---
+id: r9pItgFYZh0
+title: '3 Levels of Listening: How Great Leaders Listen, Understand & Connect | Antoni
+  Lacinai'
+date: '2026-10-08'
+url: https://www.youtube.com/watch?v=r9pItgFYZh0
+description: 'Most people listen to respond. Great leaders listen to understand.
+
+  In this video, Antoni Lacinai explains the 3 levels of listening and why mastering
+  them can dramatically improve your leadership communication, employee engagement,
+  and relationships at work.
+
+  You’ll learn:
+
+  Level 1: Waiting Line Listening — listening only until it’s your turn to speak.
+
+  Level 2: Active Listening — understanding what someone means, asking clarifying
+  questions, and checking your understanding.
+
+  Level 3: Global Listening — noticing verbal, nonverbal, emotional, and intuitive
+  signals to understand what someone really means.
+
+  Why stress can shut down your ability to listen effectively
+
+  How listening builds empathy, trust, and stronger connections
+
+  Why giving someone your full attention can be one of the most powerful gifts you
+  give them
+
+  As Antoni shares from his own experiences, even experienced communicators can fail
+  when they listen too shallowly.
+
+  If you''re a leader, manager, executive, or professional who wants to communicate
+  with greater impact, learning to listen better is where it starts.
+
+  Subscribe for practical insights on leadership communication, employee engagement,
+  strategic communication, and high-performance teams.
+
+  #LeadershipCommunication #ActiveListening #ListeningSkills #Leadership #CommunicationSkills'
+author: antonilacinaikeynotespeaker
+model: gemini-2.5-flash
+transcript: true
+speaker_count: 1
+speakers:
+  '1': Speaker 1
+---
+
+
+# 3 Levels of Listening: How Great Leaders Listen, Understand & Connect | Antoni Lacinai
+
+## Transcript
+
+### Speaker 1 · Speaker 1
+
+There are three levels of listening and most people never reach level three Let me give you a couple of examples of when you listen on a too shallow level For instance in my case as a global keynote speaker half of my time when Im not doing communication coaching Uh this was in the beginning of the pandemic like a year into the pandemic and I got this client who said we need we need to be much more engaged in our virtual conversations And I said fine lets talk more Tell me what what is it like now And she told me a lot of things and one of the things she said is well well never have the video on of course Dont know really how to do that And then she moved on And that little sentence in itself was enough I stopped listening And then I realized oh my God I need to start from like basic level in order to go go forward from there And I gave a speech to them two weeks later It was actually a pretty good speech The performance was good But it was the wrong speech They were much more advanced than I thought because I only listened to that one sentence Perhaps its a sentence that made sense to me but it didnt make sense for them So they were really not very happy This is one of the very few times in my 20 years of of speaking that I failed I absolutely failed And I just didnt listen well enough Another example from way back in the days when I was employed myself and wanted to ask my manager a question Halfway through the question I got a response Of course it was a wrong response but the manager was so stressed that she just blurted out something to move on And I said stop stop stop stop stop stop Let me try again And I tried again Same thing I tried a third time Same thing At this point Im boiling over so Im saying you know what I need you to just be quiet and listen to the whole sentence the whole question And then why dont you take a micro pause and then answer the question Needless to say we were not in very good agreement We didnt like each other after that Actually I do like her a lot but at that point we were not very happy with each other Those are examples of poor listening skills And unless you want to I mean if you want to be clear you need to also be able to listen first So in this video Ill explain the three levels of listening And if we have time at the end Ill also explain the three different types of questions you can ask in order to listen But lets take them one at a time Level one you listen in order to respond not to understand This is like the cardinal error that you should not make Sometimes we say that you just wait for your turn to speak So this listening level the most shallow of the levels is called waiting line listening Wait in line listening Of course you can understand immediately its not very good This is when you almost are to the point where you register sound waves without really caring for them unless a keyword comes in and that keywords is enough Oh you said efficiency Now let me talk about everything I know about that Well of course this is poor listening which means that your explanations will be poor because you havent listened And it just ruins it for everyone If youre a leader listening on that level oh my God will you have disengaged employees Do better And by the way when we listen on this level its basically because were so much in our own head and were also very stressed The kind of stress that we call distress not your for stress Actually you dont listen very well when you have your for stress either but distress definitely Stress is the motivational killer and its also what shuts down your ears You need to be more open and more calm and present when you listen The second level of listening is what we can call active listening This is really good because now you listen to the whole sentence You can even ask clarifying questions You you really detect what they mean not only what they say but what they mean You have a much better way of listening And I urge you if youre not on that level to to get to that level Level two is solid Its decent Now youre doing things right An example of that could be that you you hear somebody say something and you say what do you mean with that What do you mean by that Can you give me an example of that and so on So that you also ask clarifying questions which is really good because now you understand it better And then you can you know feedback it back like loop it back Okay do I understand you correctly This is what you mean Again way better There is actually a third level which is even more profound even better and thats sometimes called global listening Its when you detect things that is more intuitive Its easiest if you have somebody in front of you because now you can detect verbal and non verbal clues What is the hesitation going on here Why are you looking away Why are you smiling at this particular occasion What makes you lean forward or lean back or look at your watch or something like that So you get all sorts of clues by the non verbal communication also how they sound So theres not only the words the content but its the whole framing around it that really makes you understand what they mean and not only what they say So you can still ask the clarifying questions but you can also add things like it seems to me that youre troubled by this Or you can say it looks like youre really passionate about this And so on So you validate or you probe and you get more and more information if you do it this right This is when people say oh my God shes such a good listener Or hes hes awesome Hes so present when I speak Because listening is a gift Its a gift of time and attention You will never get that time back I remember at one point in my life I was moderating a sales conference and it was a dinner and then it was an award ceremony I was supposed to handle the award ceremony as well so I stayed for dinner And next to me sat this man that I can only describe with a color Gray Everything about him was gray His hair was gray his beard like me His skin was gray his his clothes were gray My God he looked so boring But I of course said to myself come on Anthony its so easy to ditch them and just talk to other people because Ive done that so many times No lets be interested here instead Interested instead of interesting Big difference here So I started to ask him just a few questions What are you passionate about What do you do when youre not at work for instance He kept talking for 45 minutes straight He became all the colors in the world and he was really interesting to listen to He talked about how he helped kids who had troubles at home with alcoholic parents and things like that and how he helped them to to to build them up and and support them and so on It was fantastic And I would have missed all of that if I didnt just give him the time After 45 minutes I had to take care of the award ceremony So I stood up He stood up He shook my hand vigorously just before I after I said Im sorry I need to to take care of the award ceremony He just took my hand and shook it and then he said thank you for a great discussion I can tell you right now it wasnt a discussion It was something else It was me giving him the gift of listening You have experienced this as well when people are truly present and listen to what you say Its an amazing feeling Because what is the number one thing people want to talk about if they get a chance to Well its actually themselves Although when I asked a bunch of IT consultants when I had a speech recently they said oh its migrating systems Thats the most fun So we have nerdy topics all over the place I love nerdy nerds Its its so fantastic But no most of people want to just talk about themselves if they have a chance to So let them but also listen then with that intention of understanding and encouraging and supporting and so on They will love you for it if you do that right Now there are some pitfalls of course and that is when you listen no lets lets rewind that one Empathy is a lot about listening using the opportunity to understand another person So thats the superpower of empathy Not only do you wish them well which is also compassion but you also really really curious about them and where they are Because then its easy for you also to lead them properly when you have messages to send yourself I think in the next video well talk a little bit about asking the right kind of questions as well so that its easier for you to listen

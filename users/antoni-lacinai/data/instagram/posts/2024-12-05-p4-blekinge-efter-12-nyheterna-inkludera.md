@@ -1,0 +1,13 @@
+---
+id: '3516299369890117423'
+type: reel
+date: '2024-12-05T10:46:48.000Z'
+url: https://www.instagram.com/p/DDMZ6WSOvcv/
+likes: 20
+comments: 0
+views: 413
+videoUrl: https://instagram.fbri2-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPeA2vzC_kNY4y_c60AT9xY2DzPHSUnHeXwTuvnpV8aeh6MIG7E9amlkSnzfQV3GTg1dzKaqxN5VPaVy8sH5VMMEQjwv4u_5TPeBYY.mp4?_nc_cat=101&_nc_oc=Adpgp4rniI6HRcPsLvrbK3ihjOJCn5R7psdI_UznQ6pxI24XsIcJnrN3V1-OYq2ADOI&_nc_sid=5e9851&_nc_ht=instagram.fbri2-1.fna.fbcdn.net&_nc_ohc=0nZJdiUxJqEQ7kNvwGBqLLT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6OTgwNTI5MTIzOTA0NjU3LCJhc3NldF9hZ2VfZGF5cyI6Njg0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=a2846f6f38e1f8b4&_nc_vs=HBkcFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMDRDQjg0OTg4Q0FEQkZEOTZGRDU2OUYxQkZFNzVBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmorL6oafyvQMVAigCQzMsF0AQAAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHX-B2XmnQEA&_nc_gid=JGugiPIQQtYJJVqfOIXhfw&_nc_ss=70a8c&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMCaH-Q77JNLXHAfyB1cMswo9N8VK7V4VAva68ajODdrg&oe=6ADA2ABE
+---
+
+## Caption
+P4 Blekinge. Efter 12-nyheterna. Inkludera mer. Isolera mindre

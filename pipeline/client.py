@@ -102,8 +102,9 @@ class OpenRouter:
         self.last_usage: dict[str, Any] = {}
         self.spend_budget = None
         self.max_output_tokens = 16384
-        self.provider = None
+        self.provider = "Cerebras"
         self.reasoning_effort = None
+        self.temperature = None
         self.http = httpx.Client(
             base_url="https://openrouter.ai/api/v1",
             headers={
@@ -140,6 +141,7 @@ class OpenRouter:
                 ),
             },
             "max_tokens": self.max_output_tokens,
+            **({"temperature": self.temperature} if self.temperature is not None else {}),
             **(
                 {"reasoning": {"effort": self.reasoning_effort}}
                 if self.reasoning_effort

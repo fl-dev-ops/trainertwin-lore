@@ -17,12 +17,14 @@ ROOT = Path(__file__).resolve().parents[1]
 EXTENSIONS = {".md", ".markdown", ".txt", ".yaml", ".yml"}
 
 
-def model_client(model: str) -> OpenRouter:
+def model_client(model: str, provider: str | None = None) -> OpenRouter:
     load_dotenv(ROOT / ".env")
     key = os.getenv("OPENROUTER_API_KEY", "")
     if not key or not model:
         raise ValueError("Set OPENROUTER_API_KEY and --model")
-    return OpenRouter(key, model)
+    client = OpenRouter(key, model)
+    client.provider = provider
+    return client
 
 
 def selected_paths(root: Path, patterns, limit):
@@ -62,6 +64,7 @@ def cli():
     command.add_argument("--reasoning-effort", choices=("minimal", "low", "medium", "high"), default="low")
     command.add_argument("--include", action="append")
     command.add_argument("--limit", type=int)
+    command.add_argument("--provider", help="OpenRouter provider pin, e.g. Cerebras")
     command.add_argument("--dry-run", action="store_true")
     command.add_argument("--no-normalize", action="store_true", help="Skip automatic taxonomy normalization after indexing")
     command.add_argument("--max-usd", type=float)
@@ -195,7 +198,7 @@ def cli():
             mode, _ = plan(path.read_text())
             print(f"{path.relative_to(root)}: {mode}")
         return
-    model = model_client(args.model)
+    model = model_client(args.model, args.provider)
     budget = [args.max_calls]
     clients = [model]
     try:
@@ -206,7 +209,7 @@ def cli():
                 args.max_usd, args.input_price, args.output_price, workspace / "spend.json"
             )
         for _ in range(args.workers - 1):
-            client = model_client(args.model)
+            client = model_client(args.model, args.provider)
             client.max_output_tokens = model.max_output_tokens
             client.reasoning_effort = model.reasoning_effort
             client.spend_budget = model.spend_budget

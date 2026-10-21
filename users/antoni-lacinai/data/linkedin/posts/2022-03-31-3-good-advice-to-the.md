@@ -1,0 +1,33 @@
+---
+id: '6915236340687151104'
+date: '2022-03-31T10:00:22.498Z'
+url: https://www.linkedin.com/posts/lacinai_s%C3%A5-klarar-du-det-nya-hybridledarskapet-activity-6915236340687151104-PgFb
+likes: 22
+comments: 2
+article:
+  title: Så klarar du det nya hybridledarskapet - Chefstidningen
+  subtitle: chefstidningen.se
+  link: https://buff.ly/3tAbzSv
+---
+
+3 GOOD ADVICE TO THE HYBRID LEADER
+
+1. Gather all the employees in the office once or twice a week to build relationships and a strong We-feeling. If you have employees at a long distance, gather everyone at least once a year.
+
+2. Think "remote first" in hybrid meetings. Do everything to ensure that all meeting participants participate on equal terms.Hybrid is digital. 
+
+3. Be fair - all the time. No cookies or buns at the hybrid meetings to the in-office staff. It's unfair for the participants who are not in place. It's easy to end up favoring staff who are on site.
+
+#Hybridleadership #communication #engagement #futureofwork
+
+In the link you'll find an interview with me - in Swedish. Check it out if you want to know more, or get in touch with me and I'll give you more insights.
+
+### Shared Article: [Så klarar du det nya hybridledarskapet - Chefstidningen](https://buff.ly/3tAbzSv)
+> chefstidningen.se
+
+
+## Comments (1)
+
+### Emma Kirkman (Leadership Strategy | Culture | Transformation)
+> All three are excellent points - but have witnessed the awkwardness of the third one first hand!  I've heard of organisations who have cupcakes and refreshments delivered to those who are joining hybrid celebration meetings virtually. Not always a viable option but I think it's a wonderful consideration.
+

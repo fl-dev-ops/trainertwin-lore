@@ -1,0 +1,22 @@
+---
+id: RMeW298lwZI
+title: Three communication superpowers that helps you lead, serve and collaborate
+date: '2026-06-18'
+url: https://www.youtube.com/watch?v=RMeW298lwZI
+description: ''
+author: antonilacinaikeynotespeaker
+model: gemini-2.5-flash
+transcript: true
+speaker_count: 1
+speakers:
+  '1': Speaker 1
+---
+
+
+# Three communication superpowers that helps you lead, serve and collaborate
+
+## Transcript
+
+### Speaker 1 · Speaker 1
+
+I have spent more than three decades looking into the mysteries of human communication And I have found three communicative superpowers If you master them you will build better relationships you will create a better impact and you will actually be more charismatic at the same time So what are they The three communication superpowers are here Energy so that people believe that you believe Why should they if you dont Energy is mostly visible in your non verbal communication that is how you look and how you sound And it acts like a magnet We are drawn to people with energy Empathy so that people feel that you get them that you care that youre interested instead of interesting And then clarity so that they get you So that whatever you say is understood and also that they remember what you say People cannot act on what they dont remember So make sure that that youre also memorable in your content Now which one of them is the most important one Which one of them is priority number one Well according to me its one and its the one in the middle Its this one Empathy Empathy first Basically heres goes If you have empathy first you understand who you speak to If you do that you can then tailor your message so it works well which means that you are clear in your message And then you can deliver it with the right energy Thats the flow Now most of us are comfortable in one of them We might be very good at energy or empathy or clarity But the trick here is to make sure that you are on par with each one of them so that nothing lacks behind If youre only strong in one its not enough For instance if all you have is energy but you lack clarity well then you become a clown I dont think that thats what you want If you only have empathy but you lose energy well then you might be a therapist but nothing will happen And if you have clarity but no empathy then you might be a psychopath or at least insensitive to other peoples feelings So make sure that you have a good balance of all three Youll be in a much better shape From a leadership perspective if you have high level of empathy in the in the leaders then you will have high level of engagement among the employees about 70 percent actually compared to only 20 percent as the Gallup studies shows On the other hand if you have high energy and high clarity when you communicate yourself you will also get an effect of about 70 percent engagement compared to zero if you have low energy and low empathy low clarity So here are here they are the three communication superpowers And if you do them well you will shape other peoples behavior And if you shape this behavior they will drive the result to what you want So communication shapes behavior behavior drives results If you want good results start with the three communication superpowers
