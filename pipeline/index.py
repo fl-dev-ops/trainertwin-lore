@@ -227,8 +227,8 @@ def accept(lines: list[str], raw: dict) -> list[dict]:
         except (KeyError, TypeError, ValueError):
             continue
         start = max(1, min(start, len(lines)))
-        end = max(start, min(end, len(lines)))
-        if not title or _bad_title(title) or end - start > 100:
+        end = max(start, min(end, len(lines), start + 99))
+        if not title or _bad_title(title):
             continue
         quote = " ".join(line.strip() for line in lines[start - 1 : end] if line.strip() and not line.strip().startswith("###"))
         quote = " ".join(quote.split())

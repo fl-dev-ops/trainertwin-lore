@@ -1,0 +1,182 @@
+---
+id: tAgzxMAiuiU
+title: The BEST tip to help you shine at WORK | The Power of Small Talk | The Non-Native
+  Leader | Episode 2
+date: '2023-10-17'
+url: https://www.youtube.com/watch?v=tAgzxMAiuiU
+description: 'How do we make sure we build strong relationships at work? What''s the
+  best strategy?
+
+
+  Today I talk to Jonathan Mascaro, Manager, Investigator Payments at Icon about the
+  power of small talk and much more.
+
+
+  👉Linkedin: https://www.linkedin.com/in/daniele-ponzo-8548164/
+
+  👉Book a free chat with me: https://calendly.com/daniele-ponzo/english-for-it-chat
+
+  👉Get my FREE eBook: https://solutionspeak-coaching.ck.page/c268ccf37f
+
+  👉Check out my profile on GUMROAD: https://danieleponzo.gumroad.com/
+
+
+  Every week we''ll talk to remarkable individuals who, as non-English speakers, have
+  achieved extraordinary success on the global stage.
+
+
+  In each episode, we''ll explore the journeys of these incredible leaders.
+
+
+  We’ll talk about their challenges and their feelings.
+
+
+  And we’ll discuss the strategies that can lead to international success.
+
+
+  Music credits: Riccardo Frosoni and Giuliano Frammartino'
+author: DanielePonzo
+model: gemini-2.5-flash
+transcript: true
+speaker_count: 2
+speakers:
+  '1': Daniele Ponzo
+  '2': Jonathan Mascaro
+---
+
+
+# The BEST tip to help you shine at WORK | The Power of Small Talk | The Non-Native Leader | Episode 2
+
+## Transcript
+
+### Speaker 1 · Daniele Ponzo
+
+Hey and uh welcome to another episode of the non native leader Uh a podcast video podcast series where we talk to different uh leaders from various industries and people who have had an international career and but are not native English speakers Uh the idea is to inspire to talk about their stories to talk about their career to talk about their skills and maybe some interesting you know facts about their lives and uh how they have achieved what they have achieved Again the hope is to inspire and see that you know uh it is possible You can travel around you can be you can stay in your own country Doesnt matter So today with me I have Jonathan Mascaro from Argentina Uh but hes not living in Argentina at the moment but hell give us the details Um I thought it was interesting talking to Jonathan because he has covered different roles He has had a very long international career Uh I dont want to give too much information but Im sure he will give us some interesting details and uh Im quite sure this is going to be a very nice chat Um so without further words Id like to introduce Jonathan and Jonathan if you dont mind just give us a quick introduction on who you are what you do and yeah
+
+### Speaker 2 · Jonathan Mascaro
+
+Hi Daniele Thank you so much for having me in your podcast and hello everyone My name is Jonathan I was born in Argentina and Ive been living in Dublin for 18 years now Um actually my international career started when I was a teenager I lived in Canada as an exchange student which kind of opened my mind more to the hope and my dream of traveling uh around the world Um one of my dreams was first to go to Italy and learn proper Italian So before moving to Ireland uh as you know Daniele I lived in Italy for four years So actually my first international uh experience working in my professional career happened in Italy Um and then I moved to Ireland in 2005 where uh I started working uh for a global corporation in which I had the opportunity to work with you And Ive been working mainly in the tech industry for the past 18 years Just recently changed industry So I worked for a few tech companies in different roles As many people moving over here I started in a customer support type of role then moved into a more senior role supply chain sales operations Then I got the opportunity to start managing teams uh changed career a little bit Uh I went to uh different courses here in Dublin Business School in Dublin uh to learn more about uh project management cloud computing That was quite aligned to what I wanted to do Um so recently in the past four months I started a new job and Ive been managing a global team that looks after payments uh for global accounts So thats in a nutshell what Ive been doing for the past 18 years
+
+### Speaker 1 · Daniele Ponzo
+
+Quite amazing Jonathan Quite amazing I have to say So yeah I love the fact that you have switched you know between uh roles and some somehow even industries you know I mean you said it mainly tech mainly IT but you know from different aspects you know from order management to team management So really really interesting And I also love the fact that you have been studying in uh in in Dublin in Ireland So you know you have been able to follow courses and you know like improve uh your uh your abilities you know And thats thats really great And I mean moving on from this uh Id love to ask you what what do you think has been the main challenge for you in your career abroad
+
+### Speaker 2 · Jonathan Mascaro
+
+I think that the the main challenge happened later in the career when I wanted to grow more At the beginning when you are starting a few roles and in the more junior roles youre excited you want to learn you want to do things and youre not thinking in the long term But uh as you get a bit older and you want to improve your career you want to improve your salary you want to improve even to overcome some obstacles or challenges and you want to challenge yourself The first thing that comes to my mind was overcoming the imposter syndrome right Both because
+
+### Speaker 1 · Daniele Ponzo
+
+Big big monster
+
+### Speaker 2 · Jonathan Mascaro
+
+Exactly We are from abroad or even you were saying at the beginning you know you might want to work in your country But uh in todays world if youre working for a company or even the way that youre working now you still connect around the world So youre still global And even if youre working in your country youre might be working for a global project in which you need to speak different languages So the imposter syndrome comes when you say okay English is not my native uh language for example So maybe somebody else whos a native speaker and speaks more fluently will have more chances Um so it took me a while to overcome those challenges of saying Im not going I dont feel ready to apply for this role Into overcoming that gap and actually going for the role because I felt ready because I was uh you know as you were saying as well studying not only in a in a school but also in some of the companies that you can work for you can benefit uh from the trainings and uh courses that you can do in those companies So by doing that and with the passage of time and also uh learning different languages uh I was able to say okay yeah now I feel ready Um you know sometimes learning about the local slang learning about the city the culture it helps you to connect more uh with the people and feel more uh well what is now called it used to be called diversity and inclusion now its called diversity and belonging So the term of belonging not only to the company but to the local area As you know by working in Ireland uh you connect and people love chatting as well Its not only about work but building those relationships And if you want to build relationships its also with your colleagues with your management with the people that report to you And if you can speak in their local dialects in their local language in the slangs um it really helps you to overcome those challenges and as well as I was saying that imposter syndrome uh that I used to have and I still might sometimes have it you know now that I changed industry that I changed job a few months ago you know those things might come back because Im starting a new industry moving from
+
+### Speaker 1 · Daniele Ponzo
+
+For sure
+
+### Speaker 2 · Jonathan Mascaro
+
+uh IT um to pharmaceutical for example its a complete different environment as well So sometimes you doubt yourself but uh you need to work on that You work on the communication and then that helps you to overcome those challenges
+
+### Speaker 1 · Daniele Ponzo
+
+Thats great Yeah Yeah thats thats actually thats quite interesting because you mentioned some key aspects Uh you mentioned relationship you mentioned somehow confidence you know I mean Ive seen it uh throughout my career in my experience the the when you build relationship you know its things really change And maybe as you were saying relationship with your boss with your colleagues but thats thats one of the keys you know And thats what uh somehow we try and develop which is the small talk you know when you become like a master in small talk And then you find you can build very good relationships uh which is really amazing And then obviously you know as a consequence you uh build up more confidence you uh really connect with people and that obviously helps from a human point of view so that you like become uh a better version of yourself and also from a professional point of view because you know it helps with your career And you are the living proof that this is this is the fact the reality
+
+### Speaker 2 · Jonathan Mascaro
+
+And also you were saying about the small talk is like um people sometimes take it for granted they think that it could be superficial but its actually the other way around Its how you create a connection even with the in an elevator even when you meet somebody when you go for coffee on a break you know that you know you show that you care about people that you you know you remember their name you ask their questions you know where theyre from You can speak on their even if youre working in a global project again or company or abroad Uh if you know their language or here in Ireland as an example uh you know theres some sort of terms when people ask you how are you Somebody in Dublin might say hows it going right And uh those sort of things might not happen if youre working in um I dont know in New York or London Uh so thats why communication is key and as well making that effort of learning how people communicate uh in the country that youre going to its very important
+
+### Speaker 1 · Daniele Ponzo
+
+Yes Amazing Yes I I love it Yeah So I just to the context And just to go a little bit uh like a step to take a step back So you mentioned you know at the beginning things werent so easy Um so like how would you say which would you say was your dominant emotion at the time So how were you feeling really
+
+### Speaker 2 · Jonathan Mascaro
+
+Its a certain sort of uh uncertainty uh and that feeling that you get that okay am I going to be doing this for the rest of my life Is this my job and thats it Am I going to grow Can I become a team manager Or maybe you dont want like not everybody has to become a manager and thats something that I try to uh train the teams that Ive been working for in the past few years the teams that I manage You need also to think like what do you want in your career because not everybody wants to be a manager and manage people and look after people and getting a call one day by somebody in your team telling you that theyre feeling unwell and that theyre not going to work or that they need advice Maybe somebody wants to become a project manager or they want they feel more comfortable to work on their own So its finding your own direction and dont just adjust to something because you need to grow because everybodys growing Sometimes you want to become an analyst right Um and you want to sit all day doing reports You still will need to communicate at a certain extent but differently than if you were in a communication type of role So so going back to that um I think that yeah that sort of uh thinking and looking into my career on a um kind of a project plan like career plan right Sitting even back then with my former management saying okay where do you want to be in six months time or in one year time or even in two years time Maybe it will take you one year to get or two years doesnt matter how long uh to get where you want to be and which gaps do you need to which skills you need to have first and which gaps you need to fill in to reach Maybe you have a lot of those skills already and some others need to be developed So thats when training and development that you were mentioning earlier comes to place as well So uh but that was the main fear at the beginning but then learning how to switch that around and understanding where I wanted to go and how to fill those the gap in order to reach that goal
+
+### Speaker 1 · Daniele Ponzo
+
+Nice So going from a position of fear to a position of you know empowerment and being able so being helped because you mentioned for example your boss your one to one So going from being helped to actually helping people develop This is this is quite impressive I think And this actually clearly demonstrates how you can you know start from a position of uncertainty fear and move on to a position of confidence and you know being comfortable in an international environment for example And so this is this is really like an impressive an impressive switch you you have you have done Jonathan which is uh you know fair play to you It is it is really it is really impressive
+
+### Speaker 2 · Jonathan Mascaro
+
+Actually what I was thinking when were talking about uh this as well is um what actually helped me to go through that um believe it or not was actually going taking a step back in my career Because uh years ago before the pandemic um I was going through a company acquisition so you know I had to leave the role that I was working on Um I was supposed to go back I was uh to a role that I was before in another company That didnt happen Then COVID and the pandemic came along which we were not expecting Um so I found myself for a few months uh looking for a job not knowing what was going to happen And with the uncertainty of the pandemic as well and not having the job offer that I wanted I decided to take a job offer that was completely different to what I was doing for the previous six to eight years And I took a step back in my career So I went back to uh entry level job uh as a customer support analyst So okay Im going to take this as a new challenge to learn a different type of role Again uh I started working in the cryptocurrency industry Uh and thats actually what actually had uh jump start my career again Because going with all the knowledge that I gained from sales operations from from communications role gave me the opportunity to learn things faster and then as the team was growing quickly become a team manager then a senior team manager uh then I had the opportunity to work in HR projects for about six months So actually the fact that two years before that I took a step back uh reduced of salary reduced of job title actually brought me back to what I actually wanted to be Um I think that that was very important So uh another piece of advice sometimes uh we might be taking over you know with the job titles Like now job titles are so important If you look online everywhere
+
+### Speaker 1 · Daniele Ponzo
+
+They are They are but yeah
+
+### Speaker 2 · Jonathan Mascaro
+
+Everyone has an like important job title But uh dont look for the job title look for what uh you find fulfillment and what you want to achieve Its going to be more important thats whats going to bring you to what you actually want to do instead of job title just because uh job title has the name manager on it It doesnt mean that youre going to manage people or if its senior or if its something that sounds like amazing and promising If the description and what youre going to do on a daily basis is not what you really want youre not going to be fulfilled and happy So look more for the fulfillment of the day to day than the actual uh job title
+
+### Speaker 1 · Daniele Ponzo
+
+Yeah Its a great piece of advice Jonathan I mean Ive seen it many times that people you know look for perfection you know I need to have perfect language I need to have perfect skills I need to have perfect job title But you know if you keep on you know postponing because youre looking for perfection youre never going to to bloom in a way So yeah you you really said it well there So it is it is great I mean obviously everybody wants a great job role but I mean ultimately its about learning about being comfortable in a role and about you know as I as I said earlier blooming in a in a position So and I mean as as you said you were able you know thanks to this step back that maybe you took four steps forward later on in your career which is which is quite impressive Id say And I mean when you look back you know at your career youve had a lot of roles and different industries So what was really the turning point for you
+
+### Speaker 2 · Jonathan Mascaro
+
+One of the turning points was definitely that step back in my career Um or yeah probably we should stop saying like steps back or steps forward because you know uh its sometimes its like the stock market and a career is not supposed to be always going up Sometimes it could go up and down and make changes Um the other one um I think in a in an industry in which if you look back on time like uh many years ago it used to be more common for people to stay in a company for a long period of time Um and nowadays the what is called the job hopping or changing jobs its more common now to stay in a job in a company for two three four years and then change Um I was guilty of this as well for a couple of years changing a couple of roles uh trying to find myself uh after two long experience in two companies Um but at the end of the day when you put everything together uh you know it sounds a bit like you know looking backwards like the uh Steve Jobs speech uh the famous one But uh how you connect those dots is true because a lot of the things that I learned even as a customer support analyst on my first role and then uh sales operations how you analyze dashboards reports and then brought that back into that role when I became uh customer support analyst again but with all the experience that I gained in so many years um that was definitely for me uh one of the uh turning points Um and the other one uh was what you were mentioning earlier like the not only the uh education that I could get here in Dublin Business School for example but also those internally in the companies So take advantage Even if its a language course for example you know you teach people how to communicate properly uh how to communicate professionally in English If somebody has this opportunity in a company regardless of their location of the region it could be in any continent but uh take advantage of that because youre learning in that company and it keeps tracks of what youre doing And a lot of the things that I do now uh in my job I learned them through all these job changes and the training that I got in these companies Obviously its about adding value You go to these companies to add value but now you can also bring value from these roles to yourself So its not just that youre going there to do a job from nine to five Think about what you can learn both professionally and technically in the roles uh that youre working on
+
+### Speaker 1 · Daniele Ponzo
+
+Wow Yeah amazing So I mean its really about learning learning new skills but also learning to communicate uh learning a new language but also learning you know the technicalities of that language So all these things really make do make a difference absolutely Uh thats thats pretty interesting So learning is the is the key we could say And I mean obviously your life has changed a lot uh since you started your your career your international career Um I mean what would be like one big difference for you now So how has your life changed when you look back and you look at Jonathan 20 years ago before starting an international career how has your life changed since then
+
+### Speaker 2 · Jonathan Mascaro
+
+Um professionally being more conscious about the impact that you can have uh on the people that you work with uh when you manage a team for example and even with the people that I used to manage I mean luckily Im still in touch with uh many people that I used to work with and they used to report to me and now I can see the growth in their career So for me that impact is the most fulfilling one at the moment even when I have somebody calling me for references or to tell me that they got a new job and thanking me uh for growing with me Uh so thats something that I could have never like if you ask me that question uh when we met 18 years ago I would have never dreamed or imagined um uh this could happen Um and the other one is obviously the the sense of uh responsibility uh obviously because uh now I have more responsibilities than 18 years ago when I had to wake up in the morning go to work answer phone calls or emails and as soon as the phone calls or the emails were finished my job was finished Uh now what has changed is uh working more in terms of uh projects and looking into the uh long term uh results of what Im doing So not getting lost uh just in the small details in the day to day but thinking long term and thinking in the projects as well
+
+### Speaker 1 · Daniele Ponzo
+
+Nice Okay wow Yeah responsibility thats thats a big one actually I mean its really
+
+### Speaker 2 · Jonathan Mascaro
+
+Yeah responsibility when you work with people for the people that you work with uh that you manage because when you manage people you look after them Its not that you go uh like and tell them what to do You work with them and help them to achieve and theyll help you So its the responsibility that you have towards your people and towards obviously towards the project or the company or even if its your even if its your own company You hire people to work with you So its okay how I help them Even if youre going to work with somebody for a short period of time it doesnt matter because as we were saying nowadays we dont work for a company for 10 years Some people might do and they feel happy and fulfilled thats amazing Some others stay three four years then they move on to a new project But the idea and the way that I see it now that maybe I didnt used to see it uh many years ago to answer your question is saying okay what can we achieve for the time that were going to be working together and how we can benefit each other from that experience
+
+### Speaker 1 · Daniele Ponzo
+
+Wow Yes absolutely And I mean we are drawing toward the end of our our chat So youre well settled now in Ireland and I know youre working a lot to you know build up this relationship between Ireland and Argentina which is something I really really appreciate I think its really its really great because it shows that obviously you have roots so youre still in love with your birthplace and at the same time you are well settled in a new reality uh in in Europe So this is this is a great mix I believe And so coming from this position where and I mean if you want to add obviously feel free if you want to add some details feel free to do it But like one or a few recommendations for people who want to have an international career like you So someone whos starting new maybe think about you know Jonathan 20 years ago So if you can talk back go back in time and talk to your younger self what would you tell yourself
+
+### Speaker 2 · Jonathan Mascaro
+
+Yeah probably the first one will kind of it would kind of sound coming out from a self help book you know and its about patience uh because when you hop into the onto the plane and youre going to travel you go with a lot of expectations and I think balancing um expectations but having high standards of things So uh assuming that you want high standards but uh look into the expectations because nothing is granted like you need to work for it And you need time you need patience And when you move abroad in some countries its going to be a bit difficult you know to find a comfortable place to live Your family is not going to be close to you anymore So maybe the friends that you meet will become your kind of local family For me after 18 years here many of my friends are like actually are like my family Uh many of them because I know them for a long period of time and now I live abroad more than I have lived in my actual home time So yeah I would say then patience and the other one that we were taking uh earlier like the other two things One is okay think in terms of what you want to achieve Take your time you know look where into where you want to live what do you want to do Even if you want to move somewhere and uh work in a company it could happen that maybe for the first six months youre going to work uh as a bartender or whichever job you find Or maybe you want to move somewhere to work as a bartender uh because in many in many countries theres a lot of opportunities and cocktails or as you know in Ireland in Dublin with the pubs uh its a great job to have and people love it and have fun and learn a lot of things And you also learn to socialize learn to talk in the language So many of my friends and I still have friends who work in uh the bar industry But go with a goal Just uh not just if you want to go and jump with a parachute its completely fine as well Its a choice But my advice after experience all these uh look into the areas know how much it will cost you uh you know save some money to live for the first three months at least so you know that you can sustain yourself uh pay for whichever rent youre going to pay Um meet local people and also people from your own culture is really important As you were saying earlier Im quite connected with the now with the Irish Argentinian community but I also have quite ties still with uh my Italian side with many of my Italian friends my Italian roots Uh and I love it and its another part of my uh life and family here Um Im quite connected to the now Argentinian Embassy we with a friend of mine we organize events to bring uh musicians from Argentina and Latin America So that helps to stay connected Um you cannot stay aside from who you were before You need to bring that with you because its also going to bring some culture and enrich other people uh who meet you So as as you know for example Dublin is a great example of how much the culture the culinary experience has changed in the last 15 years Also thanks to people like you like say many Italians Spanish French Indian uh Chinese Japanese And now you have so many options uh here to dine out that you didnt used to have uh many years ago Uh so bring that and as we were saying earlier learn some of the local slang Whatever youre going to go the slang is going to be different So practice a little bit you know with people like you that are teaching and helping people to evolve and learn the language Also with any YouTube channel that you can find and say okay what these expressions mean in Ireland or if youre going to the UK or Australia or Canada or whichever country you want to go and the language So if you practice a bit of that um and you can connect with the people and the culture that uh youre going to I think that if you go somewhere uh you need to find something that you like in that place Um I dont appreciate the fact of you know if youre going somewhere to complain or about the weather or about the food or about the culture just move out because youre not going to be happy The reason why I say
+
+### Speaker 1 · Daniele Ponzo
+
+Absolutely yeah
+
+### Speaker 2 · Jonathan Mascaro
+
+No its rather pointless yeah
+
+### Speaker 1 · Daniele Ponzo
+
+Youd rather pointless yeah
+
+### Speaker 2 · Jonathan Mascaro
+
+And you live here many years and you were happy and even to come back here for you and make you feel like home So even if your home and your family are always going to be your home and your family find that little home and family in the place that youre going to
+
+### Speaker 1 · Daniele Ponzo
+
+Absolutely Wow thats thats great Yeah I I love it Jonathan So the fact that go to a different place and you have a fantastic fireplace at your back So build you know that sense of home that sense of coziness and thats thats thats brilliant I think So I mean I I really really liked uh your approach So thats thats probably thats probably one of the best uh approach you can take Go to a place learn as much as possible learn to communicate build relationship and then you know the other things come pretty much as a consequence of this Um so fair play to you really And uh thats thats quite quite impressive as I said Um Jonathan look its been a pleasure Its been a pleasure talking to you and uh I hope I mean I Ive really enjoyed our chat Uh I think Ive learned a couple of things Uh which is which is always which is always good I think And uh so Ill um Ill uh be talking to you anyway because we are connected on LinkedIn and I see uh I keep on looking at your amazing content on Argentinian and Irish connection which is something I really really truly enjoy And uh yeah and I recommend everybody obviously to go and check Jonathans profile out because uh Im sure youre going to learn one things or two uh there
+
+### Speaker 2 · Jonathan Mascaro
+
+Yes If anyone from your audience want to chat with me uh just send me a message Tell me that youre one of Danieles friend so I can spot your message and respond to you Happy to connect
+
+### Speaker 1 · Daniele Ponzo
+
+Nice Thank you Jonathan Um its been a pleasure So thank thanks everybody for watching for sticking around and well come back with some more episodes and well come back with some more stories I do hope you find them inspiring and and I do hope youre learning something the same as I am learning now See you in uh the next episode and bye bye
+
+### Speaker 2 · Jonathan Mascaro
+
+Thank you Bye bye
+
+### Speaker 1 · Daniele Ponzo
+
+Bye Jonathan Take care Bye bye

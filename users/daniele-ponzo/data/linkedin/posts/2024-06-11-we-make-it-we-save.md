@@ -1,0 +1,59 @@
+---
+id: '7206241527411417088'
+date: '2024-06-11T10:31:05.628Z'
+url: https://www.linkedin.com/posts/daniele-ponzo_quick-guide-to-money-language-in-english-ugcPost-7205924322484326401-vMJE
+likes: 13
+comments: 1
+document:
+  title: Quick guide to MONEY language in English
+---
+
+We make it, we save it and we manage it.
+
+So, how do we talk confidently about it in English?
+
+
+We know it’s the one thing that makes the business world go round 🔁 .
+
+We say it talks, as power and influence descend from it.
+
+And time is often compared to it ⏰ .
+
+True, like the city of New York, it never sleeps.
+
+But, so they say, it’s the root of all evil today.
+
+One thing I’m sure about: it can’t buy me love ❤️ .
+
+Hoard? Squander? Greedy? Prodigal? We’ve got one thing in common:
+
+We’re all pushing and pulling great bags of gold💰.
+
+And our world today looks like the fourth circle.
+
+So, since they say, “a penny saved is a penny earned”🪙.
+
+Let me share my two cents in the carousel below 👇 .
+
+And next time, if you feel awkward and embarrassed to talk about it, it will not be because of the language.
+
+P.S. Curious to know:  Do you find it easy to talk about MONEY?
+
+__________
+
+Hi, I'm Daniele. I post about English communication, IT and (sometimes) Money.
+Like my posts? Follow or connect with me here➡️ Daniele
+
+Did you find this useful? Please repost 🔁 and help me spread some money (language).
+
+#EnglishTips #ITProfessionals #BusinessCommunication #LeadershipSkills
+
+### Shared Document: [Quick guide to MONEY language in English]()
+
+
+## Comments (1)
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> 📌 Scared of Business English? Fear no more!
+> https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-confidence-activity-7206890546554904577-oy2j
+

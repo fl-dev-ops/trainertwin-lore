@@ -1,0 +1,38 @@
+---
+id: '7209806256541229057'
+date: '2024-06-21T06:36:03.282Z'
+url: https://www.linkedin.com/posts/daniele-ponzo_irishenglish-language-culture-activity-7209806256541229057-80aQ
+likes: 8
+comments: 10
+---
+
+"Put the messages in the press"
+
+you're in Ireland, you hear this, what do you do?
+
+Quick tip: it has nothing to do with messages and nothing to do with a press.
+
+Without "Google", write your guesses below 👇.
+
+P.S. Irish friends, you're welcome to add ideas and (wrong?) suggestions, but please don't spoil it 🙂.
+
+Have fun!
+
+#irishenglish #language #culture
+
+## Comments (4)
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> Ok, here we are, for those of you who are interested, this Irish - English sentence literally means: 
+> "put the groceries in the cupboard". 
+> You can use it next time you travel to Ireland!
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> Not very successful... But I'm not going to give you the answer yet 🙂
+
+### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
+> Ooh I love quizzes! Does it mean "tell everyone"? Daniele Ponzo
+
+### Sinéad C. (Business English for Spanish-Speaking Professionals | Meetings - Interviews - Presentations | 1:1 Classes | Intensive Course | TESOL-Qualified English Teacher | BA & MA in English & Spanish | Message Me For Info)
+> I won't spoil it, Daniele 😉
+

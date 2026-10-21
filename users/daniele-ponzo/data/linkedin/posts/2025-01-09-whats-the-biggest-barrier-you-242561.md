@@ -1,0 +1,72 @@
+---
+id: '7283018020770242561'
+date: '2025-01-09T07:13:28.083Z'
+url: https://www.linkedin.com/posts/daniele-ponzo_whats-the-biggest-barrier-you-want-to-remove-activity-7283018020770242561-VaiF
+likes: 18
+comments: 2
+---
+
+What’s the biggest barrier you want to remove this year?🚧
+
+To start speaking with confidence and get more career opportunities.
+
+Like many professionals I’ve worked with
+You might be experiencing one of these:
+
+𝗣𝗲𝗿𝗳𝗲𝗰𝘁𝗶𝗼𝗻𝗶𝘀𝘁 𝗗𝗶𝗹𝗲𝗺𝗺𝗮🧐.
+Looking for the perfect accent, the perfect grammar and a tattoo of the Union jack before starting speaking.
+
+𝗙𝗲𝗮𝗿 𝗼𝗳 𝗝𝘂𝗱𝗴𝗲𝗺𝗲𝗻𝘁 😨.
+Still thinking about those school teachers who put you on the spot, made a fool of you for every mistake and left you…speechless.
+
+𝗜𝗺𝗽𝗼𝘀𝘁𝗼𝗿 𝗖𝗼𝗺𝗽𝗹𝗲𝘅 😓 (it’s like the syndrome, but more serious),
+Me? English? No…talk to my colleague. She is really good at languages. Not me, I will never be able to answer that phone call, sorry.
+
+Something else?
+I’d love to know in the comments.
+
+I spent years living with Mr. Insecurity😈.
+
+Yes, I used to be a fearful perfectionist impostor.
+
+If you are experiencing any of these roadblocks?
+The right strategy can you put you back on track.
+
+So, let me know in the poll below. 📊
+
+P.S. Have you got a favourite strategy when it comes to speaking English?
+I’ll share the one that worked for me in the comments
+
+## Comments (2)
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> 📌 What happens when you remove fear? A story of transformation and success:
+> https://www.linkedin.com/posts/daniele-ponzo_wrong-do-it-again-wrong-do-it-again-activity-7283396602914893824-qJee
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> Perfectionist + Impostor + Fear = Inaction.
+> 
+> So, how do you break this vicious circle?
+> 
+> ➡️Start learning by doing.
+> 
+> My HACK strategy really helped me in the past. And it’s the same strategy I now use with my clients
+> 
+>  🅗 𝐇𝐨𝐧𝐞: Refine your vocabulary in context.
+>   
+> Reflecting on the language after seeing it (or hearing it) in context helped me expand my vocabulary and gradually become more confident.
+> 
+>  🅐 𝐀𝐜𝐭𝐢𝐨𝐧: Presentations, meetings, calls… every interaction is a chance to learn and grow.
+> 
+> I started small. Then I raised my hand in a team meeting to share my view. And I realized nobody was perfect (not even native English speakers).  
+>  
+>  🅒 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Network with your peers, exchange ideas and feedback.
+> 
+> People are going through the same journey. Peers helped me get a fresh view on my struggles without feeling judged. Mentors gave me the opportunity to level up my game.
+>  
+>  🅚 𝐊𝐮𝐝𝐨𝐬: Celebrate milestones to boost morale and monitor progress.
+> 
+> Not so much about certificates and diploma, but more about doing: presentations, phone calls, 1:1's.
+> 
+> Without my strategy, I will still be living with Mr. Insecurity.
+

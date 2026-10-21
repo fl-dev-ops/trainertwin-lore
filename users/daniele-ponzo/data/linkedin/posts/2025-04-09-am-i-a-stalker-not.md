@@ -1,0 +1,107 @@
+---
+id: '7315759431609204736'
+date: '2025-04-09T15:36:08.733Z'
+url: https://www.linkedin.com/posts/daniele-ponzo_am-i-a-stalker-not-exactly-but-ugcPost-7315615831650897921-lWPQ
+likes: 41
+comments: 19
+videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQGNDbOhxNADVw/CeJxzMnGJiozyMsxJcs928dTVcULm-6Lxs9H46boAUVkSuQ?e=1793178000&v=beta&t=TrzHb4H_T27T9xrSlQbCbeFEz1e1_QO0ghDI4xR3IVQ
+---
+
+👀 “Am I a stalker?”
+
+Not exactly 😅
+But I do observe a lot.
+
+That’s where it all starts:
+🟡 Observation.
+
+When I talk to professionals, I listen carefully.
+Not just to their words, but to what’s behind the words.
+
+I hear things like:
+💬 “My mind goes blank when I speak.”
+💬 “I try to say things the right way, but I just feel unsure.”
+💬 “I’m scared of sounding silly, so I stay quiet.”
+
+And when I observe them at work, I recognize something familiar
+A cycle I had to break myself when my career hit a wall.
+
+What I see is this:
+➡️ 𝗣𝗲𝗿𝗳𝗲𝗰𝘁𝗶𝗼𝗻𝗶𝘀𝗺 leads to
+➡️ 𝗢𝘃𝗲𝗿𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴, which leads to
+➡️ 𝗙𝗲𝗮𝗿, and finally
+➡️ 𝗦𝗶𝗹𝗲𝗻𝗰𝗲
+
+It’s not about a lack of technical knowledge.
+It’s not even about grammar.
+It’s about pressure, hesitation, and the fear of not sounding “good enough.”
+
+But here’s the shift that changes everything:
+
+🔁 Reverse the cycle.
+Speak first. Make mistakes. Get a little messy.
+And you’ll start building real confidence, not just theoretical fluency.
+
+💡 Speak → Overcome fear → Think more clearly → Progress
+
+That’s when your ideas land.
+That’s when people 𝒔𝒆𝒆 your value.
+That’s when your career starts moving forward again.
+
+So no, I’m not a stalker.
+I’m just paying close attention
+Because observation leads to insight.
+And insight leads to growth.
+
+As Desmond Morris once said:
+"𝘞𝘦 𝘯𝘦𝘷𝘦𝘳 𝘴𝘵𝘰𝘱 𝘪𝘯𝘷𝘦𝘴𝘵𝘪𝘨𝘢𝘵𝘪𝘯𝘨. 𝘞𝘦 𝘢𝘳𝘦 𝘯𝘦𝘷𝘦𝘳 𝘴𝘢𝘵𝘪𝘴𝘧𝘪𝘦𝘥 𝘵𝘩𝘢𝘵 𝘸𝘦 𝘬𝘯𝘰𝘸 𝘦𝘯𝘰𝘶𝘨𝘩 𝘵𝘰 𝘨𝘦𝘵 𝘣𝘺. 𝘌𝘷𝘦𝘳𝘺 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯 𝘸𝘦 𝘢𝘯𝘴𝘸𝘦𝘳 𝘭𝘦𝘢𝘥𝘴 𝘰𝘯 𝘵𝘰 𝘢𝘯𝘰𝘵𝘩𝘦𝘳 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯"
+
+Does this resonate with you?👇
+
+## Comments (9)
+
+### Cindy Jansen, MA CCC-SLP (Founder | SpeakEasy! PRO | Speech-Language Pathologist | Global-English pronunciation training in +49 AI-enabled native-language-specific predicted learner challenges in microcourses | Private trainer | Sam.gov Awarded)
+> Insightful, thank you, Daniele. Your topics (((resonate))) with me! 
+> 
+> I've seen so many talented professionals get fixated on the "rock" in a kayaking analogy - that fear of making a mistake - and it pulls all their focus. 
+> 
+> I describe the mindset shift of looking beyond the obstacle. 
+> Communication isn't about being perfect; it's about staying in the current and moving forward. That moment of "I see you, and I have a plan to not crash". 
+> 
+> It mirrors struggles with confidence -  not lack of skill; they're stuck in the eddy of perfectionism, overthinking, and fear.  
+> 
+> Like you said, speak first and look beyond. 
+> 
+> Bring them the helpful and hopeful reminder that they will paddle out and rejoin the flow. Be kind to yourself!
+
+### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
+> Daniele Ponzo It’s not just about hearing people it’s about understanding what holds them back.
+
+### Georgios Christou, PhD (Engineering Manager @ Mesh)
+> Daniele your post resonates deeply. While I don't observe language patterns, I do observe behavioral patterns in my clients' behavior. And I see the same habits emerge time and time again.
+> 
+> If we only allow ourselves to operate within our comfort zone, and never dare to journey out of it, we won't have the opportunity to test our knowledge and capabilities, nor to grow them!
+
+### Giannis V. Chatzidis (Life & Mindset Coach | Founder & Writer at Mindwhisper | Helping millennials survive in our fast-changing world & reconnect with your authentic self & emotions | Petdad of 3 cats)
+> this is an infinity loop, Daniele, perfectionism -> imposter -> overthinking -> stagnation -> stress, and start again
+
+### Marilia 🧠Falsetti (Agile | Scrum | Psychology)
+> Great perspective! Done is better than perfect.
+
+### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
+> Totally relatable! Breaking that overthinking cycle by just speaking up is a game-changer. 🔥
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> 🎞️ If you want to watch the full video where I chatted with Pauline H., just click here: https://youtu.be/mq-EZNnjJy4?si=_aSDTpE9iX8C1ZO_
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> ▶️ And then there’s the impostor syndrome.
+> I’ve seen it especially when someone transitions into an international environment. Suddenly everything is in English: meetings, emails, 1:1s with managers overseas...
+> Even experienced professionals start thinking, “This isn’t for me” or “I don’t belong here.”
+> One developer told me he felt completely left out: he couldn’t follow the jokes, didn’t know when to laugh, and started doubting himself, even though his skills were top notch.
+> Language shouldn't make you feel like an outsider.
+> But when it does, that sense of 𝙣𝙤𝙩 𝙗𝙚𝙞𝙣𝙜 𝙜𝙤𝙤𝙙 𝙚𝙣𝙤𝙪𝙜𝙝 creeps in fast. Has this ever happened to you?
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> 📖 Have you ever read the book "The pocket guide to Manwatching"? I think it's just brilliant. I'd love to have your opinion
+

@@ -1,0 +1,100 @@
+---
+id: '7157620939621335041'
+date: '2024-01-29T06:30:14.172Z'
+url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-jobinterviews-activity-7157620939621335041-064V
+likes: 24
+comments: 10
+images_count: 1
+---
+
+5 mistakes to avoid in your next job interview.
+ 
+ (I'm sure you won't believe #5)
+
+ Job interviews for developer or IT manager roles are hard.
+ 
+ Especially when English is not your first language.
+ 
+ So, how do you make sure you are well prepared? 🤔 
+ 
+ And what language do you need to highlight your expertise? 
+ 
+ Build up a strategy.
+ 
+ And avoid these common mistakes:
+ 
+ 1. "𝐓𝐞𝐥𝐥 𝐌𝐞 𝐀𝐛𝐨𝐮𝐭 𝐘𝐨𝐮𝐫𝐬𝐞𝐥𝐟":
+ 
+⚠ Problem: People often provide lengthy personal histories, neglecting relevant professional details.
+ 
+✅ What to do: Craft a concise, structured response focusing on your IT journey. Start with recent experiences and achievements.
+ 
+👉 Example: "I'm an IT professional with 8 years of experience, specializing in network security. In my current role at XYZ Corp, I led a team that improved network efficiency by 30%."
+ 
+ 2. 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬:
+ 
+ Problem: candidates struggle to explain technical concepts clearly. 
+ 
+✅What to do: Practice explaining complex topics in simple terms. Use analogies when possible.
+ 
+👉Example: "Think of a firewall as a security guard for your network. It filters incoming and outgoing data, like checking IDs at a gate."
+ 
+3. 𝐒𝐨𝐟𝐭 𝐒𝐤𝐢𝐥𝐥𝐬:
+ 
+⚠Problem: Candidates often overlook soft skills like teamwork or adaptability.
+ 
+✅What to do: Highlight soft skills when discussing technical achievements. Emphasize how they contributed to project success.
+ 
+👉Example: "My ability to collaborate across departments was crucial in resolving complex issues during our last project."
+ 
+ 4. 𝐁𝐞𝐡𝐚𝐯𝐢𝐨𝐮𝐫𝐚𝐥 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬:
+ 
+⚠Problem: Candidates may evade questions that require real-world examples.
+ 
+✅What to do: Prepare specific anecdotes demonstrating problem-solving or leadership skills.
+ 
+👉Example: "In my previous role, I faced a critical system outage. Through methodical troubleshooting, we restored service within 4 hours, minimizing downtime." 
+ 
+ 5. 𝐂𝐮𝐥𝐭𝐮𝐫𝐚𝐥 𝐚𝐰𝐚𝐫𝐞𝐧𝐞𝐬𝐬:
+ 
+⚠Problem: People sometimes forget to tailor their answer to the specific company.
+ 
+✅What to do: make sure you know company culture, values and background.
+ 
+ Example: if they ask: “what kind of people you don’t like working with?”, do not answer “The Americans”. It’s rude and meaningless. Especially if you’re applying for a role in an American multinational…
+ 
+Anything else you would add to this list?
+ 
+P.S. I have made up the examples, except the last. That is actually real. It happened to me a few years ago when I was interviewing a candidate for an IT role 🙄 …
+ 
+ __________
+ 
+I hope you got some value here. If you did, remember to hit the 🔔 on my profile.
+Follow ➡️Daniele
+ 
+ #english #itprofessionals #jobinterviews #jobinterviewtips
+
+## Comments (5)
+
+### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
+> no.5 is indeed very true!
+
+### Jordan Molina (I help founders get hours back with custom AI systems | Software engineer turned human-centric AI builder | 25-30 hrs/week saved for businesses | Your team spends more time on work they enjoy)
+> Daniele Ponzo hey absolutely great info here brother! I really agree with you in that we got to be concise and simple.
+
+### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
+> This LinkedIn Post = 
+> 
+> 😇Wholesome Guide 
+> 😇Value added Package 
+> 😇Practical Insights 
+> 
+> Loving it: Daniele Ponzo 
+> 😊😊😊
+
+### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
+> So true without confidence everything is harder
+
+### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
+> Wish I had learned this before I messed up many an interview over the years  Daniele Ponzo 😂
+

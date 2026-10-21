@@ -1,0 +1,184 @@
+---
+id: 92vXj98tqS8
+title: Be an Optimist and Take Risks | The Non Native Leader | Episode 30
+date: '2025-09-03'
+url: https://www.youtube.com/watch?v=92vXj98tqS8
+description: "Are you a non-native English speaker working in tech, business, or international\
+  \ teams? \U0001F680\n\nDo you sometimes feel that English is holding you back from\
+  \ your dream job or career opportunities?\n\nIn this episode of The Non-Native Leader\
+  \ podcast, host Daniele Ponzo talks to Anas Riad (@anas_riad) a Data Scientist from\
+  \ Morocco,  about why optimism and taking risks are essential if you want to grow\
+  \ your career, speak English with confidence, and open doors to global opportunities.\n\
+  \nYou’ll learn:\n✨ Why optimism is a career superpower for non-native professionals\n\
+  ✨ How taking small but meaningful risks leads to big growth\n✨ Strategies to improve\
+  \ your English communication at work\n✨ Stories that will inspire you to keep moving\
+  \ forward — even when it feels tough\n\nIn this video: \n00:00 Introduction – Be\
+  \ an optimist and take risks  \n00:45 The challenges of being a non-native English\
+  \ speaker at work  \n02:20 From dream job to career growth: mindset shifts  \n04:30\
+  \ Building confidence in English communication  \n08:15 Stories of non-native professionals\
+  \ who succeeded  \n13:40 Overcoming fear of mistakes in meetings and interviews\
+  \  \n18:25 Why optimism is a career superpower  \n23:10 Taking risks: small steps\
+  \ that lead to growth  \n28:00 English skills that open global opportunities  \n\
+  31:45 Final thoughts and motivation to take action  \n\nThis podcast is made for\
+  \ IT professionals, engineers, project managers, and leaders who use English every\
+  \ day at work. Whether you’re preparing for interviews, aiming for a promotion,\
+  \ or simply trying to feel more confident in meetings, this episode will motivate\
+  \ you to take action.\n\n\U0001F4E3 Don’t forget to subscribe, like, and share with\
+  \ fellow non-native professionals and educators. Let’s make English a bridge — not\
+  \ a barrier.\n\n\n#NonNativeLeader #ESLTeacher #AccentIdentity #LanguageConfidence\
+  \ #GrammarAsBridge #MultilingualEducation #EnglishAtWork #LanguageLearning #InclusiveEducation\
+  \ #PodcastForTeachers #NonNativeEnglish #CommunicationSkills\n\nMusic credits: Giuliano\
+  \ Frammartino & Riccardo Frosoni"
+author: DanielePonzo
+model: gemini-2.5-flash
+transcript: true
+speaker_count: 2
+speakers:
+  '1': Speaker 1
+  '2': Speaker 2
+---
+
+
+# Be an Optimist and Take Risks | The Non Native Leader | Episode 30
+
+## Transcript
+
+### Speaker 1 · Speaker 1
+
+Hello everyone and welcome to a new episode of the non native leader my video podcast series where we explore stories lives challenges and wins of global leaders who have one thing in common they were not born in an English speaking country And Im Daniele Im the host and if you followed the previous episodes youve seen weve spoken to NGO leaders to leaders in Fintech IT politics academia art I like talking to a broad spectrum of people and any in any industries really And today Im really happy to have with me Anas Riad And from well Im not revealing it Ill let him tell you So Anas youre very welcome here with me and thank you very much for being my guest today So the usual question is really who are you What are you doing What do you do
+
+### Speaker 2 · Speaker 2
+
+Yeah obviously the first question First of all thank you for having me here Its a its an immense pleasure Uh always happy to have a nice chat and discuss a few things Its its always good to be open and discuss any kind of topics really So as you mentioned my name is Anas Im originally from Morocco Thats from where the name comes from Im multicultural My mom is Russian my dad is Moroccan so its a little bit of a weird mix but we made it happen Uh three years ago I moved to the UK I wanted to switch my career um from engineering what I did before uh into data analytics which is what I do now And the bridge for me to get to where I wanted to seem to be to move to the UK Um and therefore I had to learn the language go through the process but currently I work as a data analyst uh online for a Swedish company based in the UK Yeah and this is a brief introduction of who I am We can dive deeper into different topics
+
+### Speaker 1 · Speaker 1
+
+Absolutely absolutely Thank you And I love the way youve added an extra layer of uh cultural diversity by working for a Swedish company
+
+### Speaker 2 · Speaker 2
+
+Yeah its uh yeah its crazy
+
+### Speaker 1 · Speaker 1
+
+Yeah But this is this is a kind of stories I love uh because its they show like how the world is uh interconnected how were all like living in a global they they call it a spaceship but thats thats a different story but in a way I like it because uh borders frontiers you know its uh I dont know its an obsolete concept Again thats my my view But anyway its uh its interesting what you mentioned because you moved to the UK and you used uh a new job opportunity to fulfill your dream which was again to move there So you know there must have been challenges there for you and yeah Id like to ask you about those really So main main challenges for for you in your international experience Anas
+
+### Speaker 2 · Speaker 2
+
+Uh the first one is the language you know uh as someone uh that lived his whole life in Morocco I spoke Arabic and French that we speak in Morocco Russian from my mom but Ive never had the English part Apart from listening to Eminem music you know like a little bit of here and there words
+
+### Speaker 1 · Speaker 1
+
+Its not the easiest
+
+### Speaker 2 · Speaker 2
+
+Just to survive kind of vibe English So I had to learn English I took on classes for 11 months I had a one on one coach uh English coach or professor whatever you want to call him Hes brilliant He lived in the UK And he taught me so much We used to have three sessions per week We used to have lots of fun and that was the first step that gave me confidence that I could go and I could speak Um the second one was to I started to write content on LinkedIn and my own blog at the end of um 2021 early 2022 Uh so it all coincided together I started to read more write more speak more and it gave me confidence and I was in a um um I wanted to change my path The engineering one wasnt very interesting So I thought uh okay maybe I need a big move and uh the UK was that big move for me But the the first road block I would say was the language because without it I couldnt do anything I had to first be good at English and not just uh superficial talking English but professional because I wanted to work in the UK as well So I would say this was the first massive road block that I had to solve early on
+
+### Speaker 1 · Speaker 1
+
+Wow Yes and Im sure it was not easy because you went straight for it You went to the country and you started you went looking for the job you wanted to do So you had to improve and you had to improve quickly which is uh its not easy Id say
+
+### Speaker 2 · Speaker 2
+
+Yeah No its not I mean I I studied English before coming to the UK but even with all the lessons that Ive had coming here with all the accents and the nuance in words and British speak a little bit differently from what youre taught in the in in schools especially in Morocco I think we follow more of an American system of English So having to adapt to to people the way they speak and them adapting to me the way I speak as well was a little bit of a challenge the first few months Ive heard so many can you repeat this one please or say it again you know Ive heard it so many times But you get it all the time
+
+### Speaker 1 · Speaker 1
+
+But I guess weve all been through that Uh whenever you move to a new country you expect what you studied So you have your textbooks with those uh nice pictures of smiling guys and girls and then you go to the real country and things are slightly different Yes as you well said you have accents you have nuances So absolutely And do you find like I mean youre a multilingual right So you mentioned French Arabic of course and Russian Do you find that that helped you to adapt to yet another language
+
+### Speaker 2 · Speaker 2
+
+Yeah thats a very thats a topic we speak about me and my partner very often and she says that because you already speak a few languages you can pick up any other one very easily And I kind of disagree with her I told her if you spend the 11 months of studying that I did three times per week with all the notes that I took with all the posts that I wrote on LinkedIn youd be fluent in Spanish Italian or whatever other language as well So yes you can say that my brain is used to having this disparity in the in vocabulary which is true For example if you learn Spanish since I know French I can pick up words quicker If I want to learn Croatian and I speak Russian I can pick up a few words quicker Thats reality because the languages are similar they come from a similar basis But putting in the effort everyone has to do it And yes I do agree in a sense that your brain is kind of used to more information but you still have to put in the hours to to learn and speak especially speak
+
+### Speaker 1 · Speaker 1
+
+Yes yes speaking is important I always say I always tell people look if you want to improve your speaking you have to speak Theres really no way around it
+
+### Speaker 2 · Speaker 2
+
+Exactly exactly And its daunting you know I remember uh when I had my first conversations um externally not with my with my professor there is an application its called Italki and you pay people to just talk to them Uh thats the whole concept And I I booked six random calls with people all over the world just to speak to each one of them for one hour and he he showed me first that I was okay and second what I was lacking so I could work on it And a lot of people they get so comfortable learning in one way and they avoid the one that is a little bit tricky uh which is just to talk to random people and uh therefore you never really learn or it takes you longer to learn a language if you avoid those challenging conversations
+
+### Speaker 1 · Speaker 1
+
+Oh yes oh yes absolutely And thats thats just the main thing Go out there put yourself out there and talk you know Uh its not easy its not easy I I I can confirm from my own experience it is not easy but at the same time its really how you progress and how you learn So yeah I strongly recommend doing it And uh and doing it yes I mean you did it in a very well structured way So you booked calls and then you got to to chat to people randomly which is I dont know its an interesting approach But and and it also shows that I mean you dont really need to live in the country because you can book random calls with people from the comforts of your own home So there you go And then if youre really serious about improving thats what you can do So yes
+
+### Speaker 2 · Speaker 2
+
+Exactly I have my my younger sister uh shes been learning Korean from home and she managed to to become I wouldnt say very fluent but she speaks and she understands within just six months And thats all because of passion because she loves it so much She watches films and listens to music and learn lyrics of music you know that kind of uh young girl And within six months she went to Korea with my dad at some point and she was talking going to shops and ordering and doing so its just a matter of like being really willing to And if youre passionate thats an additional bonus you know if youre passionate
+
+### Speaker 1 · Speaker 1
+
+Absolutely And I can only imagine the the joy when you go there and youre able to talk it must be really empowering you know yes yes thats thats great And Anas you did another interesting thing there because obviously you studied you talked to people but then you also mentioned that you started posting on LinkedIn and I suppose you started posting straight directly in English which was an extra challenge that you gave yourself So in which way that uh helped you really Id be interested in knowing
+
+### Speaker 2 · Speaker 2
+
+Yeah so in uh 2020 or 2021 I started to read a lot uh especially self help self development books and most of them are mostly in English You can still find them in French but in libraries you usually find them more in English than in any other language So it forced me to start picking up a few English books because I really wanted to read I was in a phase where I wanted to improve things in my life you know the productivity the habits all all these kind of topics So I started to read The the thing is I found it very difficult to understand everything Uh so I always had Google Translator on the side and I was translating a lot of words Um it was a little bit of a hustle at the beginning I took three times as much to read a book than someone else Uh but after a few months my brain started to pick up words the repetition the patterns and I stopped using Google Translator Even if I dont understand one or two words but I understand the whole the meaning of the sentences And um at some point I read too many books and I I was thinking how can I share this knowledge uh now because Ive read a lot and most of my friends werent interested in talking to me about productivity or anything like this So I thought why dont I reach out to an audience externally that might be interested in what Im talking about So I created a blog I created a basic website that I coded myself I have knowledge in coding so I did I was like you create a website you share uh some articles I was just doing summaries and key takeaways from books that I liked And one friend of mine uh afterwards told me why dont you take these articles and put them on LinkedIn They have an article feature on LinkedIn And thats how I transitioned slowly into LinkedIn and then I saw people posting I started to learn copywriting and all this journey But it started from reading first and then just me wanting to share some key takeaways from those books Thats how it started
+
+### Speaker 1 · Speaker 1
+
+And I suppose they gave you a double level of confidence One because you you got out there and you started sharing and the second because you got to meet a lot of uh like minded people which helps to build a community and it helps to feel part of something bigger you know in a way Yeah I mean if I say something bigger it sounds really profound and philosophical but you know what I mean Its its its empowering again It gives you confidence that you can speak and that people are willing to listen to you in a language that is not your native language which is not easy but I mean youve just mentioned all these different ways to boost your confidence that uh in the end they just help you to get there faster I believe And I mean today you have yeah you have your articles you youre good at copywriting because I see a lot of people actually like me included like what you write and what you share So it is youre showing that it is possible which is again uh fascinating in my opinion
+
+### Speaker 2 · Speaker 2
+
+Yeah I mean anyone can do anything Its its just a matter of putting in the work Uh when uh my girlfriend is learning uh French and um I always tell her the best way to learn anything is to immerse yourself into the topic you know have active active learning You listen to podcasts watch films like turn your whole life in French and youll see that youll get results very quickly You can even speak to me whenever you want Uh but this concept of immersion it it can be very tricky for people sometimes because its difficult at the beginning You dont understand anything Youre like why would I even listen to that podcast because I dont get anything But its just your brain starts to build those connections that are new and over time it will make more sense You pick up the tone the speed a lot of things even though you dont understand and just sitting and doing a few exercises here and there its good on paper and we all know that what you do on paper doesnt necessarily translate into real life unless you try and do it you know Um Im Im kind of lucky that I started to learn before the ChatGPT period and this this can be a little bit of a polarized topic because you might tell me that ChatGPT will help you learn faster because you have a companion that can answer your questions in real time But uh before since I didnt have it it forced me to really sit paper read out loud do the boring things that we consider now boring Uh so sometimes speed is great but sometimes it might affect your ability to learn properly because you always want the shortcuts which can harm you in the long term
+
+### Speaker 1 · Speaker 1
+
+Yes so you have to allow for like it it takes time And and one thing that you mentioned I think it is uh fundamental like you need to give your brain some time to adapt So at the beginning you dont understand much but then you start slowly but surely you start building those new connections which is essentially how we learn really in my opinion So I like to imagine uh languages like drawers in our brain So you need to create a new drawer where to put things And thats a new thats how you learn a new language uh in a way So it takes time and its not immediate So we shouldnt get frustrated We should be easy on ourselves
+
+### Speaker 2 · Speaker 2
+
+Exactly We also those books learn Arabic in five days or someone is trying to learn a language within 24 hours Its just not feasible you know you dont need to chase those dopamine kind of learning You need to try slowly and learn a few sentences speak to people And one one thing a lot of people that learn a new language they struggle with is confidence and they tell you uh unless its perfect uh I wont say anything Unless Im sure 100 percent that its perfect Uh because they think that on the other side the person is judging them And I always tell people around me that no one judges you Theyre even happy that youre trying to speak their language So no one will ever judge you Lets say I go to Brazil and I dont speak Portuguese but I learned a few sentences and Im trying even if I mess it up a little bit people will still be happy to see a foreigner trying to speak their language So they will support you and not judge you So you need to remove that uh feeling of judgment from others because thats not true And those that judge you its best to not talk to them anyway
+
+### Speaker 1 · Speaker 1
+
+Why you waste your time Yes Yeah but that is that is a great message and its also it shows that youre open You try to learn a few words a few sentences even to go there and communicate um and which is which is invaluable really and especially if youre used to traveling a lot learning a few words here and there of the local language is always a rewarding experience in my opinion And uh and people truly open up when you try to do that They make they might make fun of you which is fine but you know make fun in a nice and uh I dont know open way Thats thats how I like to see it anyway Anas Id like to backtrack a little right So you said you moved three years ago you moved to the UK Uh everything was new in a way New house new language new job new country new people So did you have any negative emotions associated with it
+
+### Speaker 2 · Speaker 2
+
+Yes uh I had a a drop in confidence when I came in at the beginning Uh I I found it difficult to go reach out to people Um Im usually quite an open person uh so I I dont mind talking to strangers and doing whatever I need to do But when I came to the UK uh I started to doubt if Im going to say what Im going to say is perfect or if Im phrasing it well or if Im going to pronounce it well So I I refrained myself to talking too much unless I had to And slowly day after day it started to to get into me and I started to kind of lose confidence I remember after two three months I wasnt feeling great about it I even remember I read a book about confidence and things I I went I went high level with it Uh but um I pushed myself I started to meet people I I subscribed to uh play tennis football which which are two things that I love to do anyway Uh so I started to meet talk to people do activities play games I met I went on a few dates uh with girls at the time before meeting my partner So again it just run back my confidence thats okay I did it before I can do it here Its just a matter of adapting That adaptation was a little bit tricky and some people they end up closing themselves uh not doing much or only looking at their own people uh for their own people meaning that Im in Cardiff I will go and find Moroccans so that I can speak my own language And uh I noticed here that you see a lot of communities uh Indians together uh Nigerians together um Germans together whatever you know theyre together because they feel safer but I didnt leave my country and flew a few thousand miles away to meet my own people again Otherwise I would have stayed I came here to be open to anything and everything But it took me a few months It was a little bit of a struggle to be honest But fun to look at now
+
+### Speaker 1 · Speaker 1
+
+Thats great Yeah I mean you have this sort of choice You can be in your own bubble with people who speak your language who are easier to talk to or you can go there and face the new reality I mean its great to be in the comforts of your own language your own culture for a while but at the same time I always feel its great to go out and explore Uh because as you said you know youve traveled youve moved there so why not exploring the new the new culture the new country So yeah its not easy and uh I can imagine at the beginning it feels awkward You feel like you dont belong really and like okay what am I supposed to say I love the way a lot of people mention like humor Yeah so youre there people talk and you dont really get the jokes you dont get the humor So that is frustrating And it was for me at the beginning anyway the first time I moved to Ireland you know people were talking and I couldnt really get Everybody was laughing and then you like either pretend you understand and laugh along or you sit there and staring awkwardly at people Yeah But sure And also you mentioned another great thing which is sports Uh again a lot of friends a lot of people started connecting through sports So playing five a side football is the best way to go there and meet people Also career wise it helps you know to when you meet people who are maybe like in a different company or they have a good position you you really connect through sports especially football I think So yeah its great that you mentioned it Ive heard it before and Im a terrible player so I could never ever use that but
+
+### Speaker 2 · Speaker 2
+
+Yeah I mean whatever activity uh you you enjoy you know football is just one and its easy in the UK a lot of people play football Uh but it could be anything As I mentioned tennis it could be rugby you know whatever even Im sure you can find people that want to play snooker and darts and there theres people that want to do anything and everything So one thing that uh because I I know many people that um went from Morocco abroad whether its in Europe in the UK in the US and Ive seen these two kind of people One that went and just um got along and mixed up with people and succeeded ultimately in their journey abroad Um depending on how you define success but I mean theyre good there they have a good job and you know And others that couldnt one two years and they couldnt and they went back to Morocco So those that couldnt two things that I noticed The first one is they dropped their routine Uh so lets say they used to play football and do specific things When they went to the UK or whatever country they just dropped those They thought that they couldnt replicate what they had Thats one thing And the second one they didnt mix up with people They looked at their own people and therefore its like theyve been in Morocco all along Even though theyre in the UK theyre meeting Moroccans Moroccans Moroccans and they dont feel like theyre changing anything So for people that feel like theyre home birds theyre attached to their food theyre attached to their own people they dont want to mess up with their routine maybe going abroad is not meant for you necessarily Traveling yes but I mean living abroad I have my older sister shes like this Shes like I could never do what youre doing because I love being close to mom I love having my own things And thats fair enough But if youre a little bit adventurous and youre willing to try something new and mix up with people especially otherwise youll feel lonely all the time then go for it Why not Especially if youre young you have nothing to lose You go try something new and if you dont like it then you can come back
+
+### Speaker 1 · Speaker 1
+
+Just love the optimism there you know Its refreshing its refreshing to hear a younger perspective to be honest with you Uh theres a lot of negative feelings around so this is this is what we need to hear I believe Now Anas if you had to identify so we spoke about some negative aspects and then youre uh lets say the way you are happier today with your new life and uh building up a career in the UK So if you had to identify one single turning point right in your history there what what was it
+
+### Speaker 2 · Speaker 2
+
+Turning point Uh I think um meeting my my my girlfriend uh it was a it was a big one Um it gave me a few confidence in a few things First is to speak to someone often uh and being with her traveling with her I discovered more of the country So I got to know what the UK is I visited many countries within three years I think I visited more than UK people themselves sometimes When I tell them where Ive been they were like even I havent been to all those places And thats all because of her because she loves to travel and show me things around And especially having someone to talk to and deeply understanding the culture her family her parents Uh I think that was the major boost And after that I would say my first job as well Uh gave me confidence that I am good at what I do and I could do well even in a different environment with my own culture with my own way of thinking Uh so I would say these two My girlfriend first and uh my job second
+
+### Speaker 1 · Speaker 1
+
+Great love and career Thats thats a great combination absolutely Yeah its just love can be valuable from different aspects of course Yeah and uh thats great I love the the romantic aspects as well which is which is again really extremely valuable and uh and it does it does help for sure Anas were towards the end of our chat right So I usually end by asking for recommendations So really imagine I mean weve weve already spoken about a few few ideas weve already mentioned a few ideas but like recommendations for people who want to have an international experience Again not necessarily traveling and moving abroad but also having an international experience from their home So really what would you what would you tell them Like people who want to go international what would you tell them
+
+### Speaker 2 · Speaker 2
+
+I mean both perspectives are different If you want to go international from your place from your own country uh thats very doable You can connect with people communicate with people via social media Um I have my younger sister she used to speak to people in Hawaii by night you know so so its its unlimited what you can do nowadays As long as youre open and youre in there and youre sharing some content Um since Ive been sharing content on YouTube and LinkedIn for the past one and a half year two years Ive spoken to people all over the world I just had a chat a few days ago with a with a nice guy from uh Indonesia Uh just before that in the US another one in the UK Its unlimited and this this opens your brain to new opportunities and you feel like youre not just stuck in your own country You can do more you can speak to more people and get yourself a very diverse set of friends Um but if you want to work um as I do now with the Swedish company I work as a freelancer and you can find freelance platforms where you can be hired by anyone from anywhere in the world As long as you have a skill set and youre able to perform and do something that solves a specific problem uh you can work with people like myself from Sweden being based in the UK have most of my friends in Morocco You can mix and match things and uh thats just the way it is Uh but on the other hand if you decide to move out physically move out uh which I believe is a great experience whatever it is I had a an experience going to Russia for one year which didnt go as great as the UK But its still an experience you know you get to meet people try a few things new food new drinks uh Russia Uh so its uh I would say the fun of it is great The risks there are always risks whether youre static or in motion You choose your own risks Uh people tell me but Im going to risk maybe two years but who guarantees that in your own country in the next two years everything will be perfect you know there are no guarantees Its just that fear of uh facing or or or leaving your comfort zone that scares you uh but thats the same feeling as when you start a business or when you start a podcast or a YouTube channel Uh its just one that involves you leaving your own country that makes you a little bit daunting Uh but honestly I wouldnt trade for for anything else my experience in the UK Made me a better person more confident Ive got more opportunities And even if I end up leaving this country for whatever reason at some point itll be a great memory that I will always keep Uh so whichever you choose just be open Sometimes its good to to leave your comfort zone and speak to different people from different cultures because it shows you a lot about who you are as well Uh when youre not always surrounded by the same people the same places the same coffee shops the same food you end up discovering new things and maybe you find something very interesting there
+
+### Speaker 1 · Speaker 1
+
+Amazing Yes yes I yes couldnt agree more of course And one thing that I particularly love is this idea of risks So you have risks whichever way you decide to go really Stay in the comforts of your own home or job or routine There are risks there because nobody guarantees that things are going to stay like that forever Go move abroad or start a new career there are risks Uh its just if you have an I dont know an optimistic approach to risks I think thats then youre going to make the right decision So thats probably one key takeaway from our chat Id say
+
+### Speaker 2 · Speaker 2
+
+Yeah its uh its uh its something that is uh you only understand when you take on a little bit of action If you build a business once or start a podcast and you try things you understand that you have to take on those risks in order to achieve something greater Uh you cant just come and its not given to you Nothing is given to you A great relationship is not given to you a great job is not given to you a great business So risks are there Its up to you to choose which ones you want to take And again um when I speak to my friends about going abroad and things they think thats the best solution Its clearly not Its just one of those that maybe uh push you a little bit to the limit and therefore you end up improving more and growing faster Uh because when you stay home and you have everything done for you in most cases the percentage of growth is minimal You know but when youre just by yourself you do everything by yourself So the percentage of growth is unlimited It can it can go as high as you are and willing to be Uh unless obviously you fall into bad habits bad routines uh you know So thats also something that you need to to be able to control
+
+### Speaker 1 · Speaker 1
+
+Yes you ultimately youre in control anyway So whatever whatever you decide to do you are in control You should be in control Wow Yes thats I love this key message So thanks very much for sharing it Anas Um so again its been a pleasure having you here Anas and thank you very much for sharing a bit of your story a bit of your ideas and like the main thing a bit of your optimism which is uh something that I truly appreciate So thank you very much
+
+### Speaker 2 · Speaker 2
+
+Thank you for inviting me Its been a pleasure
+
+### Speaker 1 · Speaker 1
+
+Thank you And everybody thank you very much for sticking around for watching or listening and uh Ill see you in the next episode Bye

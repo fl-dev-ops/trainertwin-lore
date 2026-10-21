@@ -1,0 +1,164 @@
+---
+id: UwEC2sd2XYI
+title: From Self-Doubt to Self-Belief | The Non Native Leader | Episode 26
+date: '2025-05-07'
+url: https://www.youtube.com/watch?v=UwEC2sd2XYI
+description: "In this episode of The Non-Native Leader, Daniele sits down with Gydion\
+  \ Kummer (https://gydionkummer.com/), a former language teacher turned coach, who\
+  \ helps educators become confident entrepreneurs.\n\nGydion shares how he battled\
+  \ impostor syndrome, language anxiety, and cultural expectations — and ultimately\
+  \ found the courage to build a business that aligns with his values.\n\nWhether\
+  \ you're a teacher dreaming of working independently or a non-native professional\
+  \ struggling with self-doubt, this conversation is packed with mindset shifts, real\
+  \ talk, and motivation to take the next step.\n\nIn this video:\n00:00 - Welcome\
+  \ & Who Is Gydion  \n01:50 - From Teaching to Coaching  \n04:30 - Facing Impostor\
+  \ Syndrome as a Non-Native Professional  \n07:00 - Finding Confidence in New Roles\
+  \  \n09:05 - The Turning Point: Owning the Messiness  \n11:40 - Building a Business\
+  \ Around Helping Others  \n14:20 - Storytelling & Identity: Rewriting Your Narrative\
+  \  \n17:35 - Language, Confidence, and Selling Authentically  \n20:15 - Advice for\
+  \ Teachers Transitioning to Entrepreneurship  \n24:00 - Final Reflections & Daniele’s\
+  \ Takeaway\n\nSubscribe for more tips on English, communication, and career success!\n\
+  \n\U0001F449Linkedin: https://www.linkedin.com/in/daniele-ponzo\n\U0001F449Book\
+  \ a free chat with me: https://calendly.com/daniele-ponzo/en...\n\U0001F449Get my\
+  \ FREE eBook: https://solutionspeak-coaching.ck.pag...\n\U0001F449Check out my profile\
+  \ on GUMROAD: https://danieleponzo.gumroad.com/\n\nIn every episode we'll hear remarkable\
+  \ stories of people who, as non-English speakers, have achieved extraordinary success\
+  \ on the global stage.\n\nWe'll explore the journeys of these incredible leaders.\n\
+  \nWe’ll talk about their challenges and their feelings.\n\nAnd we’ll discuss the\
+  \ strategies that can lead to international success.\n\n#LearnEnglish #solutionspeak\
+  \ #nonnativeenglishspeaker #internationalcareer #globalspeaker  #languagesuccess\
+  \  #itprofessionals   #ProfessionalGrowth #techskills #softskills  \n#GlobalOpportunities\
+  \ #CareerDevelopment #confidenceinenglish   \n#techprofessionals  #careeradvancement\
+  \  #podcast #softwareengineer #jobinterviewtips  #nonnativeenglishspeakers  #careersuccess\
+  \  #internationalcareers  #TheNonNativeLeaderPodcast #globalprofessionals #LanguageLearning\
+  \  #NonNativeSuccess #InspiringStories\" \n\nMusic credits: Riccardo Frosoni and\
+  \ Giuliano Frammartino"
+author: DanielePonzo
+model: gemini-2.5-flash
+transcript: true
+speaker_count: 2
+speakers:
+  '1': Speaker 1
+  '2': Speaker 2
+---
+
+
+# From Self-Doubt to Self-Belief | The Non Native Leader | Episode 26
+
+## Transcript
+
+### Speaker 1 · Speaker 1
+
+Hello everyone and welcome to a new episode of The Non Native Leader my video podcast series where we talk to non native English speakers who are currently having an international career My name is Daniele and Im the host of the podcast If you follow the series youve seen weve spoken to NGO leaders IT leaders leaders in Fintech leaders in finance commercial but also the arts movie makers I like talking to people and I like talking to people from various industries And I am happy to have here with me Gideon Commer whos I again new industry but I dont know like yeah as I said I dont want to spoil it too much as usual So Gideon youre very welcome and thanks for joining me
+
+### Speaker 2 · Speaker 2
+
+Thanks a lot Great chatting with you Daniel Um Im Gideon and just a quick introduction I guess Yes exactly Tell us who are you Yes Okay I run a coaching I run a couple of coach coaching programs business and marketing coaching programs for teachers for language teachers specifically and I also have an app uh a software business service for teachers as well helping them with all the things they need in terms of tech So these are the things I do I am originally from Brazil I am living in Japan right now Osaka I guess thats um
+
+### Speaker 1 · Speaker 1
+
+Okay so youre stretching from one side to the other of the world Uh Yeah Is it a plan to complete the circle I guess yeah its kind of maybe its like at first maybe as far as possible then I guess its a okay all over the place Wow well thank you Gideon Yeah so this is uh as I as I always say this is the spirit right of the non native leader So to try and cover as much as possible of the world of the spectrum So you said okay coaching business and helping teachers Why would you want to help teachers Well why why do we need help
+
+### Speaker 2 · Speaker 2
+
+Fantastic Well I the thing is for if you want to start your business so a lot of the teachers they are great at teaching I know that because I was a teacher for 10 years so I know kind of the trajectories and how it goes how you develop yourself professionally And youre definitely you can be very good at teaching you have all this experience certificates But if you want to start your own business meaning if you want to stop working for a school and working instead working for yourself youre going to come a feel youre going to come against some roadblocks which is how do I get clients How do I establish myself as a business All those things the school they do they have a marketing team they have a way of organizing themselves You have to develop those things yourself And those are skill sets that are not very easy that are quite um can be very challenging So you can try and do things yourself and you will maybe get some uh success not so consistent success or not with generally speaking you might as well just learn from someone who is ahead of you or do like its very normal you take a course and you learn and you have assistance as well because its challenging So growing your business your marketing and plus theres the tech side of things if a lot of people are not really tech um they dont like the tech part which is having a website email systems and all of that So there and then thats how the service came about which is after I gained some experience I started testing with teachers okay I have experience in this career Now Im going to combine my knowledge of marketing and business with that and start developing and it turns out uh yeah its its its much needed and also fun to do so
+
+### Speaker 1 · Speaker 1
+
+Nice Okay so its uh yes now that you mentioned it I think like many teachers do need help you know we always think no we dont need help but then yeah when you put it this way of course we do Uh the technology the marketing these are normally new things for for teachers
+
+### Speaker 2 · Speaker 2
+
+Right And just to compliment on that its its not a problem for for teachers I mean marketing and business is tough for for any business and marketing Any business like the hardest thing is go get clients and go grow and develop If it was easy but its not So its something uh its a bit of a science and an art at the same time So its its good to have assistance and to learn from others like absolutely
+
+### Speaker 1 · Speaker 1
+
+And its not easy to find a good balance I suppose So like how much do I invest in delivery how much do I invest in marketing And I end up being stuck stuck in the middle so not doing anything yeah but obviously obviously this is uh this is something that yeah people do uh its kind of a mindset uh business entrepreneur mindset that people would want to to develop yeah
+
+### Speaker 2 · Speaker 2
+
+Yes Exactly Sometimes people are stuck in in their idea of oh if Im good at what I do I should grow I should people should come to me Its not really the case with anything If youre good at baking bread it doesnt mean youre going to have a lot of customers You you have to also develop the other side of things I like to think of you have two legs one is as a practitioner your craft the other is your business and marketing side of things And I mean it happens with everything especially people in the arts sometimes oh Im Im an artist I dont do any of the business marketing Somebodys going to come and find me and its just not uh the case in in real life So um yeah we do need to develop these skills
+
+### Speaker 1 · Speaker 1
+
+Absolutely Okay thats thats a nice one And yeah as I mentioned earlier I love talking to people from different backgrounds you know yeah youre a teacher but not really a teacher So yes its uh its intriguing Now you mentioned challenges you mentioned Brazil you mentioned Japan Okay this is this is interesting for me yeah because uh you know traveling around the world having international experiences uh as you say it comes with challenges So I suppose youre very international you are I dont know a global citizen I dont know how you want to define yourself but like Yeah What has been the main challenge for you in your in your journey I would say
+
+### Speaker 2 · Speaker 2
+
+Well I I think Im living outside of my country for 10 years now 10 years pretty much exactly now And so I cant think of one challenge the challenges that come and go So maybe I would say maybe I could speak to two different occasions or a challenge that kind of shaped everything and changed my worldview or if you can say like that And one is the experience my first experience actually living in the US was the challenge was culture shock and language the language barrier as well I thought I knew English and I turns out my English was not good enough And also the culture shock And its its funny now looking back you know after visiting countries you would consider as exotic or very different and now looking back I guess the US was the biggest culture shock And thats the reason for that I think one is I was it was my first experience I was very green but also I think maybe I was expecting to know or I was assuming a lot of things because you know I watched the movies I I know whats going to happen It turns out its no its a totally different culture and people and country So that was one uh experience that was kind of a change everything The other was when I started working for myself developing this business I went there I established my service and oh Im going to do it was actually doing Google ads and Facebook ads and its like advertising for IT companies You know I developed my skills and I crafted my offer and now and when it comes to the moment of selling it I wanted to sell to mainly Americans or in English in those markets And I had the challenge was maybe a mindset challenge which was I dont think this is ever going to work for me because of my background At that point my I was confident in my language skills but maybe Im going to its only vain because Im going to be doing these things and theres a glass ceiling people are always going to be declining my services politely and saying no thanks just because of I talk like that I look like that and thats I had that fear and it took me I dont know a few months to completely get over it So I I guess those were the two
+
+### Speaker 1 · Speaker 1
+
+Yeah Wow okay okay So two different challenges yeah So the first one you mentioned was language and culture The second you mentioned was more like mindset challenge Okay Nice Okay lets yeah lets backtrack So going back yeah to your first challenge um this is an interesting point because its one point that people mention very often So going to the US or working with the American market and realizing that yes its not really easy to adjust and I dont know we we kind of give it for granted because yeah we watch the movies as you said we we listen to the music uh we have I dont know KFCs and McDonalds everywhere So yeah we know America dont we You go there okay wait a second America is a complex uh world its a complex country its actually not even a country its like a federation so there is differences And and so like you got there and you felt first you had like these issues with the language and then the culture So what kind of emotions uh were you feeling back then So how did you how did you feel really
+
+### Speaker 2 · Speaker 2
+
+Well first I guess frustration um um with the language problem was frustrating because it was like oh you know youre talking to someone you realize its taking them three seconds to process what youre saying and its and every time you say something they say they say back uh where are you from And then you notice okay they didnt understand what Im saying and now they just want to change the subject and get out of here And it was yeah that was that but okay that you just I mean you got to go through that The culture shock was frustration as well sometimes and a bit of resistance like why things need to be like that That doesnt make sense You know when you have that kind of a uh this is um when everything was different from I dont know you cant cross the road youre jaywalking its not legal You cant drink outside and I was in my 20s like oh that doesnt make sense The way people drive and and even like the social interactions was everything really different So you sit in class Ill turn to someone and start talking and theyre like oh we dont know each other so why why are we That kind of a social uh it was awkward in many occasions So every turn there was like a a different thing that I was noticing I was like wow this is so fascinating and interesting but sometimes uncomfortable So Yeah
+
+### Speaker 1 · Speaker 1
+
+I mean if you if youre if youre just a spectator its fine Oh look this is interesting Oh yeah I could totally study there but when its actually your life it does feel a bit different doesnt it Yeah yeah Okay so frustration culture shock the differences And I mean what was the turning point for you back then
+
+### Speaker 2 · Speaker 2
+
+Oh yeah getting out of there I think with processing that uh I think you know a trip is over when you return when you come back I think returning to my country and experience the reverse culture shock and experience like wow okay this doesnt make sense either Youre like what kind you cant live like that Its its crazy So and then it makes sense Its like okay you just like ripping this bandaid of oh stop us theres there isnt one way to live life Theres people just live in a different way And its fun because after that I visited countries that were way more different I live in Turkey in Istanbul and then in Asia And I never felt that culture shock again I guess because you become open to okay Im not assuming anymore I know its going to be different You know its and its okay And you stop being frustrated So yeah I guess uh coming back and then continue traveling it just dont feel like that anymore I think if I go back to the US probably yeah its a totally different experience
+
+### Speaker 1 · Speaker 1
+
+Yeah absolutely Yeah I love this point like the turning point is when you go back to your own country and you realize wait wait a second It is it is different And then yeah I suppose everything becomes a bit more like relative in a way so you you can you can see okay we do things like this here they do things like that there There is not only one way we can you know I mean different people answer in a different way I suppose
+
+### Speaker 2 · Speaker 2
+
+I think its very liberating because then you stop thinking oh you know all these rules people are saying like from anything you know you you match your socks with your shorts in this way like no Im not like that Uh or you should do this like you start kind of a thinking uh yeah you get rid of all these rules And somebody says oh you should do this Yeah I dont think so I know other countries where people dont do that at all and theyre living really fine
+
+### Speaker 1 · Speaker 1
+
+Exactly Theres not only one way of doing things Yes And so I suppose we should we should ban the word should from from the from our at least from from our uh approach yeah So I dont know you should you should well not really we could We could do this or we could do that and uh things turn out to be working anyway for for people So thats uh thats an amazing one And you know this is this has a lot to do with uh with mindset you know you travel around you build a new mindset which incidentally is the second challenge you mentioned so the change of mindset when uh when decided I dont know to can we call it like the leap of faith So decided to have your own business and to do things differently So how did that affect you in terms of yeah as you say mindset
+
+### Speaker 2 · Speaker 2
+
+Yeah thats also it was huge It was yeah its a leap of faith exactly Because when I was learning I remember like one of the programs they even mentioned like if you this program is for a native English speaker that was part of their marketing message Im like I took it anyway I was like I think I can do that But I had that in the back of my mind like this is not going to work And because I didnt see anyone who was like me And you saw other people succeeding but of course they are they look different they they are different So I had that um but I didnt want to believe that I still want to try and do but I was really uh scared that that was not going to be the case And then and then I guess overcoming that or the turning point for that would be the evidence that its working You know its like you keep doing it and then it start starts working and then you cant fight with the evidence So the first you know business is hard so trying to get a client is hard for anyone Sales is hard already So on top of that I had that doubt its never going to work for me But once you have I think my first client was actually an Australian lady and she and I was like wow I cant believe like people trust me This is insane Like you know and then it happened a few more times and and they were all uh this in English companies like proper companies IT companies and it was not people doing this to help me or anything It was like this is business and theyre sending me the money So its very real its the evidence And and then you start thinking okay I yeah thats uh it was just in my mind Thats if people dont care at all Or yeah So it was it was just doing it and and then I dont even think about it anymore
+
+### Speaker 1 · Speaker 1
+
+Yeah this is I can obviously relate to that because it feels awkward but at times you actually have to convince yourself So you have to pile up evidence and go in front of a mirror and say look this is evidence So you can you can do it and uh and then you go yes of course there is evidence so people want to work with me And yeah but you know we all think we are special like its not for Im special its for for me its never going to work You start your podcast you know I have a problem theres something special about me thats not going to work But then you start doing it and you see oh people watching theres audience the feedback is good and then uh it cant that little voice cannot uh doesnt mean anything anymore Yeah I am going to talk to my to myself later on and say you see But no I mean jokes apart its just it is the way it works Its a slow process but yes you you kind of have to convince yourself uh but not in a fake till you make it way I dont really believe in that But in a way that yes as you well said you have evidence and you know people are reacting There is there is proof that you can do things So stop worrying and keep doing things
+
+### Speaker 2 · Speaker 2
+
+Exactly Do it anyways I think real evidence is is just much better than any kind of affirmation you can make or reading up I didnt read a book to prove anything Uh I just get people to you know so real like people are sending you money they are saying yeah thanks Hey sign up again Like its not something you can uh convince yourself Wow great
+
+### Speaker 1 · Speaker 1
+
+So language culture mindset these are all keywords and uh this is something that I always work on with people because I believe it all starts there Now you are in Japan so your life your situation your career has changed I I can see that And so how do you feel today
+
+### Speaker 2 · Speaker 2
+
+How do I feel today Well I felt like in in what relates to this talking points of the the challenge I feel those I mean Im so grateful and Im so glad and grateful that I went through those things and you know I I believe everything everyone should experience that culture shock A shock is a bad thing You know a shock is not a warm shower its painful But it wakes you up from living in this very rigid full of rules life And then I think its the best thing ever Its like oh now I I know Im not a prison in this prison of how to live life And yeah the other thing as well is just uh there isnt anything holding back in terms of at least thats my experience that in terms of uh that voice oh because of your background because of your language uh because of your accent things are not going to work for you I think um yeah I couldnt I mean thats its really awesome that that happened And now well I feel pretty happy with how things are going I mean I I like living internationally I like living a life like this I sometimes I dont even think its international You know this idea of home going back home sometimes people ask uh I think I stopped thinking in terms of that I think home is where I mean things are familiar Youre familiar with the place and you feel good in that place So it is uh you stop thinking in terms of oh my city or even my country is you can be in very different locations for many years and and just feel pretty at home
+
+### Speaker 1 · Speaker 1
+
+Thats good Yeah I like it I guess as I said global citizen thats thats something that I truly truly love yeah Gideon were towards the end of our chat So I usually like to close with recommendations So people are watching and some people are might be thinking okay I want to have an international experience or I want to stay where I live now but I want to work internationally So what would be like recommendations from you to them
+
+### Speaker 2 · Speaker 2
+
+Wow yeah I would say well the first thing is language is important Its not important in the sense that like having an accent those things uh you know that doesnt matter Its really not going to stop you from anything But knowing the language communicating with clarity and and to a certain degree its really important And I think its like I feel like knowing English English for example is the international language Knowing English if I didnt know English it was it was it would be similar to not having a smartphone not having a Wi Fi It was like its so it would be so crippling and it would be so limiting not to know the language So yeah be very good at that So like learning the language is its a lot of work but I think its it pays off big time it changes your life forever And second step I think just I dont know I dont want to say just do it but I want to say um people outside they are theres a lot of people you can connect to in the world You know theres you can make friends everywhere you go There is people are curious and theyre interested in you and I think living outside of your country is very exciting and and interesting but youre going to meet a lot of people locals but also people living outside of their country too who you can share this experience And theres lots of people living like that uh pretty much everywhere So I I think thats what I would say Does that make sense I dont know
+
+### Speaker 1 · Speaker 1
+
+Yeah were going back to the keywords language culture and in a way mindset because uh language learn a language learn an international language Culture connect with people So theres a lot of people around who are experiencing who have similar experiences or who have similar desires similar dreams And Id say yeah mindset so just open you know rather than close Thats at least thats the way I see it and you know the way you you explained it it really resonates because in a way this is I mean my personal experience that completely changed my approach you know when I started connecting with people around and you really realized that yeah we are similar we have similar dreams aspirations and so yeah lets go get lets go get it Lets talk lets open lets communicate you know
+
+### Speaker 2 · Speaker 2
+
+I think for me its all about the people and once you you yeah you establish those connections and you make you know your life like the people around your life is a certain type of people Youre going to the language comes pretty fast Youre so interested like having a connection with people so powerful and important that the language is going to come So if you find its hard to learn language where you are maybe because its missing the peoples part you know having when you have career or friends where for example you speak English youre going to accelerate so fast because its so meaningful you cant wait youre running towards that because its so interesting So uh its its all about people in the end and to a to a point where sometimes you dont even remember what language youre speaking right Youre just uh its about the interactions And those things become
+
+### Speaker 1 · Speaker 1
+
+Absolutely So put people back in your language Yes I I love this Yeah we can we should frame a new slogan you know its all about people so connection Yes I absolutely agree with you Gideon Um okay so before closing uh do you want to tell people like if people want to connect with you where can they find you
+
+### Speaker 2 · Speaker 2
+
+All right so there is my website is wwwgideonkummercom so maybe you can add something Yes well put it in the comments And from there you can find pretty much in terms of what I do Im also very active on LinkedIn so thats my main social media place If you want to engage in our discussions there so Im theres discussions every week and Im really happy to connect just send a connection request And other than that is Im really open to having a chat for anyone who wants to have a 15 minute intro chat just book a call on my from my LinkedIn or from my website And I guess thats it
+
+### Speaker 1 · Speaker 1
+
+Wow thank you Yes so people do connect with Gideon and even just for a chat as you said because you know hes been traveling around the world and Im sure hes plenty to share there Okay so thank you very much for listening to us for watching if youre watching and for sticking around in general And I will see you in the next episode Bye

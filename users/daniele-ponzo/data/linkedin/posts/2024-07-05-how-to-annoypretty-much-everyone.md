@@ -1,0 +1,80 @@
+---
+id: '7214993406039629824'
+date: '2024-07-05T14:07:56.095Z'
+url: https://www.linkedin.com/posts/daniele-ponzo_how-to-annoypretty-much-everyone-graphic-activity-7214878169428836353-ht8F
+likes: 10
+comments: 10
+---
+
+How to annoy…pretty much everyone.
+
+Graphic Designer: “I just need a quick logo, I already have a good idea”
+
+IT pro: “You work with computers? Great, my printer is stuck, can you help?”
+
+Doctor: “Yeah, but I checked on Google and it said I had to take different tablets”
+
+Software engineer: “Just use ChatGPT to write your code, it’s the same”
+
+Service Delivery professional: “you now need to track your activities in our new software and in the old Excel spreadsheet”
+
+Job Applicant: “send us your CV, then fill in our CV form on the website, then send us a paper copy of your CV. We will let you know”
+
+HR Manager: “I don’t know anything about this job, my dad sends CV’s for me”
+
+CEO: “You’re not really a CEO”
+
+Copywriter: “Ah, you write on social media? Can you write a Facebook post for me, so I look cool?”
+
+Automation Engineer: “there’s a typo in your code”
+
+English Teacher: “great website. It’s features are amazing”
+
+Project Manager: “Sorry, we had to reduce the delivery time. Ah, and we’re cutting the budget too. I’m sure this won’t be a problem for you”
+
+Customer: “Please hold the line, your call is very important for us”
+
+Team Leader: “Can you help us with recruiting, mentoring and preparing development plans? Also, we have 15 new resources in our new data centre, I’m sure you can handle them. Don’t forget to organize the team night out”
+
+Employee: “No pay rise this year, our 110% margin is not enough. But you can go out with your colleagues and pay for your own meal. It’s fun!” 
+
+Social Media Manager: "I know it's midnight, but can you change the change back to what it was before the change?"
+
+Student: “You don’t understand anything! When I was your age…”
+
+Finance Manager: “I’ve just offered our client a new feature within the same budget, I’m sure this will be ok on the P&L”
+
+Call Centre Agent: “Remember to log the time you spend in the toilet”
+
+Artist: “My 2-year-old son could do the same”
+
+👉 Feel free to continue annoying people in the comments 👇 . 
+
+P.S. only one is a literal phrase I’ve heard. Can you guess which one?
+
+## Comments (6)
+
+### Andre Salles (CELTA Qualified Private Teacher|Business English|General English|Interactive Activities for English Teachers)
+> Photographer: Great photo! What's your camera?
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> So, just to let you know, the one I heard myself was: "I don't know anything about this job, my dad sends CVs for me". Someone in HR told me this story a while ago.
+
+### Elisa Flora Bezze (comunicazione aziendale e backoffice presso I.M.S.A. srl)
+> I'm quite sure I'll guess the one you really heard - I heard it 😫 “Please hold the line, your call is very important for us” 😒
+
+### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
+> How to annoy someone who posts on LinkedIn: "I read your post, but I don't comment" 😜
+
+### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
+> Daniele Ponzo I have to share this gem
+> After listening to a ‘great’ client about his needs, I told him about the benefits and services I could offer.
+> "You don't have a price list for everything you do?" he asked.😳
+> 
+> I felt like a shopkeeper being asked for a price list of goods .He was a sales rep, so I get it, he's all about price lists. 
+> And this was all in Italian, mind you! Then he finishes with, "Anyway, my English is fine, I get by “ This was after 45 minutes of talking.
+> Some people really do think with their own heads. 😄
+
+### David Barrow, CITP FBCS (Defining Service Management Standards & Frameworks which work in the real world | Chair, BSI IST/60/2 (ISO/IEC 20000) | Director of Consulting, The ITSM People | Founder, Sol Seven Studio | Author | Speaker | Ultrarunner)
+> Photographer: Please can you take photos at our wedding/christening / social event (delete as appropriate)? We won't pay you, but it'll be great for your portfolio.
+
