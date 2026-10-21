@@ -1,5 +1,5 @@
 channel_url: users/olga/data/loom/loom.yaml
-total_videos: 42
+total_videos: 46
 videos:
 - id: 5912cd3e872a4a1f890a56983f4c9583
   url: https://www.loom.com/share/5912cd3e872a4a1f890a56983f4c9583
@@ -467,3 +467,32 @@ videos:
   speakers:
     '1': Speaker 1
     '2': Speaker 2
+- id: c0fbc1c4bb9648bd846b44b267539eac
+  url: https://www.loom.com/share/c0fbc1c4bb9648bd846b44b267539eac
+  title: Live objection handling + Objection loops
+  upload_date: '2024-09-18'
+  description: ''
+  author: Liveit Up
+- id: 3dcd53854624406198302a57c4cac24b
+  url: https://www.loom.com/share/3dcd53854624406198302a57c4cac24b
+  title: How to remove the sales resistnce + commitmnet
+  upload_date: '2024-09-18'
+  description: ''
+  author: Liveit Up
+  model: gemini-2.5-flash
+  speaker_count: 2
+  speakers:
+    '1': Speaker 1
+    '2': Speaker 2
+- id: cae93b9d610746b99f86630f0e2fac59
+  url: https://www.loom.com/share/cae93b9d610746b99f86630f0e2fac59
+  title: Objection 1-15
+  upload_date: '2024-09-17'
+  description: ''
+  author: Liveit Up
+- id: 25b265509d094f28a0756c186a4e77ca
+  url: https://www.loom.com/share/25b265509d094f28a0756c186a4e77ca
+  title: Objections 14-47
+  upload_date: '2024-09-17'
+  description: ''
+  author: Liveit Up

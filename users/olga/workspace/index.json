@@ -1,0 +1,977 @@
+{
+  "sources": {
+    "docs-2026-10-15-off-plan-messaging-playbook-from-first-message-to-dead-lead-md-bc7f15c507": {
+      "path": "docs/2026-10-15-Off-Plan-Messaging-Playbook-From-First-Message-to-Dead-Lead-.md",
+      "sha256": "03f7727e6ca103f9d243857d32526cbda3eabb174df10ae2dbf4e2b46b5973e6",
+      "basis": "whole"
+    },
+    "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8": {
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "sha256": "3cae47f16a4fe9f145ee24a66f93bc5a96fcdf9c0c31457156245d4b3a7d500e",
+      "basis": "list"
+    },
+    "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26": {
+      "path": "docs/2026-10-20-Session-2-Objection-Handling-Slides-.md",
+      "sha256": "db81b8e3e640198611458b6417a48b784587e9525c02e5c1fc96f96c8735d19c",
+      "basis": "list"
+    },
+    "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961": {
+      "path": "docs/2026-10-20-Session-2-Objection-Handling-Workbook-.md",
+      "sha256": "91cd16dbae26b95c9076f01fdbccd756aa9ced06207f7994b3ad34ea4e6a90ed",
+      "basis": "list"
+    }
+  },
+  "items": [
+    {
+      "title": "The Off-Plan Messaging Playbook",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "messaging scripts"
+        },
+        {
+          "facet": "topic",
+          "label": "international leads"
+        },
+        {
+          "facet": "situation",
+          "label": "unresponsive leads"
+        },
+        {
+          "facet": "activity",
+          "label": "follow-up"
+        }
+      ],
+      "span": {
+        "start_line": 1,
+        "end_line": 100
+      },
+      "quote": "﻿The Off-Plan Messaging Playbook Block 1 - Leads from Social Media Marketing - Clicked on Offplan Project ADVERTISEMENT Specifics of Calling Clients from Different Countries When working with international leads, you need to understand that communication habits are different in every market. The platform that works well in Dubai may not work the same way with clients from other countries. USA Clients Clients from the USA usually do not use WhatsApp as their main communication channel. They mostl",
+      "item_id": "docs-2026-10-15-off-plan-messaging-playbook-from-first-message-to-dead-lead-md-bc7f15c507:0001-0100",
+      "source_id": "docs-2026-10-15-off-plan-messaging-playbook-from-first-message-to-dead-lead-md-bc7f15c507",
+      "path": "docs/2026-10-15-Off-Plan-Messaging-Playbook-From-First-Message-to-Dead-Lead-.md",
+      "prev": null,
+      "next": null
+    },
+    {
+      "title": "\"I need some time to think.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "objection handling"
+        },
+        {
+          "facet": "situation",
+          "label": "client needs time to think"
+        }
+      ],
+      "span": {
+        "start_line": 2,
+        "end_line": 2
+      },
+      "quote": "2. \"I need some time to think.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0002-0002",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": null,
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0003-0003"
+    },
+    {
+      "title": "\"Dubai prices are already too high. Call me when prices are down.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "market pricing objections"
+        },
+        {
+          "facet": "situation",
+          "label": "client thinks prices are too high"
+        }
+      ],
+      "span": {
+        "start_line": 3,
+        "end_line": 3
+      },
+      "quote": "3. \"Dubai prices are already too high. Call me when prices are down.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0003-0003",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0002-0002",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0004-0004"
+    },
+    {
+      "title": "\"How do I know the developer will deliver on time?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "developer credibility"
+        },
+        {
+          "facet": "situation",
+          "label": "concern over completion delays"
+        }
+      ],
+      "span": {
+        "start_line": 4,
+        "end_line": 4
+      },
+      "quote": "4. \"How do I know the developer will deliver on time?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0004-0004",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0003-0003",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0005-0005"
+    },
+    {
+      "title": "\"The ROI you're showing me is only projected.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "projected ROI credibility"
+        },
+        {
+          "facet": "situation",
+          "label": "skepticism about return on investment"
+        }
+      ],
+      "span": {
+        "start_line": 5,
+        "end_line": 5
+      },
+      "quote": "5. \"The ROI you're showing me is only projected.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0005-0005",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0004-0004",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0006-0006"
+    },
+    {
+      "title": "\"What happens if I can't rent the property?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "rental vacancy risk"
+        },
+        {
+          "facet": "situation",
+          "label": "client fears failing to find tenants"
+        }
+      ],
+      "span": {
+        "start_line": 6,
+        "end_line": 6
+      },
+      "quote": "6. \"What happens if I can't rent the property?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0006-0006",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0005-0005",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0007-0007"
+    },
+    {
+      "title": "\"I don't want to lock my money up for 3–5 years.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "capital liquidity"
+        },
+        {
+          "facet": "situation",
+          "label": "reluctance to tie up funds"
+        }
+      ],
+      "span": {
+        "start_line": 7,
+        "end_line": 7
+      },
+      "quote": "7. \"I don't want to lock my money up for 3–5 years.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0007-0007",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0006-0006",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0008-0008"
+    },
+    {
+      "title": "\"Why should I invest in Dubai instead of keeping my money in stocks/fixed deposits/my business?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "asset class comparison"
+        },
+        {
+          "facet": "situation",
+          "label": "comparing property to stocks or business"
+        }
+      ],
+      "span": {
+        "start_line": 8,
+        "end_line": 8
+      },
+      "quote": "8. \"Why should I invest in Dubai instead of keeping my money in stocks/fixed deposits/my business?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0008-0008",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0007-0007",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0009-0009"
+    },
+    {
+      "title": "\"There are thousands of agents calling me. Why should I trust you?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "broker differentiation"
+        },
+        {
+          "facet": "situation",
+          "label": "client overwhelmed by competing brokers"
+        }
+      ],
+      "span": {
+        "start_line": 9,
+        "end_line": 9
+      },
+      "quote": "9. \"There are thousands of agents calling me. Why should I trust you?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0009-0009",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0008-0008",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0010-0010"
+    },
+    {
+      "title": "\"Every broker tells me their project is the best investment.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "broker skepticism"
+        },
+        {
+          "facet": "situation",
+          "label": "client hearing uniform sales pitches"
+        }
+      ],
+      "span": {
+        "start_line": 10,
+        "end_line": 10
+      },
+      "quote": "10. \"Every broker tells me their project is the best investment.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0010-0010",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0009-0009",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0011-0011"
+    },
+    {
+      "title": "\"What if I need to exit before handover? Who will buy it from me?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "off-plan exit strategy"
+        },
+        {
+          "facet": "situation",
+          "label": "resale before project handover"
+        }
+      ],
+      "span": {
+        "start_line": 11,
+        "end_line": 11
+      },
+      "quote": "11. \"What if I need to exit before handover? Who will buy it from me?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0011-0011",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0010-0010",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0012-0012"
+    },
+    {
+      "title": "\"I don't see enough appreciation potential at this price.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "capital appreciation"
+        },
+        {
+          "facet": "situation",
+          "label": "client doubts future growth"
+        }
+      ],
+      "span": {
+        "start_line": 12,
+        "end_line": 12
+      },
+      "quote": "12. \"I don't see enough appreciation potential at this price.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0012-0012",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0011-0011",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0013-0013"
+    },
+    {
+      "title": "\"I need to speak to my wife/husband/business partner first.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "decision maker stalling"
+        },
+        {
+          "facet": "situation",
+          "label": "consulting a partner or spouse"
+        }
+      ],
+      "span": {
+        "start_line": 13,
+        "end_line": 13
+      },
+      "quote": "13. \"I need to speak to my wife/husband/business partner first.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0013-0013",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0012-0012",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0014-0014"
+    },
+    {
+      "title": "\"Send me the details on WhatsApp. I'll check and get back to you.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "call brush-off handling"
+        },
+        {
+          "facet": "situation",
+          "label": "lead deflects to messaging"
+        }
+      ],
+      "span": {
+        "start_line": 14,
+        "end_line": 14
+      },
+      "quote": "14. \"Send me the details on WhatsApp. I'll check and get back to you.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0014-0014",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0013-0013",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0015-0015"
+    },
+    {
+      "title": "\"Who will put my property on rent after its built up?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "property management services"
+        },
+        {
+          "facet": "situation",
+          "label": "post-handover tenant placement"
+        }
+      ],
+      "span": {
+        "start_line": 15,
+        "end_line": 15
+      },
+      "quote": "15. \"Who will put my property on rent after its built up?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0015-0015",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0014-0014",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0016-0016"
+    },
+    {
+      "title": "\"Thanks for the meeting, send me the projects I will do my own research and see what works out best for me. I use chat gpt to help me with this.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "independent research handling"
+        },
+        {
+          "facet": "situation",
+          "label": "buyer relying on AI and self-research"
+        }
+      ],
+      "span": {
+        "start_line": 16,
+        "end_line": 16
+      },
+      "quote": "16. \"Thanks for the meeting, send me the projects I will do my own research and see what works out best for me. I use chat gpt to help me with this.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0016-0016",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0015-0015",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0017-0017"
+    },
+    {
+      "title": "\"Its just not the right time for me to invest. Maybe in 6 month I will get back.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "investment delay objections"
+        },
+        {
+          "facet": "situation",
+          "label": "client delaying purchase by months"
+        }
+      ],
+      "span": {
+        "start_line": 17,
+        "end_line": 17
+      },
+      "quote": "17. \"Its just not the right time for me to invest. Maybe in 6 month I will get back.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0017-0017",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0016-0016",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0018-0018"
+    },
+    {
+      "title": "\"I may be interested next year as I am looking to open a business in dubai then will get in touch.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "long-term follow-up"
+        },
+        {
+          "facet": "situation",
+          "label": "prospect waiting to start a business first"
+        }
+      ],
+      "span": {
+        "start_line": 18,
+        "end_line": 18
+      },
+      "quote": "18. \"I may be interested next year as I am looking to open a business in dubai then will get in touch.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0018-0018",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0017-0017",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0019-0019"
+    },
+    {
+      "title": "\"I am interested in buying in dubai. My only budget is £10,000 down payment and monthly i can pay £400. Anything like this send me plz.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "budget qualification"
+        },
+        {
+          "facet": "situation",
+          "label": "unrealistic buyer budget"
+        }
+      ],
+      "span": {
+        "start_line": 19,
+        "end_line": 19
+      },
+      "quote": "19. \"I am interested in buying in dubai. My only budget is £10,000 down payment and monthly i can pay £400. Anything like this send me plz.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0019-0019",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0018-0018",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0020-0020"
+    },
+    {
+      "title": "\"Until there is a memorandum on the war, I won't buy anything. But I live in Dubai and I will be here for a long time.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "geopolitical uncertainty"
+        },
+        {
+          "facet": "situation",
+          "label": "buyer waiting for war resolution"
+        }
+      ],
+      "span": {
+        "start_line": 20,
+        "end_line": 20
+      },
+      "quote": "20. \"Until there is a memorandum on the war, I won't buy anything. But I live in Dubai and I will be here for a long time.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0020-0020",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0019-0019",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0021-0021"
+    },
+    {
+      "title": "\"I want to buy, but my wife is scared because of the war, and we are afraid to fly in with the kids in case the planes stop flying.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "conflict-related safety concerns"
+        },
+        {
+          "facet": "situation",
+          "label": "family fear of travel due to war"
+        }
+      ],
+      "span": {
+        "start_line": 21,
+        "end_line": 21
+      },
+      "quote": "21. \"I want to buy, but my wife is scared because of the war, and we are afraid to fly in with the kids in case the planes stop flying.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0021-0021",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0020-0020",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0022-0022"
+    },
+    {
+      "title": "\"I don't like the layout, there is no laundry room or the rooms are too small.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "floor plan objections"
+        },
+        {
+          "facet": "situation",
+          "label": "dissatisfaction with unit layout and room size"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 22
+      },
+      "quote": "22. \"I don't like the layout, there is no laundry room or the rooms are too small.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0022-0022",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0021-0021",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0023-0023"
+    },
+    {
+      "title": "\"There is no sea view.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "unit view preferences"
+        },
+        {
+          "facet": "situation",
+          "label": "buyer demanding a sea view"
+        }
+      ],
+      "span": {
+        "start_line": 23,
+        "end_line": 23
+      },
+      "quote": "23. \"There is no sea view.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0023-0023",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0022-0022",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0024-0024"
+    },
+    {
+      "title": "\"I'm busy. I don't have time.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "cold call gatekeeping"
+        },
+        {
+          "facet": "situation",
+          "label": "prospect says they have no time"
+        }
+      ],
+      "span": {
+        "start_line": 24,
+        "end_line": 24
+      },
+      "quote": "24. \"I'm busy. I don't have time.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0024-0024",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0023-0023",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0025-0025"
+    },
+    {
+      "title": "\"I'm not looking to buy anything right now.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "buyer urgency"
+        },
+        {
+          "facet": "situation",
+          "label": "client claiming lack of current interest"
+        }
+      ],
+      "span": {
+        "start_line": 25,
+        "end_line": 25
+      },
+      "quote": "25. \"I'm not looking to buy anything right now.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0025-0025",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0024-0024",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0026-0026"
+    },
+    {
+      "title": "\"The rental yield isn't attractive.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "yield objections"
+        },
+        {
+          "facet": "situation",
+          "label": "client dissatisfied with rental returns"
+        }
+      ],
+      "span": {
+        "start_line": 26,
+        "end_line": 26
+      },
+      "quote": "26. \"The rental yield isn't attractive.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0026-0026",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0025-0025",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0027-0027"
+    },
+    {
+      "title": "\"I'll wait for the market to crash.\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "market timing"
+        },
+        {
+          "facet": "situation",
+          "label": "buyer waiting for market collapse"
+        }
+      ],
+      "span": {
+        "start_line": 27,
+        "end_line": 27
+      },
+      "quote": "27. \"I'll wait for the market to crash.\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0027-0027",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0026-0026",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0028-0028"
+    },
+    {
+      "title": "\"How do I know you're actually working for a legitimate agency?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "agency verification"
+        },
+        {
+          "facet": "situation",
+          "label": "client questioning agency legitimacy"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 28
+      },
+      "quote": "28. \"How do I know you're actually working for a legitimate agency?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0028-0028",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0027-0027",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0029-0029"
+    },
+    {
+      "title": "\"Why does another agent have the same unit at a different price?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "pricing discrepancies"
+        },
+        {
+          "facet": "situation",
+          "label": "conflicting broker pricing"
+        }
+      ],
+      "span": {
+        "start_line": 29,
+        "end_line": 29
+      },
+      "quote": "29. \"Why does another agent have the same unit at a different price?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0029-0029",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0028-0028",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0030-0030"
+    },
+    {
+      "title": "\"What if the property is worth less than what I paid at handover?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "handover valuation risk"
+        },
+        {
+          "facet": "situation",
+          "label": "fear of property depreciation"
+        }
+      ],
+      "span": {
+        "start_line": 30,
+        "end_line": 30
+      },
+      "quote": "30. \"What if the property is worth less than what I paid at handover?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0030-0030",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0029-0029",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0031-0031"
+    },
+    {
+      "title": "\"Can you show me someone who actually made money selling in this development?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "proof of returns"
+        },
+        {
+          "facet": "situation",
+          "label": "client requesting historical profit proof"
+        }
+      ],
+      "span": {
+        "start_line": 31,
+        "end_line": 31
+      },
+      "quote": "31. \"Can you show me someone who actually made money selling in this development?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0031-0031",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0030-0030",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0032-0032"
+    },
+    {
+      "title": "\"What happens if the developer launches cheaper units next month?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "subsequent phase pricing"
+        },
+        {
+          "facet": "situation",
+          "label": "concern over future developer discounting"
+        }
+      ],
+      "span": {
+        "start_line": 32,
+        "end_line": 32
+      },
+      "quote": "32. \"What happens if the developer launches cheaper units next month?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0032-0032",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0031-0031",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0033-0033"
+    },
+    {
+      "title": "\"Why are you asking me to reserve the unit before I've reviewed the contract?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "reservation agreements"
+        },
+        {
+          "facet": "situation",
+          "label": "reluctance to commit prior to contract review"
+        }
+      ],
+      "span": {
+        "start_line": 33,
+        "end_line": 33
+      },
+      "quote": "33. \"Why are you asking me to reserve the unit before I've reviewed the contract?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0033-0033",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0032-0032",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0034-0034"
+    },
+    {
+      "title": "\"How do I know you'll still help me after you've received your commission?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "after-sales support"
+        },
+        {
+          "facet": "situation",
+          "label": "buyer fear of broker abandonment post-closing"
+        }
+      ],
+      "span": {
+        "start_line": 34,
+        "end_line": 34
+      },
+      "quote": "34. \"How do I know you'll still help me after you've received your commission?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0034-0034",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0033-0033",
+      "next": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0035-0035"
+    },
+    {
+      "title": "\"Why should I make a decision today when the project won't be completed for years?\"",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "off-plan timeline objections"
+        },
+        {
+          "facet": "situation",
+          "label": "reluctance to decide early on long construction projects"
+        }
+      ],
+      "span": {
+        "start_line": 35,
+        "end_line": 35
+      },
+      "quote": "35. \"Why should I make a decision today when the project won't be completed for years?\"",
+      "item_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0035-0035",
+      "source_id": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8",
+      "path": "docs/2026-10-20-Objection-Responses-Scripts-.md",
+      "prev": "docs-2026-10-20-objection-responses-scripts-md-3ead5991e8:0034-0034",
+      "next": null
+    },
+    {
+      "title": "What is an Objection",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "objection mindset"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 22,
+        "end_line": 37
+      },
+      "quote": "PART 1 · MINDSET Objection is only a concern that your client has, it's not a rejection of you. 4 It's not the time to react to any objection. You and your client need to work as a team. First to understand the concern, undercover what is behind the concern and then work together as a team to help the client overcome it. 5 PART 1 · MINDSET What's running in your head immediately if the client says: “I will wait and see how the situation with this conflict gonna go.” “It's too expensive.” “I want",
+      "item_id": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26:0022-0037",
+      "source_id": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26",
+      "path": "docs/2026-10-20-Session-2-Objection-Handling-Slides-.md",
+      "prev": null,
+      "next": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26:0039-0074"
+    },
+    {
+      "title": "Objection Handling Formula",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "objection handling formula"
+        },
+        {
+          "facet": "activity",
+          "label": "sales training"
+        }
+      ],
+      "span": {
+        "start_line": 39,
+        "end_line": 74
+      },
+      "quote": "PART 2 · THE FORMULA 3-Step Objection Handling Formula 1 Clarify 2 Discuss 3 Diffuse + Agree on the next step where we lead the client Clarify - we never assume, just based on our past experiences, what this means for this exact client. 7 STEP 1 · CLARIFY Clarifying Questions to Ask “Now…when you say (repeat back what they said) what do you mean by that?” “I'm curious, did you ask me that for a reason?” “Can I ask where you got this information from?” 8 STEP 1 · CLARIFY Clarifying Questions to A",
+      "item_id": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26:0039-0074",
+      "source_id": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26",
+      "path": "docs/2026-10-20-Session-2-Objection-Handling-Slides-.md",
+      "prev": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26:0022-0037",
+      "next": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26:0339-0422"
+    },
+    {
+      "title": "Objection Handling Exercise",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "objection handling practice"
+        },
+        {
+          "facet": "activity",
+          "label": "roleplay exercise"
+        }
+      ],
+      "span": {
+        "start_line": 339,
+        "end_line": 422
+      },
+      "quote": "PRACTICE Two Teams. One List. Team A Gives the client an objection from the list — call out the number. Team B The agent handles it: Clarify → Discuss → Diffuse → Agree on the next step. Observer Checks the agent and gives feedback. Switch teams after every round. 47 PART 2 · THE FORMULA 3-Step Objection Handling Formula 1 Clarify 2 Discuss 3 Diffuse + Agree on the next step where we lead the client Clarify - we never assume, just based on our past experiences, what this means for this exact cli",
+      "item_id": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26:0339-0422",
+      "source_id": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26",
+      "path": "docs/2026-10-20-Session-2-Objection-Handling-Slides-.md",
+      "prev": "docs-2026-10-20-session-2-objection-handling-slides-md-1d98819e26:0039-0074",
+      "next": null
+    },
+    {
+      "title": "Clarify",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "clarifying objections"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 28,
+        "end_line": 35
+      },
+      "quote": "1. Clarify → 2. Discuss → 3. Diffuse Clarify - we never assume, just based on our past experiences, what this means for this exact client. Clarifying Questions to Ask * “Now…when you say (repeat back what they said) what do you mean by that?” * “I'm curious, did you ask me that for a reason?” * “Can I ask where you got this information from?” * “Can you tell me more about that?” * “When you say (repeat back the concern), what's behind that, just so I understand?”",
+      "item_id": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961:0028-0035",
+      "source_id": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961",
+      "path": "docs/2026-10-20-Session-2-Objection-Handling-Workbook-.md",
+      "prev": null,
+      "next": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961:0036-0036"
+    },
+    {
+      "title": "Discuss",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "discussing objections"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 36,
+        "end_line": 36
+      },
+      "quote": "Discuss - When you understand what is the actual concern you can discuss what are the possible ways to overcome it.",
+      "item_id": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961:0036-0036",
+      "source_id": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961",
+      "path": "docs/2026-10-20-Session-2-Objection-Handling-Workbook-.md",
+      "prev": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961:0028-0035",
+      "next": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961:0037-0047"
+    },
+    {
+      "title": "Diffuse",
+      "tags": [
+        {
+          "facet": "topic",
+          "label": "diffusing objections"
+        },
+        {
+          "facet": "activity",
+          "label": "sales coaching"
+        }
+      ],
+      "span": {
+        "start_line": 37,
+        "end_line": 47
+      },
+      "quote": "Diffuse - Offer a perspective, or a solution, that did work for other clients before. * “Can I offer a suggestion? The way the other clients did that is…” * “Do you feel this could be an option for you?” Your Turn Pick the clarifying question you will use most. Write it out word for word, until you can say it without thinking. ______________________________________________________________________ ______________________________________________________________________ Which step do you usually ski",
+      "item_id": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961:0037-0047",
+      "source_id": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961",
+      "path": "docs/2026-10-20-Session-2-Objection-Handling-Workbook-.md",
+      "prev": "docs-2026-10-20-session-2-objection-handling-workbook-md-a41b963961:0036-0036",
+      "next": null
+    }
+  ]
+}
