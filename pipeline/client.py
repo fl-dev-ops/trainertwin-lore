@@ -102,7 +102,7 @@ class OpenRouter:
         self.last_usage: dict[str, Any] = {}
         self.spend_budget = None
         self.max_output_tokens = 16384
-        self.provider = "Cerebras"
+        self.provider = None
         self.reasoning_effort = None
         self.temperature = None
         self.http = httpx.Client(

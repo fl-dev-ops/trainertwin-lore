@@ -1,0 +1,207 @@
+---
+id: eTwU_0ObdlA
+title: ICF Coaching Competency 6 The Dilemma for MCC Master Coach
+date: '2024-02-23'
+url: https://www.youtube.com/watch?v=eTwU_0ObdlA
+description: 'This advanced coach training for ICF Netherlands teaches you how to
+  listen from your subconscious; tap in to your entire body of knowledge at the speed
+  of thought; and reawaken your ability to sense and read the energetic signal coming
+  from the person you are coaching.
+
+
+  Enabling the "In the moment" state that is required for MCC level coaching.'
+author: tonylatimermcc
+model: universal-3-5-pro
+transcript: true
+speaker_count: 8
+speakers:
+  '1': Speaker 1
+  '2': Speaker 2
+  '3': Speaker 3
+  '4': Speaker 4
+  '5': Speaker 5
+  '6': Speaker 6
+  '7': Speaker 7
+  '8': Speaker 8
+---
+
+
+# ICF Coaching Competency 6 The Dilemma for MCC Master Coach
+
+## Transcript
+
+### Speaker 1 · Speaker 1
+
+So good evening everybody because it is evening Trust me those of you on the other side of the world if you wonder if the suns going to rise tomorrow trust me itll be fine It will It did We have just under an hour and when I agreed to do this session we kind of titled it as the Dilemma of Competency 6 because we have a problem We have a problem with coaching and we have a problem with Competency 6 Coaching particularly the way we do it at the higher levels we dont have language to adequately describe what we do which is why we see a lot of us coming from different schools getting caught up in jargon and terminology If I I will try very hard to be very clear about my use of a word and how Im using it and what I mean And it doesnt mean Im right it just means thats how Im using it This reflects on the other problem that we have because Competency 6 is called listens actively and Im going to tell you I dont want you to do that I dont have a word to substitute The phrase I use is listening with an empty mind because coaching is the process of making people think and to do that you have to create a subconscious to subconscious connection You have to push the person youre coaching down into their subconscious And how to do that thats thats another long lecture Well do that another day But equally you have to listen from your subconscious And when we talk about active listening active sort of gets you engaged gets your conscious awareness running and you then start thinking And the human body has a significant failure your ears and your mouth do not work at the same time And equally your internal mouth when youre when youre talking to yourself when youre thinking That shuts off your ears as well So if you want to coach at the highest levels you want to stop thinking Its not your job to think Its the clients job to think Your job is to make them think So let me just explain terminology Im going to talk about conscious awareness and the subconscious In in some circles they talk conscious awareness unconscious subconscious Unconscious meaning um the bit of the brain that keeps the functions going keep breathing keep the blood flowing that kind of stuff Were not worried about that If any of that stops youve got a bigger problem So your conscious awareness is the stuff you are currently consciously aware of And it varies person to person brain structure to brain structure but on average we can handle 5 or 6 things in our conscious awareness at one time Now the simplest problem in life has more than 5 parameters If um talking about the the subconscious what I mean by the subconscious is if you think computer terms Your subconscious is the the massive mainframe the quantum processor and its the database of your entire body of knowledge all your experiences Yeah Now If we if we accept that coaching is the process of making people think then we can also say that innovation creativity problem solving are all the same thing They are simply connecting previously unconnected data in your brain So when you make somebody think they connect previously unconnected data they form a new neural pathway so they have what they call an idea or a solution and its theirs because its formed a neural pathway in their brain One of the reasons that were taught as coaches not to give solutions give advice because when you give advice youre giving one data point They dont own the data point When we see managers when were first teaching them to um to stop being the problem solver to their people so we teach them coaching skills And we want them to stop solving the problems because when you give advice and you give a solution the individual goes off maybe they try to do what you suggested then it doesnt work then they come back and say hey boss didnt work so now how Whereas once you trigger thought and interesting enough it can be as simple as you slip up you give somebody some advice and they go great Ill go and do that Before they leave the room you do your Steve Jobs bit You go well theres just one more thing I have a question Given that what Ive just told you was something I did in a different situation at a different time How will you make that work in your situation So no matter how badly you mess up and you end up giving somebody advice you do that one thing and they immediately have to start thinking The minute they start thinking theyre taking the idea theyre turning it into a neural pathway which means they own it So you know even as coaches we can mess up and its okay We can still get we can still get by What I want you to do though is um think of it as this listening from the subconscious So lets just check Im actually going in this session Im going to give you a physical experience of something So what I was thinking we might do is Ill tell you some stuff then Ill see what questions youve got and then well well give you a physical experience or something so that you can play with it and take away something you can really do Um do we at this point have any of you come into this session with questions about Competency 6 about listening You can raise your hand you can put it in the
+
+### Speaker 2 · Speaker 2
+
+chat May I share something here
+
+### Speaker 1 · Speaker 1
+
+Yes Monica
+
+### Speaker 2 · Speaker 2
+
+Um at the beginning you said you you felt that listens actively maybe was not quite appropriate What Im sensing here Im not sure what you think what the other rest The coaches here thing I see it as perceiving more than listening actively uh a perception that might be linked to Competence 5 Presence because we use all the senses So more than listening maybe it would be like perceiving the what at the beginning in order to go to the who Im not sure
+
+### Speaker 1 · Speaker 1
+
+Okay I I like that Um And I would actually just change it slightly to say maybe not perceiving but receiving So heres my belief you dont have to worry about all the 8 competencies if you learn to do number 6 correctly And then once you start the coaching you focus on Competency 3 Competency 3 is not a couple of questions you ask at the beginning Its the framework of the entire coaching conversation You get those 2 nailed 6 and 3 and the rest of them will take care of themselves They will show up as a result of that So one of the things I want to talk about today is how do you do that receiving How do we Listen not just um not just at the Newtonian physics but at the quantum physics level So coaching for me can happen at 2 levels Newtonian physics quantum physics You can just use the words you ask questions you listen to words you pick up on physical signals muscular changes eye movements and stuff like that Right Thats thats the mechanical stuff What were interested in is the energetic connection So I always say if you learn to coach without models you can get over the bar to MCC But thats like getting your black belt Youve practiced the foundation Youve practiced the basics But then Once youve got your black belt its like okay there are multiple levels of mastery and the levels of mastery depend on how much you can use energy as you go through that work Um Murat you have a question
+
+### Speaker 3 · Speaker 3
+
+Um not a question but if I may Id like to contribute by indicating that the direction of the communication as well as the relationship should be towards Starting from the coachee to coach Therefore while we are listening we are not trying to understand We shouldnt be trying to understand We shouldnt be trying to analyze and so on But we should be on top of that We should be trying to help the client Therefore we should be acting as a sounding board or a reflecting board to the client Therefore being not passive but being open and being a tabula rasa or a clean sheet it works better I think
+
+### Speaker 1 · Speaker 1
+
+Okay yeah I like that um because youre absolutely right The coach has nothing to do except what comes from the client Yes uh Warren your hand was up next I think
+
+### Speaker 4 · Speaker 4
+
+Um thank you So You mentioned different levels of mastery
+
+### Speaker 1 · Speaker 1
+
+Yeah
+
+### Speaker 4 · Speaker 4
+
+Does that include active listening So assuming if I have the ability to detach and connect subconscious to subconscious now as a recently graduated coach Can that competency is that still a competency that in itself needs mastery
+
+### Speaker 1 · Speaker 1
+
+Yes
+
+### Speaker 4 · Speaker 4
+
+Okay thank you
+
+### Speaker 1 · Speaker 1
+
+And and Ill explain that Thats a very simple answer wasnt it But Ill explain a little bit more when we get into this what Im going to show you to do Its because when you learn the empty minded listening it triggers the first piece of work at the energetic level So Ill come back to that one in a moment and do Um Chris youve put in the uh hi Lynn good to see you Uh Chris you said how do you stop thinking while listening and keep the mind empty Thats the bit Im gonna I thought would be fun for us to do Im going to physically take you through the experience of creating that mind state So Im going to kind of change your life forever today if thats okay Yeah Alexander you were your hand went up next as well as I saw it
+
+### Speaker 5 · Speaker 5
+
+Yes Tony good day Am I understood right I dont like the term active listening I prefer one way feeling of the client Its a total perception of the client and his state Am I right
+
+### Speaker 1 · Speaker 1
+
+I think thats a good way of describing what Im looking for Yes yes yes So the fun bit is um Ive over the years Ive done a lot of workshops all around the world And at the time some years ago when Nokia you remember Nokia the guys who used to make phones When when they were building their factory in Chennai they went from I think 9 people to 30000 people in 3 years So for a couple of years I was going there almost every week um training the managers and just helping them because it was like being strapped to a rocket ship Um workshops in India are a lot more fun because theres a theres a different level of knowledge So I always used to say in the workshops very carefully for the purposes of this workshop you can only connect the data thats in your brain So the process of making somebody think is connecting previously unconnected data in the brain And as you do we took a coffee break and you do coffee in coffee out And as we were in that room where the gentlemen go and do the coffee out um I mean its busy so you dont get the alternates Everybody has to fill up every available slot in the parking lot And as were standing there minding our own business looking at the wall gentleman next to me said um I noticed you said for the purposes of this workshop I said yes He said oh good so you understand then And I said yes And the whole room just relaxed and smiled and went okay we can work with this guy Because what I was referring to what he picked up on was the fact that all matter is made of energy The entire universe is made of energy Im energy in one form youre energy in another form and the space between us is energy in another form And if if as say a Qigong practitioner does if you can learn to move the energy flow within your body and then learn to release some of it then we get into the quantum physics piece So as Einstein said E equals MC squared which means the energy potential of a body is its mass times the speed of light squared Thats a big number But if you can learn to release that energy you can start to have an impact Now for me the levels of mastery are the degree to which you can bring using energy into your coaching And I dont care what level of years of training or experience or credential youve got You can always learn mastery You teach I teach beginners mastery Yeah I mean of course Ive got programs to help a PCC get to an MCC but it doesnt matter where youre starting from you can learn this stuff So what what kind of happens Okay so to make sure Im being clear about what Im saying if you imagine dropping a pebble into water You see ripples Now the ripples is not the water moving If you put a rubber duck on it it would bob up and down What were seeing because the water is visible on a wavelength to us were seeing the energy move through the water Everything is made of energy and everything resonates Now youll have seen sometimes have you ever had a client whos had an emotional experience and cried during a coaching session Yes Thats Ive had that quite a lot And one of the things we have to recognize because a lot of new coaches tend to panic about this you know like what if they cry You have to recognize that theyre not upset They are simply experiencing a physical manifestation of the emotional content of the neural pathway that they are currently accessing Do you want me to say that one again Theyre experiencing a physical manifestation of the emotional content of the neural pathway they are accessing And understanding that is important because when when coaches say like what do I do in a coaching session if somebody cries The answer is absolutely nothing Yeah on on the table behind me between the 2 armchairs theres nothing on that coffee table except a box of tissues The only permissible thing to do is just nudge the box of tissues across the table I also suggest Gently take away the eye contact because oddly enough adults have learned nothing since we were children Remember when the 2 year old first discovers that if they cover their eyes up you cant see them and they start playing peekaboo with you Well we we still think that when were adults So as long as you take the eye contact away they feel safe they feel that theyre okay And theyll come back to you when theyre ready One of the really interesting things is if youve got I remember I had a client who 10 minutes into every coaching session um she was a senior corporate exec was heading up the the finance aspect of a global merger of 2 big multinationals Something was going on and 10 minutes into every session she just dissolved into floods of tears And I was a lot less experienced in those days but Id figured some of this stuff out And all you have to do is start speaking halfway through a sentence and take them to a different neural pathway Ill give you an example Um does any anybody remember 11 years ago watching the film Inception If you havent homework tonight go watch Inception Its brilliant So when Im talking about the subconscious I use the the imagery of their 3 models the 3 levels So in the movie theyre taking people deeper into the subconscious into their dream states Now research has proven that the deeper you go into the subconscious the faster the processing the thinking happens So as a coach thats why you want to get this subconscious to subconscious connection So in the movie the van goes off the bridge in real time and 1 second in real time is an hour at level 1 of the subconscious a day at level 2 a week at level 3 And those are not precise numbers but its a useful framework to think of So What were looking to do is get them and ourselves deeper down into our subconscious Now before I jump into the practicalities on that um Jussi you had your hand up and you put it down because you thought Id not noticed it but I finally got there What was the question
+
+### Speaker 6 · Speaker 6
+
+Thanks Tony for noticing that Uh my question is how do I know if Im actively listening or my mind is empty or not
+
+### Speaker 1 · Speaker 1
+
+Thats my question Thats it Okay got it So hands up how many of you have ever done meditation Okay So youll know what Im talking about Now meditations hard You know my experience was you practice for you know day in day out for for weeks months sometimes even years and then one day it works and your mind clears and you just float up into this beautiful space And then a split second later you just crash back down to earth If youve successfully meditated then you know the mind state Im talking about So this empty minded listening drop the active this place to listen from When you clear your conscious awareness you listen from your subconscious So everything the client is saying all the signals just go straight to your subconscious So your subconscious will then produce the next question When I go into a coaching session I have no idea what Im going to ask or where were going to go It all comes from the client and your subconscious is the one thats making those connections So what I what I thought about So I I got into coaching oh 1984 IBM sent me on a leadership course as a young manager um and we were we were learning non directive coaching for the first time using Galways uh Inner Game So we were learning to just coach tennis players I thought it was fascinating It worked Um but when I said guys how does it help me manage people The answer was we have no idea Were sports guys So I went back to work and being a techie I went okay Im going to try and figure this one out The the empty minded state that you experience when you meditate is where youve got to get to When you listen from there something very magical happens You start to pick up the energy signals So heres the really fun thing Remember I said people experience physical manifestations of the emotional content of the neural pathway theyre accessing That also happens at an energetic level That is a physical manifestation So for coaches learning to do energy work there are 3 levels First one as Alexander said is learning to receive learning to just pick up those invisible signals So when you were asking in the chat there its like how do you how do you know you know whats not being said Youre picking up the energy signals So the first thing is to learn to receive the energy signals coming from the other person The second one is learning to use the energy to connect with them And the third one is learning to move the energy because thoughts are physical Not your mind but your thoughts are physical Your thoughts are electrochemical signals on the neural pathways in your brain So if we accept that coaching and therefore creativity innovation problem solving is connecting the previously unconnected data rewiring the neural pathways anything that can help those vibrate and move will help them connect So the 3rd level if you like is is learning to use that energy with the person youre coaching to help the process go faster and deeper So um what I thought I would do is give you the physical experience of the empty minded state Im talking about Now those of you who do a lot of meditation will probably do this exercise and go yep I know that state Ive been there before thats where I go when I meditate In which case great Those of you whove never experienced it before will experience it and Im going to take you there and then Im going to give you something to practice Because the other thing I discovered over time once Id learned how to do this it then occurred to me that our brains store every state weve ever experienced So we know people talk about um having trauma issues Something happens something triggers A flashback So if somebody can trigger or be triggered to have a flashback to a previous mental state it means that mental state has been stored And if an external trigger can send you into the flashback surely that means its possible for you to do a conscious internal trigger So that was the theory So thats what I started playing with and I discovered you can So we need to create the mind state practice it on a regular basis so that we get there faster and stay there longer and then thirdly be able to just trigger ourselves to go back to that mind state whenever we want to Once you do that you will then find You can work start to do the energy work to get greater connections This is listening This is what we really want Competency Six to be So are you all up for just doing something physical Gently Okay Those of you who are not on video if you Are in a place where you can come on video that would be great because then I can just check that youre all doing it correctly Because heres the interesting thing about this technique Im going to show you I guarantee it will work if you do it correctly So if it doesnt work for you you didnt do it correctly Wish I had more products I could put that guarantee on but this one works So Let me explain briefly the context We are going to combine 3 things together The first one is acupressure So acupressure is like acupuncture but without the needles so we dont have to get the carpet dirty and covered in blood or anything like that When you the way acupressure and acupuncture work is that you hit on the energy meridian points on the body When you hit them it creates a tiny piezoelectric current and it smooths the flow of energy in the body So were going to do a simple physical technique of just pressing on some points The second thing were going to do is deep breathing because really deep breathing is very very relaxing And then the third thing is visualization Now um there is a tiny percentage of the worlds population who have a condition that means they cant do visualization There is also a slightly larger percentage of people who dont do it very often and therefore think they cant Is there anybody in the room whos a little unsure if they can do visualization or not Okay lets lets tune ourselves in I want you to all just follow my instructions and just see what happens for you First close your eyes Now in your mind I want you to go outside your house or apartment or wherever you live and look at the door See it as it is Now take out whatever device you use to unlock the door unlock the door and push it open Look into that first room and see it as it is Look at the walls Look at the floor Look up at the ceiling See it all as it actually is Good Now come back to me and open your eyes and close the door for security Okay come back So could you see it Yeah Yeah okay so you can do visualization Were in a good place Now the visualization Im going to get you to do is um you have to visualize something that is physically impossible Why Because when you visualize something thats physically impossible you occupy the entire of your conscious awareness because its hard work Um Ill tell you where I learned to do this Um I was I thought I was a good student at school but I wasnt I drove the teachers nuts when I got into secondary school because Im one of those people whose brain seems to only be able to learn stuff if I completely understand it So Im highly logical highly analytical and I take nothing if somebody says this is true then Im sorry Im gonna have to stretch it test it and take it apart until Ive either proved its true to my satisfaction or Ive changed it and modified it and Ive got something better So Im a pretty irritating person particularly to have in the classroom And we were at a school where the the teachers were not all academics So it was it was a grammar school So we have to play rugby and cricket and we dont have um we dont have a budget for a rugby coach So they hire a broken down rugby player as the rugby coach and say by the way you need to do maths and science So the teacher is typically in the classroom and they are one page in the textbook ahead of the kids Thats it So you can just imagine were there doing science and the teachers talking about space the solar system And and this is what this is in the 60s So we had colored posters on the wall in the classroom and that was about as innovative then as giving them iPads now It was mind blowing And there was this awesome picture Of the solar system So the teacher goes through yeah theres the sun and theres blah blah blah blah the planets and done and thats it And Im just blown away Im just visualizing this stuff and going like wow So the teacher tries to move on I go sir sir sir no please After the last one of the planets in the solar system what comes next He paused briefly and glanced at the textbook and went Well its space And in my head I could feel myself sort of zooming out and seeing this solar system surrounded by space Im kind of like wow Sir sir after the space whats next And now his teachers getting a little bit annoyed and he goes like well thats some its more solar systems So Ive got zoom Oh my God solar systems more solar systems And hes now moving on to the next topic and Im going but sir sir after all the solar systems whats next No guess what The textbook doesnt go there And he had no idea so he throws the blackboard duster at my head and said its the infinity of space you stupid boy And then he lost me for the day because I just sat there visualizing infinity And I tell you thats a hell of an exercise to do and its completely street legal You ever want to really go somewhere just sit down quietly and visualize infinity As Douglas Adams said its big its really big So were going to visualize something a little easier than that So Im going to get you to identify the pressure points Were going to press on them were going to breathe and Ill count you through it But as you breathe I want you to ignore the reality that breath goes in through your nose through your lungs and back I want you to visualize and see the breath flowing into your body through your finger Okay And then flowing out from your finger Okay so uh if you need to I dont know whether you can sort of stick me up so that you can see me nice and clearly if my pictures big If not do whatever you need to do to be able to see me nice and big The pressure points The first one were going to play with is at the beginning of your eyebrows and theres one on each side So I want you to just just physically go find them And if you press on them slightly it might hurt a little bit That just means youre in the right spot So just go check it test it press it Got it Nice Now slide around to the edge of the bone of your eye socket on the side right on the edge of the eye socket not the squidgy bits but right on the bone there and press hard That might hurt a little as well Yeah The 3rd one is on the edge of the bone of your eye socket right under the center of your eye Just press there The 4th one doesnt hurt Its just here single point just under your nose on your upper lip And the 5th one is here between your lip and your chin Thats it So what were going to do is take each of those points in turn Now you can go either side you dont need to do both and were just going to go one point at a time Were going to put pressure and breathe and see the breath So let me talk you through it Put the pressure on the first point Now see that breath flowing in through your finger to a count of 3 Breathe in 1 2 3 Hold it Breathe out 2 3 Now go to the point on the side of your eye Apply the pressure breathe to the finger in and out Now go under your eye Pressure breathe to the finger in In And out Under your nose pressure breathe to the finger In and out Under your chin pressure Breathe to the finger in and out Okay let that settle Now just go up into your head and just see whats going on Lets get reactions from a few of you Unmute yourselves Warren whats up there Sorry I didnt quite catch that What are you saying
+
+### Speaker 4 · Speaker 4
+
+I said I dont really know Im trying to figure it out Um yeah
+
+### Speaker 1 · Speaker 1
+
+is it quiet
+
+### Speaker 4 · Speaker 4
+
+Yes
+
+### Speaker 1 · Speaker 1
+
+Generally you find its quiet in there Normally we have stuff just kind of running around And when you get this one yeah whatever youre saying more relaxed clean stillness empty Yeah its beautiful This is its just its just an awesome way to be right now Heres what happens when youre in this empty minded state You can you truly listen to people when you connect with somebody in this state of mind and listen to them from here You will give them a communication experience like they have never had before And what you find with when youre coaching your clients will just theyll just open up Youll find that theres none of this establishing trust and all that They will just open up and talk And um Monica yes I end of session never thought of doing it like that but certainly you should Before you sit down with the client you should do this Now um Im going to make a confession I had great fun this year doing a whole series of um coaching demos and lectures for different ICF chapters around the world during ICW and I learned that Ive been wrong about something for about 20 years What Ive been teaching all my corporate workshops for for years was okay if were in a 4 day workshop great Ill teach you this on day 1 And then well come back in about 3 days time and Ill teach you the technique to practice Because if weve already emptied your mind no point teaching you the practice technique because it wont make any difference And I was wrong I had one group in May who said well could you just show us anyway So I went yes okay well Ill show you anyway And we did it and they all went oh my God that just took me so much deeper So I was wrong but now Im right So the physical technique youve done has created a mind state You never need to do that again Your brain stores every experience it has so you can practice recalling that mind state at will So for me um For me I do I walk into a room whether its an individual or a group and I just go okay I just want to empty out And I can you know just like that I dont have to do anything I just with the intention I just switch it And when youre learning to work with energy Ive discovered that intention is the control panel for energy Intention drives it completely So you can just go into a situation and say I am I have the intention to connect and itll happen So let me just take you through the practice technique You can do this one standing up or sitting down doesnt matter If you and if you practice what Im about to show you 3 times a day for 2 or 3 weeks you will find in just that short period of time youre going to get so good at this So I presume most of you are sitting so just in whatever way it means to you put your feet flat on the floor and just bring yourself centered whatever that means and then become fully grounded So feel the pressure of the floor into your feet Feel the chair pressing into your body Okay now eyes wide open fully present Im going to get you to take a huge breath and then slowly let it out over about 8 seconds with the intention that that empty minded state will either return or in the case today have the intention it will take you deeper Okay So all together deep breath in and now slowly start to release As you do just notice everything from your head starting to slide down and slip away That empty space will become clearer and more focused Okay good Uh feel free to unmute and just tell me what was what happened there Did Did you get a slightly different experience Did something additional happen
+
+### Speaker 6 · Speaker 6
+
+This is Jesse actually Can I speak
+
+### Speaker 1 · Speaker 1
+
+Yes of course
+
+### Speaker 6 · Speaker 6
+
+Okay So we are I actually I was getting aware of various pains and sensations in my body when I did that
+
+### Speaker 1 · Speaker 1
+
+Interesting Anybody else
+
+### Speaker 5 · Speaker 5
+
+Tony it feels like calm Absolutely calm
+
+### Speaker 1 · Speaker 1
+
+Yeah isnt it nice Isnt it a beautiful place to be So heres the nice thing 2 things happen The more you practice this the easier it is to get in that state and stay there The other even more interesting thing that happens you see when youre listening from your when youve cleared your conscious awareness and youre listening from your subconscious The stuff that you need to get rid of has gone You holding a judgment about the person youre with holding you know an agenda or wanting to steer them in a certain direction you cant do that because thats all conscious awareness stuff So You practice being able to get into this state youve nailed Competency 6 Simply then focus on using Competency 3 as the way you navigate through your flow of your coaching and all the other competencies will happen They will be demonstrated Trust just emerges The client just feels comfortable The presence is there This is the one thing to do that then creates that Now the the other thing thats really interesting is and Ive just found this over the years by experimenting is that learning to do this and listen from this place is what starts opening your ability to pick up the energy signals So I think was it Sjoerd you said earlier is it that you you cant learn to do the energy Yes you can Anybody can Its not easy but you can learn And then youll find when you consistently conscientiously practice it suddenly one day its going to happen So um I I run for example I just started the beginning of this year Simplicity of Mastery is a program where were teaching mastery but rather than saying wait till youve got your hours and then spend thousands of dollars on a big program its a low cost um asynchronous online learning of recorded lectures and then depending on what level youre at coming in for monthly webinars or biweekly tutorials where we practice the skills and we take the energy skills deeper And we always weve got people who at the start for the first 3 months they keep reporting in each week and going not getting it not getting it And we do the energy practice and then suddenly one day they go I felt something And its different for people Some people feel something physical when they start getting the energy connection Some people get a body experience Some people see something it comes up in pictures for them and its different for everyone But gradually it starts to open Alexander you had a question
+
+### Speaker 5 · Speaker 5
+
+No its not a question just a remark I think that everyone is doing it every day When were meeting people we always have unconscious opinion about the people about the men or women around you So I think its um its a way of picking up an energy
+
+### Speaker 1 · Speaker 1
+
+Yes yes exactly Its about being I suspect if we went back enough years this is possibly an ability that our ancestors had and used on a regular basis in in back in the early days I I think I think weve lost it over a few centuries Uh Monica you had a question
+
+### Speaker 2 · Speaker 2
+
+Yes you are talking about energy and before you were talking about non directive coaching Um and so if we are picking the first step is picking or understanding perceiving receiving the clients energy Just wondering here if we should ask permission for that
+
+### Speaker 1 · Speaker 1
+
+No because its just coaching So truly listening to somebody listening from your subconscious youre youre just listening This this is just a question of this is how to do it deeper So the fact that youve you youve engaged and agreed you are going to be doing coaching Means youre going to do this stuff
+
+### Speaker 2 · Speaker 2
+
+Im sensing for me if Im wrong that you said that then we take the energy of the client and we in a way through the process its changed So its not like in the beginning
+
+### Speaker 1 · Speaker 1
+
+Um no youre not youre not youre not taking the energy of the client Were all made of energy and were connected anyway Right When they think about something intense they project something energetically Thats happening anyway All this is doing is saying youre just learning to pick up the signals Its its just the next level So remember um very often when we first start learning this stuff um sort of coaching and skills We we dont notice for example that peoples eyes move when theyre thinking because theyre accessing different parts of the brain And then you go to a training course one day and somebody says look look for the eye movements thatll help Look for little muscular changes Like oh okay I now recognize the signals that were there anyway This is no different This is just saying learn to recognize there is also an energy level signal happening And youd be able to pick it up Uh Leona you had a question
+
+### Speaker 7 · Speaker 7
+
+Well I have to break in there because its almost 1 oclock
+
+### Speaker 1 · Speaker 1
+
+and
+
+### Speaker 7 · Speaker 7
+
+I was just looking at that
+
+### Speaker 1 · Speaker 1
+
+Were almost at time Yeah were gonna be at time So guys thank you so much for for coming out to play Yes one last question and then just We can close around and tell us how youve enjoyed yourselves Leona
+
+### Speaker 8 · Speaker 8
+
+Yeah I just have a question about how is active listening in coaching different from that in psychology or CBT cognitive behavioral therapy
+
+### Speaker 1 · Speaker 1
+
+I am not trained in those disciplines to that level so Ive probably not the best placed person to comment Um from experience I would say I suspect its not very different at all Um Ive Ive known psychologists and therapists who have also learned to tune in and listen at deeper levels like this So I I suspect it really this should just become a human skill If all of us listen to each other without judgments and agendas forming in our conscious awareness the whole world gets a little bit better
+
+### Speaker 8 · Speaker 8
+
+I agree
+
+### Speaker 7 · Speaker 7
+
+Um so everybody thank you very much for joining us today at the ICF Netherlands uh Accord chapter So the next The next time we have a webinar is on the 3rd of October and its going to be at lunchtime Amsterdam lunchtime again and its going to be about Competence Number 3 And Tom
+
+### Speaker 1 · Speaker 1
+
+Yeah Im signing up for that Thats my favorite Yes once youve nailed 6 3 is all there is to do Oh thats brilliant And can I also say um if any of you want to know a little bit more about this and what Im doing Just go to simplicityofmasterycom and youll see what you need to know there
+
+### Speaker 7 · Speaker 7
+
+Yeah Did you want to add anything else Tony Is there another way people can connect to you Maybe you can tell them about your YouTube channel
+
+### Speaker 1 · Speaker 1
+
+If you want to get a flavor you could go to profitableleadershipcom by masterclass And theres actually a 1 hour 5 part online thing there which carries a CCEU credit
