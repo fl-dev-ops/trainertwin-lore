@@ -40,9 +40,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
 
 #businessjargon #holdthefort #businessenglish
-
-## Comments (1)
-
-### Obada Qawwas (Alkawass) (Senior Software Engineer at Affirm. Front-end, web platforms and content systems. React, TypeScript, Contentful, CI/CD.)
-> Daniele, thanks for clarifying "hold the fort" with such practical examples! A fun and educational take on business lingo that surely enhances our IT communication arsenal. 👍🏰
-

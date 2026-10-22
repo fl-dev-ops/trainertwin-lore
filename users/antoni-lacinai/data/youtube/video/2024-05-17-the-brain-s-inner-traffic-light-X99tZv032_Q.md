@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Brain's Inner Traffic Light
-
-## Transcript
-
 speaker_1: And let me explain that with a simple picture when it comes to three different systems in the brain because you also have the yellow light And Ill start with the yellow light So here what you see here right now is a person with a brain right The system in the brain that is active when its a yellow light is the drive system or sometimes also called exploring system
 
 

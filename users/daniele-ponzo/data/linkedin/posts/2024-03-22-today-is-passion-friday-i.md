@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_poetry-worldpoetryday-passion-
 likes: 23
 comments: 13
 images_count: 1
+author_comments:
+- 'Here''s yours truly with the man himself a good few years ago:'
 ---
 
 Today is passion Friday.
@@ -101,27 +103,3 @@ And I tell you.
 Happy World Poetry Day (and happy weekend)!
 
 #poetry #worldpoetryday #passion #dublin #inspiration
-
-## Comments (7)
-
-### Ylenia Vesperini (Social Media Manager | Project Manager | Translator)
-> Bellissima poesia e bellissimo il tuo dipinto!
-
-### David Bavon (Inside Sales and Renewals Manager at Exclusive Networks)
-> wow ! amazing Daniele, what a painting ! impressive really . and a lovely poem on top of that (you can imagine it resonates for me :) ... that's such a lovely post!
-
-### Patrick Reid (Marketing and Engagement Executive at Griffith College Dublin)
-> Who is the artist? Immense painting! Paddy Kavanagh is a great poet. His works about Monaghan are amazing.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here's yours truly with the man himself a good few years ago:
-
-### Giacomo Falcone (COO @Foorban | Building @Getting Better)
-> Love the poem and love the painting Daniele!
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> This is fab Daniele Ponzo. Great share. And great painting!!
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> "Kavanagh" is sooo Irish! And the painting is great Daniele Ponzo 😍
-

@@ -19,17 +19,3 @@ It's a 30 minute interview, for you who want to get inspiration and tips on how 
 #virtualleadership #remoteleadership #leadership #engagement #communication
 
 If you want an executive summary of what 500 leaders have said, let me know
-
-### Shared Article: [Interview, virtual ledership Antonia Cobb Accenture](https://buff.ly/3aNafDy)
-> buff.ly
-
-
-## Comments (2)
-
-### Antonia Cobb (Talent | Experience | Change)
-> Thanks for inviting me - great questions, a good prompt to reflect and be more purposeful about what to take forward for the next time
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> Absolutely Just Ask! 
-> While leading virtually, you don't know exactly what's going on at the other end and it's very easy to assume or make perceptions based on half information! It's the toughest trap to avoid as it creates a communication barrier. We're tempted to presume and act upon.
-

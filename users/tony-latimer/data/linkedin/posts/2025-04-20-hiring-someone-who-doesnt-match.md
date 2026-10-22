@@ -40,7 +40,3 @@ Let smart AI sharpen your leadership thinking.
 #BusinessCoaching  
 #ManagerDevelopment  
 #ProfitableLeadership
-
-### Shared Article: [TonyLatimer.ai: On-demand Leadership Mentoring & Training](http://profitableleadership.com/ai)
-> profitableleadership.com
-

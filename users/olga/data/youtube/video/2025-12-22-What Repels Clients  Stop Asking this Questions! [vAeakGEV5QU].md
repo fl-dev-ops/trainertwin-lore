@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What Repels Clients? Stop Asking this Questions!
-
-## Transcript
-
 speaker_1: What shall I ask and how can I get what I want not to make the client bored or overwhelmed
 
 speaker_2: Very good question How to not make the client bored or overwhelmed Ask him questions relative to what your discussion what youre talking about I will explain what Im actually meaning A lot of real estate sales trainers going to tell you oh build the rapport dont talk about project dont talk about sale for the first 5 minutes of the conversation I would disagree with that We have to be precise with the current clients They dont have time They understand what we are doing Oh oh you live in India Oh fantastic Oh you have Taj Mahal there No one no I mean he knows what youre doing you know what youre doing and so forth So what does curiosity mean for you Are you a curious person actually

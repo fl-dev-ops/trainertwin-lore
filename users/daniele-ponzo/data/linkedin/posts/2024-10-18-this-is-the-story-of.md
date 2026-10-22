@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_this-is-the-story-of-an-email-
 likes: 29
 comments: 9
 images_count: 1
+author_comments:
+- '📌 Help me celebrate in style. Today is my YouTube channel 1st birthday: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-podcast-channel-activity-7253309129287421953-wnqm'
 ---
 
 This is the story of an email.
@@ -76,25 +78,3 @@ Less writing ⬇️ More talking ⬆️ .
 Talk (write, actually…) to me below: how easy is for you to grab the phone and talk to people instead of sending emails?
 
 P.S. No emails (and Thom Yorke) were harmed during the making of this post.
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Help me celebrate in style. Today is my YouTube channel 1st birthday: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-podcast-channel-activity-7253309129287421953-wnqm
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> So true! Daniele ))
-> 
-> Sometimes, a quick phone call can save hours of back-and-forth emails.
-
-### Hosea Favour (Software Engineer | Building towards Space Systems)
-> That's one of the downsides of email communication...
-> 
-> I think it's much proper to discuss the most effective means of communication with your client before embarking on a project.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Me on a typical morning, opening my emails before my coffee's ready
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo What a captivating story! It perfectly illustrates the challenges of email communication and how easily misunderstandings can occur. I love the takeaway that sometimes a simple phone call can clarify things much quicker than a chain of emails ever could!
-

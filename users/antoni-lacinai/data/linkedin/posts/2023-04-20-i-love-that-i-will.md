@@ -10,9 +10,3 @@ I love that I will travel to my mothers hoods. It’s been more than 30 years si
 
 Looking forward to speak to people working in HR in Beograd next month  ^_^
 Hvala
-
-## Comments (1)
-
-### Erik Rosén (Retired but not tired, try me with an offer I can't refuse!)
-> Sretno Antoni ! 😉
-

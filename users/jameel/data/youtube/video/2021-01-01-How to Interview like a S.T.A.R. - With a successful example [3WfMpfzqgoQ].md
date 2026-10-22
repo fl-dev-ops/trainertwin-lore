@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Interview like a S.T.A.R. - With a successful example
-
-
-## Transcript
-
 speaker_1: In this video I will share with you a very simple tool to prepare for your next interview The tool Im about to share with you is used by a vast majority of companies around the world for their interviewing process
 
 speaker_2: Lets get started

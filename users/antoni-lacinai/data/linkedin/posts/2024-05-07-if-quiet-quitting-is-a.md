@@ -20,9 +20,3 @@ It boils down to:
 What do you think?
 
 PS - are you interested in a "Mood barometer" where you can get a snapshot of your team's engagement, including both your strengths and areas for improvement? DM me.
-
-## Comments (1)
-
-### Björn Söderberg (CEO and Partner in Salvator Mundi Global and Salvator Mundi Times)
-> Great perspective 🙏🌟🙏
-

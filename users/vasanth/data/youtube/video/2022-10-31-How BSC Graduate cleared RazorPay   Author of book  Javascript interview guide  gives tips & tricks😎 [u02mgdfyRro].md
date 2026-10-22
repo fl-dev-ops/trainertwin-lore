@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How BSC Graduate cleared RazorPay | Author of book "Javascript interview guide" gives tips & tricks😎
-
-
-## Transcript
-
 speaker_1: All of you have watched ratings right it feels really bad when friends fail but it really feels worse when he comes first thats the human nature so uh we cannot avoid that right if someone just parallel to you with the same experience same degree is going for a higher package you will feel low so see when i was looking for the job right for the raise the pay i interviewed six months back for a company so uh i could name it but lets lets not so uh i interviewed for
 
 

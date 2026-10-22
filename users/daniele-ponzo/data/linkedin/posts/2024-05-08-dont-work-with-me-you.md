@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-tech-a
 likes: 39
 comments: 11
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
+   
+  🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
 ---
 
 Don’t work with me!
@@ -66,31 +75,3 @@ I’d be happy to share some ideas.
 And team up with you to get you closer to your objectives 🤝 .
 
 #english #itprofessionals #tech #confidence
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
->  
-> 🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### Sergio Delgado Peña (I design tailored Spanish immersion experiences in Almería for international schools 🗺️ Custom-built programs far from mass tourism.)
-> Esa es la razón por la que una profesional que "antes ha estado ahí" y ya ha vivido toda esa experiencia, vale más que otro profesional que no ha estado ahí.
-> 
-> Este ángulo de ventas siempre me ha costado proyectarlo en clientes que no ven la importancia de una asesoría con un profesional que dispone de esta experiencia. Casi siempre dan más importancia a la duración de la asesoría, a si se llevan algún material extra y esas cosas.... 
-> 
-> No, narices, es más valioso 20 minutos con un profesional que ya ha experimentado eso que 60 con uno que no.
-
-### Julia Klann (Englisch für Forschung, Bildung & Wissensarbeit. Fühl Dich beim Englisch sprechen endlich so souverän wie Du wirklich bist. Gruppen- und Einzelformate. Oxford + Harvard Alumna 🎓)
-> Such a great + counter-intuitive idea!! Love the post & the spirit that comes with it.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> So... No Jeff Bezos in 24 hours?! 😉
-
-### Toufic Ahammed (Top Rated @ Upwork | Founder @ 10xclassroom.com | Web Designer & Developer, Website Maintenance, Bug fixing and Optimization expert)
-> Very promising!
-

@@ -11,7 +11,3 @@ article:
 ---
 
 Step 3 of how to make the coming year way better for your career. #coaching #selfdevelopment #feedback
-
-### Shared Article: [How to make next year awesome for your career - part 3](https://www.linkedin.com/pulse/how-make-next-year-awesome-your-career-part-3-tony-latimer-mcc-hm3qc?trackingId=phte03I2Q4VFfME35KXOSw%3D%3D)
-> Tony Latimer
-

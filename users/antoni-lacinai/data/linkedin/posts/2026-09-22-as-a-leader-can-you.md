@@ -25,14 +25,3 @@ You are important. You matter. Or at least: Your role matters. Your function is 
 Communication shapes behavior. Behavior drives results. If you are not around, communication can break down quickly
 
 My view. Yours?
-
-## Comments (2)
-
-### Kendal Burton (Media & Communications Strategist | PR Advisor | Journalist | News Director | Crisis & Reputation Management | Media Training | Founder at The Armour Project)
-> A very telling split - 100% no vs 50/50. If definitely exposes the blindspot. We know we can't do it without them but we still like to think they can't do it without us. 
-> The real question isn't whether they can do it about you but rather whether the communication system can still function in your absence.
-
-### Bob Strange (Making event planners look brilliant since 1996 | Founder The Closer Speakers’ Consultancy)
-> The 50% who reckon their team can do it without them usually confuse running on autopilot with actual leadership.
-> Any solid team can keep the lights on for a fortnight. But the second priorities clash or the ground shifts, that vacuum becomes very obvious very quickly.
-

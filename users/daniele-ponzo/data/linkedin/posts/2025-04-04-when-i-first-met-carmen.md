@@ -41,21 +41,3 @@ If you’re ready to stop holding back and start speaking up?
 Send me a DM and I’ll ask a couple of questions to see if I can help you too.🤝
 
 P.S. What’s your next big communication goal at work? Drop it below. I’d love to share some ideas to support you.
-
-## Comments (5)
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Congrats Daniele! 🎉
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I love how you’ve turned their challenges into strengths! Well done Daniele Ponzo
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele these results show that it is possible to become better in English as long as you have a great mentor guiding you! Keep up the good work my friend!
-
-### Gábor Till (Principal Engineer | AI Trainer @ 10x.team | Fractional Engineering Leader)
-> Good point, Daniele Ponzo. Many people stay quiet not because they lack ideas, but because they doubt their English. Building confidence changes everything.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Inspiring transformations! Clear, confident communication really does open doors, love the focus on practical, empowering strategies. 👏
-

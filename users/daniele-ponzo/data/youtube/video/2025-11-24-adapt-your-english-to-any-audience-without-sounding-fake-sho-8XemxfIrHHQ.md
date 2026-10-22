@@ -14,9 +14,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Adapt Your English to Any Audience Without Sounding Fake #shorts
-
-## Transcript
-
 speaker_1: with a younger person you need to maybe refine a bit the language and understand the difference between informal and formal So informal is not always good especially in an international environment Uh whereas formal is not always the best when you are with your colleagues okay So thats the sorrow work that uh and thats the difference that I see

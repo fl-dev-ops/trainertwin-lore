@@ -29,7 +29,3 @@ You get the customers you deSERVE
 #keynotespeaker #customercommunication #engagement
 
 PS - how do you serve your customers? What is your success story?  Here’s a talk I enjoyed with Alison Katschkowsky  about delivering an awesome customer experience
-
-### Shared Article: [‎Creating the World's Best Client Experience: Mastering Your Communication Super Powers with Antoni Lacinai i Apple Podcasts](https://buff.ly/3KWdSbJ)
-> podcasts.apple.com
-

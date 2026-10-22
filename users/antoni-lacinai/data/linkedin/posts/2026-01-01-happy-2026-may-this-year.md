@@ -21,18 +21,3 @@ Help me if you can ^_^
 
 
 Let' do this
-
-## Comments (4)
-
-### 🌟Monica Moore (Award-Winning Global Speaker | Be “Positively Moore”| Active Presence for best outcomes | Reduce Conflict | From Stuck to Success| Words that work | Words in Action| Accredited Speaker)
-> You are an excellent example of one of my favourite words and values - *clarity*
-
-### Bobbi Djordjevic, CMP (Global Category Manager Marketing, Travel, Meetings and Events)
-> Happy New Year, wishing you a fantastic 2026! 🥂
-
-### Agnes Tarnai (Master in Collaborative Leadership, Multicultural communication, Translation, Master of Ceremonies)
-> Wonderful goals for 2026, Antoni! Happy New Year and all the very best for each of the 365 days!
-
-### Ilja Grzeskowitz (Global Keynote Speaker | SPIEGEL Bestselling Author | 14 Books | 1,200+ Keynotes in 27 Countries | Helping Teams and Organizations Master Change Before Change Masters Them)
-> Happy New Year. We’re sharing quite a few goals 🍀🥳
-

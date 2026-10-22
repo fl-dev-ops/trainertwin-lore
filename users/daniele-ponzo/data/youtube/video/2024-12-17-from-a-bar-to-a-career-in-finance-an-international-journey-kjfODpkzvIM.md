@@ -23,11 +23,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From a Bar to a Career in Finance - an International Journey
-
-## Transcript
-
 speaker_1: Nice
 
 speaker_2: I got a picture with him and uh I told him I was um making up my music and recording my music and uh and I started to play around I played for a year and then I stopped playing and stopped working for the hotel as I found something uh in the finance sector

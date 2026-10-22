@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Anthony Jays disposition
-
-## Transcript
-
 speaker_1: Anthony J created a disposition based on four different Ps So the first one as you can see on the picture is position This is the position were in This is the situation this is the current situation that were in
 
 

@@ -19,11 +19,6 @@ speakers:
   speaker_7: null
 ---
 
-
-# Online Case Study - Agent got a client who is claiming to have millions what to do - Part 3
-
-## Transcript
-
 speaker_1: Okay lets imagine six units in GVC Which other community which is reasonable Six units in Marina for example All old ones
 
 speaker_2: Arjan

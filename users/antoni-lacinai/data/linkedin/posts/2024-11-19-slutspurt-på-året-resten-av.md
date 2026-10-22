@@ -8,9 +8,3 @@ comments: 2
 
 Slutspurt på året. Resten av året är jag i Sverige så behöver du en inspirationskick är det bara att höra av dig. 
 ^_^
-
-## Comments (1)
-
-### Johanna Donker (Senior Coach och Verksamhetsledare | Leder genom tillit, tydlighet och lagfokus | Stark i förändring och osäkerhet)
-> Rekommenderar starkt Antoni Lacinai 💯🙌🏼👌
-

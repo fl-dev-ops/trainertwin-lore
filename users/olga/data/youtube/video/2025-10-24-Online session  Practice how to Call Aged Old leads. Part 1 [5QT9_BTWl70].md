@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# Online session: Practice how to Call Aged/Old leads. Part 1
-
-## Transcript
-
 speaker_1: Im happy to share that Ive got one question today so Im not gonna run you dry There is one question on the topic how to re engage with the old leads how to talk to the old leads meaning someone who inquired about the project some time ago and then never closed or we dont know what happened to him On average from my understanding me talking to the agents who joined a month ago youre getting on like around 100 to 150 leads from the company old leads If you are not getting old leads I highly advise you to talk to your manager And remind him that you want old leads Thats a fantastic opportunity for you to practice and if you were able to actually transact and close from the old leads you will be easy peasy closing I have Of course Im just going through the I opened already but let me find it Yeah of course I have a script purely engaging with old leads When Im saying script guys there is a stigma towards what the sales script is Its not pitch its not what you want to say to the client to somehow magic wand make him interested Its exact opposite Youre asking the question specifically when youre talking to the aged leads you see that as a cold call basically So what you have to do you have to kind of find the magic coin which is still potentially interested this one client who is interested So Im not teaching you to magically convert those who are not interested or not buying or never inquired into yes I want to buy because its not possible But Im teaching you how to find and if there is a small intent how to put a bit of more fire on that person and then potentially book him on a Zoom meeting where you can dig deeper ask more questions help him understand that actually that what he needs And close the deal Without further delay any questions on that guys Any specific like towards the question about the old leads Maybe someone has a question or a story to tell or history of him trying to reengage the old leads and then this happened Unmute yourself No no one Oh raise your hand so I can see you Okay let me then share the screen
 
 speaker_2: Hey Obe

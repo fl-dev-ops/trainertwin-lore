@@ -5,11 +5,9 @@ date: "2026-01-27"
 source: website
 ---
 
-# ICF Coaching Futures Report 2026
+ICF Coaching Futures Report 2026
 
-#### ICF Coaching Futures Report 2026
-
-#### Download the report at the button below
+Download the report at the button below
 
 But if you don't have time, I've done a quick bit of AI magic for you. You can listen to a short podcast discussion I've created in NotebookLM which looks at the four main topics to be considered from six different stakeholder perspectives.
 

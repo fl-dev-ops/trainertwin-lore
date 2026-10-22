@@ -17,9 +17,3 @@ If you are praised and included, the opposite happens and you will be able to re
 How is it where you work? Do you make each other feel good?
 
 #Communication #leadership #engagement #Keynote
-
-## Comments (1)
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> Apparently one needs to develop an ability to become unruffle and think outside the box even in such environment since one don't have controlled environment always.
-

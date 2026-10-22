@@ -12,9 +12,3 @@ This coming March 14th is the first-ever Professional Speakers Celebration Day, 
 It's more than just a day of recognition—it's an opportunity for us to strengthen relationships, share knowledge, explore new ideas, and showcase our vibrant community to the world! Join us! @lacinai  Storyy 
 
 #professionalspeaker #speakercommunity #speakerlife #proudtospeak #professionalspeakersday #speakersday #speakersday2023
-
-## Comments (1)
-
-### Philippe BOULANGER, PhD (Global Speaker, Author and Strategic Consultant on Innovation, AI and Prospective - Accelerate Innovation and AI in your teams with less risks - Executive @ Apple and Sony - Americas/Europe/Middle East/Asia)
-> Great words, Antoni !
-

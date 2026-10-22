@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_improving-communication-qualit
 likes: 32
 comments: 5
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D24AQHbOw6tzuXNWg/live-mp4-inhouse-analysis/B4DZpUi1G6GwBI-/0/1762360037567?e=1793178000&v=beta&t=_AQG9oOGiEBgTBiu_JjSl2Agy7jrBYgwF8X3zZmjfQo
+author_comments:
+- |-
+  Such a great topic to discuss, it was a pleasure to be there with you Adrian and Denis, thanks for the invite!
+
+  The book "Easy English for IT" is available on Amazon, you can check a sample here: https://read.amazon.com/sample/B0FQJT7G3Q
 ---
 
 Improving Communication Quality in tech Teams
@@ -19,17 +24,3 @@ What happens if we focus again on talking to each other instead of top-down?
 It's not just a great way to work as an IC, but a great strategy as a real leader. 
 
 Our Tech Journey Stream; every Wednesday 16:00 CET
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Such a great topic to discuss, it was a pleasure to be there with you Adrian and Denis, thanks for the invite!
-> 
-> The book "Easy English for IT" is available on Amazon, you can check a sample here: https://read.amazon.com/sample/B0FQJT7G3Q
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Absolutely agree 👏 Real progress happens when teams talk, not just manage tickets. Communication builds better products and stronger teams.
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Exactly, Daniele Ponzo. Genuine collaboration starts with conversation, not tickets. When tech teams talk openly, they solve faster, learn deeper, and build stronger trust across every level.
-

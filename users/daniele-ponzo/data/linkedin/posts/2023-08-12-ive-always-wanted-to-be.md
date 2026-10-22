@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_motivation-inspiration-selfimp
 likes: 14
 comments: 7
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFsjKWyFYrw4A/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1691824895801?e=1793178000&v=beta&t=-mVsWYiKh6KIHfl1rRqmdai8CpON-D5u3-fJbmV8bY8
+author_comments:
+- 'I''m quite proud of myself, actually 🙂:'
 ---
 
 I've always wanted to be like Arjuna.
@@ -62,18 +64,3 @@ Hi, I'm Daniele. I post about language improvement, Tech and wellbeing. If you a
 Follow ➡️ Daniele.
 
 #motivation #inspiration #selfimprovement
-
-## Comments (4)
-
-### Tomasz Wylazlowski (eCommerce | Marketplaces | Omni-Channel & Cross-Border Growth Enterprise Business Development Manager)
-> Hi Daniele, Arjuna was training Kyudo. There is plenty of Kyudojos in Italy ;)
-
-### Sandra Schliszio (Civil Servant, Hospitality Enthusiast, Life Coach)
-> Nice form and good grouping!
-
-### Simone Bertin (The Pale Blue Dot)
-> I love archer!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> I'm quite proud of myself, actually 🙂:
-

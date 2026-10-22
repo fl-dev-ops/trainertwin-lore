@@ -25,9 +25,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# From Mum to Teacher | The Non Native Leader | Episode 21 #podcast #interview
-
-## Transcript
-
 speaker_1: my daughter who was in elementary back then I learned that you know shes not really acquiring the English language as as shes supposed to be So I told myself okay so if youre not learning the language uh the way I want you to be then I might as well teach you because I know I know the language So and then and so thats what basically happened Um it from the role of the teacher uh friends started to discover my teaching ability

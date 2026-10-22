@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Sorry, if your resume is like this, you will never get interview calls ! 5 common resume mistakes
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Career with Vasanth YouTube channel My name is Vasanth I hope you are doing well So this is a video where Ill be basically explaining if you have what type of resume your resume is most likely to get rejected by either a manual inspection of your resume or by the steps Okay recently I I posted an opportunity in our team for reactive developer opening and lot of people applied for this opening I applied as they sent me a message across LinkedIn Telegram different other social media platform So roughly I got around 100
 
 

@@ -21,7 +21,3 @@ Also send me CVs and SoPs if interested.
 Prathosh. 
 
 #postdoc #deeplearning #iisc
-
-### Shared Article: [Indian Institute of Science](https://www.iisc.ac.in/post-docs/)
-> iisc.ac.in
-

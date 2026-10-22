@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-languagecoaching-kindn
 likes: 41
 comments: 7
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
+   
+  🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
 ---
 
 The most effective ways to sound more professional in English.
@@ -65,29 +74,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
  
 #english #languagecoaching  #kindness
-
-## Comments (4)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
->  
-> 🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### Luigi Poderico (Empower Your Energy Management with Decision Support Systems | Electricity Market: Access, Analyse, and Act | In the Energy Sector since 2004)
-> Could you please repeat? ^_^
-
-### Lorenzo Sclocco (Education Specialist | Curriculum Developer 📚)
-> English is rich in polite forms and indirect language chunks. 
-> 
-> And we could also turn “and let’s not forget for
-> Magic word” into “and let’s remember / let’s make sure to include the magic word”. 
-> 
-> Great post, Daniele! More of such posts!
-
-### Lewis Jaquest (I help freelance English teaching professionals who lack confidence in working with emergent language to go from capable to credible & confident by using a toolkit to deal effectively with learner language on the spot.)
-> Daniele Ponzo these are very good points, indeed!I mainly work with language learners whose first language is German. German has a polite form (Sie) and an informal form (Du). "Sie" creates distance and respect as appropriate. It was a great moment of revelation when I pointed out that "could" creates distance away from the present form "can", which is one of the ways that English shows politness.
-

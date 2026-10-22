@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 08 Adhyaya 1 to 11 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: राजोवाच
 स्वायंभुवस्येह मनोर्वंशोयं विस्तराच्छ्रुतः
 यत्र विश्वसृजां सर्गो मनूनन्यान् वदस्वनः

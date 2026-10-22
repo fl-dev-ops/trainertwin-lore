@@ -14,12 +14,3 @@ The uncomfortable truth is that bullying works… if you want to get rid of peop
 It is also an awful, despicable way of leading an organization. 
 
 Have you ever been bullied? If you have been, you will know it. It sticks to you forever. Let’s be kind instead and lead with care!
-
-## Comments (2)
-
-### Ella Falk (Administratör som brinner för verksamhetsutveckling och att alla ska få nå sin fulla potential. Kompetens inom Eftermarknad, projektstöd, KMA och HR)
-> Bra sagt Antoni
-
-### Kim Martinez (Account Manager, Field sales, B2B)
-> Insiktsfullt, tack Antoni & har själv slutat pga särbehandling 🤗 men det var bra beslut!
-

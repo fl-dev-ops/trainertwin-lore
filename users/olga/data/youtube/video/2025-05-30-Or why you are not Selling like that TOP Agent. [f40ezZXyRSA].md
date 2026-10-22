@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Or why you are not Selling like that TOP Agent.
-
-## Transcript
-
 speaker_1: And I would say if for someone who doesnt understand that the specifics of the Dubai real estate market thats a great school to learn ins and outs about the area that youre going to be selling the property So now when you present it to your actual seller correct they see you way above every other agent
 
 speaker_2: They know more than us Youre if your brand is new to the market I guarantee you go into sales your sellers will know more than you They will test you on the market They will test you on prices

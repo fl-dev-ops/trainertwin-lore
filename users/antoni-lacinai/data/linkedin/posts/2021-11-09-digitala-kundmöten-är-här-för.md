@@ -17,23 +17,3 @@ Här får du en introvideo. Själva kursen hittar du här: https://lnkd.in/dvgu9
 
 För mer kompetens och bättre möten!
 #digitalamöten #kommunikation #kundmöten
-
-## Comments (5)
-
-### My Gross (Föreläsare och konsult inom försäljning och förändringsledning)
-> En SÅ snygg film Antoni Lacinai! Med oerhört relevant budskap!👍
-
-### Leif Engdahl (Retiree)
-> Beror på många saker, bransch, nuvarande relation kund-leverantör, var i köpprocessen kunden är, komplexitet i erbjudandet,  etc.....
-> 
-> Det som är väldigt säkert är att vi kommer att ha fler digitala möten än före pandemin. Som en del at kommunikationen. Vad som är huvudspår och vad som är komplement skiljer sig också  mycket åt mellan branscher, nuvarande relation..... .
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Tack för titt! Säkerligen en synnerligen efterfrågad kurs, detta.
-
-### Birgitta Sjöstrand (Conflict in hybrid teams costs hundreds of thousands. I teach managers to prevent it | Online programme (SE/EN) | Author, “Outstanding in the Middle”)
-> Intressant utveckling att följa. Kan nog vara lite branschkänsligt också. Vissa saker behöver man känna och klämma på.
-
-### Anders Berghagen (Retired.)
-> Håller inte riktigt med, det är ett sig efter analoga möten/mässor mm och visst kommer vi ha digitala möten men inte i den omfattning som tidigare. Ett bra komplement, men inget mer.
-

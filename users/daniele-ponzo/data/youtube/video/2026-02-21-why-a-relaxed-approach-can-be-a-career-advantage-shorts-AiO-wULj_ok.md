@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why a Relaxed Approach Can Be a Career Advantage #shorts
-
-## Transcript
-
 speaker_1: its uh I dont know its precious advice and uh I think thats one one thing that Ive learned is this kind of relaxed approach easy going You need to do it You just do it you know
 
 speaker_2: Yeah Its very easy to get to there and you dont need to to to to to be born in Brazil so

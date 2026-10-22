@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 03 Adhyaya 1 to 13 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 एवमेतत्पुरा पृष्टो मैत्रेयो भगवान् किल
 क्षत्रावनं प्रविष्टेन त्यक्त्वा स्वगृहमृद्धिमत्

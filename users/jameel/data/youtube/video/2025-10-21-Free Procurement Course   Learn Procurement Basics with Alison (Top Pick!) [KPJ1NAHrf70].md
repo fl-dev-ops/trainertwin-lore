@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Free Procurement Course | Learn Procurement Basics with Alison (Top Pick!)
-
-
-## Transcript
-
 speaker_1: So on number five Ive got a beginner level free course from Alison and its called Purchasing and Supplies Management This is a very good entry level course or beginner level course that you can take because it will help you build a basic understanding of introduction to purchasing management supply chain management and cost analysis vendor relationship management and quality management in procurement So typically these are those four areas in procurement which are very very essential because you are kind of the gatekeeper of the quality of products which are coming in into a factory or into a warehouse and so on and so forth Therefore this course gives you that very basic level of understanding and its absolutely free

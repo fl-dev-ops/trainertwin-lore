@@ -67,21 +67,3 @@ And putting yourself out there.
 The more you do you, the easier it becomes.
 
 P.S. What about you? Any troubles with the “F” words? Let me know below 😉
-
-## Comments (5)
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> It's so important to focus on progress rather than perfection when learning a language.  Daniele Ponzo
-
-### Donna Maravillas (CELTA & TEFL Certified English Language Teacher, Speaking Examiner, Writer of two English Activity books for children, a Teacher Volunteer at Yazidi@School)
-> Love this
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Great insight! Communication > perfection. Confidence grows with practice. Anyone else struggled with this? 😊
-
-### Arslan Iqbal (Personal Brand Strategist | Helping Founders, CEOs & Executives Build Authority on LinkedIn & X | 250+ Personal Brands Helped)
-> That’s a brilliant perspective, Language is about expressing yourself, not mastering every rule, Daniele.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> I was ready to bet 'F' meant something else 😅
-

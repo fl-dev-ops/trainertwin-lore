@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 02 Adhyaya 1 to 10 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: शुक उवाच
 वरीयानेषते प्रश्नः कृतो लोकहितं नृप
 आत्मवित्सम्मतः पुंसां श्रोतव्यादिषु यः परः

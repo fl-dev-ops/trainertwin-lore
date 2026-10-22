@@ -14,13 +14,3 @@ article:
 6 pitfalls of bad leadership communication really
 
 #leadership #communication #motivation
-
-### Shared Article: [6 barriers when you want to implement a goal or a strategy - Antoni Lacinai](https://buff.ly/2RvrIt2)
-> buff.ly
-
-
-## Comments (1)
-
-### Anna-Karin Lingham (Interim Marketing Manager * Branding expert * Speaker * Mentor * Your guide to a stronger corporate, personal or ambassador brand.)
-> Good metaphor. And I believe that you can also turn it around into success factors?
-

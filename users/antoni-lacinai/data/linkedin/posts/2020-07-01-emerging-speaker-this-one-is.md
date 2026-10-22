@@ -19,7 +19,3 @@ This is a long video, almost 8 minutes with as many tips, so I am guessing you h
 ^_^
 
 #communication #presentation #speaker
-
-### Shared Article: [Tips for emerging speakers](https://bit.ly/31xYMDx)
-> bit.ly
-

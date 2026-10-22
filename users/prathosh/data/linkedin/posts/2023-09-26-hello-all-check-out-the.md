@@ -24,7 +24,3 @@ https://lnkd.in/ezinhcAP
 This work was a part of ACM IKDD uplink program. IKDD Raj Sharma Shourya Roy Indrajit Bhattacharya 
 
 Piyush Tiwary Subhodip Panda Atri Guha
-
-### Shared Article: [Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks](https://arxiv.org/abs/2309.14054)
-> arxiv.org
-

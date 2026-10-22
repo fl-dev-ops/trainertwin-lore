@@ -16,12 +16,3 @@ Alexander Holmbergs gäst: Hemligt ^_^
 Ställ ett larm och häng med oss 
 
 #Ledarskap #tisdagsklubben
-
-## Comments (2)
-
-### Åsa Lundquist Coey (Doctor in Management & Complexity Ph.D, Global key note speaker, Leadership consultant)
-> Alltid intresserad av ledarskap, mindre så kl 07.00 ... 😂👌🏻
-
-### Lisa Ekström (Owner/CEO at Kamoja AB)
-> men hur kul ska inte detta bli 🤩🤩
-

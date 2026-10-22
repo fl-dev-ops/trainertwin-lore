@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Complete ReactJS Interview Prep🔥: Top 10 Questions and Answers for Beginners | Ace Your Interview!
-
-
-## Transcript
-
 speaker_1: Very first question for you guys would be which is the user effect that will be executed first Sure At least half of you would have not able to answer this properly Okay Hello all Welcome back to Kareem with Vasants YouTube channel My name is Vasant I hope you all doing well This is a very important video where Im going to answer and explain 10 important Reactjs hard difficulty question for freshers So if youre a mid range or a senior developer this is going to be around a moderate difficulty questions for you So despite your experience level this video is going to be very helpful And most of the questions
 
 speaker_2: Hello

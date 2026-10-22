@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 28 Ordinary Least Squares (OLS)
-
-## Transcript
-
 speaker_1: Welcome everyone
 In todays lecture
 we are going to switch to the empirical

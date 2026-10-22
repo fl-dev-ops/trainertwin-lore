@@ -18,21 +18,3 @@ Hoppas att vi hörs då!
 https://buff.ly/3lnJ8m9
 
 #kommunikation #ledarskap #Tisdagsklubben
-
-## Comments (5)
-
-### Martin Persson (Jag föreläser om budskapet ”Leva och inte bara överleva” Patientföreträdare som brinner av förmedla Patientperspektivet i sjuk och hälsovård.)
-> Är gärna med och få inspiration
-
-### Nellie Nilsson (Nordic Digitalisation & AI Lead | CRM | Operational Workflow Analysis & Optimisation | Change Agent & AI Fluency Advocate)
-> Det här vill man vara med på.
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Roligt! Jag hade glädjen att begå min Clubhouse-debut imorse, faktiskt - sittande i Arvid Axlands finfina soffa.
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Ser fram emot många spännande samtal. En bra premiär bådar gott för kommande tisdagar 🦾⭐️🙏🏽
-
-### Johanna Nilsson (Bilder som visar den du är💛)
-> Låter strålande! Kul med nya ”koncept” och så bra tid kl.7!
-

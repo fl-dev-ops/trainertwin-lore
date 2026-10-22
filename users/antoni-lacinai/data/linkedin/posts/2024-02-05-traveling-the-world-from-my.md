@@ -26,20 +26,3 @@ I get the best of both worlds.
 Pinch my arm! I feel like an ancient evangelist haha 
 
 PS - what do you prefer? Digital or Analog?
-
-## Comments (2)
-
-### Martin Laschkolnig (Let's bring the Spirit back! Powerful & inspiring keynotes, trainings and organizational development to (re-)ignite confidence, inspiration, serenity for better results. Lead better, work better, live better.)
-> If anyone would have told me before 2020 that I'd have a semiprofessional TV studio in my spare bedroom/home office, I'd have asked them what for? 
-> 
-> And now it is great! And I also love to be on site with the people, maybe even a bit more than the undeniable convenience of presenting online.
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> I am definitely a fan of the hybrid option.  Love the simplicity of Digital, as you describe it Antoni
-> 
-> However, us humans do need the human interaction to benefit hugely from Analog too
-> 
-> It looks like you are making hybrid work well for you too ....
-> 
-> (Love the imagery by the way 😎)
-

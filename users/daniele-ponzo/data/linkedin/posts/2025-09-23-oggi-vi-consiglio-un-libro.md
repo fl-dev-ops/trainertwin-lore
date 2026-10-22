@@ -26,17 +26,3 @@ Sapersi presentare, parlare del proprio bagaglio tecnico e culturale e' importan
 Daniele ti aiuta in questo percorso di miglioramento e ti prepara per il colloquio diretto. Io se fossi in voi una chiaccherata con lui la farei... poi mi ringrazierete.
 
 A presto.. au revoir ops see you soon :)
-
-### Shared Article: [EASY ENGLISH FOR IT: Sblocca la tua carriera nel mondo IT con il primo libro in inglese per esperti tech nel contesto internazionale](https://www.amazon.it/dp/B0FQJT7G3Q)
-> amazon.it
-
-
-## Comments (2)
-
-### Christian Ferranti (Cloud Solution Architect | Pragmatic problem solver | Obsessed innovation hunter | Occam’s razor practitioner)
-> Questo libro è un MUST!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Ma grazie, Giuseppe! Hai colto lo spirito del libro, l'idea è proprio quella di andare oltre "the pen is on the table" 🙂 
-> P.S. il libro è in offerta speciale pre-lancio fino a domani... just saying
-

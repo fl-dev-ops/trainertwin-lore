@@ -27,18 +27,3 @@ Perhaps it could be a USP (unique selling point) for a hotel to show the clients
 I think so. Do you?
 
 PS - a concrete tip: Use a black background instead. It will at least take away the blinding effect and your shadow too
-
-## Comments (4)
-
-### Vanessa Leporati Poulsen (Speaker & Moderator | Senior Advisor & Board Member, Stockholm Fashion District and Trade Partners Sweden I Co-Owner Restaurant Kant & upcoming Ikast Golf Resort)
-> Instämmer Antoni Lacinai!⭐️
-
-### Saffron Baggallay (Thought Leader: High Performance | Keynote Speaker | CEO: Saffron Baggallay Learning Academy | Proven solutions for high-performing teams | Benchmark your team performance with our free AUDIT)
-> Please make this happen !!!
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Kung Antoni Lacinai . Grattis du är bäst!
-
-### Martin Laschkolnig (Let's bring the Spirit back! Powerful & inspiring keynotes, trainings and organizational development to (re-)ignite confidence, inspiration, serenity for better results. Lead better, work better, live better.)
-> Yep, one of my pet pieves!
-

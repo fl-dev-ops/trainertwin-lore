@@ -6,43 +6,18 @@ url: https://www.instagram.com/p/CuBhoY4sy_-/
 likes: -1
 comments: 1
 slide_count: 3
+slides:
+- |-
+  Framsiktiggelenger
+
+  Vår
+  Samhälls
+
+  Samh
+- '- DELL (logo on laptop)'
+- |-
+  Varmt välkommen till
+  Samhällsbyggararen 2023
 ---
 
-## Caption
 Soon time to lead a bunch of panel discussions. Cosy place at Gotland, Sweden.
-
-## Carousel Slides (3)
-
-### Slide 1
-
-> Alt text: Photo by Antoni Lacinai on June 27, 2023.
-
-
-# Framsiktiggelenger
-
-# Vår
-# Samhälls
-
-# Samh
-
-### Slide 2
-
-> Alt text: Photo by Antoni Lacinai on June 27, 2023.
-
-
-- DELL (logo on laptop)
-
-### Slide 3
-
-> Alt text: Photo by Antoni Lacinai on June 27, 2023.
-
-
-Varmt välkommen till
-Samhällsbyggararen 2023
-
-
-## Comments (1)
-
-### @ihuvudetpaenentreprenor
-> 👏👏👏👏
-

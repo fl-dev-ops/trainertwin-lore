@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Din makt som ledare – så påverkar du andras känslor
-
-## Transcript
-
 speaker_1: Du har nämligen en makt Alla har en makt att få andra människor att må som du vill
 
 

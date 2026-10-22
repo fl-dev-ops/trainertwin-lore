@@ -88,38 +88,3 @@ Participation does.
 https://lnkd.in/dGRVjN6D
 
 💬 What's one piece of advice you believed early in your career... that turned out not to be true?
-
-## Comments (8)
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> This is an important point  
-> Getting a certificate or speaking perfect English doesn’t automatically mean you will get the job.
-> 
-> Often clarity in how you think communicate and present more than perfect English.
-> 
-> Daniele Ponzo
-
-### Davide Falletta (Scrivi e trasforma il tuo Libro in uno strumento che aumenta Visibilità, Guadagni e Autorevolezza. Non vedo l'ora di parlare del tuo progetto!)
-> Don't wait for perfection! it’s just an illusion holding you back.
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Great advice Daniele Ponzo , and  all the stronger coming from someone who has lived it.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> A certificate can open a door, but confidence and real communication skills are what create opportunities.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> This is a great reminder that communication skills are about participation, not perfection. 
-> Sometimes speaking up with a simple, clear idea is more valuable than delivering a flawless sentence.
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> Daniele Ponzo Perfect English can open doors, but clear thinking moves careers. 
-> 
-> I’ve learned that speaking up, even imperfectly, often creates more opportunities than waiting to sound perfect.
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> The career lesson here goes beyond English. People are often rewarded not simply for what they know, but for their ability to make that knowledge visible and useful to others.
-
-### Mykola D. (I Help IT & Corporate Professionals Achieve Fluency 🗣️, Reduce Accent 🎯 & Succeed in Interviews, Meetings & Presentations | Communication Coach | Since 2016)
-> in our industry - only nationality matters
-

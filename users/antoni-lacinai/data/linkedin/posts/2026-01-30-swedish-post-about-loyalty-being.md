@@ -22,28 +22,3 @@ Men hur är det på arbetsplatsen då? Tyvärr samma sak. Och detta har jag skr
 https://lnkd.in/dqFgQAPs
 
 Vad som hände med larmföretaget? De sänkte min månadskostnad med mer än hälften...Jag är kvar men känner mig lite lurad över alla åren jag betalat överpris.
-
-### Shared Article: [Lojal personal har bara två val - Ledarskap - HRnytt](https://hrnytt.se/ledarskap/lojal-personal-har-bara-tva-val/)
-> hrnytt.se
-
-
-## Comments (5)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Bra rutit och förhandlat!MEN var uppmärksam! Förmodligen samma stora larmföretag gjorde samma för mig, men sänkningen vara de bara ett år, när jag påpekade detta sa dom att det bara var en tillfällig sänkning som hade återgått till normalpris…då åkte dom ut…för gott! Trevlig helg!🔆🌟🔆
-
-### Thomas Otnes (Product developer and engineer)
-> Antoni, jag lämnade ett mobilbolag efter 5 år som kund då jag inte fick ta del av några ny fördelar eller erbjudanden.
-> Tror du jag har återvänt till det bolaget som kund sedan?
-
-### Jesper Ek (Transformerar chefer till energiskapande ledare | 180+ klienter | Ingenting börjar med resultat, allting börjar med människor | Skapare av EMPLAYMENT-metoden | Hjälper ledare bygga team-energi som driver resultat |)
-> Väldigt bra skrivet och mkt viktigt för alla att reflektera över Antoni Lacinai 🙌
-
-### Anders Flodqvist (Hjälper kommunikatörer till rätt förutsättningar att öka resultaten utan att öka stressen | Konsult | Facilitator)
-> Spännande och insiktsfullt! Det var stor igenkänning både som kund i olika företag och som medarbetare i olika organisationer. 
-> 
-> (Länken funkade dock inte, går till en 404. Men jag hittade artikeln via HRnytt: https://hrnytt.se/ledarskap/lojal-personal-har-bara-tva-val-stanna-eller-lamna/)
-
-### Carina Wahlstedt Janson (Kommunikationsstrateg | Skärper ert interna kommunikationsarbete | Verksamhetsutvecklare)
-> Ja, vad kommunicerar det till kunderna? Att man inte är mån om att bygga relationer.
-

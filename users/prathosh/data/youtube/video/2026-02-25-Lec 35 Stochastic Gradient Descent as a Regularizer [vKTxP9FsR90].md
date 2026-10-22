@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 35 Stochastic Gradient Descent as a Regularizer
-
-## Transcript
-
 speaker_1: Now consider so Ill say another example
 of regularizer
 suppose

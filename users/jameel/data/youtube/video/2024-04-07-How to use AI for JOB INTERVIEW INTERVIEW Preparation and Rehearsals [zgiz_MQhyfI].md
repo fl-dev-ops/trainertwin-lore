@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to use AI for JOB INTERVIEW INTERVIEW Preparation and Rehearsals
-
-
-## Transcript
-
 speaker_1: So I thought I am practicing in front of a mirror I am practicing recording myself in a mobile phone What if I can automate that experience and have real time feedback and analytics of my facial expressions of my speech expressions via an AI tool And that led me to the idea of building this product
 
 

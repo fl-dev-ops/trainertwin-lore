@@ -7,9 +7,3 @@ comments: 1
 ---
 
 What a great summary Namitha 🙂
-
-## Comments (1)
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> Star!
-

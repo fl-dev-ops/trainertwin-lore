@@ -26,12 +26,3 @@ It’s confidence, communication, and mindset.
 https://lnkd.in/dG7BdCui
 
  #EnglishForTech #CommunicationSkills #EdTech #TechCareers #Eduvation #ProfessionalGrowth #MindsetMatters
-
-## Comments (2)
-
-### Lorraine Wallace (I’m Lorraine and I help non-native professionals, founders and entrepreneurs communicate in English with confidence and impact, so they can lead, strengthen relationships, and succeed globally.)
-> Totally agree that mindset is the foundation for everything that follows!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Thanks for having me, Hadas! It was a real pleasure to have the opportunity to share my ideas in your show!
-

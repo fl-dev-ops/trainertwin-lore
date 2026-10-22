@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# #teaching #softwareengineer #womenintech #internationalcareer #globalspeaker #nonnativeenglish
-
-## Transcript
-
 speaker_1: and uh yeah thats the part where I want to um be both technical expert and a teacher Um its hard to some extent because uh its never easy to find customers that want to to kind of uh where youre allowed to work only part time and spend your second half of your work time teaching other students that might not be uh ready for work directly but um yeah I find it really um inspiring and it gives me energy to to continue doing whatever Im doing
 
 speaker_2: Yeah I can see that theres a true passion there and that is that is the best drive

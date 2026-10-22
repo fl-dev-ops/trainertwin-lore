@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 6 Questions that you cannot skip about Closures in JavaScript Pt - 2 (closure Ep - 3)
-
-
-## Transcript
-
 speaker_1: Hi all welcome to uncommon geeks myself Asant I hope you all doing well
 
 speaker_2: This is a continuation of our videos on closure We have already discussed the basics of closure the classic counter dilemma and some kuyunde on the basics of closure This video will try to discuss some advanced questions on closure So if you have not watched my previous videos on closure Ill try to add the link somewhere on the screen also in the description section Please go ahead and watch those videos Only if you watch those videos this section becomes easy where Ill be asking some complex questions on closure So without wasting further time lets get started

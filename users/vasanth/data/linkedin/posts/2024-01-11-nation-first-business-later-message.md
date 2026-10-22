@@ -27,7 +27,3 @@ Jai Hind!
 EaseMyTrip.com
 
 follow me and I will help you to find your dream job : Vasanth Bhat
-
-### Shared Article: [Book Flights, Hotels, Holidays, Bus & Train Tickets - EaseMyTrip.com](http://EaseMyTrip.com)
-> easemytrip.com
-

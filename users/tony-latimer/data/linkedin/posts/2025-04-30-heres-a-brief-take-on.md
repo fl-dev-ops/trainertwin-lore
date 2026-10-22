@@ -14,7 +14,3 @@ article:
 Here's a brief take on what I think is about to happen.
 Microsoft ? #aicoaching 
 What do you think?
-
-### Shared Article: [What's Your Hunch about the Future of Coaching? — Global Digital Library — Thought Leadership Institute](https://thoughtleadership.org/hunch/tony-latimer-62/)
-> thoughtleadership.org
-

@@ -43,11 +43,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# English for IT Professionals: Overcome Language Barriers & Boost Soft Skills | Live Webinar
-
-## Transcript
-
 speaker_1: Fantastic Hi Daniel how are you
 
 speaker_2: Hi Anna Im very well Thank you What about you

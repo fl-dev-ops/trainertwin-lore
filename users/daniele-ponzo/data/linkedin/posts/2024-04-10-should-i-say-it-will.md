@@ -70,28 +70,3 @@ Want to know more?
 Drop me a message 📩 and we let’s chat, whatever part of your journey you’re at.
 
 #itprofessionals #globalcareer #confidence
-
-## Comments (7)
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> If more people learned the value and impact of adjusting their communication style, we'd all get along a little bit better Daniele Ponzo ✌️
-
-### Richard Powers, LSSMBB (We align your operational initiatives with organizational strategy. We can also help you setup and deploy operational excellence culture, leadership, tactics, measures and training. Contact me to discuss your needs!)
-> This is very good information, Daniele Ponzo, and so very true!
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> True! It's not enough to speak great English. There's the place of understanding cultural differences in the mix of communication.
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo Absolutely, understanding and respecting cultural nuances is crucial, especially in diverse work environments. It shows empathy, sensitivity, and a willingness to connect with others on a deeper level. It's not just about language; it's about fostering a sense of inclusivity and creating a space where everyone feels respected and valued.
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> Understanding those cultural differences and nuances is the most difficult task in those relationships. Using a common language is only a mean, then you gotta go deeper.
-> I'm sure you nailed it my friend Daniele Ponzo
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> On point! Thanks for sharing your perspective! 😇
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> "Walking on eggshells" explained 🤓
-

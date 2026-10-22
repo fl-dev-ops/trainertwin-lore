@@ -42,15 +42,3 @@ This is the cheapest this coaching will ever be available for.
 If you’d like all the details, send me a private message📩.
 
 #ITProfessionals #BusinessEnglish #CareerGrowth
-
-## Comments (3)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> It's always nice receiving this kind of feedback!
-
-### Johan Meyer (You are not defined by your accomplishments, but by what they allow you to prioritize.)
-> There is great value in rehearsing the unknown. It really helps unlock the ability you already have in many instances
-
-### Vanessa Andrews (Associate Consultant)
-> Such a lovely success story Daniele. “Proper Preparation Prevents Poor Performance.”
-

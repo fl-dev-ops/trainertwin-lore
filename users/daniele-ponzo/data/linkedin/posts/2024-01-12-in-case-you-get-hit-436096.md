@@ -51,23 +51,3 @@ Hi, I'm Daniele. I post about language improvement, Tech and IT Operations. If y
 Follow ➡️ Daniele.
 
 #ITLeadership #KnowledgeSharing #BusFactor #TeamResilience #CollaborationMatters
-
-## Comments (2)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Interesting Daniele Ponzo - I've never heard of this expression.
-> But in the video, it looks like he's on a busman's holiday!
-
-### Aniello La Bua (Agile Coach & Scrum Master | I help IT teams and organizations grow through Agile practices and a continuous improvement mindset | Certified PSM I, PSPO I, SPS, PSFS, PAL I, PAL-EBM, PRINCE2)
-> Hi Daniele Ponzo, thanks for the mention.
-> The bus factor is a very common element and is found in various work contexts.
-> 
-> Having also worked in technical contexts where knowledge is often passed down orally, as an approach I have always used "formalizing with two written lines" choices made or descriptions of the "current state" and I then brought these characteristics with me when I moved to a more management area.
-> 
-> The most common biases that lead to "not sharing" knowledge are:
-> *) information silo bias: if I am the only one with knowledge on a topic, "I feel irreplaceable"
-> *) power management (feeling important): unshared information "gives me power" over a certain area
-> *) loss bias: fear of losing the "status quo"
-> 
-> In the work context, sharing (of information, knowledge) represents the essence of teamwork, increases empathy, the level of relationships, making them more solid (creates trust) and consequently represents a solid approach to team building
-

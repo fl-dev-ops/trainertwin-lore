@@ -36,11 +36,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Want to Lead Internationally? Tips for Non-Native Professionals
-
-## Transcript
-
 speaker_1: I hope that was a long story for a short answer
 
 speaker_2: But its a great story actually because this is what I always try to communicate what I always try to tell people Um I mean becoming getting confident in English in a different language it doesnt matter Were talking about English now Is its just a matter of practice

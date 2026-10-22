@@ -49,13 +49,3 @@ P.S. Why did the server go to therapy? It couldn’t handle the load anymore...
 Blame AI if you don't like the humour!
 
 #itprofessionals #tech #christmas
-
-### Shared Article: [IT Christmas Games](https://solutionspeak-coaching.kit.com/8c31b844c6)
-> solutionspeak-coaching.kit.com
-
-
-## Comments (1)
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Super cool!
-

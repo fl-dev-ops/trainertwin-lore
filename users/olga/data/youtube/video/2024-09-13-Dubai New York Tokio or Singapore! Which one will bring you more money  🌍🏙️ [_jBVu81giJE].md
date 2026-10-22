@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Dubai New York Tokio or Singapore! Which one will bring you more money? 🌍🏙️
-
-## Transcript
-
 speaker_1: So were comparing cosmopolitan cities like Tokyo Singapore New York to Dubai meaning that the international clients buyers and sellers are here Whenever you want to sell or rent your property its going to be a different reach out a different type of interest towards the investment or owning the property in this location right

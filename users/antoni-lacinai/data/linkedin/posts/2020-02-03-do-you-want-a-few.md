@@ -15,7 +15,3 @@ Do you want a few simple, yet effective insights that will help you build relati
 Here's one of my tailored speeches to 1700 sales people. It's a 30 minute keynote, so if you're in a hurry, this one is not for you ^_^
 
 #communication #customerexperience #keynote
-
-### Shared Article: [5 Truths about Communication that all sales people should know - Antoni Lacinai](https://bit.ly/2TbeNeH)
-> bit.ly
-

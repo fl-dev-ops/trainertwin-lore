@@ -25,7 +25,3 @@ You can also reach out to me for guidance and mentorship through Preplaced . I c
 Connect with me for a FREE session here: https://lnkd.in/dYeJqAvu
 
 Remember, an interview is your opportunity to fulfil your dream. Make sure you go well-prepared✨
-
-### Shared Article: [Explore Mentor Vasanth Bhat Profile | Preplaced](https://visit.preplaced.in/p3m)
-> preplaced.in
-

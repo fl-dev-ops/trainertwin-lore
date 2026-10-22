@@ -24,29 +24,3 @@ Här är fyra no-go's
 Har jag missat något?
 
 https://lnkd.in/dj_zCCEv
-
-### Shared Article: [Så för du öppna samtal på jobbet: ”Var försiktig med vissa saker”](https://www.tv4.se/klipp/va/20734023/sa-for-du-oppna-samtal-pa-jobbet-var-forsiktig-med-vissa-saker?utm_source=tv4.se&utm_medium=shared_link&utm_campaign=)
-> www.tv4.se
-
-
-## Comments (6)
-
-### Christoffer Rydén (Produktägare på Digitalisering - Västra Götalandsregionen (VGR))
-> Här på västkusten är frågan
-> - Var brukar du lägga dina hummertinor? helt fel. 😎😄
-
-### Erik Rosén (Retired but not tired, try me with an offer I can't refuse!)
-> Sex!
-
-### Martin Burman (Kommunikation med mera at Chalmers)
-> Att man underhåller sitt hus själv. Och gillar det. Eller skiftar mellan sommar- och vinterhjul.
-
-### Hanna Gerdes (Human rights lawyer• Senior advisor • Speaker • Moderator • Winner Diversity Index Awards • Nominated Speaker of the Year • Finalist Raoul Wallenberg Award 2024 & Leader of the Year 2026 • Chair Civil Rights Defenders)
-> Får man inte prata politik? Eller religion? Jag är sååå körd
-
-### Colin Moon (Public speaker - Nordic and international teamwork)
-> Another no-go area … att säga att man gärna tar ett glas vin till maten under veckodagarna.
-
-### Heraldo Sales-Cavalcante (Strategy | Open Strategy | Community Builder)
-> Really good interview Antoni Lacinai !
-

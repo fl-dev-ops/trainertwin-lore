@@ -5,6 +5,21 @@ url: https://www.linkedin.com/posts/daniele-ponzo_brain-speaking-itprofessionals
 likes: 20
 comments: 10
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
+   
+  🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
+- |-
+  2 great resources, if you're interested in this topic:
+
+  - the kids' brain explained to their parents: https://alvarobilbao.com/el-cerebro-del-nino-explicado-a-los-padres to get an understanding on how children's brain works.
+
+  - The Element: https://www.goodreads.com/en/book/show/4224060. Sir Ken Robinson explains how self-fulfilment and creativity lead to great achievements
 ---
 
 Speaking English is NOT easy.
@@ -71,34 +86,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
 
 #brain #speaking #itprofessionals #brainexpansion #confidence
-
-## Comments (6)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
->  
-> 🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### Luiz Carlos Batista Junior (Procurement Analyst)
-> I couldn't agree more!! Nice post! 🙌🏿✌🏿👏🏿👏🏿👏🏿
-
-### Henrietta Agyekum🎙️ (PhD Student Hispanic Linguistics• Voice Over Artist (Multilingual)• Interpreter• Founder, B- Proficient• Spanish Instructor• Researcher)
-> Mimicking is a great strategy to improving speaking and pronunciation. Thanks for sharing!
-
-### Laura Markus (Accent & Communication Coach | I Help International Professionals Refine Their Pronunciation & Spoken English So They Feel More Comfortable & Confident When They Speak)
-> Fascinating info and great suggestions!
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Fascinating Daniele Ponzo! When I was learning Italian watching movies on Italian really helped.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 2 great resources, if you're interested in this topic:
-> 
-> - the kids' brain explained to their parents: https://alvarobilbao.com/el-cerebro-del-nino-explicado-a-los-padres to get an understanding on how children's brain works.
-> 
-> - The Element: https://www.goodreads.com/en/book/show/4224060. Sir Ken Robinson explains how self-fulfilment and creativity lead to great achievements
-

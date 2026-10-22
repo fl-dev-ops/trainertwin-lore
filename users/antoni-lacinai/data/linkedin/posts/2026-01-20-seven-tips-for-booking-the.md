@@ -6,6 +6,8 @@ likes: 14
 comments: 5
 document:
   title: Kopia av 20 years and I am only getting started (1)
+author_comments:
+- 'Here is a follow up post about 5 different kind of speakers: https://www.linkedin.com/posts/lacinai_five-speakers-1-activity-7419997506643795968-I1LQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAhlCwB3yfJB15hUUoSefN3zxpRT7QI8_k'
 ---
 
 Seven tips for booking the right speaker.
@@ -33,15 +35,3 @@ Now you fine-tune the format, tone, and level.
 At this stage, constraints can be discussed without tension.
 𝟳. 𝗘𝘅𝘁𝗲𝗻𝗱 𝘁𝗵𝗲 𝘃𝗮𝗹𝘂𝗲 𝗯𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝘀𝘁𝗮𝗴𝗲
 This closes the loop and lifts the thinking from event to impact.
-
-### Shared Document: [Kopia av 20 years and I am only getting started (1)]()
-
-
-## Comments (2)
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Here is a follow up post about 5 different kind of speakers: https://www.linkedin.com/posts/lacinai_five-speakers-1-activity-7419997506643795968-I1LQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAhlCwB3yfJB15hUUoSefN3zxpRT7QI8_k
-
-### 🌟Monica Moore (Award-Winning Global Speaker | Be “Positively Moore”| Active Presence for best outcomes | Reduce Conflict | From Stuck to Success| Words that work | Words in Action| Accredited Speaker)
-> Gold⭐️
-

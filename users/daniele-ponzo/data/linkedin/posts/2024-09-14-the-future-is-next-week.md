@@ -26,12 +26,3 @@ As an official #ambassador, I will be there to try and follow as many events as 
 Will you be there? Let me know and let's meet up!
 
 #romefutureweek #rfw24 SCAI Comunicazione
-
-## Comments (2)
-
-### Rome Future Week (10,071 followers)
-> 🚀
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> Will not be at Rome, but good luck.
-

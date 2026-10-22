@@ -23,13 +23,3 @@ Here are some of my thoughts around Us vs Them.
 How is your team spirit?
 
 #leadership #engagement  #communication
-
-### Shared Article: [Us vs them](https://buff.ly/3aDGT9d)
-> buff.ly
-
-
-## Comments (1)
-
-### Gunnar Nilsson (Civil Engineering, Surveyor)
-> "We" is a very strong word. Maybe time to lay down a rule to forbid politicians from using "We". I totally agree we should not let you use it  (yikes, tried to be ironic in the last sentence)
-

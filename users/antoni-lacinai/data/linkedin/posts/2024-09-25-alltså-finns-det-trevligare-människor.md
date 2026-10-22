@@ -29,15 +29,3 @@ Alltså finns det trevligare människor än balineser?
 Vart jag än gått, cyklat, åkt bil så har jag mötts av leenden som känts helt äkta. Aldrig påträngande. 
 
 Glada hälsningar.
-
-## Comments (3)
-
-### Magnus Lasses ("Experienced Product Manager & Solutions Architect | Agile Specialist | Driving Product Success in SaaS Systems")
-> Bali är härligt, trevliga människor och gott kaffe har de också 😀
-
-### Oskar Andermo (Hjälper ledare att framtidssäkra sig själva och sina team. Föreläsningar, workshop och coaching i mindset, beteende och praktiskt användande av generativ AI.)
-> Härligt. På Bali lär man sig att le. Som jag berättade för dig så bodde jag 6 månader på Bali 2003 och jobbade på ett hotell. Jag bodde även på hotellet jag jobbade och varje morgon gick jag  igenom hotellets trädgård ner till frukosten. Jag är morgontrött och inte så pigg innan morgonkaffet. På vägen till frukosten stötte jag på minst 5 Balineser som jobbade på hotellet. Och alla log ett stort leende och sa ”selamat pagi” god morgon. Leende smittar av sig och efter ett tag började jag göra samma. Och gör fortfarande. Vi kan alla lära oss av Balineserna.!!! Njut av denna magiska ö.
-
-### Johnny Pihlström (Talarträning - Kommunikationsutveckling - Digital strategi / Driver Speaker Academy & DigAttract)
-> Fin story som är med och gör världen till en mycket bättre värld... tack för att du delar... Tänk om vi alla skulle bli lite mer balinesiska ;)
-

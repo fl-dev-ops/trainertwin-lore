@@ -1,6 +1,6 @@
 ---
 id: 7y4V0GUoyaw
-title: Tutorial 9 : MAP Estimate
+title: "Tutorial 9 : MAP Estimate"
 url: https://www.youtube.com/watch?v=7y4V0GUoyaw
 date: '2026-02-11'
 duration: 22:05
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 9 : MAP Estimate
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorial in
 which we will be looking at map

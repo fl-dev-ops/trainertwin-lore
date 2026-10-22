@@ -24,21 +24,3 @@ Have you felt the same?
 Have you fooled yourself?
 Thinking that you were good
 When in fact you really sucked?
-
-## Comments (5)
-
-### Andrea Moreau Folcker (Helping leaders build the leadership and organizational capability required to execute strategy and transformation. Executive Search • Leadership Consulting • AI Leadership)
-> Precis, samma sak gäller med alla relationer. Du kommer inte minnas vad jag sa eller gjorde men du kommer minnas hur jag fick DIG att känna. Antingen är det en positiv känsla eller negativ känsla. Du lämna alltid en positiv känsla när vi träffas.
-
-### Eliot Freed (Live Marketing - Digital Events and Experiences at Ericsson)
-> You still are awesome.
-
-### Henrik Ericsson (Managing partner at Nodinite, helping CTOs/COOs to scale integration operations without adding headcount)
-> Känner igen mig😉
-
-### Thomas Erikson (International Keynote Speaker | Helping Leaders Reduce the Cost of Misunderstanding | 12M+ Books Sold | Leadership, Communication & Human Behaviour)
-> Antoni Lacinai Ouch, the recognition! 😃
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> Då och då är ”less more” 😉
-

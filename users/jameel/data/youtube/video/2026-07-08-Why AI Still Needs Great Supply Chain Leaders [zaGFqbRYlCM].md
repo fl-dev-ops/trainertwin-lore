@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why AI Still Needs Great Supply Chain Leaders
-
-
-## Transcript
-
 speaker_1: If the question were asking has a right answer use AI to do it If the question were asking we need a responsible answer let the human do it I like to talk about something I call I invented I think called a rentable threshold And so what I do is I fire those four programmers and I purchase software as a service from
 
 

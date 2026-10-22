@@ -26,9 +26,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# From the Philippines to Italy | The Non Native Leader | Episode 21 #podcast #interview
-
-## Transcript
-
 speaker_1: I was born and raised in the Philippines but now Im actually to be exact Im a Filipina Italian I acquired my Italian citizenship And but because Ive also because Ive Ive lived here in Italy for about 25 years now So and also because Im married to an Italian Uh the culture uh quite similar to ours as well But aside from that um the food wonderful If I were to choose a place it would be Italy So from nursery and

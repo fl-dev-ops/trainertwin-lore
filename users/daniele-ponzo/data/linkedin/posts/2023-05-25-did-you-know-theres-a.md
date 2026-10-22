@@ -20,9 +20,3 @@ Check the list below. Are you using any of those expressions? Have you noticed a
 Please, share (politely 😉) in the comments any experiences you have had.
 
 #business #englishlearning #polite #speakenglish
-
-## Comments (1)
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> I agree 💯 Daniele.
-

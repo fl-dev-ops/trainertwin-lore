@@ -13,7 +13,3 @@ article:
 We are hiring. Great role and company that has a unique passion for improving the life of pets. Come join us. 
 
 https://lnkd.in/geijzvhQ
-
-### Shared Article: [Digital Technology Functional Business Partner](https://mars.wd3.myworkdayjobs.com/External/job/USA-Missouri-Saint-Charles/Digital-Technology-Functional-Business-Partner_R82473)
-> mars.wd3.myworkdayjobs.com
-

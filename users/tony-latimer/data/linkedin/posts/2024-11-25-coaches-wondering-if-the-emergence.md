@@ -17,9 +17,3 @@ Find out what coaching at a level above the bots looks like.
 Access  a demo done by one of my students at https://lnkd.in/gTDbJ-3W
 
 International Coaching Federation ICF Singapore
-
-## Comments (1)
-
-### Lora M. (Executive Coach for Lawyers and Business Leaders Around the World / Professional Supervision and ICF Mentor Coaching / Systemic and Constellations Practitioner / Former International Lawyer / Author)
-> I could not agree more.
-

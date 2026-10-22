@@ -15,18 +15,3 @@ Leaders need to know this too. Would you agree?
 Today I will meet a global leadership team that is very aware of this. It’s a joy being with them, sharing insights and inspiration. 
 
 How do you show tha you care?
-
-## Comments (4)
-
-### Jesper Ek (Transformerar chefer till energiskapande ledare | 180+ klienter | Ingenting börjar med resultat, allting börjar med människor | Skapare av EMPLAYMENT-metoden | Hjälper ledare bygga team-energi som driver resultat |)
-> Great insights! 👌 Antoni Lacinai
-
-### Tinotenda M. (Biotechnology Graduate | Entrepreneur | Board Member, The Mentorship and Coaching Circle (TMCC) | Food Safety & Regulation Enthusiast | Championing Quality Standards & Skills Development)
-> Awesome point!
-
-### Renée Jonson (TEKNIKINFORMATÖR (pågående studier) I Marknadsföring I Kommunikation I Grafisk design I CMS I Utbildning I Onboarding I Customer Success I Arbetsflöden I)
-> 🍀
-
-### Dr. Wendy Lee, CSP, CBIP, CIC, ICDM (Certified BrandImage™ Consultant | Founder of BrandImage™ International Institute | President, VSAI | Certified Speaking Professional (CSP) | Executive Presence & Personal Branding Expert)
-> Good one!
-

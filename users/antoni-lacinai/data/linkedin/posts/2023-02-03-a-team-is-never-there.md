@@ -15,9 +15,3 @@ Trust them
 Care
  
 #communication #engagement #motivation #productivity
-
-## Comments (1)
-
-### Freia-Mai Franck (--)
-> I agree!
-

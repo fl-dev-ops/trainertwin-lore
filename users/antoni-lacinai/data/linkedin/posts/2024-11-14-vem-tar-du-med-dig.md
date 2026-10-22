@@ -26,12 +26,3 @@ Vem får inte följa med?
 ❌ lämna resten
 
 Så tycker jag. Vad tycker du?
-
-## Comments (2)
-
-### Palle Ronnebäck (Operations Manager på Konecranes AB)
-> 100%
-
-### Martina Iven (Senior kommunikationsstrateg | PR & Communications | Brand | Corporate Communications | Strategi, storytelling & relationer)
-> Håller med dig! Även om det är lättare sagt än gjort. Det kräver bra självledarskap och träning. Men practice makes permanent 😀
-

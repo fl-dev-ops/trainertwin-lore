@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Demystifying Supply Chain KPIs: A Deep Dive into the SCOR Model
-
-
-## Transcript
-
 speaker_1: So recently I did a poll on LinkedIn where I asked supply chain professionals like you on which topics are you most interested in and a huge majority came back and said that they are interested in knowing more about KPIs and supply chain In this video I will cover the most critical key performance indicators of KPIs which are used in supply chain jobs and in order to do that Im going to be using the supply chain operations reference which is a model very heavily used in the industry and also referenced in the APIC supply chain professional programs
 
 

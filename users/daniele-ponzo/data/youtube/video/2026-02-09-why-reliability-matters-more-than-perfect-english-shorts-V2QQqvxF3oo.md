@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Reliability Matters More Than Perfect English #shorts
-
-## Transcript
-
 speaker_1: So I spent my 20s learning and moving and exploring Europe And now that Im 30 years old I am settling here in Rome and after three years of freelancing Im starting my own business my own consultancy company because in these three years I built a reputation of being that freelancer that is not reliable about meetings but is reliable about output
 
 speaker_2: So you can deliver though youre late for meetings Is that the way it works Okay okay Exactly I think we can all accept that Yeah

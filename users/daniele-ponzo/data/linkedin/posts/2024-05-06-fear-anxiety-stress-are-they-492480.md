@@ -5,6 +5,16 @@ url: https://www.linkedin.com/posts/daniele-ponzo_languagelearning-itprofessiona
 likes: 10
 comments: 2
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
+   
+  🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
+- 'This was inspired by the amazing work of Dr Daniel Siegel. Read here for more: https://drdansiegel.com/hand-model-of-the-brain/'
 ---
 
 Fear, Anxiety, stress. Are they holding you back when you want to speak English?
@@ -67,18 +77,3 @@ _________________
  🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #LanguageLearning #ITProfessionals #ConfidenceBuilding #DanielSiegel #BrainScience
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
->  
-> 🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> This was inspired by the amazing work of Dr Daniel Siegel. Read here for more: https://drdansiegel.com/hand-model-of-the-brain/
-

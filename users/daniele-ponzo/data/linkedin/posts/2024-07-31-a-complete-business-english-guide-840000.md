@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_communication-english-itprofes
 likes: 17
 comments: 15
 images_count: 1
+author_comments:
+- '📌 would you like more FREE resources? Check out my Business Jargon Guide here: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-businessenglish-jargon-activity-7224662669063053312-8BO_'
 ---
 
 A Complete Business English Guide for IT Professionals
@@ -39,33 +41,3 @@ Are you convinced yet? Here is the link to download it for FREE:
 https://lnkd.in/dMRXasZa
 
 #communication #english #itprofessionals
-
-## Comments (7)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 would you like more FREE resources? Check out my Business Jargon Guide here: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-businessenglish-jargon-activity-7224662669063053312-8BO_
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Absolutely!! Daniele Ponzo
-> 
-> Thanks for sharing your knowledge and experience. 
-> 
-> This guide is a must-read for anyone in the IT industry.
-
-### Dafina G. (Founder & Director @italianculturalfluency.com @laptopfriendlycircles)
-> Great job Daniele Ponzo. Congratulations!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Absolutely! Daniele Ponzo
-> 
-> Elevating your communication skills is crucial for IT professionals.
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> Wow! 52 pages 📄 of valuable content! Need to dive deeper 🏊
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> #IT #network listen up to this person.
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> Congratulations, Daniele! The book is so great idea & great to see the execution! :)
-

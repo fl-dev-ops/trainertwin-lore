@@ -19,7 +19,3 @@ Do you find it useful? Can you see yourself preparing and delivering your presen
 #presentation #rethorics #communication 
 
 Everyday this week you will get a new disposition. They will help you prepare and remember your content. They will also help your audience remember. If you have any questions, send them my way ^_^
-
-### Shared Article: [the storyline dramaturgy](https://buff.ly/2SwX7Zq)
-> buff.ly
-

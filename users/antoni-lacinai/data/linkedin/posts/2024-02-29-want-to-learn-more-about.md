@@ -19,9 +19,3 @@ March 27, I will share a number of concrete tips
 Audience: Project managers
 Welcome
 😃
-
-## Comments (1)
-
-### Naomi Friend Ben Dakon (B2B SaaS Marketing I Events Pro I Communications & Content Specialist)
-> Can't wait Antoni Lacinai!
-

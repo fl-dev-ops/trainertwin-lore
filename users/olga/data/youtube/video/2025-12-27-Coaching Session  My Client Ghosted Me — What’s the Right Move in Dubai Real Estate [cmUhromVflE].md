@@ -15,11 +15,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Coaching Session: My Client Ghosted Me — What’s the Right Move in Dubai Real Estate?
-
-## Transcript
-
 speaker_1: I would say 99 point 9 agents who receive this recommendation in the message after 2 minutes would run into me with the phones My God Olga he responded Its magic This is a WhatsApp where youre just talking to yourself right
 
 speaker_2: Exactly Yeah

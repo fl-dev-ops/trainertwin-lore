@@ -13,7 +13,3 @@ article:
 
 Do you have what it takes to Drive Results? Watch this video on how to improve this competency as an individual performer! #video #driveforsuccess #driveforresults #softskillstraining #softskillsmatter #softskills #careeradvice #career #7habitsofhighlyeffectivepeople #7habits #prioritymanagement 
 https://lnkd.in/eFWGpsz6
-
-### Shared Article: [How to DRIVE RESULTS As An Individual - With A Real Life Example For Job Interviews!](https://youtu.be/m8_UXrfiZOo)
-> youtu.be
-

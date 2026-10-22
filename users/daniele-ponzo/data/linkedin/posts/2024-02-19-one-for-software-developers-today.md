@@ -63,14 +63,3 @@ Apply this tech wisdom to your English journey, and watch your linguistic code b
 Curious to know: what’s your experience with the “Try-Catch” approach?
 
 #LanguageMastery #TechWisdom #softwaredevelopment
-
-## Comments (2)
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Loving the conceptual aspect of this post! 🙌🏻
-> .
-> P.S what's up? 😃
-
-### Tomàs Pablo Carbone (Founder TOMKO Engineering srl | I am passionate about Management and Clinical Imaging, I help TOMKO engineering srl to create management and imaging systems necessary to improve the daily lives of our customers.)
-> Perfetto !!!
-

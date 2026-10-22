@@ -70,12 +70,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
 #leansixsigma #leadershiptools #productivity #decluttering #english
-
-## Comments (2)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Loving the systematic approach here, Daniel.  Hey, that could be another ‘S’ ! 😆
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Great work Daniele!!! I absolutely love how you have applied 5S to improve English language skills. It's a small but mighty framework 🙏😊
-

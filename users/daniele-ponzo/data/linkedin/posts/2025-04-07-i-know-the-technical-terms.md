@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_i-know-the-technical-terms-but
 likes: 38
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHZN9yDjTYWWg/CeJxzMnGJivQ3ivTy8ih3cdTVcULmu6LxI9H4oboAORUR5Q?e=1793178000&v=beta&t=2ZYp_mfFdcR7m1UdezPJKd3AraPNXC7uXf9eAIzFXho
+author_comments:
+- "▶️ How do you close that gap? \nUse simple sentence structures.\n \U0001F449 One idea. One sentence. Then pause.\nInstead of:\n \U0001F300 “I implemented the solution by coordinating with the dev team while also…”\nTry:\n ✅ “I found the issue. I worked with the dev team. Together, we fixed it.”\nIt’s not about “perfect English.”\nIt’s about being clear and confident."
 ---
 
 “I know the technical terms. But when I have to explain my ideas, I struggle.”
@@ -56,29 +58,3 @@ That’s how you move from:
 
 Let’s talk about how to close that gap.
 👇 Have you ever felt this too?
-
-## Comments (5)
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Well said Daniele Ponzo
-
-### Djordje Mladenovic (Your team shouldn’t need you for everything. | Get Out of the Loop)
-> I can totally relate Daniele! What helped me is to narrow the scope while communicating, especially with top management. Be precise, explain only what’s necessary and most importantly what were the outcomes and what is the plan for the future..
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Knowing the right terms isn’t enough when you can’t articulate them clearly under pressure. Communication is the real differentiator.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> 100% relatable. Communication really is the bridge between doing great work and being recognized for it. Thanks for putting it into words so clearly! 👏
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ How do you close that gap? 
-> Use simple sentence structures.
->  👉 One idea. One sentence. Then pause.
-> Instead of:
->  🌀 “I implemented the solution by coordinating with the dev team while also…”
-> Try:
->  ✅ “I found the issue. I worked with the dev team. Together, we fixed it.”
-> It’s not about “perfect English.”
-> It’s about being clear and confident.
-

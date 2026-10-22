@@ -9,16 +9,8 @@ article:
     Counselors, Inc. - Greensboro, NC to Tony Latimer.
   subtitle: credly.com
   link: https://www.credly.com/badges/99f42309-4f1f-4d51-b6f5-db9484c24793/linked_in?t=tc31qb
+author_comments:
+- The credential dates back to 2012, but they have finally caught onto digital badges it’s worth adding here.
 ---
 
 View my verified achievement from National Board for Certified Counselors, Inc. - Greensboro, NC.
-
-### Shared Article: [Board Certified Coach (BCC) Credential was issued by National Board for Certified Counselors, Inc. - Greensboro, NC to Tony Latimer.](https://www.credly.com/badges/99f42309-4f1f-4d51-b6f5-db9484c24793/linked_in?t=tc31qb)
-> credly.com
-
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> The credential dates back to 2012, but they have finally caught onto digital badges it’s worth adding here.
-

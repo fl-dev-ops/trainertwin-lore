@@ -22,16 +22,3 @@ Engaged people are 30% more productive than average and way more productive than
 I did a survey in 2021 where I asked some 500-600 leaders around the world what they worried about in the hybrid era. Let me know if you are interested in the result. 
 
 Here is a Swedish article where I was interviewed on hybrid workplaces.
-
-### Shared Article: [Så jobbar publicisterna i höst: Hybridkontoret är här](https://buff.ly/3dGKZTq)
-> sverigestidskrifter.se
-
-
-## Comments (2)
-
-### Vera Rydberg (Event och nätverk l Föreläsare I Mindfulnessinstruktör I ICF Coach I CV-granskning)
-> Spännande läsning. Tänk att vi lämnar aktivitetsbaserat till fördel för relationsbaserat. Det ska bli roligt att följa utvecklingen…
-
-### Erik Rosén (Retired but not tired, try me with an offer I can't refuse!)
-> Grattis till artikeln i Dagens Industri !
-

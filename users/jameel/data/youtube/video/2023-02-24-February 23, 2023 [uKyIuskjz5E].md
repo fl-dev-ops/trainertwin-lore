@@ -12,11 +12,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# February 23, 2023
-
-## Transcript
-
 speaker_1: skil HOW TO DELIVER A
 
 

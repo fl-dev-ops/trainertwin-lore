@@ -23,22 +23,3 @@ Ni lovar ingenting ni kan hålla. Erkänn det istället. Eller säg: "𝘖𝘮 �
 Ord spelar roll. Kommunikation spelar roll. Ledarskap spelar roll. 
 
 Det här kanske borde ha varit en debattartikel i dagstidningen. Oavsett vilket: Vad tänker ni om det? Spelar ord roll? Är det dags att skrota ordet vallöfte en gång för alla?
-
-## Comments (5)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Jag håller med, Antoni. Låt oss vara rädda om språket. Ju mer precist vi sätter ord på det vi menar, desto mer är vi en person att lita på. När hela samtiden flyter och ibland verkar hålla på att kantra och det vi läser och ser är fyllt av fluff och slop tycker jag att vi ska värna det påtagliga, konkreta, fysiska, det som vi kan ta på. Tack för brandfackla!
-
-### David 📲 Eriksson (.NET, Nordray)
-> "Falska löften, skjutna från höften."
-> (Från en låt med bandet Kalle Baah.)
-
-### Colin Moon (Public speaker - Nordic and international teamwork)
-> Vallöfte: ett löfte med inbyggt bäst-före-datum – valdagen. Håller med dig Antoni.
-
-### Åse Bengtsson (Positiv och lösningsorienterad administratör med hjärtat i service och människan i fokus)
-> Håller med! Tänkte på det häromdagen också. Hur kan man lova ... Och sällan beskrivs hur man ska se till att löftet hålls
-
-### Eva Nöbbelin Holmberg (Senior project manager at the Swedish Maritime Administration)
-> Helt enig....word matters.....
-

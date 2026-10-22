@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Transfer Supply Chain JOB SKILLS from India to USA to Land a DREAM JOB - Podcast
-
-
-## Transcript
-
 speaker_1: Hello and welcome to another podcast on my channel And since Ive started making content on supply chain I get a lot of questions from followers like you on how can we upskill ourselves on software like SAP APO Blue Yonder Oracle Fusion 09 OMP and so on So recently I met someone who has taken a lot of time and energy to upskill himself on the Blue Yonder software
 
 

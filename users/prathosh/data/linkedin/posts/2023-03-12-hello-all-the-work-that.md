@@ -23,6 +23,3 @@ Some of you might find it interesting.
 #aiforgood #startup #publichealth #autism
 
 Manu Kohli Varun Ganjigunte Prakash Biotechnology Industry Research Assistance Council (BIRAC) Chair ECE Department of ECE, IISc
-
-### Shared Document: [Cogniable_paper]()
-

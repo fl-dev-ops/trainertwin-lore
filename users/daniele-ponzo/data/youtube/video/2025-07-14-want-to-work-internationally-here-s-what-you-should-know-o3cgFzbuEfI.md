@@ -17,11 +17,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Want to Work Internationally? Here's What You Should Know
-
-## Transcript
-
 speaker_1: my recommendation from my personal experience would be uh I have four recommendations for you for the audience out there Number one always be patient and curious Embrace culture references as learning opportunities rather than obstacles Learn to ask question Listen more than you speak because we know it to speak but when you listen more you tend to be understanding more when youre trying to be understood
 
 

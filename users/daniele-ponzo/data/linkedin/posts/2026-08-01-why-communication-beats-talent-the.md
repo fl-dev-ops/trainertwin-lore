@@ -19,9 +19,3 @@ Communication determines your impact.
 English for Tech Professionals Communication That Gets You Promoted. Watch the full speech here: https://lnkd.in/dgfZGdh8
 
 #TechLeadership #SoftwareEngineer #Communication #EnglishForDevelopers
-
-## Comments (1)
-
-### Md Mishuk Ali (Video Editor & Visual Effects Designer | Dedicated to startup branding, social storytelling & documentary visuals.)
-> Strong communication amplifies technical skills. The ability to explain complex ideas clearly often turns good developers into trusted leaders.
-

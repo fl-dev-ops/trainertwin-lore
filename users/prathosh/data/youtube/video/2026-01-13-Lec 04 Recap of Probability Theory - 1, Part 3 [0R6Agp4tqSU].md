@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 04 Recap of Probability Theory - 1, Part 3
-
-## Transcript
-
 speaker_1: Now what happens to the probability
 measure So we had a probability measure
 P

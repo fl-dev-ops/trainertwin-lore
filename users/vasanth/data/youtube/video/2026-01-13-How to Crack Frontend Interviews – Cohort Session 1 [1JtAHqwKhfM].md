@@ -14,12 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How to Crack Frontend Interviews – Cohort Session 1
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Kedari with Person QD channel and some of you know like Im starting a cohort and today was the day one of my cohort followed by my video youre going to see the complete cohort recording So I thought of making the first one video public so that you know how the cohort works how the people are interacting how we are building the things together how it is helping the interview process As at the session one there is one chance if you still want to be part of the cohort we have like around five slots left and you could message us on the number shown on the screen also in the description section on the WhatsApp If youre still interested
 
 

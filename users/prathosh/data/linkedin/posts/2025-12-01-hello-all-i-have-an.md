@@ -29,7 +29,3 @@ A glimpse of my style of teaching can be found here where I have taught a full c
 One may register here - https://lnkd.in/gEFgjERc
 
 Indian Institute of Science (IISc) Chair ECE EECS @ IISc, Bengaluru NPTEL NPTEL IIT Madras #aiml #iisc
-
-### Shared Article: [- YouTube](https://youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu&si=TsWlqVaWjxmWfwmb)
-> youtube.com
-

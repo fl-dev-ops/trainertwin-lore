@@ -13,11 +13,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Be simple but with substance. Communication tips from Antoni Lacinai, keynote speaker
-
-## Transcript
-
 speaker_1: I was coaching an executive within supply chain and she complained that she didnt have the best connections with the sales people They didnt understand what she was doing really and it created a problem for her So I asked her what is it that you say when they ask you what your job is And this is what she put up
 
 

@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_3-closing-techniques-for-3-decision-
 likes: 26
 comments: 10
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D10AQGrM3PsG4MXdQ/CeJzLyCnWNTcyKNA1Nkgr0E0uSjOy0MkAipmaYIqZWGCKGZuhiAEAqbEXXA?e=1793170800&v=beta&t=lvcP0tM8XHVV_hT6bEI1pG7YjjrUNuFydI1f1rLrN9o
+author_comments:
+- Something for you Patrik Nordkvist? ^_^
 ---
 
 3 closing techniques 
@@ -30,25 +32,3 @@ How do you get people to buy into your ideas? Share your thoughts
 
 
 FYI - In my upcoming book Speed Selling, they are included. Launch date sometime end of summer
-
-## Comments (6)
-
-### Kathi Balasek, MA (Grief Literacy & Empathy Communication Expert | Speaker + Executive Coach | Creator, The Language of Loss | Helping financial professionals and leaders know what to say when words matter most)
-> Excellent questioning strategies !
-
-### Per E Claesson (Senior consultant (Freelance))
-> Perfect Antoni! That`s the right "technique"! => Question tension 👍.
-> (Relation tension 👎)
-
-### I Need A Speaker (1,338 followers)
-> Of course we would like to see the book!
-
-### Vanessa Leporati Poulsen (Speaker & Moderator | Senior Advisor & Board Member, Stockholm Fashion District and Trade Partners Sweden I Co-Owner Restaurant Kant & upcoming Ikast Golf Resort)
-> Interesting! Of course I am interesred in getting my hands on your book Antoni Lacinai!🙌🏼⭐️
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Something for you Patrik Nordkvist? ^_^
-
-### Björn Söderberg (CEO and Partner in Salvator Mundi Global and Salvator Mundi Times)
-> Thanks for sharing Antoni 👍🎯🙏
-

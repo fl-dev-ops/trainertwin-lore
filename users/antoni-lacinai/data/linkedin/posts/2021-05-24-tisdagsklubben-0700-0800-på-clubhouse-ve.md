@@ -14,9 +14,3 @@ Veckans tema: Modernt ledarskap
 Ställ klockan och ratta in. Vi ses ^_^
 
 #ledarskap Alexander Holmberg
-
-## Comments (1)
-
-### Alx José-Angel Olivera-Samberg (Mätningstekniker (LIA) på Sweco | Mätning och drönarbaserad inmätning | UAS-operatör specifik kategori | Bakgrund i trafikteknik)
-> Inbjudan till CB?
-

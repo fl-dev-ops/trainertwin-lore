@@ -11,7 +11,3 @@ article:
 ---
 
 Our work on non-contact sensing (at Xerox research) has appeared in IEEE transactions signal processing - https://lnkd.in/g_E7QRg
-
-### Shared Article: [Profile Information](http://ieeexplore.ieee.org/document/7840050/)
-> ieeexplore.ieee.org
-

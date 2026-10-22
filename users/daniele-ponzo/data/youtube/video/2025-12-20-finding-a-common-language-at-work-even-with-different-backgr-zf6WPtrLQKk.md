@@ -13,9 +13,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Finding a Common Language at Work Even With Different Backgrounds #shorts
-
-## Transcript
-
 speaker_1: and its just to find a way to find a common language because obviously the common language is English but there is something beyond that So to find a common language within the common language yeah if you know what I mean So the way we communicate the way we express our ideas the way we I dont know we listen and we feedback So all these all these things contribute to effective communication

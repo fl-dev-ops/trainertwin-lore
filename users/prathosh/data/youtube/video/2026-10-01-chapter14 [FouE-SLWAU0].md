@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter14
-
-## Transcript
-
 speaker_1: अथ चतुर्दशोऽध्यायः
 गुणत्रयविभागयोगः
 श्रीभगवानुवाच

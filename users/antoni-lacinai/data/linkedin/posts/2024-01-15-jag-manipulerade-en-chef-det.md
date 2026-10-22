@@ -34,17 +34,3 @@ I krönikan skickar jag med 3 bättre sätt
 Tack HRnytt för förtroendet att dela mina tankar till era +70,000 prenumeranter
 
 PS - Har du haft rätt intention men fel kommunikation?
-
-### Shared Article: [Har du ett coachande eller ett manipulerande ledarskap? - Ledarskap - HRnytt](https://hrnytt.se/ledarskap/har-du-ett-coachande-eller-ett-manipulerande-ledarskap/)
-> hrnytt.se
-
-
-## Comments (1)
-
-### Peter Trägårdh (Helping teams succeed through agility. Unlocking motivation and productivity. And coding.)
-> Men måste man inte vara manipulerande i viss mån som coach? Det är väl syftet med coachning? Att nå ett mål. Att guidad till målet. Att manipuleras så pass mycket att man når dit?
-> 
-> Jovisst, man kan manipulera för mycket. Och det är väl det som skiljer en bra coach från en annan. Fingertoppskänslan att veta var gränsen går.
-> 
-> Jag har inte läst krönikan _än_. En spontan reflektion på texten i inlägget, för vad det är värt.
-

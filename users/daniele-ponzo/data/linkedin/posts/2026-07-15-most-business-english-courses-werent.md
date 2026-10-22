@@ -117,35 +117,3 @@ the business ceiling starts to disappear.
 
 If communication stopped feeling like your biggest limitation tomorrow...
 what opportunity would you finally feel ready to pursue?
-
-## Comments (9)
-
-### Michael Jefford (Native English is not automatically international English.)
-> The panic-explaining part is the part I'd underline. All that extra background buys you a second to think, but it makes you harder to follow, so the room goes cold, and the natural response is more explaining. Nasty loop.
-
-### Sabine Mueller-Heijmans (Corporate English International Business Communication I Intercultural Insights I ON EQUAL FOOTING helps uncover cultural blindspots that can create communication hiccups.)
-> This is so true! Especially under today’s pressure for senior management to suddenly be able to switch from Dutch to English at the drop of a 🎩. 👍Easier said than done….
-
-### Irenne Sofia Gamboa Ortega (Private Markets Senior Associate en Acuity Analytics)
-> Love this!!!!!
-> Thank you so much
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> I like the distinction between knowing English and communicating under pressure. Those are two different skills, and improving the second one can make a huge difference in technical discussions.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> This is a great reminder that effective communication is about clarity under pressure, not perfect English. 
-> Simple frameworks help people communicate with confidence when it matters most.
-
-### Tuba Kizilkan (Digital-Leadership-Studentin in Berlin | Business-English- & Kommunikationstrainerin | Bildungsinnovation, KI-Kompetenz & Projektkoordination | XMind Ambassador)
-> The most dangerous cognitive bias is often the one we don't realize we're applying, which is why regularly questioning our own thinking is a leadership skill in itself. Great post, Daniele Ponzo!
-
-### Hannah Y. (Helping women in HR showcase their expertise while under pressure by speaking with clarity, credibility & impact | Stop shrinking, overthinking & doubting yourself in English - shine in the moments that matter)
-> I love how this image perfectly shows the whole process going through someone's mind between hearing a question and answering one. Using set phrases and structures that come out on autopilot definiately reduces the cognitive load!
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Daniele Ponzo The difference is so clear at times it's scary. It's information overload in one go.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Far fewer can negotiate, persuade, or handle difficult questions in English. That's where practical communication training makes the difference. Daniele Ponzo
-

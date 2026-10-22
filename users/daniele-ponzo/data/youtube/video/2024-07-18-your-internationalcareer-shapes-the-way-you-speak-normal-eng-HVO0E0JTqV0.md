@@ -27,9 +27,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Your #internationalcareer shapes the way you #speak. Normal #english and #academic English.
-
-## Transcript
-
 speaker_1: And I started studying sustainability science And and then a master then my PhD my postdoc and now I am a researcher uh in sustainability science at the University of Surrey And uh its been a big career change Uh a lot uh a lot has changed and uh especially my ability to to speak and write and communicate and discuss academic topic in English Thats been yes surely a a major change in my life

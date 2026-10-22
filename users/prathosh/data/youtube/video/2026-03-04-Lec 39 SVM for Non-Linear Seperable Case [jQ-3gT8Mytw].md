@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 39 SVM for Non-Linear Seperable Case
-
-## Transcript
-
 speaker_1: Welcome to this class So let us look at
 the case where the data is not linearly
 separable SVM for

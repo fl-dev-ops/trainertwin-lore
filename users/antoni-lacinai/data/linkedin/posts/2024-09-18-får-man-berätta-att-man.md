@@ -17,20 +17,3 @@ Kanske slipper någon av er att hamna i samma trubbel. Jag tänker att här hjä
 
 Så tänker jag. Hur tänker du?
 😃
-
-## Comments (3)
-
-### Meliha Lagström (--)
-> Helt rätt, tycker jag
-
-### Katarina Fagerström (Relationsbyggare | Koordinering | Utesäljare | Innesäljare | Projektledare | 0703-31 78 94)
-> Man ska alltid stå för sina misstag. Men som du skriver så kan det finnas förklarliga orsaker. Men oavsett så ska man stå för sina egna. I ditt fall var ni två. 
-> 
-> Jag fick till mig på en ny arbetsplats när jag skulle bli ”upplärd” 
-> Att: Man lär sig av sina misstag, idag ska vi lära oss mycket 😂
-> 
-> Ja jag blev såklart nervös men stannade i 15 år 🤩 och har lärt mig en hel del.
-
-### Snehil . (I do logo & brand identity design backed by psychology | 52+ Client Success Stories | Logo Designer)
-> It takes courage to admit a mistake, and your willingness to share your experience is commendable. Antoni Lacinai
-

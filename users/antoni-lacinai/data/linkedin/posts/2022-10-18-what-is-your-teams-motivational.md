@@ -20,16 +20,3 @@ Do you?
 #team #leadership #engagement
 
 Your communication and leadership culture is fueled by something beneath the surface. Something hidden. That something is what I call "your motivational mindset"
-
-### Shared Article: [Self-assessment - Antoni Lacinai](https://buff.ly/3rYnwkc)
-> antonilacinai.com
-
-
-## Comments (2)
-
-### Maria Ngundu Ntoreine (Chief Manager Credit Administration at Banker at Centenary and Certified Project Manager - SPMP, Board Member and Board Chairperson at Bethany Women Hospital, Board Member at FFAU)
-> Antoni , I loved your presentation this afternoon about Engagement . I hope to get the soft copy of your book -Employee Engagement
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Good conversationstarter for a team Antoni 👍⭐️ Just did the assessment (as a test) on the managementteam in my last work. The results gave me quiet ”right” answers and a good view of the problems. If we had done this and started a discussion it would have been awesome. But it has to be a will… 😉🤭
-

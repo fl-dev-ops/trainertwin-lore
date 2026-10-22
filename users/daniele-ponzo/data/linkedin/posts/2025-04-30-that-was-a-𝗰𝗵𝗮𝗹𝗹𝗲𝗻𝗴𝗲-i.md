@@ -5,6 +5,24 @@ url: https://www.linkedin.com/posts/daniele-ponzo_that-was-a-%F0%9D%97%B0%F0%9D%
 likes: 45
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQGw0Ewzi9ziOQ/CeJxzMnGJSnQLcE4p9gh0NtHVcULmW6DyXULR-IG6AEdrElE?e=1793178000&v=beta&t=6DkRRmdHhh4Yz85R1Tu4V-j7TMJdkUqb3Bh90h-NpNA
+author_comments:
+- |-
+  ▶️ My moment of revelation... I’ll never forget the moment that really hit me.
+  I was at a social event, and I overheard two managers talking.
+  They were saying:
+  “He’s really good, lots of knowledge… but he needs to put himself forward, he needs to start showing up.”
+  At first I didn’t think much of it.
+  Then I realized… they were talking about me.
+  I was standing right there... they just hadn’t seen me.
+  That moment changed everything.
+  It was clear:
+  I wasn’t being held back by my skills.
+  I was being held back by silence.
+  And from that day on, I started working not just on my English… but on using my voice.
+  That’s what the challenge is about too.
+  Small steps.
+  Real conversations.
+  And finally being heard.
 ---
 
 That was a 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 I didn't expect...
@@ -56,38 +74,3 @@ It’s not about being perfect.
 It’s about being present — and finally using your voice.
 
 P.S. what was your "moment of revelation"?
-
-## Comments (5)
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> I am pretty sure many people can relate to this. It's important to overcome Resistance and build up confidence :)
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> The only way to actually start communicating is to... actually start communicating. Will it go well at first? No. But that's fine, because it doesn't have to. We all excuse others that make an effort to communicate with us in our own language. 
-> 
-> And Daniele's challenge can help immensely!
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Such a relatable journey, knowing the language but still feeling stuck in silence. Communication truly starts with courage, not perfection. 👏
-
-### Anas Riad (Founder, Riad Systems | AI Consultant & AI Engineer | Helping businesses reduce manual work with AI & automation | 4 yrs Data Science & ML | YouTube: Anas Riad)
-> Love to hear about the revelation moment and how you used it as a force to improve in certain aspects of your life.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ My moment of revelation... I’ll never forget the moment that really hit me.
-> I was at a social event, and I overheard two managers talking.
-> They were saying:
-> “He’s really good, lots of knowledge… but he needs to put himself forward, he needs to start showing up.”
-> At first I didn’t think much of it.
-> Then I realized… they were talking about me.
-> I was standing right there... they just hadn’t seen me.
-> That moment changed everything.
-> It was clear:
-> I wasn’t being held back by my skills.
-> I was being held back by silence.
-> And from that day on, I started working not just on my English… but on using my voice.
-> That’s what the challenge is about too.
-> Small steps.
-> Real conversations.
-> And finally being heard.
-

@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-speaki
 likes: 34
 comments: 16
 images_count: 1
+author_comments:
+- Thanks for reposting Aabidh Musthaq 🙏!
+- '🎅🏻 Ho Ho Ho, Santa is on his way: https://www.linkedin.com/posts/daniele-ponzo_ho-ho-ho-santa-is-on-his-way-hes-activity-7275773405478453248-A3k7'
 ---
 
 The Number 1 Paradox that keeps you from advancing your English 
@@ -86,33 +89,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #english #itprofessionals #speaking #confidence
-
-## Comments (9)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Aabidh Musthaq 🙏!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🎅🏻 Ho Ho Ho, Santa is on his way: https://www.linkedin.com/posts/daniele-ponzo_ho-ho-ho-santa-is-on-his-way-hes-activity-7275773405478453248-A3k7
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It’s a reminder that effective communication stems from practice and confidence, rather than just theoretical knowledge. Daniele Ponzo
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Setting realistic goals and practicing relaxation techniques can make a huge difference in overcoming self-consciousness.  Daniele Ponzo
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo This post brilliantly highlights the "speaker's paradox" and the challenges many face in transitioning from learning to speaking a language.
-
-### Vanessa Andrews (Associate Consultant)
-> Great point  Daniele ‘Set Realistic Goals’ we can be our own worst enemy 🫣
-
-### Harit Bhasin (Leadership & Career Coach • AI Head Product Management • Helping tech leaders get promoted with influence & presence • Follow for leadership & career growth tips. Views are personal.)
-> I would say responsibilities also goes to the people in the meeting who can speak good English. They should encourage them not to fear about the wrong English, just speak out to make an inclusive environment. Daniele Ponzo
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Love this
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Classic!
-

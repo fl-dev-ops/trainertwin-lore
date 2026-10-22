@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# How bad communication quietly destroys performance (and what to do about it)
-
-## Transcript
-
 speaker_1: Yep the problem is pretty big If you are impressed by fancy language you will think that the leader is better and that the decision is better when its actually not in any of the two cases
 
 

@@ -40,7 +40,3 @@ Show them why collaboration is a key factor
 Or don't 
 Your choice
 Here me sigh...
-
-### Shared Article: [The executive hubris driving five-day in-office mandates](https://www.bbc.com/worklife/article/20240216-the-executive-hubris-driving-five-day-in-office-mandates)
-> bbc.com
-

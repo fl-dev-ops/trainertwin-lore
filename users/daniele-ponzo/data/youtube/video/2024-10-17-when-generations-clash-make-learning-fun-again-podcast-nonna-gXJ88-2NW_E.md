@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# When Generations Clash: Make Learning FUN again! #podcast #nonnativeenglishspeakers #shorts
-
-## Transcript
-
 speaker_1: Okay
 
 speaker_2: Which was almost like um uh One Piece which is really popular but

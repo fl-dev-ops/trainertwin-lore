@@ -12,9 +12,3 @@ Idag klockan 12 blir det färdigsnackat.
 Välkommen att hänga på ett live-snack med Pontus F. Christoffersen och mig som gäst
 
 #kommunikation #ledarskap #retorik
-
-## Comments (1)
-
-### Pontus F. Christoffersen (Affärsretorik för IT-konsultbolag | Hjälper konsulter att gå från resurs till rådgivare och proaktivt generera leads | Affärsmässighet | Konsultmannaskap)
-> SNART! 🙌😄
-

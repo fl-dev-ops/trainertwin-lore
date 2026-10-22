@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# the ancient greek disposition
-
-## Transcript
-
 speaker_1: About two and a half thousand years ago Aristotle and his crew decided to educate people on how to convince other people And so we have the classical rhetorical Greek way of structuring a message It starts off with a background including the problem or the challenge or the opportunity Uh thats the first step The second step is when you raise your or voice your opinion you have a suggestion
 
 

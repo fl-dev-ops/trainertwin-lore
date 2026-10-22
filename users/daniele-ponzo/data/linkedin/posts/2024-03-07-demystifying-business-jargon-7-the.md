@@ -53,9 +53,3 @@ Elevate your communication skills!
 P.S. Is your next elevator pitch ready? Let’s talk in the comments.
 
 #ElevatorPitch #ITLeadership #CommunicationSkills #TechManagement #ProfessionalDevelopment
-
-## Comments (1)
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> An essential skill to manage (concise communication + storytelling).
-

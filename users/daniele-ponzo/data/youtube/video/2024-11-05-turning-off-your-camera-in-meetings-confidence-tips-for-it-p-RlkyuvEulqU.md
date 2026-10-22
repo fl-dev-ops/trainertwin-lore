@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Turning Off Your Camera in Meetings? | Confidence Tips for IT Pros #podcast #shorts #customer
-
-## Transcript
-
 speaker_1: Yeah
 
 speaker_2: They couldnt switch off their camera They were there right in front of me So okay Maybe maybe I need to change approach Maybe I need to you know change my pace intonation whatever but I get this instant feedback Whereas yeah when we are here and Im happy that we are both on camera here so if I switch that off

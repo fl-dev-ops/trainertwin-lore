@@ -17,9 +17,3 @@ Every piece of advice, every strategy stems from practical, on-ground knowledge.
 It's a seamless blend of AI efficiency and human experience, ensuring you receive guidance that's both pragmatic and deeply insightful.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Woodley B. Preucil, CFA (Senior Managing Director)
-> Tony Latimer, MCC Thanks for taking the time to share your insights on this important topic.
-

@@ -21,7 +21,3 @@ You can read more about what I think it takes to attract and keep the best talen
 https://lnkd.in/efyNY9Te
  
 #TomorrowStartsToday #ResponsibleGrowth #InvestInTalent #Leadership #PurposeAndProfit
-
-### Shared Article: [Mars CEO: Your People Are Your Biggest Asset—Show Them](https://time.com/6693441/mars-ceo-people-values/)
-> time.com
-

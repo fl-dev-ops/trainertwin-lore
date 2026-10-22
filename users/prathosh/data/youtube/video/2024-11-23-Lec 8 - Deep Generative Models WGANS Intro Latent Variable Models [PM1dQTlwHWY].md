@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 8 - Deep Generative Models WGANS Intro Latent Variable Models
-
-## Transcript
-
 speaker_1: Yes sir we were able to see the first quiz also you got to see the marks right
 
 speaker_2: suggesting this

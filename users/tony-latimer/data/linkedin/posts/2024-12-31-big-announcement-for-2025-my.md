@@ -8,6 +8,8 @@ article:
   title: 'TonyLatimer.ai: AI-Powered on-demand Leadership Training'
   subtitle: profitableleadership.com
   link: http://profitableleadership.com/ai2025
+author_comments:
+- Oh go on! Be generous. Repost to your network so everyone gets a chance to play.
 ---
 
 🎉 Big Announcement for 2025! 🎉
@@ -29,13 +31,3 @@ TonyLatimer.ai is here to support you with on-demand leadership tools and coach
 Let’s make 2025 the year of growth and confident leadership! 🎯
 
 #LeadershipDevelopment #PeopleManagers #AI #CoachingTools #Mentorship
-
-### Shared Article: [TonyLatimer.ai: AI-Powered on-demand Leadership Training](http://profitableleadership.com/ai2025)
-> profitableleadership.com
-
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Oh go on! Be generous. Repost to your network so everyone gets a chance to play.
-

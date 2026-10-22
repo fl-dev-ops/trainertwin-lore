@@ -21,9 +21,3 @@ Can you enjoy your work and still have a life outside of work?
 Of course you can. 
 
 There should be four categories. Engaged people are the missing piece in an otherwise very insightful study.
-
-## Comments (1)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Good question Antoni - the Engaged numbers most certainly do need to be included, how else will that number grow??
-

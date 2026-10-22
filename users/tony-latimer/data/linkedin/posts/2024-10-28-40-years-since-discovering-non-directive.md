@@ -20,12 +20,3 @@ comments: 4
 
 #profitableleadership #simplicityofmastery
 #coachtraining International Coaching Federation
-
-## Comments (2)
-
-### Jo-An Darlene Chua (Helping Filipino Leaders Build Lasting Financial Security | Empowering Sales Leaders & Financial Advisors to Hit Top 1% | Speaker | 25 Years in Insurance & Financial Advisory | Lifetime MDRT | 500+ Advisors Mentored)
-> Love this! Cant wait for your book to come out! Just do it!!! :)
-
-### Elin Mai (I help $1M+ founders become as magnetic as they are brilliant. Inside out. | Former-CEO, 22+ years | 12K+ leaders transformed.)
-> Even though I was there for the podcast, I discover something new every time I listen. Thank you for being such a fantastic guest! 👏
-

@@ -18,11 +18,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Moving Home in a VINTAGE FIAT Van
-
-## Transcript
-
 speaker_1: Uh heres a great driving experience in a vintage Fiat van Um yeah having fun here This is actually not too bad I thought it would be worse And yeah so made it through the bumps And now I have one more uphill to go through Uh yeah Tough Full load Okay wish me luck
 
 

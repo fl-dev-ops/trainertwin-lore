@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How I stopped being afraid to Cold Calls
-
-## Transcript
-
 speaker_1: And out of that training that we have in coaching altogether I think weve been for a little bit more than 3 months I think
 
 speaker_2: Yeah In coaching

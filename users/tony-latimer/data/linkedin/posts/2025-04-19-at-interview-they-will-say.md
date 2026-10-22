@@ -8,6 +8,8 @@ article:
   title: 'TonyLatimer.ai: On-demand Leadership Mentoring & Training'
   subtitle: profitableleadership.com
   link: http://profitableleadership.com/ai
+author_comments:
+- profitableleadership.com/ai
 ---
 
 At interview they will say they align to you values; because they want the job.
@@ -62,13 +64,3 @@ Let smart AI sharpen your leadership thinking.
 #BusinessCoaching  
 #ManagerDevelopment  
 #ProfitableLeadership
-
-### Shared Article: [TonyLatimer.ai: On-demand Leadership Mentoring & Training](http://profitableleadership.com/ai)
-> profitableleadership.com
-
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/ai
-

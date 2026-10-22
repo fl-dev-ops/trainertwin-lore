@@ -16,7 +16,3 @@ Webinar: Om att leda teamet på distans
 För dig som är chef eller ledare och där ditt team sitter utspritt
 Du får utvalda tips från onlinekursen (live) med samma namn, som jag och Mia Liljeberg är kursledare för.
 Välkommen du med
-
-### Shared Article: [Welcome! You are invited to join a webinar: Leda på distans. After registering, you will receive a confirmation email about joining the webinar.](https://bit.ly/2M04aGq)
-> bit.ly
-

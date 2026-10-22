@@ -19,7 +19,3 @@ Det var SVT morgonstudion och en sju minuter lång intervju om hur man kommunice
 Jag minns hur jag, en ändå rätt erfaren person, kände hur mina knän darrade. Men sedan var det bara att köra på. 
 
 När gjorde du  något senast som fick dina knän att darra?
-
-### Shared Article: [Påskvett på sociala medier i coronatider](https://buff.ly/2PTUv9T)
-> svt.se
-

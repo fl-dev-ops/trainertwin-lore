@@ -5,6 +5,20 @@ url: https://www.linkedin.com/posts/tonylatimer_coaching-mcc-mastery-activity-73
 likes: 17
 comments: 4
 images_count: 2
+author_comments:
+- |-
+  Most PCC coaches wait until they’re applying for MCC before learning mastery. By then, habits are set—and harder to shift.
+
+  The truth? You don’t need to wait.
+
+  When you learn to reset in the moment, to sense energy beneath the words, and to trust your subconscious to guide the coaching, you start working at mastery level right away.
+
+  That’s exactly what we’re exploring inside Simplicity of Mastery—a place to practice these shifts long before you sit the exam.
+
+  If you’re a PCC coach serious about staying ahead, now’s the time.
+
+  👉 Message me to find out more.
+- profitableleadership.com/simplicityofmastery
 ---
 
 Why do some PCC coaches leap to mastery in months while others stay stuck for years?
@@ -30,22 +44,3 @@ That is what we teach in Simplicity of Mastery.
 If you want to get ahead of the game—and begin coaching at the level required for MCC long before your exam is due—let’s talk.
 
 #Coaching #MCC #Mastery #SimplicityOfMastery
-
-## Comments (2)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Most PCC coaches wait until they’re applying for MCC before learning mastery. By then, habits are set—and harder to shift.
-> 
-> The truth? You don’t need to wait.
-> 
-> When you learn to reset in the moment, to sense energy beneath the words, and to trust your subconscious to guide the coaching, you start working at mastery level right away.
-> 
-> That’s exactly what we’re exploring inside Simplicity of Mastery—a place to practice these shifts long before you sit the exam.
-> 
-> If you’re a PCC coach serious about staying ahead, now’s the time.
-> 
-> 👉 Message me to find out more.
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

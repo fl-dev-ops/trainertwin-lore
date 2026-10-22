@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_wrong-do-it-again-wrong-do-it-
 likes: 36
 comments: 18
 images_count: 1
+author_comments:
+- "\U0001F6A7 What’s the biggest barrier you want to remove this year to start speaking with confidence?\nYou can still vote in my poll \U0001F447 \nhttps://www.linkedin.com/posts/daniele-ponzo_whats-the-biggest-barrier-you-want-to-remove-ugcPost-7283018019881050113-Zyiv"
 ---
 
 "Wrong, Do it again! "Wrong, Do it again!
@@ -54,42 +56,3 @@ P.S. if you are interested in a useful and interactive approach (in a safe and n
 For the next 6 days, you can join my 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗼𝗿 𝗣𝗿𝗼𝗴𝗿𝗮𝗺 𝗮𝘁 𝟯𝟬% 𝗼𝗳𝗳
 
 Let’s tear down the wall together!🧱
-
-## Comments (9)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🚧 What’s the biggest barrier you want to remove this year to start speaking with confidence?
-> You can still vote in my poll 👇 
-> https://www.linkedin.com/posts/daniele-ponzo_whats-the-biggest-barrier-you-want-to-remove-ugcPost-7283018019881050113-Zyiv
-
-### Asta Martinione (PhD | C-Level Executive | Board Member | Leadership | Transformation | Strategy | AI | Operational Excellence)
-> I love the reference to The Wall by Pink Floyd, and it is an important mission you have chosen to pursue: giving people the tools of confidence and self-reliance to break through any obstacle.
-> 
-> And you are right, your post coincidentally resonated with mine, published at a similar time!
-
-### Prof.Dr.Evone Botros. (AI Governance Researcher | Journal Founder | Fellow, Royal Society of Great Britain at Oxbridge Institute of Professional Development (OIPD) - UK)
-> Impressive!!
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> You rock mate
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Creating a safe and supportive space truly makes all the difference. Daniele Ponzo
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Great work Daniele. Keep it up!
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Excellent review, Daniele! 
-> I can testify for this, you are very kind and patient, indeed.
-
-### Stefania Marinelli (Turning Busy Professionals into Authentic Leaders | Associate Certified Coach -ICF | Senior People Manager | Agile Coach)
-> Having someone that is able to teach in a relaxed environment, without judgement but supporting you, is the best thing that can happen to someone eager to learn!
-> 
-> So different from what the school was (at least for me) unfortunately...
-> 
-> Daje Daniele!
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> This is great
-

@@ -13,9 +13,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How Communication Can Shape Perception #motivation #selfmotivation
-
-## Transcript
-
 speaker_1: So I would like to give to you that everything communicates You cannot not communicate Even before you go on stage you communicate So when you present think about how you want to be perceived Are you going to be perceived as energetic Slow deliberate thoughtful Decide and then act accordingly One of my friends says be yourself I think thats very good advice especially if you normally are a bit slow slow

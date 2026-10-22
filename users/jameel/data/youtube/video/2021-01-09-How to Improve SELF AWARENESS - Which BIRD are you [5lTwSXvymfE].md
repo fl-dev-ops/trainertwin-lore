@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Improve SELF AWARENESS - Which BIRD are you?
-
-
-## Transcript
-
 speaker_1: Are you a dove owl a peacock or an eagle Watch this video till the end to find out how these birds can actually help you improve the most important skill you can have self awareness
 
 speaker_2: This is a word that is rarely talked about in our space that I want to start building more attention for Self awareness I want to deliver on this message so much I would create a test or a drug that allowed people to become self aware One potion inject not hustle not smart self awareness

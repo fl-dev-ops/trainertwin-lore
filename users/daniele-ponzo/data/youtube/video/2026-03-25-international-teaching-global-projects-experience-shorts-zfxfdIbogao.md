@@ -28,11 +28,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# International Teaching & Global Projects Experience #shorts
-
-## Transcript
-
 speaker_1: So Gulbin you do a lot of things You teach you study you do international projects Its quite fascinating because you know when people think about teachers they say okay those people who go into a room and they talk other people listen and thats it But you know actually we do a lot of things and and youre the living proof obviously that we do a lot of things Um So you work in your native country like Turkey yeah Am I pronouncing it Am I pronouncing it well
 
 speaker_2: Yes Yeah yeah yeah yeah very well very well

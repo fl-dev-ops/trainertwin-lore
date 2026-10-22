@@ -44,9 +44,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Non-Native Leader Video Podcast Trailer #podcast #fearcontrol #business #englishspeaking
-
-## Transcript
-
 speaker_1:  No spoken dialogue detected

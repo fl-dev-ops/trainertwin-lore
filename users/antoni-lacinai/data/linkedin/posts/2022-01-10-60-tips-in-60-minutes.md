@@ -20,21 +20,3 @@ Här är länken: https://lnkd.in/geK-ADu8
 För bättre kommunikation! För bättre möten! För bättre presentationer!
 
 #digitalamöten #kommunikation
-
-## Comments (5)
-
-### Dennis Tillström (Utbildningsansvarig på Diploma - Kunskap som lyfter dig till nästa nivå!)
-> Underbart! Äntligen är den publicerad 👌 Bra jobbat alla involverade 😊
-
-### Mi Ridell (Nonverbal Communication Analyst certified by Joe Navarro)
-> Toppen🙌🏻
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Enkelt sätt att bli bättre! Rekommenderas! 😀
-
-### Anna Tebelius Bodin (Keynote speaker, Educator, Expert on the Brain, Leadership, Learning, and Motivation Personal development, Harvard Graduate ’04)
-> Snyggt! 👌🏼Behovet tycks vara outsinligt! Rätt person på rätt plats!
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> 👍
-

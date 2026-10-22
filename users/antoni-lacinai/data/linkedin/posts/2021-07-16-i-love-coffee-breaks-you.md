@@ -9,9 +9,3 @@ images_count: 1
 
 I love coffee breaks. You?
 Just saying ^_^
-
-## Comments (1)
-
-### Marcus Sandberg (Säljare)
-> Yes 👍
-

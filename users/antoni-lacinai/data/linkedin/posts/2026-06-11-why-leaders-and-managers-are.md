@@ -8,9 +8,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D10AQG09gzejoUC9g/CeJxzMn
 ---
 
 Why leaders and managers are the biggest catalyst for employee engagement
-
-## Comments (1)
-
-### Freddie Guilmard (Keynote Speaker, Business Simplifier & Academic Implementor | Creator of HOP-iT™ | Helping leaders build cultures where people & performance thrive | Book me to speak👇)
-> The single biggest driver of how someone feels about their job is the person they report to
-

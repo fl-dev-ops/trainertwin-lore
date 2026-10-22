@@ -29,20 +29,3 @@ Crăciun fericit
 Frohe Weihnachten
 
 :*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.
-
-## Comments (4)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Feliz navidad Daniele Ponzo 🎅😄
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Merry Christmas (and also Buon Natale) Daniele 🎄💫
-
-### Gabriel Ebah (Data Engineer/IT Developer at Nordea, Power BI Data Analyst (Microsoft Certified))
-> Here in Finland, we say ”Hyvää joulua”!
-> 
-> Hyvää joulua  Daniele.
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Merry Christmas Daniele Ponzo!. Wishing you good health, happiness and success for 2024!
-

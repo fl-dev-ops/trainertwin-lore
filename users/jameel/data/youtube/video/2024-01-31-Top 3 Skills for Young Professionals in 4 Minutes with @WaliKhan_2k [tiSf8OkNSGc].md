@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Top 3 Skills for Young Professionals in 4 Minutes with @WaliKhan_2k
-
-
-## Transcript
-
 speaker_1: I am lets say a 22 year old fresh graduate right now What are the two or three skills I need to build in order to manage my personal finances better
 
 speaker_2: yeah so uh the first and foremost is the trace and track so that that is the utmost important thing regardless of whatever income you have you must have the trace and track system in place and that is very uh easy as well ive made several videos about this specific thing because i have seen if you if you have the habit of spending more until you dont recognize that it will not improve automatically you have to see over over the long period of time lets say six months give yourself a six months period and see where your expenses are

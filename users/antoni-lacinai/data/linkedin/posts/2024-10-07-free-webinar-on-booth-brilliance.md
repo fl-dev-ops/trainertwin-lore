@@ -27,7 +27,3 @@ October 11. 2 times to accommodate all time zones.
 Welcome.
 
 https://lnkd.in/deY5UnGV
-
-### Shared Article: [Webinar on Booth Brilliance - Antoni Lacinai](https://www.antonilacinai.com/webinar-on-booth-brilliance/)
-> antonilacinai.com
-

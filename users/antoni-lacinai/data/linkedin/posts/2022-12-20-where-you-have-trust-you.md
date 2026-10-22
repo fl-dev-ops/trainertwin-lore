@@ -26,20 +26,3 @@ Thanks for reading my mind.
 Antoni Lacinai 
 
 #communication #engagement #leadership #psychologicalsafety #keynote
-
-## Comments (4)
-
-### Mats Lewan (Responsible E-mobility at Power Circle AB)
-> I believe trust will be one of the most important assets for businesses, teams, and individuals in a world where automated AI systems are capable of producing large quantities of content in all forms that can be communicated and spread globally. All this content is of high quality and convincing at first glance, but can contain anything that the sender tells the AI to produce, lies and disinformation as well as facts and truth. 
-> 
-> Trust will be our only way to navigate.
-
-### Eliot Freed (Live Marketing - Digital Events and Experiences at Ericsson)
-> Completely agree. Increased trust leads to more open communication which leads to more engagement. Much of this is true in parenting as well.
-
-### Mia Liljeberg (AI for speakers and experts | Grow your business with smarter workflows and your own voice | DM “BRAIN” for getting info about the next Brain building)
-> Research regarding group development show the same thing. Mature ER teams save more lives than immature teams. Mature teacher teams get students with grades/higher grades. Boils down to the type of communication that happens within mature team that trust each other and share information.
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Antoni! Just spot on in every thing you described and shared own experience. I see this many times during my career as an leader and also I stept into the wrong path myself. But fortunately I listened to coaches and also took in lessons that I heard and read. I believe that many leaders around need to take  helicopter view of themselves more often and take a pause to reflect on their behaviour and how they act.
-

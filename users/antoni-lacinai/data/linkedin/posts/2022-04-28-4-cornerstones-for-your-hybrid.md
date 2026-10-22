@@ -23,13 +23,3 @@ As a summary:
 What is your best advice?
 
 #hybridleadership #communication #Hybridmeetings
-
-### Shared Article: [Fyra hörnstenar för dina hybridmöten - Tips - HRnytt](https://buff.ly/3xJC3V4)
-> buff.ly
-
-
-## Comments (1)
-
-### Hanna Gerdes (Human rights lawyer• Senior advisor • Speaker • Moderator • Winner Diversity Index Awards • Nominated Speaker of the Year • Finalist Raoul Wallenberg Award 2024 & Leader of the Year 2026 • Chair Civil Rights Defenders)
-> Jag får panik fortfarande av hybrida event. Ska läsa och hoppas få pepp 😂
-

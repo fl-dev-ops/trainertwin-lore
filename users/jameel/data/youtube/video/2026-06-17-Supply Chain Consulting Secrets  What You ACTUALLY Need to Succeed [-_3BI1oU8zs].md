@@ -14,12 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Supply Chain Consulting Secrets: What You ACTUALLY Need to Succeed
-
-
-## Transcript
-
 speaker_1: the way corporate works no longer do you have the luxury of having the tunnel vision of Im in supply chain because when you are an entrepreneur you are doing commercials youre doing your marketing youre doing your distribution youre doing your financials you have to take all of that into account and once you step away from entrepreneurship then going back to corporate in that sense kind of is also a challenge by the way because you know you want to go in a road because you have tasted
 
 

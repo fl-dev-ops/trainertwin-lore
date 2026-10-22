@@ -7,9 +7,3 @@ comments: 1
 ---
 
 This will be fun!
-
-## Comments (1)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Stiligt!
-

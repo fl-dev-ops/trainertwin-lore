@@ -12,7 +12,3 @@ article:
 
 This is a topic about which I feel more needs to be written and discussed. A lot of people including myself accidentally came into the supply chain world, loved it and stayed. However for someone starting or in their early career stages they can be much more intentional on how they can manuever their career. 
 #supplychaincareers #supplychain #careerpaths
-
-### Shared Article: [Supply Chain Career Paths: A Roadmap to Success](https://www.linkedin.com/pulse/supply-chain-career-paths-roadmap-success-jameel-hye-ctadc?trackingId=z0gMofFL4eMG3PAsEVFnaQ%3D%3D)
-> Jameel Hye
-

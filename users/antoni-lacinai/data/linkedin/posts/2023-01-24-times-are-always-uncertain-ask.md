@@ -29,33 +29,3 @@ In short:
 What would you add to the list? 
 
 #leadership #communication #engagement
-
-### Shared Article: [Det är ALLTID osäkra tider - Ledarskap - HRnytt](https://buff.ly/3XviVEm)
-> buff.ly
-
-
-## Comments (7)
-
-### Pelle Leek (Delighted to help you enhancing your product by adding global connectivity!)
-> 6. Live also today, not only for tomorrow. (Don't (just) worry; be happy!)
-
-### Zivile Zilione (Sales Leader driving transformation through action- not just strategy. I empower teams, challenge the status quo, and with the right autonomy, turn vision into measurable performance.)
-> The deepest sin against the human mind is to believe things without evidence. Be rational!
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Great share as always Antoni, thank you!
-> I would add "Communicate and Listen" to your list.  If we listen to others, we will communicate better
-
-### Chantelle Botha (The Choice Catalyst | International Keynote Speaker & Executive Coach | Conscious choice for life and leadership that feels as good as it looks)
-> Love that you are highlighting this Antoni! We are increasingly looking for certainty in a world that guarantees nothing but change. It is so important that we learn to deal with and embrace change as opposed to resisting it.
-> Great list by the way 😉
-
-### Jesper Ek (Transformerar chefer till energiskapande ledare | 180+ klienter | Ingenting börjar med resultat, allting börjar med människor | Skapare av EMPLAYMENT-metoden | Hjälper ledare bygga team-energi som driver resultat |)
-> Kloka tankar Antoni Lacinai
-
-### Rubina Qureshi (User driven change, Product Manager)
-> Thanks for sharing, Antoni! Very good points as usual. I would add ”focus on the things that lay in your power to change for the better”
-
-### Cecilia Hakeberg (Organisations- och varumärkesstrateg 💭)
-> ”Kommunikation, motivation och prestation hänger ihop. I goda tider och i dåliga.” Kloka ord Antoni, som alltid. Tack för att du så frikostigt delar med dig! 🙌🏼
-

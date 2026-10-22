@@ -21,6 +21,3 @@ And people cannot act on what they don't remember.
 For your convenience, here are five ways to make your messages stick.
 
 What sticks in your mind?
-
-### Shared Document: [5 memory hacks]()
-

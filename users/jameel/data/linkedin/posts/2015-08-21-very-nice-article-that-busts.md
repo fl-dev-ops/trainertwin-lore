@@ -11,7 +11,3 @@ article:
 ---
 
 Very nice article that busts some of the popular myths about online learning....
-
-### Shared Article: [Myths and Realities of Online Training](https://www.td.org/Publications/Newsletters/Links/2015/08/Myths-and-Realities-of-Online-Training?utm_source=linkedin&utm_medium=social&utm_campaign=astd_social)
-> td.org
-

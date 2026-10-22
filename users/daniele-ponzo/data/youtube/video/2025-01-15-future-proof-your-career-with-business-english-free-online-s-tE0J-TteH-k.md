@@ -23,9 +23,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Future-Proof Your Career with Business English | FREE Online Summit #globalskills #english #business
-
-## Transcript
-
 speaker_1: Meetings presentations negotiations interviews Do they give you the shivers Then you need to speak to lead Yes so join me for this free seven day online summit where you learn everything you need to communicate with clarity and build confidence in an international environment 17th of January Register through the link below Ill see you there and dont miss this opportunity

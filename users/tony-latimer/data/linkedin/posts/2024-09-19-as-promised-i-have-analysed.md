@@ -4,6 +4,8 @@ date: '2024-09-19T08:02:15.698Z'
 url: https://www.linkedin.com/posts/tonylatimer_new-research-paper-just-published-the-coachbots-activity-7242442859130355715-MKZ6
 likes: 20
 comments: 4
+author_comments:
+- Try profitableleadership.com/firststeps
 ---
 
 As promised I have analysed the academic paper about the coming of the Daleks; and the conclusion, translated into simple english, is . . .
@@ -51,19 +53,3 @@ And some of us can teach you how to do that.
 Try https://lnkd.in/dv_YdVBE to see what it is like
 
 #coachtraining #coaching International Coaching Federation EMCC Global
-
-## Comments (3)
-
-### Alexandra Lamb (Coaching for Transformation | Principal Consultant at Bendelta, leading BOLDLY and go-to-market for momentLeader, our AI coach | Interested in all-things coaching and organisational development)
-> Really nicely summed up - thank you
-
-### Debashish G. (Chief Analyst | Analyst Layer | Evaluation & Enterprise Research | Market and Talent Intelligence for Technology CMOs for Sales ready accounts)
-> This is a fascinating perspective on the future of coaching, Tony! It's understandable that coaches feel threatened by AI, but as you rightly point out, burying our heads in the sand isn't the solution. 
-> 
-> Your distinction between AI as a supportive tool vs. a replacement for human coaches is crucial.  Those who can coach at the "quantum" level, tapping into energy and unspoken cues, will remain invaluable.  
-> 
-> The evolution of AI in coaching is inevitable. The question is, how will we adapt and leverage its strengths while honing our uniquely human capabilities?  🙌 #coaching #AI
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Try profitableleadership.com/firststeps
-

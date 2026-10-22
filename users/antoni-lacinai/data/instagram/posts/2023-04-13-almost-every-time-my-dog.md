@@ -7,17 +7,4 @@ likes: -1
 comments: 1
 ---
 
-## Caption
 Almost every time my dog takes me out for a walk, I pass this tree and think: “Why so grumpy”…
-
-## Image Text
-
-> Alt text: Photo by Antoni Lacinai on April 13, 2023.
-
-No readable text, headlines, numbers, or bullet points were detected in the image.
-
-## Comments (1)
-
-### @mlacinai
-> Natur o lite fantasi 😂
-

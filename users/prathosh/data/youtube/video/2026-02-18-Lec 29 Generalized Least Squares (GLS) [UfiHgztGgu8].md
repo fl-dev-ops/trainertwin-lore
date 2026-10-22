@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 29 Generalized Least Squares (GLS)
-
-## Transcript
-
 speaker_1: Welcome back In the case of generalized
 linear models here is the idea Now in
 the knife linear model we assume that

@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How to Use ChatGPT to Build a Supply Chain Inventory Optimizer (Excel + Power Query)
-
-
-## Transcript
-
 speaker_1: Warning if you are not into supply chain planning and do not like working with numbers and spreadsheets then this podcast will feel very boring to you But if you like these things especially spreadsheets for planning then there will be some great Chad GPT tips for you with Ariel Life example
 
 speaker_2: is able to account for inventory moving from one location to another location and from that location to another like the whole movement of inventory and it keeps track of all of that and makes sure that all the so it does

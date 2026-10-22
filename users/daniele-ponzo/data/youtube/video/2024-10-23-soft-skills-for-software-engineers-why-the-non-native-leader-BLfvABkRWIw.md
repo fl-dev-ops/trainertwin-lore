@@ -39,11 +39,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Soft Skills for Software Engineers. Why? | The Non-Native Leader | Episode 19
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to another episode of the Non Native Leader my video podcast series where I chat to people who are not born in English speaking country and they are now enjoying an international career Being it in IT Fintech uh NGOs music art you know I love talking to people and I love talking to people from different backgrounds Um today I have with me Darius Sadovski Hes a an engineer a leader a manager Hes a lot of things and Im sure hes going to share with us some interesting details of his career maybe his private life I dont know but its up to him you know Im not going to force him Darius very welcome here with me Im really glad to have you here Um yeah so tell us where are you First of all thats the first question Where are you at the moment
 
 speaker_2: Uh hey thank you so much for having me here Uh Im in London for last 10 years originally coming from Poland and spending tiny bit of time half a year in Netherlands before that Okay I was a contractor

@@ -15,12 +15,3 @@ I am offering six 45-minute coaching sessions, one to one, in return for a minim
 The booking website is now ⭐️ live⭐️ - it’s first come first serve! 
 Visit https://lnkd.in/dirW3VCM
  and type my name in the search bar to book with me.
-
-## Comments (2)
-
-### Lyssa deHart, LICSW, MCC, BCC (Creator of the Credentialing Lab ICF Exam PREP | Host of the Coaching Studio Podcast | Author | Speaker | Leadership Coach/Trainer | ICF Mentor Coach | ASK ABOUT THE SCIENCE OF COACHING WITH METAPHORS)
-> This is so cool Tony! What a great idea.
-
-### Lora M. (Executive Coach for Lawyers and Business Leaders Around the World / Professional Supervision and ICF Mentor Coaching / Systemic and Constellations Practitioner / Former International Lawyer / Author)
-> I just booked! Looking forward to meeting you, making progress toward a professional goal, and supporting women in business as well!
-

@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# She Made 1 650 000 her Own Commision - Full story of 1 year Coaching
-
-## Transcript
-
 speaker_1: 1600000
 
 speaker_2: 600000 from your own commission

@@ -17,7 +17,3 @@ Here is the pre-print of our work (with  Subhodip Panda)    on Machine Unlearnin
 https://lnkd.in/gc-ZmnK2
 
 This may be of interest to some of you.
-
-### Shared Article: [2403.16246.pdf](https://arxiv.org/pdf/2403.16246.pdf)
-> arxiv.org
-

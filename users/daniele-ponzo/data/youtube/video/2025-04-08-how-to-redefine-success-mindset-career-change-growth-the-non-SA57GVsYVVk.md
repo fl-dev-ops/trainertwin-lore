@@ -43,11 +43,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Redefine Success | Mindset, Career Change & Growth | The Non Native Leader | Episode 25
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to another episode of the non native leader my video podcast series about well non native speakers of English And Im Daniele Im the host And if you follow this series youve seen weve been talking to leaders in NGOs leader in Fintech IT uh artists and people from different backgrounds who all have one thing in common They were not born in an English speaking country Im happy today to have here with me Giannis Chatzidis from Sunny Greece Well it is sunny today thats what he told me anyway Giannis youre very welcome here with me
 
 speaker_2: Yeah its my pleasure Thank you Thank you so much for the invitation Daniele Its my pleasure And uh yeah looking forward to it

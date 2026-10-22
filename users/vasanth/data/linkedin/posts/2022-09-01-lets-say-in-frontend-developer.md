@@ -15,6 +15,3 @@ I have tried explaining BigInt very much in detail in my Youtube video. Link to 
 In case if you have not followed me, you can do it here, I will help you to clear your frontEnd developer interview : Vasanth Bhat
 
 #frontenddeveloper #interview #coding #maang #faang #reactjs #javascript #uncommonGeeks #vasanthBhat
-
-### Shared Document: [BigIntInJS]()
-

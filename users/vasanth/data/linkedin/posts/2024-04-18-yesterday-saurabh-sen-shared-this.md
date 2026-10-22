@@ -21,7 +21,3 @@ FYI:  If you want to be part of 3100+ members frontend developer Telegram Messen
 Follow me and I will help you find your dream job: Vasanth Bhat
 
 #reactjs #hooks #frontend #web #development
-
-### Shared Article: [useHooks – The React Hooks Library](https://usehooks.com/)
-> usehooks.com
-

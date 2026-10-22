@@ -23,18 +23,3 @@ If somebody persists, try this:
 #keynotespeaker #communication #motivation
 
 Let’s make our time here on earth count.
-
-## Comments (4)
-
-### Emma Järund (Hjälper bygg- och fastighetsbolag att skapa hållbara affärsmodeller som driver lönsamhet och långsiktig framgång.)
-> allting ja, alltid nej
-
-### Sara Kerrigan (Project Management Professional for Oracle Food & Beverage - Certificate Associate PM - Level 2 Oracle PMP - Cross-collaborative leader in the industry, implementing POS systems in venues worldwide.)
-> Great topic of choice!
-
-### Linnea Etzler, PhD (Learning Engagement Manager | ICF Coach | Facilitator | PMI PMP)
-> I so agree with the last point “Be interested, not interesting”
-
-### Jenny Theolin (I design experiences in learning, leadership and art that change how people think, work and see the world. Entrepreneur, Learning Leader. Experience Designer. Facilitator. Curator. Author. Artist.)
-> Jag älskar Dethra U. Giles modell just för detta — D.A.R.E. Lyssna på hennes TEDx om den: https://youtu.be/RnNk3qXxuv8?si=IxFg-3VLhSRK43EH
-

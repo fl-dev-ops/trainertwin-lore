@@ -5,6 +5,26 @@ url: https://www.linkedin.com/posts/daniele-ponzo_most-english-training-fails-he
 likes: 41
 comments: 23
 images_count: 1
+author_comments:
+- '📌 "You need to work with him": What successful corporate training looks like: https://www.linkedin.com/posts/daniele-ponzo_when-the-person-in-charge-of-the-training-activity-7331555077947576320-p00G'
+- |-
+  🤔 This reminds me of a time management course I had to take back in my corporate years.
+
+  It was… rough.
+  Totally out of context.
+  Slides full of theory.
+  Examples that didn’t apply to our jobs at all.
+
+  I still remember a colleague whispering, “This is supposed to help us save time… but it feels like we’re wasting it.”
+
+  We all laughed,because it was true.
+  We weren’t learning. We were just enduring it.
+  That stuck with me.
+
+  Now that I design training, I obsess over one question:
+  “Will this feel useful in their world?”
+  Because when it does, people lean in.
+  And that’s when real learning starts.
 ---
 
 Most English training fails. Here’s why.
@@ -59,75 +79,3 @@ It’s the format.
 Send me a message if you would like to explore a different Business English training experience for your company.
 
 P.S. Have you ever organized (or been involved in) corporate training? How was your experience?
-
-## Comments (12)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 "You need to work with him": What successful corporate training looks like: https://www.linkedin.com/posts/daniele-ponzo_when-the-person-in-charge-of-the-training-activity-7331555077947576320-p00G
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> This hits the nail on the head! Practical, relevant, and confidence-building English training is what truly makes a difference. Daniele Ponzo
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Daniele Ponzo Training didn't stick because it never helped in the way it needed to. Many professionals learn English but they need to ask if what they're learning is actually helping and making a difference.
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele it's not only that the training may be irrelevant, but most companies think that ONE training session is enough, but not really, right?
-> 
-> We know that if anything can be learned, then we have to repeat it a few times. Eventually it sticks, but without repetition, a single training session is just a band aid...
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> It's the same with most training programs. Generalized and optimize to be scaled to sell well. People these days need to learn a simple fact:
-> 
-> - Coaching
-> - Mentoring
-> - Self-Challenges
-> 
-> are important aspects to actually accelerate growth. Learning everything yourself or quietly in courses helps, but it doesn't change the game in the short term.
-> You need to challenge yourself and have someone to commit to.
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> 100% agree
-
-### Aline Bertrand 🗣️🇬🇧 (Tu n’apprends plus l’anglais. Tu le parles, sans stress.)
-> Well said and such a great approach. 
-> 
-> I recently had a really interesting conversation with a French professional  whose company hired a training agency to provide Business English lessons for the whole team. 
-> 
-> Almost a year later, he still doesn't feel confident speaking or writing! 
-> 
-> After asking him lots of questions, it turns out it's exactly what you mentioned - no structure, no clear goals, and no real interaction or practice between team members - just lessons without real communication. 
-> So needless to say I completely agree with you, Daniele!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Practicality is important
-
-### Sarah Gruneisen 🐉 (Principal Consultant in Transformation: AI for Leaders and Products • Scaling engineering leaders, teams, and sustainable impact with AI • Leadership • Human-Centered Transformation)
-> Omg!  I’d have to say this about almost any language course !!! It needs to be relevant and usable to shift from the abstract to using!
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Spot on. Real progress comes from real-world practice, not textbook drills. Tailored, practical training makes all the difference, especially in high-stakes communication.
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Great points Daniele Ponzo , all of these kind of skills needed in the EU funded project meetings I take part in. I am always in awe of colleagues for whom English is not a first language.
-> On a tangent, is the the gasworks in Dublin?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🤔 This reminds me of a time management course I had to take back in my corporate years.
-> 
-> It was… rough.
-> Totally out of context.
-> Slides full of theory.
-> Examples that didn’t apply to our jobs at all.
-> 
-> I still remember a colleague whispering, “This is supposed to help us save time… but it feels like we’re wasting it.”
-> 
-> We all laughed,because it was true.
-> We weren’t learning. We were just enduring it.
-> That stuck with me.
-> 
-> Now that I design training, I obsess over one question:
-> “Will this feel useful in their world?”
-> Because when it does, people lean in.
-> And that’s when real learning starts.
-

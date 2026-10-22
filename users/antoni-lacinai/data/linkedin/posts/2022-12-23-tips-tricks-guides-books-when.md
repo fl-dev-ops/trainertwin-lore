@@ -13,16 +13,3 @@ article:
 Tips, tricks, guides, books. when you present, run workshops, or  lead people or meetings, For your convenience. See it as a x-mas gift if you want. 
 
 Merry Christmas ^_^
-
-### Shared Article: [Downloadable material - Antoni Lacinai](https://buff.ly/3ES03r1)
-> antonilacinai.com
-
-
-## Comments (2)
-
-### Cosette M. (Chef statlig myndighet)
-> Fantastic ✨
-
-### Ayeray Medina, Ph.D📍 (Clinical Psychologist | Söker PTP-tjänst Researcher in Political Philosophy & Human Rights | Public Policy | International Speaker📍)
-> God Jul!!🎄⭐️
-

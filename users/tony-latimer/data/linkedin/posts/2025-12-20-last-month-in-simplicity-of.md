@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_last-month-in-simplicity-of-mast
 likes: 22
 comments: 3
 images_count: 1
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 Last month in Simplicity of Mastery we did something that even seasoned MCCs rarely experience. We coached in total silence. No models, no questions, no talking tricks. Just clean energetic connection. Five coaches, eyes closed, fully empty minded, focusing their intention on one colleague who was sitting with a real dilemma.
@@ -32,13 +34,3 @@ Mastery is not louder.
 It is quieter.
 Come experience the difference.
 International Coaching Federation ICF Singapore
-
-## Comments (2)
-
-### Anna Bouw (Trilingual Certified Coach (ICF, ACC) Culture, Wellbeing & Creative Community Work | Accessibility Advocate | PN1 | 200YTT | ICF CO Membership Director | CEO at THINKBO LLC | Host at CreativeMornings Boulder)
-> Dear Tony, I think you you‘ll love this book https://www.amazon.com/Golden-Power-Silence-World-Noise/dp/0063027607
-> Happy Holidays 🎄
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

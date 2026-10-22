@@ -21,7 +21,3 @@ In supervised learning, we often combine multiple loss functions with relative w
 Thanks to tireless students Durga and Ayush, my wonderful collaborators Ganesh Ramakrishnan (IITB) and Pradeep Shenoy (Google Research India). 
 
  #ai #research #iisc #deeplearning #publications #aaai23
-
-### Shared Article: [Reweighing auxiliary losses in supervised learning](https://arxiv.org/abs/2202.03250)
-> arxiv.org
-

@@ -18,15 +18,3 @@ Kommer vi att gå tillbaka? Jag hoppas att vi går framåt!
 ^_^
 
 #hybridledarskap #kommunikation #engagemang
-
-## Comments (3)
-
-### Johan Sandstedt (Identify, strengths, values and needs - Untap hidden potential and fill the Gaps!)
-> "Kommer vi gå tillbaka? Jag hoppas att vi går framåt!" 🤩Tokbra 👌
-
-### Stefan Cardell (Senior Account Manager på MySpeaker Sweden)
-> Kul! Ska försöka titta!
-
-### krister svensson (Säljare & utbildare på FinxS Sverige | Ledarskap & prestation | Individuella samtal inom terapi och coaching | Hjälper dig att fatta tryggare beslut, sätta tydligare gränser och nå genuina resultat.)
-> Härligt. Ska bli kul att se. Lycka till
-

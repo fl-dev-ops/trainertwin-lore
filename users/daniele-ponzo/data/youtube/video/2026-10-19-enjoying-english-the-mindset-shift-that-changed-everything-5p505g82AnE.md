@@ -35,11 +35,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Enjoying English: The Mindset Shift That Changed Everything
-
-## Transcript
-
 speaker_1: and I want to say that uh when I uh switched from you must uh to you enjoy uh that it made a big big difference really Uh I know that right now I did still did some mistakes I uh pronounce some words I uh maybe I uh not so good with articles I I can talk and I can understand The main point that I can understand people and everybody can understand me Its great Its a great feeling of freedom you know
 
 speaker_2: Its empowering isnt it I mean there is no learning without fun

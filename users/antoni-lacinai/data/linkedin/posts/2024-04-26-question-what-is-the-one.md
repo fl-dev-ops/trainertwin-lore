@@ -33,9 +33,3 @@ Empathy is the new black!
 
 
 PS - Which one of the 6 tips is your favorite? 1-6
-
-## Comments (1)
-
-### Björn Söderberg (CEO and Partner in Salvator Mundi Global and Salvator Mundi Times)
-> Thanks for sharing Antoni - hard to choose one ☝️- if necessary I would pick No 6 🎯
-

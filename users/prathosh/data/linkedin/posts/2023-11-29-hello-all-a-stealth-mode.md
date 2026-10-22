@@ -28,7 +28,3 @@ https://lnkd.in/g9nqmt-z
 Prathosh. 
 
 PS: This is NOT a research assistant position in my academic lab but demands full-fledged industry-grade engineering skills. Therefore, if you are looking to work with me for publications/LoRs, this isn't for you. There are other such positions for research work.
-
-### Shared Article: [Formularios de Google: inicio de sesión](https://forms.gle/cgn2RKH2CKUsGvNP9)
-> forms.gle
-

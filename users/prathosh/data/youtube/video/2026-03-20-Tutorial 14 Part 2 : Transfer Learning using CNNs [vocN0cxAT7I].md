@@ -1,6 +1,6 @@
 ---
 id: vocN0cxAT7I
-title: Tutorial 14 Part 2 : Transfer Learning using CNNs
+title: "Tutorial 14 Part 2 : Transfer Learning using CNNs"
 url: https://www.youtube.com/watch?v=vocN0cxAT7I
 date: '2026-03-20'
 duration: 28:49
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 14 Part 2 : Transfer Learning using CNNs
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorials
 in which well be continuing our

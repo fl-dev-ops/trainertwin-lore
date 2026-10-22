@@ -14,9 +14,3 @@ Spotify: https://buff.ly/32yOaDE
 Or watch it on YouTube: https://buff.ly/3VRTPB9 
 --
 #CoachEM #CoachingPodcast #MasterCoach #QuantumCoaching #AIInCoaching #DeepListening #TransformativeCoaching #ICF #MCC
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought)
-> That was a fun conversation Emma Doyle
-

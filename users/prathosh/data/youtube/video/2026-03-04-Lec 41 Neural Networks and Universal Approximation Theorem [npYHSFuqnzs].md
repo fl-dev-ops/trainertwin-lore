@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 41 Neural Networks and Universal Approximation Theorem
-
-## Transcript
-
 speaker_1: Okay welcome everyone We will continue
 our discussions uh in this course
 looking at different kinds of

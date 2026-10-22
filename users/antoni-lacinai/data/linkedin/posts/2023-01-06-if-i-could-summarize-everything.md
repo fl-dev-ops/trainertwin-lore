@@ -12,9 +12,3 @@ If I could summarize everything I have learned about leadership, communication, 
 I guess that is the best one-word definition of leadership I can think of. 
 
 #leadership #communication #keynote
-
-## Comments (1)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Love this Antoni, definitely an easy word to remember too 👌
-

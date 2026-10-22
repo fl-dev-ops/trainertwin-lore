@@ -23,11 +23,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why German Decision-Making Feels Slow (But Isnt) #shorts
-
-## Transcript
-
 speaker_1: confronts difficulties
 
 speaker_2: Sure

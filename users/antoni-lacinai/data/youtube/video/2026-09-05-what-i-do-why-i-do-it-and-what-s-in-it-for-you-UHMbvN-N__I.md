@@ -13,9 +13,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# What I do, why I do it, and what's in it for you
-
-## Transcript
-
 speaker_1: Hi my name is Anthony Lacina and I help people lead sell and cooperate by increasing their communication skills I believe that communication between people is like electricity in a modern society Without it we die But if we excel at it we become more engaged and we help other people to become more engaged and that leads to better results So basically communication good communication leads to good results So the question is how good results do you want in your company Hire me as a speaker as a moderator or as a communication skills trainer Just get in touch with me and we can talk more

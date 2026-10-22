@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Coaching a breakthrough corporate decision.
-
-## Transcript
-
 speaker_1: This audio recording is copyright October 2021 of Moore Master Coaching All rights are reserved and it is provided for authorized use only It is not for public distribution exhibition or sale
 
 speaker_2: Okay Hello everyone and welcome to the monthly teleclass series Insights and Revelations Inside the World of Master Coaching Im Gail Moore the host and if youre joining us today for the first time a special welcome to you Thank you Thank you for being here Its going to be a full call with our guest master coach Tony Latimer First he will be coaching Ellie who I want to welcome to the call and let you all know that she is not in the coaching profession She has had some coaching in the past but this is the first time that she and Tony have ever met The coaching session will run approximately 30 minutes After that we will begin the debriefing and Q A and then before the top of the hour Ill give out the CEU instructions and the password After that we will then move into the bonus 30 minutes that Tony is generously giving us for additional questions as well as a discussion on coaching without a model In these live sessions we are provided with learning that the other sessions dont provide of witnessing how a master coach deals with for example an unknown client Today our gratitude is to our guest Tony Latimer and Im so excited to introduce him to you Tony has over 20 years of experience years experience working globally with leaders in transition for themselves and their organizations As a professional coach Tony leverages his extensive experience to challenge senior leaders and their teams to achieve astonishing results His approach to coaching has an emphasis on results and incorporates a deep understanding of the individuals personal context and who they are being As a leader He has strong intuition and a powerful ability to help clients identify and remove self limiting beliefs that may be holding them back Tony is a naturalized Singapore citizen of British origin His background includes 30 years in technical leadership and sales positions in Europe Scandinavia and Asia Pacific in technology and software companies But right now I want to welcome you Tony to the call Thank you for joining us all the way from Singapore

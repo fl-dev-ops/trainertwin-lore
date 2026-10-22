@@ -15,11 +15,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# The power of energy in coaching. Coaching Gary to a life changing breakthrough.
-
-## Transcript
-
 speaker_1: And we look forward to seeing you in action Thank you
 
 speaker_2: Awesome I will do my best Thank you everybody Um so good evening good morning wherever you are Um what were going to do is a 30 minute demo Um Gary is going to be the person Im coaching The only thing I know is that his name is Gary So what Im trying to give you the experience of What it is like walking in with a client from cold Now you dont want to be bored by me putting up PowerPoint slides and giving you a lecture So the way I like to do it is Im going to ask you in a moment to turn your videos off so that we can give Gary as comfortable an illusion of just being with me as we can to hold him in a safe space And after about 30 minutes well stop and then the next 45 minutes are going to be for you to ask me anything you want So question to ask yourself right now because I will answer any question youve got is if there was one thing I could discover about coaching that will transform how I work with my clients this year what is it So allow your subconscious to sort of pick that one up and and listen to see if you find an answer to that during the session When we come back itll be open mics videos on If youve got questions you want to put your hand up and speak well do it interactively If you want to put stuff in the chat then thats also fine People only learn what they believe they need to learn So rather than me deciding what I need to share with you Im going to let you decide what you need me to share with you Okay Deal All right so now were going to crack on So if you could all just um shut your videos off so that I can just connect and get Gary in and well start

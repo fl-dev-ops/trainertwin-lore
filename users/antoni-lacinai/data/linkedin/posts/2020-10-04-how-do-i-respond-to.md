@@ -15,7 +15,3 @@ How do I respond to this comment from a viewer of my TEDx about the importance o
 "If Arnold Schwarzenegger never picked up weights...."
 
 Haha, I have no response to that. Help me! ^_^
-
-### Shared Article: [TEDxVasa Antoni Lacinai - 6 communication truths that everyone should know](https://bit.ly/32iP5IY)
-> ted.com
-

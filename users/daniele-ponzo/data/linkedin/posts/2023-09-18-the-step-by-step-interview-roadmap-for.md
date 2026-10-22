@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/daniele-ponzo_jobinterviewtips-itprofessiona
 likes: 63
 comments: 8
 images_count: 1
+author_comments:
+- |-
+  📌How my client got his first international job:
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-internationalcareer-interview-activity-7112677259253026817-DoM3
+- |-
+  📌What happens when you put yourself out there?
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_english-itprofessionals-inspiration-activity-7112314921144459264-mlRE
 ---
 
 The step-by-step Interview Roadmap for IT Professionals
@@ -72,23 +79,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️Daniele
 
 #JobInterviewTips #ITProfessionals #TechJobs #CareerSuccess
-
-## Comments (5)
-
-### Fabio Sverzelati (Mechanical Engineer (Politecnico di Milano) | Global Key Accounts & International B2B Sales | Industrial Machinery, Packaging & Capital Equipment | English & Italian | Europe & Asia)
-> Daniele Ponzo, how many times I have heard those std questions at interviews. If I hear them it means that somebody has not been doing their homework
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How my client got his first international job:
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-internationalcareer-interview-activity-7112677259253026817-DoM3
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌What happens when you put yourself out there?
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_english-itprofessionals-inspiration-activity-7112314921144459264-mlRE
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Good advice, Daniele. In my view, soft skills are actually more important than hard ones nowadays. People can learn to code but it's often more difficult to learn to listen!
-
-### David Cabezas (Free yourself from fear and shame when speaking English | Professional and Personal Development for Spanish-speaking Managers | Experiential English and Neurolanguage Coaching®)
-> Nice tips Daniele Ponzo! I love the third one. I would add learning a few critical words about you (strengths, weaknesses...) that you can use throughout the whole process.  Thanks for sharing 😉
-

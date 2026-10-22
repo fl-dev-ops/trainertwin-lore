@@ -20,15 +20,3 @@ Oavsett önskar jag dig en härlig jul och gott slut på 2024.
 Vi ses nästa år
 ^_^
 //Antoni
-
-## Comments (2)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Ännu en till bra artikel. Du är en sann mästare inom ditt område. Ett föredöme för branschen. Förstår varför du lyckas. 
-> God Jul på sig vännen.
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> Egen företagare o numera även anställd….ej bortkopplad men kommer o göra vad jag kan för att koppla av. 
-> 
-> Önskar dig också härliga, fridfulla helger Antoni 🌲💚
-

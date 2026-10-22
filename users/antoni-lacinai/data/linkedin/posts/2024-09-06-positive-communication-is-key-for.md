@@ -20,16 +20,3 @@ The old idea of “why should I praise them for just doing their job?” Is no l
 How do you create a positive impact and a positive culture?
 
 Today I will have a 3-hour session with business leaders, in collaboration with The Economic Times in India, and this will be one of the many things they will get from me.
-
-## Comments (2)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Så viktig påminnelse för alla med personalansvar.
-
-### Snehil . (I do logo & brand identity design backed by psychology | 52+ Client Success Stories | Logo Designer)
-> A positive work environment is essential for employee morale and productivity.
-> 
-> 🌻
-> 
-> Antoni Lacinai
-

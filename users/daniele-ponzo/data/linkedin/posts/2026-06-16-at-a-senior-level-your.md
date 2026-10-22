@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_at-a-senior-level-your-english
 likes: 40
 comments: 8
 images_count: 1
+author_comments:
+- Thanks for reposting Theo Maximiliano Sojo 🙏
 ---
 
 At a senior level, your English is rarely judged as "English".
@@ -90,23 +92,3 @@ Quality communication doesn't just change how you sound.
 It changes how people listen.
 
 What's one communication habit you've noticed separates senior professionals from everyone else?
-
-## Comments (5)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Very true. Clear communication is often a bigger career multiplier than perfect English. People remember clarity, confidence, and good judgment, not complex vocabulary. 👏
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Theo Maximiliano Sojo 🙏
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> That ability to create clarity before complexity is what makes their communication so effective.
-
-### Eva Andersson (Senior Fellow)
-> Well said, Daniele  👏 
-> I have seen many brilliant experts lose influence not because they lacked knowledge, but because they lacked clarity. Senior communication is often about simplifying complexity without oversimplifying reality.
-> When people leave a conversation with greater clarity than they had when they entered it, leadership is already happening.
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> Clarity and precision truly influence perception and trust Daniele Ponzo transforming complex ideas into straightforward language not only enhances understanding but also elevates your professional presence. Thank you for sharing these valuable insights on effective communication!
-

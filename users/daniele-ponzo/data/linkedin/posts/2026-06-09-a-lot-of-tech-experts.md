@@ -64,19 +64,3 @@ clarity creates visibility.
 
 You can download the 𝗳𝗿𝗲𝗲 𝗲𝗯𝗼𝗼𝗸 here:
 https://lnkd.in/dwdy4Gwk
-
-## Comments (4)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Strong communication can make technical expertise much more visible. Great ideas have more impact when they’re explained clearly.
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Daniele Ponzo I always say make sure you speak up when you don't understand something so that you don't lose your wording when you least expect it.
-
-### Pranav Nair (I combine a founder’s POV with addictive storytelling to grow their personal brand and business on LinkedIn | Wanna see how it works? Your next post’s on me. Grab it in Featured ↓)
-> "It's making sure your ideas survive the pressure of the moment". I could get on with that line. Really great piece, man.
-
-### Leo Cascio (Purpose brand strategist | Personal branding specialist | ZeroChiavi™ Foiunder | Bello Dentro Milano Host | Psychology & Neuroscience enthusiast | I uncover your WHY and turn it into a BRAND! 🌻)
-> There is a typo - a missing M - on the ebook cover (you'd better fix that ASAP, dear Daniele).  It's in the post as well, but never mind! 
-> Great job and great website though! 🔝🔝🔝
-

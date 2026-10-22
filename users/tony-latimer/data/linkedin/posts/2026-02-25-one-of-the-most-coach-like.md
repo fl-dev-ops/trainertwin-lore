@@ -13,9 +13,3 @@ Not clever questions, not manipulative questions, just the right questions. The 
 
 That’s why this book is useful for coaches, it points them back to their own strength.
 Available on Amazon & Kindle
-
-## Comments (1)
-
-### Julie Benichou (C-Suite & Team Coach (ICF MCC+ACTC) • Executive Team Alignment & Performance (EMEA) | ex-Morgan Stanley & Société Générale CIB • ESCP Alumna • Mensa Member)
-> Nice Tony Latimer do you plan to release it as an audiobook (Audible for instance) someday?
-

@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# the power of NETWORKING#internationalcareer #podcast #interview #globalspeaker #growth
-
-## Transcript
-
 speaker_1: So Id say there is this fundamental point about networking which is something that I believe really helps when you want to have lets say an experience abroad or even not abroad but in an international environment So what would you say like how has networking helped you in your journey
 
 speaker_2: its been the the most important things for sure You know building a relationship is the most important thing

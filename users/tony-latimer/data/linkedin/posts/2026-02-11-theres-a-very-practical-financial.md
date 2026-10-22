@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_theres-a-very-practical-financia
 likes: 1
 comments: 1
 images_count: 1
+author_comments:
+- If you can coach; you can have a sales conversation. Same skills
 ---
 
 There’s a very practical financial point sitting underneath the story, and it’s the one you make in the introduction.
@@ -13,9 +15,3 @@ If you only take work through intermediaries, you will always be paid like an in
 
 Arthur’s story shows how those relationships start, one conversation at a time.
 Available on Amazon & Kindle
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> If you can coach; you can have a sales conversation. Same skills
-

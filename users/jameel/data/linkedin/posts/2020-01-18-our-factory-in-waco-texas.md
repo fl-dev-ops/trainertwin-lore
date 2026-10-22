@@ -11,7 +11,3 @@ article:
 ---
 
 Our factory in Waco Texas creates another record! Largest chocolate bar!
-
-### Shared Article: [World record: Waco plant creates largest chocolate bar ever](https://www.kwtx.com/content/news/GUINNESS-WORLD-RECORD-Waco-plant-creates-largest-chocolate-bar-ever-567043201.html)
-> kwtx.com
-

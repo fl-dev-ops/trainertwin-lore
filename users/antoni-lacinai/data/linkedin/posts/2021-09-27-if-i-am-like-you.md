@@ -21,7 +21,3 @@ We all need a sense of belonging, to be part of something bigger than ourselves,
 How do we expand the WE and US in order to minimize the "them"?
 
 #leadership #communication #engagement
-
-### Shared Article: [Us vs them](https://buff.ly/3sz2k3d)
-> buff.ly
-

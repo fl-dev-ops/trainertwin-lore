@@ -17,11 +17,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# Online Training Session - How To Ask Your Client About Their Budget - Part 3
-
-## Transcript
-
 speaker_1: Okay Marianne So I understand that you have 1 point 5 million to invest From the conversation we have determined that you can pay the 20 percent this year and you also understand the payment plan However you indicated that part of that money is going to come from selling your fathers farm Is that correct Yes
 
 speaker_2: Yeah thats correct Yeah

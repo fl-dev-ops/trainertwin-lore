@@ -14,7 +14,3 @@ I recently connected with the actor, writer and public speaker Adeel Hashmi to a
 #careerskills #diction
 #emotionalintelligence #speaking 
 https://lnkd.in/g9N5-7x
-
-### Shared Article: [Web Link](https://youtu.be/s6jgWwD2ZjA)
-> youtu.be
-

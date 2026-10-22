@@ -37,7 +37,3 @@ A huge thank you to everyone who supported the initial rollout, left such encour
 I would love to hear your feedback!
 
 #VedaVaaNi #AppLaunch #iOSDevelopment #Sanskrit #Vedas #EdTech #IndicKnowledge #Engineering #SoftwareDevelopment
-
-### Shared Article: [VedaVaaNi - Apps on Google Play](https://play.google.com/store/apps/details?id=com.vedic.chant)
-> play.google.com
-

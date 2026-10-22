@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Want to Make 1 Million in Dubai Real Estate?
-
-## Transcript
-
 speaker_1: The streets are laid with gold Theres money shaking from trees
 
 speaker_2: Oh do you want to give me your money You are building your business

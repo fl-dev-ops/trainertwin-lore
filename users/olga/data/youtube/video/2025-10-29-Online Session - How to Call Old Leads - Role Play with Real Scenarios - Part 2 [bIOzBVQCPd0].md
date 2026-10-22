@@ -20,11 +20,6 @@ speakers:
   speaker_8: null
 ---
 
-
-# Online Session - How to Call Old Leads - Role Play with Real Scenarios - Part 2
-
-## Transcript
-
 speaker_1: Jessica do you want to be an agent I feel like you want to be an agent
 
 speaker_2: I I said that

@@ -20,9 +20,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Feedback That Changed Everything
-
-## Transcript
-
 speaker_1: So I think a big turning point was at work You know I remember you know at that time I was really busy like answering emails all the time like very quickly and I remember once now going back to the judgmental thing I remember like one of my manager coming back and said look your email look horrible Thats full of mistakes it doesnt make sense work on that That for me was a big was a big uh turning point right So um that I was I was sending email but without really worrying of okay it does my email make sense Is is grammatically correct

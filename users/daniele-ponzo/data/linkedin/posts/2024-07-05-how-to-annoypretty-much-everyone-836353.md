@@ -4,6 +4,9 @@ date: '2024-07-05T06:30:01.546Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_how-to-annoypretty-much-everyone-graphic-activity-7214878169428836353-ht8F
 likes: 10
 comments: 10
+author_comments:
+- 'So, just to let you know, the one I heard myself was: "I don''t know anything about this job, my dad sends CVs for me". Someone in HR told me this story a while ago.'
+- 'How to annoy someone who posts on LinkedIn: "I read your post, but I don''t comment" 😜'
 ---
 
 How to annoy…pretty much everyone.
@@ -51,30 +54,3 @@ Artist: “My 2-year-old son could do the same”
 👉 Feel free to continue annoying people in the comments 👇 . 
 
 P.S. only one is a literal phrase I’ve heard. Can you guess which one?
-
-## Comments (6)
-
-### Andre Salles (CELTA Qualified Private Teacher|Business English|General English|Interactive Activities for English Teachers)
-> Photographer: Great photo! What's your camera?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> So, just to let you know, the one I heard myself was: "I don't know anything about this job, my dad sends CVs for me". Someone in HR told me this story a while ago.
-
-### Elisa Flora Bezze (comunicazione aziendale e backoffice presso I.M.S.A. srl)
-> I'm quite sure I'll guess the one you really heard - I heard it 😫 “Please hold the line, your call is very important for us” 😒
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> How to annoy someone who posts on LinkedIn: "I read your post, but I don't comment" 😜
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo I have to share this gem
-> After listening to a ‘great’ client about his needs, I told him about the benefits and services I could offer.
-> "You don't have a price list for everything you do?" he asked.😳
-> 
-> I felt like a shopkeeper being asked for a price list of goods .He was a sales rep, so I get it, he's all about price lists. 
-> And this was all in Italian, mind you! Then he finishes with, "Anyway, my English is fine, I get by “ This was after 45 minutes of talking.
-> Some people really do think with their own heads. 😄
-
-### David Barrow, CITP FBCS (Defining Service Management Standards & Frameworks which work in the real world | Chair, BSI IST/60/2 (ISO/IEC 20000) | Director of Consulting, The ITSM People | Founder, Sol Seven Studio | Author | Speaker | Ultrarunner)
-> Photographer: Please can you take photos at our wedding/christening / social event (delete as appropriate)? We won't pay you, but it'll be great for your portfolio.
-

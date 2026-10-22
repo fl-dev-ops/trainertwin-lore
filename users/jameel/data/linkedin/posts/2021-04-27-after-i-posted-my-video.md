@@ -12,7 +12,3 @@ article:
 
 After I posted my video called "How to Interview Like a Star", I was approached by some of my subscribers to post something related to CV writing. In this video I have covered the common mistakes done in CV writing which can be easily avoided!
 https://lnkd.in/grYEMst
-
-### Shared Article: [Do's & Don'ts of CV Writing](https://www.youtube.com/watch?v=Dstsej4drDE)
-> youtube.com
-

@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# ANTONI LACINAI Speaker reel
-
-## Transcript
-
 speaker_1: For the last 25 years Ive been studying the success factors of analog communication in an ever more digital world You have the power to make people feel the way you want them to feel
 
 speaker_2: I bought every single thing he put on that stage Hes very authentic

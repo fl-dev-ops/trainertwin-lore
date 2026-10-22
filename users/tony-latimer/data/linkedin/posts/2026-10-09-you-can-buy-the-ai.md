@@ -42,7 +42,3 @@ https://lnkd.in/grMn8d3d
 If you're in financial services in Singapore, where is your organisation on this right now?
 (Source: The Business Times, 8 October 2026)
 #AI #Leadership #OrganisationDesign #Singapore #FinancialServices
-
-### Shared Article: [AI Org Redesign: What Boards, CEOs and HR Must Decide](https://www.profitableleadership.com/blog/ai-org-redesign-what-the-board-the-ceo-and-the-hr-director-must-decide-before-ai-agents-arrive)
-> profitableleadership.com
-

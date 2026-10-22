@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 63 NCE - Noise Contrastive Estimation
-
-## Transcript
-
 speaker_1: Welcome to this lecture So we were
 looking at uh unsupervised
 learning methods where the idea is to uh

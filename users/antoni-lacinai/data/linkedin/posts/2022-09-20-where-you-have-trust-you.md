@@ -32,7 +32,3 @@ Thanks for reading my mind.
 Antoni Lacinai, currently in Croatia, soon to deliver an opening keynote on HR days. 
 
 #HRdays #leadership #engagement #communication
-
-### Shared Article: [HR Days](https://buff.ly/3eLpT6E)
-> hrdays.net
-

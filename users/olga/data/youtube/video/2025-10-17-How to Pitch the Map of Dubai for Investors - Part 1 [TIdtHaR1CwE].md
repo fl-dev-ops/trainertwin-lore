@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Pitch the Map of Dubai for Investors - Part 1
-
-## Transcript
-
 speaker_1: So this is the map of Dubai Im going to bring you on a small virtual tour This is probably where you landed and out of what you remember youve been to Dubai 3 4 years ago 3 months ago which areas have you seen And hes telling me the areas and I am showing him these areas Yeah oh yeah Downtown Burj Khalifa youve been here You can see this is Dubai Mall Dubai Marina Okay you probably drove for Sheikh Zayed Road This is the road that has 11 lines on one side and the 11 lines on the other side Is it true or no How many lines 8 7 You can play a little game with them Oh I dont know I dont remember Oh 7 Okay so this is Dubai Marina this is Palm You probably have seen that Have you have you actually been on the Dubai Eye which is on the Bluewaters Islands the one that you can actually see everything as if almost now Have been havent been so Im playing around Then Im moving it to show him coming back to the airport This is where you landed And depending depending on what I sell lets imagine that now I have to sell let me sell GVC right You okayed me to sell GVC
 
 speaker_2: Yeah

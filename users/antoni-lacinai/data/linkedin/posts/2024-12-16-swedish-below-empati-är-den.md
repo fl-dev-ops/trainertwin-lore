@@ -15,12 +15,3 @@ Om du tycker att du är förmer än andra så ryker empatin
 Om du tycker att du ska ha den bästa parkeringen, högsta lönen, hörnkontoret, gratis uppgraderingar, dyraste tjänstebilen och så vidare, så ryker empatin
 
 Det är en fantastisk superkraft. Vårda den väl så kommer dina kollegor att boomeranga den och skapa en amazing kultur på er arbetsplats.
-
-## Comments (2)
-
-### Martin Theorin (Rådgivare Skillspartner Talarbyrå & Utbildningar/Ägare MT Meetings)
-> Du e klok du! Spot on bäste Antoni!
-
-### Johanna Donker (Senior Coach och Verksamhetsledare | Leder genom tillit, tydlighet och lagfokus | Stark i förändring och osäkerhet)
-> Jag gillar det här👌
-

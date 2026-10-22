@@ -16,9 +16,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The process of the 3 communication superpowers
-
-## Transcript
-
 speaker_1: I always speak about three communication superpowers empathy clarity energy Empathy so that you first understand you connect and so on Then clarity to craft your message and energy to deliver the message This is about non verbal communication this is about energy Being a magnet being passionate showing that you really believe in what youre saying But showing emotions is also good because if you have a heightened state of emotion you will remember more Immediately because its kind of your brains is on alert You need to kind of figure out whats going on

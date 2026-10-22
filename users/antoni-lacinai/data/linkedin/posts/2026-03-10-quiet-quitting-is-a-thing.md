@@ -20,6 +20,3 @@ Here are five uncomfortable questions you can ask yourself and your management t
 The first is my own favorite
 
 You?
-
-### Shared Document: [5 questions - quet quitting]()
-

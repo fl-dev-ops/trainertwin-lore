@@ -20,12 +20,3 @@ The highlights? Successful events include:
 And that events are a vaccine against isolation and loneliness.
 
 PS- the moderator’s name is Antonia. We must start a pod together 😃
-
-## Comments (2)
-
-### Jeremy Foster (Symply: Discovering Better Recovery)
-> maybe a bigger paint brush Antoni!!
-
-### Olivia Andsberg (Marketing Operations Manager @ Encube)
-> Thank you for being a part of this - such an inspiring session!👏🏼
-

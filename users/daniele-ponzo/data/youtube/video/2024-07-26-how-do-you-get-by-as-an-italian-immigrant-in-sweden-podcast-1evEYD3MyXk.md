@@ -28,11 +28,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How do you get by as an Italian immigrant in Sweden? #podcast #interview#swedish #english
-
-## Transcript
-
 speaker_1: Except they didnt know
 
 speaker_2: Why

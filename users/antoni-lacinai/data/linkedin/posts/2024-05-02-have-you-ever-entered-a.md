@@ -27,11 +27,3 @@ Be kind to the whole society
 Happy employees = Happy customers
 
 PS - I am curious to know if you have a sunshine story of great service or the exact opposite.
-
-## Comments (1)
-
-### Thomas Otnes (Product developer and engineer)
-> The results of the research should be expected as it's important that we warn each other of danger and it cost us nothing but instead we will gain positive influence by doing so.
-> It's also expected that fewer will share the positive results as you'd be more restrictive with sharing this information as you do not want to be prevented from being able "to pick the fruits" because you've spread the good news to far and wide.
-> It should be expected human behavior so companies should avoid the negative end as it's costly to recover from.
-

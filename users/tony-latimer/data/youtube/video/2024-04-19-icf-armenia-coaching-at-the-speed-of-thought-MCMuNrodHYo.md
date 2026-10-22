@@ -18,11 +18,6 @@ speakers:
   speaker_6: null
 ---
 
-
-# ICF Armenia - Coaching at the Speed of Thought
-
-## Transcript
-
 speaker_1: We have total 1 we have total 1 hour
 
 speaker_2: 1 hour okay

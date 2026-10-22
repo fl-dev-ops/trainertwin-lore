@@ -11,7 +11,3 @@ article:
 ---
 
 #performanceappraisal #performanceimprovement #coaching
-
-### Shared Article: [Make this year awesome for your career - part 5](https://www.linkedin.com/pulse/make-year-awesome-your-career-tony-latimer-mcc-ejy5c?trackingId=p5LCsF9xvYUstsV%2BeIDT3g%3D%3D)
-> Tony Latimer
-

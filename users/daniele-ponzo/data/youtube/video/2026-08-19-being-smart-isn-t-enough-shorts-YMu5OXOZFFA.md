@@ -27,9 +27,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Being Smart Isn't Enough #shorts
-
-## Transcript
-
 speaker_1: Have you ever had the solution in your head but someone else got created for it Its happened to me many times So I I follow a meeting I can understand what people say I can follow a presentation then I have a great idea in my mind but Im slow So someone else raises their hand they say what I wanted to say in an easy simple and effective way and guess what they take the credit for it So this is a typical situation in tech for especially with with people who are tech experts

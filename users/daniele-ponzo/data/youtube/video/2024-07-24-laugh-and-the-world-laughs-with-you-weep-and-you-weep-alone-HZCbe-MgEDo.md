@@ -28,11 +28,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Laugh, and the world laughs with you; weep, and you weep alone... #podcast #internationalcareer
-
-## Transcript
-
 speaker_1: Well you know like
 
 speaker_2: Yeah that was good yeah

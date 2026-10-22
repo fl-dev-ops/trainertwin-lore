@@ -1,6 +1,6 @@
 ---
 id: vm9FYVtM5ZA
-title: Tutorial 11 : Pytorch - Tensors and Data Loaders
+title: "Tutorial 11 : Pytorch - Tensors and Data Loaders"
 url: https://www.youtube.com/watch?v=vm9FYVtM5ZA
 date: '2026-03-12'
 duration: 45:18
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 11 : Pytorch - Tensors and Data Loaders
-
-## Transcript
 
 speaker_1: Hello all welcome to this series of
 tutorials in which we will be

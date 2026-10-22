@@ -13,12 +13,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Top FREE AI Mock Interview Tools You Must Try in 2025 🚀
-
-
-## Transcript
-
 speaker_1: Can we actually get started with a mock interview for three year experience front end developer using ReactJS So I am a two year experience front end developer I wanted to take my mock interview on ReactJS Can you spend five minutes quickly on mock interview
 
 speaker_2: What are the first three things you do

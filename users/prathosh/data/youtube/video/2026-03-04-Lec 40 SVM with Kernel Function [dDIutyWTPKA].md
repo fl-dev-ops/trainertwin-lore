@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 40 SVM with Kernel Function
-
-## Transcript
-
 speaker_1: Welcome to this class So now let lets
 finally there is one final case that we
 have to look at SVM

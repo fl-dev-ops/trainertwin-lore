@@ -20,10 +20,3 @@ According to experts, three to eleven positive interactions are required for eac
 Your power is greater than you might think. Use it wisely. Fill your life with good thoughts, words and actions. For you and for the people around you. 
 
 #leadership #communication #engagement
-
-## Comments (1)
-
-### Chantelle Botha (The Choice Catalyst | International Keynote Speaker & Executive Coach | Conscious choice for life and leadership that feels as good as it looks)
-> That statistic!!! Half your life's praise comes before age 3!! Blown away!
-> We need to praise people more!
-

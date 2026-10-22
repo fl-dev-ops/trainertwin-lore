@@ -1,6 +1,6 @@
 ---
 id: AQ3einJJrr0
-title: Tutorail 3 : Risk Minimization Framework
+title: "Tutorail 3 : Risk Minimization Framework"
 url: https://www.youtube.com/watch?v=AQ3einJJrr0
 date: '2026-01-28'
 duration: 59:52
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorail 3 : Risk Minimization Framework
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorials in
 which we shall be looking into the

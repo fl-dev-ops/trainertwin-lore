@@ -54,18 +54,3 @@ P.S. If you are a talented professional but struggling with communication in Eng
 Message me if you would like to chat.🤝
 
 #career #tech #english
-
-## Comments (4)
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It's a compelling reminder to embrace change and be prepared for unexpected opportunities.  Daniele Ponzo
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Adapting and upskilling in English can make all the difference in your career growth. Daniele Ponzo
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo This is such an important reminder! Language skills can truly be the key to unlocking new opportunities, especially in today's global marketplace. Being prepared for unexpected changes can make all the difference in advancing your career and seizing opportunities as they arise.
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> Learning takes time...and luck favours the prepared ones 😉
-

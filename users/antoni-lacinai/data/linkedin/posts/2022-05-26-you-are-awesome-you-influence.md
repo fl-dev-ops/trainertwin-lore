@@ -18,12 +18,3 @@ At work, what can you do to create a better, more fun and productive environment
 Things to ponder...
 
 #leadership #communication #engagement
-
-## Comments (2)
-
-### Dr. Jackie Freiberg (Executive Coach | Expanding Your Perspective, Elevating Your Influence & Challenging You to Lead with Courage & Curiosity | Bestselling Author & Keynote Speaker | Certified Dare to Lead™ Facilitator (June 2019))
-> And you MODEL the way for this Antoni, thank you for being an advocate to all WHO enter your path, it always circles back. Cheers to Onward, Upward Ripples in this vast and abundant world.
-
-### Ivona Hirschi (Leadership Development • Team Communication • Training & Workshops | AI Handles the Rest.)
-> How would you recommend starting?
-

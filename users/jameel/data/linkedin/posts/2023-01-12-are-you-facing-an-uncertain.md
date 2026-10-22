@@ -12,7 +12,3 @@ article:
 
 Are you facing an uncertain situation at work? It is a feeling when you are not sure what to do as there isn't a clear right or wrong answer. Watch this video to find out three ways how you can deal with such situations at work.
 https://lnkd.in/eJ2KAWB9 #work #video #softskills #softskillstraining #humanskills #uncertainty #ambiguity #jobskills
-
-### Shared Article: [How to deal with UNCERTAIN SITUATIONS at work?](https://www.youtube.com/watch?v=RHh-bT127tw)
-> youtube.com
-

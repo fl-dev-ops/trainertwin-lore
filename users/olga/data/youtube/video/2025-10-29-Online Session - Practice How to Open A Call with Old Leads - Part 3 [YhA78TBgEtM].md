@@ -17,11 +17,6 @@ speakers:
   speaker_6: null
 ---
 
-
-# Online Session - Practice How to Open A Call with Old Leads - Part 3
-
-## Transcript
-
 speaker_1: Aren cannot Uh Sam do you want to jump in and try be an agent You see you the universe is putting everything in you
 
 speaker_2: Ill be a client please Sam Oh my God

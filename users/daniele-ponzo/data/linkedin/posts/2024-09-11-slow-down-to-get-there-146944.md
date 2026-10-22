@@ -64,31 +64,3 @@ There are times when to reach your goal, to hit your target, you have to slow do
 To keep track of your thoughts, to avoid panic and to find a solution.
 
 P.S. Have you ever been in a similar situation😮? Let me know in the comments below  .
-
-## Comments (6)
-
-### Rahuldev Rajguru (Software professional turned travel blogger and wildlife photographer | Startup Mentor | Growth Marketing Consultant)
-> I have traveled extensively in that part of the world, so I can relate to your experience. The key to traveling there is to remain patient. People are generally friendly, helpful, and nice.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Such a powerful story! Daniele Ponzo
-> 
-> Sometimes, slowing down is exactly what we need to move forward.
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Nice one Daniele ))
-> 
-> Slowing down can indeed be the key to making progress. 
-> 
-> Sometimes we need to slow down and reassess the situation.
-
-### Galina Yazovitskaya (Marketing Manager @ WinDriver by Jungo Connectivity)
-> Yes, Daniele, patience can be more effective than speed! But it’s definitely stressful in the moment.
-
-### Ana Milovanovic (Helping Communication professionals speak with Precision, Presence & Professional Calm in English | Journalism graduate turned English Communication Coach with more than 10 years of Experience)
-> Daniele Ponzo Great storytelling, and a powerful message👌
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> As they say Daniele, slow and steady wins the race 😎 
-> (which is not chi va piano va sano e lontano 😉)
-

@@ -9,6 +9,3 @@ document:
 ---
 
 FIRST EVER ‘Supply Planner Job Interview Preparation Course’ is here… Enrol today if you are preparing for this role.
-
-### Shared Document: [Supply Planner Job Interview Prep Course]()
-

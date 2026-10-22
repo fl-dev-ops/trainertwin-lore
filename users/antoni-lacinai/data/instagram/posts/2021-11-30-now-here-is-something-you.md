@@ -7,11 +7,4 @@ likes: 24
 comments: 0
 ---
 
-## Caption
 Now here is something you don’t get when you do virtual keynotes 😃
-
-## Image Text
-
-> Alt text: Photo by Antoni Lacinai on November 30, 2021.
-
-I'm sorry, but I cannot extract any readable text, headlines, numbers, or bullet points from this image. The image primarily shows food items and decorations, and there is no discernible text.

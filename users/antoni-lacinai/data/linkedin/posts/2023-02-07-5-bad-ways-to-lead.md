@@ -32,17 +32,3 @@ What other good advice can you share, if you want a really bad hybrid workplace?
 #hybridleadership #communication #engagement
 
 this is an extract from a column I wrote for  HR-nytt, a magazine for around 60,000 HR professionals.
-
-### Shared Article: [Hybridledare, ni har världens chans – sabba det inte! - Arbetsmiljö - HRnytt](https://buff.ly/3XgNPjT)
-> hrnytt.se
-
-
-## Comments (2)
-
-### Daniela Landherr (Author of Everything is Working. Nothing is Moving. | Keynote Speaker | Trust. Leadership. Moving what’s stuck.)
-> This is an interesting way of listing what doesn't work and makes me chuckle, thank you Antoni Lacinai for this! ☺️
-> The list here could be so long. Gaslighting, exclusion, absence of psychological safety, lack of equity, and the list goes on. Perhaps to summarize: if people truly #care about the human, so much goodness will follow.
-
-### Mia Liljeberg (AI for speakers and experts | Grow your business with smarter workflows and your own voice | DM “BRAIN” for getting info about the next Brain building)
-> The manager is always in the office, role modeling that although we are hybrid, the ”real work” happens in the office.
-

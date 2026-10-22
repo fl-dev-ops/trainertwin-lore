@@ -30,11 +30,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Truly Become Part of a New Culture #shorts
-
-## Transcript
-
 speaker_1: So
 
 speaker_2: Yeah

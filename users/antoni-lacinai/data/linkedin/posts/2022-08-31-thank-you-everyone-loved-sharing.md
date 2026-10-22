@@ -11,13 +11,3 @@ article:
 ---
 
 Thank you everyone! Loved sharing with you.
-
-### Shared Article: [Set goals and boost your motivation](https://buff.ly/3Tp3o7H)
-> buff.ly
-
-
-## Comments (1)
-
-### Jennie Madsen (Hållbarhet ❤️ Ledningssystem)
-> Thanx, very inspiring to listen to you !
-

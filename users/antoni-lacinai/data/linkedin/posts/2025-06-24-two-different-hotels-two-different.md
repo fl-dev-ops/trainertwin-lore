@@ -12,13 +12,3 @@ Two different hotels. Two different messages. Both made me smile
 But for different reasons 😃
 
 What customer communication have you seen recently that made you smile?
-
-## Comments (2)
-
-### Jeanette Johansson (Arbetsförmedlare/ Personalvetare)
-> Ja, eller hur?! Snacka om att idiotförklara sina gäster(bild 2) och så finns "hospitality" i företagsnamnet🫣 Önskar att alla fick mötas oftare av den första skyltens budskap i vardagen👌
-
-### Maiwi Wernersson (➡️ Vill du sälja mer? Digital kurs! ”Säljcoach, konferencier, föreläsare m.m”)
-> Ja help me! 
-> Det finns olika sätt att kommunicera på och en avspegling kanske på hur man ser på sina kunder?
-

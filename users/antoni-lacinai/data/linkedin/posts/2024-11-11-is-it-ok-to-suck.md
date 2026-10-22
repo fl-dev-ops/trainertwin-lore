@@ -32,9 +32,3 @@ Are you curious and willing to try something new? Who knows, maybe you will suck
 Thank you for reading my mind,
 //Antoni Lacinai
 The workplace communication expert
-
-## Comments (1)
-
-### Magnus Lasses ("Experienced Product Manager & Solutions Architect | Agile Specialist | Driving Product Success in SaaS Systems")
-> Everyone is a beginner when trying something new 😉
-

@@ -37,11 +37,6 @@ speakers:
   speaker_2: 'Sandra'
 ---
 
-
-# How to overcome LANGUAGE BARRIERS | International Career | The Non-Native Leader | Episode 14
-
-## Transcript
-
 speaker_1: Hi everyone welcome to another episode of the non native leader a video podcast series where we explore the life the stories the challenges um of leaders people who are leaders in their field but people who are not born in an English speaking country If you follow the series uh youve seen weve talked to people from different various industries NGOs Fintech IT uh commercial you know various fields And all these people share their stories share their successes their challenges and all these people have one thing in common They were not born in an English speaking country but today they have an international career Uh Im happy to have here with me today Sandra Sandra Stynes Uh she is from I dont know Oh youre from Spain Yeah Im joking I know youre from Spain And yeah so I am happy because we we used to work together a long time ago and then now our lives have taken complete Um yeah different lets say different paths And its great to reconnect and its great to have you here today with me Sandra
 
 speaker_2: Thank you so much Daniele So yeah so my name is Sandra as you just said Im I was born in Madrid grew up in Barcelona and I studied tourism So with tourism you need English so I had to move to Ireland and then so today I am a co founder and director of Corporate Housing So Corporate Housing is a corporate accommodation provider and were based in Dublin but we also serve accommodation all around the globe Oh okay So thats thats already intriguing because Madrid Barcelona Thats the first Thats the first thing okay How And then and then Dublin all of a sudden Okay okay okay Yeah Um so today you are you you learned English because youre still in Dublin Yes I did eventually Yes it took a while you know

@@ -5,16 +5,13 @@ date: "2026-01-01"
 source: website
 ---
 
-# Leadership is a state of being
-
-# Leadership is a state of being
+Leadership is a state of being
 
 Manager is the Role
 
 Leadership is the Style
 
 Performance Coaching is the Skill
-
 
 Redefining how you think about leadership, and then taking new action, can be one of the most significant things you can do to transform your organization.
 
@@ -40,7 +37,7 @@ Ask yourself: “What if, I am wrong?”
 
 How would things be then?
 
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

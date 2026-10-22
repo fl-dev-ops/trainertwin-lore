@@ -23,7 +23,3 @@ stop complaining not getting calls, start thinking how you can act differently.
 mention any tip that worked well for you to get more calls. 
 
 follow me and I will help you to find your dream job: Vasanth Bhat
-
-### Shared Article: [Devpost - The home for hackathons](http://Devpost.com)
-> devpost.com
-

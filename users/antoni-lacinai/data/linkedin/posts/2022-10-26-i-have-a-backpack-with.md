@@ -11,20 +11,3 @@ I have a backpack with tech stuff that weighs around ten kilos. Half of the time
 
 Still it is worth it, bringing my digital setup to an analog audience. 
 Wish me luck for todays delivery 🥳. Game on!
-
-## Comments (4)
-
-### Andreas Larsen (Digital Marketing manager og AI nørd)
-> Love your setup!
-
-### Thomas Frenning (Framgångscoachen)
-> Lycka till!
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> You and me both, Antoni. What they most often "catch" in the security check for me is my small brass Dalecarlian bell that I use to call my audience's attention. 🔔
-> 
-> On another (key-)note, I see that you have your slides on your laptop, but what do you use your iPad for?
-
-### Philippe BOULANGER, PhD (Global Speaker, Author and Strategic Consultant on Innovation, AI and Prospective - Accelerate Innovation and AI in your teams with less risks - Executive @ Apple and Sony - Americas/Europe/Middle East/Asia)
-> Same experience in the airport 😂. Break a leg!
-

@@ -24,16 +24,3 @@ With every interaction, TonyLatimer.ai adapts, learns, refines, and evolves, ens
 We are looking at an era where training is no longer seen as a one-size-fits-all solution but a highly individualized pathway to personal and professional growth.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (2)
-
-### Amos Szeps, MCC ICF (I match world-class leaders to world-class coaches. International Master Coach | UK-registered Psychologist | CEO Peoplemax)
-> These days growth and development must be tailored / customised to the needs of the individual, team or organisation.
-> 
-> This requires a completely different approach from providers of leadership development.
-> 
-> Thanks for leading the way Tony Latimer, MCC.
-
-### Lyssa deHart, LICSW, MCC, BCC (Creator of the Credentialing Lab ICF Exam PREP | Host of the Coaching Studio Podcast | Author | Speaker | Leadership Coach/Trainer | ICF Mentor Coach | ASK ABOUT THE SCIENCE OF COACHING WITH METAPHORS)
-> This looks really interesting Tony Latimer, MCC
-

@@ -15,7 +15,3 @@ Jag fick äran att gästa den briljanta coachen Alexander Holmberg och hans pod 
 Tack Alexander för ett spännande samtal om viktiga ting som att skav är bra och sår är dåligt. 
 
 #kommunikation #ledarskap #pod
-
-### Shared Article: [21. Antoni Lacinai. Hur gör man för att.. ja vad blev det nu?](https://bit.ly/2AszJWT)
-> bit.ly
-

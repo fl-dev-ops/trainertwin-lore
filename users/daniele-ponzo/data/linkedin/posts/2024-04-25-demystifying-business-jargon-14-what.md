@@ -56,18 +56,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 
 
 #BusinessEnglish #TechJargon #NoBrainer #ITManagers #CommunicationSkills 🚀
-
-## Comments (2)
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Commenting for visibility, Daniele Ponzo is a great teacher and coach!
-> 
-> ---------
-> 🔍 Follow me on LinkedIn for daily insights on ITSM and IT Security.
-> 🎧 Check out The ITSM Practice Podcast on Spotify: podcasters.spotify.com/pod/show/theitsmpractice
-> 
-> #itil #itsecurity
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Loving the conceptual aspect of this post! Keep winning! 😊
-

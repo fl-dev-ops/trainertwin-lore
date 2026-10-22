@@ -18,6 +18,3 @@ Det korta svaret på vad som ökar ens välbefinnande är:
 Goda relationer.
 
 Om detta tänker jag i senaste numret av Affärsresenären
-
-### Shared Document: [Krönika Affärsresenären Är du en bra vän]()
-

@@ -14,7 +14,3 @@ WE ARE HIRING!!!
 Mars Wrigley is looking for a 12 mos contract Project Manager to support our innovation commercialization process. Check out the link below to apply!
 
 https://lnkd.in/g5DhZeaS
-
-### Shared Article: [Commercialization Project Manager- 12 Contract](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Bolton/Commercialization-Project-Manager--12-Contract_R66899)
-> mars.wd3.myworkdayjobs.com
-

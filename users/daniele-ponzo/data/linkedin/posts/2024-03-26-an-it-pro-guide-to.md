@@ -6,6 +6,16 @@ likes: 23
 comments: 4
 document:
   title: An IT Pro guide to Visibility in the workplace
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
+   
+  🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
+- 'Here''s the link to the article: https://hbr.org/2024/03/an-introverts-guide-to-visibility-in-the-workplace?utm_campaign=hbr&utm_medium=social&utm_source=linkedinnewsletter&tpcc=linkedinnewsletter'
 ---
 
 An IT PRO guide to visibility in the workplace.
@@ -44,24 +54,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
 
 #speaking #itprofessionals #introvert
-
-### Shared Document: [An IT Pro guide to Visibility in the workplace]()
-
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
->  
-> 🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### Hina Arora (Helping Tech Leaders Build Their Personal Brand and Industry Authority | Founder @BrandBuilders | Tech / Al / Career Content Creator (500K+) | 10+ YEO in Tech & Al | Ex-Engineering Manager @Jio)
-> I appreciate the practical strategies you've outlined here for speaking up and making an impact in the workplace.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here's the link to the article: https://hbr.org/2024/03/an-introverts-guide-to-visibility-in-the-workplace?utm_campaign=hbr&utm_medium=social&utm_source=linkedinnewsletter&tpcc=linkedinnewsletter
-

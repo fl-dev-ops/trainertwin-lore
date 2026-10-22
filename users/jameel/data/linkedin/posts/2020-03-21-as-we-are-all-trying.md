@@ -11,7 +11,3 @@ article:
 ---
 
 As we are all trying to handle our supply chains in this unprecedented crisis, I am starting a series to post my learnings weekly.... #supplychain #change #covid19 #crisis #opportunity
-
-### Shared Article: [Is your Supply Chain Leadership doing these 5 things?](https://www.linkedin.com/pulse/your-supply-chain-leadership-doing-5-things-jameel-hye?trackingId=O2bbcnajfGFaY%2BJUZ9NWhQ%3D%3D)
-> Jameel Hye
-

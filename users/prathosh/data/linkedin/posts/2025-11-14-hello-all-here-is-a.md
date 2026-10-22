@@ -36,6 +36,3 @@ The detailed JD is attached.  Apply here - https://lnkd.in/gpjAhbHa
 LatentForce Indian Institute of Technology, Delhi Indian Institute of Science (IISc) Aravind Jayendran
 
 PS: Please refrain from applying if you do not have prior experience (albeit academic) in fine-tuning LLMs.
-
-### Shared Document: [LF_ML_Engineer_JD]()
-

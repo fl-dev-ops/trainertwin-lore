@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 10 - Deep Generative Models VAEs beta VAE VQ VAEs
-
-## Transcript
-
 speaker_1: I think two voices it is it from
 
 

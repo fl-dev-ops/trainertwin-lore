@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Life Experience Teaches What Books Never Can #shorts
-
-## Transcript
-
 speaker_1: Another question that pops into my mind is like is it more important to read things in a book or to actually live them and and be there So in your experience right So you say you obviously you bought these little books and they gave you some insight before going there But then when you were actually in the country working with the people So like was it the live experience more important for you
 
 speaker_2: Yeah yeah of course

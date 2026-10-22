@@ -15,9 +15,3 @@ Veckans gäst: Stress-experten Jan Tern, CSP
 Vi kör hela våren. Ställ ett larm och få energi med oss. VÄLKOMMEN ^_^
 
 https://buff.ly/321OA5b
-
-## Comments (1)
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> Ser fram emot detta 😃
-

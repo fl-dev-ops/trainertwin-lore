@@ -21,6 +21,3 @@ https://lnkd.in/g63zcA7
 
 
 #speech #ai #deeplearning #privacy #machinelearning
-
-### Shared Document: [Resp_VAD]()
-

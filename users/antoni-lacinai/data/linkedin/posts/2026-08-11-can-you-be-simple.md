@@ -19,9 +19,3 @@ Your mantra should be:
 Don't overcomplicate. Don't oversimplify. Find the sweetspot between those two. 
 
 I am here for you if you need me, as your 1:1 personal trainer. Just like in the gym, but for communication.
-
-## Comments (1)
-
-### Caroline Mohr Global Keynote Speaker on Mindset (Speaker ⭐️ Inspiring organisations to get resilient through change ⭐️ Cert. NLP Trainer ⭐️ Ambassador Star For Life & HSH Princess Charlene ⭐️ Former Golf Pro)
-> Love your studio and quality of this video - great work Antoni!
-

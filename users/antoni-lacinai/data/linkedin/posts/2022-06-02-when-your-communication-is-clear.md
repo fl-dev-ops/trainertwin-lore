@@ -28,12 +28,3 @@ Let your colleagues know your goals and you will have far fewer misunderstanding
 In larger organisations you often have a matrix structure. At every crosspoint (e.g. product owner and regional sales) you will have a potential misunderstanding and even conflict. Especially if they don't talk to each other. 
 
 #goals #communication #leadership #performance
-
-## Comments (2)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Hahaha 😛 great story and try to see and have understanding for other peoples goals and their perspectives. 👏
-
-### Esmaeil N. (Manager at Modular Management | Program & Engagement Management · Modular Product Architecture (MFD®) & Product Configuration · PALMA · Information Management & Integrations)
-> Couldn’t been explained any better
-

@@ -22,29 +22,3 @@ Vad har det med arbetsplatsen att göra? Jo det är samma där.
 Att fokusera är bra. Det hjälper dig att prioritera dina resurser och prestera bättre. Para det gärna med att, då och då, släppa lasersiktet, ta tre steg tillbakat och ställa dig helt nya frågor. Vad ser jag nu? Vad har jag missat?
 
 Vad ser du?
-
-## Comments (4)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Intressant, man tror ju inte exemplet med gorillan är på riktigt. Men jag kan intyga att det stämmer, har gått på det...:)🌟✨🌟
-
-### Thomas Otnes (Product developer and engineer)
-> Helt rätt Antoni!
-> 
-> Det finns en känd övning som använts för att illustrera det där. En grupp på 5-6 personer ska studsa två basketbollar mellan individerna och räkna antal gånger de studsar bollarna.
-> Vi åskådare räknar med.
-> 
-> Efteråt kommer frågan om hur många gånger bollarna studsade.
-> Och sedan frågan: Såg ni gorillan?
-> 
-> Pga fokuseringen på bollarna som studsas ser ingen av oss gorillan.
-> Så fokusering är nyttigt men enbart fokusering kan vara farligt, vilket du så fint påpekar med dina exempel!
-> 
-> https://www.youtube.com/watch?v=IGQmdoK_ZfY
-
-### Filip Robertsson (Avaronix AB / Mindmill AB)
-> Mycket tänkvärt!
-
-### Johan Boholm (Co-Founder @ 3Dex Oy)
-> Fokus i kombination med tre steg tillbaka + att ställa nya frågor låter som en förträfflig metod 👍
-

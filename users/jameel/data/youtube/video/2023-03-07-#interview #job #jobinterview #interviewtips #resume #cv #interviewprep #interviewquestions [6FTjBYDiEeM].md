@@ -12,11 +12,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #interview #job #jobinterview #interviewtips #resume #cv #interviewprep #interviewquestions
-
-## Transcript
-
 speaker_1: LIKE A
 
 

@@ -11,9 +11,3 @@ comments: 1
 Jag och Mia Liljeberg bjuder på en timme. Häng på vetja! 
 
 #ledarskap #virtuelltledarskap #arbetsglädje #ledapådistans
-
-## Comments (1)
-
-### Anders Lindberg (Supportchef, Structab AB)
-> Tack för inbjudan Antoni och Mia 👍
-

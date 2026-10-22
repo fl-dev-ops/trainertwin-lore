@@ -8,6 +8,8 @@ article:
   title: 'No More English Anxiety: Speak Confidently with the H.A.C.K. Method'
   subtitle: youtube.com
   link: https://youtu.be/fsADyFvFfqE
+author_comments:
+- Thank you, Daniele Ponzo, for sharing your powerful story and the H.A.C.K. method to help professionals speak English with confidence. Your honesty and practical tips are truly inspiring for non-native speakers around the world. We're honored to feature your voice on GK Talks!
 ---
 
 📢Do you freeze in English meetings, even when you know exactly what to say?
@@ -41,34 +43,3 @@ Enroll NOW: https://gk-talks.com/
 We’ll help your journey shine—and make sure it reaches the hearts that need it most.
 
 #EnglishConfidence #PublicSpeaking #CommunicationSkills #NonNativeSpeaker #EnglishAtWork #Leadership #TechCareers #DanielePonzo #GKTALKS #SpeakUp #SoftSkills #LanguageMatters #Storytelling
-
-### Shared Article: [No More English Anxiety: Speak Confidently with the H.A.C.K. Method](https://youtu.be/fsADyFvFfqE)
-> youtube.com
-
-
-## Comments (6)
-
-### Anusha Rathy (I love taking up Challenges, being Creative and Curious about what next…:D)
-> Wow, Daniele Ponzo! I’ve experienced that “blank mind” moment sometimes during my high school presentations. I wish I had known about the H.A.C.K. method back then! 😅 Thank you for being so honest and offering a real solution! It gives hope to so many of us.👏
-
-### ARUN BABU RAJESWARI (FOUNDER & CEO @ GK TALKS 🇨🇦 Your story can change the world. At GK Talks, I believe every voice matters and every journey has the power to inspire, uplift,spark real change.Share your journey - Let’s make a difference.)
-> 🤝Connect and learn more about Daniele🤝
-> 
-> LinkedIn: https://www.linkedin.com/in/daniele-ponzo/
-
-### Judy Carmody Psychological Pattern Coercive Control™️ Framework (Founder, Leadership in Wellbeing & Safety Strategy ™️ - Moving from Psychological Risk to Psychological Intelligence ™️ - Books for Peace International Award 2023)
-> Excellent work GK TALKS  great resource
-
-### Matthew Kilkenny (AI Ethics Advisor • LinkedIn Ethical AI top Voice • Advocate for Ethics in Tech • EU AI ACT • Uniting Humanity Ecumenically)
-> I just left a comment on the podcast over on #YouTube 
-> 
-> " Do Freeze " 
-> 
-> Love it GK TALKS
-
-### ARUN BABU RAJESWARI (FOUNDER & CEO @ GK TALKS 🇨🇦 Your story can change the world. At GK Talks, I believe every voice matters and every journey has the power to inspire, uplift,spark real change.Share your journey - Let’s make a difference.)
-> Thank you, Daniele Ponzo, for being part of this journey with us and for inspiring so many to speak up with confidence! Your H.A.C.K. method is not only practical but also truly empowering, a game-changer for non-native English speakers.
-
-### GK TALKS 🇨🇦| Global Inspiration & Storytelling Platform (2,144 followers) (Author)
-> Thank you, Daniele Ponzo, for sharing your powerful story and the H.A.C.K. method to help professionals speak English with confidence. Your honesty and practical tips are truly inspiring for non-native speakers around the world. We're honored to feature your voice on GK Talks!
-

@@ -1,6 +1,6 @@
 ---
 id: 5AcmvmzE2zU
-title: Lec 69 Introduction to Reinforcement Learning : RL
+title: "Lec 69 Introduction to Reinforcement Learning : RL"
 url: https://www.youtube.com/watch?v=5AcmvmzE2zU
 date: '2026-04-16'
 duration: 31:13
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Lec 69 Introduction to Reinforcement Learning : RL
-
-## Transcript
 
 speaker_1: Welcome everyone
 So the last topic that I wanted to touch

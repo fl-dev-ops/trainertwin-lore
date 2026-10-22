@@ -33,19 +33,3 @@ And a good mix of all three for the high performers.
 If you want to know what Motivational Mindset your team is at, I have developed a SELF-ASSESSMENT of 14 questions. Let me know if you want it ^_^
 
 In Swedish: Vänner här är min senaste krönika i HRnytt där jag går djupare in a varför vi gör vad vi gör och säger vad vi säger, och hur vi kan hjälpa människor som känner sig osäkra och rädda - något som många gör i dessa tider.
-
-### Shared Article: [Hur mår ditt team? - Ledarskap - HRnytt](https://buff.ly/3XQnXLj)
-> hrnytt.se
-
-
-## Comments (3)
-
-### Alfredas P. (Third Party Management | Certified Third Party Risk Professional (CTPRP) | Indirect Sourcing | Transformational Leadership |)
-> Thank you for the insights, Antoni. How could I get the questionnaire for the self assesment?
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Great insights Antoni, love Empathy, Clarity and Energy (especially Energy) 👏
-
-### Johanna Donker (Senior Coach och Verksamhetsledare | Leder genom tillit, tydlighet och lagfokus | Stark i förändring och osäkerhet)
-> 👉Tips nätverket- Mkt läsvärt👌
-

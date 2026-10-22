@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The #1 Reason Non-Native Professionals Struggle in Global Jobs
-
-## Transcript
-
 speaker_1: So what kind of recommendations would you give
 
 speaker_2: Um well I think I think my first thing the first point is struggle makes you makes you grow right So I dont think I think you should move towards struggle instead of away from struggle right So that that that and thats and and and moving to a different uh country although there is always excitement eventually going to be a struggle Eventually right Maybe maybe like like a you know the first three months are going to be amazing because everythings new but eventually life settled down

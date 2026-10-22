@@ -5,6 +5,16 @@ url: https://www.linkedin.com/posts/daniele-ponzo_i-didnt-expect-this-message-ye
 likes: 59
 comments: 9
 images_count: 1
+author_comments:
+- |-
+  ▶️ This is exactly what we train inside 𝙎𝙥𝙚𝙖𝙠 𝙇𝙞𝙠𝙚 𝙖 𝙇𝙚𝙖𝙙𝙚𝙧.
+  Not more vocabulary.
+  Not perfect grammar.
+  But that moment where English starts to feel… natural.
+
+  If you’re curious, here’s the program:https://danieleponzo.com/speak-like-a-leader-292361
+
+  Send me a DM if you'd like to know more.
 ---
 
 I didn’t expect this message.
@@ -79,35 +89,3 @@ It’s to still feel like yourself.
 
 P.S. If you want to 𝗴𝗲𝘁 𝘁𝗵𝗲𝗿𝗲 too,
 feel free to 𝗿𝗲𝗮𝗰𝗵 𝗼𝘂𝘁.
-
-## Comments (7)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> That moment when you stop translating in your head and start speaking naturally is a huge milestone in learning a language.
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> The biggest shift usually happens when people stop translating in their heads and start reacting naturally in conversation. That is when language becomes part of daily life instead of a task.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> This is what real learning is all about. Quiet, natural and life changing.
-
-### Emanuel Balsa (Helping 36K+ professionals make smarter money, career and, AI decisions | Daily lessons | Free quiz ↓ | Talks and partnerships, happyhelp@emanuelbalsa.com)
-> You nailed the real goal: sounding like yourself. I saw confidence grow once I stopped translating first.
-
-### George Sepashvili (Helping companies get off Dynamics AX/NAV, and Microsoft partners scale delivery | F&O & Business Central migrations, senior developers, KnowBe4, fully managed | Sales Team Lead @ Ingenio AG | Lichtenstein)
-> For me it was when I stopped noticing I was speaking English.
->  Not because it got easier. But because whatever I was thinking about got more interesting than how I was saying it. Language becomes invisible the moment the idea takes over.
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Fantastic (but not surprising mate) 👏 to you both!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ This is exactly what we train inside 𝙎𝙥𝙚𝙖𝙠 𝙇𝙞𝙠𝙚 𝙖 𝙇𝙚𝙖𝙙𝙚𝙧.
-> Not more vocabulary.
-> Not perfect grammar.
-> But that moment where English starts to feel… natural.
-> 
-> If you’re curious, here’s the program:https://danieleponzo.com/speak-like-a-leader-292361
-> 
-> Send me a DM if you'd like to know more.
-

@@ -14,15 +14,3 @@ Here are 5 things they do to be MORE arrogant
 What would you add?
 
 #communication #leadership #employeeengagement #keynotespeaker #communicationscoach
-
-## Comments (3)
-
-### Jenny Hellström (Presales manager | Data & Analytics | Change Management)
-> Don’t look at the person you are speaking to. Look at the guy next to the person you are speaking to. Or I take it back. This  is not only arrogant, it is patronizing behavior.
-
-### Dr. Marcelena H. (Helping Values-Driven Leaders Navigate Uncertainty Without Losing Sight of What Matters Most | Executive Coach | Leadership Consultant | Host of The Servant Leader’s Mindset | Certified DISCflex Coach| Faith-based)
-> They rarely ask anyone how they are doing or when they do it is disingenuous.
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Yesterday I was called Gunnar in an e-mail conversation...
-

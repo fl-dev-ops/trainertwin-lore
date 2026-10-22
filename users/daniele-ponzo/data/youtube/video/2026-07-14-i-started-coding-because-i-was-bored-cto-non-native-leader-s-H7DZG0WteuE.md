@@ -48,11 +48,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# "I Started Coding Because I Was Bored" 🎮➡️ CTO | Non-Native Leader #shorts
-
-## Transcript
-
 speaker_1: Sofia its so great to see you here at We Make Future What are you doing here What are you doing here What are you doing here
 
 speaker_2: Well Im promoting my services you know communication in English And its great to see you here because you were also a guest to my podcast The Non Native Leader

@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 26 Parzen Window
-
-## Transcript
-
 speaker_1: Okay So lets move on
 The last family of uh density estimation
 techniques uh that I would discuss in

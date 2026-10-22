@@ -13,11 +13,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Antoni Lacinai on Employee engagement: 5 motivational boosters when you are forced to work from home
-
-## Transcript
-
 speaker_1: We live in strange times being confided to our homes now and still trying to do our work After a while the novelty of it all will wear off and you might get yourself in a situation where you feel that youre not motivated enough to even perhaps get out of bed in the morning So I will give you five concrete tips on how to keep that energy up and the motivation up as well
 
 

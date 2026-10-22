@@ -5,6 +5,12 @@ url: https://www.linkedin.com/posts/daniele-ponzo_meeting-presentation-business-
 likes: 428
 comments: 46
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E05AQGdkqwfRF53nw/CeJzLyCnWTcstMNE1NzIo0DU2SCvQTS5KM7LQyYBJmJrgkDCxwCFhbIYiAQDmRB3s?e=1793178000&v=beta&t=ocky046ZTM3bLCtHEylrfdUdabjg765xYEohdcM3-2Q
+author_comments:
+- Thanks for reposting Evgeniia Chernysh (open for a new opportunity), Connor McGlashan, Michael Wesley Henriksen, Adriyan Hristov, Bob Hutchings,GIULIANA CONTALDI. Let's all be 'reasonably crazy' 🙂 .
+- '📌 talking about being ''reasonably crazy'' today is my YouTube channel 1st birthday. Way out of my comfort zone 🙂. Check it out here: https://youtube.com/@solutionspeakcoaching?si=McOTYWuXSRf68Tog'
+- Thanks for reposting, Nicole Convalius, Navjot Singh, Haristiansyah Indrawan
+- Thanks for reposting, Cara Iwasaki 🙂
+- Thanks for reposting, Prasanna G 🙏
 ---
 
 I wanna be like you!
@@ -60,89 +66,3 @@ P.S. What’s your secret when it comes to confident communication? Let me know 
 Video credits: The Jungle Book, 1967
 
 #meeting #presentation #business
-
-## Comments (25)
-
-### Khalid Mohammad (Catering Specialist | Catering Mobilization Planner)
-> 😂😂😂 reminded me with someone, have the same confidence
-
-### Darray R (Student Representative - Youth Advocate -)
-> Absolutely!
-
-### Judith Oberlack (Volljuristin | Vertragsrecht | Lösungsorientierte Rechtsberatung für Verbände, Kammern & Organisationen mit Weitblick | Struktur · Klarheit· Strategie)
-> ☺️👏
-
-### Brian Stampfl (Law Enforcement Promotion Coach | Author | Seattle Police Captain (ret.))
-> Confident Communication secret: Know your topic so well that it's like telling a story rather than trying to recall information. Know your material intimately well, and you won't get stuck in the middle of your presentation and won't fear being asked questions.
-
-### Christopher Botha (Remote Operations & ESL Instructor | TEFL-Certified | Spa & Physical Therapist | Google Suite, WordPress & Canva Expert | Events Admin & Client Support Pro | Seeking Remote IT / Operations / Teaching Roles -RSA based)
-> These are the things I love to read!
-
-### Melissa S. (Senior Manager)
-> Clarity and brevity ✅ i still don’t understand the need for 2hr meetings. encourages much waffle and little in the way of solutions.
-
-### Randy Waters (Quantitative Operations Analyst (Retired), VP at Bank of America)
-> Looks like a mask made out of coconut shells can be helpful as well.
-
-### Yogesh Sonawane (Manager Business Development - PV Lumens India Pvt Ltd)
-> Hey it's fantastic with my favourite cartoon character Baloo 🐻
-
-### Irene Ayeh MA, BSc, APM Associate, Change Management (Project Officer/Programme Officer/Senior Administrator/HR Generalist)
-> Na mate I don't wanna be like you, I like me just fine thanks😂😂😎.
-
-### Aurelia Edward (Chinese Teacher (Self-employed))
-> Great advice
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Evgeniia Chernysh (open for a new opportunity), Connor McGlashan, Michael Wesley Henriksen, Adriyan Hristov, Bob Hutchings,GIULIANA CONTALDI. Let's all be 'reasonably crazy' 🙂 .
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 talking about being 'reasonably crazy' today is my YouTube channel 1st birthday. Way out of my comfort zone 🙂. Check it out here: https://youtube.com/@solutionspeakcoaching?si=McOTYWuXSRf68Tog
-
-### Disha Singh (Entrepreneur🎗️🎗️ business owner📝📝 young digital entrepreneur🖋️🖋️💯💯)
-> #intrested
-
-### Tom Miltenberger (Sales Specialist at Xfinity)
-> Very positive and uplifting!
-
-### Janet Moore (I help overworked professionals accomplish more in less time.)
-> Useful tips
-
-### Satari Kusuma (--)
-> Good
-
-### Steve Voss (Learning and Development Admin Support at Paradigm Shift Consulting Ltd)
-> They must have had so much fun recording that!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Nicole Convalius, Navjot Singh, Haristiansyah Indrawan
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Cara Iwasaki 🙂
-
-### Inna M. (preschool teacher)
-> That's a good meaning of the importance of how much we love what we are doing and if we are in the right place :)
-> Hakuna Matata!
-> Don't worry, be happy! 😊
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Prasanna G 🙏
-
-### Stefania Marinelli (Turning Busy Professionals into Authentic Leaders | Associate Certified Coach -ICF | Senior People Manager | Agile Coach)
-> Now I'm imaging myself walking into a meeting room dancing like Baloo 🐻  
-> 
-> maybe another thing to add to the list is "Take it eay": it's a meeting, you're not having surgery!
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Yes true Daniele ))
-> 
-> Active listening often gets overlooked
-> 
-> but it’s essential for meaningful communication.
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo This is a fantastic breakdown of effective communication! I love how you highlight the importance of preparation and adaptability; they truly set the tone for a successful meeting or presentation.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> This is me on a good day when I slept enough!
-

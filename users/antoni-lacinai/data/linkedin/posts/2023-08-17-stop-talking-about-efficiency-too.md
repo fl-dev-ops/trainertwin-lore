@@ -16,16 +16,3 @@ So I developed this simple formula called E=ExE for leaders and teams who are fe
 #leadership #communication #engagement
 
 "all models are wrong, but some models are useful" (does  anyone knows  who said that?)
-
-## Comments (3)
-
-### Kjartan Halvorsen (Expert in Modeling, Optimization & Control | Applied Mathematics for Real-World Systems)
-> Great stuff, my friend! The quote is by the statistician George E. P. Box.
-
-### Paul Mc Connon (CEO of Unique Speaker Bureau International)
-> I love this Antoni.
-> Such good advice as always.
-
-### Göran Nylén (PEGAN people & business AB | Interim & Fractional Exec. / Commercial & Operational Excellence / Strategy / Risk Management / Intelligence / Resilience / Transformation / Innovation / Turn Around /)
-> I believe the original quote, or rather the original version of it comes from a UK mathematician, George Box. In the 60's or 70's..?? Looking for what may be used as a sub-set rather than trying to find or apply a model, only when it works in its entirety. In a very straightforward way I would define it as decomposition vs. synthesis.
-

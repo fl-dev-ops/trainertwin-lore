@@ -62,22 +62,3 @@ And take your language journey to the next level.
 Mr D., the “Train manager”🚃.      
 
 #journey #career #english
-
-## Comments (4)
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Choo choo 🚂
-> 
-> Creative copy here Daniele Ponzo
-
-### Tushar Sarkar (YouTube SEO & Channel Growth Specialist | 120+ Channels Monetized | 400+ Videos Ranked | Video SEO & Monetization Strategy)
-> Looking good
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Oh yeah Daniele we all remember the saga of the bus with a number AND a letter! 😄
-> 
-> Besides that, what you said is really insightful. No kidding, my friend 😎
-
-### Tomàs Pablo Carbone (Founder TOMKO Engineering srl | I am passionate about Management and Clinical Imaging, I help TOMKO engineering srl to create management and imaging systems necessary to improve the daily lives of our customers.)
-> Interesting view
-

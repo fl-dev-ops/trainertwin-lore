@@ -18,20 +18,3 @@ What happens when someone neglects you? When they don't see you? When you feel i
 Have you felt it? I have.
 
 #keynotespeaker #leadership #communication #engagement #service
-
-### Shared Article: [Se alla – En krönika av Antoni Lacinai - Ledarskap - HRnytt](https://buff.ly/460EBfA)
-> hrnytt.se
-
-
-## Comments (2)
-
-### Anette Ek (Hjärnro för högkänsliga företagare- hjälp att sätta gränser, hantera känslor & skapa struktur och återhämtning för din hjärna | Högkänslighet (HSP) | Stresscoach | Föreläsare)
-> Oj vad viktigt det är. 
-> 
-> Det kan ju väcka frustration, att känna sig betydelselös, att du inte är värd nåt, att du inte tas på allvar. Och det lär väcka särskilt starka känslor hos den som kanske varit med om att bli behandlad så tidigare, till exempel som barn. 
-> 
-> Har tänkt på att det gör så mycket att bli välkomnad i ett digitalt möte till exempel.
-
-### HRnytt (15,127 followers)
-> Tack Antoni för ännu en intressant krönika!
-

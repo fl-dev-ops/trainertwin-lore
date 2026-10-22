@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 04 Adhyaya 22 to 31 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: मैत्रेय उवाच
 जनेषु प्रगुणत्स्वेवं पृथुं पृथुलविक्रमम्
 तत्रोपजग्मुर्मुनयश्चत्वारः सूर्यवर्चसः

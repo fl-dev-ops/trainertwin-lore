@@ -57,11 +57,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What Singapore Teaches About Global Communication #shorts
-
-## Transcript
-
 speaker_1: Yeah Uh in Singapore we are fortunate to be working um to be working with professional across various country not just Southeast Asia APAC We also welcome foreigners from different countries So we have a good mix of different cultures which is being in Singapore Starting from food culture we have different uh we can taste all the food in Singapore and going into office we have different culture as well So its a happy situation That includes the different type of English speaking from different country And also the different um dialects and Mandarin and other simple languages as well
 
 speaker_2: Oh So it sounds like a great mix and also the perfect environment to develop this sort of cultural awareness across different uh languages as you said but also different approaches

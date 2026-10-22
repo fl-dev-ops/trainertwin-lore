@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Kraften av Empati Din Sköraste Superkraft
-
-## Transcript
-
 speaker_1: Empati då Empati när du när du kommunicerar med empati då känner jag att du förstår mig Att du vill förstå mig att du är intresserad istället för intressant Det är en skillnad här Om du är närvarande och ger mig det du aldrig mer får tillbaka Din tid då är det en gåva som du har gett till mig Empati är också den sköraste av alla superkrafter För så fort du känner dig förmer än alla andra så fort du lyfter näsan 254 cm då tappar du empati

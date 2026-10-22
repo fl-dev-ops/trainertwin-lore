@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-nonnativeleader-inspir
 likes: 25
 comments: 12
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQF8r3PYubVYqA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1707772140930?e=1793178000&v=beta&t=0JpeRv1uaHNCSa0wBjUL2Dvie3DW9xFrbaYchvL0MOs
+author_comments:
+- 'Watch the full episode here: https://youtu.be/hvk2Xj78thM'
 ---
 
 How Do You Break Free and Become a Fintech Director?
@@ -33,18 +35,3 @@ You don’t want to miss the rest of the story😊 .
  Follow ➡️Daniele
  
   #english #nonnativeleader #inspiration #fintech
-
-## Comments (4)
-
-### Daniel J. Lefebvre ChPC (Vice President Operations - Partner Solid Stride Technology Partners)
-> Bravo David, everytime we step out of our comfort zone we grow. So happy to work with you. Good things coming to you.
-
-### Sidetrade (94,939 followers)
-> Such a great topic! Proud of you, David Bavon, for sharing your knowledge and experience! We're glad to have you with us 🙌
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Looks like another inspiring episode Daniele Ponzo  I agree that language is the door to greater opportunity  🚪✨️
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Watch the full episode here: https://youtu.be/hvk2Xj78thM
-

@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 34 Regularized ERM and MAP Estimate
-
-## Transcript
-
 speaker_1: So the next question is right why should
 this increase bias Now we said that oh
 this kind of uh regularizer

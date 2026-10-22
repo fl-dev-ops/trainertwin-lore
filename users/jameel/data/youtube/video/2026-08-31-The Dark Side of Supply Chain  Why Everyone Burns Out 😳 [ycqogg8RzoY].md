@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Dark Side of Supply Chain: Why Everyone Burns Out 😳
-
-
-## Transcript
-
 speaker_1: The first reality burnout In supply chain burnout looks like this Youre managing a backlog of urgent shipments suppliers are delayed your warehouse is at capacity your finance is asking why costs are up all at the same time You might face pressure to do more with less One day youre coordinating logistics the next day youre doing procurement inventory planning and crisis management The expectations you dont stop You are responsible for keeping products moving costs down and customers happy But here is what they dont tell you Supply chains are fragile One delay in China can throw off your entire quarter One truck breakdown can cost thousands One supplier going bankrupt can create chaos for weeks

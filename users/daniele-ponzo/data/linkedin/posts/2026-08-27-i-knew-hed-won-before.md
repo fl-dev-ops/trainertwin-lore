@@ -86,21 +86,3 @@ Do you still remember the 𝗳𝗶𝗿𝘀𝘁 𝗺𝗲𝗲𝘁𝗶𝗻𝗴 wher
 "I can actually do this in English."
 
 I'd love to hear your story.
-
-## Comments (5)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Confidence often matters more than perfect English. Once you stop translating every sentence in your head, conversations become much easier.
-
-### Daniil Khusnullin (Senior Backend Engineer (Python & Go) | 5+ YOE | Distributed Systems & Highload | AI Integration (RAG, Agents) | Microservices & Cloud Native | AWS | RabbitMQ/Kafka | FastAPI | FinTech)
-> the mental load part is the real shift here. most people think it's about knowing more words or nailing grammar, but you're describing something different, it's about reducing friction so your brain actually has bandwidth to communicate instead of just translating. that first win in a real meeting hits different because it's proof the system works when stakes are up. what does that usually look like for people right before they book in, are they mostly stuck in one type of meeting or does it bleed across all english conversations for them
-
-### Davide Falletta (Scrivi e trasforma il tuo Libro in uno strumento che aumenta Visibilità, Guadagni e Autorevolezza. Non vedo l'ora di parlare del tuo progetto!)
-> The real bottleneck is rarely technical capability, it’s cognitive friction 😅
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> That first successful meeting changes more than confidence. It gives your brain evidence that you can think, respond, and contribute without translating everything perfectly first.
-
-### Nicola Pollock (Executive Communication Coach for Pharma & Medical Managers–Directors (Non-Native English) | Authority, Clarity & Presence in Global Meetings & Presentations | Go to my Featured to learn more about my 1:1 Programmes.)
-> Excellent work both of you!! It's a huge satisfaction when clients feel that win.  👏
-

@@ -13,9 +13,3 @@ Boktips! För dig som vill ha en engagerande arbetsplats. Riktigt bra!
 This is one of the best books I've read when it comes to employee engagement! 
 
 #leadership #ledarskap
-
-## Comments (1)
-
-### Daniel Karlsson, PhD (AI för projektledare & chefer ♦ Från AI-experiment till fungerande arbetssätt ♦ Föreläsare, kursledare & rådgivare inom AI sedan 2023 ♦ 20+ års erfarenhet från tech, life science & IT ♦ Medgrundare Tokstark)
-> Tack för tipset! Boken fans som ljudbok också👍
-

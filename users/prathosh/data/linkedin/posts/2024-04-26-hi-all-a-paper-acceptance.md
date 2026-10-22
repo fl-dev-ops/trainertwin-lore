@@ -23,7 +23,3 @@ Imagine achieving 95% classification accuracy by only using 10 (synthetically ge
 Details in the preprint for interested readers - https://lnkd.in/gEZTWXtg
 
 Congratulations to my PhD students - Piyush Tiwari and Shubham Kumar for the work.
-
-### Shared Article: [Constructing Bayesian Pseudo-Coresets using Contrastive Divergence](https://arxiv.org/abs/2303.11278)
-> arxiv.org
-

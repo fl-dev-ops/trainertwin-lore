@@ -9,9 +9,3 @@ comments: 1
 Jag hoppas att ni alla hittar era digitala guldkorn som hjälper både dig och och kunden framåt ^_^
 
 #digitalakundmöten #försäljning #kommunikation
-
-## Comments (1)
-
-### Mindit - the House of Sales & Leadership (1,620 followers)
-> Så bra! ⭐️
-

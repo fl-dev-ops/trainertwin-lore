@@ -33,9 +33,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Your Strategy Gets Lost in Communication
-
-## Transcript
-
 speaker_1: I sometimes played the whispering game with my friends So I whispered something in the ear of my friend and then that person sent it forward to the next person and the next person and the next person And finally the last person recites what I said Have you ever played that game Have you ever experienced that the last person recites you perfectly I have never because transmission get lost in translation And this is exactly the same thing that happens in organizations today Lets say that you are working on your strategy your five year strategy or your one year plan or the next quarterly goals and so on And youre really good at it I mean this is its a solid strategy for instance And now that has to be communicated So the top level C suite they communicate it to their executives the executives to their directors directors to managers managers to team members for instance And it doesnt really work

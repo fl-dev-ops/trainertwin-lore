@@ -10,9 +10,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/v2/C4D05AQHYGJI5CAGF7g/mp4-720p-30f
 Management by seagulls?
 
 Being in beautiful Rovinj, Croatia, I saw some seagulls and started to think about poor leadership…
-
-## Comments (1)
-
-### Pilar Cabral Majerović, PCC, ECPC (Executive & Team Coach | Leadership Facilitator for International Teams | ORSC & Systemic Coaching | English, French & Croatian | Europe & APAC)
-> That was a cool metaphor, spot on😃. I really enjoyed your talk Antoni Lacinai
-

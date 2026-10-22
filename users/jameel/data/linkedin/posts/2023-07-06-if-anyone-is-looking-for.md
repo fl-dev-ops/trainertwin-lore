@@ -11,7 +11,3 @@ article:
 ---
 
 If anyone is looking for a field sales role in Northern Ontario we have an opening! Great line manager and a great team to work on with a great mix of experience levels.
-
-### Shared Article: [Territory Sales Representative (SPT) - Northern Ontario](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Greater-Toronto-Area-GTA/Territory-Sales-Representative--SPT----Northern-Ontario_R67868)
-> mars.wd3.myworkdayjobs.com
-

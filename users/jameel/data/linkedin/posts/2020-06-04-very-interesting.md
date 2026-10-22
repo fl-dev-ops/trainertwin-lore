@@ -11,7 +11,3 @@ article:
 ---
 
 Very interesting...
-
-### Shared Article: [Unexpected Impacts of Work-from-Home](https://www.linkedin.com/pulse/unexpected-impacts-work-from-home-yossi-sheffi?trackingId=HPO7ODo0Fkj1k%2F7mjtuoPQ%3D%3D)
-> Yossi Sheffi
-

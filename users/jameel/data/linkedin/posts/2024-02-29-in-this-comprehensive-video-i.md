@@ -20,7 +20,3 @@ Don't miss out on this valuable resource for advancing your career! Check out th
 #ResumeTips #CoverLetterHacks #JobSearchSuccess #CareerAdvice #ChatGPT #DreamJob #ResumeCustomization #JobApplicationTips #CareerDevelopment #ChatGPTTutorial #LinkedInLearning #ProfessionalDevelopment #JobHuntingStrategies #AIResumeBuilder #JobApplicationInsights
 
 https://lnkd.in/giZGqFwB
-
-### Shared Article: [How to Create a Resume & Cover Letter Using CHAT GPT - 5 Easy Steps!](https://youtu.be/4EnwQwXm28s?si=xT1tteTZTJM15WEq)
-> youtube.com
-

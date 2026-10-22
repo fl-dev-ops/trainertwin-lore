@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 9 - Deep Generative Models Variational Auto Encoders
-
-## Transcript
-
 speaker_1: or something
 
 

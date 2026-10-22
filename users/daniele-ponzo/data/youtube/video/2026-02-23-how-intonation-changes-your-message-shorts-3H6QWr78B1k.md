@@ -31,9 +31,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How Intonation Changes Your Message #shorts
-
-## Transcript
-
 speaker_1: because I need to influence and how do I I influence through intonation So work on the intonation Do you want me to I dont know do I need to write documentation Thats another skill altogether okay Do you want me to negotiate So do I need to go to the client and negotiate So I need to learn how to present how to speak up in public how to master the art of negotiation

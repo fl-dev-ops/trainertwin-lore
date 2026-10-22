@@ -14,12 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Don’t Get an MBA Until You Watch This!
-
-
-## Transcript
-
 speaker_1: Yeah the demand for supply chain talent has exploded over the past decade These numbers tell the story 10 years ago there were a little over 1 point 1 million supply chain jobs in the US In 2016 there are 1 point 6 million jobs in the US So thats about a 4 percent growth year over year What sets this program apart is everything layered on top of that
 
 

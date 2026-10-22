@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Supply Chain IT Managers Make OVER $200K 😱 (WMS, ERP, OMS Goldmine!)
-
-
-## Transcript
-
 speaker_1: And on number two Ive got the supply chain systems or IT manager job This is a very specialized job and typically these jobs are not filled by people who belong to core supply chain but these are jobs which are filled by people who are primarily from the IT industry but they have got experience of implementing warehouse management systems order management systems or enterprise resource planning systems ERPs and so on In this particular job because its a very specialized job the entry level salary could be starting from hundred to hundred and twenty thousand dollars mid level could be between hundred and twenty and fifty and the senior level you could be making north of two hundred thousand dollars because its not very easy to find people who are IT professionals but at the same time they have got a very good understanding of supply chain as well

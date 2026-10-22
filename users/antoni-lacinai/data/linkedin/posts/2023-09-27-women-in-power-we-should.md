@@ -10,24 +10,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E05AQFiQ5-gd6HcFg/feedshare-am
 Women in power. 
 
 We should have many many more women in power. That’s what I think.
-
-## Comments (6)
-
-### David 📲 Eriksson (.NET, Nordray)
-> I totally agree Antoni!
-
-### Johanna Donker (Senior Coach och Verksamhetsledare | Leder genom tillit, tydlighet och lagfokus | Stark i förändring och osäkerhet)
-> Jag visste att du skulle leverera Antoni (igen)!🤗🙌🏼🌟
-
-### John Wibrand (Digitalization | Innovation | Sustainability | AI | IoT | Proptech)
-> 💯
-
-### Caroline Mohr Global Keynote Speaker on Mindset (Speaker ⭐️ Inspiring organisations to get resilient through change ⭐️ Cert. NLP Trainer ⭐️ Ambassador Star For Life & HSH Princess Charlene ⭐️ Former Golf Pro)
-> Yes Yes Yes!!
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> 🙌🏼🙌🏼🙌🏼
-
-### Julia Olin (Gratis säjwebinar för företagare 21 & 23 oktober 🔥)
-> Love it! There are certainly room for more women in power, and all in all better prepared and more empathetic leaders.
-

@@ -37,11 +37,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# LAUGH and the World Laughs with you | The Non-Native Leader | Episode 15
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to another episode of the non native leader a video podcast series where we explore stories and lives of people who are leaders in their industries uh and they have one thing in common they were not born in an English speaking country So if you follow this series youve seen we spoke to uh NGO leaders to uh people working in academia universities Fintech leaders IT software engineers and every time we talk about their challenges their stories their lives their rewards their successes And so very welcome and Im happy today to have here with me Matteo Giusti and whos a great friend of mine Hi Matteo Great to see you And Matteos got a an interesting a compelling story uh because its going uh in a way you know uh reverse compared to other people Uh like today theres a hype working in IT uh software and uh computer sciences and thats where it started but you know todays doing something completely different and I dont want to spoil it as usual so Id love uh for Matteo to give us a bit of an introduction on what he does where he is Uh yeah so Matteo tell us about yourself
 
 speaker_2: Yes So I I did take the opposite route uh and uh I was uh I was born I started my career in computer science I I had a bachelor in computer science I started a master in computer science and then after a few years uh also working as a as a programmer and working in IT industry I kind of realized that I didnt want to speak to computers for the rest of my life I didnt want to to resolve these Sudokus these very simple problems I needed a bigger problem to tackle I needed a bigger problem to address And I started studying sustainability science And and I did a master I did my PhD my postdoc and now I am a researcher uh in sustainability science at the University of Surrey And uh its been a big career change Uh a lot uh a lot has changed and uh especially my ability to to speak and write and communicate and discuss academic topic in English thats been yes surely a major change in my life

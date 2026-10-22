@@ -26,17 +26,3 @@ But is workplace slacking really a new phenomenon? Not at all; it has existed th
 So, by all means, create opportunities for spontaneous meetings. Enjoy coffee. Chat about anything and everything. But also rewards collaboration, self-leadership, tasks completed, and shared goals.
 
 Thank you for reading my mind.
-
-## Comments (3)
-
-### Erik Rosén (Retired but not tired, try me with an offer I can't refuse!)
-> Från anekdot till verkligheten, det fanns på riktigt en postkille på Ericsson på 80-talet som åkte omkring med ett brunt internkuvert mellan de olika Ericsson kontoren. Han låtsades att han hade inte tid att prata för han hade en viktigt brev som han behövde leverera på något annat kontor! 👍🏼 😉
-
-### Per E Claesson (Senior consultant (Freelance))
-> To ”Örna in” at Your colleagues in the Office , to catch up is 
-> ofcourse important if You ”home-working” some days every week. Maybe more important than cope and deliver Your tasks on-time to Your boss. If Your boss got a problem with that => just say; ”Well, it was’nt my suggestion to start the opportunity with home-working.”
-> Remember the company that took the decision to place a RankXerox in every co-workers Office to gain more/higher efficiency => disaster! Why ..? Because all informell communication were lost…”
-
-### Thomas Otnes (Product developer and engineer)
-> This topic is similar to the question of how do we sell experience as insights and knowledge instead of experience as a matter of time.
-

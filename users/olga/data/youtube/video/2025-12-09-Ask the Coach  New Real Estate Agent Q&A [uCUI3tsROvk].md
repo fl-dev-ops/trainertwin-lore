@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Ask the Coach: New Real Estate Agent Q&A
-
-## Transcript
-
 speaker_1: So you see Ive done nothing
 
 speaker_2: Yeah yeah yeah yeah

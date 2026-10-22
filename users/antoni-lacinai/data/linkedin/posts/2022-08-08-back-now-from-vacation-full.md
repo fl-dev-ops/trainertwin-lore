@@ -13,7 +13,3 @@ article:
 Back now from vacation? Full speed ahead?
 
 Here is an 8-minute interview of how you can be smart when you are back at the office, or right before you start again
-
-### Shared Article: [Så får du en positiv start på hösten](https://buff.ly/3oDZqtF)
-> tv4.se
-

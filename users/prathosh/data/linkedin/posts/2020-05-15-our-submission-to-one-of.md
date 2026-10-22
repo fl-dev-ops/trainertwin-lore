@@ -10,6 +10,3 @@ document:
 
 Our submission to one of the top conferences in AI/ML - Conference on Uncertainty in Artificial Intelligence (UAI), got accepted. In this work we propose a new estimator for conditional mutual information based on the Donsker-Varadhan bounds represented using a min-max formulation like a GAN. (Paper attached).  Work done at IIT Delhi. #iitd
 #ai #machineintelligence #machinelearning
-
-### Shared Document: [CMIGAN ]()
-

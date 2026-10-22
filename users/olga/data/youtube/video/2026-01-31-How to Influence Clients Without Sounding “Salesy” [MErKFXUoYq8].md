@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How to Influence Clients Without Sounding “Salesy”
-
-## Transcript
-
 speaker_1: For you to be able to influence someone to convince himself right Because we influence people and while were influencing theyre convincing themselves We have to understand ins and outs A to Z the problem that they have the clients right How this problem are affecting them what the consequences of them not solving the problem If hes not gonna get his first investment whats gonna happen then And if you dont know then you dont know which answers you will expect from him when you ask him right questions

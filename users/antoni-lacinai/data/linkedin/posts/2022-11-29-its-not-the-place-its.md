@@ -13,15 +13,3 @@ It's not even the people, it's the boss
 Here is a story of one of my heroes Martina Breitenstein-Toivonen and someone I bring up in many of my keynotes. Who is your hero?
 
 #leadership #communication #engagement
-
-## Comments (2)
-
-### Pelle Leek (Delighted to help you enhancing your product by adding global connectivity!)
-> It's all about the coffee machine...! 😉
-> I fully agree - during my "career", a handfull of constellations of people have been extraordinary "harmonized" (probably because of the opposite - we were rather all very different, "completing" each other), and you felt part of something big; like a great family of all very popular members.
-> Actually, I am fortunate enough to be quite involved in one of these "communities" right now - I simply l❤️ve my work(ing partners)!
-
-### Thomas Frenning (Framgångscoachen)
-> Bra där Antoni!
-> Och affärer görs inte upp mellan företag. Affärer görs upp mellan människorna i företagen.
-

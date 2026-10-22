@@ -27,11 +27,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# English for IT Professionals: Start Speaking & Boost Soft Skills | Watch the Live Webinar 👇
-
-## Transcript
-
 speaker_1: A action So there is no learning without action okay So how do you learn Well you put yourself out there There is no other way And sometimes you have opportunities to do it at work A meeting a presentation But there are strategies you can use also on your own So you can uh rehearse a presentation and get you know uh record yourself for example And find someone to share this with you know Like nowadays we all send voice messages for example through WhatsApp Why dont we use that for getting into action you know before an important event
 
 speaker_2: Sure

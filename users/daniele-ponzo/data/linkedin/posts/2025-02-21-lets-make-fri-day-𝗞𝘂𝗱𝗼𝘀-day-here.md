@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_lets-make-fri-day-%F0%9D%97%9E
 likes: 44
 comments: 19
 images_count: 1
+author_comments:
+- |-
+  ➡️ What's the main communication problem for Professionals?
+  https://www.linkedin.com/posts/daniele-ponzo_you-know-improving-your-english-will-boost-activity-7298233934008512514-j67F
+- "➡️ My HACK strategy really helped me in the past. And it’s the same strategy I now use with my clients\n\n \U0001F157 \U0001D407\U0001D428\U0001D427\U0001D41E: Refine vocabulary in context to sound more professional \n(Phrasal verbs, idioms, business expressions).\n  \nReflecting on the language after seeing it (or hearing it) in context helped me expand my vocabulary and gradually become more confident.\n\n \U0001F150 \U0001D400\U0001D41C\U0001D42D\U0001D422\U0001D428\U0001D427: Presentations, meetings, calls… every interaction is a chance to learn and grow.\n\nI started small. Then I raised my hand in one of your team meetings to share my view. And I realized nobody was perfect (not even native English speakers). \n \n \U0001F152 \U0001D402\U0001D428\U0001D425\U0001D425\U0001D41A\U0001D41B\U0001D428\U0001D42B\U0001D41A\U0001D42D\U0001D422\U0001D428\U0001D427: Create a strong network with your peers, exchange ideas and feedback.\n\nPeers helped me get a fresh view on my struggles without feeling judged. Mentors gave me the opportunity to level up my game.\n \n \U0001F15A \U0001D40A\U0001D42E\U0001D41D\U0001D428\U0001D42C: Celebrate effort to keep momentum, boost morale and monitor progress.\n\nCelebrating small wins helped me overcome fear and stay consistent in my learning journey. Not so much about certificates and diploma, but more about a successful presentation, a rewarding phone call, a productive 1:1 with my manager."
 ---
 
 Let’s make Fri-Day 𝗞𝘂𝗱𝗼𝘀-Day!🥳
@@ -49,54 +54,3 @@ And the right support
 What has been the highlight of your week?
 
 I’d love to deal some more kudos 😊
-
-## Comments (10)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ What's the main communication problem for Professionals?
-> https://www.linkedin.com/posts/daniele-ponzo_you-know-improving-your-english-will-boost-activity-7298233934008512514-j67F
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Kudos to you Daniele for making such a difference in your clients' outlooks. 💪
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Love this! 👏 Celebrating progress is so important for building confidence. Kudos to everyone pushing their limits and growing! 😊
-
-### Harit Bhasin (Leadership & Career Coach • AI Head Product Management • Helping tech leaders get promoted with influence & presence • Follow for leadership & career growth tips. Views are personal.)
-> The right mindset and support can make all the difference.
-
-### Donna Maravillas (CELTA & TEFL Certified English Language Teacher, Speaking Examiner, Writer of two English Activity books for children, a Teacher Volunteer at Yazidi@School)
-> Excellent idea!
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> I got my "biggest" (super high-profile in their field) client from LinkedIn. Extremely humbling Daniele Ponzo. And they only once engaged with my posts...
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Let's use a blend and make it a Kuday 🤓😎
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> This is a great idea💡, Daniele. More Kudos to You.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> kudos to you, Daniele!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ My HACK strategy really helped me in the past. And it’s the same strategy I now use with my clients
-> 
->  🅗 𝐇𝐨𝐧𝐞: Refine vocabulary in context to sound more professional 
-> (Phrasal verbs, idioms, business expressions).
->   
-> Reflecting on the language after seeing it (or hearing it) in context helped me expand my vocabulary and gradually become more confident.
-> 
->  🅐 𝐀𝐜𝐭𝐢𝐨𝐧: Presentations, meetings, calls… every interaction is a chance to learn and grow.
-> 
-> I started small. Then I raised my hand in one of your team meetings to share my view. And I realized nobody was perfect (not even native English speakers). 
->  
->  🅒 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Create a strong network with your peers, exchange ideas and feedback.
-> 
-> Peers helped me get a fresh view on my struggles without feeling judged. Mentors gave me the opportunity to level up my game.
->  
->  🅚 𝐊𝐮𝐝𝐨𝐬: Celebrate effort to keep momentum, boost morale and monitor progress.
-> 
-> Celebrating small wins helped me overcome fear and stay consistent in my learning journey. Not so much about certificates and diploma, but more about a successful presentation, a rewarding phone call, a productive 1:1 with my manager.
-

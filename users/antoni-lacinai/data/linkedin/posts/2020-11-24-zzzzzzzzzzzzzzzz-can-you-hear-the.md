@@ -18,16 +18,3 @@ With these simple tips you will be better than 90% of your typical office worker
 Go4it!
 
 #PowerPoint #communication #presentation
-
-### Shared Article: [PowerPoint for dummies](https://buff.ly/3nryWc6)
-> buff.ly
-
-
-## Comments (2)
-
-### Jørgen Koch (Microsoft Power BI & Office Enthusiast (SME), Educational Writer and Microsoft Certified Trainer, XO/HFK, former Airline Pilot and Flight Instructor (ATPL/SFI))
-> Please please please stop sharing video with bad sound ;-)
-
-### Dean Wilson (CEO at Rehngruppen)
-> Great inspiration, couldn´t agree more Antoni Lacinai! I can highly recommend checking out PowerPoints morph transition too. We can´t get enough of it ;)
-

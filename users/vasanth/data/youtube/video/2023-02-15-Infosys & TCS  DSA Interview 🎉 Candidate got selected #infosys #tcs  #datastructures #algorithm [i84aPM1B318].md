@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Infosys & TCS  DSA Interview 🎉 Candidate got selected #infosys #tcs  #datastructures #algorithm
-
-
-## Transcript
-
 speaker_1: Yeah hello all Welcome back to Uncommon Geeks I think you all know my name is Vasanth So this is a part this is a series where we are running and where Im taking a lot of freshers interviews And today with me we have Sushil and more about Sushil he will only be telling you all But particularly today we will be discussing a DSA round How a fresher DSA round will happen what sort of questions will be asked in product and service based company All of that we are going to discuss in this particular mock interview Welcome Sushil Thanks for accepting the invite and coming
 
 speaker_2: Would you say

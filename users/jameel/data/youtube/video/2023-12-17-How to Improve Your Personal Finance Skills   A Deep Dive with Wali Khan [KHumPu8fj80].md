@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Improve Your Personal Finance Skills?  A Deep Dive with Wali Khan
-
-
-## Transcript
-
 speaker_1: 78 percent of Americans like to live paycheck by paycheck right One in four workers never have anything saved at the end of each month
 
 speaker_2: But what we can do as as lets say adults that we can teach our kids very in in subtle manners that they can understand this concept The first and foremost is the trace and track So that that is the utmost important thing regardless of whatever income you have you must have the trace and track system in place and that is very easy as well Ive made several videos about this I call this as borrowed intelligence if lets say I talk about Robert Kiyosaki I talked about

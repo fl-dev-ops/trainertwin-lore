@@ -31,11 +31,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Cultural Differences Nobody Warns You About #shorts
-
-## Transcript
-
 speaker_1: And one kind of uh one uh another example is your service providers like for women your hair stylist your manicure doctors right
 
 speaker_2: Yeah

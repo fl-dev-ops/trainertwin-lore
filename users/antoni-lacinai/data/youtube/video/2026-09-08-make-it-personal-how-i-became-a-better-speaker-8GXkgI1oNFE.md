@@ -17,11 +17,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# "Make it Personal" - How I Became a Better Speaker
-
-## Transcript
-
 speaker_1: Make it personal You know everything about Sweden I heard it Good You forgot Björn Borg and Abba otherwise you were home free I think
 
 

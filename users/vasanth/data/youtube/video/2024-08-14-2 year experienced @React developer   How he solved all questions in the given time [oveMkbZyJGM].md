@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 2 year experienced @React developer | How he solved all questions in the given time
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Carroted with Wason YouTube channel My name is Bhavna I hope you all are doing well So this is a series as you all know we will be doing a lot of mock interviews Today with me I have Chandrasekhar So Chandrasekhar is a two year experience of front end developer Right now he is working for Decathlon So this interview is going to be
 
 speaker_2: on various topics we would be starting with a scenario driven question followed by basics of javascript then basics of react theres a lot of things to learn so please watch the video till the end in case if channel checker do not answer certain questions properly at the end im going to give answers to those others so please watch the video till the end channel checker if you can introduce yourself we can get started

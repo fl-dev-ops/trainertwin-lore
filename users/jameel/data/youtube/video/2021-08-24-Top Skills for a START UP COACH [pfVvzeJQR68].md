@@ -13,12 +13,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Top Skills for a START UP COACH
-
-
-## Transcript
-
 speaker_1: So in this video I spoke to Raheel Bodla who is a startup and success coach based out of California Raheel studied business management at Harvard and then went over to MIT where he did his masters and was then hired by Tesla where he worked on the Model X line He then went ahead and started his own consulting business where he has so far provided success coaching to a wide variety of companies across Asia Middle East and North America and has helped business grow by as much as four times their original size
 
 

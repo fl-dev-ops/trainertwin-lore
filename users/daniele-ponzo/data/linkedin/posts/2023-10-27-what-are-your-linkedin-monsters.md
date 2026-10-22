@@ -32,22 +32,3 @@ I would like to thank Maria Letizia Russo for inspiring me with her "#LinkedinHo
 P.S. Happy halloween everybody!
 
 #linkedinjourney #halloween2023 #monsters
-
-## Comments (5)
-
-### Erryn A. (Founder & Director, Arkin Media | CMO advisory, executive production & digital campaign strategy | ex-Apple, 7 Network)
-> Perfectly explained! Spooky af 👻
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Excellent. Made me laugh Daniele Ponzo as it’s so true
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Perfect post for Halloween monsters on Linkedin!
-
-### Aleksandr Valuev (Senior AI Product Manager | AI/ML & Agentic Systems | 12 years: MedTech, FinTech, E-commerce | 0-to-1 Builder | Product Strategy & Roadmaps)
-> Daniele Ponzo
-> Every time my LinkedIn dings with a spam message, I feel like it's Ghostface asking, 'What's your favorite certification?'
-
-### Fabio Sverzelati (Mechanical Engineer (Politecnico di Milano) | Global Key Accounts & International B2B Sales | Industrial Machinery, Packaging & Capital Equipment | English & Italian | Europe & Asia)
-> Daniele Ponzo loved this. I would say that my favourite is the clown, there are too many in Linkedin and in the real world
-

@@ -108,20 +108,3 @@ Looking back at your career, what has been harder?
 
 Building the solution...
 or helping other people understand why it was the right one?
-
-## Comments (4)
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> This is so true. Business rarely pays for technical complexity. It pays for outcomes.
-
-### Davy Shi 💡🚀🌎 (Founder | Managing Director | MBA, China Supply Chain Management, dedicated to delivering global consumer goods solutions and sourcing services. 🌎)
-> Technical expertise creates the solution, but communication and business context are what turn that expertise into real impact. 💡🤝 Daniele Ponzo
-
-### Maddy G. (Executive Search Partner | Helping Companies Build Teams in Singapore with clarity and conviction|)
-> Daniele Ponzo What stood out to me is the point about trade-offs. Business decisions are rarely about finding a technically perfect answer. They are usually about balancing cost, timing, risk, customer needs and long-term value.
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> Daniele Ponzo I have found business context often changes technical decisions. 
-> 
-> Clear trade-offs help people trust the solution faster.
-

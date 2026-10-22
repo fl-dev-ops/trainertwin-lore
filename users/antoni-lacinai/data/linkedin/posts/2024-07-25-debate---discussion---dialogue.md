@@ -34,9 +34,3 @@ Share your thoughts and experiences below! Let's learn and grow together.
 𝗟𝗲𝘀𝘀 𝗱𝗲𝗯𝗮𝘁𝗲. 𝗠𝗼𝗿𝗲 𝗱𝗶𝗰𝘂𝘀𝘀𝗶𝗼𝗻𝘀. 𝗘𝘃𝗲𝗻 𝗺𝗼𝗿𝗲 𝗱𝗶𝗮𝗹𝗼𝗴𝘂𝗲
 
 You got this!
-
-## Comments (1)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Great reminder to keep "collaborative dialogue" open 👏
-

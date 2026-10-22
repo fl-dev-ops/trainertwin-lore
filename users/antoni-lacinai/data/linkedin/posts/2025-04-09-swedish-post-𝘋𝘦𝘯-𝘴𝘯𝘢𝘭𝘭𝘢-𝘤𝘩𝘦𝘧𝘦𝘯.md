@@ -20,13 +20,3 @@ Läs gärna mina tankar du med och berätta om du håller med
 ^_^
 
 https://lnkd.in/dUR9m9aR
-
-### Shared Article: [”Den värsta chefen är den snälla chefen!” - Aktuellt - HRnytt](https://hrnytt.se/aktuellt/den-varsta-chefen-ar-den-snalla-chefen/)
-> hrnytt.se
-
-
-## Comments (1)
-
-### Ann-Sofie Brohm (💜I empower consultants and knowledge-intensive firms to use generative AI to enhance analysis, streamline content, and drive business growth)
-> Jag håller med 💯
-

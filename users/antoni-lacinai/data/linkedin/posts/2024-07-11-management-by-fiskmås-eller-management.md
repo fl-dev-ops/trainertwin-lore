@@ -32,14 +32,3 @@ Så tycker jag. Vad tycker du?
 PS. LinkedIn hatar länkar i inlägg så jag vet inte om detta når en enda människa. Men om du tycker att tankarna är värda att dela så skriv en reflektion eller dela vidare)
 
 Skrivet av mig, inte AI
-
-### Shared Article: [Management by fiskmås - Ledarskap - HRnytt](https://hrnytt.se/ledarskap/management-by-fiskmas/)
-> hrnytt.se
-
-
-## Comments (1)
-
-### Filippa Dietmann (I help CEOs, boards and leadership teams navigate complexity so they can lead lasting transformation ♦ Strategic partner ♦ ICF MCC certified coach ♦ Board member ♦)
-> Vilka bra liknelser! Nej fiskmåsar skapar bara osäkerhet, rädsla och frustration. ”När dyker hen ner nästa gång och vad ska hända då? ”
-> Fler ankmammor som kärleksfullt pushar 🤗
-

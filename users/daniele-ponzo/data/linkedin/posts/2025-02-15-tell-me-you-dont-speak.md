@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_tell-me-you-dont-speak-english
 likes: 46
 comments: 15
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQF_HpmjlmRgew/CeJxzMnGJCnVz1EsJ9PB0ytbVcULm56PxTdD4BroAKiURDw?e=1793178000&v=beta&t=zcf3L76JEl-WKvdbyD8u571X57OrZbqVsmUzrsmtMZM
+author_comments:
+- Love this 🤣🤣
+- 'On the other hand, Italian might sound like this:'
 ---
 
 Tell me you don’t speak English…
@@ -95,30 +98,3 @@ P.P.S. Let's be honest... we have all invented lyrics mimicking English songs. S
 
 Video credit: RAI, 1973
 Lyrics credit (fair play to him!): "Galleria della Canzone"
-
-## Comments (8)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Disiz ari leegud vi deeoh. 🤔🙄😂 Love it and point well made
-
-### Andre Salles (CELTA Qualified Private Teacher|Business English|General English|Interactive Activities for English Teachers)
-> This video is a masterpiece. I can only think of all the effort they had to put together to make everything look so natural and smooth. And the song is addictive, which probably comes to prove that once the melody grabs you it does not really matter what the lyrics say.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Love this 🤣🤣
-
-### Sama Alkhalili (Customer Success & Client Retention Specialist | Executive Communication & Enablement | 10+ Years Building Retention & Onboarding Programs | EN·AR·FR·IT)
-> Only Adriano Celentano could turn pure gibberish into a hit. The best part? Somehow, it feels like real English! 😂
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> this is such a fun take on how English sounds to non-speakers!
-
-### Jordan Kruk (Hired 50+ People. In Business Since 2018.)
-> Daniele Ponzo
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> This song is a masterpiece! 😂 Sounds like English, but means absolutely nothing, yet somehow, it works! 🎶🔥
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> On the other hand, Italian might sound like this:
-

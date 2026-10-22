@@ -17,16 +17,3 @@ Ja det kan du 😃
 Lycka till med dina kundmöten
 
 #kommunikation #kundmöte #försäljning
-
-### Shared Article: [Veta Visa Våga](https://bit.ly/34hzsD2)
-> bit.ly
-
-
-## Comments (2)
-
-### Helen Crowe Blomgren (Medlemsinformatör / Membership Recruitment at Företagarna | Swedish Federation of Business Owners)
-> Bra och pedagogisk!
-
-### Gunnar Söderberg (Föreläser om kul på jobbet | Utbildar i ledarskap & arbetsmiljö | Speldesigner inom ledarskap.)
-> Bra snabbt summerat, själv har jag nog brukat ta minst fem minuter på att säga samma sak med symboler som elefanter och krokodiler ;-) Föredömligt enkelt gjort med grafen!
-

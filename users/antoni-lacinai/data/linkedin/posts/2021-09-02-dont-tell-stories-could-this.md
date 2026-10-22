@@ -19,16 +19,3 @@ Take a look and see if you agree ^_^
 #communication #PSASA #Storytelling
  I had the honor of speaking to fellow professional speakers in South Africa about the power of Storytelling, and the article they wrote afterwards summarizes my message pretty well.  
 Thank you my South African friends for inviting me!
-
-### Shared Article: [Don’t tell stories | PSA Southern Africa](https://buff.ly/3ySix6F)
-> buff.ly
-
-
-## Comments (2)
-
-### Anna-Karin Lingham (Interim Marketing Manager * Branding expert * Speaker * Mentor * Your guide to a stronger corporate, personal or ambassador brand.)
-> I love a good story and fancy good storytellers. Your advice about bringing emotion into the stories makes all the difference. Thank you for great insights!
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Thank you for sharing, Antoni. That's excellent advice, if you ask me!
-

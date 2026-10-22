@@ -19,15 +19,3 @@ Thank you, dear friends and colleagues! You rock!
 Happy #ProfessionalSpeakersCelebrationDay
 
 🥳🥳🥳🥳🥳
-
-## Comments (3)
-
-### Elise Slotte (Concierge tours and relocation help in Portugal.)
-> Whohooo for us😍
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Kryddan! Hipp hipp hurra för oss! Jag gick in i min "referensmapp" och känner wow vilket ynnest att få leva med sitt mission och kunna dela sina kunskaper till andra. Ett tips till alla andra föreläsare att göra när vi tvivlar på oss själva.
-
-### Alicia Espinosa (★ Leadership from Within ★ From Knowing to Doing | Self-Leadership • Self-Leadership • Safety Culture • Leadership Coach • Speaker ★ Public Speaker (Spanish, Swedish, English) ★ TEDx Speaker)
-> Congratulations!
-

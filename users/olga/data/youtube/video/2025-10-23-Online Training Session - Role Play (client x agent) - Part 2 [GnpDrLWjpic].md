@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# Online Training Session - Role Play (client x agent) - Part 2
-
-## Transcript
-
 speaker_1: Okay so Im asking you one more person can role play Who wants to role play Chitish were gonna jump on Fantastic
 
 speaker_2: Lets go

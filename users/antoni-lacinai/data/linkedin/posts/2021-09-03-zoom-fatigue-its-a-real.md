@@ -15,7 +15,3 @@ Zoom fatigue. It's a real thing. (English subtext on this video)
 Digitala möten är utmattande. Här är varför
 
 #digitalamöten #ledarskap #kommunikation
-
-### Shared Article: [Digitala möten. Digital meetings: Zoom fatigue](https://buff.ly/3j4W2Ga)
-> buff.ly
-

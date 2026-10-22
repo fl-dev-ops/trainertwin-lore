@@ -5,6 +5,16 @@ url: https://www.linkedin.com/posts/daniele-ponzo_your-brain-is-running-at-100-b
 likes: 30
 comments: 11
 images_count: 1
+author_comments:
+- |-
+  If this topic resonates with you, here are the details 👇
+
+  🔵 Join on LinkedIn (interactive event): https://www.linkedin.com/events/7439584728418140160
+
+  🔴 Watch live on YouTube: https://www.youtube.com/live/OVy_uyh-yuo
+
+  Bring your questions. Bring your real-life meeting stories. Bring the moments where your brain was fast… but your English wasn’t.
+  Let’s make them lighter.
 ---
 
 Your brain is running at 100%.
@@ -94,36 +104,3 @@ This one’s for you.
 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗹𝗶𝘃𝗲 + 𝗬𝗼𝘂𝘁𝘂𝗯𝗲
 
 👉 Link in the comments.
-
-## Comments (7)
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> AI can write code, but clear communication, context, and trust remain human superpowers.  Daniele Ponzo
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great analogy about buffering! I can just see the circle spinning round 🔄
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> AI can do a lot but the human touch is irreplaceable. Daniele Ponzo
-
-### Tuba Kizilkan (Digital-Leadership-Studentin in Berlin | Business-English- & Kommunikationstrainerin | Bildungsinnovation, KI-Kompetenz & Projektkoordination | XMind Ambassador)
-> This captures a critical shift perfectly, because in the AI era technical skill may get you into the room, but clarity, confidence, and human communication are what will keep you valuable inside it.
-
-### Gertraud Bacher (Managing Director at ASAP Italia | I help CEOs and Top Leaders transform people’s potential into concrete business results)
-> I highly appreciate what you write Daniele! It's so ture!In the age of AI, what sets us apart is no longer what we know, but how we connect. Paradoxically, as communication becomes more critical, we’re getting worse at it—simply because we train it less.
-> Our real competitive edge is profoundly human: listening with intent, speaking with clarity, and building genuine connection.
-> And like any edge, it must be trained.
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Best of luck with the event 😁
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If this topic resonates with you, here are the details 👇
-> 
-> 🔵 Join on LinkedIn (interactive event): https://www.linkedin.com/events/7439584728418140160
-> 
-> 🔴 Watch live on YouTube: https://www.youtube.com/live/OVy_uyh-yuo
-> 
-> Bring your questions. Bring your real-life meeting stories. Bring the moments where your brain was fast… but your English wasn’t.
-> Let’s make them lighter.
-

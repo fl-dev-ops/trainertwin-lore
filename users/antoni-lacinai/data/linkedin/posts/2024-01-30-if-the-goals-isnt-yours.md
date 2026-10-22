@@ -38,14 +38,3 @@ If the goals isn’t yours : Who’s is it?
 
 
 PS - have you set your goals for 2024 yet?
-
-## Comments (2)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Tack för bra inlägg!
-
-### Md. Safiullah (Helping Marketing Agencies Deliver Client-Winning Visuals |  Trusted by 400+ Clients | Hit Every Deadline. DM to Get Started.)
-> find your tiny steps and start today 
-> 
-> Antoni Lacinai
-

@@ -70,11 +70,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Overcome Fear | International Career | The Non-Native Leader | Episode 3
-
-## Transcript
-
 speaker_1: And hi everybody and welcome to another episode of the non native leader podcast video podcast series where we try to answer the question can you have an international career even though you are not born in an English speaking country And as you know every week we speak to amazing individuals and they tell us their stories they share their uh their stories their careers they share how they have achieved what they have achieved And hopefully we get some insights and some inspiration and and this is why we talk to people from diverse background and different stories different biographies And so that we hope we can inspire as many people as possible Um today Im here with Stefano Stefano Pappalardo Um hi Stefano And I am Im quite happy to be talking to Stefano today because uh actually uh he has some interesting insights because he started in IT then he worked on sales and today is having a completely different career into marketing and social media management I dont want to tell too much because you know Im sure Stefano can do that much better than I can And so I yeah Stefano Id like to you know pass the ball to you and like whatever you want to share on you know what you do who you are uh I think itd be interesting for for everybody
 
 speaker_2: Okay Cool thanks Uh so yeah hi my name is Stefano Uh Ive been in Ireland for 18 years at this stage uh in Dublin Uh and at the moment I work for GCN which is Gay Community News so Irelands uh LGBTQ plus National Media And uh were based in Dublin um and uh my current role is Head of Digital Marketing and Development So essentially what we do for GCN um as I said is Irelands queer media Uh Im in charge of anything thats uh online So that includes managing the website the content of the website social media uh and then all the marketing elements so essentially promoting all the cool stuff that we do from the magazine uh which goes out by monthly to any campaign any event uh because as well as having a magazine and a news site we also run uh fundraising events uh because uh GCN is part of our non for profit uh charity essentially So yeah thats kind of like my job in a nutshell

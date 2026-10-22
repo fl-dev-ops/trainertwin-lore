@@ -73,28 +73,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️Daniele
  
  #english #itprofessionals #jobinterviews #jobinterviewtips
-
-## Comments (5)
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> no.5 is indeed very true!
-
-### Jordan Molina (I help founders get hours back with custom AI systems | Software engineer turned human-centric AI builder | 25-30 hrs/week saved for businesses | Your team spends more time on work they enjoy)
-> Daniele Ponzo hey absolutely great info here brother! I really agree with you in that we got to be concise and simple.
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> This LinkedIn Post = 
-> 
-> 😇Wholesome Guide 
-> 😇Value added Package 
-> 😇Practical Insights 
-> 
-> Loving it: Daniele Ponzo 
-> 😊😊😊
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> So true without confidence everything is harder
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Wish I had learned this before I messed up many an interview over the years  Daniele Ponzo 😂
-

@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# What is Priority Setting ? #shorts #softskills #prioritysetting #criticalthinking #problemsolving
-
-## Transcript
-
 speaker_1: SOFT SKILLS MODEL LEVEL2 PRIORITY SETTING Ability of makin9 decision5 about how best to allocate ISmSted resources more about thls skill
 
 

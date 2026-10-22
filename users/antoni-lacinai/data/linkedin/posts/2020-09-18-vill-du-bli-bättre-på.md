@@ -13,6 +13,3 @@ Vill du bli bättre på att leda människor i möten, fysiskt och digitalt?
 Här är höstens enda fysiskt-på-plats-kurs från mig och vännerna på gr8 meetings. Två steg. Två dagar i oktober. Gå ett eller båda för ett reducerat pris. 
 
 #effektivamöten #kommunikation #ledarskap
-
-### Shared Document: [Kurstillfälle i Malmö i höst!]()
-

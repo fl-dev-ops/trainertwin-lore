@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-ugcPost-728736
 likes: 26
 comments: 4
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQF9eE0JfVKsvw/mp4-720p-30fp-crf28/B4DZSHrO3jHIBo-/0/1737443063399?e=1793178000&v=beta&t=9LfO16B2FF8ggnrrpF2g_Umf6WvQDOr_28xKdA6rSFg
+author_comments:
+- "\U0001F4ADWhat does it take to realize your dream? ⬇️ \nhttps://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej"
+- |-
+  🎥 From 29 Moves to Finding Home: A Non-Native Leader’s Inspiring Global Journey:
+  https://youtu.be/DOW49gU-HqI?si=wq6mnUjRy1X7taDM
 ---
 
 The World is Your Oyster🦪
@@ -43,17 +48,3 @@ P.P.S. Did you enjoy this episode?
 Explore my Youtube Channel for more.
 
 #nonnativeleader
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 💭What does it take to realize your dream? ⬇️ 
-> https://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo Thank you for sharing such an insightful and inspiring video! It’s fascinating to hear about Janine’s global experiences and her perspective on becoming a global citizen. The idea that we can cultivate an international mindset even from home is truly empowering. Looking forward to exploring more episodes on your channel!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🎥 From 29 Moves to Finding Home: A Non-Native Leader’s Inspiring Global Journey:
-> https://youtu.be/DOW49gU-HqI?si=wq6mnUjRy1X7taDM
-

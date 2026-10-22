@@ -75,13 +75,3 @@ I hope you got some value here. If you did, remember to hit the 🔔on my profil
 Follow ➡️Daniele
   
 #businesscommunication  #itleadership  #processmanagement  #itprofessionals
-
-## Comments (1)
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> This is something that a lot of organizations struggle with Daniele. It's a problem...
-> I see the need to create and review processes with people, not for people. When people are involved in the creation, they are more likely to remember steps and follow them. 
-> Your point on highlighting the aim and focusing on what is really important is a good one. Most documents are too long, too wordy and uninspirational. 
-> Visuals really help to make it easy!
-> Thanks for posting!
-

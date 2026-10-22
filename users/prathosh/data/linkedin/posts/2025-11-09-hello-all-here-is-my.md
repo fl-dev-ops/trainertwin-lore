@@ -17,7 +17,3 @@ here is my recent exposition on the idea of Brahman - https://lnkd.in/gyyrUypM
 Posting something other than the usual AI stuff for a change. 
 
 May be of interest to a few of you.
-
-### Shared Article: ['Understanding God' Lecture By Dr Pratosh A P, IISc Bengaluru ](https://youtu.be/GEWn7aE_URM?si=7gPhf5hiKZJfn07y)
-> youtube.com
-

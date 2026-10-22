@@ -29,9 +29,3 @@ Now, I'd love to hear your thoughts! What are your experiences with communicatio
 Thanks Safaa Charafi for sharing this!
 
 #SoftSkills #ConfidentCommunication #GlobalLanguage #ProfessionalGrowth #CrossCulturalCollaboration #englishlanguage #englishlearning
-
-## Comments (1)
-
-### Safaa Charafi (Founder of Urban Inclusion | Architect & Urbanist | Gender, Spatial Justice & Climate Adaptation | UN Consultant |Belgium’s 40u40 | Allianz Fellow)
-> You're welcome Daniele Ponzo And happy to see we can open up this much needed debate!
-

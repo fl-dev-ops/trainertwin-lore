@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Market Isn't Stopped, It's Changed! Adapt or Miss Out
-
-## Transcript
-
 speaker_1: Yes Mr Client I know it may look like the market has stopped but reality is the market shifted Now people are buying very smart Demand didnt disappear buyers became more selective

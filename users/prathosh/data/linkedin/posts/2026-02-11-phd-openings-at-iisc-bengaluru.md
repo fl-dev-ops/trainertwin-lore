@@ -53,7 +53,3 @@ PS: You may write to me directly if you have any questions.
 
 Indian Institute of Science (IISc) Indian Institute of Science - IISc EECS @ IISc, Bengaluru #ai #aiml #genai #phd #research #publications #iisc #iit
 #icml #ICLR #AAAI
-
-### Shared Article: [Prathosh - Students and Group](https://sites.google.com/view/prathosh/students-and-group)
-> sites.google.com
-

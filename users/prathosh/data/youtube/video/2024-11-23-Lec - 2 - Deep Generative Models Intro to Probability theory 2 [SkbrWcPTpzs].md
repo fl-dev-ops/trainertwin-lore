@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec - 2 - Deep Generative Models Intro to Probability theory 2
-
-## Transcript
-
 speaker_1: Shall we begin
 
 

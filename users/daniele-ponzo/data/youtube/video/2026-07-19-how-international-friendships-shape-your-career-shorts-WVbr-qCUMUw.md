@@ -51,9 +51,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How International Friendships Shape Your Career #shorts
-
-## Transcript
-
 speaker_1: Yeah Because the most meaningful part of the career come from conversations and connections You never know when were going to meet this people again Like this conversation that I have with you you know its only once in a lifetime Yeah So every moment I meet a new friend I meet a person I make sure its a worth one So I will not leave the room thinking that I should leave the room happily and say I make a friend And Ill see you either in Singapore or some other part of the world And thats why you know I have so many friends who have left Singapore I mean I should say from clients and become friends who have left Singapore but we are still keeping in touch Isnt it good when I travel to some country you know it feels so good that I have someone there Catching up for a meal catching up for coffee Yeah you feel so well connected You feel like you really have friends all around So dont lose the opportunity to have friends all around the world

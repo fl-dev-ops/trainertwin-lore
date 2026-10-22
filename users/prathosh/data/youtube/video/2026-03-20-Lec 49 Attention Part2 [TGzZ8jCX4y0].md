@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 49 Attention Part2
-
-## Transcript
-
 speaker_1: Welcome back So now let us define what
 is called as the attention vector
 So given a row of Q

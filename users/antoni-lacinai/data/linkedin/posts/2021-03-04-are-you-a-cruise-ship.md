@@ -18,19 +18,3 @@ Back in the days of traveling, I was in Dubai as an MC at a global sales confere
 I call this "the slowest Speed-boat"
 
 #Communication #leadership #engagement
-
-### Shared Article: [Everything you say will send signals. Everything communicates...](https://buff.ly/3cuQVvS)
-> buff.ly
-
-
-## Comments (3)
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> He was literally not "Walk the talk"
-
-### Johanna Nilsson (Bilder som visar den du är💛)
-> Oh no. What a situation, especially for the slow man. Maybe he got nervous. I know that people can be acting kind of strange then. Myself included. Either you get slower och more speedy. I love this thing about that everything communicates.
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Excellent. That's well worth some thought - for instance regarding how I communicate with my client the weeks leading up to the event. Thanks!
-

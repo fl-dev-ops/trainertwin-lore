@@ -10,9 +10,3 @@ images_count: 1
 Non verbal communication is like the saying: Actions speaks louder than words.
 
 Is your body language strengthening or weakening your message?
-
-## Comments (1)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> I do hope it's strengthening it!
-

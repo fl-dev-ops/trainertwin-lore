@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_outcome-goals-are-great-but-are-they
 likes: 26
 comments: 3
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E05AQGB09_q8HWrTQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1702118398344?e=1793170800&v=beta&t=emfwiGvoqTIL0DQ0WdGi0rSI36CnbfUnfyWM6NPrjQ8
+author_comments:
+- '"A meeting without a goal is not a meeting. It''s a coffee break"'
 ---
 
 Outcome goals are great ...
@@ -40,12 +42,3 @@ If it isn't concrete - it isn't a goal
 
 
 PS - have you set your goals for 2024 yet?
-
-## Comments (2)
-
-### Palle Ronnebäck (Operations Manager på Konecranes AB)
-> It’s a must win battle (MWB) out there!
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> "A meeting without a goal is not a meeting. It's a coffee break"
-

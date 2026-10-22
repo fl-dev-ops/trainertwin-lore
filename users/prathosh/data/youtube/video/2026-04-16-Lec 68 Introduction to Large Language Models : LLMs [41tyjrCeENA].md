@@ -1,6 +1,6 @@
 ---
 id: 41tyjrCeENA
-title: Lec 68 Introduction to Large Language Models : LLMs
+title: "Lec 68 Introduction to Large Language Models : LLMs"
 url: https://www.youtube.com/watch?v=41tyjrCeENA
 date: '2026-04-16'
 duration: 25:21
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Lec 68 Introduction to Large Language Models : LLMs
-
-## Transcript
 
 speaker_1: Welcome everyone
 So in this lecture uh

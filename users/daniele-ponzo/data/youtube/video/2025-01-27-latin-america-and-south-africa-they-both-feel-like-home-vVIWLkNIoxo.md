@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Latin America and South Africa: They both feel like home
-
-## Transcript
-
 speaker_1: The interesting bit is yeah I mean many urban environments were very similar to Latin America So it felt quite familiar you know um going to South Africa all of a sudden Pretoria it was like being back at home you know it was uh in very very many ways you know good and bad very similar to to an urban Latin America So um also you know in terms of the inequalities but uh
 
 speaker_2: Yeah I suppose there are just two interesting bits there

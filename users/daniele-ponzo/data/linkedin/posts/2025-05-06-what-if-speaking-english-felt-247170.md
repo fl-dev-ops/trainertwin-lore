@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_what-if-speaking-english-felt-
 likes: 56
 comments: 21
 images_count: 1
+author_comments:
+- "\U0001F4AC “I always try to find the right words.”\n This is one of the most common pain points I hear.\nAnd I get it.\n\nYou’re aiming for precision, clarity, and confidence.\nBut sometimes that search for the right word keeps you from speaking at all.\n\nBut there’s an alternative to perfection.\nIt's connection.\n\nYou can express yourself clearly, naturally, and effectively, even if it’s not “textbook perfect.”\n\n▶️ Join me and Donna Maravillas this Friday for a live panel on \U0001D5E2\U0001D603\U0001D5F2\U0001D5FF\U0001D5F0\U0001D5FC\U0001D5FA\U0001D5F6\U0001D5FB\U0001D5F4 \U0001D5D6\U0001D5F5\U0001D5EE\U0001D5F9\U0001D5F9\U0001D5F2\U0001D5FB\U0001D5F4\U0001D5F2\U0001D600 \U0001D5EA\U0001D5F5\U0001D5F2\U0001D5FB \U0001D5DF\U0001D5F2\U0001D5EE\U0001D5FF\U0001D5FB\U0001D5F6\U0001D5FB\U0001D5F4 \U0001D5D8\U0001D5FB\U0001D5F4\U0001D5F9\U0001D5F6\U0001D600\U0001D5F5 where we’ll unpack exactly how to shift out of “translation mode” and into real-world, confident communication.\n\U0001F3A5 Linkedin Live: https://www.linkedin.com/events/live-englishwithoutfear-overcom7325035148943544322/theater/ \nSee you there?"
 ---
 
 What if speaking English felt like sitting at a table, finally free to choose?
@@ -52,59 +54,3 @@ Come grab your seat.
 The table is set🍽️.
 
 P.S. what's holding you back from enjoying your full "international meal"? Let's chat in the comments.
-
-## Comments (9)
-
-### Steven Hobson (Executive English & Communication Coach for Non-Native Professionals. Helping leaders speak with confidence, fluency, and clarity | 20+ yrs exp. | 500+ Clients Transformed | Coaching/Training for Individuals & Companies)
-> Daniele Ponzo  It’s so easy to feel restricted when speaking English, but the key is to embrace and work on your confidence. Thanks for sharing.
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> Because instead of communicating, you’re stuck in your head:
-> → “What’s the right word?”
-> → “Is this correct?”
-> → “Do I sound fluent enough?”
-> 
-> That is a huge problem when you struggle with these things. 
-> 
-> There are two things I would do to engage this challenge:
-> A: Just talk, even if it's wrong. Better you use the wrong words/grammar, than not speak. People will give you feedback often. Otherwise, you don't learn. 
-> 
-> B: Put time and effort into learning a language. For some, it's harder than for others, but nonetheless, you should put deliberate time into learning to communicate. It will become better.
-> 
-> PS: People are very focused on the idea of having a problem speaking a second language. Many people already have problems communicating well in their mother tongue :) The language and communication basics aren't the same thing, and both need attention.
-
-### Aline Bertrand 🗣️🇬🇧 (Tu n’apprends plus l’anglais. Tu le parles, sans stress.)
-> Daniele Ponzo  Nice photo! And that frame behind you looks great  😁 Did you have doughnuts for dessert? 😆
-
-### Donna Maravillas (CELTA & TEFL Certified English Language Teacher, Speaking Examiner, Writer of two English Activity books for children, a Teacher Volunteer at Yazidi@School)
-> Love this, Daniele
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Such a powerful metaphor, the idea of finally choosing freely really resonates. Looking forward to the event!
-
-### Sarah Gruneisen 🐉 (Principal Consultant in Transformation: AI for Leaders and Products • Scaling engineering leaders, teams, and sustainable impact with AI • Leadership • Human-Centered Transformation)
-> I recognize this journey but on the side of learning Spanish, German, Dutch, Greek … the fear of failure prevents us from learning!  Just try.
-
-### Sanjeev Thapa (3× Technical Founder | CTO at QUCOXX | Building the Agentic OS for SMEs growth execution)
-> Sounds like a great event Daniele Ponzo
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Love the photo ♥️
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 💬 “I always try to find the right words.”
->  This is one of the most common pain points I hear.
-> And I get it.
-> 
-> You’re aiming for precision, clarity, and confidence.
-> But sometimes that search for the right word keeps you from speaking at all.
-> 
-> But there’s an alternative to perfection.
-> It's connection.
-> 
-> You can express yourself clearly, naturally, and effectively, even if it’s not “textbook perfect.”
-> 
-> ▶️ Join me and Donna Maravillas this Friday for a live panel on 𝗢𝘃𝗲𝗿𝗰𝗼𝗺𝗶𝗻𝗴 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝗪𝗵𝗲𝗻 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 where we’ll unpack exactly how to shift out of “translation mode” and into real-world, confident communication.
-> 🎥 Linkedin Live: https://www.linkedin.com/events/live-englishwithoutfear-overcom7325035148943544322/theater/ 
-> See you there?
-

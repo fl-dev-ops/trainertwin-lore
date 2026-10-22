@@ -51,9 +51,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Stop Sounding Uncertain in English Meetings #shorts
-
-## Transcript
-
 speaker_1: And thats when I thought okay no there is something uh above and beyond language the words the grammar that I need here you know And thats that was the moment the epiphany in a way Like one of the things was hearing native speakers talking to each other and going what So I said okay so they dont get each other Its normal that people do that you know And yeah and then so thats something clicked and then you know I started observing people and a way they communicated especially people I thought were like good communicators And so I started learning and I started observing and absorbing you know the way you use intonation strategic pauses your hands your uh rhythm you know all these sort of things that they never never never teach you in a tell me I I want to know the secret here you know And so that was you know that was something that truly truly changed my mind back then you know And uh

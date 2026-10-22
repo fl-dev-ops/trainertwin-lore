@@ -12,9 +12,3 @@ If you can’t explain it on the back of a napkin, you probably haven’t unders
 Not saying it's easy but who says it must be? 
 
 #communication
-
-## Comments (1)
-
-### Gustav Frandfors (Founder & CEO: Remembill, open and pay any bill, in seconds. No account needed.)
-> Hehe, cool illustration of knowledge and retrieval practice. Great reflection Antoni!
-

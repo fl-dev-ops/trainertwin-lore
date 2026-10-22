@@ -28,17 +28,3 @@ Säg att du drar i ett rep med en 100-kilostyngd i änden. Du orkar precis rubba
 Vad tänker du om det här?
 
 #ledarskap #arbetsglädje #kommunikation
-
-## Comments (3)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Väldigt kloka ord och tankar! 
-> #sales #marketing #realestate #walkthetalk 
-> #groupdynamics #leaders
-
-### Göran Adlén (FRAMTIDSSTARK | Jag försöker förstå människan i en värld där allt förändras)
-> Gillar din reflektioner och uppdateringar som du gör. Är så less på att se alla som bara pratar om sig själv, hur mycket de har att göra etc. Jag gillar när jag får tänka till och jag lär mig något. Keep on!
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Bra punkter att reflektera kring. Den sista, social loafing, kan också leda till att de högpresterande blir frustrerade över att de måste dra hela lasset, och till slitningar och konflikter i gruppen. För mig personligen är detta en av orsakerna till att jag är ensamföretagare, jag jobbar helt enkelt hellre på egen hand (med stöd av ett bra nätverk) än i grupp. Båda mina barn är likadana. Tyvärr får de sällan välja, då ständiga grupparbeten är normen i skolan (och även på universitet). Visst är det viktigt att kunna samarbeta, men det är också viktigt att kunna prestera självständigt.
-

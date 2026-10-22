@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How Emotions Drive Human Actions (and Leadership Impact)
-
-## Transcript
-
 speaker_1: Information can create understanding but emotions creates action If you want people to act its not enough that you give them the logical reason for why They also have to feel emotionally invested and they wont unless you do too So make sure that youre passionate about your topic that youre positive about your topic and then show it to them If people dont feel you they wont follow you But if they do you got the crew

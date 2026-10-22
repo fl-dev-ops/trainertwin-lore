@@ -15,7 +15,3 @@ How will you treat your team members who are not in the office?
 How will you run your meetings and communicate in the new normal?
 
 #hybridleadership #communication #engagedemployees
-
-### Shared Article: [Hybrid leadership = Virtual leadership](https://www.linkedin.com/pulse/hybrid-leadership-virtual-antoni-lacinai?trackingId=EgagJ5yEMz33BZzBi326qw%3D%3D)
-> Antoni Lacinai
-

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Only 1/100 can solve this Meta Interview qstn, Flatten Array without Recurssion (MAANG Series Pt -3)
-
-
-## Transcript
-
 speaker_1: So today I have picked up a question which is asked in Facebook or Facebook or Meta Amazon Apple Google also in Microsoft Okay five companies have asked this Dont think it is very old Even in last April 2022 April also they have asked this question
 
 speaker_2: Hi all welcome back to uncommon geeks myself Vasanth I hope you all doing well

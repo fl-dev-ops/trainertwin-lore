@@ -19,12 +19,3 @@ I have had the honor of speaking at so many HR conferences around the world, and
 A bit more than a month to go
 I hope to see you there! 
 ^_^
-
-## Comments (2)
-
-### Bob DePasquale, CFP®CAP® (Keynote Speaker | Helping growth-oriented organizations attract top talent and the most loyal customers)
-> Antoni Lacinai good HR people can make or break an entire culture.  This looks like it will be blast.  Enjoy it and looking forward to the post even report.
-
-### Brian Bakeberg BSC.ENG (Co-Founder & CVO, bp2w® | Turning employee engagement data into action in 15 minutes a month | CPD-accredited | Published in The Harvard Brain)
-> Antoni Lacinai what an amazing opportunity to share you knowledge on employee engagement. All of us here at  bp2w®  - An Even Better Place to Work  will be watching and excited for you.
-

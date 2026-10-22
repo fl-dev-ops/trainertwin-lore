@@ -14,12 +14,3 @@ If you know anyone like that - give them a shoutout
 If you know of anyone who wants to become that speaker int the future - support them in their journey because it's hard enough to make it as it is. 
 
 And to all my speaker friends out there - I celebrate you today! You rock!
-
-## Comments (2)
-
-### Martin Laschkolnig (Let's bring the Spirit back! Powerful & inspiring keynotes, trainings and organizational development to (re-)ignite confidence, inspiration, serenity for better results. Lead better, work better, live better.)
-> Excellent, thanks for sharing, Antoni Lacinai!! Yes, Professional Speakers are making a difference!! Thanks for your contribution to it!!
-
-### Helene Lidström (Arbetsplatsstrateg och förändringsledare)
-> You rock too Antoni! 💯🏆🥇
-

@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# How to ace the AMAZON SUPPLY CHAIN Job Interview - Watch This Before Your Amazon Interview!
-
-
-## Transcript
-
 speaker_1: Hello and welcome to another podcast on my channel and some time ago I did post a question on LinkedIn where I asked all of you supply chain professionals about which companys supply chain job interviews are you most interested in and the two options I had given in that poll was Amazon and PNG and almost there was an even response because about 46 percent of you did respond by asking for more details on the Amazon job interview for supply chain and then about 44 percent
 
 

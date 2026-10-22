@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-tech-english-a
 likes: 36
 comments: 17
 images_count: 1
+author_comments:
+- '⁉️ Are you struggling with Soft skills? let me know here: https://www.linkedin.com/posts/daniele-ponzo_softskills-tech-career-activity-7255093361097760768-xAbl'
+- '📌 Help me celebrate in style. Today is my YouTube channel 1st birthday: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-podcast-channel-activity-7253309129287421953-wnqm'
 ---
 
 Struggling to level up your career in Tech?
@@ -44,39 +47,3 @@ If you're a motivated, hard-working Tech or IT professional and you’re ready t
 P.S. 𝟱 is my lucky number, in case you didn’t guess 😉 . What's yours?
 
 #itprofessionals #tech #english
-
-## Comments (9)
-
-### Mayowa Adejayan (Helping Growing Businesses Turn Digital Problems Into Practical Solutions | Websites • AI • Automation | Founder, InsightWeave)
-> I thoroughly enjoyed your content on communication! Thank you for sharing your insights. You're a tremendous blessing to this generation!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ⁉️ Are you struggling with Soft skills? let me know here: https://www.linkedin.com/posts/daniele-ponzo_softskills-tech-career-activity-7255093361097760768-xAbl
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Help me celebrate in style. Today is my YouTube channel 1st birthday: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-podcast-channel-activity-7253309129287421953-wnqm
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo "Thanks for sharing these valuable tips on improving communication skills, especially for IT professionals. Your insights really resonate with the challenges many of us face in expressing technical expertise confidently. It's inspiring to hear how you've overcome similar struggles and are now helping others unlock their potential. Looking forward to applying some of these strategies!"
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> This is such an empowering message for IT professionals! Communication is often the missing link to career advancement, and it’s inspiring to see your journey reflected in this program. Daniele Ponzo
-
-### Stefania Marinelli (Turning Busy Professionals into Authentic Leaders | Associate Certified Coach -ICF | Senior People Manager | Agile Coach)
-> Very powerful message Daniele, I think many people can see themselves in this story. 
-> 
-> I met many professionals in the IT industry who are very knowledgeable and would like to achieve the same level of preparation in English as well,  so that they can communicate their ideas loud and clear. 👏
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Loved it Daniele )))
-> 
-> Overcoming communication barriers is essential for career growth. 
-> 
-> Thank you for sharing your insights!
-
-### Harit Bhasin (Leadership & Career Coach • AI Head Product Management • Helping tech leaders get promoted with influence & presence • Follow for leadership & career growth tips. Views are personal.)
-> Absolutely relate to this, Daniele Ponzo. Technical leaders always struggle with how to keep things crisp without using any jargon.
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo This is such a powerful message! Your personal journey of overcoming communication barriers in the tech world is incredibly relatable and inspiring. It’s great that you’re using your experiences to help others navigate similar challenges and unlock their full potential.
-

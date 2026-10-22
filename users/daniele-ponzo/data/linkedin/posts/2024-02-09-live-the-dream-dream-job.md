@@ -33,20 +33,3 @@ P.P.S. Don't miss any episodes. Hit that "Follow" 🔔 button to stay in the loo
 Follow ➡ Daniele
   
  #NonNativeLeader #InternationalCareer #SuccessStories #inspiration
-
-## Comments (4)
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> Immediately subscribed to the channel!
-
-### Jordan Molina (I help founders get hours back with custom AI systems | Software engineer turned human-centric AI builder | 25-30 hrs/week saved for businesses | Your team spends more time on work they enjoy)
-> Daniele Ponzo looks like an absolutely great opportunity my friend
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> True! Loving the conceptual aspect of your post! 🙌🏻 Keep up the good work!
-> 
-> P.S what's up? 😃
-
-### VMS (7,669 followers)
-> Daniele Ponzo Thanks for Sharing 😁
-

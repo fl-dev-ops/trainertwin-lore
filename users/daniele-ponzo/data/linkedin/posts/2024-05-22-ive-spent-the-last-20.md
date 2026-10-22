@@ -46,18 +46,3 @@ Here’s what I learned:
 P.S. If you need an extra hand getting more visible at work and navigating cultural nuances, then reach out and let’s chat 📩 .
 
 #career #ITprofessionals #confidence #visibility
-
-## Comments (4)
-
-### Simone Bertin (The Pale Blue Dot)
-> None about Teaching English to Oldier? 🤣
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> "Yes, you might need to read and write, sorry" 😂😂
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> The beauty of service is what we learn along the way. For me, it's about being able to understand people and integrate that understanding in the relay of my message. You've truly come a long way, Daniele Ponzo.
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Wow! What a journey of learning Daniele Ponzo ! Fantastic 😍
-

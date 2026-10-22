@@ -18,16 +18,3 @@ I am super proud that the amazing Priscilla Chan at Speakers Connect wanted to i
 Looking forward to meeting leaders and teams in Singapore and around the region, who want to increase the engagement and workplace communication! Online or on-site ^_^
 
 #keynote #leadership #engagement #communication
-
-### Shared Article: [Antoni Lacinai - Speakers Connect | Asia's Leading Speakers Bureau for Virtual and Live Events](https://buff.ly/3PalC9J)
-> speakersconnect.com
-
-
-## Comments (2)
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Från klarhet till klarhet 🔝👍🏾⭐️ Världen är din 🤩
-
-### Rikard Karlsson (Vascular Surgeon, Author & Speaker | Human connection and self-leadership)
-> Biggest Congrats to them and You Antoni Lacinai
-

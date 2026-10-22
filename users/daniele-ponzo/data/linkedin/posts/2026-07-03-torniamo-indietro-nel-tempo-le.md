@@ -36,33 +36,3 @@ Del resto, hai mai visto un sociologo "tipico"? No, 📌Emanuela... non pensare 
 
 
 👉Tu che magari sei ancora più ggggiovane di me o hai figli/nipoti piccoli, la situation della scuola sta avendo un upgrade? Eheheheh, modestamente ho un inglese tecnico livello PRO😜👇
-
-## Comments (6)
-
-### Alexandra Nistor (Divulgatrice| Podcast producer| Business developer)
-> 👏👏👏
-
-### Denis Loriggiola (Addetto vendite g.d.o.)
-> Maurizio te lo dico io fidati che siamo in tempo che sono fresco di formazione con l'inglese la docente era madrelingua e parlava solo quello con una difficoltà enorme a interagire con Daniele mi sarebbe andata ancora meglio il tutto sta contestualizzarlo li è la fregatura, l'informatica ci voleva ho pure gli appunti ad aiutarmi. 
-> 
-> Il resto un problema a dir poco come concepita la formazione ed è meglio mi taccia per quella vissuta da poco uno poteva essere in età da pensione e l'inglese serviva a poco, purtroppo per adulti va pure peggio.
-> 
-> Per gli adulti sarebbe da preoccuparsi tanto come siamo messi sul ritardo delle competenze e da noi abbiamo finito tutto tra poco anche gol e non si sa cosa succederà io temo un bel vuoto formativo dato il piano era nazionale da noi la regione non è chiaro cosa farà.
-> 
-> Per i ragazzi leggevo di un progetto del ministro di mandarli all'estero per insegnarglielo e farli fare una specie di erasmus scolastico per farli imparare la lingua chissà se può servire.
-
-### Alessandro Tocco (Il Volto Umano della Tecnologia)
-> Buongiorno 📌Emanuela Spernazzati e Maurizio Fiengo, bello ascoltare le vostre interviste, mi danno sempre qualche spunto per riflettere o mi insegnano qualcosa. L’inglese è uno dei miei punti deboli, nonostante ho frequentato diversi corsi, ne parlavo questi giorni proprio con Daniele Ponzo, riesco a capire e magari ad esprimere concetti semplici ma se dovessi fare una conversazione a livello tecnico o commerciale ahimè… credo che ci sarebbe un silenzio imbarazzante
-
-### Emanuela Spernazzati (HR Manager & Coach | Career Consultant | Human Resources, Communication, Personal Brand on LinkedIn, Soft Skills Trainer | With NLP and Agile HR I accompany People and Companies to their goals | LinkedIn Top Voice Work)
-> Maurizio Ahahah, confermo! 😂 Daniele Ponzo è l'eccezione che rende orgoglioso il nostro inglese 🇬🇧. Scherzi a parte, però, il tema è molto serio: oggi competenze linguistiche e digitali non sono più un "plus", ma il minimo indispensabile per restare occupabili. La buona notizia? Si possono allenare a qualsiasi età. E magari, la prossima volta che scriviamo "Excel avanzato" sul CV... facciamo almeno una SOMMA prima!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Se dovessi definirmi con un aggettivo probabilmente sceglierei proprio "atipico"!
-> P.S. sto aspettando la Commissione Europea per spicciarmi casa stamattina 🤣.
-> Grazie ancora Maurizio Fiengo e Emanuela Spernazzati, mi sono divertito molto a chiacchierare con voi!
-
-### Chiara Olivucci (Correttrice di bozze | Editor | Appassionata di parole | Curo i tuoi testi dalla mia baita sui monti | Amo fotografare la natura🌲🐶)
-> Daniele Ponzo lo ascolterò con grande piacere... in pausa pranzo!
-> A dopo Maurizio Fiengo ed 📌Emanuela Spernazzati  😊
-

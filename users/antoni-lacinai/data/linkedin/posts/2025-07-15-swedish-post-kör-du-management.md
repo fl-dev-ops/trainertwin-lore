@@ -19,9 +19,3 @@ I tidningen hittar du också visdom från kloka Patrik Nordkvist och Kjell Dahli
 
 Något för hängmattan i sommar?
 ^_^
-
-## Comments (1)
-
-### Mattias Johansson (Head of Strategy & Operational Excellence | Executive Leadership | Building High Performing Team | Business Transformation | Telecommunications | Media | ICT | Energy)
-> En sv mina första chefer i arbetslivet pratade ofta om management by drälla runt. Dvs att man lär sig mer genom att ta en runda runt kontoret och prata med sina anställda än vad alla projekt/hr rapporter tenderade att ge. Tycker fortfarande det är ett bra råd även för stressade chefer då värdet för dig och dina anställda är högt om du tar dig tid att aktivt lyssna och ställa öppna frågor.
-

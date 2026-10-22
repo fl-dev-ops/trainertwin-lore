@@ -30,9 +30,3 @@ When have you acted in line with your values? When have you not? How did it feel
 *I see core values as a business "Identity goal" (Who do we want to be?) The only way for those values to mean something is when they are paired with a wanted behavior. "If X happens, we do Y" or "When A occurs, we will go for B"
 
 One more thing. The opposite side have the same reasoning. I am sure they feel that yes, they will lose money, admiration and respect but not their soul i.e. the nostalgic vision of a  former Soviet union. They just act according to a totally different view of reality
-
-## Comments (1)
-
-### Claudia Rindstam (Senior Project Manager || Enhancing Performance through Collaboration)
-> I always act in line with my personal values and follow the company written values. First time I have been scolded for following the company policy (and common sense) I was shocked, now I would say I’m not surprised anymore. I just point out the obvious and carry on, but I’m also aware about the consequences and that I’m often alone… But I sleep well at night, that matters to me 😉
-

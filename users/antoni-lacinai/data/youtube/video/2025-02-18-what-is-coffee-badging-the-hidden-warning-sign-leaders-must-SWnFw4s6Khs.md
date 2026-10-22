@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# What Is Coffee Badging? The Hidden Warning Sign Leaders Must Notice
-
-## Transcript
-
 speaker_1: Have you heard about the term coffee badging Basically it goes like this You are not forced to the office but its very clear that the boss encourages you to be there otherwise you wont get promoted or you wont get you know all the perks that you might get otherwise
 
 

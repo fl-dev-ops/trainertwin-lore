@@ -13,11 +13,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Antoni Lacinai om kommunikation: Hur du säger något väger tyngre än vad du säger
-
-## Transcript
-
 speaker_1: Jag kommer ihåg ett tillfälle för några år sedan när jag var i Dubai och modererade ett internt event en säljkonferens En av deltagarna där skulle presentera också Han var en ny chef för en ny avdelning Det här var ett stort företag som ett och han beskrev det som att det här företaget är som ett stort skepp som åker ut ett tal svårt att navigera snabbt Så hans del av verksamheten skulle nu vara ett snabbt innovationscenter Han beskrev det som en speedboat en sån här snabb båt som skulle ut på olika öar hitta nya spännande saker komma tillbaka till den stora båten och sen då dela med sig av den nya kunskapen kanske skapa nya produkter mycket snabbare än vad de klarade av
 
 

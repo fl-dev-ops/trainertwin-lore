@@ -24,7 +24,3 @@ This has a wide range of topics from EM, Variational Inference, The family of VA
 https://lnkd.in/g5gQUXYr
 
 EECS @ IISc, Bengaluru Indian Institute of Science (IISc) Chair ECE #aiml #notes #lecturenotes #deeplearning
-
-### Shared Article: [ADRL - Google Drive](https://drive.google.com/drive/folders/1-s4qjnrA4DG604yU8CEwqbJFIcnqjnPQ)
-> drive.google.com
-

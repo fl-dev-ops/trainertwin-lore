@@ -33,11 +33,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Best Country Depends on Your Life Priorities #shorts
-
-## Transcript
-
 speaker_1: You see So my relationship with America is it brings me the infrastructure that um addresses my my current needs which may not be the case in a few years from now
 
 speaker_2: Yeah

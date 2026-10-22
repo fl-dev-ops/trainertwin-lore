@@ -15,9 +15,3 @@ It makes me happy to meet motivated people who want to improve and grow their co
 If you want practical, useful tips; get in touch with me and we'll explore how to elevate your own meetings. 
 
 #meetingleadership #leadershipcoach #engagement
-
-## Comments (1)
-
-### Paul Mc Connon (CEO of Unique Speaker Bureau International)
-> Great post Antoni
-

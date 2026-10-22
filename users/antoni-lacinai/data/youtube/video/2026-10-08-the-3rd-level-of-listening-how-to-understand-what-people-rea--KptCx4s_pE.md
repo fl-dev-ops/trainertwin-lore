@@ -29,11 +29,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# The 3rd Level of Listening: How to Understand What People Really Mean
-
-## Transcript
-
 speaker_1: Its a gift of time and attention You will never get that time back I remember at one point in my life I was moderating a sales conference and it was a dinner and then it was an award ceremony I was supposed to handle the award ceremony as well So I stayed for dinner And next to me sat this man that I can only describe with a color gray Everything about him was gray His hair was gray his beard like me His skin was gray his his clothes were gray My God he looked so boring But I of course said to myself
 
 

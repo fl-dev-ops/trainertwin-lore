@@ -24,17 +24,3 @@ But I wasn't that nice person. I was provoked and said: "Then I suggest you turn
 How would you do? How often are you patient and compassionate when people are rude?
 
 Side note: Today I am on two flights. I wonder who I will meet...
-
-## Comments (3)
-
-### Claudia Rindstam (Senior Project Manager || Enhancing Performance through Collaboration)
-> OMG, I did my fare share of travelling but this guy is the worst fellow passenger I’ve heard of…
-> I wish you lovely people around in the future, Antoni 😊
-
-### Chantelle Botha (The Choice Catalyst | International Keynote Speaker & Executive Coach | Conscious choice for life and leadership that feels as good as it looks)
-> So sorry you experienced that Antonio, it's not pleasant. Learning the theory around managing our responses and actually implementing them during a heated exchange are two very different things. I think you handled yourself as well as you could have, but you've also taken time to reflect on the learnings, and that is growth 😁
-
-### Thomas Otnes (Product developer and engineer)
-> Stora långsamma andetag, och kom ihåg att ofta går det snabbare genom att vi tar det lugnare. Tyvärr är det en insikt en hel del inte uppnår.
-> Önskar dig goda resor!
-

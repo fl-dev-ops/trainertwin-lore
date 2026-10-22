@@ -25,9 +25,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Dream Big this Year! #podcast #interview #globalskills #newyear #dream
-
-## Transcript
-
 speaker_1: But it is still essential to to go out there and we can manage the risk So lets try to resist the temptation to get too comfy with our easy life and keep dreaming Yeah keep dreaming because um youre going to end your journey if if you if you stop dreaming right And yeah because I feel like when you reach like 40 5 50 you said to yourself ah this is the end of me But actually no were still at the beginning This is this is just the beginning I think So uh yeah so I I I share that I I I truly truly believe in that Thats why Im into this uh Im Im creating activity books you know this is another side of my my career that Im venturing into

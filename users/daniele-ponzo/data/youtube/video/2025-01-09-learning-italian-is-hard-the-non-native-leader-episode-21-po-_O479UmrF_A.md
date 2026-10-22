@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Learning Italian is Hard! | The Non Native Leader | Episode 21 #podcast #interview
-
-## Transcript
-
 speaker_1: Italian is a tough language I agree with you It is
 
 speaker_2: So that thats thats good If I do have the time I would pursue a even higher but I do need to um get some sort of formal education somehow especially if I want to improve my writing And um with enough money

@@ -20,7 +20,3 @@ I was so upset and I thought it was a good idea to trashtalk my colleagues. Not 
 What is your opinion?
 
 #leadership #communication #customerexperience
-
-### Shared Article: [Watch out for internal Trash talk - Antoni Lacinai](https://buff.ly/2R9vE2d)
-> buff.ly
-

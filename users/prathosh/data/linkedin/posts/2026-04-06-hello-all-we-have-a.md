@@ -23,6 +23,3 @@ My association with Indian Institute of Technology, Delhi lives on through these
 #acl26 #aiml #publication  #diffusion
 
 Indian Institute of Science (IISc) EECS @ IISc, Bengaluru Chair ECE
-
-### Shared Document: [BiMoL-Diff]()
-

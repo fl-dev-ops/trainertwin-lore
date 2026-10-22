@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# APICS CPIM #SupplyChain #APICS #CPIM #Planning #InventoryManagement #CareerGrowth #YouTubeShorts
-
-
-## Transcript
-
 speaker_1: CPIM stands for Certified in Planning and Inventory Management So now this certification has got about eight modules So in module one youve got supply chains and strategy in module two youve got sales and operations planning module three is demand planning module four is supply then youve got detail schedules inventory distribution quality technology and continuous improvement So as you can see it covers all the different important aspects of planning and doesnt really matter if youre a demand planner or supply planner I think covers
 
 speaker_2: Professional

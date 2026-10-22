@@ -27,6 +27,3 @@ I have seen a lot of research students getting dejected seeing paper rejections,
 All the best to all budding researches. 
 
 #iitd #iisc #publiation #research #ai #motivation
-
-### Shared Document: [Box_Cell_paper]()
-

@@ -11,7 +11,3 @@ article:
 ---
 
 Want to stay up-to-date with what is going on? Follow our Page for the latest updates. #education #communitybuilding  #languageteaching #languages #english #cambridgeenglish
-
-### Shared Article: [Passaparola Italia | LinkedIn](https://www.linkedin.com/company/passaparola-italia)
-> linkedin.com
-

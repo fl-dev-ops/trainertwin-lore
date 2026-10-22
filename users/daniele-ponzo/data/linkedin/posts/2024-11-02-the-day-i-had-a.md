@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_the-day-i-had-a-close-encounte
 likes: 25
 comments: 10
 images_count: 1
+author_comments:
+- The best part? When I left the apartment I had to explain him the concept of 'safety deposit '. He had never heard it...
 ---
 
 The day I had a close encounter with one of the best (worst) monsters.
@@ -60,21 +62,3 @@ One morning, as I opened my eyes I noticed a little creature on the bedroom floo
 “I will be here with you forever to remind you of broken floors, flooded bedrooms and melted glasses”
 
 I didn’t have the guts to remove it.
-
-## Comments (5)
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Life certainly knows how to throw a good plot twist. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> The best part? When I left the apartment I had to explain him the concept of 'safety deposit '. He had never heard it...
-
-### Asta Martinione (PhD | C-Level Executive | Board Member | Leadership | Transformation | Strategy | AI | Operational Excellence)
-> It was an entertaining read; sorry for saying this! I understand you had an unpleasant experience, but your storytelling was witty and fun!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> That's quite the yarn, Daniele Ponzo. We often hear of cowboy tradesmen 🛠️, but this is the first cowboy landlord story I've ever heard! 🤠
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Oh noooo, what a story!!
-

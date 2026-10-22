@@ -14,12 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Conflict at Work? Master Conflict Management with These 3 Tips in 5 Minutes!
-
-
-## Transcript
-
 speaker_1: Conflicts happen all the time at work but I hope you are not resolving them like this
 
 speaker_2: Well get today and we need to do the report so I can give to the partners so yeah can I have that report now please

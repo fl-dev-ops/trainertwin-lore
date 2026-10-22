@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 🚢 Ports of Tomorrow: How AI Is Transforming Shipping, Smart Ports & Future Careers | w/ Eyhab Burki
-
-
-## Transcript
-
 speaker_1: So for that one of the key attributes is around the intelligent route optimization we need to basically forecast and predict various learnings that youve had from previous delivery boats then we also have autonomous warehouse and yard operations which are using a lot of robots and a lot of automated systems you know for container sorting stacking and cargo managed across warehouses and courtyards and then private 5g adoption has been a key
 
 

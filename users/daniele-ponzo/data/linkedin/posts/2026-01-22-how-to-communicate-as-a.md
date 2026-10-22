@@ -8,12 +8,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D24AQGnWxtC0_oJvw/CeJxzMn
 ---
 
 How to communicate as a Leader? With Daniele Ponzo
-
-## Comments (2)
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> Nice one!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Very insightful. Thanks for this session.
-

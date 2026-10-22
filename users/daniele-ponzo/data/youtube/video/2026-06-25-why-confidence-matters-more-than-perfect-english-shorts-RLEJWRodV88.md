@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Confidence Matters More Than Perfect English #shorts
-
-## Transcript
-
 speaker_1: And through the experiences through these experiences and many different with many different age levels I realized that learning is not only about learning vocabulary or grammar It is also about how people structure ideas how they think how they approach learning language and languages and how confidently they communicate complex thoughts So all these insights particularly in COVID 19 period somehow the period accelerated my professional development
 
 speaker_2: Yeah

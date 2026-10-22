@@ -32,21 +32,3 @@ What collaborations will happen?
 Time will tell
 
 This is a different post from me, I know. But not all different. It is still about human communication and motivation. Just on a larger scale.
-
-## Comments (5)
-
-### Predrag Duranovic (Apotekschef på Apotek Hjärtat)
-> Those that fail to learn from history, are doomed to repeat it
-
-### Edward Nugent (Enabling Businesses to Become the Obvious Choice to their Clients | Founder Digital Scorecard | TrustPoint | MAI Index)
-> As the expression goes, all evil needs to succeed is for good people to do nothing.
-
-### Malin Hofflander, PhD (Hjälper chefer att skapa konsekvent ledarskap genom strukturerade medarbetarsamtal | Grundare av CENCEO |)
-> Tack för ett superviktigt inlägg! Så enig med dig här Antoni 🌸
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Tack Antoni för att du lyfter detta! Det är en väldigt skrämmande utveckling. Flera grannar jag mötte igår visste inte ens om att det var val, eller hade inte brytt sig om att rösta. Och SD fick dubbelt så många röster som Mp i mitt valdistrikt. Många verkar fullständigt omedvetna om vad som händer, eller orkar inte bry sig.
-
-### Crister Karlén (Project Manager and Vice President på imCode Partner AB)
-> Bra att du tar upp detta. Vi måste alla göra vår röst hörd i kampen mot det mörka.
-

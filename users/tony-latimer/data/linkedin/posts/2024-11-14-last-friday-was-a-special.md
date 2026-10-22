@@ -19,9 +19,3 @@ Delighted and proud to be helping them make the future a reality.
 If your organisation has some ambitious growth plans, you need your leadership team aligned, and knowing how to work together. Message me for a conversation.
 
 Profitable Leadership makes Alignment of Purpose® simple.
-
-## Comments (1)
-
-### Elin Mai (I help $1M+ founders become as magnetic as they are brilliant. Inside out. | Former-CEO, 22+ years | 12K+ leaders transformed.)
-> 👏🏻amazing
-

@@ -1,6 +1,6 @@
 ---
 id: N6F1J-wcE_E
-title: Lec 53 SGD, RMS Prop, ADAM : Optimizers
+title: "Lec 53 SGD, RMS Prop, ADAM : Optimizers"
 url: https://www.youtube.com/watch?v=N6F1J-wcE_E
 date: '2026-03-20'
 duration: 19:28
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Lec 53 SGD, RMS Prop, ADAM : Optimizers
-
-## Transcript
 
 speaker_1: Welcome back
 Training neural networks

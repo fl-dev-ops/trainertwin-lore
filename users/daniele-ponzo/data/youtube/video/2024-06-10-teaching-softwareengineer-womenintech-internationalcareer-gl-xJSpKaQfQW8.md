@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# #teaching #softwareengineer #womenintech #internationalcareer #globalspeaker #nonnativeenglish
-
-## Transcript
-
 speaker_1: the moment when you open the door and you enter the classroom
 
 speaker_2: Yeah

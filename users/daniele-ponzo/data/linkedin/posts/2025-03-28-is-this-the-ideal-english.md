@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_is-this-the-ideal-english-clas
 likes: 41
 comments: 18
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQH3KMqDdy3Dkw/mp4-720p-30fp-crf28/B4DZXbhkVvGkBk-/0/1743144790139?e=1793178000&v=beta&t=y2pG2IqioObGjwPKQnJbkVIydsL3-WCwu-PG1hFvCJ0
+author_comments:
+- ▶️ A teacher can make or break your confidence. What’s your experience?
+- '▶️ Had a chat with a professional a couple of days ago: “I studied English back in school, but our teacher never encouraged us to speak. We were given worksheets, grammar exercises and long texts to read and translate. The irony? I always used to get full marks but now I can’t speak”.'
 ---
 
 Is This the Ideal English Class?
@@ -44,34 +47,3 @@ Over to you:
 Ever felt intimidated by your teacher? How did you overcome the fear of making mistakes? Let’s talk below 👇 
 
 Video Credit: "Mind your language", 1977
-
-## Comments (9)
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Not sure if this was the ideal class, but it was definitely my best comedy moment from the 1970s!
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> this comedy really shows how things have evolved to political correctness these days.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Totally agree, communication > perfection. Confidence grows when we feel safe to just speak and express.
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele first, let me say that I love that show! Second, did I ever say this before? Don't fear speaking in a different language. It is the most rewarding thing you can ever do!
-
-### Deepika Vasudevan (PhD candidate; English language educator)
-> Absolutely, language is a tool for communication, not for passing exams. There’s so much we can learn from just this one clip! The way the students hold their own and respond to what they think they’ve understood, or ask for explanation. The consequences of not reading the room and grading your language accordingly. The sheer multilingual confidence and awareness of the Indian lady telling the time in her language because of course that’s what would likely be understood. Not to mention the pride in her voice when she says that now everybody understands her when she speaks in English! Isn’t that what’s important?
-
-### Mcklein (MJ) Javeri (I help professionals land Board positions // 8x Board Member // Board Chair // xMonitor Deloitte)
-> Communication beats perfection every time. Confidence grows when we stop fearing mistakes.
-
-### Silvia Fazi (CFO | Board Director | Energy & Renewables | Strategy, Transformation & Inclusive Leadership Executive)
-> I feel to be like those students. 
-> Luckly my teacher Daniele Ponzo is different 😊
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ A teacher can make or break your confidence. What’s your experience?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ Had a chat with a professional a couple of days ago: “I studied English back in school, but our teacher never encouraged us to speak. We were given worksheets, grammar exercises and long texts to read and translate. The irony? I always used to get full marks but now I can’t speak”.
-

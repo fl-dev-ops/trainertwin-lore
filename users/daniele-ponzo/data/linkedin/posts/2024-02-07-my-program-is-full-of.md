@@ -72,28 +72,3 @@ Interested?
 Reach out and let’s chat🤝.
 
 #itprofessionals #leadership #languagecoaching
-
-## Comments (6)
-
-### Sandra Stynes (Founder & Executive Director at Stellar Corporate Housing)
-> So true! Thank you so much for sharing!
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> I wouldn't recognize you without your beard!
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> What a great way to design a programme.  Brilliant!
-
-### David Bavon (Inside Sales and Renewals Manager at Exclusive Networks)
-> Very Inspiring Daniele ! Thanks for the post and the share :) The only real mistake one can ever make is not trying in the first place !
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Truly inspiring! Stuffed with value! 😇
-> 
-> Keep shining!
-> 
-> P.S what's up? 😃
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Well said Daniele: let's turn our fails into lessons learned
-

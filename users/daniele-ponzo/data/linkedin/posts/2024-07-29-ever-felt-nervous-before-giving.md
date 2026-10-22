@@ -6,6 +6,8 @@ likes: 21
 comments: 7
 document:
   title: How to be CONFIDENT for a PRESENTATION
+author_comments:
+- '📌A Complete Business English Guide for IT Professionals: https://www.linkedin.com/posts/daniele-ponzo_communication-english-itprofessionals-activity-7224285179043840000-3D0_'
 ---
 
 Ever felt nervous before giving a presentation?
@@ -24,21 +26,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
  Follow ➡️ Daniele.
  
  #english #itprofessionals #presentation
-
-### Shared Document: [How to be CONFIDENT for a PRESENTATION]()
-
-
-## Comments (4)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌A Complete Business English Guide for IT Professionals: https://www.linkedin.com/posts/daniele-ponzo_communication-english-itprofessionals-activity-7224285179043840000-3D0_
-
-### Abdul Raqeeb (Brand & Content Designer for Coaches and Founders | I help you look as credible online as you actually are.)
-> this is amazing Checklist Daniele Ponzo
-
-### John Headstream (Helping IT Support Managers and Staff achieve greater effectiveness, job satisfaction & career advancement | Best practices to create enthusiastic customer experience | Over 30 years in IT Support)
-> Well said!
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> All great tips Daniele
-

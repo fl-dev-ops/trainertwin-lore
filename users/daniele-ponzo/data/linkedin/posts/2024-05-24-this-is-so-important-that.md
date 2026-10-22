@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-tech-humanizin
 likes: 10
 comments: 1
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E05AQF7XnLvbenw3A/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1716531361870?e=1793178000&v=beta&t=wIrvednUXrNRNFmsGLNEF1ZVRQe2k-G36v_k2dU3f-c
+author_comments:
+- 'Want to know more? Here is my Channel: https://www.youtube.com/@SolutionSpeakCoaching'
 ---
 
 This is so important that it would deserve its own series.
@@ -47,9 +49,3 @@ P.S. Don't miss any episodes. Hit that "Follow" 🔔 button to stay in the loop!
 P.P.S. Want to catch up on previous episodes? EXPLORE my channel, I’ll leave the link in the first comment below.
 
 #NonNativeLeader #tech #humanizingtech #SuccessStories #inspiration
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Want to know more? Here is my Channel: https://www.youtube.com/@SolutionSpeakCoaching
-

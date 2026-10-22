@@ -12,7 +12,3 @@ article:
 ---
 
 V. Ramgopal Rao - Sir, why don't do this in Indian academia?
-
-### Shared Article: [Facebook’s chief AI scientist says that Silicon Valley needs to work more closely with academia to build the future of artificial intelligence](https://amp.businessinsider.com/facebook-yann-lecun-dual-affiliation-model-ai-experts-2018-8)
-> amp.businessinsider.com
-

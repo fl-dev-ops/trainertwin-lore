@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 06 Adhyaya 10 to 19 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 इन्द्रमेवं समादिश्य भगवान् विश्वभावनः
 पश्यतामनिमेषाणां तत्रैवान्तर्दधे हरिः

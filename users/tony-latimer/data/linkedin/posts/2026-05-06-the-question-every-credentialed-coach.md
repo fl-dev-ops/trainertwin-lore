@@ -4,6 +4,8 @@ date: '2026-05-06T06:22:28.128Z'
 url: https://www.linkedin.com/posts/tonylatimer_the-question-every-credentialed-coach-should-activity-7457676137607876608-jk0q
 likes: 9
 comments: 3
+author_comments:
+- https://coachingmasteryprofile.scoreapp.com
 ---
 
 The Question Every Credentialed Coach Should Be Asking — But Usually Isn't
@@ -31,12 +33,3 @@ If you're a credentialed coach who takes their development seriously, it's worth
 Take the free Coaching Mastery Profile. Link in comments.
 
 Tony Latimer MCC has been coaching C-suite leaders and developing coaches to mastery level since 2004. He is ICF MCC credentialed since 2008, one of the first examined MCCs globally.
-
-## Comments (2)
-
-### Andrea S. (Executive Coach for Leaders and Teams | Master Coach Facilitator for Essential Coaching Skills in Organizations)
-> This was valuable Tony Latimer Looking forward to review my results
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> https://coachingmasteryprofile.scoreapp.com
-

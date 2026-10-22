@@ -18,7 +18,3 @@ I hope you'll enjoy it
 
 ^_^
 //Antoni
-
-### Shared Article: [Workplace Communication with Antoni Lacinai](https://buff.ly/3eKNDs7)
-> buff.ly
-

@@ -11,19 +11,3 @@ article:
 ---
 
 Om du tycker att jag platsar och har 60 sekunder att lägga mitt namn i hatten ^_^
-
-### Shared Article: [Sveriges populäraste föreläsare och moderatorer - eventeffect.se](https://buff.ly/3xqanVc)
-> eventeffect.se
-
-
-## Comments (3)
-
-### Roger Hålsjö (Key Account Manager at Anixter Sweden AB)
-> Du har min röst!
-
-### Elisabet Levin Lacinai (Senior allround Administration | Glädje | Service | Engagemang | Helhetslösningar)
-> Instämmer med föregående skrivare 🎈
-
-### Cecilia Björk Bang-Melchior (Customer Experience Culture, Competence & Communication Lead)
-> Jag tycker verkligen du platsar för du är PÅ RIKTIGT! 🙏🏼🤩
-

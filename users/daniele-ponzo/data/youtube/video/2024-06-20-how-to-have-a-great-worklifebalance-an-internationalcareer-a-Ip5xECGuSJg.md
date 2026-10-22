@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to have a great #worklifebalance, an #internationalcareer and a great #family #podcast
-
-## Transcript
-
 speaker_1: it has a challenge but a husband that actually supported and you know because I have to travel and you know um but he hes really good so
 
 speaker_2: Wow so it is possible That is It is It is It is definitely That is inspiring yeah Yeah it is definitely possible It is definitely possible Okay thats great Yeah no because you know having like its a very demanding job but also yeah family uh things on top So it is it is great And I I really really admire you for that I I have like I have huge respect for people that can actually combine family and business and career

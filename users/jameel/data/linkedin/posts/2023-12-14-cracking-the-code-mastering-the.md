@@ -21,7 +21,3 @@ Ready to up your interview game? Watch now: https://lnkd.in/eyEwgHkc
 
 Comment below with your go-to strength when faced with this question! Let's share insights. 💬
 #JobInterviews #InterviewTips #CareerAdvice #Strengths #InterviewPreparation #JobSearch #ProfessionalDevelopment #SuccessStrategies #CareerGrowth #JobSeekers #InterviewSuccess #JobHunting #hiringtips
-
-### Shared Article: [How to Answer "WHAT ARE YOUR STRENGTHS" Job Interview Question with 10 REAL LIFE EXAMPLES!](https://youtu.be/HxEbgw1U3lU?si=oR_b1aPWlObx7XXP)
-> youtube.com
-

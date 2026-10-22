@@ -26,9 +26,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Hidden Risk of Preparing Too Much
-
-## Transcript
-
 speaker_1: lets say for example you want to visit a country if youre starting a new language you might want to oh Ill just learn 100 words or 1000 words or Ill just you know spend two weeks or three months or however long it is And I dont know if youre familiar with a guy um he goes by the name of Benny the Irish Polyglot I forget his exact his exact name but hes done a hes done a TED talk which I think is great And he talks about this you know when are you comfortable And most people will spend far too long in the preparation phase thinking theyre going to get comfortable But by not taking that step into the kind of uncomfortable and jumping in theyre really slowing down their progress

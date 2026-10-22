@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 4 - Deep Generative Models Variational Divergence Minimization
-
-## Transcript
-
 speaker_1: Okay there will be 15 questions 15 to 20 questions and well give you 20 25 minutes to solve it Okay multi choice questions The first quiz will happen next week Is that okay
 
 speaker_2: Is it possible sir if you can share some sample questions

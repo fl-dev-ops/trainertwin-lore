@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Worst Place to Get English Feedback 🤦‍♂️
-
-## Transcript
-
 speaker_1: Come on Feedback like that at a party is just its just plain rude in my opinion It just dont do it
 
 speaker_2: Yeah yeah Just dont do it Dont do it

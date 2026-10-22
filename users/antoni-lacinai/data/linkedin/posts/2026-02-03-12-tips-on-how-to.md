@@ -38,9 +38,3 @@ This is especially for you, who will be giving presentations and want to increa
 
 
 Which of these tips do you use?
-
-## Comments (1)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> I think you listed everything, Antoni! My favorite is No. 5. No. 10 comes naturally for me. I do more of No. 11 than I am aware of, and that makes it hard for any photographer to get smashing shots of me speaking. I practice No. 9 as much as I can, but it's hard when you have a resting face like mine and you smile more on the inside than the outside.
-

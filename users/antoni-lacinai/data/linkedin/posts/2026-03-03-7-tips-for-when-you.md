@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_7-tips-for-when-you-are-participatin
 likes: 32
 comments: 13
 images_count: 1
+author_comments:
+- I was coaching a GM in Japan before a panel, and we focused on metaphors and oneliners. It was pretty great to get his email saying that he was referred to all over the conference. He made an impact and it opened doors that would have been closed.
 ---
 
 7 tips for when you are participating in a panel discussion:
@@ -36,27 +38,3 @@ Best of luck with your panel discussions!
 
 When I am not on a stage myself, I train leaders and experts to communicate with impact. 
 1:1 coaching, masterclasses, and programs. Here's an overview: https://lnkd.in/dFQf_5cn
-
-## Comments (7)
-
-### Vinay Pushpakaran (Global Keynote Speaker on Customer Centricity, Sales & Leadership ★ Capability Builder ★ TEDx Speaker ★ Past President, PSA India ★ Helping Leaders build Customer-centric, Sales-Driven & High-Ownership teams)
-> Love this,  Antoni! Respecting the time and presence of the other panelists as well as the host is paramount, I may add. I have seen way too many folks turn their panel moment into a keynote and it's such a pain for everyone involved.
-
-### Chris Britton (HR Most Influential 2026 | TEDx Speaker | Best Selling Author | Appreciation Expert | People Experience Director | International Keynote Speaker | Board Trustee | Podcast Host | Men’s Health Expert | Chartered FCIPD)
-> A key part...respect the other panelists time. No one is looking for a 20 minute monologue. Keep answers fairly succent. Hopefully the moderator can help move things along as well
-
-### Christian Thiele (Coachings, Trainings, Keynotes on Positive Psychology, Positive Leadership and AI – for Leaders, Teams, Organizations. Dad, husband, skier, terrible but passionate climber.)
-> Great points, Antoni!
-
-### Dr Byron Cole (Founder & CEO, Spotlight Global Media Group • International Speaker • Building the Future of Sports Media • Podcast Studios, Event Space & Live Sports Productions • Exited Founder • Investor • 🇦🇪 📍 🇬🇧)
-> Well said! Panels work best when participants listen, build on each other’s ideas, and keep the audience part of the conversation.
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> I was coaching a GM in Japan before a panel, and we focused on metaphors and oneliners. It was pretty great to get his email saying that he was referred to all over the conference. He made an impact and it opened doors that would have been closed.
-
-### Alina Kulabina (Learning and Development Manager | CPTM certified)
-> Kristina Šuškevič   These are great insights!It might be an interesting read for you, as you are participating in events like that, from time to time.
-
-### Dr. Nikolai A. Behr, CSP® (🏆We train your communications skills & help you to be successful at public speaking events. We prepare your core messages for press conference, speech, AGM, board meeting or presentation.🇩🇪🇬🇧🇮🇹🇫🇷🇪🇸🇵🇹🇸🇪)
-> For me, this is one of the most challenging aspects of public speaking (to do and to train others). You have to prepare much more than usual. Most people underestimate the influence of their fellow panellists. You might know the position or rhetoric of the show host, but you never know if one of the other panellists will try to make themselves look good by making you look bad. So, my advice is: Try to find out as much as possible about all the participants and their positions, not just the moderator. Be prepared to answer each of their questions directly.
-

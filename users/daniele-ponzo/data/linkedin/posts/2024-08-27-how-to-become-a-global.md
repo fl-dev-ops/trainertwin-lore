@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-languagelearni
 likes: 19
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E05AQHkd1nCEqpmiw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1724185534705?e=1793178000&v=beta&t=Zw0IW8P3LBPTMpUgfMWUHxKYu6-Z9BxZS22BPBYxOu4
+author_comments:
+- '📌 full episode here: https://youtu.be/x4TXtA1IRio'
 ---
 
 How to become a global leader even if you feel your English isn’t perfect.
@@ -54,25 +56,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #LanguageLearning #genai #internationalcareer
-
-## Comments (5)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Love the formula Daniele ))
-> 
-> language barriers can be overcome with determination and strategy.
-> 
-> Thanks for sharing
-
-### Kushal Das (Strategic design for B2B companies | Founder, Hoco Studio)
-> Gain trust from decision-makers Daniele Ponzo.
-
-### Maryia Tuleika (On a mission to make AI adoption safer)
-> Very inspiring! Thanks for sharing actionable advice!
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> I've said this before, but I always find this series truly inspiring Daniele Ponzo 🤓
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 full episode here: https://youtu.be/x4TXtA1IRio
-

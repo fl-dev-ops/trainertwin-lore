@@ -13,7 +13,3 @@ article:
 As we all get used to a world impacted by the virus, watch this short video to explore the key soft skills needed in the post pandemic workplace!
 #COVID19 #postpandemic #coronavirus #softskills #careercoach #jobskills #change #changemanagement #compassion #virtualcommunication #virtual
 https://lnkd.in/g3NuTfQ
-
-### Shared Article: [Top 3 Skills in the Post Pandemic World](https://youtu.be/VsV06RzbuZE)
-> youtu.be
-

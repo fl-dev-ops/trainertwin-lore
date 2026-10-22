@@ -1,6 +1,6 @@
 ---
 id: SEEQ2A2WN9g
-title: Tutorial 12 : Pytorch - Building MLP and Auto Grad
+title: "Tutorial 12 : Pytorch - Building MLP and Auto Grad"
 url: https://www.youtube.com/watch?v=SEEQ2A2WN9g
 date: '2026-03-12'
 duration: 42:47
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 12 : Pytorch - Building MLP and Auto Grad
-
-## Transcript
 
 speaker_1: Hello all welcome to this uh second
 part of our uh PyTorch tutorial Now

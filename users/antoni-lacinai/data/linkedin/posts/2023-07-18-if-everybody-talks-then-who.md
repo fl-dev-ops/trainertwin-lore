@@ -16,13 +16,3 @@ To truly listen is to practice the number one superpower Empathy and with empath
    How do you listen?
 
 #leadership #workplacecommunication #engagement
-
-## Comments (1)
-
-### Josef Nilsson (🧢 Paketeringscoachen | Hjälpt ”Topp 100 coach & föreläsare” → 10M+ Business 📘 Business Partner | Webb/app/kurs designer | Moderator 💙 #branding #design #ux/ui #AI #paketering #affärsutveckling)
-> Exactly
-> 
-> ”Listen to understand, not to respond” 🙌
-> 
-> Nice Antoni Lacinai 🙏💙
-

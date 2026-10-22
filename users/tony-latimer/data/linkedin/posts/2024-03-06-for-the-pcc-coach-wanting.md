@@ -12,7 +12,3 @@ article:
 
 For the #PCC coach wanting to get to #MCC 
 Things you need to know. Visit @tonylatimermcc youtube channel
-
-### Shared Article: [ICF Coaching Competency 6   The Dilemma for MCC Master Coach](https://youtube.com/watch?v=eTwU_0ObdlA&si=5PSrcp6inwvMBK6c)
-> youtube.com
-

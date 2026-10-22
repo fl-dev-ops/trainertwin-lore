@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# the clarity gap
-
-## Transcript
-
 speaker_1: what are you seeing
 
 speaker_2: Well I see a lot of driven people that are also human So they have their own insecurities about strategies about how to convey messages and so on And again thats what Im trying to help them

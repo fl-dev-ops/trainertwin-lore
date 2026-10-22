@@ -15,13 +15,3 @@ I am inspired, proud and happy!
 Thank you Claire Rackham for bringing me into your awesome bureau's offerings of keynote speakers. I am really excited!
 
 #Keynote #communication #leadership #engagement #customerfocus #motivation
-
-### Shared Article: [Antoni Lacinai - Inspirational Speakers](https://buff.ly/3bTCKCy)
-> inspirationalspeakers.co.uk
-
-
-## Comments (1)
-
-### Claire Rackham (Director of Inspirational Speakers ltd)
-> Great to be working with you Antoni!
-

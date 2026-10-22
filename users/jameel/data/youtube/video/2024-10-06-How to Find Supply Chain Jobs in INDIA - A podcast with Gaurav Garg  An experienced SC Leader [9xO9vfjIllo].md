@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Find Supply Chain Jobs in INDIA - A podcast with Gaurav Garg: An experienced SC Leader
-
-
-## Transcript
-
 speaker_1: There is a huge focus thereby on the MSME sector yeah which is the the small scale and the micro scale industries the government really wants to do good there because they are the real employment generator and we have something called a huge thrust on Make in India program
 
 

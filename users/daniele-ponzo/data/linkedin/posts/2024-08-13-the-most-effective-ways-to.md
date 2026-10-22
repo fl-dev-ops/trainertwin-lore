@@ -65,34 +65,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
  
 #english #languagecoaching #kindness
-
-## Comments (7)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> English politeness strategies are important ))
-> 
-> Starting with positivity before feedback
-> 
-> This seems brilliant.
-> 
-> And yeah, less direct, more polite, perfect balance.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> It’s true that English doesn’t have the same formal distinctions as some other languages, so finding ways to be polite and less direct is key. Daniele Ponzo
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> The body language also makes a difference.
-> Asking for something with a little smile works well 😊
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> I always use "could" or "would", "please" and "thank you". I think we should still maintain some courtesy in the professional environment
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> A little change. Big difference! Awesome share, Daniele!
-
-### Harit Bhasin (Leadership & Career Coach • AI Head Product Management • Helping tech leaders get promoted with influence & presence • Follow for leadership & career growth tips. Views are personal.)
-> A simple rephrasing makes a big difference in gaining trust and high engagement from the team
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> This post gives great tips on how to sound more professional in English, especially when you want to be polite and less direct, Daniele Ponzo
-

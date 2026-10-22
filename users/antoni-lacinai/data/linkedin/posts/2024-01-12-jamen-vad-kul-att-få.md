@@ -18,15 +18,3 @@ Förstå ditt Varför
 Var uthållig och ge upp snabbt
 
 Just do it
-
-## Comments (3)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Exakt så....bara gör det!
-
-### Linda Björck (Utbildar marknadsförare & medarbetare att skapa affärer via LinkedIn ♦️ Nr 1 LinkedIn Growth Sverige ♦️ Positionerar & coachar VD:ar & chefer för synlighet, förtroende & affärer)
-> Heja dig, jag pratade om Quitters day i morse. Vilken modell är det du rekommenderar istället för SMART-metoden?
-
-### Magnus Lasses ("Experienced Product Manager & Solutions Architect | Agile Specialist | Driving Product Success in SaaS Systems")
-> Ja man kommer långt med Just Do It 😀
-

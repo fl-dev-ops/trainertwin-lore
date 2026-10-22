@@ -14,12 +14,3 @@ Well organized, and gathering 1000 HR professionals is pretty cool!
 In the comments, I share the summary of my speech in an infographic. It's about the three communication superpowers where engagement is born and how leaders can change the culture with great communication. 
 
 Oh, the video is less than a minute. I just forgot to shorten the music 😄
-
-## Comments (2)
-
-### Josh Stinton (Global Keynote Speaker & Facilitator | Confidence, Engagement & Thinking Differently 💡| Olympic Ceremonies & TEDx Presenter | Girl Dad)
-> Great to meet you and share a red eye taxi my friend! 🤣
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> [Empty comment]
-

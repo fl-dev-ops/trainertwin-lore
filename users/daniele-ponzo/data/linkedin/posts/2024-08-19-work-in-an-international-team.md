@@ -94,22 +94,3 @@ Are you ready to face the T-Rex🦖?
 Let me know in the comments below 👇 .
 
 #itprofessionals #speakup #confidence
-
-## Comments (4)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> True Daniele Ponzo ))
-> 
-> Language skills are not a barrier to success. 
-> 
-> Focus on communication, empathy, and teamwork.
-
-### Kushal Das (Strategic design for B2B companies | Founder, Hoco Studio)
-> Working in an international team can be challenging, but it’s also a fantastic opportunity for growth and learning Daniele Ponzo.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Working in an international team can be daunting, but taking small steps to engage can make a huge difference. Daniele Ponzo
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> Working in international teams can definitely feel like navigating a T-Rex scene sometimes, Daniele Ponzo
-

@@ -5,17 +5,15 @@ date: "2026-01-01"
 source: website
 ---
 
-# The Simplicity of Mastery
+The world needs more high quality, effective, coaches
 
-## The world needs more high quality, effective, coaches
-
-#### And I am on a mission to make it happen.
+And I am on a mission to make it happen.
 
 Do you want to help?
 
-#### Welcome to the democratisation of coach training
+Welcome to the democratisation of coach training
 
-**My Purpose** Is to help build the pool of masterful coaches that the world so desperately needs. Simplicity of Mastery is for any credentialed coach who wants to take their skills and their clients' results, to the next level.
+My Purpose Is to help build the pool of masterful coaches that the world so desperately needs. Simplicity of Mastery is for any credentialed coach who wants to take their skills and their clients' results, to the next level.
 
 Through a low cost, monthly membership model, they get access to the knowledge they need, guided by me, in a very supportive community.
 
@@ -23,16 +21,15 @@ Whether a credentialed coach or just someone who knows that bringing the power o
 
 I am looking for partners who will help me spread this unique and affordable approach to acquiring coaching skills around the world.
 
-As a **Simplicity of Mastery Professional Membership partner** you get 10**%** commission for everyone who signs up through your link. Every month.
+As a Simplicity of Mastery Professional Membership partner you get 10% commission for everyone who signs up through your link. Every month.
 
-**And they get a lifetime 10% discount.**
+And they get a lifetime 10% discount.
 
-So if you participate in the programme yourself, you only need to *spread the word to 5 people, and your membership is half price!*
+So if you participate in the programme yourself, you only need to spread the word to 5 people, and your membership is half price!
 
-#### Professional Membership - $125 per month
+Professional Membership - $125 per month
 
-
-- **Ongoing mastery development**
+- Ongoing mastery development
 - Simplicity of Mastery online learning programme
 - Multiple live tutorials each month
 - Access to recording library of all tutorials
@@ -42,7 +39,7 @@ So if you participate in the programme yourself, you only need to *spread the wo
 - Learn with a community of credentialed coaches
 - Suspend or cancel anytime
 
-##### Please note:
+Please note:
 
 To be a partner you will need a PayPal account.
 

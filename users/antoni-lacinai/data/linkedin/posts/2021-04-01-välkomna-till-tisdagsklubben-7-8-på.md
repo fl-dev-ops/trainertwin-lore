@@ -15,24 +15,3 @@ Veckans gäst är Agneta Olsson 😃
 Obs: För den morgonpigge ^_^ Sätt på väckarklockan.
 
  https://buff.ly/3cBHx9u
-
-## Comments (6)
-
-### Eva Andersson (Delar yogans värme, guidar mot hållbar helhetshälsa och inspirerar våra barn och unga att växa till omtänksamma och medvetna vuxna)
-> Spännande!
-
-### Nicki von Platen (Erfaren, engagerad och kvalitetsmedveten projektledare. Med fokus på service, bemötande, miljö och logistik. #detpersonligabemötandet #miljöerutöverdetvanliga #detaljermanminns #GlobalBusinessOwners)
-> Spännande Antoni. Ser mycket fram emot när vi som har Android också kan få vara med.
-
-### TOMMY R. (Professionell mötesbokning.)
-> Ok, lägger till dig på Clubhouse nu så jag får notiser kring detta.
-
-### Agneta Olsson (Founder of Chair Management | From Owner-managed to Owner-governed | Board Leader | Author | Keynote Speaker)
-> En ynnest att få ”hänga” med er en hel timme 🙋🏼‍♀️
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Spännande! Jag lyssnar in en tisdagmorgon!
-
-### Anna-Karin Lingham (Interim Marketing Manager * Branding expert * Speaker * Mentor * Your guide to a stronger corporate, personal or ambassador brand.)
-> Ser fram emot tisdag morgon!
-

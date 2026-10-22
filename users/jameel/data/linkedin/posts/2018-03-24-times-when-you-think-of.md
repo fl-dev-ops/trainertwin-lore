@@ -11,7 +11,3 @@ article:
 ---
 
 Times when you think of INCOTERMs :)
-
-### Shared Article: [Container ships collide in Karachi](http://www.bbc.co.uk/news/world-asia-43480719)
-> bbc.co.uk
-

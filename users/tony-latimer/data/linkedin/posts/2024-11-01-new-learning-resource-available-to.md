@@ -12,7 +12,3 @@ article:
 
 New learning resource available to coaches. Nailing Competency 7!
 How to truly Create Awareness. Great session last month with ICF Netherlands now available to International Coaching Federation members worldwide
-
-### Shared Article: [Competency 7. Evokes Awareness; How do you do it?](https://youtube.com/watch?v=vnxhYTiiYCk&si=l6_NR92pY5-Plam1)
-> youtube.com
-

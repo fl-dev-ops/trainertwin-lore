@@ -22,15 +22,3 @@ As a guest columnist at the event magazine Eventeffect, I look into my crystal b
 6. Best service and tech skills at conference providers will be winners.
 
 What do you predict?
-
-### Shared Article: [Årskrönika från Antoni Lacinai: 6 trender för 2023 – och en snabb tillbakablick - eventeffect.se](https://buff.ly/3UlLWQK)
-> buff.ly
-
-
-## Comments (1)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Definitely number 4 Antoni, followed closely by number 1 😀
-> 
-> Happy 2023, look forward to meeting up sometime during it ....
-

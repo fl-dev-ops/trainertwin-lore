@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Grammar A Tool to Connect, Not Correct #shorts
-
-## Transcript
-
 speaker_1: And Karuna one thing that uh I dont know that fascinates me is this concept of grammar as a bridge I mean were all were all scared of grammar
 
 speaker_2: When youre teaching grammar to connect not to correct And thats why I always advocate to teach grammar because if you dont teach grammar to you know to to to learners like how you should write how you should expect them to write correctly So you have to teach them first

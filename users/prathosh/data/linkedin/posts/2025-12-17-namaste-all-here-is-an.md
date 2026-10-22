@@ -18,7 +18,3 @@ I've also talked about the need for traditional philosophical scholars to take u
 
 It is in English and I thought of sharing it. some of you may find it interesting - 
  https://lnkd.in/g6tBmnWM
-
-### Shared Article: [The Philosophy Of Krishna Bhakti In North India, Session 2](https://www.youtube.com/live/zIeDK3sn7jg?si=A3Jyy940tWalW6EN&t=2h05m)
-> youtube.com
-

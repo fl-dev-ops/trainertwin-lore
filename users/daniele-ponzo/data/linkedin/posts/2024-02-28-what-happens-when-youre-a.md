@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-corporatetraining-lang
 likes: 12
 comments: 3
 images_count: 1
+author_comments:
+- "\U0001F4CCWorking in IT? Don't make my mistake: \n\nhttps://www.linkedin.com/posts/daniele-ponzo-8548164_working-in-it-dont-make-my-mistake-activity-7171029586162499585-JH3A"
 ---
 
 What happens when you’re a great professional and you work in a multinational company?
@@ -47,14 +49,3 @@ Here’s to taking your English confidence to the next level!
 P.S. if you think your team needs extra support on their communication skills, feel free to reach out. 📩 
 
 #english #corporatetraining #languageimprovement #communicationskills
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Working in IT? Don't make my mistake: 
-> 
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_working-in-it-dont-make-my-mistake-activity-7171029586162499585-JH3A
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> Great job Daniele Ponzo!
-

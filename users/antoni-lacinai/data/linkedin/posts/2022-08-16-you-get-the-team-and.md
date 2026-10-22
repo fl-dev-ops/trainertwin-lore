@@ -29,19 +29,3 @@ I am hypersensitive to good and bad service. For me it is a reflection, or sympt
 Marielle didn’t need much time to answer. “You know what. We have an abundance of shirts here. How about you just keep it. No charge.”
 
 I was blown away. Now I had two heroes. I started to pay extra attention during my travels, and I found that this particular chain of hotels from the same owner all share this amazing desire to give great service. My conclusion is therefor that this isn’t a coincidence.  This is about leadership communication at it’s best. This is how employee engagement is built.
-
-## Comments (3)
-
-### Angela Brooks (Blogger and Content Strategist | Turning what women already know into blogs that get found in Google and AI search | AngelaBrook.com)
-> Now that is what makes customers come back again and again. You know if you have a need they will go the extra step reduces stress of travel
-
-### Marcus Ödlund (Omvandlar relationer till efterfrågan → affär över tid | Event & Community)
-> Just wow! Agree 100%
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Just love your message here Antoni, it is all about receiving what you deSERVE
-> 
-> Giving in any small way, brings so much more back return
-> 
-> (Not to take away from the professional service offered by the hotel, packing an extra shirt into your laptop bag may also help 😃😎)
-

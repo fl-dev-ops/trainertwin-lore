@@ -23,20 +23,3 @@ The entry fee is visible. The exit cost is modelled. The investment in the middl
 That logic is exactly backwards. I've written about why, and what the numbers look like when you put them all on the same table.
 
 https://lnkd.in/gRShsMnY
-
-### Shared Article: [The True Cost of Executive Hiring and CEO Failure](https://www.profitableleadership.com/blog/true-cost-executive-hiring-ceo-failure)
-> profitableleadership.com
-
-
-## Comments (2)
-
-### Catherine Law (Seasoned Executive Coach to Top-level Dealmakers | Former M&A Banker and Strategy Consultant | Citi KPMG PwC Alumna | I engage with organisations to coach high-achieving leaders to perform even better)
-> Fantastic article, Tony Latimer.  Thanks for bringing together the data to present this compelling commercial case to invest in executive coaching for the chief executive officer.
-
-### Arne Blom (Elevating Leaders & Teams | Executive Coach | Leadership Transformation | Certified Team Coach)
-> Thank you for the insightful article Tony.   
-> 
-> According to my own experience, companies that have proper succession policies in place, get their CEO’s from their own ranks.  This makes it possible to include coaching in this plan, and prepare the selected candidate or candidates for the top job.  
-> 
-> Once the CEO is in place the demands are so high and so immediate that it makes it challenging to find room for coaching.
-

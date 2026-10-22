@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-businessenglis
 likes: 39
 comments: 20
 images_count: 1
+author_comments:
+- 📌Struggling with Impostor Syndrome? Join me LIVE ⬇️  https://www.linkedin.com/events/7265251390476742656/about/
 ---
 
 Are you working in an international company?
@@ -76,37 +78,3 @@ I share free tips to help #itprofessionals communicate more confidently in Engli
 ➡ Daniele
 
 #businessenglish #language #tech
-
-## Comments (9)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Struggling with Impostor Syndrome? Join me LIVE ⬇️  https://www.linkedin.com/events/7265251390476742656/about/
-
-### Mohamed Chaudry (Group CFO | Operating CFO | Interim CFO | AI-Native CFO | Built 55 AI Finance Agents | $300M+ Capital Raised/Advised | M&A · Scale · Restructuring | FCCA)
-> Daniele Ponzo Great tips, Daniele! Phrasal verbs are essential for business English, and I love your idea of learning them by topic and creating a personalized dictionary.
-> 
-> For me, practicing them in real-world scenarios, like role-playing meetings, made them easier to apply.
-> 
-> What's one phrasal verb every professional should master?
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Understanding phrasal verbs really does feel like unlocking a new level in communication, especially in an international context. Daniele Ponzo
-
-### Salman Lazar (Full Stack Software Developer | SQL | C# | .NET | JS | BLAZOR | MAUI | REACT)
-> Insightful!
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> I love phrasal verbs :). Never really knew about them till I started teaching ( I think most native speakers would not what they are!)
-
-### Tomàs Pablo Carbone (Founder TOMKO Engineering srl | I am passionate about Management and Clinical Imaging, I help TOMKO engineering srl to create management and imaging systems necessary to improve the daily lives of our customers.)
-> It's like a journey into the unknown tundra. Great Daniele very helpful!!!
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo This is a fantastic breakdown of phrasal verbs in the workplace! It’s so true that understanding when to use them and when to switch to more formal equivalents can make a huge difference in communication.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Phrasal verbs can be realllllly overwhelming. I give them in doses. And then mention accidentally that they can also be separable and inseparable 😂
-
-### Alina Kulish (From writing code to leading the people who write it · Engineering Team Lead, 11 yrs in · Navigating the AI shift)
-> I love phrasal verbs! It is very useful and I hear them all the time!
-

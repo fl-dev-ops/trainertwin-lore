@@ -19,9 +19,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How to Unlock your True Potential #podcast #globalspeakerstalk #nonnativeenglishspeakers #shorts
-
-## Transcript
-
 speaker_1: because I believe that you know like methods that work for other people doesnt mean itll work for you Its I think all about experimenting and trying new things out pushing yourself your boundaries and seeing what youre capable of because you know everyones different you know we learn differently and we have different levels and you know you cant really compare yourself Its about building your own path and seeing you know what works for you

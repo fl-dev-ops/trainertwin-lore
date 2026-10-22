@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Italians Struggle with English (Real Reason) #shorts
-
-## Transcript
-
 speaker_1: for that reason in Italy uh when you study English you dont study English you study English literature in Italian Yeah So you dont get to know even to say I dont know hello my name is or what time is it You dont know how to say that
 
 speaker_2: You never speak No its crazy isnt it Yes

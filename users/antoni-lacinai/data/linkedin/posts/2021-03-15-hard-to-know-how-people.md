@@ -21,12 +21,3 @@ Do you agree?
 #leadership #virtualleadership #remoteleadership #communication
 
 ps -  let me know if you want an executive summary with more findings
-
-## Comments (2)
-
-### Pirkko Korpi (Marketing & Business Development Director at Teleste)
-> I agree! And would be interested to read the executive summary too!
-
-### Jonas Peter Olsson (Nordic & European Business Relations | 20y International Clients)
-> These are great insights Antoni! I recommend reading the executive summary if you want to know more about today’s virtual leadership challenges and how to overcome those. 👏
-

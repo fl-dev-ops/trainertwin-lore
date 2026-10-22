@@ -85,36 +85,3 @@ Next time you speak, focus on this:
 That’s already a different version of you.
   
 Which one do you recognise the most in yourself?
-
-## Comments (10)
-
-### Frank Burke (🇬🇧 British Communication Coach | Business English & British Culture | Helping International Professionals and Students Communicate with Confidence | CELTA | MBA | 22 Years in Hong Kong)
-> Sensible advise Daniele Ponzo, particularly pausing rather than filling.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Strong point. Confidence often matters more than perfect grammar. Clear thinking, calm pauses, and direct communication usually make the biggest difference.
-
-### Susan Quarm (Teaching all day, admin at night? | Admin support for independent language teachers and academy owners who want their time back⌛)
-> Simple > Perfect, always!!
-
-### Fulvio Esposito (OECD Committee for Scientific and Technological Policy)
-> Just like that 😉
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Hesitation, not language, is what often holds us back. I definitely catch myself over-explaining sometimes time to pause and be direct! Daniele Ponzo
-
-### Lucyna Milanowska (I help leaders UNFEAR anxiety, burnout, and depression. Founder of Unfear® | Psychologist I Certified Rapid Transformational Therapist® I Global HR Talent & Development Director)
-> Less is more, always. But most importantly, learn to trust yourself. Deep down, you already know the answer, so why keep doubting? You’re only clipping your own wings. Stand up for yourself, for you, not for anyone else!! 🤞🏻🤞🏻
-
-### Andrea Roberto (Copywriter | Language Coach | Polyglot)
-> I found myself in more than one of these situations and what generally influenced my public speaking abilities (or better the lack thereof) was actually the infamous stage fright and the inexperience in communication skills. Nothing to do with my language competence.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> No one owes an apology for imperfect English, by the way.
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Say it clearly, life has no space for perfect 😅
-
-### Sarah Gruneisen 🐉 (Principal Consultant in Transformation: AI for Leaders and Products • Scaling engineering leaders, teams, and sustainable impact with AI • Leadership • Human-Centered Transformation)
-> Especially when we are too focused on perfect, communicating stalls!
-

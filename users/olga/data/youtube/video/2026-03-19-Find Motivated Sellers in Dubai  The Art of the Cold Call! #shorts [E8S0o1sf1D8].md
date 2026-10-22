@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Find Motivated Sellers in Dubai: The Art of the Cold Call! #shorts
-
-## Transcript
-
 speaker_1: My goal in these calls is to find someone who is potentially gonna be panicky selling at some point and I will be able to understand that because I am having a Im having you talking I can hear what you say You got me You are calm Yeah You are collected You know the situation is gonna get better So Im not here to prove you anything I am I am wherever you want to go Im going with you because my goal is not to inform everyone in the market oh the market is great No I dont really care because I dont know
 
 speaker_2: Yeah

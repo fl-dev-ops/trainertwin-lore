@@ -24,14 +24,3 @@ I've been doing this for 30 years. The speakers who move a room are the ones who
 I'm delighted to say he's joined my inner circle of key speakers.
 
 Where have you seen the Clarity Gap hit hardest?
-
-## Comments (2)
-
-### Martin Brooks (The Business Body Language Expert. Helping leaders convert better body language into competitive advantage. Keynote Speaker, Communication Coach, Author of Body Language Decoder.)
-> "Most organisations don't have a strategy problem. They have a communication problem dressed in a strategy suit."
-> 
-> That is a brilliant line Antoni Lacinai 👏 👏
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results)
-> Bob Strange  a pleasure meeting you and in such a fine historical place. Yes, let’s help leaders and teams close the clarity gap and have a fun and productive workplace 😃
-

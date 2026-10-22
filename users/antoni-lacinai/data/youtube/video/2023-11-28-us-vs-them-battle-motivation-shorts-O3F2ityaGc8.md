@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# US VS THEM BATTLE #motivation #shorts
-
-## Transcript
-
 speaker_1: If I am like you I tend to like you If Im not like you I tend to not like you Isnt that a great saying And it puts the finger on one of the biggest problems in corporations today The us and them battles

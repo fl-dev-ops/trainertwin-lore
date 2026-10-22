@@ -12,9 +12,3 @@ We spend very little time in Level 3 talking about what to say.
 We spend much more time exploring why something landed, what it shifted, and what it may have bypassed. That level of analysis is what allows simplicity to emerge.
 
 Register your interest.
-
-## Comments (1)
-
-### Sheldon Frank (Unlocking potential to achieve scalable family business growth and higher shareholder value for a profitable exit | Frank Conversations – Family business coach Cape Town)
-> Interested
-

@@ -41,11 +41,6 @@ speakers:
   speaker_2: 'Karuna Dwivedi'
 ---
 
-
-# Language: A Bridge or a Barrier? | The Non Native Leader | Episode 29
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to another episode of the non native leader video podcast series where we explore stories of international leaders working in various sectors education art IT Fintech politics academia And they all have one thing in common They were not born in an English speaking country My name is Daniele Im the host and I am really happy to have here with me Karuna Tdi a colleague we could say Yeah Am I right
 
 speaker_2: Yes absolutely

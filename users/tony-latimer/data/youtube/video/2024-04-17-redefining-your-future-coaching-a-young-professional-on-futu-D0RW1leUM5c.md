@@ -16,11 +16,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Redefining your future. Coaching a young professional on future career direction decisions.
-
-## Transcript
-
 speaker_1: Context I am an executive coach I I had my first exposure to coaching in 1984 when it didnt really exist in the corporate world So what I do and what I teach is is not coming from a coaching school Its coming from what I have figured out over the last 40 years And Ive only worked with corporate entities Teaching leaders um teaching HR professionals and internal coaches for the last 25 years However what Im now teaching to coaches like you starting this year is Level 3 Mastery in Coaching And interestingly enough I used to teach that to the corporate leaders and still do in just a 3 day program Not 60 hours training or 125 hours training or or 250 Um I believe you can teach mastery to beginners if you get it right I also believe there are there are multiple levels of mastery so we can we can dig into that a little bit later So for the moment if I can invite you all to just bring yourselves centered and present Come online with the intention to learn something that is going to dramatically change how you coach people Its difficult I know when you know theres 40 or 50 people out there watching listening So just lets let them disappear What Id like you to do is just bring yourself centered in whatever way that means to you And fully grounded and just allow yourself to connect with me So they all just fade into the background Okay good So I believe youve come to this conversation with something you wanted to resolve So tell me weve got um weve got about 30 minutes Whats the issue you need to resolve in the next 30 minutes
 
 speaker_2: Um so uh the situation is that Ive um quit my job uh 3 months ago already and I have this um vision of the hug that I want to see in 30 years 40 years but it feels like there is a gap setting achievable milestones measurable milestones um on the on my journey of getting to the Vahag of my dreams kind of situation

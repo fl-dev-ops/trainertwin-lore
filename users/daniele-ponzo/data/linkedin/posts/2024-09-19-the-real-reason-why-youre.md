@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-languagelearni
 likes: 26
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFKu1ZMCAU4QA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1726671255950?e=1793178000&v=beta&t=wrg2glTp4IjEdP9srnFd3JrWLIP8BMCZys_-2hMFWQ4
+author_comments:
+- Any language learners out there? How was your experience?
+- '📌 Here is the full episode, check it out on my YouTube channel: https://youtu.be/Vs9uoIK4t-o?si=uj0bKeEwTWsj9ldF'
 ---
 
 The real reason why you’re not progressing in English.
@@ -43,23 +46,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer #nonnativeleader
-
-## Comments (5)
-
-### Kasia Grabda (Turning invisible team dynamics into measurable performance | Psychological Safety | Motivation | Cognitive Diversity | ICF ACC | Data-Driven Coach & Mentor)
-> Great conversation! I can't agree more. The more we have exposure to the language, the easier it is to learn!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Any language learners out there? How was your experience?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Here is the full episode, check it out on my YouTube channel: https://youtu.be/Vs9uoIK4t-o?si=uj0bKeEwTWsj9ldF
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Great series Daniele! 🤓
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> I can totally relate to this, Daniele Ponzo. It reminds me of my early days in Bangkok trying to have conversations with taxi drivers and feeling ‘stupid’, as your guest says, feeling like a child who can't communicate properly.  
-> But you have to do it! 
-> Yes, it's painful at times, but it's extremely rewarding when you reach that stage where you can express yourself, you can carry a conversation, and you have become fluent!
-

@@ -21,15 +21,3 @@ Here are my five basic tips, with details for each.
 
 Enjoy
 ^_^
-
-### Shared Document: [5 ways for a better workshop]()
-
-
-## Comments (2)
-
-### Sally Pymer (Speaker | Empowerment Coach | Creating spaces where every smile matters)
-> I love workshops too! Thanks for the tips!
-
-### Srikant Bharti (BSS Solution Architect @ GlobalLogic || Ex - Netcracker, Amdocs, Ericsson, Huawei)
-> Thanks Antoni Lacinai for sharing this!
-

@@ -43,28 +43,3 @@ _____________________
  🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #presentation
-
-### Shared Document: [5 Tips to Present with Confidence]()
-
-
-## Comments (3)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> True Daniele ))
-> 
-> Presenting can be daunting, but being prepared is key! 
-> 
-> Also, managing nervousness is a challenge. 
-> 
-> Thanks for sharing your tips!
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Great tips Daniele Ponzo! I'm presenting at a (non business) conference next week and am busy practising at the moment! It's a joint presentation though, and I haven't presented with this person before. We'll practise together tomorrow online but I'll only get to meet her on the presentation day so 🤞
-
-### Giorgin Serbanescu (Natural Wellness Guide | Essential Oil Solutions for Daily Wellbeing | Resilience Facilitator)
-> You have done a very professional job with this carousel. Daniele
-> 
-> The part I allow myself, which is relevant to every human being, is that they can change their paradigms from theory.
-> 
-> Practice is the best teacher there is.
-

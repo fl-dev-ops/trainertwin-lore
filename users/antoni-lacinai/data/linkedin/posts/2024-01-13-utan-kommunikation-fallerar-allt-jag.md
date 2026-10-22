@@ -27,20 +27,3 @@ Förhoppningsvis lär vi oss. I sämsta faller fortsätter vi med noll helhetsan
 En sak vet vi: Det lär snöa i Skåne igen. Fler fartyg kommer att släppa ut sin olja. Och vad händer när ett kärnkraftverk får problem på riktigt?
 
 Kommunikation i sig självt är ointressant. Men kommunikation i ett sammanhang är helt nödvändigt.
-
-### Shared Article: [Tumultet på E22 inifrån: ”Totalt kaos”](https://www.svt.se/nyheter/lokalt/skane/tumultet-pa-e22-inifran-totalt-kaos)
-> svt.se
-
-
-## Comments (3)
-
-### Terese Mörtvik (Copywriter | Designer | Marketing Consultant)
-> Ja, verkligen! Och vilken tur att du inte blev fast i den där mardrömmen på E22. Arma människor. Det är som du säger ganska skrämmande, hur mycket som fallerar bara för att människor och organisationer inte kan prata med varandra och samarbeta. Kommunikation är nyckeln till förvånansvärt många organisationsproblem.
-
-### Susanne Hydén (Headhunter ⭐️ framgångscoach ⭐️ författare ⭐️ föreläsare ⭐️ manusutvecklare ⭐️ Hör av dig: 0736-580090)
-> Viktigt inlägg samtidigt som ligger i tiden. Att ta ansvar, ha fungerande krisplaner och AGERA är ett omtag samtliga myndigheter behöver ta tag i. I kommunikation ligger ju också att förstå mänsklig psykologi så ett "var beredd" inte blir till panik och låsning. 
-> Sedan länge har jag ett litet nödkit i bilen med: 1 flaska vatten, värmeljus, tändare, energibars, kniv, förstahjälpenkit, värmegelekuddar samt två foliefiltar.
-
-### Lillian Johansson (Sales Manager OEM & Customer Service Manager - Dunlop Hiflex)
-> Så sant så sant, snart ska någons ”huvud” rulla…. jag har stark gissning på vems….🫣
-

@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Think You Need an Engineering Degree for Manufacturing? Think Again! 💥
-
-
-## Transcript
-
 speaker_1: Uh you know I dont believe that to be the case right I mean I am an industrial engineer by training Um so whether you call me an engineer or not thats kind of up to you right Um but I think its its you know the the comfort around numbers because theres so many numbers and calculations going to manufacturing certainly help So I think an affinity for that but I dont think that a strict manufacturing uh sorry engineering background is is critical Its it can be helpful right But I think uh its just another one of those things I mean youve got to deal with so many people in manufacturing to get stuff done that you know having that ability to communicate collaborate is just as important or more important I think than a technical background

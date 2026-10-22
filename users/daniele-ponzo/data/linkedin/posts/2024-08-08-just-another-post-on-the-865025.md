@@ -56,17 +56,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #LanguageLearning #ConfidenceBuilding
-
-## Comments (3)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Love this Daniele Ponzo. The sentence "Live and experience the situation before facing it in real life." really encapsulates the methodology I use.
-
-### Kushal Das (Strategic design for B2B companies | Founder, Hoco Studio)
-> Becoming a confident communicator requires more than just knowing the language, rules, and grammar. 
-> 
-> It involves role play, repetition, and rehearsal Daniele Ponzo.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> It’s not just about knowing the rules but about immersing yourself in real-life situations, rehearsing, and role-playing. Daniele Ponzo
-

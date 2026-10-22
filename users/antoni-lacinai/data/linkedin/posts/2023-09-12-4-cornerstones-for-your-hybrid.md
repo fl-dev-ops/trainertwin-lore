@@ -26,12 +26,3 @@ You have the opportunity to get the best of both worlds - analog and digital - i
 
 Thanks for reading my mind
 //Antoni Lacinai
-
-## Comments (2)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Interesting reading! 👌
-
-### Andris Zvejnieks (Senior Advisor @ Communicate4result | Strategic Communications Counsel)
-> Wise cornerstones Antoni!
-

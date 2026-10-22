@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-langua
 likes: 4
 comments: 1
 images_count: 1
+author_comments:
+- |-
+  📌 How my client transformed her confidence communicating in English ⬇️
+
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-businessenglish-careergrowth-activity-7105067130802315264-bS01/
 ---
 
 5 things to stop doing to communicate confidently in English.
@@ -56,11 +61,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️ Daniele
 
 #english #Itprofessionals #languagecoaching
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 How my client transformed her confidence communicating in English ⬇️
-> 
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-businessenglish-careergrowth-activity-7105067130802315264-bS01/
-

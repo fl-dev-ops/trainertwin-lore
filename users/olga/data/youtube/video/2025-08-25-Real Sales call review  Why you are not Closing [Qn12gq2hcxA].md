@@ -14,11 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Real Sales call review: Why you are not Closing
-
-## Transcript
-
 speaker_1: Hi and in this video were going to be digging into what to say on the phone call with a client who submitted his inquiries 4 5 or even 6 months ago How to talk to the aged leads because out of the aged leads the old leads or recycled leads whatever your company is using as a terminology for that you can still close a lot of deals In this video Im gonna break down an existing call which Um an agent in my coaching program is executing using the fantastic script that I provide which literally changes the conversion rate from maybe 10 percent up to like lets say 40 percent And even though he has a script hes trained by me hes still not there yet So I will show you what hes doing right and what should be done additionally to make You book a 100 percent guaranteed Zoom meeting out of the age lead
 
 speaker_2: Hello

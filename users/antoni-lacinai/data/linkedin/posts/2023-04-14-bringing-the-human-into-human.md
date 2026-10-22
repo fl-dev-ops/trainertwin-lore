@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/lacinai_bringing-the-human-into-human-resour
 likes: 16
 comments: 2
 images_count: 1
+author_comments:
+- |-
+  Spotify: https://open.spotify.com/episode/1sPVTOwxRYwoHd8vthTVTj?si=kOYLYOujTYiIEGY2a0EoGQ
+
+  Apple Podcasts: https://podcasts.apple.com/us/podcast/can-toxic-personalities-ever-contribute-to-positive/id1537889926?i=1000608304522 
+
+  YouTube: https://youtu.be/jRQCSN7p40I 
+
+  All other podcast platforms: https://anchor.fm/hrtraci
 ---
 
 Bringing the HUMAN into Human Resources!
@@ -14,18 +23,3 @@ Extremely happy to have had this talk with Awesome Traci Chernoff on her podcast
 I'll put the links in my comment
 
 Take a walk, bike ride, or bus tour. Earphones on. Hang out with us ^_^
-
-## Comments (2)
-
-### Sebastian Larsson (Lagkapten på Knowit)
-> awesome, will listen to that.
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Spotify: https://open.spotify.com/episode/1sPVTOwxRYwoHd8vthTVTj?si=kOYLYOujTYiIEGY2a0EoGQ
-> 
-> Apple Podcasts: https://podcasts.apple.com/us/podcast/can-toxic-personalities-ever-contribute-to-positive/id1537889926?i=1000608304522 
-> 
-> YouTube: https://youtu.be/jRQCSN7p40I 
-> 
-> All other podcast platforms: https://anchor.fm/hrtraci
-

@@ -13,7 +13,3 @@ article:
 We’re thrilled that Mars Canada has been named as one of Canada’s Top 100 Employers for 2023. At Mars, we’re proud to work every day to create the world we want tomorrow, so today we celebrate our Associates and colleagues across Canada who bring our purpose to life. #ProudlyMars #CanadasTop100
 
 https://lnkd.in/gauz9KwD
-
-### Shared Article: [Canada's Top 100 Employers (2026)](https://www.canadastop100.com/national/)
-> canadastop100.com
-

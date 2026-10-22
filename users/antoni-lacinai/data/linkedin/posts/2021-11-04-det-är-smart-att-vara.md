@@ -24,16 +24,3 @@ om folk i deras omgivning är ohövliga
 Läs resten på min sida.
 
 #ledarskap #engagemang #Arbetsglädje #kommunikation
-
-### Shared Article: [Ohövlighet på jobbet ger sjukt många negativa konsekvenser - Antoni Lacinai](https://buff.ly/3yVZRmx)
-> buff.ly
-
-
-## Comments (2)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Har du några siffror på nör det är tvärt om?
-
-### Virpi Lindfors (Enhetschef)
-> Verkligen sant! Ofta tänker vi att gott bemötande är viktigt mot kund men förstår inte att det är viktigt för kunden med gott bemötande internt, för att maximal energi ska läggas på rätt saker.
-

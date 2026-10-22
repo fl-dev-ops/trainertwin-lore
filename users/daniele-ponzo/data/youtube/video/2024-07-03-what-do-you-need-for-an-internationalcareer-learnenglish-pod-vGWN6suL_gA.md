@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What do you need for an #internationalcareer? #learnenglish #podcast #courage #womenentreprenuer
-
-## Transcript
-
 speaker_1: And was it was it easy for you to lets say to blend in to to to find your way within a complete different environment
 
 speaker_2: Yes I uh now like I think its a good thing that at the time when I did that uh my English was better because I think I would have probably go back to um probably go back to Spain saying this is not for me because a lot of the people that I was hanging out on this particular role they were from Spain So um so yeah that would have been um yeah I would have probably have to come back again and learn English but at the time my English was already you know much better Um so so yeah no it was it was it was good It was a very good experience As I said it was it was a big challenge because one of the um positions that I had at the time it was to do with finance which I never really did before Um and finance is very very different

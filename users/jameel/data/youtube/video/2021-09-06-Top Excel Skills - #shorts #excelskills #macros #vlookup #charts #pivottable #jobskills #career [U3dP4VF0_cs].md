@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# Top Excel Skills - #shorts #excelskills #macros #vlookup #charts #pivottable #jobskills #career
-
-## Transcript
-
 speaker_1: 4 EXCEL SKILLS
 
 

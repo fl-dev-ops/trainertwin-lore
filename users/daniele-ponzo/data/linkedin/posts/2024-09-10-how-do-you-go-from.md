@@ -5,6 +5,12 @@ url: https://www.linkedin.com/posts/daniele-ponzo_wellbeingeconomy-international
 likes: 24
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQGUdE9CWvE6gQ/CeJzLyCnWTcstMNE1NzIo0DU2SCvQTS5KM7LQyYBJmJrgkDCxwCFhbIYiAQDmRB3s?e=1793178000&v=beta&t=cNl9meGnUgQtpCxNpL5BQMZ2AVvQyZAgG7buNkgPj2w
+author_comments:
+- 'Don''t forget to check my Youtube channel for the for the full episode: https://youtu.be/Vs9uoIK4t-o'
+- Thanks for reposting, Sandra Stynes! I really appreciate the support 🙏
+- '📌 Do you ever feel stuck and can''t communicate in a different language? Watch the full episode to learn about Martin''s journey: https://youtu.be/Vs9uoIK4t-o'
+- 'Follow Martin on his channel here (insightful animations): https://www.youtube.com/@MOPALAB'
+- 'Want to know more about the film? Watch "Purpose"-the trailer here: https://purpose.film/'
 ---
 
 How do you go from hesitant to fluent speaker?
@@ -39,33 +45,3 @@ Explore my Youtube Channel for more.
 Follow ➡️Daniele
 
 #internationalspeaker #nonnativeleader #inspiration
-
-## Comments (7)
-
-### Martin Oetting (Offenbar bin ich jetzt YouTuber: youtube.com/@MartinOetting)
-> Oh boy ... sometimes when I get excited about things, I talk way to fast ... :D
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Don't forget to check my Youtube channel for the for the full episode: https://youtu.be/Vs9uoIK4t-o
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Sandra Stynes! I really appreciate the support 🙏
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Loved it Daniele ))
-> 
-> Pride can be a significant barrier to language learning
-> 
-> Letting go of ego is essential.
-> 
-> Keep sharing your  insights, Daniele
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Do you ever feel stuck and can't communicate in a different language? Watch the full episode to learn about Martin's journey: https://youtu.be/Vs9uoIK4t-o
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Follow Martin on his channel here (insightful animations): https://www.youtube.com/@MOPALAB
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Want to know more about the film? Watch "Purpose"-the trailer here: https://purpose.film/
-

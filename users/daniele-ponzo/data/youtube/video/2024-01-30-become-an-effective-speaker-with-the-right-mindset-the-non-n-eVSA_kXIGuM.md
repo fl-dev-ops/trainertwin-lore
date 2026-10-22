@@ -31,11 +31,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Become an EFFECTIVE speaker with the right MINDSET | The Non-Native Leader | Episode 7
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to another episode of the Non Native Leader a video podcast series where we talk to people who are not born in an English speaking country but theyre having a career international career traveling around or theyre working internationally from their home And weve been exploring different stories challenges weve been exploring uh personal stories And Im particularly happy today to have here David Ferreras uh whos an English teacher special English teacher and hes going to tell us all about it Im sure And who is working from his native city but hes working internationally because hes helping people to explore the joys and pains and the challenges of the English language yeah So welcome David Uh its really a pleasure to have you here
 
 speaker_2: Thank you for having me Its a pleasure to be here with you

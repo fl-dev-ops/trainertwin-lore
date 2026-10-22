@@ -17,11 +17,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# Online Case Study: Agent got a client who is claiming to have millions what to do? - Part 1
-
-## Transcript
-
 speaker_1: For those who joined recently um we are now discussing the lead
 
 speaker_2: What I was saying is like uh at the Zoom meeting it will become evident you know like uh and then what happens is that these people usually scam you in the way that it says I have 10 million you know but I cannot transfer it So its like I need to borrow your account or something like that And then the next thing they will say okay but uh first its like can you help me pay some of these transfer fees and me some 500 and thats the scam

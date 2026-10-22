@@ -16,18 +16,3 @@ EVERYTHING ABOUT YOU COMMUNICATES
 A great workplace has great communication. With great communication comes high engagement which leads to great results. This is the core of what I speak about and train leaders and teams in. Make sure you meet, greet,  and treat your colleagues well. It will pay off.
 
 #leadership #communication #engagement
-
-## Comments (4)
-
-### Elisabeth Falcini 👩‍💻🚀🌟 (Redovisningskonsult med soft skills)
-> I Choose happiness Every day!🥰
-
-### Johan Seltborg (CEO | Interim CEO | Board Chair | Transformation | M&A)
-> Otroligt viktigt för ledare att sprida glädje och inte oro i korridorerna.
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Jag väljer glädjen.
-
-### Maria Penca (Inköp | Projektledning | B2B | Storkundsansvarig | Försäljning)
-> Mycket bra inlägg ang kommunikation Antoni Lacinai 🙌🌟
-

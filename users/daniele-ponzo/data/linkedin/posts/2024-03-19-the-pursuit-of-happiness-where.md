@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-inspiration-we
 likes: 16
 comments: 1
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQF7N75MTk4dKw/CeJzLyCnWNTcyKNA1Nkgr0E0uSjOy0MkAipmaYIqZWGCKGZuhiAEAqbEXXA?e=1793178000&v=beta&t=YHSozyTmfHGUyFLyo3IfWPhf8Hv_ZTC4qhI8C3pxCa4
+author_comments:
+- 📌Here is the full episode, don't miss it! https://youtu.be/aT5mFOLaj3s
 ---
 
 The PURSUIT of HAPPINESS
@@ -35,9 +37,3 @@ If you did, remember to hit the 🔔 on my profile so you won’t miss the next.
 Follow ➡️Daniele
  
 #nonnativeleader #inspiration  #wellbeing  #sustainability  #impact  #inspireinclusion
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Here is the full episode, don't miss it! https://youtu.be/aT5mFOLaj3s
-

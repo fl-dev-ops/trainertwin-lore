@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 5 Harsh Realities of Being a Real Estate Agent in Dubai (Unfiltered)
-
-## Transcript
-
 speaker_1: Give it another go
 
 speaker_2: Done Im back Sorry

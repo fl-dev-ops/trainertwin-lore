@@ -13,13 +13,3 @@ article:
 On Amazon. A good read if you lead remote teams
 
 #leadership #engagement #Communication
-
-### Shared Article: [Virtual leadership: The challenges leaders aim to overcome](https://buff.ly/3cM1jjh)
-> buff.ly
-
-
-## Comments (1)
-
-### Thomas Erikson (International Keynote Speaker | Helping Leaders Reduce the Cost of Misunderstanding | 12M+ Books Sold | Leadership, Communication & Human Behaviour)
-> Cool! 👍🙂
-

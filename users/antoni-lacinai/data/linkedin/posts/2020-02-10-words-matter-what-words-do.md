@@ -18,7 +18,3 @@ Do you say "Sales meeting" or "Customer meeting"?
 What else do we say unintentionally?
 
 #communication #sales #keynote
-
-### Shared Article: [Sales meeting? I thought it was a Customer meeting…](https://www.linkedin.com/pulse/sales-meeting-i-thought-customer-antoni-lacinai)
-> Antoni Lacinai on LinkedIn  
-

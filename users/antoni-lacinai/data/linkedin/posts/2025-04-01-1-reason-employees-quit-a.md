@@ -20,9 +20,3 @@ A leader who doesn’t listen and doesn’t care? That’s where people draw the
 I help leaders communicate better and build teams where people WANT to stay and perform.
 
 DM me if you want to learn more.
-
-## Comments (1)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Det dyra med en dålig chef är inte lönen, utan det som kostar och  skadar är vad hen gör för sin omgivning.
-

@@ -25,16 +25,3 @@ I’d love to know your opinion (fast or slow, I don’t mind).
 P.S. I always use CLARITY as a measuring tool: is my message clear (tone, words, delivery)📏?
 
 #english #languageimprovement
-
-## Comments (2)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Clarity is key Daniele Ponzo ))
-> 
-> I completely agree with using it as a measuring tool. 
-> 
-> Clear message > speed or perfection.
-
-### Americo Da Costa (Social Media Strategist & Content Creator Helping Build Visibilty Through Livestreams & Podcasts. 🎤🎧)
-> I can't shut up once I start talking about something I'm passionate about.
-

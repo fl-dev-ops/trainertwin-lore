@@ -22,20 +22,3 @@ That is caring leadership to me. Care creates energy. Energy creates engagement.
 On a personal note: I am consistent with my health goals. Same goals for nearly 18 years. So today is not blue for me. It is the color of determination.
 
 What color is your Monday?
-
-## Comments (3)
-
-### Daniela Landherr (Author of Everything is Working. Nothing is Moving. | Keynote Speaker | Trust. Leadership. Moving what’s stuck.)
-> Yes to that! 🩵
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Interesting. I haven’t heard about ”Blue Monday” (other than in the synth track from the 80’s). My Monday yesterday was laboriously earth-soil brown. Today, Tuesday, is energetically orange.
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Some more questions from a strengths-based perspective: 
-> 
-> – What's good/going well? Why? 
-> – What coping mechanisms are we using that help us get through this? 
-> – When we look at how we handle our current challenges, what are we most proud of?
-> – What does it say about us that we keep going, despite the difficulties?
-

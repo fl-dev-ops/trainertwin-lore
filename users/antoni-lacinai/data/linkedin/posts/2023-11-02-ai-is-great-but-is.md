@@ -20,31 +20,3 @@ What do you think? Todays AI: Great or not!
 #AI #humans 
 
 After listening to many of the speakers, I wasn’t the only one emphasizing us humans. Most did.
-
-## Comments (8)
-
-### Laura Penn, Ph.D. (Speaking Arts & Leadership Communication Expert / International Keynote Speaker / Founder of The Leadership Speaking School🇨🇭 / Igniting Authentic Communication in the Digital Age)
-> Terrific! Your topic is an essential topic for our times.
-
-### Mats Frostne (Senior HR leader passionate about developing business through people. Strong focus on building solid foundations with a customer focus. Get energy from growth, the growth of individuals, teams and organizations.)
-> Tend to agree on the great but not great, but to a great extent we've been through similar before and succeeded 😊
-
-### Cristian Parlea (Kundnära och relationsdriven profil | Service, struktur & affärsvärde)
-> As long as there are feelings, humans still exist and are needed.
-
-### Englantina Shkurta (Marketing Strategist | Personal Branding Expert | Founder @GlantX Agency | 12+ Years in Organic Growth & Business Transformation)
-> You were great 👏👏thank you 😊
-
-### Juljana Koci (Experienced Business Development Manager | Proven Track Record in Sales & Market Expansion | Medical Tourism Specialist. Business Development Director at UniquEra Clinic Istanbul)
-> Antoni Lacinai was a real pleasure listening to your presentation.
-> You have a wonderful story to share,inspire,and create the right environment energy to move forward 🙌
-
-### Mohammed S. (Head of Growth & Conference Director | Scaling Elite B2B Summits & C-Suite Events in the GCC | GTM Strategy)
-> Best of luck Antoni Lacinai
-
-### Jenny Hellström (Presales manager | Data & Analytics | Change Management)
-> Thanks for the reminder- that people still exist 😂
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Best of luck!
-

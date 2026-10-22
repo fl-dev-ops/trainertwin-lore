@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_many-years-ago-i-was-in-a-maze
 likes: 31
 comments: 37
 images_count: 1
+author_comments:
+- "If you missed the live event, watch the full recording here: \n- https://www.youtube.com/watch?v=FCVglXOHrAY&t=9s\n- https://www.linkedin.com/events/thelanguageofbusiness-ireland-t7299750161117802496/theater/"
+- 'Are you looking for a map to get out of the maze? Join me for a FREE Live event today: https://www.linkedin.com/events/thelanguageofbusiness-ireland-t7299750161117802496/theater/'
 ---
 
 Many years ago, I was in a maze without a map ꡙ‍
@@ -57,50 +60,3 @@ And most important, we will share our stories on how we both had to adapt to the
 Will you be here with us at 𝟱 𝗣𝗠 𝗖𝗘𝗧? Let me know.
 
 Find all the details in the comments below👇
-
-## Comments (10)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If you missed the live event, watch the full recording here: 
-> - https://www.youtube.com/watch?v=FCVglXOHrAY&t=9s
-> - https://www.linkedin.com/events/thelanguageofbusiness-ireland-t7299750161117802496/theater/
-
-### Richard (Dick) Brooks (Co-founder and Lead Software Engineer at Business Cyber Guardian™ The Cyber Trust People ™ operating the SAG-CTR™ Trust Registry; #SBOM SIG, IEEE Lifetime Member; ANSI SDO Standards Developer 武士道 42.)
-> Look like Henry St. 
-> I loved working in Ireland. Still have many friends and some family, which I visited.
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> From the picture, I recognize the Spire on O’Connell Street.
-> 
-> ----------
-> 🔍 Follow The ITSM Practice Podcast on LinkedIn for daily insights on ITSM and IT Security.
-> 🎧 Check out The ITSM Practice Podcast on YouTube https://shorturl.at/fgJBp
-> 🎧 Check out The ITSM Practice Podcast on Apple https://shorturl.at/hqfir
-> 
-> #itil #itsecurity
-
-### Sama Alkhalili (Customer Success & Client Retention Specialist | Executive Communication & Enablement | 10+ Years Building Retention & Onboarding Programs | EN·AR·FR·IT)
-> It’s amazing how much we learn when we stop fighting the current!
-
-### Gerald Harcourt Burrage (Director @ The Harcourt Method. Developing Confident Speakers. Harcourt Camera Training also develops expertise, cognitive intelligence, high level speaking capability, recall and problem solving.)
-> This is why speech camera training is so important. Do you know that there is a free, in-home program that produces confident speaking in any language? The Harcourt Method on LinkedIn and Youtube produces instantaneous recall of learned information, and easy application of this information to debate, discussion, and problem solving. This easy to use camera training program produces high-level job performance in the workplace. 
-> The program eliminates high speaking anxiety and panic attacks, because it uses the correct environment: the home. The home is where confident speakers have always been developed. When people can speak in a relaxed manner about important issues, that is where the real learning starts. This is Noam Chomsky’s definition of being well educated.
-> The program also produces the same outstanding result in the native language. Problem solving, creative ability, and thinking outside the box are the results of confident speaking. This is a game changer for career upward mobility, producing high-levels of success, good mental health, self-esteem, and pride.
-> The speaking approach of the Harcourt Method crushes the learning approach of school.
-> The Harcourt Method - available on Gerald Harcourt Burrage’s Linkedin profile.
-
-### Alessandro Paviotti (Cyber Security Advisor, Information Security Officer at Eurogroup)
-> When I went to Ireland, I kept wondering why the lady who hosted me (we were on a school trip for two weeks) kept asking me, 'Do you want some butcher?' in the morning. Why was she asking me if I wanted a butcher in the morning? It turns out she was actually saying 'butter,' but I couldn't understand her accent.
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> 'Grand' is a very Irish one for sure Daniele Ponzo . As a therapist in training in a Bristol hospital, my colleagues would erupt into to laughter when I told them I was grand. I'm sure your conversation later will be great and not just grand!
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Omg Henry street Dublin and riches stores wow what a classic picture of Dublin
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Great perspective! Learning a language is one thing, but adapting to real-world usage and business jargon is a whole different challenge. Looking forward to the live session!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Are you looking for a map to get out of the maze? Join me for a FREE Live event today: https://www.linkedin.com/events/thelanguageofbusiness-ireland-t7299750161117802496/theater/
-

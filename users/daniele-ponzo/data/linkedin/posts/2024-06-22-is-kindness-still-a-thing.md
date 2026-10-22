@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_kindness-activity-721018256285
 likes: 27
 comments: 8
 images_count: 1
+author_comments:
+- Thanks for reposting, Paolo🙏!
+- |-
+  We hear a lot of terrible stories these days...but I would like to dedicate this poem to the memory of Satnam Singh, victim of the lack of kindness at all levels of our society. You can read his story here:
+  https://www.theguardian.com/world/article/2024/jun/20/indian-farm-worker-in-italy-left-to-die-on-road-with-severed-arm
 ---
 
 Is Kindness still a thing in a busy, urban environment?
@@ -54,24 +59,3 @@ like a shadow or a friend.
 Have a great weekend, everyone!
 
 #kindness
-
-## Comments (5)
-
-### Kayte Frances PGCE, QTS (🌍 Specialist IGCSE English Tutor | UK-Qualified Teacher | 20+ Years’ Experience | ESL/EAL Support | Helping International English Learners Excel with Language + Exam Technique)
-> What a beautiful poem! Thank you so much for sharing it Daniele.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Paolo🙏!
-
-### Marco Labate (Coach | Trainer | Autore | Divulgatore)
-> Se devi scegliere tra essere gentile ed avere ragione, scegli di essere gentile e avrai sempre ragione (cit)
-
-### Francesca Garofalo (Giornalista pubblicista freelance | Copywriter | Cacciatrice di storie)
-> "You must know sorrow as the other deepest thing". Love this part and whole poem, thank you for this part of kindness, Daniele. 
-> 
-> Have a great weekend you too
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> We hear a lot of terrible stories these days...but I would like to dedicate this poem to the memory of Satnam Singh, victim of the lack of kindness at all levels of our society. You can read his story here:
-> https://www.theguardian.com/world/article/2024/jun/20/indian-farm-worker-in-italy-left-to-die-on-road-with-severed-arm
-

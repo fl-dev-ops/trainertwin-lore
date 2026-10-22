@@ -13,7 +13,3 @@ article:
 After 'Defining the Problem and Gathering Assumptions' in Episode 1 we are now looking at 'Data Analysis' using a real life example... 
 https://lnkd.in/gpKUgdkD
 #criticalthinking #problemsolving #dataanalysis
-
-### Shared Article: [Critical Thinking Episode 2 - Analyzing Data & Capturing Assumptions](https://youtu.be/GZJ1XHLwKbQ)
-> youtube.com
-

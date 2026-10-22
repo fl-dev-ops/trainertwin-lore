@@ -123,29 +123,3 @@ Structure?
 Information overload? 
 Recovery? 
 Communication latency?
-
-## Comments (7)
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> I really like how you turned a tech system into these structured advice and recommendations on how to communicate Daniele Ponzo
-
-### Mohsin Ali (Senior Software Engineer | Python, Django, FastAPI | Go | Distributed System | AWS Certified SAA)
-> Strong communication isn't about saying more. 
-> It's about making the next idea easy to understand before moving to the next one.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> That's a great analogy. Just like good APIs, effective communication is predictable, simple, and easy to follow. 
-> Reducing cognitive load often has a bigger impact than chasing perfect wording.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> I like this analogy. Clear communication, like a well-designed API, reduces misunderstandings and makes collaboration much smoother.
-
-### Tuba Kizilkan (Digital-Leadership-Studentin in Berlin | Business-English- & Kommunikationstrainerin | Bildungsinnovation, KI-Kompetenz & Projektkoordination | XMind Ambassador)
-> Absolutely, the strongest communication systems are designed to reduce cognitive load, allowing expertise to come through clearly even under pressure.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> agree that clarity at the start is everything. If people don’t have to guess where we’re going, they can listen to the actual message. Daniele Ponzo
-
-### Philipp Kraft (Board-Level Operating Partner | Private Equity | Operational Due Diligence | Value Creation | Decision Intelligence (Organica) | Managing Partner, Mindgroup | Q4 Mandates Open)
-> I think the predictable structure point is underrated. When I know where someone's going, I stop trying to decode the message and actually start listening to what they're saying.
-

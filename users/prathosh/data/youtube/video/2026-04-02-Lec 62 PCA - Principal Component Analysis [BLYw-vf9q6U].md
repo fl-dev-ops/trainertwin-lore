@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 62 PCA - Principal Component Analysis
-
-## Transcript
-
 speaker_1: Welcome all
 So the first example is the class of
 algorithms where

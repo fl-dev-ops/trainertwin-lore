@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_effektiv-kommunikation-utvecklas-i-t
 likes: 35
 comments: 5
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D10AQE4JdzcziVTQQ/CeJzLyCnWNTcyKNA1Nkgr0E0uSjOy0MkAipmaYIqZWGCKGZuhiAEAqbEXXA?e=1793170800&v=beta&t=nMCjLWO7VFr7V0G2UXmuZq-qmQKGbnv7Jhgkib5JGX4
+author_comments:
+- en annan metafor är denna.
 ---
 
 Effektiv kommunikation utvecklas i tre steg.
@@ -22,15 +24,3 @@ När ni kommunicerar på din arbetsplats är många antagligen onödigt krångli
 Tydlighet handlar om att andra ska förstå dig. Då behöver du kommunicera på nivå tre. 
 
 Vilken nivå är du på?
-
-## Comments (3)
-
-### Ingela Håkansson (CEO & Cluster Manager at Techtank Advanced Engineering Alliance)
-> Spot on!👌
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Guldråd. Tack detta tar jag med mig!
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> en annan metafor är denna.
-

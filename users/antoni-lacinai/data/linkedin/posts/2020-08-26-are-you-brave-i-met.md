@@ -19,7 +19,3 @@ Only one of us three were brave, and it wasn't me.
 What is courage for you?
 
 #courage #leadership #communication #Motivation #keynote
-
-### Shared Article: [Ten minute keynote on Courage - Antoni Lacinai](https://bit.ly/2Zn1TLR)
-> bit.ly
-

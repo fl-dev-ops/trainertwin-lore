@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# matching a client
-
-## Transcript
-
 speaker_1: The next question would be what are the best practices for matching our clients communication style to make them more aligned with us
 
 

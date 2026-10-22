@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Value of Cultural Adaptation in Your Career #shorts
-
-## Transcript
-
 speaker_1: uh so whichever you choose just be open Sometimes its good to to leave your comfort zone and speak to different people from different cultures because it shows you a lot about who you are as well Uh when youre not always surrounded by the same people the same places the same coffee shops the same food you end up discovering new things and maybe you find something very interesting there
 
 speaker_2: Amazing Yes Yes I yes couldnt agree more of course And one thing that I particularly love is this idea of risk

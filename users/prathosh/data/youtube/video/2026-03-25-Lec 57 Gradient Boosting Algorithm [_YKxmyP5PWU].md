@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 57 Gradient Boosting Algorithm
-
-## Transcript
-
 speaker_1: Welcome back
 So we will see a principled way of
 doing it which is called the gradient

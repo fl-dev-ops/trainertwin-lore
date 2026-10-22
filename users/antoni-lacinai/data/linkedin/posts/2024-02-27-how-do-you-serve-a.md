@@ -6,6 +6,8 @@ likes: 25
 comments: 6
 document:
   title: 7 ways to serve a demotivated team
+author_comments:
+- I remember one of the execs who never tried to hide. Every day, at the same spot at the same time, he stood and took questions from worried employees. It couldn't have been easy. He did it anyway. Respect!
 ---
 
 How do you serve a demotivated team?
@@ -28,19 +30,3 @@ Here are 7 ideas on how you serve a demotivated team. Discuss them with your pee
 Motivation leads to performance which leads to results. 
 
 ps - which of the 7 do you like the most? 1-7
-
-### Shared Document: [7 ways to serve a demotivated team]()
-
-
-## Comments (3)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Så viktigt att belysa. Vi arbetar inte med trä sten och jord. Vi arbetar med människor..
-> Tack!
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> I remember one of the execs who never tried to hide. Every day, at the same spot at the same time, he stood and took questions from worried employees. It couldn't have been easy. He did it anyway. Respect!
-
-### Ronald Meuwsen (International commercial leader I GTM I Sales & Business Development I Edge AI)
-> Difficult to rate, I'll choose nr 1. Everything starts with being open and honest.
-

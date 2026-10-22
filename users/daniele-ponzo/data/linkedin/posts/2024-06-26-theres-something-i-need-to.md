@@ -84,9 +84,3 @@ P.S. Do you feel stuck in your career journey?
 Feel free to DM me, I’d be glad to share some ideas with you ✌ .
 
 #english #career #itprofessionals
-
-## Comments (1)
-
-### José Carvalho (Business Process Manager)
-> Inspiring!
-

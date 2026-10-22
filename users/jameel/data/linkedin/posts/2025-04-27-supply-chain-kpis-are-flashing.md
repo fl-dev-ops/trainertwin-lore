@@ -29,7 +29,3 @@ https://lnkd.in/gQaesp4g
 Preparing for your next supply chain interview or seeking career guidance? Let's chat! Book a session with me today: https://lnkd.in/gw_wPi2i
 
 #SupplyChain #Tariffs #Logistics #Ecommerce #GlobalTrade #FreightWaves #supplychaincoach #jameelhye
-
-### Shared Article: [FreightWaves CEO: There's been a 'collapse' of outbound freight from China into the United States](https://youtu.be/cJWAWGtiqOY?si=9DR1lNBANtLoyUSK)
-> youtube.com
-

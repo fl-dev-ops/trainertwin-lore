@@ -19,12 +19,3 @@ images_count: 1
 “A book filled with relevant and interesting questions. For me as an executive, this book works beautifully as a guide to improve my own, as well as the company’s internal communication”
 
 •	Helene Arvidsson, CEO of Gr8 Meetings
-
-## Comments (2)
-
-### Emma Jonsson (Senior Project Manager within Digital Transformation at Freelance (Self employed))
-> Vart köper man den?
-
-### Daniel Karlsson, PhD (AI för projektledare & chefer ♦ Från AI-experiment till fungerande arbetssätt ♦ Föreläsare, kursledare & rådgivare inom AI sedan 2023 ♦ 20+ års erfarenhet från tech, life science & IT ♦ Medgrundare Tokstark)
-> Spännande! Finns den som ljudbok?
-

@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# YOU NEED A FOOL IN THE CASTLE
-
-## Transcript
-
 speaker_1: Recently I went to a beautiful castle in the German mountains together with my wife The guide explained they call it a council room where all the families gathered together to discuss things that they needed to decide upon
 
 

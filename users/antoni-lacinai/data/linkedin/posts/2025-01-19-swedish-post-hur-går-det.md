@@ -24,13 +24,3 @@ X antal träningspass. Siktar på 120 i år
 Och en del företagsmål på det. 
 
 Så tänker jag. Vad tänker du?
-
-### Shared Article: [Nu fallerar många nyårslöften – så håller du motivationen uppe | Nyhetsmorgon | TV4 & TV4 Play](https://buff.ly/4gJHvum)
-> youtube.com
-
-
-## Comments (1)
-
-### Anna Duberg (PhD in Health Sciences, Research supervisor, Physiotherapist, Region Örebro County. Social Impact lab & NEOLAiA, Örebro University. Founder of ‘Dans för Hälsa’/ ‘Dance for Health’.)
-> 🙏🏻👏🏻
-

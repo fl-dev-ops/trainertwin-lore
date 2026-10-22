@@ -9,12 +9,3 @@ comments: 5
 A real pleasure being a guest at Sweden’s best Sales podcast with Leonardo Johansson !
 
 #communication #customerfocus
-
-## Comments (2)
-
-### Julian Mather (Keynote Speaker on Change & Adaptability 🔶 Sniper → Cameraman → Magician → Author → Speaker → Founder: Modern Grandad)
-> Of course... you have lots to offer Antoni
-
-### Leo Johansson (♠ StorySelling-utbildare & programledare för Säljpodden ♠)
-> Glad to have you. Job well done and thanks for all the insights!
-

@@ -17,11 +17,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# 75 min of Sales Training. Buyer's Psychology explained for Real Estate Agents in Dubai. (OFF-PLAN)
-
-## Transcript
-
 speaker_1: strong So and you have a good acoustic here So just a bit about me and why I think I have right to speak up in front of you You are real estate and sales professionals so Im exactly like you Im 9 years in Dubai 9 years being in real estate in Dubai Before was in real estate in different countries including my own home country which is Ukraine Then I was working in India for 4 years and then I Finally got into real estate here in Dubai So Ive been in different roles same as you I started as a just an agent I was working for developer as well Then I became a sales manager and now what Im doing is my own business Nothing fancy guys Do not think that its so easy or its fantastic and I could probably make more money being in sales but You know when youre 44 you start thinking what makes me more happy and maybe not necessarily brings a lot of money at this point right Instead of telling you that Ive sold millions and trillions and Im selling it now which irrelevant to you right Because if I sold that it doesnt mean that you could because many people which are doing significant in sales Im mainly selling because of that personality Its nothing about sales techniques or any methodology that they can teach you So how it will go guys Im here as giving you a bit of the the sales tricks and sales techniques which might be helping you I dont know maybe you dont need my help have no idea yet I have to ask you A little bit more questions You are more than welcome to stop me anytime if you are for example disagreeing with anything Im saying or you have anything to add or you just dont understand altogether what Im talking about Fine This is what Im asking from you One more thing I do understand were all working 70 hours a week being on the phones
 
 speaker_2: Right

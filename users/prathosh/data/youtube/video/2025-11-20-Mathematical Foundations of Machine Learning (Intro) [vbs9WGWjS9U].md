@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Mathematical Foundations of Machine Learning (Intro)
-
-## Transcript
-
 speaker_1: Machine
 learning and artificial intelligence
 has become ubiquitous in almost

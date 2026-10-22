@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Tools to Boost Your Lead Generation and Client Retention
-
-## Transcript
-
 speaker_1: Were going to be doing today walkthrough 2 platforms and Mariani gonna show the work that she brilliantly finished but its never fully done Shes gonna walk you through the map the Google Map with all of the areas split in the different colors with all of the description with the current metro line with the future metro line which you can use first of all for self learning and then of course to show to the agents when youre presenting the project or show to the clients which is basically a unique piece that can be always with you Shes going to walk through that What Im going to be doing today Im going to show you how One more time you can use Alnair Thats an application that I like to learn about the off plan various projects future launches current prices in Dubai and Abu Dhabi and Ras Al Khaimah And then I will show you the application that I kind of as well helping to develop Which is basically your own CRM and website
 
 speaker_2: On Alnair would it be for the I know theres a premium which is chargeable so will the tool that youll be showing us be on the free one

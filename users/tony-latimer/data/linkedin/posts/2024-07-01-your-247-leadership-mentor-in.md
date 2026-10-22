@@ -17,9 +17,3 @@ Whether it’s intricate leadership paradigms or actionable strategies for real-
 
 Step into an era where answers are not sought; they’re immediately found.
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Andrew Smith (Founder, Retail That Works : Follow the Friction)
-> Leadership guidance at your fingertips. Explore TonyLatimer.ai for instant insights and support.
-

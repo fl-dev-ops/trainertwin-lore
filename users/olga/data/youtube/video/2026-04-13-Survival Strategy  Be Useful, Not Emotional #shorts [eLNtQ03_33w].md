@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Survival Strategy: Be Useful, Not Emotional #shorts
-
-## Transcript
-
 speaker_1: Survival is not created in panic its created in usefulness So instead of asking yourself what if everything falls apart ask yourself what problem can I solve today that somebody would actually pay for Because in uncertain times useful people survive faster than emotional people Of course and we all can be emotional For you to survive you dont have to be the smartest one you just have to be the most useful

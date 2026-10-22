@@ -11,12 +11,3 @@ Listening to how the leaders of a superpower humiliate another leader who’s co
 Yelling, ridiculing, threatening. Not the best leadership traits and no good ways to build alliances. But then again, that seems to never have been the goal. 
 
 It’s a sad day for the free world, for compassionate leadership. And a very good example of a management by bullying - style
-
-## Comments (2)
-
-### Per E Claesson (Senior consultant (Freelance))
-> Proof of Povetry, I’m sad today … 😥
-
-### Ian Pemberton (Pipe Support Designer / Engineer | Contract Specialist | Onshore & Offshore Petrochemical | LNG, FPSO, Brownfield | SolidWorks CSWP (Weldments, Drawings) | FEA & Structural Verification | UK-Based, Remote)
-> The man who claims to have the art of the deal, had someone stand up to him and say NO. It was the equivalent of kicking a man when he’s down BUT the man got up.
-

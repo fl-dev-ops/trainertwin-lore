@@ -13,11 +13,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# 3 communicative superpowers to elevate your charisma
-
-## Transcript
-
 speaker_1: Now Ive been on a quest for the last two three decades when it comes to finding human communication insights What makes us get along And I found three communicative superpowers that I talk about all the time So the first one is energy Energy so that your audience believe that you believe Why should they believe if you dont And energy is mostly observable in your body language and in your voice the non verbal communication Use gesture have eye contact have a dynamic voice all of those things is in energy And if you do it right it will become a magnet People will be drawn into you
 
 

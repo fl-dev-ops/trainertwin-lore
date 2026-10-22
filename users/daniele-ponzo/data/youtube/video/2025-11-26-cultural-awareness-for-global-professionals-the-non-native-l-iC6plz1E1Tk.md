@@ -44,11 +44,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Cultural Awareness for Global Professionals | The Non Native Leader | Episode 32
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to a new episode of the non native leader my video podcast series where we explore the lives the professional lives the adventures the journeys of people who were not born in an English speaking country but theyre using English as their language for work for their life for their professional life and for their daily interactions in an international context If you follow the series uh you see weve spoken to people in Fintech the arts uh the politics even So a whole range of different um professionals And my name is Daniele and Im the host of the podcast and Im super happy today to have here with me Peter So Peter hi
 
 speaker_2: Hi welcome Thank you for being here for inviting me here

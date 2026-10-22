@@ -25,9 +25,3 @@ Three things you can do today to stop wasting time in meetings:
 3. End every meeting with evaluating the progress vs the goal and purpose, and set a concrete action plan
 
 Want more practical tips? DM me and I'll give you my book Make meetings work!
-
-## Comments (1)
-
-### Chantelle Botha (The Choice Catalyst | International Keynote Speaker & Executive Coach | Conscious choice for life and leadership that feels as good as it looks)
-> Love the acronym... you made me giggle ;-)
-

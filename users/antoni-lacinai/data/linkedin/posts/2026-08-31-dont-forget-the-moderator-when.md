@@ -19,9 +19,3 @@ OK, time to put the plan into action.
 Communication shapes behavior. Behavior drives results
 
 Have a great day!
-
-## Comments (1)
-
-### Caroline Warner (Senior Manager, Quality Assurance @ Radiometer Medical Devices | ISO 13485 | IVDR | Leadership)
-> Great session today, thank you.
-

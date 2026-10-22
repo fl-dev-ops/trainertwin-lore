@@ -17,9 +17,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Flexibility Is Your Superpower in Global Business
-
-## Transcript
-
 speaker_1: Stay humble and flexible Whatever that works in your country might not work in their country So always be willing to adjust your style and fit the local context And last but not least keep reflecting Every culture every market every challenge is a chance for you to grow

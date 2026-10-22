@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# You’re Never “Done” Learning English #shorts
-
-## Transcript
-
 speaker_1: Im working in international company right now And uh the thing is um you never know you always think you are good until you get better
 
 speaker_2: Yeah

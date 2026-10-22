@@ -25,18 +25,3 @@ Ska vi ha det så? Eller ska vi:
 • Säga "Här är en ledig plats" i lunchrummet
   
 Julefrid önskar jag dig
-
-### Shared Article: [Långvarig ensamhet – ett växande globalt problem](https://www.tv4.se/artikel/2wByIcDlNWrPzEzwQJ5uCc/langvarig-ensamhet-ett-vaexande-globalt-problem)
-> tv4.se
-
-
-## Comments (2)
-
-### Jessica Breitenfeld (RoomShift™ experiences: The hand that rocks the party... because brilliant ideas are useless if the room never heard them. #ParticipationAdvantage)
-> are we victims to becoming lonely? Do some people just become lonely- isn't it effort to make relationships?
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> Hörde under covid, att långvarig ensamhet är också lika giftigt för kroppen som att röka 2pkt cigaretter om dagen 🙈 
-> Och jag tänker att vi vuxna måste visa vägen så dom unga följer efter, så inga barn hamnar i utanförskap. 
-> 🥰🥰🥰
-

@@ -20,7 +20,3 @@ Tune in and think about:
 • How many of us pop on a daily basis?
 
 thanks Carl. Great fun!
-
-### Shared Article: [Communication Tips for Better Employee Engagement​​](https://www.youtube.com/watch?v=2M4rmTDmCBQ)
-> youtube.com
-

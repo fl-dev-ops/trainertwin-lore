@@ -19,7 +19,3 @@ I discuss the Auto-regressive models, Transformers and Attention Mechanisms in a
 These are the ideas that form the foundations for modern day LLMs. 
 
 May be of interest to a few here.
-
-### Shared Article: [W10L41: Attention Mechanism](https://youtu.be/LoO0zQvmArE?si=QtkYitfMzX3viNK-)
-> youtube.com
-

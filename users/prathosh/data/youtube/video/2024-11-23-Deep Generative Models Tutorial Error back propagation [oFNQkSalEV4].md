@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Deep Generative Models Tutorial Error back propagation
-
-## Transcript
-
 speaker_1: And you can see my screen right Okay
 
 

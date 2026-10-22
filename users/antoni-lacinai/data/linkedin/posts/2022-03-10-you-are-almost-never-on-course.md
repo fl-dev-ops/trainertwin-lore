@@ -17,7 +17,3 @@ Understand that you and your team will always adjust your set course. It's part 
 Swedish column for a leadership magazine below regarding the fact that we are never exactly on course. We always have to adjust, just like an airplane's or a ship's autopilot. And that is ok!
 
 #leadership #communication #engagement
-
-### Shared Article: [Du är ur kurs hela tiden](https://buff.ly/3KhMDXv)
-> buff.ly
-

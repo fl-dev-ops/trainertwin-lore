@@ -35,7 +35,3 @@ Prathosh.
 P.S.- This is not a "quick-bite" for GenAI, this is for those who want to learn deep to a level where one can read and write research articles. 
 
 Indian Institute of Technology, Madras Indian Institute of Science (IISc) #genai #course #deeplearning
-
-### Shared Article: [Generative AI 2025](https://www.youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu)
-> youtube.com
-

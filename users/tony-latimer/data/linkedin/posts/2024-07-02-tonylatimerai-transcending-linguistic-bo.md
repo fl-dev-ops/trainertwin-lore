@@ -19,9 +19,3 @@ With sophisticated translation capabilities and a sensitivity towards diverse li
 
 Dive into a world where language isn’t a barrier but a bridge to a broader understanding.
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Gregory Peck, MA, PCC, PCT, CPT, NBHWC (Transformational Life Coach | Professional Certified Coach (PCC) | Health & Wellbeing Leader | 🚀🚀 My Superpower -- Connecting with Clients From the Heart & Helping Them Feel Heard 🚀🚀)
-> Much needed!
-

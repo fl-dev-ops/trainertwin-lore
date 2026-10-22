@@ -16,12 +16,3 @@ Listen to what they say
 Also, when leaders' engagement is plummeting, what does that mean for employees' engagement?
 
 What are your thoughts on this?
-
-## Comments (2)
-
-### Lotta Hilmersson (--)
-> Tror du det går att sänka ljudet på musiken, för det är jättesvårt att höra det du säger. Öronen börjar bli slitna...
-
-### Thomas Otnes (Product developer and engineer)
-> Antoni något är fel med ljudet i din video.
-

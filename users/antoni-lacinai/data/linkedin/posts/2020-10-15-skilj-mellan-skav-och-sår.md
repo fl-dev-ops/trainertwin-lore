@@ -20,15 +20,3 @@ Om vi har en ömsesidig respekt på vår arbetsplats så vågar vi ta upp sådan
 Har du exempel på när det fungerar? När det inte fungerar? 
 
 #ledarskap #kommunikation #konflikt
-
-## Comments (2)
-
-### Marcus Sandberg (Säljare)
-> Så är det absolut 👌
-
-### Pernilla Danielsson (Yrkeslärare på Praktiska gymnasiet)
-> Särskilja sak och person. 
-> Att förhålla informationen i sakfråga utan personangrepp gör allt. 
-> Mottar ändå mottagaren det personligt så hör ansvaret hemma där. 
-> Människan är komplex och där med reaktion.
-

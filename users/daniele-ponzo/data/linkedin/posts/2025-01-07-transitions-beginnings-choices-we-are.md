@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-tech-english-a
 likes: 30
 comments: 9
 images_count: 1
+author_comments:
+- |-
+  📌 What happens when you remove fear? A story of transformation and success:
+  https://www.linkedin.com/posts/daniele-ponzo_wrong-do-it-again-wrong-do-it-again-activity-7283396602914893824-qJee
+- |-
+  Did you know that Jupiter himself could move back and forth only because of Janus's working? Let's set things in motion!
+  Want to know how? Let's chat: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2025-01
 ---
 
 Transitions, Beginnings, Choices.
@@ -55,23 +62,3 @@ DM The word ‘JANUS’ if you want to know more.
 P.S. When it comes to English, what's 1 door you would like to open in 2025? Let me know below 👇
 
 #itprofessionals #tech #english
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 What happens when you remove fear? A story of transformation and success:
-> https://www.linkedin.com/posts/daniele-ponzo_wrong-do-it-again-wrong-do-it-again-activity-7283396602914893824-qJee
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Reflecting on the past while focusing on future goals is essential. Daniele Ponzo
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> The key-word is making my inner-child giggle, because I'm imagining what it becomes when I remove one letter Daniele Ponzo... Sorry 😆
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Reflecting on your questions, it’s clear how vital communication is in unlocking new doors, especially in a globalized world. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Did you know that Jupiter himself could move back and forth only because of Janus's working? Let's set things in motion!
-> Want to know how? Let's chat: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2025-01
-

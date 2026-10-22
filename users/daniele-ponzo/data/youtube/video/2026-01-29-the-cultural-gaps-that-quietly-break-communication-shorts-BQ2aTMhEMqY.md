@@ -22,9 +22,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Cultural Gaps That Quietly Break Communication #shorts
-
-## Transcript
-
 speaker_1: They were very preoccupied with the cultural gap between people And uh I am Brazilian and uh I lived in Israel and there was a lot of teams mixed teams of Israeli and Brazilians And then after that in Germany and so they did a lot of sessions of cultural gap Theres something that people are not really uh confident but the cultural gap its very important because uh you to understand each other you need to understand the the there are difficult difference between cultures

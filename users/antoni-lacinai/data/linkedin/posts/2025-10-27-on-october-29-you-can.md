@@ -32,13 +32,3 @@ Let’s make this launch go GLOBAL — share, tag, and invite your friends today
 We’re not just turning pages — we’re turning possibilities into reality. 💫
 
 #ConferenceInABook #VSAI #GlobalSpeakers #Leadership #Collaboration #BookLaunch #TogetherWeRise #Inspiration #2DaysToGo
-
-### Shared Article: [Conference in a Book™ - Global Online Launch | Virtual Speakers Association Intl](https://www.vsainternational.org/event-details/conference-in-a-book-global-online-launch)
-> vsainternational.org
-
-
-## Comments (1)
-
-### David 📲 Eriksson (.NET, Nordray)
-> If you recommend it Antoni then I will check it out! :)
-

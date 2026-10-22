@@ -26,9 +26,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Confidence Comes From Being Forced to Speak
-
-## Transcript
-
 speaker_1: But then when I went to live and study in France really you suddenly youve got no choice And I remember even at the university there was one lady who was being a bit difficult not really seeming to want to help me with my accommodation I wasnt happy with the room that I was in So you know so I had to sort of fight and going to say okay Im going to use my best French even if its flawed and making mistakes but Im going to make it very clear that Im not backing down Im going to keep going Absolutely myself And uh you know eventually I I fixed I got what I needed and uh it kind of it left the mark on me

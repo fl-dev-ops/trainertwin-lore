@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The 3 Flows That Rule Every Supply Chain! 📦💸
-
-
-## Transcript
-
 speaker_1: And talking about information lets look at this graphic as we go a little bit deeper into the connection between the ERP and supply chain Now if you think about supply chain there are basically three types of flows happening in any supply chain between the supplier and the customer These three flows are product flow which is flowing from the supplier to the customer information flow which is flowing both ways because suppliers and customers are talking to each other and cash flow which typically would flow from customer to the supplier And the way this becomes possible is that your enterprise resource planning software is connected to all your supply chain systems

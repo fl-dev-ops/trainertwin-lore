@@ -5,6 +5,22 @@ url: https://www.linkedin.com/posts/daniele-ponzo_your-mind-goes-blank-even-thou
 likes: 43
 comments: 32
 images_count: 1
+author_comments:
+- |-
+  Let’s turn passive knowledge into active power 💥
+  If you read the post and thought,
+   “YES — that’s exactly what happens to me…”
+  You’re not alone (and you’re definitely not broken!)
+  The real shift happens when you stop memorizing and start using new words:
+   → In your own stories
+   → In 3 different sentences
+   → In real conversations
+  ✨ Here's your mini challenge:
+   Learn ONE new word today.
+   👉 Make it personal.
+   👉 Say it out loud.
+   👉 Use it by the end of the day.
+  Then come back and share it here. I’d love to hear the word you picked and how you used it. Let’s build better vocabulary together. 👇
 ---
 
 Your mind goes blank… even though you know English? 🧠😬
@@ -77,73 +93,3 @@ Active practice beats passive memorization every time.
 Try one of these methods today, and use a new word in a sentence out loud.
 
 Which of these 3 tips will you try first? 👇
-
-## Comments (15)
-
-### Sunny Nagpal (Brain Profiling | 2x TEDx Speaker | Helping heart-led coaches; healers own their gifts, show up confidently on video; sell without pressure | Discover unique genius, become more of you, so marketing becomes magnetic.)
-> Visual presentation for a relatable struggle! It’s true—using words in the moment feels way different than just knowing them. Love these tips, especially the storytelling one!
-
-### Tom Otto (SWE → Founder @ Mockly & Launch Llama | Helping founders launch | 80K+ newsletter audience)
-> Great advice, I'll definitely give the 3-Sentence Rule a try!
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Loved these 3 tips for building active vocabulary especially the focus on real life use and retrieval.
-> 
->  “Active practice beats passive memorization. Every time.” ✅
-> 
->  Thanks sharing  this practical and empowering approach to language learning.
-> 
-> Daniele Ponzo
-
-### Giulia Berlato (Helping goal-oriented 🎯Managers and Executive Expats 🏛️ build deeper relationships at work🔁with Business Communication Skills in Italian.💼)
-> The image is SO IT! 😂 But the post is brilliant!
-
-### Mickey Hoh (Founder Narrative & Investor Materials Strategist ✔️ AI-Powered Marketing & Funding Readiness ✔️ HRD Corp Accredited Trainer ✔️ E3 Lead Community Builder)
-> I used to struggle with English, but I have come a long way... and I'm still learning. Practice is a must.
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Learning English is hard, Daniele Ponzo. Your tips make it easier for many people. Active practice is a good idea.
-
-### Geeva Samynathan (Author | Transforming Leaders Through Social Intelligence & Behavioral Strength | Partnering with Leaders to Unlock Potential | Championing Sustainability for Malaysian Beaches and Impact through ESG Initiatives.)
-> This is useful, especially when I travelling to a county where I do not speak their language and still want to feel relevant 😀
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> Active vocabulary building transforms language learning into a more impactful experience Daniele Ponzo
-
-### Asad M. (I help brands get found on Google & AI Search | SEO & Content that drives revenue.)
-> Daniele, this really captures the frustrating moment when your brain just freezes despite knowing what to say. Such a common experience that reminds us we’re all human.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Let me have a go .....Daniele Ponzo. my boss sesquipedalia speech has left everyone gobsmacked!
-
-### Sharon Chow (Governance & Operations Leader | Corporate Governance & Compliance | Reflective Facilitator I Podcaster @ The Nightingale Podcast | Creator of SING, LISTEN & AWAKEN)
-> Learning new words is as good as using them, too. 😊
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Such practical tips! 🔥 Love the shift from passive learning to active usage, especially the story method. Definitely trying that today!
-
-### Alex Solo (Principal Solution Architect | Cloud & AI Platforms | Distributed Systems | Multicloud (AWS, GCP, OCI) | 1D artist | #techedger)
-> 💡Great post. There's so much that can be said about how to learn a language. 
-> The tips here are simple but effective. The key point is: you have to do it every day and as often as possible. This simple habit can help you get through the B1-B2 plateau. For example, like here — write your own post or comment, edit it, read, listen.
-> 
-> ☝️I know this from firsthand experience. It just so happens that I’m currently learning four languages at the same time, all at different levels. And each one seriously interferes with the others. But that’s a topic for another post.
-
-### Jon Sim (Counsellor at Fei Yue)
-> Resonate very well Daniele Ponzo, even when it is native language for me, I stumble as well. The sudden freeze moments of inability to find that right word. It is interesting 🤔, love your tips particularly the micro listening it allows you to hear how sentences are formed and used additional learning
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Let’s turn passive knowledge into active power 💥
-> If you read the post and thought,
->  “YES — that’s exactly what happens to me…”
-> You’re not alone (and you’re definitely not broken!)
-> The real shift happens when you stop memorizing and start using new words:
->  → In your own stories
->  → In 3 different sentences
->  → In real conversations
-> ✨ Here's your mini challenge:
->  Learn ONE new word today.
->  👉 Make it personal.
->  👉 Say it out loud.
->  👉 Use it by the end of the day.
-> Then come back and share it here. I’d love to hear the word you picked and how you used it. Let’s build better vocabulary together. 👇
-

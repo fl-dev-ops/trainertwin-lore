@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How to handle the Objections with These Simple Steps! 🤔✨
-
-## Transcript
-
 speaker_1: Our objection handling process its clarify discuss defuse We are not getting into objection handling mode pitching features and benefits trying to convince the client that whatever hes saying is wrong because were gonna The same as our mom or dad or husband or wife is trying to convince us to do something saying oh you have to definitely do that What we feel like we dont want to do it We just want to resist

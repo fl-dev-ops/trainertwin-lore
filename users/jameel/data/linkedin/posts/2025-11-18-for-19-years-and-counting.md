@@ -15,7 +15,3 @@ For 19 years and counting Mars has been recognized as one of Canada’s Top 100 
 Read more about the award here: http://bit.ly/488HZrt 
 
 #ProudlyMars #CanadasTop100Employers #TopEmployers2026
-
-### Shared Article: [Mars Canada sweetens its next generation of talent](http://bit.ly/488HZrt)
-> theglobeandmail.com
-

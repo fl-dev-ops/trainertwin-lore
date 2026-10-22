@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Räcker det med ett bra budskap när du levererar digitalt?
-
-## Transcript
-
 speaker_1: Jag har föreläsarkompisar i branschen som jag beundrar och ser upp till och inspireras av som säger just nu i de här tiderna när vi jobbar väldigt mycket digitalt att bry dig inte om tekniken Eh låt ditt budskap vara du Bara du har någonting att säga så spelar resten ingen roll
 
 

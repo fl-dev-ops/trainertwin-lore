@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Dubai Real Estate: The HARSH Reality Nobody Talks About!
-
-## Transcript
-
 speaker_1: But Dubai was based on data the most challenging one in the whole world So I thought to myself if I make it there I can make it anywhere Because I was not selling I dont even put the time before our coaching as the time I was in real estate I was in dreamland
 
 speaker_2: Hi and are you the one who may be Googling how to become a real estate agent in Dubai or maybe already arrived here And just trying to find which company to join how even to understand is it a secondary market is it an off plan And if you just stumbled on this video my name is Olga Sinenko and Im real estate sales coach with my own sales experience 10 years selling as Dubai 10 years selling in Dubai And in this video Im gonna have a conversation with one of my past coaching clients the one who moved From Germany to Dubai back to Germany and hes coming back to Dubai So if you are someone whos still hesitant or maybe already here I think its good to watch and wait in the end because in the end hes going to reveal which advice he would give to himself and that first initial what is like initial arrival Yeah the first initial arrival So he can have way more success which exactly what will happen on his arrival number 2 Lets jump right to it Hi Bagher

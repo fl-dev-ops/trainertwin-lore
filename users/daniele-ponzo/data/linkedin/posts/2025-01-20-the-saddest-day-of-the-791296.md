@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_the-saddest-day-of-the-year-ye
 likes: 23
 comments: 13
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFboYHtThyjPA/mp4-720p-30fp-crf28/B4DZSChkPAHkBg-/0/1737356627136?e=1793178000&v=beta&t=lRzlXRt96vf9ptxGojo1eFcug_vxwYM6ycxiYwQXt4s
+author_comments:
+- "\U0001F4ADWhat does it take to realize your dream? ⬇️ \nhttps://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej"
+- "If you want to stay motivated in your learning journey, get clear on your goals ⬇️ \n \n  \U0001F157 \U0001D407\U0001D428\U0001D427\U0001D41E: Refine your vocabulary in context.\n  \n Reflecting on the language after seeing it (or hearing it) in context helps you expand your vocabulary and gradually become more confident.\n \n  \U0001F150 \U0001D400\U0001D41C\U0001D42D\U0001D422\U0001D428\U0001D427: Presentations, meetings, calls… every interaction is a chance to learn and grow.\n \n \"Small steps lead to big results.\" Nobody is perfect (not even native English speakers). So, start doing and gradually level up.\n  \n  \U0001F152 \U0001D402\U0001D428\U0001D425\U0001D425\U0001D41A\U0001D41B\U0001D428\U0001D42B\U0001D41A\U0001D42D\U0001D422\U0001D428\U0001D427: Network with your peers, exchange ideas and feedback.\n \n People are going through the same journey. Peers can help you get a fresh view on your struggles without feeling judged. Mentors can give you the opportunity to improve.\n  \n  \U0001F15A \U0001D40A\U0001D42E\U0001D41D\U0001D428\U0001D42C: Celebrate effort to boost morale and monitor progress.\n \n Start by writing down three things you're grateful for today to shift your mindset. Reward yourself for the energy you put in, so this becomes enjoyable.\nRemember: you have the power to create a positive experience today."
 ---
 
 The saddest day of the year.
@@ -52,50 +55,3 @@ And start to repaint your day, your week, your month with a brighter range of co
 Let me know below: What colour is your Monday?
 
 P.S. check the comments for my strategy to stay motivated in your learning journey.
-
-## Comments (8)
-
-### Prof.Dr.Evone Botros. (AI Governance Researcher | Journal Founder | Fellow, Royal Society of Great Britain at Oxbridge Institute of Professional Development (OIPD) - UK)
-> Useful tips!!!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 💭What does it take to realize your dream? ⬇️ 
-> https://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> I Puffi erano blu!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Moving our bodies and setting small goals can really help boost our mood. Daniele Ponzo
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> The more you focus on actions you can control, the less likely you are to be negatively affected by the external things you can't control. 
-> 
-> Definitely more of a grey Monday here in Dublin 😂
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It's a powerful reminder that while external circumstances may be out of our hands, our response and mindset remain firmly within our control. Daniele Ponzo
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> ...and remember that this day will pass as any others.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If you want to stay motivated in your learning journey, get clear on your goals ⬇️ 
->  
->   🅗 𝐇𝐨𝐧𝐞: Refine your vocabulary in context.
->   
->  Reflecting on the language after seeing it (or hearing it) in context helps you expand your vocabulary and gradually become more confident.
->  
->   🅐 𝐀𝐜𝐭𝐢𝐨𝐧: Presentations, meetings, calls… every interaction is a chance to learn and grow.
->  
->  "Small steps lead to big results." Nobody is perfect (not even native English speakers). So, start doing and gradually level up.
->   
->   🅒 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Network with your peers, exchange ideas and feedback.
->  
->  People are going through the same journey. Peers can help you get a fresh view on your struggles without feeling judged. Mentors can give you the opportunity to improve.
->   
->   🅚 𝐊𝐮𝐝𝐨𝐬: Celebrate effort to boost morale and monitor progress.
->  
->  Start by writing down three things you're grateful for today to shift your mindset. Reward yourself for the energy you put in, so this becomes enjoyable.
-> Remember: you have the power to create a positive experience today.
-

@@ -14,7 +14,3 @@ Most people start self development by focusing on their weaknesses. However rese
 #strengthsdevelopment #gallup #cliftonstrengths #talentdevelopment #unleashyourpotential #softskillstraining #softskills 
 
 https://lnkd.in/eNAMwFyz
-
-### Shared Article: [Unleashing Strengths & Talents with Strengths Finder 2.0 by Gallup](https://youtu.be/xIKc5eTgQ1k)
-> youtube.com
-

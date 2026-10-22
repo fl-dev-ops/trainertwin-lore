@@ -60,31 +60,3 @@ I'd love to know what you think.
 
 If you're an engineer, architect, tech lead or engineering manager...
 does this way of looking at communication resonate with you?
-
-### Shared Article: [Most tech professionals improve their English...
-the opposite way they improve everything else.](https://www.linkedin.com/pulse/most-tech-professionals-improve-english-opposite-way-everything-on9ne?trackingId=fYkFwJlWr8YoSu8IoQKb%2BA%3D%3D)
-> Daniele Ponzo
-
-
-## Comments (6)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Improving communication gets easier when you treat it like any other skill and work on the actual weak points.
-
-### Maddy G. (Executive Search Partner | Helping Companies Build Teams in Singapore with clarity and conviction|)
-> Daniele Ponzo This is an interesting perspective. Sometimes the issue isn't language ability itself and knowing where communication breaks down and what needs to change.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> This is a useful reframing. Treating communication as a system to diagnose and improve makes the process far more practical than endlessly studying grammar. 
-> 
-> The focus on bottlenecks is especially relevant.
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> Daniele Ponzo Treating communication like a system makes progress measurable.
-
-### Precious Obodoegbulam (Customer Experience, Service & Support Specialist | Customer Success, Onboarding & Retention Manager | Operations Specialist | Neurodivergent-Friendly Virtual Assistant | Founder, The Queen VA)
-> Great comparison! Treating communication like a system, measure it, fix it, monitor it, makes so much more sense than just memorizing rules. Daniele Ponzo
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> very true. The biggest breakthrough is often not learning more words, but removing the mental barriers that stop us from expressing what we already know.
-

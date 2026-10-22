@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Adhyaya 25 | Mahabharata Tatparya Nirnaya — Sri Madhvacharya
-
-## Transcript
-
 speaker_1: श्री गुरुभ्यो नमः
 श्रीमद्धनुमद्भीममध्वान्तर्गत रामकृष्ण वेदव्यासात्मक लक्ष्मी हयग्रीवाय नमः
 

@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/daniele-ponzo_you-dont-need-more-english-you
 likes: 44
 comments: 8
 images_count: 1
+author_comments:
+- |-
+  If this resonates, here’s a closer look at how the IT Speaking Playground works in practice.
+  https://www.loom.com/share/e60f4f436b3741af8a0c688efc0663f4
+
+  It’s about performing clearly in meetings, interviews, and real conversations.
+  If you’re curious and want to explore whether it could help you, feel free to reach out. Happy to chat.
 ---
 
 You don’t need more English.
@@ -64,25 +71,3 @@ this might be the missing layer.
 👇 I’ve added a short video in the comments explaining how the programme works
 
 P.S. Right now, there are 2 spots left.
-
-## Comments (5)
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> The tangible benefits that focused training can bring to professionals Daniele Ponzo inspiring to see how tailored programs can lead to noticeable improvements in communication and team performance. Congratulations on the success of The IT Speaking Playground!
-
-### Tom Otto (SWE → Founder @ Mockly & Launch Llama | Helping founders launch | 80K+ newsletter audience)
-> Sounds like a practical approach to mastering English communication in the workplace
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Good point. Real progress shows in how others see your impact, not just how you feel.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Love this results that are visible to your team and director matter far more than just “feeling more confident.” Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If this resonates, here’s a closer look at how the IT Speaking Playground works in practice.
-> https://www.loom.com/share/e60f4f436b3741af8a0c688efc0663f4
-> 
-> It’s about performing clearly in meetings, interviews, and real conversations.
-> If you’re curious and want to explore whether it could help you, feel free to reach out. Happy to chat.
-

@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 12 - Deep Generative Models Diffusion Models part 2 Implementation
-
-## Transcript
-
 speaker_1: xt is given by root of alpha t xt minus 1 plus 1 minus alpha t times epsilon where epsilon is a sample drawn from normal 0 1 and this defines a first order Markov chain is what we saw so starting from a data point you keep projecting it onto the latent space according to this equation this particular equation
 
 

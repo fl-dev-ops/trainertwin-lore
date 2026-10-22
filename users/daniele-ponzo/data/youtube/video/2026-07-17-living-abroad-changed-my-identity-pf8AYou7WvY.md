@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Living Abroad Changed My Identity
-
-## Transcript
-
 speaker_1: you just think okay wait a minute Your question thinks maybe why everything was just before this is the way we do things You might think well why do they why do we do things this way You know theres another way to do thing which is okay You not see it you can do it in a different way
 
 speaker_2: Yeah

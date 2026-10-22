@@ -33,9 +33,3 @@ Just think about the effects of being kind, empathic, respectful, positive inste
 Have you experienced rudeness at work? 
 
 #leadership #engagement #Communication
-
-## Comments (1)
-
-### Marie Thulesius (MSc & MBA · Bridging Heart & Brain · Kind · Curious · Collaborative)
-> Kindness is King🤩
-

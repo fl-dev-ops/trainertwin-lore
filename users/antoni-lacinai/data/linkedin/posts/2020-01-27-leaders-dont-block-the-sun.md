@@ -28,9 +28,3 @@ Have a motivating, meaningful day ^_^
 //Antoni
 
 #talesandtips
-
-## Comments (1)
-
-### Anne-Christine Andersen (Nurse, Home Care hos Viborg Kommune, distrikt Houlkær)
-> I will use that analogy, thank you
-

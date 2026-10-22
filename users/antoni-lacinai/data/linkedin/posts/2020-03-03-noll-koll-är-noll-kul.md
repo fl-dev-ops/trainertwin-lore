@@ -33,29 +33,3 @@ Nollkoll är nollkul. Helkoll är helkul.
 Så tänker jag. Hur tänker du?
 
 #Ledarskap #engagemang #arbetsglädje #kommunikation
-
-## Comments (7)
-
-### Marcus Wennergren (Sales & Event @ Sankt Jörgen Park Resort)
-> Håller helt med dig Antoni, Desto bättre koll, detso mer kul. Att ha koll skapar också bättre utrymme för flexibilitet och en ökad kreativitet skulle jag säga. 
-> 
-> Diverse #lifehacks dagligen  skapar för mig bättre koll, och bättre välmående både privat och professionellt.
-
-### Johanna Nilsson (Bilder som visar den du är💛)
-> Klokt. För mig är helkoll inte alltid helkul tyvärr, jag blir ibland för fokuserad på att ha koll och då slår det över. Fast "helkoll" på så sätt att jag känner mig ok med situationen eller att jag inte blir uppäten av jobbigheter - det är jättebra och en slags intention jag tycker är super.
-
-### Katarina Vinterskog (Sales Representative passionate about creating value and inspiring experiences at World of Volvo)
-> Jag är med dig!
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Vilket bra uttryck! Noll koll är noll kul! Håller absolut med. Jobbigt att inte ha koll på avbokade uppdrag pga Corona just nu tycker jag. Och vet inte hur jag får koll på det. Räkna hur stor bufferten och krockkudden är:(
-
-### Gunnar Söderberg (Föreläser om kul på jobbet | Utbildar i ledarskap & arbetsmiljö | Speldesigner inom ledarskap.)
-> Jag jobbar en del med acceptans och vet att jag nog borde öva mig bättre på det. Har lite koll på ACT och just nu håller jag på att läser Maria Helanders bok på ämnet. Just att kunna förlåta mig själv för det jag inte kan rå på tycker jag känns viktigt att träna på.
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Håller helt med, upplevelsen av att kunna påverka åtminstone till viss del är superviktig. Och ofta kan vi ju det även om vi har vissa ramar och yttre förutsättningar att förhålla oss till. Hasse Carlsson och jag har ett uttryck vi ofta använder: "Nu är det så här." Bara att acceptera läget och försöka hitta nya vägar och lösningar.
-
-### Christian Malmström (Endurance Coach, Public Speaker, Leadership Coach, Writer)
-> God, grant me the serenity to accept the things I cannot change, Courage to change the things I can, And wisdom to know the difference.
-

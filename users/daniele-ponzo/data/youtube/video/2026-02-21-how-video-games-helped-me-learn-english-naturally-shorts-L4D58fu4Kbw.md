@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How Video Games Helped Me Learn English Naturally #shorts
-
-## Transcript
-
 speaker_1: And also with English I was unable to speak English before high school
 
 speaker_2: Yeah its surprise I mean I dont know sometimes the right teacher can trigger something and then you start this learning process and then you become unstoppable

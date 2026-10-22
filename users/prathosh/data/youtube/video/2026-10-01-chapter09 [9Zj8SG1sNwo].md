@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter09
-
-## Transcript
-
 speaker_1: अथ नवमोऽध्यायः
 राजविद्याराजगुह्ययोगः
 श्रीभगवानुवाच

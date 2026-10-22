@@ -29,9 +29,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Clarity Is a Leadership Skill #shorts
-
-## Transcript
-
 speaker_1: but there is slow because clarity is what truly matters especially when you are in an international context So yeah slow down start you know being easier on yourself take your pauses um articulate clearly Thats all okay you know especially at the beginning Its a process its a journey

@@ -1,6 +1,6 @@
 ---
 id: 5PruFG5g1C4
-title: Tutorial 13 : Pytorch - Training the Model
+title: "Tutorial 13 : Pytorch - Training the Model"
 url: https://www.youtube.com/watch?v=5PruFG5g1C4
 date: '2026-03-12'
 duration: 33:36
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 13 : Pytorch - Training the Model
-
-## Transcript
 
 speaker_1: Hello all Welcome
 to the third part of the tutorials on

@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_building-a-memorable-experienc
 likes: 23
 comments: 11
 images_count: 1
+author_comments:
+- 📌 I had an interesting call with a prospect client yesterday. She mentioned she has been studying a lot of English grammar. And she now feels very confused and afraid to speak. Has this ever happened to you?
 ---
 
 Building a Memorable Experience
@@ -55,23 +57,3 @@ And I’m especially proud of E.’s feedback. Because this experience will stay
 What kind of experience do you expect when you work with language coach? 
 
 P.S. This marks the official launching on my 𝟱-𝗪𝗲𝗲𝗸 𝗣𝘂𝗯𝗹𝗶𝗰 𝗦𝗽𝗲𝗮𝗸𝗶𝗻𝗴 𝗕𝗼𝗼𝘀𝘁𝗲𝗿 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲. There are 2 places available for 1-1 coaching in February
-
-## Comments (5)
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> it s always good to read such reviews, right Daniele? well done
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Public speaking isn't just about words; it's about connection and confidence.
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Awesome win here Daniele Ponzo. Pattern recognition is the first step to breaking those patterns, and that's why working with an expert can help people spot them, even find blind spots in their strengths to fill in.
-> 
-> What kind of exercises do you find most beneficial with clients for identifying/breaking some of those patterns?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 I had an interesting call with a prospect client yesterday. She mentioned she has been studying a lot of English grammar. And she now feels very confused and afraid to speak. Has this ever happened to you?
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Creating a safe, engaging, and inspiring environment truly transforms the learning experience, Daniele Ponzo
-

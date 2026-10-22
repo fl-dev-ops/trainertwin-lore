@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_you-know-english-but-english-d
 likes: 47
 comments: 14
 images_count: 1
+author_comments:
+- '▶️ The 𝗰𝗵𝗮𝗻𝗴𝗲 that comes when you put yourself out there: https://shorturl.at/71PQA'
+- Thanks for reposting, Madhuraj Bangera 🙏
+- "▶️ If this post resonated, here’s something you should know.\n \nI’m opening limited spaces for my English Communication Program starting in February.\n \nIt’s designed for professionals who:  • know English but freeze when speaking  • want to communicate clearly in meetings, presentations, and interviews  • are ready to move from understanding English to actually using it with confidence\n \nIf you’d like to know more details and see if it’s a good fit for you, send me a DM and we’ll take it from there."
 ---
 
 You know English.…
@@ -61,39 +65,3 @@ That’s 𝗴𝗿𝗼𝘄𝘁𝗵 𝗶𝗻 𝗽𝗿𝗼𝗴𝗿𝗲𝘀𝘀.
 
 So here’s the real question for today:
 Are you ready to feel uncomfortable enough to stop being invisible?
-
-## Comments (8)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ The 𝗰𝗵𝗮𝗻𝗴𝗲 that comes when you put yourself out there: https://shorturl.at/71PQA
-
-### Alex Roehm (Machen...nicht nur reden!)
-> Just ask our "MP Oetti". Best inglisch Titscher in thä wörld!
-> 
-> We call it a "classic":
-> https://www.youtube.com/watch?v=1lHVfIEmPo8
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Madhuraj Bangera 🙏
-
-### Chelike Nikhil (🚀 Full Stack Python Developer | CS Under Graduate ’24 | 2x AWS Certified | Red Hat® Certified Enterprise Application Developer | Google Cloud Certified | Oracle Certified | 360K+ LinkedIn Impressions)
-> Done is better than perfect. 🏁 If you wait to feel ready, the meeting will be over. Speak with the English you have today, and the English you want will show up tomorrow. Quality take! 🔥
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It’s not about perfect English, it’s about being clear and confident. I’ve definitely caught myself overthinking in meetings. Daniele Ponzo
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> I hear people complain abut that a lot. "Why is English so hard?" "why are there so many exceptions?" Not realising their mother tongue is probably way more convoluted. It's easy to blame English, it's hard to take responsibility for it.
-
-### Rami Kafahje (AI & Cloud Security Architect @ IBM | Freelance AI Security Consultant | AI Expert @ XI | AI Security, Cloud Security & Governance | CCSP | AWS Security | Azure AI & Security | CAISP | OAWSP)
-> Yep, it feels like accepting messy English is what finally unlocks real conversations. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ If this post resonated, here’s something you should know.
->  
-> I’m opening limited spaces for my English Communication Program starting in February.
->  
-> It’s designed for professionals who:  • know English but freeze when speaking  • want to communicate clearly in meetings, presentations, and interviews  • are ready to move from understanding English to actually using it with confidence
->  
-> If you’d like to know more details and see if it’s a good fit for you, send me a DM and we’ll take it from there.
-

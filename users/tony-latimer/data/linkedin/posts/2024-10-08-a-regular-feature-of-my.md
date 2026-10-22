@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_coaching-coachtraining-mastery-a
 likes: 4
 comments: 1
 images_count: 1
+author_comments:
+- profitableleadership.com/firststeps
 ---
 
 A regular feature of my alternate Mondays & Tuesdays is editing and uploading the Simplicity of Mastery tutorials.
@@ -23,9 +25,3 @@ Deep reflection on observations by respected practitioners in the field, the ai 
 
 See the link in comments for a free masterclass so you can see what is involved.
 #coaching #coachtraining #mastery
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/firststeps
-

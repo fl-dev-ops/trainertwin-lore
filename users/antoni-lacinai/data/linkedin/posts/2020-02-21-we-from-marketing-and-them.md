@@ -16,17 +16,3 @@ How can we reduce stupid, non-productive internal conflicts?
 #leadership #communication #collaboration #engagement #keynote
 
 From my new book Employee engagement - 20 keys to outstanding communication
-
-## Comments (3)
-
-### 🎯 Irene Nettéus (Utbildningschef DEKRA | Training Manager | Learning & Development)
-> Härligt! Mycket klokhet. Att bygga ett större VI är en stark övertygelse hos mig. Gäller att man får med andra att se möjligheter tillsammans! Se det positiva som uppstår när man lär känna, förstår och delar erfarenheter med varandra. Ensam = Svag. Team = Stark 😜😉💪🏼och roligare!!  
-> 
-> Eller hur Lennart Rankov - Lets make Kiwa stronger together!
-
-### Elisabeth Sandell (Ansvarig internkommunikation i Uppsala kommun)
-> Den ska jag köpa!!!⭐️
-
-### Michael Eriksson (Säljare på Dafo Brand AB)
-> I just say TEAMwork is the best way to avoid conflicts...👍
-

@@ -22,7 +22,3 @@ I min krönika på Eventeffect så skickar jag med tips och tankar om hur ni kan
 PS - har du också sett monterpersonal som verkar folkskygga och gömmer sig bakom en mobil?
 
 https://lnkd.in/dkmYrd8Y
-
-### Shared Article: [Antoni Lacinai: Så blir du mässornas mästare](https://www.saleseffect.se/antoni-lacinai-sa-blir-du-massornas-mastare/)
-> saleseffect.se
-

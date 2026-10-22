@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 18 MLE for Generalized Discrete Random Variable
-
-## Transcript
-
 speaker_1: Welcome back to the lecture and let us
 look at the other example too
 And by the way uh one can get an ML

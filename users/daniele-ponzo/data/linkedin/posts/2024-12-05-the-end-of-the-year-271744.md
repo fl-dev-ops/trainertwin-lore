@@ -4,6 +4,9 @@ date: '2024-12-05T07:05:46.106Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_the-end-of-the-year-is-coming-ok-maybe-activity-7270332507802271744-anqY
 likes: 9
 comments: 7
+author_comments:
+- "\U0001F4CC Why many IT pros don't get there with their English: \nhttps://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimprovement-activity-7272877992077336577-WJxo"
+- 📌 Want to know 1 Little-Known way to boost your speaking confidence? 👇 https://www.linkedin.com/posts/daniele-ponzo_english-sustainability-tech-activity-7272507122246959105-bdEX
 ---
 
 The end of the year is coming
@@ -59,24 +62,3 @@ P.S. sometimes it is not easy to frame our goals.
 But it's the first step to making a solid plan.
 
 Drop a comment and let me know what objectives you have, to start the new year with clarity!
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Why many IT pros don't get there with their English: 
-> https://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimprovement-activity-7272877992077336577-WJxo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Want to know 1 Little-Known way to boost your speaking confidence? 👇 https://www.linkedin.com/posts/daniele-ponzo_english-sustainability-tech-activity-7272507122246959105-bdEX
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo We've all been guilty of being glued to our screens. This year, let's combat the digital takeover by setting a resolution to cut down on screen time. You could set specific times during the day for unplugging completely and start engaging more with the real world. It's a simple yet effective way to enhance your quality of life
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> I believe clarity in our objectives is pivotal for true growth, and your guidance can empower many to break that cycle. Daniele Ponzo
-
-### Mykola D. (I Help IT & Corporate Professionals Achieve Fluency 🗣️, Reduce Accent 🎯 & Succeed in Interviews, Meetings & Presentations | Communication Coach | Since 2016)
-> I watch everything in English 
-> and get some inspiration from videos on YouTube 🤔
-> enriching vocabulary is a constant goal for those ,who are living in a non-English country.
-

@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 25 MAP Estimate
-
-## Transcript
-
 speaker_1: Welcome to this lecture where we will
 discuss well continue from wherever we
 had stopped the last time So we were

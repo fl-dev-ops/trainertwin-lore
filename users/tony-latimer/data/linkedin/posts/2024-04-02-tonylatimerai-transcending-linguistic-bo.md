@@ -19,9 +19,3 @@ With sophisticated translation capabilities and a sensitivity towards diverse li
 
 Dive into a world where language isn’t a barrier but a bridge to a broader understanding.
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Jennifer Lee (Speaker and health transformer. Dedicated to coaching, and speaking to foster resilience, mental fitness, health transformation / equilibrium for mental well-being /productivity/creativity / happiness)
-> Thanks for sharing. Nice script
-

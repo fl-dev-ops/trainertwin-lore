@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_you-can-speak-the-same-languag
 likes: 43
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEgfaSh7T4RHA/CeJxzMnGJqjTO8agI9Eh2DdTVcULiu5ig8S1Q-a6OaHxPXQC3NRe4?e=1793178000&v=beta&t=iXYHqJAoM3Pn8oq41336O9TdJxIXm7BJAQE3VCog5VQ
+author_comments:
+- "▶️ If cultural friction is something you’ve experienced (or are currently navigating), this episode is for you.\n\nReal stories. Real misunderstandings. Real growth.\n\n\U0001F399️ Watch it here: \nhttps://youtu.be/HS7op_sULpg\n\nAnd let me know: what has culture taught you about communication?"
 ---
 
 You can speak the same language…
@@ -64,36 +66,3 @@ And yet, we keep choosing to try.
 
 I’m curious:
 Have you ever experienced a moment where cultural misunderstanding shifted into connection?
-
-## Comments (7)
-
-### Sabina Khatun (Success needs all of you. | Content that brings you the right clients | Get help with your Content Design · Storytelling · Branding | Founder & CEO @recline)
-> If we stay kind, language will be more funnier.
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Connection often outweighs clarity, Daniele Ponzo. Small gestures of empathy build collaboration far faster than perfect grammar or rigid hierarchy.
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> true, language is one way to experience culture, and culture has unseen values and believes which people need to be aware when interacting with new culture
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Such an important reminder. Shared language doesn’t guarantee shared meaning awareness and empathy do.
->  
-> In global teams, connection isn’t soft  it’s strategic. Daniele Ponzo
-
-### The Non-Native Leader - Podcast (443 followers)
-> 📍 Want to know more about The Non-Native Leader - Podcast? Find more info on the website: https://danieleponzo.com/the-non-native-leader-podcast
-
-### The Non-Native Leader - Podcast (443 followers)
-> 📍 Want to support The Non-Native Leader - Podcast? Check all the episodes here on YouTube: https://www.youtube.com/@DanielePonzo/podcasts
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ If cultural friction is something you’ve experienced (or are currently navigating), this episode is for you.
-> 
-> Real stories. Real misunderstandings. Real growth.
-> 
-> 🎙️ Watch it here: 
-> https://youtu.be/HS7op_sULpg
-> 
-> And let me know: what has culture taught you about communication?
-

@@ -25,7 +25,3 @@ This is the dynamic that determines the entire logic of first-year support. The 
 A well-designed coaching plan treats those 90 days accordingly. Not as a grace period to be waited out, but as the period that determines everything that follows.
 
 https://lnkd.in/gRShsMnY
-
-### Shared Article: [The True Cost of Executive Hiring and CEO Failure](https://www.profitableleadership.com/blog/true-cost-executive-hiring-ceo-failure)
-> profitableleadership.com
-

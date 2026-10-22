@@ -11,16 +11,3 @@ article:
 ---
 
 Om du tycker att jag platsar och har 25 sekunder över 🙂
-
-### Shared Article: [Sveriges populäraste föreläsare och moderatorer - eventeffect.se](https://buff.ly/3FEQtYP)
-> eventeffect.se
-
-
-## Comments (2)
-
-### Eliot Freed (Live Marketing - Digital Events and Experiences at Ericsson)
-> Absolut!
-
-### Emilie Loman (Grundare av Wowservice | Hjälper företag skapa lojala kunder, ambassadörer & hållbara servicekulturer genom wowservice | Föreläsare, Utbildare, Författare av boken “Wowservice” & host för Wowpodden)
-> Ja🥳
-

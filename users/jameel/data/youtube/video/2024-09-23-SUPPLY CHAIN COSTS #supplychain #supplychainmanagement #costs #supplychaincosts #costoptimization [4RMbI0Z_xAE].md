@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# SUPPLY CHAIN COSTS #supplychain #supplychainmanagement #costs #supplychaincosts #costoptimization
-
-
-## Transcript
-
 speaker_1: Now the second bucket other than COGS in the supply chain cost bucket is the supply chain costs themselves So what is the cost of your planning systems What are the salaries wages and benefits of your planning team Then you have cost to source which is your supplier cost your contract management cost or all those purchasing and procurement related costs And then you have got the cost to make which is typically the biggest bucket in the supply chain costs And then we get into cost to deliver which is the cost for which supply chain is held the most accountable and this is the cost of your logistics and sometimes its called the logistics conversion cost and then lastly one more cost which is becoming very very important especially with e commerce uh and with the changing consumer behaviors is cost to return now what is cost to return cost to return is the cost to process the return of a product

@@ -17,9 +17,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Living in Cyprus: A Global Perspective on Culture & Work
-
-## Transcript
-
 speaker_1: So Im in a very small island in the middle of the Mediterranean called Cyprus Um Europeans usually know what Im talking about but uh Im not sure if you know the rest of the world knows about Cyprus because its so small And we are a divided island uh unfortunately Uh theres local strife but weve had peace uh for over 50 years for less than 50 years actually uh 49 years Yep But its a beautiful island Its very safe by the way if you want to come feel free

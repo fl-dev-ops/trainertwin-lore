@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# No One’s Handing You Leads. Welcome to the Cold Start
-
-## Transcript
-
 speaker_1: A lot of agents they believe that just because theyve been told that the company has marketing and the company has social media leads the company have these leads that theyre going to be handed over with listings buyers and sellers So in reality its
 
 speaker_2: not like that Youre literally starting a brand new office a cold start branch

@@ -15,18 +15,3 @@ Be a super spreader of joy.
 
 You got this 
 😃😃😃😃😃
-
-## Comments (4)
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> Så rätt 🎯 Varje dag ♥️
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Thank you, Antoni! I'll do my very best - today and every day!
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> A wonderful sentiment to share everyday.  Have a happy one Antoni 😊🎈
-
-### Emma Leifler (MD PhD, lektor)
-> Viktigast av allt. I den stora och i den lilla världen. 🧡 Jag är beroende av vänlighet. Det ger mig dopamin. Reciprokt. Att vara snäll. Att möta det snälla
-

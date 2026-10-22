@@ -12,7 +12,3 @@ article:
 
 Developing recommendations from data is a key aspect of the critical thinking journey.... Watch our episode 3 of this series where we are translating a data trend into some key business recommendations. #criticalthinking #problemsolving #dataanalytics #recommendations 
 https://lnkd.in/gjguT4n5
-
-### Shared Article: [Critical Thinking Episode 3 - Developing Recommendations](https://youtu.be/bKuCdUgMzKM)
-> youtube.com
-

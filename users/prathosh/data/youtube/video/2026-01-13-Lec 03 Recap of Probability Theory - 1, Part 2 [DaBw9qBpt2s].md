@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 03 Recap of Probability Theory - 1, Part 2
-
-## Transcript
-
 speaker_1: So now you have the probability measure
 So what do you do with this Uh youll
 have to finally solve that problem of as

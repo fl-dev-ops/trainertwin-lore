@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Overcoming Fear The Real Key to Learning English #shorts
-
-## Transcript
-
 speaker_1: Um and actually there is a logical and biological explanation to this because your fear system is so powerful that once you once you have it like all your internal organs they go into this safe mode you know like fight or flight and your inner ear is affected by this So sometimes when you dont dont hear someone talking to you in English its just that youre feeling so much fear that it prevents you from understanding from even hearing the person properly
 
 speaker_2: Youre going to emergency mode in a way

@@ -24,15 +24,3 @@ belong and doing what you’re best at.
 Best of luck with your virtual, travel free meetings!
 
 #virtualmeetings #leadership #communication
-
-## Comments (3)
-
-### Tobias Larsson (Professor in Mechanical Engineering | Product Development & Digital Innovation | Decision Support Systems | Industry–Academia Collaboration)
-> Bra! Synd ett transformativt event som Corona ska behövas för att göra skiftet från resor/möten till online dito, men gäller göra det bästa av det! Vissa fysiska möten behövs och kommer saknas, men väldigt mycket kan köras online, och med bättre kvalitet också!
-
-### Johanna Nilsson (Bilder som visar den du är💛)
-> Yes vad bra!
-
-### Henrik Ny (Associate Professor at Blekinge institute of technology and Owner Ny Sustainability and Roadmapper Consulting)
-> Bra timing med denna bok. Jag håller med om fördelarna med virtuella möten. Just nu ser jag hur distansundervisning lyfter mina kurser som jag driver på högskolan.
-

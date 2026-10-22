@@ -15,11 +15,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Watch me Overcoming “I want Distress Deal” Objection! How to deal with Pushy clients
-
-## Transcript
-
 speaker_1: Watch me live in this video overcoming the objection of one of the participants of the training He was not just a participant he was the company owner I was doing the training for So you can understand the tension right All his team 40 agents are watching him becoming a client and hes trying to batter me with his objection Curious Guess who won See you in the video Oh by By the way do not forget to subscribe and actually comment Do you like those videos which are more practical where I show how to overcome the objections in kind of a real time the freestyle Oh let me know Lets role play Its going to be easier Lets role play Youre going to be that person right Im going to be a salesperson
 
 speaker_2: Okay youre going to be the salesperson Yeah So youre calling to me

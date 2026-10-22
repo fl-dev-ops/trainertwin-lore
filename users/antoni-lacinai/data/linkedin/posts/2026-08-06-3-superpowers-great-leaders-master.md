@@ -16,6 +16,3 @@ If not, paste it into your AI tool and ask for a summary
 Thank you Global Healthy HR Gazette for publishing this as part of your latest magazine
 
 For the whole gazette: visit https://lnkd.in/eRMNFvqA
-
-### Shared Document: [Global Healthy HR Gazette Antoni's article]()
-

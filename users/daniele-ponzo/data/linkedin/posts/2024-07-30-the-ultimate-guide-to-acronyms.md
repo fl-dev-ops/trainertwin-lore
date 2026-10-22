@@ -6,6 +6,8 @@ likes: 41
 comments: 5
 document:
   title: Common Abbreviations and acronyms in the workplace
+author_comments:
+- '📌A Complete Business English Guide for IT Professionals: https://www.linkedin.com/posts/daniele-ponzo_communication-english-itprofessionals-activity-7224285179043840000-3D0_'
 ---
 
 The Ultimate Guide to Acronyms in the Global workplace.
@@ -33,18 +35,3 @@ I share free tips to help IT Managers & Team Leaders communicate more confidentl
 
 If that’s something you’re interested in, give me a follow and ring the bell so you'll never miss a post :)
 Follow ➡ Daniele
-
-### Shared Document: [Common Abbreviations and acronyms in the workplace]()
-
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌A Complete Business English Guide for IT Professionals: https://www.linkedin.com/posts/daniele-ponzo_communication-english-itprofessionals-activity-7224285179043840000-3D0_
-
-### Asta Gedgaudaite (Co-Founder, ATLAS • Leadership Offsites. Designed Differently.)
-> Thank you for sharing and putting it together for all of us! 👌
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Excellent resource Daniele Ponzo
-

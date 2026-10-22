@@ -27,9 +27,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Non-Native English Speaker Challenges at Work #shorts
-
-## Transcript
-
 speaker_1: So I found myself in a kiosk and with a um Indian guy over there the the shop owner was just Indian because you know you can feel the accent come on And also from the look he was Indian okay So I just thought to myself okay not a British guy Indian guy Come on Why Because you know you speak English and I speak English but not as our first tongue you know first language mother tongue So you can understand my accent You can understand what I am saying

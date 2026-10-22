@@ -13,7 +13,3 @@ article:
 
 This is the most frequently asked question at the start of an interview. Watch this video to learn a tried and tested 5 step process to formulate a great answer with a timed rehearsal! #interview #jobinterviews #jobinterviewtips #interviewpreparation #interviewtips #softskillstraining 
 https://lnkd.in/g3HCK9Bj
-
-### Shared Article: [How to Answer the TELL ME ABOUT YOURSELF QUESTION in a JOB INTERVIEW - A step by step guide!](https://youtu.be/N2qK8-LcfTs)
-> youtube.com
-

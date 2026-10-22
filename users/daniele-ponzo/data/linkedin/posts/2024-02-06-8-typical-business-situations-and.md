@@ -50,15 +50,3 @@ ____________
 Follow ➡ Daniele
 
 #itprofessionals #english #languageimprovement
-
-### Shared Document: [8 typical business situations in IT]()
-
-
-## Comments (2)
-
-### Valentina Lorenzoni (PR Director presso INC - Istituto Nazionale per la Comunicazione)
-> Grazie Daniele, sempre utilissimi spunti 🙂
-
-### Marilia 🧠Falsetti (Agile | Scrum | Psychology)
-> This post is pure gold.
-

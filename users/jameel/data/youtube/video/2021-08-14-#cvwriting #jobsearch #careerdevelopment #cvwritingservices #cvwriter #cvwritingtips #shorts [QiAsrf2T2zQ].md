@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #cvwriting #jobsearch #careerdevelopment #cvwritingservices #cvwriter #cvwritingtips #shorts
-
-## Transcript
-
 speaker_1: Dont steal CV others Keep it genuine skil
 
 

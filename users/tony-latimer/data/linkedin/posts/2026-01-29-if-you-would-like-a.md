@@ -7,9 +7,3 @@ comments: 1
 ---
 
 If you would like a distillation of the report there is a NotebookLM 15 minutes podcast available that analyses it from the perspective of six key stakeholders groups at https://lnkd.in/gMfn-mtU
-
-## Comments (1)
-
-### Paola Z ✯ (...)
-> Thank you for sharing
-

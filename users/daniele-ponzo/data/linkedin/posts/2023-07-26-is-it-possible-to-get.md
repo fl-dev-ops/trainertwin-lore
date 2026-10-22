@@ -44,12 +44,3 @@ PS: If you'd like to learn how I use my English Accelerator Program to help clie
 Happy to chat and explain how it works (and give you some free tips too)! ✌️
 
 #english #itprofessionals #languageskills
-
-## Comments (2)
-
-### Lawrence Ng ($150mn Bootstrapped Exit ‘08 | E&Y Entrepreneur of the Yr '07 | ContactLoop Convo AI > Always on, Always talking. ♾️💡♾️🗣️)
-> Daniele Ponzo Awesome share - well done.
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> So true, Daniele! Real breakthroughs CAN happen in a short time, especially with a focused system in place and a coach who 'gets it'. Well done to you and Mr. V!
-

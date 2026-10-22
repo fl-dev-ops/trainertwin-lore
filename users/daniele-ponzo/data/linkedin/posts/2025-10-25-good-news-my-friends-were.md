@@ -31,18 +31,3 @@ Good news, my friends!
  This remarkable group of visionaries is reshaping the future of education, AI, and learning innovation.
 
  #Podcast #EdTech #LearningInnovation #AIinEducation #FutureOfLearning #EducationLeaders
-
-## Comments (4)
-
-### Julie Yoder (Business English Communication Coaching for Global Professionals & Teams | Public Speaking Retreats | Ethical AI for More Impactful Communication)
-> Thank you, Hadas Yehezkely! I am very much looking forward to our conversation, and perhaps even more so to hearing the others. I am honored to be among this group.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Wow, fantastic lineup, super honoured to be in there as a guest!
-
-### Jabez Ivan Joshiraj (Matchmaking students globally to the perfect tutor & jobseekers to their dream job 🌍 💼 | 👨‍💻 Founder @ Eduspace | 📕 Author of Ed-Tech Exposed | Check my services 👇)
-> Hadas Yehezkely, oh this lineup is seriously impressive... the kind of people who are actually doing the work to change how we learn, not just talking about it
-
-### Akheri Akter (Helping Home & Professional Service Businesses Get More Calls from Google & AI Search | Local SEO • Google Ads • AI Automation)
-> Hadas Yehezkely, what an exciting lineup. can’t wait to hear their insights.
-

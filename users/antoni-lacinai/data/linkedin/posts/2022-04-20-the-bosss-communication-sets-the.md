@@ -27,21 +27,3 @@ How do you treat your customers? How do you treat your vendors? How do you treat
 Everything communicates. 
 
 #leadership #communication #engagement
-
-## Comments (5)
-
-### Frederic Turner (Company)
-> Great story, thanks for sharing!
-
-### Johannes Kjellgren (CEO at WEMO Automation AB | Passion for Leadership & Customer focus to deliver company results | Strategy creation & implementation I Certified Board member I Interim CEO I 4 x Ironman finisher)
-> Perfect example! We are in the process of setting the values for our company and we touched exactly the same questions that you asked in the end; How do we treat each others and how do we want to be percieved by our customers. But of course…Leading by example👍
-
-### Pernilla Rydsnäck (Driven & Nyfiken/Strategiskt inköp/Upphandling/LOU/Analys)
-> Spot on!
-
-### Evelin Arak (Financial innovations expert at Estonian Financial Supervision and Resolution Authority)
-> Totally agree! Reminds me of Richard Branson's saying “Clients do not come first. Employees come first. If you take care of your employees, they will take care of the clients.” But how to deliver that message to that sales manager?
-
-### Jesper Ek (Transformerar chefer till energiskapande ledare | 180+ klienter | Ingenting börjar med resultat, allting börjar med människor | Skapare av EMPLAYMENT-metoden | Hjälper ledare bygga team-energi som driver resultat |)
-> Great insights Antoni Lacinai and thank you for sharing. Any chance you know where you can find the study you refer to, I found this really interesting. Thanks 🙏
-

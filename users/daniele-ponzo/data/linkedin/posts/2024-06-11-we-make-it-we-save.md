@@ -6,6 +6,10 @@ likes: 13
 comments: 1
 document:
   title: Quick guide to MONEY language in English
+author_comments:
+- |-
+  📌 Scared of Business English? Fear no more!
+  https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-confidence-activity-7206890546554904577-oy2j
 ---
 
 We make it, we save it and we manage it.
@@ -47,13 +51,3 @@ Like my posts? Follow or connect with me here➡️ Daniele
 Did you find this useful? Please repost 🔁 and help me spread some money (language).
 
 #EnglishTips #ITProfessionals #BusinessCommunication #LeadershipSkills
-
-### Shared Document: [Quick guide to MONEY language in English]()
-
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Scared of Business English? Fear no more!
-> https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-confidence-activity-7206890546554904577-oy2j
-

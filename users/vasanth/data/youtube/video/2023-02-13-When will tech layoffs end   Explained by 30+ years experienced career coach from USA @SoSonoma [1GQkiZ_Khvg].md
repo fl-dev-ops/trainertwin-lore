@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# When will tech layoffs end ? Explained by 30+ years experienced career coach from USA @SoSonoma
-
-
-## Transcript
-
 speaker_1: The recession of 08 wasnt really due to anything in the work sector It was due to mostly I mean it emanated from the US and it was mostly due to the housing market
 
 speaker_2: My next question is that only like how long do you think this kind of a slowdown that is happening tech world could last Do you think any approximately when probably it can come back to normal Hello all welcome back to Uncommon Geeks My name is Vasanth I hope you all doing well In case if you are seeing me first time on the internet I am a content creator I help people to clear their interview I made lot of series in the past which helped lot of candidates to clear their interview In case if you are someone who have not seen those series I will link the series somewhere on the screen and also in the description section Now without wasting further time lets get started with the topic of the today

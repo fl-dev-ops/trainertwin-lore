@@ -15,16 +15,3 @@ Swedish post: Hej alla härliga kunder till Talking Minds . Nu finns jag för er
 Ett extra tack till Petra Mungenast för ett redan bra samarbete. Det här blir bra!
 
 https://lnkd.in/dRw_tAvc
-
-### Shared Article: [Antoni Lacinai](https://www.talkingminds.se/speaker/antoni-lacinai/)
-> talkingminds.se
-
-
-## Comments (2)
-
-### Talking Minds (1,525 followers)
-> Välkommen till Talking Minds-familjen! 🤗
-
-### Petra Mungenast (Grundare & VD på Talarpartner)
-> Stolta och glada över att kunna erbjuda en så rutinerad och skicklig talare! 🤩💫
-

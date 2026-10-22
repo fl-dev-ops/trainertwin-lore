@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Challenge Yourself Every Day #podcast #globalspeakerstalk #nonnativeenglishspeakers #shorts
-
-## Transcript
-
 speaker_1: So what recommendations would you give
 
 speaker_2: Yeah So for that I actually am doing like challenges every single week for you know my my life personally is that you know I would have this little test that I would do for example like talking to five strangers in a week You know were like scared of like rejection and you know just seeing what you know you could actually do

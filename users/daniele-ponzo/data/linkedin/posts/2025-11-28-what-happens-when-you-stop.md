@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_what-happens-when-you-stop-stu
 likes: 63
 comments: 23
 images_count: 1
+author_comments:
+- Thanks for reposting Augusto Ribeiro Antunes and Nitish Kumar 🙏 . Hope to see you at the event later today!
+- '▶️ Ready to HACK your English? Here''s the link: https://www.linkedin.com/events/fromsilenttovisible-confidencef7398614031160406016/theater/'
 ---
 
 What happens when you stop studying … and start doing?
@@ -63,65 +66,3 @@ We’ll show you:
 
 If you became just 20% more confident speaking English at work…
 what new opportunity would suddenly become possible for you?
-
-## Comments (18)
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> Engaging with a community and celebrating progress are such powerful strategies for growth.
-
-### Sharon Chow (Governance & Operations Leader | Corporate Governance & Compliance | Reflective Facilitator I Podcaster @ The Nightingale Podcast | Creator of SING, LISTEN & AWAKEN)
-> Knowledge with application does not make the knowledge useful. Likewise learning any language, if not put to practise it's just a hidden learning.
-
-### Fozle Rabbi Rana (Tech-Legal Product Manager & Full-Stack Developer | Law Graduate| Specialized in Real Estate & IT Company Sales Executive)
-> That "speak before you feel ready" piece is so key. I remember bombing a presentation early in my career, but the very next one went surprisingly well. Do you find that initial failure actually speeds up the learning process in the long run?
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Skill execution must replace passive learning. Practicing communication improves team alignment quickly, Daniele Ponzo. Results only happen when people speak up.
-
-### Chelike Nikhil (🚀 Full Stack Python Developer | CS Under Graduate ’24 | 2x AWS Certified | Red Hat® Certified Enterprise Application Developer | Google Cloud Certified | Oracle Certified | 360K+ LinkedIn Impressions)
-> That is an excellent and highly effective framework for transforming language study into a practical, career-accelerating skill! 🚀 You've perfectly captured the necessary shift from passive knowledge (theory) to active application (doing).
-
-### Sinthujah Wimalathas (Founder, SANARAS Coaching | Performance Coach & Psychologist | Ex-Goldman Sachs | MSc, Psychology & Neuroscience | Helping High Performers Through Change with Clarity, Direction & Sustainable Success)
-> Acquiring knowledge is exciting, but the real value add only happens, when we put things into action Daniele Ponzo
-
-### Sunny Nagpal (Brain Profiling | 2x TEDx Speaker | Helping heart-led coaches; healers own their gifts, show up confidently on video; sell without pressure | Discover unique genius, become more of you, so marketing becomes magnetic.)
-> This is so true! It’s all about taking action and building that confidence. Can't wait for the live event—sounds like a game changer!
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> Never heard of too much execution as the reason for failure. I know this much!
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Thank you for sharing this.  I agree. 
-> Studying without applying the knowledge is just… knowledge. It’s action, practice, and celebrating small wins that truly build confidence, visibility, and results.
-> 
-> 
-> 
-> Daniele Ponzo
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Stop overthinking. Start speaking. Small steps build real confidence, visibility, and opportunity. Daniele Ponzo
-
-### Emanuel Balsa (Helping 36K+ professionals make smarter money, career and, AI decisions | Daily lessons | Free quiz ↓ | Talks and partnerships, happyhelp@emanuelbalsa.com)
-> Action is my favorite here because doing always builds real confidence. I see how small daily practice can shift a whole career path.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Augusto Ribeiro Antunes and Nitish Kumar 🙏 . Hope to see you at the event later today!
-
-### Davide Falletta (Scrivi e trasforma il tuo Libro in uno strumento che aumenta Visibilità, Guadagni e Autorevolezza. Non vedo l'ora di parlare del tuo progetto!)
-> I really loved the expression “training the communication muscles.” And above all, the most valuable advice: trying, making mistakes, and learning from them.
-
-### Nantu Chakraborty (On a mission to share mindful insights and deliver outcomes that matter | Leadership and Content creation enthusiast | Medical Records Retrieval Specialist | Specializing in US Healthcare Claims.)
-> Love this idea of learning by doing. I’ve seen real growth only when I speak before feeling ready. Your HACK method makes confidence feel practical and doable.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Love this approach. Real progress starts when you stop overthinking and start speaking. Confidence grows through action and support. This will help so many people step up.
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Good luck with the event 🍀
-
-### Jon Sim (Counsellor at Fei Yue)
-> Indeed Daniele Ponzo, language is a subject that really needs to HONE particularly with the collaboration part, there needs to be communication before there can be better communication.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ Ready to HACK your English? Here's the link: https://www.linkedin.com/events/fromsilenttovisible-confidencef7398614031160406016/theater/
-

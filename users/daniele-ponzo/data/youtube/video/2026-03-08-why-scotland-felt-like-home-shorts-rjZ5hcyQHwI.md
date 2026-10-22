@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Scotland Felt Like Home #shorts
-
-## Transcript
-
 speaker_1: I wanted a big change because I realized the Italian market was not valuing my my expertise well And I ended up out of randomness in Scotland In this Scottish startup now that became a scale up which is called NC Tech which is a company that does 360 cameras with lidar technology so they scan a 360 viewpoint angle with lidar so they also have all the 3D metadata to the image as well
 
 speaker_2: Wow

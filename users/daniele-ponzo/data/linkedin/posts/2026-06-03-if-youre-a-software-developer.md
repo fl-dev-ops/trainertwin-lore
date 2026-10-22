@@ -95,12 +95,3 @@ They’re relying on patterns.
 
 You can download the free guide here:
 https://lnkd.in/dfAx4e9q
-
-## Comments (2)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Very true. In many cases, confidence under pressure matters more than perfect English.
-
-### Shaghayegh K. (Business Development Coordinator)
-> This is spot on. Many technical professionals know exactly what they want to say, the challenge is managing the pressure, not the language itself.
-

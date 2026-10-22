@@ -22,11 +22,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What Data Engineers Really Do (Explained Simply) #shorts
-
-## Transcript
-
 speaker_1: well Im Peter van der Meer I I live in the Netherlands close to Amsterdam Im a consultant and currently I have having an assignment with bookingcom here in Amsterdam as a senior data engineer
 
 speaker_2: Data engineer Thats Ive always found that fascinating you know data engineer like yeah then I then people then I go like yeah but what do they do I dont know What is a data engineer Like yeah

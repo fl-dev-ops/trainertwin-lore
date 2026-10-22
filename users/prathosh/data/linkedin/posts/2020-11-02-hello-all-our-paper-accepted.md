@@ -12,6 +12,3 @@ Hello All,
 
 Our paper accepted in IEEE WACV on compressing ConvLSTMs for action recognition tasks, using the principles of variational information bottlenecking. 
 We achieved tremendous compression on standard Deep Network Architectures for Action recognition to an extent that it can be fit into a Raspberry Pi. The preprint of the paper attached. #deeplearning #iitdelhi #artificialintelligence
-
-### Shared Document: [VIB_compression_Preprint]()
-

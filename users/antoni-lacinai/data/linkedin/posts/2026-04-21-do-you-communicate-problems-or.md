@@ -9,9 +9,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHMVAM1KyX-2A/CeJxzMn
 
 Do you communicate problems or opportunities?
 Here’s an example from the world of hockey
-
-## Comments (1)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> A great analogy, Antoni. They are lucky to have you!
-

@@ -60,15 +60,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️ Daniele.
 
 #english #Itprofessionals #languagetips
-
-## Comments (3)
-
-### Giulia Berlato (Helping goal-oriented 🎯Managers and Executive Expats 🏛️ build deeper relationships at work🔁with Business Communication Skills in Italian.💼)
-> Mindblowing. Thank you 😆
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> I still have to think about practising right in British English. And I notice my spell checker doesn't like it either!
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Great post Daniele. Easy words to confuse
-

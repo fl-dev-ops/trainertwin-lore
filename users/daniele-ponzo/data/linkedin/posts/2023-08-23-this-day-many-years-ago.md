@@ -52,18 +52,3 @@ To help IT professional overcome that sense of pain and embarrassment when it co
 Send me a message📩 if you’d like to know more.
 
 #english #Itprofessionals #careerchoices
-
-## Comments (4)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Inspiring story Daniele Ponzo 💡
-
-### Cathal M. (Business Performance ,Operational Turnarounds , Acquisition, Mergers and Disposals)
-> Penny  for your thoughts  🙄
-
-### Jonathan Mascaro (Senior Operations & Team Leader | Revenue & Sales Support | Scaling Teams, Culture & Execution)
-> Quello che mi ha detto “metti swap su tutto!!” 🤣❤️
-
-### Vanessa Andrews (Associate Consultant)
-> A rewarding career indeed Daniele ☺️
-

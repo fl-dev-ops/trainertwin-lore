@@ -18,13 +18,3 @@ Vilket är ditt bästa tips?
 
 
  https://buff.ly/7xLQroW
-
-### Shared Article: [Så varvar du upp i lagom takt efter semestern](https://buff.ly/FiQ6b42)
-> tv4.se
-
-
-## Comments (1)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Börja jobba mitt i veckan, alltid med kundbesök, aldrig pang på rödbetan genom uppdrag. Hur gör du?🌟🔆🌟
-

@@ -45,6 +45,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
 #itprofessionals #english #brainstorming
-
-### Shared Document: [How to manage Effective Brainstorming Sessions]()
-

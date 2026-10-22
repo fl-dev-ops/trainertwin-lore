@@ -16,7 +16,3 @@ In this video I have covered three techniques you can use to improve your critic
 
 
 https://lnkd.in/eqtnmSji
-
-### Shared Article: [HOW TO IMPROVE CRITICAL THINKING - WITH REAL EXAMPLES](https://youtu.be/IxsCb_ZOFvU)
-> youtu.be
-

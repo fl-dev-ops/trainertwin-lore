@@ -11,7 +11,3 @@ article:
 ---
 
 Identify goals to bridge sustainability gaps in your organisation and prepare an action plan to deliver impactful results.
-
-### Shared Article: [Success coaching sessions | Fee: €24,950](https://onlineprogrammes.insead.edu/sustainability-leadership-programme-for-senior-executives?utm_source=linkedin&utm_medium=sc&utm_campaign=B-365D_R-FET_LI_SC_INS-SL.SEPO_Groups&Skills&utm_content=INS-SL_School_Campus_LMethod_1200x628_Static___06)
-> onlineprogrammes.insead.edu
-

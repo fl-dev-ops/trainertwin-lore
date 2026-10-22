@@ -23,7 +23,3 @@ We are trying to use Deep Learning and Computer Vision to help children diagnose
 Manu Kohli Prof. V Ramgopal Rao
 
 #iisc #aiforgood #aihealthcare #iitdelhi #startupstories #deeplearning
-
-### Shared Article: [Can tech solve the global education crisis?](https://www.unicef.org/innovation/xtc-unicef-edtech-award-finalists)
-> unicef.org
-

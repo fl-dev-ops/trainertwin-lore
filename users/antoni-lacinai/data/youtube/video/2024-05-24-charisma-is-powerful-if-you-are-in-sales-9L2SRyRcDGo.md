@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Charisma is powerful if you are in sales
-
-## Transcript
-
 speaker_1: have this phenomenal kind of energy going on that some people call charisma Charisma is that invisible energy that people are drawn to If you have charisma they want to be around you they want to listen to you they want to buy from you

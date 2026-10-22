@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_its-not-my-english-right-you-k
 likes: 51
 comments: 11
 images_count: 1
+author_comments:
+- |-
+  ▶️ Authority doesn’t disappear because of English.
+
+  It leaks because of structure.
 ---
 
 “It’s not my English… right?”
@@ -68,29 +73,3 @@ So let me ask you:
 When your message doesn’t land,
 is it really English…
 or is it structure under pressure?
-
-## Comments (6)
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Mastering workplace English isn’t about vocabulary, Daniele Ponzo. It’s about structuring, framing, and adapting ideas under pressure so your leadership comes through clearly.
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> A big thanks for sharing your  expertise🙏
-> By focusing on leadership level communication, you help professionals turn ideas into clear, confident, and high impact delivery , a skill that truly makes a difference in high stakes situations.
-> 
-> Daniele Ponzo
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> So true tho. It rarely comes out the way we intend it!
-
-### Tuba Kizilkan (Digital-Leadership-Studentin in Berlin | Business-English- & Kommunikationstrainerin | Bildungsinnovation, KI-Kompetenz & Projektkoordination | XMind Ambassador)
-> This is the shift most senior professionals miss: authority in English is rarely about language level, but about structured thinking delivered with calm precision under pressure.
-
-### Cole Mohamed (Helping Engineers Earn Influence, Visibility & Promotion Opportunities | Communication Coach for Software Engineers)
-> I'd like to add that we often know what to say, but it's not enough. Hence why it is important that clients practise these situations in an environment where they can get feedback and continually improve from there on...
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ Authority doesn’t disappear because of English.
-> 
-> It leaks because of structure.
-

@@ -25,9 +25,3 @@ I could always skip the whole thing and go hide somewhere, but that will get me 
 
 PS: What is the number one thing people want to talk about?
 Answer: Themselves. But only if people seem interested
-
-## Comments (1)
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Brilliant tip, curiosity is one of the most under-estimated mindsets!
-

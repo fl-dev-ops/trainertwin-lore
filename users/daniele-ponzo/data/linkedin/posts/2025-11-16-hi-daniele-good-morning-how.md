@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_hi-daniele-good-morning-how-ar
 likes: 46
 comments: 17
 images_count: 1
+author_comments:
+- Thanks for reposting Nitish Kumar and Urs B.. Have a great weekend!
 ---
 
 "Hi Daniele, good morning, how are you? I'm ok, I hope the same for you. I'd like to tell you this, I'd like to share with you my first thoughts this morning. Yesterday I really appreciated the lesson.
@@ -22,31 +24,3 @@ Is this the best way to start the weekend?
 I think it is!
 
 Have a great weekend, everyone!
-
-## Comments (8)
-
-### Sarah Gruneisen 🐉 (Principal Consultant in Transformation: AI for Leaders and Products • Scaling engineering leaders, teams, and sustainable impact with AI • Leadership • Human-Centered Transformation)
-> I rarely give voice messages yes but there is something so special in the receiving of them!
-
-### Leo Cascio (Purpose brand strategist | Personal branding specialist | ZeroChiavi™ Foiunder | Bello Dentro Milano Host | Psychology & Neuroscience enthusiast | I uncover your WHY and turn it into a BRAND! 🌻)
-> Congratulations Daniele! Great! 
-> I have a question. Once weeks start on sunday in the UK, does a weekend in the UK end on saturday night? And consequencely is sunday evil? 😅
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Nitish Kumar and Urs B.. Have a great weekend!
-
-### Rishya Shringha (On a mission to bring back humans to LinkedIn.)
-> A nice feeling to relax on in the weekend Daniele
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Love this. Starting the day with good energy always makes a difference 🙂
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> This is awesome! Have a great weekend Daniele!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I’d say this is definitely a fantastic way to start the weekend.
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> Happy to read that, my friend! Have a nice weekend:)
-

@@ -12,7 +12,3 @@ article:
 
 What is common between the Lincoln Memorial & pigeons?  Watch this video to find out and learn about Root Cause Analysis, an integral part of the Problem Solving process! #problemsolving #rootcauseanalysis #5whys #problemsolvers #problemsolvingskills #problems #problemmanagement #problemssolved #pigeons #softskillsdevelopment #softskills #softskillstraining #softskillstrainer #softskill #softskillscoaching 
 https://lnkd.in/guWTBX6
-
-### Shared Article: [How to Problem Solve Part 2 - Root Cause Analysis or Why Why Analysis](https://youtu.be/gKQp_eAfQLw)
-> youtube.com
-

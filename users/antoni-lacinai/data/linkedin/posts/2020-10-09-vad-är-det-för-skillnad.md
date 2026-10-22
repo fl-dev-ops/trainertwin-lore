@@ -19,7 +19,3 @@ Hur tänker du själv och hur påverkar hörandet och lyssnadet era relationer p
 #kommunikation #arbetsglädje #ledarskap
 
 Hur bra är vi på att lyssna i det digitala rummet när vi inte kan se varandra i ögonen och läsa av den andra lika bra? Det är faktiskt ett problem som vi behöver ta på allvar.
-
-### Shared Article: [Vad är det för skillnad på att höra och att lyssna?](https://www.youtube.com/watch?v=oVo5Ftl8b1s&t=77s)
-> youtube.com
-

@@ -26,9 +26,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Leadership Starts With Communication
-
-## Transcript
-
 speaker_1: And uh you invited me but I think I maybe approached you first because I followed your work I really love what youre doing especially with the the non native leader your podcast and see you very active on on LinkedIn and really admire and respect what you do And I think you know to do that I think doing a podcast is is not easy Its probably quite nervous at first for anyone even doing that in in their native language your mother tongue but but doing it in a second language must be even more daunting So you know massive kudos to you first of all and and thats why I followed I followed what youre doing

@@ -6,6 +6,8 @@ likes: 42
 comments: 13
 document:
   title: English Confidence Transforms Your International Career
+author_comments:
+- ➡️ How does impostor syndrome affect YOU? https://www.linkedin.com/posts/daniele-ponzo_impostor-syndrome-is-holding-back-so-many-activity-7308385179058778112-peLI
 ---
 
 Are you missing global opportunities?
@@ -45,30 +47,3 @@ And soon you will hear:
 “How soon can we get started?”
 
 P.S. What’s the biggest challenge you face when speaking English at work? Drop a comment below. 👇
-
-### Shared Document: [English Confidence Transforms Your International Career]()
-
-
-## Comments (7)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ How does impostor syndrome affect YOU? https://www.linkedin.com/posts/daniele-ponzo_impostor-syndrome-is-holding-back-so-many-activity-7308385179058778112-peLI
-
-### El Mehdi zkiou (Founder)
-> Crushing it!
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Well said Daniele Ponzo
-
-### Muhammad Ali (Digital PR Strategist I help B2B SaaS Brands Get Featured in Publications and Grow Organically on SERP & LLMs)
-> It's not just about knowing the technical side of things but also about being able to share and articulate ideas with confidence. Daniele Ponzo
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Skills aren’t the problem—it’s the confidence to articulate them. Daniele Ponzo
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Great insight! Confidence in English can unlock global opportunities and career growth. Taking action today leads to greater impact and recognition.
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> If it's painful just do it more often 😁 it's painful approach but works like magic ✨
-

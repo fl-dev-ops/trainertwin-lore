@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-confidence-languageimp
 likes: 25
 comments: 11
 images_count: 1
+author_comments:
+- '📌 here''s the original post, if you''re interested: https://www.linkedin.com/posts/daniele-ponzo_how-to-be-confident-for-a-presentation-activity-7223560441904451584-m5Ke'
 ---
 
 I know I’m supposed to include clients’ testimonials to highlight how I work.
@@ -29,29 +31,3 @@ If this feels like a match, send me a message. Let’s explore how we can team u
 P.S. many thanks Abdul for your message and congratulations on passing your exams🎉!
 
 #english #confidence #languageimprovement
-
-## Comments (6)
-
-### Abdul Raqeeb (Brand & Content Designer for Coaches and Founders | I help you look as credible online as you actually are.)
-> Thank you Daniele,
-> you're doing amazing Daniele Ponzo .
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Love your approach! Daniele Ponzo ))
-> 
-> Focusing on progress, not magic solutions, is what makes your work so valuable.
-> 
-> Practical and hands-on is the way to go!
-
-### Francesco Serravalle (Entrepreneur | Open Innovation & HR Manager | Business Coach)
-> Daniele 👍
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 here's the original post, if you're interested: https://www.linkedin.com/posts/daniele-ponzo_how-to-be-confident-for-a-presentation-activity-7223560441904451584-m5Ke
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Good job, Daniele Ponzo!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> It’s not about quick fixes but about consistent effort and practical, hands-on approaches. Daniele Ponzo
-

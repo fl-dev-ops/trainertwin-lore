@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How to Navigate the Middle East's Tech Job Market with a Digital Transformation Leader
-
-
-## Transcript
-
 speaker_1: What is a network You know your network is not the peers that youve worked with or the personal relationship that youve had over a period of time It is the people that they know and those people who they know Thats how big is your network and how are you going to leverage and explore that is something that you really need to work upon and see and strategize So right now the major drive is towards the digital transformation of all the industries
 
 

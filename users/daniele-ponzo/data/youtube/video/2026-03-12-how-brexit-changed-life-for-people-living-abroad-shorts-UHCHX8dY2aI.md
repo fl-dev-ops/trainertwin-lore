@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How Brexit Changed Life for People Living Abroad #shorts
-
-## Transcript
-
 speaker_1: was Brexit
 
 speaker_2: Sure

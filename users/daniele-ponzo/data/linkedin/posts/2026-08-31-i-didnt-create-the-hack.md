@@ -100,9 +100,3 @@ That's what the HACK Framework was built to do.
 
 💬 If you had to improve just one part of your communication, which would it be?
 Honing, Action, Collaboration, or Kudos?
-
-## Comments (1)
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> HACK your English I think clarity improves faster when we practice real situations, not perfect English.
-

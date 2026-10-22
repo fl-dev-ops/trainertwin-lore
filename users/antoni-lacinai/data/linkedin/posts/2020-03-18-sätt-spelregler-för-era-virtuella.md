@@ -32,19 +32,3 @@ Lägg tid på att prata om de här och andra frågeställningar så att ni är �
 Från boken Virtuella möten
 
 #virtuellamöten #kommunikation #ledarskap
-
-## Comments (4)
-
-### Ulf Bergman (Vill du bli stark, stolt och efterfrågad? Bygg och lev ditt varumärke. Reklambyrån Stolt Kommunikation utbildar, coachar och bygger starka varumärken. Utbildningsplattformen heter Varumärkesakuten.)
-> Antoni, du är i sanning en bjussig engagerad rådgivande expert. Den bästa vägen till ett starkt varumärke. Gillar. Tack. Happy days ahead.
-
-### Henrik Perrin (Utbilning och stöd i Svåra samtal och Stressreducering.)
-> Tack för den listan. 😁 
-> Hade ett gruppmöte igår som direkt krävde att jag som ordförande gick in och styrde upp en hel del av de där punkterna. Vi hann inte gå igenom dom tillsammans men bara att jag tydligt tog taktpinnen, fördelade ordet och var tydlig i vem jag och andra adresserade så gick det riktigt bra.
-
-### Åsa Lindell (Senior Facilitator & Moderator | Leadership, Communication, Change & Psychological Safety | 20+ years supporting executives, boards and organisations)
-> Spelregler är viktigt i alla möten och om möjligt viktigare i de virtuella när vi inte har lika stor tillgång till alla sinnen!
-
-### Jessica Wicklund (COO at I Know a Guy AB📍Your operating partner for office buildings📍Provides places for you to meet, work & thrive📍Hospitality services in your office)
-> 🙌🏻
-

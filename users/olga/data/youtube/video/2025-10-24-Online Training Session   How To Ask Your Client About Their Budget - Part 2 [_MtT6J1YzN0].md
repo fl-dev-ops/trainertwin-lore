@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Online Training Session How To Ask Your Client About Their Budget - Part 2
-
-## Transcript
-
 speaker_1: By the way guys yeah its good to have a calculator right next to your hand Im using my phone because I was not involved Walter it might be more difficult for you Do you know which potential return Marianne is expecting in percentage rental yield on 1 point 5 million
 
 speaker_2: She talked about 15 thats where we got confused Marianne you talk about 15000 dirhams per month

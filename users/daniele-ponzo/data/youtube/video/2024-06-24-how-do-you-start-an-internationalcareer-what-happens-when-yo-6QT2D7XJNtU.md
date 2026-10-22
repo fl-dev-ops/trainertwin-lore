@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How do you start an #internationalcareer? What happens when you go abroad to #learnenglish #podcast
-
-## Transcript
-
 speaker_1: Um so that was kind of a barrier in order to be able to progress as well you know So I decided to come over to Ireland for a year and uh and soon enough I realized that one year wasnt enough and I decided to stay Um and I got a job and you know kind of like happened then and then thats thats thats how it happened In the beginning it was really just for one year learn English and But I think its a story for so many of us isnt it
 
 speaker_2: Absolutely It starts small Say no no more than a year no more than a year And then you end up building a life Yeah 20 years after Yeah 20 years Dont say that Dont say that

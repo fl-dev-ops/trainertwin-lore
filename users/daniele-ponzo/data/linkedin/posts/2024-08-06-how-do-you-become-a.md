@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_internationalspeaker-nonnative
 likes: 46
 comments: 11
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQH_uSMf2MOSLQ/CeJzLyCnWNTcyKNA1Nkgr0E0uSjOy0MkAipmaYIqZWGCKGZuhiAEAqbEXXA?e=1793178000&v=beta&t=qf662mKEoQFNdbBLHltvTROG5B2TStkeic2zTD2Zwvs
+author_comments:
+- '📌 How do you become a true INTERNATIONAL LEADER? watch the full episode here: https://youtu.be/x4TXtA1IRio'
 ---
 
 How do you become a True International Leader?
@@ -49,35 +51,3 @@ Explore my Youtube Channel for more.
 Follow ➡️Daniele
 
  #internationalspeaker #nonnativeleader #inspiration #continuousimprovement #AI #techlead #leadership #tech
-
-## Comments (6)
-
-### Dr. Adam Bujak (CEO and Co-Founder, KYP.ai)
-> Bravo Marek!
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Absolutely Daniele Ponzo
-> 
-> Learning from experiences 
-> and seeking mentorship 
-> 
-> These are key takeaways
-> 
-> No shortcuts to success, only proactive attitude.
-
-### Kushal Das (Strategic design for B2B companies | Founder, Hoco Studio)
-> Working in international teams helps us appreciate and navigate cultural differences Daniele Ponzo.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> There are no shortcuts to becoming a true international leader. Daniele Ponzo
-> 
-> It’s a journey of continuous learning, self-improvement, and embracing diverse experiences.
-
-### Giorgin Serbanescu (Natural Wellness Guide | Essential Oil Solutions for Daily Wellbeing | Resilience Facilitator)
-> I think we all have strengths and weaknesses.
-> 
-> With the awareness of this vision, the only way to improve is to understand that the road must be traveled step by step, not through shortcuts. Daniele
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 How do you become a true INTERNATIONAL LEADER? watch the full episode here: https://youtu.be/x4TXtA1IRio
-

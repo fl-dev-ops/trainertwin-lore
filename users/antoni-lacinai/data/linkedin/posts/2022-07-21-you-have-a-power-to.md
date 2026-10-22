@@ -16,17 +16,3 @@ Show people 58 corporate bullshit PowerPoint slides and they will be bored
 You have the power. How will you use it?
 
 #leadership #communication #engagement
-
-## Comments (3)
-
-### Dr. Wendy Lee, CSP, CBIP, CIC, ICDM (Certified BrandImage™ Consultant | Founder of BrandImage™ International Institute | President, VSAI | Certified Speaking Professional (CSP) | Executive Presence & Personal Branding Expert)
-> Nice one!!! Love this!!
-
-### Marie-Thérèse Le Roux (The Holistic Communication Strategist | International Speaker | Essence Based Leadership™ Accredited Facilitator Candidate | I get audiences informed, inspired, and implementing.)
-> Absolutely on those 58 PowerPoint slides Antoni Lacinai... there is more Power in praise. 
-> 
-> Every success on your travels this weekend, and I look forward to your keynote at the Unique Speaker Bureau 2022 & Beyond Summit on Monday.
-
-### Eva Svensson (Rektor och ledarskapscoach PCC)
-> Right on the spot!
-

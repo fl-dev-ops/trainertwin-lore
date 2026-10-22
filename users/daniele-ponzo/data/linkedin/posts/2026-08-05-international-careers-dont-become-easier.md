@@ -115,33 +115,3 @@ We talk about international leadership, culture, identity, customer experience, 
 I'm curious...
 
 When has stepping outside your comfort zone changed your career for the better?
-
-## Comments (6)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> That's a great perspective. International careers don't remove challenges, they just teach you how to adapt to them.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> A strong reminder that growth rarely waits for confidence. Often, confidence is the result of taking the step, adapting along the way, and realising you're capable of more than you expected.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> International growth is rarely just about changing locations it is about expanding the way we think, adapt, and lead. The biggest transformation often happens within ourselves before we can truly succeed in a new environment. Daniele Ponzo
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> International careers often require more than technical expertise. Adaptability, curiosity, and resilience become just as important as professional knowledge. Daniele Ponzo
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Building a network in another country from zero definitely comes with challenges, but it also creates incredible opportunities. 
-> 
-> A positive mindset helps us embrace the journey learning from different cultures, perspectives, and languages while building meaningful connections. 
-> 
-> Every new relationship is a chance to grow, understand, and see the world in a new way. 🌏
-> 
-> Daniele Ponzo
-
-### Madhuraj Bangera (Lead Consultant at Virtusa (IT Infrastructure, Cloud & Digital Marketing))
-> There are several methods for identifying personal work values. The internet offers a wide array of different values and definitions, which are often selected by individuals and organizations to define their core value set.
-> This isn't a standardized process, however which means matching and aligning an individual's work values with those of the organization can be inconsistent.
-> 
-> Being able to identify values that are not important to you is also important. Values can be motivating or de-motivating for an individual, and a value actively promoted by the business, which is not important to the individual, or even actively de-motivated them can lead to frequent engagement problems.
-

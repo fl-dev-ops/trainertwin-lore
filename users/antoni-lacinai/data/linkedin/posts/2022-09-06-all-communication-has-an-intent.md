@@ -26,9 +26,3 @@ The better we are at clarifying our intentions to both ourselves and others, the
 #Leadership #communication #engagement
 
 Clarity is one of the three communicative superpowers I often speak about in my keynotes and in my training. Clarity and intent are closely interlinked. If you want to know more about how you and your team can create clear messages and clarity, get in touch with me.
-
-## Comments (1)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Very good reflections Antoni! 👏👈
-

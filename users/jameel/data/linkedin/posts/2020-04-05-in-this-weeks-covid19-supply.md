@@ -12,7 +12,3 @@ article:
 
 In this week's Covid19 Supply Chain Learning Series I am exploring the "Pandemic Demand Curve" for essential goods. Please comment on your experience around this curve. 
 #supplychain #change #covid19 #crisis #pandemic #demand #curve #supplychainmanagement
-
-### Shared Article: [The Pandemic Demand Curve](https://www.linkedin.com/pulse/pandemic-demand-curve-jameel-hye?trackingId=zQu%2BVOZnN1XqTIOlR8fIvQ%3D%3D)
-> Jameel Hye
-

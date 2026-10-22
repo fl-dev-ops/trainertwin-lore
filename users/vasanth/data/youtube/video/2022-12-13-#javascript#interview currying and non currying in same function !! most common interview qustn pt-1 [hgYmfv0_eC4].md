@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #javascript#interview currying and non currying in same function !! most common interview qustn pt-1
-
-
-## Transcript
-
 speaker_1: So whenever this question asked for you in the interview let me tell you how you approach it So you have now a function add that takes two arguments 10 and 20 in a closure manner And another function which same function basically should also take the arguments in a normal function manner which where there is no closure Okay So the important thing to observe here is lets say you now you think something can be written and you start writing a function So function add what you will write here what parameter you will take So as soon as we encounter this line right which parameter you take where itself will be stuck if youre solving it for the first time correct And if youre not sure of different aspects of JavaScript So and from here Ill guarantee you will not go anywhere Youll be just stuck here itself to I mean what parameter to pass and what this takes youll never be able to solve this question So thought process to be changed this way

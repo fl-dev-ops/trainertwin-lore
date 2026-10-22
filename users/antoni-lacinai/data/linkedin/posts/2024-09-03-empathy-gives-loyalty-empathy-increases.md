@@ -17,9 +17,3 @@ Empathy increases your leadership skills
 Be present
 Be curious
 Be empathetic
-
-## Comments (1)
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> ♥️🥰
-

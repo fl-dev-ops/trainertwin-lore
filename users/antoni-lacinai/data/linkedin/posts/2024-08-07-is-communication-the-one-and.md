@@ -15,7 +15,3 @@ Is communication the one and only thing in sales?
 Yes! and No!
 
 Take a look and let me know what you think
-
-### Shared Article: [Communication  The Key to Successful Sales](https://youtube.com/watch?v=YqTefPBNRtY&si=3hWjrVHS1wXZgyeb)
-> youtube.com
-

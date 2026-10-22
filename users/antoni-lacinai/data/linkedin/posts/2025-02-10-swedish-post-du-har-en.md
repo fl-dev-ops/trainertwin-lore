@@ -14,12 +14,3 @@ Du måste inte vara chef. Dina ord spelar roll. De kan göra oss glada, förvirr
 Om du är chef så sänder du på en högre volym. Hur du kommunicerar och vad du kommunicerar avgör hur vi trivs på jobbet, om vi känner arbetsglädje eller arbetsångest. 
 
 Du har den makten. Vad gör du med den?
-
-## Comments (2)
-
-### Per E Claesson (Senior consultant (Freelance))
-> Den snor jag idag Antoni :-) Är i en fas då jag skjuter ut mig från olika ideella sammanhang med osunda under strukturer/egennyttigt ledarskap etcetera ...
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Bra och viktig påminnelse.  Du behövs på varje arbetsplats Antoni Lacinai
-

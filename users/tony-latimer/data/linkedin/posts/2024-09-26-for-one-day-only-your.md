@@ -29,13 +29,3 @@ https://lnkd.in/gXUGptxy
 The Coachathon is a 24-hour, global coaching marathon taking place on Wednesday 9th October 2024.
 Coaches volunteer their time and offer 45-minute coaching sessions, one to one, in return for a minimum £50 donation to MicroLoan Foundation. 
 100% of your session fee will be directly donated to MicroLoan, supporting a woman in sub-Saharan Africa to start her own small business. With your donation, she can generate an income to feed her family, pay for healthcare and send her children to school.
-
-### Shared Article: [Elementor #2148](http://coachathon.microloanfoundation.org.uk)
-> coachathon.microloanfoundation.org.uk
-
-
-## Comments (1)
-
-### Peter Lok (Author of The Suit You Forgot You Were Wearing | Helping people notice the invisible system behind pressure, performance, and identity)
-> 👍
-

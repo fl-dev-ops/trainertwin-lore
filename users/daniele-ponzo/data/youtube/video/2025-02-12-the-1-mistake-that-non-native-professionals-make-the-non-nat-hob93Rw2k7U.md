@@ -47,11 +47,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The #1 Mistake That Non-Native Professionals Make | The Non Native Leader | Episode 23
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to another episode of the non native leader my video podcast series where I chat where I talk to people uh working in an international context working on a global stage in uh various industries from NGOs to Fintech financial experts uh artists you know various industries and they all have one thing in common None of them was born in an English speaking country So uh thats the aim of the show And Im happy to have here with me today Luther Lebtag an old friend of mine and uh Luther youre very welcome
 
 speaker_2: Thank you very much Good to be here

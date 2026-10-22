@@ -37,10 +37,3 @@ I'm sure you will soon get used to this;)
 Let me know if this helps
 
 #englishlearning #English #communication
-
-## Comments (1)
-
-### Vanessa Andrews (Associate Consultant)
-> This lesson took me way way back Daniele Ponzo 
-> Great reminders. It’s the little things we forget 😀
-

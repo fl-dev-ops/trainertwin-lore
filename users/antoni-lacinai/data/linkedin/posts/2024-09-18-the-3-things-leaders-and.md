@@ -30,25 +30,3 @@ There we go. Something to reflect on 😃
 You got this
 
 (Although this isn’t my topic of this conference (I will share nine memory hacks when you present, so your audience remember) , I still see the lessons valuable. I hope you do too.)
-
-## Comments (6)
-
-### Rainer Petek, CSP, Global Speaking Fellow (Leadership-Teams: Clarity-Commitment-Collaboration | Nordwand-Prinzip für C-Level & Unternehmer I Business-Bergführer)
-> Look forward to meeting you soon, Antoni!
-
-### Cyriel Kortleven 'Making Change Simple' (Most change programs fail. Not because of strategy - but because of mindset. I fix that. Keynote speaker in 42 countries. 345+ recommendations.)
-> See you very soon in Bali. And enjoy the Balinese culture in the meantime.
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> Åh, vad jag gillar detta!
-> Såna små saker i vardagen som har stor betydelse av hur vi mår 🥰
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Mr Global speaker. Enjoy and have fun!
-
-### Kjell Dahlin (Framförallt Inspirationstalare. Men även författare och grundare av den mjuka kommunikationsbyrån Popretorik)
-> Enjoy Bali. I was there 35 years ago. Yes, I had a backpack and long hair :-)
-
-### Brian Bakeberg BSC.ENG (Co-Founder & CVO, bp2w® | Turning employee engagement data into action in 15 minutes a month | CPD-accredited | Published in The Harvard Brain)
-> Enjoy and have fun
-

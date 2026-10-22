@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What Podcasting Teaches About Communication #shorts
-
-## Transcript
-
 speaker_1: So I was on your podcast you were on our podcast on the one that I have with Dennis on our tech journey and now youre on my podcast So were sharing a lot of podcast sessions I think
 
 speaker_2: Yes I think its great you know like uh we have so many channels opportunities so I think its great And Im super happy to be here so as Adrian said any questions as we go through the flow any questions you might have I would be happy to answer them

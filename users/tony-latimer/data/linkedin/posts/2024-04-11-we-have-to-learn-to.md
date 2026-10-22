@@ -10,12 +10,3 @@ We have to learn to define ourselves
 And our success on our own terms 
 Read more
 https://lnkd.in/grqgGhKk
-
-## Comments (2)
-
-### Darren Cephas Lim (Social Service Staff | Public Speaking Trainer | Resilience Speaker)
-> Thank you for sharing!
-
-### KiaLi Poh Unlocking Human Potential (Turning Adversity Into Possibility | Founder of The Phoenix Method™)
-> Thanks for sharing! I especially resonated with what she said about perfectionism and relationship.
-

@@ -23,7 +23,3 @@ https://lnkd.in/gQb_7a2s
 Prathosh. 
 
 PS - This is a part of the ongoing NPTEL course.
-
-### Shared Article: [NPTEL - Indian Institute of Science, Bengaluru](https://youtube.com/@nptel-indianinstituteofsci8064?si=uPhoHg29Bgggngoc)
-> youtube.com
-

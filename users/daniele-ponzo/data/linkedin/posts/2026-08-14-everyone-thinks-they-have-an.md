@@ -16,12 +16,3 @@ They have a cognitive load problem.
 The more mental energy you spend translating and worrying about mistakes, the less you have available for communicating your ideas.
 
 #Confidence #EnglishForTech #Developers #ImposterSyndrome
-
-## Comments (2)
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Exactly. When you're focused on getting the language perfect, you're often left with less capacity to make the idea itself clear.
-
-### HACK your English (200 followers)
-> English for Tech Professionals Communication That Gets You Promoted. Watch the full speech here: https://youtu.be/bjRSwrPSNxQ
-

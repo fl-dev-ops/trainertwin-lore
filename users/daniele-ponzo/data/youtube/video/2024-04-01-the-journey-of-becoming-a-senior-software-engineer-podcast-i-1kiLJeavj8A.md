@@ -28,11 +28,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# the JOURNEY of becoming a SENIOR SOFTWARE engineer #podcast #internationalspeaker #business #english
-
-## Transcript
-
 speaker_1: And if you work hard it can all connect basically So you know after after two years on the job I I got the title of senior software engineer which is quite wow Yeah good So yeah
 
 speaker_2: Yeah that that must have that must have felt great I guess Yeah I so like you went from the initial situation like this sense of being overwhelmed and the sense of being okay uh Im an an outsider What am I doing here Yeah So like what was the dominant emotion back then

@@ -16,7 +16,3 @@ In this insightful video, we delve into the art of tackling the notorious "Why D
 #JobInterview #CareerAdvice #InterviewTips #WhyDidYouLeave #professionaldevelopment 
 
 https://lnkd.in/g7u38KGQ
-
-### Shared Article: [Mastering the 'Why Did You Leave Your Previous Job?' Interview Question: With 5 Real Examples](https://youtu.be/VhOqIldvfnw?si=lPlIMQiaMkgJES5F)
-> youtube.com
-

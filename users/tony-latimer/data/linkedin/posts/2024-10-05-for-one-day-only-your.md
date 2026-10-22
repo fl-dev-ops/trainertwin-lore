@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_coachathon2024-activity-72482682
 likes: 8
 comments: 1
 images_count: 1
+author_comments:
+- Thanks for the repost Kat Chan Delighted to say all my slots are now booked BUT Winston Chue  (ICF - MCC, CMCS , FCD-I, GCDF-I) is still available. Search for him at the Coachathon website.
 ---
 
 For one day only, your coaching session with me will cost just £50.
@@ -15,9 +17,3 @@ I am offering six 45-minute coaching sessions, one to one, in return for a minim
 The booking website is now ⭐️ live⭐️ - it’s first come first serve! 
 Visit https://lnkd.in/dirW3VCM
  and type my name in the search bar to book with me.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Thanks for the repost Kat Chan Delighted to say all my slots are now booked BUT Winston Chue  (ICF - MCC, CMCS , FCD-I, GCDF-I) is still available. Search for him at the Coachathon website.
-

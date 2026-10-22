@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Bob Hooey testemonial
-
-## Transcript
-
 speaker_1: Hi Bob Hooey here from Canada and Im here in Paris with Anthony at Elevation 2019 I watched him rock the stage this morning Good flow good information and I found it interesting So put this man to work folks Bring him to talk to you Its worth the investment

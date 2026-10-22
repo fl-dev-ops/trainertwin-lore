@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-career-english
 likes: 20
 comments: 9
 images_count: 1
+author_comments:
+- '📌How Alex boosted his confidence and got his dream job: https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-confidence-career-activity-7203991449921634304-E9dk?'
 ---
 
 “My life changed when I believed I could work in an English environment with native speakers”.
@@ -35,18 +37,3 @@ Hi, I'm Daniele. I post about English communication, IT, confidence and meetings
 Like my posts? Follow or connect with me here➡️ Daniele
 
 #itprofessionals #career #english
-
-## Comments (4)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How Alex boosted his confidence and got his dream job: https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-confidence-career-activity-7203991449921634304-E9dk?
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Fantastic endorsement Daniele. Well done to you both! 👏
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> LOVE to see this! You're doing amazing work Daniele Ponzo! And massive congrats to Aleksandr too 👏
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> Great job mate! 👊
-

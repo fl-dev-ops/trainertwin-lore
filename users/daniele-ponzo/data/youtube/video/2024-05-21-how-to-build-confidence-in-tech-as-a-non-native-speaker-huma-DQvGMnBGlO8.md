@@ -126,11 +126,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Build Confidence in Tech as a Non-Native Speaker | Humanizing Tech | Episode 13
-
-## Transcript
-
 speaker_1: Hi everybody and welcome to another episode of the non native leader a video podcast series where we talk to leaders in various fields various industries and who have one thing in common they were not born in an English speaking country And if you follow the series youve seen we talk to leaders in NGOs leaders in IT Fintech um marketing experts copywriters you know various aspects and the thing we always try to talk about is personal stories and some useful tips and advice on how to become a superstar on the global stage Today Im really happy to have with me Maria Tuleika Sorry if I have mispronounced your name Maria
 
 speaker_2: You said it perfectly

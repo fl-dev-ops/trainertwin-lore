@@ -27,27 +27,3 @@ P.P.S. Don't miss any episodes. Hit that "Follow" 🔔 button to stay in the loo
 Follow ➡ Daniele
   
  #NonNativeLeader #internationalcareer  #successstories  #inspiration
-
-## Comments (5)
-
-### Shafa Ullah Khan (Business Development Manager @ Zainx Media)
-> Marking my calendar for Tuesday, January 9th, at 7:30 AM!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Looking forward to another installment of your illuminating podcast Daniele Ponzo 💡
-
-### Ottavia Adorni (Formatrice d’italien ⚡️ Ingénieure pédagogique ⚡️ Chargée de projet communication)
-> That sounds really interesting!
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Sounds fabulous!
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> I will watch it!
-> 
-> ----------
-> 🔍 Follow me for daily insights on ITSM and IT Security.
-> 🎧 Check out The ITSM Practice podcast on Spotify: podcasters.spotify.com/pod/show/theitsmpractice
-> 
-> #itsm #itsecurity
-

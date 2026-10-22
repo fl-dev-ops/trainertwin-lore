@@ -16,9 +16,3 @@ And that's often more effective than trying to sound native.
 👉 Follow for insights on communication, confidence, leadership, and English for international careers.
 
 #Shorts #Globish #BusinessEnglish #GlobalCommunication #InternationalBusiness
-
-## Comments (1)
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Clear communication matters far more than sounding like a native speaker. Being understood is always the real goal.
-

@@ -13,9 +13,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# 8 Levels of coaching mastery #coaching #coachtraining
-
-## Transcript
-
 speaker_1: What were interested in is the energetic connection So I always say if you learn to coach without models you can get over the bar to MCC But thats like getting your black belt Youve practiced the foundation youve practiced the basics But then once youve got your black belt its like okay there are multiple levels of mastery And the levels of mastery depend on how much you can use energy as you go through that work

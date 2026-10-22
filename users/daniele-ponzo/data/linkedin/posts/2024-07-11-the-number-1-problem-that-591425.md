@@ -61,12 +61,3 @@ P.S. are you afraid of English right now?
 Send me a message with your biggest fear, I’ll be happy to give you some support.
 
 #english #itprofessionals #career #language
-
-## Comments (2)
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> "I completely agree! English is indeed the language of global communication, and having a good command of it is essential for career advancement. I've seen many professionals struggle in meetings, presentations, and international calls due to language barriers. It's great that you're offering support and guidance to help individuals improve their English skills and boost their confidence in using the language. I'm sure many will appreciate your help in overcoming their fears and achieving their career goals. Keep up the great work!"
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Unfortunately (or fortunately, depending on one's perspective)... it's all true Daniele Ponzo!
-

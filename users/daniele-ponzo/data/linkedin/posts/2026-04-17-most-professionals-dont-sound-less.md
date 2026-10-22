@@ -78,27 +78,3 @@ You might need a different way to train it.
 
 When you speak in English…
 do you sound like your level or below it?
-
-## Comments (7)
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> Daniele Ponzo like upgrading from a flip phone to a smartphone, not about the device itself but how you use it. Clear structure and confidence can transform communication from mediocre to memorable, regardless of the language. Nice insights!
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> Structure reduces cognitive load for the listener. That is why the same idea sounds stronger when it is organised well.
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> Nice one mate. Structure already goes a long way. Add practice under pressure to it and you've got the perfect growth blend.
-
-### Tom Otto (SWE → Founder @ Mockly & Launch Llama | Helping founders launch | 80K+ newsletter audience)
-> Solid insights on elevating communication to sound more senior
-
-### Thomas Chen (​4 to 6-figure (USD) sales deals closed | Helping founders, sales professionals and their teams to get bigger clients through LinkedIn. | Trusted by clients worldwide (Testimonials in Featured/ Recommendations))
-> Seniority comes through when people trust your clarity under pressure, not when they notice your language skills. Nice read, Daniele Ponzo!
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Seniority is clarity under pressure, not complexity. The real skill is making your message land. Daniele Ponzo
-
-### Viktoryia Ruzhynskaya (Business Operations Manager | M&A Integration & Presales Strategy | Sales Ops & Account Management | Claude-Certified AI Practitioner)
-> Daniele Ponzo, the question I’d add to yours: how much of the hesitation is about language - and how much is about not fully trusting your own read of the situation?
-

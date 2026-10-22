@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 45 Recurrent Neural Networks(RNNs)
-
-## Transcript
-
 speaker_1: Welcome everyone We are now discussing
 different architectural
 changes that that we can do to MLP to

@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/daniele-ponzo_fear-is-your-%F0%9D%97%AF%F0%9
 likes: 62
 comments: 30
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQE4Alk_qng5mg/CeJxzMnGJCstxDTctcbdwsdAFACNXBEQ?e=1793178000&v=beta&t=1GAiXCi4ChYlyZSRDNZtbsh1uEdU0aBALg_H1f8NoYQ
+author_comments:
+- '➡️ How to overcome fear and make it your best friend: https://www.linkedin.com/posts/daniele-ponzo_a-few-weeks-ago-g-was-walking-%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B2-activity-7303668643228221440-lZP5'
+- '📖 Want to know more about the book? Check this video here: https://www.youtube.com/watch?v=S8XF0NlIcAI'
+- |-
+  ➡️ Another mindset-changing truth about fear?
+  𝗧𝗵𝗲 𝗼𝗻𝗹𝘆 𝘄𝗮𝘆 𝘁𝗼 𝗳𝗲𝗲𝗹 𝗯𝗲𝘁𝘁𝗲𝗿 𝗮𝗯𝗼𝘂𝘁 𝘆𝗼𝘂𝗿𝘀𝗲𝗹𝗳 𝗶𝘀 𝘁𝗼 𝗴𝗼 𝗼𝘂𝘁 . . . 𝗮𝗻𝗱 𝗱𝗼 𝗶𝘁.
+  So, put yourself out there!
 ---
 
 Fear is your 𝗯𝗲𝘀𝘁 𝗳𝗿𝗶𝗲𝗻𝗱.
@@ -48,80 +55,3 @@ What’s a book that changed the way you think about fear? Drop your recommendat
 
 P.S. If fear is stopping you from speaking up in English, we can fix that.
 Send me a DM, and let’s make fear your 𝗳𝗿𝗶𝗲𝗻𝗱. 🤝
-
-## Comments (13)
-
-### Cindy Jansen, MA CCC-SLP (Founder | SpeakEasy! PRO | Speech-Language Pathologist | Global-English pronunciation training in +49 AI-enabled native-language-specific predicted learner challenges in microcourses | Private trainer | Sam.gov Awarded)
-> (((((resonates))))) ... thank you, helps to be reminded we are working to be our best in new stretches that are uncomfortable!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ How to overcome fear and make it your best friend: https://www.linkedin.com/posts/daniele-ponzo_a-few-weeks-ago-g-was-walking-%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B2-activity-7303668643228221440-lZP5
-
-### Fausto Turco (A Leader is an example, not a title | Innovate your studio starting from the Digital Mindset | +500 studies served | President of the Academy of Accountants | 👉 WRITE ME in chat to get started 👈)
-> Daniele 👏👏 non sono paure, come dici tu sono livelli del nostro percorso, come voler scalare lo Stelvio in bici, se hai paura lo guardi e basta, se ci provi, anche a piedi ma ci arrivi
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> I always think of the learning zones model Daniele...feel the fear and know its necessary to get to the learning zone. There's no way around it. It's part of the journey!
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Growth always comes with discomfort, but pushing through it leads to confidence. Thanks for sharing these insights! 🔥
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Recognizing that fear is a part of everyone's journey and not letting it stop you is key to success. Daniele Ponzo
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> This is such an inspiring post! I love how you flipped the narrative around fear and turned it into a tool for growth Daniele Ponzo
-
-### Giannis V. Chatzidis (Life & Mindset Coach | Founder & Writer at Mindwhisper | Helping millennials survive in our fast-changing world & reconnect with your authentic self & emotions | Petdad of 3 cats)
-> It's time to say, "thank you fear for protecting me for sooo long", now it's time to investigate what's back of that door.
-> 
-> Daniele Ponzo
-
-### Mcklein (MJ) Javeri (I help professionals land Board positions // 8x Board Member // Board Chair // xMonitor Deloitte)
-> Fear isn’t the enemy. It’s just a sign you’re stepping into something bigger.
-
-### Giorgin Serbanescu (Natural Wellness Guide | Essential Oil Solutions for Daily Wellbeing | Resilience Facilitator)
-> We are constantly evolving human beings, learning every day, step by step.
-> 
-> We are constantly evolving human beings, learning every day, step by step.
-> Those who have stopped learning have stopped living.
-> The same goes for what was your fear. Daniele
-
-### Vladan Ulardzic (Software Developer)
-> "Ask yourself, “What if I 𝘴𝘶𝘤𝘤𝘦𝘦𝘥?”"
-> 
-> 1.
-> Maybe this:
-> 
-> "Before starting your own startup, you should work for a world-class company."
-> 
-> is the way. Here is little more regarding above:
-> https://www.linkedin.com/posts/linasbeliunas_before-starting-your-own-startup-you-should-activity-7302712079549919232-TxYz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbtS3MBnAyNFHO8vMDtuzqGQitcj4Vg214
-> 
-> 2.
-> My way was to find other people "in the space" willing to join forces IN "CASE OF OPPORTUNITY". It is highly risky. There will be a need for huge sacrifice.
-> 
-> 
-> 
-> 
-> Whatever. Chances are very, very small to succeed. The good thing is that BIG SW companies are still making bad products. Their workforce is not as motivated as they make it out to be. Fluctuation of people is regular and happens every 2-3 years.
-> 
-> Vinay G.
->  
-> 
-> 
-> Fear is your 𝗯𝗲𝘀𝘁 𝗳𝗿𝗶𝗲𝗻𝗱.
-> TRUE. 
-> BIG TRUE.
-> 
-> 
-> Thank you for reading.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📖 Want to know more about the book? Check this video here: https://www.youtube.com/watch?v=S8XF0NlIcAI
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ Another mindset-changing truth about fear?
-> 𝗧𝗵𝗲 𝗼𝗻𝗹𝘆 𝘄𝗮𝘆 𝘁𝗼 𝗳𝗲𝗲𝗹 𝗯𝗲𝘁𝘁𝗲𝗿 𝗮𝗯𝗼𝘂𝘁 𝘆𝗼𝘂𝗿𝘀𝗲𝗹𝗳 𝗶𝘀 𝘁𝗼 𝗴𝗼 𝗼𝘂𝘁 . . . 𝗮𝗻𝗱 𝗱𝗼 𝗶𝘁.
-> So, put yourself out there!
-

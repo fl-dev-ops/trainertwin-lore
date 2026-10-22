@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-idioms-are-not-importa
 likes: 48
 comments: 11
 images_count: 1
+author_comments:
+- '🖥️ Ready to talk about idioms, buzzwords and... Ireland? Grab your spot here: https://www.linkedin.com/events/thelanguageofbusiness-ireland-t7299750161117802496/theater/'
 ---
 
 English idioms are not important for an IT professional.
@@ -63,24 +65,3 @@ P.P.S. Idioms, buzzwords, office jargon... they can give us a headache. 🥴 Thi
 ✅ How to support newcomers in Tech (& Ireland) 
 
 Will you be there? Grab your spot in the link below 👇
-
-## Comments (6)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Definitely best to hit the ground running or you might end up being run into the ground. 😜
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Such a great point! Idioms can really make a difference in how we communicate and present ourselves in interviews. Daniele Ponzo
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Good rehook that 😂
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Sounds like an excellent opportunity for anyone wishing to learn how to better use business english Daniele Ponzo!!!
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> This is truly one of the golden ones Daniele 🤩
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🖥️ Ready to talk about idioms, buzzwords and... Ireland? Grab your spot here: https://www.linkedin.com/events/thelanguageofbusiness-ireland-t7299750161117802496/theater/
-

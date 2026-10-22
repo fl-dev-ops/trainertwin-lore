@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #shorts #cvwriting #cvtips #resumewriting #resume #resumetips #jobsearch #jobs #careertips #career
-
-## Transcript
-
 speaker_1: Resume
 
 

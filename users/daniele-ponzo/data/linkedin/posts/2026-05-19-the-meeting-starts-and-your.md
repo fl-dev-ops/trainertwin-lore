@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/daniele-ponzo_the-meeting-starts-and-your-br
 likes: 41
 comments: 15
 images_count: 1
+author_comments:
+- "▶️ Real transformation... what does it look like? \nhttps://www.linkedin.com/posts/daniele-ponzo_he-didnt-start-from-zero-hes-a-senior-share-7463101716830461952-6b9P"
+- |-
+  📌 If you're looking for a solution?
+  Here it is:
+   https://www.linkedin.com/posts/daniele-ponzo_you-dont-need-better-english-to-speak-like-ugcPost-7462738219198001152-UAWZ
+- "▶️ If you’d rather not experience \U0001D62D’\U0001D626\U0001D634\U0001D631\U0001D633\U0001D62A\U0001D635 \U0001D625\U0001D626 \U0001D62D’\U0001D626\U0001D634\U0001D624\U0001D622\U0001D62D\U0001D62A\U0001D626\U0001D633 after every meeting… \n\nThis is exactly what we train inside \U0001D5E6\U0001D5FD\U0001D5F2\U0001D5EE\U0001D5F8 \U0001D5DF\U0001D5F6\U0001D5F8\U0001D5F2 \U0001D5EE \U0001D5DF\U0001D5F2\U0001D5EE\U0001D5F1\U0001D5F2\U0001D5FF.\n\nHere’s the link:\n\nhttps://danieleponzo.com/speak-like-a-leader"
 ---
 
 The meeting starts.
@@ -95,42 +102,3 @@ Most tech people think they need better English.
 When they actually need a different way to speak when it matters.
 
 ▶️ If you’ve worked through this: what helped you stay clear when the pressure kicks in?
-
-## Comments (9)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ Real transformation... what does it look like? 
-> https://www.linkedin.com/posts/daniele-ponzo_he-didnt-start-from-zero-hes-a-senior-share-7463101716830461952-6b9P
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 If you're looking for a solution?
-> Here it is:
->  https://www.linkedin.com/posts/daniele-ponzo_you-dont-need-better-english-to-speak-like-ugcPost-7462738219198001152-UAWZ
-
-### Marco Gabaglio (Senior Cloud Operation Specialist presso Board International)
-> unfortunately, It happens most than I want..  😅
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> This is such a relatable experience for many in the tech field Daniele Ponzo as it can be challenging to articulate complex ideas under pressure. Practicing clear communication techniques and focusing on simplicity can make a significant difference. Thank you for bringing this important issue to light!
-
-### Cedric Lee🧬(DNA Storyteller) (🎯 DNA Storyteller | Founder of ConnectingDNA | Building the World’s First DNA-Wellness Digital Infrastructure)
-> Daniele Ponzo, my brain is basically a group chat that delivers the perfect message three hours after the conversation ended. 😅
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I have seen this with a lot of strong technical people who is good with their knowledge but got lost when answering. Go simple is definitely a better way.
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> It only pops to mind when you don't need it anymore isn't it?? Our memory loves to play tricks on us. That's why we should not rely on it too much.
-
-### Emanuel Balsa (Helping 36K+ professionals make smarter money, career and, AI decisions | Daily lessons | Free quiz ↓ | Talks and partnerships, happyhelp@emanuelbalsa.com)
-> I learned clarity grows when I stop chasing perfect words. Short pauses often sound more confident than rushed answers.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ If you’d rather not experience 𝘭’𝘦𝘴𝘱𝘳𝘪𝘵 𝘥𝘦 𝘭’𝘦𝘴𝘤𝘢𝘭𝘪𝘦𝘳 after every meeting… 
-> 
-> This is exactly what we train inside 𝗦𝗽𝗲𝗮𝗸 𝗟𝗶𝗸𝗲 𝗮 𝗟𝗲𝗮𝗱𝗲𝗿.
-> 
-> Here’s the link:
-> 
-> https://danieleponzo.com/speak-like-a-leader
-

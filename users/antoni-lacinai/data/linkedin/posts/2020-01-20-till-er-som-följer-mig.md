@@ -12,9 +12,3 @@ Jag har plats för fem gäster till i Stockholm på torsdag och Göteborg på fr
 OSA. Först till kvarn. Välkommen ^_^
 
 ps -  både Jan Tern, The Stress Exit Man och jag är så nöjda med våra böcker!
-
-## Comments (1)
-
-### Maja Gréen (Handledare inom professionsutveckling, ledarskap, UGL och teamutveckling. Författare till böckerna Beredd på det oförberedda.)
-> Kommer gärna kl 17 i Stockholm
-

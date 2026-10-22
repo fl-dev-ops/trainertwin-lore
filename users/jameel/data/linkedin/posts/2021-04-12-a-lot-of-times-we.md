@@ -13,7 +13,3 @@ article:
 A lot of times we give feedback to our friends and colleagues which is not useful. In this video I am sharing three tips which will help you give feedback that people can actually use.
 https://lnkd.in/gBxRu67
 #feedbackmatters #feedbackmanagement #developmentprocess #softskills #careerskills #feedbackloop #usefultips
-
-### Shared Article: [How to give feedback people can actually use](https://www.youtube.com/watch?v=P6SJKhZXjr4&t=19s)
-> youtube.com
-

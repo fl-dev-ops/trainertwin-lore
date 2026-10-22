@@ -17,9 +17,3 @@ Whether it’s understanding market dynamics, gauging team morale, or predicting
 
 Embark on a journey where every decision is backed by analytical precision, propelling leadership into an era of informed excellence.
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Anirudh Pratap Singh (CTO at RaiseMoney | Startup Building, Product & Technology | Payments & Fintech | Director of Technical Operations, Payomatix)
-> Data empowers thoughtful decisions. AI insights inspire strategic leadership. Tony Latimer, MCC
-

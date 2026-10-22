@@ -29,27 +29,3 @@ Both are rational responses to the same underlying probability. One receives car
 Read the full detail at
 
 https://lnkd.in/gRShsMnY
-
-### Shared Article: [The True Cost of Executive Hiring and CEO Failure](https://www.profitableleadership.com/blog/true-cost-executive-hiring-ceo-failure)
-> profitableleadership.com
-
-
-## Comments (1)
-
-### Peter Lok (Author of The Suit You Forgot You Were Wearing | Helping people notice the invisible system behind pressure, performance, and identity)
-> This is a very useful distinction.
-> 
-> What stood out to me is that a CEO appointment is not simply a role someone steps into. It is an environment of expectation, probability, pressure, reputation, and projected performance.
-> 
-> The severance terms manage the risk after the fact. Coaching can help manage the risk before it becomes visible.
-> 
-> But there is also a deeper human layer here.
-> 
-> At some point, the person may stop merely occupying the role and begin being shaped by it inwardly. The board’s expectations, the market’s judgment, the company’s pressure, and the need to justify the appointment can quietly become internal.
-> 
-> That is where leadership pressure becomes more than situational.
-> 
-> It becomes identity pressure.
-> 
-> And perhaps that is one of the least examined costs of senior leadership.
-

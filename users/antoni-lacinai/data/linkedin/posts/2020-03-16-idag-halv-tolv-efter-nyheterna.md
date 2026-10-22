@@ -8,9 +8,3 @@ images_count: 1
 ---
 
 Idag halv tolv, efter nyheterna på P4 Blekinge, kommer jag att ge konkreta tips för hur vi  leder virtuella möten på bästa sätt. Ligger i tiden. Ratta in vetja!
-
-## Comments (1)
-
-### Emma Jonsson (Senior Project Manager within Digital Transformation at Freelance (Self employed))
-> Ah, 3 dagar för sent ute. 🙂
-

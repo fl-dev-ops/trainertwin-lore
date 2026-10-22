@@ -15,9 +15,3 @@ Today he is turning 18! A big day for us ^_^. And I still haven't forgotten his 
 #communication #listening #engagement
 
 happy birthday my son. I love you!
-
-## Comments (1)
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> So often asked question and challenge Antoni. But your explanation makes it so easy to comprehend. Like your story and your sons answer 😍 🔝
-

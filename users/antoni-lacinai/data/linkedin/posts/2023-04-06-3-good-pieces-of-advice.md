@@ -21,24 +21,3 @@ article:
 #Hybridleadership #communication #engagement #futureofwork
 
 In the link,  you'll find an interview with me - in Swedish. Check it out if you want to know more, or get in touch with me and I'll give you more insights.
-
-### Shared Article: [Så klarar du det nya hybridledarskapet - Chefstidningen](https://buff.ly/3wdh0Iy)
-> chefstidningen.se
-
-
-## Comments (2)
-
-### Gloria Robson (BA(Ed), HRM, APMC, CPMP)⚡ (Etiquette & Image Consultant🔸Corporate Trainer, Speaker🔸I help Personal and Corporate Executives become Polished and Refined to attract Global attention for Productivity, Influence and Income.)
-> This is what I believe in Antoni..
-> 
-> Giving all employees fair treatment.
-> 
-> No hybrid leader should make some section of his or her  followers feel left out ..
-> 
-> It's important for Business success.
-> 
-> Thank you for sharing 🤝
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> ⭐️👌🏼🙌🏼 Spot on!
-

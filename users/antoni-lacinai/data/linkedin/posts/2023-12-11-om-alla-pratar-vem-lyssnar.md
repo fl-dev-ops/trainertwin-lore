@@ -36,15 +36,3 @@ Vi behöver mer empati på våra arbetsplatser. Det är ett motgift mot stress.
 Empati är det nya svarta!
 
 PS - Vilket av tipsen är din favorit?
-
-## Comments (3)
-
-### Jonas DicksonHartman (arbetsplatsenifokus.se - Sveriges första opartiska kunskaps och leverantörsbank i arbetet mot framtidens arbetsplats.)
-> Självklart mer Empati, så viktigt Antoni Lacinai
-
-### Johanna Donker (Senior Coach och Verksamhetsledare | Leder genom tillit, tydlighet och lagfokus | Stark i förändring och osäkerhet)
-> Så sant Antoni👏🏼
-
-### Cristian Parlea (Kundnära och relationsdriven profil | Service, struktur & affärsvärde)
-> Det finns ett uttryck som är många gånger värdefullt: "speech is silver, silence is gold".
-

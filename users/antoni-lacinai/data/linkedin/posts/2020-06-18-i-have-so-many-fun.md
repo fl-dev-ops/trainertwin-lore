@@ -14,12 +14,3 @@ I give online keynotes with insight in Workplace communication, Leadership and C
 
 I'd be happy to CONTRIBUTE TO YOU as well, come August and onwards. As a speaker or MC at your event, or as a communication coach/trainer for your team. Get in touch with me and we'll figure out a way to work together ^_^
 #communication #virtualleadership #employeeengagement
-
-## Comments (2)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Well done. Yes, you have my best recommendations.
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> You rock :-)
-

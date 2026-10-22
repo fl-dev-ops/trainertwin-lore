@@ -30,22 +30,3 @@ So your happiness is related to the happiness of your friends, their friends, an
 PS - a shoutout to fitness expert and podcaster Shirin Djavidi i who I chose to highlight in this post, since she spreads joy around her.
 
 .
-
-## Comments (4)
-
-### Shirin Djavidi (CEO @ShapebyShirin)
-> Sååååå fint. TACK för att du delar och tack för att vi får sprida glädje tillsammans 🙏🏻🙏🏻🙏🏻🙏🏻
-
-### Emilie Loman (Grundare av Wowservice | Hjälper företag skapa lojala kunder, ambassadörer & hållbara servicekulturer genom wowservice | Föreläsare, Utbildare, Författare av boken “Wowservice” & host för Wowpodden)
-> Mer glädje åt alla! Det smittar verkligen av sig.
-
-### Henrik Pålsson (CEO Previsions, Entrepreneur, Thought Leader, Power Engineer - Emerging markets solar power and digitalization. 24/7 power, connectivity, analytics and DigitalCash to empower marginalized communities and micro business)
-> Well said Antoni
-
-### Džejna Bandić (Ghostwriter | Your voice, my words)
-> Exactly! You don’t have to avoid negative people, but sometimes sharing a bit of joy can be the spark they need. 
-> 
-> It’s all about balance.
-> 
-> Love this Antoni Lacinai
-

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 2024  @Epam(part 1) frontend interview questions and answers|3-5 year experience |Detailed answer🔥
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Career With Person YouTube channel My name is Vasanth I hope you all doing well This is a very important video series as you all know where we are discussing about different companies interview We have already discussed about Infosys and Capgemini Today I am back with a new video where I am going to discuss all the interview questions and answers to the questions in EPAM Systems So EPAM Systems is a famous software company and they are hiring quite aggressively I have seen their holdings across multiple places in the Bengaluru So in this particular video where I am going to ask a lot of questions that was very recently asked just 15 days back in EPAM Systems
 
 

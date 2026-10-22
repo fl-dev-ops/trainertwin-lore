@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_your-english-isnt-broken-your-
 likes: 59
 comments: 30
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQH4C78GfveN6w/CeJxzMnGJyvT0y3BJ9Sh2ddTVcULiuySj8dNR-a6uaHxPXQC62xfi?e=1793178000&v=beta&t=VaiP-UuXlqwdU2K4Ws-PjA8Ono2Fjwd2o20a4LQWe4c
+author_comments:
+- '▶️ Ready to 𝗛𝗔𝗖𝗞 your English? Watch the full video here: https://youtu.be/fsADyFvFfqE?si=L59WKrr5WIWnGgH6'
 ---
 
 Your English isn’t broken. Your approach might be. 🎯
@@ -40,57 +42,3 @@ In this talk, I walk through the full framework and share how my clients (and I!
 
 Watch the full talk, link in the first comment below 👇
 And let me know: which part of the 𝗛𝗔𝗖𝗞 method are you focusing on right now?
-
-## Comments (15)
-
-### Karl Contreras (I help personal brands scale content through strategic video editing (Short & Long Form))
-> This is such an impactful talk — your delivery and clarity really pull the audience in. 🎥
-> 
-> As someone who works with talking-head and storytelling videos, I have to say your message and pacing make it easy to connect. The HACK method sounds like a real game-changer for professionals who want to stand out!
-
-### Geeva Samynathan (Author | Transforming Leaders Through Social Intelligence & Behavioral Strength | Partnering with Leaders to Unlock Potential | Championing Sustainability for Malaysian Beaches and Impact through ESG Initiatives.)
-> Action results, to repeated time of practice ... good one Daniele
-
-### Sinthujah Wimalathas (Founder, SANARAS Coaching | Performance Coach & Psychologist | Ex-Goldman Sachs | MSc, Psychology & Neuroscience | Helping High Performers Through Change with Clarity, Direction & Sustainable Success)
-> It’s not about the grammar, but more about the content and as long as you are genuine and authentic, no one cares about perfection 😊 Daniele Ponzo
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Brilliant strategy for improving English skills, especially the focus on practical application and tracking progress.
-> 
-> Daniele Ponzo
-
-### Mickey Hoh (Founder Narrative & Investor Materials Strategist ✔️ AI-Powered Marketing & Funding Readiness ✔️ HRD Corp Accredited Trainer ✔️ E3 Lead Community Builder)
-> Good idea!
-> On the other hand, broken English makes things less formal and more casual, lol.
-
-### Jean Ng 🟢 (AI Changemaker | Global Top 20 Creator in AI Safety & Tech Ethics | The AI Collective Leader, Kuala Lumpur Chapter)
-> Thank you for sharing the HACK method. Useful.
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> I have been learning English for almost 4 years and still I remember the moment I suddenly   started to understand what people at school are talking about  and to enjoy to join  their conversations.Since then,I started to have sooo much  fun of learning English.
-
-### Jeff Loo (ESG Consultancy | Head of Finance | GreenHouse Gas Practitioner | EcoVadis | ISCA member | ISO 14064/14068/14090 | ex-Sembcorp | 한국어 가능 | | 日本語できます |)
-> Love this HACK framework! 
-> For me, hone will be the most important, focusing on the important and outstanding issues for discussion. Daniele Ponzo
-
-### Sabina Khatun (Success needs all of you. | Content that brings you the right clients | Get help with your Content Design · Storytelling · Branding | Founder & CEO @recline)
-> Language is a tool we already carry, unlocking its power is about practice, support and celebrating progress, not perfection.
-
-### Frank Burke (🇬🇧 British Communication Coach | Business English & British Culture | Helping International Professionals and Students Communicate with Confidence | CELTA | MBA | 22 Years in Hong Kong)
-> I love the "Action" part of your HACK framework Daniele Ponzo.  No time like the present to use English.
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> The HACK method sounds like a game changer for many! Daniele Ponzo
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Such an important message! 🔥 Love how the HACK method focuses on using what you already know, not just learning more. Confidence really is a skill you can build. Thanks for sharing this!
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> This is an interesting framework. It helps people to learn in a more structured manner. Daniele Ponzo
-
-### Jon Sim (Counsellor at Fei Yue)
-> Great to always have framework to make learning more structured and focused Daniele Ponzo. Interesting HACK framework
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ Ready to 𝗛𝗔𝗖𝗞 your English? Watch the full video here: https://youtu.be/fsADyFvFfqE?si=L59WKrr5WIWnGgH6
-

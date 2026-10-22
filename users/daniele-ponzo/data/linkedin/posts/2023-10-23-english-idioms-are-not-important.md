@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-career
 likes: 34
 comments: 12
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
+   
+  🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
 ---
 
 English idioms are not important for an IT professional.
@@ -64,37 +73,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow ➡ Daniele
 
 #itprofessionals #english #career
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
->  
-> 🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Well done Daniele Ponzo. Thanks to this knowledge and your expertise I'm sure you were able to get off to a flying start!
-
-### Creative IQ Coaching (390 followers)
-> Yes, Daniele Ponzo 
-> 
-> Your use of English idioms shows your eloquence
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Indeed you've been able to express English like a pro 
-> 
-> Indeed, it is a game of Creativity 
-> 
-> Those who invented the idioms were Creative too
-> 
-> Cheers to more Creative collaborations.
-> 
-> Cheers, Daniele Ponzo
-
-### Alan Forrest TEFL (I help international professionals speak English without fear in high-pressure situations. No excuses.)
-> Idioms aren't the icing on the cake, often they are the cake.
-

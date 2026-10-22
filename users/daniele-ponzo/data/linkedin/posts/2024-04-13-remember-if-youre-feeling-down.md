@@ -29,9 +29,3 @@ Colourful,
 Have a great weekend, everyone!
 
 #weekend #recharge #inspiration
-
-## Comments (1)
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Best post of the day! 😇
-

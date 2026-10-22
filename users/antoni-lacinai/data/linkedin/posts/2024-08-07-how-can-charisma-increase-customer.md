@@ -24,13 +24,3 @@ enjoy
 
 I know that LinkedIn hates links. 
 Here is the link anyway: https://lnkd.in/d4FqpMYt
-
-## Comments (2)
-
-### Per E Claesson (Senior consultant (Freelance))
-> I call ”it” humor and it is soooo underestimated talent/personal characteristic! I know only one company in Sweden (FRICO) that ’s earliar mentioned the importance of humor in their job-adverticing => ”If You thinking of joining us? Humor will help! 😊❤️” 
-> No .., unfortunately, FRICO is not the same company as it use to be. No humor required any more .., 😢
-
-### Tejaswi Ladwa🧞‍♀️ (Co-Founder of Daarzy & Companies 400+ Happy Client Portfolios. ✦ Web Developer and Web Designer ✦ Android Mobile App creation ✦ Brand Consultation)
-> Saw the video..."Communication is not everything it is how you communicate that is important" this point was amazing Antoni Lacinai
-

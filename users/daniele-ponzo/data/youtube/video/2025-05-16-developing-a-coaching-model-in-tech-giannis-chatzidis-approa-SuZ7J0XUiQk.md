@@ -15,9 +15,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Developing a Coaching Model in Tech | Giannis Chatzidis' Approach
-
-## Transcript
-
 speaker_1: Yeah actually I started with applying all the techniques first to my teammates because I started thinking about okay lets build a coaching model Lets start lets find out with what kind of audience I want to work with or to talk about etc So and I started you know helping my younger self initially So this is what I did So I started with something like leadership coaching so I helped first time leaders because I was a first time leader and I had a lot of struggles obviously Uh so I started with that In the beginning it was really nice you know in the beginning you always I always started with examining testing a lot of models approaches etc

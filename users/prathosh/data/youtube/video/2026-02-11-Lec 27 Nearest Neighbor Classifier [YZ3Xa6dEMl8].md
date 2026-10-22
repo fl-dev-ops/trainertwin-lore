@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 27 Nearest Neighbor Classifier
-
-## Transcript
-
 speaker_1: So lets look at the other uh way to do
 it which is uh okay by the way u see
 using this smoother kernel also avoids

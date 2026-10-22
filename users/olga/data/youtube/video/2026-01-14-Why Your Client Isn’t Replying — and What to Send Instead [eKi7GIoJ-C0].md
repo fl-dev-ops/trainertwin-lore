@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Your Client Isn’t Replying — and What to Send Instead
-
-## Transcript
-
 speaker_1: Okay so let me convert it and put you in his shoes Okay We dont know anything about him We dont know how financially literate how well he understands Dubai Which number was that Dubai number
 
 speaker_2: Yes it is Dubai number

@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# How to give feedback-Tip2  #feedbackmatters #feedbackmanagement #developmentprocess #softskills
-
-## Transcript
-
 speaker_1: Tok HOW TO GIVE FEEDBACK TIP2
 
 

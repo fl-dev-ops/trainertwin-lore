@@ -50,6 +50,3 @@ Hope you got some value here. If you did, remember to follow and hit the bell on
 Follow ➡ Daniele
  
 #communication #leadership #english
-
-### Shared Document: [How to sound more professional with 10 verbs]()
-

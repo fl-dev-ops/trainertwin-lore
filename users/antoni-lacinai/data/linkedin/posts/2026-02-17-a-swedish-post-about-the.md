@@ -15,9 +15,3 @@ Produktiviteten dyker
 Jag blir intervjuad i Chefstidningen om detta. 
 
 Min uppmaning: Säg hej till alla. Ta med den nya på lunch. Låt dem känna tillhörighet. Tack för ordet
-
-## Comments (1)
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> En stor studie gjort av State of American Workplace visade att de som känner att de har en vän på jobbet är mer produktiva, stannar längre samt har mer kundnöjdhet. För mig är det obegripligt att inte fler arbetar mer strategiskt för att skapa goda relationer.
-

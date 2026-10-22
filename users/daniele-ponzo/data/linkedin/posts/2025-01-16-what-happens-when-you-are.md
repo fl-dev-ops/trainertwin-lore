@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_what-happens-when-you-are-not-
 likes: 31
 comments: 14
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQE6GAlvp2XH_Q/CeJxzMnGJCioxjs8P9HB1cdTVcULmu6LxQ9H4gboAS3ESWQ?e=1793178000&v=beta&t=OV31cy_IsRUSbYCxFpnpUrmOUyjdbZnA0QV4TdVi2Aw
+author_comments:
+- "\U0001F4ADWhat does it take to realize your dream? ⬇️ \nhttps://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej"
+- '📌 Business English mastery, Cross-cultural communication. Mindset and leadership skills. 7 days. Online. Free. Register here: https://speaktoleadsummit.com/optin'
 ---
 
 What happens when you are NOT confident about your English?
@@ -77,29 +80,3 @@ And Learn how to:
 
 🗓️ Join us 𝗼𝗻𝗹𝗶𝗻𝗲: January 17th - 25th
 👉 Sign up now through the 𝗹𝗶𝗻𝗸 in the comments!
-
-## Comments (7)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 💭What does it take to realize your dream? ⬇️ 
-> https://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej
-
-### Prof.Dr.Evone Botros. (AI Governance Researcher | Journal Founder | Fellow, Royal Society of Great Britain at Oxbridge Institute of Professional Development (OIPD) - UK)
-> Highly recommended!!
->  Daniele Ponzo!!
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> That's a magical transformation!
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Interesting event
-
-### Arslan Iqbal (Personal Brand Strategist | Helping Founders, CEOs & Executives Build Authority on LinkedIn & X | 250+ Personal Brands Helped)
-> I agree completely Daniele The ability to communicate with clarity and confidence can set you apart in meetings, interviews, and networking.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Business English mastery, Cross-cultural communication. Mindset and leadership skills. 7 days. Online. Free. Register here: https://speaktoleadsummit.com/optin
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It's so true that a lack of confidence in English can create barriers to opportunities, but your perspective on turning those challenges into strengths by taking action is incredibly motivating. Daniele Ponzo
-

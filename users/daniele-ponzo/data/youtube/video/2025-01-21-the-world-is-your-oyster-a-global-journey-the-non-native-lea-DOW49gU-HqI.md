@@ -42,11 +42,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The World is your Oyster | A Global Journey | The Non native leader | Episode 22
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to another episode of the non native leader video podcast series where we talk to people who are working in global international context their protagonist on the global stage but they were not born in an English speaking country Uh weve talked to many people now if you follow the series from NGOs to uh corporate people from artists to uh sports people Its a broad spectrum of non native leaders And today Im uh happy to have here with me Janine Shal Emden And as usual I apologize in advance for the pronunciation I always try to do my best And uh yeah Janine is a great example of what we want to do here with the series because uh well shes going to tell it Im not going Im not going to tell it So Janine welcome to our series Im very happy to have you here And so where are you at the moment Thats the first question I usually ask people
 
 speaker_2: Okay Thank you Daniele Thank you for having me Thats its a real pleasure um to get to chat to you Um so Im currently based in Italy uh but thats been for the past year and a half more or less Um before that yeah well get into it but its uh the world is an oyster is our oyster Absolutely Yeah I mean its at the moment

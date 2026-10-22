@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Relocating 14 Times Across Europe for Work #shorts
-
-## Transcript
-
 speaker_1: I decided to stay in Rome to come back to my hometown of Rome For the moment well see the future but in my past Ive relocated 14 times
 
 speaker_2: 14 times Okay Is that a record now I I need to check with the previous guests but yeah it might be a record

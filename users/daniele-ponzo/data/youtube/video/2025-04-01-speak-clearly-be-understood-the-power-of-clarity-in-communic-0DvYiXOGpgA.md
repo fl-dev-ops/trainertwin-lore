@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Speak Clearly, Be Understood | The Power of Clarity in Communication
-
-## Transcript
-
 speaker_1: I didnt want to force my opinion on you but you know like its
 
 speaker_2: No I I believe that clarity is the most important thing Uh if you can pass the message along and the message that you want is the one that gets heard then youre good And I dont care if you said it in a beautiful accent or if your accent feels like your native language It doesnt matter As long as the other person understands what youre saying youre good

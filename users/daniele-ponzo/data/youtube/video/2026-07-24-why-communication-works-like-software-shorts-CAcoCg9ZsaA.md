@@ -27,11 +27,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Communication Works Like Software #shorts
-
-## Transcript
-
 speaker_1: Well let me flip the approach We have AI Things can speak without us right We need to explain things So how do we do it With our voice with our body we are humans you know And in the age of AI being human means communicating openly communicating effectively explaining things clearly to a bot to a person to a client
 
 

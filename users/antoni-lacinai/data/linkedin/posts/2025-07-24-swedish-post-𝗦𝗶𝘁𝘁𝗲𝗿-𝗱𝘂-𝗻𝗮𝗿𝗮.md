@@ -37,12 +37,3 @@ Vem smittar du?
 
 Tack för att du läser mina tankar
 //Antoni
-
-## Comments (1)
-
-### Peter Trägårdh (Helping teams succeed through agility. Unlocking motivation and productivity. And coding.)
-> En liten reflektion...
-> 
-> Om du sätter dig bredvid någon som presterar mer än du, så betyder det väl att du drar ner den andres prestation också?
-> ;-)   :-D
-

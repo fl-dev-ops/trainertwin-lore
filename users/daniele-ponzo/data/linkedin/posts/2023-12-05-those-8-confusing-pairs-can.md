@@ -52,21 +52,3 @@ Hope you got some value here. If you did, remember to follow and hit the bell on
 Follow ➡ Daniele
  
  #itprofessionals #communicationcoach #englishtips
-
-### Shared Document: [8 Confusing Adverb pairs and How to use them]()
-
-
-## Comments (4)
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Very useful Daniele Ponzo! And I mean it 🤓
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Nice, clear descriptions and functional examples Daniele Ponzo 👍
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Really great pairing of adverbs, makes it clear.  though I am intrigued about what Ms Murphy & Mr O'Neill are up to? 😊
-
-### Carlos Batista (Senior Full-Stack Developer)
-> Thanks for sharing 🙏
-

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Pass the P&G Supply Chain Job Interview?  Million Dollar Tips with Bahroz Abbas
-
-
-## Transcript
-
 speaker_1: Typically there will be five peak performance questions or five behavioral questions for each of these peak performance
 
 

@@ -7,7 +7,6 @@ comments: 12
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHFvQKe6Rh5rA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1727982857681?e=1793178000&v=beta&t=Wf3rs2cTER7kVwIG6tB3w1CpV7xRQkJj6WLiHhEk-Y0
 ---
 
-
 There is a kind of energy which goes above and beyond time.
 
 It's called music.
@@ -41,37 +40,3 @@ Thanks Mr.Gilmour, it was an honour to be there.
 Video credits: David Gilmour Official 
 
 #circomassimo #rome #davidgilmour #music
-
-## Comments (6)
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Fantastic. Pink Floyd and Dire Straits are amazing.
-> 
-> ----------
-> 🔍 Follow The ITSM Practice Podcast on LinkedIn for daily insights on ITSM and IT Security.
-> 🎧 Check out The ITSM Practice Podcast on Spotify: https://open.spotify.com/show/5UQ70oHik31MuXVtvrqHli?si=48ef9e3e68fd4429
-> 
-> #itil #itsecurity
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Music truly is a timeless bridge that connects people across generations. Daniele Ponzo
-> 
-> It’s amazing how a single song can evoke the same emotions and memories, no matter the age.
-
-### Zuria Nagadya . AI Governance (Making AI make sense before it’s too late. Speaking on the future of AI from Africa. Every great thing starts with the right frequency. AI Governance Strategist | Lawyer | Founder, Africa in the room | Soul of AI)
-> Music is so powerful, biggest uniting factor of humanity if you asked me.  
-> Thank you for this Daniele Ponzo
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Absolutely! Daniele ))
-> 
-> Music truly transcends all boundaries.
-> 
-> Moments like these are to be cherished
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> What a vibe in the morning! Thanks for sharing, Daniele.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Slay, Daniele 🤘
-

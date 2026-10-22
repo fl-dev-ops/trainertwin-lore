@@ -15,7 +15,3 @@ Om du var BÄST i världen på något - hur skulle du göra då?
 Inspirerad av bästa Lisa Ekström skriver jag dessa tankar.
 
 Hur skulle ni agera på er arbetsplats om ni var bäst i världen?
-
-### Shared Article: [Om du var bäst i världen...](https://www.linkedin.com/pulse/om-du-var-b%25C3%25A4st-i-v%25C3%25A4rlden-antoni-lacinai?trackingId=S6g%2Br0iZkqd9bvCNTD5dkQ%3D%3D)
-> Antoni Lacinai
-

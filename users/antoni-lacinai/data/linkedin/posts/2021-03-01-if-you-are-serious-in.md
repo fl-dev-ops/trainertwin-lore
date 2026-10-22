@@ -13,7 +13,3 @@ article:
 If you are serious in your quest to be a great leader, even when your team is working from home or other locations
 
 #leadership #virtualleadership #engagement
-
-### Shared Article: [Virtual leadership: The challenges leaders aim to overcome](https://buff.ly/3pq388h)
-> buff.ly
-

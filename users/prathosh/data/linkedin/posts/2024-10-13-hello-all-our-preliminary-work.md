@@ -19,6 +19,3 @@ On the technical front, we use a  Gaussian mean-field approximation on the mode
 Congratulations to my PhD student Subhodip Panda and other interns Varun M S and Shreyans Jain. 
 
 EECS @ IISc, Bengaluru Chair ECE Indian Institute of Science (IISc) #safeAI #genAI #iisc #Neurips24
-
-### Shared Document: [Variational_diffusion_unlearning]()
-

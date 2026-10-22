@@ -24,12 +24,3 @@ But if those numbers are close to some sort of truth (and different studies show
 What do you think?
 
 #hybridleadership #communication #engagement
-
-## Comments (2)
-
-### Hillevi Busch (Senior analyst, PhD psychology.)
-> As a remote worker I get much more work done, i.e. I'm being more productive. As a in-office worker I'm more creative. Therefore hybrid work is the perfect match! 😊
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> I think that the fairly new opportunity many people have to themselves decide when to work where (and plan their tasks accordingly) will benefit productivity generally.
-

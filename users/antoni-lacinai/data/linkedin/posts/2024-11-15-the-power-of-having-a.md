@@ -24,9 +24,3 @@ Why am I sharing this? Because a network of good people is invaluable.
 And who knows, You might end up in a Walk&Talk meeting in the streets of a beautiful city
 
 ^_^
-
-## Comments (1)
-
-### Katja Schaefer (Leadership Coaching & Change Consulting | Change works when we understand what’s really going on — and keep it practical. I work with leaders and leadership teams navigating transitions, conflicts, and new directions.)
-> That was an amazing day!
-

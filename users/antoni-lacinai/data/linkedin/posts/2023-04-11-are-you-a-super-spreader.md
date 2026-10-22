@@ -19,11 +19,3 @@ With great communication comes high engagement which leads to great results.
 This is the core of what I speak about and train leaders and teams in. Make sure you meet, greet,  and treat your colleagues well. It will pay off.
 
 #leadership #communication #engagement
-
-## Comments (1)
-
-### Stephane PERREY (Representative Director of Exact Sciences KK)
-> Hello Antoni,
-> Watching your post reminds of the year long training I had with you on communication and how much I am missing it.
-> By the way, I was told recently that my communication style changed.  I knew immediately where this was coming from.  Thank you !
-

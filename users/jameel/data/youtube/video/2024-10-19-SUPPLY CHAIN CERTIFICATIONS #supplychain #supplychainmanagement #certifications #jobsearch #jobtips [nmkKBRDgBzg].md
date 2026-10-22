@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# SUPPLY CHAIN CERTIFICATIONS #supplychain #supplychainmanagement #certifications #jobsearch #jobtips
-
-
-## Transcript
-
 speaker_1: And finally sometimes the companies are offering or sponsoring these certification programs And in that case its a no brainer to get those certifications For instance I remember a few years ago Unilever had made it almost mandatory for their planners to get a CPIM certification I dont know whether they still run that program or not So if that kind of a situation occurs and your company is offering you those external certifications go for it because in that case you have nothing to lose as well because In a lot of cases those companies are either fully sponsoring those programs or partly sponsoring those programs which means you can at least get half of the cost discounted for yourself and at the end of the day you are getting a certification so thats definitely a plus point

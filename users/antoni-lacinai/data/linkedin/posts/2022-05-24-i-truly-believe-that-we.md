@@ -11,9 +11,3 @@ I truly believe that we all get the customers and teams we deSERVE
 Our communication will determine peoples engagement - which will impact performance and results. 
 
 #communication #engagement #leadership
-
-## Comments (1)
-
-### TOMMY R. (Professionell mötesbokning.)
-> Bra bild!
-

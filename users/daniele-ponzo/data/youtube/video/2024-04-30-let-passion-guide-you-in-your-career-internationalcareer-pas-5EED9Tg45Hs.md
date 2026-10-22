@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Let Passion Guide you in your Career #internationalcareer #passion #inspiration #nonnative
-
-## Transcript
-
 speaker_1: uh suppose when you think about uh Stefano 20 years ago and Stefano today So what would be like the biggest the biggest change in your life
 
 speaker_2: Well the biggest thing for me is now that uh I really really value what I do and I Im really proud of what I do While before you know I I was doing a job and it was fine but it didnt really make me proud and it didnt like you know there was no like the the passion was different you know Im Im very I feel like Im very lucky because Im working in a field that I really care about and Im really passionate about And you know its an NGO were a very small team Its its crazy busy all the time but it doesnt feel like work at times It feel like Im Im doing what Im meant to be doing and feeling like Im happy with what Im doing

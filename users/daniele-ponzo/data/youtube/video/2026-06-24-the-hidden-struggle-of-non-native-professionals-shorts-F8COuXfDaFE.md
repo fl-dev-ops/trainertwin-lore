@@ -29,11 +29,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Hidden Struggle of Non-Native Professionals #shorts
-
-## Transcript
-
 speaker_1: I work with non native English speaking professionals helping them improve their language skills but in order to to do a job usually in order to improve their career whether communicate with people whether thats clients or you know colleagues or whoever it is But Ive realized that its more than just the language them itself Its not just about getting everything perfect using the perfect word getting the grammar exactly right I know were going to get into that in a moment but
 
 speaker_2: Yeah yeah you are really bringing a lot of the monsters here to the table the perfectionism the fear

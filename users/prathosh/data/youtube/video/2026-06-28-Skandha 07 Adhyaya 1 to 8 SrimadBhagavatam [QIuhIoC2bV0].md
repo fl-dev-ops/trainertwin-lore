@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 07 Adhyaya 1 to 8 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: राजोवाच
 समः प्रियः सुहृद्ब्रह्मन् भूतानां भगवान् स्वयम्
 इन्द्रस्यार्थे कथं दैत्यानवधीद्विषमो यथा

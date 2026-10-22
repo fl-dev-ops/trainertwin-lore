@@ -27,16 +27,3 @@ In this interview, I also share the right steps to take. It's not fun, or easy, 
 
 In Swedish: jag hade en toppenmorgon med Martin och Soraya på TV4 Nyhetsmorgon där vi pratade om konsten att leverera dåliga nyheter. 
 Se mer i klippet 😃
-
-### Shared Article: [Fem tips: Så levererar du dåliga besked på bästa sätt](https://www.tv4play.se/program/nyhetsmorgon/fem-tips-s%C3%A5-levererar-du-d%C3%A5liga-besked-p%C3%A5-b%C3%A4sta-s%C3%A4tt/20572775?offset=7)
-> tv4play.se
-
-
-## Comments (2)
-
-### Charlotte Signahl (Föreläsare motivation stresshantering bemötande härskartekniker)
-> 🌟
-
-### Nicki von Platen (Erfaren, engagerad och kvalitetsmedveten projektledare. Med fokus på service, bemötande, miljö och logistik. #detpersonligabemötandet #miljöerutöverdetvanliga #detaljermanminns #GlobalBusinessOwners)
-> Värdefullt inslag under morgondagens program. Tack Antoni
-

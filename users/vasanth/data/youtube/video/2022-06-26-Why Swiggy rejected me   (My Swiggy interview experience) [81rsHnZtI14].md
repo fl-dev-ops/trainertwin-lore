@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Swiggy rejected me ? (My Swiggy interview experience)
-
-
-## Transcript
-
 speaker_1: asked very common javascript questions like closure nesting function nesting function currying and some snippet driven questions also overall this round went very well in fact this round only went very well compared to the other rounds
 
 speaker_2: Pause

@@ -18,13 +18,3 @@ Expand the WE because the bigger WE then smaller Them, which leads to better coo
 How is it like where you work? Can you hear it in your communication? If you hear a lot of Us vs Them, then you know that there is no harmony in your workplace. 
 
 #leadership #communication #engagement
-
-### Shared Article: [Employee engagement. Us vs them - Antoni Lacinai, keynote speaker](https://youtu.be/64yw6H2JGJU)
-> youtu.be
-
-
-## Comments (1)
-
-### Manika Daruka (Senior Consultant at EY | Business Consultant)
-> It definitely was!
-

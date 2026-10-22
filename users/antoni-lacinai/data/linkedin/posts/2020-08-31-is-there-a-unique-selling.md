@@ -31,9 +31,3 @@ Do you agree? What else should be in place?
 // Antoni Lacinai
 
 #communication #customerexperience #sales
-
-## Comments (1)
-
-### Ludovic Björk (Business Development & Commercial Growth | Service & Culture | Turning Behaviour into Business Impact)
-> Det är djupt tragiskt att det ska behöva vara så. Samtidigt så enkelt för de som gör som man borde 😊. Jag skulle vilja lägga till: om du inte kan/hinner göra det du säger att du ska göra, meddela då ditt prospekt/din kund innan den överenskomna tidpunkten. Förklara varför och ge en ny tidpunkt. Skapa förståelse. Ha kunden/prospektet med på tåget - alltid. #kommuniceramera
-

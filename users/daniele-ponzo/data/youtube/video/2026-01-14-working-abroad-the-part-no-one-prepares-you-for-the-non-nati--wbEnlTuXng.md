@@ -37,11 +37,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Working Abroad: The Part No One Prepares You For | The Non Native Leader | Episode 33
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to a new episode of the non native leader a video podcast series where we explore stories and lives and adventures of people who use English as their language but they were not born in an English speaking country So if you followed the series I so we spoke to people in Fintech uh the art politics IT different backgrounds and different stories People who have one thing in common as I said they were not born in an English speaking country Um Im really excited today to have here with me Meli Lerman Uh hes uh well as usual Im not going to spoil it Hes going to tell us Hi Meli youre very welcome here
 
 speaker_2: Hi hi Daniele Well how are you

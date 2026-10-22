@@ -18,19 +18,3 @@ Ja nu har jag varit med i radio igen, och denna gång i P1. Det var kul. Ett sam
 46min och 30s in i programmet. https://lnkd.in/dkbPyyDh
 
 Enjoy ^_^
-
-### Shared Article: [Starka nypor längre liv - Kropp & Själ](https://www.sverigesradio.se/avsnitt/starka-nypor-langre-liv)
-> sverigesradio.se
-
-
-## Comments (3)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Det ska jag lyssna på. Var på en hälsoundersökning i somras då de pratade om samma sak. Skaffat handtag som man trycker ihop:)
-
-### Åsa Pihlsgård (Diploma)
-> Kul! Det måste jag lyssna på👍
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Roligt! Ska lyssna!
-

@@ -29,11 +29,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Most Team Meetings Fail in English #shorts
-
-## Transcript
-
 speaker_1: Yep People wanted to leave people wanted to stay You know But then I said okay I need to be there 30 minutes with each one of them and I need to understand what is going on in their mind And so thats the first step I think There is no
 
 speaker_2: So its not open its not an open door policy but you sit down actively next to the people and and be with them actually

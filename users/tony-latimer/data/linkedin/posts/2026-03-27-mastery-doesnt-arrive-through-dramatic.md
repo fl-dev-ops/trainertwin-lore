@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_mastery-doesnt-arrive-through-dr
 likes: 13
 comments: 1
 images_count: 1
+author_comments:
+- Profitableleadership.com/simplicityofmastery
 ---
 
 Mastery doesn’t arrive through dramatic breakthroughs.
@@ -14,9 +16,3 @@ It emerges quietly, through small adjustments repeated over time. Listening a li
 This membership is built to support that kind of development.
 
 Join the membership.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Profitableleadership.com/simplicityofmastery
-

@@ -22,9 +22,3 @@ Together they generate impact.
 
 I help leaders go from confusion to clarity, so teams know what to do and why it matters.
 Want that? Let’s talk.
-
-## Comments (1)
-
-### Priyanka Dengre (Capital Introductions for Global Family Offices, Asset Managers & M&A Advisors | UHNW Entrepreneurs & Investors | Partner to Coaches & Speakers | International Marketing Consultant | Founder, PrajayLeads | 15+ Yrs | IIM)
-> So relatable — confusion after a meeting is more common than we’d like to admit. Clear communication isn’t just a “soft skill,” it’s a performance multiplier. When leaders bring clarity to the what, why, and next steps, alignment follows — and so does impact. Powerful message.
-

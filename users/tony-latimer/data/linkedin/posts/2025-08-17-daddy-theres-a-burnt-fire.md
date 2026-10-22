@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_daddy-theres-a-burnt-fire-downti
 likes: 15
 comments: 3
 images_count: 1
+author_comments:
+- My favourite picture of me and grandson
 ---
 
 "Daddy, there's a burnt fire"
@@ -57,12 +59,3 @@ In a world that's too quick to declare things dead
 They see life in the ashes instead."
 
 Happy Sunday
-
-## Comments (2)
-
-### Maysa Boubess (Educational Consultant, Mentor, and Coach. 41 yrs in education| Beirut & the Gulf)
-> Happy Sunday to you too! What an impactful post ! “ Here’s to the children who see burnt fires , in a world that’s  too quick to declare things dead , they see life in the ashes instead”. So much to learn from children ! Thank you Tony
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> My favourite picture of me and grandson
-

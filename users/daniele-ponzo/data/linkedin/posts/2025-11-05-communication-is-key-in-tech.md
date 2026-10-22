@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/adrianstanek_communication-is-key-in-tech-te
 likes: 19
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E24AQGkR8I1-YmNmg/live-mp4-inhouse-analysis/B4EZpUi0d.GoBA-/0/1762360033352?e=1793178000&v=beta&t=vkl8T-BevSlu-pixqDRELJVDRtX_BoLHTkZVPs_DWp8
+author_comments:
+- Christian Ferranti The same thing we do in Brag books for self-reflection
+- We will be there in 2 mins. Daniele will join as in 30 mins.
+- Daniele Ponzo joins us 16:30 CET as a guest on this communication topic. We will talk a little about his approaches, described in his Book "Easy English for IT". See you later today! 💪
 ---
 
 Communication is key in tech teams!
@@ -28,24 +32,3 @@ LinkedIn Live & YouTube
 Denis Čahuk & Adrian Stanek 
 
 Our Tech Journey Stream; every Wednesday 16:00 CET
-
-## Comments (6)
-
-### Christian Ferranti (Cloud Solution Architect | Pragmatic problem solver | Obsessed innovation hunter | Occam’s razor practitioner)
-> Adrian Stanek I'll take a look!
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor) (Author)
-> Christian Ferranti The same thing we do in Brag books for self-reflection
-
-### Christian Ferranti (Cloud Solution Architect | Pragmatic problem solver | Obsessed innovation hunter | Occam’s razor practitioner)
-> Kudos is the best phase ever in a framework...
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor) (Author)
-> We will be there in 2 mins. Daniele will join as in 30 mins.
-
-### Sinthujah Wimalathas (Founder, SANARAS Coaching | Performance Coach & Psychologist | Ex-Goldman Sachs | MSc, Psychology & Neuroscience | Helping High Performers Through Change with Clarity, Direction & Sustainable Success)
-> All the best with the event Daniele Ponzo
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor) (Author)
-> Daniele Ponzo joins us 16:30 CET as a guest on this communication topic. We will talk a little about his approaches, described in his Book "Easy English for IT". See you later today! 💪
-

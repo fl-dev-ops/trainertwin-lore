@@ -4,6 +4,16 @@ date: '2025-04-10T15:26:01.865Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_youre-in-a-meeting-its-international-ugcPost-7315975962096033793-hoUB
 likes: 21
 comments: 8
+author_comments:
+- |-
+  📌 Understanding the real cause is key because each one needs a different solution.
+  If you’re stuck because of perfectionism, no amount of grammar exercises will help.
+  But if it’s lack of structure, then mindset work alone won’t solve it.
+  For example:
+  A client of mine had great grammar, strong vocabulary—but every time she had to speak in a meeting, she froze.
+  She thought she needed more English practice…
+  But the real issue was performance anxiety.
+  Once we focused on that, everything started to change.
 ---
 
 You’re in a meeting. It’s international. The topic? One you know well.
@@ -39,30 +49,3 @@ In your experience, what’s the 𝘳𝘦𝘢𝘭 cause behind this block?
 📊 Vote below 👇(remember your vote is anonymous – only I can see it)
 
  P.S. add a comment if your answer isn’t listed. I’d love to hear your story
-
-## Comments (3)
-
-### Cindy Jansen, MA CCC-SLP (Founder | SpeakEasy! PRO | Speech-Language Pathologist | Global-English pronunciation training in +49 AI-enabled native-language-specific predicted learner challenges in microcourses | Private trainer | Sam.gov Awarded)
-> Absolutely agree, the cause in the individual learner leads to the solution.
-> 
-> In my experience non-native speakers naturally carry over intonation patterns from their first language. 
-> 
-> As an example languages like Mandarin/Cantonese, Spanish and Hindi, raise their pitch at the end, it can signal emphasis or politeness. 
-> 
-> "Contributing an insight" in L2 English with a rising tone does not match the intent. English intonation signals confidence and finality with a falling intonation at the end of the statement. Without this, a listener may hear the message as tentative or incomplete ... or  👉 “… 𝘢𝘯𝘥 𝘪𝘯 𝘵𝘩𝘦 𝘦𝘯𝘥, 𝘐 𝘫𝘶𝘴𝘵 𝘴𝘰𝘶𝘯𝘥 𝘶𝘯𝘴𝘶𝘳𝘦.” In a high-stakes communication - this can have a huge impact on how their ideas are received. 
-> 
-> Somethings to do ... contrasting pairs for ear training and specific to Chinese languages, use the 4th Tone to get a gliding fall at the end of their English.
-
-### Viktoryia Ruzhynskaya (Business Operations Manager | M&A Integration & Presales Strategy | Sales Ops & Account Management | Claude-Certified AI Practitioner)
-> Daniele Ponzo, when I joined international company, for me it first it was Perfectionalism. Now, don’t have such experience
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Understanding the real cause is key because each one needs a different solution.
-> If you’re stuck because of perfectionism, no amount of grammar exercises will help.
-> But if it’s lack of structure, then mindset work alone won’t solve it.
-> For example:
-> A client of mine had great grammar, strong vocabulary—but every time she had to speak in a meeting, she froze.
-> She thought she needed more English practice…
-> But the real issue was performance anxiety.
-> Once we focused on that, everything started to change.
-

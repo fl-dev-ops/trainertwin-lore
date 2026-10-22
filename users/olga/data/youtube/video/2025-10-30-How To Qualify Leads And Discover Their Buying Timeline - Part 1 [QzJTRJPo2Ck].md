@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How To Qualify Leads And Discover Their Buying Timeline - Part 1
-
-## Transcript
-
 speaker_1: So lets today run through the decision making process Yeah so lets imagine um Savio youre going to be the one who is um an agent I feel youre going to be the client And let me give you a bit of a role because there is a certain stage of qualification you already Lets say explain that your budget is whatever around 2 million You are invested from UK You never invested before outside of UK And thats the whole information that we have So in the decision making process we need to Establish
 
 speaker_2: How are we going to do that

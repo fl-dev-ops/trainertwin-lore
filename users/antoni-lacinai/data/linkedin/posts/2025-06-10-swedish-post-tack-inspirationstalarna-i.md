@@ -12,9 +12,3 @@ Swedish post. Tack Inspirationstalarna i Sverige . Ser fram emot resan och det f
 ^_^
 
 https://lnkd.in/eHWeHwp7
-
-## Comments (1)
-
-### Inspirationstalarna i Sverige (139 followers)
-> Tack Antoni för ditt inlägg, det är jättekul att samarbeta med dig, din leverans ute hos kunderna är alltid grymt bra!
-

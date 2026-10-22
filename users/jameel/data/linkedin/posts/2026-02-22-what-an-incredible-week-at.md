@@ -18,6 +18,3 @@ A huge congratulations to my amazing clients — your hard work and persistence 
 Preparing for your next supply chain interview or seeking career guidance? Let's chat! Book a session with me today: scmcoach.com
 
 #scmcoach #jameelhye #supplychainjobs
-
-### Shared Document: [3 JOB OFFERS!]()
-

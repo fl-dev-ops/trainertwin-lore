@@ -15,18 +15,3 @@ I got in touch with Joe from Neon Jazz and his upbeat, energetic podcast. We agr
 
 Stay great!
 //Antoni right now on a ferry to the island of Gotland where I will do my last gigs before the summer holidays puts me in a reactive mode.
-
-### Shared Article: [Workplace Communication Expert Antoni Lacinai](https://buff.ly/44jxoq1)
-
-
-## Comments (3)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Fina bilder på dig. Jag gillar den i T-shirten bäst. 100% Antoni!🌟
-
-### Ari Gunzburg (Unlock Your Greatness (watch my video). Keynote Speaker on Greatness, Employee Engagement & Human Potential | Great People Build Great Teams, and Great Teams Build Great Organizations. | The 5 Keys To Greatness)
-> Antoni Lacinai just remember you’re a legend!!
-
-### Alicia Espinosa (★ Leadership from Within ★ From Knowing to Doing | Self-Leadership • Self-Leadership • Safety Culture • Leadership Coach • Speaker ★ Public Speaker (Spanish, Swedish, English) ★ TEDx Speaker)
-> 👏👏👏
-

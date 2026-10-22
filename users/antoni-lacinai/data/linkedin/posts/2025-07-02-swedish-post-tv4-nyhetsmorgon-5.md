@@ -25,7 +25,3 @@ Vilka andra tips har du?
 Vilket av mina fem tycker du bäst om?
 
 https://lnkd.in/dhERBqNd
-
-### Shared Article: [Expertens tips: Så varvar du ner inför semestern](https://www.tv4play.se/korthet/a5dd57165c529533e1c0/expertens-tips-sa-varvar-du-ner-infor-semestern?panelId=)
-> tv4play.se
-

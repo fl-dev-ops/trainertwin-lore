@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 20 Latent Variable Models
-
-## Transcript
-
 speaker_1: Welcome everyone Let us continue on our
 discussion
 about the mixture densities Uh the last

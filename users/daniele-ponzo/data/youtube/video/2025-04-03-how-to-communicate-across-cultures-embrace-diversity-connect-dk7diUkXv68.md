@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Communicate Across Cultures | Embrace Diversity & Connect
-
-## Transcript
-
 speaker_1: Yeah Its Its all about mindset
 
 speaker_2: Yeah Its the way you frame the communicate the act of communication If you try to communicate putting the burden on you and the and the fear of oh my God I may make a mistake Well native speakers make mistakes

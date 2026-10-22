@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_learning-goodhabits-inspiratio
 likes: 13
 comments: 3
 images_count: 1
+author_comments:
+- |-
+  Curious about the School Teachers and the Sumo wrestlers? It has to do with incentives, cheating and an algorithm... check the details here ;)
+  https://www.iluli.eu/newblogs/it%E2%80%99s-the-%E2%80%98freakonomy%E2%80%99%2C-stupid
 ---
 
 I always try to stick to my good habits🤓
@@ -33,13 +37,3 @@ If that’s something you’re interested in, remember to hit the bell on my pro
 Follow|Daniele
 
 #learning #goodhabits #inspiration
-
-## Comments (2)
-
-### Al Kelly (AI Enablement Architect | AI & Data Transformation Strategist | Advisor on Enterprise-Scale Change)
-> Great book !!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Curious about the School Teachers and the Sumo wrestlers? It has to do with incentives, cheating and an algorithm... check the details here ;)
-> https://www.iluli.eu/newblogs/it%E2%80%99s-the-%E2%80%98freakonomy%E2%80%99%2C-stupid
-

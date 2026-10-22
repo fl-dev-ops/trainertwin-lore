@@ -16,11 +16,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How to Speak Write and Talk With The Clients in a Way That Will Make Them Understand You - Part 2
-
-## Transcript
-
 speaker_1: Okay so thats the last one and then were gonna essentially Im gonna give you an opportunity to work Were gonna share the document uh were gonna allocate the um different uh phrases to all the participants so you can work individually on that and then come back and were going to discuss whats been written Connect with opposite negotiation party and build relationship with them It could be even build the rapport right A good old rapport Connect with opposite negotiation party and build a relationship with them Is it important Yeah well you look at this Yeah of course its important because we all know that building relationship leads to resolving a conflict Without relationship were not going to be able to resolve it But the same as Im always against of generic build the trust with the client but the same thing connect with the opposite negotiation party What do you mean connect What does that mean connect And what does it mean to build relationship with them So I rated this as medium because its still strength What do you think is the strength of this
 
 speaker_2: So everybody I think connect is a good thing and everybody wants to like build relationship

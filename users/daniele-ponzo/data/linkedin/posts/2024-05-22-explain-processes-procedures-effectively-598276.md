@@ -37,6 +37,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #communication #englishlanguage #processcontrol #procedures
-
-### Shared Document: [How to Explain Process & Procedures]()
-

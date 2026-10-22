@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_dont-work-with-me-you-have-ai-
 likes: 66
 comments: 22
 images_count: 1
+author_comments:
+- '📌 Want to get some practical strategies on communication in a global setting? Get my FREE eBook here: https://solutionspeak-coaching.kit.com/c268ccf37f'
 ---
 
 Don’t work with me!
@@ -64,40 +66,3 @@ If this is your thing, and you think English is holding you back, then let’s c
 I’d be happy to share some ideas.
 
 And team up with you to get you closer to your objectives 🤝 .
-
-## Comments (11)
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> You can't beat a personal touch and lived experience Daniele Ponzo!
-
-### Silvia Fazi (CFO | Board Director | Energy & Renewables | Strategy, Transformation & Inclusive Leadership Executive)
-> Daniele Ponzo thanks for helping me with my broken english.
-> Impressive improvement💪
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Working with humans is a lot more exciting than working with robots Daniele...always will be!!
-
-### Xhoni Mimillari (The Last LinkedIn Expert You’ll Ever Need / and the guy you hire to win $10K-$50K clients - Founder & Investor.)
-> You’re really onto something here Daniele, bravo!
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Communication is key, and your personal experience adds so much credibility.  Daniele Ponzo
-
-### Ghulam Ali (Software Engineer | Data Scientist | WordPress Developer)
-> Your transparency and honesty about the journey to effective communication is refreshing, Daniele. It's inspiring to see how you empower others to improve their professional skills with real-world strategies. Your experience truly transforms lives!
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> AI and apps help, but real-world experience and guidance make the real difference. Communication is key! 🔥
-
-### Harit Bhasin (Leadership & Career Coach • AI Head Product Management • Helping tech leaders get promoted with influence & presence • Follow for leadership & career growth tips. Views are personal.)
-> Totally agree! Navigating international work culture can be challenging, and having someone with firsthand experience is invaluable.
-
-### Arslan Iqbal (Personal Brand Strategist | Helping Founders, CEOs & Executives Build Authority on LinkedIn & X | 250+ Personal Brands Helped)
-> The butterfly analogy is perfect, Daniele.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> A good coach can make things wrong right
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Want to get some practical strategies on communication in a global setting? Get my FREE eBook here: https://solutionspeak-coaching.kit.com/c268ccf37f
-

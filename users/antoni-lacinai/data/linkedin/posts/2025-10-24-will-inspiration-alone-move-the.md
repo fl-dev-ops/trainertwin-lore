@@ -17,21 +17,3 @@ On my bio page, you can book a meeting with me
 Or you can email me at 𝗮𝗻𝘁𝗼𝗻𝗶@𝗹𝗮𝗰𝗶𝗻𝗮𝗶.𝗰𝗼𝗺
 Or talk to your favorite speaker bureau
 Stay great!
-
-## Comments (5)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Kung på scen.
-
-### Laura Penn, Ph.D. (Speaking Arts & Leadership Communication Expert / International Keynote Speaker / Founder of The Leadership Speaking School🇨🇭 / Igniting Authentic Communication in the Digital Age)
-> WOW! Sparkling and totally thrilling show-reel.  Really well done Antoni 🤩 ✨
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Wow!🌟🙌🔆
-
-### Bob 'Idea Man' Hooey, Global Speaker, AS (People need help and hope! That is my business! Engage my Ideas At Work for you and your teams’ growth and success.)
-> You rock my friend, truly
-
-### Elin Giczi (Video Branding Strategist | Knitting enthusiast @knitwithelin 🧶 | Speaker & Educator)
-> Love this, Antoni Lacinai! You are brilliant 🌟
-

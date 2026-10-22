@@ -16,7 +16,3 @@ Hjälp oss med idéer på karaktärer och händelser till vår nästa bok om nya
 Välkomna till Mornington hotell i Stockholm!
 
 #grannjävlar #enbokblirtill
-
-### Shared Article: [Liveskrivande](https://www.facebook.com/events/1454233398308980/?acontext=%7B%22event_action_history%22%3A)
-> facebook.com
-

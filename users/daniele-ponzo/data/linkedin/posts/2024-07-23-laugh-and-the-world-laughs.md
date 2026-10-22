@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-confidence-internation
 likes: 13
 comments: 5
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQGtombR30WJQA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1721453117760?e=1793178000&v=beta&t=E0jGnocOBAqMifBQULkSiTGDqvwMLMrW_2LKEFrUwJE
+author_comments:
+- '📌 watch more here: https://youtu.be/GPfiYf2F8ZE?si=P2nEBqOpfs5qYXSJ'
 ---
 
 Laugh, and the world laughs with you; weep, and you weep alone...
@@ -33,15 +35,3 @@ If you did, remember to hit the double bell on my profile 🔔 🔔 so you’ll 
 Follow|Daniele
 
  #english #confidence #internationalspeaker #nonnativeleader #inspiration
-
-## Comments (3)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Love this Daniele. I always try to make people laugh 😆 but you’ve done a superb job here
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 watch more here: https://youtu.be/GPfiYf2F8ZE?si=P2nEBqOpfs5qYXSJ
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> Smile is magical. You can even HEAR it over a phone :D People sound different when they are smiling.
-

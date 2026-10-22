@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #javascript#interview currying and non currying in same function !! most common interview qustn pt-2
-
-
-## Transcript
-
 speaker_1: So thought process to be changed this way So where we have two arguments here and we have one argument in the first function call And we should have a two block inside the add function which where one block handles the closure kind of a function calls and another block handles the normal function call So now you got some some lights in your brain two things block handles the closure another block handles a normal function so there has to be check correct there should be a check to differentiate between the both so which is a check argument is a check So JavaScript has a property called arguments If I run this Add function So basically it should take an argument so let us simply write yeah

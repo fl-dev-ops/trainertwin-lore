@@ -14,7 +14,3 @@ article:
 “All of the coach’s attention is focused on what the client wants and needs, how the client sees the self and the situation, the client’s perceptions, emotions, non-verbal reactions, intentions and perspectives. Proficient, more than proficient and exemplary coaches are able to keep the client at the center of every response, question, offer and reaction.”
 
 — Becoming an ICF Credentialed Coach: The Journey to ACC, PCC and MCC –
-
-### Shared Article: [Becoming an ICF Credentialed Coach: The Journey to ACC, PCC and MCC – Practice Insights from ICF Assessors](https://a.co/1F9JjyW)
-> amazon.com
-

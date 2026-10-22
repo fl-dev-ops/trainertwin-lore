@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Learn How to solve Machine coding step by step | 2 year experienced @React mock interview 🚀selected✅
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Karebath Basans YouTube channel previously known as Uncommon Geeks My name is Basan I hope you all doing well As in this video series where we are doing a lot of mock interview with me I have Faizan today hes from Delhi So more about Faizan as you know hell only be telling you guys But how this interview is gonna be Im gonna explain Like most of the videos Im gonna start with a simple system design or like scenario given sort of a question followed by some basics of JavaScript and React Finally we end the video by a quick machine coding question Okay thats how the interview is gonna be
 
 

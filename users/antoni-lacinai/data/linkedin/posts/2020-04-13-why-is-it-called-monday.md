@@ -28,12 +28,3 @@ What would you call a meeting in your workplace if you could decide?
 Words matter. Choose them wisely
 
 #leadership #communication #meetings
-
-## Comments (2)
-
-### Eva Calissendorff (Organisationsutvecklare Piteå kommun)
-> ”If-the-shit-hits-the-fan meeting” 😂
-
-### Esmaeil N. (Manager at Modular Management | Program & Engagement Management · Modular Product Architecture (MFD®) & Product Configuration · PALMA · Information Management & Integrations)
-> Mission Meeting
-

@@ -27,6 +27,3 @@ Indian Institute of Science (IISc) Chair ECE EECS @ IISc, Bengaluru EECS @ IISc,
 #AIML #publication #IISc #phd #Bias
 
 Paper attached for interested readers.
-
-### Shared Document: [Shubham_TMLR]()
-

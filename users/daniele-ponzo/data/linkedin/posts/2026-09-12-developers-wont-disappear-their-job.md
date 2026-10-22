@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_developers-wont-disappear-thei
 likes: 33
 comments: 5
 images_count: 2
+author_comments:
+- 'Register here: https://romefutureweek.it/event/developers-in-the-age-of-ai-code-communication/'
 ---
 
 Developers won't disappear.
@@ -91,18 +93,3 @@ If you're curious about where software development is heading...
 and how communication fits into that future...
  
 we'd love to see you there.
-
-## Comments (4)
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> this is great  Daniele Ponzo all the best for this speaking opportunity
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> I agree with the framing. The valuable part is shifting from “who writes the code” to “who understands the problem, trade-offs, and outcome.”
-
-### Rome Future Week (10,071 followers)
-> Non vediamo l’ora! 🙌
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Register here: https://romefutureweek.it/event/developers-in-the-age-of-ai-code-communication/
-

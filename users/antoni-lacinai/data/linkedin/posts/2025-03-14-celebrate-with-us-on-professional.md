@@ -19,16 +19,3 @@ I am honored to be a part of this tribe with so many good people, and I have ser
 In Sweden, the biggest theme day of the year is the Cinnamon bun day (kanelbullens dag). Let's make this a close second. So celebrate with us 🥳
 
 #proudtospeak
-
-## Comments (3)
-
-### Ron Tsang (Helping professionals & organizations translate expertise into influence | Keynote Speaker | Corporate Trainer/Facilitator | Author, From Presentation to Standing Ovation: 15 Actionable Ideas to Achieve Massive Influence)
-> Let's celebrate today with a fika!
-
-### ABUNDANT HARISH MEHTA COACH (#resetyourmindset COACH. “SERVE” Hungry Leaders looking to BE-COME ABUNDANT” Past President at Professional Speakers Association India, Mumbai, International Keynote Speaker BUSINESS ,LEADERSHIP & EXECUTIVE COACH)
-> Great Ruby Newell-Legner 
-> ❤️🙏
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Grattis till oss Antoni!
-

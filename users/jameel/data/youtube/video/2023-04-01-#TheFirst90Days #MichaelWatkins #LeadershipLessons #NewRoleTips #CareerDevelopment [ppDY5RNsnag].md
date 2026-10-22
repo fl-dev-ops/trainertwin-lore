@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #TheFirst90Days #MichaelWatkins #LeadershipLessons #NewRoleTips #CareerDevelopment
-
-
-## Transcript
-
 speaker_1: If you recently started a new job or just got selected for one first of all congratulations As you start your journey in a new company or in a new job one of the books which can be super helpful for you is The First 90 Days by Michael Watkins So watch this video till the end because in the next five minutes or so I will be sharing with you five lessons Ive learned from this book which you can apply to your new job My name is Jamil Hai and Ive been working in the corporate sector for the last 19 years and my mission to help you build real life skills for your job and career that they dont teach you in college

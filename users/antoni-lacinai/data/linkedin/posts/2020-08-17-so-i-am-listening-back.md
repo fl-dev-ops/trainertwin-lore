@@ -18,16 +18,3 @@ Thank you for having me on your new show Aaminah.
 ^_^
 
 #communication #kindness #Kindnesskonnect
-
-### Shared Article: [Ep 7: Antoni Lacinai #How to be a communication wizard](https://bit.ly/2XTQN0P)
-> bit.ly
-
-
-## Comments (2)
-
-### Eva-Karin Kronblad (Engineering leader in complete vehicle validation, with a passion for systems, customers and high performing teams)
-> I brought it along for a walk when I had dropped off my daughter at the riding school. And I got a few really good nuggets from it! (and giggled when I realized your mistake! Good thing I am a visual listener, so I had no problems guessing!)
-
-### Sharfunnisa A. (BA (Hons) Psychology Student, Mental health advocate promoting kindness, 🐈 lover, enjoy conversing with people from different walks of life!)
-> It was my pleasure and honor to host you on my podcast! Thank you so much for all the amazing insights!
-

@@ -11,7 +11,3 @@ article:
 ---
 
 #careersuccesstips #selfleadership
-
-### Shared Article: [Make this year awesome for your career - part 4](https://www.linkedin.com/pulse/make-year-awesome-your-career-part-4-tony-latimer-mcc-fkq4c?trackingId=SQxZUIKaZu2NCd2DqCu%2BCQ%3D%3D)
-> Tony Latimer
-

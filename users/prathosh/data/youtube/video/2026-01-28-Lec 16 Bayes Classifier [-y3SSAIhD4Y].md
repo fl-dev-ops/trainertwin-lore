@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 16 Bayes Classifier
-
-## Transcript
-
 speaker_1: Welcome everyone What h
 minimizes the true risk
 for

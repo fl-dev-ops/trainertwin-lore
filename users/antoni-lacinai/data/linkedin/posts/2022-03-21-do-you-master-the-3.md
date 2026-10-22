@@ -23,9 +23,3 @@ EMPATHY so we feel that you understand us. We want to feel noticed and recognize
 CLARITY so that you remove as many misunderstandings as possible. If you explain things in a clear way, we will under- stand things easier and that will make us feel smart – and we follow anyone who makes us feel smart.
 
 Are people feeling understood by you? Do they feel smart around you? Are they inspired around you?
-
-## Comments (1)
-
-### Rashmi Raghav (Maxwell Leadership Certified Trainer | Emotional Intelligence Coach | DISC Flow Trainer | NLP Practitioner | Motivational Speaker | An Advocate of Human Connection)
-> Thanks for sharing. Love this.
-

@@ -23,15 +23,3 @@ Set goals. Get goals. Have fun.
 #keynotespeaker #communicationcoach #leadership #communication #engagement #goalsetting #motivation'
 
 In Swedish: Hej. Vill du ha min bok MÅL så bjuder jag på den som en julklapp. DMa mig.
-
-## Comments (3)
-
-### Magnus Forsbrand 🌏 (Board Professional & Growth Advisor)
-> You have a good point there with Realistic goals Antoni! Great model! Merry Christmas!
-
-### Amelie Lagerkvist (Partner för kommersiell förflyttning | Ledningsgrupper • Säljorganisationer • Förändringsledning)
-> Gillar HAPPY goals! ⭐️
-
-### Cristian Parlea (Kundnära och relationsdriven profil | Service, struktur & affärsvärde)
-> I love seeing you mention this about the "R". It used to bother me everytime I heard the goal should  be realistic but not mentioning that it should also be challenging. Imagine going to the gym and lifting the same weight every day! The only way to grow is to challenge yourself.
-

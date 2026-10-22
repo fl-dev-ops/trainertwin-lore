@@ -23,10 +23,3 @@ What is the consequence?
 Check out the video and let me know your thoughts
 
 Communication shapes behavior. Behavior drives results.
-
-## Comments (1)
-
-### Martin Sjöblom (Fractional CTO och teknikrådgivare för bolag utan egen CTO | Från teknikdimma till fungerande lösningar)
-> As a participant in a Dale Carnegie course, I don’t care about the ratio (ideally, it should be x to 0, but of course I’m fallible).”
-> #dalecarnegie
-

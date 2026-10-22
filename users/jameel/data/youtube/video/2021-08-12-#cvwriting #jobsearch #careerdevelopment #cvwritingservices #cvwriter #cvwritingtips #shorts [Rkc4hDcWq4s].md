@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #cvwriting #jobsearch #careerdevelopment #cvwritingservices #cvwriter #cvwritingtips #shorts
-
-## Transcript
-
 speaker_1: Dont mention personal details that are not relevant to your performance or career date of of birth religion marital status
 
 

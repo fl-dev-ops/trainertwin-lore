@@ -32,12 +32,3 @@ Looking forward to working together to help you reach your professional goals.
 Daniele
 
 #coaching #business #language
-
-## Comments (2)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Amazing feedback! Great that you prepare your clients for how they'll use English in the real world, and don't just rely on textbooks and grammar. Congrats to you and your client Daniele!
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Great job Daniele and client!!
-

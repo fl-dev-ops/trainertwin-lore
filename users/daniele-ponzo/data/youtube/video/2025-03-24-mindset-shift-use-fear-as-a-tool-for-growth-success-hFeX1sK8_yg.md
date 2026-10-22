@@ -17,9 +17,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Mindset Shift: Use Fear as a Tool for Growth & Success
-
-## Transcript
-
 speaker_1: So we want to become friend make friend with your fear I dont know how we can explain it but at the same time you know its fear is there So we might as well embrace it if you allow this buzzword And and then its just it shouldnt prevent us but it should help us to do things

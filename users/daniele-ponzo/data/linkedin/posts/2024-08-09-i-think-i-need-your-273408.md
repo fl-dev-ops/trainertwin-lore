@@ -36,21 +36,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #LanguageLearning #developers #softwaredevelopment
-
-## Comments (5)
-
-### Csaba Dudás (Scrum Master, .NET Developer, former Senior Logistics Manager)
-> The best method is which best fit to the project and to the organisation. This is the real art to find, choose and implement the best one.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Choosing the best software development method can indeed be a lively debate! Daniele Ponzo
-
-### Evridika Cuder (German Communication Coach for International Professionals | Helping professionals communicate confidently in German meetings & presentations | Cross-Border Communication)
-> Haha, great! Commenting in case any of the tech heads in my network wants to add their opinion 😄
-
-### Lorena Ignazzi (I bring numbers, people and decisions together when a company grows, but choices and organization struggle to keep up | Strategic Advisor for B2B SMEs | 4R Strategy Impact Method)
-> In my marketing, sales, innovation and sustainbility teams I use mostly ScrumBan. Focus on Flow and Sprints. Corrected by a little bit of Lean in startup contest Daniele Ponzo. But it depends on the teams and organization collaboration maturity level😉
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> Nice example, Daniele. Interesting what tech people will tell about this
-

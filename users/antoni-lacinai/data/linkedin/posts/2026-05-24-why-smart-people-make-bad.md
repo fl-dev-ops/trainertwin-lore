@@ -8,9 +8,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E10AQGhTbUalYcV5A/CeJxzMn
 ---
 
 Why smart people make bad decisions, based on how they talk...
-
-## Comments (1)
-
-### Fernando Polanco (Sustainability as a value engine for life‑changing therapies)
-> 100%
-

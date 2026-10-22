@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Top 10 JavaScript Coding Interview Question and Answers 🔥 MUST WATCH BEFORE ATTENDING NEXT INTERVIEW
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to career with Vasanth YouTube channel My name is Vasanth I hope you all doing well So this is a very important video where Im going to discuss top 10 snippet driven JavaScript interview question These questions are of medium to hard difficulty For freshers its again close to hard difficulty For experienced person it could be of medium to hard difficulty So the whole point of making this video is not that you guess an output which is right or wrong Its probably help you to understand the concept in in depth So most of the time whenever snippet driven questions are asked in the interview lets say the output could be a function that returns three and four
 
 

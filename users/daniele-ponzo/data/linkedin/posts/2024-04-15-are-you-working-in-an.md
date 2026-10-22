@@ -72,15 +72,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
 
 #itprofessionals #businessenglish #language
-
-## Comments (3)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Love that you always provide the correct context with the examples you share, Daniele Ponzo! Super useful!
-
-### Obada Qawwas (Alkawass) (Senior Software Engineer at Affirm. Front-end, web platforms and content systems. React, TypeScript, Contentful, CI/CD.)
-> Daniele, this is incredibly useful! Appreciate you breaking down the phrasal verb labyrinth into something more manageable for us non-native speakers. Definitely streamlines meetings and emails! 👍🔍🗣️
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> I never heard "do up" before. Thank you Daniele Ponzo!
-

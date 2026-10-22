@@ -74,21 +74,3 @@ When you speak in English…
 do you sound like your current role
 
 or your next one?
-
-## Comments (4)
-
-### Thomas Chen (​4 to 6-figure (USD) sales deals closed | Helping founders, sales professionals and their teams to get bigger clients through LinkedIn. | Trusted by clients worldwide (Testimonials in Featured/ Recommendations))
-> Love this, Daniele Ponzo! Your voice opens doors the moment your message sounds clear, calm, and ready for bigger rooms.
-
-### Gertraud Bacher (Managing Director at ASAP Italia | I help CEOs and Top Leaders transform people’s potential into concrete business results)
-> I fully agree with you Daniele: it’s not just what you say, it’s how you say it.
-> Too many filler words don’t strengthen a message — they dilute it. Clarity beats complexity. Every time. The most effective communication is simple, direct, and intentional. Straightforward, pragmatic, and focused on what really matters, because in the end, it’s not about saying more.It’s about making sure what you say actually lands.
-
-### Sabine Schumann (Helping Professionals and International Teams Communicate Clearly and Confidently in English | Business English & Intercultural Communication Trainer | Director of Studies | Published ELT Author)
-> I find the link between communication style and perceived confidence particularly relevant.
-> In my work with Business English learners, I often see that confidence is not primarily a language issue, but a question of clarity, structure, and cultural communication style.
-> Once people realise that “sounding confident” is less about perfect English and more about how ideas are framed, their communication often shifts quite quickly.
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> Good post! "Start sounding like someone who belongs in those conversations." That should be a post-it on the monitor for many :)
-

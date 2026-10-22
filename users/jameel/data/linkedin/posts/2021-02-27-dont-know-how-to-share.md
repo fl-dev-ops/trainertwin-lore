@@ -13,7 +13,3 @@ article:
 Don't know how to share bad news with your boss? In this video I will share with you a basic framework called SCR (Situation, Complication and Resolution) which will help you in sharing information with your leadership especially when the news is not so so good!
 #communicationskills #storytellingtips #situations #communications #resolutions #framework 
 https://lnkd.in/gpnJGhu
-
-### Shared Article: [How to share bad news with your boss!](https://www.youtube.com/watch?v=Abh0Y-2tkSo&t=10s)
-> youtube.com
-

@@ -17,11 +17,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Journey from Tech Professional to Mindset Coach | Giannis Chatzidis' Transition
-
-## Transcript
-
 speaker_1: uh but through team coaching I think the bonding that you finally achieve its huge
 
 speaker_2: Yeah So its not its not just a buzzword then when you talk about team bonding is it Is it something real

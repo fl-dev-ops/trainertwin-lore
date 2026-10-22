@@ -23,14 +23,3 @@ It's like thinking through a problem with an Al chatbot. It's always going to tr
 You need someone external; a thinking partner whose job is to challenge you to think deeper, not to make you feel better about what you've already decided.
  
 That's what a good executive coach does in those first six months. An honest thinking partnership that the role itself makes almost impossible to find inside the organisation.
-
-## Comments (2)
-
-### Cristiano Sechi (Senior Managers: build your Director-level business case in 90 days | Ex-PwC, Ex-EY, Ex-KPMG | Big 4 & Financial Services)
-> Leadership growth requires trusted spaces where people can question assumptions and explore new ideas openly.
-> 
->  Tony Latimer
-
-### Janet Cropper (Be Who You Want to Be | Leadership development and coaching helping Senior Leaders, Managers and Aspiring Leaders step off the hamster wheel | The Hamster Who Danced with the Giant book coming soon)
-> Very well said Tony. Totally agree.
-

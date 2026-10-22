@@ -5,8 +5,6 @@ date: "2026-01-01"
 source: website
 ---
 
-# How to prepare for next year - Part 3
-
 Accelerate your career development Put a C-suite executive coach in your inbox!
 
 Sign up for regular Insights & Tips on leadership and coaching

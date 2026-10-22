@@ -21,18 +21,3 @@ Third: Forget tight deadlines. It could take you 30 minutes or 90 minutes for th
 - do you add time for unforeseen events when you plan your projects?
 
 And as a bonus: sacrifice to the gods. That’s what the little basket with the flowers is for 😃
-
-## Comments (4)
-
-### Niclas Lindh (Regional Portfolio Manager IT at Epiroc IT)
-> Love this!
-
-### Åsa Lundquist Coey (Doctor in Management & Complexity Ph.D, Global key note speaker, Leadership consultant)
-> Gullig och bra metafor 👌
-
-### Cristian Parlea (Kundnära och relationsdriven profil | Service, struktur & affärsvärde)
-> An example of adaptability and collaboration, I suppose.
-
-### Anna-Karin Lingham (Interim Marketing Manager * Branding expert * Speaker * Mentor * Your guide to a stronger corporate, personal or ambassador brand.)
-> It’s amazing that it works so well … great tips!
-

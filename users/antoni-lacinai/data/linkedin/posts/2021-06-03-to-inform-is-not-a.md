@@ -29,21 +29,3 @@ Att informera är varken ett mål eller ett syfte. Det är en metod. Det är des
 Håller du med?
 
 #kommunikation #ledarskap #arbetsglädje
-
-## Comments (5)
-
-### Birgitta Sjöstrand (Conflict in hybrid teams costs hundreds of thousands. I teach managers to prevent it | Online programme (SE/EN) | Author, “Outstanding in the Middle”)
-> Jag undrar hur många rena informationsmöten det finns och hur mycket mer effektivt det skulle vara att göra som du föreslår. Om alla började räkna på alternativkostnaden så tror jag att de flesta skulle föredra att jobba efter din modell. Heja dig!
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Tänkvärt! Tack!
-
-### Mia Liljeberg (AI for speakers and experts | Grow your business with smarter workflows and your own voice | DM “BRAIN” for getting info about the next Brain building)
-> Att informera på ett möte, något som lika gärna hade kunnat läsas innan mötet är rent respektlöst mot medarbetarnas tid. Och tar bort tid från att faktiskt få veta vad medarbetarna tycker om infon. Vi sitter i mer möten än någonsin, längre möten och med fler deltagare än vad som behövs. Det är ett stort kulturskifte på gång, för medarbetarna, för energin, för hälsans skull.
-
-### dr. Fatimah D. (Founder & CEO at Nebryx | Physician | HealthTech| Serious games)
-> Som vanligt klockrent av Antoni Lacinai.
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> Informing is always easy than engaging and that's what people tend to do. While to have seamless communication, high productivity and to lead with effectively one needs to engage.
-

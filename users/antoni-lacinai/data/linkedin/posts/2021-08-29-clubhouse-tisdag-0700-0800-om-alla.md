@@ -17,7 +17,3 @@ Om alla former av ledarskap.
 Med mig och Alexander Holmberg 
 Välkommen du med
 ^_^
-
-### Shared Article: [Tisdagsklubben- om ledarskap - Tisdagsklubben](https://buff.ly/3sTLAER)
-> buff.ly
-

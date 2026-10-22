@@ -13,9 +13,3 @@ It invites reflection. It expects the coach to read like a coach, to pause and n
 
 The point is implementation, not inspiration.
 Available on Amazon & Kindle
-
-## Comments (1)
-
-### Andrew Swinley (Head of HR | Senior HR Director | 20+ Years in People & Culture)
-> Congrats on the launch!
-

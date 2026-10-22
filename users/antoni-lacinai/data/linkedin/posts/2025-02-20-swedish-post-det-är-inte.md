@@ -24,14 +24,3 @@ Det är så enkelt - men verkar vara så svårt.
 Har du hört talats om Coffee Badging?
 
 Tack till HRnytt som lyfter detta ^_^
-
-### Shared Article: [Coffee badging – När synlighet är viktigare än engagemang - Aktuellt - HRnytt](https://hrnytt.se/aktuellt/coffee-badging-nar-synlighet-ar-viktigare-an-engagemang/?utm_source=nyhetsbrev&utm_medium=email&utm_campaign=HRN0376J-Nyhetsbrev-18-februari&uid=MTA4MzEyOA%3D%3D)
-> hrnytt.se
-
-
-## Comments (1)
-
-### Thomas Otnes (Product developer and engineer)
-> Att mygla är en dårlig idé då den myglande individen tränar sig själv att inte vara den bästa den kan vara.
-> Men när chefer inte ger förtroende och uppskattning och stänger dörrar inom företaget för framgång, då finns det alltid en dörr de inte kan stänga.
-

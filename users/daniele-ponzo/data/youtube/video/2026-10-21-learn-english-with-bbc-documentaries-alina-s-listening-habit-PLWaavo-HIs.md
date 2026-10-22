@@ -33,9 +33,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Learn English with BBC Documentaries: Alina's Listening Habit
-
-## Transcript
-
 speaker_1: And another thing I found a lot of BBC documentaries I you know I love uh David Attenborough Uh from my point of view hes just amazing person amazing narrator And I uh I watched uh his documentaries every evening Instead of just some uh films I watched documentaries with him And his clear uh pronunciation and his clear language uh helped me a lot and I enjoyed a lot

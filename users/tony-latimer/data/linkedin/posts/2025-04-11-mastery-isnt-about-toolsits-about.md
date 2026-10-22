@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_coachingmastery-icfmcc-pcctomcc-
 likes: 7
 comments: 3
 images_count: 2
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 Mastery Isn’t About Tools—It’s About Truth
@@ -37,12 +39,3 @@ This is what gets you to MCC level—and it’s what we teach every week in Si
 I am the coach who trains coaches to Coach at the Speed of Thought.
 
 #CoachingMastery #ICFMCC #PCCtoMCC #AdvancedCoaching #CoachThePerson #DeepListening #SubconsciousCoaching #EnergyWork #ReflectiveCoaching #BreakthroughCoaching #SimplicityOfMastery #ProfessionalCoaching
-
-## Comments (2)
-
-### Lynn Scott -  Executive Coach MCC (I coach thoughtful senior leaders to lead with authority, presence and greater impact. | ICF MCC Executive Coach | Creator, The Quiet Power Method™ | Bestselling Author, Leader Unlocked)
-> You've hit the nail on the head there  beautifully!
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

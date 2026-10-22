@@ -21,7 +21,3 @@ I have a network of recruiters and hiring managers. I will share your profile wi
 In case if you have not followed me, you can do it here, I will help you to clear your Software developer interview : Vasanth Bhat
 
 #jobopportunities2023 #CareerSupport #layoff2023 #openfornewopportunities #jobhunting #layoff #openforopportunities
-
-### Shared Article: [Google Forms: Sign-in](https://forms.gle/nt5kvdLjsEsEfDSA7)
-> forms.gle
-

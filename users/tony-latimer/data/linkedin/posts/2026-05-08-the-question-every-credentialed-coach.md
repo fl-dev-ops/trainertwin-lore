@@ -28,7 +28,3 @@ I've spent years developing an assessment that does — six behavioural categori
 If you're a credentialed coach who takes development seriously, it's worth knowing where you actually are.
 
 Free Coaching Mastery Profile: https://lnkd.in/ggTYg4MK
-
-### Shared Article: [Get Your Coaching Mastery Profile](http://coachingmasteryprofile.scoreapp.com)
-> coachingmasteryprofile.scoreapp.com
-

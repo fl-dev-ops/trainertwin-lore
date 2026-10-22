@@ -62,9 +62,3 @@ If you feel you need support, send me a message.
 I’ll be happy to chat and give you some tips. 🤝 
 
 #careerdevelopment #english #coachingprogram
-
-## Comments (1)
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Great lesson, Daniele! If you've got it, flaunt it!
-

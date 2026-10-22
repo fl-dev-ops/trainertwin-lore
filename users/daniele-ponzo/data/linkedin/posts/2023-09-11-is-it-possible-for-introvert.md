@@ -67,12 +67,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️ Daniele
 
 #ITLeadership #EnglishFluency #CareerGrowth
-
-## Comments (2)
-
-### Simone Bertin (The Pale Blue Dot)
-> Not only for "IT" leaders...and not only for leaders 🍻
-
-### Sheraz Ahmed (Built & Scaled High-Impact Revenue Pipelines Across Competitive Markets | Driving Strategic Partnerships & Consistent Revenue Growth | Global Business Development Leader | Focused on Long-Term Client Value)
-> Overall, a well-rounded and encouraging message for introverted IT leaders seeking to enhance their presence and effectivenes
-

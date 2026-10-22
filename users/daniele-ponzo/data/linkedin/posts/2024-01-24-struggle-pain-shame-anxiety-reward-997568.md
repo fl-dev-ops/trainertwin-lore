@@ -68,20 +68,3 @@ You will also get free access to extra support between our sessions.
 This is the cheapest this coaching will ever be available for.
 
 #english #confidence #speaking
-
-## Comments (2)
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> That's a great perspective and a fantastic chance you're offering. 
-> If I was an IT guy I'd have hopped on a call immediately
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Agreed Daniele Ponzo 
-> 
-> 😇😇
-> 
-> ^ Keep showing up 🙌
-> > 
-> Stay motivated 
-> Cheers
-

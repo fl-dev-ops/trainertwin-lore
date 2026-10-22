@@ -34,16 +34,3 @@ Where you're strong. What's limiting your impact. What to work on next.
 The kind of perspective thats hard to reach through self-reflection alone.
 
 Take the Coaching Mastery Profile https://lnkd.in/ggTYg4MK
-
-### Shared Article: [How Close Is Your Coaching to Mastery? | Free 7-Minute Profile](https://coachingmasteryprofile.scoreapp.com)
-> coachingmasteryprofile.scoreapp.com
-
-
-## Comments (2)
-
-### Cath Daley ICF Master Certified Coach, MCS (Nurturing Experienced Coaches to gain their ICF Credential | ICF Accredited Coach Mentoring |Thinking Partner Coach for Senior Women Leaders |LegoSeriousPlay Facilitator| Award Winning Coach|Lifetime Contribution Award|)
-> Tony Latimer I agree with you. Many coaches don't appreciate the difference in the level of coaching skills between the different levels. I see this going from ACC to PCC too. They think it's just about the hours but if you aren't leaning about how to coach at that higher level then it doesn't just happen. I learned so much about myself both as a coach and personally during my mentoring for MCC. It takes time!
-
-### Christi Masso Byerly, MCC, MCS (Founder at Awaken Coach Institute / Author of Holy Rebellion / Soul Friend)
-> My sister, who was a violin teacher, used to say, "practice makes permanent." Practice doesn't necessarily make perfect, if your practice is amiss.
-

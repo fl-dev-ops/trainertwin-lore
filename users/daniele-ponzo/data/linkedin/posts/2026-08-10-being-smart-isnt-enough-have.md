@@ -21,9 +21,3 @@ Communication creates visibility—and visibility creates opportunities.
 English for Tech Professionals Communication That Gets You Promoted. Watch the full speech here: https://lnkd.in/dgfZGdh8
 
 #Leadership #CommunicationSkills #SoftwareEngineer #CareerGrowth
-
-## Comments (1)
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Strong ideas only create impact when they are communicated clearly. Technical expertise needs visibility to translate into influence and career growth.
-

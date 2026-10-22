@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_im-directly-involved-in-every-as
 likes: 5
 comments: 1
 images_count: 1
+author_comments:
+- simplicityofmastery.com
 ---
 
 I’m directly involved in every aspect of this programme.
@@ -14,9 +16,3 @@ That level of involvement is intentional, and it’s also why the programme runs
 Quality work needs space.
 
 Join the Level 3 interest list.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> simplicityofmastery.com
-

@@ -14,11 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Sales Communication Skills Part 1
-
-## Transcript
-
 speaker_1: Todays topic is communication skills We all write in our CVs that we all have communication skills right But what does actually the ability to communicate mean Is it like pass information from one to another Well the client told me this and I can lets say pass it to the developer or somehow say something magically thats going to convince client To do something What do you think communication is Its listening to well Okay why listening is important
 
 speaker_2: Listening so that you can read the room so to speak and respond correctly Listen to understand Listen yeah So that you can wait to make solution for whatever is the problem Instead of just listening continue to reply Mm hmm

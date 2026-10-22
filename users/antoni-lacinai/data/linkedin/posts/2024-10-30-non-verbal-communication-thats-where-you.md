@@ -28,21 +28,3 @@ You got this, or: I got you.
 
 PS - As you see this, I am in Finland, providing individual coaching for leaders who want to improve their communication skills. 
 If you want the same, DM me, If you have colleagues who needs it, feel free to do the matchmaking ^_^
-
-## Comments (4)
-
-### Per E Claesson (Senior consultant (Freelance))
-> Body luanguage tells everything, more than You are aware of …
-> - Mindset
-> - Pain
-> - Who You prefer to listen to, standing in a Circle of people - Your feet will point towards the person You have confidence in …
-
-### Shyan Rahman (Video Editor | Helping Coaches, Creators & business owners scale their Personal Brand with Strategic Video Content to get more Inbound Leads | Save Time & Grow Faster with a dedicated Video Editing partner)
-> Absolutely love this, Antoni! Your emphasis on non-verbal communication is spot on—energy and passion can truly transform how our messages are received. I’ve seen firsthand how meaningful gestures and vocal variety can make all the difference in connecting with others. It's refreshing to see someone who genuinely cares about helping others communicate more effectively. Your work in Finland sounds incredible! If only I could join those coaching sessions! 🙌 Keep inspiring leaders to elevate their communication skills!
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Hög klass!
-
-### Mattias Wihlgaard (Creative director på Viksjö Webbyrå)
-> You deliver Antoni! Energy and Passion should be a part of every brand identity paper 👏
-

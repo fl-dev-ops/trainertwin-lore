@@ -82,15 +82,3 @@ _____________________
  🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-## Comments (3)
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Love your question Daniele " What do I have to give?". Simon Sinek always talks about showing up to give...a mindset which helps us deliver presentations more effectively!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> It’s amazing how you turned a challenging situation into a success by leveraging empathy, experience, and humor.  Daniele Ponzo
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> EEH, Mr Insecurity Guru, please shut up in my head, I'm trying to work here!
-

@@ -21,7 +21,3 @@ As usual, there are accompanying tutorials by my student on implementation.
 This may be of interest to a few of you. 
 
 These lectures are followed by Diffusion models, AR-models and Transformers, RLHF methods and State-Space Models. Stay tuned and watch out this space (will be uploaded one series per week).
-
-### Shared Article: [W6L21: Training VAE: Reparameterization methods](https://youtu.be/blh_AnhwIpw?si=OdDpRZlMN633bstA)
-> youtube.com
-

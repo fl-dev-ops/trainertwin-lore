@@ -14,9 +14,3 @@ Think about networking: effective communication is essential for building relati
 
 Thanks Ricky Strode for sharing this!
 #success #communication #networking #itmanager #coaching
-
-## Comments (1)
-
-### Ricky Strode (L&D Strategist | Turning Behavioral Science into Operational Excellence | Veteran | MBA)
-> I'm glad you found it useful. Thanks for sharing.
-

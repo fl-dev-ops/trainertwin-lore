@@ -29,18 +29,3 @@ I am all for fewer, better words. I get itchy when meaningless transportation wo
 What are your thoughts on this? Is small talk over? 
 
 https://lnkd.in/e67x7CfK
-
-### Shared Article: [People are talking less, but no one's quite sure why](https://www.bbc.com/reel/video/p0p9z80d/watch)
-> bbc.com
-
-
-## Comments (2)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> That's interesting! Small talk is definitely not over, but it has been declining the last few years. But, I think is ripe for a comeback. When digital interaction is increasing, we might not recognize it first, but we miss the small human interactions; not only between colleagues but with the people we happen to sit beside on the bus, wait with at the crosswalk, queue behind et c. The last year or so, I have enjoyed writing such chance encounters done and published them on my Substack, such as this one: https://davidstiernholmen.substack.com/p/the-warmth-of-friends-after-and-before
-
-### Thomas Otnes (Product developer and engineer)
-> It seems the conversations have changed and we are now often bound to have less tough topics in our conversations and when at home we seem to be watching conversations more than having conversations.
-> And this change seems to have come about over the last 35 years, or in other words with the increase of broadcasting hours of TV.
-> Then with the webcasting streaming over the last 10-15 years and smart phones we have even less conversations .
-

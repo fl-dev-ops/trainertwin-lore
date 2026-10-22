@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #MBTI #PersonalityTypes #Psychology #MyersBriggs #MBTITypes #PersonalityTest #PersonalityTheory
-
-## Transcript
-
 speaker_1: TIP OF THE LLIEEK
 
 

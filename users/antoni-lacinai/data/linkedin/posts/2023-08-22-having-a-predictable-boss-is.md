@@ -27,21 +27,3 @@ NOTE: Predictability should not be confused with rigidity and an inability to be
 Be predictable. And good. Then you will retain good people and attract good people.
 
 Thanks for reading my mind
-
-## Comments (1)
-
-### Claes Cegrell (Head of IT Architecture & Roadmaps @Telia Sweden)
-> I share your background growing up with team sports and a common denominator of when I performed the best, was when I was feeling comfortable in my role in the team. 
->  What made me feel comfortable then?
->  - My (and others in the team) abilities were noticed and appreciated by my coaches but also between the team players. 
->  - Successes were celebrated. 
->  - Individual and team mistakes were accepted, it is part of the game. But big and repetitive mistakes were reflected upon and learned from.
->  - Coaches, as well other team players, provided honest and transparent guidance of how to evolve my individual skills and game.  
->  
->  It is so obvious that in our role as a leaders we need to lead by example. Get it working with your team(s) and my personal experience is that the reward is exponential. A team working in such a culture is much more committed, performs so much better, creates much more growth and innovation opportunities and is definitely having more fun. 
-> 
-> Your story of a Predictable Boss summaries it very well Antoni. Thanks a lot for sharing your mind on this topic and remind me of this essential leadership approach!
-> 
-> A Predictable Boss is good to have. 
-> A Predictable and Coaching Boss is even better 😊
-

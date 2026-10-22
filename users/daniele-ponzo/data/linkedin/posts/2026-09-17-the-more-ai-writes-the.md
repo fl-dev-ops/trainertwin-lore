@@ -52,29 +52,3 @@ Some conversations deserve to continue after the session.
 🎟️ Free event (registration here: https://lnkd.in/env-UQzs)
 
 If you're curious about where software development is heading, and what that means for your own career... we'd love to see you there.
-
-### Shared Document: [Developers in the Age of AI Code & Communication - Rome]()
-
-
-## Comments (6)
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> As AI handles more execution, clear thinking becomes harder to replace.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I agree. When everyone has access to the same AI tools, how we think and communicate becomes a bigger differentiator.
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> Communication isn’t becoming important because technical skills matter less. It matters because AI lets developers move faster, and moving quickly in the wrong direction can become expensive.
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Looks like an incredibly useful session Daniele
-
-### Rome Future Week (10,071 followers)
-> Can't wait Daniele  🙌 
-> Manca davvero pochissimo  🚀
-
-### Anas Riad (Founder, Riad Systems | AI Consultant & AI Engineer | Helping businesses reduce manual work with AI & automation | 4 yrs Data Science & ML | YouTube: Anas Riad)
-> Communication has always been a key differentiator.
-> I'm so glad I took English classes in 2021, then started to write in English and also making videos. Speaking English fluently and regularly has opened so many doors for me.
-

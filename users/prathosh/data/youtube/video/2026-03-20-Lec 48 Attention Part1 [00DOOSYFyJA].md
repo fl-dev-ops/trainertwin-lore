@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 48 Attention Part1
-
-## Transcript
-
 speaker_1: Welcome everyone
 In this lecture we will look at
 another architecture that is often used

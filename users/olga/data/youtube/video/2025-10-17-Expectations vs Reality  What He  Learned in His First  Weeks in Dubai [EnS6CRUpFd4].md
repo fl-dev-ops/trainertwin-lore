@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Expectations vs Reality: What He Learned in His First Weeks in Dubai
-
-## Transcript
-
 speaker_1: Is Dubai an easy place to make money if youre a new real estate agent from UK Were going to ask Harvey who actually landed 8th of September 2025 And which day is today
 
 speaker_2: Today is the 30th I believe

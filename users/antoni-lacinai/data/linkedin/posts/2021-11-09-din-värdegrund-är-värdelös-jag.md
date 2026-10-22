@@ -17,13 +17,3 @@ Jag älskar företag med starka och goda värderingar. Och - när dessa värderi
 Läs mina tankar om detta i en krönika jag skrev i HRnytt
 
 #ledarskap #kommunikation #värdegrund #engagemang #arbetsglädje
-
-### Shared Article: [Din värdegrund är värdelös - Ledarskap - HRnytt](https://buff.ly/2ZUTZ0A)
-> buff.ly
-
-
-## Comments (1)
-
-### Ritha Kihlström Danielsson (Inside sales manager på Ahlstrom-Munksjö)
-> ”En ledares uppgift är att upprepa” och är det något som ofta ”glöms bort” är det att aktivt implementera värdegrunden i allt man gör - det är ju därför man väljer att göra det man gör.😉
-

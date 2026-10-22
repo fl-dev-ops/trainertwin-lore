@@ -22,7 +22,3 @@ This is an exciting day. ^_^
 If you want your team of experts, managers, and executives to elevate their communication skills, get in touch with me and I'll share the goal and flow of such a program. 
 
 Or check out https://lnkd.in/dyBM4VwD
-
-### Shared Article: [Training programs](https://antonilacinai.com/training/)
-> antonilacinai.com
-

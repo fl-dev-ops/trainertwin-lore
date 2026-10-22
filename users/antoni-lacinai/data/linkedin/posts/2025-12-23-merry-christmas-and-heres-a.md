@@ -15,9 +15,3 @@ I'll take a few weeks off and recharge
 Looking forward to 2026
 Stay great y'all
 ^_^
-
-## Comments (1)
-
-### Dr. Wendy Lee, CSP, CBIP, CIC, ICDM (Certified BrandImage™ Consultant | Founder of BrandImage™ International Institute | President, VSAI | Certified Speaking Professional (CSP) | Executive Presence & Personal Branding Expert)
-> Merry Xmas Antoni Lacinai!!🎄🎄
-

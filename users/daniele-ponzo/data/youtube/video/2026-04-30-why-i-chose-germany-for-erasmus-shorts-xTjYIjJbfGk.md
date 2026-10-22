@@ -27,11 +27,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why I Chose Germany for Erasmus #shorts
-
-## Transcript
-
 speaker_1: And normally I was just like really concerned about my studies because uh at that time we had the Erasmus program for student mobility for higher education students So I just thought to myself okay and I need to choose wisely you know which country to go because we had the agreements learning agreements with um three other countries and one of them was Denmark and Poland and Germany I guess at the time So I chose Germany because guess what In Germany they have a lot of Turkish people
 
 speaker_2: So it seems the it seemed the obvious decision back then

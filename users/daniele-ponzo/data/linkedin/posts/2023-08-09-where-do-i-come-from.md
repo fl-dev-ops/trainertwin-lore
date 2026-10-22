@@ -45,9 +45,3 @@ Send me a private message📨 if you are interested in learning more about how I
 P.S. yes, now it's a good moment if you want to be ready in the autumn 😏
 
 #Itprofessionals #careersuccess #coaching
-
-## Comments (1)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> You're doing brilliant work, Daniele! 👏
-

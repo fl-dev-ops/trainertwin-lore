@@ -28,15 +28,3 @@ Li: "That's on a need-to-know basis, and..."
 Me: "I don't need to know...got it. So why am I paying you a thousand bucks every year and get such a shitty service?"
 Li: "That's on a need-to-know basis and..."
 Me: "Thank you for enlightening me."
-
-## Comments (2)
-
-### Mats Guldbrand (Executive AI Communication | AI Strategist | Change Management and AI Adoption | AI storyteller for boards, leaders and seven-year-olds | 1,000+ executive briefings, 10 heads of state)
-> And for us not paying, it’s like having a fresh account on ICQ …
-
-### Denyse Drummond-Dunn (Ex-Nestlé Global Head | 130 Countries | Keynote Speaker on AI & Customer Centric Growth for CPG Leaders | Reigniting Career Momentum for Mid-Career Managers)
-> My sentimental exactly Antoni.
-> I have been considering leaving for a while now. 
-> I used to get hundreds of views of my posts, now a few tens. 
-> Anyone else?
-

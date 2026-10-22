@@ -20,7 +20,3 @@ Google understand that they can help their employees perform better and thrive, 
 That's how you elevate the employee engagement in these times!
 
 #virtualleadership #employeeengagment #homeworking
-
-### Shared Article: [Google will give every employee $1,000 to WFH. Its head of wellness explains why](https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/04/success/google-wellness/index.html)
-> cnn.com  
-

@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_fortunecookiephylosophy-weeken
 likes: 0
 comments: 1
 images_count: 1
+author_comments:
+- How is your weekend going? Mine pretty well, I would say :)
 ---
 
 What if we embrace the fortune cookie philosophy?
@@ -30,9 +32,3 @@ Have a great weekend, everybody!
  
 
 #weekendmood #motivation
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> How is your weekend going? Mine pretty well, I would say :)
-

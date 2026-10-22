@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_people-who-feel-appreciated-at-work-
 likes: 44
 comments: 6
 images_count: 1
+author_comments:
+- CARE. Connect. Attract. Recognize. Energize.
 ---
 
 People who feel appreciated at work love their job. People who don't, don't.
@@ -26,20 +28,3 @@ So what can you do? Here are three practical tips
 3. 𝗖𝗔𝗥𝗘. In every interaction, show that you care. For them, for the mission, for the planet. 
 
 What else can you do? Share your best practices. ^_^
-
-## Comments (4)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Så viktig påminnelse och så bra råd. Människor är människor, människor är inte maskiner. 
-> 
-> Att skapa trivsel och visa uppskattning är en löneförmån för den som får den.
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> CARE. Connect. Attract. Recognize. Energize.
-
-### Christina Hänström (Psykolog & Mentor – för kvinnor i expansion)
-> Best practice: Start with self-compassion. And let it spread around you. 💫🙏
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> 🙏🏻✨
-

@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Antoni Lacinai speaker reel Sverige
-
-## Transcript
-
 speaker_1: Tänk dig att du ska ha en kickoff nu eller en konferens och du vill få upp den här härliga energin och du vill också få nya tankar som kan göra att vi kan samarbeta bättre jobba ihop bättre trivas ihop bättre Ja om du har den känslan då ska du lyssna på min föreläsning
 
 

@@ -11,10 +11,3 @@ Here are insights from 16 international experts in leadership, AI, and marketing
 
 Happy holidays
 ^_^
-
-## Comments (1)
-
-### Martin Sjöblom (Fractional CTO och teknikrådgivare för bolag utan egen CTO | Från teknikdimma till fungerande lösningar)
-> Tack Antoni!
-> Inte helt enkelt att gå från QR-kod på telefon till nedladdad bok, iallafall för mig :-)
-

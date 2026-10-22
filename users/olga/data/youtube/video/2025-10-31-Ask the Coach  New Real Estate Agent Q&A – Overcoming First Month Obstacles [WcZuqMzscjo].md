@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Ask the Coach: New Real Estate Agent Q&A – Overcoming First Month Obstacles
-
-## Transcript
-
 speaker_1: Oh you dont have a budget for that Mr Client
 
 speaker_2: Yeah

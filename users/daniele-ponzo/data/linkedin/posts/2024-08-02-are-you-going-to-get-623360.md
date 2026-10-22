@@ -41,17 +41,3 @@ Check my Youtube channel here: https://lnkd.in/dcFwZZBu
 It's summer, we all have more time...so no excuses!
 
 #NonNativeLeader #InternationalCareer #SuccessStories #inspiration
-
-## Comments (2)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Love this Daniele Ponzo
-> 
-> The power of language is indeed
->  crucial for working internationally. 
-> 
-> Thanks for exploring this topic!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Your podcast series, “The Non-Native Leader,” is a goldmine for career inspiration and growth.
-

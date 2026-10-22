@@ -49,11 +49,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Struggling to Speak English at Work? Try This 5-Day Challenge to Build Confidence Fast
-
-## Transcript
-
 speaker_1: Do you ever freeze in meetings or spend too much time searching for the right word or stay quiet because youre afraid your English isnt good enough
 
 

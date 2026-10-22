@@ -18,9 +18,3 @@ Veckans gäst: Stress-experten Jan Tern, CSP
 Ställ ett larm och få energi med oss. VÄLKOMMEN ^_^
 
 https://buff.ly/2OxbDBO
-
-## Comments (1)
-
-### Emilie Loman (Grundare av Wowservice | Hjälper företag skapa lojala kunder, ambassadörer & hållbara servicekulturer genom wowservice | Föreläsare, Utbildare, Författare av boken “Wowservice” & host för Wowpodden)
-> Spännande!
-

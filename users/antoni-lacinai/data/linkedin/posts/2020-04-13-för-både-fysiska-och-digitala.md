@@ -12,7 +12,3 @@ article:
 
 För både fysiska och digitala möten. 
 För dig som vill fortbilda dig fast du jobbar hemifrån.
-
-### Shared Article: [E-kursen Diplomerad Mötesledare | Motivation.se](https://bit.ly/2x3KPAE)
-> bit.ly
-

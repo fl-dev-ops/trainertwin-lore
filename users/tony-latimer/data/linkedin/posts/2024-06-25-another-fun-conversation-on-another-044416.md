@@ -5,16 +5,13 @@ url: https://www.linkedin.com/posts/tonylatimer_coachingskills-coaching-mastery-
 likes: 7
 comments: 1
 images_count: 1
+author_comments:
+- |-
+  Listen to The Coaching Podcast - Coach for Success in Sport and Business
+  Apple/iTunes: https://apple.co/3Co9ddg 
+  Spotify: https://open.spotify.com/show/1PEkQ4bJ9Fk0GNVCAo8LgT
+  Or watch it on YouTube: https://youtu.be/LBiEn1vbZjA
 ---
 
 Another fun conversation on another great coaching related podcast
 #coachingskills #coaching #mastery
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Listen to The Coaching Podcast - Coach for Success in Sport and Business
-> Apple/iTunes: https://apple.co/3Co9ddg 
-> Spotify: https://open.spotify.com/show/1PEkQ4bJ9Fk0GNVCAo8LgT
-> Or watch it on YouTube: https://youtu.be/LBiEn1vbZjA
-

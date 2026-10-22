@@ -25,7 +25,3 @@ Also, I’m working on my own projects and helping my mentees to build their own
 If you need my help in upskilling, project building and interview preparation, you can connect with me on Preplaced. 
 
 Connect with me for a free trial session: https://lnkd.in/g7EYRyW7
-
-### Shared Article: [Preplaced: India's Top Job Prep, Career Mentorship Platform](https://explore.preplaced.in/088TLB)
-> preplaced.in
-

@@ -14,9 +14,3 @@ This one is out in the boonies and built right by a spring where the crystal-cle
 And I have the honor of sharing insights and inspiration around effective communication to some 60 high-tech consultants 
 
 Thanks Selma Ohlsson at Athenas Talare Sverige speaker bureau for your awesome job.
-
-## Comments (1)
-
-### Elin Giczi (Video Branding Strategist | Knitting enthusiast @knitwithelin 🧶 | Speaker & Educator)
-> Such a cute venue, and that view outside - wow Antoni Lacinai!
-

@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# ReactJS & JS Mock Interview Pt - 2 |  🎉 Senior Developer 🎉 | 🔥  All questions rightly answered 🔥
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Uncommon Geeks Myself Fasant I hope you all are doing well In case if you are seeing me for the first time on the internet I am a content creator I help people to clear the interview Like I always have made a lot of beautiful series in the past which has been appreciated by many Ill try to add link to those series somewhere on the screen also in the description section Please go ahead and watch it Any sort of interview you are preparing this will be definitely helpful for you Okay now as you already know I have got close to 1 point 1k subscribers on YouTube As a part of the love and the blessing that you have given and I have accomplished it in a very short span
 
 

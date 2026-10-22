@@ -12,9 +12,4 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# Drive For Results #shorts #softskills #results #actionorientation #jobsearch#careerskills
-
-## Transcript
-
 speaker_1: SOFT SKILLS MODEL LEVEL2 DRIVE FOR RESULTS Motivated by success and passlonate about working and Subscrlbe to the Youtube Channel In the profile to learn more about thls skill

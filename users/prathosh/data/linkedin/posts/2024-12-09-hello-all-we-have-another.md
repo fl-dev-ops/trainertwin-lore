@@ -21,6 +21,3 @@ The paper preprint is attached.  Many congratulations to my PhD student Subhodip
 Chair ECE EECS @ IISc, Bengaluru Indian Institute of Science (IISc) #aiml #iisc #paperacceptance #phd
 
 PS - We had submitted 4 papers from our group out of which only 1 went through. So, research students - don't get disappointed with rejections. Keep submitting, keep improving.
-
-### Shared Document: [PBU_Panda_APP]()
-

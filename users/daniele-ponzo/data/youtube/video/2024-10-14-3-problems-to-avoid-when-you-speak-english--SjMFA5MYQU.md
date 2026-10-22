@@ -19,9 +19,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# 3 PROBLEMS to avoid when you speak ENGLISH
-
-## Transcript
-
 speaker_1: First one is pronunciation Its a bullet point Nothing to do with ballet or ballet or whatever So remember bullet points be like Red Bull bull bullet Okay

@@ -22,11 +22,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# My First Software Project Building a Bootable USB Tool #shorts
-
-## Transcript
-
 speaker_1: And um and on that I hosted this software I wrote that was the early days of Windows Vista And I wrote this uh this tool who took the Vista CD image the ISO file
 
 speaker_2: Okay

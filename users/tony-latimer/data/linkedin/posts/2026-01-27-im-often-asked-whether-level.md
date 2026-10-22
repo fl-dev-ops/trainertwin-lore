@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_im-often-asked-whether-level-3-i
 likes: 7
 comments: 1
 images_count: 1
+author_comments:
+- profitableleadership.com/level3
 ---
 
 I’m often asked whether Level 3 is about exam preparation and getting the "right recording".
@@ -14,9 +16,3 @@ It isn’t. It’s about developing a way of coaching that makes exam preparatio
 That’s the level of coherence this programme works towards.
 
 Expression of interest now open.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/level3
-

@@ -15,11 +15,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 9 memory hacks so that your audience remember
-
-## Transcript
-
 speaker_1: So I have Anthony here and you want to share your story
 
 speaker_2: I can share my story I dont need this one I have this its okay We can do with that But you can take your seat so I can take over Okay cool Thank you Excellent

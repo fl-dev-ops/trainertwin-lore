@@ -17,12 +17,3 @@ Myself? I am in category number 3 ^_^
 Who will you book? What's the strategy?
 
 (Some event organizers' business model is to find speakers who will speak for free or even pay to speak. These are seldom professional speakers; rather, they are category 1, 2, or 5, meaning they either have a monthly salary from an employer seeking exposure, or they are consultants seeking to sell high-priced services at the back end. That is fine as long as you know what you get - and don't get.)
-
-### Shared Document: [five speakers (1)]()
-
-
-## Comments (1)
-
-### Caroline Mohr Global Keynote Speaker on Mindset (Speaker ⭐️ Inspiring organisations to get resilient through change ⭐️ Cert. NLP Trainer ⭐️ Ambassador Star For Life & HSH Princess Charlene ⭐️ Former Golf Pro)
-> Love this post Antoni! Provides clarity for the one booking 👍🏼
-

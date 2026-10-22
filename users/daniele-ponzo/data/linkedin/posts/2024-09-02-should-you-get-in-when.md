@@ -52,21 +52,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-## Comments (3)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Love this approach! Daniele ))
-> 
-> Practice really does make a difference. 
-> 
-> Just keep doing iot again and again and you'll improve
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> The right strategy and mindset can help you tackle even the scariest challenges. Daniele Ponzo
-> 
-> Trust yourself and take that step forward.
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Gotta bet on yourself Daniele Ponzo
-

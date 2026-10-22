@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# If your fresher and feel nervous in the interview then must watch |fresher frontend mock #interview
-
-
-## Transcript
-
 speaker_1: Yeah hello all Welcome back to Uncommon Geeks Myself Asant as most of you know and today Im interviewing Nikita on the basic front end technologies So shes just a fresher She hasnt started her career yet So Ill be interviewing a lot of web related aspects from this particular interview First of all Nikita thank you so much for joining the interview
 
 speaker_2: Thank you so much

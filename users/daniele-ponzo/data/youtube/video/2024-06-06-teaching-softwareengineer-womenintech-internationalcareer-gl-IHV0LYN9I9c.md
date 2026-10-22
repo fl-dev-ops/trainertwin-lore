@@ -24,9 +24,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #teaching #softwareengineer #womenintech #internationalcareer #globalspeaker #nonnativeenglish
-
-## Transcript
-
 speaker_1: and right now Im working with uh with an assignment for uh Stockholm public transport company So its quite an interesting experience because you know um I know that my work affects people and I can apply my knowledge to make life everyday life of most of the people in Stockholm region a little bit better and more comfortable

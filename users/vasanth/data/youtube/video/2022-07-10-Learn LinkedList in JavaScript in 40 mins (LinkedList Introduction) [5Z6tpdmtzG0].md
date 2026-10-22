@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Learn LinkedList in JavaScript in 40 mins (LinkedList Introduction)
-
-
-## Transcript
-
 speaker_1: if you create lets say you will use this memory location first the one
 
 

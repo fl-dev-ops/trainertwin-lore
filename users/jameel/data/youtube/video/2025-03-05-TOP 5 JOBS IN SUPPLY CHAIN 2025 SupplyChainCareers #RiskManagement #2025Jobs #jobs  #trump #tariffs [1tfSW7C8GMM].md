@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# TOP 5 JOBS IN SUPPLY CHAIN 2025 SupplyChainCareers #RiskManagement #2025Jobs #jobs  #trump #tariffs
-
-
-## Transcript
-
 speaker_1: So on number five Ive got the supply chain risk management specialist Now why is a supply chain risk management specialist such an important job in 2025 and beyond Well there are three reasons for that Political turmoil weather related disruptions or IT related disruptions like cybersecurity threats and so on And none of these three unfortunately are going away in 2025 Lets look at some of the key skills required in this job So first of all as a supply chain risk management specialist you need to know how to identify risks and how do you do risk assessments so you need the other skill which is also required highly on this job is a risk mitigation strategies so all of those risk mitigation strategies is something you need to have experience with and people who have got that kind of experience are also very well sought after for these kind of roles

@@ -36,11 +36,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Life, Liberty and The PURSUIT of HAPPINESS | The Non-Native Leader | Episode 10
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to another episode of The Non Native Leader a video podcast series where we explore we analyze uh great stories of people who were not born in an English speaking country but have managed to achieve success on the international stage If you follow this series uh youve seen weve talked to uh people working in Fintech or WFP for different industries but they have one thing in common They were not born in an English speaking country and theyre working internationally today In this episode Im particularly proud to have with me Lorenzo Fiamonte who is the director of the Institute of Sustainability at University of Surrey UK Uh this is just his latest role but Lorenzo has had a great an interesting career which has spanned from politics to economics to uh well being economy which is a great great topic which um really is three dear to me But yeah as usual I dont want to spoil it all and Id love Lorenzo to give us a bit more on you know his story his career and where hes based So Lorenzo welcome and thank you very much for being with me today
 
 speaker_2: Thank you for having me Daniele As you were saying you know like um Ive Ive changed jobs um quite um quite often in my in my career I started roughly 20 years ago as a young academic um in on the other side of the planet in South Africa uh where I set up my own research center then I um started publishing books traveling around the world uh working with some of the economic you know some of the key economic thinkers and then I because of that I was offered a possibility to run for elections in my country in Italy and um I got elected as a member of Parliament I became a national minister and then um the most recent role that I have is as you said the director of the Institute for Sustainability at University of Surrey in the UK And um but Im also advising companies I work with business I I run my own consultancy So so I would say Ive went from academia back to government back to academia and then into the private sector So and Ive done this across many different countries So um its its time now I think to to I suppose to to to wind down a little bit

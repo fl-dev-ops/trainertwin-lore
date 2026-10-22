@@ -13,9 +13,3 @@ Arthur discovers it’s about attention. About knowing your “patch”, noticin
 
 This is where the story starts to quietly reframe selling as a form of professional curiosity rather than self-promotion.
 Available on Amazon & Kindle
-
-## Comments (1)
-
-### Kevin Meyer (Enterprise Seller @Corsearch I Content Creator in Sales | Advisor at bluebill.io & Limelight)
-> Curiosity truly shifts the client approach mindset. Well said!
-

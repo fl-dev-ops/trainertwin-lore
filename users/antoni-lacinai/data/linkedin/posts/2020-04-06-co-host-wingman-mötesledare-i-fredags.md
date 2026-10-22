@@ -15,9 +15,3 @@ För att han skulle kunna ha fullt fokus på sitt innehåll vad han mig agera mo
 För större konferenser online är det smart att dela upp rollen i två. En som sköter snacket och en som sköter chatten. 
 
 Hur gör ni på era onlinekonferenser?
-
-## Comments (1)
-
-### Magnus Eriksson (Utvecklingsstrateg | Driver innovation, digital utveckling och verksamhetsförbättring | Samverkan, analys & strategisk styrning)
-> Min erfarenhet av de möten som jag deltagit i är att de blir bäst om det finns en moderator och en sidekick som håller koll på frågorna som kommer in. Viktigt att det finns ett samspel mellan dessa två så att frågorna från chatten kommer in naturligt.
-

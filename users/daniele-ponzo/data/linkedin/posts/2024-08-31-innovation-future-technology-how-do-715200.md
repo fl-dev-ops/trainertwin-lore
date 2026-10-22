@@ -35,17 +35,3 @@ Will you be there? Let me know, I'd love to catch up for a coffee or a chat.
 🗓 See you 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 16𝐭𝐡 𝐭𝐨 𝐭𝐡𝐞 22𝐧𝐝 𝐨𝐟 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 in Rome! 
 
 #rfw24 #roma #eventiroma #settembre
-
-## Comments (3)
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Best of luck! 💪
-
-### Giacomo Falcone (COO @Foorban | Building @Getting Better)
-> Congrats, Daniele! 👏🏼
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> That looks to be so powerful 
-> 
-> Best of luck Daniele Ponzo
-

@@ -21,6 +21,3 @@ For the remaining 4 points mentioned on the PDF, if you know why it is a best pr
 In case if you have not followed me, you can do it here, I will help you to clear your Software developer interview : Vasanth Bhat
 
 #reactjs #webdevelopment #uidevelopment #uideveloper #uidesigners #reactnative #reactdeveloper #softwaredeveloper #interview
-
-### Shared Document: [7 Best ReactJS coding practices]()
-

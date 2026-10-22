@@ -23,11 +23,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# How to Communicate Across Hierarchies in Multinational Companies #shorts
-
-## Transcript
-
 speaker_1: but also if I start working with somebody new from a culture where I know there is maybe a little bit more hierarchy for example if you start working with German people
 
 

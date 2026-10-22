@@ -36,7 +36,3 @@ The accompanying lecture notes - https://lnkd.in/g5gQUXYr
 
 
 #deeplearning #genai #iisc #freecourse #aiml #learning
-
-### Shared Article: [Deep Generative Models IISc](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r)
-> youtube.com
-

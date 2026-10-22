@@ -20,11 +20,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# What Working in Software Abroad Really Feels Like #shorts
-
-## Transcript
-
 speaker_1: Okay What Im lets start with what Im doing I am in software For the last 60 years I have been working with software mainly with insurance companies I am one of those guys that build those systems that are working for more than 40 years in the financial world I I have been working I am Brazilian
 
 

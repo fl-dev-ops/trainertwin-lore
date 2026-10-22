@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# #teaching #softwareengineer #womenintech #internationalcareer #globalspeaker #nonnativeenglish
-
-## Transcript
-
 speaker_1: And and one thing that I suppose is is particularly uh interesting is the fact that you share your knowledge but uh and whatever you share is not limited obviously to the to the region you are working on but you share uh with everybody who has an interest in these topics Um and so like why Why do you do that Why do you share your knowledge
 
 speaker_2: Why Why Well I mean I dont have any reasonable explanation but uh it kind of comes from inside so I need to share my my knowledge so that uh I know that it kind of it doesnt die with that within me Wow Rather um yeah continues living in um uh in the others work

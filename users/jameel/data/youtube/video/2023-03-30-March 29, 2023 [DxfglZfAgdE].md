@@ -12,11 +12,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# March 29, 2023
-
-## Transcript
-
 speaker_1: INTROVERTS JOB HUNTING
 
 

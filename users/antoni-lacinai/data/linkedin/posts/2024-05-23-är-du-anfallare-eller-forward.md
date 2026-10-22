@@ -30,18 +30,3 @@ Tankar om det?
 
 ----
 Skriver av mig, inte AI
-
-### Shared Document: [KICKOFF_2402_08]()
-
-
-## Comments (3)
-
-### Björn Söderberg (CEO and Partner in Salvator Mundi Global and Salvator Mundi Times)
-> Tack för att Du delar detta- mycket klokt och insiktsfullt - Team work - Antoni 🙏🎯🙏
-
-### Marko Latva-Nevala (Key Account Manager, beteendevetare, Certified Mental Training Master)
-> Sant - skillnad på "titel" och "agerande" :)
-
-### Martin Theorin (Rådgivare Skillspartner Talarbyrå & Utbildningar/Ägare MT Meetings)
-> Det är så rätt tycker jag. Bra att alla i ”laget” inser att de är del av det som levererar. Viktigt om man vill växa å bli bättre …
-

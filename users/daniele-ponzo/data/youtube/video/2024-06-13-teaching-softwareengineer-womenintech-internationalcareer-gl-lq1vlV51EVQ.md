@@ -25,9 +25,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #teaching #softwareengineer #womenintech #internationalcareer #globalspeaker #nonnativeenglish
-
-## Transcript
-
 speaker_1: And um yeah I work in this type of schools uh where I teach both test formation and programming And um yeah I I and the level of the new students is is varies very much So even like I mean a nurse can come and say okay I want to become an engineer uh software engineer And they they have a chance because almost everyone is accepted but of course not everyone uh passes through exams but still they they have this chance So as soon as you put enough effort you are more than welcome

@@ -12,7 +12,3 @@ article:
 ---
 
 My heartfelt response to the sad news we all received today....
-
-### Shared Article: [End of an Era: What P&G’s Exit Means for Pakistan’s Supply Chain and Future Growth](https://www.linkedin.com/pulse/end-era-what-pgs-exit-means-pakistans-supply-chain-future-jameel-hye-mrxic?trackingId=d0NtJXpxKnSHucl8yDhgMg%3D%3D)
-> Jameel Hye
-

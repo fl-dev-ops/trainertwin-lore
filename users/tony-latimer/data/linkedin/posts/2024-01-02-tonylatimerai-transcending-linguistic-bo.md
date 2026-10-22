@@ -19,9 +19,3 @@ With sophisticated translation capabilities and a sensitivity towards diverse li
 
 Dive into a world where language isn’t a barrier but a bridge to a broader understanding.
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Philip Merry PhD - Team Synchronicity (Helping Teams Flourish, Uncover their Collective Intelligence & Deliver Extraordinary Results | Belbin Team Roles• Shared Leadership • Intuitive Decision-Making | 43 years • 63 countries)
-> Great post Tony and happy new year - good to see you at the coaching cutting edge - as always.
-

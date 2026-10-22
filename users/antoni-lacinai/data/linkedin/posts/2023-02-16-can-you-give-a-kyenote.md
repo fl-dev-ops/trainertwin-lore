@@ -33,11 +33,3 @@ Our USBI Team is here to:
  USBI promises you an experience, more than just a speaker!!
 Join our Network and let us Ignite your business Globally.
 https://buff.ly/3KbZ5KB
-
-## Comments (1)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> And what a brilliant, professional and truly engaging Keynote it was Antoni
-> 
-> Always a pleasure to work with you 👏✨️
-

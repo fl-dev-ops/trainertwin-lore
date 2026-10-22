@@ -20,9 +20,3 @@ If you're a software engineer, developer, project manager, or tech lead, stop wa
 🎤 Recorded live at WMF - We Make Future (WMF).
 
 #EnglishForTech #SoftwareEngineer #CommunicationSkills #BusinessEnglish #Developers #TechCareers
-
-## Comments (1)
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Progress comes from putting ideas into the conversation. Clarity improves with practice, not by waiting for perfection.
-

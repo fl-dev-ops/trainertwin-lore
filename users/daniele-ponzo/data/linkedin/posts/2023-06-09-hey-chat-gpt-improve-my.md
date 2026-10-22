@@ -33,9 +33,3 @@ My 2 cents on the “competition” between Humans and AI. 👩🤖
 Over to you now, what do you think?
 
 #ai #chatgpt #creativity #languagelearning #englishlanguage
-
-## Comments (1)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Great points (and pic), Daniele!
-

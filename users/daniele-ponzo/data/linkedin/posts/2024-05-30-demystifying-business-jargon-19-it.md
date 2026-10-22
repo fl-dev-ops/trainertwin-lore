@@ -59,15 +59,3 @@ Hi, I'm Daniele. I post about English communication, IT, confidence and meetings
 Like my posts? Follow or connect with me here➡️ Daniele
 
 #TechJargon #ITProfessionals #BusinessEnglish #LeadershipSkills
-
-## Comments (3)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> This one can be quite infuriating,  almost like the Arabic ‘inshallah’ -  but it can also be quite Zen-like - accepting reality for what it is rather than what you wish it to be. It was also a mantra of a daily departed friend of mine who would say “a thing is what it is”.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Again, one of my favourites I have to admit 🤓
-
-### Obada Qawwas (Alkawass) (Senior Software Engineer at Affirm. Front-end, web platforms and content systems. React, TypeScript, Contentful, CI/CD.)
-> Indeed, "it is what it is" serves as a powerful mantra for staying level-headed amidst tech hurdles. Appreciating the historical context too, Daniele!
-

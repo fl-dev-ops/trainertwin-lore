@@ -22,7 +22,3 @@ It is in the Kannada Language, but YouTube can translate in real-time.
 This may be of interest to a few of my contacts. 
 
 https://lnkd.in/gcCnReq8
-
-### Shared Article: [Is the World Real or Unreal?  |  ಜಗತ್ತು ಸತ್ಯವೇ ಅಥವಾ ಮಿಥ್ಯವೇ?  |  Dr. Prathosh A P  |  Episode 37](https://www.youtube.com/watch?v=JE4C5hksAYk)
-> youtube.com
-

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 🔥 100% | 5 simple steps that every freshers need to follow to get into product based company
-
-
-## Transcript
-
 speaker_1: they solve a basic problem for example they create login api registration api and then some user settings api and they think it is done so problem here is you should solve some crux problem of a particular pro problem crux of the problem for example lets say you want to build some apis like a book my show a ticket booking plan you need to help the recruiters as much as much as possible since they see a shifting through cvs as a chore so for recruiter or now application tracking system checking the resume is a routine
 
 

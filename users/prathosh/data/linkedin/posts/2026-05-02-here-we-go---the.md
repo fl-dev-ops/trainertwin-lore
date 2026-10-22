@@ -24,6 +24,3 @@ Congratulations to all my student Authors Pavan Karjol Rohan V Kashyap Vivek v K
 Indian Institute of Science (IISc) EECS @ IISc, Bengaluru 
 
   #MachineLearning #AI #Physics #DeepLearning #SymmetryDiscovery #icml26
-
-### Shared Document: [pavan_icml]()
-

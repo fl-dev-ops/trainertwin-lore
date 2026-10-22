@@ -29,19 +29,3 @@ Anything that stands out?
 ^_^
 
 Swedish: Tidningen Företagarna följde med mig en dag på jobbet och bland annat blev jag intervjuad om framgångsfaktorer för ledare. Här har du tio av dem jag listade. Vi är många som brinner för det goda ledarskapet. Så vad säger ni Anders Lundin - Skickliggör, Tommy Lundberg, Lena Lid Falkman?
-
-### Shared Article: [10 insikter: Så blir du en bättre chef](https://buff.ly/3Pv7Jo3)
-> foretagarna.se
-
-
-## Comments (3)
-
-### Mikaela Teiffel (Relationsbaserad ledare med hjärta och driv)
-> Love this
-
-### Tommy Lundberg (Föreläsare, författare och företagare med ledarskap och medarbetarengagemang i fokus.)
-> Har ingenting att tillägga, Antoni. Utom möjligen "Var öppen för nya insikter!” 😉
-
-### Johanna Donker (Senior Coach och Verksamhetsledare | Leder genom tillit, tydlighet och lagfokus | Stark i förändring och osäkerhet)
-> Skriver under på samtliga👌💫
-

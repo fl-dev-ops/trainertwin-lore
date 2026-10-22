@@ -7,9 +7,3 @@ comments: 3
 ---
 
 Who do I have in my network that fits this description?
-
-## Comments (1)
-
-### Liisa Siitonen (Interim marketing manager and marketing specialist | Marketing communications, Digital marketing and social media consultant and lecturer | LinkedIn trainer |)
-> Is this close enough: today I am working as an entrepreneur and I used to be middle-management before? I am happy to help if I fit into category 😀
-

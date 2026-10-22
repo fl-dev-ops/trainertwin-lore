@@ -44,11 +44,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Ace International Job Interviews | The Non-Native Leader | Episode 20
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to another episode of the non native leader video podcast series where we explore stories of people who work in an international context on a global stage but they were not born in an English speaking country Um weve been talking to leaders in NGOs uh commercial Fintech music uh video makers artists you know I like to talk to uh different people different profiles and different stories I am happy to have here with me today Gianluca or Luca uh whatever you prefer Uh Luca is a good friend and yeah hes going to tell everything about it And hes promised to share only the stories that we can share publicly Uh Luca thank you very much for being here with me today
 
 speaker_2: No worries Thanks very much for having me

@@ -15,21 +15,3 @@ My topic: inspire engagement. Lead with CARE. Deliver results
 With awesome communication of course 
 Wish us luck and thank you Alma Media  for inviting me ^_^
 😃👍🏻
-
-## Comments (5)
-
-### Susanna Suorsa (Sales Director at MySpeaker)
-> It was super nice to see you💚and thank you for the gifts for our team📚🤗
-
-### Sebastian Wardi (Partner, Enabler, Developer)
-> Thanks for visiting us during your stay. It was great catching up.
-
-### Dr. Wendy Lee, CSP, CBIP, CIC, ICDM (Certified BrandImage™ Consultant | Founder of BrandImage™ International Institute | President, VSAI | Certified Speaking Professional (CSP) | Executive Presence & Personal Branding Expert)
-> and I know you will rock the stage Antoni Lacinai!!!
-
-### Hasse Carlsson (Föreläsare inom samarbete, självledarskap & arbetsplatskultur sedan 2002 · Författare till 4 böcker · Anlitad av kommuner, sjukvård och stora och små företag i hela Sverige · hassecarlsson.se)
-> 🤩👏🏼👏🏼
-
-### My Gross (Föreläsare och konsult inom försäljning och förändringsledning)
-> I am very happy for Helsinki and all HR professionals who will get to listen to you!
-

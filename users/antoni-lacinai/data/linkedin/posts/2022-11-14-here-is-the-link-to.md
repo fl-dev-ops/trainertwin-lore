@@ -19,13 +19,3 @@ Enjoy ^_^
 https://lnkd.in/dRqwxcNk 
 
 Do you want to develop your own charisma? Get in touch with me and we'll talk.
-
-### Shared Article: [Expertens tips: Så övar du upp din karisma](https://www.tv4.se/klipp/va/13800477/expertens-tips-sa-ovar-du-upp-din-karisma)
-> tv4.se
-
-
-## Comments (1)
-
-### Thomas Frenning (Framgångscoachen)
-> Det skötte du bra!
-

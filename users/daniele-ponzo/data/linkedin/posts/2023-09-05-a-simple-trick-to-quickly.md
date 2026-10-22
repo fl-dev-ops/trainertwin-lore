@@ -6,6 +6,11 @@ likes: 80
 comments: 12
 document:
   title: ' 8 Verbs to uplift your English'
+author_comments:
+- |-
+  📌 How my client transformed her confidence communicating in English ⬇️
+
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-businessenglish-careergrowth-activity-7105067130802315264-bS01/
 ---
 
 A simple trick to quickly uplift your English:
@@ -40,37 +45,3 @@ Follow ➡️ Daniele
 
 
 #ITProfessionals #BusinessEnglish #CareerGrowth
-
-### Shared Document: [ 8 Verbs to uplift your English]()
-
-
-## Comments (7)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Great stuff Daniele enjoyed reading through it
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 How my client transformed her confidence communicating in English ⬇️
-> 
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-businessenglish-careergrowth-activity-7105067130802315264-bS01/
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Love this Daniele. Super actionable and excellent examples. Great share!
-
-### DooWorld (250 followers)
-> S.O.S! We have a mistake we need to work on 🙄 
-> 
-> ExecuteWorld? 
-> 
-> Execute-iot.com? 
-> We will stick with doo-iot.com
-
-### Alexander Nijs (I help managers build the habits, confidence, and accountability needed to lead high-performing teams)
-> Resolve sounds better
-
-### Johan Meyer (You are not defined by your accomplishments, but by what they allow you to prioritize.)
-> Thanks for this Daniele Ponzo - very handy. I do find though that many people actually prefer the simple forms? I suspect it is very much a case of context and audience. Handy to have both ready
-
-### Simone Bertin (The Pale Blue Dot)
-> Yeah, best for me check/verify
-

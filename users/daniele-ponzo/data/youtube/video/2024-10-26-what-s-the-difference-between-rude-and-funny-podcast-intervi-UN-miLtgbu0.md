@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What's the difference between Rude and Funny? #podcast #interview
-
-## Transcript
-
 speaker_1: because moving to different country its not only the language changes also communication patterns
 
 speaker_2: True

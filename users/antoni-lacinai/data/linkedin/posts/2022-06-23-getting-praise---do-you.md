@@ -20,9 +20,3 @@ I am grateful. What an amazing job I have!
 Take care friends
 
 #keynotespeaker #leadership #communication #engagement
-
-## Comments (1)
-
-### Rikard Karlsson (Vascular Surgeon, Author & Speaker | Human connection and self-leadership)
-> Vilken fantastisk feedback Antoni Lacinai ✨🌟💫Glad Midsommar 🌻
-

@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itenglishskills-businessenglis
 likes: 1
 comments: 1
 images_count: 1
+author_comments:
+- |-
+  If you want to have a different perspective on fear, I really recommend this book "Feel the Fear and do it Anyway" from Susan J. Jeffers: https://books.google.it/books/about/Feel_the_Fear_and_Do_It_Anyway.html?id=HMGIvgAACAAJ&source=kp_book_description&redir_esc=y.
+  Fear can be a "show-stopper", but can also be a useful resource if employed wisely!
 ---
 
 I always tell my students that there is only one way to improve speaking skills: you have to speak.
@@ -38,10 +42,3 @@ Step 4: 🔄📈 Continuous Learning and Feedback Loop so you get constructive f
 Share your thoughts in the comments below: What are you doing to improve your IT English speaking skill? 
  
 #ITEnglishSkills #BusinessEnglish #LanguageMastery #communication
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If you want to have a different perspective on fear, I really recommend this book "Feel the Fear and do it Anyway" from Susan J. Jeffers: https://books.google.it/books/about/Feel_the_Fear_and_Do_It_Anyway.html?id=HMGIvgAACAAJ&source=kp_book_description&redir_esc=y.
-> Fear can be a "show-stopper", but can also be a useful resource if employed wisely!
-

@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# #softwareengineer #womenintech #internationalcareer #nonnativeenglish #sweden #belarus
-
-## Transcript
-
 speaker_1: Uh and so that I believe that made you switch from an initial period of I dont know can we say a bit of nervousness anxiety to something a bit more like
 
 speaker_2: Yeah I guess that was a switching point when I stopped kind of feeling frustrated that okay I I kind of cant speak Swedish but I at the same time I I cant apply that my workplace uh only in the shop or somewhere else Um that was kind of the moment when I felt okay now Im integrated Now now I I I feel confident and whatever like um okay I can I can I can live in the this country and um understand people a bit more because in all language it it its a crucial point Uh

@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# 200% hike | How QA/Tester changed in 2 years ?? (Wipro ➡️ Zeta ➡️ Grab ➡️ Coin DCX) [Interview tips]
-
-
-## Transcript
-
 speaker_1: So when I was in the pro I was there for three years so my salary was increasing but it was increasing very slow with learning opportunities like I was in the same project for three years so I wasnt get much like exposure for the learning part as well and the career trajectories also like if you have to be in the service based company you have to be in 10 12 years to reach a certain senior level like once youre prepared
 
 speaker_2: Once I prepared for CAT to clear the MD I had the startup zone and I thought like if I have an IIM degree probably I would get easily funding I tried hard and I I spent almost six months very hard to clear the CAT and I gave mock after mock and my score was

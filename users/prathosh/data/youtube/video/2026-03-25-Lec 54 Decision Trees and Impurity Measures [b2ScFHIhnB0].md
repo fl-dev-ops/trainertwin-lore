@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 54 Decision Trees and Impurity Measures
-
-## Transcript
-
 speaker_1: Welcome to this
 lecture
 In this lecture we will transition from

@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-womenentrepren
 likes: 46
 comments: 14
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHfTNzYtoXUKw/CeJzLyCnWNTcyKNA1Nkgr0E0uSjOy0MkAipmaYIqZWGCKGZuhiAEAqbEXXA?e=1793178000&v=beta&t=s6f4d-iRv7Cw0DLwnoTDGdvHPFy2zOLTUUjBxuFH5_s
+author_comments:
+- Thanks for reposting, Andrés García  🙏
+- '📌 Here is the link to the full episode: https://www.youtube.com/watch?v=2eG6Mon-SJ4'
 ---
 
 How to overcome language barriers and become a successful entrepreneur.
@@ -48,30 +51,3 @@ ____________
  Follow ➡️Daniele
  
  #nonnativeleader #womenentrepreneur #internationalcareer
-
-## Comments (8)
-
-### Christiane Hesse (Joyeria artesanal & diseños 3D / Handcrafted Jewellery & 3D design / Goldschmiede & Gestaltung in 3D)
-> Daniele Ponzo Oh dear, this is just great to see & listen! I still remember the bus (number) 38 on my first days... 😂 . Will defo listen to the full episode. Thanks a lot ! Now I am progressing my Spanish so that my customer understands me well.
-
-### Mauro Berardi (Account Manager for Agencies)
-> Well done!!!!
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Brilliant discussion! Loving the video podcast Daniele Ponzo 👏
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Andrés García  🙏
-
-### Emam Hossan (▶️YouTube Growth Specialist 📚Book Promotion Specialist 🚀Amazon Ads Campaign🎙️Podcast promotion 📈Video SEO ✂️Video Editing 🅾 Instagram Growth 🎯Google Ads Campaign)
-> Daniele Ponzo Your podcast is really awesome, I have subscribed to your YouTube channel. You can accept my connection request if you want. I am interested in connection with you.
-
-### Fabio Sverzelati (Mechanical Engineer (Politecnico di Milano) | Global Key Accounts & International B2B Sales | Industrial Machinery, Packaging & Capital Equipment | English & Italian | Europe & Asia)
-> Daniele Ponzo  accent can make or break anything without even knowing it
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> this is amazing Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Here is the link to the full episode: https://www.youtube.com/watch?v=2eG6Mon-SJ4
-

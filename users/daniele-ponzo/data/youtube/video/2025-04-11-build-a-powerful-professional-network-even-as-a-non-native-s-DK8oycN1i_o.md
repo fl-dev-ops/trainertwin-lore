@@ -15,11 +15,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Build a Powerful Professional Network – Even as a Non-Native Speaker!
-
-## Transcript
-
 speaker_1: Well you could go on forever Dont get me started Pauline Dont get me started on acronyms and letters But you know that that is true communities and collaborations you know because theyre very open and then you know you could get for example into a discord And then you can start interacting with people there you know theyre very open And uh and nobodys interested in your mistakes but theyre more interested in the contribution Another C for you contribution
 
 speaker_2: Mhm

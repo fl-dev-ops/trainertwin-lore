@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Unlocking subconscious listening
-
-## Transcript
-
 speaker_1: When you clear your conscious awareness you listen from your subconscious So everything the client is saying all the signals just go straight to your subconscious So your subconscious will then produce the next question When I go into a coaching session I have no idea what Im going to ask or where were going to go

@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_are-you-working-in-an-internat
 likes: 30
 comments: 16
 images_count: 1
+author_comments:
+- "\U0001F4ADWhat does it take to realize your dream? ⬇️ \nhttps://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej"
+- |-
+  The #SpeaktoLead Summit is officially live! You can still register and watch today's videos. Here are the topics:
+  ➡️ The Intuitive English Method of Language LEARNing
+  ➡️ How to Unstick Your Brain So You Can Communicate Effectively
+  ➡️ The Art of Explaining Tech Concepts to Non-Tech Stakeholders during Team Meetings or Presentations
+  See you there!
+- '📌 Business English mastery, Cross-cultural communication. Mindset and leadership skills. 7 days. Online. Free. Register here: https://speaktoleadsummit.com/optin'
 ---
 
 Are you working in an international company?
@@ -69,41 +78,3 @@ You can still register for:
 '𝗦𝗽𝗲𝗮𝗸 𝘁𝗼 𝗟𝗲𝗮𝗱: 𝗠𝗮𝘀𝘁𝗲𝗿 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 𝗢𝗻𝗹𝗶𝗻𝗲 𝗦𝘂𝗺𝗺𝗶𝘁'
 
 Find the link in the comments below 👇
-
-## Comments (10)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 💭What does it take to realize your dream? ⬇️ 
-> https://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Very useful phrases to have Daniele Ponzo, and great example sentences too.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> The #SpeaktoLead Summit is officially live! You can still register and watch today's videos. Here are the topics:
-> ➡️ The Intuitive English Method of Language LEARNing
-> ➡️ How to Unstick Your Brain So You Can Communicate Effectively
-> ➡️ The Art of Explaining Tech Concepts to Non-Tech Stakeholders during Team Meetings or Presentations
-> See you there!
-
-### Prof.Dr.Evone Botros. (AI Governance Researcher | Journal Founder | Fellow, Royal Society of Great Britain at Oxbridge Institute of Professional Development (OIPD) - UK)
-> Very informative Daniele Ponzo!!
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It's a reminder of how mastering these subtleties can open doors in global workplaces. Daniele Ponzo
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> These used to cause so much pain to my EFL students back in the day Daniele Ponzo!
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Gosh Daniele it must be so confusing for people starting off on their english learning journey 🙉
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Interesting
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> It does feel like a secret language, doesn't it!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Business English mastery, Cross-cultural communication. Mindset and leadership skills. 7 days. Online. Free. Register here: https://speaktoleadsummit.com/optin
-

@@ -22,13 +22,3 @@ How do you communicate within your team? Within the whole company?
 #leadership #communication #engagement
 
 Let’s zoom out. We are all on the ship called Earth together. The stupidity of tribalism and egoism is so evident when countries keep the illusion of the us vs them. There can only be one us. Working together is the ONLY solution. Period.
-
-### Shared Article: [Ju större VI desto mindre De – krönika - Aktuellt - HRnytt](https://buff.ly/3AabHwP)
-> buff.ly
-
-
-## Comments (1)
-
-### Katerina Katsanikou (Miljö-och samhällsbyggnad)
-> Visste väl att du hade lite grekisk i dig 😉😅
-

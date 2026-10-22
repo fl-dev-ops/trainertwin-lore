@@ -12,9 +12,3 @@ You are awesome
 Communication comes in all forms. This simple gesture made me smile when I checked in at the hotel yesterday. 
 
 How do you put a smile on people’s faces?
-
-## Comments (1)
-
-### Eytan Segev CSP (International Profiler & CSP | Human Intelligence in the AI Era | 150,000+ Face Readings | Keynotes on Reading People, Leadership, Sales & Negotiation | 🇮🇳 India Jan 2027)
-> Insightful, thank you Antoni
-

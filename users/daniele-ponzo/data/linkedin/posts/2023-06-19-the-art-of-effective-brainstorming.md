@@ -36,6 +36,3 @@ Remember, it's not just about the quantity of ideas but the quality that emerges
 What would you add to the list? let me know in the comments.
 
 #mindset #collaboration #brainstorming #positivity #language #englishlanguage
-
-### Shared Document: [Effective brainstorming]()
-

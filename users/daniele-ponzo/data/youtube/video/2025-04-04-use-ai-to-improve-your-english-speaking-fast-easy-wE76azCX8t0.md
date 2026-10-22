@@ -14,9 +14,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Use AI to Improve Your English Speaking – Fast & Easy!
-
-## Transcript
-
 speaker_1: So if you are putting together a presentation and you need to deliver it what you could do you could use a speech recognition tools like dictationio for example But you know there is there is many and I can share the links if people are interested And so what you do you record yourself speaking like youre presenting your slide and speech recognition would transcribe whatever youre saying so you get a script And then you have your script and you use chat GPT to validate your script So you take the word from a speech speech recognition website or software Put that into chat GPT and ask some questions So like how effective my presentation is how well built is how I dont know what would you change So say for example you could even create a scenario yeah

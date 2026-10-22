@@ -21,9 +21,3 @@ några sitter tillsammans och andra själva, ger ett sämre möte.
 9. Ha en bra START- OCH STOPPRITUAL. Som mötesledare kan du skapa goda förutsättningar genom att få igång alla i början på mötet och sedan av- sluta trevligt och utan stress. Bygg relationer, summera och kom överens om vem som gör vad.
 
 #virtuellamöten #ledarskap #kommunikation
-
-## Comments (1)
-
-### Lisa Lerner (Utbildningschef/ Senior Implementation mgr.)
-> Mycket bra tips Antoni Lacinai , tack för dem!
-

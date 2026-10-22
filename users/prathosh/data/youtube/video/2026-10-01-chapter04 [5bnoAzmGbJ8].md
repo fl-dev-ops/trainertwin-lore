@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter04
-
-## Transcript
-
 speaker_1: अथ चतुर्थोऽध्यायः
 ज्ञानकर्मसन्न्यासयोगः
 श्रीभगवानुवाच

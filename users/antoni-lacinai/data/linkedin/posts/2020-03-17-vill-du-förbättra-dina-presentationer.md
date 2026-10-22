@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_kommunikation-presentation-ledarskap
 likes: 25
 comments: 19
 images_count: 1
+author_comments:
+- Vad kul att ni är på hugget ^_^
 ---
 
 VILL DU FÖRBÄTTRA DINA PRESENTATIONER? 
@@ -25,33 +27,3 @@ Under 6 individuella distansmöten på video kommer vi att gå igenom:
 Vill du hellre fokusera på något speciellt går det också. Är du intresserad så mejla mig (eller DM’a här) för en diskussion om hur du kan ta nästa kliv och förbättra dina presentationer. 
 
 #kommunikation #presentation #ledarskap #försäljning
-
-## Comments (9)
-
-### Ola Wallström (Tillväxtmentor | Hjälper entreprenörer som vill hitta de dolda möjligheterna i sitt bolag | Som vill växa snabbt och smart från 10 till 50 miljoner (och vidare efter det))
-> Heja Antoni - Bra, tydligt, konkret och intressant :-)
-
-### Anne-Christine Andersen (Nurse, Home Care hos Viborg Kommune, distrikt Houlkær)
-> Är intresserad. Kan inte messa dig nu av någon anledning.
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Vad kul att ni är på hugget ^_^
-
-### Gunnar Söderberg (Föreläser om kul på jobbet | Utbildar i ledarskap & arbetsmiljö | Speldesigner inom ledarskap.)
-> Går i samma tankar när det gäller att ta upp mer coachning... Kul inspiration att se dig göra det!
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> Way to go :-)
-
-### Kjell Dahlin (Framförallt Inspirationstalare. Men även författare och grundare av den mjuka kommunikationsbyrån Popretorik)
-> Grym på det han gör, tro mig, anlita Antoni. Nu!
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Lycklig den som tar hjälp av dig!
-
-### Åsa Lindell (Senior Facilitator & Moderator | Leadership, Communication, Change & Psychological Safety | 20+ years supporting executives, boards and organisations)
-> Tydligt erbjudande. Och en grym chans för de som kanske också har lite mer tid till förfogande.
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Bra där Antoni! Du är verkligen en företagare med stor flexibilitet och förmåga att anpassa dig till rådande affärsklimat!🌟
-

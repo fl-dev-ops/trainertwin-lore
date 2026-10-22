@@ -20,18 +20,3 @@ https://buff.ly/48lxLmW
 
 
 #keynotespeaker #communicationcoach #leadership #communication #engagement
-
-## Comments (4)
-
-### Rupak Shrestha (Chief Operating Officer)
-> We are glad to have you at Nepal Speakers Bureau. Speaking at Everest Base Camp can be something we can plan Antoni Lacinai
-
-### Rikard Karlsson (Vascular Surgeon, Author & Speaker | Human connection and self-leadership)
-> Sounds great Antoni Lacinai 💫✨🌟
-
-### Daniela Landherr (Author of Everything is Working. Nothing is Moving. | Keynote Speaker | Trust. Leadership. Moving what’s stuck.)
-> That is awesome Antoni, and please bring me along when you go to Nepal 😁 The world needs to hear more from you!!
-
-### Thomas Otnes (Product developer and engineer)
-> Antoni, if you speak in Katmandu, make sure to post that recording. ;)
-

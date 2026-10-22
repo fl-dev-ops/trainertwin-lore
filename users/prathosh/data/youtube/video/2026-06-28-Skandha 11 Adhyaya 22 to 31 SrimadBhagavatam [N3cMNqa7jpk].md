@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 11 Adhyaya 22 to 31 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: द्वाविंशः अध्यायः
 थव उवाच
 कानि तत्त्वानि विश्वेशसङ्ख्यातानि ऋषिभिः प्रभो

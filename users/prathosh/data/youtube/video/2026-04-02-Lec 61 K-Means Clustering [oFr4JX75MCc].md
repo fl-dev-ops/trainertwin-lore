@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 61 K-Means Clustering
-
-## Transcript
-
 speaker_1: Welcome all
 We will continue our discussion on
 unsupervised learning

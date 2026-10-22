@@ -24,11 +24,3 @@ With every interaction, TonyLatimer.ai adapts, learns, refines, and evolves, ens
 We are looking at an era where training is no longer seen as a one-size-fits-all solution but a highly individualized pathway to personal and professional growth.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Aman Kumar (Build Your Dream Physique Without a Gym I Train With Your Bodyweight I First Call Free I Happy to Chat: +91 8235569237)
-> Exciting times indeed! The shift towards hyper-personalized learning is a game-changer in professional development. 
-> 
-> You have an amazing profile. Please add me to your network Tony Latimer, MCC :)
-

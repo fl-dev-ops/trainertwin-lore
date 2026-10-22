@@ -34,27 +34,3 @@ Have a great weekend everyone!
 image credit: ifunnyBrazil
 
 #english #itprofessionals #lessismore
-
-## Comments (5)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> True story, but who is brave enough to say "world wide web dot whatever dot com"?!
-> I remember one company I worked for, we'd use Wee Willy Wonker! 😂
-
-### Cathal M. (Business Performance ,Operational Turnarounds , Acquisition, Mergers and Disposals)
-> Class  💡 ,  all too often the solution is part of the problem
-
-### Emmanuele Villa (Tech Lead @ Fincons | Teacher @ U3 | History BA @ UniMi)
-> Not in Italian, we say vuvuvu
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Prioritize clarity over complexity. Daniele Ponzo
-> 
-> Simple solutions often yield better results.
-
-### Abdul Raqeeb (Brand & Content Designer for Coaches and Founders | I help you look as credible online as you actually are.)
-> Haha, so true! 
-> Sometimes we think we're saving time, but end up making things more complicated.
-> 
-> Happy Weekend Daniele Ponzo
-

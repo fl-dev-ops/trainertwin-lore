@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Role of Passion in Learning English #shorts
-
-## Transcript
-
 speaker_1: I have my my younger sister uh shes been learning Korean from home and she managed to to become I wouldnt say very fluent but she speaks and she understands within just six months And thats all because of passion because she loves it so much She watches films and listens to music and learn lyrics of music You know that kind of uh young girl And within six months she went to Korea with my dad at some point And she was talking going to shops and ordering and doing so its just a matter of like being really willing to And if youre passionate thats an additional bonus you know if youre passionate
 
 speaker_2: Absolutely

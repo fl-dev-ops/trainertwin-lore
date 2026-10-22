@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 10 Adhyaya 79 to 91 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 तथा ताभिर्वरस्त्रीभिः रममाणो जनार्दनः
 दिनानि हतसापत्नः सुबहुन्यत्यवासयत्

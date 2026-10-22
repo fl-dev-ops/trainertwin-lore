@@ -106,19 +106,3 @@ Consistency ≠ more pressure.
 Consistency = a better system.
 
 What’s one small English rep you could attach to something you already do this week?
-
-## Comments (3)
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Progress happens when practice becomes a habit, not a hurdle. Integrating English into everyday work is how confidence turns into competence.
-> 
-> 
-> Daniele Ponzo
-
-### Ben Palmer (I help busy executives to improve their English communication: Soft Skills | Intercultural Communication | Public Speaking | Event Preparation | Difficult Conversations | Habits | AI Usage)
-> Making English fun and a part of daily life, if even for a few minutes per day, will get learners improving far quicker than any useless weekly class will Daniele Ponzo
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Explaining one technical decision in English after a code review is a practical way to build confidence through real work.
-> Small, repeatable practice makes communication improvement more sustainable than relying on motivation alone.
-

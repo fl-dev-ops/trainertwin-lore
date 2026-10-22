@@ -57,12 +57,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
 
 #hack #lifehacks #itprofessionals #english #development
-
-## Comments (2)
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> Learning is multi-faceted. Formal learning and social learning are great, but our experiences are further foregrounded when they're accompanied with hands-on experience. My experience on LinkedIn has been similar to this. Daniele Ponzo
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> We are on the same wavelength today Daniele as my post refers to the 70 20 10 model too 😀. Thanks for the inspiration 🙏😊
-

@@ -50,17 +50,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️Daniele
 
 #TechLeadership #BusinessJargon #EfficiencyMatters
-
-## Comments (3)
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> One aspect that’s particularly relevant in this context is identifying the high leverage points where most of the streamlining value resides. At some point the law of diminishing returns kick in.
-
-### David Cabezas (Free yourself from fear and shame when speaking English | Professional and Personal Development for Spanish-speaking Managers | Experiential English and Neurolanguage Coaching®)
-> Great examples of how to use it in context Daniele Ponzo 🤗
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Amazing insights! Thanks for sharing this while Inspiring so many! 😇
-> .
-> P.S how's your day going? 😇
-

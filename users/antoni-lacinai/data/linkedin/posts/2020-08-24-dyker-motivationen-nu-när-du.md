@@ -17,14 +17,3 @@ Här får du fem tips, eller hack, för hur du boostar din motivation.
 Har du fler?
 
 #kommunikation #motivation #föreläsare
-
-### Shared Article: [5 motivationstips för dig som måste jobba hemifrån](https://bit.ly/3hcs2oi)
-> bit.ly
-
-
-## Comments (1)
-
-### Ivar Hedén Judt (Team Manager - Product & Development)
-> Bra tips och kan konstatera att jag redan använder mig av dessa på olika sätt! 
-> Kan tipsa om att, om möjlighet finnns, ta promenerande möten om kollegor finns i närheten! Alternativt ta minst ett möte/fika/promenad promenerandes voa teams/dylikt. Se corona som en möjlighet att få tid till goda vanor istället för att ge dig dåliga nya :)
-

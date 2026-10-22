@@ -1,6 +1,6 @@
 ---
 id: oTEPAiwv-00
-title: Tutorial 10 Part A : Numerical Example on Bayes Classifier
+title: "Tutorial 10 Part A : Numerical Example on Bayes Classifier"
 url: https://www.youtube.com/watch?v=oTEPAiwv-00
 date: '2026-02-18'
 duration: 51:37
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 10 Part A : Numerical Example on Bayes Classifier
-
-## Transcript
 
 speaker_1: Hello all
 Welcome to this tutorial

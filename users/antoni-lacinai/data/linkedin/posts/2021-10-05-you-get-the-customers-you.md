@@ -17,18 +17,3 @@ Du får de kunder du för-tjänar
 En krönika från mig i videoformat. Allt för att skapa en god kommunikation och bättre resultat
 
 #kommunikation #kundbemötande #försäljning
-
-### Shared Article: [Film: Du får de kunder du förtjänar - Saleseffect](https://buff.ly/3j8NwGz)
-> buff.ly
-
-
-## Comments (2)
-
-### Dan Svanfelt (CCO | Hyperdrive Business Development | Strategic Networker | MEDDICC Trainer |)
-> Så självklart men ändå så svårt att lyckas med ett riktigt bra kundbemötande - ALLTID!
-> 
-> Kolla in filmen Nicklas Daag och Pär Anders Runesson och berätta vad ni tänker?
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> Jag är övertygad om att du har rätt, lagen om lika gensvar kan appliceras även här.
-

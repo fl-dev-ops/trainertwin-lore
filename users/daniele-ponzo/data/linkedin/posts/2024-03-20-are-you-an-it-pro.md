@@ -68,15 +68,3 @@ P.S. Ready to make it real?
 Reach out and let’s chat. I’m only a DM away 😊
 
 #english #careertips #itprofessionals
-
-### Shared Document: [Client Results and Testimonials]()
-
-
-## Comments (2)
-
-### Sunil kumar J (Sr.Consultant)
-> Very thought Full
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Loving the conceptual aspect shared! Keep winning! 👏🏻
-

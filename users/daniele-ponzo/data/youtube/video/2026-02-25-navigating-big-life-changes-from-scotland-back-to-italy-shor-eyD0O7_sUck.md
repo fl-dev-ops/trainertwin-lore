@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Navigating Big Life Changes: From Scotland Back to Italy #shorts
-
-## Transcript
-
 speaker_1: So what impact did COVID have on your I dont know dream life in Scotland
 
 speaker_2: So it it really was not COVID Because COVID was bearable I think the thing that impacted me the most was um was Brexit So during that period of time the harassment from JK Rowling spiraled The Brexit spiraled because Boris Johnson was elected it was confirmed there was a hard Brexit

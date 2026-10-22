@@ -15,7 +15,3 @@ Want to save time and money? Go for digital meetings! (English subtext on this v
 Digitala möten sparar tid och pengar. Låter självklart men hur blir det när några kommer tillbaka till kontoret men inte alla?
 
 #Digitalamöten #kommunikation #ledarskap
-
-### Shared Article: [Digitala möten Tid och pengar . Digital meetings saves time and money](https://buff.ly/3DbtIKn)
-> buff.ly
-

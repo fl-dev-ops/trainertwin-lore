@@ -51,20 +51,3 @@ Let me know below 👇 .
 P.S. have a great weekend!
 
 Image credit: eatliver
-
-## Comments (4)
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo What a powerful message about following your passions despite external doubts! It’s inspiring to see how you’ve integrated those diverse interests into your career, proving that skills from seemingly unrelated fields can truly complement each other.
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> I didn't go for what I wanted, I went for engineering, but I've never regretted because it opened a different world and shaped my mentality on how to find solutions, solve things in a unique way. Now after many years, I have time for my passion too: writing. So it is never an easy road, black and white, but it is always good if people are happy with their journey and choices 🙂
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> I picked my studies in order to get a job as eldest in my family and leaving school in the 80s Daniele Ponzo . In a roundabout way I've ended up living around the two things I would have loved to study, Irish and ornithology.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> I did the same Daniele, and I’m so glad I had the guts to go after what’s right for me.
-> 
-> Still waiting for that huge English literature factory to be opened by the way 😂😂
-

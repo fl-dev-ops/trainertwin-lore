@@ -35,25 +35,3 @@ By maintaining clear communication and a strategic approach, we can steer clear 
 P.S. Are you going through any "headless chicken" situations? I'd love to know your stories in the comments.
  
 #BusinessJargon #ITLeadership #StayFocused
-
-## Comments (5)
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> Something to be mindful of particularly during time of crisis - planning and prep go a long way.
-
-### Gabriel Ebah (Data Engineer/IT Developer at Nordea, Power BI Data Analyst (Microsoft Certified))
-> The photo and the post made me laugh. Thanks for posting. 😅 It’s indeed a colorful expression.
-> 
-> I don’t remember when I was last in the ”run like a headless chicken” situation. But I know it is not a pretty situation to be in. Thankfully the chiken in the photo has a head!
-> 
-> The headless chicken situation raises the importance of having some plan in place for the unexpected, even though we cannot actually have one for all possible scenarios. In that way I can still run around getting things back to normal, but not running around ”like a headless chicken”. I’d prefer running around like a ”chicken with a head”. At least I can see where I’m heading to and what’s around me.
-
-### Giacomo Falcone (COO @Foorban | Building @Getting Better)
-> Did not know this one 😂
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> The "running headless chicken" is one of my favourites, I have to say 😂
-
-### Fabio Sverzelati (Mechanical Engineer (Politecnico di Milano) | Global Key Accounts & International B2B Sales | Industrial Machinery, Packaging & Capital Equipment | English & Italian | Europe & Asia)
-> Daniele Ponzo  great point, that’s a good example of a business with no processes in place  that will allow panic to spread
-

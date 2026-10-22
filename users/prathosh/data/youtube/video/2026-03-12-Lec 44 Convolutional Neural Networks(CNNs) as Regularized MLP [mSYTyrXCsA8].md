@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 44 Convolutional Neural Networks(CNNs) as Regularized MLP
-
-## Transcript
-
 speaker_1: Welcome everyone to the class Now
 lets lets see how it is done in
 popular culture Right So people dont

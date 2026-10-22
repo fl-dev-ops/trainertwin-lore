@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter08
-
-## Transcript
-
 speaker_1: अथ अष्टमोऽध्यायः
 अक्षरब्रह्मयोगः
 अर्जुन उवाच

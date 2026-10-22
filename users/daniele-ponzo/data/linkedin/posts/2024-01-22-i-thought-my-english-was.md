@@ -96,18 +96,3 @@ Celebrate small victories, and enjoy the process of mastering English comprehens
 So, are you up for the challenge?
 
 #english #comprehension #listeningskills
-
-## Comments (2)
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Good advices, mate.
-> 
-> ----------
-> 🔍 Follow me for daily insights on ITSM and IT Security.
-> 🎧 Check out The ITSM Practice podcast on Spotify: podcasters.spotify.com/pod/show/theitsmpractice
-> 
-> #itsm #itsecurity
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Language exchange is great when you find the right partner 🙂
-

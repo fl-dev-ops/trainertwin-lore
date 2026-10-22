@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# An Introduction to SAP Supply Chain Modules: A Podcast with a Supply Chain Expert
-
-
-## Transcript
-
 speaker_1: The latest version that people will hear about and probably come across is going to be whats called the SAP HANA S4 HANA platform and that is the more the latest edition Theres additional one which is called SAP IDES so IDES is Internet Demonstration and Evaluation System but you can download a system which you can install on your own computer and that one I believe is for free and it comes with some amount of company data so its stuff its an implementation that has data that you can play around with
 
 

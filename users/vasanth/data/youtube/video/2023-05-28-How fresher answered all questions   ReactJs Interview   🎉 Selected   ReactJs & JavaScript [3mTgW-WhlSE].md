@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How fresher answered all questions | ReactJs Interview | 🎉 Selected | ReactJs & JavaScript
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Uncommon Geeks My name is Vasanth I hope youre all doing well So in todays mock interview with me I have Surajan So this is going to be around 30 minutes of video where Ill be talking Ill be interviewing Surajan with respect to front end technologies Ill be asking you basics of HTML CSS JavaScript React And maybe last five to 10 minutes well also discuss about one DSA problem So its going to be a good session So please watch the video till the end Well start the video by Surajans introduction Surajan over to you Can you please introduce yourself
 
 speaker_2: Yeah so as you already have mentioned my name is Srijan I am in my final year of my engineering in the stream of computer science obviously and I am pursuing it from a college based out of Kolkata and coming to my experiences and all So Ive been into working with web technologies since like for like two years and I have had three past internship experiences as well And right now Im working as a full stack intern in a startup named Sprinto

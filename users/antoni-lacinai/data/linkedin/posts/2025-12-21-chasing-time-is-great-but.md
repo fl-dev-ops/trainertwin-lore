@@ -26,34 +26,3 @@ I wish all of you who will take some time off, a restful, time-spending holiday 
 
 ^_^
 //Antoni
-
-## Comments (6)
-
-### Thomas Gällstedt (Tierp)
-> 🐻
-
-### Laura Penn, Ph.D. (Speaking Arts & Leadership Communication Expert / International Keynote Speaker / Founder of The Leadership Speaking School🇨🇭 / Igniting Authentic Communication in the Digital Age)
-> God Jul och gott nytt år Antoni ✨✨✨
-
-### Tarek Fawaz (Engineering & Product Leader | Growing People, Technology, and Impact)
-> I can’t agree more with this post.
-> 
-> One of the main reasons I chose to move to Sweden was the work–life balance. The ability to truly spend time with my family, not just be physically present, but mentally there.
-> 
-> At some point, I realised a simple truth: one day, I will no longer exist. And what remains then are not deadlines or achievements, but memories.
-> 
-> I may live far from my larger family, but I gain something precious in return, four full weeks every summer together. Pure time. Pure fun. Moments that turn into unforgettable memories.
-> 
-> Working smart during working hours, with focus, passion, heart, and mind, allows me to go home peacefully. And that peace creates genuine happiness, love, and presence with my family.
-
-### Brian Bakeberg BSC.ENG (Co-Founder & CVO, bp2w® | Turning employee engagement data into action in 15 minutes a month | CPD-accredited | Published in The Harvard Brain)
-> Great  message Antoni Lacinai  and so true.
-> Make it Fun and Get it Done 
-> Actually thays my new book and it focuses on just that
-
-### Lars Lengberg (Product Owner, Charging Services - Process and Digitalisation at Scania Group)
-> Min pappa gick nyligen bort, 85 år gammal... Du gör helt rätt i att fokusera på stunderna med familjen! Hoppas du får en skön och totalt icke-tidsoptimerad ledighet med dina närmaste.
-
-### Robin Elfving (Program Director at Stockholm School of Economics ExEd, doctoral researcher at University of Helsinki.)
-> "We have learnt to do our work-emails on a Sunday morning but we have not learnt to go to the cinema on a Wednesday afternoon". God Jul och gott nytt Antoni!
-

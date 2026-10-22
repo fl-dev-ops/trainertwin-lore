@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_a-surprising-number-of-experienc
 likes: 1
 comments: 1
 images_count: 1
+author_comments:
+- Profitableleadership.com/simplicityofmastery
 ---
 
 A surprising number of experienced coaches feel technically competent but not fully settled in their work.
@@ -14,9 +16,3 @@ They know what to do, but something still feels slightly effortful or busy. That
 Simplicity of Mastery™ is designed to meet coaches at exactly that point.
 
 Membership options are open.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Profitableleadership.com/simplicityofmastery
-

@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_networking-softskills-pursuito
 likes: 19
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQElbi99tBhhbg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1718339827663?e=1793178000&v=beta&t=XkyDa1D66ezgr4D-qw2nDRJ0DXl6tY_EXoouTI4XX3Q
+author_comments:
+- '📌 Stories, challenges, rewards...career advice, tips on self-growth: Explore my channel here: https://www.youtube.com/@SolutionSpeakCoaching'
 ---
 
 “That moment when you enter the classroom for the first time”
@@ -33,18 +35,3 @@ So, if you want to catch up on the full conversation I had with Maryia Tuleika o
 P.S. Mark your calendar for a brand-new episode next week: Tuesday, 18th of June, 7.30 CET🗓.
 
 #thenonnativeleader
-
-## Comments (4)
-
-### Yole Odior (Technology & Leadership Strategy Consultant | Leading voice in AI, Blockchain, Consumer Tech | One time 30 under 30 - Increasing The Influence Of The Righteous & Scaling Impact For The Inspired)
-> Intriguing, Daniele Ponzo
-
-### Chandra Shekhar Joshi (Crack FAANG+ Sr/Staff+, EM Behavioural & System Design HLD interviews | DM me “COACH” | Engineering Manager @ Amazon | Engineering Career Coach | FAANG+ Interview Coach)
-> Indeed Daniele Ponzo. Doing the homework reduces a lot of guesswork.
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Rehearsal and practice, whether you're a native speaker or not, it's a brilliant preparation tool. I rehearse in so many situations, mentally and out loud haha. Great vibe here Daniele and Maryia!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Stories, challenges, rewards...career advice, tips on self-growth: Explore my channel here: https://www.youtube.com/@SolutionSpeakCoaching
-

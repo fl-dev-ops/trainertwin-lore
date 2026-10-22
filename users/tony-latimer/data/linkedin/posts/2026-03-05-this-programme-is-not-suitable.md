@@ -12,9 +12,3 @@ This programme is not suitable for everyone.
 If you’re looking for reassurance, scripts, or a guaranteed pathway to MCC, you will likely be frustrated. If you’re willing to examine your habits honestly and refine them carefully, you may find it transformative.
 
 Expression of interest open.
-
-## Comments (1)
-
-### Angélique KING (ADHD Performance Coach for Entrepreneurs | Hit Your Business and Life Goals Without the Constant Overwhelm | Ex-Founder | ADDCA-trained | 🇫🇷🇨🇳)
-> This sounds great Tony Latimer. Not for everyone because programmes that challenge habits and thinking often create the deepest transformation
-

@@ -37,9 +37,3 @@ You can hit that 🔔 too!
 P.S. I'm not showing my way down mostly to save the metaphor, but also because that wasn't really perfect😅
 
 #comfortzone #learning #fear
-
-## Comments (1)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Well done man I’d 💩 myself to be honest. What was your main takeaway from the experience?
-

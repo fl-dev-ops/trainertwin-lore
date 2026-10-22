@@ -19,9 +19,3 @@ So, next time you think "everybody is better than me", maybe try to rephrase it 
 thanks @Dr Grace Lordan for sharing this!
 
  #motivation #change #coaching #skills #learnenglish
-
-## Comments (1)
-
-### Marty Wallwood (Built a personalized path using free online US & UK resources, now building new web and brand solutions for local businesses & founders there. Global Partner 🇺🇸 US-aligned 🇪🇺 EU-based.)
-> Good point you made. We can always change!
-

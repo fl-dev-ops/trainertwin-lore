@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The #1 Reason Non-Native Professionals Struggle in Global Jobs
-
-## Transcript
-
 speaker_1: English is definitely a a a language that open up so many doors Especially professionally And I think thats when I decide yeah no I firstly I decide to leave Germany at the time and I where I moved to Dublin but it was also when I realized that English gonna you know uh open more doors for me You know allow me to have more jobs and more opportunities So thats when I I I I decide to leave Germany for a while So I I I always kept uh learning uh uh up still today But um I definitely decide to focus on you know on my professional life and thats where I focus completely on
 
 speaker_2: So it was a conscious decision concentrate on English and then move to an English speaking country

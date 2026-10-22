@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Top 5 Game-Changing Systems You MUST Master in 2025 - Unlock Your Dream Supply Chain Career:
-
-
-## Transcript
-
 speaker_1: ERP OMS TMS WMS APS What is all this Well guys dont worry because these are some of the most critical systems which are essential for companies to run their supply chain And in this video I will cover with you a brief description of what each of these does and who are the top players in the market offering solutions around these systems My name is Jamil Hai and Ive been working in supply chain management positions
 
 

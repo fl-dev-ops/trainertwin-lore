@@ -23,15 +23,3 @@ If you work in 𝘁𝗲𝗰𝗵 and want to:
 you’ll want to tune in.
 
 * Inspired by my book 𝘌𝘢𝘴𝘺 𝘌𝘯𝘨𝘭𝘪𝘴𝘩 𝘧𝘰𝘳 𝘐𝘛 because technical expertise opens the door, but communication keeps it open.
-
-## Comments (3)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Great topic, communication really is the missing skill in many tech teams. It’s awesome that you’re helping bridge that gap
-
-### Davy Shi 💡🚀🌎 (Founder | Managing Director | MBA, China Supply Chain Management, dedicated to delivering global consumer goods solutions and sourcing services. 🌎)
-> Excited to hear insights on bridging the gap and turning communication into a skill that drives collaboration, confidence, and growth in tech teams! 💡💬Daniele Ponzo
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Strong communication is as critical as coding skills, Daniele Ponzo. Clear, culturally aware, and confident dialogue shapes leadership, teamwork, and career growth in tech environments.
-

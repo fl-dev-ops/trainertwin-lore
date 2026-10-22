@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Before moving to Dubai for Real Estate Job. 10 factors not to miss (part 2)
-
-## Transcript
-
 speaker_1: Its closing down
 
 speaker_2: We should have a last round then

@@ -12,7 +12,3 @@ article:
 
 Very interesting article about the consumption patterns by week as lockdown continues.... #demand #supplychainmanagement #crisis #pandemic #covid19
 https://lnkd.in/eetScTt
-
-### Shared Article: [Walmart CEO says we're in the 'hair color' phase of panic buying | CNN Business](https://www.cnn.com/2020/04/11/business/panic-buying-walmart-hair-color-coronavirus/index.html)
-> cnn.com
-

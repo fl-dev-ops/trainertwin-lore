@@ -56,11 +56,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Become FLUENT in any LANGUAGE #podcast #language #internationalcareer #languages
-
-## Transcript
-
 speaker_1: I think the important thing is and I think this is what many people get wrong is you get too comfortable through uncomfortable And you know people like to say uh that children learn languages so fast because their brain is somehow more malleable and they are more flexible and they can learn it playfully and so forth and adults you know they have more structure in their brain and for some reason Thats all bullshit There is a single reason why adults find it much harder to learn languages than kids do And that no one talks about this reason and that reason explains it in my opinion explains 95 percent of it And that one reason is pride
 
 speaker_2: Hmm

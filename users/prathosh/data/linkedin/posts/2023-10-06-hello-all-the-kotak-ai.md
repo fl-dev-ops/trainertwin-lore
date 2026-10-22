@@ -19,7 +19,3 @@ If you have a PhD degree in theory and applications of ML, with a good publicati
 We are doing cutting edge research on Deep representation learning and generative models in our lab with multiple active industry collaborations. We publish actively in top tier journals and conference. 
 
 Prathosh.
-
-### Shared Article: [Announcements](https://kiac.iisc.ac.in/announcements/)
-> kiac.iisc.ac.in
-

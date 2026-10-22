@@ -36,9 +36,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Switching Career: Why?
-
-## Transcript
-
 speaker_1: But then I realized that I was getting too old like like Sir John Martha say uh Im too old for this So um I I was getting too old for that And I I had to take I had to take that way out That was my my way out of it And I I was actually regretfully taken it because I loved the environment but then with ears I realized I did the right

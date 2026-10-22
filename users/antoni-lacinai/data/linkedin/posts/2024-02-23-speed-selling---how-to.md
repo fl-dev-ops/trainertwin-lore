@@ -17,15 +17,3 @@ Communication leads to engagement
 Engagement leads to results
 
 Publisher: Austin Macauley Publishers Ltd ®
-
-## Comments (3)
-
-### Philippe Guichard (From product to $1M+ ventures: the designer serial entrepreneurs partner with | Talk on TED.com | Product Development & Product Design | Bestselling Author & Keynote Speaker | Investor)
-> I can’t wait to read your new book, Antoni, I have a tradeshow in July, any chance I have to read your book before?
-
-### Mattias Olsson (B2B-säljare med 10+ års erfarenhet som regionssäljare & affärschef med fokus att skapa tillväxt genom långsiktiga kundrelationer)
-> Väldigt spännande! Ser jag fram emot att djupdyka i 👏
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Otroligt spännande. Ser fram emot detta!
-

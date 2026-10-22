@@ -30,27 +30,3 @@ simplicityofmastery.com
 Learn more and take the next step.
 
 #CoachingMastery #PCCtoMCC #ICFMCC #DeepListening #CoachingBreakthroughs #CoachThePerson #EmptyMindListening #ReflectiveCoaching #MasterCoachSkills #SimplicityOfMastery #AdvancedCoaching #CoachingPresence #EnergyCoaching #ProfessionalCoaching
-
-## Comments (7)
-
-### Bernard KUHL (Senior Transition & Interim Manager | Program Director | Chief Operating Officer (COO) | Executive Coach | Mentor)
-> Thanks Tony Latimer, MCC for sharing. As you always teach, it is never about the coach, it is always about the client.
-
-### Erika Behl (Customer Success | Client Experience | Problem solver, storyteller, and coach)
-> I love this approach, so much so, that I started offering calls just to deeply listen and hold space for people to hear themselves think.  It's hard to wrap your head around the fact that you don't have to ask a brilliant question, that deep presence alone can help someone unlock their own thoughts.
-
-### Birgitta Granstrom (ᛗ Humanize Humanity · ᛞ AI Pioneer in the Human Being Industry · ᛈ LifeSpider™ Coaching for the Weird Ones)
-> Totally agree, Tony Latimer, MCC The point is to get the client to where you brought them. Love that you are advocating for this!  I used to demonstrate the phenomena with “one-word coaching.” Those kind of breakthroughs are both more powerful and more fun because of their unpredictability. ( the fun for the coach is to see or feel the client's facial expressions;-)
-
-### Lynn Scott -  Executive Coach MCC (I coach thoughtful senior leaders to lead with authority, presence and greater impact. | ICF MCC Executive Coach | Creator, The Quiet Power Method™ | Bestselling Author, Leader Unlocked)
-> That's what great coaching looks like. 100%
-
-### Yelena Golubeva Energy Coach (Beyond Coaching | Spiritual & Energy Coach & Counselor | Metaphysician | 25+ years of experience | Corporate Well-Being)
-> This is exactly what I prefer to experience in my sessions with clients-provide them with the space, deep listening and feeling the energy.
-
-### Mukta Arya (Managing Director, Chief Human Resources Officer (APAC) at Societe Generale, Professional Certified Coach (PCC, ICF), with expertise in Talent Management, Diversity, Equity and Inclusion and People Engagement)
-> Thanks Tony Latimer, MCC for sharing. Very interesting perspective.
-
-### Don Rapley (TYC Transform Your Conversations, Managing Director and Founder, Facilitator, Executive Coach, ACLP Certified Trainer)
-> Beautifullly simple Tony! 😊 love it…
-

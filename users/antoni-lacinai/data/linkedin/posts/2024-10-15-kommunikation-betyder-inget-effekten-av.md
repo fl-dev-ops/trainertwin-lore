@@ -13,12 +13,3 @@ Inspelning av föreläsning om hur kommunikation och arbetsglädje kan stärka v
 
 Bästa hänget med bästa Charlotte Dunhoff  
 Tack för idag 😃👍🏻
-
-## Comments (2)
-
-### Thomas Otnes (Product developer and engineer)
-> Det var också en tanke....
-
-### Charlotte Dunhoff (Matchar rätt föreläsare / underhållare till ditt event 💕 booky)
-> 👊🏼💥 ett riktigt proffs är du! Verkligen! 💥
-

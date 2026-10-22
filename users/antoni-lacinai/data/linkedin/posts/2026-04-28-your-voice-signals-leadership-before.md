@@ -29,9 +29,3 @@ Great leaders train how they speak — not only what they say. Because they know
 
 Your voice is a leadership tool. 
 Do you use it well?
-
-## Comments (1)
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Viktiga grejer! För egen del är det pauseringen jag försöker jobba på, har en tendens att bli lite för ivrig. 😅
-

@@ -8,9 +8,3 @@ comments: 1
 
 Om tre minuter startar Tisdagsklubben på Clubhouse. Välkommen
 https://lnkd.in/d9WHjT6
-
-## Comments (1)
-
-### Marcus Sandberg (Säljare)
-> Vad spännande ❤️🙏
-

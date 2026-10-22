@@ -26,9 +26,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Representing Your Country Abroad as a Non-Native Professional #shorts
-
-## Transcript
-
 speaker_1: but like we had I remember we had the passport and also visa process and everything and that was quite um impressive thing for me like exciting because thats the first time that youve been going abroad like as a representative of your country So think about it and they say okay Ive been to lots of countries and I can speak three or four other languages and you say I speak uh English And then a little bit German maybe So but um that experience was also uh challenging and also quite nice uh because I remember having German classes that day uh throughout the year

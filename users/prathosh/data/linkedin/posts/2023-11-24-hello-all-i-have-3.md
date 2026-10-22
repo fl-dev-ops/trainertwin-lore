@@ -25,7 +25,3 @@ Please fill out this form if you are interested - https://lnkd.in/gyQ4Yf6v
 This is not for current students, as the positions require the candidates to have graduated. 
 
 #researchassociate #iisc #projectassistant #iisc
-
-### Shared Article: [Google Forms: Sign-in](https://forms.gle/ANQySYLzQU77tZx16)
-> forms.gle
-

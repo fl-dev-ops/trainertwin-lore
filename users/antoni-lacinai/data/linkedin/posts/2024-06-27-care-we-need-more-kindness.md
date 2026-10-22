@@ -52,19 +52,3 @@ Thank you for reading my mind
 Antoni Lacinai
 
 PS - which one of the tips do you want people to do? 1-7
-
-## Comments (4)
-
-### Daniela Landherr (Author of Everything is Working. Nothing is Moving. | Keynote Speaker | Trust. Leadership. Moving what’s stuck.)
-> Such a lovely reminder that by caring, our good deeds can have such a positive ripple effect ⭐
-
-### Per E Claesson (Senior consultant (Freelance))
-> ❤️4❤️
-> On my early morning walk in Sundbyberg, I some time ”chock” people by just say ”Good Morning” 🥰. But in 99% of the cases I’ll meet a surpriced but lovely Smile in their faces 🥰, with an ”Good Morning” back … ❤️
-
-### Elisabeth Loibl (✨ Jag hjälper VD:ar i startups, scaleups och ägarledda bolag i tillväxtfas att förverkliga sin ägarvision – genom starkare team och rätt stöd för dig som VD. ✨)
-> If I Have to choose, it will be no 1. Because that I can give to everyone 😃
-
-### Anna-Carin Öholm (Procurement Category Manager)
-> Well written! More kindness and care.
-

@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 08 Distribution Estimation
-
-## Transcript
-
 speaker_1: Hello everyone welcome to this session
 of the course
 In this particular session we will

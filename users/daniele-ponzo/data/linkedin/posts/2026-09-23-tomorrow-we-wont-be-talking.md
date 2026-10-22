@@ -77,13 +77,3 @@ Maybe even your own.
 
 Because the best events don't give you all the answers.
 They change the questions you're asking.
-
-## Comments (2)
-
-### Donna Maravillas (CELTA & TEFL Certified English Language Teacher, Speaking Examiner, Writer of two English Activity books for children, a Teacher Volunteer at Yazidi@School)
-> Will it be in English? Italian? Or both? Either way, I'm sure it's going to be enlightening and fun 😊!
-
-### Marilyn PAU AI  Curate IQ Lab (Empowering Brands with Data Strategy & Business Intelligence design.)
-> Nice conversation upcoming!
-> All the best..
-

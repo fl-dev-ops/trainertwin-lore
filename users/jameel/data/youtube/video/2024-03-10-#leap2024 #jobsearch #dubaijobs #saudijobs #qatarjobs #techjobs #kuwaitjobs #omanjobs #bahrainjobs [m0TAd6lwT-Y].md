@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #leap2024 #jobsearch #dubaijobs #saudijobs #qatarjobs #techjobs #kuwaitjobs #omanjobs #bahrainjobs
-
-
-## Transcript
-
 speaker_1: You know weve been hearing about smart cities for a very very long time The IoT and the smart city and the edge computing and all these you know 5G is going to you know transform the way we do work in our industries and so on and so forth Now its actually happening You know its been a lot of talk but now the real investments coming in from Saudis in this space with at least 19 smart cities globally If there are any countries where real investments in this is happening it is Qatar Saudi which is 10 times bigger than Qatar in terms of investments in terms of the smart cities and the scale and then you know UAE Oman Bahrain Kuwait so Middle East is extremely hot in this space at this point in time

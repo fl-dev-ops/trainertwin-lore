@@ -71,9 +71,3 @@ If you’d like all the details, send me a private message.
 hashtag
 
 #english #languageimprovement #opportunities
-
-## Comments (1)
-
-### Stephan K. (Turning Operational Chaos into Strategic Clarity | SAP Transformation & Process Excellence | LeanIX)
-> Your journey is incredibly inspiring! Transforming language barriers into a catalyst for growth is a powerful move. Keep pushing forward; your determination is your greatest asset. 🌟
-

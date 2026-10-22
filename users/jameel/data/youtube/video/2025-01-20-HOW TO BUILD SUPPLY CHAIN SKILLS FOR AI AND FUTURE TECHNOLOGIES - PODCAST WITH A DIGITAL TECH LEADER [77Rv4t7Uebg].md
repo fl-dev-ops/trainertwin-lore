@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# HOW TO BUILD SUPPLY CHAIN SKILLS FOR AI AND FUTURE TECHNOLOGIES - PODCAST WITH A DIGITAL TECH LEADER
-
-
-## Transcript
-
 speaker_1: AI is not going to take your job Someone using AI is going to take your job So the important thing about AI is to understand it is not one thing and then how will it how will you use it to make a difference AI is not a replacement for being an expert in your topic You still need to be an expert in your topic You need to know the organization that youre working with and what the little variables are that are going to trip up the AI So definitely get good at your job But if I were going to say one thing everybody could
 
 

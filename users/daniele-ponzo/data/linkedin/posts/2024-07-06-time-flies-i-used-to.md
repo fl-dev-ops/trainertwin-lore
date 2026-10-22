@@ -46,19 +46,3 @@ Am I the only one who can remember how this feels like?
 P.S. sure, you can't fit the man in your pocket...but wait for the next AI development😀!
 
 #technology #time #modern
-
-## Comments (4)
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Are you back in Dublin?
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> It was a simpler and more thrilling life in many ways Daniele! 
-> Amazing though when we stop to think about how far we have come in such a short space of time.
-
-### Tushar Sarkar (YouTube SEO & Channel Growth Specialist | 120+ Channels Monetized | 400+ Videos Ranked | Video SEO & Monetization Strategy)
-> Amazing!
-
-### Francesca Garofalo (Giornalista pubblicista freelance | Copywriter | Cacciatrice di storie)
-> Che post nostalgia, Daniele🥲 come dimenticare i VHS che si inceppavano e richiedevano un'attenzione meticolosa durante la registrazione! Che ricordi mi hai fatto venire
-

@@ -28,9 +28,3 @@ I am not a big fan of reorgs, having suffered through oh so many of them, but I 
 Reorgs can be a pain, but also very useful
 
 PS - which of the 7 questions resonates with you?
-
-## Comments (1)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Klockrena frågor som kräver sina svar. Bra frågor. Tack Antoni Lacinai
-

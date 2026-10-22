@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_we-are-all-superheroes-and-as-
 likes: 28
 comments: 9
 images_count: 1
+author_comments:
+- "\U0001F41EAny funny \"bugs\" story to share? I like to consider (wrong) pronunciation patterns as \"bugs\" in my job. They keep coming up, no matter the effort. \nLuckily we get to test a lot before \"going live\" \U0001F609"
 ---
 
 We are all superheroes🦸
@@ -44,22 +46,3 @@ Remember: "This Is The Fight Of Our Lives. And We're Going To Win. Whatever It T
 I’m curious: who are you in this story? 👇
 
 Image credit: Mart Virkus
-
-## Comments (5)
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> I'm the combination of the backend dev with the c++ dev... Say goodbye to your puny world... 🤣🤣🤣
-
-### Michał Choiński (AI Quality, Governance & Risk | Driving meaningful Change | IT Lead | Digital and Agile Transformation | Speaker | Trainer | DevOps ambassador)
-> A great (and painfully accurate) take on how different roles handle bugs! The real challenge isn’t just fixing them, but navigating the communication maze between teams while keeping the release on track. In my experience, the best ‘superpower’ is collaboration, bringing devs, QA, and management together to tackle issues efficiently.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🐞Any funny "bugs" story to share? I like to consider (wrong) pronunciation patterns as "bugs" in my job. They keep coming up, no matter the effort. 
-> Luckily we get to test a lot before "going live" 😉
-
-### Arslan Iqbal (Personal Brand Strategist | Helping Founders, CEOs & Executives Build Authority on LinkedIn & X | 250+ Personal Brands Helped)
-> Haha, this is so relatable, Daniele. The developer struggles are real.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Classic dev life! 😂
-

@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Only 28% feel heard at work — this is why engagement drops
-
-## Transcript
-
 speaker_1: This is a depressing number Only 28 percent of employees feel that their opinion matters
 
 

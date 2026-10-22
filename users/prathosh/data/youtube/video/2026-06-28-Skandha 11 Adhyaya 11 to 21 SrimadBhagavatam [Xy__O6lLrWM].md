@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 11 Adhyaya 11 to 21 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीभगवानुवाच
 बद्धो मुक्त इति ह्याख्या गुणतो मे न वस्तुतः
 गुणस्य माया मूलत्वान्न मे मोक्षो न बन्धनम्

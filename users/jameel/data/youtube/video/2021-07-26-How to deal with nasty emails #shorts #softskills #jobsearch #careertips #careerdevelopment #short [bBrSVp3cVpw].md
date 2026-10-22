@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# How to deal with nasty emails? #shorts #softskills #jobsearch #careertips #careerdevelopment #short
-
-## Transcript
-
 speaker_1: Have you received a nasty dont teach in collegel
 
 

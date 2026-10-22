@@ -27,7 +27,3 @@ Supply Chain Procurement Course - https://lnkd.in/gM6yacuY
 #scmcoach #storytelling #supplychain 
 
 https://lnkd.in/g23hj4TW
-
-### Shared Article: [LinkedIn Unveils Most In-Demand Jobs Skills in 2026](https://youtu.be/vMsVz12ga94?si=H6Qjc_ZXDLScqcYe)
-> youtube.com
-

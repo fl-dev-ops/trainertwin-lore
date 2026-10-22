@@ -11,7 +11,3 @@ article:
 ---
 
 8 levels of coaching mastery #coachtraining #coaching #PCC #MCC
-
-### Shared Article: [8 Levels of coaching mastery #coaching #coachtraining](https://youtube.com/shorts/dA6a026dRQ8?si=E55eVbCOmUXLthT_)
-> youtube.com
-

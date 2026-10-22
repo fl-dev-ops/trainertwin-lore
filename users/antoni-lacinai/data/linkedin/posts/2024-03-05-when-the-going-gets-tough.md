@@ -26,12 +26,3 @@ If you are a leader you have a chance to show some real empathy, clarity, and en
 Here are 5 ways to lead in times of change and Uncertainties
 
 ps - which of the 5 resonates with you?
-
-### Shared Document: [5 ways to lead in times of change and uncertainties]()
-
-
-## Comments (1)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Så mycket klokskap och värdefull läsning. Tack Antoni Lacinai
-

@@ -20,9 +20,3 @@ Overall, the scientific evidence suggests that practicing gratitude can have a r
 I am grateful for so many things. One of them is you, my dear network on LinkedIn. Thank you for 2022. Let’s make 2023 awesome!
 
 (Oh, by the way. Most of the text above were written by an ai-bot from open AI. I asked if there were evidence of gratitude and well-being. Amazing isn’t it?)
-
-## Comments (1)
-
-### Anders Lundin - Skickliggör (Att vi får använda våra styrkor. Att vi får vara med och påverka. Att vi får känna att vi bidrar till gruppen.)
-> Gott nytt år!! Du är en förebild på så många sätt! Du behövs överallt!!
-

@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 10 Adhyaya 92 to 105 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 दुर्योधनसुतां राजन् लक्षणां समितिं जयः
 स्वयंवरस्थामहरत्साम्बो जाम्बवतीसुतः

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Want a High‑Paying Manufacturing Supply Chain Career? Learn These Insider Tips from Andy Everitt!
-
-
-## Transcript
-
 speaker_1: But I dont think that a strict manufacturing sorry engineering background is critical It can be helpful right But I think its just another one of those things I mean youve got to deal with so many people in manufacturing to get stuff done that you know having that ability to communicate and collaborate is just as important or more important I think than a technical background Building a foundation and supply chain to understand the business allows you to do things and to connect with people and to explain things to folks at factories that
 
 

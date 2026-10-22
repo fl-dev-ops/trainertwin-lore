@@ -1,6 +1,6 @@
 ---
 id: 8LAKmtw0WvQ
-title: Lec 67 Variational Auto Encoders : VAEs
+title: "Lec 67 Variational Auto Encoders : VAEs"
 url: https://www.youtube.com/watch?v=8LAKmtw0WvQ
 date: '2026-04-16'
 duration: 42:05
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Lec 67 Variational Auto Encoders : VAEs
-
-## Transcript
 
 speaker_1: Yeah welcome
 We will continue our discussion on

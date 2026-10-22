@@ -23,7 +23,3 @@ Perhaps a similar approach can be adapted to predict the need for ventilators an
 Once again, thanks to my previous colleagues at Xerox Research.
 
 Manish Gupta, V. Ramgopal Rao, Dr Satish Prasad Rath, MD, Vaibhav Rajan, Sakyajit Bhattacharya
-
-### Shared Article: [US10607151B2 - Method and system for predicting admission of a human subject to a ward in a medical center - Google Patents](https://patents.google.com/patent/US10607151B2)
-> patents.google.com
-

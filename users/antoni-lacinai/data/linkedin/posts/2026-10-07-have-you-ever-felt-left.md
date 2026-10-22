@@ -41,14 +41,3 @@ What are your thoughts on this? Let us know
 
 
 𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘴𝘩𝘢𝘱𝘦𝘴 𝘣𝘦𝘩𝘢𝘷𝘪𝘰𝘳. 𝘉𝘦𝘩𝘢𝘷𝘪𝘰𝘳 𝘥𝘳𝘪𝘷𝘦𝘴 𝘳𝘦𝘴𝘶𝘭𝘵𝘴.
-
-## Comments (1)
-
-### Bob Strange (Making event planners look brilliant since 1996 | Founder The Closer Speakers’ Consultancy)
-> Spot on, Antoni.
-> The default reflex for many organisations is to throw pizza, Friday drinks, or games consoles at isolation and call it culture.
-> Superficial perks cannot fix structural isolation. People feel lonely at work when they feel invisible in their daily role, when contributions go unacknowledged, and when there is zero safety to speak candidly.
-> 
-> If someone feels excluded in meetings from Monday to Thursday, an awkward social mixer on Friday afternoon only highlights the divide.
-> What is the first operational habit a leader needs to change before booking another social event?
-

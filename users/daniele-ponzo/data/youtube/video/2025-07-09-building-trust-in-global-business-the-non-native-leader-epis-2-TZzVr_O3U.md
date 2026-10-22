@@ -36,11 +36,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Building Trust in Global Business | The Non Native Leader | Episode 28
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to a new episode of the non native leader my video podcast series where I explore stories of people who work internationally in NGOs Fintech IT uh finance art different different sectors different industries and they all have one thing in common They were born in non English speaking country And today I am really happy to have here with me Thomas Hoon Thomas hi how are you
 
 speaker_2: Hi Im fine How are you Danelli Very happy to on your show

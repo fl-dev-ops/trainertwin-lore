@@ -28,11 +28,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Turning Language Challenges into Career Advantages #shorts
-
-## Transcript
-
 speaker_1: And then we gathered up and we organized and we just build up a commission of the ideas like like a judge and we offered something we voted and that was that was quite a nice moment for me
 
 speaker_2: Democracy in action huh

@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# What Actually is a "Smart Port"? (It’s NOT What You Think) 🚢🏗️
-
-
-## Transcript
-
 speaker_1: So now there are many segments all the way from the ship docking onto the port so what route its taking How much time a ship is going to be offloaded depends upon a lot of key attributes and data How the containers are managed when they are offloaded and from the port operation how they are brought up to the last mine operator and from there onwards to the last mine operation So all of this operation clubbed together becomes a smart port It cannot be just a single segment

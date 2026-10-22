@@ -29,7 +29,3 @@ Imagine the entire database of Profitable Leadership® on tap to support you.
 Make 2025 the year of growth and confident leadership! 🎯
 
 #LeadershipDevelopment #PeopleManagers #AI #CoachingTools #Mentorship #aicoaching
-
-### Shared Article: [TonyLatimer.ai: AI-Powered on-demand Leadership Training](http://profitableleadership.com/ai2025)
-> profitableleadership.com
-

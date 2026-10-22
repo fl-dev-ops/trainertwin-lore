@@ -15,9 +15,3 @@ One of them:
 Communication is the electricity of an organization. Cut it off — and everything stops 
 
 Communication shapes behavior. Behavior drives results
-
-## Comments (1)
-
-### Freddie Guilmard (Keynote Speaker, Business Simplifier & Academic Implementor | Creator of HOP-iT™ | Helping leaders build cultures where people & performance thrive | Book me to speak👇)
-> Keep the communication flowing and watch everything come alive
-

@@ -22,15 +22,3 @@ Här svarar jag på frågor som
 - Bygger dina föreläsningar på forskning?
 
 Välkommen att höra av dig så kan vi prata mer
-
-## Comments (3)
-
-### Katarina Vinterskog (Sales Representative passionate about creating value and inspiring experiences at World of Volvo)
-> 👏 👏 👏
-
-### Charlotte Dunhoff (Matchar rätt föreläsare / underhållare till ditt event 💕 booky)
-> Star!
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Du är en stjärna på det du gör. Till glädje och nytta för alla som får nöjet att lyssna på dig.
-

@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_tech-womenintech-nonnativelead
 likes: 20
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQGiF3gI8DPIRQ/CeJzLyCnWNTcyKNA1Nkgr0E0uSjOy0MkAipmaYIqZWGCKGZuhiAEAqbEXXA?e=1793178000&v=beta&t=LG8RUG7Ifiuz7Rl3x9xCYolz46IVnMq3iIDQkiZ7LNc
+author_comments:
+- '📌 Here is the full episode: https://youtu.be/DQvGMnBGlO8?si=BdNAXi8yra2akHvr'
 ---
 
 How can you increase your impact as an engineer?
@@ -41,18 +43,3 @@ Explore my Youtube Channel for more.
 Follow ➡️Daniele
   
 #tech #WomenInTech #nonnativeleader #inspiration
-
-## Comments (4)
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> Yeah, learning how to understand tech terminology & at the same time teaching it is something challenging. But still so exiting.
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great clip Daniele Ponzo. The ability to explain complex things in simple terms is not only a great skill to have, but it's a sure sign that you deeply understand the topic yourself.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> On the first point Daniele I'd add that teaching also forces us to fully clarify (and understand) the concepts... in our head 😅
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Here is the full episode: https://youtu.be/DQvGMnBGlO8?si=BdNAXi8yra2akHvr
-

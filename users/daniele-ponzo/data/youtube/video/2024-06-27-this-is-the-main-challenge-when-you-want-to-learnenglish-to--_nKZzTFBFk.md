@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# This is the main #challenge when you want to #learnenglish to have an #internationalcareer
-
-## Transcript
-
 speaker_1: And the thing is that even though you learn English and you probably did the same Daniele in a school we all you know we all learn the basics of English but I think its very different once you actually do move to the country Its its a shock
 
 speaker_2: It is Yeah

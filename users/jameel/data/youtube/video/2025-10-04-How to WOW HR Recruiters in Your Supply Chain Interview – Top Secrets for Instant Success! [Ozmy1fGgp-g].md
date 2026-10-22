@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How to WOW HR Recruiters in Your Supply Chain Interview – Top Secrets for Instant Success!
-
-
-## Transcript
-
 speaker_1: you want foundational knowledge its going to help you feel more confident versus something like a certification that brings that but it also brings kind of this third party recognition of your accomplishment and something that you can kind of put on your resume that people understand i think its that carries a lot of weight if somebody knows what that is instead of you having to describe hey i took these classes and it taught me this i think theres kind of this understand culture um its typically earlier career or or looking to make a jump so id say kind of coming in wanting to kind of build that credibility that you might not have with
 
 

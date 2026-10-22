@@ -24,11 +24,6 @@ speakers:
   speaker_12: null
 ---
 
-
-# Competency 7. Evokes Awareness; How do you do it?
-
-## Transcript
-
 speaker_1: Go ahead Tony
 
 speaker_2: Perfect So how many breakout rooms did we end up with I think so What guys what do you think is going to be the best way for you to do this Do you want to key all your questions in or should we just go around the room and go to each group and say okay whats What do you want What do you want Im Im open to what you think is most efficient

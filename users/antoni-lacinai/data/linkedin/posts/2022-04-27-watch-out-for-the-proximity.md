@@ -23,14 +23,3 @@ How is it at your workplace?
 Yesterday I gave a keynote about hybrid leadership, saying that it has the potential of bringing the best of two worlds - if you do it right. 
 
 One of the many risks hybrid leaders face, is that they favor team member who are physically closer to them, regardless of wether they are the best match for the project or promotion etc.
-
-### Shared Article: [The gulf between workers and managers is growing, amid the return to office](https://www.fastcompany.com/90741173/the-gulf-between-workers-and-managers-is-growing-amid-the-return-to-office)
-> fastcompany.com
-
-
-## Comments (1)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Very interesting that in modern times that top management doesn’t see the added value of hybrid working together with traditional and that this gives them competitive advantages. Both in assessing and using resources efficient, plus attracting the right workforce. 
-> #efficientwork #attractingpeople
-

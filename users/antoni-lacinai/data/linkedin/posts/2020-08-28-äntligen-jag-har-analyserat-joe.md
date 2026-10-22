@@ -27,19 +27,3 @@ Jag har analyserat Joe Bidens kommunikationsförmåga under en tid och inte vari
 Det finns mer gott att säga men jag stannar där. Titta gärna själv. Till och med Fox news lovordade hans prestation!
 
 #retorik #kommunikation #presentation #biden
-
-### Shared Article: [Joe Biden Acceptance Speech at 2020 Democratic National Convention](https://bit.ly/3aZprf8)
-> youtube.com
-
-
-## Comments (3)
-
-### Clara.Shilan Hedayaty (Sektionschef)
-> Jätte bra tal men tyvärr dålig/låg ljud.
-
-### Johanna Donker (Senior Coach och Verksamhetsledare | Leder genom tillit, tydlighet och lagfokus | Stark i förändring och osäkerhet)
-> Bra analys Antoni👏🏼
-
-### Mikael Hermansson (Tedx-speaker / public speaker . Spreading the successful Swedish lconcept "GREJ OF THE DAY - Magic Micro lessons!")
-> Skills!👌
-

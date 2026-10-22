@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_youll-never-go-back-and-say-we
 likes: 39
 comments: 13
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQGkZ7PXEBB8Zw/mp4-720p-30fp-crf28/B4DZVQP6poHAB0-/0/1740808144507?e=1793178000&v=beta&t=nfwZiaTbT5qTyW5-a8cmFvnpfot5j05qXaEY4PQUifc
+author_comments:
+- 'For all spreadsheet lovers out there, I''ve made it! I''ve finally turned myself into an excel file:'
+- "The Language of Business: Ireland & Tech. \nWatch the full recording here: \n- https://www.youtube.com/watch?v=FCVglXOHrAY&t=9s\n- https://www.linkedin.com/events/thelanguageofbusiness-ireland-t7299750161117802496/theater/"
 ---
 
 “You’ll never go back and say: we had a fantastic Excel spreadsheet”
@@ -36,27 +39,3 @@ What you will remember are the experiences, the people and the connections you m
 
 P.S. If you couldn’t be with us yesterday, don’t worry.
 You can catch the recording on my YouTube Channel, link in the comments below 👇
-
-## Comments (6)
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> The discussion on idioms, corporate jargon, and small talk was both enlightening and fun.  Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> For all spreadsheet lovers out there, I've made it! I've finally turned myself into an excel file:
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> just yeasterday I saw a mug that said I love spreadsheets I mean who would buy that :)
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Sounds like an amazing event! Loved hearing about the unique Irish approach to small talk and the funny stories. Daniele Ponzo
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Sounds like an amazing session! Love how language and business culture blend together, especially with the unique Irish touch! Looking forward to checking out the recording. Thanks for sharing! 👏
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> The Language of Business: Ireland & Tech. 
-> Watch the full recording here: 
-> - https://www.youtube.com/watch?v=FCVglXOHrAY&t=9s
-> - https://www.linkedin.com/events/thelanguageofbusiness-ireland-t7299750161117802496/theater/
-

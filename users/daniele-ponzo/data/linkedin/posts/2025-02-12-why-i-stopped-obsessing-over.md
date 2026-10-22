@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_thenonnativeleader-careergrowt
 likes: 45
 comments: 10
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQGXxew_5o52vg/CeJxzMnGJCjExzYs0c092cdXVcULme6Lxk9H4kboAKskRcw?e=1793178000&v=beta&t=0DkbkF5pCe7Atap2Eo1YgFVrLPGvXYbA-9s1DraxihI
+author_comments:
+- Thanks for reposting Engr. Rana Hamza 🙏
+- '📌 The #1 Mistake That Holds Back Non-Native Professionals from Global Success: https://youtu.be/hob93Rw2k7U'
 ---
 
 Why I Stopped Obsessing Over Mistakes (And You Should Too!)
@@ -39,24 +42,3 @@ P.S. I love the way feedback can be the turning point and help us grow
 P.P.S. However, I truly believe that correcting a grammar mistake during a party is just plain rude…
 
 #TheNonNativeLeader #CareerGrowth #EnglishForWork #MistakesAreOK #GlobalSuccess
-
-## Comments (6)
-
-### Natan Mohart (Tech Entrepreneur | Sharing Insights on AI, Business & Personal Growth)
-> Totally agree! Mistakes are just proof you're trying. Let's chat about how they can fuel creativity.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Mistakes are part of the process. They’re how we learn and improve.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Engr. Rana Hamza 🙏
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Luther's story is a powerful reminder that growth often lies in embracing our mistakes and turning them into stepping stones. Daniele Ponzo
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Mistakes are part of the learning process! Luther's insights are spot on, communication is about clarity, not perfection. Great discussion on building confidence through practice!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 The #1 Mistake That Holds Back Non-Native Professionals from Global Success: https://youtu.be/hob93Rw2k7U
-

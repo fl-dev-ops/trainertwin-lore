@@ -68,9 +68,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️ Daniele
 
 #introvert #ITLeadership #CareerGrowth
-
-## Comments (1)
-
-### Vanessa Andrews (Associate Consultant)
-> ‘Confident introverts can set boundaries, and a big part, is being unafraid to say ‘no.’  Thank you for post today it had some great reminders.
-

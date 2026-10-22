@@ -26,15 +26,3 @@ https://lnkd.in/d_KJzeZ7
 What is your mission?
 
 (not written by AI)
-
-## Comments (2)
-
-### Linus Lancin (Improve team relations that increases productivity and reduces employee turnover || Provide the platform that uses appreciation to create business results and enhance your organisation)
-> I'd say that the good leader is not only good communicators, she is also good at creating a culture where the members of the group feel comfortable in communicating as well. Often, it goes hand in hand, but sometime we forget about all of the relationships where the leader in not directly involved.
-
-### Einārs Paass (Team Manager in Life Science | Helping new managers move from expert to leader | Leadership is an identity, not a promotion)
-> That is a great mission!
-> 
-> My own is to help new managers become confident leaders who create clarity, develop the people that they are trusted to lead, and build teams where people can thrive.
-> Too many great specialists are promoted into leadership and then left to figure it out on their own. That's something I want to change.
-

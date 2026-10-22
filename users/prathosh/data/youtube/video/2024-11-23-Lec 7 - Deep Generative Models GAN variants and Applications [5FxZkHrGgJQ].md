@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 7 - Deep Generative Models GAN variants and Applications
-
-## Transcript
-
 speaker_1: we begin the class today so i was waiting for some people to join see i i uh i hope that uh like the people who have joined today uh i see as 79 people so uh none of you are planning to drop the course right because the window for dropping the course is uh is going to close by tomorrow i think tomorrow day after tomorrow right
 
 speaker_2: Yes thats right

@@ -33,11 +33,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Build a STRONG NETWORK to EXCEL at work | The Non-Native Leader | Episode 11
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to another episode of The Non Native Leader a video podcast series where we explore the life of leaders of people who were not born in an English speaking country but they have achieved a success on the international stage If you follow the series uh youve seen weve been talking to leaders in Fintech NGOs politics uh academia and software engineering So broad spectrum of world leaders uh who have one thing in common None of them was born in an English speaking country If youre interested in the topic uh dont forget to subscribe to my channel Now today I have with me Francesco Petroni Hi Francesco
 
 speaker_2: Hi Daniele

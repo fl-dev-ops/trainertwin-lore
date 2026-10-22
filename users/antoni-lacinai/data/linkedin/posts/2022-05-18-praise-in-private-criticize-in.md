@@ -21,27 +21,3 @@ The reason for criticizing in public: If somebody is mean or rude toward their c
 How do you communicate in your workplace when it comes to feedback, praise and criticism?
 
 #leadership #communication #engagement
-
-### Shared Article: [Beröm i enrum - Kritisera i sällskap - Ledarskap - HRnytt](https://buff.ly/37D2cKN)
-> buff.ly
-
-
-## Comments (5)
-
-### Malin Sellin (Äger min tid och gör vad jag vill)
-> Tack Antoni Lacinai för ett nytt fräscht sett att se på detta. Klokt sagt att om man inte kommenterar ett dåligt beteende är det som att tyst sanktionera det. Väl värt att tänka på!
-
-### Dr. Wendy Lee, CSP, CBIP, CIC, ICDM (Certified BrandImage™ Consultant | Founder of BrandImage™ International Institute | President, VSAI | Certified Speaking Professional (CSP) | Executive Presence & Personal Branding Expert)
-> Hmmm... I was just about to criticise in private... 😅
-
-### krister svensson (Säljare & utbildare på FinxS Sverige | Ledarskap & prestation | Individuella samtal inom terapi och coaching | Hjälper dig att fatta tryggare beslut, sätta tydligare gränser och nå genuina resultat.)
-> Mycket tänkvärt tack
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Klokt tänkt av både dig och Åsa! Sen går det ju inte att kategoriskt säga att man alltid ska göra på det ena eller andra sättet. Det beror på, som vi beteendevetare gillar att säga. 😉
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Interesting! I like this very much and totally understand and agree with Åsa Lundquist Coey. 
-> How else shall all other employee see that you as a leader set the rules how to behave and act towards other and the company. This is one of the way to set the part of the culture. 
-> #walkthetalk
-

@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter10
-
-## Transcript
-
 speaker_1: अथ दशमोऽध्यायः
 विभूतियोगः
 श्रीभगवानुवाच

@@ -19,21 +19,3 @@ Här finns fem målmodeller, en ny formel för motivation, 13 motivationshöjare
 DMa mig din leveransadress och fakturaadress (eller om du vill Swisha).
 
 #mål #motivation #självledarskap #ledarskap #kommunikation
-
-## Comments (5)
-
-### Elisabeth Loibl (✨ Jag hjälper VD:ar i startups, scaleups och ägarledda bolag i tillväxtfas att förverkliga sin ägarvision – genom starkare team och rätt stöd för dig som VD. ✨)
-> Attans nu fick du mig att spendera pengar igen 😀
-
-### Tobias Nyberg (Specialist Digital post på Digg – Myndigheten för digital förvaltning)
-> Utmärkt! Klart man vill läsa den boken! 😃
-
-### Birgitta Sjöstrand (Conflict in hybrid teams costs hundreds of thousands. I teach managers to prevent it | Online programme (SE/EN) | Author, “Outstanding in the Middle”)
-> Jättebra bok!
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Den boken är perfekt ju!:)✨🌟✨
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> Rightly said, new GOALS, new strategies and more of HAPPY goals instead of SMART goals.
-

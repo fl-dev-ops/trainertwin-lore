@@ -35,15 +35,3 @@ Get your copy here:
 https://lnkd.in/diarux_e
 
 There is a way out of the Business English Jargon Jungle!
-
-## Comments (3)
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Clear explanations and real-life examples are exactly what we need to master business lingo. Daniele Ponzo
-
-### Francesca Garofalo (Giornalista pubblicista freelance | Copywriter | Cacciatrice di storie)
-> Grazie Daniele🙏
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Very helpful and funny :)
-

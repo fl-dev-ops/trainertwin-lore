@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# AI‑Enabled Supply Planning: Upskill Your Career Before It’s Too Late
-
-
-## Transcript
-
 speaker_1: there is always the scarcity of breakthrough thinking in our industry especially in planning because im you know planning is something which is very close to my heart uh and i still see that generally people are really stuck in that what i call is like the 1990s style of planning and so the more we can challenge the status quo the better
 
 speaker_2: You need to know the difference between a demand review and consensus meeting what the forecast value add is and why it matters So in my experience practitioners who skip this test use AI to accelerate a broken process Okay first what I have built is I used AI to be my DevOps engineer Im not using AI to be my supply chain planner

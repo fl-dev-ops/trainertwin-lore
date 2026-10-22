@@ -27,16 +27,3 @@ What can you as a leader or colleague do if you want to reduce loneliness in you
 • Make sure people are not eating alone (unless they want to)
 
 Let's CARE more. Our fellow human beings need it.
-
-### Shared Article: [After Employee Died at Her Desk, Union Slams Wells Fargo for Allegedly Ignoring Her: ‘Went Unnoticed’ for 4 Days](https://people.com/after-employee-died-at-desk-union-slams-wells-fargo-allegedly-ignoring-her-8718323)
-> people.com
-
-
-## Comments (2)
-
-### Andrea Moreau Folcker (Helping leaders build the leadership and organizational capability required to execute strategy and transformation. Executive Search • Leadership Consulting • AI Leadership)
-> Having common goals, working together on new projects, having regular check-ins, having fikas, learning new stuff and sharing with your colleagues, even if we all have our own roles we are connected to deliver value for each other and our customers and you can do all of the above remotely. Good or bad culture has NOTHING to do with location just bad culture and leadership.
-
-### Tinotenda M. (Biotechnology Graduate | Entrepreneur | Board Member, The Mentorship and Coaching Circle (TMCC) | Food Safety & Regulation Enthusiast | Championing Quality Standards & Skills Development)
-> Checking on workmates really goes a long way in boosting the morale of the company 💯
-

@@ -15,7 +15,3 @@ Earlier this month, Competition Bureau Canada agreed to investigate Lululemon fo
 I have been following this story for the last 4 years and in this article I have shared 3 key learnings from a Supply Chain point of view. 
 
 #supplychain #lululemon #greenwashing #canada
-
-### Shared Article: [3 Key Learnings for Supply Chain Strategists from the Lululemon "Be Planet" Campaign](https://www.linkedin.com/pulse/3-key-learnings-supply-chain-strategists-from-lululemon-jameel-hye-pzydc?trackingId=XAkDCzYrHywvSGnujhig1A%3D%3D)
-> Jameel Hye
-

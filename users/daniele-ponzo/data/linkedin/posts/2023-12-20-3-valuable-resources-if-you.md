@@ -43,15 +43,3 @@ Let me know!
 ____
 
 🚀 I help #itprofessionals Excel In Their #careers  By Communicating Confidently in #English
-
-## Comments (3)
-
-### Hal Walzer (Sr. Outreach Specialist III at Centauri Health Solutions)
-> Just curious... is the misspelled word in the graphic intentional (to grab our attention) or just an unfortunate typo?
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Wow, you have been so productive Daniele! Great resources!
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Amazing 👏
-

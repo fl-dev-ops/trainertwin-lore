@@ -18,11 +18,6 @@ speakers:
   speaker_7: null
 ---
 
-
-# How to Reactivate Old Off-plan Leads - Part 2
-
-## Transcript
-
 speaker_1: Okay
 
 speaker_2: Okay So Rashid what have you seen Youre on mute If youre talking we cannot hear you Okay Not sure Whom else do we have Who wants to role play first Nadia do you want to role play Kasai do you want to role play Everyone is very Hi Yes

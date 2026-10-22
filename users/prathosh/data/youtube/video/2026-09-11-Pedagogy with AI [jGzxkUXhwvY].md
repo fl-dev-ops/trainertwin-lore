@@ -11,10 +11,6 @@ speakers:
   speaker_1: null
 ---
 
-# Pedagogy with AI
-
-## Transcript
-
 speaker_1: So are you people uh following whats happening in the world
 
 

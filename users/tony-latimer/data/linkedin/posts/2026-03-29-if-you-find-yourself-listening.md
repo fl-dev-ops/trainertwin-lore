@@ -17,7 +17,3 @@ The answer is rarely technique. It’s perception, timing, and restraint.
 Those can be learned, but not rushed.
 
 Expression of interest open at https://lnkd.in/dCJT8prY
-
-### Shared Article: [The Simplicity of Mastery Level 3](http://profitableleadership.com/level3)
-> profitableleadership.com
-

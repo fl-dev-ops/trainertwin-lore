@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_the-thing-i-like-about-arthur-is
 likes: 4
 comments: 1
 images_count: 1
+author_comments:
+- Who knew? A sales conversation can be as easy as a coaching conversation
 ---
 
 The thing I like about Arthur is that he’s not presented as a hero.
@@ -13,9 +15,3 @@ He’s presented as a human being. He’s tired. He’s cynical. He’s bored. H
 
 And when he begins to change, it’s not through motivation. It’s through insight, the kind that only comes when you finally look at what you’ve been avoiding.
 Available on Amazon & Kindle
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Who knew? A sales conversation can be as easy as a coaching conversation
-

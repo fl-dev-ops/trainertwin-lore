@@ -31,11 +31,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Mindset Shift That Changed Her International Career #shorts
-
-## Transcript
-
 speaker_1: So first of all before moving making sure that you do a kind of a a thorough review of the place you were going to right Um to at least map the things that you may like or may not like But once you are there instead of focusing or putting your energy on what is not necessarily the way you expected shift that energy to be grateful to what you have conquered or to what you what you have
 
 

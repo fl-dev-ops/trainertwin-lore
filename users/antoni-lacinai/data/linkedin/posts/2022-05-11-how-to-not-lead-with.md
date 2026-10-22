@@ -23,21 +23,3 @@ And if you are the boss, you will communicate on a higher volume
 How do you do to lead by example? What are your blind spots/fruit baskets/business class tickets?
 
 #communication #engagement #leadership
-
-## Comments (5)
-
-### Lars Lengberg (Product Owner, Charging Services - Process and Digitalisation at Scania Group)
-> Not exactly the same thing, but I remember when someone at that same company decided it was a great idea to open a division all-employee meeting with a 5-min live performance by (half of) Rednex... Very surreal - and very poor judgment before bringing some important news to a large group of employees..
-
-### Eliot Freed (Live Marketing - Digital Events and Experiences at Ericsson)
-> What if Bert was one of us?:)
-
-### Anna Lindsjö (Senior Clinical Data Manager)
-> To common, been there too! It should be common sense here, but that don’t seem to applied that often. 😉
-
-### Jesper Ek (Transformerar chefer till energiskapande ledare | 180+ klienter | Ingenting börjar med resultat, allting börjar med människor | Skapare av EMPLAYMENT-metoden | Hjälper ledare bygga team-energi som driver resultat |)
-> Great exemple of what happens when you don’t walk the walk and talk the talk. It erodes trust and creates we and them mentalities that stops momentum. Thanks for sharing Antoni Lacinai
-
-### Sabine SATZINGER (🏆Change & Behavioral Design Architect | Entscheidungsqualität unter Change & AI | Leadership Transformation & Inclusive Culture Expert | Executive Sparring & Coaching | Keynotes | Interim Management People & Culture)
-> I remember. In 2001, I was right in the middle of it. Valid points Antoni.
-

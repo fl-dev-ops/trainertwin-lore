@@ -21,17 +21,3 @@ One thought for you all: Is servant leadership about serving your team or servin
 Thank you Lena for the inspiring meeting!
 
 #leadership #communication #engagement
-
-### Shared Article: [Communication and Leadership - The Servant Leader's Mindset Podcast](https://buff.ly/3KyIwGU)
-> buff.ly
-
-
-## Comments (2)
-
-### Thomas Hubbuch (Entrepreneur | Consultant | Speaker | Podcaster | Former Sugar CEO)
-> Fully agree, fascinating!
-> I use the servant leader picture in order to clarify to executives their most important “customers” are their people.
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Very interesting and giving! 👌
-

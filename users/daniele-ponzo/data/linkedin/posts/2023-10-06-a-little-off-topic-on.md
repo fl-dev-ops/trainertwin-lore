@@ -37,21 +37,3 @@ Hi, I'm Daniele. I post about language improvement, Tech and (occasionally) my p
 Follow ➡️ Daniele
 
 #weekend #artificialintelligence #cinema
-
-### Shared Document: [Humans and machines in films]()
-
-
-## Comments (4)
-
-### Elena Iseni (Head of marketing)
-> Can I suggest "The Thirteenth Floor"? It's not very famous film, but it's very interesting!
-
-### Vanessa Andrews (Associate Consultant)
-> I remember Robocop😆 my appreciation is with all the hard work in the making of those movies. Have an awesome movie weekend Daniele
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Not a film, but a book: just finished The Use of Weapons by Ian M. Banks - it's really amazing he predicted this future so many years ago in his Culture series!
-
-### Yuri Mariotti (Fractional CAIO @Fimer - AI Expert @TAG - Public Speaker)
-> Missing ex machina and transcendence, two of the coolest and most meaningful films about AI imho
-

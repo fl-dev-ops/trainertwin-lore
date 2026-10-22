@@ -19,7 +19,3 @@ Om du vill ha boken så kommer här en juklappsidé. För 200 spänn får du TV�
 DM'a mig så löser vi det.
 
 Tillsammans blir vi bättre. ^_^
-
-### Shared Article: [Lär dig nå dina mål och se till att ha kul på vägen med Antoni Lacinais bok](https://buff.ly/3lV2H6Q)
-> buff.ly
-

@@ -45,11 +45,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# GLOBAL BUSINESS STRATEGIST: How She Built an International Career (She Almost Went Back Home!)
-
-## Transcript
-
 speaker_1: And there is something Daniel that I learned in that particular experience that I carried with me until today which is we see the world the way we are and not the way the world actually is So when I was um feeling alone it was because I was seeing the world from my perspective and not necessarily allowing myself to see the world from the Colombians perspective Allowing yourself to adapt as you were mentioning before uh being open to the unknown which is very uncomfortable right Because we are constantly looking for comfort And stepping into the unknown its getting getting out of your comfort zone 100 percent
 
 speaker_2: You dont want to recruit to create a bubble really when you go and live abroad which is it might feel comfortable at the beginning but then ultimately it creates a it turns into a cage rather than a bubble So you have to be careful But at the same time youre playing with identity there right

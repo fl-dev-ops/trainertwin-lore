@@ -19,7 +19,3 @@ Häng med oss på måndag så får du konkreta tips för ditt distansledarskap
 Välkommen ^_^
 
 #virtuelltledarskap #ledapådistans
-
-### Shared Article: [Leda på Distans - webinar om virtuellt ledarskap | LinkedIn](https://www.linkedin.com/events/ledap-distans-webinaromvirtuell6726377572021743616/)
-> linkedin.com
-

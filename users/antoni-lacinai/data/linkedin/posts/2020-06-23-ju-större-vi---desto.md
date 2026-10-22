@@ -18,19 +18,3 @@ Hur gör ni för att ha ett stort VI?
 Är det lättare eller svårare idag när så många jobbar hemifrån?
 
 #ledarskap #kommunikation #motivation
-
-### Shared Article: [Vi och de](https://bit.ly/3cK0rYP)
-> bit.ly
-
-
-## Comments (3)
-
-### Maria Börjesson (Kvalificerad Controller ERTMS införande på Trafikverket)
-> Det gäller att börja med sig själv. Att själv vara  inkluderande och bidra till en inkluderande omgivning ✨
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Lika barn leka bäst? Eller olikhet främjar kreativitet? Svårt, vet inte vilken sanning som är bäst?🌟
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> På sitt sätt kan det vara lättare, då alla är i samma situation. Annars är bra saker att skapa ett VI, att redan vid rekrytering förklara värdeord och hur VI gör för att följa dessa (följs de inte är de värdelösa). Personer som då inte tycker detta är viktigt anställs inte. Det behöver inte vara dåliga personer men de passar lika lite in som en basketspelare i ett hockeylag. Några andra sätt att skapa VI är att göra roliga saker ihop, uppmuntra till skratt och glädje, berömma varandra och förstå att vi tillsammans är viktiga för framgång.
-

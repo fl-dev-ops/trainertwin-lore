@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 07 Adhyaya 9 to 15 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: नारद उवाच
 एवं सुरादयः सर्वे ब्रह्मरुद्रपुरःसराः
 नोपेतुमशकान्मन्युसङ्ग्रहं सुदुरासदम्

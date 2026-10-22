@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 07 IID Assumption
-
-## Transcript
-
 speaker_1: Welcome back What is this IID
 So this means that this is
 Okay

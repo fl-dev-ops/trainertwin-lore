@@ -55,11 +55,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to LEARN any LANGUAGE. #podcast #languagesuccess #english #nonnativeenglishspeaker
-
-## Transcript
-
 speaker_1: until it comes out of your ears uh exposure to the language to really get to that level And I think that for me like realizing how you can step change your ability in a language with that level of you know hard on like hardcore exposure to the language
 
 speaker_2: Yeah thats why you call like immersion So immerse yourself and thats it Yeah You even went on a boat to immerse yourself

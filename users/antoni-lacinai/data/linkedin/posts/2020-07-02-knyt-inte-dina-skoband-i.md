@@ -20,13 +20,3 @@ Det är så galet lätt att missförstå och misstolka situationer. Både för d
 Hur tydlig är du? Kan ditt beteende missuppfattas? Har du själv alltid rätt i din tolkning?
 
 #kommunikation #ledarskap # Virtuelltledarskap
-
-### Shared Article: [Misstolkar du situationer?](https://bit.ly/31sSpkU)
-> bit.ly
-
-
-## Comments (1)
-
-### Billy Brattås (Senior and retired D5Q)
-> och som göteborgare som älskar ordvitsar och associationer och får blixtsnabbt kopplingar till "hangups" gäller det att inte ha för bråttom och framförallt försöka jobba med förutfattade meningar. Och som alltid i relationer; Första intrycket varar över tid, kan svänga men brukar svänga tillbaka till första intrycket.
-

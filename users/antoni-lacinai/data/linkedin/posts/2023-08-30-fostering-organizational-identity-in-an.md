@@ -23,9 +23,3 @@ I am a guest today at the British Council's fireside chat, where we talk about t
 Remember, flexible work arrangements can enhance your organization's dynamism and global reach. By weaving your culture into these new ways of working, you build a resilient workforce that stays grounded in the essence of your brand. As leaders, let's guide the teams toward a future where flexibility and identity walk hand in hand. 
 
 #FlexibleWorkCulture #Leadership #OrganizationalIdentity
-
-## Comments (1)
-
-### Jasmine Goh, ChFC®/S (CoFounder of Asia Innovate Hub | Drives Tech & AI | Conscious Leadership | Women Empowerment | Drives Tech & AI | #1 Source of Keynote Speakers & Thought Leaders through USBI | 2X SEA Games Athlete)
-> Cannot wait to hear your insights later at the British Council Webinar!
-

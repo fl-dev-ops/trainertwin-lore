@@ -15,9 +15,3 @@ What have you learnt today? How did you learn today?
 ^_^
 
 #leadership #communication #engagement
-
-## Comments (1)
-
-### Dr. Wendy Lee, CSP, CBIP, CIC, ICDM (Certified BrandImage™ Consultant | Founder of BrandImage™ International Institute | President, VSAI | Certified Speaking Professional (CSP) | Executive Presence & Personal Branding Expert)
-> Hi Antoni, I just wanted you to know that...I saw you listen intently to a speaker the other day, when most of the people were not. And because you listened and you asked questions after that,  it made whoever was speaking felt heard...you warmed the speaker up, you warmed the whole session up...I just wanted you to know that....THAT is what made you really special Antoni. Thank you. :)
-

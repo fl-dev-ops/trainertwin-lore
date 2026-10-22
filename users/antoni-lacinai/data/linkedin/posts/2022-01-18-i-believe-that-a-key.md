@@ -16,12 +16,3 @@ Here is a simple question you can ask. If you don't have an answer, you don't ha
 #leadership #communication #engagement
 
 * Oh, they need to be meaningful too. And attractive. And challenging.
-
-## Comments (2)
-
-### Joakim Persson (Avdelningschef - Sigma Industry South AB - Växjö)
-> Så självklart enkelt, tack!
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Yes, that is what I have noticed too, Antoni. And, it is a shame, since we miss a great opportunity to get our work done in an easier way if we lack clear goals! Thanks for shining a light on this issue!
-

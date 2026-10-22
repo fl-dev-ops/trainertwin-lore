@@ -17,12 +17,3 @@ it's about a half hour. Listen in and ask: "What's in it for me?"
 
 Here is the link:
 https://lnkd.in/dWpzvTxE
-
-## Comments (2)
-
-### Helen Honisett (Human performance isn’t separate from business performance. It is one of the things that creates it. I get Humans Performing so the Business can too.)
-> It was such fun chatting especially how you are so human about your mistakes and successes!
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Självklart ska jag lyssna! Tack för tipset Antoni Lacinai.
-

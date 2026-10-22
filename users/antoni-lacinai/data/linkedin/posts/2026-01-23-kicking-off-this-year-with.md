@@ -12,9 +12,3 @@ Kicking off this year with a closing keynote for a great company in the real est
 My message is in line with another great company’s slogan: “Together to get there”
 
 Stay awesome!
-
-## Comments (1)
-
-### Willem Gous (Safely transition from corporate into your own business. Leave on your terms, before they decide for you. | Startup Coach of the Year Africa 2025 | Thinkers360 Top 50 Thought Leader in Careers | 3 x Author | Int. Speaker)
-> I am sure it went very well Antoni Lacinai
-

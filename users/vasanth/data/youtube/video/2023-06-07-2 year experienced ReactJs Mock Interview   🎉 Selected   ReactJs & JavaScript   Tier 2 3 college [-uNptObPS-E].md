@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# 2 year experienced ReactJs Mock Interview | 🎉 Selected | ReactJs & JavaScript | Tier 2/3 college
-
-
-## Transcript
-
 speaker_1: yeah hello all welcome back to uncommon geeks my name is vasanth i hope youre all doing well so in this specific video im going to do a mock interview of amit so amit is having two years of experience into front end development you will be hearing more about him from himself so this specific video is targeted to everyone whoever is in the interview preparation and you are also expecting a mock interview the good way to get a good use of this video is like every time after i ask a question you can pause the video and you can also try to answer then you can see what amit is answering so that you get an idea whether you are answering right or not
 
 

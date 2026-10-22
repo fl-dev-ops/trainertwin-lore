@@ -1,6 +1,6 @@
 ---
 id: 0wd-LIzzfM0
-title: Tutorial 14 Part 1 : CNNs
+title: "Tutorial 14 Part 1 : CNNs"
 url: https://www.youtube.com/watch?v=0wd-LIzzfM0
 date: '2026-03-20'
 duration: 33:52
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 14 Part 1 : CNNs
-
-## Transcript
 
 speaker_1: Hello all
 welcome to this tutorial

@@ -33,7 +33,3 @@ Looking forward to sharing a few ideas with everyone.
 UPDATE - Here is the registration link - https://lnkd.in/gEFgjERc
 
 Indian Institute of Science (IISc) Chair ECE EECS @ IISc, Bengaluru NPTEL NPTEL IIT Madras #aiml #iisc
-
-### Shared Article: [Mathematical Foundations of Machine Learning (Intro)](https://youtu.be/vbs9WGWjS9U?si=M-h4epYpSXoObisA)
-> youtube.com
-

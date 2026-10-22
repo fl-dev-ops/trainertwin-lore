@@ -8,6 +8,8 @@ article:
   title: 7 Reasons Why You’re Not Progressing in English (And How to Fix It)
   subtitle: Daniele Ponzo
   link: https://www.linkedin.com/pulse/7-reasons-why-youre-progressing-english-how-fix-daniele-ponzo-vg0qf?trackingId=aTlVA9G74j7e3%2FHzcqAB4Q%3D%3D
+author_comments:
+- '➡️ How to get noticed at work: https://www.linkedin.com/posts/daniele-ponzo_when-i-first-met-carmen-she-was-afraid-to-activity-7313800641657606145-1fa3'
 ---
 
 IT professionals, if you're stuck in English, this one’s for you.
@@ -31,28 +33,3 @@ As simple and as effective as a 𝗛.𝗔.𝗖.𝗞.
 Check out the full article here 👇
 
 #EnglishForIT #CommunicationSkills #ProfessionalGrowth
-
-### Shared Article: [7 Reasons Why You’re Not Progressing in English (And How to Fix It)](https://www.linkedin.com/pulse/7-reasons-why-youre-progressing-english-how-fix-daniele-ponzo-vg0qf?trackingId=aTlVA9G74j7e3%2FHzcqAB4Q%3D%3D)
-> Daniele Ponzo
-
-
-## Comments (6)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ How to get noticed at work: https://www.linkedin.com/posts/daniele-ponzo_when-i-first-met-carmen-she-was-afraid-to-activity-7313800641657606145-1fa3
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Great insight! IT professionals often focus on tech skills but forget that communication is just as crucial.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Daniele Ponzo Speaking well is just as crucial as writing clean code.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Great topic! 🔥 So relatable for many in tech. Loved the clear breakdown, practical and motivating!
-
-### Olli Kulkki (I turn ambiguity into direction through creativity, problem-solving, and rigorous testing.)
-> Good insight  ✨️ thank you for sharing
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Thanks for sharing, Daniele
-

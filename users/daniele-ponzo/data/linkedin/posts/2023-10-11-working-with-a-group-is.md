@@ -45,13 +45,3 @@ So, if you want to know how I can support you, send me a private message.
 And I’ll give you all the details. 
 
 #itprofessionals #english #languageimprovement
-
-## Comments (2)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Nice. Always makes us feel good to get that type of feedback
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Interesting Daniele Ponzo. I've been looking at this very same question today in my post. 
-> I like the idea of mini groups. I certainly limit my groups to 8 people and usually there are 3-6 in the group at any one time.
-

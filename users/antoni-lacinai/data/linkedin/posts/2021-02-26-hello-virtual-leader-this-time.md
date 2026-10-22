@@ -17,15 +17,3 @@ This time I am interviewing Utkarsha Mehta, who only recently finished universit
 The interview is 23 minutes. Enjoy
 
 #virtualleadership #remoteleadership #leadership #communication
-
-### Shared Article: [Virtual leadership interview with Utkarsha Mehta from India](https://buff.ly/2ZDIvuz)
-> vimeo.com
-
-
-## Comments (1)
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> The questions you asked were self reflecting and gave a more clear view of what i should do and not do. And first on the list is not to look at screen but in the small black hole if camera lens!! To create an ambiance of eye contact. Place camera at eye level and bit far such that upper half is visible to understand body language and be more interactive.
-> 
-> Also, need to figure out a way inorder to channelize with team anyhow (without camera) and develop an engaging ambience!
-

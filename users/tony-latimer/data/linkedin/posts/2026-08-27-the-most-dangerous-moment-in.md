@@ -24,20 +24,3 @@ Where does your session presence sit right now?
 
 I built a quick self-assessment benchmarked against ICF competencies and MCC behaviours to help you audit your real-time practice:
 🔗 Take the Coaching Mastery Profile: https://lnkd.in/ggTYg4MK
-
-### Shared Article: [How Close Is Your Coaching to Mastery? | Free 7-Minute Profile](https://coachingmasteryprofile.scoreapp.com)
-> coachingmasteryprofile.scoreapp.com
-
-
-## Comments (2)
-
-### Amy Mills, PhD, PCC (Identify and nurture transformational leaders | Coach to full potential | Advocate for family and community ~ furry & otherwise | Senior Client Partner, NuBrick Partners | “Lift as you climb“ - Terrell)
-> So true!
-
-### Talha Hanif (Content ∞ Business development coach for Executive coaches.)
-> Great coaches are great listeners.
-> 
-> period 
-> 
-> Tony Latimer
-

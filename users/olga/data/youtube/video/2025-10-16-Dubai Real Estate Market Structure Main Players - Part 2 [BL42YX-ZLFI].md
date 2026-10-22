@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Dubai Real Estate Market Structure Main Players - Part 2
-
-## Transcript
-
 speaker_1: Developer Fantastic guys Whats the good about the developer Working with the developer as a developer sales representative relationship manager Salary Yay How much are they paying
 
 speaker_2: Eight thousand

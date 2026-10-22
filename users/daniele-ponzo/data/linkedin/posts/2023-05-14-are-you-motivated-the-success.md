@@ -31,9 +31,3 @@ Together, we can create a world where the pursuit of language proficiency become
 Thanks Szilvia Olah for sharing this!
 
 #BusinessEnglishCoaching #IntrinsicMotivation #LanguageLearningJourney #CoachingPrograms #TransformativeExperience
-
-## Comments (1)
-
-### 🤷🏻‍♀️ Szilvia Olah (Talent Management | Award Winning HR Solutions | Organisational Psychologist | Two Published Books | The Contrarian HR Podcast)
-> Thank you for sharing!!!
-

@@ -32,11 +32,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Every New Country Forces You to Reinvent Yourself #shorts
-
-## Transcript
-
 speaker_1: I was someone coming from outside leading a very a transformational project that by itself creates a lot of discomfort And trying to impose my Colombian or my Brazilian way was not the best
 
 speaker_2: No It wouldnt work

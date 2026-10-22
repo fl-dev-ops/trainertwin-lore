@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_many-programmes-promise-to-help-
 likes: 6
 comments: 1
 images_count: 1
+author_comments:
+- profitableleadership.com/level3
 ---
 
 Many programmes promise to help you get MCC. Few tell you what you have to give up to coach at that level.
@@ -15,9 +17,3 @@ Simplicity of Mastery™ Level 3 exists to help coaches notice and release those
 
 Level 3 expressions of interest are now open.
 International Coaching Federation
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/level3
-

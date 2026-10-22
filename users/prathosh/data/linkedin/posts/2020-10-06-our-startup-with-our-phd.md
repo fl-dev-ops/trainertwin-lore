@@ -17,7 +17,3 @@ https://lnkd.in/gG3ik7h
 We ( https://cogniable.tech/)  are striving to build machine learning driven assistive technology for early detection and affordable treatment of Autism Spectrum Disorder. #machinelearning #deeplearning #iitdelhi #startup #edtech #ai 
 
 Manu Kohli V. Ramgopal Rao ANIL WALI
-
-### Shared Article: [RAISE 2020: Meet the winners of India’s biggest AI Solution Challenge for Indian startups](https://yourstory.com/2020/10/raise2020-meet-winners-ai-solution-challenge-indian-startups)
-> yourstory.com
-

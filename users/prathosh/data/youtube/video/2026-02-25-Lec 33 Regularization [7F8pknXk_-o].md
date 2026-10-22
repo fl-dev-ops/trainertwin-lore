@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 33 Regularization
-
-## Transcript
-
 speaker_1: So welcome everyone So in todays
 lecture we will continue uh our
 discussion on the bias variance

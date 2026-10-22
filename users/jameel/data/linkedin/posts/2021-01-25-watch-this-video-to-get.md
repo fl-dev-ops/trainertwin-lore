@@ -14,7 +14,3 @@ Watch this video to get some KILLER tips for your next presentation!
 #presentationskills #presentationdevelopment #softskillscoaching #presentations #presentationtips 
 
 https://lnkd.in/gZ3Fy66
-
-### Shared Article: [How to make a KILLER Presentation?](https://youtu.be/aaxpJDL-RCk)
-> youtu.be
-

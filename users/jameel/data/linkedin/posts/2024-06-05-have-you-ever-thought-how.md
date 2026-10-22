@@ -11,7 +11,3 @@ article:
 ---
 
 Have you ever thought how some concepts of Game Theory can be applied in Supply Chain? Here is an interesting read in this topic….
-
-### Shared Article: [What strategies from game theory can you use in managing supply chains?](https://www.linkedin.com/advice/1/what-strategies-from-game-theory-can-you-use-kv1sf?trackingId=FChVZG1cUy1mEZmFN442%2Fw%3D%3D)
-> Business Strategy
-

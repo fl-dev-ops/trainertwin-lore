@@ -15,9 +15,3 @@ I am offering six 45-minute coaching sessions, one to one, in return for a minim
 The booking website is now ⭐️ live⭐️ - it’s first come first serve! 
 Visit https://lnkd.in/dirW3VCM
  and type my name in the search bar to book with me.
-
-## Comments (1)
-
-### Elin Mai (I help $1M+ founders become as magnetic as they are brilliant. Inside out. | Former-CEO, 22+ years | 12K+ leaders transformed.)
-> Wonderful 🙏
-

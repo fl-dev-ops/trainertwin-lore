@@ -23,21 +23,3 @@ Now, let’s keep innovating, collaborating and grow in every sustainable way. A
 
 Happy 500 years Sweden. 
 Thank you!
-
-## Comments (5)
-
-### Anna-Carin Öholm (Procurement Category Manager)
-> Fint och bra uttryckt 🇸🇪☀️💙💛500 år av global inkludering OÄB
-
-### Pia-Lena Lindstrand (Teacher på Torslanda kommun skolor)
-> Tacksamhet är så viktigt i vår samtid. Tack för att du delar😊🌿🌷💚
-
-### Ergin Özdemir (Diversity Advocate | 2x TEDx Speaker | Interim CIO | Member at AI Agenda for Sweden)
-> Well put 👍🤗🌞
-
-### Hansi Robertsson (Registrerad fastighetsmäklare, Franchisetagare, Värderingsman, Certifierad Nyproduktion. Ring mig på 0734009815)
-> Mycket fint skrivet av dig!
-
-### Thomas Erikson (International Keynote Speaker | Helping Leaders Reduce the Cost of Misunderstanding | 12M+ Books Sold | Leadership, Communication & Human Behaviour)
-> Hear, hear! (And chear!) 😃
-

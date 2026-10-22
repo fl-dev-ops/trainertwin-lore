@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter11
-
-## Transcript
-
 speaker_1: अथ एकादशोऽध्यायः
 विश्वरूपदर्शनयोगः
 अर्जुन उवाच

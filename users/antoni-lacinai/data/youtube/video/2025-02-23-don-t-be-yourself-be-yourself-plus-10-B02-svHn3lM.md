@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Don't be yourself! Be yourself plus 10%
-
-## Transcript
-
 speaker_1: Dont be yourself Absolutely not I am myself when Im grumpy irritated tired angry Is that what I want to show to my colleagues and my customers No So what I say to them is fine be your authentic self plus 10 percent Bring your A game when you meet people Or like one of my students says its about how you show up How do you show up when you meet a colleague when you meet a customer or a partner or someone else Dont be yourself be yourself plus 10 percent

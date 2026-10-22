@@ -21,19 +21,3 @@ Kommunikation → Beteende → Resultat
 Vill du ha resultat? Ändra beteendet. Hur? Förbättra din kommunikation. Då kommer både arbetsglädjen och samarbetsglädjen att vara motorn som driver beteende och resultat. 
 
 Så tänker jag. Hur tänker du?
-
-## Comments (4)
-
-### Susanne ❤️Sussie❤️ A. (Head of Unit / Enhetschef, Vård och omsorgsförvaltningen)
-> ⭐️🙌💙
-
-### Per E Claesson (Senior consultant (Freelance))
-> Heeelt rätt Antoni! 💯%!
-> Arbetsglädje / Samarbetsglädje => två vitt skilda ting 👍
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> Svårt för oss egen företagare ;-)Intressant perspektiv, fast jag ser det inte som antingen eller, utan både ock.
-
-### Tommy Lundberg (Föreläsare, författare och företagare med ledarskap och medarbetarengagemang i fokus.)
-> Ring Svenska Akademien på stört! Samarbetsglädje ska in i SAOL mellan samarbetsförmåga och samarbetsgrupp. 😊
-

@@ -12,12 +12,3 @@ Too good not to share.
 Have a great weekend everyone!
 
 #weekend #softwaredevelopers
-
-## Comments (2)
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Love the graphics! 😇
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> I shouldn't get this joke, but I do Daniele Ponzo 😂
-

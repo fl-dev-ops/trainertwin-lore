@@ -32,11 +32,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The POWER of LANGUAGE to work internationally | The Non-Native Leader | Episode 8
-
-## Transcript
-
 speaker_1: Hey everyone and welcome to another episode of the non native leader a video podcast series where we talk to people about their challenging their stories their feelings uh about having international careers And the thing is all these people were not born in an English speaking country And and so that makes their stories I think more interesting and uh yeah So if you follow the series youve seen we talk to people from different backgrounds different industries And today I have with me David Pavon from uh from France but uh not based in France at the moment but yeah as I said I dont want to spoil it and Im sure hes going to tell us all about it So David first of all welcome Its a pleasure to have you here And yeah so if you want to tell us a bit about well we know your name but what you do where you are
 
 speaker_2: Well thank you thank you Daniele Uh thank you everyone whos uh whos listening Im uh Im very very happy to have the the the chance actually to share share my experience Uh you know as you will notice Im a tiny bit French right Probably uh you can hear actually with uh with the accent And uh and the the the whole idea uh I believe is that if you can get a a bit of um Id say view of my journey uh and and I think I I I will take about uh I will I will talk about actually the good and the thing that actually scared me a bit at time Uh thats thats something that that really Im Im actually very excited to to share today Thats thats it

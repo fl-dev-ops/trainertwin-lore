@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter12
-
-## Transcript
-
 speaker_1: अथ द्वादशोऽध्यायः भक्तियोगः
 अर्जुन उवाच
 एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते

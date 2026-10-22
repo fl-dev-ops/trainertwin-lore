@@ -12,7 +12,3 @@ article:
 
 Sveriges kommunikatörer rekommenderar den här boken till alla sina följare. 
 Du som har möten i din arbetsvardag: Den här är för dig
-
-### Shared Article: [12 talares tankar om möten - Antoni Lacinai](https://buff.ly/2Ngwg4Q)
-> buff.ly
-

@@ -43,9 +43,3 @@ If you’d like all the details, send me a private message.📨
 Now it’s the right time if you want to be ready in September.
 
 #itprofessionals #english #communication
-
-## Comments (1)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Absolutely, Daniele! We learn so much from our students. It's what makes coaching such a rewarding job! And wow - the feedback you've received speaks for itself. Keep up the amazing work man! You're making a difference!
-

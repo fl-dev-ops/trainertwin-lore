@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Brazil to Israel What Change Really Teaches You #shorts
-
-## Transcript
-
 speaker_1: the turning point of course is the the moment that I I I left Brazil to Israel
 
 

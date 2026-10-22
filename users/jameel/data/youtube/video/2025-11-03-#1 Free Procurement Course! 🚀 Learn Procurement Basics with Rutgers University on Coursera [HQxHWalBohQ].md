@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #1 Free Procurement Course! 🚀 Learn Procurement Basics with Rutgers University on Coursera
-
-
-## Transcript
-
 speaker_1: And finally on number one Ive got a course offered by Rutgers University Rutgers University is one of the leading universities in the US Its based out of New Jersey And theyve got a course available on Coursera which is called Procurement Basics Now what this course covers is topics like procurement definitions importance of procurement procurement processes direct and indirect procurement Now this is a very important concept that you need to understand as well as a procurement professional because there are certain things you are buying directly there are certain things you are buying indirectly and there is a pretty significant difference and then finally this course also talks about stakeholder management and because this course is offered by Rutgers University you can also showcase it on your LinkedIn profile and on your resume

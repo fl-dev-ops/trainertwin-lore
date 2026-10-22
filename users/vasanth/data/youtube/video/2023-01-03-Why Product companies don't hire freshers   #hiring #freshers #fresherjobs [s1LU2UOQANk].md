@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Product companies don't hire freshers ?? #hiring #freshers #fresherjobs
-
-
-## Transcript
-
 speaker_1: I dont know
 
 speaker_2: Hello all welcome back to Uncommonly My name is Vasanth So I know youre a fresher You want to get into our top product companies like Amazon Google Flipkart Myntra etc But let me tell you in hard reality the number of openings for a fresher in these companies is less than 5 percent The reason for that is very simple The product is something what they sell for the customer and they want the product to be a top notch They dont want to hire some random guy who can introduce bugs on problems into the existing product So if you want to get into these product companies being a fresher one simplest way you should be part of premium company I know you might

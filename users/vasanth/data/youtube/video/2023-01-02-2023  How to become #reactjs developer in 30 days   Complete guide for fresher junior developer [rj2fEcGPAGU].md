@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 2023 |How to become #reactjs developer in 30 days | Complete guide for fresher/junior developer
-
-
-## Transcript
-
 speaker_1: One of the very important aspect of JavaScript is JavaScript is not a language like you think If you are from a C C plus plus Java background their things work the way you think But JavaScript is not like that JavaScript is a single threaded interpreted programming My simple advice spend at least good to 10 days just for the React days Okay First five days you understand the basics by watching Code Evolution channel Next five days you start making Oh welcome back to Uncommon Geeks Myself Asant I hope you are all doing well In case if you are seeing me first time on the internet I am a content creator I am
 
 speaker_2: Oh

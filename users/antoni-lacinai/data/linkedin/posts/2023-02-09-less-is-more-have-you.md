@@ -35,28 +35,3 @@ Hej vänner. Här är min senaste krönika i HRnytt där jag uppmanar alla och e
 #leadership #communication #presentation
 
 ps - It's probably a myth that mr Hemingway actually did this, but it is good story ^_^
-
-### Shared Article: [Hur är du när du presenterar? - Ledarskap - HRnytt](https://buff.ly/3Xc4aFt)
-> hrnytt.se
-
-
-## Comments (6)
-
-### Steve Lowell, CSP (Turning Talks Into High-Ticket Clients & Revenue | The Profitable Speaking System™ | For CEOs, Consultants, Coaches & Leaders)
-> I believe that simplification is the deepest form of thought.
-
-### Steve Bustin (The 'Go-To' event compere and top public speaking coach, helping you to Get Your Voice Heard)
-> Writing and speaking succinctly takes more work than just launching into longueurse - as the quote (roughly) goes - ‘I would have written you a shorter letter but I didn’t have time’. Less is definitely more - but it takes more effort to do well.
-
-### Katja Schleicher (Public & Corporate Speaking Coach / Conversational Intelligence / Moderator/ supports executives to communicate with clarity & power in KeyNotes/ Corporate Town Halls/ Media Interviews/ ENGLISH/ DEUTSCH/ NEDERLANDS)
-> best and saddest story ever told.
-
-### Chantelle Botha (The Choice Catalyst | International Keynote Speaker & Executive Coach | Conscious choice for life and leadership that feels as good as it looks)
-> Wow!
-
-### Jesper Ek (Transformerar chefer till energiskapande ledare | 180+ klienter | Ingenting börjar med resultat, allting börjar med människor | Skapare av EMPLAYMENT-metoden | Hjälper ledare bygga team-energi som driver resultat |)
-> Kloka tankar Antoni Lacinai
-
-### Maria Kardborn (People, Culture, Communication & Coach @ Prasinum)
-> Så sant Antoni! Något att verklige sträva efter.
-

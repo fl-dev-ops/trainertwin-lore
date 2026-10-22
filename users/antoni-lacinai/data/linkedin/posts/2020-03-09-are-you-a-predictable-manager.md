@@ -21,13 +21,3 @@ The problem is if you are a mood swinger or if your behavior changes every time 
 There are some additional thoughts in the article. Do you agree?
 
 #communication #leadership #engagement #keynote
-
-### Shared Article: [The Curse of Having an Unpredictable Manager](https://www.linkedin.com/pulse/curse-having-unpredictable-manager-antoni-lacinai)
-> Antoni Lacinai on LinkedIn  
-
-
-## Comments (1)
-
-### Henrik Perrin (Utbilning och stöd i Svåra samtal och Stressreducering.)
-> Jag brukar säga att det som chef och kollega är bättre att vara ett konsekvent arsle än ett oförutsägbart. För då kan vi andra i a f vara förberedda. 😁 Se det som ett lägsta krav.
-

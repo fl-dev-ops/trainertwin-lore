@@ -19,9 +19,3 @@ Whether you're a C-suite executive at a global enterprise, a budding entrepreneu
 This isn't generic advice; it's a bespoke experience, fine-tuned for you.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Hassan N. Khan, MBA (Founder | Leads Genie)
-> Tony, It's about more than just advice—it's about crafting a bespoke experience that resonates with others journey.
-

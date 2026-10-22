@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Understand Different English Accents at Work #shorts
-
-## Transcript
-
 speaker_1: sometimes its its its really hard to understand them uh um if you for example people from India they have a really specific sound to their English And sometimes its really hard to understand the different dialects that people speak
 
 speaker_2: Yeah And thats the beauty of it I suppose So

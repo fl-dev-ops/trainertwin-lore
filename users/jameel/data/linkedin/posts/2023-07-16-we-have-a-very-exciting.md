@@ -15,7 +15,3 @@ We have a very exciting opportunity for an experience Industrial Engineer to joi
 please share with your talented friends that are looking for their next challenge!
 
 https://lnkd.in/ewSdTMFy
-
-### Shared Article: [Industrial Engineer Manager](https://mars.wd3.myworkdayjobs.com/External/job/USA-Tennessee-Lebanon/Industrial-Engineer-Manager_R66673)
-> mars.wd3.myworkdayjobs.com
-

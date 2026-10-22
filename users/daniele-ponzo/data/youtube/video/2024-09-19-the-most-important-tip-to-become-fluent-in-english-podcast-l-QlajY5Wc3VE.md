@@ -55,11 +55,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Most Important TIP to become FLUENT in ENGLISH. #podcast #language #nonnativeenglishspeaker
-
-## Transcript
-
 speaker_1: your pride at the door hang it on the on the on the wardrobe forget your pride and be absolutely ignorant wide eyed thinking oh my God its remarkable how little I understand
 
 speaker_2: Yeah

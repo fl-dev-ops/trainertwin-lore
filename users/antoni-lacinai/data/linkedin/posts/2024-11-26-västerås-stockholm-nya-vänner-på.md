@@ -25,16 +25,3 @@ Oavsett om du kommer eller inte så bjuder jag här på poddavsnittet med Föret
 Något för dig som cyklar, springer, åker buss eller bil och som vill få med nya tankar. 
 
 Tack Lotta Roth och Kerstin Aviander ^_^
-
-### Shared Article: [Företagarpodden #294: Vässa din storytelling och öka motivationen](https://www.foretagarna.se/foretagarpodden/2022/april/foretagarpodden-294/)
-> foretagarna.se
-
-
-## Comments (2)
-
-### Kerstin Aviander (Företagarna Mälardalen Stockholm)
-> Stort tack för fantastiska dagar.... 🤗
-
-### Elisabeth Loibl (✨ Jag hjälper VD:ar i startups, scaleups och ägarledda bolag i tillväxtfas att förverkliga sin ägarvision – genom starkare team och rätt stöd för dig som VD. ✨)
-> Glad att jag ska få se dig live där 😊
-

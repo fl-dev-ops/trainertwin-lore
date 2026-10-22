@@ -30,9 +30,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Team Communication Breaks Down #shorts
-
-## Transcript
-
 speaker_1: So I have a million different examples of how uh I used to call them the communication breakdown because I love music and its one of my favorite songs communication breakdown But at the same time this is exactly what happens you know The the breakdown is there So were there were sitting potentially even next to each other and we cant communicate Or we can only slowly and awkwardly go through this uh yeah asynchronous communication Uh yeah

@@ -23,13 +23,3 @@ Jag delade några av dessa tips när jag gästare TV4 Nyhetsmorgon förra året 
 
 Men tillbaka till min observation. I år har jag hunnit vara på gymmet ett par gånger redan. Det är hittills ingen skillnad på antalet tränande. Märkligt. Var 2024 ett sånt skitår att folk givit upp innan de ens startat? 
 Vad tror du?
-
-### Shared Article: [Nu fallerar många nyårslöften – så håller du motivationen uppe | Nyhetsmorgon | TV4 & TV4 Play](https://www.youtube.com/watch?v=OChikDG71ig&t=1s)
-> youtube.com
-
-
-## Comments (1)
-
-### Tarja Onegård (Inköpare med inriktning IT)
-> Gillade ordet "nyårsmål" istället för nyårslöfte. Det ger så mycket mer positiva associationer. =)
-

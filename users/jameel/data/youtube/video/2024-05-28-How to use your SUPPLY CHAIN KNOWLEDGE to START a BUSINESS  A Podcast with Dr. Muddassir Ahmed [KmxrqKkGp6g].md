@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to use your SUPPLY CHAIN KNOWLEDGE to START a BUSINESS? A Podcast with Dr. Muddassir Ahmed
-
-
-## Transcript
-
 speaker_1: But in the industry I faced the problems For example I was managing 20 people in Bridgestone and none of them come from supply chain So thats a common problem Half of the people you meet in supply chain come from a different calling qualification Either they are finance people good in maths okay youre good in maths move to supply chain So I thought okay why there is no platform like in if you want to hire a good lawyer theres a lawyer platform If you want to hire like a HR people theres a platform theres a platform for for hiring
 
 

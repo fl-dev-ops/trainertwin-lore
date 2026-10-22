@@ -19,12 +19,3 @@ And - Are you a great leader?
 
 Stay awesome
 ^_^
-
-## Comments (2)
-
-### Zoltan Bogar (Sr. Test Methods Expert på NKT)
-> Very good insight! Something to think about and to take with you. 🙂
-
-### Julia Minson (Harvard Kennedy School Professor | Author, How to Disagree Better | Founder, Disagreeing Better, LLC | I help organizations build cultures where opposing views are freely expressed and well received)
-> I like this framing. It reminds me how often leaders attribute culture to the environment...the office design, the perks, the location...when the real variable is how people treat each other.
-

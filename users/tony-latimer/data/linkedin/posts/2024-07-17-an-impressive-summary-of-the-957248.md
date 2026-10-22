@@ -7,9 +7,3 @@ comments: 1
 ---
 
 An impressive summary of the podcast episode. You almost don’t need to listen to the podcast. BUT there is one more thing . . .
-
-## Comments (1)
-
-### Therese Spiers (Helping Leaders Amplify Their Impact Through Podcasting, Content & Operations)
-> Thank you for sharing this Tony Latimer, MCC!
-

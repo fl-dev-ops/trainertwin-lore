@@ -17,13 +17,3 @@ Here's a true story from a client and the problems that occurred when giving a p
 (Cute though with the daughter coming in and dancing ^_^)
 
 #leadership #digitalpresentations #digitalcommunication
-
-### Shared Article: [How is your digital state of mind?](https://www.linkedin.com/pulse/how-your-digital-state-mind-antoni-lacinai?trackingId=Rb%2BVaYQNWXxBQWjNZt8C6w%3D%3D)
-> Antoni Lacinai
-
-
-## Comments (1)
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> OMG!!! 😱 Impressive that he/she refused to give up!
-

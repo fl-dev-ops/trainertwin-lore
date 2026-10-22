@@ -23,13 +23,3 @@ Would you agree Liz Hardwick CSP Marta Pardo 🎤 🇪🇸 🇫🇷 🇺🇸 , M
 https://lnkd.in/dRGSMtpj
 
 PS - the book is out September 25
-
-### Shared Article: [Connect Lead Succeed: Essential Strategies for Leadership, Networking and Thriving in the Digital Age (CONFERENCE IN A BOOK™ Book 1)](https://www.amazon.com/dp/B0FR7T8Y18)
-> amazon.com
-
-
-## Comments (1)
-
-### Mia Liljeberg (AI for speakers and experts | Grow your business with smarter workflows and your own voice | DM “BRAIN” for getting info about the next Brain building)
-> Unavailable??
-

@@ -30,9 +30,3 @@ They might be happy that you asked, even if they can't go with you. Or they will
 Don't say no on their behalf. And don't stop asking. You can be the best thing that happens to them that day, just by letting them say no. Or yes. 
 
 What are your thoughts on this?
-
-## Comments (1)
-
-### Marjie Hadad (Crisis & Leadership Communications Expert, keynotes & training to strengthen leadership communications and resolve, avoid, or better manage crises. Award-winning TV producer & Author | marjiehadad.com)
-> Agree! Inclusion is soooo important. Makes all the difference
-

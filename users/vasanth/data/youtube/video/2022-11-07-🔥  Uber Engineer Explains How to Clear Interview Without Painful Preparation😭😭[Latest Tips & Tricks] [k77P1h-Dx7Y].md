@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# 🔥  Uber Engineer Explains How to Clear Interview Without Painful Preparation😭😭[Latest Tips & Tricks]
-
-
-## Transcript
-
 speaker_1: So I I dont prepare for any interview Its yes its the same day same week before any kind of interview I kind of
 
 speaker_2: Sometimes the interview goes moderate Its like its not a clear cut yes or a clear cut no Candidate also no This I have cleared This I definitely havent cleared Sometimes candidate is also unsure how it went Interviewer also means in that mindset So in such scenarios how a candidate can favor himself Like how he can answer it I had an architect long back who has only one question Hell ask the same question to everyone who comes to his in system design Only one question he asks Luckily if you solve that you are through

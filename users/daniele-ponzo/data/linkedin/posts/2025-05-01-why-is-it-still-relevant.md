@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_why-is-it-still-relevant-today
 likes: 35
 comments: 13
 images_count: 1
+author_comments:
+- "Here are some good links if you want to know more about international workers day: \nhttps://clockify.me/workaholism-facts\nhttps://observatory.tec.mx/edu-news/karoshi-phenomenon/\nhttps://www.euronews.com/business/2023/11/12/work-fatalities-where-does-it-happen-the-most-in-europe\nhttps://www.euronews.com/culture/2023/05/01/labour-day-a-look-into-the-history-of-honouring-workers-and-labour-rights\nhttps://www.unicef.org/protection/child-labour\nhttps://www.forbes.com/councils/forbestechcouncil/2025/01/10/how-artificial-intelligence-is-transforming-the-job-market-a-guide-to-adaptation-and-career-transformation/"
 ---
 
 Why is it still relevant today to celebrate international worker’s day?
@@ -50,29 +52,3 @@ Let’s keep this in mind when we think about Work-Life balance.
 So, I’m not going to make any other plans today.
 
 Wish you all a great Workers day!
-
-## Comments (5)
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Daniele Ponzo a necessary reflection. Sometimes we forget how recent these hard-won rights really are and how fragile they remain for millions around the world.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Beautifully said, thoughtful, timely, and deeply appreciated. Thanks for sharing this reminder. 🙏
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Have a great holiday today Daniele!
-
-### Silvia Fazi (CFO | Board Director | Energy & Renewables | Strategy, Transformation & Inclusive Leadership Executive)
-> My plan for today: stay with my kids and husband and enjoy the sun!
-> 
-> Wish a great Workers day, dear Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here are some good links if you want to know more about international workers day: 
-> https://clockify.me/workaholism-facts
-> https://observatory.tec.mx/edu-news/karoshi-phenomenon/
-> https://www.euronews.com/business/2023/11/12/work-fatalities-where-does-it-happen-the-most-in-europe
-> https://www.euronews.com/culture/2023/05/01/labour-day-a-look-into-the-history-of-honouring-workers-and-labour-rights
-> https://www.unicef.org/protection/child-labour
-> https://www.forbes.com/councils/forbestechcouncil/2025/01/10/how-artificial-intelligence-is-transforming-the-job-market-a-guide-to-adaptation-and-career-transformation/
-

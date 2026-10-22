@@ -20,19 +20,3 @@ Det blir tankar och tips för VDar och ledningsgrupper runt motivation och engag
 Självklart lägger jag upp tankarna här på LinkedIn. Platsen där vi hjälper varandra att växa.
 
 PS: Ett tack till Edit Künstlicher och Malin Eijde  för gott samarbete
-
-### Shared Article: [Nya bloggaren Antoni: ”Om du är motiverad rör du dig”](https://vdtidningen.se/nya-bloggaren-antoni-om-du-ar-motiverad-ror-du-dig-bloggen/)
-> vdtidningen.se
-
-
-## Comments (3)
-
-### Elin Giczi (Video Branding Strategist | Knitting enthusiast @knitwithelin 🧶 | Speaker & Educator)
-> Du är grym Antoni Lacinai 👏
-
-### Marcus Cato (Föreläsare och författare)
-> Kul tycker jag med! 😀
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> Ser fram emot att inspireras👏🏼👏🏼👏🏼
-

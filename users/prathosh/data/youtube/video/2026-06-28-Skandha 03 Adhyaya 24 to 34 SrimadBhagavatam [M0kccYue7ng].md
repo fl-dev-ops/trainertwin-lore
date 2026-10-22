@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 03 Adhyaya 24 to 34 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: मैत्रेय उवाच
 पितृभ्यां प्रस्थिते साध्वी पतिमिङ्गितकोविदा
 नित्यं पर्यचरत्प्रीत्या भवानीव भवं प्रभुम्

@@ -15,28 +15,3 @@ Sitter du i en organisation där individuell prestation, ego-kickar och internko
 #ledarskap #kommunikation #arbetsglädje
 
 En krönika från mig i Vd-tidningen
-
-### Shared Article: [Vem blir belönad hos er? - VD-tidningen](https://bit.ly/3bbrMDD)
-> bit.ly
-
-
-## Comments (6)
-
-### Ulrika Andreasen (Systems Developer & Economist ★ Digitizing ★ Project Management ★ Robotic Process Automation ★ C# ★ T-SQL ★ Angular ★ GitHub ★ Scrum ★ BI Development ★ App Development ★ 5S ★ WCF ★ PM3 ★ Management)
-> Tänkvärda ord Antoni
-
-### Petra Anderson Stening (Brand Manager/Marknadsansvarig Verum, Fjällfil)
-> Intressanta och viktiga reflektioner, tack.
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> good description, and matter of perspective.
-
-### Sanja Streuli (Föreläsare, processledare, coach, moderator. Sångerska och borgerlig begravningsofficiant. på BetterChange by Sanja)
-> Väldigt bra beskrivet!
-
-### Lars-Erik Lindström (Säljare av IT-managementtjänster, mjukvaror osv etc.)
-> Riktigt väl formulerat. Jag håller med 100%
-
-### Pernilla K. (Biträdande rektor)
-> "I svaren finns svaret" superbra!
-

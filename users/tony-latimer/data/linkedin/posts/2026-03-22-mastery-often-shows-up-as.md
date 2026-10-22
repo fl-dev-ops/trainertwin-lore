@@ -17,7 +17,3 @@ It comes from having tested your judgement enough times that you no longer need 
 Level 3 is built to support that development.
 
 Register interest at https://lnkd.in/dCJT8prY
-
-### Shared Article: [The Simplicity of Mastery Level 3](http://profitableleadership.com/level3)
-> profitableleadership.com
-

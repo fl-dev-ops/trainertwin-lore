@@ -21,6 +21,3 @@ I attach the preprint of the paper for interested readers.
 This work is supported by generous GPU credit grants given by AMD AMD.
 
 Pratik Prabhanjan Brahma Guruprasad MP kumar shubham Nishant Sharma Karn Tiwari  Indian Institute of Science (IISc) LatentForce EECS @ IISc, Bengaluru
-
-### Shared Document: [Shubham_ICLR]()
-

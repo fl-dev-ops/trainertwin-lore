@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 24 EM for GMMs
-
-## Transcript
-
 speaker_1: Okay so this completes the EM
 algorithm So now what we will do now is
 we will see how to uh implement this EM

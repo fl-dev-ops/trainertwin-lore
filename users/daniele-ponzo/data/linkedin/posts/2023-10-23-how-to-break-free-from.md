@@ -40,7 +40,3 @@ And you get all of this for free 🌟 .
 Just follow the link below.
 
 Less hesitation⬇️ More confidence⬆️ 👌
-
-### Shared Article: [Get my free book now!](https://solutionspeak-coaching.ck.page/c268ccf37f)
-> solutionspeak-coaching.ck.page
-

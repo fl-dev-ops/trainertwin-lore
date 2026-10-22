@@ -24,25 +24,3 @@ If you are scared or nervous - even better. No real person will be checking this
 We know that anyone with great communication skills has the upper hand in so many situations. 
 
 If you are a horse, I just led you to water. The rest is up to you ^_^
-
-### Shared Article: [Antoni Lacinai](https://buff.ly/3AO3A9j)
-> buff.ly
-
-
-## Comments (5)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Interesting tool! What is the pricing?
-
-### Jessica Breitenfeld (RoomShift™ experiences: The hand that rocks the party... because brilliant ideas are useless if the room never heard them. #ParticipationAdvantage)
-> Awesome job at Global Speakers Federation summit 22 Antoni Lacinai
-
-### Eliot Freed (Live Marketing - Digital Events and Experiences at Ericsson)
-> Great idea!
-
-### Ulf Lesley (eHealth strategist & AI evangelist at FusionMind)
-> Coolt, have to try 😎
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Spännande Antoni 👍🏽⭐️ Gillar dina innovationer och att ständigt utforska nya saker 🤩
-

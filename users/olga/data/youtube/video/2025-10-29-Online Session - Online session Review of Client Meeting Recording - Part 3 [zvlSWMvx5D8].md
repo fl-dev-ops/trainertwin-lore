@@ -19,11 +19,6 @@ speakers:
   speaker_8: null
 ---
 
-
-# Online Session - Online session Review of Client Meeting Recording - Part 3
-
-## Transcript
-
 speaker_1: So its probably better to organize a PowerPoint presentation
 
 speaker_2: Okay which are the best best units Okay and they have the islands in the kitchen which is inspired by you know US in general US houses are having

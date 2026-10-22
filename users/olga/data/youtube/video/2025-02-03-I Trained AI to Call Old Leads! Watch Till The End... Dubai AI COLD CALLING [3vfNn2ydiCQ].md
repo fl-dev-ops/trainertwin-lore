@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# I Trained AI to Call Old Leads! Watch Till The End... Dubai AI COLD CALLING
-
-## Transcript
-
 speaker_1: Is this a good time to speak
 
 speaker_2: Yes whos this

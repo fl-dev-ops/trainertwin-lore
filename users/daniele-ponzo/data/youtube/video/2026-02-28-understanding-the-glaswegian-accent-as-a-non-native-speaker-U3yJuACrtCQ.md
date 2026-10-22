@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Understanding the Glaswegian Accent as a Non-Native Speaker #shorts
-
-## Transcript
-
 speaker_1: And uh when I started there I had this this colleague whose name is Fraser and he was from Glasgow
 
 

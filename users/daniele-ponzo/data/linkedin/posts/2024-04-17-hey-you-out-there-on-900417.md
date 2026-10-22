@@ -62,22 +62,3 @@ Now, if you feel you could use some support, just reach out and let’s chat. I�
 P.S. Have you recognized the song? Let me know in the comments 😊
 
 #itprofessionals #music #confidence #career
-
-## Comments (4)
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo 
-> The songs of the sixties are a source of inspiration.
-> The Pink Floyd 
-> The sentence you quoted really underscores the importance of having people close by. 
-> How relevant that message still is!
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Amazing insights! Thanks for sharing! 😇
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> Confidence tramps every seeming flaw we think we have. The most important thing is showing up, regardless of how you think you'll sound. The Chinese, who don't even have English as their official language are unapologetic about their accent and expression. Yet, they get things done. Daniele Ponzo
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> I guess it has something to do with the pink colour 😏
-

@@ -1,6 +1,6 @@
 ---
 id: XA3UiD8zEF8
-title: Tutorial 7A : MLE for Gaussian Distribution
+title: "Tutorial 7A : MLE for Gaussian Distribution"
 url: https://www.youtube.com/watch?v=XA3UiD8zEF8
 date: '2026-02-03'
 duration: 40:16
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 7A : MLE for Gaussian Distribution
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorials in
 which we will be looking at obtaining

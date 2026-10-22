@@ -12,9 +12,3 @@ Swedish post: OJ! Tack snälla ni som lagt mitt namn i hatten.
 Jag är alldeles jätteglad och tacksam. Och överraskad. Det här trodde jag faktiskt inte, eftersom jag mest föreläst utomlands de senaste åren.  Ska fira det med att köra en masterclass i kommunikation för ett välkänt globalt klädföretag idag - i Sverige 😃 (men sen blir det en opening keynote på en HR- konferens i Litauen)
 
 Kram på er som röstat
-
-## Comments (1)
-
-### My Gross (Föreläsare och konsult inom försäljning och förändringsledning)
-> Rätt åt dig! ⭐️
-

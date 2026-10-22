@@ -25,7 +25,3 @@ What do you wish to accomplish 2021?
 
 Wishing all of you a well-deserved break over X-mas. 
 C-U next year!
-
-### Shared Article: [Keynote speaker | Communication | CX | Virtual meetings](http://www.antonilacinai.com)
-> antonilacinai.com
-

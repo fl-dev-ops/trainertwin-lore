@@ -5,6 +5,17 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-languagelearni
 likes: 20
 comments: 9
 images_count: 1
+author_comments:
+- |-
+  English for IT. Why?
+  Join me for a live event on Friday at 5:30PM CET
+
+  - the specifics of learning English for IT, 
+  - strategies and techniques, 
+  - using AI for more than just coding, 
+  - and the role communication plays in building soft skills.
+
+  https://www.linkedin.com/events/live-englishforit-why7246823340538028032/about/
 ---
 
 'My English is good, but I have problems when I need to speak'.
@@ -62,40 +73,3 @@ _____________________
  🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> English for IT. Why?
-> Join me for a live event on Friday at 5:30PM CET
-> 
-> - the specifics of learning English for IT, 
-> - strategies and techniques, 
-> - using AI for more than just coding, 
-> - and the role communication plays in building soft skills.
-> 
-> https://www.linkedin.com/events/live-englishforit-why7246823340538028032/about/
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Setting SMART goals and consistently applying these strategies can greatly improve your communication skills. 
-> 
-> ----------
-> 🔍 Follow The ITSM Practice Podcast on LinkedIn for daily insights on ITSM and IT Security.
-> 🎧 Check out The ITSM Practice Podcast on Apple: https://podcasts.apple.com/us/podcast/the-itsm-practice-elevating-itsm-and-it-security-knowledge/id1720010566
-> 
-> #itil #itsecurity
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Feeling confident in speaking English can be challenging, but with a structured plan, it’s definitely achievable!  Daniele Ponzo
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Loved it Daniele ))
-> 
-> I'm a big believer in the power of practice
-> 
-> It makes a lot of difference
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> Great actionable tips! 
-> Practicing in real scenarios makes such a difference. 🌟 Role-play sessions are my go-to for building confidence!
-

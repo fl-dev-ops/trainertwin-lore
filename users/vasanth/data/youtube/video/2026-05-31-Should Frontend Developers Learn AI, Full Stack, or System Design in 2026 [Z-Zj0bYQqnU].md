@@ -14,12 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Should Frontend Developers Learn AI, Full Stack, or System Design in 2026?
-
-
-## Transcript
-
 speaker_1: And Im creating content on LinkedIn and YouTube LinkedIn have close to 60000 followers YouTube I have around 21000 subscribers Both the places I create content about front end and interview preparation I mentor people For last two and a half years Ive been active mentor I might have mentored around 50 plus people primarily people reach out to me with the intention of job change some of my mentees are there on the call as well so where i help them to basically upskill and change the job im a fairly successful mentor in terms of the job opportunities i run cohorts so where i collect
 
 

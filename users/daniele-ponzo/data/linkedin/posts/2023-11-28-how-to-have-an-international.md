@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-nonnativeleader-inspir
 likes: 17
 comments: 3
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQGynTPgF4aoJw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1701098560211?e=1793178000&v=beta&t=oshZmeT5psejkaoq_vBNyuwg22gyeXfB3X0_BPnI9-g
+author_comments:
+- '📌How to have an international career even if you don''t feel ready. Get the full episode here: https://youtu.be/0ufWdshCBRQ'
 ---
 
 How to have an international career even if you don’t feel ready.
@@ -48,12 +50,3 @@ If you did, remember to hit the 🔔 on my profile so you won’t miss the next.
 Follow ➡️Daniele
 
  #english #nonnativeleader #inspiration
-
-## Comments (2)
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Looks like an interesting watch!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How to have an international career even if you don't feel ready. Get the full episode here: https://youtu.be/0ufWdshCBRQ
-

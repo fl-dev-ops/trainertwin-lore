@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 46 Back Prapogation in RNNs and Vanishing Gradients Problem
-
-## Transcript
-
 speaker_1: Welcome everyone to the class Okay So
 now we have to look at how to
 perform back propagation uh in in for

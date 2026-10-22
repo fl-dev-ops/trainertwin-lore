@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# @Angular ➡️  @React ! 2 year experienced frontend developer ! can he answer all questions ? ?
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Kairi with Vasant YouTube channel My name is Vasant I hope youre all doing well So I assume this is a video series where were discussing about the mock interview In this particular video with me I have Vishal Vishal is a two year experience front end developer He having experience of Angular and relatively hes
 
 speaker_2: trying to transition into React So its going to be a good interview if you are also from the similar background Youre from some other tech youre trying to transition into React So what are the challenges that you would face Im going to discuss those also with Vishal More about Vishal Lenny hell be explaining And this is going to be a combination of basics of JavaScript machine coding and a Reactjs Some basics of Reactjs So please watch the video till the end For some reason if Vishal is not able to answer right answer give right answer to a question that I asked Im going to give right answer to the end So please watch the video till the end

@@ -19,11 +19,6 @@ speakers:
   speaker_8: null
 ---
 
-
-# Online Training Session - Role Play (client x agent) - Part 1
-
-## Transcript
-
 speaker_1: Call opening skills conversation over the phone questions that we have to ask to reengage with the aged leads Lets role play guys Sure So you remember the main thing about the leads reactivation is to find out is to find out have they found what theyre looking for theyre still looking Thats the main thing Try not to pitch And if you do some pitching dont forget to as soon as you deliver some sort of a pitch dont forget to ask the question after So the person will be led by you in the conversation Okay
 
 speaker_2: Okay Hi Im Alia Um this is just Sid here from One Broker Group

@@ -5,6 +5,22 @@ url: https://www.linkedin.com/posts/daniele-ponzo_ch-ch-ch-ch-changes-turn-and-f
 likes: 40
 comments: 8
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHG1b9T2Qe4Vg/mp4-720p-30fp-crf28/B4DZaPlzFMGgBQ-/0/1746165776088?e=1793178000&v=beta&t=33h3R7IHUa_Al-OK6jeGnaYD3Auf08B3c0jjnSq-nqY
+author_comments:
+- Thanks for reposting Adrian Stanek 🙏 !
+- |-
+  ▶️ A few months ago, this was just an idea.
+  I kept hearing the same things from brilliant professionals:
+  🧠 “I freeze in meetings.”
+  🧠 “I know the words, but I can’t speak them.”
+  🧠 “I feel like I’m not showing what I really know.”
+  So I created a space where you can practice out loud.
+  No pressure. No judgment. Just real conversations.
+  That space is now open — and we start today.
+  👇 Here’s a quick video explaining how it works:
+  https://www.loom.com/share/e225a3090f714e3ab1a53a1be0f31205?sid=5d50ec5c-6839-4980-ae3e-a9f12f82e3aa
+
+  If you’re ready to join us, just DM me the word CHALLENGE and I’ll send you the details.
+  This is your last chance. But also your first step.
 ---
 
 Ch-ch-ch-ch-changes
@@ -58,33 +74,3 @@ Turn and face the strange...
 Because your voice is waiting to be heard.
 
 P.S. what's a big change you've implemented recently?
-
-## Comments (5)
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> I like the new spin on your posts Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Adrian Stanek 🙏 !
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Show up, put in the work, and reap the rewards. That's the way to grow and succeed, particularly when it comes to learning a new language!
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Love this energy and the message! Small steps really do lead to big transformations, especially when it comes to confidence and communication. 👏
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ A few months ago, this was just an idea.
-> I kept hearing the same things from brilliant professionals:
-> 🧠 “I freeze in meetings.”
-> 🧠 “I know the words, but I can’t speak them.”
-> 🧠 “I feel like I’m not showing what I really know.”
-> So I created a space where you can practice out loud.
-> No pressure. No judgment. Just real conversations.
-> That space is now open — and we start today.
-> 👇 Here’s a quick video explaining how it works:
-> https://www.loom.com/share/e225a3090f714e3ab1a53a1be0f31205?sid=5d50ec5c-6839-4980-ae3e-a9f12f82e3aa
-> 
-> If you’re ready to join us, just DM me the word CHALLENGE and I’ll send you the details.
-> This is your last chance. But also your first step.
-

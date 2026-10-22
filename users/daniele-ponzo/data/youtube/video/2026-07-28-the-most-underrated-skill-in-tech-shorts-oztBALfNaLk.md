@@ -28,11 +28,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Most Underrated Skill in Tech #shorts
-
-## Transcript
-
 speaker_1: So invisible bottlenecks So what is really stopping us from communicating effectively in an international environment
 
 

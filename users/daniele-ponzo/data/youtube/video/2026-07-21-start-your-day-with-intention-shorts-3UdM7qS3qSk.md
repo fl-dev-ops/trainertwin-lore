@@ -54,11 +54,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Start Your Day With Intention #shorts
-
-## Transcript
-
 speaker_1: So the wake up moment is so important because it going to set the rest of your day
 
 speaker_2: I dont know about you you know but for me it has been a routine and a habit that every time I wake up now in the morning I Im thankful for Im awake Im alive and painlessly because these days tomorrow you dont know which one come first And Ive learned to make an intention I always make sure I wake up at the right side of the bed and make an intention that today is another beautiful day

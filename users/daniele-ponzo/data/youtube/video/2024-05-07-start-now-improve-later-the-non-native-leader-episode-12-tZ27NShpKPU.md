@@ -32,11 +32,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# START Now, IMPROVE Later | The Non Native Leader | Episode 12
-
-## Transcript
-
 speaker_1: Hey everyone and welcome to another episode of the non native leader a video podcast series where we explore stories of people who are having an international career or who had an experience abroad or were working in international environment And if youve followed the series if youve seen previous episodes you know that uh we talked to various people from various industries NGOs IT um business tech Fintech So my idea is to explore uh as many stories as possible and to get inspired to learn from these people and to share their journeys And today Im happy to have with me Francesco Mandolini Uh hi Francesco welcome
 
 speaker_2: Hi Daniele Hi thanks for having me And Im asking Im asking myself Im asking myself uh this is called the non native leader but what happens if I am not a leader

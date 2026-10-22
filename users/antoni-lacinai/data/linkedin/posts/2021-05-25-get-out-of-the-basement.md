@@ -26,13 +26,3 @@ I hope you’ll sign up!
 //Antoni
 
 #engagement #communication #leadership
-
-### Shared Article: [Get out of the basement!](https://buff.ly/3fJX7jZ)
-> buff.ly
-
-
-## Comments (1)
-
-### Birgitta Sjöstrand (Conflict in hybrid teams costs hundreds of thousands. I teach managers to prevent it | Online programme (SE/EN) | Author, “Outstanding in the Middle”)
-> What interesting points. I think you can get lots of engagement.
-

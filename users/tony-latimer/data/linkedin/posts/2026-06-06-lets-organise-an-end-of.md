@@ -9,15 +9,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D5605AQH8J8TkGpPMkw/CeJxzMj
 
 Let’s organise an end of conclave photo ICF BEGALURU and ICF India Coaching Awards
 International Coaching Federation
-
-## Comments (3)
-
-### Ryan Clark (🦜 Seattle Hipster turned Beachside Marketer for Brands looking to build an ambitious community of dream clients (Who refer you like crazy and buy whatever you put out) | Embody charisma and become your Market’s Messiah)
-> Haha do it! great group
-
-### Arun PV,  PCC (Executive Coach helping leaders achieve their top potential)
-> Absolute magical moment !
-
-### Regal Unlimited - The Coaching School for the World (5,728 followers)
-> The collective energy of coaches, and leaders from diverse backgrounds.
-

@@ -39,7 +39,3 @@ Managers have to deliver two outcomes:
 I believe the manager has the right, and the responsibility to ensure their direct reports perform on the current job, and are prepared for the next. The responsibility of longer term career development for the organisation should sit elsewhere. (Partly in ownership by the individual, partly in the relevant HR function, and ideally supported by an internal mentoring program).
 Justin Loi
 Read the full article . . . https://lnkd.in/gc2fMxxP
-
-### Shared Article: [Effective Management: The Secret to measuring "soft skills"](https://www.linkedin.com/pulse/effective-management-secret-measuring-soft-skills-tony-latimer-mcc-bzpbc?trackingId=hA%2FZ7ISbEiS0RoO0PaePTw%3D%3D)
-> Tony Latimer
-

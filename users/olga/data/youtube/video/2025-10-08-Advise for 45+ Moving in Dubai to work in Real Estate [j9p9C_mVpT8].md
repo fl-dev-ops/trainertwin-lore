@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Advise for 45+ Moving in Dubai to work in Real Estate
-
-## Transcript
-
 speaker_1: The first impression or the second impression of Dubai and how has that impression now changed And youve been in Dubai for some time
 
 speaker_2: When you first see it its extremely exciting Well look you either love it or hate it Its one of those If youre a person who wants to sit in a quiet home and watch TV and take it easy and just go through your life dont do not come here Dont even think about it If youre a person that wants to excel push yourself to your limits potentially make a lot of money and I believe live life the way life should be lived with the way the country is run and the way you get what you deserve Um I think its probably the best place in the world Um I completely fell in love with it

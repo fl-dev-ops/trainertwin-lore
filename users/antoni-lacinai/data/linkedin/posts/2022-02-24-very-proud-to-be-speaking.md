@@ -13,7 +13,3 @@ article:
 Very proud to be speaking about  about employee engagement in a conference with the theme: The sustainable human. If you speak Swedish: come and join ^_^
 
 Det här ser jag fram emot. Välkommen du också! ^_
-
-### Shared Article: [SSG bjuder in till digital SSG Säkerhetskonferens den 22 mars!](https://buff.ly/34WOb9w)
-> buff.ly
-

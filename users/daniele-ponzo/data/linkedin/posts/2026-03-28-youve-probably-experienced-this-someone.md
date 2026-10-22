@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_youve-probably-experienced-thi
 likes: 34
 comments: 5
 images_count: 1
+author_comments:
+- '▶️ Check the Event page and "attend" here: https://www.linkedin.com/events/everhadagreatidea-butdidn-tsayi7439265608686313473/theater/'
 ---
 
 You’ve probably experienced this.
@@ -60,12 +62,3 @@ And we need to remove them.
 “𝗘𝘃𝗲𝗿 𝗛𝗮𝗱 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗜𝗱𝗲𝗮… 𝗕𝘂𝘁 𝗗𝗶𝗱𝗻’𝘁 𝗦𝗮𝘆 𝗜𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗲𝗲𝘁𝗶𝗻𝗴?”
 Wednesday, 1st of April — 4PM CET.
 Details in the comments.
-
-## Comments (2)
-
-### Kasia Grabda (Turning invisible team dynamics into measurable performance | Psychological Safety | Motivation | Cognitive Diversity | ICF ACC | Data-Driven Coach & Mentor)
-> I'm so looking forward to it 😄
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ Check the Event page and "attend" here: https://www.linkedin.com/events/everhadagreatidea-butdidn-tsayi7439265608686313473/theater/
-

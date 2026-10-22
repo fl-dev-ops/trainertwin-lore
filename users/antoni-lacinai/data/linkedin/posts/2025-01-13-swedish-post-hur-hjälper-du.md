@@ -19,13 +19,3 @@ Nu går vi in i ett nytt år så låt oss göra det med mer medmänsklighet. Vi 
 
 Så tänker jag. 
 Hur tänker du?
-
-## Comments (2)
-
-### Maria Rolenberg (Boutredare/Familjejurist Distans)
-> En av konsekvenserna av att vårt samhälle blivit mer och mer egocentrerat är ensamhet. 
-> Vad den sortens ensamhet skapar är inte är styrka. Vi människor behöver fysiska möten med andra människor mer än någonsin. Det kommer aldrig IT, AI eller dramaserie kunna ersätta fullt ut.
-
-### Anette Brink (Human Power - utvecklar människor människor utvecklar företagen Vi skapar utrymme, nya perspektiv, återhämtning på Paliesius Herrgård i Litauen. Personliga Reboot-program och skräddarsydda konferenser)
-> Viktigt att reflektera över våra relationer i arbetslivet
-

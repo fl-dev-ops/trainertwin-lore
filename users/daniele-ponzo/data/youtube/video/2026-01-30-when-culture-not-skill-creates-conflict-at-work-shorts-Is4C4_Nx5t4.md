@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# When Culture, Not Skill, Creates Conflict at Work #shorts
-
-## Transcript
-
 speaker_1: is important thats an important thing to understand all things when you are traveling and working with teams
 
 speaker_2: Yes when working with international teams uh you have to be aware there are cultural differences because people sometimes only focus on the language but its not all You need to understand the different ways of working the different approaches to to the same task

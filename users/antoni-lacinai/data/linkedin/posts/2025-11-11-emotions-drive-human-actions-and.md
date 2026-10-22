@@ -11,9 +11,3 @@ Emotions Drive Human Actions
 (and Leadership Impact) 
 
 Do you agree?
-
-## Comments (1)
-
-### Tim Wagner (High-Performing People work with us before Burnout sets in. ❤️‍🔥 | Breathwork Alchemist 🫁 | Regenerative Health Practitioner 🩻)
-> Where do you believe energy comes into the picture.
-

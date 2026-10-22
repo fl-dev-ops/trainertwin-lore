@@ -30,7 +30,3 @@ But - most of the questions were about what the lonely person can do. I suggest 
 So look around. Say hello to people. Invite them to contribute. Invite them to join you. Praise them when they do something good. Noone should feel lonely. 
 
 That's what I think? What about you?
-
-### Shared Article: [Combating Loneliness in the Workplace ft. Antoni Lacinai | 211](https://buff.ly/4jjxrup)
-> youtube.com
-

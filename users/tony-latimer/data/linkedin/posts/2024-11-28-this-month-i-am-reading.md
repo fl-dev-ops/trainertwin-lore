@@ -18,7 +18,3 @@ Love this line as my coach training is described as MCC and beyond . . .
 “In this chapter we will first explore the meaning of this competency. In the second part we explore, step by step, each aspect of the competency, reviewing how this shows up at each level: Level 1 (ACC); Level 2 (PCC); Level 3 (MCC); and at a fourth level which we have described as “Growing MCC,” reflecting that even MCCs have growth and development musts and needs.”
 
 — Becoming an ICF Credentialed Coach: The Journey to ACC, PCC and MCC – Practice Insights from ICF Assessors
-
-### Shared Article: [Becoming an ICF Credentialed Coach: The Journey to ACC, PCC and MCC – Practice Insights from ICF Assessors](https://a.co/fVjXwlJ)
-> amazon.com
-

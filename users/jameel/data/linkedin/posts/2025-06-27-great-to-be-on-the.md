@@ -17,7 +17,3 @@ Good discussion with Kevin Lawton, CLTD on Supply Chain Transformation, Change M
 #supplychaincoach #jameelhye
 
 https://lnkd.in/gA_CKUdH
-
-### Shared Article: [Supply Chain Point: People First Supply Chain Transformation](https://youtu.be/pOeFF88LrCA?si=rijCbk3UJnyNxClR)
-> youtube.com
-

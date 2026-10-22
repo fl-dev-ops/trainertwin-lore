@@ -15,7 +15,3 @@ Forget the Household Names: Where the Real Corporate Coaching Work Is
 At the tail end of my corporate career leading international business development, our strategy was not to go head-to-head against household-name vendors. We targeted the B-class multinationals—big organisations that Joe Public has never heard of, but are too small to attract the giant platform sales reps. In the coaching world, these B-class organisations are the exact sweet spot for coaches to build direct, full-fee relationships.
 
 https://lnkd.in/gkQCciG5
-
-### Shared Article: [The ICF Hours Trap: Why Logging 500 Hours Isn’t Earning You Corporate Contracts](https://www.linkedin.com/pulse/icf-hours-trap-why-logging-500-isnt-earning-you-tony-latimer-i0bxc?trackingId=KgCLyJTSJqhln48vKmd8pQ%3D%3D)
-> Tony Latimer
-

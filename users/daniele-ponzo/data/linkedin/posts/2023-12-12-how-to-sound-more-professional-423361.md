@@ -6,6 +6,9 @@ likes: 11
 comments: 6
 document:
   title: How to sound more professional with 10 verbs
+author_comments:
+- 📌How do you make sure you sound professional enough? Curious to know your strategies.
+- Thanks for reposting, Vivek G! I'm glad you found it useful
 ---
 
 How to Sound More Professional when communicating in English
@@ -50,21 +53,3 @@ Hope you got some value here. If you did, remember to follow and hit the bell on
 Follow ➡ Daniele
  
 #communication #leadership #english
-
-### Shared Document: [How to sound more professional with 10 verbs]()
-
-
-## Comments (4)
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Offloading - what a great word to have at anyone's fingertips.  I quite often offload to friends! Thanks Daniele :-)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How do you make sure you sound professional enough? Curious to know your strategies.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Vivek G! I'm glad you found it useful
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Nice job Daniele Ponzo. I reckon this post will help people master professional communication.
-

@@ -44,9 +44,3 @@ Remember, next time you join a company, you might be asked to “hit the ground 
 P.S. I actually got the question in a job interview. Has it ever happened to you? Let me know in the comments👇.
 
 #TechLeadership #BusinessJargon #ITManagement #HitTheGroundRunning
-
-## Comments (1)
-
-### Evridika Cuder (German Communication Coach for International Professionals | Helping professionals communicate confidently in German meetings & presentations | Cross-Border Communication)
-> A useful expression, especially for fast-paced environments 🏃‍♂️
-

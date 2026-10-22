@@ -26,9 +26,3 @@ TonyLatimer.ai is here to support you with on-demand leadership tools and coach
 Let’s make 2025 the year of growth and confident leadership! 🎯
 
 #LeadershipDevelopment #PeopleManagers #AI #CoachingTools #Mentorship
-
-## Comments (1)
-
-### Panayiota Katsamentidou (Leadership & L&D Trainer Development | Coaching, Resilience & Facilitation for BPO & Fast-Paced Teams | Turning Learning into Stronger Leadership and Lasting Behaviour Change | Founder, Y O T A)
-> Excellent work Tony!
-

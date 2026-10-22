@@ -25,25 +25,3 @@ Jag vill bara tillägga att paret Obama är sjukt vassa kommunikatörer, med ett
 Vad tycker du? Här är hennes tal: https://bit.ly/328iwMD
 
 #kommunikation #ledarskap #presentation
-
-### Shared Article: [Michelle Obama: "We have got to vote for Joe Biden like our lives depend on it"](https://bit.ly/34hjngO)
-> bit.ly
-
-
-## Comments (2)
-
-### TOMMY R. (Professionell mötesbokning.)
-> Ja, såväl hon som hennes man har alltid hållit vackra tal och budskapet gillas i ett av Socialdemokratin färgat Sverige. 
-> 
-> Men Trump kommunicerar på ett sätt som ”average Joe” tilltalas av. ”Primitivt”, enkelt, rakt på sak och inga akademiker-manér. Ses rätt eller fel som en kämpe mot det gamla etablissemanget och fick resonans för att han adresserade de frågor övriga vill sminka bort.
-> Det är honom du borde studera, även om du inte ”gillar” honom. Inte förlorarna som skyller valresultatet på ”ryssarna”. 
-> 
-> Trump var även den främste i att utnyttja Twitter på ett sätt som ansågs ofint men som funkade.
-> Trump blir omvald. 
-> 
-> Jag är tillräckligt gammal för att minnas Reagan och har kvar svenska tidningsklipp med rubriker som speglar hur kompakt avskydd han var av det officiella Sverige. Anklagades för allt möjligt. Han skulle störta världen i fördärvet Blev omvald och ses idag som en av de mest ”populära” presidenterna.
-> USA är inte Sverige.
-
-### Thomas Otnes (Product developer and engineer)
-> Jag gillade inte lögnerna i talet som var mycket skickligt invävda. Men hon är en duktig orator, helt klart.
-

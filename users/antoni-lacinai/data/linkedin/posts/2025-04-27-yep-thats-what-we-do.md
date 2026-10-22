@@ -12,7 +12,3 @@ article:
 
 Yep. That’s what we do. 
 The Swedish “Fika” is a micro way to reset, recharge and get along 😃
-
-### Shared Article: [The Swedish tradition that can make you happier at work](https://www.bbc.com/reel/video/p0bmzygz/the-swedish-tradition-that-can-make-you-happier-at-work)
-> bbc.com
-

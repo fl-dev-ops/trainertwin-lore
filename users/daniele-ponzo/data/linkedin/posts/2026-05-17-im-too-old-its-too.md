@@ -12,16 +12,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D10AQHV-_bEGecv_Q/CeJxzMn
 Full episode here: https://lnkd.in/dhdCgkRG
 
 #CareerChange #MindsetShift #InternationalCareer #NonNativeLeader #ProfessionalGrowth #EnglishCommunication #CareerDevelopment #TechProfessionals #LeadershipMindset #GlobalProfessionals #SelfDevelopment
-
-## Comments (1)
-
-### The Non-Native Leader - Podcast (443 followers)
-> If you’re a non-native professional working in English, this is exactly what The Non-Native Leader is about.
-> 
-> Real conversations about international careers, cultural differences, confidence, identity, and what it actually means to work across borders in a second language.
-> 
-> 🎧 Watch full episodes & explore the podcast here:
-> 👉 https://danieleponzo.com/the-non-native-leader-podcast
-> 
-> Follow for honest stories, lived experience, and insights you won’t find in textbooks 🌍
-

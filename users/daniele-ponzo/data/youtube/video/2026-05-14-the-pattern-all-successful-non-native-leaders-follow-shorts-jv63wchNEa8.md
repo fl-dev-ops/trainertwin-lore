@@ -35,11 +35,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Pattern All Successful Non-Native Leaders Follow #shorts
-
-## Transcript
-
 speaker_1: you talk to dozens of leaders or people like that What have you noticed any patterns What have you learned from from that
 
 speaker_2: Yeah thats a cool question man So the the main thing is that obviously the journeys are never the same right Regardless if you end up living somewhere else or if you stay in your home country but work internationally from maybe from the comforts of your room So different stories but yeah there is kind of a common pattern And none of them was obsessed with getting things right getting things perfect right at the beginning

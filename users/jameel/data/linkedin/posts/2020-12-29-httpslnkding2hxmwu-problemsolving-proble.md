@@ -12,7 +12,3 @@ article:
 
 https://lnkd.in/g2hXMwu 
 #problemsolving #problemsolvingskills #problemstatement  #problemsolver #problemsolvers #problemframing
-
-### Shared Article: [How to Problem Solve - Part 1 - Writing a Problem Statement](https://www.youtube.com/watch?v=1E3d1JAH6jQ&t=74s)
-> youtube.com
-

@@ -42,13 +42,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow ➡ Daniele
 
 #english #itprofessionals #languageimprovement
-
-### Shared Document: [8 Awkward business situations]()
-
-
-## Comments (1)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> I love how you put these formal examples next to the informal examples.
-> Not only is it helpful to see this comparison, there may be times when we can mix elements of both to give a semi-formal response.
-

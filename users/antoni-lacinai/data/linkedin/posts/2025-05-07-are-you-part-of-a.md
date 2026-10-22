@@ -9,9 +9,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQEIU8ebW5L1yg/mp4-720p-30f
 
 Are you part of a management team?
 Or are you just a group of managers in the same meetings?
-
-## Comments (1)
-
-### Kim Martinez (Account Manager, Field sales, B2B)
-> Antoni, jag håller med dig
-

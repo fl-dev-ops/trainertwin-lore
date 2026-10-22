@@ -25,12 +25,3 @@ Check out the list. Talk about it at your next management team meeting.
 • Are you a transformational leader? 
 • Do you move mountains by yourself?  
 • What happens if you invite others to join you?
-
-### Shared Document: [5 traits of a transformational leader]()
-
-
-## Comments (1)
-
-### Michael Wikström (Senior resurs för styrelse, sälj- o affärsutveckling)
-> Trevligt där på TV 4. Bra råd o insikter.
-

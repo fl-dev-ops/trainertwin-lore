@@ -25,22 +25,3 @@ Getting that support in place, specialist, structured, starting on day one, is n
 I've put all the numbers in one place, along with the research, the framework, and the argument. The link is below.
 
 https://lnkd.in/gRShsMnY
-
-### Shared Article: [The True Cost of Executive Hiring and CEO Failure](https://www.profitableleadership.com/blog/true-cost-executive-hiring-ceo-failure)
-> profitableleadership.com
-
-
-## Comments (4)
-
-### Alan D'Nacio (Chief Financial Officer | Driving Cash Flow, Profitability & Scale for SMEs & Scale-Ups | Board Engagement | Working Capital | P&L | M&A | Governance)
-> This is a fabulous piece of work Tony. The learning curve for any new CEO is steep and therefore having a coach who will journey with the CEO is a valuable investment in helping shape and sustain growth for the people and manage the dynamics for growth and development of the business. The stats are real.
-
-### Graham Almond (MLLR, GAICD, FCPHR, ChOHSP) (Board and CEO Advisor | Former CHRO and Corporate Services C-suite Executive | Mobilising Leaders to Perform, Transform and Grow I Board Director Candidate)
-> Great share. Add to the fact that Korn Ferry’s research shows only 14% of executive leaders are enterprise leaders, “Houston, we have a problem”.
-
-### Elin Mai (I help $1M+ founders become as magnetic as they are brilliant. Inside out. | Former-CEO, 22+ years | 12K+ leaders transformed.)
-> The 7% figure is striking, but what strikes me more is why organisations accept those odds. We spend years developing people to reach the top - and then assume the role itself will complete the job. It won't. The identity shift alone that comes with stepping into the CEO seat is significant. Without support, most leaders default to doing more of what got them there, rather than becoming who the role now requires. That gap is where so many transitions unravel.
-
-### Feras Elltell , FCMI, PCC, PgDip, MCIPD (Middle East Senior Partner & Director at Kennedy | Counsels C-suite leaders on building teams that deliver on board expectations, restore corporate immunity, and compound commercial resilience.)
-> The CEO seat is structurally different from every other role. It is the only truly peerless position in the company, and for new CEOs the learning curve can be 10 times harder
-

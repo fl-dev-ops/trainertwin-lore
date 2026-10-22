@@ -24,12 +24,3 @@ There is no other way.
 Or is it? Let me know what you think, and wish us luck ^_^
 
 Thank you Jonathan Fagerström  at Talarforum i Skandinavien AB  for bringing me in 😃
-
-## Comments (2)
-
-### Linus Lancin (Improve team relations that increases productivity and reduces employee turnover || Provide the platform that uses appreciation to create business results and enhance your organisation)
-> What you are pointing at is one of the most overlooked aspects when it comes to teams - creating a strong team does not start with the leader, but needs to be built between the people in the team. Still, almost all litterature starts targets leadership behaiviour.
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Good luck, Antoni!
-

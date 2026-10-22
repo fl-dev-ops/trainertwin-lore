@@ -55,11 +55,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Intentional Communication Changes Everything #shorts
-
-## Transcript
-
 speaker_1: But what is the intention behind the speech You have to be wary and mindful that we need to make the right speech Because the right speech will get us where we want to go If we make the intention that to make the right speech to make the right effort to listen to people that makes the whole conversation much more easier
 
 speaker_2: So it all starts with listening then And yeah we go back to the to a position of curiosity and empathy So what is the goal What do I want to achieve with my conversation with the other person

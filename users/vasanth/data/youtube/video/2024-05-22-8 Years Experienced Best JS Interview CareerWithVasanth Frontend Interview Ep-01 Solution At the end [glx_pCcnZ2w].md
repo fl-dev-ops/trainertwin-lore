@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# 8 Years Experienced Best JS Interview|CareerWithVasanth Frontend Interview Ep-01|Solution At the end
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to career with Vasant YouTube channel Previously this channel was known as uncommon geeks My name is Vasant So with me today I have Kriti Suman So this is a session where we are primarily spending on the mock interviews So in this particular session Im going to take a combination primarily a JavaScript questions Ill be asking Kriti already has seven plus years of experience Maybe I would end up asking some couple of software engineering sort of software development or software engineer sort of questions as well Okay And without wasting further time lets get started Kriti if you can introduce yourself
 
 speaker_2: Yeah sure So I have total 7 point 0 one year of experience and totally Im working in the Angular framework and I started from Angular 2 and right now its an Angular 11 and apart from this Im just working in the banking domain and leading the team as well and I have sorts of the knowledge in the JavaScript Nodejs apart from the Angular

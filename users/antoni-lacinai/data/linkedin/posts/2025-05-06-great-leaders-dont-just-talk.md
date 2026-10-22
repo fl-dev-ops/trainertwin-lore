@@ -17,9 +17,3 @@ And the difference? They communicate with ease.
 I help leaders and teams simplify their message and amplify their impact. This is how you  go from plans to performance
 
 If that sounds useful, send me a message.
-
-## Comments (1)
-
-### Fredrik Jacobson (Kommunikation som gör skillnad på riktigt. Tillväxt. Engagemang. Produktivitet. Starka case från finans.)
-> 👍😃 Tell me and I forget. Show me and I remember. Involve me and I understand
-

@@ -55,14 +55,3 @@ If you want to coach in a way that feels effortless, spacious, and profoundly hu
 Mastery happens when less is more.
 
 #leadership #mastery #masterclass
-
-## Comments (2)
-
-### Varundeep Kaur (CIO | Solving for Bharat through Technology, Transformation, Leadership and Strategy | IIMA | IIMB | IIMC | IIMK | ISB | XLRI | FAU | President - WICCI State AI Council Punjab | President - CIO Association Punjab)
-> Look forward to this session
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought)
-> Debeshi, I really appreciate your giving two full hours for this conversation. Our chat this week highlighted both your ability to trigger thinking (in me) and that there is going to be sooooo much to share in this session. I love that you want to drift into the realms of ai 🤖 because evevrthing shared and published in that space relating to coaching is out of date every month. You really triggered a thought line that will interconnect from the competencies to coaching presence to to skills elevation and into the future of technology. 
-> 
-> It’s going to be a great conversation.
-

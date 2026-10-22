@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/tonylatimer_simplicityofmastery-coachingmast
 likes: 16
 comments: 8
 images_count: 1
+author_comments:
+- profitableleadership.com/simplicityofmastery
+- |-
+  It’s amazing how often new members prove the point faster than anyone. When you truly trust the process — stop thinking, stop trying to be clever — the subconscious takes over and does the work.
+
+  Curious to hear from others:
+  When was the first time your coaching just happened without you having to think about what to ask next?
 ---
 
 She nailed mastery—on her first try.
@@ -29,22 +36,3 @@ Both sessions ended with powerful energy work — described by members as “a 
 If you’d like to experience this level of learning — where technique turns to instinct — you’ll find it inside Simplicity of Mastery.
 
 #SimplicityOfMastery #CoachingMastery #MCC #ICF #ThreeLawsOfCoaching #CoachingAtTheSpeedOfThought
-
-## Comments (4)
-
-### Simona Dinu (Connecting people and ideas. On a mission to grow the number of public service leaders who lead with intention and live in alignment with their values)
-> I am so grateful I found you and this program, Tony.  I saw your posts on LinkedIn and the word "energy".  I knew what I was looking for in terms of my next learning step, but I could not articulate it till I saw that.
-> And now that I am in it, I realize how much more there is to learn.
-
-### Fran Fisher (Master Certified Coach)
-> It is a great program, Tony!  It is generous with study materials, and live application practice sessions.
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> It’s amazing how often new members prove the point faster than anyone. When you truly trust the process — stop thinking, stop trying to be clever — the subconscious takes over and does the work.
-> 
-> Curious to hear from others:
-> When was the first time your coaching just happened without you having to think about what to ask next?
-

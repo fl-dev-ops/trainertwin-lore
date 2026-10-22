@@ -80,25 +80,3 @@ I'm curious...
 What's the biggest communication challenge you've faced while working with international teams?
  
 I'd love to hear your experience.
-
-## Comments (5)
-
-### Sunny Nagpal (Brain Profiling | 2x TEDx Speaker | Helping heart-led coaches; healers own their gifts, show up confidently on video; sell without pressure | Discover unique genius, become more of you, so marketing becomes magnetic.)
-> It's a whole new ballgame now, isn’t it? Communication really is the key to standing out in a global market. Smiles Daniele Ponzo
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> Daniele Ponzo Technical skills may get you noticed, but communication builds influence.
-> 
-> I’ve seen simple explanations create more impact than perfect English.
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> True, speaking English is just the warm-up; it's the communication Olympics that really counts in global teamwork Daniele Ponzo
-
-### Yordan Ivanov (I help data engineers go from senior to lead | Data team leadership, hiring, data strategy | Head of Data Engineering at Dext)
-> 100%! English is the base line, and I find it surprising when engineers get frustrated because their interview was in English.
-> 
-> My biggest challenge was to embrase cultural differences. Eastern Europeans appreciate being direct, but many other cultures, see this as being rude.
-
-### Davy Shi 💡🚀🌎 (Founder | Managing Director | MBA, China Supply Chain Management, dedicated to delivering global consumer goods solutions and sourcing services. 🌎)
-> Communication is increasingly the differentiator in global careers—technical expertise gets you in the room, but the ability to explain, influence, and build trust across cultures helps you move forward. 🌎💬 Daniele Ponzo
-

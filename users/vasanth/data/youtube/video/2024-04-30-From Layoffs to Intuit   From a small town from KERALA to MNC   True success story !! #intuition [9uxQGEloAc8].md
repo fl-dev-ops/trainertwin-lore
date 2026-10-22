@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# From Layoffs to Intuit | From a small town from KERALA to MNC | True success story !! #intuition
-
-
-## Transcript
-
 speaker_1: but colleagues are getting laid off Like you have a short team of 10 members and one fine day six of them are laid off right The remaining four in the team actually struggle Like they will not have option to work and they get into a state of mind Like we all know like gone DCX laid off and its a small news at least And definitely there is nothing wrong Everybody under 40 run a business I just want to know the mindset because a lot of them are currently having this mindset and like how to cope up actually How will you tell me what is your package
 
 speaker_2: So its its a very good package I would say and uh like above the market standards

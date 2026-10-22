@@ -68,9 +68,3 @@ Hope you got some value here. If you did, remember to follow and hit the bell on
 Follow ➡  Daniele
  
 #english #itprofessionals #professionalenglish
-
-## Comments (1)
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> I would add "listen" ! Listen to the customer, listen to how they are communicating with you. What do you think Daniele?
-

@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 10 Adhyaya 1 to 13 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: राजोवाच
 कथितो वंशविस्तारो भवता सोमसूर्ययोः
 राज्ञाञ्चोभयवंश्यानां चरितं परमाद्भुतम्

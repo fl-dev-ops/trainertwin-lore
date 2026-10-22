@@ -5,9 +5,7 @@ date: "2026-01-01"
 source: website
 ---
 
-# Everything is measurable
-
-# Everything is measurable
+Everything is measurable
 
 The hard part is deciding what to measure.
 
@@ -17,11 +15,11 @@ The client was a large automotive distributor, more specifically the after-sales
 
 Unfortunately, because customers were not happy, as soon as they were not obliged to stay for warranty reasons, they left.
 
-The consulting part of the project required investigation and analysis to establish what was going wrong, which then enables the coaching part of the project to kick in; enabling ownership, definition and execution of change. \[If you are interested in how that works, read my article on “Alignment of Purpose”\]
+The consulting part of the project required investigation and analysis to establish what was going wrong, which then enables the coaching part of the project to kick in; enabling ownership, definition and execution of change. [If you are interested in how that works, read my article on “Alignment of Purpose”]
 
 The first insight for the client was that there are two things to be measured. The ultimate outcome; and the things that had to change in order to get to the ultimate outcome.
 
-The second insight is that you must bring everything down to behaviours (leadership, after all, is just project managing behaviours). Often the conversation is about feelings we want our clients to experience “We want them to be delighted”. 
+The second insight is that you must bring everything down to behaviours (leadership, after all, is just project managing behaviours). Often the conversation is about feelings we want our clients to experience “We want them to be delighted”.
 
 ”Interesting; and how will you know they are delighted?”
 
@@ -51,7 +49,7 @@ And the delighted customer may refer others to you. But they won't all. So that 
 
 Important Point: trying to do stuff to “delight” will backfire if there is still friction.
 
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

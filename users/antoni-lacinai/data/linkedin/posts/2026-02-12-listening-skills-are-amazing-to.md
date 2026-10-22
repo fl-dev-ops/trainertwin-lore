@@ -17,16 +17,3 @@ Stay awesome!
 ^_^
 
 This is your home turf Annika Telleus
-
-## Comments (1)
-
-### Annika Telleus (Unleashing the Power of Listening - Keynote speaker, author, podcast host, facilitator, coach)
-> Brilliant as always!
-> 
-> The question “why do you listen?” changes everything. Listening to respond keeps us clever. Listening to understand makes us wise. And piling stories is such a subtle trap. It feels like connection, but often it’s self-protection. We fall into what I sometimes call the PIT: Prejudge, Interrupt, Tackle.
-> 
-> Presence and curiosity ask a little more of us.
-> But they give so much more back.
-> 
-> Empathy, not as performance - but as space.
-

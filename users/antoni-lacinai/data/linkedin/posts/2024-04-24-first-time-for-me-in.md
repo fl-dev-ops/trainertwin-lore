@@ -7,12 +7,3 @@ comments: 3
 ---
 
 First time for me in Kenya. Looking forward to it!
-
-## Comments (2)
-
-### VINEETA SINGH (Graphic Designer! Video Editor!Instagram Reels Experts📸)
-> 👌👌👌👌Antoni Lacinai  wow🌹
-
-### Kia (Kristina) Cohn Linde (Kommunikatör - intervjuar, modererar & föreläser.Uppdrag inom kommunikation, business och nätverk.)
-> Oj, wow👏
-

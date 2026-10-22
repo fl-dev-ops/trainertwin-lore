@@ -22,12 +22,3 @@ The result?
 A platform that respects tradition but embraces the future, ensuring leaders are equipped for both today's challenges and tomorrow’s unknowns.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (2)
-
-### Arif Iqball (Executive Coach for Senior Leaders in Global Organizations | Former Global CFO | Master Certified Coach | MBA Professor of Leadership & Strategy)
-> Embracing tradition while leveraging technology is key for effective leadership development. Excited to see the impact of this innovative platform!
-
-### Stanley Ng (Helping Senior Leaders and Family Offices Decide with Clarity | Executive Coach & Leadership Trainer | ICF PCC | Keynote Speaker)
-> The 24/7 mentoring support with a top executive coach is definitely value for money as the rate for executive coaching is so high for a one-to-one session
-

@@ -32,16 +32,3 @@ What other good advice can you share, if you want a really bad hybrid workplace?
 #hybridleadership #communication #engagement
 
 this is an extract from a column I wrote for  HR-nytt, a magazine for around 60,000 HR professionals.
-
-### Shared Article: [Hybridledare, ni har världens chans – sabba det inte! - Arbetsmiljö - HRnytt](https://buff.ly/3rvY6KR)
-> hrnytt.se
-
-
-## Comments (2)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Great reminders! 👊🏻👍
-
-### Jonas Collin (Owner på Griff Förvaltning AB)
-> Great piece! I love the way you show the challanges for motivation. One point often understressed is reachability between collueges. It tends to demoralize the present ones.
-

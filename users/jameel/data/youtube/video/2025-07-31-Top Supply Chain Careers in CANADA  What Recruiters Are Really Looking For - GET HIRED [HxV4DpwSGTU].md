@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Top Supply Chain Careers in CANADA: What Recruiters Are Really Looking For - GET HIRED
-
-
-## Transcript
-
 speaker_1: So were seeing a rising demand for professionals with strong expertise you know within strategic sourcing On the supply chain side and more on the logistics side were looking for a lot of professionals with the customs compliance and cross border trade But I always I have always said this and Ill still stick by it is that the MBA the masters it always is a great resource midway through your career
 
 

@@ -31,7 +31,3 @@ Prathosh.
 P.S - Students have several incentives other than the standard MoE fellowship (32K+ a month) such as additional financial assistanceship, industry collaborations and internships, fellowships such as PMRFs, access to high performance compute power etc. A PhD in ML would enable students to take up high-paying research positions in industry world-wide and academic positions. 
 
 #iisc #phdposition #deeplearning #machinelearning #research #phd
-
-### Shared Article: [Adv2022-full_FINAL-1.pdf](https://iisc.ac.in/wp-content/uploads/2022/02/Adv2022-full_FINAL-1.pdf)
-> iisc.ac.in
-

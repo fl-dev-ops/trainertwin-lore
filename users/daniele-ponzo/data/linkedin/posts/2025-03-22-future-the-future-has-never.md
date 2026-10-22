@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_mutazioni-romefutureweek-rfw25
 likes: 32
 comments: 10
 images_count: 1
+author_comments:
+- '📌 Want to know more? Check the website here: https://romefutureweek.it/'
 ---
 
 Future✨.
@@ -20,21 +22,3 @@ As an 𝗔𝗱𝘃𝗶𝘀𝗼𝗿, I am part of this evolution, actively contri
 Follow me and discover how the future is taking shape! 
 
 #RomeFutureWeek #RFW25
-
-## Comments (5)
-
-### Francesca Garofalo (Giornalista pubblicista freelance | Copywriter | Cacciatrice di storie)
-> Ciao Daniele, già dall'immagine mi dà proprio il senso di un appuntamento variegato creativo
-
-### Adriana Galgano (Linkedin Training | Leadership development | Sales Training | ChatGpt Training | Linkedin Consultancy | Podcaster | I support you in your strategic choices with unique training experiences | Ottantaventi Training |)
-> What a thrilling iniziative. Defintely, I'll be following you!
-
-### Marianne Jordan (✔​ Empowering English language learners & teachers master the sounds of Eng pronunciation, by giving you the confidence & resources to learn/teach pronunciation a vital language skill. Message me 👇)
-> How wonderful, as an advisor, to be a part of this evolution.  Very best wishes for it all.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Rome Future Week sounds like an incredible event! Exciting to see innovation and transformation take center stage, looking forward to the insights and discussions it brings!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Want to know more? Check the website here: https://romefutureweek.it/
-

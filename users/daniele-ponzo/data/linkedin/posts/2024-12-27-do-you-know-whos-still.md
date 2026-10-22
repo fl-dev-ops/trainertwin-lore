@@ -28,12 +28,3 @@ Skip the pudding, have a spinning!
 Enjoy.
 
 #tech #holidays #english
-
-## Comments (2)
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> These are some fun and practical gift ideas! Love how you're combining learning and play.  Daniele Ponzo
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Funny!
-

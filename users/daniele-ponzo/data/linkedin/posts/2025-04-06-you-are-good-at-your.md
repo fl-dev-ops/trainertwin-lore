@@ -4,6 +4,9 @@ date: '2025-04-06T07:31:10.914Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_you-are-good-at-your-job-but-are-you-ready-ugcPost-7313434385410621440-rXhE
 likes: 32
 comments: 6
+author_comments:
+- '➡️ How to get noticed at work: https://www.linkedin.com/posts/daniele-ponzo_when-i-first-met-carmen-she-was-afraid-to-activity-7313800641657606145-1fa3'
+- "\U0001F4CC\U0001D5E6\U0001D5DF\U0001D5E2\U0001D5EA \U0001D5D7\U0001D5E2\U0001D5EA\U0001D5E1 \U0001D5E7\U0001D5E2 \U0001D5DA\U0001D5D8\U0001D5E7 \U0001D5E7\U0001D5DB\U0001D5D8\U0001D5E5\U0001D5D8 \U0001D5D9\U0001D5D4\U0001D5E6\U0001D5E7\U0001D5D8\U0001D5E5\nReading out loud is great for pronunciation. But it’s a powerful way to build confidence and fluency. \n\nWhen you slow down your speech and introduce strategic pauses at punctuation marks (,;:.-), you give your brain the time it needs to process and articulate your thoughts clearly. \n\nThis practice helps in \n▶️ Reducing anxiety\n▶️ Internalizing correct rhythm\n▶️ Finding intonation patterns. \nAnd as a bonus, you reduce those filler words (uhm, ehm…)\n\nUse these pauses as moments of control, so your message becomes more natural. Once you get good at slowing down, you get more confident, and you can then start going faster."
 ---
 
 You are good at your job, but are you ready to go international?
@@ -46,29 +49,3 @@ Vote below and tell me which resonates most...
 
 Let’s talk about building that bridge🏗️
 P.S. I'll share 1 idea in the comments below.
-
-## Comments (4)
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo Courage is most  important for speaking in english . First you  have to take your first step . After that  continuously your confidence will grow
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ How to get noticed at work: https://www.linkedin.com/posts/daniele-ponzo_when-i-first-met-carmen-she-was-afraid-to-activity-7313800641657606145-1fa3
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele something that came to me recently is that if someone feels their pronounciation is not good enough, then learn tongue twisters! They will help your "mouth mechanics" to become better and better!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌𝗦𝗟𝗢𝗪 𝗗𝗢𝗪𝗡 𝗧𝗢 𝗚𝗘𝗧 𝗧𝗛𝗘𝗥𝗘 𝗙𝗔𝗦𝗧𝗘𝗥
-> Reading out loud is great for pronunciation. But it’s a powerful way to build confidence and fluency. 
-> 
-> When you slow down your speech and introduce strategic pauses at punctuation marks (,;:.-), you give your brain the time it needs to process and articulate your thoughts clearly. 
-> 
-> This practice helps in 
-> ▶️ Reducing anxiety
-> ▶️ Internalizing correct rhythm
-> ▶️ Finding intonation patterns. 
-> And as a bonus, you reduce those filler words (uhm, ehm…)
-> 
-> Use these pauses as moments of control, so your message becomes more natural. Once you get good at slowing down, you get more confident, and you can then start going faster.
-

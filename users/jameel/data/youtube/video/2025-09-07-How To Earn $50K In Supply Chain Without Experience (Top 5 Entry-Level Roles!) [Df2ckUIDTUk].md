@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How To Earn $50K In Supply Chain Without Experience (Top 5 Entry-Level Roles!)
-
-
-## Transcript
-
 speaker_1: Hello supply chain friends so since I made the video on how to find entry level jobs in supply chain and consequently I also made videos on how to make hundred thousand dollars or two hundred thousand dollars in supply chain jobs I get this question very commonly that tell us about those entry level jobs which will help us make fifty thousand US dollars or more so in this video I will cover with you the five jobs in supply chain which are entry level and they will help you make at least fifty thousand dollars or more so watch this video till the end my name is Jameel
 
 

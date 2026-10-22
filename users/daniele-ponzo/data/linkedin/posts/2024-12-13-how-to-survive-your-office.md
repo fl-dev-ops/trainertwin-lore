@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_christmas-corporate-party-acti
 likes: 30
 comments: 14
 images_count: 1
+author_comments:
+- ☃️ What's your weirdest Christmas party story?
+- "I've always been passionate about social experiments...so once I decided to replace a bottle of Vodka with water at a Christmas party. This was way into the party. People kept mixing it with coke and drinking it. Nobody complained. Either they were too drunk to realize or to sky to say anything.  \nEither way, I might have saved some people's lives there \U0001F605"
 ---
 
 How to Survive Your Office Christmas Party
@@ -48,27 +51,3 @@ P.S. any funny “Christmas party” stories? Let’s share them and support eac
 Image credit: Dave Coverly - Speed Bump
 
 #christmas #corporate #party
-
-## Comments (6)
-
-### Kasia Grabda (Turning invisible team dynamics into measurable performance | Psychological Safety | Motivation | Cognitive Diversity | ICF ACC | Data-Driven Coach & Mentor)
-> Great post Daniele. Someone should create a Christmas Party Manual for introverts ... Nadege Welsch any ideas?😜
-
-### Daria Manoilenko (Tech & Product Recruiter @Riverty👩🏻‍💻)
-> I'm definitely saving your guide of ''protecting the precious introverted soul'' for later! Still remember how in few cases i decided to play carte blanche by revealing that i'm an introvert and the reaction was: ''oh really? but you seem to like talking!'' And the next phase was to explain that it's not just about talking, but rather the ways of refilling the energy afterwards :D
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ☃️ What's your weirdest Christmas party story?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> I've always been passionate about social experiments...so once I decided to replace a bottle of Vodka with water at a Christmas party. This was way into the party. People kept mixing it with coke and drinking it. Nobody complained. Either they were too drunk to realize or to sky to say anything.  
-> Either way, I might have saved some people's lives there 😅
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele a lot of people don't realize how these perfectly normal social situations can throw a major anxiety attack at those people whose language skills are not very "good". 
-> 
-> If you don't feel comfortable speaking the language, then situations like informal social gatherings are very stressful. Your survival tips are excellent!
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> I'll never forget the most awkward moment at our office Christmas party. My ex-boss made an inappropriate comment, saying, 'Girls of 15 are really grown-up for their age.' The room fell into a stunned silence, and everyone exchanged awkward glances. It was one of those moments you just wish you could erase
-

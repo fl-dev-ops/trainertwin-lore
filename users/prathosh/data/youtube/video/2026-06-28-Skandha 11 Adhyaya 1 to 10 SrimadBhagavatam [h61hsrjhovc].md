@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 11 Adhyaya 1 to 10 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 कृत्वा दैत्यवधं कृष्णः स रामो यदुभिर्वृतः
 भुवोवतारयं भारं जविष्ठं जनयन् कलिम्

@@ -18,20 +18,3 @@ Watch this video and ask yourself:
 #leadership #communication #futureofwork #engagement
 
 ...In politics it seems to be the opposite for some power hungry despots. "I am taking your place, and I kill all people who resist"...
-
-## Comments (3)
-
-### Thomas Frenning (Framgångscoachen)
-> Tack, detta gillar jag Antoni,
-> Inga affärer görs upp mellan företag, affärer görs upp mellan människorna i företagen. Att det ska vara så svårt att förstå!
-> 
-> Ser fram emot mer klokskap från dig.
-
-### Stephen Soo CPA ($28M+ Client Profit Growth | 2026 Silver Stevie Mentor of the Year | Business Owners, Brokers & Lenders | 99.10% Client Satisfaction, Australian Achiever National Winner)
-> well said Antoni Lacinai
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> And still some managers are shortsighted and reorganize when results not appear in two or three months. I once work in a company where we made three shift in thirtheen months. Better outcome? No! Better teamwork. No! More confused? Yes!
-> 
-> Love your short thoughtprovoking films by the way Antoni Lacinai 🌟
-

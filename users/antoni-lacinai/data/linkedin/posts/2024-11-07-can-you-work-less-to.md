@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_can-you-work-less-to-get-more-yes-an
 likes: 26
 comments: 8
 images_count: 1
+author_comments:
+- This is your home turf Anna-Carin Alderin ^_^
 ---
 
 Can you work less to get more?
@@ -31,19 +33,3 @@ It’s not about laziness. It’s about working optimally. Recovery is super imp
 Thank you for reading my mind. Let's create a CARE-centric culture
 
 PS - what do you think about the idea of working fewer hours?
-
-## Comments (4)
-
-### Dick Andersson (HR-konsult - Projektledare - Ekologiskt Ledarskap)
-> We have just started the project for about 90 individuals. We will try 4DW and 32h week in different units. So interesting to see the results during and after 6 months🤔🎉🌈🪇🧑‍💻 Anna-Carin Alderin
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> This is your home turf Anna-Carin Alderin ^_^
-
-### Andrea Moreau Folcker (Helping leaders build the leadership and organizational capability required to execute strategy and transformation. Executive Search • Leadership Consulting • AI Leadership)
-> This is an interesting topic, even more so now that we introduce AI to the workforce. The 8hr 5 days a week was generally adopted by Ford in 1914, in the biggining of the industrial revolution when he proved it to be profitable, soon others followed. 
-> Since then we have practically changed everything in the workplace except the hours and place we work in. Why is that? I have a theory, but that’s too long for a comment 😊
-
-### Kumail Mehdi (Helping 9-5ers Leverage AI For Side Hustle | ISO 42001 Lead Auditor | Turning Skills into Systems | SEO & Branding for Industry Experts.)
-> ✔️ 101% Agreed. Less time for the routine, more power for the creative. That’s where AI can shine!
-

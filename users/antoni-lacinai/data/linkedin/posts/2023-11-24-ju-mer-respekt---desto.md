@@ -39,25 +39,3 @@ Människor upplever också 𝟴𝟲% sämre prestation.
 𝟭𝟮% har sagt upp sig från sina jobb på grund av oartighet på arbetsplatsen.
 
 Nyligen har jag föreläst om detta för en stor afrikansk bank och försäkringsbolag som slagits ihop till ett bolag. Jag har såklart också berättat om alla goda konsekvenser av att ha en trygg och kul atmosfär. Det handlar om att hantera förändringar - tillsammans
-
-## Comments (5)
-
-### Mona Samoiel (Employer Branding Specialist/Let´s Uptech och kokboksförfattare privat (Lucias mat))
-> Klokt inlägg som vanligt. Ser fram emot läsa din bok snart Antoni!
-
-### Hazel Lerman (Santam -Experience and Client Care Acclaimed Action Woman I Innovative Strategic Thinker I Servant Leader I Talent Maximiser I Radical Fixer and Builder I ICF Coach ACC)
-> Learnt a valuable lesson when you shared this story with us .
-
-### Pernilla Jönsson (Upphandlare)
-> Tänkvärt!
-
-### Malin Hofflander, PhD (Hjälper chefer att skapa konsekvent ledarskap genom strukturerade medarbetarsamtal | Grundare av CENCEO |)
-> Tack för din sammanfattning Antoni! 
-> 
-> Det finns ju massor av forskning om företagskultur och hur denna påverkar människorna (tillräckligt för att ingen egentligen ska tvivla), samt vilka vinster det ger. 
-> 
-> Så glad och hoppfull varje gång jag får möjlighet att hjälpa insiktsfulla ledningsgrupper att faktiskt arbeta med värderingar och kultur 🙋🏼‍♀️
-
-### Paul Mc Connon (CEO of Unique Speaker Bureau International)
-> It was such a great talk Antoni
-

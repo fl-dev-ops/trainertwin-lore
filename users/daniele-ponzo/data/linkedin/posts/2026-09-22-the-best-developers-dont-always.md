@@ -66,25 +66,3 @@ part of Rome Future Week
 👇 I'd love your opinion.
 
 Which non-technical skill do you think will become most valuable for developers over the next five years?
-
-## Comments (5)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Technical skills get you far, but clear communication is what helps your ideas influence the whole team.
-
-### John P. (Helping Businesses Worldwide to optimize Modern Workspaces | Follow for posts on CyberSecurity, Data Governance (Purview) & AI)
-> You framed communication as the skill that turns good code into trusted leadership in a global team.
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> Daniele Ponzo Technical skills build solutions, but communication builds trust.
-> 
-> I think the ability to explain complex ideas simply will matter even more.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Communication is increasingly becoming the bridge between technical expertise and real influence.
-> 
-> The ability to explain complex ideas clearly can be just as valuable as the ability to build them.
-
-### Christopher Wright (Co-Director. Trainer. Helping companies and professionals to speak, meet and present more effectively and confidently in English. Classes and workshops.)
-> Daniele Ponzo Beyond the noise of AI you're asking better questions about what makes developers valuable now and in the future. Thursday's event should be really good.
-

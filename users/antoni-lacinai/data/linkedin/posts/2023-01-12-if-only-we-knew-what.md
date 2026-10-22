@@ -23,15 +23,3 @@ Sharing is caring.
 Share!
 
 Bom! Mic drop!
-
-## Comments (2)
-
-### Kjartan Halvorsen (Expert in Modeling, Optimization & Control | Applied Mathematics for Real-World Systems)
-> So true, my friend.
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Communication has led us to where we are. Communication will take us to where we want to be. It all started sitting by the open fireplace and I guess we have to gather around the fire again. 
-> 
-> Let´s talk! Let´s listen! Let us learn. 
-> Together. Today. For tomorrow ❤
-

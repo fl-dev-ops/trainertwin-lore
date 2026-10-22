@@ -30,21 +30,3 @@ If you lead meetings, give updates, sell the vision, or host a stream, your voic
 What’s one moment this week where your voice could have used a deliberate pause, or a stronger emphasis?
 
 —Adrian
-
-## Comments (5)
-
-### Tuba Kizilkan (Digital-Leadership-Studentin in Berlin | Business-English- & Kommunikationstrainerin | Bildungsinnovation, KI-Kompetenz & Projektkoordination | XMind Ambassador)
-> Very true. Voice modulation turns information into presence, and presence is what keeps people with you when attention starts to drift.
-
-### Leena Patel (Engineering Leader | Enterprise AI & GenAI | AI Platforms & Product Engineering | Cloud Transformation | Enterprise Architecture | Technology Strategy | High-Performance Engineering Teams)
-> A leader’s voice shapes the room long before the message lands. One intentional pause or shift in tone can turn passive listeners into active believers.
-
-### Md Mishuk Ali (Video Editor & Visual Effects Designer | Dedicated to startup branding, social storytelling & documentary visuals.)
-> Adrian, This is such a subtle but powerful point. How we say things often matters more than what we say.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Yes, intonation can definitely make a difference, Adrian! Happy Sunday 🙂
-
-### Sarah Gruneisen 🐉 (Principal Consultant in Transformation: AI for Leaders and Products • Scaling engineering leaders, teams, and sustainable impact with AI • Leadership • Human-Centered Transformation)
-> Ohhhh reminds me of those teachers with monotonous voices that put me to sleep instead of taught me!  Happy Sunday!
-

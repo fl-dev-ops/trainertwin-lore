@@ -20,9 +20,4 @@ speakers:
   speaker_1: 'Daniele'
 ---
 
-
-# Improve your English with my Program | Solution Speak | English for TECH
-
-## Transcript
-
 speaker_1: Hi everyone My name is Daniele and Ive been posting here on LinkedIn for a while so I decided let me introduce myself This is why Im here now Um so I have 13 years experience in IT service delivery RPA team leader team management And Ive now been teaching English for seven years at all levels So I decided to combine both sides both aspects of my experience and craft a specific dedicated focused uh program for um IT managers IT team leaders IT professionals who want to improve their English who want to boost their confidence and who want to excel and grab career opportunities And uh so this is why I have designed this specific program Um over the coming months I am going to share some news some ideas on my uh LinkedIn profile so stay tuned Um theyre all going to be about excellence about language improvement and about how we can uh boost our confidence when we need to speak English uh which is not our first language And so stay uh connected and um in the meantime Ill be really really interested in knowing a bit more about you So your background your profile uh your struggles So feel free to comment here below and do let me know um what you think maybe just introduce yourself thatd be lovely Looking forward to uh connecting more with you looking forward to knowing you a bit more In the meantime welcome to my network and Ill see you in the next video Thank you

@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter01
-
-## Transcript
-
 speaker_1: अथ प्रथमोऽध्यायः
 अर्जुनविषादयोगः
 धृतराष्ट्र उवाच

@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 11 - Deep Generative Models Diffusion models part 1 Formulation
-
-## Transcript
-
 speaker_1: of us have marked in the quiz but the answer is saying increased disentanglement on increasing beta
 
 speaker_2: One second

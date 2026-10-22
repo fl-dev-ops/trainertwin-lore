@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_i-heard-the-same-sentence-over
 likes: 52
 comments: 13
 images_count: 1
+author_comments:
+- Thanks for reposting, Augusto Ribeiro Antunes 🙏
+- If I could go back in the past, i would probably start focusing on communication as a whole first... and I wouldn't be so obsessed with certifications as I used to be
 ---
 
 I heard the same sentence over and over again this week.
@@ -138,35 +141,3 @@ that ceiling starts to disappear.
 
 At what point did English stop feeling like a language...
 and start feeling like a career or business limitation for you?
-
-## Comments (9)
-
-### Alessandro Tocco (Il Volto Umano della Tecnologia)
-> Buona sera Daniele, purtroppo è vero, un inglese fluido, una conversazione tecnica commerciale è un pochino più complicata rispetto a quella che magari possiamo imparare in un corso, anche io lo sento, quando mi capita di andare fuori Italia o di avere clienti stranieri, le cose semplici, le frasi di presentazione sono un discorso, fare una chiacchierata, una conversazione conversazione tecnico commerciale sono un’altro paio di maniche
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Technical skills open the door, but communication creates the opportunity. Very relatable point.
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> An important insight: communication is often a strategic business capability, not just a language skill Daniele Ponzo. Confidence in high-stakes conversations expands opportunities that technical expertise alone cannot unlock.
-
-### Conor Clarke (I help technical experts move from reactive problem-solver to visible leader | Make important decisions sooner, protect time for higher-value work and become recognised for how you lead | Leadership & Career Coach)
-> Perception can make a huge difference here, Instead of seeing limitations, we can see opportunities and possibilities. The way we see ourselves in a positive light can lead to more confident communication and decisions being made.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Augusto Ribeiro Antunes 🙏
-
-### Ajinkya Revdikar (I’ll help you turn your content into revenue in 90 days | 400M+ views • $4M+ generated for clients | Want to get clients from content? Click on ‘Book an Appointment’ button below↓)
-> That distinction between knowing English and using it confidently in business really stood out.
-> 
-> Understanding the language is one thing but communicating ideas clearly under pressure is a completely different skill.
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Technical expertise opens doors, but clear communication often determines how far those opportunities go. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If I could go back in the past, i would probably start focusing on communication as a whole first... and I wouldn't be so obsessed with certifications as I used to be
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Many people don't need better English. They just need more practice in real business conversations.
-

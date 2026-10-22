@@ -71,9 +71,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️Daniele
  
  #english #itprofessionals #interview
-
-## Comments (1)
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Also craft a good question to ask the hiring manager.
-

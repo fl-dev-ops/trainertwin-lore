@@ -18,11 +18,6 @@ speakers:
   speaker_7: null
 ---
 
-
-# Online Session - Online session Review of Client Meeting Recording - Part 2
-
-## Transcript
-
 speaker_1: question Lets get back to the video
 
 speaker_2: All the better right And of course like uh you will be eligible for example for a Golden Visa You told me up to 1 million you are looking to invest right

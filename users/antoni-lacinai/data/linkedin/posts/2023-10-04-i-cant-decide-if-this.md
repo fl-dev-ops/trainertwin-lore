@@ -11,9 +11,3 @@ I can’t decide if this is funny or tragic.
 What is your view?
 
 #flexiblework #hybridwork #wfa
-
-## Comments (1)
-
-### Eliot Freed (Live Marketing - Digital Events and Experiences at Ericsson)
-> Tragic.
-

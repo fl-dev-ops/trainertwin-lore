@@ -23,7 +23,3 @@ Alert for viewers: This episode is recorded in Urdu/Hindi and focuses on inflati
 Would love to hear your thoughts and perspectives after you listen.
 
 #SupplyChain #Inflation #Economics #Podcast #Operations #GlobalSupplyChain #PersonalFinance #Urdu #Hindi
-
-### Shared Article: [This inflation will hurt you more than Covid | Wali Khan](https://youtu.be/e6ElkWCinMQ?si=coX_Fw0qN3jD8oXK)
-> youtube.com
-

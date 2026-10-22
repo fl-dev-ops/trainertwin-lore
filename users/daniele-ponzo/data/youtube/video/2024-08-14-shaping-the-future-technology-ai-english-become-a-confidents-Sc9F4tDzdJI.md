@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Shaping the #future: #technology, #ai, #english. Become a #confidentspeaker and boost your #career
-
-## Transcript
-
 speaker_1: So business academia and education So three main areas we could say Uh okay my obvious question would be which ones do you prefer Well feel free not to answer it
 
 speaker_2: Oh uh it is difficult Um Ill be absolutely honest because were creating some really amazing stuff Um in terms of both the technology and experiences Um but the which one is more my favorite is difficult because I love working with people Um Ive been very lucky I have to say that uh because you know me moving from Poland very early on with English actually based on Stargate TV series or watching Star Wars over and over and over So my English was extremely bad and I was lucky to to land in Ireland and have opportunities with people that were looking at it

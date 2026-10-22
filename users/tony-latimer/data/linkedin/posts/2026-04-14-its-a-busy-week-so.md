@@ -11,9 +11,3 @@ Do I need to think about which voices I need to hear?
 Do you need to plan your week for #ICW2026
 Or do you feel lucky, punk?
 Thanks to Clint Eastwood for the inspiration
-
-## Comments (1)
-
-### Singapore Chapter of ICF (5,312 followers)
-> Thank you Tony Latimer we look forward to you speaking at the event!.
-

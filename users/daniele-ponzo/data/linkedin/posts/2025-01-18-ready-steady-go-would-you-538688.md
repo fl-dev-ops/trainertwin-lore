@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_ready-steady-go-would-you-like
 likes: 26
 comments: 6
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFduKEmy-bhGw/mp4-720p-30fp-crf28/B4DZR1tNqIGUBg-/0/1737141583904?e=1793178000&v=beta&t=7uT7_h7C-_c7kdaIf_FohTygqciAEuvnV5jr9mIa2ek
+author_comments:
+- "\U0001F5E3️last chance to listen to my talk about: \n\n➡️ 3 common challenges professionals face when learning English\n\n➡️ 'H.A.C.K.' your English: a proven strategy to progress\n\n\n\U0001F157 \U0001D407\U0001D428\U0001D427\U0001D41E: Refine and expand your vocabulary in context.\n\n\U0001F150 \U0001D400\U0001D41C\U0001D42D\U0001D422\U0001D428\U0001D427: Presentations, meetings, calls, AI buddy… every interaction is a chance to learn and grow.\n\n\U0001F152 \U0001D402\U0001D428\U0001D425\U0001D425\U0001D41A\U0001D41B\U0001D428\U0001D42B\U0001D41A\U0001D42D\U0001D422\U0001D428\U0001D427: Network with your peers, find a mentor, work with a coach, get support from AI.\n\nExchange ideas and get feedback.\n\n\U0001F15A \U0001D40A\U0001D42E\U0001D41D\U0001D428\U0001D42C: Celebrate milestones to boost morale and monitor progress.\n\n➡️ English improvement and soft skills: the gateway to career advancement"
+- Thanks Pauline H. for the interview, I really had a great time talking to you!
 ---
 
 Ready, Steady, Go!
@@ -47,35 +50,3 @@ If you miss it now, it's gone.
 Your career (and your future self) deserves it. 💪 
 
 Are you in?
-
-## Comments (4)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🗣️last chance to listen to my talk about: 
-> 
-> ➡️ 3 common challenges professionals face when learning English
-> 
-> ➡️ 'H.A.C.K.' your English: a proven strategy to progress
-> 
-> 
-> 🅗 𝐇𝐨𝐧𝐞: Refine and expand your vocabulary in context.
-> 
-> 🅐 𝐀𝐜𝐭𝐢𝐨𝐧: Presentations, meetings, calls, AI buddy… every interaction is a chance to learn and grow.
-> 
-> 🅒 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Network with your peers, find a mentor, work with a coach, get support from AI.
-> 
-> Exchange ideas and get feedback.
-> 
-> 🅚 𝐊𝐮𝐝𝐨𝐬: Celebrate milestones to boost morale and monitor progress.
-> 
-> ➡️ English improvement and soft skills: the gateway to career advancement
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks Pauline H. for the interview, I really had a great time talking to you!
-
-### Prof.Dr.Evone Botros. (AI Governance Researcher | Journal Founder | Fellow, Royal Society of Great Britain at Oxbridge Institute of Professional Development (OIPD) - UK)
-> Exciting!!
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> This sounds like a fantastic opportunity! Daniele Ponzo
-

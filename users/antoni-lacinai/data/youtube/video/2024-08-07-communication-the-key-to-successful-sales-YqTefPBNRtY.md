@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Communication The Key to Successful Sales
-
-## Transcript
-
 speaker_1: So what do you think Like is like the communication the number one thing in sales or is it just one uh small part of it Whats your opinion
 
 speaker_2: What what an interesting question Uh communication in itself is nothing But the effect of communication is everything So you cannot do what you want to do unless you can communicate

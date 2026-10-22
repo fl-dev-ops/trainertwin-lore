@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# How to Invite Agents to Discover OBG Projects - Part 1
-
-## Transcript
-
 speaker_1: But I think I need to try once again before I decide if I because I think agents prefer WhatsApp for the first communication Because for myself when I have a call from a number I can it is not my contact I I dont pick up
 
 speaker_2: You are an agent and you do not pick up strange numbers Like in my understanding look Im not here to judge anything but in my understanding when I was an agent and I had I had a number which is not in my phone book calling me my assumption immediately was thats a client Someone referred me to the client Had that a lot

@@ -7,13 +7,6 @@ likes: 13
 comments: 0
 ---
 
-## Caption
 This is a good day to put some more love into the world
 
 I'm just saying
-
-## Image Text
-
-> Alt text: Photo by Antoni Lacinai on February 13, 2024.
-
-No readable text was detected in the image.

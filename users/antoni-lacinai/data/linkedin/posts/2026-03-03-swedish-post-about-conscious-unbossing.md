@@ -17,13 +17,3 @@ Swedish post about Conscious Unbossing
 Läs mina tankar från VD-tidningen och fundera: Vad händer om färre vill steppa upp och ta en chefsroll?
 
 https://lnkd.in/d52Z9R-6
-
-### Shared Article: [Conscious unbossing – en trend att hålla ögonen på för dig som vd](https://vdtidningen.se/conscious-unbossing-en-trend-att-halla-ogonen-pa-for-dig-som-vd-blogg/)
-> vdtidningen.se
-
-
-## Comments (1)
-
-### Teresa Tot (Verksamhetsutvecklare och hållbarhetsansvarig)
-> Intressant perspektiv! Jag läste för några år sedan om en liknande spaning, men där analysen var att techbranschens framgång har gjort att det har blivit mer status att vara specialist än chef. Oavsett är det ju tydligt att synen på ledarskap och i vissa fall attraktiviteten i en chefsroll inte är lika självklar längre.
-

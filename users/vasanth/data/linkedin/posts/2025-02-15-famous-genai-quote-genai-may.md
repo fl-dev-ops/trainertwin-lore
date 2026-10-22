@@ -21,7 +21,3 @@ and many other IDE's, their pricing, which one to use when ?  in detail. The maj
 Please watch the video and share your feedback: https://lnkd.in/dasAjvfr
 
 Follow me and I will help you to find you're dream job: Vasanth Bhat
-
-### Shared Article: [Replit – Build apps and sites with AI](http://Repl.it)
-> replit.com
-

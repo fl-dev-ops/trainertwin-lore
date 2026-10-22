@@ -94,9 +94,3 @@ If this feels familiar…
 it’s probably already affecting how you’re perceived.
 
 When things break in the moment… what goes first: your words, your structure, or your confidence?
-
-## Comments (1)
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> That's a very good piont. Once the door's open then you must go through it and that can only be done by means of communicating.
-

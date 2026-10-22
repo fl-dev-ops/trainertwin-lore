@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 01  Overview of Function Approximation
-
-## Transcript
-
 speaker_1: Hello everyone welcome to the NPTEL
 course on mathematical foundations of
 machine learning Lets begin the first

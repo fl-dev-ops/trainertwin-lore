@@ -5,6 +5,23 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-businesscommun
 likes: 32
 comments: 19
 images_count: 1
+author_comments:
+- "So it all depends on the right strategies:\n\U0001D5DC\U0001D5FB\U0001D5FD\U0001D602\U0001D601-\U0001D5E5\U0001D5F6\U0001D5F0\U0001D5F5 \U0001D5D8\U0001D5FB\U0001D603\U0001D5F6\U0001D5FF\U0001D5FC\U0001D5FB\U0001D5FA\U0001D5F2\U0001D5FB\U0001D601\U0001D600: Immersion and exposure to the language.\n\U0001D5DA\U0001D5FF\U0001D5EE\U0001D5FA\U0001D5FA\U0001D5EE\U0001D5FF \U0001D5EE\U0001D5FB\U0001D5F1 \U0001D5D6\U0001D5FC\U0001D5FA\U0001D5FD\U0001D5FF\U0001D5F2\U0001D5F5\U0001D5F2\U0001D5FB\U0001D600\U0001D5F6\U0001D5FC\U0001D5FB \U0001D5E3\U0001D5FF\U0001D5EE\U0001D5F0\U0001D601\U0001D5F6\U0001D5F0\U0001D5F2: Using explicit grammar learning coupled with comprehension-focused methods \n\U0001D5E1\U0001D5F2\U0001D602\U0001D5FF\U0001D5FC\U0001D5FD\U0001D5F9\U0001D5EE\U0001D600\U0001D601\U0001D5F6\U0001D5F0\U0001D5F6\U0001D601\U0001D606-\U0001D5D5\U0001D5EE\U0001D600\U0001D5F2\U0001D5F1 \U0001D5E7\U0001D5F2\U0001D5F0\U0001D5F5\U0001D5FB\U0001D5F6\U0001D5FE\U0001D602\U0001D5F2\U0001D600: Repetition of associations, especially through methods like spaced repetition and associative memory tasks.\n\U0001D5E0\U0001D5FC\U0001D601\U0001D5F6\U0001D603\U0001D5EE\U0001D601\U0001D5F6\U0001D5FC\U0001D5FB \U0001D5EE\U0001D5FB\U0001D5F1 \U0001D5DA\U0001D5FC\U0001D5EE\U0001D5F9 \U0001D5E6\U0001D5F2\U0001D601\U0001D601\U0001D5F6\U0001D5FB\U0001D5F4: Highly motivated learners with specific language goals tend to achieve better fluency levels, as motivation drives consistent practice."
+- |-
+  Still not convinced?
+  Studies have used different approaches to answer this question: is it possible for adults to master a second language to fluency?
+
+  Here’s what I’ve learned:
+
+  MIT Scientists prove adults learn language to fluency nearly as well as children.
+  https://medium.com/@chacon/mit-scientists-prove-adults-learn-language-to-fluency-nearly-as-well-as-children-1de888d1d45f
+
+  Neuroimaging techniques indicate that even within a short, 18-minute training, adults can begin forming associative memory links between new pseudowords and familiar objects.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC7894913/
+
+  According to a professor of linguistics at Georgetown University “adults are better learners at everything because we have a lot of self-regulation and we're very intent when we want to learn something”,
+  https://gufaculty360.georgetown.edu/s/contact/00336000014Tn24AAC/lourdes-ortega
+- "More studies: \nAdults can achieve native-like fluency in comprehension and grammar with consistent exposure and practice.\nhttps://psycnet.apa.org/record/1995-28549-001\nadults benefit from explicit grammar instruction combined with communicative practice. Motivation plays a significant role in achieving fluency.\nhttps://brainvitge.org/papers/birdsong_age%202nd%20l%20acq%20proc.pdf"
 ---
 
 7 likely reasons why you’re not progressing in English
@@ -62,72 +79,3 @@ Hi, I'm Daniele. I post about English communication, IT and confidence.
 Like my posts? Follow or connect with me here➡️ Daniele
 
 #ITProfessionals #BusinessCommunication #LeadershipSkills
-
-## Comments (11)
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo great!
-> Let’s challenge some persistent myths 
-> and popular beliefs 
-> There is research evidence that 
-> demonstrates that adults can reach fluency 
-> The brain's plasticity doesn’t suddenly “disappear” after a certain age.
-> With the right strategies and practice, adults can absolutely achieve high levels of fluency.
-
-### Vanessa Andrews (Associate Consultant)
-> Great advice
-
-### Mayowa Adejayan (Helping Growing Businesses Turn Digital Problems Into Practical Solutions | Websites • AI • Automation | Founder, InsightWeave)
-> I really love point number 2, 'I need to be perfect before I speak.' It really resonates with me!
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Brilliant advice man! I used to see number 2 all the time! "Perfectionism loves progress" Well said, Daniele Ponzo 👏
-
-### Stefania Marinelli (Turning Busy Professionals into Authentic Leaders | Associate Certified Coach -ICF | Senior People Manager | Agile Coach)
-> I checked them all off! 😄 😅 
-> 
-> And:
-> - I started learning (really) English when I was more than 40... at school I was studying French
-> - I studied after dinner from 9.30pm to 10.30pm
-> - I discoverd people are loving my italian accent
-> - I found time while working and having a child
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Nice way to challenge these limiting beliefs Daniele Ponzo 👏
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo 
-> This is a fantastic breakdown of common barriers to learning English! Each point highlights the mindset shifts necessary for growth, particularly the emphasis on consistency and self-compassion.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> And then there's the classic duo: I am not good at languages + I need to be perfect before I speak 😵‍💫
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> So it all depends on the right strategies:
-> 𝗜𝗻𝗽𝘂𝘁-𝗥𝗶𝗰𝗵 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝘀: Immersion and exposure to the language.
-> 𝗚𝗿𝗮𝗺𝗺𝗮𝗿 𝗮𝗻𝗱 𝗖𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝗼𝗻 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲: Using explicit grammar learning coupled with comprehension-focused methods 
-> 𝗡𝗲𝘂𝗿𝗼𝗽𝗹𝗮𝘀𝘁𝗶𝗰𝗶𝘁𝘆-𝗕𝗮𝘀𝗲𝗱 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀: Repetition of associations, especially through methods like spaced repetition and associative memory tasks.
-> 𝗠𝗼𝘁𝗶𝘃𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗚𝗼𝗮𝗹 𝗦𝗲𝘁𝘁𝗶𝗻𝗴: Highly motivated learners with specific language goals tend to achieve better fluency levels, as motivation drives consistent practice.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Still not convinced?
-> Studies have used different approaches to answer this question: is it possible for adults to master a second language to fluency?
-> 
-> Here’s what I’ve learned:
-> 
-> MIT Scientists prove adults learn language to fluency nearly as well as children.
-> https://medium.com/@chacon/mit-scientists-prove-adults-learn-language-to-fluency-nearly-as-well-as-children-1de888d1d45f
-> 
-> Neuroimaging techniques indicate that even within a short, 18-minute training, adults can begin forming associative memory links between new pseudowords and familiar objects.
-> https://pmc.ncbi.nlm.nih.gov/articles/PMC7894913/
-> 
-> According to a professor of linguistics at Georgetown University “adults are better learners at everything because we have a lot of self-regulation and we're very intent when we want to learn something”,
-> https://gufaculty360.georgetown.edu/s/contact/00336000014Tn24AAC/lourdes-ortega
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> More studies: 
-> Adults can achieve native-like fluency in comprehension and grammar with consistent exposure and practice.
-> https://psycnet.apa.org/record/1995-28549-001
-> adults benefit from explicit grammar instruction combined with communicative practice. Motivation plays a significant role in achieving fluency.
-> https://brainvitge.org/papers/birdsong_age%202nd%20l%20acq%20proc.pdf
-

@@ -21,13 +21,3 @@ Let's believe in the strength of communities instead of dictatorship
 Let's celebrate togetherness instead of helplessness
 
 #leadership #communication #engagement #keynote
-
-### Shared Article: [Antoni Us vs them](https://bit.ly/2zhSpso)
-> bit.ly
-
-
-## Comments (1)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Klart vi ska vara ett team!🌟
-

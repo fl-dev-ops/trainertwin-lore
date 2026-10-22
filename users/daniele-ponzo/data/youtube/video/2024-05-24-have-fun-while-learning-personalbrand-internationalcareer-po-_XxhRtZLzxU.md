@@ -24,9 +24,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Have fun while learning! #personalbrand #internationalcareer #podcast #nonnative #networking #learn
-
-## Transcript
-
 speaker_1: And the second point you know the power of networking like networking is great and these days we have great opportunities We have social networks you know they help us network but when you do it in the right way its actually fantastic because you can meet new people you can learn as you said and you can have fun while you do it which I think is is the key you know because if its boring you dont want to do it you know Like remember when you were going to school you know things are boring you dont want to do it But if you learn and you have fun at the same time I think its its uh its pretty good Thats my idea anyway

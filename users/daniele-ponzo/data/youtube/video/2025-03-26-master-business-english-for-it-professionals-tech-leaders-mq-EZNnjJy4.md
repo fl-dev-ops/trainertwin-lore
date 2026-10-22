@@ -44,11 +44,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Master Business English for IT Professionals & Tech Leaders!
-
-## Transcript
-
 speaker_1: Welcome back everybody Uh today I would like to introduce and welcome Daniele Ponzo whos going to talk to us about English for IT Why Daniele is an expert business English coach with over 13 years of experience in a multinational IT corporation With a masters degree in sociology and mass media and a background in project leadership roles at Xerox as well as with the Italian Ministry of Education with universities and research Daniele combines his technical expertise with language coaching Hes been coaching IT professionals and helping them enhance their communication skills for over eight years and has successfully worked with over 300 professionals Daniele is also passionate about coaching and developing professionals to reach their full potential Great so lets go to it
 
 speaker_2: All right so welcome everybody Um today we have Daniele Ponzo with us and hes going to talk about English for IT Why Uh so Daniele welcome welcome

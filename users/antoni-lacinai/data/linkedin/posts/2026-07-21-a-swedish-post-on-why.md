@@ -26,15 +26,3 @@ Från stämpelklocka till wifi-kontroll. Båda mäter fel saker.
 Hur skapar du tillit och engagemang hos ditt team?
 
 https://lnkd.in/ew2w5s7P
-
-### Shared Article: [Wifi-kontroll på jobbet mäter fel saker - Arbetsmiljö - HRnytt](https://hrnytt.se/arbetsmiljo/fran-stampelklocka-till-wifi-kontroll-bada-mater-fel-saker/?utm_source=rule&utm_medium=email&utm_campaign=HRN0474B1_winner&uid=vKAemWaZND2ZPJ81LQpMj&utm_custom%5Brm%5D=368009517)
-> hrnytt.se
-
-
-## Comments (1)
-
-### Maria Kardborn (People, Culture, Communication & Coach @ Prasinum)
-> ”Wifi-loggar kommunicerar något tydligt. Frågan är om det är det du vill säga”
-> 
-> Spot on!
-

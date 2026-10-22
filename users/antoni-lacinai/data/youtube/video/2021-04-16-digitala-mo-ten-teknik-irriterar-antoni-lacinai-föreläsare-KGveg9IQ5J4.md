@@ -13,11 +13,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Digitala möten Teknik irriterar - Antoni Lacinai, föreläsare
-
-## Transcript
-
 speaker_1: Slutligen det sista tipset är detta Ha bra ljud ljus och bild Alltså seriöst vi måste sluta nu med att ha laptopen i knät fönstret bakom oss Jag ser en siluett kanske eller jag ser dig med näsborrarna rätt upp där och taklampan för du har laptopen i knät och du har inget bra ljud och du har inget bra ljus och inget bra någonting inte ens bild Det blir inget bra möte jag lovar dig Du behöver jacka upp nu Nu har vi haft den situationen här under våren Nu tycker jag att vi har kommit in i på vintern Vi ska ha en ny vår där vi ska hålla på så här
 
 

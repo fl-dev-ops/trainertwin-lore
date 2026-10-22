@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Reclaim Your Time: The Real Key to Focus and Learning #shorts
-
-## Transcript
-
 speaker_1: disconnect from the internet to reconnect with the world to reconnect with boredom to really focus on what matters to you
 
 

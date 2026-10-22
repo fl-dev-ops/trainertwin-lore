@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# 9 year experienced ruined his career by joining this company🤮🤮🤮|Told Angular but given internal work
-
-
-## Transcript
-
 speaker_1: No no dont do that Okay dont do that whether its internal or outside Dont say La for the last two years you did not work on the technology and you want a job in that technology now
 
 speaker_2: And one one more one more one more thing I just wanted to add

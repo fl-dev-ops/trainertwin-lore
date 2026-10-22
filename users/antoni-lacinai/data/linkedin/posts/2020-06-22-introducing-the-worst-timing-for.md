@@ -31,16 +31,3 @@ If you are interested in hiring me, I will send you my latest book EMPLOYEE ENGA
 //Antoni
 #keynote #communication #employeeengagement #workplacecommunication #customerexperience #leadershipcommunication
 www.antonilacinai.com
-
-### Shared Article: [Antoni Lacinai - International Keynote Speaker - Antoni Lacinai](http://www.antonilacinai.com)
-> antonilacinai.com
-
-
-## Comments (2)
-
-### Kristoffer Bergendahl (✨Professionell föreläsare - Hållbara medarbetare, presentationsteknik/retorik, bemötande ✨Författare)
-> Antoni is a fantastic and engaging speaker! Always with a smile, always with something interesting to say. He will be your safest bet and your best investement post-Corona. Visit hos website now!
-
-### Sharfunnisa A. (BA (Hons) Psychology Student, Mental health advocate promoting kindness, 🐈 lover, enjoy conversing with people from different walks of life!)
-> Love the new look of your website!
-

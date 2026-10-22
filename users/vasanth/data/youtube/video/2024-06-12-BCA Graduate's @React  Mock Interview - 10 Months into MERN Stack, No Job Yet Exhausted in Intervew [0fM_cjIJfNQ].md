@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# BCA Graduate's @React  Mock Interview - 10 Months into MERN Stack, No Job Yet|Exhausted in Intervew?
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to career with Vasant YouTube channel My name is Vasant With me I have Vinay So Vinay is a BCA graduate and after completing BCA he is currently spending almost 10 months in Monstack course More about Vinay Vinay himself will be explaining This particular interview is going to be focused on some basic questions of JavaScript and Reactjs We are also going to spend some time on solving a real Reactjs scenario driven question Okay so if any question if Vinay do not answer properly Im going to answer them at the end of the video So please watch until end of the video
 
 

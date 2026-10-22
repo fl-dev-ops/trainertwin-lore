@@ -18,7 +18,3 @@ Extremely proud of that
 ^_^
 
 #tedxspeaker #Keynotespeaker #communication #motivation #engagement
-
-### Shared Article: [TEDxVasa Antoni Lacinai - 6 communication truths that everyone should know](https://buff.ly/3OP4Cr6)
-> ted.com
-

@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# No Freedom of Speech: How do you deal with it?
-
-## Transcript
-
 speaker_1: So the first is how do you adjust to a culture where you know the government has like strict regulations on speech and But I suppose it it takes time also to come up with a way so that you can adjust to to the way you speak the way you act
 
 speaker_2: Well you mirror you see and of course a lot of these people are are very courageous as well Um when one of the times I left um Chad my passport was taken away And so uh

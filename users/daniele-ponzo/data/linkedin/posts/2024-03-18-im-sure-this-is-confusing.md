@@ -70,15 +70,3 @@ I share free tips to help IT Managers & Team Leaders communicate more confidentl
 If that’s something you’re interested in, give me a follow and ring the bell 🔔  so you'll never miss a post ➡ Daniele
 
 #itprofessionals #languagetips #english
-
-## Comments (3)
-
-### Tomàs Pablo Carbone (Founder TOMKO Engineering srl | I am passionate about Management and Clinical Imaging, I help TOMKO engineering srl to create management and imaging systems necessary to improve the daily lives of our customers.)
-> " like sprinkling oregano on a bruschetta "  is fantastic 😅
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Great photo!
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> It's raining apostrophes 😄
-

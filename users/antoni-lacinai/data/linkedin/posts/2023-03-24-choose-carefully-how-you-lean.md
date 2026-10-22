@@ -11,12 +11,3 @@ Choose carefully how you lean your head : ) :
  
 It might impact your mood – 
 and others
-
-## Comments (2)
-
-### Cecilia Hakeberg (Organisations- och varumärkesstrateg 💭)
-> Lutar alltid lite åt vänster så valet var både lätt och rätt 😊
-
-### Diploma (2,899 followers)
-> Very true!🙂🙃
-

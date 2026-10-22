@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Software Engineer to Coach. How to do make the change? #podcast #shorts
-
-## Transcript
-
 speaker_1: Dariusz we are towards the end of our chat unfortunately Uh so we spoke about a lot of things which including this little exercise which Im going to try And so talking about changing yourself now you are also helping others change because thats part of your of your career now your coaching So in that in that perspective is there any recommendation you would give uh to people who want you know go through the same path or to a similar path or to have like an international experience like yours
 
 speaker_2: Learn English is the starting point before in current market research the country you want to go through Because English is international language its language of the internet You can communicate everywhere in English

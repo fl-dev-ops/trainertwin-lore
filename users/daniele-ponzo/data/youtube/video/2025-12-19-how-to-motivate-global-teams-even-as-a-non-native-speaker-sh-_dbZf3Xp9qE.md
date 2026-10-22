@@ -22,11 +22,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Motivate Global Teams Even as a Non-Native Speaker #shorts
-
-## Transcript
-
 speaker_1: for quite some time You learn you to motivate people and and get them to work for you And I think that being a a coach trainer for for a volleyball team that helped me a lot on what can I do to make them work for me make them do things that they are not always happy about because if youre training and you say okay guys do 15 laps theyre like no I dont want to do 15 laps But you still have to motivate them to give them a bone why theyre doing that
 
 speaker_2: Okay

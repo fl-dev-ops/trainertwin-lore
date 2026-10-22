@@ -1,6 +1,6 @@
 ---
 id: zM5-TlrmKg8
-title: Tutorial 15 Part 1 : RNNs, LSTMs and GRUs
+title: "Tutorial 15 Part 1 : RNNs, LSTMs and GRUs"
 url: https://www.youtube.com/watch?v=zM5-TlrmKg8
 date: '2026-03-20'
 duration: 34:06
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 15 Part 1 : RNNs, LSTMs and GRUs
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorials in
 which we will be running through

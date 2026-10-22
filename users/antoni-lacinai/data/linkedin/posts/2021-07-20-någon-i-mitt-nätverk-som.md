@@ -13,9 +13,3 @@ Någon i mitt nätverk som glömt sin svarta skinnportfölj i Trollhättan?
 Har du möjligtvis varit på Life Överby, Trollhättan 8/7?
 Vi har hittat en svart skinn portfölj med anteckningar
  mm! Det låg ett visitkort med ditt namn i, hör gärna av till oss!"
-
-## Comments (1)
-
-### Iris Lindman (HRBP | HR Manager | Senior Consultant | Passion for People & Business Growth | Founder of RainbowMaker - help companies grow through people first strategy)
-> Robert Lindberg ☝️?
-

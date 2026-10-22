@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 10 Adhyaya 68 to 78 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 आराध्य देवदेवेशं शङ्करं लोकशङ्करम्
 तपसा तोषयित्वा तं कैलासगिरिवासिनम्

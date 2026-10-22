@@ -14,9 +14,3 @@ You are all welcome to join
 Do you operate in the Mumbai area? 
 Even better then
 C-U soon
-
-## Comments (1)
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Coolt Antoni! Good luck
-

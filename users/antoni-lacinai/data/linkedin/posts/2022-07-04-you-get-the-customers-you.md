@@ -17,9 +17,3 @@ Core topic: How you meet, greet and treat each other internally, will affect how
 Or in one single word: CARE
 
 #communication #engagement #leadership
-
-## Comments (1)
-
-### Chor Zhi Yun (Chloe) (Learning & Development Specialist ‖MBA, HRM Specialization ‖ HRDC Accredited Certified Trainer ‖ Learning Business Partner ‖ English For Professionals ‖ Dynamic Leadership Proficient ‖)
-> congrats antoni😊
-

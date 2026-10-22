@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Biggest Mistakes Agents Make Selling Off-Plan Properties
-
-## Transcript
-
 speaker_1: Welcome to another episode with our secret lady agent who is about to crash the market with hundreds of deals So far she got us very juicy questions And my name is always Olga Sinenko and Im your real estate sales trainer with my own sales experience And how I like to say I never been working you know in hospitality or you know maybe retail I never been a cabin crew All my career starting from 21 and Im 45 now I just been selling real estate Okay so I hope I already bored you to death about me So what were going to have for today by the way lets get back to that American client whom we had a discussion Can you brief us briefly about that You got this lead what was the first stage of you understanding what she wants and then what happened
 
 speaker_2: Yes so the lady requested she wants to buy a property in UAE and she wants to retire and move and leave America And then when I start showing her the properties with the prices and she first of all she was very clear that she wants something in Marjana Island And she specifically applied for W Hotel which is the luxury brand And then when I shown her the properties options she said oh thats crazy Thats more than a million US dollars Im having only 100000 US dollars

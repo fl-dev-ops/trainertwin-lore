@@ -19,23 +19,3 @@ Strong communication prevents costly breakdowns.
 https://lnkd.in/djrK9Kcr
 
 #Teamwork #LeadershipCommunication #EnglishAtWork
-
-## Comments (3)
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> congrats on the book Daniele Ponzo and on the business page too :)
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Communication is definitely important. Most conflicts happen because the lack of it. HACK your English
-
-### HACK your English (200 followers)
-> 📘 Want to go deeper?
-> If you work in IT or tech and use English in meetings, presentations, or international teams, my book Easy English for IT is designed exactly for this.
-> 
-> It focuses on clarity, confidence, and real workplace communication — not textbook English.
-> 
-> 👉 Get the book here:
-> https://www.amazon.com/EASY-ENGLISH-carriera-contesto-internazionale/dp/B0FQJT7G3Q/ref=tmm_pap_swatch_0
-> 
-> Let me know in the comments which communication challenge you’re facing right now 👇
-

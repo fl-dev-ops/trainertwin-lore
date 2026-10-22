@@ -19,6 +19,3 @@ We propose a framework for enhancing underwater videos. The first stage uses a d
 This is a peculiar project that involved an undergrad intern Hemang J Jamadagni, a master's student Aditya C, and a PhD student Suhas Srinath, contributing to the work.  
 
 Pre-print attached.
-
-### Shared Document: [WACV_APP]()
-

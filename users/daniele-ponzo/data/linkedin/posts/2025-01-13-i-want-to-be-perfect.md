@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_englishtips-itprofessionals-bu
 likes: 20
 comments: 14
 images_count: 1
+author_comments:
+- '📌 ''Practice makes perfect'', but also ''Perfect is the enemy of good''. What''s your #1 strategy to avoid getting stuck?'
+- '📌 Business English mastery, Cross-cultural communication. Mindset and leadership skills. 7 days. Online. Free. Register here: https://speaktoleadsummit.com/optin'
 ---
 
 'I want to be perfect'.
@@ -64,27 +67,3 @@ P.S. looking for more strategies, advice, tips? Join me for the 𝗙𝗥𝗘𝗘
 P.P.S If you want to overcome perfectionism and start speaking today, you still have 5 days to get 𝟯𝟬% discount on my 𝟭𝟬-𝗪𝗲𝗲𝗸 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗼𝗿 program. Just what you need to get results and excel in your career 💫 .
 
 #EnglishTips #ITProfessionals #BusinessCommunication
-
-## Comments (7)
-
-### Prof.Dr.Evone Botros. (AI Governance Researcher | Journal Founder | Fellow, Royal Society of Great Britain at Oxbridge Institute of Professional Development (OIPD) - UK)
-> Interesting!!
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> But I want to be perfect :D
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 'Practice makes perfect', but also 'Perfect is the enemy of good'. What's your #1 strategy to avoid getting stuck?
-
-### Donna Maravillas (CELTA & TEFL Certified English Language Teacher, Speaking Examiner, Writer of two English Activity books for children, a Teacher Volunteer at Yazidi@School)
-> Love this
-
-### Teodora Toma (Most Brands Post & Pray. I Build 360 degrees Marketing Ecosystems That Sell. | Founder @ Digital Marketing Agency Tailored Media)
-> “Repetition -> Practice -> Experience -> Confidence” - well said! I say the same things to the clients for which I do marketing: If at the beginning you feel shy to talk about yourself or record videos, do it anyway and soon enough you will become more confident
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> I often reflect on how communication is a distinct skill in itself and doesn’t necessarily reflect your level of proficiency
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Business English mastery, Cross-cultural communication. Mindset and leadership skills. 7 days. Online. Free. Register here: https://speaktoleadsummit.com/optin
-

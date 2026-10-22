@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Must watch @React mock interview for Indian| can't speak good English?| Check how to clear Interviw?
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Kreative Vasants YouTube channel My name is Vasant Today with me I have a Prem Kumar So this is a series of mock interview as you know this playlist is primarily dedicated for mock interview across various different experience level So with me today I have Prem Kumar whose experience is around 3 point 5 years So as he requested this this particular session is primarily around the basics of JavaScript and Reactjs Okay so we will be asking some scenario based questions some amount of the fundamental question guest outputs all of that Ill be asking in this particular session Lets explore
 
 

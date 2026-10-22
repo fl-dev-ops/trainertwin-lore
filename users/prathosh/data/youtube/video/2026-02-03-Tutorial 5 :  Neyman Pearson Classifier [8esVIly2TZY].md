@@ -1,6 +1,6 @@
 ---
 id: 8esVIly2TZY
-title: Tutorial 5 :  Neyman Pearson Classifier
+title: "Tutorial 5 :  Neyman Pearson Classifier"
 url: https://www.youtube.com/watch?v=8esVIly2TZY
 date: '2026-02-03'
 duration: 48:59
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 5 :  Neyman Pearson Classifier
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorial in
 which we will be looking at

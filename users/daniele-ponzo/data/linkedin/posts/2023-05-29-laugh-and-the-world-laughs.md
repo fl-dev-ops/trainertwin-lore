@@ -43,16 +43,3 @@ How do you express optimism and genuine interest through your intonation?
 Let's learn from each other and unlock the full potential of our voices!
 
 #IntonationMatters #OptimisticConversations #GenuineInterest #EffectiveCommunication #englishlearning
-
-## Comments (2)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> I completely agree with you on the importance of intonation in conveying optimism and genuine interest during conversations. Emphasising certain words or using rising tones can truly make a difference in the message being delivered. 
-> 
-> One point that stands out to me is practicing mimicking. I’ve found that it helps in adapting one’s speaking style to match the energy and enthusiasm of others, which creates a more engaging exchange.
-> 
-> Have you ever encountered a situation where adjusting your intonation has significantly improved the outcome of a conversation or collaboration?
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> I agree that changes in pitch, rhythm and tone can highly impact a conversation. Letting positive emotion come through is important...as is managing negative emotion. Great post Daniele.
-

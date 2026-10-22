@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_brilliant-it-and-tech-professi
 likes: 51
 comments: 8
 images_count: 1
+author_comments:
+- Thanks for reposting Augusto Ribeiro Antunes 🙏
 ---
 
 Brilliant IT and tech professionals are leaving thousands of dollars on the table because they are trying to fix the wrong communication problem.
@@ -46,24 +48,3 @@ I created a step-by-step mini guide called
 to show you exactly how to replace these junior patterns with high-authority frameworks. 
 
 Go to my 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 at Daniele Ponzo, head to my 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗦𝗲𝗰𝘁𝗶𝗼𝗻 (In Primo Piano, Destacado, Mise en avant, Im Fokus, Destaque, Uitgelicht, 精选, 注解, : المميز), and download your copy for free.
-
-## Comments (6)
-
-### Nicoletta Cocco (Scrivi e trasforma il tuo libro in uno strumento che aumenta visibilità, guadagni e autorevolezza. Non vedo l’ora di parlare del tuo progetto!)
-> Such a valuable resource! And for free! Happy days 😍
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> I agree. Clarity and confidence matter more than flawless English.
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> Real-Time Translation is definitely a speech killer. But it gets better with time.
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Clear communication amplifies technical expertise and leadership impact, Daniele Ponzo. Confidence comes from structure and purpose, not perfect language.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Augusto Ribeiro Antunes 🙏
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> This is such an important distinction. I’ve seen so many non-native English friends over-explain, soften their point, apologise when they don't even need to - the issue is their habit of shrinking under pressure.
-

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 🔥 Clear Amazon Interview 🔥 Tips & tricks from Amazon-Prime developer 🔥 [2022 Edition] #amazon#clear
-
-
-## Transcript
-
 speaker_1: second round is uh front end front end tech they will ask you about uh how how performance work how uh how what is a like questions like what is ab testing and all yeah so such such kind of things uh which will need in
 
 speaker_2: After you go inside

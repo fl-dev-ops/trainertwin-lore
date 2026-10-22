@@ -97,27 +97,3 @@ That's when English starts feeling lighter.
 Because you're no longer starting from zero every time you speak.
 
 Which of these four situations sounds most familiar to you?
-
-## Comments (7)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Practical advice like this is often more valuable than generic communication tips.
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Strong set of real field problems, especially around cognitive load in communication, Daniele Ponzo. What stands out is how structure replaces improvisation pressure and improves clarity under stress.
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Effective communication is often about structure rather than using more complex language. Daniele Ponzo
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> Simple frameworks reduce stress because they free your mind to focus on the conversation instead of searching for the next sentence.
-
-### Thomas Chen (​4 to 6-figure (USD) sales deals closed | Helping founders, sales professionals and their teams to get bigger clients through LinkedIn. | Trusted by clients worldwide (Testimonials in Featured/ Recommendations))
-> Very true, Daniele Ponzo. Many people try to translate their thoughts directly, but the better approach is to rebuild the message in a simpler and clearer way.
-
-### Christopher Wright (Co-Director. Trainer. Helping companies and professionals to speak, meet and present more effectively and confidently in English. Classes and workshops.)
-> Top tips! Using simple communication frameworks make it easier to remember and be remembered, Daniele Ponzo.
-
-### Sabina Khatun (Success needs all of you. | Content that brings you the right clients | Get help with your Content Design · Storytelling · Branding | Founder & CEO @recline)
-> Simple frameworks create room for better conversations. They free the mind to listen instead of constantly searching for words.
-

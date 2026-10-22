@@ -14,12 +14,3 @@ As we enter the budget processes for many companies and set goals for next year,
 If you want mediocre results then by all means go 4 it. But if you want to peak perform, check this video out...
 
 #keynotespeaker #communicationcoach #leadership #communication #engagement
-
-## Comments (2)
-
-### Emilie Loman (Grundare av Wowservice | Hjälper företag skapa lojala kunder, ambassadörer & hållbara servicekulturer genom wowservice | Föreläsare, Utbildare, Författare av boken “Wowservice” & host för Wowpodden)
-> Så bra! Happy goals.
-
-### Lucas Johannesson (Hjälper några av Sveriges största namn inom coachning med marknadsföring och bygga sälj-presentationer 🏆)
-> Intressant! Tack!
-

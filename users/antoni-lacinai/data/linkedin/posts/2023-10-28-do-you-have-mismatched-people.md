@@ -26,7 +26,3 @@ Caring doesn't mean that one can accommodate every whim and wish from everyone, 
 7. Handle people who refuse to follow
 
 did I miss anything?
-
-### Shared Article: ['Mismatched workers' are derailing your hybrid work plans](https://www.benefitnews.com/news/rto-mandates-are-stressful-for-employees?utm_source=newsletter&utm_medium=email&utm_campaign=V3_EBN_FirstLook_2023%2B%27-%27%2B10272023&bt_ee=I6%2BmYIjYVuKkKBHxUcoIT8xpthkpDekh3DxSuGizfso%3D&bt_ts=1698401345529)
-> benefitnews.com
-

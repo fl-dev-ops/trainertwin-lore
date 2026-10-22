@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 65 Introduction to Generative Models
-
-## Transcript
-
 speaker_1: Okay in this class we will look at the
 principles of uh generative modeling
 So so far in this course

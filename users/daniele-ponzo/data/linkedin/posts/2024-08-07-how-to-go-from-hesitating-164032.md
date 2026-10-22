@@ -44,21 +44,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #LanguageLearning #ConfidenceBuilding
-
-## Comments (5)
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> Great work, Daniele Ponzo! It must feel rewarding to see results from the work you're putting into building the confidence of non-native English speakers. Well-done!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Don’t be afraid to make mistakes. Each mistake is an opportunity to learn and improve. Daniele Ponzo
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Such important skills to work on Daniele...communication, assertiveness, presentation skills...so much of development in these areas is about practice, self-reflection, feedback and support. Great work 👏
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Brilliant stuff, Daniele Ponzo! Awesome to see results like this 👏 Keep up the amazing work my friend! 🙌
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> Your English Accelerator program sounds transformative! I like how you emphasize practical experience over just grammar rules, Daniele Ponzo
-

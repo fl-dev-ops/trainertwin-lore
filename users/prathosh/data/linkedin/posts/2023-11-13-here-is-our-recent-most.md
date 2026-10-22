@@ -26,6 +26,3 @@ This is the work of my students Piyush Tiwary and Kinjawl Bhattacharyya. Congrat
 Chair ECE Department of ECE, IISc EECS @ IISc, Bengaluru #iisc #ai4good #healthcareai 
 
 Here is the code for our implementation - https://lnkd.in/edZ2zn7K
-
-### Shared Document: [BPT_EBM_MedIA]()
-

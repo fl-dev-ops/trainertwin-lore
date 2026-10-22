@@ -29,23 +29,3 @@ Courage, clarity, and the will to grow without waiting for “perfect” English
 📺 Subscribe to the YouTube channel for full episodes: https://lnkd.in/dbhYzRhy
 
 Let’s keep learning from non-native leaders, one voice at a time.
-
-## Comments (3)
-
-### The Non-Native Leader - Podcast (443 followers)
-> The latest episode is out now. "Building trust in global business. Watch it here: https://youtu.be/2-TZzVr_O3U
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> It’s important to express gratitude to the creators of LinkedIn for giving all members the opportunity to connect with the world something that simply wouldn’t have happened otherwise.
-> 
-> Thank you for creating this space. I look forward to listening to your podcast.
-> 
-> 
-> The Non-Native Leader - Podcast 🙏
-
-### The Non-Native Leader - Podcast (443 followers)
-> 💬 Which episode or story resonated most with you?
->  Or—if you're new here—what topic would you love us to explore next?
-> 👇 Drop your thoughts, feedback, or even guest suggestions below.
->  Let’s grow together—one story at a time. 🌱🌍
-

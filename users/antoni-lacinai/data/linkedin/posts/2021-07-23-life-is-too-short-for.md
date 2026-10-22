@@ -13,12 +13,3 @@ Just saying ^_^
 #communication #leadership #engagement
 
 from my book Employee engagement - 20 keys to outstanding workplace communication
-
-## Comments (2)
-
-### Andrea Moreau Folcker (Helping leaders build the leadership and organizational capability required to execute strategy and transformation. Executive Search • Leadership Consulting • AI Leadership)
-> Du i en nötskal med andra ord 😉
-
-### Katarina Vinterskog (Sales Representative passionate about creating value and inspiring experiences at World of Volvo)
-> Förträfflig!
-

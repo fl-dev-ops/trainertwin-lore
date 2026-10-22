@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_the-best-communicators-arent-a
 likes: 58
 comments: 12
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHU3mQ7YirtjA/CeJxzMnGJMo_yNzQ18jBwydfVcULmB6LxQ9H4kWj8dF0AG4ATzw?e=1793178000&v=beta&t=hVdEhIcMJkCMyulFRHHvcKxA58zdDqzgOwfloZk5_WY
+author_comments:
+- '▶️ Watch or Listen to Episode 38 here: https://youtu.be/xZvWBpdAh_I'
 ---
 
 The best communicators aren't always the ones speaking.
@@ -88,40 +90,3 @@ We talk about career development, communication, cultural awareness, listening, 
 When you're speaking English at work, do you prefer people to give you a moment to think...
 
 or does silence make you feel more pressure?
-
-## Comments (8)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Such an underrated skill. Giving people a few extra seconds to think can lead to much better conversations and insights.
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> True.  Good communication is a balance of being clear, listening well, and giving people space to think.
-> 
-> Daniele Ponzo
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> An important reminder that effective communication starts with patience, not just articulation, Daniele Ponzo. Creating space for reflection often unlocks deeper insights, stronger inclusion, and better collaboration across diverse teams.
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> Thank you, Daniele Ponzo
-> That story stayed with me too.
->  
-> As someone who works with professionals from diverse backgrounds, I've learnt that communication is not just about helping people speak.
->  
-> It's also about creating enough safety and space for them to be heard.
-> Sometimes the greatest gift we can give another person is simply not rushing them.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Giving people a moment to think often leads to better responses, not slower conversations.
->  
-> Some of the most valuable insights emerge after a brief pause.
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Many people underestimate the cognitive effort involved in communicating in a second language. Daniele Ponzo
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Absolutely. In cross-cultural settings, that pause can be the difference between clarity and misunderstanding. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ Watch or Listen to Episode 38 here: https://youtu.be/xZvWBpdAh_I
-

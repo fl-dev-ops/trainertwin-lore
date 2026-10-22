@@ -10,15 +10,3 @@ images_count: 2
 Tack
 
 Bara Tack ♥️
-
-## Comments (3)
-
-### Michael Björn (Research Fellow @ Ericsson | XR, AR, VR, Spatial Computing Visionary | Trend Augur | TEDx Speaker | Ex-Adjunct Professor | Keynote Speaker & Lecturer | Author & Music Journalist)
-> Grattis 🙌
-
-### Renée Jonson (TEKNIKINFORMATÖR (pågående studier) I Marknadsföring I Kommunikation I Grafisk design I CMS I Utbildning I Onboarding I Customer Success I Arbetsflöden I)
-> Men så roligt, grattis 🤩
-
-### Martin Theorin (Rådgivare Skillspartner Talarbyrå & Utbildningar/Ägare MT Meetings)
-> Kungen!
-

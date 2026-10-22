@@ -53,28 +53,3 @@ Watch it and tell me:
 What worries you more: your accent or your clarity?
 
 #BusinessEnglish #EnglishForIT #CommunicationSkills #CareerGrowth #NonNativeEnglish #PublicSpeaking #TechCareers #ConfidenceAtWork
-
-## Comments (2)
-
-### Nidhi Patel (Most Websites Don’t Convert I Fix That | Be visible on major AI platforms | SEO*GEO | Helping Businesses Grow through Web Development & Data Driven Digital Marketing | Web Developer → Growth Strategist)
-> Strong point. Clarity matters far more than chasing a perfect accent.
-> Well said. Pronunciation and pacing make the real difference in communication.
-> Good insight. Confidence often comes from being understood, not sounding native.
-> Clear takeaway. Improving clarity directly improves professional impact.
-> Valuable reminder. Communication is about understanding, not perfection.
-
-### HACK your English (200 followers)
-> If this resonates, here’s something to reflect on:
-> 
-> Next time you speak English in a meeting, don’t ask:
-> 
-> ❌ “Do I sound native?”
-> 
-> Ask:
-> 
-> ✅ “Am I easy to understand?”
-> ✅ “Is my message clear?”
-> ✅ “Am I structuring my ideas well?”
-> 
-> That shift alone changes everything.
-

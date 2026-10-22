@@ -19,9 +19,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# 3 PROBLEMS to avoid when you speak ENGLISH
-
-## Transcript
-
 speaker_1: Number two mistakes Yeah We see mistakes but do we do mistakes No we make mistakes in English Well we dont want to make mistakes but the correct way of saying it is we make mistakes yeah So no do we make mistakes So for example uh last year I made a big mistake Im not going to tell what mistake I made but you know thats the idea okay

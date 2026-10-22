@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# From Truck Driver to Supply Chain Manager: Here’s How You Can Do It FAST!” #supplychain #career #job
-
-
-## Transcript
-
 speaker_1: The way you can grow from a logistics operator role and Ive seen so many examples over my 20 year career where people actually joined as truck drivers or they joined as someone who was just picking up pallets or moving stuff around a warehouse and they ended up uh becoming supply chain managers or senior planners and uh how do you really do that right so you will have to demonstrate some key skills imagine as a warehouse coordinator you became an expert of managing the WMS in that warehouse so you could become an expert of that and then you can use that as a gateway to get another job as a WMS expert in another company which might pay you more salary and then build your career maybe in the supply chain technology space

@@ -41,13 +41,3 @@ Coaching as a Service covers the events. Hours are held across the whole managem
 The ROI of high value coaching in organisations comes down to three things: how quickly help arrives, how quickly the problem is resolved, and what it is costing you while it is still there.
 
 The full business case is here: https://lnkd.in/gedQ2dWn
-
-### Shared Article: [Coaching as a Service On Demand | APAC | Singapore | Dubai](https://www.profitableleadership.com/caas)
-> profitableleadership.com
-
-
-## Comments (1)
-
-### Paul Anthony Zaman GAICD SID (Board Advice, Papers, Mentoring on Dividends, Fundraising, M&A, ESG AI Strategy. Fractional IRO: Sell-side and buy-side execution; set-up world-class IR team. ECM/Stockbroker in Aus and SG. AICD & SID Accredited.)
-> Good insights Tony.
-

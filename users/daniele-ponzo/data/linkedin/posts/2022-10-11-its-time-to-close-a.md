@@ -11,9 +11,3 @@ It's time to close a chapter of my life...it's been interesting, full of ups and
 Time to move on towards new adventures!
 
 #politics #education #government
-
-## Comments (1)
-
-### Cathal M. (Business Performance ,Operational Turnarounds , Acquisition, Mergers and Disposals)
-> Good luck with the new adventure
-

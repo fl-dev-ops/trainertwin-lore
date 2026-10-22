@@ -16,7 +16,3 @@ Ramakrishnan A G, V. Ramgopal Rao, ANIL WALI, FITT IITDelhi, Manu Kohli
  
 
 https://lnkd.in/gmHRVhc
-
-### Shared Article: [Home](https://cogniable.tech/)
-> cogniable.tech
-

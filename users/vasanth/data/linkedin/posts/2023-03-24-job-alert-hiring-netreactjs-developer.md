@@ -26,7 +26,3 @@ www.facileconsulting.com
 Contact my friend Sathvik J for referral.
 
 Follow me and I will help you to clear your interview: Vasanth Bhat
-
-### Shared Article: [Home - Facile Consulting | Mobile | Web Application Development Company](http://www.facileconsulting.com)
-> facileconsulting.com
-

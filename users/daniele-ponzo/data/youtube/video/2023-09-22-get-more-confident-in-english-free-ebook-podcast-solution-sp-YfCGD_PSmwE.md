@@ -34,11 +34,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Get more CONFIDENT in ENGLISH | FREE eBook | Podcast | Solution Speak
-
-## Transcript
-
 speaker_1: Hey everyone I hope September has been treating you well so far and youre working on some exciting projects Im here today because I want to share some great news with you And so are you ready So the first thing I want to share is that I have nearly finished working on my ebook about speaking English with confidence for IT professionals
 
 

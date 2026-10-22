@@ -20,7 +20,3 @@ Yasin shares his incredible journey to Canada and sheds light on the challenges 
 
 
 https://lnkd.in/gPZcwf-h
-
-### Shared Article: [How to Land a Technical Role in Canada | Insights from a Telecom Executive](https://youtu.be/vXh31uuGvzs?si=aEi5sLryqLFZZeRw)
-> youtube.com
-

@@ -20,7 +20,3 @@ https://lnkd.in/gnTt3UiD
 This work is in collaboration with Ramya Hebbalaguppe and Goirik Chakrabarty   from TCS research and my student Aditya C. 
 
 This may be of interest to some of you.
-
-### Shared Article: [LoMOE: Localized Multi-Object Editing via Multi-Diffusion](https://arxiv.org/abs/2403.00437)
-> arxiv.org
-

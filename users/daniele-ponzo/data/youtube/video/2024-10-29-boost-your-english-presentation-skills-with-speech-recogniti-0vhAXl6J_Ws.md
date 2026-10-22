@@ -21,9 +21,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Boost Your English Presentation Skills with Speech Recognition & AI | Business English for IT Pros
-
-## Transcript
-
 speaker_1: Hey everyone So here I am today I want to show you a little hack a little trick you can use to uh practice your English at home Uh maybe to prepare for a big event or you know to practice your fluency to action to get into action even though you are on your own And how can you do it You can leverage you can use AI artificial intelligence to simulate a work situation a work scenario And in this little tutorial I want to show you how I would do it myself Okay So lets get started and take your note

@@ -53,11 +53,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Learning History Through Real Conversations #shorts
-
-## Transcript
-
 speaker_1: again And you know uh I theres something extra that I ask some of my friends international friends um when they arrive in Singapore is to encourage them to do volunteer works to talk to some of our old folks our senior citizen who are able to share with them We are sharing with them present Singapore But if they go and talk to some of the older folks they will be able to understand the history of Singapore That that will give them facts So instead of being frustrated with some of the culture and practice we have talking to some people understanding the history behind it that will give you facts And thats turning from frustration to facts
 
 speaker_2: Yes And at the same time connecting with people who have a lot to share because they have lived uh life they have experience And definitely they would be so eager to share Yes absolutely

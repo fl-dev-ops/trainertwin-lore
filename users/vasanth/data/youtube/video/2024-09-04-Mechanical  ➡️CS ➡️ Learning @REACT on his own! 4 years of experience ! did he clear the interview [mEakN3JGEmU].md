@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Mechanical  ➡️CS ➡️ Learning @REACT on his own! 4 years of experience ! did he clear the interview?
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Khera with Vasans YouTube channel previously known as Uncommon Weeks My name is Vasan I hope you are doing well Today with me I have Praveen Praveen is from Tamil Nadu more about Praveen he himself will be saying As you know this is a series of mock interview where we are discussing various different topics and the right way to get use of this mock interview is like whenever I ask some question to Praveen you can pause the video and try to answer it by yourself Lets say I ask him a coding problem you try to solve the coding problem on your own So that way youre going to actually get benefit out of this and for some reason if Praveen do not answer any question in the video
 
 

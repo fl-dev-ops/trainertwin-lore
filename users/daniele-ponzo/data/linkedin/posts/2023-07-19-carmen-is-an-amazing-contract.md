@@ -46,9 +46,3 @@ Like my posts? Remember to hit the bell on my profile so you’ll get a notifica
 Follow|Daniele
 
 #communication #ITprofessionals #careerdevelopment
-
-## Comments (1)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> You know you're making strides when colleagues start recognising your improvement! Amazing work and congrats Daniele and Carmen! 👏
-

@@ -19,13 +19,3 @@ Meet Åsa Degermark  who shares her experiences as a virtual leader. She just la
 #leadership #virtualleadership #communication #engagement
 
 Do you want to know what 500 virtual leaders say about challenges they want to overcome? Say YES and I will send you the summary of my e-book Virtual leadership
-
-### Shared Article: [Åsa Degermark - expert in digital leadership and Virtual summits](https://buff.ly/35ZeQQj)
-> buff.ly
-
-
-## Comments (1)
-
-### Kristina von Knorring (Partner at Improviate)
-> Yes please
-

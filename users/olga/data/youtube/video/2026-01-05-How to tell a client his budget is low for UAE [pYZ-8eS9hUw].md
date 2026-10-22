@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to tell a client his budget is low for UAE?
-
-## Transcript
-
 speaker_1: Okay shorten down the question This is what were going to learn from communication What do you actually want to tell want to ask me
 
 speaker_2: How to tell a client with low budget like that he has no

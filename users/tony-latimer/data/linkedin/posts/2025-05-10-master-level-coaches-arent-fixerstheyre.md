@@ -38,7 +38,3 @@ If you’re a PCC or experienced ACC coach and ready to coach at a whole new l
 🔗 Start today: https://lnkd.in/gJRCHaCk
 
 I am the coach who trains coaches to coach at the speed of thought.
-
-### Shared Article: [The Simplicity of Mastery](http://profitableleadership.com/simplicityofmastery)
-> profitableleadership.com
-

@@ -31,11 +31,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why an International Career Is Worth the Challenges #shorts
-
-## Transcript
-
 speaker_1: As I was saying about Colombia and about Chile and all the other countries uh it was never easy But all of those steps all of those countries were very much aligned to my ultimate goal of creating an international and global career at the end of the day
 
 speaker_2: Yes

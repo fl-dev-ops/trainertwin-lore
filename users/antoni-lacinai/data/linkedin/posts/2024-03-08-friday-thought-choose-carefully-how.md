@@ -12,9 +12,3 @@ Choose carefully how you lean your head ):)
  
 It might impact your mood 
 and others
-
-## Comments (1)
-
-### Mikaela Teiffel (Relationsbaserad ledare med hjärta och driv)
-> Interesting! I like..
-

@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Moving Abroad helps you broaden your perspectives. From New York to Timbuktu. #globalskills
-
-## Transcript
-
 speaker_1: as you grow I mean I was fairly young when I left and as as I was growing you know into young adult and kind of going to college and then to masters degree like you start seeing yourself you know what what is it actually that is expected of me And so you challenge yourself more no And and then perhaps also you start understanding yeah just getting a better understanding as well of what I like you know not only what am I good at but also what what do I enjoy doing So I think moving abroad allows you to do these things in a way that staying in in the same place doesnt necessarily I think
 
 speaker_2: And you believe that that so my steps youve done it How many times

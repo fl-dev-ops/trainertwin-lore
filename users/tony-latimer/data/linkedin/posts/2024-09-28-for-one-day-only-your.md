@@ -15,12 +15,3 @@ I am offering six 45-minute coaching sessions, one to one, in return for a minim
 The booking website is now ⭐️ live⭐️ - it’s first come first serve! 
 Visit https://lnkd.in/dirW3VCM
  and type my name in the search bar to book with me.
-
-## Comments (2)
-
-### Tetiana Riabokin (Communications and Development Lead, Coach (ICF))
-> Thank you for the opportunity!
-
-### Steve Cory (Serial Entrepreneur | Founder, Cory Media Group | Helping Middle Tennessee Businesses dominate online.)
-> Empowerment through coaching and giving back. Tony Latimer, MCC
-

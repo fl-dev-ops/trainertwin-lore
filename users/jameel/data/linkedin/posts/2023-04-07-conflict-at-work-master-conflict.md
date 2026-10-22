@@ -13,7 +13,3 @@ article:
 Conflict at Work? Master Conflict Management with These 3 Tips in 5 Minutes!
 https://lnkd.in/ggmc-Vxw
 #ConflictManagement #WorkplaceConflicts #CommunicationSkills #ActiveListening #EffectiveCommunication #ProfessionalRelationships #CareerSuccess #ConflictResolution #Teamwork #LeadershipSkills #PersonalDevelopment #ProblemSolving #Productivity #Collaboration #PositiveWorkEnvironment #SelfImprovement #CareerAdvice #WorkplaceTips #BusinessSkills #EmployeeDevelopment
-
-### Shared Article: [Conflict at Work? Master Conflict Management with These 3 Tips in 5 Minutes!](https://youtu.be/bqonfYsMrMA)
-> youtube.com
-

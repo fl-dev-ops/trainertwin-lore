@@ -14,11 +14,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Social Skills Every Tech Professional Needs (But Nobody Teaches) #shorts
-
-## Transcript
-
 speaker_1: So you get those social skills that I think are really valuable especially in the tech world right Where everything is technology AI and coding you know you need a bit more of that just to interact and to connect
 
 speaker_2: And very goal oriented rather than exploratory even in conversation

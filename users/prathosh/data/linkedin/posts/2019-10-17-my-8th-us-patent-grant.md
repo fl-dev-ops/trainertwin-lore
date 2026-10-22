@@ -14,7 +14,3 @@ article:
 My 8th US patent grant - https://lnkd.in/fy-fnpm
 
 This is an interesting theoritical patent where we formulated the problem of modelling irregularly sampled time series as a linear dynamical system with learnable parameters (learned through the EM). Subsequently we applied it to the problem of modelling clinical time series. Thanks to my previous colleagues at Xerox research.
-
-### Shared Article: [US20170286569A1 - System and method of modeling irregularly sampled temporal data using kalman filters - Google Patents](https://patents.google.com/patent/US20170286569A1/en)
-> patents.google.com
-

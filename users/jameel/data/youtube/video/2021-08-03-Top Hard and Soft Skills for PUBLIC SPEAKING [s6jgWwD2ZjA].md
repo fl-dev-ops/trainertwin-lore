@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Top Hard and Soft Skills for PUBLIC SPEAKING
-
-
-## Transcript
-
 speaker_1: Well first of all I want to welcome you to the Soft Skills channel where our mission is to help professionals build real life skills for their job and career that they dont teach in college So thanks a lot for helping us with this effort And Adil as everybody knows like you are a very famous performer artist and a public speaker So today well be asking you some questions about the skill sets on how to be a good public speaker So very specifically my first question to you is tell us about the top three hard skills or technical
 
 

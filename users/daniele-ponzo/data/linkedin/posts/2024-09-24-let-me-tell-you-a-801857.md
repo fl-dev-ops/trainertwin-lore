@@ -47,19 +47,3 @@ Practice using tenses: Use the 𝐩𝐚𝐬𝐭 𝐬𝐢𝐦𝐩𝐥𝐞 for com
 So, what’s YOUR story? I'd love to know it ❤️ !
 
 P.S. I have just put together a little document with extra tips and examples. 📩 DM or comment the word ‘STORY’ and I’ll send it over to you
-
-## Comments (3)
-
-### Paolo Lipari (Helping Tech Scale-ups (€2M ARR) Grow in Italy - From First Call to Closed Deal | Full cycle sales | Market- Expansion | Founder @ OutboundHub)
-> It’s a great reminder of how powerful a well-told story can be in making a lasting impact. Daniele Ponzo
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Absolutely @
-> 
-> Storytelling is such a powerful way to convey information and make it more relatable. 
-> 
-> Love these tips ))
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> A ton of useful tips in this post Daniele! 😎
-

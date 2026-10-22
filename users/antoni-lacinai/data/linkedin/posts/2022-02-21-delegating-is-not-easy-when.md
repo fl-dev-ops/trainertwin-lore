@@ -37,22 +37,3 @@ Thank you for reading my mind
 // Antoni 
 
 #leadership #communication #engagement
-
-### Shared Article: [Att delegera är också en konst - Ledarskap - HRnytt](https://buff.ly/3JuTGdU)
-> hrnytt.se
-
-
-## Comments (4)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Love this
-
-### Archana Parmar (Leadership Coach | Communication & Influence | Creator of The Identity Gap Method™ | Helping Senior Leaders Turn What They Know Into Communication That Influences Decisions & Action |Author | NLP Mater| ICF PCC (Pathway))
-> I read your mind Antoni Lacinai
-
-### Jenny Åberg (Personal Brand Stylist för ledare & team | Stil som driver affär & förtroende | 30+ år inom internationell försäljning | ProperStyle by J)
-> Det är så otroligt viktigt att involvera personen i det man delegerar. Och att det inte blir uppgifter man själv inte tycker är roligt. Hellre att den man delegerar till är bättre än mig på detta eller har uttryckt intresse för att utvecklas inom detta område. Bra artikel Antoni!
-
-### Barbara Wennheden (👆Resultatdriven VD och seniorkonsult på iTURN som skapar värde, affärsnytta och konkurrenskraft för din organisation genom långsiktig och hållbar utveckling av människor 👉 Med engagemang och självledarskap i fokus.)
-> Många chefer förväxlar delegera och dumpa 🙄 Delegera handlar inte om att rensa skrivbordet. Delegera handlar om att dela med sig av ansvar och befogenheter i syfte att den som man delegerar till ska ta eget ansvar, utvecklas och växa 🙃
-

@@ -75,19 +75,3 @@ Then leadership starts seeing you differently.
 Because you finally became visible.
 
 𝗖𝗮𝗻 𝘆𝗼𝘂 𝘀𝘁𝗶𝗹𝗹 𝗿𝗲𝗺𝗲𝗺𝗯𝗲𝗿 𝘆𝗼𝘂𝗿 𝗳𝗶𝗿𝘀𝘁 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗺𝗲𝗲𝘁𝗶𝗻𝗴? 𝗛𝗼𝘄 𝗱𝗶𝗱 𝗶𝘁 𝗳𝗲𝗲𝗹?
-
-## Comments (4)
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Fluency comes with practice, but confidence grows when we stop waiting to be perfect before starting.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Sometimes taking that first step is what builds real confidence.
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> I think a lot of confidence comes after you do the scary thing, not before. The first call may feel terrible, but the second already feels a little more normal.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Confidence often grows through participation, not before it. 
-> Saying yes while you’re still learning can create the visibility and experience that eventually makes bigger opportunities feel possible.
-

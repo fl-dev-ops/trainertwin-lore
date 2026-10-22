@@ -37,11 +37,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What happens when you have an Italian name abroad?
-
-## Transcript
-
 speaker_1: So who are you Where are you And what do you do
 
 speaker_2: My name is I was born Gianluca but uh because of uh issues um that I actually um started to see in that anglophone people for people who are um of uh English native speaking countries They had a rough time on say So they always ask me could I call you John Its your name Its like John Luke No So I had to shorten the name for Luca So I changed and switched since 2005 Yeah in near Hamburg

@@ -14,12 +14,3 @@ That belief is the problem. It’s not just that it makes selling feel awkward, 
 Selling Yourself to Corporates is a story that invites you to notice that shift in yourself, and then watch what changes when you stop trying to “sell coaching” and start trying to understand what someone genuinely needs.
 
 Available on Amazon & Kindle
-
-## Comments (2)
-
-### Travis Moh☘️ (Helping estate planning firms sign 5-10 new clients/month with our One-to-Many Webinar System | $60M+ tracked revenue | 7.4x Avg ROAS | Founder @AdPush Media)
-> People try to provide solutions based on value instead of identifying needs.
-
-### Seema Bangia (CHRO | Independent Director | Leadership Coach - PCC Coach-In-Training (ICF)| Organization Development | Director - Education - The ICF Delhi NCR Chapter)
-> Beautiful Tony Latimer   Need of the hour for many of us.  Will certainly going to order👍
-

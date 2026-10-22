@@ -15,12 +15,3 @@ To-do list inför en föreläsning för en global kund inom skogsindustrin:
 - Poppa popcorn...
 
 Typ så. Frågor på det?
-
-## Comments (2)
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Blir en pop-konsert :-) Älskar din metafor kring popcorn och engagemang... blir så tydligt 🌟 Dags att berätta den igen kanske...
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Yes! Kolla upp börskurs, köprekommendationer etc och avsätt 10% av faktureringen för aktieköp om du får en bra feeling för företaget #tryggadålderdom ✨🌟✨
-

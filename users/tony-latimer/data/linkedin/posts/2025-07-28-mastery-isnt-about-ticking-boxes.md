@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_mastery-coaching-icf-activity-73
 likes: 21
 comments: 3
 images_count: 1
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 🔥 Mastery isn’t about ticking boxes. It’s about transformation. 🔥
@@ -21,15 +23,3 @@ If you’re a PCC coach and mastery is your next horizon, now is the time. Don�
 🔗 Doors are open. DM me to explore.
 
 #Mastery #Coaching #ICF #MCC #SimplicityOfMastery #ExecutiveCoach #CoachingAtTheSpeedOfThought
-
-## Comments (3)
-
-### Allyson Breyfogle, PCC (Member of ithrive31 Collective, owner of Mosaics Coaching; Certified Professional Coach; Moderator; Educator; Speaker; ICF Colorado Credentialing Director and Board member)
-> Yes!  I really appreciate the depth and so lovely to see familiar faces.
-
-### Karishma Sethi (Building India’s First Reverse Recruiting Agency | Founder @ Careerist.pro | We Do Your Job Search — You Show Up to Interviews | 1,000+ Placed Globally | India · UAE · US · UK · Canada · AU)
-> Transformation in coaching highlights our potential for growth. It’s exciting to explore these insights together.  #Mastery
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

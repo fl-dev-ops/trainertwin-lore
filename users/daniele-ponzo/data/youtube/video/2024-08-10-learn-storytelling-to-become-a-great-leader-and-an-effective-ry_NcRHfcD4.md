@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Learn #storytelling to become a great #leader and an effective #communicator
-
-## Transcript
-
 speaker_1: But probably the most important and most difficult skill as a leader that I had to learn was a language of storytelling
 
 speaker_2: Ah

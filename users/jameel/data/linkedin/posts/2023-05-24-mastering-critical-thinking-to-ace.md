@@ -31,7 +31,3 @@ https://lnkd.in/gpZENRz6
 #InterviewPreparation
 #MindsetMatters
 #jobskills
-
-### Shared Article: [Mastering Critical Thinking to Ace Job Interviews and Excel at Work! With a Real-Life Example](https://youtu.be/0TdRuj5U_2g)
-> youtube.com
-

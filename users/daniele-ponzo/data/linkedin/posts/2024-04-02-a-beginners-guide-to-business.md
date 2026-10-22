@@ -71,9 +71,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
  
  #TechJargon #Innovation #TechLeadership #BusinessEnglish #ITManagement
-
-## Comments (1)
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> The whole "smart working" thing in Italy is really out of control 😂
-

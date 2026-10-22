@@ -27,9 +27,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Living with 75 People from Different Countries | International Growth #shorts
-
-## Transcript
-
 speaker_1: So suddenly I found myself with like 75 people from different countries in the same village house And they said okay youre here and you have enough food enough drinks enough you know everything to survive Yeah you all you have to do is survive here in one week So we will be coming here after one week and if if some some emergency happens just call us okay And we were like shocked because nobody expected this and the idea was about you know encouraging you know um people coming from different countries to live and share the moment

@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# Do you celebrate success? Let me know in the comments below 👎#shorts #careeradvice #careerguidance
-
-## Transcript
-
 speaker_1: Career
 
 

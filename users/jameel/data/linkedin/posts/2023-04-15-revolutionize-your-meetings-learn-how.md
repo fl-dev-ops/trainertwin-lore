@@ -14,7 +14,3 @@ article:
 Revolutionize Your Meetings: Learn How to Organize an Effective Meeting in Just 3 Minutes!
 https://lnkd.in/g-U_G9qr
 #GameChangingMeetings #EfficientMeetings #OrganizeLikeAPro #MasteringMeetings #3MinuteTips #NoMoreChaos #ProductiveMeetings #TimeSavingTips #MeetingHacks #GetItDoneIn3Minutes
-
-### Shared Article: [Revolutionize Your Meetings: Learn How to Organize an Effective Meeting in Just 3 Minutes!](https://youtu.be/z_9PcbAMeo4)
-> youtube.com
-

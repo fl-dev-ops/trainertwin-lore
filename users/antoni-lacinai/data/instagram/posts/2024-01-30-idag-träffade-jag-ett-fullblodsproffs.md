@@ -5,15 +5,10 @@ date: '2024-01-30T12:30:37.000Z'
 url: https://www.instagram.com/p/C2uXb-mComo/
 likes: 33
 comments: 0
+image_text: |-
+  ON AIR
+  EN BÄTTRE EFTERMIDDAG
+  TA BROMÉ
 ---
 
-## Caption
 Idag träffade jag ett fullblodsproffs och en av Sveriges bästa radioröster. Tack @lottabrome för samtalet 😃. Känner mig pepp och motiverad
-
-## Image Text
-
-> Alt text: Photo by Antoni Lacinai on January 30, 2024.
-
-ON AIR
-EN BÄTTRE EFTERMIDDAG
-TA BROMÉ

@@ -15,7 +15,3 @@ Subscribe to my channel on YouTube for more tips and tricks on real life skills 
 
 #jobsearch #research #helpothers #networking #planning #softskills #reallifeskills #jobsearchadvice #jobsearchtips #jobsearch2021 #canada #jobs #canadajobsforimmigrants #linkedin ##jobsearch #research #helpothers #networking #planning #softskills #reallifeskills #jobsearchadvice #jobsearchtips #jobsearch2021 #canada #jobs #canadajobsforimmigrants #linkedin #dreamjob
 https://lnkd.in/gHJ3Bmr
-
-### Shared Article: [How I got my target job by NETWORKING!](https://youtu.be/2HGNRckCihQ)
-> youtube.com
-

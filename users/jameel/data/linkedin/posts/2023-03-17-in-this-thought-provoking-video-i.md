@@ -13,7 +13,3 @@ article:
 In this thought-provoking video, I have explored various leadership styles exhibited in politics through real-world examples. From authoritarian to democratic, we examine the pros and cons of each style and discuss how to identify them in action. Whether you're a seasoned political observer or just curious about leadership dynamics, this video provides valuable insights that can help you navigate complex situations in any field. Join us as we delve into the fascinating world of leadership styles in politics!
 
 https://lnkd.in/gNzP9kQe #leadership #leadershipskills #softskillstraining
-
-### Shared Article: [Leadership Styles in Politics: Real-World Examples and How to Spot Them](https://youtu.be/c9OZqQjW4Dc)
-> youtube.com
-

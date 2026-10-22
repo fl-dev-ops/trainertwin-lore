@@ -22,9 +22,3 @@ It’s how good teams become great.
 
 If you are on vacation, let this be a seed of thought for the upcoming half-year
 ^_^
-
-## Comments (1)
-
-### Laura Suárez (Senior Executive Leader | Corporate & Public Affairs | Government Relations | Real Estate & Infraestructure)
-> Good content. At the end of the day, it's all about people.
-

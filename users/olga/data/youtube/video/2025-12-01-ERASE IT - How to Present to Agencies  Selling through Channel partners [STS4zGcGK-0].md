@@ -14,11 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# ERASE IT - How to Present to Agencies Selling through Channel partners
-
-## Transcript
-
 speaker_1: Okay so now we will be talking about how to present and sell through your presentation to agents to agencies So youve done something like this yesterday with international agencies Today were going to be going through the structure Yes yes there is a briefing today on 37th floor of Four Brothers Its going to be tomorrow as well So are we going to be like experiencing something like No this is for outside brokers Thats why the food is there As soon as youre gonna be on the sales floor youre gonna be on the side But its not like unfortunately its not food for us Yeah not everyone understands that but this is how it is Yeah dont worry
 
 speaker_2: I was here for a while

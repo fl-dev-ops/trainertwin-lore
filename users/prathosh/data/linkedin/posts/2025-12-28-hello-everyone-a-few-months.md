@@ -25,7 +25,3 @@ The course also has accompanying implementations using Pytorch.
 PS - I'm teaching a course on basic ML on NPTEL starting January 2026.
 
 #aiml #deeplearning #genai #iisc #iit #course
-
-### Shared Article: [- YouTube](https://youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu&si=TsWlqVaWjxmWfwmb)
-> youtube.com
-

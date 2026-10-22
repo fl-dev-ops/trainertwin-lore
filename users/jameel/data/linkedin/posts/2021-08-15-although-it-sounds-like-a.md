@@ -17,7 +17,3 @@ Although it sounds like a joke MS Excel is used more than any other mathematical
 #jobsuccess #jobsupport
 #careerjourney #careerdevelopment #skilldevelopment #skillbuilding 
 https://lnkd.in/g3EH5BRX
-
-### Shared Article: [4 Excel Skills Every Young Professional Should Learn](https://youtu.be/mfaub9kvos0)
-> youtu.be
-

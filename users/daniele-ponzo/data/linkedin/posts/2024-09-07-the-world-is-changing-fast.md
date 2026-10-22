@@ -4,6 +4,8 @@ date: '2024-09-07T05:30:23.858Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_uzbekistan-nonnative-itbusiness-activity-7238055986916167680-V_FW
 likes: 11
 comments: 1
+author_comments:
+- Thanks again for the insightful chat (and for the repost) Asel Mamaeva!
 ---
 
 The world is changing fast 🌏 . 
@@ -29,9 +31,3 @@ https://www.ictweek.uz/eng
 https://lnkd.in/dX4ktNfj
 
 #ICTWEEK #TechConference #Networking #ITHub #BusinessGrowth
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks again for the insightful chat (and for the repost) Asel Mamaeva!
-

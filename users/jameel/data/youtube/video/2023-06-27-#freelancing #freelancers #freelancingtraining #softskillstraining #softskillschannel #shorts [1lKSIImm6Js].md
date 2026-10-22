@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #freelancing #freelancers #freelancingtraining #softskillstraining #softskillschannel #shorts
-
-
-## Transcript
-
 speaker_1: The global freelancing market is expected to add 2 point 7 trillion dollars to the worlds GDP by 2027 Thats like adding one India or two Australias to the world economy In the US alone 39 percent of the workforce is currently doing freelancing in some shape or form and that number is expected to hit 50 percent by 2027 Even big giants like Google rely heavily on freelancers to get their work done While most freelancing jobs are highly technical in nature there are some key human skills or soft skills you need in order to be successful in this space Watch this video till the end because I will share with you five key soft skill areas you need to be strong if you want to be successful as a freelancer with some tips on how you can build these skills

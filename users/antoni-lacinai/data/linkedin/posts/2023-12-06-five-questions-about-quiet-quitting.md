@@ -33,9 +33,3 @@ Together, you can create a higher commitment and thus better results
 
 
 PS - which of the 5 resonates best with you? 1-5
-
-## Comments (1)
-
-### Siv Jönsson (Senior Director, R&D Scientist)
-> 3&5
-

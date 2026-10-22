@@ -8,12 +8,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/v2/D5605AQFnkcqN-MUixw/mp4-720p-30f
 ---
 
 Nothing quite like relaxing on the weekend and watching the kids work
-
-## Comments (2)
-
-### Amber Hartman (International Trauma Expert & Happiness Trainer. Helping those in public eye from Cancel Culture & Digital Addiction. 24/7 location/tour support. AC Advanced Mentor Coach.)
-> Your daughter is beautiful. Warmest wishes to you & your loved ones.
-
-### Parin Mehta (I coach and invest in Founders. I build things too.)
-> It was a fun day! The t-rex racing was hilarious!
-

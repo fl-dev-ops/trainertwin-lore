@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Professional English Skills Matter for Your Career #shorts
-
-## Transcript
-
 speaker_1: But the the first road block I would say was the language because without it I couldnt do anything I had to first be good at English and not just uh superficial talk in English but professional because I I wanted to work in the UK as well So I would say this was the first massive road block that I had to solve early on
 
 speaker_2: Wow Yes and Im sure it was not easy because you went straight for it You went to the country and you started you were looking for the job you wanted to do

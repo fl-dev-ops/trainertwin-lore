@@ -22,11 +22,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Exposure Is the Best Way to Learn a Language (Especially English) #shorts
-
-## Transcript
-
 speaker_1: And and at the same time you confirm the the general idea that if you if youre exposed to the language earlier in your life uh then you know things somehow get easier you know
 
 speaker_2: Yeah yeah it does I see that a lot with my son Hes now 18 Um he started speaking English when he was 10 11 mainly through gaming and and things like that

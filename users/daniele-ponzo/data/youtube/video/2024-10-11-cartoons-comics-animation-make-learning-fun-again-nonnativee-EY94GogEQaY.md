@@ -47,11 +47,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Cartoons, Comics, Animation... make Learning FUN again! #nonnativeenglishspeakers #shorts
-
-## Transcript
-
 speaker_1: Right So uh I saw from one of your posts that you also had another important support when you were there at the beginning And again that is something that deeply resonates with me because I I used to have the same passion So can you tell us a bit more about that
 
 speaker_2: Yeah so um for English I actually learned it through cartoons like even before I went to Australia I would watch like animation from Disney and you know its mostly American English Thats why I understand their pronunciation more And I also have like an American accent too even though Ive been here for a long long time

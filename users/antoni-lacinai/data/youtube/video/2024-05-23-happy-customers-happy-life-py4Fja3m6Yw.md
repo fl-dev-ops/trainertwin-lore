@@ -18,11 +18,6 @@ speakers:
   speaker_7: null
 ---
 
-
-# Happy customers. Happy life
-
-## Transcript
-
 speaker_1: Thank you Anthony for the brilliant presentation Truly charismatic
 
 speaker_2: us then Anthony was very very energetic

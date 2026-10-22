@@ -8,12 +8,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/v2/D5605AQE_nkyiscUoEw/mp4-720p-30f
 ---
 
 #coaching #coachtraining #mcc International Coaching Federation ICF Singapore
-
-## Comments (2)
-
-### Geliya Chukmarova (Advisor to Founders and CEOs | Executive Coach, PCC ICF | Coach of Business Partners | Solicitor • Russian Lawyer • 25+ Years | Freeman of the City of London | London & Global | English & Russian)
-> This is an excellent way to explain how coaching works. Many people still think that coaches are teaching their clients
-
-### Lora M. (Executive Coach for Lawyers and Business Leaders Around the World / Professional Supervision and ICF Mentor Coaching / Systemic and Constellations Practitioner / Former International Lawyer / Author)
-> I wish I could show this recording to every manager who wants their team member coached on a knowledge gap!
-

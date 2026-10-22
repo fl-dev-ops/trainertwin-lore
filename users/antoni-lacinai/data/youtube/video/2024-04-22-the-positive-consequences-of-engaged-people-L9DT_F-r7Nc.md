@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# The positive consequences of engaged people
-
-## Transcript
-
 speaker_1: When you have an organization based on trust collaboration cooperation where you feel good together when you work together when youre super engaged and super motivated amazing things will happen I looked into the stats of those type of organizations and here was this is what I found
 
 

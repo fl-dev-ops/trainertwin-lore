@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_coaching-mentoring-international
 likes: 24
 comments: 2
 images_count: 1
+author_comments:
+- See you there Harry
 ---
 
 Tomorrow, as part of the International Week of Coaching and Mentoring organised by the Central House of Coaching and Mentoring, is a fantastic gift for the global Russian-speaking coaching community, and beyond.
@@ -34,12 +36,3 @@ hashtag
 #FutureOfWork hashtag
 #CrossCulturalDialogue hashtag
 #ProfessionalDevelopment
-
-## Comments (2)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> See you there Harry
-
-### Harry Marshall (Managing Partner, Dramatic Difference | Senior Leadership Coach & Facilitator | High-Performance Dialogue, Psychological Safety & Cross-Cultural Leadership)
-> Looking forward to catching this! Спасибо Tony!
-

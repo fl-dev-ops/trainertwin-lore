@@ -4,6 +4,8 @@ date: '2025-02-20T19:43:05.115Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_you-know-improving-your-english-will-boost-ugcPost-7298233933043814400-2RUj
 likes: 25
 comments: 1
+author_comments:
+- "Point #1 – finding your way when you speak.\n\nYou probably watch videos, use Duolingo consistently and study on your own.\nThis is all good practice, and it surely helps.\nBut if you don’t work on structuring your message, you will always get lost when you want to speak.\nSo, here’s a tip on how to overcome this: ⬇️ \n\nStart with your ideas and turn them into bullets\nFind a logical sequence (1, 2, 3 ,4…)\nGo through your bullet points in order using sequencing words: FIRST, THEN, AFTER THAT, FINALLY.\n\nPro-tip: make your ideas stronger by connecting them with reason + example using words like: SO, BUT, AND, BECAUSE\n\nExample:\n1.    We configure the server environment.\n2.    We deploy the application code.\n3.    We test the system to ensure it works correctly.\n4.    We monitor performance after release.\n\n1.    First, we configure the server environment because we need a stable base for deployment.\n2.    Then, we deploy the application code, so the new features become available to users.\n3.    After that, we test the system to ensure it works correctly, but sometimes bugs still appear in production.\n4.    Finally, we monitor performance after release because we need to catch any issues early."
 ---
 
 You know improving your English will boost your career... but actually working on it? 😱 
@@ -31,31 +33,3 @@ So you can finally gain confidence in your communication.
 And if your answer isn’t listed, share it in the comments.
 
 I'd love to share some tips to help you
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Point #1 – finding your way when you speak.
-> 
-> You probably watch videos, use Duolingo consistently and study on your own.
-> This is all good practice, and it surely helps.
-> But if you don’t work on structuring your message, you will always get lost when you want to speak.
-> So, here’s a tip on how to overcome this: ⬇️ 
-> 
-> Start with your ideas and turn them into bullets
-> Find a logical sequence (1, 2, 3 ,4…)
-> Go through your bullet points in order using sequencing words: FIRST, THEN, AFTER THAT, FINALLY.
-> 
-> Pro-tip: make your ideas stronger by connecting them with reason + example using words like: SO, BUT, AND, BECAUSE
-> 
-> Example:
-> 1.    We configure the server environment.
-> 2.    We deploy the application code.
-> 3.    We test the system to ensure it works correctly.
-> 4.    We monitor performance after release.
-> 
-> 1.    First, we configure the server environment because we need a stable base for deployment.
-> 2.    Then, we deploy the application code, so the new features become available to users.
-> 3.    After that, we test the system to ensure it works correctly, but sometimes bugs still appear in production.
-> 4.    Finally, we monitor performance after release because we need to catch any issues early.
-

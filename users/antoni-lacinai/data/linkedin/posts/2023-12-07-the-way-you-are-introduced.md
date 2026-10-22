@@ -28,18 +28,3 @@ If you are not that lucky then here are three tips for you:
 It could be the perfect way to strengthen your brand and story. Or like my good friend Kjell Dahlin says: "Storytelling is not what you say to the client, but what the client says about you"
 
 PS - this brings clarity to your personal brand too.
-
-## Comments (4)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Nice use of photo Antoni...:D Ai?
-
-### Elin Moritz (Konferensexperten med Skåne som bas | Marknadsför och bokar handplockade mötesanläggningar | Skånska Möten)
-> Cool bild Antoni Lacinai - Keynote speaker! Häftigt att bli framställd så :)
-
-### Darko Buldioski (Marketing - Strategy - Co-founder & Program Director @AllWeb Conference - Podcaster - Keynote Speaker - Trainer)
-> The credits for the AI images go to David Ristevski. BTW the voice was AI-generated too ;)
-
-### Hanna Bergfäldt (Senior HR Consultant | Partner FEM HR)
-> Klokt Antoni! Och fin bild - du ser ut som en riktig guru 😀
-

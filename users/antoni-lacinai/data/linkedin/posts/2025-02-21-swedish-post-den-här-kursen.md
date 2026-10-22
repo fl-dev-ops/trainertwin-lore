@@ -26,16 +26,3 @@ Men en dålig kommunikation leder till mer av annat...stress, felbeslut, olyckor
 PS - hade jag döpt kursen idag hade den hetat 𝗦𝗮𝗺𝗮𝗿𝗯𝗲𝘁𝘀𝗴𝗹𝗮̈𝗱𝗷𝗲 istället. 
 
 Ser du detta innan helgen så ha en fin helg ^_^
-
-### Shared Article: [Arbetsglädje](https://diplomautbildning.se/utbildning/arbetsgladje)
-> diplomautbildning.se
-
-
-## Comments (2)
-
-### Petter Allgulin (Växjö)
-> Såg den nyligen! 😊
-
-### Dennis Tillström (Utbildningsansvarig på Diploma - Kunskap som lyfter dig till nästa nivå!)
-> En riktigt bra kurs med skönt driv och visuellt snygg är den också...Tack Antoni Lacinai ✌
-

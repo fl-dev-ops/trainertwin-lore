@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_what-defines-a-confident-engli
 likes: 38
 comments: 16
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQEr9YZ_a4wbiw/mp4-720p-30fp-crf28/B4DZWD_jkKG4Bo-/0/1741676279726?e=1793178000&v=beta&t=diCMYIZd68ZTUtBa_qbRtJsFaPxWSEg0zt64NA3wCqI
+author_comments:
+- '➡️ The right mindset to PROGRESS fast: https://www.linkedin.com/posts/daniele-ponzo_%F0%9D%97%A6%F0%9D%98%81%F0%9D%98%82%F0%9D%97%AF%F0%9D%97%AF%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BB-is-it-a-good-or-bad-thing-activity-7306203703852621824-JZ8M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADVHkABomUtzyW-TX8nSBlBufayq11LJfs'
 ---
 
 What defines a confident English speaker?
@@ -55,35 +57,3 @@ Follow:
 ➡️The Non-Native Leader
      
 P.S. Do you know what happens when you talk about Michael Jackson to connect with your students? Watch the full episode to find out🕺
-
-## Comments (9)
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo I think  that for improve my English speaking I need learn from vocabulary and I want to work on that.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ The right mindset to PROGRESS fast: https://www.linkedin.com/posts/daniele-ponzo_%F0%9D%97%A6%F0%9D%98%81%F0%9D%98%82%F0%9D%97%AF%F0%9D%97%AF%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BB-is-it-a-good-or-bad-thing-activity-7306203703852621824-JZ8M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADVHkABomUtzyW-TX8nSBlBufayq11LJfs
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Spot on! 🔥 Clarity and confidence matter more than perfection. Excited to check this out!
-
-### Giannis V. Chatzidis (Life & Mindset Coach | Founder & Writer at Mindwhisper | Helping millennials survive in our fast-changing world & reconnect with your authentic self & emotions | Petdad of 3 cats)
-> at the end of the day, it's all about mindset. it's always:
-> 
-> I'm enough for this > what fancy word should I use here?
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I’ve always believed that a strong mindset and the ability to connect with your audience matters more than flawless grammar or accent. Daniele Ponzo
-
-### Makesh Gopalakrishnan (I shape ideas into products that scale and create impact | Built my first product as a 17 year old | 25 years | 150+ products till date | Building at the intersection of Psychology, Physiology and Spirituality)
-> Clarity and confidence always outweigh complexity Daniele
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele thank you so much for having me on your podcast. I hope that your viewers will find it informative, and have as much fun watching it as I've had discussing with you!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great insights Daniele Ponzo. Keep spreading the message!
-
-### The Non-Native Leader - Podcast (443 followers)
-> ▶️ Watch the full episode here: https://youtu.be/zSRRdmqUiqs
-

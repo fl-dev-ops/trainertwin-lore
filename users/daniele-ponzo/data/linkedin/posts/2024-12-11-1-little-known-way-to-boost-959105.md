@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-sustainability-tech-ac
 likes: 34
 comments: 15
 images_count: 1
+author_comments:
+- "\U0001F4CC Why many IT pros don't get there with their English: \nhttps://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimprovement-activity-7272877992077336577-WJxo"
 ---
 
 1 Little-Known way to boost your speaking confidence
@@ -57,33 +59,3 @@ Let me know below 👇
 P.S. a certificate and a job won’t give you visibility. A strategy and effective practice will.  
 
 #english #sustainability #tech
-
-## Comments (8)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Why many IT pros don't get there with their English: 
-> https://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimprovement-activity-7272877992077336577-WJxo
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Volunteering not only fosters skills but also deepens our sense of community and purpose. Daniele Ponzo
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> What a creative idea Daniele Ponzo ! Love it.
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Any method that makes you communicate in another language is valuable. The point is to not be shy and put yourself out there, so that you get the opportunity to actually use the new language. 
-> 
-> Practice makes better!
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Great idea - low stress way of experimenting and practising!
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Lovely to hear this part of your story in Ireland Daniele Ponzo 🌿
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Daniele Ponzo Volunteering sounds like a great way to put yourself out there. For me, I always avoided speaking with groups of people because I placed way too much emphasis on peoples' reactions and not enough on my delivery. During university I formed a small study group and when we conducted our study sessions I would always put myself in a position of presenting the material studied and it did wonders not only for confidence but for expressing my ideas.
-
-### Ekaterina (Kate) Chashnikova (Medical writer and content creator | CME/CE | Publications)
-> What a great way to learn and practice! I have a soft spot for “green” initiatives, too, and my volunteering hours help building up social skills.
-

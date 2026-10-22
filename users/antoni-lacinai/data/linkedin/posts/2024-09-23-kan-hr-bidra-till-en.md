@@ -19,7 +19,3 @@ Men om HR också kan tala kundnytta och utveckla chefer och personal att först�
 Så tycker jag. Vad tycker du?
 
 Jag vecklar ut mina tankar om detta i min senaste krönika på HRnytt
-
-### Shared Article: [Kan HR bidra till en bättre kundupplevelse? - HR-yrket - HRnytt](https://hrnytt.se/hr-skolan/kan-hr-bidra-till-en-battre-kundupplevelse/)
-> hrnytt.se
-

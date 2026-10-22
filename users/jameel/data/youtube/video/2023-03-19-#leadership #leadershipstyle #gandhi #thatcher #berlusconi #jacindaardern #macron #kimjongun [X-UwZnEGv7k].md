@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #leadership #leadershipstyle #gandhi #thatcher #berlusconi #jacindaardern #macron #kimjongun
-
-
-## Transcript
-
 speaker_1: Margaret Thatcher Silvio Berlusconi Mahatma Gandhi Emmanuel Macron Jacinda Ardern and Kim Jong un These are all leaders of their respective countries However their leadership styles were very different Understanding different leadership styles is a very important skill you can have in your career journey So watch this video till the end to find out how the styles of these leaders were different and what was the impact of their styles on the fate of their nations

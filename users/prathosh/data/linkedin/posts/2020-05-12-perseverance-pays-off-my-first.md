@@ -15,7 +15,3 @@ Perseverance pays off. My first paper submission with IITD affiliation got accep
 In this paper, we rigorously analyze the effect of of the latent space on clustering properties of generated data in Generative Adversarial networks (GANs), starting from the first principles. 
 
 Preprint here - https://lnkd.in/gKSB5Dk
-
-### Shared Article: [Effect of The Latent Structure on Clustering with GANs](https://arxiv.org/abs/2005.02435v1)
-> arxiv.org
-

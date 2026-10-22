@@ -5,6 +5,27 @@ url: https://www.linkedin.com/posts/daniele-ponzo_confident-professionals-dont-s
 likes: 34
 comments: 11
 images_count: 1
+author_comments:
+- |-
+  If this post felt familiar, we’re going deeper into this topic in a live session this Friday 👇
+
+  We’ll talk about:
+  • why your mind goes blank in meetings
+  • how to reduce cognitive load in real time
+  • why clarity beats complexity in global teams
+  • and how AI is changing what makes developers valuable
+
+  You can join us here:
+  🔵 LinkedIn event (interactive):
+  https://www.linkedin.com/events/7439584728418140160
+
+  🔴 Live on YouTube:
+  https://www.youtube.com/live/OVy_uyh-yuo
+
+  If you’ve ever left a meeting thinking
+  “I knew exactly what I wanted to say…”
+  This one’s for you.
+- "▶️ We know that (research):\n\nWorking memory is limited \nCognitive load reduces performance \nEffortful thinking consumes energy\nSecond-language production increases load\nStructure reduces extraneous load\n\nSo, it's not down to competence, but to strategies to reduce the load\n\nIf you want to know more, check: \"Sweller, J. (1988). Cognitive load during problem solving: Effects on learning.\" https://onlinelibrary.wiley.com/doi/epdf/10.1207/s15516709cog1202_4"
 ---
 
 Confident professionals don’t speak better English.
@@ -101,55 +122,3 @@ And when cognitive load drops, your real thinking finally shows.
 In your next high-stakes conversation,
 will you rely on fluency…
 or on structure?
-
-## Comments (7)
-
-### Tuba Kizilkan (Digital-Leadership-Studentin in Berlin | Business-English- & Kommunikationstrainerin | Bildungsinnovation, KI-Kompetenz & Projektkoordination | XMind Ambassador)
-> Structure is what turns language into leadership, because when cognitive load drops, clarity rises and your thinking finally becomes visible.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If this post felt familiar, we’re going deeper into this topic in a live session this Friday 👇
-> 
-> We’ll talk about:
-> • why your mind goes blank in meetings
-> • how to reduce cognitive load in real time
-> • why clarity beats complexity in global teams
-> • and how AI is changing what makes developers valuable
-> 
-> You can join us here:
-> 🔵 LinkedIn event (interactive):
-> https://www.linkedin.com/events/7439584728418140160
-> 
-> 🔴 Live on YouTube:
-> https://www.youtube.com/live/OVy_uyh-yuo
-> 
-> If you’ve ever left a meeting thinking
-> “I knew exactly what I wanted to say…”
-> This one’s for you.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Great point. Structure makes communication clearer and builds confidence even if your English isn’t perfect.
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Structure beats fluency, Daniele Ponzo. Organizing thoughts clearly lets your expertise shine, even if your English isn’t perfect.
-
-### Eva Andersson (Senior Fellow)
-> Totally agree Daniele. Structure isn’t just a language tool — it’s a leadership tool and when you structure your message, you reduce cognitive load not only for yourself, but for everyone in the room. 
-> In high-stakes moments, clear thinking beats perfect English — every time.
-
-### Dr. Arun Mohan (AI-Integrated Workforce Architect | Remote Work Strategist & Career Restart Coach | Designing AI-Ready Talent Systems | Founder, Zylenverse)
-> Daniele, Clear structure often matters more than perfect language. When ideas are organized well, confidence and impact naturally follow.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ We know that (research):
-> 
-> Working memory is limited 
-> Cognitive load reduces performance 
-> Effortful thinking consumes energy
-> Second-language production increases load
-> Structure reduces extraneous load
-> 
-> So, it's not down to competence, but to strategies to reduce the load
-> 
-> If you want to know more, check: "Sweller, J. (1988). Cognitive load during problem solving: Effects on learning." https://onlinelibrary.wiley.com/doi/epdf/10.1207/s15516709cog1202_4
-

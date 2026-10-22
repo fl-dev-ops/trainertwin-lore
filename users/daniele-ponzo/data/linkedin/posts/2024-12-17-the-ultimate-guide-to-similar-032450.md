@@ -6,6 +6,8 @@ likes: 29
 comments: 5
 document:
   title: The Ultimate Guide to Homophones in IT
+author_comments:
+- '🎅🏻 Ho Ho Ho, Santa is on his way: https://www.linkedin.com/posts/daniele-ponzo_ho-ho-ho-santa-is-on-his-way-hes-activity-7275773405478453248-A3k7'
 ---
 
 The Ultimate Guide to Similar Sounding Words in English.
@@ -39,18 +41,3 @@ Hi, I'm Daniele. I post about English communication, IT and confidence.
 Like my posts? Follow or connect with me here➡️ Daniele
 
 #EnglishTips #ITProfessionals #BusinessCommunication #LeadershipSkills
-
-### Shared Document: [The Ultimate Guide to Homophones in IT]()
-
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🎅🏻 Ho Ho Ho, Santa is on his way: https://www.linkedin.com/posts/daniele-ponzo_ho-ho-ho-santa-is-on-his-way-hes-activity-7275773405478453248-A3k7
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> For n°12 in Italy there's always the alternative pronunciation that sounds like "all" 🤣
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Insightful
-

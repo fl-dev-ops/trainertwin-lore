@@ -17,12 +17,3 @@ Instead, it deeply understands your unique query, gauges the context, and crafts
 
 It’s like having a wise sage, who knows your story intimately and guides you at every crossroad, ensuring your growth remains uninhibited and distinctly yours.
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (2)
-
-### Hatta Aziz (Speaker. Strategist. Story-teller. Empowering professionals and businesses to achieve growth and impact in digital marketing through scalable strategies.)
-> I bet this AI has your sagely wisdom too :) Giving this a try.
-
-### Kelly Kam (Connector of Voices • Speaker on Authentic Networking)
-> What an awesome use case for AI tech Tony Latimer, MCC!! I am building a Nutrition Advisory AI chatbot myself - having this 24/7 little helper is (almost) as good as cloning ourselves isnt it!
-

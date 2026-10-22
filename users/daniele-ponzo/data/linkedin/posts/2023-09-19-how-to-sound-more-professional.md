@@ -6,6 +6,13 @@ likes: 64
 comments: 16
 document:
   title: ' 8 Expressions to sound more professional.'
+author_comments:
+- |-
+  📌How my client got his first international job:
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-internationalcareer-interview-activity-7112677259253026817-DoM3
+- |-
+  📌What happens when you put yourself out there?
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_english-itprofessionals-inspiration-activity-7112314921144459264-mlRE
 ---
 
 How to sound more professional without the need for an extensive vocabulary.⬇️
@@ -46,38 +53,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
  Follow ➡️Daniele
  
  #english #itprofessionals #speaking
-
-### Shared Document: [ 8 Expressions to sound more professional.]()
-
-
-## Comments (9)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How my client got his first international job:
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-internationalcareer-interview-activity-7112677259253026817-DoM3
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌What happens when you put yourself out there?
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_english-itprofessionals-inspiration-activity-7112314921144459264-mlRE
-
-### Dr Lena Morrish (1 in 3 children fail mathematics. My book explains why — and how Brain to Maths™ can help change this grim statistic.)
-> Yes, this is very useful! 🙏
-
-### Sheraz Ahmed (Built & Scaled High-Impact Revenue Pipelines Across Competitive Markets | Driving Strategic Partnerships & Consistent Revenue Growth | Global Business Development Leader | Focused on Long-Term Client Value)
-> Effective communication is key to success in diverse work environments.
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Excellent phrases for when we need to present ourselves in a more professional manner.
-
-### John Ashley Gime (Helping people create videos that converts!)
-> Thanks for sharing this! Love this one Daniele!!
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Such useful phrases! Excellent share Daniele! 👌
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> A few phrases like this at your fingertips can make a big difference!
-
-### Alan Forrest TEFL (I help international professionals speak English without fear in high-pressure situations. No excuses.)
-> Great, clear advice. Great post.
-

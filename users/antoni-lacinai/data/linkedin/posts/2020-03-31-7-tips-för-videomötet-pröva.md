@@ -24,36 +24,3 @@ images_count: 1
 • SPELA IN MÖTET. En fördel är att du ofta kan spela in videomötet vilket gör att du kan gå tillbaka om du vill komma ihåg något och de som inte kunde delta, kan titta i efterhand.
 
 #kommunikation #ledarskap #virtuellamöten
-
-## Comments (10)
-
-### Emil Hast (Board | Change-Lead-Lead Others | Sustainability - Finances/Economic dev. & Social Responsibility & Environment-Climate | Business dev. & Finances/Economic dev.)
-> Ping Fredrik Birath Hans von Essen
-
-### Nathalie Aldana (Fund Manager for Planting Hope 🌱)
-> Ping Elsy Rodríguez Luque
-
-### Linus Malmborg (Two Circles I Staylive I Sports and Media I)
-> Tack, givande tips jag ska ta tillvara på direkt.
-
-### Thomas Frenning (Framgångscoachen)
-> Bra tips!
-
-### ✨Anna Jois✨ (Ska DITT företag FIRA? Boka The Anna Jois Experience™ | Internationell artist för företagsevent | Publikrekord: 8000 pers. LET’S GO!)
-> Superbra tips Antoni!! 👏👏👏
-
-### Åsa Lindell (Senior Facilitator & Moderator | Leadership, Communication, Change & Psychological Safety | 20+ years supporting executives, boards and organisations)
-> Goda tips som gör skillnad!
-
-### Gunnar Söderberg (Föreläser om kul på jobbet | Utbildar i ledarskap & arbetsmiljö | Speldesigner inom ledarskap.)
-> Jag älskar att spela in för att titta om på det själv och kunna förbättra mig!
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Bra! Jag skulle vilja att det fanns en funktion att slå på så att bilden på den som för tillfället pratar kan flyttas dit man vill på skärmen - företrädesvis alldeles under webbkameran. Kanske finns det (upplys mig i så fall!), men i väntan på det gör jag Zoom-fönstret så litet som möjligt och flyttar upp det nära kameran. Nackdelen är då att jag missar andra detaljer som händer på skärmen, i mötet.
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> Tack för bra tips
-
-### Ulrika Eklund (Kurschef / utbildare | Gender expert I Coach I Expert Online meetings)
-> Bra tips
-

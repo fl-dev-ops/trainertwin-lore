@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# No Ads, No Hype — Just Real Value
-
-## Transcript
-
 speaker_1: I started Googling I was like okay there are so many coaches in US etc in Europe but I need somebody who knows the Dubai market Whats the whats the point of you know having a coach who doesnt know the UAE market So I was like okay I need somebody And this is when I found your YouTube channel
 
 speaker_2: Yeah well my small YouTube channel at the time I dont think its I think it was like um Maybe like 250 subscribers at the time

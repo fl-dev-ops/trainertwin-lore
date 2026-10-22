@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Mentoring Matters in Business
-
-## Transcript
-
 speaker_1: So mentoring is very close to my heart I enjoy talking to young founders to navigate the challenges of building and scaling something new So come back to the original question
 
 speaker_2: Yeah

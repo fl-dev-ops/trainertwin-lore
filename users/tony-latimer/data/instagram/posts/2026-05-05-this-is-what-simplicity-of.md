@@ -6,7 +6,6 @@ url: https://www.instagram.com/p/DX8cvE0v9ge/
 likes: 9
 comments: 0
 views: 171
-videoUrl: https://instagram.fcdg3-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQN_Pi9u_oAD_pDzt88oT-JB_Uy-AUShD5giqmh0taAcjjfhe3KubI3ArtiwOGKT2JhxmdLwKdPXy7ZyUIDAbhRS17iEkzcDV9jt0Zo.mp4?_nc_cat=106&_nc_oc=AdqsbIQVB8MXYA6Gjj3mfg9Z06S2zkq1TgJ5dqF4aRHK6gNgxQRYhhXbIjP_j0KPZ_A&_nc_sid=5e9851&_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_ohc=yj5SZy9t-IQQ7kNvwHLX8k3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjI3MjI2NzQyOTE2OTMzMjYyLCJhc3NldF9hZ2VfZGF5cyI6MTcwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ee10d30cd13df99b&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC9BMDQ1OTY0NUFCMDFEMjY3NjJBOTEzMjA2NkNGNzE4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzE2NEY2NjA1NTQyMTc5OEFGODNFMjM5N0VGNjEzQjkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACacmqO_gqXdYBUCKAJDMywXQIOQAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kaZbeOFKxWDq38_ZG93b2Q&_nc_ss=70980&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQMA0PHo8XEf4ppkDwHiRyHxWeZB0p9Z4wv8lV9PljWsew&oe=6ADFA10B
 transcript: true
 model: universal-3-5-pro
 speaker_count: 3
@@ -14,17 +13,14 @@ speakers:
   speaker_1: null
   speaker_2: null
   speaker_3: null
+caption: |-
+  This is what Simplicity of Mastery produces.
+  Two of my students, a few months into the programme. No script. No technique checklist. Just presence, silence, and the ability to hold space while something real moves.
+  Watch what happens when the coach stops trying to help and starts trusting the client's own knowing.
+  The client finds her own answer. The coach doesn't celebrate it, chase it, or claim it. He just stays present until it arrives.
+  This is what mastery looks like in practice. Not impressive questions. Not clever frameworks. This. Pure energetic connection.
+  If you want to know how close you are to coaching like this, take the free Coaching Mastery Profile — link in bio.
 ---
-
-## Caption
-This is what Simplicity of Mastery produces.
-Two of my students, a few months into the programme. No script. No technique checklist. Just presence, silence, and the ability to hold space while something real moves.
-Watch what happens when the coach stops trying to help and starts trusting the client's own knowing.
-The client finds her own answer. The coach doesn't celebrate it, chase it, or claim it. He just stays present until it arrives.
-This is what mastery looks like in practice. Not impressive questions. Not clever frameworks. This. Pure energetic connection.
-If you want to know how close you are to coaching like this, take the free Coaching Mastery Profile — link in bio.
-
-## Transcript
 
 speaker_1: Hi, I'm Tony Latimer. I run Simplicity of Mastery, which is a membership-based programme that helps elevate your coaching skills to the level of mastery and beyond. You're about to see a demonstration done by 2 of my students who've been with me for a few months. Please respect they're giving you the opportunity to see this and make sure that this attribution remains with this video if you choose to share it or use it elsewhere. Thank you. So the rest of us will go silent and dark, and you two just carry on.
 

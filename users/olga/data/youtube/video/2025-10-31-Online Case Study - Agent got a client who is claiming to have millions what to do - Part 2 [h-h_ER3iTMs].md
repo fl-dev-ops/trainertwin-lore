@@ -18,11 +18,6 @@ speakers:
   speaker_6: null
 ---
 
-
-# Online Case Study - Agent got a client who is claiming to have millions what to do - Part 2
-
-## Transcript
-
 speaker_1: Yeah so he kept asking me you know is that going to be a problem Is that going to be a problem So that kind of also raised a red flag for me
 
 speaker_2: No thats actually a good question Its right Olga dont you think its a good question Because

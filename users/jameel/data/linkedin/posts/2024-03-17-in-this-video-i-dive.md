@@ -18,7 +18,3 @@ Don't let tough interview questions catch you off guard! 🚀 Watch now to gain 
 #JobInterviewTips #ConflictWithBoss #CareerAdvice #ProfessionalDevelopment #InterviewPreparation #ProjectManagement #SalesJobs #JobSearch #CommunicationSkills #ProblemSolving #CareerSuccess
 
 https://lnkd.in/g7Ti5H3N
-
-### Shared Article: [How to Answer "Tell me about a time when you had a CONFLICT WITH YOUR BOSS" Job Interview Question](https://youtu.be/3zcb-XF50R0)
-> youtube.com
-

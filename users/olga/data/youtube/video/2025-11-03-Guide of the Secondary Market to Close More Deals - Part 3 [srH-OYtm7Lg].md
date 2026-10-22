@@ -17,11 +17,6 @@ speakers:
   speaker_6: null
 ---
 
-
-# Guide of the Secondary Market to Close More Deals - Part 3
-
-## Transcript
-
 speaker_1: Okay and then after finding I would imagine its presenting to the client So if Ive gone managed to find from a seller theyve got this unit available I then go and present it to the purchaser and say hey this is what we have
 
 speaker_2: Usually yeah usually its like this Im sitting down and doing my calling session for the property finder trying to find someone who has because I agreed on the viewing with my buyer Okay show me some units at 6 PM on Monday So that means that I have to call through the whatever listings are available find those who pick up the phone find those who are working with the other agent and find those who are after pick up the phone working with the other agent will be able to agree on the viewing at this time Let me tell you that if the property is tenanted and the tenant is not really collaborating because imagine you are now the tenant Would you like your seller so your landlord becoming a seller So now you have to just open the door in the evening to each and every potential buyer or you paid for the property still the same price no one gave you a discount right Right So in this case the tenant well were probably going to say uh Im doing the viewings only on Saturday from this time to this time Okay so you you can imagine youre calling okay this unit is already not good for you you have to reschedule it But for you to be able to accommodate and be a good agent in front of your buyers you have to show them at least 3 properties similar and you have to understand which property is actually going to be selling which You got it It might not be might be more complicated task for you in the beginning but the same as the jewelry right Youre not just showing them one piece you show them 3 different pieces right And you know which one are you buying I mean you know which one are you selling Sorry Yeah the highest one Yeah I know but sometimes you put the highest price even more higher so they will take this highest price as in your

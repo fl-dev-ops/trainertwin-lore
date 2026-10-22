@@ -63,28 +63,3 @@ ____________________________________________
  
  Hi, I'm Daniele. I post about English communication, IT and confidence.
  Like my posts? Follow or connect with me here➡️ Daniele
-
-## Comments (7)
-
-### Marianne Jordan (✔​ Empowering English language learners & teachers master the sounds of Eng pronunciation, by giving you the confidence & resources to learn/teach pronunciation a vital language skill. Message me 👇)
-> Great tips Daniele!  Real live clear speaking is the aim, not perfectionism.
-
-### Jordan Kruk (Hired 50+ People. In Business Since 2018.)
-> Daniele Ponzo
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I don’t remember my time learning English, but when I was learning Thai, I focused on using the language as much as possible, ignoring mistakes in pronunciation or word order.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Perfectionism often holds people back, but progress comes from action. Practicing, making mistakes, and learning along the way is the real path to confidence! 💪🔥
-
-### Viktoryia Ruzhynskaya (Business Operations Manager | M&A Integration & Presales Strategy | Sales Ops & Account Management | Claude-Certified AI Practitioner)
-> Daniele, striving for perfection often leads to inaction, while progress comes from taking imperfect but consistent steps forward. Thank you for practical advices.
-
-### Arslan Iqbal (Personal Brand Strategist | Helping Founders, CEOs & Executives Build Authority on LinkedIn & X | 250+ Personal Brands Helped)
-> Perfection is a trap. Action leads to real improvement, even if mistakes happen along the way, Daniele.
-
-### Jelilat Oluwatosin Abdullateef (Business Operations & Data Professional | Data Analytics | CRM Automation | Business Process Improvement)
-> Stop prosponing things and take action 👌
-> Well said Daniele
-

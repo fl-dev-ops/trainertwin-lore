@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 52 Transfer Learning and Knowledge Distilation
-
-## Transcript
-
 speaker_1: Welcome back So let me introduce you to
 this idea called transfer learning So
 you recall that neural networks are

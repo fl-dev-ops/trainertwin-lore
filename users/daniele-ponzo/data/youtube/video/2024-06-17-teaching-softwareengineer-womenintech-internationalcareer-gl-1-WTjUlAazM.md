@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# #teaching #softwareengineer #womenintech #internationalcareer #globalspeaker #nonnativeenglish
-
-## Transcript
-
 speaker_1: And I also saw that uh I know that it kind of it doesnt die with I with me Wow Rather um yeah continues living in um uh in the others work and also um uh I love to to to foster next generations of uh new testers and so on
 
 speaker_2: Wow

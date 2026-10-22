@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_if-youre-a-tech-professional-w
 likes: 63
 comments: 10
 images_count: 1
+author_comments:
+- "▶️ If you want to work on something much more useful than perfect English, check my program here: \nhttps://danieleponzo.com/speak-like-a-leader"
 ---
 
 If you're a Tech professional working in English, this might explain why meetings feel harder than they should.
@@ -109,41 +111,3 @@ Confidence was never the starting point.
 It was the result.
 
 What changes first for you when pressure enters the conversation?
-
-## Comments (8)
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Daniele Ponzo People often think that "sounding perfect" is the goal. Being able to communicate calmly to get your message across with simple language is the goal.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I like this. Sometimes we know what to say, but the timing and pressure make it harder than expected. Daniele Ponzo
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> Communication often breaks down long before language becomes the problem. Cognitive load can be a bigger barrier than vocabulary or grammar.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Very true. Knowing English and communicating confidently under pressure are two different skills.
-
-### Arkady Zilberman (Founder & CEO, AnyLingo | Delivering fast, measurable adult speaking fluency for learners and language schools by shifting to a new pedagogy of implicit subconscious training.)
-> Daniele Ponzo
-> 
-> Your description is accurate: “You’re thinking. Translating. Structuring. Filtering. Monitoring reactions. All at the same time. The message gets buried under everything happening around it.”
->  
->  However, your solution - ‘train yourself under pressure’ – is impractical because learners rely on conscious thinking, which is at the core of the problem.
-> 
-> The above problem results from relying on traditional explicit, conscious learning based on a conscious system of thinking (System 2: slow recall and prone to steep forgetting). If you implement implicit, subconscious training of all language skills simultaneously, as described on Anylingo.net, your students will activate subconscious thinking that resolves the above problems.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ If you want to work on something much more useful than perfect English, check my program here: 
-> https://danieleponzo.com/speak-like-a-leader
-
-### MUHAMMAD KHALID (UI/UX Design Partner for SaaS, Web & Mobile | Helping Founders Build Products That Convert, Retain & Scale)
-> The ability to organize thoughts quickly matters more than finding the 
-> perfect words. Daniele Ponzo
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> The experience you described is highly relatable, and it  brings attention to how pressure impacts communication more than language ability itself.
-> 
-> 
-> Daniele Ponzo
-

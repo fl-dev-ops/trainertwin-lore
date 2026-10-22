@@ -19,19 +19,3 @@ But I am aware of that some people have mixed feelings when it comes to goals. S
 #leadership #communication #goals #keynotespeaker
 
 ps - are you still holding on to your New Years resolutions? Showing perseverance? Good on you!
-
-### Shared Article: [3 reasons why people hate goals](https://www.linkedin.com/pulse/3-reasons-why-people-hate-goals-antoni-lacinai)
-> Antoni Lacinai on LinkedIn  
-
-
-## Comments (3)
-
-### Birgitta S. (Retired Processägare/ Systemförvaltare/ansvarig/databasadmin)
-> It is important that everyone involved in a project understand and agree on what goal to set and to make it attractive.  Would it make my work easier? is a question that can motivate.
-
-### Tage Olsin (Controller - Outsourcing | Enhancing processes | Delivering Efficient Reporting | ITIL Service Management)
-> One classic stupid goal is the Police which had a goal to do X alco test of drivers. The lower level managers realized that the easiest way to fulfill the goal was to do test Tuesday morning at rush hour. Many tests performed with few positive tests. If someone tested positive they had to bring them to the station do another test etc, which took a lot of time, hence Tuesday morning was perfect. They probably reached their goal, but I quite sure that wanted postion this goal should provide, less drunk drivers, was not reached.
-
-### Henrik Lönndahl (Development manager)
-> Goals can be a really great thing, but in my opinion I think one should be careful if assuming that setting goals is the primary motivational factor for everyone. In my experience it is not always the case. People may react when managers _only_ talks about goals (which is common), so make room in your team/organization for other kind of motivational factors as well.
-

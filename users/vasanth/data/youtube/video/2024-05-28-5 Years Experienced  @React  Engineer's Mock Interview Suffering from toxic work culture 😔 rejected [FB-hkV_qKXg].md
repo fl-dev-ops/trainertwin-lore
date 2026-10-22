@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# 5 Years Experienced  @React  Engineer's Mock Interview:Suffering from toxic work culture 😔 rejected?
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Kedari with Wasam Tutees channel With me I have today Sumit As you know this is a series where we are doing a lot of mock interviews This particular interview we are going to discuss primarily like three different levels of question One is a scenario driven question primarily on HTML5 technology Another one is the basics of React and another one is basics of JavaScript where Sumit will be we will be testing Sumit across different levels of his intelligence More about Sumit I definitely Sumit only will be explaining and if youre not subscribed to my channel Kedari with Wasam Tutees channel which was previously known as uncommon gifts please subscribe to my channel
 
 

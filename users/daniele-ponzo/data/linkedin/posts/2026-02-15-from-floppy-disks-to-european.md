@@ -19,13 +19,3 @@ Want to read more? 👇
 https://lnkd.in/dcCsFbqm
 
 #CTO #NonNativeLeader #TechLeadership #Leadership #EuropeanInnovation
-
-### Shared Article: [From Floppy Disks to European CTO | Vicedomini Softworks](https://vicedominisoftworks.com/blog/news-2/from-floppy-disks-to-european-cto-4)
-> vicedominisoftworks.com
-
-
-## Comments (1)
-
-### Tom Otto (SWE → Founder @ Mockly & Launch Llama | Helping founders launch | 80K+ newsletter audience)
-> Nice one for sharing, Sofia's journey sounds inspiring
-

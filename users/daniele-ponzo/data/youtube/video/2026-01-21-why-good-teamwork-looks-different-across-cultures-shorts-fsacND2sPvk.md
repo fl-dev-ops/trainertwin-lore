@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Good Teamwork Looks Different Across Cultures #shorts
-
-## Transcript
-
 speaker_1: like the exact same question shows how cultural differences are at play
 
 speaker_2: And its very important in the work if you are working with teams its you need to to understand the cultural gaps because otherwise its Yeah Yeah absolutely If you want I give another example Yeah I love these examples because they really show like differences out there The Israelis the Israelis they are very focused in the target you see The Brazilians are they have they dont have limits The Brazil the Israelis are very small country and they they live inside limits The Brazilians are open and no front Its important Its an important thing to understand those things when you are traveling and working with teams

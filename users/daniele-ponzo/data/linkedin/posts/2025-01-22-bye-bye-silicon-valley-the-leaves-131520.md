@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_bye-bye-silicon-valley-the-lea
 likes: 30
 comments: 17
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQEFvxn1I2LO5w/mp4-720p-30fp-crf28/B4DZSM5zS2HUBk-/0/1737530755735?e=1793178000&v=beta&t=rGYUvdRexynn85BLMYkYxE_NJmzUX4Enz5774o5vVxA
+author_comments:
+- "\U0001F4ADWhat does it take to realize your dream? ⬇️ \nhttps://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej"
+- '👉 I forgot the image credit: My window this morning. Feeling Irish in Italy today 🙂'
+- "Want to work on your dreams? Start with a solid strategy  ⬇️ \n \n \U0001F157 \U0001D407\U0001D428\U0001D427\U0001D41E: Refine your vocabulary in context.\n Reflecting on the language after seeing it (or hearing it) in context helps you expand your vocabulary and gradually become more confident.\n \n \U0001F150 \U0001D400\U0001D41C\U0001D42D\U0001D422\U0001D428\U0001D427: Presentations, meetings, calls… every interaction is a chance to learn and grow.\n  \"Small steps lead to big results.\" Nobody is perfect (not even native English speakers). So, start doing and gradually level up.\n \n \U0001F152 \U0001D402\U0001D428\U0001D425\U0001D425\U0001D41A\U0001D41B\U0001D428\U0001D42B\U0001D41A\U0001D42D\U0001D422\U0001D428\U0001D427: Network with your peers, exchange ideas and feedback.\n People are going through the same journey. Peers can help you get a fresh view on your struggles without feeling judged. Mentors can give you the opportunity to improve.\n \n \U0001F15A \U0001D40A\U0001D42E\U0001D41D\U0001D428\U0001D42C: Celebrate effort to boost morale and monitor progress.\n Start by writing down three things you're grateful for today to shift your mindset. Reward yourself for the energy you put in, so this becomes enjoyable.\n\nRemember: you have the power to shape your dreams."
 ---
 
 Bye-bye Silicon Valley 👋 
@@ -59,51 +63,3 @@ On such a winter's day...
 P.S. check my comment below for an effective strategy to get you closer to your dream 👇 .
 
 Music Credit: the Mamas & the Papas, 1965
-
-## Comments (10)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 💭What does it take to realize your dream? ⬇️ 
-> https://www.linkedin.com/posts/daniele-ponzo_you-have-a-dream-but-what-about-realizing-activity-7288085408930828289-5sej
-
-### Alina Kulish (From writing code to leading the people who write it · Engineering Team Lead, 11 yrs in · Navigating the AI shift)
-> That's a great reminder  - opportunities can knock on the door some day and it is better to be ready to take a challenge!
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Thanks for sharing
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele you are absolutely correct! I've had university professors whose English were "rudimentary", yet they were not embarassed at all to walk to the front of a class of 100 students and lecture. It's all about perspective and self-confidence. And you only gain self-confidence through practice.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Dreams do require careful planning and action. Daniele Ponzo
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It’s a reminder that opportunities often come when we feel least ready, yet it’s our willingness to take action and prepare that determines if we seize them. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👉 I forgot the image credit: My window this morning. Feeling Irish in Italy today 🙂
-
-### Prof.Dr.Evone Botros. (AI Governance Researcher | Journal Founder | Fellow, Royal Society of Great Britain at Oxbridge Institute of Professional Development (OIPD) - UK)
-> Well said Daniele!!
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Absolutely, I see this more often than I'd like to admit: people postponing their dreams and aspirations due to a perceived lack of something that is actually entirely achievable.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Want to work on your dreams? Start with a solid strategy  ⬇️ 
->  
->  🅗 𝐇𝐨𝐧𝐞: Refine your vocabulary in context.
->  Reflecting on the language after seeing it (or hearing it) in context helps you expand your vocabulary and gradually become more confident.
->  
->  🅐 𝐀𝐜𝐭𝐢𝐨𝐧: Presentations, meetings, calls… every interaction is a chance to learn and grow.
->   "Small steps lead to big results." Nobody is perfect (not even native English speakers). So, start doing and gradually level up.
->  
->  🅒 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Network with your peers, exchange ideas and feedback.
->  People are going through the same journey. Peers can help you get a fresh view on your struggles without feeling judged. Mentors can give you the opportunity to improve.
->  
->  🅚 𝐊𝐮𝐝𝐨𝐬: Celebrate effort to boost morale and monitor progress.
->  Start by writing down three things you're grateful for today to shift your mindset. Reward yourself for the energy you put in, so this becomes enjoyable.
-> 
-> Remember: you have the power to shape your dreams.
-

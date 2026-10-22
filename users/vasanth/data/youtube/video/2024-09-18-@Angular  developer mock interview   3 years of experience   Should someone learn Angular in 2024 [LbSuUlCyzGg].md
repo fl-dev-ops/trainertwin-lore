@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# @Angular  developer mock interview | 3 years of experience | Should someone learn Angular in 2024 ?
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Career with Vasant YouTube channel My name is Vasant I hope you all doing well As you know this is a video series where we are doing a lot of mock interview Today with me in the video I have Aditi Aditi is an Angular developer More about Aditi Aditi only will be explaining Like most like most of my mock interview this video will be combination of a lot of things One is basics of JavaScript thats going to be fundamentally there Another is Im starting introducing some basic DSA questions not so hard but something to give you overview about the DSA problems And definitely therell be one machine coding problems where Aditi will be solving
 
 

@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Knowledge Session - How To Lead Successful Meetings With Clients - Part 2
-
-## Transcript
-
 speaker_1: Guys Im gonna go through a lot of documents today but I will share all of them with you Mandatory Google Meet setup clear professional background your name and the company name But you can see its Olga Sinenko You can see its you know that means you have to join from your company profile Its always going to be automatically there Client should have a camera on as well And believe me in my years when I was selling if the client is not on camera Im not going to do a presentation but Im not going to act um rude to him Im just going to act dumb And this is exactly what I put here for you to ask and say if the client is not on camera Uh seems like your camera is not working Uh can you please check on your end You just not assume the client doesnt want to be on camera Maybe he didnt know that He needs to be on camera And guys Im running really quickly through this training otherwise I would ask you a question I will wait for your response Why do you think the client has to be on camera But Im going to answer this question myself because you have to see is the person actually reacting to whatever youre doing Is it is he engaged Is he even looking But rather than that if the person is not on camera I dont know I mean Im so sorry Im a lady I dont know what going on down there right Maybe hes fallen asleep No we are not engagement going to be very low The only excuse or whatever the camera is not working then Im gonna cut that short and I will still try to rebook the other meeting Yeah I mean I would not do the full presentation if the camera is not working and like You need to see you have to the idea of you to be with the client is to have this connection face to face So uh if the client is on the phone and hes walking somewhere right If hes on the phone even sitting somewhere I will do kind of the same thing
 
 speaker_2: Um yeah hi Olga Just a quick question Um Ive had these issues sometimes where clients uh they they are more comfortable with Talking with their cameras off number one Number two uh they feel that uh because

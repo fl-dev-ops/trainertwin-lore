@@ -12,7 +12,3 @@ article:
 
 We cannot underestimate the importance of language assessment in the classroom. Thanks to FutureLearn and British Council for delivering such a great course! And thanks to the educators!
 #languagelearning #assessment #selfassessment #tests #language #education #educators #teaching #learning #teachers #students
-
-### Shared Article: [Language Assessment in the Classroom - Online Course - FutureLearn](https://www.futurelearn.com/courses/language-assessment?utm_campaign=Share+Links&utm_medium=futurelearn-end_of_week&utm_source=linkedin)
-> futurelearn.com
-

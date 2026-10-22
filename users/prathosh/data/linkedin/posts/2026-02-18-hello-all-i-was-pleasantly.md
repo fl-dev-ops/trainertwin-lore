@@ -21,7 +21,3 @@ This may be of interest to a few of you -
 https://lnkd.in/gN-KFMSg
 
 #ai #documentary #dd #iisc
-
-### Shared Article: [Do We Still Matter? | The Thinking Machines (AI Documentary) | DD Originals](https://youtu.be/X8v-IlO9DHQ?si=tzjST802xua2gQth&t=18m)
-> youtube.com
-

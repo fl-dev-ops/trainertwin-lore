@@ -32,10 +32,3 @@ The worst thing that can happen if you anticipate success and you fail, is that 
 #Leadership #AboveTheLineThinking #PersonalGrowth #Accountability #LeadershipMindset #TeamSuccess
 
 PS: can we say that this is a Sink-Or-Swim mentality?
-
-## Comments (1)
-
-### Jonas Kihlman (Sales management | Project Management | Purchasing | Marketing | Styrelsearbete)
-> Couldn’t agree more!
-> In times like we corrently live in we all need to help to keep each other over the line.
-

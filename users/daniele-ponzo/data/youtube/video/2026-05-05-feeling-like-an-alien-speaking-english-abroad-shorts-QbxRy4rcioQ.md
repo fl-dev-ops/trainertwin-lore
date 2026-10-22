@@ -27,11 +27,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Feeling Like an Alien Speaking English Abroad #shorts
-
-## Transcript
-
 speaker_1: But then he just started to look into my eyes but in way he just meant nothing because I said could you put 5 pounds or 10 pounds I dont know 10 pounds on this card please And he was looking at me like I was stupid
 
 speaker_2: Oh come on Why was I just why was that

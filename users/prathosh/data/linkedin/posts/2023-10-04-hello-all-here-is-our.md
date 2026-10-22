@@ -23,7 +23,3 @@ This is the first set of preprints stemming out of our collaboration with my dea
 Look forward to more such contributions in the space of neural modelling of dynamic systems. 
 
 #neuraloperators Indian Institute of Science (IISc) EECS @ IISc, Bengaluru #aiml
-
-### Shared Article: [CoNO: Complex Neural Operator for Continuous Dynamical Systems](https://arxiv.org/abs/2310.02094)
-> arxiv.org
-

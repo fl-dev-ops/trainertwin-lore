@@ -30,11 +30,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The KEY to boost your INTERNATIONAL CAREER | The Non-Native Leader | Episode 5
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to the non native leader a video podcast series where we try to answer the question can you have an international career even though you are not born in an English speaking country Weve been exploring different aspects of having an international career different ideas different experiences And today well try it again and hopefully we get more answers more inspiration and more incredible stories So welcome to yet another episode of the non native leader Tonight I have here with me Paola Clementi Shes uh shes from Italy and shes had an interesting international career Again never never straightforward Theres always you know lots of bands and turnings and going back and moving forward So really really interesting And Im sure shes going to tell us all about it uh and obviously she can do that much better than I can do it And um okay so Paula first of all welcome and thanks for joining me here for our chat
 
 speaker_2: Thanks Daniele Hello guys

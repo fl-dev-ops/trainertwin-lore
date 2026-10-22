@@ -24,9 +24,3 @@ This is a must-read if you want to create an excellent working environment, get 
 You can find it on amazon and most internet book stores. Or you ask me ^_^
 
 #leadership #engagement #communication
-
-## Comments (1)
-
-### Mi Ridell (Nonverbal Communication Analyst certified by Joe Navarro)
-> 🙌🏻🙌🏻🙌🏻
-

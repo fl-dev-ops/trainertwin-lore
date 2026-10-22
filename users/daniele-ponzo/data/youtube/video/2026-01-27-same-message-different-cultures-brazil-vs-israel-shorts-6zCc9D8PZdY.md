@@ -22,9 +22,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Same Message, Different Cultures Brazil vs Israel #shorts
-
-## Transcript
-
 speaker_1: Brazilians and Israelis for example they they were they are both very open people And uh it was very easy to to understand each other But then you get to to things that Brazilians for example doesnt know how to say no They always they dont know how to say no Its its very difficult And also if you ask for for references about people they never will give you a negative uh uh reference And uh so you need to understand those things because without without this its very difficult

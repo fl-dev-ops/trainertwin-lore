@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 31 Bias - Variance Decomposition and Analysis
-
-## Transcript
-
 speaker_1: Okay So welcome to this lecture Uh
 in todays lecture we will look at uh a
 central theme in machine learning So

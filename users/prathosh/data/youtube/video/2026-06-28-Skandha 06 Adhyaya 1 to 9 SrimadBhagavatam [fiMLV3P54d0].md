@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 06 Adhyaya 1 to 9 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: राजोवाच
 निवृत्तिमार्गः कथित आदौ भगवता यथा
 क्रमयोगोपलब्धेन ब्रह्मणा यदसंस्कृतिः

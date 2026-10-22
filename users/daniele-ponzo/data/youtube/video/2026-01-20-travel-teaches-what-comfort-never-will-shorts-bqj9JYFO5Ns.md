@@ -24,9 +24,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Travel Teaches What Comfort Never Will #shorts
-
-## Transcript
-
 speaker_1: sometimes we dont consider that I mean we are in a global world ultimately and uh were there is there are some aspects that are common are shared across countries across cultures But then again when you travel a lot like you did you understand that its not exactly like that So there are still differences And I think its the beauty of it you know the fact that uh wherever you go you see difference

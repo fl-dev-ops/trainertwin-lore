@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Journey of Self-Acceptance in a New Language #shorts
-
-## Transcript
-
 speaker_1: Yeah it was just going through the whole process of you know admitting that I am in fact valuable as I am you know that all all these studies that Ive done all the languages that I speak all the cultures that Ive absorbed theyre all valuable you know and they are two is more than one They are more than one culture or one language that you have so
 
 speaker_2: Yes multiply you know two three four absolutely The more the merrier

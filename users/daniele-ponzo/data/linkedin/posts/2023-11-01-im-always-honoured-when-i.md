@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-career
 likes: 14
 comments: 4
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
+   
+  🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
 ---
 
 I’m always honoured when I receive these emails.
@@ -38,18 +47,3 @@ I have 2 spots left to work 1 on 1 with an IT Manager like Daniela.
 Send me a message 📩  so we can talk about my language coaching program.
 
 #itprofessionals #english #careerdevelopment
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
->  
-> 🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Confidence is key. Beyond the language skills, she now has the ability to contribute her knowledge to a much wider audience in English. Well done to you both!  👏
-

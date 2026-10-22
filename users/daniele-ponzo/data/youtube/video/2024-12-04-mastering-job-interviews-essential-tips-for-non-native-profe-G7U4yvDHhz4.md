@@ -37,11 +37,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Mastering Job Interviews: Essential Tips for Non-Native Professionals
-
-## Transcript
-
 speaker_1: And I mean how do you get there Like is it like practice is it experience is it self motivation So how do you get to that
 
 speaker_2: I think you see I

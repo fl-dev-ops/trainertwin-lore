@@ -14,7 +14,3 @@ Want to up your coaching game?
 Join us on Tuesday 
 
 https://lnkd.in/gWWZNwr5
-
-### Shared Article: [Events - Event View](https://icfindiana.org/content.aspx?page_id=4002&club_id=300349&item_id=2210203)
-> icfindiana.org
-

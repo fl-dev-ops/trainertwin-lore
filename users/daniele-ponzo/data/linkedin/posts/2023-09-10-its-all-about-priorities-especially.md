@@ -17,18 +17,3 @@ Full of the things you love.
 And that you are getting your priorities straight!😄
 
 Enjoy!
-
-## Comments (4)
-
-### Alan Forrest TEFL (I help international professionals speak English without fear in high-pressure situations. No excuses.)
-> Should be 'more importanter'. You can't fool this ESL teacher 😉
-
-### Vanessa Andrews (Associate Consultant)
-> Yes  Daniele Watching  Scotland vs South Africa RugbyWorld Cup 🫣
-
-### Simone Bertin (The Pale Blue Dot)
-> I agree!🍻
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Absolutely write
-

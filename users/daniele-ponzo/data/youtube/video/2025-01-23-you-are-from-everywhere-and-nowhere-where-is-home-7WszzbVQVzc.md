@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# You are from Everywhere and Nowhere | Where is home?
-
-## Transcript
-
 speaker_1: I suppose with practice were traveling around were meeting new people all the time and sort of things you develop you know I believe
 
 speaker_2: I I I imagine that you must have heard this in your conversations as well that at some point you feel like you you you you are from everywhere and nowhere no Like you acquire skills that allow you to adjust to many different situations but you never really truly feel back at home Like if you go back home there are always things that are unfamiliar again because you are now you know a different person Youve moved into a different space um culturally and you get to see you know your eyes are open to to things that arent okay you know in your own context

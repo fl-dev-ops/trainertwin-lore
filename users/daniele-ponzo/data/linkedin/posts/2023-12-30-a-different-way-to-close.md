@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_movinghome-newyear2024-kindnes
 likes: 44
 comments: 20
 images_count: 1
+author_comments:
+- '📌If you are curious to see what it feels like to drive a vintage van, check my video here: https://youtu.be/6ak9CElYZdM?si=JpeL7toi4nMcz9OD'
 ---
 
 A different way to close 2023...
@@ -53,40 +55,3 @@ P.S. talking about "random acts of kindness" my neighbour lent me his "vintage" 
 Loved the thrilling driving experience 😄
 
 #movinghome #newyear2024 #kindness
-
-## Comments (10)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌If you are curious to see what it feels like to drive a vintage van, check my video here: https://youtu.be/6ak9CElYZdM?si=JpeL7toi4nMcz9OD
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Love conquers all
-
-### Simone Bertin (The Pale Blue Dot)
-> Put the labels on the boxes! I moved 3 times this year (home, offices and wharehouse) and the worst thing is a box without a well-done label!
-
-### Shafa Ullah Khan (Business Development Manager @ Zainx Media)
-> The driving experience must have added a touch of adventure to your move.
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Happy New home and Happy New Year!
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> I see a lemon 🍋
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> A new year, a change of environment. Feels fresh. Glad you got help. Happy moving, Daniele Ponzo.
-
-### Carlos Batista (Senior Full-Stack Developer)
-> Good look Daniel and happy 2024 too 👋
-
-### Alan Forrest TEFL (I help international professionals speak English without fear in high-pressure situations. No excuses.)
-> Hey Daniele, where are you moving to?
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Cheers to kindness, happiness, and Happy New Year 
-> 
-> Daniele Ponzo 
-> 
-> -- Sending love from Germany
-

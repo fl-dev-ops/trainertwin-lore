@@ -21,9 +21,3 @@ Now, they all told me that it all went very well and I am sure they got some goo
 The team did a good job calming me down. Keep your fingers crossed for me and for a good outcome 😃
 
 When was the last time you were scared or anxious?
-
-## Comments (1)
-
-### Rashmi Raghav (Maxwell Leadership Certified Trainer | Emotional Intelligence Coach | DISC Flow Trainer | NLP Practitioner | Motivational Speaker | An Advocate of Human Connection)
-> Wow!! So nice
-

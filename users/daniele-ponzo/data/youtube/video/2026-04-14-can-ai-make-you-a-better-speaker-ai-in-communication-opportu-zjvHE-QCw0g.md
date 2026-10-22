@@ -20,9 +20,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Can AI Make You a Better Speaker? AI in Communication | Opportunity or Risk? #shorts
-
-## Transcript
-
 speaker_1: Today we have this technology we have AI So everybodys able to put together a fantastic CV a story a cover letter an introduction You can do all these things brilliant things Then one day you have to be in front of a recruiter or you have to talk to a client and you cant suddenly you cant use AI anymore So the way you tell things will make all the difference Yeah I mean you could use AI but ultimately its going to be your if youre online its going to be your talking head and if youre live its going to be your full person in front of another person right So the real differentiator is how you say things Looking for advice ideas you know Im always available As you say as the good ones say Im always a DM away Im just a DM away But seriously its uh I love talking about these things so any questions any tips ideas always happy to share always happy to chat

@@ -51,20 +51,3 @@ I went to the reception.
 I had made it.
 
 #interview #career #kindness
-
-## Comments (4)
-
-### Mario D'Anna (Strategic Sourcing Specialist presso Olin Corporation)
-> The magic of Dublin and Ireland!
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Glad you made it Daniele! And you're a great storyteller, by the way 😍
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> please tell us you got the job after all the adventure and run 😉
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo Dublin and public transport? Name a more iconic duo... except maybe forgetting the 'A' on the bus number
-> 
-> Glad you made it, Daniele. Sounds like your interview went better than mine some ages ago😁
-

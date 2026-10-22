@@ -5,6 +5,12 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-confid
 likes: 13
 comments: 5
 images_count: 1
+author_comments:
+- |-
+  Some great links to practice your pronunciation:
+  Elsa: https://elsaspeak.com/en/
+  Phonetic chart (with sounds): https://elt.oup.com/student/englishfile/advanced3/pronunciation?cc=it&selLanguage=it
+  Enjoy!
 ---
 
 English Pronunciation is Easy
@@ -58,18 +64,3 @@ If you did, remember to hit the double bell on my profile 🔔 🔔 so you’ll 
 Follow|Daniele
  
  #english #itprofessionals #confidence
-
-## Comments (3)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> there was a great video about our, are, oar etc let me see if I can find it
-
-### John Headstream (Helping IT Support Managers and Staff achieve greater effectiveness, job satisfaction & career advancement | Best practices to create enthusiastic customer experience | Over 30 years in IT Support)
-> Daniele, You are so right! It never ceases to amaze me how much more effective I can be speaking English after using a good dictionary to improve my understanding of the words I'm saying/writing!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Some great links to practice your pronunciation:
-> Elsa: https://elsaspeak.com/en/
-> Phonetic chart (with sounds): https://elt.oup.com/student/englishfile/advanced3/pronunciation?cc=it&selLanguage=it
-> Enjoy!
-

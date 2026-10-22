@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-langua
 likes: 16
 comments: 3
 images_count: 1
+author_comments:
+- |-
+  📌 Scared of Business English? Fear no more!
+  https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-confidence-activity-7206890546554904577-oy2j
 ---
 
 My 3 BIGGEST Fears when I want to buy an online course 
@@ -53,13 +57,3 @@ DM me with your communication pain point.
 And let’s check if I can be your wizard or your lighthouse too 😉
 
 #itprofessionals #english #languageconfidence
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Scared of Business English? Fear no more!
-> https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-confidence-activity-7206890546554904577-oy2j
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> True, human is buying from human- so all these play an important role Daniele Ponzo
-

@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-career
 likes: 15
 comments: 1
 images_count: 1
+author_comments:
+- Thanks for reposting Jomsy Thomas 🙏. I'm glad you found it useful.
 ---
 
 5 Essential Skills for IT English
@@ -62,9 +64,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow | Daniele
  
 #english #ITprofessionals #careerdevelopment
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Jomsy Thomas 🙏. I'm glad you found it useful.
-

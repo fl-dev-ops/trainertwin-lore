@@ -14,7 +14,3 @@ article:
 Freelancing is considered to be a highly technical industry. While it's true that most freelancers are hired for their technical expertise, having some essential human skills or soft skills is important to be successful even in this highly technical space! #freelancing #freelancers #freelancingtraining #softskillstraining #softskillschannel
 
 https://lnkd.in/gEcYSVwV
-
-### Shared Article: [Unlock Success as a Freelancer: Discover the Top 5 Game-Changing Soft Skills You Need!"](https://youtu.be/dye6jq3VNVg)
-> youtube.com
-

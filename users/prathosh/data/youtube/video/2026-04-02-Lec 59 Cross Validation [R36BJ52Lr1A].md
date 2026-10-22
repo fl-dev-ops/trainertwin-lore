@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 59 Cross Validation
-
-## Transcript
-
 speaker_1: Welcome everyone to this course
 So now since we have written the
 summations

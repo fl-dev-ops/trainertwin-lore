@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# React + AI = The Future of Frontend Development!
-
-
-## Transcript
-
 speaker_1: We started it
 
 speaker_2: started it

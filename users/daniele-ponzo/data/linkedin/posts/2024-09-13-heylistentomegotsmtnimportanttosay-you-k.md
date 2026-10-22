@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-languagelearni
 likes: 16
 comments: 9
 images_count: 1
+author_comments:
+- '📌 Here is the poll (so you can press the button anonymously): https://www.linkedin.com/posts/daniele-ponzo_english-languageimprovement-ugcPost-7239206950654115840-uszz?utm_source=share&utm_medium=member_desktop'
 ---
 
 Heylistentomegotsmtnimportanttosay, you know?
@@ -65,22 +67,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-## Comments (4)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Love this! Daniele ))
-> 
-> Somewhere in the middle is the sweet spot. 
-> 
-> Thanks for the reminder!
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Brilliant post Daniele Ponzo. So insightful and engaging to read.
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> A very good breakdown on how to achieve clarity Daniele Ponzo backed up by real life speaker examples.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Here is the poll (so you can press the button anonymously): https://www.linkedin.com/posts/daniele-ponzo_english-languageimprovement-ugcPost-7239206950654115840-uszz?utm_source=share&utm_medium=member_desktop
-

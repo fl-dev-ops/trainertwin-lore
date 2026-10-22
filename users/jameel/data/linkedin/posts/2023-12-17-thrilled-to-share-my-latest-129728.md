@@ -22,7 +22,3 @@ Whether you're a financial novice or looking to refine your skills, this episode
 
 Join the conversation, enhance your financial literacy, and let's strive for financial mastery together! 💪💼 #PersonalFinance #FinancialLiteracy #MoneyMatters #WaliKhan #Podcast #FinancialEmpowerment #CareerSuccess 🌟
 https://lnkd.in/gRVP9a5R
-
-### Shared Article: [How to Improve Your Personal Finance Skills?  A Deep Dive with Wali Khan](https://youtu.be/KHumPu8fj80?si=FYzt7g_MesGCnnym)
-> youtube.com
-

@@ -17,11 +17,6 @@ speakers:
   speaker_6: null
 ---
 
-
-# Online Session - Practice How to Open A Call with Old Leads - Part 2
-
-## Transcript
-
 speaker_1: Okay guys who wants to be a next agent If youre gonna raise your hand there is an opportunity to raise your hand Its just there next to the button leave the call on the left hand side If you want to be an agent If you dont want to be an agent Im just going to call someone out of the blue Not able to unmute herself Kathleen okay let me You you know what you can do You can re um try to get back to the call Just leave the call and try to get back to it I cannot I cannot unmute you as well Mariani can you unmute her Because youre probably organizer
 
 speaker_2: Um I dont think I can

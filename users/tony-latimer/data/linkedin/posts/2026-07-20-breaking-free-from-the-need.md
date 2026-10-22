@@ -8,12 +8,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D5610AQFRNzrxCYML-w/CeJxzMj
 ---
 
 Breaking free from the need to perform 🎯 Mastery in coaching isn’t about solving problems—it's about letting go of attachment and trusting the process. When you release control, transformation begins. Are you ready to shift? #CoachingJourney #LetGoAndGrow #PCCtoMCC simplicityofmastery.com
-
-## Comments (2)
-
-### Gregory Peck, MA, PCC, PCT, CPT, NBHWC (Transformational Life Coach | Professional Certified Coach (PCC) | Health & Wellbeing Leader | 🚀🚀 My Superpower -- Connecting with Clients From the Heart & Helping Them Feel Heard 🚀🚀)
-> Interesting perspective would love to hear more
-
-### Mohita Tiwari, ICF ACC, SHRM-SCP (Director - ICF Bengaluru | Emerging Leader & Emotional Intelligence Coach | Speaker | Former HR Leader)
-> Golden words Tony Latimer ! Thanks for sharing.
-

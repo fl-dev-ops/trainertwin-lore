@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Courage To Begin Again #shorts
-
-## Transcript
-
 speaker_1: I I Im a freshly retired person which has nothing to do getting retired at all So right now Im starting my uh next chapter Totally a new chapter and focusing on what I really wanted to do and I that I postponed that I uh I I just delayed to do So its more my recent focus is more on clarity clearer thinking and uh stronger communication and strategic thinking and and uh presentation skills And Im right now um building some courses uh tailored in um specific industries and individuals And Im still on my way of uh learning new skills
 
 speaker_2: Of course

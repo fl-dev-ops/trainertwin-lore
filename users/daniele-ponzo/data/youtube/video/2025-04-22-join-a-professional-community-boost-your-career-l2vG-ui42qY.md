@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Join a Professional Community & Boost Your Career!
-
-## Transcript
-
 speaker_1: So thats why its C for collaboration because it is impossible to do it alone okay So where there is I dont know colleagues peers mentors coach AI even like you could have an AI body these days you know So so is you always try to collaborate so you have a network For example there are like the I love the IT people yeah software developers engineers because they have they have great communities right
 
 speaker_2: Community Another C yeah

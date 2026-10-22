@@ -19,7 +19,3 @@ This may interest a few of you. Happy to hear your views.
  https://lnkd.in/dsNUhNnJ
 
 #ai #podcast #jobs
-
-### Shared Article: [“The End of Jobs? AI, Humans & the New World Order” | Dr.Prathosh A P, AI Scientist, IISC](https://youtu.be/QRRa_p-dR-s?si=p44fF7rQ-dCEqBY3)
-> youtube.com
-

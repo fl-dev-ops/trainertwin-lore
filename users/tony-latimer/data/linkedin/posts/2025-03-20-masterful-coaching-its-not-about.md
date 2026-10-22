@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_coachingmastery-pcctomcc-icfmcc-
 likes: 17
 comments: 2
 images_count: 1
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 Masterful Coaching – It’s Not About Control, It’s About Clarity
@@ -29,12 +31,3 @@ $125/month. No long-term commitment. Just deep, transformative learning.
 🔗 Sign up today and start coaching at a whole new level.
 
 #CoachingMastery #PCCtoMCC #ICFMCC #MasterCoachSkills #CoachingBreakthroughs #ReflectiveCoaching #DeepListening #CoachingPresence #SimplicityOfMastery #AdvancedCoaching #EnergyCoaching #ProfessionalCoaching #aicoaching
-
-## Comments (2)
-
-### Antonia Bartels, PCC (Career & Leadership Coach | What’s Next?)
-> This is spot on Tony "AI will never read subconscious energy shifts" it is noticing what goes unsaid, the happy words but sad posture, the change in tone and the unspoken emotions beneath the surface – that’s the 'magic' in coaching.
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

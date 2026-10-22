@@ -13,9 +13,3 @@ In partnership with Creative Summit, I will run two identical masterclasses in S
 There will be a limited number of seats. If you are an executive and you want to take your communication skills to the next level, I hope to see you there. 
 
 The focus? How to supercharge your employees with high-impact communication, so that you reach your goals and strategies
-
-## Comments (1)
-
-### Zeina Ihab El Araby (Senior Conference & Events Producer | Event Strategy, Production & Content | Strategic & Creative Thinker)
-> Super excited !!! 🤩
-

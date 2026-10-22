@@ -16,15 +16,3 @@ But I wonder what, what the idea is behind that from the airline company's persp
 Anyway, I'm looking forward to going to Skopje, and deliver a keynote about employee experience and customer experience at the same time. and a following masterclass on world-class communication 😃
 
 Wishing you an awesome day!
-
-## Comments (3)
-
-### Sofia Jonsson (Kommunikatör med fokus på den interna och mellanmänskliga kommunikationen)
-> On the other hand, why are we in such a hurry that we don't have time to check in our luggage? What would happen if we gave ourselves some margin in our stressful everyday life and gave ourselves time to breathe calmly when we wait for our luggage upon landing? Maybe we wouldn't have to put our tennis shoes in our pockets and we would have time to smile at the flight attendants.
-
-### Philippe Guichard (From product to $1M+ ventures: the designer serial entrepreneurs partner with | Talk on TED.com | Product Development & Product Design | Bestselling Author & Keynote Speaker | Investor)
-> Safe travels!
-
-### Willem Gous (Safely transition from corporate into your own business. Leave on your terms, before they decide for you. | Startup Coach of the Year Africa 2025 | Thinkers360 Top 50 Thought Leader in Careers | 3 x Author | Int. Speaker)
-> Good observation and thought-provoking question. Wishing you all the best with your keynote Antoni Lacinai
-

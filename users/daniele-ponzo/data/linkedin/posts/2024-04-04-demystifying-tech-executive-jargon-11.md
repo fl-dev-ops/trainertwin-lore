@@ -42,12 +42,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
 
 #TechJargon #TechLeadership #BusinessEnglish #ITManagement
-
-## Comments (2)
-
-### Fabio Sverzelati (Mechanical Engineer (Politecnico di Milano) | Global Key Accounts & International B2B Sales | Industrial Machinery, Packaging & Capital Equipment | English & Italian | Europe & Asia)
-> Daniele Ponzo it's very crude but can give you a good idea of the consequences...
-
-### Laura Markus (Accent & Communication Coach | I Help International Professionals Refine Their Pronunciation & Spoken English So They Feel More Comfortable & Confident When They Speak)
-> This is 'real' English! You're right, it's a phrase that you hear often in meetings, in TV shows, in films. You don't have to use it yourself, but it's good to know what it means when you hear it!
-

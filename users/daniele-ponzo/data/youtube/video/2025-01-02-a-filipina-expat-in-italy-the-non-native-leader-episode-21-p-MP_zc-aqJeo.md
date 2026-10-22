@@ -25,9 +25,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# A Filipina expat in Italy | The Non Native Leader | Episode 21 #podcast #interview
-
-## Transcript
-
 speaker_1: So I first arrived here um not as a teacher okay I worked for a Filipino company in the in the Philippines and they opened a branch here in in Rome in Italy Rome Milan and Florence actually So you could say that I was an expat back then So I was dispatched um by the mother company here in in Italy

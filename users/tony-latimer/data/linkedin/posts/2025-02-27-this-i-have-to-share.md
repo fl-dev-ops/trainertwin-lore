@@ -4,6 +4,8 @@ date: '2025-02-27T07:16:34.937Z'
 url: https://www.linkedin.com/posts/tonylatimer_mccmentorcoach-pcctomcc-icfmcc-activity-7300775809907142656-LUfd
 likes: 6
 comments: 1
+author_comments:
+- A once in a lifetime opportunity for our region to learn from Fran.
 ---
 
 This I have to share with you all:
@@ -41,9 +43,3 @@ What You’ll Get:
 This is your chance to learn from a true master and elevate your coaching impact. Don’t wait—secure your place now!
 
 #MCCMentorCoach #PCCtoMCC #ICFMCC #CoachingMastery #AdvancedCoaching #MentorCoaching #CoachingExcellence #ICFAccredited #CoachDevelopment #MasterCoachTraining #ProfessionalCoaching #AsiaPacificCoaching
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> A once in a lifetime opportunity for our region to learn from Fran.
-

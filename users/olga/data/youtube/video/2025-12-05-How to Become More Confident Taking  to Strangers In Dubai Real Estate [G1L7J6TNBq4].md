@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Become More Confident Taking to Strangers In Dubai Real Estate
-
-## Transcript
-
 speaker_1: I should have changed the battery For some reason there was no charging I was thinking it charging but it was not Ramzi I will give you a trick on how to become more confident talking to strangers right On the phone face to face and as well the trick how to stop being afraid recording yourself on camera So it all starts from What What were actually afraid of On the cold call talking to a stranger rejection Why are we afraid of rejection But why Where theres a deep reason for that you know Were human beings Theres evolutionary mechanism of survival right Right Say again
 
 speaker_2: Freud

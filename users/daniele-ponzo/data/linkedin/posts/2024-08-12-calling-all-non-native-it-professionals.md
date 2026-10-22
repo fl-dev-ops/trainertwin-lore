@@ -46,20 +46,3 @@ Are you ready for the challenge?
 Here is the link to download it for free: https://lnkd.in/dufwE_8Y
 
 #itprofessionals #businessenglish #jargon
-
-## Comments (3)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Sounds really amazing!! Daniele Ponzo ))
-> 
-> 20 real-life English business expressions 
-> is a great starting point. 
-> 
-> Thanks for putting this together!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Navigating business jargon can feel like a jungle, especially for non-native IT professionals. Daniele Ponzo
-
-### Marilia 🧠Falsetti (Agile | Scrum | Psychology)
-> Very creative material
-

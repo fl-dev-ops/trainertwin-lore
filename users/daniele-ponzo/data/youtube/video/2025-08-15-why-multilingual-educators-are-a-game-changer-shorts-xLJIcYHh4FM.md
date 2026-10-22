@@ -23,9 +23,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Multilingual Educators Are a Game-Changer #shorts
-
-## Transcript
-
 speaker_1: But also its very fair to say having a multilingual you know teacher in any educational setting is a blessing for them I can tell you Yeah and I have a valid reason for that you know and uh yes because we are ready to blend with a new technique teaching technique and at the same time we incorporate our you know previous uh you know experience uh in our educational you can say or in our you know uh instructional design

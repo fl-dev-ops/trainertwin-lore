@@ -13,7 +13,3 @@ article:
 In a nutshell: How can it be that countries with lower job security has a higher overall engagement level? Are they more appreciative? Have they all found a greater purpose? Or are they afraid om something...?
 
 #CreateMeaning
-
-### Shared Article: [Here's a reason for low employee engagement that you (maybe) didn't know.](https://www.linkedin.com/pulse/heres-reason-low-employee-engagement-you-maybe-didnt-know-lacinai?trackingId=%2FBYikBh6xFPc8wZfk4nc0Q%3D%3D)
-> Antoni Lacinai
-

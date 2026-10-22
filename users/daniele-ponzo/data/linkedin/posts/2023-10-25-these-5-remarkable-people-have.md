@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-inspiration-languageim
 likes: 12
 comments: 7
 images_count: 1
+author_comments:
+- Would you add anyone else to this list? Curious to get your insights 👇
 ---
 
 These 5 remarkable people have 1 thing in common.
@@ -75,18 +77,3 @@ Here is to all language learners and to everybody who’s helping overcome commu
 Madeleine Albright picture By David Shankbone - Own work, CC BY 3.0.
 
 #english #inspiration #languageimprovement
-
-## Comments (4)
-
-### Laura Morejón (Unlock your Spanish and express yourself as you are without stress. In the Featured section, you can find a free mini-course. 👇 Face-to-face lessons in companies. SIELE trainer.)
-> So inspiring! Thanks for sharing!
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> So inspiring Daniele! Brilliant post!
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Lovely post!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Would you add anyone else to this list? Curious to get your insights 👇
-

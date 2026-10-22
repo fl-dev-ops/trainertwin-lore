@@ -41,9 +41,3 @@ Hi, I'm Daniele. I post about the Tech World, language improvement and wellbeing
 If you're interested in these topics, hit the 🔔 on my profile.
 
 Follow ➡️ Daniele
-
-## Comments (1)
-
-### Vanessa Andrews (Associate Consultant)
-> ‘Global chip shortage: Mercedes CEO on 'COVID whiplash' This was the headline in Africa 2021 causing a huge knock on effect- Mercedes Plant production came to a halt and people either lost their jobs or went on short-time. So this is great news Daniele Ponzo Thank you for sharing.
-

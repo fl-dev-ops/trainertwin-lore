@@ -13,9 +13,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Feedback Loop That Improves Your Communication Fast #shorts
-
-## Transcript
-
 speaker_1: So its hone action And then C is for collaboration so you dont need to do it alone Like we live in an interconnected world so you can find a community you can find someone and ask for feedback You can find a coach You know you can get the the essential part is that you get feedback and that you sort of share the burden

@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# She Asked Me to Help Her Start Cold Calling. We fixed it in 1 month
-
-## Transcript
-
 speaker_1: Imagine working in Dubai real estate market for 2 years closing some deals but still being afraid of cold calling more than more than the fear of death probably In this video Im speaking with my coaching client who was exactly in this place She had experience she closed some deals but only the idea that now she has to go and hunt for the new listing Do the cold calls make you completely freeze If just the thought of picking up the phone and doing the cold calls makes you panic if when your manager is asking you where your listings for this month you are completely shh and you dont know what to say this video might be just right treatment for you Then you need to hear the story She will be talking to how She was able to overcome the cold calling anxiety and how we build the system together which makes you successfully consistently bring the new listing and convert them She was doing cold calls every day with ease without fear Oh almost without fear Stay till the end specifically if the cold calling feels like the hardest part of your real estate job this video might shift everything for you Hi Irina thank you for taking this call in the middle of your very very important process of you closing maybe one of the biggest deals of your life So tell us a little bit about yourself your experience in real estate so we understand What was the lets say starting point before we actually started our coaching relationship
 
 speaker_2: Yeah so Ive been in real estate now for about 2 and a half years Before I joined your coaching it was like 2 years So and Ive been focusing on the secondary market primarily and I would say that it has been a very challenging journey for me actually from the beginning itself because I have never dealt with sales before And changing careers from one sphere to another sphere of course it was very difficult So I was completely lost with everything that I was doing in real estate For the first year I think I was just trying to swim in the ocean without knowing how to swim And then

@@ -19,18 +19,3 @@ What do you think is needed to get a more productive team?
 #leadership #engagement #communication
 
 Here is a link to an  English video on the same topic: https://buff.ly/3TYWJQJ
-
-### Shared Article: [Sluta snacka om effektiva-moten - Ledarskap - HRnytt](https://buff.ly/3TYWJQJ)
-> antonilacinai.com
-
-
-## Comments (2)
-
-### Inger J. (Medicinsk bibliotekarie på Region Blekinge)
-> https://hrnytt.se/ledarskap/sluta-snacka-om-effektiva-moten/
-> 
-> Bra skrivet! Jag är hjärtligt trött på allt svammel och har numera inte tålamod att stå ut med det.
-
-### Emma Nordbäck (Associate Professor at Hanken School of Economics)
-> Could not agree more!
-

@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How to Build a SIX-FIGURE Supply Chain Career FAST (Step-by-Step) - A podcast with Mark Potts
-
-
-## Transcript
-
 speaker_1: And thats a really great way an easy way to just say hey Ill sign up for that project Ill sign up for this stretch role Ill say yes to this situation even if its outside your day to day That is a great way to get highlighted amongst your leaders I love seeing projects Im a project guy You know Ive got my PMP I spend a lot of time on supply chain projects and continuous improvement I love seeing and I dont even care if it comes from supply chain You know you could come from
 
 

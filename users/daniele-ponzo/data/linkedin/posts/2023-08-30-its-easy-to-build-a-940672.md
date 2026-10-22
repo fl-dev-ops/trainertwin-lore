@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-projec
 likes: 9
 comments: 3
 images_count: 1
+author_comments:
+- |-
+  Here you can download my RACI matrix sample: https://docs.google.com/spreadsheets/d/15xKio52w4JZ3zIz7fGZLX0Lmhf7vXGRC?rtpof=true&usp=drive_fs.
+  Let me know if you find it useful.
 ---
 
 It's easy to build a sandcastle ⛱
@@ -68,13 +72,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
  Follow ➡️ Daniele
  
  #english #Itprofessionals #projectmanagementtips
-
-## Comments (2)
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> cool image!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here you can download my RACI matrix sample: https://docs.google.com/spreadsheets/d/15xKio52w4JZ3zIz7fGZLX0Lmhf7vXGRC?rtpof=true&usp=drive_fs.
-> Let me know if you find it useful.
-

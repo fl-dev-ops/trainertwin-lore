@@ -14,9 +14,3 @@ images_count: 1
 Thank you too Lauri for bringing me in as the last speaker of a great online event!
 
 #virtualspeaker #onlineconference #leadership
-
-## Comments (1)
-
-### Osnat M. (Highly experienced and skilled event marketer ⭐️ Entrepreneur, Co-founder & Partner ⭐️ Business Leader & developer with proven track record of growth and result generation ⭐️ Speaker ⭐️ Blogger ⭐️ Sisters Talk -podcast)
-> Thank you Anthoni from our behalf too. You truly are an inspiration! 🙏
-

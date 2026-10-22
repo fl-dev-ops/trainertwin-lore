@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_cv-itprofessionals-business-ac
 likes: 15
 comments: 9
 images_count: 1
+author_comments:
+- 📌 Remember, if you would like a copy of my Excel CheatSheet with verbs, definitions, pronunciation and practical examples to yous in your CV, comment or DM the word 'ACTION' and I'll send you the link.
+- 'Here is the article, if you want to read it: https://drjohnsullivan.com/articles/why-cant-get-interview-explained-job-search-data/'
 ---
 
 This vocabulary tip can make or break your English CV
@@ -43,22 +46,3 @@ If you did, remember to hit the double bell on my profile 🔔 🔔 so you’ll 
 Follow|Daniele
  
  #CV #itprofessionals #business
-
-## Comments (5)
-
-### Julie Tingley (Business Development Executive | Employee Benefits & HR Consulting Improving the lives of the people we serve)
-> Action - Thanks for sharing!
-
-### Luca Menicocci (Partner Sales Manager Fleet, Fuel & Mobility presso Enfuce)
-> Daniele Ponzo Thanks for sharing this!
-> ACTION
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Remember, if you would like a copy of my Excel CheatSheet with verbs, definitions, pronunciation and practical examples to yous in your CV, comment or DM the word 'ACTION' and I'll send you the link.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here is the article, if you want to read it: https://drjohnsullivan.com/articles/why-cant-get-interview-explained-job-search-data/
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Very helpful to many people Daniele Ponzo!
-

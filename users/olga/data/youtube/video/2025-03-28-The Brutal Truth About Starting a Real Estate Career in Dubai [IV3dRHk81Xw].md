@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Brutal Truth About Starting a Real Estate Career in Dubai
-
-## Transcript
-
 speaker_1: No one cares what youve been doing anywhere in the world selling real estate
 
 speaker_2: You can do anything you know So I feel like anyone thats starting 25 years 5 years 2 years experience it doesnt matter And trying to do sales the UK sales way when in fact in Dubai people like to be told blunt they like to be Very direct with what you do and how you how you do your business A lot of people get sold a dream I feel like when they move to Dubai

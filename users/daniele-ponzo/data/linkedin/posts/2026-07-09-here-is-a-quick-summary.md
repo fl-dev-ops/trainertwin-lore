@@ -45,23 +45,3 @@ If you want the exact scripts and phrases to master this transition, grab a free
 It’s a short guide built specifically for engineers, architects, and tech leads who want to communicate like leaders. 
 
 Download the guide here: https://lnkd.in/dw5ADRZi
-
-## Comments (5)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Structure helps people understand. Details can come later.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Technical expertise creates value, but clear communication determines how effectively that value is understood.
-> 
-> A simple structure can make complex decisions easier for leaders to act on.
-
-### Marilyn PAU AI  Curate IQ Lab (Empowering Brands with Data Strategy & Business Intelligence design.)
-> It’s not about knowing less, but about structuring knowledge so others can act on it. That’s what distinguishes technical expertise from leadership communication.
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> One of the most valuable communication skills is knowing what to leave out. Clarity often creates more confidence than showing everything you know.
-
-### Viktoryia Ruzhynskaya (Business Operations Manager | M&A Integration & Presales Strategy | Sales Ops & Account Management | Claude-Certified AI Practitioner)
-> So true! Clarity beats complexity every time. A simple structure not only helps your audience—it helps you stay focused under pressure.
-

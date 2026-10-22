@@ -14,7 +14,3 @@ article:
 Found it in my old vault today. An interview (on AI in Samskrutam) that I gave when I was at IITD - https://lnkd.in/gFeKrrkQ
 
 May be of interest to a few of you.
-
-### Shared Article: [Meet the young IIT Professor Dr Prathosh AP, who has given new insights into ancient Sanskrit Texts](https://www.youtube.com/watch?v=v7OoAvs943Q)
-> youtube.com
-

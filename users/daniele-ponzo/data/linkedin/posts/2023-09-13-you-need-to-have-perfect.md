@@ -4,6 +4,8 @@ date: '2023-09-13T05:59:48.249Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_fugadeicervelli-english-itprofessionals-activity-7107603755692400640-eMQy
 likes: 16
 comments: 6
+author_comments:
+- 'Here is the link to the podcast: https://www.linkedin.com/posts/mario-crea-a20b589_linglese-come-strumento-per-emigrare-by-activity-7107272745398239232-7Jwv?'
 ---
 
 You need to have perfect English to get an international career.
@@ -51,15 +53,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️Daniele
  
  #english #itprofessionals #speaking
-
-## Comments (3)
-
-### Vanessa Andrews (Associate Consultant)
-> Daniele, English is my first language and I don’t speak it perfectly 😂 As long as we understand each other. Thanks for the reminder
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Absolutely correct.  But people don’t realise it
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here is the link to the podcast: https://www.linkedin.com/posts/mario-crea-a20b589_linglese-come-strumento-per-emigrare-by-activity-7107272745398239232-7Jwv?
-

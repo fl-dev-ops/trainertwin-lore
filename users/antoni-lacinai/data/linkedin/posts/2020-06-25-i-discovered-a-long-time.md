@@ -14,18 +14,3 @@ In these home-working times, this rings even more true to me.
 Do you agree?
 
 #leadership #virtualleadership #engagement #keynote
-
-## Comments (4)
-
-### Robert Hermansgård (Försäkringsrådgivare, Investeringsrådgivare)
-> Håller med dig Antoni.
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> Great insights on Analog communication Antoni Lacinai!
-
-### Heather Johnson (Experienced business leader driving global sustainability initiatives to build corporate resilience, create stakeholder value and contribute to the sustainable development of society)
-> Good insights as always Antoni Lacinai!
-
-### Pierre Tauberman (Chief Relaxation Rebel Officer – Challenging the Spa & Pool Industries.)
-> Andreas Sandberg
-

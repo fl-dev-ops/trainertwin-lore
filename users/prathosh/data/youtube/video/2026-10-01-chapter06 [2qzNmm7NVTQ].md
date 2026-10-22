@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter06
-
-## Transcript
-
 speaker_1: अथ षष्ठोऽध्यायः
 आत्मसंयमयोगः
 श्रीभगवानुवाच

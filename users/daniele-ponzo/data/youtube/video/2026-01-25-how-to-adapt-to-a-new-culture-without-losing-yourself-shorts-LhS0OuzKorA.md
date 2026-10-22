@@ -24,9 +24,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How to Adapt to a New Culture Without Losing Yourself #shorts
-
-## Transcript
-
 speaker_1: Yeah probably it was very easy in the first day in Israel I already uh felt at home and uh also I I I left Israel to Portugal It was very easy to adapt to Portugal I know the language and things like that Also coming to Spain it was not difficult

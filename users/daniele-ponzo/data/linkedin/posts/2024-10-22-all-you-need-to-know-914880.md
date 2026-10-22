@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_tech-softskills-career-activit
 likes: 29
 comments: 20
 images_count: 1
+author_comments:
+- '⁉️ Are you struggling with Soft skills? let me know here: https://www.linkedin.com/posts/daniele-ponzo_softskills-tech-career-activity-7255093361097760768-xAbl'
+- 📌Soft skills for software engineers. Why? https://www.linkedin.com/posts/daniele-ponzo_softwareengineers-nonnativeleader-tech-activity-7254725842163953664-usb1
+- '🦹 If you like this colourful, comic-style version, check out my FREE guide to Business English Jargon: https://solutionspeak-coaching.ck.page/1738c5b661'
 ---
 
 All you need to know about soft skills.
@@ -57,39 +61,3 @@ Practice makes perfect.
 P.S. Am I missing anything? Let me know below 👇 .
 
 #tech #softskills #career
-
-## Comments (11)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ⁉️ Are you struggling with Soft skills? let me know here: https://www.linkedin.com/posts/daniele-ponzo_softskills-tech-career-activity-7255093361097760768-xAbl
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Soft skills for software engineers. Why? https://www.linkedin.com/posts/daniele-ponzo_softwareengineers-nonnativeleader-tech-activity-7254725842163953664-usb1
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Absolutely! Soft skills are indeed the superhero skills of the modern workplace. Reframing them as human skills highlights their critical importance. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🦹 If you like this colourful, comic-style version, check out my FREE guide to Business English Jargon: https://solutionspeak-coaching.ck.page/1738c5b661
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Along with 'small talk,' soft skills are one of the most understated yet important skills that you can learn in language and business.
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> Great breakdown of why soft skills, or 'human skills,' are critical for career growth in tech! I especially agree with the emphasis on cultural sensitivity and effective communication. Spot on!
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> I never really understood why they picked "soft" vs. "hard" to describe work skills. Honestly. 🙄
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Well done for highlighting the importance of these essential skills Daniele 👏
-
-### Stefania Marinelli (Turning Busy Professionals into Authentic Leaders | Associate Certified Coach -ICF | Senior People Manager | Agile Coach)
-> Your Friendly Neighborhood Daniele Ponzo 😁
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> oh AI manga Daniele looks amazing 😂
-
-### Fulvio Esposito (OECD Committee for Scientific and Technological Policy)
-> What’s about calling them transversal or transferable skills?
-

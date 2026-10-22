@@ -5,6 +5,26 @@ url: https://www.linkedin.com/posts/daniele-ponzo_if-you-stay-silent-in-meetings
 likes: 61
 comments: 17
 images_count: 1
+author_comments:
+- |-
+  This is the transformation you can expect:
+
+  https://www.linkedin.com/posts/daniele-ponzo_i-didnt-expect-this-message-yesterday-share-7460927215262842880-wceP
+- "\U0001F4CC Here's something that works better than \"perfection\": \n\nhttps://www.linkedin.com/posts/daniele-ponzo_you-know-exactly-what-you-want-to-say-until-share-7460566057263583233-DQoq"
+- Thank you for reposting, Sergio Espósito  🙏
+- |-
+  ▶️ This is exactly what we work on in the 𝗗𝗶𝗮𝗴𝗻𝗼𝘀𝗶𝘀 𝗽𝗵𝗮𝘀𝗲 of my new program "Speak Like a Leader".
+
+  🔸  identify the patterns that keep you stuck
+  🔸 understand what happens to your communication under pressure
+  🔸 break down why you hesitate, overthink, or lose structure
+
+  Because once you see it clearly…you can start fixing it.
+
+  If this post felt familiar, you’ll recognise yourself in that phase.
+
+  More details here:
+  https://danieleponzo.com/speak-like-a-leader-292361
 ---
 
 If you stay silent in meetings?
@@ -112,63 +132,3 @@ If you’ve managed to handle this better over time…
 ▶ ️What's one practical thing that actually helped you speak more clearly in these situations?
 
 Your answer might help someone who’s still stuck in that moment.
-
-## Comments (11)
-
-### Bettina Neukam (Executive Business German Coach (native speaker) 🇩🇪 🇪🇺 I enable EU public affairs leaders (B2-C2) to make German “click” for negotiations and presentations in 12 weeks 💡🏎)
-> How true! And it applies to any second languages you might want to learn as well. A very nice diagram, by the way  👍
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> This is the transformation you can expect:
-> 
-> https://www.linkedin.com/posts/daniele-ponzo_i-didnt-expect-this-message-yesterday-share-7460927215262842880-wceP
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Here's something that works better than "perfection": 
-> 
-> https://www.linkedin.com/posts/daniele-ponzo_you-know-exactly-what-you-want-to-say-until-share-7460566057263583233-DQoq
-
-### Elborg Nopp (I help you make your English a teammate you trust, not a stranger you avoid | English Language Trainer | Language Coach)
-> "You're judged for your clarity and presence." I couldn't agree more!
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> Emphasizing clarity over perfection in communication can transform how we engage in meetings Daniele Ponzo great to see the encouragement for fostering confidence in our expressions.
-
-### Kit Yee Cheng (Women’s Empowerment Coach | Working with Women in Leadership & Business Stop playing Small, Speak Up & Be Heard | Creator of The Unmuted Woman Programme)
-> Getting your thoughts out, into words that are clear to your listeners is a skill, anyone can develop Daniele Ponzo 
-> 
-> I joined Toastmasters which helps you do exactly this. 
-> 
-> We have impromptu speaking sessions, at our regular meetings, where a member chooses other members, to answer an impromptu question. 
-> 
-> You don’t get time to prepare or think about your answer. You have a maximum of 2 minutes. 
-> 
-> This has helped me to think on my feet and excel in my communication
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Pausing to state the main point in one sentence before adding detail helped a lot.
-> It reduces overthinking and keeps the message structured under pressure.
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> You said it right. We perform based on what we think people will think about us. Silly, but common and by all means fixable.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thank you for reposting, Sergio Espósito  🙏
-
-### Thomas Chen (​4 to 6-figure (USD) sales deals closed | Helping founders, sales professionals and their teams to get bigger clients through LinkedIn. | Trusted by clients worldwide (Testimonials in Featured/ Recommendations))
-> A clear point said simply beats a perfect sentence said too late. Nice one, Daniele Ponzo!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ This is exactly what we work on in the 𝗗𝗶𝗮𝗴𝗻𝗼𝘀𝗶𝘀 𝗽𝗵𝗮𝘀𝗲 of my new program "Speak Like a Leader".
-> 
-> 🔸  identify the patterns that keep you stuck
-> 🔸 understand what happens to your communication under pressure
-> 🔸 break down why you hesitate, overthink, or lose structure
-> 
-> Because once you see it clearly…you can start fixing it.
-> 
-> If this post felt familiar, you’ll recognise yourself in that phase.
-> 
-> More details here:
-> https://danieleponzo.com/speak-like-a-leader-292361
-

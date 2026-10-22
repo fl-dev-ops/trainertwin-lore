@@ -1,6 +1,6 @@
 ---
 id: sOwgRt6uiA4
-title: Tutorial 8 : Computation of EM for GMMs
+title: "Tutorial 8 : Computation of EM for GMMs"
 url: https://www.youtube.com/watch?v=sOwgRt6uiA4
 date: '2026-02-11'
 duration: 40:48
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 8 : Computation of EM for GMMs
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorial
 in which we shall be looking at GMMs

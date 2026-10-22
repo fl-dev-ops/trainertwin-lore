@@ -1,6 +1,6 @@
 ---
 id: JwQEaTqyBDw
-title: Tutorial 6 : Example of NP Classifier, ROC Curve
+title: "Tutorial 6 : Example of NP Classifier, ROC Curve"
 url: https://www.youtube.com/watch?v=JwQEaTqyBDw
 date: '2026-02-03'
 duration: 32:40
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 6 : Example of NP Classifier, ROC Curve
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorials in
 which we will be seeing an example of

@@ -18,15 +18,3 @@ Vilken är din favorit?
 Må gott i solen 
 
 https://lnkd.in/dhERBqNd
-
-## Comments (3)
-
-### Åsa Pihlsgård (Diploma)
-> 2:an är så bra. Ha en fin sommar och varva ner ordentligt.👍😊
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> Nr 2 är riktigt bra!!! 🤩
-
-### Mats Guldbrand (Executive AI Communication | AI Strategist | Change Management and AI Adoption | AI storyteller for boards, leaders and seven-year-olds | 1,000+ executive briefings, 10 heads of state)
-> Ditt experiment med "dum telefon" var kul. En hel dag om jag minns rätt?  😀
-

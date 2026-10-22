@@ -11,7 +11,3 @@ article:
 ---
 
 Tycker du att jag tillhör de 100 bästa föreläsarna skulle jag bli SUPERGLAD om du la mitt namn i hatten 😊
-
-### Shared Article: [Över 2000 personer har nominerat sin favoritföreläsare - eventeffect.se](https://bit.ly/2VyiCdi)
-> bit.ly
-

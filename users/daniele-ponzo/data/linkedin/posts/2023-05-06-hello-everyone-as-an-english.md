@@ -18,9 +18,3 @@ You can also find inspiration and motivation from within yourself by focusing on
 
 Thanks Harsh Mariwala for sharing this!
  #EnglishLanguageCoach #SelfMotivation #LanguageLearningGoals
-
-## Comments (1)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Great message Daniele! Setting specific and measurable goals is a key part of staying motivated. And as you said, celebrating our wins, no matter how small, is a great way to give our motivation a boost when we need it! 👏🚀
-

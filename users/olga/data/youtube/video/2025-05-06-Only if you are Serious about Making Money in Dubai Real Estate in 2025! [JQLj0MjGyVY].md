@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Only if you are Serious about Making Money in Dubai Real Estate in 2025!
-
-## Transcript
-
 speaker_1: Im building my team and I do not care if you have experience in Dubai real estate or no All I care is if you can think act and grow If you want to try yourself in something bigger this is your chance Im hosting an open day where I will go through some business game Im going to give you a mini training which definitely gives you a feeling how it is to be in real estate And if we click youre going to be joining a 6 month training program and the company of course But even if not you will walk away with insights clarity and ton of value If you feel like thats something for you DM team and I will send you the info See you on the open day Thank you

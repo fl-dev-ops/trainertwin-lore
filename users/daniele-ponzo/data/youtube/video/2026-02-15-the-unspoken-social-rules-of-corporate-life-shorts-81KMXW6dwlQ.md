@@ -21,9 +21,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Unspoken Social Rules of Corporate Life #shorts
-
-## Transcript
-
 speaker_1: the impact with the corporate world Yeah it was they they they dont in Brazil you drink the coffee and you have small talk and you get the United States is to work work work Its they they dont have any any personal contact of something like that It was Okay It was okay it was not difficult but it was very strange to work with the Americans

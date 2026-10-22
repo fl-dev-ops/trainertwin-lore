@@ -21,24 +21,3 @@ Han tittade på mig med ett höjt ögonbryn. ”Fyra.”
 ”Fyra?”
 ”Jag har en arbetsorder på fyra dagar. Då tar det fyra dagar.” Han plockade fram sin telefon och började hamra på den med sitt tjocka pekfinger. Sedan skickade han fram den en decimeter från mitt ansikte. ”Ser du? Det står FYRA dagar!”...
 Hur det gick? Läs vidare här:
-
-### Shared Article: ["Nu måste du och jag kommunicera med varandra!" - Antoni Lacinai](https://buff.ly/3soJf32)
-> buff.ly
-
-
-## Comments (3)
-
-### Kari Kyllästinen (Senior Property Management Professional, now happily retired and thoroughly enjoying it!)
-> Jaaa, som La Rochefoucault har sagt: Det första intrycket stämmer oftast, i synnerhet när det är dåligt...
-
-### Marcus Sandberg (Säljare)
-> Bra artikel det där ❤️👍
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Onödigt mycket pulshöjning och brustna blodkärl, när svaret ändå blir det som var överenskommet...😂 
-> 
-> Dessvärre kanske inte så ovanligt: högt stresspåslag, otydlig uppdrag från chefen, ”jag vet bäst”-mentalitet eller annan bakomliggande orsak kvittar. Professionellt kundbemötande måste gå före! 
-> 
-> Gillar dina små vardagsbetraktelser kring små situationer som gör stor skillnad 🙌
-> (PS du behöver inte skicka hantverkarns telefonnummer 😂)
-

@@ -18,13 +18,3 @@ Warm welcome from the three is us to all of you (or actually max 200 of you) who
 Thursday at 5pm cet 
 
 Hope to see you 😃
-
-### Shared Article: [Welcome! You are invited to join a webinar: Everything you need to know about Online Conferencing, with Gerd Leonhard, Antoni Lacinai and Åsa Degermark (The Futures Agency). After registering, you will receive a confirmation email about joining the webinar.](https://bit.ly/3asjt5z)
-> bit.ly
-
-
-## Comments (1)
-
-### Johanna Kauppinen (Reaching business goals with legal solutions. Legal Counsel @ Oy Snellman Ab)
-> Ping Auli Hiltunen ....I will not attend this one, but you may be interested. Met Antoni Lacinai at an TedX Wasa event a couple of years ago and he was good.
-

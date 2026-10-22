@@ -22,7 +22,3 @@ Ska ni gå från strategi till resultat? Läs min senaste krönika i HRnytt och 
 Ha en härlig vecka ^_^
 
 https://lnkd.in/d5QrzaPy
-
-### Shared Article: [Så hittar du balansen mellan transparens och tydlighet - Ledarskap - HRnytt - Ledarskap - HRnytt](https://hrnytt.se/ledarskap/det-blir-dyrt-om-du-likstaller-transparens-med-tydlighet/)
-> hrnytt.se
-

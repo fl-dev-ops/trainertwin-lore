@@ -7,12 +7,3 @@ comments: 3
 ---
 
 What Dave Birss said. Minus being there four times already 🙂
-
-## Comments (2)
-
-### Juljana Koci (Experienced Business Development Manager | Proven Track Record in Sales & Market Expansion | Medical Tourism Specialist. Business Development Director at UniquEra Clinic Istanbul)
-> Looking forward meeting you again 🙌
-
-### Dave Birss (Co-Founder @ The Gen AI Academy | Over 2 million students taught)
-> It was great to meet you, Antoni. Let's hope we get to spend time together again soon!
-

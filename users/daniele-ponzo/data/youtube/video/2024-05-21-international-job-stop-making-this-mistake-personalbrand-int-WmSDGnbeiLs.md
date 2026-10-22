@@ -25,9 +25,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# International Job? Stop making this mistake! #personalbrand #internationalcareer #nonnative
-
-## Transcript
-
 speaker_1: get rid of their preconceived notions uh especially especially if they come from from Italy of course thats my my experience because how things work in your area in your society in your everything most probably is not how it will work elsewhere Uh so yeah whatever you think that you know get rid of it when you have to approach a job with a within an international uh industry or whatever

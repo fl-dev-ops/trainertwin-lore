@@ -5,6 +5,31 @@ url: https://www.linkedin.com/posts/daniele-ponzo_pronunciation-english-tractor-
 likes: 19
 comments: 8
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQE09baryXFlvQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1702712259935?e=1793178000&v=beta&t=7y2QEDepWTHMmT0nzarRidumlydq5n9TDIPZdXQJLpE
+author_comments:
+- |-
+  Elsa Speak:
+  Features: Focuses on English pronunciation training with personalized lessons and feedback.
+  Platform: Available for iOS and Android.
+- |-
+  Oxford English Dictionary (OED):
+  Features: The OED app often includes phonetic transcriptions for words, helping users understand correct pronunciation.
+  Platform: Available for iOS and Android.
+- |-
+  YouGlish:
+  Features: Allows users to hear native speakers pronounce words in real contexts, aiding in understanding natural pronunciation.
+  Platform: Available as a web application.
+- |-
+  Sounds: The Pronunciation App:
+  Features: Provides a variety of exercises to improve pronunciation and offers phonetic transcriptions for words.
+  Platform: Available for iOS and Android.
+- |-
+  Pronunciation Power:
+  Features: Offers lessons on pronunciation, stress, and intonation, along with a comprehensive dictionary.
+  Platform: Available for Windows, macOS, iOS, and Android.
+- |-
+  Forvo Pronunciation:
+  Features: Allows users to listen to pronunciations by native speakers and provides phonetic transcriptions.
+  Platform: Available as a web application and mobile app.
 ---
 
 A man, a guitar, a tractor and….English Pronunciation.
@@ -77,39 +102,3 @@ P.S. Do you have any funny stories to share?
 I wish you all a great weekend!
 
 #pronunciation #english #tractor
-
-## Comments (7)
-
-### Laura Markus (Accent & Communication Coach | I Help International Professionals Refine Their Pronunciation & Spoken English So They Feel More Comfortable & Confident When They Speak)
-> Brilliant!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Elsa Speak:
-> Features: Focuses on English pronunciation training with personalized lessons and feedback.
-> Platform: Available for iOS and Android.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Oxford English Dictionary (OED):
-> Features: The OED app often includes phonetic transcriptions for words, helping users understand correct pronunciation.
-> Platform: Available for iOS and Android.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> YouGlish:
-> Features: Allows users to hear native speakers pronounce words in real contexts, aiding in understanding natural pronunciation.
-> Platform: Available as a web application.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Sounds: The Pronunciation App:
-> Features: Provides a variety of exercises to improve pronunciation and offers phonetic transcriptions for words.
-> Platform: Available for iOS and Android.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Pronunciation Power:
-> Features: Offers lessons on pronunciation, stress, and intonation, along with a comprehensive dictionary.
-> Platform: Available for Windows, macOS, iOS, and Android.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Forvo Pronunciation:
-> Features: Allows users to listen to pronunciations by native speakers and provides phonetic transcriptions.
-> Platform: Available as a web application and mobile app.
-

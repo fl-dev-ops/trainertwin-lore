@@ -36,25 +36,3 @@ Eppure, c’è ancora chi pensa che basti “saper usare Excel” o che a 45 ann
 
 Se sei freelance, dipendente, imprenditore o semplicemente ti stai chiedendo “e adesso che faccio con la mia carriera?”, questo panel fa per te.
 👉 Ci vediamo lì.
-
-## Comments (5)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Very helpful, thanks for sharing!
-
-### Maria Cristina Andreoni (Affianco PMI, HR, manager e team nel migliorare collaborazione, decisioni, leadership, benessere e cultura organizzativa | Facilitazione & Formazione aziendale | Workshop esperienziali sulle soft skill)
-> Sempre più convinta di quanto hai scritto!
-> 
-> Unica perplessità, ma i recruiter lo sanno...🤭
-
-### Danilo Spanu (Founder, creative director e brand designer Banana Splint 🍌 ➤ Progetto il tuo brand dalla D alla S (sì, faccio loghi 😉) ➤ Mi occupo di brand e personal brand su LinkedIn ➤ Faccio origami ➤ 🚫AI Free brain)
-> Il CV non basta più, l'AI non è mai bastata, quel che ci vuole è un mix di competenze, capacità di comunicare e -fondamentale- entusiasmo. A pacchi.
-> 
-> Senza entusiasmo, è come mangiare una fiorentina troppo cotta: ti passa la voglia prima ancora di dare un morso.
-
-### Sinthujah Wimalathas (Founder, SANARAS Coaching | Performance Coach & Psychologist | Ex-Goldman Sachs | MSc, Psychology & Neuroscience | Helping High Performers Through Change with Clarity, Direction & Sustainable Success)
-> Sounds like a great event Daniele Ponzo. Couldn't agree more on the topic around reinvention. You need to keep upskilling, adapting to change and stay current.
-
-### Vittorio Verardi (🛸 Costruendo l’Italia delle Startup | Presidente @Needs Startup Association | Consultant & Advisor)
-> L’avrei voluto ascoltare qualche anno fa un evento così 👊
-

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Isha | 6 months of internship in toxic work place | 🎉 Should I change my job or ? doubts Clarified 🎉
-
-
-## Transcript
-
 speaker_1: So the work timings are from 9 30 to 6 30 Yeah So I understand that sometime at some time there are projects that need to be completed as early as possible but it is not bad keep they assume us to do work every day from after 9 to 6 also one more question please as I am in the start of my career only so what is the future of front end development
 
 speaker_2: Hello all hope you all doing well I welcome you all to my YouTube channel Karyabithperson which is previously known as UncommonGeeks So as you know this is a mentoring session that Im doing I am mentoring a lot of candidates across different parts of the country The whole purpose of this session is very simple A lot of people who want to get connected with me but for some other reason theyre not able to get connected So I want to give some opinion about different problems that people are facing via this So a lot of people who come to this mentoring sessions who have some concerns If you also have a similar concern

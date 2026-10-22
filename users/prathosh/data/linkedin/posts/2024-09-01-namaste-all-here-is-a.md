@@ -20,7 +20,3 @@ This may be of interest to some of you -
 https://lnkd.in/ghyXTSpj
 
 Some real intelligence (non AI) for the weekend :)
-
-### Shared Article: ["Shastra Studies" an unnegotiable necessity of any intellectual.](https://youtu.be/VXKdWjsxhOY?si=btmnHDSz9nMBcV9X)
-> youtube.com
-

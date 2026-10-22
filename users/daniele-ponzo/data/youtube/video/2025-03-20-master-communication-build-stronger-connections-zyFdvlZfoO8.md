@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Master Communication & Build Stronger Connections
-
-## Transcript
-
 speaker_1: theres no communication in isolation Here this is the perfect spirit of the non native leader you know This is thats it I think youve summarized it perfectly So Id like to thank you very much this has been incredibly insightful for me and I hope also for the listeners
 
 speaker_2: Its been wonderful talking with you and getting to meet you obviously uh over the past few weeks Um uh chatting right now has been amazing Thank you Ive had a lot of fun actually discussing these things

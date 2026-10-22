@@ -14,9 +14,3 @@ That is the subtitle to the brand new book on Amazon today. I had the honor of c
 I hope you get massive value from it! I am actually counting on it.^_^
 
 Here is the link to the book: https://buff.ly/3PaYEB3
-
-## Comments (1)
-
-### Sebastian Larsson (Lagkapten på Knowit)
-> Is this the best selling book ?
-

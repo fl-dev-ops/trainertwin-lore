@@ -69,23 +69,3 @@ Useful? Remember to hit the 🔔 on my profile.
 Follow ➡️Daniele.
  
 #english #Itprofessionals #meetings
-
-## Comments (4)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Great points Daniele Ponzo ))
-> 
-> Softening tone and language helps, especially in international teams.
-> 
-> Thanks for sharing )))
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo Great insights! Another mini tip may be to consider is active listening during meetings. Often, professionals are so focused on what they want to say next,that they miss key points from others
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> lol love the image. It’s so true
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> Great points
-> Thanks for sharing Daniele
-

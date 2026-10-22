@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Knowledge Session - How To Lead Successful Meetings With Clients - Part 4
-
-## Transcript
-
 speaker_1: During the Zoom call do not talk do not talk for more than 3 minutes What that means that if you are talking for 10 minutes the client well hopefully I would say even for 3 minutes the client gonna lose their engagement Its naturally Thats why I know that this presentation might not be very engaging for you because usually Im stopping Im asking Im putting the hook in Im interacting with you but we have to record it with a short possible time right Thats why I am introducing um the questions which gonna help you to wake up your client Does that resonate with you Any questions on that Every 3 minutes I am while Im presenting Im shutting myself off And giving him one of these questions Does it make sense for you And hes going to say yeah but what out of what I said like feels like thats going to be a right option I want him even to discuss it with me again Why Because the question that I ask going to trigger him to respond from his mouth to his ears why what I said is the right option for him Again if hes gonna pronounce it from his mouth to his ears hes gonna believe it Im gonna tell him So these questions are mandatory guys Now I want to jump to the actual online presentation
 
 speaker_2: So if a client is sold on a project like emotionally but he is hesitant to go through with it because of things like inflation or interest rates like really high ones just like macro environment factors basically

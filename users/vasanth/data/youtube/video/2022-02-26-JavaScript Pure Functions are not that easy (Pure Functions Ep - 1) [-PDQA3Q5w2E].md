@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# JavaScript Pure Functions are not that easy (Pure Functions Ep - 1)
-
-
-## Transcript
-
 speaker_1: Hello all welcome to Uncommon Geeks myself Fasent I hope you all are doing well Todays topic is pure functions Pure function is considered to be one of the fundamental topic of all the programming language same as JavaScript Due to its simplicity many candidates tend to ignore this topic during the interview preparation Its a fact that pure functions are straightforward but there can be small variations of pure function that can be created that candidate tend to confuse during the interview and theyll not be able to answer it
 
 

@@ -14,12 +14,3 @@ Ett visst resande uppstår trots världens tillstånd. Från Blekinge till Uppsa
 Just det där att göra både och är en alldeles egen konst. Att växla från att springa ett maraton till att spurta 100 meter och sedan tillbaka till 85% är en utmaning som jag bara gör undantagsvis. 
 
 Ha en fin torsdag LinkedIn-vänner
-
-## Comments (2)
-
-### Kjell Dahlin (Framförallt Inspirationstalare. Men även författare och grundare av den mjuka kommunikationsbyrån Popretorik)
-> Hello, jag skulle oxå varit i Uppsala idag, men det blev omstyrt till en digital lösning, pga något det kallade...vad vare de sa nu Kåvidnitton?!
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Bra. Är det inte tjusningen, också? Variationen, alltså?
-

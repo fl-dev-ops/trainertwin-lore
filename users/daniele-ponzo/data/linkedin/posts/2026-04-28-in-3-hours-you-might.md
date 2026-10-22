@@ -5,6 +5,12 @@ url: https://www.linkedin.com/posts/daniele-ponzo_in-3-hours-you-might-be-in-a-m
 likes: 33
 comments: 4
 images_count: 1
+author_comments:
+- |-
+  ▶️Skip that meeting, join us LIVE later on:
+
+  📅 Tue, Apr 28 12:00 PM CEST🔗 LinkedIn: https://www.linkedin.com/events/7452588472701247488
+  🔗 YouTube: https://www.youtube.com/live/3MDxImyCurwSee you there!
 ---
 
 In 3 hours, you might be in a meeting…
@@ -60,19 +66,3 @@ Links in the comments.
 
 Before we go live:
 When does your English feel the heaviest?
-
-## Comments (3)
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Usually in high-stakes moments when you have something valuable to add but feel the pressure to say it perfectly. That’s when language stops being a tool and starts feeling like a barrier. Daniele Ponzo
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> We’re definitely going to provide more useful takeaways than the average Tuesday lunchtime meeting 😉
-> Looking forward to the conversation, Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️Skip that meeting, join us LIVE later on:
-> 
-> 📅 Tue, Apr 28 12:00 PM CEST🔗 LinkedIn: https://www.linkedin.com/events/7452588472701247488
-> 🔗 YouTube: https://www.youtube.com/live/3MDxImyCurwSee you there!
-

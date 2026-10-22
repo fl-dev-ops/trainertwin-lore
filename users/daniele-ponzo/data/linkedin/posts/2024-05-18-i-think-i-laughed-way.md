@@ -15,12 +15,3 @@ Anyway, I hope you have a great weekend, full of joy.
 And I hope you will create some new, nice memories.
 
 #weekend #memory #jokes #maybetoomuch
-
-## Comments (2)
-
-### Jaimi Saunders, PhD MBA Business English Coach (Business English Coach helping Spanish-Speaking Digital Marketers Unlock New Career Opportunities. By advancing Their English communication skills In 3 months or Less ⏰ | PhD in TESOL 🎓 | DM for info 📩.)
-> Thanks another Daniele Ponzo I now have coffee stains on my white shirt.
-
-### Tomàs Pablo Carbone (Founder TOMKO Engineering srl | I am passionate about Management and Clinical Imaging, I help TOMKO engineering srl to create management and imaging systems necessary to improve the daily lives of our customers.)
-> Fantastica la RAM !!!
-

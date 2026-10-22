@@ -18,7 +18,3 @@ This acknowledgment motivates me to continue creating valuable insights and reso
 #SupplyChain #YouTube #ContentCreators #SCMDOJO #Recognition
 
 https://lnkd.in/gnC-Wx6x
-
-### Shared Article: [Unleash Your Supply Chain Career Potential with YouTube](https://www.scmdojo.com/unleash-your-supply-chain-career-potential-with-youtube/)
-> scmdojo.com
-

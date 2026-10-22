@@ -42,11 +42,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Self-Doubt to Self-Belief | The Non Native Leader | Episode 26
-
-## Transcript
-
 speaker_1: Hello everyone and welcome to a new episode of The Non Native Leader my video podcast series where we talk to non native English speakers who are currently having an international career My name is Daniele and Im the host of the podcast If you follow the series youve seen weve spoken to NGO leaders IT leaders leaders in Fintech leaders in finance commercial but also the arts movie makers I like talking to people and I like talking to people from various industries And I am happy to have here with me Gideon Commer whos I again new industry but I dont know like yeah as I said I dont want to spoil it too much as usual So Gideon youre very welcome and thanks for joining me
 
 speaker_2: Thanks a lot Great chatting with you Daniel Um Im Gideon and just a quick introduction I guess Yes exactly Tell us who are you Yes Okay I run a coaching I run a couple of coach coaching programs business and marketing coaching programs for teachers for language teachers specifically and I also have an app uh a software business service for teachers as well helping them with all the things they need in terms of tech So these are the things I do I am originally from Brazil I am living in Japan right now Osaka I guess thats um

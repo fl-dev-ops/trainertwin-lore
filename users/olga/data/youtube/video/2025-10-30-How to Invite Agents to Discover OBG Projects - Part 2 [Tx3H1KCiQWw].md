@@ -17,11 +17,6 @@ speakers:
   speaker_6: null
 ---
 
-
-# How to Invite Agents to Discover OBG Projects - Part 2
-
-## Transcript
-
 speaker_1: Do you want to roleplay the script of calling to the agencies Are you going to be OBG agent Whos going to be a naughty one
 
 speaker_2: Hi good morning Welcome

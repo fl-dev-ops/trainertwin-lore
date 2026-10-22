@@ -49,11 +49,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Reacting vs Responding in Comunication #shorts
-
-## Transcript
-
 speaker_1: So reaction or response And how do you identify that So how do you do you tell the difference between reaction and response Im curious
 
 speaker_2: Yeah So like we mentioned earlier about active listening reading the reading the room reading the people Yeah and feeling the people when you are in the conversation how present are you in this conversations Or you are just like Im talking to you and Im holding my phone

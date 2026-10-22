@@ -22,27 +22,3 @@ In Swedish: Hej vänner. Här har ni mina komprimerade tankar om motivationsnyck
 M = M - M. Motivation = Mål minus Motstånd. 
 
 #Motivation #communication
-
-### Shared Article: [Så motiverar du barnen: ”De måste själva förstå värdet”](https://buff.ly/3qR1MtX)
-> tv4play.se
-
-
-## Comments (5)
-
-### Jens Gerhard Baagöe (CEO at Sackeus AB)
-> Lysande som vanligt Antoni!
-
-### Diploma (2,899 followers)
-> Toppen tips som vanligt 👏👏
-
-### Ozlem Tan (Enhetschef hemvård Nattpatrullen på Halmstads kommun)
-> Good stuff. Yes!
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Grym som alltid Antoni 💥 Ett stående inslag som gör alla som tittar bättre. Gillar en pondus och trygghet du utstrålar. Ett proffs helt enkelt ⭐ 
-> 
-> Motivation handlar till syvende om VILL och KAN anser jag. Kan du men inte vill, behövs motivationen. Vill du (tillräckligt mycket) men inte kan - då tar du reda på, lär dig - gör!
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> Brilliant som vanligt🙌🏼👌🏼
-

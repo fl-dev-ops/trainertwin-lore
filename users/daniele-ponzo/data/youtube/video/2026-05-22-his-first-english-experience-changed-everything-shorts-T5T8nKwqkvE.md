@@ -18,9 +18,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# His First English Experience Changed Everything #shorts
-
-## Transcript
-
 speaker_1: I was born in Cosenza Italy Its a small town in the south And uh my first experience with English was uh when I was 13 when my mom asked me do you speak in English I was like nope All right Pack your stuff youre going to the University of Essex for uh for a summer program I was like awesome Yes please

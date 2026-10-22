@@ -17,11 +17,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Employee to Leader: Giannis Chatzidis' Journey in Tech
-
-## Transcript
-
 speaker_1: And yeah just close social for a while Even if its a great tool for for us as entrepreneurs its like close social for for a while and just get a paper and a pen write down what you want your wants and your aspirations two main things and just connect them with your current situation Because you know when you really want something youre passionate about that I strongly believe that you can go one step closer I dont know if youre going to succeed with the real definition of success but at least you can fight it and you are going to learn a lot a lot believe me a lot out of that
 
 speaker_2: Yes

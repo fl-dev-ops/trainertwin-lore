@@ -13,7 +13,3 @@ article:
 
 Are you starting a new job or a new role within your existing company? If yes, one of the first things you need to do is build trust with your new co-workers. In this video I have shared 3 tips you can use to start your trust journey! #workskills #humanskills #trust #newbeginnings #jobsearch #softskillstraining #softskills 
 https://lnkd.in/gbchQAZb
-
-### Shared Article: [Starting a new job or role? Try these 3 tips to BUILD TRUST with your new team!](https://youtu.be/jdCbeQLOjb8)
-> youtu.be
-

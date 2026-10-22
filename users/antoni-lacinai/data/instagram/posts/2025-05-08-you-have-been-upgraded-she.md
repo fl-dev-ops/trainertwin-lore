@@ -7,23 +7,4 @@ likes: 23
 comments: 4
 ---
 
-## Caption
 ”You have been upgraded” she said at the reception. From what, I wondered…
-
-## Image Text
-
-> Alt text: Photo by Antoni Lacinai on May 08, 2025.
-
-No readable text, headlines, numbers, or bullet points were detected in the image.
-
-## Comments (3)
-
-### @calo2
-> 😂😂😂
-
-### @nienkebloem
-> 😂😂 from the basement to the ground floor 😂
-
-### @hassecarlsson
-> 😬😅😅
-

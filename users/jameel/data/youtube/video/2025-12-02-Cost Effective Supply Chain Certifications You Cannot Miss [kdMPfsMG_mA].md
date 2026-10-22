@@ -13,12 +13,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Cost Effective Supply Chain Certifications You Cannot Miss
-
-
-## Transcript
-
 speaker_1: There are two common questions I get online and in my coaching calls One is about the affordable supply chain certifications and the other one is around how can I assess my skills in the supply chain space Recently I came across a platform called WeekAir International that offers both They offer three supply chain certifications at a very affordable price point and they also offer something called Supply Chain Knowledge Evaluation Assessment or SKIA SKIA is a five level assessment system where level one means
 
 

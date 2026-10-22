@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# CareerWithVasanth Frontend Mastery Cohort 2 | Session 1 | JavaScript Runtime & Event Loop
-
-
-## Transcript
-
 speaker_1: to all of you who trusted me and joined the cohort so im not gonna this self introduction slide im not gonna speak more about myself because i have already introduced you to i have already introduced myself to all of you and within a matter of few days my introduction will not change just ive kept here for people if at all if anyone forgotten or at all someone did not hear at that time in the simple words i have close to 10 years of experience i primarily create content about front end interview preparation im a mentor i teach people and follows
 
 

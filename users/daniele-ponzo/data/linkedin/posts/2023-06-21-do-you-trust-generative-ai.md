@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_chatgpt-ai-research-activity-7
 likes: 2
 comments: 1
 images_count: 1
+author_comments:
+- |-
+  Here are some links to the research:
+
+  intro: https://www.capgemini.com/insights/research-library/creative-and-generative-ai/?
+
+  key findings: https://prod.ucwe.capgemini.com/wp-content/uploads/2023/05/Final-Infographic-Creative-Gen-AI.pdf
+
+  report and methodology: https://prod.ucwe.capgemini.com/wp-content/uploads/2023/05/Final-Web-Version-Report-Creative-Gen-AI.pdf
 ---
 
 Do you trust generative AI?
@@ -37,15 +46,3 @@ And that's the real change, in my opinion. What do you think? I would love to he
 The research was conducted  on 10,000 consumers over the age of 18 in 13 countries across the US, Europe, and Asia-Pacific. You can find all the links and the methodology in the first comment below👇.
 
 #ai #research #technology
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here are some links to the research:
-> 
-> intro: https://www.capgemini.com/insights/research-library/creative-and-generative-ai/?
-> 
-> key findings: https://prod.ucwe.capgemini.com/wp-content/uploads/2023/05/Final-Infographic-Creative-Gen-AI.pdf
-> 
-> report and methodology: https://prod.ucwe.capgemini.com/wp-content/uploads/2023/05/Final-Web-Version-Report-Creative-Gen-AI.pdf
-

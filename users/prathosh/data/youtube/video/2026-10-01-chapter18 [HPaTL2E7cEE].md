@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter18
-
-## Transcript
-
 speaker_1: अथ अष्टादशोऽध्यायः
 मोक्षसंन्यासयोगः
 अर्जुन उवाच

@@ -26,6 +26,3 @@ Want to learn more? Let me know in comments if you'd like me to create a video s
 Preparing for your next supply chain interview or seeking career guidance? Let's chat! Book a session with me today: https://lnkd.in/gw_wPi2i
 
 #supplychain #inventorymanagement #productionplanning #forecasting #demandplanning #supplychainmanagement #logistics #operationsmanagement #procurement
-
-### Shared Document: [Decision Systems Edward]()
-

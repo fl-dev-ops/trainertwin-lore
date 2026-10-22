@@ -5,6 +5,24 @@ url: https://www.linkedin.com/posts/daniele-ponzo_the-%F0%9D%97%B3%F0%9D%98%82%F
 likes: 68
 comments: 30
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E05AQGMpKP2T8L_Uw/mp4-720p-30fp-crf28/B4EZj0ZMGaGoBw-/0/1756446921089?e=1793178000&v=beta&t=0JylByWsrCy21JNar-2mLK92XHb2PqhgN3SNY1kyGUA
+author_comments:
+- |-
+  What's 1 skill you will definitely need in the future?
+  https://www.linkedin.com/posts/daniele-ponzo_the-most-effective-way-to-improve-your-career-activity-7368159367545753600-5Kcd
+- |-
+  📢Ready to go back to the future?  I’ll be in Rome on September 18th for Rome Future Week!
+  Join me for the panel:
+
+  👉 Beyond the CV: Reinventing Careers in a Changing World
+
+  We’ll discuss:
+  ✅ How the job market is evolving beyond traditional models
+  ✅ The rise of hybrid careers, freelancing and entrepreneurship
+  ✅ The role of networking, branding, and lifelong learning
+  ✅ Practical strategies to future-proof your career
+
+  📍 Rome – September 18th
+  🔗 Register here: romefutureweek.it/event/oltre-il-cv-reinventare-la-carriera
 ---
 
 The 𝗳𝘂𝘁𝘂𝗿𝗲 of work isn’t “coming.” It’s already here.
@@ -47,70 +65,3 @@ If you’re curious about what’s next for your career and how to navigate a wo
 📌 Details in the first comment below 👇
 
 Video credits: Back to the Future, Universal Pictures (1985)
-
-## Comments (16)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> What's 1 skill you will definitely need in the future?
-> https://www.linkedin.com/posts/daniele-ponzo_the-most-effective-way-to-improve-your-career-activity-7368159367545753600-5Kcd
-
-### Mickey Hoh (Founder Narrative & Investor Materials Strategist ✔️ AI-Powered Marketing & Funding Readiness ✔️ HRD Corp Accredited Trainer ✔️ E3 Lead Community Builder)
-> Seize the opportunity. The future is here now.
-
-### Jeff Loo (ESG Consultancy | Head of Finance | GreenHouse Gas Practitioner | EcoVadis | ISCA member | ISO 14064/14068/14090 | ex-Sembcorp | 한국어 가능 | | 日本語できます |)
-> I have watched this movie multiple times. Really iconic. Daniele Ponzo
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> What a thought-provoking post! The future of work feels like a thrilling rollercoaster, doesn't it? Daniele Ponzo
-
-### Sinthujah Wimalathas (Founder, SANARAS Coaching | Performance Coach & Psychologist | Ex-Goldman Sachs | MSc, Psychology & Neuroscience | Helping High Performers Through Change with Clarity, Direction & Sustainable Success)
-> AI is definitely pushing us to nurture our more human skills (e.g. AI) which is going to be our biggest differentiator Daniele Ponzo
-
-### Sharon Chow (Governance & Operations Leader | Corporate Governance & Compliance | Reflective Facilitator I Podcaster @ The Nightingale Podcast | Creator of SING, LISTEN & AWAKEN)
-> I reckon the presence of AI is something we all experienced back in the days when all things started being computerised. Just AI is changing the mood at a faster pace than the change back then.
-
-### Sandra Hing (Seasoned Recruiter l Helping Organizations Find the Right Talent)
-> Daniele Ponzo Great reflection. I also think this change highlights a big gap in our education system. I feel many degree syllabuses are not preparing students for what's ahead
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> We are not going backward, Daniele Ponzo. We are seeing a complete Digital Transformation of work.
-
-### Muhammad Tabarak (SaaS Architect & Full-Stack Next.js Developer | Founder, Devinsol | 40+ founders served, 260+ five-star reviews)
-> This is a really insightful take on the evolving job market!  The point about communication as a differentiator is especially relevant –  it's not just about skills anymore, it's about how you present them.
-> 
-> 
-> Check out my recent posts; I talk about AI and its impact on the future of work. I've even started a series called "Keep up with AI," so follow me to stay informed!
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> Thanks for posting this clip ♥️ So many memories attached.
-
-### Melissa Indot (Guiding Conscious Leadership from Choice, NOT cortisol | I curate immersive experiences for the Nervous System to reduce stress & elevate well-being | Burnout Prevention Accredited Trainer | Universal Music Group Artist)
-> One of my favourite movies from my childhood loaded with life wisdom Daniele Ponzo
-
-### Frank Burke (🇬🇧 British Communication Coach | Business English & British Culture | Helping International Professionals and Students Communicate with Confidence | CELTA | MBA | 22 Years in Hong Kong)
-> Thank you for this insightful post Daniele Ponzo.  Agree 100% - every word we choose to speak or write shapes our professional identity.  Best to get it right.
-
-### Mayank S. (PMP® Certified IT Project Manager | CSV Engineer | Software Development | Compliance Expert | GxP, 21 CFR Part 11)
-> Love how you framed AI as a push to be more human.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> The global stage point is huge. I see younger professionals already networking beyond borders as second nature.
-
-### Jon Sim (Counsellor at Fei Yue)
-> Indeed Daniele Ponzo, though there are updates that AI investments by organisations are not working as expected, it is still hard to ignore. There should still be some learnings at least for transactional activities
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📢Ready to go back to the future?  I’ll be in Rome on September 18th for Rome Future Week!
-> Join me for the panel:
-> 
-> 👉 Beyond the CV: Reinventing Careers in a Changing World
-> 
-> We’ll discuss:
-> ✅ How the job market is evolving beyond traditional models
-> ✅ The rise of hybrid careers, freelancing and entrepreneurship
-> ✅ The role of networking, branding, and lifelong learning
-> ✅ Practical strategies to future-proof your career
-> 
-> 📍 Rome – September 18th
-> 🔗 Register here: romefutureweek.it/event/oltre-il-cv-reinventare-la-carriera
-

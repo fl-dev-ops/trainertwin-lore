@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_energy-vacation-inspiration-ac
 likes: 8
 comments: 3
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHu6sHY1n3Arg/feedshare-ambry-analyzed_servable_progressive_video/feedshare-ambry-analyzed_servable_progressive_video/0/1692174290576?e=1793178000&v=beta&t=seLQSp_k5-CF8EkLd0F0PrNkmC-KPGIxTnedhM_S9mM
+author_comments:
+- https://youtu.be/KaXWp-3fL_E
 ---
 
 I'm slowing down for a few days...
@@ -52,12 +54,3 @@ link to the song in the first comment 👇
 Hope you're all having some time for yourselves this summer!
 
 #energy #vacation #inspiration
-
-## Comments (2)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Enjoy the down time, Daniele. It's very well deserved. We all need to recharge our batteries every now and then!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> https://youtu.be/KaXWp-3fL_E
-

@@ -18,7 +18,3 @@ There are so many factors coming into play here. I've had the pleasure of being 
 Check it out
 
 #customerexperince #communication #engagement
-
-### Shared Article: [‎Creating the World's Best Client Experience: Mastering Your Communication Super Powers with Antoni Lacinai i Apple Podcasts](https://buff.ly/3OFYrWj)
-> podcasts.apple.com
-

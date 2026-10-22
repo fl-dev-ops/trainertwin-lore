@@ -12,7 +12,3 @@ article:
 
 8 levels of coaching mastery.
 https://lnkd.in/gSUdFbhG
-
-### Shared Article: [8 Levels of coaching mastery #coaching #coachtraining](https://youtube.com/shorts/dA6a026dRQ8)
-> youtube.com
-

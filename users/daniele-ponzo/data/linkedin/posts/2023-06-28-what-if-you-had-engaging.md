@@ -34,18 +34,3 @@ Whether you are a 𝐜𝐨𝐚𝐜𝐡, a 𝐦𝐞𝐧𝐭𝐨𝐫 or a 𝐋𝐞
 In the comments below, share your thoughts on gamification. Have you experienced its benefits in education or the workplace? What gamified initiatives have inspired you?
 
 #Gamification #EducationRevolution #WorkplaceEngagement #ContinuousImprovement #LevelUp #coaching #leadership #inspiration
-
-## Comments (2)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> I absolutely agree! 
-> 
-> Gamification has transformed both the educational and corporate landscapes. 
-> 
-> Whether it’s turning a complex math problem into an exciting challenge or making a training module interactive, gamification is there to engage individuals and motivates them to learn or work more effectively. 
-> 
-> Can’t wait to see how this strategy evolves in the future!
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Gamification definitely is a game changer Daniele. I see it in the way my kids learn in school and I see it working in adult education and team development. Thanks for these points!
-

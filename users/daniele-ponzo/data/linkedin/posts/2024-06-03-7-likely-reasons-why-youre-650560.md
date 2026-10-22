@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_englishtips-itprofessionals-bu
 likes: 13
 comments: 10
 images_count: 1
+author_comments:
+- '📌How Alex boosted his confidence and got his dream job: https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-confidence-career-activity-7203991449921634304-E9dk?'
 ---
 
 7 likely reasons why you’re not progressing in English
@@ -56,21 +58,3 @@ Hi, I'm Daniele. I post about English communication, IT and confidence.
 Like my posts? Follow or connect with me here➡️ Daniele
 
 #EnglishTips #ITProfessionals #BusinessCommunication #LeadershipSkills
-
-## Comments (5)
-
-### Tomàs Pablo Carbone (Founder TOMKO Engineering srl | I am passionate about Management and Clinical Imaging, I help TOMKO engineering srl to create management and imaging systems necessary to improve the daily lives of our customers.)
-> N. 1
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How Alex boosted his confidence and got his dream job: https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-confidence-career-activity-7203991449921634304-E9dk?
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Practice makes progress Daniele!!
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> You've done such a great job dispelling these common myths Daniele Ponzo. Really empowering share!
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> Excuses are symptoms that we're gong through a resistance that will keep us from reaching out goals. Like Goggins will say, "Do it trembling."
-

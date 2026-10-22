@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Moving to Dubai after 50...Start over in Real Estate. Is it worth it?
-
-## Transcript
-
 speaker_1: And they were always busy so the training lasted 2 weeks It was very informal And so I said okay maybe its a new company they are getting organized and Ill just go with it After the training period basically I was told which area would you like to focus And I was
 
 speaker_2: By that time in 2 weeks you have a pretty much good idea about each and every area of Dubai right

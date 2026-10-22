@@ -13,9 +13,4 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# Nasty Email Tip 1 #emailetiquette #emailtips #email #careeradvice #jobtips #shorts #careercoach
-
-## Transcript
-
 speaker_1: HOW DEAL WITH 111 TIP I 11 NEVER REPLY th IMMEDIATELY SOFT SKILLS

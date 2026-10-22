@@ -15,9 +15,3 @@ Today he is turning 18! A big day for us ^_^. And I still haven't forgotten his 
 #communication #listening #engagement
 
 happy birthday my son. I love you!
-
-## Comments (1)
-
-### Maruška Letica (Creating Talent Acquisition Solutions @MOL Group)
-> The wisdom of kids is the best! Have a great day!
-

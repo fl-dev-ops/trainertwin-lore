@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# How to Sell Off Plan to Direct Clients Part II
-
-## Transcript
-
 speaker_1: So you qualify them Qualify what I mean are they able or willing to put some budget to that Because we dont want maybe in the beginning of your career Im okay to have anyone and everyone on a meeting with me whatever its Zoom or in person Im just doing my reps but if I want to allocate my time smartly I would just want to meet people who are actually able to pay for my service right Who are able to purchase the property So I need to understand budget What else What they are looking for Hmm What they are looking for exactly Potentially but its a first call you know I dont want you to think and this is the biggest misconception that Im not saying all of the clients but majority of clients they actually know what theyre looking for They dont
 
 speaker_2: know So thats why they are because they are coming to us Actually for me Im betting a relation first Like talking with if its a woman I always ask like if shes married she has a kid shes looking for end user or end Is it her first embassy or no She enlisted for where which location Like yeah making conversation opening something with her

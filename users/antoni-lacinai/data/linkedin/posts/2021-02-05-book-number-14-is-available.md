@@ -17,15 +17,3 @@ Let me know
 And spread the word ^_^
 
 #virtualleadership #remoteleadership #leadership
-
-## Comments (3)
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> I would love to have a draft!
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Antoni Lacinai Grattis!
-
-### Cecilia Yoon (Committed and driven leader with international experience and passion for skiing I Purchasing Manager I Production Manager I Supply Chain I Interim I Project Leader I Supply Chain I Category Manager I)
-> Would love to get draft in pdf- format.
-

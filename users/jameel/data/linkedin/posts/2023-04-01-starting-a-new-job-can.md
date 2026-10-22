@@ -14,7 +14,3 @@ article:
 Starting a new job can be overwhelming, but with the right strategies in place, you can ensure a successful transition into your new role. In this video, we'll cover 5 essential lessons from the book "The First 90 Days" by Michael Watkins that will help you make a great impression and set yourself up for success.
 #TheFirst90Days #MichaelWatkins #LeadershipLessons #NewRoleTips #CareerDevelopment #ProfessionalGrowth #ProductivityTips #SuccessTips #TeamManagement #ManagementTips #LeadershipSkills #CareerAdvice #BusinessBooks #BookSummary #BookReview #ExecutiveOnboarding #StrategicPlanning #ChangeManagement #OrganizationalEffectiveness #CareerSuccess #GoalSetting #PerformanceManagement #PersonalDevelopment #LearningAndDevelopment #EmployeeOnboarding #HRBestPractices #CorporateTraining #LeadershipDevelopment #ManagementTraining
 https://lnkd.in/g-RcKBRH
-
-### Shared Article: [How to Succeed in Your New Job: 5 Lessons from 'The First 90 Days' in 5 Minutes](https://youtu.be/DEW-LICZlJw)
-> youtube.com
-

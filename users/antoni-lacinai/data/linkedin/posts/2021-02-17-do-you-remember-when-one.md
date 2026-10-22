@@ -20,9 +20,3 @@ So the next time you are presenting, make sure you ask a few questions.
 #Communication #presentation #leadership
 
 I coach executives and teams to be super-communicators. Interested? Let me know
-
-## Comments (1)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Antoni Lacinai Ljuv musik. Ställ frågor fungerar alltid. I diskussion. På föreläsning. När man säljer. När man vill påverka osv. Konsten är bara att lära sig göra det på rätt sätt!
-

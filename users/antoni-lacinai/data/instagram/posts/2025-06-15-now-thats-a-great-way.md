@@ -6,29 +6,24 @@ url: https://www.instagram.com/p/DK6CPGXCcpg/
 likes: 24
 comments: 0
 location: Vision Villa Resort
+image_text: |-
+  VISION VILLA
+  BY ENTREPRENEUR RESORTS
+
+  GENIUS CAFE
+  BALI
+  BY ENTREPRENEUR RESORTS
+
+  Wi-Fi
+  Genius Guest
+  Genius Ninja
+
+  password:
+  youareaawesome
+
+  BACTERIAL
+  SANITIZER
+  al 75%
 ---
 
-## Caption
 Now that’s a great way to make a customer smile 😃
-
-## Image Text
-
-> Alt text: Photo by Antoni Lacinai on June 14, 2025.
-
-VISION VILLA
-BY ENTREPRENEUR RESORTS
-
-GENIUS CAFE
-BALI
-BY ENTREPRENEUR RESORTS
-
-Wi-Fi
-Genius Guest
-Genius Ninja
-
-password:
-youareaawesome
-
-BACTERIAL
-SANITIZER
-al 75%

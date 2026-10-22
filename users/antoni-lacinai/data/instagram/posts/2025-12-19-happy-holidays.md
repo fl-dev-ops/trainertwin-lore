@@ -5,21 +5,10 @@ date: '2025-12-19T11:03:16.000Z'
 url: https://www.instagram.com/p/DScU-psjM3W/
 likes: 29
 comments: 1
+image_text: |-
+  Save time at work
+
+  Spend time at home
 ---
 
-## Caption
 Happy holidays
-
-## Image Text
-
-> Alt text: Photo by Antoni Lacinai on December 19, 2025.
-
-Save time at work
-
-Spend time at home
-
-## Comments (1)
-
-### @editkunstlicher
-> ❤️❤️❤️
-

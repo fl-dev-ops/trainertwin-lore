@@ -1,6 +1,6 @@
 ---
 id: ysjGmQW4HOo
-title: Tutorial 10 Part B : Numerical Example on MLE and MAP Estimate
+title: "Tutorial 10 Part B : Numerical Example on MLE and MAP Estimate"
 url: https://www.youtube.com/watch?v=ysjGmQW4HOo
 date: '2026-02-18'
 duration: 30:58
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 10 Part B : Numerical Example on MLE and MAP Estimate
-
-## Transcript
 
 speaker_1: Hello all welcome to the second part of
 this tutorial in which we will be

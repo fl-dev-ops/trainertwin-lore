@@ -45,11 +45,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Video Games to an International Tech Career | The Non Native Leader | Episode 34
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to a new episode of the non native leader my video podcast series where we explore the lives the stories the adventures of people who were not born in an English speaking country but today they work internationally and they use English for their job And if you follow the series youve seen weve spoken to people in Fintech IT the arts politics a whole range of different and diverse backgrounds And yeah so my name is Daniele Im the host and today I am really really happy to have here with me Sofia Vicedomini And as usual Im not going to spoil it but youre very welcome Sofia
 
 speaker_2: Thank you

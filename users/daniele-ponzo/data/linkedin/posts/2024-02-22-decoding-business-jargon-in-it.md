@@ -42,22 +42,3 @@ Let's make our tech discussions as clear as code!
 P.S. Are you dealing with any “elephants” at the moment? Let’s talk in the comments.
 
 #TechJargonDemystified #ClearCommunication #elephantintheroom
-
-## Comments (4)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great explanation Daniele Ponzo - this elephant is certainly unmissable now it's been unveiled. 🐘
-
-### For Female Founders (7,274 followers)
-> Addressing the 'elephant in the room' promotes transparency and teamwork in IT. 
-> 
-> Let's tackle those critical issues head-on!
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> Called up on two 🐘 today!
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> This is great! Thank you for sharing your experience and valuable insights! 
-> .
-> How's your day going? 😇
-

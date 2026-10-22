@@ -27,18 +27,3 @@ Comment below to let me know:
 What are your thoughts on using analogies?
 
 #communication #confidencebuilding #englishlanguage #englishlearning
-
-## Comments (2)
-
-### Jonathan Mascaro (Senior Operations & Team Leader | Revenue & Sales Support | Scaling Teams, Culture & Execution)
-> Love the analogies! Especially this one. And the Bridge!
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Ah, I see you’re talking about analogies! 
-> 
-> They truly are like a bridge. 
-> 
-> Speaking of bridges, I love the Ha’penny Bridge in Dublin It’s a classic example of connecting two sides, just like an analogy does in our minds.
-> 
-> I mean let's not start the north side / south side debate :)
-

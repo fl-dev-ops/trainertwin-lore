@@ -27,14 +27,3 @@ The reason for this is that you will focus on problems/barriers, so you must be 
 
 
 *from Gallup
-
-### Shared Document: [STEEPLECHASE COURSE Workshop instructions]()
-
-
-## Comments (1)
-
-### Carl Johan Helgesson (Kommunikationsrådgivare och strateg)
-> Tack Antoni för att du generöst delar med dig. 🤩🙌🏼 
-> En fundering kring tidsupplägget. 
-> Min erfarenhet är att det accepterade tidutrymmet för workshoppar krymper. Det som tidigare fick ta 3-4 timmar ska nu klaras på 2 timmar eller ännu kortare. Vad tänker du om det?
-

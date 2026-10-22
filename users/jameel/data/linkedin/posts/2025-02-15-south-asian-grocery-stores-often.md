@@ -18,6 +18,3 @@ Preparing for your next supply chain interview or seeking career guidance? Let's
 
 
 #DesiStores #SouthAsianGroceries #PatelBrothers #Community #Nostalgia #IndianFood #GroceryShopping #Diaspora #SouthAsianCulture #BusinessSuccess
-
-### Shared Document: [Patel Brothers - Leading South Asian Supply Chains]()
-

@@ -16,12 +16,3 @@ To truly listen is to practice the number one superpower Empathy and with empath
    How do you listen?
 
 #leadership #workplacecommunication #engagement
-
-## Comments (2)
-
-### Philippe BOULANGER, PhD (Global Speaker, Author and Strategic Consultant on Innovation, AI and Prospective - Accelerate Innovation and AI in your teams with less risks - Executive @ Apple and Sony - Americas/Europe/Middle East/Asia)
-> Empathy is the new black! I love it...
-
-### Carl J. Cox, CPA (CEO | Business Growth Strategy Expert for Small Business | Author | Measure Success Podcast Host)
-> Good stuff Antoni Lacinai -look forward to having you on the Measure Success Podcast in the near future
-

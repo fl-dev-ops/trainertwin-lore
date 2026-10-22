@@ -4,6 +4,8 @@ date: '2024-09-26T14:29:31.470Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_storytelling-presentation-interview-ugcPost-7244949784103424000-psbR
 likes: 7
 comments: 5
+author_comments:
+- Am I missing anything here? Share your story 🙂
 ---
 
 Would you like to impress clients, colleagues, recruiters, investors?
@@ -33,21 +35,3 @@ Your votes and your ideas will help me to help you 😊
 P.S. write in the comments why and how you would like to improve.
  
 #storytelling #presentation #interview #startup
-
-## Comments (3)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Exactly Daniele ))
-> 
-> It's not just about getting the message across, 
-> 
-> but also about engaging and captivating my audience.
-> 
-> Storytelling is powerful!
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> My excellent humour does not translate so easily 😥
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Am I missing anything here? Share your story 🙂
-

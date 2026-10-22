@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Universe definitely has a plan!!! #success
-
-## Transcript
-
 speaker_1: Is this the real weather of Dubai in the almost mid of April when you need some sort of a jacket and the skies are like this I think were all in the middle of the scene of some horror movie Whats gonna happen to Dubai Will we be the one who survived that

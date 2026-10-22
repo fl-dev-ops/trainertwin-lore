@@ -28,13 +28,3 @@ Vad får dig att inte bara tänka eller säga utan också göra?
 
 
 https://lnkd.in/dD5jG6Pv
-
-### Shared Article: [Förmiddag i P4 Blekinge - Förmiddag i P4 Blekinge](https://www.sverigesradio.se/avsnitt/2755098)
-> sverigesradio.se
-
-
-## Comments (1)
-
-### Colin Moon (Public speaker - Nordic and international teamwork)
-> Du borde ha ditt eget radioprogram 😊
-

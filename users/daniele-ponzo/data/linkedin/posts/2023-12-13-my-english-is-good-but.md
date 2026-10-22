@@ -65,19 +65,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
  
 #itprofessionals  #languagecoaching  #english
-
-## Comments (4)
-
-### Pete McKillop (Helping experienced professionals make sense of changes in work and life | Where work, personal responsibilities and identity overlap | Research-led writing, lived experience and practical reflection.)
-> This advice is spot on! Consistency and perseverance are the keys to language improvement.
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Looking good sir
-
-### Maria Brizzi (Tech Community Builder | Marketing, Digital Communications Expert)
-> Recognize your limits and overcome them! 
-> #progress Daniele Ponzo
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Listen and mimic is such a good piece of advice.
-

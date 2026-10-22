@@ -24,7 +24,3 @@ So, where are your natural coaching strengths showing up, and where are your inv
 
 I built a quick, benchmarked self-assessment to help you pinpoint your current baseline:
 🔗 Take the Coaching Mastery Profile: https://lnkd.in/ggTYg4MK
-
-### Shared Article: [How Close Is Your Coaching to Mastery? | Free 7-Minute Profile](https://coachingmasteryprofile.scoreapp.com)
-> coachingmasteryprofile.scoreapp.com
-

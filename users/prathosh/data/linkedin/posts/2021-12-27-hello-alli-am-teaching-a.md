@@ -17,7 +17,3 @@ Please find the registration link here -
 https://lnkd.in/gECh9xMW
 
 The below is the syllabus - Deep Generative Models: Introduction to Generative models, Autoregressive and invertible models, Latent variable models, Variational inference and recognition networks, Adversarial Learning and Generative Adversarial networks and variants, Normalizing Flows and Energy Based models Few-shot and Meta-Learning: Introduction to Multi-task and Transfer learning, Meta-learning framework for few-shot learning, Metric learning, comparators, and relational networks, Optimisation-based meta-learning, Generative meta-learning Semi and Selfsupervised Learning: Consistency Regularization, Proxy-label Methods, Active Learning, Weakly supervised learning methods, Domain Adaptation, transfer learning, and Domain Generalizations, Self-supervised and Contrastive Representation Learning, Contrastive losses, Memory-bank techniques, Hard negative mining. Continual Learning and Curriculums: Lifelong Machine Learning, Regularization Approaches, Relay Methods, Dynamic Architectures, Curriculum learning, Knowledge Distillation methods, Subset and sample selection methods
-
-### Shared Article: [CCE-PROFICIENCE COURSES FOR JAN - MAY 2021](http://cce.iisc.ac.in/prof-courses.html)
-> cce.iisc.ac.in
-

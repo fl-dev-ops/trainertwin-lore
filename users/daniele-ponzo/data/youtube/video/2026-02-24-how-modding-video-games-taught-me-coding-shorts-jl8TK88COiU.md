@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How Modding Video Games Taught Me Coding #shorts
-
-## Transcript
-
 speaker_1: Okay of course
 
 

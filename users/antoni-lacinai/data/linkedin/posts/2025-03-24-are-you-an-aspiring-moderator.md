@@ -16,9 +16,3 @@ Know this: A speaker runs a sprint, and a moderator runs a marathon. They are no
 Here's a link to the book, new from the presses, for your convenience:
 
 https://lnkd.in/dqZPb5MK
-
-## Comments (1)
-
-### Elisabeth Loibl (✨ Jag hjälper VD:ar i startups, scaleups och ägarledda bolag i tillväxtfas att förverkliga sin ägarvision – genom starkare team och rätt stöd för dig som VD. ✨)
-> Finns den som ljudbok Antoni Lacinai? 😎
-

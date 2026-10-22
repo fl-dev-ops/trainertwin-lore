@@ -22,7 +22,3 @@ We consider the problem of learning a function respecting a symmetry from among 
 Aditya Gopalan Rohan kashyap Pavan Karjol 
 
 #aiandml #deeplearning #iisc #publication
-
-### Shared Article: [A Unified Framework for Discovering Discrete Symmetries](https://arxiv.org/abs/2309.02898)
-> arxiv.org
-

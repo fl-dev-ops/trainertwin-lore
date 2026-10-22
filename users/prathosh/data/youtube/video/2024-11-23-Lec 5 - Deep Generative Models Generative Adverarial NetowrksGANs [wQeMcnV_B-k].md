@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 5 - Deep Generative Models Generative Adverarial NetowrksGANs
-
-## Transcript
-
 speaker_1: Okay what Im saying is what we will do is I will I will stop lets say after after 30 minutes or so once Ive gone through a major topic then we can have a question and session So if people have questions what I would recommend you is that just write them down Okay so whenever you have a question just write write them down on a sheet of paper
 
 

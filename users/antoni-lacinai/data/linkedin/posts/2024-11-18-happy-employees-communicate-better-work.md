@@ -35,20 +35,3 @@ Lead a team with joy and happiness in the workplace ^_^
 You got this
 
 PS - what are your best tips to make your colleagues happy?
-
-## Comments (4)
-
-### Lotta Hilmersson (--)
-> Jag börjar och slutar dagen med att säga hej till alla. Sen kan jag berätta om roliga saker som händer. Som den måndagsmorgonen jag blev förvånad över att bussen svängde vänster istället för höger på Gibraltargatan. Javisst jag hade klivit på fel buss, men det var ju bara att garva åt det.
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Så bra inlägg igen.  Något som alla borde läsa och ta till sig. Tack!
-
-### Katharina Claesson (Personal- och löneadministration på Orwak AB)
-> Jag håller med! 🌟 
-> Det är viktigt att skapa kontakt med alla på jobbet, fråga hur det är och bry sig om. Hälsa på varann och ge ett leende - ett leende smittar 😀
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> Så bra!!🌟
-> Jag tror att det börjar med en uppmärksamhet, att SE varandra, sen att BRY sig, dvs visa en omtänksamhet. Bygger man sen vidare med lite energi och glädjespridning, så tror jag man kommer långt 🥰
-

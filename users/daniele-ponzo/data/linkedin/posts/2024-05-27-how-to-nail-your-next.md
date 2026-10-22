@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_languagelearning-itprofessiona
 likes: 17
 comments: 4
 images_count: 1
+author_comments:
+- "\U0001F4CC want to have a list of 10 common behavioural interview questions with example answers? \nComment or DM the word 'STAR' and I'll send you the list."
 ---
 
 How to nail your next behavioural interview if English is not your 1st language.
@@ -57,13 +59,3 @@ P.S. want to have a list of 10 common behavioural interview questions with examp
 Thanks Chandra Shekhar Joshi for inspiring this post 😊
 
 #LanguageLearning #ITProfessionals #interview
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 want to have a list of 10 common behavioural interview questions with example answers? 
-> Comment or DM the word 'STAR' and I'll send you the list.
-
-### Chandra Shekhar Joshi (Crack FAANG+ Sr/Staff+, EM Behavioural & System Design HLD interviews | DM me “COACH” | Engineering Manager @ Amazon | Engineering Career Coach | FAANG+ Interview Coach)
-> Great examples Daniele Ponzo. Love the way you have broken each one of them down into S T A R. Appreciate the mention.
-

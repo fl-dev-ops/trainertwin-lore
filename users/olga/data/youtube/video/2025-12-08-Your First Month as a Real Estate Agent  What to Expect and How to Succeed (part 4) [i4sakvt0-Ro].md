@@ -14,11 +14,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Your First Month as a Real Estate Agent: What to Expect and How to Succeed (part 4)
-
-## Transcript
-
 speaker_1: So you see Ive done nothing
 
 speaker_2: Yeah yeah yeah yeah

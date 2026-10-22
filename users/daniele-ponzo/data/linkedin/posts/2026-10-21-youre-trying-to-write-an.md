@@ -76,9 +76,3 @@ Sometimes, that requires a different approach.
 So you can 𝗺𝗮𝗸𝗲 𝘆𝗼𝘂𝗿 𝗽𝗼𝗶𝗻𝘁 𝘀𝗼𝗼𝗻𝗲𝗿.
 
 Have you ever finished mentally editing a sentence after the conversation had already moved on?
-
-## Comments (1)
-
-### Madhuraj Bangera (Lead Consultant at Virtusa (IT Infrastructure, Cloud & Digital Marketing))
-> Alignment: Connecting individual team efforts so everyone moves forward together without friction.
-

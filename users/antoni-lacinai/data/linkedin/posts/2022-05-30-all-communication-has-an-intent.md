@@ -22,13 +22,3 @@ Are you manipulating people? (of course, you are)
 Let me know what you think
 
 #leadership #communication #engagement #keynote
-
-### Shared Article: [What are your authentic, ethical and true intentions? And why does it matter?](https://www.linkedin.com/pulse/what-your-authentic-ethical-true-intentions-why-does-matter-lacinai?trackingId=0Hhw%2Bx%2F9OKz8w9HCFSD0jA%3D%3D)
-> Antoni Lacinai
-
-
-## Comments (1)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Excellent written and this shows just some parts of all complexity around intentions. It also shows how wrong, right, bad or not to understand or interpret the communication!
-

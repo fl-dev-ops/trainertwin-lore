@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 56 Ensemble Methods, Bagging and Boosting
-
-## Transcript
-
 speaker_1: In todays lecture we will be looking
 at the ensemble methods specifically
 the

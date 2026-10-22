@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Gaming to Coding How My Tech Journey Started #shorts
-
-## Transcript
-
 speaker_1: Yeah because I wanted to learn languages because uh I wanted to mod video games But I got this copy of GTA San Andreas and I wanted to make mods for it and I started playing on uh a mod that was called SAMP San Andreas multiplayer And this mod had a plugin system using a scripting language named Pawn And with that you could write game modes for this plugin for this mod for GTA
 
 speaker_2: Okay So it was like heaven to you because finally you could interact with a video game in a way you wanted

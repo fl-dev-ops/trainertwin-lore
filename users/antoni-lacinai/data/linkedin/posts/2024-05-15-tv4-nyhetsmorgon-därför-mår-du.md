@@ -8,6 +8,8 @@ article:
   title: 'Därför mår du bra av att visa omtanke: ”Motverkar stress”'
   subtitle: www.tv4.se
   link: https://www.tv4.se/klipp/va/20816528/darfor-mar-du-bra-av-att-visa-omtanke-motverkar-stress?utm_source=tv4.se&utm_medium=shared_link
+author_comments:
+- En fröjd att hänga med dessa proffs, Maria och Martin
 ---
 
 TV4 Nyhetsmorgon
@@ -33,26 +35,3 @@ Det är till exempel inte snällt mot någon att du är tyst när en medarbetare
 Det är heller inte omtänksamt mot dig själv att vika ner dig i alla diskussioner eller gå med på sånt du inte vill. Ta på din egen syrgasmask! Kalla det gärna för en hälsosam hållbar egoism om du vill.
 
 PS: Vilket av tipsen gör du redan? 1-5
-
-### Shared Article: [Därför mår du bra av att visa omtanke: ”Motverkar stress”](https://www.tv4.se/klipp/va/20816528/darfor-mar-du-bra-av-att-visa-omtanke-motverkar-stress?utm_source=tv4.se&utm_medium=shared_link)
-> www.tv4.se
-
-
-## Comments (5)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Så bra tips. Underbart att se ien ntervju med en mästare.
-
-### Emilie Thulin (Brand Identity & Creative Direction | Helping ambitious brands become unmistakable | Brand Strategy & Brand Identity Design Consultancy | Emilie Thulin Design Studio | thulindesign.se)
-> Det är så extremt enkelt att ge ett litet tack, det kan betyda så mycket! Tack för ett bra inlägg✨
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> En fröjd att hänga med dessa proffs, Maria och Martin
-
-### Björn Söderberg (CEO and Partner in Salvator Mundi Global and Salvator Mundi Times)
-> Mycket bra, klokt och insiktsfullt 🙏
-> Tack för att Du delar detta Antoni 🤗
-
-### Michael Wikström (Senior resurs för styrelse, sälj- o affärsutveckling)
-> Utmärkta tips o bra med TV för synligheten.
-

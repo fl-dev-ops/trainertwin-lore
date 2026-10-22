@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Find Compromise in Multicultural Communication #shorts
-
-## Transcript
-
 speaker_1: I mean there is always there is always a way to find a compromise even even when it comes to technical details but at the same time you know uh if everybody is aware that theres the communication style and and it doesnt really affect private life Its just something that stays in the meeting room uh then its perfect
 
 speaker_2: And then it did it stayed in the meeting room and when we were outside the meeting room we could have fun with each other And what happens on the field stays on the field

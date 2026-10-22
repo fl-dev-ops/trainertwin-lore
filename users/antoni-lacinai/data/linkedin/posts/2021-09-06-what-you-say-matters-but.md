@@ -18,7 +18,3 @@ Check out the story of the slowest speedboat ever...
 How do you show congruence in your communication?
 
 #leadership #communication #presentation
-
-### Shared Article: [Speed boat](https://buff.ly/3tfKDGI)
-> buff.ly
-

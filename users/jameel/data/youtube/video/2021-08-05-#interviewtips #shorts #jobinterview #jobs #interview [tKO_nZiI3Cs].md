@@ -12,11 +12,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #interviewtips #shorts #jobinterview #jobs #interview
-
-## Transcript
-
 speaker_1: to my YouTube channel to watch how you can interview like a
 
 

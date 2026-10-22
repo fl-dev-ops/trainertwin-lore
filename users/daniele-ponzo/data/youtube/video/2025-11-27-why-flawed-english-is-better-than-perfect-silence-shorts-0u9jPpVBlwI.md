@@ -13,9 +13,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Flawed English Is Better Than Perfect Silence #shorts
-
-## Transcript
-
 speaker_1: But then you know a few years later these people were managing international teams were traveling around the world They were I dont know leading this project So you see it doesnt really matter because nobody really cared They were just speaking up And people actually remembered them So when a new position came up they were the first to be invited And then you know then they this sort of confidence that builds up say okay theres a great job in that other company So Im going to leave this company and go to the other company Boom hired you know No problem And the English who cares you know It was okay meaning that he was communicating she was communicating they were communicating and it was fine

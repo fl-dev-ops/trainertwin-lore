@@ -106,26 +106,3 @@ Head of Engineering?
 Something else?
 
 I'd love to hear it.
-
-## Comments (6)
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> I’d aim for a role where stronger communication amplifies existing technical expertise.
-> 
-> The earlier that capability is built, the more opportunities there are to demonstrate it when the right role appears.
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> Technical expertise can earn you a seat at the table. Clear communication determines how much influence you have once you’re there.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Communication becomes part of your reputation long before promotion discussions start.
-
-### Tuba Kizilkan (Digital-Leadership-Studentin in Berlin | Business-English- & Kommunikationstrainerin | Bildungsinnovation, KI-Kompetenz & Projektkoordination | XMind Ambassador)
-> This is a valuable reminder that communication isn't a soft skill—it's a strategic advantage. Technical expertise may open the first door, but the ability to communicate ideas with clarity, confidence, and credibility is often what determines who gets invited into the next room.
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> Waiting until January for career advancement? Daniele Ponzo That's like trying to catch a train after it's left the station. Let's build that communication muscle now, so when opportunity knocks, we're already at the door, ready to impress!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Yes. Focus on being useful and clear.
-

@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# When interview goes moderate ! How to clear it ? #shorts #javascript #interview
-
-
-## Transcript
-
 speaker_1: as interviews would be really really happy if its a clear cut yes or if there are certain things which there are clear cut no and the most taxing part is when when its in between okay and we want to push to yes yes right because uh we know we as i as interviewer know that not every day might be your best day not every day would be typically killing it or typically at the top of your game so we want to give you yes and give you the
 
 speaker_2: Yes right because

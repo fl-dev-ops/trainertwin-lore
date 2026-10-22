@@ -50,11 +50,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Silent Contributor to Global Leader | The Non Native Leader | Episode 27
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to another episode of the non native leader my video podcast series where we share we explore and we talk about stories of people who work internationally or on a global stage but they were not born in an English speaking country Im Daniele Im the host and today I have with me Adrian Stanek from Germany Hi Adrian
 
 speaker_2: Hello everyone Hello Hello Thanks for having me

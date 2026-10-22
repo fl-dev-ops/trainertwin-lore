@@ -36,16 +36,3 @@ Här är 3 tips till dig som vill bli bättre på att kommunicera:
 ▶️ Över tid och inte bara en gång
 
 God kommunikation ligger i harmonin mellan ord, kroppsspråk och röst - även i den digitala åldern.
-
-## Comments (3)
-
-### Per E Claesson (Senior consultant (Freelance))
-> Är med Dig Antoni till 101%, men kan spontanitet  ”få stryka på foten”, och i såfall - vad kan det komma att innebära om naturliga impulser plötsligt ses som en riskfaktor ..? Impulskontroll framstår då som en än viktigare komponent i rekryteringsprocessen t.ex.
-
-### Christer Olsson (Elev i livets Universitet, Ägare av Christer Olsson AB, Partner i Kandidata & Partner i EMCAP AB)
-> Tack bästa Antoni så brilliant och sant 👍💪👏
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Tänkte skriva "suveränt bra inlägg", men det får väl räcka med att säga "bra inlägg" trots att det var "väldigt intresant"  eller kanske räcker det men att skriva "intresant! 
-> Tack mästaren....eller det kanske räcker med det med att säga ett enkelt "tack"! Trevlig helg Antoni Lacinai .
-

@@ -17,13 +17,3 @@ What happens to you if you believe that you are better than the people around yo
 Well, read on ^_^
 
 #communication #leadership #empathy
-
-### Shared Article: [If you drive an expensive car you may be a jerk, scientists say](https://bit.ly/2VsKeCm)
-> bit.ly
-
-
-## Comments (1)
-
-### Alexandra Johansson (Projektledare inom kommunikation, förändringsledning & offentlig sektor | Moderator & mötesledare | Kampanjer, webbinarier & konferenser)
-> Skönt att vara cyklist :) Eller omfattas vi av nån annan undersökning?
-

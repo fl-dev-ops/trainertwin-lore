@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 14 Example of ML Estimate
-
-## Transcript
-
 speaker_1: Welcome back Now the next question is
 how do we solve this optimization
 problem in practice

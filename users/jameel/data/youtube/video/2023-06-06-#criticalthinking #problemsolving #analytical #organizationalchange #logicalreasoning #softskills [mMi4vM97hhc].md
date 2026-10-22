@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #criticalthinking #problemsolving #analytical #organizationalchange #logicalreasoning #softskills
-
-
-## Transcript
-
 speaker_1: The third step of critical thinking is developing conclusions and recommendations In the previous steps we have covered so far we have defined the problem gathered data analyzed it and captured assumptions Now the rubber is about to hit the road because we are about to make recommendations As we develop those recommendations we need to be very clear on how these recommendations will impact different people or groups in the organization For example an existing project may be negatively impacted by your recommendations that organizational agility and awareness is a very important part of this Watch the full video on our YouTube channel to know more about this all important step in critical thinking

@@ -39,9 +39,3 @@ So, dear high-achieving human being, if  you want to feel a higher sense of we
 I am writing this both for myself and for you. People around me claim that I am successful. I have a really hard time agreeing since I know how much farther I want to go and I am not even halfway there.  It's like getting high praise from 99 people but you still focus on that one who says "naah"
 
 Do you suffer from Success Syndrome? How are you coping? Share.
-
-## Comments (1)
-
-### Laura Penn, Ph.D. (Speaking Arts & Leadership Communication Expert / International Keynote Speaker / Founder of The Leadership Speaking School🇨🇭 / Igniting Authentic Communication in the Digital Age)
-> Dear Antoni Lacinai, I strongly agree with all of the above.  It's a minefield out there and it's so important to be kind to yourself and gentle. On our next call, let's talk about this and find more solutions together!
-

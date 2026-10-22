@@ -23,6 +23,3 @@ Keep improving, keep submitting is the mantra that I've realised after playing t
 *Every paper has its place* 
 
 Indian Institute of Science (IISc) EECS @ IISc, Bengaluru Arnab Mondal #genai #publication #research #phd Piyush Tiwary
-
-### Shared Document: [SoLaD]()
-

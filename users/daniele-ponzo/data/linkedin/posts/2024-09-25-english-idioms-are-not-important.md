@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-languagelearni
 likes: 22
 comments: 19
 images_count: 1
+author_comments:
+- '🚀 If you want to know more about idioms in Business, check out my free guide. More information here: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-businessenglish-jargon-activity-7224662669063053312-8BO_?utm_source=share&utm_medium=member_desktop'
 ---
 
 English idioms are not important for an IT professional.
@@ -61,42 +63,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-## Comments (9)
-
-### Francesca Marsella (Fractional HR Manager & Recruiting Partner | International Hr Projects | Hiring and organization and people strategy for scaling companies)
-> Great content, Daniele Ponzo! I find it very meaningful. When I do English interviews, I use idioms to assess candidates' language proficiency, and I strongly believe that they are real game changers when it comes to handling business communication in work environments. In my humble opinion, I suggest that English learners boost their vocabulary with idioms and expressions in order to speak more confidently. Grammar is important, but if you run out of words, how can you even improve your grammar?
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> This really highlights the importance of understanding idioms in professional settings. Daniele Ponzo
-> 
-> Knowing phrases like “hit the ground running” can indeed make a significant difference in how we communicate and succeed in our careers.
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> I completely agree Daniele ))
-> 
-> Idioms are important for IT professionals. 
-> 
-> In fact, not knowing idioms can be a major barrier to effective communication in the workplace.
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> Great post! It’s a perfect example of how understanding idioms can have a real impact on career progression. 
-> Communication skills are so much more than just technical knowledge—they’re about understanding the language nuances that help you stand out. 🔥
->  What other business idioms have you found helpful?
-
-### Rina Rosario M.A. English (I Help IT Professionals Master English Communication, Accelerate Career Growth & Lead With Confidence in IT | Certified Communication Skills Coach | Read My Client Success Stories 👇DM for details 📩)
-> Interesting
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🚀 If you want to know more about idioms in Business, check out my free guide. More information here: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-businessenglish-jargon-activity-7224662669063053312-8BO_?utm_source=share&utm_medium=member_desktop
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> EUR?
-
-### Lior Ziv (Psychologist · Speaker on digital disconnection, rest and focus · Founder @ Zing · Writer @ Let’s Rest • Follow for daily posts on the science of rest)
-> Great pic and even better message about idioms and metaphors. 
-> Let's Go!
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> True, idioms and metaphors also define the level C1 that everyone is so obsessed about.
-

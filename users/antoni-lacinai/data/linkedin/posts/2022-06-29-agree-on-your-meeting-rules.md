@@ -28,21 +28,3 @@ Ask everyone in the team:
 • Is it okay to break (or bend) the meeting rules? What happens if you do?
 
 Let everyone has a say on how much they agree or disagree. Then let everyone explain. Then agree as a team on how you will meet, greet and treat each other. Finally, hold each other accountable!
-
-## Comments (4)
-
-### Claudia Rindstam (Senior Project Manager || Enhancing Performance through Collaboration)
-> I love the way you summarize the most common reasons for leaving frustrated from meetings! And yes, I’m trying to get better at having a handshake before we start ☺️
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Simple as that! Problemet är att detta inte är en strategisk fråga i de flesta organisationer och då blir det "allas" ansvar, dvs ingens. 
-> Det är enkelt att göra ngt åt det, men eftersom få organisationer har någon som äger frågan så är vi nöjda med att vara missnöjda. 😉
-
-### Anna Sjödin (Sveriges främsta Personliga Effektivitetstränare)
-> Så ’enkelt’ ~ men så eftersatt… 
-> Enorm utveckling-& förbättringspotential 🤩👌🏻
-
-### Elisabet Levin Lacinai (Senior allround Administration | Glädje | Service | Engagemang | Helhetslösningar)
-> Tack Antoni Lacinai!
-> Jag har varit på massor av den sortens ineffektiva möten och har i varje sådant önskat att den här sortens mötesregler hade satts för att göra de mer produktiva 🤩
-

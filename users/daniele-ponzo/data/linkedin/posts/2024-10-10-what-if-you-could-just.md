@@ -4,6 +4,9 @@ date: '2024-10-10T16:25:34.272Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_tech-hack-english-ugcPost-7249651052151529472-vhGu
 likes: 11
 comments: 6
+author_comments:
+- What skill is is the most painful for you?
+- Am I missing anything? Talk to me in the comments and let me know.
 ---
 
 What if you could just HACK your English?
@@ -51,21 +54,3 @@ P.P.S. I will talk more about my strategy in a FREE live event on Friday with An
 All info here: https://lnkd.in/dB7KFGFS 
 
 #tech #hack #english
-
-## Comments (4)
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> Great strategy! 🔥 
-> Breaking the cycle of insecurity is all about taking action and celebrating progress. 💪💯 
-> Looking forward to hearing more during the live event! 🎉
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> That's a good one to remember! 
-> I definitely struggle with Kudos (like: what's the big deal, nothing special)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> What skill is is the most painful for you?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Am I missing anything? Talk to me in the comments and let me know.
-

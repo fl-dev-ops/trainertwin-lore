@@ -27,12 +27,3 @@ But also: People stay when their managers care for them and help them grow.
 
 ----------------------------
 I help leaders upskill their communication so people WANT to stay.
-
-## Comments (2)
-
-### Annika Svensson (Marketing & Commercial Leader | Strategy, Growth & Transformation | I help organisations turn ambition into action)
-> Ligger så mycket i det du skriver, mitt största problem var att välja rätt knapp för att "gilla" :-)
-
-### Bob Strange (Making event planners look brilliant since 1996 | Founder The Closer Speakers’ Consultancy)
-> Clear, human, and straight to the point. The best leaders focus on psychological safety and clarity, not control. Brilliant post, Antoni.
-

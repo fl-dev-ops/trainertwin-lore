@@ -29,12 +29,3 @@ P.P.S. Don't miss any episodes. Hit that "Follow" 🔔 button to stay in the loo
 Follow ➡ Daniele
   
  #NonNativeLeader #InternationalCareer #SuccessStories #inspiration
-
-## Comments (2)
-
-### Jordan Molina (I help founders get hours back with custom AI systems | Software engineer turned human-centric AI builder | 25-30 hrs/week saved for businesses | Your team spends more time on work they enjoy)
-> Daniele Ponzo what a great initiative my friend I'm sure it's going to be great.
-
-### Scott Peroff (Founder of English Enhancement | Communication & Public Speaking | TEFL Certified)
-> Catching up on previous episodes, super useful info, Daniele!
-

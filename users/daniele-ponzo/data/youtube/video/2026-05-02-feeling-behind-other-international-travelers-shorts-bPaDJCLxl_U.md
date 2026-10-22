@@ -27,11 +27,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Feeling Behind Other International Travelers #shorts
-
-## Transcript
-
 speaker_1: And the second one was about of course this traveling thing I still remember because for example you just meet people from different countries and they say okay how many countries have you been to And you say only one
 
 speaker_2: Well I mean thats thats the first impression of course yeah so

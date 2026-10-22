@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 10 Challenge With ML
-
-## Transcript
-
 speaker_1: Welcome back
 So please be informed that if I write px
 pxy py given x

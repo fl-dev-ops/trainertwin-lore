@@ -99,32 +99,3 @@ Because for senior roles:
 
 English didn’t hold them back.
 Communication did.
-
-## Comments (8)
-
-### Tom Otto (SWE → Founder @ Mockly & Launch Llama | Helping founders launch | 80K+ newsletter audience)
-> Insightful reflections on the crucial balance between clarity and confidence in communication
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Exactly, Daniele Ponzo. Authority comes from structured clarity, not complexity. Confidence alone isn’t enough: organized, precise communication sustains credibility under pressure.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Such a powerful message! Confidence without clarity can really undermine credibility. In these examples, it's not about sounding impressive or using complex language it's about communicating with precision, structure, and simplicity. Daniele Ponzo
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Words that connect does not need to be complex. Simple words and sentence can do the job better Daniele Ponzo
-
-### Christopher Wright (Co-Director. Trainer. Helping companies and professionals to speak, meet and present more effectively and confidently in English. Classes and workshops.)
-> Daniele Ponzo Really useful examples. It's a mindset shift for some professionals, which they have to see the benefit of. 
-> 
-> Simple structure, clear and concise and avoid over explaining.
-
-### Leo Cascio (Purpose brand strategist | Personal branding specialist | ZeroChiavi™ Foiunder | Bello Dentro Milano Host | Psychology & Neuroscience enthusiast | I uncover your WHY and turn it into a BRAND! 🌻)
-> Simple. 😅
-
-### Madhuraj Bangera (Lead Consultant at Virtusa (IT Infrastructure, Cloud & Digital Marketing))
-> There are few things you can do to create consistency and efficiency in your workplace. First, make sure you have a clear and concise paln for each day. Write down what needs to be done and then stick to it as much as possible. This will help you stay on track and avoid getting sidetracked by other tasks. Secondly, try to batch similar tasks together so that you can complete them more quickly and efficiently. For example, if you need to make phone calls, do them all at once instead of spreading them out throughout the day. Finally, delegate tasks whenever possible so that you can focus on the most important items on your list.
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> Thanks for the examples. Good reminder for our day to day communication and self-reflection during and after conversations.
-

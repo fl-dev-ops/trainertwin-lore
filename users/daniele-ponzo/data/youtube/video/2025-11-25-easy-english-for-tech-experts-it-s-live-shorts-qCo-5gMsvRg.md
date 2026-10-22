@@ -28,9 +28,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Easy English for Tech Experts. It's Live! #shorts
-
-## Transcript
-
 speaker_1: Its official Easy English for IT is out After months of writing and testing with real IT professionals the book is finally live Its designed to help you speak and write confidently in English at work whether you are a software developer an engineer a service delivery manager a project manager You will find tons of practical examples simple frameworks and mindset tools that you can apply immediately So grab your copy today both ebook and paperback are available on Amazon And if you work in tech and want to grow internationally this is for you Take your copy and let me know Bye

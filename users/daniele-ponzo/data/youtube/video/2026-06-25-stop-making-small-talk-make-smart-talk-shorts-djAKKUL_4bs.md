@@ -48,11 +48,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Stop Making Small Talk. Make Smart Talk. #shorts
-
-## Transcript
-
 speaker_1: At different stage I experience self doubt pressure uncertainty especially when navigating with new people new environment But theres also a time whereby I need to think about maybe this is a good learning experience and really really push myself into going to read and understand watching different video to find about the culture and etcetera That helps to make smart talk not just small talk
 
 speaker_2: Absolutely smart not small Yes I love this

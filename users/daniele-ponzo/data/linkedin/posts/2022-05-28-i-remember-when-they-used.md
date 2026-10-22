@@ -13,7 +13,3 @@ article:
 I remember when they used to say that industrial food was safer, more controlled... and they recommended not to eat locally grown food (especially eggs) because of potential contamination...
 https://lnkd.in/ekz5iWUv
 #food #eatlocal #farmtofork #foodsafety
-
-### Shared Article: [Ferrero recalls 3,000 tonnes of Kinder chocolate after Salmonella contamination](https://www.rfi.fr/en/france/20220527-ferrero-recalls-3-000-tonnes-of-kinder-chocolate-after-salmonella-contamination)
-> rfi.fr
-

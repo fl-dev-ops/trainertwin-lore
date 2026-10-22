@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 04 Adhyaya 1 to 10 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: मैत्रेय उवाच
 मनोस्तु शतरूपायान्ति स्रः कन्याश्च जज्ञिरे
 आकूतिर्देवहूतिश्च प्रसूतिरिति विश्रुताः

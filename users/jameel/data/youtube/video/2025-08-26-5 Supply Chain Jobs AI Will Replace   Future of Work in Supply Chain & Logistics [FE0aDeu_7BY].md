@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 5 Supply Chain Jobs AI Will Replace | Future of Work in Supply Chain & Logistics
-
-
-## Transcript
-
 speaker_1: Hello supply chain friends So in this video I will cover with you the top five jobs in supply chain which are at the risk of getting eliminated due to AI So watch this video till the end so that you can find out if you are doing one of those jobs And dont get me wrong this is not one of those typical AI fear mongering videos Im creating where people typically say that hell is about to break loose because of AI But I will give you some very specific reasons as to why I think these jobs are at risk and what you should do differently about your career if you are doing
 
 

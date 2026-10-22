@@ -46,7 +46,3 @@ I hope that this would be of value to a few, and welcome any feedback.
 #aiml
 
 Indian Institute of Science (IISc)Indian Institute of Technology, Madras
-
-### Shared Article: [GitHub - Chandan-IISc/IITM_GenAI: This Repo consists the python note books of IITM - Mathematical Foundations for Generative AI Course,](https://GitHub.com/Chandan-IISc/IITM_GenAI)
-> github.com
-

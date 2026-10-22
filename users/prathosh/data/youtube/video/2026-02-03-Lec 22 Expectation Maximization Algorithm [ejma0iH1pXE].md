@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 22 Expectation Maximization Algorithm
-
-## Transcript
-
 speaker_1: Welcome back to the lecture Now lets
 look at this question
 So what choice of

@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Who's afraid of AI? #softwareengineer #womenintech #internationalcareer #ai #nonnativeenglish
-
-## Transcript
-
 speaker_1: Yeah if you see a big task ahead of you its scary Its like oh I have to climb that mountain No way But you know every mountain starts with a with a single step and then eventually you might get to the to the top So this is really precious advice Thank you Maria
 
 speaker_2: Yeah

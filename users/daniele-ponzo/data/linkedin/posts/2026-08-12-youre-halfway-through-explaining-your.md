@@ -84,39 +84,3 @@ Repeatable.
 https://lnkd.in/dGRVjN6D
 
 💬 What's usually harder for you during presentations: remembering what to say... or deciding what to say next?
-
-## Comments (9)
-
-### Davy Shi 💡🚀🌎 (Founder | Managing Director | MBA, China Supply Chain Management, dedicated to delivering global consumer goods solutions and sourcing services. 🌎)
-> Such a practical framework. 👏 Daniele Ponzo Memorizing the journey instead of the words reduces pressure and helps you stay clear, confident, and focused when speaking. 🎯
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> This is especially useful for non-native English speakers. You don't need perfect vocabulary if your thinking has a simple structure. Clarity beats complexity.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> This is so relatable. Explaining a technical idea clearly can be harder than building it.
-
-### Maria Cristina Andreoni (Affianco PMI, HR, manager e team nel migliorare collaborazione, decisioni, leadership, benessere e cultura organizzativa | Facilitazione & Formazione aziendale | Workshop esperienziali sulle soft skill)
-> Sì sì, ma anche in my mother tongue eh Daniele faccio tutti questi swirls...😁🌻
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Memorizing the journey instead of the script is a much more practical approach. 
-> Clear anchors reduce cognitive load and leave more room to focus on the audience and delivery.
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> This is so relatable. Memorising the journey rather than every sentence makes so much sense. Having a simple structure to fall back on can really reduce the pressure and help you focus on communicating the idea rather than worrying about finding the perfect words.
-> 
-> 
-> Daniele Ponzo
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> Daniele Ponzo The journey approach makes presentations much easier to follow.
-> 
-> I find clear anchors also help reduce pressure and keep thoughts moving.
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> I love the idea of using anchors to structure presentations Daniele Ponzo It’s a practical approach that not only eases cognitive load but also enhances clarity. Thank you for sharing such valuable techniques!
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> Love this book :)
-

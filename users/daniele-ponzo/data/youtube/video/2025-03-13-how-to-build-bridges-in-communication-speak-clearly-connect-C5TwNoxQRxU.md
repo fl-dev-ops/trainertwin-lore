@@ -28,11 +28,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Build Bridges in Communication | Speak Clearly & Connect Better
-
-## Transcript
-
 speaker_1: Thats the only way the only possible way you can build a bridge And in communication it works exactly in the same way And I mean this is why I always tell people look okay I know you are not confident but at the end of the day we all want to communicate you know And
 
 speaker_2: Exactly

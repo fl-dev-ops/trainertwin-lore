@@ -5,8 +5,6 @@ date: "2026-01-01"
 source: website
 ---
 
-# Career advice. Make next year better
-
 Accelerate your career development Put a C-suite executive coach in your inbox!
 
 Sign up for regular Insights & Tips on leadership and coaching

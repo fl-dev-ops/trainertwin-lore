@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# If You Want to Sell High-Ticket Real Estate!
-
-## Transcript
-
 speaker_1: He is buying this for the family because of discomfort him his wife his kid his extended family feel So my question to you how much does the comfort of your family cost

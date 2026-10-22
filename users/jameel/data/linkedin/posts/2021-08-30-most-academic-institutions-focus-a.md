@@ -15,7 +15,3 @@ Most academic institutions focus a lot of time on developing reading and writing
 #careeradvice #jobsearch
  #leadership #communication 
 https://lnkd.in/gkhGh329
-
-### Shared Article: [How to improve your LISTENING SKILLS](https://youtu.be/hqvLhSrmzf0)
-> youtu.be
-

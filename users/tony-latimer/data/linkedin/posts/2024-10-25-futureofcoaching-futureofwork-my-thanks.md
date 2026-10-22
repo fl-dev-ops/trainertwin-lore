@@ -9,9 +9,3 @@ comments: 1
 #futureofcoaching #futureofwork
 
 My thanks to Tiberius Budulea  and ICF Romania  for inviting me to talk with them.
-
-## Comments (1)
-
-### Tiberius Budulea (Author | Master Coach (MCC) | Head of Coaching Practice)
-> We thank you for your contribution and for your openess. You have now a fun club in Romania 🤗
-

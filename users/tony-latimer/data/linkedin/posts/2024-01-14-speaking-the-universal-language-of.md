@@ -18,14 +18,3 @@ Imagine getting leadership insights in the language you're most comfortable with
 It’s not just about translation; it's about ensuring leadership principles resonate universally.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (2)
-
-### Amos Szeps, MCC ICF (I match world-class leaders to world-class coaches. International Master Coach | UK-registered Psychologist | CEO Peoplemax)
-> Being able to speak someone’s ‘language’, whether that be literally or figuratively, is the heart of great coaching.
-> 
-> Great work, Tony Latimer, MCC!
-
-### Duc Thong Do (Research human potential, design a lifestyle, and build a career online)
-> This is a great initiative to break down language barriers in leadership communication. Exciting to see how it can enhance global leadership development!
-

@@ -20,7 +20,3 @@ https://lnkd.in/gxdezNy6
 This may be of interest to a few of you. 
 
 #IKS #Sans
-
-### Shared Article: [Talk by Prof. Prathosh and Shri. Mohan Bhagavat ji (RSS) on Relevance of IKS](https://www.youtube.com/watch?v=mjF-BUvzbWY)
-> youtube.com
-

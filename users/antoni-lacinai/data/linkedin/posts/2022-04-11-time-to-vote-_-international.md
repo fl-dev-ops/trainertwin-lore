@@ -15,7 +15,3 @@ Time to vote ^_^
 International speaker of the year
 
 #keynotespeaker #communication  #leadership #engagement
-
-### Shared Article: [Speakers Forum Int speaker of the year nomination](https://buff.ly/3IerU4B)
-> buff.ly
-

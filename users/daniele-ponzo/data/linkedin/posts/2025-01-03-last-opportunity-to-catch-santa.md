@@ -35,18 +35,3 @@ Here's what one of the readers said:
 Get your FREE copy here: https://lnkd.in/dMRXasZa
 
 Here's to a great new year 🥂
-
-## Comments (4)
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Well done Daniele!!
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> This is a fantastic offer! Daniele Ponzo The ebook sounds incredibly helpful for IT professionals looking to improve their business communication in English.
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Awesome product Daniele Ponzo
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Wow, that's a king of all presents!
-

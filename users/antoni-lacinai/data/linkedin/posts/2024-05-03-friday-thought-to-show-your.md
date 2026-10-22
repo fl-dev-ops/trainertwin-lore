@@ -24,21 +24,3 @@ Here are five simple tips for your PowerPoints
 Are you going out to dinner this weekend? Think about this and bon apetit ^_^
 
 PS - which of the tips will you do more of? 1-6
-
-## Comments (5)
-
-### Meliha Lagström (--)
-> Some years ago , each time I opened new weekly PP from certain PM, I closed it after max 30 sec. And I really tried to understand why the need to present something unreadable..
-
-### Meliha Lagström (--)
-> 1
-
-### Per E Claesson (Senior consultant (Freelance))
-> Do You bring Your Power Point  at the Pub ..?, right! Did’nt think so …
-
-### Brian Bakeberg BSC.ENG (Co-Founder & CVO, bp2w® | Turning employee engagement data into action in 15 minutes a month | CPD-accredited | Published in The Harvard Brain)
-> Would have to say 5 I can be very wordy have a great weekend Antoni Lacinai
-
-### Ilja Grzeskowitz (Global Keynote Speaker | SPIEGEL Bestselling Author | 14 Books | 1,200+ Keynotes in 27 Countries | Helping Teams and Organizations Master Change Before Change Masters Them)
-> So true. Unfortunately, overcrowded slides with 4–5 charts, diagrams and bullet points in font size 8 are still the rule. Great tips 👍
-

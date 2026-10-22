@@ -16,7 +16,3 @@ Recently I'm seeing lot of Youngsters joining premium companies just because the
 
  https://lnkd.in/dkevx-3X
 #socialmedia #iDontHaveMillionSubScribers #uncommonGeeks #interview
-
-### Shared Article: [🔥   Why I rejected Microsoft offer 🔥  (Microsoft Interview Experience revealed)](https://www.youtube.com/watch?v=CG52zim3mck)
-> youtube.com
-

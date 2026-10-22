@@ -14,9 +14,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why IT Pros Need Strong Communication Skills
-
-## Transcript
-
 speaker_1: my podcast is called the non native leader because uh its about people who are not born in an English speaking country but who are working internationally in different roles in IT but also in NGOs politics but you know who uh at some stage either moved to different country or decided to have an international role in their native country and somehow you know did that English and soft skills to have like an exceptional career you know So this is this is the proof you know My story my clients and my guests in the podcast So it can be done It could be done you know

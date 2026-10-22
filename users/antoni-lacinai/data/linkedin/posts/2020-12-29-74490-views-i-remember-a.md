@@ -23,16 +23,3 @@ Let's make 2021 a great year where we combine sitting around the analog camp fir
 
 ^_^
 //Antoni
-
-### Shared Article: [TEDxVasa Antoni Lacinai - 6 communication truths that everyone should know](https://buff.ly/2KGahlO)
-> ted.com
-
-
-## Comments (2)
-
-### Beata Wickbom (Moderator | Digital & Leadership Strategist | Coach)
-> Impressive and so worth it!
-
-### Stefan Hyttfors (I get paid to say things people don’t want to hear • 2x Swedish Speaker of the Year)
-> Awesome, congrats!!!
-

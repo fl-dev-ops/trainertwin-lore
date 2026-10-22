@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Fresher ReactJs Interview | 🎉 Selected | ReactJs & JavaScript (Must watch if your fresher)
-
-
-## Transcript
-
 speaker_1: Yeah so hello to all that who are watching this video I recently wrote a LinkedIn post asking like if any fresher is looking out for a mock interview I said Ill be open to take mock interview A lot of people have registered I have planned to take a lot more interviews and today with me I have Saurav So he registered in that particular form and he will be doing a fresher front end kind of an interview Its going to be a real interview There is nothing that weve already discussed about question or nothing How a typical interview would happen for a fresher with respect to front
 
 

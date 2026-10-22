@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_most-coaches-talk-too-much-the-m
 likes: 28
 comments: 4
 images_count: 1
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 Most coaches talk too much. The masters say almost nothing.
@@ -37,15 +39,3 @@ Or, if you prefer the full certification path, join the waiting list for the nex
 Mastery is not complicated.
 It is simply different.
 Come and see how different.
-
-## Comments (3)
-
-### David Chan (Integral Coach | Solution Focused Leadership Coaching | Thinking Partner | Coach at MindFi (YC S21) | Helping people overcome difficult seasons in life and move forward with confidence, clarity, and inner strength)
-> Thanks Tony for speaking this - which was on my mind re how does a coach prepare to meet a client - with prior knowledge or just be present to what is.
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-
-### Faye Chong (Co-Owner at F45 Tanjong Katong)
-> Speechless!
-

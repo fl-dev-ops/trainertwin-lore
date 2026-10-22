@@ -8,9 +8,3 @@ comments: 1
 
 Hi South Africa!
 I had a great time and I hope to see you again soon!
-
-## Comments (1)
-
-### Unique Speaker Bureau International (2,200 followers)
-> It was great to have you with us at our first #GWS2024 Showcase event Antoni ✨
-

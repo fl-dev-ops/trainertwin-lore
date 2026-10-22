@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Break Language Barriers in Education #shorts
-
-## Transcript
-
 speaker_1: Its not like I didnt speak English but its something to know about how they speak and you know um relate to to their uh speaking is one of the I guess challenges Yeah
 
 speaker_2: And it is challenging because you want to blend in but at the same time you dont want to lose your identity So Yes How how do you get yourself understood and at the same time you know how do you retain who you are So thats thats one of the I suppose one of the

@@ -18,13 +18,3 @@ How will it be in your workplace?
 #hybridleadership #rengagement #communication
 
 My take: If your team lives close to the office, be there together at least a few days per week. But involve the team as well of when and how.
-
-### Shared Article: [Why autonomy is great in a hybrid workplace!](https://buff.ly/3nXphNO)
-> buff.ly
-
-
-## Comments (1)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Ja, bra! Leve valfriheten!
-

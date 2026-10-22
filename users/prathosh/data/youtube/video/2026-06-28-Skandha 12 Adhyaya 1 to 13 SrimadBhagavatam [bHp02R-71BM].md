@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 12 Adhyaya 1 to 13 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 योन्त्योरिपुञ्जयो नाम भविष्यो बारुहद्रथः
 तस्यामात्यस्तु मुनिको हत्वा स्वामिनमात्मजम्

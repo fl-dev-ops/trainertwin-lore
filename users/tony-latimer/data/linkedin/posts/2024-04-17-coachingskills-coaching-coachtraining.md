@@ -11,7 +11,3 @@ article:
 ---
 
 #coachingskills #coaching #coachtraining
-
-### Shared Article: [Unlocking subconscious listening](https://youtube.com/watch?v=M-oPKMOhjHc&si=Qqd2p8SeZo6kmE4V)
-> youtube.com
-

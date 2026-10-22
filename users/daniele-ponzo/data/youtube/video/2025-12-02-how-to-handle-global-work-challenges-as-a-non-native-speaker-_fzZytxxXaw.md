@@ -22,11 +22,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Handle Global Work Challenges as a Non-Native Speaker #shorts
-
-## Transcript
-
 speaker_1: So would you have any any recommendations for people who want to have an international experience in a sense like working an international team and being confident and comfortable in an international team
 
 speaker_2: Um I I I think there two things that you have to be aware of You have to be proud of the language that you can speak and that can be your native language or the language within the organization Be confident that you can speak that language to a good enough level to do your thing Uh and the other part is be aware of what kind of organization youre working in Just being aware how you can be part of the group or team that youre going to work in

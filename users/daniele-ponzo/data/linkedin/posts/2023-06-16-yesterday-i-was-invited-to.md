@@ -22,14 +22,3 @@ So, I believe this should be the way forward for education: Technology, Sustaina
 Any thoughts?
 
 #technology #education #future #research #international #stemeducation
-
-## Comments (2)
-
-### Lorenzo Fioramonti (Academic Director and Ecosystem Catalyst at NATIVA)
-> Thanks for your participation and comments. We truly hope that our school can help revolutionize education and collective wellbeing in Italy!
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Definitely,  Daniele! We've got to make the teaching of these subjects dynamic and more relevant for kids and not just a load of fórmulas to be memorised. 
-> 
-> Otherwise, kids won't be interested in srmtudying them.
-

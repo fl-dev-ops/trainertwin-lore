@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 23 Convergence of EM
-
-## Transcript
-
 speaker_1: Okay welcome everyone We will continue
 with the discussion on the EM algorithm
 So for the sake of continuity well

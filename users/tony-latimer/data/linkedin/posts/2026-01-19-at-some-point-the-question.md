@@ -12,9 +12,3 @@ At some point, the question stops being “Can I coach at MCC level?” and beco
 That’s a more demanding question, and it’s the one Level 3 is really designed to explore.
 
 Level 3 Expression of interest open.
-
-## Comments (1)
-
-### Stan Ajemian (Hard Choices Coach | PCC | President ICF Colorado | Podcaster | Impact Storyteller)
-> That’s so true. Even a total beginner coach has moments of masterful coaching. But it’s the ability, or willingness, to do it consistently that separates true masters.
-

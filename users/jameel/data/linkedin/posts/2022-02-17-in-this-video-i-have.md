@@ -12,7 +12,3 @@ article:
 
 In this video I have shared some useful tips on how you can improve your communication effectiveness in virtual meetings by enhancing your "digital" body language! #communication #video #digital #language #softskillstraining #softskills #humanskills #verbalcommunication #nonverbalcommunication #mehrabianformula #73855rule #emoji #multitask #multitasking #camera #hbr #humor #humour  
 https://lnkd.in/eTAcqVZ2
-
-### Shared Article: [How To Improve Your Digital Body Language](https://youtu.be/qhdZSNhCQaU)
-> youtu.be
-

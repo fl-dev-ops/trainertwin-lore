@@ -11,15 +11,3 @@ Boktips:
 En av de mest konkreta tipsböckerna jag läst i ämnet stress. En gör-så-här-bok för oss som vill ha effektiva metoder att bli av med stress, av Jan Tern, The Stress Exit Man 
 
 Läs den du också!
-
-## Comments (3)
-
-### Liisa Puskala (bisnesorientoitunut teknopsykologi // Business Psychologist with passion for digitalization and humanics //)
-> Tack för boktipset!
-
-### Elisabeth Loibl (✨ Jag hjälper VD:ar i startups, scaleups och ägarledda bolag i tillväxtfas att förverkliga sin ägarvision – genom starkare team och rätt stöd för dig som VD. ✨)
-> "Hör mig själv tänka..." Om du gillar den Antoni Lacinai då är den nog bra 😊 Varför? Du skriver ju så bra själv 👍
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> 1000 tack Antoni, det värmer gott.
-

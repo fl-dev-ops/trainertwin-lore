@@ -23,7 +23,3 @@ Stay great
 PS. Yes, I get that Mr Peterson is a controversial character. Some love him. Some don't
 
 PS. I am more proud that my TEDx was shown at Stanford University, Georgia University, and their counterparts in India and Taiwan 😃
-
-### Shared Article: [Jordan Peterson on Learning How To Be Articulate | The Renaissaint](https://rumble.com/v2uq5kf-jordan-peterson-on-learning-how-to-be-articulate-the-renaissaint.html?fbclid=IwY2xjawFp5LZleHRuA2FlbQIxMQABHYlhAA70YM4Axw--Qo70t7S55JExtXmYgIXh-cFevbl0Jxg2ViiMjMSxZw_aem_CKl82FSDrz6CpuVfOyqJYQ)
-> rumble.com
-

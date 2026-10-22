@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Turning Bad News into Opportunities for IT Professionals | Giannis Chatzidis' Experience
-
-## Transcript
-
 speaker_1: And there is no such thing as bad news Yeah some people say that and I and then you go like no its incorrect point you know in your case it was it was bad news but it was also good news in a way
 
 speaker_2: Yeah yeah you know sounds cliche I agree really common but on the other hand is like we make our destiny We we make our choices and we are our choices So I could I could easily run away when I was like the only employee in the company and say okay guys I I quit Yeah so I made my choice to put yourself in into this uncertainty and to explore it These are all our inner enemies in a way

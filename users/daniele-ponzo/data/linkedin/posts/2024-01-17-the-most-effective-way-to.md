@@ -57,15 +57,3 @@ This is when the true magic happens 💫 , and you start seeing real progress. �
 Curious to know how this works? Send me a private message so we can discuss the best strategy to “team up” and get you closer to your target in 2024 🎯 .
 
 #english #businessenglish #confidencebuilding
-
-## Comments (3)
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> Team work makes the dream work!
-
-### Jovonni Bullock TEFL Certified (Business English Coach | Native English Speaker (USA) | 11+ Years of International Teaching Experience | Online ESL Instructor | IELTS & TOEFL Preparation | 75+ LinkedIn Recommendations)
-> ¨Commitment, dedication and the right mindset.¨ I couldn´t agree more
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> That's excellent commitment on your part too Daniele Ponzo.  I find voice messages to be extremely effective.  For this reason, I started using Voxer with my students as well.
-

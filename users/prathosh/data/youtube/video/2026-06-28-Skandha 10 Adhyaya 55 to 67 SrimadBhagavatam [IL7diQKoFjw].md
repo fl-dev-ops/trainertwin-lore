@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 10 Adhyaya 55 to 67 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: इत्थं सोनुगृहीतोङ्गकृष्णेनेक्ष्वाकुनन्दनः तं परिक्रम्य सन्नम्य निश्चक्रामगुहामुखात्
 
 

@@ -16,12 +16,3 @@ Snacka lätt - inte svårt.
 Hur går snacket hos er?
 
 #communication #leadership #keynotes
-
-## Comments (2)
-
-### Thomas Frenning (Framgångscoachen)
-> Bra där Antonio! Kommunikation borde vara lätt men blir så ofta fel. Lätt att bli övertydlig och därmed komplicera saker och ting i onödan. Försöker alltid få balans i kunskap och välvillighet. Tack för dina inlägg👏
-
-### Anne-Christine Andersen (Nurse, Home Care hos Viborg Kommune, distrikt Houlkær)
-> Have quoted this before, but communication is not what is said  by you but what is understood by the audience
-

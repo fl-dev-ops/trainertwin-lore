@@ -7,12 +7,3 @@ comments: 2
 ---
 
 Made my day
-
-## Comments (2)
-
-### Rafael Gonzalez-Montejano (Senior General Manager AIRBNB Insurance EMEIA International / Growth & Scale / Insurtech / Fintech / e-Health / Multisector expertise with a technical and business/market development profile)
-> Brilliant!
-
-### Sarah Short (Helping qualified coaches build viable businesses | ICF-Accredited Bus Dev Courses For Coaches 40 CCEUs (23 Core 17 RD) | Straightforward, No Nonsense, Actionable Marketing Techniques | Prices from £3750 (inc VAT))
-> Exactly this! It’s crazy that AI is leaving us free to do more laundry 😂😉
-

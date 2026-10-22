@@ -13,11 +13,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Flexible work arrangements or forced back to the office 5 days a week? Stupidity is on the rise.
-
-## Transcript
-
 speaker_1: When your need of control is bigger than your ability to engage thats why you start to force people back into the office I just heard I had a meeting this morning and I heard another one of my clients who said that their whole global workforce will be forced back to the office five days a week
 
 

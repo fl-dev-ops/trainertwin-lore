@@ -4,6 +4,15 @@ date: '2024-06-19T06:30:14.032Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_career-visibility-confidence-activity-7209080015949385729-Hv5e
 likes: 7
 comments: 1
+author_comments:
+- |-
+  Some insightful articles on visibility at work:
+
+  @Harvard Business Review: https://hbr.org/2023/08/how-to-become-more-visible-at-work#:~:text=Workplace%20visibility%20is%20vital%20to,your%20full%20potential%20for%20advancement
+
+  Forbes:: https://www.forbes.com/sites/carolinecastrillon/2023/03/19/5-ways-to-increase-your-visibility-at-work/
+
+  IESE Business School: https://www.iese.edu/standout/raise-visibility-work/
 ---
 
 Forbes, Harvard Business Review, Berkeley Professors and BBC Business Journalists suggested a crucial mindset shift to advance in your career.
@@ -31,15 +40,3 @@ And imagine the opportunities you would have with a clear visibility strategy.
 So, are you really visible at work?
 
 #career #visibility #confidence
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Some insightful articles on visibility at work:
-> 
-> @Harvard Business Review: https://hbr.org/2023/08/how-to-become-more-visible-at-work#:~:text=Workplace%20visibility%20is%20vital%20to,your%20full%20potential%20for%20advancement
-> 
-> Forbes:: https://www.forbes.com/sites/carolinecastrillon/2023/03/19/5-ways-to-increase-your-visibility-at-work/
-> 
-> IESE Business School: https://www.iese.edu/standout/raise-visibility-work/
-

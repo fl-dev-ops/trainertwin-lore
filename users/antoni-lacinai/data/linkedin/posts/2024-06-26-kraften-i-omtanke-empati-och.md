@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_kraften-i-omtanke-empati-och-menings
 likes: 5
 comments: 2
 images_count: 1
+author_comments:
+- https://podcasts.apple.com/se/podcast/rise-shine-m%C3%B6ter-antoni-lacinai/id1516987394?i=1000659674283
 ---
 
 Kraften i omtanke, empati och meningsfulla mål
@@ -18,12 +20,3 @@ Tack Shirin. Du är en skön människa!
 ^_^
 
 länk i min första kommentar
-
-## Comments (2)
-
-### Shirin Djavidi (CEO @ShapebyShirin)
-> åhhhhhh TACK snälla och detsamma till dig. Härlig energi. Tack för att du gästade och förgyllde podden. kram
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> https://podcasts.apple.com/se/podcast/rise-shine-m%C3%B6ter-antoni-lacinai/id1516987394?i=1000659674283
-

@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #cvwriting #cvwritingtips #cvwriter #resume #resumetips #jobsearch #jobseeker #jobs #shorts
-
-## Transcript
-
 speaker_1: Dont mention buzz words or cliches go getter best of breed dynamic self motivated
 
 

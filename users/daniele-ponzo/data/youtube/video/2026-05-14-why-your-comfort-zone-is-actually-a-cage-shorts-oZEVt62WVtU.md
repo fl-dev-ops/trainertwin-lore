@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Your Comfort Zone Is Actually a Cage #shorts
-
-## Transcript
-
 speaker_1: 25 years of keeping up the same the same um profession in the same environment which builds a huge comfort zone for you
 
 speaker_2: Oh yeah

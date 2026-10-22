@@ -20,15 +20,3 @@ They're often the clearest communicators.
  English for Tech Professionals Communication That Gets You Promoted. Watch the full speech here: https://lnkd.in/dgfZGdh8
 
 #SoftwareEngineer #CareerGrowth #CommunicationSkills #TechLeadership
-
-## Comments (3)
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Technical expertise creates opportunities, but clear communication builds influence, HACK your English. The strongest professionals turn great ideas into shared understanding and decisive action.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Code speaks to machines, but people need words to work together. Strong English and communication skills help developers collaborate, influence, and create bigger impact.
-
-### Emanuel Balsa (Helping 36K+ professionals make smarter money, career and, AI decisions | Daily lessons | Free quiz ↓ | Talks and partnerships, happyhelp@emanuelbalsa.com)
-> I grow faster by explaining ideas simply. Clear words earn trust before great code does.
-

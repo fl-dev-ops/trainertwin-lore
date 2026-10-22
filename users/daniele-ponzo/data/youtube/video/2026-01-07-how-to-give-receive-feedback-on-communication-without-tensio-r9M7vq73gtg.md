@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Give Receive Feedback on Communication (Without Tension) #shorts
-
-## Transcript
-
 speaker_1: Did you ever get any uh feedback So someone someone told you look I either like this is not clear or I dont like the way youre phrasing it So like Im just curious Tell me about an episode
 
 speaker_2: I had a I had a few of those experiences Some were good some were like oh I really messed up there Uh by just being too direct and just being me Uh because I I tend to be quite direct in in general

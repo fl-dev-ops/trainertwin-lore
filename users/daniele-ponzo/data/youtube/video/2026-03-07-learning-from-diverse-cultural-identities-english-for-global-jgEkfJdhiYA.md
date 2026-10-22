@@ -29,11 +29,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Learning from Diverse Cultural Identities | English for Global Careers #shorts
-
-## Transcript
-
 speaker_1: I think one one word would be colorful one word would be energetic because it it makes you feel so energetic inside And you just learn a lot of things from different people and they have their own characters like as a person as people as a human being but at the same time they have their own identities like traditional identities cultural identities that they bring from their own cultures from their own countries So and then you just meet up with them and then you speak and you share and you just you know for example we share the food we share the drinks we share the songs we share the dances and we had the international cultural evenings at the time and that was quite new to me and I just love it I I really love that
 
 speaker_2: Right

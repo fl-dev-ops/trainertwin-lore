@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_full-mind-empty-speech-bubble-
 likes: 37
 comments: 13
 images_count: 1
+author_comments:
+- |-
+  👉 I used to think I needed to know more before I could speak up.
+  But the real breakthrough came when I realized:
+  It wasn’t about knowledge.
+  It was about giving myself permission to speak, even when it wasn’t perfect.
+  Small steps. Safe practice. Real conversations.
+  That’s what changes everything.
+  If this resonates with you, send me CHALLENGE, I’ll send you the info!
 ---
 
 Full mind, Empty speech bubble 💬...
@@ -53,33 +62,3 @@ a 𝟱-𝗱𝗮𝘆 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 designed to help you:
 
 You don’t need to be perfect.
 You just need the right space to practice.
-
-## Comments (7)
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Big thanks for sharing, Daniele best wishes
-
-### Nilos Psathas (⚔️ Full-Stack Paladin | 🧙 Data Science Mage Prompt whisperer, Bug slayer, leveling up models & hoarding data sources. Always seeking new quests.)
-> Congrats Daniele! 🎉
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Daniele Ponzo It’s not about knowing more English; it’s about trusting yourself to use what you already know.
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> "Practice is the mother of all learing", an ancient Athenian proverb says, and it holds as much truth today as it did in ancient times Daniele!
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> We underestimate the emotional side of communication, where fear of imperfection holds back even the most fluent and capable professionals from making their impact Daniele Ponzo
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> This is so true! Real practice in a safe space makes all the difference. Great initiative!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👉 I used to think I needed to know more before I could speak up.
-> But the real breakthrough came when I realized:
-> It wasn’t about knowledge.
-> It was about giving myself permission to speak, even when it wasn’t perfect.
-> Small steps. Safe practice. Real conversations.
-> That’s what changes everything.
-> If this resonates with you, send me CHALLENGE, I’ll send you the info!
-

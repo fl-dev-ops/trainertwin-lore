@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 03 Adhyaya 14 to 23 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: शुक उवाच
 निशम्य वाचं वदतो मुनेः पुण्यतमान् नृप
 भूयः प्रच्छकौरव्यो वासुदेवकथाधृतः

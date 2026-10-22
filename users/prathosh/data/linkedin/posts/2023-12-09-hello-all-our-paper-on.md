@@ -21,6 +21,3 @@ This also is the first work of my PhD student kumar shubham, well supported by m
 The preprint is attached for interested readers. 
 
 Department of ECE, IISc EECS @ IISc, Bengaluru #aaai24 #aiml #genai #publication
-
-### Shared Document: [Submodular GAN]()
-

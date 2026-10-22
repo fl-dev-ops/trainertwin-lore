@@ -11,7 +11,3 @@ article:
 ---
 
 Jag blev intervjuad av Företagarna nyligen, där jag berättar om min upplevelse sedan Corona slog till. Kanske är det någon som känner igen sig?
-
-### Shared Article: [Allt ställdes in - så tacklade föreläsaren krisen](https://buff.ly/35kDlHx)
-> buff.ly
-

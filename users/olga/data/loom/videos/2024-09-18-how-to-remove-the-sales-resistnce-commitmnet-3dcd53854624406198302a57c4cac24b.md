@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How to remove the sales resistnce + commitmnet
-
-## Transcript
-
 speaker_1: Now let me make sure that we understand This step right here that Im about to share with you is extremely important if you want to go from where you are now even if youre doing really good to becoming a top top 1 percent earning salesperson in your industry or any industry for that matter So Im going to go over with you certain words and languaging Im not talking about cuss words Im not talking about that that youre using in your sales process that are actually triggering resistance in your prospects mind causing them to put their guard up You want to learn how to avoid those words and that languaging like the plague if you want to make a lot more than you are now You see most salespeople unfortunately its not their fault but it is their problem
 
 speaker_2: Theyre not even aware that many of the words they have been taught to

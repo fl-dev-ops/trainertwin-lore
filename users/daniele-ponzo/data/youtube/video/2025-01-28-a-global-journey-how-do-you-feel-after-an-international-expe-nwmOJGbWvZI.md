@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# A Global Journey: How do you feel after an international experience? #podcast #globalskills
-
-## Transcript
-
 speaker_1: So when you think about this would you have any recommendations for people who are interested in having being protagonist on the global stage like you
 
 speaker_2: I I think be my only recommendation would be be aware that when you take a step out its actually pretty hard to go back you know Just be aware be mindful that thats probably the choice that youre making Not always right Like its its possible or that if you come back youll come back a different person and that needs to be okay too Just be mindful of that That would be my my my main suggestion I think often a lot of frustration comes with with the fact that then people see yes they take their first opportunity outside but then its really difficult you know to find opportunities back home again just because they start

@@ -1,6 +1,6 @@
 ---
 id: nJivfX9VY7Y
-title: Tutorial 15 Part 2 : Deep RNNs, LSTMs and GRUs
+title: "Tutorial 15 Part 2 : Deep RNNs, LSTMs and GRUs"
 url: https://www.youtube.com/watch?v=nJivfX9VY7Y
 date: '2026-03-20'
 duration: 16:52
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 15 Part 2 : Deep RNNs, LSTMs and GRUs
-
-## Transcript
 
 speaker_1: Hello all Welcome to the second part
 of this RNN tutorials in which

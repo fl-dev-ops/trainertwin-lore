@@ -4,6 +4,8 @@ date: '2023-07-18T06:00:03.265Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_business-itprofessionals-languagecoaching-activity-7086947710334832640-oPJs
 likes: 4
 comments: 1
+author_comments:
+- "Here's a client success story: \nhttps://www.linkedin.com/posts/daniele-ponzo-8548164_communication-itprofessionals-careerdevelopment-activity-7087310108807839744-WkQL?utm_source=share&utm_medium=member_android"
 ---
 
 These Vocabulary mistakes can impact your English conversation
@@ -57,10 +59,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
 #business #ITprofessionals #languagecoaching
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here's a client success story: 
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_communication-itprofessionals-careerdevelopment-activity-7087310108807839744-WkQL?utm_source=share&utm_medium=member_android
-

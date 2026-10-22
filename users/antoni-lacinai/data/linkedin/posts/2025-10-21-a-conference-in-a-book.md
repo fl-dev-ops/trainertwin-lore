@@ -21,9 +21,3 @@ Curated by Dixie Maria Carlton
 
 We wrote it
 Now you read it 😃
-
-## Comments (1)
-
-### Dixie Maria Carlton - CSP (Empowering & Educating authors and professional speakers From Pages to Stages. Some call me ‘The Word Witch’, because I help create practical magic for those with wisdom worth sharing.)
-> Awesome Video and wow, it's such a great book indeed.  Looking forward to the launch this week and the reviews coming in for this are outstanding.  From small acorns mighty oaks grow!
-

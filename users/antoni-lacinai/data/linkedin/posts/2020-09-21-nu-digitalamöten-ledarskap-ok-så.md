@@ -19,7 +19,3 @@ Ok så här var det. Jag och Micke fick i våras frågan om vi ville göra vår 
 Ljudboken kommer senare i höst. Men redan nu finns den tryckta boken att beställa på Adlibris och snart på Bokus. 
 
 Passa på att levla upp du också ^_^
-
-### Shared Article: [Digitala möten : hur du leder människor i möten på distans](https://bit.ly/2ZSGprf)
-> bit.ly
-

@@ -13,7 +13,3 @@ article:
 #proudlyMars  #greatplacetowork
 
 https://lnkd.in/eckQp46
-
-### Shared Article: [Mars Commits $26M to Communities in COVID-19 Response | Mars](https://www.mars.com/news-and-stories/press-releases/Mars-commits-donation-to-communities-in-covid19-response)
-> mars.com
-

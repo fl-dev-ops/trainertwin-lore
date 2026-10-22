@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 09 Density Function
-
-## Transcript
-
 speaker_1: Welcome back So given
 uh a continuous random variable with
 a distribution function

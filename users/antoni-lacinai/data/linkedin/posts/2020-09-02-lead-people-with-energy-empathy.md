@@ -26,19 +26,3 @@ Do you need to up your communication skills?
 The fall is here and 2021 is just around the corner. Get in touch with me if you want to discuss opportunities for growth within leadership, collaboration and service
 
 #keynote #events #communication
-
-### Shared Article: [Antoni Lacinai Speaker reel](https://bit.ly/2CO5lrO)
-> bit.ly
-
-
-## Comments (3)
-
-### Tobias Nyberg (Specialist Digital post på Digg – Myndigheten för digital förvaltning)
-> Snyggt, inspirerande och tankeväckande 😍
-
-### Göran Adlén (FRAMTIDSSTARK | Jag försöker förstå människan i en värld där allt förändras)
-> Snyggt jobbat!
-
-### Stefan Hyttfors (I get paid to say things people don’t want to hear • 2x Swedish Speaker of the Year)
-> Supervideo!
-

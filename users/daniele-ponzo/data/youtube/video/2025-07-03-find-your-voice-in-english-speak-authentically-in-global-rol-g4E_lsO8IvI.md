@@ -37,11 +37,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Find Your Voice in English | Speak Authentically in Global Roles
-
-## Transcript
-
 speaker_1: is about finding your own voice I suppose
 
 speaker_2: Mhm

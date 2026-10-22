@@ -40,15 +40,3 @@ If one person misuse the freedom, don't punish everyone. Instead, talk to that i
 If a leader fears a lack of control, the solution is not micromanaging. It cannot be. It is unsustainable. 
 
 What is your view on this?
-
-### Shared Article: [PwC tells employees it will use location data to police ‘back-to-office’ rule | CNN Business](https://edition.cnn.com/2024/09/06/business/pwc-tracking-employees-office-gbr-scli-intl/index.html)
-> edition.cnn.com
-
-
-## Comments (1)
-
-### Brian Bakeberg BSC.ENG (Co-Founder & CVO, bp2w® | Turning employee engagement data into action in 15 minutes a month | CPD-accredited | Published in The Harvard Brain)
-> Antoni Lacinai Modern leadership hinges on trust, flexibility, and understanding the evolving dynamics of the workplace. Leaders who adapt to these changes with empathy and trust are likely to foster a more engaged, motivated, and productive workforce. Addressing the needs of your employees will create a bond between the company and the employee which will foster mutual trust its a two way street 
-> 
-> bp2w®  - An Even Better Place to Work
-

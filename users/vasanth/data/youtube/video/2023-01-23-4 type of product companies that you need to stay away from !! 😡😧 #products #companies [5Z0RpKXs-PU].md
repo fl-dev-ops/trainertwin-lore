@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 4 type of product companies that you need to stay away from !! 😡😧 #products #companies
-
-
-## Transcript
-
 speaker_1: but its very simple all those companies who fired the associates in 2022 across the world theyre all loss making companies there are two types of companies depending on the technology one is tech driven company another one is a tech enabled company okay let me tell you what is tech driven company microsoft and google theyre all tech driven companies so they dont have a lot of hardware devices to sell theyre mainly mainly a software driven company so core of their business runs
 
 speaker_2: Welcome back to uncommon geeks myself Fashtamp I hope you all doing well

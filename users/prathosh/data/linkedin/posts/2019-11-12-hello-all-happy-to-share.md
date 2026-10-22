@@ -18,7 +18,3 @@ Got a full-paper accepted at AAAI on video action recognition using scarce data.
 
  #AAAI, #aiforgood 
 Prashant Pandey, Manu Kohli
-
-### Shared Article: [1911.04140.pdf](https://arxiv.org/pdf/1911.04140.pdf)
-> arxiv.org
-

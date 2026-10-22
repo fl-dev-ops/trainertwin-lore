@@ -17,7 +17,3 @@ This paragraph I love. Getting MCC just means you now now what you are doing. Yo
 
 — Becoming an ICF Credentialed Coach: The Journey to ACC, PCC and MCC –
 If you want to explore mastery and beyond, try simplicityofmastery.com
-
-### Shared Article: [Becoming an ICF Credentialed Coach: The Journey to ACC, PCC and MCC – Practice Insights from ICF Assessors](https://a.co/gfBIwqH)
-> amazon.com
-

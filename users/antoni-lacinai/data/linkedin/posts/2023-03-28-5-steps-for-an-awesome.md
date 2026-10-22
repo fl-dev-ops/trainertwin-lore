@@ -46,9 +46,3 @@ Here are 5 tips for you:
 - Thank them all for investing their time, mind, and heart into the workshop.
 
 GOOD LUCK!
-
-## Comments (1)
-
-### Mikael Hermansson (Tedx-speaker / public speaker . Spreading the successful Swedish lconcept "GREJ OF THE DAY - Magic Micro lessons!")
-> Spot on! 👌
-

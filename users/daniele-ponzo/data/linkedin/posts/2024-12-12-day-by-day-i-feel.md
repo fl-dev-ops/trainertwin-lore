@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimproveme
 likes: 43
 comments: 13
 images_count: 1
+author_comments:
+- Thanks for reposting Salman Lazar 🙏
 ---
 
 “Day by day I feel more sure when I speak English”
@@ -64,29 +66,3 @@ If you’d like to start the new year with a boost, send me a message. ✌
 P.S. favourite feedback of the week? “It was very valuable, I loved it”❤️
 
 #english #tech #languageimprovement
-
-## Comments (7)
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo If you want to speak in English think in English . The more you talk to yourself in English  the more you will become  fluent in English
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Salman Lazar 🙏
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Love this approach! It's all about building confidence and embracing progress over perfection.Daniele Ponzo
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele you're opening up an awesome opportunity, for anyone who works with you! 
-> 
-> It's all about practicing with someone who understands your pain, and who can provide ways of getting over the problem you have. And Daniele is that person!
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Perfection in english isn't important. Just be good enough in english.
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> What great testimonials from people using their English and being OK with "good enough"  Daniele Ponzo!
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> I love seeing these screenshots!! Well done, you!
-

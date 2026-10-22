@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why leaders and managers are the biggest catalyst for employee engagement
-
-## Transcript
-
 speaker_1: So out of 100 percent how much of a persons engagement level is based on the closest managers communication and behavior
 
 

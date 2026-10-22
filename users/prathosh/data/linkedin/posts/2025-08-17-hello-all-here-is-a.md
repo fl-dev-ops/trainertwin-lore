@@ -42,7 +42,3 @@ I hope that this would be of value to a few and welcome any feedback.
 #GenAI #lectures #iisc #iitm
 
 Indian Institute of Science (IISc) Department of ECE, IISc
-
-### Shared Article: [Mathematical Foundations of Generative AI](https://www.youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu&si=YmzQRD-4wUgxLxyZ)
-> youtube.com
-

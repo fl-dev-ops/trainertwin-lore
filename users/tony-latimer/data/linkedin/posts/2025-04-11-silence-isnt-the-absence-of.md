@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_coachingmastery-pcctomcc-icfmcc-
 likes: 28
 comments: 4
 images_count: 1
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 Silence Isn’t the Absence of Coaching. It Is Coaching.
@@ -29,12 +31,3 @@ If you’re a PCC coach or advanced ACC looking to learn real MCC-level skills
 🔗 Join us today. Mastery starts here.
 
 #CoachingMastery #PCCtoMCC #ICFMCC #DeepListening #CoachingSilence #ReflectiveCoaching #SimplicityOfMastery #MasterCoachSkills #EnergyCoaching #CoachThePerson #AdvancedCoaching
-
-## Comments (2)
-
-### Candida Javaid (I support mid‑career professionals who feel stuck or at a turning point in their working lives. Rather than quick fixes, I offer space to think deeply, see more clearly, and move forward with purpose.)
-> I love being part of the group! There is a true respect for learning and growing with each other.
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

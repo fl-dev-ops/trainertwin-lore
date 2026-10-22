@@ -14,7 +14,3 @@ In this video I have shared three things you should do after an unsuccessful job
 
 #job #jobsearch #jobsearch2021 #jobsearchstrategies #failedinterview #unsuccessfulinterview #joblessreincarnation #motivationforlife #interviewtips #careeropportunities #jobsearchers #jobsearchtips  #jobinterviewtips #jobinterview #changemanagement #angermanagement #careerskills #softskills #interviewpreparation  
 https://lnkd.in/gqHMW4d
-
-### Shared Article: [3 Things you should do after an UNSUCCESSFUL JOB INTERVIEW!](https://www.youtube.com/watch?v=WOv19znuBOg&t=107s)
-> youtube.com
-

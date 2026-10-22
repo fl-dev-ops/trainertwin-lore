@@ -26,9 +26,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How to Teach English to Kids | The Non Native Leader | Episode 21 #podcast #interview
-
-## Transcript
-
 speaker_1: Okay so um with young learners the first thing that you really have to remember is building um procedure you know Um making because um for them to feel at ease in your in your class they have to know what to expect So and and being constant on that Because yeah of course were teaching English but they also need how they need to learn how to be behave because they dont know how Um yeah they dont know how Theyre learning Thats part of the learning to learn Oh yeah Yeah So uh you have to give them in uh yes you have to give them instruction They have to understand okay Im giving an instruction what you need to do You have to listen

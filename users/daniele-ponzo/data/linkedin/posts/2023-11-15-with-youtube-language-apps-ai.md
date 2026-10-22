@@ -47,12 +47,3 @@ If you’re an IT professional who needs support with English, send me a message
 I’ll be happy to chat and give you some tips.
 
 #itprofessionals #careerdevelopment #english
-
-## Comments (2)
-
-### Vanessa Andrews (Associate Consultant)
-> We still need the human touch in the tech world Daniele Thank you for sharing and being that human😀
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> We won’t be replaced (yet)
-

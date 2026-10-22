@@ -20,19 +20,3 @@ In a fun and great conversation he shared some of his tips and thoughts on virtu
 #leadership #virtualleadership #communication #Engagement
 
 Do  you want a summary of my new e-book on Virtual Leadership? Say Yes in the comments ^_^
-
-### Shared Article: [Virtual leadership -interview with Matthew Smith, VP Global marketing - Ericsson](https://buff.ly/2KFEB0A)
-> buff.ly
-
-
-## Comments (2)
-
-### Åsa Malmén (IT- och digitaliseringschef, Karlskrona kommun | Ledarskap • Verksamhetsutveckling • Digital förändring)
-> Yes
-
-### Srikant Bharti (BSS Solution Architect @ GlobalLogic || Ex - Netcracker, Amdocs, Ericsson, Huawei)
-> It's always been great to hear and learn from you Antoni Lacinai.
-> Matthew Smith, great to see how you and your team quickly embraced to the virtual mode.
-> COVID-19 has made us realize the importance of connectivity! 
-> The role of technologies like 5G is super important to support the same.
-

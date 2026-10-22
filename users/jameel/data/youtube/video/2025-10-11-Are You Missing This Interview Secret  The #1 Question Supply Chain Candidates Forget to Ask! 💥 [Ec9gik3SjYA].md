@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Are You Missing This Interview Secret? The #1 Question Supply Chain Candidates Forget to Ask! 💥
-
-
-## Transcript
-
 speaker_1: The next common mistake I see candidates make is they prepare a lot of questions to answer for the interview but they dont prepare questions that they need to ask the panelists at the end So for example if you know that in your panel you have got one HR person youve got one supply chain manager or supply chain expert then do prepare one question for each of those people So ask the HR person a question about okay what are some of the organizational challenges or what are your organizations challenges plans for this year and then to the supply chain person ask a question like okay come right now theres a lot of uncertainty in supply chain right so how are you guys planning to address that

@@ -11,7 +11,3 @@ article:
 ---
 
 Learning to use energy in coaching #coachtraining #coaching #mastery
-
-### Shared Article: [Learning to use energy in coaching #coachtraining #professionalcoach](https://youtube.com/watch?v=_-IJnW8id7k&si=nnWKPtJiVf8e1qcA)
-> youtube.com
-

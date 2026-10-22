@@ -42,7 +42,3 @@ Just follow the link below.
 Less hesitation⬇️ More confidence⬆️ 👌
 
 #ITprofessionals #English #languageimprovement
-
-### Shared Article: [Get my free book now!](https://solutionspeak-coaching.ck.page/c268ccf37f)
-> solutionspeak-coaching.ck.page
-

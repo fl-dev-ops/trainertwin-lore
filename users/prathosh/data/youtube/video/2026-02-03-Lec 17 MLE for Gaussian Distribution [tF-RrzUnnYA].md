@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 17 MLE for Gaussian Distribution
-
-## Transcript
-
 speaker_1: Okay good morning Uh welcome to this
 class on density estimation
 So last time when we when we met we

@@ -19,6 +19,3 @@ Congratulations to my students Purma VishnuVardhan Reddy, Suhas Srinath and coll
 A preliminary version of the draft is attached. Code for Implementation can be found here (https://lnkd.in/gR5qWUVw). We also have curated a dataset that would be released soon. 
 
 #research #aiml #publication #aiforgood
-
-### Shared Document: [TMI_2024_APP]()
-

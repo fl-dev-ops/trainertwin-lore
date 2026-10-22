@@ -15,10 +15,3 @@ Was it worth it? YES
 Thank you great USB team for your outstanding service level and event. 
 
 #keynote #communication #leadership
-
-## Comments (1)
-
-### Unique Speaker Bureau Int (1,477 followers)
-> Thank you for your support Antoni and our customers loved you.
-> Looking forward to seeing you back soon.
-

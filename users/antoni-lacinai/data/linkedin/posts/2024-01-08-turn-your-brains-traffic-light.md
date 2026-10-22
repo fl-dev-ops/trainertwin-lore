@@ -28,7 +28,3 @@ Will I see you in Manchester on Feb 8?
 Come join the event where I will share my insights on employee engagement and wellbeing
 
 ps. -thank you FORUM MEDIA GROUP for the invite
-
-### Shared Article: [Delegates - HR Summit](https://hrsummits.co.uk/hr-summits/delegates/)
-> hrsummits.co.uk
-

@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Building a Global Career Is a Marathon, Not a Sprint
-
-## Transcript
-
 speaker_1: Thats where I learn a lot because Im open to how uh the the market actually feedback to me how my colleagues actually feedback to me So at the end of the day an international career isnt a its a marathon Its not a sprint So pace yourself stay adaptable and lean into the journey Youll be incredibly rewarding
 
 speaker_2: Oh Thats great Yes So listen listen listen Thats thats a great one And I mean Thomas youve come a long way so from your Singaporean approach fast direct get things done to slowing down listening and adapting

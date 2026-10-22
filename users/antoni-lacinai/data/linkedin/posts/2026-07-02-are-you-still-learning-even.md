@@ -12,12 +12,3 @@ Are you still learning?
 Even experienced keynote speakers can learn from listening to others. I'm currently at the Black Friar in London, heading to a speakers conference where I won't be speaking myself, but rather observing and learning from fellow presenters. Despite my years in the industry, I believe there's always more to discover. Before my summer break, I'm taking this opportunity to absorb new insights and perspectives from the speaking community.
 
 Summer greetings friends
-
-## Comments (2)
-
-### Chantelle Botha (The Choice Catalyst | International Keynote Speaker & Executive Coach | Conscious choice for life and leadership that feels as good as it looks)
-> Love this perspective Antoni Lacinai - the day we stop learning is the day we start dying. This is why it's so important to cultivate a curious mindset. Enjoy the conference!
-
-### Zana Goic Petricevic (Helping Organisations Build Bold Leadership Cultures That Perform Better | Keynote Speaker | Leadership Transformation & Development Expert | 2 Books + Trademarked Framework)
-> Antoni Lacinai it was great meeting you!
-

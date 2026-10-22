@@ -19,9 +19,4 @@ speakers:
   speaker_1: 'Reanne Besa'
 ---
 
-
-# The Power of Visuals: Make Learning FUN again! #podcast #interview #nonnativeenglishspeakers
-
-## Transcript
-
 speaker_1: Because I find that people remember visuals more like we think visually and we digest it really faster than text Because for text for example we have to reread it multiple times to understand it But with visual we just have to glance and we understand it already So it really helps you to just you know bring complex ideas to the core and really like dive deep and understand the concept

@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Press or stress?
-
-## Transcript
-
 speaker_1: Is it a pressing matter or a stressing matter It depends on your ability to cope with the challenges that comes along your way So make sure when you lead people to give them a task that they can handle and you encourage them and help them if they cant do it by themselves

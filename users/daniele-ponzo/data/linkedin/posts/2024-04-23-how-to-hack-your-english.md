@@ -47,23 +47,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
  
  #hack #lifehacks #itprofessionals #english #development
-
-### Shared Document: [How to H.A.C.K your English as an IT Pro]()
-
-
-## Comments (4)
-
-### Dan Edwards (I’ve Helped Hundreds of People Find the Right Franchise Opportunity! Message me for more info.)
-> Love the practical approach to improving English skills in the workplace
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Kudos to this framework Daniele Ponzo ✌️
-> 
-> Collaboration is key on a journey like this. Ensures you stay commited and consistent, especially when there are setbacks!
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Great acronym HACK Daniele Ponzo !
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Practice, practice, practice - there's no other way, I'm afraid!
-

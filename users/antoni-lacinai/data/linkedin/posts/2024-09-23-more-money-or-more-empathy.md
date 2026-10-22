@@ -24,7 +24,3 @@ Be fair
 Care
 
 You got this ^_^
-
-### Shared Article: [High remuneration or high empathy: What attracts today's top talents the most? - ETHRWorldSEA](https://hrsea-economictimes-indiatimes-com.cdn.ampproject.org/c/s/hrsea.economictimes.indiatimes.com/amp/news/workplace/high-remuneration-or-high-empathy-what-attracts-todays-top-talents-the-most/112486779)
-> hrsea.economictimes.indiatimes.com  
-

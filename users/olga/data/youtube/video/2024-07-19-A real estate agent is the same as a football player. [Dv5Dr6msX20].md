@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# A real estate agent is the same as a football player.
-
-## Transcript
-
 speaker_1: So the career of real estate agent is similar to career of doctor athlete and writer and a football player for example if if its more similar Youre doing exactly the same thing all the time

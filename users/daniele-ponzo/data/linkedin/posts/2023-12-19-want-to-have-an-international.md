@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-nonnativeleader-inspir
 likes: 51
 comments: 16
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHaXvJ5tfWeJA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1702968619855?e=1793178000&v=beta&t=WuiIRJl0KVDwpYIdLU8XZrnV-1O-d3KTmeFl0jn-V4o
+author_comments:
+- '📌Get the full episode here: https://youtu.be/yBzVC6ApEgc'
 ---
 
 Want to have an international career?
@@ -33,42 +35,3 @@ If you did, remember to hit the 🔔 on my profile so you won’t miss the next.
 Follow ➡️Daniele
  
 #english #nonnativeleader #inspiration
-
-## Comments (9)
-
-### Carla Carsenzuola (Vice President Human Resouces at Kahoot!)
-> Brava Paola!!!
-
-### Nicoletta Cocco (Scrivi e trasforma il tuo libro in uno strumento che aumenta visibilità, guadagni e autorevolezza. Non vedo l’ora di parlare del tuo progetto!)
-> They broke the mold after Paola was born! 🤩 Very inspirational, well done! 👏
-
-### Shafa Ullah Khan (Business Development Manager @ Zainx Media)
-> Your podcast episode sounds like a goldmine of insights
-
-### fatma MANSERI (Process analyst chez Criteo)
-> That’s right! And we really love your accent Paola !
-
-### Simon Bailey (Biotech | Experienced technical lead in QC & Manufacturing | Problem-solving & Six Sigma expertise)
-> Veramente una inspirazione!
-> Thanks for sharing
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Attitude is everything 😎
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> I'm commenting to increase visibility.
-> 
-> Daniele and Paola discuss how to secure your first international job in this video podcast episode. 
-> 
-> It's a great resource for those interested in exploring new horizons.
-> 
-> 👍
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Wow. This is a much needed topic 
-> 
-> Daniele Ponzo 🙌😊
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Get the full episode here: https://youtu.be/yBzVC6ApEgc
-

@@ -16,12 +16,3 @@ På 98 sekunder berättar jag om varför, och vad du som chef kan göra åt det.
 Fler tips och tankar från er?
 
 #kommunikation #ledarskap #arbetsglädje
-
-## Comments (2)
-
-### Eva Hammarstedt (Chefsassistent som slutat jobba)
-> Intressant, jag känner igen mig :-)
-
-### Anna Palmgren (Chef på Pensionsmyndigheten)
-> Vi kör Innovationsdagar för medarbetarna digitalt! Hoppas och tror att det kan ge effekt när man jobbar hemma. Viktigt att känna att man är med och påverkar, även om man inte sitter fysiskt på ett kontor.
-

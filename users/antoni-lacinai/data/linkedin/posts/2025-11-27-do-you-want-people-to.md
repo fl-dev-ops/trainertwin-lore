@@ -21,13 +21,3 @@ Some of them?
 None of them?
 
 https://lnkd.in/eKkYfJzt
-
-### Shared Article: [9 memory hacks so that your audience remember](https://www.youtube.com/watch?v=KXM8hJyWvZo)
-> youtube.com
-
-
-## Comments (1)
-
-### Tom Miller (Event procurement that drives ROI | Negotiated savings, benchmarked suppliers, delivering measurable value | Founder, Lumix)
-> Really interesting. It’s so true that people can only act on what they actually remember. I’ll definitely give this a watch, I’m curious which of the nine I might already use without realising.
-

@@ -6,6 +6,9 @@ likes: 31
 comments: 16
 document:
   title: The Ultimate Guide to English Homophones in IT
+author_comments:
+- '📌How Alex boosted his confidence and got his dream job: https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-confidence-career-activity-7203991449921634304-E9dk?'
+- Thank you for reposting, CARLA ZANAFREDI 🙏
 ---
 
 The Ultimate Guide to Similar Sounding Words in English.
@@ -39,31 +42,3 @@ Hi, I'm Daniele. I post about English communication, IT and confidence.
 Like my posts? Follow or connect with me here➡️ Daniele
 
 #EnglishTips #ITProfessionals #BusinessCommunication #LeadershipSkills
-
-### Shared Document: [The Ultimate Guide to English Homophones in IT]()
-
-
-## Comments (7)
-
-### Lisa F. (Organizational Development & Learning | Prosci Certified Change Practitioner | Workday Talent Enablement | Talent & Performance Management)
-> There are some listed that I always have to think about first before using. Tricky for sure.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How Alex boosted his confidence and got his dream job: https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-confidence-career-activity-7203991449921634304-E9dk?
-
-### Fabio Sverzelati (Mechanical Engineer (Politecnico di Milano) | Global Key Accounts & International B2B Sales | Industrial Machinery, Packaging & Capital Equipment | English & Italian | Europe & Asia)
-> Daniele Ponzo that is a great piece of work. No doubt that I won’t be the only foreigner to pronounce them in a very similar way
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thank you for reposting, CARLA ZANAFREDI 🙏
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> This is similar to my post today, Daniele Ponzo! 😅 Thanks for giving a name for it. Thanks for this insightful post, Daniele Ponzo. People make this mistake a lot.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> And what about rule/role Daniele Ponzo? 
-> Mine is a daily struggle, and they're not even homophones! 😬
-
-### Julia Klann (Englisch für Forschung, Bildung & Wissensarbeit. Fühl Dich beim Englisch sprechen endlich so souverän wie Du wirklich bist. Gruppen- und Einzelformate. Oxford + Harvard Alumna 🎓)
-> Fabulous list - and such an important (and tricky!) area of learning English. Great post Daniele! 👏
-

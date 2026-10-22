@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 50 Multi-Head Attention and Transformer Architecture
-
-## Transcript
-
 speaker_1: Welcome back So there is another uh
 small bit of information that I need to
 tell you Theres something called multi

@@ -17,9 +17,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The #1 Key to Business Success Across Cultures
-
-## Transcript
-
 speaker_1: and you mentioned one of the keywords which is trust So through connections through learning to communication we build trust and and then people trust you and then you you create the circle of trust in a way So that uh you you connect on a deeper level Id say Uh through trust and uh yeah it takes patience Id say it takes consistency so you have to be there you have to show up you have to listen to people But you know the keyword is trust Once you do that once you build trust it doesnt matter if you are in the US in the Philippines Israel Singapore uh it it really does work and it does make a difference I think

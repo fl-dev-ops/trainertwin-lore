@@ -19,9 +19,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Embrace Your Multilingual Identity #shorts
-
-## Transcript
-
 speaker_1: you know the the way I I talk about multilingual brains you know that a lot of people think that they need to hide their identity they need to pretend to be someone else that in fact it doesnt make sense you know its just like two is better than one Its as easy as that You speak two languages they speak one so you are better Yeah it was just going through the whole process of you know admitting that I am in fact valuable as I am you know that all all these studies that Ive done all the languages that I speak all the cultures that Ive absorbed theyre all valuable you know and they are two is more than one They are more than one culture or one language that you have Yeah thats the whole thing about identity and embracing your identity for what it is two words that you mentioned about fitting in and belonging you know like fitting in

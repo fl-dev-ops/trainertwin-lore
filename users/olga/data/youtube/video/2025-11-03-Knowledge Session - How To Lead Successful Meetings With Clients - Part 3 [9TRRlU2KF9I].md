@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Knowledge Session - How To Lead Successful Meetings With Clients - Part 3
-
-## Transcript
-
 speaker_1: Setting the agenda with a client
 
 speaker_2: I have one question Okay in the introduction okay the majority of people have been doing real estate here for several years so they do have credibility What happens with the new starters

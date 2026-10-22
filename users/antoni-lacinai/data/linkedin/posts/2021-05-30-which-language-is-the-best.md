@@ -17,13 +17,3 @@ Now you can do it too
 Enjoy ^_^
 
 #communication
-
-### Shared Article: [S1E6: What is the Best Language?](https://buff.ly/3aIBw9I)
-> buff.ly
-
-
-## Comments (1)
-
-### Kari Kyllästinen (Senior Property Management Professional, now happily retired and thoroughly enjoying it!)
-> Thought-provoking!
-

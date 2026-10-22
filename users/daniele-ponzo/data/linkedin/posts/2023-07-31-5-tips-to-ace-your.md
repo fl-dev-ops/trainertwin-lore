@@ -6,6 +6,10 @@ likes: 11
 comments: 3
 document:
   title: Presenting with confidence
+author_comments:
+- |-
+  🙏 Incredibly grateful for the opportunity to have worked 1on1 with some extraordinary IT Professionals. Their wins are by far the most rewarding part about what I do.
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-english-communication-activity-7092499658605785088-qjxv?
 ---
 
 5 tips to Ace your English Presentation ⬇️
@@ -44,16 +48,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
  #communication #ITprofessionals  #presentationskills
-
-### Shared Document: [Presenting with confidence]()
-
-
-## Comments (2)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> This is a great list individually,  and even better as a combination.  Some of these points will help with others, such as doing plenty of practice and focusing on those key points will help us manage any nervousness.  combined with your other tips should really help us prepare for those important presentations.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🙏 Incredibly grateful for the opportunity to have worked 1on1 with some extraordinary IT Professionals. Their wins are by far the most rewarding part about what I do.
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-english-communication-activity-7092499658605785088-qjxv?
-

@@ -18,29 +18,3 @@ A guest column at Eventeffect where I claim that the winners are not only good a
 
 There are so many great places and people out there. I admire you! 
 The rest... as I said. Step up!
-
-### Shared Article: [Antoni Lacinai: Du får de kunder du förtjänar - eventeffect.se](https://buff.ly/3NvFwwg)
-> buff.ly
-
-
-## Comments (4)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Ja, ibland blir man förvånad, du. Jag tror och hoppas att kunder blir alltmer erfarna och kräsna, så upplevelsen blir bättre för alla.
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Tack och lov är en omställning i vardande. Allt fler går från ordermottagare till rådgivare och i detta med större fokus på kundens möte. Där de blir mer genuint intresserade.
-> Svenska Möten är föregångare och har under de sex sista åren utbildat många på deras 135 anläggningar. Jag är övertygad om att de som inte gör denna resan blir mötesbranschens Kodak eller Nokia. De som gör omställningen kommer vara vinnarna.
-> Vi som har alla mötesanläggningar som våra arbetsrum behöver också ge dem som är rådgivare vårt stöd och uppmuntran. Och de som inte är det ställa högre krav! 
-> 2022 ska inte vår arbetsplats göra så vi får en lampa i ansiktet när vi ska visa en bild. 😅
-
-### Mikael Hermansson (Tedx-speaker / public speaker . Spreading the successful Swedish lconcept "GREJ OF THE DAY - Magic Micro lessons!")
-> Detta kan bli en artikelserie! 😊
-> Tex så möts jag hela tiden av superkorta (ca 1 m) Hdmi- sladdar som gärna är fästa vid ett bord/podium…. Man blir alltså väldigt låst och statisk.🙃
-> 
-> Och sen kommentaren:
-> ”Oj, vi trodde att headsetet fungerade… sorry”
-
-### Anna Tebelius Bodin (Keynote speaker, Educator, Expert on the Brain, Leadership, Learning, and Motivation Personal development, Harvard Graduate ’04)
-> Så sant! 🙏🏼
-

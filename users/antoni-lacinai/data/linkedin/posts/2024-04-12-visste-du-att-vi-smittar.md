@@ -22,14 +22,3 @@ Tycker jag
 Du?
 
 Tack Diploma - Störst i Sverige på onlineutbildning för ett gott samarbete
-
-### Shared Article: [Arbetsglädje](https://diplomautbildning.se/utbildning/arbetsgladje)
-> diplomautbildning.se
-
-
-## Comments (1)
-
-### Elisabeth Loibl (✨ Jag hjälper VD:ar i startups, scaleups och ägarledda bolag i tillväxtfas att förverkliga sin ägarvision – genom starkare team och rätt stöd för dig som VD. ✨)
-> Vilken positiv nyhet😊
-> #Arbetsglädje har en oanad potential att påverka både personers och företags välmående/utveckling 👍
-

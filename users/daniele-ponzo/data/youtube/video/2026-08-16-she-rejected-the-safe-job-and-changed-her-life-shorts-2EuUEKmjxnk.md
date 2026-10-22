@@ -35,11 +35,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# She Rejected the Safe Job—and Changed Her Life #shorts
-
-## Transcript
-
 speaker_1: and I was very lonely And then I got this job offer for a great company in Brazil senior leadership role all of the benefits coming back to my comfort zone
 
 speaker_2: Yes absolutely

@@ -32,11 +32,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How can a COMMUNITY make you STRONGER? | The Non-Native Leader | Episode 6
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to another episode of the Non Native Leader a video podcast series where we talk about having an international career even though youre not born in an English speaking country Uh in the previous episode weve been exploring some interesting stories Weve been talking to some people who had or have still having a great career abroad or in their native country but theyre working in an international environment theyre working for a multinational company and they have changed job uh many times And in some cases they also changed country So today were going to explore even more some insightful stories and were going to talk about what it takes to have an international career what you need what you want to do what kind of you know risks you need to take what kind of choices you need to make uh you know so I promise this is going to be inspiring and Im particularly happy today to have with me Luigi Ferri whos uh an expert in the IT field and hes got different certifications hes worked for many different companies and hes been traveling around Europe So I think hes like the perfect fit for our for our stories here for our video podcast series Um so welcome again and Id like to introduce Luigi Actually Luigi Id like you to introduce yourself if you dont mind
 
 speaker_2: Yes yes Good morning good or good evening to to to everyone My name is Luigi Im based in Germany Im living in Germany since 2017 more or less And uh I work in the ITSM and IT security world where I covered during my life different types of roles in different countries Thanks to my the chance that I had years ago of working in consulting And uh thanks to this aspect I went from lets say national based career where I was a consultant inside Italy to uh to expand my experiences working for an Italian giant consulting company working in different European countries And uh as Daniele I also experienced a few years in Ireland

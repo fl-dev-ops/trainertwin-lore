@@ -22,11 +22,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Build Trust in International Teams (Even with Language Differences) #shorts
-
-## Transcript
-
 speaker_1: So obviously when youre on the field uh you have like a group of players and you want them to do something uh you have to work hard on motivation and and I suppose
 
 speaker_2: And you have to you have to under trust Yes Especially in coaching yeah if you say guys youre going to do A or B it doesnt really matter what it is They have to see that oh if I really do it it helps

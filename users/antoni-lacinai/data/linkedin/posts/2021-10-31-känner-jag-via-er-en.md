@@ -7,9 +7,3 @@ comments: 1
 ---
 
 Känner jag via er en erkänt bra husmäklare som kan Göteborg och särskilt Askim?
-
-## Comments (1)
-
-### Anna Zetterberg (Head of People and Culture)
-> Malin Zetterberg
-

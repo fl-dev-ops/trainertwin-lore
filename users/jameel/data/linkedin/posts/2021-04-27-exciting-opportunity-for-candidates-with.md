@@ -12,7 +12,3 @@ article:
 ---
 
 Exciting opportunity for candidates with analytical skills and supply chain experience.
-
-### Shared Article: [Supply Chain Analyst - Contractor job in Guelph, Ontario, Canada | Supply Chain & Engineering jobs at Mars](https://careers.mars.com/BRpLA-w)
-> careers.mars.com
-

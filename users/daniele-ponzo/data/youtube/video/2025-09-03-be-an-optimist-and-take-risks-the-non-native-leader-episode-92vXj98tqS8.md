@@ -38,11 +38,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Be an Optimist and Take Risks | The Non Native Leader | Episode 30
-
-## Transcript
-
 speaker_1: Hello everyone and welcome to a new episode of the non native leader my video podcast series where we explore stories lives challenges and wins of global leaders who have one thing in common they were not born in an English speaking country And Im Daniele Im the host and if you followed the previous episodes youve seen weve spoken to NGO leaders to leaders in Fintech IT politics academia art I like talking to a broad spectrum of people and any in any industries really And today Im really happy to have with me Anas Riad And from well Im not revealing it Ill let him tell you So Anas youre very welcome here with me and thank you very much for being my guest today So the usual question is really who are you What are you doing What do you do
 
 speaker_2: Yeah obviously the first question First of all thank you for having me here Its a its an immense pleasure Uh always happy to have a nice chat and discuss a few things Its its always good to be open and discuss any kind of topics really So as you mentioned my name is Anas Im originally from Morocco Thats from where the name comes from Im multicultural My mom is Russian my dad is Moroccan so its a little bit of a weird mix but we made it happen Uh three years ago I moved to the UK I wanted to switch my career um from engineering what I did before uh into data analytics which is what I do now And the bridge for me to get to where I wanted to seem to be to move to the UK Um and therefore I had to learn the language go through the process but currently I work as a data analyst uh online for a Swedish company based in the UK Yeah and this is a brief introduction of who I am We can dive deeper into different topics

@@ -5,6 +5,14 @@ url: https://www.linkedin.com/posts/daniele-ponzo_smart-professionals-dont-lose-
 likes: 40
 comments: 7
 images_count: 1
+author_comments:
+- |-
+  ▶️ A few people asked:
+
+  “What do you actually mean by structure?”
+
+  So I recorded a practical example using a real scenario:
+  https://www.youtube.com/watch?v=pI9B_W0nHK4&t=17s
 ---
 
 Smart professionals don’t lose confidence because they lack ideas.
@@ -143,28 +151,3 @@ confidence stops feeling forced.
 
 Have you ever known exactly what you meant…
 but struggled to explain it clearly under pressure?
-
-## Comments (5)
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> This is a massive pain point, Daniele Ponzo. Under pressure, communication collapses because people lack a structured process, not intelligence. Confidence isn't forced when you rely on repeatable patterns; it’s the happy path to alignment.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> It's so relatable. Its not about the idea but how fast things get messy once it gets messy. Daniele Ponzo
-
-### Emanuel Balsa (Helping 36K+ professionals make smarter money, career and, AI decisions | Daily lessons | Free quiz ↓ | Talks and partnerships, happyhelp@emanuelbalsa.com)
-> I use simple structure during pressure moments. One point at a time keeps people with me.
-
-### Eva Andersson (Senior Fellow)
-> This is such an important point, Daniele Ponzo. I think many leaders and professionals recognize this feeling — not because they lack competence, but because pressure changes how the brain operates in real time. Under stress, people often try to think, edit, protect, structure and perform simultaneously. That is rarely a communication problem only. It is cognitive overload.
-> In high-pressure environments, clarity is often less about intelligence and more about having structures and values strong enough to carry thinking when pressure rises. That is why calm communicators often sound more convincing — because they reduce unnecessary cognitive friction for both themselves and others.
-> Very relevant reflection for the Human Era, where attention is fragmented and pressure has become constant.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ A few people asked:
-> 
-> “What do you actually mean by structure?”
-> 
-> So I recorded a practical example using a real scenario:
-> https://www.youtube.com/watch?v=pI9B_W0nHK4&t=17s
-

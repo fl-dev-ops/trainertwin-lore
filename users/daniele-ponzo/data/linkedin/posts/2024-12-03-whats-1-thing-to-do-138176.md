@@ -6,6 +6,11 @@ likes: 31
 comments: 12
 document:
   title: Study your dream company before applying_a complete guide
+author_comments:
+- "Study, do your homework, be prepared. What's your objective for next year? \U0001F447 \nhttps://www.linkedin.com/posts/daniele-ponzo_the-end-of-the-year-is-coming-ok-maybe-activity-7270332507802271744-anqY"
+- |-
+  In my experience, number 7 was very useful. When you transition into a leadership role, you want to make sure you understand the style, the approach and what is expected.
+  Download the pdf abnove to read more or check this link out for an insightful article: https://www.forbes.com/sites/katewieczorek/2024/10/28/7-interview-questions-that-provide-insight-into-a-companys-culture/
 ---
 
 What’s 1 thing to do to get your dream job?
@@ -60,34 +65,3 @@ I share free tips to help IT Managers & Team Leaders communicate more confidentl
 If that’s something you’re interested in, give me a follow and ring the bell so you'll never miss a post " 🔔 "➡ Daniele
   
 #itprofessionals #english #career
-
-### Shared Document: [Study your dream company before applying_a complete guide]()
-
-
-## Comments (7)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Study, do your homework, be prepared. What's your objective for next year? 👇 
-> https://www.linkedin.com/posts/daniele-ponzo_the-end-of-the-year-is-coming-ok-maybe-activity-7270332507802271744-anqY
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Great insights, Daniele! I really like how you’ve highlighted not just what to research, but why it matters.
-> 
-> It’s amazing how even small details, like knowing a company’s recent achievements or leadership values, can completely shift how you show up in an interview.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Focusing on what truly matters in a job search can set you apart from the competition. Daniele Ponzo
-
-### Ata Muhi Ul Din (I help Health, Fitness & Wellness Startups Ship Digital Products Faster with AI-Accelerated Engineering | Founder @ Speecto)
-> Company values and culture are so important to understand before an interview Daniele Ponzo.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Understanding a company's culture and values not only prepares candidates better but also aligns their aspirations with potential employers.  Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> In my experience, number 7 was very useful. When you transition into a leadership role, you want to make sure you understand the style, the approach and what is expected.
-> Download the pdf abnove to read more or check this link out for an insightful article: https://www.forbes.com/sites/katewieczorek/2024/10/28/7-interview-questions-that-provide-insight-into-a-companys-culture/
-
-### Arslan Iqbal (Personal Brand Strategist | Helping Founders, CEOs & Executives Build Authority on LinkedIn & X | 250+ Personal Brands Helped)
-> Understanding a company's challenges and pain points can help you prepare for interviews Daniele
-

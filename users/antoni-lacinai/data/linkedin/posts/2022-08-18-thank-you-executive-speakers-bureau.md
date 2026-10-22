@@ -16,7 +16,3 @@ I am proud to announce that Executive Speakers Bureau will offer my keynotes to 
 Thank you Karen Viotti for this and I so look forward to our collaboration ^_^
 
 #keynotespeaker #workplacecommunication #employeeengagement #customerfocus
-
-### Shared Article: [Antoni Lacinai](https://buff.ly/3nnkmEv)
-> buff.ly
-

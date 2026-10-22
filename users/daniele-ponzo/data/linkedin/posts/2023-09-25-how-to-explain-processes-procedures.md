@@ -67,9 +67,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️Daniele
  
 #BusinessCommunication #ITLeadership #ProcessManagement #itprofessionals
-
-## Comments (1)
-
-### Vanessa Andrews (Associate Consultant)
-> “clear, error-free communication:” this is vital in any setting. Great read  Daniele Keep sharing
-

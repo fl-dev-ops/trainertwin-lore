@@ -21,13 +21,3 @@ Or is it the people you surround yourself with?
 For me, it's easy. People win!
 
 #leadership #engagement #communication
-
-### Shared Article: [It's not the place, it's the people](https://buff.ly/3s1Rcul)
-> buff.ly
-
-
-## Comments (1)
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> Yes, it's people and when you show care then they care for you, when people are like family culture.
-

@@ -14,7 +14,3 @@ article:
 How to Ace the 'WALK ME THROUGH YOUR RESUME' Question as a FRESH GRADUATE or ENTRY-LEVEL JOB SEEKER
 #jobsearch #interviewtips #softskills #walkmethroughyourresume #resume #cv #jobs #careeradvice #careertips #skills #jobinterviewtips #entrylevelcareers #jobsearchadvice #resumetips #freshgraduate #interviewsuccess #careersuccess #jobsearchstrategy #jobseekers #jobinterviewprep
 https://lnkd.in/gmb9qkte
-
-### Shared Article: [How to Ace the 'WALK ME THROUGH YOUR RESUME' Question as a FRESH GRADUATE or ENTRY-LEVEL JOB SEEKER](https://youtu.be/zVHFyG1gWnI)
-> youtube.com
-

@@ -14,28 +14,3 @@ Wow vilket drag. Företagare är här en timme innan programmet börjar bara fö
 Jag är först ut i programmet. Är jag då ett förband eller sätter jag tonen för dagen? Det är det sistnämnda som ordet Keynote betyder. 
 
 Nu kör vi
-
-## Comments (7)
-
-### Pernilla S. Corizza - Global Leadership Strategist (Founder Honour Your Leadership | Guiding leadership where influence has consequences | Mentorship & Speaking)
-> Härligt! Lycka till!
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Du är kung!
-
-### Ida C. (Kundansvarig på ACG Accent AB)
-> Tack för en bra föreläsning! Grym!empatisk, energi och tydlig ☺️👏🏻
-
-### Robin Rudholm (Hjälper varumärken förtjäna uppmärksamhet i en reklamtrött värld. Design & Kommunikation | Film, Foto & 3D | Webb & E-handel ▪️ VD för R3 reklambyrå)
-> Tack för en superbra föreläsning Antoni Lacinai! 👍
-
-### Lennart Paulsson (Moderator and event conductor of professional meetings. Founder and Senior Partner at P&P Meetings, Professional speaker agent, Head of jury for The Swedish Speaker Prize. Founder of the moderator association of Sweden.)
-> Grymt! Stort lycka till.
-
-### Mai Tuominen (Helping leaders unlock hidden potential within themselves and others.)
-> Önskar dig en härlig och lyckad dag i Borås idag! Vad skall du prata om idag?
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Har du paraplyet med dig? 
-> Good luck!
-

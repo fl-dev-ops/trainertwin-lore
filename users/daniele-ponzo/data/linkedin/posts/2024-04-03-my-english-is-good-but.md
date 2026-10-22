@@ -65,19 +65,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
   
 #itprofessionals #languagecoaching #english
-
-## Comments (4)
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo I agree with the strategies you've outlined for improving English communication skills. Engaging in daily conversations, expanding vocabulary, listening to various forms of media, practicing and reviewing recordings, and role-playing are all effective methods to enhance language proficiency. Setting SMART goals and embracing mistakes as part of the learning process are also crucial aspects of language mastery. It's clear that a proactive and structured approach can lead to significant improvement in speaking confidence and overall communication abilities.
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> I find #4 particularly useful, bonus if someone else can give us feedback too.
-
-### Asma Hassan (Curriculum Strategist for Globally Mobile Families | Personalized Literacy & Maths Programs for Elementary Learners)
-> SMART ideas always thrive. Most people get overwhelmed with their language journey because they don't set SMART goals. 
-> Baby steps leading to measurable steps always helps to kick start.
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Ottimo post Daniele Ponzo!
-

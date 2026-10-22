@@ -85,24 +85,3 @@ And that's often where career growth begins.
  ➡️ Looking back, was there ever an opportunity you almost turned down (or actually turned down) because it involved speaking English?
 
 I'd love to hear your story.
-
-## Comments (5)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Taking the opportunity is often the best way to build confidence in English.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Confidence often grows through participation, not before it. 
-> Taking the opportunity while your English is still imperfect can be what builds the confidence and visibility to take bigger ones later.
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> Daniele Ponzo The real barrier is often fear, not English. 
-> 
-> I have seen people grow faster by accepting imperfect opportunities.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Very true. Sometimes the bigger barrier isn’t English itself, but the hesitation to speak up and take the opportunity. Daniele Ponzo
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Sometimes you have to speak before you feel ready. Confidence often comes after taking the opportunity, not before it.
-

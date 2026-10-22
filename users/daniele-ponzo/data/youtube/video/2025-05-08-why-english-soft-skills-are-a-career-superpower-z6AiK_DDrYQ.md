@@ -14,11 +14,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why English & Soft Skills Are a Career Superpower!
-
-## Transcript
-
 speaker_1: I would learn English and I would work on my soft skills at the same time
 
 speaker_2: Hand in hand yeah

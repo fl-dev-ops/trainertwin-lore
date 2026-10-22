@@ -5,8 +5,6 @@ date: "2026-01-01"
 source: website
 ---
 
-# About Us
-
 Executive Coaching
 Leadership Teams
 Management Teams
@@ -35,7 +33,6 @@ Canada
 United Kingdom
 Australia
 Germany
----------------
 Afghanistan
 Åland Islands
 Albania

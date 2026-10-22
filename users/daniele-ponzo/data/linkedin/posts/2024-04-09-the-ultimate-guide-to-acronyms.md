@@ -33,31 +33,3 @@ I share free tips to help IT Managers & Team Leaders communicate more confidentl
 
 If that’s something you’re interested in, give me a follow and ring the bell so you'll never miss a post :)
 Follow ➡  Daniele
-
-### Shared Document: [The Ultimate Guide to Acronyms in the Global Workplace]()
-
-
-## Comments (6)
-
-### Jaimi Saunders, PhD MBA Business English Coach (Business English Coach helping Spanish-Speaking Digital Marketers Unlock New Career Opportunities. By advancing Their English communication skills In 3 months or Less ⏰ | PhD in TESOL 🎓 | DM for info 📩.)
-> Daniele Ponzo You forgot the most important one.   NCNC- No Coffee No Code
-> 
-> According to all my friends in IT, they swear by this one.  🤷‍♀️
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Loving the conceptual aspect of this post!
-> .
-> P.S how's your day going? 😇
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> Thanks for sharing Daniele - useful guide.
-
-### Francesca Garofalo (Giornalista pubblicista freelance | Copywriter | Cacciatrice di storie)
-> Grazie Daniele, post utilissimo ed esplicativo su queste "abbreviations trap"
-
-### Ottavia Adorni (Formatrice d’italien ⚡️ Ingénieure pédagogique ⚡️ Chargée de projet communication)
-> 😱 IMHO
-
-### Lorena Ignazzi (I bring numbers, people and decisions together when a company grows, but choices and organization struggle to keep up | Strategic Advisor for B2B SMEs | 4R Strategy Impact Method)
-> Wow!!!! Amazing!! 😁😁 Need time to decryipt it Daniele!!! Let's try😁
-

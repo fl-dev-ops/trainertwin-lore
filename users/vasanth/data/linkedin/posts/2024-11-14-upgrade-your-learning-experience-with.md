@@ -26,7 +26,3 @@ Get access to everything you need through GeeksforGeeks Premium available in hal
 models!
 
 link: https://gfgcdn.com/tu/TW4/
-
-### Shared Article: [Premium - GeeksforGeeks](https://gfgcdn.com/tu/TW4/)
-> geeksforgeeks.org
-

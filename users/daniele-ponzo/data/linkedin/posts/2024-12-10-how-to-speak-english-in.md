@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_hackerrank-leetcode-itprofessi
 likes: 31
 comments: 22
 images_count: 1
+author_comments:
+- "\U0001F4CC Why many IT pros don't get there with their English: \nhttps://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimprovement-activity-7272877992077336577-WJxo"
+- 📌 Want to know 1 Little-Known way to boost your speaking confidence? 👇 https://www.linkedin.com/posts/daniele-ponzo_english-sustainability-tech-activity-7272507122246959105-bdEX
 ---
 
 How to Speak English in the Real World (and not fail)
@@ -63,46 +66,3 @@ P.S. this is PART 2. Did you miss Neo dodging speaking situations like bullets? 
 P.P.S. Ready to level up? Then send a message to this good old human and let’s chat🤝.
 
 #itprofessionals #english
-
-## Comments (12)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Why many IT pros don't get there with their English: 
-> https://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimprovement-activity-7272877992077336577-WJxo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Want to know 1 Little-Known way to boost your speaking confidence? 👇 https://www.linkedin.com/posts/daniele-ponzo_english-sustainability-tech-activity-7272507122246959105-bdEX
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Great tips for mastering real-world English! Daniele Ponzo
-
-### Ancorrd (157 followers)
-> Great tips! These practical steps will boost confidence and fluency for tech professionals.
-
-### Vinay G. (Full-Stack Software Developer | Java, Front-end, JavaScript, MySQL | Open-Source Project Maintainer)
-> Those look like some solid tips! I think rubber duck debugging is a brilliant technique that can benefit all developers regardless of how confident they are speaking English.
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Love these tips Daniele! May I also add one more thing? 
-> 
-> Don't feel embarrassed of the way you talk. People will appreciate that you are making the effort to speak their language!
-
-### Dariusz Sadowski (Senior EM / Coach (in training) | Less hype, more science | Join Inner Dynamics)
-> Yes. Come join Discord. We have essential cookies! Thanks for mention Daniele!
-
-### Mykola D. (I Help IT & Corporate Professionals Achieve Fluency 🗣️, Reduce Accent 🎯 & Succeed in Interviews, Meetings & Presentations | Communication Coach | Since 2016)
-> ahh yes cool expressions ,I remember them :))
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Great thoughts Daniele. Speaking out loud is key here I think!
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> Thanks for the mention of Software Engineering Tales Podcast !
-
-### Giacomo Falcone (COO @Foorban | Building @Getting Better)
-> Thanks for the mention, Daniele!
-> Here’s the link to Getting Better: https://open.substack.com/pub/giacomofalcone
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Rubber duck is our saviour!
-

@@ -13,7 +13,3 @@ article:
 
 Based on an internal promotion, we now have a great opportunity available for someone that wants to be apart of a great company and an amazing team! The GUM Value Stream Manager is a critical member of the Site Leadership team and is responsible for a critical Value Stream within the network. Please let me know if you or anyone you know are interested in this opportunity! 
 #proudlymars
-
-### Shared Article: [Value Stream Manager - Yorkville, IL job in Yorkville, Illinois, United States | Supply Chain & Engineering jobs at Mars](https://careers.mars.com/Uwx9ML2)
-> careers.mars.com
-

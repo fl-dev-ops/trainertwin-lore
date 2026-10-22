@@ -42,12 +42,3 @@ Hi, I'm Daniele. I post about English communication, IT and (sometimes 😊) sel
 Like my posts? Follow or connect with me here➡️ Daniele
 
 #selfimprovement #ITProfessionals #garden
-
-## Comments (2)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Where in Dublin ?
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> Wow Daniele - you are a man full of surprises :D
-

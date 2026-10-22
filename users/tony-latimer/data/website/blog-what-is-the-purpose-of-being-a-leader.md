@@ -5,9 +5,7 @@ date: "2026-01-01"
 source: website
 ---
 
-# The purpose of a leaders
-
-# What is the Purpose of being a leader?
+What is the Purpose of being a leader?
 
 Lets look more closely at the purpose of being a leader.
 
@@ -29,7 +27,7 @@ I have global clients who complain there are locations in the world where they w
 
 So ask yourself; what are you doing to develop your team and grow the next generation of leaders?
 
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

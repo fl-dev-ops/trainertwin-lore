@@ -40,11 +40,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Overcoming Fear of Speaking English: Inspire Confidence in Yourself
-
-## Transcript
-
 speaker_1: you Daniele and nice to be here
 
 speaker_2: Great great Thanks for accepting my invite Uh you know its My pleasure Its an important topic and uh I couldnt do that alone you know Better to team up always Yes exactly And its one you know to help me fight the the imposter Right right right So um everybody let us know if you can see us and uh you should be you should be able to to to write on the chat and we should be able to see your messages So if you want to uh you know interact ask questions say hi you know That would be that would be nice yeah And yeah so I it seems to be working and Okay Okay Otherwise we can have a chat together Yes exactly And then we then we record it and Yes And then we send it to people you know

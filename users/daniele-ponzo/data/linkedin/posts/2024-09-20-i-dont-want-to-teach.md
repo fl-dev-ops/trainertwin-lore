@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_humans-interaction-language-ug
 likes: 25
 comments: 11
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQEU1rY51XrEqA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1726723956116?e=1793178000&v=beta&t=UA8fYrCBq7stDT9cac6HhSBGoTAE6NG1IcK-m8gyck8
+author_comments:
+- 'If you want to know more about the project and the concept of "kinesphere" check In4Art post here: https://www.linkedin.com/posts/in4art_startseu-startsair-urbanwellbeing-ugcPost-7217141929132584963-eaZu?utm_source=share&utm_medium=member_desktop'
 ---
 
 I don’t want to teach you a language.
@@ -52,32 +54,3 @@ P.S. many thanks to Michail Rybakov and In4Art for the inspiration. I had the pl
 Video Credit: "THE BODY AND THE CITY," Michail Rybakov's project for S+T+ARTS AIR.
 
 #humans #interaction #language
-
-## Comments (6)
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> It’s true that effective interaction goes beyond just words and grammar. Daniele Ponzo
-> 
-> It’s about engaging in a dynamic, ever-evolving system where every gesture, conversation, and shared experience contributes to the larger picture.
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> This is so true! Daniele ))
-> 
-> It's not just about the words we use, 
-> 
-> but about the way we respond to each other.
-> 
-> The video is amazing ))
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Great post Daniele Ponzo , it's all about connecting!
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Love this post Daniele.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If you want to know more about the project and the concept of "kinesphere" check In4Art post here: https://www.linkedin.com/posts/in4art_startseu-startsair-urbanwellbeing-ugcPost-7217141929132584963-eaZu?utm_source=share&utm_medium=member_desktop
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> It's never only about the language, is it, Daniele Ponzo?
-

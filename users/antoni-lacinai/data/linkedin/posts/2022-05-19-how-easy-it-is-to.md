@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_how-easy-it-is-to-misunderstand-peop
 likes: 22
 comments: 4
 images_count: 1
+author_comments:
+- Interesting reflection Thomas. Thanks!
 ---
 
 How easy it is to misunderstand people...
@@ -22,16 +24,3 @@ How easy it is to misunderstand people. I guess I was hungry too, acting out lik
 Don't assume you know what people mean with what they say. You don't. I don't either.
 
 How do you make sure you're not trapped in a mind-reading exercise?
-
-## Comments (3)
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Interesting reflection Thomas. Thanks!
-
-### Thomas Otnes (Product developer and engineer)
-> I've found this to be an adult issue, due to us speaking much in abstracts. Little children don't have this issue all that much as they are quite literal when they speak.
-> Perhaps that is also why little children can make friends in minutes while we adults can needs weeks, months or even years.
-
-### Chantelle Botha (The Choice Catalyst | International Keynote Speaker & Executive Coach | Conscious choice for life and leadership that feels as good as it looks)
-> Great story Antonio, thanks for sharing. It's a good reminder for us to consider others perspectives 😉
-

@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The #1 Skill Supply Chain Bosses Don’t Teach You 🤫
-
-
-## Transcript
-
 speaker_1: So first of all lets talk about why supply chain managers must be good storytellers Well supply chain typically has complexity and storytelling brings clarity Every decision needs alignment not just a report Storytelling links your recommendations to revenue cost and risks so people can say yes faster And now why this yes is so important because if you think about most supply chain roles they have influence not authority You cant force sales to change promotion or finance to approve extra budget but you can influence them with a clear story of problem impact and path forward so from today stop thinking i am sharing kpis and start thinking i am telling a story that leads to one decision

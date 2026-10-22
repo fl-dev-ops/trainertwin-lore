@@ -25,12 +25,3 @@ P.S. Don't miss any episodes. Hit that "Follow" 🔔 button to stay in the loop!
 Follow ➡  Daniele
  
  #NonNativeLeader #InternationalCareer #SuccessStories #inspiration
-
-## Comments (2)
-
-### ITALIAN CULTURAL FLUENCY LTD (219 followers)
-> Well done Daniele Ponzo!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Keen to watch these, Daniele Ponzo. Where can we find the episodes?
-

@@ -50,22 +50,3 @@ P.S. what’s your relationship with Latin? Have ever had to deal with it?
 I wish everybody a great weekend (𝘞𝘪𝘤𝘦 𝘌𝘯𝘥𝘦, in old English)!
 
 #english #etymology #weekend
-
-## Comments (5)
-
-### Marika Iannuzzi, QFA (Compliance Advisor (Ad Interim) at Zurich Insurance)
-> Love etymology and words! I often play a game at home where you have to say in turn all the English words you think may have originated from Latin. Data and indicia are very common in my house 😊 and we can open a debate on how to pronounce them another time!
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Ha ha nerdy but funny
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great post Daniele Ponzo and a fine list too. 
-> Another important one in business and work is the good old curriculum vitae (CV) 📄
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> Technically, whoever wrote this, can't even remember to properly write "I'm".
-
-### Giulia Berlato (Helping goal-oriented 🎯Managers and Executive Expats 🏛️ build deeper relationships at work🔁with Business Communication Skills in Italian.💼)
-> I’m very passionate about etymology too! And I actually use Latin “a lot” with my English speaking students: I tell them to think about the highest synonym they can find, there’s a chance we use an italianized version of that word and it easier to remember 😉
-

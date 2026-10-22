@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How diploma fresher from Jspide*s Bengaluru faced ReactJs Interview ? 🎉Selected or Rejected ? #react
-
-
-## Transcript
-
 speaker_1: So Ranjit what youre saying is right You are telling the use case of useState which is correct My question is what is useState Is it a class object variable what it is
 
 speaker_2: At the beginning it is an object

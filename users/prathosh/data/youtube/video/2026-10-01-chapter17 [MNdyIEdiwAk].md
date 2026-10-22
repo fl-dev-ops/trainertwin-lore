@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter17
-
-## Transcript
-
 speaker_1: अथ सप्तदशोऽध्यायः
 श्रद्धात्रयविभागयोगः
 अर्जुन उवाच

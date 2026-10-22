@@ -81,27 +81,3 @@ I'll show you how the program works.
 
   
 P.P.S. Daniele 1 - Netflix 0…
-
-## Comments (6)
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> Recording the session turns one hour of coaching into something much more valuable. The second watch often reveals things you simply couldn’t notice while you were busy participating in the conversation.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> When people choose to revisit a lesson on their own, that says a lot about its value.
-
-### Huzaifa Ahmed (I Turn Founder Expertise Into LinkedIn Content That Builds Trust | Content Strategy, Design & Profile Optimization)
-> The recording turns a completed session into another 
-> chance to notice real communication gaps Daniele Ponzo
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> TechFlix for the win! Awesome man haha, the P.S. made me smile.
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> It’s wonderful to hear that your clients are watching the recordings instead of Netflix. It really shows how much they value the lessons and how meaningful the content is to them.
-> 
-> Daniele Ponzo
-
-### Maria Cristina Andreoni (Affianco PMI, HR, manager e team nel migliorare collaborazione, decisioni, leadership, benessere e cultura organizzativa | Facilitazione & Formazione aziendale | Workshop esperienziali sulle soft skill)
-> Bravo Daniele, quando si riceve questo genere di feedback si lavora con più entusiasmo e rinnovata energia. Btw, learning through practice and repetition never ends...in any field 🌻
-

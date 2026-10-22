@@ -31,11 +31,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Speak Before You're Ready | Version 0.1 Wins #shorts
-
-## Transcript
-
 speaker_1: So tone is to build a toolkit that we need to communicate well
 
 

@@ -31,11 +31,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Most Strategies Fail to Deliver Results | The Clarity Gap | Antoni Lacinai
-
-## Transcript
-
 speaker_1: So I whispered something in the ear of my friend and then that person sent it forward This is exactly the same thing that happens in organizations today But just because everyone hears it at the same time doesnt mean that everyone understands it the same way And what do you do then You might go back to your drawing board looking into the strategies one more time see if you can fix it
 
 

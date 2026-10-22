@@ -25,15 +25,3 @@ How do you know?
 How can you make sure?
 
 #communication #leadership #engagement
-
-## Comments (3)
-
-### Emma Nordbäck (Associate Professor at Hanken School of Economics)
-> Always inspired by your storytelling!
-
-### Bev Hancock (The conversations you need to have at Work, Online and on Stage: Conversational Leadership | Team Facilitation | Leadership Coaching | Real Conference Engagement)
-> Clarity is a word that has been emerging more and more for me.  Striving for unusual clarity opens up so much for the brain.  This post also is a great reminder to connect with the language of others and it recognize the emotional weight of the words we choose.
-
-### Frederic Turner (Company)
-> Yes, The language barrier can cause these misunderstandings!
-

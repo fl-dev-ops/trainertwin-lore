@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_most-leadership-failures-dont-co
 likes: 9
 comments: 1
 images_count: 1
+author_comments:
+- Thanks for reposting 🙇‍♂️
 ---
 
 Most leadership failures don’t come from incompetence.
@@ -28,9 +30,3 @@ If you’re promoting someone into a critical role, the smart question isn’t �
 It’s “What would a focused 90-day leadership coaching runway do for their chances of success?”
 
 Often, that small intervention makes all the difference.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Thanks for reposting 🙇‍♂️
-

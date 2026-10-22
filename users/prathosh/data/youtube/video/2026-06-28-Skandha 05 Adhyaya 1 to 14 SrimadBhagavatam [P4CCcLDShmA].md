@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 05 Adhyaya 1 to 14 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: राजोवाच
 प्रियव्रतो भागवत आत्मारामः कथं मुने
 गृहे रमतयन्मूलः कर्मबन्धः पराभवः

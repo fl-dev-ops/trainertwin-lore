@@ -36,11 +36,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What Leadership Coaching Taught Me | Insights for International Professionals
-
-## Transcript
-
 speaker_1: but Im still doing a lot of leadership coaching which I do under the name of CTO You can basically see that daily in videos and text posts where I talk about my learnings especially when it comes to these high level decision making strategy and how to build up cultures how to lead teams how to overcome resistance all those kind of things which bothered me for so many years and which I actually learned the hard way because 10 years ago there were no internet like we know it from today with social media and business social media So that is what Im talking about that is who I am
 
 speaker_2: Wow okay okay In a nutshell

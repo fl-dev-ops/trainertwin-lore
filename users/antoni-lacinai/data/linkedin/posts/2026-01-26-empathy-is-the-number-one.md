@@ -29,12 +29,3 @@ The three communication superpowers are:
 Empathy - so that people feel that you care
 Clarity - so that they understand and remember
 Energy, so that they believe that you believe
-
-## Comments (2)
-
-### Bandile Dlambulo (Branding & Marketing Professional | Corporate Gifting & Apparel | Helping Brands Turn Ideas into Experiences)
-> Kindness can make the world a better place 🥺❤️
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> Spot on 🎯
-

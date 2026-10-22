@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Which Supply Chain Job Actually Fits YOU? (Stop Guessing!) 🛑
-
-
-## Transcript
-
 speaker_1: Okay so if you are choosing between the three how do you know which ones are for you Logistics roles are perfect if you are detail obsessed a former driver or a warehouse worker or a recent graduate who wants hands on coordination work Theyre also perfect if you dont want to negotiate or deal with vendors all day because you are way more focused on the execution rather than big picture strategy Procurement is ideal for natural negotiators people who love data and cost analysis and anyone who enjoys building relationships with suppliers over time supply chain coordination is best if you want variety like seeing the big picture and enjoy connecting the dots across the departments its the broadest role out there so it gives you the most clear flexibility down the road

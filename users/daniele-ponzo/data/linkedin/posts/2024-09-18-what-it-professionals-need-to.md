@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-languagelearni
 likes: 21
 comments: 7
 images_count: 1
+author_comments:
+- 'Anyone want to play with the Corporate BS Generator? Here is the link: https://www.atrixnet.com/bs-generator.html'
 ---
 
 What IT Professionals need to know about Corporate English.
@@ -69,18 +71,3 @@ _____________________
  🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-## Comments (4)
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> I still struggle Daniele Ponzo! I came from the  non profit sector into a corporate world ..very different language!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> It’s all about finding that balance between staying true to yourself and adapting to the environment. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Anyone want to play with the Corporate BS Generator? Here is the link: https://www.atrixnet.com/bs-generator.html
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> "I need to deprioritise my tasks to make the next deadline feasible" aka "I can't do it on time" 😂
-

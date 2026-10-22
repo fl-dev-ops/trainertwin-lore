@@ -18,11 +18,6 @@ speakers:
   speaker_7: null
 ---
 
-
-# Online Session - Online session Review of Client Meeting Recording - Part 1
-
-## Transcript
-
 speaker_1: Hi guys decided to even create a special video introduction for you because I think the part where Im going to be talking is really important for your absorption of the material that youre going to have next Okay so youre just assuming theyre renting out or maybe theyre selling Uh whats the you know whats the actual profit theyre making When the people are telling you we are doing the same thing we are already investing with which immediately There you see as a potential objection coming forward when you will be presenting them a property and we will ask them oh do you want to buy this one Do you want to invest in this one What theyre gonna tell you Can they tell you you know what we gonna still be doing this thing in Portugal because we are already doing it We decided we are not gonna invest because we are gonna keep investing in Portugal Can they do that Okay so you do not see any danger here Its all good They are so convinced theyre going to invest anyway right Theres not going to be any objection or there potentially can be an objection They never did they say that
 
 speaker_2: No

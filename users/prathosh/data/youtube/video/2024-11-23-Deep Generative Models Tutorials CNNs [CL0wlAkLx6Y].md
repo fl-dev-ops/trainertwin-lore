@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Deep Generative Models Tutorials CNNs
-
-## Transcript
-
 speaker_1: Uh can we clarify some questions on the assignment or at the last week and discuss because regarding the implementation
 
 speaker_2: See let me be very frank with you I havent even read the

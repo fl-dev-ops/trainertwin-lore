@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 01 Adhyaya 1 to 9 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: ॐ नमो भगवते वासुदेवाय
 जन्माद्यस्य यतोऽन्वयादितरतश्चार्थेष्वभिज्ञस्वराट्तेने ब्रह्महृदाय आदिकवये मुह्यन्तीयं सूरयः
 

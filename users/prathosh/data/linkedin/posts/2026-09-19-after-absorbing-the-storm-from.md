@@ -23,7 +23,3 @@ https://lnkd.in/gWYQhgFS - Part 1
 https://lnkd.in/g-Bddf5m  - Part 2
 
 These are the parts of my ongoing NPTEL course on Math of GenAI, which can be found here - https://lnkd.in/gA9YeSBw
-
-### Shared Article: [Lec 19 Flow Matching Part 1](https://www.youtube.com/watch?v=r3oIq5c1V8A)
-> youtube.com
-

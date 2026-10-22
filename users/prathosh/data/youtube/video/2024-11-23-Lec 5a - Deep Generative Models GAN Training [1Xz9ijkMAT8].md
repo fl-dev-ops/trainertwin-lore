@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 5a - Deep Generative Models GAN Training
-
-## Transcript
-
 speaker_1: of of f can okay which will get us to the the basic or the manila gann article of the gann model that generally people use so if your generator function or the f function in the f divergence happens to be of this particular form okay the corresponding divergence measure is called the f divergence sorry sorry sorry jensen channel divergence okay now in that case the
 
 

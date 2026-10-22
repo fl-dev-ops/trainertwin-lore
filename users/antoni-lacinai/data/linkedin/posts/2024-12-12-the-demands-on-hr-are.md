@@ -26,23 +26,3 @@ Ok, so you in HR need to step up. I recently read a horrendous example where rec
 𝗪𝗵𝗮𝘁 𝗱𝗼 𝘆𝗼𝘂 𝘁𝗵𝗶𝗻𝗸 𝗮𝗯𝗼𝘂𝘁 𝘁𝗵𝗶𝘀? 𝗦𝗵𝗼𝘂𝗹𝗱 𝗛𝗥 𝗽𝘂𝘁 𝗮𝗹𝗹 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻 𝗔𝗜? 𝗢𝗿 𝗶𝘀 𝘁𝗵𝗲𝗿𝗲 𝘀𝘁𝗶𝗹𝗹 𝗿𝗼𝗼𝗺 𝗳𝗼𝗿 𝗲𝗺𝗽𝗮𝘁𝗵𝘆, 𝗰𝗮𝗿𝗲, 𝗰𝗼𝗺𝗽𝗮𝘀𝘀𝗶𝗼𝗻, 𝗮𝗻𝗱 𝗵𝘂𝗺𝗮𝗻 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀?
 
 Thank you for reading my mind, while I am part of a panel in Singapore, sharing my thoughts on  Learning & Development trends the last year
-
-## Comments (3)
-
-### Thomas Otnes (Product developer and engineer)
-> Most do not understand that AI can't evaluate. It can search and find, and it's extremely efficient at it.
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Firstly, great photo Antoni 😎
-> 
-> I have shivers just reading how AI was relied on to recruit into any position.  All around the world, in every aspect of our lives, we all NEED actual human interaction.  AI and the cold tech it brings with it exists all around, humans bring the empathy, the kindness, the care and compassion for one another
-
-### Olle Lindkvist (Organisationskonsult | Rekrytering, team och organisationsutveckling | Lindkvist & Partners | 0703797563)
-> Terrible. Of course. Im with you, even though I use AI tools everyday.
-> 
-> ”AI in HR” is such a strange subject though. Very common. I see it everywhere.
-> 
-> It’s like saying ”Computers in HR” in the 90s. Why would HR be special? AI is tool. Wherever you are in business. Something helpful that can cut time by handling the boring and time consuming stuff. At least. 
-> 
-> AI to replace humans and common sense? I don’t feel threatened the slightest.
-

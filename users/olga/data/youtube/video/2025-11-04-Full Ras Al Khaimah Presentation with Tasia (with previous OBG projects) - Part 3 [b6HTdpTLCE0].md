@@ -15,11 +15,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Full Ras Al Khaimah Presentation with Tasia (with previous OBG projects) - Part 3
-
-## Transcript
-
 speaker_1: This is from
 
 speaker_2: Can I jump in for one second

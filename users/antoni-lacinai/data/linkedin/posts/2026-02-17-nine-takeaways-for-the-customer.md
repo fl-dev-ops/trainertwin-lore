@@ -40,21 +40,3 @@ Empathy is the foundation. If you don’t understand others, you cannot make you
 
 Would you value a summary like this after a speech?
 What are your thoughts?
-
-## Comments (5)
-
-### Tommy Wilén (Naprapat och ergonom | Föreläsare och författare till Våga sitta lite fult)
-> Coolt! Vilken modell använder du?
-
-### Oscar de Grauw (I help scale-up founders stop being the operating system of their company | Less operational noise. Faster decisions. More founder time | Founder of OPS Detox | Keynote & TedX speaker)
-> That question in Point #7 is a career-changer: "Are people happier when you enter the room, or when you leave?" It’s a simple but brutal litmus test for leadership. I love that your summary captures the "Emotional Contagion" element. It reminds the sales team that their mood isn't just a personal matter, it’s a business asset.
-
-### Savio P. Clemente (Healthcare Leadership Keynote Speaker | Post-Crisis Decision Quality Expert | TEDx Speaker | Journalist | Board-Certified Health & Wellness Coach (NBC-HWC, ACC))
-> I love gadgets that are actually useful in everyday situations. Will definitely check this out.
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Detta är mer än guld!
-
-### Maria Franzoni (More bookings. Higher fees. Fast. I work with speakers, bureaus & agents to get results. Former international speaker bureau owner. Founder Speaking Business Academy. Author of #1 Bestseller: The Bookability Formula™)
-> I love a gadget 😎
-

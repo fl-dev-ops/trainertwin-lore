@@ -53,23 +53,3 @@ Send me a message and if you are a good fit we can team up to get you where you 
 I’m rooting for you!
 
 #itprofessionals #english #career
-
-## Comments (5)
-
-### Donna Maravillas (CELTA & TEFL Certified English Language Teacher, Speaking Examiner, Writer of two English Activity books for children, a Teacher Volunteer at Yazidi@School)
-> Excellent work Daniele! Very inspiring! I'll share this with my students!
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> Powerful message! 🌟 True language growth happens when we step out of our comfort zones and take control. 
-> Ready to be the co-pilot on this journey!
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Such a nice message, Daniele
-
-### Harsh Johari (I help ambitious leaders build strong Executive Presence so that they get rapid career growth and coveted CXO roles I Executive & Leadership Coach I Learning and Development | Training | Talent Management)
-> That's an inspiring message! It's clear that you're passionate about helping others learn English.
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo 
-> This is such an empowering perspective on learning a language! The shift from rules to real-world application makes all the difference in building confidence and fluency. Emphasizing communication, practice, and self-expression is key to truly mastering English.
-

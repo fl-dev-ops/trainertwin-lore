@@ -63,9 +63,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
  
 #English #leansixsigma  #improvement  #dmaic
-
-## Comments (1)
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Very nice Daniele Ponzo. I always say DMAIC is a simple method that can be applied to improve anything!
-

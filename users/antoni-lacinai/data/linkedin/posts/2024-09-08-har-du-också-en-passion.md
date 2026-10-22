@@ -26,12 +26,3 @@ Varmt välkommen att hänga på ^_^
 PS - Mina tankefrön kommer ca en söndag i månaden, runt 19-tiden.
 
 Kommunikation mellan människor är som elektricitet i ett modernt samhälle. Utan det funkar ingenting.
-
-## Comments (2)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Tack för att du delar med dig av din erfarenhet och stora kunskap.
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Alltid kloka reflektioner, rekommenderas!!
-

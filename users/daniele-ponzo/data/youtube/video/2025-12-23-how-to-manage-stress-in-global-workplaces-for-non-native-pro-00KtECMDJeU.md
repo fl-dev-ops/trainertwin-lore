@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Manage Stress in Global Workplaces (For Non-Native Professionals) #shorts
-
-## Transcript
-
 speaker_1: maybe we could do another episode on managing stress How do you deal with that
 
 speaker_2: Yeah well I think you need more than one episode for that one

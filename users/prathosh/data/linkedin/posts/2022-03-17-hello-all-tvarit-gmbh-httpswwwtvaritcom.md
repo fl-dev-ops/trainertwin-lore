@@ -21,7 +21,3 @@ The position is for 2 years (full time), location is preferably Bangalore, #deep
 Please send your CVs to Mr. Sanjay Shekhawat (AI Researcher and Lead Program Manager) at sanjay.shekhawat@tvarit.com with a copy to prathoshap@gmail.com.
 
 Sanjay Shekhawat Rahul Prajapat Naga Sai Pranay Modukuru Kamal Galrani
-
-### Shared Article: [Reduce rejections in casting with AI | Tvarit Frankfurt](https://www.tvarit.com/)
-> tvarit.com
-

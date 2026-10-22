@@ -18,11 +18,6 @@ speakers:
   speaker_7: null
 ---
 
-
-# How to Reactivate Old Off-plan Leads - Part 1
-
-## Transcript
-
 speaker_1: Todays session I want just want to make sure its recorded Yes Todays session I want to go through the script and I want us to practice because Pratik was asking what if the client is again give me some options what to do right So now you all have the aged leads How many of those leads you called so far And you can put this in the chat How many dials or numbers you went through Looking at the chat
 
 speaker_2: So can I give the blood and go

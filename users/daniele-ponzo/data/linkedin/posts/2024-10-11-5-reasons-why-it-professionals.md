@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-tech-communica
 likes: 30
 comments: 11
 images_count: 1
+author_comments:
+- '📌 Help me celebrate in style. Today is my YouTube channel 1st birthday: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-podcast-channel-activity-7253309129287421953-wnqm'
 ---
 
 5 reasons why IT professionals need to be good communicators
@@ -61,29 +63,3 @@ All info here: https://lnkd.in/dS4-Jsg6
 See you later.
 
 #itprofessionals #tech #communication
-
-## Comments (6)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Help me celebrate in style. Today is my YouTube channel 1st birthday: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-podcast-channel-activity-7253309129287421953-wnqm
-
-### Asta Martinione (PhD | C-Level Executive | Board Member | Leadership | Transformation | Strategy | AI | Operational Excellence)
-> This is a very good point, Daniele Ponzo! Commonly, some professions and occupations are misjudged as not needing any soft skills. While some people might be inclined to do less talking and rely on technical know-how, they should also be encouraged to excel in other areas too. We live in a world of communication and networking with diverse audiences. Surely, we all need to understand each other, convey meaning, ask the right questions, and so on.
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Absolutely spot on! Daniele ))
-> 
-> Communication skills can make or break a career
-> 
-> Especially when aiming for leadership roles.
-
-### Dariusz Sadowski (Senior EM / Coach (in training) | Less hype, more science | Join Inner Dynamics)
-> My past self identifies with that image 🤣
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> This meme is the epitome of IT English!
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo 
-> You've highlighted some essential points on why effective communication is crucial for IT professionals! Strong communication skills not only enhance collaboration and understanding but also play a pivotal role in building trust and resolving conflicts.
-

@@ -14,11 +14,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Positive consequences of high employee engagement
-
-## Transcript
-
 speaker_1: When you have an organization based on trust collaboration cooperation where you feel good together when you work together when youre super engaged and super motivated amazing things will happen I looked into the stats of those type of organizations and here was what I found
 
 

@@ -4,6 +4,8 @@ date: '2020-03-11T11:09:05.140Z'
 url: https://www.linkedin.com/posts/lacinai_virtuellamaemten-kommunikation-ledarskap-activity-6643462733100535808-MHQH
 likes: 29
 comments: 4
+author_comments:
+- Här hittar du boken: https://www.adlibris.com/se/e-bok/virtuella-moten-hur-du-leder-manniskor-i-moten-pa-distans-9789175693545
 ---
 
 6 fördelar med virtuella möten
@@ -28,12 +30,3 @@ Här är 6 fördelar med virtuella möten:
 Lycka till med dina distansmöten!
 
 #virtuellamöten #kommunikation #ledarskap
-
-## Comments (2)
-
-### Ivana Eklund (Lärare inom Komvux/SFI och YH | Författare | Skribent | Lärarfortbildare | Föreläsare)
-> Den nya situationen vi befinner oss i pga coronaviruset kommer säkert att betyda uppsving för digitala möten och samarbetsformer. Tycker att digitala möten/framträdanden borde vara/bli ett sätt att variera arbetsformerna. Men viktigt att lära sig ”spelreglerna” och få bra rutiner.
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Här hittar du boken: https://www.adlibris.com/se/e-bok/virtuella-moten-hur-du-leder-manniskor-i-moten-pa-distans-9789175693545
-

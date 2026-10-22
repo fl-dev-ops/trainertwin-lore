@@ -18,7 +18,3 @@ För dig som leder människor på distans: Vi bjuder på en timme med konkreta t
 Välkommen ^_^
 
 #virtuelltledarskap #ledapådistans
-
-### Shared Article: [Welcome! You are invited to join a webinar: Leda på distans. After registering, you will receive a confirmation email about joining the webinar.](https://bit.ly/3oeFFaG)
-> bit.ly
-

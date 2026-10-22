@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# What is the Client Buying From You?
-
-## Transcript
-
 speaker_1: Building the client avatar is one of the main stepping stones in understanding your clients what they want the problem they have how the problem is affecting them whats gonna happen if they will never change and never purchase a property So if you as an agent think that your clients are only there to make money you are losing a lot of clients just because youre doing the right price not solving their actual

@@ -22,27 +22,3 @@ Communication, employee engagement and results go hand in hand. Communicate as a
 #Communication #leadership #empathy
 
 Below, a picture when I was moderating a leadership event where listening skills is essential
-
-## Comments (7)
-
-### Henrik Perrin (Utbilning och stöd i Svåra samtal och Stressreducering.)
-> BINI. Be interested. Not interesting. 😁 💕
-
-### Eva Synnergren (Engagerad marknadsförare, webbdesigner, digital strateg och utbildare som hjälper företag lysa på nätet.)
-> Well put! Thanks.
-
-### Cristina Fogarolli ❤️☕️🇮🇹 (Barista & Founder på Fogarolli)
-> Wise words 🤫
-
-### Tage Olsin (Controller - Outsourcing | Enhancing processes | Delivering Efficient Reporting | ITIL Service Management)
-> One of the greatest skills is to listen. Not only to what is said, but also to what isn't said and based on those two "information sources" give the best advice there is.
-
-### Marika Hogland (Miljöinspektör på Lilla Edets kommun)
-> Great!
-
-### Annika Telleus (Unleashing the Power of Listening - Keynote speaker, author, podcast host, facilitator, coach)
-> Couldn’t agree more!
-
-### Cecilia Björk Bang-Melchior (Customer Experience Culture, Competence & Communication Lead)
-> Word Antoni!!! 💪🏼❤️
-

@@ -81,16 +81,3 @@ Feel you need a helping hand?
 Message me, I’d love to hear from you.
 
 #english #confidence #itprofessionals #careerelevation
-
-## Comments (2)
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Keep writing the amazing content.
-> 
-> It keeps bringing me here 
-> 
-> Loving it. 😇😇✅👍 Daniele Ponzo
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> There comes a time when we're afraid to step out of the shadows and do the things we've never been used to. We can force ourselves to embrace the familiar, and ditch the comfort zone.
-

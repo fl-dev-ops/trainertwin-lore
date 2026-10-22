@@ -35,16 +35,3 @@ As a leader you should have a North Star. Values that resonates with staff, cust
 These two cases are shining too. Just not the way they should. 
 
 That’s what I think. What’s your opinion?
-
-## Comments (2)
-
-### Cristian Parlea (Kundnära och relationsdriven profil | Service, struktur & affärsvärde)
-> Sad but true! Unfortunately, there are too many companies who pick some nice words and put a stamp on their brand to look nice, for marketing purposes. 
-> 
-> Do you want others to be inspired and follow your guidelines? Be the first to do what you preach, breath and live according to your values, be a role model! 
-> 
-> A good leader is a good follower.
-
-### Thomas Otnes (Product developer and engineer)
-> incongruent.... that used to be called hypocritical..... say one thing and do an other. Sadly all to common.
-

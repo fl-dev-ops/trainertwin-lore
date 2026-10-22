@@ -34,29 +34,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-### Shared Document: [Ho to talk about Graphs in English]()
-
-
-## Comments (5)
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Great graph vocabulary Daniele Ponzo, it is specific and not something you come across in everyday English.
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> You are absolutely right Daniele ))
-> 
-> Graphs are indeed the topping on your presentation pie
-> 
-> Describing graphs confidently is a game-changer
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> You're right Daniele: people who are particularly good at drawing graphs aren't always as skilled at explaining them.
-
-### Evridika Cuder (German Communication Coach for International Professionals | Helping professionals communicate confidently in German meetings & presentations | Cross-Border Communication)
-> Cool slides! And the topic! We've just covered the German version of it in one of my Group communication classes last week 😊
-
-### Lior Ziv (Psychologist · Speaker on digital disconnection, rest and focus · Founder @ Zing · Writer @ Let’s Rest • Follow for daily posts on the science of rest)
-> Great stuff here.
-> Going to utilize it - especially the peak visual.
-

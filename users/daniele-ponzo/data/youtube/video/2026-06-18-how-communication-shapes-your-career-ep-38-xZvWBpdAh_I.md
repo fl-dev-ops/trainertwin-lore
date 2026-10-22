@@ -55,11 +55,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How Communication Shapes Your Career | Ep. 38
-
-## Transcript
-
 speaker_1: speech So that we will leave the room making everybody feel seen feel heard and feel happy about it Every meeting and every conversations we have with people we should be uplifting them Make the world a better place I always say as well well I dont speak to impress you but at least dont depress you
 
 speaker_2: You are a professional and youre required for example to speak English to to deliver your speech in English or to simply connect in English And so many things happen in your mind at the same time You have thinking translation like self consciousness so how am I going to appear And you have your technical expertise as well So everything happens at once When we do it in our native tongue we we have one less problem to think about because its a its instinctual right When we have to use English then thats what we call the cognitive load which means your brain goes into this sort of over reaction and over activity as well Hi everyone Welcome to a new episode of the non native leader my video podcast series where we explore the lives the struggles the stories of international professionals who work in tech Fintech AI IT politics the arts the whole range of industries and they have one thing in common They were not born in an English speaking country So today I am honored and I have a great pleasure to have with me Melinda Melinda all the way from well Im not going to reveal it You so I I dont I dont like to spoil it you know So Melinda youre very welcome to the show and yeah so tell us a little bit So who are you Where are you What do you do You know

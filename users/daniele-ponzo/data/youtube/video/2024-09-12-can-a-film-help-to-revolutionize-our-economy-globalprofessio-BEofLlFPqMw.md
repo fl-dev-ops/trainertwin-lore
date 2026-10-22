@@ -54,9 +54,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Can a Film Help to REVOLUTIONIZE our ECONOMY? #globalprofessionals #podcast #internationalcareer
-
-## Transcript
-
 speaker_1: Um and thats simply because I think the promises people were made are no longer being fulfilled and thats largely due to the way our economies are being run And if we talk about nature and the environment we know that our economies and Im not even talking about the climate crisis Im talking about everything else too our economies are are wrecking the planet And these two people um I followed for for a few years and who have been making this film about they are fighting the political fight to change our economies

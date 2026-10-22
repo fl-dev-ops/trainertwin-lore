@@ -29,9 +29,3 @@ Bättre Kommunikation = Bättre Resultat
 Tack för att du läser mina tankar
 
 //Antoni
-
-## Comments (1)
-
-### Birgitta Sjöstrand (Conflict in hybrid teams costs hundreds of thousands. I teach managers to prevent it | Online programme (SE/EN) | Author, “Outstanding in the Middle”)
-> Vilken fantastisk person, jag blir inspirerad. Tack att du delar med dig.
-

@@ -30,13 +30,3 @@ Thank you Hailey! Loved the discussion!
 • Why Antoni Lacinai chooses LinkedIn marketing 
 • Antoni’s TedX talk preparation journey 
 • Public speaking techniques and strategies for effective communication"
-
-### Shared Article: [Antoni Lacinai: 5 Ways to Expand Your Reach & Leverage the 3 Communicative Superpowers! - Hailey Rowe](https://www.haileyrowe.com/antoni-lacinai/?amp)
-> haileyrowe.com  
-
-
-## Comments (1)
-
-### Kevin George (Your competitors aren’t better than you. They’re just easier to find. Founder, 25videos.com | 5,000+ videos, 50+ industries, NZ & AU)
-> Thanks for sharing
-

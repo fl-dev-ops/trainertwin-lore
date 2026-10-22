@@ -16,7 +16,3 @@ A non-technical post for the weekend -
 Here is a long conversation that I had with a student on my perspective of Indian Knowledge Systems. May be of interest to some of my connections 
 
 https://lnkd.in/gCkGxZwa
-
-### Shared Article: [Exploring Vedanta with Dr. Pratosh | Dvaita Advaita Vishishtadvaita | Indian Knowledge System |](https://youtu.be/mS6zSRBJTz4?si=FTZ7dI483N_a4ENP)
-> youtube.com
-

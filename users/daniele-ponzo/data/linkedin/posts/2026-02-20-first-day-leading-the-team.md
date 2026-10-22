@@ -5,6 +5,20 @@ url: https://www.linkedin.com/posts/daniele-ponzo_first-day-leading-the-team-hes
 likes: 55
 comments: 7
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEjOlRzVXvdZw/CeJxzMnGJqjA1NC4K8Q50DdXVcULiu1ig8l0d0fiuaHxfXQBu-xXt?e=1793178000&v=beta&t=sfNQjhffh31IRZx6cEh_PH_bYNJ8PELvIk-7M18x3d0
+author_comments:
+- |-
+  ▶️ For those wondering, this was my story.
+  First time officially leading a team after years of doing it informally.
+
+  I remember that corridor.
+  I remember the doubts.
+  I remember the impostor voice.
+
+  What helped me wasn’t perfection.
+  It was clarity.
+
+  Have you experienced something similar?
+  What did that first “official” moment feel like for you?
 ---
 
 First day leading the team.
@@ -78,34 +92,3 @@ After the meeting, one of the senior team members approaches him.
 Clarity.
 Not perfection.
 To beat Mr impostor.
-
-## Comments (5)
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> Morals: Don't let the Mr. Imposter to ruin your speech. Learn English here, if the story suits your role. And if not .. there is another way of preparing 😉 
-> 
-> (P.S. Gorgeous, Daniele Ponzo, how always).
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Clarity always beats perfection, Daniele Ponzo. Leading with trust and empathy makes your message land, even under pressure, and turns doubt into confidence across the team.
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> The what-if narrative! The very first place down a slippery slope!
-
-### Maryam Khan Lodhi (Co-Founder @ OPUS Consultants | Operations, Client Relations, Estimation Projects, Designs & Drawings, Permits.)
-> Trust often matters more than a perfect speech. Real leadership comes from small daily actions long before the official title.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ For those wondering, this was my story.
-> First time officially leading a team after years of doing it informally.
-> 
-> I remember that corridor.
-> I remember the doubts.
-> I remember the impostor voice.
-> 
-> What helped me wasn’t perfection.
-> It was clarity.
-> 
-> Have you experienced something similar?
-> What did that first “official” moment feel like for you?
-

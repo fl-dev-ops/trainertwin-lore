@@ -20,7 +20,3 @@ What do you think?
 #leadership #engagement #Hybridleadership
 
 https://buff.ly/3h9wF3W
-
-### Shared Article: [What Quitters Understand About the Job Market](https://buff.ly/3h9wF3W)
-> theatlantic.com
-

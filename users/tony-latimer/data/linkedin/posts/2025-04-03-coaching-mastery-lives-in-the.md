@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_coachingmastery-pcctomcc-icfmcc-
 likes: 15
 comments: 1
 images_count: 2
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 Coaching Mastery Lives in the Details—Join Us
@@ -31,9 +33,3 @@ If you’re a PCC or experienced ACC coach ready to coach at the next level, Sim
 🔗 Ready to coach at the level your clients truly deserve?
 
 #CoachingMastery #PCCtoMCC #ICFMCC #DeepListening #StretchAndTest #AdvancedCoachingSkills #ReflectiveCoaching #CoachThePerson #EmptyMindListening #ProfessionalCoaching #SimplicityOfMastery #CoachingEnergy #MentorCoaching
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

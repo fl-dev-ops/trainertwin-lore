@@ -50,11 +50,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Culture Shock to Confidence: A Non-Native Teacher’s International Journey | Ep. 35
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to a new episode of The Non Native Leader my video podcast series where we explore stories of people who were not born in an English speaking country but today they use English as their main language for work for life for both And if you follow this series you see weve uh spoken to people in IT Fintech the Arts Politics even So a wide range of industries and stories I am excited to have here with me today Gulbin I hope I didnt butcher your name Gulbin And shes a colleague shes also an English teacher and and thats all Im going to say because Id love for you to introduce yourself Gulbin So
 
 speaker_2: Mhm

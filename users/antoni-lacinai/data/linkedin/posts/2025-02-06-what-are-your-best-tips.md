@@ -30,19 +30,3 @@ In essence, 𝗗𝗼 𝘆𝗼𝘂 𝗖𝗔𝗥𝗘 𝗳𝗼𝗿 𝘆𝗼𝘂𝗿
 
 
 "𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘣𝘦𝘵𝘸𝘦𝘦𝘯 𝘱𝘦𝘰𝘱𝘭𝘦 𝘪𝘴 𝘭𝘪𝘬𝘦 𝘦𝘭𝘦𝘤𝘵𝘳𝘪𝘤𝘪𝘵𝘺 𝘵𝘰 𝘢 𝘮𝘰𝘥𝘦𝘳𝘯 𝘴𝘰𝘤𝘪𝘦𝘵𝘺. 𝘞𝘪𝘵𝘩𝘰𝘶𝘵 𝘪𝘵, 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘸𝘰𝘳𝘬𝘴."
-
-## Comments (3)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Care and Communication, both so important, in all aspects of work and home life
-
-### Marjie Hadad (Crisis & Leadership Communications Expert, keynotes & training to strengthen leadership communications and resolve, avoid, or better manage crises. Award-winning TV producer & Author | marjiehadad.com)
-> Fantastic Antoni Lacinai ! The type of communication matters too. Does it inspire or deflate? Words, tone and delivery matter. So too do actions.
-
-### Shil Shanghavi (Presented across 100+ countries | Head of Speaker Coaching at TEDxPerth | Public Speaking & Storytelling)
-> Hi Antoni Lacinai!
-> 
-> Dave Clare may have valuable input into this.
-> 
-> Also Claire Seeber is excellent with this topic 👋🏽
-

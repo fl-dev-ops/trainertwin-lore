@@ -25,25 +25,3 @@ Then decide what's next.
 You got this!
 
 PS. - Which of the five resonates with you? 1-5
-
-### Shared Document: [5 questions around quiet quitting]()
-
-
-## Comments (2)
-
-### Per E Claesson (Senior consultant (Freelance))
-> 1) It’s up to me and my ”leader motivating skills”
-> 2) Praise/recognition 
-> A) ”every minute”
-> B) ”from time to time”
-> C) ”never”
-> Reaserch shows => Team A wins! Then B, than C.
-> 3) Make my self the good example / be the role model and put up rules.
-> 4) No, but everyone must stand up for what the team/group decides.
-> 5) Yes! Every minute! :-)
-
-### Md. Safiullah (Helping Marketing Agencies Deliver Client-Winning Visuals |  Trusted by 400+ Clients | Hit Every Deadline. DM to Get Started.)
-> You explained perfectly 
-> 
-> Antoni Lacinai
-

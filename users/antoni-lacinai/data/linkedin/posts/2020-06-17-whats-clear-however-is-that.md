@@ -17,16 +17,3 @@ I have been an advocate of MORE communication when you lead a remote team, simpl
 What's your opinion? What is the optimal balance of communication when you work remotely?
 
 #Virtualteam #communication #virtualleadership
-
-### Shared Article: [The benefits isolation can have on your work](https://www.bbc.com/worklife/article/20200513-the-benefits-isolation-can-have-on-your-work?ocid=ww.social.link.linkedin)
-> bbc.com
-
-
-## Comments (2)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Jag har alltid älskar att jobba hemifrån! Och ser mina promenader med hunden som arbetstid! På helgen tar jag ledigt! Då blir det inga långpromenad #uppochnedpåvändavärlden ! Glad midsommar!
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> What is MORE communication?
-

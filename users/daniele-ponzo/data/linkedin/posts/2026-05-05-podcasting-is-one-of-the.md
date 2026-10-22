@@ -18,15 +18,3 @@ In this live session, Daniele Ponzo and I will break it down from a practical pe
 • Our personal journeys, lessons, and mistakes
 
 If you’ve ever thought about starting a podcast, or wondered if it’s worth it, join us on this LIVE session. Monday 1PM CET.
-
-## Comments (3)
-
-### Eshaana Pachai (Business English Teacher, Trainer and Coach)
-> Gydion and Daniele, thank you for this discussion. Very worthwhile with some fantastic insights about engaging non-native language speakers in conversation where they can naturally build their language skills while exchanging on topics that matter to them.
-
-### The Non-Native Leader - Podcast (443 followers)
-> Happy to be featured here, it was great to talk about milestones, challenges and wins! Thanks
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Thanks for the invite and the lovely chat, Gydion!
-

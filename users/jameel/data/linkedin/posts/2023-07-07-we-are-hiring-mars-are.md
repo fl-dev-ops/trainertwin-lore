@@ -15,7 +15,3 @@ Mars are looking for a Portfolio Manager to join our Royal Canin Veterinary Mar
 https://lnkd.in/gYJUN9jZ
 
 #marketing #hiring #growth #team #development
-
-### Shared Article: [Portfolio Manager - Royal Canin Canada - Vet Pillar](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Guelph/Portfolio-Manager---Royal-Canin-Canada---Vet-Pillar_R68524)
-> mars.wd3.myworkdayjobs.com
-

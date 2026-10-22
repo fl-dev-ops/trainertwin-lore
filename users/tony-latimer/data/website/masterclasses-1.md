@@ -5,9 +5,7 @@ date: "2007-01-01"
 source: website
 ---
 
-# Learn from top executive coach Tony Latimer
-
-# **Coaching Without Models**
+Coaching Without Models
 
 Coaching mastery is a fully Present, Connected and In the Moment experience. ICF says "an applicant for MCC will not receive a passing score if the coach is unable to move beyond standardised coaching questions or a standardised model"
 
@@ -15,9 +13,9 @@ This intense two hour Masterclass will introduce you to the power of coaching wi
 
 Tony has only taught his approach to corporate clients over the past 20 years. Now, for the first time he is opening his approach to all coaches, internal and external, to help lift coaching everywhere to a mastery level.
 
-#### ***Click the option below for your timezone.***
+Click the option below for your timezone.
 
-## What you will get
+What you will get
 
 - Access to a recorded master coaching session with a real corporate executive struggling with a huge career decision (value $59)
 - Downloadable transcript of the coaching demo (value $59)
@@ -25,11 +23,11 @@ Tony has only taught his approach to corporate clients over the past 20 years. N
 - Analysis of the session against the ICF competencies by top MCC Mentor Coach, Fran Fisher (value $300)
 - A two hour Masterclass where I will teach you how to do what I do. My coaching does not come from a traditional school, I will show you the approach to coaching without models that I have developed over years of research, analysis and practice. (value $1,200)
 
-##### ***All for just USD $268***
+All for just USD $268
 
-*Audio recordings of the coaching session and analysis call are provided courtesy of Moore Master Coaching [www.mooremastercoaching.com](http://www.mooremastercoaching.com)*
+Audio recordings of the coaching session and analysis call are provided courtesy of Moore Master Coaching www.mooremastercoaching.com
 
-## Why join me for this Masterclass?
+Why join me for this Masterclass?
 
 Back in 2007 I was struggling to make the huge leap from being a competent PCC level coach to being ready to take my MCC exam. The jump in hours of coaching practice required is huge, and rightly so, because the jump in skill required is even bigger.
 
@@ -55,22 +53,21 @@ The world needs more coaches, and it needs high quality, effective coaches. Coac
 
 I'm going to share what I know; the stuff I've figured out over the years. It's powerful and it works.
 
-#### **Don't just take my word for it.**
+Don't just take my word for it.
 
-In her 2021 WBECS pre-summit class my friend **Dr Marcia Reynolds** was asked *"To coach for transformational breakthrough, is there a better framework than the GROW model?"*
+In her 2021 WBECS pre-summit class my friend Dr Marcia Reynolds was asked "To coach for transformational breakthrough, is there a better framework than the GROW model?"
 
-**Marcia laughed and said "Talk to my friend Tony Latimer in Singapore. He showed me his approach to coaching without models.** Just helping clients get clarity on on where they are NOW and where they want to be in the FUTURE, and then the masterful coaching happens in the middle."
+Marcia laughed and said "Talk to my friend Tony Latimer in Singapore. He showed me his approach to coaching without models. Just helping clients get clarity on on where they are NOW and where they want to be in the FUTURE, and then the masterful coaching happens in the middle."
 
+I did a live coaching demo recently for Moore Master Coaching, run by Gail Moore; the first time I have ever done a demo for coaches to listen to; and the participants said:
 
-I did a live coaching demo recently for Moore Master Coaching, run by Gail Moore; the first time I have ever done a demo for coaches to listen to; and the **participants said:**
+- So exciting to be presented with a new way or working.
+- I loved the 3 steps to clarity!
+- The beauty and power of connecting the coach’s subconscious with the client’s subconscious.
+- What a true master of his craft.
+- Tony is amazing and I want in on the MasterClass he mentioned.
 
-- ***So exciting to be presented with a new way or working.***
-- ***I loved the 3 steps to clarity!***
-- ***The beauty and power of connecting the coach’s subconscious with the client’s subconscious.***
-- ***What a true master of his craft.***
-- ***Tony is amazing and I want in on the MasterClass he mentioned.***
-
-### Join me for this new masterclass and you will get access to:
+Join me for this new masterclass and you will get access to:
 
 - #### The recording of that coaching session
 - #### A downloadable transcript

@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# 10-Months Experienced  @React  Engineer's Mock Interview ❌ Why she Rejected in Tekion Interview
-
-
-## Transcript
-
 speaker_1: Paul welcome back to Keral with Vasant YouTube channel My name is Vasant With me today I have Shini As you know this is an interview series where were recording a lot of mock interview Shini is having around nine months of overall IT industry experience So this interview is primarily focused on fundamentals of JavaScript and React We are going to dig deeper into a lot of concepts So Im not going to take a lot of time on this But only the one thing that I would suggest is the best way to make utilize of this mock interview would be try to answer questions whenever asked to Shini and then go forward
 
 

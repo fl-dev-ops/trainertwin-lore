@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Qualifying Lead The Right Way - How To Ask About Past Experiences - Part 1
-
-## Transcript
-
 speaker_1: were going to be role playing past experiences So how do we ask about the past experience Why its important to talk about the past experience you guys Uh most of the clients they do have some sort of um I would say most maybe not themselves but the clients do have um fears very much connected with someone lost money or I was about to book the property but then the other agent contacted me and the price was different So I just like I just feel its all the scam Uh if youre not going to pull it out so thats if youre not going to pull it out of your clients early stages Marianne are we recording this
 
 speaker_2: Yes yes yes its already recording

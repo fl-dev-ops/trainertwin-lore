@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Reidin Training - Part 1
-
-## Transcript
-
 speaker_1: I will be maybe guiding you with the questions so you can focus on the areas of trading which will be beneficial for us Were not doing
 
 speaker_2: Absolutely yes

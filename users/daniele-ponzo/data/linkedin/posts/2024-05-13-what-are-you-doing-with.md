@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-speaki
 likes: 16
 comments: 7
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
+   
+  🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
 ---
 
 What are you doing with your language?
@@ -85,24 +94,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #english #itprofessionals #speaking #confidence
-
-## Comments (4)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
->  
-> 🤝 Reach out and book a chat, so I can give you some tips to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> Recording ourselves while scary at first (we are our worst critic) works wonders to improve.
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great points Daniele Ponzo - we've got it backwards! 🙃
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Love the meme! 😂👏
-

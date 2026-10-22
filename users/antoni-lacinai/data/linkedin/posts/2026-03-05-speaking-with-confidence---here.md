@@ -20,17 +20,3 @@ Thanks, Tim, for a fun dialogue!
 https://lnkd.in/dwMUmzAr
 https://lnkd.in/dQKs_rKp
 https://lnkd.in/dZ9CiFf2
-
-## Comments (2)
-
-### Anna Crociani (Supporting Personal and Organizational Wellbeing & Growth // Co-founder Winning Tribe)
-> I love "energy is the oldest communication tool" Energy is in everything, the way you move, the way you talk, the way you approach people, the way you think.. ✨️💪 will listen to the whole podcast!
-
-### Tim Newman (I Help Gen Z and Business Owners Bridge the Communication Gap Through Interactive Communication Training | Best Selling Author | Public Speaking Coach | Podcast Host | Book a Discovery Call With Me in My Featured Section)
-> Antoni Lacinai, this was a blast. I loved the conversation. 
-> Here are a few of my favorites from your list:
-> “Clarity beats cleverness.” That one alone would fix about 80% of workplace communication.
-> And “Recognition drives performance.” Leaders underestimate that one all the time.
-> Thanks again for bringing your insight, energy, and perspective to the show. I’m pretty sure people will walk away from this episode with a few “oh…that’s why my meetings are a mess” moments.
-> Appreciate you being on the show, my friend.
-

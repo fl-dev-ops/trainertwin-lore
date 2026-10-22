@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Mastering Curiosity: The Art of Intrigue and Decision #shorts
-
-## Transcript
-
 speaker_1: This call is not about that Do you want me to tell you why Im calling And then you decide should we continue or you want to hang up now
 
 speaker_2: Yeah

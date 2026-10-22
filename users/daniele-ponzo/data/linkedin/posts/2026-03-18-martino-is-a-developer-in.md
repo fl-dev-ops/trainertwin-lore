@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_martino-is-a-developer-in-1995
 likes: 29
 comments: 16
 images_count: 1
+author_comments:
+- '⚡ You don''t want to miss this. Register here: https://www.linkedin.com/events/7439584728418140160'
 ---
 
 Martino is a developer.
@@ -111,33 +113,3 @@ Link in the comments.
 
 “Great Scott!”
 You don’t want to miss this.
-
-## Comments (9)
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> OMG poor guy he must've felt absolutely awful 😂
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Understanding problems and making decision will always be crucial, no matter how much tech changes Daniele Ponzo
-
-### Gianluca Gagliano (Mappare, misurare, governare, custodire l’invisibile, dalla geometria del significato dentro un modello linguistico alle briglie per gli agenti che scrivono codice - Technical Lead - Software Architect/Developer | /bride)
-> Where should we meet?
-
-### Tom Otto (SWE → Founder @ Mockly & Launch Llama | Helping founders launch | 80K+ newsletter audience)
-> Sounds like an insightful discussion, looking forward to it
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Technical skill still matters, but value now comes from judgment, communication, and context, Daniele Ponzo. AI writes faster, yet clear thinking and clear English still decide who drives the work.
-
-### Christopher Wright (Co-Director. Trainer. Helping companies and professionals to speak, meet and present more effectively and confidently in English. Classes and workshops.)
-> As a big fan of the film series BTF this is a brilliant way of bringing to life now a key present and future dilemma/question facing developers, "What makes a developer valuable now?" Doc would be definitely be curious to join your live talk on Friday at 16h. Great Scott! You've done it now, Daniele Ponzo!
-
-### Vladan Ulardzic (Software Developer)
-> CFRMP
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Brilliant, I can just see this software developer speeding down the road and taking off in doc's DeLorean!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ⚡ You don't want to miss this. Register here: https://www.linkedin.com/events/7439584728418140160
-

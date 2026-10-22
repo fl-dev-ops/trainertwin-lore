@@ -21,13 +21,3 @@ article:
 #Hybridleadership #communication #engagement #futureofwork
 
 In the link you'll find an interview with me - in Swedish. Check it out if you want to know more, or get in touch with me and I'll give you more insights.
-
-### Shared Article: [Så klarar du det nya hybridledarskapet - Chefstidningen](https://buff.ly/3tAbzSv)
-> chefstidningen.se
-
-
-## Comments (1)
-
-### Emma Kirkman (Leadership Strategy | Culture | Transformation)
-> All three are excellent points - but have witnessed the awkwardness of the third one first hand!  I've heard of organisations who have cupcakes and refreshments delivered to those who are joining hybrid celebration meetings virtually. Not always a viable option but I think it's a wonderful consideration.
-

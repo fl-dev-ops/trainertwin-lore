@@ -23,15 +23,3 @@ Pronti a fare networking e a costruire il futuro insieme! 🔥
 Perché i portatori di stand sono destinati ad incontrarsi!
 
 #WeMakeFuture #WMF2026 #BolognaFiere #Innovazione #AI #Tech #Networking #DigitalInnovation #JoJo
-
-## Comments (3)
-
-### Valerio Colucci (Warehouse Worker | Computer Technician | Logistics Analyst)
-> Belli voi! 🫶🏻
-
-### WMF - We Make Future (36,581 followers)
-> Sarà un’edizione incredibile, la più grande e ricca di sempre! Non vediamo l’ora di viverla insieme. #WeMakeFuture #WMF2026
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Un caldo sensa senso! Ci vediamo domani 💪💪
-

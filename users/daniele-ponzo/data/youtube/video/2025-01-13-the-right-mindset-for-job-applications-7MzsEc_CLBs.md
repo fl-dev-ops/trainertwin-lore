@@ -37,11 +37,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Right Mindset for Job Applications
-
-## Transcript
-
 speaker_1: Because if you are desperate to get a job youre not going to get it You want to let go and allow things to happen themselves naturally And that is something I found when I moved to Ireland And you can have the luxury the luxury of saying this and adopting these strategies as in okay what can give me Its I mean maybe I dont want it You know Im not here desperate Only once I was not offered the job in my life Self confidence um full awareness of your tools your capacity uh your background
 
 speaker_2: Yeah

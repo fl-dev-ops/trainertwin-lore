@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Live objection handling + Objection loops
-
-## Transcript
-
 speaker_1: Okay objections Okay so we have objection prevention and we have objection handling Whats the difference I think Tony was saying something I mean one obviously is preemptive Okay Handling the issues before they even become issues Yeah exactly right Because remember well lets go here There are only three places that theyre in the whole conversation Theyre either being disarmed And open or theyre in the fight box or theyre in the flight box Okay and sometimes it goes around in circles especially when youre learning this Its a constant thing to get them to stay over here You want to be over here most of the time compared over here especially at the end Okay so objection prevention We really want if we do this right we can prevent probably seventy It depends on what you sell to but Id say we can probably prevent seventy percent of the objections youre getting now Once we really learn like how to seed certain things even say like just little things like lets say that were able to come in were able to do XYZ like we do with other clients just like little things like that start preventing more objections and more concerns It just kind of keeps disarming disarming disarming
 
 speaker_2: All right

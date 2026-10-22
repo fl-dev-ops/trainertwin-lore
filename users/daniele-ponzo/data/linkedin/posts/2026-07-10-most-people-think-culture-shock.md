@@ -16,15 +16,3 @@ Understanding these differences can help you integrate faster and build stronger
 👉 Follow for insights on communication, confidence, leadership, and English for international careers.
 
 #Shorts #CultureShock #InternationalCareer #CrossCulturalCommunication #Leadership
-
-## Comments (2)
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Cultural adaptation goes beyond learning a language. 
-> Understanding different expectations and communication styles is what helps people build stronger connections across cultures.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> "From language to leadership" watch the full video here: 
-> 
-> https://www.youtube.com/live/3MDxImyCurw
-

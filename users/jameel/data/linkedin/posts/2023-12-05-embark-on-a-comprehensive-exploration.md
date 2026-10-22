@@ -37,7 +37,3 @@ Wrap up with a treasure trove of recommended resources for continuous growth.
 Whether you're a finance enthusiast, aspiring leader, or curious learner, this video is your passport to a successful finance career. Tune in for a captivating discussion that combines practical advice, personal anecdotes, and strategic guidance! 📈💼 #FinanceLeadership #CareerSuccess #FinancialInsights
 
 https://lnkd.in/gz7pMjpn
-
-### Shared Article: [Mastering Finance Leadership: Insights from a Global CFO – Technical and Human Skills Unveiled!](https://youtu.be/U1Tc8ZP3Kns?si=5Mxhs6qr6mu-n7hs)
-> youtube.com
-

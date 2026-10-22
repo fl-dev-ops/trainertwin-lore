@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# When Drinks Matter More Than Meetings #shorts
-
-## Transcript
-
 speaker_1: you see I I I think that its very important also to know how to drink because with certain people you need to know how to drink with the English with the Chinese with the Chinese it was incredible I didnt stop drinking They have this this uh white uh white wine they call it Its uh its uh slightly killer but its 75 degrees of alcohol Yeah
 
 speaker_2: Yeah

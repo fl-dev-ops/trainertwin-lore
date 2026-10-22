@@ -13,9 +13,3 @@ Glad to have been a guest, talking to Roberta Ndlela  about what great communica
 Listen while jogging, walking, driving, attending boring virtual meetings (no, don’t do that)
 
 #communication #engagement #keynotespeaker
-
-## Comments (1)
-
-### Roberta Ndlela (Communications Expert | Public Speaking Coach | Podcast Host)
-> Antoni Lacinai - podcasting is so much fun with guests like you. Thank you for being on the show and sharing stories from your work in this very important skill of communication.  Boring virtual meetings...hope no one gets in trouble ha ha ha
-

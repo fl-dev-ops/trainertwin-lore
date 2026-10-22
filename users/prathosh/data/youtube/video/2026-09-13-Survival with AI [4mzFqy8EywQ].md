@@ -11,10 +11,6 @@ speakers:
   speaker_1: null
 ---
 
-# Survival with AI
-
-## Transcript
-
 speaker_1: When machines came there was this group of people called Luddites you know what they did they went and destroyed these machines
 
 

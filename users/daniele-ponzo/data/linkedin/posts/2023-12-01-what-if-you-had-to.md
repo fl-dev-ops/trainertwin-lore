@@ -41,19 +41,3 @@ Hi, I'm Daniele. I post about language improvement, Tech and (occasionally) my p
 Follow ➡️ Daniele
 
 #music #soundtrack #machine
-
-### Shared Document: [Humans and Machines in Music]()
-
-
-## Comments (2)
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great tracklist there Daniele Ponzo, especially 'Robots' by Kraftwerk, although I reckon you could include a few of their tracks here! I have a CD compilation called "Do Androids Dream of Techno Jazz?"
-
-### Eduard Hadjolian (Transforming managers into inspiring, people-first leaders! ✴️Business Facilitator & Certified Mountain Guide)
-> You can't miss this one:
-> 
-> https://www.youtube.com/watch?v=lt-udg9zQSE
-> 
-> Have a wonderful weekend Daniele Ponzo!
-

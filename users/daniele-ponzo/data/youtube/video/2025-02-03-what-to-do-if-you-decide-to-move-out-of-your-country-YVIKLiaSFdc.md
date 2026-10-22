@@ -18,9 +18,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# What to do if you decide to move out of your country
-
-## Transcript
-
 speaker_1: with the fact that then people see yes they take their first opportunity outside but then its really difficult you know to find opportunities back home again just because they start once you go out you start developing you know other networks you start reaching out and then it becomes in a way much easier to continue to perpetuate this this life as an expat or a life you know moving around This is if you decide to move out If you decide to have a career that is international um I think theres a lot of resources and I just recommend looking into those I mean theres this whole movement called digital nomads right Like so you can kind of be anywhere you want and and have different types of careers and um those are things I think that were you know more and more there are tips and tricks out there that you can follow and look into and just also see what other people are going through what their experiences are So I just recommend looking into that as well Just look at what are people

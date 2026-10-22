@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Sell Secondary Market Part I
-
-## Transcript
-
 speaker_1: Secondary market sales model This is the simple model of representation of secondary market sales process which Ryan Serhant is not talking about Its 90 percent of the time where where secondary secondary agent is allocating his time over here Yeah which is the first pillar lead generation You are your own lead generation you and your phone There are a couple of um kind of difficulties over here We do not have a legal owners database First of all the buyers are the one who is paying commission so the sellers get all of the work for free Why would I waste my time Specifically I dont even have any portal where I am as a seller will be able to list my property Doesnt exist Property Finder well you can do it on Dubizzle but its like its really not the best place to find the buyers because everyone goes to Bayut and Property Finder On Bayut and Property Finder you cannot list your property as individual There is a marketing uh lets say package that the company can purchase With a real estate license and then based on the rules of Dubai Land Department on how you can list your property you will be then to put the listing online Its been changed for past 3 years significantly Rules been kind of getting more and more tough Well realistically guys that you are building now your own business As any business owner you have to become a little bit of marketer a little bit of lawyer a little bit of accountant a little bit of this a little bit of that Yeah Now its way more easier than before believe me Okay Yeah So the first thing they have to do for you to be even visible on secondary is to start lead generation through cold calling Which is illegal in Dubai Explain you guys Yeah These owners and Im completely on it these owners are having 10 15 calls a day
 
 speaker_2: Yeah

@@ -28,7 +28,3 @@ Kraften i ett bra handslag! Runt 46,30 in på det här programmet pratar jag om 
 Nu kan ni börja analysera
 
 https://lnkd.in/dkbPyyDh
-
-### Shared Article: [Starka nypor längre liv - Kropp & Själ](https://www.sverigesradio.se/avsnitt/starka-nypor-langre-liv)
-> sverigesradio.se
-

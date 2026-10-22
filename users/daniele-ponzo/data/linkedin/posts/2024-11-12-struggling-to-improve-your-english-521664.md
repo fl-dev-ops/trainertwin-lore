@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_tech-itprofessionals-english-a
 likes: 33
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQE8fAoAGMTKwQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1731393086407?e=1793178000&v=beta&t=eSM8-xhCZsDjN267_SAk15TzRKNlO7SddK0xBowDFlA
+author_comments:
+- 📌Struggling with Impostor Syndrome? Join me LIVE ⬇️  https://www.linkedin.com/events/7265251390476742656/about/
+- '🔎 If you want to watch the full recording, here is the link: https://youtu.be/05jclWCSU9g?si=jGPjykMWzqXcd9kN'
 ---
 
 Struggling to improve your English?
@@ -59,21 +62,3 @@ Let mew know in the comments, I’d love to know your thoughts 👇
 P.P.S. I want to thank Anna Aleksenko again for helping me get into action in our live webinar a couple of weeks ago 🤝 
 
 #tech #itprofessionals #english
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Struggling with Impostor Syndrome? Join me LIVE ⬇️  https://www.linkedin.com/events/7265251390476742656/about/
-
-### Antonio Luca Scarcelli (🤖Sviluppatore di agenti AI che si occupano di gestire il tuo intero processo di setting in modo totalmente automatico. (da 10k a 50k$ di fatturato dopo 1 di applicazione,+800 call prenotate in 8 mesi e molto di più))
-> Personally, I read 5-10 pages a day of a book I like out loud, but I do that by restarting a sentence every time I stutter or make a mistake and go to the next one only when I pronounced the previous one perfectly. It's been working amazingly for me.
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo Recording yourself on video everyday.is phenomenal advice.I tried it everyday for a week now and I can see a huge improvement not only in my speaking abilities but in my confidence when talking to people .I think this is the main reason why You Tubers  become so sociable and confidence. ...it's because they  record themselves  almost everyday  and learn from their mistakes.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Taking action, even in the face of potential mistakes, is essential for growth. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🔎 If you want to watch the full recording, here is the link: https://youtu.be/05jclWCSU9g?si=jGPjykMWzqXcd9kN
-

@@ -20,7 +20,3 @@ Preparing for your next supply chain job interview or seeking career guidance? L
 
 
 #SupplyChainMasters #SCM #CanadaEducation #SupplyChainCareers #MastersInSCM #Logistics
-
-### Shared Article: [Top 5 Canadian Universities for Supply Chain Masters -2026 Rankings!](https://youtu.be/zunZjmVBt5A)
-> youtube.com
-

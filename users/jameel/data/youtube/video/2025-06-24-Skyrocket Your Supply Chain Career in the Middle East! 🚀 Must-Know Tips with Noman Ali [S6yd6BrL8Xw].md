@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Skyrocket Your Supply Chain Career in the Middle East! 🚀 Must-Know Tips with Noman Ali
-
-
-## Transcript
-
 speaker_1: But the actual skill sets that I even talk to my clients and everyone is looking for people who are accustomed to the digital skill sets the technical and digital skill sets that do they understand and they are very specific about their requirements that have they worked on this ERP have they worked on this WMS what is the environment that they are working on because right now the companies do not have the time to teach anymore
 
 

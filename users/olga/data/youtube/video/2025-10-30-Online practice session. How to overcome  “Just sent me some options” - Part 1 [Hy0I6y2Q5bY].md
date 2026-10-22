@@ -17,11 +17,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# Online practice session. How to overcome “Just sent me some options” - Part 1
-
-## Transcript
-
 speaker_1: I know that we kind of got that last minute more or less We dropped a Google Form where were going to be doing it all the time so you can submit the questions or the topics that you want to go through on this online training I know Marianne told me that there was one topic submitted which is how to respond if the client is just telling you just send me some options And I would believe its going to be both ways when the B2B I mean the agent is saying so and when the end user is saying so So I can briefly touch point on that There is already already um lets say sentences on what to answer on that in the script book does exist Uh however I want to talk a little bit more about what your thought process behind it Yeah makes sense guys
 
 speaker_2: Yes

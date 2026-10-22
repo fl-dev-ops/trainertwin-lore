@@ -14,11 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Getting From Newbie to A top Agent
-
-## Transcript
-
 speaker_1: Yeah you cannot imagine how many videos I recorded which I felt oh my God That was like a piece of art I was in the flow and I was doing everything Microphone is off This one is not working And Im just da da da Theres no sound anyway Okay so some of you who do have experience hey hey come in Some of you do have a bit of experience I mean a little bit is fine Rohan right Do you have an experience What have you been selling before Say it again Okay so how youve been selling that brand Okay you still having it Okay but how you for you was the beginning of that journey when you just started it Did you know how to sell
 
 speaker_2: I learned from the States from Paris from experience

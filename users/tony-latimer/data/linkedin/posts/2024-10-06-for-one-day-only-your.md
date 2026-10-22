@@ -15,10 +15,3 @@ I am offering six 45-minute coaching sessions, one to one, in return for a minim
 The booking website is now ⭐️ live⭐️ - it’s first come first serve! 
 Visit https://lnkd.in/dirW3VCM
  and type my name in the search bar to book with me.
-
-## Comments (1)
-
-### Malin Rosenkvist (Director of Fundraising at MicroLoan Foundation)
-> To my fellow Board members at Microloan Foundation Australia this is one of the many brilliant coaches giving his time and expertise to the charity for #Coachathon2024 
-> Ketki C. Clive Hughes david barwise Dr. Isaac Balbin Brian Keen Madeleine Van Chris Mcardle
-

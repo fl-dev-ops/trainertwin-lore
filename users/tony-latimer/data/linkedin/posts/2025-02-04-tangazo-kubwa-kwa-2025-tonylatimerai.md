@@ -31,7 +31,3 @@ Fikiria kuwa na hifadhidata nzima ya Profitable Leadership® tayari kukusaidia
 Tufanye 2025 kuwa mwaka wa ukuaji na uongozi wenye kujiamini! 🎯
 
 #MaendeleoYaUongozi #MenejaWaWatu #AI #VifaaVyaUkocha #Usimamizi
-
-### Shared Article: [TonyLatimer.ai: On-demand Leadership Mentoring & Training](https://profitableleadership.com/ai)
-> profitableleadership.com
-

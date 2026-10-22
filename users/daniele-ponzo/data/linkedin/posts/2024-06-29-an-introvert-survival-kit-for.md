@@ -40,27 +40,3 @@ Have a great weekend, everyone!
 image credit: Speedbump.
 
 #smalltalk #introvert #english
-
-## Comments (3)
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Is it bad that I really love conversation that gets into everything we "shouldn't" talk about. They are the best! Bit of healthy conflict makes for a great conversation. I'm not one for enjoying big social events but give me a corner with a great taboo conversation and I'm happy Daniele Ponzo. Maybe its because I'm Irish 🙈😂
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Haha love this Daniele Ponzo
-> 
-> You'll master small-talk by the time you leave Ireland. We live and breathe it here!
-> 
-> Have you got around to the custom of 'first refusal' yet? 😉
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> As an ambivert it is a bit easier, cause can shift on the other personality side & pick up a lot of conversations. 
-> 
-> But at the end 🔚 of energy feel that need to shift from this party really quickly, despite from very EI smily person everyone would see the angry part who just want to kill everyone who not shut up. 
-> 
-> So better run from the place at this case to protect those nice people, who done nothing special to you :) 
-> 
-> Party struggles. Previous work colleagues know everything about that shifting on lone mode.
-> 
-> Good lessons, Daniele 👏
-

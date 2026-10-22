@@ -18,7 +18,3 @@ Please feel free to connect with Kirk Hoeffner &/or I about this career opportun
 🐾 #PetCare #HiringOpportunity #AuroraNebraska 
 
 https://lnkd.in/e96JqjPQ
-
-### Shared Article: [HSE Technician job in Aurora, Nebraska, United States | Supply Chain & Engineering jobs at Mars](https://careers.mars.com/us/en/job/R98497/HSE-Technician)
-> careers.mars.com
-

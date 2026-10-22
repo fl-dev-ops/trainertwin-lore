@@ -23,11 +23,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Learning English Through Video Games (Not Textbooks) #shorts
-
-## Transcript
-
 speaker_1: thats not easy but at the same time it shows like the passion can actually bridge the gap like in your case So it was it started as a young kid and then you know it took you to what you do today which is great Just all through passion and all through the fact that you managed to find a way to communicate through computers video games coding uh which I think its its a brilliant story and uh
 
 speaker_2: Exactly And then video games I learned English Exactly And then yeah and then you Because I was playing online on Crossfire on uh on all sorts of um of of uh of video of online video games of shooting video games You know at that time I was older age And also on Metin 2 for those who can remember it

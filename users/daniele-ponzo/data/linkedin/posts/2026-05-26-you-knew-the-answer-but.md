@@ -145,33 +145,3 @@ Because once you see the pattern…
 you finally sound as senior as you already are.
 
 Curious: Do you notice yourself softening your opinions in meetings?
-
-## Comments (9)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Confidence in communication often matters as much as the quality of the idea itself.
-
-### Cedric Lee🧬(DNA Storyteller) (🎯 DNA Storyteller | Founder of ConnectingDNA | Building the World’s First DNA-Wellness Digital Infrastructure)
-> Nice one Daniele Ponzo. It's wild how the clearest thought in the room can sound like the least confident one.  😅
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> yes when we analysis the problem from multiple perspectives, the solution is easier to find
-
-### Nádia Oliveira (English Communication Mentor | Helping Portuguese-speaking Professionals Communicate Confidently in English | Speech Accuracy, Intercultural Strategy & Career Impact | 13 Years in B2B Translation + Tutoring)
-> Wonderfully put, Daniele. Patterns of behaviour and language go hand in hand. Emotions manifest not only in spoken language itself but precisely in these small patterns and that cognitive overload you described so well. That's why I couldn't agree more when you say the first step is 'slowing down'. Just this small adjustment already makes such a huge impact! And then of course a proper diagnosis and an actionable, structured plan will go a long way toward building confidence and changing these patterns for the better. Keep up the wonderful work!
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Executive presence is often lost in delivery patterns, not capability Daniele Ponzo. Clarity under pressure comes from structure, practice, and reducing cognitive load before speaking.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Confidence in speaking really matters. Daniele Ponzo
-
-### Emanuel Balsa (Helping 36K+ professionals make smarter money, career and, AI decisions | Daily lessons | Free quiz ↓ | Talks and partnerships, happyhelp@emanuelbalsa.com)
-> I learned clear thinking needs slower speaking. Pressure hides good ideas more than weak skills.
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> Very nice post buddy. Noticing the pattern is the very first step before even trying to fix anything.
-
-### Erin O'Byrne (Post Roaster for online language teachers. I show you what’s missing in your posts and guide you to rewrite them yourself. Create posts to get the students who don’t suck your soul dry.)
-> Spotting patterns of behaviour is the key to clear insight into the reason why your students are stuck and a lot of teachers don't talk about it.  I think it's because they feel it's somewhat obvious, but if you're knee-deep in a stressful situation, you can't see the wood for the trees sometimes.
-

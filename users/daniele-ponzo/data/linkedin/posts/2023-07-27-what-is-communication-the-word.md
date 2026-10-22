@@ -5,6 +5,14 @@ url: https://www.linkedin.com/posts/daniele-ponzo_communication-itprofessionals-
 likes: 6
 comments: 2
 images_count: 1
+author_comments:
+- |-
+  🙏 Incredibly grateful for the opportunity to have worked 1on1 with some extraordinary IT Professionals. Their wins are by far the most rewarding part about what I do.
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-english-communication-activity-7092499658605785088-qjxv?
+- |-
+  A paper on the topic: http://www.penacclaims.com/wp-content/uploads/2018/08/Archit-Dixit.pdf
+
+  An interesting article: https://www.fwdcollective.io/news/feedback
 ---
 
 What is communication?🗣
@@ -66,15 +74,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
  #communication #ITprofessionals #message
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🙏 Incredibly grateful for the opportunity to have worked 1on1 with some extraordinary IT Professionals. Their wins are by far the most rewarding part about what I do.
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-english-communication-activity-7092499658605785088-qjxv?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> A paper on the topic: http://www.penacclaims.com/wp-content/uploads/2018/08/Archit-Dixit.pdf
-> 
-> An interesting article: https://www.fwdcollective.io/news/feedback
-

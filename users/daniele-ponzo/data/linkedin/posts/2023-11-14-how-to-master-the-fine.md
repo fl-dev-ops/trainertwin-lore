@@ -47,6 +47,3 @@ Hope you got some value here. If you did, remember to follow and hit the bell on
 Follow ➡ Daniele
 
 #english #selling #persuasion
-
-### Shared Document: [The fine art of persuading others in IT]()
-

@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# German vs. English—The Challenge of Cultural Identity
-
-## Transcript
-
 speaker_1: Im Australian oh lets speak in German and then they you know just realize that you know all the expressions are in English so
 
 speaker_2: Yeah it just doesnt work does it And so new adventure in an English speaking country and how was the impact when you started there

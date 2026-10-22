@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-inspir
 likes: 24
 comments: 3
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQEUev7DsFbTUQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1699304717559?e=1793178000&v=beta&t=Le-ViLFvqOg99dYPxSiJV6rsz_X8FCPavc99W-f0Wvg
+author_comments:
+- 'If you want to know more, here you can find the full episode: https://youtu.be/wLrXYOUyOQ8'
 ---
 
 What’s more important for you: job security or doing what you love? 
@@ -35,12 +37,3 @@ P.S. get the full episode in the first comment below 👇 see what overcoming fe
  Follow ➡️Daniele
  
  #english #itprofessionals #inspiration
-
-## Comments (2)
-
-### Steve Sands (Human Resources Consultant (Steve Sands HR Consultancy Ltd))
-> Excellent and no better person.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If you want to know more, here you can find the full episode: https://youtu.be/wLrXYOUyOQ8
-

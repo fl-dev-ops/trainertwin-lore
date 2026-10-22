@@ -20,13 +20,3 @@ Jag kunde inte sluta titta på det här klippet med Jordan Klepper. Han är helt
 Manipulativt och oerhört imponerande på samma gång. 
 
 #kommunikation
-
-### Shared Article: [The Daily Show on Instagram: “What’s better than @JordanKlepper at a Trump rally? Here’s a compilation of his greatest hits.”](https://bit.ly/397TDSQ)
-> bit.ly
-
-
-## Comments (1)
-
-### Martin Theorin (Rådgivare Skillspartner Talarbyrå & Utbildningar/Ägare MT Meetings)
-> Helt grymt tycker jag! ”Kloka” människor säger sanningar som de sedan blir säger emot sig själva....utan att förstå att de gör det! Magiskt!
-

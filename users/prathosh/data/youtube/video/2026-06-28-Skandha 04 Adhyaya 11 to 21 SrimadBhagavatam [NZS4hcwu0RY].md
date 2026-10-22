@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 04 Adhyaya 11 to 21 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: मैत्रेय उवाच
 प्रजापतेर्दुहितरं शिंशुमारस्य वै ध्रुवः
 उपयेमे भ्रमिन्नमतत्सुतौ कल्पवत्सरौ

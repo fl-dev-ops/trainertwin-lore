@@ -20,9 +20,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why People Ignore You (Communication Mistakes Explained) Master Communication Like a Leader #shorts
-
-## Transcript
-
 speaker_1: I always go back to the roots right Communication So the word it comes from Latin yeah Communicare So it literally means to put in common to share So essentially to communicate means lets say two elements they need to share something and they need to find a common ground Again common communicate So it means really that I have something you have something we put them in common and I make that something that I have I tweak it I change it in a way that you can understand it and you do the same so we find a common ground we meet halfway lets say and thats when a message becomes something more It becomes something that you and I can understand something that we can both relate to something that is now common so we are communicating

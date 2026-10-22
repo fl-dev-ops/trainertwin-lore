@@ -41,25 +41,3 @@ Would you add any other ideas here?
 Let me know in the comments below
 
 #learning #tech #ai #language #english #englishvocabulary
-
-## Comments (6)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Awesome tips Daniele. Love the last one. AI tools are a great way to work on our pronunciation thanks to the instant feedback we get back 👏
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Some solid tips here. I always recommend using an monolingual dictionary as soon as possible, even if it takes you 2 or 3 searches to find the meaning - that journey is useful in itself.
-
-### Jagdish. F. (Leadership Communication Coach | I coach senior professionals to speak and present with confidence in global business settings)
-> Great tips there Daniele. I love listening to podcasts, they help tremendously in improving vocabulary, fluency and pronunciation.
-
-### Catherine Coleman (Health & Education Content Writer)
-> Great tips! I always tell my English students to listen to English language radio or podcasts. Its such a simple way to immers yourself in the language.  But I love these other tips too!
-
-### Simone Bertin (The Pale Blue Dot)
-> I'm in a 790-days stripe on Duolingo and I watch Netflix movies and series in English with subtitles.
-
-### Vanessa Andrews (Associate Consultant)
-> Such simple yet effective tips Daniele Ponzo 
-> I screen grabbed your image for a quick reference. Thanks for sharing. ☺️
-

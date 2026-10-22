@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #jobsearch #jobsuccess #jobskills #interviewtips #interviewprep #interviewpreparation #softskills
-
-
-## Transcript
-
 speaker_1: So Julian from Canada recently reached out to me and he shared that he recently applied for a job and unfortunately he did not get it Now this situation comes in everyones life but it does create a lot of negative emotion and energy However there are three things you can do which can convert this negative energy into some positive motivation So watch my full video on this topic because I have covered those three tips in a lot of detail

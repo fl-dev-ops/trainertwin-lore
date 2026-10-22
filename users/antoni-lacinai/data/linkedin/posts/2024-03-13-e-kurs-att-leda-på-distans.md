@@ -25,16 +25,3 @@ All lycka till!
 Jag minns där jag var chef på distans första gången. Det var 1995. Det gick sådär... Men så hade vi inte de tekniska möjligheterna heller (och jag var inte torr bakom öronen heller ^_^)
 
 https://lnkd.in/daS4zy2j
-
-### Shared Article: [Att leda på distans](https://diplomautbildning.se/utbildning/att-leda-pa-distans)
-> diplomautbildning.se
-
-
-## Comments (2)
-
-### Diploma (2,899 followers)
-> En väldigt viktig kurs! 👍 Tack för trevligt samarbete Antoni Lacinai och att du dela med dig av dina erfarenheter och insikter.
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> En viktig kunskap i ett modernt ledarskap👌🏼🙌🏼
-

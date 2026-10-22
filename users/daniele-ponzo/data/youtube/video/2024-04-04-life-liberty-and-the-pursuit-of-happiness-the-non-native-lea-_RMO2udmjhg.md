@@ -29,11 +29,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Life, Liberty and The PURSUIT of HAPPINESS | The Non-Native Leader | Episode 10
-
-## Transcript
-
 speaker_1: Um look were nearly towards the end of the answer So the very last thing Id like to ask you is okay youve had your career and different sectors So would you have any recommendation for people who want to have an international career nowadays
 
 speaker_2: Um I would say to them um be ready to live a life that is full of contradictions Be ready to live a life that is going to look shiny to the outside from the outside but not always shiny when you live it when youre when youre in the game

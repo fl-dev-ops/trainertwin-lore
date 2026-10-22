@@ -17,6 +17,3 @@ A few of you may find it interesting.
 Prathosh 
 
 #cvpr2023 #iisc EECS @ IISc, Bengaluru
-
-### Shared Document: [DeGPR_CVPR]()
-

@@ -13,7 +13,3 @@ article:
 
 One of my subscribers reached out to me from India and asked about how to identify the leadership style of his new GM? In this video I have covered 6 leadership styles with real life examples from the corporate world. #leadership #leadershipstyle #leadershipdevelopment #softskillstraining #careerguidance #jobtips 
 https://lnkd.in/ghD885q7
-
-### Shared Article: [How to identify Leadership Styles? With REAL LIFE examples from the Corporate World](https://youtu.be/xOjyI2fy4ng)
-> youtu.be
-

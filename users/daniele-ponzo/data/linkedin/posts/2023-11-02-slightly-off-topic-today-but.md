@@ -42,18 +42,3 @@ And if a girl does it in an emotional video, it is no reason to dismiss her or i
 I’d love to know your opinion on this. What are the pros and cons of the 9-5 work culture? Let’s chat in the comments below 👇 .
 
 #officelife #worklifebalance #mentalhealth
-
-## Comments (3)
-
-### Laura Markus (Accent & Communication Coach | I Help International Professionals Refine Their Pronunciation & Spoken English So They Feel More Comfortable & Confident When They Speak)
-> I'm interested in this topic too. I think it's time to start questioning 'the way it's always been done' and allow for helpful and productive change to happen. The 4-day work week is an interesting experiement too. Our lives, happiness and mental health are important.
-
-### Aida Andelija (Video Editor - Creating Videos Into Masterpieces)
-> In my opinion, the traditional 9-5 work setup offers stability, but it often sacrifices work-life balance and can impact mental health. 😔
-> 
-> I believe that remote work can provide a better alternative. 💼
-
-### Elena Iseni (Head of marketing)
-> I agree with you. In addition to the remote work/on-site work issue (a rightly debated issue, given that the hours lost in traffic are, in fact, wasted), we must contextualize the fact that she is American. The work situation in the USA is very different than in Italy: as you rightly remembered, there is also the problem of university debt. Accusing her of being "picky" and "spoiled" means forgetting to look objectively at the big picture.
-> The 1800s ended a long time ago: we are slowly understanding that sacrificing ourselves for work is not a great goal in life.
-

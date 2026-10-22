@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_linkedin-greatadvice-hasenso-a
 likes: 16
 comments: 7
 images_count: 1
+author_comments:
+- '2 great additions: Impressive! Innovative!'
 ---
 
 I’m getting obsessed, so please, help me!
@@ -40,15 +42,3 @@ I have to thank Nicola Onida and Giulia Pappagallo for infusing me with the pass
 P.S. Don’t disappoint me! Feel free to comment “Amazing!”, or “Muy interesante!” or “Concordo!”
 
 #greatadvice #hasenso #catchemall #biendicho #trebonneopportunite
-
-## Comments (3)
-
-### Nicola Onida (SEO Specialist & Digital Marketer | Strategia, contenuti e risultati per PMI)
-> Here to help!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 2 great additions: Impressive! Innovative!
-
-### Giulia Pappagallo (BRILLAntemente veneta | Social Media Advisor & Personal Brander | Tiro fuori la tua personalità, e la faccio risaltare tramite i tuoi contenuti, così mi comunichi in serenità e senza pipp* mentali)
-> La vuoi un'altra perla? I commenti suggeriti cambiano a seconda della lingua del post. Per te mi appaiono in inglese 😍🤣
-

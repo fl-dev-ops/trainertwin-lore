@@ -16,9 +16,3 @@ It is really that simple
 //Antoni
 
 #leadership #communication #engagement
-
-## Comments (1)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> This is a cert narrow line between those two. But I totally agree that it’s great to inform! :)
-

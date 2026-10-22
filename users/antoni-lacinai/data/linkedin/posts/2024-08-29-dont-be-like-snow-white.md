@@ -27,9 +27,3 @@ at the trade show
 𝗗𝗼𝗽𝗲𝘆 thinks that the most important part of the exhibition is to have fun with his colleagues or to play pranks on the staff in the neighboring booth. A crowd of booth workers is gathered around him, joking and laughing. But the visitors don’t stop by the booth. They don’t want to interrupt Dopey and his friends who seem to have such a good time hanging out together.
 
 From the book Speed Selling, published by Austin Macauley Publishers
-
-## Comments (1)
-
-### Philippe Guichard (From product to $1M+ ventures: the designer serial entrepreneurs partner with | Talk on TED.com | Product Development & Product Design | Bestselling Author & Keynote Speaker | Investor)
-> The book is on my desk!
-

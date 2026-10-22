@@ -72,9 +72,3 @@ https://lnkd.in/dFVsEWUk
 
 Perfection keeps you silent.
 Small steps get you speaking.
-
-## Comments (1)
-
-### Nidhi Patel (Most Websites Don’t Convert I Fix That | Be visible on major AI platforms | SEO*GEO | Helping Businesses Grow through Web Development & Data Driven Digital Marketing | Web Developer → Growth Strategist)
-> Confidence grows much faster when people stop chasing perfect sentences and start focusing on getting their message across.
-

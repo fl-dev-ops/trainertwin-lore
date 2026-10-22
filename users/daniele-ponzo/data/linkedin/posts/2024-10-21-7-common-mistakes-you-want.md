@@ -6,6 +6,9 @@ likes: 44
 comments: 20
 document:
   title: 7 common mistakes IT Pros make
+author_comments:
+- '⁉️ Are you struggling with Soft skills? let me know here: https://www.linkedin.com/posts/daniele-ponzo_softskills-tech-career-activity-7255093361097760768-xAbl'
+- 📌Soft skills for software engineers. Why? https://www.linkedin.com/posts/daniele-ponzo_softwareengineers-nonnativeleader-tech-activity-7254725842163953664-usb1
 ---
 
 7 Common Mistakes You Want to Avoid when You Use English.
@@ -52,49 +55,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-### Shared Document: [7 common mistakes IT Pros make]()
-
-
-## Comments (11)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ⁉️ Are you struggling with Soft skills? let me know here: https://www.linkedin.com/posts/daniele-ponzo_softskills-tech-career-activity-7255093361097760768-xAbl
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Soft skills for software engineers. Why? https://www.linkedin.com/posts/daniele-ponzo_softwareengineers-nonnativeleader-tech-activity-7254725842163953664-usb1
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Oh those past simple verbs are a killer, especially for Brazilians, since they've a tendency to pronounce almost every letter in Portuguese (silent letters are rare 😆)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Brilliant tips here as always, Daniele! And the examples of what to say instead in the carousel add so much value! Great stuff!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Focusing on both soft and hard skills is essential for effective communication. Daniele Ponzo
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Great points! Daniele )))
-> 
-> It's so true that clear communication can make or break a presentation. 
-> 
-> Love your focus on clarity!
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> One of my professors, a Nobel Laurette, told me that when you try to communicate in another person's native language, the effort is appreciated and creates a "warmer" listener. The key is not to be afraid to use your language skills no matter how good you feel you are.
-> 
-> But Daniele you are absolutely right. Communicating with the correct intonation and non-verbal cues to show respect and professional confidence will take communication to the next level!
-
-### Harit Bhasin (Leadership & Career Coach • AI Head Product Management • Helping tech leaders get promoted with influence & presence • Follow for leadership & career growth tips. Views are personal.)
-> Great insights, Daniele Ponzo. Mastering both hard and soft skills truly makes a difference in communication.
-
-### Abdul Raqeeb (Brand & Content Designer for Coaches and Founders | I help you look as credible online as you actually are.)
-> These examples are really practical Daniele.
-> Daniele Ponzo
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo This is such a valuable reminder about the importance of both hard and soft skills in effective communication! Mastering the nuances of language can really make a difference in how our messages are received, ensuring we come across as confident and professional.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Excellent tips, Daniele!
-

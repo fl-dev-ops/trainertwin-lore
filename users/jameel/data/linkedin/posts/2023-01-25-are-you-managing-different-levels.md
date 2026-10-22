@@ -12,7 +12,3 @@ article:
 ---
 
 Are you managing different levels of people on your team? Unfortunately the one size fits all approach won't work. You will have to adjust your leadership style according to the different levels/experience of people you are managing. In this video I have shared the situational leadership model developed by Ken Blanchard with a REAL LIFE EXAMPLE from my work experience. #team #leadership #work #experience #video #people #softskills #humanskills #situationalleadership #management #managerjobs #job #interviewtips
-
-### Shared Article: [Managing Levels of People In Your Team? Try The Situational Leadership Model - With a REAL EXAMPLE](https://youtube.com/watch?v=rxUaDM2von4&feature=share)
-> youtube.com
-

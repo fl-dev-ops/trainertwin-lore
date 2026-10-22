@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Culture Shock Affects Everyone
-
-## Transcript
-
 speaker_1: first of all moving to to France when I studied French and went to university and I realized yeah what it can feel like to be this kind of not speaking your local language having to navigate all the all the small things of life which normally you dont think twice about suddenly can become a real problem And if you dont speak the language you dont communicate and get your point across then it could be I dont know you dont get a meal or you dont get the room you want you dont get something you know you cant function properly in your life or in your work
 
 speaker_2: Exactly So Id like to explore this a little bit more David because I think its a I dont know its something that everybody can recognize themselves in So the the connection aspect right Theres more to language

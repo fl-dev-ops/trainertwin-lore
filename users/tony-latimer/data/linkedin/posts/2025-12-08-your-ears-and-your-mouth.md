@@ -14,12 +14,3 @@ Taking notes requires conscious thought which pulls the coach back up to their c
 You will never coach at the highest levels if you are doing the clients job for them and taking notes. 
 
 If your coaching approach means you find it helpful to have notes for yourself, do the after the session finishes. Trust your brain. You can recall the stuff you need to write down.
-
-## Comments (2)
-
-### Shona Watson (Helping nuclear safety specialists who are running on empty get their energy back, at both work and at home | The Human Factors Coach ™ | Certified Business Psychologist)
-> As a new(ish) coach, I started out taking notes and soon realised it was a total hindrance to being present. So I started experimenting with no notes, brief notes and writing down the odd word. I now don’t write anything down during sessions and write reflections after the session. It’s amazing how much the brain retains and is able to sense make with reflection space post session. Trust the brain indeed!
-
-### David Hansson (Family Office Adviser | ESSEC Lecturer | Executive Coach | Ex-J.P. Morgan)
-> Very interesting this Tony. I’d say it can you help you stay very present. But for sure send the wrong signals
-

@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Challenges of Learning English Abroad #shorts
-
-## Transcript
-
 speaker_1: I know
 
 speaker_2: And the first one is the language you know uh as someone uh that lived his whole life in Morocco I spoke Arabic and French that we speak in Morocco Russian from my mom but Ive never had the English part Apart from listening to M M music you know like a little bit here and there words

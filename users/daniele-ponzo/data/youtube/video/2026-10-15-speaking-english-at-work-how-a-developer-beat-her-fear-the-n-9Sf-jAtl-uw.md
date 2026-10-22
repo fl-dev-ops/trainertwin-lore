@@ -69,11 +69,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Speaking English at Work: How a Developer Beat Her Fear | The Non-Native Leader | Ep.40
-
-## Transcript
-
 speaker_1: I was scared I was stressed in the beginning absolutely I was I thought no I dont want to talk a lot because nobody would understand me I dont want them to ask questions because I will not be able to answer these questions I try to be more calm uh to talk only about my work uh to be very direct And you join the meetings and uh I always try to join uh at the time but not earlier to avoid these conversations in the beginning And because when you join early somebody also joined early and you need to talk about something No please I dont want to talk about it
 
 speaker_2: You feel like you are stuck in the elevator with some strangers

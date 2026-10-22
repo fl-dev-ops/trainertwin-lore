@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Power of Optimism When Facing Challenges #shorts
-
-## Transcript
-
 speaker_1: But if youre a little bit adventurous and youre willing to try something new and mix up with people especially otherwise youll feel lonely all the time then go for it Why not Especially if youre young you have nothing to lose You go try something new and if you dont like it then you can come back
 
 speaker_2: I just love the optimism there you know Its refreshing Its refreshing to hear a younger perspective

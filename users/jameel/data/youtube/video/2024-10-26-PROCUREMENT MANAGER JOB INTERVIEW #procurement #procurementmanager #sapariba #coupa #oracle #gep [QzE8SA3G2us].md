@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# PROCUREMENT MANAGER JOB INTERVIEW #procurement #procurementmanager #sapariba #coupa #oracle #gep
-
-
-## Transcript
-
 speaker_1: The first question that can come in this space is what experience do you have with procurement software Now some of the most commonly known or widely used procurement software of course are SAP Ariba Oracle Procurement Cloud Coupa GP These are the big ones but Im sure there are other procurement software out there as well So whatever software you have used in the past you can talk about your experience with that And if you have got any specific experience of implementing that software or upgrading that software or training people on that software uh talk a lot about that because thats the kind of experience people are looking for that not only your experience in using a software like this but also your ability to improve or implement the software

@@ -21,19 +21,3 @@ What we decide today will have an impact on people way after we have left this e
 This will be very exciting! Thank you Dita Traidas for bringing me onboard 🙏🏻
 
 #futureofeducation #latvia #MC
-
-### Shared Article: [Steering Education: From Imagination to Impact](https://buff.ly/3MJC7ZL)
-> futures2050.lv
-
-
-## Comments (3)
-
-### Anita Muižniece (Veidoju Latvijas jaunatnes sporta nākotni | Latvijas Jaunatnes XI Olimpiāde | Baltijas māja LA28 | Olimpisko sacensību aģentūras valdes locekle | Izglītības un zinātnes ministre (2021-2022))
-> Thank you, Antoni for the great work done!
-
-### Gerd Leonhard (Public Thinker. Advocate for The Human Future 👉Gerd.TV! Keynote Speaker. Filmmaker. Author: Technology vs Humanity. Defender of Androrithms. A Good Future where tech serves People, Planet, Purpose, Peace & Prosperity.)
-> yes that was great!
-
-### Anders Lundin - Skickliggör (Att vi får använda våra styrkor. Att vi får vara med och påverka. Att vi får känna att vi bidrar till gruppen.)
-> Just great work from a great person!
-

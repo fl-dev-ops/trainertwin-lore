@@ -12,11 +12,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# 9/10 will fail to solve this Meta/Facebook interview question #shorts
-
-## Transcript
-
 speaker_1: UNCOMMON GEEKS
 
 

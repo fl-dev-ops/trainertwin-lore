@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 05 Adhyaya 15 to 24 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 भरतस्यात्मजः सुमतिर्नामभिहितो यमुहवावकेचित् पाषण्डिनो
 विलोक्य ऋषभपदवीमनुवर्तमानमनार्या अवेद समां नाताम्

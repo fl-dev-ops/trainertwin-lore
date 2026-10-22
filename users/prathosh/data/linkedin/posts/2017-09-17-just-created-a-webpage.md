@@ -11,7 +11,3 @@ article:
 ---
 
 Just created a webpage - https://lnkd.in/f8nN6F6
-
-### Shared Article: [Prathosh](https://sites.google.com/view/prathosh/home)
-> sites.google.com
-

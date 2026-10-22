@@ -21,9 +21,3 @@ I get it. Communication is bloody hard. Misunderstandings are everywhere. But th
 I help leaders communicate with empathy, clarity, and energy so that strategies become reality
 
 Send me a DM, and let’s talk.
-
-## Comments (1)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Bra och viktig påminnelse.  Kanske det gäller föräldrar också! 🤔
-

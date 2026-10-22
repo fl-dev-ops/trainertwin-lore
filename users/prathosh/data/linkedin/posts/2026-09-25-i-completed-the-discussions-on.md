@@ -15,7 +15,3 @@ I completed the discussions on Flow Matching models. This is a state-of-the-art 
 https://lnkd.in/gkRMaV3d
 
 https://lnkd.in/gGcxVwWx
-
-### Shared Article: [Lec 21 Flow Matching Part 3](https://www.youtube.com/watch?v=cNeTAsBr_m8)
-> youtube.com
-

@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# A new definition of leadership vs management
-
-## Transcript
-
 speaker_1: Heres the definition of leadership versus management that you might not have heard of
 
 

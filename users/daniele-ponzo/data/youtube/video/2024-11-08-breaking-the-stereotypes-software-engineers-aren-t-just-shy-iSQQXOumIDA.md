@@ -22,11 +22,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Breaking the Stereotypes: Software Engineers Aren’t Just ‘Shy’ or ‘Angry’!
-
-## Transcript
-
 speaker_1: That was effect of me getting onto the communication skill hype train Ive been the angry engineer you may hear about who always talks about uh technology
 
 speaker_2: Okay Yeah Ive seen it in memes and stereotypes you know

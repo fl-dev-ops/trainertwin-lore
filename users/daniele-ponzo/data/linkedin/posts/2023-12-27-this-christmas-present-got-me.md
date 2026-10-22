@@ -59,12 +59,3 @@ Like my posts? Remember to hit the bell on my profile so you’ll get a notifica
 Follow|Daniele
 
 #WorkLifeBalance #Productivity #Wellbeing #TakeABreak #Mindfulness
-
-## Comments (2)
-
-### Shafa Ullah Khan (Business Development Manager @ Zainx Media)
-> Taking that short pause can indeed make a significant difference in our well-being.
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Finishing off the chocolate.
-

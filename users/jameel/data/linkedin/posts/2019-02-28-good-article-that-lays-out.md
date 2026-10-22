@@ -12,7 +12,3 @@ article:
 
 Good article that lays out the fundamentals of DTC for CPGs
 https://lnkd.in/eGt-6KF
-
-### Shared Article: [Direct-to-Consumer Business Model in CPG: How-To Guide](https://www.shopify.com/enterprise/direct-to-consumer-business-model-cpg)
-> shopify.com
-

@@ -17,11 +17,6 @@ note: Text read from the video's burned-in captions; the YouTube audio track is 
   do not say who talks.
 ---
 
-
-# How to Find Supply Chain Jobs in Saudi Arabia - Practical Tips for Success with Wali Khan
-
-## Transcript
-
 speaker_1: PROFESSIONAL SUPPLY CHAIN CAREER COACH l in AND IS ALREADY CHAIN CAREER COACH WORKING ASPIRING
 
 

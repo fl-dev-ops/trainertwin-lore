@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_you-are-no-leader-if-you-cant-commun
 likes: 18
 comments: 3
 images_count: 1
+author_comments:
+- It is interesting how some leaders are awesome in small groups but stiffen up on the stage. Some are inspiring on the stage but feel awkward in smaller gatherings.
 ---
 
 You are no leader if you can't communicate. But is elevating your leadership skills worth the effort?
@@ -31,12 +33,3 @@ Improve your leadership communication.
 You got this!
 ^_^
 //Antoni
-
-## Comments (2)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Ännu ett bra och läsvärt inlägg från en mästare.  Tack.
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> It is interesting how some leaders are awesome in small groups but stiffen up on the stage. Some are inspiring on the stage but feel awkward in smaller gatherings.
-

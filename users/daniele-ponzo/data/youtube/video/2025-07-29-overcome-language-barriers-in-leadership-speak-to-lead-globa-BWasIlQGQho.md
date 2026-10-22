@@ -36,9 +36,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Overcome Language Barriers in Leadership | Speak to Lead Globally
-
-## Transcript
-
 speaker_1: And this is the idea I got And this is you know I have like daily exchanges with colleagues with other people like not native English speakers uh worldwide And this is this is the actual challenge in my opinion So you were you were raised to to to create those mental patterns in your native language So you will never be able to replicate them in a new language Its just impossible Thats the way the brain works But you can create a new you can create new patterns that somehow feel authentic to you And this is this is what is fascinating in my opinion and this is the best part of the learning journey Its a challenge as you said Its not easy but uh when you can find your own voice in a different language that you can surely say youve been successful Even even though you keep making mistakes which is normal

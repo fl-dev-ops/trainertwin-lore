@@ -4,6 +4,8 @@ date: '2023-07-13T05:30:02.529Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_businessenglish-itprofessionals-language-activity-7085128218172661760-RBr-
 likes: 5
 comments: 3
+author_comments:
+- Absolutely, Darryl! Using the passive is one of the easiest tricks to sound more formal. Thanks for your comment!
 ---
 
 The easiest way to sound more professional in English⬇️
@@ -67,12 +69,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
 #businessenglish #itprofessionals #language
-
-## Comments (2)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> So well explained! 👏 This is a great way to level up the formality when the situation calls for it. Awesome post, Daniele!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Absolutely, Darryl! Using the passive is one of the easiest tricks to sound more formal. Thanks for your comment!
-

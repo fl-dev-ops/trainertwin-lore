@@ -19,9 +19,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Building Community Abroad Through Sports #shorts
-
-## Transcript
-
 speaker_1: And also you mentioned another great thing which is sports Again a lot of friends a lot of people started connecting through sports So playing five aside football is the best way to go there and meet people Also career wise it helps you know to when you meet people who are maybe like in a different company or they have a good position you you really connect through sports especially football

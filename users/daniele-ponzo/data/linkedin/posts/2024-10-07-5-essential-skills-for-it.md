@@ -69,31 +69,3 @@ Mark your calendar and register here: https://lnkd.in/dVYJ2AzG
 See you on Friday!
 
 #itprofessionals #english #careeradvancement #tech
-
-## Comments (6)
-
-### Francesca Garofalo (Giornalista pubblicista freelance | Copywriter | Cacciatrice di storie)
-> Preziose, grazie Daniele! Salvate
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Expanding your Business and IT vocabulary, improving pronunciation, and practicing real business situations are all excellent strategies to boost confidence and effectiveness in communication. Daniele Ponzo
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Absolutely agree! Daniele ))
-> 
-> Focusing on relevant skills rather than just grammar can make such a difference.
-> 
-> Loved it )))
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> Powerful equation! 💡 
-> Commitment truly makes all the difference in the journey. Love the reminder to evaluate our path and visualize the end goal. 🔥 Let’s all stay focused and committed to making progress!
-
-### Xhoni Mimillari (The Last LinkedIn Expert You’ll Ever Need / and the guy you hire to win $10K-$50K clients - Founder & Investor.)
-> Daniele, you make an excellent point brother! 
-> 
-> Focusing on essential skills rather than just language proficiency is crucial for success in IT.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Yes! Yes! Yes! I'm looking forward to having this conversation with you!
-

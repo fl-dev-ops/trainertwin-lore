@@ -94,16 +94,3 @@ Are you ready to face the T-Rex🦖?
 Let me know in the comments below 👇 .
 
 #itprofessionals #speakup #confidence
-
-## Comments (2)
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> I remember when I used to be afraid of speaking in public spaces. Now, I can't remember what brought about the lessened anxiety. But it feels liberating knowing that I can face a group or crowd and air my views.
-
-### Ian Whiteford (Director @ Sxaler | Scaling category defining AI Companies. x Mantle, Improbable & Goldman Sachs. Angel Investor and Venture Scout.)
-> Such relatable insights for anyone navigating international teams! Daniele Ponzo⚡
-> 
-> It's easy to feel overwhelmed, but your actionable tips offer a roadmap to overcome that hesitation and seize opportunities. 
-> 
-> From initiating conversations to expressing curiosity, each step empowers individuals to contribute confidently🙌.
-

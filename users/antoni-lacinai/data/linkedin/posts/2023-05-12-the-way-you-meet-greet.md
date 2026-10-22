@@ -12,15 +12,3 @@ The way you meet greet and treat people internally will impact how you meet, gre
 Do you want to provide great customer service - start by being nice to your colleagues
 
  #people #customerservice #communication
-
-## Comments (3)
-
-### Olle Lindkvist (Organisationskonsult | Rekrytering, team och organisationsutveckling | Lindkvist & Partners | 0703797563)
-> Haha, I thought you went spiritual here, ”as within so without.” And then I realized its basically the same thing. How you feel and think about yourself will be reflected in how you behave. Right?
-
-### .Adam Ligeralde. (🔬🦠🧬 Protein Purification & ÄKTA™ Chromatography Specialist | Helping Academic, Biotech & Pharma Scientists Optimize Downstream Workflows from R&D to PD to BioProcess Scale | Leadership Development | Keynote Speaker 🔊)
-> You bring up such a good point, Antoni! I'v seen too many colleagues who are so, so nice to their customers but treat their coworkers like sh*t. The external should mirror the internal.  I'll be curious how the keynote turns out! 🤔
-
-### Soheil Saadatmand (Senior Project Manager | PhD, MBA, PMP® | Engineering & Business Strategy)
-> Well said Antoni. Absolutely true!
-

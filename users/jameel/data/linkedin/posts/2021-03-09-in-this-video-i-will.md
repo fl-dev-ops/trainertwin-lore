@@ -15,7 +15,3 @@ In this video I will give you three tips on how to deal with nasty emails. At ev
 Subscribe to the Soft Skills Channel on Youtube for more tips on real life skills they don't teach you in college! #emailmanagement #emailsuccess #careerskills #softskillscoaching #softskillsdevelopment #softskillstrainer #jobskills 
 
 https://lnkd.in/gbUTbWU
-
-### Shared Article: [How to respond to NASTY EMAILS!](https://www.youtube.com/watch?v=OF0JT_bL0Gc)
-> youtube.com
-

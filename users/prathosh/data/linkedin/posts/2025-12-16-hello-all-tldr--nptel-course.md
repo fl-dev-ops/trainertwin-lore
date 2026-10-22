@@ -36,7 +36,3 @@ Looking forward to sharing a few ideas with everyone.
 Indian Institute of Science (IISc) Chair ECE EECS @ IISc, Bengaluru NPTEL NPTEL IIT Madras hashtag
 #aiml hashtag
 #iisc
-
-### Shared Article: [- YouTube](https://youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu&si=TsWlqVaWjxmWfwmb)
-> youtube.com
-

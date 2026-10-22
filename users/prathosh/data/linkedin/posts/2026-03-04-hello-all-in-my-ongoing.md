@@ -21,7 +21,3 @@ May be of interest to a few - https://lnkd.in/dQBpxRbx
 Happy Learning. 
 
 #nptel #ai #backprop #iisc
-
-### Shared Article: [Lec 42 ERM on Neural Networks and Error Backpropagation](https://youtu.be/dONDRwX_83E?si=cRShUwCwmTn609U)
-> youtube.com
-

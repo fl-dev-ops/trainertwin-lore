@@ -23,7 +23,3 @@ https://lnkd.in/gSkhEk3K
 If anyone is interested in registering for the course here  it is - https://lnkd.in/gEFgjERc
 
 Happy learning.
-
-### Shared Article: [Mathematical Foundations of Machine Learning](https://onlinecourses.nptel.ac.in/noc26_cs02/preview)
-> onlinecourses.nptel.ac.in
-

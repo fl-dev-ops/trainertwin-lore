@@ -27,18 +27,3 @@ I didn't get the business
 
 And rightfully so
 It is still an embarrassing moment
-
-## Comments (4)
-
-### Brian Bakeberg BSC.ENG (Co-Founder & CVO, bp2w® | Turning employee engagement data into action in 15 minutes a month | CPD-accredited | Published in The Harvard Brain)
-> I would prefer to be memorable
-
-### Annika Möllström (PR, Press, Strategic Communication)
-> Yes, in rhetoric it is called rapport.
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> Så rätt🙌🏼🙌🏼 Det här är en förmåga som gått förlorad i ett ”kan själv-samhälle”. Den går att öva upp och inspireras mer av.
-
-### Gabriella Wejlid (Föreläser om hjärnan på jobbet - kreativitet, fokus och motivation. Senaste boken är "Konsten att få hjärnan att göra som du vill".)
-> This is so interesting, and often the opposite seems to happen, that the one with for exampel more energy uses more and more energy to make the other one energized, with the result that you end up further and further apart from each other.
-

@@ -48,11 +48,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Speak English with Confidence in Tech | Mindset Tips | The Non Native Leader | Episode 24
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to another episode of the non native leader Im Daniele and Im the host of the video podcast where I talk to people who are non native English speakers but they are building they have built theyre building an international career in different areas from Fintech to NGOs from art and films and movies to um finance commercial you know I like to talk to people and I like to talk to people from various industries Yeah so thats thats the the spirit If you follow the previous episodes uh you know its about sharing life stories challenges emotions and wins of course we all love celebrating wins And talking about wins and celebrating today Im uh glad to have here with me uh Georgios Christou or George or I I always try to do my best with names but Georgios Christou And thank you very much for being here with me George or Georgios
 
 speaker_2: My pleasure Daniele My pleasure

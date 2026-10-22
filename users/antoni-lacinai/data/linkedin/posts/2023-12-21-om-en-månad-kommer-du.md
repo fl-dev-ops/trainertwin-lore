@@ -26,13 +26,3 @@ I intervjun på TV4 Nyhetsmorgon förra året pratade vi om detta och jag gav fe
 Skit i nyårslöften - sätt nyårsmål istället!
 
 ps - Brukar du ha nyårslöften?
-
-### Shared Article: [Nu fallerar många nyårslöften – så håller du motivationen uppe | Nyhetsmorgon | TV4 & TV4 Play](https://www.youtube.com/watch?v=OChikDG71ig&t=452s)
-> youtube.com
-
-
-## Comments (1)
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> Klockrent Antoni Lacinai
-

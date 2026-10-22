@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_the-ultimate-guide-for-interna
 likes: 14
 comments: 18
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQG-nGDYAqkrug/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1721971905472?e=1793178000&v=beta&t=A5frmGfH1j5TzALu-Yw1noKHiQIeVaYhpyjKBg9EHuo
+author_comments:
+- Are you ready to go on holiday?If you're travelling, check my guide above 😀
+- What's the funniest thing that has ever happened to you while abroad? Let me know 🙂
+- 'Check out Martin''s channel here: https://youtube.com/@mopalab?si=AbpAoSVrjil9sXs1'
 ---
 
 The ultimate guide for international travellers
@@ -60,33 +64,3 @@ P.S. they all come (more or less) from real life experiences, so feel free to co
 P.P.S. I'm going to slow down for a few days, enjoy your holiday!
 
 Video Credit: handmade by my friend Martin Oetting, check out his channel in the first comment below 👇
-
-## Comments (9)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Are you ready to go on holiday?If you're travelling, check my guide above 😀
-
-### Vincenzo F. (Maestro Jedi - Love Coach ⚧️ - Poker Coach ♠️♣️♥️♦️)
-> Ma fanculo avai!
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Haha this is brilliant man 👏
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Hi Daniele, this brilliant shortlist of out-of-place phrases reminded me of"Fawlty Towers", particularly the iconic episode "The Germans" with its famous mantra, "Don't mention the war!" 😂😂😂
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> The only thing I'd add to the English one is "to Spain" Daniele Ponzo!
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Enjoy the hols Daniele!!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> What's the funniest thing that has ever happened to you while abroad? Let me know 🙂
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> Haha, this is a fun take on international travel! It’s amazing how cultural nuances and language quirks can lead to such interesting situations. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Check out Martin's channel here: https://youtube.com/@mopalab?si=AbpAoSVrjil9sXs1
-

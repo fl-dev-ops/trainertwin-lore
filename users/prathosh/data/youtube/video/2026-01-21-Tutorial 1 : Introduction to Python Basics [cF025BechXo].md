@@ -1,6 +1,6 @@
 ---
 id: cF025BechXo
-title: Tutorial 1 : Introduction to Python Basics
+title: "Tutorial 1 : Introduction to Python Basics"
 url: https://www.youtube.com/watch?v=cF025BechXo
 date: '2026-01-21'
 duration: 47:10
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 1 : Introduction to Python Basics
-
-## Transcript
 
 speaker_1: Hello all
 welcome to this tutorial in the course

@@ -41,36 +41,3 @@ We’ll cover:
 This isn't about correcting every mistake.
 
 It's about sounding like the professional you already are.
-
-## Comments (10)
-
-### Yusak Siswanto (Sales Professional | Full-Cycle & Strategic Sales | Tech-Savvy with a Passion for Emerging Technologies)
-> I know my question is naive, but do native speakers use grammar in daily conversation, or is it just for academic or formal  purposes?
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> Perfect is for the amateur. The Pro would do it anyway.
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Sounds like an invaluable workshop, Daniele Ponzo. When trying to be perfect slows us down or trips us up, it's not serving us anymore.
-
-### Dr. Karuna Dwivedi (Doctor of Education (Ed.D.) | Multilingual Learner Researcher | TESOL International ELT Blogger | Author | AI in Education)
-> Learning grammar is important, and it should be taught as bridge not just a tool!!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Daniele Ponzo Grammar anxiety holds back so many brilliant voices especially in global teams.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Love this perspective grammar shouldn’t hold you back, it should empower your clarity and confidence.Daniele Ponzo
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> That's good advice. Focus on being able to transfer the message effectively. That's easier said that done.
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Good advice. Mistakes are inevitable. I'd argue they are part of speaking. NO ONE is perfect all the time.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> So true! 🙌 Clarity and confidence matter way more than perfect grammar. Thanks for the reminder, just speak up and be yourself!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Clear communication > perfect grammar. We need to normalize imperfection in professional conversations
-

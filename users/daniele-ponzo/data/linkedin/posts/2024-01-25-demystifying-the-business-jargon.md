@@ -51,20 +51,3 @@ Hi, I'm Daniele. I post about language improvement, Tech and wellbeing. If you a
 Follow ➡️ Daniele.
 
 #executiveinsights #english #businessenglish
-
-## Comments (4)
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> A key element of strategy.
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> We really do need to know something about everything. Thank you, Daniele Ponzo!
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Very intetesting Daniele! Thanks!
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Loving the conceptual aspect of this post!
-> 
-> P.S what's up? 😃
-

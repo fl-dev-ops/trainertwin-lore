@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Dubai Real Estate Market Structure Main Players - Part 1
-
-## Transcript
-
 speaker_1: So this is the representation of Dubai real estate market the way I kind of see it and I want to focus on the main players which are on the scene yet agencies developers and master brokerage Master brokerage is something I would say newish only I think in 2017 and 16 seen the developers the smaller developers start to emerge and they were not able to yet have an expertise and even financial capacity to create their own structure So they were giving the project exclusively to the agencies So lets start from agencies Agencies are pretty simple The business model usually divided between Secondary market and off plan Majority of big agencies they do have a very strict separation of the secondary market and the off plan So if you are closing secondary youre not going to be getting any leads for off plan If you are closing secondary and one of your sellers or buyers will want to buy off plan you then can sell Moreover In the bigger companies where the secondary market is fragmented into the areas and going deeper into like so lets say a British or Western style of management as a new broker youre starting with only rentals Youre allowed to for the first 6 months to do only rentals till you mature enough to get into sales And if you are having a sales deal for example you cold call someone and has a listing to sell the property what should you do
 
 speaker_2: Pass it

@@ -29,29 +29,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
 #language #business #symbols
-
-### Shared Document: [How to pronounce Symbols in English]()
-
-
-## Comments (4)
-
-### Lorena Ignazzi (I bring numbers, people and decisions together when a company grows, but choices and organization struggle to keep up | Strategic Advisor for B2B SMEs | 4R Strategy Impact Method)
-> Super wow! Useful a lot! Daniele Ponzo
-
-### Asif khan (Confidence Coach and Life Coach || 70+ Clients Served || DM to win in Life)
-> Thanks for sharing Daniele Ponzo 
-> 
-> These symbols are kind of confusing something. I enjoyed reading through the slides. Looking forward to more of this. 
-> 
-> Thank you Daniele Ponzo
-
-### Hajime Y. (Veteran web developer | AI reliability engineering | Web Accessibility)
-> < and > are also sometimes called "angle brackets". You'll run into this when dealing with XML and HTML, for example.
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> Enjoyed going through your carousel. 
-> 
-> Though English seems easy, it isn't.
-> 
-> There's still so much to learn Daniele Ponzo
-

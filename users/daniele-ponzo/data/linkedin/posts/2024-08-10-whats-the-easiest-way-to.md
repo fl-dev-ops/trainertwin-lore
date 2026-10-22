@@ -24,11 +24,3 @@ What are you going to read this summer?
 Thanks Eason Ltd for the reminder!
 
 #drseuss #books #readers
-
-## Comments (1)
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> And the more you apply what you learn, the more you'll grow.
-> 
-> Seuss knew the suss Daniele Ponzo 😂
-

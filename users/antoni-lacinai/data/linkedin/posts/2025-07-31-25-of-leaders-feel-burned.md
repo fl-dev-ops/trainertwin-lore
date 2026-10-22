@@ -33,12 +33,3 @@ Create networks where leaders can share challenges and strategies.
 It's time to prevent leadership burnout before it affects your entire organization.
 
 PS - how do you make sure you put your oxygen mask on and not only care for others?
-
-## Comments (2)
-
-### Per E Claesson (Senior consultant (Freelance))
-> Insiktsfullt, tack Antoni. Yusra Shahid say’s it so good … ❤️
-
-### Yusra Shahid (Creative Director Helping Founders, Coaches & Speakers Build Premium Brands That Earn Trust, While Saving Them Time | Top Graphic Voice on LinkedIn)
-> Such a timely reminder. Leaders are often expected to carry everyone else but no one checks how they're doing. Taking care of yourself isn’t selfish, it’s strategic
-

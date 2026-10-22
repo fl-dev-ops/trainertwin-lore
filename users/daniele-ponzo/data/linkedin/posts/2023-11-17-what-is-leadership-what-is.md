@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_leadership-inspiration-guide-a
 likes: 12
 comments: 2
 images_count: 1
+author_comments:
+- '📌Here is the link to Dario Pugliese''s post: https://www.linkedin.com/posts/dario-pugliese_leader-dariopugliese-activity-7131160723518312448-fjhA?utm_source=share&utm_medium=member_desktop'
 ---
 
 What is leadership?
@@ -47,9 +49,3 @@ P.S. What’s your idea of leadership? I'd love to have your view.
 Let me know in the comments below. 👇
 
 #leadership #inspiration #guide
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Here is the link to Dario Pugliese's post: https://www.linkedin.com/posts/dario-pugliese_leader-dariopugliese-activity-7131160723518312448-fjhA?utm_source=share&utm_medium=member_desktop
-

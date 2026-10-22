@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# Celebrating 15 years Supply Chain Leadership experience at Mars Inc. #shorts #supplychain #coach
-
-## Transcript
-
 speaker_1: 10 Years
 
 

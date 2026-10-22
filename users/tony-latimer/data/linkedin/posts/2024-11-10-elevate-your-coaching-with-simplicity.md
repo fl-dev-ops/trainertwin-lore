@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_coachingmastery-simplicityofmast
 likes: 9
 comments: 1
 images_count: 1
+author_comments:
+- Want to try a free sample? www.profitableleadership.com/firststeps
 ---
 
 ✨ Elevate Your Coaching with Simplicity of Mastery ✨
@@ -24,9 +26,3 @@ What makes Simplicity of Mastery so unique?
 
 If you’re ready to take your coaching to mastery level and stand out as a truly transformational coach, Simplicity of Mastery offers an unparalleled opportunity to grow in a supportive, community-driven environment. Explore the program and discover how it can change your coaching practice—and your clients' lives.
 #CoachingMastery #SimplicityOfMastery #MCCTraining #PCCCoaches #ICFMCC #ProfessionalCoaching #CoachTraining
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Want to try a free sample? www.profitableleadership.com/firststeps
-

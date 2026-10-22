@@ -27,11 +27,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Native vs Non-Native? Wrong Question #shorts
-
-## Transcript
-
 speaker_1: the first time I came across the definition of native English speaker was uh when I was looking for a job for English schools right That the job postings were native speakers only native speakers only or you have to have a British accent or our students only have only want American accent And to me that sounded a bit trying to find a polite word here But a bit off putting right
 
 speaker_2: Yeah off yeah

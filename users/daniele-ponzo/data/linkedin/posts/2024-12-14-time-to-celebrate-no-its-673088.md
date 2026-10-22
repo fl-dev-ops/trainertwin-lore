@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-podcast-inspir
 likes: 33
 comments: 20
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFVtsi04nA6mg/CeJzLyCnWNTcyKNAtLE3MySyp1E3MS8ypLM4s1skAypia4JIxscAlY2yGRQYAhkUlmA?e=1793178000&v=beta&t=I3qIFtUHciJTlTeeg-8J-dYa75rHC5flPvUMRsUdU_I
+author_comments:
+- '🥳 another milestone, another reason to celebrate: first 100 subscribers 🥳 thank you!'
+- '🎤 Support "The Non-Native Leader": Subscribe here: https://www.youtube.com/@SolutionSpeakCoaching'
 ---
 
 Time to celebrate!🥳
@@ -57,36 +60,3 @@ P.S. remember to subscribe to my channel, link below 👇
 Follow ➡️ Daniele to stay updated.
 
 #nonnativeleader #podcast #inspiration
-
-## Comments (10)
-
-### Dariusz Sadowski (Senior EM / Coach (in training) | Less hype, more science | Join Inner Dynamics)
-> Let's gooo Daniele! Congrats!
-
-### Matteo Giusti (Sustainability Scientist | Lecturer | Social-Ecological Systems | Founder | Nature-positive Education | Ecocentric Learning | IUCN CEC Research Lead | Gaia Education board member | Public Speaker)
-> Un bellissimo traguardo. È stato un piacere raccontarsi
-
-### Maryia Tuleika (On a mission to make AI adoption safer)
-> Amazing progress! Thanks for inviting me.to your podcast!
-
-### Alexandra Nistor (Divulgatrice| Podcast producer| Business developer)
-> Amazing!!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🥳 another milestone, another reason to celebrate: first 100 subscribers 🥳 thank you!
-
-### Rushabh Mehta (Chief Growth Officer at Nymbl نيمبل)
-> Twenty episodes? That’s a hefty lineup. Sounds like you’ve built something truly special. Keep pushing forward—episode 21 awaits
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Happy 20th episode milestone! Cheers! 🥂
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Congrats Daniele Ponzo!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🎤 Support "The Non-Native Leader": Subscribe here: https://www.youtube.com/@SolutionSpeakCoaching
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> Big round Number! Congrats my friend 🙌🏿
-

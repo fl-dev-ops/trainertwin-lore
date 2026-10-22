@@ -24,9 +24,3 @@ Remember, building confidence in English communication takes practice and contin
 Thanks for sharing Eric Partaker!
 
 #leadership #growth #englishlearning
-
-## Comments (1)
-
-### Eric Partaker (The CEO Coach | CEO of the Year | McKinsey, Skype | Author of Ultraproductive | Follow for Strategies to Scale Your Company, Your Leadership & Yourself)
-> Thanks for sharing the post! Glad you found it useful!
-

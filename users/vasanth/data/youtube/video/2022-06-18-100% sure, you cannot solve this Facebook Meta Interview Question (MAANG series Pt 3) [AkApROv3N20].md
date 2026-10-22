@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 100% sure, you cannot solve this Facebook/Meta Interview Question (MAANG series Pt 3)
-
-
-## Transcript
-
 speaker_1: Most of you would be thinking this is very easy So there is a function called clear all timeout and we can use that to clear all timeouts Correct Unfortunately there is nothing no function called clear all timeout
 
 speaker_2: What is it They come

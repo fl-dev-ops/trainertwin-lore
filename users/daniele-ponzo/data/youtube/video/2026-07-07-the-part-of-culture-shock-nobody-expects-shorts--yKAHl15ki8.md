@@ -27,9 +27,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Part of Culture Shock Nobody Expects #shorts
-
-## Transcript
-
 speaker_1: Right So we mentioned at the beginning I mentioned that we have many things in common and one of them being culture shock because you move to a different country and the beauty of it is it doesnt matter what language you speak when you start living somewhere else you experience the shock Its interesting because many people think uh for example right you you were born in Scotland So I was you were born in Scotland but Im sure uh there is this thing between uh among people who are not native English speakers that sure hes a native English speaker so if he goes to America he has no problem because they speak the same language But in fact it is not only down to language

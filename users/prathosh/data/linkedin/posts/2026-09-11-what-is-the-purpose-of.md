@@ -21,7 +21,3 @@ This was a completely impromptu and random exchange of thoughts. Don't expect an
 By the way, it's part of the NPTEL course that I am offering on Mathematics of GenAI.
 
 https://lnkd.in/gCxpkA8J
-
-### Shared Article: [Lec 16 Pedagogy in the Times of AI](https://www.youtube.com/watch?v=N2a1J0UPeL4)
-> youtube.com
-

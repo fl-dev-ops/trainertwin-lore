@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_%F0%9D%97%A6%F0%9D%97%B5%F0%9D
 likes: 45
 comments: 19
 videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D05AQFoT-My9_0aOg/CeJxzMnGJCjfOdLKw9Ch38dTVcULm-6Lxs9H46boALVERlQ?e=1793178000&v=beta&t=KNMQkTyhQO1w3lTu_1mSf-ynaFQ3CMNA40sdLGk-rdA
+author_comments:
+- "▶️ I've felt this many times. I thought I had great ideas, I wanted to speak. But my heart started racing, cold sweat on my hands, I started shaking. \nSo I kept going back to my comfort zone made of emails, chat and NO speaking.\nWhy? Because I was afraid of judgement. I thought people would not understand me. I was afraid of looking ridiculous.\nThe real change starts when you get over your fear and decide that \"shame\" should not be the way forward."
 ---
 
 𝗦𝗵𝗮𝗺𝗲.
@@ -48,33 +50,3 @@ Message me today, and I'll ask a couple of questions to see if I can help you. �
 
 P.S. Have you ever felt ashamed when speaking a new language? 
 Drop a comment👇
-
-## Comments (8)
-
-### Jason Dinndorf (日本人ビジネスパーソン向け英語コーチ | Global Meetings・Negotiations・Presentations)
-> I couldn't agree more. Once you as a teacher can create a nonjudgemental environment in the classroom along with support and genuine empathy for your student, that's when you can knock down the fear barrier and the magic really begins!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> It’s so important to create a supportive environment to encourage growth. 🙌
-
-### Donna Maravillas (CELTA & TEFL Certified English Language Teacher, Speaking Examiner, Writer of two English Activity books for children, a Teacher Volunteer at Yazidi@School)
-> Excellent work Daniele
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> I love this post Daniele Ponzo. Most people don't need more practice. They need a safe space to unlearn shame and reconnect with confidence. Language grows where courage is allowed to speak.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Such a powerful message! Overcoming shame is the real key to confidence. Creating a safe space to make mistakes is what truly helps people grow. Well said! 👏
-
-### Sama Alkhalili (Customer Success & Client Retention Specialist | Executive Communication & Enablement | 10+ Years Building Retention & Onboarding Programs | EN·AR·FR·IT)
-> Yes, shame can stay with people for years. One of my clients was ridiculed by a teacher in high school for her pronunciation. She avoided speaking for over a decade. We had to work through that before any progress could happen. Loved this post, Daniele. Such an important message you're sharing.
-
-### Jonah C.C. Wu (Managing Director at Glocom | DBA | PCB Manufacturing & International Trade | AI-Driven Decision Making | Supply Chain Strategy)
-> Building confidence in speaking English requires a safe environment and a supportive process that encourages risk-taking without the fear of judgment.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ I've felt this many times. I thought I had great ideas, I wanted to speak. But my heart started racing, cold sweat on my hands, I started shaking. 
-> So I kept going back to my comfort zone made of emails, chat and NO speaking.
-> Why? Because I was afraid of judgement. I thought people would not understand me. I was afraid of looking ridiculous.
-> The real change starts when you get over your fear and decide that "shame" should not be the way forward.
-

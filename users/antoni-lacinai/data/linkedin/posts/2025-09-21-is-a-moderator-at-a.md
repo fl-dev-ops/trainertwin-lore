@@ -17,9 +17,3 @@ My goal was to write a hands-on guide to the emcee, but Wayne took it to places 
 Although I mostly do keynotes and masterclasses, I have been moderating conferences and seminars for decades. That's why I wanted to pass the torch to the next generation of moderators and equip them with tools and tips. 
 
 I hope you like the discussion we had
-
-## Comments (1)
-
-### Agnes Tarnai (Master in Collaborative Leadership, Multicultural communication, Translation, Master of Ceremonies)
-> Excellent point, Antoni. A moderator can be the catalyst for change but not the change. It is such a fine line to walk between doing everything you can and taking responsibility only for what you are responsible for, that is do your job really well.
-

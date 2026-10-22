@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How Teachers Stay Motivated Year After Year #shorts
-
-## Transcript
-
 speaker_1: It gives you motivation
 
 speaker_2: Yes it gives you motivation it gives you courage to do something new So Im doing my doctoral Im in dissertation right now Once Im done Ill do something maybe new maybe Ill do some impact like who knows you know Future is all yours right So it always gives you motivation

@@ -45,11 +45,3 @@ By changing words and intonation, we can create a culture of respect, open dialo
 I'm curious to know: How has politeness impacted your professional relationships and communication?
 
 #PolitenessMatters #EffectiveCommunication #PositiveLanguage #Professionalism #english
-
-## Comments (1)
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Good post! It's not just what we say, but the way we say it that matters. 
-> 
-> Some cultures are really direct and this can cause problems if the message comes across as rude.
-

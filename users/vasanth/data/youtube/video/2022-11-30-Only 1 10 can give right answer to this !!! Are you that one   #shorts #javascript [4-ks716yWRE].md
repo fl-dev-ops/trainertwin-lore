@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Only 1/10 can give right answer to this !!! Are you that one ?? #shorts #javascript
-
-
-## Transcript
-
 speaker_1: a set timeout function so this entire block the question what they ask is what is the output guess the output so one very very mistake very common mistake that into candidates have done that ive seen is suddenly guess the output dont delve into problem at all dont check line by line just you have understood one or two lines dental dont do that some interviewers are good enough theyll give you time to give a second answer some interviewers are not like that you said the answer no go on especially tire one interview will be always like that they wouldnt give you second chance of correcting your answer they will if first chance you are not able to they think you are lacking patience you are not able to interpret the program properly especially if you are a senior lol mostly that question is done for you so take your moment analyze the things properly before giving the answer so if i am given this question what ill do ill tell so i have a function so this function is a self invoking function that means it

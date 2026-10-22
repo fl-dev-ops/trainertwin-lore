@@ -29,9 +29,3 @@ Say "We will sell x units to segment Y"
 Set goals- Get goals. Have fun. 
 
 PS - don't hate goals. They can increase your performance by 15-30%.
-
-## Comments (1)
-
-### Peter Engblom (Sales and customer management🔹Digital business and innovation leadership🔹Public speaker and global business builder🔹Board work)
-> Wrong season for losing weight Antoni! Let's do it in January instead! 😀 Merry Xmas!
-

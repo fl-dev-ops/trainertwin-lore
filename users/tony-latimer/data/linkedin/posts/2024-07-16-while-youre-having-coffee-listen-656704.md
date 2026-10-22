@@ -8,9 +8,3 @@ comments: 1
 
 While you’re having coffee, listen to this. . . 
 #leadership #coaching
-
-## Comments (1)
-
-### Rukhsana Hameed (Senior IT & Digital Transformation Leader | Simplifying Complexity Across People, Systems & Organisational Change)
-> Always a delight listening to you, Tony , and so many takeaways ! Thank you for sharing 😊
-

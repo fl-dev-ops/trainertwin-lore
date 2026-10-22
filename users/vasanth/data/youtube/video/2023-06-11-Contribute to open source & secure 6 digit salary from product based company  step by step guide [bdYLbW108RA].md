@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Contribute to open source & secure 6 digit salary from product based company |step by step guide
-
-
-## Transcript
-
 speaker_1: all welcome back to uncommon geeks my name is wasan i hope you all doing well in case if you are saying me first time on the internet im a content creator i help people to clear their interview i made a lot of series in the past which has been appreciated by many in case if you have not seen those series and if you are preparing for interview ill highly i would highly recommend please go ahead and watch the series so in this particular video im going to discuss as you already seen in the thumbnail where how to contribute to open source okay so lets take a simple example there are around 430 million open source project on the github okay so even if you decide to contribute to open source you should make a
 
 

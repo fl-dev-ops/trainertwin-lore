@@ -46,32 +46,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️Daniele
  
  #english #itprofessionals #speaking
-
-### Shared Document: [8 English expressions to sound more professional]()
-
-
-## Comments (5)
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> The I’m not sure particularly resonates - helps invite clarity.
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Great alternatives in this post, really useful!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great phrases here Daniele Ponzo.  It's useful to have an extra gear of professionalism that we're able to switch into when necessary. 🚗⚙
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> We all feel more confident when we are well versed in the business/industry language. 
-> Coming from a non-profit background into a corporate world, this is something that took me some time...and if I'm honest I let it hold me back a little too long. 
-> Your advice will help people Daniele Ponzo. I would also say it's important to listen a lot more than you talk and find trusted people to practice with!
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Your content is always useful 👌 
-> 
-> ----------
-> 🔍 Follow me for daily insights on ITSM and IT Security.
-> 🎧 Check out The ITSM Practice podcast on Spotify: podcasters.spotify.com/pod/show/theitsmpractice
-> 
-> #itsm #itsecurity
-

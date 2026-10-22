@@ -22,6 +22,3 @@ Piyush Tiwary Pavan Karjol Arnab Mondal Lakshya Singhal Rohan kashyap Chair ECE 
 
 
 #iisc #deeplearning  #research #publications #phdlife
-
-### Shared Document: [AISTATS_2023_Rep_lab_IISc]()
-

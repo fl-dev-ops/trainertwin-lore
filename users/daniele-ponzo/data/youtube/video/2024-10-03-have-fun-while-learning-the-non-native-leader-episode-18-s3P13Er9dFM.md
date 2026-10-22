@@ -32,11 +32,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Have FUN while LEARNING | The Non-Native leader | Episode 18
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to another episode of the non native leader my video podcast series where we talk to people to leaders uh worldwide uh who are working in Fintech NGOs um IT software development and they all have one thing in common They were all born in a non English speaking country and they have managed somehow to build up their careers internationally and theyre now protagonist on the global stage So uh welcome again and today I have the pleasure of chatting with Rian Besa Uh as usual I dont want to spoil it too much but shes uh building up an interesting uh business in uh visuals which is something I deeply deeply love Uh I like visualizing things myself so you know thats thats pretty awesome what shes doing Rian youre very welcome
 
 speaker_2: Hi its nice to be here and you know learning about different people and also sharing my experience as an international person in a foreign country So its nice to be here today

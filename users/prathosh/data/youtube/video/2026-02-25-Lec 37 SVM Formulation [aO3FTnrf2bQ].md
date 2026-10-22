@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 37 SVM Formulation
-
-## Transcript
-
 speaker_1: So let us uh formulate this now
 So mathematically
 by the way um

@@ -24,19 +24,3 @@ The leadership team has to learn the big secret that when you're promoted to fun
 
 If you are a CEO who is constantly being pulled down from the strategy level to the execution level, we should talk. 
 https://lnkd.in/g9yqUAfy
-
-### Shared Article: [Contact](https://www.profitableleadership.com/contact)
-> profitableleadership.com
-
-
-## Comments (3)
-
-### Darren Gibb (I teach you how to book calls in 8 DM messages | It was never about your content | Let’s stop pretending you’re not using LinkedIn to grow your business 😉)
-> Two roles, and only one of them ever makes it into the job description. Nobody gets promoted to head of function for giving ground to another function, so the second role starts out underfunded.
-
-### Philip Woodburn (Executive Coach | Leadership, Resilience & Career Transitions | Mentor | Former Regional CFO, Schneider Electric | FCA | ICF ACC | Conference Chair)
-> Isn’t one of the challenges here confidence in the functional leadership role, knowing you have delegated operating authority from the CEO? It also takes courage and conviction to know the CEO appointed you and you have their support to act. One of the best leaders I work for was CEO in the Middle East when I was CFO. I knew he employed me to be the best in my role, operate with confidence, so he could focus of the strategic aspects of the business.
-
-### Cecilia Yeo (I coach founders in SaaS, food, hospitality & professional services to build sustainable, profitable businesses without burnout | Founder | Author | 20+ yrs experience | Fractional HR / Lean Projects)
-> Functional team leader and leadership team orientation are different; A functional leader naturally looks inward: How is my function performing? What resources do I need? What are my functional priorities? A leadership team needs to look outward and across: The word is integration across functions on how to support customers better and retain market share perhaps? What does the business need to achieve? How do various functions work together to deliver that and understand the trade-offs. Question is-Does the leadership team spend enough time looking outward at the business, customers and market and also inward at how the functions need to integrate to deliver the strategy? CEO is key to create those conditions and leadership team itself has been designed to make that work.
-

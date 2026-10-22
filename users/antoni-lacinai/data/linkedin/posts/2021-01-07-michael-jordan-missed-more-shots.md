@@ -24,12 +24,3 @@ Identity goals are the most important ones. They are long lasting and determines
 Which ones do your company focus on?
 
 #leadership #engagement #goals
-
-## Comments (2)
-
-### Sharfunnisa A. (BA (Hons) Psychology Student, Mental health advocate promoting kindness, 🐈 lover, enjoy conversing with people from different walks of life!)
-> Identity goal in my eyes is the foundation for seeing the next 2 goals succeed. Because they bring out the real satisfaction and fulfilment. If that's missing we can still achieve result and performance goal but with a lot of stress.
-
-### Anna-Karin Lingham (Interim Marketing Manager * Branding expert * Speaker * Mentor * Your guide to a stronger corporate, personal or ambassador brand.)
-> Good lesson. I focus on all three in my company, but my 2 is more focused on the results for my target group. That motivates me more and ususally leads to growth for my company, but I can make that more distinct for myself and my company.
-

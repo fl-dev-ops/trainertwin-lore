@@ -17,7 +17,3 @@ I've created a game-changing 'Cheat Sheet for Your Next Interview' video that's 
 Don't miss out on the opportunity to boost your interview skills and stand out from the crowd. Like, share, and subscribe for more career-boosting content.
 Let's secure those dream jobs together! 💼🎯 #JobInterview #CareerSuccess #InterviewTips
 https://lnkd.in/gPmQy9jr
-
-### Shared Article: [How to Ace the 'How Do You Solve Problems at Work?' Interview Question:  With Real-Life Example](https://youtu.be/cOwAgReljkA?si=jkM_ExD6ikQ1UUR3)
-> youtube.com
-

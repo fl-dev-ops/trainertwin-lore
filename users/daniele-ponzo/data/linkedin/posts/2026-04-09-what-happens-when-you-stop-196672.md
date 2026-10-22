@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_what-happens-when-you-stop-stu
 likes: 66
 comments: 9
 images_count: 1
+author_comments:
+- |-
+  If this resonates, here’s a closer look at how the IT Speaking Playground works in practice.
+
+  https://www.loom.com/share/e60f4f436b3741af8a0c688efc0663f4
+
+  It’s about performing clearly in meetings, interviews, and real conversations.
+
+  If you’re curious and want to explore whether it could help you, feel free to reach out. Happy to chat.
 ---
 
 What happens when you stop studying… and start performing?
@@ -78,30 +87,3 @@ Because interaction, pressure, and feedback are what create real progress.
 If your communication matched your expertise, what would change in your career?
 
 👇 Check the comments to see how the program works.
-
-## Comments (6)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Very true, real progress comes from practicing in real situations, not just learning theory
-
-### Viktoryia Ruzhynskaya (Business Operations Manager | M&A Integration & Presales Strategy | Sales Ops & Account Management | Claude-Certified AI Practitioner)
-> Daniele Ponzo, confidence isn’t the starting point - it’s the output. Most people wait to feel ready before they speak up.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> So true! Speaking confidently comes from doing, not just knowing grammar or vocab. Daniele Ponzo
-
-### Luke Sheppard (Founder & MD, TeacherTee · AI-integrated English coaching for employers with international teams)
-> this is the shift a lot of people need to make. studying english and performing in english are two very different things.
-
-### Susan Quarm (Teaching all day, admin at night? | Admin support for independent language teachers and academy owners who want their time back⌛)
-> I love the "Kudos" part! We often forget to celebrate our wins (or just underestimate them). Reflecting on them truly makes the learning journey more enjoyable 🤗
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If this resonates, here’s a closer look at how the IT Speaking Playground works in practice.
-> 
-> https://www.loom.com/share/e60f4f436b3741af8a0c688efc0663f4
-> 
-> It’s about performing clearly in meetings, interviews, and real conversations.
-> 
-> If you’re curious and want to explore whether it could help you, feel free to reach out. Happy to chat.
-

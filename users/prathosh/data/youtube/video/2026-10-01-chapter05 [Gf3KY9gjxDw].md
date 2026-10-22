@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter05
-
-## Transcript
-
 speaker_1: अथ पञ्चमोऽध्यायः
 कर्मसंन्यासयोगः
 अर्जुन उवाच

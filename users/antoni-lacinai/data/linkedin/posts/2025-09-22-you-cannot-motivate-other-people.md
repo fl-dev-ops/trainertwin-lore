@@ -23,9 +23,3 @@ Energize, care, amplify.
 But motivate? No
 
 My thoughts. Yours?
-
-## Comments (1)
-
-### Batoul H. (Executive Assistant to Managing Director at TotalEnergies)
-> you can only guide souls, everyone has their own mission in this earth, but one mission we need to do is to pass our lights in this earth so keep passing ur lanterns of light to the soul hearts.
-

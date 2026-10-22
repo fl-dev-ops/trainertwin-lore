@@ -64,27 +64,3 @@ What’s your experience with “diplomatic” language?
 P.S. feel free to disagree (politely) with me 😊
  
 #DiplomaticCommunication #LanguageSkills #EffectiveCommunication #BridgingDifferences #englishlearning
-
-## Comments (5)
-
-### Maryia Tuleika (On a mission to make AI adoption safer)
-> Great advice Daniele Ponzo. It is so easy to break the connection between team members by using inappropriate words. Rebuilding something that could have been saved by communicating politely is worth a million!
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> Very useful tips Daniele Ponzo . 
-> 
-> I find it sometimes difficult to be diplomatic enough/be careful about the nouances of the language after 3 hours in a planning meeting...
-> 
-> But equally important is some level of tolerance from native speakers.
-
-### Sarah Gruneisen 🐉 (Principal Consultant in Transformation: AI for Leaders and Products • Scaling engineering leaders, teams, and sustainable impact with AI • Leadership • Human-Centered Transformation)
-> Offering alternatives is the nuance that well experienced boundary setters know about and bring.  Strong NOs create resistance… options helps the other person feel seen too.
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> There's a fine line between assertiveness and agression Daniele! I think there's a lot of people who need your services 😂
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Definitely! Disagreeing can sound harsh unless we use less direct language like the examples you have provided. Also, this could be more difficult, depending on the person's background. 
-> 
-> The Spanish are generally very direct and this can come across as a little rude. What about the Italians?
-

@@ -19,11 +19,6 @@ speakers:
   speaker_2: 'Janine Schall-Emden'
 ---
 
-
-# Meet a True Global Leader: A Global Citizen.
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to another episode of the non native leader a video podcast series where we talk to people who are working in a global international context but they were not born in an English speaking country Weve talked to many people now if you follow the series from NGOs to uh corporate people from uh artists to uh sports people Its a broad spectrum of non native leaders And today Im uh happy to have here with me Janine Schall Emden
 
 speaker_2: Um so I am currently based in Italy uh but thats been for the past year and a half more or less So uh yeah its been a wild ride I was um born and raised in Venezuela by German parents You know I always had this in my heart

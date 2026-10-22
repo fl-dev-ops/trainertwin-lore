@@ -31,21 +31,3 @@ https://lnkd.in/e2QtCxwd in
 P.S. and the IT pro without an eye? Well, see (!) if you can find the answer in the download files 🙂
 
 #tech #english #christmas
-
-## Comments (5)
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Starting the new year with confidence is the best gift anyone can give themselves.  Daniele Ponzo
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Santa is coming to town! 🎅🏻 Merry Christmas Daniele 🎄🌟
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo I wish you the Merriest Christmas 🎄 and a spectacular 💥start to 2025, just like a true pro! And of course, a pint of Guinness to top it all off—cheers to that! 🍻"
-
-### Stefania Marinelli (Turning Busy Professionals into Authentic Leaders | Associate Certified Coach -ICF | Senior People Manager | Agile Coach)
-> Ho ho ho Merry Christmas, dear Santa Daniele Claus 😀
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> I see something beginning with a V.... VALUE
-

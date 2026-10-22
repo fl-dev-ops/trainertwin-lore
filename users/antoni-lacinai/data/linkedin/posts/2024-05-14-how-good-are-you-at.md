@@ -26,12 +26,3 @@ Let's run them well
 Feel the joy!
 
 You got this!
-
-### Shared Document: [Self-assessment E x E = E]()
-
-
-## Comments (1)
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Spot on!
-

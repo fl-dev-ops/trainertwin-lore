@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-impostersyndrome-tech-
 likes: 32
 comments: 15
 images_count: 1
+author_comments:
+- |-
+  🎤 Afraid of the impostor? Watch the full LIVE EVENT recording here:
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻: https://www.linkedin.com/events/live-overcomingimpostorsyndrome7265251390476742656/about/
+  𝗬𝗼𝘂𝘁𝘂𝗯𝗲: https://youtu.be/sbXhf9avzvM
 ---
 
 “We have problems with our client in Germany. Daniele, get on a plane, meet the customer and solve the problem”.
@@ -78,36 +83,3 @@ Register here 👇
 https://lnkd.in/dqFqWJAV
 
 #english #impostersyndrome #tech
-
-## Comments (8)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🎤 Afraid of the impostor? Watch the full LIVE EVENT recording here:
-> 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻: https://www.linkedin.com/events/live-overcomingimpostorsyndrome7265251390476742656/about/
-> 𝗬𝗼𝘂𝘁𝘂𝗯𝗲: https://youtu.be/sbXhf9avzvM
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> We should always believe in our abilities and keep pushing forward.  Daniele Ponzo
-
-### David Cabezas (Free yourself from fear and shame when speaking English | Professional and Personal Development for Spanish-speaking Managers | Experiential English and Neurolanguage Coaching®)
-> Looking forward to it Daniele Ponzo 😊
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Overcoming self-doubt and embracing your strengths is key to building confidence.  Daniele Ponzo
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> So relatable Daniele Ponzo!
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo 
-> What a powerful journey from self-doubt to self-assurance! The shift from "The Impostor Vicious Circle" to "The Wizard Virtuous Circle" is such a great reminder that with practice, reflection, and embracing our own skills, we can overcome those initial fears and doubts.
-
-### Vanessa Andrews (Associate Consultant)
-> It’s important to extend compassion toward ourselves whenever we feel fearful. 😱
-> Great read Daniele
-
-### Stefania Marinelli (Turning Busy Professionals into Authentic Leaders | Associate Certified Coach -ICF | Senior People Manager | Agile Coach)
-> So important to shift the perspective, and to be able to see the facts through different lenses.
-> 
-> thanks for sharing it Daniele!
-

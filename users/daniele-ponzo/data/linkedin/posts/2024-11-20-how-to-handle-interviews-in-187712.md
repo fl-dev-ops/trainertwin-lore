@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_internationalspeaker-nonnative
 likes: 38
 comments: 11
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQGmPNPLzFNFOw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1732084305718?e=1793178000&v=beta&t=yDiOAOrfMlE1XITiyHY4Oagg6IEsSPf-CxmlTN3jL1s
+author_comments:
+- Thanks for reposting and for being my guest, Luca Primavera! I really enjoyed our chat and I believe your tips on strategic self presentation are invaluable! Keep rocking!
+- 📌Struggling with Impostor Syndrome? Join me LIVE ⬇️  https://www.linkedin.com/events/7265251390476742656/about/
+- '🌐 Italy, Ireland, Germany. Career and life. Discover more here: https://youtu.be/9YMA_WOGYOM'
 ---
 
 How to handle interviews in English like a pro
@@ -51,27 +55,3 @@ Explore my Youtube Channel for more.
 Follow ➡️Daniele
 
 #internationalspeaker #nonnativeleader #inspiration
-
-## Comments (7)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting and for being my guest, Luca Primavera! I really enjoyed our chat and I believe your tips on strategic self presentation are invaluable! Keep rocking!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Struggling with Impostor Syndrome? Join me LIVE ⬇️  https://www.linkedin.com/events/7265251390476742656/about/
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Understanding cultural differences, adaptability, and strategic self-presentation are key to acing job interviews in a non-native language Daniele Ponzo
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Embracing cultural differences and honing self-awareness are key to acing interviews, especially in a second language. It's all about confidence and adaptability. Daniele Ponzo
-
-### Mohamed Chaudry (Group CFO | Operating CFO | Interim CFO | AI-Native CFO | Built 55 AI Finance Agents | $300M+ Capital Raised/Advised | M&A · Scale · Restructuring | FCCA)
-> Daniele Ponzo Great tips for handling interviews with confidence, especially as a non-native speaker! It’s all about embracing cultural differences, staying adaptable, and doing the research to align with the company’s values. Self-awareness and strategic self-presentation are key to standing out. Plus, that Guinness story with Bono is definitely a fun twist!
-
-### Interviews Chat (30,394 followers)
-> Great points, and I'd add that practicing your answers out loud, even to yourself, can make a huge difference 👍. It helps build fluency and confidence, so you're not fumbling for words during the actual interview.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🌐 Italy, Ireland, Germany. Career and life. Discover more here: https://youtu.be/9YMA_WOGYOM
-

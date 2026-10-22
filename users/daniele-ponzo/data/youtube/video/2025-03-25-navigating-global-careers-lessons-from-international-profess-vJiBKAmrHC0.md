@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Navigating Global Careers: Lessons from International Professionals
-
-## Transcript
-
 speaker_1: And by the way this is an amazing piece of advice in my opinion But once we get that clear in our mind uh then were ready to grow Like it doesnt matter how much we study how much we practice if we dont get uh that clear in our mind And thats where it all starts in my opinion you know And uh yeah youre the youre the living proof you know
 
 speaker_2: Well because youve done I mean youve done so many things right University youve uh youve worked and youre still working as a consultant uh youve built your own company So like the possibilities are endless and and its all down to you know changing that sort of mindset and getting to the bridge idea

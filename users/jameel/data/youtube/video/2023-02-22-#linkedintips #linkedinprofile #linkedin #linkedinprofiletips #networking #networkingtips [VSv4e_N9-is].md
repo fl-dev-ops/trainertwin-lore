@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #linkedintips #linkedinprofile #linkedin #linkedinprofiletips #networking #networkingtips
-
-## Transcript
-
 speaker_1: Tip 1
 
 

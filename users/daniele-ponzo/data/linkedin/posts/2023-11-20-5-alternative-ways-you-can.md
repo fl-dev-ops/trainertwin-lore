@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-speaki
 likes: 15
 comments: 5
 images_count: 1
+author_comments:
+- '📌How targeted training helped these Professionals boost their confidence: https://www.linkedin.com/posts/daniele-ponzo-8548164_client-results-activity-7132978549929500672-R91R?utm_source=share&utm_medium=member_desktop'
 ---
 
 5 Alternative ways you can expand your English vocabulary⬆️
@@ -47,15 +49,3 @@ Follow ➡  Daniele
  
  
 #english #itprofessionals #speaking
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How targeted training helped these Professionals boost their confidence: https://www.linkedin.com/posts/daniele-ponzo-8548164_client-results-activity-7132978549929500672-R91R?utm_source=share&utm_medium=member_desktop
-
-### Vanessa Andrews (Associate Consultant)
-> Tip 5 is a great tip Daniele Ponzo. I enjoy using AI - I find Conversation Partners to be great. ☺️
-
-### David Cabezas (Free yourself from fear and shame when speaking English | Professional and Personal Development for Spanish-speaking Managers | Experiential English and Neurolanguage Coaching®)
-> Great tips Daniele Ponzo!. Very useful. Write a journal, read books, use Quizlet (to remember vocabulary), think in English, and listen to podcasts.
-

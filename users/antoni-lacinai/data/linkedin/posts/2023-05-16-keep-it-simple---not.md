@@ -15,15 +15,3 @@ It is much easier to be complicated than to be simple. It’s also lazy.
 Also - Communication is not an art, it’s a skill. As with any skill, you can improve by training.  
 
 #communication #engagement #sales #leadership
-
-## Comments (3)
-
-### Charlotte Tham (Independent Human Resources Professional)
-> Less is more / keep it simple, relax and let the butterfly free, thanks a lot - it´s make my day. 😃
-
-### Rašo Pazarkić (General Manager at HCS Executive Search Serbia / CEO at CFR Executive Search Serbia 26K+ Followers)
-> The greatest people I have met have the common characteristic, they are all simple! Thank you Antoni for pointing the importance of this. Keep it easy and simple and you may be more appreciated :)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> I definitely agree, Antoni. Explaining complex things in an easy to understand way, such as using playful metaphors, is also much more fun, if you ask me.
-

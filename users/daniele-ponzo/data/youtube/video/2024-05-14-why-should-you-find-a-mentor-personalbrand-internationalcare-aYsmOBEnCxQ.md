@@ -25,11 +25,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why should you find a mentor?#personalbrand #internationalcareer #podcast #nonnative
-
-## Transcript
-
 speaker_1: it was such an amazing teacher to to have And then on top of that I had I had the chance to to study from uh uh like really uh so many so many good journalists with experience writing for the Guardian um uh the Times Financial Times and all this
 
 speaker_2: Thats great

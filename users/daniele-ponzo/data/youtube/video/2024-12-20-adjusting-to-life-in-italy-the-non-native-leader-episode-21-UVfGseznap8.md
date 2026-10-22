@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Adjusting to Life in Italy | The Non Native Leader | Episode 21 #podcast #interview
-
-## Transcript
-
 speaker_1: But then the you know uh plans shifted at the last moment So I ended up in Italy not knowing anything But since it was a Filipino company uh my colleagues uh were all Filipinos our our clientele were Filipinos So um it wasnt it wasnt that uh problematic lets say
 
 speaker_2: Yeah

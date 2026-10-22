@@ -1,6 +1,6 @@
 ---
 id: ENpzs2ycXJE
-title: Tutorial 4 : Minmax Classifier
+title: "Tutorial 4 : Minmax Classifier"
 url: https://www.youtube.com/watch?v=ENpzs2ycXJE
 date: '2026-02-03'
 duration: 26:33
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 4 : Minmax Classifier
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorial in
 which we will be going ahead and looking

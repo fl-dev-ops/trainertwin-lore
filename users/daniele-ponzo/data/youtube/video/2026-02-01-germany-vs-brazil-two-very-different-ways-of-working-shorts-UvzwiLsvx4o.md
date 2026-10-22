@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Germany vs Brazil Two Very Different Ways of Working #shorts
-
-## Transcript
-
 speaker_1: Sure Yeah
 
 speaker_2: So I asked I asked the German guys the German guy what if you had something a something a difficulty in your life that you need to confront and and and to decide what to do and things like that that you can tell me not not about sickness or something a difficult situation that you need to to deal with it The guy German told me yes I needed to to to decide if I do the PhD or not And for me I thought the guy was joking with me But no It was a genuine it was a genuine Yes yes In Brazil you ask the same question I used to ask the same question in every but everybody No never never was difficult situation never

@@ -12,9 +12,3 @@ If you serve the team, they will serve the clients
 Greetings from Birmingham where I have had the pleasure of serving Highbourne group with two keynotes in two days
 
 Thank you Victoria Pinnick  and Inspirational Speakers  for a great cooperation 😃
-
-## Comments (1)
-
-### Philippe Guichard (From product to $1M+ ventures: the designer serial entrepreneurs partner with | Talk on TED.com | Product Development & Product Design | Bestselling Author & Keynote Speaker | Investor)
-> Good to see you shine doing what you love.
-

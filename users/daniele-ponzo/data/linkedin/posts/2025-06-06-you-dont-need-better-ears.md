@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_you-dont-need-better-ears-you-
 likes: 37
 comments: 12
 images_count: 1
+author_comments:
+- Thanks for reposting, Saloni Dhoble! I'm glad you found it useful 🙏
 ---
 
 You don’t need better ears 👂 .
@@ -40,27 +42,3 @@ This is how you stop saying, “Sorry, could you repeat that?” every 5 minutes
  …and start following conversations with more confidence and ease.
 
 You’re closer than you think.
-
-## Comments (7)
-
-### Gustavo Hermoso (--)
-> Thanks Daniele
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Saloni Dhoble! I'm glad you found it useful 🙏
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele active listening depends on understanding what we hear. If we can't do that, then we are missing out on so many things! This masterclass is a gem!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> As someone working with international teams, this is so relevant.
-
-### David Cabezas (Free yourself from fear and shame when speaking English | Professional and Personal Development for Spanish-speaking Managers | Experiential English and Neurolanguage Coaching®)
-> Looking forward to watching it Daniele Ponzo 😍
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Nailed the opening 👏
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Great post! Love how you shift the focus from “hearing better” to “training smarter.” Real-world English truly needs real-world strategies, this masterclass sounds like a game-changer! 👏
-

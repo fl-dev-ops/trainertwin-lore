@@ -21,13 +21,3 @@ Det finns så mycket att vinna på digitala kundmöten men - du måste göra dem
 Den här e-kursen är till för dig som är säljare och som vill möta kunder digitalt utan att tappa varken personlighet eller kvalitet. Finns på Diploma - Störst i Sverige på onlineutbildning 
 
 All lycka till!
-
-### Shared Article: [Digitala kundmöten](https://diplomautbildning.se/utbildning/digitala-kundmoten)
-> diplomautbildning.se
-
-
-## Comments (1)
-
-### Diploma (2,899 followers)
-> En viktig utbildning och en väldigt kompetent utbildare! Tack för att du delar med dig av dina erfarenheter och kunskaper, och tack för det trevliga samarbetet.
-

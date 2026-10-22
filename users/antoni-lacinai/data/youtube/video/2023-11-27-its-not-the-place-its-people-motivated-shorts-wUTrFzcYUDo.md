@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# ITS NOT THE PLACE ITS PEOPLE #motivated #Shorts
-
-## Transcript
-
 speaker_1: I was part of a team that was really engaged really motivated We were eight people and we sat down in the corner of one of those floors I think it was floor three And we had coffee machines all over the place and one by our offices Now for some reason at that point I didnt get it a lot of people were there coming from different floors to that particular coffee machine
 
 

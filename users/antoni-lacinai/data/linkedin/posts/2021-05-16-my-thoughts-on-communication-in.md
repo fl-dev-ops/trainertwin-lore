@@ -17,7 +17,3 @@ My thoughts on communication in the Pod: The age of humans
 I was approached by two guys who had watched my TEDx. They asked if I could be a guest at their podcast. I say what I almost always say: Yes. 
 
 Here is the result, my thoughts to you. Enjoy ^_^
-
-### Shared Article: [E1E4: It's matters how you say it! (Stefan)](https://buff.ly/2Q8qoeK)
-> buff.ly
-

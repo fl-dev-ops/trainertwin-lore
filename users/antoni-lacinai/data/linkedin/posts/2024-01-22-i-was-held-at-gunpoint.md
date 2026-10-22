@@ -33,15 +33,3 @@ What just happened?
 Communication can be a matter of life and death. Sometimes with only a single word like Yes, or No.
 
 Video from Jo'burg 2022 with Unique Speaker Bureau International. And this last week I was back again for another awesome event.
-
-## Comments (3)
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Wow, vad modigt! Undrar vad det var som hände med dem?🌟
-
-### Susanne Hydén (Headhunter ⭐️ framgångscoach ⭐️ författare ⭐️ föreläsare ⭐️ manusutvecklare ⭐️ Hör av dig: 0736-580090)
-> Intressant. Får mig att tänka på när jag utsattes för ett rånförsök för många år sedan. Hoppla vilken snabbspolning i minnet.
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Klockrent exempel.  Kommunikationen är förunderligt. Det startar krig och det sluter fred. Det leder till kärlek och barn men tyvärr också till skilsmässa och vårdnadstvist.
-

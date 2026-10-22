@@ -20,9 +20,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How Reading Self-Help Books in English Boosts Your Career #shorts
-
-## Transcript
-
 speaker_1: in 2020 or 2021 I started to read a lot especially self help self development books and most of them are mostly in English You can still find them in French but in libraries you usually find them more in English than in any other language So it forced me to start picking up a few English books because I really wanted to read I was in a phase where I wanted to improve things in my life you know the productivity the habits all all these kind of topics So I started to read The the thing is I found it very difficult to understand everything Uh so I always had Google translator on the side and I was translating a lot of words Um it was a little bit of a hustle at the beginning I took three times as much to read a book than someone else Uh but after a few months my brain started to pick up words the repetition the patterns and I stopped using Google translator Even if I dont understand one or two words but I understand the whole the meaning of the sentences

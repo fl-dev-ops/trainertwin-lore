@@ -27,12 +27,3 @@ Man måste inte jobba med plåt eller ventilation för att ställa sig de frågo
 Bättre kommunikation - bättre resultat
 
 Så tänker jag. Vad tänker du?
-
-### Shared Document: [Plåt & Vent - ledarskap och kommunikation]()
-
-
-## Comments (1)
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> Intressant läsning Antoni. Bra att reflektera kring detta.
-

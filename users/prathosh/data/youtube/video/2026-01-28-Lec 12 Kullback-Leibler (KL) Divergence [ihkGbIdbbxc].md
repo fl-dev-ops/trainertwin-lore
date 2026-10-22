@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 12 Kullback-Leibler (KL) Divergence
-
-## Transcript
-
 speaker_1: Welcome back Now remember what our
 objective was or our objective was to
 quantify

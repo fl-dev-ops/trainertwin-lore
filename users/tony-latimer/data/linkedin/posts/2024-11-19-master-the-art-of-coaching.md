@@ -30,9 +30,3 @@ If you’re ready to elevate your coaching to mastery level and stay ahead of th
 visit SimplicityofMastery.com
 
 #CoachingMastery #MCCTraining #ICFCoaching #ProfessionalCoaching #EnergeticCoaching #StayAheadOfAI #SimplicityOfMastery
-
-## Comments (1)
-
-### Ana Briones-Espinoza, MBA (Executive Master Life Coach + MBA | Empowering Leaders through Energy + Strategic Insight)
-> Can't wait to return to the monthly calls Tony! Going through the training slowly and soaking up the information. Thank you!
-

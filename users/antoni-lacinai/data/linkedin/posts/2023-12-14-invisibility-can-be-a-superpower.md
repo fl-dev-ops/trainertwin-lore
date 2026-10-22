@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/lacinai_invisibility-can-be-a-superpower-but
 likes: 23
 comments: 8
 images_count: 1
+author_comments:
+- |-
+  The bigger We
+  The smaller them
 ---
 
 Invisibility can be a superpower
@@ -32,19 +36,3 @@ It builds the right culture and increases engagement and workplace happiness for
 We fear being left out. We love to belong
 
 PS - today, find a way to include somebody.
-
-## Comments (4)
-
-### Björn Söderberg (CEO and Partner in Salvator Mundi Global and Salvator Mundi Times)
-> Thanks for sharing Antoni 🙏☀️🙏
-
-### Jori Vila (💹Marketer 18+ years. ✞︎Human beings are made in the image of God, thus we are inherently equipped to craft extraordinary creations reflecting that divine image. 🏅Social Star Woman Entrepreneur 2026 for the WB 6, RCC.)
-> Great piece! I love it.
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> The bigger We
-> The smaller them
-
-### Maria Henriksson (Unleash Your Inner Power | Hypnosis, NLP, and Self-Esteem in Focus - It all starts from within.)
-> I’ve felt insignificant and invisible many times.
-

@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How Much DSA To Prepare for frontend developer interview #shorts #javascript
-
-
-## Transcript
-
 speaker_1: Its few companies that are really actually looking for your DSA and especially on top of them is Google They would want want you to write some DSA answers in their Google sheets And yeah I mean I would say theyre not at a very very high level Theyre not going to ask you to reverse a graph or a tree and stuff like that But they would really ask you basic questions And thats where you need to really transition yourself
 
 speaker_2: Like Ive

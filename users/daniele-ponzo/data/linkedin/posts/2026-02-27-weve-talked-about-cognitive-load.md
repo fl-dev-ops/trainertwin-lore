@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_weve-talked-about-cognitive-lo
 likes: 33
 comments: 11
 images_count: 1
+author_comments:
+- |-
+  👉 If you’re ready for deliberate practice (not random conversation) this is exactly the work I do with senior IT & Tech professionals.
+
+  A safe environment.Precise feedback on your real friction points.A clear improvement plan built around them.Structured thinking patterns you can fall back on under pressure.
+
+  That’s how speaking starts to feel lighter.
+
+  If that’s the direction you want to move in, send me a DM and I’ll share a few actionable tips to get you started.
 ---
 
 We’ve talked about cognitive load this week.
@@ -64,30 +73,3 @@ Let me ask you:
 When pressure rises
 are you relying on instinct…
 or on structure?
-
-## Comments (6)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Very true, clear structure makes speaking easier and more confident.
-
-### Iqra Akbar (Business Operations Executive @ ApexTech | I turn people, process, and ambiguity into systems that deliver outcomes)
-> Reducing cognitive load is a game-changer for non-native professionals.
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> you do a great job with these sessions Daniele Ponzo keep them going
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> It's amazing how reducing cognitive load can enhance clarity and authority. Your insights on feedback and practical exercises are truly valuable for anyone looking to improve their language skills in professional settings Daniele Ponzo
-
-### Frank Burke (🇬🇧 British Communication Coach | Business English & British Culture | Helping International Professionals and Students Communicate with Confidence | CELTA | MBA | 22 Years in Hong Kong)
-> Your experience really shines through in this post Daniele Ponzo. "targeted practice around real professional scenarios" - is one of the best ways to make immediate impactful improvements with your English.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👉 If you’re ready for deliberate practice (not random conversation) this is exactly the work I do with senior IT & Tech professionals.
-> 
-> A safe environment.Precise feedback on your real friction points.A clear improvement plan built around them.Structured thinking patterns you can fall back on under pressure.
-> 
-> That’s how speaking starts to feel lighter.
-> 
-> If that’s the direction you want to move in, send me a DM and I’ll share a few actionable tips to get you started.
-

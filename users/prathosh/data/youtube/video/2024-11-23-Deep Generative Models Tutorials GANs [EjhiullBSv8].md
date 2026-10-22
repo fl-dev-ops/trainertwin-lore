@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Deep Generative Models Tutorials GANs
-
-## Transcript
-
 speaker_1: We have to ask some more questions here we spoke about the triple of hundred
 
 speaker_2: Okay thanks Somebody has recorded the recording Okay good So so okay I came to know from Shujaaz that you wanted some specific questions from the quiz to be resolved Is that the case or what what Im open for the whatever discussion you want to have we can have

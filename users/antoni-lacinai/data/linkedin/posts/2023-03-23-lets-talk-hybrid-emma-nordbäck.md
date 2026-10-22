@@ -17,7 +17,3 @@ Emma Nordbäck is one of the few that really is digging into remote and hybrid w
 Among other things,  you will hear our view on the Proximity bias, and its counterpart the Proximity paradox. 
 
 Thank you Emma for a great conversation!
-
-### Shared Article: [Let's talk HYBRID  With Emma Nordbäck and Antoni Lacinai](https://buff.ly/3IXTQNX)
-> youtube.com
-

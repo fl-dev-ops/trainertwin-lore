@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Webinar|20+ Interview experience summarised | How to clear frontend interviews at Product companies?
-
-
-## Transcript
-
 speaker_1: So first of all thank you all for joining the session As you know its a Sunday and a 7 pm and you all guys have made your time to join the session Thank you so much for that So let me start by just giving introduction of mine in case if someone some of you are not aware Then Ill give introduction about what is this session is all about Then Ill give Sadhanas introduction and Ill share the guidance about the this particular webinar and we shall get started Okay Ill just take two to three more minutes Thats it So I think most of you are aware Im Vasanth Basically in case if youre not knowing me I I
 
 

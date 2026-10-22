@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Start a Real Estate Career in Dubai as a Woman — Her Proven Path!
-
-## Transcript
-
 speaker_1: You show me a way to think differently about everything about how to pitch things how to sell You give me really practical exercises that I start implementing Roleplay is amazing for me because I really get to know what Im doing wrong and how I should do things better the next time I think you reach a point that youre not scared anymore because you have answers to every single objection every single thing that people throw at you A big goal in the company where I am Its like we want to reach 1 million net per agent So thats what were trying to reach this year
 
 speaker_2: Hi in this video you will find out another story of my private coaching client Miriam moved to Dubai 10 years ago almost 11 and shed been in a different industry transitioning into real estate finding out that as much as shiny it looks like Its not that easy And if you are still Googling how to become a real estate agent in Dubai already arrived to the shiny city and trying to understand how to close your first deal my name is Olga Sinenko and Im real estate sales coach selling in Dubai myself for 10 years and for the past 4 years helping agents just like you and companies to train their sales team So you can now make this scale your income which you were always dreaming on without a fear where the next rental payment will come from Jump to the video Hi Maryam Thank you for taking your time with your busy schedule viewing and signing the MOU Im just going to ask you Simple question the first one why you decided to move to Dubai and how that you started the real estate career Because I know that you are not a real estate background

@@ -48,15 +48,3 @@ P.S. Do you feel you have communication blocks?
 Drop me a DM and I’ll give you some tips to get unstuck
 
 #assertive #communication #confidence
-
-## Comments (3)
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> Great to see, that you overcame it Daniele. It really is not so easy way to align your communication on this change step.
-
-### Fabio Sausen (Senior Service Delivery Manager | MSc in Service Management | ITIL Certificated)
-> Great insights on the power of communication, Daniele Ponzo! Assertiveness really does make a huge difference.
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Assertiveness is an important skill for every leader Daniele! It's one that really does require balance to get it right and not stray into agressivenes! Also, people that are very high in empathy can sometimes struggle with being assertive so there's that side to balance too. It's a skill for sure. But like any skill it can be learned.
-

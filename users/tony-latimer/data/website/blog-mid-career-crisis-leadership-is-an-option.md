@@ -5,9 +5,7 @@ date: "2026-01-01"
 source: website
 ---
 
-# Mid-career crisis? Leadership is an option.
-
-# Mid-career crisis? Leadership is an option.
+Mid-career crisis? Leadership is an option.
 
 So you want to break out of the mid-career crisis?
 
@@ -43,10 +41,9 @@ By making the transition you will transform your career options. No more crisis!
 
 Look out for future articles as I cover the key skills of a Leader of People or grab an introductory subscription to TheCoachingApp to have access to ALL of my Profitable Leadership training.
 
-*Found this article useful? Share the love with your friends and family on Facebook, Twitter or LinkedIn!*
+Found this article useful? Share the love with your friends and family on Facebook, Twitter or LinkedIn!
 
-
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

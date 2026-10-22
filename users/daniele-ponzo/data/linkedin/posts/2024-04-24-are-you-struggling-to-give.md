@@ -43,24 +43,3 @@ Thanks for checking out this video. I share tips to help IT Professionals have m
  
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post 
 ➡  Daniele
-
-## Comments (3)
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> This is...
-> 
-> - insightful
-> - value packed
-> - Inspiring
-> 
-> Thanks For sharing your perspective! 😇
-> 
-> Keep winning! 🙌🏻
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> Always try to be lean and mean. It's hard to do coming from the Italian language, but I try every day.
-> Great tip my friend 🤟🏿
-
-### Jaimi Saunders, PhD MBA Business English Coach (Business English Coach helping Spanish-Speaking Digital Marketers Unlock New Career Opportunities. By advancing Their English communication skills In 3 months or Less ⏰ | PhD in TESOL 🎓 | DM for info 📩.)
-> I think this is a great way to make a complicates process simple.
-

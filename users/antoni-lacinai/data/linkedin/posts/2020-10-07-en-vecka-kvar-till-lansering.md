@@ -12,15 +12,3 @@ En vecka kvar till lansering av något helt nytt inom mötesvärlden. För dig s
 350 anmälda redan. Vill du också delta?
 
 Gå in på https://lnkd.in/d88PaD3
-
-## Comments (3)
-
-### Victoria Grimberg (Fikanista® | Project Management | Culture & Events | Enhancing Wellbeing and Connection through fika | I help organisations increase their wellbeing and build stronger relationships through the art of fika)
-> Synd att jag missade detta, kommer det fler chanser?
-
-### Stina Österbro (Erfarenhetstalare inom psykisk ohälsa och funktionsnedsättning)
-> Lycka till :)
-
-### Ivar Hedén Judt (Team Manager - Product & Development)
-> Vill delta, men kan inte den dagen :)! Låter spännande!
-

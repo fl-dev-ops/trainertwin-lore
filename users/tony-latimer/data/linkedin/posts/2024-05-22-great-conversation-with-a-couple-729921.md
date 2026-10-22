@@ -10,9 +10,3 @@ Great conversation with a couple of hundred people at the IoC today.
 
 Joana Visa Thank you and everyone for being there today.
 #coaching Institute of Coaching
-
-## Comments (1)
-
-### Aidan McCormack (Authentic Leadership & Executive Presence | Executive & Career Coach (ICF PCC) | Leadership & Emotional Intelligence | Business Mentor & Consultant | Project Management | Lecturer |)
-> Great session - truly inspitational Tony Latimer, MCC
-

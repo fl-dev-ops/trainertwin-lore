@@ -34,15 +34,3 @@ _______
 If you'd like to see more of my content, remember to follow and hit the (double) bell on my profile so you’ll get a notification each time I post 🔔🔔
 
 #english #itprofessionals #speaking
-
-### Shared Document: [6 common mistakes IT Pros make]()
-
-
-## Comments (2)
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Use if jargon can be a big problem in some industries in particular Daniele. You are right to highlight it. It affect's people's influence more than they realize!
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> good stuff, Daniele. those acronyms need to be spelled out all the time, especially when working with people from different background
-

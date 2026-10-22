@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# #ConflictManagement #WorkplaceConflicts #CommunicationSkills #ActiveListening #softskills
-
-
-## Transcript
-
 speaker_1: Conflicts happen all the time at work but I hope you are not resolving them like this
 
 speaker_2: the audit today and we need to do the report so I can give it to the partners so yeah can I have that report now please

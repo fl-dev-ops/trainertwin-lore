@@ -17,7 +17,3 @@ I was planning to do a video series with tips and thoughts on how you could set 
 But then my speaker colleague KENYON SALO  did this, and I decided to recommend his video series instead. 😃
 
 So for those of you who are seriously thinking of upgrading your gear, here's a good place to start. Well done Kenyon!
-
-### Shared Article: [Studio Vibes by Kenyon Salo](https://buff.ly/3pLzdau)
-> buff.ly
-

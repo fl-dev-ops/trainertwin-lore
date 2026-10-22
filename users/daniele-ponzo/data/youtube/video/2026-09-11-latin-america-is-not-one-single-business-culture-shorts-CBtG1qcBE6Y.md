@@ -32,11 +32,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Latin America Is Not One Single Business Culture #shorts
-
-## Transcript
-
 speaker_1: But to be honest again thats the trap right Because Chileans they have a completely different culture compared to Colombians
 
 speaker_2: Yeah

@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/the-value-based-institute_%F0%9D%97%9F%F0%9D
 likes: 67
 comments: 52
 images_count: 1
+author_comments:
+- |-
+  How it all started…
+  🌍 𝗟𝗘𝗧’𝗦 𝗧𝗔𝗟𝗞 𝗩𝗔𝗟𝗨𝗘𝗦 💬
+  https://www.linkedin.com/feed/update/urn:li:activity:7375423573202649088/
+
+  #LetsTalkValuesTeam2025
+  The Value Based Institute curated by Eva Andersson
+  Jameson Jones-Doyle, Jean-Christian Rindoni, Ramla R., Niklas Österberg, Harriet Chunu-McClatchey, Daniele Ponzo, Ines Bosnjak, Abbe Alzarzour, Saphie Nefer ALIM, Marc Lawn, Bobby Bakshi, Kathy Eastwood, Shekhar Kohli, Siam Hossain
 ---
 
 🌍 𝗟𝗘𝗧’𝗦 𝗧𝗔𝗟𝗞 𝗩𝗔𝗟𝗨𝗘𝗦 💬
@@ -47,108 +56,3 @@ The Value Based Institute | 🌐 www.vbinstitute.se
 Shaping Impact through Values. Creating Ripples of Change. 💧💧💧
 
 📌 Shared with purpose, not sponsored!
-
-## Comments (19)
-
-### Eva Andersson (Senior Fellow)
-> This Sunday 9th November 2025
-> 🌍 𝗟𝗘𝗧’𝗦 𝗧𝗔𝗟𝗞 𝗩𝗔𝗟𝗨𝗘𝗦 💬
-> 
-> In a world that glorifies speed, true leadership begins when we slow down — to connect, reflect, and be present.
-> 
-> 🧠 Leadership isn’t speed — it’s presence.
-> Ines Bosnjak brings vitality, mindset, and purpose to the cellular level — showing how inner alignment creates outer impact.
-> 
-> This Sunday on Let’s Talk Values. ⚡️✨
-
-### Kathy Eastwood (Helping CEOs & Leaders Build High-Trust Teams that Drive Culture, Execution & Profit | Author | Keynote Speaker | Executive Coach 🔴🟡🟢🔵| 30 Years Practical Experience)
-> What a powerful read! Thank you, Eva Andersson and The Value Based Institute, for curating another incredible story that brings values to life.
-> 
-> Daniele Ponzo, your journey beautifully illustrates that communication isn’t about perfection, it’s about connection. Love your HACK framework which helps turn empathy and action into confidence. It is a true example of empowerment through communication.
-> 
-> Grateful for this reminder that values aren’t spoken; they’re lived.
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Such a wonderful endorsement of Daniele’s profile.  
-> He’s done an incredible job teaching English and helping people turn communication into confidence and connection.
-> 
-> 
-> 
-> The Value Based Institute
-
-### Sinthujah Wimalathas (Founder, SANARAS Coaching | Performance Coach & Psychologist | Ex-Goldman Sachs | MSc, Psychology & Neuroscience | Helping High Performers Through Change with Clarity, Direction & Sustainable Success)
-> It's never enough to have a great idea or a great strategy, we need to be able to voice it and express it powerfully. That's when we can start making a difference The Value Based Institute Daniele Ponzo
-
-### Devon Bruce (Reducing Communication Debt in Healthcare | Founder & CEO of the ECA Institute | Keynote Speaker | Winner: Innovative Business of the Year for 2026 | #1 in the U.S. in Language Education, #7 Worldwide (Favikon))
-> Daniele’s journey is such a strong reminder that clarity and connection, not flawless grammar, create impact.
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Yes, I completely agree with you — communication truly becomes powerful when it’s driven by values and genuine connection.
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> It's clear that mastering the art of connection can truly empower individuals in their careers. Excited to see how these conversations continue to shape the future!
-
-### Lydia Sarmiento, EdD🍁🌷🍁 (Top 💯 Filipinos on LinkedIn 2025/Principal/Trainer /Mentor /Coach in Both Public & Private Schools 🌷 Public Schools District Supervisor🌷 Recognised Alumna🌷 Division Outstanding Teacher🌷 BSP Bronze USA Awardee🌷)
-> This is a beautiful feature story of how our friend and connection Daniele Ponzo was able to rise to the top with his HACK model wherein his values of helping others rise to top also are very prominent. 
-> Congratulations Daniele Ponzo and The Value Based Institute for this beautiful feature story 
-> 
-> Waiting for your another value leaden impactful story Ms. Eva Henderson
-
-### Catharina Brandmaier (Senior Leader | Founder & Clinical Entrepreneur | Focused on Transforming & Enhancing Lives Through Business. OA|CIS|PSM|COO|CEO|Periodontist|MSc|DDS)
-> Such an inspring story, Eva!🌟
-> Empowerment through communication truly resonates. It’s a core part of authentic leadership and meaningful connection, and it doesn’t need to be perfect to make an impact.❤️
-> Thank you, The Value Based Institute, and Daniele Ponzo !
-
-### Chelike Nikhil (🚀 Full Stack Python Developer | CS Under Graduate ’24 | 2x AWS Certified | Red Hat® Certified Enterprise Application Developer | Google Cloud Certified | Oracle Certified | 360K+ LinkedIn Impressions)
-> That's an inspiring and insightful profile shared by Eva Andersson! The story of Daniele Ponzo beautifully illustrates how communication transcends mere language skills to become a foundational strategy for empowerment, leadership, and professional success.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> It's a crucial reminder that communication is about connection, not just correctness.
-
-### Emanuel Balsa (Helping 36K+ professionals make smarter money, career and, AI decisions | Daily lessons | Free quiz ↓ | Talks and partnerships, happyhelp@emanuelbalsa.com)
-> Communication that shows the human behind the skill is the real edge. I like the “Action” part most, because nothing changes without doing.
-
-### Eva Andersson (Senior Fellow)
-> A heartfelt thank you to Jerry Ralowski, the Swedish-Polish Chamber of Commerce, and The Non-Native Leader - Podcast for reposting this week’s 🌍 𝗟𝗘𝗧’𝗦 𝗧𝗔𝗟𝗞 𝗩𝗔𝗟𝗨𝗘𝗦 💬
-> 
-> Your support means a lot — this series is truly a labor of love, and I’m so proud to curate it for The Value Based Institute, where we explore how values can shape leadership, connection, and real impact. ❤️ + 🧠 = 🚀 
-> 
-> #LetsTalkValuesTeam2025 #Leadership #ValuesInAction
-
-### Jean-Christian Rindoni (Founder & CEO, Symbiosis Infinity Group | Founder & Executive Board Member, True Harvest Cocoa | Conscious Business Growth Advisor | Circular Growth & Strategic Partnerships | Consultant NeurotrackerX | Philanthropist)
-> The Value Based Institute Eva Andersson Thank you for sharing the values of Daniele Ponzo. Listening to your inner voice is a crucial part of the growth process. When you stand still, in calm and peace, clarity begins and your authentic self emerges, showing up in life as you should: unfiltered with no mask.
-
-### Jon Sim (Counsellor at Fei Yue)
-> What a great writeup The Value Based Institute & yes values is so important in our lives to anchor us in that intended path we want to take :) inspiring story of Daniele Ponzo
-
-### Shekhar Kohli (Pre-Capital-Event Diagnostic for Industrial CFOs and PE Portfolios | EBITDA Quality, NWC, Cash Conversion and Forecast Defense | CERD™)
-> The Value Based Institute Eva Andersson Daniele Ponzo this reflection beautifully connects communication, leadership, and values in a way that feels both human and actionable  
-> 
-> What stands out most is how you frame communication as the bridge between capability and connection  
-> It’s not just about fluency or confidence but about presence, trust and empathy  
-> That distinction matters deeply in leadership and in finance where technical skill often outpaces the ability to translate insight into influence  
-> 
-> In the world of finance transformation, this lesson sits right at the core of the Finance Impact Scorecard  
-> Numbers speak but they don’t always connect  
-> The real impact begins when finance can communicate value with clarity, empathy, and conviction, turning data into dialogue and insight into action  
-> 
-> Daniele’s story is a reminder that empowerment through communication is not just about speaking better  
-> It’s about creating shared understanding that moves people forward together  
-> 
-> Thank you for curating such meaningful stories that remind us leadership impact is measured as much by what we say as by how we make others feel understood
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Thank you very much for having me, The Value Based Institute. It was a pleasure to chat to Eva Andersson and share my story with her. Communicating with intention and presence is the best way to spread our values!
-
-### Marc Lawn (Making strategy human again | Strategy. Simplified | Global Business Advisor | Ethical & Sustainable Practices | Performance Delivered)
-> Love this from Daniele Ponzo The Value Based Institute
-
-### The Value Based Institute (1,288 followers) (Author)
-> How it all started…
-> 🌍 𝗟𝗘𝗧’𝗦 𝗧𝗔𝗟𝗞 𝗩𝗔𝗟𝗨𝗘𝗦 💬
-> https://www.linkedin.com/feed/update/urn:li:activity:7375423573202649088/
-> 
-> #LetsTalkValuesTeam2025
-> The Value Based Institute curated by Eva Andersson
-> Jameson Jones-Doyle, Jean-Christian Rindoni, Ramla R., Niklas Österberg, Harriet Chunu-McClatchey, Daniele Ponzo, Ines Bosnjak, Abbe Alzarzour, Saphie Nefer ALIM, Marc Lawn, Bobby Bakshi, Kathy Eastwood, Shekhar Kohli, Siam Hossain
-

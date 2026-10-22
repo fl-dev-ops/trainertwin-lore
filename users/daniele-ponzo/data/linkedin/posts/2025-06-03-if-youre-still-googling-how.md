@@ -43,24 +43,3 @@ We’ll look at:
 
 If you want to be taken seriously, you need the language that does the job.
 Let’s make that happen.
-
-## Comments (6)
-
-### Farhan Khalid (Fractional IT Director for UK SMEs | IT Strategy & MSP Oversight | Helping CEOs Reduce Risk & Optimise IT Spend | 15+ Years Experience)
-> One tip: try using new phrases right after meetings to make them stick faster.
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> This is an AWESOME resource! Love it Daniele!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> So true. Speaking the language of business and tech fluently is a career multiplier.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> This is spot on. Clear, confident language can make all the difference especially in fast-paced tech and business environments. Daniele Ponzo
-
-### Vittorio Verardi (🛸 Costruendo l’Italia delle Startup | Presidente @Needs Startup Association | Consultant & Advisor)
-> side note: if you use a lot of random english words even when you speak Italian, then you work in digital 😂
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> So true, knowing the work isn’t always enough if you can’t communicate it clearly. Thanks for sharing such a practical resource!
-

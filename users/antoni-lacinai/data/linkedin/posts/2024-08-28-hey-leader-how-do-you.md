@@ -14,11 +14,3 @@ A good friend of mine Hasse Carlsson wrote a book called: Do we work together or
 Great title!
 
 This evening I joined a leadership training program where I will train and share insights around effective communication. But that’s for tomorrow. Tonight we have joined forces to cook a 4-course meal. Fun time! 😃
-
-## Comments (1)
-
-### Elin Giczi (Video Branding Strategist | Knitting enthusiast @knitwithelin 🧶 | Speaker & Educator)
-> That’s so true Antoni Lacinai - cooking together has everything to do with team work and communication!
-> 
-> In fact, I know many people who get along really well until you see them in the kitchen together 😅
-

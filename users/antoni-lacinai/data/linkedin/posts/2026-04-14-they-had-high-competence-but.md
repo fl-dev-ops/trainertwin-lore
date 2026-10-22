@@ -32,6 +32,3 @@ pretty cool if you ask me ^_^
 Upskilling is within your grasp, too. 
 You won’t get a different result without changing people's behavior.  
 And you won’t change behavior unless you change your communication.
-
-### Shared Document: [Antoni Case study]()
-

@@ -12,7 +12,3 @@ article:
 
 Which BIRD are you? Watch this video to find out and explore the importance of SELF AWARENESS as a key life and career skill. Share your bird type in the comments :)
 #selfawareness #selfawarenessjourney #personalityassessment #lifeskills #selfaware
-
-### Shared Article: [How to Improve SELF AWARENESS - Which BIRD are you?](https://youtu.be/5lTwSXvymfE)
-> youtube.com
-

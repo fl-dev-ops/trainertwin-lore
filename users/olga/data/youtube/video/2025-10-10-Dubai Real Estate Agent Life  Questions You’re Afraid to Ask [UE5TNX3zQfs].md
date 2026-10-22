@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Dubai Real Estate Agent Life: Questions You’re Afraid to Ask
-
-## Transcript
-
 speaker_1: Congratulations you just discovered someone who doesnt have money So this is the message where we kind of black him that we kind of poke him Are you here man Are you alive Do you want to make money You have to drop it when you are walking into the sales floor There is no self validation The people gonna not validate you gonna not tell you youre beautiful So you you build yourself your own confidence saying Im good anyway Oh If I wasnt able to serve you with your not able to show you that Dubai is a great spot well okay its your loss not mine So welcome to this video Theres a first type of kind of a content Ekaterina is here You cannot yet see her but Im pretty sure shes going to become one of the top real estate agents Is this the plan
 
 speaker_2: This is the plan yes And there is no way back

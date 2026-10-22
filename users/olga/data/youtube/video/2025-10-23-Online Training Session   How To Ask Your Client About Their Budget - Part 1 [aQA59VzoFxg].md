@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Online Training Session How To Ask Your Client About Their Budget - Part 1
-
-## Transcript
-
 speaker_1: Okay so let Marianne be the client Okay Volta lets make it almost like a private session for you If you will allow me uh were gonna imagine that um everyone already has all of the skills and the competencies that they need and uh we are just in an imaginary world where still something can be improved So Im going to be trying to improve this small little bit Bits So if I will feel like I want to stop you and ask you to re to re ask the question or ask it in a different way I will do so because its easier for you to understand on the spot what youve done maybe not that ideal and redo it And I will not let you proceed uh till the point that I will feel that youve done it 100 percent Okay will you allow me to do this
 
 speaker_2: Sure

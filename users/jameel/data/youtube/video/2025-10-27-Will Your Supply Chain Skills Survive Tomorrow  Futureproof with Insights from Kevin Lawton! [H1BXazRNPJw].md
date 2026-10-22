@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Will Your Supply Chain Skills Survive Tomorrow? Futureproof with Insights from Kevin Lawton!
-
-
-## Transcript
-
 speaker_1: Go work on the floor in whether its a warehouse manufacturing facility a trucking company or something thats close to you And trust me theyre always hiring So like theres no like struggle to try and find something like that you know versus like a traditional kind of internship Do that for like a winter break or in the summer or something in between your semesters
 
 speaker_2: Just yesterday I received a question from one of my subscribers who has done I think a masters in supply chain and now he was asking me should I go and do a PhD in supply chain I said no stop Just go and work in a company Just find any job even if you have to go and work in a warehouse and just lift boxes just do that because there is no parallel to experience in supply chain

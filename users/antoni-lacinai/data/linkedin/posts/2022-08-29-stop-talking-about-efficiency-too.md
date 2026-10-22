@@ -16,31 +16,3 @@ So I developed this simple formula called E=ExE for leaders and teams who are fe
 #leadership #communication #engagement
 
 "all models are wrong, but some models are useful" (does  anyone knows  who said that?)
-
-## Comments (5)
-
-### Jennie Madsen (Hållbarhet ❤️ Ledningssystem)
-> So important with engagement, to involve and create! Perfect way of illustrating the profit 🙏
-
-### Ozlem Tan (Enhetschef hemvård Nattpatrullen på Halmstads kommun)
-> Thank you for the post Antoni Lacinai always interesting, inspiring and easy to grasp. 
-> 
-> So what do you advice is the next step in order to work with your E=ExE? How can it be measured? How can it be improved? How can it be maintained?
-> 
-> My contribution to your brilluant model:
-> In many organisations efficiency = growth. Mostly finacially.
-> Energi = costs, as in waste of possible productivity and of course staff turnover.
-> 
-> So from an employee perspective energi is in focus and close to hart. 
-> From a mangement perspective productivity is in focus and close to hart. 
-> E=ExE is therfore a good model in showing how they are connected and intertwined, there is a need of both.
-
-### Sandra Jonsson (registred Pharmacist Apotek Hjärtat | Fundraising & Education Coordinator @ Cancer Research Foundation & Cancer Academy)
-> Love this model!
-
-### Ronald Meuwsen (International commercial leader I GTM I Sales & Business Development I Edge AI)
-> George Box ! The point of his statement being that (Ronalds' take) like many things, models also stick to the 80/20 rule .. use the 80% ...
-
-### Anu Sapra (Academic Advisor- Early and Primary Years at Manaskriti School)
-> Thanks for posting, it's insightful
-

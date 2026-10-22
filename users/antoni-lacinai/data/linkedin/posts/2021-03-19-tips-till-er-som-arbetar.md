@@ -15,7 +15,3 @@ Tips till er som arbetar med intranät och digital arbetsplats!
 Den 4 maj modererar jag Smarta Intranät konferensen. Det kommer bli en spännande dag! Ni får lyssna på Axfood, Skatteverket och Röda korset och många fler. 
 
 Ta del av agendan:https://buff.ly/2OsX4yS"
-
-### Shared Article: [Sveriges största konferens inom intranät och digital arbetsplats](https://buff.ly/2OsX4yS)
-> kompetensinstitutet.se
-

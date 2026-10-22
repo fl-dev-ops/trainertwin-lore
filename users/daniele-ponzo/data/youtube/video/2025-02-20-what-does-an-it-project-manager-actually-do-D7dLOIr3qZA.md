@@ -31,11 +31,6 @@ speakers:
   speaker_2: 'Luther Lebtag'
 ---
 
-
-# What Does an IT Project Manager Actually Do?
-
-## Transcript
-
 speaker_1: Okay what else What do you do and where are you
 
 speaker_2: Yeah so yeah so yeah my name is Luther Um Im currently based in Berlin Germany And um so my current job Im Im a project manager Im an IT project manager and Im a lead um transition manager for Lenovo So um so my main job is really the deliver of the Lenovo services to global global accounts So pretty much building the business here for Lenovo has been very challenged last year

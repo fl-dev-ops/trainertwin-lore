@@ -26,9 +26,3 @@ By investing in mastering English vocabulary for project management, we elevate 
 📨 I'll message you the download link. No strings attached ✌
 
 #projectmanagement #language #projects #businessenglish
-
-## Comments (1)
-
-### Dominique Assouline (Manager de transition | Transformation & redressement d’environnements industriels complexes | 25 ans d’expérience exécutive (Aéronautique, Énergie, Pharma, Luxe, Agro) | Lauréat The Independent 2024)
-> PM Thanks
-

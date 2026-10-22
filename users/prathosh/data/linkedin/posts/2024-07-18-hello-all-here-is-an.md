@@ -24,7 +24,3 @@ This work resulted in a successful grant of a US patent -  https://lnkd.in/gNds
 I genuinely believe that it's high time that the ties between industry and academia has to get stronger in India. 
 
 Rahul Prajapat Rishabh Agrahari
-
-### Shared Article: [US12032929B2 - System and method for cross domain generalization for industrial artificial intelligence applications class - Google Patents](https://patents.google.com/patent/US12032929B2/en)
-> patents.google.com
-

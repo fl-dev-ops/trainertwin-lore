@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_englishtips-itprofessionals-bu
 likes: 12
 comments: 5
 images_count: 1
+author_comments:
+- |-
+  📌 Scared of Business English? Fear no more!
+  https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-confidence-activity-7206890546554904577-oy2j
+- '📌get my mini grammar guide with extra explanations and exercises: https://docs.google.com/document/d/1ftas-UDzskmZrI9RbL0MnYcNrg3Wqwzd/edit'
 ---
 
 7 fundamental pieces of English grammar you need to master if you want to work internationally.
@@ -49,17 +54,3 @@ Hi, I'm Daniele. I post about English communication, IT and confidence.
 Like my posts? Follow or connect with me here➡️ Daniele
 
 #EnglishTips #ITProfessionals #BusinessCommunication #LeadershipSkills
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Scared of Business English? Fear no more!
-> https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-confidence-activity-7206890546554904577-oy2j
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo A taste of grammar
-> and a black one ☘️🇮🇪 Sláinte
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌get my mini grammar guide with extra explanations and exercises: https://docs.google.com/document/d/1ftas-UDzskmZrI9RbL0MnYcNrg3Wqwzd/edit
-

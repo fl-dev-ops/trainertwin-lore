@@ -56,13 +56,3 @@ Ok, even if you’re not that radical, let me know what your favourite film is (
 Image credits: Silent London
 
 #nerd #silentfilms #twistedreality
-
-## Comments (2)
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> This would be nice to watch. I get inspiration from everything artsy like this, especially for my poetry. I should go watch it. Thanks for the suggestion, Daniele Ponzo.
-
-### Francesca Garofalo (Giornalista pubblicista freelance | Copywriter | Cacciatrice di storie)
-> Good morning Daniele😍 mamma che capolavoro! Una chicca dell'espressionismo tedesco come poche: dalle luci e ombre dipinte nel set, come dici, all'atmosfera futurista.
-> Recentemente ho visto Genuine di Wine, un altro muto che mi è piaciuto molto, restaurato e musicato in chiave moderna
-

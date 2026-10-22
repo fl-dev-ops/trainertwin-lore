@@ -18,9 +18,3 @@ TonyLatimer.ai is at the forefront of this evolution. Merging Tony's extensive c
 It signifies a move away from one-size-fits-all solutions to personalized, adaptive learning paths, ensuring every leader gets what they need, when they need it.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Duc Thong Do (Research human potential, design a lifestyle, and build a career online)
-> Impressive innovation. Thank for sharing Tony Latimer, MCC
-

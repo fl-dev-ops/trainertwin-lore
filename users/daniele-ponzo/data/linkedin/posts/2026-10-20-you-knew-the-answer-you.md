@@ -100,21 +100,3 @@ But you just couldn't show what you knew in that moment.
 And those are two very different things.
 
 𝗛𝗮𝘃𝗲 𝘆𝗼𝘂 𝗲𝘃𝗲𝗿 𝗹𝗲𝗳𝘁 𝗮𝗻 𝗶𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗺𝗲𝗲𝘁𝗶𝗻𝗴 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴, "𝗜 𝗸𝗻𝗲𝘄 𝘄𝗵𝗮𝘁 𝘁𝗼 𝘀𝗮𝘆. 𝗜 𝗷𝘂𝘀𝘁 𝗰𝗼𝘂𝗹𝗱𝗻'𝘁 𝘀𝗮𝘆 𝗶𝘁 𝗶𝗻 𝘁𝗶𝗺𝗲"?
-
-## Comments (5)
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Such a vicious circle indeed Daniele Ponzo. I am constantly in awe of the tech people on the projects I work on when they can explain something clearly in a language that is not their first.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Confidence grows when we stop measuring our knowledge by how quickly we speak and start focusing on the value we bring. Daniele Ponzo
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> So true! The ability to think in a language and respond spontaneously in it are not the same. Regular practice in realistic meeting situations can help bridge that gap and build confidence over time.
-
-### Marilyn PAU AI  Curate IQ Lab (Empowering Brands with Data Strategy & Business Intelligence design.)
-> This is an important distinction: communication speed and professional capability are not the same thing. Too many people mistake a momentary struggle with language for a lack of competence. The reality is that expertise doesn't disappear because it takes a little longer to express. Don't let fluency become the yardstick for your worth.
-
-### Ben Palmer (I help busy executives to improve their English communication: Soft Skills | Intercultural Communication | Public Speaking | Event Preparation | Difficult Conversations | Habits | AI Usage)
-> The vicious circle can become a virtuous one if people start practising and seeing they can communicate effectively, then confidence grows and motivation to keep practising too Daniele Ponzo
-

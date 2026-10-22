@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 58 Ada-Boosting
-
-## Transcript
-
 speaker_1: Welcome everyone to this course
 Uh in this lecture we will continue our
 discussions on the boosting algorithms

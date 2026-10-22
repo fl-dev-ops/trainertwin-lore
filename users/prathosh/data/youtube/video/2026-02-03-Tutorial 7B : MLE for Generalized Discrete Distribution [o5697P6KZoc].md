@@ -1,6 +1,6 @@
 ---
 id: o5697P6KZoc
-title: Tutorial 7B : MLE for Generalized Discrete Distribution
+title: "Tutorial 7B : MLE for Generalized Discrete Distribution"
 url: https://www.youtube.com/watch?v=o5697P6KZoc
 date: '2026-02-03'
 duration: 23:07
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 7B : MLE for Generalized Discrete Distribution
-
-## Transcript
 
 speaker_1: Hello all welcome to the next part of
 this tutorial

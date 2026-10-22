@@ -15,7 +15,3 @@ How do you handle criticism? A commonly asked question during job interviews but
 https://lnkd.in/gRaP5gN9
 
 #JobInterviewTips, #HandleCriticism, #InterviewQuestions, #CareerAdvice, #ProfessionalDevelopment, #JobSearch, #JobInterviewPrep, #InterviewSkills, #JobInterviewSuccess, #CareerTips, #InterviewPreparation, #CriticismHandling, #RecruitmentInsights, #InterviewStrategies, #PersonalGrowth, #EmploymentTips, #InterviewTechniques, #SuccessStrategies, #CommunicationSkills, #CareerAdvancement #growthmindset
-
-### Shared Article: [How to answer "HOW DO YOU HANDLE CRITICISM?" Job Interview Question with tips and TWO EXAMPLES!](https://youtu.be/8VChN0T9AGg)
-> youtube.com
-

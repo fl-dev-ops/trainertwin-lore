@@ -17,7 +17,3 @@ Yasin shares his incredible journey to Canada and sheds light on the challenges 
 🎓 When it comes to qualifications, we discuss the age-old debate: Google/Amazon/Microsoft Certifications vs. Degrees. Uncover the secrets to success and understand the importance of embracing change, honing critical thinking skills, and developing leadership abilities in the ever-evolving tech industry.
 🎙️ Don't miss out on this episode full of wisdom and practical advice for aspiring tech professionals. Whether you're a recent graduate, an experienced professional, or someone eyeing a tech career shift, this conversation will equip you with the knowledge needed to thrive in the Canadian tech landscape!
 👍 If you found this episode helpful, please like, share, and subscribe for more engaging conversations with industry experts. Let's build a community that empowers each other on the journey to success! 🚀🔗 #TechCareers #CanadaImmigration #PodcastInterview #CareerAdvice #softskills #movetocanada
-
-### Shared Article: [How to Land a Technical Role in Canada | Insights from a Telecom Executive](https://youtu.be/vXh31uuGvzs?si=aEi5sLryqLFZZeRw)
-> youtube.com
-

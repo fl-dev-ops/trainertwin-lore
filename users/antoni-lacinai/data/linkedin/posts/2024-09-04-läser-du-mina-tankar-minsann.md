@@ -26,15 +26,3 @@ Kul är det i alla fall
 Tack alla ni som gillar, läser, komementerar ^_^
 
 PS - har du något som du vill att jag utvecklar i text eller video?, med tips och tankar?
-
-### Shared Article: [Topplista - Våra mest lästa artiklar - Aktuellt - HRnytt](https://buff.ly/3XpkRkc)
-> hrnytt.se
-
-
-## Comments (1)
-
-### Elin Giczi (Video Branding Strategist | Knitting enthusiast @knitwithelin 🧶 | Speaker & Educator)
-> Grym är du Antoni Lacinai 🙌
-> 
-> Att någon tar sig den tiden och tar kontakt innebär att du berört! Hoppas att det leder till vidare inre reflektion för honom.
-

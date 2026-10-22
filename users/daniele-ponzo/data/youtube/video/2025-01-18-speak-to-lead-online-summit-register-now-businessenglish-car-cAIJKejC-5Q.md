@@ -36,9 +36,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Speak to Lead Online Summit | Register NOW #businessenglish #careeradvancement #english
-
-## Transcript
-
 speaker_1: Ready Steady Go

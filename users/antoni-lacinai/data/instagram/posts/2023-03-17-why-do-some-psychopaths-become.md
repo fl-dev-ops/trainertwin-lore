@@ -5,9 +5,12 @@ date: '2023-03-17T06:28:05.000Z'
 url: https://www.instagram.com/p/Cp4UXNUt4f2/
 likes: -1
 comments: 2
+image_text: |-
+  "Why do some psychopaths become leaders? There are two kinds of empathy. Empathy by calculation and empathy by compassion. A psychopath can only manage the first, but a compassionate human can master both."
+
+  @antonilacinai
 ---
 
-## Caption
 Why do some psychopaths become leaders? I got that question after a keynote in Tallinn. My answer:
 There are two kinds of empathy. 
 Empathy by calculation and empathy by compassion. 
@@ -16,20 +19,3 @@ master both!
 Which of these that will dominate a workplace depends on the CEO and the culture of the organization, but there is only one way that is sustainable. Guess which?
 
 #leadership #communication #engagement #keynote
-
-## Image Text
-
-> Alt text: Photo by Antoni Lacinai on March 16, 2023.
-
-"Why do some psychopaths become leaders? There are two kinds of empathy. **Empathy by calculation** and **empathy by compassion**. A psychopath can only manage the first, but a compassionate human can master both."
-
-@antonilacinai
-
-## Comments (2)
-
-### @mlacinai
-> Precis mitt i- rätt!
-
-### @elila11
-> Som du sa 👏
-

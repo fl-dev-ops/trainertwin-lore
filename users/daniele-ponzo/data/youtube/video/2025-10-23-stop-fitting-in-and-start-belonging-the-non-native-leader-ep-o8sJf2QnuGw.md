@@ -42,11 +42,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Stop Fitting In and Start Belonging | The Non Native Leader | Episode 31
-
-## Transcript
-
 speaker_1: Hi everyone and welcome to a new episode of the non native leader my video podcast series where we explore stories of people who were not born in English speaking countries but theyre having an international career using guess what English as their language People who work in Fintech IT the arts cinema um loads of different perspectives a lot of different people And I like talking to people and I like talking to diverse people My name is Daniele and Im the host of the non native leader podcast And Im really happy to have here with me a colleague Anna Anna Beregovaya Hello Hi Anna
 
 speaker_2: Hi Daniele I say I have already spoiled your colleague so because my next question was going to be what do you do Anna But you know it What do you do for a living Yes Well you youve already spilled yeah all the secrets Um I am equally um language trainer and a business communication coach for non native professionals mainly for the European companies Um I help people whose native language is not English but they nonetheless they have to use English on the daily communication to talk to their other non native colleagues So um I love exploring how to you know how to help them build this communication in order for the whole thing to work so that everyone understands each other Um and yeah my personal favorite um about this whole thing is that I feel that the English has been undergoing such a massive transformation with all my clients all my professionals Um and its really fun to watch So thats what I do for a living

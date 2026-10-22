@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 02 Recap of Probability Theory - 1, Part 1
-
-## Transcript
-
 speaker_1: Hello everyone welcome to the second
 class of this course
 titled mathematical foundations of

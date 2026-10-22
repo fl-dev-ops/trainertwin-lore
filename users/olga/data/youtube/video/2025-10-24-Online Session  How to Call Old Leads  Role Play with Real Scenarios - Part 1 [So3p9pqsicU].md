@@ -18,11 +18,6 @@ speakers:
   speaker_6: null
 ---
 
-
-# Online Session: How to Call Old Leads/ Role Play with Real Scenarios - Part 1
-
-## Transcript
-
 speaker_1: Okay lets make it easier Who wants to practice Who wants to role play Someone one person going to be an agent he can raise the hand Another person going to be a client and hes going to be a good client not all agreeable but the real client Okay Arseniy left the meeting so I suppose hes not going to participate right No Okay who wants to role play guys Even if youre not doing it yes go ahead Whos going to be helping uh Juan Whos going to be a client for Juan Juan going to be an agent Thank you Anastasia Perfect So you can now uh unmute yourself Im going to mute myself because Juan is next to me Hi everyone So were not going to bother And then look how it will go You can start implementing something from the script and then you go as you feel You have an understanding that you should ask about intent problem motivation Do it as you feel like right And then Im gonna do my notes And after Im gonna ask one of you guys to be a constructive feedback panel and to Communicate first what Juan did great First what he did great what was good Try to find good things This is a skill as well not only in Juan Try to find good things in you what you did good and then what he could improve Okay Im unmuting myself Go guys
 
 speaker_2: Hello good morning Excuse me may I know the name of the person I dont know

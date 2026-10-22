@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_levla-upp-dina-kunskaper-i-sommar-i-
 likes: 10
 comments: 1
 images_count: 1
+author_comments:
+- 'Hitta kurserna här: https://lnkd.in/dPDM3aQw'
 ---
 
 Levla upp dina kunskaper i sommar
@@ -16,9 +18,3 @@ Använd koden "lacinai25" för 25% rabatt på alla mina kurser eller premiumlice
 
 
 Ha en härlig sommar ^_^
-
-## Comments (1)
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Hitta kurserna här: https://lnkd.in/dPDM3aQw
-

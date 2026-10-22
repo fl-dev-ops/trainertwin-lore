@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_you-had-the-idea-but-it-didnt-
 likes: 47
 comments: 9
 images_count: 1
+author_comments:
+- Thanks for reposting, Theo Maximiliano Sojo  🙏
 ---
 
 You had the idea.
@@ -133,18 +135,3 @@ Every time.
 “Wait… how do I say this…”
  “I lost the word…”
  Or… nothing at all?
-
-## Comments (4)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Theo Maximiliano Sojo  🙏
-
-### Thomas Chen (​4 to 6-figure (USD) sales deals closed | Helping founders, sales professionals and their teams to get bigger clients through LinkedIn. | Trusted by clients worldwide (Testimonials in Featured/ Recommendations))
-> A simple first sentence helps your idea get heard before doubt takes over. Nice one, Daniele Ponzo!
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Very relatable most of the issue isn’t the idea, it’s the real-time load of thinking, structuring, and speaking at once. Daniele Ponzo
-
-### Leo Cascio (Purpose brand strategist | Personal branding specialist | ZeroChiavi™ Foiunder | Bello Dentro Milano Host | Psychology & Neuroscience enthusiast | I uncover your WHY and turn it into a BRAND! 🌻)
-> The weird thing is that some people say I'm clearer in English than in Italian, both when I speak and write. Dr. Ponzo, is that serious? 🤣 Or is it just English's fault?
-

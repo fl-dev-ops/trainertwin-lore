@@ -18,9 +18,3 @@ With TonyLatimer.ai, you have a partner that ensures your leadership learning ne
 It's like having a personal leadership library that's always up-to-date, always relevant, and always ready to guide you towards your next leadership milestone.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Alex Belov (Founder, BLV Group | Enterprise Web Systems · AI-Native WordPress Hosting · Growth | The Belov, Belov Digital, Belov Cloud, Webmatik, WPCloudLab)
-> Interesting perspective, Tony. But don't you think the essence of leadership is somehow getting lost in the digital translation? What's your take on fostering real connections?
-

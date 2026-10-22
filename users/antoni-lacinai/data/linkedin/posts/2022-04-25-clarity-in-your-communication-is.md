@@ -18,9 +18,3 @@ Just because there are so many communication channels, doesn't mean that there a
 How do you make sure you are clear? How do you make sure you understand others?
 
 #leadership #communication #engagement
-
-## Comments (1)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> By listening to their reaction and answer, I think. For example, if they sound defensive even though I just meant well, I must have communicated unclearly. This is something I think of quite a bit at the moment, actually.
-

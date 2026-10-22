@@ -22,11 +22,6 @@ speakers:
   speaker_11: null
 ---
 
-
-# Frontline Sales Training Day 4 (need to extract part 2) as now its part 1 only
-
-## Transcript
-
 speaker_1: Good afternoon We do have almost everyone Perfect
 
 speaker_2: Hi everyone

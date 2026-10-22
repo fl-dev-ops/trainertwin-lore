@@ -18,15 +18,3 @@ So what do speakers and rock stars have in common apart from being on the physic
 I never became a pop star even though I learned four chords on my guitar some 35 years ago. But for short bursts of time, I can almost pretend. And added to that, with rock bands, I seldom listen to the meaning of the song. As a speaker I know that my words are my most important tool. And of course, how I carry those words through the air or through copper and fiber into your brain and hearts.
 
 I love my job! Do you love yours?
-
-## Comments (3)
-
-### Bev Hancock (The conversations you need to have at Work, Online and on Stage: Conversational Leadership | Team Facilitation | Leadership Coaching | Real Conference Engagement)
-> Have you noticed that that at concerts people rush for the front seats whereas at conferences they fill up from the back.  It is the speaker who provides the concert experience that stays with the audience and provides an experience to remember.
-
-### Johan Levin (You are important)
-> Mr Headbanger
-
-### 🎯 Irene Nettéus (Utbildningschef DEKRA | Training Manager | Learning & Development)
-> Nice Antoni Lacinai Yeah - love my work! 😉 at @kiwasweden we have rockstars and "rock n roll" all week! 😎 🙌🏼
-

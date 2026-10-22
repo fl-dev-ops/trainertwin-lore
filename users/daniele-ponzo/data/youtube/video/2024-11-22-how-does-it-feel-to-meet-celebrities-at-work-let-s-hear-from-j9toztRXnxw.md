@@ -36,11 +36,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How does it Feel to Meet Celebrities at work? Let's hear from Luca, former hotel manager in Dublin!
-
-## Transcript
-
 speaker_1: And uh I got the job at the Claridge Hotel that was owned by Bono Vox and uh and the the age Yeah
 
 speaker_2: Speaking about dreams speaking about dreams coming true huh

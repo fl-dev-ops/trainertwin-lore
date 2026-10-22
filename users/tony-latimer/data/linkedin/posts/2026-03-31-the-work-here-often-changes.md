@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_the-work-here-often-changes-how-
 likes: 2
 comments: 1
 images_count: 1
+author_comments:
+- simplicityofmastery.com
 ---
 
 The work here often changes how people listen outside of coaching as well.
@@ -12,9 +14,3 @@ The work here often changes how people listen outside of coaching as well.
 Less assumption. More curiosity. More patience with complexity. Those shifts tend to show up in leadership, relationships, and everyday conversations.
 
 Membership options available.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> simplicityofmastery.com
-

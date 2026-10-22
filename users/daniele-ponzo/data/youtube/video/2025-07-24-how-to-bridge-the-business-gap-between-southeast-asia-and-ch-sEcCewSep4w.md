@@ -17,9 +17,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How to Bridge the Business Gap Between Southeast Asia and China
-
-## Transcript
-
 speaker_1: I I work as an international business consultant and a network connector So in simpler terms I help business bridge the gap between Southeast Asia and China So I connect people with the right people developing the market with the right strategy And besides my consulting work Im Im very passionate about mentoring

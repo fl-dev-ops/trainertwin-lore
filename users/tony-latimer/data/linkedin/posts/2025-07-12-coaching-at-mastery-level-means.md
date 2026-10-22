@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_masteryincoaching-icfmcc-executi
 likes: 24
 comments: 3
 images_count: 2
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 🎯 Coaching at Mastery Level means letting go of control.
@@ -24,18 +26,3 @@ You move beyond competence. Beyond MCC. You become.
 🔗 DM me to be notified early or visit simplicityofmastery.com
 
 #MasteryInCoaching #ICFMCC #ExecutiveCoaching #Level3Coaching #CoachingAtTheSpeedOfThought #LeadershipDevelopment #CoachingPresence
-
-## Comments (2)
-
-### Asli V. (Certified Trainer | Operations & Systems Strategist | AI & Supply Chain Workflows | Transforming Visionary Concepts into Scalable Realities)
-> Tony, this post really hits home! 🌟
-> 
-> I love how you describe letting go of control. It's so true, the more we do less, the more magic happens! ✨
-> 
-> Mastery comes with time and practice. I'm excited for Level 3! 👏
-> 
-> Let's connect soon!
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

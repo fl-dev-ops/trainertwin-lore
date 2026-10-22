@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter07
-
-## Transcript
-
 speaker_1: अथ सप्तमोऽध्यायः
 ज्ञानविज्ञानयोगः
 श्रीभगवानुवाच

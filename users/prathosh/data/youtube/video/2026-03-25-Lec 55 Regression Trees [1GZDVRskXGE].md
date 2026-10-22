@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 55 Regression Trees
-
-## Transcript
-
 speaker_1: Welcome back So so far we looked at
 decision trees for classification What
 do we do for regression

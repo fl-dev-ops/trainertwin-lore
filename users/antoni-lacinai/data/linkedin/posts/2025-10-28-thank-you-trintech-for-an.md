@@ -14,12 +14,3 @@ And for letting me share insights on effective communication
 My core message:
 - Save time on work tasks
 - Spend time on relationships
-
-## Comments (2)
-
-### Bob 'Idea Man' Hooey, Global Speaker, AS (People need help and hope! That is my business! Engage my Ideas At Work for you and your teams’ growth and success.)
-> Bravo my friend
-
-### Dixie Maria Carlton - CSP (Empowering & Educating authors and professional speakers From Pages to Stages. Some call me ‘The Word Witch’, because I help create practical magic for those with wisdom worth sharing.)
-> Great video and slides...  I love your communication work and processes and every time we talk I learn something new.
-

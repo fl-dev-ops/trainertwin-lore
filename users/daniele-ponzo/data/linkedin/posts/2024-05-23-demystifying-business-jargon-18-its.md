@@ -66,18 +66,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #LanguageLearning #ITProfessionals #businessjargon #onmyradar
-
-## Comments (3)
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> This expression reminds me of a lyric from a Tory Lanez song I can't get out of my head recently Daniele Ponzo! 😂
-> 
-> Unrelated but what kind of music do you like? And have you ever tried teaching clients through music? (more related, I brought it back 😉)
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Another great one Daniele! 😍👏
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> What's on my radar? My mortal enemies 😂 
-> No, just kidding 🙄
-

@@ -56,12 +56,3 @@ Because diversity becomes an asset only when teams know how to design for it.
 “𝗘𝘃𝗲𝗿 𝗛𝗮𝗱 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗜𝗱𝗲𝗮… 𝗕𝘂𝘁 𝗗𝗶𝗱𝗻’𝘁 𝗦𝗮𝘆 𝗜𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗲𝗲𝘁𝗶𝗻𝗴?”
 Wednesday, 1st of April — 4PM CET.
 LinkedIn LIVE: https://lnkd.in/d3dN5f4D
-
-## Comments (2)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Very true. Without the right structure, diversity can stay silent instead of becoming real value.
-
-### Thomas Chen (​4 to 6-figure (USD) sales deals closed | Helping founders, sales professionals and their teams to get bigger clients through LinkedIn. | Trusted by clients worldwide (Testimonials in Featured/ Recommendations))
-> The strongest teams do not just welcome difference, they make enough space for difference to turn into contribution. Nice read, Daniele Ponzo!
-

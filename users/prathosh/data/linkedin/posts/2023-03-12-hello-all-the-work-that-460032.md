@@ -26,7 +26,3 @@ Some of you might find it interesting.
 #aiforgood #startup #publichealth #autism 
 
 Manu Kohli Varun Ganjigunte Prakash Biotechnology Industry Research Assistance Council (BIRAC) Chair ECE Department of ECE, IISc
-
-### Shared Article: [Video‐based real‐time assessment and diagnosis of autism spectrum disorder using deep neural networks](https://onlinelibrary.wiley.com/doi/10.1111/exsy.13253)
-> onlinelibrary.wiley.com
-

@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #criticalthinking #problemsolving #facts #factfinding #careeradvice #jobtips #activelistening
-
-
-## Transcript
-
 speaker_1: The second part of data gathering is getting some verbal feedback So this can come through surveys or interviews with the different stakeholders Now one thing to keep in mind is as you do these interviews you will see a lot of opinions emotions narratives and facts all coming out at the same time Your success as a critical thinker is to filter out the facts from emotions

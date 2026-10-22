@@ -11,7 +11,3 @@ article:
 ---
 
 the new forefront of consumer business....
-
-### Shared Article: [Amazon Fights Wal-Mart for Low-Income Shoppers](http://a.msn.com/00/en-us/BBCaggW?ocid=sl)
-> wsj.com
-

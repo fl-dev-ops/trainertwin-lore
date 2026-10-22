@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Turn Your Language Skills into Superpowers #shorts
-
-## Transcript
-
 speaker_1: like everything you have you could you could bring it to the table And then you see this when you see your multilingual brain as a superpower like wow I not only do I speak English but I also speak Italian and Russian and Ukrainian and Scottish and whatever languages youre speaking its its like its its valuable you know So you could you should bring everything in you know And it becomes it becomes easier in a way Yeah
 
 speaker_2: Yes absolutely And I love the way you frame this as a superpower because in reality thats what it is you know Because uh bringing our identity there and our the way we are unique

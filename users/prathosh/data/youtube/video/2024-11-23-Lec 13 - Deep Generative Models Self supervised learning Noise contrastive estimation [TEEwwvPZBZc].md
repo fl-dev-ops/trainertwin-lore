@@ -15,10 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 13 - Deep Generative Models Self supervised learning Noise contrastive
-
-## Transcript
-
 speaker_1: See well its not opening calendar CCC exam and
 
 

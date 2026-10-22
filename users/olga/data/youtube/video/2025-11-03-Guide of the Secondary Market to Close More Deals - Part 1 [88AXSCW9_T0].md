@@ -14,11 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Guide of the Secondary Market to Close More Deals - Part 1
-
-## Transcript
-
 speaker_1: So anyway Fahad how was your experience calling to the agent
 
 speaker_2: Yes it was an interesting experience It really allowed me to get my feet onto the ground I had some that didnt answer the phone I had one who called me back The one who called me back kind of threw me off my feet a little bit So you know I was just reeling off Everything from the script So it wasnt impactful The ones that did answer in fact my first individual that answered it was an interesting one She was actually just leaving for holidays and she asked for a call at a later stage However I was able to engage with her based on some personal detail I captured from doing a bit of research on LinkedIn and her company profile So I found out she was from Italy I used her surname as the icebreaker to kind of continue that conversation So I found out when shes going when shes returning who shes going with found out a little bit about how business was is for her So I have a call scheduled back on the 28th to try and get her in for a briefing So that was one And then a couple of others I was able to connect with they were asking for digital brochures information For example the one I hooked and wanted to have a brochure I hooked her via the 5 percent paid in 7 days She literally said tell me more about this 5 percent and when is it being paid how can I get it So that I used as leverage

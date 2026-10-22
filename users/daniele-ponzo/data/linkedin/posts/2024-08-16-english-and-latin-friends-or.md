@@ -50,20 +50,3 @@ P.S. what’s your relationship with Latin? Have ever had to deal with it?
 I wish everybody a great weekend (𝘞𝘪𝘤𝘦 𝘌𝘯𝘥𝘦, in old English)!
 
 #english #etymology #weekend
-
-## Comments (4)
-
-### Kushal Das (Strategic design for B2B companies | Founder, Hoco Studio)
-> Your passion for etymology really shines through, and I couldn’t agree more about the irony of language purism in our interconnected world Daniele Ponzo.
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Brilliant stuff, Daniele! I've always found etymology super interesting! Have a great weekend man 👊
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> It’s always amazing to see how languages evolve and influence each other. Daniele Ponzo
-> 
-> The idea of language purism does seem ironic, especially in our globalized world where words and cultures blend so seamlessly.
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> coming from a country where Romance languages are spoken, I was close to Latin, I had classes in gymnasium and high school, still remember some of the declensions for nouns - a, ae, ae, am, a
-

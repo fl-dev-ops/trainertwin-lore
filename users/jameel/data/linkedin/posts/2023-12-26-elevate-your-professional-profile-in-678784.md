@@ -19,7 +19,3 @@ Excited to share my latest YouTube video on the 'Top 5 Soft Skills for Your Resu
 4️⃣ Emotional Intelligence
 5️⃣ Creativity & Innovation
 💼 These skills are the key to standing out in a competitive professional landscape. Watch the full video and empower your career journey. Let's thrive together in the workplace of the future! 🔍🚀 #SoftSkills #CareerDevelopment #ResumeTips #ProfessionalGrowth #FutureOfWork"
-
-### Shared Article: [Top 5 Must-Have Soft Skills for Your 2024 Resume - Mastering Tomorrow's Workplace](https://youtu.be/WZKTRkABVjM)
-> youtube.com
-

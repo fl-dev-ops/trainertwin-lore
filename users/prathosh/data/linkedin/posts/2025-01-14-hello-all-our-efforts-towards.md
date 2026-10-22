@@ -30,6 +30,3 @@ This is also a part of Atri Guha's ACM India IKDD Uplink Internship program.
 Chair ECE EECS @ IISc, Bengaluru IKDD Indrajit Bhattacharya Shourya Roy Srujana Merugu Himanshu Sharad Bhatt Department of ECE, IISc Indian Institute of Science (IISc) 
 
 #genai #unlearning #publication #iisc #tmlr
-
-### Shared Document: [TMLR_APP_Unlearning]()
-

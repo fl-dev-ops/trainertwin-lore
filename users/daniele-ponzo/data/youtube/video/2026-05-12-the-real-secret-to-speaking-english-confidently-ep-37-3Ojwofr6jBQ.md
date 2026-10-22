@@ -47,11 +47,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Real Secret To Speaking English Confidently | Ep. 37
-
-## Transcript
-
 speaker_1: through the experiences through this experiences and many different with many different age levels I realized that learning is not only about learning vocabulary or grammar It is also about how people structure ideas how they think
 
 speaker_2: helps your beliefs change helps to makes makes you see things in a different way And the concept for example of success right The the light motive is change right Changing career changing country but also changing approach to success to career to the way we see different cultures

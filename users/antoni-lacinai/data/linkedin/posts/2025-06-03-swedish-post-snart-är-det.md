@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_swedish-post-snart-%C3%A4r-det-almed
 likes: 19
 comments: 1
 images_count: 1
+author_comments:
+- Vad säger vännerna på Eventeffect Sven-Erik Remmare ^_^
 ---
 
 Swedish post: Snart är det Almedalen. 
@@ -24,9 +26,3 @@ Här får du sju snabba tips:
 7. Associera, reflektera, lägg dig i.𝗩𝗮𝗿 𝗮𝗸𝘁𝗶𝘃. Det blir så mycket mer dynamiskt än om moderatorn ska kämpa fram ett svar i taget.
    
 I år ska jag inte själv til Almedalen men jag önskar dig som ska dit riktigt spännande och kul dagar ^_^
-
-## Comments (1)
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Vad säger vännerna på Eventeffect Sven-Erik Remmare ^_^
-

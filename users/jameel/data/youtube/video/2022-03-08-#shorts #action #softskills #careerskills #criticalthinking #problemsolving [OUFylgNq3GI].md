@@ -12,11 +12,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #shorts #action #softskills #careerskills #criticalthinking #problemsolving
-
-## Transcript
-
 speaker_1:  how TO
 
 

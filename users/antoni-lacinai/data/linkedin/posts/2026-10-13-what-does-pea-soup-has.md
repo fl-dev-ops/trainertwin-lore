@@ -26,24 +26,3 @@ The audience are the pancakes. I devour 😄
 So if you are in the audience on the 14th of October at HR week in Riga, know that when I give you my broadest smile, you are my pancakes. 
 
 Dainius Baltrušaitis and Arturs C.    thanks for bringing me in and making the travel part a smooth experience. You rock!
-
-## Comments (6)
-
-### Harriet L Russell (Global Intercultural Strategist) (Intercultural Presenter, Global Keynote Speaker, Trainer, Coach/Consultant, Author. Work with Global Multicultural Teams and Individuals to Build Cross-Cultural Competence with More Mindfulness and Less Stress.)
-> Fun analogy! Keep on travelling for the people you meet.
-
-### Dixie Maria Carlton - CSP (Empowering & Educating authors and professional speakers From Pages to Stages. Some call me ‘The Word Witch’, because I help create practical magic for those with wisdom worth sharing.)
-> Great post - and love the analogy. Yes, travel is one of those love-hate things right. :-)
-
-### Dr. Wendy Lee, CSP, CBIP, CIC, ICDM (Certified BrandImage™ Consultant | Founder of BrandImage™ International Institute | President, VSAI | Certified Speaking Professional (CSP) | Executive Presence & Personal Branding Expert)
-> hahaah. LOVE this post!!
-
-### Andrius Francas (he/him) (Partner at Alliance for Recruitment, Labor market expert, FDI advisor, Business connector between Sweden and Baltics)
-> Lycka till Antoni i Rīga!
-
-### Ieva Drazniece (Paris 19-24 Oct 🇲🇫 | LinkedIn & Personal Brand Strategist | Speaker | Soulpreneur | Clarity and Confidence is not BS, it’s your Aligned Voice | Join self-paced online Leadership in Progress community)
-> Wishing you a great time in HRweek Latvia today and finishing 1st day with your keynote will be 🍒 Antoni Lacinai
-
-### Dainius Baltrušaitis (Organizational Psychologist, Economist, Entrepreneur, Public Speaker, LinkedIn Top Business Strategy and Human Resources (HR) Voice)
-> Thanks, Antoni Lacinai for joining in Riga. I will unfortunately will not be there (will be in Poland), but I am 100% sure you will rock!
-

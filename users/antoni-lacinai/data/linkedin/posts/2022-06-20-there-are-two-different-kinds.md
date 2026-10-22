@@ -35,19 +35,3 @@ Thanks for reading my mind
 //Antoni
 
 *Even computers can be programmed to detect emotional responses. Check out “affective computing and you’ll see.
-
-## Comments (3)
-
-### Marcus Skinnar (Entrepreneur & benefactor, crossborder trading and transactions Asia-Africa-Europe)
-> psychopaths can flourish within fields of businesses where you dont work with making people work (Like Finance, banking etc). Very few succesful people make it with fake sympathy. So, in my view. There is few people in very high positions who are psychopaths.
-
-### Alena Ipanova (Helping Global Leaders & Teams Work Better Across Differences | Leadership Development Partner • Speaker | 200+ Organisations | Trusted by Boeing & Volvo | Book Your Conversation in Featured)
-> Very insightful post Antoni Lacinai thank you 🙏 
-> I think for the biggest part my understanding of empathy mostly related to the second type that you describe. 
-> What I personally find fascinating is developing empathy and emotional intelligence across cultures. When we might experience the same emotions and feelings, but we were taught to disguise them in different ways. 
-> 
-> What do you think is the impact of culture where we grow up on empathy?
-
-### Anders Bratland (Agentchef | Makes People Awesome with AI | Föreläsare och rådgivare inom AI och ledarskap)
-> So important!
-

@@ -38,9 +38,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Build Confidence in English for Global Jobs | Speak Up & Advance Your Career
-
-## Transcript
-
 speaker_1: I mean becoming getting confident in English in a different language doesnt matter Were talking about English now Is its just a matter of practice so getting into action really And this is why I love your story Adrian because this is exactly what you did So you decided you wanted to go international and the best way was to start communicating in English And the best way to start communicating in English well is communicating in English So this is exactly what you did

@@ -29,9 +29,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Moving Abroad: The Expectation vs Reality #shorts
-
-## Transcript
-
 speaker_1: what happened was first of all when it was my first international career I did not have any mentor that it could have to advise me on what to expect and what are the difference what are the challenges that someone can face when moving abroad I did have the dream of kicking off or having an international career but I did not necessarily had the tools back then So when I moved to Colombia um first of all I was expecting the country to welcome me as they as it had been in the past as a tourist And that was not the case Uh then the other thing was definitely culture I was a single woman moving internationally to lead an organization

@@ -69,15 +69,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️ Daniele.
  
  #english #Itprofessionals #languagetips
-
-## Comments (3)
-
-### Jacqueline Monsalve-Amati TEFL (✦ I help foreign-trained doctors master the communication skills to deliver with authority at conferences and workshops.)
-> These are great ideas, Daniele.
-
-### Kathy Tosolt (I Help International Business Executives Unlock New Career Opportunities 🗝🔓By Advancing Their English Communication Skills In 10 Weeks 🚀 Business English Expert | Client Success Stories👇🏽| DM For Info ✉️)
-> Describing images and objects is a great technique- especially for engineers who need to describe how something works. These are all great suggestions Daniele Ponzo!
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> So simple but a great idea!
-

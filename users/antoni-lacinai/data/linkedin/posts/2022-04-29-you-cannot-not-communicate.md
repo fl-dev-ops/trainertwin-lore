@@ -21,9 +21,3 @@ You cannot choose whether or not you communicate. You can’t even decide what y
 Imagine you’re the boss and you are in a meeting. You find it boring and decide to be efficient, so you pick up you phone and respond to some emails. This will not go unnoticed. Your people will think “Hm, we’re obviously less important than whatever is on that screen...”
 
 #leadership #communication #engagement
-
-## Comments (1)
-
-### Jesper Ek (Transformerar chefer till energiskapande ledare | 180+ klienter | Ingenting börjar med resultat, allting börjar med människor | Skapare av EMPLAYMENT-metoden | Hjälper ledare bygga team-energi som driver resultat |)
-> Well said my friend! 🙌
-

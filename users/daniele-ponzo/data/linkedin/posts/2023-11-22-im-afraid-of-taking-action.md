@@ -77,15 +77,3 @@ Message me the word 'ENGLISH' if you're interested and I'll send you the details
 Hope the Professionals below can inspire you in some way!
  
 #english #itprofessionals #career
-
-### Shared Document: [Client Results 🚀]()
-
-
-## Comments (2)
-
-### Vanessa Andrews (Associate Consultant)
-> 😀Even in my home language I make those fear-statements Daniele. Always room for improvement in language. Keep sharing.
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> wonderful comments and it's a great feeling when we know we are changing lives
-

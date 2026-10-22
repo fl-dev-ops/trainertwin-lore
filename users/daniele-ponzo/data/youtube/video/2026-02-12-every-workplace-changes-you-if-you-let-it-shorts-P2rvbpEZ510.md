@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Every Workplace Changes You If You Let It #shorts
-
-## Transcript
-
 speaker_1: Uh when we think about difficulties when we think about challenges you know Yeah
 
 speaker_2: But uh its uh I I think its more a Latin thing than uh Italians also they dont have too much difficult perhaps I have been I have been uh in uh Salerno for two weeks to learn uh Italian And what I saw there is that there was a lot of unemployment in Salerno And at the time there was a lot of work in Milano Torino in the north of it But it was very difficult for those guys in Salerno to leave the home of the mama and things like that

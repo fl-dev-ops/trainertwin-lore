@@ -11,7 +11,3 @@ article:
 ---
 
 Loyal employees only have two options. Stay and risk burnout without any fair career path and compensation, or leave even though you don't really want to.
-
-### Shared Article: [Loyal employees have only two choices](https://www.linkedin.com/pulse/loyal-employees-have-only-two-choices-antoni-lacinai-sslvf?trackingId=aVyNGXsdDf143Yjyo6RlGg%3D%3D)
-> Antoni Lacinai
-

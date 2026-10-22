@@ -15,13 +15,3 @@ Ett noll, noll ett noll...
 Min årskrönika på Eventeffect  - där vi 2020 vandrat omkring utan koll...mellan ett och noll
 
 Gott nytt år vänner!
-
-### Shared Article: [Årskrönika från Antoni Lacinai - eventeffect.se](https://buff.ly/38k7TK1)
-> buff.ly
-
-
-## Comments (1)
-
-### Britt Konnander (Enterprise Transformation Leader | Digital Transformation | AI Adoption | Change Leadership | Auther | Turning strategy into business value)
-> Så underbart att läsa hur du lyckats ställa. Grattis Antoni och stort lycka till 2021
-

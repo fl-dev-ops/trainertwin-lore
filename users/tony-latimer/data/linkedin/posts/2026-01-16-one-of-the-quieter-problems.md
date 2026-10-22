@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_one-of-the-quieter-problems-in-c
 likes: 2
 comments: 1
 images_count: 1
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 One of the quieter problems in coaching is that most learning environments are built around intensity rather than continuity.
@@ -14,9 +16,3 @@ A workshop can be stimulating, even transformative in the moment, but mastery do
 Simplicity of Mastery™ exists to provide that continuity. It’s not just about learning ideas. It’s about giving the ideas enough space to settle and reshape how you coach.
 
 Simplicity of Mastery™ Foundations and Full Contact are open.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

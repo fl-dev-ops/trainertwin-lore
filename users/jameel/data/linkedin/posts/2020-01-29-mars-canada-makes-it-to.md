@@ -11,7 +11,3 @@ article:
 ---
 
 Mars Canada makes it to Forbes list of top 100 Canadian employers.... Very interesting to see the diversity in terms of industries on the list.
-
-### Shared Article: [Canada's Best Employers 2020](https://www.forbes.com/canada-best-employers/)
-> forbes.com
-

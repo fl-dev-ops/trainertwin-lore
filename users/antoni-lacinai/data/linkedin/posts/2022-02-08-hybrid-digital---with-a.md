@@ -21,9 +21,3 @@ How do you foster a great culture regardless of where your team is located?
 It's about making sure that you include everyone, you praise everyone, you don't have a proximity bias and promote only the people next to you, you keep using digital tools.
 
 #hybridleadership #communication #engagement
-
-## Comments (1)
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Great piece! I love how it can challenge people to develope to meet the future! #change #newtimes #walkthetalk #culture #development
-

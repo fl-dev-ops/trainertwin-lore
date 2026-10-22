@@ -17,14 +17,3 @@ Arthur has his own versions of those stories. And the book quietly shows how tho
 
 The antidote is not force. It’s clarity, and clarity comes from conversation.
 Available on Amazon & Kindle
-
-## Comments (1)
-
-### Govind Pathak (International Book Awards 2026 Finalist (Science) | Global Bestselling Author | Director | | Systems Thinker | AI, Telecom, Space & Quantum Strategist | Building Intelligent Infrastructure for the Intelligence Economy)
-> Powerful insight.
-> 
-> Selling isn’t about pushing; it’s about resolving ambiguity.
-> When clarity replaces hesitation, conversations turn into momentum.
-> 
-> Love how the book reframes fear as a narrative we can rewrite.
-

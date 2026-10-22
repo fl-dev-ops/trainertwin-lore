@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_techjargon-innovation-techlead
 likes: 18
 comments: 6
 images_count: 1
+author_comments:
+- Thanks for reposting, Giulia Berlato 🙏
 ---
 
 A beginner’s guide to business English words in the workplace.
@@ -71,20 +73,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
  
  #TechJargon #Innovation #TechLeadership #BusinessEnglish #ITManagement
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Giulia Berlato 🙏
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Perfect guide for beginners in the workplace. Daniele ))
-> 
-> These are indeed, daily used words that nobody explains them in the office.
-> 
-> Thanks for sharing these essential business English words!
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> that's great Daniele
-> would make more sense if you organized that in a PDF with  some other tips and explanations
-

@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Reverse Engineering Systems Early in My Tech Career #shorts
-
-## Transcript
-
 speaker_1: two of the biggest clients were the Vatican Bank
 
 speaker_2: Sure

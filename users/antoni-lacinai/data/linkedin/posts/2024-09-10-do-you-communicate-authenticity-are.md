@@ -29,9 +29,3 @@ Is that who you want to be when you lead, present, collaborate, sell, serve...?
 When are you your best self?
 
 Or as my friend Dodi Axelson expresses it - Be yourself. Plus ten percent
-
-## Comments (1)
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Älskar "plus 10%"!
-

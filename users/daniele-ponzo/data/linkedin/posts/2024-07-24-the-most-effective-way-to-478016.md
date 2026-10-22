@@ -5,6 +5,12 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-globalmarket-career-ac
 likes: 17
 comments: 7
 images_count: 1
+author_comments:
+- |-
+  Check out these articles if you want to know more about job roles and English:
+  Italy: https://englishlive.ef.com/it-it/top/conoscenza-inglese-mercato-lavoro/
+  Spain: https://comunicae.es/amp/notas-de-prensa/el-ingles-en-el-mundo-del-trabajo-las-10/
+  France: https://www.challenges.fr/vie-entreprise/maitriser-l-anglais-une-condition-indispensable-pour-un-salaire-plus-eleve_779571
 ---
 
 The most effective way to improve your career.
@@ -58,28 +64,3 @@ P.S. need some ideas on how to get started? Send me a message and I can give you
 Image credits: Tenor
 
 #english #globalmarket #career #tech #projectmanagement
-
-## Comments (4)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> I couldn't agree more! 
-> 
-> Improving your English skills can have a significant 
-> impact on your career prospects and opportunities. 
-> 
-> The research is clear: having a good command of English can open up more job possibilities, lead to better positions, and even result in higher salaries. 
-> 
-> Thanks for sharing these insights and encouraging people to take action!
-
-### Giorgin Serbanescu (Natural Wellness Guide | Essential Oil Solutions for Daily Wellbeing | Resilience Facilitator)
-> Il tempo è il mezzo per trasmettere l'azione relativa al proprio scopo. Daniele
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> Improving your English can be a game changer for your career. It’s not just about expanding your job market; it's about unlocking better positions, higher salaries, and faster promotions Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Check out these articles if you want to know more about job roles and English:
-> Italy: https://englishlive.ef.com/it-it/top/conoscenza-inglese-mercato-lavoro/
-> Spain: https://comunicae.es/amp/notas-de-prensa/el-ingles-en-el-mundo-del-trabajo-las-10/
-> France: https://www.challenges.fr/vie-entreprise/maitriser-l-anglais-une-condition-indispensable-pour-un-salaire-plus-eleve_779571
-

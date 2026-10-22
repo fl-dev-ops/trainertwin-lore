@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What New Dubai Agents Don’t See Until It’s Too Late
-
-## Transcript
-
 speaker_1: Give it another go
 
 speaker_2: Done Im back

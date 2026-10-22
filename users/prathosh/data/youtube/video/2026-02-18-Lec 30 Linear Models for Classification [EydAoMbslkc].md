@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 30 Linear Models for Classification
-
-## Transcript
-
 speaker_1: Okay So so far uh we saw I mean
 theres a slight nuance there a slight
 change Yeah Question

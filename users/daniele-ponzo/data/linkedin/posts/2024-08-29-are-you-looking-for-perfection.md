@@ -41,30 +41,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
 #LanguageLearning #english #internationalcareer
-
-### Shared Document: [How to H.A.C.K. your English]()
-
-
-## Comments (5)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Love this! Daniele ))
-> 
-> Focusing on learning rather than perfection is so liberating.
-> 
-> Hacking English is all about progress, not perfection. 
-> 
-> Thanks for sharing your strategy! )))
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> Great tips with great visualisation Daniele!
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> What a fantastic acronym Daniele!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Nice hack Daniele Ponzo. 😀
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> I came to realisation that I will probably need to become ok with my "little bit broken English".... this is a good framework Daniele Ponzo. If I looked for perfection I would still be waiting to open my mouth and say something 😁🤷
-

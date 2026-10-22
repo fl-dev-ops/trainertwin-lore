@@ -20,15 +20,3 @@ Jag har modererat en hel hög paneler under åren, även i flera år i Almedalen
 8. 𝗩𝗮𝗿 𝗮𝗸𝘁𝗶𝘃. Det blir så mycket mer dynamiskt än om moderatorn ska kämpa fram ett svar i taget.
 
 Lycka till i panelen och heja Almedalen!
-
-## Comments (3)
-
-### Birgitta Sjöstrand (Conflict in hybrid teams costs hundreds of thousands. I teach managers to prevent it | Online programme (SE/EN) | Author, “Outstanding in the Middle”)
-> Vilka förstklassiga råd.
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Alldeles utmärkta råd, Antoni! Tackar!
-
-### Johanna Kauppinen (Reaching business goals with legal solutions. Legal Counsel @ Oy Snellman Ab)
-> Bra tips från Antoni - funkar även på Suomi Areena
-

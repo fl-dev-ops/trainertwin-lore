@@ -25,9 +25,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# It's Not Your English. It's Cognitive Load. #shorts
-
-## Transcript
-
 speaker_1: it could be broken technology but also it could be perceived noise So something that plays in our mind We are familiar with imposter syndrome right So do I really belong here Wait a second What if my pronunciation is not clear What if my words my choice of words is not clear right And thats perceived noise

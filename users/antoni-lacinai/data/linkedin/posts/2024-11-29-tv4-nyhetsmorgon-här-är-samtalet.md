@@ -21,7 +21,3 @@ Så kan vi inte ha det. Låt oss vara vänligare. Som chefer och kollegor och ka
 Hur gör du för att inkludera och bjuda in?
 
 https://lnkd.in/d3VKrecx
-
-### Shared Article: [Långvarig ensamhet – ett växande globalt problem](https://www.tv4.se/artikel/2wByIcDlNWrPzEzwQJ5uCc/langvarig-ensamhet-ett-vaexande-globalt-problem)
-> tv4.se
-

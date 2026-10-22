@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 13 Minimization of KL Divergence
-
-## Transcript
-
 speaker_1: Welcome back So now that we have uh a
 way to
 quantify the distance between the

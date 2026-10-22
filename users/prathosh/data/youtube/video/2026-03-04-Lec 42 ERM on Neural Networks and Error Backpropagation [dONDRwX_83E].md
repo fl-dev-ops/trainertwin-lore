@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 42 ERM on Neural Networks and Error Backpropagation
-
-## Transcript
-
 speaker_1: Okay welcome everyone Lets look at uh
 erm on neural networks
 So we start with uh x in RD and y in

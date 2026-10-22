@@ -15,11 +15,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From “It’ll Never Work” to “They Trust Me”: Gydion’s Journey to Self-Belief
-
-## Transcript
-
 speaker_1: evidence that its working you know its like you keep doing it and then its start starts working and then you can fight with the evidence So the first you know business is hard trying to get a client is hard for anyone Sales is hard already So on top of that I had a doubt its never going to work for me But once you have I think my first client was actually an Australian lady And and I was like wow I cant believe like people trust me This is insane Like you know and then it happened a few more times and and they were all uh this in English companies like proper comps like IT companies and it was not people doing this to help me or anything It was like this is business and theyre sending me the money So its very real its the evidence And and then you start thinking okay I yeah thats uh it was just in my mind Thats if they dont people dont care at all Or yeah So it was it was just doing it and and then then I dont even think about it
 
 speaker_2: Yeah it is is I can obviously relate to that because it feels awkward but at times you actually have to convince yourself So you have to pile up evidence and go in front of a mirror and say look this is evidence So you can you can do it and and then you go yes of course there is evidence So people want to work with me And yeah but

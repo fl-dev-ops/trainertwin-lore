@@ -21,19 +21,3 @@ There's no magic involved. Just these two ways. And I love being a guest on diff
 How about you? Are you more into consuming insights or producing insights? Both are needed in this eco system. 
 
 #Leadership #communication #podmatch #podcast #engagement
-
-### Shared Article: [PodMatch | Automatic Interview Matching for Podcast Guests and Hosts](http://Podmatch.com)
-> podmatch.com
-
-
-## Comments (3)
-
-### Alex Sanfilippo (Podcaster & Founder of PodMatch.com 💜)
-> You're awesome Antoni Lacinai!!! Thanks for sharing this :) Honored to be part of your #podcastguesting system!
-
-### PodMatch (2,369 followers)
-> Thank you for sharing about this!!! #podmatch
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Thanks for the tip! I was a member on PodMatch but cancelled my account, but will have another go now!
-

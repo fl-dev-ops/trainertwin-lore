@@ -31,18 +31,3 @@ I'm Daniele, I post about language improvement, coaching and IT.🖥️
 if you're interested in these topics, follow me here👉 Daniele
 
 #itprofessionals #worklifebalance #wellbeing
-
-## Comments (4)
-
-### Alejandra Ancella (English as a second language (ESL) | #BusinessEnglish and Language Mentor 📣 #Corporate 🇺🇸 #Trainer | History Teacher)
-> Thanks for sharing Robbie Kane Great post! And also funny Daniele Ponzo
-
-### Michael Schlapp (Live Experience & Event Operations | Team Leadership | Immersive Performance)
-> lmao based
-
-### Natália Guedes (Accounting analyst - Business - Financial - ACCA Student 4/13 (On Hold))
-> Rafael Lopes de Souza
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Haha love the visual Daniele
-

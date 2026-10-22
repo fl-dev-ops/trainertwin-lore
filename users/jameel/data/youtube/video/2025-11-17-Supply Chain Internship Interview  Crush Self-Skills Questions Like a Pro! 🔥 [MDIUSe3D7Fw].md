@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Supply Chain Internship Interview? Crush Self-Skills Questions Like a Pro! 🔥
-
-
-## Transcript
-
 speaker_1: So the next area is self skills Now what do I mean by self skills So self skills include things like time management which is very important because you need to demonstrate that you are good at managing your time Then adaptability a very important skill in supply chain because one of the challenges with any environment and supply chain is no exception probably its even more underscored in our world which is everything could change with one external factor So how do you adapt to changing situations And then they will also ask you questions around planning and learning agility is extremely important as well because you need to be a fast learner because lets say you know you change your job and you dont know anything technically about your new job because that is also something that happens quite frequently

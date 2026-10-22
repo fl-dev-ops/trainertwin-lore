@@ -33,9 +33,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Hardest Part of an International Career #shorts
-
-## Transcript
-
 speaker_1: Yeah I would say culture uh mostly because we take culture for granted So once you think about your home country um you know of course Im going to use the example of Brazil its kind of a natural for me to understand and interpret culture such as what I normally say right Um when people dont say things but their body language in one country it must be something or it must mean something whereas in another country it must have a completely different interpretation Uh when the the tone that people use to speak Brazilians and Latin Americans we are louder but its completely different than in the US So those are the things that to me is the most challenging uh parts of an international career or living abroad

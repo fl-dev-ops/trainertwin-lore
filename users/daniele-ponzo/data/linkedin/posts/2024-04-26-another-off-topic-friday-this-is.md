@@ -54,9 +54,3 @@ Do you share the same passion? Let me know below!
 Illustration (painting) by me 😊
 
 #passion #cycling #bike #nature
-
-## Comments (1)
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> This is so poetic, Daniele Ponzo. You literally put my imagination in flight -"Colours passing by like a painter's stroke." Great imagery right here.
-

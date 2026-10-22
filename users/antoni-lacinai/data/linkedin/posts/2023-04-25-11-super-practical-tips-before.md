@@ -37,25 +37,3 @@ To work at an exhibition is demanding, both physically and mentally. If your bod
 Later this year, publishing firm Austin Macauley will release my book Speed Selling, a book for those of you who want to generate high-quality leads in a booth. These  tips will be included ^_^
 
 #tradeshow #communication #speedselling
-
-## Comments (5)
-
-### Diploma (2,899 followers)
-> Toppen !!!
-
-### Marcus Lannerbro (Strategy & Marketing at Ericsson | Passionate Leader | Certified Board Member | Strategy Advisor | Marketing Advisor | AI Transformation)
-> Good list Antoni! Some of the bullets we’ve learnt the hard way! 😊
-
-### Anna Enarsson (Never stop asking why - to get to the how.)
-> Good list Antoni! 
-> From experience I would like to add FOCUS ON THE WHY. 
-> Purpose is key to; 
-> find energy when tired, to feel and share passion, to guarantee ROI, to align with your team, to enforce the messaging and to make a good plan for who does what and to feel valuable and needed 😊. 
-> If you like me, as a marketer, can influence the booth itself. Make sure as much as possible in your booth connects to your WHY like activity, give aways, messaging etc and matches your company’s values. ❤️‍🔥
-
-### Edward Nugent (Enabling Businesses to Become the Obvious Choice to their Clients | Founder Digital Scorecard | TrustPoint | MAI Index)
-> Good tips and I would add one. Plan how you are going to follow-up with those you meet. I have been to 2 trade shows this past month. And only a few do the follow-up, it was quite shocking and a lot of lost business. I ended up chasing them for quotes!
-
-### Helen Crowe Blomgren (Medlemsinformatör / Membership Recruitment at Företagarna | Swedish Federation of Business Owners)
-> Good reminders, Antoni!
-

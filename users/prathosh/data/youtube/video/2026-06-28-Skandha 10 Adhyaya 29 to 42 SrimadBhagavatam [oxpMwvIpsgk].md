@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 10 Adhyaya 29 to 42 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: गोप्यवूचुः
 जयति ते अधिकं जन्मनाव्रजश्रयत इन्दिरा साधु तत्र हि
 दैतदृश्यतां त्वान्दिदृक्षतां त्वयिगता सवस्त्वां विचिन्वते

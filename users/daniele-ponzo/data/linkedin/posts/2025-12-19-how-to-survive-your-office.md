@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_how-to-survive-your-office-chr
 likes: 40
 comments: 29
 images_count: 1
+author_comments:
+- '❄️ yes, it''s that time of the year! Have you already been invited to a corporate party? This is how I usually looked like when I received the email:'
 ---
 
 How to Survive Your Office Christmas Party
@@ -47,61 +49,3 @@ With this guide, I’m sure you will survive (and maybe even have fun) at your n
 Just remember: You’re not alone (unfortunately).
 
 P.S. any funny “Christmas party” stories? Let’s share them and support each other. 👇
-
-## Comments (15)
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Accurate, funny, and painfully relatable. This should be required reading before every office Christmas party.
-> 
->  Daniele Ponzo
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> Ah. I can't loiter around. I'll have to decline then. What a shame 😂
-
-### Jean Ng 🟢 (AI Changemaker | Global Top 20 Creator in AI Safety & Tech Ethics | The AI Collective Leader, Kuala Lumpur Chapter)
-> Thank you so much for this guide! The tips on setting a time limit and finding a base camp are helpful.
-
-### Mickey Hoh (Founder Narrative & Investor Materials Strategist ✔️ AI-Powered Marketing & Funding Readiness ✔️ HRD Corp Accredited Trainer ✔️ E3 Lead Community Builder)
-> Sometimes, corporate gatherings or parties can be rather superficial. Some are genuine, sincere, and uplifting, but these are the minority.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> This is hilarious and painfully accurate, every introvert needs this survival guide.
-
-### Chelike Nikhil (🚀 Full Stack Python Developer | CS Under Graduate ’24 | 2x AWS Certified | Red Hat® Certified Enterprise Application Developer | Google Cloud Certified | Oracle Certified | 360K+ LinkedIn Impressions)
-> This post is an absolute "Introvert's Manifesto"! It perfectly captures the psychological tightrope of corporate socializing. In the world of tech and data, where we often value deep work over small talk, these events can feel like an unoptimized algorithm running on a loop.
-
-### Emanuel Balsa (Helping 36K+ professionals make smarter money, career and, AI decisions | Daily lessons | Free quiz ↓ | Talks and partnerships, happyhelp@emanuelbalsa.com)
-> I use the time limit rule; it saves energy and focus. Finding a base camp near food feels smart.
-
-### Kevin Baratt (Pronunciation Evaluations/Resources, Three New Plans: Speech Clarity, Speak Clearly at Work, and Clear Speech and Confidence. Available for teams and individuals. All Core Materials are included.)
-> Get this:).  I worked for two separate departments at a large university. 
-> 
-> Both had parties the same night. I figured I would go to one earlier, then the 2nd and get away with it.... 
-> 
-> I did not.  In addition I later learned about the competition between the two.   
-> 
-> I left early = not good 
-> I came late = really bad
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> This guide is pure gold for the introverted warriors Daniele Ponzo 
-> The nod-and-smile tactic deserves a medal, and the fake phone call, brilliant strategy! Let's be real, every holiday event needs a smart escape plan.
-
-### Joy Igbaji (Content System that attracts Inbound market Deals)
-> Quietly appreciate the reminder that survival is a valid goal for a work party if you leave without a scene, a hangover, or HR paperwork, that’s a win.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Yikes. No rsvp...but then, I saw your tips..
-
-### Jon Sim (Counsellor at Fei Yue)
-> Love the structure and tips Daniele Ponzo & yes me and my team mates dread certain corporate gatherings.
-
-### Mariska T. (Global Operations & Cross-Cultural Engagement | Stakeholder Strategy | Multilingual (EN/Español DELE C1 Certified/中文 HSK4 Certified HSK5 Learner/ID) | APAC, LATAM & International Experience)
-> Are these guidelines for introverts to survive the office Christmas Parties Daniele Ponzo? 😁
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Superb timing mate - I'll be availing of the Emergency escape plan later 😂
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ❄️ yes, it's that time of the year! Have you already been invited to a corporate party? This is how I usually looked like when I received the email:
-

@@ -17,9 +17,3 @@ Vi ses!
 #ledarskap #kommunikation #Clubhouse
 
 https://buff.ly/3ckWD3d
-
-## Comments (1)
-
-### Kenth Åkerman (Hospitality Professional | Auktoriserad Guide | Diplomerad Sommelier | Föreläsare | Författare | Bemötande och värdskap i världsklass ⭐️)
-> Häng på detta! Det kommer jag göra. De två första ”husen” har varit mycket bra 🙌💯
-

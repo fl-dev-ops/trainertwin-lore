@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_most-pcc-coaches-do-not-need-mor
 likes: 3
 comments: 1
 images_count: 1
+author_comments:
+- Profitableleadership.com/simplicityofmastery
 ---
 
 Most PCC coaches do not need more tools.
@@ -14,9 +16,3 @@ They need sharper discernment about when to intervene and when to stay silent. T
 Simplicity of Mastery™ - Level 3 is structured to provide exactly that kind of feedback, repeatedly, over time.
 
 Register interest.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> Profitableleadership.com/simplicityofmastery
-

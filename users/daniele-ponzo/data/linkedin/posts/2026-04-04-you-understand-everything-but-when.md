@@ -5,6 +5,17 @@ url: https://www.linkedin.com/posts/daniele-ponzo_you-understand-everything-but-
 likes: 81
 comments: 17
 images_count: 1
+author_comments:
+- Thanks for repsoting, Estefania D Ortiz 🙏
+- |-
+  ▶️ I recorded a short video where I break down how the IT Speaking Playground works:
+  https://www.loom.com/share/e60f4f436b3741af8a0c688efc0663f4
+
+  This isn’t about more grammar or vocabulary.
+  It’s about:• speaking clearly in meetings• reacting in real time• sounding like the expert you already are
+
+  If you’re technically strong but feel your communication doesn’t always reflect it, feel free to reach out.
+  Happy to chat and see if it’s the right fit for you.
 ---
 
 You understand everything.
@@ -87,50 +98,3 @@ If this feels familiar…
 👉 Check the first comment and see how the program works.
 
 Where does your English feel hardest: meetings, interviews, or presentations?
-
-## Comments (11)
-
-### Laura Markus (Accent & Communication Coach | I Help International Professionals Refine Their Pronunciation & Spoken English So They Feel More Comfortable & Confident When They Speak)
-> This is so true! Unfortunately the speaking part doesn't get enough training in traditonal classes.
-
-### Vicky Kumar (Student at Manipal University Jaipur)
-> Okay
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> So true, speaking is a different skill, you only improve it by actually practicing in real situations.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for repsoting, Estefania D Ortiz 🙏
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> It's great to see the emphasis on real-time practice and performance rather than just knowledge Daniele Ponzo  The IT Speaking Playground sounds like a fantastic opportunity for growth.
-
-### Natasha Wilson, Ph.D. (Your organization is growing faster than your systems. I help you build the operational infrastructure to keep up. | COO, The African Think Tank | Fractional Operator | Bringing Order from Chaos)
-> True. Music and media from the culture whose language you are learning can be very helpful as well. I probably know more song lyrics in Spanish than in my native language, English).
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> True story mate. That's why learning vocab like a parrot won't make anyone nearly good at speaking. If that was the only thing one needed we'd all be excellent communicators!
-
-### Mariusz Gomuła (Business English for Managers & Leaders ✪ Executive Communication ✪ Psychology-Based Approach ✪ Lead Editor, Newsweek Learning English)
-> You don’t freeze because your English is weak. You freeze because pressure overloads your brain. 
-> Research shows anxiety reduces working memory and blocks performance.
-> That’s why confidence isn’t built by studying more - but by practicing in real situations. 
-> That’s exactly what we’ve trained with our students for years. 
-> Train for performance, not perfection.
-
-### Andrea Roberto (Copywriter | Language Coach | Polyglot)
-> I seldom find myself in similar situations, I will admit it beforehand, not with English at least. But I use German for work and I am not nearly as fluent (I should be a solid B2, I hope). Sorry, to the chase. I found out that if I slow down, if I speak more slowly than my lack of self confidence used to nudge me to, I tend to be able to organise my thoughts much better. Result: fewer mistakes, more self confidence, better output.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> This is normal. Fluency under pressure is definitely a skill. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ I recorded a short video where I break down how the IT Speaking Playground works:
-> https://www.loom.com/share/e60f4f436b3741af8a0c688efc0663f4
-> 
-> This isn’t about more grammar or vocabulary.
-> It’s about:• speaking clearly in meetings• reacting in real time• sounding like the expert you already are
-> 
-> If you’re technically strong but feel your communication doesn’t always reflect it, feel free to reach out.
-> Happy to chat and see if it’s the right fit for you.
-

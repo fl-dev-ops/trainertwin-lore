@@ -43,9 +43,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Developers in the Age of AI 🤖 | Rome Future Week 2026 Highlights #shorts
-
-## Transcript
-
 speaker_1: Oh

@@ -15,11 +15,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# How to Deal with 'I want to wait till Prices will got Down in Dubai' If you still want to Close.
-
-## Transcript
-
 speaker_1: Oh my God guys so many of you 15 welcome Let me just set up the light properly Happy to see you all here Um just let me know that you hear me You can by the way switch on your cameras as well so I can see you Im gonna know that youre actually present Hello guys Oh we can hear you fine Yes in a bit You know you know I was trying to collect myself with a flashy microphone but seems like I will have to be with this headset So unfortunately So guys without further delay should we jump to the training I actually wanted to have a bit of a chitchat with you first Maybe is there anyone who can volunteer Raise your hand switch on the sound and the camera and introduce himself or herself and tell me what you personally experiencing within Dubai real estate So we can kind of start from the ball rolling Who is brave enough Guys do you want me to call someone Amir its going to be you then because you already voiced yourself
 
 speaker_2: Yeah sorry Im just Im just feeding the cat Im Im gonna be there now So tell me what was the question

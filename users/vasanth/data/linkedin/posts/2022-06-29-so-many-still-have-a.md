@@ -16,7 +16,3 @@ If you're someone who is not sure, does async await block main thread of JS or n
 Medium Blog: https://lnkd.in/dEBynkPa
 https://lnkd.in/dKQxnizw
 #javascript #async #interview
-
-### Shared Article: [🔥 90% of you will fail to answer this simple JS Question - Does async await block JS main thread 🔥🔥?](https://youtu.be/c3c-LLdjlGc)
-> youtu.be
-

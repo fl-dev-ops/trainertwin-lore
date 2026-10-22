@@ -11,7 +11,3 @@ article:
 ---
 
 https://lnkd.in/dvAwcAt
-
-### Shared Article: [Shopify-Plus_Global-ecommerce-guide.pdf](https://cdn.shopify.com/s/files/1/0898/4708/files/Shopify-Plus_Global-ecommerce-guide.pdf?782639576483294275)
-> cdn.shopify.com
-

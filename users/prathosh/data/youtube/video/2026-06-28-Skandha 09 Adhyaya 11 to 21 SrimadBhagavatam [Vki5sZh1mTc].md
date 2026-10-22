@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 09 Adhyaya 11 to 21 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 निमिरिक्ष्वाकुतनयो वसिष्ठमवृतर्त्विजम्
 आरभ्यसत्रं सोप्याह शक्रेण प्राघृतोऽस्मि भोः

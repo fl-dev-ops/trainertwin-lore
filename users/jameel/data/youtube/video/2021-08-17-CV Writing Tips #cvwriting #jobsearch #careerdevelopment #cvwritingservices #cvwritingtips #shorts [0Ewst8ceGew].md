@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# CV Writing Tips #cvwriting #jobsearch #careerdevelopment #cvwritingservices #cvwritingtips #shorts
-
-## Transcript
-
 speaker_1: CV W RITING ERED I OUR YOU
 
 

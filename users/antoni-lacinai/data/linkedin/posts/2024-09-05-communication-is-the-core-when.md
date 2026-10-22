@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_communication-is-the-core-when-you-e
 likes: 10
 comments: 3
 images_count: 1
+author_comments:
+- det var det här vi snackade om på din podcast senast Leonardo Leo Johansson ^_^
 ---
 
 Communication is the core when you exhibit. 
@@ -29,12 +31,3 @@ Meetings International Magazine
 Winner of JMIC Profile & Power Award 2014
 
 Austin Macauley Publishers
-
-## Comments (2)
-
-### Snehil . (I do logo & brand identity design backed by psychology | 52+ Client Success Stories | Logo Designer)
-> This book is a must read Antoni Lacinai
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> det var det här vi snackade om på din podcast senast Leonardo Leo Johansson ^_^
-

@@ -10,11 +10,3 @@ images_count: 1
 Ready for "Developers in the Age of AI"
 
 Rome Future Week
-
-## Comments (1)
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> It feels like such an important conversation as technology changes not just what developers build, but how they think, create and solve problems.
-> 
-> Daniele Ponzo
-

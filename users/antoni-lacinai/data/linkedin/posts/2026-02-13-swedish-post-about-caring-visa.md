@@ -20,13 +20,3 @@ Som vanligt bjöd jag på en topp 5-lista
 Hur visar du själv omtanke?
 
 https://lnkd.in/dnNNxVGs
-
-### Shared Article: [Därför mår du bra av att visa omtanke: ”Motverkar stress”](https://www.tv4.se/klipp/va/20816528/darfor-mar-du-bra-av-att-visa-omtanke-motverkar-stress?utm_source=tv4.se&utm_medium=shared_link)
-> www.tv4.se
-
-
-## Comments (1)
-
-### Per E Claesson (Senior consultant (Freelance))
-> 💯% med Dig Antoni, caring is sharing ❤️😊
-

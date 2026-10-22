@@ -30,7 +30,3 @@ So I built something to help you. The Coaching Mastery Profile. A free, honest s
 
 The kind of perspective that's hard to reach through self-reflection alone.
 Take the Coaching Mastery Profile at https://lnkd.in/ggTYg4MK
-
-### Shared Article: [How Close Is Your Coaching to Mastery? | Free 7-Minute Profile](https://coachingmasteryprofile.scoreapp.com)
-> coachingmasteryprofile.scoreapp.com
-

@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Zero to Fluent: What Actually Works #shorts
-
-## Transcript
-
 speaker_1: And uh my first experience with English was uh when I was 13 when my mom asked me theres speaking English All right Pack your stuff youre going to the um University of Essex for uh for a summer program So I go there
 
 speaker_2: Oh I loved it

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Get Shortlisted for Premium companies | from Tier 2/3 college/company |B.E,BCA,MCA| [2022 technique]
-
-
-## Transcript
-
 speaker_1: all welcome back to uncommon geeks myself vasanth i hope youre all doing well in case if youre seeing me first time on the internet im a content creator i help people to clear their interview i made a lot of beautiful series in the past which has been appreciated by many link to those videos is in the description also in the ill put on the screen please do watch all the series in case if youre preparing for interview now without wasting further time lets get started with the content of the video this is one of the super important topic and i get lot of questions regarding this in my lingan medium youtube everywhere like vasanth how come your resumes are
 
 

@@ -20,7 +20,3 @@ Happy to have been a guest on the podcast Focus on Customer Experience with pod 
 We give examples of excellent as well as poor customer service and experience and talk about great customer conversations. You can find it on Spotify or Apple. 
 
 #communication #customerexperience #engagement #leadership
-
-### Shared Article: [Workplace Communication with Antoni Lacinai](https://buff.ly/3EQJNYW)
-> buff.ly
-

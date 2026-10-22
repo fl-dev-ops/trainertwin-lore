@@ -12,9 +12,3 @@ Why People Ignore You (Communication Mistakes Explained) Master Communication Li
 Easy English for IT. Read a book sample here: https://lnkd.in/djrK9Kcr
 
 Get the Book here: https://lnkd.in/dQy_pDuW
-
-## Comments (1)
-
-### Frank Burke (🇬🇧 British Communication Coach | Business English & British Culture | Helping International Professionals and Students Communicate with Confidence | CELTA | MBA | 22 Years in Hong Kong)
-> 100% agree Daniele Ponzo.  Seen is this light, the barriers between us start coming down.
-

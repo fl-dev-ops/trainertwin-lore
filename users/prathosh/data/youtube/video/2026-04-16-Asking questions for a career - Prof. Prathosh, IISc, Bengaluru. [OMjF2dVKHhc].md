@@ -13,10 +13,6 @@ speakers:
   speaker_3: null
 ---
 
-# Asking questions for a career - Prof. Prathosh, IISc, Bengaluru.
-
-## Transcript
-
 speaker_1: This is Beyond the Science a podcast from the Office of Communications Indian Institute of Science
 
 speaker_2: Today we have Pratosh AP Assistant Professor at the Division of Electrical Electronics and Computer Science This conversation goes from the water pump that lit up his scientific curiosity to the question of intelligence of AI and its ethical dilemma going forward So all you curious minds give this a listen

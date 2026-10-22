@@ -20,9 +20,3 @@ While the wisdom of Tony Latimer remains at the core, the AI magnifies its reach
 It’s as if every executive has a personalized coaching assistant, a mentor ready to provide insight whenever needed, which the executive can then take to their coaching sessions for deeper thinking on how to apply their insights and learning, about leadership and about themselves.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Repa Patel GAICD (Conscious leadership for complex times - wisdom, courage and compassion in action for executives and boards delivering real results)
-> I recently led a workshop on the benefits of AI for leaders. It's interesting to see it be used for coaches too. In an age of constant change and progress the agility to adapt is crucial.
-

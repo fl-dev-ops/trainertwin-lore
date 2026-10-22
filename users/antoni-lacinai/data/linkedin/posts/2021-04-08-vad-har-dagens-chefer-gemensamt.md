@@ -19,18 +19,3 @@ Om detta och mer blev jag intervjuad om i senaste Affärsresenären. Så om du �
 Och om du inte reser med vill läsa ändå: DM'a mig så ordnar jag en pdf på min artikel. 
 
 #ledarskap #ledapådistans #kommunikation
-
-## Comments (4)
-
-### Malin Bendz (Marknadskommunikatör på Blinto AB)
-> Låter spännande! Skicka gärna pdf:en 🤩
-
-### Andreas Hagman (Sales Director Scandinavia Creditsafe | Founder Lilla Julkalendern)
-> Intressant område. Jag läser gärna!
-
-### Malou Blomstrand (Sustainability and Sentient Technology Expert focusing on Enterprise Architecture, data-enabled leadership, new work models, digital excellence in multi cloud environments - CEO & Founder at HEADFOOT)
-> Hej Antoni pdfen skulle jag gärna vilja ha😀
-
-### Mona Samoiel (Employer Branding Specialist/Let´s Uptech och kokboksförfattare privat (Lucias mat))
-> Tack för pdf.en. Bra jämförelse mellan lägereld och digital brasvideo, så sant, digitala möten praktiska men inget kan vara  bättre än det fysiska mötet och orden tilltro istället för misstro, lita på dina medarbetare och de gör ett bra jobb. Bra artikel!  Tack!
-

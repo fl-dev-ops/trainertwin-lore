@@ -26,7 +26,3 @@ Another related work accepted at IEEE TMI - https://lnkd.in/drFXEz4
 #ECCV #machinelearning  #deeplearning #iitdelhi #acceptance 
 
 Prashant Pandey, V. Ramgopal Rao, Indian Institute of Technology, Delhi
-
-### Shared Article: [Skin Segmentation from NIR Images using Unsupervised Domain Adaptation through Generative Latent Search](https://arxiv.org/abs/2006.08696)
-> arxiv.org
-

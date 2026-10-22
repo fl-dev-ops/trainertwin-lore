@@ -25,16 +25,3 @@ Detta är vad jag kallar för Specialistens förbannelse.
 Läs mer i krönikan jag skrivit i HRnytt 
 
 ps - jag älskar nördar som kan jättemycket om jättelite. Gör du?
-
-### Shared Article: [Jobbar ni i stuprör? - Ledarskap - HRnytt](https://hrnytt.se/ledarskap/jobbar-ni-i-stupror-eller-jobbar-ni-tillsammans/)
-> hrnytt.se
-
-
-## Comments (2)
-
-### Patrik Nordkvist (Your guide to increased sales and predictable growth ◉ Keynote Speaker, Sales Trainer, Sales Coach and Growth Advisor at Försäljningschefen ◉ Author of the book "Säljvanor")
-> Tycker det är imponerande med människor som djupdyker i saker. Jag jobbar mest med personer inom försäljning, och där är det dock sällan en fördel att vara för smal. Det är viktigare med bred kunskap och förmågan att se helheter. När jag läste ditt inlägg insåg jag att det krävs rätt mycket fokus för att lära sig att bli bred, att nörda ner sig i helheten.
-
-### Martin Linton (Verksamhetsutveckling ⎮ Förändringsledning)
-> Hängränna?
-

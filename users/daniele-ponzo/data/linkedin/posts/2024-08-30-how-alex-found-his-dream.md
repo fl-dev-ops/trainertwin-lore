@@ -42,22 +42,3 @@ Through a practical, hands-on approach to communication in English.
 P.S. if you’re ready to take your English confidence to the next level, message me the word “HACK”. If we are a good fit, we will team up and start working together ✌ .
 
 #english #career #languageimprovement #tech
-
-## Comments (4)
-
-### Christel Bordoni (COO / +100 brands supported by e-commerce professionals for e-commerce professionals | Multi-expertise: CRO, Creative, Ads & Emailing | Woodvibe, Joia Paris, Siho, La Belle Fragrance… | COO @MIG)
-> Incredible transformation—practical strategies really do make a difference! 🌍Daniele Ponzo
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> Congrats to Alex and you on this result!
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> The H.A.C.K. strategy is amazing Daniele ))
-> 
-> Love the practical and effective approach.
-> 
-> Confidence in English can make all the difference in career advancement.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> If I were you, I'd make sure to get a copyright for the HACK acronym today Daniele 🤩
-

@@ -26,9 +26,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Why Simple English Wins Internationally
-
-## Transcript
-
 speaker_1: which English Whose English right Some people call it globish Its an interesting concept perhaps too simple too simplified but its an interesting concept So its this language that everybody can understand And so and I love the fact that even people who are born in America in Ireland in South Africa have to adopt you know If they if they want to to to work on an international stage

@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #shorts #careerskills #pareto #criticalthinking #8020rule #softskills #jobsearch #careeradvice
-
-## Transcript
-
 speaker_1: use five why analysis WATCH FULL
 
 

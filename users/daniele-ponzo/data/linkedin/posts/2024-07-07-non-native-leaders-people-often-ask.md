@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-career-friend-
 likes: 31
 comments: 3
 images_count: 1
+author_comments:
+- '📌Here''s the episode "build a strong Network to excel at work": https://youtu.be/5pF721Guhk4?si=PBArbjF57XkbWHut'
 ---
 
 Non-native leaders
@@ -42,14 +44,3 @@ You can catch up our chat in the first comment 👇.
 Have a great Sunday, everyone!
 
 #nonnativeleader #career #friend
-
-## Comments (2)
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Doing something purely for the joy of the experience, that's a great reason to have a podcast Daniele Ponzo (plus you learn and grow a lot from this too).
-> 
-> Are you still in Ireland?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Here's the episode "build a strong Network to excel at work": https://youtu.be/5pF721Guhk4?si=PBArbjF57XkbWHut
-

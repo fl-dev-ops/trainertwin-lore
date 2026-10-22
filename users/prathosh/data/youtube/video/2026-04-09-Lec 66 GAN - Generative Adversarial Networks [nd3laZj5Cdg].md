@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 66 GAN - Generative Adversarial Networks
-
-## Transcript
-
 speaker_1: Okay in this class
 we will look at generative adversarial
 networks

@@ -32,6 +32,3 @@ The paper is attached with the post.
 #responsibleai #aiml #publication 
 
 Indian Institute of Science (IISc) Indian Institute of Science - IISc EECS @ IISc, Bengaluru Chair ECE
-
-### Shared Document: [VDU_TMLR]()
-

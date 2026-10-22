@@ -28,11 +28,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Culture Shock & Bias in International Classrooms #shorts
-
-## Transcript
-
 speaker_1: And she said okay today our topic is culture shock Turkish students
 
 speaker_2: Whoa What a topic

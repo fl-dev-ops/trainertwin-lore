@@ -31,14 +31,3 @@ comments: 4
 Anything I should have added?
 
 #leadership #communication #engagement #keynote
-
-## Comments (2)
-
-### Ram Pattiwar (Global Transformation Leader | Industrial Automation, Digital, AI & IoT | Portfolio & Platform Strategy | Managing & Scaling Teams and Operations Worldwide @ Alfa Laval A/S (BU Food Systems))
-> Well put Antoni, in the current time of change and technological disruptions, these leadership qualities are needed more than ever. One thing which can be added is Recognition, though this is covered in your text indirectly. Special important in the remote working environment as you do not see people face to face, and you have to ensure that employees are feeling valued by their leader.
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Such powerful advice as always, Antoni
-> 
-> Appreciate may be a word to add, although you have so much covered already 👌
-

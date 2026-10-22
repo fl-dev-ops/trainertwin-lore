@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_worldwellbeingweek-wellbeingec
 likes: 4
 comments: 3
 images_count: 1
+author_comments:
+- "A wellbeing economy design guide: \nhttps://wellbeingeconomy.org/wp-content/uploads/Wellbeing-Economy-Policy-Design-Guide_Mar17_FINAL.pdf\n\nInteresting from PWC on the impact of long term planning:\nhttps://www.pwc.com/m1/en/blog/why-long-term-policymaking-matters-for-sustainable-growth.html\n\nThe wellbeing economy alliance website: https://weall.org/\n\nBeyond GDP. \" Gross Domestic Problem\" by professor Lorenzo Fioramonti:\nhttps://cris.unu.edu/gross-domestic-problem-politics-behind-worlds-most-powerful-number#:~:text=In%20Gross%20Domestic%20Problem%2C%20Lorenzo,it%20to%20dominate%20today's%20economies.\n\nThe price of inequality by Joseph Stigliz: https://www.nytimes.com/2012/08/05/books/review/the-price-of-inequality-by-joseph-e-stiglitz.html\n\nAn example of how education can be reshaped: https://www.theguardian.com/global-development/2019/nov/06/italy-to-school-students-in-sustainability-and-climate-crisis"
 ---
 
 As #worldwellbeingweek drives to an end, I would like to reflect on a fundamental aspect.
@@ -38,25 +40,3 @@ What is your opinion on this? Let me know!
 Image source: https://weall.org/
 
 #wellbeing #change #sustainability #education #technology
-
-## Comments (2)
-
-### James Liu, PhD, MBA (Helping Science & Tech Companies Turn Innovation into Market Traction)
-> Such a great post!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> A wellbeing economy design guide: 
-> https://wellbeingeconomy.org/wp-content/uploads/Wellbeing-Economy-Policy-Design-Guide_Mar17_FINAL.pdf
-> 
-> Interesting from PWC on the impact of long term planning:
-> https://www.pwc.com/m1/en/blog/why-long-term-policymaking-matters-for-sustainable-growth.html
-> 
-> The wellbeing economy alliance website: https://weall.org/
-> 
-> Beyond GDP. " Gross Domestic Problem" by professor Lorenzo Fioramonti:
-> https://cris.unu.edu/gross-domestic-problem-politics-behind-worlds-most-powerful-number#:~:text=In%20Gross%20Domestic%20Problem%2C%20Lorenzo,it%20to%20dominate%20today's%20economies.
-> 
-> The price of inequality by Joseph Stigliz: https://www.nytimes.com/2012/08/05/books/review/the-price-of-inequality-by-joseph-e-stiglitz.html
-> 
-> An example of how education can be reshaped: https://www.theguardian.com/global-development/2019/nov/06/italy-to-school-students-in-sustainability-and-climate-crisis
-

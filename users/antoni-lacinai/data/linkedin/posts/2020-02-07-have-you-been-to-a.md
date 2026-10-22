@@ -16,13 +16,3 @@ What can you do to make a great first impression?
 #leadership #sales #engagement #Communication
 
 from my upcoming book EMPLOYEE ENGAGEMENT - 20 keys to outstanding workplace communication
-
-## Comments (2)
-
-### Maiwi Wernersson (➡️ Vill du sälja mer? Digital kurs! ”Säljcoach, konferencier, föreläsare m.m”)
-> To many times. 😔
-
-### Maria Henriksson (Unleash Your Inner Power | Hypnosis, NLP, and Self-Esteem in Focus - It all starts from within.)
-> This has happened to me more times than I can remember. 
-> Looking forward to read your points on the topic.
-

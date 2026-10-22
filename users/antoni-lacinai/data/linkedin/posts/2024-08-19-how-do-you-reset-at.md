@@ -21,9 +21,3 @@ I started two weeks ago. I took it slow (because I could) Now I am almost back t
 PS - what do you look forward to?
 
 #HolidayMode #LinkedInNewsEurope
-
-## Comments (1)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> When I eventually set my work plans in place, I am thrilled. It's always on the "will-do" list, just not always actioned. Yours sounds like it worked well Antoni, enjoy your first keynote post summer👏✨️
-

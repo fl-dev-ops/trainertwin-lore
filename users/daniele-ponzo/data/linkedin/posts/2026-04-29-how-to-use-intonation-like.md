@@ -14,9 +14,3 @@ Easy English for IT. Read a book sample here: https://lnkd.in/djrK9Kcr
 Get the Book here: https://lnkd.in/dQy_pDuW
 
  #Intonation #VoiceTraining
-
-## Comments (1)
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> Good book!
-

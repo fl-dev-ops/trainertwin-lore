@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 11 Entropy
-
-## Transcript
-
 speaker_1: So welcome to this uh new class on
 mathematical foundations of machine
 learning

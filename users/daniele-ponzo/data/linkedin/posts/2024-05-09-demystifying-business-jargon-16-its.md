@@ -47,9 +47,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #TechJargon #ITProfessionals #ProblemSolving #ConfidenceBuilding #Innovation
-
-## Comments (1)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Always loved this expression. The image is so good 😂👌
-

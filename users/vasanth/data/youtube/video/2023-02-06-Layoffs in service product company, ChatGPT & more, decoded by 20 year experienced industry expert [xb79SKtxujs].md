@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Layoffs in service/product company, ChatGPT & more, decoded by 20 year experienced industry expert
-
-
-## Transcript
-
 speaker_1: that people and even companies shy away from saying but this is the brutal hard naked truth of layoffs many people who get on the list are also because they have not built
 
 speaker_2: Can we expect some layoffs from the service companies also So far big tech gents havent fired off in a number like these product companies or they are laying off and its not coming to notice So they also want to just make sure they are safe So what is your take sir

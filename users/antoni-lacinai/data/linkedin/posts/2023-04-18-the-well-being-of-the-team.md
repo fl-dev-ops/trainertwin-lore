@@ -19,7 +19,3 @@ It's not easy being the boss. But then again, who said it ever was...?
 In Swedish: Att delegera är bra. Att abdikera är dåligt. Att mikromanagera är inte heller bra...
 
 #leadership #communication #engagement #motivation
-
-### Shared Article: [Rädda chefer minskar sina anställdas välmående](https://buff.ly/3FkuyX0)
-> arbetsplatsenifokus.se
-

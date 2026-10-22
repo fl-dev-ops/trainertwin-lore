@@ -26,7 +26,3 @@ Congratulations to my PhD student Subhodip Panda on is first major acceptance.
 Indian Institute of Science (IISc) EECS @ IISc, Bengaluru Department of ECE, IISc 
 
 #genai #safety #publication #research #iisc
-
-### Shared Article: [FAST: Feature Aware Similarity Thresholding for Weak Unlearning in Black-Box Generative Models](https://arxiv.org/abs/2312.14895)
-> arxiv.org
-

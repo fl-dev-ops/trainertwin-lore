@@ -29,12 +29,3 @@ That is what we teach in Simplicity of Mastery.
 If you want to get ahead of the game—and begin coaching at the level required for MCC long before your exam is due—let’s talk.
 
 #Coaching #MCC #Mastery #SimplicityOfMastery
-
-## Comments (2)
-
-### Jayant K. (Governance, Risk and Compliance | Transformation and Change Management | Professional Coach (ICF-ACC))
-> Pure Presence makes the shift. Technique can be replicated—presence cannot. 😇
-
-### Adam Ariff (Founder of CVP Group | Helping organisations use AI, coaching, and apprenticeship funding to develop skills, leadership, and workforce capability | AI & Automation | Coaching & Leadership Apprenticeships)
-> What do you think the best AI coaching is out there. I haven't see anything that is as good without crossing over into validating others and bringing the same ying / yang as my human coaches
-

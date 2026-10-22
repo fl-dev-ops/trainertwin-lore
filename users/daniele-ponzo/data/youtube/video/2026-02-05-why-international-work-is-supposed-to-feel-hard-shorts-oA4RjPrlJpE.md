@@ -23,11 +23,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why International Work Is Supposed to Feel Hard #shorts
-
-## Transcript
-
 speaker_1: So uh there is some things you need to do Dont worry Take it easy and embrace differences embrace challenges but you are you will get there And and I I believe its precious advice Belly So thank you very much
 
 speaker_2: Thank you Thank you for the opportunity

@@ -12,13 +12,3 @@ article:
 
 Massachusetts Institute of Technology rediscovers Tim Gallwey’s non-directive coaching; for robots 
 #ai #coaching
-
-### Shared Article: [MIT's Algorithm for Self-Training Robots](https://www.perplexity.ai/page/mit-s-algorithm-for-self-train-Lewzl1W_RfusEK8Lpd6VTw)
-> perplexity.ai
-
-
-## Comments (1)
-
-### Sarah Short (Helping qualified coaches build viable businesses | ICF-Accredited Bus Dev Courses For Coaches 40 CCEUs (23 Core 17 RD) | Straightforward, No Nonsense, Actionable Marketing Techniques | Prices from £3750 (inc VAT))
-> Incredible, isn’t it? Feels like we’re living in the future!
-

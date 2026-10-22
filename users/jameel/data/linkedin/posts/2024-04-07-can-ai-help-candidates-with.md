@@ -17,7 +17,3 @@ The answer is yes! Discover firsthand how Fasahat Feroze used his personal exper
 Fasahat is passionate about creating a 'level playing field' for job interview candidates around the world!
 #JobInterviews #CareerSuccess #AIInnovation #KonfidenceAI #InterviewPreparation #PodcastInterview #TechInnovation #CareerDevelopment #JobSearchTips #LinkedInPodcast
 https://lnkd.in/eFEJSc62
-
-### Shared Article: [How to use AI for JOB INTERVIEW INTERVIEW Preparation and Rehearsals](https://youtu.be/zgiz_MQhyfI)
-> youtube.com
-

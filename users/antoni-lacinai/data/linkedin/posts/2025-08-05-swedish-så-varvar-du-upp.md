@@ -21,19 +21,3 @@ Några insikter:
 - Varva inte upp
 
 Vilket är ditt bästa tips?
-
-### Shared Article: [Så varvar du upp i lagom takt efter semestern](https://www.tv4.se/artikel/iph7iKfuDDbEP5glSIOdd/sa-varvar-du-upp-efter-semestern-du-behoever-inte-skynda-dig-det-kommer)
-> tv4.se
-
-
-## Comments (3)
-
-### Eytan Segev CSP (International Profiler & CSP | Human Intelligence in the AI Era | 150,000+ Face Readings | Keynotes on Reading People, Leadership, Sales & Negotiation | 🇮🇳 India Jan 2027)
-> Love this, Antoni
-
-### David 📲 Eriksson (.NET, Nordray)
-> Att bryta upp sista och första veckan av semestern är något jag ska testa nästa år!
-
-### Mikael Hermansson (Tedx-speaker / public speaker . Spreading the successful Swedish lconcept "GREJ OF THE DAY - Magic Micro lessons!")
-> Alltid lika kul att se dig, klok och bekväm, i TV rutan 👌
-

@@ -14,9 +14,3 @@ The magazine is a good read for anyone who wants to elevate their HR and leaders
 
 Check it out. Who knows, you might learn something new
 ^_^
-
-## Comments (1)
-
-### Ergaris Review (436 followers)
-> Thank you once again for being part of this edition, Antoni. Your article is a fantastic reminder that communication isn't just a leadership skill, it's one of the foundations of trust, engagement, and organisational success. We're grateful for your contribution and delighted to have your voice in the Gazette.
-

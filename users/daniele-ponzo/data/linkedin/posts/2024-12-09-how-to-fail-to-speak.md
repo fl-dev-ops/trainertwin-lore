@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-langua
 likes: 21
 comments: 14
 images_count: 1
+author_comments:
+- "\U0001F4CC Why many IT pros don't get there with their English: \nhttps://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimprovement-activity-7272877992077336577-WJxo"
+- 📌 Want to know 1 Little-Known way to boost your speaking confidence? 👇 https://www.linkedin.com/posts/daniele-ponzo_english-sustainability-tech-activity-7272507122246959105-bdEX
+- '🐤 Do you want to read part 2 (where things get positive)? Find it here 👇 : https://www.linkedin.com/posts/daniele-ponzo_hackerrank-leetcode-itprofessionals-activity-7272143383228256256-xXas'
 ---
 
 How to Fail to Speak English in the Real World
@@ -65,30 +69,3 @@ I share free tips to help IT Managers & Team Leaders communicate more confidentl
 If that’s something you’re interested in, give me a follow and ring the bell so you'll never miss a post " 🔔 "➡ Daniele
   
 #itprofessionals #english #languageimprovement
-
-## Comments (7)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Why many IT pros don't get there with their English: 
-> https://www.linkedin.com/posts/daniele-ponzo_english-tech-languageimprovement-activity-7272877992077336577-WJxo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Want to know 1 Little-Known way to boost your speaking confidence? 👇 https://www.linkedin.com/posts/daniele-ponzo_english-sustainability-tech-activity-7272507122246959105-bdEX
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🐤 Do you want to read part 2 (where things get positive)? Find it here 👇 : https://www.linkedin.com/posts/daniele-ponzo_hackerrank-leetcode-itprofessionals-activity-7272143383228256256-xXas
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Great advice on how to avoid those nasty, real-life speaking situations, Daniele Ponzo! Now it's time to go and read the dictionary! 🤓 📖 🤦
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Real engagement beats rote learning any day! Daniele Ponzo
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> I nailed all the boomer references like a pro. Just thought I'd mention this 🤩
-> 
-> On a more serious note, you're absolutely right Daniele 😎
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Avoid speaking at all cost!! Nothing ever happened when you wanted to speak up!
-

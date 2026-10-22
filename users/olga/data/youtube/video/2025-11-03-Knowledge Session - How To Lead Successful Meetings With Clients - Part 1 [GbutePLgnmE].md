@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Knowledge Session - How To Lead Successful Meetings With Clients - Part 1
-
-## Transcript
-
 speaker_1: First of all this presentation uh is um this training is for us to being able to have way more effective uh communication with the clients which are outside of UAE Were talking about the direct clients um which are in Canada I dont know Australia UK Uh we are having a lot of leads and majority of them now are going through the frontline salespeople Those are the additional lets say qualification layer to make sure that whomever we actually booking into your calendar as an appointment is at least I mean I dont know 50 percent gonna be there and pick up the phone and gonna talk to you We did an analysis of the meetings that Some of you guys done and this is one of the main reasons we are doing this training as well There is no one to blame
 
 speaker_2: Its just no one did good or bad Its just more about

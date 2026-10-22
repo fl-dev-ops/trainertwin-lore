@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 10 Adhyaya 14 to 28 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 विलोक्य दूषितां कृष्णां कृष्णः कृष्णा हिना विभुः
 तस्या विशुद्धिमन्विच्छन् सर्पन्तमुदवासयत्

@@ -5,6 +5,10 @@ url: https://www.linkedin.com/posts/daniele-ponzo_automation-itprofessionals-bpm
 likes: 18
 comments: 5
 images_count: 1
+author_comments:
+- |-
+  Here's a client success story:
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_communication-itprofessionals-careerdevelopment-activity-7087310108807839744-WkQL?utm_source=share&utm_medium=member_android
 ---
 
 The Ultimate Guide to Flowcharts Vocabulary 🔷↔️⬜️
@@ -42,16 +46,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
 #automation #itprofessionals #bpmn #business
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here's a client success story:
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_communication-itprofessionals-careerdevelopment-activity-7087310108807839744-WkQL?utm_source=share&utm_medium=member_android
-
-### Roxanne Picher (🎙️French · English •中文 OK ·)
-> I am sure many will benefit for this! Great idea! Daniele Ponzo
-
-### Shekhar Damodare (Deputy General Manager -Quality Assurance at CIE Automotive India Limited.)
-> Flow
-

@@ -29,9 +29,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Easy English for IT. Why? #shorts
-
-## Transcript
-
 speaker_1: Hey you know whats frustrating When you know English but you cant find the words when it matters This is exactly what many IT professionals tell me every day Developers engineers service delivery managers project managers They can read English they can understand English but when its time to speak words just disappear Meetings presentations job interviews even a casual chat with an international colleague They freeze they overthink and words just disappear The result they lose confidence and they stop speaking This is why I wrote Easy English for IT Its a book to help tech professionals finally speak clearly in English without worrying too much about sounding perfect Um so if this sounds like you then this book will make a difference Its out available on Amazon Check it out and let me know what you think Okay Thanks

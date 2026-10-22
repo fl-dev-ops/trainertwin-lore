@@ -18,7 +18,3 @@ This thought provoking model I learnt a few years ago is one of my absolut favor
 What do you think about it?
 
 #leadership #communication #engagement #performance
-
-### Shared Article: [Small improvements over time will give you the upper edge](https://buff.ly/2U7ZbYu)
-> buff.ly
-

@@ -38,12 +38,3 @@ Remember, most of the times we want to build bridges, not walls 🌉
 In the comments below, share your experiences with diplomatic communication. How have you navigated disagreements while maintaining positive relationships?
 
 #DiplomaticCommunication #LanguageSkills #EffectiveCommunication #BridgingDifferences #englishlearning
-
-## Comments (2)
-
-### Nataliya Tadeyeva, MGM, PhD, Наталія Тадеєва (Executive Mentor for CEOs & COOs | Business Trainer | Management Consultant | Business Operations & Financial Management | Founder, OperateU)
-> Pay attention to cultural aspect ))
-
-### Jonathan Mascaro (Senior Operations & Team Leader | Revenue & Sales Support | Scaling Teams, Culture & Execution)
-> Great content Daniele! Let’s Agree to Disagree 🙌🤣
-

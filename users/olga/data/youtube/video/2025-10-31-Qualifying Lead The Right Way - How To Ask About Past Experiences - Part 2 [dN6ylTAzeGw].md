@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# Qualifying Lead The Right Way - How To Ask About Past Experiences - Part 2
-
-## Transcript
-
 speaker_1: So do you want to play the next piece If the person havent seen anything that they like how to go around that one If the person been looking for some options like one of the agents in OBG she had a client Shes not with us anymore She had a client who wanted to deal in Russell Haven He had 1 million and he wanted exactly what I said He wanted a villa on the beach with the beach access uh a 4 bedroom villa standalone This is what he wanted Or recently Ive got the lead uh Im not sure even if its a valid person uh on my LinkedIn some sort of basketball player famous have no idea I mean I dont Im not into basketball So he was talking about Or I just want to buy land and build a house by the sea in Dubai This is what we do in LA Yeah well you cannot do it here right So all of this can surface up as a reason they havent made decision So how to go around that Okay fantastic Do you want to be an agent who is asking the questions when the client told you already Ive been looking for lets say 6 months But over the six months I havent found anything I like
 
 speaker_2: Okay Ill try Yeah

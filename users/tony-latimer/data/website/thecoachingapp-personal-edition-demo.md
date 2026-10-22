@@ -5,8 +5,6 @@ date: "2026-01-01"
 source: website
 ---
 
-# Change your habits Change your life. Building New Habits, made easy
-
 All the knowledge, guidance and tools you need to ensure success
 
 Connecting Coach and Client for on-demand coaching and learning.

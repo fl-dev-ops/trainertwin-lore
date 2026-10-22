@@ -6,27 +6,13 @@ url: https://www.instagram.com/p/C7CRGwPCfWR/
 likes: 17
 comments: 0
 slide_count: 2
+slides:
+- |-
+  LILLA
+  STUDION
+  KEN
+  OLAUSSON
+- ANTONI LACINAI
 ---
 
-## Caption
 Även dessa härliga gästerna intar Lilla Studion på lördag kl 10! Hörs då!! 😎
-
-## Carousel Slides (2)
-
-### Slide 1
-
-> Alt text: Photo by All Radio Play on May 16, 2024.
-
-
-LILLA
-STUDION
-KEN
-OLAUSSON
-
-### Slide 2
-
-> Alt text: Photo by All Radio Play on May 16, 2024.
-
-
-ANTONI LACINAI
-

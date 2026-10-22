@@ -25,15 +25,3 @@ check out the carousel below for 10 powerful verbs to make your English shine �
 Hope you got some value here. If you did, remember to follow and hit the bell on my profile so you’ll get a notification each time I post 🔔
 
 #communication #leadership #english #business
-
-### Shared Document: [10 verbs to sound more professional (with examples)]()
-
-
-## Comments (2)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Love that you provide examples of the verbs in context. Awesome post!
-
-### Simone Bertin (The Pale Blue Dot)
-> Tks Daniele, "reckon" wasn't in my dictionary
-

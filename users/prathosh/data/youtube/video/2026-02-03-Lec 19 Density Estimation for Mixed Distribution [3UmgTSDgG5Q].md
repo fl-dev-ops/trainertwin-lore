@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 19 Density Estimation for Mixed Distribution
-
-## Transcript
-
 speaker_1: Welcome back So lets move on to
 another interesting algorithm which is
 density estimation

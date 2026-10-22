@@ -23,7 +23,3 @@ I was recently interviewed by AKAVIA, a Swedish union. The article is in Swedish
 What would you add to this list?
 
 #Hybrid #leadership #engagement #hybridmeetings
-
-### Shared Article: [Fem tips för lyckade hybridmöten | Akavia Aspekt](https://buff.ly/3GeDkFX)
-> buff.ly
-

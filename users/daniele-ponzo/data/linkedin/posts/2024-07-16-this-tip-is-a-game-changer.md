@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_internationalspeaker-nonnative
 likes: 20
 comments: 7
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHAcIWWSOOTAg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1720894299946?e=1793178000&v=beta&t=OH75ESJI141uiXQzvyEPpkRrUVsUPRl-eyLfW825dWg
+author_comments:
+- '📌 watch the full episode here: https://youtu.be/GPfiYf2F8ZE?si=ghgOjQI--5_nX7Yb'
 ---
 
 This Tip is a Game-changer for your English Fluency.
@@ -38,19 +40,3 @@ Explore my Youtube Channel for more.
 Follow ➡️Daniele
   
 #internationalspeaker #nonnativeleader #inspiration
-
-## Comments (4)
-
-### Ankita G (Helping Businesses Increase Profitability Without Increasing Revenue | Bespoke Custom Software Development | CO-Founder at Plural Code Technologies | 200+ Happy Clients Globally)
-> Useful tips Daniele Ponzo
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo  Absolutely! We need to repeat it like a mantra: practice speaking, practice pronunciation, practice expressing ourselves.
->  It doesn't matter if there are mistakes. Keep speaking, keep practicing, because no one is perfect at the beginning. 😉
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Fear of making mistakes is a big problem I observed as a TEFL teacher Daniele Ponzo.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 watch the full episode here: https://youtu.be/GPfiYf2F8ZE?si=ghgOjQI--5_nX7Yb
-

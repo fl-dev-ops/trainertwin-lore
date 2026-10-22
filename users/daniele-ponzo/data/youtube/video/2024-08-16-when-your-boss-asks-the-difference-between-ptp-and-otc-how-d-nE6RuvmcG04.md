@@ -26,11 +26,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# When your boss asks the difference between PTP and OTC...How do you survive? #podcast #international
-
-## Transcript
-
 speaker_1: the the dinner How did it end The dinner with your boss This this thing keeps on coming back to my mind because I I have this picture of you sitting there looking awkwardly at your boss So how did it end
 
 speaker_2: Oh Yeah so that was awkward moment And that uh that was that was years ago and still haunts me tonight Uh but it was absolutely great lesson honestly because uh yes uh people around me look on the table look confused Um but I theyve actually welcomed it probably because I will I could openly because as part of the as I said I I dont know much about finance I I I know keyboard I know code I know how to build stuff Um how to design it Uh but I dont know your word I want to learn more

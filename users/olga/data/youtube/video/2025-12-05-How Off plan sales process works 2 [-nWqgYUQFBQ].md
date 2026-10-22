@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How Off plan sales process works 2
-
-## Transcript
-
 speaker_1: Its easier for me not to work with you try to find the owner directly or to work with other agent who is on the same level
 
 speaker_2: I think obviously the UK is completely different to to here I understand those experiences obviously have happened but I think if theres always someone whos showing even a peak of interest theres something that we can do for them

@@ -12,6 +12,3 @@ If you're trying hard but still not getting a referral into the right company vi
 
 In case if you have not followed me, you can do it here, I will help you to clear your frontEnd developer interview : Vasanth Bhat
 #linkedin #referral  #dos  #ignore  #referralnetworking #interview
-
-### Shared Document: [DosDontReferral]()
-

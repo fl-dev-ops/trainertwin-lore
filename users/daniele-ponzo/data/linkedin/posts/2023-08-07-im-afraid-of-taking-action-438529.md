@@ -77,9 +77,3 @@ I hope you got some value here.
 If you did, remember to follow Daniele
 
 #english #itprofessionals #speaking
-
-## Comments (1)
-
-### Vanessa Andrews (Associate Consultant)
-> So Relatable Daniele Ponzo especially enjoyed the point on repetition because ‘Repetition is the master of Skill’. Keep sharing.
-

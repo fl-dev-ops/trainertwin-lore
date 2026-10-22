@@ -21,11 +21,3 @@ The best ambassadors and the biggest magnets are happy employees. Motivated empl
 That's what I believe. You?
 
 Today I am traveling to Singapore, to speak at the 13th Annual Global HR Excellence Conference. Looking forward to it. It's been 24 years since I was in Singapore, so long overdue
-
-## Comments (1)
-
-### Thomas Otnes (Product developer and engineer)
-> 💯 
-> The same goes for customers, which essentially is the same mindset. Retention is far cheaper than replacement!
-> And the best way to attract new employees or customers.
-

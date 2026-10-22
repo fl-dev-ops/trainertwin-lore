@@ -19,7 +19,3 @@ May be of interest to my Kannada friends -
 https://lnkd.in/gMXhfthB
 
 #aiml #kannada
-
-### Shared Article: [ಇಂದಿನ ಚರ್ಚಾ ವಿಷಯ : ಭಾರತದಲ್ಲಿ ಎಐ ತಂತ್ರಜ್ಞಾನ](https://www.youtube.com/live/SXydG0d5U0Y?si=kT_CiLpMrHwXkjAD)
-> youtube.com
-

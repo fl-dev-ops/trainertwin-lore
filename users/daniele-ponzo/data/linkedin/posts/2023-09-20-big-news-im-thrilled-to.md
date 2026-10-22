@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/daniele-ponzo_businesscommunication-itleader
 likes: 40
 comments: 8
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E05AQHCbY3xeOwLKA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1695161009592?e=1793178000&v=beta&t=Ljh1uHL73tPEz4AAFnKmKFDvUfJtA4MYUaty03UQQQ8
+author_comments:
+- |-
+  📌What happens when you put yourself out there?
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_english-itprofessionals-inspiration-activity-7112314921144459264-mlRE
+- |-
+  📌How my client got his first international job:
+  https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-internationalcareer-interview-activity-7112677259253026817-DoM3
 ---
 
 Big news! 🌟 
@@ -43,24 +50,3 @@ Hi, I'm Daniele. I post about language improvement, Tech and wellbeing. If you a
 Follow ➡️ Daniele.
 
 #BusinessCommunication #ITLeadership #inspiration #CareerDevelopment
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌What happens when you put yourself out there?
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_english-itprofessionals-inspiration-activity-7112314921144459264-mlRE
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How my client got his first international job:
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-internationalcareer-interview-activity-7112677259253026817-DoM3
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Exciting times! The video podcast with non-native leaders sounds particularly interesting. I'll be watching this space with eager anticipation! 😀
-
-### Vanessa Andrews (Associate Consultant)
-> Look at you  Daniele An  E-Book and a Podcast Series 🙌🏼 Congratulations. 
-> Without Labour, Nothing Propers. ☺️
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Well done Daniele👏
-

@@ -13,12 +13,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Can fresher solve Medium DSA Question ? Mock Interview of Tier 3 college Engineer
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Uncommon Geeks My name is Vasanth I hope you all know me In case if youre someone who dont know Im a content creator I help people to clear their interview And this is a mock series of uh its a series of mock interviews that Im doing as all of you are aware Today with me I have Gaurav So more about Gaurav youll hear from Gaurav only Well be doing a DSA interview in this particular mock interview Um and like a like my old videos the whatever the question that Ill be asking to Gaurav will Ill also put them in the description section You can also solve consider like you
 
 

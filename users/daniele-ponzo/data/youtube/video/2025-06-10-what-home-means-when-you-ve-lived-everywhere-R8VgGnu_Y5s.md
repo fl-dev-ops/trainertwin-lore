@@ -13,9 +13,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# What “Home” Means When You’ve Lived Everywhere
-
-## Transcript
-
 speaker_1: you know this idea of home going back home sometimes people ask uh I think I stopped thinking in terms of that I think home is where I mean things are familiar Youre familiar with the place and you feel good in that place So it is uh you stop thinking in terms of oh my city or even my country is you can be in very different locations for many years and and just feel pretty at home

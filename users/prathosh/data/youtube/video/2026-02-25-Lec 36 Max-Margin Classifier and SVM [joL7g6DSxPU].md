@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 36 Max-Margin Classifier and SVM
-
-## Transcript
-
 speaker_1: Okay So welcome everyone uh to this
 lecture
 So far we have seen empirical risk

@@ -14,9 +14,3 @@ The three psychological needs you as a leader should meet. I call it the ABC:
 • Competence
 
 Give them this and watch engagement lead to performance, and a higher impact!
-
-## Comments (1)
-
-### Agnes Tarnai (Master in Collaborative Leadership, Multicultural communication, Translation, Master of Ceremonies)
-> I could not agree more, Antoni. People want to be seen, heard and recognised. Recognised not only for their achievements, also for their potential. A beautiful task for a leader to spot that potential, and give it a chance.
-

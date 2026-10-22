@@ -13,7 +13,3 @@ article:
 Quick tips on Idea Generation, Selection and SMART Implementation 
 #problemsolving #problemsolvingskills #problems  #problemstatement #problemframing #softskillstraining  #ideageneration #ideathon #smartgoals #implementation 
 https://lnkd.in/gDwSpq8
-
-### Shared Article: [How to PROBLEM SOLVE - Idea Generation, Selection & Implementation](https://www.youtube.com/watch?v=s_EsJyabNNk&t=3s)
-> youtube.com
-

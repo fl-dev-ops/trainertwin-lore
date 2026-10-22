@@ -31,13 +31,3 @@ Sparkles, and lights, and jingles (not bells), amazing, awesome.
 What’s your strategy to survive (and stay sane) during this period?
 
 #nospecialoffer #slowdown #relationships
-
-## Comments (2)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Excellent image dude. Ah the good old days
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Love it Daniele Ponzo 
-> For me: Get grounded. Get out on my bike. Spend time with family and friends in person.
-

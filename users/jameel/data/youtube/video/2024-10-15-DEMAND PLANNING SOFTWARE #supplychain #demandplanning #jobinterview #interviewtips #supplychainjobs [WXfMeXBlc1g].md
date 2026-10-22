@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# DEMAND PLANNING SOFTWARE #supplychain #demandplanning #jobinterview #interviewtips #supplychainjobs
-
-
-## Transcript
-
 speaker_1: Now the next question that is asked in these job interviews is what experience do you have managing demand planning systems Now once again this is a very commonly asked question the recruiter would like to understand what systems have you worked on So for instance if you have worked on SAP APO or Blue Yonder or Kinaxis or Oracle 09 OMP these kind of popular software and in this context I think as a demand planner you should also have the awareness of something called the Gartner Magic Quadrant course is one of the leading supply chain consulting and research firms in the world and every year they issue something called the magic quarter which basically show you that how are these different supply chain software are placed in the industry in a competitive way

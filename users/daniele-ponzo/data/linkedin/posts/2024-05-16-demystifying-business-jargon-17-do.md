@@ -45,12 +45,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #tech #businessjargon #bandwidth #ITprofessionals
-
-## Comments (2)
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> I have to admit... I didn't know that! Very nice Daniele Ponzo
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> Mostly I hear "Sorry I don't have any bandwidth right now..." - but that's a different story :D
-

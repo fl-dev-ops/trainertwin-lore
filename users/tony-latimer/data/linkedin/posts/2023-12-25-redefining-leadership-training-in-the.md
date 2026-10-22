@@ -18,10 +18,3 @@ TonyLatimer.ai is at the forefront of this evolution. Merging Tony's extensive c
 It signifies a move away from one-size-fits-all solutions to personalized, adaptive learning paths, ensuring every leader gets what they need, when they need it.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Debeshi Chakraborty (ICF India Award winner “Trailblazer” PCC Coach 2026 President Award-winning ICF DelhiNCR Chapter|Gallup Certified |Strength & Story-based Leadership Development for aspiring CXOs | Ex Fortune400 UCL Commonwealth Scholar)
-> Beautiful graphic representation of your idea Tony Latimer, MCC 
-> Communicates a lot with simplicity 🌟🌟
-

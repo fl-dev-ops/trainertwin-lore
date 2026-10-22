@@ -13,9 +13,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# How to Build Real English Confidence (Not Just Grammar Knowledge) #shorts
-
-## Transcript
-
 speaker_1: No I say coach because uh its theres a lot of mindset work to do there and and thats thats well I wouldnt say like uh the the main part of it but its surely a big part of it because people I have people who come to me uh with a good level sometimes So theres a lot of mindset work to do and a lot of coaching in a way and also the way you approach like mistakes and errors you know So in a coaching way meaning that we want to communicate thats the first the first goal is communication Then later on well refine

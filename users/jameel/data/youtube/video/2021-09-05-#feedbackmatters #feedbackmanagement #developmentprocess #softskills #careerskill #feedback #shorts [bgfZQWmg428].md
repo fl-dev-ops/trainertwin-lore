@@ -13,11 +13,6 @@ speakers:
   speaker_1: 'On-screen text'
 ---
 
-
-# #feedbackmatters #feedbackmanagement #developmentprocess #softskills #careerskill #feedback #shorts
-
-## Transcript
-
 speaker_1: TIP 1
 
 

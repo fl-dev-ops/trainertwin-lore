@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From "I know nothing about Dubai" to closing deals
-
-## Transcript
-
 speaker_1: On how to become a top real estate agent
 
 speaker_2: How much you know money that will be generated into your pocket

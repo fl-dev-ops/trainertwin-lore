@@ -14,7 +14,3 @@ article:
 I spoke about the purpose/restructuring education in the time of AI. This was a year ago,  to a room full of teachers. This was in Kannada (my mother tongue). Maybe of interest to my Kannada friends here.
 
 https://lnkd.in/gQcDpYgU
-
-### Shared Article: [ಕಥೆಗಳನ್ನು ನಂಬಿ ಸಂಘಟಿತರಾಗುವ ಬುದ್ಧಿಯೇ ಮನುಷ್ಯನನ್ನು ಇತರೇ ಜೀವಿಗಳಿಂದ ಭಿನ್ನ ಆಗಿಸಿದೆ - ಡಾ. ಪ್ರತೋಷ್](https://www.youtube.com/watch?v=veMVTMGcwg4)
-> youtube.com
-

@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to respond to a client that only asks for discount?
-
-## Transcript
-
 speaker_1: So what Im trying to say here and Im more than happy to show you what we have on a discount but help me understand what are you looking for exactly Are you looking for a unit that can appreciate in price and going to potentially give you the highest possible ROI in the future or youre just looking for something with a discount
 
 speaker_2: Honestly both Can be difficult

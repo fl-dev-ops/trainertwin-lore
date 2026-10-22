@@ -44,11 +44,6 @@ speakers:
   speaker_2: 'Anna Maria Graziano'
 ---
 
-
-# How to Overcome Challenges | International Career | The Non-Native Leader | Episode 4
-
-## Transcript
-
 speaker_1: Hello everyone and welcome to another episode of the non native leader a podcast series where we try and answer the question can you have an international career even though you were not born in an English speaking country Well this is only one of the questions we try to answer obviously Um but as you know every episode we speak to some remarkable individuals some amazing people who you know throughout their hard work throughout their dedication have achieved an international career and are now you know enjoying job career history in an international context Um I am very happy to have today Anna Maria Anna Maria Graziano and she has lets say an international career but with a twist and shes going to explain this because uh Im sure she can do that much better than I can do it And yeah so were going to talk to her and shes going to give us you know talk about some of her challenges but also you know some of her successes and how at some stage she had to revisit completely her career her job and uh her obviously location because she also shes also going to tell us all the places she has visited all the places she has worked in So Im sure this is going to be interesting but you know I dont want to spoil it I dont want to say too much and I would like Anna Maria to you know to give us some insight on you know what she does and where she is Um yeah so Anna Maria welcome and hi
 
 speaker_2: Hello Thank you Thank you Daniele for inviting me Im very happy to be here and Im very happy to be part of this of your project Um we can maybe disclose since the right at the start that we have been knowing each other for more than 20 years Uh so actually you know quite well my professional career trajectory Um so feel free to ask me also uh you know difficult questions if you want

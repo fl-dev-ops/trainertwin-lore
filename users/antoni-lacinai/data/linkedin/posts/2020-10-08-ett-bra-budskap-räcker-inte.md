@@ -21,21 +21,3 @@ Vi som ska stå där på scenen och presentera den senaste medarbetarundersökni
 #event #kommunikation #digitalamöten #föreläsning
 
 https://bit.ly/2GAb6L7
-
-## Comments (5)
-
-### TOMMY R. (Professionell mötesbokning.)
-> 👍
-
-### Eva Hammarstedt (Chefsassistent som slutat jobba)
-> Rätt, nu behöver man en bra fotograf också :-)
-
-### Peter Markgren (Back Office Manager, Team developer, Coach)
-> Yes!
-
-### Mi Ridell (Nonverbal Communication Analyst certified by Joe Navarro)
-> Så sant!
-
-### Kjell Dahlin (Framförallt Inspirationstalare. Men även författare och grundare av den mjuka kommunikationsbyrån Popretorik)
-> Amen.
-

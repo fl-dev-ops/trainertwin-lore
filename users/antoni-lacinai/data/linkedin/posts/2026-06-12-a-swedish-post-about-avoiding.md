@@ -18,12 +18,3 @@ Men tvärtom är jättebra
 Vilken är din "favorit" ?
 
 ^_^
-
-## Comments (2)
-
-### Per E Claesson (Senior consultant (Freelance))
-> Nyttig krönika Antoni, ryms en hel del narcissister som ofta har ett förödande ledarskap. Kul och tydligt ”tvärtom” budskap.
-
-### Mats Guldbrand (Executive AI Communication | AI Strategist | Change Management and AI Adoption | AI storyteller for boards, leaders and seven-year-olds | 1,000+ executive briefings, 10 heads of state)
-> 3 och 7 har tidvis stått som spön i backen genom åren …
-

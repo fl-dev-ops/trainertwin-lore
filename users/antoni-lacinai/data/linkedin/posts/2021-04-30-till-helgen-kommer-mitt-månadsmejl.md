@@ -15,7 +15,3 @@ Till helgen kommer mitt månadsmejl "Tankefrön - om kommunikation och motivatio
 Den här gången kommer jag att blotta mitt eget tillkortakommande och berätta om när jag, kommunikationsexperten, bara var plump när jag trodde att jag var rolig...
 
 Vill du också läsa mina tankar? DMa mig din mejladress eller gå in på lacinai.se och scrolla ner.
-
-### Shared Article: [Antoni Lacinai](http://lacinai.se)
-> lacinai.se
-

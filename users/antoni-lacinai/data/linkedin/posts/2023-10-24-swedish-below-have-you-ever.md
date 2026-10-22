@@ -15,11 +15,3 @@ I have had a mentally tough autumn myself and have fought hard to be my normal h
 Har du känt dig omotiverad och låg? Har du och ditt team hamnat i en svacka? Det är lätt hänt. Här är fem motivationsboosters som kan hjälpa dig och ditt team. Något du vill lägga till?
 
 #keynotespeaker #communication #engagement #motivation
-
-## Comments (1)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Good to hear your Happy Self is returning Antoni.  Some great tips there, especially mentioning "Together".  People NEED People to be our best.  There is nothing quite like communicating in person!  
-> 
-> Have a great day😎
-

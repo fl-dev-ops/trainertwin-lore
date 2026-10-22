@@ -4,6 +4,20 @@ date: '2025-05-22T16:43:59.571Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_ceos-mds-founders-hr-managers-ld-experts-ugcPost-7331193769368653824-e6wV
 likes: 19
 comments: 9
+author_comments:
+- '📌 "You need to work with him": What successful corporate training looks like: https://www.linkedin.com/posts/daniele-ponzo_when-the-person-in-charge-of-the-training-activity-7331555077947576320-p00G'
+- |-
+  🧐 What I’ve noticed is that these challenges often overlap.
+
+  Someone might avoid speaking in meetings not because they lack knowledge, but because they’re second-guessing their English.
+
+  Or their emails come across as unclear or too blunt, not because they don’t know what to say, but because tone and nuance in a second language are hard.
+
+  And if a training doesn’t address those real moments?
+  It won’t move the needle.
+
+  Curious to hear from you: 𝘄𝗵𝗮𝘁’𝘀 𝘀𝗵𝗼𝘄𝗻 𝘂𝗽 𝗶𝗻 𝘆𝗼𝘂𝗿 𝘁𝗲𝗮𝗺?
+  Feel free to expand on your vote in the comments 👇
 ---
 
 CEOs, MDs, Founders, HR Managers, L&D Experts...
@@ -36,31 +50,3 @@ or drop a comment if you’ve seen something different.
 Your input would be really valuable as I refine the programs I’m developing to better meet companies' real needs.
 
 P.S. and if you've ever been involved in Business English Training as a participant, I'd love to have your opinion too!
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 "You need to work with him": What successful corporate training looks like: https://www.linkedin.com/posts/daniele-ponzo_when-the-person-in-charge-of-the-training-activity-7331555077947576320-p00G
-
-### Sarah Gruneisen 🐉 (Principal Consultant in Transformation: AI for Leaders and Products • Scaling engineering leaders, teams, and sustainable impact with AI • Leadership • Human-Centered Transformation)
-> It’s the lack of clear understanding… you see it flowing both ways.  A question asked but a different question answered.  You see the resigning from trying.  And judgement rising.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Such an important topic! Communication issues in English can silently hold teams back. Confidence and clarity are big ones I’ve seen, especially in presentations. Great initiative to tackle this head-on! 👏
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> Daniele in all cases there will be a breakdown in communication, which leads to all sorts of problems. That's why employers MUST install training programs that help their employees with their communication skills.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🧐 What I’ve noticed is that these challenges often overlap.
-> 
-> Someone might avoid speaking in meetings not because they lack knowledge, but because they’re second-guessing their English.
-> 
-> Or their emails come across as unclear or too blunt, not because they don’t know what to say, but because tone and nuance in a second language are hard.
-> 
-> And if a training doesn’t address those real moments?
-> It won’t move the needle.
-> 
-> Curious to hear from you: 𝘄𝗵𝗮𝘁’𝘀 𝘀𝗵𝗼𝘄𝗻 𝘂𝗽 𝗶𝗻 𝘆𝗼𝘂𝗿 𝘁𝗲𝗮𝗺?
-> Feel free to expand on your vote in the comments 👇
-

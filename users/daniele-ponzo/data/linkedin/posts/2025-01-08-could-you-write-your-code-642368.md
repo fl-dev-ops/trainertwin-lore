@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_speaktolead-businessenglishsum
 likes: 26
 comments: 15
 images_count: 1
+author_comments:
+- |-
+  📌 What happens when you remove fear? A story of transformation and success:
+  https://www.linkedin.com/posts/daniele-ponzo_wrong-do-it-again-wrong-do-it-again-activity-7283396602914893824-qJee
+- '📌 Business English mastery, Cross-cultural communication,Mindset and leadership skills. 7 days. Online. Free. register here: https://speaktoleadsummit.com/optin'
 ---
 
 Could you write your code without using a computer? 💻 
@@ -42,42 +47,3 @@ Follow the link in the first comment below to 𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿 f
 P.S. Have you already got a plan to level your skills up this year? Let’s support each other on our journey 🙂  
 
 #SpeakToLead #BusinessEnglishSummit #CareerSuccess
-
-## Comments (9)
-
-### Prof.Dr.Evone Botros. (AI Governance Researcher | Journal Founder | Fellow, Royal Society of Great Britain at Oxbridge Institute of Professional Development (OIPD) - UK)
-> Amazing!!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 What happens when you remove fear? A story of transformation and success:
-> https://www.linkedin.com/posts/daniele-ponzo_wrong-do-it-again-wrong-do-it-again-activity-7283396602914893824-qJee
-
-### Abdul Raqeeb (Brand & Content Designer for Coaches and Founders | I help you look as credible online as you actually are.)
-> Excited for this Daniele Ponzo.
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Great post, Daniele! The coding and driving analogies really make the importance of English hit home... such a smart way to frame it.
-> 
-> Your summit sounds awesome, especially the mix of soft skills and AI tools. 
-> 
-> I think IT professionals will really benefit from that kind of focus on real-world communication and leadership strategies. 
-> 
-> Wishing you all the best with it. 
-> 
-> I know you'll smash it and make a big impact! 💪
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It's a great reminder that advancing our language skills goes hand in hand with our professional growth. Looking forward to the impact your summit will create. Daniele Ponzo
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Great opportunity you're offering Daniele Ponzo.
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> Very excited to see you speaking at this event, Daniele!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Business English mastery, Cross-cultural communication,Mindset and leadership skills. 7 days. Online. Free. register here: https://speaktoleadsummit.com/optin
-
-### Konrad Sieracki (Senior Full Stack Engineer .NET/Angular @ Kruk)
-> Highly recommended
-

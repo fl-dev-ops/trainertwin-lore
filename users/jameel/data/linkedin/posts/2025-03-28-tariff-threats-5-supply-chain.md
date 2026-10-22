@@ -15,7 +15,3 @@ Canada can reduce its US dependency by leveraging strategic supply chain opportu
 
 Read more about these strategies and how they can enhance economic stability in my latest article.  💬
 #SupplyChainDiversification #CanadianTrade #ExportStrategy
-
-### Shared Article: [Tariffs? 5 Supply Chain Opportunities for Canada](https://www.linkedin.com/pulse/tariffs-5-supply-chain-opportunities-canada-jameel-hye-35ljc?trackingId=fF37faqxPEE6aPRZ15E2Cw%3D%3D)
-> Jameel Hye
-

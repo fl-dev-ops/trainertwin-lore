@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 06 Understanding a Chest X-Ray  as Sample from Distribution
-
-## Transcript
-
 speaker_1: Welcome back So now uh lets try to get
 that example uh grounded in in these uh
 these under with these notations and

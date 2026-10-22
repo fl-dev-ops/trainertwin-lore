@@ -25,16 +25,3 @@ Every year, 15% of general management roles globally need to be filled. Yet 76% 
 No wonder seven in ten don't make it through eighteen months.
 
 https://lnkd.in/gRShsMnY
-
-### Shared Article: [The True Cost of Executive Hiring and CEO Failure](https://www.profitableleadership.com/blog/true-cost-executive-hiring-ceo-failure)
-> profitableleadership.com
-
-
-## Comments (2)
-
-### Paul Prathap L. (Strategy and operations | Crisis leadership doctorate, Cranfield University | Ex Singapore Armed Forces)
-> The distinction between selection failure and system failure matters enormously. When organisations misattribute poor CEO performance to the individual, they keep selecting differently but reproducing the same conditions. The intervention point stays wrong, and the failure rate stays the same. What you are pointing at is not a talent gap. It is a context gap.
-
-### David Safford (Book Coach for Experts Who Are Ready to Finally Finish Their Book | Award-Winning Ghostwriter & Book Coach | Christ-Follower | Grab 20 No-B.S. Mins on my Calendar 👇)
-> This is a staggering statistic, Tony. Imagine quantifying the cost of all that turnover in a single corporation, much less the entire corporate landscape!
-

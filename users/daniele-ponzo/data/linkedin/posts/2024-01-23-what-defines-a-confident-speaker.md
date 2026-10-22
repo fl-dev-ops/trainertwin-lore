@@ -27,21 +27,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️ Daniele.
  
 #english #Itprofessionals #confidence
-
-### Shared Document: [8 fundamental skills of the Confident English Communicator]()
-
-
-## Comments (4)
-
-### Dr. Paul Toote (I help experts become the recognized authority in their field — starting with the book they’ve been putting off | Physician-Author | Founder, Easy Author Pro)
-> Absolutely true! Effective communication goes far beyond vocabulary. Keep leveling up, Daniele! 👍
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Yes! The tone of your speak matters! 👍
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Active listening is one that so many of my leadership clients struggle with Daniele!! What do you recommend as the best way to practice and improve active listening skills?
-
-### Marco Labate (Coach | Trainer | Autore | Divulgatore)
-> Daniele Ponzo, a me piace la 3 😉
-

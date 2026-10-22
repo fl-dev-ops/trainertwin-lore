@@ -6,25 +6,11 @@ url: https://www.instagram.com/p/CqcTAKNj7Yj/
 likes: 12
 comments: 0
 slide_count: 2
+slides:
+- |-
+  +
+  EMERGENCY
+- BAE TAB
 ---
 
-## Caption
 Night train to Stockholm. Always …fun. Soon workshoptime 😃👍🏻
-
-## Carousel Slides (2)
-
-### Slide 1
-
-> Alt text: Photo by Antoni Lacinai on March 30, 2023.
-
-
-+
-EMERGENCY
-
-### Slide 2
-
-> Alt text: Photo by Antoni Lacinai on March 30, 2023.
-
-
-BAE TAB
-

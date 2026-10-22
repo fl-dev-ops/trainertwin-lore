@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Must Watch for #freshers | Don't fall for the trap of full stack development | stay away from #scam
-
-
-## Transcript
-
 speaker_1: Still it is same as the what a backend developer alone and the frontend developer alone can get it It is you need not to become full stack developer to earn more So what all you need to know is Swift Objective C and Xcode HTML iOS SDK jQuery jQuery Mobile and then you need to also know JavaScript and Python You should also have a knowledge about IIS Azure machine learning Azure How many things you will learn Okay Im calling it quite openly now Its full stack development has become recent I hope you all doing well
 
 speaker_2: Maybe compare some

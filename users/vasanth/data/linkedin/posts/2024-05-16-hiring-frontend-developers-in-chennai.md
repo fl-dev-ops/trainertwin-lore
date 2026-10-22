@@ -15,7 +15,3 @@ Hiring Frontend Developers in Chennai!!
 Partnering with Vishnuvardhan P to hire a Senior Software Engineer - UI, Javascript and ReactJS. Please apply for the same with the below portal link if you are interested.
 
 https://lnkd.in/em6_DFBw
-
-### Shared Article: [Senior, Software Engineer](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Senior--Software-Engineer_R-1749390)
-> walmart.wd5.myworkdayjobs.com
-

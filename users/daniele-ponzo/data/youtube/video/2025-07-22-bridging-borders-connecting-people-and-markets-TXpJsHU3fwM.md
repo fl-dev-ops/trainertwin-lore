@@ -17,9 +17,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Bridging Borders: Connecting People and Markets
-
-## Transcript
-
 speaker_1: I I work as an international business consultant and a network connector So in simpler terms I help business bridge the gap between Southeast Asia and China So I connect people with the right people developing the market with the right strategy And besides my consulting work Im Im very passionate about mentoring So mentoring is very close to my heart Okay so I if somebody asks me what do I do I simply tell them I connect I help people discover and help people grow across industries cultures and borders So if youre a businessman come to me

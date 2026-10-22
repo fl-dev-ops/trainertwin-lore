@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Double Challenge of Learning English in Japan #shorts
-
-## Transcript
-
 speaker_1: I think its its an interesting perspective because obviously youre exposed to the English that you use at work but outside you cant really get away with English So its double double challenge if you ask me which is all you know the more the better Yes But yeah at the same time yeah Its uh it is challenging though yeah
 
 speaker_2: No you cant It is challenging but you get used to it quickly Uh especially because I studied Japanese Thats actually the only language I really studied But uh when I moved to Japan the immediately of course my Japanese was uh uh comprised of two words which were train and river We should really use together You cant do much with them Can you Oh believe me for the first three four months I couldnt even say a single phrase

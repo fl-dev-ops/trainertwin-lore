@@ -17,17 +17,3 @@ En studie i USA sa att om du spenderar mindre än 20% av din tid med sånt du ä
 Dela med dig av en siffra i procent.
 
 #arbetsglädje #engagemang #ledarskap
-
-## Comments (3)
-
-### Thomas Otnes (Product developer and engineer)
-> tragiskt nog 0-5%, men jag gör nödvändiga saker den övriga tiden. För att orka med är jag medveten om risken för utbrändhet och gör övningar för att inte inte bli utbränd.
-
-### Giovanni Leoni (Global Performance & AI Business Lead at Novo Nordisk)
-> 97%
-> 
-> (Läste Csikszentmihalyi's tankar kring detta för många år sedan och sedan dess gjort jag allt jag kan för att ha uppdrag där det är möjligt)
-
-### Daniel Harre (Brinner för att förebygga och avhjälpa spelberoende)
-> På jobbet spenderar jag nog max 5% med sånt älskar... på min utbildning däremot ligger det nog på 50-60%
-

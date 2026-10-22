@@ -72,22 +72,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
 
 #itprofessionals #businessenglish #language
-
-## Comments (4)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Absolutely Daniele ))
-> 
-> Switching between phrasal verbs and formal verbs depending on the situation is key. 
-> 
-> Great reminder!
-
-### Kushal Das (Strategic design for B2B companies | Founder, Hoco Studio)
-> Creating a personalized dictionary is brilliant—seeing phrasal verbs in context really helps them stick Daniele Ponzo.
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Phrasal verbs can indeed feel like decoding a secret language, but they are so essential for navigating business English. Daniele Ponzo
-
-### Lorena Ignazzi (I bring numbers, people and decisions together when a company grows, but choices and organization struggle to keep up | Strategic Advisor for B2B SMEs | 4R Strategy Impact Method)
-> sempre un'infinità di risorse Daniele! GRAZIE 😁
-

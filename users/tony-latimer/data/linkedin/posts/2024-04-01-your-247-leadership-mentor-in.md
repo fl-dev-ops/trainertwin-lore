@@ -17,9 +17,3 @@ Whether it’s intricate leadership paradigms or actionable strategies for real-
 
 Step into an era where answers are not sought; they’re immediately found.
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Katherin Wu (Focus on Maritime Safety and Efficient Operations)
-> Cool stuff!
-

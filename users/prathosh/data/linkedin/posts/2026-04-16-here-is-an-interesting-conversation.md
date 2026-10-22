@@ -14,7 +14,3 @@ Here is an interesting conversation that I had with the Office of Communications
 
 
 https://lnkd.in/gPsmBrQK
-
-### Shared Article: [Asking questions for a career - Prof. Prathosh, IISc, Bengaluru.](https://youtu.be/OMjF2dVKHhc?si=jtoiOz7FUvGlQqEs)
-> youtube.com
-

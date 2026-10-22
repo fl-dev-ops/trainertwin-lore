@@ -20,7 +20,3 @@ One of the worst examples of this was when a CEO in France wanted to bully 22,00
 Be nice. It is more fun and more productive. Period.
 
 #leadership #communication #engagement #workplaceshaming
-
-### Shared Article: [Workplace shaming: How can employers deal with it? - ETHRWorldSEA](https://hrsea-economictimes-indiatimes-com.cdn.ampproject.org/c/s/hrsea.economictimes.indiatimes.com/amp/news/workplace/workplace-shaming-how-can-employers-deal-with-it/100081716)
-> hrsea.economictimes.indiatimes.com  
-

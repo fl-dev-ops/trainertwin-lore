@@ -13,10 +13,6 @@ speakers:
   speaker_3: null
 ---
 
-# Lec 7a - Deep Generative Models GAN variants and Applications
-
-## Transcript
-
 speaker_1: Yeah so this is the uh uh
 
 

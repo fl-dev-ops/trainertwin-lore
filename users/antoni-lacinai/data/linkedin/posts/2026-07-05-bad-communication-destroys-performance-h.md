@@ -11,9 +11,3 @@ Bad communication destroys performance
 Here's what I propose you do:
 Better to ask and appear stupid
 than not to ask and BE stupid...
-
-## Comments (1)
-
-### Michael Dodd (--)
-> Very wise words @Anoni Laconia!!!
-

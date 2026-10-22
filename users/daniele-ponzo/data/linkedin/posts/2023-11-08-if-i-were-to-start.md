@@ -5,6 +5,15 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-langua
 likes: 25
 comments: 7
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
+   
+  🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
 ---
 
 If I were to start learning English today, here’s what I’d do differently.
@@ -47,24 +56,3 @@ Send me a private message and I’ll give you all the info.
 I have one spot to work 1on1 with an IT Manager. This might be the last before the end of the year.
 
 #english #itprofessionals #languagecoaching
-
-## Comments (4)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
->  
-> 🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### Rory Glacken (Global Vice President - Accounting & Entity Management)
-> Daniele - you were always a good communicator- and have become a great communicator with practice and experience 👌
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Great post and great collars 😀
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> I love your picture gallery through the ages!
-

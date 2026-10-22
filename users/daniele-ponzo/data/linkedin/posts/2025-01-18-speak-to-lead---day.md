@@ -59,16 +59,3 @@ Pauline
 Speak to Lead Summit Host
 
 Hurry! Starting soon....
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Thank you Marianne! I had a great time talking with Pauline, I'm both happy and proud 💪
-
-### Dr. Mandy Zimmermann (Leadership Strategist | Healthy Leadership for Resilient Organisations)
-> Thank you Marianne Jordan ,
-> It is an honor to be part of this summit as much as it’s fun! I enjoyed speaking today and hope everyone enjoys the sessions!
-
-### Sri Murthy (Helping Early-to-Mid-Career IT & Finance Professionals Stop Freezing and Speak Clearly: Meetings | Presentations | Interviews | Corporate workshops)
-> Best of luck to today's speakers 👍🏻🥳
-

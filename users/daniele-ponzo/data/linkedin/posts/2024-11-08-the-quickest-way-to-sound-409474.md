@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-business-global-activi
 likes: 37
 comments: 23
 images_count: 1
+author_comments:
+- "Looking for a way to improve your speaking? \U0001F447 \nhttps://www.linkedin.com/posts/daniele-ponzo_tech-itprofessionals-english-activity-7261988977761521664-Cdj6?utm_source=share&utm_medium=member_desktop"
+- Do you find it easy to pronounce LinkedIn? "linkt-IN"
 ---
 
 The quickest way to sound more professional in English.
@@ -75,41 +78,3 @@ P.S. do you have any funny pronunciation stories? Let me know below 👇
 Image credits: Pun Hub (talking about pronunciation...)
 
 #english #business #global
-
-## Comments (10)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Looking for a way to improve your speaking? 👇 
-> https://www.linkedin.com/posts/daniele-ponzo_tech-itprofessionals-english-activity-7261988977761521664-Cdj6?utm_source=share&utm_medium=member_desktop
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Clear articulation truly bridges the gaps in global communication, allowing diverse teams to collaborate effectively. Daniele Ponzo
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Shadowing tech talks and using tongue twisters are practical ways to enhance articulation. Daniele Ponzo
-
-### Xhoni Mimillari (The Last LinkedIn Expert You’ll Ever Need / and the guy you hire to win $10K-$50K clients - Founder & Investor.)
-> Definitely gonna try that next meeting!!
-> 
-> "She sells C++..." – that’s gonna be my new icebreaker.
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo These practical tips are perfect for anyone looking to improve their pronunciation and sound more professional in a global environment! The Shadow Tech Talk videos and intentional mispronunciation techniques are especially clever and fun ways to practice.
-
-### Laura Markus (Accent & Communication Coach | I Help International Professionals Refine Their Pronunciation & Spoken English So They Feel More Comfortable & Confident When They Speak)
-> Very true! Good pronunciation makes a huge difference in comprehension too.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Do you find it easy to pronounce LinkedIn? "linkt-IN"
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> ooooh I love shadowing technique!
-> 
-> And the proverb "She sells C++ shell scripts by the server." was unexpected 😂
-
-### Stefania Marinelli (Turning Busy Professionals into Authentic Leaders | Associate Certified Coach -ICF | Senior People Manager | Agile Coach)
-> “She sells C++ shell scripts by the server.” I love it Daniele, maybe early in the morning it is not the best moment to try it 😅 but I love it!
-
-### Mykola D. (I Help IT & Corporate Professionals Achieve Fluency 🗣️, Reduce Accent 🎯 & Succeed in Interviews, Meetings & Presentations | Communication Coach | Since 2016)
-> I saw this pic yesterday, like this type of humour )))
-

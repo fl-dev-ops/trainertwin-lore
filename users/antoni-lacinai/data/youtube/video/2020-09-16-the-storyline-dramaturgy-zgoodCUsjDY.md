@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# the storyline dramaturgy
-
-## Transcript
-
 speaker_1: Every movie every theater play every presentation every event goes through three stages the beginning the middle and the end And this storyline curve or as I wrote it in Swedish dramaturgy the dramaturgical curve will help you a lot when it comes to plotting putting the right content in at the right time
 
 

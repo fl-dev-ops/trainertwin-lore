@@ -19,13 +19,3 @@ One thought for you all: Is servant leadership about serving your team or servin
 Thank you Lena for the inspiring meeting!
 
 #leadership #communication #engagement
-
-### Shared Article: [Communication and Leadership - The Servant Leader's Mindset Podcast](https://buff.ly/3WqhYvD)
-> buff.ly
-
-
-## Comments (1)
-
-### Jonas Hedlin (Founder of Game Limiter | Building the next generation of parental tools for healthier gaming and digital wellbeing 🎮)
-> Could it not be both!?! 🤔
-

@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Learning the Local Language Changes Everything Abroad #shorts
-
-## Transcript
-
 speaker_1: Um so Japan nobody speaks English Some people think they do but they dont And so it would be uh it would be unwise to uh to try to live in Japan without speaking the language Again I started so I got better just because I was in a great program Its not the best choice Number one you cannot talk to anyone
 
 speaker_2: And then you know like I dont think its a wise choice anywhere you know like there are countries where you can get away with English for sure But at the same time if you want to live in another country you might as well try to learn the language of that country But yeah you know

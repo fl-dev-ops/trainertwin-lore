@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_businessjargon-itleadership-te
 likes: 19
 comments: 8
 images_count: 1
+author_comments:
+- Thanks for reposting, Kyrylo Kuzmenko!
 ---
 
 Demystifying Business Jargon #15: Let's Get the Ball Rolling!
@@ -36,21 +38,3 @@ This expression is essential if you want to take action, drive results, and achi
 P.S. Let me know in the comments: are you ready to get started on a great project? Let’s get the ball rolling! ((⚽))
 
 #BusinessJargon #ITLeadership #Teamwork #Innovation
-
-## Comments (4)
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo The idiom in Italy could lead to misunderstandings. In fact, the first time I used it, some professionals gave me a puzzled look.😅
-> 
-> While the English expression "Let's get the ball rolling" has a positive connotation of "let's get started" or "let's get things moving," it can be potentially misunderstood in Italy, especially when used by a woman. 
-> In Italian, the word "ball/palle" has a double meaning: it can refer to both a ball and a slang term for lies or nonsense. 😊
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Kyrylo Kuzmenko!
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> That's one of my favourites Daniele! 😎
-
-### Elisa Verrecchia (American English Language Coach, Ph.D.)
-> Such a nice expression, very dynamic! 😄
-

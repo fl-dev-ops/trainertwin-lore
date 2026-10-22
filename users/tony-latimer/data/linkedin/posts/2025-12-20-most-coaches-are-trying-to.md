@@ -47,27 +47,3 @@ If 2026 is the year you stop playing small,
 and start playing a game worth winning,
 this is where the thinking begins.
 Preorder available on Kindle
-
-## Comments (7)
-
-### ŞİRİN YELMEN OKTAR (Global HR and Leadership Development Leader | Culture, Talent and Organizational Effectiveness | ICF Master Certified Coach (MCC) | TEDx Speaker and Author)
-> Great, excited to read. I am curious what you will tell more✌️
-
-### Gregory Peck, MA, PCC, PCT, CPT, NBHWC (Transformational Life Coach | Professional Certified Coach (PCC) | Health & Wellbeing Leader | 🚀🚀 My Superpower -- Connecting with Clients From the Heart & Helping Them Feel Heard 🚀🚀)
-> I look forward to your book
-
-### Victoria Bradley (✨ Learn to coach with LEGO® Serious Play® ✨ Get Certified in LEGO® Serious Play® Coaching ✨ ICF Approved Educator ✨ Author ✨ Master Trainer ✨ PCC Coach ✨ Aspiring Village Crazy Lady ✨ Mama ✨ Creative Soul ✨)
-> Looks great! Excited to read
-
-### Edward Howard (#1 Amazon Bestselling Author of ‘One Breath Leadership’ | Keynote Speaker on Burnout-Resilient Leadership & Decision-Making Under Pressure | Founder, Kokoro Business Performance)
-> Congratulations on the book Tony, will definitely be picking up a copy!
-
-### Philip Woodburn (Executive Coach | Leadership, Resilience & Career Transitions | Mentor | Former Regional CFO, Schneider Electric | FCA | ICF ACC | Conference Chair)
-> Sounds truly insightful. I’m curious to know more here.
-
-### Nancy E James, ICF- PCC (Chief Executive Coach | The BayPalm Groupe | Helping Leaders Find Clarity, Confidence & Sustainable Growth)
-> A must read
-
-### Lori Bruhns (🌟 CEO & Founder, Lori Bruhns | 🎯 ICF Professional Certified Coach (PCC) | 💼 Executive Coach for Leaders | 🎤Corporate Facilitator & Speaker | 📧 The Authentic Edge)
-> Tony Latimer  looking forward to reading this.
-

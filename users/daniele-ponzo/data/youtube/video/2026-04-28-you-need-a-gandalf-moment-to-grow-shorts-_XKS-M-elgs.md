@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# You Need a “Gandalf Moment” to Grow #shorts
-
-## Transcript
-
 speaker_1: Yeah but we all need that kind of Gandalf moment dont we
 
 speaker_2: You do

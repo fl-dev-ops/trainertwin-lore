@@ -20,11 +20,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Your Voice Is Killing Your Authority (Fix Your Intonation) | How Intonation Changes Everythi #shorts
-
-## Transcript
-
 speaker_1: intonation it means catching the attention passing the message clearly being assertive or being open or creating suspense You can do anything you want with intonation You eventually do it in a natural way but you have to start by learning the basics yeah So what does it mean to use effective intonation
 
 

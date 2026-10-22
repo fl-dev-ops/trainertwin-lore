@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter15
-
-## Transcript
-
 speaker_1: अथ पञ्चदशोऽध्यायः
 पुरुषोत्तमयोगः
 श्रीभगवानुवाच

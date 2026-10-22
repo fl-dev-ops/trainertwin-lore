@@ -8,12 +8,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4D10AQE6lDqDh_kFng/CeJxzMn
 ---
 
 Why some managers get 8.7x more from their teams — Gallup explains it
-
-## Comments (2)
-
-### Hasse Carlsson (Föreläsare inom samarbete, självledarskap & arbetsplatskultur sedan 2002 · Författare till 4 böcker · Anlitad av kommuner, sjukvård och stora och små företag i hela Sverige · hassecarlsson.se)
-> Spot on! 🔥
-
-### Anders Torstensson (Coach/föreläsare/teknisk chef och svensk mästare 2025. Cupmästare 2026)
-> - Nobody cares how much you know until they know how much you care
-

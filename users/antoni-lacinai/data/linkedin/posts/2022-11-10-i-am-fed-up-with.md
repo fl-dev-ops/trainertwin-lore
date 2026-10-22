@@ -19,19 +19,3 @@ What do you think is needed to get a more productive team?
 #leadership #engagement #communication
 
 Here is a link to an  English video on the same topic: https://lnkd.in/dpjWJtef
-
-### Shared Article: [Sluta snacka om effektiva-moten - Ledarskap - HRnytt](https://buff.ly/3Um5XqX)
-> buff.ly
-
-
-## Comments (3)
-
-### Mihaela Smadilo (Leadership Development | Talent Strategy | Organisational Structure & Culture Development | Transformation & Change Management)
-> Effectiveness is something I appreciate even more than efficiency - as it keeps us focused on creating the value for our clients and for our organisations.
-
-### Fredrik Garbell (Enhetschef Försäkringskassan IT)
-> Håller med! Som jag uppfattade det finns delar av det du är efter i en annan liknande pedagogisk beskrivning som kallas för valnöten. Men jag gillar ordet engagemang.
-
-### Cecilia Larsdotter (Building cultures where people whistle to work 🎶 | Leadership, Behavior & Culture Transformation | People & Culture Strategist | Leadership Developer | Trust-Based Transformation | Building Engaged Cultures & Collective)
-> Omtanke och rätt ställd intention ❤️
-

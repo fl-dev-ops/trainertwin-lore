@@ -4,6 +4,9 @@ date: '2023-11-24T07:30:08.777Z'
 url: https://www.linkedin.com/posts/lacinai_leadershipdevelopment-humanresources-businessethics-activity-7133718417357824000-FJ3R
 likes: 12
 comments: 12
+author_comments:
+- Patrik Nordkvist. • 25% of affected employees take out their frustration on customers. What is your reflection on this?
+- Thank you Unique Speaker Bureau International. for a great cooperation as always
 ---
 
 The more Respect - the better Effect!
@@ -39,23 +42,3 @@ A disrespectful work environment may be costing your business more than you real
 
 I had the pleasure of sharing this and more in a keynote to a great African bank and insurance company recently. 
 In a nutshell: 𝗖𝗶𝘃𝗶𝗹𝗶𝘁𝘆 𝗪𝗶𝗹𝗹 𝗜𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗬𝗼𝘂𝗿 𝗕𝗼𝘁𝘁𝗼𝗺 𝗟𝗶𝗻𝗲
-
-## Comments (5)
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> This is so important, thanks for sharing! Wish more organizations strived to create a culture of kindness, it's a win-win-win for everyone.
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Patrik Nordkvist. • 25% of affected employees take out their frustration on customers. What is your reflection on this?
-
-### Paul Mc Connon (CEO of Unique Speaker Bureau International)
-> I am at the venue and looking forward to seeing you Antoni. Great topic.
-
-### Unique Speaker Bureau International (2,200 followers)
-> Excellent share as always Antoni - your audience today are looking as forward to your keynote as you are
-> 
-> Continuously developing "A culture of kindness ...."
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Thank you Unique Speaker Bureau International. for a great cooperation as always
-

@@ -19,7 +19,3 @@ I asked chatGPT how many emails that was sent each day. Answer: 281 billion!
  I wonder how many of them that were necessary…
 
 I was recently interviewed in a Swedish magazine about the pain of e-mails. So, for you Swedes ; enjoy some light reading 😃
-
-### Shared Article: [Bristande mejlkvalitet retar svenskarna – Här är experternas tips](https://buff.ly/3JJBtfc)
-> kvalitetsmagasinet.se
-

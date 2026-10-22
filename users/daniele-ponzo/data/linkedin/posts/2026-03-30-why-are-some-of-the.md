@@ -5,6 +5,22 @@ url: https://www.linkedin.com/posts/daniele-ponzo_why-are-some-of-the-most-compe
 likes: 42
 comments: 9
 images_count: 1
+author_comments:
+- |-
+  If this topic resonates with you, join us live.
+  🎙 𝗘𝘃𝗲𝗿 𝗛𝗮𝗱 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗜𝗱𝗲𝗮… 𝗕𝘂𝘁 𝗗𝗶𝗱𝗻’𝘁 𝗦𝗮𝘆 𝗜𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗲𝗲𝘁𝗶𝗻𝗴?
+
+  We’ll unpack:
+  • Why competent professionals go silent
+  • How language, culture, and power dynamics interact
+  • Why confidence is contextual
+  • How to unlock hidden voices in global teams
+
+  📅 Wednesday🕓 4PM CET
+  🔗 Join here:https://www.linkedin.com/events/everhadagreatidea-butdidn-tsayi7439265608686313473/theater/
+
+  Bring your questions. Bring your real experiences.
+  See you there.
 ---
 
 Why are some of the most competent people… invisible at work?
@@ -118,37 +134,3 @@ If you’ve ever felt technically strong but not fully heard…
 “𝗘𝘃𝗲𝗿 𝗛𝗮𝗱 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗜𝗱𝗲𝗮… 𝗕𝘂𝘁 𝗗𝗶𝗱𝗻’𝘁 𝗦𝗮𝘆 𝗜𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗲𝗲𝘁𝗶𝗻𝗴?”
 Wednesday, 1st of April. 4PM CET.
 Details in the comments.
-
-## Comments (6)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Very true. Visibility is often about communication, not competence.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> This is so true visibility at work isn’t just about skill, it’s about language, culture, confidence, and psychological safety. Important conversation for global teams. Daniele Ponzo
-
-### Tom Otto (SWE → Founder @ Mockly & Launch Llama | Helping founders launch | 80K+ newsletter audience)
-> Sounds like a crucial discussion, looking forward to the insights shared at the roundtable.
-
-### Nadege Welsch (🌍 Helping global teams uncover the invisible human dynamics that shape trust, performance & retention | Creator of The Human Factor Advantage & SHIFT | Author | Cultural Intelligence Specialist)
-> Daniele Ponzo it’s going to be a great and insightful panel I cannot wait 🙏🏻🥳
-
-### Francisco Manuel Soto Ramírez (SDE2 @Amazon | Author of 21,000+ subs Newsletter (strategizeyourcareer.com))
-> Communication is what allows us to get the real potential of everyone
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If this topic resonates with you, join us live.
-> 🎙 𝗘𝘃𝗲𝗿 𝗛𝗮𝗱 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗜𝗱𝗲𝗮… 𝗕𝘂𝘁 𝗗𝗶𝗱𝗻’𝘁 𝗦𝗮𝘆 𝗜𝘁 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗲𝗲𝘁𝗶𝗻𝗴?
-> 
-> We’ll unpack:
-> • Why competent professionals go silent
-> • How language, culture, and power dynamics interact
-> • Why confidence is contextual
-> • How to unlock hidden voices in global teams
-> 
-> 📅 Wednesday🕓 4PM CET
-> 🔗 Join here:https://www.linkedin.com/events/everhadagreatidea-butdidn-tsayi7439265608686313473/theater/
-> 
-> Bring your questions. Bring your real experiences.
-> See you there.
-

@@ -31,7 +31,3 @@ TonyLatimer.ai พร้อมสนับสนุนคุณด้วยเ�
 มาร่วมกันทำให้ปี 2025 เป็นปีแห่งการเติบโตและความเป็นผู้นำที่มั่นใจ! 🎯
 
 #การพัฒนาความเป็นผู้นำ #ผู้จัดการทีม #ปัญญาประดิษฐ์ #เครื่องมือการโค้ช #การให้คำปรึกษา
-
-### Shared Article: [TonyLatimer.ai: On-demand Leadership Mentoring & Training](https://profitableleadership.com/ai)
-> profitableleadership.com
-

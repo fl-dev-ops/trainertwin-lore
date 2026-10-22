@@ -14,16 +14,3 @@ I spend more waking hours than most people, studying human communication, and I 
 Communication is hard. Really hard. Fortunately it is a skills that can be trained. 
 
 What will you learn this year?
-
-## Comments (1)
-
-### Sabine SATZINGER (🏆Change & Behavioral Design Architect | Entscheidungsqualität unter Change & AI | Leadership Transformation & Inclusive Culture Expert | Executive Sparring & Coaching | Keynotes | Interim Management People & Culture)
-> So true. We humans underestimate many things. ▶
-> ▶Anyone can communicate. 
-> ▶Leadership is easy as pie. 
-> ▶What's so hard about leading a meeting? 
-> 
-> And with this overestimation of ourselves we simultaneously belittle the importance and effectiveness of good leadership, good communication and efficient meetings AND the striving to improve in these areas. 
-> 
-> Thanks for the food for thought, Antoni. 🙏
-

@@ -14,11 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# How to Move Clients Beyond “Send Me Details” - Part 2
-
-## Transcript
-
 speaker_1: Hey is this Harvey
 
 speaker_2: Yes this is Harvey Whos this speaking

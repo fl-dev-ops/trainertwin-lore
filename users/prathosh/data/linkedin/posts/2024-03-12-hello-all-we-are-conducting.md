@@ -22,6 +22,3 @@ I have attached the flyer with the details. for the same.
 
 
 Here is the link for registration - https://lnkd.in/gS7dDzkk
-
-### Shared Document: [ECE_outreach]()
-

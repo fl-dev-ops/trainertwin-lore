@@ -5,6 +5,16 @@ url: https://www.linkedin.com/posts/daniele-ponzo_think-your-english-isnt-good-e
 likes: 35
 comments: 12
 images_count: 1
+author_comments:
+- '➡️ The right mindset to PROGRESS fast: https://www.linkedin.com/posts/daniele-ponzo_%F0%9D%97%A6%F0%9D%98%81%F0%9D%98%82%F0%9D%97%AF%F0%9D%97%AF%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BB-is-it-a-good-or-bad-thing-activity-7306203703852621824-JZ8M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADVHkABomUtzyW-TX8nSBlBufayq11LJfs'
+- |-
+  𝗪𝗮𝗻𝘁 𝘁𝗼 𝗳𝗶𝘅 𝘁𝗵𝗶𝘀 𝗳𝗮𝘀𝘁? 𝗛𝗲𝗿𝗲’𝘀 𝗵𝗼𝘄:
+  ✅ Build Logical Flow – Train your brain to structure ideas clearly so words come naturally.
+  ✅ Repetition – Practice key phrases until they feel automatic, reducing hesitation.
+  ✅ Intonation – Focus on rhythm and emphasis to sound natural and confident.
+
+  These three steps transform how you speak—fast. 
+  Have you ever tried them? Let me know
 ---
 
 Think your English isn’t good enough? It is…
@@ -57,33 +67,3 @@ Start today. Speak up.
 The words will come faster than you think.
 
 What’s 1 thing holding you back from speaking English with confidence? 👇
-
-## Comments (7)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ The right mindset to PROGRESS fast: https://www.linkedin.com/posts/daniele-ponzo_%F0%9D%97%A6%F0%9D%98%81%F0%9D%98%82%F0%9D%97%AF%F0%9D%97%AF%F0%9D%97%BC%F0%9D%97%BF%F0%9D%97%BB-is-it-a-good-or-bad-thing-activity-7306203703852621824-JZ8M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADVHkABomUtzyW-TX8nSBlBufayq11LJfs
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It's so true that the shift from aiming for perfection to prioritizing clarity can redefine how we connect and communicate. Daniele Ponzo
-
-### Giannis V. Chatzidis (Life & Mindset Coach | Founder & Writer at Mindwhisper | Helping millennials survive in our fast-changing world & reconnect with your authentic self & emotions | Petdad of 3 cats)
-> funny or serious? don't know, Daniele. for me it's that I never got an English language certification!
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Such a powerful message! 🔥 Confidence matters more than perfection. Clear communication beats flawless grammar every time. Time to speak up and own it! 💪
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> This is both funny and serious  - there have been many times in the course of my learning different languages when I've experienced full-body migraine Daniele Ponzo
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Confidence is the key to effective communication, not perfection.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 𝗪𝗮𝗻𝘁 𝘁𝗼 𝗳𝗶𝘅 𝘁𝗵𝗶𝘀 𝗳𝗮𝘀𝘁? 𝗛𝗲𝗿𝗲’𝘀 𝗵𝗼𝘄:
-> ✅ Build Logical Flow – Train your brain to structure ideas clearly so words come naturally.
-> ✅ Repetition – Practice key phrases until they feel automatic, reducing hesitation.
-> ✅ Intonation – Focus on rhythm and emphasis to sound natural and confident.
-> 
-> These three steps transform how you speak—fast. 
-> Have you ever tried them? Let me know
-

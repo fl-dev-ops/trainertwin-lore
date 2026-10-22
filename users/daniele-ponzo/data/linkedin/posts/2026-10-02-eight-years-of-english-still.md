@@ -110,33 +110,3 @@ Because confidence is built the moment you realize:
 "𝗜 𝘀𝗽𝗼𝗸𝗲... 𝗮𝗻𝗱 𝗽𝗲𝗼𝗽𝗹𝗲 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗼𝗼𝗱 𝗺𝗲."
 
 What's the biggest thing that slows you down in international meetings: finding the right words, fear of making mistakes, or simply speaking under pressure?
-
-## Comments (7)
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> The biggest shift is treating speaking as a skill to practise, not a test you have to pass. 
-> Once the goal moves from perfect English to clear communication, the fear of mistakes becomes much easier to manage.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> The coding comparison fits well. You only get comfortable speaking by actually using the language, mistakes included.
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> The shift from “speak correctly” to “be understood” changes everything. Fluency grows much faster when every sentence stops feeling like a test.
-
-### Ben Palmer (I help busy executives to improve their English communication: Soft Skills | Intercultural Communication | Public Speaking | Event Preparation | Difficult Conversations | Habits | AI Usage)
-> Communication definitely improves through practice, and the right type of practice will improve confidence, which in turn will lead the person to participate more. It’s a virtuous circle  Daniele Ponzo
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> I think many of us wait until our English feels “good enough” before speaking, when speaking is actually how we improve. 
-> 
-> Progress comes from using the language, making mistakes and becoming more confident along the way.
-> 
-> 
-> Daniele Ponzo
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> The “communication latency” point is spot on. Knowing English and being able to use it confidently under pressure are two very different skills. Daniele Ponzo
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> It's all true (and I love this frame by the way 🤩)
-

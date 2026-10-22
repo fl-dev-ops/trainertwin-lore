@@ -20,15 +20,3 @@ Here's my answer.
 The effect of communication is everything"
 
 Do you agree?
-
-## Comments (3)
-
-### Kicki Wellind (RÅDGIVANDE INSPIRATÖR / KOMMUNIKATÖR)
-> AGREE 🎯
-
-### Kumail Mehdi (Helping 9-5ers Leverage AI For Side Hustle | ISO 42001 Lead Auditor | Turning Skills into Systems | SEO & Branding for Industry Experts.)
-> Well said Antoni, Totally Agree.
-
-### Carl Johan Helgesson (Kommunikationsrådgivare och strateg)
-> Brilliant 🤩🙌🏼
-

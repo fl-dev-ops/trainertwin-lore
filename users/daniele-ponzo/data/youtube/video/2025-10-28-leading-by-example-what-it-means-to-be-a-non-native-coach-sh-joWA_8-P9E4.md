@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Leading by Example What It Means to Be a Non-Native Coach #shorts
-
-## Transcript
-
 speaker_1: what it is that you know that I can help you with and I can definitely you know share my experience and share my perspective and just talk to people and say hey you know what You know comparing yourself to the others is not going to uh you know its not going to work right
 
 speaker_2: No And you know and you can definitely say look Ive been there So lets Yeah Lets talk with this Yeah thats thats the great approach and and its fantastic that you can turn that into something that can actually help others So you turn your personal history into something that is useful

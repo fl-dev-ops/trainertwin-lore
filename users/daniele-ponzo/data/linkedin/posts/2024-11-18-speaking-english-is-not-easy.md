@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_brain-speaking-itprofessionals
 likes: 45
 comments: 26
 images_count: 1
+author_comments:
+- 📌Struggling with Impostor Syndrome? Join me LIVE ⬇️  https://www.linkedin.com/events/7265251390476742656/about/
 ---
 
 Speaking English is NOT easy.
@@ -71,43 +73,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
 
 #brain #speaking #itprofessionals #brainexpansion #confidence
-
-## Comments (12)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Struggling with Impostor Syndrome? Join me LIVE ⬇️  https://www.linkedin.com/events/7265251390476742656/about/
-
-### Anna Isaev (Project Manager| Language Teaching Expert)
-> Insightful! I believe the language acquisition process for adults is quite different from that of children in many ways. Unlike children, adults often need to learn grammar and it is almost impossible for adults to learn something like 50 words a day effectively.
-
-### Vanessa Andrews (Associate Consultant)
-> Great content and visual aid Daniele
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> It's fascinating to see how children naturally navigate this process while adults often struggle with it. Daniele Ponzo
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Mimicking, reading, and expanding vocabulary are all crucial steps in mastering English.  Daniele Ponzo
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo 
-> Such a great breakdown! It's incredible how much work goes into speaking a language, and your tips are really practical for improving fluency.
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo Many of us can speak  english very fluently but the issue  is that we are hesitating to speak  it in front of any one due to lack of  confidence people makes fun of us Thanks a lot sir it's really appreciative.
-
-### Salman Lazar (Full Stack Software Developer | SQL | C# | .NET | JS | BLAZOR | MAUI | REACT)
-> Valuable tips and practices to implement.
-
-### Dariusz Sadowski (Senior EM / Coach (in training) | Less hype, more science | Join Inner Dynamics)
-> My thing was movies in English with subtitles. It's how I learned the understanding of different accents.
-
-### Mohamed Chaudry (Group CFO | Operating CFO | Interim CFO | AI-Native CFO | Built 55 AI Finance Agents | $300M+ Capital Raised/Advised | M&A · Scale · Restructuring | FCCA)
-> Daniele Ponzo Great tips on improving English speaking skills! It's fascinating how much of the process is unconscious for children, and adults can certainly benefit from applying the same methods of immersion and repetition. One thing I’ve found helpful is integrating language learning into daily activities—whether it’s speaking with native speakers or even thinking in English as you go about your day. How do you stay consistent with your practice?
-
-### Anna Beregovaia (Language & Communication Trainer for Global Professionals | Turning Nervous English Learners into Fluent, Fearless Communicators)
-> I wish I was a kid again!
-
-### Marilia 🧠Falsetti (Agile | Scrum | Psychology)
-> Very informative and scientifically correct. Your content is so valuable!
-

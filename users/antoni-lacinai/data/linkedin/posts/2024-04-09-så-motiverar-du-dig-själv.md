@@ -20,14 +20,3 @@ Vi pratar om att fira framgångar
 
 
 Här kan du lyssna på vårt samtal
-
-### Shared Article: [Så motiverar du dig själv bäst - Lotta Bromé på Mix Megapol - Mix Megapol](https://radioplay.se/podcast/halv-tre/id-2204565/)
-> radioplay.se
-
-
-## Comments (1)
-
-### Per E Claesson (Senior consultant (Freelance))
-> Go’morron! 😊
-> Motivation är för mig inre drivkraft.
-

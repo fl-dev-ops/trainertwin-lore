@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 90% of you will fail to answer this Facebook/Meta Interview question Pt-1 (MAANG series - 1)
-
-
-## Transcript
-
 speaker_1: So let me run the code and show what is happening Okay Then Ill tell what are the mistakes that we do in the interview Okay So if I run the code so we are seeing something called 1E plus 42 If you saw this for the first time in the interview from there itself half of your confidence will go off because you dont know what is E You dont know what is plus You dont know what is 42
 
 

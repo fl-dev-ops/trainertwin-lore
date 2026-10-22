@@ -16,7 +16,3 @@ Här är en sådan händelse från mig när jag följde med på en audition.
 Det är min story om hur jag då ovetandes skulle starta eget. 
 
 Vilken är din story?
-
-### Shared Article: [Min story om varför jag startade mitt företag](https://buff.ly/2HftCZX)
-> buff.ly
-

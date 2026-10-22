@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 43 Local Receptive Field and Parameter Sharing
-
-## Transcript
-
 speaker_1: Welcome everyone to the class So last
 time we looked at a fully connected
 neural network or a multi layer

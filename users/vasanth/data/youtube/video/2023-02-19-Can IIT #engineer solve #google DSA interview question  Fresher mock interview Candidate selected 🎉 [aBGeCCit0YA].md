@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Can IIT #engineer solve #google DSA interview question? Fresher mock interview|Candidate selected 🎉
-
-
-## Transcript
-
 speaker_1: Yeah hello all Welcome back to Uncommon Geeks My name is Vasanth So people who dont know me Im a content creator I help people to clear their interview And this is a series where most of you know we are doing a lot of mock interviews for the freshers And yesterday also I did one interview I think it will be live Its already live Today I am interviewing Vijay So youll hear about more from Vijay only Vijay can you please introduce yourself so that we can get started
 
 speaker_2: I am Vijay from I am currently in fourth year fourth year undergrad in metallurgical and medicines engineering at IIT Madras

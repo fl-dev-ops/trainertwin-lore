@@ -18,11 +18,6 @@ speakers:
   speaker_7: null
 ---
 
-
-# Frontline Sales Training Day 4 - PART 2
-
-## Transcript
-
 speaker_1: Cool opener guys Can be adjusted can be changed but I want you to start doing it this way I will explain you each and every word Um hi its just Olga here from um One Broker Group Uh Im just getting back to you Is this name Is this name This is the first time you youre doing upswing Usually hi this is Olga No is this name like a question mark It activates the pattern to confirm that its my name because what if its not his name Yeah why we are saying Im just getting back to you guys
 
 speaker_2: Why

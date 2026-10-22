@@ -14,7 +14,3 @@ One of my subscribers recently shared his struggles with the second round of int
 
 #JobInterview #InterviewTips #CareerAdvice #SecondRoundInterview #JobSearch #ProfessionalDevelopment #CareerTips #JobSeekers #EmploymentTips #AceTheInterview #InterviewPreparation #CareerDevelopment #InterviewSkills #JobHunting #InterviewStrategies #JobInterviewQuestions #CareerGrowth #LinkedInLearning #LinkedInTips
 https://lnkd.in/gfg96euc
-
-### Shared Article: [Second Round](https://youtu.be/UfusFpmmmbY)
-> youtube.com
-

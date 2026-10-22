@@ -24,29 +24,3 @@ Hur tänker du?
 #kommunikation #ledarskap #arbetsglädje
 
 ps - boken Employee engagement eller på svenska: Missförstå mig fel, hittar du på adlibris, Bokus, amazon. Vill du ha signerade ex kontaktar du mig direkt.
-
-## Comments (7)
-
-### Amanda Schmidt Hugosson (Communications | Coaching | Branding)
-> Slukade boken i nästan ett svep förra helgen. Tack 🙏🏻
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Spot on Antoni!
-
-### Henrik Perrin (Utbilning och stöd i Svåra samtal och Stressreducering.)
-> Det finns en del som får sherpa till sig.  :)
-
-### Christian Malmström (Endurance Coach, Public Speaker, Leadership Coach, Writer)
-> ser fram emot att läsa
-
-### Anna-Karin Lingham (Interim Marketing Manager * Branding expert * Speaker * Mentor * Your guide to a stronger corporate, personal or ambassador brand.)
-> Ju bättre och tydligare gemensam vision i företaget, desto fler interna sherpas som siktar på samma bergstopp. 
-> 
-> (Jag har vandrat med fina, engagerade, dedikerade sherpas i Himalaya.)
-
-### Gunnar Söderberg (Föreläser om kul på jobbet | Utbildar i ledarskap & arbetsmiljö | Speldesigner inom ledarskap.)
-> Jag känner nog mest till sherpas efter lyssnat på äventyrare och hört hur viktiga de är. Och även om jag instämmer med att alla chefer borde ha en inre sherpa och dess förhållningssätt, så tror jag att arbetsplatsens sherpas ofta är receptionen, det är de som smälter snön, eller kanske snarare ansvarar för kaffet. Och det är inte alltid receptionen, men någonstans finns det där personen som gör allt det viktiga, men osynliga, för att vardagen ska flyta på.
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> Att vi borde skärpa oss (som Göteborgare kunde jag inte låta bli) och hitta sherpan i oss.
-

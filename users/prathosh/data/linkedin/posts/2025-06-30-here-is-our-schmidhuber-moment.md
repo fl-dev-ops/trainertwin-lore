@@ -17,6 +17,3 @@ The core idea there has been to make the A-B-C matrices of a structured state sp
 I just stumbled upon a paper that I had co-authored in 2017 (paper attached), where we incorporated the same idea. We showed it for irregularly sampled clinical time series. But it didn't get as much traction as Mamba obviously. 
 
 Moral of the story - Ideas are dozen a dime, its the timing and right execution that matter the most.
-
-### Shared Document: [LDS_APP]()
-

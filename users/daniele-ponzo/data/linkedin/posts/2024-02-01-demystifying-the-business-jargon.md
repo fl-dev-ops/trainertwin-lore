@@ -46,23 +46,3 @@ Hi, I'm Daniele. I post about language improvement, Tech and wellbeing. If you a
 Follow ➡️ Daniele.
 
 #BusinessJargon #LowHangingFruit #Leadership #ITManagement #BusinessSuccess
-
-## Comments (4)
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> An important concept to build positive momentum.
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> ah the old hanging fruit, actually funny thing, an Irish colleague mentioned that today in conversation, so defo a great idiom to know
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Loving this brief guide on Business Communication 
-> 
-> -- This is something that we all need to learn 
-> 
-> Thanks for educating 
-> Daniele Ponzo
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> Wow... learned something new today. Thank you, Daniele Ponzo!
-

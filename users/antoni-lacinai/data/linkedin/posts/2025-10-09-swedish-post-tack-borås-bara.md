@@ -13,24 +13,3 @@ Bara en vecka sedan, men fortfarande varm om hjärtat
 Tack Charlotte Dunhoff på Booky och Annika Hansson på näringslivsenheten som bjöd in mig, och tack till Jonas Eklund för det varma välkomnandet ^_^
 
 Borås - ni rockar!
-
-## Comments (6)
-
-### Jonas Eklund (VD I Hotelier | AI native | Leadership with heart and mind – where people and business grow together!)
-> Tack själv bästa Antoni Lacinai!
-
-### Anna Bergengren (VD projektledare)
-> Tack för fantastisk presentation. Kul att se dig live! Många tankar blev det!
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Härligt Bro! Då rockade ni bägge. It´s take two to tango!
-
-### Annika Hansson (Näringslivsutvecklare, Borås Stad)
-> Tack Antoni för att du var med och gjorde Näringslivsdagen till vad den blev och för gott samarbete 👏🏽
-
-### Jeanette Irekvist (Global Technology Executive | Lead with People First | Innovator in Business | Public Affairs I Diversity, Equity and Inclusion I Sustainability)
-> Som Borås alumni värmer det att se att det blev ett så bra möte - grattis Antoni Lacinai!
-
-### Charlotte Dunhoff (Matchar rätt föreläsare / underhållare till ditt event 💕 booky)
-> Du är bäst Antoni! ✨✨👌🏼👌🏼
-

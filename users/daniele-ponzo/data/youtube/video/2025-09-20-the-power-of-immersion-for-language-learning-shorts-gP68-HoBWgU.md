@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Power of Immersion for Language Learning #shorts
-
-## Transcript
-
 speaker_1: its its just a matter of putting in the work Uh when uh my girlfriend is learning uh French And um I always tell her the best way to learn anything is to immerse yourself into the topic You know have active active learning You listen to podcasts watch films like turn your whole life in French and youll see that youll get results very quickly Uh but this concept of immersion it can be very tricky for people sometimes because its difficult at the beginning You dont understand anything But its just your brain starts to build those connections that are new and over time it will make more sense
 
 speaker_2: So at the beginning you dont understand much but then you start slowly but surely you start building those new connections which is essentially how we learn really in my opinion So it takes time and its not immediate

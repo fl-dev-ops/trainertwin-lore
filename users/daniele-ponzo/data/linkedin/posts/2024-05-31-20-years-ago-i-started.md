@@ -4,6 +4,9 @@ date: '2024-05-31T05:30:07.289Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_itprofessionals-english-tech-activity-7202179518726361088-Yskh
 likes: 20
 comments: 8
+author_comments:
+- '📌How Alex boosted his confidence and got his dream job: https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-confidence-career-activity-7203991449921634304-E9dk?'
+- 'You can listen to the podcast (in Italian) here: https://podcasters.spotify.com/pod/show/sofia-fulgido/episodes/7--Do-You-Speak-English----Comunicare-nel-mondo-IT-con-Daniele-Ponzo-e2k3v74/a-aba5h10'
 ---
 
 20 years ago I started working in an American Multinational Company.
@@ -51,21 +54,3 @@ I share free tips to help IT Managers & Team Leaders communicate more confidentl
 If that’s something you’re interested in, give me a follow and ring the bell so you'll never miss a post " 🔔 "➡ Daniele
  
  #itprofessionals #english #tech
-
-## Comments (5)
-
-### José Carvalho (Business Process Manager)
-> Great advice!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How Alex boosted his confidence and got his dream job: https://www.linkedin.com/posts/daniele-ponzo-8548164_itprofessionals-confidence-career-activity-7203991449921634304-E9dk?
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Lovely story 💕
-
-### Sofia Fulgido (Mobile Product Engineer | Swift • Kotlin Multiplatform | Interaction • Motion 📱✨ Generative Media • Storytelling)
-> Thank you Daniele for sharing with us your experience and your precious suggestions! It was a pleasure to have you as my special guest on my podcast. 🎤
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> You can listen to the podcast (in Italian) here: https://podcasters.spotify.com/pod/show/sofia-fulgido/episodes/7--Do-You-Speak-English----Comunicare-nel-mondo-IT-con-Daniele-Ponzo-e2k3v74/a-aba5h10
-

@@ -23,11 +23,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# #teaching #softwareengineer #womenintech #internationalcareer #globalspeaker #nonnativeenglish
-
-## Transcript
-
 speaker_1: And yeah I grew so much back then
 
 speaker_2: Yeah it must have been a great journey and uh and I mean its its always down to patience isnt it So your patience to to take it easy and start understanding but also other peoples patience you know to listen to you and to to help you and to support you Uh so this is yeah one thing I always see its always an exercise in patience

@@ -28,11 +28,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Living It Beats Reading It Why Experience Changes You #shorts
-
-## Transcript
-
 speaker_1: So like was it the live experience more important for you
 
 speaker_2: Yeah yeah of course Live experience is always more important Seems that

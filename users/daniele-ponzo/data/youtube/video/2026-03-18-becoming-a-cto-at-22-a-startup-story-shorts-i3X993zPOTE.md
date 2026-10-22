@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Becoming a CTO at 22: A Startup Story #shorts
-
-## Transcript
-
 speaker_1: I got called by two friends And these two friends said we got funded Do you want to come my CTO I was 22
 
 speaker_2: Wow And it was a great it was a great opportunity of course wasnt it

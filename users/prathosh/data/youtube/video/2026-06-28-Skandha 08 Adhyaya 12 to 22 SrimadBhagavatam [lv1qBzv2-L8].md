@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 08 Adhyaya 12 to 22 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच
 मनुर्विवस्वतः पुत्रः श्राद्धदेव इति श्रुतः
 सप्तमो वर्तमानो यस्तदपत्यानि मे शृणु

@@ -5,9 +5,7 @@ date: "2026-01-01"
 source: website
 ---
 
-# Effective managers do less, not more
-
-# Effective managers do less, not more
+Effective managers do less, not more
 
 Let's look at the core skills required to be an effective leader of people, then over the next few articles I will go a little deeper into how you can use those skills in the areas of difficulty already discussed in this series; and the effect it will have on your results and the organization around you.
 
@@ -21,11 +19,11 @@ The simplest definition is:
 
 Helping people to get:
 
-*Absolute clarity on where they are now*
+Absolute clarity on where they are now
 
-*Absolute clarity in where they want to be in the future*
+Absolute clarity in where they want to be in the future
 
-*and Absolute clarity on what they need to do differently to get from here to there.*
+and Absolute clarity on what they need to do differently to get from here to there.
 
 If you have been exposed in any way to professional coaching, you will have heard about Coaching Models. There are many; 4 step, five step, seven step and with as complicated a bunch of acronyms as you could find anywhere.
 
@@ -41,7 +39,7 @@ Look out for more articles to help you discover the core skills of coaching.
 
 And if you are enjoying these please share on social.
 
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Smart Investing: Shift Your Real Estate Strategy Now
-
-## Transcript
-
 speaker_1: But now the market is shifted from Im just buying because its cheap Im just buying because payment plan 20 by 80 to I am just buying because I know which projects which developers and which location will sustain and make

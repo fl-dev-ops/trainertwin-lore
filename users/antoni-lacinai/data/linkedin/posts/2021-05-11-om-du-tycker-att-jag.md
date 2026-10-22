@@ -12,7 +12,3 @@ article:
 ---
 
 Om du tycker att jag åter platsar i finrummet blir jag glad om du lägger 30 sekunder och nominerar mig 😄
-
-### Shared Article: [Nominera till Topp100 – Sveriges populäraste föreläsare och moderatorer 2021 - eventeffect.se](https://buff.ly/2RAc8MF)
-> eventeffect.se
-

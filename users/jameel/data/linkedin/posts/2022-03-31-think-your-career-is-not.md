@@ -15,7 +15,3 @@ Think your career is not future proof? In this video I have covered 5 tips on ho
 https://lnkd.in/gJWy6bBh
 
 #lifelonglearning #futureproof #career #nozerodays #softskills #careerskills #careeradvice #startwithwhy  #jobskills  #jobtips  #jobsinterview #careertips  #personalgrowth  #learningagility  #learningeveryday  #softskillstraining  #careercoaching  #careercoach
-
-### Shared Article: [Think Your Career Is Not Future Proof? Try These 5 Tips To Become A LIFELONG LEARNER](https://youtu.be/R9m0c6hHfSo)
-> youtu.be
-

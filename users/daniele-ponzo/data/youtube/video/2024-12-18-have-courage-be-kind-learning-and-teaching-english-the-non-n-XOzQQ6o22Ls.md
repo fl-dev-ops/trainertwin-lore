@@ -43,11 +43,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Have Courage & Be Kind | Learning and Teaching English | The Non Native Leader | Episode 21
-
-## Transcript
-
 speaker_1: Hello everyone and welcome to another episode of The Non Native Leader My video podcast series where we explore stories of people who have an international career but they were not born in an English speaking country Uh if you follow the series youve seen we spoke to NGO leaders leaders in Fintech uh leaders from politics and academia university Um I like talking to people and I like talking to people from diverse background Um today its a bit different because I am uh Im really excited I have a colleague uh here with me Donna Maravillas Uh and yeah so youre very welcome here with me Donna
 
 speaker_2: Thank you Thank you for having me

@@ -33,9 +33,3 @@ P.P.S. Don't miss any episodes. Hit that "Follow" 🔔 button to stay in the loo
 Follow ➡ Daniele
   
   #NonNativeLeader #InternationalCareer #SuccessStories #inspiration
-
-## Comments (1)
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Amazing insights! Keep winning! 😇
-

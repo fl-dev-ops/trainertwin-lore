@@ -19,11 +19,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Living Abroad vs. Staying Home Whats the Real Risk? #shorts
-
-## Transcript
-
 speaker_1: And one thing that I particularly love is this idea of risks So you have risks whichever way you decide to go really Stay in the comforts of your own home or job or routine There are risks there because nobody guarantees that things are going to stay like that forever Go move abroad or start a new career there are risks Uh its just if you have an I dont know an
 
 

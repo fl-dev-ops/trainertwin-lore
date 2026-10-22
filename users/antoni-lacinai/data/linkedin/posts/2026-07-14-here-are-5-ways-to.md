@@ -19,6 +19,3 @@ People cannot act on what they don't remember
 Use these techniques - and then some. 
 
 Which is your favorite?
-
-### Shared Document: [5 memory hacks]()
-

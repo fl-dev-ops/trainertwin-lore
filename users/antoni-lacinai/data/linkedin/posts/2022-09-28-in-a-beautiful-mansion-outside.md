@@ -14,18 +14,3 @@ In a beautiful mansion outside Rome. Working with the fabulous company Pharmethe
 
 I will record a video on one more thing they do -knowledge sharing. 
 Stay tuned for more 😃
-
-## Comments (4)
-
-### Agneta Franksson (Chairman of the Board of Directors at Specialplast Group SG AB)
-> I am happy to listen and take part in your great and inspiring presentation together with a great company and team. A beautiful place in Rome.
-
-### Anna Crociani (Supporting Personal and Organizational Wellbeing & Growth // Co-founder Winning Tribe)
-> Buon lavoro Antonio e saluta la "mia" Roma 😚
-
-### Martin Bergstrand (Principal Director, MIDD Scientific Lead)
-> We very much enjoyed your talk and the opportunity to interact with you! Feel free to tag us if you want. / Pharmetheus
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Nice 😊
-

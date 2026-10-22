@@ -30,12 +30,3 @@ How’s the future going for you?
 P.S. once again, it is true that all roads lead to Rome…
 
 #RomeStartupWeek #romefutureweek #rfw24  #RSW2024 #Innovation #TechFestival #RomeEvent #Startup
-
-## Comments (2)
-
-### Rome Future Week (10,071 followers)
-> 🚀
-
-### Matteo Malatesta (Head of Revenue & Business Design @ SkillGym | Practice Fastlane Evangelists)
-> It has been an interesting exciting event, Daniele! Happy to see Skillgym - AI Digital Role Play in you colorful picture 😉👍🚀
-

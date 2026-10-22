@@ -24,12 +24,3 @@ What are your thoughts on this?
 #leadership #communication #engagement #virtualleadership
 
 https://buff.ly/37m83kk
-
-## Comments (2)
-
-### Henrik Pallin (Kurator och expert på ungas nätanvändning. Författare till boken: Kampen om skärmtiden)
-> Love every page of it!
-
-### Nellie Nilsson (Nordic Digitalisation & AI Lead | CRM | Operational Workflow Analysis & Optimisation | Change Agent & AI Fluency Advocate)
-> I thought that we would learn something valuable during the pandemic. I am a firm believer that this would show that we can work from anywhere. Maybe it is still a premature thought?
-

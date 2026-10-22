@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Mistakes made by Tier 3 college Fresher in ReactJs Interview|Selected or Rejected?#react #javascript
-
-
-## Transcript
-
 speaker_1: Get off my
 
 speaker_2: Yeah hello all Welcome back to Uncommon Geeks My name is Vasanth I hope youre all doing well So with me today I have Aishwarya So this is a mock interview that Im taking for Aishwarya So Aishwarya is in his final year So he is actually just almost 10 to 12 days left for his eighth semester exam so where well be discussing a lot of front end interview related question and answers so please watch the video till the end like i always say to the best way to get use of a mock interview like this is every time whenever i ask a question to aishwar pause the video give your answer then

@@ -14,7 +14,3 @@ article:
 One more US patent granted - my 9th. 
 
 In this work, we proposed a learnable (through Expectation maximization) Linear dynamical system to forcast the vital values of a patient inside the ICU. Thanks to Xerox corporation and my previous colleagues. Manish Gupta , Vaibhav Rajan, Geetha Manjunath, V. Ramgopal Rao
-
-### Shared Article: [US10559385B2 - Forecasting a patient vital measurement for healthcare analytics - Google Patents](https://patents.google.com/patent/US10559385B2/en)
-> patents.google.com
-

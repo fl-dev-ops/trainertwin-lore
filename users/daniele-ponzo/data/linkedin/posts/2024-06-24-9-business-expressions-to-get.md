@@ -68,9 +68,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
  
 #TechJargon #Innovation #TechLeadership #BusinessEnglish #ITManagement
-
-## Comments (1)
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Your posts are excellent Daniele Ponzo!
-

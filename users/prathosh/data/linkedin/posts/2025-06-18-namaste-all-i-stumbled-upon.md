@@ -21,7 +21,3 @@ I had delivered 10 hours of content on these topics in English Language.
 This may be of interest to some of you - https://lnkd.in/gtV9cZdE
 
 Let me know your views
-
-### Shared Article: [Introduction to Vishnu-tattva-vinirnaya](https://www.youtube.com/playlist?list=PLPJXOs2dhwQcPKmPnAqkbm1nzQ5zllQay)
-> youtube.com
-

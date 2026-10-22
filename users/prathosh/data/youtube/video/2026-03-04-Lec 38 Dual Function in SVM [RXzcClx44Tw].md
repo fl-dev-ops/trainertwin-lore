@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 38 Dual Function in SVM
-
-## Transcript
-
 speaker_1: Welcome to this class Well continue
 our discussions on uh the maximum margin
 classifier or support vector machines

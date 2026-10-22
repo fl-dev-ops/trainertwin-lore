@@ -14,11 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# The Will In Dubai - How to protect your assets
-
-## Transcript
-
 speaker_1: Sorry
 
 speaker_2: should we start Mohammed Should we start

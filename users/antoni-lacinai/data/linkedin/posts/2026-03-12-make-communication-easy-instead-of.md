@@ -19,12 +19,3 @@ And if you are a leader, this will make people follow you
 It's a three-step maturity process, which I explain in this video
 
 Do you agree?
-
-## Comments (2)
-
-### My Gross (Föreläsare och konsult inom försäljning och förändringsledning)
-> I completely agree with you. I think it is very important to be able to adapt your message to the person you are talking to. If you are talking to a colleague, technical language is of course no problem. But the magic lies in being able to simplify what you want to say without making the listener feel stupid.
-
-### Viktor Nilsson (Founder at Verovest AB | Trader | Quant Developer | Building Algorithmic Trading Systems)
-> Yes I absolutely recognize this! Bot as a speaker and a listener. I think this comes from some sense of insecurity. The fear of being misunderstood makes us go into way too many details, making people confused instead. The fear of not being recognized makes us say things in a complicated way to look competent. I think that very often it doesn't even work!
-

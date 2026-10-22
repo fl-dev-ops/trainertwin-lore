@@ -19,13 +19,3 @@ Lägger du då till att vi ska göra det digitalt så ökar risken ännu mer. De
 Vad får du för tankar själv? 
 
 #digitalamöten #kommunikation #ledarskap
-
-### Shared Article: [Digitala möten   - lätt att misstolka](https://buff.ly/3v0Tzzx)
-> buff.ly
-
-
-## Comments (1)
-
-### Sofia Jonsson (Kommunikatör med fokus på den interna och mellanmänskliga kommunikationen)
-> Jag håller med, det är svårare att läsa av vad som sker i stämningen på mötet nu jämfört med när man kan känna av det i det fysiska rummet. Det pratas en del om zoom fatigue; jag tror att många kommer bli möteströtta när vi möts fysiskt igen. Då behöver vi tolka in den icke-verbala kommunikationen igen, vilket vi inte är så vana vid eller har tränat så mycket på det senaste året.
-

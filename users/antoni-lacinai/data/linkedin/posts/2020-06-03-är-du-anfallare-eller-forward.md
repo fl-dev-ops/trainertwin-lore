@@ -22,24 +22,3 @@ Med ett gemensamt mål och tydliga förväntningar och mandat kan vi alla gå in
 Hur är det med ditt team? Är ni anfallare eller forwards? Är ni försvarare eller backar? Och hur gör ni när problem eller möjligheter dyker upp längs vägen?
 
 #Kommunikation #ledarskap #samarbete #föreläsare
-
-## Comments (2)
-
-### Tage Olsin (Controller - Outsourcing | Enhancing processes | Delivering Efficient Reporting | ITIL Service Management)
-> Lag och företag som blandar begreppen roll och titel blir sällan framgångsrika. En person har alltid sin titel medan rollerna växlar beroende på situation. Precis som du skriver är både backar och forwardar anfallare när vi är i anfall och försvarare när vi är i försvar.
-> 
-> När jag snackar om team brukar jag ta exempel från ishockeyn. Spelet vänder och våra backar kolliderar. I det läget kan inte forwardarna luta sig tillbaka och säga att det är backarnas uppgift att avvärja friläget, utan forwardarna måste åta sig rollen som bakre försvarare och skrinna utav h-vete för att lyckas. Samma gäller åt andra hållet, dvs om en back får ett friläge ska den åka mot mål och försöka sätta den, inte stanna upp och invänta en forward. Vi är ett lag och du måste vara beredd att i vissa situationer åta dig en roll som normalt sett utförs av någon annan.
-
-### Ronald Meuwsen (International commercial leader I GTM I Sales & Business Development I Edge AI)
-> Jag -tillsammans med några andra föräldrar- är tränare till ett gäng 8 åringar. Dessa 8 åringar vill helt enkelt vara där bollen är, oavsett hur mycket vi pratar om back och forward .. inte alltid så effektivt med alla spelare på en sisådär 5m2, om vi säger så :)
-> 
-> I arbetslivet så brukar jag säga att alla anställda på ett bolag är säljare - inte bara dem som har säljare som titel - även om det ytterst är en säljare som har ansvaret för att sälja. Lite som du beskriver skillnaden mellan forward och anfallare då. 
-> 
-> Ytterst har alla anställda på ett bolag en roll i att se till att kunderna är nöjda samt att se till att omsättningen växer. 
-> 
-> Dyker problem upp, så har alla en (möjlig) roll att hjälpa till att lösa det, även om någon utifrån sin roll har yttersta ansvaret. 
-> 
-> Det jag är mycket allergiskt mot är att peka finger, dvs det är hen som ska lösa något, då det är hens (hens?!) roll. 
-> 
-> John F Kennedy sa så här 1961:  ’... ask not what your country can do for you - ask what you can do for your country’.
-

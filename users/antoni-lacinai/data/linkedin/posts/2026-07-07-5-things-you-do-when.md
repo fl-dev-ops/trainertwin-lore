@@ -13,6 +13,3 @@ And they are all about your communication and your behavior.
 Check them out and tell me what I missed.
 
 Communication shapes behavior. Behavior drives results.
-
-### Shared Document: [5 things you do when you lead in uncertain times]()
-

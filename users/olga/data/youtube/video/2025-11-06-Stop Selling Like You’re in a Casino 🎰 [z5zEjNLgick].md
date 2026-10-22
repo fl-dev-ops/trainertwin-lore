@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Stop Selling Like You’re in a Casino 🎰
-
-## Transcript
-
 speaker_1: Oh you dont have a budget for that Mr Client Yeah And the salespeople are always manipulating with their intention Oh if I will give you the best possible offer will you say yes today The client says Jesus Christ thats a
 
 speaker_2: Am I going like a jackpot or am I in a casino

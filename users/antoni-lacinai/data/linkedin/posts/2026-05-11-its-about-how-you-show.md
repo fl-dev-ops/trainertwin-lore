@@ -14,15 +14,3 @@ How you show up is within your control. How it is received is not.
 Focus on what you can control: What you say, how you look, how you sound, how you listen, even what you think. It will all send signals. To both yourself and to others. 
 
 Time for for an opening keynote. Wish us luck
-
-## Comments (3)
-
-### Erik Rosén (Retired but not tired, try me with an offer I can't refuse!)
-> Hur gick det förresten? 😉
-
-### Erik Rosén (Retired but not tired, try me with an offer I can't refuse!)
-> Hur är din backhand? 😉
-
-### Willem Gous (Safely transition from corporate into your own business. Leave on your terms, before they decide for you. | Startup Coach of the Year Africa 2025 | Thinkers360 Top 50 Thought Leader in Careers | 3 x Author | Int. Speaker)
-> I wish you all the best and success Antoni Lacinai
-

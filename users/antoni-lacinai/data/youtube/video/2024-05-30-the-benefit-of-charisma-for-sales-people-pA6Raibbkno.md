@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The benefit of Charisma for sales people
-
-## Transcript
-
 speaker_1: had this phenomenal kind of energy going on that some people call charisma Charisma is that invisible energy that people are drawn to If you have charisma they want to be around you they want to listen to you they want to buy from you

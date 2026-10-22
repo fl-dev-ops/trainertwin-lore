@@ -4,6 +4,8 @@ date: '2026-03-15T07:14:09.814Z'
 url: https://www.linkedin.com/posts/daniele-ponzo_when-does-your-english-feel-heaviest-over-ugcPost-7437749776361889792-RQbU
 likes: 24
 comments: 7
+author_comments:
+- "\U0001F4CC After working with many senior IT & tech professionals, I noticed something:\n \nPeople don’t struggle with English all the time.They struggle in predictable high-stakes situations.\n \nThat’s usually where cognitive load spikesand where structure makes the biggest difference.\n \nLet’s see which one wins."
 ---
 
 When does your English feel heaviest?
@@ -49,24 +51,3 @@ Of course, if you want to add another option, use the comments.
 Give an honest answer.
 And feel free to elaborate below 👇 
 Let’s see what happens here.
-
-## Comments (4)
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Job interviews often feel heaviest, Daniele Ponzo. The pressure to be precise, confident, and quick amplifies cognitive load, making even familiar ideas hard to express clearly.
-
-### Leo Cascio (Purpose brand strategist | Personal branding specialist | ZeroChiavi™ Foiunder | Bello Dentro Milano Host | Psychology & Neuroscience enthusiast | I uncover your WHY and turn it into a BRAND! 🌻)
-> None of those in particular. It depends especially on the people I talk to, on how fast they speak and how strong their accent is. On what they expect from me.
-
-### Christopher Wright (Co-Director. Trainer. Helping companies and professionals to speak, meet and present more effectively and confidently in English. Classes and workshops.)
-> 100% agree Daniele Ponzo. High pressure situations in English are definitely one of the big blocks for professionals and managers to showcase their authority, expertise and knowledge in English.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 After working with many senior IT & tech professionals, I noticed something:
->  
-> People don’t struggle with English all the time.They struggle in predictable high-stakes situations.
->  
-> That’s usually where cognitive load spikesand where structure makes the biggest difference.
->  
-> Let’s see which one wins.
-

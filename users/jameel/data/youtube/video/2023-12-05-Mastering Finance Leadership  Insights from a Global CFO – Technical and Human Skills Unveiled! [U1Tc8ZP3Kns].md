@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Mastering Finance Leadership: Insights from a Global CFO – Technical and Human Skills Unveiled!
-
-
-## Transcript
-
 speaker_1: So at the end of the day youre running a business You call yourself a supply chain manager finance manager marketing manager sales manager but at the end of the day you are a business manager So as long as you can prove yourself to be a business manager you are good even if you dont have those expertise with regards to taxation or it as I said as an example So even if youre not doing it with your own hands even if youre not the corporate accounting manager you need to have an idea of what how accounting works So that is very important Now best finance professional is someone
 
 

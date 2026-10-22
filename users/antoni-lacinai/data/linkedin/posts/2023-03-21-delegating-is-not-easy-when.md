@@ -36,25 +36,3 @@ Thank you for reading my mind
 #leadership #communication #engagement 
 
 På svenska: att delegera utan att abdikera eller mikromanagera… däri ligger konsten
-
-### Shared Article: [Att delegera är också en konst - Ledarskap - HRnytt](https://buff.ly/3wc6jG9)
-> hrnytt.se
-
-
-## Comments (3)
-
-### Mary Torsson (Leadership - Workplace happiness - Presentation skills - Speaker 💫)
-> Good story to convey important message!
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Solid advice as always Antoni
-> 
-> "Everything you do communcates" is so true and one does always need to equip others to take on tasks when requested 
-> 
-> Thanks for sharing and reminding us of this
-
-### Ian Hatton (I liberate leaders to be powerful AND human | Author: ‘EGG Based Leadership’ and ‘Lead Like Morpheus’ | EGG3 Leadership Assessment Creator | International Keynote Speaker | SA Educator Hall of Fame | MA (OL))
-> This is such an important reminder, Antoni. Delegating is an art, and the way we do it creates ripples across our teams and organizations. 
-> 
-> Congrats on the article!
-

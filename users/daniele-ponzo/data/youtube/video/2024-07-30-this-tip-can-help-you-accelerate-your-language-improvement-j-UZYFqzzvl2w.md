@@ -27,9 +27,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# This tip can help you accelerate your language improvement journey. #english #languageskills
-
-## Transcript
-
 speaker_1: just do it Just expose yourself Uh practice makes perfect I would say Directed practice makes perfect faster So if you have somebody that can help you like uh understand what trivial means up front or I can help you how to communicate yourself how to express yourself in English uh thats definitely that that definitely is uh is a faster route to get to get to be able to express yourself in English to get to be able to to be yourself in another language and I to get to be able to dream in English

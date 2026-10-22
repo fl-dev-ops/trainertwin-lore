@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 64 NCE, Info-NCE, SimCLR, JEPA
-
-## Transcript
-
 speaker_1: Welcome to this lecture Now the final
 NC estimator consider
 an estimator

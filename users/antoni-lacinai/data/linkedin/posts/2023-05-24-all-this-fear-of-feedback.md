@@ -18,15 +18,3 @@ And - research shows that high-performing teams have 6 times more positive recog
 Basically: Be nice. Have fun. Trust each other. Help each other grow. 
 
 #communication #feedback #leadership #engagement
-
-## Comments (3)
-
-### Carl Johan Järveborg (Nyfiken och funderande)
-> Thats a really good message, and I think I for one is pretty bad at giving possitive feedback .
-
-### Suzana Johansson (Marketing & Communications Leader| Transforming Strategy into Business Impact | Go-to-Market Strategy | Brand Transformation | Executive Communications | Building High-Performing Teams | B2B Technology & Healthcare)
-> Well said Antoni! Positive feedback creates a Top performing team- where everyone walks a extra mile. They learn and grow.
-
-### Maike van den Boom (Keynotes I Nordic LeaderShip-Kurse – für glückliche, innovative und zukunftssichere Unternehmen und Arbeitswelten. #Glück #Innovation #NordicLeadership)
-> We need you in Germany. We have the saying: Not complaining is reward enough.
-

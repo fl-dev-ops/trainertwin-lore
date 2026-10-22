@@ -33,16 +33,3 @@ Hur får du mer av det?
 
 
 Läs intervjun i Mötesplats Offentliga Affärer som jag fick nöjet att språka med.
-
-### Shared Article: [Så hanteras en bantad organisation](https://offentligaaffarer.se/sa-hanteras-en-bantad-organisation/)
-> offentligaaffarer.se
-
-
-## Comments (2)
-
-### Edit Künstlicher (Jag hjälper dig att bli vald! | Personliga varumärken | Varumärkesexpert | PR-specialist | Podcaster | Agent)
-> Kloka ord Antoni! 👌🏼💯
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Bra artikel!
-

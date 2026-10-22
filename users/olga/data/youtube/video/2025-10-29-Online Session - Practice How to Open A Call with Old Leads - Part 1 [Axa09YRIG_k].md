@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# Online Session - Practice How to Open A Call with Old Leads - Part 1
-
-## Transcript
-
 speaker_1: Role play and practice the opening and then maybe going through the further qualification You have to keep in mind that your goal with this potential call is to book the next step which is meeting in person if the client is here or online meeting Okay so So lets put it this way If you want to role play you can raise your hand and then the first who raised their hand is going to be an agent second person is going to be a client and then were going to follow the structure If you havent raised the hand Im going to choose you myself because I can see the cameras Okay Gavin because you are the first one Mariani can you start recording or is it recorded already
 
 speaker_2: We are already recording since the very beginning I just wanted to make sure that everything is recorded

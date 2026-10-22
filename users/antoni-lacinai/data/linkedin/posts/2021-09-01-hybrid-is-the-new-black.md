@@ -13,16 +13,3 @@ I am curious to what you think about hybrid leadership. I created a 1-question p
 #communication #hybridwork #hybridleadership
 
 Today I have the honor of training some 600 managers from around the world in Hybrid Leadership. It's a program with different modules during the fall.
-
-## Comments (2)
-
-### David Robinson (Helping retailers, distributors & CPG brands turn their data into action | Senior SDR (UK & US) @ Crisp | MEDDPICC Certified | Ex-Oyster |)
-> It's all down to the individual. People who want to work and be productive will be no matter the environment they choose to work in. 
-> 
-> It is important however to ensure remote and office employees have the same support through the work platforms that they use 😀 
-> 
-> https://landingpage.huler.io/digitalworkplace
-
-### Bjørn Villa (PhD) (Direktør teknologi og digitalisering, Helse Midt-Norge RHF)
-> Impossible to answer, as the human (thus individual) factor is omitted
-

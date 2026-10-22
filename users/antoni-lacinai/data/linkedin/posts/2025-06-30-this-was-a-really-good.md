@@ -13,9 +13,3 @@ If a high-performer got your job: what is the first thing they would do better t
 Find it. 
 Do it yourself. 
 Continuous improvements.
-
-## Comments (1)
-
-### Per E Claesson (Senior consultant (Freelance))
-> Tack för att du delar med dig, Antoni 👍! It would be ”administration” 😊
-

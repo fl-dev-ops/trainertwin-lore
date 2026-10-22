@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter16
-
-## Transcript
-
 speaker_1: अथ षोडशोऽध्यायः
 दैवासुरसम्पद्विभागयोगः
 श्रीभगवानुवाच

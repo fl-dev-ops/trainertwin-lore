@@ -25,37 +25,3 @@ I always speak about these 3 communicative superpowers:
 3 is the magic number
 
 PS - which of the 3 superpowers do you consider the most important?
-
-## Comments (9)
-
-### Arthur Thomas Ware (Master Storyteller, Public Speaker and Creative Writer)
-> Of course, Antoni, because it comes from our basics: body, mind and spirit.
-
-### Ian Pemberton (Pipe Support Designer / Engineer | Contract Specialist | Onshore & Offshore Petrochemical | LNG, FPSO, Brownfield | SolidWorks CSWP (Weldments, Drawings) | FEA & Structural Verification | UK-Based, Remote)
-> Julian Mather short concise and useful
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> I'm going with Clarity first, followed (exceptionally closely) by Energy (you need Energy to get started ....)
-> 
-> Empathy has to be a natural given - so I guess I am going with all 3 at once 😎
-
-### Julian Mather (Keynote Speaker on Change & Adaptability 🔶 Sniper → Cameraman → Magician → Author → Speaker → Founder: Modern Grandad)
-> Nice one
-> Nice two
-> Nice three Antoni Lacinai
-
-### Elisabeth Loibl (✨ Jag hjälper VD:ar i startups, scaleups och ägarledda bolag i tillväxtfas att förverkliga sin ägarvision – genom starkare team och rätt stöd för dig som VD. ✨)
-> Just varit på "LinkedIn-utbildning" lärt mig att använda "klockan" som säger jag vill se ALLA dina inlägg. DEN har jag klickat i på din profil nu 😀
-
-### Samuel Reinwalds (Exploring since 1976 | Super Generalist | AI Survior | Abstract thinker | Vivid Brainstormer)
-> Bra och sant! Själv kör jag - Kreativitet, Positivism och Snällhet... inser att det kanske säger mer om mig än ett Big Five test :-)
-
-### Lotta Hilmersson (--)
-> För mig är det empati. Fortfarande..
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Så rätt, så klokt och så bra. Tack Antoni Lacinai
-
-### Björn Söderberg (CEO and Partner in Salvator Mundi Global and Salvator Mundi Times)
-> Thanks for sharing Antoni 🌟🌟🌟
-

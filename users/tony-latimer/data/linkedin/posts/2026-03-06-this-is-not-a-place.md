@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_this-is-not-a-place-to-collect-i
 likes: 1
 comments: 1
 images_count: 1
+author_comments:
+- simplicityofmastery.com
 ---
 
 This is not a place to collect ideas.
@@ -12,9 +14,3 @@ This is not a place to collect ideas.
 It’s a place to let go of what’s no longer necessary in your coaching and to strengthen what actually works. That kind of change doesn’t happen quickly, but it does happen reliably when given time.
 
 Join Simplicity of Mastery™.
-
-## Comments (1)
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> simplicityofmastery.com
-

@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-impostersyndrome-langu
 likes: 25
 comments: 9
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E05AQHgThzrM_B1xA/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1732689273958?e=1793178000&v=beta&t=G4BOhjfrvswXC2-f3xLSoiFzdruieV5aEv1v16ZZ4iY
+author_comments:
+- |-
+  🎤 Afraid of the impostor? Watch the full recording here:
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻: https://www.linkedin.com/events/live-overcomingimpostorsyndrome7265251390476742656/about/
+  𝗬𝗼𝘂𝘁𝘂𝗯𝗲: https://youtu.be/sbXhf9avzvM
 ---
 
 Hey, can I tell you something?
@@ -33,23 +38,3 @@ P.S. We'd love to know your story. Are you dealing with your own monster? Let us
 P.P.S. If you couldn’t be there live, you can get a free copy of the recording in the first comment below. I hope you get a lot of value from it!
 
 #english #impostersyndrome #languageimprovement
-
-## Comments (5)
-
-### Paweł Twardziak (Senior Software Engineer & AI Engineer | Certified Agentic Engineer | LangChain, LangGraph, LangSmith, AG-UI, Claude Code, Angular ❤️ | Devs 3.0 - devs30.com)
-> Been there! :)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> This was excellent! Well done gentlemen 👏👏
-
-### David Cabezas (Free yourself from fear and shame when speaking English | Professional and Personal Development for Spanish-speaking Managers | Experiential English and Neurolanguage Coaching®)
-> Absolutely, Daniele Ponzo! It was great fun sharing tips on how to get over the fear of speaking a second language 😊 .
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Sounds like a fantastic event! Overcoming impostor syndrome is such an important topic, especially for language learners. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🎤 Afraid of the impostor? Watch the full recording here:
-> 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻: https://www.linkedin.com/events/live-overcomingimpostorsyndrome7265251390476742656/about/
-> 𝗬𝗼𝘂𝘁𝘂𝗯𝗲: https://youtu.be/sbXhf9avzvM
-

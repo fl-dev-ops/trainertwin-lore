@@ -14,7 +14,3 @@ In this video I spoke to Raheel Bodla, an established Startup Coach based in Cal
 #successcoaching #startupbusiness #startuplife #coaching #softskill #careeradvice #careercoach #career #careeropportunities #businessowner #softskills #humanskills #technicalskills #success #leadership #leadershipdevelopment 
 
 https://lnkd.in/gR_2U5-W
-
-### Shared Article: [Top Skills for a START UP COACH](https://youtu.be/pfVvzeJQR68)
-> youtu.be
-

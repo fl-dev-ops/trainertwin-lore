@@ -5,15 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_see-you-tomorrow-at-codemotion
 likes: 51
 comments: 5
 images_count: 1
+author_comments:
+- When in Milan...
 ---
 
 See you tomorrow at Codemotion!
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> When in Milan...
-
-### Aleksey Malankin (Web master | UX/UI Designer | Frontend Developer| Golang Developer)
-> 😮‍💨 👍 👏
-

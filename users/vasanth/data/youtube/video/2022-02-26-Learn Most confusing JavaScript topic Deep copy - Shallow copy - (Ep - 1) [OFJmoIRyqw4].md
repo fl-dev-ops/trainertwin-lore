@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Learn Most confusing JavaScript topic Deep copy - Shallow copy - (Ep - 1)
-
-
-## Transcript
-
 speaker_1: Hello all welcome to UncommonGeeks myself Fajandh I hope you all doing well Todays topic is deep copy and shallow copy Copying a value of a variable from one to another is considered to be one of the most basic feature of every programming language and JavaScript is no different In fact deep copy and shallow copy are very straightforward topics We can easily call them as copy by value and copy by reference But the problem lies in the number of questions that can be asked around this topic A very difficult questions
 
 

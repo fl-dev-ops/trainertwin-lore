@@ -30,9 +30,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# What Her First International Leadership Role Taught Her #shorts
-
-## Transcript
-
 speaker_1: And I can tell you uh I heard I learned the hard way Uh in my my first international opportunity was in Colombia So as I said I was born and raised in Brazil Uh a little over 10 years ago I was um invited to run a company in Colombia And I knew the country from previous business trips And to be honest with you thats one of the countries that I would say gained my heart if you will I really like it Colombia I still do But of course that there is completely different experience of when you go for a few days either for a business or for leisure whatever then living in the country

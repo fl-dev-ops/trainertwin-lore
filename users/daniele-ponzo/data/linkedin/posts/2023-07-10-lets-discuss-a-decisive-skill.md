@@ -6,6 +6,8 @@ likes: 20
 comments: 7
 document:
   title: The language of graphs
+author_comments:
+- '📌How Carmen started getting compliments from her colleagues about her English: https://www.linkedin.com/posts/daniele-ponzo-8548164_communication-itprofessionals-careerdevelopment-activity-7087310108807839744-WkQL'
 ---
 
 Let's discuss a decisive skill of every IT Manager and Team Leader
@@ -32,18 +34,3 @@ Great Graphs 💹+ Effective Language 🗣 = Super Engaged Audience✅
  Follow|Daniele
  
  #presentation #businessenglish #graphics
-
-### Shared Document: [The language of graphs]()
-
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌How Carmen started getting compliments from her colleagues about her English: https://www.linkedin.com/posts/daniele-ponzo-8548164_communication-itprofessionals-careerdevelopment-activity-7087310108807839744-WkQL
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Definitely useful Daniele Ponzo. One thing missing is a level graph, where there is no change over a period of time.
-
-### Americo Da Costa (Social Media Strategist & Content Creator Helping Build Visibilty Through Livestreams & Podcasts. 🎤🎧)
-> Very useful, thanks for sharing Daniele Ponzo
-

@@ -13,7 +13,3 @@ article:
 Multitasking in a meeting? Nope!
 
 Multitaska inte på ett digitalt möte. I alla fall om du vill vara delaktig.
-
-### Shared Article: [Digitala möten: Multitaska INTE](https://buff.ly/3z6qndi)
-> buff.ly
-

@@ -12,7 +12,3 @@ article:
 ---
 
 Fantastic supply chain opportunity at our facility in Lebanon Tennessee!
-
-### Shared Article: [Factory Supply Chain Manager - Lebanon, TN job in Lebanon, Tennessee, United States | Supply Chain & Engineering jobs at Mars](https://careers.mars.com/global/en/job/1176121/Factory-Supply-Chain-Manager-Lebanon-TN)
-> careers.mars.com
-

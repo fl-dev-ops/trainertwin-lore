@@ -11,9 +11,3 @@ Soon: 2-days presentation skills training for a really competent team that I lov
 Best advice: 
 Believe what you say - and show it!
  #training #communication
-
-## Comments (1)
-
-### Lena Scullard (Emcee of EQ | Engineer of Engagement | Interactive Keynote Speaker 🎤 & Trainer Challenging Mindset and Intentional Action through Owning the Power to Choose💪 | Co-host of What the HR! TCSHRM’s award winning podcast)
-> That's a great tip!
-

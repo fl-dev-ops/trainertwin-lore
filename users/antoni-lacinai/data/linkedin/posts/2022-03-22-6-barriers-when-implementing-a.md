@@ -25,24 +25,3 @@ I could have settled with the first bullet since it contains all of the rest...
 Anything to add to the list?
 
 #leadership #communication #engagement
-
-### Shared Article: [6 hinder för att implementera er strategi - Tips - HRnytt](https://buff.ly/3i16Nry)
-> buff.ly
-
-
-## Comments (3)
-
-### Johan Book (Föreläsare, utbildare, rådgivare, grundare och engagemangskämpe på Hej Engagemang!)
-> Hej Antoni! Hoppas allt finfint med dig😀!
-> 
-> Skulle säga att uppmuntran, uppföljning och återkoppling är en av de viktigaste faktorerna för att skapa beteenden och måluppfyllelse i linje med strategin! Så den vill jag addera.
-> 
-> Och involvering så klart, men den är sen gammalt😉
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> Så naturligt! Men ändock bra att alla kan få en insikt i dessa saker! 
-> #bravärden #ledarskap #ändradetider #walkthetalk #marknadsföring #intressenter #curttingedge
-
-### Carina Roos (Hållbarhetsstrateg | Hållbar verksamhetsutveckling | Hållbar omställning | Förändringsledning | Strategisk rådgivning | Utbildning | Projektledning | Ledarskap | Grupputveckling)
-> Communication is essential 😊  and almost always underestimated in change management.
-

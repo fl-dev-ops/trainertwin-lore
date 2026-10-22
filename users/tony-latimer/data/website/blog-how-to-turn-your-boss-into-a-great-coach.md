@@ -5,9 +5,7 @@ date: "2026-01-01"
 source: website
 ---
 
-# How to turn your boss into a great coach. Tony Latimer executive coach
-
-# How to turn your boss into a great coach
+How to turn your boss into a great coach
 
 No, this doesn't involve sending them off on a training course. This involves you taking total ownership of your needs and your development.
 
@@ -37,7 +35,7 @@ They will listen carefully, ask questions, challenge your thinking; and if they 
 
 The basics of great coaching as a manager.
 
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

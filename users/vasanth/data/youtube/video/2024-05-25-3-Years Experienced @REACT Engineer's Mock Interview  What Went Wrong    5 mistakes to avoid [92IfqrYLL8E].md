@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# 3-Years Experienced @REACT Engineer's Mock Interview: What Went Wrong? | 5 mistakes to avoid
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to career with person youtube channel my name is wasan the previous channel was known as uncommon geeks as you know this is a video series where i am doing a lot of mock interview with me today i have madhan more about madhan madhan himself will be telling so this is a mock interview where its gonna be purely based on javascript we are gonna discuss two fundamental javascript questions for next 30 minutes like i always say the best way to utilize this mock interview is like after i ask a question pause the video answer or solve the problem whatever i give
 
 

@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_mcc-masterfulcoaching-simplicity
 likes: 23
 comments: 5
 images_count: 2
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 🔥 AI bots are catching up fast.
@@ -21,18 +23,3 @@ It’s mastery. It’s learnable. And it’s more affordable than you think.
 🧠💥 If you’re ready to go beyond the competence of bots and unlock the energetic presence only humans can bring, drop me a message.
 
 #MCC #MasterfulCoaching #SimplicityOfMastery #AIInCoaching #EnergeticPresence #ICF #AdvancedCoaching
-
-## Comments (4)
-
-### Seema Bangia (CHRO | Independent Director | Leadership Coach - PCC Coach-In-Training (ICF)| Organization Development | Director - Education - The ICF Delhi NCR Chapter)
-> Absolutely, no replacement to human intelligence which is based on emotional intelligence. It’s a long way to go for bots to create that reality, even if possible.  Looking forward to learning more from you, Tony.
-
-### Prakash Mathur (Founder CEO, Transformative Training Pte Ltd, Executive Coach ( ICF PCC), MBA)
-> Congrats Tony! 🎉
-
-### Natalia Strydom (Helping High-Achieving Women go from Burnout into Thriving|Mindset&Life Coach| ACSTH ICF |NLP| Author:”Burned out Woman to Living Goddess”|Results:High self-esteem|Carrier courage|Financial shifts|Attuned relationships)
-> Love this, Tony✨️💚🙏
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

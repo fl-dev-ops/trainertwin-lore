@@ -5,9 +5,7 @@ date: "2026-01-01"
 source: website
 ---
 
-# How to guarantee ROI from training. Is your training budget wasted?
-
-# 3 Steps to guarantee your training budget is not wasted
+3 Steps to guarantee your training budget is not wasted
 
 Yes, everyone is learning on-line these days.
 
@@ -31,13 +29,13 @@ And le'ts not forget that without travelling costs, expensive trainers, hotel ro
 
 Unless it's all going to waste.
 
-Then it doesn't matter how cheap the training is, you are wasting not just the money, AND more importantly the TIME of those people.  I would suggest *that* is far more valuable and represents a far greater cost in real terms.
+Then it doesn't matter how cheap the training is, you are wasting not just the money, AND more importantly the TIME of those people.  I would suggest that is far more valuable and represents a far greater cost in real terms.
 
 To avoid this do three things:
 
-**Step One**. Make sure the learning people are going to do is as a result of a conversation with their manager about their development areas. Ask "What am I doing this training?"
+Step One. Make sure the learning people are going to do is as a result of a conversation with their manager about their development areas. Ask "What am I doing this training?"
 
-**Step Two.** Make sure, as they do the training,  they are able to capture 
+Step Two. Make sure, as they do the training,  they are able to capture
 
 a) What have I learned?
 
@@ -45,18 +43,15 @@ b) How does it help with my identified development areas?
 
 c) What am I going to do differently as a result of learning this?
 
-**Step Three**. Make sure they communicate this to their manager and engage them to be their accountability coach as they put the learning into practice.
+Step Three. Make sure they communicate this to their manager and engage them to be their accountability coach as they put the learning into practice.
 
 If you want to see a behaviour; make it easy
 
-
 For an easy way to guarantee ROI from your training add TheCoachingApp to your training plans for next year.
 
-#### [Click here to arrange a demo and discover how.](https://www.profitableleadership.com/thecoachingapp-corporate)
+Click here to arrange a demo and discover how.
 
-
-
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

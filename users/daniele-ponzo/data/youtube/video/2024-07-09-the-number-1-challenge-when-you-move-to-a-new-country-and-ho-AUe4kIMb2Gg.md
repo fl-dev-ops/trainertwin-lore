@@ -27,11 +27,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The number 1 Challenge when you move to a new Country and How to Overcome it. #language #english
-
-## Transcript
-
 speaker_1: Um so what would you say was the main challenge for you back then
 
 speaker_2: So the main challenge I think I think its what we just touched base a second ago is the accent I remember for me that was one of the main barriers because as I said you come here with an idea that you kind of have good English not good just good enough to kind of you know communicate well say you know And then one of my first jobs was uh Abracadabra which you know it was it was like it was like

@@ -32,6 +32,3 @@ Here is how we can do it:
 Check out the carousel below for simple solutions and examples to make your next explanation risk-proof.
 
 #communication #englishlanguage #processcontrol #procedures
-
-### Shared Document: [How to explain P & P]()
-

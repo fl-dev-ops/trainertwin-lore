@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_automation-itprofessionals-bpm
 likes: 12
 comments: 2
 images_count: 1
+author_comments:
+- Thanks for reposting, Giulia Berlato 🙏
+- '📌Here you can download my guide. Enjoy: https://drive.google.com/open?id=1iqmYe78EATK0_xTmgx_AMgpMQR83IVf4&usp=drive_fs'
 ---
 
 The Ultimate Guide to Flowcharts Vocabulary 🔷↔️⬜️
@@ -52,12 +55,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
  Follow|Daniele
  
  #automation #itprofessionals #bpmn #business
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Giulia Berlato 🙏
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Here you can download my guide. Enjoy: https://drive.google.com/open?id=1iqmYe78EATK0_xTmgx_AMgpMQR83IVf4&usp=drive_fs
-

@@ -26,13 +26,3 @@ Are you reacting, or are you holding the mirror?
 
 Evaluate your edge as a coach.
 Take the Coaching Mastery Profile: 👉 https://lnkd.in/ggTYg4MK
-
-### Shared Article: [How Close Is Your Coaching to Mastery? | Free 7-Minute Profile](https://coachingmasteryprofile.scoreapp.com)
-> coachingmasteryprofile.scoreapp.com
-
-
-## Comments (1)
-
-### Renuu Tandon, ICF PCC, MCS, EMCC SP, SHRM-SCP, GPHR (AI Strategist | Executive Coach | Team Coach | Mentor Coach | DEIB Leader)
-> Thanks for this amazing assessment Tony Latimer, I just completed mine earlier this week
-

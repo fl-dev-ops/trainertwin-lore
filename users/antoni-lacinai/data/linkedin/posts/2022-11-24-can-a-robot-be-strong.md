@@ -27,10 +27,3 @@ But sometimes we take that outstretched hand, we reason with an opponent, we pra
 The more I talk to tech-savvy people or read about AI and Affective Computing, the more I realize that the last stronghold of humanity is not empathy, but rather compassion and therefore love. Now that's a world and a workplace I'd like to spend my days in, (and then get support from smart tech as well, helping humans achieve a compassionate world).
 
 Computer vs compassionate humans: 3-100
-
-## Comments (1)
-
-### Inger J. (Medicinsk bibliotekarie på Region Blekinge)
-> En del av mig tänker "skrämmande! Ska datorerna ta över allt? Burr!" 
-> Men ju längre jag läser blir jag också nyfiken. Kanske kan datorer och människor samarbeta? Hm... det här tål nog att kluras på en stund.
-

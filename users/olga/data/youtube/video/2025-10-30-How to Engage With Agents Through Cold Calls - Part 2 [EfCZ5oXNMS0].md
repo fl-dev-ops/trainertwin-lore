@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# How to Engage With Agents Through Cold Calls - Part 2
-
-## Transcript
-
 speaker_1: Moving to the next one alternative button interrupt I just put it as just like a random thing Thats actually I dont want to have a drama I dont want to worry about the drama its actually a sales call Or lets change it as an opportunity call Do you want to hang up now or you will need 30 seconds and then you decide should we continue this conversation or not Does this make sense So you can change it you can say instead of this drama thats actually a sales call So its a sales call And then you can say lets thats an opportunity call Do you want to hang up now or then you or you want to give me 30 seconds to tell you why Im calling and then you decide Kind of the same thing Thats a funny one And again guys I was like getting this out of top of my head Um its actually a cold call Um lets just remove this Its just kind of another way to get it Uh probably being a real estate agent do not like cold calling yourself that much But anyway I was hoping to tell you really quick why Im calling And then you decide should we continue this conversation or not Fair enough as an opportunity to say additional yes So if youre going to add fair enough your probability of getting okay is higher Yeah 3 different pattern interrupts in the end and then you decide should we continue this conversation or no Is all the same Now you can unmute yourself and tell me what do you think about these ideas Will that be helpful Will not be helpful Maybe you can give me some guidance how that can be changed based on your experience
 
 speaker_2: Anyone I had more of a question Olga

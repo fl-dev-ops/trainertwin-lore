@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Uber Engineer explains Why Apple's Teams don't talk to each other
-
-
-## Transcript
-
 speaker_1: things you dont like about this company so you cant really straightforwardly answer
 
 speaker_2: Exactly

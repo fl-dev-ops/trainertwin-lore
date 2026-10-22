@@ -23,23 +23,3 @@ So it is not the place (eve if this one had a really good location). It is the p
 People first. The rest comes later. 
 
 PS - name a venue that you found extraordinary
-
-## Comments (5)
-
-### Saffron Baggallay (Thought Leader: High Performance | Keynote Speaker | CEO: Saffron Baggallay Learning Academy | Proven solutions for high-performing teams | Benchmark your team performance with our free AUDIT)
-> Yes yes yes 🙌🏻 exactly. Behind the numbers, the spreadsheets, AI, strategy etc etc etc are the people…. Focus on your people and everything else will fall into place.
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> People together create great energy
-> 
-> Great energy creates best venues, no matter where ....
-
-### Emma Watson (Culture and Learning and Development Lead at The Marlborough Group)
-> Fantastic presentation yesterday that set the whole event off to a wonderful start! Thank you Antoni.
-
-### Gemma Barnes (International HR Leader | HR Director | Senior HR Business Partner)
-> Hey Antoni! Inspiring presentation to start our day off. thank you. Also thanks for the hard copy of your book! #hr #employeeengagement
-
-### Helene Arvidsson (Strategisk rådgivare i ledarskap och möteskultur I Affärsutvecklare för mötesindustrin I Föreläsare)
-> Good Luck Antoni🕺
-

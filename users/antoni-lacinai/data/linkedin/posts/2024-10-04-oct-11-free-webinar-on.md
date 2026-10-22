@@ -22,7 +22,3 @@ I will share a process that will take you from 𝗛𝗲𝗹𝗹𝗼 to 𝗚𝗼�
 
 October 11. 2 times to accommodate all time zones. 
 Welcome.
-
-### Shared Article: [Webinar on Booth Brilliance - Antoni Lacinai](https://www.antonilacinai.com/webinar-on-booth-brilliance/)
-> antonilacinai.com
-

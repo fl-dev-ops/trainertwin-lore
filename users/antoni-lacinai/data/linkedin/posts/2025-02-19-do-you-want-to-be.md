@@ -23,38 +23,3 @@ Do you want my 9 memory hacks to help your audience remember what you said? Writ
 
 
 Thanks Dixie Maria Carlton for guiding me when I wrote this chapter.
-
-## Comments (10)
-
-### Elin Giczi (Video Branding Strategist | Knitting enthusiast @knitwithelin 🧶 | Speaker & Educator)
-> Memory Antoni Lacinai!
-
-### Paul Skewes (Keynote Speaker I Team Performance Expert I Fixing Teams That Strategy Alone Can’t Save)
-> memory
-
-### Philippe Guichard (From product to $1M+ ventures: the designer serial entrepreneurs partner with | Talk on TED.com | Product Development & Product Design | Bestselling Author & Keynote Speaker | Investor)
-> Memory! 😃
-
-### Monika Lund (Kommunikation, administration och verksamhetsutveckling)
-> Memory
-
-### Thomas Otnes (Product developer and engineer)
-> MEMORY
-> 
-> Tack Antoni!
-
-### Elisabeth Loibl (✨ Jag hjälper VD:ar i startups, scaleups och ägarledda bolag i tillväxtfas att förverkliga sin ägarvision – genom starkare team och rätt stöd för dig som VD. ✨)
-> "MEMORY" please 😃
-
-### Linda Rofors (Manager Employee Communications @ NCC Sverige AB | Marketing Communications)
-> Memory 🙏
-
-### Ann-Sofie Brohm (💜I empower consultants and knowledge-intensive firms to use generative AI to enhance analysis, streamline content, and drive business growth)
-> MEMORY
-
-### Kalle Cederblad (Skapar förutsättningar för göteborgarnas egenförsörjning och stadens kompetensförsörjning.)
-> MEMORY
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> Memory
-

@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to convince a client the price is not high, he just can't afford it?
-
-## Transcript
-
 speaker_1: Well the good question here is how can I ask the right questions with the right tone to determine first budget Does he have a budget Authority Is he or at least a partially decision maker in this process Timings When he was planning or when hes planning now to start making money And there is a 4th one What is the 4th one What do you think is the 4th one
 
 speaker_2: When are you ready to invest

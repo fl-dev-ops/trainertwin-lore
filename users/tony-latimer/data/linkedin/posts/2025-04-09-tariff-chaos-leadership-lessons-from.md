@@ -41,9 +41,3 @@ This is what performance leadership looks like in chaotic times.
 If your top team needs to lead through uncertainty with strength and clarity, get in touch. Let’s talk about how we can help you do what matters most—steer your business forward, no matter the storm.
 
 #leadership #strategy #tariffs #performancecoaching #executiveteams #profitableleadership #voyageplanning
-
-## Comments (1)
-
-### Adam Ariff (Founder of CVP Group | Helping organisations use AI, coaching, and apprenticeship funding to develop skills, leadership, and workforce capability | AI & Automation | Coaching & Leadership Apprenticeships)
-> These things run in cycles for sure. It was happening in the UK before the crashes due to government tax reform unfortunately.
-

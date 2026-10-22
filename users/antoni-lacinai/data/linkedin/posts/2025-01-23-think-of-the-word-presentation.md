@@ -17,18 +17,3 @@ What if you got the best gift wrapping but there was nothing inside?
 It's the same with a presentation. Make sure you have memorable content, packaged in meaningful gestures, and the right tonality. 
 
 PS - what are your best presentation tips?
-
-## Comments (4)
-
-### Colin Moon (Public speaker - Nordic and international teamwork)
-> Excellent stuff. Love the twist..’I DON’T!’.
-
-### Emilie Loman (Grundare av Wowservice | Hjälper företag skapa lojala kunder, ambassadörer & hållbara servicekulturer genom wowservice | Föreläsare, Utbildare, Författare av boken “Wowservice” & host för Wowpodden)
-> Words! 🎁 Jag brukar tänka så om all min kommunikation oavsett om det är ett SMS eller en presentation.
-
-### Mattias Wihlgaard (Creative director på Viksjö Webbyrå)
-> Good job Antoni! I love the turnover "...I don´t..."
-
-### Anna Crociani (Supporting Personal and Organizational Wellbeing & Growth // Co-founder Winning Tribe)
-> So true, I love to get involved and experience emotionally a person´s storytelling/present-ation!
-

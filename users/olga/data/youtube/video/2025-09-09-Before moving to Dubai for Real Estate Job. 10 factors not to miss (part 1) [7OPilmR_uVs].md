@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Before moving to Dubai for Real Estate Job. 10 factors not to miss (part 1)
-
-## Transcript
-
 speaker_1: I know that in some companies agents wait for commissions for months and months
 
 speaker_2: Sometimes they dont even get paid it

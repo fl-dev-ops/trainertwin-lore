@@ -5,6 +5,9 @@ url: https://www.linkedin.com/posts/daniele-ponzo_internationalspeaker-nonnative
 likes: 27
 comments: 4
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQG1kcuNa0PZlw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1727879301330?e=1793178000&v=beta&t=xzZeaoLvwDN52qH2OzUCfO_oAPtJ7RU7XsGJOtLvJkE
+author_comments:
+- Thanks for reposting, Jack Lynn Besa!
+- '🎯 Want to know more? Find the full episode here: https://youtu.be/s3P13Er9dFM'
 ---
 
 If I were to start learning English today, there’s one thing I would change.
@@ -46,19 +49,3 @@ Explore my Youtube Channel for more.
 Follow ➡️Daniele
 
 #internationalspeaker #nonnativeleader #inspiration
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Jack Lynn Besa!
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> I completely agree Daniele ))
-> 
-> When it’s fun, you retain so much more. 
-> 
-> Learning should be an enjoyable process.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🎯 Want to know more? Find the full episode here: https://youtu.be/s3P13Er9dFM
-

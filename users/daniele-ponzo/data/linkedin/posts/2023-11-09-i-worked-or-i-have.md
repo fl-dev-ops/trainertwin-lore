@@ -5,6 +5,16 @@ url: https://www.linkedin.com/posts/daniele-ponzo_interviewskills-experience-eng
 likes: 9
 comments: 4
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
+   
+  🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
+- '...and here is the song: https://www.youtube.com/watch?v=Gu2pVPWGYMQ'
 ---
 
 I WORKED or I HAVE WORKED? I CALLED HER or I HAVE CALLED HER?
@@ -57,21 +67,3 @@ Hope you got some value here. If you did, remember to follow and hit the bell on
 Follow➡ Daniele
  
  #interviewskills #experience #englishtips
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! When you’re ready, here are 3 FREE ways I can help you:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who have had an international career without being born in an English-speaking country: https://www.youtube.com/channel/UC91PAQlofB7mTOewjnLp-xw
->  
-> 🤝 Reach out and book a chat, so we can discuss the best ways to take your English confidence to the next level 🚀: https://calendly.com/daniele-ponzo/english-for-it-chat?month=2023-11
-
-### Vanessa Andrews (Associate Consultant)
-> What a trip down English memory lane😀 and yes it was beneficial Daniele. Thank you for sharing.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ...and here is the song: https://www.youtube.com/watch?v=Gu2pVPWGYMQ
-

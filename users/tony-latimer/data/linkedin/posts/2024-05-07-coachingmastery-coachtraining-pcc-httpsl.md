@@ -9,9 +9,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/v2/D5605AQGG9WDENcI1EA/mp4-720p-30f
 
 #coachingmastery #coachtraining #pcc
 https://lnkd.in/gCZPV535
-
-## Comments (1)
-
-### Adam Ariff (Founder of CVP Group | Helping organisations use AI, coaching, and apprenticeship funding to develop skills, leadership, and workforce capability | AI & Automation | Coaching & Leadership Apprenticeships)
-> Yasmin A.
-

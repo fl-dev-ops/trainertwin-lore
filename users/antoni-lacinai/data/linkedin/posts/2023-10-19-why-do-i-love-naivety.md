@@ -24,14 +24,3 @@ Imagine if we could pair experience with that naive attitude that anything is po
 I always have new projects going on. Sometimes I'm insecure and a little scared. But what is really the worst that can happen? I guess I'll have to learn to repair my own metaphorical wheels among buzzing mosquitoes. I mean - how hard can it be?
 
 Thank you for reading my mind
-
-## Comments (1)
-
-### Jasmine Goh, ChFC®/S (CoFounder of Asia Innovate Hub | Drives Tech & AI | Conscious Leadership | Women Empowerment | Drives Tech & AI | #1 Source of Keynote Speakers & Thought Leaders through USBI | 2X SEA Games Athlete)
-> Interesting story. Thank you for sharing! Love this, my friend: "repair my own metaphorical wheels among buzzing mosquitoes".
-> 
-> We don't have to go "look for solutions" all the time. There are situations where the solutions are obvious and staring at us right in our face. Perhaps not the most pleasing route or action to take. But we just have to roll up our sleeves and "face the solutions" head on. 😉 time to rock and roll Llewellan Vance 
-> 
-> Aim for progress, not perfection!
-> Happy Thursday, everyone! 😍
-

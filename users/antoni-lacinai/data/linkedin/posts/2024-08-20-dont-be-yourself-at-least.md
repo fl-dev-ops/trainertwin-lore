@@ -28,12 +28,3 @@ Funny
 
 Who would you like to meet?
 Who would others like to meet when they meet you?
-
-## Comments (2)
-
-### Elin Giczi (Video Branding Strategist | Knitting enthusiast @knitwithelin 🧶 | Speaker & Educator)
-> The way we make people feel matters ☀️
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> I prefer door nr 2, here's to a happy, brilliant day ahead 😁🎈✨️
-

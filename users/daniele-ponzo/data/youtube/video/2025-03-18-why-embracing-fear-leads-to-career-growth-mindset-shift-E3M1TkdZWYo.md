@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Embracing Fear Leads to Career Growth | Mindset Shift
-
-## Transcript
-
 speaker_1: So we want to become friend make friend with your fear Fear is there So we might as well embrace it It shouldnt prevent us but it should help us to do things to be afraid but let not fear prevent you from doing things but you know be that uh turn that into an enabler if you will you know Well I shouldnt say most of the times but you know I do feel my fear and Im trying to deal with it you know
 
 speaker_2: Everybody feels fear If you dont feel fear then theres whats the worst thing that can happen Whats the worst thing that can happen And thats it

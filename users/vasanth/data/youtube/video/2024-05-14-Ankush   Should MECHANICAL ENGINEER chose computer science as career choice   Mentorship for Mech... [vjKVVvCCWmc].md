@@ -14,12 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# Ankush | Should MECHANICAL ENGINEER chose computer science as career choice ? Mentorship for Mech...
-
-
-## Transcript
-
 speaker_1: See ATS friendly according to me is a scam See there is no no resume that has like surety of getting shortlisted I think you might have seen a lot of your seniors who wanted to do MS and they told you like we will work for one to two years and then they then we will do MS And in case you know them you just see like how many of you did them did really do you really did MS Hey hello all welcome back to my YouTube channel Career with Vasanth previously known as Uncommon Geek As you all know this is a series of mentoring session that Im doing with varying experience
 
 speaker_2: Yeah and get you know

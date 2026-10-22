@@ -15,12 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# How to Find SUPPLY CHAIN JOBS in AUSTRALIA? WATCH THIS FOR INSIDER TIPS FROM AN EXPERT
-
-
-## Transcript
-
 speaker_1: If you if you are into the mining sector if you are into one of the primary industries like dairy or some agriculture Then naturally your supply chains are local and they are sizable and theyre big players in them and the jobs which are associated with those companies with those industries are also equally sizable whether they are for local consumption or for the primary industries Australia is a massive exporter to you have to be mentally prepared for it local experience probably rightly or wrongly counts for more
 
 

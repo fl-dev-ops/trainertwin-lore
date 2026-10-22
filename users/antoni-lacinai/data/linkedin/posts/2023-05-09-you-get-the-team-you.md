@@ -36,16 +36,3 @@ Thanks for reading my mind
 
 Swedish: Här är min senaste krönika i HRnytt som heter "Du får det team du förTJÄNAR"
 Vad tänker du om det? Att ha den attityden av att tjäna något eller någon. Viktigt? Oviktigt?
-
-### Shared Article: [Du får det team du förTJÄNAR - Ledarskap - HRnytt](https://buff.ly/3IqyPK3)
-> hrnytt.se
-
-
-## Comments (2)
-
-### Eva-Karin Kronblad (Engineering leader in complete vehicle validation, with a passion for systems, customers and high performing teams)
-> Mycket bra! Det passar rätt bra in med ett inlägg jag skrev för någon vecka sedan att den enda anledningen till att vi har chefer är för att de är ekonomiskt lönsamma för företaget. Vilket i sådana fall betyder att vår enda uppgift är att göra saker vårt team mer effektiva och motiverade än om de inte hade en chef.
-
-### Åsa Knutson Jadsell (Chief Executive Assistant & Office Manager. Min konsultfirma, Propatos AB, är för närvarande en bisyssla.)
-> Mycket tankar som fastnade hos mig sist vi sågs. Jag skriver till dig inom kort då jag har lite funderingar kring temat du beskriver här.
-

@@ -24,7 +24,3 @@ I see communication as a 3-step process:
 Hands on your heart: Which one is you?
 
 https://lnkd.in/d-FwSG8x
-
-### Shared Article: [Be simple but with substance. Communication tips from Antoni Lacinai, keynote speaker](https://youtu.be/3Zf_1u0lXFk)
-> youtube.com
-

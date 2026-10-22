@@ -5,6 +5,25 @@ url: https://www.linkedin.com/posts/daniele-ponzo_when-its-your-turn-to-speak-in
 likes: 27
 comments: 6
 images_count: 1
+author_comments:
+- |-
+  ▶️ If this meme feels a little too familiar… this is exactly what we’re unpacking live.
+
+  Why your brain freezes in meetings
+  How to keep speaking when words are missing
+  Why studying English isn’t enough for real-time performance
+  And how AI is changing the way developers stay relevant
+
+  Join us live:
+
+  🔵 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗟𝗶𝘃𝗲:
+  https://www.linkedin.com/events/7442096283017797632
+
+  🔴 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝘃𝗲:
+  https://www.youtube.com/live/51Q73UkyvuM
+
+  Bring your questions. Bring your “27 tabs open” moments.
+  See you there 🚀
 ---
 
 When it’s your turn to speak in the meeting…
@@ -60,34 +79,3 @@ Nick Bussola and I are going live at 3:30 PM CET to talk about what actually hap
 🔴 Live. Friday 3:30 PM CET.
 
 👉 Check the comments: we go live today.
-
-## Comments (4)
-
-### Sabika Javeed (Helping professionals speak, present & lead with confidence in global workplaces | Business English & Communication Coach | Phonics expert I 10+ years I book 1:1 slot to diagnose your speaking level)
-> Ha, Ha, Ha ....I like the creativity
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> Looking forward to the event!
-
-### Rishya Shringha (On a mission to bring back humans to LinkedIn.)
-> 😂😂😂 Daniele
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ If this meme feels a little too familiar… this is exactly what we’re unpacking live.
-> 
-> Why your brain freezes in meetings
-> How to keep speaking when words are missing
-> Why studying English isn’t enough for real-time performance
-> And how AI is changing the way developers stay relevant
-> 
-> Join us live:
-> 
-> 🔵 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 𝗟𝗶𝘃𝗲:
-> https://www.linkedin.com/events/7442096283017797632
-> 
-> 🔴 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗟𝗶𝘃𝗲:
-> https://www.youtube.com/live/51Q73UkyvuM
-> 
-> Bring your questions. Bring your “27 tabs open” moments.
-> See you there 🚀
-

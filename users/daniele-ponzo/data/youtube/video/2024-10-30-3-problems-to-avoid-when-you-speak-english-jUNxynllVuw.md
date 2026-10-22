@@ -19,9 +19,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# 3 PROBLEMS to avoid when you speak ENGLISH
-
-## Transcript
-
 speaker_1: Number three again not a biggie but important to sound a bit more professional When you want to say now so you want to talk about a particular moment in English we say at the moment not in I know sometimes its more intuitive to use in but it doesnt work in English So you can say at the moment Im working on an important project okay Not in the moment that doesnt exist At the moment Im working on an important project okay

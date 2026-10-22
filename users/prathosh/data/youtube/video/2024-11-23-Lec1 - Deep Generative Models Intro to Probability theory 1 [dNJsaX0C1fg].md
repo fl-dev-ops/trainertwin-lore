@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec1 - Deep Generative Models Intro to Probability theory 1
-
-## Transcript
-
 speaker_1: A couple of logistic things uh the registration deadline is done right
 
 speaker_2: No sir it extended till 20 X

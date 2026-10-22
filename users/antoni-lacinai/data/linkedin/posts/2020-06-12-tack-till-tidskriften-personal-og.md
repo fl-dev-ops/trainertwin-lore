@@ -13,12 +13,3 @@ Här är artikeln för dig som är nyfiken och gillar norska
 😃
 
 #ledarskap #virtuelltledarskap #virtuellamöten
-
-## Comments (2)
-
-### Marcus Sandberg (Säljare)
-> Härlig intervju det där 😊🙏
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Vad roligt med en norsk artikel! Grattis Antoni!🌟
-

@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/daniele-ponzo_tech-career-itprofessionals-ac
 likes: 10
 comments: 4
 images_count: 1
+author_comments:
+- |-
+  👋 Thanks for checking out this post! if you're interested in these topics, here are some FREE resources:
+
+  💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
+
+  💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
 ---
 
 Are you a non-native professional working in an international environment?
@@ -53,16 +60,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #tech #career #ITprofessionals
-
-## Comments (2)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👋 Thanks for checking out this post! if you're interested in these topics, here are some FREE resources:
-> 
-> 💡Grab a copy of my eBook for IT Professionals and learn how to unlock the power of effective language in English: https://solutionspeak-coaching.ck.page/c268ccf37f 
-> 
-> 💻 Watch my video podcast series to get inspired by people who are international Leaders without being born in an English-speaking country: https://www.youtube.com/@SolutionSpeakCoaching
-
-### Obada Qawwas (Alkawass) (Senior Software Engineer at Affirm. Front-end, web platforms and content systems. React, TypeScript, Contentful, CI/CD.)
-> Daniele, invaluable advice for making an impact in international workplaces. Appreciating the clear steps and the emphasis on self-care – essential for long-term success. 🌐👍
-

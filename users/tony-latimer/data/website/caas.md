@@ -5,13 +5,11 @@ date: "2026-01-01"
 source: website
 ---
 
-# Coaching as a Service On Demand | APAC | Singapore | Dubai
-
-## Can we afford to give all our managers a coach?
+Can we afford to give all our managers a coach?
 
 Yes, as long as you buy coaching for the problem not the person.
 
-### The business case for Coaching as a Service
+The business case for Coaching as a Service
 
 Every promotion from middle management into senior leadership should come with coaching. Almost no organisation funds it. Only 7% of companies formally assign a coach or mentor to their most senior appointments, which leaves 93% of newly appointed leaders navigating the hardest transition of their career without structured support.
 
@@ -31,7 +29,7 @@ Coaching hours are held across your whole management population each month and d
 
 High value coaching in organisations comes down to three things: how quickly help arrives, how quickly the problem is resolved, and what it is costing you while it is still there.
 
-## Who is Coaching as a Service for?
+Who is Coaching as a Service for?
 
 Coaching as a Service is designed for HR Directors and CHROs in large corporate organisations who need to deploy expert-level leadership coaching across a broad management population, without the cost or rigidity of full senior coaching programmes for each individual.
 
@@ -47,73 +45,72 @@ Common situations where organisations use Coaching as a Service:
 
 If your organisation operates from Singapore, Hong Kong, or Dubai across Southeast Asia, the Middle East, or the wider Asia Pacific region, and you are responsible for developing leadership capability across a substantial management population, this was designed for you.
 
-## Why choose Coaching as a Service?
+Why choose Coaching as a Service?
 
-### Elite expertise
+Elite expertise
 
 Delivered exclusively by Tony Latimer MCC BCC, ensuring every session drives results.
 
-### Outcome focused
+Outcome focused
 
 Transition success; rapid organisational change; team development. What they need, When they need it.
 
-### Total flexibility
+Total flexibility
 
 Allocate coaching hours across your leadership team dynamically, without being tied to rigid packages.
 
-### Only what you need
+Only what you need
 
 From one session to a series, coaching is tailored to the unique challenges your leaders face.
 
-### Cost effective
+Cost effective
 
 Each engagement is focused on the specific issue your leader is facing, with only the sessions needed to resolve it. Because we work on a just-in-time basis with clear focus on the presenting issue, cost per issue resolved is significantly lower than a traditional senior coaching engagement. The quality of coaching you need; at the price point you can afford.
 
-### 24/7 support
+24/7 support
 
 Effective leadership development requires both coaching and learning: you cannot coach through a knowledge gap. To maximise the impact of every session, TonyLatimer.ai gives your leaders 24/7 access to the Profitable Leadership training library, ensuring coaching time is focused on application, growth, and real change.
 
-## Flexible plans, designed for your needs
+Flexible plans, designed for your needs
 
-For on-site coaching, we work with you to designate in advance specific day(s) each month when coaching hours are made available at your offices. A coaching unit is a block of time between 10:30 am and 4:30 pm on the agreed day, during which five coaching hours can be utilised. For remote coaching by phone or video call, we provide a direct diary link so your leaders can book sessions on days and times in the month that suit them, subject to availability. Your monthly coaching hours can be allocated flexibly across your team, whether as consecutive individual breakthrough sessions or divided into **group coaching cohorts** for rapid team development.
+For on-site coaching, we work with you to designate in advance specific day(s) each month when coaching hours are made available at your offices. A coaching unit is a block of time between 10:30 am and 4:30 pm on the agreed day, during which five coaching hours can be utilised. For remote coaching by phone or video call, we provide a direct diary link so your leaders can book sessions on days and times in the month that suit them, subject to availability. Your monthly coaching hours can be allocated flexibly across your team, whether as consecutive individual breakthrough sessions or divided into group coaching cohorts for rapid team development.
 
-| Plan | Coaching units per month | Coaching hours per month | 
-|---|---|---|
-| **A** | 1 | 5 | 
-| **B** | 2 | 10 | 
-| **C** | 3 | 15 | 
-| D | 4 | 20 | 
+Plan | Coaching units per month | Coaching hours per month
+A | 1 | 5
+B | 2 | 10
+C | 3 | 15
+D | 4 | 20
 
 Arrange an assessment discussion to identify the right plan for your organisation.
 
-## Frequently Asked Questions
+Frequently Asked Questions
 
-### What is Coaching as a Service and how does it work?
+What is Coaching as a Service and how does it work?
 
 Coaching as a Service (CaaS) is an on-demand leadership coaching model designed for organisations that need to deploy expert-level coaching across a broad management population, without the cost or rigidity of full senior coaching programmes. Each month, your organisation receives an allocation of coaching hours that can be distributed flexibly across your leadership team, directed to whoever needs support most. When a leader needs coaching, they book directly with Tony Latimer (MCC, BCC) for a focused engagement on the specific challenge in front of them. A promotion transition might take two or three sessions. A team alignment issue, similar. There is no minimum programme length, no fixed structure, and no overhead your leaders do not need.
 
-### How is this different from a volume coaching platform?
+How is this different from a volume coaching platform?
 
 Volume coaching platforms are designed for scale and typically match employees to coaches from a broad pool. They are a reasonable solution for first-line managers and individual contributors who need access to general coaching support. Coaching as a Service is different in two ways. First, the coaches: all engagements are delivered by Tony Latimer, a Master Certified Coach (MCC) with extensive experience coaching senior leaders in complex organisations. Second, the focus: engagements target the specific challenge in front of your leader, rather than following a structured programme. For your mid-to-senior managers at the C-minus-1 and C-minus-2 level, the depth and focus of the coaching matters. This was built for that tier.
 
-### How long does a typical engagement take?
+How long does a typical engagement take?
 
 Most engagements run between two and five sessions, depending on the complexity of the challenge. A promotion transition into a new scope typically takes three sessions: one to establish context and the primary development focus, one to work through the key challenges, and one to consolidate learning and plan ahead. A team alignment or performance issue may be resolved in two or three. A more complex organisational change situation, where a leader is navigating structural change while maintaining team performance, might extend to four or five. Because we work on a just-in-time basis, engagements close when the presenting challenge is resolved, not when a pre-agreed programme ends.
 
-### What support do my leaders have between sessions?
+What support do my leaders have between sessions?
 
 Between coaching sessions, leaders have 24/7 access to TonyLatimer.ai, the Profitable Leadership training library. This covers the core frameworks and tools your leaders need across the most common leadership challenges: building high-performing teams, navigating difficult conversations, managing performance, leading change, and transitioning into new leadership roles. The library ensures that coaching time is focused on application and growth, rather than filling knowledge gaps that structured learning can address more efficiently.
 
-## How it works
+How it works
 
-**Assessment.** We discuss your organisational needs and leadership challenges to recommend the right plan.
+Assessment. We discuss your organisational needs and leadership challenges to recommend the right plan.
 
-**Flexibility in action.** Coaching sessions are allocated dynamically across your leaders based on real-time needs.
+Flexibility in action. Coaching sessions are allocated dynamically across your leaders based on real-time needs.
 
-**High-impact sessions.** MCC-level coaching ensures each session delivers measurable results.
+High-impact sessions. MCC-level coaching ensures each session delivers measurable results.
 
-**24/7 support.** Between sessions, TonyLatimer.ai provides continuous access to leadership resources and guidance.
+24/7 support. Between sessions, TonyLatimer.ai provides continuous access to leadership resources and guidance.
 
-## Every engagement starts the same way.
+Every engagement starts the same way.
 
 It starts with a conversation. We discuss where you are, where you need to be, and how we are going to get you there. Everything else follows from that.

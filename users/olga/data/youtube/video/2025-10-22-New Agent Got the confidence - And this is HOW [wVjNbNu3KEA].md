@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# New Agent Got the confidence - And this is HOW
-
-## Transcript
-
 speaker_1: I would like overthink too much in my head about what I was going to say next to you know a broker or a client And sitting on with with you and your sessions I really understood that you have to just you know go with the flow
 
 speaker_2: You do have a common sense and the common sense is an unexplainable quality Either you have it or no Imagine and be prepared for any conversation and any turn that the client will be able or will do because You should not have anything which is unexpected

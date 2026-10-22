@@ -16,7 +16,3 @@ Preprint of a preliminary version here -
 https://lnkd.in/gAfRixE
 
  #ai #machineintelligence #machinelearning #UAI
-
-### Shared Article: [Towards Latent Space Optimality for Auto-Encoder Based Generative Models](https://arxiv.org/abs/1912.04564v1)
-> arxiv.org
-

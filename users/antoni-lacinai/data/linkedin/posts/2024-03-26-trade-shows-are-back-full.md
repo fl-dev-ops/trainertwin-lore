@@ -21,15 +21,3 @@ CEO, Global Success Learning Academy
 Thanks, Jonathan for your kind words!
 
 PS - if you are exhibiting and you want this book to guide your team: Send me a DM or give a comment. I'll let you know when it is available.
-
-## Comments (3)
-
-### Sally A Curtis (Strategic Growth & Legacy Content ♦️ Monetise Your Content ♦️ Speaker♦️ Franchise Development & Partnerships (Driving Miss Daisy))
-> Phil Greer, here's one for us!!
-
-### Brian Bakeberg BSC.ENG (Co-Founder & CVO, bp2w® | Turning employee engagement data into action in 15 minutes a month | CPD-accredited | Published in The Harvard Brain)
-> Will need  one of these
-
-### Philippe Guichard (From product to $1M+ ventures: the designer serial entrepreneurs partner with | Talk on TED.com | Product Development & Product Design | Bestselling Author & Keynote Speaker | Investor)
-> This is perfect timing, Antoni, as I am preparing not one but two tradeshows this year! I can't wait to read and implement your book.
-

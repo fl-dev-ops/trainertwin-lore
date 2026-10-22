@@ -30,25 +30,3 @@ This article will make me redouble my own efforts. What about you? Do you also h
 Then you know what to do. Simplify. Or go full KITNS (Keep It Simple, Not Stupid) 😄 I am here to help you if you want. Just say the word. 
 
 https://lnkd.in/dQDsviJg
-
-### Shared Article: [People Who Love Corporate BS Are Bad at Their Jobs, New Cornell Research Confirms ](https://www.inc.com/jessica-stillman/people-who-love-corporate-bs-are-bad-at-their-jobs-new-cornell-research-confirms/91314405)
-> inc.com
-
-
-## Comments (5)
-
-### Peter Tönnäng (Solution Architect | ERP | Test Management | IFS)
-> When management BS makes most employees upset, is a signal as good as anything to just ignore management.The best part of being self-employed is the complete lack of corporate BS, that might actually be the part I miss the most.
-
-### Mia Liljeberg (AI for speakers and experts | Grow your business with smarter workflows and your own voice | DM “BRAIN” for getting info about the next Brain building)
-> Yes, and it becomes unconscious after a while in an organization. What is common sense for you is rocket science for others. And vice versa.
-
-### Tony K Silver (LinkedIn Expert and Speaker | I give you the LinkedIn manual you never got | Helping professionals and businesses build stronger profiles, increase visibility, use LinkedIn effectively and create real opportunities daily)
-> I hate acronyms Antoni Lacinai it assumes things of the audience and can alienate them. It can also make people disengage or use an answer the person did not mean. not keen on buzz phrases either
-
-### Katharina Lehner (Head of Marketing | B2B Tech | Go-to-Market, Positioning & Growth Strategy)
-> Thanks for sharing, also KITNS made me think of kittens ;)
-
-### Martin Sjöblom (Fractional CTO och teknikrådgivare för bolag utan egen CTO | Från teknikdimma till fungerande lösningar)
-> Oh, I loved this article. I have over my years met many people using their business language as a barrier where I see language as a bridge, a way to improve communication. In my world it is my responsibility as a transmitter to make sure the receivers really are understanding me.
-

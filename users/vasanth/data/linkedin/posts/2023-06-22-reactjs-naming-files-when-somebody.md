@@ -15,6 +15,3 @@ One of the important best practices is naming the files. If you name it apikey o
 In case if you have not followed me, you can do it here, I will help you to clear your Software developer interview : Vasanth Bhat
 
 #frontenddeveloper #frontenddevelopment #frontendengineer #uideveloper #uidesigners #reactjsdeveloper #react #javascript
-
-### Shared Document: [RightFileNamingConventionInReactJS]()
-

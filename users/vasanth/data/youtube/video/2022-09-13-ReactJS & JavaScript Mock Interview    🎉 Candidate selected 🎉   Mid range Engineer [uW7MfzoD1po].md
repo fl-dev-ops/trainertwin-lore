@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# ReactJS & JavaScript Mock Interview |  🎉 Candidate selected 🎉 | Mid range Engineer
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Uncommon Geeks myself Asant I hope you all doing well In case if you see me first time on the internet Im a content creator I help people to clear their interview I made a lot of beautiful series in the past which has been appreciated by many And I thank you a lot Finally I have got now 1 point 1k subscriber And as a fact of 1 point 1k subscriber 1100 subscribers Im giving a free giveaway of taking a lot of mock interviews with respect to the front end And Ive posted this in my YouTube channel and I also posted it on my LinkedIn
 
 

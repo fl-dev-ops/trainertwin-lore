@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Benefits of Writing on LinkedIn for Your Career #shorts
-
-## Transcript
-
 speaker_1: And you did another interesting thing there because obviously you studied you talked to people but then you also mentioned that you started posting on LinkedIn and I suppose you started posting straight directly in English which was an extra challenge that you gave yourself So in which way that helped you really Ill be interested in knowing
 
 speaker_2: Yeah so in 2020 or 2021 I started to read a lot uh especially self help self development books and most of them are mostly in English

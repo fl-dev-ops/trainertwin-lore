@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Your First Month as a Real Estate Agent: What to Expect and How to Succeed
-
-## Transcript
-
 speaker_1: A lot of real estate sales trainers gonna tell you oh build the rapport dont talk about project dont talk about sale for the first five minutes on the conversation I would disagree with that We have to be precise with the current clients They dont have time They understand what we are doing Oh oh you live in India Oh fantastic Oh you have Taj Mahal there No one no I mean he knows what youre doing You know what youre doing Its awkward It will be the time that you will be boring Thats fine Okay someone consider me boring and
 
 speaker_2: get blocked

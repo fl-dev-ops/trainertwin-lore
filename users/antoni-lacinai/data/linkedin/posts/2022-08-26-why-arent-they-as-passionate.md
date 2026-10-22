@@ -26,9 +26,3 @@ How do you involve your team?
 #leadership #communication #engagement
 
 Do you want your teams to get great results? Reach out and we'll talk.
-
-## Comments (1)
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Love your 4 cornerstones Antoni
-

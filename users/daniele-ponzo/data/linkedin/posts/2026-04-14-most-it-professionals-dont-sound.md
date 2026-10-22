@@ -6,6 +6,19 @@ likes: 41
 comments: 11
 document:
   title: Do you sound Junior or Senior when you speak?
+author_comments:
+- |-
+  ▶️  If you recognised yourself in this post, you’re not alone.
+
+  Most of these habits don’t come from lack of English.They come from trying to manage too much at once.
+
+  If you want to go deeper, I’ve recorded a short video where I break down how I help IT professionals train this in practice:
+  🎥 Watch here:https://www.loom.com/share/e60f4f436b3741af8a0c688efc0663f4
+
+  This is exactly what we work on inside The IT Speaking Playground:real scenarios, real pressure, real feedback.
+
+  If you’re curious or want to explore whether it could help you, feel free to reach out.
+  Happy to chat.
 ---
 
 Most IT professionals don’t sound less senior because of their English.
@@ -45,40 +58,3 @@ And that signal determines how senior you sound, especially under pressure.
 Think about your last meeting...
 
 Which of these do you recognize in yourself?
-
-### Shared Document: [Do you sound Junior or Senior when you speak?]()
-
-
-## Comments (7)
-
-### Lucy Thorogood (Haz que tu inglés refleje tu experiencia | Communication coaching for women leading international teams and projects)
-> Completely agree and in my experience with IT and Tech professionals, point 2 is a real challenge: the over-focus on the small details, like trying to find the exact right words, goes hand-in-hand with over-repetition and broken, slower speech. Which of course affects fluency. One solution is to do sessions that focus purely on fluency (on keeping going) and separate sessions on accuracy. So you train both.
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Definitely the last one 😫
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Communication is leverage. Clear structure instantly changes how your expertise is perceived. Daniele Ponzo
-
-### Dariusz Sadowski (Senior EM / Coach (in training) | Less hype, more science | Join Inner Dynamics)
-> Yeah, feeling insecure when speaking with others can do this to you. Love it Daniele
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Its all about practicing. I note that pausing can help.
-
-### Christopher Wright (Co-Director. Trainer. Helping companies and professionals to speak, meet and present more effectively and confidently in English. Classes and workshops.)
-> Good points Daniele Ponzo. And the key is "UNDER PRESSURE". And without the practice with expert feedback of difficult business situations (roleplays and simulations) in English, it's difficult you'll reach that level of English performance.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️  If you recognised yourself in this post, you’re not alone.
-> 
-> Most of these habits don’t come from lack of English.They come from trying to manage too much at once.
-> 
-> If you want to go deeper, I’ve recorded a short video where I break down how I help IT professionals train this in practice:
-> 🎥 Watch here:https://www.loom.com/share/e60f4f436b3741af8a0c688efc0663f4
-> 
-> This is exactly what we work on inside The IT Speaking Playground:real scenarios, real pressure, real feedback.
-> 
-> If you’re curious or want to explore whether it could help you, feel free to reach out.
-> Happy to chat.
-

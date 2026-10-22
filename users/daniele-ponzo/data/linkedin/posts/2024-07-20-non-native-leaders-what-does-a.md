@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-career-tech-ac
 likes: 51
 comments: 10
 images_count: 1
+author_comments:
+- '📌 The power of LANGUAGE to work INTERNATIONALLY: https://youtu.be/hvk2Xj78thM?si=oYS3jJqMBW0CqT_P'
 ---
 
 Non-native Leaders
@@ -38,15 +40,3 @@ If you want to know more, you can catch the full episode in the first comment be
 Have a great weekend, everyone!
 
 #nonnativeleader #career #tech #fintech
-
-## Comments (3)
-
-### Julien Aubry (Senior Enterprise Account Executive @ Salesforce)
-> Congratulations David Bavon on your impressive career trajectory! It was a pleasure working alongside you, and I'm thrilled to see your continued success as a leader !
-
-### Tomàs Pablo Carbone (Founder TOMKO Engineering srl | I am passionate about Management and Clinical Imaging, I help TOMKO engineering srl to create management and imaging systems necessary to improve the daily lives of our customers.)
-> Thanks for sharing
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 The power of LANGUAGE to work INTERNATIONALLY: https://youtu.be/hvk2Xj78thM?si=oYS3jJqMBW0CqT_P
-

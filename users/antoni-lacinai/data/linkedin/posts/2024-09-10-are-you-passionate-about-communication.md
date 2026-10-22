@@ -28,13 +28,3 @@ If you have a group of motivated people who could benefit from a similar program
 Looking forward to meeting you ^_^
 
 "Communication between people is like electricity in modern society. Without it, nothing works."
-
-### Shared Article: [Meet Antoni - Antoni Lacinai](https://calendly.com/antonilacinai/30-minute-meeting-with-antoni)
-> calendly.com
-
-
-## Comments (1)
-
-### Snehil . (I do logo & brand identity design backed by psychology | 52+ Client Success Stories | Logo Designer)
-> What's the most common challenge you encounter when coaching people on presentation skills? Antoni Lacinai
-

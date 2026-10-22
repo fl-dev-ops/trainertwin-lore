@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Cell Phones Are Killing Focus and Creativity #shorts
-
-## Transcript
-
 speaker_1: He goes you know why we dont innovate anymore Because we have cell phones that steal our attention And since we are not bored anymore we cannot see where are the problems that we can solve
 
 speaker_2: Yes So we get distracted and we dont focus anymore We dont get bored anymore so we cant create Okay Yes I really like this take

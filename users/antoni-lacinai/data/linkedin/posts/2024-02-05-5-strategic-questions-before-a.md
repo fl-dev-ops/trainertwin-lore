@@ -33,12 +33,3 @@ Management by constant reorganizations
 - the height of confusion...
 
 PS - which of the 5 has the best impact? 1-5
-
-### Shared Document: [5 strategic questions before a potential reorganization]()
-
-
-## Comments (1)
-
-### Brian Bakeberg BSC.ENG (Co-Founder & CVO, bp2w® | Turning employee engagement data into action in 15 minutes a month | CPD-accredited | Published in The Harvard Brain)
-> How will you engage your employees?  this is the most unsettled part of any restructure as people fear change. Your biggest asset your employees need to feel secure in their future. a clear path needs to be explained
-

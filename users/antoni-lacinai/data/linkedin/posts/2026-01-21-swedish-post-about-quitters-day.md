@@ -30,13 +30,3 @@ Här är kontentan
 Hur gör du för att motivera dig när det börjar gå trögt?
 
 https://lnkd.in/eVzhwYei
-
-### Shared Article: [Nu fallerar många nyårslöften – så håller du motivationen uppe | Nyhetsmorgon | TV4 & TV4 Play](https://www.youtube.com/watch?v=OChikDG71ig&t=1s)
-> youtube.com
-
-
-## Comments (1)
-
-### Gunnel Ryner (Keynote Speaker, Facilitator & Author ♦️ Strengths-based development ♦️ Look for what’s RIGHT rather than what’s WRONG ♦️ Appreciative Inquiry ♦️ Solution Focus)
-> Bra tankar! Mitt bästa tips är att ta hjälp av andra, t ex att ha en träningskompis som drar med dig när din egen motivation tryter.
-

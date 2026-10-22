@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 47 LSTMs and GRUs
-
-## Transcript
-
 speaker_1: Welcome everyone to the class
 See general mathematical
 objective to solve the vanishing

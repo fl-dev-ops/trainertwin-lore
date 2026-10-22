@@ -19,9 +19,3 @@ All three are needed if you want to go in the right direction.
 What's your reflections?
 
 #leadership #communication #engagement
-
-## Comments (1)
-
-### Christina Åhlstedt (VD och styrelsearbetare som brinner för teknik och utveckling!)
-> I totally agree, it´s so much easier to reach your goals this way!
-

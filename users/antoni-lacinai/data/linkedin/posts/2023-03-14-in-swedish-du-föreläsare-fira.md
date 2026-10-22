@@ -9,9 +9,3 @@ comments: 3
 In Swedish:
 
 Du föreläsare: Fira med oss idag 1430 ^_^ https://lnkd.in/daBN9YXQ
-
-## Comments (1)
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Jag firade med att stå på samma scen som du stod på igår. Bland de coolaste. Sällan man haft en skärm på 100 kvm.......
-

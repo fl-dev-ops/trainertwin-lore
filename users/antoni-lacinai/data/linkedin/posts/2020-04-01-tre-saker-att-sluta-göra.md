@@ -25,24 +25,3 @@ Tack för att du läser mina tankar
 (det här är ett utdrag från ett av mina Tankefrön som går ut till flera tusen människor varje månad. Vill du också ha? Mejla mig på antoni@lacinai.se
 
 * Det finns faktiskt en poäng i att jämföra dig med de som är bättre; ödmjukhet!
-
-## Comments (4)
-
-### Eva Synnergren (Engagerad marknadsförare, webbdesigner, digital strateg och utbildare som hjälper företag lysa på nätet.)
-> Instömmer i alla punkter. Well put!
-
-### Thomas Otnes (Product developer and engineer)
-> Antoni Lacinai, för din punkt 2 skulle jag ta bort distionktionen "de som har mer.." då det är lika destruktivt att jämföra sig med de som har det mindre bra då det kan leda till hybris, arrogans och andra otrevliga jante sidor på andra sidan "myntet".
-> 
-> Tyvärr så lever vi i en värld där vårt tävlande handlar om att vara "bättre" än varandra, men det enda som verkligen är intressant är om jag kan bli bättre än jag var och är. Jämförelsen med mig själv är den enda som har en chans att blir rättvis och gynnsam.
-> 
-> Men tack för bra påminnelser! :)
-
-### JÖRGEN DOMBY (ÄG DINA MÖTEN & PRESENTATIONER! | Förmedla din kunskap med enkelhet och självförtroende! | Träna med din dedikerade presentations-PT)
-> Jag agerade nyss på motivation...
-> 
-> You´ve got mail Antoni Lacinai!
-
-### Kjell Dahlin (Framförallt Inspirationstalare. Men även författare och grundare av den mjuka kommunikationsbyrån Popretorik)
-> Klok som vanligt! 😀👍☀️
-

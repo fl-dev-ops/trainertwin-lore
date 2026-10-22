@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_many-companies-say-digital-first-rea
 likes: 5
 comments: 3
 images_count: 1
+author_comments:
+- as I thought. A strangled post. haha  ^_^
 ---
 
 Many companies say: "Digital first!!
@@ -26,14 +28,3 @@ Nope
 What's your opinion on this?
 
 *(What is the deal with LinkedIn anyway? They are doing everything they can to limit the reach for some unexplained reason. I am curious to see if this post triggers them to cancel me completely...)
-
-## Comments (2)
-
-### Micke Darmell (Utbildare/föreläsare och författare på gr8 meetings)
-> Många säger "-ju mer digitala vi blir, desto viktigare blir det fysiska". En floskel många säger då jag inte ser hur verksamheter idag jobbar strategiskt med relationerna. Summan av en organisation är dess relationer. Det uppstår inte av sig själv. I många verksamheter så har relationerna börjat krackelera efter pandemi, remote arbete och allt mer kommunikation digitalt. Jag vet inte hur många som börjar se sin AI assistent som sin bästa vän. Vi behöver ta tillbaka makten och frigöra den mänskliga potentialen. 
-> Och för dig som tror att jag är mot teknik. Nej, det är inte för eller mot-det är hur och när. 
-> Bra inlägg Antoni!
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> as I thought. A strangled post. haha  ^_^
-

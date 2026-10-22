@@ -27,9 +27,3 @@ The PRESENT PERFECT is particularly useful when you want to explain your experti
 Hope you got some value here. If you did, remember to follow and hit the bell on my profile so you’ll get a notification each time I post 🔔
 
 #interviewskills #interview #experience #englishtips
-
-## Comments (1)
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> Nice clear explanation! 👌
-

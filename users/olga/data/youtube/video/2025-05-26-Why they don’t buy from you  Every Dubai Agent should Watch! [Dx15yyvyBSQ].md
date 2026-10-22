@@ -13,11 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why they don’t buy from you? Every Dubai Agent should Watch!
-
-## Transcript
-
 speaker_1: Even if you win its probably not going to be a deal It depends Youre going to fight or flight mode Im gonna just have all of these arguments It just happens automatically when someone feels threatened when someone feels that his ability to make decision on his own so how we can blame them We are triggering them to ask us present them some options by asking the questions which is wrong Whatever you sell off plan or secondary this training gonna change the way you see sales and will give you a roadmap step by step strategy how to become that trusted advisor how to build this trust so the client gonna choose you as the only desirable agent to work with Isnt it how youre gonna make 1 million in commission selling Dubai real Lets jump to the video Cool So were understanding human behavior decision making process through understanding the sales resistance Have anyone rather than me repeating it today heard the term sales resistance before Sales resistance Everyone heard that Nope
 
 speaker_2: I think so but sounds like something normal

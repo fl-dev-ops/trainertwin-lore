@@ -31,7 +31,3 @@ Forestil dig at have hele databasen fra Profitable Leadership® klar til at st
 Lad os gøre 2025 til året for vækst og selvsikkert lederskab! 🎯
 
 #Ledelsesudvikling #Personaleledelse #AI #CoachingVærktøjer #Mentoring
-
-### Shared Article: [TonyLatimer.ai: On-demand Leadership Mentoring & Training](https://profitableleadership.com/ai)
-> profitableleadership.com
-

@@ -5,8 +5,6 @@ date: "2026-01-01"
 source: website
 ---
 
-# Signup for Insights on leadership, coaching and people management
-
 Get FREE Insights on Leadership & Coaching skills and first access to Tony's new book
 
 Get free insights and tips on management and coaching skills

@@ -19,16 +19,3 @@ Hur har ni det på jobbet?
 Läs mina tankar och gör en självskattning. 
 
 #ledarskap #kommunikation #arbetsglädje
-
-### Shared Article: [Kom upp ur källaren – MySpeaker AB](https://buff.ly/3dvajIn)
-> buff.ly
-
-
-## Comments (2)
-
-### Taz Hart (Voice & Presence Specialist | Executive Communication | Leadership & Presentation Skills | Helping Leaders Speak with Clarity & Connection)
-> Amazing insights as always Antoni 💥
-
-### Linnea Håkansson (Head of Marketing at MySpeaker Sweden)
-> Spot on!
-

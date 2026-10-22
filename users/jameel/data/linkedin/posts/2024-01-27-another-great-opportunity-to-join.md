@@ -11,7 +11,3 @@ article:
 ---
 
 Another great opportunity to join Mars!
-
-### Shared Article: [Territory Sales Representative (PRO)](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Ottawa/Territory-Sales-Representative--PRO-_R86902)
-> mars.wd3.myworkdayjobs.com
-

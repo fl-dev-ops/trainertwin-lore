@@ -5,12 +5,10 @@ date: "2026-01-01"
 source: website
 ---
 
-# Sell Yourself To Corporates Workbook
+Sell Yourself To Corporates
 
-# Sell Yourself To Corporates
+Workbook download
 
-### Workbook download
-
-#### Complete the form to get your workbook download and start earning the fees your coaching deserves.
+Complete the form to get your workbook download and start earning the fees your coaching deserves.
 
 I will send you relevant information about coaching skills mentioned in the book from time to time; if it's not for you, just unsubscribe.

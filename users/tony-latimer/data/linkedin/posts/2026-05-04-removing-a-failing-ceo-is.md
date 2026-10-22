@@ -33,7 +33,3 @@ The exit costs of a failing CEO are significant. The entrenchment costs of a fai
 Save yourself a lot of money; by spending a little bit more at the beginning.
 
 https://lnkd.in/gRShsMnY
-
-### Shared Article: [The True Cost of Executive Hiring and CEO Failure](https://www.profitableleadership.com/blog/true-cost-executive-hiring-ceo-failure)
-> profitableleadership.com
-

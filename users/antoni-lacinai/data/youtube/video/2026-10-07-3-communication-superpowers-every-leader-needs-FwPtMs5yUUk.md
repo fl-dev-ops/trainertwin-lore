@@ -21,11 +21,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# 3 Communication Superpowers Every Leader Needs
-
-## Transcript
-
 speaker_1: You cannot really upskill a culture but you can always upskill your communication and leadership and leadership communication is really important because leaders send on a higher volume So lets not get that message distorted deleted generalized Lets make that message as clear as possible so its easy for people to get it because thats the goal Say it so they get it
 
 

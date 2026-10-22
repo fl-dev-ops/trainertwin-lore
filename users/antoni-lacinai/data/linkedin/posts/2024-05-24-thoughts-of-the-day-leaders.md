@@ -24,9 +24,3 @@ Can you get people engaged and peak-perform? Congrats. You are a great manager.
 You got this!
 ^_^
 //Antoni
-
-## Comments (1)
-
-### Lotta Hilmersson (--)
-> I feel like I'm sometimes a leader, sometimes a manager.  Could this depend upon the people around me?
-

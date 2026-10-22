@@ -11,7 +11,3 @@ article:
 ---
 
 Another fantastic opportunity on our team! Follow the link below to apply if you are interested.
-
-### Shared Article: [Logistics Manager - Warehouse, Transport, Import](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Guelph/Logistics-Manager---Warehouse--Transport--Import_R28362)
-> mars.wd3.myworkdayjobs.com
-

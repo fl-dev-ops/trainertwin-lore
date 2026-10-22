@@ -52,19 +52,3 @@ Hope you got some value here. If you did, remember to follow and hit the bell on
 Follow ➡ Daniele
  
  #itprofessionals #communicationcoach #englishtips
-
-### Shared Document: [How to avoid confusion when using adverbs in English]()
-
-
-## Comments (2)
-
-### Alessandra Finocchi (Service Improvement Lead)
-> Grazie Daniele!
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Great tips Daniele Ponzo )))
-> 
-> Adverbs can make or break clarity! 
-> 
-> Thanks for the valuable tips, Daniele.
-

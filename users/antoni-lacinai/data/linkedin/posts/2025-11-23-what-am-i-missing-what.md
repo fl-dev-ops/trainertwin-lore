@@ -18,12 +18,3 @@ Was it just a gimmick? Are they trying to be more efficient? Is the human staff 
 I feel that I lack the intelligence and foresight to understand. 
 
 What do you think?
-
-## Comments (2)
-
-### Thomas Erikson (International Keynote Speaker | Helping Leaders Reduce the Cost of Misunderstanding | 12M+ Books Sold | Leadership, Communication & Human Behaviour)
-> I hate those. And then it asks for some tip.
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> It's just a gimmick. It's fun once or twice, but then we want to be served by a human. For instance, take the QR codes that we are asked to order through in every second restaurant these days. To me, part of the joy of eating out is the interaction with the staff. That aspect is lost if I am redirected to a menu on my phone via a QR code. Utterly boring.
-

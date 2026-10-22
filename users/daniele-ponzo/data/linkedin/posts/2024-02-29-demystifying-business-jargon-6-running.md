@@ -5,6 +5,11 @@ url: https://www.linkedin.com/posts/daniele-ponzo_techjargon-businesscommunicati
 likes: 18
 comments: 10
 images_count: 1
+author_comments:
+- |-
+  📌Working in IT? Don't make my mistake:
+
+   https://www.linkedin.com/posts/daniele-ponzo-8548164_working-in-it-dont-make-my-mistake-activity-7171029586162499585-JH3A
 ---
 
 Demystifying business jargon #6: “🚩 Running It Up the Flagpole”.
@@ -51,24 +56,3 @@ Remember, decoding jargon is a step toward effective communication.
 👉 I’m curious: are you running any ideas up the flagpole now? Let me know in the comments.
 
 #TechJargon #BusinessCommunication #ITLeadership #RunItUpTheFlagpole
-
-## Comments (5)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Working in IT? Don't make my mistake:
-> 
->  https://www.linkedin.com/posts/daniele-ponzo-8548164_working-in-it-dont-make-my-mistake-activity-7171029586162499585-JH3A
-
-### Alan Forrest TEFL (I help international professionals speak English without fear in high-pressure situations. No excuses.)
-> Great post, Daniele. Did you run this idea for a post up a flagpole before you wrote it?
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> It's a funny expression, but useful nonetheless.
-> I didn't know about its origins, but I do know that '12 Angry Men' is a great film and highly recommend it.
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> "Decoding jargon is a step toward effective communication". How true Daniele - jargon is everywhere, we need to deal with it!
-
-### Lorena Ignazzi (I bring numbers, people and decisions together when a company grows, but choices and organization struggle to keep up | Strategic Advisor for B2B SMEs | 4R Strategy Impact Method)
-> Wow, gorgeous!😁👏👏
-

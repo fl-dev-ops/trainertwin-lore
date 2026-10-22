@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 05 Recap of Probability Theory Part 2
-
-## Transcript
-
 speaker_1: Welcome to this class uh in the course
 mathematical foundations of uh machine
 learning In this class we will

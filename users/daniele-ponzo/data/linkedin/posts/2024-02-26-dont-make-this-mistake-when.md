@@ -80,11 +80,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️ Daniele  .
  
  #english #Itprofessionals #languagetips
-
-## Comments (1)
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Loving the conceptual aspect of this post! Keep inspiring! 😇
-> .
-> P.S how's your day going?
-

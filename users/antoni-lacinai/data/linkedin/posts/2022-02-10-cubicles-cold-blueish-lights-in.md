@@ -16,9 +16,3 @@ These are valid questions. Some organizations I am helping are addressing them. 
 
 #hybridleadership #communication #engagement
 From my Hybrid Leadership challenge survey with 450 leaders from around the world.
-
-## Comments (1)
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Yes, that seem to be very relevant questions now, Antoni Lacinai. Tell me more about your survey! (Or, have I not paid attention enough to notice when you did? 😉)
-

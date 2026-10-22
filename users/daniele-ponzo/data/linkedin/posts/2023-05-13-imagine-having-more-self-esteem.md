@@ -23,7 +23,3 @@ Which zone are you in? Let me know below.
 #coaching #englishlearning #growth 
 
 https://lnkd.in/dFjG7CJh
-
-### Shared Article: [From Comfort Zone to Growth](https://www.fastercommunity.com/2022/02/from-comfort-zone-to-growth.html)
-> fastercommunity.com
-

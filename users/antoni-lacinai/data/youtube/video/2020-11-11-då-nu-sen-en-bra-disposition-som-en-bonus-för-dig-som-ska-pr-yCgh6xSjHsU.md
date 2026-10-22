@@ -13,11 +13,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Då Nu Sen - en bra disposition som en bonus för dig som ska presentera något med kort varsel
-
-## Transcript
-
 speaker_1: Nu ska du få en bonusdisposition som jag själv tycker mycket om Den är så enkel och den är så lätt att ta med sig när man till exempel blir överraskad överrumplad Du ska presentera nu Ska jag Ja det ska du Om fem minuter är det din tur om 15 minuter vad det nu kan vara
 
 

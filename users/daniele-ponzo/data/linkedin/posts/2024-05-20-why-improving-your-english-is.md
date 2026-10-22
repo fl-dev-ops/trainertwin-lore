@@ -63,33 +63,3 @@ Thanks for checking out this post. I share tips to help IT Professionals have mo
 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
 
 #LanguageLearning #ITProfessionals #ConfidenceBuilding
-
-## Comments (6)
-
-### Krina Gala (LinkedIn Branding for Boutique Consulting Firms → Get McKinsey-level visibility without McKinsey’s budget | DM “AUTHORITY” for a free audit)
-> Consistency helps you to grow!
-> 
-> Daniele Ponzo
-
-### Stuart Todd (A simple dev)
-> Thanks for the shoutout!
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> Thanks very much for the mention Daniele!! Great post!!
-> Consistency is key! As is reflection to understand the impact of our efforts...where we can see progress and what we still need to work on. 
-> Reflection is a simple activity...but its something a lot of us don't make time for, which is why we don't change or improve as effectively as we could.
-
-### Petar Ivanov (I help JavaScript devs think like architects in the AI era • React · Node · Architecture · System Design · Production AI • Senior AI Engineer • 100K+ Audience • Founder of petarivanov.tech)
-> Great tips, Daniele Ponzo! 🙌 
-> 
-> And thank you for the mention! 🙏
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> Appreciate the shoutout Daniele - appreciate your efforts on this important front.
-
-### Dora Vanourek (Executive Advisor for Senior Leaders Navigating a New Role | ex-IBM | ex-PwC | CPCC, Certified Transition Coach, ICF Credentialed Coach)
-> Thank you so much for the shout out, Daniele Ponzo 🙏
-> And for your tips on how to improve our skills.
-> 
-> PS l started learning English when I was 16 years old.
-

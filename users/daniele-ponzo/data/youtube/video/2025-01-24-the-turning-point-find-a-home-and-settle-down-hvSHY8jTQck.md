@@ -18,9 +18,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# The Turning point: Find a Home and Settle Down
-
-## Transcript
-
 speaker_1: I think if if we need to speak about a turning point the one turning point that I can really identify is now when we move to Italy because I think this was the moment where we very consciously decided now well stick it around you know this is this is not going to be one more of many moves you know this this is where we will stay for the foreseeable future You know if we can of course like it always depends you know what life throws at you but but uh but as long as we can choose wed like to stay here And I think that turning point for us was um also of course facilitated by the fact that after COVID a lot more readiness to working remotely has been opened no Like its been Ive always worked online as I mentioned earlier I worked with Latin America from South Africa and that was you know what 10 years ago now

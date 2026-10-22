@@ -40,12 +40,3 @@ Work is serious. Play is serious, too. Laugh. Have fun. Play.
 PS - Do you ever play at work? Do you have fun?
 
 Today I will meet 60 managers, where one of the company values is 𝗣𝗹𝗮𝘆 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿, I am gonna take their word for it, and we will play a communication game I call 1-2-3. If you read this, and you want to know what it is, I'll share it with you.
-
-## Comments (2)
-
-### Kim Martinez (Account Manager, Field sales, B2B)
-> I love to know about the game 1-2-3? 😄
-
-### Thomas Erikson (International Keynote Speaker | Helping Leaders Reduce the Cost of Misunderstanding | 12M+ Books Sold | Leadership, Communication & Human Behaviour)
-> Antoni Lacinai Great point. I often feel the difference when lecturing in English. "I don’t mean serious, I rather mean, well, serious." 😬😁
-

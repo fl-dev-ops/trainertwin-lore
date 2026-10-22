@@ -6,6 +6,8 @@ likes: 54
 comments: 6
 document:
   title: 6 common mistakes IT Pros make
+author_comments:
+- "\U0001F449 Want some help to navigate Business Language? Join me this Friday for a FREE live event: \nhttps://www.linkedin.com/posts/daniele-ponzo_live-mastering-the-language-of-business-activity-7299750164389355521-ULPN"
 ---
 
 6 common mistakes that keep IT professionals from communicating fluently in English.
@@ -37,21 +39,3 @@ Friday, 5 PM CET
 All info in the comments below
 
 Missing it would be... the worst mistake 😉
-
-### Shared Document: [6 common mistakes IT Pros make]()
-
-
-## Comments (3)
-
-### Vladan Ulardzic (Software Developer)
-> "Clarity."
-> 
-> Can you give any example from real project ?
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> I wholeheartedly agree with not talking tech talk or throwing acronyms around Daniele Ponzo! I appreciate this when working with tech people in EU funded projects now and, in the past,  I regularly advised speech and language therapists in training to speak in plain language to parents/relatives/carers of clients.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👉 Want some help to navigate Business Language? Join me this Friday for a FREE live event: 
-> https://www.linkedin.com/posts/daniele-ponzo_live-mastering-the-language-of-business-activity-7299750164389355521-ULPN
-

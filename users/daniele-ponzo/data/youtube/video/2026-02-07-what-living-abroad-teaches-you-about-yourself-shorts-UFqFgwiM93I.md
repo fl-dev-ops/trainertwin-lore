@@ -23,11 +23,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What Living Abroad Teaches You About Yourself #shorts
-
-## Transcript
-
 speaker_1: Its important Its an important thing to understand all things when you are traveling and working with teams
 
 speaker_2: Yes when working with international teams uh you have to be aware there are cultural differences because people sometimes only focus on the language but its not all You need to understand the different ways of working the different approaches to to the same time

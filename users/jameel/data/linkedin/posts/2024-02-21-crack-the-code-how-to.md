@@ -17,7 +17,3 @@ But wait, there's more! I also showcase how to tailor your resume for specific j
 Don't let your resume get lost in the digital shuffle – watch now and unlock the secrets to securing your dream job! 💼✨ #ResumeTips #AIBots #CareerAdvice #ATS #JobSearch #linkedinlearning 
 
 https://lnkd.in/eF9SeMJ2
-
-### Shared Article: [How to get your resume passed by AI BOTS & Application Tracking Systems - With a Real Life Example](https://youtu.be/dp9_UV4FGM0?si=D2jEu-HKPW8rAkwZ)
-> youtube.com
-

@@ -25,24 +25,3 @@ Hoppas att du gillar den. Det gör vi.
 https://lnkd.in/duEfk4Ku
 
 PS. Detta är bara ett av många fantastiska relationer och samarbeten jag upplevt genom att vara med i Talarföreningen NSA Sweden Om du föreläser eller modererar i ditt yrke så är du varmt välkommen in i värmen.
-
-### Shared Article: [Vi Ser Snön](https://open.spotify.com/album/2rYSlB6hFjEv4Te71tPKwU)
-
-
-## Comments (5)
-
-### SusAnne Maston (🌍 World improver | Serial entrepreneur | Sustainability initiator 🌎 Eco-tech investor working for a preservable Earth. It’s possible – let’s do it together.)
-> Tjoho va ni e goa! 🎄☃️❄️
-
-### Alicia Espinosa (★ Leadership from Within ★ From Knowing to Doing | Self-Leadership • Self-Leadership • Safety Culture • Leadership Coach • Speaker ★ Public Speaker (Spanish, Swedish, English) ★ TEDx Speaker)
-> Bästa förening❤️🎉❤️
-
-### Anders Backerholm (Helping customers and employees understand complex technology through storytelling, presentations, video and education.)
-> Trallvänligt! Jag gillart! ❤️
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Den där låten alltså:) och vår förening alltså🌟😘🙌
-
-### My Gross (Föreläsare och konsult inom försäljning och förändringsledning)
-> BÄSTA Jullåten! ❤️
-

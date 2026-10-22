@@ -23,20 +23,3 @@ I want to be more like the lions. When they run, they run. When they rest, they 
 Wish me luck in my strive for more immersive experiences, and I'll do the same for you.
 
 Thanks for reading my mind.
-
-## Comments (4)
-
-### Elias Kanaris (MInstD) (Fractional CEO | Transforming Customer Experiences | Not-for-Profit Advocate | International Leadership & Resilience Keynoter | Helping Leaders Lead)
-> So true. It's easy to get distracted by social media and other activities to lose sight of being in the moment.
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Bra bild!
-
-### Dainis Hirv (Sports fanatic. Obsessed with all things health, wellness and fitness.)
-> That reminds me of the following: If you are depressed you are living in the past. If you are anxious you live in the future. But if you are at peace you are in the present.
-> We are living in a time of upgraded technology and downgraded humans (translation: our collective ability to resist distraction and sustain attention is in decline).
-> Fingers crossed, Antoni Lacinai!
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Yes, Antoni, that's definitely worth some thought. Thank you for sharing - and good luck!
-

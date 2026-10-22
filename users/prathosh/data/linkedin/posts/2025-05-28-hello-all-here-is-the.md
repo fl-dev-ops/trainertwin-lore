@@ -14,7 +14,3 @@ article:
 Hello All,
 
 Here is the project page for our recently accepted ICML paper - https://lnkd.in/gzmtfbip
-
-### Shared Article: [LangDAug: Langevin Data Augmentation for Multi-Source Domain Generalization in Medical Image Segmentation](https://backpropagator.github.io/LangDAug/)
-> backpropagator.github.io
-

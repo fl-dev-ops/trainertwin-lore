@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Does Age Affect Language Learning? The Truth #shorts
-
-## Transcript
-
 speaker_1: So my English went from uh zero to three in three weeks because again I always say that um uh the younger you are the the faster you should get into learning languages because Yeah Im 46
 
 speaker_2: Yeah absolutely

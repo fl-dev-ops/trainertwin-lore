@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Non-Native Leader. Watch Episode 30 now! #shorts
-
-## Transcript
-
 speaker_1: So if you had to identify one single turning point right in your history there What what was it
 
 speaker_2: Turning points Uh I think uh meeting my my my girlfriend uh it was it was a big one Um it gave me confidence in a few things First is to speak to someone often uh and being with her traveling with her I discovered more of the country So I got to know what the UK is I visited many countries within three years I think I visited more than UK people themselves sometimes When I tell them where Ive been they they were like even I havent been to all those places And thats all because of her because she loves to travel and show me things around And especially having someone to talk to and deeply understanding the culture her family her parents Uh I think that was the major boost

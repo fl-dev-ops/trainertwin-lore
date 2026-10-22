@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Lec 14 - Deep Generative Models Knowledge distillation Transformers
-
-## Transcript
-
 speaker_1: Not yet
 
 speaker_2: So yeah so we will see that and well let us Ill tell you how people evolve to transformers and talk about transformers as well and then we can close Okay We have distillation also we plan on distillation

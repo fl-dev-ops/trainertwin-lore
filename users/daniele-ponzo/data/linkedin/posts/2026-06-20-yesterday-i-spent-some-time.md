@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_yesterday-i-spent-some-time-ex
 likes: 74
 comments: 14
 images_count: 1
+author_comments:
+- I had to wear my nerdiest t-shirt...
 ---
 
 Yesterday I spent some time explaining bugs to children.
@@ -75,27 +77,3 @@ Also, I can now officially add:
 to my list of professional achievements.
 
 Still waiting for LinkedIn to confirm whether this improves my credibility with software developers 🤷‍♂️ .
-
-## Comments (7)
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> How did I miss this? Love it mate. A Leafcutter Bee seems to have made a home in our wall. I'm very excited. Was watching it carry bits of leaf back all afternoon 😂
-
-### Marco Siniscalchi (Formulente - Formatore & Consulente per persone nel business. Facilitatore e guida nella trasformazione aziendale e nello sviluppo della consapevolezza, per un mindset utile per gestire le proprie scelte.)
-> Well done Daniele, better talk with children. They are open to listen, ask simple and useful question and give us a hope for a better future. 🤟🏼
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> Curiosity has a way of cutting through complexity. Children often ask the questions that adults stop asking, and those questions usually get to the heart of the topic.
-
-### Davy Shi 💡🚀🌎 (Founder | Managing Director | MBA, China Supply Chain Management, dedicated to delivering global consumer goods solutions and sourcing services. 🌎)
-> Love this—sometimes the best teaching happens when we remove complexity and return to curiosity. Daniele Ponzo And explaining ecosystems to children might actually be one of the purest tests of communication skills. 🌱🐞
-
-### Gydion Kummer (Lifestyle Freedom for Language Coaches | Build Your Language Business with Academy in a Box | Get the Skillset Inside 👉 Language Pros Community & Podcast 🎙)
-> A bug hotel. I've stayed in worse places.
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> It looks like a fabulous day ! Explaining things in simple language that people can understand is one of the hardest things to do Daniele Ponzo. In my role in a community energy cooperative, I spend a lot of time explaining to tech partners in EU funded projects that if they are to get people on board, they need to use more everyday language. This is especially tricky if you are using English as another language and went to the trouble of learning all the technical terms in English. I understand this as I had to try to work out how to explain speech and language difficulties to parents in plain language in both English and Irish.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> I had to wear my nerdiest t-shirt...
-

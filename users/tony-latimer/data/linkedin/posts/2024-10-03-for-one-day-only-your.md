@@ -15,9 +15,3 @@ I am offering six 45-minute coaching sessions, one to one, in return for a minim
 The booking website is now ⭐️ live⭐️ - it’s first come first serve! 
 Visit https://lnkd.in/dirW3VCM
  and type my name in the search bar to book with me.
-
-## Comments (1)
-
-### Cindi Wirawan 林幸妮 (LinkedIn Top Voice | I help leaders & brands get seen, trusted and chosen | Speaker & Corporate Trainer on career, leadership and LinkedIn branding | Executive Coach, PCC | Founder of Vibe Tribe)
-> What a great cause and an awesome use of your coaching skills to do good!
-

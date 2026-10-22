@@ -6,6 +6,8 @@ likes: 14
 comments: 8
 document:
   title: 8 typical business situations and how to handle them
+author_comments:
+- You might have seen a duplicate post. Apologies 🙏for that, I had some technical issues in the morning.
 ---
 
 8 typical business situations and how to handle them.
@@ -50,21 +52,3 @@ ____________
 Follow ➡  Daniele
 
 #itprofessionals #english #languageimprovement
-
-### Shared Document: [8 typical business situations and how to handle them]()
-
-
-## Comments (4)
-
-### Alan Forrest TEFL (I help international professionals speak English without fear in high-pressure situations. No excuses.)
-> Good, clear advice.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> You might have seen a duplicate post. Apologies 🙏for that, I had some technical issues in the morning.
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> I love how these examples provide specific phrases that IT professionals will need as they advance in the careers.
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Great resource (as usual) mate. I do like number 3!
-

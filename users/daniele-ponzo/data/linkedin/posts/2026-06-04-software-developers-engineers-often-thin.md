@@ -103,24 +103,3 @@ Inside, I explain:
 
 You can download it here:
 https://lnkd.in/dfAx4e9q
-
-## Comments (6)
-
-### Conor Clarke (I help technical experts move from reactive problem-solver to visible leader | Make important decisions sooner, protect time for higher-value work and become recognised for how you lead | Leadership & Career Coach)
-> Daniele Ponzo so true that simplicity beats complexity. Self-awareness is so important in the moment when we are communicating. To understand and know what we are thinking, feeling, the emotion we are experiencing and how strong that emotion is. It can be challenging and overwhelming at the time. I find going back to the basics of structuring what I want to say helps.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Absolutely true. Structured thinking makes communication so much easier to follow.
-
-### Victor Sankin (AI Systems | Robotics & Neural Networks Specialist | LinkedIn Visibility | Helping Founders Build Authority | Former Angel Investor)
-> Clear communication is often a thinking skill before it becomes a language skill. A simple structure can make even complex ideas easier to understand.
-
-### Muhammad Akif (We Turn Startup Ideas Into Scalable AI Products)
-> Communication at senior levels is often compression, not complexity distilling uncertainty into clear decisions and next steps creates far more impact.
-
-### Ellen Baker Dubois (Helping ESL Educators Conquer Large, Multilevel Classes | Scaffolded Business English Lessons & Team-Based Games | Founder of Business English Allure)
-> [Empty comment]
-
-### Ellen Baker Dubois (Helping ESL Educators Conquer Large, Multilevel Classes | Scaffolded Business English Lessons & Team-Based Games | Founder of Business English Allure)
-> Very helpful handout for business or technical English teachers. I especially liked these phrases. These ideas help even native speakers sound more like a confident leader. Some cultures are more reticent to give opinions directly and learners will need extra help to overcome this cultural bias for success in Anglophone meetings. I'm personally thinking of French and Japanese speakers.
-

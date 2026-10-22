@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Moving Abroad: Feeling Lonely and Out of Place. #podcast #globalskills
-
-## Transcript
-
 speaker_1: I would say those two and a half years were probably if not the most challenging one of the more challenging moments Yeah which is to start like getting getting it started basically
 
 speaker_2: Okay yeah sure when you first get there everything is so different from what you expect Absolutely And how were you feeling at the time So

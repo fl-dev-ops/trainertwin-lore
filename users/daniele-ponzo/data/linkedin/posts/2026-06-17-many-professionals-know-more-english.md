@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_many-professionals-know-more-e
 likes: 40
 comments: 11
 images_count: 1
+author_comments:
+- Thanks for reposting, Riccardo Massa! I'm glad you found it useful  🙂
 ---
 
 Many professionals know more English than they can actually use.
@@ -117,24 +119,3 @@ You're probably not failing.
 You're probably progressing.
 
 Which stage do you think you're in right now?
-
-## Comments (6)
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> Reflective competence, is that yours? I like that addition 👌
-
-### Ryan Alexander Wiens (Make your technical judgment impossible to overlook | Communication coach for senior international software engineers & tech leads | 1:1 coaching + team training)
-> I like to say that confidence comes from competence which comes from courage + practice + feedback
-
-### Nick Bussola (Founder of Oliver | Practice work meetings in English with AI mates ✨)
-> the most uncomfortable part is actually the breakthrough moment not a sign you’re failing
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting, Riccardo Massa! I'm glad you found it useful  🙂
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> Many professionals have the knowledge but lack enough real-world repetitions to apply it under pressure. Daniele Ponzo
-
-### Madhuraj Bangera (Lead Consultant at Virtusa (IT Infrastructure, Cloud & Digital Marketing))
-> A balanced commitment to work and life means honoring professional responsibilities while actively protecting your personal well-being and relationships. Achieving harmony requires setting intentional boundaries, managing your energy, and ensuring that your daily actions reflect your core values.
-

@@ -19,13 +19,3 @@ Det är frågor jag tar upp i min senaste krönika på @eventeffect som därmed 
 Vilka tankar får du? Håller du med? Vilken spaning lägger du till?
 
 #föreläsare #kommunikation #digitalamöten
-
-### Shared Article: [Antoni Lacinai: Den digitala ribban har höjts. Är du med? - eventeffect.se](https://bit.ly/3kurVq8)
-> bit.ly
-
-
-## Comments (1)
-
-### Göran Adlén (FRAMTIDSSTARK | Jag försöker förstå människan i en värld där allt förändras)
-> Jag är med 😉 Bra krönika i håller med helt!
-

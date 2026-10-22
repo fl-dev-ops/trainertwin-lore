@@ -5,6 +5,34 @@ url: https://www.linkedin.com/posts/daniele-ponzo_the-quickest-way-to-sound-more
 likes: 70
 comments: 14
 images_count: 1
+author_comments:
+- |-
+  If this post felt familiar, we’re going deeper into this topic in a live session this Friday 👇
+
+  We’ll talk about:
+  • why your mind goes blank in meetings
+  • how to reduce cognitive load in real time
+  • why clarity beats complexity in global teams
+  • and how AI is changing what makes developers valuable
+
+  You can join us here:
+  🔵 LinkedIn event (interactive):
+  https://www.linkedin.com/events/7439584728418140160
+
+  🔴 Live on YouTube:
+  https://www.youtube.com/live/OVy_uyh-yuo
+
+  If you’ve ever left a meeting thinking
+  “I knew exactly what I wanted to say…”
+  This one’s for you.
+- |-
+  ▶️ If pronunciation had version control:
+  v1.0 → com-FOR-ta-blev2.0 → 𝗖𝗢𝗠𝗙-ta-ble
+
+  Small patch.
+  Noticeable performance upgrade.
+
+  Which word would you “update” first?
 ---
 
 The quickest way to sound more senior in English?
@@ -132,55 +160,3 @@ Question:
 Have you ever felt your idea was strong but your delivery made it sound smaller than it was?
 
 Image credit: dadsaysjokes on IG
-
-## Comments (8)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> If this post felt familiar, we’re going deeper into this topic in a live session this Friday 👇
-> 
-> We’ll talk about:
-> • why your mind goes blank in meetings
-> • how to reduce cognitive load in real time
-> • why clarity beats complexity in global teams
-> • and how AI is changing what makes developers valuable
-> 
-> You can join us here:
-> 🔵 LinkedIn event (interactive):
-> https://www.linkedin.com/events/7439584728418140160
-> 
-> 🔴 Live on YouTube:
-> https://www.youtube.com/live/OVy_uyh-yuo
-> 
-> If you’ve ever left a meeting thinking
-> “I knew exactly what I wanted to say…”
-> This one’s for you.
-
-### Winny Tsania (Strategic Communicator | Multilingual Translator | Bridging Cultures Globally | 작가)
-> My brain: confused for 3 seconds.
-> Also my brain: okay, that’s actually funny 😂
-> This happens to me more often than I’d like to admit, Daniele Ponzo
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Clarity is often overlooked but critical, Daniele Ponzo. Precise pronunciation and rhythm let ideas carry weight; even the best thinking loses impact if listeners struggle to follow.
-
-### Vladan Ulardzic (Software Developer)
-> CFRMP
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Great point. Clear delivery often matters more than perfect vocabulary. Daniele Ponzo
-
-### Maria Cristina Andreoni (Affianco PMI, HR, manager e team nel migliorare collaborazione, decisioni, leadership, benessere e cultura organizzativa | Facilitazione & Formazione aziendale | Workshop esperienziali sulle soft skill)
-> Love the suggestions process, very useful Daniele🌻
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> “Com-for-tàble,” stressed on the A 🤣
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ▶️ If pronunciation had version control:
-> v1.0 → com-FOR-ta-blev2.0 → 𝗖𝗢𝗠𝗙-ta-ble
-> 
-> Small patch.
-> Noticeable performance upgrade.
-> 
-> Which word would you “update” first?
-

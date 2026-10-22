@@ -16,12 +16,3 @@ Jag fick äran att gästa den briljanta coachen Alexander Holmberg och hans pod 
 Tack Alexander för ett spännande samtal om viktiga ting som att skav är bra och sår är dåligt. 
 
 #kommunikation #ledarskap #pod
-
-### Shared Article: [21. Antoni Lacinai. Hur gör man för att.. ja vad blev det nu?](https://open.spotify.com/episode/5PqM9FxyEElmmVhVUHhZsS?fbclid=IwAR2tCpE4GUPjkz0ZUMdf9eKVXbRyvLjydYtY-JUXf3VIFYtHJUepAzTsd_c)
-
-
-## Comments (1)
-
-### Annika Telleus (Unleashing the Power of Listening - Keynote speaker, author, podcast host, facilitator, coach)
-> Ser fram emot att lyssna!
-

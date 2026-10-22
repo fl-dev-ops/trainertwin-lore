@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Big/Small tech firms firing associates ?? #shorts #amazon #google
-
-
-## Transcript
-
 speaker_1: See laying off can happen to anyone uh if if if Facebook and Microsoft can fire then anybody can fire
 
 speaker_2: Exactly

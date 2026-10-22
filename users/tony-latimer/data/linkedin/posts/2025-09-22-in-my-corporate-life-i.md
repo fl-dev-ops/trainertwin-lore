@@ -10,9 +10,3 @@ In my corporate life I remember the CEO and founder (of a software company I was
 His reply was that something is worth what someone is willing to pay for it. 
 
 Spot on I think.
-
-## Comments (1)
-
-### Mac Koh (Data Analyst at Mackoh Consultancy)
-> How do I make my employer pay more for my services ?
-

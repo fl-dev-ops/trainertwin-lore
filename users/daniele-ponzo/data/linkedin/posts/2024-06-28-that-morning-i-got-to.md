@@ -53,12 +53,3 @@ At the end of the working day, I was feeling like a zombie.
 It was 5PM but it felt like midnight to me.
 
 #officestories #internationalcareer #customers
-
-## Comments (2)
-
-### John Headstream (Helping IT Support Managers and Staff achieve greater effectiveness, job satisfaction & career advancement | Best practices to create enthusiastic customer experience | Over 30 years in IT Support)
-> True life experiences. No better teacher, despite the pain!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Nice story Daniele Ponzo - talk about a trial by fire! 🔥 But once you'd faced the worst, nothing else could faze you. 👏
-

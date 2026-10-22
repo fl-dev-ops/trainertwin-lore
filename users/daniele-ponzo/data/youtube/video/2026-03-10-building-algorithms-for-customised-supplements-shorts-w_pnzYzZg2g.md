@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Building Algorithms for Customised Supplements #shorts
-
-## Transcript
-
 speaker_1: we called artificial intelligence at the time We we were a seed startup it was not artificial intelligence
 
 speaker_2: You were ahead of the time In a way

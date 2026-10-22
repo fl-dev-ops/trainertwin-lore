@@ -6,6 +6,8 @@ likes: 18
 comments: 1
 document:
   title: 10 business expressions with TO
+author_comments:
+- Thanks for reposting Sushant Goralkar and helping in the fight against the grammar demon 👿🙂.
 ---
 
 The devil is in the details😈.
@@ -41,12 +43,3 @@ I hope you got some value here. If you did, remember to hit the 🔔 on my profi
 Follow ➡️Daniele
 
 #english #languageskills #businessenglish
-
-### Shared Document: [10 business expressions with TO]()
-
-
-## Comments (1)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting Sushant Goralkar and helping in the fight against the grammar demon 👿🙂.
-

@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 10 Adhyaya 43 to 54 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: श्रीशुक उवाच पितरा उपलब्धार्थौ विदित्वा पुरुषोत्तमः मा भूदिति निजान् मायान् तता न जनमोहिनीम्
 
 

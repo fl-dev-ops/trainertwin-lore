@@ -102,37 +102,3 @@ But spontaneous communication helps people connect with you.
 And that connection matters more than many professionals realize.
 
 𝗛𝗮𝘃𝗲 𝘆𝗼𝘂 𝗲𝘃𝗲𝗿 𝗳𝗲𝗹𝘁 𝗺𝗼𝗿𝗲 𝗻𝗲𝗿𝘃𝗼𝘂𝘀 𝗮𝗯𝗼𝘂𝘁 𝘀𝗺𝗮𝗹𝗹 𝘁𝗮𝗹𝗸 𝘁𝗵𝗮𝗻 𝘁𝗵𝗲 𝗮𝗰𝘁𝘂𝗮𝗹 𝗺𝗲𝗲𝘁𝗶𝗻𝗴?
-
-## Comments (9)
-
-### Melinda Ng (✨Ready to Grow Your Career Visibility, Strengthen Your Authentic Voice & Elevate Your Professional Value?✨I Help You Build a Better Career, & Become a Better Person Through Your Career! ✨)
-> This is such an insightful perspective Daniele Ponzo Building comfort in spontaneous conversations truly enhances collaboration and connection.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Technical English is often easier because the context is familiar. Casual conversations need a different kind of practice.
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Communication is an art. Its about expressing your thoughts clearly and getting your message across, not about speaking perfect English. At the end of the day, connection matters more than perfection.
-> 
-> 
-> Daniele Ponzo
-
-### Geargina T. (Too much noise in AI? I simplify that for you.)
-> Love this, small talk is where trust starts, so it's worth practising.
-
-### Manuel Barragan (I help organizations achieve a successful human-centric Digital Transformation by following a strict sequence: People/Culture, Process, Data, and Technology. The framework DTS uses is in my book.)
-> Technical expertise earns a seat at the table, but human connection helps your ideas gain influence. Organizations should treat communication confidence as a leadership capability, Daniele Ponzo.
-
-### Nidhi P. (Fractional CMO for B2B & D2C Brands | Founder, Adept Digitals (5 Yrs) | Ex-Software Developer to Marketing Strategist | SEO, Growth, Brand)
-> Spontaneous communication is a skill of its own, and technical fluency does not always translate into confidence in everyday conversations. 
-> Practising informal interactions in low-pressure settings can help professionals build stronger relationships and contribute more naturally in international teams.
-
-### Marcel Velica (Cybersecurity Strategy & Risk Leader | Fractional CISO & AI Governance Advisor | B2B Tech Brand Partner |)
-> Knowing English and speaking it confidently in real-time are two different skills. Consistent practice in everyday conversations is what bridges that gap and builds genuine confidence. Daniele Ponzo
-
-### Gadiel Margolin (Coach, Knockout English | Helping Senior Leaders close the gap between knowing the words and using them to command the room | 7+ Years Coaching Executives Worldwide | 100+ executives coached globally)
-> So true! Knowing a language and feeling confident using it spontaneously are two very different things. Sometimes, it’s the informal conversations that make the biggest difference in building genuine connections.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I have worked across different cultures, and I have seen how much business depends on conversations outside the formal meeting. Technical knowledge opens the door, but relationships help keep it open.
-

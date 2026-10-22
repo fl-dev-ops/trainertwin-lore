@@ -15,9 +15,3 @@ I am offering six 45-minute coaching sessions, one to one, in return for a minim
 The booking website is now ⭐️ live⭐️ - it’s first come first serve! 
 Visit https://lnkd.in/dirW3VCM
  and type my name in the search bar to book with me.
-
-## Comments (1)
-
-### Stan Ajemian (Hard Choices Coach | PCC | President ICF Colorado | Podcaster | Impact Storyteller)
-> Thank you, Tony, for your generous and amazing work!
-

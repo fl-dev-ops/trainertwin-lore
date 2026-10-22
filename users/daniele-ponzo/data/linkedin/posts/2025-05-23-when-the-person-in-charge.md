@@ -5,6 +5,20 @@ url: https://www.linkedin.com/posts/daniele-ponzo_when-the-person-in-charge-of-t
 likes: 47
 comments: 32
 images_count: 1
+author_comments:
+- Thanks Agnese Pietroselli for trusting me and for leaving such a great testimonial! I'm really proud we could collaborate 🙂
+- |-
+  ➡️ What stood out most during this project was how open and engaged the participants became over time.
+
+  Like many teams I’ve worked with, they started out a bit skeptical — not sure if the training would be just another box to tick.
+
+  But as soon as they realized the course was built around their real-world challenges and not abstract grammar rules, something shifted.
+
+  They leaned in. They practiced. They asked questions.
+
+  And by the end, they weren’t just more fluent — they were more confident.
+  That’s what good training does.
+  It doesn’t just teach. It transforms.
 ---
 
 When the person in charge of the training says: 
@@ -48,70 +62,3 @@ Because real transformation doesn’t happen through generic lessons.
 It happens when training is relevant, human, and built around how people actually work.
 
 P.S. if you think your team needs extra support on their communication skills, feel free to reach out. 📩
-
-## Comments (16)
-
-### Jean Ng 🟢 (AI Changemaker | Global Top 20 Creator in AI Safety & Tech Ethics | The AI Collective Leader, Kuala Lumpur Chapter)
-> Too often, training is generic and fails to address the specific needs of the participants. Your approach, focusing on real-world application and personalised feedback, is clearly effective. 
-> 
-> The result—a program manager recommending you personally—is the ultimate proof of the value you delivered. 
-> 
-> Daniele Ponzo, this is inspirational!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks Agnese Pietroselli for trusting me and for leaving such a great testimonial! I'm really proud we could collaborate 🙂
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> That's the power of helping people communicate! You are awesome Daniele!
-
-### Magda Scrobota, PMP, PMI-PMOCP, PSM (PMO manager | Program manager| PM services👉SCRUM|ITIL|6σBlackBelt|ServiceNow|Change|AI🎓 MSc. MA BSc.⌛FinTech|GDPR|PSD2|DORA|Cloud|ASPICE|French|Spanish🔧 Jira/Confluence/Clarity/Sustainability/Cybersecurity/Agile)
-> congrats Daniele Ponzo on such positive reviews ✨
-
-### Sarah Gruneisen 🐉 (Principal Consultant in Transformation: AI for Leaders and Products • Scaling engineering leaders, teams, and sustainable impact with AI • Leadership • Human-Centered Transformation)
-> What an amazing powerful testimony of your added value!
-
-### Michał Choiński (AI Quality, Governance & Risk | Driving meaningful Change | IT Lead | Digital and Agile Transformation | Speaker | Trainer | DevOps ambassador)
-> A great example of training that’s designed for outcomes, not just content delivery. Tailoring around real work scenarios and building psychological safety into the process makes a tangible difference, especially in global teams where clarity and confidence drive collaboration.
-
-### Silvia Fazi (CFO | Board Director | Energy & Renewables | Strategy, Transformation & Inclusive Leadership Executive)
-> Dear Daniele, I really love your teaching philosophy!
-
-### Sanjeev Thapa (3× Technical Founder | CTO at QUCOXX | Building the Agentic OS for SMEs growth execution)
-> Excellent work Daniele. Congrats.
-
-### Lola BAILEY (Own the problem you solve. Messaging strategist for L&D consultants and coaches.)
-> Congrats Daniele! 🎉
-
-### Adrian Stanek (Co-Founder @ https://www.linkedin.com/redir/invalid-link-page?url=pagebar%2esite | Platform & Community for Coaches, Creators, and Experts | Stoic Mentor)
-> It’s clear how much care and intention you put into the training, and it’s no surprise they saw such great results. Getting that kind of personal recommendation speaks volumes about both your skill and the trust you have built. Well done!
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Incredible work! 👏 Tailoring the training to real-world tasks and creating a safe, supportive environment clearly made a lasting impact. That kind of trust and recommendation speaks volumes.
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> This is a great achievement, Daniele.
-> 
-> Congratulations 🍾 🥂
-
-### Jonah C.C. Wu (Managing Director at Glocom | DBA | PCB Manufacturing & International Trade | AI-Driven Decision Making | Supply Chain Strategy)
-> Your approach to developing communication skills is truly inspiring, Daniele.
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> real impact, real change. Congratulations on making a difference that clearly resonated!
-
-### Stephen Farren (Helping educators create learning environments that are socially sustainable, inclusive and humane)
-> Take a bow sir 👏
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ What stood out most during this project was how open and engaged the participants became over time.
-> 
-> Like many teams I’ve worked with, they started out a bit skeptical — not sure if the training would be just another box to tick.
-> 
-> But as soon as they realized the course was built around their real-world challenges and not abstract grammar rules, something shifted.
-> 
-> They leaned in. They practiced. They asked questions.
-> 
-> And by the end, they weren’t just more fluent — they were more confident.
-> That’s what good training does.
-> It doesn’t just teach. It transforms.
-

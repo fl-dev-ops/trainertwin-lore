@@ -22,19 +22,3 @@ Do you signal stress and anxiety?
 Do you have people around you who does?
 
 #leadership #engagement #communication
-
-### Shared Article: [Make Yourself Immune to Secondhand Stress](https://buff.ly/3vBvRKE)
-> hbr.org
-
-
-## Comments (3)
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> Insightful article!! Using neuroplasticity to overcome mirror neurons.
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> I know this, but still I fault from time to time. On the other hand I always look for actions and opportunities to make myself and others happy 😃
-
-### Mia Anderberg (Sales | Predictive Maintenance | Recruitment | Art)
-> Very, very interesting Antoni Lacinai . Thank you 🙏
-

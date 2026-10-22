@@ -54,21 +54,3 @@ Listen to the song here: https://lnkd.in/ds6DjCAS
 Hope you're all having some time for yourselves this Summer!
  
  #summer #inspiration #slowingdown
-
-## Comments (5)
-
-### Omar Halabieh (Managing VP, Tech @ Capital One | Follow for weekly writing on leadership and career)
-> Enjoy it Daniele
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Define "sea" 🤔🤓
-
-### Americo Da Costa (Social Media Strategist & Content Creator Helping Build Visibilty Through Livestreams & Podcasts. 🎤🎧)
-> Proud of you!, slowing down to recharge is absolutely necessary for our mental health.  Everything will be right where you left it. Enjoy
-
-### Lilita Alute (Witch 🖤 | Spiritual Guide in Life Transitions)
-> Have a great breath in from these days, Daniele :)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> Sweet enjoy ☺️
-

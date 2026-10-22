@@ -56,15 +56,3 @@ What’s one skill you’re stubbornly working on right now? Drop it in the comm
 
 P.S. Are you ready to stop wasting time & start making progress?
 Send me a DM and I'll ask a couple of questions to see if I can help you
-
-## Comments (3)
-
-### Pauline H. (English Communication Coach for Animal & Health Professionals | Former CEO | Feline Health/Behaviour Writer | Speak & Present with Authority through the Intuitive English Method)
-> Stubbornness isn’t always resistance to change - it can be the persistence to grow. Real progress comes from showing up, even when it’s hard. Keep pushing forward, and the breakthroughs will follow!
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Consistency and persistence are everything! Stubbornness, when used right, fuels real growth. Great insights! 🔥👏
-
-### Harit Bhasin (Leadership & Career Coach • AI Head Product Management • Helping tech leaders get promoted with influence & presence • Follow for leadership & career growth tips. Views are personal.)
-> Absolutely agree! Stubborn perseverance is the backbone of personal growth.
-

@@ -17,6 +17,3 @@ This was the outcome of my summer visit at Fujitsu Research India.
 Congratulations to my Co-authors - Jay Nandy Arnab Mondal Manohar Kaul. 
 
 Shahla Sultana Mahesh Chandran, PhD. Indian Institute of Science (IISc) EECS @ IISc, Bengaluru
-
-### Shared Document: [TGCL_TMLR]()
-

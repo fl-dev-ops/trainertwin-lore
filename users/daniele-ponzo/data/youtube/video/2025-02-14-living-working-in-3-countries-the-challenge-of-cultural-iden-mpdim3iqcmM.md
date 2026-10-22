@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Living & Working in 3 Countries—The Challenge of Cultural Identity
-
-## Transcript
-
 speaker_1: but youre not German obviously And uh where are you from
 
 speaker_2: Yeah Im Im from Brazil I grew up in Rio de Janeiro And uh yeah Ive been in Europe for 20 years My mom is is comes from a German family And uh so I like German culture and language is not completely new for me I remember my grandmother you know when she was upset she immediately turned to German

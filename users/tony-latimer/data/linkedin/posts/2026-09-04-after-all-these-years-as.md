@@ -28,7 +28,3 @@ If you would like to try it, just complete the Coaching Mastery Profile and then
 To your coaching success
 Tony
 https://lnkd.in/ggTYg4MK
-
-### Shared Article: [How Close Is Your Coaching to Mastery? | Free 7-Minute Profile](https://coachingmasteryprofile.scoreapp.com)
-> coachingmasteryprofile.scoreapp.com
-

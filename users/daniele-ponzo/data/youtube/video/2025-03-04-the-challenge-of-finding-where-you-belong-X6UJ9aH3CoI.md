@@ -35,11 +35,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Challenge of Finding Where You Belong
-
-## Transcript
-
 speaker_1: Um so if you had to think like what what has been the main challenge for you in your international experience
 
 speaker_2: The my main challenge Um I think I think it sometimes finding that sense of belonging has been challenged sometimes right So um and I I dont think it has I think language is a is part of it but like its about culture right So um I Im very interested you know I love you know exchanging culture and uh you know and uh have working in a in a in a very international environment is very is a lot of fun right But sometimes you miss that you know that comfort of your own language and culture and and um that yeah and that that has sometimes challenged Its quite challenged right

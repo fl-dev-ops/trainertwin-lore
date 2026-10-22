@@ -31,12 +31,3 @@ Det visar sig också att empatiska människor anses mer karismatiska. Bara en s�
 
 Denna morgon träffar jag ledarna inom handeln och pratar arbetsglädje och kommunikation. Det ska bli kul ^_^
 Tack Josefin Ahlgren  och MySpeaker Sweden  för fint samarbete 😃
-
-## Comments (2)
-
-### Anette Brink (Human Power - utvecklar människor människor utvecklar företagen Vi skapar utrymme, nya perspektiv, återhämtning på Paliesius Herrgård i Litauen. Personliga Reboot-program och skräddarsydda konferenser)
-> Klok kunskap 🙏
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Bra inlägg. Så viktig påminnelse.  Inte bara om empati i allmänhet utan också om orsaker till vad som förstör empatin och vad som hjälper. Tack!
-

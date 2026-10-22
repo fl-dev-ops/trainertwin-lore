@@ -64,25 +64,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
 #LanguageLearning #english #internationalcareer
-
-## Comments (3)
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> Such a great story Daniele ))
-> 
-> Hands-on learning and mentorship are invaluable.
-> 
-> Formal education isn't the only path.
-> 
-> And celebrating wins boosts motivation.
-
-### Gabriele Marini (CTO at Data Rover | Vice President at MAASI Enterprises | Co-founder | Entrepreneur)
-> Daniele Ponzo, your emphasis on "reversing the order" really resonates: it's so easy to get trapped in the cycle of waiting for the next certification, degree or something else before taking action. It's a trap and you get stuck... Your advice to just start, learn by doing, and practice relentlessly is very important.
-> I think that finding a mentor and taking those steps early on can truly make all the difference.
-> Thanks for sharing your journey!
-
-### Lisa F. (Organizational Development & Learning | Prosci Certified Change Practitioner | Workday Talent Enablement | Talent & Performance Management)
-> So true, Daniele Ponzo . The "when I get my ..." goal-setting is a trap because it doesn't actually make you more ready. Personally, I've learned it's my way of procrastinating when I'm feeling unsure or nervous about taking the leap.
-> 
-> The doing is a lot more impactful than the getting.
-

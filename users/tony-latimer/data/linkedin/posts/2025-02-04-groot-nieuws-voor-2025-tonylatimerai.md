@@ -31,7 +31,3 @@ Stel je voor dat je toegang hebt tot de volledige database van Profitable Leade
 Laten we van 2025 het jaar maken van groei en zelfverzekerd leiderschap! 🎯
 
 #Leiderschapsontwikkeling #PeopleManagers #AI #CoachingTools #Mentorschap
-
-### Shared Article: [TonyLatimer.ai: On-demand Leadership Mentoring & Training](https://profitableleadership.com/ai)
-> profitableleadership.com
-

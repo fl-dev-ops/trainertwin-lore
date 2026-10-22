@@ -38,7 +38,3 @@ https://lnkd.in/en-akVad
  #ProcessManagement
 #businessacumen
 https://lnkd.in/en-akVad
-
-### Shared Article: [Soft Skills Model - FOR ALL PROFESSIONS](https://youtu.be/91IEKTn6UpM)
-> youtu.be
-

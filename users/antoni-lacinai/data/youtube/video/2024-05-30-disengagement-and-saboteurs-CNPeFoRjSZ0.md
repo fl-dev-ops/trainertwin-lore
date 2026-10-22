@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Disengagement and saboteurs
-
-## Transcript
-
 speaker_1: Those are the saboteurs in any company Those are the one who trash talk you behind your back or in front of your face and and they steal toilet paper because they didnt get a race or or they you know those are the one who go up to the whiteboard start to draw and the pen doesnt work and they put the bloody pen back You know which one I mean
 
 

@@ -27,6 +27,3 @@ Abhinandanani to all my coauthors and collaborators Manoj Balaji J Samarth Bhati
 Paper is attached for interested readers.
 
 #llms #poetry #genai #publication
-
-### Shared Document: [EACL]()
-

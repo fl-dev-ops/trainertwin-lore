@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_not-all-tech-events-are-cold-a
 likes: 32
 comments: 10
 images_count: 1
+author_comments:
+- 🦖 I went dinosaur-watching everywhere ...
 ---
 
 Not all tech events are cold and robotic.
@@ -39,30 +41,3 @@ So, thanks Codemotion for welcoming me!
 
 What’s the last event, book or experience that surprised you in a good way?
 Drop it below... I’m always looking for inspiration.
-
-## Comments (5)
-
-### Donna Maravillas (CELTA & TEFL Certified English Language Teacher, Speaking Examiner, Writer of two English Activity books for children, a Teacher Volunteer at Yazidi@School)
-> 💯 Excellent
-
-### Aline Bertrand 🗣️🇬🇧 (Tu n’apprends plus l’anglais. Tu le parles, sans stress.)
-> This is amazing! Congratulations 👏🏻🎉  
-> I really admire people who never stop learning. I'd have joined you at this event even though I’m not in tech. (Believe it or not, many years ago, some people dared to tell me tech isn’t for women! 😱)
-> 
-> Anyway, I think you already know this, but a few weeks ago I participated in the Spartan Race with my husband. I won my first medal ever! (I only had certificates before, never an actual prize haha.)
-> 
->  It was invigorating to connect with people who share the same goal, and of course my husband, finishing the race and the obstacles. 
-> 
-> I also learned that even when you’re nervous, doing something outside your comfort zone can do wonders for your confidence and self-esteem. 
-> 
-> You should watch Dino Dana with your son. My daughter loves it 🦖
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Love this! Tech with heart and creativity is the best kind. Codemotion sounds like an amazing blend of learning, connection, and fun, especially with dinosaurs involved! 🔥
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> I think every tech event should come with a dino now. Adds to the Jurassic-level fun. 🦖
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 🦖 I went dinosaur-watching everywhere ...
-

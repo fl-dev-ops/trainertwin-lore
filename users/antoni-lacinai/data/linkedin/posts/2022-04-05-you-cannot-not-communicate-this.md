@@ -18,9 +18,3 @@ What did they communicate?
 Think about it.
 
 #leadership #communication #engagement
-
-## Comments (1)
-
-### ✨Anna Jois✨ (Ska DITT företag FIRA? Boka The Anna Jois Experience™ | Internationell artist för företagsevent | Publikrekord: 8000 pers. LET’S GO!)
-> Så bra! Kommunikation är allt vi gör. Och kommunicerar vi inte till andra så kommunicerar vi till oss själva. 😊👌 Vi behöver bara träna på att bli bra på det för att nå framgång.
-

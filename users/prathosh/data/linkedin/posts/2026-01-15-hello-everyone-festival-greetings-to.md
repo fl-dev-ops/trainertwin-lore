@@ -35,7 +35,3 @@ Here is the NPTEL registration link in case anyone wants to register - https://l
 Indian Institute of Science (IISc) EECS @ IISc, Bengaluru LatentForce NPTEL SWAYAM–NPTEL | IIT Kanpur
 
 #AIML #course #machinelearning #deeplearning
-
-### Shared Article: [Mathematical Foundations of Machine Learning](https://youtube.com/playlist?list=PLgMDNELGJ1Cay-Q9Cn8KcpUcC58NDWuiu&si=MbmBUR5YrZhHNew6)
-> youtube.com
-

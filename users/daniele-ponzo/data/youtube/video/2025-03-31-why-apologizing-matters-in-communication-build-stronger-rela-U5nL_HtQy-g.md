@@ -18,11 +18,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Apologizing Matters in Communication | Build Stronger Relationships
-
-## Transcript
-
 speaker_1: I am making an effort to speak in your language So give me a break You know
 
 speaker_2: Yes You know Yes Yes Im out here Yeah I love this I love it And yes this is this is it This is like mindset at play Yeah

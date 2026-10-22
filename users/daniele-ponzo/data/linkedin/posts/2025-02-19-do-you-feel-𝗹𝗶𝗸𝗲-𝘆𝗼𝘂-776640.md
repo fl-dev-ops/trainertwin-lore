@@ -5,6 +5,17 @@ url: https://www.linkedin.com/posts/daniele-ponzo_do-you-feel-%F0%9D%97%B9%F0%9D
 likes: 40
 comments: 20
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHKC8G4KKJqYg/mp4-720p-30fp-crf28/B4DZUdBRuKHIBw-/0/1739948637944?e=1793178000&v=beta&t=QK9tyALsH9t_jvgdU-_TqJDmqg4zMIpzIORVam3gpQw
+author_comments:
+- |-
+  ➡️ What's the main communication problem for Professionals?
+  https://www.linkedin.com/posts/daniele-ponzo_you-know-improving-your-english-will-boost-activity-7298233934008512514-j67F
+- '👉How do we create logical flow? Watch my short video to learn more: https://youtu.be/VWQQTZdfZJE?si=OBK4CFf-CeguqV5a'
+- |-
+  📌 Getting better at speaking is often a paradox:
+  we need to slow down so we can get there faster (and better)
+  we need to simplify, so we can add more complexity
+  we need to break everything down into smaller pieces, so we get a seamless flow.
+  Which is harder for you?
 ---
 
 Do you feel 𝗹𝗶𝗸𝗲 𝘆𝗼𝘂 𝗴𝗲𝘁 𝗹𝗼𝘀𝘁 in international meetings at work?
@@ -61,47 +72,3 @@ ___________
 
 Hi, I'm Daniele. I help Non-Native IT professionals speak English 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐭𝐥𝐲 in work settings without fear of judgment or anxiety – with personalized 𝐜𝐨𝐚𝐜𝐡𝐢𝐧𝐠 and mindset training. 
 If this is your thing, then, let's connect 😉
-
-## Comments (10)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> ➡️ What's the main communication problem for Professionals?
-> https://www.linkedin.com/posts/daniele-ponzo_you-know-improving-your-english-will-boost-activity-7298233934008512514-j67F
-
-### Pauline H. (English Communication Coach for Animal & Health Professionals | Former CEO | Feline Health/Behaviour Writer | Speak & Present with Authority through the Intuitive English Method)
-> So true Daniele Ponzo!
-> 
-> It’s not just about fluency—it’s about having the confidence to navigate complex conversations in real time.
-> 
-> So many talented professionals know their stuff but feel stuck when it comes to expressing their ideas clearly in high-stakes meetings. And as you say, the good news is that confidence in Business English is a skill that can be developed.
-> 
-> With the right strategies, you can speak up, be heard, and lead discussions with ease. Thanks for sharing the insights! 👍
-
-### Xhoni Mimillari (The Last LinkedIn Expert You’ll Ever Need / and the guy you hire to win $10K-$50K clients - Founder & Investor.)
-> If tech pros can debug complex systems, they sure can debug their own communication skills. Solid work man 👏
-
-### Sama Alkhalili (Customer Success & Client Retention Specialist | Executive Communication & Enablement | 10+ Years Building Retention & Onboarding Programs | EN·AR·FR·IT)
-> Really like this point: "It’s not just fluency, it’s confidence in complex spoken situations." I’ve seen this so often. Confidence isn’t something we’re born with, it’s a mental quality that we can develop, and a shift really happens when we realize that confidence isn’t the cause of action, it’s the result of it.
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Confidence in meetings is just as important as technical skills. Clear communication can make all the difference in career growth. 👏
-
-### Harit Bhasin (Leadership & Career Coach • AI Head Product Management • Helping tech leaders get promoted with influence & presence • Follow for leadership & career growth tips. Views are personal.)
-> Great insights, Daniele! Mastering communication can truly elevate our professional presence.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 👉How do we create logical flow? Watch my short video to learn more: https://youtu.be/VWQQTZdfZJE?si=OBK4CFf-CeguqV5a
-
-### Ritika Gupta (Professional Blogger | Content Writer | Motivation & Mindfulness | Blog Writing, Ghostwriting & LinkedIn Content | LinkedIn Top Voice in Writing)
-> Daniele Ponzo Thanks for sharing, Daniele! Your coaching program sounds incredibly valuable for IT professionals struggling with confidence in spoken English. Helping them articulate their ideas clearly and lead discussions effectively is a game-changer. Keep up the great work!
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> The ability to speak clearly under pressure could make all the difference in leading discussions. Daniele Ponzo
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Getting better at speaking is often a paradox:
-> we need to slow down so we can get there faster (and better)
-> we need to simplify, so we can add more complexity
-> we need to break everything down into smaller pieces, so we get a seamless flow.
-> Which is harder for you?
-

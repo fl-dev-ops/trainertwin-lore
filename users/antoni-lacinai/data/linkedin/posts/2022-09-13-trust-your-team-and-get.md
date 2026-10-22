@@ -17,12 +17,3 @@ You got this!
 ^_^
 
 #leadership #communication #engagement #goalsetting
-
-## Comments (2)
-
-### Maruška Letica (Creating Talent Acquisition Solutions @MOL Group)
-> This is a great idea Antoni, very clever way of reframing the goal setting framework
-
-### Stefan Barklund (Strategic leader who builds teams, transforms visions into reality, and creates sustainable customer value within sales and property development)
-> So very true and spot on! 👏👊🏻
-

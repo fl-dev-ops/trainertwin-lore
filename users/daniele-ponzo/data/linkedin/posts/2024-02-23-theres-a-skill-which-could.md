@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_nonnativeleader-internationalc
 likes: 10
 comments: 7
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFBdk6mGE92aQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1708531378147?e=1793178000&v=beta&t=xfo7FoeKWwPm0qnfQ-5PG0Ll45bF_ki02ztIBlgUoqA
+author_comments:
+- "\U0001F4CCWorking in IT? Don't make my mistake: \n\nhttps://www.linkedin.com/posts/daniele-ponzo-8548164_working-in-it-dont-make-my-mistake-activity-7171029586162499585-JH3A"
 ---
 
 There’s a Skill which could be a Game Changer for Software Engineers.
@@ -29,22 +31,3 @@ P.P.S. Don't miss any episodes. Hit that "Follow" 🔔 button to stay in the loo
 Follow ➡ Daniele
   
  #NonNativeLeader #InternationalCareer #SuccessStories #inspiration
-
-## Comments (4)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Working in IT? Don't make my mistake: 
-> 
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_working-in-it-dont-make-my-mistake-activity-7171029586162499585-JH3A
-
-### Pavel Polcr (Software Engineer | Storyteller | LinkedIn Enthusiast and Mentor | I help other techies build a personal brand on LinkedIn | Fuelling growth of software engineers through Software Engineering Tales Podcast)
-> Looking forward Daniele!
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Insightful share! Your perspective adds tremendous value to the ongoing conversation.
-> 
-> Engaging content like this fuels continuous learning and growth. Thanks for sharing! 😇
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> I like this journey Daniele Ponzo, it's really inspiring!
-

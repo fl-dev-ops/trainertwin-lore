@@ -12,7 +12,3 @@ article:
 ---
 
 #ai #learning #leadership
-
-### Shared Article: [What do you do if your leadership skills are not keeping up with the rapidly changing business landscape?](https://www.linkedin.com/advice/0/what-do-you-your-leadership-skills-keeping-up-gwsvf?trackingId=C%2FBviYr9piLdrnupSh5Uaw%3D%3D)
-> Executive Coaching
-

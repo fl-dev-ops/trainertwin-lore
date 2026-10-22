@@ -13,7 +13,3 @@ article:
 In this video I have covered 5 tips and one BONUS tip on how to improve networking on Linked In. Networking is a key aspect of professional growth and development and Linked In is the number one platform in the world for this. 
 
 https://lnkd.in/eGPrYXMV #linkedin #networking #development #video #growth #softskillstraining #career #jobtips #networkingonline #network #networker
-
-### Shared Article: [How To Improve NETWORKING On LINKED IN](https://youtu.be/wDXpDWEuGCY)
-> youtube.com
-

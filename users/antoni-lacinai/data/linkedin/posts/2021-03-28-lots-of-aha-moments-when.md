@@ -15,12 +15,3 @@ I have seen that play out. Very demotivating.
 Do you have HIPPOs in your organization?
 
 #communication #leadership #bias
-
-## Comments (2)
-
-### Rachel Audigé (Director of Systematic Inventive Thinking ® (SIT) in ANZ | Innovation on demand: Helping organisations find new possibilities in what they already have.)
-> Thanks Antoni Lacinai. Most of us have been subjecte to this one. ‘probably the least unconscious of the biases in the book!
-
-### David 📲 Eriksson (.NET, Nordray)
-> 🦛
-

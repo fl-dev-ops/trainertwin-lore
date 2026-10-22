@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Find Your Voice in a New Language #shorts
-
-## Transcript
-
 speaker_1: And yeah you can try to fake it but I dont think its its valuable because eventually youre going to be somewhere else someone you dont want to be really
 
 speaker_2: Mhm

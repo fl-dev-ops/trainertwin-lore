@@ -18,7 +18,3 @@ Trots att ordet betyder gudabenådad gåva, så kan du öva upp din karisma. Bra
 Känner du någon som är karismatisk? Hur gör de?
 
 https://lnkd.in/dQ4eZc82
-
-### Shared Article: [Expertens tips: Så övar du upp din karisma | Nyhetsmorgon | TV4 & TV4 Play](http://youtube.com/watch?time_continue=5&v=1wVdx3syBzY&embeds_referring_euri=https%3A%2F%2Fantonilacinai.se%2F&source_ve_path=Mjg2NjY&themeRefresh=1)
-> youtube.com
-

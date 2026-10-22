@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-meetin
 likes: 14
 comments: 5
 images_count: 1
+author_comments:
+- "\U0001F4CCWorking in IT? Don't make my mistake: \n\nhttps://www.linkedin.com/posts/daniele-ponzo-8548164_working-in-it-dont-make-my-mistake-activity-7171029586162499585-JH3A"
 ---
 
 Why you're not getting heard in your meetings + what to do to fix it.
@@ -67,17 +69,3 @@ Useful? Remember to hit the 🔔 on my profile.
 Follow ➡️Daniele.
  
 #english #Itprofessionals #meetings
-
-## Comments (3)
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌Working in IT? Don't make my mistake: 
-> 
-> https://www.linkedin.com/posts/daniele-ponzo-8548164_working-in-it-dont-make-my-mistake-activity-7171029586162499585-JH3A
-
-### Lisa F. (Organizational Development & Learning | Prosci Certified Change Practitioner | Workday Talent Enablement | Talent & Performance Management)
-> These are great Daniele Ponzo! I'm a big fan of "If I were you, I'd".. It's a gentle way to give advice while putting yourself in the other person's shoes.
-
-### Giorgin Serbanescu (Natural Wellness Guide | Essential Oil Solutions for Daily Wellbeing | Resilience Facilitator)
-> It would be interesting to understand whether those who lead the company, are people who are inclined to listening. Daniele Ponzo
-

@@ -14,10 +14,6 @@ speakers:
   speaker_4: null
 ---
 
-# Deep Generative Models Tutorial Probability theory
-
-## Transcript
-
 speaker_1: You know
 
 

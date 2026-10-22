@@ -11,10 +11,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# This 6-Digit Code Rules Global Trade (And Most Pros Get It Wrong!)
-
-
-## Transcript
-
 speaker_1: Now what is an HS code HS code basically stands for harmonized systems code These HS codes were developed by World Customs Union around in I think in 1988 and the idea was that if different countries are trading how do they create a common language between them For example in this case 09 stands for coffee tea so second two digits are 01 in this case which then basically zooms into okay this is just coffee Third number after the dots is 12 which is the subheading which is basically saying that this product is coffee but its not roasted coffee so then you have got the next two digits which is zero zero which is the tariff rate lines in this case it shows its decaffeinated and then finally youve got the statistical suffix which is 15 which shows its a certified organic coffee

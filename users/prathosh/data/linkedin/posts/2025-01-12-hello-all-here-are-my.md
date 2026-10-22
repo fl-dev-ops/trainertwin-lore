@@ -19,7 +19,3 @@ https://lnkd.in/gDd8Bktz
 Let me know your thoughts. 
 
 Prathosh
-
-### Shared Article: [A quick course in Veda | Dr. Pratosh Madhava](https://youtu.be/BgxinbQg01w?si=q9fMd03EB5qrVs5A)
-> youtube.com
-

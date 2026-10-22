@@ -19,9 +19,3 @@ When I stopped focusing only on grammar and started thinking about communication
 English for Tech Professionals Communication That Gets You Promoted. Watch the full speech here: https://lnkd.in/dgfZGdh8
 
 #EnglishForTech #CareerGrowth #CommunicationSkills
-
-## Comments (1)
-
-### Thomas Hoon (🌏 13+ Years Inside China | Helping Businesses Enter, Navigate & Grow Across China, GBA & ASEAN | Cultural & Tourism Ambassador, Nansha · Guangzhou · GBA | Founder & CEO, Nexus Alliance)
-> Someone can have perfect grammar and still struggle to communicate an idea clearly. Communication is much bigger than language.
-

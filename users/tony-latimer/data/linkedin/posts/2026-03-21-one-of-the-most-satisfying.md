@@ -13,9 +13,3 @@ He realises most of what people call sales process is just a series of conversat
 
 Coaches are often excellent at the conversation, they just haven’t treated the conversation as business development.
 Available on Amazon & Kindle
-
-## Comments (1)
-
-### Joyeeta Sinha (Founder @ Oh!SoBooked | Predictable LinkedIn pipeline & presence for B2B & AI founders)
-> Very true Tony I watched a coach spend six months learning funnels and frameworks when they already knew how to ask questions that land.
-

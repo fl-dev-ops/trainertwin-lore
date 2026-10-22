@@ -16,13 +16,3 @@ Med fokus på alla former av inre och yttre ledarskap
 Varje vecka är det ett nytt tema. I morgon har vi landat i det Coachande ledarskapet
 
 Varmt välkommen!
-
-### Shared Article: [Tisdagsklubben- vad är ledarskap för dig? - Tisdagsklubben](https://buff.ly/2Q2kQ5Q)
-> buff.ly
-
-
-## Comments (1)
-
-### Marcus Sandberg (Säljare)
-> Vad spännande ❤️🙏
-

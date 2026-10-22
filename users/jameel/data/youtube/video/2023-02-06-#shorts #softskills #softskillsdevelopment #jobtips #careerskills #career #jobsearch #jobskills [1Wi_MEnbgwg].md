@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #shorts #softskills #softskillsdevelopment #jobtips #careerskills #career #jobsearch #jobskills
-
-
-## Transcript
-
 speaker_1: Hello friends and welcome to another episode of the soft skills channel and today we will talk about the nervousness and anxiety that you get before a senior leadership or management meeting Its absolutely natural to get butterflies in your stomach or get nervous or anxious before your meeting with the top management because you dont know you know what questions they are going to ask you know how will I be treated I hope they dont just start attacking me so all these feelings are absolutely natural and in this video I will share with you five things you can do to overcome that feeling of nervousness and really get confident before your next leadership meeting My name is Jamil Hai and Ive been working in the corporate sector for the last 19 years and my passion is to help you build real life skills for your job and career that they dont teach you in college

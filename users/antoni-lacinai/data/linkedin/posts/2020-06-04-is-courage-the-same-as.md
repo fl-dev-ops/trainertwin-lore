@@ -21,22 +21,3 @@ What is better in your book? Being brave or naive?
 #virtualspeaker #leadership #communication #onlineconference 
 
 https://lnkd.in/eRvXUhD
-
-### Shared Article: [A story about courage](https://vimeo.com/425760553)
-> vimeo.com
-
-
-## Comments (4)
-
-### Utkarsha Mehta (Supply Chain & Operations Strategist | Designing Resilient Systems for Competitive Advantage | Driving 7 Figure Savings | GSM | Supply Chain Analyst IV @Meta)
-> Both being brave and being naive is better depending upon circumstances.
-
-### Lauri Sallantaus (Global PR Manager at Marimekko | Board Member at Finland Promotion Board)
-> Thank you Antoni for a very inspiring speech! It's crazy how your energy translates just as well on screen as on a live-stage!
-
-### Karin Klerfelt (| 🌟Expert på förhandling & sälj | Hjälper företag att ta bättre betalt och vinna fler affärer. Boka föreläsning eller kurs, få insikter som gör skillnad, både på jobbet och i livet. Slå en signal 0707-41 41 03.)
-> Bravo!🌟
-
-### Jan Tern, CSP (Everything starts with an idea, I help you create better ideas)
-> I think being naive can sometimes be good. There are things in my life that I wouldn't have started, ... and completed (well not all but anyway :-)) if I hadn't been naive. To me being naive can mean that you have a "How hard can it be"-attitude and you start. Down the road, you realize that it's harder than you anticipated but since you're on your way you find ways to handle these obstacles.
-

@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# What Happens When You Work Internationally #shorts
-
-## Transcript
-
 speaker_1: leaving the comfort zone starting doing something completely different somewhere completely different So what about identity What part of your identity had to change to adapt and grow in an international environment
 
 speaker_2: Okay so as I mentioned um I think from from the very beginning I mean uh from childhood I was always uh kind of uh that I had that

@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-itprofessionals-inspir
 likes: 14
 comments: 7
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQHQv5uKWfMnAQ/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1697488217272?e=1793178000&v=beta&t=vEDzbZ8LthuLjr-18040QKqYxo1VPoxIu660E5sTTEE
+author_comments:
+- Here you can watch the full episode. Let's get inspired! https://youtu.be/tAgzxMAiuiU
 ---
 
 What’s the best strategy to build great connections at work?
@@ -32,18 +34,3 @@ ____________
  Follow ➡️Daniele
  
  #english #itprofessionals #inspiration
-
-## Comments (4)
-
-### Richard Butler (Your English Is Good. Your Confidence Should Match It. | Executive English Coach | Master Practitioner of Neuro Linguistic Programming)
-> I love that you said small talk is not that small.  Grabbed my attention right there
-
-### Jonathan Mascaro (Senior Operations & Team Leader | Revenue & Sales Support | Scaling Teams, Culture & Execution)
-> Thank you so much for inviting me to your podcast Daniele Ponzo ! Such a pleasure chatting with you, as usual!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Your guest put it perfectly, Daniele. Small talk is "how you create a connection... how you show you care."  Small talk is indeed much more important than the name suggests!
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Here you can watch the full episode. Let's get inspired! https://youtu.be/tAgzxMAiuiU
-

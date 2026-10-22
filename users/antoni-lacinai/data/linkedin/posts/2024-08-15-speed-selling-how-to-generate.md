@@ -16,7 +16,3 @@ How to generate leads at a trade show
 Want to know why this is a game-changer? Watch this. 
 
 And let me know if I can be of service ^_^
-
-### Shared Article: [Speed Selling](https://www.youtube.com/watch?v=-IFnwdGXcmI)
-> youtube.com
-

@@ -11,7 +11,3 @@ article:
 ---
 
 Då drar vi igång
-
-### Shared Article: [Tisdagsklubben- om ledarskap - Tisdagsklubben](https://www.clubhouse.com/room/ME6Qvbjk)
-> clubhouse.com
-

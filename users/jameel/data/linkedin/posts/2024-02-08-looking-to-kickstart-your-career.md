@@ -20,7 +20,3 @@ In this insightful discussion, we cover essential topics such as:
 5️⃣ Essential soft skills needed for success in tech jobs
 Tune in now to gain valuable insights and expert advice to help you thrive in the Middle East's tech job market! 🎙️💼
 #TechJobs #MiddleEast #CareerAdvice #DigitalTransformation #Networking #JobHunting #SoftSkills #ProfessionalDevelopment #EyhabBurki #Podcast #linkedin #leap2024 #riyadh #problemsolving #communicationskills #leap24
-
-### Shared Article: [How to Navigating the Middle East's Tech Job Market with a Digital Transformation Leader](https://youtu.be/2wrRf_8RNY4)
-> youtube.com
-

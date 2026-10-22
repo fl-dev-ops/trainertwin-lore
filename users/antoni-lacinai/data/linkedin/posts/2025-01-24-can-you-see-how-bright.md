@@ -16,18 +16,3 @@ Imagine that you have a traffic light in your brain. What happens if it looks li
 Not this company, though. They act with care. They lead with care. They could very well be my favorite audience or favorite company right now. So less of this and much more of a green light thinking. That's what I propose.
 
 Thank you Lindström Group for inviting me to your great leadership conference 😃
-
-## Comments (4)
-
-### Olga Gasheva (Director, Group Finance, Reporting & Control - Lindström)
-> Thank you for amazing presentation! So simple, clear and make you think a lot! Looking forward to start implement in daily routine.
-
-### Michaela Martin (Chief People Officer - Driving Transformation, Culture & Business Growth - Open for CPO and Board roles)
-> Tack för en utmärkt master class 🙏🙏en sån fantastisk upplevelse för oss alla denna förmiddag, helt toppen 🤩🙏
-
-### PG Wettsjö (Föreläsare & Utbild. ◊ Bemötande, Försäljning, Kundservice, Kommunikation, Arbetsglädje ◊ 28 år som föreläsare ◊ 3 500 föreläsningar ◊Topp 100 -föreläsare - 8 år i rad◊10 gånger slutnominerad till Sveriges bästa talare)
-> Du måste klona dig. Du behövs överallt vännen. Fet visar att du är en eftertraktad mästare på det du gör.
-
-### Elisabet Levin Lacinai (Senior allround Administration | Glädje | Service | Engagemang | Helhetslösningar)
-> Spot on
-

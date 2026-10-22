@@ -17,7 +17,3 @@ You can join the uncommonGeeks Telegram community here. You will find people wit
 #telegram  #uncommonGeeks #community  #discussion #channel #frontend #frontenddeveloper 
 
 t.me/uncommongeek
-
-### Shared Article: [UncommonGeeks - Frontend developer interview preparations](http://t.me/uncommongeek)
-> t.me
-

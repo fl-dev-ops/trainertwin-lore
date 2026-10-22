@@ -45,38 +45,3 @@ Thanks for checking out this post. I share tips to help #ITProfessionals have mo
 🔔 🔔 If that's your thing, go to my profile, click ‘follow’ and ring the bell so you'll never miss a post | Daniele
  
  #LanguageLearning #english #internationalcareer
-
-### Shared Document: [How to Suggest Ideas like a Pro]()
-
-
-## Comments (7)
-
-### Mayowa Adejayan (Helping Growing Businesses Turn Digital Problems Into Practical Solutions | Websites • AI • Automation | Founder, InsightWeave)
-> Wow this is really helpful
-> Thanks for sharing
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> I agree Daniele Ponzo!
-> But seriously, I like how you frame the 3 options for agreeing, disagreeing, expressing doubts. 
-> With a little effort, all 3 can be done in a respectful and constructive way. 
-> It starts with listening/ reading carefully.
-
-### Cyberstrike (1,726 followers)
-> Yes! Daniele Ponzo, Refining our language is essential for making a lasting impact in our field!
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Refining your language and finding that balance between professional and engaging can be really important. Daniele Ponzo
-
-### Catherine McDonald (Lean, Leadership & Organisational Behaviour Coach | LinkedIn Top Voice ’24, ’25 & ’26 | Co-Host of Lean Solutions Podcast | Systemic Practitioner in Leadership & Change | Founder, MCD Consulting)
-> LinkedIn has many benefits for us all Daniele and a crucial one is the opportinity for us all to develop our critical thinking skills..to read or see something and to process it...to analyze it's value...to verbalize our thoughts and to learn from other's responses. 
-> Like everything in life, we get back what we put in! Levelling up requires a desire to grow and improve!!
-
-### Georgios Christou, PhD (Engineering Manager @ Mesh)
-> These are some excellent points Daniele! I am a strong believer in crafting nicely worded messages, particularly when trying to convey difficult points, as is the case of a negative comment or response. In particular, 
-> 
-> I would rather say "Have we done X" if there's a show stopper that needs verification, and "Are we creating something more or less useful?" to contrast your examples in slide 8.
-
-### Daniel Hartweg (Former Site Director & Head of Operational Excellence | Master Black Belt | Performance Transformation Expert | Driving Operational Excellence, Lean Transformation & High-Performing Teams)
-> Daniele Ponzo 
-> Great point—engaging language makes all the difference! It’s all about finding expressions that sound natural yet professional, and you've nailed it with this practical advice.
-

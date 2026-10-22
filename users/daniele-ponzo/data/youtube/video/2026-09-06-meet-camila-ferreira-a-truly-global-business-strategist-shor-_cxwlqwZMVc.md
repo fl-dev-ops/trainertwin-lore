@@ -31,11 +31,6 @@ speakers:
   speaker_2: 'Camila Ferreira'
 ---
 
-
-# Meet Camila Ferreira: A Truly Global Business Strategist #shorts
-
-## Transcript
-
 speaker_1: So Camilla where are you from Where are you based And what do you do
 
 speaker_2: Yes Im originally from Brazil That that is where I was born and raised Now I live in Miami uh actually in the suburbs of Miami but I have lived in a few other countries I am a global business strategist as you were saying Ive spent more than 20 years transforming um I would say businesses across the globe Ive had the chance to work for multinational companies in Latin America in Europe and in in the US as well

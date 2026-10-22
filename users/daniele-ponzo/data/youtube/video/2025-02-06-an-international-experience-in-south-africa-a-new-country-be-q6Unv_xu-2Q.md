@@ -20,11 +20,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# An International Experience in South Africa: a new country becomes familiar. #podcast #globalskills
-
-## Transcript
-
 speaker_1: Okay yeah so there are disparities there So again how do you adjust to such a reality which is again something you dont see every day and everywhere
 
 speaker_2: Mhm Um no as I mentioned South Africa felt very familiar Um it it was uh interestingly enough in my case there as well I was working with an international NGO So even though it was in based in in Johannesburg in South Africa I was my frame of reference was Latin America So I was working with uh countries in Latin America So um it it felt more familiar if you will Like it just um uh again good and bad

@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 60 Un-Supervised Learning
-
-## Transcript
-
 speaker_1: Welcome everyone to this course Now
 lets go to the next paradigm in machine
 learning which is called unsupervised

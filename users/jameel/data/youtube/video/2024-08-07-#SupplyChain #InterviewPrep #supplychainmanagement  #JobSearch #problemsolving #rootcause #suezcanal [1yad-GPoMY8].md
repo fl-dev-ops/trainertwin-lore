@@ -12,10 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# #SupplyChain #InterviewPrep #supplychainmanagement  #JobSearch #problemsolving #rootcause #suezcanal
-
-
-## Transcript
-
 speaker_1: The first question is tell me about a time or give me an example when you had a difficult problem to solve and how did you solve it Ive made a lot of videos about problem solving that you can watch on my channel but why is problem solving so important Because supply chain is all about problem solving and the challenge with supply chain jobs is that you cannot predict the type of problem you are going to face the next day You could have a problem with a supplier you could have a problem with a ship breaking down or getting some were stuck in the Suez Canal or things like that So while its very difficult to predict the type of problem we are going to solve however what you could do is build that problem solving ability job So because this is a tell me about a type type of a question the best model to use for these type of questions is the star model or the car model and Ive stressed upon the importance of this model many many times

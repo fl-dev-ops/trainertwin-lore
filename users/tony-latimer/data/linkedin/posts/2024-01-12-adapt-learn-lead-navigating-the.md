@@ -16,13 +16,3 @@ TonyLatimer.ai ensures you're never caught off guard. Whether it's a new organiz
 It empowers you to not just navigate the leadership labyrinth but to conquer it with confidence and flair.
 
 Try it at https://lnkd.in/g-fmb298
-
-## Comments (1)
-
-### Duc Thong Do (Research human potential, design a lifestyle, and build a career online)
-> How has TonyLatimer.ai personally assisted you in overcoming leadership challenges?
-> 
-> Can you share more specifically?
-> 
-> Thank you Tony Latimer, MCC
-

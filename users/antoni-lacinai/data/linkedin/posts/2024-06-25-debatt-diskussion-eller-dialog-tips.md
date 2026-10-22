@@ -24,7 +24,3 @@ I korthet:
 • Dialog = Vi ska förstå varandra
 
 Så tänker jag. Hur tänker du?
-
-### Shared Article: [Almedalen: Har ni en debatt, diskussion eller dialog?](https://eventeffect.se/almedalen-har-ni-en-debatt-diskussion-eller-dialog/)
-> eventeffect.se
-

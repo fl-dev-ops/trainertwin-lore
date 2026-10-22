@@ -23,15 +23,3 @@ How will you make sure you are understood today?
 You got this 😃
 
 Today I have the pleasure of giving a master class in effective and engaging communication with a global company that most of us have encountered in our lives. Looking forward to it!
-
-## Comments (3)
-
-### Kathi Balasek, MA (Grief Literacy & Empathy Communication Expert | Speaker + Executive Coach | Creator, The Language of Loss | Helping financial professionals and leaders know what to say when words matter most)
-> Brilliant!
-
-### Orla B. (Helping people grow at work, at their own pace | Accredited Transformational Personal Development | Co-Founder & CMO, An Even Better Place to Work (bp2w®) | Network Ireland Mayo President 2026)
-> Definitely like your thinking Antoni, hope you have another fabulous day, sharing all things "positive, effective and engaging in communication"
-
-### Triinu Varblane (NordicHub Manager / Export Advisor at Cooperative VIEXPO)
-> You just nailed it 💯✨
-

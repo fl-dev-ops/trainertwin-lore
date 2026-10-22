@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Top 10 LinkedIn Tips for Supply Chain Professionals - Podcast with Hammad Siddiqui - LinkedIn Expert
-
-
-## Transcript
-
 speaker_1: LinkedIn is not a job search platform If you treat it only as a job search platform then it is something like Indeed You cant compare Indeed with LinkedIn LinkedIn provides you lot more opportunities to become more visible You are a supply chain professional and in your industry for instance you have cosmetics because you are a supply chain professional in the cosmetic industry So youre thinking putting cosmetics would work It would not work
 
 

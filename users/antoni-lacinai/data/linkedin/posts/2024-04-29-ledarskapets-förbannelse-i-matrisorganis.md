@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/lacinai_ledarskapets-f%C3%B6rbannelse-i-matr
 likes: 16
 comments: 8
 images_count: 1
+author_comments:
+- 'Här är hela artikeln: https://www.svt.se/nyheter/inrikes/ministern-om-den-dyra-kollektivtrafiken-inte-regeringens-ansvar'
 ---
 
 Ledarskapets förbannelse i matrisorganisationer
@@ -38,15 +40,3 @@ Svaren på frågorna är ovan är enligt mig:
 
 ---
 Skrivet av mig, inte av någon AI
-
-## Comments (3)
-
-### Antoni Lacinai (Global Keynote Speaker & Executive Communication Coach for +20 years | ”You don’t have a strategy problem. You have a clarity gap” | Communication shapes behavior. Behavior drives results) (Author)
-> Här är hela artikeln: https://www.svt.se/nyheter/inrikes/ministern-om-den-dyra-kollektivtrafiken-inte-regeringens-ansvar
-
-### Tonny Uhlin (Marketing professional at Retired, but open to consulting engagements)
-> Tankeväckande 🤨
-
-### Thomas Otnes (Product developer and engineer)
-> Svaret visar inte enbart tecken på bristande ansvar men också på bristande empati med de som är kollektivtrafikens kunder.
-

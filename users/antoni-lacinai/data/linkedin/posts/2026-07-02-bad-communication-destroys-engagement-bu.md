@@ -10,9 +10,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/dynamic/D4E10AQHpp5ohldyZgQ/CeJxzMn
 Bad communication destroys engagement. 
 But there are ways to upskill yourself
 For instance: Don't be impressed by fancy language. Listen to people instead and ask clarifying questions
-
-## Comments (1)
-
-### Carina Wahlstedt Janson (Kommunikationsstrateg | Skärper ert interna kommunikationsarbete | Verksamhetsutvecklare)
-> We need much more of clarifying questions, but also trying to prevent and preparing communication to prevent in advance.
-

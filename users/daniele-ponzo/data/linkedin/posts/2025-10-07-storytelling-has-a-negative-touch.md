@@ -44,30 +44,3 @@ PS: The book which is displayed is "𝗘𝗮𝘀𝘆 𝗘𝗻𝗴𝗹𝗶𝘀�
 I recommend reading it ❤️
 
 —Adrian
-
-## Comments (4)
-
-### Jenine Horner (Founder at Kindred 🩵 | Mum of 3, building the app I always wanted: family-friendly favourites, verified by parents | Follow as we build in public)
-> Stories connect people 💯 and the ability to do it realtime in the moment makes the best of us freeze! What a great resource to share too Adrian. As a native English speaker living in Sweden and only knowing the basics of the language (for now) my ability to connect with people has definitly diminished.
-
-### Laurent Sandrolini (Need the energy of a 25 year old with 35 years of experience ?)
-> storytelling is how one connects to people - It's an art more than a science - although Im sure this book helps a lot. Thanks for sharing.. Here is a short one for you : my M&A boss was such a good negotiator that he'd showcase his negotiating-book reduced price tag; then clarified he got the book for half of what was on the tag!
-
-### Dan Abend (Software Engineering Manager & Technology Leader | Having 100 unscripted conversations with software leaders this year)
-> Storytelling is the basis for all human relationships and communication. It's how we've passed on knowledge from generation to generation. Don't just tell a story. Use the words to paint a picture and take your audience on a journey.
-> 
-> I use AI and practice to improve my storytelling and enhance the narrative of my writing. Storytelling will make your slide deck, your interview, your night out with friends more enjoyable.
-> 
-> ---
-> 
-> Is It Friday Yet?
-> 
-> I was anchored in front of the server rack while the frigid air chilled my every breath. The white noise of the fans threatened to drown out my own thoughts. My gaze was transfixed on one blinking light that shouldn't be there. The smell of melted plastic assaulted my nostrils. This day was about to take an unexpected turn.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Absolutely, Adrian. In business, stories inspire action. They help professionals turn dry data, reports, or updates into messages that connect emotionally, clarify complex ideas, and make others remember what was said.
-> 
-> For non-native English speakers, storytelling is even more powerful. It transforms language from a barrier into a bridge. Instead of worrying about grammar or vocabulary, they can use structure and emotion to communicate clearly, influence decisions, and sound confident, even when their English isn’t perfect.
-> Storytelling is a career accelerator!
-> Thanks for sharing "𝗘𝗮𝘀𝘆 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 𝗳𝗼𝗿 𝗜𝗧"!
-

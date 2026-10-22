@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-nonnativeleader-inspir
 likes: 26
 comments: 12
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4D05AQFftYfWfYkn-A/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1715059801414?e=1793178000&v=beta&t=IISmyvUqAjFkefnGpu1I_IlP-WxlVn9dR4k2P8aDYDY
+author_comments:
+- '📌 Watch the full episode here: https://youtu.be/tZ27NShpKPU'
 ---
 
 What is the most effective strategy to online visibility? 
@@ -46,25 +48,3 @@ Explore my Youtube Channel for more.
 Follow ➡️Daniele
  
 #english #nonnativeleader #inspiration #copywriting #personalbrand
-
-## Comments (5)
-
-### Isabella Guerci (Business English Coach and Voice Crafting Specialist | English Culture Narrator | Certified Neurolanguage Coach®)
-> Nice interview Daniele Ponzo - and for the first time I got to hear Francesco's voice (I must say I like it!)
-
-### Kevin Dowling (I help skilled coaches get higher-paying clients | Signature Offer System | Grab the 4-Figure Offers Masterclass in my Featured ↓)
-> You can't improve if you don't start. And you will suck in the beginning! But failure is the beginning, rather than the end. 
-> 
-> Once you realise that, you get out of your head and into your body Daniele Ponzo
-> 
-> Love this little snippet of your podcast, it's an awesome soundbite 👌
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> Many dreams have died because the holders felt they had to be perfect before starting. Life is about audacity even while your knees shake, especially when you feel like an imposter. We need a healthy dose of self-belief and self-doubt to achieve our goals. Daniele Ponzo
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> Thank you my friend for the lovely chat! You're an amazing host and I had a blast talking about my experience on your show 🎉
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> 📌 Watch the full episode here: https://youtu.be/tZ27NShpKPU
-

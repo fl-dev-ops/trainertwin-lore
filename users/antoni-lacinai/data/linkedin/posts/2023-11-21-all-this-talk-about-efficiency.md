@@ -33,22 +33,3 @@ Enthusiasm?
 Extroversion?
 Ethics?
 Elevate?
-
-## Comments (5)
-
-### Ola Wallström (Tillväxtmentor | Hjälper entreprenörer som vill hitta de dolda möjligheterna i sitt bolag | Som vill växa snabbt och smart från 10 till 50 miljoner (och vidare efter det))
-> Tack Antoni, kul att du tänker till och sätter ihop egna formler. Min är att det ska vara kul, effektivt och enkelt för att skapa momentum, engagemang och hastighet :-)
-> Glada hälsningar
-
-### Marie Knutsen Green (Utility Patents for Aroma-Enhancing Lid Concepts in Hot and Cold Beverages like Coffee, Tea, Wine, and Flavored Water | Creator, Entrepreneur, Artist | Inspiring Growth and Possibility)
-> This is great, and on top of that, the tricky E, emotions, want to have a say.  😊
-
-### Jesper Ek (Transformerar chefer till energiskapande ledare | 180+ klienter | Ingenting börjar med resultat, allting börjar med människor | Skapare av EMPLAYMENT-metoden | Hjälper ledare bygga team-energi som driver resultat |)
-> Emplayment, förändringaledning för tuffa tider 😘
-
-### Mats Frostne (Senior HR leader passionate about developing business through people. Strong focus on building solid foundations with a customer focus. Get energy from growth, the growth of individuals, teams and organizations.)
-> Another E takes away the simplicity so let it stay! And even better, re-define efficiency to include engagement!😄
-
-### Peter Kihlgren (Dynamics 365 | Strategy | Scale | Value)
-> Sådant här är ju spännande Joel Roos
-

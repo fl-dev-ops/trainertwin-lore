@@ -20,15 +20,3 @@ Un contributo concreto, pratico e di qualità: proprio ciò che oggi fa la diffe
 Grazie di cuore per questo dono… e congratulazioni per questo importante traguardo!
 
 #asapitalia #growtogether #libro #inglese #dono #englishforbusiness
-
-## Comments (3)
-
-### Tuba Kizilkan (Digital-Leadership-Studentin in Berlin | Business-English- & Kommunikationstrainerin | Bildungsinnovation, KI-Kompetenz & Projektkoordination | XMind Ambassador)
-> Daniele, il tuo libro è un esempio raro di contenuto davvero utile e applicabile: l’ho condiviso anche in ASAP Italia e ha già generato spunti concreti per migliorare l’inglese quotidiano in call e meeting—complimenti e basta grazie di cuore.
-
-### Vincenzo DePaoli (Consulenza finanziaria per PMI | Affianco imprenditori e CFO nelle decisioni su credito, investimenti e operazioni straordinarie | +20 anni in credito e finanza aziendale)
-> Gertraud Bacher anche nelle imprese che seguo sul credito, la qualità dell’informazione fa la differenza tra scelte lente e decisioni efficaci. Qual è l’aspetto del libro che vi ha aiutato di più nel quotidiano?
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section)
-> Grazie a te, Gertraud! penso che il valore che si genera con lo scambio di informazioni, consigli ed esperienze sia davvero inestimable. Questa piattaforma ci permette di entrare in contatto anche con il lato umano dei professionisti, per questo sono molto grato delle interazioni costruite qui su LinkedIn con te e tutti voi di ASAP Italia 🙂 .
-

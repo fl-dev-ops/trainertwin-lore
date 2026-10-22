@@ -12,12 +12,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Javascript Promise interview questions in 10 mins  (part 3)
-
-
-## Transcript
-
 speaker_1: Hello all welcome back to Uncommon Geeks As you already know we are just continuing with our video series on promises I hope youre all doing well So in this video we are going to just extend whatever we left in our last video that is about the promise chaining how a promise inside a promise creates a problem gradually when we have a lot of promises being chained one inside another And what are the ways in which we can avoid that Okay without wasting further time lets get started See I am on a same set of
 
 

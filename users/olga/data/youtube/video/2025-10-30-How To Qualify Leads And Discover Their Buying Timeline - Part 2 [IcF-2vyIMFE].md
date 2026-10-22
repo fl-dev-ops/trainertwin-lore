@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# How To Qualify Leads And Discover Their Buying Timeline - Part 2
-
-## Transcript
-
 speaker_1: Could be yeah
 
 speaker_2: Rahil you remember your role Okay Savil go for it

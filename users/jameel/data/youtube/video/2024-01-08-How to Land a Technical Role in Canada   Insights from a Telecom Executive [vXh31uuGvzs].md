@@ -13,12 +13,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# How to Land a Technical Role in Canada | Insights from a Telecom Executive
-
-
-## Transcript
-
 speaker_1: From an education perspective from a career perspective things are a little bit pretty much same but the culture is different So the way you interact with people in Asia is completely different than how youd interact with people in North America or Europe right So if you have a right visa like if you have a work permit or a PR I think you shouldnt have any issues in terms of going into the labor market We still have labor shortages and if the companies are still going through these bureaucracy
 
 

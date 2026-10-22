@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# chapter13
-
-## Transcript
-
 speaker_1: अथ त्रयोदशोऽध्यायः
 क्षेत्रक्षेत्रज्ञविभागयोगः
 श्रीभगवानुवाच

@@ -18,13 +18,3 @@ Do you want to be better than 90% of of your colleagues? Do these small changes 
 #kommunikation #presentation #PowerPoint
 
 ps - it is not the tool's fault. There is actually nothing wrong with PowerPoint or any other visual aids.
-
-### Shared Article: [PowerPoint for dummies](https://buff.ly/3zsHLsG)
-> buff.ly
-
-
-## Comments (1)
-
-### Thomas Otnes (Product developer and engineer)
-> agree!
-

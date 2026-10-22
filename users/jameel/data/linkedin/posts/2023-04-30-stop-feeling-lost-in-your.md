@@ -14,7 +14,3 @@ article:
 Stop feeling lost in your career! Discover the ultimate secret to defining your 'North Star' and unlocking your true potential today. Watch this video to transform your professional life and find the direction you've been searching for!
 https://lnkd.in/gQH2mjsq
 #careergoals #careerdevelopment #careeradvice #careerplanning #professionaldevelopment #careerinsights #careerjourney #careerpath #lifegoals #careerstrategy #careerfulfillment #careerconfidence #careerfocus #careerdirection #careersuccess
-
-### Shared Article: [Unlock Your True Potential: The Secret to Defining Your Career North Star Revealed!](https://youtu.be/T9QcOSjMBIQ)
-> youtube.com
-

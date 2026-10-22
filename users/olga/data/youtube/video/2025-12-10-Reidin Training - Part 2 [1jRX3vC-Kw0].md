@@ -15,11 +15,6 @@ speakers:
   speaker_4: null
 ---
 
-
-# Reidin Training - Part 2
-
-## Transcript
-
 speaker_1: We already have an area report under Insight but the aim was to you know trim down the area report and make it more concise under the CMA tool So of course its going to be an automated PDF report Again it will have very important metrics for how the area prices have been the price trends the volume So yes I think we have had a survey with approximately you know 10 agencies and Ive understood from them that what really really uh would the information they would need under an area report And based on that we are we are coming up with a trimmed down version of this tool for that
 
 speaker_2: Do you have any any way to produce a report uh that is focused on the rental uh that its like similar with GRABS etc

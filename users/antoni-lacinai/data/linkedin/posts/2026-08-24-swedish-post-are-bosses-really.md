@@ -18,12 +18,3 @@ För dig som inte orkar läsa en hel krönika är svaret på frågan: "Ja!"
 (Sen vill man ju helst ha bra chefer om man får välja)  
 
 Tack Charlotte Carlsson som delar mina insikter och tankar 😃
-
-## Comments (2)
-
-### Renée Jonson (TEKNIKINFORMATÖR (pågående studier) I Marknadsföring I Kommunikation I Grafisk design I CMS I Utbildning I Onboarding I Customer Success I Arbetsflöden I)
-> Intressant studie och spännande resultat för det har man ju länge hört att ingenjörer vill styra sig själva. Man saknar inte kon förrän båset är tomt blir väldigt talande. Det är lätt att skriva under på listan över de högt värderade egenskaperna i listan 🤩
-
-### David Stiernholm (Struktör & public speaker in personal productivity through good structure at work)
-> Gott! I mina samtal med kunder just nu är det mer uppenbart än annars att beteende nr 6 (att sätta riktning och göra strategin begriplig) gör chefen oumbärlig. För den medarbetare som är nere i det intensiva arbetsuppgiftsgyttret är det värdefullt att ha någon som kan se det hela lite grand från ovan, som kan skilja agnarna från vetet, som kan hjälpa en att prioritera mellan "allt" när det "är så mycket" och allt ska vara klart ASAP.
-

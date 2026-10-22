@@ -17,11 +17,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# The Turning Point in Overcoming Cultural Shock
-
-## Transcript
-
 speaker_1: Well I cant you cant leave like that This is crazy So and then it makes sense Its like okay you just like ripping this bandaid of oh stop us theres there isnt one way to live life Theres people just live in a different way And its funny because after that I visited countries around the world way more different I live in Turkey in Istanbul and then in Asia And I never felt that culture shock again I guess because you become open to okay Im not assuming anymore I know its going to be different You know its and its okay Yeah And you stop being persuaded
 
 speaker_2: Yeah

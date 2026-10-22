@@ -31,7 +31,3 @@ Imaginez avoir toute la base de données de Profitable Leadership® à portée
 Faisons de 2025 l’année de la croissance et du leadership en toute confiance ! 🎯
 
 #DéveloppementDuLeadership #Managers #IA #OutilsDeCoaching #Mentorat
-
-### Shared Article: [TonyLatimer.ai: AI-Powered on-demand Leadership Training](https://profitableleadership.com/ai)
-> profitableleadership.com
-

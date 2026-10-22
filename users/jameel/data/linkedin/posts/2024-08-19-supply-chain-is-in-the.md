@@ -14,7 +14,3 @@ article:
 Supply Chain is in the top news in Canada this week with the looming railway strike which could paralyze the country. Here is my article on this subject and lessons we can learn as SCM leaders. 
 
 #SupplyChain, #RailwayStrike, #CNCPKCRailway, #SupplyChainManagement, #Logistics, #Transportation, #SupplyChainDisruption, #ContingencyPlanning, #RiskManagement, #Diversification, #RailCargo, #SupplyChainResilience, #BusinessContinuity, #TradeImpact, #EconomicImpact, #Inflation, #InterestRates, #USMCA, #CanadaSupplyChain, #SupplyChainLessons
-
-### Shared Article: [CN/CPKC Strikes: Canada on the Verge of Another Supply Chain Disaster? Lessons for Supply Chain Managers](https://www.linkedin.com/pulse/cncpkc-strikes-canada-verge-another-supply-chain-disaster-jameel-hye-bhdfc?trackingId=BcF5tKgfBQ%2FqXIUDRwOGUw%3D%3D)
-> Jameel Hye
-

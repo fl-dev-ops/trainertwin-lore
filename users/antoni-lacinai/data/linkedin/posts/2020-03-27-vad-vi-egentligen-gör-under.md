@@ -27,9 +27,3 @@ Från boken Virtuella möten
 #virtuellamöten #kommunikation #ledarskap
 
 Källa: Tidningen Telekom idag
-
-## Comments (1)
-
-### Tage Olsin (Controller - Outsourcing | Enhancing processes | Delivering Efficient Reporting | ITIL Service Management)
-> Den där panikkänslan man får när någon säger "Vad tycker du, Tage, om det här?" och man inte haft den fokus man borde. Nu har det inte hänt mig, men jag har "en kompis" som har gjort det.
-

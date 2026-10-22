@@ -50,35 +50,3 @@ If you did, remember to hit the bell on my profile so you’ll get a notificatio
 Follow|Daniele
 
 #english #career #takecontrol
-
-## Comments (6)
-
-### Joy Venner (Professional English Communication Expert | Helping Spanish-Speaking Professionals & Teams Communicate Clearly, Confidently & Credibly at Work | 20+ Years’ Experience)
-> Love the quote and important points in the post! Thanks for sharing :-)
-
-### Luigi F. (Security, Risk, Resilience & Service Management Advisor | Helping CTOs & CISOs Build Practical Operating Models | 25+ Years in Complex Environments | Host of The ITSM Practice Podcast)
-> Thank you, Daniele.
-> 
-> ----------
-> 🔍 Follow me for daily insights on ITSM and IT Security.
-> 🎧 Check out The ITSM Practice podcast on Spotify: podcasters.spotify.com/pod/show/theitsmpractice
-> 
-> #itsm #itsecurity
-
-### Dr Lena Morrish (1 in 3 children fail mathematics. My book explains why — and how Brain to Maths™ can help change this grim statistic.)
-> Great quote! 
-> (And the post definitely makes sense! 😊 )
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> All great things to keep in mind. Making small talk is actually a really vital way  to  stand out and make yourself more memorable to your superiors.
->  
-> And help you get more comfortable using the language, of course!
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> I agree, the ownership point is absolutely key!
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> Your Skill of English Language and Business Communication Language is cool 
-> 
-> Cheers Daniele Ponzo
-

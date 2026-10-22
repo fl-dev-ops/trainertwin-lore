@@ -12,9 +12,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# Is Waiting for Rock Bottom the Best Strategy?
-
-## Transcript
-
 speaker_1: When youre talking to an investor and you are selling off plan and this is an off plan investor you have to reframe the general idea that he will bring to the table This idea is the market has stopped The market has stopped so I can wait and see basically well the price is going to be falling to the bottom level and then I will be stepping in And buying not 1 unit maybe 10

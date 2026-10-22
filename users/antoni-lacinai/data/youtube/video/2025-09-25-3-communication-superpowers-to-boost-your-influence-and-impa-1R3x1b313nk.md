@@ -15,11 +15,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 3 Communication Superpowers to Boost Your Influence and Impact
-
-## Transcript
-
 speaker_1: Labas my new friends How are you
 
 speaker_2: Thats sure

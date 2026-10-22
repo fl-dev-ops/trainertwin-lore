@@ -19,7 +19,3 @@ Nobody’s perfect, and neither are we, but I am happy to share our Roadmap to N
 Learn more about our Net Zero Roadmap here: www.mars.com/netzero2050
 
 #proudlyMars   #ClimateAction   #NetZero2050
-
-### Shared Article: [Mars to invest $1bn to cut emissions](https://www.ft.com/content/eb914765-cd46-4952-ad8a-ebc5a2a296bc)
-> ft.com
-

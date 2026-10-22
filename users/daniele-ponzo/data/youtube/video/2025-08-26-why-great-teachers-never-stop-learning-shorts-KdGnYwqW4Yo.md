@@ -24,11 +24,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Great Teachers Never Stop Learning #shorts
-
-## Transcript
-
 speaker_1: because So first you mentioned like one great concept which is this never ending learning journey that as educators we are in And the second part you know like being ready to adopt but also bring your own uh specific so in your case like being multilingual and being in a way language learner together with language teacher So that is great value add in my opinion
 
 speaker_2: Yeah

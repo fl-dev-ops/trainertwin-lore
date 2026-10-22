@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_english-nonnativeleader-inspir
 likes: 14
 comments: 3
 videoUrl: https://dms.licdn.com/playlist/vid/v2/D4E05AQH1mEsYaZN3mw/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1704493600567?e=1793178000&v=beta&t=fe5ok872dHeP3ba-ZhpBvGfvRk2IzMTXHH-8adgaris
+author_comments:
+- 'Get the full episode here: https://youtu.be/GPrTVezvINk'
 ---
 
 How to break free from hesitation and get a rewarding international career.
@@ -36,12 +38,3 @@ If you did, remember to hit the 🔔 on my profile so you won’t miss the next.
 Follow ➡️Daniele
  
  #english #nonnativeleader #inspiration
-
-## Comments (2)
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> Having a community will help you not to feel lost in the crowd. It's a great opportunity to grow.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Get the full episode here: https://youtu.be/GPrTVezvINk
-

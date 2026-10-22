@@ -21,7 +21,3 @@ Preparing for a Supply Chain job interview or need career advice? Book your sess
 https://lnkd.in/gCpky-hb
 
 #SupplyChain #TMS #CareerAdvice #AIinSupplyChain #CareerGrowth #SupplyChainTechnology #FutureProofCareers #LogisticsInnovation
-
-### Shared Article: [TMS is Dead. Long Live The ERP.](https://www.linkedin.com/pulse/tms-dead-long-live-erp-ship-angel-ymhde?trackingId=ip9fGpnHqQipN3JgtgmuWw%3D%3D)
-> Ship Angel
-

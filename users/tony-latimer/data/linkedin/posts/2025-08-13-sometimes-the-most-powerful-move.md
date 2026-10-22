@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_icf-mcc-coachingmastery-activity
 likes: 21
 comments: 3
 images_count: 2
+author_comments:
+- profitableleadership.com/simplicityofmastery
 ---
 
 “Sometimes the most powerful move in coaching isn’t a question — it’s the courage to name the pattern the client can’t see.”
@@ -24,12 +26,3 @@ Working beyond rigid models when the client’s growth demands it.
 If you’re a PCC ready to step beyond safe habits and learn the skills that really change lives — long before you face your MCC exam — join us in Simplicity of Mastery. It’s where we practise the courage, precision, and artistry that make coaching at the highest level possible.
 
 #ICF #MCC #CoachingMastery #ProfessionalCoaching #SimplicityOfMastery
-
-## Comments (2)
-
-### Ratha Ros (When success is no longer enough… What’s next? | International Leaders & Entrepreneurs | 22 years in Finance | Meditator | EN · FR)
-> So well summarized 😃 Thank you Tony for the insight!
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/simplicityofmastery
-

@@ -28,9 +28,3 @@ I have trained retailers, trade show staff and global account managers, using th
 Have you experienced sales people being too passionate to listen?
 
 I don’t know if this group today is too passionate, but passionate they are. I like that. Passion is their engine filled with energy that make them move. The rest is about steering their conversations in the right direction.
-
-## Comments (1)
-
-### Jan Svensson (Senior Solution Sales Manager / Senior teknisk säljare)
-> Passa på att gratulera Pedro Acosta som stod prispallen i helgens MotoGP i Misano. På en KTM!
-

@@ -14,11 +14,6 @@ speakers:
   speaker_3: null
 ---
 
-
-# 23-Year-Old’s Playbook: How to Close Your First Deal in Dubai
-
-## Transcript
-
 speaker_1: And when you guys told me that theres no basic salary and its just commissions I was like wow I mean how is this going to be possible But then I was like why not give it a shot First the salary thing was and I remember him telling me youre not even going to think about the salary once you make your first sale And I was like okay lets see lets see where this goes And then when I started to come in I came in with the mindset that theres no one better than me in sales I have the habit of going Really into detail about anything
 
 speaker_2: Deep

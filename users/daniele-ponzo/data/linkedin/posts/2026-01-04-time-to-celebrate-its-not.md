@@ -5,6 +5,13 @@ url: https://www.linkedin.com/posts/the-non-native-leader_time-to-celebrate-its-
 likes: 26
 comments: 7
 images_count: 1
+author_comments:
+- |-
+  𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻: https://www.linkedin.com/company/the-non-native-leader/
+
+  𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://danieleponzo.com/the-non-native-leader-podcast
+
+  𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://www.youtube.com/@DanielePonzo/podcasts
 ---
 
 Time to celebrate! ✨
@@ -31,22 +38,3 @@ So, thank you!
 Remember to support the podcast. You can find it on 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻, on my 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 and on 𝗬𝗼𝘂𝗧𝘂𝗯𝗲. The links are in the comments below.
 
 let's get the party started!
-
-## Comments (4)
-
-### Evridika Cuder (German Communication Coach for International Professionals | Helping professionals communicate confidently in German meetings & presentations | Cross-Border Communication)
-> This is amazing and well deserved, congrats! 👏
-
-### Tom Otto (SWE → Founder @ Mockly & Launch Llama | Helping founders launch | 80K+ newsletter audience)
-> Congratulations on this remarkable achievement, well deserved.
-
-### Margaret Stephanie B. (Helping healthcare professionals to improve their INTELLIGIBILITY & PRONUNCIATION for BETTER COMMUNICATION in clinical and exam (OET, OSCEs) settings)
-> Huge congratulations Daniele Ponzo , so well deserved! 👏
-
-### The Non-Native Leader - Podcast (443 followers) (Author)
-> 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻: https://www.linkedin.com/company/the-non-native-leader/
-> 
-> 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://danieleponzo.com/the-non-native-leader-podcast
-> 
-> 𝗬𝗼𝘂𝗧𝘂𝗯𝗲: https://www.youtube.com/@DanielePonzo/podcasts
-

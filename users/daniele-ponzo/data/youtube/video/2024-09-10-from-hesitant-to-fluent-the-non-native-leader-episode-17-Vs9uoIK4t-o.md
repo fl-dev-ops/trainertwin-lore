@@ -35,11 +35,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From HESITANT to FLUENT | The Non-Native leader | Episode 17
-
-## Transcript
-
 speaker_1: Hi everyone Welcome to another episode of the non native leader a video podcast series where we explore stories of uh people who are not born in an English speaking country but today theyre having an international career Career in uh NGOs career in Fintech IT careers in uh commercial you know different areas different aspects and they are now protagonist on the global stage And if you follow this series youve seen you know people have shared their challenges their rewards their pains their stories Um today I have with me Martin Uting Uh sorry about the pronunciation Martin I always do that but I always try to do my best
 
 speaker_2: You did it really well I always try to do my best Congrats

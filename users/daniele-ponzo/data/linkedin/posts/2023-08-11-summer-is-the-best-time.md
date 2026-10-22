@@ -43,14 +43,3 @@ If you're interested in these topics, hit the 🔔 on my profile.
 Follow ➡️Daniele
 
 #itprofessionals #vacationmode #wellbeing
-
-## Comments (2)
-
-### Vanessa Andrews (Associate Consultant)
-> Summer forgot about Scotland this year Daniele Ponzo 😀 but hey still lots to do in nature and endless road trips. Our favourite. Keep sharing.
-
-### Joseph O'Donnell O'Donnell (Professional Communication Trainer | Teacher Trainer and mentor | DELTA | IH COLT | Cambridge Speaking Examiner | 30+ years experience)
-> Taking a break to recharge those batteries is a great idea! I'm actually winding down and looking forward to a few weeks off to spend more family time and just switch off from work. 
-> 
-> Until then, working from home isn't so bad...
-

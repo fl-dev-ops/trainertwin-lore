@@ -14,11 +14,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why good strategies fail
-
-## Transcript
-
 speaker_1: Hi Im Mia Lilberg and Im here in the studio with Antoni Lacinai Antoni you are a global keynote speaker Youve been speaking in over 30 countries and youre also an author and executive communication coach How did you end up here
 
 speaker_2: Well I left the corporate career back in 2006 to coach leaders and teams around the world And one thing I noticed was that many of them are frustrated They say things like why arent they as passionate as I am or whats wrong with them Why dont they understand what Im saying Things like that So Im just trying to help them overcome those hurdles

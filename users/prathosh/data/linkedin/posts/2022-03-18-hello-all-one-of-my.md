@@ -23,7 +23,3 @@ Please send your CVs to Mr. Sanjay Shekhawat (AI Researcher and Lead Program Man
 Sanjay Shekhawat Rahul Prajapat Naga Sai Pranay Modukuru Kamal Galrani
 
 #deeplearning #ai #researchjob #iisc #research  #machinelearning
-
-### Shared Article: [Reduce rejections in casting with AI | Tvarit Frankfurt](https://www.tvarit.com/)
-> tvarit.com
-

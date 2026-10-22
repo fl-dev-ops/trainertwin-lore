@@ -17,18 +17,3 @@ If you want mediocre results then by all means go 4 it. But if you want to peak-
 #goalsetting #motivation #leadership
 
 I got this epiphany around SMART goals a few years ago from the maestro Lars-Eric Uneståhl, The pioneer in Mental Training. Thank you for that Lars-Eric ^_^
-
-## Comments (4)
-
-### David Rubin (Strategic life sciences & software leader. Expert in product management, marketing, P&L, global teams & growth. Proven results in digital transformation, analytics, innovation, margin gains & high-impact execution.)
-> Very interesting points. Thanks for sharing.
-
-### Johanna Donker (Senior Coach och Verksamhetsledare | Leder genom tillit, tydlighet och lagfokus | Stark i förändring och osäkerhet)
-> Make ”R”eally sense bästa Antoni👌🌟
-
-### Emma Nordbäck (Associate Professor at Hanken School of Economics)
-> Ahaaa, skall du alltså komma med å skida Vasaloppet nästa år? 😁 Det är mitt happy goal 2024!
-
-### Chantelle Botha (The Choice Catalyst | International Keynote Speaker & Executive Coach | Conscious choice for life and leadership that feels as good as it looks)
-> 100% agree with you here Antoni, that "R" has always bothered me!
-

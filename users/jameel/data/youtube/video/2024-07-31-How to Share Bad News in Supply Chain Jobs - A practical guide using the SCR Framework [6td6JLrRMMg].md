@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Share Bad News in Supply Chain Jobs - A practical guide using the SCR Framework
-
-
-## Transcript
-
 speaker_1: So imagine you have identified a major problem at work It could be a problem with your operations or any other major challenge you are facing You have a pretty good idea on why this problem is happening and what are the implications to the business and you do have a little bit of an idea on how to solve the problem But hold on there is one big question you need to still ask yourself How will you tell the boss
 
 

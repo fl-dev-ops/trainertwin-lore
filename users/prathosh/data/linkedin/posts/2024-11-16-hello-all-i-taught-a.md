@@ -21,6 +21,3 @@ I'm sharing it here (with his permission) for it may be useful to some of you.
 I also attach the links (in the comments) of my class workings of a similar course that I taught last year. 
 
 It may be useful to a few of you.
-
-### Shared Document: [ADRL_APP]()
-

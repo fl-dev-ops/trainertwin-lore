@@ -22,11 +22,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Why Open-Mindedness Is a Superpower in Global Careers #shorts
-
-## Transcript
-
 speaker_1: like since day one you were exposed obviously to an international environment and youve always uh kept that with you and youre now you know sharing it with your with your son So and it seems to me that he has similar approach again Like
 
 speaker_2: Yeah he he hes fairly open to it Uh hes hes in a bit of a hassle now because he has to learn fluent German for his uh year off So that that is a bit of a challenge for him but yeah hes picking it up as well He uh he can understand it quite well now and speaking will be We well see in in uh when will he be back in March well see how his German is

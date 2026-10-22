@@ -23,12 +23,3 @@ This is what one of the most experienced event people said about the book:
 Ksenija Polla, CMP, CICE , at the time: Head of education and legacy programs. ICCA
 
 PS - I will share concrete tips on a free webinar on October 11. Link in the comment
-
-## Comments (2)
-
-### Ksenija Polla, CMP, CICE, CEF-IF (Strategist, Visionary, Leader, Multi-Cultural Event Management, Team and Community Builder, Organizational Excellence)
-> I cannot recommend a better book to provide some tangible tips to make the most out of a tradeshow. It is not rocket science, but sometimes you need to go back to basics and be smarter. Our time is money so be mindful with your time pre- during and post event
-
-### Kumail Mehdi (Helping 9-5ers Leverage AI For Side Hustle | ISO 42001 Lead Auditor | Turning Skills into Systems | SEO & Branding for Industry Experts.)
-> Insightful
-

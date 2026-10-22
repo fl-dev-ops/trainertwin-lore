@@ -19,11 +19,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# From Video Games to Engineering A Passion-Driven Path #shorts
-
-## Transcript
-
 speaker_1: Thats not easy but at the same time it shows like the passion can actually bridge the gap like in your case It started as a young kid and then you know it took you to what you do today which is great Just all through passion and all through the fact that you managed to find a way to communicate through computers video games coding
 
 speaker_2: And in video games I learned English And from there on I learned English And so English was our common language I went on to study engineering uh software engineering at Roma 3 University And I was the only one they hired of the 12 people they called Do you want to become a CTO

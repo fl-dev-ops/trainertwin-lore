@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 51 Positional Embeddings
-
-## Transcript
-
 speaker_1: Welcome everyone Um well be continuing
 our discussion on transformers and then
 we will today look at some of the

@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# 🔥Save more than 50% dev effort  by using Github Co-Pilot (Guide to use Github Co-Pilot 2022 Edition)
-
-
-## Transcript
-
 speaker_1: Find random
 
 

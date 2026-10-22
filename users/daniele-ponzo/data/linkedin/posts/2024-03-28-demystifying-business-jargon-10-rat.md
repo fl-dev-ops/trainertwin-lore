@@ -54,19 +54,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
  
  #TechJargon #Innovation #TechLeadership #BusinessEnglish #ITManagement
-
-## Comments (3)
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> Great image!
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> I love this illustration. So creative. The imagery perfectly captures the nature of the rat race.
-> 
-> ✓ The treadmills
-> ✓The rats
-> ✓The exhausted look on the faces of the professionals
-
-### Olutomisin Akinbode (Email Marketer & Retention Strategist | Helping Online Businesses Turn One-Time Buyers into Lifelong Customers | Lifelong Storyteller | Stop Losing Revenue on Autopilot)
-> Insightful read, Daniele Ponzo. Why haven't I added this to my Idioms series? The rat race is like an endless rollercoaster. Like you said , you have to know what you're leaving behind, and of course know what you're signing up for outside the race.
-

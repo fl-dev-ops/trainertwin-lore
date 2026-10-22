@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/daniele-ponzo_technical-skills-get-your-shor
 likes: 30
 comments: 10
 images_count: 1
+author_comments:
+- Thanks for reposting it, Ádám Tóth! I'm glad you found my post useful!
 ---
 
 Technical skills get your shortlisted
@@ -70,29 +72,3 @@ If an international opportunity landed in your inbox tomorrow...
 what would worry you more:
   
 the technical interview... or communicating confidently in English?
-
-## Comments (6)
-
-### Davit Gasparyan (Senior Frontend Developer @TechWings | React, TypeScript, JavaScript | Led Frontend Migrations, Boosting Performance & Scalability)
-> Strong communication makes technical skills much easier for others to recognize.
-
-### Daniele Ponzo (I Help IT & Tech Professionals Get Better Jobs & Higher Salaries by Communicating Confidently in English | EX IT Leader | 12-Week Speak Like a Leader Accelerator ➡️ Check Featured Section) (Author)
-> Thanks for reposting it, Ádám Tóth! I'm glad you found my post useful!
-
-### Simran Pant (Making B2B Tech feel human again | Brand designer, B2B Tech Creator | 50+ brands shaped | Building @Transcelestial | 🇸🇬 Singapore’s top brand & design creator)
-> Daniele Ponzo Technical skills may open the door, but clarity builds trust.
-> 
-> I have found that simplifying complex ideas often creates more opportunities.
-
-### Kim McNeilly (Empowering Self Healing Through the Power of Soul | Soul Healing Practitioner | Transformation Coach / Mentor | Exploring the Human Connection & AI)
-> Absolutely. It’s not just about speaking English well  it’s about being able to speak and understand with clarity. When people can clearly communicate their ideas, ask the right questions and understand others, that’s what builds trust and creates opportunities.
-> 
-> 
-> Daniele Ponzo
-
-### Marilyn PAU AI  Curate IQ Lab (Empowering Brands with Data Strategy & Business Intelligence design.)
-> But the ability to listen, understand, and communicate with clarity is what helps you grow and stay valuable.
-
-### Frank Burke (🇬🇧 British Communication Coach | Business English & British Culture | Helping International Professionals and Students Communicate with Confidence | CELTA | MBA | 22 Years in Hong Kong)
-> Being able to explain very complex ideas in simple easy to understand English is a vastly underrated skill Daniele Ponzo.  People often confuse better English with using more complex language.  For me, the opposite is true.
-

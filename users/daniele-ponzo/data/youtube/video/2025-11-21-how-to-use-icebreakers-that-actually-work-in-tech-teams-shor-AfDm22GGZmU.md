@@ -15,11 +15,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Use Icebreakers That Actually Work in Tech Teams #shorts
-
-## Transcript
-
 speaker_1: And uh yeah of course its not the solution but surely its part of of the solution So get people out of their comfort zone uh something very simple like an ice cream going outdoor is very simple you know not doing anything like
 
 speaker_2: Ice cream breaker

@@ -17,7 +17,3 @@ På TV4 Nyhetsmorgon pratar vi om en annan sorts pandemi, den om ensamhet. 20% a
 Vad kan du göra för att minska ensamheten? Jag bjuder på fem tips.
 
 https://lnkd.in/d3VKrecx
-
-### Shared Article: [Långvarig ensamhet – ett växande globalt problem](https://www.tv4.se/artikel/2wByIcDlNWrPzEzwQJ5uCc/langvarig-ensamhet-ett-vaexande-globalt-problem)
-> tv4.se
-

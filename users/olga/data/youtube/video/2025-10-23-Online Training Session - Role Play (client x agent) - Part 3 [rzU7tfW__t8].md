@@ -16,11 +16,6 @@ speakers:
   speaker_5: null
 ---
 
-
-# Online Training Session - Role Play (client x agent) - Part 3
-
-## Transcript
-
 speaker_1: Kshitij are you still ready to role play
 
 speaker_2: Yes

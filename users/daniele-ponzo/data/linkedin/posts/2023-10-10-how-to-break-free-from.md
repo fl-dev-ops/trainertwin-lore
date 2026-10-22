@@ -40,25 +40,3 @@ And you get all of this for free 🌟 .
 Just follow the link below.
 
 Less hesitation⬇️ More confidence⬆️ 👌
-
-### Shared Article: [Get my free book now!](https://solutionspeak-coaching.ck.page/c268ccf37f)
-> solutionspeak-coaching.ck.page
-
-
-## Comments (5)
-
-### Roberta Marigo (.)
-> This will help me. Thanks!
-
-### Robbie Kane (Time-saving lessons, tools & training for ESL teachers | DELTA-trained ESL & Business English Teacher | 90+ LinkedIn recommendations from teachers & clients 🙏)
-> This is amazing Daniele. So much value here! 👏
-
-### RETTAROLI José Gavardo (Facility Operations & Service Manager | Programme & Project Management | Smart Infrastructure & Sustainability | Ex-XEROX (UN & Fortune 500 accounts) | Geneva)
-> I just got the book, I have to say it's fantastic! I would say it's actually great read for anyone who wants to improve communication in general. Very professionally done, congratulations Danielle !!
-
-### Lesley Strachan MBA (Board Member & Series Producer | Lead on Participatory Projects | Specialising in Audio Drama, Co-Creation & Community Engagement)
-> What a great give-away!
-
-### David H. Stirling (High-Stakes Communication Coach for International Professionals | My C.A.S.E. Method™ helps you say what you mean — clearly, confidently, and without overthinking | Interviews, Promotions & Leadership Conversations)
-> Looks to be full of value Daniele Ponzo 👏
-

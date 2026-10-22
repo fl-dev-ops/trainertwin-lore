@@ -54,16 +54,3 @@ Quite metaphorical, I think.
 P.S. the picture is from a few years ago, I was climbing a “holy mountain”. Can anyone recognize it?
 
 #hiking #offthebeatenpath #reward #uphill
-
-## Comments (3)
-
-### Judit Varga ("No such thing as a stupid question")
-> Hiking into the unseen... mysterious and captivating photo 😊
-
-### Alessandro Paviotti (Cyber Security Advisor, Information Security Officer at Eurogroup)
-> Daniele we should definitely hike together! Nice post, I totally agree!
-
-### Francesco Mandolini (Copywriter, creative director, podcast producer, lecturer.)
-> I absolutely love hiking (and I suck at it 😅).
-> Such an inspiring post Daniele Ponzo
-

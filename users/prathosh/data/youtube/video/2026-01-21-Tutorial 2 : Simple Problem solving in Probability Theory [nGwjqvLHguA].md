@@ -1,6 +1,6 @@
 ---
 id: nGwjqvLHguA
-title: Tutorial 2 : Simple Problem solving in Probability Theory
+title: "Tutorial 2 : Simple Problem solving in Probability Theory"
 url: https://www.youtube.com/watch?v=nGwjqvLHguA
 date: '2026-01-21'
 duration: 53:51
@@ -9,10 +9,6 @@ transcript: true
 speakers:
   speaker_1: null
 ---
-
-# Tutorial 2 : Simple Problem solving in Probability Theory
-
-## Transcript
 
 speaker_1: Hello all welcome to this tutorial on
 problems of probability

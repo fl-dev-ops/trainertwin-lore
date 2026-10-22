@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Grow Your Supply Chain Business & Career FAST with Outsourcing — Secrets from a CEO
-
-
-## Transcript
-
 speaker_1: service offering we have developed a number of proprietary products as well uh merch metric is a great product you can uh you know i welcome you to learn a little bit more about it if you visit our website its really about you know optimizing your product page and making it more efficient its an ai enabled tool um so so what we did was using our resource and technology it used to take them 24 to 48 hours to reply to a call we were able to bring that down using technology and our resources we work 24 7 we have technology
 
 

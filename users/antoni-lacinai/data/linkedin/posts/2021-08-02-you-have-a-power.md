@@ -17,7 +17,3 @@ Du har en makt. Den är stor. Hur du använder den avgör hur folk mår och hur 
 Återgår till mitt sommarlov. Ha det bäst ^_^
 
 #kommunikation #motivation #ledarskap
-
-### Shared Article: [Du har en makt att få människor att må som du vill](https://buff.ly/3wz7Chq)
-> buff.ly
-

@@ -12,7 +12,3 @@ article:
 
 Verbal communication is the fundamental pillar of your workplace effectiveness. Watch this video to explore 5 things you can do to improve it. #communication #verbal #verbalcommunication #translationgap #softskillstraining #softskills #softskillsdevelopment #careercoaching #career #careerguidance #careercounseling #careeradvice #careerdevelopmentcoaching #jobtips #joblife #jobinterviewtips 
 https://lnkd.in/gpNwdzZJ
-
-### Shared Article: [How to improve your VERBAL COMMUNICATION? Try these 5 tips](https://youtu.be/BqV6tddLduM)
-> youtube.com
-

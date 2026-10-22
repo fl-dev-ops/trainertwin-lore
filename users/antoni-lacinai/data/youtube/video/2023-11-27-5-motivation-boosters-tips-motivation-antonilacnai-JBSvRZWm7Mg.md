@@ -23,9 +23,4 @@ speakers:
   speaker_1: null
 ---
 
-
-# 5 MOTIVATION BOOSTERS Tips #motivation #antonilacnai
-
-## Transcript
-
 speaker_1: So I will give you five concrete tips on how to keep that energy up and the motivation up as well The first one create a work space in your apartment or in your house The second one is to have discipline The third one might be a bit contradictive to the second one Be flexible Allow yourself to you know play with your kids if they are at home for a while Fourth uh communicate frequently a lot with whatever tools you have And five then Why not use something we can call cyberfika The Swedish word fika means coffee break And if you know anything about me you know that a meeting without a goal I used to say that a meeting without a goal is not a meeting Its a coffee break

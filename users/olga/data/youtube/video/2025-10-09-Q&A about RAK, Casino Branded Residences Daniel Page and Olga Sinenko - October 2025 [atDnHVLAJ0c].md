@@ -14,11 +14,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# Q&A about RAK, Casino Branded Residences Daniel Page and Olga Sinenko - October 2025
-
-## Transcript
-
 speaker_1: Okay thank you Dan And now for you guys I prepared a couple of objections potential concerns that the client can come up with and Dan is going to be here to overcome it
 
 speaker_2: Yes

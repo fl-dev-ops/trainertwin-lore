@@ -61,24 +61,3 @@ I'm just a message away.
 Keep learning ang keep growing!
 
 #english #speakingskills #itprofessionals
-
-## Comments (3)
-
-### Alessio Mavica (Senior Engineering Manager @ VEED | Shipping Generative AI Video Products | Ex-Director of Engineering & 2× CTO | Scaling Teams 10→50+)
-> Great, Daniele Ponzo
-> Hard skills are important,but soft skills are as well!
-
-### Michael Thibodeaux (Bridging Intelligence, DFIR, and Governance to Secure | Strategic Advisor | Building Global Security for $bn Organisations | M&A Due Diligence & Business Enabler Critical Operations Across IT, OT, and Global Enterprises.)
-> RPA???
-
-### Thomas Steinert (AI-Leader 4.0 - Transformative Leadership-Coaching - GROW PERSONALLY - DM Now!)
-> 👉Keep up the great work 
-> 👉Keep providing value 
-> 
-> PS: I'm hosting a webinar today 
-> At 16:30 GMT+1
-> 
-> Would love to welcome you there 😊 
-> 
-> Daniele Ponzo
-

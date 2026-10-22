@@ -9,9 +9,3 @@ comments: 1
 Very happy to collaborate with CSA Celebrity Speakers 😃 who have exclusivity in the Turkish market. 
 
 #keynotespeaker #leadership #communication #engagement #servantmindset
-
-## Comments (1)
-
-### Angeli Sjöström Hederberg (Samhällsentreprenör: ProcessRum.se och Medlemsutveckling.se)
-> Grattis till alla parter!
-

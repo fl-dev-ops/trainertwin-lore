@@ -18,9 +18,3 @@ I början av boken introduceras många karaktärer och jag tyckte att det kommer
 En uppfriskande, roligt och lättläst feelgood som jag kan varmt rekommendera. 
 ———————
 Min betyg blir 4/5
-
-## Comments (1)
-
-### Marcus Sandberg (Säljare)
-> Vad härligt Gratulerar 🥳
-

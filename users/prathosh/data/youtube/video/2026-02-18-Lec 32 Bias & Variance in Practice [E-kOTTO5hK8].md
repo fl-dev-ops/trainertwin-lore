@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 32 Bias & Variance in Practice
-
-## Transcript
-
 speaker_1: Welcome back Lets consider an example
 Okay lets construct a distribution and
 see how things work So lets say that

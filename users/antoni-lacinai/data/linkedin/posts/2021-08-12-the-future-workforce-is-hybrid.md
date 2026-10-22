@@ -19,13 +19,3 @@ Hur ser vår kommunikation och våra möten ut i den nära framtiden?
 Jag är stolt gäst hos Christian von Essen i podden Heja Framtiden där vi benar ut tankar om hybridmöten och annat. 
 
 #hejaframtiden #kommunikation #hybridmöten
-
-### Shared Article: [Heja Framtiden podcast #226: Antoni Lacinai – Heja Framtiden](https://buff.ly/3CBvlk1)
-> buff.ly
-
-
-## Comments (1)
-
-### Christian von Essen (HEJA FRAMTIDEN • podcast​ • föreläsningar • bokförlag​ • nyhetsbrev • scensamtal)
-> Tack för dina insikter Antoni Lacinai - jag tror många lyssnare kan ha nytta av det här samtalet.
-

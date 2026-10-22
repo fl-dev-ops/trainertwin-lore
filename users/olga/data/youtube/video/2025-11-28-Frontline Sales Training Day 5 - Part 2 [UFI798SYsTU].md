@@ -21,11 +21,6 @@ speakers:
   speaker_10: null
 ---
 
-
-# Frontline Sales Training Day 5 - Part 2
-
-## Transcript
-
 speaker_1: Um just because 16 was saying that hed been bombarded right He already kind of have and this is another trick that Im sharing with you he kind of already had this oh I dont want to to meet anyone right
 
 speaker_2: Mm hmm

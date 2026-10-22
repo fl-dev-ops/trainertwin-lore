@@ -12,11 +12,6 @@ speakers:
   speaker_1: null
 ---
 
-
-# Creativity goes down the drain if you feel unappreciated. In a rude environment…
-
-## Transcript
-
 speaker_1: Did you know that if youre in a rude and toxic environment youll lose about 38 percent of creativity in that organization Can you imagine what that would do to innovation customer satisfaction product availabilities in the future and so on
 
 

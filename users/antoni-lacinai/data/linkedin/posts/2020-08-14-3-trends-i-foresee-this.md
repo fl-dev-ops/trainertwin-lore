@@ -23,12 +23,3 @@ A laptop and it's built-in mic and camera will not cut it. These demands will cr
 And longer term? I believe that at least 50% of all events the coming year will be digital. At least 30%  after that will be digital. We've gotten used to them and see the benefits. 
 
 What's your opinion?
-
-## Comments (2)
-
-### Sanja Streuli (Föreläsare, processledare, coach, moderator. Sångerska och borgerlig begravningsofficiant. på BetterChange by Sanja)
-> Without a doubt! Especially no 2 (which of course includes no 1)
-
-### Jonas Dahlberg (Developing a customer communications infrastructure for the AI economy)
-> Spot on!
-

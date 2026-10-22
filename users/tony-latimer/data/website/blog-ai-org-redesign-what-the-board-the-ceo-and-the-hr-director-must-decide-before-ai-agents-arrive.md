@@ -5,9 +5,7 @@ date: "2026-01-01"
 source: website
 ---
 
-# AI Org Redesign: What Boards, CEOs and HR Must Decide
-
-# Redesigning for AI: What the Board, the CEO and the HR Director Must Decide Before AI Agents Arrive
+Redesigning for AI: What the Board, the CEO and the HR Director Must Decide Before AI Agents Arrive
 
 Most organisations are buying AI tools. Very few are redesigning the work.
 
@@ -21,54 +19,50 @@ The most important question about generative AI is no longer simply:
 
 Which tools should employees use?
 
-
 It is becoming:
 
 How should the organisation redesign work when AI agents can perform substantial parts of a workflow?
 
-
 That distinction separates ordinary technology adoption from organisational transformation. A company can give employees copilots and still leave its processes, reporting lines, approvals, job descriptions, incentives, and accountability unchanged. It may obtain local productivity gains, but it is unlikely to capture the larger value available from redesigning the system of work.
 
-Recent work from McKinsey and Sonar makes this point through software development. Their argument is that organisations should not merely insert AI into existing workflows; they should redesign the product-development lifecycle around the capabilities of both people and agents. The reported gains included significantly higher pull-request throughput and shorter development cycle times, demonstrating that the value came from workflow and operating-model redesign, not tool adoption alone.<sup>\[[1](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/rethinking-software-development-an-ai-native-approach), [2](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle)\]</sup>
+Recent work from McKinsey and Sonar makes this point through software development. Their argument is that organisations should not merely insert AI into existing workflows; they should redesign the product-development lifecycle around the capabilities of both people and agents. The reported gains included significantly higher pull-request throughput and shorter development cycle times, demonstrating that the value came from workflow and operating-model redesign, not tool adoption alone.[1, 2]
 
 This has direct implications for three groups that must see the issue differently but act together:
 
-- The **Board**, which must oversee strategy, risk, accountability, and workforce consequences.
-- The **CEO**, who must redesign how value is created and how work flows across the organisation.
-- The **HR director**, who must translate the redesigned work into roles, skills, career paths, training, performance management, and employee transition.
+- The Board, which must oversee strategy, risk, accountability, and workforce consequences.
+- The CEO, who must redesign how value is created and how work flows across the organisation.
+- The HR director, who must translate the redesigned work into roles, skills, career paths, training, performance management, and employee transition.
 
 The central proposition is:
 
 AI agents should not be treated merely as tools attached to existing jobs. They should be treated as participants in redesigned human-agent operating models.
 
-
 That does not mean every organisation should invent a collection of fashionable new titles. It means the organisation must examine what work is actually performed, decide what should be done by humans and agents, and then deliberately redesign roles around the resulting division of labour.
 
-## From automation to work redesign
+From automation to work redesign
 
 There are three increasingly ambitious levels of AI adoption.
 
-| Level | Description | Typical result | 
-|---|---|---|
-| Tool adoption | AI assists an existing task | A developer uses code completion | 
-| Workflow automation | AI performs several connected steps | An agent turns a request into a tested draft | 
-| Role and operating-model redesign | Work is reallocated across people, agents, systems, and controls | Humans focus on intent, judgement, exceptions, relationships, and accountability | 
+Level | Description | Typical result
+Tool adoption | AI assists an existing task | A developer uses code completion
+Workflow automation | AI performs several connected steps | An agent turns a request into a tested draft
+Role and operating-model redesign | Work is reallocated across people, agents, systems, and controls | Humans focus on intent, judgement, exceptions, relationships, and accountability
 
 Most organisations are still operating at the first level. They purchase a model or application, encourage employees to use it, and then hope that productivity will improve. The more consequential opportunity lies at the third level.
 
-McKinsey’s work on agentic organisations describes a future in which people and virtual or physical agents work together in hybrid systems. Some existing roles will shrink, others will expand or change, and new responsibilities will emerge around orchestration, governance, evaluation, and exception handling.<sup>\[[3](https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era)\]</sup>
+McKinsey’s work on agentic organisations describes a future in which people and virtual or physical agents work together in hybrid systems. Some existing roles will shrink, others will expand or change, and new responsibilities will emerge around orchestration, governance, evaluation, and exception handling.[3]
 
 This is not necessarily a prediction that organisations will create a separate “AI department” for every new responsibility. In many cases, the new work will initially be added to existing roles. A product manager may become responsible for supervising product agents. A finance manager may oversee automated controls and exceptions. A subject-matter expert may become a workflow designer and evaluator.
 
 The relevant question is not whether a new job title sounds modern. It is whether the organisation needs a continuing human capability that did not previously exist, or that previously existed only in a much smaller form.
 
-## The organisational evidence base
+The organisational evidence base
 
-The Sonar example is useful because it illustrates the difference between embedding AI in a task and reconstructing a system of work. McKinsey describes Sonar’s transformation as a redesign of the product-development lifecycle, including workflows, governance, and operating practices.<sup>\[[1](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/rethinking-software-development-an-ai-native-approach)\]</sup>
+The Sonar example is useful because it illustrates the difference between embedding AI in a task and reconstructing a system of work. McKinsey describes Sonar’s transformation as a redesign of the product-development lifecycle, including workflows, governance, and operating practices.[1]
 
 The sequence is important. An agent may initially review code, then identify issues, then propose fixes, then eventually participate in approval and merge processes. Each step transfers more execution and decision-making responsibility to the agent. The organisation must therefore define new quality gates, escalation rules, permissions, and human responsibilities.
 
-McKinsey’s CEO guidance makes a similar point: capturing value from agents requires redesigning workflows around business outcomes, either within a function or across an end-to-end process such as lead-to-order. Agents need explicit access rights, decision rights, governance rules, and quality gates so that supervising humans are not overwhelmed.<sup>\[[4](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-change-agent-goals-decisions-and-implications-for-ceos-in-the-agentic-age)\]</sup>
+McKinsey’s CEO guidance makes a similar point: capturing value from agents requires redesigning workflows around business outcomes, either within a function or across an end-to-end process such as lead-to-order. Agents need explicit access rights, decision rights, governance rules, and quality gates so that supervising humans are not overwhelmed.[4]
 
 The Conference Board’s 2026 framework expresses the sequence in practical terms:
 
@@ -78,15 +72,15 @@ The Conference Board’s 2026 framework expresses the sequence in practical term
 4. Decide what AI should do, what people should do, and where they should work together.
 5. Assign a person accountable for the workflow’s result and the use of agents within it.
 6. Build the required data, permissions, controls, skills, and monitoring.
-7. Measure the value of the combined work of people and agents rather than focusing only on headcount or cost per employee.<sup>\[[5](https://www.conference-board.org/publications/framework-for-agentic-AI-and-work-redesign), [6](https://www.conference-board.org/press/unlock-value-ofAI-agents)\]</sup>
+7. Measure the value of the combined work of people and agents rather than focusing only on headcount or cost per employee.[5, 6]
 
 That sequence is more useful than beginning with a technology catalogue.
 
-## The organisational map required
+The organisational map required
 
 To redesign work intelligently, an organisation needs more than a collection of job descriptions. It needs an integrated map connecting business outcomes, processes, roles, tasks, systems, decisions, and risks.
 
-### Job descriptions
+Job descriptions
 
 Job descriptions explain the formal organisation:
 
@@ -100,7 +94,7 @@ They are necessary, but insufficient. They describe intended work rather than ne
 
 A role described as “manage key client relationships” may involve account analysis, meeting preparation, opportunity detection, proposal drafting, coordination, negotiation, escalation, and relationship maintenance. Those activities have different automation potential and different risk profiles.
 
-### Task inventories
+Task inventories
 
 The task is the more useful unit for AI analysis.
 
@@ -123,16 +117,15 @@ For each task, the organisation should record:
 
 For example:
 
-| Task | Possible agent contribution | Human responsibility | 
-|---|---|---|
-| Prepare quarterly client review | Retrieve data, detect patterns, draft agenda and briefing | Interpret implications, manage relationship, decide what to discuss | 
-| Draft proposal | Assemble relevant material and create first draft | Set commercial position, validate promises, approve final proposal | 
-| Monitor industry developments | Search, summarise, classify, and alert | Decide strategic significance and response | 
-| Handle sensitive client concern | Retrieve history and suggest options | Conduct conversation, exercise judgement, preserve trust | 
+Task | Possible agent contribution | Human responsibility
+Prepare quarterly client review | Retrieve data, detect patterns, draft agenda and briefing | Interpret implications, manage relationship, decide what to discuss
+Draft proposal | Assemble relevant material and create first draft | Set commercial position, validate promises, approve final proposal
+Monitor industry developments | Search, summarise, classify, and alert | Decide strategic significance and response
+Handle sensitive client concern | Retrieve history and suggest options | Conduct conversation, exercise judgement, preserve trust
 
 This task-level view prevents the organisation from asking the overly broad question, “Will AI replace this role?” Most roles are bundles of tasks. Some tasks may be delegated; others may become more important for the human.
 
-### Process maps
+Process maps
 
 Process maps show how work travels across the organisation. They link:
 
@@ -157,11 +150,11 @@ The organisation should not necessarily begin by drawing one enormous map of eve
 
 The maps should distinguish between the process as designed and the process as executed.
 
-Process mining can use event logs from systems such as CRM, ERP, finance, service management, and HR platforms to reconstruct how work actually happens. It can expose bottlenecks, rework, skipped steps, delays, and unexpected process variants.<sup>\[[7](http://eprints.umsida.ac.id/16390/1/143-170+AI-Enhanced+Process+Mining+in+Business+Analysis.pdf), [8](https://aris.com/resources/what-is-process-mining/)\]</sup>
+Process mining can use event logs from systems such as CRM, ERP, finance, service management, and HR platforms to reconstruct how work actually happens. It can expose bottlenecks, rework, skipped steps, delays, and unexpected process variants.[7, 8]
 
 But process mining cannot see everything. It may not capture phone calls, informal conversations, personal spreadsheets, tacit knowledge, or expert workarounds. Therefore, the strongest approach combines system evidence with employee interviews, workshops, documentation, and AI-assisted analysis.
 
-### Decision maps
+Decision maps
 
 A decision map goes beyond showing where work travels. It identifies where judgement and authority are exercised.
 
@@ -183,7 +176,7 @@ A useful example is an expense process. An agent might check whether a receipt i
 
 The process map tells us where the expense claim goes. The decision map tells us who has authority to make each decision and what the agent may do.
 
-### Risk and control maps
+Risk and control maps
 
 The risk map identifies what could go wrong and what controls are required.
 
@@ -201,13 +194,13 @@ It should include:
 - Agent drift or performance deterioration.
 - Escalation failure.
 
-NIST’s AI Risk Management Framework is intended to help organisations incorporate trustworthiness into the design, development, use, and evaluation of AI systems. Its generative-AI profile identifies risks and risk-management actions specific to generative AI.<sup>\[[9](https://www.nist.gov/itl/ai-risk-management-framework), [10](https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence)\]</sup>
+NIST’s AI Risk Management Framework is intended to help organisations incorporate trustworthiness into the design, development, use, and evaluation of AI systems. Its generative-AI profile identifies risks and risk-management actions specific to generative AI.[9, 10]
 
-ISO/IEC 42001 provides a management-system approach for organisations that develop or use AI. It covers leadership, policy, risk management, data governance, transparency, performance monitoring, and continual improvement.<sup>\[[11](https://www.iso.org/standard/42001), [12](https://www.iso.org/home/insights-news/resources/iso-42001-explained-what-it-is.html)\]</sup>
+ISO/IEC 42001 provides a management-system approach for organisations that develop or use AI. It covers leadership, policy, risk management, data governance, transparency, performance monitoring, and continual improvement.[11, 12]
 
 These frameworks do not eliminate the need for organisational judgement. They provide structures through which judgement can be made repeatable, auditable, and governable.
 
-## What AI can do, and what it cannot own
+What AI can do, and what it cannot own
 
 AI can assist with much of the mapping work.
 
@@ -244,14 +237,13 @@ The correct model is therefore:
 
 AI discovers, drafts, compares, simulates, and monitors. Humans interpret, validate, authorise, and remain accountable.
 
+This is especially important because introducing an agent is not merely a technology decision. It is often a transfer of decision rights. McKinsey’s governance guidance emphasises the need to define the scope, ownership, and auditability of agents and their actions.[13]
 
-This is especially important because introducing an agent is not merely a technology decision. It is often a transfer of decision rights. McKinsey’s governance guidance emphasises the need to define the scope, ownership, and auditability of agents and their actions.<sup>\[[13](https://www.mckinsey.com.br/capabilities/risk-and-resilience/our-insights/trust-in-the-age-of-agents)\]</sup>
-
-## What this means for the board
+What this means for the board
 
 The board should not treat AI as solely an operational or IT matter. It should ask whether management has understood how AI changes the company’s operating model, risk profile, workforce, and competitive position.
 
-### Strategic questions
+Strategic questions
 
 The board should ask:
 
@@ -264,7 +256,7 @@ The board should ask:
 
 The board should be cautious about accepting productivity claims that are not tied to outcomes. More generated content, more automated actions, or more software commits do not necessarily mean more value.
 
-### Governance questions
+Governance questions
 
 The board should ask:
 
@@ -278,9 +270,9 @@ The board should ask:
 - What happens if an agent must be suspended or rolled back?
 - Are material AI risks included in the enterprise risk framework?
 
-PwC’s guidance for boards argues that boards should challenge management to redesign roles, decision rights, skills, and accountability rather than simply automate existing processes. It also identifies workforce readiness, employee trust, and the shift toward a workforce of people and agents as board-level concerns.<sup>\[[14](https://www.pwc.com/us/en/services/governance-insights-center/library/board-oversight-ai.html)\]</sup>
+PwC’s guidance for boards argues that boards should challenge management to redesign roles, decision rights, skills, and accountability rather than simply automate existing processes. It also identifies workforce readiness, employee trust, and the shift toward a workforce of people and agents as board-level concerns.[14]
 
-### Workforce questions
+Workforce questions
 
 The board should ask:
 
@@ -293,7 +285,7 @@ The board should ask:
 
 The board does not need to design every future job description. It does need assurance that management is addressing the consequences systematically.
 
-## What this means for the CEO
+What this means for the CEO
 
 The CEO’s task is to connect AI adoption to the organisation’s value-creation model.
 
@@ -304,7 +296,7 @@ The CEO should resist two common errors:
 
 The more important CEO responsibility is to identify where agent-enabled redesign can improve the company’s strategic outcomes.
 
-### Begin with value streams
+Begin with value streams
 
 The CEO should select a limited number of high-value workflows and ask:
 
@@ -318,7 +310,7 @@ The CEO should select a limited number of high-value workflows and ask:
 
 The CEO should then appoint one accountable owner for each priority workflow. The owner should be responsible not only for the process outcome but also for how agents are used inside it.
 
-### Redesign before deployment
+Redesign before deployment
 
 The organisation should not simply insert an agent into a broken process. It should first challenge the process itself:
 
@@ -330,29 +322,28 @@ The organisation should not simply insert an agent into a broken process. It sho
 - Could the process be personalised or monitored continuously?
 - What would the process look like if designed from scratch around agents?
 
-McKinsey’s change-management guidance recommends mapping what a key role’s week looks like today and what it should look like tomorrow, including the decisions at which an agent enters the workflow and the moments when a person accepts, rejects, or overrides the agent’s input.<sup>\[[15](https://www.mckinsey.com/capabilities/people-and-organization/our-insights/how-to-close-the-agentic-adoption-gap)\]</sup>
+McKinsey’s change-management guidance recommends mapping what a key role’s week looks like today and what it should look like tomorrow, including the decisions at which an agent enters the workflow and the moments when a person accepts, rejects, or overrides the agent’s input.[15]
 
-### Design agent autonomy deliberately
+Design agent autonomy deliberately
 
 A useful autonomy ladder might be:
 
-| Level | Agent role | Human role | 
-|---|---|---|
-| 1 | Retrieve and summarise | Review information | 
-| 2 | Recommend | Accept, reject, or edit | 
-| 3 | Execute low-risk actions | Monitor | 
-| 4 | Execute within defined thresholds | Handle exceptions | 
-| 5 | Coordinate multiple agents | Govern the system and intervene when needed | 
+Level | Agent role | Human role
+1 | Retrieve and summarise | Review information
+2 | Recommend | Accept, reject, or edit
+3 | Execute low-risk actions | Monitor
+4 | Execute within defined thresholds | Handle exceptions
+5 | Coordinate multiple agents | Govern the system and intervene when needed
 
 The organisation should not move up the ladder merely because the technology appears capable. It should do so only when evidence, controls, and accountability are adequate.
 
-## What this means for the HR director
+What this means for the HR director
 
 HR is not merely responsible for retraining employees after technology has been selected. In an agentic organisation, HR must help design the work itself.
 
-The Conference Board explicitly argues that IT may own the technology, but HR should help shape roles, skills, staffing, training, and change management wherever AI alters how work gets done.<sup>\[[6](https://www.conference-board.org/press/unlock-value-ofAI-agents)\]</sup>
+The Conference Board explicitly argues that IT may own the technology, but HR should help shape roles, skills, staffing, training, and change management wherever AI alters how work gets done.[6]
 
-### Build a work and skills inventory
+Build a work and skills inventory
 
 HR should move beyond static job descriptions toward a structured inventory of:
 
@@ -370,9 +361,9 @@ HR should move beyond static job descriptions toward a structured inventory of:
 
 This inventory should be dynamic. As workflows change, role profiles and skill requirements should change with them.
 
-McKinsey’s technology-workforce research recommends a skills-based view rather than relying exclusively on static role definitions. It also argues that people will need support to move into roles where they manage agents alongside colleagues.<sup>\[[16](https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/designing-an-end-to-end-technology-workforce-for-the-ai-first-era)\]</sup>
+McKinsey’s technology-workforce research recommends a skills-based view rather than relying exclusively on static role definitions. It also argues that people will need support to move into roles where they manage agents alongside colleagues.[16]
 
-### Redesign the human role
+Redesign the human role
 
 HR should ask what remains for the human after the agent takes on execution.
 
@@ -390,21 +381,21 @@ The answer may include:
 - Improving the workflow.
 - Maintaining trust.
 
-These responsibilities may require greater skill, not less. The World Economic Forum’s Future of Jobs research identifies AI and big-data skills as increasingly important while also emphasising leadership, social influence, creative thinking, resilience, and other human capabilities.<sup>\[[17](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)\]</sup>
+These responsibilities may require greater skill, not less. The World Economic Forum’s Future of Jobs research identifies AI and big-data skills as increasingly important while also emphasising leadership, social influence, creative thinking, resilience, and other human capabilities.[17]
 
-### Create new capabilities where necessary
+Create new capabilities where necessary
 
 Possible AI-native responsibilities include:
 
-- **AI workflow architect:** Redesigns end-to-end work around human and agent capabilities.
-- **Agent operations lead:** Monitors deployed agents, permissions, failures, and performance.
-- **AI quality and evaluation lead:** Creates tests, benchmarks, red-team scenarios, and acceptance criteria.
-- **Knowledge architect:** Structures organisational knowledge so agents can retrieve and use it reliably.
-- **Human-in-the-loop designer:** Defines where human review is required and what evidence the reviewer must examine.
-- **AI governance and risk specialist:** Establishes policies, controls, documentation, and monitoring.
-- **Workforce planning architect:** Connects AI strategy to organisational design, staffing, capability development, and workforce transition.
+- AI workflow architect: Redesigns end-to-end work around human and agent capabilities.
+- Agent operations lead: Monitors deployed agents, permissions, failures, and performance.
+- AI quality and evaluation lead: Creates tests, benchmarks, red-team scenarios, and acceptance criteria.
+- Knowledge architect: Structures organisational knowledge so agents can retrieve and use it reliably.
+- Human-in-the-loop designer: Defines where human review is required and what evidence the reviewer must examine.
+- AI governance and risk specialist: Establishes policies, controls, documentation, and monitoring.
+- Workforce planning architect: Connects AI strategy to organisational design, staffing, capability development, and workforce transition.
 
-KPMG’s research specifically discusses new roles spanning strategy, operations, governance, workforce planning, AI security, and ethics. It also suggests that organisations may need to give agents formal identities and defined places within HR and organisational systems.<sup>\[[18](https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/25-18819-agents-of-change-workforce.pdf)\]</sup>
+KPMG’s research specifically discusses new roles spanning strategy, operations, governance, workforce planning, AI security, and ethics. It also suggests that organisations may need to give agents formal identities and defined places within HR and organisational systems.[18]
 
 These roles should not automatically become new permanent departments. HR should first determine whether the responsibility is:
 
@@ -414,7 +405,7 @@ These roles should not automatically become new permanent departments. HR should
 - A full-time specialist role.
 - A capability that can be supplied externally.
 
-### Change performance management
+Change performance management
 
 Traditional performance systems may become misleading when employees work with agents.
 
@@ -430,15 +421,15 @@ For example, an employee may produce more output because an agent performs much 
 
 Performance management should therefore assess the quality of orchestration and judgement, not merely visible activity.
 
-## New roles versus redesigned roles
+New roles versus redesigned roles
 
 It is useful to distinguish three categories.
 
-### Existing role, unchanged
+Existing role, unchanged
 
 Some roles may be affected very little, especially where work depends heavily on physical presence, deep interpersonal trust, or unusual expert judgement.
 
-### Existing role, substantially redesigned
+Existing role, substantially redesigned
 
 This will probably be the most common category. Examples include:
 
@@ -448,13 +439,13 @@ This will probably be the most common category. Examples include:
 - Executive coach becoming a coach supported by a governed knowledge and analysis system.
 - Developer becoming an architect, evaluator, and supervisor of coding agents.
 
-### Genuinely new role
+Genuinely new role
 
 A new role is justified where the organisation has a continuing responsibility that no existing role can reasonably absorb. Examples include enterprise agent operations, AI governance, evaluation, workflow architecture, and knowledge architecture.
 
 The goal should not be to create new titles. The goal should be to ensure that important responsibilities have clear owners.
 
-## Can a general-purpose AI model do the analysis?
+Can a general-purpose AI model do the analysis?
 
 Yes, but only if it is given sufficiently rich and reliable organisational evidence.
 
@@ -494,14 +485,13 @@ The best formulation is:
 
 Use AI to accelerate organisational diagnosis and design, but use accountable humans to validate meaning, set boundaries, allocate decision rights, and approve changes.
 
-
-## A practical implementation model
+A practical implementation model
 
 From reading all these articles and papers, the question that came to my mind was: How could this be turned into an implementation model that can be scaled from simple in the smaller organization up to the needs of a large, complex organization.
 
 And what emerged from that thinking was that an organisation could approach this in five stages.
 
-### Stage 1: Establish the governance frame
+Stage 1: Establish the governance frame
 
 The board and CEO define:
 
@@ -514,7 +504,7 @@ The board and CEO define:
 
 HR, risk, legal, operations, and technology should be involved from the beginning.
 
-### Stage 2: Select priority value streams
+Stage 2: Select priority value streams
 
 Choose a small number of processes with:
 
@@ -527,7 +517,7 @@ Choose a small number of processes with:
 
 Do not begin by mapping the entire organisation at equal depth.
 
-### Stage 3: Build the evidence base
+Stage 3: Build the evidence base
 
 Gather:
 
@@ -542,7 +532,7 @@ Gather:
 
 Use AI to consolidate and draft the maps, but ask employees and managers to validate them.
 
-### Stage 4: Design the human-agent operating model
+Stage 4: Design the human-agent operating model
 
 For each task and decision, specify:
 
@@ -557,7 +547,7 @@ For each task and decision, specify:
 - Failure response.
 - Skills required of the human role.
 
-### Stage 5: Pilot, measure, and institutionalise
+Stage 5: Pilot, measure, and institutionalise
 
 Measure:
 
@@ -574,7 +564,7 @@ Measure:
 
 Then update the process map, role profiles, skills framework, controls, and training based on actual evidence.
 
-## The leadership conclusion
+The leadership conclusion
 
 The realization I came to is not that every company should create a large collection of new AI job titles. It is that organisations must stop treating AI as an add-on to a static organisation.
 
@@ -592,187 +582,185 @@ From headcount planning to human-agent capacity planning.
 
 From informal experimentation to governed operating models.
 
-
 The board should ask whether the company is managing the strategic and accountability implications. The CEO should redesign work around outcomes and value streams. The HR director should translate the redesign into roles, skills, career pathways, training, performance systems, and fair workforce transitions.
 
 The most important practical principle is this:
 
 AI can help discover how an organisation works and propose how it might work better. But the organisation’s leaders must decide what work should be done, who should be accountable, what authority may be delegated, and which human capabilities must remain central.
 
+References
 
-## References
+Numbers in square brackets in the text link directly to the sources below.
 
-*Numbers in square brackets in the text link directly to the sources below.*
+[1] McKinsey
 
-**\[1\]** McKinsey
+Rethinking software development: An AI-native approach
 
-**Rethinking software development: An AI-native approach**
+Sonar case on redesigning product development around AI agents.
 
-*Sonar case on redesigning product development around AI agents.*
+[2] McKinsey
 
-**\[2\]** McKinsey
+Beyond the copilot: Scaling the agentic product development life cycle
 
-**Beyond the copilot: Scaling the agentic product development life cycle**
+Workflow redesign, role change, and agentic product development.
 
-*Workflow redesign, role change, and agentic product development.*
+[3] McKinsey
 
-**\[3\]** McKinsey
+The agentic organization: A new operating model for AI
 
-**The agentic organization: A new operating model for AI**
+Human-agent operating models and emerging work patterns.
 
-*Human-agent operating models and emerging work patterns.*
+[4] McKinsey
 
-**\[4\]** McKinsey
+CEO strategies for leading in the age of agentic AI
 
-**CEO strategies for leading in the age of agentic AI**
+CEO priorities, workflow redesign, access rights, and quality gates.
 
-*CEO priorities, workflow redesign, access rights, and quality gates.*
+[5] The Conference Board
 
-**\[5\]** The Conference Board
+A Framework for Agentic AI and Work Redesign
 
-**A Framework for Agentic AI and Work Redesign**
+Five-stage framework for CHROs and work redesign.
 
-*Five-stage framework for CHROs and work redesign.*
+[6] The Conference Board
 
-**\[6\]** The Conference Board
+Report: Companies Need a New Playbook to Unlock the Value of AI Agents
 
-**Report: Companies Need a New Playbook to Unlock the Value of AI Agents**
+[7] UMSIDA Repository (PDF)
 
-**\[7\]** UMSIDA Repository (PDF)
+AI-Enhanced Process Mining in Business Analysis
 
-**AI-Enhanced Process Mining in Business Analysis**
+[8] ARIS
 
-**\[8\]** ARIS
+What is process mining? Why it matters and how to get started
 
-**What is process mining? Why it matters and how to get started**
+[9] NIST
 
-**\[9\]** NIST
+AI Risk Management Framework
 
-**AI Risk Management Framework**
+Trustworthiness and risk management for AI systems.
 
-*Trustworthiness and risk management for AI systems.*
+[10] NIST
 
-**\[10\]** NIST
+Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile
 
-**Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile**
+Generative-AI-specific risk guidance.
 
-*Generative-AI-specific risk guidance.*
+[11] ISO
 
-**\[11\]** ISO
+ISO/IEC 42001:2023, AI management systems
 
-**ISO/IEC 42001:2023, AI management systems**
+International standard for organisation-wide AI management systems.
 
-*International standard for organisation-wide AI management systems.*
+[12] ISO
 
-**\[12\]** ISO
+ISO 42001 explained
 
-**ISO 42001 explained**
+[13] McKinsey
 
-**\[13\]** McKinsey
+Trust in the age of agents: Agentic AI governance for autonomous systems
 
-**Trust in the age of agents: Agentic AI governance for autonomous systems**
+Decision rights, ownership, and agent governance.
 
-*Decision rights, ownership, and agent governance.*
+[14] PwC
 
-**\[14\]** PwC
+Board oversight of AI transformation
 
-**Board oversight of AI transformation**
+Board responsibilities for AI, workforce, roles, and accountability.
 
-*Board responsibilities for AI, workforce, roles, and accountability.*
+[15] McKinsey
 
-**\[15\]** McKinsey
+Agentic AI change management: Closing the adoption gap
 
-**Agentic AI change management: Closing the adoption gap**
+Persona-based change journeys and redesigning the role’s week.
 
-*Persona-based change journeys and redesigning the role’s week.*
+[16] McKinsey
 
-**\[16\]** McKinsey
+Designing an end-to-end technology workforce for the AI-first era
 
-**Designing an end-to-end technology workforce for the AI-first era**
+Skills-based workforce design and new technology roles.
 
-*Skills-based workforce design and new technology roles.*
+[17] World Economic Forum
 
-**\[17\]** World Economic Forum
+Future of Jobs Report 2025
 
-**Future of Jobs Report 2025**
+Workforce transformation, AI skills, leadership, creativity, and reskilling.
 
-*Workforce transformation, AI skills, leadership, creativity, and reskilling.*
+[18] KPMG
 
-**\[18\]** KPMG
+Agents of change: New organizational roles in the age of AI
 
-**Agents of change: New organizational roles in the age of AI**
+Emerging roles in workforce planning, governance, security, ethics, and agent operations.
 
-*Emerging roles in workforce planning, governance, security, ethics, and agent operations.*
+[19] McKinsey
 
-**\[19\]** McKinsey
+Unlocking AI and agentic for your organization
 
-**Unlocking AI and agentic for your organization**
+Redesigning workforce roles, skills, and talent profiles.
 
-*Redesigning workforce roles, skills, and talent profiles.*
+Further reading
 
-### Further reading
+[20] Deloitte
 
-**\[20\]** Deloitte
+Rethinking operating models for humans with agents
 
-**Rethinking operating models for humans with agents**
+[21] NIST
 
-**\[21\]** NIST
+Generative AI
 
-**Generative AI**
+[22] NIST
 
-**\[22\]** NIST
+AI RMF Resources
 
-**AI RMF Resources**
+[23] ISO
 
-**\[23\]** ISO
+AI management systems: What businesses need to know
 
-**AI management systems: What businesses need to know**
+[24] ISO
 
-**\[24\]** ISO
+Responsible AI governance and impact standards package
 
-**Responsible AI governance and impact standards package**
+[25] NIST
 
-**\[25\]** NIST
+NIST AI 600-1: Generative Artificial Intelligence Profile (PDF)
 
-**NIST AI 600-1: Generative Artificial Intelligence Profile (PDF)**
+[26] ANSI Webstore
 
-**\[26\]** ANSI Webstore
+ISO/IEC 42001:2023 preview (PDF)
 
-**ISO/IEC 42001:2023 preview (PDF)**
+[27] Deloitte
 
-**\[27\]** Deloitte
+ISO 42001 Standard for AI Governance and Risk Management
 
-**ISO 42001 Standard for AI Governance and Risk Management**
+[28] BSI
 
-**\[28\]** BSI
+ISO 42001: AI Management System
 
-**ISO 42001: AI Management System**
+[29] World Economic Forum
 
-**\[29\]** World Economic Forum
+New Economy Skills: Unlocking the Human Advantage (PDF)
 
-**New Economy Skills: Unlocking the Human Advantage (PDF)**
+[30] World Economic Forum
 
-**\[30\]** World Economic Forum
+Four Futures for Jobs in the New Economy: AI and Talent in 2030 (PDF)
 
-**Four Futures for Jobs in the New Economy: AI and Talent in 2030 (PDF)**
+[31] McKinsey
 
-**\[31\]** McKinsey
+Case study: AI in the product development life cycle
 
-**Case study: AI in the product development life cycle**
+[32] McKinsey
 
-**\[32\]** McKinsey
+HR’s dual mandate in the AI era
 
-**HR’s dual mandate in the AI era**
+[33] McKinsey
 
-**\[33\]** McKinsey
+Software development: Leading the AI revolution
 
-**Software development: Leading the AI revolution**
+[34] McKinsey
 
-**\[34\]** McKinsey
+Agentic AI operating model for enterprise value
 
-**Agentic AI operating model for enterprise value**
-
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

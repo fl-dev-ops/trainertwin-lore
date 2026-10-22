@@ -21,11 +21,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to Overcome Language Barriers #podcast #globalspeakerstalk #nonnativeenglishspeakers #shorts
-
-## Transcript
-
 speaker_1: And so like was that uh what like what negative emotions did you have that time
 
 speaker_2: Yeah For that one you know when you feel left out you know you kind of have lower self esteem because youre not able to become confident in representing yourself or you know also with if you have low communication and not being able to connect with your peers Youre kind of feel like oh is there something wrong with me or like something like that And you know its a natural feeling of you know its just a continuous like negative cycle And thats when you start to you know want to push yourself and improve

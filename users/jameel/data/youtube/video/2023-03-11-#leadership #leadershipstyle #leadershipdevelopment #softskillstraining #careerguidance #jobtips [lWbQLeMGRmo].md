@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# #leadership #leadershipstyle #leadershipdevelopment #softskillstraining #careerguidance #jobtips
-
-
-## Transcript
-
 speaker_1: So Varun from India sent me a question that he has just started his new job as a middle manager and hes struggling to understand the leadership style of his new GM Now this is a very valid question because if you think about Steve Jobs Jeff Bezos Indira Nui Sundar Pichai Jack Welch and so on all of these are great leaders but is their leadership style the same Absolutely not And understanding the leadership style of the leaders in your organization can help you maneuver your career better
 
 speaker_2: Peace

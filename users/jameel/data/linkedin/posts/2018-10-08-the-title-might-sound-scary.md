@@ -11,7 +11,3 @@ article:
 ---
 
 The title might sound scary but the concept of Control Tower is taking shape. Awareness and implementation skills of this concept are moving from nice to have to must have competencies for SC Managers.
-
-### Shared Article: [The Death of Supply Chain Management](https://hbr.org/2018/06/the-death-of-supply-chain-management?autocomplete=true)
-> hbr.org
-

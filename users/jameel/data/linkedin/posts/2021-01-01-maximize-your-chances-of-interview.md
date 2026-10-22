@@ -12,7 +12,3 @@ article:
 
 Maximize your chances of interview success by following the S.T.A.R model. Subscribe to the Soft Skills Channel for tips on real life skills that they don't teach in college! #interviewtips #interviewprep #interviewcoaching #interviewready #interviewpreparation #interviewadvice #interviewsuccess #jobinterview #jobhuntingtips 
 https://lnkd.in/gS3QN3m
-
-### Shared Article: [How to Interview like a S.T.A.R](https://youtu.be/3WfMpfzqgoQ)
-> youtube.com
-

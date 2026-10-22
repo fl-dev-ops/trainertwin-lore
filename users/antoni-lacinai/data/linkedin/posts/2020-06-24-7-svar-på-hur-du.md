@@ -19,9 +19,3 @@ Du kan lyfta det utan att att bli synbart provocerad. Säg till exempel: "Vad me
 Svara om du kan eller släpp frågan till publiken och be om hjälp med svaret. 
 
 #kommunikation #presentation #ledarskap
-
-## Comments (1)
-
-### Lisbeth Rudemalm (Helping you to your own sustainable business with a global business platform. Time for a change? We have the idea and You run it #Quality4You)
-> Bra tips! Ta ett djupt andetag innan också på nr 4 😉
-

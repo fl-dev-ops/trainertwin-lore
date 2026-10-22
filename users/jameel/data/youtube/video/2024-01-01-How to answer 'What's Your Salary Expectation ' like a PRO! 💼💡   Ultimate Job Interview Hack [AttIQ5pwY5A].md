@@ -13,12 +13,6 @@ speakers:
   speaker_2: null
 ---
 
-
-# How to answer 'What's Your Salary Expectation?' like a PRO! 💼💡 | Ultimate Job Interview Hack
-
-
-## Transcript
-
 speaker_1: So what is your salary expectation
 
 speaker_2: I dont know whatever you think is fair I want a six figure salary because I think Im worth it I at least need 50 percent more than my previous position Oh I expect to be paid double than the industry standard for this role I think my salary should be at least two hundred fifty thousand dollars You know Im going through a very tough time financially and I need a higher salary I wont accept anything less than two hundred thousand dollars If you cant pay me that much Im not interested in this job Dont give those

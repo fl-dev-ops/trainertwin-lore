@@ -52,32 +52,3 @@ If that’s something you’re interested in, give me a follow and ring the bell
 ➡ Daniele
  
  #hack #lifehacks #itprofessionals #english #development
-
-## Comments (6)
-
-### Pinki Pinki (Attended Delhi University)
-> I agree!
-
-### Jitendra Kumar, SPC,  SAFe (300+ career transitions (SM/PO/BA/Agile Coach) | Built Skill Yantra | SPC-SAFe & Agile Trainer | 1000+ professionals trained)
-> Your H.A.C.K. strategy seems logical and practical. Daniele Ponzo
-
-### Maksym Zaletskyi (Fractional COO | Help booked-out owners fix bottlenecks, deliver on time & add capacity before hiring)
-> COLLABORATE and KUDOS are so important! Daniele ))
-> 
-> Seeking feedback and giving yourself credit for your efforts can make a huge difference in your confidence and growth.
-> 
-> Loved it
-
-### Mahmoudi Abderrahmane 👻 (I build marketing systems for schools & education brands | Paid Ads · Funnels · CRM & AI Automation | Head of Marketing & Sales @ Sahlah Academy)
-> These are great tips.
-> Can be more impactful for beginners to write down these bullet points to be totally focused on speaking with overthinking the flow of idea
-
-### Tushar Sadana (Crafting Quality & Scalable Code | IT Consultant | Backend Developer | Full Stack Developer | Python | FastAPI)
-> Breaking down your speech into bullet points and practicing until you feel confident can make a huge difference. Daniele Ponzo
-> 
-> I also love the emphasis on collaboration and giving yourself kudos – it’s so important to acknowledge our progress.
-
-### Vittoria Nervi ☆ Business speaking coach ▫️ Career strategist▫️BNI (I support professionals to Unblock the Speaking Blocks and to develop English language skills that are useful in an office or other business environments)
-> Daniele Ponzo we often forget to give ourselves  a "kudos” which 
-> can do wonders for your motivation and confidence. We tend to focus so much on what we did wrong or how we could improve, but taking a moment to celebrate what we've done right is just as important. It's these small victories that build up over time and help us grow.😎
-

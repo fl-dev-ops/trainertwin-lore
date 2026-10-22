@@ -13,10 +13,6 @@ language: sa-IN
 content: recitation
 ---
 
-# Skandha 01 Adhyaya 10 to 20 SrimadBhagavatam
-
-## Transcript
-
 speaker_1: शौनक उवाच
 हत्वा स्वरिक्थस्पृध आततायिनो युधिष्ठिरो धर्मभृताङ्गविस्थितः
 सहानुजैः प्रत्यवरुद्धभोजनः कथं प्रवृत्तः किमकार्षीत्ततः

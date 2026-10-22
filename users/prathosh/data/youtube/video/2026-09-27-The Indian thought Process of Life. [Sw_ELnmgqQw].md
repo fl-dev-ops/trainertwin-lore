@@ -14,10 +14,6 @@ speakers:
 language: en-IN
 ---
 
-# The Indian thought Process of Life.
-
-## Transcript
-
 speaker_1: उत्तम वेद मंत्र पाठक के गुण होते हैं जो पाणिनीय शिक्षा इस ग्रंथ में बताए गए हैं
 
 speaker_2: गुरुभ्यो नमः

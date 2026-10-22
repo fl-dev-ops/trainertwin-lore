@@ -5,9 +5,7 @@ date: "2026-01-01"
 source: website
 ---
 
-# motivation made easy
-
-# You can't motivate anyone
+You can't motivate anyone
 
 Before we look at how to coach people, you need to understand a bit about motivation. Or more importantly, what causes people to be de-motivated.
 
@@ -17,11 +15,11 @@ There are two factors in motivation, or lack of it.
 
 Aspirations and Problems.
 
-**Aspirations.**
+Aspirations.
 
 If you understand your team’s Aspirations, you stand a chance of structuring a future with them that takes them where they want to go and which will be of value to you. You will be able to work with them to identify any skill areas for improvement or acquisition to get there. You will work together to create a Personal and Professional Development plan to get them there. The individual will see clearly their place in the organisation and their future.
 
-**Problems.**
+Problems.
 
 Problems come in two flavours. Environmental problems and task problems. Environmental problems are the things around the organization and it’s systems, methods etc. that make getting the job done well and delivery of best service difficult. These things you can fix once you know they exist.
 
@@ -37,7 +35,7 @@ All interference I have ever encountered came from falls within the parameters o
 
 Look out for an article about "The Performance Equation" to understand how that works.
 
-#### Accelerate your career development
+Accelerate your career development
 
 Put a C-suite executive coach in your inbox!
 

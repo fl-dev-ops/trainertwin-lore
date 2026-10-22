@@ -22,7 +22,3 @@ An early preprint of the paper - https://lnkd.in/drFXEz4
  #deeplearning #computervision #iitd #IEEETMI #iitd 
 
 V. Ramgopal Rao , Tathagato Rai Dastidar , Prashant Pandey, ANIL WALI
-
-### Shared Article: [Target-Independent Domain Adaptation for WBC Classification using Generative Latent Search](https://arxiv.org/abs/2005.05432v1)
-> arxiv.org
-

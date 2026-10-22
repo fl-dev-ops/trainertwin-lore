@@ -8,12 +8,3 @@ videoUrl: https://dms.licdn.com/playlist/vid/v2/D5605AQEQLk6x_7OUtw/mp4-720p-30f
 ---
 
 To learn masterful coaching, first understand what it is.
-
-## Comments (2)
-
-### Elin Mai (I help $1M+ founders become as magnetic as they are brilliant. Inside out. | Former-CEO, 22+ years | 12K+ leaders transformed.)
-> What a fantastic podcast this was. Watch Tony share many more insightful thoughts here🎙️ : https://youtu.be/L3zmVxQABhA?si=G6i_ZHg-LiHyMJVs
-
-### Gregory Peck, MA, PCC, PCT, CPT, NBHWC (Transformational Life Coach | Professional Certified Coach (PCC) | Health & Wellbeing Leader | 🚀🚀 My Superpower -- Connecting with Clients From the Heart & Helping Them Feel Heard 🚀🚀)
-> Well said
-

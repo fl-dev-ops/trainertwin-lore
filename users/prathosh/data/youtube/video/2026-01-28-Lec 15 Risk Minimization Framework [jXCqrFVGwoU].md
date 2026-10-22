@@ -10,10 +10,6 @@ speakers:
   speaker_1: null
 ---
 
-# Lec 15 Risk Minimization Framework
-
-## Transcript
-
 speaker_1: Welcome everyone Last time we saw the
 recipe that is used to solve any machine
 learning problem and we cast the problem

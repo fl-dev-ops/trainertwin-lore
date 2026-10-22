@@ -9,9 +9,3 @@ comments: 2
 Coaches need to get good at just three things to build a thriving practice . .
 Which one is top focus for you this year?
 #coaching #icf International Coaching Federation
-
-## Comments (1)
-
-### Sarah Short (Helping qualified coaches build viable businesses | ICF-Accredited Bus Dev Courses For Coaches 40 CCEUs (23 Core 17 RD) | Straightforward, No Nonsense, Actionable Marketing Techniques | Prices from £3750 (inc VAT))
-> If you do the marketing well, there’s no ‘selling me’ to do
-

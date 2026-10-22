@@ -26,12 +26,3 @@ TonyLatimer.ai is here to support you with on-demand leadership tools and coach
 Let’s make 2025 the year of growth and confident leadership! 🎯
 
 #LeadershipDevelopment #PeopleManagers #AI #CoachingTools #Mentorship
-
-## Comments (2)
-
-### Anurag Mishra Global Executive Coach ICF PCC EMCC SP EQ EI Hogan (CXO turned Facilitator/ Trainer/ Global Executive Coach .Partners Leaders /Organisations for Leadership Development. IIM Faculty, Gates Foundation Project.ex- CMO/CBO. Fortune 10. Emotional Intelligence. Hogan . MIT .)
-> This is wonderful Tony Latimer, MCC
-
-### Giridhar Sridhar (MCC I Executive Coach | Author – The Leadership Book Series | Host - The Leadership Lens Podcast I Global Executive Leader | Transforming Leadership From Insight to Impact)
-> This is very impressive Tony.
-

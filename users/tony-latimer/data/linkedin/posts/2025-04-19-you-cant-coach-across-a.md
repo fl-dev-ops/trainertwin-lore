@@ -5,6 +5,8 @@ url: https://www.linkedin.com/posts/tonylatimer_executivecoaching-icfcoaches-lea
 likes: 13
 comments: 3
 images_count: 1
+author_comments:
+- profitableleadership.com/ai
 ---
 
 🚫 You can’t coach across a knowledge gap.
@@ -46,12 +48,3 @@ Did I mention it’s FREE?
 #AIforCoaches  
 #ProfessionalCoaching
 ICF Singapore ICF Bangkok Charter Chapter International Coaching Federation
-
-## Comments (2)
-
-### Maysa Boubess (Educational Consultant, Mentor, and Coach. 41 yrs in education| Beirut & the Gulf)
-> Big thanks for sharing, Tony
-
-### Tony Latimer (I help new CEOs join the 30% who succeed | Executive Coach to CEOs | Keynote: Leadership at the Speed of Thought) (Author)
-> profitableleadership.com/ai
-
