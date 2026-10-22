@@ -2,15 +2,15 @@
 id: sYgiKtKXot4
 title: This Is How to SELL a Meeting and Increase Show up RATE. (Selling Off-plan
   in Dubai) Part 8
-url: https://www.youtube.com/watch?v=sYgiKtKXot4
 date: '2025-03-04'
-duration: 00:10:38
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=sYgiKtKXot4
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 2
+speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
 ---
 
 
@@ -18,83 +18,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Shut up and wait for him Send him the brochures Hope and pray that this client finally will buy You were talking over him for 20 minutes Zoom is not for you Zoom is for him You see what he did Just now what he did Oh well Im not sure Rather than you telling them that its a good time to buy now mentally human behavior he feels responsible If you reach to this video that I have
-
-
-Honestly I lost count its probably gonna be video number nine
-
-
-Thank you I mean you should say thank you to yourself because youre really learning and youre really learning in a fast pace And thats for your future income and for your confidence in front of the client and for the client to feel heard and understood by you is the best action I think right What should I say And if this is the video you just stumbled upon my name is Olgas Lenka and Im real estate sales trainer here in Dubai teaching agents just like yourself
-
-
-or someone who is just googling how to become a Dubai real estate agent about selling of planned properties in Dubai well at least in this video so there is a lot of for you to get back to so if this is the first video youre watching on this topic please put the pause and get back to rewatch the previous one and then see you here because today we are almost on the last slide talking about transition schedule and presentation and which
-
-
-discussed already how you approach it on the previous lesson and today we are just finalizing it so remember what was the last for example question that you asked had anyone kind of sit you down and walk you through the full process from you kind of putting the down the deposit to you getting the the property ready to do snugging there
-
-
-the snacking test and then understanding the different strategies that you can use as an investor to maximize your ROI whatever the short term flipping and additionally about the different mortgage options finance option that you can use even being non resident have everyone ever told you about all of these things question mark shut up and wait for him to respond youre gonna probably say no as I told you 99 percent of people
-
-
-99 percent of agents put that way the clients are well theyre just clients they dont know how it should be they just send in the brochures and just oh should I get you the link for payment to just hope and pray that this client finally gonna buy okay sound very he was he was very serious Olga he was very curious on the zoom call and Im asking the agent well how do you uh how do you know that he was very curious he was listening to me for 20 minutes okay so you were talking over him for 20 minutes and
-
-
-was just a polite person who just didnt tell told you like okay thank you so much bye bye and this is how you decide decided for yourself that hes interested so when you got the answer you again twisted is the zoom zoom is not for you zoom is for him so there is no i need to book a zoom i need to do this its us or you mr client would it be useful if we book some time together on a zoom
-
-
-Would that be useful if we um if we will book some time together on the zoom so you can xyz and abc whatever you just discussed with this potential client um in this specific uh case uh would it be useful if we um we would book some time together on the zoom so you could see the property transaction data what we use as a professionals to determine where the next best area to invest
-
-
-generation strategies whatever you will be sorry whatever youve been talking with him before if at this point you see the next one hes gonna push back and say well Im not sure that means that you somehow somewhere triggered the sales resistance and the sales resistance I discuss I think in the lesson number three of this training
-
-
-You have Dubai calm him down How are you gonna calm him down Oh well its not me trying to sell you anything Well its not me trying to sell you anything Its about more about you kind of understanding the real time data just to see if the Dubai real estate market is even what will satisfy your desire for ROI I just freestyle
-
-
-Its not what Im trying to sell you anything Its about you reviewing the real time data just to understand if investing in Dubai is right for you You see what you did just now what you did He said oh well Im not sure So he pushes you You are as well pushing him Well Im not even sure its for you man as well Its maybe you want to understand but I dont care Im detached
-
-
-the outcome right as you may find better options elsewhere and if youre going to be so bold to tell him this hes gonna feel and think that you are not the same as each another sales each and every other salesperson in dubai just talking absolutely features and benefits without any consideration what is good for him what is good for him of course your bias towards yes
-
-
-But here youre going to make him feel well this agent is really different Well Mr Klein its not like Im trying to sell you anything Its more for you to understand based on you know kind of real real time data if Dubai is even the right option for you Because you might you might have better opportunities elsewhere Its up to you I dont know If now youre going to tell oh no Im not interested
-
-
-Well he might be not interested Like my method is not a magic spell Like you cannot zombify anyone to make decision yes But with those methods you can make them feel the urgency You can make them feel the need for themselves They can start feeling it right Rather than you telling them that its a good time to buy thats a good price thats a good project go and start telling themselves that to buy is the right option
-
-
-For you just because you use the right question in the right time in the right tonality Okay book day and time Schedule that 24 hours reminder Meaning the 24 hours before you will have a zoom You will have a reminder sent whatever its a whatsapp sms And in the morning of the meeting you will send the reminder as well Let me check
-
-
-Thats the last one Yay You made it So how to make sure that the clients show up How to increase the show up rate I absolutely love it I call it the same as I will do for you
-
-
-you can do for the client I give you the responsibility Will you use this technique or no Its up to you to decide So you are now going to be responsible and I will do it in a simple way Can I ask you about something Pause wait for him to say yes If this material and now Im not talking about the exact thing its just me showing you how Ill give you responsibility to use this training into your real life If this material will
-
-
-be absolutely useless for you and have no value Would it be possible that you just leave the comment down below saying how horrible this training is
-
-
-Okay so now the the magic trick on how to increase the show up rate on your zoom meetings after you schedule the time you confirm everything on the same call its on the call on the first call youre still with the client you ask him
-
-### Speaker 2
-
-Um
-
-### Speaker 1
-
-I I know that you know we all get busy some days and I do understand it um can I ask you something youre gonna say yes um can I um can I expect from you that whatever just in case whatever happened with your schedule and um you will not be able to attend that you will send me some signal text or I dont know maybe a penguin
-
-
-to just inform me that youre not gonna be able to attend so I can book someone else on this time Can I can I expect that from you Can I expect that from you So now mentally human behavior he feels responsible you kind of vote it and force him to sign the show up rate increases at least 60 percent and even if the person is not able to show up they will send
-
-
-you the message and book another time with you first of all because you show them that you are professional you have another people who can attend the meeting this is a slot I have it for my clients and I have a clients in the line waiting for me Im not desperate for you specifically one more time I know life can get busy those days um can I expect you just in case something happens on your end to kind of send me um a pigeon or an SMS whatever whatever suits you
-
-
-So I can um book someone else on this time slot would that be would that be possible for you
-
-
-Bum and wait for him to tell you yes Hello hello we are in the end of the training Thank you so much for watching it and see you in the next one I would be very happy if you will leave the comment any inclusive the good and bad and what I can do better Maybe Im gonna see you in person
+Shut up and wait for him Turn them the brochures Hope and pray that this client finally gonna buy You were talking over him for 20 minutes Its almost not for you Its almost for him You see what you did just now What you did Oh well Im not sure Rather than you telling them that its a good time to buy now mentally human behavior he feels responsible If you reach to this video that I have honestly I lost count Its probably gonna be video number 9 Thank you I mean you should say thank you to yourself because youre really learning and youre really learning in a fast pace And thats for your future income and for your confidence in front of the client and for the client to feel heard and understood by you is the best action I think Right What should I say And if this is the video you just stumbled upon my name is Olga Sinenko and Im real estate sales trainer here in Dubai teaching agents just like yourself or someone who is just googling how to become a Dubai real estate agent about selling off plan properties in Dubai Well at least in this video So there is a lot for you to get back to So if this is the first video youre watching on this topic please put the pause and get back to rewatch the previous one and then see you here Because today we are almost on the last slide talking about transition schedule and presentation and we discussed already how you approach it on the previous lesson and today we are just finalizing it So remember what was the Last for example questions that you ask Have anyone kind of sit you down and walk you through the full process from you kind of putting the down the deposit to you getting the the property ready to do snugging the snugging test and then understanding the different strategies that you can use as an investor to maximize your ROI whatever the short term flipping and additionally about the different Mortgage options finance options that you can use even being non resident Have everyone ever told you about all of these things Question mark Shut up and wait for him to respond Youre gonna probably say no As I told you 99 percent of people 99 percent of agents lets put it that way the clients are what they are just clients They dont know how it should be They just send them the brochures and just oh should I get you the link for payment It just Hope and pray that this client finally gonna buy Okay sounds very he was he was very serious Olga He was very curious on the Zoom call and Im asking the agent Oh how do you How do you know that he was very curious He was listening to me for twenty minutes Okay so you were talking over him for twenty minutes and he was just a polite person who just didnt tell told you that Okay thank you so much Bye bye And this is how you decide decided for yourself that hes interested So when you got the answer you again twist it Is the Zoom Zoom is not for you Zoom is for him So there is no I need to book a Zoom I need to do this Its us or you Mr Client Would it be useful if we book some time together on a Zoom Would that be useful if we um if we will book some time together on the Zoom so you can XYZ and ABC whatever you just discussed with this potential client In this specific case would it be useful if we would book some time together on Zoom so you could see the property transaction data what we use as professionals to determine where the next best area to invest property generation strategies whatever you would Pitching Sorry Have you been talking with him before If at this point you see the next one hes gonna push back and say Well Im not sure That means that you somehow somewhere triggered the sales resistance and the sales resistance I discussed I think in the lesson number three of this training You have to what Calm him down How you gonna calm him down Oh well its not me trying to sell you anything Well its not me trying to sell you anything Its about more about you kind of understanding the real time data just to see if the Dubai real estate market is even what will satisfy your Desire for ROI I just freestyle that Its not what Im trying to sell you anything Its about you reviewing the real time data Just understand if investing in Dubai is is right for you You see what you did just now What you did He said Oh well Im not sure So he pushes you You are as well pushing him Well Im not even sure its for human as well Its maybe You want to understand but I dont care I am detached from the outcome right As you may find better options elsewhere and if youre going to be so bold to tell him this hes gonna feel and think that you are not the same as each another sales each and every other salesperson in Dubai just talking absolutely features and benefits without Any consideration on what is good for him What is good for him Of course youre biased towards yes but here youre going to make him feel well This agent is really different Well Mr Klein its not like Im trying to sell you anything Its more for you to understand based on you know kind of real real time data if Dubai is is even the right option for you because you might you might have a Better opportunities elsewhere Its up to you I dont know If now hes gonna tell you Oh no Im not interested Well well he might be not interested Look my method is not a magic spell Like you cannot zombify anyone to make decision yes But with those methods you can make them feel the urgency You can make them feel the need For themselves they can start feeling it right Rather than you telling them that its a good time to buy thats a good price thats a good project going to start telling themselves that Dubai is the right option for you just because you use the right question in the right time in the right tonality Okay book day and time Schedule that 24 hour reminder meaning the 24 hours before you will have a Zoom You will have a reminder sent whatever its a WhatsApp SMS and in the morning of the meeting you will send the reminder as well Let me check Thats the last one Yay You made it So how to make sure that the clients show up How to increase the show up rate I absolutely love it I call it the same as I will do for you You can do for the client I give you the responsibility Will you use this technique or no Its up to you to decide So you are now going to be responsible and I will do it in a simple way Can I ask you about something Pause wait for him to say yes If this material and now Im not talking about the exact thing its just me showing you how Ill give you responsibility to use this training into your real life If this material will be absolutely useless for you and have no value would it be possible that you just leave the comment down below saying how horrible this training is Okay so now the magic trick on how to increase the show up rate on your Zoom meetings After you schedule the time you confirm everything on the same call Its on the call on the first call youre still with the client You ask him I know that you know we all get busy some days and I do understand it Can I ask you something Hes gonna say yes Can I expect from you that whatever just in case whatever happened with your schedule and you will not be able to attend that you You will send me some signal text or I dont know maybe a penguin to just inform me that youre not going to be able to attend so I can book someone else on this time Can I can I expect that from you Can I expect that from you So now mentally human behavior he feels responsible You kind of wrote it and forced him to sign The show up rate increases at least 60 percent and even if the person is not able to show up they will send you the message and book another time with you First of all because you show them that you are professional you have another people who can attend the meeting This is a slot I have it for my clients and I have clients in the line waiting for me Im not desperate for you specifically One more time I know life can get busy those days Can I expect you just in case something happens on your end to kind of send me a pigeon or an SMS whatever suits you so I can book someone else on this time slot Would that be possible for you Bam And wait for him to tell you yes Hello hello We are in the end of the training Thank you so much for watching it And see you in the next one I would be very happy if you will leave the comment any inclusive the good and bad and what I can do better Maybe Im going to see you in person

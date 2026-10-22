@@ -1,15 +1,16 @@
 ---
 id: lQ76sk7IuRE
 title: From I Hate Cold Calling to Closing deals
-url: https://www.youtube.com/shorts/lQ76sk7IuRE
 date: '2025-08-29'
-duration: 00:01:05
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/lQ76sk7IuRE
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -17,13 +18,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-which advice she would give to herself just starting
+Which advice she would give to herself just starting
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-First of all I think I would tell her dont doubt yourself You can do it And the second probably I would say dont waste time yourself learning how to swim in the ocean Just hire a coach or a trainer who will teach you how to swim you know So yeah because instead of spending years and years trying to close a deal you can get this
-
-
-experience from someone who has already uh who already has like lets say 10 years of experience in real estate she can help you you know just to reach your goal faster why do you need to pressure yourself even by not knowing what youre doing what the hell you are doing find somebody who already knows who already has achieved you know your goal and even more and buy that experience
+First of all I think I would tell her dont doubt yourself You can do it And the second probably I would say dont waste time yourself learning how to swim in the ocean Just hire a coach or a trainer who will teach you how to swim you know So yeah because Instead of spending years and years trying to close a deal you can get this experience from someone who has already uh who already has like lets say 10 years of experience in real estate She can help you you know just to reach your goal faster Why do you need to pressure yourself Even by not knowing what youre doing what the hell you are doing find somebody who already knows who already has achieved you know your goal and even more and buy that experience

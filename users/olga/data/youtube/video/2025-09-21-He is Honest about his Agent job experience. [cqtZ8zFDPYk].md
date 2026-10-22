@@ -1,15 +1,15 @@
 ---
 id: cqtZ8zFDPYk
 title: He is Honest about his Agent job experience.
-url: https://www.youtube.com/shorts/cqtZ8zFDPYk
 date: '2025-09-21'
-duration: 00:00:58
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/cqtZ8zFDPYk
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 2
+speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
 ---
 
 
@@ -17,13 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-And I have no idea about Dubai I didnt know which areas are the ones that are moving on the ones that are generating more money I was given some training about how to use a property finder a property monitor And then doing some research I checked certain areas which I like This I was given a database and I was told you have to call and you have to get the houses that you want to sell or rent So okay So I said great Ive never done
-
-
-calling in my life before so in my mind i was looking for excuses to delay the process so okay i need the right microphone so i go and get the right microphone i need the light the the right uh headphones so but everything was just excuses to delay the process and uh there comes the point that you cannot delay it any longer so you have to start doing the cold calling and then i started and uh by this time i realized cold calling is illegal
-
-### Speaker 2
-
-Transcript
+And I had no idea about Dubai I didnt know which areas are the ones that are moving on the ones that are generating more money I was given some training about how to use a property finder a property monitor and then doing some research I checked certain areas which I liked I was given a database and I was told you have to call and you have to get the houses that you want to sell or rent So okay so I said great Ive never done cold calling in my life before So in my mind I was looking for excuses to delay the process So okay I need the right microphone so I go and get the right microphone I need the right headphones Headsets But everything was just excuses to delay the process And there comes a point that you cannot delay it any longer so you have to start doing the cold calling And then I started And by this time I realized cold calling is illegal

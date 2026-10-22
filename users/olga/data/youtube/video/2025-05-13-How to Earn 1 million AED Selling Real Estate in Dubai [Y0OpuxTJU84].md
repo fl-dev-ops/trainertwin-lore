@@ -1,14 +1,15 @@
 ---
 id: Y0OpuxTJU84
 title: How to Earn 1 million AED Selling Real Estate in Dubai
-url: https://www.youtube.com/shorts/Y0OpuxTJU84
 date: '2025-05-13'
-duration: 00:01:37
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/Y0OpuxTJU84
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,15 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-how to make one million dirhams or dollars regardless selling off plant properties in dubai its more about the lottery ticket right because if you keep asking yourself what do you have to do today to sell one million then youre probably never going to be able to do it because its not about what to do its about whom you have to become over the course of time training learning the market learning the project
-
-
-you it just boring for you however this is the number which is not just possible to win in the lottery and even if you would decide to win this number in the lottery how many lottery tickets let me ask you you will have to purchase consistently over months right so if youre just focusing on number and youre using leads as a disposable plastic cup just throwing them away this one is not buying this one is not buying this one is not buying then probably
-
-
-Its never going to be accessible to you Think differently Whom First of all you have to become to being able to do actions consistently day in and day out regardless of your inner motivation regardless of your manager in shouting if you regardless of what your deal just fall apart yesterday to make this type of money And I have someone who did it And in this video Im going to link the interview with my coaching
-
-
-client who actually cross that barrier within four months in your own pocket commission in your own pocket yes
+How to make 1 million dirhams or dollars regardlessly selling off plan properties in Dubai Its more about the lottery ticket right Because if you keep asking yourself what you have to do today to sell 1 million then youre probably never going to be able to do it Because its not about what to do its about whom you have to become over the course of time Training learning the market learning the project I know you its just boring for you However this is the number which is not just possible to win in the lottery And even if you would decide to win this number in the lottery how many lottery tickets let me ask you you will have to purchase consistently over months right So if youre just focusing on number and youre using leads as disposable plastic cups just throwing them away this one is not buying this one is not buying this one is not buying then probably its never going to be accessible to you Think uh differently Whom first of all you have to become to be able to do actions consistently day in and day out regardless of your inner motivation regardless of your manager shouting at you regardless that your deal just fall apart yesterday to make this type of money And I have someone who did it and it In this video Im going to link uh the interview with my coaching client who actually crossed that barrier within 4 months in her own pocket Commission in her own pocket Yes

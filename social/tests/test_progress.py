@@ -1,7 +1,5 @@
 import io
-import json
 from concurrent.futures import ThreadPoolExecutor
-from pathlib import Path
 from threading import Barrier
 
 import pytest
@@ -206,7 +204,6 @@ def test_youtube_metadata_progress_reports_skipped_dates(tmp_path, monkeypatch, 
         cli.collect_youtube(
             "https://youtube.com/@test",
             tmp_path / "test/data/youtube",
-            tmp_path / "audios",
             cli.date(2020, 1, 1),
             False,
         )
@@ -218,65 +215,64 @@ def test_youtube_metadata_progress_reports_skipped_dates(tmp_path, monkeypatch, 
     assert output.out == ""
 
 
-def test_reel_shows_provider_stages_without_fake_percentage(monkeypatch, capsys):
-    monkeypatch.setattr(transcribe, "get_sarvam_key", lambda _: "test-key")
-
+def test_reel_shows_download_stage_without_fake_percentage(monkeypatch, capsys):
+    monkeypatch.setattr(transcribe, "get_api_key", lambda _: "test-key")
     def download(_, directory):
         audio = directory / "audio.mp3"
-        audio.write_bytes(b"test audio" * 200)
+        audio.write_bytes(b"test audio")
         return audio
+    def convert(audio, context, key, **kwargs):
+        progress.status("AssemblyAI: transcribing audio (percentage unavailable)")
+        return transcribe.validate_transcript({"speakers": [{"id": "1", "label": "Speaker 1"}],
+                                              "turns": [{"speaker_id": "1", "text": "A spoken example."}]})
+    monkeypatch.setattr(transcribe, "download_audio_ephemeral", download)
+    monkeypatch.setattr(transcribe, "transcribe_audio", convert)
+    assert transcribe.transcribe_media_url("https://example.org/reel")["turns"][0]["text"] == "A spoken example."
+    output = capsys.readouterr()
+    assert "Reel: downloading" in output.err
+    assert "percentage unavailable" in output.err
+    assert output.out == ""
 
-    class Job:
-        def upload_files(self, files, **kwargs):
-            self.audio = Path(files[0])
-            assert self.audio.exists()
 
-        def start(self):
-            assert not self.audio.exists()
-
-        def wait_until_complete(self, **kwargs):
-            assert not self.audio.exists()
-            return self
-
-        def is_successful(self):
+def test_parallel_job_board_renders_terminal(monkeypatch):
+    class Terminal(io.StringIO):
+        def isatty(self):
             return True
 
-        def download_outputs(self, directory):
-            (Path(directory) / "audio.json").write_text(
-                json.dumps(
-                    {
-                        "diarized_transcript": {
-                            "entries": [
-                                {
-                                    "speaker_id": "1",
-                                    "transcript": "A spoken example.",
-                                    "start_time_seconds": 0,
-                                    "end_time_seconds": 2,
-                                }
-                            ]
-                        },
-                    }
-                )
-            )
+    terminal = Terminal()
+    monkeypatch.setattr(progress.sys, "stderr", terminal)
 
-    class Client:
-        speech_to_text_job = None
+    import re
 
-        def __init__(self, **kwargs):
-            self.speech_to_text_job = self
+    from social.board import ParallelJobBoard, active_job, board_live
 
-        def create_job(self, **kwargs):
-            return Job()
+    board = ParallelJobBoard("Test Audio", total_jobs=3)
+    board.add_job("v1", "First Audio Video")
+    board.add_job("v2", "Second [Audio] Video")  # brackets must not be read as markup
+    board.add_job("v3", "Never Started Video")
 
-    monkeypatch.setattr(transcribe, "download_audio_ephemeral", download)
-    monkeypatch.setattr("sarvamai.SarvamAI", Client)
-    assert (
-        transcribe.transcribe_media_url("https://example.org/reel")[0]["text"]
-        == "A spoken example."
-    )
-    output = capsys.readouterr()
-    assert "Reel: uploading audio" in output.err
-    assert "percentage unavailable" in output.err
-    assert "Reel: downloading transcript results" in output.err
-    assert "transcript ready (1 turns)" in output.err
-    assert output.out == ""
+    with board.run():
+        assert board_live()
+        # tqdm bars (platform rows, metadata counters) must not draw over the live board.
+        for _ in progress.track([1, 2], "Competing tqdm bar"):
+            pass
+        with active_job(board, "v1"):
+            progress.status("YouTube: downloading audio https://y.test/v1 (android_vr)")
+            progress.status("AssemblyAI: uploading temporary audio")
+            progress.status("AssemblyAI: transcribing audio (percentage unavailable)")
+            board.update("v1", stage="complete", done=True)
+            board.advance_overall()
+        with active_job(board, "v2"):
+            board.update("v2", stage="downloading audio", step=1)
+            board.update("v2", stage="failed", error="connection refused\ntraceback noise")
+            board.advance_overall()
+    assert not board_live()
+
+    output = re.sub(r"\x1b\[[0-9;?]*[A-Za-z]", "", terminal.getvalue())
+    assert "\u2713 First Audio Video" in output
+    assert "\u2717 Second [Audio] Video \u2014 connection refused" in output
+    assert "traceback noise" not in output
+    assert "Test Audio: 1 done, 1 failed" in output
+    # Queued jobs get no row: the live area stays shorter than the terminal.
+    assert "Never Started Video" not in output
+    assert "Competing tqdm bar" not in output

@@ -1,14 +1,15 @@
 ---
 id: fdBY1_6dRAE
 title: Welcome to a new era of Dubai real estate
-url: https://www.youtube.com/shorts/fdBY1_6dRAE
 date: '2026-03-29'
-duration: 00:00:49
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/fdBY1_6dRAE
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Welcome to a new era of Dubai real estate which started in March 2026 My name is Augustin Im real estate sales trainer and there is a fear panic and a lot of buyers sellers and the agents moving out of this fantastic country If you are someone same as me who decided to stay strong and be united with your future Im inviting you to my closed community strong
-
-
-sales on telegram where we will be to get there its not only about the support its about me and you bringing up the working strategies and creating the future and the current pipeline gonna allow you keep making money in any market see you there
+Welcome to a new era of Dubai real estate which started in March 2026 My name is Olga Sinenko Im real estate sales trainer and there is a fear panic and a lot of buyers sellers and the agents moving out of this fantastic country If you are someone same as me who decided to stay strong and be united with your future Im inviting you to my closed community Strong Sales on Telegram where we will be together Its not only about the support its about me and you bringing up the working strategies and creating the future and the current pipeline going to allow you keep making money in any market See you there

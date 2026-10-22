@@ -1,14 +1,15 @@
 ---
 id: dMCa_r1ASgQ
-title: "Overcome Client Objections Like a Pro! \U0001F4AA"
-url: https://www.youtube.com/shorts/dMCa_r1ASgQ
+title: Overcome Client Objections Like a Pro! 💪
 date: '2024-09-09'
-duration: 00:00:32
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/dMCa_r1ASgQ
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-But first of all for you to being able to start discussing and handling objection with the client you should put yourself into the thats not a problem mode because if you are getting ready to attack the client not going to listen right so the first thing removing the sales resistance right and for that instead of going into objection handling mode when we are more aggressive
-
-
-Were saying yeah thats not a problem
+But first of all for you to be able to start discussing and handling objections with the client you should put yourself into the thats not a problem mode Because if you are getting ready to attack the client is not going to listen right So the first thing removing the sales resistance right Right And for that instead of going into objection handling mode When we are more aggressive we say yeah thats not a problem

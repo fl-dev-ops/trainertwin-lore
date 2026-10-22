@@ -2,15 +2,15 @@
 id: eaoSV9jEyik
 title: Overcome Buyer's Sales Resistance and Build Rapport and Trust (on a First Call)
   Part. 2
-url: https://www.youtube.com/watch?v=eaoSV9jEyik
 date: '2025-01-17'
-duration: 00:07:58
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=eaoSV9jEyik
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 2
+speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
 ---
 
 
@@ -18,62 +18,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Hi welcome to the second video of the off plan training for the new real estate agent in Dubai or for existing and an experienced real estate agent of Dubai who wants to enhance the skills selling exactly the off plan property understand whats the difference and how to communicate with buyers to turn that I not interested or send me some options into send me a payment link I just keep the screen the same as it was we were talking in the
-
-
-past lesson oh by the way you havent seen that just just stop it now just click here because thats very important for you to start over the beginning so this is the lesson number two the concept number one was a sales funnel for you to understand what the actually happening that the buyer psychology was happening his head when he is making decision and what is the the most dangerous enemy you have i would say on the way for you to close in the deal which is let me guess do you remember yes its fear
-
-
-the fear of not making money because the people are not really motivated by loss sorry what Im saying the people are not really motivated that much by gaining something rather by losing what they already have so whenever they are uncertain and this is uncertain situation buying a plan property in Dubai really when the hundreds of agents are attacking you telling you oh this project is the best that project but how to become that one agent
-
-### Speaker 2
-
-who will be trusted
-
-### Speaker 1
-
-Moving to the concept number two sales resistance By the way if you just stumble over this video my name is Olga Sinenko and Im real estate sales trainer here in Dubai I started in 2015 myself as a real estate agent 2017 Ive been making money as a sales manager and since 2020 I am a real estate sales coach for the sales teams and individual
-
-
-mentorship program for the agent who really dont want to dont want to just like have this one off and then sit dry for years someone who wants to build a consistent income with a commission only based career so concept number two sales resistance if you never heard this term
-
-
-The resistance overall is something that we all had Its a part of our I would say protective mechanism right I put the wall here on purpose So if were gonna describe the cells resistance I would give you an example And I love to give this example all the time because each and every person on planet Earth had that
-
-
-into any supermarket or whatever H M Zara Chanel I dont know which one you shop there is a shopping assistant approaching you and what can you say what how can I help you so the standard type of behavior generate a standard response we want as a human being evolving for for many many years protect ourselves from the push sales
-
-
-people so as previously it was we need to protect ourselves from the i dont know wild tiger and this is why we have a fight or flight mode now now we are activating our nervous system activating the fight or flight mode whenever we see someone who is trying to sell us something but not even that i would say the sales resistance is or any type of
-
-
-psychological resistance human being always feeling when they again thats gonna be a bit of weird sentence the human being will experience a psychological resistance when he feels that his ability to make decision on his own is being threatened or being taken away from him
-
-
-So when my mom is telling me you know Olga you have to I dont know eat this and not eat that and wear this and do not wear that guess what I feel Feel first inside of me I feel like no no no no no no This is what I like I am 45 this year Im going to make decision on my own Even if deep down I think that shes right you know but I can Im just like watching the the
-
-
-words coming out of my mouth is like I already said that so its all about the way you communicate when you are telling to the person that you should do
-
-
-Regardless of logical explanation you have you will feel the other person is pushing back Even if its your first blood relative your loved ones your husband your wife how often do you have a pushback from them Do you think that they are not sure 100 percent that you are having the best intentions in mind So what do you expect from the person youre talking on the phone for the five minutes
-
-
-level of trust that this person has towards you is it equal to your husband or wife but even the husband or wife is executing this fight or flight behavior whenever you push them to do something right they want to push back so the concept is really about I need to think about it I just send me some options and Im not ready to buy now all of this usual brush ups that that clients are giving us
-
-
-Triggered by the salespeople by us This is what we saying in the way we saying causing them To run the other way This is what causes them to to get into this fight or flight mode resistance No Im just looking but what if This person the salesperson and you remember H M Zara Chanel whatever what a Dolce Gabbana maybe if the same salesperson would approach this differently
-
-
-Instead of how can I help you today imposing into my space
-
-
-Tell me a different pattern Interrupt my thought process and say something like this Hi my name is Olga I know youre just looking Im just gonna be there down the shop checking on the new collection Just let me know if you if you potentially wanna have a look at that You see The different approach gonna activate curiosity in the clients mind and this is all we want
-
-
-We want them to be curious because curiosity creates a desire to engage to have some urgency right So I think thats it for this lesson and Ill meet you in the lesson number three
-
-
-Oh oh oh by the way um I I really enjoy when you when you put some comment down there like anything which came across your mind or maybe some topic that you want me to create a training on its going to be very helpful for people like you for other agent for someone who is just exploring this option
+Hi welcome to the second video of the off plan training for the new real estate agent in Dubai or for existing and an experienced real estate agent of Dubai who wants to enhance their skills selling exactly the off plan property understand whats the difference and how to communicate with buyers to turn that Im not interested or send me some options into send me a payment link I just keep the screen the same as it was We were talking in the past lesson Oh by the way you havent seen that Just stop it now Just click here because thats very important for you to start at the beginning So this is lesson number 2 The concept number 1 was a sales funnel for you to understand whats actually happening the buyer psychology whats happening in his head when hes making decision and what is the most dangerous enemy you have I would say On the way for you to closing the deal which is let me guess Do you remember Yes its fear The fear of not making money because the people are not really motivated by loss Sorry wow wow wow What Im saying The people are not really motivated that much by gaining something rather by losing what they already have So whenever they are uncertain and this is uncertain situation buying off plan property in Dubai really even the Hundreds of agents are attacking you telling you oh this project is the best that project is the best How to become that one agent who will be trusted So moving to the concept number 2 sales resistance Oh by the way if you just stumbled over this video my name is Olga Sinenko and Im real estate sales trainer here in Dubai I started in 2015 Since 2017 Ive been making money as a sales manager and since 2020 I am a real estate sales coach for the sales teams and individual mentorship program for the agents who really dont want to dont want to just like have this one off and then sit dry for years Someone who wants to build a consistent income with the commission only based career So concept number 2 sales resistance If you never heard this term the resistance overall is something that we all had Its a part of our I would say protective mechanism right I put the wall here on purpose So if were gonna describe the sales resistance I would give you an example and I love to give this example all the time because each and every person on planet Earth had that Whenever youre walking into any supermarket or whatever H M Zara Chanel I dont know which one you shop there is a shopping assistant approaching you and what hes saying What How can I help you So the standard type of behavior generates a standard response We want as a human being evolving for many many years protect ourselves from the pushy salespeople So as previously it was we need to protect ourselves from the I dont know wild tiger And this is why we have a fight or flight mode And now we are activating our nervous system activating the fight or flight mode whenever we see someone who is trying to sell us something But not even that I would say the sales resistance is or any type of psychological resistance Human being always feeling when they again thats gonna be a bit of weird sentence the human being will experience a psychological resistance when he feels that his ability to make decision on his own is being threatened or being taken away from him So when my mom is telling me you know Olga you have to I dont know eat this and do not eat that and wear this and do not wear that guess what I feel Feel first inside of me I feel like no no no no no no This is what I like I am 45 this year Im gonna make decisions on my own Even if deep down I think that she is right You know but I can Im just like watching the the words coming out of my mouth is like I already said that So its all about the way you communicate when you are telling to the person that he should do regardless of logical explanation you have You will feel the other person is pushing back even if its your first blood relative your loved ones your Your husband your wife How often do you have a pushback from them Do you think that they are not sure 100 percent that you are having the best intentions in mind So what do you expect from the the person you youre talking on the phone like for the five minutes Which which level of trust does this person has towards you Is it equal to your husband or wife But even the husband or wife is Executing this fight or flight behavior whenever you push them to do something right They want to push back So the concept is really about I need to think about it just send me some options and Im not ready to buy now All of these usual brush offs that the clients are giving us triggered by the salespeople by us This is what were saying and the way were saying causing them to run the other way This is what causes them to get into this fight or flight mode resistance No Im just looking But what if this person the salesperson and you remember H M Zara Chanel whatever Dolce Gabbana maybe if the same salesperson would approach this differently Instead of how can I help you today Imposing into my space tell me a different pattern Interrupt my thought process and say something like this Hi my name is Olga I know youre just looking Im just gonna be there down the shop checking on the new collection Just let me know if you If you potentially want to have a look at that You see the different approach gonna activate curiosity in the clients mind and this is all we want We want them to be curious because curiosity creates a desire to engage to to have some urgency right So I think thats it for this lesson and meet you in the Lesson number 3 Oh by the way I really enjoy when you put some comment down there like anything which came across your mind or maybe some topics that you want me to create a training on Its gonna be very helpful for people like you for other agents for someone who is just exploring this option

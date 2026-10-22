@@ -1,14 +1,15 @@
 ---
 id: kyZfzU_cD3s
-title: "Dubai Real Estate at Risk? What\u2019s Actually Happening Right Now"
-url: https://www.youtube.com/watch?v=kyZfzU_cD3s
+title: Dubai Real Estate at Risk? What’s Actually Happening Right Now
 date: '2026-04-04'
-duration: 00:08:43
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=kyZfzU_cD3s
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,63 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Hi from the battlefield of Dubai real estate March 18th 2026 my name is Oleg Senenka and if you just stumbled on this video I am in real estate market for 11 years here selling Dubai as an agent and sales manager and for the past five years Im not just doing videos like this but training agents how to make uncapped income in a commission only environment this is a specific series where I walk you through nine different strategies that
-
-
-will help you regardless the market environment to keep selling and keep selling off plum crazy right I come up with this under a lot of analytical cheat chats where different opinion leaders done a part of a search coupled modeling on artificial intelligence however what is important is all of those strategies are for you to understand it for yourself and have a
-
-
-talking points and the logic to bring your buyers to the right place and again Im not teaching how to convince someone who is really fearful doesnt want to invest in Dubai at all I cannot do magic I am talking about real opportunities with investors whom you have currently and they are lets say more logically based right and if you are an investor just leave your comment what do you think
-
-
-about this strategy again this strategy for make you money not to trick you in buying something which you will never sell believe me there are a lot of agents over there i do not sell real estate myself anymore im just helping everyone to stay sane and make money because realistically this is a kind of a payback to the beautiful country which gives me an opportunity for 11 years and one of them is standing in front of you okay the strategy number two and dont miss the strategy
-
-
-is number one its in the same playlist separate market risk from a specific developer risk what does that mean i have my notes here hope you dont mind
-
-
-Not all risk not all developers are made the same way They are different And this is what we have to bring to the client And realistically what we had here for the past couple of years is unprecedented growth of homemade developers And I dont want to bring it but a lot of those people who went into this
-
-
-field and had an idea to make money they should not be there not because they dont have an expertise but thats one of the reasons its just because they do not have a capacity in terms of financial security for themselves for the company to keep building because this is as well the security for you mr client okay so many small and new development were already at risk without a
-
-
-I want you to make sure you understand me All of those small developers in a high congested areas which do not have anything really specific for them they will already at risk Im gonna give you one more example Um Bengati a big developer Im not here promoting any of the developers guys Im just using the data from the market you have the same as well Uh the project is
-
-
-business bay trillionaire um was sold originally overpriced so those people before the war in january and its almost to be completed um they were trying to cash out they were trying to leave the payment plan they were not able to do that rather than paying i mean paying getting 20 below the original purchase price well do you understand why they got themselves in this because the payment plan
-
-
-was so good the developer was so good the marketing was so good yeah but you have to be a little bit more logical and understand that
-
-
-The larger number I mean the largest number of the developers being registered in September October on average it was 14 new companies a month Thats just unprecedented
-
-
-Many of those developers they were not able to actually fund the project themselves They had no previous construction or real estate experience Thats why they were kind of teaming up with the very like third or fourth tier construction company compromising the quality as well that you will be able to understand that as soon as you will get the product Quick one If you feel like what you are hearing is
-
-
-something that potentially can help you and you want me as your coach I do have a telegram community where I give specific unique tips teach you how to sell to buy real estate and how to become a resilient and strong and use this situation which is now happening one certain days I call it your competitive advantage see you there so I want to give an example of one of the developers which
-
-
-were very successful in a retail segment Im not gonna call any names right now they decided why wouldnt we moved and merge with one of the master brokerage they gonna sell our product we can promote that were already successful in business thats gonna be our new developments its a good location a sea waterfront location and realistically over the course of four months after the launch and launch happened in the beginning of the
-
-
-um season lets say September October the actual number of sales was
-
-
-How should I bring it to you Less than 10 percent of the total inventory So regardless what will happen this developer is already at risk So what does it mean The problem is not external The problem was internal as well So this situation just put the light on the mismarch on the market And realistically even you as a real estate agent you just just were so confused with so many developers And you were just like please can I just have maybe 10
-
-
-be 20 which are really good and Im happy to sell them so now thats going to be where you expected it to be less developers more focused unique location unique products and this is what gonna sustain an increase in the price when this war noise gonna go down so the conclusion the whole market shouldnt be viewed as a risk at the moment the focus needs to be moved from the general
-
-
-into the specific risky investment risky project risky areas so thats gonna calm your clients down give you a clarity and realistically yes not everyone is able to purchase EMA it was like this before and it will be like this going forward but maybe if you are not in the position where you have enough capacity to pay off the
-
-
-the price of the property its not the right time for you to enter and i hate to bring it to you um those clients who again coming back to benghazi example shoba has a lot of projects like this they were entering hoping to exit these are the people who are selling now below a regional purchase price because they dont have a financial capacity to wait they need to pay or they dont have
-
-
-the money to pay off the last payment or they need to move money somewhere else so dear agent and dear clients be respectful to the market just dont think that this is you know a genie in a bottle and lets all stay calm and make money and there is going to be a strategy number three i dont know which one its going to be on why its very wrong to sit and wait and how show it to a client i i bet youre having that a lot right
+Hi from the battlefield of Dubai real estate March 18th 2026 My name is Olga Senenko and if you just stumbled on this video I am in real estate market for 11 years here selling Dubai as an agent sales manager and for the past 5 years not just doing videos like this but training agents how to make uncapped income in a commission only environment This is a specific series where I walk you through 9 different strategies That will help you regardless the market environment to keep selling and keep selling off plum Crazy right I come up with this under a lot of analytical chitchats with different opinion leaders done a part of a search couple modeling on artificial intelligence However what is important is all of those strategies are for you to To understand it for yourself and have the talking points and the logic to bring your buyers to the right place And again Im not teaching how to convince someone who is really fearful doesnt want to invest in Dubai at all I cannot do magic I am talking about real opportunities with investors whom you have currently and they are lets say more logically based right And if you are an investor just leave your comment What do you think about this strategy Again this strategy for make you money not to trick you in buying something which you will never sell Believe me there are a lot of agents over there I do not sell real estate myself anymore Im just helping everyone to stay sane and make money because realistically this is a kind of a payback to the beautiful country which gives me an opportunity for 11 years And one of them is Standing in front of you Okay the strategy number two and dont miss the strategy number one Its in the same playlist Separate market risk from a specific developer risk What does that mean I have my notes here I hope you dont mind Not all risk not all developers are made the same way They are different and this is what we have to bring to the client And realistically um What we had here for the past couple of years is unprecedented growth of homemade developers and I dont want to bring it But a lot of those people who went into this field and had an idea to make money they should not be there not because they dont have an expertise but thats one of the reasons Its just because they do not have a capacity in terms of financial Security for themselves for the company to keep building because this is as well the security for you Mr Client Okay so many small and new developments were already at risk without a war I want you to make sure you understand me All of those small developers in high congested areas which do not have anything really specific for them The world radio at risk Im going to give you one more example Bingati a big developer Im not here promoting any of the developers guys Im just using the data from the market You have the same as well The project in Business Bay Trillionaire was sold originally overpriced So those people before the war in January And its almost to be completed They were trying to cash out They were trying to leave the payment plan They were not able to do that rather than paying I mean paying getting 20 percent below the original purchase price Well do you understand why they got themselves in this Because the payment plan was so good The developer was so good The marketing was so good Yeah but you have to be a little bit more logical and understand that The larger number I mean the largest number of the developers being registered in September October On average it was 40 new companies a month Thats just unprecedented Many of those developers they were not able to actually fund the project themselves They had no previous construction or real estate experience Thats why they were kind of teaming up with the Very like third or fourth tier construction company compromising the quality as well That you will be able to understand that as soon as you will get the product Quick one If you feel like what you are hearing is something that potentially can help you and you want me as your coach I do have a Telegram community where I give specific unique tips Teach you how to sell to buy real estate and how to become a resilient and strong and use this situation which is now happening one certain day as I call it your competitive advantage See you there So I want to give an example of one of the developers which were very successful in a retail segment Im not going to call any names right now They decided why wouldnt we move and merge with one of the master brokerage They gonna sell our product We can promote that were already successful in business Thats going to be our new developments Its a good location a sea waterfront location And realistically over the course of four months after the launch and launch happened in the beginning of the season lets say September October the actual number of sales was How should I bring it to you Less than 10 percent of the total inventory So regardless what will happen this developer is already at risk So what does it mean The problem is not external The problem was internal as well So this situation just put the light on the mismatch in the market And realistically even you as a real estate agent you just just was so confused Theres so many developers and you were just like please can I just have maybe 10 maybe 20 which are really good and Im Im happy to sell them So now thats going to be where you expected it to be less developers more focus unique location unique products And this is whats gonna sustain and increase in the price when this war noise gonna go down So uh the conclusion the whole market shouldnt be viewed as a risk at the moment The focus needs to be moved from the general fear into the specific risky investment risky project risky areas So thats going to calm your clients down give you clarity And realistically yes not everyone is able to purchase Emaar It was like this before and it will be like this going forward But Maybe if you are not in the position where you have enough capacity to pay off the the price of the property its not the right time for you to enter And I hate to bring it to you Those clients who again coming back to Bingati example Shoba has a lot of projects like this They were entering hoping to exit These are the people who are selling now below original purchase price because they dont have a financial capacity to wait They need to pay or they dont have the money to pay off the last payment or they need to move money somewhere else So dear agents and dear clients be respectful to the market Just dont think that this is you know a genie in a bottle And lets all stay calm and make money And there is going to be a strategy number 3 I dont know which one its going to be On why its very wrong to sit and wait and how show it to a client I bet youre having that a lot right

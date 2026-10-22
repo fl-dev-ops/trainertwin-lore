@@ -1,15 +1,16 @@
 ---
 id: yySinWsy7Tc
-title: "What New Dubai Agents Don\u2019t See Until It\u2019s Too Late"
-url: https://www.youtube.com/shorts/yySinWsy7Tc
+title: What New Dubai Agents Don’t See Until It’s Too Late
 date: '2025-12-01'
-duration: 00:00:48
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/yySinWsy7Tc
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -17,30 +18,22 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Give it another go
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Im back
+Done Im back
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Sorry Im busy its a work Im sorry Ive been so hectic
+Sorry Im busy Its the work Im swiping Its been so hectic When you are not closing this month you will still be able to go through that and keep consistency because you are already consistent in other places However majority of workplaces the agencies It seems like they want to build that family culture Yeah but in reality if you as an agent not closing in 1 month 2nd month 3rd month theyre going to ask you to leave
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Im sorry
+So were doing all these things to make sure this is a space where people want to be not just for work but for pleasure as well A home from home
 
-### Speaker 1
-
-When you are not closing this month you will still be able to go through that and keep consistency because you are already consistent in other places However majority of workplaces the agencies it seems like they want to build that timely culture But in reality if you as an agent not closing in one month second month third month theyre going to ask you to leave
-
-### Speaker 2
-
-So were doing all these things to make sure this is a space where people want to be not just for work but for pleasure as well a home from home
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 However if you want really to prepare yourself for all the realities that

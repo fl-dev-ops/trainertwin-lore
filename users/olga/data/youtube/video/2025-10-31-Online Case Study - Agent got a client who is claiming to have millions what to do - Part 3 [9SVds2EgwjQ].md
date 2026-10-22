@@ -2,17 +2,21 @@
 id: 9SVds2EgwjQ
 title: Online Case Study - Agent got a client who is claiming to have millions what
   to do - Part 3
-url: https://www.youtube.com/watch?v=9SVds2EgwjQ
 date: '2025-10-31'
-duration: 00:25:10
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=9SVds2EgwjQ
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 4
+speaker_count: 7
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  '1': Speaker 1
+  '2': Speaker 2
+  '3': Speaker 3
+  '4': Speaker 4
+  '5': Speaker 5
+  '6': Speaker 6
+  '7': Speaker 7
 ---
 
 
@@ -20,784 +24,634 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Okay lets imagine six units in GVC which other community which is
+Okay lets imagine six units in GVC Which other community which is reasonable Six units in Marina for example All old ones
 
-### Speaker 2
-
-Good luck
-
-### Speaker 1
-
-Reasonable
-
-### Speaker 2
-
-Good
-
-### Speaker 1
-
-600 in Marina for example
-
-### Speaker 2
-
-Understood
-
-### Speaker 1
-
-old ones
-
-### Speaker 2
-
-Watch then
-
-### Speaker 1
+### Speaker 2 · Speaker 2
 
 Arjan
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Just a thought uh uh running
+Arjan
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-Thats right
+Jeddah Like Brani
 
+### Speaker 1 · Speaker 1
 
-or potentially Im not sure about the ratio from rentals to the prices
+Ajadaf potentially Im not sure about the ratio from rentals to the prices
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-Its eight percent today seven to eight
+Its 8 percent today 7 to 8
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-I am uh you see how Im looking at this guys I know that the units which been uh built in those communities which are not central which been built either three four five years ago or long time ago as in marina they will give the better ratio for the uh rental yield thats what Im looking for I would uh I would say uh Al Furjan as well as easy buildings because its near
+I am you see how Im looking at this guys I know that the units which been built in those communities which are not central which been built either 3 4 5 years ago or long time ago as in Marina they will give the better ratio for the rental yield Thats what Im looking for I would say Al Furjan as well Azizi buildings because its near to the metro You can you can show him that this is additional diversification
 
+### Speaker 4 · Speaker 4
 
-the metro you you can you can show him that this is additional diversification
+So this is uh this is out of the 12 units that we are suggesting uh we already said 6 in JVC and now we are trying to identify the rest of the 6
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-So this is uh this is out of the 12 units that we are suggesting uh we already set six in JVC and now we are trying to identify the rest of the six
+6 in JVC 6 in Marina because the price for the 1 bedroom is going to be almost the same But Marco if we will go for the short term rentals its going to be a different scenario because the 2 bedrooms are giving the higher occupancy rate for the short term rentals not 1 bedrooms
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-Six in GVC six in Marina because the price for the one bedroom is gonna be almost the same But Marco if we will go for the short term rentals its gonna be a different scenario because the two bedrooms are giving the higher occupancy rate for the short term rentals not one bedroom
+Okay but you know I cant
 
-### Speaker 3
+### Speaker 4 · Speaker 4
 
-Okay but uh you know um I cant see those
+Another thing was yeah the client mentioned that you know he wants to consider taking a unit where he will have a fixed ROI of 10 percent for 10 years Which means he doesnt want to get into the hassle of having to I dont think its a client who wants to
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-No see this another thing was yeah the client mentioned that you know he wants to consider taking a unit where he will have a fixed ROI of 10 percent for 10 years which means hes he doesnt want to get into the hassle of you know having to I dont think its a client just tell him you just
+You just tell him you just tell him like I do understand that you want it but there is no such a thing of Freddie Mac going to give you any guarantee of 10 percent
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-You just tell him you just tell him like I do I I do understand that you want it but there is no such a thing of ready unit gonna give you any guarantee of 10 percent
+No what I mean to say is that I dont think its a client who wants to probably look into short term rentals and
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-No what I mean is that I dont think its a client who wants to probably look into uh you know short term rentals and uh you know
+He doesnt want to have a hassle
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-Mister
+Exactly Hes someone who doesnt want to have that hassle
 
+### Speaker 1 · Speaker 1
 
-So he doesnt want to have a hassle
+And if he will if hes oh what about short term rentals They can generate you more I will talk him out of it
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Exactly hes someone who hes he doesnt want to have that hassle you know so
+Yeah
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-And if he will if he is all what about short term lenders that can generate you more I will talk him out of it
+Because its harder for me to sell the short term rentals unit because when he will ask me oh whats the guarantee that the occupancy rate is going to be 80 percent and I will actually receive it on the yearly basis Youre going to be vague There is nothing to guarantee But if you have a tenancy contract which is 70K or 80K Thats a guarantee Yeah And its easy for me to sell this product I was like look man usually people stay in the one property for 2 3 4 years Even if they will not stay the next tenant gonna pay you more and Im ready to show that to you The rent increased in the area and you can go and look at the result So if you want to be sure that you will have your next payment covered guys if thats true all hes bothering about is how to pay this 370000 yearly Put yourself in his shoes This is his the pain
 
+### Speaker 4 · Speaker 4
 
-because its harder for me to sell the short term rentals unit because when he will ask me oh whats the guarantee that the occupancy rate is gonna be 80 percent and I will actually receive it on the yearly basis youre gonna be vague There is nothing to guarantee But if you have a tenancy contract which is 70K or 80K thats a guarantee And its easy for me to sell this product It was like look man usually people stay in the one property for two three four years
+Yes that is his pain Yeah that that he kept reiterating that exactly every second
 
+### Speaker 1 · Speaker 1
 
-If they will not stay the next tenant gonna pay you more and Im ready to show that to you the rent increased in the area and you can go and look at the result so if you want to be sure that you will have your next payment covered guys if thats true all hes bothering about is how to pay this three hundred seventy thousand dollars yearly put yourself in his shoes
+So the closest you will get to a 10 percent guaranteed return which no ones gonna give you literally it doesnt exist There is no business If its not a scam there is no business which will give you 10 percent guaranteed return The hotel apartments will never give it to you They will promise they will never give If were talking about Uno Lux we can sell him this unit But guys when the Uno Lux will be ready
 
+### Speaker 3 · Speaker 3
 
-This is his the the pain
+Two years
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-screams that is his pain yeah that that he kept reiterating that exactly every second
+Yeah So he he I suggested you know there should be a mix of projects that will give him capital appreciation plus the rental returns to cover his 370K
 
-### Speaker 1
-
-Exactly
-
-### Speaker 4
-
-So
-
-### Speaker 1
-
-So the closest you will get to a 10 percent guaranteed return which no ones gonna give you literally
-
-
-It doesnt exist There is no business if its not a scam There is no business which will give you a 10 percent guaranteed return The hotel apartments will never give it to you They will promise they will never give If were talking about Unolax we can sell him this unit But guys when the Unolax will be ready
-
-### Speaker 2
-
-fields
-
-### Speaker 4
-
-Yeah so he he I suggested you know there should be a mix of projects that will give him capital appreciation plus the rental returns to cover his 370k the first thing he have to
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 The first thing you have to focus is the ready units
 
+### Speaker 4 · Speaker 4
 
-which is gonna give him a price point to pay the 360 Then when that is covered then its actually of course off one Then you can do margin island as the highest price appreciation potentially Then you can do Dubai island as the highest price appreciation potentially because all the
+Yeah
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Very nice
+which going to give him a price point to pay the 360K Then when that is covered then its actually of course off plan Then you can do Marjan Island as the highest price appreciation potentially Then you can do Dubai Island as a highest price appreciation potentially
 
+### Speaker 4 · Speaker 4
 
-The By Creek
+Because of the Dubai Creek
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Not Dubai IELTS
+No Dubai Island
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-No Im saying what about the uh harbour Dubai Creek harbour
+No Im saying what about the harbor Dubai Creek Harbor
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Not to buy Creek Harbour not to buy Creek Harbour
+No Dubai Creek Harbor Not Dubai Creek Harbor Okay Im talking about Dubai Island
 
-### Speaker 2
+### Speaker 4 · Speaker 4
 
-Not too big
+No Im just asking as a suggestion what do you think about Dubai Creek Harbor
 
+### Speaker 1 · Speaker 1
 
-Yeah Im Im
+Okay guys what do you think about Dubai Creek Harbor
 
-### Speaker 1
+### Speaker 5 · Speaker 5
 
-You can get to my island
+Sorry one second I can just
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-No Im just asking as a suggestion what do you think about the bike park harbor
+its the ROE is very difficult and sorry rentals try a lot of 2500 dirhams per square feet
 
-### Speaker 2
+### Speaker 5 · Speaker 5
 
-Im just asking
+Exactly
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Okay guys what do you think about the bike repair
+And the rentals there are between 70000 to 90000 So youre gonna get a 1 bedroom for 2 point 3 million or would you rather have 4 or 1 point 3
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Uh its the ROE is very difficult and its very difficult to get a 2500 square feet
+Shibi I will tell you where Im coming from
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Lets press it
+Okay
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-an apartment exactly and the rentals there are between 70 to 90 000 so youre gonna get a one bedroom for 2 point 3 million um would you rather four or 1 point 3
+look like Im gonna tell you my thought process Where you will have the highest price appreciation highest price appreciation In the area which is already developed on a high demand everyone is already leveraging from the investment they did literally 10 years ago because thats where the Creek Harbour been launched if you remember 2015 Okay The area is beautiful sand yet which has waterfront views but it will take another 10 years to mature Which would give you the highest appreciation
 
-### Speaker 1
-
-Shibee I will tell you where Im coming from Okay Look like Im going to tell you my thought process Where you will have the highest price appreciation highest price appreciation In the area which is already developed on a high demand everyone is already leveraging from the investment they did literally 10 years ago because thats where the Creek Harbor Green launched if you remember 2015
-
-
-Yeah the area is a beautiful sand yet which has a waterfront views but it will take another 10 years to mature which will give you the highest appreciation
-
-### Speaker 4
+### Speaker 4 · Speaker 4
 
 The waterfront
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-which take 10 years to mature correct
+Which takes 10 years to mature correct
 
-
-Fantastic So is it Dubai Creek Harbor Dubai Island And why I dont want you to go to Dubai Creek Harbor guys Why do you think I dont want you to go to Dubai Creek Harbor rather than location or else If she will go to off plan where she will go Which developer
-
-### Speaker 3
-
-Okay everybody
-
-### Speaker 1
-
-The microwave oven
-
-### Speaker 3
-
-Um and Jordi Arimany
-
-### Speaker 1
-
-MR yeah how much is MR paint
-
-### Speaker 4
-
-For the center
-
-### Speaker 1
-
-Is it easy to get the unit with them on
-
-### Speaker 2
-
-Bodies
-
-### Speaker 3
-
-I mean uh no not really
-
-### Speaker 1
-
-Okay so Shibi which one you want 8 percent easy getting unit whatever you want or difficult
-
-### Speaker 4
-
-Uh Intias what is the reputation on Intias and the quality
-
-### Speaker 1
-
-Sorry Shibi one more thing have he ever mentioned the quality
-
-### Speaker 4
-
-No he has not mentioned no this is just for my um understanding you know
-
-### Speaker 1
-
-And then for this specific line guys this is a mistake that you can do if he never mentioned the college he doesnt care about the college
-
-### Speaker 4
-
-He doesnt he only cares that he needs to pay back
-
-### Speaker 1
-
-Thats it Just forget about this and dont dont dont be all I will will no thats not needed Thats not a crucial Imagine guys what were doing now We are creating an application an app a tech solution
-
-### Speaker 3
+### Speaker 3 · Speaker 3
 
 Yeah
 
-### Speaker 1
-
-So we have to have a certain parameters for this tech solution to works So we have to prioritize the parameters which are more important for our client and neglect those which are not important even if we personally would love them Make sense
-
-
-What hes feeling a lot of deals is that the agent is thinking oh you know Olga I will never sell this developer his quality is shit
-
-### Speaker 2
-
-Feeling a little
-
-### Speaker 1
-
-so sorry are you selling to yourself forget about this its not for you remove yourself remove your ego out of make sense guys in tz is okay developer im so sorry will that appreciate regardless the developer it will yes this is what you have to do to bother about
-
-### Speaker 2
-
-I was doing the math so 18 units into 1 point 3 million is 223 point 4 million and 18 units into 70 roughly a median rental per annum is 1 point 26 million so it roughly translates to 5 point 8 percent to 6 percent so this is where youre targeting internally or is it an expectation of course 8 percent is is a good thing but is this realistic
-
-### Speaker 1
-
-yeah yeah so he will need to invest in the ready property 23 point 4 you said yes
-
-### Speaker 2
-
-Twenty three point four million yes
-
-### Speaker 1
-
-23 point 4 million to enable the payment to the bank so we left with literally
-
-
-not yet 12 like with an additional payment 12 million to invest in off line properties which youre going to appreciate in time i dont know shibi its up to you to decide but what i would do if i were you
-
-### Speaker 4
-
-But uh
-
-### Speaker 1
-
-I will partner with someone maybe someone who is on this call
-
-
-Tell him look man lets work together on this deal Lets calculate Lets split the responsibilities Let you gonna you know do this and I will do that and work on the deal together because I think its more probability if thats even realistic for that to be closed What do you think
-
-### Speaker 4
-
-Yes makes sense Because uh uh Its up to you to decide You know why Because uh yeah 18 units like like lets say for me if I was thinking 18 units
-
-### Speaker 1
-
-Its up to you to decide
-
-
-Its a team of people that has to work with you
-
-### Speaker 4
-
-Its a team of people
-
-
-Yeah 18 units plus then you need to propose some off plan
-
-### Speaker 1
-
-Lets do the calculation lets look at the things
-
-### Speaker 4
-
-Lets do the calculation
-
-### Speaker 2
-
-Um Olga Im still confused as to why were not suggesting commercial isnt that a go to in terms of safety of an asset
-
-### Speaker 1
-
-Pranay very good question Thank you so much guys Who can read my mind and tell to Pranay why Im not suggesting commercial
-
-### Speaker 3
-
-I mean the type of commercial commercial five
-
-### Speaker 4
-
-You have the VAT five percent on that
-
-### Speaker 1
-
-Lunch embargo continue
-
-### Speaker 3
-
-Yeah I mean like at the same time I mean like maybe a few of the agents may go commercial and residential but not everybody does commercial and residential at the same time Because its too hard to handle
-
-### Speaker 2
-
-The lockings theres a lock in there is a
-
-### Speaker 1
-
-And I hope in this room maybe maybe besides me and I dont consider myself I never deal in commercial but I learned commercial and I train in commercial Yes Rahil tell me
-
-### Speaker 2
-
-I was going to say although maybe its I feel like its harder to find someone to rent out a business Yeah
-
-### Speaker 3
-
-Yeah
-
-### Speaker 1
-
-Nah its not what it is No one understands commercial here in this circle Shibi do you understand commercial
-
-### Speaker 3
-
-No me personally no
-
-### Speaker 4
-
-In terms of uh the property or like
-
-### Speaker 1
-
-Yeah in terms of the property yeah
-
-### Speaker 2
-
-I mean I I can understand the math behind it but not the Dubai specifics so Im Im willing to
-
-### Speaker 1
-
-So why would you confuse your clients even more
-
-
-Forget about it Yes theres a commercial potential Absolutely But for you to understand the dynamic of the market you have to add on a commercial agent
-
-
-And then its exactly what Marco said its 5 percent VAT tax So it has to pay I dont think youre gonna be happy about this But you are like guys thinking on the different like what I need to do less instead of what I need to do more Why would you bring commercial No one understand commercial I dont understand commercial Im gonna be running around looking for commercial Its easy for me to get into the building understand that three four buildings Im gonna get to
-
-
-Two units here two units here
-
-### Speaker 2
-
-Ill tell you why Ive suggested this Olga because Shibi mentioned twice that its a pain managing units And it is a pain because as you know when you have 18 of course you can give it to a management company What if he says I want the less of a you know a hassle and a larger floor plate And this is the expectation Commercials commercial places have more demand in Dubai right now I mean than supply Two there is the lock in periods are more Theres contracts
-
-
-So I mean that in that sense I mean Im not saying its difficult for us I understand but what does the investor want in that sense
-
-### Speaker 1
-
-I mean you have to match both The investor doesnt know things He doesnt understand You can just I would say if hes gonna talk about commercial like I would say look commercial definitely a choice Its a bit more expertise Usually the experienced investors goes into commercial those who already have a portfolio secure with a residential Because first of all you have to pay 5 percent
-
-
-Yeah and secondly for the price of the property And secondly at some point you will have to establish some sort of company to run the commercial as well Because this VAT payment from your rent which you from your rent and income you will have to kind of
-
-### Speaker 2
-
-Can I ask you something Is it a five percent VAT on the purchase of a commercial property or is it on the rent
-
-### Speaker 1
-
-On both
-
-### Speaker 2
-
-So you need your bookkeeping uh in back uh in our remittances etc
-
-
-Business based they have to register a company separately and have a separate license for commercial property
-
-### Speaker 1
-
-I dont think he wants it and you dont need a license you just need to register the company at some point
-
-
-And I dont want to make it more complicated for me I want to make it simple And for him guys
-
-
-Why I was saying Shibi look when Im saying six units in one area six units in another area six units in another area
-
-### Speaker 4
-
-in one ADA six unit and another
-
-### Speaker 1
-
-Right Yes so
-
-### Speaker 4
-
-So yeah
-
-### Speaker 1
-
-that we can select three four buildings in the area so he can have two units
-
-
-Similar its just in the area
-
-
-So if he advertises one
-
-
-You can find the tenant for both
-
-
-You got me
-
-
-If you decide then ever go to the short term rentals
-
-### Speaker 4
-
-views
-
-### Speaker 1
-
-Its going to be easier for him because he has two units he can make it almost similar and then he can go advertise in one unit and get in the clients for both
-
-
-but not six in one building
-
-
-realistically because its gonna be a pain in the ass to find for you six units in that building but two units in that building you can find and think about what is easier for you to manage after lets say under consideration that hes gonna stay with you
-
-### Speaker 2
-
-If you do
-
-### Speaker 1
-
-So you have six units in one area six units in another area six units in another area Thats it Your data is one
-
-
-Two
-
-
-And you have all of these clients coming in and buying your six properties Makes sense guys
-
-### Speaker 2
-
-Yep
-
-### Speaker 1
-
-You understand the way of thinking which are very simple right very logical
-
-### Speaker 4
-
-Lets say if the client is like 18 units is too much How do you mean
-
-### Speaker 1
-
-How do you mean
-
-### Speaker 2
-
-Thats yeah
-
-### Speaker 4
-
-In the sense yeah because see I I got this
-
-### Speaker 1
-
-BB be a client role play with me Im gonna show you what to say
-
-### Speaker 4
-
-Um Olga I dont think I want to you know take 18 units because its too much to manage uh can we look at
-
-### Speaker 1
-
-And then we look at the manager
-
-### Speaker 4
-
-Because Im worried that what if I dont get enough tenants for all these 18 units on time I might have to default my payment Is it possible that we can go for bigger units that can give us better rentals instead of
-
-### Speaker 1
-
-We can definitely do that The first thing is that we are looking to purchase the units with the tenants already which I believe this is what you wanted in terms of guarantee And then we can go to bigger units but the reality is bigger units not going to give you the same rental yield So youre going to be paying twice of the price for the unit to get almost the same amount of rent So let me compare with this If youre going to have three units one bedroom apartment
-
-
-which is gonna generate you lets say 230000
-
-
-And theyre gonna cost you lets say three million
-
-
-For you to generate two hundred thirty thousand with the two bedroom apartments you will need two units which gonna definitely cost you way more
-
-### Speaker 4
-
-Okay
-
-### Speaker 1
-
-They will cost you way more in services fees as well because what were looking here Mr Investor
-
-
-your rental yield per square feet more than the rental yield per unit
-
-
-Are you with me on that
-
-### Speaker 4
-
-Yes yes okay
-
-### Speaker 1
-
-So because for example a 750 square feet unit can generate you 80000 as one bedroom apartment
-
-
-Yeah and you will pay your service fees based on this query fit
-
-
-So now if we will need to generate 100000
-
-
-For the two bedroom apartment your square feet will be well around 1000
-
-
-So you see youre adding only lets say 30000 dirhams more
-
-
-but the difference between the square feet is gonna be way higher
-
-
-because you have to pay more for the service charges and you will have to pay more eventually for the property as well And realistically or not the price for two bedrooms depreciation wise and one bedroom is not the same
-
-### Speaker 4
-
-Specifically or not
-
-### Speaker 1
-
-I dont know
-
-### Speaker 4
-
-I think you can also mention the fact that its easier to rent out one beds than
-
-### Speaker 1
-
-In the areas that we are discussing potentially it will be easier for you to rent to one bed And why I want you it might look from the like you know from the first glimpse its too much to handle But let me ask you this what if you will need instant cash for some reason I dont know Your daughters getting married they decided to purchase a unit somewhere Do you think its easier for you to sell a bigger unit So you will lose all the rental
-
-
-income that theyre generating or its an easier for you to take one small unit replace it with another one if its a bad unit not generating you for some reason whatever you want it to be or to take this small unit and give it uh give the cash to your daughter but you still have this money making machine running regardless you dont have to pause it because if youre going to sell this huge unit with generating you this youre going to pause the generation do you want to pause your money making machine mr client
-
-
-And when youre saying about the hassle what I can help you with is I can set up blah blah blah and then manage your unit My management fee is quite reasonable I will sell him your management fee of course Its not free Youre not doing it for free
-
-### Speaker 2
-
-How much can you charge for management fee over todays market
-
-### Speaker 1
-
-Depends Im thinking of 10 as well but for that youll need a management license management company and management license management license cost quite a lot you will have to put in your bank account I believe again its my knowledge from the past couple of million dirhams for you to get the management license to show that you have money
-
-### Speaker 4
-
-There are a lot of management techniques there who are doing it right there again
-
-### Speaker 1
-
-We named that the
-
-### Speaker 4
-
-There are a lot of management companies who manage your portfolio of yes
-
-### Speaker 1
-
-Real CS yes of course but why would you give it to management comp why would you do that
-
-### Speaker 3
-
-I mean at the moment Im managing two properties so one in Marina Wharf one another one in Sabato and JLT so the owner is getting a slack by about seven percent so whatever
-
-### Speaker 4
-
-Present of
-
-### Speaker 3
-
-I mean the net profit that he is getting
-
-### Speaker 1
-
-Okay um is he is it a short term or long term
-
-### Speaker 3
-
-I mean its a long term by the way he needs a renovation he needs to take care of the property if you want to rent it you know in the following years so thats uh Im handling all those things
-
-### Speaker 1
-
-Makes sense with the light maybe any more questions
-
-### Speaker 2
-
-Delicious
-
-### Speaker 4
-
-Uh no thats about it Let me just try to get on a call with the man you know qualified How do you feel now
-
-### Speaker 1
-
-How do you feel now do you feel more a little bit
-
-### Speaker 4
-
-Yeah yeah more confident at least yeah yeah what to ask him and you know how to navigate
-
-### Speaker 1
-
-I think we built a pretty good picture yes
-
-### Speaker 2
+### Speaker 4 · Speaker 4
 
 Yes
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-I think it was a good case study yeah
+Fantastic So is it Dubai Creek Harbour or Dubai Island And why I dont want you to go to Dubai Creek Harbour guys Why do you think I dont want you to go to Dubai Creek Harbour Rather than location what else If she will go to off plan where she will go Which developer Dubai Creek Harbour
 
-### Speaker 2
+### Speaker 6 · Speaker 6
 
-It was a
+Majority are Emaar
 
+### Speaker 1 · Speaker 1
 
-We discuss quite a lot of broad topics From what I understand its a silly question Olga but the service charges the service charges always borne by the landlord irrespective So the net we are discussing now is 70K after the expenses et cetera right
+Emaar
 
-### Speaker 1
+### Speaker 6 · Speaker 6
 
-Yeah yeah yeah thats why I was talking 70k guys by the way I forgot to mention that Im kind of you know it can be even less than that But it doesnt matter I would not look Shibi what you are doing now you are just selling him a full picture of you has you have a plan for him This is what youre selling You dont have to go with a small detail And then I would always come up like look this is based on the like a short conversation that we have
+Yeah
 
+### Speaker 1 · Speaker 1
 
-course that the details and and more kind of you know agendas will be build up by me and my team thats what I will start telling him
+How much is Emaar paying
 
+### Speaker 4 · Speaker 4
 
-As soon as were gonna get closer to our meeting and then we meet we will kind of discuss I will show you the different options the calculation that I did for you and then we can go forward but the main thing now mr client is for us to understand
+4 percent
 
+### Speaker 1 · Speaker 1
 
-how seamlessly and with a less additional cost we can help you to put the money out of Malaysia to Dubai still thats going to be number one
+Is it easy to get the unit with Emaar
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Yeah then post that we will discuss the options in terms of property
+Not easy
 
+### Speaker 6 · Speaker 6
+
+I mean uh no not really
+
+### Speaker 1 · Speaker 1
+
+Okay so Shibi which one you want 8 percent and easy get a unit whatever you want or difficult
+
+### Speaker 4 · Speaker 4
+
+Uh Imtiaz what is the reputation on Imtiaz and the quality
+
+### Speaker 1 · Speaker 1
+
+Sorry Shibi One more thing Has he ever mentioned the quality
+
+### Speaker 4 · Speaker 4
+
+No he has not mentioned No this is just from my understanding you know
+
+### Speaker 1 · Speaker 1
+
+And then for this specific client guys this is a mistake that you can do If he never mentioned the quality he doesnt care about the quality
+
+### Speaker 4 · Speaker 4
+
+He doesnt He only cares that he needs to pay back
+
+### Speaker 1 · Speaker 1
+
+Thats it Just forget about this then Dont dont dont be oh I will will No thats not needed Thats not crucial Imagine guys what were doing now We are creating an application an app a tech solution So we have to have certain parameters for this tech solution to work So we have to prioritize the parameters which are more important for our client and neglect those which are not important even if we personally would love them Make sense
+
+### Speaker 4 · Speaker 4
+
+Yes
+
+### Speaker 1 · Speaker 1
+
+What is killing a lot of deals is that the agent is thinking oh you know Olga I will never sell this developer his quality is shit Im so sorry Are you selling to yourself Forget about this Its not for you Remove yourself Remove your ego out of Makes sense guys Imtiaz is okay developer Im so sorry Will that appreciate regardless the developer It will Yes Shibi This is where you have to bother about
+
+### Speaker 3 · Speaker 3
+
+I was doing the math Olga So eighteen units roughly into one point three million is two twenty three point four million and eighteen units into seven roughly a median rental per annum is 1 point 26 million dirhams So it roughly translates to 5 point 8 percent to 6 percent So this is where youre targeting internally or is it an expectation Of course 8 percent is is a good thing but is this realistic
+
+### Speaker 1 · Speaker 1
+
+Yeah yeah So he will need to invest in the ready property 23 point 4 you said Yes
+
+### Speaker 3 · Speaker 3
+
+23 point 4 million Yes
+
+### Speaker 1 · Speaker 1
+
+23 point 4 million to enable the payment to the bank So we left with literally what
+
+### Speaker 3 · Speaker 3
+
+12
+
+### Speaker 1 · Speaker 1
+
+Not yet 12 like with an additional payment 12 million to invest in offline properties which are going to appreciate in time I dont know Chibi its up to you to decide but what I would do if I were you
+
+### Speaker 4 · Speaker 4
+
+okay
+
+### Speaker 1 · Speaker 1
+
+I will partner with someone maybe someone who is on this call
+
+### Speaker 4 · Speaker 4
 
 Okay
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Oh good
+tell him look man lets work together on this deal Lets calculate lets lets split the responsibilities Let you gonna you know do this and I will do that and work on the deal together Because I think its more probability if thats even realistic for that to be closed What do you think
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-All good all good yeah
+Yes makes sense Because
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Uh Olga you foresee this um to be a six month exercise after having the money right I mean assuming the money is here
+its up to you to decide
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-Oh
+You know why Because Yeah 18 units Like like lets say for me if I were thinking 18 units its a team of people who has to
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-in three parts uh would you consider this to be a three to six month exercise to find the property to purchase it find credible properties go back and forth i mean depends on the client or is it
+work with you
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-Look my next step if I will do that I dont have any stock in any of this Im not a secondary market agent My next exercise Im going in a portal Im finding someone who has a lot of properties one bedrooms thats one person
+Yeah 18 units plus then you need to propose some off plan plus do the calculation plus look
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-The listing is
+at the things
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Im connecting with him Yes listen Im connecting with him Im finding three four Im talking to them Im finding one who is reasonable I am for my questions I understand that he is actually qualifying his sellers and this his sellers are reasonable because I want to deal with a person whos not gonna drop off the deal the last moment right I dont have control over the seller but I need an agent who has a control over the seller and who has with whom I have a common ground
+Olga Im still confused as to why were not suggesting commercial Isnt that a go to in terms of safety of an asset
 
+### Speaker 1 · Speaker 1
 
-who is calling me back who is up to date with everything You got me Thats what I want So then I was like I will sit down I will put him the plan with him and I want him to work for me now Work for me yeah He will bring me all of these listings He will put me the pictures He will put me the floor plans And then I will offer it I will not work with six different agents in the area I will work with one Make sense guys Yeah
+Very good question Thank you so much guys Who can uh who can read my mind and tell uh to Pranay why Im not suggesting commercial
 
+### Speaker 6 · Speaker 6
 
-And let us know when you have a meeting were all gonna be wishing you to break your leg and to make this happen right
+I mean in terms of commercial
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-Im sorry to interrupt you but to make this clear
+5 percent You
 
-### Speaker 2
+### Speaker 4 · Speaker 4
 
-Yeah yeah TikTok who knew right
+have the VAT 5 percent on that
+
+### Speaker 1 · Speaker 1
+
+Oh Lanchampa continue
+
+### Speaker 6 · Speaker 6
+
+Yeah I mean like at the same time I mean like maybe a few a few of the agents may go commercial and residential but not everybody does commercial and residential at the same time Because its too hard to handle
+
+### Speaker 1 · Speaker 1
+
+There is
+
+### Speaker 3 · Speaker 3
+
+the lock ins theres a lock in
+
+### Speaker 1 · Speaker 1
+
+In this room maybe maybe besides me and I dont consider myself I never deal in commercial but I learned commercial and I train in commercial Yes Raquel tell me
+
+### Speaker 5 · Speaker 5
+
+I was going to say Olga maybe its I feel like its harder to find someone to rent out a business Yeah
+
+### Speaker 1 · Speaker 1
+
+Nah its not about this No one understands commercial here in this circle Shibi do you understand commercial
+
+### Speaker 6 · Speaker 6
+
+No me personally no
+
+### Speaker 4 · Speaker 4
+
+In terms of uh the property or like
+
+### Speaker 1 · Speaker 1
+
+Yeah in terms of the property
+
+### Speaker 3 · Speaker 3
+
+Yeah I mean I I can understand the math behind it but not the Dubai specifics So Im willing to
+
+### Speaker 1 · Speaker 1
+
+So why would you confuse your client even more Why Forget about that Yes theres a commercial potential absolutely But for you to understand the dynamic of the market you have to add on to your team a commercial agent
+
+### Speaker 4 · Speaker 4
+
+Yeah
+
+### Speaker 1 · Speaker 1
+
+And then its exactly like Marco said its 5 percent VAT tax that you have to pay I dont think youre going to be happy about this but you are like guys thinking on the different like what I need to do less instead of what I need to do more Why would you bring commercial No one understands commercial I dont understand commercial Im going to be running around looking for commercial Its easy for me to to get into the building understand that 3 4 buildings Im gonna get 2 units here 2 units here Right
+
+### Speaker 3 · Speaker 3
+
+Ill tell you why Im Ive suggested this Olga because Shibi mentioned twice that its a pain managing units and it is a pain because as you know when you have 18 of course you can give it to a management company What if he says I want less of a you know a hassle and a larger floor plate And this is the expectation Commercials commercial places have more demand in Dubai right now I mean than supply Um 2 there is um the lock in periods are more theres contracts wise So I mean in that sense I mean Im not saying its difficult for us I understand but what does the investor want in that sense
+
+### Speaker 1 · Speaker 1
+
+I mean you have to match both The investor doesnt know things he doesnt understand You can just I would say if youre going to talk about commercial like I would say look Commercial definitely a choice Its a bit more expertise Usually the experienced investors goes into commercial those who already have a portfolio secure with the residential because first of all you have to pay 5 percent
+
+### Speaker 3 · Speaker 3
+
+That
+
+### Speaker 1 · Speaker 1
+
+Yeah And second of all yeah on the price of the property And second of all at some point you will have to establish some sort of company to to run the commercial as well because this VAT payment from your end which you from your end income you have to kind of
+
+### Speaker 3 · Speaker 3
+
+Can I ask you something Is it 5 percent VAT on the purchase of a commercial property or is it on the rent
+
+### Speaker 1 · Speaker 1
+
+On both
+
+### Speaker 3 · Speaker 3
+
+So you need your bookkeeping uh VAT uh inward remittances
+
+### Speaker 1 · Speaker 1
+
+Yeah
+
+### Speaker 3 · Speaker 3
+
+business based You have to register a company separately and have a separate license for commercial property More than this
+
+### Speaker 1 · Speaker 1
+
+I dont think he wants it You dont need a license you just need to register the company at some point And I dont want to make it more complicated for me I want to make it simple And for him guys why I was saying Shibi look when Im saying 6 units in one area 6 units in another area 6 units in another area right
+
+### Speaker 4 · Speaker 4
+
+Yes
+
+### Speaker 1 · Speaker 1
+
+So that means
+
+### Speaker 7 · Speaker 7
+
+that
+
+### Speaker 1 · Speaker 1
+
+We can select 3 4 buildings in the area so he can have 2 units similar in the area So if he advertises one he can find the tenant for both You got me Yes If he will decide then ever go to the short term rentals its going to be easier for him because he has 2 units He can make it almost similar and then he can go advertise in one unit and getting the clients for both But not 6 in one building realistically because its going to be a pain in the ass to find for you 6 units in that building But 2 units in one building you can find Yeah And think about what is easier for you to manage after Lets say that hes gonna stay with you right So you have 6 units in one area 6 units in another area 6 units in another area Thats it You advertise one or two and you have all of these clients coming and viewing your 6 properties Makes sense guys
+
+### Speaker 3 · Speaker 3
+
+Yeah
+
+### Speaker 1 · Speaker 1
+
+Do you understand the way of thinking which I have Very simple right Very logical
+
+### Speaker 4 · Speaker 4
+
+Yeah lets see what the client says you know Yeah lets say if the client is like uh 18 units is too much Uh
+
+### Speaker 1 · Speaker 1
+
+how do you mean
+
+### Speaker 3 · Speaker 3
+
+Thats
+
+### Speaker 4 · Speaker 4
+
+yeah in the sense yeah because see I I got this
+
+### Speaker 1 · Speaker 1
+
+Be a client role play with me Im gonna show you what to say
+
+### Speaker 4 · Speaker 4
+
+Um okay I dont think I want to you know take 18 units because its too much to manage Uh
+
+### Speaker 1 · Speaker 1
+
+can we look at manage
+
+### Speaker 4 · Speaker 4
+
+Because you know Im worried that what if I dont get enough tenants for all these 18 units on time I might have to default my payment Is it possible that we can you know go for bigger units that can give us better rentals instead of
+
+### Speaker 1 · Speaker 1
+
+We can definitely do that The first thing is that we are looking to purchase the units with the tenants already which I believe this is what you wanted in terms of guarantee And then we can go to bigger units but the reality is bigger units not gonna give you the same rental yield So youre gonna be paying twice of the price for the unit to get almost the same amount of rent So let me compare with this If youre gonna have 3 units 1 bedroom apartment its gonna generate you lets say 1000 a month 230000 and gonna cost you lets say 3 million right For you to generate 230000 with the 2 bedroom apartments you will need 2 units which gonna definitely cost you way more
+
+### Speaker 4 · Speaker 4
+
+Okay
+
+### Speaker 1 · Speaker 1
+
+They will cost you way more in services fees as well because what were looking here Mr Investor Is your rental yield per square feet more than the rental yield per unit Are you with me on that
+
+### Speaker 4 · Speaker 4
+
+Yes yes Okay
+
+### Speaker 1 · Speaker 1
+
+So because for example a 750 square feet unit can generate you 80000 as a 1 bedroom apartment Yeah And you will pay your service fees based on the square feet As well So now if we will need to generate 100000 for the 2 bedroom apartment your square feet will be well around 1000 So you see youre adding only lets say 30000 dirhams more but the difference between the square feet is going to be way higher Because you have to pay more for the service charges and you will have to pay more eventually for the property as well And realistically or not the price for 2 bedrooms depreciation wise and 1 bedroom is not the same
+
+### Speaker 4 · Speaker 4
+
+And I think you can also mention the fact that its easier to rent out 1 beds than
+
+### Speaker 1 · Speaker 1
+
+in the areas that we are discussing
+
+### Speaker 4 · Speaker 4
+
+Yeah
+
+### Speaker 1 · Speaker 1
+
+Potentially it will be easier for you to rent a 1 bed And why I want you it might look from the like you know from the first glimpse its too much to handle But let me ask you this what if you will need instant cash for some reason I dont know your daughter is getting married they decided to purchase a unit somewhere Do you think its easier for you to sell a bigger unit So you will lose all the rental income that theyre generating or its easier for you to take one small unit replace it with another one if its a bad unit not generating you for some reason whatever you want it to be or to take this small unit and give it uh give the cash to your daughter but you still have this money making machine running regardless You dont have to pause it because if youre going to sell this huge unit thats generating you this youre going to pause the generation Do you want to pause your money making machine Mr Client And when youre saying about the hassle like what I can help you with is I can set up blah blah blah and then manage your unit uh my management fee is quite reasonable I will sell him your management fee of course Its not free Youre not doing it for free
+
+### Speaker 3 · Speaker 3
+
+How much can you charge for management fee over todays market
+
+### Speaker 1 · Speaker 1
+
+Depends I think enough 10 as well but for that you need a management license management company and management license Management license costs quite a lot You will have to put in your bank account I believe again its my knowledge from the past couple of million dirhams for you to get the management license to show that you have money
+
+### Speaker 4 · Speaker 4
+
+There are a lot of management companies there who are doing it right Say that again No there are a lot of management companies who manage your portfolio
+
+### Speaker 1 · Speaker 1
+
+Yes yes yes of course But why would you give it to management company Why would you do that
+
+### Speaker 6 · Speaker 6
+
+I mean at the moment Im managing 2 properties so one in Marina Wharf 1 and another one in Sabato in JLT So the owner is cutting a slack per year about 7 percent So
+
+### Speaker 1 · Speaker 1
+
+uh
+
+### Speaker 6 · Speaker 6
+
+I mean the net profit that hes getting
+
+### Speaker 1 · Speaker 1
+
+Okay Um is he is it a short term or long term
+
+### Speaker 6 · Speaker 6
+
+I mean its a long term by the way If he needs a renovation he needs to take care of the property if he wants to rent it you know in the following years So thats uh Im handling all those things
+
+### Speaker 1 · Speaker 1
+
+Makes sense Any more questions
+
+### Speaker 4 · Speaker 4
+
+Uh no thats about it Let me just try to get on a call with him and you know qualify
+
+### Speaker 1 · Speaker 1
+
+How do you feel now Do you feel more a little bit
+
+### Speaker 4 · Speaker 4
+
+Yeah yeah more confident at least Yeah yeah What to ask him and you know how to navigate
+
+### Speaker 1 · Speaker 1
+
+I think we built a pretty good picture Yes
+
+### Speaker 5 · Speaker 5
+
+yes
+
+### Speaker 4 · Speaker 4
+
+I think it was a good case study Yeah
+
+### Speaker 3 · Speaker 3
+
+we discussed quite a lot of broad topics Um from what I understand its a silly question Olga but um the service charges um the service charge is always borne by the landlord irrespective So the net we are discussing now is 70K after the expenses etc right
+
+### Speaker 1 · Speaker 1
+
+Yeah yeah yeah Thats why I was talking 70K guys by the way I forgot to mention that Im Im kind of You know it it can be even less than that but it doesnt matter I would not look uh Shibi what you are doing now youre just selling him a full picture of you have a plan for him This is what youre selling You dont have to go with a small detail And then I would always come up like look this is based on the like a short conversation that we have Of course the details and and more kind of you know agendas will be uh built up by me and my team Thats what I will start telling him Yeah
+
+### Speaker 4 · Speaker 4
+
+Okay
+
+### Speaker 1 · Speaker 1
+
+Uh as soon as were gonna get closer to our meeting and then we meet we will kind of discuss I will show you the different options the calculation that I did for you and then we can go forward But the main thing now Mr Client is for us to understand uh how seamlessly and with less additional cost we can help you to put the money out of Malaysia to Dubai Still thats going to be number one
+
+### Speaker 4 · Speaker 4
+
+Yeah Then post that we will discuss the options in terms of property
+
+### Speaker 1 · Speaker 1
+
+Yeah
+
+### Speaker 4 · Speaker 4
+
+Okay Yes
+
+### Speaker 1 · Speaker 1
+
+All good
+
+### Speaker 4 · Speaker 4
+
+All good All good Yeah
+
+### Speaker 3 · Speaker 3
+
+Olga you foresee this to be a 6 month exercise after having the money right I mean assuming the money is here in 3 parts Would you consider this to be a 3 to 6 month exercise to find the property to purchase it find credible properties go back and forth I mean depends on the client or is it
+
+### Speaker 1 · Speaker 1
+
+Look my next step if I will do that I dont have any stock in any of this Im not a secondary market agent My next exercise Im going in a portal Im finding someone who has a lot of properties 1 bedrooms Theres one person
+
+### Speaker 3 · Speaker 3
+
+The listing agent
+
+### Speaker 1 · Speaker 1
+
+Im connecting with him Yes listing agent Im connecting with him Im finding 3 4 Im talking to them Im finding one who is reasonable or I am for my questions I understand that he is actually qualifying his sellers and his sellers are reasonable because I want to deal with a person whos not going to drop off the deal the last moment right I dont have control over the seller but I need an agent who has control over the seller and who has with whom I have a common ground who is calling me back who is up to date with everything You got me Thats what I want Got it So then I was like I will sit down I will put him the plan with him and I want him to work for me now Work for me yeah He will bring me all of these listings he will put me the pictures he will put me the floor plans And then I will offer it I will not work with 6 different agents in the area I will work with one Makes sense guys Yeah And let let us know uh when you have a meeting Were all gonna be uh wishing you to break your leg and uh to make this deal happen right
+
+### Speaker 3 · Speaker 3
+
+Yeah Hey TikTok who knew right

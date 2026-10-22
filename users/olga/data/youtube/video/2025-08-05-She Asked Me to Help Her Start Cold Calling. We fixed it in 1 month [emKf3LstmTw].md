@@ -1,16 +1,16 @@
 ---
 id: emKf3LstmTw
 title: She Asked Me to Help Her Start Cold Calling. We fixed it in 1 month
-url: https://www.youtube.com/watch?v=emKf3LstmTw
 date: '2025-08-05'
-duration: 00:17:15
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=emKf3LstmTw
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 3
+speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -18,281 +18,202 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Imagine working in Dubai real estate market for two years closing some deals but still being afraid of cold calling more than more than the fear of death probably In this video Im speaking with my coaching client who was exactly in this place She had experience she closed some deals but only the idea that now she has to go and hunt for the new listing do the cold call make you completely freeze
+Imagine working in Dubai real estate market for 2 years closing some deals but still being afraid of cold calling more than more than the fear of death probably In this video Im speaking with my coaching client who was exactly in this place She had experience she closed some deals but only the idea that now she has to go and hunt for the new listing Do the cold calls make you completely freeze If just the thought of picking up the phone and doing the cold calls makes you panic if when your manager is asking you where your listings for this month you are completely shh and you dont know what to say this video might be just right treatment for you Then you need to hear the story She will be talking to how She was able to overcome the cold calling anxiety and how we build the system together which makes you successfully consistently bring the new listing and convert them She was doing cold calls every day with ease without fear Oh almost without fear Stay till the end specifically if the cold calling feels like the hardest part of your real estate job this video might shift everything for you Hi Irina thank you for taking this call in the middle of your very very important process of you closing maybe one of the biggest deals of your life So tell us a little bit about yourself your experience in real estate so we understand What was the lets say starting point before we actually started our coaching relationship
 
+### Speaker 2 · Speaker 2
 
-thought of picking up the phone and doing the cold calls makes you panic if when your manager is asking you where your listings for this month you are completely and you dont know what to say this video might be just right treatment for you then you need to hear the story She will be talking to how she were able to overcome the cold calling anxiety and how we build the system together which makes your successfully
+Yeah so Ive been in real estate now for about 2 and a half years Before I joined your coaching it was like 2 years So and Ive been focusing on the secondary market primarily and I would say that it has been a very challenging journey for me actually from the beginning itself because I have never dealt with sales before And changing careers from one sphere to another sphere of course it was very difficult So I was completely lost with everything that I was doing in real estate For the first year I think I was just trying to swim in the ocean without knowing how to swim And then
 
-
-consistently bring the new listing and convert them She was doing cold calls every day with ease without fear Oh almost without fear Stay till the end Specifically if the cold calling feels like the hardest part of your real estate job This video might shift everything for you
-
-### Speaker 2
-
-Hi Irina thank you for taking this call in the middle of your very very important process of you closing the maybe the one of the biggest deal of your life So tell us a little bit about yourself your experience in real estate so we understand what was the lets say starting point before we actually start our coaching relationship
-
-### Speaker 3
-
-yeah so ive been in real estate now for about two and a half years um before i joined your coaching it was like two years so and ive been focusing on the secondary market primarily and i i would say that it has been a very challenging journey for me actually from the beginning itself because i have never dealt with sales before and um change
-
-
-changing career from changing careers from one sphere to another sphere of course it was very difficult so I was completely lost with everything that I was doing in real estate for the first year I think I was just trying to swim in the ocean without knowing how to swim and then then I was like googling everything how to become the best real estate agent what kind of skills I have to learn I was trying to read books I was trying to watch
-
-
-different YouTubers Yes I got some useful information but I understood that was not enough because whenever youre listening or reading this is like more of a theory but then you understand if you want to grow you cannot just rely on theory You have to start doing actions and this is where you have to find maybe some support from outside if you cannot find it within yourself
-
-
-Uh huh
-
-### Speaker 2
-
-I remember that you that you were saying uh that um at some point you even decided that you want to switch the companies because you know youve been working with one of the biggest were not gonna name the company but one of the biggest and most recognizable brands in uh Dubai
-
-### Speaker 3
-
-Well I understood that its it doesnt matter which company you work with actually it matters how you work how you operate what is your mindset because whenever you change a company you will still end up in the environment where everybody is focusing on themselves and they have their own problems they have their own highs and lows and success and everything and nobody has time to focus on you you know you are on your own its the sphere
-
-
-where you dont have a salary you have to climb the mountain yourself so yeah at some point I wanted to change the company but then I was like let me just give myself a second chance with this company but this time when I thought I will give myself a second chance this time Ill focus on my skills not focus on what the company is providing you but focus on how I can become better and what Im lacking and what
-
-
-be improved and um yeah this is maybe i started googling again i was like okay i need someone i need someone because im this type of a person i understand i can do better but i dont know i cannot see like where uh where im lacking the knowledge or what what kind of help i need like a push because you know if you want to grow if you cannot do it
-
-
-on your own you and you dont want to kind of you dont want to
-
-### Speaker 2
-
-Ask the cell
-
-### Speaker 3
-
-You dont want to forget about your dreams and you want to grow and you need to ask for help like dont be scared to ask for help I started googling I was like okay there are so many coaches in US etc in Europe but I need somebody who knows the Dubai market whats the whats the point of you know
-
-### Speaker 2
+### Speaker 1 · Speaker 1
 
 Okay
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-having a coach who doesnt know the UE market so I was like okay I need somebody and this is when I found your YouTube channel
+Then I was like Googling everything how to become the best real estate agent what kind of skills I have to learn I was trying to read books I was trying to watch different YouTubers Yes I got some useful information but I understood that was not enough because whenever youre listening or reading this is like more of a theory But then you understand if you want to grow You cannot just rely on theory You have to start doing actions and this is where you have to find maybe some support from outside if you cannot find it within yourself And
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Yeah well my small YouTube channel at the time I dont think its I think it was like a maybe like 250 subscribers at the time
+I remember that you that you were saying that at some point you even decided that you want to switch the companies because you know youve been working with one of the biggest were not gonna name the company About one of the biggest and most recognizable brands in Dubai
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-And by the way again by saying that I need a push it was not even me who kind of decided that I really need a coach it was my husband he saw that I was so so down he was like okay you need a coach who is here in Dubai go and find somebody on YouTube go and find and because of him I found actually you
+Well I understood that it doesnt matter which company you work with actually It matters how you work how you operate what is your mindset Because whenever you change a company you will still end up in the environment where everybody is focusing on themselves And they have their own problems They have their own highs and lows and success and everything And nobody has time to focus on you You know you are on your own Its the sphere where you dont have a salary You have to climb the mountain yourself So yeah at some point I wanted to change the company but then I was like let me just give myself a second chance with this company But this time when I thought I will give myself a second chance this time Ill focus on my skills not focus on what the company is providing you but focus on how I can become better and what Im lacking and what should be improved And um yeah this is maybe I started Googling again I was like okay I need someone Okay I need someone because Im this type of a person I understand I can do better But I dont know I cannot see like where I am lacking the knowledge or what kind of help I need like a push Because you know if you want to grow if you cannot do it on your own and you dont want to kind of you dont want to forget about your dreams and you want to grow then you need to ask for help Like dont be scared to ask for help Yeah I started Googling I was like okay there are so many coaches in US et cetera in Europe but I need somebody who knows the Dubai market Whats the point of having a coach who doesnt know the UAE market So I was like okay I need somebody And this is when I found your YouTube channel
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-So I have to I have to uh thanks to your husband that we actually met right
+Yeah well my small YouTube channel at the time I dont think its I think it was like Maybe like 250 subscribers at the time
 
-### Speaker 3
+### Speaker 2 · Speaker 2
+
+And by the way again by saying that I need a push it was not even me who kind of decided that I really need a coach It was my husband He saw that I was so so down He was like okay you need a coach who is here in Dubai Go and find somebody on YouTube Go and find And because of him I found actually you So
+
+### Speaker 1 · Speaker 1
+
+I have to I have to uh thank your husband that we actually met right
+
+### Speaker 2 · Speaker 2
 
 Oh I have to thank him that we met
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-In many in many ways you have to thank your husband in many ways forget about me in many ways that
+In many ways you have to thank your husband in many ways Forget about me In many ways
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Yeah so I think hes
+Yeah So
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Because he is such a supportive person overall
+because he is such a supportive person overall
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-I would all you know I I watched all your videos just within one day there were many at that time even you had 250 followers but there were many and I was watching like okay this video is so useful oh my god this woman is giving so much information for free let me watch the second video let me watch the third video and thats that was the moment when I was like I dont need to find someone else I already found
+You know I I watched all your videos just within one day There were many at that time Even you had 250 followers but there were many And I was watching like okay this video is so useful Oh my God this woman is giving so much information for free Let me watch the second video Let me watch the third video And thats that was the moment when I was like I dont need to find someone else I already found
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-So I think you already responded to the question I wanted to ask you whats the reason you even start looking for some outside help But I remember when we just met you were talking about the main thing that you wanted to have help with and that was cold calling right
+So I think you already responded to the question I wanted to ask you Whats the reason you even start looking for some outside help But I remember when we just met the you were talking about The main thing that you wanted to have help with and that was cold calling right
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Yes it was cold calling of course its its the pain I think its the pain of every agent who starts probably every agent but for me it was a disaster it was a disaster because you know because you Im this type of a person who kind of maybe was looking for self validation through others
+Yes it was cold calling Of course its its the pain I think its the pain of every agent who starts probably every agent but for me it was a disaster It was a disaster because you know because you Im this type of a person who kind of maybe was looking for self validation through others And thats why when I thought like okay if this person responds in a negative way I was taking it too close to my heart I was thinking that its about me Im doing something wrong Im the bad person here You know I dont deserve to be in this sphere maybe
 
-### Speaker 2
+### Speaker 1 · Speaker 1
+
+Yeah I dont deserve to ask questions
+
+### Speaker 2 · Speaker 2
+
+Cold calling was a terrible
+
+### Speaker 1 · Speaker 1
 
 Okay
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-And thats why when I thought like okay if this person responds in a negative way I was taking it too close to my heart I was thinking that its about me Im doing something wrong Im the bad person here You know I dont deserve to be in this sphere maybe
+Topic
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Yeah I dont think you have to ask questions
+And and out of that training that we have in coaching altogether I think weve been for a little bit more than 3 months I think
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Yeah I dont think youve told
+Yeah In coaching
 
+### Speaker 1 · Speaker 1
 
-Paul Colin was a terrible
+So what was the like the biggest takeaway or the biggest wow that you can say Yeah that this is the result that Ive got
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Okay so um and and out of that
+I remember it was like when I was talking to when I was doing cold calls And I had a very aggressive client on the cold call who was you know who was very aggressive negative He was raising his voice but the way I handled that call with peace with peace in my mind with the structured you know sentences And I was so I wasnt nervous even at all during that call I was like okay thats when I understood that yeah I have kind of overcome this fear of making cold calls because I faced Ive faced what I was scared of and thats when I overcome it So thats when I understood that yeah its not that scary Mm hmm Because I kind of uh by doing these cold calls and having that support from you Ive built that what do you say that support inside of me Because the coaching that you were providing it was not just about the real estate aspect It was about the psychological aspect as well How to build inside of you this support how to find the how to understand that you dont need to be self valid you dont need to find outside validation You have to find
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Topic um
+Because youre validating yourself right
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Training that we have and coaching I are all together I think weve been for a little bit more than three months I think
+Yes You have to find this self worth within yourself And you have to understand that you are already enough You dont need someone to say that oh youre a good person or or youre a good agent You have to know yourself that youre a good person and youre a good agent
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Yeah in code no
+And a good agent Okay So we are talking about more like emotional things that how you change as a person but lets talk about the financial results because like lets be honest everyone is coming into this business not to grow as a person more like to be a millionaire trillionaire billionaire in one month So
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-So what was the like the biggest takeaway or the biggest wow that you can say yeah that this is the result that Ive got
+yeah well of course we everybody wants to become a billionaire millionaire within a night but also you have to understand that its not possible Its impossible to become a billionaire overnight without making cold calls without having these proper skills without
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-I remember it was like when I was talking to when I was doing cold calls and I had a very aggressive client on the cold call who was you know who was very aggressive negative he was raising his voice but the way I handled that call with peace with peace in my mind with the structured you know sentences
+People are going to stop watching this video right now Theyre going to stop Its like ah no its not about this one
 
+### Speaker 2 · Speaker 2
 
-And I was so I wasnt nervous even at all during that call I was like okay thats when I understood that yeah I have kind of overcome this fear of making cold calls Because I faced Ive faced what I was scared of And thats when I overcome it So thats when I understood that yeah its not that scary Because I kind of by doing these cold calls and having that support from you
+How to handle rejections without going through all the stress without even maybe crying Its impossible You know its work its hard work You go through all of this and then one day you close a big deal and you get a fat commission but you have to be prepared for that Like your initial settings cannot bring you 1 million in your commission The settings have to be you know updated all the time And yeah so Ive closed while weve been working with you Ive closed I think 4 or 5 deals because I have still 2 in the process which are coming from our coaching So yeah thats amazing
 
+### Speaker 1 · Speaker 1
 
-Ive built that what do you say that support inside of me Because the coaching that you were providing it was not just about the real estate aspect it was about the psychological aspect as well How to build inside of you the support how to find the how to understand that you dont need to be self valid you dont need to find outside validation You have to find
+And the process is longer but now youre closing the deals not even being in Dubai
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Because youre validating yourself right Yes you have
+Yes And the thing is Im not looking even more at the commission at the at the amount of the commission but Im looking at what I have learned Within this whole coaching period I have learned how
 
-### Speaker 3
-
-Yes you have to find this self worth within yourself And you have to understand that you are already enough You dont need someone to say that oh youre a good person or or youre a good agent You have to know yourself that youre a good person and youre a good agent
-
-### Speaker 2
-
-And a good argument Okay so we are talking about more like emotional things that how you change as a person But lets talk about the financial results because like lets be honest everyone is coming into this business not to grow as a person more like to be a millionaire trillionaire billionaire in one month
-
-### Speaker 3
-
-Yeah well of course we everybody wants to become a billionaire millionaire within a night but also you have to understand that its not possible its impossible to become a billionaire overnight without making cold calls without having these proper skills without
-
-### Speaker 2
-
-People are gonna stop watching this video right now theyre gonna stop its like ah no its not about this one
-
-### Speaker 3
-
-No its not about this one No you have to handle rejections without going through all the stress without even maybe crying its impossible you know its work its hard work you go through all of this and then one day you close a big deal and you get a fat commission but you have to be prepared for that like your initial settings cannot bring you one million dollar in your commission these settings have to be you know updated all the time and
-
-
-Yeah So Ive closed while weve been working with you Ive closed I think four or five deals because I have still two in the process which are coming from our coaching So yeah thats amazing
-
-### Speaker 2
-
-Yeah the process is longer but now youre closing the deals not even being in Dubai
-
-### Speaker 3
-
-Yes and the thing is Im not looking even more at the commission at the amount of the commission but Im looking at what I have learned within this whole coaching period I have learned how to
-
-### Speaker 2
+### Speaker 1 · Speaker 1
 
 Closing deals as well that while youve been closing deals because they were very very difficult
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Yeah I dont know they have been difficult but I think its because life is preparing me for something And yeah you go through difficult deals and then one day they become easy and the commissions become higher and your life becomes more interesting And then youre a pro in this sphere
+Yeah my deals I dont know they have been difficult but I think its because life is preparing me for something And yeah you go through difficult uh deals and then one day they become easy and the commissions become higher And your life become becomes more interesting And then youre a pro in this sphere
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Maybe its interesting because difficult deals make the life interesting Maybe just because you wanted to have this complex type of negotiation and a lot of different moving pieces huh Maybe thats just for you specifically
+Maybe less interesting because difficult deals make the life interesting Maybe just because you wanted to have this complex type of negotiation and a lot of different moving pieces huh Maybe thats just for you specifically
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-that maybe just for you specifically maybe we attract what we are thinking about that can that could be also true however i think its just because well well if you want to help the client properly and present yourself as a professional like how can you become a professional if you dont have difficult complicated deals i dont know i think you can become a true professional if you dont know if you dont go through this you know all the
+Maybe we attract what we are thinking about That can that Could be also true However I think its just because well if you want to help the client properly and present yourself as a professional like how can you become a professional if you dont have difficult complicated deals I dont know I think you can become a true professional if you dont know if you dont go through these you know all what do you say all the details In the deal Now I know Yes I can confidently take any deal at this you know time stage
 
+### Speaker 1 · Speaker 1
 
-what do you say all the details in the deal now i know all the mistakes yes i can call confidently take any deal at this you know
+Okay so the last question I have for you Lets imagine that Im putting you in a time machine and we are traveling back to the time when you just started your career in real estate Which advice the Irina from 2025 Knowing what she knows closing very difficult deals in residential commercial more grid to mortgage off plan which advice she would give to herself just starting
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-I dont want to make any mistakes
+First of all I think I would tell her dont doubt yourself You can do it And the second probably I would say dont waste time yourself learning how to swim in the ocean Just hire a coach or a trainer who will teach you how to swim you know So yeah because instead of spending years and years trying to close a deal you can get this experience from someone who has already uh who already has like lets say 10 years of experience in real estate and he can help you or or she can help you uh try she can help you you know just to reach your goal faster Why do you need to I dont know why do you need to pressure yourself even by not knowing what youre doing what the hell you are doing Find somebody who already knows who already has achieved you know your goal and even more and buy that experience
 
+### Speaker 1 · Speaker 1
 
-I stayed
+Okay so I just cannot not ask you this question because I think everyone is looking for the future like weve been in the past So now for you in 5 years time what would be the realistic result that you see for yourself with all of your knowledge and expertise that you have and a bit of challenge that you can still give to yourself within these 5 years What do you want to achieve
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-It is okay
+Within the next 5 years
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Okay so the last question I have for you lets imagine that Im putting you in a time machine and we are traveling back to the time when you just started your career in real estate Which advice the arena from 2025 knowing what she knows closing a very difficult deals in residential commercial mortgage to mortgage off plan which advice she would give to herself just starting
+Well I see What do you want to build or how does the 5 years look
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-first of all i think i would tell her dont doubt yourself you can do it and the second probably i would say dont waste time yourself learning how to swim in the ocean just hire a coach or a trainer who will teach you how to swim you know so yeah because instead of spending years and years trying to close a deal you can get this
+like I see myself as the owner of my own real estate company And I see myself like having lets say 10 agents who will be doing well uh because I will be there for them I will help them I will teach them Ill lets say Ill guide them through the same process and I will understand what kind of challenges they would be going through because I would know I would know that yes I was there I was also there So So yeah I would be having my own real estate company which is built on reputation trust transparency and what else I think and on innovation
 
+### Speaker 1 · Speaker 1
 
-experience from someone who has already uh who already has like lets say 10 years of experience in real estate and he can help you or she can help you uh try she can help you you know just to reach your goal faster why do you need to i dont know why do you need to pressure yourself even by not knowing what youre doing what the hell you are doing find somebody who already knows
+Yeah Fantastic And self respect Yeah
 
+### Speaker 2 · Speaker 2
 
-already has achieved you know your goal and even more and by that experience
+And self respect Yes of course
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Okay so I just cannot not ask you this question because I think everyone is looking for the future like weve been in the past So now for you in five years time what would be the realistic result that you see for yourself with all of your knowledge and expertise that you have and a bit of challenge that you can still give to yourself within these five years What do you going to achieve
+So lets imagine in 5 years we are jumping on the same video call And doing another video Youre going to be doing it from your office and Im going to be doing it from God knows where But that would be fun right
 
-### Speaker 3
-
-within the next five years
-
-### Speaker 2
-
-What do you want to build or how does the five years go
-
-### Speaker 3
-
-I see myself as the owner of my own real estate company and I see myself like having lets say 10 agents who will be doing well because I will be there for them I will help them I will teach them Ill lets say Ill guide them through the same process and I will understand what kind of challenges they would be going through because I would know I would know that yes I was there
-
-
-I was also there So yeah I I would be having my own real estate company which is built on reputation trust transparency and and what else I think on innovation
-
-### Speaker 2
-
-Yeah fantastic and um self respect
-
-### Speaker 3
-
-And self respect yes of course
-
-### Speaker 2
-
-So lets imagine in five years we are jumping on the same video call and doing another video Youre going to be doing it from your office and Im going to be doing it from God knows where But that would be fun right
-
-### Speaker 3
+### Speaker 2 · Speaker 2
 
 Yes
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-I want to see that happening And by the way if youre watching this video four years from now definitely Im gonna link the leave the link underneath how to apply to work with Arena in your company How about that
+I want to I want to see that happening And by the way if youre watching this video 4 years from now I definitely Im going to link the leave the link underneath how to apply to work with Irina in her company How about that
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
 Well sounds good
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Okay thank you so much and um see you soon
+Okay thank you so much and see you soon
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
 Thank you

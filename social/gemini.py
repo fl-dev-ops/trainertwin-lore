@@ -14,6 +14,12 @@ import os
 import sys
 
 import httpx
+from tenacity import (
+    retry,
+    retry_if_exception_type,
+    stop_after_attempt,
+    wait_exponential,
+)
 
 OPENROUTER_BASE = "https://openrouter.ai/api/v1"
 OPENROUTER_FILES_BASE = "https://openrouter.ai/api/v1/files"
@@ -39,6 +45,19 @@ def get_ocr_credentials() -> tuple[str, str]:
     if gemini_key:
         return "google", gemini_key
     return "", ""
+
+
+@retry(
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=1, min=1, max=10),
+    retry=retry_if_exception_type((httpx.TimeoutException, httpx.NetworkError, httpx.HTTPStatusError)),
+    reraise=True,
+)
+def _post_with_retry(http: httpx.Client, url: str, **kwargs) -> httpx.Response:
+    resp = http.post(url, **kwargs)
+    if resp.status_code in (429, 500, 502, 503, 504):
+        resp.raise_for_status()
+    return resp
 
 
 def ocr_image_bytes(
@@ -76,7 +95,7 @@ def ocr_image_bytes(
         }
         http = client or httpx.Client(timeout=60.0)
         try:
-            resp = http.post(f"{OPENROUTER_BASE}/chat/completions", headers=headers, json=payload)
+            resp = _post_with_retry(http, f"{OPENROUTER_BASE}/chat/completions", headers=headers, json=payload)
             if resp.status_code == 200:
                 data = resp.json()
                 try:
@@ -113,7 +132,8 @@ def ocr_image_bytes(
         }
         http = client or httpx.Client(timeout=60.0)
         try:
-            resp = http.post(
+            resp = _post_with_retry(
+                http,
                 f"{GOOGLE_GENERATE_BASE}/{target_model}:generateContent",
                 headers={"x-goog-api-key": key, "Content-Type": "application/json"},
                 json=payload,

@@ -1,14 +1,15 @@
 ---
 id: 20RPqunLn4E
 title: Dubai Property Bubble Objection! Is this true or your client is ...
-url: https://www.youtube.com/shorts/20RPqunLn4E
 date: '2024-09-06'
-duration: 00:00:16
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/20RPqunLn4E
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Dubai is a bubble objection What is it Its a smoke screen
-
-
-It doesnt mean that we cannot handle it but we have to understand what is behind this actual objection what we are handling is it time is it money or is it value
+Dubai is a bubble objection What it is its a smokescreen Doesnt mean that we cannot handle it but we have to understand what is behind this actual objection what we are handling Is it time Is it money Or is it value

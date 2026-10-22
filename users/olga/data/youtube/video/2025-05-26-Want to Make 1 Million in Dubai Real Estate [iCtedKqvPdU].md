@@ -1,15 +1,16 @@
 ---
 id: iCtedKqvPdU
 title: Want to Make 1 Million in Dubai Real Estate?
-url: https://www.youtube.com/shorts/iCtedKqvPdU
 date: '2025-05-26'
-duration: 00:00:39
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/iCtedKqvPdU
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -17,21 +18,18 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-The streets laid with gold
+The streets are laid with gold Theres money shaking from trees
 
+### Speaker 2 · Speaker 2
 
-Theres many shaken from trees
+Oh do you want to give me your money You are building your business
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Oh do you want to give me your money but you are building your business
+from scratch
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-From scratch
-
-### Speaker 2
-
-And no one else is gonna do that for you not your sales manager not your company Just understand what is my money making activity for the day and how much time during my days I kind of put into this money making activity And if its one hour or two hours well you are in trouble If you are thinking about oh this leads a good or this leads a bad its just different type of human beings growth These ones the secondary market theyre already lower in the sales funnel theyre about to buy but the off one theyre just looking
+and no one else is going to do that for you not your sales manager not your company Just understand what is my money making activity through the day and how much time during my days I kind of put into this money making activity And if its 1 hour or 2 hours well you are in trouble If you are thinking about oh these leads are good or these leads are bad its just different type of human beings Correct Ones the secondary market theyre already lower in the sales funnel Theyre about to buy But the off plan theyre just looking

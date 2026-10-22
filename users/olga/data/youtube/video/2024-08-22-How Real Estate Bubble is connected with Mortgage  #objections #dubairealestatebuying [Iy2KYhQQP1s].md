@@ -1,14 +1,15 @@
 ---
 id: Iy2KYhQQP1s
 title: 'How Real Estate Bubble is connected with Mortgage? #objections #dubairealestatebuying'
-url: https://www.youtube.com/shorts/Iy2KYhQQP1s
 date: '2024-08-22'
-duration: 00:00:30
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/Iy2KYhQQP1s
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Im gonna call myself Im a bankrupt I dont want to I dont need these houses go away I cannot do anything I cannot resell them Im trying to resell them so those years of being with a different mortgage rate
-
-
-In 2008 most probably became a crucial critical mass for the market to be floated with the houses where people need to get out of this investment right are you with me on that
+Im going to call myself Im bankrupt I dont want to I dont need these houses Go away I cannot do anything I cannot resell them Im trying to resell them So those years of being with a different mortgage rate in 2008 most probably became a crucial critical mass for the market to be flooded with the houses where people need to get out of this investment Right Are you with me on that

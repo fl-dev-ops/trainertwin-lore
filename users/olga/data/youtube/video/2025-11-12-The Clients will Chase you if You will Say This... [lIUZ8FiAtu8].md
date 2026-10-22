@@ -1,14 +1,15 @@
 ---
 id: lIUZ8FiAtu8
 title: The Clients will Chase you if You will Say This...
-url: https://www.youtube.com/shorts/lIUZ8FiAtu8
 date: '2025-11-12'
-duration: 00:01:08
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/lIUZ8FiAtu8
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,12 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-How to move the client from the chatting on the whatsapp to a meeting in person a face to face in your mind you need this meeting but how to make him want that the biggest mistake that the agent are doing is that theyre telling i need a meeting i need to meet with you what you have to do is to create a gap in that mind of the client from where he is to where he wants to be the gap means that he doesnt have a certain knowledge or information you have to show it to him but you can
-
-
-not just tell him oh mr Klein you dont know this and you dont know this so thats why you have to go on the zoom with me thats not gonna work um how confident do you feel in terms of actually understanding the market statistic data for the past rental and sales performance for the three years so you can determine which areas actually make sense question mark how confident and then hes like hey uh uh well would that make sense for us to book a little bit more time together on the zoom where you can with your own eyes see
-
-
-what we use as a professional just to determine what is the best test would that be useful for you if you will see that with your own eyes
+How to move the client from the chatting on WhatsApp to a meeting in person face to face In your mind you need this meeting but how to make him want that The biggest mistake that the agents are doing is that theyre telling I need a meeting I need to meet with you What you have to do is to create a gap in the mind of the client from where he is to where he wants to be The gap means that he doesnt have a certain knowledge or information You have to show it to him but you cannot just tell him oh Mr Client You dont know this and you dont know this so thats why you have to go on the Zoom with me Thats not gonna work How confident do you feel in terms of actually understanding the market statistic data for the past rental and sales performance for the 3 years so you can determine which areas actually make sense Question mark How confident And then hes like eh ah ah Well would that make sense for us to book a little bit more time together on the Zoom where you can with your own eyes see what we use as a professional just to determine What is the best investment Would that be useful for you if you will see that with your own eyes

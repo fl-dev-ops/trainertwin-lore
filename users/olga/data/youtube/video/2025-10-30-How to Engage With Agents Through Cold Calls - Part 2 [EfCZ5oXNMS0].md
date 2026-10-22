@@ -1,17 +1,19 @@
 ---
 id: EfCZ5oXNMS0
 title: How to Engage With Agents Through Cold Calls - Part 2
-url: https://www.youtube.com/watch?v=EfCZ5oXNMS0
 date: '2025-10-30'
-duration: 00:34:33
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=EfCZ5oXNMS0
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 4
+speaker_count: 5
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  '1': Speaker 1
+  '2': Speaker 2
+  '3': Speaker 3
+  '4': Speaker 4
+  '5': Speaker 5
 ---
 
 
@@ -19,677 +21,446 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Moving to the next one alternative pattern interval I just put it as just like a random thing
+Moving to the next one alternative button interrupt I just put it as just like a random thing Thats actually I dont want to have a drama I dont want to worry about the drama its actually a sales call Or lets change it as an opportunity call Do you want to hang up now or you will need 30 seconds and then you decide should we continue this conversation or not Does this make sense So you can change it you can say instead of this drama thats actually a sales call So its a sales call And then you can say lets thats an opportunity call Do you want to hang up now or then you or you want to give me 30 seconds to tell you why Im calling and then you decide Kind of the same thing Thats a funny one And again guys I was like getting this out of top of my head Um its actually a cold call Um lets just remove this Its just kind of another way to get it Uh probably being a real estate agent do not like cold calling yourself that much But anyway I was hoping to tell you really quick why Im calling And then you decide should we continue this conversation or not Fair enough as an opportunity to say additional yes So if youre going to add fair enough your probability of getting okay is higher Yeah 3 different pattern interrupts in the end and then you decide should we continue this conversation or no Is all the same Now you can unmute yourself and tell me what do you think about these ideas Will that be helpful Will not be helpful Maybe you can give me some guidance how that can be changed based on your experience
 
+### Speaker 2 · Speaker 2
 
-Uh thats actually I dont want to have a drama I dont want to worry about the drama its actually a sales call
+Anyone I had more of a question Olga
 
-
-Or lets change it as an opportunity call Do you want to hang up now or you will meet 30 seconds and then you decide Should we continue this conversation or not
-
-
-Does this make sense So you can change it You can say instead of this drama thats actually a sales call
-
-
-And then you can say lets thats an opportunity call Do you want to hang up now And then you or you want to give me 30 seconds to tell you why Im calling And then you decide Kind of the same thing
-
-
-Thats a funny one And again guys I was like getting this out of top of my head Its actually a cold call
-
-
-Lets just remove this as just kind of another way to go at it Probably being a real estate agent do not like cold calling yourself that much But anyway I was hoping to tell you really quick why Im calling and then you decide should we continue this conversation or not Fair enough as an opportunity to say additional yes So if youre going to add fair enough your probability of getting okay is higher
-
-
-Three different pattern interrupts
-
-
-In the end and then you decide should we continue this conversation or no is all the same
-
-
-Now you can unmute yourself and tell me what do you think about these ideas
-
-
-Will that be helpful Will it not be helpful Maybe you can give me some guidance how that can be changed based on your experience
-
-
-Anyone
-
-### Speaker 2
-
-Add more for question Holga
-
-
-Uh what how would you respond to for example if the agent kind of is
-
-
-Like in a passive aggressive tone or something like saying call calling is illegal you know like hes hes not too happy with the call
-
-### Speaker 1
-
-Okay Hes not happy with the call Good question Yeah of course hes not happy
-
-
-Do you think if Im gonna do you think that Im gonna tell him he probably hates cold calling He will in that way with a tone which is playful hes gonna come on oh yeah cold calling is legal
-
-
-Do you think youre gonna say that
-
-
-But even if you will guys which another pattern interrupter which funny thing we can say
-
-
-to remove the sales resistance because if someone is saying anything with aggressive tone it just shows that he has worked towards me a sales resistance
-
-
-So its irrelevant to continue conversation if youre still gonna be resisting So what we can say
-
-
-Anything which is you know
-
-### Speaker 3
-
-I mean uh hi Olga uh yes yes so Olga if hes reaching out to an agent and hes saying that cold calling is illegal and stuff I mean we found his number on property finder or something so hes inviting you to contact him right
-
-### Speaker 1
-
-Potentially it doesnt matter his his number is out there
-
-### Speaker 3
-
-Yeah exactly so its not a cold call because he he wants people to be charmed
-
-### Speaker 1
-
-Its a cold call Its a cold call realistically So its not its not guys look its not about Im going to start proving that all normal you have your number on the property finder Thats why Im calling Its not like boxing Its just not he its not about logic
-
-
-But he is giving you the indication Im resisting to what youre saying I dont like you right Thats what hes giving you the message So how we can change that Hes an agent guys Have he ever done a cold calls in his life himself
-
-### Speaker 3
-
-Definitely yes
-
-### Speaker 1
-
-Yeah does he know the pain of the cold call
-
-### Speaker 3
+### Speaker 1 · Speaker 1
 
 Yes
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-Okay so how we can use it which which
+Uh what how would you respond to for example if the agent kind of is uh like in a passive aggressive tone or something like saying cold calling is illegal you know like hes hes not too happy with the call
 
+### Speaker 1 · Speaker 1
 
-which pattern interrupt which phrase we can say backwards which gonna make it like lighthearted joke conversational agreeing with him yeah well
+Good question Yeah of course hes not happy Do you think if Im gonna um do you think Im gonna tell him he probably hates cold calling he will in that way with a tone which is playful he gonna come on oh yeah cold calling is legal Do you think youre gonna say that No But even if he will guys which another pattern interrupt which funny thing we can say To remove the sales resistance because if someone is saying anything with aggressive tone it just shows that he has what towards me Sales resistance Sales resistance So its irrelevant uh to continue conversation if hes still going to be resisting So what we can say Anything which is you know
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-You know how it is in the business
+I mean uh hi Olga Uh
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Give me a right on
+yes
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Hey man you know how it is in the business right I mean you got to do what you got to do
+yes So Olga if hes reaching out to an agent and hes saying that cold calling is illegal and stuff I mean we found his number on Property Finder or something so hes inviting you to contact him right
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Something like this but hell give me one more time at that objection that you said
+Potentially It doesnt matter His his number is out there
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Into what
+Yeah exactly So its not a cold call because he wants people to reach out
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Uh no Rahil give me the objection not you uh
+Its a cold call realistically So its not guys look its not about Im going to start proving that oh no but you have your number on the property finder thats why Im calling Its not like boxing Its not about logic But he is giving you the indication Im resisting to what youre saying I dont like you right Thats what hes giving you the message So how we can change that Hes an agent guys Have he ever done cold calls in his life himself
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Oh okay okay okay
+Definitely yes
 
-### Speaker 1
+### Speaker 1 · Speaker 1
+
+Yeah Does he know the pain of the cold call
+
+### Speaker 3 · Speaker 3
+
+Yes
+
+### Speaker 1 · Speaker 1
+
+Okay so how we can use it Which which which pattern interrupt which phrase we can say backwards which gonna make it like lightheaded joke conversational agreeing with him Yeah well
+
+### Speaker 3 · Speaker 3
+
+you know how it is in the business
+
+### Speaker 1 · Speaker 1
+
+Give me a right tone
+
+### Speaker 3 · Speaker 3
+
+Uh hey man you know how it is in the business right I mean you got to do what you got to do
+
+### Speaker 1 · Speaker 1
+
+Yeah something like this But hell give me one more time at that objection that you said
+
+### Speaker 3 · Speaker 3
+
+In the what
+
+### Speaker 1 · Speaker 1
+
+Uh no Raheel give me the objection not you Uh okay
+
+### Speaker 3 · Speaker 3
+
+okay okay
+
+### Speaker 1 · Speaker 1
 
 Yeah give me the objection that you said
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Like in a what like in a role play game
+like in a what like in a role play
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-No give me you you are we are role playing give it to me give it to me however the agent will say
+Give me you you are we are role playing Give it to me give it How would the agent will say
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Uh hey Olga by the way you do know that cold calling is illegal in Dubai now right so I dont really appreciate being called out of the blue
+Uh hey Olga by the way you do know that cold calling is illegal in Dubai now right So I dont really appreciate being called out of the blue
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Well I know that more than anyone else because Im actually 10 years in real estate But would that be fair to say that probably the highest earnings the highest commission weve ever generated through a cold call Would that be fair to say as well Is it No
+Well Like I know that more than anyone else because Im actually 10 years in real estate But would that be fair to say that probably the the highest earnings the highest commission been ever generated through a cold call Would that be fair to say as well Is it No
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Yeah its fair
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So what Im talking about a result of the cold call which is positive He knows that I know that he knows I know that I know that he feels that he probably is afraid of cold calls
+Thats it So what Im talking about a result of the cold call which is positive he knows that I know that he knows I know that I know that he feels that he probably is afraid of cold calls Yeah I can say something like this like well uh Raquel like to be brutally honest with you I probably hate doing the cold calls even more than you hate receiving them But will the opportunity arise in front of you if youre not gonna do that Probably not So will you allow me really quick tell you why I was calling And then if thats not for you thats fine We can move on maybe become partners in a business maybe were gonna make a lot of money maybe not Its a fair thing to say Yeah what youre saying its a fair thing to say But the only reason that I will be able to overcome whatever you are saying me is just when I believe that I am still able to deliver some value to you Is it the right thing to say for the agent Im not interested I dont want to go Yeah of course it is But it doesnt mean that he and Im sure that he will make money selling the project that I have in One Broker Group Is it 100 percent guarantees Of course not Is it possible Yes it is Its in ideal world everyone is going to be so happy to have a call from us Unfortunately this ideal world doesnt exist Give me some more objections Give me the things that you feel youre not able to break through And maybe some things its just not need to break through because thats just if youre going to tell me Olga the agent has told me he doesnt work in real estate anymore so what should I say I was like well hes not the lead Youre looking for the leads Hes not the lead anymore Thats it Just leave him Call to another number Give me some more objection guys What do you think youre going to be What you already had couldnt overcome or what do you think you will be facing with Yes Ajit
 
+### Speaker 4 · Speaker 4
 
-I can say something like this like well uh to be brutally honest with you I probably hate doing the cold calls even more than you hate receiving them
+So I had this very very rude call yesterday from an agent So it was from the list that Eugene uh subscribed to us And uh I called I called him up And so I was like hi is this so and so And uh um I said exactly the same I was like are you still in real estate And thats all I asked him I was like are you still in real estate And then uh he was like uh what is this about Uh he was like Im traveling right now Then I was like okay um is there another time I can call you on Do you have a few Maybe a few seconds that I can just tell you about why Im calling Hes like I just told you that Im traveling right now and youre still continuing to do the cold call Dont ever call me again Who gave you my number Blah blah blah blah He was going on and they cut the line off
 
-
-Will the opportunity arise in front of you if youre not gonna do that Probably not
-
-
-Will you allow me really quick tell you why I was calling And then if thats not for you thats fine We can move on Maybe become a partner in a business Maybe were gonna make a lot of money maybe not Its a fair thing to say Yeah but what youre saying its a fair thing to say But the only reason that I will be able to overcome whatever you are saying me
-
-
-Its just when I believe that I am still able to deliver some value to you Is it the right thing to say for the agent Im not interested I dont want to go Yeah of course it is But it doesnt mean that he and Im sure that he will make money selling the project that I have in one broker group Is it 100 percent guarantees Of course not But is it possible Yes it is
-
-
-Its in ideal world everyone is gonna be so happy to have a call from us Unfortunately this ideal world doesnt exist Give me some more objections give me the things that you feel youre not able to
-
-
-breakthrough and maybe some things its just not need to break through because thats just if youre gonna tell me all that the agent has told me he doesnt work in real estate anymore so what should I say I was like well hes not a lead youre looking for the leads hes not a lead anymore thats it just leave him all to another number
-
-
-Give me some more objection guys What do you think youre gonna be what you already had couldnt overcome or what do you think you will be facing with
-
-
-Yes it is
-
-### Speaker 4
-
-So I had this very very rude call yesterday from an agent So it was from the list that Eugene subscribed to us And I called him up and so I was like how is this so and so And I said exactly the same I was like are you still in real estate And thats all I asked him I was like are you still in real estate And then he was like what is this about He was like Im traveling
-
-
-right no then i was like okay um is there another time i can call you on do you have a few uh maybe a few seconds that i can just tell you about why im calling hes like i just told you that im traveling right now and youre still continuing to
-
-### Speaker 3
-
-the code
-
-### Speaker 4
-
-call dont ever call me again who gave you my number blah blah blah blah he was going on an
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Okay so why do you think he was like this
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
 Maybe he fought at home with his wife
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Or maybe he was paying for roaming which is in his mind is very expensive
+or maybe he was paying for roaming which is his mind is very expensive
 
-### Speaker 2
+### Speaker 4 · Speaker 4
 
-Yeah to that
+Yeah true that
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Well well thats probably a reason So its not about like guys youre gonna have angry people because you dont know in the moment that he maybe lost five deals just five minutes ago and now you call college Everyones gonna be in trouble
+Well well thats probably a reason So its not about like guys youre gonna youre gonna have angry people because you dont know the moment that he maybe lost 5 deals just 5 minutes ago and now youre cold calling Everyones gonna be in trouble Yeah I would say if the person is outside and hes telling you uh well I am away When are you coming back to Dubai Thats the only question I would ask because I know realistically hes away hes paying for roaming The only reason he picked up
 
+### Speaker 4 · Speaker 4
 
-Yeah I would say if the person is outside and hes telling you I am away when are you coming back to Dubai Thats the only question I would ask Because I know
+No no no no no no let me correct it He was in Dubai but he was traveling So thats what I asked him What is traveling Yeah he was basically he was driving on the road
 
-
-Realistically
-
-
-Hes away hes paying for roaming the only reason he
-
-### Speaker 4
-
-No no no hes I dont know let me correct it he was in Dubai but he was travelling so thats why I asked him what is travelling
-
-### Speaker 1
-
-Traveling
-
-### Speaker 4
-
-Yeah he was basically he was driving on the road
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 How do you understand that he was driving
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
 Thats what he told me
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Traveling is not driving
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Maybe okay possibly maybe not maybe driving or maybe on a metro I dont know but he said he was on the road
+Maybe Okay possibly Maybe not Maybe driving or maybe on a metro I dont know but he said he was on the road
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yeah but again guys I dont know for me traveling is like well Im traveling outside
+Yeah but again guys I dont know For me traveling is like well Im traveling Im outside So thats it Im getting annoyed when Im having um some I dont know UAE numbers calling me when Im outside and then Im picking up and thats just like a dude Oh we want to give you this Well I would not be that the same annoyed if I will pick up the call from here but now I know I have to pay 2 dirhams for a stupid call from Duke I dont want to do that Will you run into that Yes Can you overcome that No Thats it Thats something that is just just going to be happening It doesnt mean that you dont have to call him maybe in 2 weeks Hopefully hell be back Thats it Do you want to role play Who wants to role play Someone going to be an agent someone going to be an agent from OBG someone going to be an agent from outside and were going to role play different situations Yeah Do do you do you want a script Do you want this script Do you want this script
 
-
-So thats it Im getting annoyed when Im having some I dont know UAE numbers calling me when Im outside and then Im picking up and thats just like a do Oh we want to give you this Well I would not be that the same annoyed if I will pick up the call from here but now I know I have to pay two dirhams for a stupid call from do I dont want to do that
-
-
-Will you run into that yes Can you overcome that no
-
-
-Thats it Thats something that is just just gonna be happening
-
-
-It doesnt mean that you dont have to call him maybe in two weeks Hopefully hell be back
-
-
-Thats it Do you want to role play Who wants to role play
-
-
-Someones gonna be an agent someones gonna be a agent from OBG someones gonna be an agent from outside and were gonna role play different situations Yeah
-
-
-Do you do you do you want a script do you want this script do you want this script
-
-### Speaker 4
+### Speaker 4 · Speaker 4
 
 Ill do the first one
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Uh you want the the cold calling uh button interrupts
+You want the cold calling button interrupts Yeah Okay Who Rahil will you be an agent from outside Yeah sure Yeah Atiq will be the OBG agent Lets go ahead
 
+### Speaker 4 · Speaker 4
 
-Okay who uh are you will you be an agent from outside I think Ill be there
+Hi is this Rahil
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Yeah yeah sure
+Hi yes speaking Who is this
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-Yeah I think well be the OBG agent lets go ahead
+Um well I wish I could tell you that I was a client who wants to invest about 10 million dirhams but unfortunately that would be a bit of an overstatement Would you give me a quick 30 seconds to explain why Im calling
 
-### Speaker 4
-
-Uh hi is this Rael
-
-### Speaker 2
-
-Hi yes speaking who is this
-
-### Speaker 4
-
-Well I wish I could tell you that I was a client who is wanting to invest about a 10 million grams but unfortunately that would be a bit of an overstatement would you give me a quick 30 seconds to explain why Im calling
-
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Uh yeah sure
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Fantastic
+Fantastic So is that good
 
+### Speaker 1 · Speaker 1
 
-So is that good
+Yeah fantastic I love it Keep explaining Lets go forward
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-Yeah fantastic I love it Keep explaining lets go forward
+Okay Um so Rahil Im here uh with regards to uh some of the projects that we are offering here in the market on behalf of OBG Okay So um uh are you are you familiar with what OBG is Are you have you worked have you heard about uh One Broker Group
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-So Rahel Im here with regards to some of the projects that were offering here in the market on behalf of OBG So are you familiar with what OBG is Have you heard about One Broker Group
+Yeah I actually used to work with an agent from OBG but I havent really been in touch with them for a while now
 
-### Speaker 2
+### Speaker 4 · Speaker 4
 
-Yeah I actually used to work with an agent from OBG but I havent really been in touch with him for a while now
+No problem Um Id be glad to help Uh look Rahul the fact of the matter is with OBG we have a lot of exclusive projects uh ranging from all over from all the locations here in Dubai and in Marjan Islands as well We have different payments different price points different options available in the market Do you think perhaps you may have clients who might be interested that youd like to perhaps work with us
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-No problem Id be glad to help Look Rahel the fact of the matter is with OBG we have a lot of exclusive projects ranging from all over from all the locations here in Dubai and in Marjan Islands as well We have different payments different price points different options available in the market Do you think perhaps you may have clients who might be interested that youd like to perhaps work with us
+Potentially Athiq but what I would want to know is what makes OBG different to the other companies who are also calling me up offering me similar kind of opportunities
 
-### Speaker 2
+### Speaker 4 · Speaker 4
 
-Uh potentially I think but what I would want to know is what makes OBG different to the other companies who are also calling me up offering me similar kind of opportunities
+Well Im glad you asked that Rahul Uh fact of the matter is OBG is known to be a master broker Its uh thats a competitive advantage that we have And uh what I mean by a master broker is we um have exclusive projects in the market where only we can sell So we partner with agents like yourself um to pitch it to your clients and we offer the commission payouts just as in what a developer would do Like for an example like what Emaar Damac and Nakheel would do So we offer commissions to our agents We work with our agents very closely And this is what OBG offers and this is what OBG is different compared to the rest of the other agencies in the market And I believe you just told me that you were working with an agent previously Is that correct
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-Well Im glad you asked that Rael Fact of the matter is OBG is known to be a master broker Thats a competitive advantage that we have And what I mean by a master broker is we have exclusive projects in the market where only weekend sales So we partner with agents like yourself to pitch it to your clients and we offer the commission payouts just as in what a developer would do like for an example like what Emma
+Yeah Previously
 
-
-So we offer uh commissions to our agents we work with our agents very closely and uh uh this is what OBG offers and this is whats OBG is different compared to the rest of the other agencies in the market and I believe you just told me that you were working with an agent previously is that correct
-
-### Speaker 2
-
-Yeah previously
-
-### Speaker 4
+### Speaker 4 · Speaker 4
 
 Okay can I know that have you closed any deals with this agent before
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Uh no I havent actually
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Okay so then that speaks about the fact that maybe this particular agent has not briefed you with the current projects in the market What I would like to offer here is Rahil the fact of the matter is there is obviously you know through a call its not gonna be
+Okay so then that speaks about a fact that maybe this particular agent has not briefed you with the current projects in the market Uh what I would like to offer here is Rahil the fact of the matter is there is um obviously you know through a cold Um its not gonna be um uh practical for me to explain all the projects that we have Okay what I would recommend you is perhaps maybe at another free time when its convenient for you maybe we can get on a Zoom call or Id like to invite you over here to our office where I can give you a briefing on the projects that we have And uh specifically what we are focusing on is Al Marjan Islands Okay Uh have you sold anything in Al Marjan
 
-
-practical for me to explain all the projects that we have Okay what I would recommend you is perhaps maybe at another free time when its convenient for you maybe we can get on a Zoom call or Id like to invite you over here to our office where I can give you a briefing on the projects that we have And specifically what we are focusing on is Almarjan Islands Have you sold anything in Almarjan
-
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Uh no I havent actually
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Okay Well my friend let me tell you something If you are not selling in Al Majran youre losing out a lot of money my friend Its literally like your client having an opportunity to invest next to the Burj Khalifa 20 years ago Would you not want to give that opportunity to your client to make money Meanwhile you make money as well
+Okay well my friend let me tell you something If you are not selling in Al Marjan youre losing out a lot of money my friend Its literally like your client having an opportunity to invest next to the Burj Khalifa 20 years ago Would you not want to give that opportunity to your client to make money Meanwhile you make money as well
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Absolutely
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Well would you believe if I tell you in Dubai an off plan property can maximum give you an ROI of 8 percent to 9 percent if youre lucky Would you believe if I tell you that Marjan Islands is perhaps the only project that I can think of not only in Dubai not only in the UAE I would say in the whole world that can give you an ROI of 25 percent or more
+Well would you believe if I tell you in Dubai an off plan property can maximum give you an ROI of 8 to 9 percent if youre lucky Would you believe if I tell you that Marjan Islands is perhaps the only project that I can think of not only in Dubai not only in the UAE I would say in the whole world that can give you an ROI of 25 percent or more So
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Yeah that sounds impressive yeah
+yeah that sounds impressive Yeah
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Oh shit
+yeah I know sometimes it can sound like a scam my friend but uh every single uh point that what I will be uh showing to you during our briefing is all gonna be backed with stats from the Russell Khaimah Land Department um from the uh Al Marjan authorities um and this is the reason why Im gonna show you it is very practical it is very possible And this is the reason that Id say that its best if we can arrange a briefing then I can explain to you how these numbers are possible
 
+### Speaker 2 · Speaker 2
 
-Yeah I know sometimes it can sound like a scam my friend but every single point that what I will be showing to you during our briefing is all gonna be backed with stats from the Russell High Malan department from the Almerjan authorities And this is the reason why Im gonna show you it is very practical it is very possible And this is the reason that Id say that its best if we can arrange
+That sounds good Athiq but Im just worried that I might be stepping on the other agent who I was in touch in the past like on his toes Like so I dont want there to be any like you know drama or conflict of interest So how would we approach that
 
+### Speaker 4 · Speaker 4
 
-A briefing then I can explain to you how these numbers are possible
+Well Im glad you brought up that question here Rahil The fact of the matter here is Youre always free to work with whichever agent you want to but the fact of the matter what I do with my clients with my um partners that I work with is I do not just be a relationship manager to them What I do with my agents the difference that I bring to the table is I train my agents How you have to speak to your client Do you think that would bring some benefit as far as maybe comparing the difference with you maybe bring a value addition to yourself
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-That sounds good I think but Im just worried that I might be stepping on the other agent who I was in touch in the past like on his toes like so I dont want there to be any like you know drama or conflict of interest So how would we approach that
+Sure
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Well Im glad you brought up that question here Rahel The fact of the matter here is youre always free to work with whichever agent you want to But the fact of the matter what I do with my clients with my partners that I work with is I do not just be a relationship manager to them What I do with my agents the difference that I bring to the table is I train my agents
+As an agent compared to maybe another agent because Im sure if that agent had already briefed you wed not be having this conversation right now Is that correct
 
+### Speaker 2 · Speaker 2
 
-how you have to speak to your client do you think that would bring some benefit as far as maybe comparing the difference with you maybe bring a value addition to yourself sure as an agent compared to maybe another agent because im sure if that agent had already briefed you wed not be having you this conversation right now is that correct
+Correct Yeah
 
+### Speaker 4 · Speaker 4
 
-Okay fantastic So my point here is Rahil what the difference what I would like to state here is before you sell a property before you sell a particular project I believe firstly understanding the location
+Okay fantastic So my point here is uh Rahil um what the difference what I would like to state here is before you sell a property before you sell a particular project I believe firstly understanding the location
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-I think its amazing like look youre doing a great job
+I think its amazing Like look youre doing a great job Lets shorten it up Take him hes ready Youre overcooking him Book a meeting Thats it Book a meeting right now right Just be direct Youre already doing a good job Sometimes youre like over over like hes good
 
+### Speaker 4 · Speaker 4
 
-Lets shorten it up Take him Hes ready Youre overcooking him Book a meeting Thats it Book a meeting right now right Just be direct Youre already doing a good job Sometimes youre like over over Hes good You feel it
+You feel it right So Rahil okay lets lets take things forward Um I dont want to waste too much of your time When are you available for maybe a Zoom call Is there a time on your calendar that uh sounds good to you
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-Okay so Rahil um so Rahil okay lets lets take things forward Um I dont want to waste too much of your time When are you available for maybe a zoom call Is there a time on your calendar that uh sounds good to you
+I might be free next week Um if you could shoot me a message with some convenient times that youre available I can have a look and select
 
-### Speaker 2
+### Speaker 4 · Speaker 4
 
-I might be free next week um if you could shoot me a message with some uh convenient times that youre available I can have a look and select a time
+Absolutely my friend Id love to give you a time next week but unfortunately the fact of the matter here is Rahil I dont want to I dont want you to miss out on making money here because the fact of the matter is this project is already 80 percent sold out So by next week we can literally be gone So I want you to be I want you to wave the ride So Id rather request is there any possibility maybe we can schedule a meeting maybe within the next uh day or 2
 
-### Speaker 4
-
-Absolutely my friend Id love to give you a time next week but unfortunately the fact of the matter here is Rahel I dont want to I dont want you to miss out on making money here because the fact of the matter is this this project is already 80 percent sold out So by next week we can literally be gone So I want you to be I want you to wave the ride So Id rather request is there any possibility maybe we can schedule a meeting maybe within the next day or two
-
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Um yeah sure why not
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Okay how about lets say we fix uh what is a convenient time to tell me to a time tomorrow or today or tomorrow
+Okay how about lets say we fix uh what is your convenient time Tell me tomorrow a time tomorrow or today or tomorrow
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-So Ill wait till tomorrow
+Tomorrow 12
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Uh 12 Ive got a meeting buddy can we do one PM
+Uh 12 Ive got a meeting buddy Can we do 1 PM
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Uh sure
 
-### Speaker 4
+### Speaker 4 · Speaker 4
 
-Done very well Ill see you tomorrow Ill be sharing the link with you soon
+Done buddy So Ill see you tomorrow Ill be sharing the link with you shortly
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Perfect Perfect Thank you Atik Lovely I am sure everyone learned a lot about
+Perfect Perfect Thank you Atiq
 
+### Speaker 4 · Speaker 4
 
-the Russell Heymer about which benefit you could help him with Okay and who is ready now to give a constructive feedback First of all the constructive feedback is what I think did great and what could he potentially improve Yeah who is there to critique What do you think
+Thank you
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-No I think uh I think was very clear the starting of the call was very interesting that even I didnt think of I mean the
+Lovely I am sure everyone learned a lot about Russell Hema about which benefit you could help him with Okay and who is ready now to give constructive feedback First of all the constructive feedback is what Atiq did great and what could he potentially improve Yeah who is who is there to Kshitij what do you think
 
-### Speaker 1
+### Speaker 5 · Speaker 5
 
-Thats from the old calling script we just yeah we just did it
+No I think um Atiq was very clear The starting of the call was very interesting that even I didnt think of I mean the moment
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Yeah but still but the way of doing it sometimes we just read it but were actually doing it thats kind of a difference but thats still fine But yeah only thing was like it was a longer bit I mean I felt that the broker got convinced but I mean when you think youre convinced you cannot like keep extending it You just have to like immediately you think once hes okay then you just like send him a Zoom call thats it Because if you keep over explaining him then it might be an issue He maybe changed his mind
+Thats from the cold calling script We just
 
+### Speaker 5 · Speaker 5
 
-But he was on point like most of the things he said about Russell came and telling him clearly that the things are going like the things to get selling out So that convinced me even more So I think the call was fine
+Yeah but still its the way of doing it Sometimes we just read it but were actually doing it Thats kind of a difference But that was still fine But yeah only thing was like it was a longer bit I mean I felt that the broker got convinced but I mean when you think youre convinced you cannot like keep extending it You just have to like immediately think once hes okay then you just like send him a Zoom call Thats it Because if you keep overexplaining him then it might be an issue He maybe changes his mind But he was on point Like most of the things he said about Russell came and Telling him clearly that you know things are going like the things that get selling out So that will convince him even more So I think the call was fine
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Perfect Yeah No Yeah Well I like the yeah Im going to give you feedback I like the flow I like that you had a smile when youre talking So that immediately brings the conversation into more relaxed atmosphere You use the pattern interrupt very fluently It just took you like boom you got it And you go through that Guys you can create your own pattern interrupt Just follow the structure that it should
+Perfect
 
+### Speaker 5 · Speaker 5
 
-be with the question in the end What I can
+Yeah
 
+### Speaker 1 · Speaker 1
 
-you know youre already like 80 percent like 85 right What could done on the like on the little bit more advanced level and youre getting there is sometimes instead of saying
+No Yeah Well I like that Yeah Im going to give you feedback I like the flow I like that you had a smile when youre talking So that immediately brings the conversation into more relaxed Atmosphere You use the pattern interrupt very fluently It just took you like boom you got it and you go through that Um guys you can create your own pattern interrupt Just follow the structure that it should be with the question in the end Uh what I can you know youre already like 80 percent like 85 percent right What could done on the like on the little bit more advanced level and youre getting there is sometimes instead of saying um um all the agents Obinna Obiji he probably havent told you uh how to close or what Im doing differently Im telling to my agents on this and that blah blah blah So it was still maybe somehow felt that my colleague is bad right Which can create a little bit like well you know hes saying bad things about his colleague but its just not really nice We can say the same thing but on a different level Ajit let me finish and I will share with you Its like for sure I appreciate the way youre dealing with that client Have you actually um have you actually got uh like a coaching from him on how to close And was he um really participating in the conversation with your clients Have you felt like hes delivering value in helping you to close Yeah So I am not telling that this guy was not good in closing helping Who is telling this to himself Achille right So Im not the one who is saying that other agent is bad Achille is saying oh well actually he havent done that Okay that like what I do is a little bit different And then you can say oh I do this and I do that So he before you are saying that how great you are make him feel that he is lacking something he is missing something that something was not done yet for him Right okay Yeah sorry I interrupted you Tell me
 
+### Speaker 4 · Speaker 4
 
-um all the agents of Bino BG he probably havent told you uh or how to close or what Im doing differently Im telling to my agents on this and that the blah blah blah so it was still maybe some somehow felt that my colleague is bad right which can create a little bit like uh well you know hes saying that bad things about his colleague but its just not really nice
+Um no just I wanted to clarify The fact is um obviously you know we never want to put our colleagues down Um the fact of the matter is uh Olga uh what I usually do is I actually ask them if the agent has been active with them and if they say they do I ask them okay uh if thats the case obviously like you know OBG we have different teams Okay so we specialize in different projects For an example um obviously you ask me about um Al Marjan Islands you know we are trained in Al Marjan Like you know we know we know Art House and Al Marjan like the back of our hands because we are trained in this project Okay but if you ask me about DoubleTree by Hilton um you know Im not an expert in that Okay so if Im talking to a client about a particular project What I have to explain to him is that OBJ is a big company We have different teams specializing in different events and this is what we specialize on and Id be able to assist You know we put that point across
 
+### Speaker 1 · Speaker 1
 
-We can we can say the same thing but on a different level Let me let me finish I will share For sure I appreciate the way youre dealing with with that client Have he actually have you actually got like a coaching from him on how to close and was he really participating in the conversation with your clients Have you felt like hes delivering value in helping you to close
+Okay perfect Beautiful However guys now when we are all going to be focusing on B2B its great for us to be a specialist in all of the projects as well Yeah So lets learn a little bit more about other projects Yes Rahil tell me
 
+### Speaker 2 · Speaker 2
 
-Yeah so I am not telling that this guy was not good in closing helping Who is telling this to himself Rahil Right So Im not the one who is saying that other agent is bad Rahil is saying oh well actually he havent done that Okay thats like what I do is a little bit different And then you can say oh I do this and I do that So he before you are saying that how great you are make him feel that he is lacking something
+I just had a question on the role play we did What would have I think whats the best answer for him to have said if I told him that the other agent told me the exact same thing as you Like he just said to me
 
+### Speaker 1 · Speaker 1
 
-thing he is missing something that something was not done yet for him right okay yeah sorry i interrupted you tell me
+Do you want to role play that Role play
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-Um you know just I wanted to clarify the fact is um obviously you know we never want to put our colleagues down
+Yeah I think youre gonna go
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-fact of the matter is uh olga uh what i usually do is i actually ask them if the agent has been active with them and if they say they do i ask
+Im gonna be Im gonna be saying Look um Rahil Im the way I the way I deal with agents I actually train them on how to sell a specific project like which type of speech or which type of conversation they uh should have with the clients and which questions they should ask the client so the client will see um this is the best possible option for him
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-them okay uh if thats the case obviously like you know obg we have different teams okay so we specialize in different projects for an example um obviously you ask me about um uh al marjan islands you know we are trained in al marjan like you know we know we know art house and al marjan like the back of our hands because we are trained in this project okay but if you ask me about double tree by hilton um you know im not an expert in that okay so if im talking to a client about a particular
+Uh to be honest Olga that sounds great but its the same Im hearing the same thing basically that the last agent told me as well
 
-
-project what i have to explain to him is that obg is a big company we have different teams specializing in different events and this is what we specialize on and id be able to assist you know we put that point across
-
-### Speaker 1
-
-Okay perfect beautiful However guys now when we are all gonna be focusing on B2B its great for us to be a specialist in all of the projects as well Yeah so lets learn a little bit more about other projects Yes Rahil tell me
-
-### Speaker 2
-
-I just had a question on the the role play we did all about what would have Arthik whats the best answer for him to have said if I told him that the other agent told me the exact same thing as you
-
-
-He just said to me
-
-### Speaker 1
-
-Do you want to role play that
-
-
-The role player
-
-### Speaker 2
-
-Yeah I think you know what I mean
-
-### Speaker 1
-
-Im gonna be Im gonna be say look um Rahil Im the way I the way I deal with the agents I actually train them on how to sell a specific project like which type of speech which type of conversation they should have with the clients and which question they should ask the client so the client will see this is the best possible option for him
-
-### Speaker 2
-
-To be honest Olga that sounds great but its the same Im hearing the same thing basically that the last agent told me as well
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Yeah yeah well and was he going ahead with explaining and telling you and helping you in the way that he told you he will
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Oh yeah he did
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-And then what happens
+Um and then what happened
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-We kind of just lost touch to be honest and
+We kind of just lost touch to be honest And
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Really why
+really why
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-He didnt follow up with me
+Um he didnt follow up with me
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So do you think it would be kind of useful if he will be kind of on top of that a little bit more
+Hmm So do you think it would be kind of useful if he will be kind of on top of that a little bit more
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 Yeah definitely
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-That you see what I did Im still looking for the same thing Im still looking for the gap I never said that the agent was not good or
+You see what I did Im still looking for the same thing Im still looking for the gap I never said that the agent was not good or whatever If he if he will Rahil if he I could I could play it in a different game Like look thats Thats how it is Thats how we train in One Broker Group Yeah were really on top of our I would say our agents in our team right Were helping them to really close the deal But youve been working with the other agent Just for me to understand are you kind of you know 100 percent satisfied with I dont know the response rate or information he was giving you or how he was performing with you on a Zoom call with a client Or maybe would you change something if you could The same question Now with this question Im directing Ahil to think of what he would change and he will find the things he will change He will find hell say uh well he was he couldnt actually tell me more about that project and that I dont care the outcome What he will tell me is irrelevant What Im digging with my question is the The gap the bigger the gap between where this agent is now in their relationship understanding of OBJ project ability to sell to where he wants to be So Im now the one who helps him to bridge the gap to close it Thats it But he has to talk about the gap Yeah Was that useful Yeah thank you
 
+### Speaker 2 · Speaker 2
 
-if he if he will here if he i could i could play it in a different game look thats thats how it is thats how we train in one worker group yeah were really on top of uh um our um i would say our agents in our team right were helping them to really close the deal uh but youve been working with the other agent um just for me to understand are you kind of um you know i 100 satisfied with um i dont know the response rate
+Thank you Olga Yeah definitely
 
+### Speaker 1 · Speaker 1
 
-he was giving you or how he was performing with you on a Zoom call with a client or maybe would you change something if you could
+guys And if lets imagine and if the agent gonna tell you no Im actually like thats my boyfriend working in OPG he is eating and breathing with me I know everything about OPG project hes the best that just means that this lead is not your client Its a cold call guys You got me You cannot you cannot switch it You Right You cannot do that I will say another funny way like look I do believe that relationship should be connected well and all of that you know professional personal level Um in just in case if your boyfriend will ever be over busy or I dont want you you know maybe you will change your mind and you you know youre going to choose another man in your life Would that be useful for us still to stay in touch Yeah So if you will change your manager would you you will potentially go to the same guy for the OBG project I dont know maybe maybe not Would that be a possibility Anyway guys uh whats the best thing with the cold calling to the agents is that you can have fun You can be more human right Theyre not youre kind of on the same level Theyre not your clients you know Youre not their puppy Theyre the same client uh the the the same as you So come into this call with energy Youre Im the same as me Youre the same as me Im the same as you I know your problems I know uh uh how annoying the clients are I Im here to help you to handle it Cool Yeah makes sense Perfect Thank you Itik one more time for this amazing master session Yeah so guys lets lets smash these calls and lets next Tuesday come with certain outcomes certain roadblocks which you will have for sure when youre going to do these 100 calls Okay and then we on this side will be able to change shift maybe look for another databases of agents or maybe create different events so we can invite the agents rather than just pitching uh me coming to the office or me going on Zoom or me coming like you got me We will change the approaches if you will give us more information Yeah Okay perfect Then I am off and were gonna share this call recording as usual in the group Thank you guys Any questions Mariani is here as well Im here Cool See you on Tuesday
 
+### Speaker 2 · Speaker 2
 
-The same question now with this question Im directing a hill to think of what he would change and he will find the things he will change he will find he will say uh well he was he couldnt actually tell me more about that that project and that
+Oh Olga I had a quick question Sorry Yes just about the whole shifting to the B2B model So does that mean were not going to get any leads anymore like like direct ones
 
+### Speaker 1 · Speaker 1
 
-I dont care that the outcome what he will tell me is irrelevant what I am digging with my question is the
+Youre going to have way less leads The way were going to distribute it its Its still not clear but I believe that its more practical to have a dedicated B2C team who will be properly trained on how to do the online meetings how to pitch to their direct clients So the effectiveness of the marketing budget spent will be way higher rather than someone who is already running between B2C and B2B might be with the client might be you know with the agency I see the model again thats just my point of view is that we should have a dedicated team for the B2C clients and those teams will have a little bit stricter rules in terms of where they should be how they should be available So thats going to be a duty day right There is a duty day where you have to be the same as Frontline salespeople they have a day when they are on the shift So that means that you have to be on the shift you have to be available you have to sit in the office next to the camera just in case youre gonna get dropped a lead who wants to have a video call now And you have to be trained on all of the projects of One Broker Group and additional competitors because we can sell anything and we have to leverage that model Because what Ive seen again going through the call recordings is that the agent havent done any qualification The client briefly said that well I have 600000 dirhams and then the agent start pitching JW Marriott just because he knows the JW Marriott better than any other project But the client is on the you know hes on the Zoom hes kind of entertaining this conversation but hes just entertaining as Okay will I be interested to walk through the video of 50 billion penthouse Yeah Does that mean that Im a potential buyer No So both are wasting time And this was the lead He might up his budget he might be sold something not with OPG even with a different developer If someone for example Nora Residences We know about 3 4 other competitors If whatever reason the payment plan for him has to be with the Posta and Nova I know Im a specialist in all of the projects of OBJ and all of the projects that can be sold rather than OBJ So its more like an off plan agent overall guys you understand If you will go to any real estate agency and they have off plan team the off plan team is not only specialized in 5 projects The off plan team uh kind of should know all of the off plan projects and be able to sell that So these are guys who are coming to you they have um kind of a foundational knowledge about different projects but they are coming to you when you are dealing with them as a B2B type of client when they need more knowledge about the project Make sense
 
+### Speaker 2 · Speaker 2
 
-The gap the bigger the gap between where this agent is now in a relationship understanding of OBG project ability to sell to where he wants to be So Im now the one who helps him to bridge the gap to close it Thats it But he has to talk about the gap
+Yeah
 
+### Speaker 1 · Speaker 1
 
-Was that useful Michael Was that useful
-
-### Speaker 2
-
-Yeah yeah thank you thank you
-
-### Speaker 1
-
-Guys and if lets imagine and if the agent gonna tell you no Im actually like thats my boyfriend working in OBG He is eating and breathing with me I know everything about OBG project Hes the best They just mean that this lead is not your client Its a cold call guys You got me You cannot you cannot switch it right You cannot do that I will say another funny way like look I do believe that relationship should be connected well and
-
-
-All of the you know professional personal level In just in case
-
-
-If your boyfriend will ever be over busy or I dont want to you know maybe you will change your mind and you you know youre gonna choose another man in your life
-
-
-Would that be useful for us still to stay in touch Yeah So if you will change your manual would you you will potentially go to the same guy for the OBG project I dont know Maybe maybe not Would that be a possibility
-
-
-Anyway guys whats the best thing with the cold calling to the agents is that you can have fun You can be more human right Theyre not youre kind of on the same level
-
-
-Theyre not your clients you know youre not their puppy Theyre the same client theyre the same as you So come into this call with energy Youre Im the same as me youre the same as me Im the same as you I know your problems I know how annoying the clients Im here to help you to handle it
-
-
-Yeah makes sense Perfect Thank you Atik one more time for this amazing master session
-
-
-Yeah so guys lets lets smash this calls and lets next Tuesday come with certain outcomes Certain roadblocks which you will have for sure when youre gonna do this hundred calls Okay And then we on this side will be able to change shift Maybe look for another databases of the agent or maybe create a different events We can invite the agents rather than just pitching Me coming to the office
-
-
-me going on on zoom on me coming like you got me we will change the approaches if you will give us more information okay perfect then i am off and were gonna share this call recording as usual in the group thank you guys any questions marianis is here as well im here go see you on tuesday
-
-### Speaker 2
-
-Oh I had a quick question sorry just about the whole shifting to the B2B model so does that mean were not going to get any leads anymore like that like directly
-
-### Speaker 1
-
-Good question sorry
-
-
-Were gonna have way less leads the way were gonna distribute it is still not clear but I believe that its more practical to have a dedicated B2C team who will be properly trained on how to do the online meetings how to pitch to that
-
-
-direct clients so the effectiveness of the marketing budget spent will be way higher rather than someone who is already running between b2c and b2b might be with the client might be you know with the agency um i see the model again thats just my point of view is that we should have a dedicated team for the b2c clients and those team will have a little bit stricter rules in terms of where they should be uh
-
-
-they should be available so theyre going to be a duty day right there is a duty day where you have to be the same as frontline sales people they have a day when they are on the shift so that means that you have to be on the shift you have to be available you have to sit in the office next to the camera just in case youre going to get dropped elite who wants to have a video call now and you have to be trained on all of the projects of one broker group and additional competitors because
-
-
-we can sell anything and we have to leverage that model because what Ive seen again going through the call recordings is that the agent havent done any qualification the client briefly said that well I have 600000 dirhams and then the agent start pitching JW Marriott just because he knows the JW Marriott better than any other project but the client is on the you know hes on the zoom hes kind of entertaining this conversation but hes just entertaining his
-
-
-Okay will I be interested to walk through the video of 50 billion penthouse Yeah Does that mean Im a potential buyer No So both are wasting time
-
-
-and this this this was the lead he might up his budget he might be sold something not with obg even with a different developer if someone for example nor a residences we know about three four other competitors if whatever reason the payment plan for him has to be with a post and over i know im a specialist in all of the project for obg and all of the project that can be sold rather than obg so its more like an off plan agent overall guys
-
-
-You understand if you will go to any real estate agency and they have off plan team the off plan team is not only specialized in five projects
-
-
-Oaken team
-
-
-Kind of should know all of the all plan project and be able to sell that
-
-
-So these are guys who are coming to you they have kind of a foundational knowledge about different project but they are coming to you when you are dealing with them as a B2B type of client when they need more knowledge about the project Make sense Yeah Any more questions Were gonna give you more clarification I dont know what will be the decision yet I believe that we have to be just more intentional with the
-
-
-B2C clients
+Any more questions Were gonna give you more clarification I dont know um what will be the decision yet I believe that um we have to be just more intentional with the B2C clients

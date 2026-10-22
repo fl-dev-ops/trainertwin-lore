@@ -2,15 +2,15 @@
 id: 4kwykcJ9V4s
 title: How to Sell Off Plan Properties to International Investors, Create Urgency,
   SELL online. Part 1.
-url: https://www.youtube.com/watch?v=4kwykcJ9V4s
 date: '2025-01-12'
-duration: 00:13:16
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=4kwykcJ9V4s
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 2
+speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
 ---
 
 
@@ -18,104 +18,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Hi welcome to the new training video this training designed specifically for real estate agents in Dubai or maybe not in Dubai who want to really master the sales skills for the off plan sales like its a bit different than making the transaction in a secondary market off plan deals in Dubai are really really very competitive you are not only
-
-
-competing with the developers youre competing with other agents and you are competing with a lot of other investment options that the potentially client can use to make more money so how with the advanced communication skill you can turn um im not interested or im just looking into yes send me the payment link this what we will discuss in this first part of the training i think im going to break it in two just do not overwhelm you so much
-
-
-And before we start who am I what Im doing My name is Olga Senenka and I am in Dubai real estate for 10 years since 2015 as a real estate agent and made some money being a sales manager in Angelenburgers in 2017 and since 2020 and now its 13th of December
-
-### Speaker 2
-
-2024
-
-### Speaker 1
-
-I am a real estate sales trainer mentor who is helping the companies to enhance the sales skills of their teams and individual agents who really want to understand how not only to make a quick cash but build a long lasting career make real money in Dubai real estate So without further delay lets jump into it
-
-
-And the first question the first question about the urgency and on the flip side we need to understand why the clients are telling you those clients who submitted the inquiry and registered in the social media campaign and requested more information why theyre telling you Im just looking
-
-
-will not buy now just send me some options this is a one million dollar question which each and every new real estate agent in Dubai would love to have answer but not even a new agent the agents whove been on the market for two three four five years they still do not understand what theyre doing wrong and why they are themselves that because its true causing the client to put the
-
-
-a wall of resistance between the client and the salesperson being absolutely deaf to the all good things that theyre trying to tell him about how the great is the market let me tell you why do I or let me explain you this and youre gonna have that and in the end of the day after all of this hard job that youre doing youre still getting I will get back to you or just send me some options so it
-
-
-If you if you kind of intrigue then definitely watch till the end because this training is about step by step enrollment into understanding what you are currently doing wrong
-
-
-Lets jump to the next slide For you to have a bit of more clarity of what the actual you know sales process is and Im not Im not sure if you have ever seen the sales funnel as a representation of the sales process but its very important for you to understand now being an off plan real estate agent in Dubai or trying to do to to close the off plan deals who are your client what they are thinking and feeling what theyre lets say they
-
-
-behavioral psychology is behind the action that they do with you
-
-
-Sales funnel is a simple representation of how the human beings make decision Believe me you are doing it exactly the same way And its about everything not about the sale Its about where would I go on vacation or which girlfriend should I date this one or that one Its literally everything we do we go through the funnel and if this way is successful they get to the end and we make this decision or at any stage of the way
-
-
-you can get back to initial top and just neglect the problem
-
-
-for you to understand where your off plan inquiry on this funnel
-
-
-You have to get you know I like to explain it differently if you allow me if You for example a very respectful gentleman and I know who you are watching this video but thank you for watching Oh by the way if you if you just stumble on this video One more time I am a real estate sales coach in Dubai which helping a companies and individual agents just to enhance the sales performance and build up the
-
-
-career so lets imagine you are yourself never been thinking about the buy real estate never been thinking of becoming a buy real estate professional well probably if you would see this video in anywhere in your YouTube you will just not gonna be even able to notice it so when weve seen a promotion when we see some commercial then we see some ads and we do not really see them that means we dont have a problem
-
-
-So our intentional attention is not focused on solving whatever issue we have so we are just blind So if the client that You have on your phone in the lead we drop into your CRM system registered So that means hes not here already He has a problem For us to be enabled like you did probably maybe you start thinking oh whats about this real estate job It seems
-
-
-like the real estate market is booming and Im for example here in Estonia or in UK or in US I dont know where you are thinking of how to become a real estate agent in Dubai what should I do or know how the licensing works you kind of already found the problem so you are on the level one but you probably still in your you know kind of ignoring more or just like watch this maybe read that maybe start to follow a couple of people on Instagram just to
-
-
-see the flashy cars and how they just with no action making so much money just basically just walking in hi this is a great apartment do you want to buy it yes
-
-
-However the time passes and its time for you to pay your whatever tax in whatever country you are and you understand that Jesus Christ Im giving 35 45 50 percent to my government which I dont think uses my tax money correctly what the hell Im doing here and why is a tax free income the problem is triggered and your problem is actually not I want to become a real estate agent in Dubai your problem is I dont want to pay tax
-
-
-So now you start looking for solutions and maybe Dubai is not the first solution maybe youre thinking oh well what I can do I can just move to I dont know Bali I can move to Thailand I can just stop working altogether and just become a free spirited guy or I can become a real estate agent to Dubai since its no ceiling for my income and its so easy and lots of people are coming with no education and before me
-
-
-So youre looking at several solutions right Youre comparing the solution Then solution is determined Dubai it is Dubai What are you going to do then Even in Dubai you compare different companies It should be secondary market Should it be off plan Should it be company A Should it be company B Should I open my own company Or should I start working with the developer What should I do On each of these processes of your decision making
-
-
-You contact potentially certain people you consume certain information and depending on how good those people are youve been pulled in one direction or another till you make decision and solve your problem and here you are in Dubai living in R B R B apartment driving a rental car hoping that Jesus Christ hope this
-
-
-guy gonna buy this whole plan project is this for you or about you anyway lets get back to this
-
-
-Everyone all of our off plan clients are going through the same stages They have no problem theyre enjoying themselves They maybe have some properties already generating passive income in their country or they dont theyre just thinking about different pension plans for themselves and then they try to compare and look at the whatever money they make or the quality of life they have in the country because we have both end users and investors still
-
-
-invest in a plan they understand like I really dont like it here I really have to do something now really have to start act because I can see the inflation is eating my money I can see the prices are not going up or going down or whatever is happening so the problem is triggered now you start looking for solution is you are not usually the social media campaigns which are bringing a slate they are not bringing exactly a lot of people from
-
-
-So those people are elsewhere and is any investor they will compare different solution Well should I invest in stock Should I invest in crypto Should I just put my money in the saving bank account Should I put my money in real estate in Spain or Should I put my money in Dubai Compare different solution Not even a real estate related yet Then its determined its real estate real estate on Dubai and now Im comparing Should I go with this agent Should I go with this developer Should I go with that developer
-
-
-Is it safe Should I travel in Dubai and and kind of arrange the deal while Im here or I can still do it online A comparing solution brings us to getting into a couple of developments and thinking okay unit A or unit B or unit C in a developer number two which hopefully if through all of the process youve been guided by a non pushing non manipulative
-
-
-person who knows advanced sales skills meaning advanced questioning ability gonna go into the property sold the difference between off plan and secondary is major
-
-
-First of all as a real estate agent in Dubai youre going to be paid on average 5 percent commission from the developer which you do not have to share with any other agent
-
-
-On a secondary market deal you will have probably another agent representing the buyer or the seller whichever side youre in and then youre gonna have only two percent which is gonna be cut half usually with your company but the off plan the intent the desire the the the I would say seriousness of those investors who are coming and end users as well who are coming for the
-
-
-off plan unit and someone who is living already in a property well you know what I need to sell it now because Im moving or Im moving out of the country or the buyer whos like well I need to buy apartment now because my tenancy is expired in two months and I just dont want to pay anyone else mortgage anymore you see the difference so those at secondary market are way more motivated they have a clear timeline they understand what they want they know the area already and in the off plan you have
-
-
-so much fear so thats all for the lesson number one and see you in the lesson number two by the way dont forget to put the like down there yeah see you
+Hi welcome to the new training video This training designed specifically for real estate agents in Dubai or maybe not in Dubai who want to really master their sales skills for the off plan sales Like its a bit different than making the transaction in a secondary market Off plan deals in Dubai are really really very competitive You are not only Competing with the developers youre competing with other agents and you are competing with a lot of other investment options that the potential client can use to make more money So how with the advanced communication skill you can turn Im not interested or Im just looking into yes send me the payment link This is what we will discuss in this first part of the training I think Im going to break it into 2 just to not overwhelm you so much And before we start who am I What Im doing My name is Olga Sinenko and I am in Dubai real estate for 10 years Since 2015 as a real estate agent then made some money being a sales manager in Anglin Burkes in 2017 And since 2020 and now its 13th of December 2024 I am a real estate sales trainer mentor who is helping the companies to enhance the sales skills of their teams and individual agents who really want to understand how not only to make a quick cash but build a long lasting career make real money in Dubai real estate So without further delay lets jump into it And the first question the first question about the urgency And on the flip side we need to understand why the clients are telling you those clients who submitted the inquiry and registered on the social media campaign and requested more information why theyre telling you Im just looking I will not buy now Just send me some options This is a one million dollar question which each and every new real estate agent in Dubai would love to have answer But not even a new agent The agents whove been on the market for two three four five years they still do not understand what theyre doing wrong and why they are themselves that Because its true causing the client to put the wall of resistance between the client and the salesperson being absolutely deaf to all good things that theyre trying to tell him about how great is the market Let me tell you why to buy or let me explain you this and youre gonna have that And in the end of the day after All of this hard job that youre doing youre still getting I will get back to you or just send me some options So if you if you kind of intrigue then definitely watch till the end because this training is about step by step enrollment into understanding what you are currently doing wrong Lets jump to the next slide for you to have a bit of more clarity of what the actual You know sales process is And Im not Im not sure if you have ever seen the sales funnel as a representation of the sales process but its very important for you to understand now being an off plan real estate agent in Dubai or trying to do to to close the off plan deals who are your clients what they are thinking and feeling what theyre lets say their behavioral psychology is behind the action that they do with you So sales funnel is a simple representation of how the human beings make decision Believe me you are doing it exactly the same way And its about everything not about the sale Its about where would I go on vacation or which girlfriend should I date this one or that one Its literally everything we do We go through the funnel and if this way is successful they get to the end and we make this decision Or at any stage of the way you can get back to initial top and just neglect the problem So for you to understand where your off plan inquiry on this funnel you have to get you know Id like to explain it differently if you allow me If you for example very respectful gentleman and I know who you are watching this video but thank you for watching Oh by the way if you just stumbled on this video one more time I am a real estate sales coach in Dubai which helping companies and individual agents just to enhance their sales performance and build up their career So lets imagine you are yourself never been thinking about Dubai real estate never been thinking of becoming a Dubai real estate professional Well probably if you would see this video in anywhere in your YouTube you will just not going to be even able to notice it So when weve seen a promotion when we see some commercial then we see some ads and we do not really see them that means we dont have a problem So our intentional attention is not focused on solving whatever issue we have so we are just blind So if the client that You have on your phone in the lead which dropped into your CRM system registered So that means hes not here already He has a problem For us to be enabled like you did probably maybe you start thinking oh whats about this real estate job It seems like real estate market is booming And Im for example here in Estonia or in UK or in US I dont know where you are thinking of how to become a real estate agent in Dubai What should I do or know how the licensing works You kind of already found the problem so you are on the level one But you probably still in your you know kind of ignoring more or just like watch this maybe read that maybe start to follow a couple of people on Instagram just to see the flashy cars and how they just with no action making so much money Just basically just walking in Hi This is a great apartment Do you want to buy it Yes However the time passes and its time for you to pay your whatever tax in whatever country you are and you understand that Jesus Christ Im giving 35 45 50 percent to my government which I dont think uses my tax money correctly What the hell Im doing here And Dubai is a tax free income The problem is triggered And your problem is actually not I want to become a real estate agent in Dubai Your problem is I dont want to pay tax So now you start looking for solutions and maybe Dubai is not the first solution Maybe youre thinking oh well what I can do I can just move to I dont know Bali I can move to Thailand I can just stop working altogether and just become a free spirited guy or I can become a real estate agent in Dubai It seems its no ceiling for my income and its so easy and lots of people are coming with no education and performing So youre looking at several solutions right Youre comparing the solutions Then solution is determined Dubai It is Dubai What are you going to do then Even in Dubai you compare different companies It should be Secondary market Should it be off plan Should it be Company A Should it be Company B Or should I open my own company Or should I start working with a developer What should I do On each of these processes of your decision making you contact potentially certain people you consume certain information and depending on how good those people are Youve been pulled in one direction or another till you make decision and solve your problem And here you are in Dubai living in Airbnb apartment driving a rental car hoping that Jesus Christ hope this guy gonna buy this off plan project Is this for you or about you Anyway lets get back to this Everyone all of our off plan clients are going through the same stages They have no problem theyre enjoying themselves They maybe have some properties already generating passive income in their country or they dont Theyre just thinking about different pension plans for themselves And then they try to compare and look at whatever money they make or the quality of life they have in the country because we have both End users and investors still invest in an off plan They understand like I really dont like it here I really have to do something now Really have to start act because I can see the inflation is eating my money I can see the prices are not going up or going down or whatever is happening So the problem is triggered Now you start looking for solution Is you are not Usually the social media campaigns which are bringing us leads they are not bringing exactly a lot of people from Dubai So those people elsewhere and as any investor they will compare different solutions Well should I invest in stocks Should I invest in crypto Should I just put my money in the saving bank account Should I put my money in real estate in Spain Or should I put my money in Dubai Compare different solutions not even real estate related yet Then its determined its real estate real estate in Dubai And now Im comparing Should I go with this agent Should I go with this developer Should I go with that developer Is it safe Should I travel in Dubai and kind of arrange the deal while Im here or I can still do it online Comparing solution brings us to getting into a couple of developments and thinking okay Unit A or Unit B Or you need to see in a developer number 2 which hopefully if through all of the process youve been guided by a non pushing non manipulative person who knows advanced sales skills meaning advanced questioning ability gonna go into the property sold The difference between off plan and secondary is major First of all as a real estate agent in Dubai youre going to be paid on average 5 percent commission from the developer which you do not have to share with any other agent On a secondary market deal you will have probably another agent representing the buyer or the seller whichever site youre in and then youre gonna have only 2 percent which is going to be cut half usually with your company But the off plan the intent the desire the the I would say seriousness of those investors who are coming and end users as well who are coming for the off plan unit and someone who is living already in a property well you know what I need to sell it now because Im moving or Im moving out of the country Or the buyer whos like why I need to buy apartment now because my tenancies expire in 2 months and I just dont want to pay anyone elses mortgage anymore You see the difference So those secondary market are way more motivated They have a clear timeline they understand what they want they know the area already And in the off plan you have So much fear So thats all for lesson number 1 and see you in lesson number 2 By the way dont forget to put the like down there Yeah see you Bye

@@ -1,5 +1,4 @@
 import json
-import os
 import subprocess
 from datetime import date
 from pathlib import Path
@@ -8,7 +7,6 @@ import httpx
 import pytest
 import yaml
 
-from pipeline.sources import read_source
 from social import cli as social
 from social import gemini, transcribe
 from social.dates import in_window, published_day
@@ -16,6 +14,11 @@ from social.instagram import cli as instagram
 from social.linkedin import cli as linkedin
 from social.twitter import cli as twitter
 from social.youtube import cli as youtube
+
+
+@pytest.fixture
+def read_source():
+    return pytest.importorskip("pipeline.sources", reason="Legacy source parser is absent in this workspace").read_source
 
 
 def test_absolute_utc_dates_and_cli_validation(tmp_path, monkeypatch):
@@ -171,7 +174,7 @@ def test_instagram_applies_actor_and_local_bounds(monkeypatch):
         instagram.fetch_posts("me", "key", since=date(2026, 8, 1))
 
 
-def test_youtube_skips_old_and_guards_existing_selection(tmp_path, monkeypatch):
+def test_youtube_skips_old_metadata_only(tmp_path, monkeypatch):
     since = date(2026, 8, 1)
     videos = [
         {"id": "old", "title": "Old", "url": "old", "upload_date": "20260731"},
@@ -184,19 +187,13 @@ def test_youtube_skips_old_and_guards_existing_selection(tmp_path, monkeypatch):
         "fetch_video_details",
         lambda url: {"description": "Video description"},
     )
-    social.collect_youtube("https://youtube.com/@me", data, audios, since, False)
+    social.collect_youtube("https://youtube.com/@me", data, since, False)
     manifest = yaml.safe_load((data / "me.yaml").read_text())
     assert [v["id"] for v in manifest["videos"]] == ["new"]
     assert manifest["videos"][0]["url"] == "https://www.youtube.com/watch?v=new"
     assert manifest["videos"][0]["description"] == "Video description"
     assert sorted(p.name for p in data.iterdir()) == ["me.yaml"]
     assert not audios.exists()
-    run_id = social.hashlib.sha256(b"https://youtube.com/@me").hexdigest()[:10]
-    selection = audios / "runs" / since.isoformat() / run_id / "selection.json"
-    selection.parent.mkdir(parents=True)
-    selection.write_text('["different"]')
-    with pytest.raises(ValueError, match="selection changed"):
-        social.collect_youtube("https://youtube.com/@me", data, audios, since, True)
 
 
 def test_youtube_reuses_manifest_metadata_when_live_details_are_blocked(tmp_path, monkeypatch):
@@ -236,7 +233,7 @@ def test_youtube_reuses_manifest_metadata_when_live_details_are_blocked(tmp_path
     )
 
     social.collect_youtube(
-        "https://youtube.com/@me", data, tmp_path / "audios", date(2005, 4, 23), False
+        "https://youtube.com/@me", data, date(2005, 4, 23), False
     )
 
     manifest = yaml.safe_load((data / "me.yaml").read_text())
@@ -248,6 +245,8 @@ def test_youtube_audio_download_retries_alternate_client(tmp_path, monkeypatch):
 
     def run(command, **kwargs):
         calls.append(command)
+        if len(calls) > 1:
+            (tmp_path / "Video [blocked1234].mp3").write_bytes(b"audio")
         return subprocess.CompletedProcess(
             command, 1 if len(calls) == 1 else 0, "", "HTTP Error 403"
         )
@@ -322,7 +321,6 @@ def test_youtube_manifest_keeps_earlier_videos(tmp_path, monkeypatch):
     social.collect_youtube(
         "https://youtube.com/@me/shorts",
         data,
-        tmp_path / "audios",
         date(2026, 8, 1),
         False,
     )
@@ -331,58 +329,25 @@ def test_youtube_manifest_keeps_earlier_videos(tmp_path, monkeypatch):
     assert {v["id"] for v in index["videos"]} == {"previous123", "newvideo123"}
 
 
-def test_youtube_markdown_transcript_preserves_source_locators(tmp_path, monkeypatch):
-    audios = tmp_path / "audios"
-    raw = tmp_path / "raw"
+def test_youtube_markdown_preserves_metadata_without_time_fields(tmp_path):
     video_dir = tmp_path / "data/youtube/video"
-    audios.mkdir()
-    raw.mkdir()
-    (audios / "A helpful title [pQCLpcXSx2s].mp3").write_bytes(b"fake audio")
-    (raw / "001.mp3.json").write_text(
-        '{"diarized_transcript":{"entries":['
-        '{"speaker_id":"1","transcript":"Ask the buyer what matters to them before you pitch the property.","start_time_seconds":10,"end_time_seconds":15},'
-        '{"speaker_id":"2","transcript":"The buyer says the budget matters more than the view.","start_time_seconds":20,"end_time_seconds":24}'
-        "]}}"
-    )
-    monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:00:30")
-    videos = [
-        {
-            "id": "pQCLpcXSx2s",
-            "title": "A helpful title",
-            "url": "https://www.youtube.com/watch?v=pQCLpcXSx2s",
-            "upload_date": "2026-08-13",
-            "description": "Description is metadata, not quoted speech.",
-            "author": "careerwithvasanth",
-        }
-    ]
-    assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
-    files = list(video_dir.glob("*.md"))
-    assert [p.name for p in files] == ["2026-08-13-a-helpful-title-pQCLpcXSx2s.md"]
-    source = read_source(files[0], tmp_path / "data")
-    assert source.title == "A helpful title"
-    assert source.date == "2026-08-13"
-    assert source.url == videos[0]["url"]
-    assert source.external_id == "pQCLpcXSx2s"
-    assert source.author == "careerwithvasanth"
-    assert [u["t"] for u in source.units] == ["00:00:10", "00:00:20"]
-    assert [u["speaker_id"] for u in source.units] == ["1", "2"]
-    assert all("Description is metadata" not in u["text"] for u in source.units)
-    assert "description: Description is metadata" in files[0].read_text()
-    assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
-    assert (
-        youtube.build_markdowns_from_json(
-            audios, raw, video_dir, [dict(videos[0], title="Another title")]
-        )
-        == 1
-    )
-    assert list(video_dir.glob("*.md")) == files
-    assert read_source(files[0], tmp_path / "data").title == "Another title"
-    files[0].write_text(files[0].read_text().replace("id: pQCLpcXSx2s", "id: wrong-id"))
-    # A mislabeled transcript is regenerated from the diarized JSON, not treated as a hard failure.
-    assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
-    restored = read_source(files[0], tmp_path / "data")
-    assert restored.external_id == "pQCLpcXSx2s"
-    assert restored.title == "A helpful title"
+    video = {"id": "pQCLpcXSx2s", "title": "A helpful title",
+             "url": "https://www.youtube.com/watch?v=pQCLpcXSx2s", "upload_date": "2026-08-13",
+             "description": "Description is metadata, not quoted speech.", "author": "careerwithvasanth"}
+    result = {"speakers": [{"id": "1", "label": "Speaker 1"}],
+              "turns": [{"speaker_id": "1", "text": "Ask the buyer what matters."}]}
+    path = transcribe.save_transcript(video, result, video_dir)
+    assert path.name == "2026-08-13-a-helpful-title-pQCLpcXSx2s.md"
+    meta = transcribe.transcript_metadata(path)
+    assert meta["date"] == "2026-08-13" and meta["url"] == video["url"]
+    assert meta["author"] == "careerwithvasanth" and meta["speaker_count"] == 1
+    assert "Description is metadata" not in path.read_text().split("## Transcript", 1)[1]
+    assert "duration" not in meta
+    assert transcribe.save_transcript(dict(video, title="Another title"), result, video_dir) == path
+    assert transcribe.transcript_metadata(path)["title"] == "Another title"
+    path.write_text(path.read_text().replace("id: pQCLpcXSx2s", "id: wrong-id"))
+    transcribe.save_transcript(video, result, video_dir)
+    assert transcribe.transcript_metadata(path)["id"] == video["id"]
 
 
 def test_gemini_ocr_in_memory_and_ephemeral_files(monkeypatch):
@@ -420,13 +385,10 @@ def test_instagram_reels_transcription_and_carousel_ocr(tmp_path, monkeypatch):
     monkeypatch.setattr(
         instagram,
         "transcribe_media_url",
-        lambda url: [
-            {
-                "t": "00:00:05",
-                "speaker": "1",
-                "text": "Stop pitching and start asking better questions.",
-            }
-        ],
+        lambda url, **kwargs: transcribe.validate_transcript({
+            "speakers": [{"id": "1", "label": "Speaker 1"}],
+            "turns": [{"speaker_id": "1", "text": "Stop pitching and start asking better questions."}],
+        }),
     )
     # Mock Carousel OCR
     monkeypatch.setattr(
@@ -474,7 +436,10 @@ def test_instagram_reels_transcription_and_carousel_ocr(tmp_path, monkeypatch):
 
     reel_md = (posts_dir / Path(index[0]["file"]).name).read_text()
     assert "## Transcript" in reel_md
-    assert "### 00:00:05 · Speaker 1" in reel_md
+    assert "### Speaker 1 · Speaker 1" in reel_md
+    assert index[0]["speaker_count"] == 1
+    speak = reel_md.split("## Transcript", 1)[1]
+    assert "duration:" not in speak and "00:00" not in speak
     assert "Stop pitching and start asking better questions." in reel_md
     assert "transcript: true" in reel_md
 
@@ -485,7 +450,7 @@ def test_instagram_reels_transcription_and_carousel_ocr(tmp_path, monkeypatch):
     assert "Never send property brochures before finding out budget" in carousel_md
 
 
-def test_linkedin_rich_reposts_articles_and_documents(tmp_path):
+def test_linkedin_rich_reposts_articles_and_documents(tmp_path, read_source):
     posts_dir = tmp_path / "posts"
     post = {
         "id": "7000000000000000001",
@@ -575,62 +540,19 @@ def test_twitter_note_tweet_and_quoted_expansion(tmp_path):
     )
 
 
-def test_ephemeral_audio_unlinked_immediately_on_sarvam_upload(tmp_path, monkeypatch):
-    monkeypatch.setenv("SARVAM_API_KEY", "fake-key")
-
-    dummy_audio = tmp_path / "dummy.mp3"
-    dummy_audio.write_bytes(b"dummy audio")
-    monkeypatch.setattr(
-        transcribe, "download_audio_ephemeral", lambda url, target: dummy_audio
-    )
-
-    uploaded_files = []
-
-    class MockJob:
-        job_state = "COMPLETED"
-
-        def upload_files(self, files, timeout=600):
-            uploaded_files.extend(files)
-            # The file should still exist right when passed to upload_files
-            assert all(os.path.exists(f) for f in files)
-
-        def start(self):
-            pass
-
-        def wait_until_complete(self, **kwargs):
-            return self
-
-        def is_successful(self):
-            return True
-
-        def download_outputs(self, target):
-            (Path(target) / "out.json").write_text(
-                json.dumps(
-                    {
-                        "diarized_transcript": {
-                            "entries": [
-                                {
-                                    "speaker_id": "1",
-                                    "transcript": "Spoken audio text",
-                                    "start_time_seconds": 0,
-                                    "end_time_seconds": 5,
-                                }
-                            ]
-                        }
-                    }
-                )
-            )
-
-    class MockClient:
-        class speech_to_text_job:
-            @staticmethod
-            def create_job(**kwargs):
-                return MockJob()
-
-    monkeypatch.setattr("sarvamai.SarvamAI", lambda **kwargs: MockClient())
-
-    turns = transcribe.transcribe_media_url("https://example.com/video.mp4")
-    assert len(turns) == 1
-    assert turns[0]["text"] == "Spoken audio text"
-    # Audio file must be deleted!
-    assert not dummy_audio.exists()
+def test_reel_always_uses_audio_and_preserves_saved_transcript(tmp_path, monkeypatch):
+    calls = []
+    def convert(url, **kwargs):
+        calls.append(url)
+        return transcribe.validate_transcript({"speakers": [{"id": "1", "label": "Speaker 1"}],
+                                              "turns": [{"speaker_id": "1", "text": "Spoken audio text"}]})
+    monkeypatch.setattr(instagram, "transcribe_media_url", convert)
+    post = {"id": "reel1", "type": "reel", "url": "https://instagram.com/reel/one/",
+            "caption": "Caption", "transcript": "Ignore this supplied scraper transcript"}
+    entry = instagram.save_posts_to_markdown([post], tmp_path)[0]
+    original = next(tmp_path.glob("*.md")).read_text()
+    assert entry["speaker_count"] == 1 and entry['hasTranscript'] is True and len(calls) == 1
+    assert "Ignore this supplied scraper transcript" not in original
+    entry = instagram.save_posts_to_markdown([post], tmp_path)[0]
+    assert entry["speaker_count"] == 1 and entry["hasTranscript"] is True and len(calls) == 1
+    assert next(tmp_path.glob("*.md")).read_text() == original

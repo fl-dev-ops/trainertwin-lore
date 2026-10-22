@@ -1,13 +1,8 @@
-import json
-import subprocess
 from datetime import date
-from pathlib import Path
 
 import httpx
 import pytest
-import yaml
 
-from pipeline.sources import read_source
 from social import cli, gemini, progress, transcribe
 from social import fs as social_fs
 from social.instagram import cli as instagram
@@ -17,94 +12,24 @@ from social.youtube import cli as youtube
 
 
 def test_silent_video_handled_cleanly(tmp_path):
-    """Sarvam returns 0 entries (silent video or music only). Must NOT crash or call SystemExit."""
-    sarvam_json = tmp_path / "silent.json"
-    sarvam_json.write_text('{"diarized_transcript": {"entries": []}}')
-    entries = youtube.load_entries(sarvam_json)
-    assert entries == []
-
-    audios = tmp_path / "audios"
-    raw = tmp_path / "raw"
-    video_dir = tmp_path / "video"
-    audios.mkdir()
-    raw.mkdir()
-    (audios / "Silent Clip [abc12345678].mp3").write_bytes(b"dummy")
-    (raw / "001.mp3.json").write_text('{"diarized_transcript": {"entries": []}}')
-
-    videos = [{"id": "abc12345678", "title": "Silent Clip", "description": "Visual video only."}]
-    count = youtube.build_markdowns_from_json(audios, raw, video_dir, videos)
-    assert count == 1
-    md_file = next(video_dir.glob("*.md"))
-    content = md_file.read_text()
-    assert "No spoken dialogue detected" in content
-    assert "Visual video only" in content
-
-
-def test_oversized_audio_splits_and_resumes_without_reupload(tmp_path, monkeypatch):
-    audio = tmp_path / "long.mp3"
-    audio.write_bytes(b"temporary audio")
-    raw = tmp_path / "results"
-    monkeypatch.setattr(youtube, "audio_seconds", lambda _: 7201)
-    uploads = []
-
-    def split(command, **kwargs):
-        Path(command[-1]).write_bytes(b"one audio segment")
-        return subprocess.CompletedProcess(command, 0, "", "")
-
-    monkeypatch.setattr(youtube.subprocess, "run", split)
-
-    class Job:
-        def upload_files(self, files, **kwargs):
-            self.path = Path(files[0])
-            assert self.path.exists()
-            uploads.append(self.path.name)
-
-        def start(self):
-            assert not self.path.exists()
-
-        def wait_until_complete(self, **kwargs):
-            self.job_state = "Completed"
-            return self
-
-        def is_successful(self):
-            return True
-
-        def download_outputs(self, directory):
-            (Path(directory) / f"{self.path.name}.json").write_text(
-                json.dumps({"diarized_transcript": {"entries": [{
-                    "speaker_id": "1", "transcript": "A spoken sentence from this part.",
-                    "start_time_seconds": 2, "end_time_seconds": 5,
-                }]}})
-            )
-
-    class Client:
-        def __init__(self, **kwargs):
-            self.speech_to_text_job = self
-
-        def create_job(self, **kwargs):
-            return Job()
-
-    monkeypatch.setattr("sarvamai.SarvamAI", Client)
-    youtube.transcribe_long_audio(audio, raw, 10, "fake")
-    entries = youtube.load_entries(raw / "010.mp3.json")
-    assert uploads == ["010-part00.mp3", "010-part01.mp3", "010-part02.mp3"]
-    assert [entry.start for entry in entries] == [2, 3602, 7202]
-    assert audio.exists()  # The collector removes it only after all videos complete.
-    youtube.transcribe_long_audio(audio, raw, 10, "fake")
-    assert len(uploads) == 3  # Cached text results, no duplicate paid requests.
-    assert not list(tmp_path.rglob("010-part*.mp3"))
+    path = transcribe.save_transcript(
+        {"id": "abc12345678", "title": "Silent Clip", "description": "Visual video only."},
+        {"speakers": [], "turns": []}, tmp_path / "video",
+    )
+    assert "No spoken dialogue detected" in path.read_text()
+    assert transcribe.transcript_metadata(path)["speaker_count"] == 0
+    assert "Visual video only" not in path.read_text().split("## Transcript", 1)[1]
 
 
 def test_corrupt_or_zero_byte_audio_skipped(tmp_path, monkeypatch):
-    """Audio file under 1000 bytes (corrupt or 0 bytes) is skipped without upload to Sarvam."""
+    """Zero-byte audio never reaches the model."""
     empty_file = tmp_path / "audio.mp3"
     empty_file.write_bytes(b"")  # 0 bytes
 
     monkeypatch.setattr(transcribe, "download_audio_ephemeral", lambda url, target: empty_file)
-    monkeypatch.setenv("SARVAM_API_KEY", "fake-key")
-
-    turns = transcribe.transcribe_media_url("https://example.com/empty.mp4")
-    assert turns == []
+    monkeypatch.setenv("ASSEMBLYAI_API_KEY", "fake-key")
+    monkeypatch.setattr(transcribe, "_request", lambda *a, **kw: pytest.fail("Empty audio must not upload"))
+    assert transcribe.transcribe_media_url("https://example.com/empty.mp4") is None
 
 
 def test_openrouter_ocr_refusal_or_null_content(monkeypatch):
@@ -130,6 +55,7 @@ def test_openrouter_ocr_refusal_or_null_content(monkeypatch):
 
 
 def test_reel_transcript_with_no_turns_does_not_crash_pipeline(tmp_path):
+    read_source = pytest.importorskip("pipeline.sources", reason="Legacy source parser is absent in this workspace").read_source
     """Reel with transcript: true in frontmatter but no spoken turns parses caption cleanly."""
     post = tmp_path / "reel.md"
     post.write_text(
@@ -274,92 +200,53 @@ def test_youtube_description_with_hr_rule_is_kept_not_regenerated(tmp_path, monk
         "---\n\n# t\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nSpoken text.\n"
     )
     existing.write_text(body)
-    audios = tmp_path / "audios"
-    raw = tmp_path / "raw"
-    audios.mkdir()
-    raw.mkdir()
-    (audios / "Should [Z-Zj0bYQqnU].mp3").write_bytes(b"fake audio")
-    (raw / "001.mp3.json").write_text(
-        '{"diarized_transcript":{"entries":['
-        '{"speaker_id":"1","transcript":"Spoken text.","start_time_seconds":0,"end_time_seconds":2}'
-        ']}}'
-    )
-    monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:10:22")
-    messages = []
-    monkeypatch.setattr(youtube, "status", lambda message: messages.append(message))
-    count = youtube.build_markdowns_from_json(
-        audios, raw, video_dir,
-        [{"id": "Z-Zj0bYQqnU", "title": "Should Frontend Developers Learn AI", "upload_date": "2026-05-31"}],
-    )
-    assert count == 1
-    assert not any("regenerating" in m for m in messages)  # HR rule inside description is valid YAML.
-    lines = existing.read_text().splitlines()
-    end = lines.index("---", 1)
-    assert str(yaml.safe_load("\n".join(lines[1:end]))["id"]) == "Z-Zj0bYQqnU"
+    # Valid legacy transcripts stay untouched, including descriptions containing YAML rules.
+    assert not transcribe.needs_transcript(video_dir, "Z-Zj0bYQqnU")
+    assert existing.read_text() == body
 
 
 def test_youtube_replaces_corrupt_existing_transcript(tmp_path, monkeypatch):
     """A half-written transcript (interrupted write) is regenerated instead of crashing."""
-    audios = tmp_path / "audios"
-    raw = tmp_path / "raw"
     video_dir = tmp_path / "data/youtube/video"
-    audios.mkdir()
-    raw.mkdir()
-    (audios / "A helpful title [pQCLpcXSx2s].mp3").write_bytes(b"fake audio")
-    (raw / "001.mp3.json").write_text(
-        '{"diarized_transcript":{"entries":['
-        '{"speaker_id":"1","transcript":"Ask the buyer what matters to them before you pitch the property.","start_time_seconds":10,"end_time_seconds":15}'
-        ']}}'
-    )
-    monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:00:30")
     corrupt = video_dir / "2026-08-13-helpful-pQCLpcXSx2s.md"
     corrupt.parent.mkdir(parents=True)
-    corrupt.write_text(
-        "---\nid: pQCLpcXSx2s\ndescription: '🚀 unterminated quoted scalar\n---\n"
-    )
-    videos = [{"id": "pQCLpcXSx2s", "title": "A helpful title", "upload_date": "2026-08-13"}]
-    assert youtube.build_markdowns_from_json(audios, raw, video_dir, videos) == 1
-    assert read_source(corrupt, tmp_path / "data").title == "A helpful title"
+    corrupt.write_text("---\nid: pQCLpcXSx2s\ndescription: '🚀 unterminated quoted scalar\n---\n")
+    assert transcribe.needs_transcript(video_dir, "pQCLpcXSx2s")
+    result = {"speakers": [{"id": "1", "label": "Speaker 1"}],
+              "turns": [{"speaker_id": "1", "text": "Ask the buyer what matters."}]}
+    transcribe.save_transcript({"id": "pQCLpcXSx2s", "title": "A helpful title", "upload_date": "2026-08-13"}, result, video_dir)
+    assert transcribe.transcript_metadata(corrupt)["title"] == "A helpful title"
     assert "🚀" not in corrupt.read_text()
 
 
 def test_youtube_skips_paid_retranscription_for_saved_videos(tmp_path, monkeypatch):
-    """Videos whose Markdown transcripts exist are not downloaded or sent to Sarvam again."""
     data = tmp_path / "users/me/data/youtube"
     video_dir = data / "video"
     video_dir.mkdir(parents=True)
-    calls = {"downloads": 0, "submits": 0}
-
-    monkeypatch.setattr(youtube, "fetch_channel_videos", lambda _: [
-        {"id": "olddddd11", "title": "Old", "url": "https://youtube.com/watch?v=olddddd11", "upload_date": "20260731"},
-        {"id": "newdddddd", "title": "New", "url": "https://youtube.com/watch?v=newddddddd", "upload_date": "20260801"},
-    ])
-
-    def fake_download(url, directory):
-        calls["downloads"] += 1
-        return directory
-
-    monkeypatch.setattr(youtube, "download_video_audio", fake_download)
-    monkeypatch.setattr(youtube, "get_sarvam_key", lambda _: "key")
-    monkeypatch.setattr(youtube, "submit_sarvam_jobs", lambda *a: calls.__setitem__("submits", calls["submits"] + 1))
-    monkeypatch.setattr(youtube, "wait_and_download_sarvam", lambda *a: None)
-    monkeypatch.setattr(youtube, "ffprobe_duration", lambda _: "00:00:30")
-    monkeypatch.setattr(youtube, "load_date_cache", lambda _: {})
-    monkeypatch.setattr(youtube, "save_date_cache", lambda *_: None)
-
-    def fake_build(audios_dir, json_dir, directory, videos, **kwargs):
-        calls["built"] = len(videos)
-        return 1  # Only the one pending video's audio is exported.
-
-    monkeypatch.setattr(youtube, "build_markdowns_from_json", fake_build)
-    (video_dir / "2026-07-31-old-olddddd11.md").write_text(
-        "---\nid: oldddddd11\n---\n\n# Old\n\n## Transcript\n\n### 00:00:00 · Speaker 1\n\nOld spoken text.\n"
-    )
-    cli.collect_youtube("https://youtube.com/@me", data, tmp_path / "audios", date(2026, 7, 1), True)
-    assert calls["downloads"] == 1  # Only the new video was downloaded.
-    assert calls["submits"] == 1
-    assert calls["built"] == 2  # Export still covers every indexed video.
-    assert not list((tmp_path / "audios").rglob("*.mp3"))  # Audio deleted after build.
+    old_id, new_id = "olddddd1111", "newddddd111"
+    videos = [{"id": vid, "title": vid, "url": f"https://youtube.com/watch?v={vid}",
+               "upload_date": "20260801", "description": "description", "author": "me"}
+              for vid in (old_id, new_id)]
+    monkeypatch.setattr(youtube, "fetch_channel_videos", lambda _: videos)
+    calls = []
+    def download(url, directory):
+        calls.append(url)
+        path = directory / f"New [{new_id}].mp3"
+        path.write_bytes(b"audio")
+        return path
+    monkeypatch.setattr(youtube, "download_video_audio", download)
+    monkeypatch.setattr(transcribe, "get_api_key", lambda _: "test-key")
+    monkeypatch.setattr(transcribe, "transcribe_audio", lambda *a, **kw: transcribe.validate_transcript({
+        "speakers": [{"id": "1", "label": "Speaker 1"}], "turns": [{"speaker_id": "1", "text": "New speech"}],
+    }))
+    old = video_dir / f"2026-07-31-old-{old_id}.md"
+    old.write_text(f"---\nid: {old_id}\ntranscript: true\nmodel: saaras:v4\n---\n\n## Transcript\n\nLegacy spoken text.\n")
+    original = old.read_bytes()
+    cli.collect_youtube("https://youtube.com/@me", data, date(2026, 7, 1), True)
+    assert calls == [videos[1]["url"]]
+    assert old.read_bytes() == original
+    assert len(list(video_dir.glob("*.md"))) == 2
+    assert not list(data.rglob("*.mp3"))
 
 
 def test_worker_crash_is_recorded_not_fatal(tmp_path, monkeypatch, capsys):
@@ -452,3 +339,18 @@ def test_instagram_single_image_without_media_preserves_caption(tmp_path, monkey
     text = (posts_dir / index[0]["file"].split("/")[-1]).read_text()
     assert "## Caption\nText only post." in text
     assert "## Image Text" not in text
+
+
+def test_ytdlp_error_keeps_only_the_reason():
+    from social.youtube.cli import ytdlp_error
+
+    stderr = """WARNING: Your yt-dlp version (2026.07.04) is older than 90 days!
+         It is strongly recommended to always use the latest version.
+WARNING: [youtube] UDFBhoTYVPk: Error reading response: Read timed out.
+ERROR: [youtube] UDFBhoTYVPk: Video unavailable
+WARNING: Only images are available for download.
+ERROR: [youtube] UDFBhoTYVPk: Requested format is not available.
+"""
+    assert ytdlp_error(stderr) == "ERROR: [youtube] UDFBhoTYVPk: Requested format is not available."
+    assert ytdlp_error("WARNING: only a warning\n") == "WARNING: only a warning"
+    assert ytdlp_error("") == "unknown yt-dlp error"

@@ -1,14 +1,15 @@
 ---
 id: Y7y2Od1aHaE
 title: 'The Universe definitely has a plan!!! #success'
-url: https://www.youtube.com/shorts/Y7y2Od1aHaE
 date: '2026-04-10'
-duration: 00:00:19
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/Y7y2Od1aHaE
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,6 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Is this the real weather of Dubai in the almost middle of April when you need some sort of a jacket and the skies are like this I think we are all in the middle of the scene of some horror movie Whats gonna happen to Dubai Will we be the ones who survive that
+Is this the real weather of Dubai in the almost mid of April when you need some sort of a jacket and the skies are like this I think were all in the middle of the scene of some horror movie Whats gonna happen to Dubai Will we be the one who survived that

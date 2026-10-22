@@ -1,14 +1,15 @@
 ---
 id: 7c7bfYIlLnM
 title: 'Dubai Real Estate Durring the War: Proof You Need to See!'
-url: https://www.youtube.com/shorts/7c7bfYIlLnM
 date: '2026-04-04'
-duration: 00:00:29
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/7c7bfYIlLnM
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,6 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-And Im saying refrain and reality of that the market hasnt stopped Im recording it on 18 Im just looking up which date is this on 18 of March a couple of days back we had a big launch in Abu Dhabi of gated community located on the beach it might not mean anything for you Ohara launch Manchester City and in 72 hours more than 6 billion properties being sold
+When Im saying reframe and reality of that the market hasnt stopped Im recording it on 18th Im just looking up which date is this On 18th of March couple of days back we had a big launch in Abu Dhabi of gated community located on the beach It might not mean anything for you Ohara launched Manchester City and in 72 hours more than 6 billion properties been sold

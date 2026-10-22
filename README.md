@@ -65,7 +65,13 @@ cp .env.example .env
 Ensure `.env` contains:
 ```bash
 OPENROUTER_API_KEY=sk-or-v1-...
+ASSEMBLYAI_API_KEY=...  # all audio/video transcription
 ```
+
+All media processing/transcription lives in `social/transcribe.py` (AssemblyAI Universal-3.5 Pro,
+metadata context, no keyterms or LLM rewrite). Gemini remains for image OCR and the separate
+text pipeline. Existing transcripts are preserved; this change does not bulk re-transcribe them.
+See [social collection](social/README.md) for caching, resume, and local-file usage.
 
 ---
 

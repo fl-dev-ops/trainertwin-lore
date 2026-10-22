@@ -1,16 +1,16 @@
 ---
 id: Yl4-Oq7VKVs
-title: "\u201CI Already Invest in Gold\u201D \u2014 Here\u2019s How to Shift That\
-  \ Conversation"
-url: https://www.youtube.com/shorts/Yl4-Oq7VKVs
+title: “I Already Invest in Gold” — Here’s How to Shift That Conversation
 date: '2025-07-06'
-duration: 00:01:26
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/Yl4-Oq7VKVs
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -18,16 +18,10 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Im already invested in gold why should I invest in properties
+Im already invested in gold Why should I invest in properties
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Are you investing in gold already Mr Kleiner Well thats probably one of the best thing which being yet created as an investment opportunity But let me ask you this Mr Kleiner well why would you even like we are now talking why would you even you know to look at some diversification and and be on this call with me or be on this meeting with me rather than keep investing in gold So instead of me telling to the client like oh well the property is XYZ and the property is going to give you more
-
-
-turn and a gold is gonna give you less Im gonna ask him because hes now there talking to me right so what attracted him to rather than doing the gold stuff because he has to be doing this anyway to have a different conversation and then he probably gonna tell me why Im looking for diversification right so investing in gold mr Klein thats fantastic for you to diversify your portfolio you should look at a different asset and Im not saying the property is the best of the best however it has less volatility
-
-
-and it I would say its gonna give you a passive income will gold give you a passive income no it just in the property terms its a price appreciation so whenever you want to sell the gold that you have then you will get the profit thats not the same with the property would you like to have a passive income on top of the price appreciation
+Why are you investing in gold already Mr Kleiner Well thats probably one of the best things which has been yet created as an investment opportunity But let me ask you this Mr Kleiner Well why would you even like we are now talking why would you even you know look at some diversification and be on this call with me or be on this meeting with me Rather than keep investing in gold So instead of me telling to the client like oh well the property is XYZ and the property is going to give you more return and the gold is going to give you less Im going to ask him because hes not there talking to me right So what attracted him to rather than doing the gold stuff because he has been doing this anyway to have a different conversation And then hes probably going to tell me well Im looking for diversification Right So investing in gold Mr Client thats fantastic for you to diversify your portfolio You should look at different assets And Im not saying that property is the best of the best However it has less volatility and it I would say its going to give you a passive income Will gold give you a passive income No It just in property terms its a price appreciation So whenever you want to sell the goal that you have then you will get the profit Thats not the same with the property Would you like to have a passive income on top of the price appreciation

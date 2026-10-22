@@ -1,16 +1,16 @@
 ---
 id: z5zEjNLgick
-title: "Stop Selling Like You\u2019re in a Casino \U0001F3B0"
-url: https://www.youtube.com/shorts/z5zEjNLgick
+title: Stop Selling Like You’re in a Casino 🎰
 date: '2025-11-06'
-duration: 00:00:34
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/z5zEjNLgick
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 3
+speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -18,25 +18,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Oh you dont have a budget for that Mr Client Yeah I know And the sales people are always manipulating with their intention Oh if I will give you the best possible offer will you say yes today
+Oh you dont have a budget for that Mr Client Yeah And the salespeople are always manipulating with their intention Oh if I will give you the best possible offer will you say yes today The client says Jesus Christ thats a
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Yeah and the sales
+Am I going like a jackpot or am I in a casino
 
+### Speaker 1 · Speaker 1
 
-Oh
-
-### Speaker 1
-
-Im lying theres a Jesus Christ
-
-### Speaker 3
-
-You mean going like a jackpot or I mean a casino
-
-### Speaker 1
-
-usually agents are giving over budget because they afraid to qualify or they just hope and pray Im just gonna show him all of these fantastic pictures and videos and hes magically gonna find the money which probably happened once to a colleague of the colleague of the colleague you know like this fairy tale story of the Cinderella
+Usually agents are giving over budget because they afraid to qualify or they just hope and pray Im just going to show him all of these fantastic pictures and videos and hes magically going to find the money Which probably happened once to a colleague of the colleague of the colleague you know like this fairy tale story of Cinderella

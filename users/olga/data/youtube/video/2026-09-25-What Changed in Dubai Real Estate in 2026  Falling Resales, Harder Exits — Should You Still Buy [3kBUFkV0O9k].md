@@ -1,15 +1,16 @@
 ---
 id: 3kBUFkV0O9k
-title: "What Changed in Dubai Real Estate in 2026? Falling Resales, Harder Exits \u2014\
-  \ Should You Still Buy?"
-url: https://www.youtube.com/watch?v=3kBUFkV0O9k
+title: What Changed in Dubai Real Estate in 2026? Falling Resales, Harder Exits —
+  Should You Still Buy?
 date: '2026-09-25'
-duration: 00:12:02
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=3kBUFkV0O9k
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -17,78 +18,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-The Dubai market is recovering and recorded at record transactions Dubai is a bubble You already watched these videos both usually in the same afternoon And if youve been considering Dubai for several years it isnt because you are indecisive Its because you dont know whom to trust in the world where everyone gets paid the moment you say yes This one is actually selling a second passport
-
-
-This one is a villa in Bali Dubai agent who called you three times this week a unit he needs to move this month So stop asking whether Dubai is a good buy Start asking this When the time comes to sell my property who is buying it from me and at what price In this video I will show you why the record ROI was possible before and how the numbers looks like now
-
-
-Explain the biggest risk you are facing in Dubai real estate in 2026 and probably 27 and finalize with the most underrated knowledge how to validate the advice of the agent because it can fail you even with the best market conditions and Ill say this before anything else As much as I believe Dubai is a genuine opportunity it is not for everyone and Im not here to talk you into the city
-
-
-My market knowledge dates back to 2015 Me and my team been responsible for over a billion dirhams in sales in the previous buyers market which means I watch exactly where the money grow in the city and exactly where they disappears Then I retired from sales and for the past six years I coach agents and investors how to make money in Dubai real estate and I would say its
-
-
-not a bubble its a queue now you probably heard the headlines 252 billion dirhams up 31 percent year on year it went round every dubai channel this august as proof that the market shaked off everything the region threw at it heres what nobody adds thats the first quarter january to march
-
-
-mainly and its every transaction that happened in the emirate residential commercial land mortgages gifts all in one number so it tells you dubai was busy before february nothing about what came after cavendish maxwell report splits it properly residential transactions value in q2 what came after the conflict with 18
-
-
-4 point 9 billion down 37 point 8 percent launches went from 410 first half of last year to 124 this year thats the sound of the brakes being tapped but its not about the conflict because the softening started before it price growth turned negative for the first time in this cycle back in q
-
-
-2025 and then it was unexpected because of supply 24800 unit completed in the first half of this year alone up 37 point 6 percent compare to the first six months of 2025 the conflict didnt start this it turned in four months in and give everyone more dramatic explanation than the real one and now I want to share the math that make Dubai
-
-
-famous because what made it famous was not the city it was the exit the ability to get out of the profit in 2024 and 2025 heres how that worked you buy off land on a payment plan over the construction period you pay roughly 50 of the price and before handover before that final payment ever comes due you sell the unit on to somebody else see the price grows 20 while you
-
-
-held it That 20 percent is calculated on the full value of the unit but you only ever put in half of it So 20 percent rise becomes roughly a 50 percent return on the money you actually deployed Thats what people mean when they talk about doubling money in Dubai Look at this case bought in 2021 for 700000 and sold three years later at exactly 1 point 4 million And this
-
-
-case is one of many Those people didnt buy in 2024 It was a 2021 and 2021 was a completely different market altogether Launches were just started We were coming out of COVID and nobody knew what was going to happen to the city Most people were too nervous to commit to anything Now everyones comparing today to 2024 or 25 and calling it a crash Those wasnt normal
-
-
-The party started after COVID a lot of people showed up in 2024 so everyone is dancing and they assume this is how the room looks like all the time But this market isnt falling apart its just Tuesday again And this is how the normal Tuesday looks like Lets talk about off plan Resale transaction failed 51 percent year on year down to 4600
-
-
-8 percent of all off plan activity now And here is the number that tells you everything Developer initials the brand new units straight from the developer fell just 1 point 5 percent The developers are fine The people who are trying to resell are not And before we continue I have an ask If this video is a bit different from the usual Dubai content you know what to do Like it subscribe its general
-
-
-helps this reach more people who are trying to build something for their families or trying to start a career in real estate in Dubai and and they want to own a street before they move so what does it mean for you today the most dangerous thing in Dubai right now isnt a bad developer its a 2021 strategy in 2026 market as part of my coaching I run I are unbiased strategy sessions for investors
-
-
-People come for my honest market assessment as Im not selling them any properties One of the merchants came I would say a quarter of the million dirhams too late Hes holding a good unit good location bought from Showba Oplan several years ago and its completed Keys are ready There is no developer problem Nothing wrong with the building at all Hes sitting on the quarter of the million late payment fees
-
-
-unable to rent it out and access the unit to start covering it from his rent because he miscalculated the exit He couldnt finalize the handover payments even with the post handover payment plan the comfortable version everyone probably describes to you Take the keys put a tenant in let the rent cover the installments He didnt have the cash to reach that point and he could have sold last year There was a window
-
-
-And he let it close waiting for a better price whilst the unit completed He put so much in by then that walking away with a smaller number felt like losing for him Thats what I call some cost bias And thats the most expensive thing I see in this market And Ill be honest with you about how that session went There was not much I could do for him He came to me too late The solution that would have saved his money was not on the table
-
-
-anymore so if you are sitting on a decision right now and you think youd benefit from another pair of eyes on it links in the description of this video so who is this market actually for right now if you need this money back in three years its the wrong market the exit isnt there if you can hold from seven to ten it is working for you more choice with sellers who wish they moved last year and
-
-
-And if this market is for you the next question is not whether you buy the location its whom you buy through and I dont mean picking the right agency I mean knowing how to qualify the agent in 10 minutes let me be fair because I train these people plenty of agents I generally want a good outcome but still come across pushy because nobody ever told them how to talk salesy is is the only script
-
-
-they were handed from the manager Heres the problem The most buyers ask is this a good investment And there is one answer to that And its a pitch You hand the agent the key and then youre disappointed when the agent takes it Four questions Ask them and if the agent hesitates you already have your answer about whether you should work in with this person or no Question number one
-
-
-last three months of transactions in this building and if its off plan in comparable building around the area youre establishing your starting point what actually been sold recently in registered deals not asking prices on the websites like bayuda property finder if he pulls it up you know he works from data if he tells you the area is hot hes working from what pays the higher commission to him two what else completes around me
-
-
-the same year because if three other towers handed over the same year the same month your tenant has options and your buyer has options and none of those guys are going to be thinking about your profits number three what are the service charges here and what are the incompatible buildings in the same area the comparison is the point that number comes off your heels every year for as long as you own the property for what are
-
-
-cons of the building what can go wrong with the developer or with the area give me the worst case scenario because every building has weakness and every developer has a story behind and if the agent says there is no cons everything is great leave there is no such a thing the only two explanation either he doesnt know his own product or he decided not to tell you is Dubai overhyped no
-
-
-But the thing where Gahype is not most of you think it was it was never the city it was the exit That window was real and it made real people big money And it will be open again soon in the next market cycle But you should not miss it this time And if you want to understand the cycles properly I made a separate video comparing 2008 with 2026
-
-
-Watch that next
+The Dubai market is recovering and recorded record transactions Dubai is a bubble Youve already watched these videos both usually in the same afternoon And if youve been considering Dubai for several years it isnt because you are indecisive Its because you dont know whom to trust in the world where everyone gets paid the moment you say yes This one is actually selling a second passport This one is a villa in Bali Dubai agent who called you 3 times this week a unit he needs to move this month So stop asking whether Dubai is a good buy Start asking this when the time comes to sell my property who is buying it from me and at what price In this video I will show you why the record ROI was possible before and how the numbers look like now explain the biggest risk you are facing in Dubai real estate in 2026 and probably 27 and finalize with the most underrated knowledge how to validate the advice of the agent because it can fail you even with the best market conditions And Ill say this before anything else As much as I believe Dubai is a genuine opportunity it is not for everyone And Im not here to talk you into the city My market knowledge dates back to 2015 Me and my team been responsible for over a billion dirhams in sales in the previous buyers market which means I watch exactly where the money grow in the city and exactly where they disappears Then I retired from sales and for the past 6 years I coach agents and investors how to make money in Dubai real estate And I would say its not a bubble its a queue now You probably heard the headlines 252 billion dirhams up 31 percent year on year It went around every Dubai channel this August as proof that the market shaked off everything the region threw at it Heres what nobody adds thats the first quarter January to March mainly and its every transaction that happened in the emirate residential commercial land mortgages gifts all in one number So it tells you Dubai was busy before February nothing about what came after Cavendish Maxwell report splits it properly Residential transactions value in Q2 what came after the conflict were 84 point 9 billion down 37 point 8 percent Launches went from 410 first half of last year to 124 this year Thats the sound of the brakes being tapped But its not about the conflict because the softening started before it Price growth turned negative for the first time in this cycle back in Q4 For 2025 And then it was unexpected because of supply 24800 units completed in the first half of this year alone up 37 point 6 percent compared to the first 6 months of 2025 The conflict didnt start this It turned in 4 months in and gave everyone more dramatic explanation than the real one And now I want to share the math that made Dubai famous Because what made it famous was not the city it was the exit the ability to get out with a profit in 2024 and 2025 Heres how that worked You buy off plan on a payment plan Over the construction period you pay roughly 50 percent of the price And before handover before that final payment ever comes due You sell the unit on to somebody else See the price grows 20 percent while you held it That 20 percent is calculated on the full value of the unit but you only ever put in half of it So 20 percent rise becomes roughly a 50 percent return on the money you actually deployed Thats what people mean when they talk about doubling money in Dubai Look at this case bought in 2021 for 700000 and sold 3 years later at exactly 1 point 4 million And this case is one of many Those people didnt buy in 2024 it was in 2021 And 2021 was a completely different market altogether Launches were just started we were coming out of COVID and nobody knew what was going to happen to the city Most people were too nervous to commit to anything Now everyones comparing today to 2024 or 25 and calling it a crash Those wasnt normal There was a party started after COVID A lot of people showed up in 2024 So everyone is dancing and they assume this is how the room looks like all the time But this market isnt falling apart Its just Tuesday again And this is how the normal Tuesday looks like Lets talk about off plan Resale transactions fell 51 percent year on year down to 4600 Just 7 point 8 percent of all off plan activity now And here is the number that tells you everything Developer initial sales brand new units straight from the developer fell just 1 point 5 percent The developers are fine the people are trying to resell are not And before we continue I have an ask If this video is a bit different from the usual Dubai content you know what to do Like it subscribe It genuinely helps this reach more people who are trying to build something for their families or trying to start a career in real estate in Dubai and and they want to own a street before they move So what does it mean for you Today the most dangerous thing in Dubai right now isnt a bad developer Its a 2021 strategy in 2026 market As part of my coaching I run unbiased strategy sessions for investors People come for my honest market assessment as Im not selling them any properties One of the investors came I would say a quarter of a million dirhams Too late Hes holding a good unit good location bought from Shoba Oplan several years ago and its completed Keys are ready There is no developer problem nothing wrong with the building at all Hes sitting on the quarter of a million late payment fees unable to rent it out and access the unit to start covering it from his rent because he miscalculated the exit He couldnt finalize the handover payments even with the post handover payment plan the comfortable version everyone probably describes to you Take the keys put a tenant in let the rent cover the installments He didnt have the cash to reach that point And he could have sold last year There was a window and he let it close waiting for a better price whilst the unit completed He put so much in by then that walking away with a smaller number felt like losing for him Thats what I call sunk cost bias and thats the most expensive thing I see in this market And Ill be honest with you about how that session went There was not much I could do for him He he came to me too late The solution that would have saved his money was not on the table anymore So if you are sitting on a decision right now and you think youd benefit from another pair of eyes on it links in the description of this video So who is this market actually for right now If you need this money back in 3 years its the wrong market The exit isnt there If you can hold from 7 to 10 it is working for you More choice with sellers who wish they moved Last year And if this market is for you the next question is not whether you buy the location its whom you buy through And I dont mean picking the right agency I mean knowing how to qualify the agent in 10 minutes Let me be fair because I train these people Plenty of agents genuinely want a good outcome but still come across pushy because nobody ever told them how to talk Salesy is is the only script they were handed from the manager Here is the problem the most buyers ask is this a good investment And there is one answer to that and its a pitch You hand the agent the key and then youre disappointed when the agent takes it 4 questions ask them and if the agent hesitates you already have your answer about whether you should work with this person or no Question number 1 show me the last 3 months of transactions in this building and if its off plan in comparable buildings around the area Youre establishing your starting point whats actually been sold recently in registered deals not asking prices on the websites like Bayut or Property Finder If he pulls it up you know he works from data If he tells you the area is hot hes working from what pays the commission to him 2 what else completes around me in the same year Because if 3 other towers handed over the same year the same month your tenant has options and your buyer has options and none of those guys are going to be thinking about your profits Number 3 what are the service charges here and what are the comparable buildings in the same area The comparison is the point That number comes off your yield every year for as long as you own the property 4 What are the cons of the building What can go wrong with the developer or with the area Give me the worst case scenario because every building has weakness and every developer has a story behind And if the agent says there is No cons everything is great Leave There is no such a thing The only two explanation either he doesnt know his own product or he decided not to tell you Is Dubai overhyped No But the thing what got hype is not most of you think it was It was never the city it was the exit That window was real and it made real people Big money And it will be open again soon in the next market cycle But you should not miss it this time And if you want to understand the cycles properly I made a separate video comparing 2008 with 2026 Watch that next

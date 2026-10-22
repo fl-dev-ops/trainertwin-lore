@@ -20,13 +20,23 @@ if __package__ is None or not __package__:  # Allow direct script invocation aft
     from social.fs import atomic_write
     from social.gemini import ocr_image_url
     from social.progress import status, track
-    from social.transcribe import transcribe_media_url
+    from social.transcribe import (
+        CACHE_DIR,
+        transcribe_media_url,
+        transcript_body,
+        transcript_metadata,
+    )
 else:
     from ..dates import in_window
     from ..fs import atomic_write
     from ..gemini import ocr_image_url
     from ..progress import status, track
-    from ..transcribe import transcribe_media_url
+    from ..transcribe import (
+        CACHE_DIR,
+        transcribe_media_url,
+        transcript_body,
+        transcript_metadata,
+    )
 
 load_dotenv(PROJECT_ROOT / ".env")
 load_dotenv()
@@ -190,7 +200,6 @@ def save_posts_to_markdown(
         likes = p.get("likesCount", 0)
         comments_count = p.get("commentsCount", 0)
         views = p.get("videoViewCount") or p.get("videoPlayCount")
-        duration = p.get("videoDuration") or p.get("duration")
         location = p.get("locationName")
         audio_info = p.get("musicInfo") or p.get("audio") or {}
         child_posts = p.get("childPosts") or []
@@ -208,8 +217,6 @@ def save_posts_to_markdown(
         }
         if views is not None:
             frontmatter["views"] = views
-        if duration is not None:
-            frontmatter["duration"] = duration
         if location:
             frontmatter["location"] = location
         if audio_info and isinstance(audio_info, dict):
@@ -224,26 +231,33 @@ def save_posts_to_markdown(
         if ptype == "reel" and video_url:
             frontmatter["videoUrl"] = video_url
 
-        # Reel Audio Transcription via Sarvam AI
         transcript_section = ""
-        if ptype == "reel" and transcribe_reels:
-            pre_transcript = p.get("transcript")
-            turns: list[dict[str, str]] = []
-            if isinstance(pre_transcript, str) and len(pre_transcript.strip()) > 10:
-                turns = [{"t": "00:00:00", "speaker": "1", "text": pre_transcript.strip()}]
-            else:
-                # Prefer permanent post URL (which yt-dlp resolves fresh), fallback to video_url
+        if ptype == "reel":
+            previous = transcript_metadata(filepath) if filepath.exists() else {}
+            previous_text = filepath.read_text(encoding="utf-8") if previous else ""
+            if (str(previous.get("id")) == post_id and previous.get("transcript") is True
+                    and "## Transcript\n" in previous_text):
+                # Refresh post metadata without a second paid transcription or losing saved speech.
+                transcript_section = ("\n\n## Transcript\n"
+                                      + previous_text.split("## Transcript\n", 1)[1].split("\n## ", 1)[0].rstrip("\n") + "\n")
+                for key in ("transcript", "model", "speaker_count", "speakers"):
+                    if key in previous:
+                        frontmatter[key] = previous[key]
+            elif transcribe_reels:
                 target_url = url or video_url
-                if target_url:
-                    turns = transcribe_media_url(target_url)
-                    if not turns and video_url and video_url != target_url:
-                        turns = transcribe_media_url(video_url)
-            if turns:
-                frontmatter["transcript"] = True
-                t_lines = ["\n\n## Transcript\n"]
-                for t in turns:
-                    t_lines.append(f"### {t['t']} · Speaker {t['speaker']}\n\n{t['text']}\n")
-                transcript_section = "\n".join(t_lines)
+                cache = posts_dir.parent / CACHE_DIR / f"{filepath.stem}.json"
+                result = transcribe_media_url(target_url, context=f"Caption (context only): {caption}",
+                                              cache_path=cache) if target_url else None
+                # A saved provider job must resume, not be resubmitted via a different URL.
+                if (result is None and video_url and video_url != target_url
+                        and not cache.with_suffix(".job.json").exists()):
+                    result = transcribe_media_url(video_url, context=f"Caption (context only): {caption}",
+                                                  cache_path=cache)
+                if result is not None:
+                    speakers = {s["id"]: s["label"] for s in result["speakers"]}
+                    frontmatter.update(transcript=True, model=result["model"],
+                                       speaker_count=result["speaker_count"], speakers=speakers)
+                    transcript_section = "\n\n## Transcript\n\n" + transcript_body(result).rstrip("\n") + "\n"
 
         # Carousel Slides Extraction & Gemini Flash OCR
         carousel_section = ""
@@ -304,12 +318,13 @@ def save_posts_to_markdown(
         }
         if views is not None:
             entry["views"] = views
-        if duration is not None:
-            entry["duration"] = duration
         if child_posts:
             entry["slide_count"] = len(child_posts)
         if transcript_section:
-            entry["hasTranscript"] = True
+            entry["hasTranscript"] = transcript_section.endswith("\n")
+            for key in ("model", "speaker_count", "speakers"):
+                if key in frontmatter:
+                    entry[key] = frontmatter[key]
         post_index.append(entry)
 
     return post_index

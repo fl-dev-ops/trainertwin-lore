@@ -1,14 +1,15 @@
 ---
 id: riKs7yeMVDE
-title: "6 months Training + Pre-Qualified leads. Join the Team in Dubai! \u2714"
-url: https://www.youtube.com/shorts/riKs7yeMVDE
+title: 6 months Training + Pre-Qualified leads. Join the Team in Dubai! ✔
 date: '2025-04-29'
-duration: 00:00:34
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/riKs7yeMVDE
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-How to make one million selling of one I bet you kind of triggering a oh god one million seems like a good deal anyway Im going through all of this on my next open day with one work group which gonna be here in Marina if you want to come and hear what Im saying and understand how with the right company and the right strategies you can become a top builder within my six month training program you can register with the link which is down below were gonna contact you and invite you to see
-
-
-Me in person eh But hopefully see you next Open Day
+How to make one million selling of one I bet you kind of triggering Oh God one million seems like a good deal Anyway Im going through all of this on my next open day with One Broker Group which going to be here in Marina If you want to come and hear what Im saying and understand how with the right company and the right strategies you can become a top biller within my six month training program you can register with the link which is down below Were going to contact you and invite You to see me in person Yeah well hopefully see you next open day

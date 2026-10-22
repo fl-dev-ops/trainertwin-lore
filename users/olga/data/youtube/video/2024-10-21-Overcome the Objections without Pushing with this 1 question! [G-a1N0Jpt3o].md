@@ -1,15 +1,15 @@
 ---
 id: G-a1N0Jpt3o
 title: Overcome the Objections without Pushing with this 1 question!
-url: https://www.youtube.com/shorts/G-a1N0Jpt3o
 date: '2024-10-21'
-duration: 00:00:35
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/G-a1N0Jpt3o
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 2
+speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
 ---
 
 
@@ -17,14 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Can I share a perspective Are you open to a different perspective This those type of questions are going to create on the client side an automatic response yes
-
-### Speaker 2
-
-Because no ones gonna say no Im not open
-
-### Speaker 1
-
-Psychologically when I am as a client saying yes Im way more open to accept whatever you are telling me now the difference that me jumping into pitching mode and telling him yes but look there is this feature and this benefit and Dubai is way better in Tokyo is even more expensive
+Can I share a perspective Are you open to a different perspective This those type of questions gonna create on the client side an automatic response yes because no one gonna say no Im not open Psychologically when I am as a client saying yes Im way more open to accept whatever you are telling me now The difference That me jumping into pitching mode and telling him yes but look there is this feature and this benefit and Dubai is way better and Tokyo is even more expensive

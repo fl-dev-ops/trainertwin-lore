@@ -1,16 +1,17 @@
 ---
 id: Qn12gq2hcxA
 title: 'Real Sales call review: Why you are not Closing'
-url: https://www.youtube.com/watch?v=Qn12gq2hcxA
 date: '2025-08-25'
-duration: 00:11:13
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=Qn12gq2hcxA
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 3
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  '1': Speaker 1
+  '2': Speaker 2
+  '3': Speaker 3
 ---
 
 
@@ -18,151 +19,122 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Hi and in this video were going to be digging into what to say on the phone call with a client who submitted his inquiries four or five or even six months ago how to talk to the aged leads because out of the aged leads the old leads or recycled leads whatever your company is using as a terminology for that you can still close a lot of deals in this video Im going to break down an existing call which
+Hi and in this video were going to be digging into what to say on the phone call with a client who submitted his inquiries 4 5 or even 6 months ago How to talk to the aged leads because out of the aged leads the old leads or recycled leads whatever your company is using as a terminology for that you can still close a lot of deals In this video Im gonna break down an existing call which Um an agent in my coaching program is executing using the fantastic script that I provide which literally changes the conversion rate from maybe 10 percent up to like lets say 40 percent And even though he has a script hes trained by me hes still not there yet So I will show you what hes doing right and what should be done additionally to make You book a 100 percent guaranteed Zoom meeting out of the age lead
 
+### Speaker 2 · Speaker 2
 
-uh an agent in my coaching program is executing using the fantastic script that i provide which literally changed the conversion rate from maybe 10 up to like lets say 40 and even though he has a script hes trained by me hes still not there yet so i will show you what hes doing right and what should be done additionally to make you book a hundred percent
+Hello
 
+### Speaker 3 · Speaker 3
 
-guaranteed zoom meeting out of the age limit
+Hello
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-And low
+Hi is that Haji speaking Am I pronouncing your name correctly Sorry
 
+### Speaker 3 · Speaker 3
 
-Hi there how are you
+Yes
 
+### Speaker 2 · Speaker 2
 
-Thank you Am I pronouncing your name correctly Sorry
+Hey Haji its Rahul from One Broker Group here in Dubai Is this a bad time
 
+### Speaker 1 · Speaker 1
 
-Hey Heidi its uh Rahul from One Broken Group here in Dubai uh is this a bad time
+So what he is saying am I pronouncing your name correctly Um if you if you were not sure how to pronounce the name of the person I would highly advise you just to go to ChatGPT and it will help you Because if youre just jumping into the I am not sure if Im pronouncing your name correctly youre giving away an information hi I dont know you Im a stranger calling you probably its going to be a sales call which gonna effectively activate the sales resistance in almost lets say 90 percent of human And then instead of asking the question about you know availability the way I teach it did I get you in a bad time Hes asking is it a bad time Do you see the difference How the answer can differ from simply the way you ask the question
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-So what he is saying am I pronouncing your name correctly If youre if you were not sure how to pronounce the name of the person I would highly advise you just to go to chat GPT and it will help you Because if youre just jumping into the I am not sure if Im pronouncing your name correctly youre giving away an information Hi I dont know you Im a stranger calling you Probably its going to be a sales call which is going to effectively activate the sales resistance in almost lets say
+Im just having like five minute break Yes
 
+### Speaker 2 · Speaker 2
 
-saying 90 percent of human beings And then instead of asking the question about you know availability the way I teach it did I get you in a bad time Hes asking is it a bad time
+I can see in my system that at some point you may have been interested in investing in Dubai real estate So I was just doing some updates Just to check if you have already found what youre looking for or perhaps youre still looking
 
+### Speaker 3 · Speaker 3
 
-Do you see the difference how the answer can differ from simply the way you ask the question
+Uh no I think
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-I can see in my system that at some point you may have been interested in investing in Dubai real estate so I was just doing some updates just to check if you have already found what youre looking for or perhaps youre still looking
+That actually executed almost perfectly My favorite question to kind of kickstart the conversation Have you have you found what youre looking for or you are still looking Curious a little bit concerned tone which enables the person to tell you the story what actually happened rather than You know just giving you yes or no answer
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-that actually executed almost perfectly my favorite question to kind of kick start the conversation have you have you found what youre looking for or be you still looking curious a little bit concerned on which is enable the person to tell you the story what actually happened rather than you know just just giving you yes or no answer
+To find what Im looking for we had like a lot of agencies contact me and they give me the floor plan and everything but we didnt decide which one were going to take so far but were just still looking
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-find what Im looking for we had like a lot of agency contact me and they give me the floor plan and everything but we didnt decide which one were going to take so far but were just still looking
+Youre still looking Okay So have you kind of sat down with I dont know a professional whos guided you through you know the inside market data on actual sales transactions over the last 3 to 5 years just to help you understand No
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-Oh
+no
 
+### Speaker 1 · Speaker 1
 
-Youre still looking okay so have you kind of sat down with um I dont know some a professional whos guided you through you know the inside market data on actual sales transactions over the last three to five years just to help you
+Look what he is doing its out of my script as well He is immediately trying to book a Zoom meeting with her Well it might not sound like this for you because usually you are booking a Zoom meeting saying oh I need to have a Zoom meeting with you or can you have a Zoom meeting with me So look What she answered on the question but what she really said First of all you have to listen carefully to the client So if you know the script if you know the questions that you ask its easy for you to kind of focus your attention on the client So she said we Ah the first indication there is someone else probably a husband because we are talking to a wife Weve seen something The agents been sending us floor plans but were still confused What we will take and this is a very very common situation for anyone who is trying to invest into buy real estate because the the agents out there maybe youre one of them are thinking if Im just going to send them the whole possible PDFs and files and pictures they will be able to make a choice But realistically the way it looks from their perspective is just so confusing There is so many options I do not have a clarity and I do not believe even in my ability to choose So thats why the closing or transition into the booking the Zoom meeting that my agent is executing so effective I will try to kind of scroll down to the beginning of his his transition into the booking so you will hear it one more time
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-Like uh what he is doing its out of my script as well He is immediately trying to book a Zoom meeting with her Well it might not sound like this for you because usually you are booking a Zoom meeting saying oh I need to have a Zoom meeting with you or can you have a Zoom meeting with me So look what she answered on the question but what she really said first of all you have to
+Okay so have you kind of sat down with um I dont know some professional whos guided you through you know the inside market data on actual sales transactions over the last 3 to 5 years just to help you
 
+### Speaker 3 · Speaker 3
 
-Listen carefully to the client So if you know the script if you know the questions that you ask its easy for you to kind of focus your attention on the client So she said we ah the first indication that there is someone else probably a husband because we are talking to a wife Weve seen something the agents been sending us floor plans but we still confuse what we will take And this is a very very common situation for anyone who is trying to invest in Dubai
+No no we didnt do yet Okay no my husband dealing with that thing
 
-
-real estate because the the agent out there maybe youre one of them i think in if im just going to send them the whole possible pdfs and files and the pictures they will be able to make a choice but realistically the way it looks from their perspective is just so confusing there is so many options i do not have a clarity and i do not believe even in my ability to choose so thats why the
-
-
-closing or transition into the booking the zoom meeting that my agent is executing so effective i will try to kind of scroll down to the beginning of his his transition into the booking so you will hear it one more time
-
-### Speaker 2
-
-Okay so have you kind of sat down with um a professional whos guided you through you know the inside market data on actual sales transactions over the last three to five years just to help you
-
-### Speaker 3
-
-No no we didnt do yet that yet nah my husband dealing with us things
-
-### Speaker 2
-
-My husband
-
+### Speaker 2 · Speaker 2
 
 Sorry
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-My husband is the one whos dealing with this thing but I dont think he get any any information any details
+I think my husband is the one whos dealing with this thing but I dont think he get any any information anything
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Alright would it be helpful for maybe you and your husband to jump on a zoom call and then I can perhaps get a better understanding of what exactly youre trying to get out of this just so I can tailor this the opportunities to you much better I would say
+All right would it be helpful for maybe you and your husband To jump on a Zoom call and then I can perhaps get a better understanding of what exactly youre trying to get out of this just so I can tailor uh this the opportunities to you much better I would say Um oh
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Ah okay yeah
+okay
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-You see Oh okay First of all what you have to distinguish here shes not the one whos making decision even the slightest It doesnt mean that she shouldnt be on that call Thats why my agent is going to for you and your husband which is a good position Shes saying my husband is dealing with that So he heard that However and you will now hear it in the further like the end of the conversation She was not yet fully convinced
+Yeah
 
+### Speaker 1 · Speaker 1
 
-that he has a needed authority as a professional to actually tell her something she doesnt know because remember he just called her out of the blue she had five minutes on the time he asked her are you still looking she said yes my husband is dealing with that and then he immediately went into the transition and booking presentation however you can see in my script there is a lot of
+you see Oh okay First of all what you have to distinguish here shes not the one whos making decision even the slightest It doesnt mean that she shouldnt be on that call Thats why my agent is going to for you and your husband which is a good position Shes saying my husband is dealing with that so he heard that However and you will now hear it in the further like the end of the conversation um she was not yet fully convinced that he has needed authority as a professional to actually tell her something she doesnt know Because remember he just called her out of the blue She had 5 minutes of time He asked her are you still looking She said yes my husband is dealing with that And then he immediately went into the transition and booking a presentation However you can see in my script there is a lot of additional questions that you have to ask So through this question you actually will build the authority in the eyes of your potential client So he will not only be happy to Say yes but actually attend the meeting because past pacing in the future she agreed to meet but havent met my agent yet I keep postponing the thing But lets listen to how he was trying to get out of the situation Its a long conversation about the email
 
+### Speaker 2 · Speaker 2
 
-questions that you have to ask so for this question you actually will build the authority in the eyes of your potential client so he will not only be happy to say yes but actually attend the meeting because past facing in the future she agreed to meet but havent met my agent yet I keep postponing the thing but lets listen to how he was trying to get out of the situation so its a long conversation but the email
+So Haji let me send you an email and perhaps we can me you and your husband can get on a Zoom call and I can get a better understanding of what it is Maybe you guys are looking for and I can try and help you out
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-Um so Haji let me send you an email and perhaps we can me you and your husband can get on a zoom call and we I can get a better understanding of what it is maybe you guys are looking for and I can find help for you guys
+Okay yes yes sounds good
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Okay yeah yes sounds good
+All right Heidi sounds good Ill drop you an email as well as a WhatsApp Um would it be helpful for you maybe if I took your husbands number down as well
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Yep All right Ill drop you an email as well as a WhatsApp Would it be helpful for you maybe if I took your husbands number down as well
+A good try Hes going for the husband number because he understood that its kind of useless to get into And then the other question What do you want to see in this email Right Yes for you to make sense Its Its another if he will ask that question its another opportunity for him to get out of the meeting to continue the conversation with her now whats important for her then to ask her additional questions then potentially to book a meeting that she will bring her husband because she will feel like oh my God these guys really can give us more clarity However it doesnt mean that everything works 100 percent of the time but you can still try
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-A good try he is going for the husband number because he understood that its kind of useless to get into And then the other question what do you want to see in this email right yes for you to make sense Its another if he will ask that question its another opportunity for him to get out of the meeting to continue the conversation with her now whats important for her then to ask her additional question then potentially to book a meeting that she will bring her husband because she will feel like oh my God this guys really can give us more clarity
+I cant pass you his number I have to talk to him first Im very sorry but with the email I will I can answer the email and if he shes a gatekeeper I can pass you his information
 
+### Speaker 2 · Speaker 2
 
-However its it doesnt mean that everything works 100 percent of the time but you can still try
+All right perfect As you know it sounds good
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-I cant pass you his number I had to talk to his parents Im very sorry but with the email uh I will I can answer the email and if he if hes agreed to everything I can pass you his information
-
-### Speaker 1
-
-Choose a great feedback
-
-### Speaker 2
-
-All right perfect as you know it sounds good
-
-### Speaker 1
-
-Okay so lets summarize what he did He did distinguish if shes still looking for he understood that she has a main decision maker who is doing all of the research and conversations potentially but why this number being registered with us Because she was clicking on some meds as well And then he was trying to go immediately thats the first mistake without having a deeper conversation with her what theyve seen so far
-
-
-What about the floor plans What they like what they didnt like Have they physically visit or theyve been you know trying to understand the market from abroad Just to give her a bit of you know its like on the date When you ask for the person you on a blind date for a marriage after 20 minutes of your conversation theyre probably gonna be a no But if its gonna be you know a second date maybe a second hour you might have a
-
-
-different answer oh by the way if you feel like you like this video so you can comment below um and give me a thumbs up subscribe to the channel there is a private membership which i call my leave it up online training academy where i share in depth lets say case studies like this on the different zoom meetings recording call recording with the client all of my lectures which i ever done of my five
-
-
-years career being a sales trainer in Dubai and I packed it with knowledge which I have from 10 years working in the industry so if you want that Im definitely going to link that down below on how to join and if you kind of you know I dont want to say that but probably tired of just watching the free content and you want to kind of start making real traction and making money in Dubai real estate you can follow me on Instagram and write me a message over there
-
-
-I personally respond on my DMs If so I will talk to you on Insta or see you in the next video
+Okay so uh lets sum her up What he did he did distinguish if shes still looking for he understood that she has a main decision maker who is doing all of the research and conversations potentially But why this number been registered with us Because she was clicking on some ads as well And then he was trying to go immediately thats the first mistake without having a deeper conversation with her What theyve seen so far what about the floor plans what they like what they didnt like have they physically visited or theyve been you know trying to understand the market from abroad just to give her a bit of You know its like on the date when you ask for the person you on a blind date for a marriage after twenty minutes of your conversation theyre probably going to be a no But if its going to be you know second date or maybe second hour you might have a different answer Oh by the way if if you feel like you like this video so you can comment below and give me a thumbs up Subscribe to the channel There is a private membership which I call my Live It Up Online Training Academy where I share in depth lets say case studies like this on the different Zoom meetings recording call recording with the client all of my lectures which I ever done of my 5 years career being a sales trainer in Dubai And I packed it with knowledge which I have from 10 years working in the industry So So if you want that Im definitely going to link that down below how to join And if you kind of you know I dont want to say that but probably tired of just watching the free content and you want to kind of start making real traction and making money in Dubai real estate you can follow me on Instagram and write me a message over there I personally respond on my DMs If so I will talk to you on Insta or See you in the next video

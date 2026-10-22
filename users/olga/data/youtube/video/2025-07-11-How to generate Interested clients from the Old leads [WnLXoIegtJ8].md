@@ -1,15 +1,15 @@
 ---
 id: WnLXoIegtJ8
 title: How to generate Interested clients from the Old leads
-url: https://www.youtube.com/watch?v=WnLXoIegtJ8
 date: '2025-07-11'
-duration: 00:05:28
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=WnLXoIegtJ8
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 2
+speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
 ---
 
 
@@ -17,47 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-how to get more leads how to generate more leads and realistically if you will ask your company can you give me more leads they will put you on a calculator okay one lead costs 400 you want uh five leads a day so it comes to 2 000 dirhams a day do you feel that any company in dubai will feed you specifically with daily 2 000 leads how much its going to be in 21 day do you want to calculate it yourself so the best source of leads that i discovered
-
-
-for the real estate agent selling off land is
-
-### Speaker 2
-
-Bum bum
-
-### Speaker 1
-
-age leads so for you to be able approach age leads understanding that the sales cycle in dubai it is six to twelve months and pull them in and get them interested this video specifically i recorded so uh do not hesitate to subscribe but click notification button so youre not gonna miss another video with me about the sales tricks and how to make consistent income in dubai commission only real estate market see you in your next one guys what you are doing
-
-
-as a salesperson approaching the cold leads or age leads which are really cold is your goal is to elicit the intent a curiosity a curiosity because thats you are the big board on the shake side road and I hate to use this example but I will use it because Im using it all the time right if I do not have a problem with my hair right I dont need hair implants right I dont need like never thought I will need I have a lot of hair you just keep falling on the floor still I
-
-
-have it dont know how is it happening for 45 years keep falling still have hair the same amount magic so thats not my problem you can bring the biggest big board on the shakes are dro and advertise the hair implants on papa doing this in one day you just will I ever be able to see this will I ever have attention to even notice it someone who has a problem is like look this is a very very new technology you know they basically
-
-
-taking the hair from um I dont know the the hedgehogs and then and putting it in the head it just fantastically magically grows on you and it was like really how do you know about that it was on Sheik Zaid or just there you pass it every day and I was like really I pass it every day wow I dont know never seen it never heard about that why because its not my problem
-
-
-to get back to the video in a second um there is a course and i created it for those who still feel that the cold calling skills the communication and closing skills over the phone are not there yet i have a lot of messages on how to and i put everything as a step by step process in a course where i teach you how to become a money making machine and start closing this month and consistently for the course of your blowing the mind created by real estate lets jump to the video and this
-
-
-The description of the course is in the description of this video linked to the course not the description So the people who do have some problems theyre automatically the brain is conditioned to look for solutions when you were looking for a new model of the car or buying a car you decided on certain model was that the case that you start seeing the same model on the road more often
-
-
-Magic right Why Theres nothing magic because youve been thinking about youre conditioning yourself to see that Guys this is how the manifesting works Have you ever heard about manifesting Yes Yeah Theres exactly this Theres no magic about it If you consciously every day are going to put in your mind what do you want to do whom do you want to become which skills are not only put in your mind but specifically doing some actions towards that you will have a lot of opportunities in front of you
-
-
-you you will start seeing the opportunities they were there all the time by the way its not like you start seeing them they were there all the time youre just able now to see that but thats why im going to be blind to any hair
-
-
-Not gonna see that Coming back why Im even talking about this the cold call you are the big board
-
-
-now you are doing marketing activity because cold calling or age leads calling is a marketing activity is not sales activity so you are trying to find who is interested but if youre gonna say are you interested youre gonna receive the answer no thats why in my script where Im teaching after the call open and stuff like this you say Im just doing some updates in my system I just called to see have you have you found what youre looking for or you are still looking
-
-
-I grab it out of you have you found what youre looking for you are still looking thats the opening because what the telesales people over there are doing because they were trained and coached by the sales techniques which been 40 years in use as soon as you pick up the phone hi its because they think its I have to push through and tilt you gonna cut the line right I understand immediately the salesperson on the phone immediately
+How to get more leads How to generate more leads And realistically if you will ask your company can you give me more leads They will put on a calculator Okay one lead costs 400 You want uh 5 leads a day so it comes to 2000 dirhams a day Do you feel that any company in Dubai will feed you specifically with daily 2000 leads How much its going to be in 21 days Do you want to calculate it yourself So the best source of leads that I discovered for the real estate agent selling off plan is boom boom age leads So for you to be able approach age leads understanding that the sales cycle in Dubai is six to twelve months and pull them in and get them interested This video specifically I recorded So do not hesitate to subscribe and click notification button so youre not gonna miss another video with me But the sales tricks and how to make consistent income in Dubai commission only real estate market See you in your next one guys What you are doing as a salesperson approaching the cold leads or aged leads which are really cold is your goal is to elicit the intent a curiosity a curiosity because thats you are the big board on the Sheikh Zayed Road And I hate to use this example but I will use it because Im using it all Right If I do not have a problem with my hair right I dont need hair implants right I dont need like never thought I will need I have a lot of hair Just keep falling on the floor Still I have it Dont know how is it happening For 45 years keep falling Still have hair The same amount Magic So thats not my problem You can bring the biggest big board on the Shakespeare Road and advertise the hair implants on pa pa pa doing this in one day You just Will I ever be able to see this Will I ever have attention to even notice it Someone who has a problem is like look this is a very very new technology you know Theyre basically taking the hair from um I dont know the the hedgehogs and then putting it in the head It just fantastically magically grows on you And I was like really How do you know about that It was on Sheikh Zayed Road just there You pass it every day And I was like really I pass it every day Wow I dont know Never seen it Never heard about that Why Because its not my problem Boom Were gonna get back to the video in a second There is a course and I created it for those who still feel that the cold calling skills the communication and closing skills over the phone are not there yet I have a lot of messages on how to and I put everything as a step by step process in a course where I teach you how to become a money making machine and start closing this month and consistently for the course of your blowing the mind career in Dubai real estate Lets jump to the video and description of the course is in the description of this video link to the course not the description So the people who do have some problems they automatically the brain is conditioned to look for solutions When you were looking for a new model of the car or buying a car you decided on certain model Was that the case that you start seeing the same model on the road more often True magic right Why Theres nothing magic because youve been thinking about youre conditioning yourself to see that Guys this is how the manifesting works Have you ever heard about manifesting Yes Yeah thats exactly this Theres no magic about it If you consciously every day gonna put in your mind what do you want to do whom do you want to become which skills Not only put in your mind like specifically doing some actions towards that you will have a lot of opportunities in front of you You will start seeing the opportunities They were there all the time by the way Its not like you start seeing them They were there all the time Youre just able now to see that But thats why Im going to be blind to any hair thing Not going to see that Coming back why Im even talking about this The cold call you are the big board Is now you are doing marketing activity because cold calling or age leads calling is a marketing activity is not sales activity So you are trying to find who is interested But if youre gonna say are you interested youre gonna receive the answer no Thats why in my script when Im teaching after the call open and stuff like this you say Im just doing some updates in my system I just called to see Have you have you found what youre looking for You are still looking I grab it out of you Have you found what youre looking for You are still looking Thats the opening because what the telesales people over there are doing because they were trained and coached by the sales techniques which been forty years in use As soon as you pick up the phone hi its trading Because they think its a I have to push through and till he gonna cut the line right I understand immediately the salesperson on the phone immediately

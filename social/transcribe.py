@@ -14,8 +14,9 @@ import re
 import subprocess
 import tempfile
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import CancelledError, ThreadPoolExecutor, as_completed
 from pathlib import Path
+from threading import BoundedSemaphore, Event
 from urllib.parse import urlparse
 
 import httpx
@@ -30,6 +31,13 @@ MODEL = "universal-3-5-pro"
 API_BASE = "https://api.assemblyai.com"
 CACHE_DIR = "assemblyai-json"
 POLL_TIMEOUT = 3600
+# Limit heavy transfers after observed 502s; worker slots can still poll/transcribe concurrently.
+_DOWNLOAD_SLOTS = BoundedSemaphore(5)
+_UPLOAD_SLOTS = BoundedSemaphore(3)
+
+
+class AssemblyAIAccountError(RuntimeError):
+    """Stop scheduling paid work when credentials, permissions or credits are blocked."""
 
 
 def get_api_key(api_key: str | None = None) -> str:
@@ -81,7 +89,7 @@ def _assembly_transcript(data: dict) -> dict:
     if text is None and words == [] and utterances == []:
         text = ""  # Provider's explicit no-speech result.
     if not isinstance(text, str) or not isinstance(words, list) or not isinstance(utterances, list):
-        raise ValueError("Malformed AssemblyAI transcript/diarization")
+        raise TypeError("Malformed AssemblyAI transcript/diarization")
     if not text.strip():
         if words or utterances:
             raise ValueError("Empty AssemblyAI text alongside spoken words")
@@ -89,15 +97,13 @@ def _assembly_transcript(data: dict) -> dict:
     if not words or not utterances:
         raise ValueError("AssemblyAI returned text without words or speaker turns")
     speakers, turns, ids = [], [], {}
-    previous_end = 0
     for row in utterances:
         speaker = row.get("speaker") if isinstance(row, dict) else None
         if (not isinstance(speaker, str) or not speaker.strip()
                 or not isinstance(row.get("text"), str) or not row["text"].strip()
                 or type(row.get("start")) not in (int, float) or type(row.get("end")) not in (int, float)
-                or not 0 <= row["start"] <= row["end"] or row["end"] < previous_end):
+                or not 0 <= row["start"] <= row["end"]):
             raise ValueError("Invalid AssemblyAI speaker turn")
-        previous_end = row["end"]
         if speaker not in ids:
             ident = str(len(ids) + 1)
             ids[speaker] = ident
@@ -119,7 +125,8 @@ def _request(client: httpx.Client, method: str, path: str, **kwargs) -> dict:
             continue
         if response.is_error:
             # Provider errors can contain URLs/content; do not print response bodies or keys.
-            raise RuntimeError(f"AssemblyAI HTTP {response.status_code} during {method} {path}")
+            error = AssemblyAIAccountError if response.status_code in {401, 402, 403} else RuntimeError
+            raise error(f"AssemblyAI HTTP {response.status_code} during {method} {path}")
         data = response.json()
         if not isinstance(data, dict):
             raise TypeError("Malformed AssemblyAI response")
@@ -128,7 +135,7 @@ def _request(client: httpx.Client, method: str, path: str, **kwargs) -> dict:
 
 
 def transcribe_audio(audio: Path, context: str = "", api_key: str | None = None,
-                     *, cache_path: Path | None = None) -> dict:
+                     *, cache_path: Path | None = None, stop_event: Event | None = None) -> dict:
     """Transcribe a local audio/video file. The caller's original file is never deleted.
 
     A cache path also enables durable job-ID checkpoints: interrupted polling resumes
@@ -158,13 +165,19 @@ def transcribe_audio(audio: Path, context: str = "", api_key: str | None = None,
             ident = job["id"]
             status("AssemblyAI: resuming transcription job")
         else:
+            if stop_event is not None and stop_event.is_set():
+                raise AssemblyAIAccountError("AssemblyAI account blocked; no new upload submitted")
             status("AssemblyAI: uploading temporary audio")
-            with audio.open("rb") as handle:
+            with _UPLOAD_SLOTS, audio.open("rb") as handle:
+                if stop_event is not None and stop_event.is_set():
+                    raise AssemblyAIAccountError("AssemblyAI account blocked; no new upload submitted")
                 uploaded = _request(client, "POST", "/v2/upload", content=handle,
                                     headers={"content-type": "application/octet-stream"})
             url = uploaded.get("upload_url")
             if not isinstance(url, str) or urlparse(url).scheme != "https":
                 raise ValueError("AssemblyAI upload returned no HTTPS media URL")
+            if stop_event is not None and stop_event.is_set():
+                raise AssemblyAIAccountError("AssemblyAI account blocked; no new transcription submitted")
             job = _request(client, "POST", "/v2/transcript", json={**config, "audio_url": url})
             ident = job.get("id")
             if not isinstance(ident, str) or not re.fullmatch(r"[A-Za-z0-9-]+", ident):
@@ -204,12 +217,17 @@ def download_video_audio(video_url: str, output_dir: Path) -> Path | None:
     from .youtube.cli import ytdlp_auth_args, ytdlp_error
     output_dir.mkdir(parents=True, exist_ok=True)
     errors = []
-    for client, fallback_format in (("web_embedded", None), ("android_vr", None), ("mweb", "18")):
+    auth_args = ytdlp_auth_args()
+    clients = [("web_embedded", None), ("android_vr", None), ("mweb", "18")]
+    if auth_args:
+        clients.insert(0, ("default", None))  # Let yt-dlp choose a cookie-compatible client first.
+    for client, fallback_format in clients:
         status(f"YouTube: downloading audio {video_url} ({client})")
         format_args = ["-f", fallback_format] if fallback_format else []
+        client_args = [] if client == "default" else ["--extractor-args", f"youtube:player_client={client}"]
         result = subprocess.run(
             ["yt-dlp", "--no-update", "-x", "--audio-format", "mp3", "--audio-quality", "0", "--no-playlist",
-             *format_args, "--extractor-args", f"youtube:player_client={client}", *ytdlp_auth_args(),
+             *format_args, *client_args, *auth_args,
              "-o", str(output_dir / "%(title)s [%(id)s].%(ext)s"), video_url],
             capture_output=True, text=True, check=False, timeout=1800)
         files = [p for p in output_dir.glob("*.mp3") if p.stat().st_size > 0]
@@ -273,7 +291,8 @@ def transcribe_media_url(media_url: str, api_key: str | None = None, context: st
         key = get_api_key(api_key)
         with tempfile.TemporaryDirectory() as temporary:
             status("Reel: downloading / extracting temporary audio")
-            audio = download_audio_ephemeral(media_url, Path(temporary))
+            with _DOWNLOAD_SLOTS:
+                audio = download_audio_ephemeral(media_url, Path(temporary))
             if audio is None:
                 raise ValueError("No extracted audio")
             return transcribe_audio(audio, context, key, cache_path=cache_path)
@@ -357,17 +376,22 @@ def save_transcript(video: dict, result: dict, video_dir: Path) -> Path:
 
 
 def transcribe_videos(platform: str, selected: list[dict], video_dir: Path,
-                      download, api_key: str | None = None, workers: int = 2) -> None:
-    """One orchestration path for YouTube and Loom, including caching and concurrency."""
+                      download, api_key: str | None = None, workers: int = 2,
+                      *, retranscribe: bool = False, backup_dir: Path | None = None) -> None:
+    """One orchestration path; explicit migrations back up originals before replacement."""
     if workers < 1:
         raise ValueError("--workers must be at least 1")
+    if retranscribe and backup_dir is None:
+        raise ValueError("Re-transcription requires a backup directory")
+    stopped = Event()
     pending = []
     for video in selected:
         ident = str(video["id"])
-        if needs_transcript(video_dir, ident):
+        path = transcript_path(video_dir, ident)
+        meta = transcript_metadata(path) if path else {}
+        if needs_transcript(video_dir, ident) or (retranscribe and meta.get("model") != MODEL):
             pending.append(video)
         else:
-            meta = transcript_metadata(transcript_path(video_dir, ident))
             for key in ("model", "speaker_count", "speakers"):
                 if key in meta:
                     video[key] = meta[key]
@@ -377,6 +401,8 @@ def transcribe_videos(platform: str, selected: list[dict], video_dir: Path,
         board.add_job(str(video["id"]), str(video.get("title") or video["id"]))
 
     def run_one(video: dict) -> None:
+        if stopped.is_set():
+            return
         ident = str(video["id"])
         with active_job(board, ident):
             cache = video_dir.parent / CACHE_DIR / f"{ident}.json"
@@ -386,7 +412,10 @@ def transcribe_videos(platform: str, selected: list[dict], video_dir: Path,
                 key = get_api_key(api_key)
                 with tempfile.TemporaryDirectory() as temporary:
                     board.update(ident, stage="downloading audio", step=1, style="yellow")
-                    mp3 = download(video["url"], Path(temporary))
+                    with _DOWNLOAD_SLOTS:
+                        if stopped.is_set():
+                            return
+                        mp3 = download(video["url"], Path(temporary))
                     if mp3 is None:
                         raise ValueError(f"Download failed for {platform} video {ident}")
                     match = re.search(r"\[([a-zA-Z0-9_-]+)\]$", mp3.stem)
@@ -394,9 +423,19 @@ def transcribe_videos(platform: str, selected: list[dict], video_dir: Path,
                         raise ValueError(f"Downloaded audio does not match selected {platform} video")
                     context = (f"Title: {video.get('title') or ''}\nChannel: {video.get('author') or ''}\n"
                                f"Description: {video.get('description') or ''}")
-                    result = transcribe_audio(mp3, context, key, cache_path=cache)
+                    try:
+                        result = transcribe_audio(mp3, context, key, cache_path=cache, stop_event=stopped)
+                    except AssemblyAIAccountError:
+                        stopped.set()
+                        raise
                 atomic_write(cache, json.dumps(validate_transcript(result), ensure_ascii=False, indent=2) + "\n")
             board.update(ident, stage="saving transcript", step=4.5, style="cyan")
+            if retranscribe:
+                original = transcript_path(video_dir, ident)
+                if original is not None:
+                    backup = backup_dir / original.name
+                    if not backup.exists():
+                        atomic_write(backup, original.read_text(encoding="utf-8"))
             save_transcript(video, result, video_dir)
             board.update(ident, stage="complete", done=True)
 
@@ -409,7 +448,13 @@ def transcribe_videos(platform: str, selected: list[dict], video_dir: Path,
         for future in finished:
             try:
                 future.result()
+            except CancelledError:
+                continue
             except Exception as exc:  # noqa: BLE001 - finish other sources before surfacing failures.
+                if isinstance(exc, AssemblyAIAccountError):
+                    stopped.set()
+                    for queued in futures:
+                        queued.cancel()
                 failures.append(exc)
                 if board.progress is not None:
                     board.update(str(futures[future]["id"]), stage="failed", error=str(exc))

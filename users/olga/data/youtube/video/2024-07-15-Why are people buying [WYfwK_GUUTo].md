@@ -1,14 +1,15 @@
 ---
 id: WYfwK_GUUTo
 title: Why are people buying?
-url: https://www.youtube.com/shorts/WYfwK_GUUTo
 date: '2024-07-15'
-duration: 00:00:24
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/WYfwK_GUUTo
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,6 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Because its no one is buying house because of the numbers always have to think that the property is just a vehicle where it brings them from point A to point B this is just a vehicle they want to feel a certain way if this is their own property they want to be able to do a certain things inside the property but this is not about the table its what about how Im going to feel sitting or playing around this table this is why Im buying right
+Because its no one is buying a house because of the numbers Always have to think that the property is just a vehicle who brings them from point A to point B This is just a vehicle They want to feel a certain way if this is their own property They want to be able to do certain things inside the property but this is not about the table Its what about how Im gonna feel sitting or playing around this table This is why Im buying right

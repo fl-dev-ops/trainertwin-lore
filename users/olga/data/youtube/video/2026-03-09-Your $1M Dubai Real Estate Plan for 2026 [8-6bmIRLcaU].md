@@ -1,14 +1,15 @@
 ---
 id: 8-6bmIRLcaU
 title: Your $1M Dubai Real Estate Plan for 2026
-url: https://www.youtube.com/shorts/8-6bmIRLcaU
 date: '2026-03-09'
-duration: 00:00:30
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/8-6bmIRLcaU
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-If you are the real estate agent in Dubai real estate and in 2026 you believe that thats gonna be my year the year when Im gonna make 1 million in commission but you really have no plan on how to do that you have to tune in to my youtube channel where I literally posted recently a youtube video where I explained how my coaching client made 1 million 650 000 and her own commission in her own pocket in 2025
-
-
-See you there
+If you are the real estate agent in Dubai real estate and in 2026 you believe oh thats going to be my year the year when Im going to make 1 million in commission but you really have no plan on how to do that you have to tune in to my YouTube channel where I literally posted recently a YouTube video where I explain how my coaching client made 1650000 in her own commission her own pocket in 2025 See you there

@@ -1,14 +1,15 @@
 ---
 id: btMVBcDuMV4
 title: 'Structure Over Confidence: Navigate Life''s Uncertainty #shorts'
-url: https://www.youtube.com/shorts/btMVBcDuMV4
 date: '2026-04-14'
-duration: 00:00:41
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/btMVBcDuMV4
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,12 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-If your life changed overnight the first thing you need is not confidence its a structure because when life gets unstable confidence disappear very fast and thats when most people start panicking overthinking scrolling freezing comparing but in moments like this you do not need to magically feel better first you need just a simple next step a move a plan a direction because when the life becomes
-
-
-Certain like it is now in Dubai structure comes your brain much faster than motivation ever will
-
-
-What is your structure today
+If your life changed overnight the first thing you need is not confidence its a structure Because when life gets unstable confidence disappears very fast And thats when most people start panicking overthinking scrolling freezing comparing But in moments like this you do not need to magically feel better first You need just a simple next step a move a plan a direction Because when the life becomes uncertain like it is now in Dubai Structure calms your brain much faster than motivation ever will What is your structure today

@@ -1,15 +1,15 @@
 ---
 id: LfV7n7UcW5s
-title: "\u201CJust Send Me Some Options\u201D = Dead End (Here\u2019s What to Say\
-  \ Instead)"
-url: https://www.youtube.com/shorts/LfV7n7UcW5s
+title: “Just Send Me Some Options” = Dead End (Here’s What to Say Instead)
 date: '2025-06-18'
-duration: 00:01:06
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/LfV7n7UcW5s
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -17,12 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-You know if the person is telling you just send me some options its a dead end Youre gonna send it with the brochures a 51 page of whatever fantastic pictures which your marketing team thinks absolutely creative Yeah oh its a very good creative Hell look at the files on his WhatsApp like mmm 51 page Im gonna do it later And then he never gets back to it never responds on your WhatsApp or calls Does that sound familiar So instead of that if anyone is telling
-
-
-you just send me some options first of all you have to remove the sales resistance if you havent heard uh my training on sales resistance im definitely going to link it down below here so remove the sales resistance saying yeah youre quite open to to to send you the the right options but just for me to select those um would that be okay if i will ask you a couple of questions just not to overload you with this you know useless material that you probably have a lot already on the whatsapp just to make sure that whatever i send going to be exactly matching
-
-
-your requirements would you be interested in kind of matching your requirements rather than just having bullshit
+You know if the person is telling you just send me some options its a dead end Youre gonna send it put the brochures a 51 page of whatever fantastic pictures which your marketing team thinks absolutely creative Yeah Oh its a very good creative He look at the files on his WhatsApp like 51 page Im gonna do it later And then he never gets back to it never responds on your WhatsApp or calls Does that sound Sound familiar So instead of that if anyone is telling you just send me some options first of all you have to remove the sales resistance If you havent heard my training on sales resistance Im definitely going to link it down below here So remove the sales resistance saying yeah youre quite open to to to send you the the right options but just for me to select those would that be okay if I will ask you a couple of questions Just not to overload you with this you know useless materials that you probably have a lot already on the WhatsApp Just to make sure that whatever I send whatever be exactly matching your requirements Would you be interested in kind of matching your requirements rather than just having bullshit

@@ -1,16 +1,16 @@
 ---
 id: F9RyJCZLCO8
-title: "How to Start a Real Estate Career in Dubai as a Woman \u2014 Her Proven Path!"
-url: https://www.youtube.com/watch?v=F9RyJCZLCO8
+title: How to Start a Real Estate Career in Dubai as a Woman — Her Proven Path!
 date: '2025-03-18'
-duration: 00:08:57
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=F9RyJCZLCO8
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 3
+speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -18,169 +18,118 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-You show me a way to think differently about about everything about how to like pitch things how to sell you give me really practical uh like exercise that I start implementing role play is amazing for me because I really get to to know what Im doing wrong and how I should do things better the next time you know I think you reach a point that youre not scared anymore because you have answer to every single objection every single thing that people throw at you a big goal in the company where I am its like we want to
+You show me a way to think differently about everything about how to pitch things how to sell You give me really practical exercises that I start implementing Roleplay is amazing for me because I really get to know what Im doing wrong and how I should do things better the next time I think you reach a point that youre not scared anymore because you have answers to every single objection every single thing that people throw at you A big goal in the company where I am Its like we want to reach 1 million net per agent So thats what were trying to reach this year
 
+### Speaker 2 · Speaker 2
 
-to reach one million net per agent so thats what were trying to to reach this year
+Hi in this video you will find out another story of my private coaching client Miriam moved to Dubai 10 years ago almost 11 and shed been in a different industry transitioning into real estate finding out that as much as shiny it looks like Its not that easy And if you are still Googling how to become a real estate agent in Dubai already arrived to the shiny city and trying to understand how to close your first deal my name is Olga Sinenko and Im real estate sales coach selling in Dubai myself for 10 years and for the past 4 years helping agents just like you and companies to train their sales team So you can now make this scale your income which you were always dreaming on without a fear where the next rental payment will come from Jump to the video Hi Maryam Thank you for taking your time with your busy schedule viewing and signing the MOU Im just going to ask you Simple question the first one why you decided to move to Dubai and how that you started the real estate career Because I know that you are not a real estate background
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Hi in this video you will find out another story of my private coaching client Miriam moved to Dubai 10 years ago almost 11 and shed been in a different industry transitioning into real estate finding out that as much as shiny it looks like its not that easy and if you are still googling how to become a real estate agent in Dubai already arrived to the shiny city and trying to understand
+Yeah yeah So actually Olga I moved to Dubai 11 years ago and I came here and I started working in the hospitality industry And actually most of my friends from university were moving to Dubai because so many hotels were opening Dubai was booming at that time already 11 years ago It keeps booming though And thats why like they were telling me you know theres so many opportunities in Dubai Its very safe Its an amazing lifestyle You can travel Like at that age you know you just dream about traveling So youre just a few hours away from most of the biggest exotic countries and everything So it was exciting for me to move to the city Also its very diverse and I lived all my life abroad So for me it was the perfect place to be And youre from Im from France
 
+### Speaker 2 · Speaker 2
 
-how to close your first deal my name is and im real estate sales coach selling into my myself for 10 years and for the past four years helping agents just like you and companies to train the sales team so you can now make this scale your income which you were always dreaming on um without a fear where the next rental payment will come from
+Youre from France
 
-
-to the video hi miriam thank you for taking your time of your busy schedule viewing and signing the mau um im just gonna uh ask you simple question the first one why you decided to move to dubai and and how that that you started the real estate career because i know that you are not a real estate background
-
-### Speaker 1
-
-Yeah yeah so actually Olga I I moved to Dubai 11 years ago and I came here and I started working in the hospitality industry and actually most of my friends from university were moving to Dubai because so many hotels were opening Dubai was booming at that time already 11 years ago its keep it keep booming though and and thats why like they were telling me you know theres so many opportunities in Dubai its very safe its an amazing lifestyle you can travel like at that age you know you just dream about traveling so youre just
-
-
-hours away from uh most of uh the the biggest exotic countries and everything so so it was exciting for me to to move to this city also its very diverse and i lived all my life abroad so for me it was the perfect place to be uh and youre from
-
-### Speaker 3
-
-And you form
-
-### Speaker 1
-
-Im from France
-
-### Speaker 3
-
-Thanks Ill show friends
-
-### Speaker 2
+### Speaker 1 · Speaker 1
 
 Yeah yeah yeah
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-But I guess its
+But thats because you know so many languages and you sound like a Spanish yeah I know I always think that youre from Spain
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-But I think you know so many languages and you sound like a Spanish yeah I know I always think that youre from Spain for something different of course
+Yeah no worries And I do speak Spanish so maybe the confusion and the accent my accent is totally mixed now
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-yeah no worries and i do speak spanish so maybe the confusion and the accent my accent is totally mixed now
+Your accent is Spanish for me
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-The accent is Spanish for me
+Oh yeah in all the languages I have an accent And uh yeah and you know I have seen Dubai evolving in 11 years I mean I wouldnt move anywhere else and I lived in many countries because for me this I feel home I have friends from all over the world Its super like everyone is so tolerant We celebrate every single like you know like we will celebrate Christmas Well go for iftar all together during Ramadan Diwali Like I mean and I love this kind of vibe This is really who I am you know And and now I have my family here Like I I met my husband after Actually after my first year in Dubai I met my husband so it quite helped me to make this decision of staying here And we have 2 kids and now as a mom to be honest I feel this is a safe place for my family You know like I dont have to worry about my kids safety There are so many activities for them So yeah so its
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Yeah
+So perfect Now we know that you can definitely sell Dubai to your investors
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-In all the language I have an accent and uh yeah and you know I have seen Dubai evolving in 11 years uh Im I mean I wouldnt move anywhere else and I lived in many countries because for me this I feel home I have friends from all over the world uh its super like everyone is so tolerant we celebrate every single like uh you know uh like we will celebrate Christmas well go for Iftar all together during Ramadan Diwali like I mean and I love this kind of vibe this is really who I am you know and
+Exactly Im a big ambassador
 
+### Speaker 2 · Speaker 2
 
-And uh and now I have my family here like I I got met my husband after actually after my first year in Dubai I met my husband so it quite helped me to to make this decision of staying here and we have we have two kids and now as a mom to be honest I feel this is a safe safe place for my family you know like I dont have to worry about my my kids safety uh there are so many activities for them so yeah so its its
+You have so much passion And why real estate What happened from the hospitality to real estate Why
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Perfect
+Well to be honest because hospitality like we are selling actually like destinations and hotels and everything So I was always a big fan of destinations in general And in Dubai theres so many amazing communities So I start like after I when I had my first baby I start thinking what should I do after that And I met a friend who was in real estate for 7 years He had his own company and he told me like youre such a brand ambassador for Dubai Youre very like approachable you have this hospitality you know like warmth and all So I think real estate would be great for you and you speak many languages so why not trying and all And I was already helping people moving I had a lot of friends they moved to Dubai and they were asking me to find them a place to stay and everything So I was already quite involved in the real estate and then I really really liked it and I started trying it and it really worked out for me Yeah
 
-
-So perfect now now we know that you can definitely sell to buy to your investors
-
-### Speaker 1
-
-Im a big ambassador so much
-
-### Speaker 3
-
-Youre so much passion and and why real estate what happened from the hospitality to real estate why
-
-### Speaker 1
-
-Well to be honest because hospitality like we are selling actually like destinations and hotels and everything So I was always a big fan of of destinations in general And in Dubai theres so many amazing communities So I start like after I when I had my first baby I start thinking what should I do after that And I met a friend who is in real estate for seven years He had his own company And he told me like youre such a brand ambassador for for Dubai Youre very like approachable
-
-
-that you have this hospitality uh you know like uh warmth and all so I think real estate would be great for you and you speak many languages so why not trying and all and I was already helping people moving I had a lot of friends they moved to Dubai and they were asking me to find them a place to stay and everything so I was already quite involved in the real estate and then I really really liked it and I start trying it and it really worked out for me yeah
-
-### Speaker 3
+### Speaker 2 · Speaker 2
 
 And why you decided that you need a coach when you found me
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yeah well actually Olga I was following you for quite some time I really liked your content You know you were very like straightforward telling the truth not like you know like the bling bling thing that people see you know And I felt like you know I feel like when you have a coach everyone speak different languages and some people connect on a certain level with certain people I felt you were speaking my language first of all The content you were providing was very very transparent very honest And I wanted that honesty someone would tell me
+Yeah well actually Olga I was following you for quite some time I really liked your content You know you were very straightforward telling the truth not like the bling bling thing that people see you know And I felt like you know I feel like when you have a coach everyone speaks different languages and some people connect on a certain level with certain people I felt you were speaking my language first of all The content you were providing was very very transparent very honest and I wanted that honesty Someone who would tell me okay this is where youre standing today and if you want results this is what you need to do And I felt like you showed me a way to think differently about everything about how to pitch things how to sell You gave me really practical exercises that I start implementing and seeing like a huge difference And even I changed totally the way I start thinking about things you know So so this was a big gift for me you know
 
+### Speaker 2 · Speaker 2
 
-this is where youre standing today and if you want result this is what you need to do you know and uh and i felt like you know you you you show me a way to think differently about about everything about how to like pitch things how to sell you give me really practical uh like uh exercise that i start implementing and seeing like a huge difference and even i changed totally the way i start thinking about things you know so so this was a big shift for me you know
+Okay So but what if you if we will talk about the most valuable thing from from your coaching what was that Just one
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Okay so but if you if you will talk about the most valuable thing from from your coaching what was that Just one
+Yeah Uh actually like the the the practical exercise that you give and the fact that you are also like uh listening to my recordings and and all this and you give me feedback all the roleplay Roleplay is amazing for me because I really get to know what Im doing wrong and how I should do things better the next time So this was really valuable for me Yeah
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-Yeah actually like the practical exercise that you give and the fact that you are also like listening to my recordings and all this and you give me feedback all the role play role play is amazing for me because I really get to know what Im doing wrong and how I should do things better the next time So this was really valuable for me yeah
+But there is still one thing that you are not quite yet achieved A fear of the cold call is still there right
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-But there is still one thing that you are not quite yet achieved a fear of the cold call is still there right
+Yes the fear of the cold call Like you know its mainly you know with most of agents that I talk to even people who have a lot of experience there is that fear of cold calling because I mean I think we all had bad experience in this So just to quite remove that fear its still something that Im working on But by practicing its getting better And I think when you have the knowledge and when you can handle any objection and you did so many role plays you will not be scared anymore to call You know I think you reach a point that youre not scared anymore because you have answers to every single objection every single thing that people throw at you So I think its about being really prepared you know before the call comes
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-Ah yes the fear of the cold call like you know its mainly you know with most of agents that I talk to even people who have a lot of experience there is that fear of cold calling because I mean I think we all had bad experience in this so just to quite remove that fear its still something that Im working on
+But at the same time isnt it something that makes you alive because your fear turns into excitement This is exactly what all of the lets say the Olympic champions this is how they report they feel before the competition They do not feel fear anymore They just have the same physical representation but they just shifted it to excitement you know the shiver the heartbeat and everything That can be just excitement because that is a next listing for you
 
+### Speaker 1 · Speaker 1
 
-but uh but by practicing its getting better and i think when you have the knowledge and when you can handle any objection and you did so many role play you will not be scared anymore to call you know i think you reach a point that youre not scared anymore because you have answered to every single objection every single thing that people throw at you so i think its about being really prepared you know before the call comes
+True true true true And also you know when someone is very tough on the phone in the beginning and then you manage to you know change his at the end the outcome is positive This is the best feeling you know You feel like oh my God like in the beginning he was very like cold and he didnt want even to hear me out but I managed to change his mind and now hes like now hes okay to even meet and have a coffee and invest with me and give me his property and all this So this is the best feeling Yeah When you do that Yeah true
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-But at the same time isnt it is isnt it something that makes you alive Because your fear turns into excitement This is exactly what all of the lets say the Olympic champions This is how they report they feel before the competition They do not feel fear anymore They just have the same physical representation but they just shifted it to excitement You know the shiver the heartbeat and everything that can be just excitement because that is a next listing for you
+Perfect Thank you so much And whats your goal for 2025 in terms of income
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-True true true And also you know when someone is very tough on the phone in the beginning and then you manage to you know change his at the end the outcome is positive This is the best feeling you know you feel like oh my God like now in the beginning he was very like cold and he didnt want even to hear me out But I managed to change his mind and now hes like now hes okay to even meet and have a coffee and invest with me and give me his property and all this So this is the best feeling yeah when you do that Yeah true
+So we have a big goal in the company where I am Its like we want to reach 1 million net per agent So thats what were trying to reach this year
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Perfect Thank you so much And uh whats your goal for 2025 in terms of income
+Amazing So thats 1 million dirham or 1 million USD
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So we have a big goal in the company where I am its like we want to to reach 1 million net per agent so thats what were trying to to reach this year
+Dirham
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Amazing so thats one million dirham or one million USD
+Dirham in your own pocket
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Uh Dirham Dirham
+Yes net
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-In your own pocket
+Amazing Love it So definitely you will be there Thank you so much for for this conversation
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yes net is
-
-### Speaker 3
-
-Amazing love it so definitely you will be there
-
-### Speaker 1
-
-Thank you yeah
-
-### Speaker 3
-
-Thank you so much for for this conversation
-
-### Speaker 1
-
-Thank you Olga thank you so much
+Thank you Olga Thank you so much

@@ -1,14 +1,15 @@
 ---
 id: VjKeKJ0JTws
 title: 'Built Different: No Salary, No Limits - Just Pure Results'
-url: https://www.youtube.com/shorts/VjKeKJ0JTws
 date: '2025-11-28'
-duration: 00:00:31
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/VjKeKJ0JTws
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Well see I do work in a company but its basically my own mini business within a business right so as hard as I work as long as I work as much as pe uh as more people as I reach how to its all gonna be benefiting me at the end of the day if I close right so there is no cap as to how much Im earning as compared to a salary which is monthly and its fixed no cap no commissions or anything maybe a little bit commissions but yeah with real estate the more you close the more commissions youre gonna be so there is no comparison between a salaried and a commission
-
-
-Commission commission only
+Well see I do work in a company but its basically my own mini business within a business right So as hard as I work as long as I work as much as as more people as I reach out to its all going to be benefiting me at the end of the day if I close right So there is no cap as to how much Im earning as compared to a salary which is monthly and its fixed no cap no commissions or anything Maybe a little bit commissions but Yeah With real estate the more you close the more commissions youre going to be So theres no comparison between a salaried and a commission only

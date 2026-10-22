@@ -2,14 +2,15 @@
 id: CphErLGAT9A
 title: Start Closing with LeaveItUp Academy | Cold Calling, Presentations & Handling
   Objections
-url: https://www.youtube.com/shorts/CphErLGAT9A
 date: '2025-08-14'
-duration: 00:01:03
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/CphErLGAT9A
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -17,12 +18,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Hi my name is Olga and welcome to my first stage of the Leave It Up Real Estate Growth Academy Ive been selling Dubai properties for more than 11 years and in the past five I train and coach individual agents and the sales team and the companies on how to make consistent income in a commission on the environment selling off line and secondary making cold calls online presentation and creating all this business model which going to make you profitable
-
-
-membership I specifically put everything together and Im doing it for literally a couple of cups of coffee a month the reason being is I want more people to being able to access the knowledge and have the dream life and dream career and the city which was my dream city for many years so if you feel like you need a little bit more guidance and understanding and how to handle the clients objection at cold calling structured social media Instagram welcome to my membership
-
-
-And see you in my lives
+Hi my name is Olga and welcome to my first stage of the LeaveItUp Real Estate Growth Academy Ive been selling Dubai properties for more than 11 years and the past 5 I train and coach individual agents and the sales team and the companies on how to make consistent income in a commission only environment selling offline and secondary making cold calls online presentation and creating all this business model which is going to make you profitable In this membership I specifically put everything together and Im doing it for literally a couple of cups of coffee a month The reason being is I want more people to be able to access the knowledge and have the dream life and dream career and the city which was my dream city for many years So if you feel like you need a little bit more guidance and understanding and how to handle the clients objections cold calling structured social media Instagram Welcome to my membership and see you in my lives

@@ -1,14 +1,15 @@
 ---
 id: t7p_L_tmeis
 title: 'Smart Investing: Shift Your Real Estate Strategy Now'
-url: https://www.youtube.com/shorts/t7p_L_tmeis
 date: '2026-04-02'
-duration: 00:00:19
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/t7p_L_tmeis
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,6 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-But now the market is shifted from Im just buying because its cheap Im just buying because payment plan 2080 to I am just buying because I know which projects which developers and which location will sustain and make
+But now the market is shifted from Im just buying because its cheap Im just buying because payment plan 20 by 80 to I am just buying because I know which projects which developers and which location will sustain and make

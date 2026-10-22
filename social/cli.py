@@ -4,8 +4,6 @@ Run: uv run python -m social --user jane-doe --since 2026-08-01 --linkedin URL .
 """
 
 import argparse
-import hashlib
-import json
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, date, datetime
@@ -17,7 +15,9 @@ import yaml
 from .dates import published_day
 from .instagram import cli as instagram
 from .linkedin import cli as linkedin
+from .loom import cli as loom
 from .progress import platform_progress, stage, status, track
+from .transcribe import transcribe_videos
 from .twitter import cli as twitter
 from .youtube import cli as youtube
 
@@ -27,10 +27,14 @@ DOMAINS = {
     "twitter": {"x.com", "twitter.com"},
     "instagram": {"instagram.com"},
     "youtube": {"youtube.com", "youtu.be"},
+    "loom": {"loom.com"},
 }
 
 
 def profile_url(value: str, platform: str) -> str:
+    if platform == "loom":
+        loom.source_urls(value)  # Validate the share URL or all links in the source file.
+        return value
     parsed = urlparse(value)
     host = (parsed.hostname or "").lower().removeprefix("www.")
     if (
@@ -110,7 +114,7 @@ def video_date(video: dict) -> date | None:
 
 
 def collect_youtube(
-    url: str, data: Path, audio_root: Path, since: date, transcribe: bool
+    url: str, data: Path, since: date, transcribe: bool, workers: int = 2
 ) -> None:
     videos = youtube.fetch_channel_videos(url)
     stage(f"{len(videos)} videos discovered")
@@ -125,7 +129,7 @@ def collect_youtube(
         if not str(video.get("url", "")).startswith("https://"):
             video["url"] = f"https://www.youtube.com/watch?v={video['id']}"
         old = known.get(video["id"], {})
-        for key in ("upload_date", "description", "author", "duration", "title"):
+        for key in ("upload_date", "description", "author", "title"):
             if not video.get(key) and old.get(key):
                 video[key] = old[key]
         day = video_date(video)
@@ -143,62 +147,36 @@ def collect_youtube(
         stage("transcription skipped")
         return
 
-    video_dir = data / "video"
-    pending = [
-        v for v in selected if not list(video_dir.glob(f"*-{v['id']}.md"))
-    ]
-    if not pending:
-        stage(f"all {len(selected)} transcripts already saved")
+    transcribe_videos("YouTube", selected, data / "video", youtube.download_video_audio, workers=workers)
+    youtube.save_video_index(url, selected, manifest)
+
+
+def collect_loom(
+    source: str, data: Path, since: date, transcribe: bool, workers: int = 2
+) -> None:
+    urls = loom.source_urls(source)
+    stage(f"{len(urls)} Loom share links discovered")
+    selected = []
+    today = datetime.now(UTC).date()
+    for url in track(urls, "Loom metadata / dates", unit="video"):
+        video = loom.fetch_video(url)
+        try:
+            day = published_day(video.get("upload_date"))
+        except ValueError:
+            status(f"Loom: skipped {video['id']} — publication date unavailable")
+            continue
+        if since <= day <= today:
+            video["upload_date"] = day.isoformat()
+            selected.append(video)
+    status(f"Loom: selected {len(selected)}/{len(urls)} videos for {since} through {today}")
+    youtube.save_video_index(source, selected, data / "collected.yaml")
+    stage(f"{len(selected)} dated Loom videos indexed")
+    if not transcribe or not selected:
         stage("audio skipped")
         stage("transcription skipped")
         return
-
-    stage(f"{len(selected) - len(pending)} transcripts already saved; {len(pending)} new videos need audio")
-    batch_key = hashlib.sha256(f"{url}:{','.join(sorted(v['id'] for v in pending))}".encode()).hexdigest()[:10]
-    audio_dir = audio_root / since.isoformat() / batch_key
-    run = audio_root / "runs" / since.isoformat() / batch_key
-    selection = run / "selection.json"
-    identifiers = sorted(v["id"] for v in pending)
-    if selection.exists() and set(json.loads(selection.read_text())) != set(identifiers):
-        raise ValueError(
-            f"Video selection changed for {since}; review {run} before reusing Sarvam jobs"
-        )
-    selection.parent.mkdir(parents=True, exist_ok=True)
-    selection.write_text(json.dumps(identifiers) + "\n", encoding="utf-8")
-
-    for video in track(pending, "YouTube audio downloads", unit="video"):
-        ident = video.get("id")
-        if (
-            not ident
-            or not any(
-                p.name.endswith(f"[{ident}].mp3") for p in audio_dir.glob("*.mp3")
-            )
-        ) and youtube.download_video_audio(video["url"], audio_dir) is None:
-            raise ValueError(f"Download failed: {video['url']}")
-    stage(f"{len(pending)} audio downloads checked")
-    state, raw = run / "sarvam-jobs.json", run / "sarvam-json"
-    cache = youtube.load_date_cache(audio_dir)
-    cache.update({v["id"]: v["upload_date"] for v in pending if v.get("id")})
-    youtube.save_date_cache(audio_dir, cache)
-    key = youtube.get_sarvam_key(None)
-    if not state.exists():
-        youtube.submit_sarvam_jobs(audio_dir, run / "uploads", state, key)
-    youtube.wait_and_download_sarvam(state, raw, key)
-    for n, mp3 in enumerate(sorted(audio_dir.glob("*.mp3")), 1):
-        if youtube.match_sarvam_json(f"{n:03d}.mp3", raw) is None and youtube.audio_seconds(mp3) >= 7200:
-            youtube.transcribe_long_audio(mp3, raw, n, key)
-    count = youtube.build_markdowns_from_json(audio_dir, raw, video_dir, selected)
-    # Ephemeral media policy: delete local audio files once transcripts are built
-    for mp3 in audio_dir.glob("*.mp3"):
-        mp3.unlink(missing_ok=True)
-    if (run / "uploads").exists():
-        for mp3 in (run / "uploads").glob("*.mp3"):
-            mp3.unlink(missing_ok=True)
-    if count != len(pending):
-        raise ValueError(
-            f"Only {count}/{len(pending)} pending YouTube transcripts built; inspect {run}"
-        )
-    stage(f"{len(selected)} transcripts available")
+    transcribe_videos("Loom", selected, data / "videos", loom.download_audio, workers=workers)
+    youtube.save_video_index(source, selected, data / "collected.yaml")
 
 
 def main(argv: list[str] | None = None) -> None:
@@ -213,12 +191,16 @@ def main(argv: list[str] | None = None) -> None:
     )
     for platform in DOMAINS:
         parser.add_argument(
-            f"--{platform}", help=f"{platform.title()} profile/channel URL"
+            f"--{platform}", help="Loom share URL or text/YAML file of share links" if platform == "loom" else f"{platform.title()} profile/channel URL"
         )
     parser.add_argument(
         "--no-transcribe",
         action="store_true",
-        help="YouTube: save dated video metadata without downloading/transcribing",
+        help="YouTube/Loom: save dated video metadata without downloading/transcribing",
+    )
+    parser.add_argument(
+        "--workers", type=int, default=2,
+        help="Parallel per-video YouTube/Loom download+transcribe jobs (default: 2)",
     )
     args = parser.parse_args(argv)
     if not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", args.user):
@@ -233,7 +215,7 @@ def main(argv: list[str] | None = None) -> None:
         parser.error("--since cannot be in the future")
     urls = {p: getattr(args, p) for p in DOMAINS if getattr(args, p)}
     if not urls:
-        parser.error("Provide at least one social profile/channel URL")
+        parser.error("Provide at least one social profile/channel URL or --loom source")
     try:
         urls = {p: profile_url(url, p) for p, url in urls.items()}
     except ValueError as exc:
@@ -242,7 +224,7 @@ def main(argv: list[str] | None = None) -> None:
     base = ROOT / "users" / args.user
 
     def collect(platform: str, url: str, position: int) -> None:
-        with platform_progress(platform, position, 4 if platform == "youtube" else 3, len(urls)):
+        with platform_progress(platform, position, 4 if platform in {"youtube", "loom"} else 3, len(urls)):
             status(f"{platform}: collecting {since} through {datetime.now(UTC).date()}")
             data = base / "data" / platform
             if platform == "linkedin":
@@ -251,8 +233,10 @@ def main(argv: list[str] | None = None) -> None:
                 collect_twitter(url, data, since)
             elif platform == "instagram":
                 collect_instagram(url, data, since)
+            elif platform == "loom":
+                collect_loom(url, data, since, not args.no_transcribe, args.workers)
             else:
-                collect_youtube(url, data, base / "audios", since, not args.no_transcribe)
+                collect_youtube(url, data, since, not args.no_transcribe, args.workers)
             status(f"{platform}: collection finished")
 
     failures = []

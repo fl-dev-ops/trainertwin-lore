@@ -1,15 +1,16 @@
 ---
 id: FtKRQVqVaMY
 title: From "I know nothing about Dubai" to closing deals
-url: https://www.youtube.com/shorts/FtKRQVqVaMY
 date: '2025-09-04'
-duration: 00:00:25
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/FtKRQVqVaMY
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -17,22 +18,22 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-on how to become a top real estate agent
+On how to become a top real estate agent
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-how much you know money that will be generated to your company
+How much you know money that will be generated into your pocket
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-On Monday basically I went to the office nobody knew who I was I was given a database by this time I realized cold calling is illegal
+On Monday basically I went to the office Nobody knew who I was I was given a database By this time I realized cold calling is illegal
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 What changed for you in terms of you know understanding the market
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-What I like is due confidence I have no idea about Dubai
+What I liked is your confidence I had no idea about Dubai

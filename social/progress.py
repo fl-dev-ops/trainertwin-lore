@@ -11,6 +11,33 @@ from tqdm import tqdm
 _platform = local()
 
 
+class _BarStream:
+    """tqdm's stream: real stderr (resolved per write), muted while a job board is live.
+
+    tqdm redraws with cursor moves; interleaved with rich's live display that corrupts
+    both into duplicated frames, so the board owns the terminal while it runs.
+    """
+
+    def write(self, text: str) -> None:
+        from .board import board_live
+
+        if not board_live():
+            sys.stderr.write(text)
+
+    def flush(self) -> None:
+        sys.stderr.flush()
+
+    def isatty(self) -> bool:
+        return sys.stderr.isatty()
+
+    @property
+    def encoding(self) -> str:
+        return getattr(sys.stderr, "encoding", None) or "utf-8"
+
+
+_bar_stream = _BarStream()
+
+
 @contextmanager
 def platform_progress(name: str, position: int, stages: int, child_base: int):
     """Reserve one terminal row per platform and one for its current item-level task."""
@@ -20,7 +47,7 @@ def platform_progress(name: str, position: int, stages: int, child_base: int):
         desc=name,
         unit="stage",
         position=position,
-        file=sys.stderr,
+        file=_bar_stream,
         disable=not terminal,
         dynamic_ncols=True,
         leave=True,
@@ -54,6 +81,10 @@ def stage(message: str) -> None:
 
 def status(message: str) -> None:
     """Keep progress off stdout, which standalone collectors use for data output."""
+    from .board import notify_status, print_board_status
+
+    if notify_status(message) or print_board_status(message):
+        return
     tqdm.write(message, file=sys.stderr)
 
 
@@ -75,7 +106,7 @@ def track[T](
             total=total,
             desc=label,
             unit=unit,
-            file=sys.stderr,
+            file=_bar_stream,
             disable=not terminal,
             dynamic_ncols=True,
             mininterval=0.5,

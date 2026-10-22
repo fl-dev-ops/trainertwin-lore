@@ -1,15 +1,16 @@
 ---
 id: y1SWZ53vT0k
 title: 'First 30 Days as a Dubai Real Estate Agent: What Actually Matters'
-url: https://www.youtube.com/watch?v=y1SWZ53vT0k
 date: '2026-10-01'
-duration: 00:14:59
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=y1SWZ53vT0k
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -17,101 +18,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-What if I told you that someone who never sold the property in their life cant make more money than an agent who arrives in Dubai with 10 years of experience Now in 2026 the sellers market is shifting into a buyers market That means less buyers and the sellers who wont drop the price and no second chances for agents who get it wrong Which is why the questions
+What if I told you that someone who never sold the property in their life can make more money than an agent who arrives in Dubai with 10 years of experience Now in 2026 the sellers market is shifting into a buyers market That means less buyers and the sellers who wont drop the price and no second chances for agents who get it wrong Which is why the questions I get every single week is it still worth becoming a real estate agent in Dubai in 2026 And after 12 years in Dubai real estate Ive defined 5 types of agents Youll recognize yourself in one of them within about a minute and youll see exactly what your strength is and one weakness thats costing you money right now Because over the 6 years of training agents Ive noticed something even more surprising The ones who consistently make the most money here all have one thing in common They are oh they are lucky And yes I actually train agents in my academy how to become luckier Its not something youre born with Its something you become And by the end of this video you will understand exactly what I mean And you will learn what you should do in your first 30 days to close a deal Type 1 the newcomer He never lived here never sold anything and never worked in properties Arrives with nothing with nothing to learn either which tends to matter more than you think Type 2 the close up The closer Sold before Cars insurance software anything New to Dubai new to properties but already knows how to be told no and to come back the next morning Type 3 the veteran Sold property before just not here On paper the most qualified person in this video In practice the one I worry about the most Type 4 the resident Lives here already Knows the city knows the communities has a network has never sold anything in their life And type 5 the switcher Lives here sold before corporate banking hospitality tech One gap property And because its the only gap they underestimate it These 5s are not separate people Put them together and you will have the whole picture Every skill every piece of knowledge you need So So the type you recognize tells you where you are standing today The other 4 tell you what you are building So lets start with Type 1 the newcomer What do you have Nothing Thats the honest answer and Im not gonna dress it up But heres what nobody tells you you also have nothing to unlearn And everything I say in my trainings You hear it cleanly There is no old version of you arguing back That sounds like a small thing but it isnt I watched people with 15 years of experience take longer to get the first deal than someone who arrived with none What will stop you Its actually two things and neither one is knowledge The first is money You have no income no network and roughly 6 months before your savings decide this for you The second that you will start looking for a shortcut and you will find one Someone will always offer you a better split a better desk a better story I watched the new agent from Holland do exactly that Landed with big agency but moved companies 3 times looking for the easier route and by February 2026 after 5 months he left Dubai for good What accelerates you Pick one company and stay there for 6 months whenever anyone offers you and get in front of strangers now not to sell to get told no often enough then it stops meaning anything I coached a 24 year old newbie from Pakistan who never sold the properties his life never worked same starting point as everyone else in this section First deal in 2 weeks He started a small talk in the elevator got a client Type 2 the closer What you have the hardest part is already done and you did it somewhere else Youve sold You can handle rejection without losing your confidence That takes most people a year to build You also know what their pipeline is You know the difference between someone being polite and someone being interested Nobody has to teach you that What will stump you You will assume the credibility transfers too It doesnt Your skill works here your authority does not And in this market the client is speaking to 15 other agents half of them are offering kickback of their commission If you walk in with a great process and no market knowledge underneath you lose to someone who knows Just one building better than you What accelerates you You already know people do not buy real estate They dont buy cars either They buy a solution to the problem they have So learn your client types the problems of the first time investor how they are different from the experienced investor or the end user Then go deep on one or 2 developers and communities to become a master of those Not the whole city Just one or two Now you can connect the problem the person has to the solution theyre looking for and youre good to go And if youve been in sales you already know role plays are a huge part of it Find yourself a role play partner and practice your script That alone will accelerate your growth exponentially Type 3 the veteran What you have on paper You are the most qualified person in this video You know what transaction actually feels like from the first conversation to the handover Youve built a client base once already which means you know that can be done And that belief is worth more than it sounds I was exactly this type when I came into Dubai real estate on 24th of December 2014 I was Completely convinced Ill succeed My ego was through the roof It took me a year and all of my savings to realize I never actually generated a client in my life on my own My old market done it for me and Ive been calling that a skill What will stop you Lead generation And its gonna take you months to admit it Where you came from the market fed you for sale by owner listings free property evaluations Which literally brought sellers to your door If youre in US Canada Australia or UK the seller is almost handed to you So you think your job is only negotiation and you have to focus there Thats not how it works here You generate every conversation yourself from zero And because everyone around you assumes youre ahead it takes a long time to say out loud that its not working What accelerates you Well look I understand that you might not be able to convert your old data but you can still generate referrals You can shift your online presence and if you already have one you are ahead of most people in this market And honestly out of the 5 types you are the one who gets the most out of one on one coaching Not because you need teaching Just because in a couple of sessions someone can help you rebuild the system you already know how to run Type 4 the resident What you have you own a thing that the veteran will spend a year buying This city which communities people actually want to live in and why You know how summer here feels and you know what the school run does to a family decision about where to live And you already have a network Colleagues neighbors those people have property questions right now and someone else is answering them What would stop you Imposter syndrome full stop You may have been successful somewhere else entirely but now youre afraid to open your mouth to your own circle asking yourself who am I to sell them anything So you wait And the people closest to you buy and sell with somebody else What accelerates you If I were Tony Robbins as I recently was on one of his events in Germany I would say break this limiting belief But as a real estate sales coach I will tell you yes you are an imposter right now So spend next 2 weeks studying market data sales rental transactions various investment strategies and Start talking to people sharing what youve learned Type 5 the switcher What do you have You probably feel like you have more than anyone else in this video and I agree with you You have a home here a circle of friends youve sold before you know how to run a conversation you know how to handle a no You have one gap Everyone else in this list has 2 or 3 What will stop you Fear of failure And its worse for you than anyone else in this video Others have a story why it doesnt work They were new they never sold before they didnt know the city You dont So if this doesnt work the only thing left to blame is you Thats paralyzing And it doesnt look like fear from the outside It looks like preparation Thats almost word for word my client Ekaterina She came to me after 2 years on this market with 2 deals closed She started coaching with me and in her first year she made 1650000 dirhams in her own commission Then she opened her own agency but not in Dubai in Riyadh Saudi Arabia far more complicated market This November she actually celebrates a year of expert key real estate 3 agents in her team closing deals for her while she is away for the summer There is a full video with her on this channel if you want to hear more from her So what accelerates you Close one gap in market knowledge and sales skills for high ticket sales specifically which is understanding the human behavior on a different level Learn how to influence through questions instead of pitching or presenting Thats exactly where neuro emotional persuasion comes along Answering your questions the client tells themselves why he should work with you and why he needs to buy now But before were gonna get there if you like this video and you find this a bit different than the usual content you know what you have to do subscribe and put a like leave a comment for me Im always reading them Myself Lets get back to the luck You probably think luck is something you either have or you dont Let me change that A British psychologist called Richard Wiseman did a study on this He brought two groups of people one considered as some lucky and unlucky ones Same task for both Here is the newspaper Count the pictures inside That was a trick in the newspaper On the second page it was an article saying Stop counting There are 43 pictures in here The lucky one saw that gave the right answer in second The unlucky ones missed it kept counting made more mistakes and finished with 2 minutes on average Do you see what I mean Same conditions same paper The only difference was what those people believed about themselves when they walked in Now you might be sitting there thinking yeah thats me I am the unlucky one I feel like that most days And thats the word Feel not ah You feel So thats what were going to change How you feel about yourself before the day starts And there are different techniques for that Im sure you know about the Wolf of Wall Street technique This is one of them from Matthew McConaughey teaching DiCaprio how to put yourself in a winning state
 
+### Speaker 2 · Speaker 2
 
-get every single week is it still worth becoming a real estate agent in Dubai in 2026 and after 12 years in Dubai real estate Ive defined five types of agents youll recognize yourself in one of them within about a minute and youll see exactly what your strength is and one weakness that costing you money right now because over the six years of training agents
+Keep it up woman
 
+### Speaker 1 · Speaker 1
 
-Ive noticed something even more surprising the ones who consistently make the most money here all have one thing in common they are oh they are lucky and yes I actually train agents in my academy how to become luckier its not something you born with its something you become and by the end of this video you will understand exactly what I mean
-
-
-And you will learn what you should do in your first 30 days to close a deal Type 1 the newcomer He never lived here never sold anything and never worked in properties Arrived with nothing with nothing to learn either which turns to matter more than you think Type 2 the closer He sold before cars insurance software anything New to Dubai new to properties
-
-
-but already knows how to be told no and to come back the next morning Type 3 the veteran Sold property before just not here On paper the most qualified person in this video In practice the one I worry about the most Type 4 the resident Lives here already knows the city knows the communities has a network has never sold anything in their life
-
-
-And type 5 the switcher Lives here sold before corporate banking hospitality tech One gap property And because its the only gap they underestimate it These fives are not separate people Put them together and you will have the whole picture Every skill every piece of knowledge you need So the type you recognize tells you where you are standing today The other four
-
-
-tell you what you are building so lets start with a type one the newcomer what you have nothing thats the honest answer and im not gonna dress it up but heres what nobody tells you you also have nothing to unlearn and everything i say in my trainings you hear it cleanly there is no old version of you are arguing back that sounds like a small thing but it isnt i watched
-
-
-People with 15 years of experience take longer to get a first deal than someone who arrived with none What will stop you
-
-
-Its actually two things and neither one is knowledge The first is money You have no income no network and roughly six months before your savings decide this for you The second that you will start looking for a shortcut and you will find one Someone will always offer you a better split a better desk a better story I watched the new agent from Holland do exactly that
-
-
-with big agency but moved companies free time looking for the easy round and by February 2026 after five months he left Dubai for good What accelerates you Pick one company and stay there for six months whenever anyone offers you and get in front of strangers now not to sell to get told no often enough then it stops meaning anything I coached a 24 years old newbie from Pakistan who never sold the properties
-
-
-life and worked same starting point as everyone else in this section first deal in two weeks he started a small talk in the elevator got a client type two the closer what you have the hardest part is already done and you did it somewhere else youve sold you can handle rejection without losing your confidence that takes most people a year to build you also know what their pipeline is you know
-
-
-difference between someone being polite and someone being interested nobody has to teach you that what will stop you you will assume the credibility transfers too it doesnt your skill works here your authority does not and in this market the client is speaking to 15 other agents half of them are offering kickback of their commission if you walk in with a great process and no market knowledge underneath you
-
-
-lose to someone who knows just one building better than you What accelerates you You already know people do not buy real estate They dont buy cars either They buy a solution to the problem they have So learn your client types the problems of the first time investor how they are different from the experienced investor or the end user Then go deep on one or two developers and communities to become a master of those not the
-
-
-city just one or two now you can connect the problem the person has to the solution they are looking for and youre good to go and if youve been in sales you already know role plays a huge part of it find yourself a role play partner and practice your script that alone will accelerate your growth exponentially type free the veteran what you have on paper you are the most
-
-
-qualified person in this video You know what transaction actually feels like from the first conversation to the handover Youve built a client base once already which means you know that can be done And that belief is worth more than it sounds I was exactly this type when I came into Dubai Real Estate on 24th of December 2014 I was completely convinced Ill succeed My ego was through the roof It took me
-
-
-a year and all of my savings realized Ive never actually generated a client in my life on my own my old market done it for me and Ive been calling that a skill what will stop you lead generation and its gonna take you months to admit it where you came from the market fed you for sale by owner listings free property valuations which literally brought sellers to your door if youre in US Canada Australia
-
-
-Now UK the seller is almost handed to you So you think your job is only negotiation and you have to focus there Thats not how it works here You generate every conversation yourself from zero And because everyone around you assumes youre a hat it takes a long time to say out loud that its not working What accelerates you Well look I understand that you might not be able to convert your old data
-
-
-You can still generate referrals You can shift your online presence and if you already have one you are ahead of most people in this market And honestly out of the five types you are the one who gets the most out of one on one coaching Not because you need teaching just because in a couple of sessions someone can help you rebuild the system you already know how to run Type four the resident What you have you own a thing that the
-
-
-Veteran will spend a year buying this city which communities people actually want to live in and why you know how summer here feels and you know what the school run does to a family decision about where to live and you already have a network colleagues neighbors those people have property questions right now and someone else is answering them what stop you
-
-
-Imposter syndrome full stop You may have been successful somewhere else entirely but now youre afraid to open your mouth to your own circle asking yourself who am I to sell them anything So you wait and the people closest to you buy and sell with somebody else What accelerates you If I were Tony Robbins as I recently was on one of his events in Germany I would say break this limiting belief
-
-
-But as a real estate sales coach I will tell you yes you are an imposter right now So spend next two weeks studying market data sales rental transactions various investment strategies and start talking to people sharing what youve learned Type 5 the switcher What you have you probably feel like you have more than anyone else in this video And I agree with you You have a whole
-
-
-here a circle of friends youve sold before you know how to run a conversation you know how to handle and know you have one gap everyone else in this list has two or three what will stop you fear of failure and its worse for you than anyone else in this video others have a story why it doesnt work they were new they never sold before they did know the city you dont so if this
-
-
-This doesnt work The only thing left to blame is you Thats paralyzing And it doesnt look like fear from the outside It looks like preparation Thats almost word for word my client Ekaterina She came to me after two years on this market with two deals closed She started coaching with me and in her first year she made 1650000 dirhams in her own commission
-
-
-she opened her own agency but not in dubai in riad saudi arabia far more complicated market this november she actually celebrates a year of expat key real estate three agents in her team closing deals for her while she is away for the summer there is a full video with her on this channel if you want to hear more from her so what accelerates you close one gap in market knowledge and sales skills for high ticket sales
-
-
-specifically which is understanding the human behavior on a different level learn how to influence through questions instead of pitching or presenting thats exactly where narrow emotional persuasion comes along answering your questions the client tell themselves why he should work with you and why he needs to buy now but before were gonna get there if you like this video and you find this a bit different than the usual content you know what you have to do
-
-
-Subscribe and put a like leave a comment for me Im always reading them myself Lets get back to the luck You probably think luck is something you either have or you dont Let me change that A British psychologist called Richard Wiseman did a study on this
-
-
-He brought two groups of people One considered himself lucky and unlucky ones Same task for both Here is the newspaper Count the pictures inside That was a trick in the newspaper On the second page it was an article saying stop counting There are 43 pictures in here The lucky one saw that gave the right answer in second The unlucky ones missed it kept counting made more mistakes and finished
-
-
-with two minutes on average do you see what i mean same conditions same paper the only difference what was those people believed about themselves then they walked in now you might be sitting there thinking yeah thats me i am the unlucky one i feel like that most days and thats the word feel not ah you feel so thats what were going to change how you feel about yourself before the day starts
-
-
-And there are different techniques for that Im sure you know about the Wolf of Wolf Street technique This is one of them from Matthew McConaughey teaching DiCaprio how to put yourself in a winning state
-
-### Speaker 2
-
-Keep developing
-
-### Speaker 1
-
-Mines is a bit different I took it from Tony Robbins He teaches you how by changing your physical and emotional state on purpose put yourself into resourceful state But Tony will explain it way better than me I will leave the link in the description of this video The way I do it that every morning I change my body first and then remember the times I was winning And then Im going into the day believing in my own luck Train it like a muscle
-
-
-So 30 days and you will see a change And if you want help with your sales skills and market knowledge how to overcome just send me some options about how to qualify a buyer before you waste hours on WhatsApp Thats what I teach in my free Telegram channel Its only for agents and the link gonna be in the description See you in the next video Probably this or this gonna be very interesting for you to watch
+Mine is a bit different I took it from Tony Robbins He teaches you how by changing your physical and emotional state on purpose put yourself into resourceful state But Tony will explain it way better than me I will leave the link in the description of this video The way I do it like every morning I change my body first and then remember the times I was winning and then Im going into the day believing in my own luck Train it like a muscle 30 days and you will see a change And if you want help with your sales skills and market knowledge how to overcome just send me some options but how to qualify a buyer before you waste hours on WhatsApp thats what I teach in my free Telegram channel Its only for agents and the link gonna be See you in the next video Probably this or this going to be very interesting for you to watch

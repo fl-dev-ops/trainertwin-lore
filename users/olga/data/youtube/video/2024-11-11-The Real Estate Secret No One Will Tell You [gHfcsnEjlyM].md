@@ -1,14 +1,15 @@
 ---
 id: gHfcsnEjlyM
 title: The Real Estate Secret No One Will Tell You
-url: https://www.youtube.com/shorts/gHfcsnEjlyM
 date: '2024-11-11'
-duration: 00:00:58
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/gHfcsnEjlyM
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-One of the biggest mistakes the beginners make is wait for it being too polite But guess what in real estate being too nice can cost you a big time You have to dig deeper and find out what the clients actual situation is and what problems they are trying to solve with the real estate But when youre walking into the doctors appointment and there is a nice doctor in a you know full gear medical person how will you
-
-
-determine if he is a professional or someone who is just graduated from the medical school if the person start to jump up and down Im the best doctor and I can absolutely furious will you actually believe him or the doctor who is asking you questions sometimes might be not very polite he helping you realize that the problem is way bigger than you expected
+One of the biggest mistakes the beginners make is wait for it being too polite But guess what In real estate being too nice can cost you big time You have to dig deeper and find out what the clients actual situation is and what problems they are trying to solve with the real estate When youre walking into the doctors appointment and there is a nice Doctor in a you know full gear medical person How will you yourself determine if he is a professional or someone who is just graduated from the medical school If the person start to jump up and down Im the best doctor and I can absolutely cure you Will you actually believe him Or the doctor who is asking you questions sometimes might be not very polite Light he helping you realize that the problem is way bigger than you expected

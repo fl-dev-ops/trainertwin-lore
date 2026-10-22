@@ -1,133 +1,22 @@
 ---
 id: QELzo1KZ0YA
-title: How to Use the Script to Become A Top Closer in Dubai Real Estate.  Part 6
-url: https://www.youtube.com/watch?v=QELzo1KZ0YA
+title: How to Use the Script to Become A Top Closer in Dubai Real Estate. Part 6
 date: '2025-02-05'
-duration: 00:14:05
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=QELzo1KZ0YA
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 2
+speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
 ---
 
 
-# How to Use the Script to Become A Top Closer in Dubai Real Estate.  Part 6
+# How to Use the Script to Become A Top Closer in Dubai Real Estate. Part 6
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Are you ready You got yourself pen and paper because now you will have to write down everything The salespeople sorry They are usually very negative towards the script The best way to use the script is to understand why youre asking those questions how youre asking them what is the next step Im making it feel like thats not scripted right But its 100 percent scripted Why did you decide potentially to look
-
-
-in Dubai the best place when you ask the question be calm collected confident
-
-
-Are you ready You got yourself a pen and paper because now you will have to write down everything These are the questions to ask on a first call Could be different variation of those I believe if youre watching it maybe two three four years from now Im going to still have the link to the script with those questions so you can just download it and start learning them This is very important You know people are
-
-
-Salespeople sorry and theyre usually very Negative towards the script Oh no Olga you know the scripts never work You sound robotic You sound mechanical Its better to go with the flow Well if you have common sense of going with the flow and you already in build advanced sales technique that that become your second nature then yes but if you are someone who is just Spitting the closed questions and do not know
-
-
-whats the next question to ask or even whats the next step in your sales process this is the right place to start if you feel like you are kind of stumbling always and you just just the conversation dies and you dont know what to ask and then you go into the pitch mode and client is like thank you was very good great i really like your uh presentation um i will let you know later yeah i will let you know what were gonna buy
-
-
-or not to buy just let me think about it so if you get a lot of those script and my favorite example is the any famous actor Leonardo DiCaprio in Titanic all of the facial expressions all of the words and the pictures that he was giving theyre a hundred thousand million percent scripted but you the same as me probably were crying madly watching all of that and well if that was
-
-
-Something wrong with the script do not work do you think you have those feelings The best way to use the script is to understand why youre asking those questions How you asking them What is the next step and meeting understanding the question is not about all
-
-### Speaker 2
-
-Oh this is the question what do you like about
-
-### Speaker 1
-
-about Dubai is what is the end goal of this question what do you want to achieve which answers you are looking for and the scale your business with the answers driven approach rather than questions driven
-
-### Speaker 2
-
-Okay so Im sorry Olga I asked all my questions from the list well what should I do
-
-### Speaker 1
-
-Do not think about the questions because you know them absolutely 100 percent certainty This is what you need for the script Okay I hope I was convincing enough And now we can start with my one of the favorite questions to again bring the client back into the emotional state that he had when he was clicking in the add in and putting the information I think I forgot about something If you stumble on this video
-
-
-you dont know who am I what Im even talking about my name is Algos Inenko and I am a real estate sales trainer here in Dubai been selling real estate in Dubai myself for 10 years and since 2020 I am in the education business however its more like um edutainment if you can see with me I have a specific training program for the companies and I have a mentorship program for the agents who feel that they want to start making money now
-
-
-and build up their career where they can actually pay the bills save pay for the kids school plan the vacations have a couple of houses in Dubai those type of agents If its you maybe we have to chat However enjoy these questions The tonality and the cadence is very important here What was the what was about the ad that attracted your attention to respond Well what was what was about the ad
-
-
-that attracted your attention to respond what was about the ad that attracted your attention so the way I deliver it is the most important if you will say something like this oh whats about the ad that attracted your attention to respond of course the person on the other side is like what are you idiot what what what was about the ad what do you mean that is exactly the problem of someone who do
-
-
-not like the script they just read them without mind even put into what Im saying and why Im saying this so I put the dot three dots here
-
-
-you to stop slow down um and you see what Im doing um verbal cues Im making it um Im making it feel like thats not scripted right but its 100 scripted I know all of these questions by memory I can twist and pull them and together and change them but I know where Im leading my goal is to bring him back to the emotional state which he had when he was me the most curious when he was putting his details and wanted to know
-
-
-this information so what was um what was about the ad that attracted your attention to respond and he can tell you now that oh you know I just do not remember the ad please dont be like one of these agents who just okay so it has to be one plus one two and thats it no right no left if hes saying that he doesnt remember the ad thats fine thats fine do not oh no but you know
-
-
-uh that was the ad with the big building and the lake nearby so what was about the ad that attracted your attention so hes gonna think youre stupid please dont do that dont um instead of this if he doesnt remember the ad thats completely fine but what youre actually asking is okay but um rather than you know that what was um what was that that even kind of um prompt you to look into to buy real estate altogether this is what were actually asking what
-
-
-was that uh triggered you to start even looking at potential investment in Dubai why even got curious about the ROI in Dubai you see answering this question just think through that answering this question what he gonna tell you he gonna tell you exactly the things that you want to tell him yourself oh you know the Dubai is really looks so good the people are making money and remember
-
-
-Remember our main trigger He is listening with the own ears the words are coming inside of his ears so hes telling to himself why Dubai is a good option for him And you just sit down and relax come on Why did he decide potentially to look in Dubai in the first place Its another good question to ask But the most important here potentially neutral language Because if Im going to be
-
-
-Correct
-
-### Speaker 2
-
-Because older whats the difference between
-
-### Speaker 1
-
-why do you want to invest in Dubai and what makes you what makes you decide potentially to look at the investing in Dubai in the first place you see how different it is one is very pushy he gonna tell you well no Im not even sure yet like well Im just exploring the option but and the question that I invite you to use its so neutral its its its not about him doing hes not gonna say oh no but
-
-
-I am just as well potentially looking yeah yeah thats what I said so so what was that about yeah I dont know Dubai specifically or maybe the situation in your country what triggered you to even start looking now and again you can rephrase it potentially in your true language look into Dubai property at the first place its important right because we are trying to create the urgency urgency means now so he gonna tell you why now
-
-
-as well now we are getting back to the triggering his procrastination because we know some investors are there on the market for years and years just clicking things and okay well lost that property lost this property we need to know that because the reason they delay decision is going to be the same reason that youre going to give to you when you should be basically signing the contract do you want to know what is the
-
-
-potential reason of him delaying right now the first call or do you want to know it in a month when you wasted hours and hours on his you have such high hopes
-
-
-waiting okay good so have you been looking for some time already have you seen anything you like what did you like about it this is not only the discovery of or what is his features and benefits is helping him you know to reflect on his own experience because he might not be even thinking that way you know kind of creating a say college look for him and giving him an opportunity to discover for himself what he actually
-
-
-and needs and he will hear him talking about like variety of different project with with no certain coordination well I I was looking in I dont know on the pound then I was looking somewhere in by south then I decided to get the villa in Villa Nova and then all of Mohammed bin Rashid city and then I was looking at the Mac Hills too well this is a good question to ask okay so rather than that out of those ones which one you feel like the most suitable for for you
-
-
-out of what youve seen again most of the agents will not ask this question most of the agent gonna start talking oh yeah Dubai itself that XYZ and ABC and Villa Nova is a BBC and DBC not all of this bullshit trying to pitch him trying to show him oh yeah I know stuff it doesnt matter its not about you knowing stuff its yet a first call he doesnt believe you he doesnt see you as a trusted authority at all okay important
-
-
-point or do you have a property already generating um a passive income or thats going to be your first one or which kind of investment do you have its very important for us to understand whom are we talking is it first time investor is it someone whos been investing for 15 years in Canada and now looking in Dubai is someone whos been investing in uh Dubai and now choosing Russell Hayma because with different type of clients and Im talking in terms of the experience were going to have a different type
-
-
-conversation and you have to be ready with a different type of data as well and if you feel that your maturity and you know market knowledge is way less than your client you hopefully not going to sell him at least but youre going to learn something from him when you potentially would like i dont know if you can do like this to start making money with this property um or to move into the property depending it was like an end user or investor most of the time
-
-
-behalf and investors of course but instead of asking him um when do you want to buy because no one wants to buy and spend money but everyone wants to start making money with the investment so when you were planning to start making money with your investment one more time recap of all of these questions and wait high beach this is the best investment ever in the whole entire world when you ask the question be calm
-
-
-collected confident do the pauses on the words that you want to enhance use the verbal cues to make it sound natural because Im sure you know all the questions already and thats thats very simple
-
-
-What was about the ad that kind of attracted your attention to respond Oh okay rather than an ad what was your what was your initial goal with you know this investment in Dubai and why you decided to potentially look into Dubai market in the first place well this one I have to check have you been looking for some time already have you have you seen anything there you like what did you like about it
-
-
-Do you have any do you have any property already generating a passive income for you or which kind of investment do you have And the last one when you when you potentially would like to start making money with this property
-
-
-Uh its gonna be a next part I think its gonna be part number eight Im not sure I lost count so see you in the next one
+Are you ready You got yourself pen and paper Because now you will have to write down everything Salespeople sorry theyre usually very negative towards the script The best way to use the script is to understand why youre asking those questions how youre asking them what is the next step and making it feel like thats not scripted right But its 100 percent scripted Why did you decide potentially to look in Dubai in the first place When you ask that question be calm collected confident Are you ready You got yourself pen and paper because now you will have to write down everything These are the questions to ask on a first call Could be different variation of those I believe if youre watching it maybe 2 3 4 years from now Im gonna still have the link to the script with those questions so you can just download it and start learning them This is very important You know people are salespeople sorry theyre usually very negative towards the script Oh no Olga you know the scripts never work You sound robotic you sound mechanical Its better to go with the flow Well if you have common sense of going with the flow and you already inbuilt advanced sales techniques that become your second nature then yes But if you are someone who is just spitting the closed questions and do not know whats the next question to ask or even whats the next step in your sales process this is the right place to start If you feel like you are kind of stumbling always and you just this the conversation dies and you dont know what to uh ask And then you go into the pitch mode and client is like thank you it was very good great I really like your presentation um I will let you know later Yeah I will let you know what were gonna buy or not to buy just let me think about it So if you get a lot of those script And my favorite example is any famous actor Leonardo DiCaprio in Titanic All of the facial expressions all of the words and the pitches that he was giving they are 100000 million percent scripted But you the same as me probably were crying madly watching all of that And as well if there was something wrong with the The script do not work Do you think you have these feelings The best way to use the script is to understand why youre asking those questions how youre asking them what is the next step And meaning understanding the question is not about oh this is the question What do you like about Dubai Is what is the end goal of this question What do you want To achieve which answers you are looking for and scale your business with the answers driven approach rather than questions driven Okay so Im sorry Olga I asked all my questions from the list Well what should I do Do not think about the questions because you know them absolutely 100 percent certainty This is what you need for the script Okay I hope I was convincing enough And now we can start with my one of the favorite questions to again bring the client back into the emotional state that he had when he was clicking in the ad and inputting the information I think I forgot about something If you stumble on this video you dont know who am I what Im even talking about My name is Olga Sinenko and I am a real estate sales trainer here in Dubai Been selling real estate in Dubai myself for 10 years and since 2020 I am in the education business However its more like edutainment if you can see with me I have a specific training program for the companies and I have a mentorship program for the agents who feel that they want to start making money now And build up their career where they can actually pay the bills save pay for the kids school plan the vacations have a couple of houses in Dubai those type of agents If its you maybe we have to chat However enjoy these questions The tonality and the cadence is very important here What was about the ad that attracted your attention to Respond Oh what was um what was about the ad that attracted your attention to respond What was about the ad that attracted your attention So the way I deliver it is the most important If you will say something like this oh whats about the ad that attracted your attention to respond Of course the person on the other side is like what are you idiot What what what was about the ad What do you mean That is exactly the problem of someone who do not like the script They just read them without mind even put into what Im saying and why Im saying this So I put the dot 3 dots here for you to stop slow down Um and you see what Im doing Um verbal cues Im making it Im making it feel like thats not scripted right But its 100 percent scripted I know all of these questions by memory I can twist and pull them together and change them but I know where Im leading My goal is to bring him back to the emotional state which he had when he was me the most curious when he was putting his details and wanted to know this information So what was um what was about the ad that attracted your attention to respond And he can tell you now That oh you know I just do not remember the ad Please dont be like one of these agents who just okay so has to be one plus one two and thats it No right no left If hes saying that he doesnt remember the ad thats fine Thats fine Do not oh no but you know that was the ad with the big building and the lake nearby So what was About the ad that attracted your attention so hes going to think you are stupid Please dont do that Dont Instead of this if he doesnt remember the ad thats completely fine But what youre actually asking is okay but rather than you know that what was what was that that even kind of prompt you to look into Dubai real estate altogether This is what were actually asking What was that triggered you to start even looking at potential investment in Dubai Why even got curious about the ROI in Dubai You see answering this question just think through that Answering this question what he gonna tell you He gonna tell you exactly the things that you want to tell him yourself Oh you know that Dubai is really looks so good People are making money Poo toot toot toot cuckoo And remember remember our main trigger He is listening with the own ears The words are coming inside of his ears So hes selling to himself why Dubai is a good option for him And you just sit down and relax Come on Why did you decide potentially to look in Dubai in the first place Its another good question to ask But the most important here potentially neutral language Because if Im going to be direct Olga whats the difference between why do you want to invest in Dubai and what makes you decide potentially to look into investing in Dubai in the first place You see how different it is One is very pushy Hes going to tell you well Im not even sure yet Like well Im just exploring the option But and the question that I invite you to use its so neutral Its its its not about him doing Hes not gonna say oh no but I am just as well potentially looking Yeah yeah thats what I said So so what was that about I dont know Dubai specifically or maybe the situation in your country What triggered you to even start looking now And again you can rephrase it Potentially neutral language Looking to buy property at the first place Its important right Because we are trying to create the urgency Urgency means now So hes going to tell you why now as well Now were getting back to the triggering his procrastination because we know some investors are there on the market for years and years just clicking things and Okay well lost that property lost this property We need to know that because the reason the delay decision is going to be the same reason that hes going to give to you when you should be basically signing the contract Do you want to know what is the potential reason of him delaying right now the first call or do you want to know it in a month when you wasted hours and hours and say I have such high hopes Im waiting Okay good So have you been looking for some time already Have you seen anything you like What did you like about it This is not only the discovery of what is his features and benefits its helping him you know to reflect on his own experience because he might not be even thinking that way you know because Kind of creating a psychology loop for him and giving him an opportunity to discover for himself what he actually wants and needs And if you will hear him talking about like variety of different projects with no certain coordination well I was looking in I dont know on the Palm then I was looking somewhere in Dubai South then I decided to get the villa in Villanova and then all of Mohammed bin Rashid City and then I was looking at Damac Hills too Well this is a good question to ask Okay so rather than that out of those ones which one you feel like the most suitable for for you out of what youve seen Again most of the agents will not ask this question Most of the agents gonna start talking oh yeah Dubai itself that XYZ and ABC and Villanova is a BBC and DBC Not all of this bullshit Trying to pitch him trying to show him oh yeah I know stuff It doesnt matter Its not about you knowing stuff Its yet a first call He doesnt believe you He doesnt see you as a trusted authority at all Okay Important point Do you have a property already generating a passive income or thats going to be your first one or which kind of investment do you have Its very important for us to understand whom are we talking Is it a first time investor Is it someone whos been investing for 15 years in Canada and now looking in Dubai Is someone whos been investing in Dubai and now choosing Ras Al Khaimah Because with different type of clients and Im talking in terms of their experience were going to have a different type of conversation And you have to be ready with a different type of data as well And if you feel that your maturity and you know market knowledge is way less than your client You hopefully not going to sell him at least but youre going to learn something from him When you potentially would like I dont know if you can do like this to start making money with this property um or to move into the property depending it was like an end user or investor Most of the time were going to have investors of course But instead of asking him um when do you want to buy Because no one wants to buy and spend money but everyone wants to start making money with the investment So when you are planning to start making money with your investment One more time recap of all of these questions Avoid high pitch This is the best investment ever in the whole entire world When you ask the question be calm collected confident Do the pauses on the words that you want to enhance Use the verbal cues to make it sound natural because Im sure you know all of the questions already and thats very simple What was about the ad that kind of attracted your attention to respond Okay rather than ad what was your initial goal with you know this investment in Dubai And why you decided to potentially look into Dubai market in the first place Well this one I have to check Have you been looking for some time already Have you seen anything there you like What did you like about it Do you have any property already generating a passive income for you or which kind of investment do you have And the last one When you potentially would like to start making money with this property Boom Its going to be in next part I think its going to be part number 8 Im not sure I lost count So see you in the next one

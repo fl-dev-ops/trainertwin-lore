@@ -1,15 +1,16 @@
 ---
 id: a3ZI3TpEaKc
-title: "If Your Client Says \u201CDubai Is Oversupplied\u201D - Answer This"
-url: https://www.youtube.com/watch?v=a3ZI3TpEaKc
+title: If Your Client Says “Dubai Is Oversupplied” - Answer This
 date: '2026-04-12'
-duration: 00:09:14
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=a3ZI3TpEaKc
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 2
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
+  '1': Speaker 1
+  '2': Speaker 2
 ---
 
 
@@ -17,77 +18,14 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Welcome to the battle field of Dubai My name is Olga Sienka Im real estate sales trainer Im teaching you how to keep sane in this war market uncertainty and how using my nine strategies keep selling off plan This video are for real estate agents However if you are a potential buyer I advise you to stay till the end because maybe its going to click something in your mind I do not teach how to trick manipulate people
+Welcome to the battlefield of Dubai My name is Olga Senenko Im real estate sales trainer Im teaching you how to keep sane in this war market uncertainty and how using my 9 strategies keep selling off plan This video are for real estate agents However if you are a potential buyer I advise you to stay till the end because maybe its going to click something in your mind I do not teach how to trick Manipulate people I teach how to see the market of Dubai for what it really is how to select the right products and how to understand the logic Ive been here for eleven years selling myself Im not coming from L and D background Never been a cabin crew myself as much as I wish They just decided not to take me Okay strategy number three You are selling to the offline investor You have to explain the difference between as Im saying supply on paper and real delivery supply Now let me ask you this What was the biggest objection or concern you had from the clients There is so many things going to be built Theres going to be oversupply The market will not be able to absorb it meaning there is not going to be enough clients who are going to be buying this Thats why the prices will go down And please correct me if Im wrong in the comments right now Just stop the video Correct me You havent been getting this rejection from your clients for the past two years Like I was getting them when I was selling myself in 2019 2018 Yeah thats the same rejections Can you imagine Okay so Ive got my talking points here and my goal is to give you talking points as well So the first message to the client is that The developer announcing one thing which is supply on paper but real delivery is completely different If you will go to any platforms which you as an agent should be using hopefully you have an access from your company Radin Property Monitor you will see that there is a certain percentage of new units the square feet that will be delivered in GVC GVT Sports City However then you click on certain developers which are mentioned and then you go and understand what is the actual construction progress of this project You will be shocked A lot of them despite should be delivered in the end of 2026 which is this year do have 25 or 35 percent completion Some of them even have less Is this realistic that this project is going to be completed Of course Mom So I want you to understand that on average and Im saying on average because I havent done the proper deep research but its just coming from the deliveries of the past years The difference between on paper which is announced and realistic supply which going to be handed over is around 40 percent 40 percent less not more unfortunately So that means that Its everything comes for your understanding of the actual absorption I hate these big words meaning how many people coming into Dubai looking for a new place to live And I know youre gonna tell me now Olga but this is a war Whats going to be happening People are going to start coming Okay lets work with your beliefs Yet and Im talking about 2026 18th of March is just the noise On one of my trainings my agent just said yeah Israel been living in a war for 50 years way more dangerous place Whats happening with the real estate there I dont know You ask yourself do you think its cheaper than in Dubai Youre going to be surely disappointed So A lot of projects will be delayed because of what is happening Before the lets say uncertainty of Dubai market uncertainty of Dubai and all this noise we had on average 15000 to 20000 people coming into Dubai getting their residency per month So this is quite a big influx And realistically as soon as everything will go back to normal and it will as soon as the airport going to be opened I have Agents texting me Theyre not yet the agents but they planning to relocate Some of them are actually relocating by the end of March regardless of what Ive told them Hey from Athens and some others coming from UK and others coming from Canada And despite what Im telling them guys calm down Theyre still coming By the way if you like what you hear and you feel like me as a trainer could help you to sell more in Dubai real estate I have a Telegram community Strong in Sales with Olga Senenko The link to join is in the description of this video See you there Go back to the video Why its great time to come now Im not anyhow telling you to do that There is so many units available We were struggling here with rental payments Now you can jump in on a really low scale Thats going to be a very short temporary opportunity but you can do that Like but Im not This is video not about how to move to Dubai and start your career in Dubai real estate I have others about this So I would say potentially there will be a project referring to my previous strategies which number one and number two when Im talking about not all developers are born equal A lot of projects well little bit Some projects will be cancelled or delayed The money will be returned To the buyers right So we are definitely not going to be seeing the supply that we were anticipating Even without the war uncertainty it would not be the supply that been announced So now lets move to the next stage When the market will get back to normal And Im gonna just now bring you into the idea of the hero story But this is how all of the marketing how all of the movies are created There is a hero and he is as soon as you start supervising him just watching him in whatever context for example its a movie he had a certain I would say Circumstances which were okay and then something happened to him Boom And this is how you got dragged into the story So every hero and jazz plays aha moment here has a villain he has to overcome to become a different person to get the quality to become stronger And this is exactly what is happening to me right now Yes in this you know bombing situation adopting getting new knowledge repackaging yourself and to be Become resilient This is whats happening to you if youre watching this video You are an agent who wants to understand how to keep making money how to become better in your profession how to be that person who will take over the market Because everyone who is not sure in their capabilities theyre running away They already left Dubai will be leaving in the next month or 2 even despite will the bombing continue or no By the way in my further strategies I will go over Maybe what you are afraid of What if the situation going to be escalated What if
 
+### Speaker 2 · Speaker 2
 
-I teach how to see the market of Dubai for what it really is how to select the right products and how to understand the logic Ive been here for 11 years selling myself Im not coming from L D background never been a cabin crew myself as much as I wish they just decided not to take me Okay strategy number three You are selling to the off on investor You have to explain the difference between as Im saying
+the Americans going to be putting boots
 
+### Speaker 1 · Speaker 1
 
-supply and paper and real delivery supply now let me ask you is what was the biggest objection or concern you had from the clients there is so many things going to be built theres going to be oversupply the market will not be able to absorb it meaning there is not going to be enough clients who are going to be buying this thats why the prices will go down and please correct me if im wrong in the comments right now just stop the video correct me if you havent been getting this rejection from your clients for the past two years
-
-
-Like
-
-
-I was getting them when I was selling myself in 2019 2018 Yeah thats the same rejections Can you imagine Okay so Ive got my talking points here and my goal is to give you talking points as well So the first message to the client is that
-
-
-The developer announcing one thing which is supply on paper but real delivery is completely different If you will go to any platforms which that you as an agent should be using hopefully you have an access from your company Radin Property Monitor you will see that there is a certain percentage of new units the square fit that will be delivered in GVC GVT Sport City However then you click on a
-
-
-certain developers which I mentioned and then you go and understand what is the actual construction progress of this project you will be shocked a lot of them despite should be delivered in the end of 2026 which is this year do have 25 or 35 percent completion some of them even have less is this realistic that this project going to be completed of course not so I want you to understand that on average and Im saying on average because
-
-
-havent done the proper deep research but its just coming from the deliveries of the past years the difference between on paper which is announced and realistic supply which going to be handed over is around 40 percent 40 percent less not more unfortunately so that means that its everything comes for your understanding of the actual absorption and I hate these big words meaning how many
-
-
-People coming into Dubai looking for a new place to live and I know youre gonna tell me now Olga but this is a war whats gonna be happening people gonna start coming okay lets work with your beliefs yet and Im talking about 2026 18 of March is just the noise
-
-
-On one of my trainings my agent just said yeah Israel has been living in a war for 50 years way more dangerous place Whats happening with the real estate there I dont know You ask yourself do you think its cheaper than in Dubai Youre going to be surely disappointment So
-
-
-A lot of projects will be delayed because of what is happening Before the lets say uncertainty of Dubai market uncertainty of Dubai and all this noise we had on average 15 to 20000 people coming into Dubai getting their residency per month So this is quite a big influx And realistically as soon as everything will go back to normal and it will as soon as the airport going to be opened I have agents texting
-
-
-me theyre not yet the agents but they planning to relocate some of them are actually relocating by the end of March regardless of what Ive told them hey from Athens and the um some others coming from UK and others coming from Canada and despite what Im telling them guys calm down theyre still coming By the way if you like what you hear and you feel like me as a trainer could help you to sell more in Dubai real estate I have a telegram community
-
-
-strong in sales with Olga Senenka The link to join is in the description of this video See you there Go back to the video Why its great time to come now Im not anyhow telling you to do that There is so many units available We were struggling here with rental payments Now you can jump in on a really low scale Thats going to be a very short temporary opportunity but you can do that Like but Im not this is video not about how to move to Dubai and start your
-
-
-career in Dubai real estate I have others about this
-
-
-I would say potentially there will be a project referring to my previous strategies which number one and number two when Im talking about not all developers are born equal a lot of project little bit some projects will be cancelled or delayed the money will be returned to the buyers right so we are definitely not going to be seeing the supply that we were anticipating even without the war uncertainty
-
-
-not be the supply that been announced so now lets move to the next stage
-
-
-when the market will get back to normal and im gonna just now bring you into the idea of um the hero story but this is how all of the marketing how all of the movies are created there is a hero and he is as soon as you start supervising him just watching him and uh in whatever context if for example its a movie he had a certain
-
-
-I would say circumstances which were okay and then something happened to you boom and this is how you got dragged into the story so every hero and just please aha moment here has a villain he has to overcome to become a different person to get the quality to become stronger and this is exactly what is happening to me right now yes in this you know bombing situation adopting getting new knowledge
-
-
-repackaging yourself and to become resilient this is whats happening to you if youre watching this video youre an agent wants to understand how to keep making money how to become better in your profession how to be that person who will take over the market because everyone who is not sure and their capabilities theyre running away they already left Dubai will be leaving in the next month or two even despite will the bombing continue or
-
-
-no by the way in my further strategies i will go over maybe what you are afraid of what if the situation going to be escalated what if
-
-### Speaker 2
-
-The Americans gonna be putting boot
-
-### Speaker 1
-
-on the ground Im going to be talking about this it doesnt mean that all plan real estate will be gone can you imagine Ive been going to be logically bringing you into that so that my conclusion you need to look at how Dubai going through the story
-
-
-Dealing with the villain big enemy well not our enemy but that is a villain How are we gonna bounce back Which glory gonna be on our shoulders when all of this will finish Im gonna ask you as I always do near emotional persuasion you know this is what Jeremy Minor took me to do What do you think will happen with Dubai as a
-
-
-Desirable place to live Will that go down or will that go up And if that will go up as you probably already explained to us what will happen with the price of real estate So see you in the next one because its nine strategies
+on the ground Im going to be talking about this It doesnt mean that offline real estate will be gone Can you imagine Ive been going to be logically bringing you into that So my conclusion you need to look at how Dubai going through the story Dealing with the villain big enemy Well not our enemy but that is a villain How are we gonna bounce back Which glory gonna be on our shoulders when all of this will finish Im gonna ask you as I always do native emotional persuasion You know this is what Jeremy Miner taught me to do What do you think will happen With Dubai as a desirable place to live will that go down or will that go up And if that will go up as you probably already explained to yourself what will happen with the price of real estate So see you in the next one because its nine strategies

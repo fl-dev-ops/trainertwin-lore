@@ -1,17 +1,18 @@
 ---
 id: lO6HdmnwdVg
 title: ERASE IT - How to Pitch the Map of Dubai for Investors online 1
-url: https://www.youtube.com/watch?v=lO6HdmnwdVg
 date: '2025-10-17'
-duration: 00:29:59
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=lO6HdmnwdVg
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 4
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  '1': Speaker 1
+  '2': Speaker 2
+  '3': Speaker 3
+  '4': Speaker 4
 ---
 
 
@@ -19,605 +20,154 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-talking can pull the microphone
+Talking can pull the microphone and talk into the microphone Okay so let me quickly rush through that from the beginning So saying Mr Client so so over Calm down So this is the map of Dubai Yes I can see Im going to bring you on a small virtual tour This is probably where you landed and out of what you remember where youve been to Dubai three four years ago three months ago which areas have you seen Hes telling me the areas and I am showing him these areas Yeah oh yeah downtown Burj Khalifa Youve been here You can see this is Dubai Mall Dubai Marina Okay you probably drove for Sheikh Zayed Road This is the road that has Eleven lines on one side and the eleven lines on the other side Is it true or no How many lines Eight Seven You can play a little game with them Oh I dont know I dont remember Oh seven Okay So this is Dubai Marina This is Palm You probably have seen that Have you have you actually been on the Dubai Eye which is on the Bluewater Islands The one that you can actually see everything as if almost now Have been havent been So Im playing around Then Im moving it to show him coming back to the airport This is where you landed And depending depending on what I sell lets imagine that now I have to sell its going to be next Let me sell GVC right You okay me to sell GVC Yeah Okay so this is Dubai International Airport This is where you landed It probably was a bit of traffic around and youve seen like not a newish part of the city but this is what we call an old airport right Does that look old for you Youre gonna say no it was great and new Oh well thats just what we call old in Dubai But you probably heard about the Al Maktoum Yes no Being built actually and started operation still in 2016 but I was landing there a couple of times in 2016 Then it was not fully completed but now its getting prepared Now its operational with cargo Now its getting prepared to become the main airport because its the biggest airport in the world Yes Last time I checked it was still the thing By the way Im not sure if you heard that but in Dubai were always going to say the The best the biggest the fastest is just because our Sheikh Mohammed has this saying I kind of like it No one remembers number two Yeah So he hes kind of have this motto Why Im saying this guys You see what Im build Im building a history in his mind Im telling him a story Should I bring the Sheikh Mohammed underneath of this all So he gonna have more credibility Does Mohammed Sheikh Mohammed has more credibility in the world Does anyone said anything bad about Sheikh Mohammed Okay were not going to talk about the reason of it because youre not allowed to post the negative stuff on Instagram or social media But its really nothing to post I mean oh well the security guard was rude with me Yeah well cool down Yeah So I am bringing a little bit more credibility to me and a little bit more credibility to the story So that now I can put it together So this is where you can see the city is moving from the old part of Dubai that youve seen Like this creek is the natural one been here forever since you know 2015 where they still been fishing for the pearls and fishing for the fish and doing some trades with ships which were coming from Europe and from India And that was the place where theyre meeting So the first thing when they discover the oil they of course developed the area which was already almost developed But now if I will tell you oh lets hang out in Deira what will you tell me Nah
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-and talk into the microphone
+Where is Deira
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So let me quickly rush through that from the beginning
+Where is Deira Yeah Yeah Deira is basically oops everything here This spot This is Deira The Gold Souk Have you seen a Gold Souk Its a fantastic place to just go entertain yourself By the way this canal you can see the small lines you can for 1 dirham It was 1 dirham for the boat Still 1 dirham is it
 
+### Speaker 2 · Speaker 2
 
-So same Mr Klein so so older
+Is that what we saw
 
+### Speaker 1 · Speaker 1
 
-This is the map of Dubai
+Yeah Its a very old school boat So if you want to have a feeling Yeah but its actually not
 
+### Speaker 2 · Speaker 2
 
-Im gonna bring you on a small virtual tour
+old
 
+### Speaker 1 · Speaker 1
 
-This is probably where you landed and out of what you remember youve been to Dubai three four years ago three months ago which areas have you seen And hes telling me the areas and I am showing him this area say oh yeah downtown Burj Khalifa youve been here you can see this is Dubai Mall
+Its old Dubai yeah
 
+### Speaker 2 · Speaker 2
 
-by Marina Okay you probably draw for Shakeside Road This is the road that has 11 lines on one side and the 11 lines on the other side Is it true or no How many lines Eight
+Thats the place
 
+### Speaker 1 · Speaker 1
 
-seven you can play a little game with them oh i dont know i dont remember oh seven okay so this is dubai marina this is palm you probably have seen that have you have you actually been on the uh dubai eye which is on the blue water islands the one that you can actually see everything as if almost now have been havent been so im playing around
+Its kind of still operational and its not for tourists only People are just really using it for moving from one side to another side There is a Gold Souk as you can see over here Gold Souk where you can I mean maybe buy yourself a golden dress full if you wish to And Im sure that a lot of people are still buying it otherwise why would they have a souk there However as soon as the oil been discovered They start to move on the coastline So this is the industrial development of the city since 2000 sorry its since 1970s So they start moving towards the giving the land over here and all of this small nice villas that you can see Theres all low rise Unfortunately nothing that you and me can own as much as I wish Till we moved further enough to the Palm Jumeirah and Palm Jebel Ali Palm Jumeirah which year it started construction We had this in the 2000 exactly 2000
 
-
-Then Im moving it to show him
-
-
-Coming back to the airport this is where you landed
-
-
-And depending depending on what I sell lets imagine that now I have to sell
-
-### Speaker 3
-
-Thats okay
-
-### Speaker 1
-
-Its whats gonna be next let me sell GVC right You you okay me to sell GVC
-
-### Speaker 2
-
-Right youre
-
-### Speaker 1
-
-Okay so this is Dubai International Airport This is where you land at It probably was a bit of a traffic round and youve seen like no a newish part of the city But this is what we call an old airport right Does that look old for you Youre gonna say no it was great and you oh well thats just what we call old in Dubai
-
-
-But you probably heard about the Almag tomb Yes no Being built actually and started operation still in 2016 but I was landing there a couple of times in 2016 then it was not fully completed but now its getting prepared now its Operation Wolf Cargo now its getting prepared to become the main airport because its the biggest airport in the world This last time I checked it was still the thing By the way Im not sure if you
-
-
-heard that but in Dubai were always going to say the best the biggest the fastest is just because our Sheikh Mohammed has this saying I kind of like it no one remembers number two
-
-
-So the he he is kind of have this motto why Im saying this guys you see what Im build Im building a history in his mind Im telling him a story
-
-
-Should I bring the Sheikh Mohammed underneath of this all So he gonna have a more credibility Does Mohammed Sheikh Mohammed has more credibility in the world Has anyone said anything bad about Sheikh Mohammed
-
-
-Okay were not going to talk about the reason of it because youre not allowed to post the negative stuff on Instagram or social media but its really nothing to post I mean well well the security guard was rude with me yeah well
-
-### Speaker 3
+### Speaker 2 · Speaker 2
 
 Yeah
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-cool down yeah So I am bringing a little bit more credibility to me and a little bit more credibility to the story
+yeah 2000 I mean 2002 We had the law of the freehold which is where we were able to kind of start selling that But the foundational construction or maybe it was 2002 Anyway 2000 lets imagine Dubai Marina started a little bit later The preparation for the canal because you can imagine this canal was never here was built as per Example of Marina in Vancouver Theres lots of stuff we have in Dubai including Dubai Eye being built as per some already winning lets say piece of attraction in the world So they start building Marina they start building Palm Jumeirah However this area all Sheikh Zayed Road if I will show you the pictures And usually guys at this point I havent prepared it but I think I do have okay I do have some training recordings You can find the pictures of Marina in lets say 2000 2002 2003 Its not going to be written 2002 2003 but you can lets say forecast that it was there And Im usually When I was online with the clients Im usually I may jump to another page where I will show them how Marina looked like in 2004 But Im not going to tell them that its 2004 Im just like well this is a picture of Marina Which year do you think it is And I let them guess And then Im going to show them the other picture of Marina which is a little bit more completed and I will ask them which Which year is this And theyre going to start guessing And then I will ask them when I have two pictures of Marina before and after Do you think anything like this will be possible Well distinguish that its like ten years time fifteen years time in your country within fifteen years time And I want them to tell me then and there that it will not But Im not gonna just like yes exactly Ive told you this its not possible listen to me No Im gonna say yeah but why So they can tell themselves again one more time why its not possible how Dubai is different blah blah blah Let them do this job Im steering them because I want them to see what they see now so they cannot unsee it and the decision gonna be based on the new reality for them Because this remember guys its educational Zoom Im teaching them but its its a kind of they have to come to their own realization Okay so Im saying okay so now lets imagine you know Marina what you know now Most of the people gonna say oh I want apartment at Marina this oh thats why I wanted to buy here or I wanted a downtown depending where they want Lets imagine they want Merina All European people I ever met they want in Merina If were talking about maybe Arabs theyre gonna want in downtown So thats thats kind of this thing If the human already understood that he doesnt have much money then were gonna move further and its gonna be them GVC or something like that GLT The way what I need to do now Im selling GVC right I have to kill Marina Boom I have to kill Marina idea of Marina in his mind so hes never going to think about Marina again I was like look like in your mind I know youve seen the pictures like in your mind um who make the most money on the property in Marina Those who invested when you know it was already completed No Or those who put money down but it was like some sand some buildings What he gonna tell me
 
+### Speaker 2 · Speaker 2
 
-So then now I can put it together So this is where you can see the city is moving from the old part of Dubai that youve seen Like this creek is the natural one been here forever since you know 2015 where they still been fishing for the pearls and fishing for the fish and doing some trades with the ships which were coming from Europe and from India and that was the place where theyre meeting So the first thing when they discovered
+Those who invested early
 
+### Speaker 1 · Speaker 1
 
-oil they of course developed the area which was already almost developed but now if I will tell you oh lets hang out in data what will you tell me
+And Im gonna say why do you think so Again why Im asking this question Because I dont want to tell him I want him to come to his own realization Youre gonna say oh well maybe hes gonna say I dont know I just I just makes common sense I was like well you know how it works Every piece of infrastructure development Not only in Dubai everywhere in the world right Adds on to the value of the property around it right Every piece of infrastructural development whatever it is a new road boom fantastic So its more accessible now more people can come its easier its become more on demand We add in a metro line do you think it increases the price property or decreases Increases On average in Dubai specifically its from because we can measure it with the time usually it increases the price on the 15 20 percent straight away and then its gradually going to be always higher in those areas compared to the other areas How Why So Im asking him this one that one new mall which is Marina already has Tram Marina already The new beach area which is by Miras JBR Beach like this the restaurants and all of those things which is already there Its literally what you can add There are still some empty construction plots but there is nothing else going to be happening over there Nothing else to add Like everything been added So what youre really buying is already on the you know the highest possible appreciation price What should have happened there to get the price higher than what they are Im not saying the price is not going to go up but Im just saying the progression of the prices will be very moderate compared to the areas Im not saying to the area but where still you will have metro open where you still have more roads Add on Do you see how how that affecting the price I mean interacting with him Does that make sense that the metro is adding to the price of the property Youre gonna say it Im always Im speaking maximum three minutes on my own and then Im asking the question Do you see my point Does that make sense for you Or what do you think about it What What would you say gonna make a big difference in the price Because this is engagement guys Theyre not gonna just stay engaged if youre not asking them the questions You have to engage with them by asking the questions right Then you see I have a picture that show him the sand I want him to see the sand as something which gonna make me more money You see how Im flipping it So now he look at the sand potentially before he met me hes like ah no I dont like it Theres nothing there I want this nice building shiny ones But I want in his mind flip it and make it feels like oh exactly what I want So now lets lets move further So here is you have all of this fantastic uh villas community Emirates leaving You can see how green it is actually Its amazing how Dubai is green And now were talking about this nice circle in the middle By the way Dubai is very simple Like we call Jumeirah Village Circle or Jumeirah Village Triangle because this is a triangle You see this is a triangle And this is what is Arjan Science Park is next to it Its basically all the same thing Across the road we do have Sports City Motor City and then further down we have Jumeirah Golf Estate and then we are moving to various developments right But lets lets look at the Jumeirah Village Circle Well with Jumeirah Village Circle what is interesting is that they start building parks way before they actually start fully construction of the area So if in Marina and you know what Im killing right now right You walked out and thats basically what a little bit of parking a little bit of concrete the next building looking to the next building next building to the next building And if I will ask you which park do you like in Dubai Marina Youre gonna say well which park There is no parks right So its realistic Im not saying anything good or bad but the way they develop the master planning of Dubai Marina was more like how much we can get out of each and every piece And you can see it now with the new Dubai Harbour which was here Well before the first line of the buildings the older Marina the steel Marina they were thinking nothing ever would be constructed in front of me But now guess whats happened right But this is kind of reality of Dubai Where over here in Jumeirah Village Circle they did a bit of different master planning From the middle its a low rise This is basically 2 floor townhouses And then gradually the the height of the building increases towards the the edge You have higher buildings Its mainly done for them to protect and soundproof everything inside the circle Okay so I will have a different map which Im going to share with you which shows you the metro lines So the metro lines Were gonna give you easy to jump into a different map We Im gonna draw the metro lines on the map that I will share with you Hopefully we already open it But even if you dont have any metro line thats completely fine Where the metro line gonna be On which street On Hessa right But on this Hessa side on this 61 or where Over here next to Dubai International Stadium Okay thats a good place to start Trina Cafe and Kicks Okay on Al Hessa Street So what is happening here you have to currently understand All of the streets which are surrounded and specifically Hessa because happened to be not big enough is now getting extended The completion of this project probably gonna were gonna stop it and finally open all the roads probably next 6 months Theyve been doing it for quite a while So what its gonna do for you its gonna enable more people to come in easily However now even now we are talking about the highest I would say occupancy rate in the area Meaning your rental income for the short term and for the long term will be higher than in other areas Of course because of the price is affordable because of the location Lets look at where your tenants potential tenants could work Because thats what you want to look at right Is it easier to get from GVC to Media City which is here Which is Media City is here Amazon Web Services all of this its here Knowledge Village which is university for For literally everyone for professors and for the new students So if we look a little bit further Dubai Marina and GLT is an area this with the lakes Jumeirah Lakes Towers where half of the towers are actually offices And this is a free zone as well Now we are looking into the Business Bay and downtown So you can have exact road connecting all of it You dont want to use Sheikh Zayed you dont have to and youre getting into Business Bay and downtown Moreover all of this which is Al Qus you know Alex Avenue Grand City Mall its not like anything fantastic but you do not see much here But this area is slowly becoming a next I would say luxury destination for offices for shops
 
-
-What is there Yeah there is there is basically oops everything here
-
-
-this spot this is data the gold souk have you seen a gold souk its a fantastic place to just go entertain yourself by the way this canal you can see the small lines um you can for one dirham it was one dirham for the boat still still one dirham is it
-
-### Speaker 4
-
-Im sorry
-
-### Speaker 2
-
-So yeah
-
-### Speaker 1
-
-Its a very old school boat if you want to have a feeling yeah but its actually not
-
-### Speaker 3
-
-Actually not older by
-
-### Speaker 1
-
-Its a its an old Dubai yeah its its kind of still operational and the
-
-### Speaker 3
-
-Yeah its its kind of
-
-### Speaker 1
-
-Its not for tourists only people are just really using it for moving from one side to another side There is a gold souk as you can see over here gold souk where you can I mean maybe buy yourself a golden dress
-
-
-wish to and Im sure that a lot of people are still buying it
-
-
-Otherwise why would they have a souk there However as soon as the oil been discovered they start to move on the coastline So this is the industrial development of the city since 2000 sorry its since 1970s So they start moving towards the giving the land over here and all of this small nice villas that you can see Theres all low rise
-
-
-Unfortunately nothing that you and me can own as much as I wish
-
-
-Um till we moved further enough to the Panjumera and Panjibali Panjumera which year it started construction We had this in the 2000 exactly 2000
-
-### Speaker 3
-
-Thats in the
-
-### Speaker 1
-
-Yeah two thousand I mean
-
-### Speaker 2
-
-Oh
-
-### Speaker 1
-
-In 2002 we had the law of the free hole which is where we were able to kind of start selling that
-
-
-But the foundational construction or maybe it was 2002 anyway 2000 lets imagine Dubai Marina started a little bit later The preparation for the canal because you can imagine this canal was never here was built as per example of Marina in Vancouver Theres lots of stuff that we have in Dubai including Dubai Eye being built as per
-
-
-some already winning
-
-
-lets say piece of attraction in the world so they start building marina they start building pal brumera however this area all shangri la road if i will show you the pictures and usually guys at this point i havent prepared it but i think i do have okay um i do have some training recordings you can find the pictures of marina um in lets say 2000 2002 2003
-
-
-Its not going to be written 2000 to 2003 but you can lets say forecast that it was there And Im usually when I was online with the clients Im usually I may jump to another page where I will show them how Marina looked like
-
-
-in 2004 But Im not going to tell them that its 2004 Im just like well this is a picture of Marina Which year do you think it is And I let them guess And then Im going to show them the other picture of Marina which is a little bit more completed And I will ask them which year is this
-
-
-And theyre gonna start guessing and then I will ask them when I have two pictures of Marina before and after
-
-
-Do you think anything like this will be possible Well distinguish that its like 10 years time or 15 years time in your country within 15 years time And I want them to tell me then and there that it will not But Im not gonna just like yes exactly Ive told you this its not possible listen to me No Im gonna say yeah but why
-
-
-So they can tell themselves again one more time why its impossible how Dubai is different blah blah blah Let them do this job Im steering them Because I want them to see what they see now so they cannot unsee it and the decision going to be based on the new reality for them Because this remember guys its educational zoom Im teaching them
-
-
-Its its a kind of they have to come to their own realization
-
-
-Okay so Im saying okay so now lets imagine you know Marina what you know now Most of the people are going to say oh I want apartment in Marina at this store thats why I wanted to buy here or I want it in downtown depending where they want Lets imagine they want in Marina honestly
-
-
-All European people I ever met they want in Marina If we are talking about maybe Arabs theyre gonna want in downtown
-
-
-So thats kind of this thing If the human already understood that he doesnt have much money then were going to move further and its going to be them GVC or something like that GLT The way what I need to do now Im selling GVC right I have to kill Marina
-
-
-Boom I have to kill Marina idea of Marina in his mind so hes never gonna think about Marina again And I was like look like in your mind I know youve seen the pictures like in your mind who made the most money on the property in Marina Those who invested when you know it was already completed Or those who put money down when it was like some sand some buildings What are you gonna tell me
-
-### Speaker 3
-
-Those are the best of the day
-
-### Speaker 1
-
-And Im gonna say why do you think so Again why Im asking this question Because I dont want to tell him I want him to come to his own realization Youre gonna say oh well um uh maybe hes gonna say I dont know I just I just makes common sense I was like yeah well you know how it works
-
-
-Every piece of infrastructure development not only in Dubai and everywhere in the world right adds on to the value of the property around it right Every piece of infrastructural development whatever it is a new road oh boom fantastic So its more accessible now more people can come its easier its become more on demand We add in a metro line Do you think its increases the price property or decreases Increases
-
-
-in Dubai specifically it from because we can measure it with the time usually it increases the price on the 15 20 percent straight away and then its gradually going to be always higher in those areas compared to the other areas
-
-
-So Im asking him this one that one new mall which is Marina already has tram Marina already has the new beach area which is by Miras GBR beach like this the restaurants and all of those things which is already there Its literally what you can add There are still some empty construction plots but there is nothing else going to be happening over there
-
-
-nothing else to add like everything being added so what youre really buying is already on the you know the highest possible appreciation price what should have happened there to get the price higher than what they are Im not saying the price is not going to go
-
-
-But Im just saying the progression of the prices will be very moderate compared to the areas Im not saying to the area but Im saying to the area where still you will have metro open where you still have more roads at on
-
-
-Do you see how that affecting the price Im interacting with him Does that make sense that the metro is adding to the price of the property Youre gonna say yes Im always Im speaking maximum three minutes on my own And then Im asking the question
-
-
-Do you see my point Does that make sense for you Or what do you think about it What would you say gonna make a big difference in the price Because this is engagement guys Theyre not gonna just stay engaged if youre not asking them the questions You have to engage with them by asking the questions right
-
-
-Then you see I have a picture that show him the sand I want him to see the sand as something which gonna make me more money You see how Im flipping it So now he look at the sand potentially before he met me hes like ah no I dont like it theres nothing there I want this nice building shiny ones But I want in his mind flip it
-
-
-And make it feels like oh exactly what I want
-
-
-So now lets move further So here you have all of this fantastic villas community Emirates living You can see how green it is Amazing how Dubai is green And now were talking about this nice circle in the middle By the way Dubai is very simple We call
-
-
-Jamaica Village Circle or Jamaica Village Triangle because this is a triangle
-
-
-This is a triangle and this is what is Arjan Science Park is next to it Its basically all the same thing Across the road we do have a sports city
-
-
-Motor City and then further down we have Jumera Golf Estate and then we are moving to a various developments right but lets lets look at the
-
-
-Jamaica Village Circle Well with Jamaica Village Circle what is interesting is that they start building parks
-
-
-way before they actually start fully construction of the area So if in Marina and you know what Im killing right now right you walked out and thats basically what a little bit of parking a little bit of concrete the next building looking to the next building next building to the next building and if I will ask you which part do you like in Dubai Marina youre gonna say well which part There is no parks right So its realistic Im not saying anything good or bad but the way they develop the
-
-
-Master planning of Dubai Marina was more like how much we can get out of each and every piece and you can see it now with the new Dubai harbour which was here Well before the first line of the buildings the older Marina theres still Marina They were thinking nothing ever could be constructed in front of me But now guess whats happened But this is kind of reality of Dubai where over here
-
-
-In Jumera village circle
-
-
-They did a bit of different master planning from the middle its a low rise this is basically a two floors townhouses and then gradually the in the the height of the building increases towards the the age you have a higher buildings its mainly done for them to protect and soundproof everything inside the circle
-
-
-So I will have a different map which Im going to share with you which shows you the metro lines
-
-
-So the metro lines were gonna give you easy to jump into a different map Im gonna draw the metro lines on the map that I will share with you I hope you already opened it But even if you dont have any metro line thats completely fine Where the metro line gonna be On which street On Hesa right
-
-### Speaker 2
-
-Its called also the limit of GBC
-
-### Speaker 1
-
-But o on this has a site on this uh sixty one away
-
-### Speaker 2
-
-I think so
-
-### Speaker 1
-
-over here next to Dubai International Stadium
-
-### Speaker 2
-
-Ill look
-
-### Speaker 1
-
-Okay thats a good place to to start with
-
-### Speaker 2
-
-Its its
-
-### Speaker 1
-
-Darina cafe and cakes
-
-### Speaker 2
-
-Yeah
-
-### Speaker 1
-
-Okay on the Hesa Street So what is happening here you have to currently understand all the streets which are surrounded and specifically Hesa because it happened to be not big enough is now getting extended The completion of this project is probably gonna
-
-
-stop it and finally open all the roads probably next six months theyve been doing it for quite a while so what it its going to do for you its going to enable more people to come in easily however now even now we are talking about the highest um i would say occupancy rate in the area
-
-
-meaning your rental income for the short term and for the long term will be higher than in other areas Of course because of the price is affordable because of the location Lets look at where your tenants potential tenants could work
-
-
-Because thats what you want to look at right
-
-
-Is it easier to get from um GVC to Media City which is here
-
-
-which is Media City is here Amazon Web Services all of this is here Knowledge Village which is university uh for for literally everyone for professors and for the new students
-
-
-So if we look a little bit further Dubai Marina and GLT is an area with lakes Jumeirah lakes towers where half of the towers are actually offices and this is a free zone as well
-
-
-Now we are looking into the business bay and downtown so you can have exact road connecting all of it you dont want to use exit you dont have to and youre getting into business bay and downtown moreover all of this which is Alcuze Alexa Avenue Grand City Mall its not like anything fantastic but you do not see the much here
-
-
-But this area is slowly becoming a next I would say luxury destination for offices for shops
-
-### Speaker 3
+### Speaker 2 · Speaker 2
 
 Where is that Where is that
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Its here Venus gym
+Its here Venus Gym Alexa
 
+### Speaker 2 · Speaker 2
 
-Alex uh um
+The Grand City Mall
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Im your grand sire you know
+Yeah well this is not the mall you want to go because its just its where youre going to do your medical I think its full of construction workers
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-Yeah well this is not the mall you want to go because its just its where youre gonna do your medical I think
+Yeah yeah yeah
 
+### Speaker 1 · Speaker 1
 
-Its full of construction workers
+So all of this area from the Sheikh Zayed Road till Al Khail this Al Qouz area its slowly redeveloped
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-full of construction workers
+Is that Dubai East would you say
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So all of this area from the Sheikh Zayed Road till Al Khalil this Al Qus area its slowly redeveloped
+I dont think anyone calls it Dubai East We dont have this east west So now let me ask you this Mr Client For those people who are working in that location What the salary going to be like If if they will found the community where it can be family slash single oriented because in GVC we have actually both We have several hotels with pubs alcohol license which is not the case if you live for example in GVT We have parks which been already matured parks exactly because they started building it a little bit earlier and we have future metro line coming in And by the way its not that sandy anymore its almost developed But the the idea of sandy and something which is well developed You can do the same with Burj Khalifa You can get the pictures Im talking Burj Khalifa downtown you can get the pictures of downtown before and downtown now and understand the budget of the person whos probably not going to be there The same thing you can do if you are talking about DoubleTree by Hilton Which is the project in City Walk is here I think what it just I I know I I remember the plot on the Google Maps here It looks a little bit different So basically this is City Walk City Walk is a fancy fancy area which been probably completed fully only 7 years ago There is an old part of CityWalk which is now actually rebuilt So its residential and commercial and retail destination Main developer master developer is Miras Miras is semi government developer the same as Emaar and Nakheel And this developer is the developer of Jumeirah Garden City which used to be Satwa So this area around the DoubleTree by Hilton most of it is already built Its all the villas local villas So which means for you Mr Client that the lets say quantity of people who are driving around compared to population of I dont know 100 meters square meters where you have 3 4 5 high rise buildings of 25 by 50 floors compared to the same area where you have just local villas where the family is living Probably they have 2 3 cars but its still the density is way less And then if again were talking about Double Two by Hilton just across the road and I like it when Im saying just across the road of Sheikh Zayed Road the road is like huge its basically you have to cross all of it but just across the road Financial Center DAFC which is realistically we have plots somewhere over here with the 6 Six streets somewhere here Philip King something like this So DAFC all of this sexy fish Al Safadi all of this is DAFC This between the two streets Al Mustaqbal and Sheikh Zayed The rentals here for residential for one studio that touches around 100000 120000 depending on the building And to be honest always occupied Why Because theres not much residential available and there are not many plots left The area is almost completed this area The same way in Business Bay and Downtown the prices for the units are way higher than you can imagine So if you just live reasonably less than 10 minutes away from the destination where all of the rents are at least 40 percent higher what with the time of the developing the area altogether by Miraaz what that gonna do to price of your property Thats it So questions guys Now you can discuss about the master developers not master developers if it makes sense right When the people are saying oh there are master developers and there is just a development a single building What do they mean Some commercial developers like for example Damac and Shobha theyre not that many actually Azizi as well theyre building master planning So they take the huge piece of land and they develop everything there including you know the roads Some of the plots inside this area they sell to the other developers so they build the buildings So in Marina who is the master developer Coming back to this Emaar correct Is all the buildings in Marina built by Emaar No not even half probably less than half So what does it mean They manage the infrastructure they manage the mall but they sold their plots Plots to individual developers So the individual developer is buying the the plot within the community Does that still affect how the community is developed Oh this building is not from Emaar so its just not really it kind of goes with the whole flow When we are selling I mean in our company there is no master developers We dont do master development We just put individual buildings in someone elses master development What does that mean for us is that we are able to pick and choose the best project and the best location so that those who are investing there it was even I am as an individual developer right I dont have to invest way too much money and I do not depend on the completion of everything done by me I just buy a plot and my goal is to complete it in the time frame that I have Its way easier The probability that thats going to be completed is way higher than you know Im talking about nothing against Damac they theyre launching uh Damac Hills 2 Damac Islands but some lagoons in the middle of the sand Im not saying thats never gonna happen Im not saying that It will potentially at some point The same as Azizi launched in Mohammed bin Rashid City next to Shobha
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-So Im Dubai East which is
+Milan
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-I dont think anyone called it by east we dont have this east west which is
+Yeah Milan There was a different there was a community full community which is now Venice Azizi Venice Whats happening with the canal
 
+### Speaker 3 · Speaker 3
 
-So now let me ask you this Mr Client Well those people who are working in that location what the salary gonna be like
+The canal I think theyre going to outsource it to someone else to do it
 
+### Speaker 1 · Speaker 1
 
-If if they will find the community where it can be family slash
+The canal is not there so they sold it as a thing on a canal but they dont know how to do it
 
+### Speaker 3 · Speaker 3
 
-single oriented because in GBC we have actually both we have several hotels with a pubs alcohol license which is not the case if you live for example in GVT
+And I think now theyre going to visit the Rio I think Is going to pull the thing out for them
 
+### Speaker 2 · Speaker 2
 
-Uh we have parks
+Its always a question Its
 
+### Speaker 1 · Speaker 1
 
-which been already matured parks exactly because they started building it a little bit earlier and we have a future metro line coming in
+its its already here
 
+### Speaker 4 · Speaker 4
 
-And by the way its not that sandy anymore its almost developed
+Its it This
 
+### Speaker 3 · Speaker 3
 
-But the idea of Sandy and something which is well developed you can do the same with Burj Khalifa You can get the pictures Im talking Burj Khalifa downtown you can get the pictures of downtown before and downtown now
+is a Zizi Rivera This is Rivera
 
-
-understand the budget of the person is probably not gonna be there
-
-
-The same thing you can do if you are talking about double tree by Hilton
-
-
-which is the project in um
-
-
-City workers here
-
-
-I know I I remember the plot on the Google Maps here it looks a little bit differently so basically this is City Walk
-
-
-City Walk is a fancy fancy area which been probably completed fully only seven years ago There is the old part of City Walk which is now actually rebuilt So its residential and commercial and retail destination
-
-
-Our main developer our master developer is Miras
-
-
-Miras is a semi government developer the same as Imar and Nehil and this developer is the developer of
-
-
-Gemara Garden City which is used to be Satva
-
-
-So this area around the uh double G by Hilton
-
-
-Most of it is already built Its all the villas local villas So which means for you Mr Klein that the lets say quantity of people who are driving around compared to a population of
-
-
-I dont know
-
-
-hundred meters square meters where you have three four five uh high rise buildings of twenty five slash fifty floors compared to the same area where you have
-
-
-local villas where the family is living and probably they have two three cars but its still the density is way less and then if again were talking about double double two by hilton
-
-### Speaker 3
-
-I will do it by hue
-
-### Speaker 1
-
-Just across the road and I like it say that what Im saying
-
-
-just across the road of Sheikh Zayed Road the road is like huge its basically you have to cross all of it but Im just across the road financial centre DFC
-
-
-which is realistically we have plots somewhere over here with the six six streets somewhere here the philip king something like this so difc all of this sexy fish uh also fadi all of this is difc
-
-
-This between the two streets Ill um Mustaqbal and Sheikh Zayed
-
-
-The rentals here for residential for one studio that touches around hundred slash hundred twenty depending on the building
-
-
-And to be honest were always occupied Why Because theres not much residential available and there is not many plots left The area is almost completed this area
-
-
-The same way in business bay in downtown the prices for the units are way higher than you can imagine
-
-
-So if you just live
-
-
-are reasonably less than 10 minutes away from the destination where all of the rents are at least 40 percent higher
-
-
-with the time of the developing the area altogether by Miras what that gonna do to price of your property
-
-### Speaker 2
-
-Thank you
-
-### Speaker 1
-
-Questions guys
-
-
-Now you can discuss about the master developers not master developers if it makes sense right When the people are saying oh there are master developers and there is just a development a single building what do they mean
-
-
-Some commercial developers like for example the Mark and Shoba but not that many actually as easy as well theyre building master planning So they take the huge piece of land and they develop everything there including the roads some of the plots inside this area they sell to the other developers so they build the buildings there So in Marina who is the master developer
-
-
-Common bugs
-
-### Speaker 2
-
-Thats all that much
-
-### Speaker 1
-
-Is all the buildings in Marina built by a mark
-
-### Speaker 3
-
-No not
-
-### Speaker 1
-
-Not not even half probably less than half so what does that mean they they manage their infrastructure they manage the mall
-
-
-but they sold their plots to individual developers So the individual developer is buying the plot within the community Does that still affect how the community is developed Oh this building is not from Emar so its just not really It kind of goes with the whole flow
-
-
-When we are selling
-
-
-In our company there is no master developers We dont do master development we just put individual buildings in someone elses master development
-
-
-What does that mean for us is that we are able to pick and choose the best project and the best location so that those who are investing there was even I am as a individual developer
-
-
-I dont have to invest way too much money and I do not depend on the completion of everything done by me I just buy in a plot and my goal is to complete it in the time frame that I have Its way easier The probability that thats gonna be completed is way higher than you know Im talking about nothing against the market the launching the market heals too
-
-
-Damak Islands with some lagoons in the middle of the sand Im not saying thats never gonna happen Im not saying that it will potentially at some point The same as Azizi launched in Mohammed bin Rashid city next to Shobah
-
-
-Yeah whats the
-
-
-Milan but there there was a different there was a community full community which is now um um Venice as is the Venice
-
-
-Whats happening with the canal
-
-### Speaker 4
-
-And now I think theyre going to outsource it to someone else to do it
-
-### Speaker 1
-
-The canal is not there so they sold it as a thing on a canal
-
-### Speaker 4
-
-Yeah so they
-
-
-But they dont they dont know how to do it and I think now theyre going to visit the I think is going to build the canal for them
-
-### Speaker 1
-
-So what was the question
-
-### Speaker 3
-
-So what was the question Its its
-
-### Speaker 1
-
-Its its its already here
-
-### Speaker 2
-
-Its its
-
-### Speaker 1
-
-Ooh
-
-### Speaker 4
-
-This is an easy rumor
-
-### Speaker 2
-
-Show me I cannot
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Show me I cannot see it
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Th this area
+This area
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-racing club so its its just here somewhere no on this side so you can see these two lakes
+Racing club So its its just here somewhere no On this side So you can see these two lakes
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-No wait no on this side so you can see this
+Yeah
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So its two key lakes its little bit
+So its two kidney lakes Its Its a little bit
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Its here right
+its here right
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Its here right
+Next to Heartlands
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Next to
-
-### Speaker 1
-
-So what does it mean if you I mean if you see such a fantastic massive project which has the water facilities and has additional unimaginable stuff it will be completed but God knows when And Im very I mean again maybe Im just judgmental Im very questioning all of the water facilities which are so far away from the water
-
-
-If you remember what Ive told you this canal has actually been built no this canal been natural right this is creek natural creek this is a natural Dubai Creek
-
-### Speaker 4
-
-Natural fix
-
-### Speaker 1
-
-We have flamingos here But this was built when I moved here It was not here This Dubai Canal Starting all of that up till the actual canal
+Yeah So what does it mean if you I mean if you see such a fantastic massive project which has the water facilities and has additional unimaginable stuff it will be completed but God knows when And Im very I mean again maybe Im just Judgmental Im very questioning all of the water facilities which are so far away from the water Because you remember what Ive told you This canal has actually been built No this canal been natural right This is creek natural creek This is a natural Dubai creek We have flamingos here But this was built when I moved here It was not here This Dubai canal starting all of that up till the actual canal So all

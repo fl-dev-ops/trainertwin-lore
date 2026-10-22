@@ -1,14 +1,15 @@
 ---
 id: 7vgMoOyvhEY
 title: How to Sell Dubai to International investors
-url: https://www.youtube.com/shorts/7vgMoOyvhEY
 date: '2025-09-10'
-duration: 00:00:46
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/shorts/7vgMoOyvhEY
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,9 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So the point number two he has to understand the product When Im saying the product Im not talking about the layout of one bedroom apartment in Bengaluru I want him to understand the full the breakdown of the full legislation process I want him to understand how to buy a real estate market is different from the market where hes coming from Like for example in UK or in US or in India how different it is what are the differences why do people are making money
-
-
-here hopefully it will give him a couple of numbers as well right because just saying all the prices are rising is not gonna make him feel confident because you are the salesperson at the end of the day you just want to say something that gonna pay your commission
+So point number two he has to understand the product When Im saying the product Im not talking about the layout of one bedroom apartment in Bingatti Yeah I want him to understand the full the breakdown of the full legislation process I want him to understand how Dubai real estate market is different from the market where he is coming from Like for example in UK or in US or in India how different it is What are the differences Why the people are making money here Hopefully I will give him couple of numbers as well right Because just saying all the prices are rising is not gonna make him feel confident because you are the salesperson at the end of the day You just want to say something that gonna pay your commission

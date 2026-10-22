@@ -1,704 +1,512 @@
 ---
 id: QbE87m0_woI
-title: How to Reactivate Old Off-plan Leads - Part  1
-url: https://www.youtube.com/watch?v=QbE87m0_woI
+title: How to Reactivate Old Off-plan Leads - Part 1
 date: '2025-10-02'
-duration: 00:22:35
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=QbE87m0_woI
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 4
+speaker_count: 7
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  '1': Speaker 1
+  '2': Speaker 2
+  '3': Speaker 3
+  '4': Speaker 4
+  '5': Speaker 5
+  '6': Speaker 6
+  '7': Speaker 7
 ---
 
 
-# How to Reactivate Old Off-plan Leads - Part  1
+# How to Reactivate Old Off-plan Leads - Part 1
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Uh todays session I want
+Todays session I want just want to make sure its recorded Yes Todays session I want to go through the script and I want us to practice because Pratik was asking what if the client is again give me some options what to do right So now you all have the aged leads How many of those leads you called so far And you can put this in the chat How many dials or numbers you went through Looking at the chat
 
-
-Want to make sure its recorded yes todays session I want to
-
-
-go through the script and I want us to practice because pratique was asking what the client is again give me some options what to do right
-
-
-So now you all have the age leads
-
-
-How many of those leads you called so far and you can put this in the chat
-
-
-How many dials or numbers you went through
-
-
-Looking at the chart
-
-### Speaker 2
+### Speaker 2 · Speaker 2
 
 So can I give the blood and go
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yeah yeah we can do it yeah
+Yeah yeah you can you can say yeah Guys are you texting In the chat you can text or just say it Chibi how many you went through Yelena how many leads you called through the leads that I distributed Zero Zero Pratik Zero Zero
 
+### Speaker 3 · Speaker 3
 
-Is that you texting
+Im not started I will start from today
 
+### Speaker 1 · Speaker 1
 
-In the chat you can text or just say it should be how many you went through
+Okay cool Leo Rafael Oh my God Walter whats happened with your name Is this is this your phone or what
 
-
-Yelena how many leads you called through the leads that I distributed
-
-### Speaker 2
-
-It was your fault
-
-### Speaker 1
-
-Zero critique
-
-### Speaker 3
-
-Zero
-
-### Speaker 1
-
-Im not sure it
-
-### Speaker 3
-
-Im not starting I will start from today
-
-### Speaker 1
-
-Okay cool uh Leo Raphael oh my god Walter whats happened with your name
-
-
-Is this is this your phone or what
-
-### Speaker 3
+### Speaker 4 · Speaker 4
 
 I for some reason I connected but my sons name is there
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Okay probably you are from the different Google account
 
-### Speaker 3
+### Speaker 4 · Speaker 4
 
-Im probably thats the reason
+Probably thats the reason
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yes you have to be very careful Specifically if you will be getting the meetings from the frontline salespeople they are booking on your email the company email And if you will be in a different browser meaning not Google Chrome and in the Google Chrome if you will be in your Gmail account which is different you will never able to join And this is the common problem now Okay People think theyre joining and theyre not joining
+You have to be very careful specifically if you will be getting the meetings from the frontline salespeople They are booking on your email the company email and if you will be in a different browser meaning not Google Chrome and in the Google Chrome if you will be in your Gmail account which is different you will never able to join And this is the the common problem now Okay people think theyre joining and theyre not joining Okay lets make it easier Who called through the leads Who did the leads one one one
 
+### Speaker 2 · Speaker 2
 
-Okay lets make it easier who called through the leads who did the
+Hi Olga So I reached out to a couple of people
 
-### Speaker 4
-
-Uh hi Olga so I reached out to a couple of
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Okay fantastic
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-But I didnt call them directly so I sent them a message first just checking I know the availability
+But I didnt call them directly so I sent them a message first Just checking I know the availability and a couple of them responded
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-They are not doing this she be
+We are not doing this Shibi
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
 Sorry
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Lets not do that
+lets not do that
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
 Uh because I tried calling but there was either no answer or they were just cutting the calls
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Fantastic And then if theyre not answering then only and then you can send the message
+Fantastic And then if if if they are not answering then only and then you can send the message
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
 Yeah so so I tried calling the first few leads uh they were you know either not responding or uh you know they were just cutting the call
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Because theyre all leads this is whats gonna happen yeah you dont expect them to wait for your call right
+Theyre old leads This is whats going to happen
 
-### Speaker 4
-
-yeah yeah so so and then in that case then i sent them the message uh you know what was what it was about uh and then uh what i noticed was uh people outside were a little more responsive like there was somebody from who told me to call back today because she was in the office uh then there was a person from bosnia who said that he already purchased but now hes looking to this some near to win location so uh im in touch with that person and there was this
-
-
-person from Dubai who said hes also considering investing so Ill be meeting him today probably after the launch
-
-### Speaker 1
-
-Love it
-
-### Speaker 4
+### Speaker 2 · Speaker 2
 
 Yeah
 
-### Speaker 1
+### Speaker 1 · Speaker 1
+
+you dont expect them to wait for your call right
+
+### Speaker 2 · Speaker 2
+
+Yeah yeah So and then in that case then I sent them the message uh you know what was what it was about uh and then uh what I noticed was uh people outside were a little more responsive Like there was somebody from the UK who told me to call back today because she was in the office uh then there was a person from Bosnia who said that he already purchased But now hes looking to put this near to Wynn location So uh Im in touch with that person And there was this person from Dubai who said that hes also considering investing So Ill be meeting him today probably after the launch
+
+### Speaker 1 · Speaker 1
+
+Love it
+
+### Speaker 2 · Speaker 2
+
+Yeah
+
+### Speaker 1 · Speaker 1
 
 So out of how many calls youve got one meeting
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-Uh I think I reached out to maybe uh seven to eight people out of which uh one meeting today and two people are considering and I have to just
+Uh I think I reached out to maybe uh 7 to 8 people out of which uh 1 meeting today and 2 people are considering And I have to just
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Im so sorry thats a very amazing leads to be honest
+Im so sorry thats amazing leads to be honest And any conversion thats amazing leads Okay guys now um lets walk through the script again one more time I will open it right now Can you see it Yes Let me get into the page Can you see that right now
 
+### Speaker 5 · Speaker 5
 
-And any conversion thats amazing leads Okay guys now lets walk through the script again one more time
+Yeah
 
+### Speaker 1 · Speaker 1
 
-I will open it right now
+can you see that moving Okay so first of all lets be in touch with reality These leads might not respond these leads might not not be looking anymore So the first thing that we have to ask them is have you found what youre looking for or you are still looking Over here you can see uh that we place the question after giving them some context Who are you and why are you calling I would not say OBG or One Broker Group even Because thats irrelevant for them They will never gonna be able to hear that right So we just with the upswing we say hi name to confirm that this is actually the person Uh its just Olga And hes gonna ask you why you and what it is about Please do not default to I am a real estate agent from one broker group and you wanted to invest to the pro please dont do that Yes that defeats the purpose Theyre gonna tell theyre not interested So what we are saying that we are not I mean were making an impression Were not saying that Were making an impression that we are some sort of a customer care representative We are just following up have our company served the request Oh my God Do you understand why were doing this way Who can tell me why we are doing it this way rather than say oh thats me real estate agent are you still looking for a property
 
+### Speaker 3 · Speaker 3
 
-Can you see it
+To make them engage or else theyll get several calls so it will be random call and they will disconnect easily It seems
 
+### Speaker 1 · Speaker 1
 
-Let me get into the page Can you see that right now Yeah
+yeah very good And not only that because that removes or at least decreases the sales resistance because they dont think that youre the salesperson I have to get you out of the call because thats immediately what he gonna think as soon as he gonna hear Im a real estate agent from One Broker Group You got me So thats why youre saying uh just request you made a while back possibly looking into investing into buy real estate You have more data now with the AI qualification you have more data Some of them are saying 2 bedroom apartment with this budget So what I would do instead of looking into investing in Dubai real estate I would give them this small piece of information which gives them an indication oh this person actually yeah I did request about that Yeah I did mention that You got me So he understands that youre not just a random calling you have actually some the real information about the person So I would say possibly looking into investing uh into one bedroom apartments in um uh is that GVC or Al Marjan or something like that Yeah but here you can see information thats available on request Thats why you put the information here investing in you put the information into this uh field and you do not stop after because it looks like you have to stop but you dont You put the information and you just continue Im here just doing some updates in my system So cool to see Uh have you found what youre looking for or youre still looking This is your walk through and hes saying that hes still looking Then you jump into Qualification question If he found what youre looking for he was looking for youre still discovering what he found Because again guys this is your future sellers right And if he purchased he will be selling it definitely within the year or 2 years Thats how you create the black book of investors And the opportunity for you to book them into your follow up sequence Im sure it would make Im not sure if it makes sense for you but we actually send monthly market reports to our clients with you know like details of latest transaction and price projection So this helps them to stay kind of ahead of the trend for any future decision Would that be helpful if you had that in your email as well You clarify the email Whats the best email for you typically And you go forward If he is not purchasing if hes still looking you start qualification and you book a meeting or Zoom meeting with him Yeah any questions on that guys Who is ready to role play Who is ready to be a client Who is ready to be an agent
 
+### Speaker 3 · Speaker 3
 
-And you see that moving
+Aatik
 
+### Speaker 1 · Speaker 1
 
-Okay so
+Yeah Who is ready to be youre gonna be an agent Who is ready to be the client Okay I was looking at you Aatik Yeah can you can you switch on the camera so we can see you
 
+### Speaker 6 · Speaker 6
 
-First of all lets be in touch with reality These leads might not respond these leads might not be looking anymore So the first thing that we have to ask them is have you found what youre looking for or you are still looking
+Yeah hi just give me a second Sorry
 
+### Speaker 1 · Speaker 1
 
-Over here you can see that we place the question
+just Because its hard you know its hard to role play when you see the face
 
+### Speaker 6 · Speaker 6
 
-after giving them some context who are you and why are you calling I would not say OBG or one broker group even because thats irrelevant for them they will never gonna be able to hear that right so
+Yeah yeah correct
 
+### Speaker 3 · Speaker 3
 
-We just with the upswing we say hi name to confirm that this is actually the person Its just Olga and hes gonna ask you why you and what it is about
+When you dont see the face
 
+### Speaker 1 · Speaker 1
 
-Please do not default to I am a real estate agent from one broker group and you wanted to invest to the pro please dont do that
+Yeah
 
+### Speaker 6 · Speaker 6
 
-It defeats the purpose theyre gonna tell you they are not interested
+I mean I hope you can see me now
 
+### Speaker 1 · Speaker 1
 
-So we are saying that we are not I mean were making an impression Were not saying that Were making an impression that we are some sort of a customer care representative Were just following up have our company
+Yeah fantastic Lets do that
 
-### Speaker 2
+### Speaker 6 · Speaker 6
 
-Oh my God
+Okay great
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Very quest
+So all right you go with whatever idea you have Be yourself anyone you want Lets say you are still looking you havent purchased Yeah
 
+### Speaker 6 · Speaker 6
 
-Do you understand why were doing this way
+okay
 
+### Speaker 3 · Speaker 3
 
-Who can tell me why we are doing it this way rather than sell or thats me real estate agent are you still looking for a property
+okay lets go
 
-### Speaker 3
+### Speaker 6 · Speaker 6
 
-Make the make a order theyll get several calls so that it will be random call and they will disconnect easily
+lets go lets go and start
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-It says
+Hi Atiq
 
-### Speaker 1
+### Speaker 6 · Speaker 6
 
-Yeah very good And not only that because that removes or at least decreases the sales resistance Because they dont think that youre the salesperson I have to get you out of the call Because thats immediately what hes going to think as soon as hes going to hear Im a real estate agent from one broker group You got me So thats why youre saying uh the request you made a while back
+Hi whos this
 
+### Speaker 3 · Speaker 3
 
-Possibly looking into investing in Dubai real estate You have more data now with the AI qualification You have more data Some of them are saying two bedroom apartment with this budget So what I would do instead of looking into investing in Dubai real estate I would give them this small piece of information which gives them an indication Oh this person actually yeah I did request about that Yeah I did mention that You got me So he understands that youre not just a rent
+Its just Prateek
 
+### Speaker 6 · Speaker 6
 
-them are calling you have actually some real information about the person so I would say possibly looking into investing into one bedroom apartment in its not GVC or Al Majnoon or something like that yeah
+Okay yes may I know what this call is about please
 
+### Speaker 3 · Speaker 3
 
-Here you can see information thats available on request Thats why you put the information here
+Uh this is about a request you made a while back possibly looking out for investment in Dubai in a 2 bedroom apartment So Im here doing some updates in my system so I just called to see if you found what you were looking for or youre still looking
 
+### Speaker 6 · Speaker 6
 
-Investing in you put the information into this field
+Um well uh yeah in fact Ive still not found what Im looking for uh but Im of course open to uh listening to any ideas that any options that you may have Um Id like to know more
 
+### Speaker 3 · Speaker 3
 
-And you do not stop
+So uh to start with I would definitely want to know what is your overall goal for this what youre looking for this invest means this property for Is it for your passive income It is for investment It is for your second home What is it about
 
+### Speaker 6 · Speaker 6
 
-after because it looks like you have to stop but you dont you put the information and you just continue Im here just doing some updates in my system so cool to see have you found what youre looking for or youre still looking
+Well its obviously for investments and um I just Im looking for uh increasing my portfolio
 
+### Speaker 3 · Speaker 3
 
-is your workflow and hes saying that hes still looking then you jump into verification question
+So increasing your portfolio that means you have got uh a portfolio which is in Dubai which is all going or you have invested in some other country
 
+### Speaker 6 · Speaker 6
 
-If he found what youre looking for he was looking for youre still discovering what he found Because again guys this is your future sellers right And if he purchased he will be selling it definitely within the year or two years Thats how you create the black book of investors
+Absolutely I already have invested in Dubai I already have a few projects around so I still am looking for more investment opportunities
 
+### Speaker 3 · Speaker 3
 
-The opportunity for you to book them into your follow up sequence
+Im not very sure if I ask this question uh do you mind me telling where you have invested so that I can give you an idea that what is possibly a good investment what you might look at or else it would be it would be Good for my understanding to give you some more options
 
+### Speaker 6 · Speaker 6
 
-Im sure it make Im not sure if it makes sense for you but we actually send monthly market reports on our clients with you know like details of places transaction in price projection So this helps them to stay kind of ahead of the trend for any future decision Would that be helpful if you had that in your email as well
+Okay look Pratik Id like to get straight to the point What I really am looking for as an investor is an unreasonable ROI and appreciation What are the projects that you can perhaps pitch out to me
 
+### Speaker 3 · Speaker 3
 
-You clarify the email whats the best email for you typically and you go for it If hes not purchasing if hes still looking you start qualification
+See Dubai is wide open We have all the projects which Dubai is presenting So it is a very very this thing where you can get ROI ROI in Dubai very Im sorry I cant
 
+### Speaker 6 · Speaker 6
 
-And you book a meeting or a zoom meeting with him
+hear you
 
+### Speaker 1 · Speaker 1
 
-Any questions on that guys
+Someone has to mute Someone is around guys Mute yourself please
 
+### Speaker 3 · Speaker 3
 
-Who is ready to role play
+So indefinitely ROI is basically a very vague kind of a response Im sorry to say that because in Dubai Im 100 percent sure you are a veteran investor So you
 
+### Speaker 7 · Speaker 7
 
-who is ready to be a client who is ready to be an agent
+can take that
 
+### Speaker 3 · Speaker 3
 
-Critique
+I believe its Elena Your flight You have to be more muted
 
+### Speaker 6 · Speaker 6
 
-Whos ready to be youre gonna be an agent whos ready to be the client
+Oh Elenas on a flight
 
+### Speaker 3 · Speaker 3
 
-I Okay I was looking at you at it Yeah Can you can you switch on the camera
+So from Dubai the ROI basically varies from 6 percent to 12 percent It depends on long term short term the area you depend on you invest you are trying to look at So that is the reason I wanted to know where you have invested so we can basically say you want to invest in that particular area more or else we can offer some other area because Dubai is basically there but definitely
 
+### Speaker 1 · Speaker 1
 
-We can see you
+Pratik Pratik
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Yeah hi uh just give me a second sorry just click on
+Too slow too fast
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Because its hard you know its hard to role play when you see the face
+Not too fast and too much What are you talking about
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Yeah yeah
+Correct correct correct correct
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Or when you dont see the face
+What you want to guys thank you so much What which point do you want to bring across
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Yeah I mean
+So I wanted to know this that how many where is investment and what is he actually looking at
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Uh I mean
+He told you unreasonable ROI Do you understand what unreasonable ROI is
 
+### Speaker 3 · Speaker 3
 
-Um I hope you can see me now
+It is it is the highest ROI
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yeah fantastic lets do that
+Highest for him What is this Do you know Are you interested
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Lets do that okay great
+That is what I was trying to understand from him
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So you saw you
+Yes thats why I asked him a question How you can just ask him a question
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Alright
+So what do you define by unreasonable ROI Athiq If Mr Athiq
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-but uh pretty uh I think go with whatever idea you have be yourself anyone you want lets say youre still looking you havent purchased yeah
+How do you mean unreasonable ROI What do you mean exactly Yeah
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Okay
+okay
 
-### Speaker 3
+### Speaker 6 · Speaker 6
 
-Okay lets go
+So what I what I mean by an unreasonable ROI is look currently in Dubai uh with regards to the uh existing property um a ready unit youd rather get around 4 to 5 percent ROI But same thing here in Dubai uh for off plan you can maybe push around 8 to 10 percent ROI for a good project but Im looking at something more something more that you can perhaps get And what can you offer me as an investor What I really am looking for is I want that ROI you know to push to that 15 16 percent perhaps And I know there are not very many options available in the market but about but from my research I have found a few that may fit the criteria but Id like to hear some options from you
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Thats a good one
+So because I want I want you all guys to see now the trajectory of conversation So now we understood what he means Now he verbalized his need He he needs now Pratik right Do you understand what I mean Now he needs him He told he told him that hes seen it but Im so sorry he is on conversation on this call Does that mean he actually found what What hes looking for Hmm
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Lets go and start
+So he might have wanted some options
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-IAT
+Yeah Think think of this This is a first call What youre gonna do now Do you want to sell him some project on this call
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Hi theres this
+No
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-It does this it does this
+Whats your goal To book a meeting with him
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Okay yes may I know what this calls about please
+Book a meeting Yes
 
-### Speaker 3
-
-Uh this is about a request you made a while back possibly looking out for investment in Dubai in a two bedroom apartment
-
-
-So Im here doing some updates to my system so I just call to see if you found what you were looking for or you are still looking
-
-### Speaker 4
-
-Well yeah in fact Ive still not found what Im looking for but Im of course open to listening to any ideas that any options that you may have Id like to know more
-
-### Speaker 3
-
-Okay
-
-
-So to start with I would definitely want to know what is your overall goal for this what youre looking for this investment this property for Is it for your passive income It is for investment It is for your second home What is it about
-
-### Speaker 4
-
-Well its obviously for investments and I just am looking for increasing my portfolio
-
-### Speaker 3
-
-So increasing a portfolio that means you have got a portfolio which is in Dubai which is ongoing or you have you have invested in some other country
-
-### Speaker 4
-
-Absolutely I already have invested in Dubai I already have projects around
-
-### Speaker 3
-
-Okay
-
-### Speaker 4
-
-So I still Im looking for more investment opportunities
-
-### Speaker 3
-
-Im not very sure if I ask the question uh do you mind me telling where you have invested so that I can give you an idea that what is possibly a good investment what you might look at or else it would be it would be good for my understanding to give you some more options
-
-### Speaker 4
-
-Okay look Prateek Id like to get straight to the point What I really am looking for as an investor is an unreasonable ROI and appreciation What are the projects that you can perhaps reach out to me
-
-### Speaker 3
-
-See Dubai is wide open we have all the projects which Dubai is presenting so it is a very big opportunity for this thing where it we can get our way our way in Dubai very successfully Im sorry
-
-### Speaker 4
-
-Im sorry I I cant hear you
-
-### Speaker 1
-
-Someone has to mute someone is around Guys mute yourself please
-
-### Speaker 3
-
-So I uh uh definitely ROI is basically a very vague kind of a response Im sorry to say that because in Dubai uh Im 100 percent sure you are a veteran investor So you cant take up this response I believe its Alina You have flight You have to be good with it
-
-### Speaker 4
-
-So he was on a flight
-
-### Speaker 3
-
-So
-
-
-So from Dubai the ROI basically varies from 6 percent to 12 percent it depends on long term short term the area you depend or you invest youre trying to look at so that is the reason I wanted to know where you have invested so we can basically say you want to invest in that particular area more or else we can offer some other area because Dubai is basically there but definitely not this one
-
-### Speaker 1
-
-A tick a tick
-
-### Speaker 3
-
-Go slow go fast
-
-### Speaker 1
-
-Not too fast and too much what are you talking about
-
-### Speaker 3
-
-Got it got it got it got it
-
-### Speaker 1
-
-What you want to guys thank you so much what which point do you want to bring across
-
-### Speaker 3
-
-So I wanted to know this that Im very interested in what is actually looking at
-
-### Speaker 1
-
-He told you unreasonable ROI do you understand what unreasonable ROI is
-
-### Speaker 3
-
-It is it is the highest hourly rate you can get
-
-### Speaker 4
-
-You know
-
-### Speaker 1
-
-Hi as for him what is this do you know are you interested
-
-### Speaker 3
-
-So that is what I was trying to understand from him yes
-
-### Speaker 1
-
-Thats why I ask him a question how you can just ask him a question
-
-### Speaker 3
-
-So what do you define for unreasonable ROI atik if an if Mr
-
-### Speaker 1
-
-What do you mean unreasonable ROI what do you mean exactly yeah
-
-### Speaker 4
-
-Okay so what Im what I mean by an unreasonable ROI is look currently in Dubai uh with regards to the uh existing property um ready units youd rather get around four to 5 percent ROI but same thing here in Dubai uh for off plan you can maybe push around eight to 10 percent ROI for a good project but Im looking at something more something more that you can perhaps get And what can you offer me as an investor What I really am looking for is I
-
-
-want that ROIs you know to push to that 15 16 percent perhaps and I know there are not very many options available in the market but apart but from my research I have found a few that may fit the criteria but Id like to hear some options from you
-
-### Speaker 3
-
-Of course of course precedent
-
-### Speaker 1
-
-I want I want you all guys to see now the trajectory of conversation so now we understood what he means now he verbalized his need he he needs now pratique right do you understand what I mean now he needs him he told he told him that hes seen it but Im so sorry he is on conversation on this call does that mean he actually found what he is looking for
-
-
-Think of this this is a first call what youre gonna do now Do you want to sell him some project on this call
-
-### Speaker 3
-
-You might have wanted to watch this
-
-### Speaker 1
-
-Whats your goal to book a meeting with him
-
-### Speaker 3
-
-Book a meeting yes
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Is this what he verbalized now is enough for you to book a meeting
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Correct Yes yes it is verbal I basically I can do my research and I can basically call him and show him options
+Correct Yes Yes it is verbalized I basically I can do my research and I can basically call him and show him options
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yes so now book a meeting with him
+Yes So now book a meeting with him
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Mr Atik thank you for your information I definitely got your idea and your vision what youre looking at So is it possible to have a meeting with you on a Zoom basis
+Uh Mr Adik thank you for information I definitely got your idea and your vision what youre looking at So uh is it possible to have a meeting with you on a Zoom basis so that I could
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-was remove this is it possible blah blah its for him he needs you yeah yes so we we are booking the meeting only with one um
+Remove this is it possible blah blah Its for him He needs you Yeah
 
+### Speaker 3 · Speaker 3
 
-phrase will that be helpful if we will book a little bit more time together where you will see the project that ive prepared for you with the calculation of the roi
+Yes
 
+### Speaker 1 · Speaker 1
 
-Makes sense guys yeah Do it
+So we we are booking the meeting only with one um phrase Will that be helpful if we will book a little bit more time together where you will see the project that Ive prepared for you with the calculation of the ROI Makes sense guys Yeah do it
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Uh so Mr I think will it be possible to spend some more time wherein I can offer you I can show you
+Uh so Mr Athiq will it be possible to spend some more time wherein I can offer you I can show you
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Will that be helpful not possible impossible you you hear you asking him
+Will that be helpful Not possible Look if possible you you hear Youre asking him he is a patient he has a problem you are a doctor solution Would that be useful Not possible
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Its impossible
+Yeah So Mr Athik will it be helpful for you uh if we can if we spend some more time together wherein I can offer you uh and show you the calculations of how this ROI because Ive got some uh projects to offer you and I can show you with the calculation so that you can also get a realistic picture
 
-### Speaker 1
+### Speaker 6 · Speaker 6
 
-He is a patient he has a problem you are a doctor solution would that be useful Not possible
+Well that sounds fantastic uh Pratik Id look forward to meeting you
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-So Mr I think it would be helpful for you if we can if we if we spend some more time together wherein I can offer you and show you the calculations of how this ROI because Ive got some projects to offer you and I can show you with the calculations so that you can also get a realistic picture
+Okay so possibly uh Ill I will book you on Friday at 2 to 30
 
-### Speaker 4
+### Speaker 6 · Speaker 6
 
-Well that sounds fantastic Prateek Id look forward to meeting you
+Um well 2 to 30 is uh I might be um busy at uh that time due to prayers
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Okay so possibly uh Ill I will book you on Friday at 2 30
+This week only Friday is possible That is the reason Im telling Friday Is it okay for you Friday
 
-### Speaker 4
+### Speaker 6 · Speaker 6
 
-Um well two thirds uh I might be um busy at uh that time due to
+Well Friday well have to do it after 4 PM buddy if thats the case
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-So I see my calendar and this week only Friday is possible that is the reason Im telling Friday is it okay for you Friday
+4 PM let me just check Im not very sure because there was other meeting lined up but let me just see if I can squeeze in that thing Can you can you meet at four thirty because I can just postpone
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Well Friday well have to do it after 4 pm buddy if thats the case
+Pratik is taking it to the next level right Okay
 
-### Speaker 3
+### Speaker 6 · Speaker 6
 
-4 pm Let me just check Im not very sure because there was other meeting lined up but let me just see if I can excuse in that thing Can you can you make it 4 30 because I can just postpone
+Well Pratik its you who need my business my friend So you got to make some time for me
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-But Rachit is taking it to the next level right
+Okay we lock it at four oclock
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Okay
+So now look what Atik is doing Hes asking It might not be but hes asking So he in his Like he doesnt understand that but hes verbalizing that he needs Pratik You see
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Okay
+Okay Mr Atiq I will try to squeeze in at four pm We lock the four pm
 
-### Speaker 4
+### Speaker 6 · Speaker 6
 
-Well Pratik its you who need my business my friend so you gotta make some time for me
+But sounds good
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Okay well lock it at four oclock
+Before we go I just want to make one request that if there is any kind of a change you have my WhatsApp number Just text me because then I will not let the other guys change his schedule
 
-### Speaker 1
+### Speaker 6 · Speaker 6
 
-So now look what Atik is doing hes asking it might not be but hes asking so he in his like he doesnt understand that but hes verbalizing that he needs but you see
+Absolutely Works works fine with me Pratik Look forward to seeing you soon
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Okay Mr Hathi I will try to squeeze in and 4 pm I will log the 4 pm Before we go I just want to make one request that if there is any kind of a change you have my WhatsApp number just text me because then I will not let the other guys change the schedule
+See you See you Atiq Thank you very much
 
-### Speaker 4
-
-That sounds a little bit
-
-
-Absolutely uh works works fine with me Pratik look forward to seeing you soon
-
-### Speaker 3
-
-See you see you all thank you for having a great day buddy have a good day thanks bye
-
-### Speaker 4
+### Speaker 6 · Speaker 6
 
 Have a great day buddy
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Good good guys You see there is no need to have a long winded conversation right Okay a practical feedback panel What pratique did well Unmute yourself and tell us
+Have a good day Thanks Bye
 
+### Speaker 1 · Speaker 1
 
-Anyone guys
+Good good guys You see there is there is no need to have a long winded conversation right Okay constructive feedback panel What Pratik did well Unmute yourself and tell us Anyone guys Shibi I can see that you can do that
 
+### Speaker 2 · Speaker 2
 
-She be I can see that you can do that
+Uh yes hi uh uh Pratik I think initially uh it was being dragged out but then uh after your cues he shortened his uh conversations and was right to the point and there was a little more clarity But initially during the uh the initial part of the conversation it was a bit vague and a little bit all over the place So you know I think it was getting lost So yeah I think if we can keep it crisp to the point then it will be a little more you know the person on the other side can understand what we are trying to actually convey So second time yeah second time it was crisp and to the point
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Uh yes hi uh uh Prateek I think in
+Okay okay Rashid what do you think
 
-### Speaker 1
-
-Initially it was being dragged out but then after your cues he shortened his conversations and was right to the point and there was little more clarity but initially during the the initial part of the conversation it was a bit vague and a little bit all over the place so you know I think it was getting lost so yeah I think if we can keep it crisp to the point uh you know then itll be a little more uh you know the person on the other
-
-### Speaker 4
-
-Its a second time
-
-### Speaker 1
-
-Okay okay uh uh Rashid what do you think
-
-### Speaker 4
+### Speaker 6 · Speaker 6
 
 Olga can I just add something
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yes yes yes I think
+Yes yes yes Satik
 
-### Speaker 4
+### Speaker 6 · Speaker 6
 
-Well I think that perhaps yes look Prateek you did extremely well with regards to how you communicated with the client But maybe I felt that you could have asked another couple of questions Im not sure whether its right Perhaps maybe Olga can advise us accordingly Maybe by just understanding what my requirements are Now you did ask the question whether am I looking for investments correct Then perhaps you could have
+Well I think that perhaps yes look Prateek you did extremely well with regards to how you communicated with the client but maybe I felt that you could have asked another couple of questions Im not sure whether right Perhaps maybe Olga can advise us accordingly Maybe by just understanding what my requirements are Now you did ask the question whether am I looking for investments correct Then perhaps you could have also asked um whether you know what uh so when I asked you about the ROI so the maybe the question that you could have asked is perhaps what kind of investments that youre looking maybe what is the price ranges for the investments that youre looking for as well So that can help you narrow down your research when you come to meet uh me on on on Friday
 
+### Speaker 1 · Speaker 1
 
-also asked um whether you know what uh so when i asked you about the roi so the maybe the question that you could have asked is perhaps what kind of investments that youre looking maybe what is the price ranges for the investments that youre looking for as well so that can help you narrow down your research when you come to meet uh me on on on friday
+Guys but the reality I think very very valuable thing we havent asked a lot of questions yet but I want you to start bringing the meeting across And these meetings guys this is for you to get again to learn So booking one meeting with maybe less questions is better than going through all of the questions and not booking the meeting
 
-### Speaker 1
-
-Guys but the reality Atik very very valuable thing We havent asked a lot of questions yet but I want you to start bringing the meeting across And these meetings guys this is for you to get again to learn So booking one meeting with maybe less questions is better than going through all of the questions and not booking the meeting
-
-### Speaker 3
+### Speaker 3 · Speaker 3
 
 And on the call itself do you mean to say right
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-And on the meeting theres gonna be additional qualification yeah So the way to prepare for this meeting I will definitely put some options together but my goal is to qualify him more Im not gonna try to sell anything on the meeting right
-
-
-Im gonna still talk about okay so tell me about your investment and how much theyre generating And I know we havent discussed about the areas So I prepared this area and this area but in your specific case what do you think regarding the location And then you start qualifying
-
-
-And look you always have Al Nair as your database If something will go wrong you can with him on a meeting go into Al Nair and shortlist the project
+And on the meeting thats going to be additional qualification Yeah So the way to prepare on this for for this meeting I will definitely put some options together but my goal is to qualify him more Im not going to try to sell anything on the meeting right Im gonna still talk about okay so tell me about your investment and then how much theyre generating And uh I know we havent discussed about the areas so I prepared this area in this area but in your specific case what do you think um regarding the location And then you start qualifying here And look you always have Alnair as your database If something will go wrong you can with him on a meeting go into Alnair and shortlist the project right

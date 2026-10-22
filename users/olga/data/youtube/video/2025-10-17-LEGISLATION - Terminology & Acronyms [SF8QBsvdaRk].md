@@ -1,14 +1,15 @@
 ---
 id: SF8QBsvdaRk
 title: LEGISLATION - Terminology & Acronyms
-url: https://www.youtube.com/watch?v=SF8QBsvdaRk
 date: '2025-10-17'
-duration: 00:15:08
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=SF8QBsvdaRk
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
 speaker_count: 1
 speakers:
-  speaker_0: Speaker 1
+  '1': Speaker 1
 ---
 
 
@@ -16,114 +17,6 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Important terms and definitions Okay Office registration number ORN why its important Like I want you to just go through the abbreviation and being able to understand what other people including potentially your clients who in the beginning will know more than you are talking about So office registration number is what any brokerage company who has a license is receiving and the deal going to be under this office registration number Your broker registration number is your personal broker
-
-
-But this is what youre receiving after you got your RERA exam done and you are getting the RERA card which is mandatory for secondary market because for you I mean usually yeah if you want to list your property under your name and being seen by other sellers why Im saying sellers right because if Im a seller and Im looking for a good agent to represent me so if you list the property on your name so all of your deals and transaction going to be recorded
-
-
-For example Bayou is showing you as a super agent Bayou is showing you how many deals you transact how many deals you close which gonna help you to have a beautiful transparent relationship with your sellers and buyers and you get whoa so many offers from the various real estate companies who would love you to come and join them and give you maybe 80 20 split what depends but you have to get your broker registration number so broker registration number doesnt
-
-
-let you still be a freelance broker you cannot transact the deal yourself just because you have a radar card the radar card is attached to the license the brokerage license of the company if you leave the company your radar card got deactivated so you join a new company the company has to apply for a new radar card under their license and this is how youre gonna have your new beer and i dont think the number changes actually i just dont remember
-
-
-Mmm you see Im catching you here yeah Oh guys STRB no no no no no ROI return on investment Please please dont dont think that this is only the money you make from rent
-
-
-Return on investment is what
-
-
-Property brings you all together right which is a price appreciation which you will get in the end when you will sell the property and rental yield which you receive as whatever the amount of checks that you allow your tenant to pay yeah so its two rental yield and price appreciation please dont think its just rental yields because a lot of agents gonna say oh its seven percent ROI no maam its not its seven percent rental
-
-
-yet Power of attorney Youre gonna see a lot of properties under power of attorney Usually the power of attorney is well gonna look for commission from you or gonna want to split commission Its not really legal They just want to do that However I dont think that there is any legal way for you to know Im not gonna pay you if you want this property You probably will have to split some sort of commission or
-
-
-give him a referral fee The power of attorney is a very long document even you know its like 40 pages usually in Arabic you dont know if its actually power of attorney or no but dont worry in a trusty office they will be able to understand there is a name of the person so you will have to then identify if this power of attorney actually is the same person youre talking to so you will need the power of attorney Emirates ID or passport
-
-
-Then the power of attorney has to be renewed in the court with the stamp every two years So when you go for the power of attorney you just look oh what is the stamp what is that so its the same power of attorney is going to be stamped stamped stamped stamped you dont have to re cant reuse the new one you just have to stamp the existing one Okay so what else uh noc
-
-
-non objection letter Im calling it letter but its certificate yeah so this is not only for you know real estate this term is used a lot of the time but when we are saying non objection letter in real estate we usually mean that the developer is giving you as you as a seller non objection for you to sell the property the developer gonna be present regardless if its an off plan resale meaning the project is still with
-
-
-And the construction is not completed so your document is not titled it its a code Were gonna have the code here down dont worry bear with me So that means that you do not have any outstanding obligations with the with the payments with the developer If its a ready property were gonna be talking about service fees If this is the off plan property and the the seller is selling it during the construction were gonna be talking about pending payments towards the developer
-
-
-And if the developer even yet allowed to resell the property yeah because sometimes they just dont want to allow they have their own stock and they why would they let others control the prices yeah you will do the same if you were in developership KYC know your customer its identity verification of the customer and the source of funding that actually the customer will kind of mention himself right and they dont have to be shy
-
-
-Of course they dont have to show that its you know from some illegal activities like
-
-
-I dont know selling ice to immigrants I forgot I forgot the name Selling ice in Iceland or something like that The KYC you gonna be responsible The KYC has to be submitted for the deal to be closed Your admin department gonna eat your brain and theyre not gonna let you process the deal Theyre not gonna pay you commission if the KYC is not there Moreover if you do not do the KYC
-
-
-and right terms you might be then put to jail if the government will discover that this guy is actually doing money laundering so be careful with that um ajari ajari is an official registration of the tenancy contract so long term tenancy only not the short term not the holiday homes forget about that thats a not the byland department that uh
-
-
-tourism department forget it theres just no a property altogether this is like hospitality stuff right so a jari is the actual legal contract as soon as the tenancy contract which is a standard as well you download it from the byland department its not like you and me will sit down and decide on the terms and conditions that might be put in addendum but the contract is absolutely standard you put just the name the square fit the date all of this stuff so then as soon
-
-
-as its signed the payment is taken and the tenant is a tenant responsibility to register a jari with
-
-
-one of the bodies of the registration office meaning if you why its a tenant responsibility if you do not have a jari if you do not have the number of a jari you would not be able to apply for switching on electricity and water that means that without electricity and water you will not be able to go and sit on your favorite white stone and click on the you know property advertisement
-
-
-Just to just to bother all of the agents who are selling off plan just so they can start oh do you want to buy an off plan property Im joking so Dubai Electricity and Water Authority DIVA Im not sure if its gonna be here but this is what you need to actually be able to live in the property DLD Dubai Land Department
-
-
-Its been formed
-
-
-Lets say when the freehold property meaning the non
-
-
-UAE or GCC passport holders were allowed like non residents were allowed to purchase the property this type of property called a freehold by the way all over the world so meanwhile in 2002 only this law being inaugurated and then the Devalent department being formed however you know the process of forming and kind of putting the laws together I would say still happening Devalent department is the main government government body
-
-
-Its someone who protects you as the investor is a tenant as the seller as a buyer and were going to okud Okud I am you know its not an easy term to grasp specifically if you are dealing with someone who is buying their property off plan which because its for off plan first time I used to call it pre title deed The pre title deed is something oh yeah so thats just my ownership validation but effectively as soon as you pay 20 percent
-
-
-to the developer your altogether with this last payment you will pay four percent for registration this four percent is for registration the property on your name whatever it is its a code or title deed so if stupid question okay if I paid four percent to register the offline property on money when the title deed is issued should I still pay four percent no if you still gonna keep this on your name its registered
-
-
-registering the property on your name yeah you will pay I dont know some sort of fee for printing out the title deed but youre not gonna pay additional four percent for the title deed okay so whats next liability letter now we are going into the mortgage terms so liability letter its bank statement so you have to request it from the bank but the property is mortgage you as a seller still have to pay to the bank xyz amount of money so how much exactly
-
-
-youre gonna see in liability letter its gonna be requested as a part of the package of the document that you have to submit when you need to sell the property a title deed this is what everyone wants to have the title deed is actually the document which you need to feel yourself an owner of the property you can have up to six people in the title deed
-
-
-Ive got recently a good advice but if youre an investor and youre buying the property and you think oh Im gonna buy it with my uh cousin mother husband best friend
-
-
-It might be not the right move You can do that Im not saying you cannot But new relationship can go different ways And then the property and who is paying for what and who wants to sell who wants not to sell can become challenging So titled deed go for yourself and just be happy with that I dont know why Im even saying this Just in case you need that Handover So the handover is when the building is ready
-
-
-the off line if the we if we are talking about the off line sorry when the building is ready you will have to sign the papers and one of them going to be a snagging check meaning you uh doing the inspection is it clean is it straight do i have a toilet or just like a hole in the wall and then you will get a handover certificate and basically even if you dont have a title deed yet with these documents you can apply for
-
-
-mortgage if you need to mortgage the last payment for your off plan property but theyre going to talk about that in in the next lesson when Im going to be talking about the plan or when the property is you know secondary and its been built the handover is what you sign when you kind of transfer the property on the other persons name you walk through the apartment everything good yeah you sign in the papers okay the property hand over to a new owner mortgage pre approval its very important used to be
-
-
-And I believe its used to be Used to be the buyer who is getting the pre approval for the mortgage should be paid I mean should pay to get the pre approval However now I know its not the case But pre approval is something that you as an agent have to ask from anyone who is telling you Im a mortgage buyer Because if hes saying Im a mortgage buyer I will need a finance to buy the property And he never done the
-
-
-at least some sort of conversation with a mortgage advisor with a bank if he doesnt have any documents a confirmation that he will be able to receive xyz amount of money from the bank what the hell are you going to be doing touring him around of the property and he will not be even in a position to buy that so mortgage pre approval is usually starts with him getting the salary certificate uh from the company um then depending of the you know
-
-
-size of the company they can ask for additional documents if the company is really small and not that you know well known if the company is a real estate company as well we are not I would not say we are blacklisted but we are not that welcome to to to be a desirable candidate for the mortgage the next thing is an interesting actually and there is a credit bureau report Etihad Credit Bureau which is downloadable document you just submit your if youre a resident of course right you should be a resident for that
-
-
-You submit your number of the ID your name and the surname you pay 80 dirhams and thats going to be given to you and six month bank statement How much money do you have How much money do you earn Theyre going to look at your credit card So if you have a credit card worth a max limit of 120000 and you dont use it and you just you know just there or your client does invite I mean why invite
-
-
-Tell him just you do this tell him to decrease the mean the limit up to the minimum because when the bank gonna look at the potential all outstanding amount of your you know income their potential expenses theyre gonna take 25 percent of your credit cards as something that you will have as an expense so if you have hundred twenty thousand twenty five percent its quite a lot oh my god thats so much
-
-
-Probably were gonna have this in the next video see you in the next one
+Important terms and definitions Okay Office registration number ORN why its important I want you to just go through the abbreviation and being able to understand what other people including potentially your clients who in the beginning will know more than you are talking about Office registration number its what any brokerage company who has a license is receiving and the deal is going to be under this office registration number Your broker registration number is your personal broker number This is what youre receiving after you got your RERA exam done and you are getting the RERA card which is mandatory for secondary market because for you I mean usually yeah if you want to list your property under your name and being seen by other sellers why Im saying sellers right Because if Im a seller and Im looking for a good agent to represent me so If you list the property on your name so all of your deals and transactions are going to be recorded For example Bayut is showing you as a super agent Bayut is showing you how many deals you transact how many deals you close which is going to help you to have a beautiful transparent relationship with your sellers and buyers And you get well so many offers from the various real estate companies who would love you to come and join them and give you maybe 80 by 20 split Well it depends but you have to get your broker registration number So broker registration number doesnt let you still be a freelance broker You cannot transact the deal yourself just because you have RERA card The RERA card is attached to the license the brokerage license of the company If you leave the company your RERA card got deactivated So you join a new company the company has to apply For a new RERA card under their license and this is how youre gonna have your new BREN I dont think the number changes actually I just dont remember ROI you see Im catching you here Yeah all guys STR BREN ROI return on investment Please please dont think that this is only the money you make from rent Return on investment The return on investment is what property brings you all together right Which is a price appreciation which you will get in the end when you will sell the property and the rental yield which you receive as per whatever the amount of checks that you allow your tenant to pay Yeah so its 2 rental yield and price appreciation Please dont think its just rental yield because a lot of agents are going to say oh its 7 percent ROI No man its not Its 7 percent rental yield Power of attorney Youre going to see a lot of properties under power of attorney Usually the power of attorney is well going to look for commission from you or going to want to split commission Its not really legal They just want to do that However I dont think that there is any legal way for you to say no Im not going to pay If you want this property you probably will have to split some sort of commission or give him a referral fee The power of attorney is a very long document even you know its like 40 pages usually in Arabic You dont know if its actually power of attorney or no But dont worry in the trustee office they will be able to understand There is a name of the person So you will have to then identify if this power of attorney actually is the same person youre talking to So you will need the power of attorney Emirates ID or passport Then the power of attorney has to be renewed in the court with the stamp every 2 years So when you got the power of attorney you just look oh where is the stamp Where is the Where is the date So its the same power of attorney Its going to be stamped stamped stamped stamped You dont have to reuse the new one You just have to stamp the existing one Okay so what else NOC non objection letter Im calling it letter but its certificate Yeah So this is not only for you know real estate This term is used a lot of the time But when we are saying non objection letter in real estate we usually mean that the developer Is giving you as you as a seller non objection for you to sell the property The developer is going to be present regardless if its an off plan resale meaning the project is still under construction its not completed So your document is not title deed its akut Were going to have the akut here down dont worry bear with me So that means that you do not have any outstanding obligations with the the payments with the developer If its a ready property were going to be talking about service fees If this is the off plan property and the seller is selling it during the construction were going to be talking about pending payments towards the developer And if the developer even yet allowed to resell the property Yeah because sometimes they just dont want to allow They have their own stock and why would they let others control the prices Yeah you will do the same if you were in developers KYC know your customer Its identity verification of the customer and the source of funding that actually the customer will kind of mention himself right And they dont have to be shy Of course they dont have to show that its you know from some illegal activities like I dont know selling ice to immigrants I forgot the name Selling ice in Iceland or something like that The KYC youre going to be responsible The KYC has to be submitted for the deal to be closed Your admin department is going to eat your brain and theyre not going to let you process the deal Theyre not going to pay you commission if the KYC is not there Moreover if you do not do the KYC in the right terms you might be then put to jail if the government will discover that this guy is actually doing money laundering So be careful with that Um Ejari Ejari is an official registration of the tenancy contract So long term tenancy only not the short term not the holiday homes Forget about that Thats a Not Dubai Land Department that tourism department Forget it theres just no property altogether This is like hospitality stuff right So Ejari is the actual legal contract As soon as the tenancy contract which is a standard as well you download it from Dubai Land Department Its not like you and me will sit down and decide on the terms and conditions That might be put in addendum but the contract is Absolutely standard You put just the name the square feet the date all of this stuff So then as soon as its signed the payment is taken the tenant is a tenant responsibility to register a jari with one of the bodies of the registration office Meaning if you why its a tenant responsibility If you do not have a jari If you do not have the number of a jari you would not be able to apply for switching on electricity and water That means that without electricity and water you will not be able to go and sit on your favorite white stone and click on the property advertisement just to bother all of the agents who are selling off plan just so they can start oh do you want to buy an off plan property Im joking So Dubai Electricity and Water Authority DEWA Im not sure if its going to be here but this is what you need to actually be able to live in the property DLD Dubai Land Department Its been formed what I say when the freehold property meaning the non UAE or GCC passport holders were allowed like non residents were allowed to purchase the property This type of property called a freehold by the way all over the world So meanwhile in 2002 only this law being inaugurated and then the Dubai Land Department being formed However you know the process of forming and kind of putting the laws together I would say still happening Dubai Land Department is the main government body is someone who protects you as the investor as a tenant As the seller as a buyer and were going to okud Okud I am you know its not an easy term to grasp specifically if you are dealing with someone who is buying their property off plan because its for off plan first time I used to call it pre title deed The pre title deed is something oh yeah so thats just my ownership validation But effectively as soon as you pay twenty percent to the developer altogether with this last payment you will pay 4 percent for registration This 4 percent is for registration of the property on your name whatever it is its okud or title deed So if stupid question Olga if I paid 4 percent to register the offline property on my name when the title deed is issued should I still pay 4 percent No If youre still going to keep this on your name its registering the property on your name Yeah you will pay I dont know some sort of fee for printing out the title deed but youre not going to pay additional 4 percent for the title deed Okay so whats next Liability letter Now were going into the mortgage terms So liability letter its bank statement So you have to request it from the banks The property is mortgaged You as a seller still have to pay to the bank XYZ amount of money So how much exactly youre going to see in liability letter Its going to be requested as a part of the package of the document that you have to submit when you need to sell the property Title deed This is what everyone wants to have The title deed is actually the document which you need to feel yourself an owner of the Property You can have up to six people in the title deed Ive got recently a good advice But if youre investor and youre buying the property and you think oh Im going to buy it with my cousin mother husband best friend do do do do do do It might be not the right move You can do that Im not saying you cannot But you know relationship can go different ways And then the property and who is paying for what and who wants to sell who wants not to sell can become challenging So title deed go for yourself and just be happy with that I dont know why Im even saying this just in case you need that Handover So the handover is when the building is ready Were talking about the off plan If we are talking about the off plan sorry When the building is ready you will have to sign the papers and one of them is going to be a snagging check meaning you doing the inspection Is it clean Is it straight Do I have a toilet or just like a hole in the wall And then you will get a handover certificate And basically even if you dont have a title deed yet with these documents you can apply for a mortgage if you need to mortgage the last payment for your off plan property But theyre going to talk about that in in the next lesson when Im going to be talking about the plan Or when the property is you know secondary and its been built the handover is what you sign when you kind of transfer the property on the other persons name You walk through the apartment everything good yeah you sign in the papers okay the property handover to a new owner Mortgage pre approval its very important Used to be and I believe it used to be used to be the buyer who is getting the pre approval for the mortgage should be paid I mean should pay to get a pre approval However now I know its not the case But pre approval is something that you as an agent have to ask from anyone who is telling you Im a mortgage buyer Because if hes saying Im a mortgage buyer I will need finance to buy the property and he never done at least some sort of conversation with a mortgage advisor with a bank if he doesnt have any documents or confirmation that he will be able to receive XYZ amount of money from the bank what the hell are you going to be doing touring him around of the property and he will not be even in a position to buy that So mortgage pre approval It usually starts with him getting the salary certificate from the company Then depending on the size of the company they can ask for additional documents if the company is really small and not that well known If the company is a real estate company as well we are not I would not say we are blacklisted but we are not that welcome to to be a desirable candidate for the mortgage The next thing is interesting actually There is a credit bureau report Etihad Credit Bureau which is downloadable document You just submit your if you are a resident of course right You should be a resident for that You submit your number of the ID your name and surname you pay 80 dirhams and thats going to be given to you and 6 months bank statement How much money do you have How much money do you earn Theyre going to look at your credit card So if you have a credit card with a max limit of 120000 and you dont use it and you just you know just there or your client does invite I mean why invite Just tell him just you do this Tell him to decrease the limit up to the minimum Because when the bank is going to look at the potential all outstanding amount of your income their potential expenses theyre going to take 25 percent of your credit cards as something that you will have as an expense So if you have 120000 25 percent its quite a lot Oh my God thats so much Probably were going to have this in the next video See you in the next one

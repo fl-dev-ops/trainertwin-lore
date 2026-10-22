@@ -1,17 +1,22 @@
 ---
 id: -UZ7xlddO8E
 title: Online Training Session - Role Play (client x agent) - Part 1
-url: https://www.youtube.com/watch?v=-UZ7xlddO8E
 date: '2025-10-23'
-duration: 00:24:53
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=-UZ7xlddO8E
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 4
+speaker_count: 8
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  '1': Speaker 1
+  '2': Speaker 2
+  '3': Speaker 3
+  '4': Speaker 4
+  '5': Speaker 5
+  '6': Speaker 6
+  '7': Speaker 7
+  '8': Speaker 8
 ---
 
 
@@ -19,690 +24,594 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-call opening skills conversation over the phone questions that we have to ask to re engage with the age leads um lets role play guys so you remember the main thing about the leads reactivation is to find out is to find out have they found what you look what theyre looking for theyre still looking thats the main thing try not to pitch and if you do some pitching dont forget to as soon as you deliver some sort of a pitch dont forget to ask the question after so
+Call opening skills conversation over the phone questions that we have to ask to reengage with the aged leads Lets role play guys Sure So you remember the main thing about the leads reactivation is to find out is to find out have they found what theyre looking for theyre still looking Thats the main thing Try not to pitch And if you do some pitching dont forget to as soon as you deliver some sort of a pitch dont forget to ask the question after So the person will be led by you in the conversation Okay
 
+### Speaker 2 · Speaker 2
 
-The person will be led by you in the conversation okay
+Okay Hi Im Alia Um this is just Sid here from One Broker Group
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-Welcome Hi Amalia this is just Sid here from One Broker Group
+Have you seen the time What time youre calling me Is it why are you calling me at this time
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Seeing that time what time you are calling me is it why are you calling me at this time
+Oh no its actually just about a request you made a while back Um possibly looking into investing into Dubai real estate
 
-### Speaker 2
-
-Oh no its actually just about a request you made a while back possibly looking into investing into Dubai real estate
-
-### Speaker 3
+### Speaker 3 · Speaker 3
 
 Did I do that
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Yeah because I actually have your inquiry here from a while back ago which is why Im calling you to see that have you found what youre looking for already or are you still looking at a possible investment option
+Um yeah because I actually have your inquiry here from a while back ago which is why Im calling you to see that uh have you found what youre looking for already or are you still looking at a possible investment option
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Oh you know I was just scrolling Instagram and then probably I saw your um advertisement then probably I just tagged I dont know Im just open to to explore
+Oh you know I was just scrolling Instagram and then probably I saw your um advertisement Then probably I just tagged I dont know Im just open
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-So you are obviously looking at possible options if you are given the right track and you are right the help throughout
+So you are obviously looking at possible options if um you are given the right um track and you are right the help throughout
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Yeah but uh coming in uh w w w which company is that where where are you calling from like
+Yeah but uh come again uh which company is that Where where are you calling from Like
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Uh thanks for calling you from one broker group
+uh were calling you from One Broker Group and what we do is we have exclusive projects throughout Dubai and Ras Al Khaimah and we are one of the most reputed companies in Dubai
 
-### Speaker 3
-
-I think so
-
-### Speaker 2
-
-And what we do is we have exclusive projects throughout Dubai and Russell Kema and we are one of the most reputed companies in Dubai
-
-### Speaker 3
+### Speaker 3 · Speaker 3
 
 Mm hmm
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Im showing you
+See Im showing you Im showing you You said something You have to put the hook in Where is the question
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Im showing you You said something Ah you have to put the cooking on Where is the question
+All right Okay Nice So what do you would like to offer
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Alright okay nice so what do you would like to offer
+So um at the end of the day all based on what you are kind of looking for and what kind of budget you are having to put into a project And what you ultimately want from the project in terms of investment if you want a rental return or youre looking at capital appreciation So obviously we are um I expertise in Ras Al Khaimah and I just wanted to see if you were looking at Ras Al Khaimah as theres huge potential for capital appreciation there
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-So its um at the end of the day all based on what you are kind of looking for and what kind of budget you are having to put into a project and what you ultimately want from the project in terms of investment if you want a rental return or youre looking at capital appreciation So obviously we are um I expertise in Russell Kema
+Honestly I have no idea about Ras Al Khaimah Like I I just told you like I saw this advertisement I liked it I just you know
 
+### Speaker 2 · Speaker 2
 
-I just wanted to see if you were looking at Rasakima as theres huge potential for capital appreciation there
+yeah
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Honestly I have no idea about Russian Femen like I I just told you like I saw this advertisement I like that I just you know
+lets try and contact
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Yeah thats fine
+Yeah How would it work for you if I was to get a Zoom call with you and explain and take you through the pros of Russell Khema and why I think its an amazing investment opportunity Is that something that would work for you
 
-### Speaker 3
-
-Thats right yeah
-
-### Speaker 2
-
-How would it work for you if I was to get a Zoom call with you and explain and take you through the pros of Russell Kema and why I think its an amazing investment opportunity Is that something that would work for you
-
-### Speaker 3
+### Speaker 3 · Speaker 3
 
 Uh it could but could you share with me projects first so I can uh have an idea before we get on a call
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Yeah I mean I can share you all the details and projects and information but its if you do not have an idea of the area and location it wont make sense to you which is why Id like to take you through the project on the call
+Yeah I mean I can show you all the details and projects and information but its um if you do not have an idea of the area and location it wont make sense to you which is why Id like to take you through the project on the call
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-But why youre pitching me a Russell Fama not Dubai I mean all my friends are buying in Dubai but you are pitching me in uh for Russell Fama why
+But why youre pitching me Ras Al Khaimah not Dubai I mean all my friends are buying in Dubai but you are pitching me for Ras Al Khaimah Why
 
-### Speaker 2
+### Speaker 2 · Speaker 2
 
-Im actually pitching Rasul Kema because I think theres a huge capital appreciation room there As you see Dubai has a lot of projects coming up and in Al Marjan theres limited projects And as you can see the Marjan Casino the Wind Casino is going to be the first casino in the GCC
+Um Im actually pitching Ras Al Khaimah because I think theres a huge uh capital appreciation room there As you see Dubai has a lot of projects coming up and in Al Marjan theres limited projects And as you can see the Marjan Casino the Wynn Casino is going to be the first casino in the GCC
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-So you think Dubai uh Russell Faima is better then
+So you think Dubai uh Ras Al Khaimah is better
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Then we have a great city look
+Then we have a break Sit like look well youre saying something and then you stop So now shes asking you the question so youre answering her the question So who is leading the conversation
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-So youre saying something and then you stop
+The client
 
+### Speaker 1 · Speaker 1
 
-So now shes asking you the question
+Okay let me help you with this specific phrase Yeah instead of telling oh I can see a huge potential in Russell Heyman she doesnt care what you see Youre no one to her Why would she believe in anything youre saying Youre a salesperson trying to sell something Just useless Like I said you know from the numbers that weve seen um for the past 2 years the prices in that area increase on XYZ and with a new casino coming Which is a first in the Middle East What do you think in your mind will happen to the prices Let her think through and shes gonna tell you what Oh well potentially prices will increase as well Instead of you telling her let her do that Yeah
 
+### Speaker 3 · Speaker 3
 
-So youre answering to other questions So who is leading the conversation
+Do
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-at the plant
+you want to try to do this thing now Redo that Who is ready to give us constructive feedback panel What he did right and what could be improved Yeah were starting with what he did right He asked the questions Okay so what he could improve What is the goal of this call guys
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-Okay let me help you with this specific phrase Yeah instead of telling oh I can see a huge potential in Russell Heyman she doesnt care what you see Youre normal to her Why would she believe in anything youre saying Youre a salesperson trying to sell something Just useless Like I said you know from the numbers that weve seen for the past two years the prices in that area increase on X Y Z
+The goal of the call first of all is to reactivate the old lead So we want to find out
 
+### Speaker 1 · Speaker 1
 
-And with a new casino coming which is a first in the Middle East what do you think in your mind will happen to the prices Let her think through and shes gonna tell you what Oh well potentially prices will increase as well Instead of you telling her let her do that Yeah Do you wanna try to do this thing now Redo that Who is ready to give us constructive feedback panel What he did right and what could be improved
+What does it mean reactivate
 
+### Speaker 4 · Speaker 4
 
-starting with what he did right he asked the questions okay so what he could improve what is the goal of this call guys
+We want to find out if she is still looking to invest and try to understand the purposes for her investment And uh Later on try to book a Zoom call to be able to uh to discuss the projects in more detail
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-The goal of the code first of all is to reactivate the old lead So we want to find out
+Okay so have he find out what shes looking for
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-What does it mean we have two pages
+No not yet because he is uh hes pitching Russell Kaima without understanding what she wants
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-we want to we want to find out if she is still looking to invest and try to understand the purposes for her investment and uh later on try to book a zoom call to be able to uh
+Okay so what he should say instead What he which question he missed
 
+### Speaker 4 · Speaker 4
 
-We discuss the projects in more detail
+First of all the purpose Whats she looking for She mentioned that shes not interested Well she was just scrolling and she pressed so she doesnt really have a firm intention of investing
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Okay so have he find out what she is looking for
+But this is what shes saying This is what shes saying Look no one is going to press on the ad which is absolutely irrelevant So she had some interest
 
-### Speaker 2
+### Speaker 4 · Speaker 4
 
-No not yet because he is uh hes teaching uh Rasul Kaima uh without understanding what she wants
+Yeah
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Okay so what he should say instead what he which question he missed
+Which question should we use to Put them into the understanding for themselves and for us whats the the goal There is just one question guys So the one question that you have to memorize regarding what the client is saying oh Ive been scrolling everything Yeah okay I understand I understand youve been scrolling And what was your like um you know overall goal with this scrolling Now its relevant to what she did Amalia lets lets pick up Lets uh have the role play Let me finish it with you Im asking you again So lets jump jump back into the role play quickly
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-First of all the purpose whats she looking for she mentioned that shes not interested well she was just scrolling so she doesnt really have a firm intention of investing
+All right
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-But this is what shes saying This is what shes saying Look no ones gonna press on the ad which is absolutely irrelevant So she had some interest Yeah Which question should we use to put them into the understanding for themselves and for us whats the goal There is just one question guys So the one question that you have to memorize regarding what the client is saying Oh Ive been scrolling Yeah I understand I understand youve been scrolling
+So Im asking you oh I understand I understand the scrolling And what was your like um what was your like overall goal with this you know scrolling going for different info
 
+### Speaker 3 · Speaker 3
 
-What was your like you know overall goal with this scrolling Now its relevant to what she did Amalia lets lets pick up Lets have the role play Let me finish it for you Im asking you again So lets lets jump jump back into the role play quickly
+Um I mean it gets attractive I know some of my friends are investing so I was potentially thinking maybe I will join them as well
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-Alright so Im out
+Well your friends investing have they purchased any property already Have you had a conversation with them about that
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Oh I understand I dont understand the scrolling and what was your like um what was your like overall goal with this you know scrolling going for different info
+As I know one of my friends she purchased a unit in Dubai but not in Ras Al Khaimah
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-I mean it gets attractive I know some of my friends
+Okay and what out of maybe she told you kind of sparked your interest to look into this further
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-are investing so
+I dont really know the reason and background of the whole story why she decided to invest but I like the idea
 
+### Speaker 1 · Speaker 1
 
-I was potentially thinking maybe I will join them as well
+She was very happy to share with you right And then she probably mentioned a couple of things but one or two kind of sparked your interest
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Well your friends investing have they purchased any any property already have you had a conversation with them about that
+Well uh her agent told her that shes getting high ROI in Dubai so she said potentially its a good investment
 
-### Speaker 4
+### Speaker 5 · Speaker 5
 
-Yes I know one of my friends she purchased a unit in Dubai but not in Ras Al Khaimah
+for her
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Okay And what out of maybe she told you kind of sparked your interest to look into this further
+And um Do you have already some investment in the property or thats going to be your first one
 
-### Speaker 4
-
-I dont really know the reason and background of the whole story why she decided to invest but I like the idea there was some reason
-
-### Speaker 1
-
-discussion with you right and then shes probably mentioned a couple of things but one or two kind of spark your interest
-
-### Speaker 4
-
-Well uh her agent told her that um shes getting high ROI in device so she said potentially its a good investment for her
-
-### Speaker 1
-
-And do you have already some investment in the property or thats gonna be your first one
-
-### Speaker 4
+### Speaker 3 · Speaker 3
 
 I have I have but not in Middle East
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-And are you kind of 100 percent satisfied with the way the money youre making with that investment or how does it
+And um are you kind of 100 percent satisfied with the way the money youre making with that investment or how does it work
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Um Im just a fresh investor so I havent figured it out yet so Im just still looking at I havent seen the ROI yet
+Um Im just a fresh investor so I havent figured out yet so Im just still looking at I havent seen the ROI yet
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Okay so what will if you dont mind me asking when have you invested
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Last year I oh no it was seven months ago sorry it was my first two lessons yeah
+Last year I oh no it was 7 months ago So
 
-### Speaker 1
+### Speaker 1 · Speaker 1
+
+okay
+
+### Speaker 3 · Speaker 3
+
+it was my first 2 investments Yeah
+
+### Speaker 1 · Speaker 1
 
 And I can see your number is from Armenia Have you have you purchased a property in Armenia as well
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Uh yeah I have a land there so Im planning to start some business its more commercial
+or Uh yeah I have a land there so Im planning to start some business Its more commercial
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Okay and what makes you feel like maybe shift your focus into Dubai is the right move rather than maybe keep investing in Armenia
+Okay And what makes you feel like maybe shift your focus into Dubai is right move rather than maybe keep investing in Armenia
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Honestly I dont have that intention of changing the direction its just I just saw the trend everyone is investing so I decided to just explore opportunities you know how it works all advertisements are everywhere also I know all agents from Armin move to work in Dubai for real estate agents so I guess there is some some businesses going on
+Honestly I dont have that intention of changing the direction Its just I just saw the trend everyone is investing so I decided to just explore opportunities You know how it works All advertisements are everywhere Also I know all agents from Armenia moved to work in Dubai for real estate agencies so I guess there is some some businesses going on
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So okay
+Well so
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Im uh yeah
+um yeah
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Let me ask you this I understand that you are kind of at the beginning of your journey Have kind of anyone sit you down and walk you through the process of you know the initial investment all the rules and regulations that you will have to kind of comply the protection from the government that we have in UAE and more important from the exit side so about the resale and rental Have anyone kind of had that
+let me ask you this I understand that you are on a kind of at the beginning of your journey Um how um how Have kind of anyone sit you down and walk you through the process of you know the initial investment all the rules and regulations that you will have to kind of comply the protection from the government that we have in UAE and more important from the exit side So about the resale and rental have anyone kind of had that the full step by step conversation with you
 
+### Speaker 3 · Speaker 3
 
-the full step by step conversation with you
+Not really I got invitations for some exhibitions but I didnt end up
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Not really uh I got invitation for some exhibitions but I didnt look at them
+with it Will that be helpful if we book a little bit more time together on Zoom where I can walk you through all the process and show you some numbers from the you know the past 3 years so you can see with your own eyes is it even worth for you to shift your investment to Dubai Would that be useful if we will do that
 
-### Speaker 1
-
-Well will that be helpful if we book a little bit more time together on a Zoom where I can walk you through all the process and show you some numbers from the you know the past three years so you can see with your own eyes is it even worth for you to shift your investment Would that be useful if we will do that
-
-### Speaker 4
+### Speaker 3 · Speaker 3
 
 Yeah it sounds great
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-So uh let me let me check my schedule uh whats the best whats the best time or day for you potentially
+So uh let me let me check my schedule Uh whats the best whats the best time or day for you uh potentially
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Lets do that on the weekend
+Um lets do that on the weekend
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Okay we can Saturday Sunday
+Okay weekend Saturday Sunday
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Im gonna start today
+Thats Saturday
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Okay second half Yeah second half like two three oclock Okay so what I can do from now I will just reconfirm your email XYZ and ABC and I will send you the
+Okay Saturday yeah uh second half like 2 3 oclock Okay so uh what I can do from now I will just reconfirm your email XYZ and ABC and I will send you the calendar invite so we can kind of pencil it I will I will do the invitation now and I will click So itd be cool if you could respond to the email And one more thing before I go can I ask you something
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Im Tom
+Sure
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-um calendar invite so we can kind of pencil it i will i will do the invitation now and i will click so be cool if you could respond to the email and one more thing before i go can i ask you something sure i know that the life can be you know kind of busy sometimes so if something change on your end can i expect from you to kind of notify me even you know send me a pigeon so i can reschedule our
+I know that the life can be you know kind of busy sometimes So if something changes on your end can I expect from you to kind of notify me even you know send me a pigeon So I can reschedule our meeting and kind of book my other clients on this time Can I expect that from you
 
+### Speaker 3 · Speaker 3
 
-Meet in and kind of book my other clients on this time Can I expect that from you
+Oh sure just drop me a WhatsApp message I will update you if any changes happen on my side
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Actually just drop me a whatsapp message and I will update you if any changes happen on my side
+Yeah I will definitely remind you a day in advance Yeah
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-I will definitely I will definitely remind you a day in advance yeah
+sure
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Okay cool
+Okay cool Mariani it was nice talking to you Okay Guys this is the natural flow with the client who doesnt know what to do and doesnt know what the market is about If I will start pitching anything talk about Russell Khaima I will just confuse her Are you with me on that or no Yeah yeah yeah Can you please repeat that If I will start pitching any project or talk about great investment in Russell Khaima on the phone this is old lead This is not someone who requested the information 15 minutes ago Im just gonna simply lose her because shes talking before hundreds of agents who are pointlessly raving about the great projects and literally not able to in her mind to show her this great project So Im going to be the same as every other agent I did I pitch anything guys Did I spoke anything about Russell Kayma or Dubai No I didnt What I discovered Did I find out about your budget Who can tell me why I never ask her about the budget Shitish why do you think I never ask her about the budget
 
-### Speaker 1
+### Speaker 6 · Speaker 6
 
-Mariani
+Like uh basically we dont know what he has in mind First you want to understand his needs and then maybe recommend him accordingly
 
-### Speaker 4
-
-Beanie
-
-### Speaker 1
-
-But it was nice talking
-
-### Speaker 4
-
-Anyway it was nice talking
-
-### Speaker 1
-
-Okay guys this is the natural flow with the client who doesnt know what to do and doesnt know what the market is about If I will start pitching anything talk about Russell Kema I will just confuse her
-
-
-Are you with me on that or no
-
-### Speaker 2
-
-Can you please repeat that
-
-### Speaker 1
-
-If I will start pitching any project or talk about great investment in Rasalchamia on the phone this is all bleed This is not someone who requested the information 15 minutes ago Im just going to simply lose her because shes talking before hundreds of agents who are pointlessly raving about the great project and literally not able to in her mind to show her this great project So Im going to be the same as every other agent
-
-
-anything guys did I spoke anything about Russell K Maudbye no I didnt what I discovered did I find out about your budget who can tell me why I never asked you about the budget she teaches why do you think I never asked you about the budget
-
-### Speaker 2
-
-Like uh hes basically I dont know what he has in mind first you dont understand
-
-### Speaker 1
+### Speaker 7 · Speaker 7
 
 She doesnt know what shes searching for first
 
+### Speaker 1 · Speaker 1
 
-If I will ask you about the budget whats gonna happen Youre gonna be protective We are gonna be
+If I will ask you about the budget whats going to happen
 
-### Speaker 4
+### Speaker 7 · Speaker 7
 
-into a particular idea in your head so youre only going to look at something at that point right
+Youre going to be protective Youre going to be set up into a particular idea in your head so youre only going to look at something at that point right Im not going to search for more which is important
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Ben is not
+And Sabil if I will ask you about the budget shes very vague she doesnt have much information Whats she gonna ask me Send me some option guys If I will ask this type of client right now then and there about the budget shes gonna say oh well she cannot she cannot give me this information because she she doesnt know Anything yet So shes gonna for her to answer me this question she will have to look at the options Thats why shes gonna tell me send me some options what you have and I will validate these options and I will tell you if my budget is valid This is what shes not saying with her mouth but thats her thought process You got me
 
+### Speaker 7 · Speaker 7
 
-And Savel if I will ask her about the budget she is very vague she doesnt have much information Whats she gonna ask me Send me some option guys If I will ask this type of client right now then and there about the budget shes gonna say oh well she cannot she cannot give me this information because she she doesnt know anything yet So shes gonna for her to answer me this question she will have to look at the options Thats why shes gonna tell me send me some options what you have
+Yeah
 
+### Speaker 1 · Speaker 1
 
-and I will validate these options and I will tell you if my budget is valid this is what she is not saying with your mouth but thats your thought process you got me
+You remember in the beginning our goal on this call is to book a Zoom meeting We dont try to sell them anything
 
-### Speaker 4
+### Speaker 8 · Speaker 8
 
-Eat my budget
+To book a Zoom meeting Yeah yeah of course Okay Hello good day How are you Hello Im doing
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-You remember in the beginning we our goal on this call is to book a Zoom meeting We dont try to sell you many times
+good
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Yeah to to to because of the meeting
+Im speaking to Savo
 
-### Speaker 3
+### Speaker 7 · Speaker 7
 
-Hello good day how are you hello
+Yes whos this
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Im speaking to Sava Yes who is this Im Marco I got your number from the
+Uh Im Marco Um I got your number from the um Im not oh my gosh
 
-
-Is that that Im Im
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Okay can you read the script
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Uh one second Marco let me let me let me
+So uh one second
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Let me let me let me be with you then I see it okay because youre on the
+Marco let me let me let me be With you then I see it
 
-### Speaker 2
-
-Because Im
-
-### Speaker 1
-
-This is whats happening guys when you try to talk to the clients on the phone and share the screen thats exactly whats happening with them the same thing is happening with Marco Okay Marco have you read this script before the age lead script You had it have you read it
-
-### Speaker 2
-
-No no no no I Im actually actually no not yet So let me let me like read it and then we can enjoy it
-
-### Speaker 1
-
-No worries I will quickly teach you right But thats fine thats just the beginning
-
-### Speaker 2
-
-Okay because though
-
-### Speaker 1
-
-So
-
-### Speaker 2
-
-Because oh yeah yeah my
-
-### Speaker 1
-
-of all we dont say how are you guys why we dont say how are you
-
-### Speaker 2
+### Speaker 8 · Speaker 8
 
 Okay
 
-### Speaker 1
+### Speaker 1 · Speaker 1
+
+because youre on
+
+### Speaker 8 · Speaker 8
+
+because Im yeah yeah yeah So
+
+### Speaker 1 · Speaker 1
+
+this is whats happening guys when you try to talk to the clients on the phone and share the screen Thats exactly whats happening with them The same thing is happening with Marco Okay Marco have you read the script before The AgeLeap script you had it Have you read it
+
+### Speaker 8 · Speaker 8
+
+No no no no no Im actually actually no not yet So Let me let me like uh read it and then we can
+
+### Speaker 1 · Speaker 1
+
+No worries no worries I will I will quickly I will quickly I will quickly teach you right But thats fine if thats just the beginning
+
+### Speaker 8 · Speaker 8
+
+Okay because
+
+### Speaker 1 · Speaker 1
+
+So because
+
+### Speaker 8 · Speaker 8
+
+Oh yeah my
+
+### Speaker 1 · Speaker 1
+
+First of all we dont say how are you guys Why we dont say how are you
+
+### Speaker 8 · Speaker 8
+
+Okay
+
+### Speaker 1 · Speaker 1
 
 Who is ready to tell Marco why we dont use how are you ever on the call
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-know that this is like a sales call so so its better that we be straight to the point as as quickly as possible and and make it uh extremely sharp thats thats my opinion
+So basically I feel the reason why you should not use the word hello how are you Its like you know at that very moment its going to create some resistance because immediately theyre going to know that this is like a sales call So its better that we be straight to the point as quickly as possible and make it extremely sharp Thats my opinion
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yeah so one more time Marco when we have a stranger calling us and saying how are you We know that this is a sales call because you dont know this person The person is asking you how are you In our brain we have an interpretation or instead of oh this person is very polite we understand okay thats a salesperson trying to sell me something He doesnt care how am I He has absolutely zero interest in myself rather than taking my money away
+Yeah So one more time Marco When we have a stranger calling us and saying how are you We know that this is a sales call because you dont know this person The person is asking you how are you In our brain we have interpretation or instead of oh this person is very polite we understand okay thats a salesperson trying to sell me something He doesnt care how am I has absolutely zero interest in myself rather than taking my money away So this is a millisecond process thought process happening in me So usually uh if youre having a call opener like this the person already understands that youre going to be trying to sell him something so hes becoming resistant to whatever youre trying to do right Instead of that were using a bit of curiosity on their end and in our script which we use for the aged leads We specifically say its about a request you made a while back possibly looking to invest in Ras Al Khaimah or Dubai real estate You have information what he was requesting about Im just doing some updates in my system so I called to see have you found what youre looking for or you are still looking So this is the hook This question is the hook to understand if the person actually still searching or its completely dead lead who will never buy at least at that stage because thats thats not cold calling thats still warm calling thats just people who actually requested something But for us to identify the intent of the person we need to get to the question really quick There is no hi how are you There is no database Ive got your number No no no You pretend that you are some sort of customer care person youre not a salesperson even Im just doing some updates in my system so I called to see have you found what youre looking for Are you still looking You got me And then hes saying yes Youre asking him about like okay and um whats your whats your kind of overall goal with this investment Are you And hes telling you oh well Ive been looking for XYZ and ABC blah blah blah And then I start qualifying him Have you seen anything so far Which potentially for how long youve been looking Because we need to attack procrastination What is your potential budget If hes more aware and give you reasonable answers on that question We dont ask them about the Okay Area yet because were more I would say were more inclined to talk about what theyve seen and what they potentially like and dislike So this question this specifically now when we dont have many clients coming in if youre going to have a flow of leads the fresh leads were going to be doing the harder qualification But now we dont have to hard qualify them As much Zoom meetings that we will book from these aged leads the more training for yourself the practical training you will have Yeah makes sense
 
+### Speaker 8 · Speaker 8
 
-So this is a millisecond process thought process happening in me So usually if youre having a poll opener like this the person is already understand that you are gonna be trying to sell himself So he is becoming resistant to whatever you are trying to do right Instead of that we using a bit of curiosity on their end And in our script which we use for the age leads we specifically say its about request you made a while back
+Makes sense
 
-
-possibly looking to um invest in um Brussels Hema to buy real estate you have information what he was requesting about um Im just doing some updates in my system so I call to see have you have you found what youre looking for or you are still looking so this is the hook this question is the hook to understand if the person actually still searching or its completely dead lead who will never buy at least at that stage because thats thats not a call
-
-
-calling thats still one calling thats just people who actually requested sometimes but for us to identify the intent of the person we need to get to the question really quick there is no hi how are you there is no database ive got your number dont know no you pretend that you are some sort of customer care person youre not a salesperson even im just doing some updates in my system so i call to see have you find that youre looking for are you still looking
-
-
-You got me And then hes saying yes youre asking him about okay And whats your whats your kind of overall goal with this investment Are you And hes telling you oh well Ive been looking for X Y Z in ABC blah blah blah And then I start qualifying him Have you seen anything so far Which potentially for how long youve been looking Because we need to attack procrastination What is your potential budget If hes more
-
-
-where and give you reasonable answers on that question we dont ask them about the area yet um because were more i would say were more inclined to talk about what theyve seen and what they are potentially like and dislike so this question this specifically now when we dont have many clients coming in if youre going to have a flow of leads a fresh leads were going to be doing the harder qualification but now we dont have to hard qualify them as much
-
-
-much zoom meetings that we will book from these age leads the more training for yourself the practical training you will have yeah make sense
-
-### Speaker 2
-
-Yeah makes sense
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Lets jump into that
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-So okay Hi hi Savel Its Marco here How are you Oh my gosh Nice to meet you Okay
+So okay Hi hi Saville Its Marco here How are you Oh my gosh Okay
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-Who is this and what is this about
+Who is this What is this about
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Its about a request you made a while ago uh possibly looking into an investment in real estate markets in Dubai
+Its about the request you made a while ago possibly looking into an investment in real estate markets in Dubai
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-Mathematical question Im just doing here some updates in my system Its the same thing its just
+Okay
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Im sorry
+Marco question Im just doing here some updates in my system Its the same thing Its just
 
+### Speaker 8 · Speaker 8
 
 Okay okay I called to see if you found what you are looking for or if you are still looking
 
-### Speaker 1
+### Speaker 7 · Speaker 7
+
+Im still looking I have spoken to a few people but I dont really I have not decided yet what I really want I would say
+
+### Speaker 1 · Speaker 1
 
 Okay
 
+### Speaker 8 · Speaker 8
 
-Im still looking I have spoken to a few people but I dont really have not decided yet what I really want I would say okay
+Okay So um could we make a Zoom meeting or book a Zoom meeting to know about your requirements more
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Okay so could we make a Zoom meeting or book a Zoom call about two quick requirements more
+Marco too quick
 
-### Speaker 1
+### Speaker 8 · Speaker 8
 
-Marco Marco that is about two two quick too quick
+What
 
+### Speaker 1 · Speaker 1
 
-Marco too quick too quick you have to ask him okay I see and whats your opinion
+Too quick You have to ask him okay I see and whats your overall goal Whats your overall goal with this investment Hes going to tell you no
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Do do quick okay
+Thats what Im telling you Okay So not too quick And not too slow So okay
 
-### Speaker 1
-
-Whats your overall goal with this investment hes gonna tell you no thats what Im telling you
-
-### Speaker 2
-
-Im gonna tell you no thats what Im telling you first we cant okay so uh uh uh not too quick uh and not too slow so okay
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Whats your overall goal with this investment What do you know about the client You have to
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Yeah yeah okay
+Yeah yeah Okay
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Ask him a question
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-So uh what is the goal of your investment are you looking for a specific thing
+Uh so uh what is the goal of your investment Are you looking for a specific thing
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-So Im planning to make some passive income Ive been searching for some properties back in my place but because of the taxes I dont think Im going to make a good return out of it
+So Im planning to make some passive income Ive been searching for some properties back in my place but because of the taxes I I I dont think Im going to make a good return out of it So Im just searching for something where I could get maybe a good rental income out of it
 
-### Speaker 4
+### Speaker 8 · Speaker 8
 
-searching for something where I could get maybe a good rental income out of it
+So are you Are you Yeah yeah yeah So you are looking for short term rental and the higher ROI right
 
-### Speaker 2
+### Speaker 7 · Speaker 7
 
-So are you are you yeah yeah yeah so you are looking for short term rental and the higher ROI right
+Correct Some before that I dont think I know much about investing here in UAE because Ive spoken to a few people and everybody just makes some I dont know anything about these details Can you
 
-### Speaker 4
+### Speaker 8 · Speaker 8
 
-Correct theres some before
+Okay okay So so may I ask about the budget you are like looking forward to invest in here at first in the real estate marketing
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-I dont think I know much about investing here in UAE because Ive spoken to few people and everybody which is means the project I dont know anything about these details can you
+Im not very sure It depends upon what what I do get out of it So right now mate I have a little funds but I dont really know how investing works back here So if you could really tell me something more Okay
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Okay okay so so um and may I ask about uh the uh the budget you are like looking for to invest in here at first in in the real estate market and what
+So yeah yeah So okay I prefer if we can book an appointment Zoom meeting or to understand your investment criteria more and like recommend some projects in Dubai on Ras Al Khaimah It will be perfect What is the time will be suitable for you
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-depends upon what what I do get out of it so right now meet uh I have a little funds but I dont really know how investing works back here so
+today Maybe if you are available at maybe I think Ill be available at 7
 
-### Speaker 4
+### Speaker 8 · Speaker 8
 
-You could really tell me something more
+Okay 7 PM
 
-### Speaker 2
+### Speaker 7 · Speaker 7
 
-Okay so yeah yeah so okay I prefer if we can book a appointment Zoom meeting or to understand your investment criteria more and like recommend some projects
+Yeah
 
+### Speaker 8 · Speaker 8
 
-in Dubai and Ras Al Khaimah it will be perfect what is the time will be suitable for free
+in in your time right
 
-### Speaker 1
-
-If you are available at maybe I think Ill be available at seven
-
-### Speaker 2
-
-Okay 7 pm
-
-
-In in your time right
-
-### Speaker 1
+### Speaker 7 · Speaker 7
 
 Correct
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Okay so I will send you a booking a meeting link and we speak and recommend all the details
+Okay okay so I will send you a booking uh A meeting link and we speak uh and recommend you all the details
 
-### Speaker 4
+### Speaker 7 · Speaker 7
 
-Although can I say something though
+Yeah uh Olga can I say something though
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yes say say
+Yes say it say it
 
-### Speaker 4
+### Speaker 7 · Speaker 7
 
-Yeah first thing uh Marco you did not confirm where I am right now so you just said my time 7 pm
+Yeah first thing uh Marco you did not confirm where I am right now So you just said my time 7 PM so how are you so sure that Im in the right same place correct
 
-### Speaker 1
+### Speaker 8 · Speaker 8
 
-You did not confirm where I am right now So you just said my time 7 pm
+Oh yeah yeah because because Im Im calling you on your number so Uh so yeah it doesnt matter
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-So how are you so sure that Im in the right same place correct
+You dont assume this
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Oh yeah yeah because because Im Im calling you on your number so uh so yeah
+In US it will be like uh yeah
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-No you dont consume it
+never assume anything Doesnt mean anything really
 
-### Speaker 2
+### Speaker 7 · Speaker 7
 
-So you dont in US it will be like
+Uh also okay I kind of told you that you know I have some problems investing in my country You didnt even ask me like which place you did you try investing what was the difference between investing in my country and you know why are you trying to search for something in Dubai
 
-### Speaker 1
-
-No my partner never assumes anything
-
-### Speaker 2
-
-I think about that
-
-### Speaker 1
-
-Never assume anything doesnt mean anything really
-
-### Speaker 2
-
-Its okay
-
-### Speaker 4
-
-told you that you know I have some problems investing in my country you didnt even ask me like which place you did you try investing what was the difference between investing in my country and in why are you trying to search for something in Dubai
-
-### Speaker 1
+### Speaker 1 · Speaker 1
 
 Because thats gonna show you Marco the pain points of Saville
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Okay
+Hmm
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-And you have to ask the questions about the pain points of like for example I would ask you how do you how do you mean investment is in your country is not that great
+And okay and you have to ask the questions about the pain points of like for example I would ask you how do you how do you mean um investment is in your country is not that great

@@ -1,17 +1,22 @@
 ---
 id: zvlSWMvx5D8
 title: Online Session - Online session Review of Client Meeting Recording - Part 3
-url: https://www.youtube.com/watch?v=zvlSWMvx5D8
 date: '2025-10-29'
-duration: 00:19:54
-model: nvidia/canary-qwen-2.5b + sortformer
+url: https://www.youtube.com/watch?v=zvlSWMvx5D8
+description: ''
+author: ''
+model: universal-3-5-pro
 transcript: true
-speaker_count: 4
+speaker_count: 8
 speakers:
-  speaker_0: Speaker 1
-  speaker_1: Speaker 2
-  speaker_2: Speaker 3
-  speaker_3: Speaker 4
+  '1': Speaker 1
+  '2': Speaker 2
+  '3': Speaker 3
+  '4': Speaker 4
+  '5': Speaker 5
+  '6': Speaker 6
+  '7': Speaker 7
+  '8': Speaker 8
 ---
 
 
@@ -19,423 +24,334 @@ speakers:
 
 ## Transcript
 
-### Speaker 1
-
-Wow
-
-### Speaker 2
+### Speaker 1 · Speaker 1
 
 So its probably better to organize a PowerPoint presentation
 
-### Speaker 1
+### Speaker 2 · Speaker 2
 
-Oh right
+Okay which are the best best units Okay and they have the islands in the kitchen which is inspired by you know US in general US houses are having
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-Oh dear
+So now we just believe that magically somehow these beautiful pictures gonna do the job Okay I dont know for how long thats been going on
 
-### Speaker 3
+### Speaker 1 · Speaker 1
 
-How long does it take
+The
 
+### Speaker 2 · Speaker 2
 
-which are the best best units okay and they have the islands in the kitchen which is inspired by you know US in general US houses are having
+theme and the shapes that are being used um when it comes to the kitchen again there will be when it comes to the floor porcelain You have to get the bed you have to get the TV and maybe some sofa or chair and thats it you know like because it comes semi furnished And uh when it comes to the bathroom as I already said like its really high end materials They are using the German brand Walleroy and
 
-### Speaker 1
-
-Which are the best
-
-### Speaker 4
-
-So now we just believe that magically somehow this beautiful pictures gonna do the job
-
-
-Okay I dont know for how long thats been going on
-
-### Speaker 2
-
-The theme was
-
-### Speaker 3
-
-the designs and the shapes that are being used um when it comes to the kitchen again there will be when it comes to the floor porcelain you have to get the bed you have to get the tv and maybe some sofa or chair and thats it you know like because it comes semi furnished and uh when it comes to the bathroom as i already said like its really high in materials they are using the german brand waller and bosch
-
-### Speaker 2
+### Speaker 4 · Speaker 4
 
 Yes I have some questions but I dont think if you want to continue Ill do my questions on the end
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-Yeah its its okay you can ask no worries
+Yeah its okay you can ask no worries
 
-### Speaker 2
+### Speaker 4 · Speaker 4
 
-The condominium
+Condominio expenses how it works there The apartments cooling is individual or its Its for the entire building and we paid as a percentage of the condominium expenses How it works there Yeah
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-expenses how it works there the departments cooling is individual or its its for the entire building and we paid as a percent of the condominium expenses how it works there here
+shes going to be explaining about this guys which is actually a good thing that theyre asking about that But again dont forget they on the stage they really dont know
 
-### Speaker 4
+### Speaker 5 · Speaker 5
 
-So shes gonna be explaining about this guys which is actually a good thing that theyre asking about that But again dont forget they on the stage they really dont know
+Could be it depends Yes some projects gas some projects electricity isnt it
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-could be it depends some projects gas some projects electricity isnt it yes yes exactly exactly and uh also like from the amenities really like i i does this answer your question first do you have any anything additional
+Yes yes exactly exactly And also like from the amenities really like does this answer your question first Do you have any anything additional
 
+### Speaker 5 · Speaker 5
 
-This is the the expenses with the the
+This is the the expenses with the
 
-### Speaker 1
+### Speaker 4 · Speaker 4
 
-About the department its I think its okay
+about the department Its I think its okay
 
-### Speaker 3
+### Speaker 5 · Speaker 5
 
-Okay okay The the the the common part yes the residents
+The the the common part
 
-### Speaker 4
+### Speaker 2 · Speaker 2
 
-talking about the expenses guys if if you are talking about the expenses with the humans who decided to do its in a short term rental
+Yes
 
+### Speaker 5 · Speaker 5
 
-I would say the the thing the main thing is to make them understand that whatever they will be making out the the short term rental will cover with uh
+The residence
 
+### Speaker 3 · Speaker 3
 
-significant profit there
+Talking about the expenses guys if if you are talking about the expenses with the humans who decided to do it in a short term rental I would say the the thing the main thing is to make them understand that whatever they will be making out The short term rental will cover with significant profit
 
-### Speaker 3
+### Speaker 2 · Speaker 2
 
-However there is on the top of the price there is something which is called the buy land department the DLD fee And its basically 4 percent of the total property value that has to be paid to the government You can call it tax or whatsoever but they call it DLD fee which is registration fee And also like why is this
+However there is on the top of the price there is something which is called Dubai Land Department DLD fee And its basically 4 percent of the total property value that has to be paid to the government You can call it tax or whatsoever but they call it DLD fee which is registration fee And all Also like why is this
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Guys do you think at this point of time with having all of these details basically presenting for almost 20 minutes the project then were talking about the service fees now were talking about just talking this is what they see on the screen What do you think about the retention of the information that they got in the mind of the client What do you think was happening with the client Do you think everything is understood Oh yeah well its easy what do you think is happening
+Guys do you think at this point of time with having all of these details basically presenting for almost 20 minutes the project then were talking about the service fees now were talking about just talking this is what they see on the screen What do you think about the retention of the information that theyve got in the mind of the client What do you think was happening with the client Do you think everything is understood Oh yeah well its easy What do you think is happening
 
-### Speaker 2
+### Speaker 6 · Speaker 6
 
-the question was what are the expenses uh anticipated expenses i would assume per month uh but now shes a shes uh explaining the expenses but the one time fee of dld so shes not
+The question was what are the expenses anticipated expenses I would assume per month But now shes explaining the expenses but the one time fee of DLD So shes not
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-I I rule it out like there is lots of explanation of lots of different expenses so what do you think is happening with the client right now
+I rolled it out Like there is lots of explanation of lots of different expenses So what do you think is happening with the client right now Confused They think wow thats too much Its complicated I already forgot that and I already not sure about this The guy is trying to write things down As you can see hes looking down so hes handwriting something Would that be easier if one of the points of your presentation Would be look now I will show you how simple it is with understanding the service fees what you actually pay for or who pay for the service fees and all of the additional costs that you will have when youre buying the property And you jump into the slides and you based on the value of property which is 1 million you show them um lets say in dirhams in euros in USD Not only the percentage but the actual numbers Would that be easy for them to understand What will happen with the brain in that point The same information delivered in a different way Would they feel oh okay thats easy I understood it I can now make decision Yeah Would that be useful
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Confused
+Yes
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-They think wow thats too much Its complicated I already forgot that and I already am not sure about this The guy is trying to write things down as you can see He is looking down so he is handwriting something
+So theyre confused They uh you can keep talking But even more than that guys um the meeting is going for 31 minutes What I would do with this meeting because I want us to stop and then potentially we can review that further in another day because I dont want to overload you I would do the presentation of the map I will ask them additional questions about their past experience what theyve seen In terms of the project Yeah I will ask them Okay so whats the ideal scenario for you in terms of payment Whats the ideal scenario in terms of units Do you want it furnished unfurnished I will lay down all of these questions Potentially well give them the information about the service fees payment and the breakdown of the additional fees and set up a new meeting Where I will be presenting them different options Do you see how thats gonna be different guys Im gonna book a meeting from a meeting Im gonna keep them engaged and entertained I gave them the value They now understand more They now can go and digest something Im not gonna be able to sell them on this meeting which Bilmina will be trying to do going forward These people in this stage they will never whatever offer you will sell they will never buy it because again they dont feel that they have an understanding of the market and power to make decisions But this is a very good client guys Would you agree that this is a very good client
 
-
-Would that be easier if one of the points of your presentation would be look now I will show you how simple it is with understanding the service fees what you actually pay for or who pay for the service fees and all of the additional costs that you will have when you buy in the property And you jump into the slides and youre based on the value of property which is 1 million you show them lets say in Dhah
-
-
-in euros in USD not only the percentage but the actual numbers would that be easy for them to understand what will happen with the brain in that point with the same information delivered in a different way would they feel oh okay thats easy I understood it I can now make decision yeah would that be useful
-
-
-So theyre confused they you can keep talking but even more than that guys The meeting is going for 31 minutes
-
-
-What I would do with this meeting because I want us to stop and then potentially we can review that further in another day because I dont want to overload you
-
-
-I would do the presentation of the map
-
-
-I will ask them additional questions about their past experience what theyve seen in terms of the project Yeah I will ask them okay so whats the ideal scenario for you in terms of payment Whats the ideal scenario in terms of unit Do you want it furnished or unfurnished I will lie down all of these questions
-
-
-potentially will give them the information about the service fees payment and the breakdown of the additional fees and set up a new meeting where I will be presenting them different options Do you see how thats gonna be different guys
-
-
-Im gonna book a meeting from a meeting Im gonna keep them engaged an entity I gave them the value they now understand more they now can go and digest something Im not gonna be able to sell them on this meeting which Bilmina will be trying to do going forward
-
-
-These people in this stage they will never whatever offer you will sell they will never buy it
-
-
-Because again they dont feel that they have the
-
-
-and understanding of the market and power to make decisions
-
-
-But this is a very good client guys would you agree that this is a very good client
-
-### Speaker 2
+### Speaker 7 · Speaker 7
 
 Yeah theyre really nice
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
 Could you could you wish for a better client
 
+### Speaker 7 · Speaker 7
 
-They have budget husband and wife together both in business they they understand what youre talking about its not completely like out of this world for them they do have other people who would they will refer to you
+No
 
+### Speaker 3 · Speaker 3
 
-Oh my god I dont know what else you want to wish Theyre very friendly theyre not challenging theyre openly telling you stuff without you even asking them a question Can you imagine if we would ask them more questions how way more open they would be
+They have budget Husband and wife together both in business They they understand what youre talking about Its not completely like out of this world for them They do have other people who would they will refer to you Oh my God I dont know what what what else you want to wish Theyre very friendly Theyre not challenging Theyre openly telling you stuff without you even asking them a question Can you imagine if we would ask them more questions how way more open they would be Yeah So lets finish on this Which kind of insights have you got from this session Lets start with Volpe
 
+### Speaker 1 · Speaker 1
 
-So lets finish on this Which kind of insights have you got from this session Lets start with Walter
+Which is very whats important is to ask the right questions at the beginning because understanding what the client wants is gonna help us to find the right solution for them So just try to try to be more direct with the questions And the thing is handling the thing for me has been handling when they are avoiding to give you the answer So maybe its not the right question to ask And what are you intending to invest What are you intending to how much money do you want to invest They dont want to tell you that How will you do that
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-which is very whats important is to ask the right questions at the beginning because understanding
+This is not a good question to ask thats for sure If youre asking it wording it this way its not a good question to ask It sounds for them like youre trying to get the money out of them
 
+### Speaker 1 · Speaker 1
 
-what the client wants is going to help us to find the right solution for them so it just try to try to be more direct with the questions and uh the thing is handling the thing for me is being handling when they are avoiding to give you the answer so maybe its not the right question to ask and what are you intending to invest what are you intending to how much money do you want to invest they dont want to tell you that how would you do
+Yes So when we ask what is your budget That puts in the clients mind or in my mind that he wants the seller wants to know how much money I can spend so they can Get that money right away So how give me 3 ways of asking the same question Olga
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-This is not a good question to ask thats for sure if youre asking it wording it this way its not a good question to ask
+And in terms of funding what have you planned for something like this And in terms of funding funding not spending money funding Do you understand Funding What have you planned for something like this
 
-
-It sounds for them like youre trying to get the money out of them
-
-### Speaker 2
-
-Yes so when we ask what is your budget that puts in the clients mind or in my mind that he wants the seller wants to know how much money I can spend so they can get that money right away So how give me three ways of asking the same question Nogga
-
-### Speaker 4
-
-So I thought that maybe I
-
-
-And in terms of funding what have you planned for something like this And in terms of funding funding not spending money funding do you understand Funding what have you planned for something like this
-
-### Speaker 2
+### Speaker 1 · Speaker 1
 
 Another way
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Um what what do you kind of uh have or available or potentially can get access to in terms of you know funding so you can start making money with Dubai real estate
+What do you kind of uh have available or potentially can get access to in terms of you know funding so you can start making money with Dubai real estate This is a different way of asking question I connect the funding with what they want They want to start making money with Dubai real estate so I connect them finding the funding to them making money with To buy real estate
 
+### Speaker 1 · Speaker 1
 
-This is a different way of asking question I connect the funding with what they want They want to start making money with Dubai real estate So I connect them finding the funding to them making money with Dubai real estate
+Yes Yes Can you use another word instead of funding
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-Yes yes can you use another word instead of funding
+No Im using funding because this is not overused words Its not triggers sales resistance
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-No Im using fountain because this is not overused words its not triggers sales resistance
+Its just that uh we might get different responses depending on the nationality of the person And
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-Its just that uh we might get different responses depending on the nationality of the person and the language
+if I will get different responses I will say oh yeah sorry What I mean like the the total the the total investment that you had in mind for something like this Im not afraid that the person will not be able to understand me Its fine You know Im not afraid Okay thats fine Oh well what I mean yeah well sometimes Im just saying it in a weird way What what I mean is I diffuse it I I diffuse it with a joke with a laugh Its easy guys If you are so serious like this and you dont want to make mistake that thats gonna be hard for you
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-And if I will get different responses I will say oh yeah sorry What I mean like the total investment that you had in mind for something like this Im not afraid that the person will not be able to understand me Its fine You know Im not afraid Okay thats fine Oh well what I mean yeah well sometimes Im just saying it in a weird way What I mean is I diffuse it I diffuse it with a joke with a laugh Its easy guys If youre so serious
+Yes
 
+### Speaker 3 · Speaker 3
 
-like this or you dont want to make mistake that thats gonna be hard for you yes and that third way gonna be
+And that third way gonna be And
 
-### Speaker 2
+### Speaker 1 · Speaker 1
 
-Model then use the word one then
+both of them use the word funding
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Yeah and when you were planning to kind of start making money with Dubai real estate you see now I put what they want in the beginning not in the end Which type of you know kind of finance you were planning to put into that Finance You can use the word finance I dont use the word budget or money It triggers sales resistance full stop Okay If I have a very good connection with the client and client is in love with me I can use that But Im still kind of very conscious about saying these things
+Yeah And when when you are planning to kind of uh start making money with Dubai real estate you see now I put what they want in the beginning not in the end Uh which type of you know kind of uh finance you you were planning to put into that Finance You can use the word finance I dont use the word budget or money It triggers sales resistance full stop
 
+### Speaker 1 · Speaker 1
 
-For Hil you what was the most valuable
+Okay
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Maybe making sure not to overload with them overload information
+if I have a very good connection with the client and client is in love with me I can use that but Im still kind of very cautious about saying these things Yeah Rahil you what was the most valuable
 
+### Speaker 7 · Speaker 7
 
-Because you dont want to confuse them and make them feel like they dont have the capability to make an investment or you know the intuition So you just want to take things easy kind of just understand where their heads at where they are in the process What they want what they like what theyve seen already so far what they dont like
+I was saying maybe um making sure not to overload with them overload information onto them because you dont want to confuse them and make them feel like they dont have the capability to make an investment or you know the intuition So you just want to take things easy kind of just understand where their heads at where they are in the process what they want what they like what theyve seen already so far what they dont like
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
 Exactly yeah
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-And then based on that you can go back do your research come up with a couple of options and then
+Then based on that you can go back do your research come up with a couple of options and then come
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Thank you uh Manchamba
+back
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-So so far what Ive understood is that Im not saying Im graded qualification she hasnt done you know qualification in a you know in a proper way
+to them
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Perfect and when you havent done a proper qualification can you close the client
+Yeah Thank you Anchemba
 
-### Speaker 1
+### Speaker 8 · Speaker 8
 
-And when you come to
+So far what Ive understood is that Im not saying Ive graded qualification She hasnt done qualification in a proper way
 
+### Speaker 3 · Speaker 3
 
-No never Overall what I want to speak about todays topic is that asking about somebody your client or the prospect about their personal questions Like you said its all about tonality and the questions that you put depending on the situation or the conversation that you are having at the moment So if you feel like its not really ready to open up ask something I mean like I would if I were in that edgent suit if I were an edgent I would say
+Perfect And when you havent done a proper qualification can you close the client
 
+### Speaker 8 · Speaker 8
 
-Ask something somewhat less personal and then I will proceed Thats what I do
+No never Overall what I want to speak about todays topic is that Asking about somebody your client or the prospect about their personal questions Like you said its all about tonality and questions that you put depending on the situation or the conversation that you are having at the moment So if you feel like its not really really ready to open up ask something I mean like I would rather And if I were in that agents shoe if I were an agent I would ask something somewhat less personal and then I will proceed Thats what I do
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Perfect Okay Pranai I cannot see you but I know youre here right
+Perfect Okay Pranay I cannot see you but I know youre here right
 
-### Speaker 2
+### Speaker 6 · Speaker 6
 
-How how from your experience how how long uh should the first conversation be to book another I mean
+How from your experience how long should the first conversation be to book another I mean case to case it varies
 
+### Speaker 3 · Speaker 3
 
-It case to case it varies
+Qualification
 
+### Speaker 6 · Speaker 6
 
-Qualifications are a nice positive aspect the agent here is also very pleasing
+This is a nice positive aspect The agent here is also very pleasing Theres a lag sorry Uh the positive side here is the agent is pleasing has a pleasing personality So I mean I I look at the positive in this as well Yeah with with the data and uh thing I mean she can So how long do you think the first from your experience the first conversations over Zoom in person
 
-### Speaker 3
+### Speaker 3 · Speaker 3
 
-Its a nice one
+Its maximum 1 hour I would prefer to stay under 45 minutes And the way I will do that and its like look I really enjoy our chat I just have to jump on the next meeting What we can do now because I know you have a question about XYZ and ABC and uh for the next meeting I can uh prepare the proper calculation of several potential options that might match your requirements And then we will continue that lets say on Wednesday Would that be Wednesday going to be a good date for you Boom Thats it Simple efficient Book the next meeting immediately
 
-### Speaker 4
+### Speaker 8 · Speaker 8
 
-S
+Youre creating a demand for yourself Yeah
 
-### Speaker 2
+### Speaker 3 · Speaker 3
 
-theres a lag sorry uh the positive side here is the agent is pleasing the has a pleasing personality so i mean i i look at the positive in this as well yeah with with the data and uh thing i mean she can
+Yeah Yeah But I dont want to I dont want to stay and chitchat for 45 minutes I need to go pee Come on
 
+### Speaker 8 · Speaker 8
 
-So how long do you think the first from your experience the first conversations over Zoom person
+Yeah Thats thats how it should be done
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-maximum one hour I would prefer to stay under 45 minutes and the way I will do that and its like look I really enjoy our chat I just have to jump on the next meeting what we can do now because I know you have a question about XYZ and ABC and for the next meeting I can prepare the proper calculation of several potential options that might match your requirements and then we will continue that lets say on Wednesday would that be Wednesday
+Youre creating demand for yourself
 
+### Speaker 8 · Speaker 8
 
-day going to be a good date for you Boom thats it simple efficient book the next meeting immediately
+Yeah Yeah
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Youre creating a demand for yourself yeah
+Yeah
 
-### Speaker 4
+### Speaker 8 · Speaker 8
 
-Yeah but I dont want to I dont want to stay in chitchat for 45 minutes I need to go pee come on
+Thats it
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Yeah thats thats how we can do it
+Ask yourself why if thats your is that your problem Why you consider that asking about the budget Um is uncomfortable It might be again guys that was like this for me I dont know if its this for you or no Im just gonna give you my experience Because back in the days I was feeling that by me selling someone a property Im actually taking away their money um making them you know Making the things for myself So I was looking at sales as something that I do to people not with people Yeah If you feel like you you do this to people then your question about your budget in your mind gonna be triggered like youre doing bad things Oh Im such a greedy person I want to discover how much money they have to take all their money But realistically guys people are here To help to get help from you to make more money This is a money making business through the money If there will be if there will be a way to create wealth a passive income with investing zero money probably well all be doing this right But I dont think such exists So what youre doing you are helping people and thats what you have to tell yourself consistently Mm hmm Thats its its in your kind of a brain cell There has to be a shift in your brain cells and then you will be very much okay to ask about the budget because like yeah Im a doctor I want to help my patient I want him to be healthier Of course Im gonna ask him what does he eat in the morning and how is he is he going to poo every day or maybe once a week Oh its a comfortable question to ask but should I know that as a doctor Because if hes pooing once a week I believe its trouble Makes sense
 
-### Speaker 4
+### Speaker 8 · Speaker 8
 
-So you can demand for yourself yeah
+Yeah
 
-### Speaker 1
+### Speaker 3 · Speaker 3
 
-Yeah yeah
+If I will ask a random person about how hes going to the toilet theyre probably going to be not okay But this conversation is not like randomers This conversation is a human who came to be helped by you
 
-### Speaker 4
+### Speaker 8 · Speaker 8
 
-ask yourself why if thats your is that your problem why you consider that asking about the budget um is uncomfortable it might be again guys that was like this for me i dont know if its this for you or no im just going to give you my experience
+Yes Yeah just a quick one Im not trying to say that Im right Im just trying to brainstorm here So speaking about the budget some people really find it offensive So I what I do at them as of now is that I used to ask whats your budget What is this And blah blah blah But now Ive seen Ive encountered such people that will really get offensive when I ask about the budget So what I do is that just trying to get acquainted during the calls and just once I think just trying to let him open up And once I think this is the right moment I just instead of asking the budget I just ask Whats your price point You know I just depends it varies So not projecting whats the exact amount that youre going to spend just youre going to spend Im not asking in that way Whats the I mean like the range Yeah thats what I do
 
+### Speaker 3 · Speaker 3
 
-because back in the days I was feeling that by me selling someone a property Im actually taking away their money um making them you know making the things for myself so I was looking at sales as something that I do to people not with people yeah if you feel like you do this to people then your question about your budget in your mind going to be triggered like
+I love it Yeah fantastic Can be done in this way
 
+### Speaker 1 · Speaker 1
 
-youre doing bad things oh im such a greedy person i want to discover how much money they have to take all their money but realistically guys people are here to have to get help from you to make more money this is a money making business through the money if there will be if there will be a way to create wealth a passive income with investing zero money
+Yeah excellent
 
+### Speaker 3 · Speaker 3
 
-Probably well all be doing this right But I dont think such exists So what youre doing youre helping people And thats what you have to tell yourself consistently Thats its its in your kind of a brain cell There has to be a shift in your brain cells And then you will be very much okay to ask about the budget because like yeah Im a doctor I want to help my patient I want him to be healthier Of course Im going to ask him what does he eat in the morning and how is he is he going to poo every day or maybe once
+Whats the price Whats the price point you would consider
 
+### Speaker 8 · Speaker 8
 
-A week Oh its a comfortable question to ask but should I know theres a doctor Because if hes pooing once a week I believe its a trouble
+Yeah because some people when you ask about the price they really get offensive You never know he could be you know What background he has So depending on the circumstances you have to you know
 
+### Speaker 3 · Speaker 3
 
-Make sense
+Okay let me ask you this because Im just trying to recall a time in my career when I asked about the price the person got really upset and I cannot do that Out of 100 people you talk and ask them the question about the budget how many get really upset and defensive
 
-### Speaker 1
+### Speaker 8 · Speaker 8
 
-Yeah if I was asking
+I mean when I started particularly in this field I mean like probably about 60 to 70 of them they really get upset when I you know it could they could be a potential client but once I start asking the budget and I like kind of lose it So I just
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-If I were to ask a random person about how hes going to the toilet theyre probably going to be not okay but this conversation is not like randomers this conversation is a human who came to be helped by you
+Okay so Lanchenba what about Walter What is your experience How many got really upset out of 100
 
-### Speaker 1
+### Speaker 1 · Speaker 1
 
-Yeah just a quick one Im not trying to say that Im right Im just trying to brainstorm here So speaking about the budget some people really find it offensive So I what I do at the as of now is that I used to ask whats your budget What is this and blah blah blah But now Ive seen Ive encountered just people that will really get offensive when I ask about the budget So what I do is that just trying to get acquainted during the calls And just once I think just trying to let
+They avoid to give me the answer If you ask directly about the budget they dont give you the answer So
 
+### Speaker 3 · Speaker 3
 
-open up and once I think this is the right moment I just instead of asking the budget I just ask whats your price point you know I just depends it varies so not projecting whats the exact amount that youre gonna spend youre gonna spend Im not asking in that way whats the I mean like the range
+how many of those avoiding 100 percent of them avoiding
 
-### Speaker 4
+### Speaker 1 · Speaker 1
 
-Im projecting whats the exact amount
+I would say a good 70 percent
 
-### Speaker 1
+### Speaker 7 · Speaker 7
 
-Yeah thats what I thought
+I havent had that many conversations but Ive always used the word price point so its I havent had any like objection to saying that
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-I love it yeah fantastic can be done in this way
+Fantastic Well this just confirms that certain words and the way were saying it is triggering people not because of us its because of past experience that they had And budget is one of them Its better to avoid using it then altogether
 
-### Speaker 2
+### Speaker 8 · Speaker 8
 
-Excellent
+Yeah
 
-### Speaker 4
+### Speaker 3 · Speaker 3
 
-Whats the price whats the price point you will consider
+To get used to the finance funds price point Yeah Okay guys uh was a good one We stayed a little bit longer We will try to fix the issues I I hope this was recorded so we will post it in a group Yeah cool
 
-### Speaker 1
+### Speaker 8 · Speaker 8
 
-Because some people when you ask about the price they really get offensive You never know he could be you know what background he has So depending on the circumstances you have to you know
-
-### Speaker 4
-
-Okay let me ask you this because Im just trying to recall a time in my career when when I asked about the price the person got really upset and I cannot do that Out of hundred people you talk and ask them the question about the budget how many get really upset and defensive
-
-### Speaker 1
-
-I mean when I started uh particularly in this field I mean like well
-
-
-Probably about 60 to 70 of them they really get upset when I you know it could it could be a potential client but now once I start asking the budget and I I like kind of lose it so so I just you know
-
-### Speaker 4
-
-Okay what about Walter What did you experience How many got really upset out of hundred
-
-### Speaker 2
-
-uh they avoid to give you the answer if you ask directly about the budget they dont give you the answer so how many of those are
-
-### Speaker 4
-
-How many of those avoiding Hundred percent of them avoiding
-
-### Speaker 2
-
-I would say a good 70 percent I havent had that as that many conversations but Ive always used the word price point So its I havent had any
-
-
-objection to saying that
-
-### Speaker 4
-
-Fantastic Well this just confirms that certain words and the way were saying it is triggering people Not because of us its because of past experience that they had And budget is one of them
-
-
-Its better to avoid using it altogether Yeah To get used to the finance funds price point
-
-
-Yeah Okay guys was a good one We stayed a little bit longer We will try to fix the issues I hope this was recorded so we will post it in a group Yeah
+Yeah
